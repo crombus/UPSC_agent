@@ -1,0 +1,81 @@
+version: "3.9"
+
+services:
+
+  # ── Static Vector DB (read-only, baked into image) ─────────────────────────
+  vectordb-static:
+    image: chromadb/chroma:latest
+    volumes:
+      - ./vectordb/static:/chroma/chroma:ro    # read-only after ingestion
+    environment:
+      - CHROMA_SERVER_HOST=0.0.0.0
+      - CHROMA_SERVER_HTTP_PORT=8000
+    ports:
+      - "8000:8000"
+    networks:
+      - upsc-net
+
+  # ── Dynamic Vector DB (current affairs, updated daily) ─────────────────────
+  vectordb-dynamic:
+    image: chromadb/chroma:latest
+    volumes:
+      - ./vectordb/dynamic:/chroma/chroma
+    environment:
+      - CHROMA_SERVER_HOST=0.0.0.0
+      - CHROMA_SERVER_HTTP_PORT=8001
+    ports:
+      - "8001:8001"
+    networks:
+      - upsc-net
+
+  # ── Scraper (runs daily, updates dynamic DB) ────────────────────────────────
+  scraper:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.scraper
+    env_file: .env
+    volumes:
+      - ./vectordb/dynamic:/app/vectordb/dynamic
+      - ./config.yaml:/app/config.yaml:ro
+    depends_on:
+      - vectordb-dynamic
+    networks:
+      - upsc-net
+    restart: unless-stopped
+
+  # ── Agent API + CLI ─────────────────────────────────────────────────────────
+  agent:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.agent
+    env_file: .env
+    volumes:
+      - ./vectordb/static:/app/vectordb/static:ro
+      - ./vectordb/dynamic:/app/vectordb/dynamic:ro
+      - ./vectordb/progress.json:/app/vectordb/progress.json
+      - ./config.yaml:/app/config.yaml:ro
+    ports:
+      - "8080:8080"    # REST API
+    depends_on:
+      - vectordb-static
+      - vectordb-dynamic
+    networks:
+      - upsc-net
+    command: python cli.py --serve --port 8080
+
+  # ── Web UI (Streamlit) ──────────────────────────────────────────────────────
+  ui:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.ui
+    env_file: .env
+    ports:
+      - "8501:8501"    # Streamlit
+    depends_on:
+      - agent
+    networks:
+      - upsc-net
+
+networks:
+  upsc-net:
+    driver: bridge

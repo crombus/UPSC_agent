@@ -1,0 +1,51 @@
+# ─────────────────────────────────────────────
+#  UPSC Agent — User Configuration
+#  Edit this file to configure your setup.
+#  API keys go in .env (never in this file)
+# ─────────────────────────────────────────────
+
+model:
+  # Provider: openai | anthropic | azure | ollama | groq
+  provider: openai
+
+  # Tiered model routing
+  fast:    gpt-4.1-mini        # quizzes, MCQs, quick facts
+  balanced: gpt-4.1            # concept explanations
+  deep:    gpt-4.1             # mains answers, multi-topic reasoning
+
+  # Embedding model (Azure AI Foundry endpoint)
+  embedding: text-embedding-3-large
+
+embedding:
+  # local: uses sentence-transformers (no key needed)
+  # foundry: uses Azure AI Foundry endpoint
+  # openai: uses OpenAI API directly
+  provider: foundry
+  chunk_size: 500
+  chunk_overlap: 50
+
+sources:
+  pib: true                    # pib.gov.in — press releases
+  mea: true                    # mea.gov.in — foreign affairs
+  drishti_ias: false           # replaced by vajiram
+  vajiram: true                # vajiramandravi.com — UPSC prelims CA
+  insights_ias: false          # insightsonindia.com
+  vision_ias: true             # visionias.in — daily current affairs
+  custom_urls: []              # add any extra URLs here
+
+scraper:
+  schedule: "0 6 * * *"       # runs daily at 6am
+  max_articles_per_source: 20
+  lookback_days: 7
+
+teaching:
+  mode: socratic               # socratic | direct | quiz-only
+  language: english            # english | hinglish
+  difficulty: upsc-prelims     # upsc-prelims | upsc-mains | upsc-interview
+  force_quiz_after_explanation: true
+  track_weak_topics: true
+
+interface:
+  cli: true
+  api_port: 8080
+  ui_port: 8501

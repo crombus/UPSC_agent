@@ -1,0 +1,26 @@
+# ── Agent container ───────────────────────────────────────────────
+FROM python:3.12-slim
+
+WORKDIR /app
+
+# System deps
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# Python deps
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# App code
+COPY agent/     ./agent/
+COPY api/       ./api/
+COPY cli.py     .
+COPY config.yaml .
+
+# Static DB is mounted at runtime (read-only volume)
+# Dynamic DB is mounted at runtime
+
+EXPOSE 8080
+
+CMD ["python", "cli.py", "--serve", "--port", "8080"]

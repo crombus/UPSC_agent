@@ -1,0 +1,33 @@
+# ---- Secrets ----
+.env
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+
+# ---- Vector DB (huge, ~6 GB) ----
+vectordb/
+
+# ---- Copyrighted source material & large extractions (do NOT publish) ----
+books/
+knowledge-export/
+newspapers/
+ingestion/*.txt
+ingestion/ocr_cache/
+ingestion/**/*.txt
+
+# ---- Logs & personal attempt images ----
+logs/
+attempts/
+
+# ---- PDFs: ignore source book PDFs, but KEEP generated notes/exam PDFs ----
+*.pdf
+!notes/**/*.pdf
+!exams/**/*.pdf

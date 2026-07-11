@@ -1,0 +1,17 @@
+# ── Scraper container ─────────────────────────────────────────────
+FROM python:3.12-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY scraper/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY scraper/   ./scraper/
+COPY config.yaml .
+
+# Run scraper on schedule (daily at 6am)
+CMD ["python", "-c", "import schedule, time; from scraper.scraper import run_scraper; schedule.every().day.at('06:00').do(run_scraper); run_scraper(); [time.sleep(60) or schedule.run_pending() for _ in iter(int, 1)]"]

@@ -1,0 +1,51 @@
+Easy Commands You Can Use Later
+
+For Saturday weekly revision:
+
+Create my weekly UPSC revision bundle for this week.
+
+Use Sunday-to-Saturday, Asia/Kolkata.
+
+Inputs:
+I am uploading my studied PDFs/notes.
+
+Outputs:
+1. Prelims GS1 Question Paper PDF
+2. Prelims CSAT Question Paper PDF
+3. Mains + Interview Question Paper PDF
+4. Answer Key + Explanations PDF
+5. Revision Notebook PDF
+
+Default counts:
+50 GS1 MCQs
+20 CSAT MCQs
+10 Mains questions
+8 Interview questions
+
+Difficulty:
+UPSC standard to slightly above UPSC standard.
+
+For a monthly bundle:
+
+Create my UPSC revision bundle for May 2026.
+
+Outputs:
+1. Prelims GS1 Question Paper PDF
+2. Prelims CSAT Question Paper PDF
+3. Mains + Interview Question Paper PDF
+4. Answer Key + Explanations PDF
+5. Revision Notebook PDF
+
+Use source verification where available. If I upload PDFs, treat them as the primary source base.
+
+For answer evaluation from paper screenshots:
+
+Evaluate my attempted answers.
+
+I am uploading screenshots/photos or a PDF containing screenshots of my answer sheet.
+
+Use:
+- GS1: +2, -0.33, 0 for unattempted
+- CSAT: +2.5, -0.83, 0 for unattempted
+
+If any answer is unclear, mark it Unclear and ask me to confirm before final scoring.
