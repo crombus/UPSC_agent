@@ -50,6 +50,24 @@ land alienation, and consultation before land acquisition/mining — the corners
 
 ---
 
+
+## ➕ Social Audit (high-yield gap)
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- ✅ Laxmikant frames Gram Sabha as the participatory-democracy core of Panchayati Raj.
+- 📰 Sec 17 of MGNREGA mandates Gram Sabha monitoring and regular social audits of works within the Gram Panchayat.
+- ⚠️ Social audit means community verification of records, expenditure and outcomes — not merely departmental inspection.
+- 📰 Meghalaya enacted the Meghalaya Community Participation and Public Services Social Audit Act, 2017, widely cited as the first state social-audit law.
+
+| Feature | Social audit significance |
+|---|---|
+| Forum | Gram Sabha / community platform |
+| Evidence | Muster rolls, bills, vouchers, measurement books, beneficiary records |
+| Outcome | Transparency, recovery/correction, accountability of implementing agencies |
+
+> 🔑 Trap: Social audit is participatory accountability by beneficiaries/citizens; it is not the CAG audit of accounts.
+
 ## UPSC Traps
 - ❌ 73rd Amendment came into force in 1992 → **passed 1992, in force 24 April 1993**.
 - ❌ Eleventh Schedule has 29 items for municipalities → **29 for panchayats** (Twelfth Schedule = 18 for

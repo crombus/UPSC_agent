@@ -78,6 +78,23 @@ retroactive to 1949). 📰 Bench (**CJI Sanjiv Khanna & Justice Sanjay Kumar**) 
 
 ---
 
+
+## ➕ Constitutional Morality (PYQ — Mains 2025 GS-2)
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- ✅ Laxmikant anchors the Preamble in justice, liberty, equality and fraternity — the value-base constitutional morality protects.
+- ⚠️ Ambedkar used constitutional morality to mean disciplined adherence to constitutional methods, institutions and values.
+- 📰 In *Sabarimala* (2018) and *Navtej Johar* (2018), the Court preferred constitutional values over exclusionary social/majoritarian morality.
+- 📰 In the Delhi-services line of cases, constitutional morality is linked to democratic accountability and federal balance.
+
+| Axis | Constitutional morality | Social / majoritarian morality |
+|---|---|---|
+| Source | Constitution: dignity, equality, liberty, fraternity | Custom, religious practice, popular opinion |
+| Court's role | Enforce rights and limits on power | Cannot override guaranteed rights |
+
+> 🔑 Trap: Constitutional morality is not judges' personal morality; it is morality derived from constitutional text, structure and values.
+
 ## UPSC Traps
 - ❌ Preamble was part of the Constitution from 1950 → *Berubari* (1960) said **not a part**;
   *Kesavananda* (1973) made it a part.

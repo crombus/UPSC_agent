@@ -50,6 +50,42 @@ resolution by a **2/3 majority of members present & voting** (a **federal safegu
 
 ---
 
+
+## ➕ Citizens' Charter (high-yield gap)
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- ✅ Laxmikant/ARC material supports Citizens' Charters by service-providing departments to state citizen entitlements.
+- 📰 2nd ARC's citizen-centric administration report backed the **Sevottam** model for service standards, grievance redress and delivery enablers.
+- ⚠️ A Citizens' Charter publicly states services, timelines, standards, grievance channels and responsible officials.
+- 📰 It is generally **non-justiciable** unless a separate law/service-guarantee statute makes a promise enforceable.
+
+| Sevottam component | Meaning |
+|---|---|
+| Citizen's Charter | Standards and commitments made visible |
+| Grievance redress | Complaint handling and accountability loop |
+| Service delivery capability | Process, staff and infrastructure improvements |
+
+> 🔑 Trap: A Charter is an administrative accountability tool, not automatically a legally enforceable right.
+
+## ➕ e-Governance (PYQ)
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- ✅ Laxmikant links responsive administration to transparency through technology and citizen participation.
+- ⚠️ e-Governance is use of ICT to make government services faster, transparent, integrated and citizen-centric.
+- 📰 Digital India, DBT, UMANG and DigiLocker are verified live examples of service delivery and document/platform integration.
+- 📰 2nd ARC treated e-Governance as a governance reform, not merely computerisation.
+
+| Type | Flow | Examples |
+|---|---|---|
+| ⚠️ G2C | Government → Citizen | DBT, DigiLocker, UMANG, Passport Seva |
+| ⚠️ G2B | Government → Business | GST portal, e-tendering, company filings |
+| ⚠️ G2G | Government → Government | e-Office, data sharing between departments |
+| ⚠️ G2E | Government → Employee | payroll, service records, attendance/HR systems |
+
+> 🔑 Trap: e-Governance is process re-engineering + accountability; digitising a bad manual process is not enough.
+
 ## UPSC Traps
 - ❌ Art 312 needs a Lok Sabha resolution → it is the **RAJYA SABHA** (2/3 present & voting) — a state-protecting device.
 - ❌ Art 311 safeguards apply to defence personnel → **only civilians** (civil services/civil posts); **defence

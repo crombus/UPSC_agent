@@ -1,0 +1,52 @@
+# Ancient Indian History — Knowledge Base Index
+
+> **Subject:** History → **Ancient Indian History** · **GS Paper:** GS-I (Ancient India, Art & Culture) + Prelims.
+> **Spine:** R.S. Sharma, *India's Ancient Past* (chapter sequence). **Tiers:** `basic/` (RS Sharma) · `advanced/` (Upinder Singh + CA).
+> **Start here:** `00_Master-Chronology.md` — the full timeline that stitches every topic together.
+> *Sibling folders (to be added): `Medieval-Indian-History`, `Modern-Indian-History`.*
+
+---
+
+## How this folder works
+
+- **Two tiers per topic.** `basic/NN` = R.S. Sharma foundation (must-do). `advanced/NN` = Upinder Singh depth + historiographical debates + current affairs. Same file number = same topic.
+- **Chronology-first.** Read `00_Master-Chronology.md` once, then each topic hangs on it. Every topic file also has its own `## Mini-timeline`.
+- **Tagging:** ✅ = from the source book · ⚠️ = inference/standard knowledge · 📰 = current affairs.
+- **Answer discipline:** questions are answered *strictly from these md files*; if a concept is absent it is a gap to be added, not guessed.
+
+## Topic map (RS Sharma chapter → file)
+
+| # | Topic | RS Sharma Ch. |
+|---|---|---|
+| 01 | Importance & Historiography of Ancient India | 1–2 |
+| 02 | Sources of Ancient Indian History | 3, 6 |
+| 03 | Geographical Setting & Ecology | 4–5 |
+| 04 | The Stone Age: Palaeolithic & Mesolithic | 7 |
+| 05 | Neolithic & Chalcolithic Cultures | 8–9 |
+| 06 | The Harappan Civilization | 10 |
+| 07 | The Aryan Problem & Identity of Aryan Culture | 11 |
+| 08 | The Rig Vedic Age (Early Vedic) | 12 |
+| 09 | The Later Vedic Phase | 13 |
+| 10 | Jainism and Buddhism | 14 |
+| 11 | Mahajanapadas & Rise of Magadha | 15 |
+| 12 | Iranian & Macedonian Invasions | 16 |
+| 13 | State & Varna Society in the Age of the Buddha | 17 |
+| 14 | The Mauryan Empire | 18 |
+| 15 | Significance & Decline of Mauryan Rule | 19 |
+| 16 | Central Asian Contacts: Indo-Greeks, Shakas, Kushanas | 20 |
+| 17 | The Satavahanas & the Deccan | 21 |
+| 18 | The Sangam Age & the Deep South | 22 |
+| 19 | Crafts, Commerce & Urban Growth (200 BC–AD 250) | 23 |
+| 20 | The Gupta Empire | 24 |
+| 21 | Life & Culture in the Gupta Age | 25 |
+| 22 | Post-Gupta India: Harsha & Eastern India | 26–27 |
+| 23 | Peninsular India: Pallavas, Chalukyas & Brahmanization | 28 |
+| 24 | Developments in Philosophy | 29 |
+| 25 | Cultural Interaction with Asian Countries | 30 |
+| 26 | From Ancient to Medieval: Social Change & Legacy | 31–33 |
+
+## Sources
+
+- **Basic (must-do):** R.S. Sharma, *India's Ancient Past* (Oxford).
+- **Advanced:** Upinder Singh, *A History of Ancient & Early Medieval India: From the Stone Age to the 12th Century*.
+- **Current affairs:** ASI/ICHR/museum/UNESCO updates via web search (tagged 📰).

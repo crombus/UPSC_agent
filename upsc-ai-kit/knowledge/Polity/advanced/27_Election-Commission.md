@@ -80,6 +80,25 @@ Code of Conduct, cancel rigged polls) · **Advisory** (advise President/Governor
 
 ---
 
+
+## ➕ Model Code of Conduct (MCC)
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- ✅ Laxmikant notes the MCC was agreed to by political parties in 1968 and is linked to ECI election supervision.
+- 📰 MCC is **non-statutory**; it operates through ECI's Art 324 powers and political consensus.
+- 📰 It comes into force from the announcement of the election schedule and lasts till completion of the poll process.
+- 📰 Some violations overlap with enforceable law — e.g., RPA 1951 corrupt practices/silence period and IPC offences.
+- ⚠️ ECI can censure, advise, order transfers or direct prosecution where a statutory offence is made out.
+
+| MCC area | Legal character |
+|---|---|
+| Hate speech, bribery, communal appeals | May attract RPA/IPC provisions |
+| Official machinery, ads, transfers, new schemes | Mostly administrative ECI enforcement |
+| General conduct of parties/candidates | Non-statutory code backed by Art 324 supervision |
+
+> 🔑 Trap: MCC is not a statute, but parts of the same conduct may still be punishable under RPA/IPC.
+
 ## UPSC Traps
 - ❌ EC conducts panchayat/municipality polls → those are the **State Election Commission's**.
 - ❌ ECs can be removed only on a Parliament resolution like the CEC → **other ECs** are removed on the **CEC's

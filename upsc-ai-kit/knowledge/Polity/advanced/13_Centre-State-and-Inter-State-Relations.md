@@ -124,6 +124,23 @@ population-2011 vs 1971 criteria (southern states' concern).
 📰 ⚠️ **Governor withholding assent to state bills** (TN, Kerala, Punjab SC cases 2023-24) — Art 200/254
 & administrative-relations flashpoint.
 
+
+## ➕ Legislative Doctrines (high-yield gap)
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- ✅ Laxmikant lists Art 254 as the rule for inconsistency between Parliamentary and State laws.
+- ⚠️ These doctrines protect federal balance by testing **substance**, not merely labels used by legislatures.
+- 📰 Courts use them to decide legislative competence under the Seventh Schedule and conflicts on Concurrent List subjects.
+
+| Doctrine | Core test | Result / Article link |
+|---|---|---|
+| ⚠️ Pith and Substance | What is the true nature and dominant purpose of the law? | Incidental encroachment into another list does not invalidate it. |
+| ⚠️ Colourable Legislation | Is the legislature doing indirectly what it cannot do directly? | Law is invalid if the real substance is beyond competence. |
+| ✅/📰 Repugnancy | Do Union and State laws conflict on a Concurrent List matter? | Art 254: Union law prevails; Presidential-assented State law may prevail in that State until Parliament overrides. |
+
+> 🔑 Trap: Repugnancy is mainly a **Concurrent List** conflict rule; pith-and-substance is a competence test across lists.
+
 ## UPSC Traps
 - ❌ Residuary powers rest with states → with the **Centre** (unlike USA).
 - ❌ 42nd Amdt shifted subjects Concurrent→State → it was **State→Concurrent** (5 subjects).

@@ -53,6 +53,26 @@
 
 ---
 
+
+## ➕ PMLA & the Enforcement Directorate (ED)
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- ✅ Laxmikant references the Prevention of Money Laundering Act, 2002 in the anti-corruption/vigilance ecosystem.
+- 📰 PMLA, 2002 targets laundering of proceeds of crime; ED investigates, attaches property, searches, seizes and arrests under the Act.
+- 📰 In *Vijay Madanlal Choudhary v. Union of India* (2022), the Supreme Court upheld major ED/PMLA powers including arrest, attachment, search/seizure and twin bail conditions.
+- 📰 The Court treated the ECIR as an internal ED document, not equivalent to an FIR for automatic supply.
+- ⚠️ ED's expanding role creates a recurring Mains theme: anti-money-laundering effectiveness vs civil liberties/federal misuse concerns.
+
+| PMLA/ED area | UPSC takeaway |
+|---|---|
+| Attachment | Property linked to proceeds of crime can be provisionally attached subject to statutory process. |
+| Arrest/search/seizure | Upheld in 2022 within PMLA's special framework. |
+| Bail | Twin conditions under Sec 45 make bail more stringent. |
+| Oversight debate | Due process, ECIR disclosure and political misuse remain contested. |
+
+> 🔑 Trap: ED is not the CBI; PMLA is a special money-laundering law with a distinct procedure.
+
 ## UPSC Traps
 - ❌ CVC/CBI are constitutional → **CVC statutory (2003); CBI not even statutory (DSPE Act 1946)**.
 - ❌ CVC is a single-member body → **multi-member** (CVC + up to **2** Vigilance Commissioners).

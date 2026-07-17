@@ -245,6 +245,58 @@ sentences. Martial law = "military rule" (undefined; from English common law); n
 
 ---
 
+
+## ➕ Landmark FR Judgments (PYQ)
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- ✅ Laxmikant anchors FR adjudication in Art 13 judicial review and the Supreme Court/High Court writ framework under Arts 32/226.
+- 📰 These cases expand FRs through dignity, equality, speech, privacy/autonomy and workplace safety rather than creating new textual Articles.
+- ⚠️ UPSC usually tests the **Article + holding** pair, not long facts.
+
+| Case | Year | Article(s) | Holding |
+|---|---:|---|---|
+| 📰 *Maneka Gandhi v. Union of India* | 1978 | Arts 14, 19, 21 | Art 21 procedure must be just, fair and reasonable; "golden triangle" links equality, freedoms and liberty. |
+| 📰 *Indian Young Lawyers Association* (Sabarimala) | 2018 | Arts 14, 25, 26 | Exclusion of women was tested against equality, essential religious practice and constitutional morality. |
+| 📰 *Shreya Singhal v. Union of India* | 2015 | Art 19(1)(a), 19(2) | Struck down Sec 66A, IT Act as vague/overbroad and outside reasonable speech restrictions. |
+| 📰 *Navtej Singh Johar v. Union of India* | 2018 | Arts 14, 15, 21 | Read down Sec 377 IPC for consensual adult same-sex relations; dignity/autonomy protected. |
+| 📰 *Vishaka v. State of Rajasthan* | 1997 | Arts 14, 19(1)(g), 21 | Laid workplace sexual-harassment guidelines until legislation; dignity and safe work linked to FRs. |
+
+> 🔑 Trap: Do not call these DPSP cases — each is an enforceable Fundamental Rights expansion/interpretation.
+
+## ➕ Doctrine of Eclipse (Art 13)
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- ✅ Art 13 makes pre-Constitution laws void **to the extent of inconsistency** with Fundamental Rights.
+- 📰 Under *Bhikaji Narain Dhakras* (1955), an inconsistent pre-Constitution law is not dead; it is dormant/eclipsed.
+- ⚠️ If the relevant FR restriction is removed/amended, the eclipse disappears and the old law can revive without fresh enactment.
+- ⚠️ Post-Constitution laws violating FRs are generally void ab initio; revival logic is mainly for pre-Constitution laws.
+
+| Point | Pre-Constitution law | Post-Constitution law |
+|---|---|---|
+| Effect of FR conflict | Dormant/eclipsed to inconsistency | Void to inconsistency |
+| Revival | Possible if FR shadow removed | Not automatic |
+
+> 🔑 Trap: Eclipse means "temporarily unenforceable", not "repealed".
+
+## ➕ Places of Worship Act, 1991
+
+> ✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.
+
+- 📰 The Act freezes the religious character of every place of worship as it existed on **15 August 1947**.
+- 📰 Sec 5 excludes the Ayodhya Ram Janmabhoomi-Babri Masjid dispute from the Act's operation.
+- ⚠️ It operationalises secularism by discouraging historical-religious title disputes from becoming present-day litigation.
+- 📰 As of July 2026, constitutional challenges are pending before the Supreme Court; the Act has not been struck down.
+
+| Provision | UPSC takeaway |
+|---|---|
+| Sec 3 | Bars conversion of place of worship from one religious denomination/section to another. |
+| Sec 4 | Maintains religious character as on 15 Aug 1947; pending suits abate subject to exceptions. |
+| Sec 5 | Ayodhya dispute exempt. |
+
+> 🔑 Trap: Ayodhya is an express statutory exception; do not generalise the 2019 Ayodhya outcome to other sites.
+
 ## UPSC Traps
 - ❌ Art 14/20/21/23/24/25 are citizen-only → they apply to **all persons**; **Art 15,16,19,29,30**
   are citizen-only.

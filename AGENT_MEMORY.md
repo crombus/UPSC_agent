@@ -130,6 +130,22 @@ Internal Security · Disaster Management · Current Affairs
 - Teach **visually first** (≥1 diagram/table/flowchart per subtopic), text second.
 - One subtopic per response; never auto-advance — wait for a navigation command.
 
+### 5a. AI-kit knowledge files (output format & location — IMPORTANT)
+
+- Subject study notes are authored as **Markdown `.md`**, saved under
+  `upsc-ai-kit/knowledge/<Subject>/basic/` and `upsc-ai-kit/knowledge/<Subject>/advanced/`.
+  **NOT** PDFs — these are portable knowledge for **Claude / Gemini / OpenAI**, consumed alongside
+  `system-prompt.md` + `skills/` + `tools/`. (PDFs in `notes/` are a separate, optional deliverable.)
+- Format = the Polity kit style: `#` title with `— MUST-DO`/`— ADVANCED`, blockquote header
+  (Subject · Tier · GS Paper · "Grounded in" · ✅/⚠️/📰 legend · `*Companion:*`), numbered `##`
+  sections, Markdown tables, `> 🔑 Trap:` callouts, **Must-Know Facts**, **UPSC Traps**,
+  **📰 Current link**, **Mains angles**. File naming `NN_Topic-Name.md`.
+- **Accuracy & completeness are paramount; never drop or fabricate facts. Must-Do tier is the
+  priority and must be exhaustive.**
+- **Geography tier mapping:** `basic/` (Must-Do) = **Majid Husain "Indian & World Geography" + GC
+  Leong + CA anchor**; `advanced/` = **Dr. D.R. Khullar + Majid Husain India geography + extra
+  distinct CA**. **Both tiers must carry a current-affairs anchor.** (Khullar = optional-level depth.)
+
 ---
 
 ## 6. Study tracking (dates & methods)

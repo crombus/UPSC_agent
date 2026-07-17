@@ -1,0 +1,56 @@
+# Modern Indian History — Knowledge Base Index
+
+> **Subject:** History → **Modern Indian History** · **GS Paper:** GS-I (Modern Indian History c. 1750s–1947, Freedom Struggle) + Prelims.
+> **Spine:** Bipin Chandra — basic tier from *Modern India* (concise, 15-chapter NCERT-style survey); advanced tier from *India's Struggle for Independence* (freedom-struggle depth + historiography).
+> **Start here:** `00_Master-Chronology.md` — the full modern timeline (Mughal decline → 1947 → integration) that stitches every topic together.
+> *Sibling folders: `Ancient-Indian-History` (done), `Medieval-Indian-History` (done), `Modern-Indian-History` (this).*
+
+---
+
+## How this folder works
+
+- **Two tiers per topic.** `basic/NN` = concise Bipin Chandra foundation (must-do). `advanced/NN` = detailed depth from *India's Struggle for Independence* + historiography + current affairs. Same file number = same topic.
+- **Chronology-first.** Read `00_Master-Chronology.md` once, then each topic hangs on it. Every topic file also has its own `## Mini-timeline`.
+- **Tagging:** ✅ = from the source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
+- **Answer discipline:** questions are answered *strictly from these md files*; if a concept is absent it is a gap to be added, not guessed.
+
+## Topic map
+
+| # | Topic | Era |
+|---|---|---|
+| 01 | Decline of the Mughal Empire (1707–1740s) | 18th-century transition |
+| 02 | Indian States & Society in the 18th Century (Marathas, Sikhs, successor states) | 18th-century transition |
+| 03 | The Beginnings of European Settlements (Portuguese → Dutch → English → French) | Company era |
+| 04 | The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government) | Company era |
+| 05 | British Territorial Expansion (Mysore, Marathas, Sikhs; Subsidiary Alliance & Lapse) | Company era |
+| 06 | Structure of Government & Constitutional Development, 1757–1858 | Company era |
+| 07 | Economic Impact of British Rule (Drain, deindustrialisation, land-revenue, famines) | Colonial economy |
+| 08 | Administrative Organisation (Civil Services, Army, Police, Judiciary, Rule of Law) | Colonial state |
+| 09 | Social & Cultural Policy — Education, the Press, State & Society | Colonial state |
+| 10 | Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) | Reform |
+| 11 | The Revolt of 1857 | Revolt |
+| 12 | Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts) | Crown rule |
+| 13 | India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier) | Frontier policy |
+| 14 | Foundation of the INC & the Moderate Phase (1885–1905) | Nationalism I |
+| 15 | Militant Nationalism, Swadeshi & the Partition of Bengal (1905–1908) | Nationalism II |
+| 16 | Revolutionary Nationalism (Phase I, 1907–1917) | Nationalism II |
+| 17 | Growth of Communalism & the Muslim League | Nationalism II |
+| 18 | First World War, the Home Rule League & the Lucknow Pact (1914–1918) | Nationalism II |
+| 19 | Gandhi's Rise: Champaran, Kheda, Ahmedabad; Rowlatt & Jallianwala Bagh (1917–1919) | Gandhian era |
+| 20 | Non-Cooperation & the Khilafat Movement (1919–1922) | Gandhian era |
+| 21 | Swarajists, Constructive Work & Revolutionaries of the 1920s (HSRA, Bhagat Singh) | Gandhian era |
+| 22 | Simon Commission, Nehru Report, Civil Disobedience & Round Table Conferences (1927–1934) | Gandhian era |
+| 23 | Left, Peasant, Workers' & States' Peoples' Movements (1930s) | Mass politics |
+| 24 | The Government of India Act 1935 & the Congress Ministries (1937–1939) | Constitutional |
+| 25 | Second World War, the Cripps Mission & Quit India (1939–1942) | Endgame |
+| 26 | Post-War Upsurge: INA, RIN Mutiny & the Cabinet Mission (1945–1946) | Endgame |
+| 27 | Independence & Partition (1946–1947) | Endgame |
+| 28 | Integration of the Princely States & the Making of the Republic | Nation-building |
+
+## Source books
+
+- **Basic (must-do):** Bipin Chandra, *Modern India* (concise single-volume survey; 15 chapters, Mughal decline → Struggle for Swaraj).
+- **Advanced (Freedom Struggle, 14–28):** Bipin Chandra, Mridula Mukherjee, Aditya Mukherjee, K.N. Panikkar, Sucheta Mahajan, *India's Struggle for Independence, 1857–1947*.
+- **Gold-standard reference files:** `basic/01_Decline-of-the-Mughal-Empire.md` + `advanced/01_Decline-of-the-Mughal-Empire.md` (house style).
+
+> Note: *From Plassey to Partition* (Sekhar Bandyopadhyay, present in the source library) is a supplementary modern-history text and may be cross-referenced but the KB spine is Bipin Chandra.
