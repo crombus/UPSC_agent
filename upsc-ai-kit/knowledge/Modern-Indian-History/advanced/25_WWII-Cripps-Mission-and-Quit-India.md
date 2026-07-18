@@ -1,7 +1,7 @@
 # Second World War, the Cripps Mission & Quit India — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, Mridula Mukherjee, Aditya Mukherjee, K.N. Panikkar, Sucheta Mahajan, *India's Struggle for Independence, 1857–1947* — Chapter XV, with the debate on Quit India.
+> **Grounded in:** Bipin Chandra, Mridula Mukherjee, Aditya Mukherjee, K.N. Panikkar, Sucheta Mahajan, *India's Struggle for Independence, 1857–1947* — the Second World War, the Cripps Mission and Quit India (1939–42), with the debate on Quit India.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/25_WWII-Cripps-Mission-and-Quit-India.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -50,7 +50,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Congress ministries and provincial autonomy → `advanced/24_The-Government-of-India-Act-1935-and-Congress-Ministries.md`.
+> **Study link:** ✅ Congress ministries and provincial autonomy → `advanced/24_Government-of-India-Act-1935-and-Congress-Ministries.md`.
 > **Study link:** ✅ Post-war armed-forces disaffection and INA trials → `advanced/26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md`.
 > **Study link:** ⚠️ Compare mass politics across NCM, CDM and Quit India → `advanced/20`, `advanced/22`, `advanced/25`.
 

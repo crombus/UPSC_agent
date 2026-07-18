@@ -50,7 +50,7 @@
 ## 3. Study links
 
 > **Study link:** ✅ Colonial economic critique is anchored in `advanced/07_Economic-Impact-of-British-Rule.md`.
-> **Study link:** ✅ Post-1858 constitutional setting is anchored in `advanced/12_Administrative-and-Constitutional-Changes-after-1858.md`.
+> **Study link:** ✅ Post-1858 constitutional setting is anchored in `advanced/12_Administrative-Changes-After-1858.md`.
 > **Study link:** ✅ Reaction against Moderate methods leads to `advanced/15_Militant-Nationalism-and-Swadeshi.md`.
 > **Study link:** ⚠️ Communal representation as a later constitutional issue connects to `advanced/17_Growth-of-Communalism-and-Muslim-League.md`.
 

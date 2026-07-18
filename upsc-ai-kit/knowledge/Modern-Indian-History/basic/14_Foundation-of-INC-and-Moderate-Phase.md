@@ -1,7 +1,7 @@
 # Foundation of the INC & the Moderate Phase (1885–1905) — MUST-DO
 
 > **Subject:** History (Modern India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* — Chapter XII, "The Struggle Begins".
+> **Grounded in:** Bipin Chandra, *Modern India* — Chapter XII, "Growth of New India — The Nationalist Movement 1858–1905".
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/14_Foundation-of-INC-and-Moderate-Phase.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -49,7 +49,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Pre-Congress associations and post-1858 political awakening connect back to `basic/12_Administrative-and-Constitutional-Changes-after-1858.md`.
+> **Study link:** ✅ Pre-Congress associations and post-1858 political awakening connect back to `basic/12_Administrative-Changes-After-1858.md`.
 > **Study link:** ✅ Economic critique of colonialism connects back to `basic/07_Economic-Impact-of-British-Rule.md`.
 > **Study link:** ✅ Moderate methods and limitations lead forward to `basic/15_Militant-Nationalism-and-Swadeshi.md`.
 > **Study link:** ⚠️ Communal representation and separate electorates later connect to `basic/17_Growth-of-Communalism-and-Muslim-League.md`.

@@ -49,7 +49,7 @@
 ## 3. Study links
 
 > **Study link:** ✅ Earlier expansion and annexation policies → `basic/05_British-Territorial-Expansion.md`.
-> **Study link:** ✅ Social-cultural policy and missionary fears → `basic/09_Social-and-Cultural-Policy.md`.
+> **Study link:** ✅ Social-cultural policy and missionary fears → `basic/09_Social-and-Cultural-Policy-Education-Press.md`.
 > **Study link:** ✅ Crown rule and constitutional change after suppression → `basic/12_Administrative-Changes-After-1858.md`.
 
 ## 4. Must-Know Facts (Prelims)

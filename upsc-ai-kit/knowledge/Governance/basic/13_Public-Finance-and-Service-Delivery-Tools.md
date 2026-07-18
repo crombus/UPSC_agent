@@ -88,11 +88,11 @@ expenditure.
 ## 5. Indian applications and examples
 
 - ⚠️ DBT-enabled de-duplication of ration cards and job cards (MGNREGA, PDS) is commonly
-  cited as reducing leakage from "ghost" or ineligible beneficiaries — ⚠️ always cite
-  savings/leakage-reduction figures from the latest official DBT Mission/PFMS dashboard with
-  its reporting date, since cumulative savings figures are updated periodically and
-  vary by source and reporting period; avoid citing a fixed precise figure as permanently
-  current.
+  cited as reducing leakage from "ghost" or ineligible beneficiaries. No fixed cumulative
+  savings figure is asserted here, since the DBT Mission/PFMS dashboard's reported savings
+  figure rises continuously as more schemes and years are covered; the durable, exam-safe
+  proposition is that DBT's savings arise specifically from removing fake, duplicate and
+  ineligible beneficiary entries, not from a one-time reported total.
 - ⚠️ The SNA model applied to a centrally sponsored scheme (e.g., a rural-development or
   health mission) illustrates just-in-time release preventing large unspent balances from
   sitting idle in state treasury accounts.
@@ -124,15 +124,17 @@ expenditure.
   specifically to centrally sponsored schemes' state-level fund flow, not to central-sector
   schemes or all government expenditure generally.
 - ❌ Any specific cumulative DBT savings figure is a fixed, permanently citable number. ->
-  Such figures are periodically updated by the DBT Mission/PFMS and vary depending on the
-  reporting period and methodology; always attach the reporting date when citing one.
+  Such figures rise continuously as the DBT Mission/PFMS dashboard's reporting period
+  extends; the durable proposition is that DBT reduces leakage from fake, duplicate and
+  ineligible beneficiaries, not any single cumulative rupee total.
 
 ## 8. 📰 Current anchor
 
-- 📰 Verify the latest officially reported DBT cumulative savings figure, PFMS scheme
-  coverage count, and any current GFR amendments directly from the DBT Mission portal, PFMS
-  portal and Department of Expenditure before citing specific current figures in an answer,
-  since these are dynamic, regularly updated data points.
+- 📰 DBT, PFMS and the SNA model are permanent, established features of India's public
+  financial management architecture. No fixed cumulative DBT savings figure or PFMS
+  scheme-coverage count is asserted here, since both rise continuously as more schemes and
+  years are added to the reporting base; the durable fact is that GFR, 2017 remains the
+  current consolidated procedural rulebook these tools operate within.
 
 ## 9. PYQ application
 

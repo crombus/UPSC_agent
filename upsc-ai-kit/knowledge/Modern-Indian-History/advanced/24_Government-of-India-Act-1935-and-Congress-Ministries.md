@@ -47,7 +47,7 @@
 |---|---|---|
 | ✅ Federal scheme | Provinces + princely states; princes' non-accession killed federation | Federation proposed but unrealised |
 | ✅ Provincial autonomy | More elected power than 1919 dyarchy | Real but limited constitutional space |
-| ✅ Central dyarchy | Reserved and transferred subjects at Centre in proposed scheme | Dyarchy shifted upward |
+| ✅ Central dyarchy | Reserved and transferred subjects at Centre in the proposed scheme | Provided for, but never operated because the federation did not begin |
 | ✅ Governor safeguards | Special responsibilities and discretionary powers | Brakes on responsible government |
 | ✅ Separate electorates | Communal representation extended | Long-term communalisation of politics |
 | ✅ 1937 elections | Congress proves mass support through provincial victories | Electoral legitimacy before endgame |
@@ -59,14 +59,14 @@
 
 > **Study link:** ✅ Simon-RTC constitutional roots → `advanced/22_Simon-Nehru-Report-CDM-and-RTC.md`.
 > **Study link:** ✅ Agrarian, labour and left pressure on ministry programmes → `advanced/23_Left-Peasant-Workers-and-States-Peoples-Movements.md`.
-> **Study link:** ✅ Wartime crisis and Quit India → `advanced/25_Second-World-War-Cripps-Mission-and-Quit-India.md`.
+> **Study link:** ✅ Wartime crisis and Quit India → `advanced/25_WWII-Cripps-Mission-and-Quit-India.md`.
 
 ## 4. Must-Know Facts (Prelims)
 
 - ✅ The Act was based on the **Simon Report**, **RTCs**, **White Paper 1933** and **Joint Select Committee**.
 - ✅ The **All-India Federation** was never implemented because princely states did not accede.
 - ✅ **Provincial autonomy** replaced dyarchy in provinces.
-- ✅ **Dyarchy at the Centre** was provided in the proposed federal arrangement.
+- ✅ **Dyarchy at the Centre** was provided in the proposed federal arrangement but never came into operation.
 - ✅ **Separate electorates** were extended under the Act.
 - ✅ **Federal Court** began functioning in **1937**.
 - ✅ **Sind and Orissa** were reorganised as provinces, and **Burma** was separated in the 1937 transition.

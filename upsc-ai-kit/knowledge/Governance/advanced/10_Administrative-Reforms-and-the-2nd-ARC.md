@@ -132,14 +132,16 @@ treating an eighteen-year-old proposal as settled current fact.
 - ❌ Later reforms like Mission Karmayogi or Digital India are direct implementations of
   specific Second ARC recommendations. -> They are independently driven, later reforms that
   happen to align with earlier ARC diagnostic direction; treat the connection as thematic
-  continuity, not a direct implementation chain, unless specifically verified.
+  continuity, not a direct implementation chain, unless a specific, documented linkage is
+  cited.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Before citing any specific ARC recommendation as "adopted" or "current practice,"
-  verify its actual implementation status from DARPG's latest published material or the
-  relevant ministry's current policy documents, since implementation status can change and
-  general secondary sources often overstate adoption.
+- 📰 The durable, exam-safe practice is to describe a specific ARC recommendation's status
+  precisely — proposed, partially implemented, or substantially adopted — rather than
+  defaulting to "adopted"/"current practice." No single, fixed implementation-status figure
+  is asserted here across all 15 reports, since adoption has been genuinely selective and
+  differs report by report and recommendation by recommendation.
 
 ## 10. PYQ-based analytical application
 

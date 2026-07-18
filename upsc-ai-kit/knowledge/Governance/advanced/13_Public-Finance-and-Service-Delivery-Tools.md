@@ -99,16 +99,17 @@ exclusion-error (Type I/Type II) framework from welfare-targeting economics.
   infrastructure.
 - ✅ PFMS has progressively expanded its scheme coverage and functional scope (from fund
   tracking toward more granular expenditure and utilisation-certificate management) since
-  its establishment — verify the current scheme-coverage count from the Department of
-  Expenditure/PFMS portal before citing a specific figure, since coverage expands over time.
+  its establishment. No fixed current scheme-coverage count is asserted here, since PFMS's
+  coverage has grown from a narrower initial set of schemes toward a much broader set of
+  central and centrally sponsored schemes and continues to expand.
 - ✅ The General Financial Rules were comprehensively revised in 2017, consolidating and
-  updating procurement, sanctioning and expenditure-control provisions; periodic further
-  amendments have followed — verify current GFR provisions from the Department of
-  Expenditure before citing specific rule numbers or provisions as unamended.
+  updating procurement, sanctioning and expenditure-control provisions, and remain the
+  current consolidated rulebook; periodic further amendments have followed without a fresh
+  comprehensive revision superseding the 2017 edition.
 - ⚠️ The SNA model, applied progressively to more centrally sponsored schemes since its
-  introduction, represents an evolving Union-level fiscal-discipline architecture whose
-  exact scheme coverage should be verified from current Department of Expenditure guidelines
-  rather than assumed universal.
+  introduction, represents an evolving Union-level fiscal-discipline architecture. No fixed
+  current list of SNA-covered schemes is asserted here, since coverage has expanded scheme
+  by scheme since introduction rather than applying universally from the outset.
 
 ## 5. Indian applications and boundary cases
 
@@ -163,11 +164,12 @@ exclusion-error (Type I/Type II) framework from welfare-targeting economics.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Verify the current DBT cumulative savings figure and reporting period, PFMS's current
-  scheme-coverage count, the current list of SNA-covered centrally sponsored schemes, and
-  any recent GFR amendments from the DBT Mission portal, PFMS portal and Department of
-  Expenditure before citing specific figures as current, since all four data points are
-  dynamic and periodically updated.
+- 📰 DBT, PFMS, SNA and the GFR, 2017 are permanent, established features of India's public
+  financial management architecture. No fixed current DBT cumulative savings figure, PFMS
+  scheme-coverage count, or SNA-covered scheme list is asserted here, since all three rise
+  or expand continuously; the durable, exam-safe facts are each tool's specific function
+  (Section 2) and the fact that GFR, 2017 remains the current consolidated procedural
+  rulebook they operate within.
 
 ## 10. PYQ-based analytical application
 

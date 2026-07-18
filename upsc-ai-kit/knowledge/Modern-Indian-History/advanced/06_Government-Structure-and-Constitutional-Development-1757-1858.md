@@ -51,7 +51,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Bengal conquest and Diwani as the constitutional trigger → `advanced/04_The-British-Conquest-of-Bengal.md`.
+> **Study link:** ✅ Bengal conquest and Diwani as the constitutional trigger → `advanced/04_British-Conquest-of-Bengal.md`.
 > **Study link:** ✅ Expansion created a need for uniform command → `advanced/05_British-Territorial-Expansion.md`.
 > **Study link:** ⚠️ Civil service, law and police institutions → `advanced/08_Administrative-Organisation.md`.
 > **Study link:** ⚠️ After 1858 Crown rule and councils → `advanced/12`.

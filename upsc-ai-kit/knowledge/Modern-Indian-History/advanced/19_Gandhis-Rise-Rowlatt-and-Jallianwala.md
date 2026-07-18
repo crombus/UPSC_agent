@@ -31,7 +31,7 @@
 **Deeper — 1919 revealed both the power and danger of mass satyagraha.**
 
 - ✅ Rowlatt Satyagraha marked Gandhi's first attempt at an all-India agitation, but violence in places made him recognise the need for greater discipline.
-- ✅ Jallianwala Bagh and martial law in Punjab radicalised Indian opinion; Tagore's renunciation of knighthood and Gandhi's return of medal symbolised moral repudiation of the Raj.
+- ✅ Jallianwala Bagh and martial law in Punjab radicalised Indian opinion; Tagore's renunciation of his knighthood (1919) and Gandhi's later return of the Kaiser-i-Hind medal (1920) symbolised moral repudiation of the Raj.
 - ⚠️ The episode marks the beginning of the **Gandhian phase**: leadership shifted from constitutional petitioning to morally charged mass politics.
 - ⚠️ It also taught Gandhi that non-violence had to be organised, trained and controlled, not merely proclaimed.
 
@@ -62,7 +62,7 @@
 - ✅ **Rowlatt Act 1919** continued wartime emergency powers and enabled detention without trial.
 - ✅ The anti-Rowlatt hartal was called on **6 April 1919**.
 - ✅ **Jallianwala Bagh** occurred on **13 April 1919**; **Hunter Commission** investigated the massacre.
-- ✅ **Tagore renounced his knighthood**; Gandhi returned the **Kaiser-i-Hind** medal.
+- ✅ **Tagore renounced his knighthood** (1919); Gandhi returned the **Kaiser-i-Hind** medal in **1920**.
 
 ## 5. UPSC Traps
 

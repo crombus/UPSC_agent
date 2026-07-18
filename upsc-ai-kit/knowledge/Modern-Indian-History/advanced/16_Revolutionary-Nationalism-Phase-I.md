@@ -52,8 +52,8 @@
 ## 3. Study links
 
 > **Study link:** ✅ Swadeshi repression and decline connect back to `advanced/15_Militant-Nationalism-and-Swadeshi.md`.
-> **Study link:** ✅ World War I opportunity connects forward to `advanced/18_First-World-War-Home-Rule-League-Lucknow-Pact.md`.
-> **Study link:** ⚠️ Later HSRA and Bhagat Singh require comparison with `advanced/21_Swarajists-Constructive-Work-and-Revolutionaries-1920s.md`.
+> **Study link:** ✅ World War I opportunity connects forward to `advanced/18_WWI-Home-Rule-and-Lucknow-Pact.md`.
+> **Study link:** ⚠️ Later HSRA and Bhagat Singh require comparison with `advanced/21_Swarajists-and-Revolutionaries-1920s.md`.
 > **Study link:** ⚠️ Overseas networks are useful for GS-2 diaspora and anti-colonial internationalism themes.
 
 ## 4. Must-Know Facts (Prelims)

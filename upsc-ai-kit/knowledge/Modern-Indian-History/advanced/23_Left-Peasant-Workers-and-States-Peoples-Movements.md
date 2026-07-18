@@ -55,7 +55,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Earlier Gandhian peasant laboratories → `advanced/19_Gandhis-Rise-Champaran-Kheda-Ahmedabad-Rowlatt-and-Jallianwala-Bagh.md`.
+> **Study link:** ✅ Earlier Gandhian peasant laboratories → `advanced/19_Gandhis-Rise-Rowlatt-and-Jallianwala.md`.
 > **Study link:** ✅ Karachi resolution and CDM social base → `advanced/22_Simon-Nehru-Report-CDM-and-RTC.md`.
 > **Study link:** ✅ Congress office-acceptance and ministries → `advanced/24_Government-of-India-Act-1935-and-Congress-Ministries.md`.
 

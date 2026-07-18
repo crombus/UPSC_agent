@@ -51,7 +51,7 @@
 
 > **Study link:** ✅ Rowlatt and Jallianwala as immediate background → `basic/19_Gandhis-Rise-Rowlatt-and-Jallianwala.md`.
 > **Study link:** ✅ Swarajists and No-changers after the withdrawal → `basic/21_Swarajists-and-Revolutionaries-1920s.md`.
-> **Study link:** ⚠️ Later Civil Disobedience comparison → `basic/22_Simon-Commission-Nehru-Report-Civil-Disobedience.md`.
+> **Study link:** ⚠️ Later Civil Disobedience comparison → `basic/22_Simon-Nehru-Report-CDM-and-RTC.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

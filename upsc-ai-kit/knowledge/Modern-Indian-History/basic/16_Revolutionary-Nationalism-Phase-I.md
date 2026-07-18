@@ -1,7 +1,7 @@
 # Revolutionary Nationalism (Phase I, 1907–1917) — MUST-DO
 
 > **Subject:** History (Modern India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* + *India's Struggle for Independence* — early revolutionary nationalism.
+> **Grounded in:** Bipin Chandra, *Modern India* — Chapter XIV (Nationalist Movement 1905–1918); revolutionary-nationalism specifics (Ghadar, Anushilan, Alipore) from standard survey knowledge.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/16_Revolutionary-Nationalism-Phase-I.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -52,8 +52,8 @@
 ## 3. Study links
 
 > **Study link:** ✅ Revolutionary roots lie in the repression and disappointments after `basic/15_Militant-Nationalism-and-Swadeshi.md`.
-> **Study link:** ✅ Ghadar and war context connect forward to `basic/18_First-World-War-Home-Rule-League-Lucknow-Pact.md`.
-> **Study link:** ⚠️ Later revolutionary socialism connects forward to `basic/21_Swarajists-Constructive-Work-and-Revolutionaries-1920s.md`.
+> **Study link:** ✅ Ghadar and war context connect forward to `basic/18_WWI-Home-Rule-and-Lucknow-Pact.md`.
+> **Study link:** ⚠️ Later revolutionary socialism connects forward to `basic/21_Swarajists-and-Revolutionaries-1920s.md`.
 > **Study link:** ⚠️ Diaspora nationalism also links with International Relations themes on overseas Indians and anti-colonial networks.
 
 ## 4. Must-Know Facts (Prelims)

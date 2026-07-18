@@ -1,7 +1,7 @@
 # The British Conquest of Bengal (Plassey & Buxar) — MUST-DO
 
 > **Subject:** History (Modern India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* — Chapter IV, "The British Conquest of Bengal".
+> **Grounded in:** Bipin Chandra, *Modern India* — Chapter IV, "The British Conquest of India" (Bengal: Plassey, Buxar, Dual Government).
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/04_British-Conquest-of-Bengal.md`. Chronology spine: `00_Master-Chronology.md`.*
 

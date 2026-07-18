@@ -53,7 +53,7 @@ through the adjudicatory tribunal layer above regulatory decisions.
 | ⚠️ **Autonomy-accountability-expertise trilemma** | The recurring governance-design tension: greater regulatory autonomy improves technical, apolitical decision-making but can weaken democratic accountability; greater accountability (closer ministerial control) improves democratic oversight but risks undermining the technical insulation regulators need to function effectively — expertise is the value both autonomy and accountability arrangements are meant to serve, but which either extreme can compromise if unbalanced. |
 | ✅ **Regulatory capture** | A situation where a regulator, over time, comes to serve the interests of the industry it regulates rather than the broader public interest — through revolving-door staffing, information asymmetry, or lobbying influence. |
 | ✅ **Tribunalisation** | The proliferation of specialised tribunals (quasi-judicial bodies) to adjudicate disputes in specific regulatory/technical domains, intended to bring domain expertise and speed to adjudication outside the ordinary court hierarchy. |
-| ✅ **Tribunals Reforms Act, 2021** | A Union statute that abolished several existing appellate tribunals/authorities (e.g., under the Cinematograph Act, Trade Marks Act, Copyright Act and certain Customs/Airport-related appellate bodies) and transferred their functions to existing courts (mainly High Courts), while also prescribing uniform qualifications, appointment procedures, tenure and service conditions for the chairpersons/members of the tribunals that remain. |
+| ✅ **Tribunals Reforms Act, 2021** | A Union statute that abolished several existing appellate tribunals/authorities (e.g., under the Cinematograph Act, Trade Marks Act, Copyright Act and certain Customs/Airport-related appellate bodies) and transferred their functions to existing courts (mainly High Courts), while also prescribing qualifications, appointment procedures, tenure and service conditions for the chairpersons/members of the tribunals that remain; its original four-year-tenure and 50-year minimum-age provisions were struck down by the Supreme Court on 19 November 2025 in the Madras Bar Association litigation (see Section 8). |
 | ✅ **FSLRC (Financial Sector Legislative Reforms Commission, 2013)** | A commission chaired by Justice B.N. Srikrishna that recommended, among other reforms, a Unified Financial Agency (UFA) to subsume most financial-sector regulators except the RBI (for banking/payments) — a "regulation by activity" model whose unified-regulator proposal has not been implemented in full, though the 2015 merger of the Forward Markets Commission into SEBI is often cited as a step influenced by its direction. |
 
 ## 3. How regulatory governance functions (mechanism)
@@ -112,6 +112,10 @@ through the adjudicatory tribunal layer above regulatory decisions.
   subsume most financial regulators except the RBI — a proposal not implemented in full.
 - ✅ RBI, SEBI, IRDAI, PFRDA, TRAI, CERC, PNGRB and CCI are India's principal sectoral/
   economic regulators, each created by its own specific statute.
+- ✅ The Supreme Court, on 19 November 2025, struck down the Tribunals Reforms Act, 2021's
+  four-year tenure and 50-year minimum-age provisions for tribunal members as an
+  impermissible "legislative override" of its earlier Madras Bar Association judgments, and
+  directed the Union Government to set up a National Tribunal Commission within four months.
 
 ## 7. UPSC traps
 
@@ -120,8 +124,13 @@ through the adjudicatory tribunal layer above regulatory decisions.
   arrangements, which vary considerably in the degree of insulation from executive control.
 - ❌ The Tribunals Reforms Act, 2021 abolished all tribunals in India. -> It abolished a
   specific, named set of appellate tribunals/authorities (not all tribunals), transferring
-  their functions to existing courts, while also standardising service conditions for the
-  remaining tribunal system.
+  their functions to existing courts, while also prescribing (originally) standardised
+  service conditions for the remaining tribunal system.
+- ❌ The Tribunals Reforms Act, 2021's four-year tenure and 50-year minimum-age provisions
+  remain in force today. -> The Supreme Court struck these down on 19 November 2025, holding
+  that Parliament had re-enacted provisions already declared unconstitutional in earlier
+  Madras Bar Association judgments, and restored the five-year tenure standard from those
+  judgments pending a National Tribunal Commission.
 - ❌ FSLRC's Unified Financial Agency proposal has been implemented. -> It has not been
   implemented in full; the RBI continues to regulate banking/payments separately, and the
   other sectoral financial regulators (SEBI, IRDAI, PFRDA) continue to exist independently,
@@ -132,10 +141,13 @@ through the adjudicatory tribunal layer above regulatory decisions.
 
 ## 8. 📰 Current anchor
 
-- 📰 Verify the current, post-2021 status and caseload of India's tribunal system (which
-  functions have actually moved to High Courts, and how High Courts have absorbed this
-  workload) from PRS Legislative Research/Ministry of Law and Justice sources before citing
-  specific current-impact claims in an answer.
+- 📰 The Supreme Court's 19 November 2025 judgment striking down the Tribunals Reforms Act,
+  2021's four-year tenure and 50-year minimum-age provisions, and directing a National
+  Tribunal Commission within four months, is the fixed, current legal status of tribunal
+  member service conditions. No fixed current caseload or pendency figure for High Courts
+  absorbing functions from the tribunals abolished by the 2021 Act is asserted here, since
+  caseload data changes continuously; the durable analytical point is the trade-off between
+  reduced tribunal proliferation and added generalist-court workload.
 
 ## 9. PYQ application
 
@@ -144,10 +156,14 @@ through the adjudicatory tribunal layer above regulatory decisions.
   tribunals made in 2021." — structure the answer as (a) the tribunal rationale (technical
   expertise, speed, reduced court backlog) versus the ordinary court system's rationale
   (broader jurisdiction, established procedural safeguards); (b) the 2021 Act's specific
-  changes (named tribunal abolitions, function transfer to High Courts, standardised
-  appointment norms); (c) a critical assessment of impact (potential High Court workload
-  increase, loss of specialised technical adjudication in the abolished tribunals' domains,
-  versus gains in appointment-process uniformity and reduced tribunal proliferation).
+  changes (named tribunal abolitions, function transfer to High Courts, and its original
+  appointment/tenure norms); (c) a critical assessment of impact (potential High Court
+  workload increase, loss of specialised technical adjudication in the abolished tribunals'
+  domains, versus gains in appointment-process uniformity and reduced tribunal
+  proliferation); (d) for any answer written after November 2025, add that the Supreme
+  Court has since struck down the Act's tenure/age provisions and ordered a National
+  Tribunal Commission, reopening the appointment-design question the 2021 Act was meant to
+  settle.
 
 ## 10. Mains angles
 
@@ -182,5 +198,6 @@ through the adjudicatory tribunal layer above regulatory decisions.
 - ✅ `10_Administrative-Reforms-and-the-2nd-ARC.md` — the selective-implementation pattern
   parallel to FSLRC's experience.
 - ✅ `00_Master-Framework.md` — the state/non-state governance ecosystem, regulators' role.
-- ✅ `Polity/basic/Supreme-Court.md`, `High-Court.md` — the constitutional judiciary
-  structure Polity owns, distinct from statutory tribunals covered here.
+- ✅ `Polity/advanced/18_Supreme-Court.md`, `Polity/advanced/21_High-Court-and-Subordinate-Courts.md`
+  — the constitutional judiciary structure Polity owns, distinct from statutory tribunals
+  covered here.

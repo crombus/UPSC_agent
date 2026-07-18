@@ -53,7 +53,7 @@
 
 > **Study link:** ✅ Cabinet Mission and Direct Action background → `basic/26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md`.
 > **Study link:** ✅ Paramountcy lapse and princely states → `basic/28_Integration-of-Princely-States.md`.
-> **Study link:** ⚠️ Communalism's long growth → `basic/17_Growth-of-Communalism-and-the-Muslim-League.md`.
+> **Study link:** ⚠️ Communalism's long growth → `basic/17_Growth-of-Communalism-and-Muslim-League.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

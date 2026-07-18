@@ -135,10 +135,11 @@ therefore requires its own dedicated data-governance and privacy framework.
 
 ## 8. 📰 Current anchor
 
-- 📰 The Digital Personal Data Protection Rules, 2025 were notified on 13 November 2025;
-  verify from the official MeitY Gazette notification which specific rules are immediately
-  in force versus deferred to a later date before citing precise compliance-timeline detail
-  in an answer, since the staggered schedule may be updated by further notification.
+- 📰 The Digital Personal Data Protection Rules, 2025 were notified on 13 November 2025,
+  with Rules 1, 2 and 17-21 in force immediately, Consent Manager registration (Rule 4) in
+  force from 13 November 2026, and the remaining compliance obligations in force from
+  13 May 2027 — a fixed, officially notified staggered timeline, not a figure subject to
+  periodic revision.
 
 ## 9. PYQ application
 
@@ -183,5 +184,6 @@ therefore requires its own dedicated data-governance and privacy framework.
   DPI rails.
 - ✅ `13_Public-Finance-and-Service-Delivery-Tools.md` — DBT/JAM using Aadhaar-linked
   identity for fund transfers.
-- ✅ `Polity/basic/Fundamental-Rights.md` — the constitutional right-to-privacy foundation
-  (Puttaswamy) underlying data-protection law (Polity owns this constitutional dimension).
+- ✅ `Polity/advanced/07_Fundamental-Rights.md` — the constitutional right-to-privacy
+  foundation (Puttaswamy) underlying data-protection law (Polity owns this constitutional
+  dimension).

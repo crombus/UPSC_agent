@@ -52,7 +52,7 @@
 
 > **Study link:** ✅ Expansionist instruments under Wellesley and Dalhousie → `advanced/05_British-Territorial-Expansion.md`.
 > **Study link:** ✅ Crown-era imperial bureaucracy and Curzon's administrative style → `advanced/12_Administrative-Changes-After-1858.md`.
-> **Study link:** ⚠️ Post-1947 integration and boundary challenges → `advanced/28_Integration-of-the-Princely-States-and-the-Making-of-the-Republic.md`.
+> **Study link:** ⚠️ Post-1947 integration and boundary challenges → `advanced/28_Integration-of-Princely-States.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

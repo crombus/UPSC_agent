@@ -28,10 +28,10 @@
 
 - ✅ The **Government of India Act 1935** drew on the Simon Report, Round Table Conferences, the 1933 White Paper and Joint Select Committee work.
 - ✅ It proposed an **All-India Federation** of British Indian provinces and princely states, but the federation never came into being because the princes did not accede.
-- ✅ It introduced **provincial autonomy** by abolishing dyarchy in provinces, while **dyarchy was introduced at the Centre**.
+- ✅ It introduced **provincial autonomy** by abolishing dyarchy in the provinces, while **dyarchy was to be introduced at the Centre** — but only under the federal scheme, which never came into force.
 - ✅ It enlarged the franchise to roughly **14%** of the population while keeping power under major safeguards and governor/viceroy controls.
 - ✅ Separate electorates were extended, keeping communal representation at the heart of colonial constitutional politics.
-- ✅ It provided for a **Federal Court (1937)** and is linked to institutions such as the **Reserve Bank of India** in the constitutional-administrative transition.
+- ✅ It provided for a **Federal Court**, which began functioning in **1937**. *(The Reserve Bank of India was a separate creation of the RBI Act 1934, not of this Act.)*
 
 **Foundation — Congress used office as a field of struggle, then resigned over war.**
 
@@ -51,7 +51,7 @@
 | ✅ Central dyarchy | Dyarchy shifted to the Centre in the proposed federal scheme |
 | ✅ Franchise | Enlarged to about 14%, still very limited |
 | ✅ Separate electorates | Communal electorates extended |
-| ✅ Institutions | Federal Court, 1937; RBI and provincial reorganisation context |
+| ✅ Institutions | Federal Court, 1937; provincial reorganisation (Sind, Orissa) |
 | ✅ 1937 ministries | Congress in 8 of 11 provinces |
 | ✅ 1939 resignation | War declared without Indian consultation |
 | ✅ League response | Deliverance Day, Dec 1939; Lahore Resolution, Mar 1940 |
@@ -60,7 +60,7 @@
 
 > **Study link:** ✅ Simon Commission and RTC roots → `basic/22_Simon-Nehru-Report-CDM-and-RTC.md`.
 > **Study link:** ✅ Left/peasant pressure on Congress programmes → `basic/23_Left-Peasant-Workers-and-States-Peoples-Movements.md`.
-> **Study link:** ✅ War crisis after resignation → `basic/25_Second-World-War-Cripps-Mission-and-Quit-India.md`.
+> **Study link:** ✅ War crisis after resignation → `basic/25_WWII-Cripps-Mission-and-Quit-India.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

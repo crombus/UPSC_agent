@@ -100,15 +100,15 @@ or under-using the real-time responsiveness monitoring offers.
   capacity under NITI Aayog rather than leaving it fragmented across multiple bodies.
 - ✅ The Output-Outcome Monitoring Framework is issued/updated by the Ministry of Finance's
   Budget Division as part of the annual Union Budget process, requiring covered schemes to
-  report both output and outcome indicators — verify the current number and list of covered
-  schemes from the latest Budget Division OOMF document before citing specific coverage
-  figures, since scheme coverage is revised periodically.
+  report both output and outcome indicators. No fixed current count of covered schemes is
+  asserted here, since scheme coverage is revised with each Budget cycle; the durable fact
+  is the dual output-and-outcome reporting requirement itself.
 - ✅ The Aspirational Districts Programme's dashboard architecture (monthly officer-reported
   data, agency validation, delta-ranking, public dashboard) represents a distinctive
   Indian institutional innovation in sub-national development monitoring; a related
   Aspirational Blocks Programme has extended a similar logic to the block (sub-district)
-  level — verify current district/block counts and KPI lists from NITI Aayog before citing
-  specific figures.
+  level. No fixed current district or block count, or fixed current KPI list, is asserted
+  here, since both continue to be reviewed and revised by NITI Aayog.
 
 ## 5. Indian applications and boundary cases
 
@@ -160,10 +160,12 @@ or under-using the real-time responsiveness monitoring offers.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Verify the current scheme coverage of the Output-Outcome Monitoring Framework, the
-  latest Aspirational Districts/Blocks Programme district-and-block counts and KPI/sector
-  list, and DMEO's current evaluation agenda from NITI Aayog and Ministry of Finance Budget
-  Division sources before citing specific current figures.
+- 📰 DMEO, the OOMF and the Aspirational Districts/Blocks Programme are permanent,
+  established features of India's monitoring-and-evaluation architecture. No fixed current
+  OOMF scheme-coverage count, Aspirational Districts/Blocks district-and-block count, or
+  KPI/sector list is asserted here, since all three are revised over time; the durable fact
+  is each instrument's fixed design logic (dual output-outcome reporting; delta-ranking;
+  independent evaluation) rather than any specific current coverage figure.
 
 ## 10. PYQ-based analytical application
 

@@ -153,10 +153,11 @@ service-delivery capacity, and vice versa in principle.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Verify current state-specific 3F devolution status, DPC operational effectiveness, and
-  any recent rural-urban merger proposals/implementations from the Ministry of Panchayati
-  Raj, state Panchayati Raj/Urban Development departments, and State Finance Commission
-  reports before citing specific current examples.
+- 📰 The devolution-gap diagnostic (constitutional recognition vs actual 3F transfer) is the
+  fixed, durable analytical tool for this topic. No fixed current 3F-devolution "score" or
+  DPC-effectiveness rating for any specific state is asserted here, since these continue to
+  change with state-level policy action; Kerala's 1996 campaign remains the durable
+  benchmark against which other states' partial devolution is compared.
 
 ## 10. PYQ-based analytical application
 
@@ -197,5 +198,5 @@ criteria to avoid trading service gains for representational and fiscal losses.
 - ✅ `02_Government-Policy-Design-and-Implementation.md` — convergence at the local-delivery
   level.
 - ✅ `14_Participatory-Governance.md` — Gram Sabha-level participatory planning quality.
-- ✅ `Polity/advanced/Panchayati-Raj.md`, `Municipalities.md` — the constitutional structure
-  Polity owns.
+- ✅ `Polity/advanced/23_Panchayati-Raj.md`, `Polity/advanced/24_Municipalities.md` — the
+  constitutional structure Polity owns.

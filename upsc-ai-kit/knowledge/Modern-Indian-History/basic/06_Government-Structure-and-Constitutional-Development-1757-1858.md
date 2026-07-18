@@ -51,7 +51,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Company conquest and Diwani background → `basic/04_The-British-Conquest-of-Bengal.md`.
+> **Study link:** ✅ Company conquest and Diwani background → `basic/04_British-Conquest-of-Bengal.md`.
 > **Study link:** ✅ Territorial expansion requiring stronger central control → `basic/05_British-Territorial-Expansion.md`.
 > **Study link:** ⚠️ Later constitutional continuation after 1858 → `basic/12`.
 > **Study link:** ⚠️ Polity overlap: constitutional development from **1773 → 1858 → 1861 → 1892 → 1909 → 1919 → 1935**.

@@ -92,16 +92,18 @@ deficit that undermines its democratic legitimacy.
   around six pillars commonly cited in official material — policy framework, institutional
   framework (including the Capacity Building Commission), competency framework, digital
   learning framework (iGOT Karmayogi), electronic human resource management, and monitoring
-  and evaluation — verify the current official pillar framing from DoPT/Mission Karmayogi
-  sources before citing exact pillar names in an answer, since official framing documents
-  are periodically updated.
+  and evaluation. This six-pillar structure is the durable, citable design; the underlying
+  official framing documents may be refined over time without changing the core six-pillar
+  architecture.
 - ✅ The Capacity Building Commission harmonises training standards and creates shared
   faculty/content resources across ministries, addressing the historical fragmentation of
   civil-service training efforts across departments.
 - ⚠️ Lateral-entry recruitment rounds have periodically inducted domain specialists at
-  Joint Secretary/Director/Deputy Secretary levels in selected ministries; verify the
-  current round's scale, ministries covered and any changes to selection process from DoPT
-  notifications before citing specifics.
+  Joint Secretary/Director/Deputy Secretary levels in selected ministries. No fixed count of
+  positions or ministries covered by the latest round is asserted here, since lateral-entry
+  scale varies from one recruitment cycle to the next; the durable point is that lateral
+  entry operates as a periodic, targeted supplement to regular cadre promotion, not a
+  continuous or cadre-replacing channel.
 
 ## 5. Indian applications and boundary cases
 
@@ -155,10 +157,10 @@ deficit that undermines its democratic legitimacy.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Verify the current, officially stated pillar structure of Mission Karmayogi, the
-  latest lateral-entry recruitment round's scale and ministries, and iGOT Karmayogi's
-  current course/enrolment coverage from DoPT and Mission Karmayogi official sources before
-  citing specific current figures.
+- 📰 Mission Karmayogi's six-pillar structure (Section 4) and its 2 September 2020 Cabinet
+  approval date are fixed reference points. No fixed current figure for lateral-entry round
+  scale or iGOT Karmayogi's course/enrolment coverage is asserted here, since both continue
+  to expand with successive recruitment cycles and platform growth.
 
 ## 10. PYQ-based analytical application
 
@@ -204,5 +206,5 @@ classical civil-service safeguards.
 - ✅ `01_Good-Governance-Concepts-and-Frameworks.md` — Government Effectiveness dimension.
 - ✅ `Ethics/advanced/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — personal
   integrity/probity dimension Ethics owns.
-- ✅ `Polity/advanced/Public-Services.md` — constitutional civil-service provisions Polity
+- ✅ `Polity/advanced/41_Public-Services.md` — constitutional civil-service provisions Polity
   owns.

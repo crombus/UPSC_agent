@@ -50,7 +50,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Surat Split and Extremist politics → `advanced/15_Militant-Nationalism-Swadeshi-and-Partition-of-Bengal.md`.
+> **Study link:** ✅ Surat Split and Extremist politics → `advanced/15_Militant-Nationalism-and-Swadeshi.md`.
 > **Study link:** ✅ Communal representation and Muslim League growth → `advanced/17_Growth-of-Communalism-and-Muslim-League.md`.
 > **Study link:** ✅ Gandhian mobilisation after the war → `advanced/19_Gandhis-Rise-Rowlatt-and-Jallianwala.md`.
 

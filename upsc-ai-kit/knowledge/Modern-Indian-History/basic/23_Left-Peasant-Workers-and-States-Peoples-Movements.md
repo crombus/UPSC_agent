@@ -53,7 +53,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Peasant satyagraha roots → `basic/19_Gandhis-Rise-Champaran-Kheda-Ahmedabad-Rowlatt-and-Jallianwala-Bagh.md`.
+> **Study link:** ✅ Peasant satyagraha roots → `basic/19_Gandhis-Rise-Rowlatt-and-Jallianwala.md`.
 > **Study link:** ✅ Karachi and CDM context → `basic/22_Simon-Nehru-Report-CDM-and-RTC.md`.
 > **Study link:** ✅ Congress ministries and labour/agrarian reforms → `basic/24_Government-of-India-Act-1935-and-Congress-Ministries.md`.
 

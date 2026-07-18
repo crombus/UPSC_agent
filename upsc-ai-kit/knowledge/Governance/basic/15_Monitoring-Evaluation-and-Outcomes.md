@@ -132,11 +132,13 @@ output-outcome gap and feed evidence back into governance correction.
 
 ## 8. 📰 Current anchor
 
-- 📰 Verify the current number of schemes covered under the Output-Outcome Monitoring
-  Framework, the latest Aspirational Districts Programme KPI list/sector weights, and any
-  extension to an Aspirational Blocks Programme, from NITI Aayog and Ministry of Finance
-  Budget Division sources before citing specific current figures, since coverage and KPI
-  design are periodically revised.
+- 📰 DMEO, the Output-Outcome Monitoring Framework and the Aspirational Districts Programme
+  are permanent, established features of India's monitoring-and-evaluation architecture. No
+  fixed current count of OOMF-covered schemes, or fixed current KPI list/sector weights for
+  the Aspirational Districts Programme (including any extension to an Aspirational Blocks
+  Programme), is asserted here, since scheme coverage and KPI design are revised over time;
+  the durable fact is the delta-ranking design principle (Section 3) that structures the
+  programme regardless of the specific KPI set in use.
 
 ## 9. PYQ application
 

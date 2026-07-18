@@ -133,9 +133,11 @@ integrity and commitment, not as an automatic entitlement.
 
 ## 8. 📰 Current anchor
 
-- 📰 Verify the latest status and scale of lateral-entry recruitment rounds, and the current
-  functional scope of the Capacity Building Commission and iGOT Karmayogi's course/user
-  coverage, from DoPT and Mission Karmayogi official sources before citing specific figures.
+- 📰 Mission Karmayogi (NPCSCB) was approved by Cabinet on 2 September 2020, and the Capacity
+  Building Commission and iGOT Karmayogi platform are its fixed, durable institutional
+  features. No fixed current figure for lateral-entry recruitment round scale or iGOT
+  Karmayogi's course/user coverage is asserted here, since both expand with successive
+  recruitment cycles and platform growth.
 
 ## 9. PYQ application
 
@@ -184,5 +186,5 @@ integrity and commitment, not as an automatic entitlement.
   dimension civil-service capacity feeds into.
 - ✅ `Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — the personal
   integrity/probity angle Ethics owns.
-- ✅ `Polity/basic/Public-Services.md` — the constitutional civil-service provisions Polity
-  owns.
+- ✅ `Polity/advanced/41_Public-Services.md` — the constitutional civil-service provisions
+  Polity owns.

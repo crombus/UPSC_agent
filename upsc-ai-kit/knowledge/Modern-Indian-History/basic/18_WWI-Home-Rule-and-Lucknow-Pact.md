@@ -1,7 +1,7 @@
 # First World War, Home Rule League & the Lucknow Pact — MUST-DO
 
 > **Subject:** History (Modern India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* — Chapter XIV, "The Struggle for Swaraj".
+> **Grounded in:** Bipin Chandra, *Modern India* — Chapter XIV, "Nationalist Movement 1905–1918".
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/18_WWI-Home-Rule-and-Lucknow-Pact.md`. Chronology spine: `00_Master-Chronology.md`.*
 

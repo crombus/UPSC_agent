@@ -32,7 +32,7 @@
 - ✅ The **Rowlatt Act, 1919** was condemned as the "Black Act" because it allowed detention without trial and continuation of wartime emergency powers.
 - ✅ Gandhi launched the **Rowlatt Satyagraha** and called a nationwide hartal on **6 April 1919**.
 - ✅ At **Jallianwala Bagh**, General Dyer ordered firing on an unarmed gathering; the massacre shocked India and destroyed remaining faith in British justice.
-- ✅ Rabindranath Tagore renounced his knighthood, and Gandhi later returned the Kaiser-i-Hind medal in protest against British repression.
+- ✅ Rabindranath Tagore renounced his knighthood in protest; Gandhi returned his **Kaiser-i-Hind medal** later, in **1920**, over the Punjab wrongs and the Khilafat issue.
 
 ## 2. Key classification / data
 

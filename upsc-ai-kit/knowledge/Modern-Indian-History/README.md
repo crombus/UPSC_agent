@@ -1,8 +1,8 @@
 # Modern Indian History — Knowledge Base Index
 
-> **Subject:** History → **Modern Indian History** · **GS Paper:** GS-I (Modern Indian History c. 1750s–1947, Freedom Struggle) + Prelims.
-> **Spine:** Bipin Chandra — basic tier from *Modern India* (concise, 15-chapter NCERT-style survey); advanced tier from *India's Struggle for Independence* (freedom-struggle depth + historiography).
-> **Start here:** `00_Master-Chronology.md` — the full modern timeline (Mughal decline → 1947 → integration) that stitches every topic together.
+> **Subject:** History → **Modern Indian History** · **GS Paper:** GS-I (Modern Indian History c. 1750s–1947, Freedom Struggle; and Post-Independence Consolidation, 1947–2000) + Prelims.
+> **Spine:** Bipin Chandra — freedom-struggle tiers from *Modern India* (basic) and *India's Struggle for Independence* (advanced); the post-independence tiers (topics 29–38) from *India After Independence, 1947–2000*.
+> **Start here:** `00_Master-Chronology.md` — the full modern timeline (Mughal decline → 1947 → integration → 2000) that stitches every topic together.
 > *Sibling folders: `Ancient-Indian-History` (done), `Medieval-Indian-History` (done), `Modern-Indian-History` (this).*
 
 ---
@@ -46,11 +46,24 @@
 | 26 | Post-War Upsurge: INA, RIN Mutiny & the Cabinet Mission (1945–1946) | Endgame |
 | 27 | Independence & Partition (1946–1947) | Endgame |
 | 28 | Integration of the Princely States & the Making of the Republic | Nation-building |
+| 29 | The Colonial Legacy & the Foundations of the Republic | Post-Independence |
+| 30 | Linguistic Reorganisation of States & Regionalism | Post-Independence |
+| 31 | Integration of the Tribals & National Unity | Post-Independence |
+| 32 | The Nehru Era — Hope, Foreign Policy & Legacy | Post-Independence |
+| 33 | Party Politics 1947–67: The Congress System & the Opposition | Post-Independence |
+| 34 | From Shastri to Indira Gandhi, 1964–73 | Post-Independence |
+| 35 | The JP Movement & the Emergency | Post-Independence |
+| 36 | Janata Interregnum, Indira's Return & Regional Crises | Post-Independence |
+| 37 | The Rajiv Years & the Run-up to the Millennium | Post-Independence |
+| 38 | Economy, Land, Society & State: A Post-Independence Synthesis | Post-Independence |
+
+> **Topics 29–38 (Post-Independence India, 1947–2000)** are grounded in Bipan Chandra, Mridula Mukherjee & Aditya Mukherjee, *India After Independence, 1947–2000*. They carry the GS-I "post-independence consolidation and reorganisation within the country" line. Detailed constitutional doctrine (Polity), economic mechanics (Economy), foreign-policy doctrine (IR), sociological theory (Indian Society), governance toolkits (Governance), welfare architecture (Social Justice) and security doctrine (Internal Security) are cross-linked, not duplicated.
 
 ## Source books
 
 - **Basic (must-do):** Bipin Chandra, *Modern India* (concise single-volume survey; 15 chapters, Mughal decline → Struggle for Swaraj).
 - **Advanced (Freedom Struggle, 14–28):** Bipin Chandra, Mridula Mukherjee, Aditya Mukherjee, K.N. Panikkar, Sucheta Mahajan, *India's Struggle for Independence, 1857–1947*.
+- **Post-Independence (29–38):** Bipan Chandra, Mridula Mukherjee & Aditya Mukherjee, *India After Independence, 1947–2000* (both tiers).
 - **Gold-standard reference files:** `basic/01_Decline-of-the-Mughal-Empire.md` + `advanced/01_Decline-of-the-Mughal-Empire.md` (house style).
 
 > Note: *From Plassey to Partition* (Sekhar Bandyopadhyay, present in the source library) is a supplementary modern-history text and may be cross-referenced but the KB spine is Bipin Chandra.

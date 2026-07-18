@@ -54,7 +54,7 @@
 > **Study link:** ✅ Moderate economic nationalism and organisational base connect back to `advanced/14_Foundation-of-INC-and-Moderate-Phase.md`.
 > **Study link:** ✅ Repression and frustration feed `advanced/16_Revolutionary-Nationalism-Phase-I.md`.
 > **Study link:** ✅ Separate electorates and communal representation connect to `advanced/17_Growth-of-Communalism-and-Muslim-League.md`.
-> **Study link:** ⚠️ Boycott and passive resistance anticipate `advanced/20_Non-Cooperation-and-Khilafat-Movement.md` and `advanced/22_Simon-Commission-Nehru-Report-Civil-Disobedience.md`.
+> **Study link:** ⚠️ Boycott and passive resistance anticipate `advanced/20_Non-Cooperation-and-Khilafat-Movement.md` and `advanced/22_Simon-Nehru-Report-CDM-and-RTC.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

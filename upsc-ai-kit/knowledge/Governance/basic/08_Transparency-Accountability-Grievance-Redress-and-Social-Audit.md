@@ -121,11 +121,12 @@ genuine answerability and remedy.
 
 ## 8. 📰 Current anchor
 
-- 📰 Verify the current operational status and coverage of Social Audit Units/State Social
-  Audit Societies under MGNREGA in specific states, and any post-2017 replication of
-  Meghalaya-style generalised social-audit legislation in other states, from Ministry of
-  Rural Development and respective state government sources before citing specific coverage
-  claims as current.
+- 📰 MGNREGA Section 17's social-audit mandate and the Meghalaya Community Participation and
+  Public Services Social Audit Act, 2017 remain the two durable statutory reference points
+  for this topic. No fixed current count of operational Social Audit Units/State Social
+  Audit Societies, or of states that have replicated Meghalaya-style generalised
+  social-audit legislation since 2017, is asserted here, since state-level adoption and
+  operational capacity continue to change.
 
 ## 9. PYQ application
 
@@ -174,5 +175,5 @@ genuine answerability and remedy.
 - ✅ `00_Master-Framework.md` — the transparency/answerability/enforceability distinction.
 - ✅ `Ethics/basic/15_Transparency-RTI-and-Information-Sharing.md` — the detailed RTI
   ethics/mechanics angle Ethics owns.
-- ✅ `Polity/basic/CIC-and-SIC.md` — the constitutional/statutory RTI body-composition angle
-  Polity owns.
+- ✅ `Polity/advanced/36_CIC-and-SIC.md` — the constitutional/statutory RTI body-composition
+  angle Polity owns.

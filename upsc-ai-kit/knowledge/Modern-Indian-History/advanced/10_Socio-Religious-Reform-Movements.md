@@ -48,9 +48,9 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Education, press and social policy background → `advanced/09_Social-and-Cultural-Policy.md`.
-> **Study link:** ⚠️ Reform associations trained the early public sphere that fed the INC → `advanced/14_Foundation-of-the-INC-and-the-Moderate-Phase.md`.
-> **Study link:** ⚠️ Anti-caste and social justice lines continue into constitutional equality and post-colonial democracy → `advanced/28_Integration-of-the-Princely-States-and-the-Making-of-the-Republic.md`.
+> **Study link:** ✅ Education, press and social policy background → `advanced/09_Social-and-Cultural-Policy-Education-Press.md`.
+> **Study link:** ⚠️ Reform associations trained the early public sphere that fed the INC → `advanced/14_Foundation-of-INC-and-Moderate-Phase.md`.
+> **Study link:** ⚠️ Anti-caste and social justice lines continue into constitutional equality and post-colonial democracy → `advanced/28_Integration-of-Princely-States.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

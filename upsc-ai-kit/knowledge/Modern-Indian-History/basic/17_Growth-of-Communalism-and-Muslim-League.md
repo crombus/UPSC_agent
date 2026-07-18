@@ -1,7 +1,7 @@
 # Growth of Communalism & the Muslim League — MUST-DO
 
 > **Subject:** History (Modern India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* + *India's Struggle for Independence* — communalism and national movement.
+> **Grounded in:** Bipin Chandra, *Modern India* (communalism and the national movement); organisational specifics (Simla Deputation, *Hindutva*, RSS) are standard survey knowledge.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/17_Growth-of-Communalism-and-Muslim-League.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -12,12 +12,13 @@
 | Date | Event |
 |---|---|
 | ✅ 1870s–80s | Syed Ahmad Khan's later politics stressed Muslim loyalism and caution toward Congress |
-| ✅ 1906 | All-India Muslim League founded at Dhaka with leaders such as Aga Khan and Nawab Salimullah |
+| ⚠️ Oct 1906 | **Simla Deputation**: Muslim notables (led by the Aga Khan) petition Viceroy Minto for separate Muslim representation |
+| ✅ Dec 1906 | All-India Muslim League founded at Dhaka with leaders such as Aga Khan and Nawab Salimullah |
 | ✅ 1909 | Morley-Minto reforms introduced separate electorates for Muslims |
 | ✅ 1915 | Hindu Mahasabha emerged as an all-India Hindu communal organisation |
 | ✅ 1916 | Lucknow Pact brought temporary Congress-League unity while accepting separate electorates |
-| ✅ 1923 | Savarkar's *Hindutva* articulated a Hindu nationalist identity framework |
-| ✅ 1925 | RSS founded as a Hindu communal organisation in the later trajectory |
+| ⚠️ 1923 | Savarkar's *Hindutva* articulated a Hindu nationalist identity framework |
+| ⚠️ 1925 | RSS founded as a Hindu communal organisation in the later trajectory |
 | ✅ 1940 | Lahore Resolution marked a later stage in the Muslim League's Pakistan demand trajectory |
 
 ## 1. Snapshot & core idea
@@ -52,7 +53,7 @@
 ## 3. Study links
 
 > **Study link:** ✅ Separate electorates connect back to `basic/15_Militant-Nationalism-and-Swadeshi.md` and Morley-Minto 1909.
-> **Study link:** ✅ Lucknow Pact connects forward to `basic/18_First-World-War-Home-Rule-League-Lucknow-Pact.md`.
+> **Study link:** ✅ Lucknow Pact connects forward to `basic/18_WWI-Home-Rule-and-Lucknow-Pact.md`.
 > **Study link:** ⚠️ Khilafat and post-Khilafat riots connect forward to `basic/20_Non-Cooperation-and-Khilafat-Movement.md`.
 > **Study link:** ⚠️ Partition trajectory connects forward to `basic/27_Independence-and-Partition.md`.
 
@@ -60,10 +61,11 @@
 
 - ✅ **All-India Muslim League** was founded in **1906** at **Dhaka**.
 - ✅ Key League-associated names include **Aga Khan** and **Nawab Salimullah**.
+- ⚠️ The **Simla Deputation (Oct 1906)** sought separate Muslim representation and immediately preceded the League's foundation.
 - ✅ **Separate electorates for Muslims** were introduced by the **Morley-Minto reforms / Indian Councils Act 1909**.
-- ✅ **Hindu Mahasabha** emerged in **1915**; **RSS** was founded later in **1925**.
+- ⚠️ **Hindu Mahasabha** emerged in **1915**; **RSS** was founded later in **1925**.
 - ✅ **Lucknow Pact 1916** represented temporary Congress-League cooperation and accepted separate electorates.
-- ✅ **Savarkar's Hindutva** appeared in **1923** as part of later Hindu communal ideology.
+- ⚠️ **Savarkar's Hindutva** appeared in **1923** as part of later Hindu communal ideology.
 - ✅ **Lahore Resolution 1940** belongs to the later Pakistan-demand trajectory, not to the 1906 foundation itself.
 - ⚠️ Communalism should be defined as political use of religious identity, not religion itself.
 

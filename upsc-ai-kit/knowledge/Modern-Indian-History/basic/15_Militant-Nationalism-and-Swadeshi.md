@@ -1,7 +1,7 @@
 # Militant Nationalism, Swadeshi & the Partition of Bengal — MUST-DO
 
 > **Subject:** History (Modern India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* — Chapter XIV, "The Rise of Militant Nationalism".
+> **Grounded in:** Bipin Chandra, *Modern India* — Chapter XIV, "Nationalist Movement 1905–1918".
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/15_Militant-Nationalism-and-Swadeshi.md`. Chronology spine: `00_Master-Chronology.md`.*
 

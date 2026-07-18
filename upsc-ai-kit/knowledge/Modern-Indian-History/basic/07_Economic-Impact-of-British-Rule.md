@@ -52,7 +52,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Company acquisition of Bengal revenue → `basic/04_The-British-Conquest-of-Bengal.md`.
+> **Study link:** ✅ Company acquisition of Bengal revenue → `basic/04_British-Conquest-of-Bengal.md`.
 > **Study link:** ✅ Administrative state extracting revenue → `basic/08_Administrative-Organisation.md`.
 > **Study link:** ⚠️ Moderate nationalist economic critique → `basic/14`.
 > **Study link:** ⚠️ Peasant and worker movements from economic distress → `basic/23`.

@@ -154,10 +154,12 @@ centralisation is bad.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Verify the current scale and specific cities/wards running participatory-budgeting
-  pilots, and MyGov's latest active consultation campaigns and their actual influence on
-  final policy outcomes, from Ministry of Housing and Urban Affairs, respective municipal
-  corporations, and the MyGov portal before citing specific current examples.
+- 📰 The consultation-versus-co-decision distinction (Section 2) is the fixed, durable
+  analytical tool for evaluating any participatory mechanism. No fixed current scale or list
+  of participatory-budgeting pilot cities/wards, or of MyGov's active campaigns, is asserted
+  here, since specific pilots and campaigns change over time; the durable fact is that
+  co-decision mechanisms (participatory budgeting) remain far less institutionalised in
+  India than consultation-based mechanisms (pre-legislative consultation, MyGov).
 
 ## 10. PYQ-based analytical application
 

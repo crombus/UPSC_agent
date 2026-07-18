@@ -82,14 +82,15 @@ correctives.
 ## 4. Institutional and reform architecture
 
 - ✅ The Digital Personal Data Protection Rules, 2025 were notified by MeitY on 13 November
-  2025, operationalising registration of Consent Managers and other DPDP Act mechanisms on a
-  staggered commencement timeline — verify the current status of each provision (which are
-  in force versus deferred) from the official Gazette notification before citing specific
-  compliance obligations as currently binding.
+  2025, bringing Rules 1, 2 and 17-21 (including establishment of the Data Protection Board)
+  into force immediately, Consent Manager registration (Rule 4) into force from 13 November
+  2026, and the remaining compliance obligations into force from 13 May 2027 — a fixed,
+  officially notified staggered timeline.
 - ✅ The Data Protection Board of India is the adjudicatory body under the DPDP Act, 2023,
   intended to handle complaints, impose penalties for non-compliance and direct remedial
-  measures — its actual operational independence and capacity should be verified from
-  current MeitY/Board sources rather than assumed from statutory design alone.
+  measures. Its case-outcome record will necessarily accumulate only after it becomes fully
+  operational under the Rules, 2025 timeline above; no current caseload or penalty-outcome
+  figure is asserted here since the Board's adjudicatory practice is still being built up.
 - ⚠️ RBI's Account Aggregator regulatory framework long preceded the DPDP Act, illustrating
   that India's data-governance architecture developed sector-by-sector (finance first) before
   a horizontal, cross-sector statute (DPDP Act) was enacted — a sequencing worth noting in
@@ -146,15 +147,16 @@ correctives.
   They are in structural tension and require deliberate technical/regulatory reconciliation
   (granular, purpose-specific consent), not an assumed default compatibility.
 - ❌ The DPDP Act, 2023 became fully operative on enactment in 2023. -> Its substantive
-  operationalisation depended on Rules notified later (13 November 2025), with staggered
-  commencement for different provisions — always verify the current commencement status.
+  operationalisation depended on Rules notified later (13 November 2025), with a staggered
+  commencement running through to 13 May 2027 for the remaining compliance obligations.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Track further MeitY notifications on DPDP Rules commencement (including Consent
-  Manager registration timelines and the full operational compliance deadline) and any
-  Data Protection Board rulings, since the framework is in an active, phased rollout as of
-  the 2025-2027 commencement schedule referenced in the Rules.
+- 📰 The DPDP Rules, 2025 set a fixed, officially notified staggered commencement running
+  from 13 November 2025 through 13 May 2027 (Section 4). No current Data Protection Board
+  ruling or enforcement-case figure is asserted here, since the Board's adjudicatory record
+  will only accumulate as the framework's compliance obligations progressively come into
+  force on this timeline.
 
 ## 10. PYQ-based analytical application
 
@@ -202,5 +204,5 @@ correctives alongside the DPDP Act's overlay.
 - ✅ `05_E-Governance-Models-and-User-Centricity.md` — the service-delivery layer built on
   DPI rails.
 - ✅ `13_Public-Finance-and-Service-Delivery-Tools.md` — Aadhaar-linked DBT/JAM fund flows.
-- ✅ `Polity/advanced/Fundamental-Rights.md` — the Puttaswamy right-to-privacy foundation
+- ✅ `Polity/advanced/07_Fundamental-Rights.md` — the Puttaswamy right-to-privacy foundation
   (Polity owns this constitutional dimension).

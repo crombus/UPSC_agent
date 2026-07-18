@@ -50,7 +50,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Congress ministries and the 1935 Act background → `basic/24_The-Government-of-India-Act-1935-and-Congress-Ministries.md`.
+> **Study link:** ✅ Congress ministries and the 1935 Act background → `basic/24_Government-of-India-Act-1935-and-Congress-Ministries.md`.
 > **Study link:** ✅ Post-war effects of Quit India and wartime nationalism → `basic/26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md`.
 > **Study link:** ⚠️ Constitutional offers from 1919 to 1946 → `basic/18`, `basic/22`, `basic/24`, `basic/26`.
 

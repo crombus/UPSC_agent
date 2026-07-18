@@ -126,10 +126,12 @@ across most Indian states is the central governance-quality problem this topic a
 
 ## 8. 📰 Current anchor
 
-- 📰 Verify the current status of state-level 3F devolution (own-revenue powers, functional
-  transfer, functionary control) and any recent rural-urban local-body merger proposals or
-  implementations from the Ministry of Panchayati Raj and respective state government
-  sources before citing specific current examples in an answer.
+- 📰 The 3Fs framework (Funds, Functions, Functionaries) is the fixed, durable diagnostic for
+  local-body service-delivery capacity. No fixed current devolution "score" for any specific
+  state is asserted here, since actual own-revenue powers, functional transfer and
+  functionary control continue to evolve state by state; the durable analytical point is
+  that a devolution gap between constitutional recognition and actual 3F transfer persists
+  in most states outside Kerala's benchmark model.
 
 ## 9. PYQ application
 
@@ -173,5 +175,5 @@ across most Indian states is the central governance-quality problem this topic a
 - ✅ `02_Government-Policy-Design-and-Implementation.md` — convergence at the local-body
   delivery level.
 - ✅ `14_Participatory-Governance.md` — Gram Sabha/Ward Committee participation quality.
-- ✅ `Polity/basic/Panchayati-Raj.md`, `Municipalities.md` — the constitutional structure,
-  composition and reservation detail Polity owns.
+- ✅ `Polity/advanced/23_Panchayati-Raj.md`, `Polity/advanced/24_Municipalities.md` — the
+  constitutional structure, composition and reservation detail Polity owns.

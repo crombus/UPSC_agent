@@ -1,7 +1,7 @@
 # Modern India — MASTER CHRONOLOGY (Full Timeline)
 
-> **Subject:** History (Modern India, c. 1707–1950) · **GS Paper:** GS-I (Modern History, Freedom Struggle) · **Also Prelims.**
-> **Grounded in:** Bipin Chandra, *Modern India* (basic) + *India's Struggle for Independence* (advanced).
+> **Subject:** History (Modern India, c. 1707–2000) · **GS Paper:** GS-I (Modern History, Freedom Struggle, Post-Independence Consolidation) · **Also Prelims.**
+> **Grounded in:** Bipin Chandra, *Modern India* (basic) + *India's Struggle for Independence* (advanced) + *India After Independence, 1947–2000* (post-1947 topics 29–38).
 > ✅ = from source book · ⚠️ = inference / standard periodisation · 📰 = current affairs.
 > *This is the spine. Every topic file (`basic/NN`, `advanced/NN`) carries its own mini-timeline; this file stitches them together.*
 
@@ -98,7 +98,27 @@
 | ✅ Integration of princely states (Patel & Menon) | 1947–49 | Accession; Junagadh, Hyderabad (1948), Kashmir (1947) |
 | ✅ Constitution adopted / Republic | 1949–50 | 26 Nov 1949 adopted; 26 Jan 1950 Republic |
 
-## 8. Date ladder (revise in 60 seconds)
+## 8. Post-Independence consolidation & change (1950–2000)
+
+| Event | Date | Significance |
+|---|---|---|
+| ✅ Planning Commission; First General Election | 1950–52 | Universal adult franchise; planned mixed economy begins |
+| ✅ Dar Commission / JVP Committee; Andhra state | 1948–53 | Caution, then the first linguistic state after Potti Sriramulu's death |
+| ✅ States Reorganisation Act | 1956 | 14 states + 6 UTs on the linguistic principle; Bombay (1960), Punjab (1966) follow |
+| ✅ Panchsheel; Bandung; NAM (Belgrade) | 1954–61 | Non-alignment as an active foreign policy |
+| ✅ India–China war; Nehru's death | 1962 / 1964 | Setback to Nehruvian optimism; succession test passed |
+| ✅ Shastri; 1965 war; Tashkent | 1964–66 | Second succession; "Jai Jawan Jai Kisan" |
+| ✅ Congress split; bank nationalisation | 1969 | Indira breaks the Syndicate; leftward populist turn |
+| ✅ Garibi Hatao win; Bangladesh war; privy purses abolished | 1971 | Indira's dominance; Pokhran-I (1974) follows |
+| ✅ JP movement; the Emergency | 1974–77 | Democracy tested; ended by the 1977 verdict |
+| ✅ Janata government; Indira's return | 1977 / 1980 | First non-Congress Centre; its collapse and Indira's comeback |
+| ✅ Operation Blue Star; Indira assassinated | 1984 | Punjab crisis climax; Rajiv Gandhi becomes PM |
+| ✅ Anti-Defection Act; Shah Bano; Bofors | 1985–87 | Rajiv's record mandate undone by scandal and identity politics |
+| ✅ Mandal; rath yatra | 1990 | OBC assertion and Hindutva mobilisation together |
+| ✅ Economic reforms (LPG); Rajiv assassinated | 1991 | Liberalisation under Narasimha Rao; Babri demolition (1992) |
+| ✅ Coalition era — United Front; NDA (Vajpayee) | 1996–99 | End of one-party dominance; coalition governance normalised |
+
+## 9. Date ladder (revise in 60 seconds)
 
 - ⚠️ **1707** Aurangzeb dies → **1757 Plassey** → **1764 Buxar** → **1765 Diwani** (Company as ruler).
 - ⚠️ **1773** Regulating Act → **1784** Pitt's → **1793** Permanent Settlement → **1833** GG of India.
@@ -107,11 +127,12 @@
 - ⚠️ **1916** Lucknow Pact/Home Rule → **1919** Rowlatt + Jallianwala + GoI Act → **1920–22** NCM/Khilafat.
 - ⚠️ **1929** Purna Swaraj → **1930** Dandi/CDM → **1931** Gandhi-Irwin → **1935** GoI Act.
 - ⚠️ **1942** Cripps + Quit India → **1946** Cabinet Mission/RIN Mutiny → **1947** Independence & Partition → **1950** Republic.
+- ⚠️ **1953** Andhra → **1956** States Reorganisation → **1962** China war → **1969** Congress split/bank nationalisation → **1971** Bangladesh war → **1975–77** Emergency → **1991** reforms → **1992** Babri.
 
 > 🔑 **Trap:** **Plassey (1757)** was a near-bloodless coup via conspiracy (Mir Jafar); **Buxar (1764)** was the real *military* victory that made the Company supreme. Don't confuse the two. And **separate electorates = Morley-Minto 1909**, not 1919.
 
-## 9. Cross-links
+## 10. Cross-links
 
 > **Study link:** ✅ Each era → its topic file, e.g. Plassey/Buxar → `basic/04`+`advanced/04`; NCM-Khilafat → `basic/20`,`advanced/20`; Quit India → `basic/25`,`advanced/25`.
 > **Study link:** ⚠️ Constitutional ladder (1773 → 1858 → 1861 → 1892 → 1909 → 1919 → 1935) is threaded across `06`, `12`, `18`, `22`, `24` — also a **Polity** overlap.
-> **Study link:** ⚠️ Bridges *back* into **Medieval** (Mughal decline, Panipat III 1761) → `Medieval-Indian-History`; and *forward* into **Post-Independence India** (integration, Constitution) → future `Post-Independence-India`.
+> **Study link:** ⚠️ Bridges *back* into **Medieval** (Mughal decline, Panipat III 1761) → `Medieval-Indian-History`; and *forward* into the **post-independence topics 29–38** (consolidation, reorganisation, Nehru era, Emergency, reforms) within this same folder.

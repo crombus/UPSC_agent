@@ -53,7 +53,7 @@
 ## 3. Study links
 
 > **Study link:** ✅ Non-Cooperation withdrawal and Gandhian constructive programme → `advanced/20_Non-Cooperation-and-Khilafat-Movement.md`.
-> **Study link:** ✅ Simon Commission protests and Lala Lajpat Rai's death → `advanced/22_Simon-Commission-Nehru-Report-Civil-Disobedience.md`.
+> **Study link:** ✅ Simon Commission protests and Lala Lajpat Rai's death → `advanced/22_Simon-Nehru-Report-CDM-and-RTC.md`.
 > **Study link:** ⚠️ Left, workers and peasant politics of the 1930s → `advanced/23_Left-Peasant-Workers-and-States-Peoples-Movements.md`.
 
 ## 4. Must-Know Facts (Prelims)

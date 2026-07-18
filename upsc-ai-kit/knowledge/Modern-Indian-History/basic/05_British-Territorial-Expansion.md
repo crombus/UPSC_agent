@@ -1,7 +1,7 @@
 # British Territorial Expansion (Mysore, Marathas, Sikhs) — MUST-DO
 
 > **Subject:** History (Modern India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* — Chapter IV, "British Territorial Expansion".
+> **Grounded in:** Bipin Chandra, *Modern India* — Chapter IV, "The British Conquest of India" (Mysore, Maratha and Sikh wars; Subsidiary Alliance & Lapse).
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/05_British-Territorial-Expansion.md`. Chronology spine: `00_Master-Chronology.md`.*
 

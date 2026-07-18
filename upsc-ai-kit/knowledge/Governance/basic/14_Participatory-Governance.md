@@ -131,10 +131,12 @@ failure, not a resource or capacity failure alone.
 
 ## 8. 📰 Current anchor
 
-- 📰 Verify current, specific participatory-budgeting pilot cities/wards and MyGov's latest
-  active campaigns/consultation initiatives from official Ministry of Housing and Urban
-  Affairs, respective municipal corporations, and the MyGov portal before citing specific
-  current examples.
+- 📰 Subsidiarity, pre-legislative consultation (2014) and MyGov are fixed, durable features
+  of India's participatory-governance architecture. No fixed current list of
+  participatory-budgeting pilot cities/wards or of MyGov's active campaigns is asserted
+  here, since specific pilots and campaigns change over time; the durable fact is that
+  participatory budgeting remains a limited, pilot-scale practice in India rather than a
+  universal municipal-budgeting method.
 
 ## 9. PYQ application
 

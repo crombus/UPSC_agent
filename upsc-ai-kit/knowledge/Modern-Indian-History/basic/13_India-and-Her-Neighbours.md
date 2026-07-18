@@ -53,7 +53,7 @@
 
 > **Study link:** ✅ British expansion methods and annexations → `basic/05_British-Territorial-Expansion.md`.
 > **Study link:** ✅ Crown-era administration and Curzon's imperial state → `basic/12_Administrative-Changes-After-1858.md`.
-> **Study link:** ⚠️ Later international borders and integration issues → `basic/28_Integration-of-the-Princely-States-and-the-Making-of-the-Republic.md`.
+> **Study link:** ⚠️ Later international borders and integration issues → `basic/28_Integration-of-Princely-States.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

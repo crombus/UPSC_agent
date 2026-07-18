@@ -17,15 +17,15 @@
 | ✅ 1915 | Hindu Mahasabha emerged as organised Hindu communal politics expanded |
 | ✅ 1916 | Lucknow Pact produced Congress-League cooperation but validated separate electorates |
 | ✅ 1920s | Post-Khilafat decade saw recurring communal riots in several regions |
-| ✅ 1923 | Savarkar's *Hindutva* articulated a political-cultural Hindu identity framework |
+| ⚠️ 1923 | Savarkar's *Hindutva* articulated a political-cultural Hindu identity framework |
 | ✅ 1940 | Lahore Resolution marked a later decisive stage in the Pakistan-demand trajectory |
 
 ## 1. Snapshot & core idea
 
 **Deeper — Bipin Chandra defines communalism as a staged modern ideology.**
 
-- ✅ Bipin Chandra identifies communalism as the belief that religious communities have separate and often conflicting secular interests.
-- ✅ He distinguishes stages: **liberal communalism** claims separate community interests within a common nation; **communalism** treats interests as mutually opposed; **extreme or fascist communalism** treats the other community as an enemy to be suppressed.
+- ✅ Bipin Chandra defines communalism as an ideology built in **three stages**: (1) people who follow the same religion are assumed to share **common secular interests** — political, economic, social and cultural — the bedrock that turns a religion into a "community"; (2) in a multi-religious society these secular interests are seen as **dissimilar and divergent** from those of other religious communities; (3) the interests are finally seen as **mutually incompatible, antagonistic and hostile**.
+- ✅ The first two stages together form **liberal (mild) communalism**; the third is **extreme / fascist communalism** — the direction in which the Muslim League and Hindu Mahasabha after 1937, and the RSS, increasingly moved.
 - ✅ Communalism grew from colonial structures, middle-class competition, political underdevelopment and the failure to fully spread secular economic nationalism among the masses.
 - ⚠️ This theory is instrumental and modernist: it explains communalism through politics and social interests, not primordial hatred.
 
@@ -40,9 +40,9 @@
 
 | Analytical theme | Advanced detail |
 |---|---|
-| ✅ Liberal communalism | Community interests asserted while still accepting a broader Indian political framework |
-| ✅ Communalism proper | Community interests treated as mutually conflicting with other communities |
-| ✅ Extreme communalism | Other community projected as hostile enemy; politics moves toward exclusion |
+| ✅ Stage 1 (bedrock) | Co-religionists assumed to share common secular (political, economic, social, cultural) interests → religion becomes a "community" |
+| ✅ Stage 2 (liberal communalism) | Secular interests of different religious communities seen as dissimilar and divergent |
+| ✅ Stage 3 (extreme/fascist communalism) | Those interests seen as mutually incompatible, antagonistic and hostile |
 | ✅ Colonial role | Separate electorates, official patronage and divide-and-rule institutionalised identity politics |
 | ✅ Socio-economic root | Competition among educated middle classes for jobs, seats, status and access to government |
 | ✅ Muslim League | Founded in Dhaka in 1906 by elite leadership; later trajectory moved toward Pakistan demand |
@@ -52,7 +52,7 @@
 ## 3. Study links
 
 > **Study link:** ✅ Morley-Minto and separate electorates connect back to `advanced/15_Militant-Nationalism-and-Swadeshi.md`.
-> **Study link:** ✅ Lucknow Pact connects forward to `advanced/18_First-World-War-Home-Rule-League-Lucknow-Pact.md`.
+> **Study link:** ✅ Lucknow Pact connects forward to `advanced/18_WWI-Home-Rule-and-Lucknow-Pact.md`.
 > **Study link:** ✅ Khilafat, Non-Cooperation and post-1920s communal tension connect forward to `advanced/20_Non-Cooperation-and-Khilafat-Movement.md`.
 > **Study link:** ⚠️ Lahore Resolution and Partition endgame connect forward to `advanced/27_Independence-and-Partition.md`.
 
@@ -64,7 +64,7 @@
 - ✅ **Hindu Mahasabha** emerged in **1915**; **RSS** was founded in **1925**.
 - ✅ **Savarkar's Hindutva** was published in **1923**.
 - ✅ **Lahore Resolution** came in **1940**, much later than League foundation and separate electorates.
-- ✅ Bipin Chandra's stages are liberal communalism, communalism and extreme/fascist communalism.
+- ✅ Bipin Chandra's three stages run **common secular interests → divergent interests → mutually hostile interests** (the first two = liberal communalism; the third = extreme/fascist communalism).
 - ⚠️ Use "communalism" only for political ideology, not as a synonym for religious devotion.
 
 ## 5. UPSC Traps

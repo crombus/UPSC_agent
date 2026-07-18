@@ -50,8 +50,8 @@
 ## 3. Study links
 
 > **Study link:** ✅ The immediate background is the Revolt of 1857 → `basic/11_The-Revolt-of-1857.md`.
-> **Study link:** ⚠️ Earlier constitutional development from 1773 to 1858 → `basic/06_Structure-of-Government-and-Constitutional-Development.md`.
-> **Study link:** ✅ Later nationalist demands for representation → `basic/14_Foundation-of-the-INC-and-the-Moderate-Phase.md` and `basic/18_First-World-War-the-Home-Rule-League-and-the-Lucknow-Pact.md`.
+> **Study link:** ⚠️ Earlier constitutional development from 1773 to 1858 → `basic/06_Government-Structure-and-Constitutional-Development-1757-1858.md`.
+> **Study link:** ✅ Later nationalist demands for representation → `basic/14_Foundation-of-INC-and-Moderate-Phase.md` and `basic/18_WWI-Home-Rule-and-Lucknow-Pact.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

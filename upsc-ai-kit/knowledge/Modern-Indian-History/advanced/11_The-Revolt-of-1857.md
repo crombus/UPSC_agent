@@ -48,7 +48,7 @@
 ## 3. Study links
 
 > **Study link:** ✅ Annexation, Doctrine of Lapse and Awadh background → `advanced/05_British-Territorial-Expansion.md`.
-> **Study link:** ✅ Colonial education/social policy and missionary anxieties → `advanced/09_Social-and-Cultural-Policy.md`.
+> **Study link:** ✅ Colonial education/social policy and missionary anxieties → `advanced/09_Social-and-Cultural-Policy-Education-Press.md`.
 > **Study link:** ✅ Post-1858 Crown state and army reorganisation → `advanced/12_Administrative-Changes-After-1858.md`.
 
 ## 4. Must-Know Facts (Prelims)

@@ -48,9 +48,9 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Social and cultural policy background → `basic/09_Social-and-Cultural-Policy.md`.
-> **Study link:** ⚠️ Reform currents shaped early nationalist leadership → `basic/14_Foundation-of-the-INC-and-the-Moderate-Phase.md`.
-> **Study link:** ⚠️ Anti-caste politics later connects to Ambedkar, Periyar and constitutional equality → `basic/28_Integration-of-the-Princely-States-and-the-Making-of-the-Republic.md`.
+> **Study link:** ✅ Social and cultural policy background → `basic/09_Social-and-Cultural-Policy-Education-Press.md`.
+> **Study link:** ⚠️ Reform currents shaped early nationalist leadership → `basic/14_Foundation-of-INC-and-Moderate-Phase.md`.
+> **Study link:** ⚠️ Anti-caste politics later connects to Ambedkar, Periyar and constitutional equality → `basic/28_Integration-of-Princely-States.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

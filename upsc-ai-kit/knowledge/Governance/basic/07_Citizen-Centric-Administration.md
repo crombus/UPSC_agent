@@ -114,16 +114,18 @@ on its promise.
   enforcement) that makes any charter's promise actually deliverable.
 - ❌ CPGRAMS only covers Union departments. -> CPGRAMS has increasingly integrated with
   several state grievance-redress systems, though coverage and integration depth vary by
-  state — verify current integration status rather than assuming uniform coverage.
+  state, not uniformly across India.
 - ❌ Citizens' Charters are static, one-time documents. -> Good practice (and the 2024 PYQ's
   implicit expectation) is periodic, consultative revision as service delivery conditions
   change.
 
 ## 8. 📰 Current anchor
 
-- 📰 Verify from DARPG's current CPGRAMS and Sevottam material which states have RTS Acts in
-  force and their current statutory service lists, since state RTS coverage and specific
-  service lists are periodically expanded/revised.
+- 📰 Madhya Pradesh's 2010 Right to Public Services Act remains the founding, durable
+  reference point for statutory service-delivery timelines, and several other states have
+  since enacted similar RTS legislation. No fixed, exhaustive current list of RTS-covered
+  states and their specific notified service lists is asserted here, since state coverage
+  and service lists continue to expand.
 
 ## 9. PYQ application
 

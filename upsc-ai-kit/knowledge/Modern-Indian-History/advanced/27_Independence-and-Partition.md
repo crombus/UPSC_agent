@@ -53,7 +53,7 @@
 
 > **Study link:** ✅ Cabinet Mission's failure → `advanced/26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md`.
 > **Study link:** ✅ Princely states after lapse of paramountcy → `advanced/28_Integration-of-Princely-States.md`.
-> **Study link:** ⚠️ Long-term communalism and separate electorates → `advanced/17_Growth-of-Communalism-and-the-Muslim-League.md`.
+> **Study link:** ⚠️ Long-term communalism and separate electorates → `advanced/17_Growth-of-Communalism-and-Muslim-League.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

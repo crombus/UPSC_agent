@@ -3,7 +3,9 @@
 > **Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II.
 > **Core area:** Sectoral regulators, the autonomy-accountability-expertise trilemma,
 > regulatory capture, tribunalisation and the Tribunals Reforms Act, 2021.
-> **Grounded in:** Tribunals Reforms Act, 2021; FSLRC, 2013; audited 2025 GS-II PYQ.
+> **Grounded in:** Tribunals Reforms Act, 2021; Supreme Court judgment of 19 November 2025
+> (Madras Bar Association litigation) striking down its tenure/age provisions; FSLRC, 2013;
+> audited 2025 GS-II PYQ.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/11_Regulatory-Governance-and-Independent-Regulators.md`.*
 
@@ -40,9 +42,9 @@ rather than treating "regulatory independence" as a single yes/no property.
 | Concept | Precise meaning |
 |---|---|
 | ✅ **De jure vs de facto independence** | A regulator's statute may grant strong formal (de jure) independence (fixed tenure, removal only for cause) while its actual (de facto) independence is weaker in practice due to budgetary dependence on the ministry, informal government pressure on appointments, or a revolving-door relationship with the regulated industry — the gap between the two is a standard analytical wedge for evaluating any specific regulator. |
-| ✅ **Tribunalisation's dual rationale and dual risk** | Tribunals are justified by (a) technical expertise unavailable in generalist courts and (b) speed/reduced court backlog; their dual risk is (a) erosion of due-process/procedural safeguards associated with the ordinary court system and (b) proliferation without adequate independence safeguards, which the Tribunals Reforms Act, 2021 partly addressed by standardising appointment/tenure conditions while also reducing the number of tribunals through abolition. |
+| ✅ **Tribunalisation's dual rationale and dual risk** | Tribunals are justified by (a) technical expertise unavailable in generalist courts and (b) speed/reduced court backlog; their dual risk is (a) erosion of due-process/procedural safeguards associated with the ordinary court system and (b) proliferation without adequate independence safeguards. The Tribunals Reforms Act, 2021 attempted to address the second risk by standardising appointment/tenure conditions while reducing the number of tribunals through abolition, but the Supreme Court struck down its four-year-tenure and 50-year minimum-age provisions on 19 November 2025, holding that Parliament had re-enacted terms already declared unconstitutional in earlier Madras Bar Association judgments. |
 | ✅ **FSLRC's "regulation by activity" principle** | FSLRC's proposed Unified Financial Agency was grounded in regulating financial products/activities consistently regardless of which institution offers them (addressing regulatory arbitrage where similar products faced different rules under different regulators) — a principle distinct from India's traditional "regulation by institution type" (banks under RBI, insurers under IRDAI, etc.), and one that remains only partially realised. |
-| ⚠️ **Search-cum-selection committees as a capture safeguard** | The Tribunals Reforms Act, 2021's mandated search-cum-selection committees for tribunal appointments are designed to reduce direct executive discretion in appointments — a structural anti-capture/anti-politicisation safeguard, though the executive retains influence through committee composition and the final appointment decision from the recommended panel. |
+| ⚠️ **Search-cum-selection committees as a capture safeguard** | The Tribunals Reforms Act, 2021's mandated search-cum-selection committees for tribunal appointments are designed to reduce direct executive discretion in appointments — a structural anti-capture/anti-politicisation safeguard, though the executive retains influence through committee composition and the final appointment decision from the recommended panel; the appointment-process safeguard survived the Court's 19 November 2025 ruling even as the tenure/age provisions did not. |
 
 ## 3. Detailed causal chain: independence design to capture risk (and correction)
 
@@ -87,12 +89,13 @@ rather than treating "regulatory independence" as a single yes/no property.
 
 ## 4. Institutional and reform architecture
 
-- ✅ The Tribunals Reforms Act, 2021 prescribes uniform qualifications, four-year tenure (as
-  a common standard across most covered tribunals, subject to a minimum age requirement for
-  continuation), and search-cum-selection committee-based appointments — verify the current,
-  specific tenure/age provisions from the Act's text/subsequent judicial rulings before
-  citing exact figures, since some provisions have faced constitutional challenge and
-  judicial modification.
+- ✅ The Tribunals Reforms Act, 2021 as enacted prescribed a four-year tenure for tribunal
+  chairpersons/members (subject to a minimum age requirement for continuation) and
+  search-cum-selection committee-based appointments; the Supreme Court's Madras Bar
+  Association line of judgments has subsequently read down or modified some of these
+  tenure/age provisions on separation-of-powers and judicial-independence grounds. The
+  durable point is that the Act's original design has been an active site of judicial
+  review, not a settled, unchallenged framework.
 - ✅ FSLRC (2013) additionally proposed a draft Indian Financial Code intended to
   consolidate and modernise financial-sector legislation alongside its regulatory-
   unification proposal — both remain substantially unimplemented as comprehensive reforms,
@@ -135,11 +138,16 @@ rather than treating "regulatory independence" as a single yes/no property.
 
 - ✅ The Tribunals Reforms Act, 2021 mandates search-cum-selection committees for
   appointments to tribunals covered under the Act, intended to standardise and depoliticise
-  the appointment process.
+  the appointment process; this appointment-process feature was not struck down by the
+  Supreme Court's 19 November 2025 judgment, which invalidated only the Act's tenure and
+  minimum-age provisions.
 - ✅ FSLRC's proposed Unified Financial Agency was based on a "regulation by activity"
   principle, contrasting with India's traditional "regulation by institution type" model.
 - ✅ The RBI was excluded from FSLRC's proposed Unified Financial Agency, retaining separate
   regulatory authority over banking and payment systems.
+- ✅ The Supreme Court's 19 November 2025 judgment directed the Union Government to
+  establish a National Tribunal Commission within four months, to institutionalise tribunal
+  appointment and administration going forward.
 
 ## 8. Advanced Prelims traps
 
@@ -154,14 +162,19 @@ rather than treating "regulatory independence" as a single yes/no property.
   same recommendation. -> They are two distinct, related FSLRC proposals — institutional
   unification (Unified Financial Agency) and legislative consolidation (Indian Financial
   Code) — both largely unimplemented as comprehensive reforms.
+- ❌ The Tribunals Reforms Act, 2021's four-year tenure and 50-year minimum-age provisions
+  are still in force. -> The Supreme Court struck these down on 19 November 2025 as an
+  impermissible re-enactment of terms already declared unconstitutional in earlier Madras
+  Bar Association judgments, restoring the five-year tenure standard pending a National
+  Tribunal Commission.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Verify the current tenure/age provisions for tribunal members post-2021 (some
-  provisions have been subject to judicial review and modification) and the latest
-  caseload/pendency data for High Courts absorbing functions from abolished tribunals,
-  from Ministry of Law and Justice/PRS Legislative Research sources, before citing specific
-  current figures.
+- 📰 The Supreme Court's 19 November 2025 judgment is the fixed, current legal status:
+  it struck down the Tribunals Reforms Act, 2021's four-year tenure and 50-year minimum-age
+  provisions and directed a National Tribunal Commission within four months. No fixed
+  current caseload/pendency figure for High Courts absorbing functions from abolished
+  tribunals is asserted here, since such data changes continuously.
 
 ## 10. PYQ-based analytical application
 
@@ -169,7 +182,10 @@ rather than treating "regulatory independence" as a single yes/no property.
   standardisation/anti-politicisation gain from search-cum-selection committees alongside
   the specialised-adjudication-capacity risk from tribunal abolition and High Court
   workload transfer — a generic "tribunals are good because they are fast" answer would
-  under-perform relative to this trade-off-aware structure.
+  under-perform relative to this trade-off-aware structure. For any answer written after
+  November 2025, add that the Supreme Court has since struck down the Act's tenure/age
+  provisions, showing that the 2021 reform's appointment-design choices remained
+  constitutionally contested rather than settled.
 
 ## 11. Mains-ready framework
 
@@ -208,5 +224,5 @@ illustrates the political-economy limits of comprehensive regulatory unification
   pattern in commission-driven reform.
 - ✅ `01_Good-Governance-Concepts-and-Frameworks.md` — the Regulatory Quality dimension of
   WGI.
-- ✅ `Polity/advanced/Supreme-Court.md`, `High-Court.md` — the constitutional judiciary
-  Polity owns, distinct from statutory tribunals.
+- ✅ `Polity/advanced/18_Supreme-Court.md`, `Polity/advanced/21_High-Court-and-Subordinate-Courts.md`
+  — the constitutional judiciary Polity owns, distinct from statutory tribunals.

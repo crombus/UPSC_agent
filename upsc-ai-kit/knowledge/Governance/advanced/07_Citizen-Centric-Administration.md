@@ -144,9 +144,11 @@ reform efforts that focus only on charter *language* miss the actual bottleneck.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Verify the current list of states with active RTS Acts, their currently notified
-  service lists, and CPGRAMS's latest state-integration status from DARPG before citing
-  specific coverage claims as current in an answer.
+- 📰 The RTS model's defining, durable feature is its designated-officer, timeline and
+  penalty structure (Section 3 of the basic file), pioneered by Madhya Pradesh in 2010. No
+  fixed, exhaustive current list of RTS-covered states, their notified service lists, or
+  CPGRAMS's state-integration depth is asserted here, since coverage continues to expand
+  state by state.
 
 ## 10. PYQ-based analytical application
 

@@ -51,7 +51,7 @@
 ## 3. Study links
 
 > **Study link:** ✅ NCM withdrawal and Chauri Chaura background → `basic/20_Non-Cooperation-and-Khilafat-Movement.md`.
-> **Study link:** ✅ Simon Commission and Lala Lajpat Rai's death background to Saunders killing → `basic/22_Simon-Commission-Nehru-Report-Civil-Disobedience.md`.
+> **Study link:** ✅ Simon Commission and Lala Lajpat Rai's death background to Saunders killing → `basic/22_Simon-Nehru-Report-CDM-and-RTC.md`.
 > **Study link:** ⚠️ Revolutionary Phase I before WWI → `basic/16_Revolutionary-Nationalism-Phase-I.md`.
 
 ## 4. Must-Know Facts (Prelims)

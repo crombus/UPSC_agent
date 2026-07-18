@@ -1,7 +1,7 @@
 # The Beginnings of European Settlements — MUST-DO
 
 > **Subject:** History (Modern India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* — Chapter III, "The Beginnings of European Settlements".
+> **Grounded in:** Bipin Chandra, *Modern India* — Chapter III, "The Beginnings of European Settlements"; some company-specific details (Danish Tranquebar, Amboyna, Compagnie des Indes) are standard survey knowledge.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/03_Beginnings-of-European-Settlements.md`. Chronology spine: `00_Master-Chronology.md`.*
 

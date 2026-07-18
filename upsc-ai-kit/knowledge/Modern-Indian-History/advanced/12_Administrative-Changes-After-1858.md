@@ -50,8 +50,8 @@
 ## 3. Study links
 
 > **Study link:** ✅ 1857 forced the policy shift → `advanced/11_The-Revolt-of-1857.md`.
-> **Study link:** ⚠️ Earlier Company constitutional structure → `advanced/06_Structure-of-Government-and-Constitutional-Development.md`.
-> **Study link:** ✅ Moderate constitutional demands and council reforms → `advanced/14_Foundation-of-the-INC-and-the-Moderate-Phase.md` and `advanced/18_First-World-War-the-Home-Rule-League-and-the-Lucknow-Pact.md`.
+> **Study link:** ⚠️ Earlier Company constitutional structure → `advanced/06_Government-Structure-and-Constitutional-Development-1757-1858.md`.
+> **Study link:** ✅ Moderate constitutional demands and council reforms → `advanced/14_Foundation-of-INC-and-Moderate-Phase.md` and `advanced/18_WWI-Home-Rule-and-Lucknow-Pact.md`.
 
 ## 4. Must-Know Facts (Prelims)
 

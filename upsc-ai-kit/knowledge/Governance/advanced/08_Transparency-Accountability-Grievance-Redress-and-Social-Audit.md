@@ -88,10 +88,10 @@ different institutional answers to the independence test, with different strengt
 
 - ✅ MGNREGA's Section 17 framework has been operationalised nationally through State Social
   Audit Units/Societies in most implementing states, following central guidelines for audit
-  frequency, public-hearing procedure and follow-up action reporting — verify the current
-  operational and functional-independence status of a specific state's Social Audit Unit
-  before citing it as a uniformly strong model, since capacity and independence vary
-  considerably across states.
+  frequency, public-hearing procedure and follow-up action reporting. No fixed, uniform
+  independence rating is asserted here for any specific state's Social Audit Unit, since
+  capacity and functional independence vary considerably across states — this variation is
+  itself the durable analytical point, not a gap to be resolved by citing one figure.
 - ✅ The Meghalaya Community Participation and Public Services Social Audit Act, 2017
   explicitly legislates for Social Audit Units, independent social auditors, community
   participation rights (including access to relevant records) and mandated consideration of
@@ -155,10 +155,11 @@ different institutional answers to the independence test, with different strengt
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Verify the current functional status, staffing adequacy and independence of specific
-  State Social Audit Units/Societies under MGNREGA, and whether any additional states have
-  enacted Meghalaya-style generalised social-audit legislation since 2017, from Ministry of
-  Rural Development and respective state sources before citing coverage claims as current.
+- 📰 MGNREGA Section 17 and the Meghalaya Act, 2017 remain the two fixed statutory
+  reference points for this topic. No fixed current count of functionally independent
+  State Social Audit Units, or of additional states that have enacted Meghalaya-style
+  generalised social-audit legislation since 2017, is asserted here, since state-level
+  adoption is an ongoing, expanding process rather than a settled figure.
 
 ## 10. PYQ-based analytical application
 
@@ -205,4 +206,4 @@ independence and mandated enforcement.
 - ✅ `Ethics/advanced/21_Protecting-Honest-Officials-and-Vigilance-Administration.md` —
   protections for officials facing disciplinary consequences from audit findings (Ethics
   owns this angle).
-- ✅ `Polity/advanced/CAG.md` — the constitutional financial-audit mechanism Polity owns.
+- ✅ `Polity/advanced/32_CAG.md` — the constitutional financial-audit mechanism Polity owns.

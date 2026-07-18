@@ -97,8 +97,9 @@ duplicating report content here.
 ## 7. UPSC traps
 
 - ❌ ARC recommendations are automatically enacted law. -> They are dated reform proposals;
-  implementation requires separate legislative, rule-making or administrative action, which
-  should be independently verified before being cited as current practice.
+  implementation requires separate legislative, rule-making or administrative action, and a
+  recommendation's status is properly described as "proposed," "partially implemented" or
+  "adopted" rather than assumed to be current practice by default.
 - ❌ The First and Second ARCs covered identical subject matter. -> The First ARC (1966-1970)
   addressed the immediate post-Independence administrative structure; the Second ARC
   (2005-2009) addressed governance challenges of a liberalised, technology-enabled,
@@ -112,9 +113,11 @@ duplicating report content here.
 
 ## 8. 📰 Current anchor
 
-- 📰 Verify DARPG's latest published implementation-status tracking for specific ARC
-  recommendations (which have been accepted, partially implemented, or not acted upon)
-  before citing a recommendation's current implementation status as settled fact.
+- 📰 DARPG is the fixed institutional home for ARC-recommendation tracking. No fixed,
+  single implementation status ("accepted," "partially implemented" or "not acted upon") is
+  asserted here for any specific recommendation across the board, since implementation
+  status differs recommendation by recommendation and is best stated report-by-report (see
+  the routing table and the destination topic files) rather than generalised.
 
 ## 9. PYQ application
 
@@ -128,15 +131,17 @@ duplicating report content here.
 
 - ⚠️ When a question implicitly draws on ARC material, name the specific report (by title,
   not just "the ARC said") to demonstrate precise source knowledge.
-- ⚠️ Always qualify ARC citations as recommendations from a dated report unless you can
-  verify current implementation — this precision itself earns credit in GS-II answers.
+- ⚠️ Always qualify ARC citations as recommendations from a dated report rather than
+  asserting they are current implemented practice — this precision itself earns credit in
+  GS-II answers.
 - ⚠️ Use this file only to identify the correct report and routing; develop the actual
   analytical content in the destination topic file.
 
 > **Answer thesis:** The Second ARC's 15 reports remain the backbone of GS-II governance
 > reform knowledge, but they are dated (2006-2009) analytical recommendations, not current
-> law — correct use requires routing each report to its live topic file and verifying present
-> implementation status before citing it as settled current practice.
+> law — correct use requires routing each report to its live topic file and describing its
+> implementation status precisely (proposed, partially implemented or adopted) rather than
+> treating it as settled current practice by default.
 
 ## 11. Probable questions
 

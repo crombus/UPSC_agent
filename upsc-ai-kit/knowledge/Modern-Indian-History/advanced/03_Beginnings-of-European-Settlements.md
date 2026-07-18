@@ -1,7 +1,7 @@
 # The Beginnings of European Settlements — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* (Ch. III) + *India's Struggle for Independence* (backdrop) — with historiography on mercantilism and the company-state.
+> **Grounded in:** Bipin Chandra, *Modern India* (Ch. III) + *India's Struggle for Independence* (backdrop) — with historiography on mercantilism and the company-state; some company-specific details (*cartaz*, Amboyna, Bedara, Compagnie des Indes) are standard survey knowledge.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/03_Beginnings-of-European-Settlements.md`. Chronology spine: `00_Master-Chronology.md`.*
 

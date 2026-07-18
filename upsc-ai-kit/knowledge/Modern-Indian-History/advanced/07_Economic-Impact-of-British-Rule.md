@@ -51,7 +51,7 @@
 
 ## 3. Study links
 
-> **Study link:** ✅ Revenue rights after Buxar and Diwani → `advanced/04_The-British-Conquest-of-Bengal.md`.
+> **Study link:** ✅ Revenue rights after Buxar and Diwani → `advanced/04_British-Conquest-of-Bengal.md`.
 > **Study link:** ✅ Law, bureaucracy and police enforcing revenue order → `advanced/08_Administrative-Organisation.md`.
 > **Study link:** ⚠️ Early INC and Moderate economic critique → `advanced/14`.
 > **Study link:** ⚠️ Peasant, worker and left movements as later social response → `advanced/23`.
