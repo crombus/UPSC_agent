@@ -146,6 +146,28 @@ Internal Security · Disaster Management · Current Affairs
   Leong + CA anchor**; `advanced/` = **Dr. D.R. Khullar + Majid Husain India geography + extra
   distinct CA**. **Both tiers must carry a current-affairs anchor.** (Khullar = optional-level depth.)
 
+### 5b. Philosophy Optional PDF creation
+
+- Follow `PHILOSOPHY_VISUAL_NOTES_AI_PLAYBOOK.md` for every topic-wise Philosophy PDF.
+- Also follow `PHILOSOPHY_PDF_CONTENT_AND_VISUAL_STANDARD.md`. Content determines
+  the design: never reduce substantive doctrine, criticisms, comparisons, PYQs
+  or answer frameworks merely to shorten or beautify a PDF.
+- Analyze available local Philosophy PDFs directly; do not replace direct source analysis with
+  Qdrant/RAG summaries when the PDFs are available.
+- Before each PDF, research current educational information-design patterns and
+  choose visuals by learning purpose rather than defaulting to Venn diagrams.
+- Each PDF must be visually learnable and include topic-specific mind maps, argument or causal
+  flows, concept links, comparison tables, memory hooks, must-know facts, UPSC traps, PYQ routes,
+  and 10/15/20-mark answer frameworks.
+- Never split tables, facts/traps panels, memory hooks, diagrams, Mains-angle
+  panels or Study-link panels across pages. Keep all diagram text inside
+  measured nodes or bounded detail cards.
+- Use `tools/upsc_register_pdf.py` and its optional `concept_map`, `flow_diagram`, `memory_hook`,
+  and `link_map` fields.
+- Validate the final PDF for content coverage, empty pages, clipping, overlap, and unsupported
+  glyphs. Delete the temporary `_data.py` module only after successful generation.
+- Save Philosophy PDFs under the correct category folder inside `notes/Philosophy/`.
+
 ---
 
 ## 6. Study tracking (dates & methods)
