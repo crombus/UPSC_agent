@@ -22,6 +22,7 @@ newspapers/
 ingestion/*.txt
 ingestion/ocr_cache/
 ingestion/**/*.txt
+!ingestion/requirements.txt
 _ocr_*.txt
 _med_*.txt
 query_outputs_*/
