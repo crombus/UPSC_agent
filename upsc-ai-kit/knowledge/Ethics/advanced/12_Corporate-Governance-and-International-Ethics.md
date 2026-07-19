@@ -151,11 +151,11 @@ fraud investigation, whistleblower protection) are directly transferable to the 
   Serious Fraud Office proposal. -> They are related but not necessarily identical in scope/powers;
   verify current SFIO statutory powers independently before equating the two.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Continuing global and Indian corporate net-zero/ESG disclosure pressure (an established, ongoing regulatory and market direction) | Frames the 2024 GS-IV AI/data-centre case study's tension as part of a broader, live corporate-ethics debate on verifiable climate commitments versus reputational ESG signalling. |
+| ⚠️ Corporate net-zero and ESG-disclosure pressure | Frames the 2024 AI/data-centre case study as a verifiability-versus-signalling dilemma; cite the applicable dated SEBI disclosure instrument before stating a current obligation. |
 
 ## 10. PYQ-based analytical application
 

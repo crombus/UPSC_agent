@@ -65,7 +65,7 @@ qualified claim that goes beyond the prompt's own words.
 
 | Prompt (example) | Candidate thesis | Qualification |
 |---|---|---|
-| 2024-B4 "Cost of being wrong… less than… doing nothing." | Reversible, evidence-based experimentation should be preferred to paralysis | Only where errors are reversible and safeguarded — irreversible/high-harm risks need precaution |
+| 2024-B8 "Cost of being wrong… less than… doing nothing." | Reversible, evidence-based experimentation should be preferred to paralysis | Only where errors are reversible and safeguarded — irreversible/high-harm risks need precaution |
 | 2025-B7 "Life as journey, not destination." | Process, learning and ethical means should be valued alongside achievement | Destinations/targets still matter for accountability and cannot be dismissed entirely |
 | 2024-A4 "The doubter is a true man of science." | Disciplined, evidence-seeking doubt is essential to scientific and civic progress | Only disciplined doubt (falsifiable, methodical) qualifies — indiscriminate denialism does not |
 

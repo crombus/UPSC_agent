@@ -117,6 +117,11 @@ compliance exercise rather than a genuine environmental-outcome mechanism.
 
 ## 9. 📰 Current anchor — analytical use
 
+📰 **End-of-Life Vehicles Rules, 2025** (effective 1 April 2025) extend
+EPR comparison to vehicle producers/owners/scrapping centres while preserving
+separate battery, plastic, e-waste and hazardous-waste regimes.
+[MoEFCC S.O. 98(E)](https://www.moef.gov.in/storage/tender/1736939644.pdf).
+
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 E-Waste (Management) Rules, 2022 and amended Plastic Waste Management Rules — current EPR-based governing framework (verify latest EPR target percentages/notifications before citing). | Use as the baseline for any question on India's waste-governance reform trajectory, paired with the verification-capacity and informal-sector-integration critiques for full analytical depth. |

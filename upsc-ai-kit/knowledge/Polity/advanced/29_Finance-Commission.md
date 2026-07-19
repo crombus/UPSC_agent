@@ -76,3 +76,10 @@ Envisaged as the **"balancing wheel of fiscal federalism"** in India.
 - Should vertical devolution be constitutionally floored at a minimum % to protect states from cess/surcharge
   erosion of the divisible pool?
 - Horizontal devolution criteria: balancing equity (income distance) with efficiency (GDP contribution).
+
+## Verified PYQ cross-link
+
+- ✅ **2025 GS-II Q14 (15 marks, 250 words)** asks how Centre-State financial
+  relations evolved through planned development and how recent reforms affected fiscal
+  federalism. Use this file for Finance Commission/devolution and the 16th FC; the
+  complete historical route is in `13_Centre-State-and-Inter-State-Relations.md`.

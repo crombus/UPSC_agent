@@ -93,9 +93,12 @@ explicitly rather than treating AI and environment as unrelated topics.
 
 ## 4. Institutional and reform architecture
 
-- ⚠️ India's Digital Personal Data Protection Act (DPDP, 2023) and evolving AI-governance guidelines
-  (📰 verify current regulatory status independently) represent the domestic legal architecture
-  attempting to operationalise algorithmic accountability and data-consent principles — cross-link
+- 📰 India's Digital Personal Data Protection Act/Rules and the **India AI
+  Governance Guidelines (November 2025)** are distinct domestic layers:
+  DPDP governs personal-data processing, while the Guidelines articulate
+  people-first, fairness, accountability, understandability, safety and
+  sustainability principles for AI. They do not amount to one comprehensive
+  AI statute — cross-link
   `Science-and-Technology/basic/09_Artificial-Intelligence-Governance-and-IndiaAI.md` and
   `Science-and-Technology/basic/12_Data-Protection-DPDP-Act-and-Cybersecurity.md` for statutory
   detail, to avoid duplicating that policy content here.
@@ -156,7 +159,8 @@ explicitly rather than treating AI and environment as unrelated topics.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 India's Digital Personal Data Protection Act, 2023 and evolving national AI-governance guidelines (verify current implementation status independently) | Provides the domestic legal-institutional anchor for algorithmic-accountability recommendations in any Mains answer on AI ethics in administration. |
+| 📰 India AI Governance Guidelines (November 2025) | Provide the dated domestic principles anchor for human-centric, fair, accountable, understandable, safe and sustainable AI; distinguish this non-statutory framework from DPDP law. |
+| 📰 India AI Impact Summit (16-21 February 2026) | Its People, Planet and Progress framing supplies a current bridge between inclusion, human agency and AI's environmental footprint. |
 | 📰 Paris Agreement NDC cycles (ongoing, periodically updated) | Anchors CBDR-RC discussion in the current international climate-governance architecture rather than only the 1992 UNFCCC baseline. |
 
 ## 10. PYQ-based analytical application

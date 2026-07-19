@@ -4,8 +4,8 @@
 > Mains; two essays required, one from each displayed Section, about
 > 1000–1200 words each).
 > **Research cutoff:** 18 July 2026.
-> **Corpus:** audited local UPSC Essay papers for 2024 and 2025 (full text
-> below). No other Essay-paper years were supplied or audited.
+> **Corpus:** 100 verified prompts from UPSC Essay papers, 2013-2025;
+> complete ledger in `PYQ-Corpus-2013-2025.md`.
 > **Start here:** `00_Master-Framework.md`.
 
 ---
@@ -43,52 +43,17 @@
 
 ## Source policy — read before using any prompt in this folder
 
-This folder is grounded in two local text extractions (and their source
-PDFs under `books\mains\`), each independently opened and read in full
-before any content below was written:
+The complete prompt ledger is
+`PYQ-Corpus-2013-2025.md`. The 2017-2025 wording was checked against
+UPSC-hosted PDFs; 2013-2016 was checked against archived transcriptions of
+the official papers. Local OCR is evidence to locate text, not authority
+for spelling or numbering: extraction artefacts are corrected against the
+paper.
 
-- `UPSC Mains 2024 Essay Paper.txt` — internal heading reads **"UPSC
-  Mains Paper-2024"** (Hindi: eq[; ijh{kk&2024), and contains the eight
-  prompts listed as "2024" throughout this folder (Forests/deserts,
-  empires of the mind, happiness, the doubter, FOMO, adversity/power,
-  simple ideas, cost of being wrong).
-- `UPSC Mains 2025 Essay Paper.txt` — internal heading reads **"UPSC
-  Mains Exam-2025"** (Hindi: eq[; ijh{kk&2025), and contains the eight
-  prompts listed as "2025" throughout this folder (Truth knows no color,
-  supreme art of war, thought finds/creates, bitter experiences, muddy
-  water, years teach, life as a journey, contentment).
+Neither 2024 nor 2025 prints an author attribution beside any prompt.
+Do not add one merely because an aphorism is commonly attributed online.
 
-**The filenames are correctly matched to their internal year headings.**
-Each file's printed heading, section structure and topic set is internally
-consistent with its filename and corroborated by the corresponding PDF
-under `books\mains\`.
-
-### ❌ Source-paper defects preserved, not corrected
-
-Both papers contain printed defects. This folder quotes each prompt and
-instruction **exactly as printed**, then labels the defect — it never
-silently "fixes" the source:
-
-- **2024 instruction, exact:** "Write two essays, choosing one topic from
-  each of the following Sections A and B, in about 1000-1200 words
-  each:" followed by "(125 × 2 = 250)." Section B **restarts its own
-  numbering at 1–4** rather than continuing 5–8.
-- **2024 A2, exact:** "The empires of the **futures** will be the empires
-  of the mind." — prints "futures," not "future."
-- **2024 A3, exact:** "There is no path to happiness, **Happiness** is
-  the  path." — mid-sentence capital "Happiness" and a printed double
-  space before "path."
-- Neither 2024 nor 2025 prompts carry any **author attribution** in the
-  source paper.
-- **2025 instruction, exact, including its own defect:** "Write two
-  essays, choosing one topic from each of the following **Sections A
-  as** in about 1000 – 1200 words each:" — ordinary grammar would expect
-  "Sections A and B"; the paper as printed reads "Sections A as." This
-  folder quotes it verbatim and explains the operative requirement
-  (choose one topic from each displayed Section) rather than silently
-  rewriting the sentence.
-
-## Full prompt index (verbatim)
+## Recent prompt index
 
 ### 2024 — `UPSC Mains 2024 Essay Paper.txt`
 
@@ -99,19 +64,18 @@ the following Sections A and B, in about 1000-1200 words each:" (125 × 2
 | Label | Exact wording |
 |---|---|
 | 2024-A1 | "Forests precede civilizations and deserts follow them." |
-| 2024-A2 | "The empires of the futures will be the empires of the mind." |
-| 2024-A3 | "There is no path to happiness, Happiness is the  path." |
+| 2024-A2 | "The empires of the future will be the empires of the mind." |
+| 2024-A3 | "There is no path to happiness; Happiness is the path." |
 | 2024-A4 | "The doubter is a true man of science." |
-| 2024-B1 | "Social media is triggering ‘Fear of Missing Out’ amongst the youth precipitating depression and loneliness." |
-| 2024-B2 | "Nearly all men can stand adversity, but to test the character, give him power." |
-| 2024-B3 | "All ideas having large consequences are always simple." |
-| 2024-B4 | "The cost of being wrong is less than the cost of doing nothing." |
+| 2024-B5 | "Social media is triggering ‘Fear of Missing Out’ amongst the youth, precipitating depression and loneliness." |
+| 2024-B6 | "Nearly all men can stand adversity, but to test the character, give him power." |
+| 2024-B7 | "All ideas having large consequences are always simple." |
+| 2024-B8 | "The cost of being wrong is less than the cost of doing nothing." |
 
 ### 2025 — `UPSC Mains 2025 Essay Paper.txt`
 
-Instruction (exact, with its own defect): "Write two essays, choosing one
-topic from each of the following Sections A as in about 1000 – 1200
-words each:"
+Instruction: "Write two essays, choosing one topic from each of the
+following Sections A and B, in about 1000-1200 words each:"
 
 | Label | Exact wording |
 |---|---|
@@ -124,11 +88,8 @@ words each:"
 | 2025-B7 | "It is best to see life as a journey, not as a destination." |
 | 2025-B8 | "Contentment is natural wealth; luxury is artificial poverty." |
 
-All 16 prompts above are unattributed in both source papers. Per topics
-`09` and `16`, this folder never attaches an author to any of them unless
-a primary/authoritative source independently verifies exact wording,
-authorship and context — and even then, attribution is optional, not a
-scoring requirement.
+All 16 recent prompts above are unattributed in the papers. The same
+quotation-safety rule applies to the full 100-prompt corpus.
 
 ## Topic map
 
@@ -149,7 +110,7 @@ scoring requirement.
 | 13 | Time Management, Planning and Execution | Choice, planning, drafting and revision under real time pressure |
 | 14 | Language, Style and Functional Visuals | Precise prose; visuals only where they clarify an actual process/comparison |
 | 15 | Self-Evaluation and Internal Practice Rubric | A clearly non-official internal diagnostic scorecard |
-| 16 | Practice Loops, PYQ Lab and Revision System | Routing and interpretive outlines for all 16 audited prompts; error logs; spaced reattempts |
+| 16 | Practice Loops, PYQ Lab and Revision System | Recent 16-prompt deep routing plus the 100-prompt corpus; error logs; spaced reattempts |
 
 ## Boundaries with other subject modules
 
@@ -178,17 +139,17 @@ link** (topic `12`), never a bare fact dump borrowed from another folder.
 
 1. Read `00_Master-Framework.md` first — it is the decode → expand →
    thesis → argument → evidence → structure → conclusion → revision
-   answer engine every topic below plugs into, plus the summary routing
-   table for all 16 audited prompts.
-2. New to essay writing: read `basic/01` through `basic/09` in order,
+   answer engine every topic below plugs into, plus recent summary routing.
+2. Use `PYQ-Corpus-2013-2025.md` as the exact 100-prompt ledger.
+3. New to essay writing: read `basic/01` through `basic/09` in order,
    then `basic/13`–`16` for execution and practice.
-3. Already comfortable with structure: go straight to the matching
+4. Already comfortable with structure: go straight to the matching
    `advanced/NN` file for the skill you are weakest in, using its
    `Companion:` link back to the basic file only if a foundational gap
    appears.
-4. Before any timed attempt, read `advanced/16` (or `basic/16`) for the
+5. Before any timed attempt, read `advanced/16` (or `basic/16`) for the
    routing/outline of the specific prompt you intend to practise.
-5. After every attempt, log it using topic `15`'s internal rubric and
+6. After every attempt, log it using topic `15`'s internal rubric and
    topic `16`'s error log — never skip the revision-loop step.
 
 ## Tag legend

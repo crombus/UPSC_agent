@@ -90,6 +90,12 @@ sensors -> controller / software -> actuator / motor -> action
 
 ## 8. 📰 Current anchor
 
+- 📰 **Namo Drone Didi operational guidelines (2024):** support selected
+  women SHGs to own drones and provide rental services to farmers, with
+  training/handholding and financial assistance. This is a farm-service/
+  livelihood scheme; it does not replace DGCA airworthiness, pilot or airspace
+  rules. [PIB source](https://pib.gov.in/PressNoteDetails.aspx?NoteId=153383).
+
 - 📰 **03 Oct 2023 | Drone (Amendment) Rules, 2023 | Status: notified.** The drone-rule framework continued to evolve after the 2021 base rules.
 - 📰 **29 Nov 2022 | PLI operational guidelines | Status: implementation framework issued.** Operational guidelines followed the earlier PLI decision for drones and components.
 - 📰 **16 Jul 2026 | Digital Sky / FAQ access date | Status: portal live.** Official Digital Sky resources remained publicly accessible.

@@ -145,11 +145,11 @@ a punitive one.
 - ❌ "Positive silence" eliminates corruption risk in permit/licensing processes entirely. -> ARC
   itself cautions it can relocate corruption risk to the back-end enforcement/inspection stage.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Continuing expansion of unified digital citizen-service portals (state and central single-window platforms, an established, ongoing e-governance direction) | Provides a contemporary extension of the E-Seva model, useful for updating "how to design a modern Citizens' Charter" Mains answers beyond the ARC's 2007-era examples. |
+| ⚠️ Unified digital citizen-service and single-window portals | Provide a contemporary extension of the E-Seva model; name and date a specific portal before claiming present coverage or performance. |
 
 ## 10. PYQ-based analytical application
 

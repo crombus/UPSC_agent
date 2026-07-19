@@ -101,6 +101,11 @@
 | ✅ 8,887 AMRUT 2.0 projects approved by Jan 2025 | Urbanisation is ultimately about water and sewerage networks | Good for “quality of urbanisation” argument |
 | ⚠️ Service deficits remain uneven across cities | Urban transition is spatially unequal | Good concluding line |
 
+⚠️ **Census 2027 routing:** statutory/census-town and urban-agglomeration
+baselines remain Census 2011 until new results are released. The notified
+schedule is recorded in `26_World-Population-and-Demographic-Transition.md`;
+never convert a scheduled exercise into current urbanisation data.
+
 ## 10. Mains angles
 
 - “India's urban problem is not only urban growth but the quality of urbanisation.” Discuss.

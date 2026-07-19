@@ -45,6 +45,11 @@
 | 25 | Cultural Interaction with Asian Countries | 30 |
 | 26 | From Ancient to Medieval: Social Change & Legacy | 31–33 |
 
+## Recent exact PYQ route
+
+- **2024 GS-I:** “Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words)” → primary answer matrix: `advanced/09_Later-Vedic-Phase.md`; foundation comparison: `basic/09_Later-Vedic-Phase.md`; Rig Vedic baseline only: `advanced/08_Rig-Vedic-Age.md`.
+- **Boundary:** Pallava/Chola art-and-architecture PYQs route primarily to `Indian-Art-and-Culture`; this folder supplies political and social chronology without duplicating form/technique analysis.
+
 ## Sources
 
 - **Basic (must-do):** R.S. Sharma, *India's Ancient Past* (Oxford).

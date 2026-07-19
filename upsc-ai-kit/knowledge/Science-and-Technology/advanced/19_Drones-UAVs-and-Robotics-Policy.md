@@ -98,6 +98,11 @@ platform + propulsion + sensors + communication + payload
 
 ## 9. 📰 Current anchor -> analytical use
 
+📰 **Namo Drone Didi operational guidelines (2024)** connect women SHGs,
+agricultural rental services, finance and training. This livelihood/service
+scheme complements—but does not replace—DGCA safety, pilot and airspace rules.
+[PIB source](https://pib.gov.in/PressNoteDetails.aspx?NoteId=153383).
+
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 **03 Oct 2023:** Drone (Amendment) Rules, 2023. **Status:** notified. | Use it to show that drone regulation is an evolving framework, not a one-time 2021 event. |

@@ -137,11 +137,11 @@ about which theory is doing the justificatory work in a given recommendation.
   alone should not be the *sole* basis for evaluating good-faith decisions; process and intention
   must also be assessed.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 AI-assisted administrative decision-making (an established, ongoing governance debate, tested directly in 2024 GS-IV Q1(a)) | Provides a live application: an AI recommendation optimises consequentialist welfare metrics but may violate deontological fairness/dignity constraints unless explicitly constrained — see `13` for full treatment. |
+| ⚠️ AI-assisted administrative decision-making | Provides a live application of consequentialist efficiency versus deontological fairness; the 2024 PYQ is the exam anchor and topic `13` supplies dated policy anchors. |
 
 ## 10. PYQ-based analytical application
 

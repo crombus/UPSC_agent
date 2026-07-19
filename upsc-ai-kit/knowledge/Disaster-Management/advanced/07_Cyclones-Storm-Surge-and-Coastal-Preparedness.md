@@ -157,6 +157,14 @@ analyse both chains separately.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
+- 📰 **Cyclone Remal (May 2024)** is the current worked case: official
+  IMD/PIB material links forecasting and warning to evacuation, NDRF/ICG/Navy
+  readiness and cascading Northeast impacts. Use it to test the
+  warning-to-action chain, not merely to narrate damage.
+  [Official case source](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2021706).
+- 📰 The current official coastline baseline is **11,098.81 km** after the
+  2025 GIS/HWL remeasurement; legacy coastline figures must remain labelled as
+  document-period. [PIB source](https://pib.gov.in/PressReleasePage.aspx?PRID=2198800).
 - 📰 **IMD's cyclone bulletin/service pages**, active as of 18 July 2026,
   are the correct current anchor for warning-issuance practice and
   current cyclone-season status.

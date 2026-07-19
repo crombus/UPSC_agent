@@ -13,7 +13,7 @@
 ```text
    80 items, 200 marks, 2 hours              (from the printed instruction page)
             |
-   2.5 marks correct  /  -0.833 wrong  /  0 blank
+   2.5 marks correct  /  -5/6 wrong  /  0 blank
             |
      Goal = QUALIFY (minimum standard, commonly stated 33% = 66/200)
             |
@@ -25,7 +25,7 @@
 ```
 
 - ✅ **Facts (from the paper's own instruction page):** 80 items; 200 marks; two hours; equal marks
-  (so 2.5 each); one-third penalty for a wrong answer (so about 0.833); multiple marks = wrong;
+  (so 2.5 each); one-third penalty for a wrong answer (so `5/6 = 0.8333...`); multiple marks = wrong;
   blank = no penalty.
 - ⚠️ **Qualifying standard:** commonly stated as 33% (66/200). **Verify against the current
   notification.** The strategy below assumes only that the bar is well below full marks - which is
@@ -60,7 +60,8 @@ CHOOSE the option the passage can DEFEND, not the one that is merely true
 
 - ⚠️ **Passage-only discipline** is the single highest-yield CSAT habit: the correct option is the
   one **entailed by the text**, not the factually correct real-world statement.
-- ⚠️ Match the **question type** to a test (full method in `basic/01`): central idea = "what does
+- ⚠️ Match the **question type** to a test (full method in
+  [basic/01](basic/01_Reading-Comprehension.md)): central idea = "what does
   the whole passage support?"; inference = "what must also be true?"; assumption = "what does the
   argument silently rely on?"; tone = "what attitude does the wording reveal?".
 
@@ -114,19 +115,19 @@ MATCH to an option; if two survive, test the boundary case
 
 ## 7. Negative-marking and risk logic
 
-At 2.5 correct and 0.833 wrong, the expected value of an attempt with success probability `p` is:
+At `2.5` correct and `5/6` wrong, the expected value of an attempt with success probability `p` is:
 
 ```text
-EV(p) = p x 2.5  -  (1 - p) x 0.833
-EV = 0  when  p = 0.833 / (2.5 + 0.833) = 0.25   (exactly a 1-in-4 blind guess)
+EV(p) = p x 2.5  -  (1 - p) x 5/6
+EV = 0  when  p = (5/6) / (2.5 + 5/6) = 1/4   (exactly a 1-in-4 blind guess)
 ```
 
 | Situation after your work | p (roughly) | EV per item | Action |
 |---|---|---|---|
 | No idea, four live options | 0.25 | 0 | Break-even; skip unless you want variance. |
-| One option eliminated (1 of 3) | 0.33 | +0.28 | Attempt. |
-| Two eliminated (1 of 2) | 0.50 | +0.83 | Attempt. |
-| Confident | 0.8-1.0 | +1.8 to +2.5 | Always attempt. |
+| One option eliminated (1 of 3) | 1/3 | +5/18 (~0.28) | Attempt. |
+| Two eliminated (1 of 2) | 1/2 | +5/6 (~0.83) | Attempt. |
+| Confident | 0.8-1.0 | +11/6 to +2.5 | Always attempt. |
 
 - ⚠️ **Takeaway:** a blind guess is **not** free money - it is a coin with zero mean. **Every
   elimination** you can justify turns a guess positive. Guess **after** eliminating, not before.
@@ -179,32 +180,32 @@ that classification.
 
 | Topic | Skill family | 2024 | 2025 | 2026 (prov.) | 3-yr total | Share of 240 |
 |---|---|---:|---:|---:|---:|---:|
-| 01 | Reading Comprehension | 26 | 32 | 12 | 70 | ~29% |
-| 02 | Number Systems | 11 | 8 | 7 | 26 | ~11% |
-| 03 | Arithmetic (commercial math) | 8 | 3 | 4 | 15 | ~6% |
-| 04 | Rates, Motion, Time & Geometry | 5 | 2 | 10 | 17 | ~7% |
-| 05 | Algebra, Inequalities & Data Sufficiency | 21 | 5 | 23 | 49 | ~20% |
-| 06 | Logical Reasoning, Coding, Counting & DI | 9 | 30 | 24 | 63 | ~26% |
+| 01 | Reading Comprehension | 27 | 29 | 23 | 79 | ~33% |
+| 02 | Number Systems | 13 | 19 | 12 | 44 | ~18% |
+| 03 | Arithmetic (commercial math) | 8 | 3 | 7 | 18 | ~8% |
+| 04 | Rates, Motion, Time & Geometry | 7 | 6 | 8 | 21 | ~9% |
+| 05 | Algebra, Inequalities & Data Sufficiency | 13 | 11 | 9 | 33 | ~14% |
+| 06 | Logical Reasoning, Coding, Counting & DI | 12 | 12 | 21 | 45 | ~19% |
 | | **Total** | **80** | **80** | **80** | **240** | **100%** |
 
 **What the audit reliably shows (robust to the fuzzy boundary):**
 
-- ⚠️ **Reading Comprehension is the single largest family every year** and never below roughly a
-  seventh of the paper - so **Topic 01 is the top study priority** and the safest bank of marks.
-- ⚠️ **Reasoning + Data Sufficiency together (Topics 05+06)** are the **largest block overall**
-  (49 + 63 = 112 of 240, about **47%**). A candidate who is strong at comprehension **and** reasoning
-  is already attempting close to three-quarters of the paper with high accuracy.
-- ⚠️ **Pure commercial arithmetic (Topic 03) is comparatively light** (about 6%), and **number
-  theory (Topic 02) is steady** (about 11%). Heavy computation is **not** where the paper is decided;
-  reading and reasoning are.
-- ⚠️ The paper's **weight shifts year to year** (e.g., reasoning-heavy 2025 vs quant/DS-heavy 2026),
+- ⚠️ **Reading Comprehension is the largest three-year family** and the largest family in each
+  audited year, including the **provisional 2026 classification**.
+- ⚠️ **Reasoning + Data Sufficiency together (Topics 05+06)** account for **78 of 240 (32.5%)**,
+  almost the same as Reading Comprehension alone (79 of 240). Read Topics 05 and 06 together because
+  their boundary is method-dependent.
+- ⚠️ **Pure commercial arithmetic (Topic 03) is comparatively light** (about 8%), while **number
+  systems (Topic 02)** form a substantial recurring block (about 18%).
+- ⚠️ The paper's **weight shifts year to year** (notably Topic 06's rise in provisional 2026),
   which is exactly why the safe-score plan is **breadth of competence across all six families**, not
   betting on one.
 
 ## 11. Study sequence
 
-1. Read this framework and the `README.md` topic map.
-2. **Foundation first, in order:** `basic/01` (comprehension) -> `basic/06`.
-3. **Then drill:** `advanced/01` -> `advanced/06`, one family at a time.
+1. Read this framework and the [README topic map](README.md).
+2. **Foundation first, in order:** [basic/01](basic/01_Reading-Comprehension.md) through [basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md).
+3. **Then drill:** [advanced/01](advanced/01_Reading-Comprehension.md) through [advanced/06](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md), one family at a time.
 4. **Integrate:** timed mixed sets, logging every error by the Section 8 code.
-5. **Track and gate:** use `00_Readiness-Tracker.md` to confirm readiness before the exam.
+5. **Audit the evidence:** use the [Question Audit Ledger](00_Question-Audit-Ledger.md) for the question-level map.
+6. **Track progress:** use the internal self-diagnostics in the [Readiness Tracker](00_Readiness-Tracker.md).

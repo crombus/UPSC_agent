@@ -28,7 +28,7 @@ been run.
 
 - **Aphorism prompts** (most of both years' Sections): compressed,
   metaphorical, require decoding before dimension-work is possible.
-- **Issue-statement prompts** (e.g. 2024-B1 on social media/FOMO): more
+- **Issue-statement prompts** (e.g. 2024-B5 on social media/FOMO): more
   directly empirical/social, require scoping (`03`) rather than
   metaphor-decoding.
 - **High-fit prompt:** thesis emerges within about a minute, ≥2 real
@@ -177,7 +177,8 @@ enough to choose confidently.
 paper-structural, not time-sensitive; do not attach a current-affairs
 date merely to satisfy a tagging habit.
 
-**Practice lab:** Using the full 16-prompt index in `../README.md`,
+**Practice lab:** Using one complete year from
+`../PYQ-Corpus-2013-2025.md`,
 run the Section 6/Section 7 (basic-file) checks on all eight prompts
 from one year within 15 minutes, and record which single prompt you
 would commit to and why, in two sentences.

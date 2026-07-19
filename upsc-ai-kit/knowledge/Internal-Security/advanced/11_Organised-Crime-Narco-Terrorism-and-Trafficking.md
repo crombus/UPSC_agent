@@ -188,8 +188,11 @@ on physical smuggling routes and cash-based extortion alone.
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2022 GS-III organised-crime PYQ:** use the type taxonomy, then show
+  national and transnational crime-terror linkages through finance,
+  logistics, protection, routes and shared facilitators.
 - ✅ **2024 Q9 (verbatim, local paper text reproduced verbatim):** "Explain
-  how narco-terrosrism has emerged as a serious threat across the
+  how narco-terrorism has emerged as a serious threat across the
   country. Suggest suitable measures to counter narco-terrorism."
   - Advanced structure: after the basic-tier definitional/route-geography
     answer, add (i) the regional-financing-model distinction as the

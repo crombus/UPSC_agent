@@ -108,7 +108,17 @@ application.
 - ✅ 2024 GS-IV Case Study Q1: tech company's AI-driven data-centre emissions vs profitability/
   sustainability (see `12`).
 
-## 8. Mains angles
+## 8. 📰 Current anchors
+
+- 📰 **India AI Governance Guidelines (November 2025):** provide a dated,
+  domestic framework for people-first, fair, accountable, understandable,
+  safe and sustainable AI; use them for institutional safeguards, not as a
+  claim that India has enacted a comprehensive AI statute.
+- 📰 **India AI Impact Summit (16-21 February 2026):** its People, Planet and
+  Progress framing links human-centric AI, inclusion and environmental
+  sustainability to the ethical dilemmas in this topic.
+
+## 9. Mains angles
 
 - ⚠️ For any AI-ethics question, explicitly name the specific risk (bias, opacity, accountability
   diffusion, over-reliance/de-skilling of human judgment) rather than giving a generic "AI has pros
@@ -122,7 +132,7 @@ application.
 > principle — since existing rules cannot yet fully anticipate harms whose scale, opacity or
 > irreversibility is genuinely novel.
 
-## 9. Probable questions
+## 10. Probable questions
 
 - ⚠️ **Prelims:** What does the precautionary principle require in conditions of scientific
   uncertainty?
@@ -132,7 +142,7 @@ application.
   development projects in ecologically sensitive border areas, balancing national security and
   ecological protection.
 
-## 10. Study links
+## 11. Study links
 
 - ✅ Advanced companion: `advanced/13_Emerging-Ethics-Technology-AI-and-Environment.md`.
 - ✅ `12_Corporate-Governance-and-International-Ethics.md` — the corporate AI/environment case study.

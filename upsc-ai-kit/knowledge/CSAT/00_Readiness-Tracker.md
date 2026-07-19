@@ -4,7 +4,7 @@
 > template, accuracy/attempt/risk metrics, an error log, a spaced-revision plan, readiness gates, and
 > a topic matrix. **Templates are intentionally blank** - fill your own numbers each cycle; do not
 > treat any sample row as a real score.
-> **Pairs with:** `00_Master-Framework.md` (Section 8 error codes, Section 7 risk logic).
+> **Pairs with:** [Master Framework](00_Master-Framework.md) (Section 8 error codes, Section 7 risk logic).
 
 ---
 
@@ -42,6 +42,7 @@ Mark each `[ ]` -> `[x]` only when you can do it **without notes** and **within 
 - [ ] Linear/circular arrangements, blood relations, directions.
 - [ ] Coding-decoding, syllogism/deduction, decision-making scenarios.
 - [ ] Counting/probability basics and reading DI tables/graphs.
+- [ ] Communication relationships/tools/barriers and neutral questionnaire design.
 
 ## 2. Timed-set log (template - copy one block per set)
 
@@ -50,7 +51,7 @@ Mark each `[ ]` -> `[x]` only when you can do it **without notes** and **within 
 |  | mixed / topic |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
-- **Net marks** = `2.5 x correct - 0.833 x wrong` (blank contributes 0).
+- **Net marks** = `2.5 x correct - (5/6) x wrong` (blank contributes 0).
 - Keep **time cap** realistic (e.g., 30 items in 45 min for a topic set).
 
 ## 3. Accuracy / attempt / risk metrics (compute each set)
@@ -97,20 +98,24 @@ R (reading), P (passage-only violation), T (time), G (guess).
 | Day 15 | Error-log-only revision (no fresh notes). | [ ] |
 | Day 30 | Full timed 80-item mock; re-audit metrics. | [ ] |
 
-## 6. Readiness gates (do not skip a gate)
+## 6. Internal self-diagnostic gates
+
+> ⚠️ These are **author-created practice diagnostics**, not UPSC eligibility rules, cutoffs, or
+> official readiness standards. Adapt them to your error log and verify the actual qualifying rule
+> from the current examination notification.
 
 Advance only when the gate condition holds on **at least two** recent timed sets.
 
 | Gate | Condition | Cleared? |
 |---|---|---|
-| **G1 - Foundation** | All Section 1 checkboxes ticked for Topics 01, 05, 06 (the three biggest families). | [ ] |
+| **G1 - Foundation** | All Section 1 checkboxes ticked for Topics 01, 02, 06 (the three largest audited families). | [ ] |
 | **G2 - Accuracy** | Accuracy on attempted items is consistently high on topic sets. | [ ] |
 | **G3 - Selection** | Attempt rate high **and** guess quality above the 1-in-4 blind line. | [ ] |
 | **G4 - Time** | Full 80-item mock finished within two hours with a Pass-3 buffer. | [ ] |
 | **G5 - Margin** | Net marks on full mocks sit **comfortably above** the qualifying bar (verify the bar against the current notification). | [ ] |
 
-> 🔑 **G5 is the real target.** CSAT is qualifying: once G5 holds repeatedly, shift effort back to
-> Paper I. Do **not** chase a perfect CSAT score at the cost of GS-I.
+> 🔑 **Internal planning use:** when G5 holds repeatedly in realistic mocks, consider shifting more
+> effort back to Paper I. This is study guidance, not an official clearance prediction.
 
 ## 7. Topic-competence matrix (RAG self-rating)
 
@@ -126,5 +131,5 @@ after each Day-7 mixed set.
 | 05 Algebra, Inequalities & DS |  |  |  |  |  |
 | 06 Logical Reasoning, Coding & DI |  |  |  |  |  |
 
-- ⚠️ Prioritise turning **red** cells in the **big families (01, 05, 06)** to amber first - that
-  moves the qualifying needle fastest (see the trend table in `00_Master-Framework.md`).
+- ⚠️ Prioritise turning **red** cells in the **big families (01, 02, 06)** to amber first - that
+  moves the qualifying needle fastest (see the trend table in the [Master Framework](00_Master-Framework.md)).

@@ -3,7 +3,8 @@
 > **Subject:** Indian Society | **Tier:** Advanced | **GS Paper:** GS-I.
 > **Core area:** The jajmani-decline causal chain, dominant-caste power theory, Green
 > Revolution class differentiation, and rural-urban continuum boundary cases.
-> **Grounded in:** M.N. Srinivas's village sociology; MoSPI PLFS 2023-24; no direct
+> **Grounded in:** M.N. Srinivas's village sociology; MoSPI PLFS 2023-24 and PLFS
+> Annual Report 2025; no direct
 > 2024/2025 GS-I PYQ (flagged honestly as an older-pattern recurring theme).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/05_Rural-Society-and-Agrarian-Change.md`.*
@@ -137,8 +138,8 @@ market channels rather than through the jajmani system's older service-exchange 
   with cash-wage labour markets.
 - ✅ Panchayati Raj reservation extends to Scheduled Castes, Scheduled Tribes and women,
   including rotating reservation of chairperson positions.
-- 📰 MoSPI's PLFS Annual Report 2023-24 (released 23 September 2024) is the most recent
-  verified source on rural workforce composition.
+- 📰 PLFS 2023-24 is a dated rural-workforce comparator; PLFS Annual Report 2025,
+  released March 2026, is the latest annual round and uses a January-December period.
 - ⚠️ The "proxy representative" phenomenon (formal reserved-seat holder, substantive
   decision-maker elsewhere) is a well-documented empirical pattern in Panchayati Raj studies.
 
@@ -159,9 +160,10 @@ market channels rather than through the jajmani system's older service-exchange 
 
 ## 9. 📰 Current-anchor note
 
-- 📰 MoSPI's PLFS Annual Report 2023-24 (released 23 September 2024) remains the most
-  recent verified dated source for rural workforce structure; cite only this edition and
-  date, not undated or projected figures.
+- 📰 PLFS 2023-24 remains a dated rural-workforce comparator. The **PLFS Annual Report
+  2025**, released March 2026, is the latest annual round and uses a January-December
+  reference period rather than the earlier July-June cycle. Use the exact period and
+  rural indicator; do not present a labour-force share as an undated structural constant.
 
 ## 10. PYQ-based analytical application
 

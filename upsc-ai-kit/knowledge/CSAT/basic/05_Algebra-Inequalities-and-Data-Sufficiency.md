@@ -5,7 +5,7 @@
 > master the UPSC two-statement **data-sufficiency** decision.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). Drills are **computationally verified**.
 > ✅ = rule/fact | ⚠️ = guidance | 📝 = original example.
-> *Companion: `advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md`.*
+> *Companion: [Advanced Drill](../advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md).*
 
 ---
 
@@ -137,7 +137,7 @@ works alone. **Answer: (b).**
 
 ## 10. Study links
 
-- ✅ Advanced companion: `advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md` - dependent-
+- ✅ [Advanced companion](../advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md) - dependent-
   statement DS, unique-root logic, and inequality ranges.
-- ✅ `01_Reading-Comprehension.md` (basic) - "is it supported?" mirrors "is it sufficient?".
-- ✅ `02_Number-Systems-and-Number-Sense.md` (basic) - number properties power many DS items.
+- ✅ [Reading Comprehension](./01_Reading-Comprehension.md) - "is it supported?" mirrors "is it sufficient?".
+- ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - number properties power many DS items.

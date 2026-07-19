@@ -14,7 +14,9 @@
 > Network* (2024 update); VisionIAS Value Added Material, *Security
 > Challenges and Their Management in Border Areas*; audited UPSC GS-III
 > PYQs (2024-2025); dated official releases from MHA, MeitY, CERT-In,
-> NCIIPC, NIA, NCB, FIU-IND, ED, FATF, Indian Navy and Indian Coast Guard.
+> NCIIPC, NIA, NCB, FIU-IND, ED, FATF, Indian Navy and Indian Coast Guard;
+> selected direct UPSC GS-III PYQs (2019-2025), with complete local
+> 2024-2025 papers as the recent corpus.
 > **Start here:** `00_Master-Framework.md`.
 
 ---
@@ -42,10 +44,11 @@
   **historical/book-period evidence** and is never presented as the
   current state of affairs. Current facts are cited only to a dated
   official source.
-- **No stale-danger claims:** this folder does not say an objective (e.g.
-  LWE elimination by 31 March 2026) has been achieved merely because its
-  deadline has arrived; it reports only what a dated official release
-  confirms.
+- **No stale-danger claims:** a target is not treated as achieved merely
+  because its deadline arrived. For LWE, the February 2026 baseline is now
+  followed by PIB's June 2026 qualified assessment that India is
+  "effectively free from Left-Wing Extremism"; this is not rewritten as
+  literal zero incidents or complete root-cause resolution.
 
 ## Boundaries with other subjects
 

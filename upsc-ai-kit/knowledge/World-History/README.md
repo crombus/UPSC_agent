@@ -64,6 +64,11 @@
 | 20 | World Economy and Population since 1900 | Norman Lowe, Ch.27-28 | North-South divide, globalisation, population explosion |
 | 21 | Cold War End and New World Order | Norman Lowe, Ch.18, 10, 12 | USSR collapse, unipolarity, terrorism, Arab Spring |
 
+## Recent exact PYQ support route
+
+- **2024 GS-I:** “How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India? (Answer in 250 words)” → `advanced/04_Industrial-Revolution.md` supplies the English mechanisation/cost/market mechanism; `Modern-Indian-History/advanced/07_Economic-Impact-of-British-Rule.md` is the primary answer and owns colonial policy, Indian deindustrialisation and the balanced “how far” verdict.
+- **Boundary:** this folder must not duplicate India's drain, tariff, patronage-loss or artisan-displacement analysis merely because the prompt begins with the English Industrial Revolution.
+
 ## Cross-subject links
 
 - **Modern-Indian-History:** the Indian freedom movement's own periodisation, colonial

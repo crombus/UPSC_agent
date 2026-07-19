@@ -117,11 +117,11 @@ ethical behaviour under institutional pressure.
 - ❌ Persuasion and manipulation are the same ethically. -> Persuasion preserves audience autonomy
   and relies on truthful argument; manipulation exploits bias or conceals intent.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Algorithmic content-recommendation and micro-targeting on social-media platforms (an established, ongoing feature of the current digital ecosystem) | Illustrates the audience-variable precision the Hovland-Yale model did not anticipate, sharpening the persuasion/manipulation boundary tested in 2025 GS-IV Q1(a). |
+| ⚠️ Algorithmic content-recommendation and micro-targeting on social-media platforms | Illustrates the audience-variable precision the Hovland-Yale model did not anticipate; cite a dated platform-policy or official document before making a specific current claim. |
 
 ## 10. PYQ-based analytical application
 

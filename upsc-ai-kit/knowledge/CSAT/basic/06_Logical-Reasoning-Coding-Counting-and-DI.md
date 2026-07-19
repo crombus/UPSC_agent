@@ -2,10 +2,10 @@
 
 > **Subject:** CSAT | **Tier:** Must-Do (foundation) | **Family:** Logical reasoning / decision-making / data interpretation.
 > **Core skill:** arrangements, blood relations, directions, coding, series, basic counting/probability,
-> and reading data tables - a large, high-yield CSAT family.
+> data tables, and interpersonal/communication decision method.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). Drills are **computationally verified**.
 > ✅ = rule/fact | ⚠️ = guidance | 📝 = original example.
-> *Companion: `advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md`.*
+> *Companion: [Advanced Drill](../advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md).*
 
 ---
 
@@ -38,6 +38,12 @@ tree, a direction map - so the constraints do the work.
 | ✅ **Counting** | Permutations `P(n,r) = n!/(n-r)!`; combinations `C(n,r) = n!/(r!(n-r)!)`. |
 | ✅ **Probability** | `P = favourable / total` for equally likely outcomes. |
 | ✅ **Data interpretation** | Read exactly what is asked; compute totals, differences, and percentages from the table. |
+| ✅ **Interpersonal/communication scenario** | Listen for interests, communicate neutrally, choose a lawful and proportionate response, and verify understanding. |
+| ✅ **Communication matching** | Distinguish relationship type, tool purpose, channel, feedback, and barrier from the function described. |
+| ✅ **Questionnaire design** | Use clear, neutral, single-issue questions; avoid leading, double-barrelled, ambiguous, or intrusive wording. |
+
+The provisional 2026 Set-A audit places six explicit interpersonal/communication items at Q72-Q77.
+This is a year-specific observed block, not evidence that every CSAT paper uses the same count.
 
 > 🔑 **Arrangement rule:** always start from the clue that **fixes the most**; a single anchored
 > position usually cascades to the full solution.
@@ -49,6 +55,8 @@ tree, a direction map - so the constraints do the work.
 3. For counting/probability, decide **order matters?** (permutation) or **not** (combination) before
    computing.
 4. For DI, answer the **exact** quantity asked (total / change / percent), not a nearby one.
+5. For communication scenarios, identify the misunderstanding or conflict, reject coercive or
+   deceptive options, and prefer a clear, fair response with follow-up.
 
 ## 4. Formulas and rules
 
@@ -56,7 +64,8 @@ tree, a direction map - so the constraints do the work.
 - ✅ `C(n,r) = n!/(r!(n-r)!)` (selections, order does not matter).
 - ✅ Arrangements of a word with repeats: `total! / (product of repeat factorials)`.
 - ✅ `P(not E) = 1 - P(E)`; for equally likely outcomes, `P = favourable/total`.
-- ✅ Handshakes / lines among n points = `C(n,2)`.
+- ✅ Handshakes or pairwise segments among n objects/points = `C(n,2)`; these are distinct infinite
+  lines only when no three points are collinear.
 
 ## 5. Original solved examples
 
@@ -67,8 +76,9 @@ tree, a direction map - so the constraints do the work.
 
 ### 📝 Example B (blood relation)
 
-**"She is the daughter of my grandfather's only son."** The grandfather's only son is the speaker's
-**father**; his daughter is the speaker's **sister**. **Answer: sister.**
+**A male speaker says, "She is the daughter of my paternal grandfather's only son."** The paternal
+grandfather's only son is the speaker's father; the named woman is therefore the speaker's
+**sister**. **Answer: sister.**
 
 ### 📝 Example C (counting)
 
@@ -92,13 +102,23 @@ Read this table:
 - Total X `= 200 + 250 + 300 =` **750**; total Y `= 150 + 180 + 120 =` **450.**
 - Percentage rise in X from Jan to Mar `= (300 - 200)/200 =` **50%.** *(Verified.)*
 
+### 📝 Example F (communication - original)
+
+**A colleague follows an outdated procedure after receiving two conflicting emails. What should a
+team lead do first?** Clarify the current procedure privately, explain which instruction controls,
+ask the colleague to restate it, and circulate one corrected instruction to the team. This addresses
+the information failure without blame.
+
 ## 6. Must-Know facts
 
 - ✅ Order matters -> permutation; order does not -> combination.
 - ✅ Each **right** turn is 90 degrees clockwise; two rights = a U-turn (180).
-- ✅ "Only son/daughter" is a strong clue - it removes siblings from the tree.
+- ✅ "Only son/daughter" removes other children of the **same stated sex**, not all siblings; map the
+  maternal/paternal side and the speaker's sex before concluding.
 - ✅ For a valid syllogism, a conclusion must hold in **every** arrangement, not just one.
 - ✅ In DI, watch whether the question wants an **absolute** number or a **percentage/ratio**.
+- ✅ In interpersonal items, prefer listening, clarity, fairness, legality, proportionality, and
+  confirmation over humiliation, threats, concealment, or impulsive escalation.
 
 ## 7. Common traps
 
@@ -107,6 +127,10 @@ Read this table:
 - ❌ In directions, treating a left turn as +90 clockwise. -> Left is anticlockwise.
 - ❌ In DI, computing a total when a **change** or **percentage** was asked. -> Re-read the stem.
 - ❌ Accepting a syllogism conclusion true in one diagram only. -> It must hold in **all**.
+- ❌ Treating a communication problem as a character flaw before clarifying facts. -> Diagnose the
+  information/process failure first.
+- ❌ Treating every communication failure as conflict. -> First classify the barrier: physical,
+  semantic/language, psychological, organisational, or technological.
 
 ## 8. Quick checks
 
@@ -133,8 +157,8 @@ Read this table:
 
 ## 10. Study links
 
-- ✅ Advanced companion: `advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md` - multi-constraint
+- ✅ [Advanced companion](../advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) - multi-constraint
   seating, syllogisms, dice probability, and inclusion-exclusion counting.
-- ✅ `05_Algebra-Inequalities-and-Data-Sufficiency.md` (basic) - decision-making shares the sufficiency
+- ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - decision-making shares the sufficiency
   mindset.
-- ✅ `02_Number-Systems-and-Number-Sense.md` (basic) - counting rests on factor and number sense.
+- ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - counting rests on factor and number sense.

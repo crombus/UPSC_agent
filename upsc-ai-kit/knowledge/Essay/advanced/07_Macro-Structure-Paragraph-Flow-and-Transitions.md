@@ -57,7 +57,7 @@ transition explicitly justifies the jump in scale.
 ## 5. Stakeholder map and distributional effects
 
 ⚠️ Where paragraph clusters address different stakeholders (e.g.
-2024-B1's individual, family, platform, state dimensions), transitions
+2024-B5's individual, family, platform, state dimensions), transitions
 should make the stakeholder shift explicit ("Where the individual's own
 habits shape exposure, platform design shapes the opportunity for that
 exposure in the first place...") rather than silently switching subject.

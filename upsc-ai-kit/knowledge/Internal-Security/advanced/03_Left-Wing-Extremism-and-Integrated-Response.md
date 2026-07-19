@@ -180,14 +180,19 @@ not, by itself, confirm.
 - 📰 MHA Rajya Sabha Starred Question 49, **4 February 2026**: reports a
   **73% decline in violence and 86% decline in deaths since 2010**, and a
   footprint reduction from **126 districts in 2013 to 38 in 2024**,
-  alongside the stated
-  government objective of elimination by 31 March 2026. ⚠️ Cite this
-  reply's own figures and framing exactly; do not infer that the 31 March
-  2026 objective has been achieved merely because the date has since
-  passed, without a subsequent official confirmation.
+  alongside the then-stated government objective of elimination by 31
+  March 2026.
+- 📰 PIB's **June 2026 "Naxal-Free India"** explainer is the subsequent
+  official assessment: India is described as **"effectively free from
+  Left-Wing Extremism."** Treat this as a qualified status claim, not
+  literal zero violence or proof that governance grievances have ended.
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2020 GS-III** directly tests determinants in eastern India and a
+  differentiated strategy for government, civil administration and
+  security forces; use the three-track sequence and inter-State
+  coordination constraint.
 - 📰 **2025 Q10 (verbatim, local paper text reproduced verbatim):** "The
   Government of India recently stated that Left Wing Extremism (LWE) will
   be eliminated by 2026. What do you understand by LWE and how are the
@@ -198,9 +203,9 @@ not, by itself, confirm.
     gains alone are reversible; (ii) the inter-State trijunction
     coordination constraint as the structural reason full elimination is
     harder than a district-count metric suggests; (iii) an explicit,
-    honest treatment of the 2026 target as a stated objective, evaluated
-    against the 4 February 2026 reply's own figures rather than assumed
-    complete.
+    comparison of the February baseline with the qualified June 2026
+    post-deadline assessment, while separating security gains from
+    root-cause resolution.
 
 ## 11. Mains-ready framework
 

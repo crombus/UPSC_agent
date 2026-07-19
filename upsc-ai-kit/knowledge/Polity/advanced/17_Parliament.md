@@ -16,8 +16,8 @@ judicial review.
 ## Composition ⭐
 | | **Rajya Sabha (RS)** | **Lok Sabha (LS)** |
 |---|---|---|
-| Max strength | ✅ **250** (238 states/UTs elected + **12 nominated**) | ✅ **552** (530 states + 20 UTs + *2 Anglo-Indian, now lapsed*) |
-| Present | ✅ **245** | ✅ **545** |
+| Max strength | ✅ **250** (238 states/UTs elected + **12 nominated**) | ✅ **550** (530 states + 20 UTs; Anglo-Indian nomination ceased) |
+| Sanctioned/elected strength | ✅ **245 sanctioned** | ✅ **543 elected** |
 | Election | Indirect — **STV proportional representation** by state MLAs; UTs (only Delhi, Puducherry, J&K) via electoral college | Direct — **universal adult franchise (18 yrs, 61st Amdt 1988)**; **First-Past-The-Post** |
 | Nominated | 12 by President (art, literature, science, social service) | *Anglo-Indian 2 (95th Amdt extended to 2020; **104th Amdt 2019 abolished it**)* |
 | Nature | ✅ **Permanent** — never dissolved; **1/3 retire every 2 yrs**; term **6 yrs** | ✅ Term **5 yrs**; dissolvable anytime; extendable **1 yr at a time** in national emergency (max 6 months post-emergency) |
@@ -25,9 +25,10 @@ judicial review.
 ⚠️ **Note:** the Anglo-Indian nomination provision was **abolished by the 104th Amendment (2020)** — so present LS has no nominated members.
 
 ## Delimitation & seat freeze ⭐
-✅ **42nd Amdt (1976)** froze LS seat allocation at **1971 census** till 2000; **84th Amdt (2001)** extended
-the freeze to **2026**; **87th Amdt (2003)** allowed re-drawing constituencies on **2001 census** *without
-changing state seat totals*. ✅ SC/ST seats reserved on population ratio (no separate electorate).
+✅ **42nd Amdt (1976)** froze LS seat allocation at **1971 census** till 2000; **84th Amdt (2001)** deferred
+readjustment until the relevant figures of the **first census taken after 2026 have been published**;
+**87th Amdt (2003)** allowed re-drawing constituencies on **2001 census** *without changing state seat
+totals*. ✅ SC/ST seats reserved on population ratio (no separate electorate).
 
 ---
 
@@ -135,10 +136,13 @@ committees, chaired by minister).
 - ❌ Joint sitting for a money bill / constitution amendment → only for **ordinary bills** (Art 108).
 
 ## 📰 CA hooks
-- 📰 ✅ **Women's Reservation — Nari Shakti Vandan Adhiniyam (106th Amdt, 2023)**: 33% seats for women in
-  LS + State Assemblies (incl. SC/ST); **notified in force April 2026** but operational only after **census +
-  delimitation** — huge ongoing debate on early rollout for 2029. *(web-verified 2026)*
-- 📰 ⚠️ **Delimitation freeze ends 2026** — the "North vs South seat-share" federal flashpoint.
+- 📰 ✅ **Women's Reservation — Nari Shakti Vandan Adhiniyam (106th Amdt, 2023)**: provides 33% seats for
+  women in LS + State Assemblies (including within SC/ST-reserved seats). Section 1(2) requires a separate
+  commencement notification; none was located as of **19 July 2026**. Operationalisation then depends on
+  the constitutionally specified post-commencement census and delimitation sequence.
+- 📰 ⚠️ **Post-2026 census and delimitation** — Articles 82/170 defer readjustment until the relevant
+  figures of the first census taken after 2026 are published; the resulting North-South seat-share debate
+  is the live federal issue, not an automatic expiry in 2026.
 - 📰 ⚠️ **Money-bill route** litigation (Aadhaar, Tribunal rules) pending before a larger SC bench.
 - 📰 ⚠️ Vacant **Deputy Speaker** post since 2018 — constitutional-propriety debate.
 
@@ -147,3 +151,10 @@ committees, chaired by minister).
 - The money-bill route: bypassing the Rajya Sabha and eroding bicameralism? Discuss.
 - Parliamentary committees as "mini-parliaments" — assess their role in legislative scrutiny.
 - Women's reservation: symbolic step or transformative? Link with delimitation & federal concerns.
+
+## Verified PYQ cross-link
+
+- ✅ **2024 GS-II Q3 (10 marks, 150 words)** asks how growth of the cabinet system has
+  marginalised parliamentary supremacy. Use questions, motions, financial control,
+  committees and bicameral scrutiny from this file as the institutional counterweights;
+  the complete answer route is in `11_Parliamentary-System.md`.

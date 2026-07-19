@@ -112,6 +112,9 @@ liquidity if activity is concentrated in a narrow set of instruments or particip
 - ⚠️ 2024 Prelims: CBLO, eligible G-sec and corporate-bond investors, and financial-
   instrument classification.
 - ⚠️ 2025 Prelims: direct bonds and stocks were distinguished from pooled AIFs.
+- ✅ **2025 Prelims Q68:** distinguished real-time gross RTGS settlement from
+  NEFT's batch settlement; both operate 24×7 and inward transfers are free.
+  Route payment-platform details to topic 24; exact audit: `../README.md`.
 
 ## 10. Mains angles
 

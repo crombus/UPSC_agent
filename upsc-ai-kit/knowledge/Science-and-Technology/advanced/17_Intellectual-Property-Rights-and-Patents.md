@@ -110,6 +110,10 @@ innovation / creativity / reputation / origin-based identity
 
 ## 10. PYQ application
 
+- ✅ **2024 GS-III direct PYQ:** IPR with respect to life materials and low
+  commercialisation of Indian patents. Treat the filing-rank statement as the
+  question's dated premise; exact route: `../README.md`.
+
 - ⚠️ Prelims likes sharp legal distinctions—patent vs GI vs trademark, or PCT vs patent grant.
 - ⚠️ GS-II/III questions can ask how India balances innovation incentives with health access and public interest.
 - ⚠️ Higher-quality answers should mention both legal doctrine and institutional capacity.

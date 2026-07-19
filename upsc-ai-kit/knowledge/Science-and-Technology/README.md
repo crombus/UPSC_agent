@@ -106,3 +106,18 @@ sitting well beyond the stated date.
 - Each file's header block lists the exact URLs/documents actually used and their
   verification date — treat that date, not this README, as the authority for currency.
 
+## Exact 2024-2025 GS-III PYQ routing
+
+| Paper | Exact tested demand | Route |
+|---|---|---|
+| 2024 | IPR concerning life materials and reasons for low patent commercialisation in India | `basic/17`, `advanced/17` |
+| 2024 | Context and salient features of the Digital Personal Data Protection Act, 2023 | `basic/12`, `advanced/12` |
+| 2024 | Alternative technologies for clean/safe freshwater; merits and demerits of any three | `basic/22`, `advanced/22` |
+| 2024 | Asteroids, extinction risk and strategies to prevent such a catastrophe | `basic/21`, `advanced/21` |
+| 2025 | India's fusion programme, contribution to ITER and implications of success | `basic/05`, `advanced/05` |
+| 2025 | Energy independence through clean technology by 2047 and biotechnology's role | `basic/13`, with topic 15 application |
+| 2025 | Nanotechnology advances in agriculture and farmers' socio-economic uplift | `basic/16`, `advanced/16` |
+| 2025 | Semiconductor-industry challenges and salient features of India Semiconductor Mission | `basic/11`, `advanced/11` |
+
+These are direct PYQs from the locally audited official-paper text, not probable
+questions. Route from this matrix to avoid duplicating full model answers.

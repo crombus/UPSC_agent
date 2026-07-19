@@ -138,6 +138,11 @@ politically negotiated and evolve each year — always cite the specific COP and
 
 ## 9. PYQ application
 
+- ✅ **2025 GS-III direct PYQ:** review India's Paris Agreement commitments,
+  explain COP26 strengthening, and show how the first NDC was updated in 2022.
+  This file owns the treaty/COP architecture; route domestic targets to topic
+  20. Exact audit: `../README.md`.
+
 - ⚠️ Recurring Prelims pattern: distinguish the binding/non-binding nature and country
   coverage of the UNFCCC, Kyoto Protocol and Paris Agreement.
 - ⚠️ Mains linkage: the CBDR-RC principle and climate-finance adequacy debates are used to

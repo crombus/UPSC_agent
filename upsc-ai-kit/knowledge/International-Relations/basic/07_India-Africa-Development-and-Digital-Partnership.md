@@ -165,6 +165,12 @@ co-development model rather than a donor-recipient framing.
 
 ## 9. PYQ application
 
+- ✅ **2021 GS-II:** "If the last few decades were of Asia's growth story,
+  the next few are expected to be of Africa's. In the light of this
+  statement, examine India's influence in Africa in recent years." Structure
+  by development partnership, trade/investment, capacity-building, diplomacy
+  and implementation constraints; do not reduce the answer to digital
+  cooperation.
 - ✅ **2025 Q9 (direct):** *India-Africa digital partnership is achieving mutual
   respect, co-development and long-term institutional partnerships. Elaborate.*
   Structure: (1) trace the Pan African e-Network (concluded 2017) to its e-VBAB

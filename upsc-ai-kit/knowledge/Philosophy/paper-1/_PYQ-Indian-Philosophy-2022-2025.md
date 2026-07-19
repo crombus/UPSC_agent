@@ -1,7 +1,7 @@
 # Paper-I · Section B — Indian Philosophy · PYQ Bank (2022–2025)
 
-> Source: UPSC CSM Philosophy Paper-I question papers (2022, 2023, 2024, 2025), OCR-read from scans.
-> ✅ = verbatim question · marks in [ ].
+> Source: UPSC CSM Philosophy Paper-I question-paper scans (2022, 2023, 2024, 2025).
+> ✅ = source-reconciled, non-verbatim routing summary · marks in [ ].
 
 ## 2025
 - Carvaka rejects **inference (anumana)** as valid source — explain grounds. [10]
@@ -45,22 +45,27 @@
 - Bhatta's view of **anupalabdhi** (non-cognition) as pramana. [15]
 - Naiyayikas' **laukika/alaukika perception**; are universals perceived? [15]
 - Naiyayikas' **hetvabhasa** (fallacies of middle term) vs 5 marks of valid hetu. [20]
-- 'Relativism of Jain can't stand without Absolutism' — critically examine. [15]
-- Mimamsakas refute Nyaya that **arthapatti reduces to anumana**. [15]
-- Prabhakara vs Kumarila on **erroneous cognition (khyativada)** despite intrinsic validity. [20]
-- Buddhist **Triratna** & internal relation; consistency with Nairatmyavada. [15]
-- Naiyayikas answer Carvaka's objections against **anumana**. [15]
-- **'Brahma satyam jaganmithya…'** — ontological status of Isvara/Jiva/Sakshi (Advaita). [20]
-- Aurobindo **triple transformation** & integral yoga. [15]
-- **Madhva vs Ramanuja** on Moksa. [15]
+- Advaita liberation as **"attainment of what is already attained"** — Sankara's illustration and assessment. [15]
+- Yoga account of **citta and its modifications**; why their cessation is prescribed. [15]
+- **Dependent origination** as the key to Buddhist suffering and cessation. [20]
+- Nyaya **pragabhava** and its use against Samkhya's theory of causation. [15]
+- Do words denote **universals, particulars, or both**? Nyaya and Mimamsa compared. [15]
 
-## 2022 (partial — Section B captured)
+## 2022
 - Examine & evaluate **Samkhya proofs for existence of Purusa**. [10]
 - Ontological status of **Samanya** (universals) — Vaisesika. [10]
 - **Samadhi** nature & stages (Patanjala yoga) + role of Isvara. [10]
 - Jaina view of **Karma** & its bearing on soteriology. [10]
 - '**Vivartavada is logical development of Parinamavada**' — do you agree? [10]
 - Buddhist **momentariness (ksanikavada) vs karma** — compatibility; answer to objections. [20]
+- Can Jaina **relativism** be sustained without postulating an absolute? Critically examine. [15]
+- Mimamsaka defence of **arthapatti as an independent pramana** against Nyaya reduction to anumana. [15]
+- Why Prabhakara and Kumarila differ on **erroneous cognition** despite accepting intrinsic validity. [20]
+- Buddhist **Triratna** and their internal relation; consistency with Nairatmyavada. [15]
+- Naiyayika response to Carvaka objections against **anumana**. [15]
+- **'Brahma satyam jaganmithya…'** — ontological status of Isvara, Jiva and Saksi in Advaita. [20]
+- Aurobindo's **Integral Yoga and triple transformation** in individual evolution. [15]
+- **Madhva and Ramanuja compared on Moksa**. [15]
 
 ---
 

@@ -8,7 +8,8 @@
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
 > 722-738 (UNESCO WHS/ICH), 955-971 (institutions), 983-992 (law/
 > Constitution); `00_Master-Framework.md` Sections 3, 9; audited UPSC
-> Mains 2024-2025 GS Paper I (no direct question — capstone/support role).
+> Mains 2024-2025 GS Paper I (no direct question — capstone/support role);
+> official UNESCO Moidams property page (accessed 19 July 2026).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/14_Heritage-Conservation-Institutions-and-UNESCO.md`.*
 
@@ -133,6 +134,13 @@ inscription).
 
 ## 8. 📰 Current anchor
 
+- 📰 UNESCO inscribed **Moidams — the Mound-Burial System of the Ahom
+  Dynasty** at Charaideo on **26 July 2024** (India's 43rd WHS). The
+  property is a Tai-Ahom royal necropolis of mound-covered vaults created
+  from the thirteenth to nineteenth centuries and recognised under
+  criteria (iii) and (iv). Political-administrative Ahom history routes
+  to Medieval History topic 08; this file owns funerary form, status and
+  conservation.
 - 📰 UNESCO recorded **44 World Heritage Sites** in India as of September
   2025 (book-period figure, consistent with independent web-search
   verification at authoring time, 18 July 2026), including the **Maratha
@@ -163,6 +171,10 @@ inscription).
   Danger. -> As of July 2025 (per the book), no Indian site is on this
   list; Manas and Hampi were **previously** listed but have since been
   removed.
+- ❌ Moidams are ordinary earthen tumuli without a built or ritual system.
+  -> UNESCO describes a mound over a hollow vault, a shrine and octagonal
+  wall within a continuing Tai-Ahom funerary and ancestor-worship
+  landscape.
 - ❌ UNESCO inscription transfers ownership of a site or object to
   UNESCO. -> Inscription confers international recognition and
   Convention-based protections; ownership, management and legal

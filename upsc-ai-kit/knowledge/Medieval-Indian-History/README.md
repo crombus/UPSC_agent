@@ -25,7 +25,7 @@
 | 05 | The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah | Sultanate |
 | 06 | Decline of the Sultanate: Timur, Sayyids & Lodis | Sultanate |
 | 07 | Administration, Economy & Society under the Sultanate | Sultanate |
-| 08 | Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) | Sultanate |
+| 08 | Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension | Sultanate |
 | 09 | Vijayanagara & the Bahmani Kingdom (Deccan) | Sultanate |
 | 10 | The Bhakti & Sufi Movements | Sultanate |
 | 11 | Art, Architecture & Culture of the Sultanate | Sultanate |
@@ -43,6 +43,11 @@
 | 23 | The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis | Mughal |
 | 24 | Mughal Society, Economy & Culture | Mughal |
 | 25 | Decline of the Mughal Empire & the Eighteenth Century | Mughal |
+
+## Recent exact PYQ and Prelims routes
+
+- **2025 GS-I:** “Examine the main aspects of Akbar's religious syncretism. (Answer in 150 words)” → primary answer: `advanced/17_Akbar-Religious-Views-Din-i-Ilahi.md`; foundation: `basic/17_Akbar-Religious-Views-Din-i-Ilahi.md`. Art & Culture topic 13 supports the cultural-synthesis lens but does not own Mughal religious policy.
+- **Ahom/Assam Prelims route:** the bounded political-administrative extension is in `basic/08_Provincial-Regional-Kingdoms.md` and `advanced/08_Provincial-Regional-Kingdoms.md`; Moidam form, UNESCO status and conservation route to `Indian-Art-and-Culture/basic/14_Heritage-Conservation-Institutions-and-UNESCO.md` and its advanced companion. No unverified PYQ year or question number is assigned.
 
 ## Source books
 

@@ -127,6 +127,10 @@ food security, migration, and climate resilience) on the global agenda.
 
 ## 9. 📰 Current anchor — analytical use
 
+📰 **UNCCD COP16 (Riyadh, 2024)** advanced global drought-regime
+negotiations and launched the Riyadh Global Drought Resilience Partnership. It
+did not itself complete a binding global drought treaty. [UNCCD source](https://www.unccd.int/news-stories/press-releases/global-response-drought-takes-center-stage-un-land-conference-riyadh).
+
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 India's enhanced land-restoration commitments announced around UNCCD COP14 (New Delhi, 2019) remain the current LDN target reference point (verify latest Department of Land Resources/ISRO progress figures and their reporting date before citing specifics). | Use as the current commitment baseline while pairing it with the counterbalancing-mechanism ecological-commensurability critique and the area-versus-quality implementation-gap pattern for full analytical depth. |

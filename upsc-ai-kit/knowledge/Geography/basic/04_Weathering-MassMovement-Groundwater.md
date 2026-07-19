@@ -93,7 +93,25 @@
 **Standard — Weathering Controls, Chemical Processes & Karst Hydrology (Majid Husain).**
 📰 Scientists link the rising frequency/severity of 2025 Himalayan mass-movement events to climate change intensifying rainfall — raising demand for hazard zonation of weathering-weakened slopes.
 
-## 7. Mains angles
+## 7. Coastal-aquifer salinisation and direct PYQs
+
+```text
+OVER-PUMPING / LOWER RECHARGE
+          -> freshwater head falls
+          -> saline interface moves landward/upward
+          -> wells and soils become saline
+```
+
+- ✅ **2024 GS-I:** “The groundwater potential of the Gangetic valley is
+  on a serious decline. How may it affect the food security of India?”
+- ✅ **2025 GS-III:** asked the causes of seawater intrusion in India's
+  coastal aquifers and remedial measures.
+- ⚠️ Answer the coastal question through pumping control, managed aquifer
+  recharge, rainwater harvesting, crop/water-demand change, monitoring and
+  protection of recharge zones—not by treating desalination alone as aquifer
+  restoration. Exact route audit: `../README.md`.
+
+## 8. Mains angles
 
 
 **Foundation — Weathering, Mass Movement & Groundwater (G.C. Leong).**

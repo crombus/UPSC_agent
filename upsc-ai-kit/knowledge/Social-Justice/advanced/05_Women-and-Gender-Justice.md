@@ -58,7 +58,7 @@ synonyms or as unconnected terms will miss the causal linkage UPSC expects.
 |---|---|
 | ✅ **Protection order vs residence order (DV Act)** | A protection order restrains the respondent from committing domestic violence, contacting the aggrieved woman, etc.; a residence order secures the aggrieved woman's right to reside in the shared household regardless of her ownership interest — the two serve different functions (safety vs housing security). |
 | ✅ **Internal Committee vs Local Committee (POSH)** | IC is employer-constituted within an establishment (≥10 employees); LC is district-level, constituted by the District Officer, to receive complaints from women in smaller workplaces or the unorganised sector — IC is the primary mechanism, LC is the safety-net extension. |
-| ✅ **Maternity Benefit Act vs PMMVY** | MB Act (amended 2017) is a labour-law entitlement (26 weeks paid leave) binding on organised-sector employers above a threshold; PMMVY is a centrally-sponsored welfare cash-transfer scheme providing partial wage compensation to unorganised-sector women — one is an employer obligation, the other is a budgetary transfer. |
+| ✅ **Maternity Benefit Act vs PMMVY** | MB Act (amended 2017) is a labour-law entitlement (26 weeks paid leave for the first two surviving children) applying to covered establishments with 10 or more employees; PMMVY is a welfare cash transfer for eligible pregnant/lactating women, excluding those in regular Central/State Government or PSU employment or receiving similar maternity benefits — one is an employer obligation, the other a budgetary transfer. |
 | ⚠️ **Gender Budget Statement — allocation vs outcome** | The Statement tracks budgetary allocation classified as women-specific (Part A) or pro-women (Part B); it does not measure whether that allocation translates into empowerment outcomes — a common Mains trap conflating input with impact. |
 | ⚠️ **Statutory body vs constitutional body** | NCW is a statutory body under the NCW Act, 1990, with powers defined by Parliament; NCSC/NCST are constitutional bodies under Art 338/338A with constitutional mandates — NCW can be modified by ordinary legislation, NCSC/NCST cannot. |
 
@@ -92,13 +92,14 @@ synonyms or as unconnected terms will miss the causal linkage UPSC expects.
   and recommend amendments; (d) advise on policy; (e) inspect institutions (jails, remand
   homes) affecting women. NCW cannot enforce orders like a court — it recommends; follow-up
   depends on executive/judicial action.
-- ✅ **DV Act limitations:** civil remedy only; no criminal punishment; enforcement depends
-  on Magistrate's orders and Protection Officer's capacity; shared-household residence
+- ✅ **DV Act limitations:** its principal reliefs are civil/protective, but breach of a
+  protection order is a criminal offence under Section 31; enforcement depends on Magistrate's
+  orders and Protection Officer capacity; shared-household residence
   right is contested when the property belongs to in-laws rather than the husband.
 - ✅ **POSH Act limitations:** IC composition requirement (external member with women's
   issues experience) is often unmet; Local Committee capacity varies across districts;
-  no coverage for domestic workers in the employer's home (a gap highlighted in policy
-  discourse).
+  domestic workers may use the district Local Committee route because a dwelling place/house
+  is included within "workplace"; practical awareness and Local Committee capacity remain weak.
 - ⚠️ **Gender Budget Statement reform:** some analysts recommend a third part tracking
   outcome indicators (e.g., NFHS-based improvement) rather than allocation alone; currently
   the Statement is an input-tracking tool only.
@@ -112,7 +113,7 @@ synonyms or as unconnected terms will miss the causal linkage UPSC expects.
 - ⚠️ A domestic worker facing harassment in the employer's home: the POSH Act's definition
   of "workplace" has been interpreted to include households, but enforcement via Local
   Committee is weak; this is a persistent implementation gap.
-- ⚠️ A woman in the unorganised sector receiving PMMVY but not receiving maternity leave:
+- ⚠️ An eligible woman receiving PMMVY but lacking an employer-backed maternity-leave entitlement:
   PMMVY compensates for lost wages during pregnancy but does not create a leave entitlement
   binding on the employer — the distinction between a labour-law right and a welfare
   transfer matters for answer precision.

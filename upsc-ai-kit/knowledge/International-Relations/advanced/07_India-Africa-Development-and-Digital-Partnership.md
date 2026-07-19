@@ -202,6 +202,10 @@ networks are sustained and locally owned after the initial launch.
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2021 GS-II** tests India's wider influence in Africa against the
+  continent's expected growth story. Use a balanced influence matrix
+  (development, trade, capacity, diplomacy) and then test delivery,
+  competition and African agency.
 - ✅ **2025 Q9 (direct):** *India-Africa digital partnership is achieving mutual
   respect, co-development and long-term institutional partnerships. Elaborate.*
   An advanced answer should:

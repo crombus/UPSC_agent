@@ -98,6 +98,13 @@ scrutiny (audit, RTI disclosure, judicial review).
 
 ## 7. PYQ application
 
+- ✅ **2013 GS-IV:** "What do you understand by the term 'probity' in public
+  life? What are the difficulties in practising it in the present times? How
+  can these difficulties be overcome?" — define, diagnose and prescribe.
+- ✅ **2023 GS-IV:** "'Probity is essential for an effective system of
+  governance and socio-economic development.' Discuss. Suggest measures for
+  ensuring probity in government." — connect verifiable integrity to
+  institutional outcomes and safeguards.
 - ✅ 2024 GS-IV Q6(a): maintaining "high standards of probity" for women public servants while
   addressing gender-specific challenges — a direct probity-in-institutional-context question.
 - ⚠️ Any question invoking "philosophical basis of governance" should draw on the trusteeship

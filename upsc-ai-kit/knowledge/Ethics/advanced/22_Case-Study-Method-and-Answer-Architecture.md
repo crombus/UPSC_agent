@@ -151,11 +151,11 @@ examiner to raise unaddressed.
   contains analytically separable dilemmas; over-decomposition of a simple case wastes time and
   dilutes the answer's focus.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Mission Karmayogi's case-based/simulation training modules (an established, ongoing direction of civil-service training reform) | Reinforces that structured case-method reasoning (options, stakeholders, evaluation, decision, implementation) is increasingly the institutionally expected mode of administrative judgment-building, not merely an exam-specific technique. |
+| ⚠️ Mission Karmayogi case-based or simulation learning | Reinforces structured judgment-building as a training method; cite a named iGOT module before presenting it as a current programme-wide requirement. |
 
 ## 10. PYQ-based analytical application
 

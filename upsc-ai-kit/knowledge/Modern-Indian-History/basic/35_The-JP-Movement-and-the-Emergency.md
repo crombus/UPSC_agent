@@ -17,7 +17,7 @@
 | ✅ May 1974 | All-India **railway strike** (22 days) |
 | ✅ 12 June 1975 | **Allahabad High Court** (Justice Sinha) sets aside Indira's election |
 | ✅ 25 June 1975 | JP's Delhi rally announces countrywide civil disobedience |
-| ✅ 26 June 1975 | **Emergency** proclaimed under Article 352; opposition leaders arrested under **MISA** |
+| ✅ Night of 25–26 June 1975 | **Emergency proclamation dated 25 June** under Article 352; publicly announced on 26 June; opposition leaders arrested under **MISA** |
 | ✅ 1976 | **42nd Amendment**; forced-sterilisation and slum-clearance excesses under Sanjay Gandhi |
 | ✅ March 1977 | Elections held; Congress defeated; the Emergency ends |
 
@@ -32,7 +32,7 @@
 
 **Foundation — the Emergency (1975–77) suspended democracy, then democracy reasserted itself.**
 
-- ✅ The **Allahabad High Court judgment (12 June 1975)** unseating Indira triggered the declaration of a national **Emergency on 26 June 1975** under Article 352.
+- ✅ The **Allahabad High Court judgment (12 June 1975)** unseating Indira triggered the national Emergency: the proclamation was dated **25 June 1975** under Article 352 and publicly announced on **26 June**.
 - ✅ Civil liberties were suspended; the press was censored; opposition leaders were jailed under **MISA**; the **42nd Amendment** expanded central power.
 - ✅ **Sanjay Gandhi** became an extra-constitutional power centre; **compulsory sterilisation** and slum demolitions were the era's worst excesses.
 - ✅ In the **1977 elections**, the electorate defeated Congress and ended the Emergency — a verdict for civil liberties.
@@ -45,7 +45,7 @@
 | ✅ Movements | Gujarat **Nav Nirman**; Bihar movement under **JP** |
 | ✅ JP's slogan | "**Total Revolution**" |
 | ✅ Court judgment | Allahabad HC, **12 June 1975** (Justice Sinha), on Raj Narain's petition |
-| ✅ Emergency | Proclaimed **26 June 1975** (Article 352) |
+| ✅ Emergency | Proclamation dated **25 June 1975** (Article 352); public announcement **26 June** |
 | ✅ Instruments | **MISA**, press censorship, **42nd Amendment** |
 | ✅ Excesses | Forced sterilisation, slum clearance (Sanjay Gandhi) |
 | ✅ End | **1977 elections** — Congress defeated |
@@ -62,7 +62,7 @@
 - ✅ The **Nav Nirman** agitation began in **Gujarat (1974)**; the Bihar movement followed under **JP**.
 - ✅ **JP's** slogan was "**Total Revolution / Sampoorna Kranti**."
 - ✅ The **Allahabad High Court** unseated Indira Gandhi on **12 June 1975** (Raj Narain's petition, Justice Jagmohanlal Sinha).
-- ✅ The **Emergency** was proclaimed on **26 June 1975** under **Article 352**.
+- ✅ The Emergency proclamation was dated **25 June 1975** under **Article 352** and publicly announced on **26 June**.
 - ✅ Detentions were made under **MISA** (Maintenance of Internal Security Act).
 - ✅ The **42nd Amendment (1976)** greatly expanded central and executive power.
 - ✅ The Emergency ended with Congress's defeat in the **1977 elections**.
@@ -79,7 +79,8 @@
 
 ## 6. 📰 Current link
 
-- ⚠️ **Civil liberties and constitutional safeguards.** The Emergency is the standard reference for debates on preventive detention, press freedom and emergency powers. *(Escalate to 📰 when pegged to a verified news item.)*
+- 📰 **Fifty years of the Emergency (25 June 2025):** the Union Cabinet's official resolution commemorated those who resisted the Emergency and reaffirmed constitutional democracy (PIB, PRID 2139543). The observance also fixes the chronology trap: proclamation dated 25 June 1975; public announcement on 26 June.
+- ⚠️ Keep constitutional doctrine and present-day emergency-law analysis in Polity; this file owns the 1975–77 historical test.
 
 ## 7. Mains angles
 

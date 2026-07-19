@@ -122,6 +122,12 @@ municipalities/consumers to producers and brand owners.
 
 ## 8. 📰 Current anchor
 
+- 📰 **Environment Protection (End-of-Life Vehicles) Rules, 2025**
+  (S.O. 98(E), effective 1 April 2025) add a vehicle-specific EPR/scrapping
+  chain covering producers, owners/bulk consumers and registered scrapping/
+  collection entities. Batteries, plastics, e-waste and hazardous waste remain
+  under their separate rules. [MoEFCC notification](https://www.moef.gov.in/storage/tender/1736939644.pdf).
+
 - 📰 The E-Waste (Management) Rules, 2022 and amended Plastic Waste Management Rules remain
   the current governing framework; verify the latest EPR target percentages and any newly
   specified single-use-plastic-item bans against the most recent MoEFCC/CPCB notification

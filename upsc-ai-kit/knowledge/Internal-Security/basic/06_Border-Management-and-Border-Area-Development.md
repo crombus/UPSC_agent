@@ -122,12 +122,11 @@ in this topic should be routed through.
   illustrating undemarcated-boundary risk even amid formal Border Dispute
   Settlement Mechanism agreements (1993, 1996, 2005, 2012, 2013)
   (VisionIAS, PDF pp. 6-9).
-- ✅ **PYQ mapping — verbatim (2024 Q19, local paper text reproduced
-  verbatim, preserving its OCR/source defects):** "India has a long and
-  trobled border with China and pakistan fraught with contentious issues.
+- ✅ **PYQ mapping — corrected against the paper (2024 Q19):** "India has a
+  long and troubled border with China and Pakistan fraught with contentious issues.
   Examine the conflicting issues and security challenges along the
   border. Also give out the development Programme (BADP) and Border
-  Infrastructure and management (BM) Scheme."
+  Infrastructure and Management (BIM) Scheme."
 
 ## 6. Must-Know Facts for Prelims
 
@@ -173,11 +172,11 @@ in this topic should be routed through.
 
 ## 9. PYQ application
 
-- ✅ **2024 Q19 (verbatim, local paper text reproduced verbatim):** "India
-  has a long and trobled border with China and pakistan fraught with
+- ✅ **2024 Q19 (corrected against the paper):** "India
+  has a long and troubled border with China and Pakistan fraught with
   contentious issues. Examine the conflicting issues and security
   challenges along the border. Also give out the development Programme
-  (BADP) and Border Infrastructure and management (BM) Scheme."
+  (BADP) and Border Infrastructure and Management (BIM) Scheme."
   - Structure: examine China border issues (disputed LAC, Galwan/Tawang
     tension, infrastructure asymmetry) and Pakistan border issues
     (infiltration, smuggling, ceasefire violations) separately, not as one

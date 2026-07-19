@@ -162,17 +162,24 @@ policy in membership of any single bloc.
 ## 8. 📰 Current anchor
 
 - 📰 The **BIMSTEC Charter (in force 20 May 2024)** and the **BRICS Rio
-  Declaration (6 July 2025)** are the two anchor current instruments for this
-  topic — cite them, dated, for any claim about the current institutional
-  status of these two groupings.
+  Declaration (6 July 2025)** remain key instruments. India launched its
+  **BRICS 2026 chairship** logo, theme and website on **13 January 2026**;
+  "Building for Resilience, Innovation, Cooperation and Sustainability" is
+  the current chairship anchor, not a new treaty or completed summit outcome.
 
 ## 9. PYQ application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names any
-  single grouping covered here as the sole subject. State this honestly. Use
-  the layered-grouping framework (regional -> trans-regional -> continental ->
-  global-governance -> minilateral) and the dated BIMSTEC/BRICS anchors as the
-  structuring devices for any regionalism/minilateralism question.
+- ✅ **2020 GS-II:** "'Quadrilateral Security Dialogue (QUAD)' is
+  transforming itself into a trade bloc from a military alliance, in present
+  times — Discuss." Correct the premise: Quad is neither a treaty military
+  alliance nor a trade bloc; evaluate its widening functional agenda.
+- ✅ **2021 GS-II:** "Critically examine the aims and objectives of SCO. What
+  importance does it hold for India?" — mandate, interests, constraints.
+- ✅ **2022 GS-II:** "How will I2U2 (India, Israel, UAE and USA) grouping
+  transform India's position in global politics?" — use West Asia, investment,
+  technology and strategic-autonomy dimensions.
+- ⚠️ No 2024-2025 question names one grouping as the sole subject; use the
+  layered-grouping framework and dated BIMSTEC/BRICS anchors.
 
 ## 10. Mains angles
 

@@ -77,6 +77,9 @@ answer.
 
 ## 5. Verified current entries (each dated and source-attributed)
 
+- ✅📰 **CBD COP16 — Cali 2024/resumed Rome 2025:** DSI benefit-sharing was
+  operationalised through the Cali Fund, alongside finance and KMGBF-monitoring
+  decisions (source: CBD Secretariat).
 - ✅📰 **Ramsar sites — India reached 100 Ramsar sites on 5 June 2026** (World Environment
   Day), with the Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia district, Uttar
   Pradesh, as the 100th site (source: PIB PRID 2269208; Ramsar Convention Secretariat). At
@@ -87,10 +90,9 @@ answer.
   Pradesh) notified in March 2025, following Ratapani Tiger Reserve (Madhya Pradesh) in
   December 2024 (source: NTCA/MoEFCC notifications; verify the latest count before citing,
   as new reserves are periodically added).
-- ✅📰 **Biosphere Reserves — India had 18 Biosphere Reserves as of 2025** (per MoEFCC),
-  with the Cold Desert Biosphere Reserve (Himachal Pradesh) among recent additions; verify
-  the current UNESCO-recognised subset count separately, since it is smaller than the total
-  domestic count.
+- ✅📰 **Biosphere Reserves — India has 18 notified Biosphere Reserves**; 13 are in
+  UNESCO's World Network after Cold Desert (Himachal Pradesh) joined in 2025
+  (MoEFCC/UNESCO, verified 2026). Keep the UNESCO subset distinct from the domestic total.
 - ✅📰 **Protected areas — as of March 2025** (WII ENVIS Protected Area Database), India had
   106 National Parks, 573 Wildlife Sanctuaries, 115 Conservation Reserves and 220 Community
   Reserves (verify the latest database update before citing a specific count).

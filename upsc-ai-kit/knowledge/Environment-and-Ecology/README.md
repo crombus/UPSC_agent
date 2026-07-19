@@ -84,7 +84,8 @@
   Convention Secretariat (Topic 07, Topic 28).
 - 📰 India's Tiger Reserve count reached **58** with Madhav Tiger Reserve (Madhya Pradesh,
   March 2025), following Ratapani Tiger Reserve (December 2024) (Topic 06, Topic 28).
-- 📰 India had **18 Biosphere Reserves** as of 2025 (MoEFCC) (Topic 07, Topic 28).
+- 📰 India has **18 notified Biosphere Reserves**; **13** are in UNESCO's World Network
+  after Cold Desert joined in 2025 (MoEFCC/UNESCO, verified 2026) (Topic 07, Topic 28).
 - 📰 ISFR 2023 (released December 2024): total forest and tree cover of 8,27,357 sq km,
   25.17% of India's geographical area (Topics 01, 03, 11, 12, 28).
 - 📰 COP29 (Baku, 2024) set the New Collective Quantified Goal (NCQG) on climate finance
@@ -92,6 +93,11 @@
   COP30 (Belém, 2025) advanced this Baku-to-Belém Roadmap (Topics 19, 20, 28).
 - 📰 The National Green Hydrogen Mission (approved January 2023) targets 5 MMT/year green-
   hydrogen production capacity by 2030 (Topic 21, Topic 25).
+- 📰 CMS COP14 (Samarkand, 2024), UNCCD COP16 (Riyadh, 2024), and CBD COP16
+  (Cali 2024/resumed Rome 2025) are the latest completed COP anchors for
+  Topics 10, 23 and 22 respectively.
+- 📰 The Environment Protection (End-of-Life Vehicles) Rules, 2025 and the
+  Disaster Management (Amendment) Act, 2025 are routed to Topics 15 and 26.
 - ⚠️ **Note on seismic zoning:** official BIS material currently and publicly supports a
   four-zone (Zone II-V) seismic classification for India; no official Zone VI has been
   verified, and this folder does not assert one.
@@ -110,3 +116,16 @@
   (AR6 Working Group and Synthesis Reports); UNCCD Secretariat; UNEP; UNDRR (Sendai
   Framework).
 - Audited UPSC Environment PYQs (2024-2026 Prelims; 2024-2025 Mains).
+
+## Exact 2024-2025 Mains PYQ routing
+
+| Paper | Exact question demand | Owning topic |
+|---|---|---|
+| 2024 GS-III | “Industrial pollution of river water is a significant environmental issue in India.” Discuss mitigation measures and government initiatives. | `basic/14`, `advanced/14` |
+| 2024 GS-III | What role do environmental NGOs and activists play in influencing EIA outcomes for major projects? Cite four examples with important details. | `basic/16`, `advanced/16` |
+| 2025 GS-III | What is CCUS and what is its potential role in tackling climate change? | `basic/21`, `advanced/21` |
+| 2025 GS-III | Why is mining considered an environmental hazard, and what remedial measures can reduce it? | `basic/16`, `advanced/16`; Geography topic 31 for mineral geography |
+| 2025 GS-III | Review India's Paris Agreement commitments, their COP26 strengthening and the 2022 NDC update. | `basic/19-20`, `advanced/19-20` |
+
+The wording is routed from locally audited official-paper text. Keep it distinct
+from “probable” questions and avoid duplicating full answers across files.

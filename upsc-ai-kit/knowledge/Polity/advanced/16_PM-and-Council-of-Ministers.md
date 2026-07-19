@@ -104,3 +104,10 @@ decisions (e.g. Operation Sindoor / strikes, ceasefire calls). ⚠️ Debates on
 - "Indian government has become prime-ministerial rather than cabinet government." Examine.
 - Collective responsibility in a coalition era — is Art 75 diluted?
 - Cabinet committees & GoMs: efficient delegation or dilution of collective decision-making?
+
+## Verified PYQ cross-link
+
+- ✅ **2024 GS-II Q3 (10 marks, 150 words)** asks how growth of the cabinet system has
+  marginalised parliamentary supremacy. Use this file for PM/cabinet agenda control,
+  collective responsibility and party-whip effects; use `11_Parliamentary-System.md` for
+  the complete verified-PYQ route and `17_Parliament.md` for scrutiny correctives.

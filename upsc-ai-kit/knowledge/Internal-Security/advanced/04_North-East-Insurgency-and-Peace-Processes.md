@@ -187,11 +187,12 @@ UNODC-linked surge in narcotics flow from Myanmar's post-coup turmoil
 ## 9. 📰 Current-anchor note
 
 - 📰 MHA announced its decision to scrap the India-Myanmar Free Movement
-  Regime on **8 February 2024**; the latest formal notification is required
-  for current operational status. The MHA Annual Report 2024-25 is the
-  correct source for the present list of "peace accords and agreements initiated
-  by the government in the past decade" required by the 2025 PYQ — do not
-  substitute this book's older accord list.
+  Regime on **8 February 2024**; do not convert the announcement into
+  operational status without a formal notification.
+- 📰 Revised UPF/KNO Suspension of Operations ground rules were signed on
+  **4 September 2025** and remain valid through **3 September 2026**. Use
+  MHA's **23 April 2026 North-East peace-process update** for the current
+  accord map required by the 2025 PYQ, not the book's older list.
 
 ## 10. PYQ-based analytical application
 

@@ -169,6 +169,11 @@ major powers are also present and competing for influence.
 
 ## 9. PYQ application
 
+- ✅ **2020 GS-II Quad cross-route:** "'Quadrilateral Security Dialogue
+  (QUAD)' is transforming itself into a trade bloc from a military
+  alliance, in present times — Discuss." Use this file for the maritime/
+  Indo-Pacific function, while topic `10` owns grouping classification and
+  the correction that Quad is neither a treaty alliance nor a trade bloc.
 - ✅ **2024 Q20 (direct):** *Discuss the geopolitical and geostrategic
   importance of Maldives for India with a focus on global trade and energy
   flows. Further also discuss how this relationship affects India's maritime
@@ -218,6 +223,7 @@ major powers are also present and competing for influence.
   maritime geography (Geography owns this detail).
 - ⚠️ **Cross-links within this folder:** topic 02 for Maldives' general
   neighbourhood context; topic 10 for Quad's institutional profile; topic 06 for
-  West Asia energy-flow linkage. Route Internal Security (anti-piracy/naval
-  operations) and Disaster Management (HADR operational cycle) conceptually —
-  dedicated folders for these subjects do not yet exist in this knowledge base.
+  West Asia energy-flow linkage. Route anti-piracy/coastal operations to
+  `Internal-Security/basic/07_Maritime-and-Coastal-Security.md` and the HADR
+  operational cycle to
+  `Disaster-Management/basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`.

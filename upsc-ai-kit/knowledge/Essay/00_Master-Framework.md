@@ -4,9 +4,10 @@
 > (General Studies Paper — Essay, Mains).
 > **Core area:** The full decode → expand → thesis → argument → evidence
 > → structure → conclusion → revision answer engine, plus summary
-> routing for all 16 audited prompts.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `README.md` for verbatim text and the source-defect list); linked GS
+> routing for the 16 recent prompts, with the full 100-prompt ledger in
+> `PYQ-Corpus-2013-2025.md`.
+> **Grounded in:** verified 2013-2025 UPSC Essay corpus (100 prompts; see
+> `PYQ-Corpus-2013-2025.md`); linked GS
 > subject modules; dated sources where used.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ audited paper fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -15,7 +16,7 @@
 
 ## 1. What this paper actually tests
 
-✅ Both audited papers require **two essays, one topic chosen from each
+✅ Both recent papers require **two essays, one topic chosen from each
 of two displayed Sections**, each about **1000–1200 words** — 2024
 prints "(125 × 2 = 250)"; 2025's extraction does not show a marks line,
 but the two-essay, two-section structure is explicit and identical in
@@ -125,8 +126,8 @@ method and scale calibration in `11`.
 ## 8. Evidence engine
 
 **Rule:** one claim → one function → one verified source per
-illustration; no unsupported numerical clutter. ✅ The two audited papers
-supply no author names for any of the 16 prompts (see `README.md`); this
+illustration; no unsupported numerical clutter. ✅ The 2024-2025 papers
+supply no author names for any of their 16 prompts (see `README.md`); this
 folder therefore never attaches an author to a prompt-quotation unless
 independently verified by a primary/authoritative source (`09`, `16`).
 ❌ Quotation-dumping (stacking famous names to sound erudite) and false
@@ -162,7 +163,7 @@ Before submitting (mentally, in a timed drill, or on paper), sweep for:
 
 Full method in `14` (language/style) and `15` (self-evaluation).
 
-## 11. PYQ routing table — summary level (full outlines in `16`)
+## 11. Recent-PYQ routing table — summary level (full corpus in `PYQ-Corpus-2013-2025.md`)
 
 | Prompt | Primary route | One-line interpretive core |
 |---|---|---|
@@ -170,10 +171,10 @@ Full method in `14` (language/style) and `15` (self-evaluation).
 | 2024-A2 Empires…mind | `02, 05, 09, 11, 12` | "Empire" as power through knowledge/innovation; inclusive knowledge-power as synthesis. |
 | 2024-A3 Happiness…path | `02, 05, 06, 10, 12` | Process/conduct over deferred destination; flourishing as process and social condition. |
 | 2024-A4 Doubter…science | `02, 08, 09, 11` | Disciplined doubt (falsifiability, correction) vs. denialism; scientific temper in policy. |
-| 2024-B1 FOMO…youth | `03, 04, 08, 09, 10, 11, 12` | Platform design and social comparison; agency plus humane digital design as synthesis. |
-| 2024-B2 Power tests character | `02, 05, 08, 10, 12` | Discretionary power vs. adversity; accountable power as synthesis. |
-| 2024-B3 Large-consequence ideas…simple | `02, 05, 08, 09, 11` | Simple moral/political core vs. complex execution; simple compass, sophisticated implementation. |
-| 2024-B4 Wrong vs. doing nothing | `02, 05, 08, 09, 11` | Reversible error vs. paralysis; responsible, safeguarded experimentation. |
+| 2024-B5 FOMO…youth | `03, 04, 08, 09, 10, 11, 12` | Platform design and social comparison; agency plus humane digital design as synthesis. |
+| 2024-B6 Power tests character | `02, 05, 08, 10, 12` | Discretionary power vs. adversity; accountable power as synthesis. |
+| 2024-B7 Large-consequence ideas…simple | `02, 05, 08, 09, 11` | Simple moral/political core vs. complex execution; simple compass, sophisticated implementation. |
+| 2024-B8 Wrong vs. doing nothing | `02, 05, 08, 09, 11` | Reversible error vs. paralysis; responsible, safeguarded experimentation. |
 | 2025-A1 Truth knows no color | `02, 05, 08, 09, 10, 11` | Evidence and dignity vs. perspective/position; plural voices, common truth-standards. |
 | 2025-A2 Supreme art of war | `02, 08, 10, 11, 12` | Beyond military literalism: deterrence, diplomacy, conflict prevention; just peace as synthesis. |
 | 2025-A3 Thought finds…creates | `02, 04, 05, 08, 10, 11` | Thought as discovery and as world-remaking imagination; ethical, evidence-aware imagination. |
@@ -183,8 +184,9 @@ Full method in `14` (language/style) and `15` (self-evaluation).
 | 2025-B7 Life as journey…destination | `02, 05, 06, 10, 11` | Process/means alongside achievement; purpose-led progress as synthesis. |
 | 2025-B8 Contentment…luxury | `02, 05, 08, 10, 11, 12` | Contentment vs. resignation; luxury vs. legitimate comfort; sufficiency and equity as synthesis. |
 
-⚠️ These are interpretive starting points, not the only valid reading of
-any prompt. All 16 concise interpretive outlines are in
+⚠️ These are recent interpretive starting points, not the only valid reading
+of any prompt. The full 100-prompt ledger is in
+`PYQ-Corpus-2013-2025.md`; the 16 recent concise outlines are in
 `basic/16_Practice-Loops-PYQ-Lab-and-Revision-System.md`; selected prompts
 receive deeper analytical treatment in
 `advanced/16_Practice-Loops-PYQ-Lab-and-Revision-System.md`.
@@ -199,9 +201,9 @@ reproduce that module's theory or fact bank inside an Essay file.
 
 ## 13. Source and risk-ledger protocol
 
-- **Prompt wording:** quote exactly (or accurately paraphrase); no
+- **Prompt wording:** quote the official/corrected ledger, not raw OCR; no
   author attribution unless independently verified against a primary/
-  authoritative source (see `README.md` defect list; `09`; `16`).
+  authoritative source (see `README.md`, `09`, `16`).
 - **Familiar aphorisms found elsewhere on the web with uncertain
   attribution:** ❌ do not attribute; use only as an unattributed
   proposition, or omit.

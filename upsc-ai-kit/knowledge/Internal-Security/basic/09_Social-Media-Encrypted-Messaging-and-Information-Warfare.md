@@ -123,10 +123,9 @@ etc." (PDF p. 118).
   over anti-corruption cartoons (PDF p. 118) — both book-period examples
   of the free-expression/security-law tension, now superseded in legal
   terms by *Shreya Singhal* (2015).
-- ✅ **PYQ mapping — verbatim (2024 Q20, local paper text reproduced
-  verbatim, preserving its OCR/source defects):** "Social media and
-  encrypting messaging services pase a serious security challenge. What
-  measures have been adopted at varous levels to address the security
+- ✅ **PYQ mapping — verified against the paper (2024 Q20):** "Social media
+  and encrypting messaging services pose a serious security challenge. What
+  measures have been adopted at various levels to address the security
   implications of social media? Also suggest any other remedies to
   address the problem."
 
@@ -175,9 +174,9 @@ etc." (PDF p. 118).
 
 ## 9. PYQ application
 
-- ✅ **2024 Q20 (verbatim, local paper text reproduced verbatim):** "Social
-  media and encrypting messaging services pase a serious security
-  challenge. What measures have been adopted at varous levels to address
+- ✅ **2024 Q20 (verified wording):** "Social media and encrypting messaging
+  services pose a serious security challenge. What measures have been
+  adopted at various levels to address
   the security implications of social media? Also suggest any other
   remedies to address the problem."
   - Structure: state the dual-use character and the specific security
@@ -199,9 +198,8 @@ etc." (PDF p. 118).
 - ⚠️ Cite the identity-conflict amplification examples (Muzaffarnagar
   2013, North-East exodus panic 2012, Delhi 2020) as concrete illustrations
   of "security implications," not as abstract risk statements.
-- ⚠️ Preserve the PYQ's own OCR-defect spelling ("pase," "varous") if
-  quoting it verbatim in a note; do not silently correct it when citing
-  the exact question text.
+- ⚠️ Quote the verified paper wording, not OCR artefacts from the local
+  extraction.
 
 ## 11. Probable questions
 

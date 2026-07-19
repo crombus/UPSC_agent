@@ -145,14 +145,21 @@ a personal-virtue one.
   jurisprudence; its extension to public office generally is a philosophical analogy, not itself a
   cited legal holding.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Ongoing digitisation of asset-disclosure and expenditure-tracking systems in Indian public administration (an established, ongoing direction of e-governance reform) | Illustrates the institutional trend toward converting probity from periodic disclosure into near-continuous verifiability, directly usable in "how can probity be strengthened" Mains answers. |
+| ⚠️ Digitised asset-disclosure and expenditure-tracking systems in Indian public administration | Illustrate the institutional trend toward converting probity from periodic disclosure into near-continuous verifiability; cite a dated system/order before presenting a specific implementation claim. |
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2013 GS-IV** requires a three-part answer: precise meaning of probity,
+  current obstacles, and measures to overcome them; use the
+  individual-integrity plus institutional-verifiability distinction.
+- ✅ **2023 GS-IV** connects probity to effective governance and
+  socio-economic development, then asks for measures; show the causal link
+  before listing disclosure, audit, conflict-of-interest and accountability
+  safeguards.
 - ✅ 2024 GS-IV Q6(a)'s "high standards of probity" phrase rewards an answer that explicitly defines
   probity as demonstrable/verifiable (not merely personal) rectitude, then proposes specific
   institutional measures (transparent posting/appraisal criteria, harassment-redress documentation)

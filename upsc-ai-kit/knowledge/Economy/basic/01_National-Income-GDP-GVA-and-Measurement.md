@@ -119,11 +119,26 @@ expenditure becomes another person's income and corresponds to produced output.
 the GDP-GVA difference reflects net product taxes. Always quote the period with
 the figure.
 
-## 10. Mains angles
+### 📰 National-accounts series update — 27 February 2026
+
+- ✅ MoSPI released a **new GDP series with base year 2022-23**, replacing 2011-12,
+  with revised coverage, data sources and methods.
+- ✅ The release provides annual and quarterly estimates from 2022-23; the
+  comparable back-series was still pending at the 19 July 2026 cutoff.
+- ⚠️ The FY26 FAE figures above are Survey-period estimates. Always identify the
+  **series, estimate vintage and period** before comparing them with the new series.
+- Source: [MoSPI press note, 27 February 2026](https://mospi.gov.in/uploads/release_calendar/1772190058170_Press_Note_on_New_Series_of_GDP_Estimates_with_Base_Year_2022-23_27022026.pdf).
+
+## 10. PYQ status
+
+- ⚠️ No direct national-income-measurement question appears in the audited
+  2024-2026 Economy corpus; use the distinctions above for adjacent sector,
+  growth and deficit questions. See the exact routing table in `../README.md`.
+
+## 11. Mains angles
 
 - ⚠️ Why GDP growth is necessary but insufficient for development.
 - ⚠️ How base-year and methodology revisions improve measurement but can disrupt
   comparison with older series.
 - ⚠️ Why India needs GDP/GVA data alongside employment, inequality, human
   development and environmental indicators.
-

@@ -5,7 +5,7 @@
 > instead of heavy calculation.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). All drills below are **computationally verified**.
 > ✅ = rule/fact | ⚠️ = guidance | 📝 = original example (not a UPSC item).
-> *Companion: `advanced/02_Number-Systems-and-Number-Sense.md`.*
+> *Companion: [Advanced Drill](../advanced/02_Number-Systems-and-Number-Sense.md).*
 
 ---
 
@@ -125,7 +125,7 @@ factor count** - computing the whole number is usually the slow, error-prone pat
 
 ## 10. Study links
 
-- ✅ Advanced companion: `advanced/02_Number-Systems-and-Number-Sense.md` - big-power remainders,
+- ✅ [Advanced companion](../advanced/02_Number-Systems-and-Number-Sense.md) - big-power remainders,
   highest prime powers, and inclusion-exclusion counting.
-- ✅ `03_Arithmetic-and-Commercial-Math.md` (basic) - ratio and percentage build on factor sense.
-- ✅ `05_Algebra-Inequalities-and-Data-Sufficiency.md` (basic) - number properties power many DS items.
+- ✅ [Arithmetic and Commercial Math](./03_Arithmetic-and-Commercial-Math.md) - ratio and percentage build on factor sense.
+- ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - number properties power many DS items.

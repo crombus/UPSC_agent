@@ -103,9 +103,10 @@ without all three, entitlement does not translate into capability.
   education/HRD; the closest adjacent framing is 2024 Q7 (poverty-malnutrition-
   human-capital), which implicitly tests the human-capital formation link. Treat
   the probable questions below as anticipated framing.
-- ⚠️ ASER 2022-23 documented that a significant share of Grade 5 children could
-  not read a Grade 2-level text — illustrates the FLN crisis that NIPUN Bharat
-  targets.
+- 📰 **ASER 2024** (a non-government, rural household survey) found recovery from the
+  2022 learning shock but a continuing FLN deficit: **23.4%** of government-school
+  Standard III children could read a Standard II text. This is the latest national
+  ASER foundational-learning round as of July 2026.
 - ⚠️ 25% EWS reservation in private unaided schools under RTE 2009 has faced
   implementation challenges: delayed reimbursements to schools, documentation
   barriers for beneficiaries, and uneven enforcement across states.

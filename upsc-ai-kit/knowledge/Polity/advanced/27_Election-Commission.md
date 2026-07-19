@@ -114,3 +114,17 @@ Code of Conduct, cancel rigged polls) · **Advisory** (advise President/Governor
   Examine in light of the 2023 Act.
 - Electoral reforms — from EVMs and NOTA to electoral bonds and One Nation One Election: assess the trajectory.
 - Should the removal protection of the two ECs be brought on par with the CEC? Discuss.
+
+## Verified PYQ applications
+
+- ✅ **2024 GS-II Q1 (10 marks, 150 words):** “Examine the need for electoral reforms as
+  suggested by various committees with particular reference to ‘one nation – one election’
+  principle.” Route: committee proposals -> claimed stability/cost gains -> federal,
+  accountability and mid-term-collapse problems -> constructive safeguards.
+- ✅ **2025 GS-II Q1 (10 marks, 150 words):** “Discuss the ‘corrupt practices’ for the
+  purpose of the Representation of the People Act, 1951. Analyze whether the increase in
+  the assets of the legislators and/or their associates, disproportionate to their known
+  sources of income, would constitute ‘undue influence’ and consequently a corrupt
+  practice.” Route: Section 123 categories -> strict proof/election nexus -> distinguish
+  unexplained enrichment from voter coercion/undue influence -> disclosure, investigation
+  and disqualification reform.

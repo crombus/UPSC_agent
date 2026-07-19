@@ -18,7 +18,7 @@ Most prompts in both audited years are single-sentence aphorisms (e.g.
 "Truth knows no color"; "Forests precede civilizations and deserts
 follow them"). This topic teaches a repeatable method to move from the
 literal sentence to a defensible essay-ready reading. It does not cover
-issue-based prompts like 2024-B1 (FOMO) — see `03` — or thesis
+issue-based prompts like 2024-B5 (FOMO) — see `03` — or thesis
 construction proper — see `05`.
 
 ## 2. Core terms in plain language
@@ -36,12 +36,11 @@ construction proper — see `05`.
 
 ## 3. ✅ Exam facts / source basis
 
-- ✅ All 16 audited prompts (both years) are printed **without any author
-  attribution** — see `../README.md` for the full verbatim index.
-- ✅ Several prompts contain printed defects that must be quoted exactly,
-  not silently corrected — e.g. 2024-A2 prints "empires of the **futures**"
-  and 2024-A3 prints a capitalised mid-sentence "**Happiness**" with a
-  double space before "path."
+- ✅ All 16 recent prompts are printed **without any author attribution**;
+  the full 100-prompt ledger is `../PYQ-Corpus-2013-2025.md`.
+- ✅ Raw OCR is not authoritative. For example, 2024-A2 reads "empires of
+  the **future**" and 2024-A3 reads "There is no path to happiness;
+  Happiness is the path."
 - ⚠️ Because no author is given, this folder treats every prompt as a
   **free-standing proposition to be interpreted on its own terms** —
   there is no "correct," externally sourced reading to recall.
@@ -120,9 +119,8 @@ Full method: `06`.
   authoritative. → Repair: since no author is printed (Section 3), never
   attribute one; use the prompt's own words as the reference point (full
   discipline: `09`, `16`).
-- ❌ **"Correcting" a printed textual quirk** (e.g. silently changing
-  "futures" to "future"). → Repair: quote the prompt exactly as printed
-  if quoting it at all; paraphrase in your own prose for the essay body.
+- ❌ **Treating OCR noise as official wording.** → Repair: quote from
+  `../PYQ-Corpus-2013-2025.md` or recheck the paper.
 - ❌ **Picking the first metaphorical reading that comes to mind** without
   testing a contrary reading. → Repair: always run Section 5, Q5 before
   committing to a thesis.

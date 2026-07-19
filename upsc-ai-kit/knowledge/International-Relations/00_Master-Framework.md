@@ -122,6 +122,7 @@ to choose a position issue-by-issue, even while deepening any one partnership.
 | Joint statement/vision document | India-Maldives Vision (2024) | Political commitment, not a treaty |
 | Charter | BIMSTEC Charter (in force 2024) | Binding on member states once in force |
 | Declaration | BRICS Rio Declaration (2025) | Political/normative, not legally binding |
+| Chairship launch | BRICS India 2026 theme/logo/site (13 January 2026) | Process/agenda anchor, not a summit outcome or treaty |
 | MoU | India-SADC economic-cooperation MoU (2024) | Statement of intent, not self-executing |
 | Dialogue mechanism | India-Central Asia Dialogue | Recurring consultation, no binding output by itself |
 
@@ -158,9 +159,10 @@ are three different evidentiary levels. Treat "agreed," "signed/in force" and
 - Use **Geography** for chokepoints, sea lanes, resource maps and route geography.
 - Use **World History** for Cold War chronology, decolonisation and the
   creation-history of institutions.
-- Route **Internal Security** and **Disaster Management** conceptually for
-  operations and the HADR cycle — dedicated folders for these subjects do not yet
-  exist in this knowledge base.
+- Route security operations to the dedicated **Internal Security** folder
+  (especially topics `02`, `06`, `07`, `12`). Route **Disaster Management**
+  operations to its topics `17` (relief/recovery) and `18` (international
+  cooperation), while IR retains HADR diplomacy.
 - Use this folder for the diplomatic objective, instrument choice, verified
   outcome and strategic constraint of any external engagement.
 

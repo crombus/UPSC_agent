@@ -124,7 +124,8 @@ not claim, the answer):**
 Topic 03 carries a **non-negotiable, dedicated Chandella/Khajuraho dossier**
 in both tiers (a complete case dossier in
 `advanced/03_Temple-Architecture-and-Chandella-Khajuraho.md`), because it is the
-only 2025 direct Art & Culture question and because Khajuraho is the
+direct 2025 sculpture-specific question—and one of two direct 2025 Art &
+Culture questions, alongside Harappan architecture—and because Khajuraho is the
 clearest available case for mature Nagara morphology, plural Hindu-Jain
 patronage and UNESCO World Heritage management together. Cross-linked from
 topics 06 (sculpture), 09 (dance-sculpture links via mithuna/abhinaya

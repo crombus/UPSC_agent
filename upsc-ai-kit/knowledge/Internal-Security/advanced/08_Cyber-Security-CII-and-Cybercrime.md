@@ -191,6 +191,12 @@ gap).
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2019 CyberDome PYQ:** evaluate a state-level collaborative model
+  against scalability, privacy and inter-agency constraints.
+- ✅ **2022 cyber-security strategy PYQ:** use the attribution,
+  supply-chain and federal/private-sector constraints to assess the
+  comprehensiveness of India's architecture rather than merely listing
+  agencies.
 - 📰 **2024 Q10 (verbatim):** "Describe the context and salient features
   of the Digital Personal Data Protection Act, 2023."
   - Advanced structure: after the basic-tier context/features answer, add

@@ -120,9 +120,14 @@ given species' conservation actually operates under, not just whether it is "CMS
 
 ## 9. 📰 Current anchor — analytical use
 
+📰 **Latest completed COP:** CMS COP14 (Samarkand, 2024) adopted the
+2024-2032 strategic plan, launched the first global migratory-species status
+report and advanced Central Asian Flyway coordination in India. COP13 remains
+India's prior hosting/presidency context. [CMS source](https://www.cms.int/news/historic-un-wildlife-meeting-concludes-major-set-actions-conservation-migratory-species-wild).
+
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 CMS CoP13 (Gandhinagar, 2020) and India's subsequent CMS Presidency term. | Use as evidence of India's active migratory-species diplomacy leadership; pair with the Central Asian Flyway institutional-gap critique for full analytical depth. |
+| ✅ Historical context: CMS COP13 (Gandhinagar, 2020) and India's subsequent Presidency term. | Use as evidence of prior leadership, not as the latest COP; pair it with the COP14 Central Asian Flyway outcome above. |
 | 📰 Supreme Court-monitored Great Indian Bustard power-line mitigation proceedings (verify latest order date). | Use as the domestic-implementation contrast case to the range-state-coordination framing of typical CMS problems. |
 
 ## 10. PYQ-based analytical application

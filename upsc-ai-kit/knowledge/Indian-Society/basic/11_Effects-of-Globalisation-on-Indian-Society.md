@@ -114,7 +114,9 @@ adaptation (glocalisation), which is why all three PYQs on this topic reward a q
 ## 6. Must-Know Facts for Prelims
 
 - ✅ MoSPI's PLFS Annual Report 2023-24 (released 23 September 2024) reported female labour
-  force participation rate at 41.7%, up from 37.0% in 2022-23.
+  force participation rate at 41.7%, up from 37.0% in 2022-23. The later PLFS Annual
+  Report 2025 uses a changed calendar-year reference period and reports 40.0% for the
+  same broad usual-status, age-15+ female LFPR measure.
 - ✅ NFHS-6 (2023-24), released 29 May 2026, reported women's ever-internet-use at 64.3%, a
   digital-access indicator relevant to globalisation's reach.
 - ⚠️ Glocalisation (local adaptation of global products) is the standard sociological
@@ -140,9 +142,10 @@ adaptation (glocalisation), which is why all three PYQs on this topic reward a q
 
 ## 8. 📰 Current anchor
 
-- 📰 MoSPI's PLFS Annual Report 2023-24 (released 23 September 2024) reported female labour
-  force participation rate at 41.7% (up from 37.0% in 2022-23) — the most recent verified
-  dated figure linking globalisation-era employment expansion to women's workforce entry.
+- 📰 MoSPI's PLFS Annual Report 2023-24 female LFPR of 41.7% is a dated comparator.
+  **PLFS Annual Report 2025**, released March 2026, reports usual-status female LFPR for
+  age 15+ at **40.0%**. Its January-December 2025 reference period differs from the earlier
+  July-June round, so do not infer a trend without noting the changed survey period.
 
 ## 9. PYQ application
 

@@ -104,7 +104,7 @@ access but not dietary diversity or the first-1000-days critical window.
   kitchen infrastructure and social audit.
 - ✅ **ONORC:** Requires Aadhaar seeding of ration cards, ePoS deployment at
   fair-price shops and inter-state data exchange via IMPDS portal; operational
-  across all states/UTs as of 2024.
+  across all 36 states/UTs since Assam completed the pan-India rollout in June 2022.
 - ⚠️ **Poshan Tracker (app):** Real-time data entry by anganwadi workers for
   growth monitoring, supplementary nutrition delivery and service coverage — but
   data quality depends on AWW capacity and device availability.
@@ -198,6 +198,27 @@ access but not dietary diversity or the first-1000-days critical window.
   4. Cite ONORC portability for migrant inclusion.
   5. Conclude with the convergence imperative: no single scheme breaks the cycle.
 
+- ✅ **2025 GS-II Q16 (15 marks, 250 words):** Build the “paradox of poverty” as a
+  self-reinforcing asset-capability loop:
+
+```text
+UNEQUAL OWNERSHIP OF LAND / CAPITAL / CREDIT / DIGITAL ACCESS
+                         |
+                         v
+       unequal opportunity and bargaining power
+                         |
+                         v
+             low capability and income
+                         |
+                         v
+       weak saving, investment and asset formation
+                         |
+                         +----> inherited ownership inequality
+```
+
+  Separate productive-asset reform (land records/tenancy security, credit, skills,
+  commons and digital access) from necessary but non-transformative consumption relief.
+
 ## 11. Mains-ready framework
 
 **Central thesis:** The poverty-malnutrition-human-capital cycle is
@@ -222,6 +243,9 @@ micronutrient supplementation) combined with nutrition-sensitive convergence
 - ✅ **Mains (10 marks, 2024 Q7):** Poverty and malnutrition create a vicious
   cycle, adversely affecting human capital formation. What steps can be taken to
   break the cycle?
+- ✅ **Mains (15 marks, 2025 GS-II Q16):** “With the growing inequality in the
+  ownership pattern of resources, the paradox of poverty in the midst of plenty is
+  becoming more and more evident in India. Critically comment.”
 - ⚠️ **Prelims:** Which of the following is administered by the Ministry of Women
   and Child Development — PM POSHAN, Poshan 2.0, ONORC or NFSA?
 - ⚠️ **Mains (15 marks):** Distinguish nutrition-specific from nutrition-sensitive

@@ -133,6 +133,9 @@ the headline deficit understate public-sector risk.
 | 📰 Centre revenue receipts averaged 9.1% of GDP in FY22-FY25 versus 8.5% in FY16-FY20. | Improved revenue receipts expand fiscal space when gains are durable rather than one-off. |
 | 📰 Centre capital expenditure averaged about 3% of GDP post-pandemic versus 1.7% pre-pandemic. | Higher capex can crowd in private investment if projects are well selected and completed. |
 | 📰 Effective capital expenditure was 4% of GDP in FY25. | Effective capex captures Union support for asset creation through grants as well as direct capital spending. |
+| 📰 Union Budget 2026-27: fiscal deficit 4.3% of GDP (BE), against 4.4% in 2025-26 RE; capex ₹12.2 lakh crore (BE). | Keep Budget estimates separate from Survey trends and realised accounts; evaluate consolidation alongside expenditure composition. |
+
+Source for the Budget row: [PIB, 1 February 2026](https://pib.gov.in/PressReleasePage.aspx?PRID=2221395).
 
 ## 10. PYQ-based analytical application
 
@@ -140,6 +143,10 @@ the headline deficit understate public-sector risk.
   mobilisation, prudence and debt sustainability.
 - ⚠️ 2024 GS-III social-services question requires linking expenditure trends to inclusive
   outcomes.
+- ✅ **2024 Prelims Q85:** Articles 112/113 and the President's role in the
+  Annual Financial Statement/demands for grants.
+- ✅ **2025 Prelims Q10/Q61/Q65:** capital receipts, deficit identities and
+  gross primary deficit. Exact routing: `../README.md`.
 
 ## 11. Mains-ready framework
 

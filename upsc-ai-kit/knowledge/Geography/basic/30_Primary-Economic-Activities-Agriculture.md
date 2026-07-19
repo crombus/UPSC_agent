@@ -118,6 +118,10 @@
 - ⚠️ Recurring Prelims theme: distinguish **shifting vs plantation vs mixed vs commercial grain**.
 - ⚠️ Recurring Prelims theme: link **crop with climate region** - wheat/steppe, olives/Mediterranean, rice/monsoon Asia.
 - ⚠️ Recurring GS-I theme: explain how **relief, irrigation, markets and technology** transform agriculture from subsistence to commercial systems.
+- ✅ **2025 GS-I direct PYQ:** define **non-farm primary activities** and
+  explain how their distribution follows physiography. Use fishing, forestry,
+  mining and quarrying—not manufacturing—as examples; exact route:
+  `../README.md`.
 - ⚠️ Recurring GS-III theme: connect crop geography with **food security, procurement and climate stress**.
 
 ## 10. 📰 Current link

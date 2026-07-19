@@ -120,10 +120,9 @@ the two are distinct designation systems that can, but need not, overlap geograp
   (Surha Tal), Ballia, Uttar Pradesh as the 100th site — PIB PRID 2269208; this made India
   the country with the highest number of Ramsar sites in Asia at that date (verify any
   global-rank claim against the latest Ramsar Secretariat data before citing further).
-- 📰 As of 2025 (MoEFCC), India has 18 Biosphere Reserves, of which a subset is
-  internationally recognised under the UNESCO World Network of Biosphere Reserves — verify
-  the exact UNESCO-recognised subset count against the latest MoEFCC/UNESCO listing before
-  citing a specific number.
+- 📰 India has 18 notified Biosphere Reserves; 13 are internationally recognised in
+  UNESCO's World Network after Cold Desert joined in 2025 (MoEFCC/UNESCO, verified 2026).
+  Keep the domestic and UNESCO-recognised counts distinct.
 
 ⚠️ **Interpretation caution:** always cite the Ramsar count with its exact date (5 June 2026
 for the 100th-site milestone), since new sites continue to be added after that date.

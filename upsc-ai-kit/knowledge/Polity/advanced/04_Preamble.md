@@ -110,6 +110,18 @@ retroactive to 1949). 📰 Bench (**CJI Sanjiv Khanna & Justice Sanjay Kumar**) 
 - Recurrent Prelims: key-word origins (French vs Russian), Berubari-vs-Kesavananda, 42nd-Amdt words.
 - 📰 Live-search: *Balram Singh* 2024 verdict; debates on removing/retaining "socialist/secular."
 
+## Verified PYQ applications
+
+- ✅ **2024 GS-II Q15 (15 marks, 250 words):** “Discuss India as a secular state and
+  compare with the secular principles of the US Constitution.” Route: Indian principled
+  distance/equal respect and reform power vs US non-establishment/free exercise and a
+  stronger wall metaphor; both remain constrained by equality and religious freedom.
+- ✅ **2025 GS-II Q11 (15 marks, 250 words):** “Constitutional morality is the fulcrum
+  which acts as an essential check upon the high functionaries and citizens alike…”
+  Explain the concept and apply it to balancing judicial independence and judicial
+  accountability. Use Preamble values as the normative source; cross-link
+  `18_Supreme-Court.md` for appointments, recusal, ethics and removal safeguards.
+
 ## Mains angles
 - "The Preamble is the soul of the Constitution." Discuss its philosophy and justiciability.
 - Democratic socialism vs the post-1991 liberalised economy — is "socialist" still apt? (use 2024 verdict).

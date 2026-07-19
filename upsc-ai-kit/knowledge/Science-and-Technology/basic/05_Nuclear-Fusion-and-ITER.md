@@ -98,6 +98,10 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 
 ## 10. PYQ application
 
+- ✅ **2025 GS-III direct PYQ:** evolution of India's fusion programme,
+  India's contributions to ITER, and implications of ITER's success for global
+  energy. Keep ITER experimental, not commercial. Exact route: `../README.md`.
+
 - ⚠️ UPSC Prelims can test the easy-to-mix distinctions: fusion versus fission, tokamak versus reactor, magnetic versus inertial confinement, experimental versus operational.
 - ⚠️ Questions on frontier technology reward restraint: writing that fusion is “promising but not yet commercial” is often safer and more accurate than exaggerated optimism.
 - ⚠️ GS-III answers can connect fusion research to long-term energy transitions, international cooperation, advanced materials and scientific self-reliance.
@@ -124,4 +128,3 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` - high-end research infrastructure, computation and advanced science linkages.
 - ✅ `16_Nanotechnology-and-Applications.md` - superconducting magnets, materials stress and high-technology manufacturing relevance.
 - ✅ `20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md` - long-term energy strategy and technology-sovereignty context.
-

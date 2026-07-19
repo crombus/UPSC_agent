@@ -48,6 +48,20 @@
 | ✅ Political alignments | Muslim League, Hindu Mahasabha and Communists did not join Congress-led Quit India |
 | ⚠️ Historical significance | Final mass movement that convinced Britain that ruling India indefinitely was untenable |
 
+## ➕ Exact PYQ application (2024 GS-I)
+
+> **Verbatim:** “What were the events that led to the Quit India Movement? Point out its results. (Answer in 150 words)”
+
+| Demand | Compact answer chain |
+|---|---|
+| ✅ Events leading to the movement | India taken into war without consultation (1939) -> Congress ministries resign -> August Offer fails -> Individual Satyagraha -> Japanese advance and wartime insecurity -> Cripps proposals fail to concede immediate responsible government -> AICC adopts Quit India on 8 August 1942 |
+| ✅ Immediate results | Leadership arrested on 9 August; strikes, sabotage, underground networks and severe repression; no immediate transfer of power |
+| ✅ Organisational results | Local initiative sustains the movement; Ballia, Tamluk and Satara establish parallel authority; students, peasants, workers and underground socialists widen participation |
+| ⚠️ Strategic results | The Raj restores order only through continuous coercion; the movement demonstrates that normal long-term colonial governance has lost legitimacy |
+| ⚠️ Endgame link | Quit India does not alone “cause” 1947; combine it with INA trials, armed-forces disaffection, post-war British weakness and the Cabinet Mission sequence in topic 26 |
+
+**150-word thesis:** ⚠️ Quit India arose from the contradiction between an imperial war for democracy and India's continued subjection; its immediate repression concealed its larger result—the erosion of the Raj's capacity to claim consensual or durable rule.
+
 ## 3. Study links
 
 > **Study link:** ✅ Congress ministries and provincial autonomy → `advanced/24_Government-of-India-Act-1935-and-Congress-Ministries.md`.

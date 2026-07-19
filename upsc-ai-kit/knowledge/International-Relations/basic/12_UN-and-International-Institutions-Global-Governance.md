@@ -100,8 +100,11 @@ recognising that reform itself remains unresolved rather than imminent.
 - 📰 **UN Pact for the Future (22 September 2024):** a summit-level outcome
   document addressing UN reform themes, including governance and
   future-generations considerations.
-- 📰 **G4 statement (29 May 2025):** the most recent verified G4 coordination
-  statement on UNSC reform.
+- 📰 **G4 statement (29 May 2025):** a recent coalition statement on UNSC
+  reform.
+- 📰 **India's IGN intervention (20 April 2026):** the current dated Indian
+  intervention on Security Council reform, including engagement with the
+  African reform model; it remains a negotiating position, not reform achieved.
 - ⚠️ **Intergovernmental Negotiations (IGN) process:** the UNGA-mandated forum
   where UNSC reform is formally discussed, without a fixed timeline for
   conclusion.
@@ -145,7 +148,8 @@ recognising that reform itself remains unresolved rather than imminent.
   advanced its own reform push from 2010 onward, moving beyond the earlier
   Open-Ended Working Group.
 - 📰 The UN Pact for the Future was adopted 22 September 2024.
-- 📰 The G4 issued a statement on UN reform on 29 May 2025.
+- 📰 The G4 issued a statement on 29 May 2025; India made a further IGN
+  intervention on 20 April 2026.
 
 ## 7. UPSC traps
 

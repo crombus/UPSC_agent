@@ -162,18 +162,19 @@ topic analyses only the operational internal-security consequences.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The **2019 reorganisation** of Jammu & Kashmir into two Union
-  Territories, and the **December 2023 Supreme Court judgment** upholding
-  the constitutional change, are the current reference points for this
-  topic's operational discussion; the constitutional reasoning itself is
-  developed in Polity. Any claim about present infiltration levels, force
-  posture or security incidents must be drawn from a dated official
-  source, not this book.
+- 📰 MHA's **26 February 2026 relief-and-rehabilitation status for Kashmiri
+ migrants** is the current dated anchor for rehabilitation and trust
+ restoration. The 2019 reorganisation and December 2023 judgment remain
+ constitutional reference points; present incident/force claims still
+ require a separately dated official source.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ No GS-III Mains question in the audited 2024-2025 papers names J&K
-  directly. An advanced answer using J&K as a "contemporary example" for
+- ✅ **2023 GS-III "Hearts and Minds" PYQ** requires evaluation of measures,
+  not a scheme list: separate security effectiveness, political
+  participation, development delivery, rehabilitation and rights-based
+  legitimacy, using the 2026 rehabilitation status as a bounded update.
+- ⚠️ No 2024-2025 question names J&K directly. An advanced answer using it for
   2025 Q9 (terrorism) should: (i) name the deniable-proxy-war mechanism
   precisely; (ii) cite ceasefire violations as an instrument, not
   friction; (iii) note the 2019 reorganisation's operational (not

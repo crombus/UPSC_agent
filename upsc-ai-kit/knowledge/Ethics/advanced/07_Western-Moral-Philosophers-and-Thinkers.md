@@ -144,11 +144,11 @@ underlying *rule/institution*, not just the isolated act, is just.
 - ❌ Rawls's veil of ignorance requires actual, real-world anonymity in policymaking. -> It is a
   hypothetical reasoning device for testing fairness, not a literal procedural requirement.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Ongoing global and Indian debate on AI-driven welfare-eligibility algorithms (an established, dated-neutral policy-design concern) | Provides a live test case for applying Rawls's veil of ignorance and Kant's humanity formula to algorithmic decision-making — see `13` for the technology-specific treatment. |
+| ⚠️ AI-driven welfare-eligibility algorithms | Provide a test case for Rawls's veil of ignorance and Kant's humanity formula; use topic `13`'s dated India AI Governance Guidelines rather than calling this a dated-neutral current fact. |
 
 ## 10. PYQ-based analytical application
 

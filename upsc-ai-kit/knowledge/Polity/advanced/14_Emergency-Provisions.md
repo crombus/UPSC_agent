@@ -17,7 +17,7 @@ Ambedkar: the Constitution can be "**both unitary and federal according to time 
 
 ## 1. NATIONAL EMERGENCY (Art 352) ⭐⭐
 
-### Grounds
+### Constitutional triggers
 ✅ Declared when security of India (or part) is threatened by **war, external aggression, or armed
 rebellion** — even on **imminent danger**. **"War/external aggression" = External Emergency; "armed
 rebellion" = Internal Emergency.** ✅ **44th Amendment (1978)** replaced "**internal disturbance**"

@@ -104,6 +104,10 @@ PCB / module / device assembly -> phones, servers, EVs, telecom gear
 
 ## 9. PYQ application
 
+- ✅ **2025 GS-III direct PYQ:** challenges facing India's semiconductor
+  industry and salient features of India Semiconductor Mission. Separate
+  design, fabrication, ATMP/OSAT, inputs and talent. Exact route: `../README.md`.
+
 - ⚠️ UPSC is likely to ask a **distinction-based Prelims question** separating fabless design, front-end fabrication and back-end packaging/testing.
 - ⚠️ In Mains, the issue is not merely subsidy; it is whether India can move from design services and electronics assembly to deeper semiconductor capability.
 - ⚠️ A good answer should pair technology vocabulary with institutional specificity: ISM, DLI, fabs, ATMP/OSAT, materials, utilities and downstream electronics demand.

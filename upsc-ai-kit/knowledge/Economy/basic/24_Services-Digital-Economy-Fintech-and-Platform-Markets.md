@@ -112,6 +112,13 @@ disability, fraud awareness and grievance resolution determine effective inclusi
   tokenisation.
 - ⚠️ 2025 Prelims: SEBI's role in derivatives risk warnings and investment-adviser
   regulation.
+- ✅ **2024 Prelims Q53:** digital rupee is sovereign currency and an RBI
+  liability, convertible at par with cash/bank money, but not inflation-insured.
+- ✅ **2025 Prelims Q68/Q69:** RTGS versus NEFT and the paper-dated set of
+  countries accepting international UPI merchant payments.
+- ⚠️ **2026 Prelims Q90/Q93 (official provisional key):** UPI versus digital
+  rupee liability/settlement, and M1xchange as an RBI-regulated TReDS
+  invoice-discounting platform. Exact routing: `../README.md`.
 
 ## 10. Mains angles
 

@@ -125,6 +125,10 @@ If it adds design + packaging + selected fabrication, capability deepens.
 
 ## 14. PYQ-based analytical application
 
+- ✅ **2025 GS-III direct PYQ:** semiconductor-industry challenges and
+  salient features of India Semiconductor Mission. Analyse the full value
+  chain—not fabs alone. Exact route: `../README.md`.
+
 - ⚠️ UPSC is likely to ask whether India’s semiconductor strategy should be judged by **fab announcements** or by broader ecosystem depth.
 - ⚠️ Prelims can test whether design, fabrication and ATMP are separate stages.
 - ⚠️ Mains can ask how semiconductor capability connects with AI, telecom, strategic autonomy and manufacturing quality.

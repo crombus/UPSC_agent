@@ -45,6 +45,7 @@
 
 > **Study link:** ✅ History → Ancient → Early Vedic corpus and archaeology (Upinder Singh Ch-5).
 > **Study link:** ⚠️ Aryan debate → `advanced/07_Aryan-Problem-and-Identity.md`; Later Vedic state formation → `advanced/09_Later-Vedic-Phase.md`.
+> **PYQ route:** The exact 2024 GS-I society-and-economy transition matrix is in `advanced/09_Later-Vedic-Phase.md`; use this file only for the Rig Vedic baseline.
 
 ## 4. Must-Know Facts (Prelims)
 

@@ -89,3 +89,13 @@ cases keep **collective responsibility & no-confidence** live.
 - Is the parliamentary system responsible for governance instability in India, or has coalition-era maturity disproved it?
 - "Prime ministerial government" — has the PM's dominance weakened cabinet collective responsibility?
 - Presidential vs parliamentary: what suits India's plural society better?
+
+## Verified PYQ application
+
+- ✅ **2024 GS-II Q3 (10 marks, 150 words):** “The growth of cabinet system has
+  practically resulted in the marginalisation of the parliamentary supremacy. Elucidate.”
+  Route: fusion of powers + party majority/whip + delegated legislation and agenda control
+  -> weakened scrutiny; qualify with questions, committees, no-confidence and judicially
+  enforceable constitutional limits.
+- Cross-link `16_PM-and-Council-of-Ministers.md` for cabinet/PM concentration and
+  `17_Parliament.md` for scrutiny correctives.

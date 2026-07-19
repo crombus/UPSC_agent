@@ -151,11 +151,11 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
   Lokpal Act. -> The Act primarily addresses the central-government level; State Lokayukta
   heterogeneity, per the ARC's original 4.2.5 diagnosis, remains only partially addressed.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Lokpal composition and chairperson identity (verify current officeholder and any recent appointment/reform before citing specifics in an answer) | Anchors any current-status discussion of the Lokpal's actual functioning against the ARC's 2007 design proposal. |
+| ⚠️ Lokpal's enacted composition and current officeholders | Anchor comparison with the ARC's 2007 design, but verify the officeholder and vacancies from Lokpal's official site on the date of use. |
 
 ## 10. PYQ-based analytical application
 

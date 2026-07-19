@@ -89,6 +89,11 @@
 
 ## 9. PYQ application
 
+- ✅ **2025 GS-III direct PYQ:** how nanotechnology advances agriculture and
+  can improve farmers' socio-economic condition. Link nano-inputs, sensors,
+  delivery and water treatment to cost, safety, access and regulation. Exact
+  route: `../README.md`.
+
 - ⚠️ UPSC usually prefers concept questions such as **why nanomaterials behave differently** rather than deep laboratory chemistry.
 - ⚠️ Prelims can test distinctions among graphene, CNTs, quantum dots and nanocomposites.
 - ⚠️ GS-III can link nanotechnology with agriculture, health, water treatment, energy storage, electronics and manufacturing competitiveness.

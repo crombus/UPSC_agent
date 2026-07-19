@@ -201,21 +201,26 @@ does not incapacitate India's broader diplomatic architecture.
 ## 9. 📰 Current-anchor note
 
 - 📰 The BIMSTEC Charter (in force 20 May 2024) and the BRICS Rio Declaration
-  (6 July 2025) remain the two most recent verified dated institutional anchors
-  for this topic. Any claim about a subsequent summit outcome or membership
-  change requires independent, dated verification.
+  (6 July 2025) remain key institutional anchors. India's launch of its BRICS
+  2026 chairship logo, theme and website on 13 January 2026 is the latest
+  chairship-process anchor; it is not a completed summit outcome.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names any
-  single grouping covered here. An advanced analytical answer on regionalism/
-  minilateralism should nonetheless:
+- ✅ **2020 Quad PYQ:** reject the question's alliance/trade-bloc premise
+  before evaluating functional expansion.
+- ✅ **2021 SCO PYQ:** assess aims and objectives against India's continental
+  security/connectivity interests and Pakistan-China constraints.
+- ✅ **2022 I2U2 PYQ:** analyse transformation of India's global position
+  through issue-based minilateralism, not bloc alignment.
+- ⚠️ No 2024-2025 question directly names a single grouping. An advanced
+  analytical answer should:
   1. Categorise groupings by layer (regional, trans-regional, continental,
      global-governance, minilateral) rather than listing them undifferentiated.
   2. Distinguish institutional-effectiveness levels (treaty-bound vs.
      non-treaty).
-  3. Cite the dated BIMSTEC Charter and BRICS Rio Declaration as concrete
-     evidence.
+  3. Cite the BIMSTEC Charter, BRICS Rio Declaration and India's BRICS 2026
+     chairship launch at the correct evidentiary level.
   4. Acknowledge membership gaps (APEC/ASEM) honestly rather than presenting
      uniform diplomatic success.
 

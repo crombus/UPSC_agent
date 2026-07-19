@@ -68,3 +68,12 @@ Assam, Meghalaya, Tripura, Mizoram) and **Fifth Schedule** (scheduled areas).
   principles? Critically examine in light of the 2023 SC verdict.
 - Asymmetric federalism (Art 371 provisions): how does it accommodate diversity without threatening unity?
 - Ladakh's Sixth Schedule demand — balancing development, ecology and tribal autonomy.
+
+## Verified PYQ application
+
+- ✅ **2025 GS-II Q4 (10 marks, 150 words):** “Discuss the nature of Jammu and Kashmir
+  Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly
+  describe the powers and functions of the Assembly of the Union Territory of Jammu and
+  Kashmir.” Route: UT legislature under the 2019 Act -> elected law-making and financial/
+  accountability functions -> exclusions and Union/LG override architecture -> compare
+  with a State legislature without treating J&K as constitutionally identical to Delhi.

@@ -14,8 +14,9 @@
 **elected** members of state legislative assemblies + **elected** members of **Delhi & Puducherry**
 assemblies (added by **70th Amdt 1992**). **Nominated members and MLCs do NOT vote.**
 ✅ System: **proportional representation by single transferable vote, secret ballot** → winner needs an
-**absolute majority (quota)**. ✅ Value of an MLA's vote uses **1971 census population** (frozen by **84th
-Amdt 2001** till after 2026). Disputes → **Supreme Court** (final). ✅ Indirect election chosen because
+**absolute majority (quota)**. ✅ Value of an MLA's vote uses **1971 census population** until relevant
+figures of the **first census taken after 2026 have been published** (84th Amdt 2001). Disputes →
+**Supreme Court** (final). ✅ Indirect election chosen because
 President is a **nominal executive** and direct election would be costly for a symbolic head.
 
 ## 2. Qualifications, oath, conditions
@@ -122,3 +123,12 @@ over **President's/Governor's discretion**, mercy-petition delays (death-row com
 - "The President is a rubber stamp." Critically examine the situational discretion of the office.
 - Ordinance-making and the D.C. Wadhwa doctrine — executive overreach vs legislative necessity.
 - Governor/President assent to bills: should a constitutional time-limit be prescribed?
+
+## Verified PYQ application
+
+- ✅ **2025 GS-II Q3 (10 marks, 150 words):** “Compare and contrast the President's
+  power to pardon in India and in the USA. Are there any limits to it in both the
+  countries? What are ‘preemptive pardons’?” Route: Art 72 and ministerial advice vs US
+  Article II personal executive power -> Indian court-martial/death-sentence scope vs US
+  federal-offence/impeachment limits -> mala fides/arbitrariness review -> pre-emptive
+  pardon covers completed conduct before charge/conviction, not future offences.

@@ -77,7 +77,8 @@ statement.
    young, educated, unmarried women.
 2. This job-demand pull, combined with the gender-specific attributes it rewards, produces
    a distinctive migration stream of skilled, young, unmarried women, verified by the PLFS
-   female labour-force participation rise (41.7% in 2023-24, up from 37.0% in 2022-23).
+   female labour-force participation rise (41.7% in 2023-24, up from 37.0% in 2022-23);
+   PLFS Annual Report 2025 later reported 40.0% on a changed calendar-year reference period.
 3. Independent urban income and residence expand personal freedom — mobility, spending
    autonomy, delayed marriage, greater voice in partner selection.
 4. ⚠️ Family relationships are simultaneously renegotiated: remittance flows, continued
@@ -161,11 +162,12 @@ statement.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 MoSPI's PLFS Annual Report 2023-24 (released 23 September 2024) — female labour force
-  participation 41.7%, worker population ratio 40.3% — remains the most recent verified
-  dated anchor linking globalisation-era job growth to women's workforce entry; NFHS-6's
-  64.3% ever-internet-use figure (released 29 May 2026) is the current digital-access
-  anchor.
+- 📰 PLFS 2023-24's female labour-force participation (41.7%) and worker-population
+  ratio (40.3%) are dated comparators. **PLFS Annual Report 2025**, released March 2026,
+  reports usual-status female LFPR for age 15+ at **40.0%**. Because the newer report uses
+  a January-December 2025 reference period rather than the earlier July-June cycle, cite
+  period and measure before comparing them. NFHS-6's 64.3% ever-internet-use figure
+  (released 29 May 2026) is the current digital-access anchor.
 
 ## 10. PYQ-based analytical application
 

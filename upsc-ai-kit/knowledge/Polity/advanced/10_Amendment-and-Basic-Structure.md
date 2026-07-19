@@ -115,3 +115,12 @@ Judiciary" tension is prime **Mains/essay** material.
 - Basic-structure doctrine: guardian of constitutionalism or judicial overreach? (use Dhankhar 2023–24 debate).
 - Evolution of the FR-amendability question — Shankari Prasad to Kesavananda to I.R. Coelho.
 - Balancing parliamentary sovereignty with constitutional supremacy in India.
+
+## Verified PYQ application
+
+- ✅ **2025 GS-II Q12 (15 marks, 250 words):** “Indian Constitution has conferred the
+  amending power on the ordinary legislative institutions with a few procedural hurdles.
+  In view of this statement, examine the procedural and substantive limitations on the
+  amending power of the Parliament to change the Constitution.” Route: three amendment
+  routes and state ratification -> no joint sitting/mandatory assent -> basic-structure
+  substantive ceiling -> limited constituent power under constitutional supremacy.

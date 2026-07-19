@@ -126,6 +126,10 @@ monitoring report and its date, as water quality can vary seasonally and by rive
 
 ## 9. PYQ application
 
+- ✅ **2024 GS-III direct PYQ:** “Industrial pollution of river water is a
+  significant environmental issue in India.” It asks for mitigation measures
+  and government initiatives. Route the exact demand via `../README.md`.
+
 - ⚠️ Recurring Prelims pattern: identify the correct water-quality indicator (BOD/DO/
   faecal coliform) implied by a described pollution scenario.
 - ⚠️ Mains linkage: the sewage-versus-industrial-effluent pollution-source distinction is

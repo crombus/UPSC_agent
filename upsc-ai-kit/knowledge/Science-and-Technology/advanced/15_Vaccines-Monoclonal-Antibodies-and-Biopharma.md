@@ -110,6 +110,12 @@ ready-made antibody delivered
 
 ## 13. 📰 Current anchor — analytical use
 
+📰 **4 April 2024 — NexCAR19:** India launched its first indigenously
+developed CAR-T-cell therapy through IIT Bombay–Tata Memorial Centre–
+ImmunoACT collaboration. Analyse it as cell/gene therapy and translational
+biomanufacturing—not as a vaccine or monoclonal antibody.
+[PIB source](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2017169).
+
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 **29 Nov 2020:** PIB launched Mission COVID Suraksha. | Use to show how India built mission-mode vaccine capability rather than relying only on routine grant funding. |
@@ -118,6 +124,10 @@ ready-made antibody delivered
 | 📰 **21 Jul 2025:** PIB reported DBT-BIRAC joint-call implementation under the policy. | Use to argue that the biopharma ecosystem is being embedded in a broader advanced-biotech manufacturing strategy. |
 
 ## 14. PYQ-based analytical application
+
+- ✅ **2025 GS-III cross-route:** biotechnology's contribution to clean-
+  technology energy independence belongs to topic 13; use this file only for
+  platform/biomanufacturing capacity. Exact route: `../README.md`.
 
 - ⚠️ UPSC may ask difference-based Prelims questions on vaccines versus antibodies.
 - ⚠️ Mains can ask how India should balance rapid response, regulatory rigor and affordable access in biologics.

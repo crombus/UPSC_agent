@@ -117,7 +117,7 @@ signature, blood, body exhibition; criminal proceedings only). **Non-suspendable
 
 ### Article 21 — Protection of Life & Personal Liberty (all persons)
 ✅ *Gopalan* (1950): narrow — only vs arbitrary **executive** action ("procedure established by
-law"). ✅ **Menaka Gandhi (1978)**: wide — procedure must be **fair, just, reasonable** (imports
+law"). ✅ **Maneka Gandhi (1978)**: wide — procedure must be **fair, just, reasonable** (imports
 "due process"), vs executive **and** legislative action; life = live with **human dignity**.
 ✅ SC-declared Art 21 rights include: dignity, **clean environment**, livelihood, **privacy**,
 shelter, health, free legal aid, speedy trial, against handcuffing/solitary confinement, travel
@@ -310,13 +310,22 @@ sentences. Martial law = "military rule" (undefined; from English common law); n
 - ❌ Reservation in promotion / Art 16(4) is a right → it's an **enabling** power.
 
 ## PYQ / CA anchors
-- Cross-check Prelims PYQ sets in `knowledge/_source-library` (Art 21 rights list, writs, Art 15/16
-  exceptions, creamy layer, Art 20 protections recur frequently).
+- Use the verified PYQ applications embedded below and in the owning Polity topic files
+  (Art 21, writs, Art 15/16 exceptions, creamy layer and Art 20 protections recur frequently).
 - 📰 Live-search (web tool): privacy (Puttaswamy) follow-ups, SC/ST sub-classification & creamy
   layer in promotions, EWS verdict, preventive-detention (NSA/UAPA) rulings, free-speech cases.
 
 ## Mains angles
-- Judicial expansion of Art 21 — from *Gopalan* to *Menaka* to *Puttaswamy*; "due process" through the back door.
+- Judicial expansion of Art 21 — from *Gopalan* to *Maneka* to *Puttaswamy*; "due process" through the back door.
 - Reservation jurisprudence: 50% ceiling, creamy layer, caste → economic criteria (EWS).
+
+## Verified PYQ application
+
+- ✅ **2024 GS-II Q12 (15 marks, 250 words):** “Right to privacy is intrinsic to life
+  and personal liberty and is inherently protected under Article 21 of the Constitution.
+  Explain. In this reference discuss the law relating to DNA testing of child in the womb
+  to establish its paternity.” Route: *Puttaswamy* privacy/dignity/autonomy -> legality,
+  legitimate aim, proportionality -> Evidence Act legitimacy presumption and best interests
+  of the child -> DNA testing only on strong prima facie need, not a routine roving inquiry.
 - Freedom of speech vs reasonable restrictions in the digital age.
 - Preventive detention vs personal liberty — balancing security and Art 22 safeguards.

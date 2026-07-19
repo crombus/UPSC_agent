@@ -73,7 +73,8 @@
 
 ## 6. 📰 Current link
 
-- ⚠️ **Institutional resilience and secularism.** Debates on democratic backsliding, federalism and minority rights routinely invoke the choices of 1947–51 as the republic's founding template. *(Escalate to 📰 when pegged to a verified news item.)*
+- 📰 **75 years of the Constitution (from 26 November 2024):** the Government launched a year-long “Hamara Samvidhan, Hamara Swabhimaan” commemoration of the Constitution's adoption (PIB, PRID 2076894). For this topic, the anchor is historical: universal franchise, parliamentary democracy and the founding consensus were deliberate nation-building choices in a poor, diverse post-colonial state.
+- ⚠️ Articles, doctrines and present constitutional litigation remain in Polity; use the commemoration here only to illuminate the republic's founding choices and institutional inheritance.
 
 ## 7. Mains angles
 

@@ -33,8 +33,8 @@ Court** when required.
 - ✅ **NOT a member** of the Central Cabinet (there is a separate **Law Minister**).
 
 ## Solicitor General ⚠️
-✅ The **Solicitor General & Additional Solicitors General** assist the AG — but these offices are **statutory,
-NOT constitutional** (Art 76 mentions only the AG).
+✅ The **Solicitor General & Additional Solicitors General** assist the AG — but these are
+**non-constitutional, non-statutory executive law offices** (Art 76 mentions only the AG).
 
 ---
 
@@ -68,8 +68,8 @@ a vote**; enjoys **MLA privileges**.
 ## UPSC Traps
 - ❌ The AG has a fixed term of 5/6 years → **no fixed term**; holds office during the **President's pleasure**.
 - ❌ The AG can vote in Parliament → **speaks but cannot vote**.
-- ❌ The Solicitor General is a constitutional post → **only the AG** is constitutional (Art 76); SG/ASG are
-  statutory.
+- ❌ The Solicitor General is a constitutional or statutory post → **only the AG** is constitutional
+  (Art 76); SG/ASG are non-statutory executive law offices.
 - ❌ The AG is a member of the Cabinet → he is **not**; a separate Law Minister exists.
 - ❌ The AG cannot do private practice → he **can** (not a government servant / not full-time).
 - ❌ The AG has a right of audience only in the Supreme Court → **all courts in India**.
@@ -86,3 +86,12 @@ a vote**; enjoys **MLA privileges**.
 ## Mains angles
 - "The Attorney General straddles the line between government counsel and constitutional functionary." Examine.
 - Should the Attorney General be barred from private practice to avoid conflict of interest? Discuss.
+
+## Verified PYQ application
+
+- ✅ **2025 GS-II Q5 (10 marks, 150 words):** “The Attorney General of India plays a
+  crucial role in guiding the legal framework of the Union Government and ensuring sound
+  governance through legal counsel. Discuss his responsibilities, rights and limitations
+  in this regard.” Route: Article 76 advice/representation -> audience and parliamentary
+  participation without vote -> no fixed tenure/private practice -> conflict safeguards
+  and constitutional-functionary tension.

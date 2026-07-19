@@ -131,6 +131,12 @@ settled final version.
 
 ## 9. PYQ application
 
+- ✅ **2024 GS-III direct PYQ:** role of environmental NGOs/activists in
+  influencing EIA outcomes, requiring **four properly sourced examples**.
+- ✅ **2025 GS-III cross-route:** mining as an environmental hazard and
+  remedial measures; use this file for EIA/clearance/closure governance and
+  Geography topic 31 for mineral occurrence. Exact routes: `../README.md`.
+
 - ⚠️ Recurring Prelims pattern: distinguish Category A/B/B1/B2 clearance requirements and
   identify the four EIA process stages correctly.
 - ⚠️ Mains linkage: NGT case examples are used to illustrate the application of the Polluter

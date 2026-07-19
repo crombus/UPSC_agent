@@ -73,7 +73,8 @@
 
 ## 6. 📰 Current link
 
-- ⚠️ **Autonomy, forest rights and North-East peace accords.** Sixth Schedule debates, the Forest Rights framework and periodic North-Eastern settlements draw directly on this integration history. *(Escalate to 📰 when pegged to a verified news item.)*
+- 📰 **Janjatiya Gaurav Varsh (November 2024–November 2025):** the official year-long observance marked the 150th birth anniversary of Birsa Munda and included commemoration of tribal freedom fighters (PIB, PRID 2073620). For this post-Independence topic, use it as a memory-and-integration hook: recognition of resistance must be paired with land, forest, autonomy and implementation outcomes after 1947.
+- ⚠️ Colonial tribal resistance belongs to the freedom-struggle background; contemporary welfare-scheme evaluation belongs to Social Justice/Governance.
 
 ## 7. Mains angles
 

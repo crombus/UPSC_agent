@@ -80,7 +80,8 @@
 
 ## 6. 📰 Current link
 
-- ⚠️ **Youth, martyrdom and ideological memory.** Public references to Bhagat Singh, Azad and revolutionary icons remain an evergreen hook for examining nationalism, political violence, secularism and socialist ideas in India's public culture. *(Escalate to 📰 when pegged to a verified news item.)*
+- 📰 **Kakori Train Action centenary (9 August 2025):** the Prime Minister's official centenary tribute marked one hundred years since the 1925 action (PIB, PRID 2154621). Use it to revise the HRA's republican programme, fund-raising objective, trial and executions—not to merge Kakori with the later HSRA/Saunders/Assembly Bomb sequence.
+- ⚠️ Public memory is the hook; the historical answer must still distinguish HRA republicanism from HSRA socialism.
 
 ## 7. Mains angles
 

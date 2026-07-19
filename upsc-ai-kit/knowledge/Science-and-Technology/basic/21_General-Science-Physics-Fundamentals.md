@@ -103,6 +103,11 @@ heat/temperature -> waves -> sound -> light/optics -> electricity/magnetism
 
 ## 8. 📰 Current anchor
 
+- 📰 **8 October 2024 | Nobel Prize in Physics:** John Hopfield and
+  Geoffrey Hinton were recognised for foundational discoveries enabling
+  machine learning with artificial neural networks—an explicit physics-to-AI
+  bridge. [Nobel source](https://www.nobelprize.org/prizes/physics/2024/press-release/).
+
 - 📰 **03 Oct 2023 | Nobel Prize in Physics.** The prize recognized attosecond light pulses for studying electron dynamics in matter — a direct reminder that optics and wave physics continue to drive frontier electronics and diagnostics.
 - 📰 **As of 16 Jul 2026 | ISM Semicon 2.0 page.** The official page stresses compute, memory, power, networking, RF and sensors as strategic chip-design blocks, showing why semiconductor basics remain policy-relevant.
 - 📰 **Scheduled for 17-19 Sep 2026 | SEMICON India 2026.** ISM lists the forthcoming event around “Building Trusted and Resilient Semiconductor Ecosystems,” linking transistor-level science to manufacturing strategy.
@@ -110,6 +115,14 @@ heat/temperature -> waves -> sound -> light/optics -> electricity/magnetism
 *Current as of 16 Jul 2026; verify for later updates.*
 
 ## 9. PYQ application
+
+- ✅ **2024 GS-III direct PYQ — planetary defence:** “What are asteroids?
+  How real is the threat of them causing extinction of life? What strategies
+  have been developed to prevent such a catastrophe?”
+- ✅ Route the answer through NEO detection/orbit determination, warning and
+  deflection (kinetic impactor as demonstrated by DART; gravity-tractor or
+  nuclear options as conditional concepts), not claims of precise prediction.
+  Exact route: `../README.md`.
 
 - ⚠️ UPSC Prelims frequently tests radioactivity types, penetrating power and ionizing strength through statement elimination.
 - ⚠️ Lens/mirror questions usually check concept clarity, not numerical derivation.

@@ -130,9 +130,8 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
   historically, but reflects book-period status descriptions (Interpol
   listing, Forbes ranking) — treat as a historical case study, not a
   claim about present-day organisational status.
-- ✅ **PYQ mapping — verbatim (2024 Q9, local paper text reproduced
-  verbatim, preserving its OCR/source defect):** "Explain how narco-
-  terrosrism has emerged as a serious threat across the country. Suggest
+- ✅ **PYQ mapping — verified against the paper (2024 Q9):** "Explain how
+  narco-terrorism has emerged as a serious threat across the country. Suggest
   suitable measures to counter narco-terrorism."
 
 ## 6. Must-Know Facts for Prelims
@@ -162,8 +161,8 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
   financial-national-security nexus in which trafficking revenue/control
   funds or enables political violence — a distinct policy problem from
   public-health drug policy alone.
-- ❌ Preserve the PYQ's OCR spelling "narco-terrosrism" when quoting the
-  question verbatim — do not silently correct it.
+- ❌ Treat OCR misspellings as official wording. -> The paper reads
+  "narco-terrorism"; correct extraction noise before quoting.
 - ❌ All organised-crime syndicate leadership/status details in this book
   reflect current reality. -> These are book-period case studies; verify
   any current claim about a specific individual or group from a dated
@@ -181,8 +180,12 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
 
 ## 9. PYQ application
 
+- ✅ **2022 GS-III:** "Discuss the types of organised crimes. Describe the
+  linkages between terrorists and organised crime that exist at the
+  national and transnational levels." — classify first, then trace finance,
+  logistics, protection and shared-network linkages at both scales.
 - ✅ **2024 Q9 (verbatim, local paper text reproduced verbatim):** "Explain
-  how narco-terrosrism has emerged as a serious threat across the
+  how narco-terrorism has emerged as a serious threat across the
   country. Suggest suitable measures to counter narco-terrorism."
   - Structure: define narco-terrorism and the means-ends distinction from
     organised crime → trace the Golden Crescent/Golden Triangle route

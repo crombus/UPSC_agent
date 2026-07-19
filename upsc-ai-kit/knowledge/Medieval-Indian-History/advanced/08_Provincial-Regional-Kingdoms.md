@@ -1,7 +1,7 @@
 # Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) — ADVANCED
 
 > **Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1206–1526)* — chapter "Rise of Regional Kingdoms in North India."
+> **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1206–1526)* — chapter "Rise of Regional Kingdoms in North India" + official UNESCO Moidams property page for the bounded Ahom/Assam extension.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/08_Provincial-Regional-Kingdoms.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -45,6 +45,17 @@
 | ✅ Strategic pressure | Orissa, Ahoms, Jaunpur/Lodis | Mewar, Malwa, Gujarat, Lodis | Lodis and Bengal | Internal religious politics |
 | ⚠️ Exam frame | Ecology + language | Trade + architecture | Culture + Ganga valley | Toleration + legitimacy |
 
+### Ahom/Assam — bounded Prelims extension
+
+| Lens | Advanced takeaway |
+|---|---|
+| ⚠️ Political ecology | A durable Brahmaputra-valley polity developed beyond the Delhi Sultanate's direct regional system |
+| ⚠️ Paik organisation | Rotational service linked households, labour, military mobilisation and state capacity; describe obligation precisely rather than as generic “forced labour” |
+| ⚠️ Source criticism | *Buranjis* are court chronicles: indispensable for sequence and institutions, but not neutral records |
+| ✅ Moidams | UNESCO identifies Charaideo as a Tai-Ahom royal necropolis whose mound burials encode funerary custom and cosmology across six centuries |
+
+> **Boundary:** Political-administrative analysis remains here. Form, material, cosmology, UNESCO criteria and conservation belong to Indian Art & Culture topic 14.
+
 ## 3. Study links
 
 > **Study link:** ✅ Compare regionalisation after Tughlaqs with Bahmani/Vijayanagara in `advanced/09_Vijayanagara-and-Bahmani.md`.
@@ -71,6 +82,8 @@
 ## 6. 📰 Current link
 
 📰 **Champaner-Pavagadh Heritage Festival 2026 / UNESCO-site programming highlighted Gujarat Sultanate and syncretic heritage** (Incredible India / New Indian Express, 2026). Relevance: Mahmud Begarha's Champaner remains a living heritage-management case.
+
+📰 **Moidams, Charaideo (26 July 2024):** the World Heritage inscription is the dated hook for revising Ahom state formation, the *paik* system and *buranji* source tradition. Do not turn this political-history file into a monument dossier; cross-link the funerary landscape to Indian Art & Culture topic 14.
 
 ## 7. Mains angles
 

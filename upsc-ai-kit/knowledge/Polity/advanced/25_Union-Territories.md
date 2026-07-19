@@ -78,3 +78,10 @@ Chandigarh → Punjab & Haryana; J&K & Ladakh → common J&K HC).
 ## Mains angles
 - Art 239-AA and the Delhi model: an asymmetric, unresolved federal experiment. Examine.
 - The "agent of the President" design vs democratic aspirations in UTs with legislatures.
+
+## Verified PYQ cross-link
+
+- ✅ **2025 GS-II Q4 (10 marks, 150 words)** asks the nature, powers and functions of
+  the J&K UT Legislative Assembly after the 2019 Reorganisation Act. Use this file for
+  the UT-vs-State distinction; the complete verified-PYQ route is in
+  `22_Special-Provisions.md`.

@@ -149,6 +149,11 @@ conscience-driven dissent through lawful, accountable institutional mechanisms.
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2015 GS-IV** directly asks how law and ethics regulate conduct and how
+  their approaches differ. A strong answer distinguishes external,
+  state-backed minimum compliance from conscience/socially grounded ethical
+  aspiration, while acknowledging overlap and using one legal-but-unethical
+  and one ethical-but-illegal boundary case.
 - ✅ 2025 GS-IV Q1(b) rewards an answer that names constitutional morality's genealogy (Ambedkar/
   Grote), its cultivated (not natural) character, and its specific application to accountability and
   good governance — not a generic "constitution is supreme law" restatement.

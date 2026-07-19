@@ -110,6 +110,12 @@ atomic structure -> bonding -> compound properties -> process chemistry -> indus
 
 ## 11. PYQ application
 
+- ✅ **2024 GS-III direct PYQ — clean/safe freshwater:** discuss any three
+  alternative technologies with merits/demerits. Compare RO/membranes, thermal
+  or solar desalination, wastewater recycling and advanced treatment on energy,
+  brine/concentrate, cost, scale and contaminant specificity. Exact route:
+  `../README.md`.
+
 - ⚠️ Prelims often uses chemistry to test elimination logic: pH, oxidation state, polymer type, fertilizer identity or ore-extraction route.
 - ⚠️ The analytical upgrade in GS-III is to ask what molecular property explains a policy problem.
 - ⚠️ Questions on plastics, batteries or fertilizers are easier when reduced back to bonding, redox and material behavior.

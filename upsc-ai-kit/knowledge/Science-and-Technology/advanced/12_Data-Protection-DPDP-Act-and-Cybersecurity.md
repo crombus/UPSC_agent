@@ -120,6 +120,10 @@ Same breach, different questions:
 
 ## 14. PYQ-based analytical application
 
+- ✅ **2024 GS-III direct PYQ:** context and salient features of the DPDP
+  Act, 2023. Separate privacy/data-governance design from cybersecurity
+  incident response; exact route: `../README.md`.
+
 - ⚠️ Prelims can test whether the candidate confuses privacy institutions with cyber institutions.
 - ⚠️ Mains can ask whether India’s digital governance should prefer data localisation, restricted transfer or interoperable consent architecture.
 - ⚠️ The strongest answers separate legal governance, institutional design and operational security.

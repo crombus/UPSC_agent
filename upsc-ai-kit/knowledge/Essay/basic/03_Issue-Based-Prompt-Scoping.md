@@ -15,8 +15,8 @@
 
 ## 1. Purpose and scope
 
-One audited prompt — 2024-B1, "Social media is triggering 'Fear of
-Missing Out' amongst the youth precipitating depression and loneliness"
+One audited prompt — 2024-B5, "Social media is triggering 'Fear of
+Missing Out' amongst the youth, precipitating depression and loneliness"
 — is an issue-statement rather than a philosophical aphorism: it names a
 real phenomenon, a mechanism and a consequence directly. This topic
 teaches how to scope such prompts as an *essay argument*, distinct from
@@ -36,8 +36,8 @@ teaches how to scope such prompts as an *essay argument*, distinct from
 
 ## 3. ✅ Exam facts / source basis
 
-- ✅ 2024-B1 is printed exactly as: "Social media is triggering 'Fear of
-  Missing Out' amongst the youth precipitating depression and
+- ✅ 2024-B5 is printed exactly as: "Social media is triggering 'Fear of
+  Missing Out' amongst the youth, precipitating depression and
   loneliness." — no author, no further qualifying data attached in the
   source paper.
 - ⚠️ This is the only prompt in either audited year that reads as a
@@ -49,7 +49,7 @@ teaches how to scope such prompts as an *essay argument*, distinct from
 ⚠️ **Central idea:** an issue-based prompt still needs a *thesis*, not
 just an accurate description of the phenomenon — the essay must argue
 something about the claim (its mechanism, its limits, what follows),
-not merely narrate it. ❌ **Common misreading:** treating 2024-B1 as an
+not merely narrate it. ❌ **Common misreading:** treating 2024-B5 as an
 invitation to write a GS-III/Society-style answer on social media's
 "causes, effects and government measures" complete with scheme names and
 headings — this under-uses the essay's actual test of argument and
@@ -71,7 +71,7 @@ synthesis.
 
 ## 6. Dimension-expansion grid
 
-| Dimension | Content for 2024-B1 |
+| Dimension | Content for 2024-B5 |
 |---|---|
 | Individual/psychological | Social comparison, curated self-image, validation-seeking |
 | Family/community | Parental awareness, peer culture, offline-relationship displacement |
@@ -89,7 +89,7 @@ as a scheme-listing exercise. Full discipline: `12`.
 
 ## 8. Thesis options and selection
 
-⚠️ Sample alternative theses for 2024-B1: (a) social media's design, not
+⚠️ Sample alternative theses for 2024-B5: (a) social media's design, not
 connectivity itself, is the primary driver of FOMO-linked distress,
 implying design/regulatory responses; (b) FOMO reflects a pre-existing
 social-comparison tendency that technology has amplified rather than
@@ -131,7 +131,7 @@ Full method: `06`.
 
 ## 12. Timed micro-drill and self-check
 
-**5-minute drill:** For 2024-B1, write one sentence each for: the
+**5-minute drill:** For 2024-B5, write one sentence each for: the
 mechanism, the strongest counter-case, and your chosen thesis. Then
 write one Indian illustration you can genuinely recall (not invent) that
 functions as evidence for your mechanism.

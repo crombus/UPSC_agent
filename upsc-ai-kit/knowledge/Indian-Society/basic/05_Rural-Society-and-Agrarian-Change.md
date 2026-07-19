@@ -4,7 +4,8 @@
 > **Core area:** Jajmani system, agrarian class structure, dominant caste in village power,
 > and the rural-urban continuum.
 > **Grounded in:** M.N. Srinivas's village-study sociology (dominant caste, rural power);
-> MoSPI PLFS 2023-24 rural-workforce data; no direct 2024/2025 GS-I PYQ (older-pattern
+> MoSPI PLFS 2023-24 rural-workforce data and PLFS Annual Report 2025; no direct
+> 2024/2025 GS-I PYQ (older-pattern
 > recurring theme, not fabricated).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/05_Rural-Society-and-Agrarian-Change.md`.*
@@ -118,8 +119,8 @@ restructured, without eliminating, the older caste-class overlap.
   cash wages — a key definitional feature.
 - ✅ Panchayati Raj mandates reservation for Scheduled Castes, Scheduled Tribes and women in
   local bodies (institutional design is Governance's territory).
-- 📰 MoSPI's Periodic Labour Force Survey (PLFS) Annual Report 2023-24, released 23 September
-  2024, is the most recent verified source for rural workforce composition.
+- 📰 PLFS 2023-24 is a dated rural-workforce comparator; PLFS Annual Report 2025,
+  released March 2026, is the latest annual round and uses a January-December period.
 - ⚠️ Rural-urban continuum theory rejects a strict traditional/modern binary in favour of
   continuous, ongoing linkage between villages and towns.
 
@@ -140,9 +141,10 @@ restructured, without eliminating, the older caste-class overlap.
 
 ## 8. 📰 Current anchor
 
-- 📰 MoSPI's PLFS Annual Report 2023-24 (released 23 September 2024) is the most recent
-  verified source for rural employment structure; specific participation-rate figures
-  should be cited only with this dated source, not asserted as static.
+- 📰 PLFS 2023-24 remains a dated rural-employment comparator. The **PLFS Annual Report
+  2025**, released March 2026, is the latest annual round; it uses a January-December
+  reference period rather than the older July-June cycle. Cite the period and exact rural
+  indicator before comparing rounds.
 
 ## 9. PYQ application
 

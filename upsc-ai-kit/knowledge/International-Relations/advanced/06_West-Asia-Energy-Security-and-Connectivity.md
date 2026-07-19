@@ -197,6 +197,9 @@ between reliable supply, cost and long-term transition pressure.
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2022 I2U2 cross-route:** assess the minilateral's effect on India's
+  West-Asia position through capital, technology, food/energy projects and
+  strategic-autonomy constraints; topic `10` owns the grouping comparison.
 - ✅ **2025 Q19 (direct):** *"Energy security constitutes the dominant kingpin of
   India's foreign policy, and is linked with India's overarching influence in
   Middle Eastern countries." How would you integrate energy security with

@@ -132,6 +132,11 @@ consumption baskets, informality and state fiscal capacity differ.
 | 📰 GST 2.0's broad two-rate structure took effect from 22 Sep 2025; avoid unsourced item-level claims. | Discuss simplification and compliance while avoiding unsourced claims about item-level GST treatment. |
 | 📰 Economic Survey 2025-26 highlights stronger direct-tax compliance; do not quote the return-count comparison without its underlying periods. | Use the Survey's qualitative signal without inventing missing year labels for the return-count comparison. |
 | 📰 Revenue receipts averaged 9.1% of GDP in FY22-FY25, compared with 8.5% in FY16-FY20. | Stronger receipts support devolution and services, but their composition and shareability remain important. |
+| 📰 Income-tax Act, 2025 and Rules, 2026 are operative from 1 Apr 2026. | Treat simplification, administration and rates as separate questions; the new text does not by itself prove a rate change. |
+| 📰 XVI-FC award period: 2026-27 to 2030-31; accepted vertical devolution remains 41% of the divisible pool. | Compare vertical share, horizontal formula, grants and fiscal incentives without mixing XV-FC and XVI-FC periods. |
+
+Sources: [PIB—Income-tax framework](https://pib.gov.in/PressReleasePage.aspx?PRID=2248005);
+[XVI-FC action-taken memorandum](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/16fc-EM.pdf).
 
 ## 10. PYQ-based analytical application
 
@@ -139,6 +144,8 @@ consumption baskets, informality and state fiscal capacity differ.
   concepts.
 - ⚠️ 2025 GS-III Fiscal Health Index invites comparison of state revenue effort and
   expenditure quality.
+- ✅ **2025 Prelims Q66:** tested XV-FC's 41% share and specified
+  grant/tax-effort propositions. Exact route: `../README.md`.
 
 ## 11. Mains-ready framework
 

@@ -122,7 +122,7 @@ and whether it is accompanied by a genuinely earned visual.
 ## 11. Advanced structure, paragraph sequencing and style
 
 ⚠️ Where a visual does pass Section 6's test (e.g. a short causal chain
-for 2024-B1's feedback loop, per `03`'s advanced file), integrate it
+for 2024-B5's feedback loop, per `03`'s advanced file), integrate it
 within, not instead of, the surrounding argued prose — precede it with a
 sentence stating what it shows, and follow it with a sentence
 interpreting its significance for the thesis.
@@ -147,7 +147,7 @@ is stable and does not depend on current-affairs content.
 `../README.md` and run every sentence through the precision check
 (Section 6 of the basic file); rewrite any sentence that fails.
 
-**Transfer task:** For 2024-B1 (FOMO) or another process-heavy prompt,
+**Transfer task:** For 2024-B5 (FOMO) or another process-heavy prompt,
 attempt one candidate visual and run it through Section 6's earning
 test; record whether it passed or was deleted, and log the reasoning in
 `16`'s error log.

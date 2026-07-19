@@ -186,9 +186,9 @@ threat" answer under-serves the analytical depth examiners expect.
 
 ## 10. PYQ-based analytical application
 
-- ✅ **2024 Q20 (verbatim, local paper text reproduced verbatim):** "Social
-  media and encrypting messaging services pase a serious security
-  challenge. What measures have been adopted at varous levels to address
+- ✅ **2024 Q20 (verified wording):** "Social media and encrypting messaging
+  services pose a serious security challenge. What measures have been
+  adopted at various levels to address
   the security implications of social media? Also suggest any other
   remedies to address the problem."
   - Advanced structure: after the basic-tier multi-level measures answer,

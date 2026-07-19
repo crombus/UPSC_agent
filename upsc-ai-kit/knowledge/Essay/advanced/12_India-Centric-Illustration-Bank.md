@@ -46,7 +46,7 @@ Act, 2005**:
 
 | Prompt/context | Function |
 |---|---|
-| 2024-B2 "Power tests character" | Illustrates institutional accountability constraining discretionary power |
+| 2024-B6 "Power tests character" | Illustrates institutional accountability constraining discretionary power |
 | 2025-A1 "Truth knows no color" | Illustrates a legal mechanism for equal access to official information regardless of the requester's status |
 | 2024-A4 "The doubter is a true man of science" | Illustrates institutionalised scrutiny/verification as a civic analogue to scientific doubt |
 
@@ -152,13 +152,15 @@ material.
 
 ## 13. 📰 Dated anchor / practice lab / transfer task
 
-📰 **Dated anchor / refresh protocol:** any illustration whose relevance
-depends on an evolving policy situation (e.g. a live platform-regulation
-debate for the FOMO prompt, or a live environmental-policy debate for the
-forests/deserts prompt) carries an implicit refresh flag — verify its
-current status against the owning GS module or a dated official/primary
-source immediately before a live attempt, rather than relying on this
-bank's authoring-time description.
+| Dated anchor | Reusable function | Limitation / refresh rule |
+|---|---|---|
+| 📰 India AI Governance Guidelines, November 2025 | Knowledge-power, ethical imagination, accountable innovation | Policy framework, not a comprehensive AI statute; recheck implementation claims |
+| 📰 India AI Impact Summit, 16-21 February 2026 | People-Planet-Progress synthesis for science, inclusion and sustainability prompts | Summit agenda is not proof of delivered outcomes |
+| 📰 DPDP Rules, notified 13 November 2025 | Sequenced, safeguarded action for technology/data dilemmas | Data protection does not resolve all social-media or AI risks |
+
+Any additional live-policy illustration carries a refresh flag: verify its
+status against the owning GS module or a dated official/primary source
+immediately before use.
 
 **Practice lab:** Take the Right to Information Act example (Section 3)
 and write out its three distinct functions from memory, checking each

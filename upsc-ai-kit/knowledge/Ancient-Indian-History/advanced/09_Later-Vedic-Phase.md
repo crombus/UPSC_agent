@@ -41,6 +41,21 @@
 | ✅ Society | Varna hierarchy hardens; brahmanical authority expands |
 | ⚠️ Thought | Upanishadic speculation creates the background for later renunciant traditions |
 
+## ➕ Exact PYQ application (2024 GS-I)
+
+> **Verbatim:** “Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words)”
+
+| Tested dimension | Rig Vedic baseline | Later Vedic change | Answer-use |
+|---|---|---|---|
+| ✅ Economic base | Cattle and mobility central to elite values; agriculture coexisted | Stable agriculture and two-crop settlement patterns expand | Write **pastoral emphasis -> stronger agrarian base**, not “agriculture began only later” |
+| ✅ Settlement / surplus | Household, lineage, clan and tribe frame production and distribution | Numerous settlements and regular agrarian surplus support chiefs and ritual specialists | Link settlement stability to tribute and social differentiation |
+| ✅ Social organisation | Kinship-centred, stratifying but still tribal | *Jana* moves towards *janapada*; territorial identity and kingship strengthen | Show a gradual process, not an overnight state revolution |
+| ✅ Varna / authority | Early varna ideas coexist with fluid interaction | Varna hierarchy and brahmanical ritual authority become more pronounced | Avoid claiming either complete early equality or fully fixed later caste |
+| ⚠️ Family / gender | Early texts preserve some wider female ritual/public visibility | Later textual norms indicate stronger patriarchal and ritual restrictions | Present as a qualified textual trend, not uniform subcontinental fact |
+| ⚠️ Assemblies / occupation | Clan bodies and mixed pastoral-agricultural work remain prominent | Stronger monarchy, tribute, crafts and occupational differentiation accompany agrarian expansion | Keep polity only where it explains social/economic change |
+
+**150-word thesis:** ⚠️ The transition was a gradual shift from a cattle-valued, kin-based and mobile society towards a more settled agrarian, territorially organised and stratified order; continuity in agriculture, pastoralism and tribal forms prevents a simple rupture narrative.
+
 ## 3. Study links
 
 > **Study link:** ✅ History → Ancient → Later Vedic transformation (Upinder Singh Ch-5).
@@ -65,7 +80,7 @@
 
 ## 6. 📰 Current link
 
-📰 **ASI Purana Qila / Indraprastha excavation (Delhi, 2024–26):** the ASI's renewed dig (aided by **LiDAR**) has yielded **Painted Grey Ware (c. 1100–400 BC)** — the ceramic marker of the Later Vedic / early-iron age — alongside Mauryan, Shunga-Kushan, Gupta and later layers. For this topic the hook is direct: **PGW at Purana Qila** is the material signature of the very Later Vedic society (iron, doab settlement, *Mahabharata*-age Indraprastha tradition) studied here.
+📰 **Purana Qila / Indraprastha excavation planning (Delhi, 2024–26):** reporting on the ASI's next excavation phase described a **LiDAR-guided** survey. Keep its results separate from **PGW (c. 1100–400 BC) found in earlier excavation campaigns** at Purana Qila; no fresh 2024–26 PGW result should be claimed without a dated ASI excavation bulletin. The valid topic hook is that earlier PGW remains provide material evidence for early-iron-age settlement in the upper Ganga-Yamuna region, not proof of a literal epic identification.
 
 ## 7. Mains angles
 

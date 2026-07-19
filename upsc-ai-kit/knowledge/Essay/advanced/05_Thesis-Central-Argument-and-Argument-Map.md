@@ -25,7 +25,7 @@ execution (`07`) — it supplies the thesis-and-map design those depend on.
 
 - **Load-bearing qualification:** a limit that, if removed, would make
   the thesis indefensible (e.g. "reversible, safeguarded experimentation"
-  in the 2024-B4 thesis — removing "reversible, safeguarded" makes the
+  in the 2024-B8 thesis — removing "reversible, safeguarded" makes the
   claim reckless).
 - **Decorative qualification:** a limit added only for the appearance of
   balance, doing no real argumentative work (e.g. "of course there are
@@ -60,7 +60,7 @@ needs a fixed life-goal)?
 
 ## 5. Stakeholder map and distributional effects
 
-⚠️ For theses with a clear social-policy dimension (e.g. 2024-B4's
+⚠️ For theses with a clear social-policy dimension (e.g. 2024-B8's
 "reversible experimentation" thesis), identify who bears the risk if the
 thesis's qualification is violated — e.g. who is harmed if an
 "experimental" reform turns out not to be reversible. A thesis that
@@ -97,7 +97,7 @@ strong qualification may outperform a forced multi-cycle structure.
 ## 8. Paradox, dialectic and counterfactual test
 
 **Paradox:** the strongest theses often concede the most to their
-opposing view — e.g. a thesis on 2024-B2 (power tests character) that
+opposing view — e.g. a thesis on 2024-B6 (power tests character) that
 fully grants adversity also builds character, while still arguing power
 is the more revealing and consequential test, is stronger than one that
 denies adversity teaches anything. **Counterfactual test:** "If I
@@ -108,7 +108,7 @@ it, the qualification may be unnecessary hedging.
 
 ## 9. Ethical conflict and synthesis
 
-⚠️ Constructing a thesis around a value conflict (e.g. 2024-B2's
+⚠️ Constructing a thesis around a value conflict (e.g. 2024-B6's
 accountability vs. autonomy, or 2025-B8's sufficiency vs. aspiration)
 requires naming the values explicitly rather than resolving the tension
 by simply asserting one side is correct — the synthesis should show how

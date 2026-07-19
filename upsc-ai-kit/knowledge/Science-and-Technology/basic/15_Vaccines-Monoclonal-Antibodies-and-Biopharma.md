@@ -84,12 +84,21 @@
 
 ## 8. 📰 Current anchor
 
+- 📰 **4 April 2024 | NexCAR19 launched:** India's first indigenously
+  developed CAR-T-cell therapy, developed through IIT Bombay–Tata Memorial
+  Centre–ImmunoACT collaboration. It is a cell/gene therapy—not a vaccine or
+  monoclonal antibody. [PIB source](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2017169).
+
 - 📰 **29 Nov 2020 | mission launched:** PIB announced Mission COVID Suraksha for accelerated Indian COVID-19 vaccine development with end-to-end focus from preclinical work to deployment support.
 - 📰 **01 Jun 2021 | implementation call:** BIRAC’s Mission COVID Suraksha call page shows an announcement for enhancing capacity to support COVID-19 vaccine development.
 - 📰 **27 Nov 2024 | biomanufacturing policy context:** PIB outlined BioE3 objectives for high-performance biomanufacturing, relevant to long-term biologics and vaccine ecosystem strengthening.
 - 📰 **21 Jul 2025 | implementation underway:** PIB reported the first round of DBT-BIRAC joint calls under the policy, showing continuing biomanufacturing ecosystem development. Current as of 2026-07-16; verify later product-specific approvals separately.
 
 ## 9. PYQ application
+
+- ✅ **2025 GS-III cross-route:** biotechnology's role in clean-technology
+  energy independence belongs primarily to topic 13; use this file only for
+  biomanufacturing/platform-capacity examples. Exact route: `../README.md`.
 
 - ⚠️ Prelims may test platform recognition: live-attenuated, inactivated, vector, mRNA/DNA and antibody-based products.
 - ⚠️ Statement questions may try to confuse **regulator (CDSCO)**, **research body (ICMR)** and **mission/innovation agencies (DBT/BIRAC)**.

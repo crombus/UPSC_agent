@@ -5,7 +5,7 @@
 > solved by **scaling and multipliers**, not long working.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). Drills are **computationally verified**.
 > ✅ = rule/fact | ⚠️ = guidance | 📝 = original example.
-> *Companion: `advanced/03_Arithmetic-and-Commercial-Math.md`.*
+> *Companion: [Advanced Drill](../advanced/03_Arithmetic-and-Commercial-Math.md).*
 
 ---
 
@@ -33,7 +33,7 @@ step-by-step arithmetic.
 | ✅ **Percentage change** | New = Old x (1 ± r). Successive changes multiply, they do **not** add. |
 | ✅ **Ratio split** | Divide total by the sum of ratio parts to get one "part". |
 | ✅ **Average** | `Average = Sum / Count`; `Sum = Average x Count`. |
-| ✅ **Alligation** | For mixing at prices a and b to get mean m, ratio = `(b - m) : (m - a)`. |
+| ✅ **Alligation** | For `a < m < b`, mixing positive quantities at values a and b to get mean m gives ratio `(b - m) : (m - a)`. At an endpoint, one component has zero quantity; outside `[a,b]`, the target is infeasible. |
 | ✅ **Profit / loss** | `SP = CP x (1 ± profit%/loss%)`; profit% is on **CP**. |
 | ✅ **Simple interest** | `SI = P x R x T / 100`. |
 | ✅ **Compound interest** | `A = P x (1 + R/100)^T`; `CI = A - P`. |
@@ -124,7 +124,7 @@ new sum `= 100`; average `= 100/4 =` **25.** *(Verified.)*
 
 ## 10. Study links
 
-- ✅ Advanced companion: `advanced/03_Arithmetic-and-Commercial-Math.md` - repeated replacement,
+- ✅ [Advanced companion](../advanced/03_Arithmetic-and-Commercial-Math.md) - repeated replacement,
   markup-plus-discount, and equating-ages methods.
-- ✅ `02_Number-Systems-and-Number-Sense.md` (basic) - ratio sense rests on factors.
-- ✅ `04_Rates-Motion-Time-and-Geometry.md` (basic) - averages and ratios extend to speed and work.
+- ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - ratio sense rests on factors.
+- ✅ [Rates, Motion, Time and Geometry](./04_Rates-Motion-Time-and-Geometry.md) - averages and ratios extend to speed and work.

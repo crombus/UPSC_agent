@@ -146,6 +146,10 @@ conceptual key to nearly every advanced Paris Agreement question.
 
 ## 11. PYQ-based analytical application
 
+- ✅ **2025 GS-III direct PYQ:** Paris commitments → COP26 strengthening →
+  2022 NDC update. Keep treaty architecture here and quantitative India detail
+  in topic 20; exact route: `../README.md`.
+
 - ⚠️ Prelims questions distinguishing Article 6.2/6.4, or the NCQG's two finance figures,
   should be solved by applying the specific mechanism-name/figure-source distinctions
   directly.

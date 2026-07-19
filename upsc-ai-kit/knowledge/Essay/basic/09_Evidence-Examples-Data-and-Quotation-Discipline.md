@@ -4,7 +4,7 @@
 > Studies Paper — Essay, Mains).
 > **Core area:** Using examples, data and quotations safely and
 > proportionately; the mandatory quotation-attribution safety rule for
-> all 16 audited prompts.
+> the 16 recent prompts and the wider 100-prompt ledger.
 > **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Sections 8, 13.
 > **Research cutoff:** 18 July 2026.
@@ -35,13 +35,11 @@ catalogue.
 
 ## 3. ✅ Exam facts / source basis
 
-- ✅ All 16 audited prompts (2024 and 2025) are printed **without any
+- ✅ All 16 recent prompts (2024 and 2025) are printed **without any
   author attribution** in the source papers (see `../README.md` for
-  full verbatim text and citation).
-- ✅ Both papers carry printed textual defects (e.g. 2024-A2 "futures";
-  2024-A3 capitalised mid-sentence "Happiness" and a double space; 2025's
-  instruction reads "Sections A as") which this folder quotes exactly
-  rather than silently correcting.
+  the recent index).
+- ✅ OCR artefacts are corrected against the paper. The authoritative
+  working ledger is `../PYQ-Corpus-2013-2025.md`, not a raw extraction.
 - ⚠️ Because no author is printed for any prompt, this folder's default
   rule is: **quote the prompt exactly, or paraphrase it faithfully; never
   attach an author's name to it.**
@@ -113,9 +111,8 @@ directly responsive to the actual question asked.
   describe the pattern qualitatively, or omit the claim entirely.
 - ❌ **Evidence-dumping** (stacking three examples for one claim). →
   Repair: keep the single strongest, most accurate example.
-- ❌ **"Correcting" a source-paper defect while quoting it** (silently
-  fixing "futures" to "future"). → Repair: quote exactly as printed if
-  quoting directly.
+- ❌ **Repeating OCR noise as a source-paper defect.** → Repair: recheck
+  the paper or `../PYQ-Corpus-2013-2025.md` before quoting directly.
 
 ## 12. Timed micro-drill and self-check
 

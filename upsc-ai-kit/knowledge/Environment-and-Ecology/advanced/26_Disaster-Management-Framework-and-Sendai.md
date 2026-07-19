@@ -129,6 +129,11 @@ positioned as the framework's fourth priority, not its starting point.
 
 ## 9. 📰 Current anchor — analytical use
 
+📰 **Disaster Management (Amendment) Act, 2025**, in force 9 April 2025,
+is the current legal update. Route institutional detail to
+`../../Disaster-Management/advanced/02_Indian-Legal-and-Institutional-Architecture.md`
+instead of duplicating it. [NIDM/official text](https://nidm.gov.in/DMAct.asp).
+
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 India's National Disaster Management Plan, aligned with Sendai Framework priorities, continues to be updated (verify the latest NDMA plan revision and hazard-specific action-plan development, e.g., heatwave action plans, before citing specific current details). | Use as the current institutional baseline while pairing it with the DDMA-capacity-gap critique and the ecosystem-based-risk-reduction integration point for full analytical depth. |

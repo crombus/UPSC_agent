@@ -87,6 +87,9 @@
 - ⚠️ Recurring UPSC theme: balanced regional development, Planning Commission versus NITI Aayog, and district-level targeting.
 - ⚠️ GS-I can take the spatial-inequality angle; GS-II can take the institutional-governance angle.
 - ⚠️ Good answers avoid rewriting macroeconomic plan history and instead stress territorial outcomes.
+- ✅ **2024 GS-I direct PYQ:** “What is regional disparity? How does it
+  differ from diversity? How serious is the issue of regional disparity in
+  India?” Route the definition/distinction here; exact audit: `../README.md`.
 
 ## 9. 📰 Current link
 

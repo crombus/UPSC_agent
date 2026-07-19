@@ -34,13 +34,17 @@
 
 ## 2. Key classification / data
 
-| Rig Vedic | Later Vedic |
-|---|---|
-| ✅ Pastoral, cattle wealth | ✅ Agriculture expands; rice and wheat important |
-| ✅ Tribe / *jana* | ✅ Territory / *janapada* begins |
-| ✅ Chiefly *rajan* | ✅ Stronger kingship with tribute |
-| ✅ Indra, Agni prominent | ✅ Prajapati and ritual speculation rise |
-| ✅ North-west Sapta-Sindhu | ✅ Kuru-Panchala, Ganga-Yamuna doab |
+| Dimension | Rig Vedic | Later Vedic | Direction of change |
+|---|---|---|---|
+| ✅ Economic base | Pastoralism and cattle wealth central; agriculture present | Settled agriculture expands; rice and wheat important | Mixed pastoral economy -> stronger agrarian base |
+| ✅ Settlement / surplus | Mobile and lineage-centred social world | Numerous PGW settlements, two-crop patterns and regular tribute | More stable settlement and support for chiefs/priests |
+| ✅ Social unit | Tribe / *jana* | Territory / *janapada* begins | Kin identity -> territorial identity |
+| ✅ Stratification | Early varna ideas within a still-tribal society | Varna hierarchy and brahmanical authority become more pronounced | Social differentiation hardens |
+| ⚠️ Family / gender | Kinship and household remain central; early texts preserve some wider female ritual/public visibility | Later texts indicate stronger patriarchal and ritual restrictions | Use as a qualified trend, not a claim of uniform change everywhere |
+| ⚠️ Assemblies / authority | Chiefship remains embedded in clan and assemblies | Stronger kingship, tribute and sacrifice reduce the relative weight of tribal bodies | Participatory tribal forms -> territorial monarchy |
+| ✅ Religion (context only) | Indra and Agni prominent | Prajapati and ritual speculation rise | Do not substitute this for society/economy when the PYQ is dimension-specific |
+
+> **2024 GS-I PYQ route:** “Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words)” Use only the first six rows above; geography, polity and religion are supporting context, not the answer's organising dimensions.
 
 ## 3. Study links
 

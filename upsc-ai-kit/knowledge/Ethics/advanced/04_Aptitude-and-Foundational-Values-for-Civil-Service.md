@@ -84,8 +84,9 @@ surviving a *realistic pressure scenario*, not merely define it.
 
 - 📰 Mission Karmayogi/NPCSCB (2020-ongoing) is the primary current institutional vehicle
   operationalising these values through competency mapping (FRACs), the iGOT digital-learning
-  platform and (since 2025) mandatory annual course completion linked to APARs — converting
-  "foundational values" from an abstract syllabus phrase into an assessed HR input.
+  platform and competency-based learning — converting "foundational values"
+  from an abstract syllabus phrase into a trainable HR input. Do not assert a
+  general APAR linkage without a service-specific DoPT order.
 - ⚠️ Civil Services Board-type mechanisms (recommended by the ARC and the National Commission to
   Review the Working of the Constitution — see `11`, `21`) institutionally protect non-partisanship
   by insulating routine transfer/posting decisions from unmediated political discretion.
@@ -129,11 +130,11 @@ surviving a *realistic pressure scenario*, not merely define it.
 - ❌ "Enabler not regulator" means deregulation across the board. -> It means calibrated, risk-based
   sequencing of facilitation and regulation, not the removal of regulatory oversight itself.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Mission Karmayogi's 2025 mandatory iGOT course completion linked to APARs | Demonstrates the shift from treating foundational values as informal socialisation to a measured, career-linked competency, directly answering "how is aptitude built" for any Mains question on the topic. |
+| ⚠️ Mission Karmayogi's competency-based iGOT learning architecture | Demonstrates the shift from treating foundational values as informal socialisation to trainable competencies; cite a specific order before claiming appraisal consequences. |
 
 ## 10. PYQ-based analytical application
 

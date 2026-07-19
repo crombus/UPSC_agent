@@ -107,8 +107,11 @@ US and the Russia-China axis) is the binding constraint.
   verification.
 - 📰 **UN Pact for the Future (22 September 2024):** a summit-level outcome
   document addressing UN reform and governance themes at the leader level.
-- 📰 **G4 statement (29 May 2025):** the most recent verified coordination
-  statement reaffirming the G4's shared reform position.
+- 📰 **G4 statement (29 May 2025):** a recent coordination statement
+  reaffirming the G4's shared reform position.
+- 📰 **India's IGN intervention (20 April 2026):** the current dated Indian
+  intervention on Security Council reform, including engagement with the
+  African reform model; it remains a negotiating position.
 - ✅ **UNSC Counter-Terrorism Committee (CTC):** a subsidiary body whose
   effectiveness is structurally limited by its coordinating (not enforcing)
   mandate — the central analytical point for 2024 Q19.
@@ -178,8 +181,9 @@ US and the Russia-China axis) is the binding constraint.
   decades ago."
 - ✅ The G4 coalition became more concretely active from 2010, per Tharoor,
   superseding the "feckless" Open-Ended Working Group approach.
-- 📰 The UN Pact for the Future (22 September 2024) and the G4 statement (29
-  May 2025) are the two most recent verified dated reform-process milestones.
+- 📰 The UN Pact for the Future (22 September 2024), G4 statement (29 May
+  2025) and India's IGN intervention (20 April 2026) are dated
+  reform-process milestones, none of which changes the Charter by itself.
 
 ## 8. Advanced Prelims traps
 
@@ -202,9 +206,9 @@ US and the Russia-China axis) is the binding constraint.
 ## 9. 📰 Current-anchor note
 
 - 📰 The UN Pact for the Future (22 September 2024) and the G4 statement (29
-  May 2025) remain the two most recent verified dated milestones for this
-  topic. Any claim about a subsequent reform development requires independent,
-  dated verification before being treated as ✅.
+  May 2025) remain relevant; India's **20 April 2026 IGN intervention** is
+  the current dated Indian position. Treat all three as process evidence, not
+  completed institutional reform.
 
 ## 10. PYQ-based analytical application
 

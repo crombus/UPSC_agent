@@ -123,6 +123,13 @@ shift from disaster *management* to disaster *risk reduction* as the guiding phi
 
 ## 8. 📰 Current anchor
 
+- 📰 **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)** came
+  into force on **9 April 2025**. It updates the statutory architecture,
+  including disaster databases and provisions concerning national crisis/high-
+  level bodies and urban authorities.
+- ✅ Use `../../Disaster-Management/basic/02_Indian-Legal-and-Institutional-Architecture.md`
+  for detail rather than duplicating it here. [NIDM/official text](https://nidm.gov.in/DMAct.asp).
+
 - 📰 India's National Disaster Management Plan continues to be updated in alignment with the
   Sendai Framework's 2015-2030 priorities; verify the latest NDMA plan revision and any
   updated early-warning-system capability (e.g., for cyclones, floods, or heatwaves) against

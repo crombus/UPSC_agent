@@ -121,6 +121,12 @@ executive capacity to actually implement its directions on the ground.
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2024 GS-III direct PYQ:** NGOs/activists influencing EIA outcomes,
+  with four evidence-backed examples—not generic advocacy claims.
+- ✅ **2025 GS-III cross-route:** mining hazard/remedies; analyse appraisal,
+  compliance, reclamation and mine closure here, with resource geography in
+  Geography topic 31. Exact routes: `../README.md`.
+
 - ⚠️ Prelims questions on NGT jurisdiction should be answered by applying the specified-
   statute-schedule rule rather than assuming unlimited environmental jurisdiction.
 - ⚠️ Mains answers on "EIA effectiveness" or "NGT's role" should explicitly engage the

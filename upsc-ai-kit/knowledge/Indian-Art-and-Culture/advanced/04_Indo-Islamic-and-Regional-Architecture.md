@@ -112,9 +112,10 @@ aspects of Akbar's religious syncretism. (Answer in 150 words)"
 (`UPSC Mains 2025 GS Paper 1.txt:11-12`) — an advanced answer using this
 topic's material should cite the Ibadat Khana as the *architectural
 setting* for Akbar's interfaith debates, while keeping the doctrinal
-content (Sulh-i-Kul, Din-i-Ilahi's limited acceptance) as primarily a
-Medieval History/topic 13 matter — this topic supports, but does not own,
-that answer.
+content (Sulh-i-Kul, Din-i-Ilahi's limited acceptance) primarily in
+`Medieval-Indian-History/advanced/17_Akbar-Religious-Views-Din-i-Ilahi.md`;
+Art & Culture topic 13 supplies only the cultural-synthesis support. This
+topic supports, but does not own, that answer.
 
 ## 9. ❌ Attribution, chronology and numeric traps
 
@@ -160,8 +161,8 @@ foreign import or a seamless, undifferentiated fusion.
 
 - ❌ **Medieval History owns** the full Delhi Sultanate/Mughal political
   and military narrative and Akbar's religious policy in doctrinal depth.
-- ❌ **Topic 13 owns** the analytical treatment of Akbar's syncretism as a
-  religious-cultural synthesis question.
+- ❌ **Medieval History topic 17 owns** Akbar's religious policy; Art &
+  Culture topic 13 owns only its religious-cultural-synthesis lens.
 - ✅ This file's layered-patronage and material-dating methods (Section 4)
   are directly reusable for topic 05's colonial architecture analysis.
 

@@ -62,11 +62,11 @@ for tracking whether public expenditure reflects this dual commitment.
 
 ## 3. How gender-justice instruments work (mechanism)
 
-1. **DV Act, 2005 — civil protection:** An aggrieved woman (wife, live-in partner, sister,
+1. **DV Act, 2005 — primarily civil protection:** An aggrieved woman (wife, qualifying live-in partner, sister,
    mother or any woman in a domestic relationship) can approach a Protection Officer or
    Magistrate for protection orders (restraining violence), residence orders (right to
-   reside in the shared household) and monetary relief — the Act is a civil remedy,
-   distinct from criminal prosecution under IPC/BNS.
+   reside in the shared household) and monetary relief. Breach of a protection order is
+   criminal under Section 31; cruelty may separately attract IPC/BNS prosecution.
 2. **POSH Act, 2013 — workplace safety:** Employers must constitute an Internal Committee
    (IC) where employee strength is 10 or more; complaints are inquired within 90 days;
    failure to comply attracts penalties and can lead to licence cancellation for repeat
@@ -75,10 +75,10 @@ for tracking whether public expenditure reflects this dual commitment.
    (One Stop Centres, Women Helpline 181, Beti Bachao Beti Padhao) and (b) *Samarthya* for
    empowerment (Ujjwala, Working Women Hostels, crèche/childcare support).
 4. **Maternity support:** The Maternity Benefit Act, 1961 (amended 2017) mandates 26 weeks
-   of paid leave for women in organised-sector establishments above a specified size; for
-   unorganised-sector women, the Pradhan Mantri Matru Vandana Yojana (PMMVY) provides a
-   partial wage-compensation cash transfer — the two instruments are complementary, not
-   overlapping.
+   of paid leave for the first two surviving children in covered establishments with 10 or
+   more employees. PMMVY provides a cash transfer to eligible pregnant/lactating women,
+   excluding those in regular Central/State Government or PSU employment or already
+   receiving similar maternity benefits.
 5. **NCW (1990 Act) — statutory oversight:** The National Commission for Women receives
    complaints, investigates violations, reviews legislation and recommends policy reforms
    affecting women's rights.
@@ -125,12 +125,13 @@ for tracking whether public expenditure reflects this dual commitment.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ DV Act, 2005 provides civil remedies (protection orders, residence orders, monetary
-  relief), not criminal punishment — separate from IPC/BNS prosecution.
+- ✅ DV Act, 2005 primarily provides civil/protective reliefs; breach of a protection order
+  is a criminal offence under Section 31.
 - ✅ POSH Act, 2013 mandates Internal Committee in establishments with ≥10 employees;
   Local Committee covers smaller workplaces and unorganised-sector women.
-- ✅ Maternity Benefit Act (amended 2017) mandates 26 weeks paid leave; PMMVY is a cash
-  transfer for unorganised-sector women — these are distinct instruments.
+- ✅ Maternity Benefit Act (amended 2017) mandates 26 weeks paid leave for the first two
+  surviving children in covered establishments; PMMVY uses eligibility exclusions, not a
+  simple organised/unorganised-sector divide.
 - ✅ NCW was established under the National Commission for Women Act, 1990 — a statutory
   body, not a constitutional body.
 - ✅ Gender Budget Statement has two parts: Part A (100% allocation) and Part B (30-99%
@@ -138,14 +139,14 @@ for tracking whether public expenditure reflects this dual commitment.
 
 ## 7. UPSC traps
 
-- ❌ The DV Act, 2005 provides criminal punishment for domestic violence. -> The DV Act is
-  a civil-remedy statute (protection orders, residence orders, monetary relief); criminal
-  prosecution for cruelty is under Section 498A IPC / relevant BNS provision.
+- ❌ The DV Act is either wholly civil or a general penal statute for domestic violence. ->
+  Its main reliefs are civil/protective, but breach of a protection order is criminal under
+  Section 31; cruelty may separately attract IPC/BNS prosecution.
 - ❌ The POSH Act applies only to the organised sector. -> The Local Committee mechanism
   extends coverage to women in the unorganised sector and workplaces with <10 employees.
-- ❌ Maternity Benefit Act and PMMVY are the same scheme. -> The Maternity Benefit Act is a
-  labour-law entitlement for organised-sector employees; PMMVY is a welfare cash-transfer
-  scheme for unorganised-sector women — complementary, not overlapping.
+- ❌ Maternity Benefit Act and PMMVY are the same scheme. -> The Act creates an employer
+  obligation in covered establishments; PMMVY is a welfare cash transfer whose exclusions
+  turn on regular government/PSU employment or receipt of similar benefits.
 - ❌ NCW is a constitutional body like NCSC/NCST. -> NCW is a statutory body under the NCW
   Act, 1990; NCSC (Art 338) and NCST (Art 338A) are constitutional bodies.
 

@@ -5,7 +5,7 @@
 > all as **rate x time** or a **geometric measure**.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). Drills are **computationally verified**.
 > ✅ = rule/fact | ⚠️ = guidance | 📝 = original example.
-> *Companion: `advanced/04_Rates-Motion-Time-and-Geometry.md`.*
+> *Companion: [Advanced Drill](../advanced/04_Rates-Motion-Time-and-Geometry.md).*
 
 ---
 
@@ -110,7 +110,7 @@ clocks, calendars and mensuration are **fixed-formula** families.
 
 1. A is twice as fast as B; together they finish in 8 days. How long does A alone take?
 2. A 150 m train crosses a 350 m bridge in 20 s. Find its speed.
-3. Two 3x3x3 painted cubes: how many of the 27 unit cubes have **exactly two** painted faces?
+3. A 3x3x3 painted cube is cut into 27 unit cubes. How many have **exactly two** painted faces?
 4. If 15 August 2024 (a leap year) is a Thursday, what day is 15 August 2025?
 5. Between 4 and 5 o'clock, at what minute do the hands coincide?
 
@@ -127,7 +127,7 @@ clocks, calendars and mensuration are **fixed-formula** families.
 
 ## 10. Study links
 
-- ✅ Advanced companion: `advanced/04_Rates-Motion-Time-and-Geometry.md` - alternate-day work,
+- ✅ [Advanced companion](../advanced/04_Rates-Motion-Time-and-Geometry.md) - alternate-day work,
   boats/streams, circular tracks, and cube-cutting counts.
-- ✅ `03_Arithmetic-and-Commercial-Math.md` (basic) - ratios/averages feed speed and work.
-- ✅ `02_Number-Systems-and-Number-Sense.md` (basic) - odd-days counting is modular arithmetic.
+- ✅ [Arithmetic and Commercial Math](./03_Arithmetic-and-Commercial-Math.md) - ratios/averages feed speed and work.
+- ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - odd-days counting is modular arithmetic.

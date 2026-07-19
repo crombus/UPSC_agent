@@ -171,8 +171,12 @@ identity-based insurgency.
   immigration, the 2023
   Manipur ethnic tensions, cross-border misuse by insurgent groups, and a
   reported surge in narcotics flows from Myanmar (VisionIAS, PDF pp.
-  24-25) — use this, not the book's open-border description, as the
-  current border-regime status (developed further in topic 06).
+  24-25). Treat this strictly as an announced decision; current operational
+  status requires a formal notification.
+- 📰 Revised ground rules for the tripartite **Suspension of Operations
+  agreement with UPF and KNO** were signed on **4 September 2025**, valid
+  until **3 September 2026**. MHA's April 2026 North-East peace-process
+  update is the current source for accord/status mapping.
 
 ## 9. PYQ application
 

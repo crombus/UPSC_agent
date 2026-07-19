@@ -78,7 +78,8 @@
 
 ## 6. 📰 Current link
 
-- ⚠️ **Atmanirbharta, national education and economic sovereignty.** Swadeshi gives an evergreen historical frame for contemporary debates on domestic production, education autonomy and cultural nationalism. *(Escalate to 📰 when pegged to a verified news item.)*
+- 📰 **150 years of Vande Mataram (7 November 2025–7 November 2026):** the Union Cabinet approved a nationwide year-long commemoration and the programme opened on 7 November 2025 (PIB, PRID 2185649). Use the anchor to connect Bankimchandra's composition and the song's later anti-partition/Swadeshi mobilisation; do not treat the 2025 commemoration date as its composition or first political-use date.
+- ⚠️ The usable historical bridge is cultural mobilisation within Swadeshi. Contemporary cultural-policy administration remains outside this file.
 
 ## 7. Mains angles
 

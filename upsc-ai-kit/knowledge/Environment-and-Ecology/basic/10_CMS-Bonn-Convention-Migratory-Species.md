@@ -112,10 +112,16 @@ trade focus and from any single country's domestic wildlife law.
 
 ## 8. 📰 Current anchor
 
-- 📰 India's CMS CoP13 Presidency (from the 2020 Gandhinagar CoP) shaped subsequent Indian
-  engagement on Central Asian Flyway coordination and species like the Great Indian Bustard
-  and dugong; verify the latest CMS CoP outcomes (held roughly every three years) against
-  the CMS Secretariat's most recent published results before citing newer developments.
+- 📰 **CMS COP14, Samarkand (February 2024):** adopted the Samarkand
+  Strategic Plan for Migratory Species 2024-2032, launched the first *State of
+  the World's Migratory Species* report and advanced a Central Asian Flyway
+  initiative with a coordinating unit in India.
+- ✅ India's COP13 hosting/presidency remains historical context; COP14 is the
+  current completed COP anchor. [CMS outcome](https://www.cms.int/news/historic-un-wildlife-meeting-concludes-major-set-actions-conservation-migratory-species-wild).
+
+- ✅ **Historical context:** India's CMS COP13 Presidency (Gandhinagar,
+  2020) shaped its subsequent Central Asian Flyway engagement; do not present
+  COP13 as the latest completed COP.
 
 ⚠️ **Interpretation caution:** CMS CoP outcomes and Appendix updates occur periodically —
 always cite the specific CoP year when referencing a listing or Agreement status.

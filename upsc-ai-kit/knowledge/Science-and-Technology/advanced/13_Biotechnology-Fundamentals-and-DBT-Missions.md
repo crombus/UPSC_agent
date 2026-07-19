@@ -114,6 +114,11 @@ BIRAC -> funding, incubation, translation, industry interface
 
 ## 14. PYQ-based analytical application
 
+- ✅ **2025 GS-III direct PYQ:** clean-technology energy independence by
+  2047 and biotechnology's role. Use biofuels, biomanufacturing and waste/
+  biomass conversion with feedstock, land, lifecycle and scale caveats; exact
+  route: `../README.md`.
+
 - ⚠️ UPSC can ask biotechnology as a strategic sector for employment, green growth and health security.
 - ⚠️ Institutional questions may distinguish DBT, BIRAC, GEAC and CDSCO.
 - ⚠️ Mains answers should connect science basics with scale-up economics and mission governance.

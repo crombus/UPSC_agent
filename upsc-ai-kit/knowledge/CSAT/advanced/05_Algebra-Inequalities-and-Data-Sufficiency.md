@@ -5,7 +5,7 @@
 > surds/powers, and inequality ranges under constraints.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). Drills are **computationally verified**.
 > ✅ = rule/fact | ⚠️ = guidance | 📝 = original example.
-> *Companion: `basic/05_Algebra-Inequalities-and-Data-Sufficiency.md`.*
+> *Companion: [Foundation](../basic/05_Algebra-Inequalities-and-Data-Sufficiency.md).*
 
 ---
 
@@ -30,7 +30,7 @@ allows two values (e.g., `n^2 = 49` -> `n = ±7`), or two statements that are se
 
 | Tool | Statement | Condition |
 |---|---|---|
-| ✅ **Unique-root test** | `x^2 = k` gives **two** roots; `x^3 = k` gives **one**. | A squared/absolute constraint alone is often **in**sufficient. |
+| ✅ **Unique-root test** | Over the reals, `x^2 = k` gives two roots for `k > 0`, one for `k = 0`, and none for `k < 0`; `x^3 = k` gives one. | A squared/absolute constraint alone is often **in**sufficient. |
 | ✅ **Dependent statements** | If II is a multiple/rearrangement of I, together they still give one equation. | Two unknowns need two **independent** relations. |
 | ✅ **Surd comparison** | Compare `sqrt a + sqrt b` vs `sqrt c` by squaring (both sides positive). | Squaring preserves order only for non-negative quantities. |
 | ✅ **AM-GM / bounded optimum** | For fixed sum, the product is maximised when the parts are equal. | State the domain (integers vs reals) - it changes the optimum. |
@@ -111,7 +111,7 @@ not determined. **Answer: (d).** *(Verified: e.g. (10,0) and (8,1) both satisfy,
 
 - ⚠️ Read **Topic 05 and Topic 06 together**: the two-statement **data-sufficiency** format is a major,
   recurring block, and its content often overlaps with reasoning/coding (see the trend-table caveat in
-  `00_Master-Framework.md`).
+  [Master Framework](../00_Master-Framework.md)).
 - ⚠️ Recurring shapes: **data sufficiency** (unique-answer decisions), **quantitative comparison** of
   powers/surds, **inequality/parity** reasoning, and short **equation word problems**.
 - ⚠️ The paper repeatedly punishes **false uniqueness** and **over-solving** - the two habits this file
@@ -119,6 +119,6 @@ not determined. **Answer: (d).** *(Verified: e.g. (10,0) and (8,1) both satisfy,
 
 ## 10. Study links
 
-- ✅ Foundation companion: `basic/05_Algebra-Inequalities-and-Data-Sufficiency.md`.
-- ✅ `advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md` - DS content often overlaps reasoning.
-- ✅ `advanced/02_Number-Systems-and-Number-Sense.md` - parity/factor facts settle many DS items.
+- ✅ [Foundation companion](../basic/05_Algebra-Inequalities-and-Data-Sufficiency.md).
+- ✅ [Logical Reasoning, Coding, Counting and DI](./06_Logical-Reasoning-Coding-Counting-and-DI.md) - DS content often overlaps reasoning.
+- ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - parity/factor facts settle many DS items.

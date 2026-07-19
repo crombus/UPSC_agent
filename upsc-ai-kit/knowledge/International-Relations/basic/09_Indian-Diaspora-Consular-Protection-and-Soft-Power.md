@@ -163,12 +163,16 @@ countries rather than as a foreign-policy lever to be directed.
 
 ## 9. PYQ application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names the
-  Indian diaspora, consular protection or soft power. State this honestly. Use
-  the 18th PBD (January 2025) and Tharoor's soft-power inventory as the
-  structuring vocabulary for any diaspora/soft-power-themed question, while
-  cross-linking to Polity for OCI legal doctrine and to Economy for remittance
-  data.
+- ✅ **2017 GS-II:** "Indian diaspora has an important role to play in
+  South-East Asian countries' economy and society. Appraise the role of
+  Indian diaspora in South-East Asia in this context." — separate economic
+  contribution, social mediation and host-country constraints.
+- ✅ **2020 GS-II:** "Indian diaspora has a decisive role to play in the
+  politics and economy of America and European countries. Comment with
+  examples." — distinguish political influence from economic contribution;
+  do not substitute remittance data for the political half.
+- ⚠️ No 2024-2025 question directly names the diaspora; use the 18th PBD as
+  the current anchor, Polity for OCI doctrine and Economy for remittances.
 
 ## 10. Mains angles
 

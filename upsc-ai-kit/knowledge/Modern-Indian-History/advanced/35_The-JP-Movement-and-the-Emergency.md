@@ -14,7 +14,7 @@
 | ✅ 1971–73 | Bangladesh-refugee burden, twin monsoon failures, oil shock → ~22% price rise (1972–73) |
 | ✅ 1974 | Nav Nirman (Gujarat) and the Bihar movement; railway strike (22 days); JP's "Total Revolution" |
 | ✅ 12 June 1975 | Allahabad HC judgment; 24 June — SC (Justice V.R. Krishna Iyer) grants a conditional stay |
-| ✅ 26 June 1975 | Emergency declared; ~<10,000 arrested in the first days, >100,000 over 19 months |
+| ✅ Night of 25–26 June 1975 | Emergency proclamation dated 25 June; publicly announced on 26 June; opposition arrests begin and over 100,000 are detained over 19 months |
 | ✅ 1 July 1975 | Twenty-Point Programme; later Sanjay Gandhi's four-point programme (1976) |
 | ✅ 1976 | Elections postponed; 42nd Amendment; sterilisation and demolition excesses peak |
 | ✅ 1977 | Elections called (Jan); held (Mar); Congress and Sanjay Gandhi defeated |
@@ -74,7 +74,9 @@
 
 ## 6. 📰 Current link
 
-- ⚠️ **Preventive detention and press freedom.** The Emergency remains the reference case for debates on detention laws, censorship and the misuse of emergency powers. *(Escalate to 📰 when pegged to a verified news item.)*
+- 📰 **Fifty years of the Emergency (25 June 2025):** the Union Cabinet adopted an official resolution honouring resistance to the Emergency and reaffirming constitutional democracy (PIB, PRID 2139543). Use the commemoration to connect censorship, MISA, the 42nd Amendment, coercive excesses and the 1977 electoral verdict.
+- ✅ **Chronology correction:** the proclamation bears the date **25 June 1975**; it was publicly announced on **26 June**. Do not collapse those two markers.
+- ⚠️ Detailed Article 352/44th-Amendment doctrine belongs to Polity; this file owns the historical crisis and democratic recovery.
 
 ## 7. Mains angles
 

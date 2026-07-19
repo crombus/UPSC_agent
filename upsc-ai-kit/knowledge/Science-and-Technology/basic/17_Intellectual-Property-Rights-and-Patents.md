@@ -94,6 +94,11 @@
 
 ## 9. PYQ application
 
+- ✅ **2024 GS-III direct PYQ:** IPR concerning life materials and reasons
+  behind low commercialisation of Indian patents. Treat “India is second in
+  filing” as the question's premise, not an undated current statistic. Exact
+  route: `../README.md`.
+
 - ⚠️ Prelims often tests **distinctions**: patent vs GI vs trademark, or PCT vs patent grant.
 - ⚠️ GS-II/GS-III can ask about the balance between innovation incentives and access to affordable medicines.
 - ⚠️ Section 3(d), compulsory licensing and GI examples are classic UPSC-ready anchor points.

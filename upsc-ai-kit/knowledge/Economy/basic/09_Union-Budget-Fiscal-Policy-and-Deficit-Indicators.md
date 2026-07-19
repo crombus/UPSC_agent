@@ -104,6 +104,18 @@ macroeconomic timing, transparency and the debt path—not by the fiscal-deficit
   pandemic.
 - 📰 Effective capital expenditure was 4% of GDP in FY25.
 
+### 📰 Union Budget 2026-27 (Budget Estimates)
+
+| Indicator | Official Budget figure |
+|---|---:|
+| Fiscal deficit, 2026-27 BE | 4.3% of GDP |
+| Fiscal deficit, 2025-26 RE | 4.4% of GDP |
+| Capital expenditure, 2026-27 BE | ₹12.2 lakh crore |
+
+✅ Budget estimates are policy authorisations/projections; they are not the same
+as Survey trends or realised accounts. Source: [PIB Budget highlights, 1 February
+2026](https://pib.gov.in/PressReleasePage.aspx?PRID=2221395).
+
 ⚠️ **Interpretation caution:** Off-budget liabilities, guarantees and delayed payments can
 make the headline deficit understate public-sector risk.
 
@@ -113,6 +125,12 @@ make the headline deficit understate public-sector risk.
   mobilisation, prudence and debt sustainability.
 - ⚠️ 2024 GS-III social-services question requires linking expenditure trends to inclusive
   outcomes.
+- ✅ **2024 Prelims Q85:** tested Articles 112/113 — the Annual Financial Statement
+  is laid on behalf of the President, and a demand for grant requires the
+  President's recommendation.
+- ✅ **2025 Prelims Q10/Q61/Q65:** directly tested capital-receipt classification,
+  deficit calculation and `primary deficit = fiscal deficit - interest payments`.
+- Exact stems/options: `../README.md` routing table and the cited local PYQ files.
 
 ## 10. Mains angles
 

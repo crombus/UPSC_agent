@@ -1,8 +1,9 @@
 # GS-IV Ethics, Integrity and Aptitude - Knowledge Base Index
 
 > **Subject:** Ethics (GS Paper IV) | **Spine:** 2nd Administrative Reforms Commission (ARC), 4th
-> Report, *Ethics in Governance* (2007) + official UPSC GS-IV syllabus + audited UPSC GS-IV PYQs
-> (2024-2025 Mains) + DoPT/CVC/Lokpal/RTI/Companies Act official material.
+> Report, *Ethics in Governance* (2007) + official UPSC GS-IV syllabus + audited, topic-owning UPSC
+> GS-IV PYQs (2013-2025, with the complete local 2024-2025 papers as the recent corpus) +
+> DoPT/CVC/Lokpal/RTI/Companies Act official material.
 > **Start here:** `00_Master-Framework.md`.
 
 ---
@@ -77,7 +78,9 @@
 
 - ✅ Primary anchor: 2nd ARC, 4th Report, *Ethics in Governance* (2007) — read directly from
   `attempts/_gs_source_text/ethics4_pdf.txt` (paragraphs cited by number, e.g. `ARC 3.2.2`).
-- ✅ Verified PYQ anchors: UPSC GS-IV Mains 2024 and 2025 papers in `attempts/_pyq_text/`.
+- ✅ Recent complete PYQ anchors: UPSC GS-IV Mains 2024 and 2025 papers in
+  `attempts/_pyq_text/`; older direct questions are quoted only where verified
+  against the official previous-paper record.
 - ⚠️ No PYQ number/year is invented; where a paper year is cited, it is drawn from the transcribed
   paper text itself.
 - 📰 Current-law status (Lokpal, Whistle Blowers Protection Act, Benami Amendment Act, Mission

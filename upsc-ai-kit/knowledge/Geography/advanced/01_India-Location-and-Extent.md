@@ -14,7 +14,7 @@
 | ✅ Latitudinal extent | **8°4'N – 37°6'N** | Tropic of Cancer bisects India; tropical S vs sub-tropical N |
 | ✅ Longitudinal extent | **68°7'E – 97°25'E** | ~29° → ~2-hr sun-time gap E–W |
 | ✅ IST meridian | **82°30'E** (via Mirzapur, UP) | One standard time for the whole country |
-| ✅ Area / coastline | ~3.28 M sq km; 7,516 km coast | **7th-largest** country |
+| ✅ Area / coastline | ~3.28 M sq km; **11,098.81 km coastline** (official 2025 GIS/HWL remeasurement) | **7th-largest** country; revised coastal-risk baseline |
 | ✅ N–S / E–W stretch | ~3,214 km / ~2,933 km | Mainland extent |
 
 ## 1. Location
@@ -39,6 +39,8 @@ Standard Time (UTC+5:30)** at **82°30'E** for administrative uniformity.
 - ✅ **Tropic of Cancer (23.5°N)** passes through **8 Indian states**.
 - ✅ IST meridian = **82°30'E** (near Mirzapur); **UTC+5:30**.
 - ✅ ~2-hour sun-time gap between Arunachal and Gujarat, yet a single IST.
+- ✅ India's officially remeasured coastline is **11,098.81 km**. The legacy
+  7,516.6 km figure used an older measurement method.
 
 ## 4. UPSC Traps
 
@@ -50,6 +52,11 @@ Standard Time (UTC+5:30)** at **82°30'E** for administrative uniformity.
 📰 The recurring **"single time zone vs North-East time zone"** debate applies the longitude-time
 concept to India — proponents cite energy savings and better work-hours; opponents cite administrative
 and railway-safety complexity.
+
+📰 **Coastline revision (2025):** National Hydrographic Office/Survey of India
+GIS measurement of the high-water line revised the official length to
+**11,098.81 km**. It updates planning/risk baselines; it does **not** itself
+redraw CRZ high-tide-line boundaries. [PIB source](https://pib.gov.in/PressReleasePage.aspx?PRID=2198800).
 
 ## 6. Mains angles
 

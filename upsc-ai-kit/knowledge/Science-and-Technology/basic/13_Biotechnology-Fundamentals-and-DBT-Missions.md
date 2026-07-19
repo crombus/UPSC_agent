@@ -99,6 +99,11 @@ Products -> seeds, diagnostics, vaccines, enzymes, biofuels, bioremediation tool
 
 ## 9. PYQ application
 
+- ✅ **2025 GS-III direct PYQ:** how India can achieve energy independence
+  through clean technology by 2047 and how biotechnology can contribute.
+  Route fuels/biomanufacturing here and specific biologics to topic 15; exact
+  audit: `../README.md`.
+
 - ⚠️ UPSC may ask biotechnology in a **platform** sense: agriculture + health + industry + environment.
 - ⚠️ Institutional questions may test whether DBT, BIRAC, GEAC and CDSCO do different jobs.
 - ⚠️ Mains answers should move from “science concept” to “mission architecture” and “translation bottlenecks”.

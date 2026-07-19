@@ -103,3 +103,20 @@ Downside: frivolous/"publicity-interest" litigation, judicial overload.
 - Judicial activism vs judicial overreach — where should the line be drawn (separation of powers)?
 - PIL: democratising justice or an instrument of judicial excess? Discuss.
 - Judicial review & the basic structure doctrine as guardians of constitutionalism.
+
+## Verified PYQ applications
+
+- ✅ **2024 GS-II Q14 (15 marks, 250 words):** “Explain the reasons for the growth of
+  public interest litigation in India. As a result of it, has the Indian Supreme Court
+  emerged as the world's most powerful judiciary?” Route: relaxed locus standi, epistolary
+  jurisdiction and executive/legislative gaps -> rights/access gains -> continuing-
+  mandamus and policy-overreach concerns -> power remains constitutionally bounded.
+- ✅ **2025 GS-II Q11 (15 marks, 250 words):** constitutional morality as a check on
+  high functionaries, applied to balancing judicial independence and accountability.
+  Use basic-structure independence plus transparent appointments, reasoned recusals,
+  asset/ethics disclosure and a fair removal/complaints mechanism.
+- ✅ **2025 GS-II Q13 (15 marks, 250 words):** “Discuss the evolution of collegium system
+  in India. Critically examine the advantages and disadvantages of the system of
+  appointment of the Judges of the Supreme Court of India and that of the USA.” Route:
+  First-Second-Third Judges cases/NJAC -> independence vs opacity -> compare US presidential
+  nomination and Senate confirmation -> seek accountable independence, not executive primacy.

@@ -102,6 +102,10 @@
 | ✅ 12.5% interstate, 87.5% intrastate | Distance and state-bound mobility matter | Good for Prelims traps |
 | ✅ 0.7% temporary visitors in survey year | Crisis and circular mobility | Good post-pandemic paragraph |
 
+⚠️ **Census 2027 routing:** the exercise is officially scheduled, but no new
+migration result exists at this cutoff. Keep the 2020-21 survey figures dated
+and use `26_World-Population-and-Demographic-Transition.md` for the schedule.
+
 ## 11. Mains angles
 
 - “India's migration is not one stream but many.” Discuss with reference to marriage, labour and circular migration.

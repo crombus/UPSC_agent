@@ -28,13 +28,13 @@ an argument.
 ## 2. Concept definition and taxonomy
 
 - **Issue-statement prompt:** names phenomenon + mechanism + consequence
-  in one sentence (2024-B1 is the corpus's example).
+  in one sentence (2024-B5 is the corpus's example).
 - **Scope creep:** essay drifts from the *specific* asserted mechanism
   ("FOMO... precipitating depression and loneliness") into a general
   survey of "social media in society."
 - **GS-answer collapse:** headings, "causes/effects/measures" structure,
   and scheme-name lists substituted for continuous argument.
-- ⚠️ Note the taxonomy is not unique to 2024-B1 — any future issue-style
+- ⚠️ Note the taxonomy is not unique to 2024-B5 — any future issue-style
   prompt (on, say, urbanisation, automation, or misinformation) should be
   scoped by the same method.
 
@@ -175,7 +175,7 @@ date; otherwise, describe the policy debate in general, undated terms
 rather than inventing a "latest" development.
 
 **Practice lab:** Write the mechanism diagram (Section 6) and the
-distributional stakeholder list (Section 5) for 2024-B1 from memory in
+distributional stakeholder list (Section 5) for 2024-B5 from memory in
 under 10 minutes, without consulting this file.
 
 **Transfer task:** Apply the same scoping method (phenomenon → mechanism

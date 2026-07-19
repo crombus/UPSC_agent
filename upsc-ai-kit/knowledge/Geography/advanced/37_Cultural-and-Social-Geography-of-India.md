@@ -123,6 +123,11 @@
 
 ✅ For language and religion, the correct verified all-India baseline remains **Census 2011**. ⚠️ Therefore, any claim implying a later full Census language/religion release should be avoided unless separately verified.
 
+📰 Census 2027 is officially scheduled and includes caste enumeration, but no
+2027 language/religion/caste result exists at this cutoff. Use
+`26_World-Population-and-Demographic-Transition.md` for the notified dates and
+retain Census 2011 for completed all-India distributions.
+
 ## 10. Mains angles
 
 - Analyse how India's linguistic geography both supported state reorganisation and preserved minority tensions.

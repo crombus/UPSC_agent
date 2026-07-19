@@ -88,8 +88,18 @@
 |---|---|---|
 | ✅ TFR 2.0 in SRS 2022 | Near-complete fertility transition at national scale | Use to explain replacement-level transition |
 | ✅ Mid-2024 India estimate about 1.45 billion | Population momentum | Use only as dated UN projection |
-| ✅ Census 2011 remains latest full count | Data-discipline point | Never imply a 2021 or 2026 census exists |
+| ✅ Census 2011 remains latest completed full count | Data-discipline point | Do not present scheduled Census 2027 as completed data |
 | ⚠️ National average hides state divergence | Differential transition | Good Mains paragraph on India’s uneven geography |
+
+### 📰 Census 2027 — officially scheduled, results not yet available
+
+- ✅ General reference date: **00:00 on 1 March 2027**.
+- ✅ Reference date for Ladakh and specified snow-bound areas of Jammu and
+  Kashmir, Himachal Pradesh and Uttarakhand: **00:00 on 1 October 2026**.
+- ✅ The exercise includes digital/self-enumeration architecture; caste
+  enumeration is to occur in the population-enumeration phase.
+- ❌ Do not cite a “2027 population,” language, religion or migration result
+  before official release. [PIB schedule](https://pib.gov.in/PressReleasePage.aspx?PRID=2133845).
 
 ## 9. Mains angles
 

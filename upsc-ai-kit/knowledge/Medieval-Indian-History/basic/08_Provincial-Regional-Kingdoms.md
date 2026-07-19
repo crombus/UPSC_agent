@@ -1,7 +1,7 @@
 # Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) — MUST-DO
 
 > **Subject:** History (Medieval India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Satish Chandra, *History of Medieval India* — chapter "Struggle for Empire in North India—II" (regional kingdoms: Bengal, Gujarat, Malwa, Jaunpur, Kashmir).
+> **Grounded in:** Satish Chandra, *History of Medieval India* — chapter "Struggle for Empire in North India—II" (regional kingdoms: Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + official UNESCO Moidams property page for the bounded Ahom/Assam extension.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/08_Provincial-Regional-Kingdoms.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -46,6 +46,17 @@
 | ✅ Jaunpur | Sharqi sultans | "Shiraz of the East"; lofty gates and huge arches; annexed by Bahlul Lodi |
 | ✅ Kashmir | Sikandar Shah; Zainul Abidin | Earlier persecution reversed by Zainul Abidin's broad toleration |
 
+### Ahom/Assam — bounded Prelims extension
+
+| Theme | What to remember |
+|---|---|
+| ⚠️ State formation | Sukapha entered the Brahmaputra valley in the thirteenth century; the Ahom polity developed outside the Delhi-centred regional-state system covered by the source chapter |
+| ⚠️ Paik organisation | Adult male subjects owed rotational labour/military service as *paiks*; do not reduce the system to chattel slavery |
+| ⚠️ Records | *Buranjis* are Ahom chronicles and a key source for political and social history |
+| ✅ Royal funerary landscape | UNESCO describes Charaideo's moidams as Tai-Ahom royal mound burials created from the thirteenth to nineteenth centuries |
+
+> **Boundary:** Medieval History owns Ahom state formation, administration and chronicles. Art & Culture owns moidam form, cosmology, World Heritage status and conservation.
+
 ## 3. Study links
 
 > **Study link:** ✅ Delhi Sultanate decline → `basic/05_Tughlaqs.md` and `00_Master-Chronology.md`.
@@ -72,6 +83,8 @@
 ## 6. 📰 Current link
 
 📰 **West Bengal sought Central funds in 2025 for conserving archaeological sites including Adina Mosque/Pandua-Malda Sultanate heritage** (Millennium Post, 2025). Relevance: links Bengal Sultanate urban culture (Pandua/Gaur) with present heritage conservation.
+
+📰 **Moidams, Charaideo (26 July 2024):** UNESCO inscription made the Tai-Ahom royal mound-burial landscape a direct current hook for the Ahom extension. Use this file for political context only; route architecture and conservation to Indian Art & Culture topic 14.
 
 ## 7. Mains angles
 

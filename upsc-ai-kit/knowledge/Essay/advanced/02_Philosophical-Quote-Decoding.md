@@ -42,7 +42,7 @@ assumption worth surfacing:
 | Prompt (example) | Hidden assumption | Why it matters |
 |---|---|---|
 | 2024-A4 "The doubter is a true man of science." | Assumes doubt is disciplined (falsifiable, evidence-seeking), not indiscriminate | Undisciplined doubt (denialism) is not the same phenomenon; conflating them weakens the essay |
-| 2024-B3 "All ideas having large consequences are always simple." | Assumes simplicity of the *idea*, not of its *implementation* | An essay that treats "simple" as meaning "easy to execute" misreads the prompt |
+| 2024-B7 "All ideas having large consequences are always simple." | Assumes simplicity of the *idea*, not of its *implementation* | An essay that treats "simple" as meaning "easy to execute" misreads the prompt |
 | 2025-A2 "Supreme art of war… without fighting." | Assumes "war" and "fighting" can be decoupled — conflict resolved by means other than force | A literal-military-only reading forecloses the richer diplomatic/social reading |
 
 ## 4. Levels of analysis and temporal-spatial scale
@@ -56,7 +56,7 @@ forcing it onto a purely individual-psychology reading strains the text.
 
 ## 5. Stakeholder map and distributional effects
 
-⚠️ Where the aphorism has a clear social-policy extension (e.g. 2024-B1
+⚠️ Where the aphorism has a clear social-policy extension (e.g. 2024-B5
 FOMO, 2025-A1 truth/color), identify who is advantaged and disadvantaged
 by each candidate reading — e.g. a reading of "truth knows no color"
 that only defends institutional objectivity, without acknowledging that
@@ -89,7 +89,7 @@ material for a full essay without repetition.
 ⚠️ Most aphorisms are stated as universal ("all ideas…always simple";
 "nearly all men can stand adversity"), but a defensible essay usually
 argues a **near-universal tendency with a stated exception**, not an
-absolute law. E.g. for 2024-B3, an advanced reading grants that the
+absolute law. E.g. for 2024-B7, an advanced reading grants that the
 moral/political *core* of a large-consequence idea is often simple
 (equality, dignity) while explicitly carving out the exception that
 *execution* is rarely simple — this exception is what prevents the essay
@@ -97,7 +97,7 @@ from being a naive restatement of the prompt.
 
 ## 8. Paradox, dialectic and counterfactual test
 
-**Paradox example (2024-B1, FOMO):** connection technology that promises
+**Paradox example (2024-B5, FOMO):** connection technology that promises
 to reduce isolation can simultaneously produce loneliness — the paradox
 is not a contradiction to be resolved by picking a side, but a genuine
 double effect to be held together in the synthesis. **Dialectic:**
@@ -112,7 +112,7 @@ the true mechanism.
 
 ## 9. Ethical conflict and synthesis
 
-⚠️ Several aphorisms compress an ethical conflict: 2024-B2 (power tests
+⚠️ Several aphorisms compress an ethical conflict: 2024-B6 (power tests
 character) sets discretionary power against personal virtue; 2025-B8
 (contentment vs. luxury) sets sufficiency against aspiration. An advanced
 reading names the values in tension explicitly (accountability vs.

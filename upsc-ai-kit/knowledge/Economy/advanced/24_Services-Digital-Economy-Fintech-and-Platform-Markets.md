@@ -139,6 +139,12 @@ fraud awareness and grievance resolution determine effective inclusion.
   tokenisation.
 - ⚠️ 2025 Prelims: SEBI's role in derivatives risk warnings and investment-adviser
   regulation.
+- ✅ **2024 Prelims Q53:** digital rupee—RBI liability, sovereign currency,
+  par convertibility and no built-in inflation insurance.
+- ✅ **2025 Prelims Q68/Q69:** RTGS/NEFT architecture and dated UPI
+  international merchant-payment coverage.
+- ⚠️ **2026 Prelims Q90/Q93 (official provisional key):** UPI versus CBDC and
+  M1xchange/TReDS. Retain the provisional label; see `../README.md`.
 
 ## 11. Mains-ready framework
 

@@ -108,6 +108,9 @@
 - ⚠️ Recurring Prelims theme: identify the **Green Revolution core belt** and procurement-heavy states.
 - ⚠️ Recurring GS-III theme: assess why India needs **crop diversification** away from water-intensive rice-wheat systems.
 - ⚠️ Recurring GS-I/GS-III theme: relate monsoon variability, irrigation and food security.
+- ✅ **2025 GS-I direct PYQ:** non-farm primary activities and their relation
+  to Indian physiography. Route mineral detail to topic 31 and retain this file
+  for primary-activity classification; exact audit: `../README.md`.
 
 ## 10. 📰 Current link
 

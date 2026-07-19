@@ -145,11 +145,11 @@ advanced answers must name the mechanism of failure, not just assert failure.
   remains the predominant model; digital/real-time expenditure tracking is a supplementary,
   expanding practice, not a wholesale replacement.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Real-time, digitally tracked public-expenditure systems (an established, ongoing direction of Indian public financial management, e.g., DBT/PFMS-type architecture) | Operationalises the Fifth Pay Commission's concurrent-audit recommendation at a scale not previously feasible, directly answering "how to reduce leakages" in 2025 GS-IV Q6(b). |
+| ⚠️ Digitally tracked public-expenditure systems such as DBT/PFMS | Illustrate concurrent accountability at scale; cite a dated PFMS/DBT report before adding current coverage or savings claims. |
 
 ## 10. PYQ-based analytical application
 

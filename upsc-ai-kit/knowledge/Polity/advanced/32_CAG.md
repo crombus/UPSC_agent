@@ -90,3 +90,11 @@ UPSC**).
 - "The CAG is a Comptroller only in name." Examine, comparing with the British model.
 - Should the CAG's appointment be de-linked from the sole discretion of the executive?
 - Propriety vs regulatory audit — how far should the CAG question the "wisdom" of policy?
+
+## Verified PYQ application
+
+- ✅ **2024 GS-II Q4 (10 marks, 150 words):** “The duty of the Comptroller and Auditor
+  General is not merely to ensure the legality of expenditure but also its propriety.
+  Comment.” Route: mandatory legal/regulatory audit -> discretionary propriety audit
+  (wisdom, faithfulness and economy) -> performance audit -> preserve policy choice while
+  exposing waste, conflict and avoidable expenditure.

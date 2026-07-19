@@ -133,11 +133,11 @@ the other.
   They are historical-philosophical antecedents/parallels, not direct constitutional sources; the
   Constitution's equality provisions have their own distinct drafting history.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Risk-based, data-analytics-driven tax scrutiny replacing discretionary assessment (an established, ongoing direction of Indian tax administration reform) | Illustrates a contemporary Kautilyan control mechanism, useful for essay answers linking classical realism to present-day systemic reform (see `18`). |
+| ⚠️ Risk-based, data-analytics-driven tax scrutiny | Illustrates a contemporary Kautilyan control mechanism; attach a dated CBDT scheme/order before presenting implementation detail as current fact. |
 
 ## 10. PYQ-based analytical application
 

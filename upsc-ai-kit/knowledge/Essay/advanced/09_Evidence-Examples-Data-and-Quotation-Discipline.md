@@ -67,7 +67,7 @@ reason (beyond exam risk) to maintain the discipline described here.
 
 | Use case | Printed author? | Permissible use | Attribution status | Verification source needed | Risk if misused |
 |---|---|---|---|---|---|
-| The 16 audited UPSC prompts | No (see `../README.md`) | Quote exactly or paraphrase faithfully | Unattributed by design | None — the prompt itself is the source | Low, if quoted/paraphrased accurately |
+| The 16 recent UPSC prompts | No (see `../README.md`) | Quote exactly or paraphrase faithfully | Unattributed by design | None — the prompt itself is the source | Low, if quoted/paraphrased accurately |
 | Familiar aphorism, uncertain web attribution | Not applicable | Use only as an unattributed proposition, or omit | Do not attribute | Would need a primary/authoritative source, typically unavailable | High — misattribution undermines credibility |
 | Named quotation from a known thinker | N/A (not from this corpus) | Use only after verification | Attribute only if verified | Primary text or authoritative anthology/translation | High — wrong wording/author/context |
 | Indian/translated text | N/A | Identify translator/edition if quoted; else paraphrase | Attribute translator if known and verified | Cited edition | Medium — translation variance |
@@ -106,7 +106,7 @@ using impressive-sounding but unverifiable specifics.
 
 ## 10. Evidence/source-risk and India application
 
-✅ Apply the ledger (Section 6) to every one of the 16 audited prompts
+✅ Apply the ledger (Section 6) to every one of the 16 recent prompts
 before using them in a drafted essay — since all are unattributed by
 design, the correct practice across the entire corpus is uniform: quote
 or paraphrase without an author. ⚠️ For India-application illustrations,
@@ -124,7 +124,7 @@ they support rather than anchor the argument.
 
 ## 12. ❌ Failure modes and revision protocol
 
-- ❌ **Guessed authorship attached to any of the 16 prompts.** →
+- ❌ **Guessed authorship attached to any of the 16 recent prompts.** →
   Protocol: remove the name; the prompts are unattributed by design
   (Section 6).
 - ❌ **False precision** (a specific invented percentage or date). →

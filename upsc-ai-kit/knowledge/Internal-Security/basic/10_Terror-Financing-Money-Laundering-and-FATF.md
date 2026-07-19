@@ -178,8 +178,12 @@ folder maps onto.
 
 ## 9. PYQ application
 
-- ⚠️ No GS-III Mains question in the audited 2024-2025 papers directly
-  names terror financing, money laundering or FATF. Use this topic's
+- ✅ **2021 GS-III:** "Discuss how emerging technologies and
+  globalisation contribute to money laundering. Elaborate measures to
+  tackle the problem of money laundering both at national and
+  international levels." — map technology/globalisation to channels, then
+  pair domestic PMLA/FIU-IND/ED measures with FATF and cooperation tools.
+- ⚠️ No 2024-2025 question directly names this topic. Use its
   placement-layering-integration/TBML framework as the financial-
   mechanism component of any answer on terrorism (2025 Q9) or narco-
   terrorism (2024 Q9, topic 11), citing the June 2024 FATF evaluation as

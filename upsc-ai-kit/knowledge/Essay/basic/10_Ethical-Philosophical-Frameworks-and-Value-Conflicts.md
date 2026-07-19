@@ -36,7 +36,7 @@ domain.
 
 ## 3. ✅ Exam facts / source basis
 
-- ✅ Several audited prompts directly compress a value conflict: 2024-B2
+- ✅ Several audited prompts directly compress a value conflict: 2024-B6
   (power vs. character/accountability), 2025-B8 (contentment vs.
   luxury/aspiration), 2025-B5 (restraint vs. intervention) — see
   `../README.md` for exact wording.
@@ -69,7 +69,7 @@ substantive.
 
 | Prompt (example) | Values in tension | Reasoned priority (conditional) |
 |---|---|---|
-| 2024-B2 "Power tests character." | Accountability/restraint vs. autonomy/discretion | Discretion should be bounded by institutional accountability where power affects others' rights; personal restraint matters most where oversight is weak |
+| 2024-B6 "Power tests character." | Accountability/restraint vs. autonomy/discretion | Discretion should be bounded by institutional accountability where power affects others' rights; personal restraint matters most where oversight is weak |
 | 2025-B8 "Contentment… luxury." | Sufficiency vs. legitimate aspiration | Contentment should not be demanded of those below a basic sufficiency threshold; beyond that threshold, restraint on status-driven consumption is reasonable |
 | 2025-B5 "Muddy water… leaving it alone." | Restraint vs. timely intervention | Restraint where disturbance would worsen an already-settling situation; intervention where inaction causes ongoing, escalating harm |
 

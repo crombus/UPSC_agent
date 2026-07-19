@@ -138,6 +138,9 @@ stalled project or recapitalise a weak borrower.
 - ⚠️ 2025 Prelims tested RBI income sources: government securities and foreign-currency
   operations.
 - ⚠️ 2024 Prelims tested that NBFCs do not broadly enjoy direct LAF access.
+- ✅ **2026 Prelims Q2 (official provisional key):** Hilton-Young
+  Commission, fixed rupee-sterling rate, British remittances and external
+  creditworthiness. Keep the provisional label; see `../README.md`.
 
 ## 11. Mains-ready framework
 

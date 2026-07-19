@@ -5,7 +5,7 @@
 > probability, inclusion-exclusion, and multi-step data interpretation.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). Drills are **computationally verified**.
 > ✅ = rule/fact | ⚠️ = guidance | 📝 = original example.
-> *Companion: `basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`.*
+> *Companion: [Foundation](../basic/06_Logical-Reasoning-Coding-Counting-and-DI.md).*
 
 ---
 
@@ -63,7 +63,8 @@ solution is forced.)*
 - ⚠️ **Strongest-constraint-first** placement. *Safe always; it minimises backtracking.*
 - ⚠️ **Counter-diagram test** for syllogisms - try to build one case where the conclusion fails. *Safe
   always; if you can, the conclusion is invalid.*
-- ⚠️ **Complement counting** `P(at least one) = 1 - P(none)`. *Safe for independent trials.*
+- ⚠️ **Complement counting** `P(at least one) = 1 - P(none)` is always valid. Independence is needed
+  only when multiplying component probabilities to calculate `P(none)`.
 - ⚠️ **Inclusion-exclusion** for "either/or" counts. *Safe; remember to subtract the overlap exactly
   once.*
 
@@ -128,19 +129,52 @@ Read this revenue table (in crore):
 - ⚠️ **Trap:** a +25% then -10% does **not** return to 400 - it gives `400 x 1.25 x 0.90 = 450`, matching
   the table. Percentage changes are on **different bases**, so they do not cancel.
 
-## 10. PYQ-pattern notes (2024-2026, Set A)
+## 10. Interpersonal and communication scenarios
 
-- ⚠️ This is **one of the largest CSAT families** (and, together with data sufficiency in Topic 05, the
-  single biggest block of the paper - see `00_Master-Framework.md`).
+The official CSAT syllabus separately names **interpersonal skills including communication skills**.
+The provisional 2026 Set-A classification contains six explicit items in this area (Q72-Q77).
+The 2024/2025 papers do not show a comparable block, so treat this as observed provisional 2026
+coverage rather than a fixed annual frequency.
+
+| Test | Better response pattern |
+|---|---|
+| Stakeholder listening | Identify interests and constraints before proposing action. |
+| Clear communication | Use specific, neutral language; confirm shared understanding. |
+| Conflict handling | De-escalate, separate people from the problem, and seek a fair process. |
+| Ethical decision | Reject deception, coercion, discrimination, and avoidable harm. |
+| Administrative feasibility | Prefer lawful, proportionate, documented action with follow-up. |
+| Relationship/tool matching | Match sender-receiver roles and tools to purpose: inform, consult, persuade, record, or obtain feedback. |
+| Communication barriers | Separate physical/noise, semantic/language, psychological, organisational, and technological barriers. |
+| Questionnaire design | Prefer neutral, specific, single-issue questions with suitable response choices; reject leading or double-barrelled items. |
+
+### 📝 Original scenario
+
+A team member repeatedly misses a reporting format because the instructions were ambiguous. The
+best first response is to clarify the format privately, ask them to restate the requirement, and
+agree on a check-in. Public blame or silent correction may hide the communication failure rather
+than resolve it.
+
+### 📝 Original classification drill
+
+1. "Was the training clear and useful?" is **double-barrelled** because it asks two judgements.
+2. A technical acronym misunderstood by a citizen is a **semantic barrier**.
+3. A post-meeting form used to learn whether instructions were understood is a **feedback tool**.
+
+These drills mirror the provisional 2026 categories without reproducing the source questions.
+
+## 11. PYQ-pattern notes (2024-2026, Set A)
+
+- ⚠️ This is the **second-largest three-year family**. Together with data sufficiency in Topic 05,
+  it accounts for 78 of 240 audited items (32.5%) - see the [Master Framework](../00_Master-Framework.md).
 - ⚠️ Recurring shapes: **seating/ordering arrangements**, **blood relations and directions**,
   **coding-decoding**, **syllogism/deduction**, **decision-making scenarios**, **counting/probability**,
   and **data interpretation** from tables/graphs.
 - ⚠️ The papers reward candidates who **draw the structure** and **read the exact quantity asked**;
   they punish mental juggling and misread stems.
 
-## 11. Study links
+## 12. Study links
 
-- ✅ Foundation companion: `basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`.
-- ✅ `advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md` - data-sufficiency content overlaps
+- ✅ [Foundation companion](../basic/06_Logical-Reasoning-Coding-Counting-and-DI.md).
+- ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - data-sufficiency content overlaps
   this family.
-- ✅ `advanced/02_Number-Systems-and-Number-Sense.md` - counting and inclusion-exclusion share methods.
+- ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - counting and inclusion-exclusion share methods.

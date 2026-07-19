@@ -143,7 +143,7 @@ its purpose (PDF p. 84-85). The two nonetheless form a genuine nexus
 | Book-period-as-current gap | Citing Singh's 2013-2016 figures (group strength, district counts, "yet to become operational") as today's status | Label as historical/book-period; verify current status from a dated official source |
 | Security-only gap | Treating every threat as solvable by force alone | Pair security with governance, development and rights measures (topic 01 doctrine) |
 | Homogeneity gap | Treating the North-East, the border States or "the tribal areas" as a single undifferentiated bloc | Note State/faction/region-specific variation (topics 03-04, 06) |
-| Deadline-achievement gap | Treating an announced target (e.g. LWE elimination by 31 March 2026) as accomplished once the date arrives | State only what a dated official release confirms |
+| Deadline-achievement gap | Treating an announced target as accomplished once the date arrives, or inflating a later qualified status | For LWE, distinguish the February 2026 target from PIB's June 2026 wording "effectively free from Left-Wing Extremism"; do not convert either into literal zero incidents |
 | Institution-conflation gap | Treating NIA as an intelligence agency, MAC as an investigating agency, or CERT-In and NCIIPC as interchangeable | Name each institution's precise mandate (topic 12; topic 08) |
 
 ## 9. Boundary routing

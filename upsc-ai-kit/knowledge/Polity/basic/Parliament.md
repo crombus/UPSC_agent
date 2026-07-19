@@ -9,8 +9,8 @@
 | Item | Rajya Sabha | Lok Sabha |
 |---|---|---|
 | **Nature** | ✅ Permanent (never dissolved) | ✅ 5-yr term, dissolvable |
-| **Max strength** | ✅ 250 | ✅ 552 |
-| **Present** | ✅ 245 | ✅ 545 |
+| **Max strength** | ✅ 250 | ✅ 550 |
+| **Sanctioned/elected strength** | ✅ 245 sanctioned | ✅ 543 elected |
 | **Elected by** | State MLAs (indirect, **STV-PR**) | People (direct, **FPTP**, 18 yrs) |
 | **Retirement** | ✅ 1/3 every 2 yrs; term 6 yrs | Whole House at dissolution |
 | **Nominated** | 12 (by President) | *Anglo-Indian abolished, 104th Amdt* |
@@ -37,10 +37,13 @@ accountability).
 - ✅ RS Chairman = **Vice-President** (ex-officio); LS Speaker elected by LS.
 - ✅ Speaker doesn't vacate office on LS dissolution.
 - ✅ Only **3 joint sittings** ever (Dowry 1961, Banking 1978, POTA 2002).
-- ✅ Seat freeze/delimitation frozen till **2026** (84th Amdt).
+- ✅ Readjustment remains deferred until the relevant figures of the **first census taken after 2026
+  have been published** (84th Amdt); it does not restart automatically in 2026.
 
 ## 📰 Current link
-📰 ✅ **Women's Reservation Act (Nari Shakti Vandan Adhiniyam, 106th Amdt 2023)** — 33% seats for women in
-LS + State Assemblies; **notified in force in 2026**, but operational only after census + delimitation.
+📰 ✅ **Women's Reservation Act (Nari Shakti Vandan Adhiniyam, 106th Amdt 2023)** — provides 33% seats for
+women in LS + State Assemblies. Its commencement requires a separate Gazette notification; no such
+notification was located as of **19 July 2026**. Operational reservation also depends on the
+constitutionally specified post-commencement census and delimitation sequence.
 
 ➡️ Full procedure, traps & Mains angles: **`advanced/17_Parliament.md`**

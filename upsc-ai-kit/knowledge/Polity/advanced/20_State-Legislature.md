@@ -24,8 +24,9 @@ Parliament. History: AP created 1957 → abolished 1985 → revived 2007; TN abo
 
 ## Legislative Assembly (Vidhan Sabha) ⭐
 ✅ **Directly elected**, universal adult franchise; strength **60–500** (special: Goa/Sikkim/Arunachal **30**,
-Mizoram **40**, Nagaland **46**). Governor could nominate 1 **Anglo-Indian** (lapsed, 104th Amdt). Delimitation
-frozen at 1971 census till **2026** (84th Amdt); SC/ST reservation on population ratio.
+Mizoram **40**, Nagaland **46**). Governor could nominate 1 **Anglo-Indian** (lapsed, 104th Amdt).
+Readjustment remains deferred until the relevant figures of the **first census taken after 2026 have
+been published** (84th Amdt); SC/ST reservation is based on population ratio.
 
 ## Legislative Council (Vidhan Parishad) ⭐
 ✅ **Indirectly elected / partly nominated**; strength = **max 1/3 of Assembly, min 40**. Composition:
@@ -73,7 +74,9 @@ hasty legislation + represents experts.
 ## 📰 CA hooks
 - 📰 ⚠️ Periodic **demands to create/abolish Councils** (e.g. proposals in Rajasthan, Odisha, Assam; earlier
   the WB & TN revival debates) — recurring Art 169 questions.
-- 📰 ✅ **Delimitation freeze ends 2026** — will reshape Assembly seats too (links to Women's Reservation).
+- 📰 ✅ **Post-2026 census and delimitation** — readjustment does not begin automatically in 2026; it
+  awaits publication of relevant figures from the first census taken after 2026 and will affect Assembly
+  seats as well as the women's-reservation sequence.
 
 ## Mains angles
 - Are Legislative Councils a "costly ornamental luxury" or a valuable revising chamber? Discuss.

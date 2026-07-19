@@ -16,7 +16,8 @@ term**, and can **speak but not vote** in the legislature.
 
 > 🔑 **AG = President + all courts of India + Parliament.** **Advocate General = Governor + state courts + state
 > legislature.**
-> 🔑 Only the **AG** is constitutional; **Solicitor General/ASG are statutory**.
+> 🔑 Only the **AG** is constitutional; **Solicitor General/ASG are non-statutory
+> executive law offices**.
 
 ## Must-Know Facts
 - ✅ AG qualification = **Supreme Court judge**; Advocate General = **High Court judge**.

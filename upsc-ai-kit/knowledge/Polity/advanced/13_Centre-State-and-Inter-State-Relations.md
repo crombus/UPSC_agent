@@ -116,8 +116,9 @@ deliberative. ✅ **North-Eastern Council** = separate Act (**NEC Act 1971**); 8
 
 ## 📰 CA anchors ⭐
 📰 ✅ **16th Finance Commission** — constituted 2023, **Chair: Arvind Panagariya** (ex-NITI Aayog VC);
-award period **2026-27 to 2030-31**; report due **31 Oct 2025**. Debate: vertical/horizontal devolution,
-population-2011 vs 1971 criteria (southern states' concern).
+report submitted **17 Nov 2025**; award period **2026-27 to 2030-31**, effective **1 Apr 2026**.
+The government retained vertical devolution at **41%** and accepted a horizontal formula adding
+**Contribution to GDP (10%)**. Debate: equity vs efficiency, population criteria and the divisible pool.
 📰 ⚠️ **GST Council** (Art 279-A) frictions — compensation cess end, rate rationalisation, and the
 **voting-vs-consensus** debate after *Mohit Minerals* (2022, SC: GST Council recommendations are
 **persuasive, not binding** → reaffirmed fiscal federalism).
@@ -156,3 +157,18 @@ population-2011 vs 1971 criteria (southern states' concern).
 - "The Finance Commission is the balancing wheel of fiscal federalism." Examine amid 16th FC debates.
 - Inter-state water disputes reveal the limits of India's federal dispute-resolution — reform the tribunal system?
 - Governor's discretion over state bills vs cooperative federalism — where should the line be?
+
+## Verified PYQ applications
+
+- ✅ **2024 GS-II Q13 (15 marks, 250 words):** “What changes has the Union Government
+  recently introduced in the domain of Centre-State relations? Suggest measures to be
+  adopted to build the trust between the Centre and the States and for strengthening
+  federalism.” Route: fiscal/GST, Governor-assent, centrally sponsored schemes and
+  intergovernmental consultation -> predictable transfers, regular councils, bounded
+  discretion and negotiated implementation.
+- ✅ **2025 GS-II Q14 (15 marks, 250 words):** “Examine the evolving pattern of
+  Centre-State financial relations in the context of planned development in India. How
+  far have the recent reforms impacted the fiscal federalism in India?” Route: Planning
+  Commission/NDC discretionary transfers -> Finance Commission/NITI/GST era -> 14th-16th
+  FC devolution, cesses and conditional transfers -> gains in rules-based sharing but
+  continuing vertical imbalance.

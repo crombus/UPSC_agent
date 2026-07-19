@@ -120,14 +120,21 @@ also identify EI's dark-side risk (emotional skill used manipulatively rather th
 - ❌ Emotional labour is cost-free if the officer is "naturally" empathetic. -> Sustained emotional
   labour carries burnout risk regardless of natural disposition, requiring institutional support.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Mission Karmayogi's behavioural-competency training modules (ongoing, iGOT-delivered) | Illustrates the institutional attempt to formalise EI-adjacent skills into assessed civil-service competency, relevant to any "how is EI built in officials" question. |
+| ⚠️ Mission Karmayogi's iGOT-delivered behavioural-competency training | Illustrates an institutional attempt to formalise EI-adjacent skills; cite a named module/order before claiming assessment or appraisal consequences. |
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2013 GS-IV** directly tests EI's definition, development and role in
+  ethical decisions; distinguish emotional awareness from ethical judgment,
+  then show how EI improves perception and self-regulation without itself
+  supplying the moral standard.
+- ✅ **2020 GS-IV** directly tests the main EI components and their
+  learnability; use the ability/competency distinction to explain why training
+  can improve skills without making every trainee equally proficient.
 - ✅ 2025 GS-IV Case Study Q7 rewards candidates who decompose the DC's dilemma using named EI
   components (self-regulation, empathy, social skill in communicating with family/team) rather than
   a purely narrative, sentiment-laden answer.

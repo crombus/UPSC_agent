@@ -2,11 +2,11 @@
 
 > **Subject:** Essay | **Tier:** Must-Do | **GS Paper:** Essay (General
 > Studies Paper — Essay, Mains).
-> **Core area:** Routing and concise interpretive outlines for all 16
-> audited prompts; a deliberate-practice loop with an error log and
+> **Core area:** Routing and concise interpretive outlines for the 16
+> recent prompts, linked to the full 100-prompt corpus; a deliberate-practice loop with an error log and
 > spaced reattempts.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md` for full verbatim text); `../00_Master-Framework.md`
+> **Grounded in:** verified 2013-2025 UPSC Essay corpus (see
+> `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
 > Section 11.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -16,9 +16,10 @@
 
 ## 1. Purpose and scope
 
-This topic is the practice engine for the whole folder: it routes every
-one of the 16 audited prompts to the relevant earlier topics and gives a
-concise interpretive outline for each — never a full model essay — plus
+This topic is the practice engine for the whole folder: it routes the 16
+recent prompts to the relevant earlier topics and gives a concise
+interpretive outline for each — never a full model essay — while
+`../PYQ-Corpus-2013-2025.md` supplies all 100 prompts, plus
 a method for running timed practice loops and logging errors for spaced
 reattempt.
 
@@ -37,11 +38,11 @@ reattempt.
 
 ## 3. ✅ Exam facts / source basis
 
-✅ All 16 prompts below are quoted or referenced exactly as printed in
-the two audited papers (see `../README.md` for full verbatim text and
-the source-defect list). Both papers are unattributed for every prompt;
+✅ All 16 recent prompts below are quoted or referenced against the
+official/corrected ledger (see `../PYQ-Corpus-2013-2025.md`). Both recent
+papers are unattributed for every prompt;
 this topic follows the same quotation-attribution safety rule as `09` —
-no author is ever attached to any of the 16 prompts.
+no author is ever attached to any of the 16 recent prompts.
 
 ## 4. The central idea and common misreading
 
@@ -59,25 +60,25 @@ For any prompt below: (1) which topic files does it primarily route to?
 qualification would you choose? (4) what is one Indian illustration you
 can genuinely recall for it? (5) what is the synthesis?
 
-## 6. Dimension-expansion grid — full 16-prompt routing table with concise interpretive outlines
+## 6. Dimension-expansion grid — recent 16-prompt routing table with concise interpretive outlines
 
 **2024 — Section A**
 
 | Label | Exact prompt | Route | Concise interpretive outline |
 |---|---|---|---|
 | 2024-A1 | "Forests precede civilizations and deserts follow them." | `02, 04, 05, 11, 12` | Ecological precondition/warning; forests as ecological capital, deserts as the cost of extractive overreach; dimensions: ecological, civilisational, developmental; synthesis: regenerative development and intergenerational responsibility. |
-| 2024-A2 | "The empires of the futures will be the empires of the mind." | `02, 05, 09, 11, 12` | "Empire" redefined as knowledge/power; dimensions: education, research capacity, digital-platform power; synthesis: inclusive, accountable knowledge-power, not concentrated power. |
-| 2024-A3 | "There is no path to happiness, Happiness is the  path." | `02, 05, 06, 10, 12` | Process vs. destination; dimensions: individual conduct, consumption, public policy/well-being; synthesis: flourishing as an ongoing process and a social condition. |
+| 2024-A2 | "The empires of the future will be the empires of the mind." | `02, 05, 09, 11, 12` | "Empire" redefined as knowledge/power; dimensions: education, research capacity, digital-platform power; synthesis: inclusive, accountable knowledge-power, not concentrated power. |
+| 2024-A3 | "There is no path to happiness; Happiness is the path." | `02, 05, 06, 10, 12` | Process vs. destination; dimensions: individual conduct, consumption, public policy/well-being; synthesis: flourishing as an ongoing process and a social condition. |
 | 2024-A4 | "The doubter is a true man of science." | `02, 08, 09, 11` | Disciplined doubt vs. denialism; dimensions: scientific method, public policy, civic scrutiny; synthesis: scientific temper as method, not mere scepticism. |
 
 **2024 — Section B**
 
 | Label | Exact prompt | Route | Concise interpretive outline |
 |---|---|---|---|
-| 2024-B1 | "Social media is triggering ‘Fear of Missing Out’ amongst the youth precipitating depression and loneliness." | `03, 04, 08, 09, 10, 11, 12` | Issue-based prompt (see `03`); mechanism: design/comparison-driven distress; dimensions: individual, family, platform, state; synthesis: agency, literacy, humane platform design. |
-| 2024-B2 | "Nearly all men can stand adversity, but to test the character, give him power." | `02, 05, 08, 10, 12` | Discretionary power vs. adversity as character tests; dimensions: personal virtue, institutional accountability; synthesis: accountable power, not power denied or unchecked. |
-| 2024-B3 | "All ideas having large consequences are always simple." | `02, 05, 08, 09, 11` | Simplicity of moral/political core vs. complexity of execution; synthesis: simple compass, sophisticated implementation. |
-| 2024-B4 | "The cost of being wrong is less than the cost of doing nothing." | `02, 05, 08, 09, 11` | Reversible experimentation vs. paralysis; synthesis: responsible, safeguarded action with precaution for irreversible harms. |
+| 2024-B5 | "Social media is triggering ‘Fear of Missing Out’ amongst the youth, precipitating depression and loneliness." | `03, 04, 08, 09, 10, 11, 12` | Issue-based prompt (see `03`); mechanism: design/comparison-driven distress; dimensions: individual, family, platform, state; synthesis: agency, literacy, humane platform design. |
+| 2024-B6 | "Nearly all men can stand adversity, but to test the character, give him power." | `02, 05, 08, 10, 12` | Discretionary power vs. adversity as character tests; dimensions: personal virtue, institutional accountability; synthesis: accountable power, not power denied or unchecked. |
+| 2024-B7 | "All ideas having large consequences are always simple." | `02, 05, 08, 09, 11` | Simplicity of moral/political core vs. complexity of execution; synthesis: simple compass, sophisticated implementation. |
+| 2024-B8 | "The cost of being wrong is less than the cost of doing nothing." | `02, 05, 08, 09, 11` | Reversible experimentation vs. paralysis; synthesis: responsible, safeguarded action with precaution for irreversible harms. |
 
 **2025 — Section A**
 
@@ -131,7 +132,7 @@ of any one of them.
 - ❌ **Re-attempting the same prompt immediately** rather than spacing
   reattempts. → Repair: leave a genuine gap (see `advanced/16` for a
   spacing method) before re-testing the same weakness.
-- ❌ **Attaching an author to any of the 16 prompts.** → Repair: none is
+- ❌ **Attaching an author to any of the 16 recent prompts.** → Repair: none is
   printed in either source paper; keep every reference unattributed
   (`09`).
 

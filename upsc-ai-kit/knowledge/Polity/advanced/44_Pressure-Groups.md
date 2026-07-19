@@ -64,3 +64,11 @@
 - "Pressure groups are the informal face of a democracy." Discuss their role in Indian policymaking with examples.
 - Should lobbying be legalised and regulated in India? Weigh transparency against the risk of elite capture.
 - Distinguish pressure groups from political parties and evaluate their impact on Indian democracy.
+
+## Verified PYQ application
+
+- ✅ **2025 GS-II Q15 (15 marks, 250 words):** “What are environmental pressure
+  groups? Discuss their role in raising awareness, influencing policies and advocating
+  for environmental protection in India.” Route: define issue-based non-party groups ->
+  research/campaigns, consultation, litigation and community mobilisation -> gains in
+  agenda-setting/accountability -> representation, funding and transparency caveats.

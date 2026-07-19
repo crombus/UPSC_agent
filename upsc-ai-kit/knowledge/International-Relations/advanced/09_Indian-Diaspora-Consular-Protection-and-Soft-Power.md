@@ -206,9 +206,14 @@ depends on domestic Indian pluralism as much as on external diplomatic effort.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names the
-  Indian diaspora, consular protection or soft power. An advanced analytical
-  answer on this theme should nonetheless:
+- ✅ **2017 GS-II** requires an appraisal of the diaspora's economic and
+  social role in South-East Asia; apply the two-way-bridge model and add
+  host-country integration/identity constraints.
+- ✅ **2020 GS-II** requires comment on the diaspora's political and economic
+  role in America and Europe; keep lobbying/representation analytically
+  distinct from trade, entrepreneurship and knowledge networks.
+- ⚠️ No 2024-2025 question directly names this theme. An advanced answer
+  should:
   1. Distinguish the welfare/protection track from the soft-power-projection
      track explicitly.
   2. Cite Tharoor's institutional-fragmentation critique as the analytical

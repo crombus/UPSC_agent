@@ -33,7 +33,7 @@
 
 ✅ Satish Chandra rejects the charge, made by Jesuits and Badayuni, that Akbar simply renounced Islam and founded a new mass religion.
 - ✅ Abul Fazl used **Tauhid-i-Ilahi** (Divine Monotheism), not primarily "Din-i-Ilahi"; Badayuni used both terms.
-- ✅ Modern research notes that Din-i-Ilahi had **no priesthood, no rituals or beliefs, no books**, and no clear foundation order.
+- ✅ Modern research notes that Din-i-Ilahi had **no separate scripture, priesthood, place of worship or mass congregational organisation**; it nevertheless had an elite initiation/discipleship ethic and associated forms of conduct.
 - ✅ The four degrees of devotion — sacrifice of property, life, honour and religion — resembled Sufi forms of discipleship and had political meaning.
 - ✅ Satish Chandra calls Tauhid-i-Ilahi basically a **political device** for fashioning a new state and nobility around justice, liberalism and equal treatment of faiths.
 
@@ -47,6 +47,21 @@
 | ✅ Sulh-i-kul | Justice + public welfare + sectarian peace | Core of new polity |
 | ✅ Tauhid-i-Ilahi | Spiritual-political monotheism; Akbar as guide | Elite integration device |
 | ✅ Membership | Blochmann listed only about 18 nobles in the highest degrees; Birbal the only Hindu among them | Not a mass sect |
+
+## ➕ Exact PYQ application (2025 GS-I)
+
+> **Verbatim:** “Examine the main aspects of Akbar's religious syncretism. (Answer in 150 words)”
+
+| Aspect | Evidence to use | Analytical value |
+|---|---|---|
+| ✅ Interfaith inquiry | Ibadat Khana debates opened to Hindu, Jain, Christian and Zoroastrian participants after 1578 | Syncretism began as inquiry, not a ready-made creed |
+| ✅ Sovereignty and interpretation | Mahzar (1579) allowed Akbar to choose among conflicting juristic opinions for public welfare | Limited clerical monopoly; not papal-style infallibility |
+| ✅ Governing principle | *Sulh-i-kul* joined justice, welfare and sectarian peace | Religious accommodation became an imperial policy |
+| ✅ Elite discipleship | *Tauhid-i-Ilahi* linked spiritual kingship, ethical conduct and loyalty | Political-integrative device, not a mass religion |
+| ✅ Cultural-administrative setting | Composite nobility and equal treatment of faiths widened the policy beyond personal curiosity | Connect belief to state formation |
+| ⚠️ Limits | Small elite following; hostile and courtly sources are ideologically charged | Do not claim either a new universal religion or modern secularism |
+
+**150-word thesis:** ⚠️ Akbar's syncretism was a layered programme of interfaith inquiry, *sulh-i-kul*, limited juristic sovereignty and elite spiritual-political discipleship; its importance lay more in governing a plural empire than in founding a new religion.
 
 ## 3. Study links
 
@@ -84,4 +99,3 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ Sources are ideologically charged: **Abul Fazl** legitimises Akbar, **Badayuni** attacks him, and Jesuit accounts misread his courtesy as openness to conversion. Use them critically.
-

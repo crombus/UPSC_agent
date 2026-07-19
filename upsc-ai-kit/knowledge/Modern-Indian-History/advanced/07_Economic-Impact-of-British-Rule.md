@@ -49,6 +49,23 @@
 | ✅ Colonial modernisation | Railways/telegraph/canals built for empire but had unintended integrative effects | Standard survey synthesis |
 | ✅ Agrarian restructuring | Permanent, Ryotwari, Mahalwari settlements reshaped property and revenue | Bipin Chandra survey |
 
+## ➕ Exact PYQ application (2024 GS-I)
+
+> **Verbatim:** “How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India? (Answer in 250 words)”
+
+| Causal layer | Mechanism | Weight in a “how far” answer |
+|---|---|---|
+| ✅ English industrialisation | Mechanised textile production lowered unit costs and sharply expanded the supply of British manufactures | Necessary external technological condition |
+| ✅ Raw-material / market logic | Industrial Britain sought Indian raw materials and a large market for finished goods | Connected factory growth to colonial trade |
+| ✅ Colonial tariff and monopoly power | Company/state policy opened India to British manufactures and denied Indian producers an equal commercial field | Converted technological advantage into structural subordination |
+| ✅ Loss of patronage | Conquest and decline of courts weakened elite demand for specialised artisanal production | Independent Indian cause that industrialisation alone cannot explain |
+| ✅ Transport and market integration | Railways and communications widened the reach of imports while facilitating raw-material exports | Intensified, rather than originated, the decline |
+| ⚠️ Limits / variation | Handicrafts did not disappear uniformly; some adapted, survived in niches or served local markets | Prevents an absolute “total destruction” claim |
+
+**250-word verdict:** ⚠️ The Industrial Revolution supplied the machine-made cost advantage and raw-material/market pressure, but **colonial political power determined how that advantage operated in India**. Deindustrialisation was therefore industrial in origin, colonial in transmission and regionally uneven in outcome.
+
+> **Cross-route:** `World-History/advanced/04_Industrial-Revolution.md` supplies the English technology-capital-market mechanism only; this file owns the Indian causal assessment.
+
 ## 3. Study links
 
 > **Study link:** ✅ Revenue rights after Buxar and Diwani → `advanced/04_British-Conquest-of-Bengal.md`.

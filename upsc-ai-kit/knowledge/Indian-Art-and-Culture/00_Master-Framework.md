@@ -87,8 +87,9 @@ dynasties or "rich cultural heritage" generically.
 
 ## 7. Chandella/Khajuraho case-study route
 
-⚠️ Because Topic 03 carries the mandatory Chandella dossier (the only 2025
-direct PYQ), use this route: read
+⚠️ Because Topic 03 carries the mandatory Chandella dossier (the direct
+2025 sculpture-specific PYQ, and one of two direct 2025 Art & Culture
+PYQs alongside Harappan architecture), use this route: read
 `basic/03_Temple-Architecture-and-Chandella-Khajuraho.md` for the political-cultural
 setting (Jejabhukti/Bundelkhand, Dhanga's independence) and the
 architecture/sculpture vocabulary; read

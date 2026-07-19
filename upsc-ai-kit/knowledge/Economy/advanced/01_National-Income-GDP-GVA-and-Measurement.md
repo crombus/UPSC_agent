@@ -144,6 +144,16 @@ and **7.3% for real GVA**, with PFCE at **61.5% of GDP**.
 2. **Identify the driver:** strong private consumption and services.
 3. **Add the caveat:** advance estimates are revised as fuller data arrive.
 
+### Series-break discipline after 27 February 2026
+
+- ✅ MoSPI's new national-accounts series uses **2022-23 as base year**, replacing
+  2011-12, and introduces revised sources/coverage/methods.
+- ✅ Estimates from 2022-23 onward were released; a comparable back-series was
+  not yet available at the 19 July 2026 cutoff.
+- ⚠️ Do not splice growth levels across the two series without the official
+  back-series. Label every number by base, estimate vintage and reference period.
+- Source: [MoSPI press note](https://mospi.gov.in/uploads/release_calendar/1772190058170_Press_Note_on_New_Series_of_GDP_Estimates_with_Base_Year_2022-23_27022026.pdf).
+
 ## 11. Mains-ready frameworks
 
 ### "GDP is necessary but insufficient"
@@ -162,7 +172,12 @@ and **7.3% for real GVA**, with PFCE at **61.5% of GDP**.
 - Stronger state-level GSDP capacity.
 - Satellite accounts for environment, health, care and digital activity.
 
-## 12. Probable questions
+## 12. PYQ status
+
+- ⚠️ No direct national-income-measurement question appears in the audited
+  2024-2026 Economy corpus; see the exact route audit in `../README.md`.
+
+## 13. Probable questions
 
 - ⚠️ **Prelims:** Differentiate GDP, GVA, GNP, NDP, nominal GDP and real GDP.
 - ⚠️ **Mains:** "India's growth debate should move from the rate of GDP growth to
@@ -170,4 +185,3 @@ and **7.3% for real GVA**, with PFCE at **61.5% of GDP**.
 - ⚠️ **Mains:** Explain why revisions in base year and national-accounting
   methodology are necessary, while examining the challenges they create for
   comparability and public trust.
-

@@ -1,7 +1,7 @@
 # United Nations and Global Governance - ADVANCED
 
 > **Subject:** History (World History) · **Tier:** Advanced · **GS Paper:** GS-I with GS-II linkage
-> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 9, pp. 167-185; OCR lines used: 11841-12803. Contemporary cross-checks: official UN "main bodies" page and official UN Peacekeeping India page, fetched 16 July 2026.
+> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 9, pp. 167-185; OCR lines used: 11841-12803. Contemporary cross-checks: official UN "main bodies" and UN Peacekeeping India pages (16 July 2026), plus official Pact for the Future and UN Day/UN80 pages (19 July 2026).
 > **Exam-relevance anchor:** ✅ UPSC GS-II syllabus includes: "Important International institutions, agencies and fora-their structure, mandate." ✅ UPSC GS-I covers the post-1945 world created by the world wars and their effects.
 > ✅ = source-grounded · ⚠️ = interpretive synthesis / answer-writing line · 📰 = current-affairs peg only when separately verified.
 > *Companion: `basic/16_United-Nations-and-Global-Governance.md`.*
@@ -18,6 +18,8 @@
 | ✅ 1960-64 | Congo shows scale and cost of complex peacekeeping |
 | ✅ 1990-95 | Gulf War, Cambodia, Mozambique, Somalia and Bosnia redefine expectations |
 | ✅ 2000-03 | Kofi Annan reform language and Iraq crisis sharpen legitimacy questions |
+| 📰 22 Sep 2024 | UNGA adopts the Pact for the Future (A/RES/79/1), with the Global Digital Compact and Declaration on Future Generations annexed |
+| 📰 2025 | UN's 80th anniversary and UN80 initiative renew the institutional-reform question |
 | 📰 16 Jul 2026 | Official UN pages still foreground six main bodies and ongoing peacekeeping commitments |
 
 ## 1. Why Topic 16 sits at the GS-I / GS-II boundary
@@ -96,10 +98,14 @@
 
 | Current point | Verified fact | Exam use |
 |---|---|---|
+| 📰 Pact for the Future | ✅ UNGA adopted Resolution 79/1 on 22 September 2024; its annexes include the Global Digital Compact and Declaration on Future Generations | Concrete post-Lowe evidence that reform now spans peace/security, development, digital cooperation, youth and institutional design |
+| 📰 UN at 80 / UN80 | ✅ The UN's official 2025 observance links its 80th anniversary to the Pact for the Future and the UN80 initiative | Frames reform as adaptation of the existing multilateral system, not its abolition |
 | 📰 UN structure | ✅ Official UN "main bodies" page lists six principal bodies: General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat | Corrects common ICJ/ICC confusion in GS-II answers |
 | 📰 India and peacekeeping | ✅ Official UN Peacekeeping India page says Indian peacekeepers deploy to nine missions and directs users to the live troop-and-police contributor dashboard | Keeps India's peacekeeping role relevant without inventing unstable live numbers |
 
 ⚠️ Current-issue caution: UNSC reform remains a live debate in Indian discourse, but this note makes **no** claim of a completed reform outcome. Verify any seat-expansion update separately before using it in an exam answer.
+
+> **Boundary:** this World History file uses the Pact/UN80 only to update the post-1945 institutional-reform arc. Negotiating positions, India's UNSC campaign and live diplomatic alignments remain in International Relations / GS-II.
 
 ## 7. Must-Know Facts (Prelims) and UPSC traps
 

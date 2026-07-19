@@ -72,8 +72,9 @@ govt with the **HC Chief Justice's concurrence**) for speedy trial.
 ## 📰 CA hooks
 - 📰 **GANHRI accreditation:** the **Sub-Committee on Accreditation (SCA)** recommended **downgrading NHRC from
   "A" to "B"** (independence, police-as-investigators, pluralism, opaque appointments concerns); after NHRC's
-  appeal, the **final review is postponed to November 2026** — NHRC retains "A" status meanwhile. A downgrade would
-  cost **UN Human Rights Council voting/speaking rights**.
+  appeal, the **final review is postponed to November 2026** — NHRC retains "A" status meanwhile. A downgrade
+  would remove A-status independent speaking/written-submission privileges at the UN Human Rights Council and
+  GANHRI governance rights. It would not remove a voting right: NHRIs do not vote at the Council; member states do.
 - 📰 ⚠️ Debate on NHRC's **"toothless tiger"** advisory nature and demands to make recommendations enforceable.
 
 ## Mains angles

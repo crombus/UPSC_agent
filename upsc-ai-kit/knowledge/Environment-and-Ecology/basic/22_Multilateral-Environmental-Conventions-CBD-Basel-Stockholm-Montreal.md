@@ -121,6 +121,11 @@ precise, non-overlapping identification of each convention's specific scope.
 
 ## 8. 📰 Current anchor
 
+- 📰 **CBD COP16 (Cali 2024; resumed Rome, February 2025):** completed
+  decisions on resource mobilisation and KMGBF monitoring, operationalised the
+  DSI benefit-sharing mechanism and launched the **Cali Fund**.
+  [CBD outcome](https://www.cbd.int/article/cop16-resumed-session-closing-2025).
+
 - 📰 The CBD's Kunming-Montreal Global Biodiversity Framework (adopted at CBD COP15, 2022)
   remains the current global biodiversity policy reference point, including its 30x30
   target; verify India's specific progress reporting against this framework through the

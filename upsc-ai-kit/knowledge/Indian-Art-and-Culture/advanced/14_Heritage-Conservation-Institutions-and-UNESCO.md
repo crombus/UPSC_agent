@@ -7,7 +7,7 @@
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
 > 722-738, 955-971, 983-992; `00_Master-Framework.md` Sections 4-5, 9;
 > audited UPSC Mains 2024-2025 GS Paper I (no direct question — capstone
-> role).
+> role); official UNESCO Moidams property page (accessed 19 July 2026).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/14_Heritage-Conservation-Institutions-and-UNESCO.md`.*
 
@@ -107,6 +107,13 @@ Danger List and the Manas/Hampi removal case), PDF pp. 956-967
 
 ## 7. 📰 Dated official anchor
 
+- 📰 UNESCO inscribed **Moidams — the Mound-Burial System of the Ahom
+  Dynasty** at Charaideo on **26 July 2024**, making it India's 43rd World
+  Heritage property. UNESCO criteria (iii) and (iv) recognise six
+  centuries of Tai-Ahom royal funerary custom and the necropolis as an
+  outstanding expression of its associated cosmology. The property page
+  also identifies rainfall, erosion and vegetation growth as management
+  pressures — a precise conservation hook, not merely a changing count.
 - 📰 As of the book's own account (September 2025), India holds 44 WHS
   properties with no site currently on the Danger List (July 2025); as of
   this file's research cutoff (18 July 2026), independent web-search
@@ -137,6 +144,11 @@ current-status-plus-trade-off closing line.
 - ❌ Treating WHS status as permanent and unconditional once granted. ->
   The Danger List mechanism, and the Manas/Hampi case specifically, show
   status is actively managed and conditional on continued protection.
+- ❌ Treating the Moidams as only an Ahom political-history example. ->
+  Their mound-vault-shrine form, sacred landscape and conservation
+  pressures make them a distinct funerary-architecture and heritage-
+  management case; detailed Ahom administration remains in Medieval
+  History topic 08.
 - ❌ Assuming any specific artefact has been repatriated to India without
   a dated official source naming the object, institution and provenance.
   -> Apply the repatriation discipline (Section 2) strictly.
@@ -194,6 +206,11 @@ named precisely rather than generically.
   Deepavali's 2025 inscription brings India's Representative List total to
   16; ASI's Monuments page states 3,679 centrally protected monuments and
   archaeological sites.
+- ✅ Moidams details verified against UNESCO's property page (accessed 19
+  July 2026): inscription
+  on 26 July 2024; criteria (iii) and (iv); Tai-Ahom royal necropolis at
+  Charaideo; rainfall, erosion and vegetation growth recorded as
+  conservation factors.
 - ⚠️ The book's GI figure is 658 registered goods as of July 2025. Any
   later exact total requires a dated GI Registry registered-status extract
   or identified DPIIT parliamentary reply; do not infer it from the

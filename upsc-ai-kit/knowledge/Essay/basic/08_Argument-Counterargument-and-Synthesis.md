@@ -63,7 +63,7 @@ test of balanced judgement.
 
 | Prompt (example) | Strongest counter-view | Synthesis |
 |---|---|---|
-| 2024-B4 "Cost of being wrong… less than doing nothing." | Some errors are irreversible and catastrophic (e.g. safety, ecological harm) | Prefer reversible, safeguarded experimentation; apply precaution where harm is irreversible |
+| 2024-B8 "Cost of being wrong… less than doing nothing." | Some errors are irreversible and catastrophic (e.g. safety, ecological harm) | Prefer reversible, safeguarded experimentation; apply precaution where harm is irreversible |
 | 2025-A2 "Supreme art of war… without fighting." | Deterrence sometimes requires credible capability, not persuasion alone | Peace built on both preparedness and diplomacy, not diplomacy alone |
 | 2024-A4 "The doubter is a true man of science." | Excessive doubt can become denialism or paralysis | Doubt must be disciplined — falsifiable, evidence-seeking, time-bound |
 

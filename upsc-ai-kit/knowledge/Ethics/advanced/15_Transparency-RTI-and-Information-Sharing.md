@@ -22,8 +22,8 @@ Parliament-protected)                    Act itself (executive discretion)
         v                                        v
    STRONG STATUTORY INDEPENDENCE    ->      CONTESTED INDEPENDENCE
    of the appellate/enforcement body         (critics: reduced insulation from
-                                              executive influence; current rules
-                                              set a 3-year term as of 2025)
+                                              executive influence; the 2019 Rules
+                                              prescribe a 3-year term)
 ```
 
 **Analytical claim:** The ethical strength of RTI's disclosure-by-default design depends critically

@@ -5,7 +5,7 @@
 > equated-ages, expenditure-consumption trade-offs, and two-vessel mixtures.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). Drills are **computationally verified**.
 > ✅ = rule/fact | ⚠️ = guidance | 📝 = original example.
-> *Companion: `basic/03_Arithmetic-and-Commercial-Math.md`.*
+> *Companion: [Foundation](../basic/03_Arithmetic-and-Commercial-Math.md).*
 
 ---
 
@@ -116,7 +116,7 @@ a pile of separate computations.
 
 ## 10. Study links
 
-- ✅ Foundation companion: `basic/03_Arithmetic-and-Commercial-Math.md`.
-- ✅ `advanced/04_Rates-Motion-Time-and-Geometry.md` - averages/ratios extend to average speed and
+- ✅ [Foundation companion](../basic/03_Arithmetic-and-Commercial-Math.md).
+- ✅ [Rates, Motion, Time and Geometry](./04_Rates-Motion-Time-and-Geometry.md) - averages/ratios extend to average speed and
   work rates.
-- ✅ `advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md` - ages/mixtures are equation setups.
+- ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - ages/mixtures are equation setups.

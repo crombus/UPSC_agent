@@ -55,14 +55,13 @@
   `World-History/basic/15-16, 18, 21`.
 - **Internal Security owns operations:** border and maritime military
   operations, counter-terrorism operations and insurgency management. IR owns
-  the diplomatic and security-cooperation framework around these issues (a
-  dedicated Internal Security folder does not yet exist in this knowledge base;
-  route conceptually rather than to an invented file).
+  the diplomatic and security-cooperation framework around these issues. Route
+  operational detail to `Internal-Security/basic/02`, `06`, `07` and `12`.
 - **Disaster Management owns the operational HADR cycle:** evacuation,
   command systems and relief logistics. IR owns HADR diplomacy — the
-  agreements, frameworks and partnerships that enable cooperation (a dedicated
-  Disaster Management folder does not yet exist in this knowledge base; route
-  conceptually).
+  agreements, frameworks and partnerships that enable cooperation. Route
+  operational detail to `Disaster-Management/basic/17` and international
+  cooperation to `Disaster-Management/basic/18`.
 
 ## Topic map
 
@@ -110,4 +109,3 @@
   diaspora-diplomacy framing.
 - Economic Survey 2025-26, for the ITEC training programme as an education
   and cultural-diplomacy data point (dated and scoped only to that context).
-

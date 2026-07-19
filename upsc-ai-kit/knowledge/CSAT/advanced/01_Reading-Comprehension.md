@@ -4,7 +4,7 @@
 > **Core skill:** high-accuracy passage-only reasoning under time pressure - inference vs assumption
 > vs implication, tone/scope, two-passage sets, and disciplined elimination.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). ✅ = method fact | ⚠️ = guidance | 📝 = original example.
-> *Companion: `basic/01_Reading-Comprehension.md`.*
+> *Companion: [Foundation](../basic/01_Reading-Comprehension.md).*
 
 ---
 
@@ -177,8 +177,9 @@ overshoots ("hostile/dismissive").
 
 ## 10. PYQ-pattern notes (2024-2026, Set A)
 
-- ⚠️ Comprehension is the **single largest family every year** and the safest bank of marks - treat
-  it as the backbone of the qualifying score.
+- ⚠️ Comprehension is the **largest three-year family** and the largest family in each audited year,
+  including the provisional 2026 classification. Treat it as a major bank of marks without
+  assuming the same annual distribution.
 - ⚠️ The dominant stems are **inference** and **assumption**, plus **central idea** and occasional
   **tone/practical-message**; pure vocabulary items are rare.
 - ⚠️ **Two-passage** sets recur - practise the "P1/P2/both/neither" mapping.
@@ -187,7 +188,7 @@ overshoots ("hostile/dismissive").
 
 ## 11. Study links
 
-- ✅ Foundation companion: `basic/01_Reading-Comprehension.md`.
-- ✅ `advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md` - the sufficiency decision shares this
+- ✅ [Foundation companion](../basic/01_Reading-Comprehension.md).
+- ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - the sufficiency decision shares this
   file's "is it enough to conclude?" logic.
-- ✅ `00_Master-Framework.md` - passage workflow, elimination toolkit, error taxonomy.
+- ✅ [Master Framework](../00_Master-Framework.md) - passage workflow, elimination toolkit, error taxonomy.

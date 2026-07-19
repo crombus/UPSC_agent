@@ -95,6 +95,12 @@ law is a necessary floor, not a sufficient ethical ceiling.
 
 ## 7. PYQ application
 
+- ✅ **2015 GS-IV:** "Law and ethics are considered to be the two tools for
+  controlling human conduct so as to make it conducive to civilized social
+  existence. (a) Discuss how they achieve this objective. (b) Giving examples,
+  show how the two differ in their approaches." — compare source, enforcement,
+  minimum standard and examples rather than treating law and ethics as
+  interchangeable.
 - ✅ 2025 GS-IV Q1(b): constitutional morality's role in promoting good governance and accountability
   — a direct test of this topic's outermost source of guidance.
 - ⚠️ Any question on "law vs ethics" (e.g., Kant's 2024 GS-IV Q3(c) quotation, see `07`) is a

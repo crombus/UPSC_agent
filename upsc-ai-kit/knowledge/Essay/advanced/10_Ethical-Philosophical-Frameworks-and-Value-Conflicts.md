@@ -43,7 +43,7 @@ draws lightly on that module as a lens.
 | Prompt (example) | Category 1 | Category 2 | Hidden assumption if unexamined |
 |---|---|---|---|
 | 2024-A1 "Forests… deserts" | Welfare (present development benefits) | Ecological responsibility (future/intergenerational cost) | Assumes present welfare gains are costless; ignores compounding ecological debt |
-| 2024-B2 "Power tests character" | Rights/fairness (accountability constrains power) | Care (trust extended to competent, well-intentioned authority) | Assumes power is inherently corrupting; ignores that some discretion is functionally necessary |
+| 2024-B6 "Power tests character" | Rights/fairness (accountability constrains power) | Care (trust extended to competent, well-intentioned authority) | Assumes power is inherently corrupting; ignores that some discretion is functionally necessary |
 | 2025-B8 "Contentment… luxury" | Welfare/fairness (sufficiency for all) | Rights (freedom to aspire and consume within one's means) | Assumes aspiration is inherently excessive; ignores the sufficiency-vs-below-sufficiency distinction |
 
 ## 4. Levels of analysis and temporal-spatial scale

@@ -84,6 +84,16 @@
 - ⚠️ Recurring Prelims theme: distinguish **metallic ore belts** from **hydrocarbon basins**.
 - ⚠️ Recurring GS-III theme: analyse India's **critical-mineral vulnerability** in the clean-energy transition.
 - ⚠️ Recurring GS-I/GS-III theme: relate mineral distribution to steel plants, power plants and industrial corridors.
+- ✅ **2025 GS-I direct PYQs:** solar generation's ecological/economic
+  benefits, and the geographic explanation of offshore oil distribution versus
+  onshore occurrence.
+- ✅ **2025 GS-III cross-route:** why mining is an environmental hazard and
+  what remedial measures are needed. Keep mineral occurrence/extraction
+  geography here; route EIA, reclamation and mine-closure governance to
+  `../../Environment-and-Ecology/advanced/16_Environmental-Impact-Assessment-and-NGT.md`.
+- ⚠️ Build the oil answer from sedimentary-basin evolution, continental
+  shelves/margins, source-reservoir-seal geometry and exploration/access
+  differences—not from a memorised field list. Exact route: `../README.md`.
 
 ## 8. 📰 Current link
 

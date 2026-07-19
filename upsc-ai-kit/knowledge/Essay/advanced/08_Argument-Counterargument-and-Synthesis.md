@@ -40,13 +40,13 @@ supplies the counter-argument-and-synthesis content itself.
 | Thesis | Strong counter-claim (genuine, not weak) | Hidden assumption exposed |
 |---|---|---|
 | 2025-B5 "Muddy water… leaving it alone" — restraint resolves conflict | Some emergencies (public-health, safety) worsen without timely intervention | Assumes all disturbance is unhelpful; ignores urgency-dependent cases |
-| 2024-B3 "Large-consequence ideas… always simple" | Complex problems sometimes require complex, multi-part solutions with no single simple core | Assumes every large-consequence idea has an irreducibly simple core; some may not |
+| 2024-B7 "Large-consequence ideas… always simple" | Complex problems sometimes require complex, multi-part solutions with no single simple core | Assumes every large-consequence idea has an irreducibly simple core; some may not |
 | 2025-A4 "Bitter experiences" teach best lessons | Some suffering is purely destructive and teaches nothing without support/reflection | Assumes adversity automatically produces learning; ignores the role of support and reflection |
 
 ## 4. Levels of analysis and temporal-spatial scale
 
 ⚠️ Test whether the counter-claim operates at the same scale as the
-thesis or a different one — e.g. for 2024-B3, the thesis may hold at the
+thesis or a different one — e.g. for 2024-B7, the thesis may hold at the
 scale of *moral/political principle* (simple) while the counter-claim
 holds at the scale of *implementation mechanics* (complex); recognising
 this scale-shift is itself the synthesis ("simple compass, sophisticated
@@ -54,7 +54,7 @@ implementation"), rather than a contradiction to be argued away.
 
 ## 5. Stakeholder map and distributional effects
 
-⚠️ For value-conflict theses (2025-B8 contentment/luxury; 2024-B2 power/
+⚠️ For value-conflict theses (2025-B8 contentment/luxury; 2024-B6 power/
 character), identify which stakeholder's interest the counter-claim
 represents — e.g. the counter-claim to "contentment is natural wealth"
 might represent the interests of those still below a basic sufficiency
@@ -148,7 +148,7 @@ repeating the same switching-condition logic.
 📰 **Dated anchor:** not applicable — dialectical method is stable and
 does not depend on current-affairs content.
 
-**Practice lab:** For 2024-B2 ("power tests character"), write the
+**Practice lab:** For 2024-B6 ("power tests character"), write the
 strongest counter-claim (adversity, not power, is the truer test),
 identify the switching condition, and state the higher synthesis in
 three sentences total.

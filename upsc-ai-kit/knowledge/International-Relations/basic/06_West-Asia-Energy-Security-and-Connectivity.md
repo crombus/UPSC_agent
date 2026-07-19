@@ -156,6 +156,10 @@ than treating any one as exclusive.
 
 ## 9. PYQ application
 
+- ✅ **2022 GS-II I2U2 cross-route:** "How will I2U2 (India, Israel, UAE
+  and USA) grouping transform India's position in global politics?" Use
+  this file for West-Asia, investment, food/energy and connectivity
+  dimensions; topic `10` owns minilateral classification.
 - ✅ **2025 Q19 (direct):** *"Energy security constitutes the dominant kingpin of
   India's foreign policy, and is linked with India's overarching influence in
   Middle Eastern countries." How would you integrate energy security with

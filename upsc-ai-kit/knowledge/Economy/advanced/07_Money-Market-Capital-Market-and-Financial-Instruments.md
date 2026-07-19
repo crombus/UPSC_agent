@@ -135,6 +135,9 @@ activity is concentrated in a narrow set of instruments or participants.
 - ⚠️ 2024 Prelims: CBLO, eligible G-sec and corporate-bond investors, and financial-
   instrument classification.
 - ⚠️ 2025 Prelims: direct bonds and stocks were distinguished from pooled AIFs.
+- ✅ **2025 Prelims Q68:** RTGS versus NEFT settlement design, operating
+  availability and inward-charge trap. Cross-route digital-payment architecture
+  to topic 24; exact audit: `../README.md`.
 
 ## 11. Mains-ready framework
 

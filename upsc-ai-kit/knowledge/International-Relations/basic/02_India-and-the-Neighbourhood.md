@@ -173,12 +173,13 @@ historical dynamic.
 
 ## 9. PYQ application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names the
-  South Asian neighbourhood (Bangladesh, Bhutan, Nepal, Sri Lanka, Myanmar,
-  Pakistan or Afghanistan) as the framing device; Maldives is addressed
-  separately by 2024 Q20 and is cross-linked to topic 04. State this honestly.
-  Use the asymmetry-plus-Gujral-Doctrine framework here as the general
-  structuring device for any neighbourhood-themed question.
+- ✅ **2022 GS-II:** "India is an age-old friend of Sri Lanka. Discuss
+  India's role in the recent crisis in Sri Lanka in the light of the
+  preceding statement." Distinguish emergency assistance from durable
+  connectivity/development partnership and apply the implementation-
+  credibility test.
+- ⚠️ No 2024-2025 question directly names the wider South Asian
+  neighbourhood; Maldives is addressed separately by 2024 Q20.
 
 ## 10. Mains angles
 

@@ -129,6 +129,11 @@ source and reporting date.
 
 ## 9. PYQ application
 
+- ✅ **2025 GS-III direct PYQ:** review India's Paris commitments, COP26
+  strengthening and the **2022 updated NDC**. This file owns the India-target/
+  domestic-policy part; treaty mechanics remain in topic 19. Exact route:
+  `../README.md`.
+
 - ⚠️ Recurring Prelims pattern: correctly list the eight NAPCC missions and the five
   Panchamrit pledges with their precise figures and baseline years.
 - ⚠️ Mains linkage: the NAPCC-to-Panchamrit-to-LT-LEDS evolution is used to argue for a

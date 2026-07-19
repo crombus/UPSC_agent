@@ -78,3 +78,11 @@ SC/ST, disabled, custody, disaster victims, income ≤ ₹1 lakh, etc.
 - Should India create an **All India Judicial Service** for subordinate judiciary recruitment? Discuss.
 - The High Court's writ jurisdiction as a guardian of rights — analyse Art 226 vs Art 32.
 - Judicial pendency: causes and reforms (NALSA, Lok Adalats, fast-track courts, e-Courts).
+
+## Verified PYQ application
+
+- ✅ **2024 GS-II Q2 (10 marks, 150 words):** “Explain and distinguish between Lok
+  Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal
+  cases?” Route: statutory conciliation/compromise forum vs consensual private adjudication;
+  Lok Adalat may settle compoundable criminal matters but not non-compoundable offences;
+  arbitration concerns arbitrable civil/commercial disputes, not criminal prosecution.

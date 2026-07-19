@@ -5,7 +5,7 @@
 > clock coincidences and cube-cutting counts.
 > **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A). Drills are **computationally verified**.
 > ✅ = rule/fact | ⚠️ = guidance | 📝 = original example.
-> *Companion: `basic/04_Rates-Motion-Time-and-Geometry.md`.*
+> *Companion: [Foundation](../basic/04_Rates-Motion-Time-and-Geometry.md).*
 
 ---
 
@@ -24,8 +24,9 @@
    solve one cycle / one relative rate, then scale
 ```
 
-**Analytical claim:** every multi-body item reduces to **one net rate** (per cycle or relative), after
-which it is a single division.
+**Analytical claim:** rate and relative-motion items reduce to a **net rate** (per cycle or
+relative), after which they become a division. Cube-cutting items are different: they use geometric
+layer/face-count formulas.
 
 ## 2. Advanced tools with conditions
 
@@ -112,8 +113,8 @@ speed `= 25 - 5 = 20 m/s`; time `= 200/20 =` **10 s.** *(Verified.)*
 
 ## 9. PYQ-pattern notes (2024-2026, Set A)
 
-- ⚠️ This family's weight **swings by year** - light in some papers, heavy in others (e.g., the 2026
-  paper leaned toward motion/geometry). Broad competence beats specialising.
+- ⚠️ This family is relatively stable in the audited sample: 7/80 in 2024, 6/80 in 2025, and a
+  provisional 8/80 in 2026. Broad competence still beats specialising.
 - ⚠️ Recurring shapes: **time-work / pipes**, **speed-distance and trains/boats**, **clocks
   (coincidence/angle)**, **calendars (odd days)**, and **cube-cutting / mensuration counts**.
 - ⚠️ The papers reward the **rate-per-cycle** and **relative-speed** reductions; brute simulation is
@@ -121,7 +122,7 @@ speed `= 25 - 5 = 20 m/s`; time `= 200/20 =` **10 s.** *(Verified.)*
 
 ## 10. Study links
 
-- ✅ Foundation companion: `basic/04_Rates-Motion-Time-and-Geometry.md`.
-- ✅ `advanced/03_Arithmetic-and-Commercial-Math.md` - averages/ratios underpin average speed.
-- ✅ `advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md` - cube counts overlap with
+- ✅ [Foundation companion](../basic/04_Rates-Motion-Time-and-Geometry.md).
+- ✅ [Arithmetic and Commercial Math](./03_Arithmetic-and-Commercial-Math.md) - averages/ratios underpin average speed.
+- ✅ [Logical Reasoning, Coding, Counting and DI](./06_Logical-Reasoning-Coding-Counting-and-DI.md) - cube counts overlap with
   combinatorial counting.

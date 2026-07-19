@@ -103,6 +103,11 @@ Cybersecurity asks: "Was the system protected against attack, breach or disrupti
 
 ## 9. PYQ application
 
+- ✅ **2024 GS-III direct PYQ:** “Describe the context and salient features
+  of the Digital Personal Data Protection Act, 2023.” Keep privacy-law actors
+  distinct from CERT-In/NCIIPC cybersecurity roles. Exact route:
+  `../README.md`.
+
 - ⚠️ Prelims is likely to test **actor-matching**: Data Principal/Data Fiduciary/Consent Manager/Board versus CERT-In/NCIIPC.
 - ⚠️ Statement questions may ask whether DPDP is a privacy law or a cybersecurity law; always separate them first.
 - ⚠️ Mains answers become stronger when they show that privacy governance and cyber resilience are complementary but legally distinct.

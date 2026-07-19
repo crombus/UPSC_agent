@@ -58,3 +58,18 @@
 - `notes/Economy/PYQ_Prelims_Economy_2026.md`
 - `notes/Economy/PYQ_Mains_Economy_2024-2025.md`
 
+## Direct recent-PYQ routing audit
+
+| Year / paper | Exact tested hook | Route |
+|---|---|---|
+| 2024 Prelims Q53 | Digital rupee: sovereign RBI liability, convertible with bank money/cash, not inflation-insured | `basic/24`, `advanced/24` |
+| 2024 Prelims Q85 | Annual Financial Statement is laid on behalf of the President; demands for grants need the President's recommendation | `basic/09`, `advanced/09` |
+| 2025 Prelims Q10 | Capital receipts create liability/reduce assets; borrowings and disinvestment qualify, interest receipts do not | `basic/09`, `advanced/09` |
+| 2025 Prelims Q61/Q65 | Revenue, fiscal and primary-deficit calculation; gross primary deficit excludes interest payments | `basic/09`, `advanced/09` |
+| 2025 Prelims Q66 | Fifteenth Finance Commission: 41% devolution and tested grant/tax-effort propositions | `basic/10`, `advanced/10` |
+| 2025 Prelims Q68/Q69 | RTGS versus NEFT; UPI international merchant-payment coverage in the paper's dated context | `basic/07`, `basic/24` and companions |
+| 2026 Prelims Q2 (**provisional key**) | Hilton-Young Commission and the fixed rupee-sterling rate | `basic/04`, `advanced/04` |
+| 2026 Prelims Q90/Q93 (**provisional key**) | UPI versus digital rupee; M1xchange as a TReDS invoice-discounting platform | `basic/24`, `advanced/24` |
+
+> **2026 status:** questions/answers are from the official UPSC **provisional** Series-A
+> key; retain that label until a final key is available.

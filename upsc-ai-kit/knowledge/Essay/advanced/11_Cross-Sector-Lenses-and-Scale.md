@@ -154,7 +154,7 @@ response) and state explicitly how the first lens's outcome becomes the
 second's condition.
 
 **Transfer task:** Repeat the same two-lens interaction exercise for
-2024-B1 (FOMO) using Section 6's worked technology→society→governance
+2024-B5 (FOMO) using Section 6's worked technology→society→governance
 chain as a model, and check whether your own chain passes the
 counterfactual test in Section 8; log any artificial links in `16`'s
 error log.

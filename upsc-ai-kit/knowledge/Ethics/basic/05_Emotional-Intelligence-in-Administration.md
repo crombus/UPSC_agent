@@ -87,6 +87,13 @@ under pressure, crisis and competing personal-professional demands.
 
 ## 7. PYQ application
 
+- ✅ **2013 GS-IV:** "What do you understand by 'emotional intelligence' and
+  how can it be developed in people? How does it help an individual in taking
+  ethical decisions?" — use definition → development → ethical-decision
+  mechanism.
+- ✅ **2020 GS-IV:** "What are the main components of emotional intelligence
+  (EI)? Can they be learned? Discuss." — use Goleman's five-component model,
+  then show trainability through reflection, feedback and repeated practice.
 - ✅ 2025 GS-IV Case Study Q7 (DC Vijay, disaster relief amid personal bereavement) is the clearest
   recent example of an EI-centred case study — testing self-regulation, motivation and duty amid
   acute personal grief.

@@ -38,17 +38,15 @@ steps will be.
 
 - 2024 instruction (exact): "Write two essays, choosing one topic from
   each of the following Sections A and B, in about 1000-1200 words
-  each:" — printed with "(125 × 2 = 250)." Section B **restarts its own
-  numbering at 1–4**.
-- 2025 instruction (exact, including its own printed defect): "Write two
-  essays, choosing one topic from each of the following Sections A as in
-  about 1000 – 1200 words each:" — Section B in 2025 **continues
-  numbering at 5–8** rather than restarting.
+  each:" — printed with "(125 × 2 = 250)." Section B continues numbering
+  at 5–8.
+- 2025 instruction: "Write two essays, choosing one topic from each of
+  the following Sections A and B, in about 1000-1200 words each:"
 - Both years display **four prompts per Section**, and require **one
   topic chosen from each Section** — never two from the same Section.
 - Neither year's paper names an author for any prompt, and neither
   supplies a marking rubric beyond the word-count/marks instruction
-  above. See `../README.md` for full verbatim text of all 16 prompts.
+  above. See `../PYQ-Corpus-2013-2025.md` for all 100 prompts.
 
 ## 4. The central idea and common misreading
 

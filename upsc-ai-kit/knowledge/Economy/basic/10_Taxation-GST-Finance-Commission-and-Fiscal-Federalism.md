@@ -102,6 +102,14 @@ who spends and who is accountable for outcomes.
 - 📰 Economic Survey 2025-26 highlights stronger direct-tax compliance; do not quote the
   return-count comparison without its underlying periods.
 - 📰 Revenue receipts averaged 9.1% of GDP in FY22-FY25, compared with 8.5% in FY16-FY20.
+- 📰 The **Income-tax Act, 2025** replaced the 1961 Act from **1 April 2026**;
+  the Income-tax Rules, 2026 and redesigned forms were notified in March 2026.
+  This is a simplification/administration update, not evidence that tax rates
+  changed automatically. [PIB source](https://pib.gov.in/PressReleasePage.aspx?PRID=2248005).
+- 📰 The **Sixteenth Finance Commission** award covers 2026-27 to 2030-31.
+  The accepted vertical share remains **41% of the divisible pool**; use the
+  report/action-taken memorandum for horizontal criteria and grants.
+  [Official action-taken memorandum](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/16fc-EM.pdf).
 
 ⚠️ **Interpretation caution:** A formally uniform rate can have unequal incidence because
 consumption baskets, informality and state fiscal capacity differ.
@@ -112,6 +120,9 @@ consumption baskets, informality and state fiscal capacity differ.
   concepts.
 - ⚠️ 2025 GS-III Fiscal Health Index invites comparison of state revenue effort and
   expenditure quality.
+- ✅ **2025 Prelims Q66:** directly tested Fifteenth Finance Commission
+  propositions—41% (not 45%) devolution, education/agriculture-performance
+  grants and reintroduced tax effort. See `../README.md`.
 
 ## 10. Mains angles
 

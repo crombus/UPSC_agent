@@ -47,8 +47,10 @@ zones, chaired by **Union Home Minister**; **NEC = 1971 Act**.
 - ✅ Concurrent conflict → **Central law prevails** (unless state law got President's assent).
 
 ## 📰 Current link
-📰 ✅ **16th Finance Commission** — Chair **Arvind Panagariya**, award period **2026-31**, report due **Oct
-2025**. 📰 ⚠️ **GST Council** recommendations are **persuasive, not binding** (*Mohit Minerals*, 2022) &
+📰 ✅ **16th Finance Commission** — Chair **Arvind Panagariya**; report submitted **17 Nov 2025**;
+recommendations cover **2026-31** and took effect from **1 Apr 2026**. The government retained
+vertical devolution at **41%** and accepted a horizontal formula including **Contribution to GDP (10%)**.
+📰 ⚠️ **GST Council** recommendations are **persuasive, not binding** (*Mohit Minerals*, 2022) &
 Governor-assent delays (TN/Kerala 2023-24) keep Centre-state relations topical.
 
 ➡️ For all articles, tribunal list, Inter-State Council composition & traps → `advanced/13_Centre-State-and-Inter-State-Relations.md`.

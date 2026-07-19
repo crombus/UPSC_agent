@@ -161,8 +161,12 @@ Indian Coast Guard have separate administrative arrangements.
 
 ## 9. PYQ application
 
-- ⚠️ No GS-III Mains question in the audited 2024-2025 papers names
-  security forces/agencies directly, but this topic is the directly
+- ✅ **2023 GS-III:** "What are the internal security challenges being
+  faced by India? Give out the role of Central Intelligence and
+  Investigative Agencies tasked to counter such threats." — map each
+  challenge to collection, sharing, data integration, investigation and
+  prosecution; do not conflate IB/MAC/NATGRID/NIA.
+- ⚠️ No 2024-2025 question names security forces/agencies directly, but this topic is the directly
   listed GS-III syllabus area ("various security forces and agencies and
   their mandate") and supplies the institutional-mandate component of
   2025 Q9 (State counter-measures against terrorism), 2024 Q19 (BSF/ITBP/

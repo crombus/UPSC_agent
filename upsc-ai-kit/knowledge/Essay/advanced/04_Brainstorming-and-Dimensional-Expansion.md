@@ -54,7 +54,7 @@ separately — this avoids a combinatorial explosion of thin dimensions.
 
 ## 5. Stakeholder map and distributional effects
 
-⚠️ For prompts with a clear social dimension (2024-B1 FOMO, 2025-A1 truth/
+⚠️ For prompts with a clear social dimension (2024-B5 FOMO, 2025-A1 truth/
 color, 2025-B8 contentment/luxury), an advanced expansion should include
 at least one **distributional** dimension: who benefits and who bears
 the cost of the phenomenon described, disaggregated by at least one
@@ -92,7 +92,7 @@ duplicate-claim check under time pressure.
 1000–1200 words when each is developed with mechanism and illustration;
 more dimensions are not necessary and often reduce quality by forcing
 shallower treatment of each. **Exception:** a prompt with an unusually
-rich distributional structure (e.g. 2024-B1) may sustain more dimensions
+rich distributional structure (e.g. 2024-B5) may sustain more dimensions
 if each remains genuinely distinct and well-developed.
 
 ## 8. Paradox, dialectic and counterfactual test

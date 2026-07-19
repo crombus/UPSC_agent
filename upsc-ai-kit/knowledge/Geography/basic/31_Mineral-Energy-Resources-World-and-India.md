@@ -104,6 +104,12 @@
 - ⚠️ Recurring Prelims theme: classify resources as **ferrous / non-ferrous / non-metallic / energy**.
 - ⚠️ Recurring Prelims theme: pair a resource with the right **geological setting**.
 - ⚠️ Recurring GS-I/GS-III theme: explain how resource distribution influences **industrial regions, trade routes and strategic vulnerability**.
+- ✅ **2025 GS-I direct PYQs:** (i) ecological/economic benefits of solar
+  generation in India; (ii) geographic distribution of **offshore oil** and
+  how it differs from onshore occurrence.
+- ⚠️ Offshore petroleum clusters on submerged continental-margin sedimentary
+  basins with source/reservoir/seal structures; onshore reserves occur in
+  terrestrial sedimentary basins. Exact route: `../README.md`.
 
 ## 10. 📰 Current link
 

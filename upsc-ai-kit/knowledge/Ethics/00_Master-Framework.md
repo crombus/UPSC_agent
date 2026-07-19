@@ -83,4 +83,6 @@ institutional/legal lens (Nolan principles, codes, RTI, PC Act — see `09`, `15
 3. **Build the public-service ethic:** `09`-`12` (cross-link `Polity/advanced/37,38,41`).
 4. **Build administrative-ethics fluency:** `13`-`18`.
 5. **Build the anti-corruption architecture:** `19`-`21`.
-6. **Convert to answers:** `22`-`23`, then time-box practice against the 2024-2025 PYQ patterns.
+6. **Convert to answers:** `22`-`23`, then time-box practice against the
+   verified 2013-2025 direct-question routes, giving greatest weight to the
+   complete 2024-2025 recent corpus.

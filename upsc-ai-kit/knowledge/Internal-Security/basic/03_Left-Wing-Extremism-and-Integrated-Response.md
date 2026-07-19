@@ -168,14 +168,20 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
 - 📰 MHA's Rajya Sabha reply of **4 February 2026** reports a **73% decline
   in LWE violence and an 86% decline in deaths since 2010**, with the
   footprint reducing from **126 districts in 2013 to 38 in 2024**,
-  alongside the stated objective of eliminating LWE by 31 March 2026.
-  ⚠️ An announced elimination *target* is not the same as *verified
-  elimination*; state the target and the reply's own figures exactly as
-  the official source frames them, and do not claim the objective has
-  been achieved merely because the target date has arrived.
+  alongside the then-stated objective of eliminating LWE by 31 March 2026.
+- 📰 PIB's **June 2026 "Naxal-Free India"** explainer subsequently
+  describes India as **"effectively free from Left-Wing Extremism"** after
+  31 March 2026. Preserve that exact qualification: it records the
+  Government's post-deadline assessment, not a claim of literally zero
+  incidents or completed root-cause resolution.
 
 ## 9. PYQ application
 
+- ✅ **2020 GS-III:** "What are the determinants of left-wing extremism in
+  the Eastern part of India? What strategy should the Government of India,
+  civil administration and security forces adopt to counter the threat in
+  the affected areas?" — organise causes first, then assign distinct roles
+  to political executive, civil administration and security forces.
 - 📰 **2025 Q10 (verbatim, local paper text reproduced verbatim):** "The
   Government of India recently stated that Left Wing Extremism (LWE) will
   be eliminated by 2026. What do you understand by LWE and how are the
@@ -185,8 +191,8 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
     impact (denial of development, displacement, extortion economy,
     targeting of infrastructure) → cite the three-part strategy (security,
     development, psychological/trust) → anchor "measures taken" in the
-    current schemes and the 4 February 2026 parliamentary reply → state the
-    2026 target honestly as an objective, not a confirmed achievement.
+    current schemes, the 4 February baseline and the qualified June 2026
+    post-deadline assessment.
 
 ## 10. Mains angles
 

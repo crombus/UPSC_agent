@@ -144,6 +144,11 @@ hazardous waste streams) have struggled to replicate.
 
 ## 10. 📰 Current anchor — analytical use
 
+📰 **CBD COP16 (Cali 2024/resumed Rome 2025)** operationalised DSI
+benefit-sharing through the Cali Fund and completed finance/KMGBF-monitoring
+decisions. Distinguish adopted mechanisms from pending national delivery.
+[CBD source](https://www.cbd.int/article/cop16-resumed-session-closing-2025).
+
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 CBD Kunming-Montreal Global Biodiversity Framework (CBD COP15, 2022), including the 30x30 target, remains the current global biodiversity policy reference (verify India-specific progress reporting against the latest National Biodiversity Strategy and Action Plan update before citing specific figures). | Use as the current comparator case for a "diffuse problem, harder to bind" convention, contrasted against the Montreal Protocol's "bounded problem, easier to bind" success case. |

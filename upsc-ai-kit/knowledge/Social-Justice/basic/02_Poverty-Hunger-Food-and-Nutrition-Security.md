@@ -189,6 +189,15 @@ alone.
      convergence (sanitation-nutrition link).
   4. Conclude with the multi-sectoral, convergence imperative.
 
+- ✅ **2025 GS-II Q16 (15 marks, 250 words):** “With the growing inequality in the
+  ownership pattern of resources, the paradox of poverty in the midst of plenty is
+  becoming more and more evident in India. Critically comment.” Use the loop: unequal
+  land/assets/credit/digital access -> unequal opportunity and bargaining power -> low
+  capability/income -> weak saving and asset formation -> inherited inequality. A
+  critical-comment answer should test this explanation against joblessness, unequal
+  public-service access and implementation failures, then distinguish redistribution
+  of productive assets from consumption relief.
+
 ## 10. Mains angles
 
 - ⚠️ Use the vicious-cycle diagram as the default framing for any poverty-nutrition
@@ -211,6 +220,9 @@ alone.
 - ✅ **Mains (10 marks, 2024 Q7):** Poverty and malnutrition create a vicious cycle,
   adversely affecting human capital formation. What steps can be taken to break
   the cycle?
+- ✅ **Mains (15 marks, 2025 GS-II Q16):** “With the growing inequality in the
+  ownership pattern of resources, the paradox of poverty in the midst of plenty is
+  becoming more and more evident in India. Critically comment.”
 - ⚠️ **Prelims:** Which scheme enables inter-state portability of NFSA entitlements
   using Aadhaar-seeded ration cards — ONORC, PM POSHAN, Poshan 2.0 or NFHS?
 - ⚠️ **Mains (15 marks):** "Food security is necessary but not sufficient for

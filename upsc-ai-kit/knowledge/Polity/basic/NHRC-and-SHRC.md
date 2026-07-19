@@ -28,6 +28,8 @@ Each state has an **SHRC** for State/Concurrent List matters.
 - ✅ **Human Rights Courts** in each district (with HC Chief Justice's concurrence).
 
 ## 📰 Current link
-📰 **GANHRI recommended downgrading NHRC from "A" to "B"** (independence/pluralism/police-investigator concerns);
-final review **postponed to Nov 2026** — a downgrade would cost UN HRC voting rights. Feeds the "toothless
+📰 **GANHRI recommended downgrading NHRC from "A" to "B"** (independence/pluralism/police-investigator
+concerns); final review **postponed to Nov 2026**. A downgrade would remove A-status independent
+speaking/written-submission privileges at the UN Human Rights Council and GANHRI governance rights;
+NHRIs never vote in the Council, where voting belongs to member states. This feeds the "toothless
 watchdog" reform debate.

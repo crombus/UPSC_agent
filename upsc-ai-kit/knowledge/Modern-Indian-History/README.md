@@ -57,6 +57,12 @@
 | 37 | The Rajiv Years & the Run-up to the Millennium | Post-Independence |
 | 38 | Economy, Land, Society & State: A Post-Independence Synthesis | Post-Independence |
 
+## Recent exact PYQ routes
+
+- **2024 GS-I:** “What were the events that led to the Quit India Movement? Point out its results. (Answer in 150 words)” → primary answer: `advanced/25_WWII-Cripps-Mission-and-Quit-India.md`; post-war result chain: `advanced/26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md`.
+- **2024 GS-I:** “How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India? (Answer in 250 words)” → primary Indian causal assessment: `advanced/07_Economic-Impact-of-British-Rule.md`; English industrial mechanism only: `World-History/advanced/04_Industrial-Revolution.md`; craft-form support only: `Indian-Art-and-Culture/advanced/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`.
+- **Boundary:** World History explains English industrialisation; Modern Indian History owns colonial policy, deindustrialisation and the “how far” verdict. Art & Culture does not own the economic-causation answer.
+
 > **Topics 29–38 (Post-Independence India, 1947–2000)** are grounded in Bipan Chandra, Mridula Mukherjee & Aditya Mukherjee, *India After Independence, 1947–2000*. They carry the GS-I "post-independence consolidation and reorganisation within the country" line. Detailed constitutional doctrine (Polity), economic mechanics (Economy), foreign-policy doctrine (IR), sociological theory (Indian Society), governance toolkits (Governance), welfare architecture (Social Justice) and security doctrine (Internal Security) are cross-linked, not duplicated.
 
 ## Source books

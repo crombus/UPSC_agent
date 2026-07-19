@@ -183,6 +183,15 @@ VisionIAS, PDF p. 3).
 
 ## 9. PYQ application
 
+- ✅ **2019 GS-III:** "What is CyberDome Project? Explain how it can be
+  useful in controlling internet crimes in India." — use it as a
+  state-level public-private coordination application, not a substitute
+  for national architecture.
+- ✅ **2022 GS-III:** "What are the different elements of cyber security?
+  Keeping in view the challenges in cyber security, examine the extent to
+  which India has successfully developed a comprehensive National Cyber
+  Security Strategy." — distinguish elements, architecture and the
+  unresolved strategy-integration test.
 - 📰 **2024 Q10 (verbatim):** "Describe the context and salient features
   of the Digital Personal Data Protection Act, 2023."
   - Structure: state the context (a long-pending comprehensive data-

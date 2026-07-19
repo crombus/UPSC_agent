@@ -27,6 +27,7 @@ answers should aspire to.
 | ✅ India's 100th Ramsar site (5 June 2026, PIB PRID 2269208) | Combine with Topic 07 (Ramsar mechanism/Montreux Record) and Topic 14 (wetland water-quality governance) for an integrated wetland-policy answer. |
 | ✅ 58th Tiger Reserve (Madhav, March 2025) | Combine with Topic 06 (protected-area hierarchy) and Topic 05 (IUCN/endemism) for an integrated species-conservation-governance answer. |
 | ✅ COP29/COP30 NCQG outcome | Combine with Topic 19 (UNFCCC architecture) and Topic 20 (India's Panchamrit/LT-LEDS finance-conditionality) for an integrated climate-diplomacy answer. |
+| ✅ CBD COP16/Cali Fund (2024-25) | Combine with Topic 22 (CBD/KMGBF) and Topic 04 (genetic diversity) to explain DSI benefit-sharing and implementation finance. |
 | ✅ ISFR 2023 forest-cover data | Combine with Topic 03 (successional-quality critique) and Topic 12 (CAMPA/GIM implementation-gap critique) for an integrated forest-governance answer. |
 
 ⚠️ **Analytical point:** the highest-scoring Mains answers in this subject typically weave

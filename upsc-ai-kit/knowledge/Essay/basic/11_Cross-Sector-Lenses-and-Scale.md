@@ -38,7 +38,7 @@ itself — each lens points to the owning subject module for depth.
   lens selection is entirely the candidate's own analytical choice (see
   `../README.md`).
 - ⚠️ The lens list and scale-matching guidance below are pedagogical
-  tools built from this folder's own reading of the 16 prompts, not an
+  tools built from this folder's own reading of the 16 recent prompts, not an
   official requirement.
 
 ## 4. The central idea and common misreading

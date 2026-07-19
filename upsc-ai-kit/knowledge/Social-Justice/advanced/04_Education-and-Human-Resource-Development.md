@@ -123,9 +123,10 @@ productive capability.
 
 ## 5. Indian applications and boundary cases
 
-- ⚠️ **ASER 2022-23 findings:** Illustrative data on FLN gaps; cite the specific
-  year and finding (e.g., "X% of Grade 5 children could read a Grade 2-level
-  text") with the survey year noted.
+- 📰 **ASER 2024 findings:** This non-government, rural household survey recorded
+  recovery from 2022 but a continuing FLN deficit; **23.4%** of government-school
+  Standard III children could read a Standard II text. Cite the round, school type,
+  class and competency together.
 - ⚠️ **25% EWS reservation implementation:** Uneven across states; challenges
   include delayed reimbursements, documentation barriers, private-school
   resistance, and quality of experience for EWS children — a boundary case
@@ -175,10 +176,10 @@ productive capability.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **ASER:** The Annual Status of Education Report is published periodically and
-  documents FLN gaps at district/state level. No specific year's percentage is
-  asserted here because each round updates the figures; ASER is the durable
-  household-survey source for foundational-learning-outcome data.
+- 📰 **ASER 2024:** The latest national foundational-learning round as of July 2026
+  documents post-2022 recovery alongside large residual gaps. It is a non-government,
+  rural household survey, so its learning measures should not be described as school
+  administrative data or silently generalised to urban India.
 - 📰 **AISHE:** GER in higher education is published annually by AISHE. No
   specific percentage is asserted here because each round updates the figure;
   AISHE is the durable official annual source for higher-education GER.

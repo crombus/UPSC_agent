@@ -30,7 +30,8 @@ existence depends on the Assembly.
 - ✅ 6 bicameral states (mnemonic: **KATBUM** — Karnataka, AP, Telangana, Bihar, UP, Maharashtra).
 - ✅ CoM is responsible **only to the Assembly**.
 - ✅ Council members elected by **STV proportional representation**.
-- ✅ Delimitation frozen at 1971 census till **2026** (84th Amdt).
+- ✅ Readjustment remains deferred until relevant figures of the **first census taken after 2026
+  have been published** (84th Amdt); there is no automatic 2026 delimitation.
 
 ## 📰 Current link
 📰 ⚠️ Proposals to **create or abolish Legislative Councils** keep resurfacing in various states — a live

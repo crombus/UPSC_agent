@@ -131,6 +131,11 @@ their source and date rather than assuming large-scale current deployment.
 
 ## 9. PYQ application
 
+- ✅ **2025 GS-III direct PYQ:** “What is Carbon Capture, Utilization and
+  Storage (CCUS)? What is the potential role of CCUS in tackling climate
+  change?” Keep point-source capture distinct from DAC and distinguish
+  emissions avoidance from removal. Exact route: `../README.md`.
+
 - ⚠️ Recurring Prelims pattern: distinguish CCUS from Direct Air Capture by capture-source
   and relative energy intensity, and identify the Indian Carbon Market's legal basis.
 - ⚠️ Mains linkage: the hard-to-abate-sector rationale is used to argue for CCUS/DAC as

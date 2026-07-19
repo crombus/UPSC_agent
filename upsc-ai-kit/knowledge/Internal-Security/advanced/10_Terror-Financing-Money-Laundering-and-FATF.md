@@ -195,8 +195,11 @@ efficiency) address the wrong bottleneck.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ No GS-III Mains question in the audited 2024-2025 papers directly
-  names FATF or terror financing. An advanced answer using this topic as
+- ✅ **2021 GS-III money-laundering PYQ** requires a channel-to-measure
+  match: virtual assets, instant cross-border transfers and shell entities
+  should be paired with technology capacity, beneficial-ownership
+  transparency, FIU cooperation and FATF standards.
+- ⚠️ No 2024-2025 question directly names FATF or terror financing. An advanced answer using this topic as
   the financial-mechanism component of 2025 Q9 (terrorism) or 2024 Q9
   (narco-terrorism, topic 11) should: (i) name the specific laundering
   stage/channel involved; (ii) cite the June 2024 FATF evaluation's

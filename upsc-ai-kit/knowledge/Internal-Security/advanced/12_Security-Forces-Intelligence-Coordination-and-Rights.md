@@ -195,8 +195,11 @@ examine India's security-forces architecture" question.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ No GS-III Mains question in the audited 2024-2025 papers names
-  security forces/agencies directly, but this topic supplies the
+- ✅ **2023 GS-III agencies PYQ** directly tests internal-security
+  challenges and the role of Central Intelligence and Investigative
+  Agencies. Structure by function: collection → sharing → data integration
+  → investigation → prosecution, then diagnose coordination/accountability.
+- ⚠️ No 2024-2025 question names security forces/agencies directly, but this topic supplies the
   institutional-mandate depth for 2025 Q9's "counter measures adopted by
   the State," 2024 Q19's force-component (BSF/ITBP/Assam Rifles) and 2025
   Q20's Coast Guard/Navy/Marine Police component. An advanced answer

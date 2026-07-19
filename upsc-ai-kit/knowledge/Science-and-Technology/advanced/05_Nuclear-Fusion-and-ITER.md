@@ -113,6 +113,11 @@ DEMO-like future systems = later power-generation ambition
 
 ## 10. PYQ application
 
+- ✅ **2025 GS-III direct PYQ:** evolution of India's fusion programme,
+  India's contributions to ITER and implications of success for global energy.
+  Keep project success distinct from immediate commercial electricity; exact
+  route: `../README.md`.
+
 - ⚠️ Advanced Prelims can use fusion to test disciplined distinction-making rather than deep equations.
 - ⚠️ Mains questions may ask whether frontier research deserves public funding when returns are uncertain; a balanced answer should emphasise technology spillovers and long-term strategic learning.
 - ⚠️ Good answers distinguish “promising”, “experimental” and “commercially available” very carefully.
@@ -139,4 +144,3 @@ DEMO-like future systems = later power-generation ambition
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` - high-end research infrastructure and computation linkages.
 - ✅ `16_Nanotechnology-and-Applications.md` - superconductors, materials stress and enabling technologies.
 - ✅ `20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md` - long-horizon energy and strategic-technology context.
-

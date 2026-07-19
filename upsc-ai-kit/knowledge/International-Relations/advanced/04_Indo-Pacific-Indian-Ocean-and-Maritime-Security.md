@@ -197,6 +197,9 @@ India — holds an uncontested security-guarantor position.
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2020 Quad cross-route:** evaluate maritime-security cooperation and
+  widening functional agendas, but route the alliance/trade-bloc taxonomy
+  correction to topic `10`.
 - ✅ **2024 Q20 (direct):** *Discuss the geopolitical and geostrategic
   importance of Maldives for India with a focus on global trade and energy
   flows. Further also discuss how this relationship affects India's maritime

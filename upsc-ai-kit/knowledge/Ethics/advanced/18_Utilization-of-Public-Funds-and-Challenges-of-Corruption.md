@@ -157,11 +157,11 @@ conflated with bribery alone.
   weaknesses (excessive annual "rate contract" extensions, negotiated multi-bidder splits) than
   Union-level procurement.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Continuing digitisation of government e-procurement (e.g., centralised e-tendering/e-marketplace platforms, an established, ongoing direction of Indian public procurement reform) | Illustrates a contemporary extension of the ARC's IT-enabled-procurement recommendation, useful for updating Mains answers beyond the 2007-era diagnosis. |
+| ⚠️ Government e-procurement and e-marketplace platforms | Illustrate a contemporary extension of the ARC's IT-enabled-procurement recommendation; cite a dated GeM/procurement report before using current scale or savings claims. |
 
 ## 10. PYQ-based analytical application
 

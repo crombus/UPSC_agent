@@ -102,6 +102,24 @@
   dynamics, Great Nicobar development, industrial-corridor and space-programme milestones) are
   carried inside the individual topic files' "Current link" sections with their own source and
   date rather than restated here.
+- 📰 **Census 2027 is scheduled, not completed:** the general reference date is
+  1 March 2027 (1 October 2026 for specified snow-bound areas). Census 2011
+  remains the latest completed all-India baseline at this cutoff.
+
+## Direct 2024-2025 Geography Mains routing
+
+| Paper | Exact tested demand | Route |
+|---|---|---|
+| 2024 GS-I | Gangetic-valley groundwater decline and its food-security effect | `basic/04`, `advanced/04` |
+| 2024 GS-I | Regional disparity; distinction from diversity; seriousness in India | `advanced/29` |
+| 2025 GS-I | Non-farm primary activities and their relation to physiography | `basic/30`, `advanced/30` |
+| 2025 GS-I | Ecological and economic benefits of solar-energy generation | `basic/31`, `advanced/31` |
+| 2025 GS-I | Tsunami formation, location and consequences | `basic/03`, `advanced/03` |
+| 2025 GS-I | Geographic distribution of offshore oil and contrast with onshore occurrence | `basic/31`, `advanced/31` |
+| 2025 GS-III | Seawater intrusion in coastal aquifers: causes and remedies | `basic/04`, `advanced/04` |
+
+Source wording is reproduced from the locally audited official-paper text; use
+this table for routing rather than duplicating questions across unrelated topics.
 
 ## Source references
 

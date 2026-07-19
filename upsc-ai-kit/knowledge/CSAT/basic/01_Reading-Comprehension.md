@@ -1,10 +1,11 @@
 # Reading Comprehension - MUST-DO
 
-> **Subject:** CSAT | **Tier:** Must-Do (foundation) | **Family:** Comprehension (largest CSAT family).
+> **Subject:** CSAT | **Tier:** Must-Do (foundation) | **Family:** Comprehension (largest three-year family).
 > **Core skill:** answer strictly from the passage - central idea, inference, assumption, tone/scope.
-> **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A) - passage items dominate every year.
+> **Grounded in:** audited UPSC CSAT PYQ sets 2024-2026 (Set A) - the largest family in each audited
+> year, including the provisional 2026 classification.
 > ✅ = method fact / source-grounded | ⚠️ = analytical guidance | 📝 = original example (not a UPSC item).
-> *Companion: `advanced/01_Reading-Comprehension.md`.*
+> *Companion: [Advanced Drill](../advanced/01_Reading-Comprehension.md).*
 
 ---
 
@@ -173,8 +174,8 @@ contradicts "necessary"; (b) fixes on one detail; (d) is out-of-passage.
 
 ## 10. Study links
 
-- ✅ Advanced companion: `advanced/01_Reading-Comprehension.md` - two-passage sets, tone/scope, and
+- ✅ [Advanced companion](../advanced/01_Reading-Comprehension.md) - two-passage sets, tone/scope, and
   the negation test under time pressure.
-- ✅ `05_Algebra-Inequalities-and-Data-Sufficiency.md` (basic) - the "is it sufficient?" mindset
+- ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - the "is it sufficient?" mindset
   mirrors "is it supported?" here.
-- ✅ `00_Master-Framework.md` - the passage workflow and the passage-only error code (P).
+- ✅ [Master Framework](../00_Master-Framework.md) - the passage workflow and the passage-only error code (P).

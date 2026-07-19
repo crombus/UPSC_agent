@@ -120,6 +120,11 @@ flagged in various government and independent assessments of river-cleaning miss
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2024 GS-III direct PYQ:** industrial river-water pollution—mitigation
+  measures plus government initiatives. Use source segregation, consent/
+  monitoring, treatment, liability and basin governance; exact route:
+  `../README.md`.
+
 - ⚠️ Prelims questions on Namami Gange's institutional home (Ministry of Jal Shakli/NMCG) and
   its multi-component design should be answered by recalling the full component list, not
   just the infrastructure element.

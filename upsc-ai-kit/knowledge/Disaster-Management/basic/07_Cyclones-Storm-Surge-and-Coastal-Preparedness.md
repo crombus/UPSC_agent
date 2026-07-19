@@ -50,7 +50,9 @@ calm "eye" before decreasing (PDF p. 35).
    zone; surrounding higher-pressure air moves in, warms, moistens and
    rises again, forming clouds; the system grows and an eye forms at the
    low-pressure centre (PDF p. 35).
-2. **India's exposure**: over 8,000 km of east/west coastline faces
+2. **India's exposure**: the official 2025 GIS/HWL remeasurement places
+   India's coastline at **11,098.81 km**. The VisionIAS “over 8,000 km”
+   figure is document-period evidence, not the current baseline. The coast faces
    tropical cyclones, storm surges and heavy rainfall before/after the
    monsoon; post-monsoon cyclones are typically more intense; over 58%
    of Bay of Bengal cyclonic storms approach/cross the east coast in
@@ -141,6 +143,14 @@ calm "eye" before decreasing (PDF p. 35).
 
 ## 9. 📰 Current official anchor
 
+- 📰 **Cyclone Remal (May 2024):** IMD tracked a severe cyclonic storm
+  making landfall between Sagar Island and Khepupara. Official releases
+  document pre-emptive evacuation, NDRF/ICG/Navy readiness and cascading
+  impacts in the Northeast—an applied warning → evacuation → response case.
+  [PIB/IMD case source](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2021706).
+- 📰 **Coastline baseline:** 11,098.81 km after the official 2025
+  remeasurement; this updates exposure/planning baselines but does not itself
+  redraw CRZ HTL boundaries. [PIB source](https://pib.gov.in/PressReleasePage.aspx?PRID=2198800).
 - 📰 **IMD's cyclone bulletin and warning-service pages**, active as of
   the 18 July 2026 research cutoff, are the correct current anchor for
   colour-code issuance practice, current cyclone tracks and any

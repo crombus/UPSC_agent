@@ -2,11 +2,11 @@
 
 > **Subject:** Essay | **Tier:** Advanced | **GS Paper:** Essay (General
 > Studies Paper — Essay, Mains).
-> **Core area:** A full quotation/source-risk ledger for all 16 audited
-> prompts, deeper analytical outlines building on the basic routing
+> **Core area:** A quotation/source-risk rule for the 100-prompt corpus,
+> with deeper analytical outlines for the 16 recent prompts building on the basic routing
 > table, and a spaced-repetition error-log system.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md` for full verbatim text); `../00_Master-Framework.md`
+> **Grounded in:** verified 2013-2025 UPSC Essay corpus (see
+> `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
 > Sections 11, 13.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -17,7 +17,7 @@
 ## 1. Advanced proposition and boundary
 
 **Proposition:** ⚠️ a practice system is only as strong as its feedback
-and spacing discipline — random, unlogged repetition of the same 16
+and spacing discipline — random, unlogged repetition of the same recent 16
 prompts produces familiarity without necessarily producing skill
 transfer to a genuinely new prompt. **Boundary:** ❌ this topic does not
 reintroduce the full routing table (`basic/16` owns it) — it deepens
@@ -31,17 +31,16 @@ supplies the spaced-repetition method.
   synthesis — richer than `basic/16`'s one-line outlines, still not a
   full essay.
 - **Quotation ledger entry:** per-prompt record of attribution status
-  and permissible use, mirroring `09`'s method, specialised to these 16
-  prompts.
+  and permissible use, mirroring `09`'s method, applied to the full corpus.
 - **Spaced reattempt:** a deliberately delayed re-practice of a prompt or
   skill, timed to test retention rather than immediate recall.
 
 ## 3. Tension pairs and hidden assumptions
 
-- **Coverage vs. depth:** the hidden assumption that practising all 16
+- **Coverage vs. depth:** the hidden assumption that practising all recent 16
   prompts once each is sufficient; in fact, revisiting a smaller subset
   multiple times with genuine spacing typically produces more transfer
-  than a single pass through all 16.
+  than a single pass through all recent 16.
 - **Familiarity vs. transfer:** the assumption that being able to recall
   an outline for a specific prompt means the underlying skill (e.g.
   dialectical synthesis, `08`) transfers to an unfamiliar prompt; this
@@ -67,14 +66,14 @@ resemble the neglected set.
 
 | Prompt label | Printed author? | Permissible use | Verification needed for attribution |
 |---|---|---|---|
-| All 16 prompts (2024-A1–B4, 2025-A1–B8) | No — confirmed unattributed in both source papers (`../README.md`) | Quote exactly as printed, or paraphrase faithfully in essay prose | Would require a primary/authoritative source before attaching any author; none has been used in this folder |
+| 100 prompts (2013-2025) | Use only the attribution printed in `../PYQ-Corpus-2013-2025.md`; the 2024-2025 prompts are unattributed | Quote the verified ledger or paraphrase faithfully | Any added attribution requires a primary/authoritative source |
 
 ```text
 BEFORE using any prompt-derived quotation in a live attempt:
         |
         v
-IS IT ONE OF THE 16 AUDITED PROMPTS?
-   yes -> quote/paraphrase freely, no attribution (table above)
+IS IT IN THE 100-PROMPT VERIFIED LEDGER?
+   yes -> quote/paraphrase the ledger; use only its printed attribution
    no (a different, remembered aphorism) -> apply 09's full ledger:
            verify author/wording via primary source, or use unattributed,
            or omit
@@ -111,7 +110,7 @@ omitting recurring failures defeats the purpose of the error log
 
 ## 10. Evidence/source-risk and India application
 
-✅ The ledger in Section 6 applies uniformly to all 16 audited prompts;
+✅ The ledger in Section 6 applies uniformly to all 100 prompts;
 ✅ every illustration used in practice attempts should also be checked
 against `12`'s claim → example → function → limitation → source-module
 chain, logged as part of the same practice record.
@@ -150,7 +149,7 @@ situation; timely action where inaction itself causes escalating harm.
 - ❌ **Logging errors without spaced reattempt.** → Protocol: schedule a
   reattempt of the logged skill (not necessarily the same prompt) after
   a genuine gap (Section 8).
-- ❌ **Attaching an author to any of the 16 prompts, or to a remembered
+- ❌ **Attaching an author to any of the 16 recent prompts, or to a remembered
   aphorism without verification.** → Protocol: apply Section 6's ledger
   before every use.
 

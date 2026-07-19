@@ -56,7 +56,7 @@ prompt can feel disproportionate.
 
 ## 5. Stakeholder map and distributional effects
 
-⚠️ Where the thesis has a distributional dimension (e.g. 2024-B1 FOMO,
+⚠️ Where the thesis has a distributional dimension (e.g. 2024-B5 FOMO,
 2025-A1 truth/color), the conclusion should explicitly name whose
 responsibility the proposed synthesis assigns (individual, institution,
 state) rather than closing on an unattributed collective "we must" —
@@ -92,7 +92,7 @@ as generic.
 necessary for a strong frame, but neither is individually sufficient —
 an essay can have both, yet still fail if the body's argument-map cycles
 (`05`) do not actually connect the two. **Exception:** for very tightly
-scoped issue-prompts (2024-B1), a slightly more direct, less ambiguous
+scoped issue-prompts (2024-B5), a slightly more direct, less ambiguous
 opening (naming the phenomenon immediately) can work better than an
 elaborately tension-raising one, since the phenomenon itself is already
 concrete.
@@ -150,7 +150,7 @@ proportion guidance: `07`, `13`.
 📰 **Dated anchor:** not applicable — framing technique is stable and
 does not depend on current-affairs content.
 
-**Practice lab:** For 2024-B2 ("power tests character"), write only the
+**Practice lab:** For 2024-B6 ("power tests character"), write only the
 introduction and conclusion (not the body), then check via the Section 8
 counterfactual test whether a reader could infer the argument's shape
 from the frame alone.

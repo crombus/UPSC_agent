@@ -108,6 +108,14 @@ atom -> element -> periodic trends -> bonding -> compounds -> reactions
 
 ## 9. PYQ application
 
+- ✅ **2024 GS-III direct PYQ — freshwater technology:** identify
+  alternatives for clean/safe freshwater and discuss merits/demerits of any
+  three.
+- ✅ Route through reverse osmosis/membranes, thermal or solar desalination,
+  wastewater recycling and advanced adsorption/oxidation; compare energy,
+  brine/concentrate, cost, scale and contaminant removal. Exact route:
+  `../README.md`.
+
 - ⚠️ Prelims frequently tests pH, acid-base behavior and neutralization through everyday examples.
 - ⚠️ Statement-based questions often check ionic vs covalent distinction, oxidation-reduction logic or metallurgy sequence.
 - ⚠️ Polymer questions usually ask about type, use, degradability or environmental implication rather than reaction mechanism.

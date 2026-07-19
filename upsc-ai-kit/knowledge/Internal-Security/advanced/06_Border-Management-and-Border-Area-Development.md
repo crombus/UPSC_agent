@@ -194,11 +194,11 @@ question.
 
 ## 10. PYQ-based analytical application
 
-- ✅ **2024 Q19 (verbatim, local paper text reproduced verbatim):** "India
-  has a long and trobled border with China and pakistan fraught with
+- ✅ **2024 Q19 (corrected against the paper):** "India
+  has a long and troubled border with China and Pakistan fraught with
   contentious issues. Examine the conflicting issues and security
   challenges along the border. Also give out the development Programme
-  (BADP) and Border Infrastructure and management (BM) Scheme."
+  (BADP) and Border Infrastructure and Management (BIM) Scheme."
   - Advanced structure: after the basic-tier neighbour-specific challenge
     map, add (i) the disputed-vs.-settled border distinction (Section 2)
     to structure "conflicting issues" analytically rather than as a

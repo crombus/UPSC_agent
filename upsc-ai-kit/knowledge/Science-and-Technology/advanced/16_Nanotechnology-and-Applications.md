@@ -114,6 +114,10 @@ size control at 1-100 nm
 
 ## 10. PYQ application
 
+- ✅ **2025 GS-III direct PYQ:** nanotechnology's agricultural advances and
+  farmers' socio-economic uplift. Evaluate precision/delivery benefits against
+  cost, toxicity, regulation and unequal access; exact route: `../README.md`.
+
 - ⚠️ Prelims can test exact conceptual distinctions among nanomaterial types and why nanoscale alters properties.
 - ⚠️ GS-III answers can use nanotechnology to discuss strategic manufacturing, public-health technology and water-energy innovation.
 - ⚠️ A higher-quality answer will not oversell nanotech as magic; it will bring in scale-up and safety debates.

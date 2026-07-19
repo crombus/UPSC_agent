@@ -135,11 +135,11 @@ limitation.
   attachment to personal credit/reward for the outcome, not indifference to whether the public
   duty is performed well.
 
-## 9. 📰 Current-anchor application
+## 9. Current application
 
-| Verified current anchor | Topic-specific analytical use |
+| Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Mission Karmayogi/NPCSCB mandates annual iGOT course completion tied to APARs (2025 DoPT order) | Shows the institutional mechanism through which classical value-lessons are now formally assessed in a civil servant's career, not left to informal exemplar-learning alone. |
+| ⚠️ Mission Karmayogi/NPCSCB uses the iGOT platform for competency-based civil-service learning | Shows an institutional channel through which value lessons can be translated into training; do not claim a general APAR linkage without an exact DoPT order and scope. |
 
 ## 10. PYQ-based analytical application
 

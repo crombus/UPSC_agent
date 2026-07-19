@@ -132,6 +132,10 @@ are still nascent at the scale required, a genuine implementation-gap risk worth
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2025 GS-III direct PYQ:** India under Paris/COP26/2022 NDC. Separate
+  announced pledge, formal NDC and domestic implementation evidence; exact
+  route: `../README.md`.
+
 - ⚠️ Prelims questions on Panchamrit should be solved by precisely classifying each pledge's
   target type (absolute/share/intensity/long-term) rather than treating them
   interchangeably.

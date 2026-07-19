@@ -63,7 +63,19 @@
 **Advanced — India's Soil Erosion, Landslides & Groundwater Stress (D.R. Khullar).**
 📰 Joshimath (Uttarakhand) land-subsidence crisis — ISRO/NRSC satellite data showed the town sinking, cracking hundreds of buildings; it exemplifies mass movement on weathered, over-loaded Himalayan slopes (distinct from the Dharali/Katra landslides in the Must-Do note).
 
-## 7. Mains angles
+## 7. Coastal aquifers and direct PYQ routing
+
+- ✅ **2024 GS-I:** Gangetic-valley groundwater decline → falling
+  irrigation reliability, higher pumping cost, crop risk and food-security
+  pressure.
+- ✅ **2025 GS-III:** coastal-aquifer seawater intrusion → excessive pumping
+  and reduced recharge lower freshwater pressure, shifting the saline interface
+  inland/upward.
+- ⚠️ Remedy stack: aquifer mapping/monitoring, pumping caps, managed recharge,
+  rainwater harvesting, efficient irrigation/crop change and protection of
+  recharge zones. Route exact stems through `../README.md`.
+
+## 8. Mains angles
 
 
 **Advanced — India's Soil Erosion, Landslides & Groundwater Stress (D.R. Khullar).**

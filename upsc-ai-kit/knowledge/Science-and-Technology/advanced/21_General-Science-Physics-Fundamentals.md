@@ -103,6 +103,11 @@ basic principle -> device -> system -> industry -> national capability
 
 ## 10. 📰 Current anchor -> analytical use
 
+📰 **Nobel Physics 2024:** Hopfield and Hinton were recognised for
+foundational discoveries enabling machine learning with artificial neural
+networks. Use as the physics-to-AI bridge and cross-link topic 09.
+[Nobel source](https://www.nobelprize.org/prizes/physics/2024/press-release/).
+
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 **03 Oct 2023:** Nobel Prize in Physics for attosecond pulses studying electron dynamics. | Use to show that wave/light physics still drives cutting-edge electronics, spectroscopy and diagnostics. |
@@ -112,6 +117,11 @@ basic principle -> device -> system -> industry -> national capability
 *Current as of 16 Jul 2026; verify for later updates.*
 
 ## 11. PYQ application
+
+- ✅ **2024 GS-III direct PYQ — asteroids/planetary defence:** define
+  asteroids, calibrate extinction risk, then cover NEO detection/orbit
+  determination, warning and conditional deflection options (kinetic impactor,
+  gravity tractor, nuclear contingency). Exact route: `../README.md`.
 
 - ⚠️ Prelims rewards clarity on radioactivity, optical behavior, current-electricity basics and semiconductor distinctions.
 - ⚠️ GS-III answers improve when candidates explain the scientific bottleneck behind a policy ambition instead of merely describing the scheme.

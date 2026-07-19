@@ -127,6 +127,11 @@ broader emissions/removal-crediting mechanism, while maintaining the intensity-b
 
 ## 10. PYQ-based analytical application
 
+- ✅ **2025 GS-III direct PYQ:** define CCUS and assess its potential climate
+  role. Structure the answer around hard-to-abate sectors, storage permanence,
+  energy/cost penalty and the avoidance-versus-removal distinction; exact route:
+  `../README.md`.
+
 - ⚠️ Prelims questions distinguishing CCUS from DAC, or testing the emissions-avoidance-
   versus-negative-emissions distinction, should be solved by applying the point-source-
   versus-ambient-air and avoidance-versus-removal frameworks precisely.

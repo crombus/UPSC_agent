@@ -118,6 +118,11 @@ frequently tested.
 
 ## 8. 📰 Current anchor
 
+- 📰 **UNCCD COP16, Riyadh (December 2024):** advanced negotiations toward
+  a global drought regime and launched the Riyadh Global Drought Resilience
+  Partnership. This is a process/partnership outcome—not a completed binding
+  drought treaty. [UNCCD source](https://www.unccd.int/news-stories/press-releases/global-response-drought-takes-center-stage-un-land-conference-riyadh).
+
 - 📰 India's enhanced land-restoration commitments announced around UNCCD COP14 (New Delhi,
   2019) remain the current reference point for its domestic Land Degradation Neutrality
   target; verify the latest progress-reporting figures against the most recent Department

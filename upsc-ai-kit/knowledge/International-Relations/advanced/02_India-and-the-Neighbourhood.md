@@ -198,10 +198,12 @@ is the recurring test examiners probe.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names the
-  South Asian neighbourhood (Maldives is separately addressed by 2024 Q20 and
-  cross-linked to topic 04). A strong analytical answer on neighbourhood policy
-  should:
+- ✅ **2022 GS-II** on India's role in Sri Lanka's crisis directly tests
+  whether historical friendship converts into timely, credible assistance;
+  separate emergency support from long-term delivery and acknowledge Sri
+  Lankan agency.
+- ⚠️ No 2024-2025 question names the wider neighbourhood (Maldives is
+  separately addressed by 2024 Q20). A strong analytical answer should:
   1. Open with the structural-asymmetry framing.
   2. Distinguish smaller-state and larger-state engagement patterns (Sikri).
   3. Acknowledge the non-interference/historical-involvement tension explicitly.

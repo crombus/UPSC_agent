@@ -120,11 +120,9 @@ India" (PDF p. 13).
   keep the J&K issue alive... and aid the infiltration of terrorists" (PDF
   p. 29) — a recurring cross-border tactic, distinct from routine border
   friction.
-- ❌ **PYQ mapping:** no GS-III Mains question in the audited 2024-2025
-  papers names Jammu & Kashmir specifically. State this honestly; this
-  topic is a high-value component of the general terrorism question (2025
-  Q9) and the general border-security question (2024 Q19), and supplies
-  essential background for any J&K-specific current-affairs question.
+- ✅ **PYQ mapping:** the 2023 "Hearts and Minds" question names conflict
+  resolution in Jammu & Kashmir directly. No 2024-2025 question names J&K;
+  the topic also supports 2025 Q9 (terrorism) and 2024 Q19 (border).
 
 ## 6. Must-Know Facts for Prelims
 
@@ -165,22 +163,22 @@ India" (PDF p. 13).
 
 ## 8. 📰 Current anchor
 
-- 📰 The **2019 reorganisation** of the former State of Jammu & Kashmir
-  into two Union Territories remains the current constitutional starting
-  point for any J&K-related answer; for the precise legal reasoning and
-  the December 2023 Supreme Court judgment upholding the change, route to
-  Polity. This folder's current-anchor discipline requires that any claim
-  about present force levels, infiltration trends or security posture in
-  J&K be drawn from a dated official (MHA/Army/police) release, not
-  inferred from this book.
+- 📰 MHA's **26 February 2026 relief-and-rehabilitation status for Kashmiri
+  migrants** is the current operational anchor for the trust,
+  rehabilitation and return dimension. The 2019 reorganisation and
+  December 2023 Supreme Court judgment remain constitutional reference
+  points whose legal reasoning belongs to Polity.
 
 ## 9. PYQ application
 
-- ⚠️ No GS-III Mains question in the audited 2024-2025 papers names J&K
-  directly. Use this topic's proxy-war framework as background for 2025
-  Q9 (terrorism) and 2024 Q19 (China/Pakistan border), citing J&K
-  specifically as the paradigm case of state-sponsored proxy terrorism
-  when a question invites a "contemporary example."
+- ✅ **2023 GS-III:** "Winning of 'Hearts and Minds' in terrorism-affected
+  areas is an essential step in restoring the trust of the population.
+  Discuss the measures adopted by the Government in this respect as part
+  of the conflict resolution in Jammu and Kashmir." — evaluate security,
+  participation, development, rehabilitation and rights/legitimacy
+  measures separately.
+- ⚠️ No 2024-2025 question names J&K directly; use the proxy-war framework
+  as background for 2025 Q9 and 2024 Q19.
 
 ## 10. Mains angles
 
