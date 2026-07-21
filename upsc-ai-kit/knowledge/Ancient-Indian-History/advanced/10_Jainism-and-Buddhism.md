@@ -14,7 +14,7 @@
 | ✅ Renunciant age | c. 600–200 BCE | Cities, kings and shramana movements |
 | ✅ Buddha's teaching career | c. 6th–5th c. BCE | First sermon near Benaras; Sangha founded |
 | ✅ Jain sectarian development | early historic to early medieval | Shvetambara western India; Digambara south India |
-| 📰 Buddhist heritage diplomacy | 2025 | Buddha Purnima / relic diplomacy / IBC events |
+| ⚠️ Living heritage | contemporary | Pilgrimage, relic circulation and trans-Asian Buddhist networks |
 
 ## 1. Snapshot & core idea
 
@@ -54,6 +54,7 @@
 - ✅ Jain Triratna: right faith, right knowledge, right conduct.
 - ✅ Jain five vows: ahimsa, satya, asteya, brahmacharya, non-possession.
 - ✅ Shvetambaras later predominated in western India; Digambaras in the south.
+- ✅ For source-based Prelims, distinguish Pali epithets: **Shakyamuni** and **Tathagata** refer to the Buddha; **Nigantha Nataputta/Nayaputta** refers to Mahavira.
 - ⚠️ Buddhism's wider spread owed much to monastic organisation and patronage networks.
 
 ## 5. UPSC Traps
@@ -67,7 +68,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Shravanabelagola centenary & UNESCO bid (2025–26):** the **centenary of Acharya Shantisagar Maharaj's 1925 visit** was commemorated at Shravanabelagola (Karnataka), home of the **57-ft Gommateshwara/Bahubali monolith** and traditionally linked to **Chandragupta Maurya's Jain renunciation**; Karnataka has proposed it for the **UNESCO World Heritage** list (2026). Use it for Jainism's living continuity and the **Prakrit classical-language** recognition, a distinct thread from Buddhist heritage.
+⚠️ **Current-link discipline:** Verify commemorations and UNESCO status from official records; a proposal is not inscription on the World Heritage List. The safe linkage is Jainism's living monastic, pilgrimage and ethical continuity.
 
 ## 7. Mains angles
 

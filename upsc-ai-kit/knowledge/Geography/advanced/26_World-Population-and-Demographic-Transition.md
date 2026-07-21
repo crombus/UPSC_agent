@@ -1,7 +1,7 @@
 # World Population and Demographic Transition in India — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + verified Census of India 2011 / SRS 2022 / NFHS-5 / UN World Population Prospects 2024 references.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified Census/SRS/UN current anchor.
 > ✅ = from source book or official source · ⚠️ = inference / standard synthesis · 📰 = current affairs.
 > *Companion: `basic/26_World-Population-and-Demographic-Transition.md`.*
 

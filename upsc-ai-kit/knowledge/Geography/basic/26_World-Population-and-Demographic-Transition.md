@@ -1,7 +1,7 @@
 # World Population and Demographic Transition — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Indian & World Geography* + verified UN World Population Prospects 2024 / Census-SRS references for dated overlay.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-resource context + verified UN/Census-SRS current anchor.
 > ✅ = from source book or official source · ⚠️ = inference / standard synthesis · 📰 = current affairs.
 > *Companion: `advanced/26_World-Population-and-Demographic-Transition.md`.*
 
@@ -9,7 +9,8 @@
 
 ## 1. Population as a geographic variable
 
-✅ Khullar treats population as a core geographic variable because size, growth, composition and distribution shape pressure on land, jobs, housing and services. ✅ A census gives a time-specific demographic snapshot; growth between two dates reflects births, deaths and migration.
+✅ Majid Husain treats population distribution, growth and composition as core human-geography
+variables shaping pressure on land, jobs, housing and services. ✅ A census gives a time-specific demographic snapshot; growth between two dates reflects births, deaths and migration.
 
 | Indicator | What it measures | Why UPSC cares |
 |---|---|---|
@@ -25,7 +26,7 @@
 
 ## 2. Demographic transition model
 
-✅ Khullar notes that India's long-run story broadly fits the demographic-transition idea: first mortality falls, later fertility falls, and growth eventually slows. ⚠️ In standard human geography, the model is used for world comparison.
+✅ India's long-run story broadly fits demographic-transition logic: first mortality falls, later fertility falls, and growth eventually slows. ⚠️ In standard human geography, the model is used for world comparison.
 
 | Stage | Birth rate | Death rate | Growth outcome | Typical social setting |
 |---|---|---|---|---|
@@ -35,7 +36,8 @@
 | ⚠️ Stage 4 | Low | Low | Stable or very slow growth | Mature urban-industrial society |
 | ⚠️ Stage 5 | Very low | Low to moderate | Ageing or decline | Below-replacement fertility in some advanced economies |
 
-✅ Khullar's phased reading of India helps in remembering the logic: stagnation -> steady growth -> population explosion -> slowing growth.
+⚠️ India's familiar phase sequence—stagnation, steady growth, rapid growth and slowdown—is an
+India-specific application, while the table above is the general world model.
 
 ## 3. Population composition and population pyramids
 
@@ -51,7 +53,7 @@
 
 ## 4. Population-resource ideas
 
-✅ Khullar explicitly discusses over-population, under-population and optimum population while explaining migration and development consequences. ⚠️ These are not moral labels; they describe the relationship between people, resources, technology and living standards.
+✅ Majid Husain discusses over-population, under-population and optimum population while explaining migration and development consequences. ⚠️ These are not moral labels; they describe the relationship between people, resources, technology and living standards.
 
 | Idea | Meaning | Exam use |
 |---|---|---|

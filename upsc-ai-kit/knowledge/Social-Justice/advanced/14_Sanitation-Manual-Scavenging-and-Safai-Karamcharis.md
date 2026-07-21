@@ -4,7 +4,8 @@
 > **Core area:** Manual scavenging enforcement failures, mechanisation gaps, caste-labour
 > nexus, institutional limitations.
 > **Grounded in:** PEMSR Act, 2013; Safai Karamchari Andolan v. UoI (2014); NAMASTE
-> (2022-23); NCSK (statutory origin 1993, resolution-continued); audited death/compensation
+> (2022-23); NCSK (statutory origin 1993, resolution-extended through 31 March 2028);
+> audited death/compensation
 > data patterns.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md`.*
@@ -54,8 +55,8 @@ continued body.
 | Concept | Precise meaning |
 |---|---|
 | ✅ **Prohibition vs abolition** | The 2013 Act prohibits (criminalises) employment; abolition would require elimination of the occupation itself — prohibition alone does not ensure abolition if enforcement is weak and alternative livelihoods absent. |
-| ✅ **Insanitary latrine vs septic tank** | Insanitary latrines require direct human removal of excreta (prohibited construction); septic tanks are sealed systems but become hazardous-cleaning sites when manually cleaned without safety gear. |
-| ⚠️ **Statutory body vs resolution-continued body** | A statutory body derives its mandate and tenure from an Act of Parliament; NCSK's statutory tenure under the 1993 Act lapsed, and it now operates via periodic government resolutions — reducing its institutional permanence and enforcement weight. |
+| ✅ **Insanitary latrine vs septic tank** | An insanitary latrine falls within the manual-scavenging definition; a septic tank becomes a hazardous-cleaning site when manually cleaned without the statutory safety equipment/devices/precautions. PPE does not legalise manual scavenging itself. |
+| ⚠️ **Statutory body vs resolution-based body** | A statutory body derives its mandate and tenure from an Act of Parliament; NCSK's statutory tenure under the 1993 Act lapsed. Its current executive-resolution term, extended in February 2025, runs through 31 March 2028 — operational, but not permanent statutory status. |
 | ⚠️ **Mechanisation as substitution vs mechanisation as safety** | Full substitution replaces human entry entirely (robotic sewer cleaners); safety-focused mechanisation provides PPE and equipment to humans who still enter — NAMASTE currently emphasises the latter. |
 | ⚠️ **Rehabilitation vs reparation** | Rehabilitation provides forward-looking livelihood support; reparation would address historical injustice (intergenerational caste-based labour) — Indian policy focuses on rehabilitation, not reparation. |
 
@@ -94,12 +95,12 @@ continued body.
 
 - ✅ **PEMSR Act, 2013:** Central prohibition statute; state governments implement;
   offences carry imprisonment (up to 5 years for subsequent offences) and fines.
-- ✅ **NAMASTE (2022-23):** Successor to SRMS; adds mechanisation, PPE, worker profiling;
-  jointly administered by MoSJE and MoHUA — the first scheme to explicitly focus on
-  mechanised-ecosystem building.
-- ✅ **NCSK:** Monitors safai karamchari welfare; investigates complaints; recommends
-  policy. Institutional limitation: statutory-origin body now continued by resolution,
-  not a standing Act — lacks the permanence and enforcement powers of NCSC/NCST.
+- ✅ **NAMASTE (2022-23):** Joint MoSJE–MoHUA sanitation-safety initiative covering
+  worker profiling, safety training/equipment, mechanised sanitation access, livelihood
+  support and convergence. It complements, rather than replaces, PEMSR prohibition.
+- ✅ **NCSK:** It currently monitors safai karamchari welfare, investigates complaints and
+  recommends policy under a resolution term through 31 March 2028. Its 1993 Act tenure
+  lapsed; it is not a standing statutory or constitutional commission.
 - ⚠️ Recommended reform: re-enact NCSK as a permanent statutory commission with
   quasi-judicial powers, annual reporting to Parliament and power to issue binding
   directions to state governments.
@@ -133,8 +134,8 @@ continued body.
   hazardous cleaning (sewers/septic tanks) as distinct but related offences.
 - ✅ The ₹10 lakh compensation is a Supreme Court direction (2014), not a statutory
   provision of the 2013 Act.
-- ✅ NCSK was established under the NCSK Act, 1993, but that Act's tenure provision
-  lapsed; NCSK continues via government resolution, not standing statutory mandate.
+- ✅ NCSK was established under the NCSK Act, 1993, but that Act's tenure lapsed; its
+  current executive-resolution term is through 31 March 2028, not a standing mandate.
 - ✅ NAMASTE (2022-23) is jointly administered by MoSJE and MoHUA.
 
 ## 8. Advanced Prelims traps
@@ -151,10 +152,10 @@ continued body.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Sewer/septic-tank death counts are compiled by NCSK and civil-society organisations;
-  figures vary by source and reporting period. No fixed number is asserted here because
-  data is contested and changes annually; the durable analytical point is that deaths
-  persist despite legal prohibition, indicating enforcement failure.
+- 📰 **Evidence discipline:** Sewer/septic-tank death counts can differ by NCSK, State and
+  civil-society reporting. Use a named source/date and distinguish recorded deaths from
+  all unsafe-cleaning incidence; persistence despite prohibition is the analytical
+  enforcement failure.
 
 ## 10. PYQ-based analytical application
 

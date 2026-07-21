@@ -18,7 +18,7 @@
 | ✅ 1325 | Death of Nizamuddin Auliya |
 | ✅ 14th–15th c. | Namadeva and Ramananda carry Bhakti ideas into north India |
 | ✅ 1469 | Guru Nanak born at Talwandi/Nankana on the Ravi |
-| ✅ 1538 | Death of Guru Nanak (as given in the source text) |
+| ⚠️ 1538/1539 | Part I prints Nanak's death as 1538; the standard Sikh chronology generally gives 1539 |
 
 ## 1. Snapshot & core idea
 
@@ -32,7 +32,7 @@
 **Foundation — Bhakti as devotion and social critique.**
 
 ✅ Bhakti stressed personal devotion and mystical union with God. It grew strongly in south India among the Nayanars and Alvars, then moved slowly north through saints such as Namadeva and Ramananda.
-- ✅ Ramananda taught Bhakti to all four varnas and accepted disciples from low castes, including Ravidas, Kabir, Sena and Sadhana.
+- ✅ Traditions associated with Ramananda opened devotion across caste boundaries and count Ravidas, Kabir, Sena and Sadhana among his disciples; the precise teacher-disciple chronology is not equally secure for every name.
 - ✅ Kabir emphasised one God, denounced idol worship, pilgrimages, ritual formalism and caste discrimination.
 - ✅ Nanak emphasised one God, purity of character, guru's guidance, household life and rejection of empty ritual.
 
@@ -58,6 +58,7 @@
 - ✅ Nizamuddin Auliya adopted yogic breathing; yogis called him a **sidh**.
 - ✅ Ramananda's disciples included **Ravidas, Kabir, Sena, Sadhana**.
 - ✅ Nanak did not intend to found a new religion; his ideas later gave birth to Sikhism.
+- ⚠️ **Saguna** and **nirguna** are analytical groupings, not rigid organisations: saints differed on image, incarnation, scripture, social practice and the role of guru.
 
 ## 5. UPSC Traps
 
@@ -70,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Kabir Jayanti 2026 was listed for national/state-level observance, with official cultural programmes highlighting Kabir's message of equality and harmony** (Delhi Government / culture portals, 2026). Relevance: Kabir's anti-caste and interfaith message remains current in social harmony debates.
+📰 **Current linkage (verify live before use):** Kabir, Nanak and Chishti traditions remain active in public commemoration and debates on social harmony. Verify a dated programme before citing it, and do not turn a modern message into proof of a medieval event.
 
 ## 7. Mains angles
 

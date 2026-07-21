@@ -35,6 +35,9 @@ Bentham              Hobhouse, Laski, Tawney   rollback + market order
 - ✅ The chapter's direct-book core is liberalism's internal evolution, not a general history of all modern freedom doctrines (Gauba, PDF pp.40-45).
 - ✅ Gauba explicitly describes liberalism as a dynamic intellectual movement that accommodates new ideas to face new situations (Gauba, PDF p.40).
 - ⚠️ Because Gauba groups neo-liberalism, neo-classical liberalism and libertarianism closely, this file uses "neoliberalism" as the chapter's umbrella term while noting that libertarianism can also mark the sharper minimal-state edge within that umbrella.
+- ⚠️ The umbrella is pedagogical, not an identity claim: Hayekian spontaneous order, Friedmanite
+  market constitutionalism and Nozickian entitlement theory reach limited-government conclusions
+  through different premises.
 - ⚠️ The main conceptual boundary is this: constitutional liberalism, welfare liberalism and market liberalism overlap, but they should not be collapsed into one another.
 
 ## 3. Direct-book argument reconstruction
@@ -90,6 +93,9 @@ Bentham              Hobhouse, Laski, Tawney   rollback + market order
 - ✅ Gauba also attacks the liberal assumption that representative institutions reliably reconcile all interests, noting actual imbalance in organization and voice among groups, especially in developing societies (Gauba, PDF p.44).
 - ⚠️ The most exam-relevant criticism of neoliberalism is not simply "markets are bad" but that market liberty can coexist with unequal bargaining power, unequal voice and reduced substantive freedom for weaker groups.
 - ⚠️ The sharpest defence of liberalism remains constitutional rather than purely economic: limited power, rule-bound office and protection against arbitrary authority.
+- ⚠️ Necessary/sufficient check: a market order may be important to Hayek or Friedman, but market
+  exchange alone is not sufficient for constitutional liberty; Nozick additionally requires just
+  acquisition, transfer and rectification before holdings count as entitled.
 
 ## 8. Comparative matrix
 

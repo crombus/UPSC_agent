@@ -66,7 +66,7 @@ capability approach is the evaluative standard.
 | ✅ **Capability approach (Sen/Nussbaum)** | Evaluates well-being not by income or utility alone but by functionings (achieved states such as being healthy) and capabilities (real freedoms to achieve functionings); shifts the policy question from "what do people have?" to "what can people actually do and be?" |
 | ✅ **Social protection floor (ILO R202)** | A globally endorsed baseline guaranteeing (a) basic income security through the life cycle and (b) access to essential health care — a floor beneath which no one should fall. |
 | ⚠️ **Universalism vs targeting** | Universalism provides the same entitlement to all (reduces stigma, avoids exclusion errors) while targeting concentrates resources on identified beneficiaries (efficiency, but risks inclusion/exclusion errors and documentation barriers). |
-| ⚠️ **Rights-based vs charity-based welfare** | Rights-based welfare frames the citizen as an entitlement-holder who can demand and enforce access; charity-based framing treats welfare as state beneficence that may be withdrawn at discretion. |
+| ⚠️ **Rights-based vs charity-based welfare** | Rights-based welfare frames the citizen as an entitlement-holder with a statutory/constitutional claim and a remedy where the law provides one; charity-based welfare treats support as state beneficence that may be withdrawn at discretion. A statutory label alone does not guarantee delivery. |
 
 ## 3. How the welfare-state mechanism works
 
@@ -93,8 +93,9 @@ capability approach is the evaluative standard.
 - ✅ **NFSA, 2013 and RTE, 2009:** statutory entitlements that shift food and
   education from discretionary schemes to rights-based claims (detailed in topics
   02 and 04).
-- ✅ **ILO Recommendation 202 (2012):** non-binding but authoritative global
-  standard for social protection floors; India endorsed the recommendation.
+- ✅ **ILO Recommendation 202 (2012):** a non-binding social-protection-floor standard
+  adopted by the International Labour Conference; unlike a ratified Convention, it does
+  not itself create a domestic legal obligation.
 - ⚠️ **Capability metrics (HDI, MPI):** operationalise the Sen framework for policy
   — Economy owns measurement mechanics; Social Justice uses the evaluative lens.
 
@@ -107,10 +108,14 @@ capability approach is the evaluative standard.
 - ⚠️ The Manual Scavenging Act + Rehabilitation Scheme combines corrective justice
   (ban + penalty) with distributive justice (rehabilitation, alternative livelihood)
   and recognitive justice (dignity restoration) — a multi-dimensional application.
-- ⚠️ No direct 2024/2025 GS-II Mains PYQ names the welfare-state/social-justice-concept
-  framework explicitly; the closest adjacent framing is the 2024 Q7 on poverty-
-  malnutrition-human-capital, which implicitly tests capability logic. Treat the
-  probable questions below as anticipated framing.
+- ✅ **2024 GS-I Q18 (250 words):** “Despite comprehensive policies for equity and social
+  justice, underprivileged sections are not yet getting the full benefits of affirmative
+  action envisaged by the Constitution. Comment.” Use the results chain in this folder:
+  identify the barrier, distinguish entitlement from access, and test outcomes rather
+  than merely listing schemes.
+- ⚠️ The closest GS-II framing is 2024 Q7 on poverty-malnutrition-human capital, which
+  implicitly tests capability conversion. Treat the probable questions below as
+  anticipated framing.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -147,13 +152,12 @@ capability approach is the evaluative standard.
 
 ## 9. PYQ application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names the
-  social-justice-concept or welfare-state framework. The closest adjacent PYQ is
-  2024 Q7 (poverty-malnutrition-human-capital vicious cycle), which implicitly
-  tests the capability approach: breaking the cycle requires converting nutrition
-  and health inputs into human-capital capability. Use the three-dimension
-  framework (distributive + corrective + recognitive) as the structuring device
-  for any question that asks about "social justice" or "inclusive development."
+- ✅ **2024 GS-I Q18** directly tests the implementation gap in affirmative action.
+  Structure it as constitutional promise -> protective/redistributive instrument ->
+  identification, enforcement or delivery gap -> dated outcome and correction. The
+  closest GS-II framing is 2024 Q7 (poverty-malnutrition-human-capital), which tests
+  capability conversion. Use distributive + corrective + recognitive justice as the
+  common structuring device.
 
 ## 10. Mains angles
 

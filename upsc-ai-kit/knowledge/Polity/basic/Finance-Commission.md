@@ -7,7 +7,7 @@
 | Item | Fact |
 |---|---|
 | Article | **Art 280** |
-| Nature | **Quasi-judicial** constitutional body |
+| Nature | Constitutional body; **described by Laxmikanth as quasi-judicial** |
 | Constituted by | **President, every 5th year** (or earlier) |
 | Composition | **Chairman + 4 members** |
 | Advice | **Advisory, not binding** |

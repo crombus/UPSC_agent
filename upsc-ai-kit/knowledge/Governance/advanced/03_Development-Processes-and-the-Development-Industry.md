@@ -3,7 +3,8 @@
 > **Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II.
 > **Core area:** Donors, charities, trusts, foundations and CSR as non-state actors in the
 > development process.
-> **Grounded in:** Indian Trusts Act, 1882; Companies Act, 2013 (Sections 8 and 135,
+> **Grounded in:** applicable state public-trust/endowment law; Companies Act, 2013
+> (Sections 8 and 135,
 > Schedule VII); audited 2024 GS-II PYQ; official UPSC GS-II syllabus.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/03_Development-Processes-and-the-Development-Industry.md`.*
@@ -37,7 +38,7 @@ of whether that substituted accountability structure is itself responsive to ben
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Trust vs society vs Section 8 company** | A trust is property held by trustees for a stated purpose (Trusts Act, 1882); a society is a membership-based voluntary association (Societies Registration Act, 1860); a Section 8 company is a company-form entity barred from profit distribution (Companies Act, 2013) — each carries different governance obligations (trustees' fiduciary duty vs general body vs board of directors) and different ease of raising/managing large-scale funds. |
+| ✅ **Trust vs society vs Section 8 company** | A public charitable trust is governed through its deed and applicable state/endowment law (the Indian Trusts Act, 1882 expressly excludes charitable/religious endowments); a society is membership-based under the 1860 Act/state variants; a Section 8 company is board-governed under the Companies Act and barred from distributing profits. |
 | ✅ **CSR as mandated vs voluntary philanthropy** | Section 135 CSR is a statutory minimum-spend obligation with Schedule VII activity boundaries and mandatory reporting (Board's Report, CSR-2 filing); voluntary philanthropy (trusts, foundations, individual giving) has no equivalent statutory floor or activity restriction. |
 | ⚠️ **Donor-driven vs demand-driven design** | Donor-driven programmes are designed around the funder's theory of change and reporting metrics; demand-driven programmes are designed around locally articulated priorities — the two can converge but frequently diverge, especially where donor funding cycles (project-based, time-bound) mismatch long-term local need. |
 | ⚠️ **Substitution vs complementarity thesis** | The "substitution" view treats charitable/CSR development as filling gaps left by weak state capacity (a symptom of state failure); the "complementarity" view treats it as a permanent, desirable division of labour (donors/CSR bring flexibility and innovation state bureaucracy cannot) — Mains answers should explicitly choose and justify a position. |
@@ -62,6 +63,16 @@ of whether that substituted accountability structure is itself responsive to ben
 5. **Inclusion or fragmentation outcome:** where multiple donors/CSR programmes operate
    independently in the same geography without convergence (see `02`), the aggregate effect
    can be fragmented, duplicative development rather than a coherent inclusive outcome.
+
+### Evaluation grid for a non-state development intervention
+
+| Test | Question |
+|---|---|
+| Additionality | Does it add capacity or merely replace a public obligation? |
+| Need-fit | Was the intervention based on local demand and disaggregated exclusion data? |
+| Accountability | Can beneficiaries complain, obtain records and influence correction? |
+| Sustainability | Who finances and operates the service after the grant cycle? |
+| Federal/local fit | Is it converged with state/local plans rather than a parallel silo? |
 
 ### Deeper analytical layers
 
@@ -145,7 +156,8 @@ of whether that substituted accountability structure is itself responsive to ben
 
 ## 9. 📰 Current-anchor note
 
-- 📰 CSR-2 filing and CSR impact-assessment obligations are rule-based thresholds under the
+- 📰 **Status checked 21 July 2026:** CSR-2 filing and CSR impact-assessment obligations are
+  rule-based thresholds under the
   Companies Act, 2013 CSR framework, and FCRA compliance requirements are set by Ministry of
   Home Affairs rule under the FCRA, 2010 (amended 2020) — both sets of thresholds are
   revisable by rule amendment, so no fixed rupee figure is asserted here; the durable point

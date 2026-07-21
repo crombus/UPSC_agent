@@ -29,6 +29,7 @@
 
 **Foundation — north India faced the Turks amid political fragmentation.**
 
+- ✅ Before the eleventh-century invasions, the Palas, Gurjara-Pratiharas and Rashtrakutas had competed for north Indian supremacy, while the Cholas built a powerful south Indian state and maritime-commercial network; their decline produced regional successor powers rather than an institutional vacuum.
 - ✅ The Gurjara-Pratihara decline created many regional Rajput states — Gahadavalas of Kanauj, Paramaras of Malwa, Chauhans of Ajmer, Chalukyas of Gujarat, Chandellas and Tomars.
 - ✅ Rajput states resisted Ghaznavid raids, but rivalry among them prevented a common front to recover the Punjab from the Ghaznavids.
 - ✅ The Turks brought rapid cavalry warfare and the Persianised-Islamic political culture of West and Central Asia.
@@ -70,11 +71,10 @@
 
 ## 6. 📰 Current link
 
-📰 **Pattanam/Muziris heritage news (2024–25):** Recent reporting on the Muziris Heritage Project and Pattanam excavations highlights Mediterranean, West Asian and Arabian trade links, plus plans for a Sangam-era/Muziris museum. **UPSC relevance:** connects medieval Arab-Malabar trade with India's longer Indian Ocean heritage and archaeology.
+📰 **Current linkage (verify live before use):** Conservation and archaeological work at early Indian Ocean port sites such as Muziris/Pattanam can connect Arab–Malabar commerce with maritime heritage. Do not use a project date or excavation claim without checking the responsible archaeology/heritage authority.
 
 ## 7. Mains angles
 
 - ⚠️ Explain how commercial contacts with the Arab world prepared a cultural bridge before political Islam entered north India.
 - ⚠️ Discuss why the fall of the north-western frontier mattered more than any single raid.
 - ⚠️ Assess the Rajput political order: military courage with weak inter-state coordination.
-

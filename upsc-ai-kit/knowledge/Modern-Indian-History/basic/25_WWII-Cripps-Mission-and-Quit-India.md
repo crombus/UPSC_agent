@@ -30,7 +30,7 @@
 
 **Foundation — Quit India was the final great mass movement before freedom.**
 
-- ✅ The **Cripps Mission (1942)** offered dominion status after the war, a constituent assembly and the right of provinces/states not to join the future Union; Congress rejected it as inadequate.
+- ✅ The **Cripps Mission (1942)** offered dominion status after the war and a constitution-making body; a British Indian province could refuse the new constitution and retain its existing position, while princely states would join through their rulers' decisions. Congress rejected the lack of immediate responsible government and the danger to unity.
 - ✅ Gandhi criticised the offer as a **"post-dated cheque"** because it promised freedom after the war but retained British control during the crisis.
 - ✅ On **8 August 1942**, the AICC at Bombay adopted the Quit India resolution; Gandhi gave the slogan **"Do or Die"**.
 - ✅ With top leaders arrested on **9 August 1942**, the movement became a leaderless upsurge marked by strikes, protests, attacks on symbols of authority, underground activity and parallel governments.
@@ -42,7 +42,7 @@
 | ✅ WWII declaration | India dragged into war without Indian consent; Congress ministries resign |
 | ✅ August Offer | Dominion status goal, enlarged Executive Council, minority veto; rejected |
 | ✅ Individual Satyagraha | Limited, symbolic anti-war protest; Vinoba first, Nehru second |
-| ✅ Cripps Mission | Post-war dominion status, constituent assembly, provincial option to secede |
+| ✅ Cripps Mission | Post-war dominion status, constitution-making body, provincial non-accession option and separate treatment of princely states |
 | ✅ Quit India resolution | AICC Bombay, Gowalia Tank, 8 August 1942; "Quit India" and "Do or Die" |
 | ✅ Mass upsurge | Strikes; attacks on railways, telegraphs and police stations; harsh repression |
 | ✅ Parallel governments | Ballia, Tamluk/Jatiya Sarkar in Midnapur, Satara/Prati Sarkar |

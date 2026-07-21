@@ -6,7 +6,8 @@
 > education access; skills ecosystem.
 > **Grounded in:** Right of Children to Free and Compulsory Education Act, 2009;
 > National Education Policy 2020; Samagra Shiksha guidelines (MoE); NIPUN Bharat
-> Mission; ASER reports; audited GS-II syllabus.
+> Mission; ASER reports; the Public Examinations (Prevention of Unfair Means) Act,
+> 2024; audited 2024-2025 GS-II PYQs.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/04_Education-and-Human-Resource-Development.md`.*
 
@@ -57,11 +58,11 @@ without all three, entitlement does not translate into capability.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **RTE Act, 2009** | The Right of Children to Free and Compulsory Education Act, 2009: statutory entitlement to free education for children aged 6-14 in government/aided schools; 25% reservation for EWS/disadvantaged-group children in private unaided schools; norms for pupil-teacher ratio and infrastructure. |
+| ✅ **RTE Act, 2009** | The Right of Children to Free and Compulsory Education Act, 2009: statutory framework for free and compulsory elementary education for ages 6–14. It provides free schooling through the public system and a 25% entry-level obligation for children from weaker/disadvantaged groups in private unaided non-minority schools, subject to the Act and judicial interpretation. |
 | ✅ **Article 21-A** | The constitutional basis for RTE: inserted by the 86th Amendment, 2002, making free and compulsory education a fundamental right for children aged 6-14 — Polity owns doctrinal detail; Social Justice applies the entitlement lens. |
 | ✅ **NEP 2020** | The National Education Policy 2020: a policy document (not statute) restructuring education into 5+3+3+4 (foundational, preparatory, middle, secondary); emphasises foundational literacy/numeracy, mother-tongue instruction, multidisciplinary higher education, multiple entry-exit and vocational integration. |
 | ✅ **Samagra Shiksha** | The integrated centrally-sponsored scheme (MoE) merging SSA (elementary), RMSA (secondary) and teacher education; provides a single umbrella for school-education funding, teacher training and quality interventions. |
-| ✅ **NIPUN Bharat** | National Initiative for Proficiency in Reading with Understanding and Numeracy: mission under NEP 2020 targeting foundational literacy and numeracy (FLN) by Grade 3; sets learning-outcome goals for all children. |
+| ✅ **NIPUN Bharat** | National Initiative for Proficiency in Reading with Understanding and Numeracy: mission under NEP 2020 targeting foundational literacy and numeracy by the end of Grade 3 (national target year 2026-27); sets learning-outcome goals for all children. |
 | ✅ **Gross Enrolment Ratio (GER)** | Total enrolment in a level of education (regardless of age) as a percentage of the official school-age population for that level — a measure of access, not completion or quality. |
 | ✅ **NCVET** | National Council for Vocational Education and Training: regulator for skill-qualification frameworks, awarding bodies and assessment agencies — replaces earlier fragmented regulators. |
 | ✅ **NAPS** | National Apprenticeship Promotion Scheme: provides stipend support to employers hiring apprentices; aims to bridge classroom training and workplace learning. |
@@ -99,10 +100,11 @@ without all three, entitlement does not translate into capability.
 
 ## 5. Indian applications and examples
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names
-  education/HRD; the closest adjacent framing is 2024 Q7 (poverty-malnutrition-
-  human-capital), which implicitly tests the human-capital formation link. Treat
-  the probable questions below as anticipated framing.
+- ✅ **2024 GS-II Q11 (15 marks):** asks the aims and objects of the Public
+  Examinations (Prevention of Unfair Means) Act, 2024 and whether university/state
+  education-board examinations fall within it. Route it through public trust, fair
+  access and human-capital formation: the Act targets notified public examinations,
+  so do not assume every university or state-board examination is automatically covered.
 - 📰 **ASER 2024** (a non-government, rural household survey) found recovery from the
   2022 learning shock but a continuing FLN deficit: **23.4%** of government-school
   Standard III children could read a Standard II text. This is the latest national
@@ -139,11 +141,10 @@ without all three, entitlement does not translate into capability.
 
 ## 8. 📰 Current anchor
 
-- 📰 **ASER reports:** The Annual Status of Education Report (ASER) is published
-  periodically and documents FLN gaps at district/state level. No specific year's
-  percentage is asserted here because each ASER round updates the figures; the
-  durable fact is that ASER, not AISHE or UDISE+, is the household-survey source
-  for foundational-learning-outcome data.
+- 📰 **ASER 2024:** This non-government rural household survey found that 23.4% of
+  government-school children in Standard III could read a Standard II text. Cite the
+  round, rural scope, school type and competency; ASER is not an administrative dataset
+  and should not be silently generalised to urban India.
 - 📰 **GER in higher education:** AISHE (All India Survey on Higher Education)
   publishes annual GER data. No specific percentage is asserted here because each
   AISHE round updates the figure; the durable fact is that AISHE is the official
@@ -155,9 +156,10 @@ without all three, entitlement does not translate into capability.
 
 ## 9. PYQ application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names
-  education/HRD; the closest adjacent PYQ is 2024 Q7 (poverty-malnutrition-human-
-  capital), which tests the capability-formation logic.
+- ✅ **2024 GS-II Q11 (15 marks):** use the Public Examinations (Prevention of Unfair
+  Means) Act, 2024 to distinguish a law's listed public-examination authorities from
+  university/state-board examinations. Link fair examination systems to equal access and
+  institutional trust; do not answer it as a generic school-education question.
 - ⚠️ A strong education-related answer should:
   1. Cite the entitlement base (Art 21-A, RTE 2009).
   2. Distinguish access (enrolment, infrastructure) from quality (learning

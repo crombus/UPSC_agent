@@ -1,8 +1,8 @@
 # Official Language (Articles 343–351) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-I / GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 62 (Part XVII) + source book.
-> ✅ = from source book · ⚠️ = inference / analysis · 📰 = current affairs (web-verified).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 65 (Part XVII; direct check of the local Sixth Revised Edition PDF) + official update.
+> ✅ = from source book · ⚠️ = inference / analysis · 📰 = official-source update.
 > *Companion: `basic/Official-Language.md`.*
 
 ---
@@ -33,17 +33,21 @@
 # PART C — LANGUAGE OF JUDICIARY & LAWS (Arts 348–349) ✅
 - ✅ **SC & HC proceedings** and **authoritative texts of all bills/acts/ordinances** → **English only** (until
   Parliament provides otherwise).
-- ✅ A **Governor**, with the **President's prior consent**, may authorise **Hindi/regional language** in **High
-  Court proceedings** (⚠️ **not** for judgments/orders/decrees — those stay in English).
+- ✅ A **Governor**, with the **President's prior consent**, may authorise Hindi/another
+  state official language in **High Court proceedings** under Art 348(2). Separately,
+  **Official Languages Act, 1963 s.7** permits it in HC judgments/decrees/orders if an
+  authorised English translation accompanies them.
 
 ---
 
 # PART D — SPECIAL DIRECTIVES (Arts 350–351) ✅
 - ✅ **Art 350:** right to represent grievances in any language used in the Union/State.
 - ✅ **Art 350-A:** mother-tongue instruction at primary stage for linguistic minorities.
-- ✅ **Art 350-B:** **Special Officer for Linguistic Minorities** (added by **7th Amendment, 1956**; HQ **Allahabad**).
-- ✅ **Art 351:** duty of the **Centre to promote the spread of Hindi** as the lingua franca (enriched from
-  Hindustani/Sanskrit/8th-Schedule languages).
+- ✅ **Art 350-B:** **Special Officer for Linguistic Minorities** (added by **7th
+  Amendment, 1956**); headquarters moved from Allahabad to **New Delhi on 1 June 2015**.
+- ✅ **Art 351:** duty of the **Union to develop Hindi** so it may serve as a medium
+  of expression for all elements of India's composite culture (enriched from
+  Hindustani/Sanskrit/Eighth-Schedule languages).
 
 ---
 
@@ -67,7 +71,7 @@ Union Home Minister**; reviews the progress of Hindi and reports to the **Presid
 - ❌ Classical-language status is under the Eighth Schedule → it is a **separate government scheme**, unrelated to the 8th Schedule.
 - ❌ HC judgments can be delivered in Hindi with Governor's nod → only **proceedings**; **judgments/orders remain in English**.
 
-## 📰 CA hooks (web-verified)
+## 📰 CA hooks (official-source verified)
 - 📰 **Classical Language** status (a **separate scheme**, not the 8th Schedule): **Oct 2024** — **Marathi, Pali,
   Prakrit, Assamese & Bengali** added, taking the total to **11** (earlier 6: Tamil-2004, Sanskrit-2005,
   Kannada & Telugu-2008, Malayalam-2013, Odia-2014).

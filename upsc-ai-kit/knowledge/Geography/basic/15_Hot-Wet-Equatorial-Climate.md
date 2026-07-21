@@ -58,16 +58,19 @@
 
 ## 4. Human Response & Economic Use
 
-✅ G.C. Leong notes that the **oppressive, monotonous climate taxes mental alertness and physical capability**. ✅ Large-scale livestock farming is **unknown** in hot, wet equatorial areas. ✅ The greatest single drawback to commercial lumbering is **inaccessibility**, worsened by dense vegetation and mixed species scattered through the forest. ✅ The equatorial environment is best suited to **plantation agriculture**.
+⚠️ Leong's older edition uses climatic-determinist language about human capability; treat that wording as
+historical and **not as valid causal geography**. Commercial logging is constrained by access, mixed
+species, ecological damage and regulation. Livestock and plantation systems occur in some humid-tropical
+areas, but neither is an inevitable or universally “best-suited” land use.
 
 ✅ Traditional subsistence practice is **shifting cultivation / slash-and-burn**. ✅ Modern plantation crops include **rubber, cocoa, oil palm and coffee**.
 
 | Activity | ✅ Book-grounded point |
 |---|---|
-| Livestock | Large-scale livestock farming unknown |
+| Livestock | Disease, fodder quality and forest clearance can constrain ranching; regional exceptions exist |
 | Lumbering | Chief obstacle = inaccessibility and mixed species |
 | Subsistence | Shifting cultivation / slash-and-burn |
-| Plantation agriculture | Best-suited modern land use |
+| Plantation agriculture | Commercial system historically expanded under colonial/export-market conditions |
 | Plantation crops | Rubber, cocoa, oil palm, coffee |
 
 ## 5. Must-Know Facts (Prelims)
@@ -81,9 +84,9 @@
 - ✅ Vegetation: **tropical rainforest / selva**; evergreen, broad-leaved, hardwood-rich.
 - ✅ Rainforest’s most prominent feature is **layer arrangement**.
 - ✅ Typical hardwoods: **mahogany, ebony, rosewood**; lianas and epiphytes abound.
-- ✅ Large-scale livestock farming is unknown.
+- ⚠️ Large-scale ranching is limited in much intact rainforest but exists after clearance in several regions.
 - ✅ Commercial lumbering’s biggest drawback is **inaccessibility**.
-- ✅ Equatorial environment is best suited to **plantation agriculture**.
+- ✅ Plantation agriculture is historically important, but carries monoculture, labour and deforestation costs.
 
 ## 6. UPSC Traps
 
@@ -95,7 +98,9 @@
 
 ## 7. 📰 Current link
 
-📰 **Amazon tipping point (2025–26):** Studies warn the Amazon is nearing an irreversible **“tipping point”** — **~17–18% already deforested** against a **22–28% threshold**; **May 2025** saw a **~92% jump** in Brazilian forest loss vs May 2024. Heavily deforested Amazon zones now emit more **CO2** than they absorb, flipping from **carbon sink to carbon source**. The Amazon historically absorbed **~2 billion tonnes CO2/year**, but degraded zones are now net emitters; transition risk rises at **1.5–1.9°C warming** while the world is already around **~1.4°C**.
+📰 **Amazon forest-resilience debate:** drought, fire and deforestation can weaken moisture recycling and
+push parts of the forest toward degradation. Tipping thresholds vary across models; quote a named study
+and date rather than presenting one percentage as a settled global boundary.
 
 ## 8. Mains angles
 

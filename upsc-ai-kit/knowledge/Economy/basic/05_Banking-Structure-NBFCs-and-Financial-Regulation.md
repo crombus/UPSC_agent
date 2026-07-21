@@ -4,7 +4,7 @@
 > **Core area:** Banking and regulation.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md`.*
+> *Companion: `../advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md`.*
 
 ---
 
@@ -75,6 +75,10 @@ systemic importance while preserving useful institutional diversity.
   generally cannot issue cheques drawn on themselves.
 - ✅ Deposit insurance and central-bank liquidity access do not apply to all financial
   entities in the same way.
+- ✅ DICGC covers eligible deposits up to ₹5 lakh per depositor per bank, including
+  principal and interest, subject to its statutory scheme.
+- ✅ Small finance banks undertake lending; payments banks are differentiated banks and
+  cannot undertake lending from their own balance sheet.
 - ✅ NBFCs complement banks in specialised, last-mile and risk-based credit but can create
   interconnectedness and funding risks.
 - ✅ RBI regulates banks and many NBFCs; SEBI, IRDAI and PFRDA regulate their respective
@@ -102,8 +106,11 @@ systemic importance while preserving useful institutional diversity.
 - 📰 Scheduled commercial bank GNPA was 2.2% and NNPA 0.5% by Sep 2025.
 - 📰 The Survey calls for calibrated coordination across banks, NBFCs, fintechs, insurance
   and securities markets.
-- 📰 Insurance FDI is 100% under the automatic route for private insurance as of July 2026;
-  LIC remains separate.
+- 📰 The verified private-insurance foreign-investment cap remains **74% under the
+  automatic route**; do not infer a 100% cap or apply the private-insurer rule to every
+  insurance entity.
+
+Source: [IRDAI master circular on capital structure](https://noc.irdai.gov.in/Content/docs/Master%20Circular%20on%20Registration%2C%20Capital%20Structure%2C%20Transfer%20of%20Shares%20and%20Amalgamation%20of%20Insurers%2C%202024.pdf).
 
 ⚠️ **Interpretation caution:** Legal classification alone does not reveal risk; funding
 structure, group exposure and asset-liability mismatch are decisive.
@@ -137,7 +144,7 @@ structure, group exposure and asset-liability mismatch are decisive.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md`.
+- ✅ Advanced companion: `../advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md`.
 - ✅ `06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md` — asset quality, capital and
   resolution.
 - ✅ `04_RBI-Monetary-Policy-and-Liquidity-Management.md` — central-bank facilities and

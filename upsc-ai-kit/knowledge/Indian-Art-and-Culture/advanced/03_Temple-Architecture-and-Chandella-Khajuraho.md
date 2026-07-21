@@ -7,7 +7,8 @@
 > comparative significance, UNESCO heritage layer, conservation).
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp. 69-124
 > (Khajuraho pp. 79-83); `00_Master-Framework.md` Sections 6-7; audited
-> UPSC Mains 2024-2025 GS Paper I.
+> UPSC Mains 2024-2025 GS Paper I; Satish Chandra, *History of Medieval
+> India*, PDF pp. 73-77; ASI/UNESCO Chausath Yogini documentation.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/03_Temple-Architecture-and-Chandella-Khajuraho.md`.*
 
@@ -34,7 +35,7 @@ that is this topic's most common analytical failure.
 | Term | Precise meaning |
 |---|---|
 | ✅ **Jejabhukti** | The Chandella principality's medieval name, derived from ruler Jayashakti/Jejjaka/Jeja (*Nitin…pdf*, PDF p. 80) — the direct political-geographic precursor to modern Bundelkhand. |
-| ✅ **Maharajadhiraja (Dhanga)** | Title taken by Dhanga on asserting Chandella independence from Pratihara/Pala overlordship, marking the point at which Chandella patronage became a fully autonomous royal statement rather than a subordinate one (*Nitin…pdf*, PDF p. 80). |
+| ✅ **Maharajadhiraja (Dhanga)** | Title associated with Dhanga's assertion of Chandella autonomy from the Gurjara-Pratihara political sphere; Nitin's Pala-overlordship wording is not retained as settled chronology. |
 | ⚠️ **Clustered urushringas** | The characteristic Khajuraho/mature-Nagara device of surrounding the main shikhara with a cluster of smaller replica spires (urushringas), producing a mountain-range silhouette that visually amplifies the central tower's height — the architectural expression of the shikhara-as-mountain (Meru) concept. |
 | ✅ **Axial architectural chain** | Jagati (platform) -> ardhamandapa (entrance porch) -> mandapa (hall) -> antarala (vestibule) -> garbhagriha (sanctum), crowned by the shikhara — the mature Nagara sequence Khajuraho exemplifies in fully developed form. |
 | ✅ **Integrated sculptural programme** | The Khajuraho sculptural corpus spans deities, minor/clan deities, worshippers, secular courtly life, dancers, musicians, teachers and disciples, Vyalas, and maithuna/erotic imagery — mithuna is **one register within**, not the totality of, this programme (*Nitin…pdf*, PDF p. 81). |
@@ -46,7 +47,7 @@ that is this topic's most common analytical failure.
 | ✅ Spire form | Shikhara with clustered urushringas | Deul (Rekha/Pidha/Khakhara types) | Vimana (stepped pyramid) + gopuram | Stellate platform, composite Vesara towers | Shikhara, same Nagara idiom as Hindu temples on-site |
 | ✅ Enclosure | No boundary wall, raised terrace | Boundary walls present | High boundary walls, gopuram entrances | Star-shaped jagati, extended terrace | No enclosure wall (shared site plan with Hindu temples) |
 | ✅ Sculptural emphasis | Deities + secular/courtly life + Vyalas + mithuna | Erotic elements also prominent (Konark, Bhubaneswar) — a documented **parallel**, not a Khajuraho exclusivity | Bronze icons (Nataraja), narrative epic friezes, devakosthas | Dense friezes in soapstone: epics, animals, dancers | Tirthankara imagery integrated into the same sculptural vocabulary |
-| ✅ Patronage character | Newly independent Chandella dynasty asserting cultural authority | Long dynastic sequence (Shailodbhava to Eastern Ganga) | Sustained imperial patronage over three generations (Rajaraja I, Rajendra I, Rajaraja II) | Regional Hoysala kings (Vishnuvardhana) converting between Jainism and Vaishnavism | Simultaneous with, not separate from, Hindu Chandella patronage |
+| ✅ Patronage character | Chandella power emerging from the Gurjara-Pratihara sphere and asserting autonomy | Long dynastic sequence (Shailodbhava to Eastern Ganga) | Sustained imperial patronage over three generations (Rajaraja I, Rajendra I, Rajaraja II) | Regional Hoysala patronage across Jain, Shaiva and Vaishnava institutions; individual conversion narratives require source caution | Contemporary Chandella patronage within the same cultural landscape |
 | ✅ Heritage status | UNESCO WHS, 1986 | Konark UNESCO WHS, 1984 | UNESCO WHS ("Great Living Chola Temples"), 1987 + 2004 extension | UNESCO WHS ("Sacred Ensembles of the Hoysala"), 2023 | Included within the same 1986 Khajuraho inscription |
 
 ⚠️ **Why this matters analytically:** the erotic sculptural element at
@@ -60,8 +61,8 @@ supplies.
 ## 4. Evidence, form and interpretation
 
 ✅ **Political-cultural setting, concisely:** Jayashakti/Vijayashakti
-(early rulers) -> expansion under Harsha and Yashovarman (acknowledging
-Pala overlordship under Devapala) -> Dhanga's assertion of full
+(early rulers) -> expansion under Harsha and Yashovarman in the
+Gurjara-Pratihara political sphere -> Dhanga's assertion of fuller
 independence as *maharajadhiraja* on the decline of the Pratiharas and
 Palas (*Nitin…pdf*, PDF pp. 79-80). ⚠️ The consequence for artistic
 production: temple-building under Dhanga and successors functioned as a
@@ -84,8 +85,8 @@ east-facing orientation should never be presented as exceptionless.
 dedication (six Shaiva, eight Vaishnava, one Ganesha, one Surya, four Jain
 temples) is itself evidence of programme breadth before any individual
 sculpture is even discussed; Vyala figures (hybrid lion-bodied creatures)
-recur across Vishnu-dedicated shrines, and Chausath-yogini's circular,
-open-air Tantric/Shakti form is architecturally unlike any other Khajuraho
+recur across Vishnu-dedicated shrines, and Chausath-yogini's rectangular,
+open-air granite Yogini form is architecturally unlike any other Khajuraho
 structure (*Nitin…pdf*, PDF pp. 80-81). ⚠️ Reading the 2025 PYQ's phrase
 "resilient vigour and breadth of life": "vigour" maps onto the dynamic,
 twisting, muscular postures used across the entire figural programme
@@ -95,7 +96,8 @@ animals and human intimacy together, read as one continuous register of
 lived and sacred experience rather than a single scandalous exception.
 
 ✅ **Named monuments as comparative cases, not an undifferentiated list:**
-Chausath-yogini (earliest, open-air, Tantric-Shaiva); Lakshmana and
+Chausath-yogini (earliest, rectangular open-air granite Yogini shrine);
+Lakshmana and
 Duladeo (second, sandstone group); Vishvanath (major Shaiva temple);
 Parsvanath (principal Jain temple); Chitragupta (Surya/Sun dedication,
 unusual for the region); Kandariya Mahadeva (largest, most sculpturally
@@ -197,6 +199,12 @@ achievement in the same essay.
   without direct source support. -> The book attributes "several" temples
   to Dhanga's reign generally; do not invent a one-to-one ruler-to-temple
   attribution beyond what the source supports.
+- ❌ Repeating the textbook's circular-plan description for Khajuraho's
+  Chausath Yogini. -> Official ASI/UNESCO documentation identifies its
+  exceptional rectangular plan and granite fabric.
+- ❌ Treating "Vesara" as a settled, self-explanatory category. -> Use it
+  after, not instead of, describing the stellate plan, soapstone carving,
+  shrine multiplicity and tower profile of a Hoysala monument.
 - ❌ Silently normalising "Chandella" to "Chandela" (or vice versa) when
   quoting the PYQ. -> Preserve the PYQ's own "Chandella" spelling exactly
   when answering that specific question, while noting both spellings
@@ -265,5 +273,5 @@ temple's defining subject.
   ruined Khajuraho structures, and any recent ASI conservation project
   specific to Khajuraho, should be checked against ASI's own dated
   release before being cited as a current figure in a Mains answer, since
-  this file's research cutoff (18 July 2026) relied on the book's own
+  this file's research cutoff (21 July 2026) relied on the book's own
   descriptive account rather than a fresh site-specific ASI fetch.

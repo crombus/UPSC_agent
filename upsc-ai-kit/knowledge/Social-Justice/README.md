@@ -2,7 +2,8 @@
 
 > **Subject:** Social Justice | **GS Paper:** GS-II, with GS-I society, GS-III
 > labour and GS-IV justice links.
-> **Spine:** Official UPSC GS-II syllabus; audited UPSC GS-II PYQs (2024-2025);
+> **Spine:** Official UPSC GS-II syllabus; audited local UPSC GS-II and Essay papers
+> (2024-2025); the local Laxmikant, Ramesh Singh and Economic Survey 2025-26 texts;
 > India Code; official ministries, commissions, surveys and scheme portals.
 > **Start here:** `00_Master-Framework.md`.
 
@@ -17,7 +18,9 @@
   ⚠️ = analytical inference or standard linkage; 📰 = a dated current legal,
   scheme or outcome-data anchor.
 - **Date discipline:** survey indicators, scheme coverage, crime data, budget
-  allocations and portal totals must retain their reporting year/date.
+  allocations and portal totals must retain their reporting year/date. For volatile
+  claims, this review is current to **21 July 2026**; retain both the source date and
+  the status (announced, enacted, notified, commenced, funded or operational).
 - **Legal discipline:** an enacted Act, notified rule, pending Bill, judicial
   direction and policy recommendation are not interchangeable.
 
@@ -75,4 +78,3 @@
 - Ministry of Rural Development and official scheme portals.
 - NFHS, PLFS/MoSPI, NCRB and Census sources.
 - NITI Aayog SDG and multidimensional-poverty reports.
-

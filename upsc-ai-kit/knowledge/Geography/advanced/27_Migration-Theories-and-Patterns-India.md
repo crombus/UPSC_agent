@@ -1,7 +1,7 @@
 # Migration Theories and Patterns in India — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + verified MoSPI *Migration in India 2020-21* / Census of India migration concepts.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified MoSPI/Census current anchor.
 > ✅ = from source book or official source · ⚠️ = inference / standard synthesis · 📰 = current affairs.
 > *Companion: `basic/27_Migration-Theories-and-Patterns-India.md`.*
 
@@ -91,16 +91,17 @@
 
 ## 10. 📰 Current link
 
-### CA Anchor — MoSPI released *Migration in India 2020-21* on 14 June 2022
+### CA Anchor — Census 2027 will refresh migration geography, but has no results yet
 
-📰 **News trigger:** The official MoSPI release on 14 June 2022 gave a fresh national picture of internal migration, including strong female marriage migration, high intrastate mobility and pandemic-era temporary movement.
+📰 **News trigger:** Census 2027 is scheduled to collect a new national population baseline. Until its
+migration tables are released, MoSPI's 2020-21 survey remains the dated survey anchor rather than a
+substitute for a new census.
 
 | Current fact | Static linkage | Use in answer |
 |---|---|---|
-| ✅ 28.9% all-India migration rate | Migration is large even if unevenly visible | Use for scale |
-| ✅ 86.8% of female migrants moved due to marriage | Gendered migration logic | Good for correcting “all migration is labour migration” |
-| ✅ 12.5% interstate, 87.5% intrastate | Distance and state-bound mobility matter | Good for Prelims traps |
-| ✅ 0.7% temporary visitors in survey year | Crisis and circular mobility | Good post-pandemic paragraph |
+| ✅ Census 2027 scheduled | New migration tables will eventually reset the decennial baseline | Do not invent results |
+| ✅ MoSPI 2020-21 remains dated survey evidence | Census and survey concepts differ | Label source and year |
+| ⚠️ Circular migration remains undercount-prone | Usual-residence measures miss some mobility | Use as an evaluative point |
 
 ⚠️ **Census 2027 routing:** the exercise is officially scheduled, but no new
 migration result exists at this cutoff. Keep the 2020-21 survey figures dated

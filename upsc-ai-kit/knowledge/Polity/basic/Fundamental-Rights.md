@@ -18,7 +18,8 @@
 
 ## 2. What & Why (core idea)
 
-✅ Fundamental Rights (FRs) are guaranteed to **all persons without discrimination**. They promote
+✅ Fundamental Rights (FRs) protect persons against unconstitutional State action, but their
+**beneficiaries differ**: some are citizen-only while others protect every person. They promote
 **political democracy**, prevent authoritarian rule, and act as **limitations on the State** —
 aiming at "a government of laws and not of men."
 
@@ -45,8 +46,8 @@ aiming at "a government of laws and not of men."
 - ✅ **Not absolute** — the State can impose **reasonable restrictions** (courts decide reasonableness).
 - ✅ Mostly available against the **State**; a few also against **private individuals**.
 - ✅ **Justiciable** — you can move the courts directly; the **Supreme Court** guarantees them (Art 32).
-- ✅ **Not permanent** — Parliament can curtail/repeal them by **constitutional amendment**
-  (not ordinary law), without harming the **basic structure**.
+- ✅ Parliament may amend Part III only through the constitutional-amendment process and
+  **cannot damage the basic structure**; ordinary law remains reviewable under Article 13.
 
 ## 5. Visual — Where FRs sit
 

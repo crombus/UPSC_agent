@@ -68,7 +68,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Repatriation and decolonising heritage (2025–26):** recent returns of Indian antiquities from foreign collections keep the historiography debate alive: who owns the past, how museums narrate it, and how colonial collecting shaped source availability.
+⚠️ **Current-link discipline:** Verify a repatriation case from the responsible government or museum record. The safe linkage is how collecting history, provenance and display shape interpretations of the past.
 
 ## 7. Mains angles
 

@@ -4,7 +4,7 @@
 > **Core area:** Infrastructure.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md`.*
+> *Companion: `../basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md`.*
 
 ---
 
@@ -142,6 +142,10 @@ contingent liabilities or future user and taxpayer costs.
 
 - ⚠️ 2024 GS-III: UDAN and regional air connectivity; FASTag and future seamless tolling.
 - ⚠️ 2026 Prelims provisional key: Vizhinjam and Sagarmala as structural logistics reforms.
+- ⚠️ **2024 answer engine:** FASTag is RFID electronic toll collection; assess time/fuel
+  saving and transparency alongside tag/network failure, grievance redress, data security
+  and fairness of barrier-free tolling. For UDAN, move from route announcement to airport
+  capability, viability support, operator economics, regional demand and last-mile links.
 
 ## 11. Mains-ready framework
 
@@ -165,7 +169,7 @@ contingent liabilities or future user and taxpayer costs.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md`.
+- ✅ Foundation companion: `../basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md`.
 - ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — capex and fiscal risk.
 - ✅ `16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md` — infrastructure as
   industrial capability.

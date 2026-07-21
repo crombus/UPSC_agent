@@ -24,7 +24,7 @@
 
 **Foundation — religious policy was orthodox, but politics still mattered.**
 
-✅ Satish Chandra presents Aurangzeb as orthodox in outlook: he emphasised the **sharia**, reimposed **jizyah**, and sanctioned destruction of some temples, including old-standing temples at places such as Mathura and Varanasi, as punishment for rebellions or complaints.
+✅ Satish Chandra presents Aurangzeb as orthodox in outlook: he emphasised the **sharia**, reimposed **jizyah**, and destroyed or converted a number of temples. Motives and contexts varied—rebellion, imperial punishment, local complaint and religious policy—and Chandra also notes the contradiction between formal protection of old temples and actual destruction.
 - ✅ Yet the source does **not** reduce every conflict to religion: Guru Tegh Bahadur's execution is framed by the Mughal side as a law-and-order issue, though Chandra calls the action unjustified and notes the wider religious repercussions.
 - ✅ The Rajput breach is also treated as a political-administrative blunder, not proof of a fixed plan to subvert Hinduism; many Rajputs and Marathas continued to enter Mughal service.
 - ⚠️ UPSC framing: avoid one-line communal explanations; connect **orthodoxy + imperial authority + succession disputes + fiscal/military pressure**.
@@ -41,7 +41,7 @@
 | Issue | What happened | UPSC point |
 |---|---|---|
 | ✅ Jizyah | Reimposed in **1679** as part of orthodox policy | Symbolic alienation, but not sole cause of decline |
-| ✅ Temple policy | Some temples destroyed/bricked up, especially linked to rebellion/local complaint | Avoid blanket claim of universal destruction |
+| ✅ Temple policy | Some old and new temples destroyed/converted in varying political and religious contexts | Avoid both blanket denial and universal-destruction claims |
 | ✅ Sikhs | Guru Tegh Bahadur executed; Khalsa founded by Guru Gobind Singh in 1699 | Religious movement turns militarised under pressure |
 | ✅ Marwar | Jaswant Singh dies; Ajit Singh's claim backed by Rathors | Succession + Mughal overreach |
 | ✅ Mewar | Rana Raj Singh supports Ajit Singh; guerrilla war in hills | Mughal prestige damaged |
@@ -72,7 +72,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Places of Worship Act case, Supreme Court (The Hindu, 18 Feb 2025):** the Court noted that the Centre had still not filed its response and adjourned hearings on petitions concerning the 1991 Act. **Relevance:** helps frame why medieval religious-site history must be handled with evidence, legal sensitivity and constitutional balance.
+📰 **Current linkage (verify live before use):** Contemporary religious-site litigation requires exact legal and historical sourcing. Verify the latest court order independently; never use a pending modern claim as proof of a medieval event.
 
 ## 7. Mains angles
 

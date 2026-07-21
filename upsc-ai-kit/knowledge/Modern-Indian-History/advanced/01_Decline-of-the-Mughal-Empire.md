@@ -1,7 +1,7 @@
 # The Decline of the Mughal Empire (1707–1740s) — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* (Ch. I) + *India's Struggle for Independence* (backdrop) — with the historiographical debate on 18th-century decline.
+> **Grounded in:** Bipan Chandra, *Modern India* (Ch. I), cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partition* — with the historiographical debate on eighteenth-century decline.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/01_Decline-of-the-Mughal-Empire.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -29,7 +29,7 @@
 
 **Deeper — Aurangzeb's Deccan and the fiscal over-stretch.**
 
-- ✅ Aurangzeb's prolonged **Deccan campaigns** (against the Marathas and the Deccan sultanates) over-extended the empire militarily and financially, alienated the Rajputs, and hardened Maratha resistance into a self-sustaining power.
+- ✅ Aurangzeb's prolonged **Deccan campaigns** over-extended the empire militarily and financially and failed to extinguish Maratha resistance. ⚠️ The relative importance of Rajput conflict and religious policy remains debated and should not be used as a single-cause explanation.
 - ✅ Under weak successors the **provincial governors** (Bengal under Murshid Quli Khan, Awadh under Saadat Khan, Hyderabad under the Nizam) founded effectively **hereditary, autonomous states** while still coining money and reading the *khutba* in the emperor's name — a legal fiction of unity over a real fragmentation.
 
 ## 2. Key classification / data
@@ -38,7 +38,7 @@
 |---|---|---|
 | ✅ Jagirdari crisis | Nobles > available jagirs (*be-jagiri*); factionalism | Satish Chandra / Bipin Chandra |
 | ⚠️ Agrarian crisis | Over-taxation → zamindar/peasant revolts | Irfan Habib (Aligarh) |
-| ⚠️ Cultural-institutional decay | Failure of *mansabdari* discipline & succession norms | Standard survey view |
+| ⚠️ Cultural/personal decline thesis | Courtly morality, rulers' character or religious policy | Older interpretation; insufficient without fiscal, agrarian and regional evidence |
 | ⚠️ Regional "revisionist" view | 18th c. = redistribution of power to regions, not collapse | Muzaffar Alam, C.A. Bayly |
 | ✅ Personal/successor factor | Weak rulers, wars of succession, king-making nobles | Bipin Chandra |
 

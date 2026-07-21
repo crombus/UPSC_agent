@@ -1,7 +1,7 @@
 # Federal System — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 13 / "Federal System" (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 13 / "Federal System" (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference · 📰 = current affairs.
 > *Companion: `basic/Federal-System.md`.*
 
@@ -85,8 +85,8 @@ integrity + strong Union in exceptional circumstances.
 - ❌ USA = "coming together", India = same → India = **"holding together"** (disintegration).
 
 ## 📰 CA hooks
-📰 ⚠️ Live federal frictions: **GST Council** & compensation disputes, **Governor's delay in assenting
-to bills** (TN/Kerala SC cases 2023-24), **NEET/education (Concurrent List)**, river-water disputes
+📰 ⚠️ Live federal frictions: GST coordination, **Governor's delay in assenting to
+bills** (read with the 20 Nov 2025 Article 143 opinion), **NEET/education (Concurrent List)**, river-water disputes
 (Cauvery), and **fiscal-devolution** demands from southern states — all illustrate "bargaining"/
 "cooperative" federalism in action.
 

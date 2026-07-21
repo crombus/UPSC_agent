@@ -46,9 +46,9 @@ on its promise.
 | ✅ **Sevottam** | DARPG's service-delivery excellence model, built on three components: a Citizens' Charter (service standards), a Public Grievance Redress Mechanism, and Service Delivery Capability (the organisational capacity to actually meet the charter's promise). |
 | ✅ **Citizens' Charter** | A document stating the services a public authority provides, the standards/timelines for delivery, and the remedy available if the standard is not met — first adopted in India in 1997 following the UK's Citizen's Charter model. |
 | ✅ **Right to Public Services (RTS) laws** | State-level statutes (beginning with Madhya Pradesh in 2010, followed by several other states) that give citizens a *legally enforceable* right to specified public services within a stipulated time limit, with a penalty on the defaulting official for delay — converting a charter's voluntary promise into an enforceable statutory right. |
-| ✅ **CPGRAMS** | The Centralised Public Grievance Redress and Monitoring System, an online portal enabling citizens to lodge, track and escalate grievances against Union government departments (and, through state integration, several state departments). |
+| ✅ **CPGRAMS** | DARPG's administrative platform for lodging, routing, tracking, feedback and appeal of grievances concerning participating Union ministries/departments and integrated entities. It is not a court, ombudsman or statutory right-to-service authority. |
 | ✅ **Single-window delivery** | An institutional design that lets a citizen access multiple related services/approvals through one integrated point of contact, rather than navigating separate departments serially. |
-| ⚠️ **Charter design vs charter delivery** | The *design* of a citizens' charter (its language, standards, consultation process) is an Ethics-owned angle (see `Ethics/basic/17`); Governance owns the *institutional delivery architecture* — Sevottam's grievance and capability pillars, RTS statutory enforcement, and CPGRAMS — that determines whether a well-designed charter is actually honoured. |
+| ⚠️ **Charter design and delivery** | Governance owns both service-standard design (clear service, timeline, responsible officer, user consultation, review) and the delivery architecture (Sevottam, grievance, capability, RTS). Ethics adds work-culture and public-service-value analysis; it does not displace the Governance syllabus topic. |
 
 ## 3. Why citizens' charters fall short of their potential (mechanism)
 
@@ -73,7 +73,10 @@ on its promise.
 - ✅ **State RTS Acts** — beginning with Madhya Pradesh's Right to Public Services Act (2010),
   several states enacted similar statutes giving specified services a legal timeline and a
   penalty for delayed delivery by the responsible official.
-- ✅ **CPGRAMS** — the Union online grievance-redress and monitoring portal.
+- ✅ **CPGRAMS** — DARPG's 2024 comprehensive guidelines use a **21-day** redress benchmark,
+  with feedback/appeal and nodal grievance officers; reasons/interim communication are needed
+  where resolution requires longer. This is an administrative benchmark, not a judicial
+  limitation period.
 - ⚠️ **Single-window/integrated service centres** — Common Service Centres and state-level
   single-window portals aggregating multiple department services at one access point.
 
@@ -107,25 +110,22 @@ on its promise.
 - ❌ A Citizens' Charter is legally enforceable by default. -> Most charters are voluntary
   administrative commitments; only RTS-covered services carry a statutory, penalty-backed
   enforceable timeline.
-- ❌ Citizens' Charter design (ethical framing, consultation, plain language) and Sevottam's
-  institutional delivery architecture are the same syllabus point. -> Charter design/ethical
-  framing is an Ethics-owned angle (see `Ethics/basic/17`); Governance's angle is the
-  institutional architecture (grievance redress, capability building, statutory RTS
-  enforcement) that makes any charter's promise actually deliverable.
-- ❌ CPGRAMS only covers Union departments. -> CPGRAMS has increasingly integrated with
-  several state grievance-redress systems, though coverage and integration depth vary by
-  state, not uniformly across India.
+- ❌ Governance needs only the portal/RTS machinery, while Ethics alone owns Charter design.
+  -> GS-II Governance requires both quality of the Charter promise and the architecture that
+  delivers/enforces it; Ethics supplies a complementary work-culture lens.
+- ❌ CPGRAMS creates a legally enforceable right to every service. -> It is an administrative
+  grievance system; statutory entitlement, designated officer, appeal and penalty come from
+  the relevant state RTS law for a notified service.
 - ❌ Citizens' Charters are static, one-time documents. -> Good practice (and the 2024 PYQ's
   implicit expectation) is periodic, consultative revision as service delivery conditions
   change.
 
 ## 8. 📰 Current anchor
 
-- 📰 Madhya Pradesh's 2010 Right to Public Services Act remains the founding, durable
-  reference point for statutory service-delivery timelines, and several other states have
-  since enacted similar RTS legislation. No fixed, exhaustive current list of RTS-covered
-  states and their specific notified service lists is asserted here, since state coverage
-  and service lists continue to expand.
+- 📰 **Status checked 21 July 2026:** Madhya Pradesh's 2010 Right to Public Services Act
+  remains the pioneering reference. CPGRAMS's current central benchmark is 21 days under
+  DARPG's 2024 guidelines. State RTS coverage, penalty design and CPGRAMS integration remain
+  non-uniform; verify the relevant state Act and service notification.
 
 ## 9. PYQ application
 
@@ -141,6 +141,8 @@ on its promise.
 
 - ⚠️ Always distinguish "charter exists" from "charter is enforceable" — the 2024 PYQ
   explicitly rewards this distinction.
+- ⚠️ Measure grievance quality by substantive resolution, reasoned closure, recurrence,
+  appeal outcome and citizen feedback—not disposal rate alone.
 - ⚠️ Recommend RTS-style statutory conversion as the strongest single corrective for
   charter under-performance, while flagging that statutory conversion alone is insufficient
   without matching Service Delivery Capability investment.

@@ -69,7 +69,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Non-invasive archaeology (2025–26):** ASI-linked use of drones, LiDAR, satellite imagery and ground-penetrating radar at fragile river-valley and settlement sites shows how ecological evidence is now gathered without heavy excavation.
+⚠️ **Current-link discipline:** Verify a specific LiDAR/GPR project from its survey report. The safe linkage is the growing role of non-invasive remote sensing in landscape and settlement archaeology.
 
 ## 7. Mains angles
 

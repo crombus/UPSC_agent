@@ -11,7 +11,7 @@
 | **Articles** | 214–231 (HC); 233–237 (subordinate) |
 | **No. of HCs** | ✅ **25** (some common to 2+ states/UTs) |
 | **HC judge retires** | ✅ **62** (SC judge = 65) |
-| **Collegium (HC)** | CJI + **2 seniormost** SC judges |
+| **SC collegium stage for HC appointment** | CJI + **2 seniormost** SC judges |
 | **Writ article** | ✅ **Art 226** (wider than SC's Art 32) |
 
 ## Core idea
@@ -23,6 +23,9 @@ state. India has **one integrated judiciary**: SC → HCs → subordinate courts
 > Kumar (1997): HC writ jurisdiction = **basic structure**.*
 > 🔑 **Qualification:** citizen + **10 yrs judicial office OR 10 yrs HC advocate** (no "distinguished jurist"
 > option, unlike SC).
+> 🔑 **Two stages:** the HC Chief Justice initiates a recommendation after consulting
+> two seniormost HC colleagues; the Supreme Court collegium then considers it. HC-judge
+> transfers use a broader consultation process.
 
 ## Subordinate courts (3 tiers)
 ✅ **District Judge = Sessions Judge** (top) → Subordinate Judge / Chief Judicial Magistrate → Munsiff /

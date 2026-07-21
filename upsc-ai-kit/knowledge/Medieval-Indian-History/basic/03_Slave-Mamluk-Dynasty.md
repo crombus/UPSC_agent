@@ -16,7 +16,7 @@
 | ✅ 1210–36 | Iltutmish ruled; real consolidator of Turkish conquests in north India |
 | ✅ 1221 | Mongol pressure reached the Indus; Iltutmish avoided sheltering Jalaluddin Mangbarani |
 | ✅ 1226–27 | Iltutmish's son defeated Iwaz near Lakhnauti; Bengal/Bihar again under Delhi suzerainty |
-| ✅ 1236–39 | Raziya ruled briefly amid Turkish noble opposition |
+| ✅ 1236–40 | Raziya ruled; the concise source prints 1236–39, while the standard regnal chronology extends to 1240 |
 | ✅ 1246 | Nasiruddin Mahmud was placed on the throne; Balban rose as dominant *naib* |
 | ✅ 1266–87 | Balban ruled as Sultan; era of strong centralised monarchy |
 | ✅ 1290 | End of Mamluk/Slave dynasty; Khalji dynasty followed |
@@ -29,6 +29,7 @@
 - ✅ Aibak's brief reign mattered because it prevented Delhi from being drawn into Central Asian politics and allowed the Sultanate to develop in India.
 - ✅ Iltutmish, Aibak's son-in-law, defeated rivals and is called the real consolidator of Turkish conquests in north India.
 - ✅ He recovered or reasserted control over Lahore, Multan, Uchch, Bengal/Bihar, Gwaliyar, Bayana, Ajmer and Nagor in phases.
+- ✅ Caliphal investiture strengthened Iltutmish's legitimacy after consolidation; it did not create his authority or place Delhi under effective caliphal control.
 
 **Foundation — Raziya and Balban show the struggle for monarchy.**
 
@@ -72,11 +73,10 @@
 
 ## 6. 📰 Current link
 
-📰 **PIB update on Qutb Minar complex conservation (2024):** The Ministry of Culture/PIB listed conservation and visitor-facility works at Qutb Minar complex, including Iltutmish's tomb and the Quwwat-ul-Islam mosque area. **UPSC relevance:** links early Sultanate rulers with Indo-Islamic architecture and ASI heritage management.
+📰 **Current linkage (verify live before use):** Conservation at the Qutb complex can connect Aibak and Iltutmish with heritage management. Use only the latest ASI/UNESCO record for specific works, closures or dates.
 
 ## 7. Mains angles
 
 - ⚠️ Why is Iltutmish called the real founder/consolidator of the Delhi Sultanate?
 - ⚠️ Raziya's career as a lens on gender, nobility and legitimacy in the Sultanate.
 - ⚠️ Balban's monarchy: necessary centralisation or coercive overreach?
-

@@ -5,7 +5,9 @@
 > questions; patronage and Indo-Persian synthesis without essentialism;
 > material as a datable marker.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 125-148; `00_Master-Framework.md` Sections 4-5; audited UPSC Mains
+> 125-148; Satish Chandra, *History of Medieval India*, PDF pp. 194-197,
+> 328-334; Satish Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp.
+> 382-395; `00_Master-Framework.md` Sections 4-5; audited UPSC Mains
 > 2024-2025 GS Paper I (adjacent only).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/04_Indo-Islamic-and-Regional-Architecture.md`.*
@@ -34,7 +36,7 @@ which source.
 | ✅ **Spolia/reuse** | Direct architectural reuse of earlier structures/materials — the Quwwat-ul-Islam mosque inscription records reuse of material from 27 demolished Hindu and Jaina temples (*Nitin…pdf*, PDF p. 130; ASI, Qutb Minar complex), showing continuity of building fabric across a religious/political transition rather than construction from a blank site. |
 | ⚠️ **Environmental-adaptation school** | The Malwa/Pathan school's large windows, lightly arched airy pavilions and baulis (*Nitin…pdf*, PDF pp. 133-134) show provincial architecture responding to regional climate rather than simply replicating an imperial Delhi template — a case for arguing "Indo-Islamic architecture" was never a single monolithic style. |
 | ✅ **Material as datable marker** | The book uses building material shifts (Akbar's red sandstone -> Jahangir/Nur Jahan's white marble, beginning with Itmad-ud-Daulah's tomb) as an internal chronological marker independent of inscriptional dating (*Nitin…pdf*, PDF p. 141) — reusable as an analytical technique for dating undocumented Mughal-period structures. |
-| ⚠️ **Decline-as-ideology** | Aurangzeb's reduced architectural patronage is presented by the book as a direct consequence of his "puritanical" religious outlook (*Nitin…pdf*, PDF p. 144) — an interpretive claim linking personal religious disposition to state patronage decisions, which should be flagged as an interpretation rather than a self-evident fact. |
+| ⚠️ **Reduced patronage, not stylistic extinction** | Nitin links Aurangzeb's reduced building to puritanism; Satish Chandra stresses economy-mindedness and continuity of Mughal forms into provincial architecture. Treat motive as debated and separate fewer imperial commissions from survival of the idiom. |
 
 ## 3. Comparative framework
 
@@ -47,8 +49,9 @@ which source.
 
 ## 4. Evidence, form and interpretation
 
-✅ The Qutb Minar's three-ruler construction (Aibak's ground floor,
-Iltutmish's next three storeys, Firoz Shah Tughlaq's fifth) is direct
+✅ The Qutb Minar is a layered monument: Aibak began it, Iltutmish
+substantially completed it, and Firoz Shah Tughlaq repaired/rebuilt damaged
+upper portions. It is
 evidence that a single "Sultanate monument" can itself be a layered,
 multi-generational patronage record — the same analytical method used for
 Sanchi in topic 02 and applicable to any long-construction monument
@@ -65,6 +68,12 @@ caution matters for any advanced answer that discusses Akbar's syncretism
 as an architectural/cultural policy: the physical setting (Ibadat Khana)
 and the doctrinal outcome (Din-i-Ilahi's limited following) must be kept
 analytically distinct.
+
+✅ **Taj authorship correction:** Nitin names Ustad Ahmad Lahori, but Satish
+Chandra's fuller discussion identifies named specialists while concluding
+that the Taj was a collective achievement rather than the creation of one
+mastermind (*Part 2*, PDF p. 388). This is the model for handling
+workshop-scale authorship.
 
 ## 5. Visual synthesis table
 
@@ -134,6 +143,12 @@ topic supports, but does not own, that answer.
   a specific, datable marker (Akbar's red sandstone era vs. the white
   marble era beginning with Itmad-ud-Daulah's tomb under Jahangir/Nur
   Jahan) — collapsing this distinction loses a useful dating technique.
+- ❌ Explaining reduced Aurangzeb-era imperial building solely through a
+  fixed religious personality. -> Patronage, war, fiscal priority and
+  economy also matter; architectural traditions continued regionally.
+- ❌ Converting workshop production into single-genius authorship. -> The
+  Taj's design and execution involved multiple named specialists and
+  collective labour.
 
 ## 10. Mains answer frameworks
 

@@ -1,7 +1,7 @@
 # Transport, Trade & Space Networks — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (world/general-concept) · **GS Paper:** GS-I & GS-III
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + standard transport/trade geography.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong's regional foundations + verified dated current-affairs anchor.
 > **Data caution:** ✅ Route types and trade concepts are static geography; exact traffic shares change with war, technology and fuel prices.
 > ✅ = grounded source · ⚠️ = synthesis / exam heuristic · 📰 = verified dated current-affairs anchor.
 > *Companion: `advanced/33_Transport-Trade-and-Indian-Space-Programme.md`.*
@@ -99,14 +99,15 @@
 
 ## 10. 📰 Current link
 
-### CA Anchor — 29 Jan 2025 (ISRO) and FY 2025-26 port performance
+### CA Anchor — NVS-02: launch success is not operational success
 
-📰 **Source/date:** ISRO, **29 Jan 2025** - GSLV-F15 placed **NVS-02** for the NavIC system; PIB, FY **2025-26** port update - major ports handled **915.17 MT** cargo.
+📰 **Source/date:** GSLV-F15 placed **NVS-02** in transfer orbit on **29 January 2025**, but its
+orbit-raising propulsion could not be used and it did not enter its intended NavIC slot.
 
-✅ The transport-trade-space triangle is visible here: ports move physical cargo, while navigation satellites improve positioning, timing and route efficiency.
+✅ The case distinguishes launch geography from operational navigation infrastructure: a satellite
+must reach and function in its intended orbit before it strengthens transport timing and positioning.
 
-- ✅ NavIC strengthens indigenous navigation capability.
-- ✅ High cargo at ports shows the continued primacy of maritime trade.
+- ✅ NavIC strengthens indigenous navigation capability, but launch success and operational-constellation success are not identical.
 - ⚠️ Revision use: connect satellite navigation with port, shipping and corridor efficiency.
 
 ## 11. Mains angles

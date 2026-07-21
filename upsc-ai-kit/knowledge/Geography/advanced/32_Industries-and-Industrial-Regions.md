@@ -1,7 +1,7 @@
 # Industries & Industrial Regions — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Ministry of Commerce & Industry / DPIIT / PIB material.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified DPIIT/PIB current anchor.
 > **Data caution:** ✅ Static industrial-region labels are textbook-geographic frames; current incentive and corridor information is separately identified in the CA section.
 > ✅ = grounded source · ⚠️ = synthesis / answer-writing guidance · 📰 = verified dated current-affairs anchor.
 > *Companion: `basic/32_Industries-and-Industrial-Regions.md`.*
@@ -21,7 +21,8 @@
 | ✅ Chota Nagpur / Damodar valley belt | Coal + iron ore + rail connectivity | Iron and steel, heavy engineering, power |
 | ✅ Mumbai-Pune belt | Port access + market + capital + labour | Engineering, chemicals, textiles, automobiles |
 | ✅ Ahmedabad-Vadodara belt | Cotton hinterland + entrepreneurship + transport | Textiles, chemicals, engineering |
-| ✅ Chennai-Coimbatore-Bengaluru corridor | Port, skills, power and engineering base | Automobiles, textiles, IT-linked manufacturing, machinery |
+| ✅ Chennai-Bengaluru industrial corridor | Ports, markets, skills and engineering base | Automobiles, electronics, machinery and services-linked manufacturing |
+| ✅ Coimbatore-Tiruppur belt | Cotton-textile base, engineering skills and enterprise networks | Textiles, knitwear, pumps and machinery |
 | ✅ Delhi-NCR belt | Market, connectivity, policy and labour | Diversified manufacturing and logistics |
 | ✅ Visakhapatnam / eastern coast nodes | Port + mineral hinterland | Metallurgical and petro-industrial growth |
 
@@ -91,15 +92,16 @@
 
 ## 9. 📰 Current link
 
-### CA Anchor — 28 Aug 2024 (PIB) and official PLI architecture
+### CA Anchor — PLI and sector-specific cluster formation
 
-📰 **Source/date:** PIB, **28 Aug 2024** - Cabinet approved **12 industrial nodes/cities** under NICDP with project investment of **Rs 28,602 crore**; official PLI framework covers **14 sectors** with approved outlay of about **Rs 1.97 lakh crore**.
+📰 **Current anchor:** the official PLI framework covers **14 sectors** with approved outlay of about
+**Rs 1.97 lakh crore**. Use it here as the advanced, sector-cluster anchor; the companion basic file
+uses NICDP's planned industrial nodes.
 
 | Current fact | Industrial-geography reading |
 |---|---|
-| ✅ 12 smart industrial cities approved across 10 states and 6 corridors | Planned spatial redistribution of manufacturing |
-| ✅ Trunk infrastructure model under NICDP | State-led agglomeration and corridor formation |
 | ✅ PLI targets 14 manufacturing sectors | Incentives are helping create new sector-specific clusters |
+| ⚠️ Cluster outcome | Incentives interact with ports, skills, suppliers, power and state capacity |
 
 ✅ The larger theme is that India is trying to convert industrial geography from **accidental concentration** into **designed corridor-based concentration**.
 

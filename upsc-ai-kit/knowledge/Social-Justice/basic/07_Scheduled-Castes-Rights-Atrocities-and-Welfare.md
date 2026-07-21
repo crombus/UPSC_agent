@@ -59,11 +59,11 @@ SC-welfare policy.
 |---|---|
 | ✅ **PoA Act, 1989** | The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, a special law providing enhanced penalties for caste-based offences against SCs/STs, with Special Courts and victim-relief provisions. |
 | ✅ **Atrocity (PoA Act)** | Offences listed in the Schedule to the Act (assault, wrongful dispossession, forced labour, sexual exploitation, public humiliation, etc.) committed against an SC/ST person by a non-SC/ST person; the Act provides for enhanced punishment. |
-| ✅ **2015 Amendment (PoA Act)** | Expanded the list of atrocity offences, mandated Exclusive Special Courts in each district, required Special Public Prosecutors, and codified relief-and-rehabilitation norms for victims. |
-| ✅ **2018 Amendment (PoA Act)** | Restored/clarified arrest and anticipatory-bail provisions after a 2018 Supreme Court ruling diluted them; the Amendment overrode the Court's direction, reinstating stronger procedural safeguards against accused absconding. |
-| ✅ **PM-AJAY** | Pradhan Mantri Anusuchit Jaati Abhyudaya Yojana — umbrella SC-welfare scheme (MoSJE) merging: (a) erstwhile Special Central Assistance to SC Sub-Plan, (b) Babu Jagjivan Ram Chhatrawas Yojana (hostels), and (c) components for social integration; covers Adarsh Gram (village development), hostel infrastructure and skill/livelihood support. |
-| ✅ **NSFDC** | National Scheduled Castes Finance and Development Corporation — a PSU under MoSJE providing concessional credit and livelihood finance to SC beneficiaries through state channelising agencies. |
-| 📰 **Davinder Singh (Aug 2024)** | State of Punjab v. Davinder Singh — Supreme Court Constitution Bench ruling (August 2024) holding that states may sub-classify Scheduled Castes for reservation purposes to provide separate quotas for more disadvantaged sub-groups; also discussed "creamy layer"-type identification within SCs/STs for preferential targeting, a matter of ongoing policy debate. |
+| ✅ **2015 Amendment (PoA Act)** | Expanded atrocity offences, strengthened victim/witness rights and created the Special/Exclusive Special Court architecture. Courts are notified by States with the Chief Justice's concurrence; do not state that an Exclusive Special Court automatically exists in every district. |
+| ✅ **2018 Amendment (PoA Act)** | Inserted Section 18A after the 2018 ruling: no preliminary inquiry is required for FIR registration, no approval is required for arrest, and the statutory bar on anticipatory bail is restored. *Prathvi Raj Chauhan* (2020) preserves exceptional constitutional-court protection where no prima facie case exists. |
+| ✅ **PM-AJAY** | Pradhan Mantri Anusuchit Jaati Abhyudaya Yojana — umbrella SC-development framework covering SC-dominated-village development (Adarsh Gram), grants for district/state socio-economic projects and hostel support in higher educational institutions. State proposals and annual approvals determine delivery; do not treat every MoSJE SC scheme as a PM-AJAY component. |
+| ✅ **NSFDC** | National Scheduled Castes Finance and Development Corporation — a Government of India company under MoSJE providing concessional credit and livelihood finance to SC beneficiaries through state channelising agencies. |
+| 📰 **Davinder Singh (1 Aug 2024)** | *State of Punjab v. Davinder Singh*, a seven-judge Constitution Bench decision (6:1), overruled *E.V. Chinnaiah* and held that data-supported sub-classification within SCs for reservation is constitutionally permissible. It does not alter the Presidential List or itself allot a sub-quota. Creamy-layer comments in separate opinions are not a legislated SC/ST exclusion rule. |
 
 ## 3. How SC protection and welfare instruments work (mechanism)
 
@@ -72,28 +72,30 @@ SC-welfare policy.
    punishment; victim-relief (monetary compensation, shelter, travel expenses) as per
    Schedule; presumption of offence in certain circumstances.
 2. **2015 Amendment:** expanded atrocity offences (e.g., garlanding with footwear,
-   preventing entry to public places); mandated Exclusive Special Courts and Special
-   Public Prosecutors in each district; codified relief-and-rehabilitation timelines.
-3. **2018 Amendment (Act-Court-Amendment sequence):** in 2018, the Supreme Court diluted
-   arrest/anticipatory-bail provisions, holding that arrest should not be automatic;
-   Parliament responded by amending the Act to restore the original stringent arrest
-   provisions and bar anticipatory bail in atrocity cases — the Amendment overrode the
-   Court's direction.
-4. **PM-AJAY — welfare delivery:** (a) Adarsh Gram component for SC-dominated-village
-   infrastructure/development; (b) Babu Jagjivan Ram Chhatrawas Yojana for hostel
-   construction for SC students; (c) skill/livelihood support and social-integration
-   components.
+   preventing entry to public places), strengthened victim/witness safeguards and the
+   Special/Exclusive Special Court architecture. Court notification depends on statutory
+   conditions and State action; it is not an automatic one-court-per-district rule.
+3. **2018 Amendment (Act-Court-Amendment sequence):** Parliament inserted Section 18A:
+   no preliminary inquiry before FIR, no approval before arrest and the statutory
+   anticipatory-bail bar notwithstanding the earlier ruling. *Prathvi Raj Chauhan* later
+   upheld Section 18A while retaining exceptional constitutional-court protection where
+   the complaint discloses no prima facie case.
+4. **PM-AJAY — welfare delivery:** (a) Adarsh Gram development for SC-dominated villages;
+   (b) grants for approved district/state socio-economic projects; and (c) hostel support
+   in higher educational institutions. These are project/sanction channels, not automatic
+   individual benefits.
 5. **NSFDC — credit access:** provides term loans, micro-credit and skill-development
    finance to SC entrepreneurs/beneficiaries at concessional rates through state
    channelising agencies.
 
 ## 4. Institutions and tools
 
-- ✅ **PoA Act, 1989 (amended 2015, 2018):** Special Courts (Exclusive Special Courts per
-  2015 Amendment); Special Public Prosecutors; relief-and-rehabilitation for victims;
-  presumption of offence.
-- ✅ **PM-AJAY (MoSJE):** umbrella scheme with Adarsh Gram, hostel (Babu Jagjivan Ram
-  Chhatrawas), skill/livelihood and social-integration components.
+- ✅ **PoA Act, 1989 (amended 2015, 2018):** State-notified Special/Exclusive Special
+  Courts, Special Public Prosecutors, victim/witness safeguards and relief/
+  rehabilitation; verify the court-notification status for the relevant State.
+- ✅ **PM-AJAY (MoSJE):** umbrella framework for Adarsh Gram, district/state
+  socio-economic development projects and hostel support, implemented through approved
+  proposals rather than an automatic individual entitlement.
 - ✅ **NSFDC (MoSJE PSU):** concessional credit, micro-credit, skill-development finance
   for SC beneficiaries.
 - ✅ **NCSC (Art 338):** National Commission for Scheduled Castes — constitutional body
@@ -107,23 +109,21 @@ SC-welfare policy.
   as an atrocity under the 2015-expanded offence list; Special Court jurisdiction.
 - ⚠️ PM-AJAY's Adarsh Gram component targeting SC-dominated villages for saturation of
   basic services illustrates the welfare-delivery mechanism.
-- 📰 **Davinder Singh (August 2024):** the Supreme Court held that states may sub-classify
-  within the Presidential SC list to allocate separate quotas for more disadvantaged
-  sub-groups (e.g., within Punjab's SC population, sub-quotas for Valmiki/Mazhabi Sikhs).
-  This is a judicial ruling permitting state legislation — it does not by itself create a
-  sub-classification scheme; Parliament/states must act. The ruling also discussed a
-  "creamy layer"-type concept for SCs/STs, but this remains a matter of policy debate,
-  not a legislated exclusion rule. For SC-welfare targeting (PM-AJAY resource allocation),
-  sub-classification could improve reach to the most disadvantaged sub-groups.
+- 📰 **Davinder Singh (1 August 2024):** the seven-judge Bench permitted data-supported
+  sub-classification within SCs and overruled *E.V. Chinnaiah*. It does not itself allot a
+  sub-quota or alter the Presidential List. Creamy-layer observations were in separate
+  opinions, not a current SC/ST exclusion rule; any welfare use must therefore be
+  evidence-based and lawfully designed.
 
 ## 6. Must-Know Facts for Prelims
 
 - ✅ PoA Act, 1989 provides enhanced penalties for listed atrocity offences against
   SCs/STs; trial in Special Courts.
-- ✅ The 2015 Amendment expanded offences and mandated Exclusive Special Courts and
-  Special Public Prosecutors.
-- ✅ The 2018 Amendment restored stringent arrest/anticipatory-bail provisions after a
-  Supreme Court ruling diluted them.
+- ✅ The 2015 Amendment expanded offences and strengthened State-notified Special/
+  Exclusive Special Courts and Special Public Prosecutors.
+- ✅ The 2018 Amendment inserted Section 18A: no preliminary inquiry before FIR, no
+  approval before arrest and the statutory anticipatory-bail bar, subject to the narrow
+  *Prathvi Raj Chauhan* prima-facie-case safeguard.
 - ✅ PM-AJAY is the umbrella SC-welfare scheme under MoSJE, merging erstwhile standalone
   schemes.
 - ✅ NSFDC provides concessional credit to SC beneficiaries through state channelising
@@ -134,26 +134,21 @@ SC-welfare policy.
 - ❌ The 2018 PoA Amendment was passed to implement a Supreme Court direction. -> The
   2018 Amendment was passed to *override* a Supreme Court ruling that diluted arrest/
   anticipatory-bail provisions; Parliament reinstated the original stringent provisions.
-- ❌ Davinder Singh (2024) created a sub-classification within SCs. -> The judgment
-  *permits* states to sub-classify through legislation; it does not by itself create a
-  sub-classification scheme.
+- ❌ Davinder Singh (2024) created a sub-classification or an SC/ST creamy-layer rule. ->
+  The judgment permits data-supported sub-classification; it neither allocates a
+  sub-quota by itself nor makes the separate creamy-layer observations a legislated rule.
 - ❌ NCSC is a statutory body like NCW. -> NCSC is a *constitutional body* under Art 338;
   NCW is a statutory body under the NCW Act, 1990.
-- ❌ PM-AJAY is a new scheme unrelated to earlier SC-welfare programmes. -> PM-AJAY
-  merged erstwhile schemes (Special Central Assistance, Babu Jagjivan Ram Chhatrawas,
-  social-integration components) into an umbrella structure.
+- ❌ PM-AJAY is an automatic individual scholarship/loan entitlement. -> It is an umbrella
+  project framework for Adarsh Gram, socio-economic development proposals and hostel
+  support; other SC schemes and NSFDC credit have distinct eligibility routes.
 
 ## 8. 📰 Current anchor
 
-- 📰 **Davinder Singh (Supreme Court, August 2024):** Constitution Bench ruled that
-  sub-classification within the Presidential SC list is constitutionally permissible;
-  states may legislate separate quotas for more disadvantaged sub-groups within SCs.
-  The judgment also invoked a "creamy layer"-type identification concept for SCs/STs,
-  but this is a policy-debate matter, not a current legislative rule. The ruling has
-  implications for PM-AJAY-style welfare targeting — sub-classification could direct
-  resources to the most marginalised sub-castes. Reservation-doctrine analysis (50%
-  ceiling, Indra Sawhney) belongs to Polity (`Polity/advanced/22_Special-Provisions.md`);
-  this topic focuses on the welfare-targeting and atrocity-enforcement dimensions.
+- 📰 **Davinder Singh (1 August 2024):** The binding point is constitutional permission
+  for evidence-based sub-classification within SCs, not automatic redistribution of a
+  quota or a creamy-layer rule. Use it as a current targeting debate while retaining the
+  distinct PoA enforcement problem and the relevant State's legal action.
 
 ## 9. PYQ application
 

@@ -1,9 +1,10 @@
 # Family, Marriage and Kinship - ADVANCED
 
 > **Subject:** Indian Society | **Tier:** Advanced | **GS Paper:** GS-I.
-> **Core area:** Functional versus structural nuclearisation, the interreligious-marriage
-> boundary as a personal-law problem, and globalisation's causal effect on family authority.
-> **Grounded in:** NFHS-6 (2023-24, released 29 May 2026); classical kinship typologies;
+> **Core area:** Functional versus structural nuclearisation, interreligious-marriage
+> boundary explanations, and globalisation's effect on family authority.
+> **Grounded in:** NFHS-5 (2019-21, latest released national round as checked 21 July 2026);
+> classical kinship typologies;
 > audited 2024 GS-I Mains PYQs (Q9 and Q19).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/04_Family-Marriage-and-Kinship.md`.*
@@ -25,9 +26,9 @@ NUCLEAR                       RITUAL PARTICIPATION
    (nuclear residence, joint obligation persists)
                        |
                        v
-        MARRIAGE-BOUNDARY EROSION GRADIENT
-   CASTE boundary (status-parity condition) erodes faster
-   RELIGION boundary (personal-law + belonging anchor) erodes slower
+       MARRIAGE-BOUNDARY EXPLANATIONS (2024 PYQ)
+   status parity may ease some intercaste matches;
+   kinship/community constraints can affect interreligious matches
                        |
                        v
         GLOBALISATION PRESSURE
@@ -35,21 +36,20 @@ NUCLEAR                       RITUAL PARTICIPATION
    -> personal freedom expansion vs family-control friction
 ```
 
-**Analytical claim:** ⚠️ Structural nuclearisation (separate residence) has outpaced
-functional nuclearisation (independence from joint-family financial and ritual obligation),
-producing a "functional joint family" that looks nuclear in housing statistics but behaves
-jointly in decision-making and support flows; against this backdrop, the marriage-boundary
-erosion gradient (caste faster than religion) reflects that caste boundaries are now
-primarily a status calculation, while religious boundaries remain anchored in personal law
-and community belonging that resist status-based negotiation.
+**Analytical claim:** ⚠️ Structural nuclearisation (separate residence) can outpace
+functional nuclearisation (independence from intergenerational financial and ritual
+obligation), producing a useful “functional joint family” heuristic rather than a universal
+household type. Against this backdrop, the 2024 PYQ should be read as a qualified marriage
+pattern: status parity, kinship, community identity and region interact, and the Special
+Marriage Act means personal-law plurality alone cannot explain social resistance.
 
 ## 2. Concepts and distinctions
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Structural nuclearisation vs functional nuclearisation** | Structural nuclearisation is the shift to separate, smaller-household residence; functional nuclearisation would additionally mean independence from joint-family financial support and decision authority — in India, the first has advanced faster than the second. |
+| ⚠️ **Structural nuclearisation vs functional nuclearisation** | Structural nuclearisation is the shift to separate, smaller-household residence; functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority. Separate residence can advance without full functional independence, but the pattern varies by household and region. |
 | ✅ **Endogamy (caste) vs exogamy (gotra) vs boundary-crossing (religion)** | Caste endogamy and gotra exogamy are complementary internal rules within the Hindu-caste marriage system; interreligious boundary-crossing is a categorically different, external boundary governed additionally by personal law and community sanction, not just kinship rule. |
-| ⚠️ **Personal law anchor vs status-parity condition** | Intercaste marriage acceptance is increasingly conditioned on socio-economic parity between families (a negotiable status calculation); interreligious marriage is anchored by differing personal laws (marriage, inheritance, custody) and community identity, which are not resolved merely by economic equivalence. |
+| ⚠️ **Civil route versus social boundary** | The Special Marriage Act provides a civil route across religions; nevertheless, family sanction, kinship networks, community identity and local conditions may affect acceptance. Economic parity can matter in some intercaste cases but cannot be treated as a universal causal explanation. |
 | ⚠️ **Patrilineal descent vs matrilineal descent** | Patrilineal systems vest descent, surname and property transmission in the male line; matrilineal systems (Khasi, traditionally Nair) vest these in the female line — matrilineal descent does not automatically mean matriarchal authority, since ritual and public authority can still rest with maternal uncles rather than women themselves (a frequently mis-stated point). |
 | ⚠️ **Live-in relationship recognition gap** | Judicial recognition of live-in relationships "in the nature of marriage" for protective purposes (cross-linked to Social-Justice) has expanded faster than social acceptance, creating a legal-social gap where a relationship may be legally protected but not socially normalised. |
 
@@ -67,13 +67,13 @@ and community belonging that resist status-based negotiation.
    structural) nuclearisation.
 
 ### Marriage-boundary erosion chain (2024 Q9)
-1. Intercaste marriage between families of similar socio-economic standing does not
-   threaten either family's status or resource position — social sanction eases.
-2. Interreligious marriage crosses a boundary governed by differing personal laws
-   (marriage registration, inheritance, custody norms) and often deeper community-identity
-   stakes — economic parity does not resolve this boundary.
-3. ⚠️ The differential erosion speed shows Indian marriage norms are not undergoing a single
-   uniform "modernisation" but two distinct processes moving at different rates.
+1. In some settings, socio-economic parity may reduce a family's status and resource concerns
+   about an intercaste match; it does not remove caste endogamy everywhere.
+2. Interreligious marriage may also engage family sanction, kinship networks, community
+   identity and local political context. The Special Marriage Act supplies a civil route, so
+   different personal laws are not a sufficient explanation.
+3. ⚠️ The PYQ's qualified contrast should be tested against regional, class and generational
+   variation, not treated as two nationally uniform processes.
 
 ### Globalisation-family chain (2024 Q19)
 1. ✅ Globalisation expands urban formal-sector and service-sector jobs attractive to
@@ -126,8 +126,9 @@ and community belonging that resist status-based negotiation.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ NFHS-6 (2023-24), released 29 May 2026, recorded India's Total Fertility Rate at 2.0,
-  directly relevant to family-size and nuclearisation analysis.
+- ✅ NFHS-5 (2019-21) recorded India's Total Fertility Rate at 2.0. It is the latest
+  released national NFHS round as checked on 21 July 2026 and is relevant to family size, not
+  a direct measure of nuclearisation.
 - ✅ Among the Khasi, property passes through the youngest daughter, but customary public
   authority is often exercised by maternal uncles — descent and authority are distinct axes.
 - ✅ The Special Marriage Act, 1954 provides a civil-marriage alternative across religious
@@ -154,18 +155,18 @@ and community belonging that resist status-based negotiation.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 NFHS-6 (2023-24), released 29 May 2026, is the most recent verified household-survey
-  round for fertility and family-structure-linked indicators; NFHS-5 (2019-21) figures
-  should not be cited as current once NFHS-6 data is available for the same indicator.
+- 📰 NFHS-5 (2019-21) remains the latest released national NFHS round as checked on 21 July
+  2026. Use its TFR of 2.0 as a dated fertility indicator; do not mislabel it as a direct
+  household-structure estimate or cite an unissued NFHS-6 result.
 
 ## 10. PYQ-based analytical application
 
 - ✅ **2024 GS-I Q9 (10 marks, verbatim):** "Intercaste marriages between castes which have
   socio-economic parity have increased, to some extent, but this is less true of
   interreligious marriages. Discuss." Analytical route from the family/kinship angle:
-  personal-law plurality and community-identity stakes anchor the religious boundary in a
-  way that economic parity cannot resolve, while caste boundaries have become primarily
-  status calculations — cross-refer `advanced/02` for the full caste-side treatment.
+  test how status parity, family/kinship sanction and community identity interact, while
+  noting the Special Marriage Act's civil route and strong regional variation — cross-refer
+  `advanced/02` for the full caste-side treatment.
 - ✅ **2024 GS-I Q19 (15 marks, verbatim):** "Globalization has increased urban migration by
   skilled, young, unmarried women from various classes. How has this trend impacted upon
   their personal freedom and relationship with family?" Analytical route: trace the
@@ -176,14 +177,15 @@ and community belonging that resist status-based negotiation.
 ## 11. Mains-ready framework
 
 **Central thesis:** Indian family, marriage and kinship change is uneven and multi-track:
-residential nuclearisation has outpaced functional independence, caste-marriage boundaries
-are eroding faster than religious ones because they rest on a negotiable status calculation
-rather than a personal-law anchor, and globalisation's urban-migration effect on women
-expands personal freedom while renegotiating, rather than severing, family ties.
+residential nuclearisation can outpace functional independence, and the 2024 marriage PYQ
+requires a context-sensitive explanation using status, kinship, family sanction and community
+identity rather than a categorical caste-versus-personal-law binary. Globalisation-linked
+urban work can expand personal freedom while renegotiating, rather than severing, family ties.
 
 1. Distinguish structural from functional nuclearisation with a concrete example.
 2. State the endogamy-exogamy pairing as the baseline marriage-rule system.
-3. Apply the status-parity versus personal-law-anchor distinction to the 2024 Q9 wording.
+3. Apply status, kinship and community-boundary explanations to the 2024 Q9 wording while
+   noting the Special Marriage Act route.
 4. Trace the globalisation-migration-freedom-family causal chain for 2024 Q19.
 5. Give one matrilineal-system boundary case, noting the descent-versus-authority gap.
 6. Flag the generalisation risk in "joint family is disappearing" claims.

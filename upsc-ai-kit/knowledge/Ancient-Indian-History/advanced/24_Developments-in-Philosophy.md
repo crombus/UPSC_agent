@@ -14,7 +14,7 @@
 | ✅ Early systems | ancient, hard to date precisely | Sutra traditions and commentaries develop |
 | ✅ Classical pairing | early historic to early medieval | Samkhya-Yoga, Nyaya-Vaisheshika, Mimamsa-Vedanta |
 | ✅ Six-system grouping | later/medieval crystallisation | Upinder cautions that the neat group emerged late |
-| 📰 Manuscript/classical language push | 2025–26 | Preservation and access to philosophical texts |
+| ⚠️ Manuscript preservation | contemporary | Cataloguing, conservation and access to philosophical texts |
 
 ## 1. Snapshot & core idea
 
@@ -74,7 +74,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Classical languages and philosophical transmission (2025–26):** PIB explainers following the recognition of **Pali, Prakrit, Assamese, Bengali and Marathi** as classical languages highlight preservation of ancient textual heritages. Use this with philosophy because many debates survived through Sanskrit, Pali, Prakrit and regional manuscript cultures.
+⚠️ **Current-link discipline:** Verify the current legal/status list of classical languages from the official notification. The safe linkage is preservation of philosophical debate through Sanskrit, Pali, Prakrit and regional manuscript cultures.
 
 ## 7. Mains angles
 

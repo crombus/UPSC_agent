@@ -1,7 +1,7 @@
 # The World Economy and Population since 1900 — ADVANCED
 
 > **Subject:** History (World History) · **Tier:** Advanced (analysis + answer writing) · **GS Paper:** GS-I with GS-III overlap
-> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapters 27-28 + IMF *World Economic Outlook* executive summary (April 2025) + UN *World Population Prospects 2024*.
+> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapters 27-28 + IMF *World Economic Outlook Update* (July 2026) + UN *World Population Prospects 2024*.
 > ✅ = from Lowe · ⚠️ = synthesis / analytical judgement · 📰 = post-2013 current affairs.
 > *Companion: `basic/20_World-Economy-and-Population-since-1900.md`.*
 
@@ -56,8 +56,8 @@
 
 ## 7. 📰 Current link
 
-- 📰 **IMF World Economic Outlook, April 2025:** global growth was projected at **2.8% for 2025** and **3.0% for 2026** amid heightened trade-policy uncertainty. Keep the forecast vintage attached; later WEO updates are not interchangeable with this April baseline.
-- 📰 **UN World Population Prospects, 2024:** world population was estimated at about **8.2 billion**, with a projected peak around **10.3 billion** in the mid-2080s.
+- 📰 **IMF World Economic Outlook Update, July 2026:** global growth was projected at **3.0% for 2026** and **3.4% for 2027**. Keep the forecast vintage attached; later updates are not interchangeable with this baseline.
+- 📰 **UN World Population Prospects, 2024:** world population was estimated at about **8.2 billion**, with a projected peak of about **10.3 billion** in the mid-2080s.
 - 📰 Exam use: both updates reinforce Lowe's long-run themes - world integration remains fragile, while population growth is slowing but still historically large.
 
 ## 8. Must-Know Facts (Prelims) and UPSC Traps
@@ -66,7 +66,7 @@
 - ✅ The 2008 global financial crisis is Lowe's standard example of a shock exposing the fragility of an integrated world economy, not a reversal of integration itself.
 - ✅ China's population-control policy is Lowe's key illustration of the "direct state control" route to fertility reduction, contrasted with the gradual welfare/development route.
 - ✅ The HIV/AIDS epidemic is treated by Lowe as a demographic and developmental shock, especially in poorer societies, distinct from war or famine-driven population change.
-- ✅ IMF/UN-style current data (IMF April 2025 forecast: **2.8% for 2025, 3.0% for 2026**; UN 2024 world population: ~8.2 billion) should always be cited with their own source and date, not merged into Lowe's pre-2013 narrative.
+- ✅ IMF/UN-style current data (IMF July 2026 forecast: **3.0% for 2026, 3.4% for 2027**; UN 2024 world population: ~8.2 billion) should always be cited with their own source and date, not merged into Lowe's pre-2013 narrative.
 
 - ❌ 2008 disproved globalization completely -> it exposed vulnerability, not the end of integration.
 - ❌ Population growth is only a poor-country problem -> ageing and low fertility are the reverse side in other regions.

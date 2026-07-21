@@ -135,10 +135,19 @@
 3. Mobilization rigidity and Belgium.
 4. Conclude with systemic militarization.
 
+### Exact PYQ support route (2024 GS-I)
+
+> **Verified from the local UPSC paper:** “How far is it correct to say that the First World War was fought essentially for the preservation of balance of power? (Answer in 250 words)”
+
+⚠️ Treat balance-of-power competition as a major structural explanation, not a complete one.
+Use the two blocs, German encirclement fears, Russian and Austrian Balkan rivalry and British
+concern over German power; then qualify with nationalism, imperial insecurity, domestic
+pressures, mobilization plans and the contingent decisions of July 1914.
+
 **Probable Mains questions**
 - ⚠️ "To what extent was Germany responsible for the outbreak of the First World War?"
 - ⚠️ "Examine the role of Balkan nationalism in the outbreak of the First World War."
-- ⚠️ "Was the First World War inevitable by 1914? Discuss in the light of recent interpretations." 
+- ⚠️ "How far had war become likely, but not inevitable, by 1914? Discuss in the light of competing interpretations."
 
 ## 9. Study link
 

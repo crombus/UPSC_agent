@@ -55,6 +55,7 @@
 - ✅ Udayagiri's Varaha relief is a key Gupta-period royal-religious artwork.
 - ✅ Kalidasa wrote *Abhijnanashakuntala*, *Malavikagnimitra*, *Vikramorvashiya* and major poems, though exact chronology is debated.
 - ✅ Aryabhata's work joined astronomy and mathematics; Upinder notes Greek-inspired astronomy and Shulbasutra geometry streams.
+- ✅ Upinder distinguishes a decimal system (counting by tens), decimal **place value**, and zero as a number/placeholder. Aryabhata's algorithms presuppose place value, while epigraphic diffusion must be dated separately.
 - ✅ Gupta-Vakataka land grants reveal land categories, revenue rights and local authority.
 - ✅ "Classical age" should be used analytically, not as blanket praise.
 - ✅ Social history includes gender, labour, slavery and untouchability themes.
@@ -70,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Aryabhata satellite at 50, 2025:** PIB-linked space retrospectives marked 50 years since India's first satellite, **Aryabhata** (launched 19 April 1975). Use it to bridge Gupta-age Aryabhata's mathematical-astronomical legacy with modern India's science-and-space narrative.
+⚠️ **Current-link discipline:** The satellite named Aryabhata is a valid legacy bridge, but dated anniversaries should be checked from ISRO/PIB. Keep the historical mathematician and the modern satellite analytically distinct.
 
 ## 7. Mains angles
 

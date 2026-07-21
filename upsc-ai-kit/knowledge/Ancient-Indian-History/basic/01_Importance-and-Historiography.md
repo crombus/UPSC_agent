@@ -14,7 +14,7 @@
 | ✅ Colonial writing | 19th–early 20th c. AD | James Mill's Hindu/Muslim/British frame; V.A. Smith's political history |
 | ✅ Nationalist school | late 19th–20th c. AD | R.C. Majumdar, H.C. Raychaudhuri, K.P. Jayaswal, K.A. Nilakanta Sastri |
 | ✅ Marxist / materialist turn | from 1950s | D.D. Kosambi, R.S. Sharma; economy, society, technology, class/varna |
-| 📰 Public-history turn | 2025–26 | Digital museums, epigraphy databases, repatriation and heritage debates |
+| ⚠️ Public-history turn | 21st c. | Digital museums, epigraphy databases, repatriation and heritage debates |
 
 ## 1. Snapshot & core idea
 
@@ -68,7 +68,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Digital heritage & public history (2025–26):** ASI and museum-modernisation initiatives using digital catalogues, virtual access and QR/audio interpretation keep historiography current: how ancient India is presented is now a governance and heritage-policy issue.
+⚠️ **Current-link discipline:** A dated public-history example must be checked against an official museum/ASI release. The safe analytical link is how digitisation, repatriation and museum interpretation shape public memory of ancient India.
 
 ## 7. Mains angles
 

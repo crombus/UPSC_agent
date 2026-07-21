@@ -41,7 +41,10 @@ DEMOCRACY
 - ✅ **Democracy:** rule of the people in the sense that ultimate governing authority rests with ordinary people and public policy should reflect their will and interests (PDF p.491).
 - ✅ **Direct democracy:** citizens themselves participate in managing public affairs and law-making, as in small-scale political communities (PDF pp.491, 500).
 - ✅ **Representative democracy:** citizens do not decide every issue directly; they choose representatives who govern on their behalf for limited periods (PDF p.500).
-- ✅ **Liberal democracy:** a modern combination of universal franchise with free-market society, institutional accountability and civil-political safeguards (PDF pp.494-499).
+- ✅ **Liberal democracy:** a representative system combining popular authorization with
+  accountability, constitutional government, civil liberties, political competition and minority
+  safeguards (PDF pp.494-499). ⚠️ Gauba traces its historical fusion with capitalist market society,
+  but a free market is not a logically sufficient definition of democracy.
 - ✅ **Majority rule:** decisions in democratic bodies are settled by voting under the political-equality principle of one person, one vote (PDF p.497).
 - ✅ **Constitutional government:** government by laws and prescribed procedures rather than arbitrary personal rule (PDF p.497).
 
@@ -61,6 +64,16 @@ DEMOCRACY
 - ✅ **Consent vs façade election:** elections confer legitimacy only when voters have real alternatives and can vote freely and secretly (PDF pp.504-505).
 - ✅ **Government by law vs rule by men:** constitutional government means procedures bind rulers as well as citizens (PDF p.497).
 - ⚠️ **Form of government vs way of life:** the first concerns institutions of rule; the second concerns habits of consultation, communication and anti-authoritarian social relations.
+
+### Necessary and sufficient conditions
+
+- ✅ Genuine electoral choice, broad franchise and periodic contestation are necessary institutional
+  conditions of representative democracy.
+- ❌ Elections are not sufficient: a one-candidate ballot, censorship, arbitrary detention or
+  permanent exclusion of minorities can coexist with voting.
+- ⚠️ A free market is neither necessary nor sufficient for liberal democracy. Gauba discusses the
+  historical association between liberal capitalism and democracy, but the defining political tests
+  are consent, competition, liberties, accountability and constitutional restraint.
 
 ## 6. Thinkers and positions
 
@@ -95,6 +108,17 @@ DEMOCRACY
 - ❌ **"Civil liberties are optional extras."** -> ✅ Freedom of expression, association and personal liberty are core to democracy because public will cannot be formed or communicated without them (PDF p.499).
 - ❌ **"Independent judiciary is anti-democratic because judges are unelected."** -> ✅ Gauba treats judicial independence as a safeguard for freedom and continuity under democracy (PDF p.499).
 - ❌ **"Representation means citizens disappear after voting."** -> ⚠️ Dewey's extension of democracy as a way of life reminds us that democratic habits must continue beyond polling day.
+- ❌ **"A market economy proves a state is liberal-democratic."** -> ✅ Market exchange does not
+  establish free political choice, minority rights, accountable office or civil liberty.
+
+### Verified local PYQ transfer
+
+- ✅ **2025:** Comment on Plato's critique of democracy.
+- ✅ **2023:** Explain the challenges faced by a democratic state and ways to overcome them.
+- ✅ **2022:** Discuss propaganda as a challenge to democratic government.
+- ⚠️ Answer frame: define the democratic threshold -> separate necessary electoral conditions from
+  sufficient liberal-democratic safeguards -> add representation and minority protection -> test
+  propaganda, money or elite control -> conclude with democracy as an institutional and social ethic.
 
 ## 10. Cross-links and boundaries
 
@@ -117,5 +141,6 @@ DEMOCRACY
 ## 12. Sources, metadata and tags
 
 - ✅ Primary source used: Gauba, Ch.22 "Concept of Democracy" (PDF pp.491-512).
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
 - ✅ Key page clusters used: classical and modern conceptions (PDF pp.491-494); liberal democracy principles and institutions (PDF pp.495-500); representation and elections (PDF pp.500-509); democracy as a way of life (PDF pp.510-512).
 - ⚠️ All examples are timeless hypotheticals unless explicitly identified as historical/book-period illustrations from the source.

@@ -72,7 +72,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Purunagarh, Odisha (2026):** reported excavation of a fortified settlement and iron-smelting evidence in Sambalpur district gives a live archaeology hook for eastern India's long agrarian-urban and craft history. Use it to connect early-medieval state formation with local resource zones and craft production.
+⚠️ **Current-link discipline:** Use a Purunagarh or other Odisha excavation only from its official report. The safe linkage is the role of local resource zones, fortification and craft production in eastern state formation.
 
 ## 7. Mains angles
 

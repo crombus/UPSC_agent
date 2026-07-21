@@ -72,7 +72,7 @@
 
 ## 6. 📰 Current link
 
-📰 **International Tipitaka Chanting Ceremony 2025:** Ministry-linked updates reported a major Buddhist gathering at **Bodhgaya and Rajgir**, with a commemorative walk connected to the Buddha's landscape. For this chapter, Rajgir is the key anchor: it connects Buddhist memory with the political world of Magadha.
+⚠️ **Current-link discipline:** Verify any Buddhist gathering from its organizer. The safe linkage is how pilgrimage routes reuse the political and urban geography of ancient Magadha.
 
 ## 7. Mains angles
 

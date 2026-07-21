@@ -6,7 +6,7 @@
 > **Grounded in:** Prohibition of Employment as Manual Scavengers and their Rehabilitation
 > Act, 2013 (PEMSR Act); Safai Karamchari Andolan v. Union of India (Supreme Court, 2014);
 > NAMASTE scheme (MoSJE + MoHUA, 2022-23); National Commission for Safai Karamcharis
-> (NCSK, statutory origin 1993, continued by resolution).
+> (NCSK, statutory origin 1993, resolution-extended through 31 March 2028).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md`.*
 
@@ -40,8 +40,8 @@ SANITATION LABOUR: FOUR-LEVER FRAMEWORK
 │                          |                                          │
 │                          v                                          │
 │              NCSK (monitoring + grievance)                          │
-│              statutory origin 1993, continued                       │
-│              by government resolution since ~mid-2000s              │
+│              statutory origin 1993, current                         │
+│              resolution tenure through 31 Mar 2028                  │
 └─────────────────────────────────────────────────────────────────────┘
 
 CASTE-LABOUR LINK: Manual scavenging in India is performed almost
@@ -59,13 +59,13 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Manual scavenging (PEMSR Act)** | Manual removal of human excreta from insanitary latrines, open drains, pits or railway tracks without protective equipment — prohibited under the 2013 Act. |
-| ✅ **Hazardous cleaning (PEMSR Act)** | Manual cleaning of sewers, septic tanks or other spaces without protective gear and safety devices — also prohibited and criminalised under the 2013 Act's expanded scope. |
+| ✅ **Manual scavenging (PEMSR Act)** | Employment or engagement to manually clean, carry, dispose of or otherwise handle human excreta from the statutory insanitary-latrine/open-drain/pit/railway-track settings before it fully decomposes. Protective equipment does not turn manual scavenging into a lawful practice. |
+| ✅ **Hazardous cleaning (PEMSR Act)** | Manual cleaning of sewers, septic tanks or specified spaces without the prescribed protective gear, cleaning devices and safety precautions. This is distinct from manual scavenging, though both are prohibited. |
 | ✅ **Insanitary latrine** | A latrine requiring human intervention for removal of excreta (as distinct from a water-flush or septic-connected toilet) — construction prohibited under the 2013 Act. |
 | ✅ **PEMSR Act, 2013** | The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013, which prohibits manual scavenging and hazardous cleaning, mandates identification and rehabilitation of manual scavengers, and creates offences with imprisonment and fines. |
-| ✅ **Safai Karamchari Andolan v. UoI (2014)** | Supreme Court direction mandating ₹10 lakh compensation for every sewer/septic-tank death, directing states to complete identification/rehabilitation of manual scavengers and calling for mechanisation of hazardous cleaning. |
-| ✅ **NAMASTE (2022-23)** | National Action for Mechanised Sanitation Ecosystem — a joint MoSJE + MoHUA scheme providing occupational-health/safety training, PPE kits, mechanised-cleaning-equipment access, capital subsidy for sanitation-worker entrepreneurship, and a national survey/profiling of sewer/septic-tank workers. |
-| ✅ **NCSK** | National Commission for Safai Karamcharis — originally established under the National Commission for Safai Karamcharis Act, 1993 (which had a limited tenure/sunset provision); since approximately the mid-2000s, NCSK has continued to function through periodic government resolutions extending its tenure administratively, rather than under a standing statutory mandate. |
+| ✅ **Safai Karamchari Andolan v. UoI (2014)** | Supreme Court direction for ₹10 lakh compensation to next of kin for sewer/septic-tank deaths (including the Court's historical remediation direction), identification/rehabilitation of manual scavengers and mechanisation. The ₹10 lakh figure is a judicial direction, not a PEMSR statutory schedule. |
+| ✅ **NAMASTE (2022-23)** | National Action for Mechanised Sanitation Ecosystem — joint MoSJE–MoHUA implementation for profiling sewer/septic-tank workers, safety training/equipment, mechanised-sanitation access, livelihood support and convergence with social-security schemes. |
+| ✅ **NCSK** | National Commission for Safai Karamcharis — the 1993 Act had a sunset. It is now a non-statutory, resolution-based body; Cabinet/Ministry extension dated February 2025 gives it a current tenure through 31 March 2028. It is not a permanent statutory commission. |
 
 ## 3. How the prohibition-rehabilitation mechanism works
 
@@ -75,14 +75,16 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 2. **Identification and survey:** State governments, through District Magistrates and
    local authorities, conduct surveys to enumerate manual scavengers and sewer/septic-
    tank workers; NAMASTE extends this profiling to sanitation workers in urban areas.
-3. **Rehabilitation (SRMS / NAMASTE):** Identified manual scavengers receive one-time
-   cash assistance, skill training, concessional loans for self-employment, and housing
-   (linkage with PM-AJAY/housing schemes).
+3. **Rehabilitation (SRMS / NAMASTE):** Identified manual scavengers/eligible sanitation
+   workers can receive notified rehabilitation, skill, livelihood and scheme-convergence
+   support. Separate identification, eligibility and sanction steps mean a portal listing
+   is not proof that a household has received a livelihood alternative.
 4. **Mechanisation (NAMASTE):** Urban local bodies procure mechanised sewer-cleaning
    equipment; sanitation workers receive training and PPE; capital subsidy enables
    worker-entrepreneur purchase of suction machines.
-5. **Compensation (court direction):** ₹10 lakh compensation for every sewer/septic-tank
-   death, as directed by the Supreme Court in 2014; states are responsible for disbursement.
+5. **Compensation (court direction):** ₹10 lakh compensation for sewer/septic-tank deaths,
+   as directed by the Supreme Court in 2014. State the judicial source separately from
+   the Act and track actual disbursal/next-of-kin access.
 
 ## 4. Institutions and tools
 
@@ -91,19 +93,18 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 - ✅ **NAMASTE scheme (MoSJE + MoHUA, 2022-23):** Builds on and supplements the earlier
   Self-Employment Scheme for Rehabilitation of Manual Scavengers (SRMS); adds
   mechanisation, PPE, training and worker-profiling components.
-- ✅ **NCSK:** Monitors implementation of welfare schemes for safai karamcharis,
-  investigates complaints and recommends corrective measures. Note: NCSK's original
-  statutory tenure under the 1993 Act lapsed; it has since continued via executive
-  resolution, making it a statutory-origin body now operating on an administrative basis.
+- ✅ **NCSK:** Monitors welfare schemes, investigates complaints and recommends corrective
+  action. Its original statutory tenure lapsed; the current executive-resolution tenure
+  runs through 31 March 2028, so it remains non-statutory and time-bound.
 - ⚠️ Cross-link `basic/07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md` — the
   caste-labour nexus means PoA Act protections may apply where caste-based harassment
   accompanies manual-scavenging employment.
 
 ## 5. Indian applications and examples
 
-- ⚠️ A sewer worker entering a manhole without PPE and oxygen cylinder illustrates
-  hazardous cleaning; if the employer is a municipal body, the local authority is
-  criminally liable under the 2013 Act.
+- ⚠️ A sewer worker entering a manhole without prescribed safety protection illustrates
+  hazardous cleaning. Employer/contractor/local-authority liability is fact-specific and
+  should be traced rather than assumed away through outsourcing.
 - ⚠️ A family identified as manual scavengers but lacking documentation may miss
   rehabilitation benefits — the identification gap (Master-Framework Section 4).
 - ⚠️ Deaths during septic-tank cleaning continue to occur despite the 2013 prohibition,
@@ -116,17 +117,16 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 - ✅ The Supreme Court in Safai Karamchari Andolan v. UoI (2014) directed ₹10 lakh
   compensation for every sewer/septic-tank death.
 - ✅ NAMASTE scheme was launched in 2022-23 jointly by MoSJE and MoHUA.
-- ✅ NCSK was originally established under the NCSK Act, 1993; it continues via
-  government resolution extensions.
+- ✅ NCSK was originally established under the NCSK Act, 1993; its current
+  resolution-based tenure runs through 31 March 2028.
 
 ## 7. UPSC traps
 
 - ❌ Manual scavenging and hazardous cleaning are the same thing. -> Manual scavenging
   refers to removal of human excreta from insanitary latrines; hazardous cleaning refers
   to sewer/septic-tank cleaning — both prohibited, but defined distinctly in the 2013 Act.
-- ❌ NCSK is currently a permanent statutory body under the 1993 Act. -> The 1993 Act's
-  tenure provision lapsed; NCSK continues via periodic government resolutions, making it
-  a statutory-origin body now functioning administratively.
+- ❌ NCSK is a permanent statutory body under the 1993 Act. -> The Act's tenure lapsed;
+  its current executive-resolution tenure is through 31 March 2028, not a standing Act.
 - ❌ Compensation for sewer deaths is a PEMSR Act provision. -> The ₹10 lakh compensation
   was directed by the Supreme Court in 2014 (Safai Karamchari Andolan case), not enacted
   in the 2013 statute.
@@ -135,10 +135,13 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 
 ## 8. 📰 Current anchor
 
-- 📰 NAMASTE was launched in 2022-23; the number of profiled sanitation workers and
-  distributed PPE kits is updated on the scheme portal. No fixed count is asserted here
-  because implementation figures change; the durable facts are the scheme objectives,
-  launch date and joint MoSJE-MoHUA administration.
+- 📰 **NAMASTE status (21 July 2026):** Joint MoSJE–MoHUA implementation continues for
+  safety, mechanisation, profiling and livelihood convergence. Profiled-worker or PPE
+  totals are dashboard outputs; cite the component and report date, and distinguish them
+  from proof that no unsafe entry occurs.
+- 📰 **NCSK status (21 July 2026):** Cabinet/Ministry extension in February 2025 continues
+  the non-statutory Commission through 31 March 2028. State both its current tenure and
+  its resolution-based, rather than permanent statutory, character.
 - ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names manual
   scavenging or safai karamcharis; treat the probable questions below as anticipated framing.
 

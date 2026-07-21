@@ -1,8 +1,8 @@
 # National Integration & Foreign Policy — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II (IR) / GS-I (society)
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 78–79 + source book.
-> ✅ = from source book · ⚠️ = inference / analysis · 📰 = current affairs (web-verified).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 78–79 (direct check of the local Sixth Revised Edition PDF) + official update.
+> ✅ = from source book · ⚠️ = inference / analysis · 📰 = official-source update.
 > *Companion: `basic/National-Integration-and-Foreign-Policy.md`.*
 
 ---
@@ -55,7 +55,7 @@ internal affairs; 4. **Equality & mutual benefit**; 5. **Peaceful co-existence**
 - ❌ NAM means neutrality/isolation → it means an **independent** stance, **not** neutrality or non-involvement.
 - ❌ India cut ties with South Africa in 1947 → in **1954** (over apartheid).
 
-## 📰 CA hooks (web-verified)
+## 📰 CA hooks (official-source verified)
 - 📰 ⚠️ **NIC is effectively defunct** — its **last (16th) meeting was in 2013**; it has **not been reconstituted since 2014**.
 - 📰 **From Non-Alignment to "Multi-alignment / Strategic Autonomy"** — India engages QUAD, SCO, BRICS, I2U2
   simultaneously (S. Jaishankar's framing).

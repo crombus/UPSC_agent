@@ -5,7 +5,10 @@
 > safeguarding chain); colonial deindustrialisation as a contextual bridge;
 > GI as a contested/limited safeguarding tool.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 378-410; `00_Master-Framework.md` Sections 4-5; audited UPSC Mains 2024
+> 378-410; R.S. Sharma, *India's Ancient Past*, PDF pp. 97-103, 250-260;
+> Satish Chandra, *History of Medieval India*, PDF pp. 317-327; Satish
+> Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp. 358-401;
+> `00_Master-Framework.md` Sections 4-5; audited UPSC Mains 2024
 > GS Paper I (adjacent only).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`.*
@@ -36,6 +39,7 @@ only partially addresses.
 | ⚠️ **Craft ecology chain** | Material -> skill/technique -> producing community -> market access -> legal recognition (GI) -> safeguarding — a GI tag intervenes only at the "legal recognition" link; it does not by itself guarantee skill transmission or fair market access at the earlier links. |
 | ✅ **GI as narrow IP instrument, not livelihood guarantee** | The book's own description of GI as protecting only the *product name's* exclusive regional use (*Nitin…pdf*, PDF p. 406) — not the producing community's income, working conditions or skill transmission — is the precise legal boundary an advanced answer must not overstate. |
 | ⚠️ **Deindustrialisation-as-context, not this topic's primary claim** | The 2024 Q13 PYQ's actual analytical content (whether English industrial goods displaced Indian handicrafts/cottage industries) belongs to Modern History/Economy; this file's role is to supply the **specific craft-material vocabulary** (glassware, metal crafts, cloth handicrafts) that gives that debate concrete content, not to adjudicate the deindustrialisation thesis itself. |
+| ⚠️ **Continuity through market change** | A craft may retain a technique while changing patron, motif, scale or product: temple/court/guild demand can become merchant-export, colonial exhibition, tourist or GI market demand. Continuity is therefore selective adaptation, not fossilisation. |
 
 ## 3. Comparative framework
 
@@ -66,6 +70,12 @@ historical argument itself. ✅ Kangra Tea's EU GI registration
 achieving cross-border legal recognition — useful evidence for any
 question on GI's international dimension, distinct from purely domestic
 GI registration.
+
+✅ Medieval evidence adds the missing production layer: Satish Chandra
+describes artisans, master-craftsmen, karkhanas, putting-out/dadni
+relations and export textiles. An advanced craft answer should therefore
+track who controls raw material, tools, credit and market access — not only
+the finished object's motif.
 
 ## 5. Visual synthesis table
 
@@ -131,6 +141,13 @@ diversity-marginality correlation question owned by Indian Society.
   -> Only specific, separately registered cases (e.g. Kangra Tea in the
   EU) carry cross-border legal protection; a domestic Indian GI tag does
   not automatically extend abroad.
+- ❌ Treating "tribal craft" as anonymous timeless community expression. ->
+  Name the producing community where the source supports it, recognise
+  individual makers/design change, and avoid freezing living people into
+  an ahistorical label.
+- ❌ Proposing ivory production as heritage revival. -> Historical
+  documentation and museum conservation are distinct from contemporary
+  wildlife-law compliance.
 
 ## 10. Mains answer frameworks
 

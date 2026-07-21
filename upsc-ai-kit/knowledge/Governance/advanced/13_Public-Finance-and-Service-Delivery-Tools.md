@@ -41,8 +41,8 @@ exclusion-error (Type I/Type II) framework from welfare-targeting economics.
 | Concept | Precise meaning |
 |---|---|
 | ✅ **Leakage reduction vs targeting-error correction** | DBT's identity-verification mechanism is specifically effective against *leakage* (benefits diverted to ineligible/fake/duplicate recipients); it does not correct *targeting errors* arising from flawed eligibility criteria or outdated beneficiary lists — the two are analytically distinct welfare-delivery problems requiring different solutions. |
-| ✅ **DBT vs PFMS vs SNA — three distinct layers of the same architecture** | DBT operates at the government-to-individual-beneficiary layer; PFMS operates at the government-to-implementing-agency fund-tracking layer (covering both DBT and non-DBT scheme expenditure); SNA operates specifically at the Union-to-state fund-release layer for centrally sponsored schemes — conflating these three layers (a common error) misdescribes which problem each tool actually solves. |
-| ⚠️ **Just-in-time release vs upfront lump-sum transfer** | The SNA model's just-in-time release (linking fund release to actual expenditure progress) trades off the state's fiscal flexibility (states can no longer park and interest-earn on large upfront transfers) against improved Union-level visibility into unspent balances and expenditure pace — a genuine Centre-State fiscal-federalism tension, not a costless reform. |
+| ✅ **DBT vs PFMS vs SNA/SNA-SPARSH** | DBT covers cash, in-kind and service-enabler transfer categories; PFMS is the financial-management/payment/tracking backbone; SNA/SNA-SPARSH govern CSS fund flow. They are linked but not synonyms. |
+| ⚠️ **Just-in-time release vs state flexibility** | SNA-SPARSH's PFMS-State IFMIS-RBI e-Kuber design reduces float/borrowing costs and improves visibility, but creates integration, reconciliation, cyber-resilience and state cash-planning dependencies. |
 | ⚠️ **Rules-based procedural discipline (GFR) vs adaptive digital tracking (PFMS)** | GFR, 2017 sets ex-ante procedural rules (sanctioning powers, procurement procedure, expenditure control classifications); PFMS provides ex-post/real-time tracking visibility — the two are complementary (rules plus monitoring), and neither substitutes for the other. |
 
 ## 3. Detailed causal chain: from digital fund-flow tools to service-delivery outcome
@@ -64,7 +64,7 @@ exclusion-error (Type I/Type II) framework from welfare-targeting economics.
    whether individual beneficiary transfers (DBT) or agency-routed expenditure is involved —
    addressing a different leakage risk (diversion at the agency/intermediary level) than
    DBT's beneficiary-level de-duplication.
-5. **SNA's just-in-time release** closes a further fiscal-federalism leakage channel:
+5. **SNA-SPARSH's just-in-time release** closes a further fiscal-federalism inefficiency:
    states parking large upfront central transfers in low-utilisation accounts (sometimes
    earning float interest without corresponding expenditure progress) — SNA's release
    discipline directly targets this specific inefficiency, distinct from both DBT and PFMS's
@@ -164,12 +164,10 @@ exclusion-error (Type I/Type II) framework from welfare-targeting economics.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 DBT, PFMS, SNA and the GFR, 2017 are permanent, established features of India's public
-  financial management architecture. No fixed current DBT cumulative savings figure, PFMS
-  scheme-coverage count, or SNA-covered scheme list is asserted here, since all three rise
-  or expand continuously; the durable, exam-safe facts are each tool's specific function
-  (Section 2) and the fact that GFR, 2017 remains the current consolidated procedural
-  rulebook they operate within.
+- 📰 **Status checked 21 July 2026:** Department of Expenditure's 2025 schedule moved CSS
+  toward SNA-SPARSH coverage through RBI e-Kuber. Universal scheduled coverage is not the
+  same as error-free operational integration; state onboarding, contribution matching and
+  reconciliation remain implementation tests.
 
 ## 10. PYQ-based analytical application
 
@@ -196,6 +194,8 @@ explicitly rather than presenting the architecture as a costless efficiency gain
 4. Note GFR, 2017 as the underlying procedural framework, not a separate reform.
 5. Recommend targeted correctives (manual-override safeguards for exclusion risk,
    data-quality investment for PFMS reliability) rather than an unqualified endorsement.
+6. Add a federal implementation dashboard: Union release latency, state matching share,
+   payment failure, reconciliation exceptions and beneficiary grievance resolution.
 
 ## 12. Probable questions
 

@@ -25,8 +25,8 @@ OUTPUT                                    OUTCOME
                               |
                               v
         OUTPUT-OUTCOME MONITORING FRAMEWORK (OOMF)
-        Union Budget requirement: every scheme states its
-        outputs AND its intended outcomes with indicators
+        Union Budget document: covered major schemes state
+        outputs AND intended outcomes with indicators/targets
                               |
                               v
         DMEO (NITI Aayog): conducts/coordinates evaluation,
@@ -49,9 +49,9 @@ output-outcome gap and feed evidence back into governance correction.
 |---|---|
 | ✅ **Output vs outcome** | An output is what a government activity directly produces (a road built, a school constructed, a training conducted); an outcome is the actual change in the target population's condition that the activity was meant to bring about (reduced travel time, improved learning, higher employability) — outputs are necessary but not sufficient evidence of outcome achievement. |
 | ✅ **DMEO (Development Monitoring and Evaluation Office)** | NITI Aayog's dedicated office for monitoring and evaluating government programmes/schemes, formed by merging the earlier Programme Evaluation Organisation and the Independent Evaluation Office in 2015, tasked with generating evidence on scheme performance for policy correction. |
-| ✅ **Output-Outcome Monitoring Framework (OOMF)** | A Union Budget requirement (from the Ministry of Finance's Budget Division) under which each central-sector/centrally sponsored scheme must specify measurable output and outcome indicators, moving budgeting focus from mere expenditure/output reporting toward outcome accountability. |
+| ✅ **Output-Outcome Monitoring Framework (OOMF)** | An annual Union Budget document for covered major Central Sector/Centrally Sponsored Schemes, specifying financial outlay, outputs, outcomes, indicators and targets. It does not literally include every scheme in every year. |
 | ✅ **Outcome budgeting** | A budgeting approach that links financial allocations explicitly to measurable outcome targets, rather than only tracking how much money was spent or how many physical units were produced. |
-| ✅ **Aspirational Districts Programme (ADP)** | A NITI Aayog initiative identifying India's most under-developed districts and tracking their progress in real time across defined Key Performance Indicators (KPIs) spanning sectors such as health and nutrition, education, agriculture and water resources, financial inclusion and skill development, and basic infrastructure, using a public "Champions of Change" dashboard with a delta-ranking system that rewards incremental improvement. |
+| ✅ **Aspirational Districts Programme (ADP)** | NITI Aayog's programme for 112 districts, tracking 49 KPIs across five themes through the Champions of Change architecture and delta ranking; cite these as official current programme design figures, not a generic count for Aspirational Blocks. |
 | ⚠️ **Third-party evaluation** | Programme evaluation conducted by an entity independent of the implementing ministry/agency, intended to reduce the conflict of interest inherent in an agency evaluating its own performance. |
 
 ## 3. How monitoring and evaluation function (mechanism)
@@ -132,13 +132,10 @@ output-outcome gap and feed evidence back into governance correction.
 
 ## 8. 📰 Current anchor
 
-- 📰 DMEO, the Output-Outcome Monitoring Framework and the Aspirational Districts Programme
-  are permanent, established features of India's monitoring-and-evaluation architecture. No
-  fixed current count of OOMF-covered schemes, or fixed current KPI list/sector weights for
-  the Aspirational Districts Programme (including any extension to an Aspirational Blocks
-  Programme), is asserted here, since scheme coverage and KPI design are revised over time;
-  the durable fact is the delta-ranking design principle (Section 3) that structures the
-  programme regardless of the specific KPI set in use.
+- 📰 **Status checked 21 July 2026:** OOMF 2026-27 covers 172 major schemes with outlay of
+  ₹500 crore or more in that Budget document. ADP officially covers 112 districts and
+  49 KPIs across five themes. The related Aspirational Blocks Programme covers 513 blocks
+  in current NITI material; do not merge district/block units or indicator sets.
 
 ## 9. PYQ application
 
@@ -159,6 +156,8 @@ output-outcome gap and feed evidence back into governance correction.
   of incentive-sensitive monitoring design that avoids penalising historical disadvantage.
 - ⚠️ Recommend third-party evaluation as the corrective wherever a question describes
   self-reported or internally assessed scheme performance data as potentially unreliable.
+- ⚠️ Use DMEO's **REESI+C+E** criteria: relevance, effectiveness, efficiency, sustainability,
+  impact, coherence and equity.
 
 > **Answer thesis:** Effective governance monitoring requires measuring outcomes, not merely
 > outputs, and India's evolving evaluation architecture — the Output-Outcome Monitoring

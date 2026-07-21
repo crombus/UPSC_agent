@@ -1,7 +1,7 @@
 # Cultural and Social Geography: Concepts, Regions, Language & Religion — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (general concept) · **GS Paper:** GS-I
-> **Grounded in:** Majid Husain, *Human Geography* / *Geography of India* for language, religion and cultural-region framing.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for environment-region context + verified dated current-affairs anchor.
 > ✅ = grounded source / standard concept · ⚠️ = synthesis / exam heuristic · 📰 = verified dated current-affairs anchor.
 > *Companion: `advanced/37_Cultural-and-Social-Geography-of-India.md`.*
 

@@ -4,7 +4,7 @@
 > **Core area:** Macroeconomic stability.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/03_Inflation-Price-Indices-and-Business-Cycles.md`.*
+> *Companion: `../basic/03_Inflation-Price-Indices-and-Business-Cycles.md`.*
 
 ---
 
@@ -60,6 +60,9 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
   necessarily current inflation.
 - ⚠️ Index weights, base years, outlet coverage, quality adjustment and substitution affect
   measured inflation.
+- ⚠️ A CPI or WPI base revision changes weights, coverage and sometimes method; it is not
+  itself a movement in the price level. Compare across the break only through an official
+  back-series or linking method.
 - ⚠️ Output gaps help explain demand pressure but are uncertain and revised in real time.
 - ⚠️ Food inflation in India has strong weather, storage, trade-policy and inter-state
   heterogeneity components.
@@ -131,6 +134,12 @@ fuel, housing and services, so component analysis is essential.
 | 📰 Core inflation was 4.62% in Dec 2025; the Survey notes a major precious-metals contribution. | Use the headline-core divergence to show why component composition matters for policy diagnosis. |
 | 📰 RBI's FY26 inflation projection was revised from 2.6% to 2.0% in Dec 2025. | The downward revision illustrates how incoming data alter forecasts and the expected policy path. |
 
+📰 **Series status at 21 July 2026:** CPI 2024=100 is published from January 2026,
+and WPI 2022-23 is used for current releases from May 2026. The FY26 Survey figures
+retain their original series/vintage and must not be spliced into the new index levels.
+Sources: [MoSPI](https://esankhyiki.mospi.gov.in/macroindicators?product=cpi&tab=metadata)
+and [OEA](https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf).
+
 ## 10. PYQ-based analytical application
 
 - ⚠️ 2024 GS-III: Causes of persistent food inflation and limits of RBI monetary policy.
@@ -161,7 +170,7 @@ fuel, housing and services, so component analysis is essential.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/03_Inflation-Price-Indices-and-Business-Cycles.md`.
+- ✅ Foundation companion: `../basic/03_Inflation-Price-Indices-and-Business-Cycles.md`.
 - ✅ `04_RBI-Monetary-Policy-and-Liquidity-Management.md` — interest-rate and expectation
   channels.
 - ✅ `12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` — food-stock and price-

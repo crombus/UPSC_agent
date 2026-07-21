@@ -1,7 +1,7 @@
 # NHRC & SHRC (Protection of Human Rights Act, 1993) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 55–56 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 55–56 (direct check of the local Sixth Revised Edition PDF) + official updates.
 > ✅ = from source book · ⚠️ = inference / analysis · 📰 = current affairs.
 > *Companion: `basic/NHRC-and-SHRC.md`.*
 >
@@ -40,7 +40,8 @@ proceedings; **visit jails**; review safeguards; promote research & literacy; en
 ---
 
 # PART B — SHRC ⭐
-✅ **State Human Rights Commission** — also under the 1993 Act, at the **state level** (~26 states).
+✅ **State Human Rights Commission** — a state government may constitute one under the
+1993 Act; establishment and operational status vary, so no volatile national count is asserted here.
 - ✅ **Jurisdiction:** only **State List (II) & Concurrent List (III)** subjects; **not** if the NHRC/another
   statutory commission is already seized of the case.
 
@@ -70,11 +71,11 @@ govt with the **HC Chief Justice's concurrence**) for speedy trial.
 - ❌ NHRC can fully investigate the armed forces → only seek a **report** & recommend.
 
 ## 📰 CA hooks
-- 📰 **GANHRI accreditation:** the **Sub-Committee on Accreditation (SCA)** recommended **downgrading NHRC from
-  "A" to "B"** (independence, police-as-investigators, pluralism, opaque appointments concerns); after NHRC's
-  appeal, the **final review is postponed to November 2026** — NHRC retains "A" status meanwhile. A downgrade
-  would remove A-status independent speaking/written-submission privileges at the UN Human Rights Council and
-  GANHRI governance rights. It would not remove a voting right: NHRIs do not vote at the Council; member states do.
+- 📰 ✅ **GANHRI status checked 21 Jul 2026:** NHRC's official portal continues to
+  describe India as holding **A-status** while the latest review cycle remains unresolved;
+  no final official downgrade decision has been published. Independence, pluralism and use
+  of police investigators remain reform concerns, but a recommendation/review is not a
+  completed downgrade.
 - 📰 ⚠️ Debate on NHRC's **"toothless tiger"** advisory nature and demands to make recommendations enforceable.
 
 ## Mains angles

@@ -1,7 +1,7 @@
 # Modern Indian History — Knowledge Base Index
 
 > **Subject:** History → **Modern Indian History** · **GS Paper:** GS-I (Modern Indian History c. 1750s–1947, Freedom Struggle; and Post-Independence Consolidation, 1947–2000) + Prelims.
-> **Spine:** Bipin Chandra — freedom-struggle tiers from *Modern India* (basic) and *India's Struggle for Independence* (advanced); the post-independence tiers (topics 29–38) from *India After Independence, 1947–2000*.
+> **Spine:** Bipan Chandra — freedom-struggle tiers from *Modern India* (basic) and *India's Struggle for Independence* (advanced); princely-state integration and the post-independence tiers (topics 28–38) from *India After Independence, 1947–2000*. Sekhar Bandyopadhyay's *From Plassey to Partition* is used as a supplementary interpretive check.
 > **Start here:** `00_Master-Chronology.md` — the full modern timeline (Mughal decline → 1947 → integration → 2000) that stitches every topic together.
 > *Sibling folders: `Ancient-Indian-History` (done), `Medieval-Indian-History` (done), `Modern-Indian-History` (this).*
 
@@ -61,15 +61,16 @@
 
 - **2024 GS-I:** “What were the events that led to the Quit India Movement? Point out its results. (Answer in 150 words)” → primary answer: `advanced/25_WWII-Cripps-Mission-and-Quit-India.md`; post-war result chain: `advanced/26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md`.
 - **2024 GS-I:** “How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India? (Answer in 250 words)” → primary Indian causal assessment: `advanced/07_Economic-Impact-of-British-Rule.md`; English industrial mechanism only: `World-History/advanced/04_Industrial-Revolution.md`; craft-form support only: `Indian-Art-and-Culture/advanced/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`.
+- **2025 GS-I:** “Trace India's consolidation process during early phase of independence in terms of polity, economy, education and international relations. (Answer in 250 words)” → primary synthesis: `advanced/32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md`; territorial/federal foundations: `advanced/28_Integration-of-Princely-States.md` to `advanced/31_Integration-of-the-Tribals-and-National-Unity.md`; economic detail: `advanced/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md`.
 - **Boundary:** World History explains English industrialisation; Modern Indian History owns colonial policy, deindustrialisation and the “how far” verdict. Art & Culture does not own the economic-causation answer.
 
-> **Topics 29–38 (Post-Independence India, 1947–2000)** are grounded in Bipan Chandra, Mridula Mukherjee & Aditya Mukherjee, *India After Independence, 1947–2000*. They carry the GS-I "post-independence consolidation and reorganisation within the country" line. Detailed constitutional doctrine (Polity), economic mechanics (Economy), foreign-policy doctrine (IR), sociological theory (Indian Society), governance toolkits (Governance), welfare architecture (Social Justice) and security doctrine (Internal Security) are cross-linked, not duplicated.
+> **Topics 28–38 (Integration and Post-Independence India, 1947–2000)** are grounded in Bipan Chandra, Mridula Mukherjee & Aditya Mukherjee, *India After Independence, 1947–2000*. They carry the GS-I "post-independence consolidation and reorganisation within the country" line. Detailed constitutional doctrine (Polity), economic mechanics (Economy), foreign-policy doctrine (IR), sociological theory (Indian Society), governance toolkits (Governance), welfare architecture (Social Justice) and security doctrine (Internal Security) are cross-linked, not duplicated.
 
 ## Source books
 
 - **Basic (must-do):** Bipin Chandra, *Modern India* (concise single-volume survey; 15 chapters, Mughal decline → Struggle for Swaraj).
 - **Advanced (Freedom Struggle, 14–28):** Bipin Chandra, Mridula Mukherjee, Aditya Mukherjee, K.N. Panikkar, Sucheta Mahajan, *India's Struggle for Independence, 1857–1947*.
-- **Post-Independence (29–38):** Bipan Chandra, Mridula Mukherjee & Aditya Mukherjee, *India After Independence, 1947–2000* (both tiers).
+- **Integration and Post-Independence (28–38):** Bipan Chandra, Mridula Mukherjee & Aditya Mukherjee, *India After Independence, 1947–2000* (both tiers).
 - **Gold-standard reference files:** `basic/01_Decline-of-the-Mughal-Empire.md` + `advanced/01_Decline-of-the-Mughal-Empire.md` (house style).
 
-> Note: *From Plassey to Partition* (Sekhar Bandyopadhyay, present in the source library) is a supplementary modern-history text and may be cross-referenced but the KB spine is Bipin Chandra.
+> Note: *From Plassey to Partition* (Sekhar Bandyopadhyay) is a supplementary modern-history source for regional variation, social history and historiographical disputes; claims drawn from a particular interpretation must remain attributed rather than presented as uncontested fact.

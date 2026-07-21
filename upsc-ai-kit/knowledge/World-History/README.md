@@ -6,7 +6,9 @@
 > capitalism, socialism etc. — their forms and effect on the society." GS-II linkage for
 > international institutions (United Nations).
 > **Spine:** Norman Lowe, *Mastering Modern World History* (5th edition) is the mandatory,
-> full-text-grounded spine for Topics 09-21 (1914 onward). For pre-1900 Topics 01-08, Lowe is
+> directly read, full-text-grounded spine for Topics 09-21 (1914 onward), including his
+> dedicated chapters on European integration and the Middle East where those themes are
+> embedded in Topics 15 and 21. For pre-1900 Topics 01-08, Lowe is
 > structurally insufficient (his book begins at "The world in 1914"); those topics are grounded
 > instead in old NCERT/NIOS world-history material, Britannica, Library of Congress/National
 > Archives material where relevant, and standard reference historiography, with inference
@@ -56,17 +58,19 @@
 | 12 | Rise of Fascism: Italy, Germany, Japan | Norman Lowe, Ch.13-15 | Fascism/Nazism/militarism comparative analysis |
 | 13 | Russian Revolution and USSR under Stalin | Norman Lowe, Ch.16-17 | 1917 revolutions, Stalinism debate |
 | 14 | Second World War | Norman Lowe, Ch.6 | Course, Holocaust, effects of WWII |
-| 15 | Cold War and International Relations | Norman Lowe, Ch.7-8 | Bipolarity, crises, detente |
+| 15 | Cold War and International Relations | Norman Lowe, Ch.7-8, 11 | Bipolarity, crises, detente; Middle East as a local and Cold-War arena |
 | 16 | United Nations and Global Governance | Norman Lowe, Ch.9 | UN structure, peacekeeping, reform debate |
 | 17 | China, Communism and Asia | Norman Lowe, Ch.19-21 | Chinese Revolution, Mao era, communism in Asia |
 | 18 | Decolonization of Africa and Asia | Norman Lowe, Ch.24-25 | End of European empires, African governance problems |
 | 19 | Latin America (20th Century) | Norman Lowe, Ch.26 | US domination, debt crisis, challenges to dominance |
 | 20 | World Economy and Population since 1900 | Norman Lowe, Ch.27-28 | North-South divide, globalisation, population explosion |
-| 21 | Cold War End and New World Order | Norman Lowe, Ch.18, 10, 12 | USSR collapse, unipolarity, terrorism, Arab Spring |
+| 21 | Cold War End and New World Order | Norman Lowe, Ch.18, 10, 12 | USSR collapse, European integration, unipolarity, terrorism, Arab Spring |
 
 ## Recent exact PYQ support route
 
 - **2024 GS-I:** “How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India? (Answer in 250 words)” → `advanced/04_Industrial-Revolution.md` supplies the English mechanisation/cost/market mechanism; `Modern-Indian-History/advanced/07_Economic-Impact-of-British-Rule.md` is the primary answer and owns colonial policy, Indian deindustrialisation and the balanced “how far” verdict.
+- **2024 GS-I:** “How far is it correct to say that the First World War was fought essentially for the preservation of balance of power? (Answer in 250 words)” → `advanced/09_World-in-1914-and-Outbreak-of-WWI.md` supplies the alliance/balance-of-power argument and the necessary qualifications from Balkan nationalism, mobilization, domestic insecurity and contingent July 1914 decisions.
+- **2025 GS-I:** “The French Revolution has enduring relevance to the contemporary world. Explain. (Answer in 250 words)” → `advanced/03_French-Revolution-and-Napoleon.md` supplies the rights, citizenship, sovereignty, nationalism and exclusions framework without turning the linkage into a claim of unchanged institutions.
 - **Boundary:** this folder must not duplicate India's drain, tariff, patronage-loss or artisan-displacement analysis merely because the prompt begins with the English Industrial Revolution.
 
 ## Cross-subject links
@@ -85,7 +89,7 @@
 ## Source references
 
 - Norman Lowe, *Mastering Modern World History*, 5th edition (mandatory spine for Topics
-  09-21; full OCR text used directly for grounding).
+  09-21; the local PDF was read directly chapter-by-chapter, not through Qdrant/RAG).
 - Old NCERT / NIOS world-history material (Class IX "India and the Contemporary World" —
   nationalism in Europe, French Revolution; old NCERT Class XI "History of the World" by
   Arjun Dev) for Topics 01-08.

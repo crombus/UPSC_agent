@@ -4,7 +4,7 @@
 > **Core area:** Monetary policy.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md`.*
+> *Companion: `../advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md`.*
 
 ---
 
@@ -38,6 +38,7 @@ trace pass-through through markets, banks, borrowers and expectations.
 | ✅ **MSF** | Overnight emergency borrowing window for scheduled commercial banks against eligible securities. |
 | ✅ **CRR** | Share of net demand and time liabilities maintained as cash with RBI. |
 | ✅ **OMO** | Outright RBI purchase or sale of government securities to alter durable liquidity. |
+| ✅ **Operating target** | The WACR is the rate RBI seeks to keep aligned with the policy corridor through liquidity operations. |
 
 ## 3. Topic mechanism
 
@@ -77,6 +78,8 @@ trace pass-through through markets, banks, borrowers and expectations.
 - ✅ The Monetary Policy Committee decides the policy repo rate; liquidity operations support
   transmission around the operating target.
 - ✅ WACR is the operating target of the liquidity-management framework.
+- ✅ The policy target, tolerance band, repo rate and operating target are distinct; use the
+  applicable RBI/Central Government notification for a current target value.
 - ✅ A repo injects liquidity against collateral; reverse-style absorption removes liquidity.
 - ✅ CRR changes affect lendable resources broadly, while OMO changes durable system
   liquidity through securities transactions.
@@ -136,7 +139,7 @@ stalled project or recapitalise a weak borrower.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md`.
+- ✅ Advanced companion: `../advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md`.
 - ✅ `03_Inflation-Price-Indices-and-Business-Cycles.md` — the objective and inflation
   diagnosis.
 - ✅ `05_Banking-Structure-NBFCs-and-Financial-Regulation.md` — institutions carrying

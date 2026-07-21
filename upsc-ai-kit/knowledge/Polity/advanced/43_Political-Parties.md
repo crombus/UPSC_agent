@@ -1,8 +1,8 @@
 # Political Parties & the Party System — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 69 + electoral-reforms section.
-> ✅ = from source book · ⚠️ = inference / analysis · 📰 = current affairs (web-verified).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 69 and electoral-reforms section (direct check of the local Sixth Revised Edition PDF) + ECI update.
+> ✅ = from source book · ⚠️ = inference / analysis · 📰 = ECI/court-verified update.
 > *Companion: `basic/Political-Parties.md`.*
 
 ---
@@ -44,12 +44,13 @@
 - ❌ A "national party" contests only national elections → the label is about **recognition/privileges**, not where it contests.
 - ❌ The EC allots a symbol to unrecognised parties too → they pick from **free symbols**; only recognised parties get **reserved** symbols.
 
-## 📰 CA hooks (web-verified)
+## 📰 CA hooks (ECI/court-verified)
 - 📰 ⭐ **Electoral Bonds struck down** — SC in **Association for Democratic Reforms (Feb 2024)** held the 2018
   Electoral Bond Scheme **unconstitutional** (violates the **right to information, Art 19(1)(a)**); ordered the SBI to
   disclose donor data.
-- 📰 **National-party list revised (2023):** ECI **granted AAP** national-party status and **derecognised TMC, NCP &
-  CPI** as national parties → currently **6 national parties** (BJP, INC, CPI(M), BSP, NPP, AAP).
+- 📰 ✅ **ECI orders dated 10 Apr 2023:** AAP gained national-party status; TMC,
+  NCP and CPI lost it. **Status checked 21 Jul 2026 against ECI's notified list:** six
+  national parties — BJP, INC, CPI(M), BSP, NPP and AAP.
 - 📰 Debate on bringing parties under the **RTI Act** (CIC held 6 national parties are "public authorities," 2013 — not
   complied with) and **inner-party democracy** / criminalisation of politics.
 

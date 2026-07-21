@@ -31,6 +31,7 @@
 - ✅ The **domestic horse** and **light chariot with spoked wheels** are high-yield markers in the debate, but archaeological horse remains in the subcontinent are uneven and contested.
 - ✅ **Painted Grey Ware (PGW)** and late Harappan pottery at Bhagwanpura fall in the 1600–1000 BC range in RS Sharma's chronology, but PGW is not simply equal to "Aryan".
 - ⚠️ UPSC-safe framing: reject both extremes — a dramatic invasion that destroyed Harappa and an unbroken Harappan = Vedic identity.
+- ✅ Upinder Singh's 2nd edition summarizes the Rakhigarhi individual as lacking immediate Steppe and Anatolian/Iranian farmer-herder contribution; the Iranian-related ancestry was from an older hunter-gatherer lineage. This does **not** establish the language spoken by Harappans.
 
 ## 2. Key classification / data
 
@@ -67,7 +68,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Sinauli (UP) chariot burials & the NCERT debate (2024–26):** the OCP-culture **solid-wheeled "chariots"/carts, copper swords and coffins (c. 2000 BC)** from Sinauli have been pressed into the Aryan debate — some argue for indigenous chariot technology ("Aryans were no invaders"), while others note the **solid disc wheels are unlike the later spoke-wheeled Vedic chariot**, limiting the link. This fed reported moves to revise **NCERT** treatment of Aryan migration. The exam-safe reading: Sinauli enriches the *evidence*, but does **not settle** invasion-vs-migration-vs-indigenism.
+⚠️ **Current-link discipline:** Sinauli may be used only with its excavation report and with the solid-wheel/spoked-wheel distinction. It does not by itself settle Indo-Aryan migration, language or Vedic identity.
 
 ## 7. Mains angles
 

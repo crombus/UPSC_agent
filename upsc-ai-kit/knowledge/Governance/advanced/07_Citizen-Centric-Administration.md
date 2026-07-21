@@ -39,7 +39,7 @@ reform efforts that focus only on charter *language* miss the actual bottleneck.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Charter as promise vs RTS Act as entitlement** | A Citizens' Charter states a service standard as an administrative commitment; an RTS Act converts a specified subset of services into a legal entitlement with a designated officer, a defined timeline, an appellate mechanism and a monetary penalty on the officer for default — the difference is enforceability, not just formality. |
+| ✅ **Charter as promise vs RTS Act as entitlement** | A Charter is administrative; an RTS Act creates enforceability only for notified services and according to that state's designated-officer, appeal, compensation/penalty and exception provisions. State laws are not institutionally identical. |
 | ✅ **CPGRAMS as monitoring, not adjudication** | CPGRAMS logs, routes and tracks grievances and enables escalation, but it is not itself a quasi-judicial adjudicatory body — its efficacy depends on the receiving department's actual responsiveness, not on CPGRAMS's technical existence alone. |
 | ⚠️ **Charter proliferation vs charter quality** | Many departments have adopted Citizens' Charters (a proliferation success), but charter *quality* (measurable standards, consultative drafting, periodic revision) varies widely — proliferation without quality control is a distinct failure mode from non-adoption. |
 | ⚠️ **Single-window delivery vs actual back-end integration** | A single-window counter can present a unified citizen interface while the back-end approval chain remains as fragmented as before (see `05` for the analogous e-governance back-end-integration bias) — physical/digital single-window design does not guarantee genuine process simplification underneath. |
@@ -84,10 +84,10 @@ reform efforts that focus only on charter *language* miss the actual bottleneck.
 - ✅ DARPG periodically issues charter-preparation guidelines recommending measurable
   standards, designated grievance officers and periodic review — the guideline framework
   exists, but its actual uptake and quality vary by department.
-- ✅ State RTS Acts typically designate a specific officer responsible for each notified
-  service, an appellate authority for delay, and a monetary penalty deducted from the
-  responsible officer's salary for default — the strongest available institutional design
-  for enforceable citizen-centricity currently in Indian practice.
+- ✅ State RTS Acts generally use notified services, designated officers and appeal;
+  penalty/compensation design varies. Do not universalise one state's procedure.
+- ✅ DARPG's 2024 CPGRAMS guidelines set a 21-day central redress benchmark and strengthen
+  nodal-officer, appeal and feedback arrangements; they do not turn CPGRAMS into a tribunal.
 - ⚠️ Expanding RTS-style statutory coverage to a wider range of services, and integrating
   charter-linked grievance data into CPGRAMS analytics for proactive capability-gap
   identification, are the recommended forward reform directions (echoing the 2024 PYQ's
@@ -144,11 +144,9 @@ reform efforts that focus only on charter *language* miss the actual bottleneck.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The RTS model's defining, durable feature is its designated-officer, timeline and
-  penalty structure (Section 3 of the basic file), pioneered by Madhya Pradesh in 2010. No
-  fixed, exhaustive current list of RTS-covered states, their notified service lists, or
-  CPGRAMS's state-integration depth is asserted here, since coverage continues to expand
-  state by state.
+- 📰 **Status checked 21 July 2026:** use the 21-day CPGRAMS benchmark, but test quality
+  through citizen feedback, reasoned disposal, appeal reversal and repeat grievances.
+  RTS enforceability remains state- and service-specific.
 
 ## 10. PYQ-based analytical application
 
@@ -174,6 +172,8 @@ simply rewrite charter language.
 4. Recommend RTS-style statutory expansion, CPGRAMS-linked capability-gap analytics, and
    periodic consultative charter revision as the layered corrective.
 5. Flag the administrative-burden trade-off of universal RTS coverage explicitly.
+6. Add a failure-demand test: which repeated grievances reveal an upstream process defect
+   rather than a need for repeated downstream disposal?
 
 ## 12. Probable questions
 

@@ -24,10 +24,14 @@ to Parliament. The **Commissioner for Linguistic Minorities (Art 350-B)** protec
 - ✅ Each commission = **1 chair + 1 vice-chair + 3 members**.
 - ✅ NCSC & NCST **split in 2004** (89th Amendment 2003).
 - ✅ NCBC born from the **Mandal/Indra Sawhney case (1992)**; **105th Amendment (2021)** restored states' OBC lists.
-- ✅ Commissioner for **Linguistic Minorities** — HQ **Allahabad**, under **Ministry of Minority Affairs**; tenure
-  not fixed by Constitution.
+- ✅ Commissioner for **Linguistic Minorities** — constitutional office under Art 350-B,
+  administratively under the **Ministry of Minority Affairs**; headquarters has been in
+  **New Delhi since 1 June 2015** (official Ministry status checked 21 Jul 2026).
 - ✅ All commissions have **civil-court powers** while investigating.
 
 ## 📰 Current link
-📰 **SC sub-classification of SCs verdict (Davinder Singh, Aug 2024)** — states may sub-classify SCs + a creamy-layer
-idea; **caste census** demand is central to the NCBC's mandate.
+📰 ✅ ***State of Punjab v. Davinder Singh* (1 Aug 2024):** the seven-judge Bench
+overruled *E.V. Chinnaiah* and permitted evidence-based SC sub-classification; a state must
+justify it with quantifiable, demonstrable data and cannot exclude the rest of the listed
+class. Creamy-layer exclusion for SC/STs appears in concurring opinions and earlier promotion
+jurisprudence; do not present it as the single unanimous ratio of the case.

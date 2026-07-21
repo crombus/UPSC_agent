@@ -1,7 +1,7 @@
 # Latin America in the Twentieth Century — MUST-DO
 
 > **Subject:** History (World History) · **Tier:** Basic (foundation) · **GS Paper:** GS-I
-> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 26 + official UPSC GS-I syllabus line.
+> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapters 8 and 26 + official UPSC GS-I syllabus line.
 > ✅ = from Lowe / official syllabus · ⚠️ = synthesis / analytical linkage · 📰 = current affairs.
 > *Companion: `advanced/19_Latin-America-20th-Century.md`.*
 
@@ -13,6 +13,7 @@
 |---|---|
 | ✅ 1910 onwards | Mexican Revolution opens the century's upheaval |
 | ✅ 1954 | Guatemala's reform experiment is overturned |
+| ✅ 1959-62 | Cuban Revolution breaks with the US-aligned order; missile crisis internationalizes the confrontation |
 | ✅ 1979 | Sandinistas come to power in Nicaragua |
 | ✅ 1980s | Debt crisis engulfs much of Latin America |
 | ✅ 1990s-2000s | New challenges to US dominance grow in parts of the region |
@@ -42,6 +43,7 @@
 | ✅ Mexico | Dominance of the PRI and slow political opening | Revolution did not quickly become pluralist democracy |
 | ✅ Guatemala | Reform collided with US-backed anti-communist intervention | Classic Cold War intervention case |
 | ✅ Nicaragua | Sandinista experiment and counter-revolutionary pressure | Shows how local revolution met external hostility |
+| ✅ Cuba | Castro's revolution, US hostility and Soviet alignment | The clearest successful challenge to US predominance in the region |
 
 ## 4. Challenge to US domination and the debt crisis
 
@@ -54,6 +56,7 @@
 
 - ✅ Latin America's major twentieth-century theme is **US influence without direct colonial rule over the whole region**.
 - ✅ **Guatemala** and **Nicaragua** are classic intervention / anti-intervention case studies.
+- ✅ **Cuba (1959)** is the decisive revolutionary challenge to US dominance and a bridge to the Cold War.
 - ✅ **Mexico** is important for the long dominance of the PRI.
 - ✅ **Venezuela** is important for oil politics and later anti-US rhetoric.
 - ✅ The **1980s debt crisis** is central for understanding the region's economic strain.

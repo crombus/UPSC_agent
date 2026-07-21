@@ -12,11 +12,11 @@
 | Phase | Date (RS Sharma style) | Marker |
 |---|---|---|
 | ✅ Harappan contact | 3rd millennium BC | Seals in Mesopotamian cities |
-| ✅ Ashokan Buddhist missions | 3rd c. BC | Buddhism sent to Sri Lanka |
+| ⚠️ Ashokan mission tradition | 3rd c. BC setting; later chronicle account | `Mahavamsa` links Mahinda/Sanghamitta with Sri Lanka |
 | ✅ Early contacts widen | early Christian centuries | China, Central Asia, Myanmar, Southeast Asia |
-| ✅ Java settlement | AD 56 | Earliest Indian settlement in Java (RS chronology) |
-| ✅ Srivijaya | 5th–11th c. AD | Important centre of Indian culture |
-| ✅ Kamboja/Cambodia | 6th c. AD | Kingdom foundation in RS chronology |
+| ⚠️ Early Southeast Asian contacts | early centuries AD | inscriptions, scripts, trade and religious influences; exact “first settlement” dates are insecure |
+| ✅ Srivijaya | mainly 7th–13th c. AD | Sumatra-based maritime state and Buddhist network |
+| ✅ Cambodia | influences visible early; firm by 6th c. AD | Buddhist and especially Shaiva traditions adapted locally |
 
 ## 1. Snapshot & core idea
 
@@ -31,7 +31,7 @@
 **Standard — Buddhism and Indian culture abroad.**
 
 ✅ Buddhism was a major carrier of Indian cultural contact with **Sri Lanka, Myanmar, China and Central Asia**.
-- ✅ Buddhist missionaries were sent to Sri Lanka in Ashoka's reign in the 3rd century BC.
+- ⚠️ The Ashoka–Mahinda–Sanghamitta mission is preserved above all in the later Sri Lankan **`Mahavamsa`** tradition; Ashokan edicts do not narrate it in that form.
 - ✅ Brahmi inscriptions of the 2nd–1st centuries BC have been found in Sri Lanka.
 - ✅ Buddhism spread to Myanmar in the early Christian centuries and to China/Central Asia through missionaries and routes.
 - ✅ Indian cultural influence in Southeast Asia is visible in places such as **Kamboja/Cambodia, Champa, Java, Sumatra, Angkor and Borobudur**.
@@ -41,7 +41,7 @@
 
 | Region | Link with India |
 |---|---|
-| ✅ Sri Lanka | Ashokan Buddhist missions; Brahmi inscriptions |
+| ✅ Sri Lanka | `Mahavamsa` mission tradition; early Buddhist Brahmi inscriptions |
 | ✅ Myanmar | Buddhism in early Christian centuries |
 | ✅ China | Buddhist texts, pilgrims, Silk Route exchanges |
 | ✅ Central Asia | Buddhist missions/manuscripts; route networks |
@@ -53,7 +53,7 @@
 | ✅ Angkor | Cambodia/Kamboja; Indian cultural imprint |
 | ✅ Borobudur | Java/Indonesia; Buddhist monument |
 | ✅ Champa | Vietnam region; Indianised polity tradition |
-| ✅ Srivijaya | 5th–11th c.; centre of Indian culture |
+| ✅ Srivijaya | Sumatra-based maritime/Buddhist centre, especially from 7th c. onward |
 | ✅ Bamiyan | Rock-cut Buddha tradition in Afghanistan/Central Asia zone |
 
 ## 3. Study links
@@ -63,11 +63,12 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Ashoka's reign is linked to Buddhist missions to **Sri Lanka**.
+- ⚠️ Sri Lankan chronicle tradition links Ashoka, Mahinda and Sanghamitta to the spread of Buddhism in **Sri Lanka**.
 - ✅ India had contacts with China, Southeast Asia, West Asia, Central Asia and Rome.
 - ✅ Early Christian centuries: Buddhism spread to Myanmar; missionaries active in China/Central Asia/Afghanistan.
-- ✅ Srivijaya was an important power and centre of Indian culture from 5th–11th centuries.
-- ✅ Cambodia/Kamboja appears in RS chronology from the 6th century.
+- ✅ Srivijaya was an important Sumatra-based maritime and Buddhist centre, especially from the **7th century onward**.
+- ✅ In Cambodia, Buddhist and Hindu—especially Shaiva—influences were visible in early centuries CE and firmly rooted by the **6th century**.
+- ⚠️ R.S. Sharma's “AD 56 Java settlement” is an older textbook chronology not supported as a secure fixed date in Upinder Singh; omit it in exam answers.
 - ✅ Cultural give-and-take is the correct frame; avoid one-way civilising claims.
 
 ## 5. UPSC Traps
@@ -81,7 +82,7 @@
 
 ## 6. 📰 Current link
 
-📰 **ASI conservation at Ta Prohm/Angkor, Cambodia (ongoing 2025–26):** official India-Cambodia heritage cooperation highlights ASI's long role at Angkor Wat earlier and continuing work at Ta Prohm. Use it as a live bridge between ancient Indian cultural diffusion and modern cultural diplomacy.
+⚠️ **Current-link discipline:** Verify the current phase of any overseas ASI project from the bilateral/ASI record. The safe linkage is shared-heritage conservation as modern cultural diplomacy.
 
 ## 7. Mains angles
 

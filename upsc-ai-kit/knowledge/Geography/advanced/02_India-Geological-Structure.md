@@ -12,21 +12,29 @@
 
 **Advanced — India's Rock Systems & Mineral Geology (D.R. Khullar).**
 
-✅ India's rocks fall into four great systems by age — Archaean (Dharwar), Purana (Cuddapah–Vindhyan), Dravidian (Gondwana/Palaeozoic–Mesozoic) and Aryan (Deccan Trap & Tertiary) — each tied to specific minerals and landforms. The Peninsular block is built of ancient Archaean crystalline rocks (granite, gneiss, schist); the extra-Peninsula (Himalaya) is young, folded sedimentary rock — the framework behind India's mineral distribution.
+✅ Khullar's older fourfold scheme separates the **Archaean**, **Purana**, **Dravidian** and **Aryan**
+rock systems. Do not collapse **Dharwar into all Archaean rocks** or **Gondwana into the Dravidian
+system**: Dharwar is a younger Precambrian sequence within the ancient shield, while Gondwana
+sediments belong to the later Aryan succession in this scheme. The Peninsular block is dominated by
+ancient crystalline and sedimentary sequences; the Himalaya contains folded sedimentary, metamorphic
+and crystalline rocks rather than only “young Tertiary sedimentary strata.”
 - ✅ The Archaean/Dharwar crystallines form the Peninsular shield and host most metallic minerals (iron, manganese, gold).
-- ✅ Gondwana rocks hold nearly all of India's coal reserves — a direct geology→energy link.
-- ✅ The Deccan Trap is one of the world's largest flood-basalt provinces (~500,000 sq km); its weathering yields fertile black cotton (regur) soil.
+- ✅ Gondwana basins contain the overwhelming share of India's **bituminous coal resources**; Tertiary
+  coal occurs mainly in the north-east. Book-era percentages must not be treated as current reserve data.
+- ✅ The Deccan Trap is a major flood-basalt province; basalt weathering is strongly associated with
+  black soils, though soil formation also depends on relief, drainage and climate.
 - ✅ Weathering of ancient crystalline (granite/gneiss/schist) rocks rich in ferromagnesian minerals produces the red soils of the Peninsula.
-- ✅ The Himalaya is built of young Tertiary sedimentary strata — structurally distinct from the rigid Peninsular block.
+- ✅ The Himalaya is a young fold-and-thrust mountain system containing sedimentary, metamorphic and
+  crystalline units—structurally distinct from the comparatively stable Peninsular shield.
 
 ## 2. Key classification / data
 
 | Rock system | Age / character | Economic / geographic note |
 |---|---|---|
-| ✅ Archaean / Dharwar | Oldest crystalline and metamorphosed rocks; Peninsular shield | Iron ore, manganese, copper, lead, gold, quartzite, slate, mica; Kolar gold |
+| ✅ Archaean + Dharwar | Ancient gneiss-granite basement plus younger Precambrian supracrustal belts | Iron, manganese, gold and other metallic-mineral associations |
 | ✅ Purana — Cuddapah & Vindhyan | Proterozoic / 1400–600 million years in Khullar passage | Building stone, limestone, Panna diamonds |
-| ✅ Dravidian — Gondwana | Upper Palaeozoic–Mesozoic | Nearly all Indian coal (~98% in source note); iron ore link |
-| ✅ Aryan — Deccan Trap | Cretaceous–Eocene flood basalt / extrusive igneous rock | Black cotton (regur) soil; basalt building stone; ~500,000 sq km in source note |
+| ✅ Dravidian | Palaeozoic formations, limited in India | Best developed in parts of the extra-Peninsula |
+| ✅ Aryan — Gondwana to Recent | Gondwana continental sediments, Deccan flood basalt, Tertiary and Quaternary formations | Coal basins, black-soil basalt region, petroleum-bearing sedimentary basins and alluvium |
 | ✅ Tertiary / Siwalik | Cenozoic, young folded strata | Petroleum-bearing zones; Himalayan structure |
 | ✅ Peninsular vs extra-Peninsular | Ancient rigid crystalline block vs young folded sedimentary Himalaya | Explains mineral concentration and seismic contrast |
 
@@ -34,12 +42,22 @@
 
 > **Study link:** ✅ Geography → India → Geological Structure & Rock Systems (Khullar Ch-2)
 
+### Map hooks — major Peninsular blocks
+
+| Unit | Position | Geological/geomorphic cue |
+|---|---|---|
+| ✅ Deccan Plateau | South of the Narmada, between the Western and Eastern Ghats | Basalt-dominated north-west; older crystalline terrain elsewhere |
+| ✅ Malwa Plateau | North of the Vindhyan escarpment, chiefly western Madhya Pradesh–south-east Rajasthan | Lava-capped upland draining toward Chambal/Mahi systems |
+| ✅ Chota Nagpur Plateau | Jharkhand and adjoining Odisha–Chhattisgarh–West Bengal | Ancient shield, coalfields and metallic-mineral belt |
+| ✅ Meghalaya Plateau | Garo–Khasi–Jaintia upland, separated from the Peninsular block by the Ganga-Brahmaputra lowland | Faulted/detached Peninsular extension |
+| ✅ Bundelkhand–Baghelkhand | North-central Peninsular uplands | Ancient crystalline rocks and dissected plateaux |
+
 ## 4. Must-Know Facts (Prelims)
 
 
 **Advanced — India's Rock Systems & Mineral Geology (D.R. Khullar).**
-- ✅ Four systems: Archaean (Dharwar), Purana (Cuddapah-Vindhyan), Dravidian (Gondwana), Aryan (Deccan Trap-Tertiary).
-- ✅ Gondwana rocks = ~98% of India's coal.
+- ✅ Older fourfold scheme: Archaean, Purana, Dravidian and Aryan; Gondwana belongs to the Aryan succession.
+- ✅ Gondwana basins contain most Indian bituminous coal; Tertiary coal is important in the north-east.
 - ✅ Deccan Trap basalt → black cotton (regur) soil.
 - ✅ Dharwar crystallines → iron, manganese, gold (Kolar).
 - ✅ Panna (Vindhyan) → diamonds; Peninsular shield = oldest, most stable.
@@ -52,14 +70,17 @@
 
 **Advanced — India's Rock Systems & Mineral Geology (D.R. Khullar).**
 - ❌ The Deccan Trap is a sedimentary formation. → The Deccan Trap is IGNEOUS (flood basalt / extrusive volcanic rock).
-- ❌ Himalayan rocks are ancient crystallines. → Himalayan rocks are young TERTIARY sedimentary strata; the Peninsula holds the ancient crystallines.
+- ❌ The Himalaya consists only of young Tertiary sedimentary rocks. → It contains sedimentary,
+  metamorphic and crystalline units assembled in a young fold-thrust belt.
 - ❌ Most Indian coal is in the Deccan Trap. → Almost all Indian coal is in GONDWANA rocks, not the Deccan Trap.
 
 ## 6. 📰 Current link
 
 
 **Advanced — India's Rock Systems & Mineral Geology (D.R. Khullar).**
-📰 The National Critical Mineral Mission (NCMM, launched 2025) tasks GSI with 1,200 exploration projects (2024–2031); in 2025-26 GSI mapped >22,000 sq km of the Deccan Traps and used magnetotellurics + drone magnetic surveys to target rare earths, lithium and cobalt.
+📰 **National Critical Mineral Mission (Cabinet approval: 29 January 2025):** the mission links
+geological mapping and exploration with processing, recycling and overseas supply security. Use it as
+the advanced current anchor; do not infer that every critical mineral is hosted by the Deccan Trap.
 
 ## 7. Mains angles
 

@@ -6,7 +6,10 @@
 > traditions; the six orthodox darshanas; plural sacred spaces and
 > expressive forms.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 739-873 (Bhakti/Sufi pp. 828-859; darshanas pp. 860-873); `00_Master-
+> 739-909; R.S. Sharma, *India's Ancient Past*, PDF pp. 151-165, 316-326,
+> 347-355; Satish Chandra, *History of Medieval India*, PDF pp. 61-67,
+> 197-211, 334-345; Satish Chandra, *Medieval History, 1526-1748, Part 2*,
+> PDF pp. 376-395; `00_Master-
 > Framework.md` Section 3; audited UPSC Mains 2025 GS Paper I (adjacent
 > only).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
@@ -28,7 +31,7 @@ question, primarily owned by Medieval History/topic 04.
 |---|---|
 | ✅ **Purushartha** | The four goals of human pursuit: Artha (wealth), Dharma (social regulation), Kama (physical pleasure/love), Moksha (salvation) (*Nitin…pdf*, PDF pp. 860-861). |
 | ✅ **Shada Darshanas** | The six orthodox (Vedic-authority-accepting) schools of philosophy: Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, Vedanta (*Nitin…pdf*, PDF p. 861). |
-| ✅ **Nayanars vs. Alvars** | Nayanars = 63 Tamil Shaivite Bhakti saints; Alvars = 12 Tamil Vaishnavite Bhakti saints (composed the *Nalayira Divya Prabandham*; Andal, the only female Alvar, is called "Meera of the South") (*Nitin…pdf*, PDF pp. 829-831). |
+| ✅ **Nayanars vs. Alvars** | Nayanars = the canonical 63 Tamil Shaiva saints; Alvars = the canonical 12 Tamil Vaishnava saints whose hymns were compiled as the *Nalayira Divya Prabandham*. Andal is the only woman in the Alvar canon. |
 | ✅ **Saguna vs. Nirguna Bhakti** | Saguna school worships God with form/attributes; Nirguna school worships God as formless/attributeless (*Nitin…pdf*, PDF p. 828-ff outline). |
 | ✅ **Malfuzat** | Recorded conversations of Sufi saints, a key primary-source genre for reconstructing Sufi history (*Nitin…pdf*, PDF p. 828-ff outline). |
 
@@ -37,10 +40,11 @@ question, primarily owned by Medieval History/topic 04.
 ✅ Indian philosophy split, by the start of the Christian Era, into an
 **Orthodox school** (Vedas as supreme revealed scripture — the six Shada
 Darshanas) and a heterodox school (developed in the advanced tier)
-(*Nitin…pdf*, PDF p. 861). ✅ The Bhakti movement is classified by two
-schools — **Saguna** and **Nirguna** — and by regional wave: it
-originated in South India (Tamil Nadu, 6th-10th century AD) before
-spreading northward from the late 15th century (*Nitin…pdf*, PDF p. 829).
+(*Nitin…pdf*, PDF p. 861). ✅ Saguna/Nirguna is a useful later classification, but Bhakti developed
+through multiple regional trajectories rather than one south-to-north
+relay. Tamil Alvar/Nayanar traditions (c. 6th-9th centuries) are early
+major formations; Virashaiva, Marathi, Kannada, Bengali, Assamese, North
+Indian sant and Vaishnava traditions followed different chronologies.
 
 ## 4. Foundation narrative
 
@@ -50,24 +54,42 @@ marginalised communities, the stagnation of Buddhism and Jainism creating
 space for devotional religion, and royal patronage (e.g. Chola support
 for the Shaivite movement in Tamil Nadu) (*Nitin…pdf*, PDF p. 829). ✅
 Nayanars (Shiva devotees) and Alvars (Vishnu devotees) preached devotion
-as the path to salvation, composed in vernacular languages (Tamil,
-Telugu) rather than Sanskrit, required no priestly intermediation, and
+as the path to salvation, composed primarily in Tamil rather than Sanskrit, and emphasised personal
+devotion; later temple compilation and Brahmanical/royal institutions
+also shaped their transmission. They
 explicitly opposed Buddhist/Jain asceticism (*Nitin…pdf*, PDF pp.
-829-830). ✅ The 12 Alvars composed the *Nalayira Divya Prabandham*;
-Andal, the sole female Alvar, is called "Meera of the South" (*Nitin…pdf*,
-PDF p. 831). ⚠️ Nayanars are directly cross-referenced in this folder's
+829-830). ✅ Hymns of the 12 Alvars were compiled as the *Nalayira Divya
+Prabandham*; Andal is the sole woman in the canonical Alvar list. ⚠️
+Nayanars are directly cross-referenced in this folder's
 architecture topic — the Airavatesvara Temple at Darasuram (topic 03)
 displays legends of the "sixty-three Nayanars" as part of its sculptural
 programme, directly linking Bhakti hagiography to Chola temple art
 (*Nitin…pdf*, PDF p. 92, cross-referenced from topic 03).
 
-✅ Samkhya (founded by Kapil Muni, author of the *Samkhya Sutra*) is the
-oldest of the six darshanas, positing dualism (soul/matter as separate)
+⚠️ Samkhya is traditionally associated with Kapila, but the extant
+*Samkhya Sutra* is late and should not be assigned to him as settled fact.
+Classical Samkhya distinguishes purusha and prakriti
 and three means of knowledge — Pratyaksha (perception), Anumana
-(inference), Shabda (hearing) (*Nitin…pdf*, PDF pp. 862-863). ✅ Yoga
-(Patanjali's *Yogasutra*, 2nd century BC) defines yoga as the union of
-individual and universal spirit, achieved through Ashtanga Yoga (eight
-practices) leading to Samadhi (*Nitin…pdf*, PDF pp. 863-864).
+(inference), Shabda (hearing) (*Nitin…pdf*, PDF pp. 862-863). ✅ Patanjali's *Yogasutra* is a layered text of debated date, commonly
+placed in the early centuries BCE/CE; it systematises citta-vritti control
+and eight-limbed practice. Do not reduce every Indian yoga tradition to
+"union of individual and universal spirit."
+
+✅ **Sufi distinctions:** Chishti and Suhrawardi were influential early
+orders in India, later joined by Qadiri, Naqshbandi and others. Satish
+Chandra notes borrowing of practices and shared devotional spaces while
+insisting that Sufi ideological structures remained Islamic — interaction
+without identity-erasure. Malfuzat (discourses), maktubat (letters) and
+tazkiras (biographies) are different source genres.
+
+✅ **Fairs/festivals as cultural systems, not lists:**
+
+| Type | Examples | Analytical anchor |
+|---|---|---|
+| Pilgrimage-congregation | Kumbh Mela at Prayagraj, Haridwar, Ujjain, Nashik | Sacred geography, temporary urbanism, sanitation and safeguarding |
+| Agricultural/seasonal | Pongal, Bihu, Onam, Baisakhi, Hornbill-linked seasonal/community calendars | Ecology, harvest and regional identity |
+| Ritual-performance | Ramlila, Ramman, Mudiyettu, Durga Puja, Garba | Music/dance/theatre, artisan labour and community transmission |
+| Multi-community festival | Deepavali; shared regional observances of fairs/saint shrines | Participation varies by region/community; never claim one uniform meaning |
 
 ## 5. Visual map or comparison table
 
@@ -79,9 +101,11 @@ ORTHODOX SCHOOL (Vedic authority accepted)
 Samkhya | Yoga | Nyaya | Vaisheshika | Mimamsa | Vedanta
               |
               v
-BHAKTI MOVEMENT (South India, 6th-10th c. -> spreads north, 15th c.+)
+REGIONAL BHAKTI TRAJECTORIES
+Tamil Alvar/Nayanar (early major formation) | Virashaiva/Kannada |
+Marathi Varkari | North Indian sant/Vaishnava | Bengal/Assam and others
    NAYANARS (Shaiva)          ALVARS (Vaishnava)
-   63 saints                  12 saints, Nalayira Divya Prabandham
+   canonical 63               canonical 12, Nalayira Divya Prabandham
               |
               v
 SUFI MOVEMENT (parallel devotional-mystical tradition, distinct orders)
@@ -128,13 +152,25 @@ Akbar's specific policy.
   vs. Islamic mystical movement) that developed in parallel and
   influenced each other, but are not the same movement.
 - ❌ The Bhakti movement began in North India. -> It originated in South
-  India (Tamil Nadu, 6th-10th century AD) and spread northward only from
-  the late 15th century.
-- ❌ All Alvars were male. -> Andal was a female Alvar, referred to as
-  "Meera of the South."
+  India's Tamil devotional traditions are among its earliest major
+  formations, but later regional Bhakti histories do not follow one simple
+  diffusion date.
+- ❌ All Alvars were male. -> Andal is the woman represented in the
+  canonical list of twelve; avoid the anachronistic "Meera of the South"
+  shortcut.
 - ❌ The six darshanas are six competing, mutually exclusive religions. ->
   They are six schools of philosophical inquiry within the orthodox
   (Vedic-accepting) tradition, sharing the common Purushartha framework.
+- ❌ Nayanars and Alvars composed in both Tamil and Telugu. -> Their
+  canonical hymn traditions are Tamil; Telugu Bhakti has separate later
+  histories.
+- ❌ Bhakti or Sufism automatically abolished caste, gender hierarchy or
+  doctrinal difference. -> Individual saints and communities varied;
+  inclusion, institutionalisation and contestation must be studied
+  together.
+- ✅ **Local PYQ routes:** CSE 2021 asks Bhakti literature's contribution;
+  CSE 2020 links philosophy/tradition to monuments; CSE 2019 tests false
+  saint chronology; CSE 2014 tests Bijak/Pushtimarg attribution.
 
 ## 10. Mains framework
 

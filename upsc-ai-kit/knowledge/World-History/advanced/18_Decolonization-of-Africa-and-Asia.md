@@ -27,9 +27,10 @@
 
 ## 3. Lowe's verdict on decolonization
 
-- ⚠️ **Lowe argues that decolonization was both inevitable and justifiable, but he is not romantic about its results.**
-- ⚠️ In his treatment, the crucial problem is not that colonial peoples were "unready" in some civilizational sense; it is that empire often left behind artificial borders, distorted economies and weak political habits.
-- ⚠️ This is the line UPSC likes: **freedom was necessary, but state-building after freedom was immensely difficult**.
+- ✅ Lowe's verdict section presents a real interpretive dispute rather than one simple authorial slogan. Piers Brendon and Richard Gott stress coercion, extraction and imperial violence; Niall Ferguson emphasizes legal, commercial and institutional legacies.
+- ⚠️ These positions must not be treated as morally or empirically equivalent by default. A balanced answer should test claimed legacies against who benefited, the violence of conquest and rule, and the constrained sovereignty inherited at independence.
+- ⚠️ In Lowe's wider treatment, the crucial problem is not that colonial peoples were "unready" in a civilizational sense; empire often left artificial borders, distorted economies, narrow administrative capacity and elite-dominated states.
+- ⚠️ UPSC-safe synthesis: **political freedom was historically legitimate and increasingly unavoidable under postwar conditions, but state-building after freedom was immensely difficult and colonial structures did not vanish with the flag**.
 
 ## 4. Why post-colonial African politics became so unstable
 
@@ -65,6 +66,7 @@
 - ✅ Algeria's independence (1962) followed a prolonged settler-war exit, unlike Ghana's negotiated route.
 - ✅ The Congo crisis (from 1960) is Lowe's standard example of collapse into state crisis immediately after independence.
 - ✅ Cold War rivalry converted several post-colonial civil conflicts (e.g., Angola) into proxy struggles between outside powers.
+- ✅ Lowe's verdict chapter contains a live historiographical dispute over imperial exploitation and claimed institutional legacies; do not quote one side as settled consensus.
 
 - ❌ Decolonization ended colonial influence -> political empire ended faster than economic and strategic dependence.
 - ❌ All African crises were caused by tribalism -> Lowe repeatedly points to borders, weak institutions, military politics and outside intervention.

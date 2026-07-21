@@ -12,10 +12,10 @@
 | Phase | Date (RS Sharma style) | Marker |
 |---|---|---|
 | ✅ Materialist currents | 500 BC–AD 300 | Expanding economy and rational inquiry |
-| ✅ Six schools visible | by beginning of Christian era | Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, Vedanta |
+| ⚠️ Individual systems are ancient | early historic onward; dates vary | Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, Vedanta |
 | ✅ Brahmasutra | 2nd c. AD | Badarayana's Vedanta text |
-| ✅ Shankara | 9th c. AD | Commentary on Brahmasutra |
-| ✅ Ramanuja | 12th c. AD | Commentary on Brahmasutra |
+| ✅ Shankara | late 8th/early 9th c. AD in Upinder Singh | Advaita interpretation of Upanishads/Brahmasutra |
+| ✅ Ramanuja | 11th–12th c. AD | Vishishtadvaita tradition |
 
 ## 1. Snapshot & core idea
 
@@ -24,7 +24,7 @@
 ✅ RS Sharma links philosophical development to a society where the state and varna order were established and thinkers discussed the four goals of life: **dharma, artha, kama and moksha**.
 - ✅ **Dharma** regulated social order; **artha** concerned economic resources; **kama** physical pleasures; **moksha** salvation.
 - ✅ Arthashastra, Dharmashastra and Kamasutra dealt mainly with worldly problems, while darshana texts made moksha central.
-- ✅ By the beginning of the Christian era, six systems developed: **Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta**.
+- ⚠️ R.S. Sharma presents the six systems together by the beginning of the Christian era, but Upinder Singh cautions that the familiar **group of six orthodox systems crystallised much later**; the constituent traditions themselves are older.
 - ⚠️ UPSC often asks classification, not deep metaphysics; know pairs, themes and heterodox contrast.
 
 **Standard — idealism, materialism and Charvaka.**
@@ -62,10 +62,10 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Six orthodox systems: **Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, Vedanta**.
-- ✅ Four goals of life: **dharma, artha, kama, moksha**.
+- ✅ Traditional later grouping of six orthodox systems: **Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, Vedanta**; the grouped canon crystallised later than the individual traditions.
+- ✅ The classical four goals are **dharma, artha, kama, moksha**; Upinder notes that moksha was added to an earlier three-goal formulation.
 - ✅ Brahmasutra of Badarayana: **2nd c. AD** in RS Sharma chronology.
-- ✅ Shankara: **9th c. AD**; Ramanuja: **12th c. AD** commentarial tradition.
+- ✅ Shankara: **late 8th/early 9th c. AD**; Ramanuja: **11th–12th c. AD**.
 - ✅ Charvaka/Lokayata = materialistic view, not orthodox salvation-centred philosophy.
 - ✅ RS Sharma links materialist philosophy to expanding economy, trade, metal money and rational inquiry.
 
@@ -80,7 +80,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Gyan Bharatam Mission (Union Budget 2025–26):** the Ministry of Culture initiative targets survey, conservation and digitisation of over **1 crore manuscripts**. Use it to link darshana traditions with manuscript preservation and Indian Knowledge Systems.
+⚠️ **Current-link discipline:** Verify manuscript-mission names and numerical targets from the official scheme document. The safe linkage is preservation, cataloguing and critical study of philosophical manuscripts.
 
 ## 7. Mains angles
 

@@ -68,7 +68,7 @@
 
 ## 6. 📰 Current link
 
-📰 **National Mission on Monuments and Antiquities, 2025:** PIB reported large-scale digitization/documentation of antiquities and repatriation efforts. For Gupta studies, this matters because coins, sculptures and inscriptions are primary evidence; better cataloguing improves provenance and source criticism.
+⚠️ **Current-link discipline:** Verify digitisation totals from the responsible mission. The safe linkage is that cataloguing coins, inscriptions and sculpture improves provenance and source criticism.
 
 ## 7. Mains angles
 

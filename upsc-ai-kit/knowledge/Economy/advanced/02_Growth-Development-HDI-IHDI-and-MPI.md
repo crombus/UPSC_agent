@@ -4,7 +4,7 @@
 > **Core area:** Inclusive growth and human development.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/02_Growth-Development-HDI-IHDI-and-MPI.md`.*
+> *Companion: `../basic/02_Growth-Development-HDI-IHDI-and-MPI.md`.*
 
 ---
 
@@ -128,7 +128,7 @@ state, gender, caste or quality-of-service gap.
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 NITI MPI fell from 55.3% in 2005-06 to 14.96% in 2019-21 and was estimated at 11.28% in 2022-23. | Use the fall to show broad deprivation reduction, then test whether state and social-group gaps persist. |
-| 📰 Extreme poverty was 5.3% in 2022-23 using the revised World Bank USD 3/day line. | Contrast monetary poverty with overlapping non-income deprivation; the two measures answer different questions. |
+| 📰 Extreme poverty was 5.3% in 2022-23 using the revised World Bank USD 3/day line. | It is a 2021-PPP international benchmark, not India's domestic poverty line; do not compare it mechanically with older-line estimates. |
 | 📰 The Survey treats education, health, skills and productive employment as a connected human-capital system. | Link education, health, skills and jobs as sequential capability investments rather than separate schemes. |
 
 ## 10. PYQ-based analytical application
@@ -161,7 +161,7 @@ state, gender, caste or quality-of-service gap.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/02_Growth-Development-HDI-IHDI-and-MPI.md`.
+- ✅ Foundation companion: `../basic/02_Growth-Development-HDI-IHDI-and-MPI.md`.
 - ✅ `01_National-Income-GDP-GVA-and-Measurement.md` — output and per-capita measures.
 - ✅ `22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` — productive inclusion
   through jobs.

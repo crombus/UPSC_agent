@@ -26,6 +26,7 @@
 - ✅ Quwwat-ul-Islam's arcaded courtyard used pillars from earlier temples; decoration avoided figural forms but used floral scrolls and Quranic verses.
 - ✅ The Turkish rulers used Indian craftsmen and later West Asian master architects; this produced a technical and aesthetic fusion.
 - ✅ The source stresses that arch and dome were known in India earlier, but the correct scientific method was rare; Sultanate building made the arcuate method widespread.
+- ✅ The first surviving true arch identified in the source is in Balban's tomb; Alai Darwaza represents a later, more accomplished use of radiating voussoirs, dome and proportion.
 
 **Deeper — technology, aesthetics and regionalisation.**
 
@@ -33,6 +34,7 @@
 - ✅ Iltutmish's tomb shows attempts to adapt a square building into an octagonal/domed form using squinch-like devices.
 - ✅ Qutb Minar's impact comes from tapering height, ribbed/angular projections and sandstone colour contrast.
 - ✅ Tughlaq architecture uses batter/sloping walls for strength and solidity, then combines arch principles with lintel-and-beam traditions.
+- ✅ Cultural production also remained multilingual: Persian court writing, Sanskrit scholarship and expanding regional literatures coexisted; Amir Khusrau is important, but later legends about inventing every musical form or instrument require caution.
 
 ## 2. Key classification / data
 
@@ -69,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Atala Masjid, Jaunpur, an ASI-protected Sharqi monument, remained in 2025–26 news due to litigation over shops/survey claims and heritage-use regulation** (Allahabad HC-linked reporting, 2025–26). Relevance: Sultanate/Sharqi architecture is a living issue of conservation, law and plural heritage.
+📰 **Current linkage (verify live before use):** Conservation or litigation involving Qutb, Tughlaq, Mandu or Jaunpur monuments may be used as a governance hook only after checking the latest ASI and court record; modern claims are not evidence for medieval provenance.
 
 ## 7. Mains angles
 

@@ -25,7 +25,7 @@
 - ✅ Aurangzeb's death in **1707** was followed by wars of succession and a rapid weakening of central authority; weak successors could not hold the vast empire together.
 - ✅ **Bahadur Shah I (1707–12)** followed a policy of compromise with Marathas, Rajputs and Sikhs, but reversed nothing fundamental; after him a series of weak rulers depended on powerful nobles.
 - ✅ The **Sayyid Brothers** (Abdullah Khan & Husain Ali) became "**king-makers**" — raising and deposing emperors (Farrukhsiyar) — showing that the throne had become a prize for court factions.
-- ✅ **Muhammad Shah (1719–48)** ruled long but was pleasure-loving ("Rangila"); during his reign provinces such as **Hyderabad, Bengal and Awadh** became effectively independent.
+- ✅ During **Muhammad Shah's long reign (1719–48)**, court factionalism continued and provinces such as **Hyderabad, Bengal and Awadh** became effectively autonomous. His sobriquet "Rangila" should not substitute for structural explanation.
 
 **Foundation — external shocks exposed the hollowness.**
 
@@ -39,7 +39,7 @@
 | ✅ Weak successors | Post-Aurangzeb rulers were incompetent; wars of succession |
 | ✅ Faction & noble politics | Turani, Irani, Afghan, Hindustani groups; Sayyid "king-makers" |
 | ✅ **Jagirdari crisis** | Too many nobles, too few profitable jagirs (*be-jagiri*) |
-| ✅ Aurangzeb's legacy | Deccan wars over-stretched resources; Rajput & Maratha hostility |
+| ✅ Aurangzeb's legacy | Prolonged Deccan war and unresolved Maratha/Rajput conflicts over-stretched resources; historians dispute how much weight to give religious policy |
 | ✅ Agrarian/economic strain | Revenue pressure on peasants; declining central income |
 | ✅ Rise of regional powers | Marathas, Sikhs, Jats; autonomous provinces (Awadh, Bengal, Hyderabad) |
 | ✅ Foreign invasions | Nadir Shah (1739), Abdali (1748–61) exposed weakness |
@@ -55,7 +55,7 @@
 - ✅ **Aurangzeb died in 1707**; decline dates from the wars of succession that followed.
 - ✅ The **Sayyid Brothers** (Abdullah Khan, Husain Ali) were the "**king-makers**".
 - ✅ **Nadir Shah** defeated the Mughals at **Karnal (1739)**, sacked Delhi, took the **Peacock Throne & Kohinoor**.
-- ✅ **Muhammad Shah "Rangila"** (1719–48) — during his reign Hyderabad, Bengal & Awadh went independent.
+- ✅ **Muhammad Shah (1719–48)** — during his reign Hyderabad, Bengal and Awadh became autonomous in practice.
 - ✅ **Ahmad Shah Abdali** invaded India several times, **1748–1761**.
 - ⚠️ The three great regional powers rising from the ruins: **Marathas, Sikhs, Jats**, plus autonomous provinces.
 

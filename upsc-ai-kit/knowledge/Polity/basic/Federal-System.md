@@ -43,7 +43,8 @@ President's veto over state bills.**
 - ✅ Only exception to single Constitution was **pre-2019 J&K**.
 
 ## 📰 Current link
-📰 ⚠️ **GST Council** disputes, **Governor withholding assent to bills** (TN/Kerala 2023-24 SC cases),
-and southern-states' **fiscal-devolution** demands keep Centre-state federalism in the news.
+📰 ⚠️ GST coordination, fiscal-devolution demands and bill-assent disputes keep
+federalism live. For assent, use the controlling **20 Nov 2025 Article 143 opinion**:
+no rigid judicial timelines/deemed assent, but prolonged unexplained inaction is reviewable.
 
 ➡️ For all 7 federal + 14 unitary features, scholar quotes & Bommai → `advanced/12_Federal-System.md`.

@@ -1,7 +1,7 @@
 # Industries & Industrial Regions — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (world/general-concept) · **GS Paper:** GS-I & GS-III
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + standard industrial-location theory.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong's resource/climate foundations + verified dated current-affairs anchor.
 > **Data caution:** ✅ Classic industrial regions below are textbook locational frames; contemporary output leadership can shift with technology and geopolitics.
 > ✅ = grounded source · ⚠️ = synthesis / exam heuristic · 📰 = verified dated current-affairs anchor.
 > *Companion: `advanced/32_Industries-and-Industrial-Regions.md`.*
@@ -28,7 +28,7 @@
 
 ## 3. Weber’s least-cost model
 
-✅ D.R. Khullar explicitly notes Alfred Weber's 1909 location theory. ✅ Weber argued that industries choose sites by minimising the combined burden of **transport cost, labour cost and agglomeration/deglomeration effects**.
+⚠️ Alfred Weber's 1909 least-cost theory is a standard industrial-geography model. ✅ Weber argued that industries choose sites by minimising the combined burden of **transport cost, labour cost and agglomeration/deglomeration effects**.
 
     Raw Material A
           /\

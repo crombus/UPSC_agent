@@ -51,7 +51,8 @@ Rajya Sabha**; **no ground needed**.
 - ✅ *D.C. Wadhwa (1987):* re-promulgating ordinances = "fraud on the Constitution."
 
 ## 📰 Current link
-📰 ⚠️ **Governor/President assent to state bills** (TN, Kerala 2023-24 SC cases) — SC held Governors can't
-delay bills indefinitely, keeping Art 200/201 topical.
+📰 ✅ **Current Art 200/201 position (20 Nov 2025 Article 143 opinion):** courts
+cannot create rigid timelines or automatic deemed assent, but prolonged, unexplained and
+indefinite gubernatorial inaction remains open to limited judicial review and mandamus.
 
 ➡️ For full powers, veto tables, ordinance limits & President-VP contrast → `advanced/15_President-and-Vice-President.md`.

@@ -1,7 +1,7 @@
 # Growth of Communalism & the Muslim League — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* + *India's Struggle for Independence* — communalism, nationalism and partition trajectory.
+> **Grounded in:** Bipan Chandra, *Modern India* + *India's Struggle for Independence* (Chs. 31–33), cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partition* — communalism, nationalism and the partition trajectory.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/17_Growth-of-Communalism-and-Muslim-League.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -25,7 +25,7 @@
 **Deeper — Bipin Chandra defines communalism as a staged modern ideology.**
 
 - ✅ Bipin Chandra defines communalism as an ideology built in **three stages**: (1) people who follow the same religion are assumed to share **common secular interests** — political, economic, social and cultural — the bedrock that turns a religion into a "community"; (2) in a multi-religious society these secular interests are seen as **dissimilar and divergent** from those of other religious communities; (3) the interests are finally seen as **mutually incompatible, antagonistic and hostile**.
-- ✅ The first two stages together form **liberal (mild) communalism**; the third is **extreme / fascist communalism** — the direction in which the Muslim League and Hindu Mahasabha after 1937, and the RSS, increasingly moved.
+- ✅ In Chandra's terminology, the first two stages form **liberal/mild communalism** and the third **extreme or fascistic communalism**. The label is the author's analytical judgement and should be attributed, not treated as a neutral legal classification of organisations.
 - ✅ Communalism grew from colonial structures, middle-class competition, political underdevelopment and the failure to fully spread secular economic nationalism among the masses.
 - ⚠️ This theory is instrumental and modernist: it explains communalism through politics and social interests, not primordial hatred.
 
@@ -42,7 +42,7 @@
 |---|---|
 | ✅ Stage 1 (bedrock) | Co-religionists assumed to share common secular (political, economic, social, cultural) interests → religion becomes a "community" |
 | ✅ Stage 2 (liberal communalism) | Secular interests of different religious communities seen as dissimilar and divergent |
-| ✅ Stage 3 (extreme/fascist communalism) | Those interests seen as mutually incompatible, antagonistic and hostile |
+| ✅ Stage 3 (Chandra: extreme/fascistic communalism) | Those interests seen as mutually incompatible, antagonistic and hostile |
 | ✅ Colonial role | Separate electorates, official patronage and divide-and-rule institutionalised identity politics |
 | ✅ Socio-economic root | Competition among educated middle classes for jobs, seats, status and access to government |
 | ✅ Muslim League | Founded in Dhaka in 1906 by elite leadership; later trajectory moved toward Pakistan demand |
@@ -61,9 +61,10 @@
 - ✅ **Muslim League** was founded in **1906** at **Dhaka**; **Aga Khan** and **Nawab Salimullah** are key elite names.
 - ✅ **Separate electorates** for Muslims were introduced by **Morley-Minto / Indian Councils Act 1909**.
 - ✅ **Lucknow Pact 1916** accepted separate electorates while producing temporary Congress-League unity.
-- ✅ **Hindu Mahasabha** emerged in **1915**; **RSS** was founded in **1925**.
+- ⚠️ **Hindu Mahasabha** emerged in **1915** and **RSS** was founded in **1925**; their classification here follows Chandra's ideological framework.
 - ✅ **Savarkar's Hindutva** was published in **1923**.
 - ✅ **Lahore Resolution** came in **1940**, much later than League foundation and separate electorates.
+- ✅ The **Lahore Resolution** used the formulation "independent states" and did not name "Pakistan"; its later political interpretation hardened toward a sovereign Pakistan demand.
 - ✅ Bipin Chandra's three stages run **common secular interests → divergent interests → mutually hostile interests** (the first two = liberal communalism; the third = extreme/fascist communalism).
 - ⚠️ Use "communalism" only for political ideology, not as a synonym for religious devotion.
 

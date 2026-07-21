@@ -1,7 +1,7 @@
 # Integration of the Princely States & the Making of the Republic — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, Mridula Mukherjee, Aditya Mukherjee, K.N. Panikkar, Sucheta Mahajan, *India's Struggle for Independence, 1857–1947* — transfer-of-power context, plus standard post-1947 nation-building scholarship.
+> **Grounded in:** Bipan Chandra, Mridula Mukherjee & Aditya Mukherjee, *India After Independence, 1947–2000* — Ch. 6–7 (initial years and accession of princely states), with the transfer-of-power context from *India's Struggle for Independence*.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/28_Integration-of-Princely-States.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -12,11 +12,11 @@
 | Date | Event |
 |---|---|
 | ✅ July 1947 | Indian Independence Act provides for lapse of British paramountcy |
-| ⚠️ 15 August 1947 | Most states accede to India by independence, leaving a few problem cases |
-| ⚠️ October 1947 | Kashmir signs Instrument of Accession after tribal invasion from Pakistan side |
-| ⚠️ February 1948 | Junagadh plebiscite endorses accession to India |
-| ⚠️ September 1948 | Hyderabad integrated through Police Action / Operation Polo |
-| ⚠️ 1948–49 | Merger agreements and unions consolidate small states into administrable units |
+| ✅ 15 August 1947 | All but Junagadh, Jammu and Kashmir, and Hyderabad among the major hold-outs accede to India |
+| ✅ October 1947 | Kashmir signs Instrument of Accession after tribal invasion from Pakistan |
+| ✅ February 1948 | Junagadh plebiscite endorses accession to India |
+| ✅ September 1948 | Hyderabad integrated through Police Action / Operation Polo |
+| ✅ 1948–49 | Merger agreements and unions consolidate states into administrable units |
 | ⚠️ 26 November 1949 | Constitution adopted by the Constituent Assembly |
 | ⚠️ 26 January 1950 | Republic begins; the Union framework replaces colonial-princely fragmentation |
 
@@ -25,9 +25,9 @@
 **Deeper — integration solved the most urgent state-building problem after Partition.**
 
 - ✅ The Indian Independence Act ended British paramountcy, creating a legal vacuum in which princely rulers could not simply be assumed to be part of India.
-- ⚠️ Patel and V.P. Menon combined persuasion, patriotic appeal, realistic concessions and firm pressure to prevent Balkanisation of the subcontinent.
-- ⚠️ The Instrument of Accession was deliberately limited to Defence, External Affairs and Communications to make accession politically acceptable and administratively quick.
-- ⚠️ The strategy separated immediate accession from later merger, democratisation and constitutional integration, reducing resistance while preserving momentum.
+- ✅ Patel and V.P. Menon combined persuasion, concessions, pressure and the leverage created by peoples' movements in the states.
+- ✅ The Instrument of Accession was deliberately limited to Defence, External Affairs and Communications to make accession politically acceptable and administratively quick.
+- ✅ Chandra distinguishes two stages: accession on the three common subjects, then merger, democratisation and constitutional integration.
 
 **Deeper — the problem states reveal the range of integration tools.**
 
@@ -48,6 +48,7 @@
 | ⚠️ Merger and unions | Small states integrated into viable administrative units after accession |
 | ⚠️ Constituent Assembly | Provided the constitutional form of the Union and republic |
 | ⚠️ Later privy purses issue | Privy purses were abolished later in 1971, not during initial accession itself |
+| ✅ Number issue | "More than 560" is safest; 562/565 totals reflect different counting conventions |
 
 ## 3. Study links
 

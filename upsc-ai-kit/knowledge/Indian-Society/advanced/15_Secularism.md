@@ -4,9 +4,9 @@
 > Polity and Philosophy.
 > **Core area:** The substantive-equality-versus-community-autonomy causal architecture of
 > the UCC debate, and the Places of Worship Act as a rights-sensitive-reform boundary case.
-> **Grounded in:** Uttarakhand Uniform Civil Code, 2025 (in force since 27 January 2025);
-> Places of Worship (Special Provisions) Act, 1991, current status; no direct 2024/2025
-> GS-I standalone PYQ (flagged honestly).
+> **Grounded in:** Uniform Civil Code, Uttarakhand, 2024 and Rules, 2025 (in force since
+> 27 January 2025); 2026 Amendment Act; Places of Worship (Special Provisions) Act, 1991;
+> no direct 2024/2025 GS-I standalone PYQ (flagged honestly).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/15_Secularism.md`.*
 
@@ -37,16 +37,15 @@ SUBSTANTIVE-EQUALITY ARGUMENT      COMMUNITY-AUTONOMY ARGUMENT
                          |
                          v
         LIVE TEST CASE: Uttarakhand UCC (2025-)
-        implementation gaps -> 2026 amendment ordinance
+        2026 amendment Act after an ordinance;
+        outcome needs separate implementation evidence
 ```
 
 **Analytical claim:** ⚠️ The Uniform Civil Code debate, read as a social (not purely legal)
-question, is best understood as a genuine value trade-off between substantive gender
-equality and community cultural autonomy, not a question with an obviously correct answer;
-the Uttarakhand UCC's implementation experience — requiring a 2026 amendment ordinance to
-fix execution gaps — shows that even a state that has resolved the doctrinal question still
-faces a live, ongoing social-implementation challenge in translating uniform law into
-practice without eroding either equality gains or community trust.
+question, involves substantive gender equality, community autonomy, consultation and
+implementation. Uttarakhand's 2026 amendment followed an ordinance and shows that
+legislation can be revised; the amendment alone does not prove either an implementation
+failure or a successful social outcome, which require separate evidence.
 
 ## 2. Concepts and distinctions
 
@@ -55,8 +54,8 @@ practice without eroding either equality gains or community trust.
 | ⚠️ **Substantive equality vs formal equality (applied to personal law)** | Formal equality would apply identical rules regardless of religion without asking whether existing personal-law provisions already advantage or disadvantage women differently across communities; substantive equality asks whether a given legal arrangement (uniform or plural) actually improves women's real position — proponents of UCC argue uniformity advances substantive equality by removing discriminatory provisions in some personal laws; critics argue a uniform code designed without genuine multi-community input can itself entrench a majority-community-influenced template as the new universal norm. |
 | ⚠️ **Community autonomy vs individual rights within the community** | Community autonomy protects a religious group's right to govern its own family-law affairs; individual-rights arguments (particularly for women within that community) can conflict with community autonomy where personal law disadvantages individual members — the tension is not resolved by favouring either principle absolutely, but by seeking rights-sensitive reform that protects vulnerable individuals without wholesale abolition of community self-governance. |
 | ✅ **Lived secularism vs legislated uniformity** | Lived secularism (syncretism, equal public space) operates informally through everyday social practice; legislated uniformity (a UCC) operates formally through codified law — the social debate is precisely whether the informal coexistence achieved through lived secularism can or should be extended into the formal legal domain without disrupting the trust that the informal practice has built. |
-| ⚠️ **Places of Worship Act as legislative freeze vs rights-sensitive reform** | The Act's freeze mechanism prioritises present-day social stability over adjudicating historical religious-site grievances on the merits; a rights-sensitive-reform lens would ask whether this stability-first approach adequately balances the interests of communities with unresolved historical claims against the interests of communities relying on continued present-day order — the pending litigation (Topic 13) is precisely a contest over where this balance should lie. |
-| ⚠️ **Implementation gap vs doctrinal resolution** | A jurisdiction can resolve the doctrinal question (whether to enact a UCC) while still facing a distinct, ongoing implementation-gap challenge (registration processes, awareness, inter-community trust in the new code's neutrality) — the Uttarakhand 2026 amendment ordinance is evidence that doctrinal enactment and successful social implementation are separate achievements. |
+| ⚠️ **Places of Worship Act as legislative freeze vs rights-sensitive reform** | The Act's freeze mechanism prioritises present-day social stability over adjudicating historical religious-site grievances on the merits; a rights-sensitive-reform lens asks how stability, historical claims and present-day order are balanced. Verify any current litigation status from the official Court record (Topic 13). |
+| ⚠️ **Implementation evidence vs enactment** | A jurisdiction can enact a code while practical access, registration processes, awareness and trust remain separate empirical questions. Uttarakhand's 2026 amendment demonstrates legislative revision, not by itself the size or cause of any implementation gap. |
 
 ## 3. Detailed causal chain
 
@@ -78,15 +77,16 @@ practice without eroding either equality gains or community trust.
    of autonomy or imposing uniformity without consultation in the name of equality.
 
 ### Uttarakhand implementation chain
-1. The Uttarakhand UCC came into force on 27 January 2025, becoming India's first
-   state-level uniform civil code.
+1. The Uniform Civil Code, Uttarakhand, 2024 came into force on 27 January 2025 with the
+   Rules, 2025. It is a post-Independence state code; Goa's distinct Portuguese Civil Code
+   history means “first” claims need qualification.
 2. ⚠️ Implementation required new registration processes (for marriage, live-in
    relationships) and public-awareness efforts across religious communities.
-3. ⚠️ Reported execution gaps in the first year of implementation prompted a 2026 amendment
-   ordinance intended to address specific procedural or coverage shortfalls.
-4. This sequence shows that enacting a UCC (a doctrinal/legislative achievement) and
-   successfully implementing it at the social level (an ongoing administrative and
-   trust-building challenge) are analytically and practically distinct stages.
+3. ✅ A 2026 amendment ordinance was subsequently enacted as an Amendment Act. Its existence
+   shows that the legal framework was revised; outcome evidence is still needed before
+   attributing the change to a particular execution or coverage gap.
+4. This sequence distinguishes enactment from empirical implementation assessment:
+   registration, access, awareness and trust need their own evidence.
 
 ## 4. Institutional and reform architecture
 
@@ -107,13 +107,11 @@ practice without eroding either equality gains or community trust.
 - ⚠️ **Boundary case 2 — community-autonomy concern:** a minority community perceiving that
   a uniform code was drafted primarily reflecting majority-community family-law norms,
   without adequate consultation, illustrates the community-autonomy critique.
-- ⚠️ **Boundary case 3 — implementation gap and stability-versus-grievance balance:** a
-  live-in relationship registration requirement under the Uttarakhand UCC facing low
-  compliance in its first year, prompting the 2026 amendment ordinance, illustrates the
-  implementation-gap distinct from the doctrinal-resolution stage, paralleled by the Places
-  of Worship Act's freeze mechanism preserving present-day order around a disputed site
-  while a community with a historical claim seeks adjudication (Topic 13's pending
-  litigation).
+- ⚠️ **Boundary case 3 — implementation evidence and stability-versus-grievance balance:** a
+  live-in relationship registration requirement under the Uttarakhand code illustrates why
+  compliance, access and awareness need evidence separate from enactment or later amendment.
+  The Places of Worship Act similarly illustrates a legislative stability mechanism around
+  historical claims; use an official case record before asserting litigation status.
 
 ## 6. Limitations and trade-offs
 
@@ -130,39 +128,40 @@ practice without eroding either equality gains or community trust.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ The Uttarakhand UCC has been in force since 27 January 2025, and a further 2026
-  amendment ordinance was promulgated to address implementation gaps.
-- ✅ As of July 2026, no other state has enacted or implemented a UCC, though at least one
-  other state has reportedly been considering the step without formal enactment.
+- ✅ The Uniform Civil Code, Uttarakhand, 2024 has been in force since 27 January 2025, and
+  its 2026 amendment ordinance subsequently became an Amendment Act.
+- ⚠️ Uttarakhand's post-Independence state code must be distinguished from Goa's separate,
+  long-running Portuguese Civil Code framework; avoid unqualified “first” or “only” claims.
 - ⚠️ Substantive equality and community autonomy are the two principal, genuinely competing
   values in the UCC social debate, not a debate with an uncontested correct answer.
 - ⚠️ Doctrinal enactment (legislating a UCC) and social implementation (registration,
   awareness, inter-community trust) are analytically distinct achievement stages.
-- 📰 The Places of Worship Act's litigation remains pending before the Supreme Court as of
-  17 July 2026 (fully detailed in Topic 13).
+- 📰 The Places of Worship Act remains on the statute book. Verify any Supreme Court status
+  from the official case-status/order record (Topic 13); do not carry forward an undated
+  litigation assertion.
 
 ## 8. Advanced Prelims traps
 
 - ❌ The UCC debate has an uncontested, single correct resolution favouring uniformity or
   favouring autonomy. -> It is a genuine value trade-off between substantive equality and
   community autonomy, with reasonable arguments on both sides.
-- ❌ Enacting a UCC automatically ensures successful social implementation. -> The
-  Uttarakhand case shows implementation gaps can persist after enactment, requiring
-  subsequent corrective measures such as the 2026 amendment ordinance.
-- ❌ The Uttarakhand UCC's existence means a national UCC is now in force. -> It remains a
-  single state's implementation as of July 2026; no other state has enacted or implemented
-  one.
+- ❌ Enacting or amending a UCC automatically proves successful or failed social
+  implementation. -> Enactment and amendment are legal events; assess registration, access,
+  awareness and trust with separate evidence.
+- ❌ The Uttarakhand UCC's existence means a national UCC is now in force. -> It is a
+  state-level code and must be distinguished from Goa's separate historical civil-code
+  framework.
 - ❌ The Places of Worship Act's freeze mechanism has fully resolved all historical
-  religious-site grievances. -> Pending Supreme Court litigation (Topic 13) shows the
-  balance between present-day stability and historical grievance remains actively
-  contested.
+  religious-site grievances. -> A legislative stability mechanism cannot itself settle
+  every historical grievance; use a dated official record before asserting a judicial
+  outcome (Topic 13).
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The Uttarakhand UCC (in force since 27 January 2025, "UCC Day" marked 27 January 2026,
-  2026 amendment ordinance addressing implementation gaps) and the Places of Worship Act's
-  pending Supreme Court litigation (as of 17 July 2026) are this topic's two live, dated
-  current anchors; neither should be presented as fully and finally resolved.
+- 📰 The Uniform Civil Code, Uttarakhand, 2024 has been in force since 27 January 2025; its
+  2026 amendment ordinance became an Amendment Act. The Places of Worship Act remains on the
+  statute book, but any Supreme Court status must be verified from the official case record.
+  Neither legal event alone proves a social outcome.
 
 ## 10. PYQ-based analytical application
 
@@ -189,10 +188,10 @@ successfully enacted reform faces an ongoing, separate social-implementation cha
 2. State the substantive-equality argument and the community-autonomy argument for the UCC
    debate with equal rigor.
 3. Apply the rights-sensitive-reform principle as the balancing device.
-4. Use the Uttarakhand UCC's implementation-gap evidence to distinguish doctrinal enactment
-   from social implementation.
-5. Cross-link the Places of Worship Act's pending status from Topic 13 as a parallel
-   stability-versus-grievance balance.
+4. Use Uttarakhand's enactment and amendment to distinguish legal change from social
+   implementation, which needs separate evidence.
+5. Cross-link the Places of Worship Act only with a dated official-status check as a
+   parallel stability-versus-grievance balance.
 6. Flag the equality-versus-autonomy and consultation-versus-timeline trade-offs.
 7. Cross-link constitutional doctrine and political-philosophy theory without restating
    them.

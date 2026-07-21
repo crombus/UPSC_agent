@@ -25,7 +25,8 @@ electioneering** (Odegard's three techniques).
 - ✅ **11 types** in India: business (**FICCI/ASSOCHAM** — strongest), trade unions, agrarian, professional, student,
   religious, caste, tribal, linguistic, ideology-based, anomic.
 - ✅ Trade unions & student unions are mostly **party-affiliated** (AITUC-CPI, INTUC-Cong, BMS-BJP; ABVP-BJP, NSUI-Cong).
-- ✅ **All India Kisan Sabha** = oldest/largest agrarian group.
+- ✅ **All India Kisan Sabha** is among India's oldest major agrarian organisations;
+  avoid the unverifiable, time-sensitive claim that it is presently the largest.
 
 ## 📰 Current link
 📰 **Farmers' protests** forced the **repeal of the 3 farm laws (2021)** and continue over **MSP** — a classic

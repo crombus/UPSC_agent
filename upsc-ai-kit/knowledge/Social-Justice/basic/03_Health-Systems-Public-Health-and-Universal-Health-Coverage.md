@@ -72,8 +72,8 @@ state's role in containing marketisation and expanding grassroots reach.
 | ✅ **National Health Policy (NHP), 2017** | India's guiding policy document; goals include raising public health expenditure to 2.5% of GDP, strengthening primary care, achieving UHC and reducing OOPE. |
 | ✅ **National Health Mission (NHM)** | Umbrella programme covering NRHM (rural) and NUHM (urban); supports public-health infrastructure, human resources, free drugs/diagnostics and flexible financing for states. |
 | ✅ **Ayushman Bharat - Health and Wellness Centres (HWC) / Ayushman Arogya Mandirs (AAM)** | Upgraded sub-centres and PHCs delivering comprehensive primary health care (CPHC): 12 service packages beyond reproductive-child health, including NCDs, mental health, ENT, ophthalmology, oral health and geriatric care. |
-| ✅ **Ayushman Bharat - PM-JAY** | Pradhan Mantri Jan Arogya Yojana: provides cashless hospitalisation cover (up to ₹5 lakh/family/year) for secondary/tertiary care to economically vulnerable households identified via SECC deprivation criteria. |
-| ✅ **Out-of-Pocket Expenditure (OOPE)** | Health spending paid directly by households at the point of service (not covered by insurance or public funding); high OOPE causes catastrophic health expenditure and impoverishment — India's OOPE share has been declining but remains high compared to UHC-achieving countries. |
+| ✅ **Ayushman Bharat - PM-JAY** | Pradhan Mantri Jan Arogya Yojana: provides cashless secondary/tertiary hospitalisation cover up to ₹5 lakh per family per year for its core eligible households. A distinct 2024 expansion enables all citizens aged 70+ to enrol regardless of income; do not describe the core scheme as universal for every age group. |
+| ✅ **Out-of-Pocket Expenditure (OOPE)** | Health spending paid directly by households at the point of service (not covered by insurance or public funding); high OOPE can cause catastrophic expenditure and impoverishment. National Health Accounts Estimates reported OOPE at 47.1% of total health expenditure for 2020-21 — retain the reporting year. |
 | ⚠️ **Marketisation of healthcare** | Dominance of private providers in curative care, often unregulated or under-regulated; leads to high costs, unnecessary procedures and catastrophic spending — the exact concern raised in 2024 PYQ Q17. |
 | ✅ **Public-health-system tiering** | Sub-centre (SC) -> Primary Health Centre (PHC) -> Community Health Centre (CHC) -> Sub-District/District Hospital — the hierarchical public-delivery infrastructure. |
 
@@ -104,8 +104,10 @@ state's role in containing marketisation and expanding grassroots reach.
   Suraksha Yojana, etc.
 - ✅ **State Health Agencies (SHAs):** Implement PM-JAY at state level; can add
   state-funded top-up schemes.
-- ⚠️ **National Health Accounts (NHA):** Official data source for health
-  expenditure breakdown (public vs private vs OOPE); periodic reports by MoHFW.
+- ⚠️ **National Health Accounts Estimates:** Official source for health-expenditure
+  breakdown (public, private and OOPE), prepared through the National Health Accounts
+  system. Do not confuse these estimates with the National Health Authority, which
+  implements PM-JAY.
 
 ## 5. Indian applications and examples
 
@@ -116,14 +118,13 @@ state's role in containing marketisation and expanding grassroots reach.
   grassroots level." — the expected answer links HWC/AAM expansion, NHM's rural/
   urban public provision, PM-JAY's financial protection and regulatory tools
   (clinical establishment standards, price capping).
-- ⚠️ PM-JAY's senior-citizen (70+) coverage extension has been announced as a policy
-  direction extending cover to all senior citizens aged 70 and above regardless of
-  SECC deprivation status. No fixed beneficiary-enrolment or state-participation
-  figure is asserted here because the PM-JAY portal's cumulative count changes
-  continuously; the durable fact is the 70+ universal-coverage policy direction.
-- ⚠️ OOPE as a share of total health expenditure has declined from ~65% (early
-  2000s) toward ~50% (NHA estimates); the durable fact is the declining trend
-  and continued high level, not a specific year's percentage.
+- ✅ **PM-JAY 70+ expansion:** All citizens aged 70 years and above can enrol regardless
+  of income or SECC status. This is an operational age-based expansion, not merely a
+  policy announcement; its separate-card and interaction with other government cover
+  should be checked against the current NHA guidance in a live answer.
+- ✅ **OOPE:** National Health Accounts Estimates put household OOPE at 47.1% of total
+  health expenditure in 2020-21. It is a dated aggregate, not evidence that every
+  household faces the same burden.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -136,9 +137,9 @@ state's role in containing marketisation and expanding grassroots reach.
 
 ## 7. UPSC traps
 
-- ❌ PM-JAY covers all citizens universally. -> PM-JAY targets economically
-  vulnerable households identified via SECC deprivation criteria; it is not
-  universal.
+- ❌ PM-JAY covers all citizens universally. -> Its core coverage is eligibility-based,
+  although the distinct 2024 expansion allows every citizen aged 70+ to enrol regardless
+  of income. Do not turn an age-specific expansion into universal coverage for all ages.
 - ❌ HWC/AAM and PM-JAY are the same programme. -> HWC/AAM is comprehensive
   primary care (preventive + promotive + basic curative); PM-JAY is
   hospitalisation insurance (secondary/tertiary cashless cover) — two distinct
@@ -151,14 +152,12 @@ state's role in containing marketisation and expanding grassroots reach.
 
 ## 8. 📰 Current anchor
 
-- 📰 **OOPE trend (NHA):** The direction of change is OOPE declining as a share
-  of total health expenditure, but the level remains high (~48-55% depending on
-  reporting year); the exact percentage should be cited from the latest NHA
-  report with the reporting year noted.
-- 📰 PM-JAY beneficiary count and claim figures are published on the NHA portal
-  and rise continuously; no fixed figure is asserted here — the durable fact is
-  PM-JAY's design as the largest public-funded health-insurance scheme in the
-  world by beneficiary base.
+- 📰 **OOPE (National Health Accounts Estimates):** the latest cited official estimate
+  is 47.1% of total health expenditure for 2020-21. Use the reporting year; a rolling
+  portal total or a later publication date is not a substitute for it.
+- 📰 **PM-JAY status (21 July 2026):** use the core eligibility route and the separate
+  all-70+ enrolment route accurately. Cumulative cards and claims are dashboard outputs,
+  not a measure of service quality or financial protection by themselves.
 
 ## 9. PYQ application
 

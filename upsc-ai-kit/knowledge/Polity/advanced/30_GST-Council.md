@@ -1,7 +1,7 @@
 # GST Council (Article 279A) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II / GS-III
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 46 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 46 (direct check of the local Sixth Revised Edition PDF) + official GST Council update.
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/GST-Council.md`.*
 
@@ -10,8 +10,9 @@
 # PART A — ESTABLISHMENT ⭐
 ✅ The **101st Amendment Act, 2016** introduced **GST** and inserted **Article 279-A**, empowering the **President**
 to constitute the **GST Council** by order (issued **15 Sept 2016**).
-- ✅ **"First constitutional federal body"** vested with powers to take **all major decisions on GST** — the model
-  of **cooperative federalism**.
+- ✅ A **constitutional federal recommendatory forum** central to GST design — a model
+  of cooperative federalism. Its recommendations require legal implementation and are not
+  independently binding commands.
 - ✅ Secretariat at **New Delhi**; the **Union Revenue Secretary** is the **ex-officio Secretary**; the **CBIC/CBEC
   chairperson** is a **permanent invitee (non-voting)**.
 

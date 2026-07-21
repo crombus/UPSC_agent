@@ -4,7 +4,8 @@
 > **Core area:** Varna-jati structure, caste features, Sanskritisation/Westernisation,
 > dominant caste and the intercaste-marriage trend.
 > **Grounded in:** M.N. Srinivas's sociological framework (Sanskritisation, dominant caste,
-> caste-class overlap); Census 2027 caste-enumeration notification; audited 2024 GS-I PYQ.
+> caste-class overlap); Census 2027 Gazette/PIB caste-enumeration announcement; audited 2024
+> GS-I PYQ.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/02_Caste-System-Structure-and-Contemporary-Dynamics.md`.*
 
@@ -49,7 +50,7 @@ with economic and political power.
 | ✅ **Varna** | The four-fold ideal-typical classical order (Brahmin, Kshatriya, Vaishya, Shudra) described in ancient texts; a normative scheme, not a directly observable social unit. |
 | ✅ **Jati** | The actual, local, endogamous, birth-ascribed group that functions as India's real social unit of caste; thousands of jatis exist, each locally ranked. |
 | ✅ **Endogamy** | The rule of marrying within one's own jati (or sub-group), the single most consistently observed feature of caste. |
-| ✅ **Sanskritisation** (M.N. Srinivas) | The process by which a lower or middle caste adopts the customs, rituals, ideology and lifestyle of a locally dominant "twice-born" caste to claim higher status in the local hierarchy. |
+| ✅ **Sanskritisation** (M.N. Srinivas) | The process by which a lower or middle caste adopts customs, rituals and lifestyle associated with a locally higher-status caste to claim higher local status. It is a claim to mobility, not proof that acceptance or material mobility follows. |
 | ✅ **Westernisation** (M.N. Srinivas) | Change in Indian society and culture from sustained contact with Western (particularly British) values, technology and institutions — distinct from Sanskritisation because it introduces new values (equality, rationality) rather than emulating existing local hierarchy. |
 | ✅ **Dominant caste** (M.N. Srinivas) | A caste that is numerically strong, owns a significant share of local land, and wields political influence in a region, whether or not it ranks highest ritually. |
 | ⚠️ **Caste-class overlap** | The empirical tendency for caste rank and economic class to coincide in a given locality, though the overlap is loosening in urban and market settings. |
@@ -66,9 +67,10 @@ with economic and political power.
 4. **Occupation as traditional linkage:** ✅ many jatis were historically linked to a
    specific traditional occupation, though this linkage has weakened sharply with
    urbanisation, education and non-farm employment.
-5. **Sanskritisation as upward mobility:** ✅ a jati emulates dominant-caste rituals
-   (vegetarianism, temple worship style, dowry over bride-price) to claim a higher position
-   without waiting for state reclassification.
+5. **Sanskritisation as upward mobility:** ✅ a jati may emulate dietary, ritual or marriage
+   practices associated with a locally higher-status caste to claim a higher position without
+   waiting for state reclassification. The practices, acceptance and consequences vary by
+   region.
 6. **Westernisation as parallel change:** ✅ exposure to Western education, law and
    institutions introduces values such as individual equality and rationality that can
    coexist with, reinforce or contradict Sanskritising trends in the same community.
@@ -83,9 +85,10 @@ with economic and political power.
   system itself is treated in `05_Rural-Society-and-Agrarian-Change.md`.
 - ✅ **Caste associations and panchayats:** jati-level bodies that enforce endogamy norms,
   arbitrate disputes and, increasingly, organise political mobilisation.
-- ⚠️ **Caste as ethnicity in urban/political life:** in cities and electoral politics, caste
-  functions less as a ritual-purity hierarchy and more as an identity-and-interest group,
-  similar to an ethnic bloc.
+- ⚠️ **Caste in urban/political life:** in cities and electoral politics, caste can be
+  mobilised as an identity-and-interest network even where ritual-purity practices weaken.
+  This does not make caste identical to ethnicity or erase hierarchy, endogamy and
+  discrimination.
 - ⚠️ **Caste-census debate (sociological angle only):** the demand to enumerate caste in the
   Census reflects a push to make caste-based disadvantage statistically visible; the
   enumeration mechanics themselves are a Census/Polity matter, not treated here.
@@ -118,8 +121,9 @@ with economic and political power.
   four classically cited defining features of caste.
 - ✅ Reservation and SC/ST atrocity-protection law are Polity/Social-Justice territory, not
   restated here.
-- 📰 Census 2027 will, for the first time, include a caste-enumeration question; no results
-  exist yet as of 17 July 2026.
+- 📰 The Government has announced caste enumeration in Census 2027. The operation is
+  prospective as of 21 July 2026; no results exist. It is not the first caste enumeration in
+  Indian history, although post-Independence Censuses did not enumerate all castes.
 
 ## 7. UPSC traps
 
@@ -139,9 +143,10 @@ with economic and political power.
 
 ## 8. 📰 Current anchor
 
-- 📰 Census 2027 has been notified as India's next Census, prospective and digital, and will
-  for the first time enumerate caste; reference dates are 1 March 2027 (most of India) and
-  1 October 2026 (snow-bound areas). No caste-count data exists to cite as of 17 July 2026.
+- 📰 Gazette S.O. 2681(E) fixes Census 2027 reference dates at 1 October 2026 for Ladakh and
+  specified snow-bound areas, and 1 March 2027 elsewhere; PIB announced caste enumeration.
+  No caste-count data exists to cite as of 21 July 2026. Distinguish this announced operation
+  from earlier historical caste enumerations.
 
 ## 9. PYQ application
 
@@ -156,7 +161,7 @@ with economic and political power.
   caste-mobility question.
 - ⚠️ Keep reservation/atrocity-law doctrine out of Society answers; cross-refer instead.
 - ⚠️ Frame intercaste-marriage trends around status-parity, not blanket "caste is
-  disappearing" claims.
+  disappearing" claims; the PYQ's qualified premise is not a national prevalence series.
 
 > **Answer thesis:** Caste in contemporary India survives as a jati-level, endogamy-anchored
 > structure whose mobility is now driven by Sanskritisation, Westernisation and dominant-caste

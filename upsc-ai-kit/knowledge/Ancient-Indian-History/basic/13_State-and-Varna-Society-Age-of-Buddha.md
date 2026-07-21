@@ -25,6 +25,7 @@
 - ✅ Archaeologically, the **5th century BC** marks the beginning of the **Northern Black Polished Ware (NBPW)** phase in the Gangetic plains.
 - ✅ Towns such as **Rajgir, Pataliputra, Champa, Vaishali and Chirand** belonged to this urbanising zone.
 - ✅ Many artisans and traders used coins for the first time; earliest coins were generally **punch-marked**.
+- ✅ Pali texts give early definite coin terms—**kahapana, nikkha, kamsa, pada, masaka and kakanika**—corroborated by archaeological finds of mostly silver punch-marked coins.
 - ✅ Agriculture generated a surplus from which rulers could collect taxes.
 
 **Standard — state, army, taxation and varna.**
@@ -58,6 +59,7 @@
 - ✅ The age is reconstructed from **Pali texts, Sanskrit Sutras and archaeology**.
 - ✅ **Iron tools** in alluvial areas helped agricultural expansion.
 - ✅ Earliest coins were generally **punch-marked** and linked to towns/trade.
+- ✅ High-yield Pali coin terms: **kahapana, nikkha, kamsa, pada, masaka, kakanika**.
 - ✅ **Magadha, Kosala, Vatsa and Avanti** were major mahajanapadas.
 - ✅ Regular taxation made professional armies possible.
 - ✅ Republics/ganasanghas existed alongside monarchies.
@@ -74,7 +76,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Buddha Purnima 2025:** The Ministry of Culture and International Buddhist Confederation celebrated Vaishakha Buddha Purnima in New Delhi, highlighting Buddha's birth, enlightenment and Mahaparinirvana. For this chapter, the hook is that modern Buddhist diplomacy rests on the same **Gangetic urban-religious world** in which Buddhism emerged.
+⚠️ **Current-link discipline:** Verify any festival or diplomacy event from its organizer. The safe linkage is the reuse of the Gangetic Buddhist landscape in heritage, pilgrimage and diplomacy.
 
 ## 7. Mains angles
 

@@ -1,7 +1,7 @@
 # Human Settlements and Urbanisation — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + standard human-settlement models + verified Census 2011 / MoHUA references for dated overlay.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-site context + verified Census/MoHUA current anchor.
 > ✅ = from source book or official source · ⚠️ = inference / standard synthesis · 📰 = current affairs.
 > *Companion: `advanced/28_Human-Settlements-and-Urbanisation.md`.*
 
@@ -9,7 +9,7 @@
 
 ## 1. What settlement geography studies
 
-✅ Settlement geography studies the location, form, function and hierarchy of human habitations. ✅ Khullar links settlement form to site, situation, relief, water, transport, security and history.
+✅ Settlement geography studies the location, form, function and hierarchy of human habitations. ✅ Majid Husain links settlement form to site, situation, relief, water, transport, security and history.
 
 | Core idea | Meaning |
 |---|---|
@@ -21,7 +21,7 @@
 
 ## 2. Rural settlement forms
 
-✅ Khullar gives a clear typology of compact, semi-compact, hamleted and dispersed settlements in India, and the same logic is widely useful for world human geography.
+✅ Indian settlement geography commonly distinguishes compact, semi-compact, hamleted and dispersed settlements in India, and the same logic is widely useful for world human geography.
 
 | Form | Main feature | Typical controls |
 |---|---|---|
@@ -34,7 +34,7 @@
 
 ## 3. Settlement patterns and morphology
 
-✅ Khullar explains that settlement pattern refers to the geometrical shape or arrangement of dwellings. ✅ Linear pattern is especially common along roads, canals, rivers and coasts.
+✅ Settlement pattern refers to the geometrical shape or arrangement of dwellings. ✅ Linear pattern is especially common along roads, canals, rivers and coasts.
 
 | Pattern | Shape logic | Typical location |
 |---|---|---|

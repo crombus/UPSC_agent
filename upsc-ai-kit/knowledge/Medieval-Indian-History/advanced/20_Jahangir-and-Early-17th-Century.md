@@ -23,8 +23,10 @@
 
 **Deeper — factional politics and the "Nur Jahan junta" debate.**
 
-✅ Satish Chandra treats the **"Nur Jahan junta"** analytically: from c. 1611 a compact group — **Nur Jahan, her father Itmad-ud-Daulah (wazir), her brother Asaf Khan, and Prince Khurram** — dominated the court. He questions the older view (Beni Prasad) that Nur Jahan single-handedly "ruled," arguing the reality was **shifting factional alignments** in which she was central but not omnipotent.
-- ✅ The **junta fractured** as Khurram (Shah Jahan) grew ambitious: Nur Jahan promoted her son-in-law **Shahryar**, precipitating **Khurram's rebellion (1622–25)** and the later **Mahabat Khan coup (1626)**.
+✅ Satish Chandra reviews and then **sets aside** Beni Prasad's theory of a stable **"Nur Jahan junta"** consisting of Nur Jahan, Itmad-ud-Daulah, Asaf Khan and Khurram.
+- ✅ Nurul Hasan's critique shows promotions remained widely distributed and no contemporary evidence proves a Nur Jahan–Khurram factional alliance from 1611 to 1620.
+- ✅ Nur Jahan's family undeniably rose, but Mughal politics remained a field of overlapping family, personal and sectional alignments rather than two fixed camps.
+- ✅ Nur Jahan entered active politics chiefly after 1622 to protect Jahangir's position amid illness, Khurram's rebellion and Mahabat Khan's challenge.
 - ✅ Satish Chandra stresses continuity: Jahangir **retained Akbar's composite nobility and broad tolerance**, so court intrigue did not translate into institutional breakdown.
 
 **Deeper — consolidation, frontier and religion.**
@@ -37,7 +39,7 @@
 
 | Theme | Detail (Part II) |
 |---|---|
-| ✅ Nur Jahan junta | Nur Jahan + Itmad-ud-Daulah + Asaf Khan + Khurram |
+| ⚠️ "Nur Jahan junta" | Beni Prasad's disputed model; Chandra prefers shifting factions and sets aside a fixed junta |
 | ✅ Succession fault-line | Nur Jahan backs Shahryar vs Khurram |
 | ✅ Mewar accord (1615) | Honourable terms; Karan Singh mansab |
 | ✅ Qandahar (1622) | Lost to Safavid Persia — prestige blow |
@@ -51,7 +53,7 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ **Nur Jahan junta** = Nur Jahan, Itmad-ud-Daulah, Asaf Khan, Khurram.
+- ⚠️ **Nur Jahan junta** is a historiographical label, not a securely established permanent faction.
 - ✅ **Mewar accord 1615** — honourable terms; **Qandahar lost 1622**.
 - ✅ **Mahabat Khan's coup 1626**; foiled partly through Rajput loyalty.
 - ✅ Chief source = **Tuzuk-i-Jahangiri** (Jahangir's own memoirs).
@@ -59,17 +61,16 @@
 
 ## 5. UPSC Traps
 
-> 🔑 Trap: Cite the **historiographical debate** on Nur Jahan (Beni Prasad's "petticoat government" vs Satish Chandra's factional reading) rather than a flat "she ruled."
+> 🔑 Trap: Cite the **historiographical debate** on Nur Jahan (Beni Prasad's fixed-junta/personal-rule model versus Nurul Hasan and Satish Chandra's shifting-faction reading) rather than a flat "she ruled."
 
-- ❌ Nur Jahan exercised uncontested sovereign power. → She led a **faction** whose unity broke down over the succession.
+- ❌ Nur Jahan exercised uncontested sovereign power. → She exercised exceptional influence and entered active crisis politics after 1622, but Jahangir still governed and no permanent "junta" monopolised the court.
 - ❌ Qandahar was permanently secured under Jahangir. → It was **lost to Persia in 1622**.
 - ❌ The Mewar settlement was a humiliating annexation. → It was a **negotiated, honourable submission** preserving Sisodia dignity.
 - ❌ Jahangir abandoned Akbar's nobility structure. → He **maintained the composite mansabdari nobility**.
 
 ## 6. 📰 Current link
 
-📰 **Itmad-ud-Daulah tomb ("Baby Taj"), Agra — ASI manual desilting after Yamuna flooding (2025).** Built by **Nur Jahan (c. 1622–28)** for her father, the wazir **Itmad-ud-Daulah**, it is the **first fully white-marble Mughal tomb** and a design bridge to the Taj Mahal.
-- **UPSC relevance:** ties the Nur Jahan junta directly to a standing monument; combines GS-I art/culture with heritage-vs-climate conservation debate.
+📰 **Current linkage (verify live before use):** Itimad-ud-Daulah's tomb is a material link to Nur Jahan's family and patronage. Verify conservation and river-risk claims from ASI; do not use the monument to revive the discarded fixed-junta thesis.
 
 ## 7. Mains angles
 

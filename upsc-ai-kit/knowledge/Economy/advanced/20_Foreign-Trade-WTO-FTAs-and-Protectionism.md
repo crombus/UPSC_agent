@@ -4,7 +4,7 @@
 > **Core area:** Trade policy.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.*
+> *Companion: `../basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.*
 
 ---
 
@@ -39,6 +39,7 @@ are demonstrable.
 | ✅ **FTA** | Agreement reducing trade barriers among members under agreed coverage and rules. |
 | ✅ **Rules of origin** | Criteria determining where a product originates for preferential treatment. |
 | ✅ **Protectionism** | Use of barriers or preferences to shelter domestic producers from external competition. |
+| ✅ **TRIPS** | WTO agreement setting minimum intellectual-property standards; patent grant and enforcement remain domestic legal processes. |
 
 ## 3. Detailed transmission
 
@@ -108,6 +109,8 @@ conceal deeper dependence on imported inputs, technology and machinery.
   domestically.
 - ✅ Anti-dumping action addresses specified unfair pricing injury; it is not a general
   safeguard against all imports.
+- ✅ Countervailing duty addresses subsidised imports causing injury; safeguards respond to
+  serious import-surge injury without a dumping finding.
 - ✅ Services trade can be supplied across borders, through consumption abroad, commercial
   presence or movement of persons.
 - ✅ Trade balance concerns goods; the current account is broader.
@@ -136,8 +139,13 @@ conceal deeper dependence on imported inputs, technology and machinery.
 
 - ⚠️ 2025 GS-III: Challenges as the world shifts from multilateral free trade to
   protectionism and bilateralism.
+- ⚠️ 2024 GS-III: IPR in life materials and why high patent filing need not become high
+  commercialisation.
 - ⚠️ 2026 Prelims provisional key links certification and port logistics to premium-market
   access and trade competitiveness.
+- ⚠️ **IPR answer engine:** TRIPS sets a minimum-rule floor; domestic commercialisation
+  requires viable research, technology-transfer offices, proof-of-concept finance,
+  regulatory approval, manufacturing scale, procurement/market access and risk capital.
 
 ## 11. Mains-ready framework
 
@@ -164,7 +172,7 @@ conceal deeper dependence on imported inputs, technology and machinery.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.
+- ✅ Foundation companion: `../basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.
 - ✅ `19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` — trade and current-
   account effects.
 - ✅ `17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — domestic capability and

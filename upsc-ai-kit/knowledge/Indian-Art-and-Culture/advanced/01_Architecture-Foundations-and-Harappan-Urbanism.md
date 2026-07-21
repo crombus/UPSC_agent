@@ -5,6 +5,8 @@
 > debates in Harappan urbanism; comparative town planning; evidentiary
 > caution in labelling Harappan structures.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp. 30-40;
+> R.S. Sharma, *India's Ancient Past*, PDF pp. 90-109; R.S. Sharma,
+> *Ancient India*, PDF pp. 46-54;
 > `00_Master-Framework.md` Sections 1-5; audited UPSC Mains 2025 GS Paper I.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/01_Architecture-Foundations-and-Harappan-Urbanism.md`.*
@@ -37,12 +39,12 @@ confirm — the book's own explicit denial of confirmed "temples or palaces"
 | Dimension | Harappan civilisation | Contemporary Egypt/Mesopotamia | Analytical point |
 |---|---|---|---|
 | ✅ Monumental religious/royal structures | Not confirmed (*Nitin…pdf*, PDF p. 33) | Pyramids, ziggurats, palace-temple complexes attested | ⚠️ Suggests a different (or archaeologically less visible) expression of authority and religion, not its absence |
-| ✅ Civic engineering emphasis | Drainage, granaries, standardised bricks | Present but typically subordinate to monumental building programmes | ⚠️ Harappan civic investment appears comparatively weighted toward shared infrastructure over individual monument-building |
+| ✅ Civic engineering emphasis | Drainage, large storage/assembly structures, standardised bricks | Monumental temple/palace programmes are more archaeologically explicit | ⚠️ Harappan evidence foregrounds shared infrastructure, but preservation and identification biases prevent a simple expenditure comparison |
 | ✅ Planning regularity | Strict grid, right-angle roads | Variable; often organised around temple/palace axis | Harappan planning is unusually systematic for its period |
 
 ## 4. Evidence, form and interpretation
 
-✅ The book itself models a careful evidentiary boundary: it reports the
+✅ The books model a careful evidentiary boundary: they report the
 citadel's granaries, pillared halls and Great Bath as facts of form, and
 explicitly notes only that some citadel buildings "might have been" elite
 residences — using conditional language rather than asserting it as
@@ -55,6 +57,13 @@ rigid social hierarchy that the structures alone cannot prove. ✅ The
 35) are used as external corroboration of Harappan long-distance trade
 contact — a rare case where an external source (Mesopotamian references)
 supports an inference about the civilisation's economic reach.
+
+⚠️ **Comparative-site correction:** a single Mohenjo-daro template should
+not be projected onto every Harappan settlement. Dholavira's fortified
+multi-part settlement and reservoirs, Kalibangan's regional plan and
+Lothal's debated basin show standardisation operating through adaptation.
+The strongest thesis is therefore "shared planning norms plus regional
+solutions," not uniform replication.
 
 ## 5. Visual synthesis table
 
@@ -111,6 +120,12 @@ question tests this topic directly.
 - ❌ Treating the absence of temples/palaces as evidence of an areligious
   or apolitical society. -> It indicates a different or less
   monumentally-visible expression, not absence.
+- ❌ Converting conventional archaeological names into proven functions.
+  -> "Granary," "dockyard" and "ritual bath" remain interpretations unless
+  independent contextual evidence confirms function.
+- ❌ Reading the so-called Pashupati seal as definitive proof of Shiva. ->
+  R.S. Sharma calls the identification doubtful; advanced answers should
+  say "horned seated figure, often interpreted as proto-Shiva/Pashupati."
 
 ## 10. Mains answer frameworks
 
@@ -159,5 +174,5 @@ hierarchy) the built form alone cannot confirm.
 - ⚠️ Open caution: any claim about a specific, recently announced
   excavation finding at a Harappan site should be re-verified against
   ASI's own dated release before use in a current-affairs-linked answer,
-  since this file's research cutoff (18 July 2026) did not include a
+  since this file's research cutoff (21 July 2026) did not include a
   fresh excavation-specific fetch.

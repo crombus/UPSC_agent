@@ -1,7 +1,7 @@
 # Public Services / All-India Services (Articles 308–323) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 66 (Part XIV) + Centre-State chapter.
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 66 (Part XIV) and Centre-State chapter (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Public-Services.md`.*
 

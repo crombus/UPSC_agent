@@ -12,8 +12,8 @@
 | Date | Event |
 |---|---|
 | ✅ 1628 | Accession of **Shah Jahan** (Khurram) |
-| ✅ 1629–36 | Deccan campaigns; **Ahmadnagar extinguished (1636)** |
-| ✅ 1631 | Death of **Mumtaz Mahal** → building of the **Taj Mahal** |
+| ✅ 1633–36 | Nizam Shahi dynasty ended at Daulatabad in **1633**; Deccan settlement with Bijapur and Golconda followed in **1636** |
+| ⚠️ 1631 | Standard date of Mumtaz Mahal's death; Part II prints 1630 |
 | ✅ 1638 | Foundation of **Shahjahanabad** (new Delhi capital) |
 | ✅ 1646–47 | **Balkh campaign** (Central Asian venture) |
 | ✅ 1649 | **Qandahar lost** to Persia; three failed recovery bids |
@@ -24,7 +24,7 @@
 **Foundation — the empire at its zenith.**
 
 ✅ Shah Jahan's reign is often seen as the **climax of Mughal magnificence**: political stability, a booming imperial economy, and the greatest phase of **Mughal architecture** (Taj Mahal, Red Fort, Jama Masjid, Shahjahanabad).
-- ✅ **Deccan success:** sustained pressure extinguished **Ahmadnagar (1636)** and forced **Bijapur and Golconda** to accept Mughal suzerainty; many **Maratha sardars** (including **Shahji Bhonsale**, Shivaji's father, given a mansab of 5000) entered Mughal service.
+- ✅ **Deccan success:** the Nizam Shahi dynasty ended at Daulatabad in **1633**; the **1636** settlement forced Bijapur and Golconda to accept Mughal suzerainty. Maratha sardars, including Shahji Bhonsale for a time, moved between Deccani and Mughal service.
 - ✅ **Central Asian setback:** the **Balkh campaign (1646–47)** was militarily successful but strategically unsustainable; **Qandahar was lost to Persia (1649)** and three costly campaigns failed to recover it.
 
 **Foundation — the ruling class and mansabdari strain.**
@@ -32,6 +32,7 @@
 ✅ Under Shah Jahan the **mansabdari system** — the graded **zat** (personal rank/status) and **sawar** (cavalry obligation) — came under fiscal pressure as the **number of mansabdars grew faster than the empire's assessed revenue (jama)**.
 - ✅ To manage this gap the state used the **"month-scale" (monthly-ratio) system**: a jagir nominally rated for 12 months' income often yielded only e.g. **8, 6 or 4 months'** actual revenue, so salaries were scaled down accordingly.
 - ✅ This is an **early sign of the jagirdari strain** that would deepen under Aurangzeb — too many claimants chasing limited productive jagirs.
+- ✅ The **du-aspa sih-aspa** device first appears in the source under Jahangir; Shah Jahan systematised related one-third/one-fourth muster rules and the month-scale.
 
 ## 2. Key classification / data
 
@@ -51,8 +52,8 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Shah Jahan reigned **1628–1658**; **Mumtaz Mahal died 1631** (Taj Mahal follows).
-- ✅ **Ahmadnagar extinguished 1636**; Bijapur & Golconda accept suzerainty.
+- ⚠️ Shah Jahan reigned **1628–1658**; Mumtaz Mahal died in **1631** in the standard chronology, although Part II prints 1630.
+- ✅ Nizam Shahi dynasty ended at Daulatabad in **1633**; Bijapur and Golconda accepted Mughal suzerainty in **1636**.
 - ✅ **Qandahar lost 1649**; three recovery campaigns (Aurangzeb twice, Dara once) failed.
 - ✅ **Zat** = personal rank; **sawar** = cavalry obligation.
 - ✅ **Month-scale** adjusted salaries when a jagir's real yield fell short of its 12-month rating.
@@ -68,8 +69,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Shahjahanabad redevelopment (2026).** The body long known as the **Shahjahanabad Redevelopment Corporation** was renamed the **Indraprastha Virasat Punarvikas Nigam**, with a detailed conservation plan for the **Jama Masjid** precinct, Chandni Chowk and Red Fort surroundings — the walled city **Shah Jahan founded in 1638**.
-- **UPSC relevance:** connects the topic's signature achievement (Shahjahanabad) to live urban-heritage governance — a GS-I culture + GS-II urban-governance crossover.
+📰 **Current linkage (verify live before use):** Shahjahanabad redevelopment can connect imperial urbanism with conservation and municipal governance. Verify institutional names and project status from current official records.
 
 ## 7. Mains angles
 

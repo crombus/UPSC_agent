@@ -17,7 +17,9 @@
 - ✅ Volcanic (extrusive) rocks pour out as lava and solidify fast → tiny crystals; basalt forms lava sheets/plateaux (Deccan, Columbia-Snake, Iceland).
 - ✅ Sedimentary rocks are stratified (layered) — usually deposited under water; layers vary from inches to many feet.
 - ✅ Sediment is transported by streams, glaciers, wind or even animals before deposition and cementation.
-- ✅ Metamorphic transformations under great heat/pressure: clay→slate, limestone→marble, sandstone→quartzite, granite→gneiss, shale→schist, coal→graphite.
+- ✅ Common metamorphic pairs: shale/mudstone→slate or schist, limestone→marble, sandstone→quartzite,
+  and granite or other felsic protoliths→gneiss. Graphite may form by metamorphism of carbon-rich material,
+  but “coal→graphite” is not a universal one-step rule.
 
 **Standard — Rock Classification, Characteristics & the Rock Cycle (Majid Husain).**
 
@@ -26,7 +28,8 @@
 - ✅ Sub-aerially exposed riverine sedimentary rocks develop polygonal desiccation cracks (mud cracks) on drying.
 - ✅ Glacial sedimentary deposits = moraines; wind-laid fine silt = loess (e.g. northern China).
 - ✅ Metamorphic rocks form from pre-existing rock by change in temperature, pressure and chemical action of fluids — altering texture AND mineral composition.
-- ✅ Perviousness varies: marble & slate are impervious; gneiss can be pervious — important for groundwater and foundations.
+- ✅ Primary porosity is generally low in crystalline metamorphic rocks, but joints, fractures and
+  weathered zones may provide **secondary permeability**—important for groundwater and foundations.
 - ✅ Gneiss shows granular quartz-feldspar banding; slate shows slaty cleavage — both aid field identification.
 
 ## 2. Key classification / data
@@ -38,11 +41,11 @@
 | ✅ Sedimentary — mechanical | Cemented fragments of pre-existing rocks | Sandstone; stratified/layered; mostly water-laid |
 | ✅ Sedimentary — organic | Remains of organisms | Limestone, chalk from corals/shells |
 | ✅ Metamorphic | Pre-existing rock altered by heat, pressure and fluids | Slate, marble, quartzite, gneiss, schist, graphite |
-| ✅ Slate | Shale, low-grade metamorphism | Excellent foliation / slaty cleavage |
-| ✅ Gneiss | Granite, high-grade regional metamorphism | Coarse, banded quartz + feldspar; can be pervious |
-| ✅ Marble | Limestone | Crystalline; impervious |
+| ✅ Slate | Shale/mudstone, low-grade metamorphism | Slaty cleavage |
+| ✅ Gneiss | Commonly granite or high-grade sedimentary protolith | Coarse compositional banding |
+| ✅ Marble | Limestone/dolostone | Crystalline carbonate rock; low primary porosity |
 | ✅ Quartzite | Sandstone | Hard; source rock easily identified |
-| ✅ Schist | Shale / mica-rich parent | Splits along bedding planes; parent often hard to determine |
+| ✅ Schist | Commonly shale/mudstone or mica-rich parent | Strong schistosity; splits along foliation, not bedding |
 
 ## 3. Study links
 
@@ -65,7 +68,8 @@
 - ✅ Igneous rock = chief original source of sedimentary mineral matter.
 - ✅ Slate = low-grade metamorphism of shale (slaty cleavage).
 - ✅ Gneiss = high-grade regional metamorphism; banded quartz-feldspar.
-- ✅ Marble & slate impervious; gneiss can be pervious.
+- ✅ Crystalline rocks commonly store groundwater in joints, fractures and weathered mantles rather than
+  in abundant primary pore space.
 - ✅ Loess = wind-deposited silt; moraine = glacial sediment.
 
 ## 5. UPSC Traps
@@ -80,7 +84,8 @@
 
 **Standard — Rock Classification, Characteristics & the Rock Cycle (Majid Husain).**
 - ❌ Foliation/cleavage and stratification are the same. → Foliation (slate, schist) is a metamorphic alignment; stratification is sedimentary layering — different origins.
-- ❌ All metamorphic rocks are impervious. → Marble & slate are impervious, but gneiss can be pervious — perviousness varies by rock.
+- ❌ Metamorphic-rock permeability is fixed by rock name alone. → Fracturing, jointing and weathering
+  often control secondary permeability more than the unfractured rock matrix.
 - ❌ Source rock of every metamorphic rock is obvious. → For quartzite/marble it is clear; for schist and gneiss the parent is often hard to determine.
 
 ## 6. 📰 Current link

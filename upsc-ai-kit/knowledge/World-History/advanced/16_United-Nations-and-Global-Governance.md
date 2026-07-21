@@ -1,7 +1,7 @@
 # United Nations and Global Governance - ADVANCED
 
 > **Subject:** History (World History) · **Tier:** Advanced · **GS Paper:** GS-I with GS-II linkage
-> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 9, pp. 167-185; OCR lines used: 11841-12803. Contemporary cross-checks: official UN "main bodies" and UN Peacekeeping India pages (16 July 2026), plus official Pact for the Future and UN Day/UN80 pages (19 July 2026).
+> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 9, pp. 167-185; the local PDF was read directly. Contemporary cross-checks: official UN main-bodies, peacekeeping, Pact for the Future and UN80 material, rechecked 21 July 2026.
 > **Exam-relevance anchor:** ✅ UPSC GS-II syllabus includes: "Important International institutions, agencies and fora-their structure, mandate." ✅ UPSC GS-I covers the post-1945 world created by the world wars and their effects.
 > ✅ = source-grounded · ⚠️ = interpretive synthesis / answer-writing line · 📰 = current-affairs peg only when separately verified.
 > *Companion: `basic/16_United-Nations-and-Global-Governance.md`.*
@@ -20,7 +20,7 @@
 | ✅ 2000-03 | Kofi Annan reform language and Iraq crisis sharpen legitimacy questions |
 | 📰 22 Sep 2024 | UNGA adopts the Pact for the Future (A/RES/79/1), with the Global Digital Compact and Declaration on Future Generations annexed |
 | 📰 2025 | UN's 80th anniversary and UN80 initiative renew the institutional-reform question |
-| 📰 16 Jul 2026 | Official UN pages still foreground six main bodies and ongoing peacekeeping commitments |
+| 📰 21 Jul 2026 | Official UN pages still foreground six principal bodies and ongoing peacekeeping commitments |
 
 ## 1. Why Topic 16 sits at the GS-I / GS-II boundary
 
@@ -51,10 +51,10 @@
 | Case | Lowe's verdict | Analytical lesson |
 |---|---|---|
 | ✅ West New Guinea | Helpful mediation and supervision | Works when compromise exists |
-| ✅ Korea | Decisive action, but enabled by Soviet absence | Great-power procedure matters |
+| ✅ Korea | Security Council-authorized collective enforcement, enabled by Soviet absence | Distinguish enforcement from consent-based peacekeeping |
 | ✅ Suez | One of the UN's best moments | Works when aggressors yield to world pressure |
 | ✅ Congo | Costly but substantial intervention | Complex missions require resources |
-| ✅ Gulf War 1991 | Strong collective response | Works when major powers align |
+| ✅ Gulf War 1991 | Security Council-authorized coalition enforcement | Authorization did not create a UN-commanded army |
 | ✅ Cambodia / Mozambique | Post-Cold-War transition support | Peace implementation can succeed where combatants are exhausted |
 | ✅ Hungary / Czechoslovakia | Failure | Veto plus superpower defiance defeats the UN |
 | ✅ Somalia / Bosnia | Failure or humiliation | Weak mandate and insufficient force invite collapse |
@@ -81,6 +81,9 @@
 
 ⚠️ This is often the scoring edge in mains: many candidates stop at Kashmir, veto and blue helmets; advanced answers widen the institutional canvas.
 
+⚠️ Institutional precision matters. The ICC is an independent Rome Statute court, not a seventh
+principal UN organ; the WTO is part of global governance but not a UN specialized agency.
+
 ## 5. Lowe's reform logic
 
 ✅ Lowe's later verdict and future sections are reform-oriented, not abolitionist.
@@ -94,14 +97,14 @@
 
 ⚠️ Note the time-context. Lowe's "future of the UN" discussion is shaped by the post-Cold-War, pre-2012 environment, especially Iraq 2003 and Kofi Annan-era reform concerns.
 
-## 6. 📰 Current link (checked 16 July 2026)
+## 6. 📰 Current link (checked 21 July 2026)
 
 | Current point | Verified fact | Exam use |
 |---|---|---|
 | 📰 Pact for the Future | ✅ UNGA adopted Resolution 79/1 on 22 September 2024; its annexes include the Global Digital Compact and Declaration on Future Generations | Concrete post-Lowe evidence that reform now spans peace/security, development, digital cooperation, youth and institutional design |
 | 📰 UN at 80 / UN80 | ✅ The UN's official 2025 observance links its 80th anniversary to the Pact for the Future and the UN80 initiative | Frames reform as adaptation of the existing multilateral system, not its abolition |
 | 📰 UN structure | ✅ Official UN "main bodies" page lists six principal bodies: General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat | Corrects common ICJ/ICC confusion in GS-II answers |
-| 📰 India and peacekeeping | ✅ Official UN Peacekeeping India page says Indian peacekeepers deploy to nine missions and directs users to the live troop-and-police contributor dashboard | Keeps India's peacekeeping role relevant without inventing unstable live numbers |
+| 📰 India and peacekeeping | ✅ Official UN Peacekeeping material and its live contributor dashboard continue to document India's major troop, police, medical and women-peacekeeper contributions | Keeps India's role relevant without freezing an unstable mission or personnel count |
 
 ⚠️ Current-issue caution: UNSC reform remains a live debate in Indian discourse, but this note makes **no** claim of a completed reform outcome. Verify any seat-expansion update separately before using it in an exam answer.
 
@@ -115,12 +118,14 @@
 - ✅ Peacekeeping and humanitarian governance must both appear in advanced answers.
 - ✅ Official current UN structure = six principal bodies.
 - ✅ ICJ and ICC are not interchangeable.
+- ✅ UN authorization, UN command and UN peacekeeping are not interchangeable.
 
 > 🔑 Trap: Do not write that "the UN failed because wars still happen." Lowe's whole chapter is constructed to show partial success, domain-specific success and the difference between mediation, peacekeeping, enforcement and social-governance work.
 
 - ❌ More peacekeeping always means more success. -> ✅ Somalia and Bosnia show that weakly mandated intervention can expose UN weakness.
 - ❌ The General Assembly is merely symbolic. -> ✅ Politically, it matters for legitimacy, pressure and mechanisms like "Uniting for Peace."
 - ❌ Current India-UN references require hard troop numbers in every answer. -> ✅ If live numbers are unstable, use verified qualitative facts and avoid fabrication.
+- ❌ Lowe's seven-organ list is current Charter law. -> ✅ The official UN lists six principal organs; the ICC is institutionally separate.
 
 ## 8. GS-I / GS-II mains angles and probable questions
 

@@ -21,7 +21,7 @@
 | ✅ Feb 1943 | German surrender at Stalingrad |
 | ✅ 6 June 1944 | D-Day landings in Normandy |
 | ✅ May 1945 | Germany surrenders |
-| ✅ Aug 1945 | Japan surrenders after Hiroshima and Nagasaki |
+| ✅ Aug 1945 | Atomic bombings and Soviet entry into the war against Japan precede Japan's surrender |
 
 ## 1. Snapshot and core idea
 
@@ -78,7 +78,7 @@
 
 ## 6. Holocaust and total war
 
-✅ Lowe treats the Holocaust as one of the war's defining crimes. Between late 1941 and May 1945 some 5.7 million Jews were murdered, along with hundreds of thousands of non-Jews including gypsies, socialists, communists, homosexuals and the mentally handicapped.
+✅ Lowe treats the Holocaust as one of the war's defining crimes and gives a source-specific estimate of about 5.7 million murdered Jews. Nazi mass murder also targeted Roma, disabled people, Soviet prisoners of war, Poles, political opponents, homosexuals and others; these wider victim groups should not be compressed into one undifferentiated Holocaust total.
 
 ✅ He also shows the wider meaning of "total war":
 - ✅ civilian bombing became massive;
@@ -104,6 +104,11 @@
 | ✅ UNO | The United Nations emerged as successor to the League |
 
 ✅ Lowe explicitly links the war to decolonization: Asian peoples were far less willing to return under European rule after Japan had shattered the aura of European superiority.
+
+⚠️ Japan's surrender should not be reduced to a single cause. Lowe foregrounds the atomic
+bombings and notes the controversy over Japanese peace feelers and the expected Soviet entry;
+historians continue to debate the relative weight of the bombs, Soviet intervention, blockade,
+conventional destruction and the emperor-system question.
 
 ## 8. Must-Know Facts (Prelims) and UPSC traps
 

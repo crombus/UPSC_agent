@@ -18,7 +18,7 @@
 | System | Season / mechanism | Effect on India |
 |---|---|---|
 | ✅ Subtropical Westerly Jet (STWJ) | Winter; south of Himalayas around ~25 deg N in notes | Steers Western Disturbances into NW India |
-| ✅ Tropical Easterly Jet (TEJ) | Summer; over peninsular India around ~15 deg N in notes | Helps monsoon burst; linked to Tibetan Plateau heating |
+| ✅ Tropical Easterly Jet (TEJ) | Summer upper-tropospheric easterly flow over South Asia | Associated with established monsoon circulation and latent heating |
 | ✅ Western Disturbances | Mediterranean-origin extra-tropical systems steered eastward | Winter rain/mahawat and Himalayan snow |
 | ✅ Loo | May–June; steep pressure gradient over NW India | Hot, dry, dust-laden local wind |
 | ✅ Tibetan-Himalayan highlands | Barrier + summer heat source | Blocks cold air and helps monsoon reversal |
@@ -28,10 +28,12 @@
 - ✅ Jet streams are fast, narrow upper-tropospheric wind bands.
 - ✅ STWJ lies south of the Himalayas in winter and acts as the conveyor for Western Disturbances.
 - ✅ Northward withdrawal of STWJ is a pre-condition for SW monsoon onset.
-- ✅ TEJ forms in summer over peninsular India due to intense Tibetan Plateau heating and supports monsoon burst.
+- ✅ TEJ develops as part of the summer monsoon's upper-air circulation. Tibetan/Asian heating matters,
+  but the jet is not a single-cause “switch” for monsoon burst.
 - ✅ Western Disturbances are extra-tropical, non-monsoonal low-pressure systems from the Mediterranean moving east via Iran-Afghanistan-Pakistan.
 - ✅ WDs bring winter/early-spring rain to Punjab, Haryana, Delhi and UP and snow to J&K, HP and Uttarakhand; they are vital for Rabi crops such as wheat, mustard and gram.
-- ✅ D.R. Khullar's Loo note: in May–June, high temperatures in northwest India create a steep pressure gradient, often **1.0–1.5 mb per degree latitude**; hot, dust-laden Loo starts around **9 AM** and peaks later.
+- ✅ In May–June, intense heating over north-west India supports the hot, dry Loo. Its timing and strength
+  vary locally; the old textbook gradient and clock-time should not be universalised.
 - ✅ Altitude lowers temperature by about **6.5 deg C/km** in the notes; the Himalayan barrier gives India warmer winters than comparable latitudes by blocking Central Asian cold air.
 
 ## 4. Must-Know Facts (Prelims)
@@ -71,30 +73,28 @@
 
 ## 6. 📰 Current link
 
-### CA Anchor — 2026: Hyperactive Western Disturbances, Jet-Stream Shifts & El Nino Monsoon Worry
+### CA Anchor — Western-Disturbance Variability and Mission Mausam
 
-📰 **News trigger:** 2026: IMD recorded a higher-than-normal number of intense Western Disturbances (April 2026 rainfall ~12% above normal) causing pre-monsoon thunderstorms/hailstorms; simultaneously a strong El Nino probability by July 2026 raised fears of a below-normal monsoon (IMD forecast ~90% of LPA). Down To Earth linked excess pre-monsoon rain to East-West anticyclones.
+📰 **News trigger:** Western-disturbance tracks and intensity remain central to winter rain, snow, hail and
+spring crop damage. Mission Mausam (approved 2024) is the distinct advanced anchor because it expands
+observations, modelling and nowcasting rather than making a deterministic claim that climate change has
+already increased every WD metric.
 
-✅ 2026 showcased how climate change is destabilising India's upper-air systems: more frequent and intense Western Disturbances (steered by a wavier Subtropical Westerly Jet) delivered excess spring rain and hail, even as an emerging El Nino threatened to suppress the SW monsoon — a whipsaw with direct agricultural stakes.
-
-✅ IMD & climate researchers note climate change is altering jet-stream behaviour (more meandering/blocking), changing WD frequency and track, and interacting with ENSO to produce erratic, high-variance rainfall.
-
-| 2026 Phenomenon | Cause (static link) | Consequence |
+| Phenomenon | Static link | Consequence |
 |---|---|---|
-| ✅ Hyperactive Western Disturbances | Wavier STWJ + moisture from Arabian Sea/BoB | April rain 12% above normal, hail damage to Rabi crops |
-| ✅ East-West anticyclones | Anticyclonic moisture convergence | Excess pre-monsoon thunderstorms (Down To Earth) |
-| ✅ El Nino developing by Jul 2026 | Warm central-east Pacific SST | Suppressed monsoon; IMD ~90% of LPA forecast |
-| ✅ Delayed/erratic monsoon onset | Jet-stream + ENSO interaction | Drought and food-security concern |
+| ✅ Western Disturbance | Upper-air trough/low embedded in the westerlies | Winter rain/snow; excessive rain or hail can damage Rabi crops |
+| ⚠️ Moisture interaction | Arabian Sea moisture can amplify precipitation | Event-specific; not every WD is equally wet |
+| ✅ Forecast modernisation | More observations and high-resolution models | Better track/intensity and impact forecasts |
 
 - ✅ El Nino (ENSO warm phase): abnormal warming of the central-eastern equatorial Pacific weakens the Walker Circulation, tends to suppress the Indian SW monsoon (below-normal rainfall). La Nina generally does the opposite.
-- ✅ Jet-stream waviness: a warming Arctic reduces the equator-to-pole temperature gradient, making the polar/subtropical jets more meandering ("blocking"), which prolongs weather extremes (both heat domes and stalled rain systems).
+- ⚠️ Links between Arctic amplification, jet waviness and specific Indian extremes remain an active
+  research question; present them as a hypothesis, not settled causation.
 - ✅ LPA (Long Period Average): IMD's benchmark for monsoon rainfall; 96–104% of LPA = "normal". 90% = "below normal".
 
 ### Current-link Must-Know Facts
 
-- ✅ April 2026 all-India rainfall ~12% above normal, driven by active Western Disturbances (IMD).
-- ✅ El Nino projected by July 2026 → IMD flagged risk of below-normal monsoon (~90% of LPA).
-- ✅ Down To Earth attributed excess pre-monsoon rain to East-West anticyclones over India.
+- ✅ WD effects depend on track, embedded moisture and interaction with topography.
+- ✅ Mission Mausam is an observation-and-forecasting programme, not the Ministry of Culture's Project Mausam.
 - ✅ Rabi crops (wheat, mustard, gram) depend on WD winter rain — excess/hail damages standing crops.
 - ✅ Normal monsoon = 96–104% of LPA (IMD classification).
 

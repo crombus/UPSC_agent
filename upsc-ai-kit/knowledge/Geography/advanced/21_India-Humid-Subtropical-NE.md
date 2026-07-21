@@ -36,9 +36,8 @@ alluvial soils**, it forms a **solid base for rice cultivation**.
 ## 3. In the Köppen / Trewartha scheme
 
 ✅ Khullar notes **Trewartha's** climatic regions of India recognise humid mesothermal / tropical-humid
-types plus an **H (undifferentiated highland)** class. ⚠️ The NE/Bengal humid belt corresponds to the
-**Cwg / Amw-type** humid subtropical-to-tropical monsoon zone — the wettest, most continuously humid
-part of India.
+types plus an **H (undifferentiated highland)** class. ⚠️ The NE/Bengal belt spans several tropical-monsoon and humid-subtropical classes depending on
+elevation and scheme; do not force the whole region into one Cwg/Amw code.
 
 ## 4. Must-Know Facts (Prelims)
 
@@ -54,8 +53,9 @@ part of India.
 
 ## 6. 📰 Current link
 
-📰 **Assam & NE floods, 2025** — record monsoon rain (Cachar ~416 mm in 24 h) affected **>5 lakh people
-across 22 districts**; the **Brahmaputra/Barak** overflowed and inundated **>12,000 ha** of farmland.
+📰 **Assam and North-East floods:** the Brahmaputra-Barak systems repeatedly combine intense monsoon
+rain, sediment-rich braided channels, bank erosion and floodplain occupation. Event counts change daily;
+use ASDMA/CWC bulletins with a date when quoting people, districts or cropped area.
 The **tea industry** (Assam being central to India's output as the world's 2nd-largest producer) faced
 heavy **second-flush crop losses** after a preceding drought — a live illustration of how the humid
 eastern-margin monsoon regime drives both India's rice–tea economy and its flood vulnerability, sharpened

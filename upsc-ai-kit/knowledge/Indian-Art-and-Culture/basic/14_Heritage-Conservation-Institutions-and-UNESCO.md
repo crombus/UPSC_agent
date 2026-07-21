@@ -9,7 +9,8 @@
 > 722-738 (UNESCO WHS/ICH), 955-971 (institutions), 983-992 (law/
 > Constitution); `00_Master-Framework.md` Sections 3, 9; audited UPSC
 > Mains 2024-2025 GS Paper I (no direct question — capstone/support role);
-> official UNESCO Moidams property page (accessed 19 July 2026).
+> official UNESCO WHC/ICH/Memory of the World and PIB pages (verified
+> 21 July 2026).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/14_Heritage-Conservation-Institutions-and-UNESCO.md`.*
 
@@ -50,22 +51,19 @@ studies), alongside NMMA, ICCR, CCRT and others (*Nitin…pdf*, PDF pp.
 
 ## 4. Foundation narrative
 
-✅ **UNESCO WHS in India:** as of September 2025 (per the book's own
-count), India has **44 World Heritage Sites** — 36 cultural, 7 natural,
+📰 **UNESCO WHS in India:** as verified 21 July 2026, India has **44 World
+Heritage properties** — 36 cultural, 7 natural,
 1 mixed (Khangchendzonga National Park, the only Indian mixed-category
 site) (*Nitin…pdf*, PDF pp. 723, 727). ✅ No Indian site currently appears
 on UNESCO's List of World Heritage in Danger (as of July 2025); Manas
 Wildlife Sanctuary and the Group of Monuments at Hampi were **previously**
 listed as endangered (ethnic unrest and cable-bridge construction
 respectively) but have since been removed following conservation
-improvements (*Nitin…pdf*, PDF pp. 728-729). ✅ **UNESCO ICH in India:**
-as of August 2025 (per the book), India had **15 items** on the
-Representative List, with **none** on the List of ICH in Need of Urgent
-Safeguarding (*Nitin…pdf*, PDF pp. 733, 21560-21562). ✅ **UNESCO Creative
-Cities Network:** eight Indian cities are members — Gwalior and Chennai
-and Varanasi (Music), Kozhikode (Literature), Srinagar and Jaipur (Crafts
-and Folk Arts), Hyderabad (Gastronomy), Mumbai (Film) (*Nitin…pdf*, PDF p.
-734).
+improvements (*Nitin…pdf*, PDF pp. 728-729). 📰 **UNESCO ICH in India:** India has **16 elements** on the Representative
+List after Deepavali's 2025 inscription; none is currently on the Urgent
+Safeguarding List (UNESCO ICH India page, verified 21 July 2026).
+Network membership counts (such as Creative Cities) change independently
+and should not be mixed with WHS/ICH totals.
 
 ✅ **ASI:** established 1861 under Alexander Cunningham ("father of Indian
 archaeology" and first Director-General); functions under the AMASR Act,
@@ -94,11 +92,11 @@ composite culture" (*Nitin…pdf*, PDF pp. 984-985).
 ```text
 TANGIBLE          INTANGIBLE         DOCUMENTARY        DOMESTIC IP
 (WHS, 1972         (ICH, 2003          (Memory of the     (GI, 1999 Act —
-Convention:         Convention:         World Register)    NOT a UNESCO
-36 cultural +       15 items,                               category)
-7 natural +         India, Aug 2025)
-1 mixed = 44,
-India, Sep 2025)
+Convention:         Convention:         World Register:   NOT a UNESCO
+36 cultural +       16 elements,        14 Indian         category)
+7 natural +         verified            inscriptions,
+1 mixed = 44,       21 Jul 2026)        verified
+verified                                21 Jul 2026)
         |                |                    |                  |
         v                v                    v                  v
     ASI/AMASR        SNA/CCRT           National Archives    GI Registry
@@ -112,10 +110,23 @@ India, Sep 2025)
 
 | Category | Governing instrument | India's count (book-period) |
 |---|---|---|
-| ✅ World Heritage Site | 1972 Convention | 44 (36 cultural + 7 natural + 1 mixed), Sept 2025 |
-| ✅ Intangible Cultural Heritage | 2003 Convention | 15 items, Aug 2025 |
-| ✅ Memory of the World | UNESCO documentary register | 14 entries (topic 11) |
+| ✅ World Heritage Site | 1972 Convention | 44 (36 cultural + 7 natural + 1 mixed), verified 21 July 2026 |
+| ✅ Intangible Cultural Heritage | 2003 Convention | 16 Representative List elements, verified 21 July 2026 |
+| ✅ Memory of the World | UNESCO documentary register | 14 Indian International Register inscriptions, verified 21 July 2026 |
 | ✅ Geographical Indication | GI Act, 1999 (domestic) | 658 goods, July 2025 (topic 12) |
+
+| Current sequence | Status |
+|---|---|
+| Moidams — the Mound-Burial System of the Ahom Dynasty | India's 43rd WH property, inscribed 2024 |
+| Maratha Military Landscapes of India | India's 44th WH property, serial inscription in 2025 |
+| Deepavali | India's 16th Representative List ICH element, inscribed 2025 |
+| Bhagavadgita and Natyashastra manuscripts | 2025 additions taking India's Memory of the World International Register total to 14 |
+
+✅ **AMASR spatial trap:** around a centrally protected monument, the first
+100 metres are generally a prohibited area and the next 200 metres a
+regulated area, subject to the statutory/competent-authority framework.
+These domestic legal zones are not UNESCO buffer zones and must not be
+conflated with them.
 
 ## 6. Source spine
 
@@ -141,20 +152,15 @@ inscription).
   criteria (iii) and (iv). Political-administrative Ahom history routes
   to Medieval History topic 08; this file owns funerary form, status and
   conservation.
-- 📰 UNESCO recorded **44 World Heritage Sites** in India as of September
-  2025 (book-period figure, consistent with independent web-search
-  verification at authoring time, 18 July 2026), including the **Maratha
+- 📰 UNESCO records **44 World Heritage properties** in India as verified
+  21 July 2026, including the **Maratha
   Military Landscapes of India (2025)** as the most recent addition.
-- 📰 UNESCO's ICH Representative List held **15 Indian items** as of
-  August 2025 per the book; independent web-search verification (18 July
-  2026) additionally confirms **Deepavali (Diwali) was inscribed in
-  2025**, which would bring the total to 16 — this specific addition
-  should be re-verified against UNESCO's own ICH element page before
-  being cited as the exact current count, since it postdates the book's
-  own August 2025 cutoff.
+- 📰 UNESCO's ICH India page and decision 20.COM 7.b.24 confirm
+  **Deepavali's 2025 inscription**, bringing India to **16 Representative
+  List elements** (verified 21 July 2026).
 - 📰 ASI's live Monuments page states that it protects and maintains
   **3,679 centrally protected monuments and archaeological sites**
-  (accessed 18 July 2026); cite the live ASI figure with its access date.
+  (accessed 21 July 2026); cite the live ASI figure with its access date.
 
 ## 9. ❌ Traps and corrections
 
@@ -180,6 +186,16 @@ inscription).
   Convention-based protections; ownership, management and legal
   jurisdiction remain with the State Party (India) and its own
   institutions (ASI/AMASR).
+- ❌ UNESCO World Heritage buffer zones and AMASR prohibited/regulated
+  areas are identical. -> They arise from different legal instruments and
+  may have different mapped boundaries.
+- ❌ Natyashastra's 2025 Memory of the World inscription is unverified. ->
+  UNESCO/UN India announced both Bhagavadgita and Natyashastra additions;
+  distinguish the manuscripts' inscription year from the texts'
+  composition histories.
+- ✅ **Local PYQ trap:** CSE 2024's "latest inclusion" question was
+  time-bound (Garba then). Deepavali's 2025 inscription changes a live
+  answer; always read the question's date.
 - ❌ A repatriation of an artefact can be assumed or inferred without a
   dated official announcement. -> Never state that a specific object has
   been repatriated unless a dated official source names the object, the

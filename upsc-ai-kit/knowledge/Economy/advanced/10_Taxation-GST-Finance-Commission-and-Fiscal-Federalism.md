@@ -4,7 +4,7 @@
 > **Core area:** Taxation and federal finance.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`.*
+> *Companion: `../basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`.*
 
 ---
 
@@ -107,6 +107,8 @@ consumption baskets, informality and state fiscal capacity differ.
 - ✅ Input tax credit reduces cascading when compliant value-chain invoices are matched under
   law.
 - ✅ The GST Council is a constitutional federal forum; it is not the Finance Commission.
+- ✅ Article 279A gives the Centre one-third of weighted GST Council votes and states
+  together two-thirds; decisions require at least three-fourths of weighted votes.
 - ✅ The Finance Commission addresses vertical and horizontal fiscal imbalances through
   recommendations.
 - ✅ Cesses and surcharges have different sharing implications from taxes in the divisible
@@ -129,13 +131,13 @@ consumption baskets, informality and state fiscal capacity differ.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 GST 2.0's broad two-rate structure took effect from 22 Sep 2025; avoid unsourced item-level claims. | Discuss simplification and compliance while avoiding unsourced claims about item-level GST treatment. |
+| 📰 GST reform effective 22 Sep 2025 uses broad 5% and 18% rates plus a special 40% demerit rate for specified supplies. | Discuss simplification without erasing separately notified tobacco/cess treatment or making unsourced item-level claims. |
 | 📰 Economic Survey 2025-26 highlights stronger direct-tax compliance; do not quote the return-count comparison without its underlying periods. | Use the Survey's qualitative signal without inventing missing year labels for the return-count comparison. |
 | 📰 Revenue receipts averaged 9.1% of GDP in FY22-FY25, compared with 8.5% in FY16-FY20. | Stronger receipts support devolution and services, but their composition and shareability remain important. |
-| 📰 Income-tax Act, 2025 and Rules, 2026 are operative from 1 Apr 2026. | Treat simplification, administration and rates as separate questions; the new text does not by itself prove a rate change. |
+| 📰 Income-tax Act, 2025 and Rules, 2026 commenced from 1 Apr 2026. | Separate legal commencement from rate changes; the 1961 Act remains relevant to earlier years and proceedings. |
 | 📰 XVI-FC award period: 2026-27 to 2030-31; accepted vertical devolution remains 41% of the divisible pool. | Compare vertical share, horizontal formula, grants and fiscal incentives without mixing XV-FC and XVI-FC periods. |
 
-Sources: [PIB—Income-tax framework](https://pib.gov.in/PressReleasePage.aspx?PRID=2248005);
+Sources: [Income-tax Department notification](https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf);
 [XVI-FC action-taken memorandum](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/16fc-EM.pdf).
 
 ## 10. PYQ-based analytical application
@@ -171,8 +173,7 @@ Sources: [PIB—Income-tax framework](https://pib.gov.in/PressReleasePage.aspx?P
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/10_Taxation-GST-Finance-Commission-and-Fiscal-
-  Federalism.md`.
+- ✅ Foundation companion: `../basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`.
 - ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — revenue, deficits and
   expenditure.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — state capex and public-

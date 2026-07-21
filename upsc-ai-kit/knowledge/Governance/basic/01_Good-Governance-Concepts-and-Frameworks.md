@@ -78,9 +78,10 @@ measured against such normative standards, not merely functioning.
   anniversary of former Prime Minister Atal Bihari Vajpayee, to promote accountability,
   transparency and citizen-centric administration.
 - ✅ **Good Governance Index (GGI):** launched by DARPG on 25 December 2019 as a composite,
-  diagnostic tool assessing state/UT governance performance across ten sectors (including
-  agriculture, health, human resource development, public infrastructure, economic
-  governance, judiciary, and citizen-centric governance) using roughly 50-60 indicators.
+  diagnostic tool assessing state/UT governance performance across ten sectors. The latest
+  national edition located on the official DARPG portal as of 21 July 2026 is **GGI 2021**;
+  do not describe GGI as an annual publication or carry forward an old rank without its
+  edition year.
 
 ## 5. Indian applications and examples
 
@@ -120,10 +121,10 @@ measured against such normative standards, not merely functioning.
 
 ## 8. 📰 Current anchor
 
-- 📰 Good Governance Day is fixed each year on 25 December; the Good Governance Index has
-  been published in successive editions since its 2019 launch, with sector scores revised
-  each time. No fixed current state rank is asserted here, since GGI standings change with
-  every new edition; cite only the edition year alongside any rank used in an answer.
+- 📰 **Status checked 21 July 2026:** Good Governance Day remains 25 December. DARPG's
+  latest official national GGI report located for this audit is GGI 2021. District-level
+  good-governance indices are separate exercises and must not be substituted for a later
+  national GGI edition.
 
 ## 9. PYQ application
 
@@ -145,6 +146,9 @@ measured against such normative standards, not merely functioning.
 - ⚠️ Use the five-gap governance results chain from `00_Master-Framework.md` (design,
   capacity, delivery, accountability, learning) to structure any "why does governance fail"
   answer.
+- ⚠️ Evaluate an index through five tests: indicator validity, data comparability,
+  outcome-versus-output balance, federal/context adjustment and whether scores trigger
+  corrective action rather than ranking alone.
 
 > **Answer thesis:** Good governance is not a synonym for good government; it is the
 > normative standard — rule of law, transparency, accountability, responsiveness and

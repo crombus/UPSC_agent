@@ -41,7 +41,7 @@ process, or treating a normatively correct process as sufficient without measura
 |---|---|
 | ✅ **Government vs governance vs good governance** | Government = formal authority-holders; governance = the process of collective decision-making by state and non-state actors; good governance = governance evaluated against normative standards (rule of law, accountability, transparency, responsiveness). |
 | ✅ **WGI's perception-based method** | WGI dimensions are built from aggregated perception surveys and expert assessments, not solely administrative data — meaning scores reflect *perceived* quality, with margins of error, not a single ground-truth measurement. |
-| ✅ **GGI's sectoral-diagnostic method** | GGI groups states into three categories (big states, north-east & hill states, UTs) and scores them sector-wise, explicitly designed for competitive and cooperative federalism rather than a single national league table. |
+| ✅ **GGI's sectoral-diagnostic method** | GGI 2021 groups states/UTs into three comparison categories and scores them sector-wise. It is a periodic diagnostic, not an annual constitutional/statutory ranking; the edition and indicator set must accompany any comparison. |
 | ⚠️ **Index vs principle-based evaluation** | An index (WGI/GGI) enables comparison and benchmarking but can incentivise gaming indicators; a principle-based framework (UNDP/ARC) resists gaming but is harder to operationalise into a single comparable score. |
 | ⚠️ **Governance vs development administration** | Good governance is a quality standard applicable to any state function; development administration is a specific administrative orientation (deliberately transformative) — the former is broader and can apply even where no development mandate exists (e.g., regulatory or law-and-order governance). |
 
@@ -132,9 +132,9 @@ process, or treating a normatively correct process as sufficient without measura
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Cite the latest DARPG-published GGI edition and its stated sector list/category
-  grouping directly from the DARPG portal before naming any specific state rank in a Mains
-  answer — do not carry forward a rank from an earlier edition without re-verification.
+- 📰 **Status checked 21 July 2026:** the latest national edition located on DARPG is
+  GGI 2021. A later district index, workshop or state-specific exercise is not a replacement
+  for a national GGI edition. Recheck DARPG before using any rank.
 
 ## 10. PYQ-based analytical application
 
@@ -160,6 +160,8 @@ target the underlying process, not merely the visible indicator.
 4. Flag the risk of indicator capture or perception-measurement gaps where relevant.
 5. Recommend a corrective that targets institutional process, with a measurable outcome
    indicator to track genuine improvement.
+6. Add an **auditability test**: whether raw definitions, weights, missing-data treatment
+   and revision history are public enough for states and citizens to challenge the score.
 
 ## 12. Probable questions
 

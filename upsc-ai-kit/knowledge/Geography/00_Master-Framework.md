@@ -52,6 +52,34 @@ climate, oceans (Topics 01-25)                  regional development (Topics 26-
 | Designation/data vs on-ground reality | Census figures, boundary lines or scheme announcements are necessary reference points but do not by themselves describe lived conditions | Topics 26, 29, 35-37 |
 | Physical constraint vs human adaptation | Climate/relief/resource constraints shape but do not fully determine human settlement and development choices | Topics 07, 18, 23, 28-30, 36 |
 
+## 3A. Tier and source guardrails
+
+| Tier | Direct local book spine | Required added value |
+|---|---|---|
+| Must-Do / `basic` | Majid Husain, *Indian & World Geography* + G.C. Leong | Exhaustive, accessible process/classification foundation + dated current anchor |
+| Advanced / `advanced` | D.R. Khullar + Majid Husain, *Geography of India* | India-specific mapwork, causal depth, source-era data cautions + a distinct current anchor |
+
+```text
+DIRECT PASSAGE
+    -> check edition/date and map location
+    -> separate stable process from volatile statistic
+    -> correct obsolete terminology/science
+    -> add India example + PYQ trap
+    -> attach dated current anchor
+```
+
+### Non-negotiable causal chains
+
+```text
+ROCK / STRUCTURE -> WEATHERING -> SOIL / REGOLITH -> SLOPE OR RIVER PROCESS -> LANDFORM
+
+INSOLATION -> TEMPERATURE/PRESSURE GRADIENT -> WIND/MOISTURE TRANSPORT
+           -> LIFTING/CONDENSATION -> RAINFALL -> VEGETATION/CROP RESPONSE
+
+GEOLOGY -> MINERAL/OIL/COAL OCCURRENCE -> POWER/TRANSPORT -> INDUSTRIAL LOCATION
+        -> SETTLEMENT/MIGRATION -> REGIONAL INEQUALITY -> PLANNING RESPONSE
+```
+
 ## 4. Governance/knowledge-flow map (human-geography half)
 
 ```text

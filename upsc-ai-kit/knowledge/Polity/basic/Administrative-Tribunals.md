@@ -43,6 +43,10 @@ under Articles 226/227
   functions to existing judicial or administrative forums.
 - ✅ It also prescribed a common framework for qualifications, appointment, tenure and
   service conditions for members of covered tribunals.
+- 📰 ✅ **Status 21 Jul 2026:** the Act's four-year tenure framework remains in
+  constitutional litigation against the Supreme Court's tribunal-independence directions.
+  A **9 Mar 2026** Supreme Court interim order extended specified serving incumbents only
+  until **8 Sep 2026** (or the applicable maximum age); it did not finally settle the Act's validity.
 - ⚠️ Rationalisation can reduce institutional duplication, but transferring specialised
   work to already burdened courts may weaken the promised gains in speed and expertise.
 - ⚠️ Executive influence over appointments, short tenure, vacancies and infrastructure
@@ -64,4 +68,5 @@ under Articles 226/227
 - ❌ Articles 323-A and 323-B are identical. -> They differ in subject, law-maker and scope.
 - ❌ Rationalisation automatically reduces pendency. -> Forum transfer can merely shift
   pendency unless judges, benches and infrastructure follow.
-
+- ❌ The four-year tenure controversy is finally settled. -> The Supreme Court continues
+  supervisory proceedings; the March 2026 extension order is interim.

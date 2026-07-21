@@ -35,6 +35,7 @@
 - ✅ Mansabdari was unique because it made a graded single service combining civil and military responsibilities; rank fixed status, salary and retainers.
 - ✅ The dagh system was introduced to reduce the gap between paper cavalry and actual mustered troops, but it caused noble resistance and administrative harassment.
 - ✅ The dual **zat-sawar** rank was introduced late to distinguish personal status/pay from actual cavalry obligation.
+- ✅ Chandra, citing later research, cautions that *zabt* probably did not cover the whole land of any province; crop-sharing, appraisement and estimate remained part of the working system.
 
 ## 2. Key classification / data
 
@@ -76,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-- 📰 **NAKSHA urban land-record survey under Digital India land reforms (2025-26)** — Government/press coverage highlighted drone/aerial surveys for high-precision urban maps; relevance: a modern counterpart to measurement, cadastral mapping and state-record capacity under Akbar's revenue system.
+📰 **Current linkage (verify live before use):** A modern land-record survey can illustrate state capacity, but comparison must stop at measurement and record-making. Verify names, coverage and results from the responsible ministry.
 
 ## 7. Mains angles
 
@@ -87,4 +88,3 @@
 ## ➕ Concept note (PYQ-gap)
 
 ⚠️ **Dahsala ≠ zabt ≠ batai.** Dahsala is the ten-year average method within revenue assessment; zabt is measurement-based assessment; batai is crop-sharing. UPSC often tests the distinction indirectly.
-

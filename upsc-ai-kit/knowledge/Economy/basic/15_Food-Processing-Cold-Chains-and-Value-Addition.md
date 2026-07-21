@@ -4,7 +4,7 @@
 > **Core area:** Agriculture-industry linkage.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md`.*
+> *Companion: `../advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md`.*
 
 ---
 
@@ -93,6 +93,8 @@ alone.
   distributed infrastructure remain critical.
 - ❌ Export certification concerns only tariffs. -> Sanitary, phytosanitary, quality and
   traceability requirements matter.
+- ❌ APEDA replaces domestic food-safety regulation. -> FSSAI is the food-safety regulator;
+  APEDA supports agricultural and processed-food export development and market access.
 - ❌ Higher retail value automatically reaches producers. -> Market power and contract terms
   determine value distribution.
 
@@ -111,6 +113,9 @@ income if procurement is concentrated or contracts transfer excessive risk to pr
 - ⚠️ 2025 GS-III: Scope of food-processing industries and employment-generation measures.
 - ⚠️ 2025 GS-III supply-chain question provides the upstream framework for processing
   answers.
+- ⚠️ **2025 answer route:** cover scope from aggregation and primary processing to
+  packaging, testing, cold logistics, retail and exports; then assess jobs at each node,
+  not just factory employment.
 
 ## 10. Mains angles
 
@@ -133,7 +138,7 @@ income if procurement is concentrated or contracts transfer excessive risk to pr
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md`.
+- ✅ Advanced companion: `../advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md`.
 - ✅ `13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md` — aggregation and farm-market
   linkage.
 - ✅ `17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — small-enterprise finance

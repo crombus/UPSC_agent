@@ -6,6 +6,8 @@
 > arabesque, charbagh, pietra dura; Delhi Sultanate (imperial/provincial),
 > Mughal, Rajput, Sikh and Awadh architecture.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp. 125-148;
+> Satish Chandra, *History of Medieval India*, PDF pp. 194-197, 328-334;
+> Satish Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp. 382-395;
 > `00_Master-Framework.md` Section 3; audited UPSC Mains 2024-2025 GS Paper I.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/04_Indo-Islamic-and-Regional-Architecture.md`.*
@@ -25,13 +27,13 @@ question's primary ownership is Medieval History/topic 13 (see Section 11).
 
 | Term | Exam-ready meaning |
 |---|---|
-| ✅ **Trabeate style** | Post-and-lintel construction, India's pre-Islamic default, using horizontal beams across supports (*Nitin…pdf*, PDF p. 126). |
-| ✅ **Arcuate style** | Arch-and-dome construction, introduced with Indo-Islamic architecture, replacing trabeate methods (*Nitin…pdf*, PDF p. 126). |
+| ✅ **Trabeate style** | Post-and-lintel construction using horizontal beams across supports; it remained active inside Sultanate and Mughal buildings. |
+| ✅ **Arcuate style** | Load-bearing arch/vault/dome construction. Arches and domes were known earlier, but Sultanate builders spread their scientifically constructed, large-scale use with stronger lime mortar (Satish Chandra, PDF pp. 194-196). |
 | ✅ **Jaali** | Perforated stone/lattice screen, signifying the importance of light in Islamic religious space (*Nitin…pdf*, PDF p. 127). |
 | ✅ **Charbagh** | A square garden divided into four identical quadrants, introduced by Islamic rulers (*Nitin…pdf*, PDF p. 127). |
-| ✅ **Pietra dura** | Inlay technique using precious coloured stones/gems set into walls for decoration (*Nitin…pdf*, PDF p. 128). |
+| ✅ **Pietra dura/parchin kari** | Inlay of cut coloured stones, often semi-precious, fitted into marble or another stone surface. |
 | ✅ **Arabesque** | Continuous, regularly splitting geometrical-vegetal ornamentation (*Nitin…pdf*, PDF p. 126). |
-| ✅ **Foreshortening technique** | A carving technique making inscriptions appear closer than their actual distance (*Nitin…pdf*, PDF p. 128). |
+| ✅ **Optical scaling in calligraphy** | Letters placed high on a facade may be enlarged so that the inscription appears visually even from ground level; this is not the same as pictorial foreshortening. |
 
 ## 3. Core classification
 
@@ -47,17 +49,22 @@ retaining distinct features (*Nitin…pdf*, PDF pp. 136, 144-146).
 
 ## 4. Foundation narrative
 
-✅ Arcuate construction "replaced the traditional Trabeate style," avoided
-human/animal figural decoration, and used calligraphy and arabesque in
-place of sculpture (*Nitin…pdf*, PDF p. 126). ✅ Imperial-style landmarks:
-Qutb Minar (begun by Qutb-ud-Din Aibak, completed by Iltutmish and Firoz
-Shah Tughlaq — a three-ruler, five-storey structure) and the Quwwat-ul-
+✅ Arcuate and trabeate methods **coexisted**: Satish Chandra notes that
+Sultanate and Mughal builders combined arch/dome with slab-and-beam,
+employed indigenous craftsmen, imported some master architects and reused
+local motifs such as lotus, bell and swastika. Mosque decoration generally
+avoided figural imagery, but this is not a universal rule for every
+Indo-Islamic or secular building. ✅ Imperial-style landmarks:
+Qutb Minar (begun by Qutb-ud-Din Aibak and substantially completed by
+Iltutmish; Firoz Shah Tughlaq later repaired/rebuilt damaged upper work)
+and the Quwwat-ul-
 Islam mosque, whose inscription records reuse of materials from 27
 demolished Hindu and Jaina temples (*Nitin…pdf*, PDF pp. 129-130; ASI,
 Qutb Minar complex).
-✅ Lodi-period architecture introduced the double dome — a hollow inner
-dome beneath the outer one, for strength and lowered interior height
-(*Nitin…pdf*, PDF p. 131). ✅ Provincial schools each show environmental
+✅ A true double dome appears in mature form by the Lodi/Humayun transition:
+Sikandar Lodi's tomb is an early Indian case, while Humayun's tomb develops
+the device at monumental scale. It separates the external skyline from the
+interior ceiling. ✅ Provincial schools each show environmental
 adaptation: Bengal's sloping "Bangla roof" (later borrowed by Mughal
 architects), Jaunpur's Sharqi style avoiding minars, Malwa's large
 ventilating windows and baulis (step-wells), and Bijapur's three-arched
@@ -66,8 +73,8 @@ pp. 132-136).
 
 ✅ Under Akbar, red sandstone and the four-centred "Tudor arch" dominated
 (Agra Fort, begun under Akbar though most interior structures are Shah
-Jahan's; Fatehpur Sikri, capital 1571-1585, with the Buland Darwaza —
-"world's highest gateway" — and the white-marble tomb of Sheikh Salim
+Jahan's; Fatehpur Sikri, capital 1571-1585, with the monumental Buland
+Darwaza and the white-marble tomb of Sheikh Salim
 Chishti) (*Nitin…pdf*, PDF pp. 138-140). ✅ Fatehpur Sikri's Ibadat Khana
 (1575) hosted Akbar's interfaith debates under *Sulh-i-Kul* ("universal
 tolerance"), leading to *Din-i-Ilahi* (1582) — a syncretic order that
@@ -75,12 +82,15 @@ tolerance"), leading to *Din-i-Ilahi* (1582) — a syncretic order that
 became the chief Mughal building material from Jahangir's reign onward
 (Itmad-ud-Daulah's tomb, commissioned by Nur Jahan, was the first
 all-white-marble Mughal work, with fine pietra dura) (*Nitin…pdf*, PDF p.
-141). ✅ Shah Jahan's reign marks Mughal architecture's climax — the Taj
-Mahal (for Mumtaz Mahal), Red Fort, Jama Masjid, chief architect Ustad
-Ahmad Lahori ("Nadir-ul-Asar") (*Nitin…pdf*, PDF pp. 142-143). ✅
-Aurangzeb's puritanical outlook caused Mughal architecture's decline; Bibi
-Ka Maqbara (for Begum Rabia-ud-Daurani) is explicitly "described as a poor
-imitation of the Taj Mahal" (*Nitin…pdf*, PDF p. 144).
+141). ✅ Shah Jahan's reign marks a major Mughal architectural culmination — the
+Taj Mahal, Red Fort and Jama Masjid. Nitin associates Ustad Ahmad Lahori
+with several projects, but Satish Chandra stresses that the Taj was a
+collective workshop achievement and that no single designer should be
+treated as settled fact (*Part 2*, PDF p. 388). ✅ Aurangzeb commissioned
+fewer major imperial buildings and was economy-minded; Mughal architectural
+traditions nevertheless continued into regional eighteenth-century
+practice. Bibi Ka Maqbara should be compared formally with the Taj, not
+dismissed through a value-laden "poor imitation" label.
 
 ✅ Regional parallel styles: Rajput architecture used the *jharokha*
 (hanging balcony) and bow-shaped arched cornices (Hawa Mahal, Jaipur);
@@ -110,7 +120,7 @@ MUGHAL ARCHITECTURE (Babur -> Shah Jahan climax -> Aurangzeb decline)
     +---> RAJPUT (jharokha)   SIKH (chhatri, onion dome)   AWADH (mortar)
 ```
 
-| Basis | Trabeate style | Arcuate/Islamic style |
+| Basis | Trabeate emphasis | Arcuate emphasis |
 |---|---|---|
 | ✅ Entrance | Lintel-based | Characterised by arch and dome |
 | ✅ Top | Shikhara, conical/curvilinear | Dome, often bulbous/hemispherical |
@@ -145,9 +155,8 @@ occurred.
 ## 9. ❌ Traps and corrections
 
 - ❌ Arches and domes were introduced to India only by Babur/the Mughals.
-  -> Arcuate construction predates the Mughals by centuries, arriving
-  with the Delhi Sultanate from 1206 AD onward (Qutb Minar, Quwwat-ul-
-  Islam mosque).
+  -> Their scientific and large-scale use expanded under the Sultanate;
+  Satish Chandra expressly says both were known earlier.
 - ❌ "Indo-Saracenic" is simply a synonym for all Indo-Islamic
   architecture. -> The book uses "Indo-Islamic architecture or Indo-
   Saracenic architecture" as parallel terms for the medieval Delhi
@@ -157,11 +166,17 @@ occurred.
   historical usages that must not be conflated.
 - ❌ Din-i-Ilahi was a widely adopted new religion. -> The book explicitly
   states it "never had mass acceptance."
-- ❌ Bibi Ka Maqbara is comparable in achievement to the Taj Mahal. -> The
-  book explicitly frames it as "a poor imitation," reflecting Mughal
-  architecture's decline under Aurangzeb.
+- ❌ Bibi Ka Maqbara can be disposed of as a "poor imitation." -> The useful
+  comparison concerns patronage, scale, material and garden/mausoleum form;
+  avoid reproducing a textbook's aesthetic insult as fact.
 - ❌ Minars were a feature of every provincial school. -> Jaunpur's Sharqi
   style and the Malwa/Pathan school both explicitly avoided minars.
+- ❌ Ustad Ahmad Lahori is the uncontested sole architect of the Taj Mahal.
+  -> Named specialists are recorded, but Satish Chandra treats the monument
+  as a collective design/construction achievement.
+- ❌ "Hindu" and "Muslim" styles remained fixed and separate. -> Sultanate
+  and Mughal buildings combine imported arcuate knowledge, indigenous
+  trabeate practice, regional materials, local motifs and mixed workshops.
 
 ## 10. Mains framework
 

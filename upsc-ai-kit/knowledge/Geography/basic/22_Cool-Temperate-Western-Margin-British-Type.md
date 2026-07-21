@@ -55,11 +55,9 @@ the **North-West European Maritime Climate**.
 
 ## 7. 📰 Current link
 
-📰 **European State of the Climate 2025 (WMO/Copernicus)** reported **record heatwaves** stretching from
-the Mediterranean to the Arctic Circle, the **largest recorded wildfire-burnt area**, and **~70% of
-European rivers below average flow** — with Europe warming at **over twice the global average**. The
-report shows how even the classically mild, well-watered British/NW-European maritime belt is being
-pushed toward heat, drought and wildfire extremes.
+📰 **European State of the Climate reports** show that the maritime-climate belt is experiencing
+heatwaves, drought, floods and marine heatwaves despite its historically mild mean climate. Quote a
+specific report year only after publication and keep river-flow/fire statistics tied to that report.
 
 ## 8. Mains angles
 

@@ -1,7 +1,7 @@
 # UPSC & State Public Service Commissions (Articles 315–323) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 43–44 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 43–44 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/UPSC-and-SPSC.md`.*
 

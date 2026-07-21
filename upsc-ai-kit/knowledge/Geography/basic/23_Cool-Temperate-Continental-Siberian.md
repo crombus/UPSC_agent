@@ -24,7 +24,7 @@ less severe and fades into the **temperate Steppe** climate.
 |---|---|
 | ✅ Winter | **Bitterly cold, long** ("sub-Arctic"); very large annual range |
 | ✅ Summer | Short, cool; brief warm growing season |
-| ✅ Rainfall | Low, **light summer maximum (~29 inches / lower)**; convectional |
+| ✅ Rainfall | Low to moderate, generally with a summer maximum; frontal and convectional sources vary |
 
 ## 3. Natural vegetation — the Taiga
 
@@ -54,11 +54,9 @@ forest) in **Siberia**; in Europe, **Sweden and Finland** share this climate/for
 
 ## 7. 📰 Current link
 
-📰 **Siberia's taiga: wildfires + permafrost thaw (2025).** Record wildfires (frequency/severity roughly
-**doubled in two decades**) and rapid **permafrost thaw** (Yakutia warmed up to ~1.5°C in 30 years) are
-turning the boreal forest from a **carbon sink into a carbon source** — releasing CO₂ and methane in a
-self-reinforcing feedback. Arctic-Russian permafrost holds **~twice the carbon** now in the atmosphere,
-making the taiga a global climate tipping-point concern.
+📰 **Taiga wildfire and permafrost thaw:** warming lengthens fire seasons and thaws frozen ground,
+altering carbon storage, hydrology and infrastructure. Avoid one regional warming, fire or carbon-stock
+number unless tied to a named monitoring period.
 
 ## 8. Mains angles
 

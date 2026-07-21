@@ -4,8 +4,8 @@
 > **Core area:** Poverty as social exclusion and capability deprivation, the culture-of-
 > poverty critique, and the development-versus-livelihood conflict.
 > **Grounded in:** Amartya Sen's capability approach to poverty; Oscar Lewis's "culture of
-> poverty" thesis and its sociological critique; NITI Aayog National MPI 2023; audited 2024
-> and 2025 GS-I Mains PYQs.
+> poverty" thesis and its sociological critique; NITI Aayog's 2024 multidimensional-poverty
+> discussion paper; audited 2024 and 2025 GS-I Mains PYQs.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/09_Poverty-and-Developmental-Issues.md`.*
 
@@ -54,8 +54,8 @@ PYQ) and the institutional-collaboration question (2024 PYQ).
 |---|---|
 | ✅ **Poverty as capability deprivation** (Amartya Sen) | Poverty is the deprivation of basic capabilities — to be nourished, educated, healthy, and to participate in social life — not merely low income; income poverty and capability poverty can diverge. |
 | ⚠️ **Social exclusion** | Poverty compounded by exclusion from social networks, institutions and opportunity structures on the basis of caste, gender, religion or region, distinct from an aggregate income statistic. |
-| ✅ **Culture of poverty** (Oscar Lewis) | A thesis proposing that persistent poverty produces a distinct set of values, attitudes and behaviours (present-orientation, resignation, weak future planning) that are then transmitted across generations, partly independent of external structural conditions. |
-| ✅ **Sociological critique of culture-of-poverty** | Critics argue the thesis risks "blaming the poor" for their own poverty and understates structural causes — unequal land distribution, labour-market discrimination, inadequate public services — that actually reproduce poverty across generations. |
+| ✅ **Culture of poverty** (Oscar Lewis) | A controversial thesis proposing that persistent poverty can generate values, attitudes and behaviours that are reproduced across generations. It arose from particular ethnographic settings and is not a complete explanation of poverty. |
+| ✅ **Sociological critique of culture-of-poverty** | Critics argue the thesis can “blame the poor” and understate structural causes — unequal land, labour-market discrimination and inadequate public services — while defenders may treat it as a description of adaptation. Evaluate the direction of causation rather than dismissing evidence of coping behaviour. |
 | ⚠️ **Development-livelihood conflict** | The tension that arises when environmental conservation or sustainable-development goals restrict access to land, forest or water resources on which poor communities directly depend for subsistence. |
 
 ## 3. How poverty and development conflicts function socially
@@ -67,11 +67,10 @@ PYQ) and the institutional-collaboration question (2024 PYQ).
    Scheduled Caste and Scheduled Tribe households, women-headed households and remote-region
    households are disproportionately represented among the capability-poor, showing
    exclusion compounds income deprivation.
-3. **Culture-of-poverty claim and its limits:** ✅ Lewis's thesis observed real behavioural
-   patterns among chronically poor urban communities, but the sociological mainstream
-   critique holds that these patterns are adaptive responses to structural deprivation, not
-   an independent cultural cause of poverty — treating them as the cause risks policy that
-   blames the poor rather than fixing structural barriers.
+3. **Culture-of-poverty claim and its limits:** ✅ Lewis's thesis described behavioural
+   patterns in particular chronically poor urban communities. Critics argue these can be
+   adaptive responses to structural deprivation rather than an independent cultural cause;
+   policy should not blame poor people instead of addressing structural barriers.
 4. **Development-poverty conflict mechanism:** ⚠️ conservation and sustainable-development
    measures (protected forests, restricted resource extraction) can simultaneously serve
    long-term environmental goals and immediately curtail the subsistence access of poor,
@@ -122,9 +121,9 @@ PYQ) and the institutional-collaboration question (2024 PYQ).
 - ✅ Oscar Lewis proposed the "culture of poverty" thesis based on his ethnographic
   fieldwork among poor urban communities; the thesis is widely critiqued in sociology for
   underplaying structural causes.
-- 📰 NITI Aayog's National MPI Progress Review (2023) recorded multidimensional poverty
-  falling from 24.85% (2015-16) to 14.96% (2019-21), about 13.5 crore people exiting
-  poverty — a dated base-year comparison.
+- 📰 NITI Aayog's 2024 discussion paper *Multidimensional Poverty in India since 2005-06*
+  estimated multidimensional poverty at 11.28% in 2022-23 and about 24.8 crore exits between
+  2013-14 and 2022-23. These are dated estimates, not a current headcount.
 - ⚠️ Poverty measurement methodology (Tendulkar/Rangarajan/MPI formulae) is Economy's
   territory, not restated here.
 - ⚠️ Development-poverty conflict most sharply affects forest-dependent, tribal and other
@@ -148,9 +147,9 @@ PYQ) and the institutional-collaboration question (2024 PYQ).
 
 ## 8. 📰 Current anchor
 
-- 📰 NITI Aayog's National MPI Progress Review (2023) remains the most recent verified
-  national poverty-progress figure (24.85% to 14.96%, 2015-16 to 2019-21, about 13.5 crore
-  people exiting poverty); no newer national update exists to cite as of 17 July 2026.
+- 📰 NITI Aayog's 2024 discussion paper estimated multidimensional poverty at 11.28% in
+  2022-23 and about 24.8 crore exits between 2013-14 and 2022-23. Label it as a dated
+  estimate and do not present it as a current 2026 poverty headcount.
 
 ## 9. PYQ application
 
@@ -165,7 +164,8 @@ PYQ) and the institutional-collaboration question (2024 PYQ).
 
 - ⚠️ Always distinguish capability/exclusion poverty from income poverty at the start of any
   poverty-related answer.
-- ⚠️ Treat the culture-of-poverty thesis critically, not as an accepted explanation.
+- ⚠️ Treat the culture-of-poverty thesis as contested: distinguish observed coping behaviour
+  from claims that culture independently causes poverty.
 - ⚠️ Use the three-actor collaboration model for any government-NGO-private question.
 
 > **Answer thesis:** Poverty in India is a matter of compounded capability deprivation and

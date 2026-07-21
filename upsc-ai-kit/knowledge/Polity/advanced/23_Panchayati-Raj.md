@@ -1,7 +1,7 @@
 # Panchayati Raj — 73rd Amendment (Articles 243–243-O, Part IX) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 38 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 38 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Panchayati-Raj.md`.*
 
@@ -26,7 +26,7 @@ force **24 April 1993**. Provisions are **compulsory (mandatory)** or **voluntar
 |---|---|
 | ✅ **Gram Sabha** | Village assembly of all registered voters — foundation of PR |
 | ✅ **3-tier system** | Village, intermediate, district — but a state **< 20 lakh** population may skip the **intermediate** tier |
-| ✅ **Election** | All members at all 3 levels **directly elected**; chairpersons of intermediate & district levels **indirectly**; village chairperson as the state decides |
+| ✅ **Election** | All **territorial seats** at all 3 levels directly elected; chairpersons of intermediate & district levels **indirectly**; village chairperson as state law decides; Art 243-C permits specified representation |
 | ✅ **Reservation** | SC/ST in proportion to population; **≥ 1/3 seats for women** (incl. SC/ST women) at all levels + chairperson offices |
 | ✅ **Duration** | **5-year term**; elections before expiry OR within **6 months** of dissolution; a reconstituted panchayat serves only the **remainder** |
 | ✅ **Disqualification** | Age **21** allowed (not the 25 of state legislature) |
@@ -73,7 +73,9 @@ land alienation, and consultation before land acquisition/mining — the corners
 - ❌ Eleventh Schedule has 29 items for municipalities → **29 for panchayats** (Twelfth Schedule = 18 for
   municipalities).
 - ❌ All 3 tiers are compulsory for every state → a state **< 20 lakh** may skip the **intermediate** tier.
-- ❌ Only village-level members are directly elected → **all three levels** are directly elected.
+- ❌ Only village-level territorial seats are directly elected → territorial seats at **all
+  three levels** are directly elected, but this does not make every chairperson/represented
+  member directly elected.
 - ❌ Minimum candidate age is 25 → **21** for panchayats.
 - ❌ Women's reservation is 1/3 and fixed → **"not less than 1/3"**; many states have raised it to **50%**.
 - ❌ PESA extends Part IX to Sixth Schedule areas → **Fifth Schedule** areas.

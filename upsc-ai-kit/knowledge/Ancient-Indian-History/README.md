@@ -1,7 +1,7 @@
 # Ancient Indian History — Knowledge Base Index
 
 > **Subject:** History → **Ancient Indian History** · **GS Paper:** GS-I (Ancient India, Art & Culture) + Prelims.
-> **Spine:** R.S. Sharma, *India's Ancient Past* (chapter sequence). **Tiers:** `basic/` (RS Sharma) · `advanced/` (Upinder Singh + CA).
+> **Spine:** R.S. Sharma, *India's Ancient Past* (chapter sequence). **Tiers:** `basic/` (R.S. Sharma foundation) · `advanced/` (Upinder Singh analysis and historiography).
 > **Start here:** `00_Master-Chronology.md` — the full timeline that stitches every topic together.
 > *Sibling folders (to be added): `Medieval-Indian-History`, `Modern-Indian-History`.*
 
@@ -9,9 +9,9 @@
 
 ## How this folder works
 
-- **Two tiers per topic.** `basic/NN` = R.S. Sharma foundation (must-do). `advanced/NN` = Upinder Singh depth + historiographical debates + current affairs. Same file number = same topic.
+- **Two tiers per topic.** `basic/NN` = R.S. Sharma foundation (must-do). `advanced/NN` = Upinder Singh depth + historiographical debates. Current-link sections are prompts and require separate official verification. Same file number = same topic.
 - **Chronology-first.** Read `00_Master-Chronology.md` once, then each topic hangs on it. Every topic file also has its own `## Mini-timeline`.
-- **Tagging:** ✅ = from the source book · ⚠️ = inference/standard knowledge · 📰 = current affairs.
+- **Tagging:** ✅ = directly supported by a listed source · ⚠️ = interpretation, debate, or source-specific chronology · 📰 = current affairs verified separately from the books.
 - **Answer discipline:** questions are answered *strictly from these md files*; if a concept is absent it is a gap to be added, not guessed.
 
 ## Topic map (RS Sharma chapter → file)
@@ -48,10 +48,15 @@
 ## Recent exact PYQ route
 
 - **2024 GS-I:** “Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words)” → primary answer matrix: `advanced/09_Later-Vedic-Phase.md`; foundation comparison: `basic/09_Later-Vedic-Phase.md`; Rig Vedic baseline only: `advanced/08_Rig-Vedic-Age.md`.
+- **2024 GS-I:** “Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India. (Answer in 150 words)” → `basic/23_Peninsular-India-Pallavas-Chalukyas.md` + analytical/source caveats in `advanced/23_Peninsular-India-Pallavas-Chalukyas.md`.
+- **2025 GS-I:** “Discuss the salient features of the Harappan architecture. (Answer in 150 words)” → architecture matrix in `basic/06_Harappan-Civilization.md`; interpretation debate in `advanced/06_Harappan-Civilization.md`.
+- **Recent Prelims emphasis:** source-identification and close distinctions recur—Buddha's epithets versus Mahavira's *Nayaputta* (2024), Fa-hien and Ashokan officers (2025), and Harappan household/measurement evidence plus Pali coin terms (2026).
 - **Boundary:** Pallava/Chola art-and-architecture PYQs route primarily to `Indian-Art-and-Culture`; this folder supplies political and social chronology without duplicating form/technique analysis.
 
 ## Sources
 
-- **Basic (must-do):** R.S. Sharma, *India's Ancient Past* (Oxford).
-- **Advanced:** Upinder Singh, *A History of Ancient & Early Medieval India: From the Stone Age to the 12th Century*.
-- **Current affairs:** ASI/ICHR/museum/UNESCO updates via web search (tagged 📰).
+- **Direct source 1:** R.S. Sharma, *Ancient India* (NCERT Class XI; revised edition).
+- **Direct source 2 / basic spine:** R.S. Sharma, *India's Ancient Past* (Oxford).
+- **Direct source 3 / advanced spine:** Upinder Singh, *A History of Ancient & Early Medieval India: From the Stone Age to the 12th Century*, 2nd ed.
+- **Exam-emphasis check:** local UPSC GS-I papers for 2024–2025 and local Prelims papers for 2024–2026.
+- **Current-affairs discipline:** dated claims require separate verification from an official or primary current source; the three history books cannot verify present-day events.

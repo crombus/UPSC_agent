@@ -4,7 +4,7 @@
 > **Core area:** International economic institutions.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.*
+> *Companion: `../basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.*
 
 ---
 
@@ -38,6 +38,7 @@ governance and conditionality rather than grouping all external finance together
 | ✅ **ADB** | Regional development bank focused on Asia and the Pacific. |
 | ✅ **AIIB** | Multilateral development bank with infrastructure and related development focus. |
 | ✅ **NDB** | BRICS-founded multilateral development bank financing infrastructure and sustainable development. |
+| ✅ **SDR** | IMF-created international reserve asset valued from a currency basket, not a retail currency or an IMF loan. |
 
 ## 3. Detailed transmission
 
@@ -105,6 +106,8 @@ automatically guarantee additional, well-appraised or debt-sustainable investmen
   finance projects and development policy.
 - ✅ World Bank Group institutions have different mandates; the term World Bank commonly
   refers to IBRD and IDA.
+- ✅ SDRs supplement official reserves through IMF allocation; their existence does not make
+  a country solvent or replace external adjustment.
 - ✅ Voting power, quotas, capital contributions and governance arrangements differ across
   institutions.
 - ✅ Conditionality can protect programme credibility but raises ownership and social-impact
@@ -166,7 +169,7 @@ automatically guarantee additional, well-appraised or debt-sustainable investmen
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.
+- ✅ Foundation companion: `../basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.
 - ✅ `19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` — crisis finance and
   reserve adequacy.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — multilateral project

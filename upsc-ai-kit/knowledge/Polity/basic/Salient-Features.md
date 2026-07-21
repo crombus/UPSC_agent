@@ -11,7 +11,7 @@
 | Item | Detail |
 |---|---|
 | Original (1949) | ✅ Preamble + **395 Articles** + 22 Parts + **8 Schedules** |
-| Present | ✅ ~**470 Articles** + 25 Parts + **12 Schedules** |
+| Book's 2019 snapshot | ✅ ~**470 Articles** + 25 Parts + **12 Schedules**; exact article totals vary with counting of inserted/omitted provisions, so Parts/Schedules are safer |
 | Biggest source | ✅ **GoI Act 1935** |
 | Nickname of 42nd Amdt | ✅ "**Mini-Constitution**" |
 

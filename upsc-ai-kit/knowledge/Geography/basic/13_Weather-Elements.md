@@ -16,7 +16,7 @@
 | ✅ Insolation | Incoming solar radiation received at surface | Maximum with vertical sun; modified by latitude, cloud, aspect and altitude |
 | ✅ Pressure | Weight of air column; thermal + dynamic causes | Air moves from high to low pressure |
 | ✅ Wind | Horizontal movement of air | Deflected by Coriolis/Ferrel's law |
-| ✅ Humidity | Water vapour in air | Absolute vs relative humidity; dew point at saturation |
+| ✅ Humidity | Water vapour in air | Absolute/specific vs relative humidity; dew point is the saturation temperature |
 | ✅ Rainfall | Condensation and precipitation | Convectional, orographic and cyclonic/frontal |
 
 ## 2. Heat budget and pressure belts
@@ -30,7 +30,8 @@
 | ✅ Sub-polar Low | 60–65 deg; dynamic low | Air converges/ascends | Stormy/frontal belt |
 | ✅ Polar High | Poles; thermal high | Cold dense air descends | Source of polar easterlies |
 
-> 🔑 Trap: Pressure belts shift about 5 deg north/south seasonally with the apparent movement of the sun; they are not fixed lines.
+> 🔑 Trap: Pressure belts migrate north/south with the seasonal heating pattern, but the displacement is
+> not a uniform 5° everywhere and is strongly distorted over continents.
 
 ## 3. Planetary winds and rainfall types
 
@@ -48,7 +49,10 @@
 
 ## 4. Humidity and clouds
 
-✅ Absolute humidity is the actual mass of water vapour per volume of air. ✅ Relative humidity is the ratio of actual moisture to the maximum the air can hold at that temperature. ✅ Warm air holds more moisture. ✅ At 100% relative humidity, air reaches dew point; further cooling causes condensation into dew, frost, fog, mist or clouds.
+✅ Absolute humidity is water-vapour mass per unit volume. ✅ Relative humidity is the ratio of actual
+vapour pressure to saturation vapour pressure at the same temperature. ✅ Warm air has a higher
+saturation vapour pressure. At 100% RH the air is saturated; cooling below the dew point permits
+condensation or deposition if suitable surfaces/nuclei are present.
 
 | Cloud family | Height/form | Exam association |
 |---|---|---|
@@ -126,13 +130,17 @@
 
 ## 6. 📰 Current link
 
-### CA Anchor — India's 2026 Heatwave: Heat Dome, Loo Winds & Anticyclonic Subsidence
+### CA Anchor — Heatwaves, Loo Winds & Anticyclonic Subsidence
 
-📰 **News trigger:** May–June 2026: India recorded extreme heat (Sri Ganganagar, Rajasthan touched ~48.2 deg C; IMD flagged 97 of the world's 100 hottest cities in India). A persistent "heat dome" high-pressure system trapped hot air over the Indo-Gangetic plains; peak power demand hit a record 270.82 GW.
+📰 **News trigger:** Recurrent pre-monsoon heatwaves keep the pressure-wind chain current. Use IMD's
+dated station observations and heatwave bulletins rather than viral “world's hottest cities” rankings.
 
-✅ The 2026 heatwave is a textbook real-world case of the static pressure-and-wind concepts: an anticyclone (high pressure) causes subsidence (descending, compressed, warming air), suppresses cloud formation, weakens winds and blocks cooling western disturbances — a "heat dome".
+✅ A persistent anticyclonic ridge can cause subsidence, adiabatic warming and suppressed cloud
+development—a mechanism often described as a heat dome. Not every heatwave has the same circulation pattern.
 
-✅ IMD heatwave criteria (plains): max temp >=40 deg C AND departure of 4.5–6.4 deg C above normal, OR absolute max >=45 deg C. ✅ Severe heat wave: departure >6.4 deg C or actual max >=47 deg C.
+✅ IMD criteria vary by plains, hills and coasts. For plains, a heatwave is considered only after the
+maximum reaches at least 40°C, then departure-from-normal or actual-temperature thresholds are applied;
+always quote the current IMD criterion and bulletin date.
 
 | Driver | Mechanism (links to static concept) | Impact |
 |---|---|---|
@@ -141,17 +149,17 @@
 | ✅ Weak Western Disturbances | Fewer moisture-bearing systems → no relief rain | Prolonged dry heat spell |
 | ✅ Urban Heat Island | Concrete + low green cover retains heat | Cities hotter than surrounding rural areas |
 
-- ✅ Loo = hot, dry, gusty afternoon wind blowing over NW India (Rajasthan, Punjab, Haryana, UP) in May–June; caused by a steep pressure gradient (~1.0–1.5 mb per degree latitude — D.R. Khullar) as NW India heats intensely.
+- ✅ Loo = hot, dry, gusty afternoon wind over north-western and northern plains in May–June; intense
+  continental heating and pressure gradients sustain it.
 - ✅ Anticyclone / Heat Dome: a high-pressure system with descending and diverging air; subsidence compresses and warms air adiabatically, prevents convection and cloud formation — hence clear skies and intense surface heating.
 - ✅ IMD colour-coded alerts: Green (no action) → Yellow (watch) → Orange (be prepared) → Red (take action).
 
 ### Current-link Must-Know Facts
 
-- ✅ IMD plains heatwave threshold: max >=40 deg C with departure 4.5–6.4 deg C, or absolute >=45 deg C; severe if >=47 deg C.
+- ✅ Heatwave thresholds are terrain-specific; cite the current IMD bulletin rather than one decontextualised number.
 - ✅ Loo is a local wind (thermally induced), not a planetary wind; blows strongest 3–6 pm, May–June.
 - ✅ Heat dome = anticyclonic subsidence → exactly the sub-tropical high pressure mechanism that creates deserts.
-- ✅ Record peak power demand 2026: 270.82 GW (grid stress from cooling load).
-- ✅ Night-time minimum temperatures rising ~0.21 deg C/decade (IMD) — reduces overnight recovery, worsens health impact.
+- ⚠️ High night-time minima reduce physiological recovery; power demand rises with cooling load.
 
 ### Current-link Traps
 
@@ -161,7 +169,7 @@
 ## 7. Mains angles
 
 - Explain how differential heating sets up global pressure and wind systems, and how seasonal migration of pressure belts governs the Indian monsoon.
-- The 2026 heat dome shows how persistent anticyclonic subsidence can convert normal summer heat into disaster; link atmospheric subsidence, urban heat islands and Heat Action Plans.
+- Persistent anticyclonic subsidence can amplify summer heat; link atmospheric circulation, urban heat islands and Heat Action Plans.
 
 ## 8. Study link
 

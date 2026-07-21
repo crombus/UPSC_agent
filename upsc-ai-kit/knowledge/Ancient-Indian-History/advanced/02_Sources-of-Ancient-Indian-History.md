@@ -14,7 +14,7 @@
 | ✅ Textual memory | 2nd–1st millennia BC onward | Vedic corpus, epics, Puranas, heterodox texts |
 | ✅ Archaeology-led reconstruction | prehistory–Harappan | material remains dominate where texts are absent |
 | ✅ Epigraphic age | 3rd c. BC onward | Ashokan inscriptions and later donative/copper-plate records |
-| 📰 Digital epigraphy | 2025–26 | estampage digitisation, ASI surveys, new inscriptions |
+| ⚠️ Digital epigraphy | 21st c. | Estampage digitisation, surveys and searchable inscription corpora |
 
 ## 1. Snapshot & core idea
 
@@ -31,6 +31,8 @@
 - ✅ The Mahabharata/Ramayana and Puranas need attention to stratification, redaction and genre.
 - ✅ Inscriptions and coins are closer to political-economic data but still selective and elite.
 - ⚠️ The best answers use triangulation: text claim + material correlate + chronological caution.
+- ✅ Archaeological interpretation depends on **provenance, stratigraphy, association and recovery method**. Vertical trenches clarify sequence; wide horizontal exposure better reveals settlement layout.
+- ✅ Scientific techniques—radiocarbon dating, archaeobotany, archaeozoology, metallurgy and ancient DNA—answer different questions and carry different margins of uncertainty.
 
 ## 2. Key classification / data
 
@@ -69,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Gundaram inscriptions, Telangana (2025):** newly reported Prakrit/Brahmi and later inscriptions illuminate Satavahana-Chutu links and religious iconography — a live example of how one epigraphic find can revise political and cultural micro-history.
+⚠️ **Current-link discipline:** A newly reported inscription should be cited only after publication or an official epigraphy notice. The safe linkage is that one securely read inscription can revise local political and cultural micro-history.
 
 ## 7. Mains angles
 

@@ -3,8 +3,9 @@
 > **Subject:** Indian Society | **Tier:** Advanced | **GS Paper:** GS-I.
 > **Core area:** Diversity-marginality correlation theory, recognition-versus-redistribution
 > trade-off, and boundary cases where diversity and disadvantage do or do not coincide.
-> **Grounded in:** Census of India (2011); Ministry of Tribal Affairs; audited 2024 GS-I
-> Mains PYQ; cross-cutting-cleavage theory (Lipset-Rokkan tradition).
+> **Grounded in:** Census of India (2011); Census 2027 Gazette/PIB announcement; Ministry
+> of Tribal Affairs; audited 2024 GS-I Mains PYQ; cross-cutting-cleavage theory
+> (Lipset-Rokkan tradition).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/01_Salient-Features-and-Diversity-of-Indian-Society.md`.*
 
@@ -13,7 +14,7 @@
 ## 1. Architecture
 
 ```text
-IDENTITY AXES: race, language, religion, region, caste/tribe
+IDENTITY AXES: ethnicity, language, religion, region, caste/tribe
         |
    -----+------------------------
    |                            |
@@ -56,11 +57,11 @@ correlation the PYQ asks students to interrogate is real but conditional, not un
 | ✅ **Reinforcing cleavage** | Multiple disadvantages (remoteness, low literacy, minority status, poverty) stack on the same group, producing compounded exclusion rather than ordinary diversity. |
 | ⚠️ **Recognition versus redistribution** (Nancy Fraser's distinction, used analytically) | Recognition addresses disrespect for identity and culture; redistribution addresses unequal resources and opportunity — a group may need one, the other, or both, and policy that supplies only recognition (symbolic respect) without redistribution (resources) leaves marginality unresolved. |
 | ⚠️ **Correlation versus causation** | Diversity correlating with marginality in specific cases does not mean diversity causes marginality; historical exclusion, geographic remoteness and asset-poverty are the causal drivers, and diversity is often the visible marker, not the mechanism. |
-| ⚠️ **Composite culture versus multiculturalism** | Composite culture (India's syncretic, interactive model) differs from Western multiculturalism's "separate but tolerated" model — Indian diversity has historically fused practices rather than merely permitting parallel co-existence, though this fusion is uneven across regions. |
+| ⚠️ **Composite culture versus multiculturalism** | “Composite culture” describes interwoven practices and shared cultural production in particular Indian settings. Multiculturalism is a family of theories and institutions for managing difference, not simply “separate but tolerated”; neither label proves uniform social mixing across regions. |
 
 ## 3. Detailed causal chain: from diversity to marginality (or not)
 
-1. **Identity endowment:** a group's location on race, language, religion, region and
+1. **Identity endowment:** a group's location on ethnicity, language, religion, region and
    caste/tribe axes is largely inherited, not chosen.
 2. **Historical exclusion layer:** ✅ some groups faced cumulative historical exclusion —
    Scheduled Tribes from mainstream land and market access, Scheduled Castes from ritual
@@ -122,14 +123,16 @@ correlation the PYQ asks students to interrogate is real but conditional, not un
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ India recognises four major language families (Indo-Aryan, Dravidian, Austroasiatic,
-  Tibeto-Burman); the Eighth Schedule currently lists 22 languages.
+- ✅ Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language
+  families commonly used in UPSC texts; that shorthand is not an exhaustive taxonomy. The
+  Eighth Schedule currently lists 22 languages.
 - ✅ Census 2011 recorded 121 rationalised languages spoken by 10,000 or more persons, from
   over 19,500 raw mother-tongue returns — evidence of the scale of linguistic diversity.
 - ✅ Scheduled Tribes were about 8.6% and Scheduled Castes about 16.6% of the population at
   Census 2011 (last full Census).
-- ✅ Census 2027 will, for the first time, include a caste-enumeration question, with
-  reference dates of 1 March 2027 (most of India) and 1 October 2026 (snow-bound areas).
+- ✅ The Government has announced caste enumeration in Census 2027. Gazette S.O. 2681(E)
+  fixes reference dates of 1 March 2027 (most of India) and 1 October 2026 (specified
+  snow-bound areas); this is not the first caste enumeration in Indian history.
 - ⚠️ Recognition-redistribution as a named analytical pair (Fraser's framework, used here as
   an analytical lens, not a constitutional doctrine) helps structure any answer distinguishing
   symbolic from substantive responses to diversity-linked marginality.
@@ -146,14 +149,15 @@ correlation the PYQ asks students to interrogate is real but conditional, not un
   vary sharply by region, urban-rural location and asset base; uniform claims flatten real
   variation and are a common Mains overreach.
 - ❌ Census 2027's caste enumeration has already produced data on caste-linked deprivation.
-  -> No enumeration has occurred as of 17 July 2026; the exercise is prospective and no
-  results exist to cite.
+  -> The exercise remains prospective as of 21 July 2026; no results exist to cite. Do not
+  also mistake it for India's first historical caste count.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Census 2027 remains prospective: two-phase, digital, with caste enumeration for the
-  first time, reference dates 1 March 2027 (most of India) and 1 October 2026 (snow-bound
-  areas). Any Mains answer must state this as a forthcoming exercise, not a data source.
+- 📰 Census 2027 remains prospective: the Gazette fixes reference dates of 1 October 2026
+  for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere; PIB announced caste
+  enumeration. Any Mains answer must state this as a forthcoming operation, not a data
+  source, and must not call it the first caste enumeration in Indian history.
 
 ## 10. PYQ-based analytical application
 

@@ -12,7 +12,7 @@
 | Date | Event |
 |---|---|
 | ✅ 30 Dec. 1530 | Humayun's accession |
-| ✅ 1531-32 | Kalinjar/Chunar/Dadrah phase; early Afghan management |
+| ⚠️ 1531–32 | Kalinjar/Chunar/Dadrah-Daurah phase; contemporary chronologies differ |
 | ✅ 1533-34 | Humayun builds Din Panah at Delhi |
 | ✅ 1535 | Malwa-Gujarat campaign; Mandu, Champaner and Ahmadabad taken |
 | ✅ 1537-38 | Chunar siege and eastern campaign |
@@ -35,6 +35,7 @@
 
 - ✅ Sher Khan had virtual control of Bihar, had defeated Bengal at Surajgarh, and captured Gaur; he was no longer a mere subordinate sardar.
 - ✅ Part II stresses Humayun's underestimation of the Afghan challenge: scattered Afghan tribes and sardars could still unite under a capable leader.
+- ✅ Part II explicitly flags a source problem: Nizamuddin Ahmad dates Dadrah/Daurah to 1531 and omits Chunar from that sequence, whereas the reconstruction used by Chandra places the decisive Afghan encounter late in 1532.
 - ✅ Chausa exposed poor generalship: Humayun placed the river Karmnasa at his back and allowed Sher Khan to surprise him.
 - ✅ Kanauj was bitterly fought, but without Kamran's hardened troops, Humayun's hastily assembled army was no match.
 
@@ -75,7 +76,7 @@
 
 ## 6. 📰 Current link
 
-- 📰 **ASI clarification after 2025 collapse near Humayun's Tomb** — The Hindu/HT reported ASI saying the tomb and museum were in "perfect condition" after an adjacent unprotected dargah incident; relevance: separates protected Mughal heritage from surrounding urban religious spaces.
+📰 **Current linkage (verify live before use):** Incidents near Humayun's Tomb must be reported with precise site boundaries and protection status. Use ASI's latest clarification rather than conflating the protected tomb with adjacent structures.
 
 ## 7. Mains angles
 
@@ -86,4 +87,3 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ Part II rehabilitates Humayun from moralising accounts: faults existed, but the decisive explanation is the mismatch between imperial ambition and Mughal institutional depth.
-

@@ -1,7 +1,7 @@
 # The Revolt of 1857 — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* (Ch. VIII) + *India's Struggle for Independence* (backdrop) — with the historiographical debate on 1857.
+> **Grounded in:** Bipan Chandra, *Modern India* (Ch. VIII) + *India's Struggle for Independence* (Chs. 1–2), cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partition* — with the historiographical debate on 1857.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/11_The-Revolt-of-1857.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -26,6 +26,7 @@
 - ✅ The revolt's political idiom often looked backward to Mughal legitimacy, old rulers and local rights, but its target was the new colonial order created by annexation, revenue extraction and social intrusion.
 - ✅ Awadh was central because annexation in 1856 hurt the taluqdars, court dependants, soldiers and peasants; many Bengal Army sepoys also came from this region.
 - ⚠️ The movement lacked a modern national programme, but it created a powerful memory of anti-colonial resistance later used by nationalists.
+- ✅ Chandra's prehistory matters: recurrent **civil rebellions** and **tribal uprisings** before 1857 shared conditions of dispossession and intrusive rule but remained local and isolated. Their existence disproves "passive acceptance" without turning them into one continuous national conspiracy.
 
 **Deeper — the nature debate matters for UPSC answers.**
 
@@ -44,6 +45,7 @@
 | ⚠️ S.B. Chaudhuri | Civil rebellion alongside sepoy revolt | Needs region-wise evidence |
 | ⚠️ Eric Stokes / subaltern lens | Peasant and local society shaped the revolt | Not every region followed the same pattern |
 | ✅ Bipin Chandra synthesis | Sepoy revolt plus popular discontent; not fully nationalist | Best balanced GS-1 framing |
+| ✅ Prehistory lens | Sanyasi/Chuar, Kol, Santhal and other uprisings reveal recurring resistance | Common colonial pressures did not create common organisation or ideology |
 
 ## 3. Study links
 
@@ -58,6 +60,7 @@
 - ✅ **Meerut (10 May 1857)** was the main outbreak; **Delhi** became the symbolic centre under Bahadur Shah Zafar.
 - ✅ **Delhi — Bakht Khan; Kanpur — Nana Saheb/Tantia Tope; Awadh — Begum Hazrat Mahal; Jhansi — Rani Lakshmibai; Bihar — Kunwar Singh**.
 - ✅ **Government of India Act 1858** abolished Company rule and began direct Crown rule.
+- ✅ **Santhal Hool (1855–56)** was a massive anti-*diku* and anti-colonial tribal uprising under Sidhu and Kanhu; it must be distinguished from 1857.
 - ⚠️ Use the phrase **"sepoy revolt with wide civil rebellion in several regions"** for balanced answers.
 
 ## 5. UPSC Traps

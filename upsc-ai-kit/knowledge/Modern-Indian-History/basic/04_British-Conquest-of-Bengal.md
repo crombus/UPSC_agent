@@ -27,7 +27,7 @@
 
 - ✅ Bengal was one of the richest Mughal provinces, with fertile agriculture, textile production and active trade.
 - ✅ Murshid Quli Khan, Alivardi Khan and Siraj-ud-Daula made Bengal autonomous in practice while still linked to Mughal legitimacy.
-- ✅ Conflict grew from Company misuse of **dastaks** and the **1717 farman**, private trade by Company servants, and unauthorised fortification of Calcutta.
+- ✅ The **1717 farman** granted the Company customs privileges for its own trade in return for an annual payment; conflict grew when Company servants extended **dastaks** to private trade, injured Bengal's revenue and Indian merchants, and fortified Calcutta without permission.
 - ⚠️ The "Black Hole" episode is historically contested and should not be used as the main cause of conquest.
 
 **Foundation — Plassey was a coup; Buxar was the decisive military victory.**
@@ -64,7 +64,7 @@
 - ✅ **Buxar (22 Oct 1764)**: Hector Munro defeated **Mir Qasim + Shuja-ud-Daula + Shah Alam II**.
 - ✅ **Treaty of Allahabad (1765)**: Company got **Diwani of Bengal, Bihar and Orissa**.
 - ✅ **Dual Government** lasted from **1765 to 1772** and was ended by **Warren Hastings**.
-- ✅ **Bengal Famine of 1770** occurred during the period of Company revenue dominance.
+- ✅ **Bengal Famine of 1770** occurred amid crop failure, epidemic and Company revenue dominance; avoid reducing a complex catastrophe to one cause while ignoring the extractive administrative setting.
 
 ## 5. UPSC Traps
 

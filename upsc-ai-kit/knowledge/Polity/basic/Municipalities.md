@@ -13,7 +13,7 @@
 
 ## Core idea
 The 74th Amendment gave **constitutional status** to **urban local bodies (ULBs)** — mirroring the 73rd for
-villages. Three types of municipality by area size, with directly elected wards, reservations, a 5-year term,
+villages. Three types of municipality by area size, with directly elected territorial seats, reservations, a 5-year term,
 and district/metropolitan planning committees.
 
 > 🔑 **"Nagar–Council–Corporation = Transitional–Smaller–Larger"** (increasing size).
@@ -21,7 +21,9 @@ and district/metropolitan planning committees.
 
 ## Must-Know Facts
 - ✅ **3 types**: Nagar Panchayat (transitional), Municipal Council (small town), Municipal Corporation (big city).
-- ✅ All members **directly elected** from **wards**; **Wards Committees** where population **≥ 3 lakh**.
+- ✅ All **territorial seats** are directly elected from wards; state law may also
+  provide representation for experts (without voting rights) and specified MPs/MLAs/
+  committee chairpersons. **Wards Committees** are required where population ≥3 lakh.
 - ✅ Reservation: SC/ST by population + **≥ 1/3 for women**.
 - ✅ **5-year term**; election within **6 months** of dissolution; min candidate age **21**.
 - ✅ **State Election Commission** conducts polls; **State Finance Commission** reviews finances.

@@ -74,6 +74,7 @@
 - ✅ **Mahzar (1579)** was an attested statement, not a blanket claim to papal-style infallibility.
 - ✅ **Tauhid-i-Ilahi** = Abul Fazl's phrase for Divine Monotheism; **Din-i-Ilahi** is more associated with Badayuni/Jesuit criticism.
 - ✅ Initiation involved **shast** and formulas such as **Allah-o-Akbar** / **Jall Jalalhu**.
+- ✅ The reform sequence matters: pilgrim tax was remitted in **1563** and jizyah abolished in **1564**, well before the Ibadat Khana debates.
 - ✅ Discipleship aimed to overcome sectarian quarrels and bind nobles to the emperor.
 - ✅ Satish Chandra's interpretation: Tauhid-i-Ilahi = political device for a liberal composite polity.
 
@@ -88,7 +89,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Secularism debate in India (Vision IAS, 14 July 2025):** the current-affairs discussion on secularism as implicit from the Constitution's beginning and explicit after 1976 revives questions of state neutrality and equal respect. **Relevance:** Akbar's sulh-i-kul is a medieval precedent for governing a plural society without privileging sectarian conflict.
+📰 **Current linkage (verify live before use):** *Sulh-i-kul* may illuminate the historical governance of plurality, but it was not modern constitutional secularism. Verify any current constitutional case or debate independently and avoid anachronistic equivalence.
 
 ## 7. Mains angles
 

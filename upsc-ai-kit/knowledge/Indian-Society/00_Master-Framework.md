@@ -81,8 +81,8 @@ disruptive; its outcome depends on who gains voice, resources and security.
 
 | Source | Use | Limitation |
 |---|---|---|
-| Census | population composition and broad coverage | infrequent; Census 2027 has no results yet |
-| NFHS | household, fertility and agency outcomes | survey timing and self-reporting |
+| Census | population composition and broad coverage | Census 2011 is the last completed full count; Census 2027 has no results as of 21 July 2026 |
+| NFHS | household, fertility and agency outcomes | survey timing and self-reporting; NFHS-5 (2019-21) is the latest released national round |
 | PLFS | work-status pattern | labour measure, not full social wellbeing |
 | NITI reports | composite development comparison | index is not lived experience alone |
 | Administrative data | programme/process signals | excludes non-users and can be volatile |
@@ -100,9 +100,11 @@ disruptive; its outcome depends on who gains voice, resources and security.
 2. Define the phenomenon and distinguish it from its nearest concept.
 3. Explain a causal mechanism, not a list of symptoms.
 4. Use the exact relevant PYQ or dated anchor.
-5. Separate policy/design from social practice/outcome.
-6. Diagnose a norm, access, voice, integration or measurement gap.
-7. Recommend a feasible, rights-sensitive and measurable response.
+5. Name whether evidence is a Census stock, a survey estimate or administrative data; do not
+   infer causation from correlation.
+6. Separate policy/design from social practice/outcome.
+7. Diagnose a norm, access, voice, integration or measurement gap.
+8. Recommend a feasible, rights-sensitive and measurable response.
 
 ## 9. Study sequence
 

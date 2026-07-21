@@ -1,7 +1,7 @@
 # Special Provisions for Some States (Articles 370–371-J, Part XXI) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 37 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 37 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Special-Provisions.md`.*
 
@@ -15,10 +15,11 @@ added by a 1954 Presidential Order, on permanent residents/property).
 inoperative; the **J&K Reorganisation Act 2019** split the state into **two UTs — J&K (with legislature) &
 Ladakh (without)** w.e.f. **31 Oct 2019**.
 📰 ⚠️ **SC verdict — *In Re Article 370* (11 Dec 2023):** unanimously **upheld** the abrogation; held Art 370 was
-**temporary** and J&K retained **no internal sovereignty**; directed **restoration of statehood "at the
-earliest"** and **Assembly elections by Sept 2024**.
-📰 ✅ **Latest (verified 2026):** Assembly elections **held Sept–Oct 2024** (90-member Assembly constituted);
-**statehood NOT yet restored** — petitions still pending in the SC.
+**temporary** and J&K retained **no internal sovereignty**; directed **Assembly elections by Sept
+2024** and recorded the Union's assurance that statehood would be restored **"at the earliest"**,
+without fixing a judicial statehood deadline.
+📰 ✅ **Status 21 Jul 2026:** Assembly elections were held Sept–Oct 2024 (90-member
+Assembly constituted); statehood has not been restored.
 
 ---
 
@@ -58,8 +59,9 @@ Assam, Meghalaya, Tripura, Mizoram) and **Fifth Schedule** (scheduled areas).
 - ❌ Sixth Schedule = Art 371 → different mechanisms (Sixth Schedule = autonomous district councils).
 
 ## 📰 CA hooks
-- 📰 ✅ **J&K statehood restoration** pending post the 2024 Assembly elections — SC monitoring; live federalism +
-  Art 370 aftermath issue *(verified 2026)*.
+- 📰 ✅ **J&K statehood restoration** remains an unfulfilled Union assurance after the
+  2024 Assembly elections; do not describe it as already enacted or as subject to a deadline
+  imposed by the 2023 judgment.
 - 📰 ⚠️ **Ladakh's demand for Sixth Schedule status / statehood** — recurring protests (Leh/Kargil).
 - 📰 ⚠️ Debates on extending special protections (e.g. Art 371-type safeguards) to other regions.
 

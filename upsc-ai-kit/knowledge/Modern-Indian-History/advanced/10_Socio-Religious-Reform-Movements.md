@@ -1,7 +1,7 @@
 # Socio-Religious Reform Movements — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* (Ch. VII/XIII) + *India's Struggle for Independence* (social roots of nationalism) — with historiography on reform, revival and colonial modernity.
+> **Grounded in:** Bipan Chandra, *Modern India* (Chs. VII/XIII), cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partition* — with historiography on reform, revival, caste and colonial modernity.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/10_Socio-Religious-Reform-Movements.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -34,6 +34,7 @@
 - ✅ Ramakrishna-Vivekananda placed spiritual universalism and service at the centre; Vivekananda's Chicago address in 1893 helped convert spiritual confidence into national self-respect.
 - ✅ Muslim responses ranged from Syed Ahmad Khan's Aligarh modernism to Deoband's orthodox educational reform; both addressed the crisis of Muslim society after 1857 by different routes.
 - ⚠️ Anti-caste reformers such as Phule and Sri Narayana Guru questioned whether upper-caste reform adequately addressed social oppression; this became a major critique of the "renaissance" narrative.
+- ⚠️ Women's history adds another correction: women were not only objects of sati, widowhood or education reform. **Savitribai Phule** and **Pandita Ramabai** were intellectual and organisational actors, while reforms could also recast women as symbols of community honour and respectability.
 
 ## 2. Key classification / data
 
@@ -50,7 +51,7 @@
 
 > **Study link:** ✅ Education, press and social policy background → `advanced/09_Social-and-Cultural-Policy-Education-Press.md`.
 > **Study link:** ⚠️ Reform associations trained the early public sphere that fed the INC → `advanced/14_Foundation-of-INC-and-Moderate-Phase.md`.
-> **Study link:** ⚠️ Anti-caste and social justice lines continue into constitutional equality and post-colonial democracy → `advanced/28_Integration-of-Princely-States.md`.
+> **Study link:** ⚠️ Anti-caste and gender lines continue into constitutional equality and post-colonial democracy → `advanced/29_Colonial-Legacy-and-Foundations-of-the-Republic.md` and `advanced/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md`.
 
 ## 4. Must-Know Facts (Prelims)
 
@@ -60,6 +61,7 @@
 - ✅ **Arya Samaj**: Dayananda Saraswati, 1875, *Satyarth Prakash*, shuddhi, DAV schools, anti-idolatry.
 - ✅ **Theosophical Society**: Blavatsky and Olcott (1875), Adyar headquarters (1882), Annie Besant later linked it to Indian public life.
 - ✅ **Phule**: Satyashodhak Samaj (1873), *Gulamgiri*, critique of Brahmanical caste hierarchy.
+- ✅ **Savitribai Phule**: pioneering girls' education and anti-caste work; **Pandita Ramabai**: women's education and a critique that cannot be reduced to male-led social legislation.
 
 ## 5. UPSC Traps
 

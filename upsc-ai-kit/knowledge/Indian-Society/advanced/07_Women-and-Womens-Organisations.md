@@ -4,8 +4,9 @@
 > (detailed legal/scheme treatment in Social-Justice).
 > **Core area:** Intersectionality within the women's movement, the trichotomy's causal
 > architecture, and boundary cases where organisational form determines empowerment outcome.
-> **Grounded in:** AIWC (1927); NFIW; SEWA; SHG-federation social-capital theory; NFHS-6
-> (2023-24, released 29 May 2026); audited 2024 GS-I Mains PYQ.
+> **Grounded in:** Women's Indian Association; AIWC (1927); NFIW; SEWA; SHG-federation
+> social-capital theory; NFHS-5 (2019-21, latest released national round as checked 21 July
+> 2026); audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/07_Women-and-Womens-Organisations.md`.*
 
@@ -14,8 +15,8 @@
 ## 1. Architecture
 
 ```text
-ORGANISATIONAL WAVES
-Social-reform (elite advocacy) -> AIWC 1927 (formal national body)
+ORGANISATIONAL FORMS
+Social-reform (elite advocacy) -> WIA/AIWC (early national bodies)
 -> NFIW (post-Independence rights/wage) -> SEWA (informal-sector
 trade union) -> SHG federations (grassroots savings/credit capital)
         |
@@ -25,42 +26,35 @@ Dalit/tribal/class-based women's organisations assert
 distinct agendas not fully centred by mainstream bodies
         |
         v
-TRICHOTOMY CAUSAL CHAIN (2024 PYQ)
-EQUALITY (Art 14-16 baseline)
-   |
-   v
-EQUITY (differentiated instrument: SHG credit,
-        SEWA collective bargaining, maternity support)
-   |
-   v
-EMPOWERMENT (measured outcome: NFHS agency
-             indicators, workforce participation,
-             political voice)
+ANALYTICAL TRIAD (2024 PYQ)
+EQUALITY (rights/status baseline) + EQUITY
+(context-responsive instruments: credit, collective
+bargaining, care support) -> EMPOWERMENT
+(agency, capability and voice; not proved by coverage)
 ```
 
-**Analytical claim:** ⚠️ The women's movement's organisational history is not a single
-linear progression but a layered one: mainstream national organisations (AIWC, NFIW)
-established the equality-and-rights baseline, while economically focused organisations
-(SEWA, SHG federations) supplied the equity instruments that convert formal equality into
-measurable empowerment — and this layered reading directly explains why the 2024 PYQ treats
-equality, equity and empowerment as sequential rather than interchangeable terms.
+**Analytical claim:** ⚠️ The women's movement's organisational history is layered rather than
+linear: early national bodies, rights organisations, labour organisations and SHG federations
+work through different mechanisms. This helps answer the 2024 PYQ, but equality, equity and
+empowerment are related concepts rather than a fixed sequence: programme coverage or formal
+rights cannot by themselves establish agency.
 
 ## 2. Concepts and distinctions
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Rights-based organisation vs economic-organisation model** | AIWC and NFIW historically organised around legal-rights advocacy (reform of personal law, wage rights); SEWA and SHG federations organise around direct economic participation (credit, collective bargaining, livelihood) — both are necessary, but they operate through different mechanisms and cannot substitute for each other. |
+| ✅ **Rights-based organisation vs economic-organisation model** | AIWC and NFIW have organised around legal-rights advocacy; SEWA and SHG federations organise around economic participation, credit, collective bargaining and livelihood. Earlier bodies such as the Women's Indian Association show that AIWC was important but not the first organisational beginning. |
 | ⚠️ **Intersectionality vs universal sisterhood framing** | Universal-sisterhood framing treats "women" as a single analytical category; intersectionality (as raised by Dalit and tribal women's organisations) argues caste, class and religion shape women's experience differently, so a policy or organisational strategy effective for urban middle-class women may not address a Dalit agricultural labourer's specific constraints. |
-| ✅ **Gender equality vs gender equity vs women's empowerment** | Equality is the constitutional/legal baseline of identical treatment; equity is the differentiated-instrument layer compensating for structural disadvantage; empowerment is the measured outcome (agency, voice, capability) — treating these as synonyms is the single most common trap in any answer on this trichotomy. |
+| ✅ **Gender equality vs gender equity vs women's empowerment** | Equality concerns equal rights, status and opportunity; equity uses context-responsive means to address unequal constraints; empowerment is expanded agency, capability and voice. They interact, but no coverage statistic or legal rule alone proves empowerment. |
 | ⚠️ **Social capital theory (bonding/bridging/linking) applied to SHGs** | Bonding capital (trust within the SHG) enables initial savings mobilisation; bridging capital (links across SHGs/federations) enables scale and market access; linking capital (ties to banks, government schemes) enables credit and formal-system access — SHG empowerment succeeds only when all three levels function together (full mechanism in `Governance/advanced/04`, not repeated here). |
 | ⚠️ **Formal organisational membership vs substantive voice** | Membership in a women's organisation or SHG does not automatically confer decision-making voice within the household or community; substantive voice requires the organisation to translate economic participation into recognised authority, which varies widely by context. |
 
 ## 3. Detailed causal chain
 
 ### Organisational-layering chain
-1. AIWC (1927) established a formal national platform for women's legal and educational
-   advocacy, embedding the equality principle into nationalist and later constitutional
-   discourse.
+1. Early national bodies, including the Women's Indian Association and AIWC (1927), built
+   platforms for women's educational, franchise and legal-reform advocacy; this was not a
+   single-origin movement.
 2. NFIW extended this into post-Independence wage and anti-dowry mobilisation, pushing
    equity-oriented legal reform.
 3. SEWA (from the 1970s) shifted the organisational centre of gravity toward direct economic
@@ -68,12 +62,12 @@ equality, equity and empowerment as sequential rather than interchangeable terms
    not only a legal one.
 4. SHG federations (from the 1990s) scaled this economic-equity model to a mass, grassroots
    level via savings-and-credit social capital.
-5. ⚠️ Empowerment outcomes (NFHS-6 indicators: bank-account ownership 89.0%, internet use
-   64.3%) are the accumulated, though still partial, result of this organisational layering,
-   not of any single wave alone.
+5. ⚠️ Dated NFHS-5 access indicators can illuminate financial and digital reach, but cannot
+   be causally attributed to organisational history or treated as measures of decision-making
+   agency.
 
 ### Trichotomy causal chain (2024 PYQ)
-1. Constitutional equality (Art 14, Art 15(3)) provides the legal baseline.
+1. Constitutional equality and enabling provisions provide a legal baseline.
 2. Structural disadvantage (time poverty, care burden, mobility constraints, asset
    exclusion) persists despite formal equality.
 3. Equity instruments (SHG credit, SEWA collective bargaining, maternity support,
@@ -127,12 +121,13 @@ equality, equity and empowerment as sequential rather than interchangeable terms
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ AIWC (1927) is the earliest major sustained national women's organisation in India,
-  originally focused on women's education.
+- ✅ AIWC (1927) is an influential pan-Indian women's organisation originally focused on
+  education; it followed earlier bodies such as the Women's Indian Association.
 - ✅ SEWA, founded in Gujarat, is registered as a trade union of self-employed women workers,
   distinct in form from an SHG federation.
-- ✅ NFHS-6 (2023-24), released 29 May 2026, recorded women's bank-account ownership at
-  89.0% (up from lower NFHS-5 levels) and ever-internet-use at 64.3%.
+- ✅ NFHS-5 (2019-21) recorded 78.6% of women aged 15-49 with a bank/savings account they
+  themselves used and 33.3% ever using the internet. These are dated access measures, not
+  evidence that women control resources or decisions.
 - ⚠️ The bonding-bridging-linking social-capital typology is the standard analytical
   framework for evaluating SHG-federation effectiveness.
 - ⚠️ Intersectionality theory (applied to Indian women's movement history) highlights that
@@ -157,10 +152,10 @@ equality, equity and empowerment as sequential rather than interchangeable terms
 
 ## 9. 📰 Current-anchor note
 
-- 📰 NFHS-6 (2023-24), released 29 May 2026, reported women's bank-account ownership at
-  89.0% and ever-internet-use at 64.3% — dated access indicators, useful as an empowerment
-  proxy but not proof of decision-making agency; NFHS-5 (2019-21) figures should not be
-  cited as current once NFHS-6 data is available for the same indicator.
+- 📰 NFHS-5 (2019-21), the latest released national NFHS round as checked on 21 July 2026,
+  recorded 78.6% of women aged 15-49 with an account they themselves used and 33.3% ever
+  using the internet. They are dated access indicators, useful but not proof of
+  decision-making agency; do not cite an unissued NFHS-6 result.
 
 ## 10. PYQ-based analytical application
 
@@ -176,14 +171,13 @@ equality, equity and empowerment as sequential rather than interchangeable terms
 
 ## 11. Mains-ready framework
 
-**Central thesis:** The equality-equity-empowerment trichotomy is not a set of
-interchangeable synonyms but a causal chain in which equality provides the legal baseline,
-equity supplies differentiated instruments addressing structural disadvantage, and
-empowerment is the resulting, only partially achieved, agency outcome — a chain whose real
-history is visible in the shift from rights-advocacy organisations (AIWC, NFIW) to
-economic-participation organisations (SEWA, SHG federations).
+**Central thesis:** Equality, equity and empowerment are not interchangeable: equality
+concerns equal rights/status, equity addresses unequal constraints and empowerment concerns
+agency. Women's organisations supply overlapping rights, labour and collective-action
+mechanisms, but a sound answer tests actual voice and intersectional reach rather than
+assuming that legal rights, membership or access coverage mechanically creates empowerment.
 
-1. Define equality, equity and empowerment precisely and sequentially.
+1. Define equality, equity and empowerment precisely and explain their interaction.
 2. Trace the organisational-layering history as empirical evidence for the chain.
 3. Apply the bonding-bridging-linking social-capital lens to SHG-federation effectiveness
    (cross-linked, not re-derived).

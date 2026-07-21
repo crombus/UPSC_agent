@@ -14,7 +14,7 @@
 | ✅ 1605 | Accession of **Jahangir** (Salim); early difficulties (Khusrau's revolt) |
 | ✅ 1611 | Jahangir marries **Nur Jahan** (Mihr-un-Nisa) |
 | ✅ 1615 | Mewar submits; **Sir Thomas Roe's** embassy (1615–19) |
-| ✅ 1620s | Rise of the **Nur Jahan "junta"**; Prince Khurram's (Shah Jahan) rebellion |
+| ⚠️ 1622–27 | Nur Jahan enters active high politics as Jahangir's health fails; the older fixed "junta" theory is disputed |
 | ✅ 1626 | **Mahabat Khan's** coup — seizes Jahangir briefly |
 | ✅ 1627 | Death of Jahangir |
 
@@ -25,20 +25,21 @@
 ✅ Jahangir inherited a **strong, stable empire** from Akbar and largely **continued Akbar's policies** (sulh-i-kul, broad-based nobility). His reign opened with **early difficulties** — the revolt of his son **Khusrau** (whom he crushed) — but he then achieved important consolidation.
 - ✅ **Mewar settled (1615):** the long Rajput conflict ended when **Rana Amar Singh** accepted Mughal suzerainty on generous, honourable terms — a diplomatic success.
 - ✅ Territorial gains/consolidation in **East India and Kangra**; continued pressure in the **Deccan** (checked by **Malik Ambar**).
-- ✅ **English contact:** Captain Hawkins and then **Sir Thomas Roe (1615–19)** sought trading rights at Jahangir's court — the beginning of formal English commercial presence.
+- ✅ **English contact:** Captain Hawkins and then **Sir Thomas Roe (1615–19)** sought trading privileges; Roe's 1618 *farman* confirmed the English position at Surat rather than granting territorial sovereignty.
 
 **Foundation — Nur Jahan and court politics.**
 
-✅ **Nur Jahan** became the dominant figure of the later reign. Satish Chandra discusses the **"Nur Jahan junta"** — a court group (including her father **Itmad-ud-Daulah**, brother **Asaf Khan**, and Prince Khurram) that concentrated power.
-- ✅ Historians debate whether she "ruled" or merely led a faction; her prominence provoked **Khurram's rebellion** and, later, **Mahabat Khan's coup (1626)**.
-- ⚠️ Coins were struck in her name and *farmans* bore her seal — signs of exceptional authority for a Mughal queen.
+✅ **Nur Jahan** acquired exceptional public authority, but Satish Chandra sets aside Beni Prasad's fixed **"Nur Jahan junta"** of Nur Jahan, Itmad-ud-Daulah, Asaf Khan and Khurram.
+- ✅ Promotions were not monopolised by one faction, and there is no secure contemporary evidence of a stable Nur Jahan–Khurram alliance from 1611 to 1620.
+- ✅ Nur Jahan became actively political mainly after **1622**, amid Jahangir's illness, Qandhar's loss, Khurram's rebellion and noble competition.
+- ✅ Farmans and coins appeared in her name, but Jahangir continued to govern; her role is best described as extraordinary influence and crisis management, not sovereign replacement.
 
 ## 2. Key classification / data
 
 | Event / person | Significance |
 |---|---|
 | ✅ Khusrau's revolt (1606) | Early challenge; linked to Guru Arjan's execution |
-| ✅ Nur Jahan (m. 1611) | Dominant political figure; "junta" |
+| ✅ Nur Jahan (m. 1611) | Exceptional influence; fixed "junta" theory disputed |
 | ✅ Mewar settlement (1615) | End of Rajput–Mughal conflict, honourable terms |
 | ✅ Thomas Roe (1615–19) | English quest for trading rights |
 | ✅ Mahabat Khan's coup (1626) | Noble seizes the emperor briefly |
@@ -68,8 +69,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Itmad-ud-Daulah tomb ("Baby Taj"), Agra — ASI desilting (2025).** Built by **Nur Jahan (c. 1622–28)** for her father **Mirza Ghiyas Beg (Itmad-ud-Daulah)**, it is the **first Mughal tomb built entirely in white marble** — a precursor to the Taj. After Yamuna flooding left silt in its riverside chambers, the ASI began careful manual cleanup.
-- **UPSC relevance:** directly anchors the Jahangir/Nur Jahan topic; a heritage-conservation + river-flooding (climate) hook for GS-I culture.
+📰 **Current linkage (verify live before use):** Itimad-ud-Daulah's tomb anchors Nur Jahan's patronage and the transition toward marble and inlay. Verify any flood, desilting or restoration claim from ASI before use.
 
 ## 7. Mains angles
 

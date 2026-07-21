@@ -13,7 +13,7 @@
 |---|---|---|
 | ✅ Gupta period | AD 319–550 | Classical culture; Sanskrit court idiom |
 | ✅ Fa-hsien visit | AD 399–414 | Society and Buddhism during Gupta age |
-| ✅ Decimal evidence | AD 448 | Gupta inscription from Allahabad district suggests decimal system known |
+| ✅ Decimal arithmetic evidence | 5th c. AD | Aryabhata's procedures presuppose decimal place value; epigraphic notation has a separate chronology |
 | ✅ Nalanda beginnings | 5th c. AD | Earliest brick structure linked to Gupta period |
 | ✅ Varahamihira | 6th c. AD | *Brihatsamhita* and astronomy tradition |
 
@@ -23,7 +23,7 @@
 
 ✅ RS Sharma notes that Gupta age is famous for Sanskrit literature, art, religion and science. But he is also critical: the period was not golden for everyone, especially subordinate groups and peasants under growing land grants.
 - ✅ Sanskrit was the court language of the Guptas.
-- ✅ Kalidasa's *Abhijnanashakuntalam* made the period famous; Bhasa also wrote plays.
+- ✅ Kalidasa's works are central to the classical Sanskrit canon, but his exact date and court association are debated. Bhasa's thirteen plays belong to an earlier/uncertain chronological context and should not be used as secure Gupta-court evidence.
 - ✅ Aryabhata's *Aryabhatiya* belongs to the 5th century and shows advanced mathematics/astronomy.
 
 **Standard — administration, economy and society.**
@@ -41,9 +41,9 @@
 | ✅ Agrarian economy | Land grants; agricultural expansion; new rights in land |
 | ✅ Society | Brahmana supremacy rises; varna hierarchy sharpens |
 | ✅ Religion | Bhagavatism/Vaishnavism; also Buddhism and Jainism |
-| ✅ Literature | Sanskrit court poetry; Kalidasa, Bhasa |
+| ✅ Literature | Sanskrit court poetry; Kalidasa securely important, exact court/date debated |
 | ✅ Art/architecture | Bhitargaon, Bhitari, Deogarh; Nalanda brick beginnings |
-| ✅ Science | Aryabhata; decimal system evidence; Romaka Siddhanta influence |
+| ✅ Science | Aryabhata; decimal place-value use; Greek-inspired astronomy including the *Romaka Siddhanta* stream |
 
 ## 3. Study links
 
@@ -53,10 +53,11 @@
 ## 4. Must-Know Facts (Prelims)
 
 - ✅ Sanskrit was the Gupta court language; secular literature flourished.
-- ✅ Kalidasa wrote *Abhijnanashakuntalam*; Bhasa wrote thirteen plays.
+- ✅ Kalidasa wrote *Abhijnanashakuntalam*; his precise date and association with Chandragupta II remain debated. Bhasa's chronology is not secure enough to make him a Gupta-court fact.
 - ✅ Gupta architecture includes brick temples at **Bhitargaon** and **Bhitari**, and the **Deogarh** stone temple.
 - ✅ Nalanda's earliest brick structure relates to the Gupta period.
-- ✅ Aryabhata wrote *Aryabhatiya* in the 5th century; decimal system evidence appears by AD 448.
+- ✅ Aryabhata wrote *Aryabhatiya* in the 5th century; his mathematical procedures presuppose decimal place value.
+- ⚠️ **Prelims distinction:** counting in tens, mathematical place value, a zero placeholder/number, and the **earliest epigraphic** place-value examples are different claims and need different evidence.
 - ✅ The Gupta period was culturally brilliant but socially unequal; do not write an uncritical "golden age" answer.
 
 ## 5. UPSC Traps
@@ -70,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Restoration of ancient knowledge centres, 2025:** PIB highlighted initiatives around Nalanda, Takshashila, Vikramashila and manuscript/knowledge traditions. Link this with Gupta-age Nalanda beginnings and the long Indian tradition of institutional learning.
+⚠️ **Current-link discipline:** Verify any restoration initiative from its responsible institution. The safe linkage is conservation of ancient learning sites and critical—not triumphalist—use of scientific legacy.
 
 ## 7. Mains angles
 

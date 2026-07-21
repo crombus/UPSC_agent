@@ -29,6 +29,8 @@
 ✅ Upinder Singh notes that warfare is a striking aspect of the early and later Vedic milieu. The **Battle of Ten Kings** in Book 7 may refer to an actual historical incident in which the Bharata chief **Sudas** fought a confederacy of ten tribes.
 - ✅ Political power was embedded in kinship and ritual; monarchy was emerging but not yet the later territorial state.
 - ✅ Ritual sacrifice linked chiefs, priests and wealth redistribution.
+- ✅ Assemblies were plural (*sabha, samiti, vidatha, gana*), while the *purohita*, *senani* and *gramani* show limited functional differentiation without a territorial bureaucracy.
+- ✅ Agriculture was present in the Rig Vedic world; the analytical distinction is **pastoral predominance**, not “absence of farming.”
 - ⚠️ Advanced answer: do not romanticise the Rig Vedic age as egalitarian perfection; read it as a stratifying but still tribal society.
 
 ## 2. Key classification / data
@@ -66,7 +68,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Gyan Bharatam / National Mission for Manuscripts, 2025:** Government updates describe a large manuscript-preservation and digitisation push with public digital access. For Rig Vedic studies, the hook is the conservation of fragile textual traditions and the need to distinguish **preserved text** from **historical reconstruction**.
+⚠️ **Current-link discipline:** Verify scheme titles and targets from official documents. The safe linkage is preservation of fragile textual traditions and the distinction between textual transmission and historical reconstruction.
 
 ## 7. Mains angles
 

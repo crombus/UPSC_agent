@@ -4,7 +4,7 @@
 > **Core area:** Banking and regulation.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md`.*
+> *Companion: `../basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md`.*
 
 ---
 
@@ -103,6 +103,10 @@ structure, group exposure and asset-liability mismatch are decisive.
   generally cannot issue cheques drawn on themselves.
 - ✅ Deposit insurance and central-bank liquidity access do not apply to all financial
   entities in the same way.
+- ✅ DICGC coverage is an eligible-deposit safety net, not a guarantee of every financial
+  product or every loss; the statutory ceiling is ₹5 lakh per depositor per bank.
+- ✅ Small finance banks lend to underserved segments, whereas payments banks cannot lend
+  from their own balance sheet; both are differentiated-bank models, not NBFCs.
 - ✅ NBFCs complement banks in specialised, last-mile and risk-based credit but can create
   interconnectedness and funding risks.
 - ✅ RBI regulates banks and many NBFCs; SEBI, IRDAI and PFRDA regulate their respective
@@ -131,7 +135,9 @@ structure, group exposure and asset-liability mismatch are decisive.
 |---|---|
 | 📰 Scheduled commercial bank GNPA was 2.2% and NNPA 0.5% by Sep 2025. | Lower GNPA and NNPA improve loss-absorption and lending capacity, but underwriting standards must remain strong. |
 | 📰 The Survey calls for calibrated coordination across banks, NBFCs, fintechs, insurance and securities markets. | Use regulatory coordination to discuss risk migration across banks, NBFCs, markets, insurance and fintech. |
-| 📰 Insurance FDI is 100% under the automatic route for private insurance as of July 2026; LIC remains separate. | Separate private-insurance ownership policy from LIC's distinct statutory position and from prudential regulation. |
+| 📰 Private-insurance foreign investment is capped at 74% under the automatic route. | Separate ownership policy from prudential regulation and do not treat the cap as 100% or as a statement about every insurance entity. |
+
+Source: [IRDAI capital-structure master circular](https://noc.irdai.gov.in/Content/docs/Master%20Circular%20on%20Registration%2C%20Capital%20Structure%2C%20Transfer%20of%20Shares%20and%20Amalgamation%20of%20Insurers%2C%202024.pdf).
 
 ## 10. PYQ-based analytical application
 
@@ -164,7 +170,7 @@ structure, group exposure and asset-liability mismatch are decisive.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md`.
+- ✅ Foundation companion: `../basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md`.
 - ✅ `06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md` — asset quality, capital and
   resolution.
 - ✅ `04_RBI-Monetary-Policy-and-Liquidity-Management.md` — central-bank facilities and

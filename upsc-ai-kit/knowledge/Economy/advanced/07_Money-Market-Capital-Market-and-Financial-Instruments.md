@@ -4,7 +4,7 @@
 > **Core area:** Financial markets.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md`.*
+> *Companion: `../basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md`.*
 
 ---
 
@@ -62,6 +62,8 @@ tradability and regulator; then connect market liquidity with real-economy finan
   portfolio behaviour.
 - ⚠️ A complete market ecosystem requires issuance, trading, clearing, settlement, custody,
   disclosure and enforcement.
+- ⚠️ TReDS turns accepted MSME receivables into a competitive discounting opportunity; its
+  benefit depends on buyer onboarding, timely acceptance and financier participation.
 
 ## 4. Institutional architecture
 
@@ -109,6 +111,8 @@ activity is concentrated in a narrow set of instruments or participants.
   price discovery.
 - ✅ The former CBLO mechanism was replaced by TREPS; the 2024 PYQ correctly located CBLO in
   the money market.
+- ✅ TReDS is an RBI-regulated receivables-discounting platform for MSMEs; it is not a
+  capital-market exchange or a credit-rating agency.
 
 ## 8. Advanced Prelims traps
 
@@ -160,8 +164,7 @@ activity is concentrated in a narrow set of instruments or participants.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/07_Money-Market-Capital-Market-and-Financial-
-  Instruments.md`.
+- ✅ Foundation companion: `../basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md`.
 - ✅ `04_RBI-Monetary-Policy-and-Liquidity-Management.md` — overnight operating target and
   liquidity.
 - ✅ `08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md` — claim and product-

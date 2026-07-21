@@ -1,7 +1,7 @@
 # Making of the Constitution (Constituent Assembly) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-I / GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 2 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 2 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference. *(Static high-frequency chapter; CA relevance via Constitution Day.)*
 > *Companion: `basic/Making-of-the-Constitution.md`.*
 

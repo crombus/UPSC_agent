@@ -31,6 +31,8 @@
 
 ✅ The invasions did not create a long-lived foreign empire in India, but they produced important contacts and consequences.
 - ✅ Iranian contact encouraged the spread of **Aramaic-derived Kharoshthi** in the north-west.
+- ✅ Kharoshthi was written **right-to-left** and remained in use in the north-west into the early centuries AD.
+- ✅ R.S. Sharma also notes Iranian influence on Mauryan bell-shaped capitals and on epigraphic vocabulary such as *dipi/lipi*; influence does not mean simple copying.
 - ✅ Alexander founded cities and placed conquered territories under Greek governors, but had little time to consolidate.
 - ✅ RS Sharma says Alexander's invasion brought ancient Europe and ancient South Asia into close contact for the first time.
 - ✅ By destroying petty states in the north-west, Alexander indirectly **paved the way for Mauryan expansion** in that region.
@@ -62,6 +64,7 @@
 - ✅ Greek possessions in India were soon lost to the **Mauryas**.
 - ✅ The north-west was fragmented into many monarchies and tribal republics.
 - ✅ Iranian contact is linked with **Kharoshthi** in the north-west.
+- ✅ Kharoshthi is right-to-left; Iranian models influenced some Mauryan artistic and epigraphic forms.
 
 ## 5. UPSC Traps
 
@@ -75,7 +78,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Antiquities repatriation, 2025:** Ministry/PIB updates note that India has repatriated **over 640 antiquities since 2014**. For this chapter, the exam link is **provenance**: north-western objects with Greek, Iranian or Gandharan links are interpreted through cross-border contact zones, not modern borders alone.
+⚠️ **Current-link discipline:** Repatriation totals change and require an official dated source. The safe linkage is provenance research for objects from the Achaemenid-Hellenistic north-western contact zone.
 
 ## 7. Mains angles
 

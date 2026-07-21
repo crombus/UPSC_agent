@@ -4,7 +4,7 @@
 > **Core area:** Agricultural marketing.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`.*
+> *Companion: `../advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`.*
 
 ---
 
@@ -111,6 +111,9 @@ where transport costs, tied credit or local buyer concentration remain high.
 
 - ⚠️ 2025 GS-III: Supply-chain management of agricultural commodities.
 - ⚠️ 2025 GS-III: Factors shaping farmers' choice of high-value crops.
+- ⚠️ **Supply-chain answer route:** trace farm-gate aggregation, grading, storage,
+  finance, transport, processing, standards, retail/export and reverse information
+  flows; identify the bottleneck and say who bears its price, quality or spoilage risk.
 
 ## 10. Mains angles
 
@@ -134,7 +137,7 @@ where transport costs, tied credit or local buyer concentration remain high.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`.
+- ✅ Advanced companion: `../advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`.
 - ✅ `12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` — public procurement versus
   competitive markets.
 - ✅ `14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` — production and

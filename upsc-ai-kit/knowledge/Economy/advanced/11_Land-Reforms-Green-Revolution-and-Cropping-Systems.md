@@ -4,7 +4,7 @@
 > **Core area:** Agrarian structure and productivity.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md`.*
+> *Companion: `../basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md`.*
 
 ---
 
@@ -139,6 +139,10 @@ alone because leasing, fragmentation, machinery services and crop choice matter.
 
 - ⚠️ 2024 GS-III: Factors responsible for successful land reforms in some regions.
 - ⚠️ 2025 GS-III: Factors influencing farmer selection of high-value crops.
+- ⚠️ **Answer engine for high-value crops:** connect agro-climate and water to expected
+  net return, then test input/credit/insurance access, labour, post-harvest loss,
+  standards, processing, logistics and contract/buyer reliability. Conclude with
+  diversification only where risk and value-chain capacity support it.
 
 ## 11. Mains-ready framework
 
@@ -162,7 +166,7 @@ alone because leasing, fragmentation, machinery services and crop choice matter.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md`.
+- ✅ Foundation companion: `../basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md`.
 - ✅ `12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` — price and procurement
   incentives.
 - ✅ `13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md` — markets for diversification.

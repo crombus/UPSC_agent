@@ -3,7 +3,7 @@
 > **Subject:** Indian Society | **GS Paper:** GS-I, with Social-Justice, Geography,
 > Economy, Polity, History and Philosophy links.
 > **Spine:** Official GS-I syllabus; audited 2024-2025 GS-I Mains PYQs; Census/RGI,
-> NFHS, MoSPI/PLFS, NITI Aayog and ministry sources.
+> NFHS, MoSPI/PLFS, NITI Aayog and ministry sources. Volatile-source check: 21 July 2026.
 > **Start here:** `00_Master-Framework.md`.
 
 ---
@@ -14,6 +14,10 @@
   `advanced/NN` adds causal chains, boundary cases, trade-offs and answer frameworks.
 - **Tagging:** ✅ = source-grounded or verified PYQ; ⚠️ = analytical inference;
   📰 = dated current anchor. Dates belong with every dynamic statistic.
+- **Evidence discipline:** distinguish a Census stock from an NFHS/PLFS survey estimate and
+  from administrative data. A correlation, a PYQ premise, or a programme announcement is not
+  by itself proof of causation or implementation outcome. NFHS-5 (2019-21) is the latest
+  released national NFHS round used here; do not cite an unissued NFHS-6 result.
 - **Scope discipline:** This is a sociological module: social structure, social change,
   exclusion and cohesion. It does not duplicate legal doctrine, schemes or macro models.
 
@@ -60,7 +64,8 @@
 
 ## Primary source routes
 
-- Census of India/RGI and official Census 2027 notifications.
+- Census of India/RGI, the Census 2027 Gazette notification, and the PIB announcement of
+  caste enumeration.
 - NFHS (IIPS/MoHFW), MoSPI PLFS, and UN population/urbanisation reports.
 - NITI Aayog MPI and SDG India Index; MoTA and MWCD.
 - India Code, Supreme Court material and ministries only for dated social anchors;

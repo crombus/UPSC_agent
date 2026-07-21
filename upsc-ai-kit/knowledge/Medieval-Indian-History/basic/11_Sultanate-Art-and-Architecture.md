@@ -33,6 +33,7 @@
 - ✅ Qutb Minar was begun by Aibak and completed by Iltutmish; its effect comes from height, tapering form, balconies, red/white sandstone and ribbed projections.
 - ✅ Alai Darwaza has pleasing arches and a dome built on correct scientific lines; by this stage Indian craftsmen had mastered scientific arch and dome construction.
 - ✅ Tughlaq architecture introduced sloping walls/batter and a stronger, more austere appearance.
+- ✅ Persian became the principal language of court history and administration; Sanskrit learning continued, regional languages expanded, and Amir Khusrau's literary and musical reputation illustrates cultural interaction.
 
 ## 2. Key classification / data
 
@@ -42,6 +43,7 @@
 | ✅ Arabesque | Geometric/floral designs + Quranic calligraphy |
 | ✅ Qutb Minar | Begun by Aibak, completed by Iltutmish; 71.4 m in source |
 | ✅ Alai Darwaza | Khalji gateway; correct scientific dome/arch mastery |
+| ✅ Balban's tomb | First surviving true arch identified by the assigned source |
 | ✅ Tughlaq style | Tughlaqabad, Ghiyasuddin's tomb, sloping walls/batter |
 | ⚠️ Indo-Islamic synthesis | West Asian forms + Indian craftsmen/materials/motifs |
 
@@ -70,7 +72,7 @@
 
 ## 6. 📰 Current link
 
-📰 **ASI conservation/restoration work on the Alai Darwaza and Qutb complex remained in the news, with damaged red-sandstone carvings and ornamental details being restored** (Times of India / heritage reports, 2024–26). Relevance: the same Khalji monument used to teach "true arch and dome" remains a live conservation case.
+📰 **Current linkage (verify live before use):** Qutb-complex conservation can connect spolia, true-arch development and craft repair. Verify the exact intervention and avoid confusing Balban's first surviving true arch with Alai Darwaza's mature arch-and-dome construction.
 
 ## 7. Mains angles
 

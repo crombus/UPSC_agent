@@ -17,9 +17,9 @@ temperate broadleaf/mixed forests, controlled here by **altitude** rather than l
 
 | Forest type | Location | Altitude / climate | Key species |
 |---|---|---|---|
-| ✅ **Himalayan Moist (wet temperate)** | J&K, HP, Uttarakhand, N. Bengal hills | **1000–2000 m** | Oak, chestnut, chir, sal, shrubs, grasses |
+| ✅ **Himalayan Moist Temperate** | Western and eastern Himalayan middle elevations | Approximate altitude varies by aspect/latitude | Oak, chestnut and mixed broadleaf/conifer species; sal is lower foothill and chir belongs mainly to the subtropical pine belt |
 | ✅ **Montane Wet Temperate** | Entire Himalaya, **J&K → Arunachal** | **1500–3300 m**, **12–15°C**, rain **100–250 cm** | Oak, fir, spruce (Picea), **deodar (Cedrus deodara)**, magnolia, cedar, maple, silver-fir (Abies) |
-| ✅ **Himalayan Dry Temperate** | J&K, Lahul, Chamba, Kinnaur (HP), Sikkim | Drier inner ranges | Deodar, oak, **chilgoza**, ash, maple, olive, mulberry, willow |
+| ✅ **Himalayan Dry Temperate** | Inner western Himalaya: Ladakh margins, Lahaul-Spiti, Kinnaur and rain-shadow valleys | Drier inner ranges | Deodar locally, chilgoza, juniper and dry-temperate broadleaf species |
 | ✅ **Subtropical Montane** | NW Himalaya (excl. Ladakh & Kashmir), HP, Uttarakhand, Arunachal, NE hill slopes | rain **100–200 cm**, **15–22°C** | **Chir (pine)** dominant + broad-leaved |
 
 ## 2. Key points
@@ -34,7 +34,7 @@ temperate broadleaf/mixed forests, controlled here by **altitude** rather than l
 - ✅ Montane Wet Temperate forests span **J&K to Arunachal**, **1500–3300 m**, rain **100–250 cm**.
 - ✅ **Cedrus deodara = deodar**; **chilgoza** is a dry-temperate conifer.
 - ✅ **Chir pine** dominates subtropical montane forests (100–200 cm rain, 15–22°C).
-- ✅ Dry Temperate forests occur in **inner/rain-shadow** ranges (Lahul, Kinnaur, Sikkim).
+- ✅ Dry Temperate forests occur chiefly in **inner/rain-shadow western Himalayan** ranges; humid Sikkim is not the standard example.
 
 ## 4. UPSC Traps
 
@@ -43,12 +43,11 @@ temperate broadleaf/mixed forests, controlled here by **altitude** rather than l
 
 ## 5. 📰 Current link
 
-📰 **Himalayan forest fires, 2025–26** — a record fire season in **Uttarakhand & Himachal**: fires that
-were historically limited to below **2,000 m** now regularly reach **2,500–4,000 m** (high-elevation
-fires have **quadrupled in a decade**). **Chir pine forests account for ~57%** of Himalayan fires.
-Drivers are increasingly **climatic** (each ~1°C summer rise ≈ 100+ extra fire incidents; declining
-winter snow dries the floor early), and repeated fires may push **treelines upslope**, damaging the
-"sponge effect" that underpins downstream water, irrigation and hydropower.
+📰 **Himalayan forest-fire risk:** dry pre-monsoon weather, litter/fuel accumulation, ignition and
+resin-rich chir pine can accelerate fire spread. High-elevation fires are an emerging concern, but
+altitude limits, percentage shares and trend multipliers require a named FSI/state dataset and period.
+Repeated fires can damage soil, regeneration and spring catchments; climate, ignition and forest
+management must be analysed together.
 
 ## 6. Mains angles
 

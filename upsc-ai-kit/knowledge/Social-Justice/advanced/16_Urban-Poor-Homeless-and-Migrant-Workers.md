@@ -4,7 +4,9 @@
 > GS-I (urbanisation, migration — see PYQ anchors).
 > **Core area:** Urban homelessness implementation gaps, slum-upgrading trade-offs,
 > migrant-worker protection limitations, smart-city distributive-justice critique.
-> **Grounded in:** DAY-NULM (SUH); PM SVANidhi (2020); Code on OSH, 2020; ONORC;
+> **Grounded in:** DAY-NULM (SUH); PM SVANidhi (2020); Street Vendors Act, 2014;
+> OSHWC Code, 2020 (enacted, notification-dependent commencement); Inter-State Migrant
+> Workmen Act, 1979; ONORC;
 > 2024 GS-I PYQ (migration); 2025 GS-I PYQ (smart city); academic/policy literature.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/16_Urban-Poor-Homeless-and-Migrant-Workers.md`.*
@@ -21,8 +23,8 @@ POLICY LAYER                 IMPLEMENTATION LAYER           OUTCOME LAYER
 │ DAY-NULM (SUH)   │         │ ULB capacity     │          │ Shelter coverage │
 │ PM SVANidhi      │  ──>    │ varies; land/    │   ──>    │ gaps; vendor     │
 │ ONORC            │         │ fund constraints │          │ formalisation    │
-│ Code on OSH      │         │ ePoS/Aadhaar     │          │ partial; ONORC   │
-│ (migrant)        │         │ connectivity     │          │ uptake uneven    │
+│ ISMW Act /       │         │ ePoS/Aadhaar     │          │ partial; ONORC   │
+│ OSHWC status     │         │ connectivity     │          │ uptake uneven    │
 └──────────────────┘         └──────────────────┘          └──────────────────┘
          |                            |                             |
          v                            v                             v
@@ -41,7 +43,7 @@ PYQ ANALYTICAL ANCHORS (GS-I cross-paper)
 ```
 
 **Analytical claim:** ⚠️ Urban-poor welfare policies exist (DAY-NULM, PM SVANidhi, ONORC,
-Code on OSH) but face structural constraints: housing-tenure insecurity, livelihood
+Street Vendors Act and the applicable migrant-labour route) but face structural constraints: housing-tenure insecurity, livelihood
 informality, migration-portability friction and smart-city's area-based model that may
 exclude the poorest — the gap between policy intent and outcome is the analytical core.
 
@@ -89,6 +91,9 @@ exclude the poorest — the gap between policy intent and outcome is the analyti
   and Letters of Recommendation; digital-payment cashback via UPI.
 - ✅ **ONORC (DoFPD):** Portability under NFSA; depends on Aadhaar-seeding and ePoS; pan-
   India rollout achieved; transaction data published on Annavitaran portal.
+- ✅ **Street Vendors Act, 2014:** Town Vending Committees, survey/certificates, vending
+  plans and procedural eviction safeguards provide the legal livelihood layer that
+  complements, but is not supplied by, PM SVANidhi credit.
 - ⚠️ Recommended reform: mandate shelter-space targets per ULB linked to census homeless
   count, with time-bound land identification and construction.
 - ⚠️ Recommended reform: integrate smart-city investment appraisal with slum-mapping and
@@ -108,8 +113,9 @@ exclude the poorest — the gap between policy intent and outcome is the analyti
 
 - ⚠️ In-situ slum upgrading preserves livelihoods but may perpetuate suboptimal land use;
   resettlement frees central land but disrupts employment — no first-best solution.
-- ⚠️ ONORC portability requires Aadhaar-seeding; privacy and exclusion concerns
-  accompany the efficiency gain.
+- ⚠️ ONORC portability depends on authentication/interoperability and can reduce migration
+  exclusion, but authentication failure, documentation and privacy risks need assisted
+  alternatives and grievance redress.
 - ⚠️ Smart-city investment can improve city-wide infrastructure quality but may
   exacerbate intra-city inequality if benefits concentrate in selected zones.
 
@@ -118,8 +124,9 @@ exclude the poorest — the gap between policy intent and outcome is the analyti
 - ✅ DAY-NULM's cost-sharing ratio is 60:40 Centre-state (90:10 for NE/special states).
 - ✅ PM SVANidhi provides escalating loan tranches (₹10,000 → ₹20,000 → ₹50,000)
   contingent on timely repayment.
-- ✅ The Code on OSH, 2020 (in force 21 Nov 2025), subsumes the Inter-State Migrant
-  Workmen Act, 1979, carrying forward displacement allowance and journey allowance.
+- ✅ The OSHWC Code, 2020 contains a migrant-worker framework, but commencement is
+  notification-dependent. As at 21 July 2026, do not state that it universally replaced
+  the Inter-State Migrant Workmen Act, 1979 without a specific operative notification.
 - ✅ Smart Cities Mission uses an SPV (Special Purpose Vehicle) model for area-based
   development.
 
@@ -135,8 +142,9 @@ exclude the poorest — the gap between policy intent and outcome is the analyti
 
 ## 9. 📰 Current-anchor note
 
-- 📰 PM SVANidhi disbursement and DAY-NULM shelter counts are updated on portals; no
-  fixed number asserted. The durable analytical point is the policy-implementation gap.
+- 📰 **Status check (21 July 2026):** PM SVANidhi disbursement and DAY-NULM shelter counts
+  are dashboard outputs. For migrant-labour claims, distinguish the enacted OSHWC Code
+  from operative commencement and the still-relevant 1979/State route.
 - ✅ 2024 GS-I PYQ (migration) and 2025 GS-I PYQ (smart city) are direct exam anchors.
 
 ## 10. PYQ-based analytical application
@@ -162,12 +170,14 @@ area-based model — create a gap between policy intent and outcome; closing thi
 requires explicit distributive-justice screening and last-mile delivery strengthening.
 
 1. **Define the vulnerability nexus:** housing, livelihood, portability.
-2. **Map the policy architecture:** DAY-NULM (SUH), PM SVANidhi, ONORC, Code on OSH.
+2. **Map the policy architecture:** DAY-NULM (SUH), PM SVANidhi, Street Vendors Act,
+   ONORC and the correctly stated migrant-labour route.
 3. **Diagnose implementation gaps:** land constraint, funding delay, documentation
    barrier, ePoS connectivity, area-based exclusion.
 4. **Apply PYQ anchors:** migration push-pull (2024); smart-city critique (2025).
-5. **Recommend corrections:** shelter-space targets linked to census, Aadhaar-seeding
-   drives, smart-city slum-mapping integration, in-situ upgrading with tenure security.
+5. **Recommend corrections:** shelter-space targets linked to census, assisted
+   portability, Street Vendors Act implementation, smart-city slum-mapping integration
+   and in-situ upgrading with tenure security.
 
 ## 12. Probable questions
 

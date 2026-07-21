@@ -34,7 +34,7 @@
 - ✅ Ashokan pillars are famous for their **shining polish**, comparable to NBPW polish.
 - ✅ Pillars were mounted by animal capitals; the **Sarnath lion capital** became India's national emblem.
 - ✅ After Ashoka's death in **232 BC**, the empire began to disintegrate.
-- ✅ RS Sharma lists causes such as Brahmanical reaction, financial pressure, oppressive rule, new knowledge in outlying areas and neglect of the north-west frontier.
+- ✅ RS Sharma **proposes** causes such as Brahmanical reaction, financial pressure, oppressive rule, diffusion of material/state knowledge to outlying areas and neglect of the north-west frontier. These are hypotheses, not equally proven facts.
 
 ## 2. Key classification / data
 
@@ -61,7 +61,7 @@
 - ✅ Mauryan taxation covered peasants, artisans and traders.
 - ✅ The empire began disintegrating after Ashoka's death in **232 BC**.
 - ✅ Post-Mauryan regional states rose partly because material culture had spread beyond Magadha.
-- ✅ RS Sharma's decline causes include Brahmanical reaction, financial pressure, oppressive rule and north-west neglect.
+- ⚠️ RS Sharma's decline hypotheses include Brahmanical reaction, financial pressure, oppressive rule and north-west neglect; Upinder Singh questions strong financial-crisis claims because evidence is limited.
 
 ## 5. UPSC Traps
 
@@ -75,7 +75,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Sarnath, 2025:** The International Buddhist Confederation and Ministry-linked events marked **Dhammacakkappavattana Divas** at Sarnath. For this chapter, the anchor is the same site where Ashokan memory, Buddhist sacred geography and the **Lion Capital/National Emblem** converge.
+⚠️ **Current-link discipline:** Verify a Sarnath event from its official organizer. The safe linkage is the convergence of Buddhist sacred geography, Ashokan monuments and India's national emblem.
 
 ## 7. Mains angles
 

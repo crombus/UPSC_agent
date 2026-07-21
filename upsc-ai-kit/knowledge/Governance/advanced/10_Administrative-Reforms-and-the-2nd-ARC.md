@@ -79,6 +79,9 @@ treating an eighteen-year-old proposal as settled current fact.
 - ✅ DARPG functions as the continuing institutional memory and routing mechanism for ARC
   recommendations, but it does not have independent power to compel implementation by other
   ministries or state governments — its role is coordinative and advisory, not directive.
+- ⚠️ Administrative reform should be evaluated at four levels: legal adoption, organisational
+  capability, frontline behaviour and citizen outcome. "Accepted recommendation" addresses
+  only the first step, if that.
 - ⚠️ Because several Second ARC recommendations touch subjects in the State List or
   Concurrent List (e.g., local governance, personnel administration for state cadres),
   genuine implementation of those recommendations depends on state-level political will,
@@ -137,7 +140,8 @@ treating an eighteen-year-old proposal as settled current fact.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The durable, exam-safe practice is to describe a specific ARC recommendation's status
+- 📰 **Status checked 21 July 2026:** the durable, exam-safe practice is to describe a
+  specific ARC recommendation's status
   precisely — proposed, partially implemented, or substantially adopted — rather than
   defaulting to "adopted"/"current practice." No single, fixed implementation-status figure
   is asserted here across all 15 reports, since adoption has been genuinely selective and
@@ -168,6 +172,8 @@ practice.
    implementation.
 5. Conclude with the report's continuing analytical value even where implementation remains
    incomplete.
+6. Separate Union-action recommendations from those requiring state legislation, local
+   devolution or intergovernmental coordination.
 
 ## 12. Probable questions
 

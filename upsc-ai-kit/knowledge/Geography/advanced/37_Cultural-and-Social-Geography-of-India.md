@@ -1,7 +1,7 @@
 # Cultural and Social Geography of India — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I
-> **Grounded in:** Majid Husain, *Geography of India* for linguistic / religious / tribal regionalisation; Census of India 2011 (ORGI) for language and religion; Ministry of Tribal Affairs for PVTG / Scheduled Area updates.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified Census/Tribal Affairs current anchor.
 > **Data caution:** ✅ The latest full all-India Census tables available for language and religion remain **Census 2011**; this file does **not** imply that a newer full Census language/religion release already exists.
 > ✅ = grounded source · ⚠️ = synthesis / answer-writing lens · 📰 = verified dated current-affairs anchor.
 > *Companion: `basic/37_Cultural-and-Social-Geography-of-India.md`.*
@@ -10,7 +10,9 @@
 
 ## 1. Linguistic geography of India
 
-✅ Census 2011 / ORGI recognises **22 Eighth Schedule languages** and shows the following broad family shares: **Indo-European 78.05%**, **Dravidian 19.64%**, **Austroasiatic 1.11%**, **Tibeto-Burman 1.01%** of mother-tongue speakers.
+✅ India has **22 Eighth Schedule languages**. Census 2011 language tables group mother tongues broadly
+as **Indo-Aryan 78.05%**, **Dravidian 19.64%**, **Austro-Asiatic 1.11%** and **Tibeto-Burmese 1.01%**;
+do not relabel the Indo-Aryan share as the entire Indo-European family.
 
 | Language-geography frame | Spatial core |
 |---|---|
@@ -113,11 +115,11 @@
 
 ## 9. 📰 Current link
 
-### CA Anchor — 09 July 2024, Ministry of Tribal Affairs: state-wise PVTG list
+### CA Anchor — Census 2027 and the next spatial-demographic baseline
 
-📰 **Source/date:** Ministry of Tribal Affairs state-wise PVTG list dated **09 July 2024**.
-
-✅ The updated list confirms **75 PVTGs across 18 states and 1 UT**. ⚠️ For geography answers, this is important because the most vulnerable communities are still strongly clustered in **island, hill, forest and central-upland belts**.
+📰 **Current anchor:** Census 2027 is scheduled with digital/self-enumeration architecture and caste
+enumeration in the population-enumeration phase. It will eventually refresh spatial social data, but no
+new language, religion, caste or tribe-distribution result exists yet.
 
 ### Census-year caveat for current affairs use
 

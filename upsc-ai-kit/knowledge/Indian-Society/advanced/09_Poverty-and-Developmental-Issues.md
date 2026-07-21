@@ -5,8 +5,8 @@
 > architecture of the development-livelihood conflict, and the three-actor collaboration
 > trade-offs.
 > **Grounded in:** Amartya Sen's capability approach; Oscar Lewis's culture-of-poverty
-> thesis and its critics; NITI Aayog National MPI 2023; audited 2024 and 2025 GS-I Mains
-> PYQs.
+> thesis and its critics; NITI Aayog's 2024 multidimensional-poverty discussion paper;
+> audited 2024 and 2025 GS-I Mains PYQs.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/09_Poverty-and-Developmental-Issues.md`.*
 
@@ -42,10 +42,10 @@ unequal institutions              "blaming the poor"
 **Analytical claim:** ⚠️ The capability-versus-culture-of-poverty debate is not merely
 academic — it determines whether policy targets structural barriers (land, credit,
 education access) or individual behaviour (financial literacy campaigns aimed at changing
-attitudes); the sociological mainstream's rejection of culture-of-poverty as a primary
-explanation is what justifies treating the 2025 PYQ's development-livelihood conflict as a
-structural resource-access problem requiring institutional resolution, not a matter of
-"poor communities resisting progress."
+attitudes); strong structural critiques warn against making culture a primary cause. This
+supports treating the 2025 PYQ's development-livelihood conflict as a resource-access and
+power problem requiring institutional resolution, not as “poor communities resisting
+progress.”
 
 ## 2. Concepts and distinctions
 
@@ -64,12 +64,11 @@ structural resource-access problem requiring institutional resolution, not a mat
    discrimination by caste/gender) restrict a household's real opportunity set.
 2. ⚠️ Chronic income insecurity forces short-horizon decision-making (prioritising
    immediate survival over long-term investment in education or savings).
-3. ⚠️ Observers (including Lewis) documented these short-horizon behaviours and
-   mis-attributed them as an independently transmitted "culture," rather than as the
-   predictable, rational response to the structural barriers in step 1.
-4. ✅ The sociological correction: policy should target the structural barriers directly
-   (land access, school quality, anti-discrimination enforcement), not attempt to change
-   "the culture of the poor" in isolation from their material conditions.
+3. ⚠️ Lewis interpreted some short-horizon behaviours as a transmitted culture; critics
+   argue they can instead be rational adaptations to insecurity and structural barriers.
+4. ✅ A robust policy response targets structural barriers directly (land access, school
+   quality, anti-discrimination enforcement) while avoiding the assumption that poor people
+   need cultural correction in isolation from material conditions.
 
 ### Development-livelihood conflict chain (2025 PYQ)
 1. A forest, wetland or grazing commons that a poor community depends on for subsistence is
@@ -108,10 +107,10 @@ structural resource-access problem requiring institutional resolution, not a mat
 
 ## 5. Indian applications and boundary cases
 
-- ⚠️ **Boundary case 1 — culture-of-poverty misdiagnosis:** a financial-literacy programme
-  that assumes poor households simply need to be taught to "plan better," without
-  addressing the underlying income insecurity driving short-horizon behaviour, illustrates
-  a policy built on the contested (and largely discredited) culture-of-poverty premise.
+- ⚠️ **Boundary case 1 — culture-only misdiagnosis:** a financial-literacy programme that
+  assumes poor households simply need to be taught to “plan better,” without addressing
+  income insecurity, illustrates the risk of treating a contested cultural account as a
+  complete causal explanation.
 - ⚠️ **Boundary case 2 — structural intervention:** a land-titling and credit-access
   programme that directly expands a poor household's real opportunity set illustrates the
   capability-approach-consistent alternative.
@@ -142,9 +141,9 @@ structural resource-access problem requiring institutional resolution, not a mat
 - ✅ Oscar Lewis's "culture of poverty" thesis originated from ethnographic fieldwork among
   poor urban communities in Mexico and Puerto Rico, later applied more broadly and heavily
   critiqued.
-- 📰 NITI Aayog's National MPI Progress Review (2023) recorded poverty falling from 24.85%
-  (2015-16) to 14.96% (2019-21), about 13.5 crore people exiting poverty — a dated
-  base-year comparison, not a current figure.
+- 📰 NITI Aayog's 2024 discussion paper *Multidimensional Poverty in India since 2005-06*
+  estimated multidimensional poverty at 11.28% in 2022-23 and about 24.8 crore exits between
+  2013-14 and 2022-23 — dated estimates, not a current figure.
 - ⚠️ Participatory/joint conservation-management models are the sociologically preferred
   resolution to development-livelihood conflict, though not a complete solution.
 
@@ -160,14 +159,15 @@ structural resource-access problem requiring institutional resolution, not a mat
 - ❌ Government, NGO and private-sector roles in development collaboration are
   interchangeable. -> Each has a distinct comparative advantage; effective collaboration
   requires role division, not substitution.
-- ❌ NITI Aayog's MPI 2023 figures represent a current 2026 poverty count. -> They are dated
-  to a 2015-16/2019-21 base-year comparison; no newer national update exists to cite.
+- ❌ NITI Aayog's multidimensional-poverty estimate represents a current 2026 poverty count.
+  -> The 2024 discussion paper's 11.28% estimate is for 2022-23; state the data period and
+  method rather than treating it as a live headcount.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 NITI Aayog's National MPI Progress Review (2023) remains the most recent verified
-  dated poverty-progress figure; any Mains answer citing it must explicitly note the
-  2015-16 to 2019-21 base-year comparison and avoid presenting it as a current count.
+- 📰 NITI Aayog's 2024 discussion paper estimated multidimensional poverty at 11.28% in
+  2022-23 and about 24.8 crore exits between 2013-14 and 2022-23. Cite the date, period and
+  estimated nature of the figure; avoid presenting it as a current count.
 
 ## 10. PYQ-based analytical application
 
@@ -193,7 +193,8 @@ design — while institutional collaboration between government, NGOs and the pr
 is most productive when roles are clearly divided rather than overlapping.
 
 1. Distinguish capability deprivation from income poverty at the outset.
-2. Critique the culture-of-poverty thesis as adaptive response, not independent cause.
+2. Evaluate the culture-of-poverty thesis and its structural critique; do not treat either
+   observed coping behaviour or culture as a complete independent cause.
 3. Apply the development-livelihood conflict chain with a concrete resource-access example.
 4. Distinguish exclusionary from participatory conservation implementation.
 5. Apply the three-actor comparative-advantage model to the collaboration question.

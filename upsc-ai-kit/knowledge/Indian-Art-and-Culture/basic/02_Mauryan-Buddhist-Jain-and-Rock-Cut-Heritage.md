@@ -6,6 +6,8 @@
 > anatomy; Barabar/Nagarjuni caves; chaitya/vihara rock-cut architecture;
 > Sanchi, Ajanta, Ellora, Udayagiri-Khandagiri.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp. 40-69;
+> R.S. Sharma, *India's Ancient Past*, PDF pp. 192-223; R.S. Sharma,
+> *Ancient India*, PDF pp. 100-123;
 > `00_Master-Framework.md` Sections 2-3; audited UPSC Mains 2024-2025 GS
 > Paper I (no direct question).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
@@ -28,17 +30,18 @@ monument sites, or rock-cut architecture, and supplies vocabulary
 | Term | Exam-ready meaning |
 |---|---|
 | ✅ **Court Art** | Architectural works commissioned by Mauryan rulers for political/religious reasons — palaces, pillars (*Nitin…pdf*, PDF p. 41). |
-| ✅ **Popular Art** | Cave architecture, sculpture and pottery produced by individual effort outside direct royal patronage (*Nitin…pdf*, PDF p. 48). |
+| ⚠️ **Non-courtly/"popular" art** | A textbook grouping for yaksha-yakshi, terracotta and some community/donor production; it cannot mean "without royal patronage" in every case because Ashoka and Dasharatha directly dedicated Barabar-Nagarjuni caves. |
 | ✅ **Stupa** | A votive/commemorative repository of relics; pre-Buddhist in origin, not exclusively Buddhist in significance (*Nitin…pdf*, PDF p. 44). Parts include medhi (base), toran (gateway), harmika (railing atop dome), chattra (umbrella), and pradakshina patha (circumambulatory passage). |
 | ✅ **Chaitya** | A Buddhist prayer/assembly hall, commonly apsidal in rock-cut examples, with a stupa at its terminal end, colonnades and a vaulted roof; it developed prominently in the post-Mauryan period (*Nitin…pdf*, PDF p. 52; ASI, Ajanta Caves). |
 | ✅ **Vihara** | A residential hall for Buddhist/Jain monks, developed from the Mauryan period onward (*Nitin…pdf*, PDF p. 52). |
-| ✅ **Mauryan polish** | Highly finished, glossy polish characteristic of Mauryan art (Ashokan pillars, Barabar caves, Didarganj Yakshi); abandoned after the Mauryan period due to high cost (*Nitin…pdf*, PDF pp. 49, 51). |
+| ✅ **Mauryan polish** | Highly finished, glossy surface characteristic of many Mauryan pillars and Barabar interiors. It became much less common later; Nitin attributes this to cost, but that causal explanation should be treated as a textbook inference. Didarganj's date is debated. |
 
 ## 3. Core classification
 
-✅ Mauryan art is classified into **Court Art** (palaces, pillars — state-
-commissioned) and **Popular Art** (cave architecture, sculpture, pottery —
-individual effort) (*Nitin…pdf*, PDF pp. 40, 48). ✅ Post-Mauryan rock-cut
+✅ The court/popular division is a useful first classification, but not a
+hard patronage boundary: royal pillars/palaces are court art; yaksha,
+terracotta and donor-funded railings are often grouped as popular art;
+royally dedicated Ajivika caves cross the boundary. ✅ Post-Mauryan rock-cut
 architecture developed two forms — chaitya (worship) and vihara
 (residence) — alongside continuing stupa construction under the Shungas,
 Kanvas, Kushanas, Shakas (north) and Satavahanas, Ikshvakus, Abhiras,
@@ -58,17 +61,20 @@ cave has no Ashokan inscription because it was never completed
 simple Mauryan brick hemisphere, was expanded and stone-clad under the
 Sungas, and gained its four toranas under the Satavahanas; it was
 declared a UNESCO World Heritage Site in 1989 (*Nitin…pdf*, PDF pp. 46-47).
-✅ Ajanta (29 caves, Aurangabad district) has 5 Satavahana-period Hinayana
-caves and 24 Vakataka-period Mahayana caves; only 5 are chaityas, the rest
-viharas; UNESCO-listed in 1983 (*Nitin…pdf*, PDF pp. 58-59). ✅ Ellora (34
+✅ Ajanta's numbered cave total varies with whether an unfinished/late-
+identified excavation is counted; avoid making the count the analytical
+point. Its early phase is usually linked to Satavahana-era patronage and
+its later florescence to Vakataka-era Mahayana patronage; UNESCO-listed in
+1983. ✅ Ellora (34
 caves) uniquely combines 12 Buddhist, 17 Hindu and 5 Jain (Digambara)
-caves in one complex — "one of the most spectacular examples of
-religious coexistence" — including the monolithic Kailasha temple (Cave
+caves in one complex, with phases that overlap rather than forming a neat,
+non-overlapping Buddhist-then-Hindu-then-Jain sequence. It includes the
+monolithic Kailasha temple (Cave
 16, built by Krishna I of the Rashtrakuta dynasty, 8th century); UNESCO-
 listed in 1983 (*Nitin…pdf*, PDF pp. 60-62). ✅ Udayagiri-Khandagiri caves
 (Odisha) were developed principally under Kalinga king Kharavela
 (Jain patron); the 17-line Hathigumpha inscription (Prakrit, Brahmi
-script) is the sole evidence for his reign and conspicuously omits the
+script) is the principal narrative source for his reign and conspicuously omits the
 Mauryan invasion of Kalinga (*Nitin…pdf*, PDF pp. 53-55). ✅ Elephanta
 Caves (Gharapuri island, Mumbai) have 5 Hindu and 2 Buddhist caves,
 UNESCO-listed in 1987, famed for the Trimurti/Sadashiva sculpture
@@ -101,6 +107,14 @@ POST-MAURYAN ROCK-CUT ARCHITECTURE
 | ✅ Ellora | Buddhist + Hindu + Jain | 1983 | Kailasha monolithic temple |
 | ✅ Udayagiri-Khandagiri | Jain (with later phases) | Not inscribed (tentative context only) | Hathigumpha inscription |
 | ✅ Elephanta | Hindu (Shaiva) | 1987 | Trimurti/Sadashiva sculpture |
+
+| Stupa part | Precise function |
+|---|---|
+| ✅ Anda | Hemispherical mound enclosing/commemorating relics |
+| ✅ Vedika | Railing defining sacred space and circumambulatory movement |
+| ✅ Harmika | Square railing/enclosure at the summit of the anda |
+| ✅ Chhatra/chhatravali | Umbrella(s) above the harmika, a sign of honour |
+| ✅ Torana | Ornamental gateway; at Sanchi funded by multiple donors, not safely reduced to one royal patron |
 
 ## 6. Source spine
 
@@ -135,11 +149,23 @@ answers in topic 06.
 - ❌ Ellora is a single-religion (Buddhist-only) site. -> It has Buddhist,
   Hindu and Jain caves together, making it a landmark example of
   religious coexistence, not a Buddhist-exclusive complex.
-- ❌ Mauryan polish continued into later periods. -> It was abandoned after
-  the Mauryan period specifically because of its high cost.
+- ❌ Mauryan polish remained the normal finish in later sculpture. -> Its
+  characteristic large-scale use declines sharply after the Mauryas;
+  "because of high cost" is one textbook explanation, not a proven sole
+  cause.
 - ❌ The Hathigumpha inscription is a neutral historical record of all
   events. -> It is Kharavela's own commemorative inscription and notably
   omits the Mauryan invasion of Kalinga — a source-bias point.
+- ❌ Sanchi's gateways can be assigned simply to "the Satavahana king." ->
+  Their inscriptions reveal a wider donor world of guilds and individuals;
+  use "Satavahana-period" unless a particular royal attribution is proven.
+- ❌ Ellora's three religious groups were produced in perfectly separate
+  chronological blocks. -> Broad sequencing exists, but cave-making
+  overlapped; the site demonstrates changing and shared sacred geography,
+  not a mechanically clean succession.
+- ✅ **Local PYQ trap:** CSE 2013 made only Ellora's multi-faith statement
+  correct; Badami is not India's oldest surviving rock-cut cave group, and
+  Barabar was dedicated to Ajivikas by Ashoka/Dasharatha, not Chandragupta.
 
 ## 10. Mains framework
 
@@ -148,8 +174,9 @@ answers in topic 06.
 3. Use Sanchi's layered construction history (Mauryan core -> Sunga
    expansion -> Satavahana toranas) as a model of how a single monument
    accretes across dynasties.
-4. Cite Ellora as the standout example of religious coexistence in one
-   physical complex.
+4. Cite Ellora as a multi-religious cave landscape made in overlapping
+   phases; do not convert material plurality into proof of uninterrupted
+   abstract harmony.
 5. Note UNESCO inscription years as the current-heritage-status anchor,
    cross-referenced to topic 14.
 

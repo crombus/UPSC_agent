@@ -4,7 +4,7 @@
 > **Core area:** Public finance.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`.*
+> *Companion: `../basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`.*
 
 ---
 
@@ -105,6 +105,10 @@ the headline deficit understate public-sector risk.
 - ✅ The Annual Financial Statement is constitutionally presented with charged and voted
   expenditure distinctions.
 - ✅ Fiscal deficit is not total public debt; it is a flow during a period.
+- ✅ Borrowing is excluded from non-debt receipts; recovery of loans and disinvestment are
+  non-debt capital receipts in the fiscal-deficit identity.
+- ✅ Centre, states, local bodies and public enterprises are not interchangeable fiscal
+  coverage; distinguish the Union Budget from general-government risk.
 - ✅ Capital expenditure can create assets or reduce liabilities; revenue expenditure
   generally supports current operations and transfers.
 - ✅ Effective capital expenditure adds grants used for capital-asset creation to the
@@ -133,9 +137,10 @@ the headline deficit understate public-sector risk.
 | 📰 Centre revenue receipts averaged 9.1% of GDP in FY22-FY25 versus 8.5% in FY16-FY20. | Improved revenue receipts expand fiscal space when gains are durable rather than one-off. |
 | 📰 Centre capital expenditure averaged about 3% of GDP post-pandemic versus 1.7% pre-pandemic. | Higher capex can crowd in private investment if projects are well selected and completed. |
 | 📰 Effective capital expenditure was 4% of GDP in FY25. | Effective capex captures Union support for asset creation through grants as well as direct capital spending. |
-| 📰 Union Budget 2026-27: fiscal deficit 4.3% of GDP (BE), against 4.4% in 2025-26 RE; capex ₹12.2 lakh crore (BE). | Keep Budget estimates separate from Survey trends and realised accounts; evaluate consolidation alongside expenditure composition. |
+| 📰 Union Budget 2026-27: fiscal deficit 4.3% of GDP (BE), against 4.4% in 2025-26 RE; capex ₹12.22 lakh crore (BE). | Keep Budget estimates separate from Survey trends and realised accounts; evaluate consolidation alongside expenditure composition. |
 
-Source for the Budget row: [PIB, 1 February 2026](https://pib.gov.in/PressReleasePage.aspx?PRID=2221395).
+Source for the Budget row: [Union Budget 2026-27 FRBM
+statement](https://www.indiabudget.gov.in/doc/frbm1.pdf).
 
 ## 10. PYQ-based analytical application
 
@@ -171,7 +176,7 @@ Source for the Budget row: [PIB, 1 February 2026](https://pib.gov.in/PressReleas
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`.
+- ✅ Foundation companion: `../basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`.
 - ✅ `10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md` — revenue and
   intergovernmental finance.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — capex quality and

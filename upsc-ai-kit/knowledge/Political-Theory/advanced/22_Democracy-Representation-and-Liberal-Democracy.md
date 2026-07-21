@@ -46,6 +46,9 @@ ADVANCED DEBATES
 - ✅ The analysis moves from ancient and classical discussions to modern liberal-democratic procedures, representation, electoral systems and minority safeguards (PDF pp.491-509).
 - ✅ It ends by shifting from state institutions toward Dewey's social interpretation of democracy as communication and associated living (PDF pp.510-512).
 - ⚠️ This file therefore explains **democratic theory**, not the legal-institutional details of India's election machinery, anti-defection rules or constituency law.
+- ⚠️ Gauba's historical account links liberal democracy with market society, but capitalism is not
+  treated here as a necessary or sufficient democratic test. The political test remains real
+  contestation under liberties, accountability and constitutional restraint.
 - ✅ Where Gauba discusses the Soviet Union, China, France, Australia or historic consociational cases, these are book-period or historical illustrations rather than present-status claims (PDF pp.498, 505-509).
 
 ## 3. Direct-book argument reconstruction
@@ -79,6 +82,17 @@ ADVANCED DEBATES
 - ✅ **Concurrent majority:** important minorities must concur, or retain veto power, on decisions affecting vital interests (PDF p.507).
 - ✅ **Consociational democracy:** executive power-sharing, segmental autonomy, proportionality and minority veto for deeply divided societies (PDF pp.508-509).
 - ⚠️ **Democracy as a way of life:** a wider thesis that those affected by decisions should have communicative voice and consulted participation beyond the formal state.
+
+### Necessary/sufficient audit
+
+| Condition | Status | Why |
+|---|---|---|
+| Periodic elections | Necessary, not sufficient | Non-democratic regimes may stage electoral façades (PDF pp.504-505). |
+| Real alternatives and secret/free choice | Necessary for electoral authorization | Without them, voting cannot express consent. |
+| Civil liberties and opposition | Necessary for will-formation and accountability | Citizens cannot choose or correct rulers under censorship or intimidation. |
+| Majority rule | Necessary decision rule, not sufficient theory | Minority rights and constitutional limits prevent numerical domination. |
+| Market economy | Neither necessary nor sufficient as a conceptual test | Historical association does not establish democratic legitimacy. |
+| Democratic culture | Supportive and often practically necessary, but not alone sufficient | Consultation without enforceable institutions cannot restrain arbitrary power. |
 
 ## 5. Thinker-by-thinker positions
 
@@ -116,6 +130,8 @@ ADVANCED DEBATES
 - ✅ Concurrent majority and consociational devices protect minorities, yet they also imply a willingness to slow or complicate simple majority decision in the name of coexistence (PDF pp.507-509).
 - ✅ Dewey's view critiques purely election-centred democracy by insisting that public reasoning, small-group communication and non-authoritarian institutions matter throughout social life (PDF pp.510-512).
 - ⚠️ A strong UPSC synthesis is that democracy lives in a tension between governability, representation and inclusion.
+- ⚠️ Propaganda exposes a further condition: formal choice is not sufficient when information is
+  systematically manipulated and citizens cannot form or revise judgment freely.
 
 ## 8. Comparative matrix
 
@@ -155,6 +171,10 @@ ADVANCED DEBATES
 - ⚠️ **Prompt 3:** Compare plurality, majoritarian and proportional devices with special reference to minority protection.
 - ⚠️ **Prompt 4:** Can majority rule remain democratic without constitutional safeguards for minorities?
 - ⚠️ **Prompt 5:** Explain Dewey's idea of democracy as a way of life and show how it extends democratic theory beyond parliament.
+- ✅ **Verified PYQ cluster:** Plato's critique of democracy (2025); challenges of a democratic
+  state (2023); propaganda as a democratic challenge (2022).
+- ⚠️ Mains argument map: democratic threshold -> necessary/sufficient audit -> representation
+  model -> electoral translation -> minority safeguards -> social preconditions -> qualified verdict.
 
 ## 11. Cross-links and exclusions
 
@@ -178,5 +198,6 @@ ADVANCED DEBATES
 ## 13. Sources, metadata and tags
 
 - ✅ Primary source used: Gauba, Ch.22 "Concept of Democracy" (PDF pp.491-512).
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
 - ✅ Major source clusters used: classical accounts and criticisms (PDF pp.491-494); liberal democracy's principles and mechanism (PDF pp.495-500); representation theories and electoral systems (PDF pp.500-509); conditions of democratic success and democracy as a way of life (PDF pp.509-512).
 - ⚠️ All institutional examples are handled as historical or book-period unless independently dated otherwise.

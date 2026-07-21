@@ -1,7 +1,7 @@
 # Comptroller & Auditor General (CAG) (Articles 148–151) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 51 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 51 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/CAG.md`.*
 

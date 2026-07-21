@@ -16,8 +16,8 @@
 | ✅ 1952–53 | Sriramulu's death; Andhra conceded — mass agitation overrides elite caution |
 | ✅ 1955–56 | SRC report and the States Reorganisation Act generalise the principle |
 | ✅ 1960 | Bombay bifurcated after violent Samyukta Maharashtra / Mahagujarat agitations |
-| ✅ 1965 | Anti-Hindi agitation in Tamil Nadu; English retained as associate official language |
-| ✅ 1966 | Punjab reorganised — the one case framed as *communal* rather than purely linguistic |
+| ✅ 1965 | Anti-Hindi agitation in Tamil Nadu; continued use of English for Union official purposes secured politically |
+| ✅ 1966 | Punjab reorganised after a language demand that had acquired strong communal overtones |
 
 ## 1. Snapshot & core idea
 
@@ -31,7 +31,7 @@
 **Deeper — the exceptions and the limits reveal the model's logic.**
 
 - ✅ The **SRC declined** to split bilingual Bombay and Punjab immediately; both were later reorganised (1960, 1966) only after sustained agitation.
-- ✅ **Punjab (1966)** was treated as a special, quasi-**communal** case (Akali Dal / Jan Sangh, Sikh–Hindu mobilisation), not a pure language question — foreshadowing the later Punjab crisis.
+- ✅ In Chandra's account, the **Punjab (1966)** demand had acquired communal overtones through Akali Dal and Jan Sangh mobilisation; this does not make every supporter or the linguistic issue itself "communal".
 - ✅ The **official-language settlement** evolved through repeated agitation into **bilingualism** (Hindi + English) and the three-language formula, culminating in the 1965 crisis.
 - ⚠️ **Regional inequality** was real but, the author argues, did not generally translate into separatism, because federal transfers, planning and democratic bargaining channelled discontent.
 
@@ -42,7 +42,7 @@
 | ✅ Principle vs timing | Linguistic principle accepted since 1921; only the *timing* was contested after 1947 |
 | ✅ Causal mechanism | Mass agitation + martyrdom (Sriramulu) forced concession the elite had deferred |
 | ✅ SRC logic | Endorsed language as an organising basis but resisted splitting bilingual units |
-| ✅ Punjab exception | Framed as communal, not linguistic — a warning sign of the 1980s crisis |
+| ✅ Punjab exception | Linguistic demand with communalised mobilisation in Chandra's account; not reducible to religion alone |
 | ✅ Language settlement | Democratic compromise → bilingualism, not coercive Hindi imposition |
 | ⚠️ Regional inequality | Genuine but managed; rarely produced separatism outside special cases |
 
@@ -59,7 +59,7 @@
 - ✅ The **JVP Committee (1948)** comprised **Nehru, Patel and Pattabhi Sitaramayya**.
 - ✅ **Andhra (1953)** preceded the SRC; the **SRC reported in 1955**; the **Act came in 1956** (14 states, 6 UTs).
 - ✅ The **Official Languages Act, 1963** provided for the continued use of English; the **1965 agitation** cemented it.
-- ✅ **Punjab's 1966 reorganisation** was treated as a communal, not purely linguistic, question.
+- ✅ **Punjab's 1966 reorganisation** followed a linguistic demand entangled with Sikh-Hindu political mobilisation; use an attributed, not categorical, communalism claim.
 - ✅ Regional inequality is treated as real but generally **not separatist** in its effects.
 
 ## 5. UPSC Traps
@@ -69,7 +69,7 @@
 - ❌ The leadership always favoured linguistic states. → It **deferred** them post-1947 on security grounds, then conceded under pressure.
 - ❌ The SRC recommended splitting Bombay and Punjab at once. → It **declined**; both came later after agitation.
 - ❌ Punjab's reorganisation was purely linguistic. → It was handled as a **communal-cum-linguistic** special case.
-- ❌ The 1965 crisis imposed Hindi nationwide. → It **preserved English** as an associate official language.
+- ❌ The 1965 crisis imposed Hindi nationwide. → It reinforced the **continued statutory use of English for Union official purposes**.
 - ❌ Regional inequality drove widespread separatism. → It was largely **managed within** the federal-democratic system.
 
 ## 6. 📰 Current link

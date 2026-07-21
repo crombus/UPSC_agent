@@ -15,6 +15,7 @@
 | ✅ Gautamiputra Satakarni | AD 106–130 | Restores fortunes; defeats Shakas/Kshaharatas |
 | ✅ Vashishthiputra Pulumavi | AD 130–154 | Continued Deccan-Andhra presence |
 | ✅ Yajna Sri Satakarni | AD 165–194 | Last great Satavahana ruler |
+| ✅ End of dynasty | c. mid-3rd c. AD | Regional successor states emerge |
 
 ## 1. Snapshot & core idea
 
@@ -31,6 +32,8 @@
 - ✅ They were among the **first rulers to make land grants to Brahmanas**, while more numerous grants went to Buddhist monks.
 - ✅ Official inscriptions used **Prakrit** and **Brahmi**; the *Gathasaptasati/Gathasattasai* is attributed to King Hala, though later retouching is likely.
 - ✅ Buddhism flourished at **Nasik, Junnar, Nagarjunakonda and Amaravati**, with trader and artisan support.
+- ✅ Iron ploughshares, **paddy transplantation**, cotton production and trade strengthened the Deccan agrarian base; the Krishna-Godavari delta became a major rice-producing zone.
+- ✅ Matronymic names such as **Gautamiputra** and **Vashishthiputra** indicate maternal/gotra affiliation, not matriarchy; dynastic succession remained patrilineal.
 
 ## 2. Key classification / data
 
@@ -50,13 +53,14 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Satavahanas: c. 1st c. BC–2nd c. AD in RS Sharma's chronology; Deccan-based polity.
+- ✅ Satavahanas: c. 1st c. BC–mid-3rd c. AD; Deccan-based polity.
 - ✅ Gautamiputra Satakarni defeated Shakas/Kshaharatas and restruck Nahapana's silver coins.
 - ✅ District units were called **ahara**; officials included **amatyas** and **mahamatras**.
 - ✅ Satavahanas used **Prakrit** in inscriptions written in **Brahmi**.
 - ✅ They began early **land grants to Brahmanas**, but Buddhist monks also received grants.
 - ✅ **Karle/Nasik/Junnar** represent western Deccan rock-cut Buddhist activity; **Amaravati** became a major Buddhist centre.
 - ✅ Hala is associated with the Prakrit *Gathasaptasati*.
+- ✅ Matronymics do not equal matrilineal succession; paddy transplantation is a high-yield Deccan agrarian marker.
 
 ## 5. UPSC Traps
 
@@ -69,7 +73,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Amaravati Buddhist heritage, 2025:** PIB-linked updates around Amaravati highlighted completed PRASHAD amenities for the **Mahachaitya/ASI museum** and PM's May 2025 launch of large development projects in Amaravati. Use it to connect Satavahana-era Buddhist patronage at Amaravati with modern heritage-led urban development.
+⚠️ **Current-link discipline:** Verify any Amaravati conservation or tourism project from ASI/Ministry records. The safe linkage is balancing Buddhist-site conservation with modern urban development.
 
 ## 7. Mains angles
 

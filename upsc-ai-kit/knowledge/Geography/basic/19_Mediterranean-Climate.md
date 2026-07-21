@@ -51,7 +51,8 @@
 
 ✅ Mediterranean vegetation is **sclerophyllous scrub/woodland**: drought-resistant, small broad-leaved, widely spaced trees and shrubs, with an absence of deep shade. ✅ Local scrub names include **maquis** in the Mediterranean, **chaparral** in California and **mallee** in Australia. ✅ Typical plants include **olive, cork oak, fig and eucalyptus**, with deep roots, waxy/leathery leaves and thick bark.
 
-✅ Because summer is dry and winter is cool, plant growth concentrates in **autumn and spring**. ✅ Mediterranean agriculture specialises in **orchards of citrus fruits**, with cereals subordinate to tree crops. ✅ **Wheat and barley** are winter crops, and viticulture is central; source notes state about **three-quarters of the world’s wine** comes from Mediterranean regions.
+✅ Because summer is dry and winter is cool, plant growth concentrates in **autumn and spring**. ✅ Mediterranean agriculture specialises in **orchards of citrus fruits**, with cereals subordinate to tree crops. ✅ **Wheat and barley** are winter crops, and viticulture is central. Leong's old world-wine share is a
+historical textbook snapshot and must not be used as a current production share.
 
 | Component | ✅ Book-grounded fact |
 |---|---|
@@ -73,7 +74,7 @@
 - ✅ Growth is concentrated in **autumn and spring**.
 - ✅ Agriculture: citrus/fruit orchards, winter wheat/barley, viticulture.
 - ✅ Local winds: **Sirocco hot**, **Mistral cold**.
-- ✅ Source notes: about **three-quarters of world wine** from Mediterranean regions.
+- ✅ Mediterranean regions are major wine producers; current shares require dated production data.
 
 ## 6. UPSC Traps
 
@@ -85,7 +86,9 @@
 
 ## 7. 📰 Current link
 
-📰 **2025 Mediterranean wildfires:** 2025 was Europe’s worst wildfire season on record, with **over 1 million hectares** burned across Greece, Spain, Italy, Turkey, Cyprus and southern France amid **40–45°C** heat and drought. Rapid-attribution science found hot, dry, windy conditions were made **~10x more likely** by climate change; fires released about **~38 million tonnes CO2**. Mediterranean summer drought plus flammable maquis/chaparral scrub creates high fire risk; longer fire seasons and a possible **~50% rise by 2100** were noted in the source content.
+📰 **Mediterranean wildfire seasons:** summer drought, heat, wind, fuel continuity and ignition create
+high fire risk. Climate change is lengthening fire-weather seasons, but annual “worst on record” area,
+attribution multipliers and emissions must be tied to a named agency and final seasonal dataset.
 
 ## 8. Mains angles
 

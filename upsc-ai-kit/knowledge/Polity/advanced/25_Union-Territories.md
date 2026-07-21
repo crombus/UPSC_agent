@@ -1,7 +1,7 @@
 # Union Territories (Articles 239–241, Part VIII) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 40 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 40 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Union-Territories.md`.*
 

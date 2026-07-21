@@ -77,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-📰 **2nd WHO Global Summit on Traditional Medicine, New Delhi (December 2025):** co-hosted by Ministry of AYUSH and WHO, it foregrounds evidence-based traditional medicine. Use it as a current hook for ancient India's medical legacy and the need to validate heritage scientifically.
+⚠️ **Current-link discipline:** Verify any traditional-medicine summit from WHO/AYUSH records. The safe linkage is the need to test inherited medical knowledge through evidence, regulation and historical source criticism.
 
 ## 7. Mains angles
 

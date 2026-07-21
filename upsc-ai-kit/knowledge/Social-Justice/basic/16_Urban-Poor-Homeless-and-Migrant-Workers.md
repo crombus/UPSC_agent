@@ -5,7 +5,9 @@
 > **Core area:** Urban homelessness, slum upgrading, migrant-worker protection,
 > street-vendor livelihoods, ration portability.
 > **Grounded in:** DAY-NULM (Shelter for Urban Homeless, MoHUA); PM SVANidhi (2020);
-> Code on Occupational Safety, Health and Working Conditions, 2020 (migrant provisions);
+> Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014;
+> Code on Occupational Safety, Health and Working Conditions, 2020 (enacted,
+> notification-dependent commencement); Inter-State Migrant Workmen Act, 1979;
 > ONORC (cross-link Topic 02); 2024 GS-I PYQ (migration to large cities); 2025 GS-I PYQ
 > (smart city and urban poverty).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
@@ -37,7 +39,7 @@ URBAN VULNERABILITY: HOUSING-LIVELIHOOD-PORTABILITY NEXUS
 │                        v                                              │
 │                MIGRANT WORKERS                                        │
 │         (seasonal/circular, inter-state)                              │
-│         - Code on OSH, 2020 (migrant provisions)                      │
+│         - applicable migrant-law route (OSHWC status / 1979 Act)       │
 │         - ONORC portability (ration entitlement)                      │
 │         - housing-livelihood intersection                             │
 │                        |                                              │
@@ -56,8 +58,8 @@ SLUM TYPOLOGY (housing-insecurity spectrum):
 **Core proposition:** ✅ Urban poverty manifests as a housing-livelihood-portability
 nexus: homeless and slum-dwelling populations lack secure shelter; street vendors and
 migrant workers face livelihood precarity; and migrant workers additionally face
-entitlement-portability barriers — DAY-NULM (SUH), PM SVANidhi and ONORC address these
-distinct but intersecting vulnerabilities.
+entitlement-portability barriers — DAY-NULM (SUH), the Street Vendors Act/PM SVANidhi
+combination and ONORC address these distinct but intersecting vulnerabilities.
 
 ## 2. Essential definitions
 
@@ -67,7 +69,8 @@ distinct but intersecting vulnerabilities.
 | ✅ **Shelter for Urban Homeless (SUH)** | DAY-NULM component providing permanent all-weather shelters with 24x7 access, bedding, water/sanitation and referral linkages to health/skill/livelihood services for the urban homeless population. |
 | ✅ **PM SVANidhi (2020)** | PM Street Vendor's AtmaNirbhar Nidhi — launched during COVID-19 recovery; provides collateral-free working-capital micro-loans to street vendors in escalating tranches (initial loan, higher-value renewal contingent on timely repayment), with interest subsidy and digital-payment cashback incentive. |
 | ✅ **ONORC** | One Nation One Ration Card — enables portability of NFSA entitlements across states using Aadhaar-seeded ration cards and ePoS machines; critical for migrant workers whose seasonal/circular migration disrupts fixed-ration-shop access. |
-| ✅ **Code on Occupational Safety, Health and Working Conditions, 2020** | One of the four Labour Codes (in force 21 Nov 2025); subsumes the erstwhile Inter-State Migrant Workmen Act, 1979, carrying forward migrant-worker protections (registration, displacement allowance, journey allowance, equal pay). |
+| ✅ **Street Vendors Act, 2014** | The Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act recognises vending as a regulated livelihood, provides Town Vending Committees, surveys/certificates of vending, vending plans and procedural safeguards against eviction. PM SVANidhi credit does not replace these legal protections. |
+| ✅ **OSHWC Code, 2020 and migrant law status** | The Code is enacted and contains a revised inter-State migrant-worker framework, but commencement is notification-dependent. As at 21 July 2026, do not claim it has universally replaced the Inter-State Migrant Workmen Act, 1979; cite the applicable commencement and State/legacy law. |
 | ⚠️ **Houseless vs slum-dwelling** | Houseless/roofless persons have no shelter at all (pavement dwellers); slum-dwellers have shelter but in informal settlements with tenure insecurity and inadequate services — distinct categories of housing deprivation. |
 | ⚠️ **Circular/seasonal migration** | Migration patterns where workers move repeatedly between origin (often rural) and destination (often urban) in response to seasonal labour demand — disrupts fixed-entitlement models. |
 
@@ -79,8 +82,8 @@ distinct but intersecting vulnerabilities.
    rural model (cross-link `Governance/basic/04` for SHG social-capital theory).
 2. **Shelter for Urban Homeless (SUH):** Urban local bodies establish and operate
    permanent shelters; shelters provide 24x7 access, bedding, water, sanitation, health
-   referral and livelihood-linkage services; target: one shelter per 100,000 urban
-   population.
+   referral and livelihood-linkage services. The guideline norm is one shelter per
+   100,000 urban population, but location, capacity and service linkage determine use.
 3. **PM SVANidhi (2020):** Street vendors receive an initial micro-loan (₹10,000);
    timely repayment qualifies for a higher second tranche (₹20,000) and third tranche
    (₹50,000); interest subsidy (7%) and digital-payment cashback incentivise formal
@@ -88,10 +91,11 @@ distinct but intersecting vulnerabilities.
 4. **ONORC portability:** A migrant worker with an Aadhaar-seeded ration card can draw
    NFSA foodgrain entitlement at any ePoS-enabled Fair Price Shop across states; this
    addresses the portability barrier for seasonal/circular migrants.
-5. **Code on OSH, 2020 (migrant provisions):** Carries forward protections from the
-   erstwhile Inter-State Migrant Workmen Act, 1979 — registration of establishments
-   employing inter-state migrants, displacement allowance, journey allowance, equal pay
-   with local workers; cross-link `basic/15` and `Economy/basic/22` for Code architecture.
+5. **Migrant-worker legal route:** The enacted OSHWC Code contains a revised migrant-worker
+   architecture, but its broad nationwide commencement must not be presumed. Until an
+   applicable provision is commenced, trace registration, displacement/journey allowance
+   and equal-treatment claims through the Inter-State Migrant Workmen Act, 1979 and
+   applicable State implementation; cross-link `basic/15` and `Economy/basic/22`.
 
 ## 4. Institutions and tools
 
@@ -99,10 +103,14 @@ distinct but intersecting vulnerabilities.
   Livelihoods Missions; covers livelihood, shelter and social-mobilisation components.
 - ✅ **PM SVANidhi (MoHUA, 2020):** Micro-credit scheme for street vendors; administered
   through banks and lending institutions; digital-payment cashback via UPI incentives.
+- ✅ **Street Vendors Act, 2014:** Town Vending Committees, survey/certificate and vending-
+  plan framework; the legal right/regulated-livelihood issue is distinct from PM SVANidhi
+  credit.
 - ✅ **ONORC (cross-link `basic/02`):** Portability mechanism under NFSA; depends on
   Aadhaar-seeding and ePoS infrastructure; full national rollout achieved.
-- ✅ **Code on OSH, 2020 (in force 21 Nov 2025):** Subsumes migrant-worker provisions;
-  state rules operationalise registration and allowance disbursement.
+- ✅ **OSHWC Code, 2020:** enacted migrant-worker framework with notification-dependent
+  commencement. Do not say it has universally subsumed the 1979 Act without a specific
+  operative notification.
 - ⚠️ Cross-link `Governance/basic/04_NGOs-SHGs-and-Civil-Society-Stakeholders.md` —
   SHG-based livelihood and social-capital concepts applicable to DAY-NULM's urban SHGs.
 
@@ -152,7 +160,9 @@ distributive justice?"
   vendors with an interest subsidy and digital-payment cashback.
 - ✅ ONORC enables NFSA entitlement portability across states using Aadhaar-seeded ration
   cards and ePoS machines.
-- ✅ The Code on OSH, 2020, subsumes the erstwhile Inter-State Migrant Workmen Act, 1979.
+- ✅ The OSHWC Code, 2020 contains a migrant-worker framework, but its commencement must
+  be distinguished from enactment; the 1979 Act remains relevant where replacement
+  provisions are not operative.
 
 ## 7. UPSC traps
 
@@ -160,6 +170,9 @@ distributive justice?"
   DAY-NRLM is the rural counterpart (MoRD).
 - ❌ PM SVANidhi provides grant assistance. -> PM SVANidhi provides micro-loans
   (collateral-free, with interest subsidy), not grants.
+- ❌ PM SVANidhi itself gives a vendor a legal vending right. -> Credit is separate from
+  the Street Vendors Act's Town Vending Committee, survey/certificate and vending-plan
+  protections.
 - ❌ ONORC is a new scheme separate from NFSA. -> ONORC is a portability mechanism within
   the existing NFSA framework, not a separate entitlement.
 - ❌ Smart Cities Mission directly targets urban poverty alleviation. -> The Mission's
@@ -168,9 +181,10 @@ distributive justice?"
 
 ## 8. 📰 Current anchor
 
-- 📰 PM SVANidhi disbursement counts and DAY-NULM shelter numbers are updated on
-  respective portals; no fixed figure is asserted here. The durable facts are scheme
-  objectives, launch dates and institutional architecture.
+- 📰 **Status check (21 July 2026):** PM SVANidhi disbursement and SUH shelter counts are
+  dynamic dashboard outputs. The OSHWC Code must be described as enacted with
+  notification-dependent commencement, not as universally in force; pair migrant welfare
+  with ONORC and the applicable legacy/State labour route.
 - ✅ 2024 GS-I PYQ and 2025 GS-I PYQ (cited above) provide direct exam anchors for
   migration and smart-city-urban-poverty questions.
 
@@ -212,7 +226,7 @@ distributive justice?"
 - ✅ Advanced companion: `advanced/16_Urban-Poor-Homeless-and-Migrant-Workers.md`.
 - ✅ `basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md` — ONORC portability, NFSA
   entitlement framework.
-- ✅ `basic/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md` — Code on OSH
-  migrant provisions, e-Shram.
+- ✅ `basic/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md` — labour-code
+  status ladder, e-Shram and social-security access.
 - ✅ `Governance/basic/04_NGOs-SHGs-and-Civil-Society-Stakeholders.md` — SHG social-
   capital concept applicable to DAY-NULM urban SHGs.

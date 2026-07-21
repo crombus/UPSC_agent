@@ -26,18 +26,20 @@ gestural language.
 
 | Term | Exam-ready meaning |
 |---|---|
-| ✅ **Natya Veda** | Per Bharata's Natya Shastra (200 BC-200 AD), Brahma's "fifth Veda," combining Paathya (words, from Rig Veda), Abhinaya (gestures, from Yajur Veda), Geet (music, from Sama Veda) and Rasa (emotions, from Atharva Veda) (*Nitin…pdf*, PDF pp. 458-459). |
+| ✅ **Natya Veda** | The *Natyashastra*, a layered text conventionally attributed to Bharata and broadly dated across the late centuries BCE/early centuries CE, narrates drama as a "fifth Veda" combining text, enactment, music and rasa. Avoid a falsely exact composition date. |
 | ✅ **Lasya vs. Tandava** | Lasya = graceful, feminine aspect of dance (bhava, rasa, abhinaya emphasis); Tandava = rhythmic, masculine aspect (movement emphasis) (*Nitin…pdf*, PDF p. 459). |
 | ✅ **Nritta, Natya, Nritya** | Per Nandikeshvara's *Abhinaya Darpana*: Nritta = rhythmic steps without expression; Natya = dramatic/story representation; Nritya = expression/emotion through mudras (*Nitin…pdf*, PDF p. 460). |
 | ✅ **Nine rasas** | Shringara (love), Roudra (anger), Bibhatsa (disgust), Veera (heroism), Shanta (peace), Haasya (laughter), Karuna (sorrow), Bhayanaka (horror), Adbhuta (wonder) — the same rasa framework used in music (topic 08) (*Nitin…pdf*, PDF p. 460). |
-| ✅ **Mudra** | A codified hand gesture (108 fundamental mudras) combined with body posture to convey emotion (*Nitin…pdf*, PDF p. 461). |
+| ✅ **Hasta/mudra and karana** | Hasta/mudra = codified hand gesture; karana = coordinated unit of body movement. The famous number 108 belongs to *karanas*, not "108 fundamental mudras." |
 | ✅ **Guru-shishya parampara** | The core transmission principle of Indian classical dance — true knowledge transfer occurs only through a guru, passing on distinct traditions (sampradayas) (*Nitin…pdf*, PDF p. 461). |
 
 ## 3. Core classification
 
-✅ Per the Sangeet Natak Akademi, India presently recognises **eight
+✅ Sangeet Natak Akademi's standard list has **eight
 classical dance forms**: Bharatanatyam, Kuchipudi, Kathakali, Mohiniyattam,
 Kathak, Odissi, Manipuri and Sattriya (*Nitin…pdf*, PDF pp. 461-462).
+Nitin separately notes a Ministry of Culture list of nine including Chhau;
+do not merge the two institutional lists.
 
 ## 4. Foundation narrative
 
@@ -47,8 +49,7 @@ Krishna Iyer after the devadasi system's decline, and given global
 recognition by Rukmini Devi Arundale (*Nitin…pdf*, PDF p. 462). ✅ The
 "Tanjore Quartet" (Chinnaiah, Ponniah, Vadivelu, Sivanandam) defined its
 recital structure: Alarippu, Jatiswaram, Shabdam, Varnam, Padam, Jawali,
-Thillana (*Nitin…pdf*, PDF pp. 462-463). ✅ Bharatanatyam is called the
-"fire dance," using Adavu (steps), Hastamudra (hand gestures) and
+Thillana (*Nitin…pdf*, PDF pp. 462-463). ✅ Bharatanatyam uses adavu (movement units), hasta (hand gestures) and
 Bhavabhinaya (facial expression), with performances opening with worship
 of Ganapati and Nataraja (*Nitin…pdf*, PDF p. 463). ✅ **Kuchipudi**
 (Andhra Pradesh) is named after Kuchelapuram village, originally
@@ -84,12 +85,12 @@ Kathak | Odissi | Manipuri | Sattriya
 |---|---|---|
 | ✅ Bharatanatyam | Tamil Nadu | Sadir/devadasi tradition; Tanjore Quartet |
 | ✅ Kuchipudi | Andhra Pradesh | Kuchelapuram village; Siddhendra |
-| ✅ Kathakali | Kerala | — |
-| ✅ Mohiniyattam | Kerala | — |
-| ✅ Kathak | North India | — |
-| ✅ Odissi | Odisha | — |
-| ✅ Manipuri | Manipur | — |
-| ✅ Sattriya | Assam | — |
+| ✅ Kathakali | Kerala | Dance-drama; elaborate make-up/costume; gesture-led acting |
+| ✅ Mohiniyattam | Kerala | Solo lasya-oriented form; swaying movement, white-gold costume |
+| ✅ Kathak | North India | Storytelling, tatkar footwork, chakkars; temple and court histories |
+| ✅ Odissi | Odisha | Tribhanga/chauka, Jayadeva repertoire, sculptural dialogue |
+| ✅ Manipuri | Manipur | Vaishnava raslila and pung/cholom traditions; restrained facial display |
+| ✅ Sattriya | Assam | Sankaradeva's sattra/ankiya-nat context; mati-akhora movement base |
 
 ## 6. Source spine
 
@@ -134,6 +135,15 @@ read dynamic figural sculpture at Khajuraho and in Chola Nataraja bronzes
   has a distinct regional and historical origin (e.g. Bharatanatyam's
   devadasi-tradition origin is specific to Tamil Nadu and not shared by
   Kathak or Sattriya).
+- ❌ The number 108 refers to basic dance mudras. -> It refers to karanas
+  in the *Natyashastra* tradition; hand-gesture counts vary by treatise.
+- ❌ Bharatanatyam passed unchanged from an ancient temple origin to the
+  modern stage. -> Sadir repertories, hereditary practitioners,
+  anti-nautch disruption and twentieth-century reconfiguration/revival all
+  shaped the present form.
+- ✅ **Local PYQ trap:** CSE 2014 on Sattriya tests Assam, sattra/monastic
+  association and devotional performance; do not confuse it with
+  Manipuri or a generic folk form.
 
 ## 10. Mains framework
 

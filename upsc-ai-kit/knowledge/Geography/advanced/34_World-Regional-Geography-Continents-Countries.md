@@ -1,7 +1,7 @@
 # World Regional Geography: Continents, Countries & India's Outward Geography — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied + map-intensive) · **GS Paper:** GS-I with GS-II/GS-III overlap
-> **Grounded in:** Majid Husain, *Indian & World Geography* (continent, country and regional tables) + verified current anchors.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified outward-connectivity current anchor.
 > ✅ = grounded source · ⚠️ = synthesis / answer-writing lens · 📰 = verified dated current-affairs anchor.
 > *Companion: `basic/34_World-Regional-Geography-Continents-Countries.md`.*
 
@@ -68,7 +68,7 @@
 | South-East Asia | Thailand | Bangkok | Mainland SE Asia, Gulf of Thailand | Bay-Mekong transition zone |
 | South-East Asia | Vietnam | Hanoi | Red River and South China Sea coast | Western South China Sea littoral |
 | South-East Asia | Singapore | Singapore | Malacca-South China Sea gateway | Global chokepoint city-state |
-| South-East Asia | Indonesia | Jakarta | Archipelago straddling Indian and Pacific oceans | Andaman-to-Malacca strategic arc |
+| South-East Asia | Indonesia | Jakarta / Nusantara transition | Archipelago straddling Indian and Pacific oceans | Verify the legal capital-transfer stage in current affairs |
 | South-East Asia | Philippines | Manila | Western Pacific archipelago | Island arc east of South China Sea |
 | East Asia | China | Beijing | Tibetan Plateau + eastern seaboard duality | Continental and maritime giant adjoining India |
 | East Asia | Japan | Tokyo | Pacific island arc | Maritime industrial power |

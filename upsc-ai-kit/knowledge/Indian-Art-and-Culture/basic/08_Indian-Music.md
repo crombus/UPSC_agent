@@ -6,7 +6,9 @@
 > gharana system; Dhrupad/Khayal/Thumri/Tappa/Ghazal styles; instruments;
 > folk music.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 411-457; `00_Master-Framework.md` Section 3; audited UPSC Mains 2024-2025
+> 411-457; Satish Chandra, *History of Medieval India*, PDF pp. 332-334;
+> Satish Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp. 394-395;
+> `00_Master-Framework.md` Section 3; audited UPSC Mains 2024-2025
 > GS Paper I (no direct question).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/08_Indian-Music.md`.*
@@ -34,11 +36,14 @@ for any performing-arts question.
 
 ## 3. Core classification
 
-✅ Indian classical music divides into two major traditions: **Hindustani
-music** (North Indian, showing Arab/Persian/Afghan influence, with
-greater scope for improvisational freedom) and **Carnatic music** (South
-Indian, indigenously developed, with comparatively less improvisational
-scope) (*Nitin…pdf*, PDF pp. 411-ff). ✅ Hindustani vocal music
+✅ Indian classical music divides into two major traditions:
+**Hindustani** and **Carnatic**. Both draw on older shared theory and both
+contain extensive improvisation. Hindustani practice developed through
+North Indian courtly, devotional and Persianate encounters; Carnatic
+practice crystallised around South Indian temple/court/sabha networks.
+Their contrast is one of grammar, repertoire, ornament and performance
+sequence — not "foreign versus pure" or "improvised versus fixed."
+✅ Hindustani vocal music
 sub-classifies into styles including Dhrupad (oldest, associated with
 Mian Tansen), Khayal, Thumri, Tappa, Ghazal and Tarana, each carried by
 specific gharanas.
@@ -61,6 +66,22 @@ and Ghazal are named as distinct semi-classical Hindustani styles, each
 with its own historical origin and performance context (*Nitin…pdf*, PDF
 pp. 411-ff).
 
+✅ **Treatise spine:** Bharata's *Natyashastra* discusses music with drama;
+Matanga's *Brihaddeshi* is associated with an early definition of raga;
+Sharngadeva's *Sangita Ratnakara* (13th century) is a major pre-bifurcation
+authority; Venkatamakhin's *Chaturdandi Prakasika* underlies the
+melakarta approach; modern Hindustani pedagogy was systematised by V.N.
+Bhatkhande and V.D. Paluskar. ✅ Carnatic classification uses 72
+melakarta parent ragas and derived janya ragas; this is not the same system
+as Hindustani thaats.
+
+✅ Satish Chandra corrects a common Aurangzeb cliché: singing was removed
+from the imperial court, but instrumental music continued; royal women and
+nobles patronised music, Aurangzeb played the veena, and substantial music
+literature was produced. Sadarang and Adarang later strengthened khayal
+under Muhammad Shah; the invention dates of tabla and sitar remain
+uncertain (*Part 2*, PDF pp. 394-395).
+
 ## 5. Visual map or comparison table
 
 ```text
@@ -72,9 +93,9 @@ THAAT (parent scale) --------> RAGA (specific melodic entity,
         |
         v
 HINDUSTANI MUSIC                    CARNATIC MUSIC
-(North Indian, Arab/Persian/         (South Indian, indigenous,
-Afghan influence, more                less improvisational
-improvisational freedom)              freedom)
+(North Indian court/devotional       (South Indian temple/court/
+and Persianate encounters;           sabha ecology; extensive
+extensive improvisation)             manodharma improvisation)
         |
         v
 DHRUPAD -> KHAYAL -> THUMRI/TAPPA/GHAZAL/TARANA
@@ -84,8 +105,10 @@ Kirana, Agra, Patiala, Bhendibazaar...)
 
 | Basis | Hindustani music | Carnatic music |
 |---|---|---|
-| ✅ Influence | Arab, Persian and Afghan | Indigenous |
-| ✅ Freedom | More scope for improvisation | Less scope for improvisation |
+| ✅ Historical ecology | North Indian temple, devotional, Sultanate/Mughal and regional-court networks | South Indian temple, court and later sabha networks |
+| ✅ Parent-scale system | Bhatkhande's 10 thaats (pedagogic classification) | 72 melakartas; janya ragas derived from them |
+| ✅ Improvisation | Alap, bol-bant, taan, layakari, etc. | Alapana, niraval, kalpana swara, tanam, pallavi, etc. |
+| ✅ Major forms | Dhrupad, khayal, thumri, tappa, tarana | Kriti, varnam, padam, javali, tillana, ragam-tanam-pallavi |
 
 ## 6. Source spine
 
@@ -118,12 +141,20 @@ accompaniment) and topic 10 (theatre-music overlap).
   notes and can have five, six or seven notes.
 - ❌ Hindustani and Carnatic music are stylistically identical traditions
   with only geographic labels distinguishing them. -> They differ in
-  external influence (Hindustani shows Arab/Persian/Afghan influence;
-  Carnatic developed indigenously) and in scope for improvisation.
+  repertoire, ornament, rhythmic treatment, parent-scale classification
+  and performance sequence, while sharing older theoretical roots.
 - ❌ All gharanas share an identical stylistic emphasis. -> Each gharana
   (Dagar, Darbhanga, Gwalior, Kirana, Agra, Patiala, Bhendibazaar) has a
   distinct named specialisation (e.g. Kirana's precise-swara focus vs.
   Patiala's Thumri/Ghazal specialisation).
+- ❌ Carnatic music has little or no improvisation. -> Manodharma is
+  fundamental; its formats differ from Hindustani improvisation.
+- ❌ Aurangzeb "buried music" throughout the empire. -> Court singing was
+  curtailed, not all music; instruments, noble/household patronage and
+  treatise production continued.
+- ✅ **Local PYQ traps:** CSE 2019 treats claims that Tansen "invented many
+  ragas" cautiously; CSE 2018 distinguishes Tyagaraja's mainly Rama-centred
+  kritis and rejects simplistic contemporaneity claims.
 
 ## 10. Mains framework
 

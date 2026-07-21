@@ -9,7 +9,7 @@
 | Item | Legislative Assembly (Vidhan Sabha) | Legislative Council (Vidhan Parishad) |
 |---|---|---|
 | **Nature** | ✅ Lower/popular, **directly elected** | ✅ Upper, **indirect + nominated**, permanent |
-| **Strength** | ✅ **60–500** | ✅ **max 1/3 of Assembly, min 40** |
+| **Strength** | ✅ Normally **60–500**, with special constitutional/statutory exceptions for smaller states | ✅ max 1/3 of Assembly, min 40 |
 | **Term** | 5 yrs, dissolvable (like LS) | Permanent, 1/3 retire every 2 yrs (like RS) |
 | **Articles** | 168–212 | |
 

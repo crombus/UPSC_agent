@@ -15,7 +15,7 @@ of the cold-continental softwood forest — an **altitudinal**, not latitudinal,
 
 ## 1. Himalayan altitudinal zonation (Majid Husain)
 
-✅ The Himalaya show **horizontal (altitudinal) zonation** of vegetation, from **humid tropical → conifers
+✅ The Himalaya show **vertical (altitudinal) zonation** of vegetation, from **humid tropical → conifers
 → alpine pastures**. ✅ At the highest altitudes are the **alpine pastures ("mergs")**, used by tribals to
 **graze cattle in summer**. These forests supply fuelwood, timber, gum, resins, lac and medicinal herbs.
 
@@ -23,12 +23,13 @@ of the cold-continental softwood forest — an **altitudinal**, not latitudinal,
 |---|---|---|
 | ✅ **Silver-fir (Abies)** | **2200–3000 m**, NW & NE Himalaya | Soft wood → planking, wood-pulp, paper, matchsticks |
 | ✅ **Spruce (Picea smithiana)** | High wet-temperate belt | Softwood conifer |
-| ✅ **Deodar (Cedrus deodara)** | ~1800–3600 m | Hard, durable — furniture, railway sleepers; yields resin/turpentine |
+| ✅ **Deodar (Cedrus deodara)** | Western Himalayan temperate belt; altitude varies by aspect/region | Durable conifer timber; do not apply one range across the whole Himalaya |
 | ✅ **Chir pine** | Subtropical montane (100–200 cm, 15–22°C) | Resinous, fire-prone |
 
 ## 2. Key points
 
-- ✅ **Montane Wet Temperate forests** run **J&K → Arunachal**, **1500–3300 m**, temp **12–15°C**.
+- ✅ Montane wet-temperate forest belts vary east-west and by aspect; source altitude/temperature bands
+  are approximate ecological ranges, not sharp contour lines.
 - ✅ Above the coniferous belt lie **alpine scrub, meadows (bugyals/mergs)**, then snow — the treeline
   marking the ecological limit of trees.
 - ⚠️ These softwood conifers are India's chief source of **pulp, paper and match** timber, mirroring the
@@ -48,12 +49,10 @@ of the cold-continental softwood forest — an **altitudinal**, not latitudinal,
 
 ## 5. 📰 Current link
 
-📰 **Himalayan permafrost, rock glaciers & rising treeline (2025).** New mapping in Uttarakhand's Garhwal
-Himalaya charts **permafrost and rock glaciers** whose thaw destabilises slopes (the **2021 Chamoli**
-rock-ice avalanche, 200+ deaths, was linked to permafrost destabilisation). In the **Gori Ganga basin
-(Kumaon), 1990–2022**, the **snowline rose ~520 m** and the **alpine treeline advanced ~680 m upslope** —
-conifers and pastures shifting higher as warming reshapes India's cold-mountain ecology and raises
-landslide/GLOF risk.
+📰 **Himalayan permafrost, rock glaciers and treeline change:** inventories are expanding and warming
+can destabilise ice-rich slopes. The 2021 Chamoli disaster involved a massive rock-ice avalanche, but
+single-cause attribution to permafrost thaw is not settled. Basin-specific treeline/snowline shifts
+must retain their study area, period and method.
 
 ## 6. Mains angles
 

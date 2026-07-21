@@ -1,7 +1,7 @@
 # Indian States & Society in the Eighteenth Century — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* (Ch. II) + *India's Struggle for Independence* (backdrop) — with historiography on 18th-century regional state formation.
+> **Grounded in:** Bipan Chandra, *Modern India* (Ch. II), cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partition* — with historiography on eighteenth-century regional state formation.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/02_Indian-States-and-Society-18th-Century.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -30,7 +30,7 @@
 
 **Deeper — society and economy show continuity, not a blank "dark age".**
 
-- ✅ Village agriculture remained the base of production, and peasant surplus financed rulers, armies, nobles, merchants and religious establishments.
+- ✅ Village agriculture remained the base of production, but rural production was connected to credit, revenue and commodity networks; peasant surplus financed rulers, armies, nobles, merchants and religious establishments.
 - ✅ Trade and towns remained significant; merchant-bankers, revenue farmers and officials became crucial brokers between rulers and markets.
 - ✅ Religious tolerance and composite culture continued in courtly and popular life; political conflict did not automatically mean communal polarisation.
 - ⚠️ The limitation was technological: Indian production remained skilled but did not generate the same scientific-industrial breakthrough that transformed Europe.

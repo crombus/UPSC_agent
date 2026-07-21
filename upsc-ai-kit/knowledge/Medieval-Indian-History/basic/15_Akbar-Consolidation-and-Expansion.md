@@ -34,6 +34,7 @@
 **Foundation — expansion and Rajput policy went together.**
 
 - ✅ Akbar conquered Malwa, Garh-Katanga, Rajasthan forts, Gujarat, Bihar and Bengal in the first major phase of expansion.
+- ✅ The Garh-Katanga campaign ended with Rani Durgavati's death and severe Mughal plunder; Chittor's fall was followed by a large massacre. These episodes qualify triumphalist accounts of integration.
 - ✅ Chittor (1568) was key because it symbolised Rajput resistance and controlled routes to Gujarat.
 - ✅ Gujarat mattered because of fertile soil, crafts and import-export trade; Akbar saw the sea at Cambay for the first time.
 - ✅ Rajput alliance gave the Mughals brave warriors and gave Rajput rajas high imperial posts and jagirs.
@@ -76,11 +77,10 @@
 
 ## 6. 📰 Current link
 
-- 📰 **Fatehpur Sikri conservation and ASI-Waqf control debate (2025-26)** — Rau's IAS/ASI-linked coverage noted conflicts over shared control at monuments including Fatehpur Sikri; relevance: Akbar's capital remains central to heritage administration and conservation governance.
+📰 **Current linkage (verify live before use):** Fatehpur Sikri and Chittor can link imperial expansion with conservation and contested memory. Verify any management dispute from official or judicial records.
 
 ## 7. Mains angles
 
 - ⚠️ Explain how Akbar converted a fragile post-Humayun state into a durable empire.
 - ⚠️ Assess the Rajput alliance as a policy of political integration.
 - ⚠️ Compare Akbar's methods in Gujarat and Bengal with Humayun's earlier failures.
-

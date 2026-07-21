@@ -59,11 +59,12 @@ exploitation, cyberbullying, data privacy — that existing frameworks must adap
 |---|---|
 | ✅ **Child (POCSO Act)** | Any person below 18 years of age; the Act is gender-neutral. |
 | ✅ **POCSO Act, 2012** | Protection of Children from Sexual Offences Act — a dedicated statute addressing sexual offences against children, including penetrative/aggravated forms, with mandatory reporting, Special Courts and in-camera proceedings. |
-| ✅ **JJ Act, 2015** | Juvenile Justice (Care and Protection of Children) Act — distinguishes children in conflict with law (alleged offenders) from children in need of care and protection, with JJBs and CWCs as respective adjudicating/caring bodies. |
+| ✅ **JJ Act, 2015** | Juvenile Justice (Care and Protection of Children) Act — distinguishes children in conflict with law (alleged offenders) from children in need of care and protection, with JJBs and CWCs as respective adjudicating/caring bodies. For a 16–18-year-old accused of a heinous offence, the JJB first makes the statutory preliminary assessment; adult treatment is not automatic. |
 | ✅ **Juvenile Justice Board (JJB)** | A Board (Metropolitan/Judicial Magistrate + two social workers) that deals with children in conflict with law; has the power to conduct inquiry and dispose of cases. |
 | ✅ **Child Welfare Committee (CWC)** | A Committee (Chairperson + four members) with the power of a Bench of Magistrates, dealing with children in need of care and protection, ordering rehabilitation, foster care or institutional care. |
 | ✅ **Child labour (2016 Amendment)** | Complete prohibition of employment of children below 14 years in any occupation; adolescents (14-18) prohibited from hazardous occupations — Child Labour (Prohibition and Regulation) Amendment Act, 2016. |
 | ✅ **NCPCR** | National Commission for Protection of Child Rights — a statutory body under the Commissions for Protection of Child Rights Act, 2005, mandated to examine/review safeguards, inquire into violations and recommend measures. |
+| 📰 **DPDP child-data status** | The DPDP Act, 2023 contains child-data safeguards, and the 2025 Rules set phased commencement. As at 21 July 2026, the substantive child-data duties, including verifiable parental consent, are scheduled for 13 May 2027; do not describe them as current enforcement. |
 
 ## 3. How child-protection instruments work (mechanism)
 
@@ -73,18 +74,21 @@ exploitation, cyberbullying, data privacy — that existing frameworks must adap
    speedy trial; requires in-camera proceedings and child-friendly procedures (assistance
    of interpreter, special educator, support person).
 2. **JJ Act, 2015:** (a) Children in conflict with law (0-18) are dealt with by JJBs with
-   a rehabilitative focus; (b) for heinous offences by children aged 16-18, the JJB may
-   conduct a preliminary assessment and, if satisfied the child has mental/physical
-   capacity, transfer the case to a Children's Court for trial as an adult (post-2012
-   amendment response to the Nirbhaya case); (c) children in need of care and protection
+   a rehabilitative focus; (b) for a heinous offence alleged against a child aged 16-18,
+   the JJB conducts the Section 15 preliminary assessment of capacity, understanding and
+   circumstances before it may transfer the matter; the Children's Court then applies the
+   Act's safeguards in deciding treatment. Adult trial is therefore not automatic; (c)
+   children in need of care and protection
    are dealt with by CWCs, which may order foster care, sponsorship, adoption or
    institutional care.
 3. **Child Labour (2016 Amendment):** Complete prohibition of employment of children
-   (<14) in any occupation or process; adolescents (14-18) prohibited from hazardous
-   occupations and processes listed in the Schedule; family-based work and apprenticeship
-   under specified conditions are exempted with restrictions.
-4. **PCMA, 2006:** Child marriage (boy <21, girl <18) is voidable at the option of the
-   party who was a child at the time of marriage; Child Marriage Prohibition Officers
+   (<14) in any occupation or process; adolescents (14-18) are prohibited from hazardous
+   occupations and processes listed in the Schedule. The narrow family-enterprise and
+   child-artist exceptions carry statutory conditions; they are not a general licence for
+   child work.
+4. **PCMA, 2006:** Child marriage (boy <21, girl <18) is generally voidable at the option
+   of the party who was a child at marriage; the Act separately makes specified forced,
+   trafficked or abducted-child situations void. Child Marriage Prohibition Officers
    (CMPOs) are notified to prevent solemnisation and seek injunctions.
 5. **Mission Vatsalya (MWCD):** Umbrella child-protection scheme covering institutional
    care (Child Care Institutions under JJ Act), Child Helpline 1098, sponsorship and
@@ -108,10 +112,10 @@ exploitation, cyberbullying, data privacy — that existing frameworks must adap
   prevention and injunction.
 - ✅ **Mission Vatsalya (MWCD):** Child Care Institutions, Child Helpline 1098,
   sponsorship/foster care, JJ Act implementation support.
-- ✅ **NCPCR (Commissions for Protection of Child Rights Act, 2005):** Chairperson + 6
-  Members (each heading a subject area — education, health, juvenile justice, child
-  labour, child rights and laws, RTE implementation); mandate to examine safeguards,
-  inquire into violations, recommend measures; statutory body.
+- ✅ **NCPCR (Commissions for Protection of Child Rights Act, 2005):** Chairperson + six
+  Members (at least two women), drawn from the statutory child-rights fields; mandate to
+  examine safeguards, inquire into violations and recommend measures. It is a statutory,
+  not constitutional, body.
 
 ## 5. Indian applications and examples
 
@@ -149,9 +153,9 @@ exploitation, cyberbullying, data privacy — that existing frameworks must adap
 
 - ❌ POCSO Act applies only to female children. -> POCSO is gender-neutral; it protects
   all children below 18, regardless of gender.
-- ❌ All juveniles are tried by JJBs without exception. -> For heinous offences, children
-  aged 16-18 may be transferred to a Children's Court for trial as an adult after
-  preliminary assessment by the JJB.
+- ❌ All juveniles are tried by JJBs without exception. -> For a heinous offence alleged
+  against a 16–18-year-old, the JJB may transfer the matter after preliminary assessment;
+  adult treatment is not automatic.
 - ❌ Child labour is completely banned for all children below 18. -> The 2016 Amendment
   bans employment of children <14 in all occupations; for adolescents 14-18, only
   hazardous occupations are prohibited.
@@ -160,14 +164,15 @@ exploitation, cyberbullying, data privacy — that existing frameworks must adap
 
 ## 8. 📰 Current anchor
 
-- 📰 The 2025 GS-II PYQ Q18 explicitly tests NCPCR's role in addressing digital-era child
-  protection challenges. Existing policy responses include: (a) NCPCR's POCSO e-Box portal
-  for reporting online child sexual exploitation; (b) the National Cybercrime Reporting
-  Portal's dedicated child-sexual-abuse-material category; (c) IT (Intermediary
-  Guidelines) Rules requiring intermediaries to report CSAM and remove within specified
-  timelines. No specific case-disposal count is asserted here because portal data updates
-  continuously; the durable fact is the POCSO-IT Rules interplay and NCPCR's monitoring
-  mandate.
+- 📰 The 2025 GS-II PYQ Q18 explicitly tests NCPCR's role in digital-era child protection.
+  Existing routes include NCPCR's POCSO e-Box, the National Cybercrime Reporting Portal
+  and the IT Rules' user-notice, takedown and due-diligence obligations. Cite the
+  applicable rule/notice route rather than inventing a universal removal deadline; the
+  durable issue is POCSO–IT-Rules coordination and NCPCR monitoring.
+- 📰 **DPDP status (21 July 2026):** Child-data provisions in the DPDP Act/Rules are
+  notified on a phased schedule and the substantive child-data duties are due from
+  13 May 2027. Use them as an impending governance framework, not as a currently
+  enforceable substitute for POCSO/IT-Rules action.
 
 ## 9. PYQ application
 

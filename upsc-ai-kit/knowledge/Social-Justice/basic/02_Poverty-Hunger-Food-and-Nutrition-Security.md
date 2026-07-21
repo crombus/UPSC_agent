@@ -7,7 +7,7 @@
 > **Grounded in:** National Food Security Act, 2013; Pradhan Mantri Garib Kalyan Anna
 > Yojana merger with NFSA (free foodgrains from 1 Jan 2023, extended to Dec 2028);
 > ICDS/Saksham Anganwadi/Poshan 2.0 (MWCD); PM POSHAN (Ministry of Education);
-> NFHS-5 (2019-21) nutrition baseline; NFHS-6 (2023-24, released 29 May 2026);
+> NFHS-5 (2019-21), the latest published national nutrition round as at 21 July 2026;
 > 2024 GS-II PYQ Q7.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/02_Poverty-Hunger-Food-and-Nutrition-Security.md`.*
@@ -110,8 +110,9 @@ alone.
 - ✅ **ONORC:** Technical backbone provided by NIC/FCI; requires Aadhaar seeding,
   ePoS rollout and inter-state data sharing.
 - ✅ **NFHS (National Family Health Survey):** Primary survey source for stunting,
-  wasting, anaemia and related household outcomes; NFHS-6 (2023-24) was officially
-  released on 29 May 2026.
+  wasting, anaemia and related household outcomes. NFHS-5 (2019-21) remains the latest
+  published national round as at 21 July 2026; do not attach newer outcomes to an
+  unreleased NFHS-6 round.
 
 ## 5. Indian applications and examples
 
@@ -122,9 +123,9 @@ alone.
   ONORC, women's anaemia, WASH convergence).
 - ⚠️ ONORC enabled migrant workers during COVID-19 lockdowns to access rations
   outside their home states — illustrates the portability rationale.
-- ⚠️ NFHS-5 (2019-21) found stunting at ~35% and anaemia among children under 5 at
-  ~67% nationally (exact figures vary by state) — illustrates the scale of the
-  nutrition challenge.
+- ✅ **NFHS-5 (2019-21) baseline:** 35.5% of children under five were stunted, 19.3%
+  were wasted and 67.1% of children aged 6–59 months were anaemic nationally. These
+  are a dated baseline, not a current dashboard total.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -164,10 +165,9 @@ alone.
 
 ## 8. 📰 Current anchor
 
-- 📰 **NFHS-6 (2023-24):** The latest completed national round was officially
-  released on 29 May 2026. The NFHS-5 (2019-21) figures cited above remain dated
-  baseline values; do not relabel them as NFHS-6 outcomes, and use the official
-  NFHS-6 factsheets for any newer nutrition indicator.
+- 📰 **Survey-status check (21 July 2026):** NFHS-5 (2019-21) remains the latest
+  published national round. Retain the reporting round beside every nutrition figure;
+  do not invent, or relabel NFHS-5 values as, NFHS-6 outcomes.
 - 📰 **Free-foodgrain policy:** NFSA foodgrains have been distributed free of cost
   to AAY/priority-household beneficiaries since 1 January 2023 (PMGKAY merged
   into NFSA), and the Union Cabinet extended this free-distribution policy for
@@ -189,9 +189,9 @@ alone.
      convergence (sanitation-nutrition link).
   4. Conclude with the multi-sectoral, convergence imperative.
 
-- ✅ **2025 GS-II Q16 (15 marks, 250 words):** “With the growing inequality in the
-  ownership pattern of resources, the paradox of poverty in the midst of plenty is
-  becoming more and more evident in India. Critically comment.” Use the loop: unequal
+- ✅ **2025 GS-II Q16 (15 marks, 250 words):** “Inequality in the ownership pattern of
+  resources is one of the major causes of poverty. Discuss in the context of ‘paradox of
+  poverty’.” Use the loop: unequal
   land/assets/credit/digital access -> unequal opportunity and bargaining power -> low
   capability/income -> weak saving and asset formation -> inherited inequality. A
   critical-comment answer should test this explanation against joblessness, unequal
@@ -220,9 +220,9 @@ alone.
 - ✅ **Mains (10 marks, 2024 Q7):** Poverty and malnutrition create a vicious cycle,
   adversely affecting human capital formation. What steps can be taken to break
   the cycle?
-- ✅ **Mains (15 marks, 2025 GS-II Q16):** “With the growing inequality in the
-  ownership pattern of resources, the paradox of poverty in the midst of plenty is
-  becoming more and more evident in India. Critically comment.”
+- ✅ **Mains (15 marks, 2025 GS-II Q16):** “Inequality in the ownership pattern of
+  resources is one of the major causes of poverty. Discuss in the context of ‘paradox of
+  poverty’.”
 - ⚠️ **Prelims:** Which scheme enables inter-state portability of NFSA entitlements
   using Aadhaar-seeded ration cards — ONORC, PM POSHAN, Poshan 2.0 or NFHS?
 - ⚠️ **Mains (15 marks):** "Food security is necessary but not sufficient for

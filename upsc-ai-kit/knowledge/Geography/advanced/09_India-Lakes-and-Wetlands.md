@@ -21,8 +21,8 @@
 | ✅ Sheshnag | Glacial | Kashmir Himalaya |
 | ✅ Kailash-Kund | Glacial | Himalaya (listed in source) |
 | ✅ Sanasar | Glacial | Kashmir Himalaya |
-| ✅ Sat Tal | Glacial/tectonic lake group | Seven lakes near Bhimtal, Kumaun Himalaya; ~1,370 m; migratory-bird haven |
-| ✅ Naini | Glacial/tectonic | Kumaun, Uttarakhand |
+| ✅ Sat Tal | Interconnected Kumaun lake group; origin is complex | Near Bhimtal, Uttarakhand |
+| ✅ Naini | Tectonic/structural basin, modified by slope processes | Kumaun, Uttarakhand |
 | ✅ Wular | Tectonic freshwater lake | J&K; among Asia's largest freshwater lakes |
 | ✅ Chilika | Coastal lagoon | Odisha; east coast |
 | ✅ Pulicat | Coastal lagoon | Andhra Pradesh/Tamil Nadu; east coast |
@@ -33,7 +33,9 @@
 
 ### 3.1 Himalayan lakes
 
-✅ Himalayan lakes include **Gangabal, Sheshnag, Kailash-Kund and Sanasar** in ice-carved basins. ✅ Sat Tal is a group of seven lakes near Bhimtal at about **1,370 m**, noted as a migratory-bird haven. ✅ Naini is listed with the Kumaun lake group.
+✅ High Himalayan lakes include **Gangabal, Sheshnag and Kailash-Kund** in glacial settings. Do not
+classify every lower Kumaun lake as purely glacial: faulting, structural control, landslides and
+depositional blockage may interact.
 
 ### 3.2 Peninsular and coastal lakes
 
@@ -51,7 +53,7 @@
 - ✅ Chilika and Pulicat = east-coast lagoons.
 - ✅ Sambhar (Rajasthan) = major inland salt lake.
 - ✅ Sasthamkotta = Kerala's largest freshwater lake.
-- ✅ Sat Tal = seven lakes near Bhimtal, ~1,370 m, migratory-bird haven.
+- ✅ Sat Tal = Kumaun lake group near Bhimtal; avoid reducing its origin to a single glacial label.
 
 ## 5. UPSC Traps
 
@@ -65,14 +67,16 @@
 
 ### CA Anchor — Loktak Phumdis & India's Ramsar Network
 
-📰 **News trigger:** India reached **100 Ramsar sites on 5 June 2026** when the Jai Prakash Narayan Bird Sanctuary (**Surha Tal**, Ballia, Uttar Pradesh) was designated the country's 100th Wetland of International Importance. Loktak Lake (Manipur) remains a key conservation case because of its floating "phumdis" and Keibul Lamjao National Park.
+📰 **News trigger (verified 5 June 2026):** India reached **100 Ramsar sites** when Jai Prakash
+Narayan Bird Sanctuary (**Surha Tal**, Ballia, Uttar Pradesh) became the 100th Wetland of International Importance. Loktak Lake (Manipur) remains a key conservation case because of its floating "phumdis" and Keibul Lamjao National Park.
 
 ✅ Loktak shows a lake's ecology as a living system: floating phumdis are matted vegetation/soil that host a unique deer, but the lake is stressed by the Ithai barrage and pollution.
 
 - ✅ Phumdis = floating masses of vegetation, soil and organic matter on Loktak.
 - ✅ The Keibul Lamjao floating national park sits on phumdis and shelters the endangered Sangai deer.
 - ✅ Loktak is on the Montreux Record (Ramsar sites needing priority conservation) due to shrinking phumdis, the Ithai barrage and pollution.
-- 📰 India has **100 Ramsar sites** as of 5 June 2026, spanning lagoons, tectonic, high-altitude and human-made wetlands. The milestone is verified by PIB (PRID 2269208) and the Ramsar Convention.
+- 📰 India has **100 Ramsar sites** as of 5 June 2026. PIB source:
+  https://pib.gov.in/PressReleasePage.aspx?PRID=2269189&reg=3&lang=1
 
 ### Current-link Must-Know Facts
 

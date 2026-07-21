@@ -6,7 +6,10 @@
 > registers; classical-language status; Sangam/Dravidian literature;
 > UNESCO Memory of the World Register entries from India.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 580-721 (language classification pp. 580-585; manuscripts pp. 618-621);
+> 580-721; R.S. Sharma, *India's Ancient Past*, PDF pp. 28-43, 59-63,
+> 211-223, 234-258; R.S. Sharma, *Ancient India*, PDF pp. 17-19, 121-137;
+> Satish Chandra, *History of Medieval India*, PDF pp. 205-211, 332-334;
+> Satish Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp. 392-395;
 > `00_Master-Framework.md` Section 3; audited UPSC Mains 2024 GS Paper I.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/11_Languages-Scripts-Literature-and-Manuscripts.md`.*
@@ -26,42 +29,43 @@ and has no separately audited direct question of its own.
 |---|---|
 | ✅ **Language family** | A group of individual languages related through a shared ancestor predating recorded history (*Nitin…pdf*, PDF p. 581). |
 | ✅ **Dialect** | A local-area form of a language (e.g. Braj, Awadhi, Haryanvi as Hindi dialects) (*Nitin…pdf*, PDF p. 581). |
-| ✅ **Indo-Aryan group** | The largest Indian language group (~74% of Indians), a branch of Indo-European, subdivided into Old (Sanskrit, from ~1500 BC), Middle (Prakrit-derived: Pali, Ardhamagadhi, Shauraseni, Maharashtri, Elu, Paishachi) and later Indo-Aryan sub-groups (*Nitin…pdf*, PDF pp. 582-584). |
+| ✅ **Major language families** | Indo-Aryan (Indo-European), Dravidian, Austroasiatic and Tibeto-Burman are the major families; language family, script, literary register and constitutional status are separate classifications. |
 | ✅ **Eighth Schedule** | The constitutional schedule listing 22 Scheduled Languages, of which Sanskrit is one (*Nitin…pdf*, PDF p. 583). |
-| ✅ **Memory of the World Register** | UNESCO's documentary-heritage register recognising manuscripts/archives of outstanding value to humanity; India has 14 entries (per the book's own count) (*Nitin…pdf*, PDF p. 619). |
+| 📰 **Classical languages** | India has 11 classical languages after Marathi, Pali, Prakrit, Assamese and Bengali were added in October 2024 to Tamil, Sanskrit, Kannada, Telugu, Malayalam and Odia (PIB, verified 21 July 2026). This is not Eighth Schedule or official-language status. |
+| ✅ **Memory of the World Register** | UNESCO's documentary-heritage register; India has 14 international-register inscriptions after the Bhagavadgita and Natyashastra additions in 2025 (UNESCO/UN India, verified 21 July 2026). |
 
 ## 3. Core classification
 
-✅ Indian languages classify into major groups including the **Indo-Aryan**
-group (Old: Sanskrit; Middle: Pali/Ardhamagadhi/Shauraseni/Maharashtri/Elu/
-Paishachi Prakrits; later vernaculars) alongside other indigenous language
-families (*Nitin…pdf*, PDF pp. 580-585). ✅ Prakrit sub-varieties each
-carried a specific social/literary function: **Pali** (Theravada Buddhist
-lingua franca, Tripitaka); **Ardhamagadhi/Magadhi Prakrit** (spoken by
-Buddha and Mahavira per tradition, Mauryan court language, ancestor of
-Bengali/Assamese/Odia/Maithili/Bhojpuri); **Shauraseni** ("Dramatic
-Prakrit," used by Jain monks, e.g. the Digambara *Shatkhandagama*);
-**Maharashtri** (predecessor to Marathi/Konkani, official Satavahana
-language); **Elu** (ancestor of Sinhala); **Paishachi** ("Bhutabhasa,"
-used in Gunadhya's *Brihatkatha*) (*Nitin…pdf*, PDF pp. 583-585).
+✅ Indian languages belong to several families; no family is culturally
+"more Indian." Within Indo-Aryan, Vedic/Classical Sanskrit and the Middle
+Indo-Aryan languages/registers conventionally called Prakrits have
+different histories. Pali is the canonical language of Theravada
+Buddhism; Ardhamagadhi is central to the Svetambara Jain canon; Shauraseni
+and Maharashtri were major literary/dramatic Prakrits. Their relationship
+to later languages is historical, not a simple one-parent/one-child chain.
+R.S. Sharma shows Kushana rulers using Greek, Kharoshthi and Brahmi scripts
+with Greek, Prakrit and Sanskritised registers — coexistence, not linear
+replacement (*India's Ancient Past*, PDF pp. 219-220).
 
 ## 4. Foundation narrative
 
-✅ Sanskrit grammar's development began with Panini's *Ashtadhyayi* (c. 400
-BC), the oldest Sanskrit grammar text; the earliest datable Sanskrit
+✅ Panini's *Ashtadhyayi* systematised Sanskrit grammar, conventionally
+dated around the mid-first millennium BCE; the earliest extensive datable Sanskrit
 inscriptional evidence is Rudradaman I's Junagarh (Girnar) rock
 inscription (c. 150 AD), with the Chebrolu inscription (Andhra Pradesh,
 207 AD, discovered 2019) as the earliest datable South Indian Sanskrit
 inscription (*Nitin…pdf*, PDF pp. 582-583). ✅ Gupta-period literature
 marks the height of pure Sanskrit poetic creation — Mahakavyas (epics)
 and Khandakavyas (semi-epics) — with a documented linguistic-social
-convention in plays: high-varna characters spoke Sanskrit while women and
-Shudras spoke Prakrit (*Nitin…pdf*, PDF pp. 583-584). ✅ **India has 14
+convention in many classical plays: social position, gender and character
+type influenced the assigned Sanskrit or Prakrit register; this was a
+dramatic convention, not proof that every real person spoke identically.
+✅ **India has 14
 entries** on the UNESCO Memory of the World Register (per the book's own
 count), spanning from the Rigveda (2007) and the I.A.S. Tamil Medical
 Manuscript Collection (1997) to the most recent 2025 additions —
-**manuscripts of the Bhagavad Gita** and the **Natyashastra** (*Nitin…pdf*,
-PDF pp. 619-621). Other named entries include Ramcharitmanas (2024),
+**manuscripts of the Bhagavadgita** and the **Natyashastra** (UNESCO/UN
+India, 2025). Other named entries include Ramcharitmanas (2024),
 Panchatantra (2024), Sahrdayaloka-Locana (2024), Abhinavagupta
 Manuscripts (2023), Saang Lok Collection (2023), the Gilgit Manuscript
 (2017), Maitreyavyakarana (2017), Shantinatha Charitra (2013),
@@ -70,19 +74,30 @@ Vimalaprabha (2011), Shaiva Manuscript in Pondicherry (2005), and the
 Archives of the Dutch East India Company (2003) (*Nitin…pdf*, PDF pp.
 619-621).
 
+✅ **Literature chronology and attribution spine:**
+
+| Corpus/tradition | Language/register | Exam-safe anchor |
+|---|---|---|
+| Vedas, Brahmanas, Aranyakas, early Upanishads | Vedic Sanskrit | Layered oral-textual corpora, not single-date books |
+| Epics and Puranic literature | Sanskrit with long accretion histories | Separate core composition, redaction and manuscript dates |
+| Buddhist canon/avadana | Pali, Prakrits, Buddhist Hybrid Sanskrit, Sanskrit | Tripitaka, Jatakas, *Mahavastu*, *Divyavadana* |
+| Jain canon/narrative | Ardhamagadhi and other Prakrits; later Sanskrit/Apabhramsha/regional languages | Agamas, *Kalpasutra*, *Parishishtaparvan* |
+| Sangam corpus | Early Tamil | Compiled c. CE 300-600 with older layers; vivid material/warrior/social evidence, not a connected political chronicle (R.S. Sharma, PDF pp. 256-258) |
+| Classical Sanskrit | Sanskrit | Bhasa, Kalidasa, Shudraka, Bharavi, Dandin; verify each work-author pair |
+| Medieval regional/Persian | Tamil, Kannada, Telugu, Marathi, Bengali, Braj/Awadhi, Persian, etc. | Bhakti/Sufi, chronicles, translation and courtly/vernacular interaction |
+
 ## 5. Visual map or comparison table
 
 ```text
-INDO-EUROPEAN FAMILY
+INDIAN LANGUAGE ECOLOGY
         |
-        v
-INDO-ARYAN GROUP (~74% of Indians)
-        |
-   +----+----+
-   v         v
-OLD (Sanskrit,      MIDDLE (Prakrit branches:
-~1500 BC onward)     Pali, Ardhamagadhi, Shauraseni,
-                      Maharashtri, Elu, Paishachi)
+   +----+-----------+---------------+----------------+
+   v                v               v                v
+INDO-ARYAN       DRAVIDIAN     AUSTROASIATIC   TIBETO-BURMAN
+   |
+   +--> Old Indo-Aryan (Vedic/Classical Sanskrit)
+   +--> Middle Indo-Aryan (Pali and literary/inscriptional Prakrits)
+   +--> New Indo-Aryan languages
         |
         v
 UNESCO MEMORY OF THE WORLD REGISTER (India: 14 entries)
@@ -90,12 +105,18 @@ UNESCO MEMORY OF THE WORLD REGISTER (India: 14 entries)
 2024 (Ramcharitmanas, Panchatantra) -> 2025 (Bhagavad Gita, Natyashastra)
 ```
 
-| Prakrit branch | Associated with |
+| Middle Indo-Aryan register | Associated with |
 |---|---|
-| ✅ Pali | Theravada Buddhism, Tripitaka |
-| ✅ Ardhamagadhi | Buddha/Mahavira tradition, Mauryan court, Ashokan edicts |
-| ✅ Shauraseni | Jain monastic writing, medieval drama |
-| ✅ Maharashtri | Satavahana official language, ancestor of Marathi/Konkani |
+| ✅ Pali | Theravada Buddhist canon; relationship to named Prakrits is not a simple branch chart |
+| ✅ Ardhamagadhi | Especially the Svetambara Jain canon; linked by tradition to Mahavira |
+| ✅ Shauraseni | Major dramatic/literary Prakrit; also Jain textual use |
+| ✅ Maharashtri | Major literary Prakrit; historically important in the Deccan and western India |
+
+| Script/language trap | Correction |
+|---|---|
+| Ashokan edicts = Sanskrit/Devanagari | Mostly Prakrit in Brahmi; Kharoshthi in the northwest; Greek and Aramaic at Kandahar |
+| Brahmi = one unchanged modern script | A major ancestral script with many regional descendants |
+| Kharoshthi = left-to-right | Right-to-left, used especially in the northwest |
 
 ## 6. Source spine
 
@@ -117,11 +138,11 @@ architectural patronage.
 
 ## 8. 📰 Current anchor
 
-- 📰 India's Memory of the World Register count stood at **14 entries** as
-  of the book's own account (with the Bhagavad Gita and Natyashastra as
-  the most recent, both inscribed in 2025); this figure should be
+- 📰 UNESCO/UN India confirm **14 Indian inscriptions** on the
+  International Register after the Bhagavadgita and Natyashastra
+  manuscript additions in 2025; this figure should be
   re-verified against UNESCO's own Memory of the World register page
-  before being cited beyond this file's research cutoff (18 July 2026),
+  before being cited beyond this file's research cutoff (21 July 2026),
   since new inscriptions are added periodically.
 
 ## 9. ❌ Traps and corrections
@@ -136,6 +157,17 @@ architectural patronage.
   language. -> They are distinct registers with different social
   functions (Sanskrit: codified, elite; Prakrit: natural, common-tongue),
   coexisting rather than one simply succeeding the other.
+- ❌ Pali is uncontestably a sub-branch of one standard Prakrit and the
+  Buddha/Mahavira can be assigned a single recorded spoken language. ->
+  Canonical and literary language labels reflect transmission histories;
+  historical speech cannot be reconstructed so simply.
+- ❌ India has only six classical languages. -> The official total is 11
+  after the October 2024 additions; classical, scheduled and official
+  language statuses are distinct.
+- ✅ **Local PYQ routes:** CSE 2022 tests Sangam literature's knowledge of
+  varna/social classification; CSE 2024 tests Upanishad-Purana chronology
+  and Bhasa's *Madhyama-vyayoga*; CSE 2023 tests *Tolkappiyam* and
+  *vattakirutal*. These are attribution/genre traps, not trivia lists.
 - ❌ All UNESCO Memory of the World entries from India are ancient
   religious texts. -> The list includes colonial administrative archives
   (Dutch East India Company records, 2003) and Persian chronicles

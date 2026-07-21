@@ -27,6 +27,7 @@
 - ✅ Social-religious causes included fear of conversion, missionary activity, anxieties about social laws and the belief that the state threatened traditional religion.
 - ✅ Military causes included sepoy grievances, discriminatory service conditions and the **General Service Enlistment Act (1856)**.
 - ✅ The immediate cause was the **Enfield rifle cartridge** rumoured to be greased with cow and pig fat.
+- ✅ 1857 had a long prehistory of local resistance: the **Sanyasi and Chuar rebellions**, southern poligar and other civil rebellions, and tribal uprisings such as the **Kol** and **Santhal Hool (1855–56)** arose from dispossession, revenue pressure, outsider penetration and attacks on customary authority.
 
 **Foundation — it was a major but regionally uneven uprising.**
 
@@ -43,6 +44,7 @@
 | ✅ Social-religious causes | Missionary fear, social legislation anxiety, threat to customs |
 | ✅ Military causes | Service grievances, pay/status issues, General Service Enlistment Act |
 | ✅ Immediate trigger | Enfield cartridges allegedly greased with cow and pig fat |
+| ✅ Pre-1857 resistance | Sanyasi/Chuar and other civil rebellions; Kol and Santhal tribal uprisings—local, recurrent and not one coordinated national movement |
 | ✅ Major centres | Delhi, Kanpur, Lucknow, Jhansi, Bareilly, Arrah/Bihar, Faizabad |
 | ✅ Consequence | End of Company rule; Crown rule under Government of India Act 1858 |
 
@@ -59,6 +61,7 @@
 - ✅ **Kanpur**: Nana Saheb, Tantia Tope and Azimullah Khan.
 - ✅ **Lucknow/Awadh**: Begum Hazrat Mahal; **Jhansi**: Rani Lakshmibai; **Bihar/Arrah**: Kunwar Singh.
 - ✅ **Government of India Act 1858** ended Company rule and transferred authority to the British Crown.
+- ✅ **Santhal Hool (1855–56)** under Sidhu and Kanhu immediately preceded 1857 but was a distinct tribal uprising, not a stage of the sepoy revolt.
 - ⚠️ The revolt was wider than a sepoy mutiny but not a fully modern nationalist movement.
 
 ## 5. UPSC Traps

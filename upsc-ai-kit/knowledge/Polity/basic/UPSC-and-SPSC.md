@@ -21,9 +21,11 @@ a **Joint SPSC (JSPSC)** can serve two+ states.
 > 🔑 **½ members** must have **10+ years** of government service.
 
 ## Must-Know Facts
-- ✅ Strength **not fixed** by Constitution (usually 9–11).
+- ✅ Strength is **not fixed by the Constitution**; avoid treating a past usual range as
+  a constitutional or permanent composition.
 - ✅ Removal for misbehaviour needs a **Supreme Court enquiry** (advice binding).
-- ✅ Expenses **charged on the Consolidated Fund of India**.
+- ✅ UPSC expenses are charged on the **Consolidated Fund of India**; SPSC expenses are
+  charged on the **Consolidated Fund of the State** (Art 322).
 - ✅ **Chairman:** no further govt job; **Member:** only UPSC/SPSC chairmanship. **No second term.**
 - ✅ Advice is **directory, not mandatory** (SC-held); confers **no right to the post**.
 - ✅ Cadre/pay/training → **DoPT**, not UPSC.

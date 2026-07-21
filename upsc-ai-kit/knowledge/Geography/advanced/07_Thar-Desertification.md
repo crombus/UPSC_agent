@@ -12,9 +12,12 @@
 
 **Advanced — The Thar (Great Indian Desert): Extent & Aridity (Khullar / Majid).**
 
-✅ Khullar places the arid/semi-arid Thar in Rajasthan and adjoining Punjab-Haryana, between the Indus and the Aravalli, mantled by sand that inhibits soil growth. The Rann of Kachchh is its extension. The sand derives from mechanical disintegration of local rocks (and blown-in material). West of the Aravalli — Jaisalmer and Barmer — is classic aeolian topography dominated by sand dunes.
+✅ Khullar places the arid/semi-arid Thar chiefly west of the Aravalli in Rajasthan, extending into
+adjoining Punjab, Haryana, Gujarat and Pakistan. Older regional descriptions link it with the Rann of
+Kachchh, but the Rann is a **distinct saline mudflat/marsh system**, not simply another field of Thar dunes. The sand derives from mechanical disintegration of local rocks (and blown-in material). West of the Aravalli — Jaisalmer and Barmer — is classic aeolian topography dominated by sand dunes.
 - ✅ The Thar lies west of the Aravalli, between the Indus and the Aravalli, spilling into Punjab, Haryana and northern Gujarat.
-- ✅ Khullar: area ~1.42 lakh sq km (~4.32%), annual rainfall < 50 cm; a sand mantle inhibits soil formation. Majid's core figure is even drier (< 25 cm).
+- ✅ Book estimates of desert area vary with the boundary used; retain them as source-era figures, not
+  as a single current official area. Rainfall grades from semi-arid margins to an arid western core.
 - ✅ The Rann of Kachchh is treated as an extension of the desert; Jaisalmer and Barmer show the strongest aeolian (dune) topography.
 - ✅ Economy (Majid): bajra, pulses, fodder; livestock is central; scope for date-palm, water-melon and rain-water harvesting.
 - ✅ It is described as the Western Dry Region — an arid tract (Marwar/Mewar margins) with extreme temperature range.
@@ -31,13 +34,13 @@
 | Attribute | Value / detail | Source significance |
 |---|---|---|
 | ✅ Location | West of Aravalli; Rajasthan with adjoining Punjab/Haryana; between Indus and Aravalli | Defines the Great Indian Desert setting |
-| ✅ Area | ~1.42 lakh sq km / ~4.32% of India in source note | Scale of arid region |
+| ✅ Area | Varies with whether only the arid core or wider semi-arid region is included | Always state delimitation/source |
 | ✅ Rainfall | <50 cm annually in Khullar note; <25 cm arid core in source note | Aridity control |
-| ✅ Extension | Rann of Kachchh, Gujarat | Treated as desert extension |
+| ✅ Rann relationship | Kachchh, Gujarat | Arid-region linkage, but geomorphically a saline mudflat/marsh distinct from sandy Thar |
 | ✅ Aeolian core | Jaisalmer and Barmer | Strong sand-dune topography |
 | ✅ Economy | Bajra, pulses, fodder, livestock, date-palm possibilities | Livelihood adaptation |
-| ✅ Degradation driver | Wind erosion; faulty farming, moisture non-conservation and overgrazing | Khullar query passage links these to erosion |
-| ✅ Conservation direction | Agro-forestry, social forestry, waterlogged-area reclamation, NGO involvement | Khullar query passage lists desert-development measures |
+| ✅ Degradation driver | Wind erosion, unsuitable cultivation, poor moisture conservation and overgrazing | Source-book dryland analysis |
+| ✅ Conservation direction | Agroforestry, pasture management, water conservation and reclamation | Source-book measures, updated with landscape-restoration logic |
 
 ## 3. Study links
 
@@ -49,8 +52,8 @@
 
 **Advanced — The Thar (Great Indian Desert): Extent & Aridity (Khullar / Majid).**
 - ✅ Thar = west of Aravalli, between Indus & Aravalli.
-- ✅ Area ~1.42 lakh sq km (~4.32% of India); rain < 50 cm (Khullar).
-- ✅ Rann of Kachchh = extension of the Thar.
+- ✅ Area figures vary by delimitation; western core is arid and margins semi-arid.
+- ✅ Rann of Kachchh is linked to the wider arid region but is a distinct saline mudflat/marsh.
 - ✅ Jaisalmer & Barmer = strongest aeolian (dune) topography.
 - ✅ Core crops: bajra, pulses, fodder; livestock-based economy.
 
@@ -76,7 +79,8 @@
 
 
 **Advanced — The Thar (Great Indian Desert): Extent & Aridity (Khullar / Majid).**
-📰 The Thar — India's only large hot desert — sits west of the Aravalli, covers ~1.42 lakh sq km (~4.3% of India), gets under 50 cm of rain, and is a live theatre of dunes, wind erosion and desertification.
+📰 The Thar's current significance lies in the contrast between mobile/stabilised dunes, canal-irrigated
+tracts, renewable-energy expansion and land degradation. Quote area and rainfall only with the source boundary/year.
 
 **Ca Anchor — ISRO-SAC Desertification & Land Degradation Atlas.**
 📰 ISRO's Space Applications Centre 'Desertification & Land Degradation Atlas of India' shows ~29.7% of India's land degraded (2018-19), with Rajasthan the largest desertified area — mostly by wind erosion.

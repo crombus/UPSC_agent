@@ -60,7 +60,7 @@
 
 - ✅ Khandesh's capital **Burhanpur** was a point of entry to the Deccan and on the Agra-Surat route.
 - ✅ Chand Bibi was linked to both Ahmadnagar and Bijapur politics.
-- ✅ **Sonepat battle (1597)** in the Deccan context: Mughals defeated a much larger combined Deccani force in Berar.
+- ✅ **Sonepat battle (1597)** in the source is a Berar-Deccan engagement, not the north Indian city of Sonipat; the Mughals defeated a much larger combined Deccani force.
 - ✅ Malik Ambar introduced/used a **zabti** land-revenue system in place of **ijara** according to later Marathi sources.
 - ✅ **Bhaturi (1624)** raised Malik Ambar's prestige to its pinnacle.
 - ✅ **Ahdanama of 1636** with Bijapur; Golconda's khutba shifted from Iranian emperor to Shah Jahan.
@@ -76,7 +76,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Golconda Fort conservation and heritage upgrades (2025–26):** Telangana reporting notes safety, accessibility and digital visitor upgrades at Golconda Fort, with the Qutb Shahi monuments on UNESCO's tentative list. **Relevance:** connects Mughal-Golconda diplomacy with Deccan sultanate heritage and modern conservation policy.
+📰 **Current linkage (verify live before use):** Golconda, Daulatabad and Ahmadnagar conservation can connect Deccan diplomacy with heritage policy. Verify tentative-list, restoration and visitor-upgrade claims from UNESCO/ASI or the state archaeology department.
 
 ## 7. Mains angles
 
@@ -87,4 +87,3 @@
 ## ➕ Concept note (PYQ-gap)
 
 ⚠️ **Suzerainty vs annexation:** Mughal Deccan policy often sought tribute, khutba/sikka recognition, arbitration rights and loyal service before direct annexation. This distinction is high-yield for Prelims and Mains.
-

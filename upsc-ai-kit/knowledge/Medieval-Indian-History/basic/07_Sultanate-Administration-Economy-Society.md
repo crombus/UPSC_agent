@@ -28,10 +28,12 @@
 - ✅ Succession had no settled rule: all sons had claims, nomination needed noble acceptance, and military strength often decided outcomes.
 - ✅ Key departments included **wazir** (revenue/income-expenditure), **diwan-i-arz** (military recruitment/equipment/pay), **diwan-i-risalat** (religious grants), and **diwan-i-insha** (state correspondence).
 - ✅ **Barids** acted as intelligence agents; **karkhanas** supplied and sometimes manufactured royal goods; Firuz also created public works and slave departments.
+- ⚠️ The precise function assigned to **diwan-i-risalat** varies across modern reconstructions; this kit follows Satish Chandra's association with religious matters/grants, while **diwan-i-insha** securely handled royal correspondence.
+- ✅ An **iqta** assigned revenue and administrative responsibility, not ownership of land; the centre could transfer a muqti and demand accounts and the surplus above authorised expenditure.
 
 **Foundation — economy and society: towns, trade, inequality.**
 
-✅ With Sultanate consolidation, communications and a sound currency based on the silver **tanka** and copper **dirham** helped trade grow; towns and town life expanded.
+✅ With Sultanate consolidation, communications and a sound currency based on the silver **tanka** and copper currency (called **dirham** in the assigned source; **jital** is also used for copper units) helped trade grow; towns and town life expanded.
 - ✅ Ibn Battuta called Delhi the largest city in the eastern Islamic world and said Daulatabad equalled Delhi in size.
 - ✅ Important towns included Lahore, Multan, Kara, Lakhnauti, Anhilwara/Patan and Cambay.
 - ✅ India produced rice, sugarcane, wheat, oilseeds, sesame, indigo and cotton; village industries included oil-pressing, jaggery, weaving and dyeing.
@@ -80,7 +82,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Rajon Ki Baoli restoration (The New Indian Express, 17 May 2025; WMF India, 16 May 2025):** ASI, WMF India and TCS Foundation restored the Lodi-era stepwell in Mehrauli, linking Sultanate urban infrastructure, water systems and present conservation practice.
+📰 **Current linkage (verify live before use):** Conservation of Sultanate-era baolis and sarais can link urban infrastructure with heritage governance. Verify the agency, completion date and technical claims before citing a project.
 
 ## 7. Mains angles
 

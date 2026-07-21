@@ -14,7 +14,8 @@
 ## 1. Architecture
 
 ```text
-JAJMANI SYSTEM (patron-client, kind-payment)
+JAJMANI SYSTEM (patron-client, customary payment:
+often kind/grain, sometimes cash)
         |
         v
 DECLINE DRIVERS: cash-wage labour, non-farm jobs,
@@ -44,20 +45,19 @@ landholders)                      voice into local power)
     replace the isolated-village model)
 ```
 
-**Analytical claim:** ⚠️ Agrarian change in India has not dissolved caste-linked village
-power; it has restructured it — the Green Revolution concentrated economic gains among
-already-advantaged landholders while Panchayati Raj reservation introduced institutionally
-mandated contestation, so dominant-caste authority today operates through electoral and
-market channels rather than through the jajmani system's older service-exchange dependency.
+**Analytical claim:** ⚠️ Agrarian change can restructure caste-linked village power rather
+than dissolve it. Green Revolution benefits were often unequal in irrigated, input-intensive
+settings, while Panchayati Raj reservation introduced institutional contestation; the balance
+between market, electoral and older personalised ties remains region- and village-specific.
 
 ## 2. Concepts and distinctions
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Jajmani system vs cash-wage labour market** | Jajmani was a hereditary, in-kind, patron-client exchange embedding caste occupation into agrarian production; the cash-wage labour market that has largely replaced it is a depersonalised, contractual exchange not tied to caste-occupation inheritance. |
+| ✅ **Jajmani system vs cash-wage labour market** | Jajmani was a hereditary, personalised patron-client exchange whose customary payments often included kind/grain and could vary locally; a cash-wage labour market is more contractual and less tied to caste-occupation inheritance. Neither description should be universalised across all villages or periods. |
 | ✅ **Dominant caste vs landowning class** | Dominant caste is a caste-level concept combining numbers, landholding and political office; landowning class is a class-level (economic) category that can cut across multiple castes — a dominant caste is usually, but not necessarily, coextensive with the largest landowning class in a village. |
 | ⚠️ **Rural-urban continuum vs rural-urban dichotomy** | The dichotomy model treats villages and towns as structurally opposed (traditional versus modern); the continuum model, now more widely accepted, treats them as points on a single spectrum linked by migration, remittance and communication, with no village fully insulated from urban influence. |
-| ⚠️ **Green Revolution's differentiation effect vs its aggregate output effect** | Aggregate agricultural output rose sharply in Green Revolution regions, but the distribution of gains was uneven — larger landholders who could invest in seeds, fertiliser and irrigation captured proportionally more benefit, sharpening intra-village class differentiation even as average productivity increased. |
+| ⚠️ **Green Revolution's differentiation effect vs its aggregate output effect** | Aggregate output rose sharply in Green Revolution regions, but access to irrigation, credit, seeds and markets was unequal. Larger holdings often benefited earlier, potentially sharpening differentiation; later diffusion and local tenancy/crop conditions make the outcome region-specific. |
 | ⚠️ **Formal representation vs substantive power** | Panchayati Raj reservation guarantees formal seats for Scheduled Castes, Scheduled Tribes and women; substantive decision-making power in many Panchayats still runs through informal dominant-caste networks (the "proxy sarpanch" phenomenon), showing formal inclusion does not automatically produce substantive authority. |
 
 ## 3. Detailed causal chain
@@ -67,16 +67,15 @@ market channels rather than through the jajmani system's older service-exchange 
    patron household's dependence on a fixed set of hereditary service providers.
 2. Service-caste members migrate to towns for wage labour, breaking the hereditary
    occupation-caste link.
-3. ⚠️ Remaining jajmani-like relationships persist mainly in remote, less-monetised
-   villages or for specific ritual functions (priestly services) where personalised trust
-   still matters more than market price.
+3. ⚠️ Jajmani-like relations can persist for particular ritual or personalised services,
+   but their location and payment form cannot be assumed from remoteness alone.
 
 ### Green Revolution differentiation chain
 1. High-yielding-variety seeds, irrigation and fertiliser require upfront capital investment.
-2. ⚠️ Larger, often already dominant-caste landholders access credit and inputs more easily,
-   capturing a disproportionate share of productivity gains.
-3. Smaller and tenant cultivators face rising input costs without matching yield gains,
-   sharpening intra-village economic differentiation.
+2. ⚠️ Larger or better-connected cultivators often accessed credit and inputs earlier,
+   potentially capturing a disproportionate share of productivity gains.
+3. Small and tenant cultivators could face higher risk and input costs, but outcomes varied
+   with tenancy security, irrigation, price support and local institutions.
 4. ⚠️ This can reinforce dominant-caste economic advantage even as it does not by itself
    determine political dominance, which depends additionally on numbers and office-holding.
 
@@ -134,8 +133,9 @@ market channels rather than through the jajmani system's older service-exchange 
 
 - ✅ M.N. Srinivas's "dominant caste" concept and Rampura village fieldwork are the
   standard anchor for any village-power-structure question.
-- ✅ Jajmani payments were characteristically in kind (grain share), a defining contrast
-  with cash-wage labour markets.
+- ✅ Jajmani commonly involved customary grain/in-kind payment, but cash and mixed forms
+  existed. Its defining contrast with a cash-wage labour market is the hereditary,
+  personalised patron-client relation.
 - ✅ Panchayati Raj reservation extends to Scheduled Castes, Scheduled Tribes and women,
   including rotating reservation of chairperson positions.
 - 📰 PLFS 2023-24 is a dated rural-workforce comparator; PLFS Annual Report 2025,
@@ -148,9 +148,9 @@ market channels rather than through the jajmani system's older service-exchange 
 - ❌ Dominant caste and landowning class are identical categories. -> Dominant caste is a
   caste-level concept (numbers + land + office); landowning class is an economic category
   that can cut across multiple castes.
-- ❌ Green Revolution benefited all rural households roughly equally. -> Gains concentrated
-  disproportionately among larger landholders able to invest in inputs, sharpening
-  intra-village differentiation.
+- ❌ Green Revolution produced the same distributional outcome in every village. -> Access to
+  irrigation, credit, tenancy security, crop and market conditions shaped who gained; early
+  advantages often favoured larger or better-connected cultivators.
 - ❌ Panchayati Raj reservation has fully dissolved dominant-caste local power. -> Formal
   representation and substantive power can diverge, as the proxy-representative pattern
   shows.
@@ -176,12 +176,11 @@ market channels rather than through the jajmani system's older service-exchange 
 
 ## 11. Mains-ready framework
 
-**Central thesis:** Agrarian change in India has restructured, not dissolved, caste-linked
-rural power — the jajmani system's service-exchange dependency has declined under
-monetisation and migration, but dominant castes retain influence through landholding
-advantages sharpened by the Green Revolution and through informal control of formally
-reserved Panchayat seats, while the rural-urban continuum increasingly links village fate to
-urban migration and markets.
+**Central thesis:** Agrarian change can restructure, rather than automatically dissolve,
+caste-linked rural power. Monetisation and migration alter many personalised service ties;
+land, local office and networks can retain influence, while reservations can create genuine
+or constrained voice. Explain these mechanisms with regional variation instead of treating
+one jajmani or Green Revolution trajectory as universal.
 
 1. Define jajmani precisely and explain its decline mechanism.
 2. Distinguish dominant caste from landowning class as separate but overlapping categories.

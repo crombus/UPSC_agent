@@ -55,6 +55,7 @@
 - ✅ Mesolithic dates include Sarai Nahar Rai around **9958–9059 BCE** and Bagor around **5418–4936 BCE / 4575–4344 BCE**.
 - ✅ Evidence for domesticated animals at some Mesolithic levels is reported but questioned.
 - ✅ Upper Palaeolithic sites include Kurnool caves dates around **19,224 BP** and **16,686 BP**.
+- ✅ At Attirampakkam, luminescence dates place the end of the Acheulian and beginning of the Middle Palaeolithic at about **385 ± 64 ka**; this is why one all-India phase date is unsafe.
 - ✅ Sanghao cave has Middle/Upper Palaeolithic tools, hearths, animal bones and possible burials.
 - ⚠️ Rock art is evidence for cognition and culture, but not a direct written record.
 
@@ -69,7 +70,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Bhimbetka Rock Art Eco Park Museum proposal (2025):** official visits and conservation discussions around Bhimbetka highlight how prehistoric art is now linked with heritage tourism, interpretation and conservation ethics.
+⚠️ **Current-link discipline:** Verify any Bhimbetka museum or eco-park proposal from the competent authority. The safe linkage is the tension between rock-art conservation, public interpretation and tourism.
 
 ## 7. Mains angles
 

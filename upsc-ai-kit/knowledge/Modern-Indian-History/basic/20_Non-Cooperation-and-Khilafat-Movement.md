@@ -11,7 +11,7 @@
 
 | Date | Event |
 |---|---|
-| ✅ November 1919 | **Khilafat Committee** formed around the Ottoman Caliph issue |
+| ✅ November 1919 | **All-India Khilafat Conference at Delhi** threatens withdrawal of cooperation if demands are rejected |
 | ✅ September 1920 | Calcutta Special Congress adopts Non-Cooperation programme |
 | ✅ December 1920 | Nagpur Congress ratifies Non-Cooperation and reorganises Congress |
 | ✅ 1921 | Movement spreads; boycott of Prince of Wales visit and foreign cloth intensifies |
@@ -55,7 +55,7 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ The **Khilafat Committee** was formed in **November 1919**.
+- ✅ A **Khilafat Committee was formed before the November 1919 conference**; the securely dated event is the **All-India Khilafat Conference at Delhi in November 1919**.
 - ✅ The **Ali Brothers** were Maulana Mohammad Ali and Shaukat Ali.
 - ✅ Non-Cooperation was adopted at **Calcutta Special Session (September 1920)** and ratified at **Nagpur (December 1920)**.
 - ✅ The programme included surrender of titles, boycott of schools/courts/councils/foreign cloth and promotion of khadi.

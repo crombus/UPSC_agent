@@ -31,7 +31,7 @@
 **Deeper — foreign policy and the 1962 debate define the era's balance sheet.**
 
 - ✅ Non-alignment was an **active anti-bloc, anti-colonial, pro-disarmament** posture — Panchsheel (1954), Bandung (1955), NAM (1961) — that gave a poor new nation disproportionate global voice.
-- ✅ On **1962**, Chandra rejects both caricatures — Nehru as "naïve fool" and as "provocateur" — attributing the war mainly to **Chinese strategic compulsions and geopolitics**, while conceding intelligence and preparedness failures.
+- ✅ On **1962**, Chandra rejects both caricatures—Nehru as "naïve fool" and as "provocateur"—and stresses Chinese strategic compulsions while conceding intelligence and preparedness failures. This is the authors' interpretation; border-war causation remains contested.
 - ⚠️ The war dented non-alignment's optimism and forced a defence build-up, but did **not** overturn the basic foreign-policy line, which outlived Nehru.
 - ⚠️ The historiographical verdict: Nehru is the "**architect of modern India**," his legacy structural and lasting, his failings organisational and developmental.
 
@@ -44,7 +44,20 @@
 | ✅ Socialism | Flexible "socialistic pattern" — growth with distribution, not statist dogma |
 | ✅ Non-alignment | Active independent judgement; global leadership disproportionate to power |
 | ✅ 1962 | Reversal, but not repudiation, of the foreign-policy framework |
+| ✅ Education/science | Laboratories, atomic energy, IITs and technical education built capability; elementary education and literacy underperformed |
 | ⚠️ Weaknesses | Party organisation and land-reform delivery neglected |
+
+## ➕ Exact PYQ application (2025 GS-I)
+
+> **Verbatim:** “Trace India's consolidation process during early phase of independence in terms of polity, economy, education and international relations. (Answer in 250 words)”
+
+| Dimension | Source-grounded consolidation chain |
+|---|---|
+| ✅ Polity | Universal adult franchise, competitive elections, parliamentary institutions, secular citizenship and accommodation of linguistic/tribal diversity |
+| ✅ Economy | Planning Commission, mixed economy, public-sector heavy industry, irrigation and scientific capacity aimed at self-reliant development |
+| ✅ Education | Expansion of universities, scientific laboratories, IITs and technical training created capability; low literacy and weak elementary schooling remained major gaps |
+| ✅ International relations | Non-alignment, anti-colonial solidarity, Panchsheel and Bandung protected strategic autonomy and amplified India's voice |
+| ⚠️ Verdict | Consolidation meant building legitimate institutions and capabilities, not merely integrating territory; achievement was substantial but socially uneven |
 
 ## 3. Study links
 

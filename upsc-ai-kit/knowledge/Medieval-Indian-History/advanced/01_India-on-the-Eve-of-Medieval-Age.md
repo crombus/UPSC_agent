@@ -33,6 +33,7 @@
 - ✅ The iqta system gave Turkish sultans mobile military resources without giving commanders hereditary land rights.
 - ✅ North Indian politics after Pratihara decline was marked by Rajput states, feudatories and rivalries; Prithviraj's expansion isolated him politically.
 - ✅ Satish Chandra's core explanation is structural: cavalry mobility, centralised military resources and north Indian political fragmentation combined.
+- ⚠️ "Outer bastions" is a strategic shorthand, not a claim that conquest became inevitable: Punjab's loss altered the balance, but Indian resistance, Ghurid setbacks and contingent political choices still mattered.
 
 ## 2. Key classification / data
 
@@ -70,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Banbhore/Debal UNESCO nomination news (2025):** Pakistan nominated the Port of Banbhore, often linked with Debal and Muhammad bin Qasim's Sind campaign, for UNESCO World Heritage consideration. **UPSC relevance:** anchors Arab-Sind contact in living archaeology, ports and heritage diplomacy.
+📰 **Current linkage (verify live before use):** Archaeological and heritage discussion around Banbhore/Debal is a useful hook for Arab–Sind contact and port history. Treat identification, nomination status and dates as claims requiring verification from the relevant archaeology or UNESCO record.
 
 ## 7. Mains angles
 
@@ -81,4 +82,3 @@
 ## ➕ Concept — "Outer bastions" of India
 
 ⚠️ Use the phrase to explain why the loss of Kabul, Zabulistan, Ghazni-Lahore routes and Punjab changed the strategic map even before Delhi fell.
-

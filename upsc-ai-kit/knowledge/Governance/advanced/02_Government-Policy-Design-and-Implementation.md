@@ -41,7 +41,7 @@ unchecked) frontline discretion is — each factor can independently widen or na
 | ✅ **Clearance points** | Each additional actor/approval required for a policy to proceed is a "clearance point"; Pressman and Wildavsky's central finding is that the *cumulative probability* of delay/failure rises sharply as clearance points multiply, even if each individual point has a high success probability. |
 | ✅ **Coping mechanisms of street-level bureaucrats** | Lipsky identifies routines such as rationing time/attention, "creaming" (favouring easier cases), and informal rule-bending as predictable responses to heavy caseloads and resource scarcity — not random dereliction. |
 | ⚠️ **Design realism vs design ambition** | A policy can be ambitious (wide coverage, high targets) without being realistic (matched to actual administrative capacity); the gap between ambition and realism is a design-stage cause of implementation failure, distinct from delivery-stage causes. |
-| ⚠️ **Consultation depth vs consultation compliance** | Formally publishing a draft for comment (compliance with the 2014 Pre-Legislative Consultation Policy) is distinct from substantively incorporating stakeholder feedback (consultation depth) — the PYQ pattern on citizen-centric administration (`07`) tests this same distinction for Citizens' Charters.
+| ⚠️ **Consultation depth vs consultation compliance** | Formally publishing a draft for comment (compliance with the 2014 Pre-Legislative Consultation Policy) is distinct from substantively incorporating stakeholder feedback (consultation depth) — the PYQ pattern on citizen-centric administration (`07`) tests this same distinction for Citizens' Charters. |
 
 ## 3. Detailed causal chain: from design to delivery failure
 
@@ -86,8 +86,9 @@ unchecked) frontline discretion is — each factor can independently widen or na
 - ✅ The Public Examinations (Prevention of Unfair Means) Act, 2024 itself illustrates
   reform-through-legislation: it creates designated public examination authorities, defines
   offences (using unfair means, leaking question papers, tampering, impersonation) and
-  prescribes penalties, with its reach into university/state education board examinations
-  governed by which authorities are notified under it, not by automatic extension.
+  prescribes penalties. Its Schedule names central examination authorities; other authorities
+  can be added by Central Government notification. State-board/university examinations are
+  therefore not automatically covered by territorial extent alone.
 - ⚠️ Convergence committees at district/Panchayat level (see `12`, `14`) are the institutional
   answer to the silo problem but require genuine functional devolution to work, not just
   administrative instruction.
@@ -143,11 +144,9 @@ unchecked) frontline discretion is — each factor can independently widen or na
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The Public Examinations (Prevention of Unfair Means) Act, 2024 is a current, enacted
-  statute; its offence and penalty provisions are fixed in the Act itself, while the
-  specific list of covered public examination authorities can expand through further
-  notification. No fixed, exhaustive list of currently covered authorities is asserted
-  here, since notification-based coverage is added to over time.
+- 📰 **Status checked 21 July 2026:** the Act has been in force since 21 June 2024.
+  Distinguish the fixed scheduled authorities, a later Gazette-notified authority, and a
+  state legislature's separate law; "adoption" by an executive statement is not enough.
 
 ## 10. PYQ-based analytical application
 
@@ -173,6 +172,8 @@ together.
    as the three-lever correction.
 5. Anchor the answer in a specific, current Indian example (the 2024 Act, public healthcare
    marketisation, or a converged scheme) rather than an abstract policy-theory essay.
+6. End with an evidence plan: baseline, output, outcome, exclusion effect, responsible
+   evaluator and review date.
 
 ## 12. Probable questions
 

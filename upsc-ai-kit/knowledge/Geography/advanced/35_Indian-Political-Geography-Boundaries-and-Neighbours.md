@@ -1,7 +1,7 @@
 # India's Political Geography: Boundaries, Boundary Lines & Neighbours — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I with GS-II and some GS-III overlap
-> **Grounded in:** D.R. Khullar + Majid Husain for India's boundary sectors and neighbours; MHA border-management architecture; MEA documents on India-Bangladesh Land Boundary Agreement.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified MHA/MEA current anchor.
 > ✅ = grounded source · ⚠️ = synthesis / answer-writing lens · 📰 = verified dated current-affairs anchor.
 > *Companion: `basic/35_Indian-Political-Geography-Boundaries-and-Neighbours.md`.*
 
@@ -44,7 +44,7 @@
 |---|---|---|
 | ✅ Western sector | Ladakh / Karakoram / Aksai Chin space | Watershed logic and dispute-heavy sector |
 | ✅ Middle sector | Himachal Pradesh and Uttarakhand frontier | Relatively narrower and less dispute-heavy than west/east |
-| ✅ Eastern sector | Sikkim-Arunachal sector up to Myanmar trijunction | McMahon Line context; crest-line Himalayan logic |
+| ✅ Eastern sector | Sikkim and Arunachal frontier | McMahon Line chiefly concerns Arunachal/Tibet; Sikkim has a distinct treaty/boundary history |
 
 ⚠️ The LAC is best understood as a **military-control reality over an undemarcated high-mountain frontier**, not as a settled legal boundary.
 
@@ -59,7 +59,7 @@
 | Neighbour | Border type | Land-frontier Indian states / UTs | Maritime-boundary Indian state/UT (if any) | One geographic note |
 |---|---|---|---|---|
 | Afghanistan | ⚠️ Claimed land connection, no practical access | Ladakh (UT) — via India's claimed map position only | None | Intervening territory is under Pakistan's administration, so there is no functioning crossing |
-| Pakistan | Land + maritime | Jammu & Kashmir (UT), Ladakh (UT), Punjab, Rajasthan, Gujarat | Gujarat (Sir Creek estuary / Arabian Sea) | IB in Punjab-Rajasthan-Gujarat; LoC in J&K/Ladakh; Sir Creek dispute is Gujarat-specific, not a J&K/Ladakh feature |
+| Pakistan | Land + maritime | Jammu & Kashmir (UT), Ladakh (UT), Punjab, Rajasthan, Gujarat | Gujarat (Sir Creek estuary / Arabian Sea) | IB in Punjab-Rajasthan-Gujarat; LoC chiefly in J&K; AGPL/Siachen and claimed frontier concern Ladakh |
 | China | Land | Ladakh (UT), Himachal Pradesh, Uttarakhand, Sikkim, Arunachal Pradesh | None | High-altitude watershed frontier across western, middle and eastern sectors |
 | Nepal | Land | Uttarakhand, Uttar Pradesh, Bihar, West Bengal, Sikkim | None | Open border and Terai-Himalaya interface |
 | Bhutan | Land | Sikkim, West Bengal, Assam, Arunachal Pradesh | None | Buffer-state mountain geography |
@@ -104,6 +104,20 @@
 - ❌ McMahon Line and LAC are the same everywhere -> the McMahon Line relates to the eastern sector's boundary claim; the LAC is the broader present control reality.
 - ❌ Border guarding forces and legal boundaries are the same subject -> the former manage terrain; the latter define sovereignty.
 
+### Pass map hooks
+
+| Pass | Correct location / connection |
+|---|---|
+| ✅ Karakoram Pass | Ladakh–Xinjiang historic route in the Karakoram |
+| ✅ Zoji La | Kashmir Valley–Dras/Ladakh route |
+| ✅ Shipki La | Himachal Pradesh–Tibet |
+| ✅ Lipulekh | Uttarakhand–Tibet route near the Nepal trijunction area |
+| ✅ Nathu La | Sikkim–Tibet |
+| ✅ Pangsau Pass | Arunachal Pradesh–Myanmar |
+
+> 🔑 Trap: Zoji La is an internal Kashmir-Ladakh gateway, not the India-China boundary pass tested in
+> place of Shipki La, Lipulekh or Nathu La.
+
 ## 8. PYQ / exam linkage
 
 - ⚠️ Recurring Prelims theme: identify which Indian states touch which neighbour.
@@ -112,11 +126,13 @@
 
 ## 9. 📰 Current link
 
-### CA Anchor 1 — 07 July 2025, PIB: Kaladan and the India-Myanmar frontier
+### CA Anchor 1 — Vibrant Villages Programme-II (Cabinet approval: 2 April 2025)
 
-📰 **Source/date:** PIB release dated **07 July 2025** on Northeast waterways and the Kaladan project.
+📰 **Source/date:** PIB/MHA, **2 April 2025**. VVP-II covers selected villages in blocks abutting
+international land borders other than the northern-border villages covered under VVP-I.
 
-✅ The release underlines that the India-Myanmar boundary is not only a security line; it is also a **connectivity frontier** linking Mizoram to Sittwe through hill, river and coastal geography.
+✅ The programme converts borderland geography into a development question—roads, telecom, livelihoods
+and services are intended to reduce out-migration and strengthen inhabited frontiers.
 
 ### CA Anchor 2 — 2015 MEA implementation of the India-Bangladesh LBA
 

@@ -31,7 +31,8 @@
 | Retreating Monsoon (Oct–Nov) | Weakening and reversing winds | Bay of Bengal tropical cyclones |
 | Cool dry season (Dec–Feb) | Offshore NE winds | Generally dry; NE monsoon rain on Tamil Nadu coast |
 
-✅ The sudden arrival of the SW monsoon, especially over Kerala around **1 June**, with thunder, lightning and torrential rain is the **burst of the monsoon**. ✅ Most annual rain falls in the **3–4 summer months**.
+✅ The sudden establishment of widespread monsoon rain is the **burst of the monsoon**. Around **1 June**
+is the climatological normal onset date over Kerala, not a fixed annual deadline. ✅ Most annual rain falls in the **3–4 summer months**.
 
 > 🔑 Trap: The **burst** is the sudden **onset** of monsoon rain, not its withdrawal.
 
@@ -95,7 +96,10 @@
 
 ## 7. 📰 Current link
 
-📰 **India’s 2026 below-normal SW monsoon forecast:** IMD forecast a **below-normal southwest monsoon at ~90% of LPA**, revised down from 92%, the first below-normal monsoon since 2023, citing developing **El Niño**. The onset over Kerala slipped to the **first week of June**; a **positive IOD** was expected late-season to offer partial relief. The LPA (1971–2020) is about **87 cm / 868.6 mm**; IMD categories include **Normal 96–104%**, **Below Normal 90–95%**, **Deficient <90%**, **Above Normal 105–110%**, **Excess >110%**.
+📰 **IMD 2026 seasonal forecast (issued 29 May 2026):** all-India June-September rainfall was forecast
+at **90% of LPA, model error ±4%**, i.e. below normal, with El Niño risk noted. Treat this as a forecast,
+not the observed seasonal outcome; do not write final-season results before the relevant IMD release.
+Source: https://pib.gov.in/PressReleasePage.aspx?PRID=2266479
 
 ## 8. Mains angles
 

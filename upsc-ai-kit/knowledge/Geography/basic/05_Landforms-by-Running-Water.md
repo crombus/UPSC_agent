@@ -16,14 +16,17 @@
 - ✅ Upper course: swift descent, rapid down-cutting → deep, narrow V-shaped valley; hard-rock bands give rapids and waterfalls; spurs interlock.
 - ✅ Middle course: gradient eases; vertical corrasion nearly ceases, lateral corrasion widens the valley; the river swings in meanders and cuts river cliffs.
 - ✅ Lower course: heavy with debris, work is mainly deposition — building flood plains; cut-off meanders become ox-bow lakes; sediment builds natural levees.
-- ✅ At the mouth, sediment forms a delta (arcuate/bird's-foot/estuarine) or, where tides scour it away, an estuary. Majid Husain lists lower-valley forms: braided channel, delta, estuary, alluvial deposits.
+- ✅ At the mouth, sediment may build a delta (for example arcuate, cuspate or bird's-foot), while a
+  drowned or strongly tidal river mouth may form an estuary. **“Estuarine” is not a delta shape.**
 - ✅ The graded long profile is the smooth, concave-up curve a river tends toward from source to mouth.
 
 **Ca Anchor — Ganga-Brahmaputra Delta Erosion & Sediment Starvation.**
 
 ✅ A delta survives only if the sediment deposited at the mouth outpaces erosion and subsidence. 'Sediment starvation' from upstream trapping tips the balance toward net land loss.
 - ✅ Deltas are the classic depositional landform of the lower course — sediment starvation reverses the delta-building process.
-- ✅ Causes: upstream dams/barrages trap sediment, sea-level rise, embankments, and mangrove depletion (Sundarbans).
+- ✅ Causes vary by sector: subsidence, sea-level rise, cyclones and waves, channel migration,
+  embankments and altered sediment delivery all matter. Upstream trapping can reduce sediment supply,
+  but the Ganga-Brahmaputra-Meghna delta cannot be explained by one driver alone.
 - ✅ Impacts: loss of fertile land, saltwater intrusion, threats to mangrove biodiversity and migratory-bird habitat.
 
 ## 2. Key classification / data
@@ -58,7 +61,7 @@
 **Ca Anchor — Ganga-Brahmaputra Delta Erosion & Sediment Starvation.**
 - ✅ Delta = depositional landform; needs sediment supply > erosion.
 - ✅ Key term: 'sediment starvation' from upstream dams/barrages.
-- ✅ Ganga-Brahmaputra delta = Sundarbans (largest delta / mangrove).
+- ✅ The Sundarbans occupies the seaward, tidally active part of the Ganga-Brahmaputra-Meghna delta.
 
 ## 5. UPSC Traps
 
@@ -80,7 +83,9 @@
 📰 River geomorphology underpins India's water security and disaster profile — from Himalayan gorges to the deltas now eroding due to upstream dams cutting sediment supply.
 
 **Ca Anchor — Ganga-Brahmaputra Delta Erosion & Sediment Starvation.**
-📰 The Ganga-Brahmaputra (Sundarbans) delta is eroding as upstream dams and barrages cut the sediment supply that normally builds and maintains the delta — worsened by sea-level rise and mangrove loss.
+📰 The Sundarbans' inhabited islands show simultaneous erosion and accretion. Relative sea-level rise,
+subsidence, cyclones, embankments and channel/sediment redistribution interact; avoid attributing all
+land loss solely to dams.
 
 ## 7. Mains angles
 

@@ -14,7 +14,7 @@
 | ✅ Early medieval processes | c. AD 600–1200 | Land grants, agrarian expansion, regional states |
 | ✅ Historiographical debate | 1970s–1980s scholarship onward | Feudalism vs regional state formation models |
 | ✅ Regional cultures | early medieval | Languages, cults, temples and local polities |
-| 📰 Heritage-language policy | 2025–26 | Classical language and manuscript initiatives |
+| ⚠️ Heritage-language policy | contemporary | Classical-language and manuscript initiatives |
 
 ## 1. Snapshot & core idea
 
@@ -74,7 +74,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Indian Knowledge Systems (IKS) under NEP/UGC (2025–26):** the Ministry of Education's **IKS Division** is mainstreaming ancient/early-medieval scientific legacy — **Vedic mathematics, Aryabhata-Brahmagupta astronomy, Ayurveda, Sanskrit scientific texts** — into university curricula. This is the direct modern channel of RS Sharma's "legacy in science and civilization," and a ready GS-I/essay hook on **continuity of India's knowledge traditions** (used critically, not uncritically).
+⚠️ **Current-link discipline:** Verify current curriculum or funding claims from official education documents. The safe linkage is critical study of inherited knowledge—preservation and testing, not uncritical civilisational assertion.
 
 ## 7. Mains angles
 

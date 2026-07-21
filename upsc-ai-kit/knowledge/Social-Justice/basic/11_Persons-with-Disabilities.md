@@ -55,10 +55,10 @@ education, employment, mobility and public life.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Person with disability (PwD)** | A person with long-term physical, mental, intellectual or sensory impairment which, in interaction with barriers, hinders full and effective participation in society on an equal basis with others (RPwD Act, 2016 definition, aligned with UNCRPD). |
-| ✅ **21 specified disabilities (RPwD Act, 2016)** | The Act specifies 21 categories of disability across physical, sensory, intellectual, mental and blood-disorder types; the government may notify additional categories. Categories include: locomotor disability, blindness, low vision, deaf, hard of hearing, speech and language disability, intellectual disability, specific learning disabilities, autism spectrum disorder, mental illness, cerebral palsy, muscular dystrophy, chronic neurological conditions, multiple sclerosis, thalassemia, haemophilia, sickle-cell disease, multiple disabilities including deaf-blindness, acid-attack survivors, Parkinson's disease, and leprosy-cured. |
+| ✅ **21 specified disabilities (RPwD Act, 2016)** | The Schedule lists blindness; low vision; leprosy-cured persons; hearing impairment (deaf and hard of hearing); locomotor disability; dwarfism; intellectual disability; mental illness; autism spectrum disorder; cerebral palsy; muscular dystrophy; chronic neurological conditions; specific learning disabilities; multiple sclerosis; speech and language disability; thalassaemia; haemophilia; sickle-cell disease; multiple disabilities including deafblindness; acid-attack victims; and Parkinson's disease. The government may notify additional categories. |
 | ✅ **Reasonable accommodation** | Necessary and appropriate modification and adjustment, not imposing a disproportionate or undue burden, to ensure persons with disabilities enjoy rights on an equal basis with others (RPwD Act, Section 2(y)). |
-| ✅ **UDID (Unique Disability ID)** | A centralised, portable disability-certificate and identification system replacing fragmented state-level certification, enabling PwDs to access benefits across states without re-certification. |
-| ✅ **Accessible India Campaign (Sugamya Bharat Abhiyan)** | A flagship accessibility mission covering three pillars: built environment, transportation and information & communication technology (ICT) accessibility, aiming to create barrier-free environments for PwDs. |
+| ✅ **UDID (Unique Disability ID)** | A centralised, nationally portable disability-certificate/ID platform that standardises application, certificate and card processes. It reduces re-certification friction but does not by itself guarantee benefit access. |
+| ✅ **Accessible India / SIPDA** | Sugamya Bharat's accessibility framework covers built environment, transport and ICT. Since March 2024, accessibility work is carried through the Scheme for Implementation of the RPwD Act (SIPDA); do not present the earlier campaign label as proof of a separate current programme. |
 | ✅ **ADIP (Assistance to Disabled Persons for Purchase/Fitting of Aids and Appliances)** | A scheme providing assistive devices (wheelchairs, hearing aids, artificial limbs, etc.) to PwDs to enhance their mobility, independence and participation. |
 
 ## 3. How disability rights and welfare work (mechanism)
@@ -67,8 +67,8 @@ education, employment, mobility and public life.
    (benchmark: 40%+) of disability; the UDID system issues a unique identification
    enabling portability of benefits across states.
 2. **Reservation:** The RPwD Act mandates minimum 4% reservation in government
-   establishments and 5% in higher-education institutions for PwDs across the 21
-   specified categories — this is a statutory reservation, distinct from the
+   establishments and 5% in higher-education institutions for persons with benchmark
+   disabilities across the statutory categories — this is a statutory reservation, distinct from the
    constitutional Art 16(4) reservation for SC/ST/OBC.
 3. **Reasonable accommodation:** Employers, educational institutions and service
    providers must make necessary modifications (accessible workplaces, assistive
@@ -85,13 +85,12 @@ education, employment, mobility and public life.
   with Disabilities Act, 1995; expanded categories from 7 to 21; mandated reservation,
   reasonable accommodation and accessibility; aligned with UNCRPD. The government may
   notify additional disability categories.
-- ✅ **UDID (Unique Disability ID):** Centralised certification system operated by
-  DEPwD; replaces fragmented state certificates; enables portability of benefits.
-  Note: UDID registration is ongoing; any current registration count is dynamic and
-  not asserted here.
-- ✅ **Accessible India Campaign (Sugamya Bharat Abhiyan):** Launched 2015; three
-  pillars — built environment, transportation, ICT. Compliance-dashboard figures are
-  dynamic and updated periodically; no fixed figure is asserted here.
+- ✅ **UDID (Unique Disability ID):** Centralised certification/ID platform operated by
+  DEPwD; enables a portable, standardised route but does not itself confer every
+  benefit. Registration counts are dynamic and not asserted here.
+- ✅ **Accessible India / SIPDA:** Sugamya Bharat's three-pillar accessibility framework
+  (built environment, transport, ICT) is now carried through SIPDA after March 2024.
+  Compliance-dashboard figures are dynamic and must be cited with a reporting date.
 - ✅ **ADIP Scheme:** Provides assistive devices (wheelchairs, tricycles, hearing aids,
   artificial limbs, braille kits, etc.) to PwDs; implemented through camp mode and
   institutional mode by DEPwD.
@@ -116,12 +115,13 @@ education, employment, mobility and public life.
 
 - ✅ RPwD Act, 2016 specifies 21 disability categories (expanded from 7 under the 1995
   Act); the government may notify additional categories.
-- ✅ Minimum 4% reservation for PwDs in government establishments/posts; 5% in higher-
-  education institutions — statutory, not Art 16(4) constitutional reservation.
+- ✅ Minimum 4% reservation in government establishments/posts and 5% in higher-
+  education institutions for persons with benchmark disabilities — statutory, not Art
+  16(4) constitutional reservation.
 - ✅ UDID provides a centralised, portable disability certification replacing fragmented
   state-level certificates.
-- ✅ Accessible India Campaign (Sugamya Bharat Abhiyan) covers three pillars: built
-  environment, transportation and ICT accessibility.
+- ✅ Sugamya Bharat's three-pillar accessibility framework covers built environment,
+  transportation and ICT; its current implementation vehicle is SIPDA.
 - ✅ National Trust (1999 Act) covers only four conditions: autism, cerebral palsy,
   mental retardation and multiple disabilities — narrower than RPwD's 21 categories.
 
@@ -142,11 +142,9 @@ education, employment, mobility and public life.
 
 ## 8. 📰 Current anchor
 
-- ⚠️ UDID registration counts and Sugamya Bharat Abhiyan compliance-dashboard figures
-  are dynamic and updated on an ongoing basis by DEPwD. No fixed current figure is
-  asserted here because these counts change continuously. The durable, exam-ready facts
-  are the UDID system's purpose (centralised certification, portability) and Sugamya
-  Bharat's three-pillar structure (built environment, transportation, ICT).
+- 📰 **Status check (21 July 2026):** UDID counts are dynamic. Sugamya Bharat's
+  accessibility framework continues through SIPDA after March 2024; cite the applicable
+  DEPwD reporting date and implementation vehicle rather than a legacy campaign count.
 
 ## 9. PYQ application
 

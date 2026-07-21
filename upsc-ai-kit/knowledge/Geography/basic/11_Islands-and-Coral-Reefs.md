@@ -23,7 +23,7 @@
 
 | Requirement | UPSC meaning |
 |---|---|
-| ✅ Warm water | About **23–25 C** in the source notes |
+| ✅ Warm water | Reef-building corals generally require warm tropical water; optimum ranges vary by species |
 | ✅ Shallow water | Sunlight must reach the algae/coral system |
 | ✅ Clear water | Muddy/sediment-rich water blocks light and smothers coral |
 | ✅ Saline water | Normal marine salinity; not fresh or heavily diluted water |
@@ -45,7 +45,7 @@
 
 - ✅ Island types: continental, oceanic/volcanic and coral.
 - ✅ Coral polyps build limestone skeletons; zooxanthellae are symbiotic algae.
-- ✅ Coral needs warm (~23–25 C), shallow, clear, sediment-free saline water.
+- ✅ Coral needs warm, shallow, sunlit, clear and normally saline water; local species tolerances vary.
 - ✅ Reef sequence/types: fringing, barrier and atoll.
 - ✅ Darwin's **subsidence** theory: fringing → barrier → atoll as island sinks.
 - ✅ Atoll = ring reef enclosing a lagoon.

@@ -11,7 +11,7 @@
 
 | Date | Event |
 |---|---|
-| ✅ 1336 | Vijayanagara founded by Harihara and Bukka (chronology spine) |
+| ✅ c. 1336 | Conventional foundation date of Vijayanagara under Harihara and Bukka; their earlier affiliations and foundation narrative are disputed |
 | ✅ 1347 | Bahmani kingdom founded by Hasan Gangu/Alauddin Bahman Shah |
 | ✅ 1367 | War over Mudkal/Tungabhadra doab; artillery noted on both sides |
 | ✅ 1377 | Madurai Sultanate wiped out; Vijayanagara strengthened in south |
@@ -36,6 +36,7 @@
 - ✅ Deva Raya II strengthened the army by employing Muslim cavalrymen and archers and by learning from Sultanate military methods.
 - ✅ Mahmud Gawan expanded Bahmani power, took Goa and Dabhol, and reformed administration.
 - ✅ Krishnadeva Raya restored internal order, defeated rivals, patronised literature and built tanks/towns; after his death factional politics and Rama Raja's diplomacy led to the 1565 catastrophe.
+- ✅ The **amaram** system assigned territorial revenues to hereditary **nayaks** for troops and service; Chandra warns that it was not identical to the transferable Sultanate **iqta**.
 
 ## 2. Key classification / data
 
@@ -46,6 +47,7 @@
 | ✅ Military learning | Deva Raya II uses Muslim cavalry/archers | Superior cavalry/artillery noted in conflicts |
 | ✅ High point | Deva Raya II; Krishnadeva Raya | Firuz Shah Bahmani; Mahmud Gawan |
 | ✅ Decline marker | Talikota/Bannihatti, 1565 | Noble factionalism; five successor states |
+| ✅ Territorial service | Amaram under hereditary nayaks | Eight tarafs under Mahmud Gawan's reform |
 
 ## 3. Study links
 
@@ -72,7 +74,7 @@
 
 ## 6. 📰 Current link
 
-📰 **ASI excavations at Hampi in 2026 reportedly revealed a Vijayanagara-era drainage system and Jain temple-roof remains near the Hazara Rama Temple** (New Indian Express, 2026). Relevance: confirms Hampi's urban planning and layered sacred landscape.
+📰 **Current linkage (verify live before use):** New excavation or conservation findings at Hampi can illuminate urban planning and a layered sacred landscape, but use only ASI or other authorised excavation reports for the claimed feature and date.
 
 ## 7. Mains angles
 

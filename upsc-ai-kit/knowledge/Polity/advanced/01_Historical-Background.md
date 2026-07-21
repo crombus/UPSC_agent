@@ -1,7 +1,7 @@
 # Historical Background of the Constitution (1773–1947) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-I (Modern History) & GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 1 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 1 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference. *(Low direct CA; static high-frequency chapter.)*
 > *Companion: `basic/Historical-Background.md`.*
 

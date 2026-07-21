@@ -4,7 +4,7 @@
 > **Core area:** Securities and investment products.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md`.*
+> *Companion: `../advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md`.*
 
 ---
 
@@ -72,6 +72,8 @@ liquidity promise and underlying exposure before comparing return.
 ## 6. Must-Know Facts for Prelims
 
 - ✅ Bondholders are creditors and generally rank ahead of equity shareholders in repayment.
+- ✅ Coupon is the stated contractual interest rate; yield depends on the bond's market
+  price, cash flows and maturity.
 - ✅ Equity holders receive residual returns and bear greater downside after creditors.
 - ✅ Futures create symmetric obligations; options give the buyer a right, not an obligation.
 - ✅ Derivatives may hedge, speculate or arbitrage; the instrument does not reveal the user's
@@ -132,8 +134,7 @@ loss, liquidity mismatch or poor governance.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-
-  Funds.md`.
+- ✅ Advanced companion: `../advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md`.
 - ✅ `07_Money-Market-Capital-Market-and-Financial-Instruments.md` — market architecture.
 - ✅ `25_Climate-Economics-Green-Finance-and-Circular-Economy.md` — green, social and
   sustainability bonds.

@@ -60,9 +60,9 @@ NSW (Australia); **sugar-cane** thriving in Natal; and the **maize belt** of the
 
 ## 8. 📰 Current link
 
-📰 **Super Typhoon Ragasa (September 2025)** — a Category-5-equivalent Pacific typhoon (peak winds
-~270 km/h) that struck the northern Philippines, Taiwan and skirted Hong Kong/Macau before **landfall
-in Guangdong, China (24 Sep 2025)**, forcing the evacuation of ~2 million people. A textbook example of
+📰 **Western North Pacific typhoons** remain the current anchor: warm ocean water, Coriolis force and
+westward/north-westward steering expose the Philippines, Taiwan, south-east China, Korea and Japan.
+Use the final WMO/JMA track for a named storm rather than pre-landfall wind and evacuation estimates. A textbook example of
 the **July–September western-moving South-China-Sea typhoons** of the China-type climate, and of rising
 climate-linked cyclone intensity in East Asia.
 

@@ -1,8 +1,9 @@
 # Political Theory - Knowledge Base Index
 
 > **Subject:** Political Theory (GS-II / PSIR conceptual foundation) | **Spine:** O. P. Gauba,
-> *An Introduction to Political Theory*, Fifth Edition (2009), complete direct-book extraction +
-> a research blueprint mapping every chapter to a 23-topic file spine.
+> *An Introduction to Political Theory*, Fifth Edition (2009), read directly and mapped to a
+> 23-topic file spine; supplemented directly from the supplied *Socio-Political Philosophy* PDF
+> where Gauba's spine leaves syllabus gaps, plus verified local Philosophy Optional PYQs.
 > **Start here:** `Political-Theory/00_Master-Framework.md`.
 
 ---
@@ -64,14 +65,14 @@
 | 07 | Nature of Politics and Communitarianism | Ch.3, pp.94-107 | Liberal, Marxist, communitarian readings of politics |
 | 08 | Approaches, Behaviouralism and Post-Behaviouralism | Ch.4, pp.108-134 | Traditional approaches, behaviouralism, post-behaviouralism, models |
 | 09 | Interdisciplinary Political Analysis | Ch.5, pp.135-146 | History, economics, sociology, psychology, philosophy |
-| 10 | State, Civil Society, Nation and Internationalism | Ch.6, pp.147-176 | State vs government vs society vs nation; civil-society variants |
-| 11 | Sovereignty and Pluralism | Ch.7-8, pp.177-208 | Legal/political/popular sovereignty; pluralist critique |
+| 10 | State, Civil Society, Nation and Internationalism | Ch.6, pp.147-176 + *Socio-Political Philosophy*, pp.144-159 | State vs government vs society vs nation; nationalism; secularism; multiculturalism; civil-society variants |
+| 11 | Sovereignty and Pluralism | Ch.7-8, pp.179-208 + *Socio-Political Philosophy*, p.67 | Legal/political/popular sovereignty; pluralist critique; Kautilya as a limited Indian comparator |
 | 12 | Globalisation and Challenges to Sovereignty | Ch.9, pp.209-218 | Imperialism, power blocs, globalisation, state transformation |
-| 13 | Diverse Perspectives on the State | Ch.10, pp.219-279 | Organic, liberal, welfare, Marxist, post-colonial, feminist state theories |
-| 14 | Political Obligation, Resistance and Law | Ch.11-12, pp.280-300 | Obedience, resistance, civil disobedience, rule of law |
+| 13 | Diverse Perspectives on the State | Ch.10, pp.220-279 | Organic, liberal, welfare, Marxist, post-colonial, feminist state theories |
+| 14 | Political Obligation, Resistance and Law | Ch.11-12, pp.280-300 + *Socio-Political Philosophy*, pp.164-167 | Obedience, resistance, civil disobedience, rule of law; retributive, deterrent and reformative punishment |
 | 15 | Power, Authority and Legitimacy | Ch.13, pp.301-323 | Weber, Gramsci, elites, pluralists, feminist and developmental power |
 | 16 | Citizenship and Its Critiques | Ch.14, pp.324-337 | Marshall; liberal/communitarian/Marxist/feminist/subaltern citizenship |
-| 17 | Human Rights, Civil Liberties and Democratic Rights | Ch.15, pp.338-366 | Rights theories, UDHR, civil liberties, scope of rights |
+| 17 | Human Rights, Civil Liberties and Democratic Rights | Ch.15, pp.338-366 + *Socio-Political Philosophy*, pp.69-76 | Rights theories including personality/idealist theory; UDHR; civil liberties and democratic rights |
 | 18 | Liberty, Equality and Property | Ch.16-18, pp.367-431 | Negative/positive liberty; formal/substantive equality; property |
 | 19 | Justice: Concepts and Dimensions | Ch.19, pp.432-445 | Legal, political, socio-economic; procedural/substantive justice |
 | 20 | Diverse Perspectives on Justice | Ch.20, pp.446-473 | Rawls, Nozick, Marxist, feminist, subaltern, communitarian justice |
@@ -82,17 +83,22 @@
 ## Source and edition policy
 
 - ✅ Primary anchor: O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009),
-  read directly and completely from the supplied page-preserving extraction
-  `An Introduction to Political Theory by O P Gauba.txt` (cited by `PDF p.N` using the file's own
-  `===== PDF PAGE n =====` anchors).
+  read directly from the supplied local PDF and cited by physical PDF page.
+- ✅ Direct supplementary anchor: the supplied local *Socio-Political Philosophy* PDF, used only
+  for secularism, multiculturalism, punishment, Kautilya and selected rights/liberty distinctions.
+- ✅ Verified PYQ anchor: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`, itself transcribed
+  from local scanned UPSC papers. Questions quoted from it are labelled **verified PYQ**.
+- ⚠️ *The Oxford Handbook of Philosophy of Religion* was checked only for a directly relevant
+  religion-politics boundary. It supplied no necessary secularism doctrine here and is not used to
+  manufacture a political position absent from the assigned sources.
 - ⚠️ Where the book's own examples are used (Cold War blocs, USSR/China illustrations, "Third
   World" framing, 1980s-90s numerical claims), they are explicitly labelled as **book-period
   illustrations**, never as present-day facts.
 - 📰 Any post-2009 anchor used anywhere in this module is independently dated and sourced from an
   official body — it is never inferred from the book itself, since the book cannot describe
   events after its own edition date.
-- ❌ This module does not use any automated retrieval pipeline or indexed-search tooling. All
-  content is authored directly by reading the extracted book text and the research blueprint.
+- ❌ This module does not use Qdrant/RAG or an indexed retrieval pipeline. Content is authored by
+  direct local-PDF reading and the verified local PYQ corpus.
 
 ## Usage path
 
@@ -146,5 +152,8 @@
 5. **No boundary creep.** Constitutional Articles, case law, institutional mandates and current
    international-order detail are not authored here; they are cross-linked to `Polity`,
    `Governance` or `International-Relations` using full root-relative paths.
-6. **No automated retrieval tooling.** This module is authored directly from the extracted book
-   text and the accompanying research blueprint, without any indexed-search or retrieval pipeline.
+6. **No automated retrieval tooling.** This module is authored directly from the supplied local
+   PDFs and verified local PYQ papers, without Qdrant/RAG or an indexed retrieval pipeline.
+7. **Necessary/sufficient discipline.** Elections, legal enactment, alterability of inequality,
+   benefit to the least advantaged and severity of punishment are never treated as self-sufficient
+   tests when their theories require additional prior conditions.

@@ -1,7 +1,7 @@
 # Citizenship (Articles 5–11) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 6 / Part II (Qdrant export + source book) + verified CA.
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 6 / Part II (direct check of the local Sixth Revised Edition PDF) + official update.
 > ✅ = from source book · ⚠️ = inference / post-book · 📰 = current affairs.
 > *Companion: `basic/Citizenship.md`.*
 
@@ -71,11 +71,13 @@ jobs. Registration cancellable for fraud/disaffection/trading with enemy.
 ---
 
 ## 📰 CA anchor — Citizenship (Amendment) Act, 2019 ⭐⭐
-📰 ✅ **CAA 2019** offers a **fast-track to citizenship** for **six communities — Hindu, Sikh, Buddhist,
+📰 ✅ **CAA 2019** offers a **facilitated application route** for **six communities — Hindu, Sikh, Buddhist,
 Jain, Parsi, Christian** — from **Pakistan, Bangladesh, Afghanistan** who entered India **on or before
 31 December 2014** (naturalisation residence cut to **5 years**). Muslims and other countries excluded —
 hence the equality/secularism (Art 14) debate.
-📰 **Rules notified March 2024**; **first citizenship certificates granted May 2024** (online portal).
+📰 **Rules notified March 2024**; **first citizenship certificates granted May 2024**
+(online portal). The Act does **not grant automatic citizenship** merely by community/origin;
+the applicant must satisfy the statutory route and scrutiny.
 ⚠️ Constitutional challenge pending in Supreme Court (Art 14 discrimination + linkage with NRC fears).
 
 ## UPSC Traps

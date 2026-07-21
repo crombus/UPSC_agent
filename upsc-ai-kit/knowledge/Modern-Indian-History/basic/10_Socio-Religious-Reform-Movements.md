@@ -33,6 +33,7 @@
 - ✅ **Arya Samaj** under Swami Dayananda Saraswati gave the slogan **"Back to the Vedas"**, rejected idolatry and caste rigidity, promoted *Satyarth Prakash*, shuddhi and DAV education.
 - ✅ **Ramakrishna Paramhansa** stressed spiritual experience; **Swami Vivekananda** popularised practical Vedanta, represented India at Chicago in 1893 and founded the Ramakrishna Mission in 1897.
 - ✅ Reform also emerged among Muslims, Parsis, Sikhs and oppressed castes through Aligarh, Deoband, Rahnumai Mazdayasnan Sabha, Singh Sabha, Phule's Satyashodhak Samaj and Sri Narayana Guru's movement.
+- ✅ Anti-caste and women's reform had distinct agendas: **Jyotiba and Savitribai Phule** linked caste critique with education; **Pandita Ramabai** foregrounded women's autonomy; **Sri Narayana Guru**, later non-Brahmin and Self-Respect currents challenged hierarchy beyond upper-caste social reform.
 
 ## 2. Key classification / data
 
@@ -45,12 +46,13 @@
 | ✅ Spiritual-humanist | Ramakrishna Mission — Vivekananda | Practical Vedanta, service, national self-confidence |
 | ✅ Muslim reform | Aligarh — Syed Ahmad Khan; Deoband; Ahmadiyya | Modern education / orthodox revival / religious reform |
 | ✅ Anti-caste | Phule, Sri Narayana Guru, Justice Movement | Caste critique, social equality, education of lower castes |
+| ✅ Women's agency | Savitribai Phule, Pandita Ramabai and women's organisations | Girls' education, widowhood, legal and social autonomy—not merely reform "for" women |
 
 ## 3. Study links
 
 > **Study link:** ✅ Social and cultural policy background → `basic/09_Social-and-Cultural-Policy-Education-Press.md`.
 > **Study link:** ⚠️ Reform currents shaped early nationalist leadership → `basic/14_Foundation-of-INC-and-Moderate-Phase.md`.
-> **Study link:** ⚠️ Anti-caste politics later connects to Ambedkar, Periyar and constitutional equality → `basic/28_Integration-of-Princely-States.md`.
+> **Study link:** ⚠️ Anti-caste and gender politics later connect to constitutional equality and post-independence social change → `basic/29_Colonial-Legacy-and-Foundations-of-the-Republic.md` and `basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md`.
 
 ## 4. Must-Know Facts (Prelims)
 
@@ -59,6 +61,7 @@
 - ✅ **Ramakrishna Mission = 1897 = Swami Vivekananda**; remember Chicago address in 1893 and practical Vedanta.
 - ✅ **Satyashodhak Samaj = 1873 = Jyotiba Phule**; remember *Gulamgiri* and anti-caste mobilisation.
 - ✅ **MAO College, Aligarh = 1875 = Syed Ahmad Khan**; remember modern scientific education for Muslims.
+- ✅ **Savitribai Phule** is central to girls' education and anti-caste pedagogy; **Pandita Ramabai** to women's education and critique of upper-caste patriarchy.
 - ⚠️ **Reformist** usually means reinterpretation with modern reason; **revivalist** usually means return to a purified ancient/religious source.
 
 ## 5. UPSC Traps

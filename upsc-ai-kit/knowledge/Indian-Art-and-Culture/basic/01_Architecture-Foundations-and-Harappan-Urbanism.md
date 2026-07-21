@@ -6,6 +6,8 @@
 > Harappan town planning, citadel/lower town, drains, Great Bath, standardised
 > construction.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp. 30-40;
+> R.S. Sharma, *India's Ancient Past*, PDF pp. 90-109; R.S. Sharma,
+> *Ancient India*, PDF pp. 46-54;
 > `00_Master-Framework.md` Sections 1-3; audited UPSC Mains 2025 GS Paper I.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/01_Architecture-Foundations-and-Harappan-Urbanism.md`.*
@@ -57,11 +59,22 @@ and east-west, cutting each other at right angles (*Nitin…pdf*, PDF p. 33).
 such as temples or palaces for rulers unlike the Egyptian and Mesopotamian
 Civilisation" (*Nitin…pdf*, PDF p. 33) — a direct correction to any answer
 that assumes Harappan cities had palace or temple complexes as settled
-fact. ✅ Granaries in the citadel used "strategic air ducts and raised
-platforms" for grain storage and pest protection (*Nitin…pdf*, PDF pp.
-33-34). ✅ Most buildings had private wells and ventilated bathrooms, and
+fact. ⚠️ Structures conventionally labelled "granaries" used raised platforms
+and ventilation, but their exact function is an archaeological
+interpretation rather than an inscriptionally confirmed name. ✅ Most
+buildings had private wells and ventilated bathrooms, and
 some lower-town houses had stairs suggesting double storeys (*Nitin…pdf*,
 PDF p. 34).
+
+✅ **Regional variation matters:** Mohenjo-daro's Great Bath and drainage,
+Harappa's large brick platforms, Dholavira's fortified multi-part plan and
+extensive water-storage works, Lothal's basin (conventionally called a
+dockyard, with function debated), and Kalibangan's distinctive planning
+show a shared urban vocabulary without identical city plans. R.S. Sharma
+confirms grid planning, household bathing/drainage and Dholavira's
+fortification, while also stressing that the undeciphered script sharply
+limits claims about polity and belief (*India's Ancient Past*, PDF pp.
+94-101).
 
 ## 5. Visual map or comparison table
 
@@ -89,6 +102,7 @@ HARAPPAN TOWN PLAN
 | ✅ Material | Standardised burnt brick + gypsum mortar | ❌ Do not assume stone was the primary Harappan building material |
 | ✅ Public architecture | Granaries, Great Bath, pillared halls | ❌ Do not call these "palaces" or "temples" as settled fact |
 | ✅ Domestic architecture | Private wells, bathrooms, some double storeys | ⚠️ Evidence of social differentiation (citadel vs. lower town) exists, but should not be over-read as a rigid caste system |
+| ⚠️ Site variation | Dholavira's water/fortification system; Lothal basin; Kalibangan planning | ❌ Harappan urbanism was standardised, not identical at every site |
 
 ## 6. Source spine
 
@@ -130,6 +144,13 @@ topic.
 - ❌ All Harappan houses were uniform in size and status. -> The citadel/
   lower-town division and variation in house size (including some
   double-storeyed houses) show social and functional differentiation.
+- ❌ "Granary," "dockyard" and "ritual bath" are ancient Harappan labels.
+  -> They are modern archaeological interpretations based on form and
+  context; use "conventionally identified as" where function is debated.
+- ❌ The horned figure on one seal proves a settled proto-Shiva cult. ->
+  R.S. Sharma explicitly calls the Pashupati identification doubtful
+  because horned deities occur elsewhere and the expected bull is absent
+  (*India's Ancient Past*, PDF p. 100).
 
 ## 10. Mains framework
 

@@ -13,7 +13,7 @@
 |---|---|
 | ✅ 1511 | Babur briefly regained Samarqand with Safavid help |
 | ✅ 1577 | Abdullah Uzbek proposed an anti-Safavid partition of Iran; Akbar refused sectarian logic |
-| ✅ 1583–85 | Uzbeks captured Balkh and Badakhshan; Akbar annexed Kabul |
+| ✅ 1572–73; 1583–85 | Abdullah Uzbek first seized Balkh, later recaptured it in 1583, took Badakhshan in 1585; Akbar annexed Kabul |
 | ✅ 1595 | Qandhar acquired by Akbar to complete a defensible frontier |
 | ✅ 1622 | Shah Abbas captured Qandhar; Jahangir's Persian cordiality ended |
 | ✅ 1636 | Shah Jahan considered wider anti-Persian diplomacy but relied on diplomacy alone |
@@ -31,6 +31,7 @@
 - ✅ Embassies were also intelligence channels; missions and correspondence from nobles/princes supplied information for policy.
 - ✅ The core triangle was **Uzbeks–Safavids–Ottomans**, with the Mughals refusing to be trapped by sectarian Sunni/Shia categories.
 - ✅ Akbar's reply to Abdullah Uzbek said differences in law and religion were not sufficient grounds for conquest.
+- ✅ Part II preserves a two-stage Balkh chronology: Abdullah seized it in 1572–73, Shahrukh Mirza recovered it, and Abdullah reconquered it in 1583 before taking Badakhshan in 1585.
 
 **Deeper — Qandhar/Balkh as strategic choices, not imperial fantasy.**
 
@@ -76,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-📰 **India-Afghanistan trade and air/connectivity discussions (2025):** recent reporting notes renewed India-Afghanistan engagement around air freight, Chabahar and connectivity, including southern Afghan trade nodes such as Kandahar. **Relevance:** Qandhar/Kandahar's historic role as a gateway helps frame why Afghanistan-Central Asia connectivity remains strategically sensitive.
+📰 **Current linkage (verify live before use):** Kandahar's continuing gateway position offers a cautious historical analogy for connectivity and frontier security. Verify current routes and diplomatic arrangements; modern Kandahar is not simply the Mughal Qandhar system continued.
 
 ## 7. Mains angles
 
@@ -87,4 +88,3 @@
 ## ➕ Concept note (PYQ-gap)
 
 ⚠️ **Qandhar vs Balkh:** Qandhar was a defensible frontier bastion and trade gateway; Balkh was a forward political buffer. Confusing the two weakens Mains analysis.
-

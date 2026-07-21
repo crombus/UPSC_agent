@@ -30,7 +30,7 @@
 
 ✅ **Samudragupta** enlarged the kingdom enormously. Harishena's Allahabad pillar inscription praises his conquests and personality.
 - ✅ RS Sharma contrasts Samudragupta with Ashoka: Ashoka adopted peace after Kalinga, while Samudragupta delighted in conquest.
-- ✅ **Chandragupta II Vikramaditya** defeated the Shakas of western India, controlled Ujjain and patronized scholars including Kalidasa and Amarasimha.
+- ✅ **Chandragupta II Vikramaditya** defeated the Shakas of western India and controlled Ujjain. The traditional association of Kalidasa with his court is famous but not chronologically certain.
 - ✅ The Chinese pilgrim **Fa-hsien (AD 399–414)** visited India during Chandragupta II's time.
 - ✅ Huna invasions from Central Asia and feudatory assertion weakened the empire.
 
@@ -57,6 +57,7 @@
 - ✅ Samudragupta's main source is the **Allahabad/Prayag pillar inscription** composed by **Harishena**.
 - ✅ Chandragupta II adopted **Vikramaditya** and defeated western Shakas.
 - ✅ Fa-hsien visited India in **AD 399–414**.
+- ✅ **2025 Prelims emphasis:** Fa-hien/Faxian travelled during **Chandragupta II**, not Samudragupta, Kumaragupta I or Skandagupta.
 - ✅ Huna invasions and feudatory assertion contributed to decline; Yashodharman challenged Gupta authority in AD 532.
 
 ## 5. UPSC Traps
@@ -70,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Udayagiri Caves in current UPSC discussions, 2025:** Current-affairs coverage on Udayagiri highlights Gupta-period Varaha iconography, Sanskrit inscriptions and Chandragupta II links. Use it to connect political legitimacy, Vaishnava symbolism and imperial art.
+⚠️ **Current-link discipline:** A conservation or discovery claim at Udayagiri needs an official archaeological source. The safe linkage is the use of Varaha imagery and inscriptions in Gupta royal legitimation.
 
 ## 7. Mains angles
 

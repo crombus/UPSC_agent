@@ -16,16 +16,18 @@ term**, and can **speak but not vote** in the legislature.
 
 > 🔑 **AG = President + all courts of India + Parliament.** **Advocate General = Governor + state courts + state
 > legislature.**
-> 🔑 Only the **AG** is constitutional; **Solicitor General/ASG are non-statutory
-> executive law offices**.
+> 🔑 Both the **AG (Art 76)** and **Advocate General (Art 165)** are constitutional
+> offices; **Solicitor General/ASGs are non-statutory executive law offices**.
 
 ## Must-Know Facts
-- ✅ AG qualification = **Supreme Court judge**; Advocate General = **High Court judge**.
+- ✅ The AG must be **qualified for appointment as a Supreme Court judge**; the Advocate
+  General must be **qualified for appointment as a High Court judge**.
 - ✅ Neither term nor removal is fixed by the Constitution — **pleasure** doctrine.
 - ✅ AG has **right of audience in all courts**; can take part in Parliament **without a vote**.
 - ✅ AG is **not** a Cabinet member, **not** a government servant, **can** do private practice.
 - ✅ AG must **not** advise/hold a brief **against the GoI**.
 
 ## 📰 Current link
-📰 ⚠️ The **AG's consent** is needed to initiate **contempt of court** proceedings — a recurring news point; debate
-on the perceived politicisation of law officers.
+📰 ⚠️ Under the Contempt of Courts Act, 1971, the AG's written consent is relevant to
+specified criminal-contempt motions before the Supreme Court; it is not a universal
+precondition for every contempt proceeding. Debate continues over law-officer independence.

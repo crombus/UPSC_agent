@@ -7,7 +7,7 @@
 | Item | Fact |
 |---|---|
 | Article / Part | **Art 244**, Part **X** |
-| Fifth Schedule | Scheduled areas & STs — **all states except the 4 NE** (**10 states** have them) |
+| Fifth Schedule | Scheduled Areas in **10 states** outside the Sixth-Schedule tribal-area scheme |
 | Sixth Schedule | Tribal areas — **Assam, Meghalaya, Tripura, Mizoram** |
 
 ## Core idea
@@ -16,13 +16,17 @@ Governor-driven, advisory TAC) covers scheduled areas in most states; the **Sixt
 autonomy** via elected **Autonomous District Councils** in the four north-eastern states.
 
 > 🔑 **Sixth Schedule = "A-M-T-M"** — **A**ssam, **M**eghalaya, **T**ripura, **M**izoram.
-> 🔑 **5th = advisory (TAC)** · **6th = self-governing (District Councils, 26 elected + 4 nominated).**
+> 🔑 **5th = advisory (TAC)** · **6th = self-governing district/regional councils**.
+> The ordinary Sixth-Schedule model is 26 elected + 4 nominated, but special constitutional
+> amendments create exceptions such as the Bodoland Territorial Council.
 
 ## Must-Know Facts
 - ✅ **Fifth Schedule:** President declares scheduled areas; Governor sends **annual report**; **Tribes Advisory
   Council** (20 members, 3/4 ST MLAs) advises.
-- ✅ **Sixth Schedule:** **Autonomous District Councils** — **30 members (26 elected + 4 nominated)**, 5-yr term —
-  legislate on land, forests, customs (Governor's assent needed).
+- ✅ **Sixth Schedule:** ordinarily an Autonomous District Council has **up to 30
+  members (26 elected + 4 nominated)** and elected members serve 5 years; the Bodoland
+  Territorial Council has a special **46-member** design under the 2003 amendment. Councils
+  legislate on specified land, forest and customary matters, subject to gubernatorial assent.
 - ✅ Commissions on scheduled areas: **Dhebar (1960)**, **Bhuria (2002)**.
 - ✅ **Art 244A** — autonomous state within Assam.
 

@@ -1,8 +1,8 @@
 # Preamble of the Constitution — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 4 (Qdrant export + source book) + verified CA.
-> ✅ = from source book · ⚠️ = inference / case law · 📰 = web-verified current affairs.
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 4 (direct check of the local Sixth Revised Edition PDF) + official court updates.
+> ✅ = from source book · ⚠️ = inference / case law · 📰 = official/court-verified update.
 > *Companion: `basic/Preamble.md`.*
 
 ---
@@ -108,7 +108,8 @@ retroactive to 1949). 📰 Bench (**CJI Sanjiv Khanna & Justice Sanjay Kumar**) 
 
 ## PYQ / CA anchors
 - Recurrent Prelims: key-word origins (French vs Russian), Berubari-vs-Kesavananda, 42nd-Amdt words.
-- 📰 Live-search: *Balram Singh* 2024 verdict; debates on removing/retaining "socialist/secular."
+- 📰 Recheck the Supreme Court docket for any later review/follow-up to *Balram Singh*;
+  the controlling verified judgment here is dated 25 Nov 2024.
 
 ## Verified PYQ applications
 

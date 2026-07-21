@@ -1,7 +1,7 @@
 # Political Geography: Boundaries, Frontiers & Geopolitical Theories — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (general concept) · **GS Paper:** GS-I with some GS-II overlap
-> **Grounded in:** Majid Husain, *Geography of India* / *Indian & World Geography* for India-related boundary framing + standard political-geography concepts.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-boundary context + verified dated current-affairs anchor.
 > ✅ = grounded source / standard definition · ⚠️ = interpretive theory or exam heuristic · 📰 = verified dated current-affairs anchor.
 > *Companion: `advanced/35_Indian-Political-Geography-Boundaries-and-Neighbours.md`.*
 

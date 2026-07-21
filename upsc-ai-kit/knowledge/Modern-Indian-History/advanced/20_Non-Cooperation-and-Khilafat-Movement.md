@@ -12,7 +12,7 @@
 | Date | Event |
 |---|---|
 | ✅ 1919 | Khilafat question emerges after WWI; Rowlatt-Jallianwala anger strengthens anti-British mood |
-| ✅ November 1919 | Khilafat Committee formed; Ali Brothers become prominent leaders |
+| ✅ November 1919 | All-India Khilafat Conference at Delhi threatens non-cooperation; the Khilafat Committee already existed |
 | ✅ September 1920 | Calcutta Special Congress approves Non-Cooperation |
 | ✅ December 1920 | Nagpur Congress ratifies programme and creates a mass-party structure |
 | ✅ 1921 | Boycotts, picketing, resignations and khadi campaigns spread across regions |
@@ -56,7 +56,7 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Khilafat leaders included **Maulana Mohammad Ali, Shaukat Ali, Maulana Azad and Hakim Ajmal Khan**.
+- ✅ Khilafat leaders included **Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani**; do not misdate the committee's formation to the November 1919 conference.
 - ✅ Non-Cooperation was adopted in **September 1920** and ratified at **Nagpur in December 1920**.
 - ✅ National institutions associated with the period include **Jamia Millia Islamia**, **Kashi Vidyapith**, **Gujarat Vidyapith** and **Bihar Vidyapith**.
 - ✅ The programme included surrender of titles, boycott of councils, courts, schools, foreign cloth and promotion of khadi.

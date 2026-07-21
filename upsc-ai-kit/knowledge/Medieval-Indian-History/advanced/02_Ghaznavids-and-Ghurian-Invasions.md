@@ -17,7 +17,7 @@
 | ✅ 1018 | Mathura and Kanauj sacked in Mahmud's most spectacular Ganga-valley raid |
 | ✅ 1025 | Somnath raid across Rajasthan and Gujarat |
 | ✅ 1163 | Ghiyasuddin Muhammad took Ghur; Muizzuddin was set at Ghazni |
-| ✅ 1178–79 | Muizzuddin defeated near Mount Abu during the Gujarat campaign |
+| ✅ 1178 | Muizzuddin defeated near Mount Abu during the Gujarat campaign |
 | ✅ 1191 | Tarain I — Prithviraj defeated Muizzuddin near Tabarhinda |
 | ✅ 1192 | Tarain II — Muizzuddin defeated Prithviraj |
 | ✅ 1194 | Chandawar — Jaichandra defeated; Banaras plundered |
@@ -38,6 +38,7 @@
 - ✅ Tarain II was a war of movement: mounted archers harassed the slower Rajput forces and attacked after creating confusion.
 - ✅ After Tarain, Muizzuddin followed a cautious policy — installing or retaining vassals before rebellions led Aibak to occupy Delhi and Ajmer more directly.
 - ✅ The battles of Tarain and Chandawar laid the foundations of Turkish rule in the Ganga valley, though consolidation took decades.
+- ✅ Bakhtiyar Khalji's later thrust into Bihar and Bengal shows that rapid cavalry penetration could destroy major centres without instantly creating a dense territorial administration.
 
 ## 2. Key classification / data
 
@@ -75,7 +76,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Adhai Din Ka Jhonpra, Ajmer heritage debate (2024–25):** Recent news reported demands for ASI/scientific survey and heritage protection at Ajmer's Sultanate-era monument linked with early Turkish conquest. **UPSC relevance:** connects Ghurid-Aibak expansion, temple-spolia debates and conservation ethics; avoid using current claims as medieval proof.
+📰 **Current linkage (verify live before use):** Conservation or litigation concerning Adhai Din ka Jhonpra may be used only as a heritage-governance hook. Modern survey claims cannot substitute for archaeological and textual evidence about Aibak-era construction and reuse.
 
 ## 7. Mains angles
 
@@ -86,4 +87,3 @@
 ## ➕ Concept — Causes of Rajput defeat
 
 ⚠️ Organise answer as: political fragmentation + feudal levies + weak coordination + cavalry mobility gap + lack of strategic attention to Central Asia/Punjab.
-

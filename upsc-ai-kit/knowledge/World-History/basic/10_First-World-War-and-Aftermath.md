@@ -17,7 +17,7 @@
 | ✅ 1916 | Verdun and the Somme become symbols of attrition |
 | ✅ Jan 1917 | Germany begins unrestricted submarine warfare |
 | ✅ April 1917 | USA enters the war |
-| ✅ Dec 1917 | Russia leaves the war |
+| ✅ Dec 1917-Mar 1918 | Bolshevik armistice is followed by the Treaty of Brest-Litovsk, formally taking Russia out of the war |
 | ✅ Spring-Aug 1918 | Ludendorff offensive fails; Allied counter-offensive begins |
 | ✅ 11 Nov 1918 | Armistice signed |
 | ✅ 1919-23 | Paris peace treaties redraw Europe and the Middle East |
@@ -91,7 +91,7 @@
 | Treaty of Versailles (1919) | Germany | ✅ Territorial losses, disarmament, war-guilt clause, reparations, Rhineland demilitarization |
 | Treaty of St Germain (1919) | Austria | ✅ Loss of Bohemia, Moravia, South Tyrol, Trieste and other territories |
 | Treaty of Trianon (1920) | Hungary | ✅ Slovakia, Ruthenia, Croatia, Slovenia, Transylvania lost |
-| Treaty of Sevres (1920) / Lausanne (1923) | Turkey | ✅ Sevres rejected; Lausanne restores eastern Thrace and Smyrna to Turkey |
+| Treaty of Sevres (1920) / Lausanne (1923) | Turkey | ✅ Sevres' territorial terms were rejected by Turkish nationalists; Lausanne recognized Turkish sovereignty over eastern Thrace and Anatolia, including Smyrna/Izmir |
 | Treaty of Neuilly (1919) | Bulgaria | ✅ Territorial loss to Greece, Yugoslavia and Romania |
 
 ✅ Lowe's Versailles summary is especially important:
@@ -101,7 +101,7 @@
 - ✅ Union between Germany and Austria was forbidden.
 - ✅ German colonies became League mandates.
 - ✅ Germany was limited to a 100,000-man army; no conscription, tanks, submarines or military aircraft.
-- ✅ Article 231 fixed war guilt on Germany and allies.
+- ✅ Article 231 assigned Germany and its allies responsibility for Allied loss and damage as the legal basis for reparations; it became known politically as the "war-guilt clause".
 - ✅ Reparations were later fixed at £6600 million.
 
 ## 6. Must-Know Facts (Prelims) and UPSC traps
@@ -109,7 +109,7 @@
 - ✅ Battle of the Marne (1914) checked the German advance.
 - ✅ Gallipoli failed in 1915.
 - ✅ Verdun and the Somme were the major attritional battles of 1916.
-- ✅ Unrestricted submarine warfare began in 1917 and helped bring the USA in.
+- ✅ Germany resumed unrestricted submarine warfare in 1917 and helped bring the USA in.
 - ✅ Armistice: 11 November 1918.
 - ✅ Treaty of Versailles restricted Germany to 100,000 troops and demilitarized the Rhineland.
 - ✅ Reparations were later fixed at £6600 million and later reduced by the Young Plan.

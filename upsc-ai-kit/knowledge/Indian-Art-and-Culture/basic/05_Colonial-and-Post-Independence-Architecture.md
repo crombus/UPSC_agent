@@ -70,10 +70,12 @@ Padma Vibhushan, 2006 (*Nitin…pdf*, PDF p. 155). ✅ **Achyut Kanvinde**
 combined modern architecture with Brutalist elements (IIT Kanpur,
 National Science Centre Delhi, Dudhsagar Dairy plant, ISKCON Temple New
 Delhi); Padma Shri, 1974 (*Nitin…pdf*, PDF p. 155). ✅ The new Parliament
-House (designed by Bimal Patel, inaugurated 2023) replaced the 1927
-Lutyens-Baker-designed old Parliament building, whose original design was
-influenced by the Chausath Yogini Temple at Mitaoli, Madhya Pradesh
-(*Nitin…pdf*, PDF p. 156).
+House (designed by Bimal Patel, inaugurated 2023) became Parliament's main
+working building; the 1927 building was retained and renamed Samvidhan
+Sadan. ⚠️ A visual resemblance to the Chausath Yogini Temple at Mitaoli is
+widely repeated, including in Nitin, but direct documentary proof that
+Lutyens/Baker copied it is not settled; present it as a debated influence,
+not fact.
 
 ## 5. Visual map or comparison table
 
@@ -106,6 +108,12 @@ PORTUGUESE (Iberian/Baroque)      FRENCH (Cartesian grid/anonymous)
 | ✅ Post-Independence institutional modern | Supreme Court of India (1958) | Ganesh Bhikaji Deolalikar |
 | ✅ Post-Independence modern | Madhya Pradesh Assembly | Charles Correa |
 | ✅ Low-cost/vernacular modern | Kerala mass housing | Laurie Baker |
+
+| Continuity/change lens | Colonial form | Post-Independence response |
+|---|---|---|
+| Power and axis | Monumental administrative vistas and segregated civic cores | Chandigarh and later capitals retained monumental state planning but changed programme and symbolism |
+| Climate | Imported revival vocabularies adapted unevenly | Correa/Baker foregrounded courtyards, shade, ventilation and local material |
+| Material/economy | Imperial stone/brick/concrete display | Baker's filler slabs and rat-trap bond prioritised cost and thermal performance |
 
 ## 6. Source spine
 
@@ -146,6 +154,10 @@ in the audited set.
 - ❌ Chandigarh was designed by an Indian architect. -> It was designed by
   Le Corbusier, a French architect, commissioned by the Punjab
   government.
+- ❌ The 2023 Parliament building caused the 1927 building to disappear or
+  proved that the older circular plan was copied from Mitaoli. -> The older
+  building survives as Samvidhan Sadan; the Mitaoli link is a debated
+  resemblance unless supported by design records.
 
 ## 10. Mains framework
 

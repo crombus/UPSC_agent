@@ -82,7 +82,10 @@
 
 ## 7. 📰 Current link
 
-📰 **Africa’s Great Green Wall & Sahel greening debate (2024–26):** The African Union’s Great Green Wall is an **8,000 km**, **21-country** belt from **Senegal to Djibouti**, launched in **2007**, targeting restoration of **~100 million ha** degraded land by 2030, sequestration of **~250 million tonnes carbon**, and creation of **~10 million jobs**. It remains only **~20% complete by 2024/25**, slowed by funding gaps, conflict, drought and locusts. Studies debate localised “Sahel greening,” but net degradation and drought risk persist.
+📰 **Africa's Great Green Wall and Sahel restoration:** launched in 2007, the initiative evolved from a
+literal tree belt into a mosaic of land restoration, agroforestry and livelihood projects across the
+Sahel. Its 2030 restoration, carbon and jobs targets are programme goals—not completed outcomes—and
+progress estimates vary by definition and reporting year.
 
 ## 8. Mains angles
 

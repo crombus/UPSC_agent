@@ -12,6 +12,7 @@
 | Date | Event |
 |---|---|
 | ✅ 1628 | Shah Jahan accedes; Bundela & Khan Jahan Lodi revolts suppressed |
+| ⚠️ 1631 | Standard date of Mumtaz Mahal's death; Part II prints 1630 |
 | ✅ 1636 | Ahmadnagar extinguished; **Deccan settlement**; Aurangzeb viceroy |
 | ✅ 1646–47 | Balkh–Badakhshan campaign |
 | ✅ 1649–53 | Qandahar lost; three failed sieges |
@@ -22,9 +23,9 @@
 
 **Deeper — anatomy of the mansabdari system.**
 
-✅ The **dual rank (zat + sawar)** introduced by Akbar in his **40th regnal year (1595–96)** matured under Shah Jahan. **Zat** fixed personal status and pay; **sawar** fixed the number of **cavalry** to be maintained. Abul Fazl grouped mansabdars into **three categories** by how fully they met their sawar quota (full / half-or-more / less-than-half).
+✅ The **dual rank (zat + sawar)** introduced by Akbar in his **40th regnal year (1595–96)** matured under Shah Jahan. **Zat** fixed personal status and pay; **sawar** fixed the cavalry obligation.
 - ✅ Enforcement rested on the **dagh (branding of horses)** and **chehra (descriptive muster roll)** — yet Badayuni records chronic evasion: nobles brought **borrowed men and horses** to the muster, then kept the jagirs.
-- ✅ The **do-aspa sih-aspa** device (troopers with two/three horses) let the state raise a noble's **military obligation without inflating his zat** — a flexible response to shortage.
+- ✅ **Du-aspa sih-aspa** first appears in Part II under **Jahangir**; it let the state double specified sawar obligations without raising zat. Shah Jahan later combined it with systematised one-third/one-fourth muster rules.
 
 **Deeper — the month-scale and the roots of crisis.**
 
@@ -39,7 +40,7 @@
 |---|---|
 | ✅ Zat / Sawar (1595–96) | Status-pay / cavalry obligation |
 | ✅ Dagh & chehra | Branding + muster roll to curb fraud |
-| ✅ Do-aspa sih-aspa | Raise troop duty without raising zat |
+| ✅ Du-aspa sih-aspa | Jahangir-era device to raise troop duty without raising zat |
 | ✅ Month-scale | Scale pay to jagir's real (sub-12-month) yield |
 | ✅ Jama index | 100 (1595) → ~122 (1627) → ~176 (1656–57) |
 | ✅ Deccan jagirs | Often only 3–4 months' real value |
@@ -68,8 +69,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Shahjahanabad redevelopment / Jama Masjid conservation plan (2026).** The **Shahjahanabad Redevelopment Corporation** was restructured and renamed the **Indraprastha Virasat Punarvikas Nigam**, with a detailed project report for the **Jama Masjid** precinct and Old Delhi around Shah Jahan's **1638 walled city**.
-- **UPSC relevance:** links the reign's architectural legacy to contemporary heritage-governance — usable in GS-I culture and GS-II urban-local-governance answers.
+📰 **Current linkage (verify live before use):** Old Delhi conservation can link Shah Jahan's capital with present urban governance. Verify agency names, plans and dates before citing them.
 
 ## 7. Mains angles
 

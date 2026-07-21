@@ -35,6 +35,7 @@
 - ✅ Ashokan inscriptions show royal writ across much of the country, except the extreme east and south.
 - ✅ The **Kalinga War (261 BC)** produced remorse and shaped Ashoka's internal policy and Dhamma.
 - ✅ Ashokan edicts are a core source for Ashoka's policy, Buddhism and place in history.
+- ✅ **Recent Prelims emphasis:** *pradeshika*, *rajuka* and *yukta* were important Ashokan/Mauryan officers; do not force all three into a single modern administrative tier without reading the edict context.
 
 ## 2. Key classification / data
 
@@ -62,6 +63,7 @@
 - ✅ **Samaharta** = revenue assessment; **sannidhata** = treasury.
 - ✅ Ashokan inscriptions are found widely; RS Sharma notes **19 inscriptions in AP and Karnataka**.
 - ✅ Ashoka's Dhamma was a moral-social policy, not a sectarian replacement of administration.
+- ✅ Rock Edict XIII expresses remorse after Kalinga, but Ashoka did not abolish the army and warned forest peoples against defiance.
 
 ## 5. UPSC Traps
 
@@ -75,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Ashoka Pillar in Sri Lanka, 2025:** A replica of the Ashoka Pillar was unveiled at Waskaduwa Sri Subhuthi Viharaya, Sri Lanka, highlighting Ashoka's role in the transmission of Buddhism to Sri Lanka through Mahinda and Sanghamitta. Use it as a live example of Mauryan memory in India's Buddhist diplomacy.
+⚠️ **Current-link discipline:** Verify any overseas Ashokan memorial or relic event from an official release. The safe linkage is the modern diplomatic use of Ashokan memory and shared Buddhist heritage.
 
 ## 7. Mains angles
 

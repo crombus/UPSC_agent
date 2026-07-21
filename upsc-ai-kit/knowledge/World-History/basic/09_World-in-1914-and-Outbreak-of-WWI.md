@@ -128,7 +128,7 @@
 4. End with the line that a Balkan crisis became a world war because the European system was already militarized and mistrustful.
 
 **Probable Mains questions**
-- ⚠️ "The First World War began in the Balkans but was made inevitable by the structure of European politics." Examine.
+- ⚠️ "The First World War began in the Balkans, but the structure of European politics made escalation increasingly likely." Examine.
 - ⚠️ "How did Balkan nationalism convert a regional crisis into a world war in 1914?"
 - ⚠️ "Account for the outbreak of the First World War with special reference to alliance politics and mobilization."
 

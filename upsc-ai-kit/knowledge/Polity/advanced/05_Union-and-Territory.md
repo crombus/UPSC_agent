@@ -1,7 +1,7 @@
 # Union & its Territory (Articles 1–4) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 5 / Part I (Qdrant export + source book) + verified update.
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 5 / Part I (direct check of the local Sixth Revised Edition PDF) + official update.
 > ✅ = from source book · ⚠️ = inference / post-book update · 📰 = current affairs.
 > *Companion: `basic/Union-and-Territory.md`.*
 

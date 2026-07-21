@@ -2,12 +2,12 @@
 
 > **Subject:** Social Justice | **Tier:** Advanced | **GS Paper:** GS-II;
 > cross-reference GS-III (labour-market reform — see `Economy/advanced/22`).
-> **Core area:** Code on Social Security implementation gaps, aggregator compliance,
-> gig-worker bargaining asymmetry, social-security portability challenges.
-> **Grounded in:** Code on Social Security, 2020 (in force 21 Nov 2025); Social
-> Security (Central) Rules, 2026 (notified 8 May 2026, G.S.R. 344(E)) — operational
-> aggregator-contribution and worker-eligibility framework; e-Shram (2021); BOCW
-> Welfare Boards; PM-SYM (2019); academic/policy literature on gig economy.
+> **Core area:** Enactment-versus-delivery analysis; Code on Social Security,
+> aggregator-contribution design, gig-worker classification, e-Shram portability and
+> residual welfare gaps.
+> **Grounded in:** Code on Social Security, 2020; Unorganised Workers' Social Security
+> Act, 2008; BOCW framework; e-Shram; PM-SYM; India Code/Gazette status as at
+> 21 July 2026; policy literature on platform work.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md`.*
 
@@ -16,263 +16,194 @@
 ## 1. Architecture
 
 ```text
-FROM ENABLING PROVISION TO OPERATIONAL ENTITLEMENT
+FROM LEGAL TEXT TO EFFECTIVE SOCIAL SECURITY
 
-CODE ON SOCIAL SECURITY, 2020 (in force 21 Nov 2025)
-                |
-                v
-        ENABLING PROVISIONS (2020-2026)
-        gig/platform worker definitions,
-        aggregator contribution enabled in principle
-                |
-                v
-SOCIAL SECURITY (CENTRAL) RULES, 2026 (notified 8 May 2026)
-        ┌───────┴───────┐
-        v               v
-  NOTIFIED RATE     NOTIFIED ELIGIBILITY
-  1-2% of turnover  90 days (one aggregator)
-  (excl. taxes/     OR 120 days (multiple
-  cess/surcharge),  aggregators), preceding FY
-  capped at 5% of
-  worker payouts
-        |               |
-        v               v
-  AGGREGATOR        WORKER REGISTRATION
-  REGISTRATION      (eShram; existing workers
-  (eShram; existing  within 45 days of Rules;
-  workers within 45  new workers real-time/daily)
-  days of Rules)
-        +-------+-------+
-                |
-                v
-        OPERATIONAL SOCIAL SECURITY FUND
-                |
-                v
-        REMAINING IMPLEMENTATION CHALLENGES
-        ┌──────────────────────────────────────────┐
-        │ 1. Registration completeness (aggregator │
-        │    and worker coverage, real-time upkeep)│
-        │ 2. Enforcement capacity (audit, penalty  │
-        │    for non-compliant aggregators)         │
-        │ 3. Cost pass-through (contribution cost   │
-        │    shifted to workers/consumers)          │
-        │ 4. Portability (benefit continuity across│
-        │    aggregators, states, occupations)      │
-        │ 5. Algorithmic management (rating opacity,│
-        │    income volatility, no collective forum)│
-        └──────────────────────────────────────────┘
+ENACTED CODE 2020
+definitions + scheme/fund architecture + Section 114 range
+                           |
+                           v
+STATUS GATE
+commencement notification + scheme/rules + administrative system
+                           |
+          not established by an assertion of a future rule
+                           |
+                           v
+FUNDING / REGISTRATION / CLAIMS
+aggregator collection | worker records | portability | grievance
+                           |
+                           v
+BENEFIT RECEIPT
+health, accident, maternity, old-age and disability protection
+                           |
+                           v
+RESIDUAL POWER GAP
+algorithmic control | income volatility | classification disputes
+collective voice | migrant / short-tenure exclusion
 ```
 
-**Analytical claim:** ⚠️ The Social Security (Central) Rules, 2026, closed the
-notification gap that previously separated statutory recognition from operational
-entitlement — the contribution rate, cap and worker-eligibility threshold are now
-fixed and in force — but an operational Rule is not the same as complete delivery;
-the remaining gap turns on registration completeness, enforcement capacity, cost
-pass-through and the structural bargaining asymmetry inherent in platform-mediated work.
+**Analytical claim:** ⚠️ The key policy distinction is not “Code exists versus Code does
+not exist,” but whether a provision is enacted, commenced, operationalised through a
+scheme, funded, administered and actually received. As at 21 July 2026, the Code's
+gig-platform framework should be analysed as an important enacted design, not as proof
+of a nationwide operational benefit system.
 
 ## 2. Concepts and distinctions
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Statutory definition vs operational entitlement** | The Code defined "gig worker" and "platform worker" in 2020 (statutory recognition); the Social Security (Central) Rules, 2026, made the contribution rate, cap and worker-eligibility threshold operational — but an individual worker's actual receipt of benefits still depends on aggregator registration, the worker crossing the 90/120-day threshold, and Fund disbursal. |
-| ✅ **Notified rate vs future revision** | The 1-2% turnover contribution (capped at 5% of worker payouts) is a notified, operational rate under the 2026 Rules — not a fixed constitutional figure — and remains open to future revision by subsequent Rule amendment, as with any subordinate legislation. |
-| ⚠️ **e-Shram registration vs scheme enrolment** | e-Shram provides a registration gateway and Unique Account Number, and is now the mandatory aggregator/worker registration portal under the 2026 Rules; but broader social-security benefits beyond the gig/platform-worker Fund (pension, insurance) may still require separate scheme enrolment (PM-SYM, PM-JAY linkage). |
-| ⚠️ **Algorithmic management** | Platform workers are managed by app algorithms (rating systems, task allocation, surge pricing) rather than human supervisors — creating opacity, income volatility and limited grievance channels; this asymmetry is not addressed by the 2026 Rules, which govern funding and registration, not workplace governance. |
-| ⚠️ **Classification ambiguity** | Aggregators have historically classified workers as "partners" or "independent contractors" to avoid employer obligations; the Code's gig/platform-worker definitions apply regardless of this labelling for social-security purposes, but broader employment-status disputes (e.g., minimum wage, working-time regulation) remain a separate, only partially resolved question. |
-| ⚠️ **Portable social security** | Benefits that follow the worker across aggregators, occupations and states — the Code's design intent, operationalised by the eShram-based registration and the eligibility rule counting engagement "across multiple aggregators," but full portability still depends on consistent aggregator compliance and Fund administration. |
+| ✅ **Enacted provision vs commenced provision** | Parliament may enact a Code while Section 1 leaves commencement to Central Government notification, potentially provision by provision. No notification means a legal design cannot automatically displace the legacy delivery route. |
+| ✅ **Statutory range vs collected contribution** | Code Section 114 sets a possible notified aggregator contribution of 1–2% of annual turnover, capped at 5% of amounts paid/payable to gig/platform workers. A range in legislation is not evidence of a notified rate, collection ledger, Fund balance or paid claim. |
+| ⚠️ **Registration vs entitlement** | e-Shram records an unorganised worker and may support convergence. Eligibility for a pension, insurance, welfare-board benefit or future Code scheme is a separate legal/administrative question. |
+| ⚠️ **Social-security coverage vs employment status** | The Code's gig/platform definitions can extend a social-security design beyond a conventional employment relationship. They do not by themselves settle every dispute about minimum wages, working time, dismissal or collective bargaining. |
+| ⚠️ **Portability vs interoperability** | A portable UAN/card can follow the worker, but benefits are genuinely portable only if contribution records, eligibility rules, claim settlement and grievance redress work across States, platforms and occupations. |
+| ⚠️ **Universal floor vs contributory top-up** | Tax-financed basic protection reduces exclusion of low/irregular earners; contributory protection can deepen cover but may exclude workers with volatile earnings. A credible gig model usually needs both. |
 
 ## 3. Detailed causal chains and failure modes
 
-### Aggregator compliance chain (now operational, residual risk)
-1. **Notification closed the gap:** The Social Security (Central) Rules, 2026, fixed
-   the contribution rate (1-2% of turnover, capped at 5% of worker payouts) and the
-   registration timeline (existing workers within 45 days of the Rules; new workers
-   in real time), removing the earlier "enabling but unnotified" ambiguity.
-2. **Residual audit and enforcement risk:** Notification alone does not guarantee
-   compliance; sustained audit machinery and penalty enforcement against
-   non-compliant aggregators determine whether the notified rate is actually
-   collected and credited to the Social Security Fund.
-3. **Cost pass-through risk:** Aggregators may pass contribution costs to workers (via
-   reduced payouts) or consumers (via higher prices), diluting the intended benefit
-   even where formal compliance is achieved.
+### Legal-status failure chain
 
-### Worker registration and awareness chain
-1. **eShram registration mandate:** Aggregators must register existing workers within
-   45 days of the Rules taking effect and new workers on an ongoing basis; incomplete
-   or delayed aggregator-side registration is now a compliance failure, not merely a
-   voluntary-uptake gap.
-2. **Eligibility-threshold dropout:** A worker below the 90-day (single aggregator) or
-   120-day (multiple aggregators) engagement threshold in the preceding financial year
-   does not qualify for Fund benefits even if registered — a structural exclusion point
-   for highly casual or short-tenure gig work.
-3. **Portability friction:** Workers who move between aggregators or states rely on
-   the eShram Unique Account Number to carry their registration and engagement history
-   forward; consistent aggregator-side data reporting is necessary for this to work
-   in practice.
+1. **Recognition:** The Code defines gig, platform worker and aggregator.
+2. **Operational gap:** A nationwide benefit needs a commencement notification, a scheme,
+   contribution administration, registration/claims rules and grievance machinery.
+3. **False-certainty risk:** Calling an enacted range a current levy conceals the gap
+   between legal design and the worker's actual protection.
+4. **Correct answer move:** State the source date and name the exact rung of the status
+   ladder before making an implementation claim.
 
-### Bargaining-asymmetry chain (unaddressed by the 2026 Rules)
-1. **Algorithmic opacity:** Workers cannot see or contest the algorithms that determine
-   their ratings, task allocation and income — information asymmetry favours platforms,
-   and the 2026 Rules do not regulate this dimension.
-2. **No collective forum:** Neither the Code nor the 2026 Rules provide gig workers with
-   a statutory collective-bargaining mechanism (unlike the Industrial Relations Code for
-   employees).
-3. **Classification disputes persist for non-social-security purposes:** The 2026 Rules
-   resolve social-security coverage regardless of "partner"/"employee" labelling, but
-   disputes over minimum wage, working hours and other employment-standard protections
-   remain a separate, only partially settled question.
+### Registration-to-benefit failure chain
+
+1. **Database entry:** e-Shram records a worker's identity/UAN.
+2. **Scheme matching:** The worker must separately meet a scheme's age, income,
+   occupation, contribution or documentation rules.
+3. **Payment/claim friction:** Bank access, documentation, awareness and State/platform
+   data quality can interrupt a benefit even after registration.
+4. **Outcome risk:** A headline registration total can coexist with low insurance,
+   pension or accident-cover uptake.
+
+### Platform-power failure chain
+
+1. **Algorithmic control:** Ratings, incentives, task allocation and deactivation shape
+   working conditions without transparent human management.
+2. **Income volatility:** Variable demand and unilateral incentive changes make regular
+   contributions difficult for workers with irregular earnings.
+3. **Classification boundary:** Social-security recognition does not settle employee/
+   independent-contractor questions for all labour standards.
+4. **Voice gap:** Individual app grievance channels are not equivalent to collective
+   bargaining or independent adjudication.
 
 ## 4. Institutional and reform architecture
 
-- ✅ **Code on Social Security, 2020:** Central statute consolidating 9 social-security
-  laws; operationalised for gig/platform workers by the Social Security (Central)
-  Rules, 2026 (notified 8 May 2026).
-- ✅ **Social Security (Central) Rules, 2026:** Notify the aggregator-contribution rate
-  and cap, the worker-eligibility threshold, and the eShram-based registration
-  mandate and timeline for aggregators.
-- ✅ **e-Shram portal (MoLE):** Registration database for unorganised workers and, since
-  the 2026 Rules, the mandatory aggregator/gig-worker registration portal; the Rules
-  give it a compliance role it previously lacked.
-- ✅ **EPFO/ESIC:** Continue implementing provident fund and health insurance under the
-  Code's unified framework.
-- ⚠️ Recommended reform: establish a dedicated Gig and Platform Worker Welfare Board
-  (similar to BOCW boards) with tripartite representation (workers, aggregators,
-  government) and grievance-adjudication powers, going beyond the 2026 Rules' funding/
-  registration focus.
-- ⚠️ Recommended reform: mandate algorithmic transparency — aggregators disclose rating
-  criteria, task-allocation logic and dispute-resolution mechanisms.
+- ✅ **Code on Social Security, 2020:** enacted framework that contains gig/platform
+  definitions, scheme-making powers and an aggregator-contribution design. It must be
+  read with its commencement clause and an actual notification.
+- ✅ **Legacy institutions:** EPFO, ESIC, State BOCW Welfare Boards and the Unorganised
+  Workers' Social Security Act, 2008 remain central to current delivery where the Code's
+  replacement provisions are not generally commenced.
+- ✅ **e-Shram:** MoLE national database/UAN infrastructure; useful for mapping and
+  convergence, but not a substitute for a benefit statute, funding or claims system.
+- ✅ **PM-SYM:** voluntary contributory pension route for eligible unorganised workers;
+  it illustrates that a registry and a benefit enrolment are separate steps.
+- ⚠️ **Recommended design:** publish provision-specific commencement and scheme status,
+  make Fund receipts/claims auditable, offer assisted/offline enrolment, and create an
+  independent grievance route for algorithmic deactivation and benefit disputes.
 
 ## 5. Indian applications and boundary cases
 
-- ⚠️ A delivery rider engaged for 100 days with a single aggregator in the preceding
-  financial year crosses the 90-day threshold and qualifies for Social Security Fund
-  benefits, provided the aggregator has registered the rider on eShram and remitted
-  its contribution.
-- ⚠️ A rider who works 40 days each for three different aggregators (120 days
-  cumulatively) qualifies under the multiple-aggregator threshold, illustrating why
-  aggregator-side reporting consistency across platforms matters for portability.
-- ⚠️ An aggregator that classifies drivers as "partners" and argues it is a technology
-  company, not an employer, still owes the notified social-security contribution for
-  its gig/platform workers under the 2026 Rules; the classification dispute survives
-  only for employment-standard questions outside social security.
-- ⚠️ A migrant platform worker registered in one state who moves to another may find
-  BOCW-board benefits non-portable — illustrating state-level fragmentation despite
-  Code's unified design.
+- ⚠️ A rider engaged through two platforms may satisfy the Code definitions but still
+  have no verified nationwide Fund claim route. This distinguishes recognition from
+  operational coverage.
+- ⚠️ A BOCW-registered migrant construction worker may receive a State-board benefit,
+  while an e-Shram-only worker receives none. The contrast shows why data registration
+  must not be presented as a universal entitlement.
+- ⚠️ A platform calling a worker a “partner” may not defeat a future social-security
+  scheme's statutory definition, but the label can still matter in a separate dispute
+  over employment standards.
 
 ## 6. Limitations and trade-offs
 
-- ⚠️ Aggregator contribution increases platform costs, potentially reducing gig
-  opportunities or shifting costs to workers/consumers — an efficiency-equity
-  trade-off that persists even with a notified, operational rate.
-- ⚠️ e-Shram's registration mandate under the 2026 Rules improves aggregator-side
-  compliance incentives, but registration and Fund contribution do not by
-  themselves address algorithmic-management concerns (rating opacity, income
-  volatility) or provide a collective-bargaining channel.
-- ⚠️ Collective bargaining rights for gig workers would strengthen worker voice but
-  may be resisted by platforms citing the non-employee classification — a
-  regulatory question the 2026 Rules do not resolve, since they address funding
-  and registration, not workplace governance.
-- ⚠️ The 90/120-day eligibility threshold excludes very short-tenure or highly
-  casual gig engagement from Fund benefits — a targeting trade-off between
-  administrative simplicity and comprehensive coverage.
+- ⚠️ **Contribution incidence:** An aggregator levy can finance protection but may be
+  passed to workers or users. Transparency in payouts and periodic incidence analysis
+  are needed before claiming a progressive outcome.
+- ⚠️ **Threshold design:** Any work-day/earnings threshold could simplify administration
+  but exclude highly casual workers. Do not invent a 90/120-day threshold unless an
+  official operative rule supplies it.
+- ⚠️ **Data minimisation:** Cross-platform portability improves protection but creates
+  surveillance/privacy risks; purpose limitation, consent/notice, access correction and
+  non-digital assisted routes matter.
+- ⚠️ **Insurance-led bias:** Hospitalisation or accident cover alone cannot correct
+  unstable pay, unpaid waiting time, unsafe work or arbitrary deactivation.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ The Social Security (Central) Rules, 2026 (notified 8 May 2026, G.S.R. 344(E))
-  made the Code's gig/platform-worker provisions operational: a 1-2% of annual
-  turnover contribution (excluding taxes/cess/surcharge), capped at 5% of amounts
-  paid to gig/platform workers.
-- ✅ Worker eligibility for Social Security Fund benefits requires 90 days'
-  engagement with a single aggregator, or 120 days across multiple aggregators,
-  in the preceding financial year.
-- ✅ Aggregators must share details of existing gig/platform workers on eShram
-  within 45 days of the 2026 Rules taking effect, and register new workers on an
-  ongoing basis.
-- ✅ e-Shram is a registration database that, since the 2026 Rules, also carries a
-  compliance function for aggregator registration; benefit access for schemes
-  beyond the gig/platform Fund (e.g., PM-SYM pension) still requires separate
-  scheme enrolment.
-- ✅ PM-SYM is a voluntary contributory pension scheme; government matches worker
-  contribution; pension of ₹3,000/month from age 60.
+- ✅ The Code on Social Security, 2020 is enacted; its commencement is notification-
+  dependent under Section 1.
+- ✅ It contains statutory definitions of gig worker, platform worker and aggregator.
+- ✅ Section 114 contains the 1–2% turnover range and 5% payout cap for an
+  aggregator-contribution design; it is not a verified nationwide 2026 operational rule.
+- ✅ e-Shram is a registration/UAN platform, not automatic pension or insurance.
+- ✅ The BOCW welfare framework and other applicable legacy routes remain relevant to
+  actual worker protection.
 
 ## 8. Advanced Prelims traps
 
-- ❌ All gig workers are automatically covered by ESI after the Code's commencement. ->
-  The Code extends potential coverage; operational coverage for gig/platform workers
-  runs through the Social Security Fund under the 2026 Rules and requires the
-  worker to cross the 90/120-day eligibility threshold.
-- ❌ e-Shram registration guarantees pension and health insurance. -> e-Shram is a
-  database (now also a compliance portal for aggregators); pension/health benefits
-  beyond the gig/platform Social Security Fund require separate scheme enrolment
-  (PM-SYM, PM-JAY linkage).
-- ❌ The aggregator-contribution rate remains an unnotified enabling provision. ->
-  The Social Security (Central) Rules, 2026, notified an operational rate (1-2%
-  of turnover, capped at 5% of worker payouts) with effect from 8 May 2026.
+- ❌ A rate stated in the Code proves a nationwide levy is already collected. -> A
+  statutory range requires the relevant notification/commencement and an operational
+  collection-and-benefit system.
+- ❌ Gig/platform definitions settle all employee-status disputes. -> They are important
+  for the Code's social-security architecture, but do not resolve every labour-standard
+  question.
+- ❌ A purported 2026 Central Rule created a universal 90/120-day benefit threshold. ->
+  Do not use that claim without an official Gazette source; no verified nationwide rule
+  supports it as at 21 July 2026.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The Social Security (Central) Rules, 2026, notified 8 May 2026 (G.S.R. 344(E)),
-  made the gig/platform-worker aggregator-contribution rate (1-2% of turnover,
-  capped at 5% of worker payouts) and the 90/120-day worker-eligibility threshold
-  operational, and set a 45-day aggregator registration timeline on eShram. No
-  fixed e-Shram cumulative registration count is asserted here because the
-  portal's figure changes continuously; the durable facts are the Rules' 8 May
-  2026 commencement date and the now-fixed contribution/eligibility parameters,
-  which remain open to future revision only through a further Rule amendment.
+- 📰 **Legal-status correction (21 July 2026):** Avoid the stale claim that all Labour
+  Codes commenced nationwide on 21 November 2025 or that a “Social Security (Central)
+  Rules, 2026” notification operationalised a gig-worker levy/eligibility threshold.
+  The durable official facts are the enacted Code, its notification-dependent
+  commencement, its Section 114 design, and the continuing relevance of current delivery
+  institutions.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ 2024 GS-III PYQ on Labour Codes is analysed in `Economy/advanced/22`. For any
-  future GS-II question on gig/platform worker welfare, use this file's
-  operational framework — notified contribution rate, eligibility threshold,
-  eShram registration mandate — together with the residual-challenge framework:
-  registration completeness, enforcement capacity, cost pass-through, portability
-  and algorithmic asymmetry.
+- ⚠️ For the 2024 GS-III Labour Codes question, use `Economy/advanced/22` for macro
+  reforms. Add this topic's advanced insight: evaluate each claimed reform through the
+  status ladder and separate legal recognition from benefits, worker voice and outcomes.
 
 ## 11. Mains-ready framework
 
-**Central thesis:** The Social Security (Central) Rules, 2026, closed the
-notification gap in the Code on Social Security, 2020, making gig/platform-worker
-social security operational — a fixed contribution rate, a defined eligibility
-threshold and a mandatory registration mechanism — but operational status is not
-the same as complete delivery; the remaining task is registration completeness,
-enforcement capacity, guarding against cost pass-through, and addressing the
-structural bargaining asymmetry of algorithmically managed work.
+**Central thesis:** The Code on Social Security, 2020 supplies an important legal design
+for gig/platform workers, but social justice requires the full chain from commenced law
+to notified scheme, collected contribution, accessible claim and portable benefit. Until
+that chain is evidenced, e-Shram and legacy institutions remain necessary delivery routes,
+while algorithmic control and worker voice remain independent policy problems.
 
-1. **Define the structural shift:** fragmented boards → unified Code → operational
-   Rules (2020 statute to 2026 notification).
-2. **State the now-operational provisions:** aggregator contribution (1-2% of
-   turnover, capped at 5%), 90/120-day eligibility threshold, eShram registration
-   mandate.
-3. **Diagnose residual implementation risk:** registration completeness,
-   audit/enforcement capacity, cost pass-through, portability across aggregators
-   and states.
-4. **Analyse bargaining asymmetry:** algorithmic opacity, no collective forum —
-   unaddressed by the 2026 Rules.
-5. **Recommend corrections:** dedicated welfare board with grievance-adjudication
-   powers, algorithmic-transparency mandate, sustained audit capacity, and
-   periodic review of the contribution rate/eligibility threshold as coverage
-   data accumulates.
+1. **State the exact status:** enacted, notification-dependent commencement and no
+   unsupported operational-rule claim.
+2. **Explain the design:** definitions, schemes/Fund and Section 114 range/cap.
+3. **Map current delivery:** e-Shram, BOCW/ESIC/EPFO and separately enrolled schemes.
+4. **Diagnose gaps:** registration-to-benefit, portability, short-tenure work, incidence,
+   algorithmic control and grievance/voice.
+5. **Recommend:** transparent notifications and Fund accounts, assisted enrolment,
+   interoperable claims, privacy safeguards and independent worker grievance structures.
 
 ## 12. Probable questions
 
-- ⚠️ **Prelims:** Under the Social Security (Central) Rules, 2026, what contribution
-  rate and cap, and what worker-eligibility threshold, apply to aggregators of gig
-  and platform workers?
-- ⚠️ **Mains (10 marks):** Examine the significance of the Social Security (Central)
-  Rules, 2026, in operationalising social-security coverage for gig and platform
-  workers under the Code on Social Security, 2020.
-- ⚠️ **Mains (15 marks):** "An operational Rule is a necessary but insufficient
-  condition for a gig worker's actual social-security inclusion." Critically analyse
-  with reference to registration completeness, enforcement capacity and algorithmic
-  management.
+- ⚠️ **Prelims:** Why is the Code's 1–2% aggregator-contribution range not by itself
+  proof of a current benefit entitlement?
+- ⚠️ **Mains (10 marks):** Distinguish an enacted labour-code provision from an
+  operational social-security benefit for a platform worker.
+- ⚠️ **Mains (15 marks):** “Platform-worker inclusion requires more than registration
+  and more than insurance.” Critically analyse with reference to portability, algorithmic
+  management and worker voice.
 
 ## 13. Study links
 
 - ✅ Foundation companion: `basic/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md`.
 - ✅ `Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` —
-  Labour Codes macro-reform debate, 2024 GS-III PYQ analysis.
+  macro labour-code analysis and the 2024 GS-III PYQ.
 - ✅ `advanced/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md` —
-  rights-vs-charity, delivery gap.
-- ✅ `Governance/basic/15_Monitoring-Evaluation-and-Outcomes.md` — outcome monitoring
-  for scheme effectiveness.
+  status ladder, rights/access and outcome gap.
+- ✅ `Governance/basic/15_Monitoring-Evaluation-and-Outcomes.md` — evidence needed to
+  distinguish dashboard coverage from actual protection.

@@ -43,9 +43,10 @@
 | Type | Cause | Depth | Example |
 |---|---|---|---|
 | ⚠️ **Coastal / anthropogenic** dead zone | Eutrophication from land runoff | Shallow, seasonal | 📰 **Gulf of Mexico** (Mississippi fertilizer runoff), Baltic Sea |
-| ⚠️ **Oxygen Minimum Zone (OMZ)** — natural | High biological productivity + sluggish deep circulation | ~200–1500 m | 📰 **Arabian Sea** (world's most intense OMZ — see advanced file) |
+| ⚠️ **Oxygen Minimum Zone (OMZ)** | High productivity, respiration and weak ventilation; human forcing can intensify it | Mid-depth ocean | 📰 **Arabian Sea** (one of the strongest tropical OMZs — see advanced file) |
 
-> 🔑 Trap: A **dead zone** is caused by **too little oxygen (hypoxia)**, not by pollution being "toxic" directly — the killer is **oxygen depletion** after algal decomposition. And an **OMZ is natural**; a **coastal dead zone is human-driven** (eutrophication).
+> 🔑 Trap: Hypoxia means too little oxygen. Do not force a binary rule that every OMZ is “natural” and
+> every coastal dead zone “human-made”; circulation, productivity, warming and nutrient loading can interact.
 
 ## ➕ Ocean-floor Relief: Seamount & Guyot (PYQ gap)
 
@@ -93,14 +94,17 @@
 
 ### CA Anchor — AMOC Slowdown (Thermohaline Circulation)
 
-📰 **News trigger:** Studies (2024–25) find the Atlantic Meridional Overturning Circulation (AMOC) — the Atlantic's "conveyor belt" — is weakening, risking major shifts in global monsoons including India's.
+📰 **Current anchor:** Observations and model studies continue to assess AMOC change and tipping risk.
+There is evidence of twentieth-century weakening, but the timing and magnitude of future collapse remain uncertain.
 
 ✅ AMOC is part of the density-driven thermohaline circulation: warm salty water flows north, cools, sinks and returns south at depth — melting freshwater is now slowing it.
 
 - ✅ Thermohaline circulation is driven by temperature + salinity differences in density.
 - ✅ AMOC carries warm water poleward in the Atlantic.
-- ✅ Cause of slowdown: melting ice adds freshwater, lowering salinity/density and weakening sinking.
-- ✅ Impact: a weaker AMOC could shift the ITCZ south and weaken/delay the Indian monsoon — a food and water risk.
+- ⚠️ Freshwater input can reduce North Atlantic density and deep-water formation, alongside wind and
+  heat-flux changes.
+- ⚠️ A major weakening could shift tropical rain belts and affect monsoons, but the Indian-monsoon
+  response is model-dependent rather than a settled one-direction forecast.
 
 ### Current-link Must-Know Facts
 

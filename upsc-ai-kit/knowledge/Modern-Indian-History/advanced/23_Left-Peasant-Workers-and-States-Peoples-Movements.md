@@ -19,6 +19,8 @@
 | ✅ 1931 | Karachi resolution links civil liberties with socio-economic rights |
 | ✅ 1934 | Congress Socialist Party formed within Congress |
 | ✅ 1936 | All India Kisan Sabha formed; Faizpur Congress highlights agrarian programme |
+| ✅ 1937–46 | Bakasht, Warli and Tebhaga struggles deepen tenancy, labour and sharecropping demands |
+| ✅ 1946 onward | Telangana armed struggle begins against landlord power and the Hyderabad state |
 | ✅ 1938 | Bose's Haripura presidency stresses planning and stronger anti-imperialism |
 | ✅ 1939 | Tripuri crisis; Bose resigns and forms Forward Bloc |
 
@@ -34,11 +36,12 @@
 
 **Deeper — pressure from below reshaped Congress and exposed class tensions.**
 
-- ✅ Peasant mobilisation moved from localised struggles like **Champaran**, **Awadh/Eka**, **Moplah** and **Bardoli** toward the national platform of the **All India Kisan Sabha (1936)**.
+- ✅ Peasant mobilisation moved from **Champaran**, **Awadh/Eka**, **Moplah** and **Bardoli** toward the **All India Kisan Sabha (1936)**. These were not interchangeable: Moplah joined agrarian and anti-imperial anger to a later communal rupture, while Bardoli remained a disciplined revenue satyagraha under Congress leadership.
 - ✅ Labour activism through **AITUC**, textile strikes and railway strikes made industrial workers visible as a political category within anti-colonial struggle.
 - ✅ The **Karachi Resolution (1931)** and **Faizpur Congress (1936)** showed that Congress could not remain confined to constitutional freedom; it had to address labour protection, civil liberties and agrarian distress.
 - ✅ States' Peoples' Movements challenged autocracy in princely states while also widening nationalism beyond British Indian provinces.
 - ✅ The **Tripuri crisis** showed a real tension between Bose's left-nationalist impatience and the Gandhian-majority preference for organisational discipline and controlled mass struggle.
+- ✅ The late-colonial sequence—**Bakasht**, **Warli**, **Tebhaga** and **Telangana**—shows movement from rent and tenancy reform toward sharper class organisation, sharecropper claims and, in Telangana, armed struggle.
 
 ## 2. Key classification / data
 
@@ -48,6 +51,7 @@
 | ✅ Communist | M.N. Roy; CPI/Kanpur; Meerut Case | Anti-imperialist class politics under repression |
 | ✅ Trade union | AITUC; textile and railway strikes | Worker question enters national politics |
 | ✅ Peasant | Bardoli; AIKS; Sahajanand Saraswati; N.G. Ranga | Agrarian class demands become national |
+| ✅ Radical agrarian phase | Bakasht; Warli; Tebhaga; Telangana | Regional class conflict, tribal labour, sharecropping and armed struggle |
 | ✅ Rights programme | Karachi 1931; Faizpur 1936 | Civil-political rights linked to economic justice |
 | ✅ Princely states | AISPC 1927 | Anti-autocracy struggles outside British provinces |
 | ✅ Bose line | Haripura, Tripuri, Forward Bloc | Militant planning-oriented nationalism within Congress |
@@ -69,6 +73,7 @@
 - ✅ **Bardoli Satyagraha (1928)** was led by Vallabhbhai Patel and gave him the title **Sardar**.
 - ✅ **AISPC (1927)** linked princely-state peoples' movements.
 - ✅ **Bose**: Haripura president **1938**, Tripuri president **1939**, Forward Bloc **1939**.
+- ✅ **Tebhaga (1946)** sought a two-thirds share for Bengal's bargadars; **Telangana (1946–51)** joined anti-landlord struggle to resistance against the Nizam and continued after independence.
 
 ## 5. UPSC Traps
 
@@ -76,6 +81,7 @@
 
 - ❌ CSP was a separate party outside Congress at birth. → ✅ It was formed **within Congress** in 1934.
 - ❌ Peasant politics began only with AIKS. → ✅ Earlier local struggles such as Champaran, Awadh/Eka, Moplah and Bardoli preceded AIKS.
+- ❌ Every peasant movement had the same class or communal character. → ✅ Region, land system, leadership and political context produced sharply different trajectories.
 - ❌ States' Peoples' Movements fought the British directly in British provinces. → ✅ They challenged autocracy and rights denial in **princely states**.
 - ❌ Tripuri was only a Bose-Gandhi personality clash. → ✅ It reflected ideological and organisational differences over strategy, planning and leadership control.
 - ❌ Labour movements were marginal to nationalism. → ✅ AITUC and strikes made labour a recognised component of the freedom struggle.

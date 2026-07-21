@@ -13,7 +13,7 @@
 |---|---|
 | ✅ 1320 | Ghiyasuddin Tughlaq begins Tughlaq rule after the Khaljis |
 | ✅ 1325–51 | Muhammad bin Tughlaq rules; bold experiments and rapid expansion/disintegration |
-| ✅ c. 1328–37 | Deogir/Daulatabad used as a second capital; later abandoned |
+| ✅ 1327–34/35 | Deogir/Daulatabad developed as a second capital; the project lost its political purpose after southern breakaways |
 | ✅ c. 1329–33 | Token currency experiment introduced and withdrawn |
 | ✅ 1351–88 | Firuz Shah Tughlaq rules; peace, public works, heredity and appeasement policies |
 | ✅ 1388 | Death of Firuz; succession struggles and decline accelerate |
@@ -25,7 +25,7 @@
 ✅ Muhammad bin Tughlaq is presented by Satish Chandra as a remarkable ruler: learned in religion, philosophy and sciences, open to Muslim mystics, Hindu yogis and Jain saints, and willing to appoint officials by merit rather than only noble birth.
 - ✅ His weakness was haste and impatience: many experiments were bold in design but failed in implementation, earning him the label of an "ill-starred idealist."
 - ✅ **Daulatabad:** Deogir was renamed Daulatabad and used as a second capital to improve control over south India; officials, leading men and some Sufis were pressured to move, but Delhi was not emptied.
-- ✅ **Token currency:** bronze/copper coins were issued at par with silver tankas during a silver shortage; the scheme failed because the state could not prevent forgery.
+- ✅ **Token currency:** copper and brass coins were assigned the value of precious-metal currency; the scheme failed because unrestricted private imitation and weak verification destroyed confidence.
 - ✅ **Agrarian policy:** in the doab, over-assessment, artificial prices and famine produced distress; later the **diwan-i-amir-i-Kohi** tried to extend cultivation through loans, but officials misused funds.
 
 **Foundation — Firuz Shah: benevolence plus long-term weakness.**
@@ -77,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Tughlaqabad Fort encroachment survey deadline (The Times of India, 19 March 2026):** Delhi High Court gave authorities four months to complete the survey of encroachments at Tughlaqabad Fort, highlighting the continuing challenge of conserving Tughlaq-era urban heritage.
+📰 **Current linkage (verify live before use):** Encroachment and conservation around Tughlaqabad provide a heritage-governance hook. Verify any court deadline, survey or agency action from the latest judicial/ASI record.
 
 ## 7. Mains angles
 

@@ -27,12 +27,11 @@ CONSTITUTIONAL LAYER                    STATUTORY/POLICY LAYER
         +-------- DEVELOPMENTAL SCHEMES --------+         |
                          |                                |
                     PM VIKAS                              |
-               (skills, education,                        |
-                infrastructure)                           |
+               (skills, bridge education,                 |
+                leadership, credit linkage)               |
                          |                                |
-                    Scholarships                          |
-               (pre/post-matric,                          |
-                merit-cum-means)                          |
+                    PMJVK / current                       |
+               education-support notices                  |
                          |                                |
                          +-------- OUTCOME LAYER ---------+
                                        |
@@ -51,11 +50,11 @@ institutional autonomy.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Statutory vs constitutional minority commission** | NCM is a statutory body (NCM Act, 1992) — it can be restructured or abolished by ordinary legislation; NCSC/NCST/NCBC are constitutional bodies (post-amendments) with constitutional protection. This distinction matters for institutional security and mandate. |
+| ✅ **Statutory vs constitutional minority commission** | NCM is a statutory body (NCM Act, 1992) — Chairperson, Vice-Chairperson and five Members appointed under ordinary law; NCSC/NCST/NCBC are constitutional bodies. This distinction matters for institutional security and mandate. |
 | ✅ **Religious vs linguistic minority** | Article 30 covers both religious and linguistic minorities; a community may be a minority on either or both grounds depending on the state/unit of reference. The TMA Pai Foundation case (2002) held that minority status for Art 30 purposes is determined at the state level. |
 | ✅ **Waqf by user vs waqf by deed** | Waqf by deed is a formal, documented dedication of property; waqf by user is a claim based on long, uninterrupted use for religious/charitable purposes without formal documentation. The Waqf (Amendment) Act, 2025 prospectively abolishes waqf-by-user for future claims, but this provision was not stayed by the September 2025 interim order. |
 | ⚠️ **Sachar Committee (2006)** | A high-level committee (chaired by Justice Rajindar Sachar) that documented the socio-economic and educational status of Muslims in India, revealing significant gaps in educational attainment, employment and representation — a foundational reference for minority-welfare policy. |
-| ⚠️ **Minority-concentration district/block** | A targeting unit for developmental schemes — areas where minority population exceeds a threshold (typically 25%+) receive priority under PM VIKAS and infrastructure programmes. |
+| ⚠️ **Minority-concentration district/block** | A geographic targeting unit for area-development programmes such as PMJVK. PM VIKAS is a pan-India Central Sector scheme; do not state that its skilling/education routes are confined to a fixed 25% district threshold. |
 
 ## 3. Detailed causal chain: rights to outcomes
 
@@ -66,9 +65,10 @@ institutional autonomy.
 2. **Statutory monitoring:** NCM evaluates progress, monitors safeguards, investigates
    complaints and recommends policy. However, NCM has no enforcement power — its
    recommendations are advisory, not binding.
-3. **Developmental targeting:** PM VIKAS and scholarships target minority-concentration
-   areas and students. The challenge is identifying eligible beneficiaries and ensuring
-   funds reach them without leakage.
+3. **Developmental targeting:** PM VIKAS uses pan-India skilling, bridge education,
+   leadership and credit routes, while PMJVK-type infrastructure uses area targeting.
+   Scholarship names and availability are annual-notification questions, not permanent
+   proxies for the whole welfare architecture.
 4. **Waqf property management:** Waqf Boards manage endowment properties; revenue
    generated supports religious/charitable purposes. The 2025 Amendment sought to
    improve governance, registration and dispute resolution, but several provisions are
@@ -80,8 +80,8 @@ institutional autonomy.
 
 ## 4. Institutional and reform architecture
 
-- ✅ **NCM composition and mandate:** Chairperson, Vice-Chairperson and Members (one
-  member belonging to each notified minority community as far as practicable). Functions
+- ✅ **NCM composition and mandate:** Chairperson, Vice-Chairperson and five Members.
+  Functions
   include: evaluate progress of minorities in development, monitor safeguards, look
   into specific complaints of rights-deprivation, recommend remedial measures, study
   problems arising from discrimination. NCM lacks enforcement power — its
@@ -94,10 +94,10 @@ institutional autonomy.
   prospective abolition of waqf by user for future claims, dispute-resolution
   mechanisms, and governance changes in Waqf Boards. Several provisions are currently
   sub judice (see Section 9 below).
-- ⚠️ **PM VIKAS structure:** Merges earlier schemes (USTTAD, Nai Manzil, Seekho aur
-  Kamao, Hamari Dharohar, minority-infrastructure components) into an umbrella scheme
-  with skill, education and infrastructure components targeting minority-concentration
-  areas.
+- ⚠️ **PM VIKAS structure:** Merges Seekho Aur Kamao, USTTAD, Nai Manzil, Nai Roshni and
+  Hamari Dharohar into a pan-India umbrella for skilling, bridge education, leadership/
+  entrepreneurship and credit linkage. Keep PMJVK's infrastructure/area targeting
+  analytically separate.
 
 ## 5. Indian applications and boundary cases
 
@@ -125,8 +125,8 @@ institutional autonomy.
   encroachment, improving revenue generation) serves minority welfare, but state
   intervention in religious-endowment administration raises minority-autonomy concerns —
   the constitutional balance is contested and currently sub judice.
-- ⚠️ **Outcome measurement gap:** Minority-welfare policy often tracks scheme disbursal
-  (scholarships disbursed, infrastructure built) rather than outcome change (educational
+- ⚠️ **Outcome measurement gap:** Minority-welfare policy often tracks training,
+  bridge-education or infrastructure outputs rather than outcome change (educational
   attainment, employment, representation) — a measurement gap.
 
 ## 7. Must-Know Facts for Advanced Prelims
@@ -154,8 +154,8 @@ institutional autonomy.
 
 ## 9. 📰 Current-anchor note
 
-- ✅ Parliament enacted the Waqf (Amendment) Act, 2025 (also referred to as the UMEED
-  Act in some official communication).
+- ✅ Parliament enacted the Waqf (Amendment) Act, 2025 (No. 14 of 2025) after
+  presidential assent on 5 April 2025.
 - ✅ On 15 September 2025, the Supreme Court, ruling on multiple petitions challenging
   the Act's constitutionality:
   - Declined to stay the Act in its entirety (holding that a wholesale stay is warranted
@@ -191,19 +191,19 @@ institutional autonomy.
 ## 11. Mains-ready framework
 
 **Central thesis:** Minority welfare combines constitutional protective rights (Articles
-29–30, clarified by TMA Pai) with statutory monitoring (NCM, advisory) and developmental
-schemes (PM VIKAS, scholarships) targeting minority-concentration areas; its success must
-be measured by closure of the Sachar-documented outcome gap in education, employment and
-representation, not merely scheme coverage, while ongoing litigation over Waqf reform
-highlights the contested boundary between state regulation and minority institutional
-autonomy.
+29–30, clarified by TMA Pai) with statutory monitoring (NCM, advisory), pan-India
+PM VIKAS capability routes and PMJVK-style area development. Its success must be measured
+by closure of the Sachar-documented outcome gap in education, employment and
+representation, not merely scheme coverage, while Waqf litigation highlights the
+contested boundary between state regulation and minority institutional autonomy.
 
 1. **Define the constitutional foundation:** Art 29 (culture/language), Art 30
    (educational institutions); minority status determined at state level (TMA Pai).
 2. **Map the institutional architecture:** NCM (statutory, advisory), Waqf Boards
    (statutory, property management), Ministry of Minority Affairs (schemes).
-3. **Outline the developmental framework:** PM VIKAS (umbrella), scholarships (pre/post-
-   matric, merit-cum-means), minority-concentration targeting.
+3. **Outline the developmental framework:** PM VIKAS (skills, leadership, bridge
+   education and credit linkage), PMJVK-type area development and only currently
+   notified education-support routes.
 4. **Flag the outcome gap:** Sachar Committee (2006) baseline; measure educational
    attainment, employment, representation — not merely disbursal.
 5. **Address the autonomy-regulation tension:** Waqf Amendment Act, 2025 aims to improve

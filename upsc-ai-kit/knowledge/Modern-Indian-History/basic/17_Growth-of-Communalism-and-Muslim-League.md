@@ -15,17 +15,17 @@
 | ⚠️ Oct 1906 | **Simla Deputation**: Muslim notables (led by the Aga Khan) petition Viceroy Minto for separate Muslim representation |
 | ✅ Dec 1906 | All-India Muslim League founded at Dhaka with leaders such as Aga Khan and Nawab Salimullah |
 | ✅ 1909 | Morley-Minto reforms introduced separate electorates for Muslims |
-| ✅ 1915 | Hindu Mahasabha emerged as an all-India Hindu communal organisation |
+| ⚠️ 1915 | All-India Hindu Mahasabha emerged; Bipan Chandra places it within organised Hindu communal politics |
 | ✅ 1916 | Lucknow Pact brought temporary Congress-League unity while accepting separate electorates |
 | ⚠️ 1923 | Savarkar's *Hindutva* articulated a Hindu nationalist identity framework |
-| ⚠️ 1925 | RSS founded as a Hindu communal organisation in the later trajectory |
+| ⚠️ 1925 | RSS founded; Bipan Chandra classifies its politics within the later Hindu communal trajectory |
 | ✅ 1940 | Lahore Resolution marked a later stage in the Muslim League's Pakistan demand trajectory |
 
 ## 1. Snapshot & core idea
 
 **Foundation — communalism is modern politics, not ancient religiosity.**
 
-- ✅ Bipin Chandra treats communalism as a modern ideology that uses religious identity for political interests.
+- ✅ Bipan Chandra treats communalism as a modern ideology that converts religious identity into claims about shared secular and political interests; this is a source interpretation, not a synonym for religion.
 - ✅ Communalism is not the same as religion, religious reform or personal religiosity.
 - ✅ Its core claim is that followers of one religion share common political, economic and social interests that are separate from other religious communities.
 - ⚠️ This makes communalism a political ideology of identity-based representation, not a timeless Hindu-Muslim hatred.
@@ -46,7 +46,7 @@
 | ✅ Social root | Competition among middle classes for jobs, education and political representation |
 | ✅ Muslim League | Founded in 1906 at Dhaka; associated with Aga Khan and Nawab Salimullah |
 | ✅ Separate electorates | Introduced for Muslims by Morley-Minto reforms in 1909 |
-| ✅ Hindu communal bodies | Hindu Mahasabha in 1915; RSS later in 1925 |
+| ⚠️ Hindu communal bodies (Chandra's classification) | Hindu Mahasabha in 1915; RSS in 1925 |
 | ✅ Temporary unity | Lucknow Pact 1916 united Congress and League but accepted separate electorates |
 | ⚠️ Later trajectory | Communal politics moved toward Lahore Resolution 1940 and Partition politics |
 
@@ -63,10 +63,10 @@
 - ✅ Key League-associated names include **Aga Khan** and **Nawab Salimullah**.
 - ⚠️ The **Simla Deputation (Oct 1906)** sought separate Muslim representation and immediately preceded the League's foundation.
 - ✅ **Separate electorates for Muslims** were introduced by the **Morley-Minto reforms / Indian Councils Act 1909**.
-- ⚠️ **Hindu Mahasabha** emerged in **1915**; **RSS** was founded later in **1925**.
+- ⚠️ **Hindu Mahasabha** emerged in **1915** and **RSS** was founded in **1925**; their placement under "communalism" here follows Bipan Chandra's analytical framework.
 - ✅ **Lucknow Pact 1916** represented temporary Congress-League cooperation and accepted separate electorates.
 - ⚠️ **Savarkar's Hindutva** appeared in **1923** as part of later Hindu communal ideology.
-- ✅ **Lahore Resolution 1940** belongs to the later Pakistan-demand trajectory, not to the 1906 foundation itself.
+- ✅ **Lahore Resolution 1940** spoke of "independent states" in Muslim-majority zones and did not itself use the word "Pakistan"; it belongs to the later Pakistan-demand trajectory.
 - ⚠️ Communalism should be defined as political use of religious identity, not religion itself.
 
 ## 5. UPSC Traps

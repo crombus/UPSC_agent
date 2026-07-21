@@ -1,8 +1,8 @@
 # Fundamental Rights (Articles 12–35) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Part III (Qdrant export + source book).
-> ✅ = directly from the book · ⚠️ = inference / standard case law (verify latest position).
+> **Grounded in:** Indian Polity by M. Laxmikant, Part III (direct check of the local Sixth Revised Edition PDF).
+> ✅ = constitutional/book fact · ⚠️ = analysis · 📰 = post-edition official/court update.
 > *Companion: `basic/Fundamental-Rights.md` for the foundation layer.*
 
 ---
@@ -102,7 +102,9 @@ strike**). Restriction grounds: sovereignty & integrity, security of state, frie
 relations, public order, decency/morality, contempt of court, defamation, incitement.
 
 **Assembly** ✅ peaceful, unarmed, public land; not strike. Restrictions: sovereignty/integrity,
-public order. CrPC **Sec 144** (magistrate restrains); IPC **Sec 141** (unlawful assembly ≥5).
+public order. The book cites CrPC **Sec 144** and IPC **Sec 141**; from **1 July 2024** the operative
+criminal-law references are the corresponding provisions of the **BNSS, 2023** and **BNS, 2023**
+(official commencement notifications), while older case law may retain the former section numbers.
 **Association** ✅ includes negative right (not to join); recognition **not** a FR; **no** guaranteed
 right to strike/lock-out. **Movement** ✅ internal only (external dimension under Art 21); restricted
 for public interest & ST protection. **Residence** ✅ reside (temporary) + settle (permanent); ST
@@ -261,6 +263,7 @@ sentences. Martial law = "military rule" (undefined; from English common law); n
 | 📰 *Shreya Singhal v. Union of India* | 2015 | Art 19(1)(a), 19(2) | Struck down Sec 66A, IT Act as vague/overbroad and outside reasonable speech restrictions. |
 | 📰 *Navtej Singh Johar v. Union of India* | 2018 | Arts 14, 15, 21 | Read down Sec 377 IPC for consensual adult same-sex relations; dignity/autonomy protected. |
 | 📰 *Vishaka v. State of Rajasthan* | 1997 | Arts 14, 19(1)(g), 21 | Laid workplace sexual-harassment guidelines until legislation; dignity and safe work linked to FRs. |
+| 📰 *Property Owners Association v. State of Maharashtra* | 2024 | Arts 31C, 39(b) | Confirmed that the unamended Art 31C survives for laws genuinely implementing Art 39(b)/(c); some private resources may qualify under Art 39(b), but not every privately owned asset does. |
 
 > 🔑 Trap: Do not call these DPSP cases — each is an enforceable Fundamental Rights expansion/interpretation.
 
@@ -287,7 +290,8 @@ sentences. Martial law = "military rule" (undefined; from English common law); n
 - 📰 The Act freezes the religious character of every place of worship as it existed on **15 August 1947**.
 - 📰 Sec 5 excludes the Ayodhya Ram Janmabhoomi-Babri Masjid dispute from the Act's operation.
 - ⚠️ It operationalises secularism by discouraging historical-religious title disputes from becoming present-day litigation.
-- 📰 As of July 2026, constitutional challenges are pending before the Supreme Court; the Act has not been struck down.
+- 📰 **Status checked 21 Jul 2026:** constitutional challenges remain pending before the
+  Supreme Court; no final judgment striking down the Act was located on the Court's official portal.
 
 | Provision | UPSC takeaway |
 |---|---|
@@ -308,6 +312,8 @@ sentences. Martial law = "military rule" (undefined; from English common law); n
 - ❌ All FRs suspended in Emergency → **Art 20 & 21 never**; Art 19 only in external emergency.
 - ❌ 44th Amdt cut preventive detention to 2 months → provision **never enforced**; 3 months stands.
 - ❌ Reservation in promotion / Art 16(4) is a right → it's an **enabling** power.
+- ❌ Every private asset is a "material resource of the community" → *Property Owners
+  Association* (5 Nov 2024) requires a context-specific Art 39(b) inquiry.
 
 ## PYQ / CA anchors
 - Use the verified PYQ applications embedded below and in the owning Polity topic files

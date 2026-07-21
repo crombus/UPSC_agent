@@ -6,7 +6,7 @@
 > convergence challenges; outcome-data architecture.
 > **Grounded in:** NSAP (MoRD); SECC 2011; NFHS-5 (2019-21); PLFS; NCRB; SDG India Index;
 > DMEO/OOMF (cross-link Governance/15); DBT/PFMS/SNA (cross-link Governance/13); 2027
-> Census caste-enumeration decision (cross-link Topic 09).
+> Census caste-enumeration decision and 2026 operations (cross-link Topic 09).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md`.*
 
@@ -24,12 +24,13 @@ TARGETING → DELIVERY → OUTCOME → DATA → CORRECTION CYCLE
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 1. TARGETING DATABASE                                                       │
 │    SECC 2011 (deprivation criteria) | Aadhaar | e-Shram | State lists       │
-│    ⚠️ Caste data collected but never officially released (Topic 09 link)    │
-│    📰 2027 Census caste enumeration approved 30 Apr 2025 (Gazette 16 Jun 25)│
+│    ⚠️ SECC caste data not released/validated for general policy use          │
+│    📰 Census 2027 caste enumeration approved; operations begun, no results  │
 │                                     |                                       │
 │                                     v                                       │
 │ 2. SCHEME DESIGN                                                            │
-│    Universalism (NFSA) vs Targeting (PM-JAY via SECC) vs Contributory (PM-SYM)
+│    Universalism (NFSA) vs Targeting (core PM-JAY via SECC-derived data)      │
+│    plus age-based 70+ PM-JAY route vs Contributory (PM-SYM)                  │
 │    ⚠️ Universalism-vs-targeting trade-off (Topic 01 link)                   │
 │                                     |                                       │
 │                                     v                                       │
@@ -66,7 +67,7 @@ substitutes for the others.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **NSAP** | National Social Assistance Programme — the umbrella non-contributory social-assistance scheme comprising: (1) Indira Gandhi National Old Age Pension Scheme (IGNOAPS), (2) Indira Gandhi National Widow Pension Scheme (IGNWPS), (3) Indira Gandhi National Disability Pension Scheme (IGNDPS), (4) National Family Benefit Scheme (NFBS — lump sum on death of primary breadwinner), (5) Annapurna (food support for elderly not covered by pension). |
-| ✅ **SECC 2011** | Socio-Economic and Caste Census, 2011 — a targeting database distinct from the decennial Census; used to identify deprivation-criteria-based beneficiaries for schemes like PM-JAY; caste-data component was collected but never officially released/validated. |
+| ✅ **SECC 2011** | Socio-Economic and Caste Census, 2011 — a targeting database distinct from the decennial Census. Its rural/urban deprivation/occupation data underpins the core PM-JAY eligibility route, but the separate all-70+ route is not SECC-limited; caste data was not released/validated for general policy use. |
 | ✅ **Inclusion error (Type I)** | Ineligible beneficiaries included in a scheme — resources leak to non-poor. |
 | ✅ **Exclusion error (Type II)** | Eligible beneficiaries excluded from a scheme — the truly needy miss benefits. |
 | ⚠️ **Convergence** | The administrative challenge of coordinating multiple ministries and schemes at the point of delivery for a single beneficiary or household — critical for multi-dimensional poverty. |
@@ -74,10 +75,11 @@ substitutes for the others.
 
 ## 3. How the targeting-delivery-outcome mechanism works
 
-1. **Targeting-database construction:** SECC 2011 used automatic inclusion/exclusion
-   criteria based on deprivation indicators (housing, assets, occupation, land) to
-   identify beneficiaries; PM-JAY uses SECC-based eligibility. Aadhaar-seeding enables
-   de-duplication and DBT.
+1. **Targeting-database construction:** SECC 2011 used deprivation indicators (housing,
+   assets, occupation, land) for various targeting routes; core PM-JAY eligibility uses
+   SECC-derived rural/urban criteria, while the separate 70+ PM-JAY expansion is
+   age-based. Aadhaar-enabled de-duplication must retain assisted/non-digital alternatives
+   and a correction route.
 2. **Scheme design choice:** Universalism (NFSA covers ~67% population) reduces exclusion
    error but may include non-poor; targeting (PM-JAY) concentrates resources but risks
    exclusion error and documentation barriers. See Topic 01 for conceptual framing.
@@ -101,8 +103,9 @@ substitutes for the others.
 - ✅ **NSAP (Ministry of Rural Development):** Central assistance to states for social
   pensions (old age, widow, disability) and family benefit; states may top up central
   amounts.
-- ✅ **SECC 2011 (MoRD):** Targeting database; deprivation-criteria-based; used for PM-JAY
-  eligibility; caste data collected but not released.
+- ✅ **SECC 2011 (MoRD):** deprivation-based targeting database; core PM-JAY eligibility
+  uses SECC-derived criteria, but not every current PM-JAY route does. Caste data was
+  collected but not released/validated for general policy use.
 - ✅ **NFHS (MoHFW):** National Family Health Survey — rounds 4 (2015-16) and 5 (2019-21)
   provide health/nutrition outcome data.
 - ✅ **PLFS (MoSPI):** Periodic Labour Force Survey — quarterly and annual employment data.
@@ -142,8 +145,8 @@ substitutes for the others.
 - ✅ SECC 2011 is a targeting database distinct from the decennial Census; its caste data
   was collected but never officially released.
 - ✅ Inclusion error = ineligible included; exclusion error = eligible excluded.
-- ✅ NFHS-6 (2023-24), released on 29 May 2026, is the latest completed round of
-  the National Family Health Survey.
+- ✅ NFHS-5 (2019-21) remains the latest published national NFHS round as at 21 July
+  2026; retain the survey round beside each health/nutrition indicator.
 
 ## 7. UPSC traps
 
@@ -160,11 +163,12 @@ substitutes for the others.
 
 ## 8. 📰 Current anchor
 
-- 📰 The Cabinet Committee on Political Affairs approved caste enumeration as part of the
-  2027 Census on 30 April 2025 (Gazette notification 16 June 2025) — this may reshape
-  future targeting databases. Full treatment in `basic/09_OBC-EWS-and-Social-Mobility.md`.
-- 📰 NFHS-6 (2023-24) was officially released on 29 May 2026. Retain the survey
-  round whenever citing an indicator so NFHS-5 and NFHS-6 values are not mixed.
+- 📰 **Census 2027 (21 July 2026):** CCPA approved caste enumeration on 30 April 2025 and
+  first-phase houselisting is notified for 1 April–30 September 2026. This is an ongoing
+  operation, not a published database or a ready-made targeting list. Full treatment:
+  `basic/09_OBC-EWS-and-Social-Mobility.md`.
+- 📰 **NFHS status:** NFHS-5 (2019-21) is the latest published national round. Retain the
+  survey round with every indicator; do not mix it with an unreleased NFHS-6.
 - ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names NSAP, SECC
   or convergence; treat the probable questions below as anticipated framing.
 
@@ -178,7 +182,8 @@ substitutes for the others.
 - ⚠️ Use the targeting-delivery-outcome-data-correction cycle as the default answer
   structure for any scheme-evaluation question.
 - ⚠️ Always triangulate administrative coverage with survey/outcome data — do not cite
-  dashboard totals without mentioning NFHS/PLFS/SDG evidence.
+  dashboard totals without mentioning NFHS/PLFS/SDG evidence, legal status and a
+  correction/grievance route.
 - ⚠️ Diagnose the specific gap (identification, delivery, convergence, outcome-learning)
   rather than offering a generic "implementation weak" critique.
 

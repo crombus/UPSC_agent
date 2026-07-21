@@ -38,7 +38,7 @@
 
 ✅ Lowe also shows why this stabilization remained shallow:
 - ✅ the first two Dumas were dissolved quickly;
-- ✅ peasants still suffered poverty and resentment over land and redemption payments;
+- ✅ peasants still suffered poverty and land hunger; Stolypin abolished redemption payments, but his land reforms did not reach or satisfy enough peasants;
 - ✅ industrial unrest revived after 1912;
 - ✅ repressive policing alienated workers, peasants and educated groups;
 - ✅ the royal family was discredited, especially by the Rasputin scandal;
@@ -113,7 +113,7 @@
 | ✅ Purges | Eliminate real or imagined opposition | ✅ Terrorized society, destroyed rivals and weakened army leadership |
 | ✅ 1936 Constitution | Present the system as democratic | ✅ In practice it was a one-party dictatorship with no real competition |
 
-✅ Lowe treats collectivization as one of Stalin's greatest disasters: by 1937 most farmland had been collectivized, but grain output did not rise steadily, livestock collapsed and famine in 1932-33 killed over 5 million peasants while grain was still being exported.
+✅ Lowe treats collectivization as one of Stalin's greatest disasters: by 1937 most farmland had been collectivized, but grain output did not rise steadily and livestock collapsed. He reports estimates of more than 5 million deaths in the 1932-33 famine while grain was still exported; exact totals and the distribution of responsibility remain historiographically contested.
 
 ✅ The Purges made Stalin personally unchallengeable. At the same time they removed many experienced officials, officers and administrators.
 

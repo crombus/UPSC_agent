@@ -35,13 +35,13 @@
 | ✅ Traditional liberal view | Russia before 1914 showed some recovery; without war, monarchy might have survived longer |
 | ✅ Soviet view | Nicholas had fatally betrayed 1905 promises; revolution was bound to come |
 | ✅ Later western caution | Historians like Christopher Read and Robert Service are less deterministic than the Soviet line |
-| ✅ War-as-decisive-shock view | Historians such as Sheila Fitzpatrick and others stress that war made collapse certain |
+| ✅ War-as-decisive-shock view | Historians such as Sheila Fitzpatrick and others stress that war converted deep vulnerability into regime breakdown |
 
 ✅ Lowe's evidence cuts both ways. Stolypin's reforms, some educational expansion and limited improvement in living standards suggested partial recovery.
 
 ✅ But Lowe also underlines unresolved fragility: failed Duma politics, agrarian strain, industrial unrest, repression, discredited monarchy and revived revolutionary parties.
 
-⚠️ Safe conclusion: **the regime was vulnerable before 1914, but the First World War converted vulnerability into certainty of collapse**.
+⚠️ Safe conclusion: **the regime was vulnerable before 1914; the First World War made collapse overwhelmingly more likely without rendering every step predetermined**.
 
 ## 3. February and October 1917: what kind of revolutions were they?
 
@@ -118,6 +118,10 @@
 ✅ Lowe allows a limited economic success argument: Nove and McCauley-type positions stress that something drastic was probably necessary given backwardness.
 
 ✅ Yet he also emphasizes the catastrophe of collectivization and the human toll of famine and repression.
+
+⚠️ Famine totals are debated. Lowe cites an estimate above five million deaths and also presents
+wider post-Soviet calculations; use ranges or source-attributed estimates rather than a falsely
+precise, uncontested total.
 
 ⚠️ A strong answer phrase is: **Stalin solved the USSR's industrial weakness by transferring the burden violently onto peasants and workers**.
 

@@ -18,26 +18,26 @@ fog-bound, fishing coasts (altitude substituting for latitude here).
 
 ✅ Khullar's region **"The Eastern Himalayas"** = **Sikkim, Arunachal Pradesh and the hilly areas of
 Assam** — a **warm perhumid ecoregion** with **brown-and-red soils** and a **growing period > 210 days**.
-✅ The **Sikkim Himalaya** is an **anticlinal valley** drained by the **Tista (Teesta)** — a tributary of
-the **Brahmaputra**. ✅ The **Darjeeling Himalaya** consists of two N–S ranges famed worldwide for tea.
+✅ Sikkim is drained chiefly by the **Teesta** and its tributaries; the Teesta joins the Brahmaputra
+(Jamuna) system in Bangladesh. Avoid the unclear “anticlinal valley” label for the whole Sikkim Himalaya. ✅ The **Darjeeling Himalaya** consists of two N–S ranges famed worldwide for tea.
 
 ## 2. Darjeeling tea (Khullar)
 
 | Feature | Detail |
 |---|---|
-| ✅ Fame | Darjeeling's **exquisite aromatic tea** — considered the **best in the world** |
+| ✅ Fame | Darjeeling's aromatic, GI-protected orthodox tea |
 | ✅ Rainfall | ~**300 cm** annually; moderate temperature; fertile soils give special flavour |
 | ✅ Elevation | Tea estates within **900–1,800 m** (too cold above, too warm below) |
-| ✅ Yield | **Low — generally < 20 quintals/hectare** (quality, not quantity) |
+| ✅ Yield | Source-era text emphasises low yield relative to plains tea (quality, not quantity); current yield needs Tea Board data |
 
-⚠️ Contrast: the **Brahmaputra Valley** (Assam) is the bulk-tea belt (~44% of India's tea), while the
+⚠️ Contrast: the **Brahmaputra Valley** is a bulk-tea belt, while the
 **Darjeeling hills** produce low-yield, premium GI tea — a hill vs valley distinction.
 
 ## 3. Must-Know Facts (Prelims)
 
 - ✅ **Eastern Himalayas** (Khullar) = Sikkim + Arunachal + hilly Assam; **warm perhumid**, growing period **>210 days**.
-- ✅ **Sikkim Himalaya = anticlinal valley**, drained by the **Teesta (Tista)** → Brahmaputra.
-- ✅ **Darjeeling tea**: ~**300 cm** rain, estates **900–1,800 m**, yields **< 20 q/ha**.
+- ✅ Sikkim is drained by the Teesta system; Teesta ultimately joins the Brahmaputra/Jamuna.
+- ✅ Darjeeling tea: humid hill climate and middle-elevation estates; exact rain/elevation/yield ranges are source-era generalisations.
 - ✅ Summer (monsoon) rainfall maximum + hill fog — the eastern-margin temperate signature.
 
 ## 4. UPSC Traps
@@ -48,11 +48,9 @@ the **Brahmaputra**. ✅ The **Darjeeling Himalaya** consists of two N–S range
 
 ## 5. 📰 Current link
 
-📰 **Teesta basin crisis, 2025.** Intense, unseasonal rain repeatedly sent the **Teesta** over its banks,
-submerging and cutting **NH-10** (Sikkim's lifeline) and triggering major **landslides around Gangtok,
-Kalimpong and Darjeeling**, stranding tourists at peak season. Compounded by the **2023 South Lhonak GLOF**
-(which destroyed the **Teesta-III dam**) and by dams, encroachment and over-tourism, it has become a
-textbook case of an Eastern-Himalayan region pushed **beyond its carrying capacity** by climate extremes.
+📰 **Teesta basin risk:** the 2023 South Lhonak GLOF, landslides, hydropower infrastructure and repeated
+NH-10 disruption show the interaction of steep relief, sediment, extreme rain and corridor concentration.
+Use dated state/CWC reports for a specific closure or flood claim.
 
 ## 6. Mains angles
 

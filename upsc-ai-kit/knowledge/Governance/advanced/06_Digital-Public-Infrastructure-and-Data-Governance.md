@@ -37,7 +37,7 @@ correctives.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Data Fiduciary vs Data Principal (DPDP Act, 2023)** | A Data Fiduciary is the entity that determines the purpose and means of processing personal data (analogous to a "data controller" in comparable global frameworks); a Data Principal is the individual to whom the personal data relates — the Act's obligations (notice, consent, purpose limitation, security safeguards) run primarily on the Data Fiduciary, while rights (access, correction, erasure, grievance redress) belong to the Data Principal. |
+| ✅ **Data Fiduciary vs Data Principal (DPDP Act, 2023)** | These are the Act's enacted categories. Most corresponding duties and rights are scheduled to commence only on 13 May 2027; do not present them as fully enforceable in July 2026. |
 | ✅ **Consent Manager (DPDP ecosystem) vs Account Aggregator (RBI/DEPA)** | The DPDP Rules, 2025 provide for registration of Consent Managers as an interoperable platform for individuals to give, manage, review and withdraw consent across Data Fiduciaries; this is conceptually parallel to, but a distinct regulatory registration from, the RBI-regulated Account Aggregator framework specific to financial data under DEPA — candidates should not conflate the two consent-manager concepts, since one is a general DPDP-Rules mechanism and the other is a sector-specific RBI-regulated entity. |
 | ✅ **DPI as "presence-less, paperless, cashless" design philosophy** | India Stack's original design goal (identity without physical presence, documents without paper, transactions without cash) is the structural reason DPI reduces transaction costs — but each removed friction (presence, paper, cash) also removes a traditional fallback for citizens who cannot use the digital substitute. |
 | ⚠️ **Purpose limitation vs data-linkage risk** | The DPDP Act's purpose-limitation principle (data collected for one purpose should not be freely reused for another) is in tension with DPI's own interoperability logic (the same Aadhaar-linked identity is designed to work across many services) — reconciling interoperability with purpose limitation is an active design and regulatory challenge, not a solved problem. |
@@ -59,17 +59,16 @@ correctives.
    cross-service reuse of the same identity/data rails, strict purpose limitation (a core
    DPDP principle) must be reconciled through mechanisms like Consent Managers and
    purpose-specific consent artefacts rather than assumed away.
-5. **Data Protection Board enforcement** is the ultimate correction mechanism for
-   Data-Fiduciary non-compliance — but its practical deterrent effect depends on its
-   independence, resourcing and case-load capacity, which should be assessed on their own
-   merits rather than assumed adequate merely because the Board exists in statute.
+5. **DPBI enforcement** is the enacted correction mechanism, but sequence matters:
+   establishment -> appointment -> procedure -> commenced substantive duties -> case
+   outcomes. At the 21 July 2026 cut-off appointments were still being recruited.
 
 ### Deeper analytical layers
 
 - ⚠️ The 2017 Justice K.S. Puttaswamy judgment (a Polity/Fundamental Rights topic) supplies
-  the constitutional foundation (right to privacy under Article 21) that the DPDP Act, 2023
-  operationalises at the statutory level — Governance should cross-link, not re-derive,
-  this constitutional point.
+  the constitutional foundation (right to privacy under Article 21). The DPDP Act supplies
+  an enacted statutory framework whose substantive provisions are phased; Governance should
+  cross-link the right and state the commencement stage.
 - ⚠️ ONDC's open-protocol logic extends DPI's "rails, not platform" philosophy to commerce;
   its governance risk differs qualitatively from Aadhaar/UPI's exclusion risk — ONDC's
   central risk is market-design fairness (whether smaller sellers get genuinely equal
@@ -86,11 +85,9 @@ correctives.
   into force immediately, Consent Manager registration (Rule 4) into force from 13 November
   2026, and the remaining compliance obligations into force from 13 May 2027 — a fixed,
   officially notified staggered timeline.
-- ✅ The Data Protection Board of India is the adjudicatory body under the DPDP Act, 2023,
-  intended to handle complaints, impose penalties for non-compliance and direct remedial
-  measures. Its case-outcome record will necessarily accumulate only after it becomes fully
-  operational under the Rules, 2025 timeline above; no current caseload or penalty-outcome
-  figure is asserted here since the Board's adjudicatory practice is still being built up.
+- ✅ The DPBI was legally established and MeitY advertised one Chairperson and four Member
+  posts in May 2026. No appointment notification was located by 21 July 2026. "Established,"
+  "staffed" and "operationally adjudicating" must therefore be kept separate.
 - ⚠️ RBI's Account Aggregator regulatory framework long preceded the DPDP Act, illustrating
   that India's data-governance architecture developed sector-by-sector (finance first) before
   a horizontal, cross-sector statute (DPDP Act) was enacted — a sequencing worth noting in
@@ -121,9 +118,9 @@ correctives.
   creating a residual exclusion risk for a vulnerable minority — offline fallback options
   mitigate but do not eliminate this trade-off, and can reintroduce the discretion/leakage
   problems DPI was designed to solve.
-- ⚠️ A newly constituted Data Protection Board's enforcement credibility must be built over
-  time through actual case outcomes; statutory existence alone is not evidence of effective
-  deterrence.
+- ⚠️ A legally established but not-yet-appointed Board has no case-outcome evidence.
+  Future independence must be assessed through appointment, tenure, budget, procedural
+  fairness, published orders and appellate review—not assumed from nomenclature.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
@@ -152,11 +149,10 @@ correctives.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The DPDP Rules, 2025 set a fixed, officially notified staggered commencement running
-  from 13 November 2025 through 13 May 2027 (Section 4). No current Data Protection Board
-  ruling or enforcement-case figure is asserted here, since the Board's adjudicatory record
-  will only accumulate as the framework's compliance obligations progressively come into
-  force on this timeline.
+- 📰 **Status checked 21 July 2026:** phased commencement runs through 13 May 2027;
+  DPBI recruitment was ongoing and no official member-appointment order or ruling was
+  located. The DPDP amendment replacing RTI section 8(1)(j) is a future-commencement rule,
+  not the current RTI exemption text.
 
 ## 10. PYQ-based analytical application
 
@@ -187,6 +183,8 @@ correctives alongside the DPDP Act's overlay.
 4. Flag the interoperability-versus-purpose-limitation tension explicitly.
 5. Recommend layer-specific correctives (offline fallback, granular consent, sector-specific
    safeguards for sensitive data) alongside robust Data Protection Board enforcement.
+6. State the legal stage as of the answer date; do not convert an enacted future duty into
+   a currently enforceable right.
 
 ## 12. Probable questions
 

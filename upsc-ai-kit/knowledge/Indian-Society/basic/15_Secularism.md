@@ -5,9 +5,9 @@
 > theory).
 > **Core area:** Lived secularism as social practice — syncretism, equal public space, and
 > the Uniform Civil Code as a social (not doctrinal) debate.
-> **Grounded in:** Uttarakhand Uniform Civil Code, 2025 (in force since 27 January 2025);
-> Places of Worship (Special Provisions) Act, 1991, current status; no direct 2024/2025
-> GS-I standalone PYQ (flagged honestly).
+> **Grounded in:** Uniform Civil Code, Uttarakhand, 2024 and Rules, 2025 (in force since
+> 27 January 2025); 2026 Amendment Act; Places of Worship (Special Provisions) Act, 1991;
+> no direct 2024/2025 GS-I standalone PYQ (flagged honestly).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/15_Secularism.md`.*
 
@@ -37,11 +37,10 @@ PLACES OF WORSHIP ACT (social debate: historical
                      grievance vs present-day order)
 ```
 
-**Core proposition:** ⚠️ Secularism in Indian social life operates primarily through
-syncretic tradition and equal access to shared public and civic space, not primarily through
-constitutional text; current debates such as the Uniform Civil Code test how far this lived
-practice of coexistence can be extended into personal-law uniformity without eroding
-community autonomy or public trust.
+**Core proposition:** ⚠️ Indian secularism has constitutional, institutional and lived
+dimensions: syncretic traditions and equal access to civic space matter alongside rights and
+state neutrality. UCC debates test how equality, community autonomy, consultation and
+implementation interact; no social-practice account should replace constitutional doctrine.
 
 ## 2. Essential definitions
 
@@ -50,7 +49,7 @@ community autonomy or public trust.
 | ⚠️ **Lived secularism** | Everyday social coexistence across religious lines through shared public space, syncretic practice and common civic participation, distinct from the constitutional doctrine of state neutrality toward religion. |
 | ✅ **Syncretism** | The blending of practices across religious traditions into shared, composite social forms — shared shrine worship, Sufi-Bhakti idioms, common regional festivals. |
 | ⚠️ **Equal public space** | The principle, observed in practice more than in law, that markets, schools, transport and civic institutions should be usable by all religious communities without exclusion or segregation. |
-| ⚠️ **Uniform Civil Code (social debate)** | The proposal for a single personal law governing marriage, divorce, inheritance and maintenance across all religious communities; as a *social* debate (distinct from constitutional doctrine), it centres on whether uniformity strengthens gender-equal rights or erodes community-specific cultural and religious autonomy. |
+| ⚠️ **Uniform Civil Code (social debate)** | A common personal-law framework for marriage, divorce, inheritance and maintenance. As a social debate, it asks how gender equality, community autonomy, consultation and practical access are balanced; Uttarakhand's state code is a live example, not proof that one national model has been settled. |
 | ✅ **Sarva-dharma-sama-bhava** | The Indian civilisational principle of equal respect for all faiths, often cited as the social-cultural (as opposed to strictly legal) basis of Indian secularism. |
 
 ## 3. How lived secularism functions socially
@@ -59,19 +58,19 @@ community autonomy or public trust.
    by multiple communities in regional festivals, and common folk-religious idioms have
    historically blurred sharp religious boundaries at the social level, independent of any
    legal framework.
-2. **Equal public space as the civic test:** ⚠️ genuine lived secularism is tested less by
-   constitutional text than by whether markets, schools, transport and public institutions
-   remain genuinely open and non-segregated across religious lines in daily practice.
-3. **UCC as a social-autonomy debate:** ✅ the social dimension of the UCC debate concerns
-   whether uniform personal law would advance gender-equal treatment (a substantive-equality
-   argument) or undermine minority communities' autonomy over their own religious-cultural
-   practice (a recognition-autonomy argument) — this is distinct from the constitutional
-   question of whether Article 44 mandates such a code, which is Polity's territory.
-4. **Places of Worship Act as a lived-coexistence test:** ✅ the Act's freeze on religious
-   character as of 15 August 1947 functions socially as an attempt to stabilise present-day
-   coexistence by setting aside repeated relitigation of historical religious-site disputes;
-   its sub judice status (Topic 13) means this social-stability function remains actively
-   contested.
+2. **Equal public space as the civic test:** ⚠️ lived secularism is tested by whether
+   markets, schools, transport and public institutions remain genuinely open and
+   non-segregated across religious lines. This complements, rather than displaces,
+   constitutional rights and institutional neutrality.
+3. **UCC as a social-autonomy debate:** ⚠️ the social dimension concerns whether common
+   rules improve gender-equal treatment, how they are designed and accessed, and whether
+   community autonomy and minority trust are respected. Communities are internally diverse,
+   so neither “women” nor “community” is a single voice; Article 44 doctrine is Polity's
+   territory.
+4. **Places of Worship Act as a lived-coexistence test:** ✅ the Act's Section 4 preserves
+   religious character as of 15 August 1947, subject to Ayodhya and other statutory
+   exceptions. It can be analysed as a stability mechanism, but its legal status must be
+   checked against an official Court record rather than assumed from commentary.
 5. **Rights-sensitive reform as the balancing principle:** ⚠️ social reform affecting
    religious personal practice (whether UCC-linked or otherwise) is most durable when it
    protects individual rights (especially of women within personal-law systems) while
@@ -80,10 +79,10 @@ community autonomy or public trust.
 
 ## 4. Institutions and concepts
 
-- ✅ **Uttarakhand Uniform Civil Code, 2025:** the first state-level UCC implementation in
-  India, in force since 27 January 2025; its constitutional-doctrinal basis (Article 44,
-  state competence) is Polity's territory — this file covers only its social-debate
-  significance as a live test case for personal-law uniformity.
+- ✅ **Uniform Civil Code, Uttarakhand, 2024:** in force from 27 January 2025 with Rules,
+  2025; the 2026 amendment became an Act after an ordinance. It is a post-Independence
+  state code and a live social test case. Do not call it India's first uniform civil-law
+  regime without noting Goa's distinct Portuguese Civil Code history.
 - ✅ **Places of Worship (Special Provisions) Act, 1991:** treated fully in
   `13_Communalism.md`; here it is referenced only as a lived-coexistence test case, not
   re-derived in legal detail.
@@ -112,15 +111,16 @@ community autonomy or public trust.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ The Uttarakhand Uniform Civil Code has been in force since 27 January 2025, the first
-  state-level implementation of a UCC in India.
+- ✅ The Uniform Civil Code, Uttarakhand, 2024 has been in force since 27 January 2025; its
+  Rules are from 2025 and its 2026 amendment became an Act after an ordinance.
 - ✅ Sarva-dharma-sama-bhava (equal respect for all faiths) is commonly cited as the
   civilisational-social basis of Indian secularism, distinct from Western church-state
   separation.
-- 📰 As of July 2026, no other state has enacted or implemented a UCC; a further state has
-  reportedly been considering the step without having enacted it.
-- ⚠️ The Places of Worship Act's sub judice status (detailed in Topic 13) remains a live
-  test of the state's ability to stabilise present-day religious coexistence.
+- ⚠️ Uttarakhand's code must be distinguished from Goa's long-running Portuguese Civil Code
+  framework; do not use “first” or “only” without defining the historical/legal comparison.
+- ⚠️ The Places of Worship Act is a live test of the state's ability to stabilise present-day
+  religious coexistence; verify any Court-status claim from the official case record
+  (Topic 13).
 - ⚠️ Constitutional secularism doctrine and secularism-as-political-philosophy are
   cross-linked, not restated, in this file.
 
@@ -133,18 +133,18 @@ community autonomy or public trust.
 - ❌ The Uniform Civil Code debate is purely a legal-constitutional matter. -> It carries a
   distinct social dimension — the substantive-equality-versus-community-autonomy tension —
   which is this file's focus, separate from the Article 44 constitutional-doctrine question.
-- ❌ The Uttarakhand UCC means a national UCC has been implemented. -> As of July 2026, it
-  remains a single state's implementation; no other state has enacted or implemented a UCC.
-- ❌ The Places of Worship Act's status is fully and finally resolved. -> As established in
-  Topic 13, litigation remains pending before the Supreme Court as of 17 July 2026.
+- ❌ The Uttarakhand UCC means a national UCC has been implemented. -> It is a state-level
+  code. It must also be distinguished from Goa's separate historical civil-code framework.
+- ❌ The Places of Worship Act's status is fully and finally resolved. -> The Act remains on
+  the statute book; verify any claimed judicial outcome in the official case-status/order
+  record rather than relying on an undated litigation assertion.
 
 ## 8. 📰 Current anchor
 
-- 📰 The Uttarakhand Uniform Civil Code has been in force since 27 January 2025, with its
-  first anniversary marked as "UCC Day" on 27 January 2026, and a further implementation-
-  focused amendment ordinance in 2026 addressing execution gaps; as of July 2026, no other
-  state has enacted or implemented a UCC, though at least one other state has been reported
-  as considering the step without formal enactment.
+- 📰 The Uniform Civil Code, Uttarakhand, 2024 has been in force since 27 January 2025.
+  A 2026 amendment ordinance was subsequently enacted as an Amendment Act. Cite the
+  enactment and amendment precisely; do not infer implementation success or failure from
+  the amendment alone, and distinguish Uttarakhand from Goa's historical civil-code regime.
 
 ## 9. PYQ application
 
@@ -161,12 +161,11 @@ community autonomy or public trust.
   merely a legal question.
 - ⚠️ Cross-link Places of Worship Act detail to Topic 13 rather than repeating it.
 
-> **Answer thesis:** Indian secularism functions most durably as lived social practice —
-> syncretism and equal access to shared public space — and its live current test cases, the
-> Uttarakhand UCC and the Places of Worship Act's pending litigation, show that extending
-> this coexistence into uniform personal law or resolving historical religious-site disputes
-> requires balancing substantive-equality gains against legitimate community-autonomy
-> concerns, not imposing one value over the other.
+> **Answer thesis:** Indian secularism has lived, constitutional and institutional
+> dimensions. Syncretism and equal public space complement rights and state neutrality; UCC
+> and places-of-worship questions require a dated, rights-sensitive analysis of equality,
+> community autonomy, consultation and implementation rather than a claim that either
+> uniformity or autonomy alone resolves every conflict.
 
 ## 11. Probable questions
 

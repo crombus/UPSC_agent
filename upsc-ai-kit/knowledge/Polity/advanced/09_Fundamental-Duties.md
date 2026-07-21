@@ -1,8 +1,8 @@
 # Fundamental Duties (Article 51A) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Part IV-A (Qdrant export + source book) + verified CA.
-> ✅ = from source book · ⚠️ = inference / case law · 📰 = web-verified current affairs.
+> **Grounded in:** Indian Polity by M. Laxmikant, Part IV-A (direct check of the local Sixth Revised Edition PDF) + official court update.
+> ✅ = from source book · ⚠️ = inference / case law · 📰 = official/court-verified update.
 > *Companion: `basic/Fundamental-Duties.md`.*
 
 ---
@@ -80,11 +80,11 @@ enforcing some FDs:
 | ✅ **Prevention of Insults to National Honour Act, 1971** | respect to Constitution/Flag/Anthem |
 | ✅ Various criminal laws | punish enmity between groups (language/race/religion) |
 | ✅ **Protection of Civil Rights Act, 1955** | caste/religion offences |
-| ✅ **IPC** | imputations prejudicial to national integration |
+| ✅ **Bharatiya Nyaya Sanhita, 2023** (IPC successor from 1 Jul 2024) | relevant offences affecting harmony/national integration |
 | ✅ **Unlawful Activities (Prevention) Act, 1967** | declare communal org unlawful |
 | ✅ **Representation of People Act, 1951** | disqualify members for corrupt practice / soliciting votes on religion |
 | ✅ **Wildlife (Protection) Act, 1972** | ban trade in endangered species |
-| ✅ **Forest (Conservation) Act, 1980** | check deforestation |
+| ✅ **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** (renamed 2023) | regulate diversion of forest land |
 
 ---
 
@@ -95,8 +95,8 @@ R. Mahadevan): petitioner sought to make FDs **legally enforceable** + a High-Po
 - 📰 Enforcement must come through **"citizen consciousness and awareness,"** not coercion —
   echoing the **Verma Committee's** emphasis on education & civic values (SC had, in 2003, advised
   govt to implement Verma recommendations).
-- 📰 **Art 51A(g)** (environment) increasingly linked to **Art 21** clean-environment jurisprudence
-  (e.g., *Vanashakti v. UoI*, 2025).
+- 📰 **Art 51A(g)** is repeatedly read with **Art 21** in environmental jurisprudence;
+  the stable exam point is the rights-duties linkage, not an unverified one-line case label.
 
 ---
 
@@ -112,8 +112,8 @@ R. Mahadevan): petitioner sought to make FDs **legally enforceable** + a High-Po
 ## PYQ / CA anchors
 - Recurrent Prelims: exact 11-duty wording; which amendment (42nd vs 86th); Swaran Singh 8-vs-10;
   rejected recommendations (tax/penalty).
-- 📰 Live-search before exam: latest on *Durga Dutt* case, FD-awareness schemes, Art 51A(g)
-  environmental rulings.
+- 📰 Recheck the Supreme Court docket before the exam for later orders; the verified
+  enforcement anchor here is *Durga Dutt* (Sept 2024).
 
 ## Mains angles
 - "Rights and duties are two wheels of the same chariot" — evaluate the constitutional status of FDs.

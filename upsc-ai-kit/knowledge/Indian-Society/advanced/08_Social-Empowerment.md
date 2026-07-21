@@ -4,7 +4,8 @@
 > **Core area:** Capability-versus-welfare theory in depth, the Phule-Ambedkar comparative
 > diagnosis, and the causal architecture of the affirmative-action-outcome gap.
 > **Grounded in:** Amartya Sen's capability approach; Phule's Satyashodhak Samaj; Ambedkar's
-> graded-inequality thesis; NITI Aayog MPI 2023; audited 2024 and 2025 GS-I Mains PYQs.
+> graded-inequality thesis; NITI Aayog's 2024 multidimensional-poverty discussion paper;
+> audited 2024 and 2025 GS-I Mains PYQs.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/08_Social-Empowerment.md`.*
 
@@ -36,9 +37,9 @@ peasant class)                      inequality; annihilation,
                                      not reform, needed)
 ```
 
-**Analytical claim:** ⚠️ The 2024 PYQ's affirmative-action-outcome gap is best explained by
-treating capability, not entitlement, as the true empowerment variable: formal reservation
-or scheme eligibility is an entitlement input, but converting it into an outcome requires
+**Analytical claim:** ⚠️ The 2024 PYQ's affirmative-action-outcome gap is illuminated by
+distinguishing capability from entitlement: formal reservation or scheme eligibility is an
+important input, but converting it into an outcome requires
 prior capability (literacy, information, mobility, freedom from stigma) that unequal
 starting conditions systematically deny to the very groups the policy targets — a structural
 diagnosis anticipated separately by Phule's cross-cutting subaltern critique and Ambedkar's
@@ -48,7 +49,7 @@ graded-inequality thesis.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Capability approach vs resource/welfare approach** | The resource approach measures well-being by goods or income received; Sen's capability approach measures it by the real freedom a person has to convert those resources into valued functionings — two people with identical resources can have very different capability if one faces illiteracy, ill health or social exclusion that blocks conversion. |
+| ✅ **Capability approach vs resource/welfare approach** | A resource approach measures goods or income received; Sen's capability approach also asks whether a person has real freedom to convert resources into valued functionings. Two people with identical resources can have different capability if illiteracy, ill health or exclusion blocks conversion; this does not make welfare inputs unimportant. |
 | ✅ **Phule's cross-cutting critique vs single-axis reform** | Many contemporaneous 19th-century reformers addressed a single axis (widow remarriage, or caste alone); Phule's Satyashodhak Samaj explicitly linked Brahminical ritual dominance, women's exclusion from education and peasant exploitation as interconnected, not separate, problems — a genuinely cross-cutting, proto-intersectional diagnosis. |
 | ✅ **Ambedkar's "graded inequality" vs simple hierarchy** | Ambedkar argued caste was not a simple linear hierarchy (top to bottom) but a "graded inequality" in which each caste simultaneously looks down on those below and aspires to the position of those above, making the system self-reinforcing and resistant to piecemeal reform from within — hence his call for "annihilation of caste" rather than internal reform. |
 | ⚠️ **Entitlement input vs capability-conversion factor vs outcome** | An entitlement (a reserved seat, a scheme) is the policy input; capability-conversion factors (literacy, health, social confidence, absence of stigma) determine whether that input is used; the outcome (actual mobility, income, voice) depends on both — the 2024 PYQ's gap arises specifically at the conversion-factor stage. |
@@ -74,9 +75,10 @@ graded-inequality thesis.
 1. Phule identified Brahminical ritual dominance as maintaining not only caste hierarchy
    but also women's exclusion from education and peasant subjugation within the same
    ideological structure.
-2. He treated education (for girls, for lower castes, for peasants) as the single most
-   direct capability-building intervention available, prefiguring the modern
-   capability-approach logic by roughly a century.
+2. With Savitribai Phule's educational work, he treated education for girls and oppressed
+   castes as a central capability-building intervention, while also critiquing peasant
+   exploitation; this anticipates parts of a modern capability lens without making him a
+   direct precursor of every later theory.
 3. ⚠️ His comprehensiveness (the 2025 PYQ's "almost all subaltern classes") is precisely
    what distinguishes him from reformers who worked only one axis of disadvantage at a time.
 
@@ -138,9 +140,9 @@ graded-inequality thesis.
   a stake in the hierarchy's persistence, making piecemeal reform structurally limited.
 - ✅ Phule's Satyashodhak Samaj addressed caste, gender and peasant-class disadvantage as
   interlinked, not separate, concerns — the exact basis of the 2025 PYQ.
-- 📰 NITI Aayog's National MPI Progress Review (2023) recorded poverty falling from 24.85%
-  (2015-16) to 14.96% (2019-21), about 13.5 crore people exiting poverty — dated to that
-  base-year comparison, with no newer national update to cite as of 17 July 2026.
+- 📰 NITI Aayog's 2024 discussion paper *Multidimensional Poverty in India since 2005-06*
+  estimated multidimensional poverty at 11.28% in 2022-23 and about 24.8 crore exits between
+  2013-14 and 2022-23. These are dated estimates, not a current headcount.
 - ⚠️ Formal mobility and substantive mobility are analytically distinct outcome measures,
   frequently conflated in Mains answers.
 
@@ -160,10 +162,9 @@ graded-inequality thesis.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 NITI Aayog's National MPI Progress Review (2023) remains the most recent verified
-  national multidimensional-poverty progress figure (24.85% to 14.96%, 2015-16 to 2019-21,
-  about 13.5 crore people exiting poverty); this is a dated base-year comparison and should
-  not be presented as a current 2026 poverty count.
+- 📰 NITI Aayog's 2024 discussion paper estimated multidimensional poverty at 11.28% in
+  2022-23 and about 24.8 crore exits between 2013-14 and 2022-23. Cite its date, estimate
+  and period; do not present it as a current 2026 poverty count.
 
 ## 10. PYQ-based analytical application
 

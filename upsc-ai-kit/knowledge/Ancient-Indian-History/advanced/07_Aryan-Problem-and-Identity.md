@@ -14,7 +14,7 @@
 | ✅ Mature Harappan | c. 2600–1900 BC | Urban Bronze Age; not identical with Rig Vedic culture |
 | ✅ Post-urban / late Harappan | c. 1900–1300 BC | De-urbanisation and regional cultures |
 | ✅ Early Vedic | c. 1500–1000 BC | Rig Veda; Sapta-Sindhu; Indo-Aryan language debate |
-| 📰 aDNA debate | 2019 onward; 2025–26 samples | Rakhigarhi and Steppe-ancestry question |
+| ✅ aDNA debate | 2019 published studies onward | Rakhigarhi and Steppe-ancestry question |
 
 ## 1. Snapshot & core idea
 
@@ -29,7 +29,7 @@
 
 ✅ Upinder Singh flags recent DNA work as suggesting migrations across Eurasia and eventually into India; Narasimhan et al. (2019) studied ancient DNA from Central Asia and northern South Asia and documented Bronze Age movements from the Eurasian steppes into northern South Asia.
 - ✅ She cautions that putting together archaeological, linguistic and genetic evidence is not straightforward.
-- 📰 The Rakhigarhi genome debate matters because mature Harappan samples lacked Steppe ancestry, while Steppe-related ancestry is argued to appear after the urban Harappan phase.
+- ✅ The Rakhigarhi genome reported little or no immediate Steppe contribution in the sampled individual and no immediate Anatolian/Iranian farmer-herder contribution; its Iranian-related component came from an older hunter-gatherer lineage. One individual cannot identify Harappan language or represent every settlement.
 - ⚠️ UPSC-safe conclusion: the evidence weakens both a violent invasion model and a simple indigenous-all-continuity model; a more cautious model is **migration, interaction and admixture**.
 
 ## 2. Key classification / data
@@ -40,7 +40,7 @@
 | ✅ Migration theory | More plausible but must be argued with multiple evidence streams |
 | ✅ Linguistics | Indo-Aryan belongs to Indo-European; language spread need not equal racial replacement |
 | ✅ Archaeology | Late Harappan, BMAC, PGW and other cultures show complex transitions, not one-to-one ethnic labels |
-| 📰 Genetics | Rakhigarhi/Steppe ancestry debate supports post-Harappan admixture questions |
+| ✅ Genetics | Rakhigarhi/Steppe ancestry evidence informs post-Harappan admixture questions |
 
 ## 3. Study links
 
@@ -54,7 +54,7 @@
 - ✅ Early Vedic geography: Indus, five tributaries and Sarasvati/Ghaggar-Hakra zone.
 - ✅ Later Vedic core: Kuru-Panchala, Indo-Gangetic divide and upper Ganga valley.
 - ✅ DNA studies are useful but must be integrated carefully with language and archaeology.
-- 📰 2019 Rakhigarhi / Narasimhan-style debate: Steppe ancestry is central to current Aryan-question discussions.
+- ✅ Upinder Singh uses the 2019 Rakhigarhi and Narasimhan studies to frame Steppe-related migrations and Harappan ancestry, while warning against mechanically equating genes, language and archaeology.
 
 ## 5. UPSC Traps
 
@@ -67,7 +67,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Rakhigarhi iconic-site/museum push, 2025–26:** Government communications describe Rakhigarhi as an iconic archaeological site with museum development, digital display and ongoing scientific study. For the Aryan question, the live hook is not "Harappan glory" but whether larger aDNA datasets can clarify **when Steppe-related ancestry entered north India**.
+⚠️ **Current-link discipline:** Museum-development claims need an official project source. For the Aryan question, only larger, geographically diverse and peer-reviewed ancient-DNA datasets can refine migration chronology.
 
 ## 7. Mains angles
 

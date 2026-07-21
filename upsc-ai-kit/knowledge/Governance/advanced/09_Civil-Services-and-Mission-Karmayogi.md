@@ -95,9 +95,10 @@ deficit that undermines its democratic legitimacy.
   and evaluation. This six-pillar structure is the durable, citable design; the underlying
   official framing documents may be refined over time without changing the core six-pillar
   architecture.
-- ✅ The Capacity Building Commission harmonises training standards and creates shared
-  faculty/content resources across ministries, addressing the historical fragmentation of
-  civil-service training efforts across departments.
+- ✅ The architecture distinguishes apex guidance (PM's HR Council), coordination (Cabinet
+  Secretariat unit), standards/plans and institutional capacity (CBC), and platform operation
+  (Karmayogi Bharat SPV). Calling CBC the sole implementation or platform-operating body is
+  inaccurate.
 - ⚠️ Lateral-entry recruitment rounds have periodically inducted domain specialists at
   Joint Secretary/Director/Deputy Secretary levels in selected ministries. No fixed count of
   positions or ministries covered by the latest round is asserted here, since lateral-entry
@@ -157,10 +158,9 @@ deficit that undermines its democratic legitimacy.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Mission Karmayogi's six-pillar structure (Section 4) and its 2 September 2020 Cabinet
-  approval date are fixed reference points. No fixed current figure for lateral-entry round
-  scale or iGOT Karmayogi's course/enrolment coverage is asserted here, since both continue
-  to expand with successive recruitment cycles and platform growth.
+- 📰 **Status checked 21 July 2026:** CBC's 2026 material uses Annual Capacity Building
+  Plans and a Karmayogi Competency Model. Treat these as operational reform instruments;
+  do not infer improved field performance from course counts without post-training evidence.
 
 ## 10. PYQ-based analytical application
 
@@ -189,6 +189,8 @@ classical civil-service safeguards.
    response.
 5. Flag the generalist-specialist allocation problem and lateral entry's trade-offs where
    relevant.
+6. Add Articles 309-311, transfer stability, reasoned appraisal and protection of lawful
+   professional advice to connect capacity reform with constitutional safeguards.
 
 ## 12. Probable questions
 

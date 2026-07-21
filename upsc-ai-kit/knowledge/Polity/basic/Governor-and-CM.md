@@ -28,14 +28,19 @@ Assembly** (Art 164). The Governor plays a **dual role** — state head **and** 
 CM in a hung house; dismissing a CoM that lost confidence; dissolving the Assembly.
 
 ## Must-Know Facts
-- ✅ Governor **nominates 1/6** of the Legislative Council; **cannot pardon death sentences** (only President).
-- ✅ Governor is **Chancellor** of state universities.
+- ✅ Governor **nominates 1/6** of the Legislative Council; cannot **pardon** a death
+  sentence, but may **suspend, remit or commute** it under Art 161. Court-martial sentences
+  remain outside Art 161.
+- ⚠️ A Governor is Chancellor of many state universities **under the relevant state
+  university statutes**, not by virtue of the Constitution; models vary by state.
 - ✅ Non-MLA can be CM for **6 months**; CM may be from either House.
 - ✅ CM chairs the State Planning Board; is a member of the **Inter-State Council** & **NITI Aayog**.
 
 ## 📰 Current link
-📰 ✅ In **2025**, the Supreme Court (Presidential Reference, Art 143, Nov 2025) held Governors/President **cannot
-indefinitely delay** bills, but courts **can't fix rigid timelines or grant "deemed assent"** — a major
-Centre-state federalism verdict.
+📰 ✅ **Current doctrine (20 Nov 2025, *In re: Assent, Withholding or Reservation of
+Bills*, 2025 INSC 1333):** Articles 200/201 contain no court-created rigid timelines or
+automatic deemed assent. Yet prolonged, unexplained and indefinite gubernatorial inaction is
+open to limited judicial scrutiny and mandamus. This later Article 143 opinion qualifies the
+timeline/deemed-assent reasoning in *State of Tamil Nadu v. Governor of Tamil Nadu* (8 Apr 2025).
 
 ➡️ Full powers, discretion, traps & Mains angles: **`advanced/19_Governor-CM-State-Council.md`**

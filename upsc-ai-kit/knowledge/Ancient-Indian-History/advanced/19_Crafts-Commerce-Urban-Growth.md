@@ -67,7 +67,7 @@
 
 ## 6. 📰 Current link
 
-📰 **India-Netherlands NMHC collaboration, 2025:** Current updates on the National Maritime Heritage Complex at Lothal include international cooperation and maritime-museum planning. Use it to connect ancient ports, guild-like merchant networks and route knowledge with modern maritime heritage diplomacy.
+⚠️ **Current-link discipline:** Verify a maritime-museum collaboration from the official agreement. The safe linkage is how museums interpret ancient ports, merchant networks and route knowledge.
 
 ## 7. Mains angles
 

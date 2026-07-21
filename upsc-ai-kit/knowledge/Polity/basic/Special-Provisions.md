@@ -22,9 +22,11 @@ customs, backward regions, or law & order. These sit in **Part XXI**, alongside 
 > Telangana, Sikkim, Mizoram, Arunachal Pradesh, Goa, Karnataka.
 
 ## Article 370 — the big story
-📰 ✅ **5 Aug 2019:** J&K's special status made inoperative; **J&K Reorganisation Act 2019** created **two UTs —
-J&K (with legislature) & Ladakh (without)**. ✅ **SC (Dec 2023)** upheld the abrogation (Art 370 was
-"temporary") and ordered statehood restoration + Assembly elections.
+📰 ✅ **5 Aug 2019:** J&K's special status was made inoperative; the **J&K
+Reorganisation Act, 2019** created **J&K (with legislature)** and **Ladakh (without)**.
+✅ In *In Re: Article 370* (11 Dec 2023), the Supreme Court upheld the constitutional
+steps, directed Assembly elections by Sept 2024, and recorded the Union's assurance that
+statehood would be restored at the earliest; it did **not set a judicial deadline for statehood**.
 
 ## Key Art 371 provisions (remember)
 - ✅ **371-A Nagaland** & **371-G Mizoram** — Union laws on **customary law / land** don't apply unless the state
@@ -34,7 +36,8 @@ J&K (with legislature) & Ladakh (without)**. ✅ **SC (Dec 2023)** upheld the ab
 - ✅ **371 Maharashtra/Gujarat** — development boards (Vidarbha, Marathwada, Saurashtra, Kutch).
 
 ## 📰 Current link
-📰 ✅ Post the **2024 J&K Assembly elections**, **statehood restoration is still pending** before the Supreme
-Court. Ladakh's demand for **Sixth Schedule** status is also in the news.
+📰 ✅ **Status 21 Jul 2026:** Assembly elections were held in 2024; restoration of
+statehood remains an unfulfilled Union assurance. Ladakh's Sixth-Schedule/statehood demands
+remain political proposals, not enacted constitutional changes.
 
 ➡️ Full article-wise table, traps & Mains angles: **`advanced/22_Special-Provisions.md`**

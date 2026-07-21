@@ -17,7 +17,7 @@
 | ✅ 1514 | Chaldiran shifts the balance; Uzbeks regain Trans-Oxiana dominance |
 | ✅ 1519-20 | Babur advances to Bhira and Sialkot, signalling Punjab ambitions |
 | ✅ 1525 | Babur crosses from Kabul for the conquest of Hindustan |
-| ✅ 20 April 1526 | Panipat: Ibrahim Lodi defeated |
+| ⚠️ 20/21 April 1526 | Part II gives 20 April; many standard chronologies give 21 April |
 | ✅ 1527 | Khanwa completes Panipat by checking Rana Sanga |
 | ✅ 5 May 1529 | Ghagra: Babur defeats Afghan-Bengal forces |
 | ✅ 30 December 1530 | Babur dies at Agra |
@@ -35,6 +35,7 @@
 
 - ✅ By incorporating **Kabul and Qandhar**, Babur gave a north Indian empire a strategic shield against invasions and a stake in Central Asian politics.
 - ✅ Kabul and Qandhar were trade-marts linking Hindustan with Khurasan, China, Turkistan and West Asia, increasing India's share in trans-Asian trade.
+- ✅ Babur's Timurid legitimacy came through his father's line; his maternal ancestry linked him to the Chagatai-Chingizid world. "Mughal" therefore masks a strongly Turco-Mongol and Persianate political inheritance.
 - ✅ Babur restored the prestige of monarchy against Afghan tribal ideas of equality; his Timurid-Chingizid prestige prevented begs from claiming equality.
 - ⚠️ Babur's state was a bridge: Central Asian court culture plus Indian territorial resources.
 
@@ -57,7 +58,7 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Panipat date in Part II: **20 April 1526**.
+- ⚠️ Panipat's day is a source discrepancy: **20 April** in Part II, **21 April** in many standard chronologies.
 - ✅ Ibrahim Lodi fought bravely and died on the field; Babur buried him with honour.
 - ✅ Babur's two Ottoman gunners were **Ustad Ali** and **Mustafa**.
 - ✅ **Ghagra (5 May 1529)** involved Afghan rebels and the Bengal ruler Nusrat Shah's forces.
@@ -75,7 +76,7 @@
 
 ## 6. 📰 Current link
 
-- 📰 **Bagh-e Babur, Kabul (2025 heritage coverage)** — Pajhwok/Kabul Times highlighted Babur's restored garden as a living cultural site; relevance: links Babur's Central Asian identity, charbagh culture and transregional Mughal heritage.
+📰 **Current linkage (verify live before use):** Bagh-e Babur can connect Babur's Central Asian identity with garden culture and transregional heritage. Verify access, restoration and management claims before citing them.
 
 ## 7. Mains angles
 
@@ -86,4 +87,3 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ Use Babur's *Memoirs* carefully: they are unusually vivid, but still a ruler's self-representation. Pair military details with Satish Chandra's caution on exaggerated army figures.
-

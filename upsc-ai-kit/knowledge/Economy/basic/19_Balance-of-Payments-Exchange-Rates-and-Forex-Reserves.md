@@ -4,7 +4,7 @@
 > **Core area:** External sector.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md`.*
+> *Companion: `../advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md`.*
 
 ---
 
@@ -86,6 +86,10 @@ alone.
   for competitiveness.
 - ✅ Nominal and real effective exchange rates differ because the latter adjusts for relative
   prices.
+- ✅ Depreciation/appreciation describe market-rate movement; devaluation/revaluation are
+  official parity changes in a fixed or administered exchange-rate setting.
+- ✅ FEMA governs foreign-exchange transactions; current- and capital-account treatment must
+  not be assumed to be identical.
 
 ## 7. UPSC traps
 
@@ -138,8 +142,7 @@ oil dependence, export concentration or private foreign-currency risk.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-
-  Reserves.md`.
+- ✅ Advanced companion: `../advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md`.
 - ✅ `04_RBI-Monetary-Policy-and-Liquidity-Management.md` — intervention and sterilisation.
 - ✅ `20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` — export competitiveness and import
   dependence.

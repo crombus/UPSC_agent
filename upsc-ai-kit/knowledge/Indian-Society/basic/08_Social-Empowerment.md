@@ -4,8 +4,8 @@
 > **Core area:** Empowerment as capability/agency (Sen), social mobility theory, Phule and
 > Ambedkar as sociological reformers, and the affirmative-action-outcome gap.
 > **Grounded in:** Amartya Sen's capability approach; Mahatma Jyotirao Phule's writings on
-> subaltern classes; B.R. Ambedkar's caste-annihilation sociology; NITI Aayog MPI 2023;
-> audited 2024 and 2025 GS-I Mains PYQs.
+> subaltern classes; B.R. Ambedkar's caste-annihilation sociology; NITI Aayog's 2024
+> multidimensional-poverty discussion paper; audited 2024 and 2025 GS-I Mains PYQs.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/08_Social-Empowerment.md`.*
 
@@ -39,8 +39,8 @@ POLICY-PRACTICE GAP
 formal affirmative action  vs  lived empowerment outcome
 ```
 
-**Core proposition:** ⚠️ Social empowerment is best understood not as the delivery of
-welfare benefits but as the expansion of capability and agency (Sen), and India's own
+**Core proposition:** ⚠️ Social empowerment is not exhausted by delivery of welfare
+benefits; it concerns expansion of capability and agency (Sen), and India's own
 sociological reform tradition — Phule's critique of Brahminical dominance and Ambedkar's
 diagnosis of caste as graded inequality — anticipated that formal legal equality alone
 would not close the gap between policy design and lived empowerment, a gap the 2024 PYQ
@@ -51,25 +51,25 @@ explicitly tests.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Capability approach** (Amartya Sen) | Development and empowerment should be measured by the real freedoms and capabilities a person has to achieve valued functionings (being educated, being healthy, participating in public life), not merely by resources or income received. |
-| ⚠️ **Agency vs welfare view** | The welfare view treats a beneficiary as a passive recipient of resources; the agency view treats the person as an active agent whose own choices and voice matter in defining and achieving well-being. |
+| ⚠️ **Agency vs welfare view** | A welfare/resource view asks what income, goods or benefits a person receives; an agency view also asks whether the person can make and act on choices shaping well-being. Welfare can be rights-based and valuable, but receipt alone does not establish agency. |
 | ⚠️ **Social mobility (open vs closed system)** | An open stratification system allows movement between social positions based on individual achievement; a closed system fixes position largely by birth-ascribed status — traditional caste society leaned closed, though contemporary India shows increasing, uneven openness. |
 | ✅ **Phule's subaltern-classes critique** | Mahatma Jyotirao Phule's writings and reform efforts (education for girls and lower castes, critique of Brahminical ritual dominance) addressed the interlinked disadvantages of caste, gender and peasant classes together, not caste alone. |
 | ✅ **Ambedkar's graded inequality / annihilation of caste** | B.R. Ambedkar argued caste was not simple division of labour but a graded hierarchy of inequality reproduced through religious sanction, and that the goal must be annihilation of caste as a system, not mere inter-caste social reform. |
 
 ## 3. How empowerment and mobility function
 
-1. **From welfare to capability:** ✅ Sen's capability approach reframes empowerment as the
-   expansion of real freedoms (education, health, voice) rather than the mere transfer of
-   income or benefits — a person can receive a benefit and still lack the capability to use
-   it effectively (illiteracy limiting use of a cash transfer, for example).
+1. **From welfare to capability:** ✅ Sen's capability approach adds the question of real
+   freedom (education, health, voice) to resource transfer. A person can receive a benefit
+   and still lack the capability to use it effectively (illiteracy limiting use of a cash
+   transfer, for example).
 2. **Social mobility as a structural question:** ⚠️ mobility depends on whether a society's
    institutions (education access, labour markets, marriage norms) reward achievement or
    simply reproduce ascribed status; caste historically functioned as a closed system,
    though Sanskritisation-based and market-based mobility (Topic 02) show partial opening.
-3. **Phule's sociological diagnosis:** ✅ Phule identified the interlocking oppression of
-   caste, gender and peasant-class disadvantage, and made education the central lever for
-   subaltern-class empowerment — his 2025 PYQ relevance rests on how comprehensively his
-   writings addressed "almost all subaltern classes," not caste alone.
+3. **Phule's sociological diagnosis:** ✅ Phule, working with Savitribai Phule in education
+   and reform, identified interlocking caste, gender and peasant-class disadvantage and made
+   education a central empowerment lever. His 2025 PYQ relevance rests on how
+   comprehensively his writings addressed “almost all subaltern classes,” not caste alone.
 4. **Ambedkar's structural diagnosis:** ✅ Ambedkar rejected reform strategies that treated
    caste as a set of individual prejudices, arguing instead that caste was a systemic,
    religiously sanctioned graded inequality requiring structural annihilation, which shaped
@@ -124,17 +124,18 @@ explicitly tests.
   women, lower castes and peasants together.
 - ✅ B.R. Ambedkar argued caste was a "graded inequality," not mere division of labour, and
   called for its "annihilation," not simple reform.
-- 📰 NITI Aayog's National MPI Progress Review (2023) recorded a fall in multidimensional
-  poverty from 24.85% (2015-16) to 14.96% (2019-21), with about 13.5 crore people moving
-  out of poverty — a dated 2015-16 to 2019-21 comparison, not a current 2026 count.
+- 📰 NITI Aayog's 2024 discussion paper *Multidimensional Poverty in India since 2005-06*
+  estimated multidimensional poverty at 11.28% in 2022-23 and about 24.8 crore people
+  exiting multidimensional poverty between 2013-14 and 2022-23. Label these as the paper's
+  estimates and time period, not a current headcount.
 - ⚠️ Open versus closed stratification systems is the standard sociological device for
   discussing whether achievement or ascription determines social position.
 
 ## 7. UPSC traps
 
-- ❌ Empowerment means the same as welfare provision. -> Sen's capability approach
-  distinguishes empowerment (expanded real freedom/agency) from welfare (resource
-  transfer); a person can receive welfare without gaining capability.
+- ❌ Empowerment means the same as welfare provision. -> Welfare can be valuable, but Sen's
+  capability approach asks whether it expands real freedom and agency; receipt alone does
+  not establish capability.
 - ❌ Phule's reform work addressed only caste issues. -> The 2025 PYQ specifically tests
   that his writings touched "almost all subaltern classes" — caste, gender and peasant-class
   concerns together.
@@ -147,10 +148,9 @@ explicitly tests.
 
 ## 8. 📰 Current anchor
 
-- 📰 NITI Aayog's National MPI Progress Review (2023) reported multidimensional poverty
-  falling from 24.85% (2015-16) to 14.96% (2019-21), with about 13.5 crore people exiting
-  poverty over that period — cite only this dated 2015-16/2019-21 comparison; no newer
-  national MPI update exists to cite as of 17 July 2026.
+- 📰 NITI Aayog's 2024 discussion paper estimated multidimensional poverty at 11.28% in
+  2022-23 and about 24.8 crore exits between 2013-14 and 2022-23. State the estimate,
+  methodology and period; do not call it a current 2026 headcount.
 
 ## 9. PYQ application
 

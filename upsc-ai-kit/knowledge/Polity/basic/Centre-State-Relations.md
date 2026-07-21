@@ -24,12 +24,15 @@ protection, administration of justice.
 
 ## Administrative relations
 ✅ **Art 365:** state ignoring Centre's directions → can trigger **President's Rule (Art 356)**.
-✅ **All-India Services (Art 312):** IAS, IPS, **IFS (1966)** — new one needs **Rajya Sabha resolution**.
+✅ **All-India Services (Art 312):** IAS, IPS, **Indian Forest Service (IFoS,
+1966)** — not the Indian Foreign Service; a new AIS needs a Rajya Sabha resolution.
 ✅ **Art 355:** Centre must protect states from external aggression/internal disturbance.
 
 ## Financial relations
-✅ Union List **13 tax entries**, State List **18**; **no tax in Concurrent** except **GST (concurrent,
-101st Amdt)**. ✅ **80th Amdt (2000):** 29% of central taxes devolved. ✅ **Grants:** statutory (Art 275,
+✅ Taxing power must be expressly conferred; the Concurrent List contains **no general tax entry**.
+GST is governed by the **special concurrent legislative power in Art 246-A**, not by a
+Concurrent-List entry. ✅ **80th Amdt (2000):** implemented the alternative tax-devolution scheme
+recommended by the Tenth Finance Commission. ✅ **Grants:** statutory (Art 275,
 FC-based) + discretionary (Art 282).
 > 🔑 **Tax-distribution articles:** 268 (Centre levies, state keeps) · 269 (assigned) · 269-A (inter-state
 > GST) · **270 (shared via Finance Commission)** · 271 (surcharge, Centre only).
@@ -41,7 +44,8 @@ FC-based) + discretionary (Art 282).
 zones, chaired by **Union Home Minister**; **NEC = 1971 Act**.
 
 ## Must-Know Facts
-- ✅ **Finance Commission (Art 280):** quasi-judicial, every **5 years**, "balancing wheel of fiscal federalism."
+- ✅ **Finance Commission (Art 280):** constitutional and periodic (every fifth year or
+  earlier); Laxmikanth describes it as quasi-judicial and the "balancing wheel of fiscal federalism."
 - ✅ **GST Council (Art 279-A):** joint Centre-state forum on rates/exemptions.
 - ✅ States can borrow **only within India** & need Centre's consent if a Central loan is outstanding.
 - ✅ Concurrent conflict → **Central law prevails** (unless state law got President's assent).
@@ -49,8 +53,10 @@ zones, chaired by **Union Home Minister**; **NEC = 1971 Act**.
 ## 📰 Current link
 📰 ✅ **16th Finance Commission** — Chair **Arvind Panagariya**; report submitted **17 Nov 2025**;
 recommendations cover **2026-31** and took effect from **1 Apr 2026**. The government retained
-vertical devolution at **41%** and accepted a horizontal formula including **Contribution to GDP (10%)**.
-📰 ⚠️ **GST Council** recommendations are **persuasive, not binding** (*Mohit Minerals*, 2022) &
-Governor-assent delays (TN/Kerala 2023-24) keep Centre-state relations topical.
+vertical devolution at **41%** and accepted a horizontal formula including **Contribution to GDP
+(10%)**. *(Official status checked 21 Jul 2026: Sixteenth Finance Commission report and Union
+Government action-taken material.)* 📰 ✅ **GST Council** recommendations are persuasive, not binding
+(*Union of India v. Mohit Minerals*, 2022). Governor-assent doctrine is stated in the Governor file
+using the Supreme Court's 2025 judgment and later Article 143 opinion.
 
 ➡️ For all articles, tribunal list, Inter-State Council composition & traps → `advanced/13_Centre-State-and-Inter-State-Relations.md`.

@@ -50,7 +50,8 @@ the state frames CSOs shapes how effectively that social capital is used for dev
 | ✅ **Self-Help Group (SHG)** | A small, voluntary group (predominantly of women in the Indian rural-livelihoods context) that pools savings, accesses credit and undertakes livelihood activity collectively — the core institutional unit of DAY-NRLM. |
 | ✅ **DAY-NRLM** | The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission, run by the Ministry of Rural Development, which mobilises rural women into SHGs and federates them into village organisations and cluster-level federations for livelihoods, financial inclusion and social empowerment. |
 | ✅ **FCRA** | The Foreign Contribution (Regulation) Act, 2010 (amended 2020), administered by the Ministry of Home Affairs, which regulates the acceptance and utilisation of foreign contributions by associations/NGOs, requiring registration or prior permission before receiving foreign funds. |
-| ✅ **NGO Darpan** | A NITI Aayog portal providing NGOs/voluntary organisations a unique identification ("NGO Darpan ID"), which functions as a database supporting transparency and is often a prerequisite for accessing government grants/schemes. |
+| ✅ **NGO Darpan** | NITI Aayog's identification/database portal. Its Unique ID is required for Union-government grants and is used in FCRA/tax/banking compliance interfaces; it is not itself incorporation, FCRA permission or tax exemption. |
+| ✅ **Pressure group** | An organised interest that seeks to influence public policy without itself seeking to form the government. Its governance role is representation, agenda-setting, expertise and scrutiny; risks include unequal access, opaque lobbying and policy capture. |
 | ⚠️ **Non-state actor vs anti-State actor framing** | CSOs are, by definition, non-state actors (not part of formal government); whether a specific CSO is perceived/treated as adversarial ("anti-State") depends on its relationship to government policy and its funding/accountability transparency, not on its non-state status itself. |
 
 ## 3. How civil society contributes to governance (mechanism)
@@ -71,6 +72,9 @@ the state frames CSOs shapes how effectively that social capital is used for dev
    FCRA registration/prior permission, which the state uses to screen for national-security
    and public-interest concerns — a regulatory chokepoint that shapes which CSOs can operate
    at scale with international funding.
+6. **Policy influence:** pressure groups use representation, research, petitions, campaigns,
+   consultation and litigation to shape policy. The 2025 GS-II environmental-pressure-group
+   PYQ requires evaluating both democratic voice and capture/representation deficits.
 
 ## 4. Institutions and tools
 
@@ -87,7 +91,7 @@ the state frames CSOs shapes how effectively that social capital is used for dev
   framework), and restrictions on administrative-expense proportions and sub-granting of
   foreign funds between FCRA-registered entities.
 - ✅ **NGO Darpan (NITI Aayog):** voluntary/mandatory-for-grants registration portal that
-  assigns a unique ID used across government grant and FCRA-linked processes.
+  assigns a unique ID used across government-grant and linked compliance processes.
 - ⚠️ **Village Organisations and Cluster-Level Federations** under NRLM aggregate SHGs
   upward, building the bridging/linking capital layer described above.
 
@@ -102,6 +106,9 @@ the state frames CSOs shapes how effectively that social capital is used for dev
   and any "anti-State" perception arises from advocacy/watchdog friction with government
   policy or from funding-transparency concerns (FCRA-related), not from an inherent
   anti-State character.
+- ✅ 2025 GS-II PYQ (Q15): environmental pressure groups — analyse awareness, expertise,
+  agenda-setting and legal/policy influence, then qualify with transparency, representational
+  legitimacy and capture risks.
 - ⚠️ A women's SHG federation negotiating directly with a bank for a cluster-level credit
   line demonstrates linking social capital converting into tangible financial inclusion.
 
@@ -130,10 +137,12 @@ the state frames CSOs shapes how effectively that social capital is used for dev
   NITI Aayog identification/database portal (relevant mainly for government grants); FCRA
   registration is a separate Ministry of Home Affairs legal requirement specifically for
   foreign funding.
+- ❌ Pressure groups and political parties are identical. -> Pressure groups influence policy
+  without contesting for governmental power as their defining purpose.
 
 ## 8. 📰 Current anchor
 
-- 📰 DAY-NRLM's cumulative SHG-mobilisation count (women households and number of SHGs) rises
+- 📰 **Status checked 21 July 2026:** DAY-NRLM's cumulative SHG-mobilisation count rises
   continuously and is published on the NRLM MIS portal. No fixed current figure is asserted
   here because the count is updated on an ongoing basis; the durable, exam-ready fact is
   that DAY-NRLM is India's largest women-focused SHG mobilisation programme, organised
@@ -148,6 +157,8 @@ the state frames CSOs shapes how effectively that social capital is used for dev
   anti-State, actors, while acknowledging that specific advocacy positions or funding
   opacity can generate state suspicion; avoid a purely one-sided "CSOs are always
   benign/always adversarial" answer.
+- ✅ 2025 Q15: use **R-I-S-K** — representation, information/expertise, scrutiny, and capture
+  risk — to assess an environmental pressure group rather than merely listing organisations.
 
 ## 10. Mains angles
 

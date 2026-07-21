@@ -41,8 +41,10 @@ Constitution — its **modified form became the Preamble**.
 
 ## 5. Drafting Committee (7 members)
 
-✅ Chaired by **Ambedkar**; others: N. Gopalaswamy Ayyangar, Alladi Krishnaswamy Ayyar, K.M. Munshi,
-Syed Mohammad Saadullah, N. Madhava Rau, T.T. Krishnamachari. Sat only **141 days**.
+✅ Original committee: **Ambedkar (Chair)**, N. Gopalaswamy Ayyangar, Alladi
+Krishnaswamy Ayyar, K.M. Munshi, Syed Mohammad Saadullah, **B.L. Mitter** and
+**D.P. Khaitan**. N. Madhava Rau replaced Mitter; T.T. Krishnamachari replaced Khaitan.
+The committee sat for **141 days**.
 
 ## 6. Key dates
 

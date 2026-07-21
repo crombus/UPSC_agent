@@ -134,6 +134,17 @@ administrative complexity, surveillance, exclusion and poor data quality at scal
 **Exam trap:** Transparency does not automatically produce accountability; a dashboard
 may reveal failure without identifying who must explain, correct or compensate for it.
 
+### Accountability-institution map
+
+| Institution/tool | Legal character | Governance function |
+|---|---|---|
+| CAG | Constitutional (Articles 148-151) | Financial, compliance and performance audit feeding legislative scrutiny |
+| CIC/SIC | Statutory under RTI Act, 2005 | Complaints and second appeals concerning access to information |
+| CVC | Statutory under CVC Act, 2003 | Central vigilance supervision/advice; not a criminal court |
+| Lokpal | Statutory under 2013 Act | Corruption complaints against covered public servants; not a general grievance portal |
+| CPGRAMS | Administrative platform | Registration, routing, tracking, feedback and appeal for public grievances |
+| Social audit | Statutory for MGNREGA through section 17 and 2011 Rules | Community verification plus public hearing and follow-up |
+
 ## 7. The implementation triangle
 
 ```text
@@ -167,7 +178,21 @@ Implementation weakens when any one side fails:
   relevant topic: social capital (`04`), e-governance (`05`), citizen-centric
   administration (`07`), personnel administration (`09`) or local governance (`12`).
 
-## 9. Mains answer spine
+## 9. Legal and implementation status ladder
+
+```text
+PROPOSAL -> BILL -> ENACTED ACT -> COMMENCEMENT NOTIFICATION -> RULES
+  -> BODY CONSTITUTED -> MEMBERS APPOINTED -> SYSTEM OPERATIONAL
+  -> IMPLEMENTATION EVIDENCE -> EVALUATED OUTCOME
+```
+
+- A statute on the books may not be in force (Whistle Blowers Protection Act, 2014).
+- A body may be legally constituted while appointments remain pending (DPBI status
+  verified from MeitY material to 21 July 2026).
+- A portal may be operational but non-adjudicatory (CPGRAMS).
+- A commission recommendation is neither a rule nor implementation evidence.
+
+## 10. Mains answer spine
 
 1. **Define the governance problem precisely** rather than beginning with a scheme list.
 2. **Locate the failure stage:** design, capacity, delivery, accountability or learning.
@@ -179,11 +204,23 @@ Implementation weakens when any one side fails:
    efficiency versus inclusion, data use versus privacy.
 6. **Recommend a correction with a safeguard and measurable outcome.**
 
-## 10. Study sequence
+### Evaluation criteria for any governance mechanism
+
+Use **L-A-C-E-F-I**: legality/status, accessibility, capacity, enforceability,
+federal fit and inclusion/privacy. Advanced answers should additionally test
+independence, incentives, data quality, feedback use and unintended effects.
+
+### Essay linkage from the audited 2024-2025 papers
+
+- **"Give him power" (2024):** use delegated discretion, audit and answerability.
+- **"Cost of being wrong..." (2024):** use pilots, reversible design and learning loops.
+- **Social-media/FOMO (2024):** use platform accountability, child/user safeguards and
+  privacy-by-design.
+
+## 11. Study sequence
 
 1. Read `01-02` to build the conceptual and policy-cycle foundation.
 2. Read `03-04` to understand the development ecosystem beyond government.
 3. Read `05-08` as the citizen-state interface block.
 4. Read `09-11` as the administrative-capacity and regulation block.
 5. Read `12-15` as the delivery, participation and feedback block.
-

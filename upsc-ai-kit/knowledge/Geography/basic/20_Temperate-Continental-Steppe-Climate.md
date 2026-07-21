@@ -37,7 +37,8 @@
 
 ## 3. Natural Vegetation & Soils
 
-✅ Natural cover is **grassland**, practically treeless because rainfall is too low and the regions are remote from maritime moisture. ✅ Grass is shorter toward the desert margin and taller toward the wetter margin. ✅ Mid-latitude grasslands are known for **nutritious grasses**.
+✅ Natural cover is grassland, with tree scarcity controlled by seasonal moisture deficit,
+continentality, fire, grazing and soil conditions—not by “remoteness from the sea” alone. ✅ Grass is shorter toward the desert margin and taller toward the wetter margin. ✅ Mid-latitude grasslands are known for **nutritious grasses**.
 
 ✅ Steppe/prairie soils such as **chernozem / black earth** are humus-rich because of grass decay and are among the most fertile agricultural soils.
 
@@ -83,7 +84,9 @@
 
 ## 7. 📰 Current link
 
-📰 **Black Sea breadbasket, war and global food security (2025–26):** The Black Sea steppe — **Ukraine + Russia** — again dominated global wheat markets. Russia was projected at **~88–90 mt**, near-record; Ukrainian exports were down **~15% YoY** due to war-damaged logistics. Global wheat stocks-to-use ratios were the tightest since **2013**, leaving North Africa and Middle East importers exposed to any Black Sea shock. The region’s chernozem steppes remain among the world’s most productive wheat lands.
+📰 **Black Sea breadbasket and war:** Ukraine and Russia remain major grain exporters, so conflict,
+weather, ports and insurance affect world food prices. Production, export and stocks-to-use figures are
+volatile; quote the marketing year and FAO/USDA source.
 
 ## 8. Mains angles
 

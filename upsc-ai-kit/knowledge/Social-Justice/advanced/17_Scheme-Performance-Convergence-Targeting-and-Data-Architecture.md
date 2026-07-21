@@ -6,7 +6,7 @@
 > gaps; outcome-learning loop.
 > **Grounded in:** NSAP; SECC 2011; NFHS-5 (2019-21); PLFS; NCRB; SDG India Index; MPI;
 > DMEO/OOMF (Governance/15); DBT/PFMS/SNA (Governance/13); 2027 Census caste-enumeration
-> decision (Topic 09).
+> decision and 2026 operations (Topic 09); Economic Survey 2025-26.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md`.*
 
@@ -41,8 +41,8 @@ TARGETING DATABASE LAYER            DELIVERY LAYER              OUTCOME LAYER
                          v                                              v
         DATA-ARCHITECTURE GAP <────────────────────────────────────────┘
         - SECC caste data unreleased
-        - 2027 Census caste enumeration approved (Topic 09)
-        - No unified beneficiary registry across ministries
+        - Census 2027 caste enumeration approved; operations begun, no results (Topic 09)
+        - No universally interoperable, continuously updated registry
 ```
 
 **Analytical claim:** ⚠️ Social-sector schemes face three interlocking failure modes:
@@ -51,15 +51,21 @@ TARGETING DATABASE LAYER            DELIVERY LAYER              OUTCOME LAYER
 (3) outcome-learning gaps when administrative dashboards are not triangulated with
 survey data and evaluation findings are not fed back into redesign.
 
+✅ **Economic Survey 2025-26 linkage:** The Survey notes that cash transfers can improve
+short-term consumption and food security without consistently improving child nutrition,
+education or durable poverty exits when complementary public services and work
+opportunities are absent. It supports a convergence argument, not a claim that transfer
+coverage alone proves social-sector success.
+
 ## 2. Concepts and distinctions
 
 | Concept | Precise meaning |
 |---|---|
 | ⚠️ **Universalism-targeting trade-off** | Universalism minimises exclusion error but increases fiscal cost and may include non-poor; targeting minimises inclusion error but increases exclusion risk and documentation burden — no first-best; optimal mix depends on programme type (Topic 01 link). |
-| ⚠️ **SECC vs Aadhaar vs state lists** | SECC identifies deprivation-based eligibility; Aadhaar verifies identity and enables de-duplication; state caste/tribe lists confer group-based eligibility — three distinct functions, often conflated. |
+| ⚠️ **SECC vs Aadhaar vs state lists** | SECC supplies dated deprivation proxies; Aadhaar can support identity/de-duplication; state caste/tribe lists confer group-based eligibility. They have distinct functions, and no one should silently substitute for a current needs assessment, consent/notice or grievance route. |
 | ⚠️ **Output vs outcome vs impact** | Output: immediate product (meals served); outcome: medium-term change (nutritional status); impact: long-term capability (cognitive development) — administrative data typically captures outputs, surveys capture outcomes, evaluations estimate impact. |
 | ⚠️ **Horizontal vs vertical convergence** | Horizontal: coordination across ministries at the same level (Centre-Centre or State-State); vertical: coordination across levels (Centre-State-District-Block) — both are necessary for household-level convergence. |
-| ⚠️ **Data-architecture gap** | The absence of a unified, updatable beneficiary registry linking targeting, delivery and outcome data across schemes and ministries — SECC is static (2011), and no real-time registry exists. |
+| ⚠️ **Data-architecture gap** | SECC is static (2011) and registries/eligibility rules remain fragmented across schemes. The policy challenge is not merely to centralise data, but to achieve interoperable, updated records with purpose limitation, human correction and access safeguards. |
 
 ## 3. Detailed causal chains and failure modes
 
@@ -78,8 +84,8 @@ survey data and evaluation findings are not fed back into redesign.
 
 ### Convergence failure chain
 1. **Silo design:** Each ministry designs schemes with its own eligibility database
-   (SECC for MoRD, e-Shram for MoLE, NFHS sampling for MoHFW evaluation) — no common
-   beneficiary ID across schemes.
+   (SECC for MoRD, e-Shram for MoLE, NFHS sampling for MoHFW evaluation) — no universally
+   interoperable beneficiary record across schemes.
 2. **Frontline fragmentation:** Different cadres (AWW, ASHA, Panchayat secretary,
    agricultural extension) serve different schemes; no single worker has a household-
    wide view.
@@ -100,15 +106,16 @@ survey data and evaluation findings are not fed back into redesign.
 
 ## 4. Institutional and reform architecture
 
-- ✅ **NSAP (MoRD):** Social-assistance umbrella; central contribution fixed; states may
-  top up; eligibility linked to BPL/SECC criteria.
+- ✅ **NSAP (MoRD):** Social-assistance umbrella; central contribution is fixed and
+  States may top up. Eligibility is administered through BPL/State targeting routes,
+  which must be specified rather than assumed to be one current SECC list.
 - ✅ **SECC 2011 (MoRD):** Static targeting database; no update since 2011; caste data
   collected but unreleased.
 - ✅ **DMEO (NITI Aayog):** Evaluation and monitoring; OOMF mandates output-outcome
   statements in Budget documents (cross-link `Governance/basic/15`).
-- ⚠️ Recommended reform: create a unified, Aadhaar-linked beneficiary registry updated
-  in real time as schemes enrol beneficiaries — enabling cross-ministry convergence
-  tracking.
+- ⚠️ Recommended reform: build a federated, purpose-limited interoperability layer with
+  updated beneficiary records, human-assisted correction, audit trails and non-digital
+  access — not an unchecked all-purpose Aadhaar-linked registry.
 - ⚠️ Recommended reform: mandate outcome-linked Budget allocations — incremental funding
   contingent on evaluation-verified outcome improvement, not merely coverage expansion.
 - ⚠️ Recommended reform: assign District Collectors explicit convergence authority with
@@ -125,8 +132,9 @@ survey data and evaluation findings are not fed back into redesign.
 
 ## 6. Limitations and trade-offs
 
-- ⚠️ Real-time beneficiary registries improve convergence but raise privacy and data-
-  protection concerns; the balance requires statutory safeguards.
+- ⚠️ Real-time beneficiary interoperability can improve convergence but raises privacy,
+  profiling and exclusion risks; purpose limitation, access/correction, audit and
+  offline-assisted options are substantive safeguards, not afterthoughts.
 - ⚠️ Outcome-linked funding creates accountability but may penalise states with harder-
   to-reach populations (PVTG areas, conflict zones).
 - ⚠️ SECC update would improve targeting but is a massive logistical exercise; the
@@ -134,8 +142,9 @@ survey data and evaluation findings are not fed back into redesign.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ SECC 2011 collected caste data, but it was never officially released or used for
-  policy; the Cabinet approved 2027 Census caste enumeration on 30 April 2025.
+- ✅ SECC 2011 caste data was not released/validated for general policy use. CCPA approved
+  caste enumeration for Census 2027 on 30 April 2025; operations have begun but results
+  are not available as at 21 July 2026.
 - ✅ DMEO (Development Monitoring and Evaluation Office) is housed in NITI Aayog and
   coordinates third-party evaluations.
 - ✅ OOMF (Output-Outcome Monitoring Framework) is a Budget-document requirement
@@ -154,10 +163,11 @@ survey data and evaluation findings are not fed back into redesign.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The 2027 Census caste enumeration decision (30 April 2025, Gazette 16 June 2025)
-  may reshape future targeting databases; full treatment in `basic/09`.
-- 📰 NFHS-6 (2023-24) was officially released on 29 May 2026; retain the survey
-  round for every indicator and do not mix NFHS-5 and NFHS-6 values.
+- 📰 **Census 2027 (21 July 2026):** Caste enumeration is approved and first-phase
+  houselisting is notified for 1 April–30 September 2026, but no results are available.
+  Full treatment: `basic/09`.
+- 📰 **NFHS status:** NFHS-5 (2019-21) remains the latest published national round; do
+  not mix its values with an unreleased NFHS-6.
 - ⚠️ No direct GS-II Mains PYQ in 2024-2025 on NSAP, SECC or convergence; the conceptual
   framework is foundational and will recur.
 
@@ -184,8 +194,8 @@ beneficiary registry, district-level convergence authority and outcome-linked fu
 4. **Diagnose convergence failures:** different eligibility DBs, ministries, cadres;
    no district-level coordination.
 5. **Triangulate outcome data:** administrative dashboard vs NFHS/PLFS/SDG/MPI.
-6. **Recommend correction loop:** unified registry, DMEO evaluation feedback,
-   outcome-linked allocation.
+6. **Recommend correction loop:** rights-respecting interoperability, DMEO evaluation
+   feedback and outcome-linked allocation that does not punish hard-to-reach populations.
 
 ## 12. Probable questions
 

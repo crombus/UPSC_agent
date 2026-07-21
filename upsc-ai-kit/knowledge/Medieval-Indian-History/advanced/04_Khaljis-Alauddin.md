@@ -29,7 +29,7 @@
 **Deeper — agrarian reform as the base of price control.**
 
 ✅ Alauddin's **market control could not work without agrarian reform**. In the **doab**, he abolished intermediary claims and had the state deal directly with cultivators: revenue was assessed by **measurement (masahat)** at **half (50%) of the produce**, plus grazing and house taxes, and the **privileges of the khuts, muqaddams and chaudhris** (rural intermediaries) were sharply curtailed so they could **no longer pass their burden onto the weak**.
-- ✅ Because doab revenue was collected largely **in kind/cash and channelled to Delhi**, the state itself became the great grain-dealer, underwriting the fixed **grain price** in the capital.
+- ✅ Part I records internally different regulations: assessment was calculated in kind and generally demanded in cash, while tracts near Delhi supplied part of the demand in kind to royal stores. Chandra therefore concludes that *kharaj* was taken in both cash and kind in practice.
 - ✅ A specialised bureaucracy — **Diwan-i-Riyasat** (market ministry) under a **shahna-i-mandi**, with registers, spies and price-lists — enforced the schedule; **banjaras** were organised and made collectively responsible for haulage.
 
 ## 2. Key classification / data
@@ -42,6 +42,8 @@
 | ✅ Intelligence (munhiyan/barids) | Spies report violations to Sultan | Deter hoarding, short-weighing, black-market |
 | ✅ Banjaras organised | Collective responsibility for grain haulage | Guarantee steady cheap supply to capital |
 | ⚠️ Market segmentation | Grain mandi · cloth (Sarai-i-Adl) · horse/cattle/slave | Category-specific control |
+
+> **Source caution:** Barani's regulations do not always describe a single perfectly implemented system; use them to reconstruct policy while retaining Chandra's warning about contradiction, exaggeration and uneven enforcement.
 
 ## 3. Study links
 
@@ -67,7 +69,7 @@
 
 ## 6. 📰 Current link
 
-- 📰 **Siri — Alauddin's "second city" of Delhi (c. 1303) — and administered-price parallels.** Siri Fort was raised (c. 1303) as a fortified capital and garrison against the **Mongols**; it survives only as ruins under ASI protection amid South Delhi's urban sprawl (Siri Fort complex). Relevance: it anchors the **Mongol-threat → standing-army → market-control** logic in the built landscape. ⚠️ Economics hook: Alauddin's fixed-price schedule is the classic Indian precedent invoked in debates on **administered pricing / price controls** (e.g., essential-commodity and MSP-style state intervention) — useful as a historical analogy in GS-3 economy answers.
+📰 **Current linkage (verify live before use):** Siri's surviving landscape can anchor the Mongol-threat → standing-army → market-control chain. Modern administered-price policy is only an analogy; do not equate a coercive capital-centred medieval system with contemporary welfare or regulatory economics.
 
 ## 7. Mains angles
 

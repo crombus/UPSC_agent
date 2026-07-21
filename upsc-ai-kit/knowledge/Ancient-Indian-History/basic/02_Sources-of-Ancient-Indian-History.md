@@ -31,6 +31,8 @@
 - ✅ Coins and inscriptions are usually closer to administration, economy, rulers, religion and language.
 - ✅ Foreign accounts are useful but must be checked for outsider bias and limited observation.
 - ✅ Linguistic antiquity helps trace language histories, but language cannot be equated mechanically with race.
+- ✅ **Numismatics** is the study of coins; **epigraphy** studies inscriptions; **palaeography** studies old scripts. These disciplines help establish rulers, language, chronology and circulation.
+- ✅ Vertical excavation is strong for cultural sequence/stratigraphy; horizontal excavation is needed to recover the plan and social organization of a settlement, but is costlier.
 
 ## 2. Key classification / data
 
@@ -56,6 +58,7 @@
 - ✅ Archaeology is crucial even where texts exist, especially for pre-Ashokan India.
 - ✅ Material remains include monuments and temples, not only tools and pottery.
 - ✅ Natural sciences and chronology are part of historical construction.
+- ✅ An artefact without secure findspot, layer and association loses much of its historical value; archaeological **context** is as important as the object.
 - ⚠️ Vedic texts are not archaeological evidence; pottery/site evidence must be separately established.
 
 ## 5. UPSC Traps
@@ -69,7 +72,7 @@
 
 ## 6. 📰 Current link
 
-📰 **ASI Epigraphy Branch, 2024–25:** ASI reported copying/documenting **1,000 inscriptions**, the highest such output in six decades — a live reminder that inscriptions remain a growing source-base, not a closed chapter.
+⚠️ **Current-link discipline:** Verify any annual epigraphy count from the relevant ASI report before citing it. The safe linkage is that newly copied, deciphered or re-dated inscriptions can revise local chronology.
 
 ## 7. Mains angles
 

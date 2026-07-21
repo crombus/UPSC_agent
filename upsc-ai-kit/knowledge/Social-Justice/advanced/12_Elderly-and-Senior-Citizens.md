@@ -6,8 +6,9 @@
 > pending Amendment Bill; AVYAY; SAGE; elder abuse typology; demographic transition;
 > geriatric-health integration; active ageing.
 > **Grounded in:** Maintenance and Welfare of Parents and Senior Citizens Act, 2007;
-> Amendment Bill 2019 (lapsed) and 2025 Bill (pending); AVYAY; SAGE; National Policy on
-> Older Persons (1999); Madrid International Plan of Action on Ageing (2002); Census
+> Amendment Bill 2019 (lapsed) and 2025 Private Members' Bills (pending); AVYAY; SAGE;
+> National Policy on Older Persons (1999), National Policy for Senior Citizens (2011);
+> Madrid International Plan of Action on Ageing (2002); Census
 > 2011; LASI (Longitudinal Ageing Study in India).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/12_Elderly-and-Senior-Citizens.md`.*
@@ -71,8 +72,8 @@ care models are under stress from urbanisation and nuclear-family trends.
 2. **Shifting family structure:** Urbanisation, migration and nuclear-family trends
    weaken traditional multi-generational co-residence, reducing informal care capacity.
 3. **Legal entitlement:** The 2007 Act creates a statutory maintenance obligation, but
-   enforcement is weak — Tribunal orders are often not complied with, and the maximum
-   cap (₹10,000/month) may be inadequate.
+   enforcement is weak — Tribunal orders may not be complied with, and the State-
+   prescribed allowance cannot exceed ₹10,000/month.
 4. **Welfare schemes:** AVYAY provides old-age-home support (IPSC), assistive devices
    (RVY) and helpline (Elderline), but coverage is limited relative to the ageing
    population's size.
@@ -82,26 +83,28 @@ care models are under stress from urbanisation and nuclear-family trends.
 6. **Elder abuse under-reporting:** Abuse occurs within family settings; victims often
    depend on abusers for care and housing; shame, loyalty and fear of abandonment
    inhibit reporting; data on prevalence is limited (LASI provides some estimates).
-7. **Proposed reforms:** The 2025 Amendment Bill proposes enhanced dignity definition,
-   higher penalties, income-deduction mechanisms — but is NOT yet enacted.
+7. **Proposed reforms:** 2025 Private Members' Bills propose changes such as a broader
+   dignity framing, higher penalties and more flexible maintenance. They are not enacted
+   law and must not be presented as a Government amendment.
 
 ## 4. Institutional and reform architecture
 
-- ✅ **2007 Act limitations:** Maximum maintenance cap (₹10,000/month) is low; Tribunal
-  orders lack strong enforcement teeth; property-revocation remedy requires legal
-  process; old-age-home establishment remains discretionary for states.
+- ✅ **2007 Act limitations:** The State-prescribed maintenance allowance cannot exceed
+  ₹10,000/month; Tribunal orders need enforcement; and the property remedy requires the
+  statutory transfer condition. The Act directs at least one 150-capacity indigent-senior
+  home per district, but functionality can still lag.
 - ✅ **2019 Bill (lapsed):** Proposed broader dignity definition (life of dignity
   includes protection from abuse), enhanced penalties for abandonment/abuse, direct
   deduction of maintenance amount from the paying relative's salary/income; lapsed
   with dissolution of the 16th Lok Sabha.
-- ✅ **2025 Bill (pending):** Reintroduced with similar provisions in both Houses of
-  Parliament; as of mid-2026, not yet passed or enacted. These provisions are not
-  current law — the 2007 Act (without these proposed enhancements) remains in force.
-- ✅ **AVYAY components:** IPSC (grants to NGOs/state govts for old-age homes, day-care,
-  multi-service centres); RVY (free assistive devices — hearing aids, spectacles,
-  walking sticks, dentures — for BPL seniors, distributed through camps); Elderline
-  (national helpline, 14567, providing information, grievance redressal, emergency
-  response).
+- ✅ **2025 Private Members' Bills (pending):** Introduced separately in both Houses;
+  neither is a Government amendment nor enacted as at 21 July 2026. The 2007 Act remains
+  in force.
+- ✅ **AVYAY components:** IPSC (grants to NGOs/state governments for old-age homes,
+  day-care and multi-service centres); RVY (ALIMCO aids/devices for eligible 60+ seniors
+  with age-related infirmity who are BPL or have family income up to ₹15,000/month under
+  current guidelines); Elderline (national helpline 14567 for information, grievance
+  redress and emergency response).
 - ⚠️ **SAGE:** Supports elderly-care start-ups through a curated marketplace and
   incubation; aims to foster private-sector innovation in eldercare products/services;
   specific participant numbers are periodically updated and not asserted here.
@@ -120,9 +123,9 @@ care models are under stress from urbanisation and nuclear-family trends.
 
 ## 6. Limitations and trade-offs
 
-- ⚠️ **Maintenance cap:** ₹10,000/month may be inadequate in urban areas with high
-  living costs; the pending Amendment Bill proposes raising or removing the cap, but
-  is NOT enacted.
+- ⚠️ **Maintenance cap:** The Act's ₹10,000 ceiling may be inadequate in high-cost
+  settings; 2025 Private Members' proposals are not enacted and cannot be cited as a
+  raised/removal of the cap.
 - ⚠️ **Enforcement gap:** Tribunal orders lack strong enforcement mechanisms; defaulters
   may ignore orders; penalties are rarely imposed.
 - ⚠️ **Formal-care stigma:** Old-age homes carry social stigma in many communities;
@@ -148,9 +151,8 @@ care models are under stress from urbanisation and nuclear-family trends.
 
 ## 8. Advanced Prelims traps
 
-- ❌ The 2025 Amendment to the Maintenance and Welfare of Parents and Senior Citizens
-  Act is now in force. -> ✅ The 2025 Bill has been introduced but NOT yet passed/
-  enacted; the 2007 Act (unamended) remains current law.
+- ❌ A 2025 Government amendment to the Act is in force. -> ✅ The 2019 Government Bill
+  lapsed; 2025 Private Members' Bills are not enacted, so the 2007 Act remains current law.
 - ❌ India's elderly population is declining as a share of total population. -> ✅
   India's 60+ population share is rising (demographic transition) — ageing is a growing
   policy priority.
@@ -162,11 +164,9 @@ care models are under stress from urbanisation and nuclear-family trends.
 
 - ✅ The Maintenance and Welfare of Parents and Senior Citizens (Amendment) Bill, 2019
   lapsed with the dissolution of that Lok Sabha.
-- ✅ A fresh version of the Amendment Bill was introduced in 2025 in both Houses of
-  Parliament.
-- ⚠️ As of the most recent available information, this 2025 Bill has NOT been passed/
-  enacted. The 2007 Act is the current law in force; the proposed amendments are
-  not yet law.
+- ✅ Private Members' Bills were introduced in both Houses in 2025.
+- ⚠️ Neither was enacted as at 21 July 2026. The 2007 Act is current law; the proposed
+  changes are not law.
 - ⚠️ Demographic projections for India's 60+ population vary by source; exact figures
   are not asserted here. The durable fact is that ageing is a growing policy priority.
 
@@ -175,7 +175,7 @@ care models are under stress from urbanisation and nuclear-family trends.
 - ⚠️ There is no confirmed direct 2024 or 2025 GS-II Mains PYQ specifically on elderly
   welfare in the audited local PYQ texts. A strong Mains answer should: (a) cite the
   2007 Act's architecture (maintenance, Tribunals, property remedy) and its limitations,
-  (b) distinguish enacted law from pending reforms (2025 Bill — NOT enacted), (c) map
+  (b) distinguish enacted law from pending 2025 Private Members' Bills, (c) map
   AVYAY's components, (d) flag the elder-abuse under-reporting challenge, and (e)
   cross-link geriatric-health integration to the health-system topic.
 
@@ -183,7 +183,8 @@ care models are under stress from urbanisation and nuclear-family trends.
 
 **Central thesis:** India's demographic transition toward an ageing population creates
 rising demand for elderly welfare, but the current response — a 2007 Act with enforcement
-gaps, scheme-based welfare under AVYAY, and a pending (not enacted) Amendment Bill — is
+gaps, scheme-based welfare under AVYAY, and pending (not enacted) Private Members' Bills —
+is
 fragmented; effective policy requires integrating legal entitlements with geriatric-
 health services, strengthening formal care infrastructure, addressing elder-abuse under-
 reporting, and enabling active ageing rather than mere protection.
@@ -191,7 +192,8 @@ reporting, and enabling active ageing rather than mere protection.
 1. **Frame the demographic context:** Rising 60+ population share, old-age dependency
    ratio shifting, informal-care capacity under stress.
 2. **Outline the legal foundation:** 2007 Act (maintenance, Tribunals, property remedy);
-   note limitations (cap, enforcement); distinguish from pending 2025 Bill (NOT enacted).
+   note limitations (cap, enforcement); distinguish from pending 2025 Private Members'
+   Bills (not enacted).
 3. **Map welfare components:** AVYAY (IPSC, RVY, Elderline), SAGE (innovation support).
 4. **Identify cross-cutting gaps:** Geriatric-health integration (cross-link Topic 03),
    elder-abuse detection (data scarcity, under-reporting), formal-care stigma.

@@ -1,7 +1,7 @@
 # Mineral & Energy Resources: Classification, World Belts & Strategic Significance — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (world/general-concept) · **GS Paper:** GS-I & GS-III
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + standard world economic-geography framing.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong's rock/climate foundations + verified dated current-affairs anchor.
 > **Data caution:** ✅ Distribution patterns are static-textbook geography; production rankings and reserve shares change over time and should not be treated as current unless separately updated.
 > ✅ = grounded source · ⚠️ = synthesis / exam heuristic · 📰 = verified dated current-affairs anchor.
 > *Companion: `advanced/31_Mineral-Energy-Resources-World-and-India.md`.*
@@ -40,7 +40,7 @@
 |---|---|
 | ✅ Shield / igneous-metamorphic terrain | Metallic ores such as iron, manganese, copper |
 | ✅ Sedimentary basins | Coal, petroleum, natural gas |
-| ✅ Fold belts / tectonic activity | Oil, gas, geothermal potential |
+| ✅ Fold belts / active tectonic zones | Geothermal and metallic-mineral potential; hydrocarbons require suitable sedimentary basins |
 | ✅ Tropical weathering / lateritisation | Bauxite concentration in suitable terrains |
 | ✅ River / coastal transport access | Easier industrial use and export |
 
@@ -63,7 +63,7 @@
 
 ## 6. Resource use and industrial location
 
-✅ D.R. Khullar's economic-geography logic repeatedly shows that minerals matter not only at the mine site but along a chain: **extraction -> transport -> processing -> power -> industrial clustering**.
+✅ Majid Husain's economic-geography treatment shows that minerals matter not only at the mine site but along a chain: **extraction -> transport -> processing -> power -> industrial clustering**.
 
 | Resource | Common location pull |
 |---|---|

@@ -1,7 +1,7 @@
 # Regional Development and Five-Year Plans in India — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-II
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + verified NITI Aayog / PIB references on planning transition, Aspirational Districts Programme and SDG India Index.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified NITI/PIB current anchor.
 > ✅ = from source book or official source · ⚠️ = inference / standard synthesis · 📰 = current affairs.
 > *Companion: `basic/29_Regional-Development-and-Five-Year-Plans.md`.*
 
@@ -62,7 +62,7 @@
 | ✅ Aspirational Districts Programme | 112 districts; launched Jan 2018 | District-scale regional targeting |
 | ✅ Aspirational Blocks Programme | Added later to deepen sub-district targeting | Finer-grained territorial planning |
 | ✅ SDG India Index 2023-24 | India score 71; 32 States/UTs in front-runner category | Development is now benchmarked territorially |
-| ✅ 2025 review move | NITI initiated impact evaluation of ADP/ABP in 2025 | Shift from slogan to measurement |
+| ✅ Dashboard/periodic evaluation | ADP/ABP are monitored through territorial indicators | Shift from allocation alone to outcomes |
 
 ## 6. Debate: did India move from “plans” to “indices”?
 
@@ -93,15 +93,16 @@
 
 ## 9. 📰 Current link
 
-### CA Anchor — SDG India Index 2023-24 and the 2025 review of Aspirational Districts
+### CA Anchor — Aspirational Districts and territorial dashboards
 
-📰 **News trigger:** NITI's July 2024 SDG India Index lifted India's score to **71**, and in 2025 the government moved to evaluate the Aspirational Districts and Aspirational Blocks programmes more systematically.
+📰 **News trigger:** NITI's Aspirational Districts/Blocks dashboards keep district and block outcomes at
+the centre of regional planning, distinct from the basic file's broad SDG-era inequality lens.
 
 | Current fact | Static concept | Answer use |
 |---|---|---|
 | ✅ India score 71 in SDG India Index 2023-24 | Regional development is now measured through territorial indicators | Good opening line |
 | ✅ 112 Aspirational Districts since 2018 | Lagging-region targeting remains central | Good district-scale example |
-| ✅ 2025 evaluation push | Monitoring and outcomes now matter as much as allocation | Useful evaluative point |
+| ✅ Indicator-based monitoring | Outcomes matter alongside allocation | Useful evaluative point |
 | ⚠️ Planning has shifted from plan documents to dashboards and mission platforms | New form of regional planning | Strong conclusion |
 
 ## 10. Mains angles

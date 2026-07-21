@@ -31,6 +31,7 @@
 - ✅ Adamgarh (MP) and Bagor (Rajasthan) provide early evidence for domestication of animals around **5000 BC**.
 - ✅ Sambhar deposits suggest plant cultivation around **7000–6000 BC** in Rajasthan.
 - ✅ Bhimbetka is a key rock-art and prehistoric occupation site.
+- ⚠️ **Chronology caution:** Upinder Singh's updated discussion records the Acheulian-to-Middle-Palaeolithic transition at Attirampakkam at about **385 ± 64 thousand years ago**. Retain R.S. Sharma's 600,000–150,000 BC band as his textbook chronology, not as the last word for every region.
 
 ## 2. Key classification / data
 
@@ -69,7 +70,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Bhimbetka absolute-dating project (2024–25):** ASI initiated work to establish more precise dates for Bhimbetka rock shelters, strengthening the Stone Age evidence base beyond relative chronology.
+⚠️ **Current-link discipline:** Cite a new Bhimbetka dating or conservation project only from its official report. The safe linkage is the continuing use of absolute dating and conservation science in prehistoric research.
 
 ## 7. Mains angles
 

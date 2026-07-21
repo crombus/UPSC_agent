@@ -30,6 +30,7 @@
 **Advanced — Achaemenid and Macedonian contact as frontier history.**
 
 ✅ The Achaemenid link matters because it inserted the north-west into an imperial zone before Alexander. Kharoshthi's relationship with Aramaic is one durable sign of that contact.
+- ✅ R.S. Sharma also traces Iranian influence in some Mauryan capital forms and epigraphic vocabulary; present this as selective adaptation within an Indian imperial idiom, not simple copying.
 - ✅ Alexander's campaign exposed the subcontinent to Hellenistic strategic geography, but political control was shallow.
 - ✅ Greek settlements and later Indo-Greek coinage/art belong to the longer story of contact, not merely to Alexander's stay.
 - ⚠️ UPSC-safe conclusion: avoid both extremes — neither "Alexander conquered India" nor "Alexander had no impact at all".
@@ -70,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **India–USA Cultural Property Agreement follow-up, 2025:** Ministry updates on antiquities protection after the 2024 agreement keep **provenance research** in news. For this topic, the hook is methodological: objects from the north-west often carry layered Achaemenid, Hellenistic, Indo-Greek and Indian contexts.
+⚠️ **Current-link discipline:** Verify the status and scope of a cultural-property agreement from the treaty/official release. The safe linkage is provenance research for artefacts with layered Achaemenid, Hellenistic and Indian contexts.
 
 ## 7. Mains angles
 

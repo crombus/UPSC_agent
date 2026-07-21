@@ -1,7 +1,7 @@
 # Economic Impact of British Rule — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* (Ch. XI) + *India's Struggle for Independence* (backdrop) — with the historiographical debate on colonial economy.
+> **Grounded in:** Bipan Chandra, *Modern India* (Ch. XI) + *India's Struggle for Independence* (Chs. 2–3), cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partition* — with the historiographical debate on colonial economy.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/07_Economic-Impact-of-British-Rule.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -37,6 +37,7 @@
 - ✅ Commercialisation of agriculture connected peasants to global markets through cash crops such as indigo and cotton, but often increased vulnerability to price shocks and coercive intermediaries.
 - ✅ Railways, telegraph and canals aided movement and communication, but were designed primarily for troop movement, export of raw materials, import of manufactures and returns to British capital.
 - ⚠️ The paradox is crucial: colonial rule introduced modern infrastructure while blocking autonomous industrial transformation.
+- ✅ Regional protest reveals distinct causal chains: coercive indigo contracts produced the **Indigo Revolt (1859–60)**; rent enhancement and insecure occupancy produced the largely legal-organisational **Pabna movement (1873–76)**; cotton-price collapse, revenue pressure and debt produced the **Deccan Riots (1875)**.
 
 ## 2. Key classification / data
 
@@ -48,6 +49,7 @@
 | ⚠️ Drain quantification debate | Exact amount disputed, mechanism broadly significant | Economic-history debate |
 | ✅ Colonial modernisation | Railways/telegraph/canals built for empire but had unintended integrative effects | Standard survey synthesis |
 | ✅ Agrarian restructuring | Permanent, Ryotwari, Mahalwari settlements reshaped property and revenue | Bipin Chandra survey |
+| ✅ Peasant agency | Indigo refusal, Pabna leagues/rent strikes, Deccan attacks on debt bonds | Movements targeted immediate exploiters; anti-colonial consciousness was uneven |
 
 ## ➕ Exact PYQ application (2024 GS-I)
 
@@ -82,6 +84,7 @@
 - ✅ **Mahalwari**: Holt Mackenzie and R.M. Bird; village or mahal community; North-Western Provinces, Punjab and parts of Central India.
 - ✅ **Great Bengal Famine, 1770** and famines of **1876–78** and **1896–1900** are key markers of colonial vulnerability.
 - ✅ **Strachey Commission, 1880** is associated with famine administration after the late-1870s famine.
+- ✅ **Indigo (1859–60)** relied on collective refusal; **Pabna (from 1873)** used agrarian leagues and courts; **Deccan (1875)** focused on moneylenders and debt documents.
 - ⚠️ Infrastructure under colonial rule had dual effects: imperial extraction by design, national integration as an unintended outcome.
 
 ## 5. UPSC Traps

@@ -26,6 +26,7 @@
 
 ✅ Satish Chandra explicitly treats Aurangzeb's character as **complex**: an orthodox ruler who wanted to remain within Islamic law, but also a Timurid sovereign who could use secular decrees (*zawabit*) and choose between legal opinions when raison d'etat required it.
 - ✅ His puritanical measures — bans on intoxicants, closer association with ulama, reimposition of **jizyah**, and restrictions affecting temples — failed to rally Muslims or create deeper loyalty to an Islamic-law state.
+- ✅ Chandra highlights a contradiction: Aurangzeb formally accepted the *sharai* principle protecting old temples of *zimmis*, yet permitted destruction of many old-standing temples before 1687. Neither blanket exoneration nor a claim of uniform empire-wide destruction fits the evidence.
 - ✅ Chandra notes corruption and grasping behaviour among some ulama/qazis appointed in the jizyah apparatus, weakening the political utility of this policy.
 - ✅ The reimposition of jizyah alienated sections of Hindus and strengthened groups already opposed to the empire, but Chandra also says religion by itself was not the point at issue in the empire's decline.
 
@@ -72,7 +73,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Supreme Court's December 2024 nationwide restraint on fresh/pending religious-site survey suits (reported by The Hindu and others):** courts were told not to pass further orders while Places of Worship Act challenges were pending. **Relevance:** illustrates why historical claims about medieval religious policy require careful source-based, legally aware treatment.
+📰 **Current linkage (verify live before use):** Religious-site litigation illustrates why provenance, chronology and legal status must be kept distinct. Verify the latest Supreme Court order before citing it and avoid converting litigation allegations into historical facts.
 
 ## 7. Mains angles
 

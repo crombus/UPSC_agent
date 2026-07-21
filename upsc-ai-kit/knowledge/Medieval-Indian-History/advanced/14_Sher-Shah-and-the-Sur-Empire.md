@@ -37,6 +37,7 @@
 - ✅ His *zabt* measured sown land, classified land into good/middling/bad, computed average yield, and set state share generally at one-third.
 - ✅ Local headmen and zamindars remained involved in assessment and collection; the medieval state did not create a modern direct ryotwari system.
 - ✅ His personal over-centralisation was a weakness; after a masterful sovereign disappeared, the system strained.
+- ✅ Part II locates sarais at two *karohs* (four miles), not at a universal modern kilometre equivalent; retain the historical unit where precision matters.
 
 ## 2. Key classification / data
 
@@ -76,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-- 📰 **Rohtasgarh ropeway collapse (2025/26)** — Vajiram/Clarity UPSC reported safety reviews after a ropeway project near Rohtasgarh Fort collapsed during testing; relevance: Sher Shah-era fort heritage meets modern tourism-infrastructure governance.
+📰 **Current linkage (verify live before use):** Tourism infrastructure near Rohtas/Rohtasgarh can connect fort heritage with safety and conservation. Verify which fort is involved—Rohtas in present-day Pakistan and Rohtasgarh in Bihar are distinct sites.
 
 ## 7. Mains angles
 
@@ -87,4 +88,3 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ Abbas Khan Sarwani is valuable but often romanticises Sher Shah. Use Satish Chandra's caution: admire administrative results without ignoring political duplicity and structural limits.
-

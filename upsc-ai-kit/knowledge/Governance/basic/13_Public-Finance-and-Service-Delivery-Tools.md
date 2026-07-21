@@ -39,20 +39,19 @@ the overarching procedural rulebook governing government expenditure,
 procurement and financial management that DBT/PFMS/SNA operate within
 ```
 
-**Core proposition:** ✅ India's financial-flow tools form a layered stack — identity/
-payments foundation (JAM), targeted transfer mechanism (DBT), fund-flow tracking (PFMS) and
-release discipline (SNA) — all operating within the GFR's overarching procedural framework,
-collectively aimed at reducing leakage and improving service-delivery efficiency in public
-expenditure.
+**Core proposition:** ✅ India's financial-flow tools form a layered stack — JAM, DBT,
+PFMS and the evolving SNA/SNA-SPARSH CSS release architecture — within GFR 2017. Each solves
+a different problem and must be evaluated for payment failure, exclusion, state integration
+and reconciliation, not only leakage reduction.
 
 ## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **JAM Trinity** | The combination of Jan Dhan (universal bank-account access), Aadhaar (unique identity) and Mobile connectivity that together provide the technical foundation for targeted, verifiable digital benefit transfer at population scale. |
-| ✅ **Direct Benefit Transfer (DBT)** | The transfer of government subsidies/benefits directly into a verified beneficiary's bank account (often Aadhaar-linked for identity verification), replacing physical/in-kind or intermediary-routed disbursal to reduce diversion and duplicate/ghost beneficiaries. |
+| ✅ **Direct Benefit Transfer (DBT)** | A delivery reform covering cash transfers to individual accounts, in-kind benefits delivered through authenticated systems, and certain transfers to service enablers. DBT is therefore broader than bank-credit alone, though cash DBT is its most visible form. |
 | ✅ **PFMS (Public Financial Management System)** | A Department of Expenditure system that tracks the flow of government funds — from budgetary sanction through release to implementing agencies to actual expenditure/utilisation — providing real-time visibility into fund use across schemes. |
-| ✅ **Single Nodal Agency (SNA) model** | A fund-flow arrangement (introduced for centrally sponsored schemes) requiring each state to designate one nodal agency/bank account through which central scheme funds flow, enabling "just-in-time" release linked to actual expenditure need rather than upfront lump-sum transfer, and improving visibility into unspent balances. |
+| ✅ **SNA model and SNA-SPARSH** | The 2021 SNA model used a designated agency/account structure for each CSS. The later SNA-SPARSH architecture integrates PFMS, State IFMIS and RBI e-Kuber for just-in-time release. Do not describe the older bank-account model as the whole current architecture. |
 | ✅ **General Financial Rules (GFR), 2017** | The Union government's consolidated rulebook governing financial management, budgeting, procurement and expenditure control across ministries/departments — the procedural backbone within which DBT, PFMS and SNA operate. |
 
 ## 3. How these tools function together (mechanism)
@@ -66,9 +65,8 @@ expenditure.
 3. **End-to-end tracking:** PFMS follows the fund from the point of budgetary release
    through implementing agencies down to actual utilisation, allowing real-time
    identification of idle/unspent balances and expenditure patterns across schemes.
-4. **Release discipline:** the SNA model prevents states from receiving and parking large
-   upfront central transfers in low-yield accounts; instead, funds are released "just in
-   time," linked to actual expenditure progress, improving fiscal discipline and visibility.
+4. **Release discipline:** the SNA model improved visibility over balances; SNA-SPARSH moves
+   further toward just-in-time release through PFMS-State IFMIS-RBI e-Kuber integration.
 5. **Procedural governance:** all these tools operate within the GFR, 2017's overarching
    rules on sanctioning, procurement and expenditure control, which set the baseline
    procedural requirements DBT/PFMS/SNA are designed to make more transparent and trackable.
@@ -80,8 +78,9 @@ expenditure.
   structure.
 - ✅ **PFMS (Department of Expenditure, Ministry of Finance)** — the central fund-tracking
   IT system used across a very large number of central and centrally sponsored schemes.
-- ✅ **Single Nodal Agency arrangement** — mandated for centrally sponsored schemes to
-  streamline state-level fund flow and release discipline.
+- ✅ **SNA-SPARSH** — Department of Expenditure's current just-in-time CSS mechanism. Official
+  2025 OMs scheduled expansion to all CSS in States/UTs with legislatures from
+  1 November 2025; actual onboarding/reconciliation should still be verified operationally.
 - ✅ **General Financial Rules, 2017** — the consolidated financial-management rulebook,
   periodically updated, most recently comprehensively revised in 2017.
 
@@ -93,20 +92,19 @@ expenditure.
   figure rises continuously as more schemes and years are covered; the durable, exam-safe
   proposition is that DBT's savings arise specifically from removing fake, duplicate and
   ineligible beneficiary entries, not from a one-time reported total.
-- ⚠️ The SNA model applied to a centrally sponsored scheme (e.g., a rural-development or
-  health mission) illustrates just-in-time release preventing large unspent balances from
-  sitting idle in state treasury accounts.
-- ⚠️ PFMS dashboards enabling a citizen or auditor to trace a specific scheme's fund flow
-  from Union release to district-level utilisation illustrates the transparency function
-  directly.
+- ⚠️ SNA-SPARSH applied to a CSS illustrates just-in-time release through integrated
+  financial systems, while also exposing implementation risks where State IFMIS/PFMS data
+  or contribution reconciliation is delayed.
+- ⚠️ PFMS provides sanction/payment and authorised management reporting, including "Know Your
+  Payment"; not every internal utilisation trail is necessarily public at beneficiary level.
 
 ## 6. Must-Know Facts for Prelims
 
 - ✅ JAM stands for Jan Dhan, Aadhaar and Mobile — the technical foundation for India's
   digital financial-inclusion and benefit-transfer architecture.
 - ✅ PFMS is administered by the Department of Expenditure, Ministry of Finance.
-- ✅ The Single Nodal Agency model requires each state to route central scheme funds through
-  one designated bank account for just-in-time release.
+- ✅ SNA and SNA-SPARSH are successive but distinct fund-flow designs; SNA-SPARSH uses
+  PFMS-State IFMIS-RBI e-Kuber integration for just-in-time release.
 - ✅ The General Financial Rules were comprehensively revised in 2017 and govern Union
   government financial management and procurement.
 
@@ -130,11 +128,10 @@ expenditure.
 
 ## 8. 📰 Current anchor
 
-- 📰 DBT, PFMS and the SNA model are permanent, established features of India's public
-  financial management architecture. No fixed cumulative DBT savings figure or PFMS
-  scheme-coverage count is asserted here, since both rise continuously as more schemes and
-  years are added to the reporting base; the durable fact is that GFR, 2017 remains the
-  current consolidated procedural rulebook these tools operate within.
+- 📰 **Status checked 21 July 2026:** SNA-SPARSH is the current official just-in-time CSS
+  architecture following the 2025 rollout schedule. Verify actual state/scheme onboarding
+  before asserting universal operational completion. GFR 2017 remains the consolidated
+  rulebook subject to amendments.
 
 ## 9. PYQ application
 

@@ -17,6 +17,11 @@
   models/theories, world patterns and classification); `advanced/NN` gives the India-application
   layer (India-specific data, institutions, current policy and a fuller Mains-answer
   architecture).
+- **Locked source tiers:** `basic/` is grounded in the local **Majid Husain, Indian & World
+  Geography** PDF plus **G.C. Leong** and its own current-affairs anchor. `advanced/` is grounded
+  in the local **D.R. Khullar** PDF plus **Majid Husain, Geography of India** and a **distinct**
+  current-affairs anchor. Advanced notes must add India-specific analytical depth rather than
+  restating the basic file.
 - **Same number = same topic** across both tiers (e.g., `basic/26_...md` pairs with
   `advanced/26_...md`).
 - **Tagging:** ✅ = directly grounded in a cited source (book excerpt or official/fetched page);
@@ -28,6 +33,34 @@
 - **No fabrication:** no invented statistics, dates, scheme names, boundary details or PYQ
   question numbers appear in this folder. Where a figure could not be verified, it has been
   omitted or explicitly flagged with a verification caution rather than estimated.
+
+## Direct local-source audit (21 July 2026)
+
+All 76 Markdown files were rechecked directly against these local PDFs, without Qdrant/RAG:
+
+1. `GC Leong - Certificate Physical and human Geography.pdf`
+2. `Indian & World Geography - Husain, Majid_Compressed.pdf`
+3. `D.R.Khullar.pdf`
+4. `Indian-geography-majid-hussain.pdf`
+
+The image-only Leong, Khullar and Majid-India scans were read with local OCR; the text-bearing
+Majid Indian & World volume was searched directly. Source wording was normalised where an older
+edition used obsolete science, climatic determinism, outdated names or superseded statistics.
+
+### Source-conflict rules used
+
+- **Modern process accuracy overrides obsolete wording:** e.g. moment magnitude vs generic
+  “Richter,” secondary permeability in crystalline rocks, carbonation/solution, and non-deterministic
+  ENSO/IOD/AMOC relationships.
+- **Book-era data remain dated examples:** old production shares, crop shares, cave length rankings,
+  glacier counts, coastline lengths and plan-era statistics are not presented as current.
+- **Classification convention is stated:** original Köppen's `-3°C` C/D threshold vs modern `0°C`
+  variants; older Khullar rock-system nomenclature vs modern stratigraphic usage.
+- **Map precision prevails:** snowline is not glacier snout; Biafo/Baltoro/Hispar are not Indian
+  glaciers; Nicobar islands are not simply coral atolls; Sikkim and Arunachal boundary histories
+  are not collapsed into one McMahon-line statement.
+- **Volatile current data are date-stamped:** forecasts are not treated as observed outcomes, and
+  survey/projection data are not treated as Census results.
 
 ## Topic map
 

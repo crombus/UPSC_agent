@@ -71,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Rajgir Lidar survey, 2025:** Reports describe ISRO scientists using Lidar with ASI-linked work to map Rajgir's Ajatashatru Fort area, Cyclopean Wall and Nalanda landscape. This is a direct modern hook for Magadha: **space technology is being used to re-map ancient fortification and urban geography**.
+⚠️ **Current-link discipline:** A Rajgir LiDAR result must be taken from the survey report. The safe linkage is the use of remote sensing to map ancient fortification and urban landscapes.
 
 ## 7. Mains angles
 

@@ -1,7 +1,7 @@
 # Human Settlements and Urbanisation in India — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + verified Census 2011 urban data + official Smart Cities Mission / AMRUT 2.0 updates.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified Census/MoHUA current anchor.
 > ✅ = from source book or official source · ⚠️ = inference / standard synthesis · 📰 = current affairs.
 > *Companion: `basic/28_Human-Settlements-and-Urbanisation.md`.*
 

@@ -46,19 +46,18 @@ autonomy   absorb into mainstream      development, rights retained
 ```
 
 **Analytical claim:** ⚠️ The 2025 GS-I PYQ's two-axis framing (displacement and
-rehabilitation) is the empirical endpoint of a policy history that began with three
-competing theories of tribal development — isolation, assimilation, integration — none of
-which fully anticipated that the dominant threat to tribal society would be resource-project
-displacement rather than either excessive contact or excessive isolation; the quality of
-rehabilitation, not the fact of development, is what now separates net welfare gain from
-renewed marginalisation.
+rehabilitation) can be placed alongside three competing historical theories of tribal
+development — isolation, assimilation and integration. It should not be made exhaustive:
+health, education, self-governance, land alienation and identity also shape outcomes. Where
+projects displace people, rehabilitation quality, not compensation alone, is central to
+whether the result is renewed marginalisation or a defensible welfare gain.
 
 ## 2. Concepts and distinctions
 
 | Concept | Precise meaning |
 |---|---|
 | ✅ **Isolation (Elwin) vs integration (Nehru)** | Elwin's early position sought to shield tribal communities from exploitative contact by limiting outside access to tribal areas; Nehru's Panchsheel accepted contact and development but insisted tribal communities retain land/forest rights and cultural autonomy while accessing education and health — integration is contact-with-safeguards, isolation is contact-limitation. |
-| ✅ **Assimilation (Ghurye) vs acculturation** | Assimilation, as Ghurye framed it, is deliberate absorption of tribes into mainstream Hindu society, treating tribal culture as a stage of backwardness to be overcome; acculturation is the observed, often gradual and partly reciprocal cultural exchange that actually occurs through trade, migration and administration, without implying tribal culture must disappear. |
+| ✅ **Assimilation (Ghurye) vs acculturation** | Ghurye's historically influential and contested assimilationist view sought absorption into mainstream Hindu society. Acculturation describes gradual, sometimes reciprocal cultural exchange through trade, migration and administration; neither term determines a community's constitutional Scheduled Tribe status. |
 | ⚠️ **Displacement vs land alienation** | Displacement is acute, project-driven loss of land/habitat (a dam or mine); land alienation is a slower, often informal process of tribal land passing to non-tribal ownership through debt, distress sale or encroachment — both reduce tribal land control but through different mechanisms and require different remedies. |
 | ⚠️ **Rehabilitation as restoration vs rehabilitation as compensation** | Restoration-oriented rehabilitation tries to rebuild livelihood, land access and community structure at the new site; compensation-oriented rehabilitation provides monetary payment without guaranteeing livelihood continuity — the 2025 PYQ's framing implicitly favours judging rehabilitation by restoration, not payment alone. |
 
@@ -99,12 +98,14 @@ renewed marginalisation.
   doctrinal territory; here the focus is their social function of slowing land alienation.
 - ✅ **PVTG-targeted development (cross-linked):** the administrative/welfare architecture
   for Particularly Vulnerable Tribal Groups belongs to `Social-Justice/basic/08`; the
-  sociological point here is that PVTGs are precisely the sub-set most exposed to both
-  displacement and acculturation pressure simultaneously.
-- ⚠️ **Free, prior and informed consultation norms:** growing (though unevenly enforced)
-  practice of consulting Gram Sabhas before land diversion in Scheduled Areas reflects a
-  reform response to the displacement problem, favouring land-for-land and livelihood-
-  restoration guarantees over one-time cash compensation.
+  sociological point here is that PVTGs can face acute vulnerability, but exposure to
+  displacement, acculturation and service gaps must be established group by group rather
+  than presumed from the category alone.
+- ⚠️ **Consultation and consent safeguards:** Indian law creates Gram Sabha consultation or
+  consent routes in particular Scheduled Area and forest-rights contexts. Do not label all
+  such safeguards “free, prior and informed consent” or assume uniform enforcement; the
+  legal mechanics are cross-linked to Social-Justice/Polity. Their social purpose is to
+  strengthen agency before land/forest decisions.
 
 ## 5. Indian applications and boundary cases
 
@@ -138,12 +139,12 @@ renewed marginalisation.
 
 - ✅ Verrier Elwin's isolationist position emerged from fieldwork among central Indian tribal
   groups and warned against unregulated market and settler contact.
-- ✅ G.S. Ghurye's assimilationist view described tribes as "backward Hindus" requiring
-  absorption into the mainstream.
-- ✅ PVTGs are identified using criteria including pre-agricultural technology, low literacy
-  and stagnant/declining population.
-- 📰 The Ministry of Tribal Affairs periodically updates the state-wise PVTG list; treat any
-  specific figure as dated to its publication, not as a fixed constant.
+- ✅ G.S. Ghurye's historical assimilationist view described tribes as “backward Hindus”;
+  it is a contested scholarly formulation, not a current identity label.
+- ✅ MoTA's dated list identifies 75 PVTGs in 18 States and the UT of Andaman & Nicobar
+  Islands. Legacy criteria include pre-agricultural level of technology, low literacy,
+  stagnant/declining population and subsistence economy; these are administrative criteria,
+  not a hierarchy of cultures.
 
 ## 8. Advanced Prelims traps
 
@@ -162,9 +163,9 @@ renewed marginalisation.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The Ministry of Tribal Affairs' state-wise PVTG list is the durable current anchor for
-  this topic; cite only its most recently published edition and date, and do not assert
-  displacement or rehabilitation outcome data without a dated source.
+- 📰 MoTA's state-wise PVTG list dated 9 July 2024 identifies 75 PVTGs in 18 States and the
+  UT of Andaman & Nicobar Islands. Do not assert displacement or rehabilitation outcomes
+  without a separate, dated project-level source.
 
 ## 10. PYQ-based analytical application
 

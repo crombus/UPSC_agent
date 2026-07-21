@@ -64,7 +64,7 @@
 - ✅ territorial losses, especially where Germans remained outside the Reich;
 - ✅ loss of colonies;
 - ✅ disarmament clauses;
-- ✅ war-guilt clause;
+- ✅ Article 231, read in Germany as a war-guilt clause and used by the Allies as a legal basis for reparations;
 - ✅ reparations set at £6600 million.
 
 ✅ Yet he also qualifies German objections:
@@ -76,7 +76,7 @@
 |---|---|
 | Dictated peace | ✅ German complaint understandable |
 | 14 Points argument | ✅ not fully convincing as a German defence |
-| War guilt clause | ✅ grounds for German resentment, though Allies wanted legal basis for reparations |
+| Article 231 | ✅ grounds for German resentment because of its political "war-guilt" meaning, though its immediate legal function was reparations liability |
 | Reparations | ✅ amount widely judged too high; Keynes preferred £2000 million |
 | Disarmament | ✅ deeply resented; difficult to enforce fully |
 
@@ -115,7 +115,7 @@
 
 - ✅ Jutland was indecisive tactically but did not break British sea power.
 - ✅ Convoys were crucial in blunting unrestricted submarine warfare.
-- ✅ Article 231 was the war-guilt clause.
+- ✅ Article 231 underpinned reparations liability and became popularly known as the war-guilt clause.
 - ✅ Reparations were fixed in 1921 at £6600 million and later reduced.
 - ✅ St Germain dealt with Austria; Trianon with Hungary; Neuilly with Bulgaria; Sevres/Lausanne with Turkey.
 - ✅ Lowe cites Keynes on reparations and later historians on Haig and memory.

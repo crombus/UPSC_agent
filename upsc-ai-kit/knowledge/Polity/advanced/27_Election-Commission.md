@@ -1,7 +1,7 @@
 # Election Commission + Elections & Electoral Reforms (Articles 324–329) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 42 & 71–72 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 42 & 71–72 (direct check of the local Sixth Revised Edition PDF) + India Code/ECI updates.
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Election-Commission.md`.*
 
@@ -36,12 +36,14 @@ Legislatures, the offices of President & Vice-President**. An **all-India body**
 - 📰 **CEC & Other ECs (Appointment, Conditions of Service and Term of Office) Act, 2023** replaced the CJI with a
   **Union Cabinet Minister** → selection committee = **PM (chair) + a Union Minister + LoP**, giving the executive
   a **2:1 majority**. Critics say it dilutes EC independence.
-- 📰 **CEC Gyanesh Kumar** appointed **Feb 2025** under the new Act. As of **2026** the **SC is still hearing** the
-  constitutional challenge (no stay on the Act/appointments); the core question = *can ordinary law override a
-  Constitution Bench judgment?*
+- 📰 **CEC Gyanesh Kumar** was appointed in **Feb 2025** under the new Act. **Status
+  checked 21 Jul 2026:** the constitutional challenge to section 7 remains pending; the
+  Supreme Court's 22 Mar 2024 order declined interim interference with the appointments.
+  The question is the Act's compatibility with institutional-independence and free-and-fair-
+  election principles, not Parliament's competence to enact a law after *Anoop Baranwal*.
 
 ## Powers & Functions (3 categories) ✅
-**Administrative** (delimitation per the Delimitation Act, electoral rolls, notify schedule, allot symbols, Model
+**Administrative** (assists the statutory **Delimitation Commission**; prepares electoral rolls, notifies schedule, allots symbols, enforces Model
 Code of Conduct, cancel rigged polls) · **Advisory** (advise President/Governor on MP/MLA disqualifications) ·
 **Quasi-judicial** (settle party recognition & symbol disputes).
 - ✅ Assisted by **Deputy ECs** (civil service); at state level the **Chief Electoral Officer**; district = **DEO/
@@ -71,12 +73,14 @@ Code of Conduct, cancel rigged polls) · **Advisory** (advise President/Governor
 | ⚠️ **1988** | EVMs & anti-defection; **1996** — disqualification of convicts, liquor ban 48 hrs before poll |
 
 ## 📰 CA hooks
-- 📰 **Remote Voting Machine (RVM)** prototype for domestic migrant voters (ECI proposal, under debate).
+- 📰 **Remote Voting Machine (RVM)** remains an ECI proposal/prototype for consultation,
+  not an enacted voting entitlement.
 - 📰 **Electoral Bonds struck down** by the SC (Feb 2024) as unconstitutional (violated right to information) —
   political-funding transparency.
 - 📰 **VVPAT 100% verification** demand — SC (Apr 2024) declined full count but ordered checks; **"One Nation, One
   Election"** (Kovind Committee → Constitution Amendment Bills) debate.
-- 📰 **Special Intensive Revision (SIR)** of electoral rolls controversy.
+- 📰 Electoral-roll revision controversies must be tied to the relevant ECI order and
+  pending judicial proceeding; they are not a permanent nationwide rule.
 
 ---
 
@@ -88,12 +92,13 @@ Code of Conduct, cancel rigged polls) · **Advisory** (advise President/Governor
 - ✅ Laxmikant notes the MCC was agreed to by political parties in 1968 and is linked to ECI election supervision.
 - 📰 MCC is **non-statutory**; it operates through ECI's Art 324 powers and political consensus.
 - 📰 It comes into force from the announcement of the election schedule and lasts till completion of the poll process.
-- 📰 Some violations overlap with enforceable law — e.g., RPA 1951 corrupt practices/silence period and IPC offences.
+- 📰 Some violations overlap with enforceable law — e.g., RPA 1951 corrupt practices/
+  silence period and offences now governed by the **BNS, 2023** (from 1 Jul 2024).
 - ⚠️ ECI can censure, advise, order transfers or direct prosecution where a statutory offence is made out.
 
 | MCC area | Legal character |
 |---|---|
-| Hate speech, bribery, communal appeals | May attract RPA/IPC provisions |
+| Hate speech, bribery, communal appeals | May attract RPA/BNS and other statutory provisions |
 | Official machinery, ads, transfers, new schemes | Mostly administrative ECI enforcement |
 | General conduct of parties/candidates | Non-statutory code backed by Art 324 supervision |
 

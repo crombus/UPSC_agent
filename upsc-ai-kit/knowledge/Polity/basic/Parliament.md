@@ -26,7 +26,9 @@ is the **permanent, revising** chamber representing states.
 
 ## Money Bill — must remember
 ✅ **Only in Lok Sabha**, on President's recommendation. Rajya Sabha can **only recommend** (not reject/amend),
-must return in **14 days**. **Speaker certifies** a money bill (final). No joint sitting for money bills.
+must return in **14 days**. Art 110 calls the **Speaker's certificate final**, but
+constitutional courts retain narrow review for illegality/constitutional misuse. No joint
+sitting exists for money bills.
 
 ## Key committees
 ✅ **Public Accounts Committee (PAC)** — 22 members, chaired by **Opposition**, examines **CAG** reports.

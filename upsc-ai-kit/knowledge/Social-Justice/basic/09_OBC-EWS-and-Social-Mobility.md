@@ -23,10 +23,11 @@
   IDENTIFICATION         RESERVATION              WELFARE
        |                      |                       |
   Central List           OBC: 27%                PM-YASASVI
-  (NCBC rec ->           (central jobs           (scholarships:
-   Parliament)           & institutions)          pre-matric,
+  (President ->          (central jobs           (notified education
+   Parliament varies;    & institutions)          support routes)
+   NCBC advice)
        |                      |                   post-matric,
-  State Lists            EWS: 10%                top-class)
+  State Lists            EWS: 10%
   (state govts           (103rd Amdt,                 |
    post-105th            non-SC/ST/OBC)         OUTCOME TEST
    Amdt, 2021)                |                       |
@@ -45,26 +46,28 @@ measured through intergenerational social mobility — not merely scheme coverag
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Other Backward Classes (OBC)** | Socially and educationally backward classes of citizens other than Scheduled Castes and Scheduled Tribes, identified on the basis of social and educational backwardness (not solely economic) and entitled to reservation under Articles 15(4) and 16(4). |
-| ✅ **Central OBC List** | The list of backward classes maintained for central government services and central educational institutions, prepared on the recommendation of the NCBC and notified by Parliament. |
+| ✅ **Central OBC List** | The list of socially and educationally backward classes for central purposes under Article 342A. The President specifies the Central List and Parliament alone may include or exclude a community; NCBC consultation/advice is part of the institutional process, not a power to add a community by itself. |
 | ✅ **State OBC Lists** | Lists maintained by state governments for state-level reservations; after the 105th Constitutional Amendment Act, 2021, states regained explicit power to prepare their own OBC/SEBC lists for state purposes. |
-| ✅ **Creamy layer** | An income/status-based exclusion criterion: OBCs whose parents hold certain senior posts or whose gross annual family income exceeds ₹8 lakh (the ceiling last revised in September 2017) are excluded from OBC reservation benefits, ensuring benefits reach the socially backward, not the economically advanced, within the category. |
+| ✅ **Creamy layer** | An OBC exclusion rule based primarily on the parents' service/status categories and, where the income/wealth test applies, the notified ₹8 lakh ceiling for three consecutive years. Salary income and income from agricultural land are not simply clubbed into that test; do not reduce the rule to “family income above ₹8 lakh”. |
 | ✅ **Economically Weaker Sections (EWS)** | A category introduced by the 103rd Constitutional Amendment Act, 2019, enabling up to 10% reservation in education and public employment for economically weaker citizens who do not fall under SC/ST/OBC categories, based on a gross annual family income below ₹8 lakh and specified asset limits (notified January 2019). |
 | ⚠️ **Social mobility** | Intergenerational movement in educational attainment, occupational status or income; the ultimate test of whether backward-class welfare converts into durable uplift, not merely first-generation access. |
 
 ## 3. How OBC/EWS reservation and welfare work (mechanism)
 
-1. **OBC identification:** The NCBC (a constitutional body post-102nd Amendment)
-   recommends inclusion/exclusion of communities in the Central OBC List; Parliament
-   acts on the recommendation. State governments prepare their own State OBC Lists.
+1. **OBC identification:** For the Central List, the constitutional Article 342A route
+   applies (President specifies; Parliament varies); NCBC has consultative/advisory and
+   safeguards functions. State governments maintain their own lists for State purposes
+   after the 105th Amendment.
 2. **Creamy-layer filter:** Before claiming OBC reservation, an applicant must obtain
    a certificate verifying they do not fall within the creamy-layer exclusion criteria
    (income ceiling and parental office threshold, periodically revised).
 3. **Reservation implementation:** 27% reservation for OBCs in central services and
    central educational institutions; 10% EWS reservation (post-2019) for non-SC/ST/OBC
    economically weaker citizens — see Polity for constitutional-doctrine detail.
-4. **Welfare schemes:** PM-YASASVI provides scholarship support (pre-matric, post-matric,
-   top-class education) for OBC, EBC and DNT students, complementing reservation with
-   financial assistance for educational access.
+4. **Welfare schemes:** PM-YASASVI bundles support for OBC, EBC and DNT students,
+   including pre-/post-matric and top-class education routes and other notified
+   components. Check the applicable annual guideline rather than assuming every
+   component is open in every State or year.
 5. **Social mobility as outcome test:** The ultimate goal is intergenerational uplift —
    children of beneficiaries achieving higher education and occupation than their
    parents — rather than static coverage numbers.
@@ -85,10 +88,10 @@ measured through intergenerational social mobility — not merely scheme coverag
   Union of India (November 2022) by a 3-2 majority. For constitutional-validity
   reasoning, see `Polity/basic/Special-Provisions.md`.
 - ✅ **PM-YASASVI (Young Achievers' Scholarship Award Scheme for Vibrant India):**
-  Launched as a merger/rebranding of earlier OBC scholarship schemes (pre-matric, post-
-  matric, top-class education) under the Ministry of Social Justice and Empowerment,
-  covering OBC, EBC (Economically Backward Classes among forward castes, not EWS) and
-  DNT students.
+  umbrella support for OBC, EBC and DNT students under the Ministry of Social Justice
+  and Empowerment. Its scholarship/coaching components and State implementation should
+  be identified from the current guideline; EBC is not interchangeable with the
+  constitutional EWS category.
 - ⚠️ **EWS certificate:** Issued by state/UT authorities certifying that the applicant's
   family meets the income and asset criteria for EWS reservation — an administrative
   verification challenge given income-based (vs caste-based) identification.
@@ -112,9 +115,10 @@ measured through intergenerational social mobility — not merely scheme coverag
   103rd Amendment, 2019) for non-SC/ST/OBC economically weaker citizens.
 - ✅ Creamy-layer exclusion applies to OBC reservation; it does NOT apply to SC/ST
   reservation.
-- ✅ The OBC creamy-layer income ceiling is ₹8 lakh gross annual family income
-  (last revised September 2017); the EWS income/asset ceiling under the 103rd
-  Amendment is also ₹8 lakh gross annual family income (notified January 2019).
+- ✅ The OBC creamy-layer income/wealth ceiling is ₹8 lakh (last revised September
+  2017), but its parental service/status categories and exclusions for salary/agricultural
+  income matter. The EWS criterion also uses ₹8 lakh plus asset limits, but the two
+  tests are legally different.
 - ✅ The 105th Constitutional Amendment Act, 2021 restored states' power to prepare
   their own OBC lists for state-level reservation.
 - ✅ PM-YASASVI covers OBC, EBC and DNT students with pre-matric, post-matric and
@@ -137,18 +141,14 @@ measured through intergenerational social mobility — not merely scheme coverag
 
 ## 8. 📰 Current anchor
 
-- 📰 The Cabinet Committee on Political Affairs approved caste enumeration as part of
-  the 2027 Census on 30 April 2025 (gazette notification dated 16 June 2025), meaning
-  caste data for all communities — not only SC/ST — will be collected as part of the
-  decadal census for the first time since 1931 under the Census Act, 1948; this is an
-  official, dated Cabinet decision, not merely a proposal, but its detailed enumeration
-  methodology and any resulting policy use for OBC-list revision remain to be
-  operationalised.
-- ✅ The OBC creamy-layer income ceiling is ₹8 lakh gross annual family income, last
-  revised by a Department of Personnel and Training notification dated 13 September
-  2017 (raised from ₹6 lakh); although a three-yearly revision is administratively
-  envisaged, the government has stated there is no current proposal to raise it
-  further, so ₹8 lakh has remained the ceiling since 2017.
+- 📰 **Census 2027 status (21 July 2026):** the Cabinet Committee on Political Affairs
+  decided on 30 April 2025 that caste enumeration will be included. Census 2027 is
+  planned as an all-digital exercise; the first-phase houselisting window was notified
+  for 1 April–30 September 2026. This is an approved, ongoing operation — not published
+  caste data, a completed methodology or an automatic basis for revising OBC lists.
+- ✅ The OBC income/wealth ceiling is ₹8 lakh (DoPT, September 2017), but quote the full
+  creamy-layer test — parental status/service categories and income exclusions — rather
+  than calling it a simple gross-family-income limit.
 
 ## 9. PYQ application
 
@@ -166,16 +166,16 @@ measured through intergenerational social mobility — not merely scheme coverag
 - ⚠️ Use the creamy-layer mechanism to explain intra-group equity within OBC reservation.
 - ⚠️ Distinguish coverage (reservation slots filled, scholarships disbursed) from outcome
   (intergenerational mobility, educational/occupational progression).
-- ⚠️ The caste-data gap (absence of OBC population count since 1931) has been a
-  long-standing policy lacuna; the 2027 Census caste-enumeration decision addresses
-  this for the first time, but its policy implications are not yet settled.
+- ⚠️ The caste-data gap remains a policy lacuna: the 2027 enumeration decision is
+  approved and operations have begun, but results, validation and any policy use are
+  still unavailable.
 
 > **Answer thesis:** OBC reservation addresses historical social-educational backwardness
 > with a creamy-layer filter to ensure intra-group equity, while EWS reservation
 > addresses pure economic disadvantage among non-reserved categories; their success
 > must be judged not by coverage statistics alone but by intergenerational social
-> mobility, and the forthcoming 2027 Census caste enumeration may finally provide the
-> population data needed for evidence-based policy calibration.
+> mobility. Census 2027 may later improve the evidence base, but a decision to enumerate
+> caste is not yet usable population evidence.
 
 ## 11. Probable questions
 

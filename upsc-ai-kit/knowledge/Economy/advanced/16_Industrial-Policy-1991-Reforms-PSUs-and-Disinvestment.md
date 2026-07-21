@@ -4,7 +4,7 @@
 > **Core area:** Industrial reform.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md`.*
+> *Companion: `../basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md`.*
 
 ---
 
@@ -108,6 +108,8 @@ fiscal reform or enterprise-level productivity improvement.
 - ✅ Industrial delicensing, trade opening, exchange-rate and financial reform formed a
   connected package.
 - ✅ Disinvestment does not always mean privatisation; government may retain control.
+- ✅ Disinvestment yields a capital receipt from sale of an asset; it cannot be treated as
+  a recurring correction to revenue deficit or operating performance.
 - ✅ PSUs can serve strategic or public objectives but require commercial accountability and
   governance.
 - ✅ Competition policy remains necessary after removing entry controls.
@@ -166,8 +168,7 @@ fiscal reform or enterprise-level productivity improvement.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/16_Industrial-Policy-1991-Reforms-PSUs-and-
-  Disinvestment.md`.
+- ✅ Foundation companion: `../basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md`.
 - ✅ `17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — contemporary capability-
   building instruments.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — public investment and

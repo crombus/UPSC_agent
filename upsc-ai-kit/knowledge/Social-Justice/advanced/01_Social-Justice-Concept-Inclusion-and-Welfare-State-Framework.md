@@ -89,9 +89,9 @@ entitlement and outcome.
 - ✅ **Legislative concretisation:** Protective laws (SC/ST Atrocities Act, RPwD
   Act, POCSO) and entitlement laws (NFSA, RTE) convert DPSP aspirations into
   claims.
-- ✅ **ILO Recommendation 202 (2012):** Establishes a social protection floor as a
-  global norm; India endorsed it and references the floor concept in policy
-  documents (e.g., social security for unorganised workers).
+- ✅ **ILO Recommendation 202 (2012):** Establishes a social-protection floor as a
+  non-binding global norm. It was adopted by the International Labour Conference; do
+  not describe it as a ratified Convention or as a self-executing domestic entitlement.
 - ⚠️ **Institutional commissions (NCW, NCM, NCPCR, NHRC):** Quasi-judicial bodies
   that investigate, advise and recommend — they operationalise recognitive justice
   by giving voice to marginalised groups but cannot substitute for enforcement
@@ -168,11 +168,11 @@ entitlement and outcome.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names the
-  social-justice-concept or welfare-state framework. The closest adjacent PYQ is
-  2024 Q7 (poverty-malnutrition-human-capital vicious cycle), which implicitly
-  tests the capability approach. A strong answer to any "social justice" or
-  "inclusive development" question should:
+- ✅ **2024 GS-I Q18 (250 words)** asks why underprivileged sections have not received
+  the full benefits of constitutionally envisaged affirmative action. It is the clearest
+  cross-paper route to this framework. The closest GS-II question is 2024 Q7
+  (poverty-malnutrition-human-capital), which implicitly tests capability conversion. A
+  strong answer to either social-justice/inclusive-development framing should:
   1. Define the three dimensions (distributive, corrective, recognitive).
   2. Apply the capability lens (does the intervention expand what people can do?).
   3. Acknowledge universalism/targeting trade-offs.

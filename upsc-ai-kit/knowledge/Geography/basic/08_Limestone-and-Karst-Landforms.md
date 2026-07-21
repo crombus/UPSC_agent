@@ -14,7 +14,9 @@
 
 ✅ In limestone (chalk) country, the master process is carbonation/solution: rain + CO2 forms weak carbonic acid that dissolves calcium carbonate. Karst thus has little surface water and no integrated drainage. Water sinks at swallow/sink holes along joints, etching out caverns underground; dissolved calcium carbonate is later re-deposited drip by drip as stalactites and stalagmites.
 - ✅ Carbonation/solution of calcium carbonate is the dominant process; karst is dry at the surface and lacks a well-integrated drainage system (Majid).
-- ✅ Swallow/sink holes carry rain into the rock (e.g. Gaping Ghyll, Yorkshire); enlarged they merge into dolines, then uvalas (coalesced dolines) and huge poljes.
+- ✅ Swallow holes/ponors are points where surface water sinks. **Doline** and **sinkhole** are overlapping
+  terms for closed karst depressions; coalesced depressions may form uvalas, while poljes are much larger,
+  structurally influenced, flat-floored basins.
 - ✅ Clints & grikes (limestone pavement): blocks (clints) separated by solution-widened joints (grikes); French term for karren is lapies.
 - ✅ Underground, water etches caverns and passages along joints/bedding planes.
 - ✅ Depositional dripstone: stalactites hang from the roof, stalagmites rise from the floor; when they meet they form a pillar/column (Batu, Mammoth, Carlsbad, Postojna caves).
@@ -52,7 +54,7 @@
 **Foundation — Karst Erosional & Depositional Landforms (GC Leong / Majid).**
 - ✅ Master process = carbonation/solution (CaCO3 + carbonic acid).
 - ✅ Karst = little surface water, disintegrated drainage.
-- ✅ Sink/swallow hole -> doline -> uvala -> polje (size order).
+- ✅ Do not treat sinkhole→doline as a strict sequence; doline/sinkhole overlap, while uvala and polje are larger composite basins.
 - ✅ Clints (blocks) + grikes (solution-widened joints) = limestone pavement.
 - ✅ Stalactite (roof, 'holds tight') vs stalagmite (ground); meet = pillar.
 

@@ -1,7 +1,7 @@
 # Supreme Court + Judicial Review, Judicial Activism & PIL (Articles 124–147) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 26–29 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 26–29 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Supreme-Court.md`.*
 

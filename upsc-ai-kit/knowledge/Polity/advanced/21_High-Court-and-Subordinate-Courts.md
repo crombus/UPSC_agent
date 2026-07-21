@@ -1,7 +1,7 @@
 # High Court & Subordinate Courts (Articles 214–237) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 34–36 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 34–36 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/High-Court.md`.*
 
@@ -18,7 +18,10 @@ co-terminus with state territory). **Articles 214–231 (Part VI).**
 ## Composition & appointment ⭐
 ✅ CJ + judges **as the President deems necessary** (strength not fixed). Appointed by the **President** — CJ
 after consulting **CJI + State Governor**; other judges also after consulting the **HC Chief Justice**.
-Collegium for HC = **CJI + 2 seniormost SC judges** (Third Judges Case 1998). NJAC struck down 2015.
+At the originating HC, the Chief Justice consults the **two seniormost HC colleagues**.
+At the Supreme Court stage, the collegium for an HC appointment is **CJI + 2 seniormost SC
+judges**; HC-judge transfers require broader consultation including four senior SC judges
+(Third Judges Case, 1998). NJAC was struck down in 2015.
 
 ## Qualifications, tenure, removal ⭐
 ✅ Citizen + **10 yrs judicial office OR 10 yrs HC advocate** (NO "distinguished jurist" option, unlike SC;

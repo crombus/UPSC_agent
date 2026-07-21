@@ -27,6 +27,7 @@
 - ✅ Trade and manufacture expanded in the seventeenth century; India was known as a major textile producer for Asian and wider markets.
 - ✅ Nobles, merchants and royal family members participated in trade; some owned ships or invested in commercial ventures.
 - ✅ Rural society centred on peasants, zamindars and land revenue. Zamindars had armed strength, local caste/clan ties, and were too important for the state to ignore.
+- ✅ Rural society was internally stratified: privileged resident **khud-kasht/riyayati** cultivators, ordinary **raiyati/muzarian**, outsider **pahi-kasht**, tenants, village servants and labouring groups had unequal rights and revenue burdens.
 
 **Foundation — culture was composite and creative.**
 
@@ -34,12 +35,14 @@
 - ✅ Mughal painting became an imperial **karkhana** under Akbar; Hindus and Muslims worked together, and Jahangir's reign marked a high point in portrait/animal studies.
 - ✅ Persian, Sanskrit and regional languages flourished; Bhakti and Sufi currents helped cultural contact, while orthodox elements continued.
 - ✅ Music was not simply "buried" under Aurangzeb; singing was banished from court, but instruments and patronage by nobles/queens continued.
+- ✅ Women participated in agriculture, spinning, embroidery and elite patronage, but property, marriage, purdah and labour conditions varied sharply by class, caste and region.
 
 ## 2. Key classification / data
 
 | Field | Must-know features |
 |---|---|
 | ✅ Rural society | Peasants, zamindars, village headmen; zamindars often armed and locally rooted |
+| ✅ Cultivator categories | Khud-kasht/riyayati, raiyati/muzarian, pahi-kasht; unequal dues and privileges |
 | ✅ Trade | Textiles, spices, indigo, sugar/raw silk, horses, bullion inflow |
 | ✅ Nobility | High mansabdars had opulent lifestyles; patronised arts; some engaged in trade |
 | ✅ Architecture | Fatehpur Sikri, Buland Darwaza, Itimad-ud-Daula, Taj Mahal, Red Fort, Jama Masjid |
@@ -72,7 +75,7 @@
 
 ## 6. 📰 Current link
 
-📰 **"GI & Beyond 2024" Summit, Ministry of Textiles/PIB (25 Nov 2024):** GI handloom and handicraft heritage was showcased to global buyers and artisans received GI certificates. **Relevance:** connects Mughal-era textile/craft networks and artisan traditions with present heritage-economy policy.
+📰 **Current linkage (verify live before use):** Handloom and craft policy can connect historical textile production with living artisan economies. Verify scheme, GI and export claims from official textile/ministry data.
 
 ## 7. Mains angles
 

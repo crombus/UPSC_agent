@@ -54,17 +54,17 @@ further show change operating at both textual/elite and local/folk levels simult
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Structural-functionalism** | A theory viewing society as an interconnected system of institutions that adapt to restore equilibrium after disruption, associated with the view that change tends toward renewed social stability. |
+| ✅ **Structural-functionalism** | A theory viewing society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption. It is one lens, not a claim that all change is smooth or consensus-led. |
 | ⚠️ **Conflict theory** | A theory (Marxian-influenced) viewing social change as arising from structural contradictions and struggle between groups with opposed interests, rather than from consensus-seeking adaptation. |
 | ✅ **Sanskritisation, Westernisation, Modernisation** | Sanskritisation: emulation of a locally dominant caste's ritual status; Westernisation: adoption of new values from Western contact; Modernisation: structural, rational-institutional change (bureaucratic, technological, scientific) not tied to caste-hierarchy emulation — the three can occur together, separately or in tension. |
 | ✅ **Great Tradition and Little Tradition** (Robert Redfield, developed for India by McKim Marriott) | Great Tradition: the pan-Indian, textual, reflective, often Brahmanical cultural stream; Little Tradition: the local, oral, folk-level cultural stream — the two continuously interact through "universalisation" (local elements gaining pan-Indian recognition) and "parochialisation" (pan-Indian elements adapted to local form). |
-| ⚠️ **Secularisation** (sociological process) | The declining social salience of religious authority in shaping economic, political and everyday social life as societies modernise — a sociological process distinct from constitutional secularism (state neutrality toward religion), which is Polity's territory. |
+| ⚠️ **Secularisation** (sociological process) | Differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains. It is not a universal linear disappearance of religion and is distinct from constitutional secularism. |
 
 ## 3. How social-change theories and processes work
 
-1. **Structural-functional view:** ✅ change is absorbed by institutions adapting to
-   maintain overall social equilibrium — for example, family structure adjusting (joint to
-   nuclear) while continuing to perform core functions (support, socialisation).
+1. **Structural-functional view:** ✅ change can be analysed as institutions adapting and
+   renegotiating functions — for example, family residence changing while support and
+   socialisation continue. It should not be assumed that every adjustment restores consensus.
 2. **Conflict view:** ⚠️ change instead arises from unresolved structural contradictions —
    caste or class conflict driving reform or upheaval rather than smooth institutional
    adaptation.
@@ -82,11 +82,10 @@ further show change operating at both textual/elite and local/folk levels simult
    deity or practice into pan-Indian recognition; parochialisation adapts a pan-Indian
    textual practice into local, folk form — showing cultural change flows in both directions,
    not only top-down from elite to folk.
-7. **Secularisation as sociological process:** ⚠️ as education, markets and state
-   institutions expand, religious authority's direct control over economic and political
-   life recedes in many domains, even where religious identity and practice remain socially
-   significant — this sociological process is distinct from, though related to, the
-   constitutional secularism doctrine (Topic 15/Polity).
+7. **Secularisation as sociological process:** ⚠️ education, markets and state institutions
+   can differentiate economic and civic life from religious authority in some domains, even
+   while religious identity and practice remain significant or intensify in others. This is
+   distinct from constitutional secularism (Topic 15/Polity).
 
 ## 4. Institutions and concepts
 
@@ -124,8 +123,8 @@ further show change operating at both textual/elite and local/folk levels simult
   village society by McKim Marriott through the universalisation-parochialisation concepts.
 - ⚠️ Structural-functionalism and conflict theory are the two most commonly contrasted
   macro-theories of social change in the UPSC syllabus context.
-- ⚠️ Secularisation as a sociological process (declining social salience of religious
-  authority) is distinct from constitutional secularism as a legal-political doctrine.
+- ⚠️ Secularisation as institutional differentiation (which need not mean declining belief)
+  is distinct from constitutional secularism as a legal-political doctrine.
 - ⚠️ This topic carries no fixed dated current-affairs anchor; it is treated as a durable
   conceptual theme rather than a current-events-linked one.
 
@@ -139,9 +138,9 @@ further show change operating at both textual/elite and local/folk levels simult
   recognition; parochialisation moves pan-Indian elements downward into local, adapted
   form — the flow runs in both directions.
 - ❌ Secularisation (sociological) and secularism (constitutional) are the same concept. ->
-  Secularisation describes a social process (declining religious authority in economic/
-  political life); secularism is a constitutional/political doctrine of state neutrality —
-  conflating them is a frequent Mains error (see Topic 15 for the constitutional side).
+  Secularisation describes institutional differentiation and may coexist with strong
+  religious identity; secularism is a constitutional/political doctrine. Conflating them is
+  a frequent Mains error (see Topic 15 for the constitutional side).
 - ❌ Structural-functionalism and conflict theory always produce the same explanation for a
   given social change. -> They offer competing accounts — equilibrium-restoration versus
   contradiction-driven struggle — and a good answer distinguishes which is more applicable

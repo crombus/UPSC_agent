@@ -31,8 +31,8 @@
 
 **Foundation — land, caste, gender and communal questions defined social change.**
 
-- ✅ **Land reforms** abolished **zamindari** (largely by 1956) and made ~**20 million tenants** owners, but **tenancy and ceiling reforms** largely failed due to evasion and weak records; **Bhoodan** (Vinoba Bhave) petered out.
-- ✅ The **Green Revolution** raised foodgrain output but widened rural inequality; **agrarian struggles** ran from **Telangana** and **Naxalbari (1967)** to the rich-farmer movements of the 1980s.
+- ✅ **Land reforms** abolished **zamindari** (largely by 1956) and made about **20 million superior tenants** owners. Tenancy and ceiling results were uneven: records were unreliable, evasion and eviction were common, and **Bhoodan** could not substitute for structural reform.
+- ✅ The **Green Revolution** raised foodgrain output and was initially concentrated in north-western wheat regions. Chandra argues that it later spread, that the technology was broadly scale-neutral and that early predictions of general class polarisation were overstated; critics continue to stress unequal access, regional lags and ecological costs.
 - ✅ **Caste**: untouchability was abolished, reservations extended, and from **Ambedkar** to the **Dalit Panthers**, **BSP** and **Mandal (1990)**, caste became central to politics.
 - ✅ **Women**: the **Hindu Code Bill** reforms gave legal equality; a new women's movement (1970s–90s) took up dowry, rape and domestic violence; **communalism** revived from the 1960s and turned endemic after the late 1970s.
 
@@ -44,7 +44,7 @@
 | ✅ 1991 reforms | Liberalisation after a BoP crisis (Rao–Manmohan) |
 | ✅ Land reform | Zamindari abolished (~1956); ~20 million tenants became owners; ceilings largely failed |
 | ✅ Bhoodan | Vinoba Bhave; began **Pochampalli, 1951** |
-| ✅ Green Revolution | HYV seeds, mid-1960s; Punjab, Haryana, western UP; mainly wheat |
+| ✅ Green Revolution | HYV package; initially Punjab, Haryana and western UP/wheat, later spreading to rice regions and other states |
 | ✅ Agrarian struggles | Telangana; **Naxalbari (1967)**; farmers' movements of the 1980s |
 | ✅ Caste | Untouchability abolished; reservations; Ambedkar; Dalit Panthers; BSP; **Mandal (1990)** |
 | ✅ Women | Hindu Code Bill → four Acts; women's movement (1970s–90s) |
@@ -59,7 +59,7 @@
 ## 4. Must-Know Facts (Prelims)
 
 - ✅ The **IPR of 1956** and the **Mahalanobis Second Plan** made heavy industry and the public sector central.
-- ✅ **Zamindari abolition** was largely complete by **1956**; about **20 million** tenants became owners.
+- ✅ **Zamindari abolition** made about **20 million superior tenants** owners; tenancy-area estimates are rough because oral and concealed tenancies were poorly recorded.
 - ✅ The **Bhoodan movement** was led by **Vinoba Bhave** and began at **Pochampalli (1951)**.
 - ✅ The **Green Revolution** used **HYV seeds** from the **mid-1960s**, concentrated in **Punjab, Haryana and western UP**.
 - ✅ The **Naxalbari uprising (1967)** launched the Naxalite movement; **CPI(ML)** was formed in 1969.
@@ -72,7 +72,7 @@
 
 - ❌ All land reforms succeeded equally. → **Zamindari abolition** worked; **tenancy/ceiling** reform mostly failed.
 - ❌ Bhoodan redistributed most donated land. → Much Bhoodan land was **never effectively distributed**.
-- ❌ The Green Revolution benefited all regions equally. → It was **concentrated** in Punjab, Haryana and western UP and **widened inequality**.
+- ❌ The Green Revolution either benefited all regions equally or permanently widened inequality everywhere. → It was initially concentrated; Chandra stresses later diffusion and small-farmer viability, while other scholarship identifies persistent regional, class and ecological inequalities.
 - ❌ Naxalbari was in the 1970s. → It was **1967**; CPI(ML) came in **1969**.
 - ❌ Reforms began under Rajiv Gandhi. → **Liberalisation began in 1991** under Narasimha Rao.
 

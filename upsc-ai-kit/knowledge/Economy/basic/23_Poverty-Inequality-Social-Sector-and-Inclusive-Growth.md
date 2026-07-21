@@ -4,7 +4,7 @@
 > **Core area:** Poverty and inclusion.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.*
+> *Companion: `../advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.*
 
 ---
 
@@ -101,13 +101,20 @@ four roles.
 - 📰 Lower-middle-income poverty was 23.9% in 2022-23.
 - 📰 NITI MPI fell to 14.96% in 2019-21 and was estimated at 11.28% in 2022-23.
 
-⚠️ **Interpretation caution:** Targeting saves fiscal resources but weak data and
-documentation can exclude precisely those with unstable incomes and residence.
+⚠️ **Interpretation caution:** The Survey attributes the USD 3.00 line to the World
+Bank's June 2025 revision at **2021 PPP prices**, and explicitly says the resulting
+estimates are not directly comparable with older poverty lines or India's domestic
+poverty-line debate. Targeting also saves fiscal resources but can exclude people with
+unstable incomes and residence.
 
 ## 9. PYQ application
 
 - ⚠️ 2024 GS-III: Social-service public expenditure and inclusive growth after reforms.
 - ⚠️ 2025 GS-III: HDI versus IHDI as an inclusive-growth indicator.
+- ⚠️ **Social-expenditure answer route:** distinguish allocation from actual spending,
+  spending from service quality, and national average from state/district outcomes; then
+  link health, education, nutrition and protection to jobs, capabilities and fiscal
+  sustainability.
 
 ## 10. Mains angles
 
@@ -129,8 +136,7 @@ documentation can exclude precisely those with unstable incomes and residence.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-
-  Growth.md`.
+- ✅ Advanced companion: `../advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.
 - ✅ `02_Growth-Development-HDI-IHDI-and-MPI.md` — measurement of capabilities and
   deprivation.
 - ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — fiscal space and expenditure

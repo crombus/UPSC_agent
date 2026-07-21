@@ -4,7 +4,7 @@
 > **Core area:** Current macroeconomy.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md`.*
+> *Companion: `../basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md`.*
 
 ---
 
@@ -98,7 +98,9 @@ quality, finance, external resilience and future productive capacity.
   environmental rules remain necessary.
 
 ⚠️ **Boundary condition:** A dashboard is diagnostic, not causal: every headline must be
-decomposed by sector, demand source, distribution and data vintage.
+decomposed by sector, demand source, distribution and data vintage. The Survey is a
+January 2026 source vintage; later base-year changes and releases do not turn its FY26
+FAE or FY27 projection into a final realised result.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
@@ -166,11 +168,8 @@ decomposed by sector, demand source, distribution and data vintage.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/26_Economic-Survey-Synthesis-and-Current-Macro-
-  Dashboard.md`.
+- ✅ Foundation companion: `../basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md`.
 - ✅ `01_National-Income-GDP-GVA-and-Measurement.md` — interpreting GDP, GVA and demand
   components.
-- ✅ `03_Inflation-Price-Indices-and-Business-Cycles.md` and `04_RBI-Monetary-Policy-and-
-  Liquidity-Management.md` — nominal stability.
-- ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` and `19_Balance-of-Payments-
-  Exchange-Rates-and-Forex-Reserves.md` — fiscal and external balance.
+- ✅ `03_Inflation-Price-Indices-and-Business-Cycles.md` and `04_RBI-Monetary-Policy-and-Liquidity-Management.md` — nominal stability.
+- ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` and `19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` — fiscal and external balance.

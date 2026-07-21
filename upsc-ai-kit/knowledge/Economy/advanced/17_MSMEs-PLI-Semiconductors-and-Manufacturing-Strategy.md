@@ -4,7 +4,7 @@
 > **Core area:** Manufacturing strategy.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md`.*
+> *Companion: `../basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md`.*
 
 ---
 
@@ -137,6 +137,13 @@ components dominate and local firms do not upgrade.
 
 - ⚠️ 2025 GS-III: PLI rationale, achievements and ways to improve outcomes.
 - ⚠️ 2025 GS-III: Semiconductor challenges and salient features of India's mission.
+- ⚠️ **PLI answer engine:** rationale—scale, learning, strategic supply and coordination
+  failures; scorecard—additional investment, incremental output, domestic value, jobs,
+  exports and supplier/R&D spillovers; risks—fiscal cost, concentration and import-heavy
+  assembly; reform—transparent milestones, evaluation and sunset/review clauses.
+- ⚠️ **Semiconductor answer engine:** distinguish design, materials/equipment, fab and
+  ATMP/OSAT; then address capital intensity, long gestation, technology, ultra-pure water,
+  power quality, talent, logistics, global partners and downstream demand.
 
 ## 11. Mains-ready framework
 
@@ -160,7 +167,7 @@ components dominate and local firms do not upgrade.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md`.
+- ✅ Foundation companion: `../basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md`.
 - ✅ `16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md` — industrial-policy
   evolution.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — utilities and logistics

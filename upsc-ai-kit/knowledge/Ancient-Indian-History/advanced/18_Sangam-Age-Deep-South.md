@@ -66,7 +66,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Pattanam/Muziris research, 2025 context:** Recent public discussion of Pattanam's trade links, aDNA studies and calls for deeper Periyar-delta surveys keep the Muziris question active. Use it to frame how new science can refine, but not instantly settle, literary-geographical identifications.
+⚠️ **Current-link discipline:** A Pattanam aDNA or survey claim requires publication. The safe linkage is that new science may refine—but cannot instantly settle—the debated Pattanam/Muziris identification.
 
 ## 7. Mains angles
 

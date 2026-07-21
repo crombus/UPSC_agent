@@ -22,6 +22,7 @@
 
 ✅ Upinder Singh treats the Neolithic not as a sudden revolution but as a **transition to food production** with regional variation. Mesolithic traits can continue while domestication, cultivation, pottery and heavier tools appear.
 - ✅ At Koldihwa, Mahagara, Pachoh and Indari, key issues are dates and whether rice remains are wild or domesticated.
+- ✅ Upinder Singh also highlights **Lahuradewa** as evidence that the middle Ganga valley was an early rice-cultivation zone, preventing a single north-west-to-east diffusion model.
 - ✅ The Neolithic in this area emerged out of a well-established Mesolithic phase.
 - ✅ Microlith blades and heavier stone tools continued even as cattle domestication and rice cultivation appeared.
 
@@ -38,6 +39,7 @@
 |---|---|
 | ✅ Mehrgarh | early food production in north-western zone |
 | ✅ Koldihwa / Mahagara | rice date and domestication debate |
+| ✅ Lahuradewa | early rice-based agriculture in the middle Ganga valley |
 | ✅ Burzahom | stone tools, bone tools, Kashmir adaptation |
 | ✅ Chirand | long sequence useful for transition studies |
 | ✅ Ahar / Gilund | dry-zone Chalcolithic and copper-linked culture |
@@ -70,7 +72,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Inamgaon research focus (2025):** renewed studies emphasizing continuity from Chalcolithic to early historic settlement make Inamgaon useful for explaining long-term Deccan rural lifeways beyond the Harappan model.
+⚠️ **Current-link discipline:** A new Inamgaon claim requires the published excavation/research report. The safe linkage is long-duration study of Deccan rural lifeways beyond the Harappan urban model.
 
 ## 7. Mains angles
 

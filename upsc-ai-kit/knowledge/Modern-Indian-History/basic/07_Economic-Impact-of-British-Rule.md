@@ -15,6 +15,9 @@
 | ✅ 1793 | Permanent Settlement introduced by Cornwallis in Bengal-Bihar-Orissa |
 | ✅ 1813 | Charter Act opens India to wider British trade after ending Company monopoly |
 | ✅ 1822 | Holt Mackenzie formulates Mahalwari settlement in North-Western Provinces |
+| ✅ 1859–60 | Indigo Revolt in Bengal challenges coercive planter contracts |
+| ✅ 1873–76 | Pabna agrarian leagues use rent strikes, meetings and legal resistance |
+| ✅ 1875 | Deccan Riots target moneylenders amid debt, price collapse and high revenue demand |
 | ✅ 1876–78 | Major famine across parts of south and west India |
 | ✅ 1880 | Strachey Famine Commission reports after late-1870s famine |
 | ✅ 1896–1900 | Severe late-19th-century famines deepen nationalist economic critique |
@@ -36,6 +39,7 @@
 - ✅ As urban crafts declined, many artisans moved back to villages, producing **de-urbanisation**, ruralisation and greater pressure on land.
 - ✅ **Commercialisation of agriculture** pushed peasants toward cash crops such as indigo, cotton and other market-oriented produce.
 - ✅ Land-revenue systems — Permanent Settlement, Ryotwari and Mahalwari — reorganised agrarian relations to secure revenue for the colonial state.
+- ✅ Agrarian resistance followed the form of exploitation: **Indigo (1859–60)** opposed European planters; **Pabna (1873–76)** challenged zamindari rent enhancement mainly through organisation and law; **Deccan (1875)** attacked debt records and moneylenders after the cotton boom collapsed.
 
 ## 2. Key classification / data
 
@@ -49,6 +53,7 @@
 | ✅ Mahalwari | Holt Mackenzie and R.M. Bird; North-Western Provinces, Punjab, Central India parts | Village/mahal community |
 | ✅ Colonial infrastructure | Railways, telegraph, canals built for imperial and commercial ends | Colonial modernisation |
 | ✅ Famines | 1770, 1876–78, 1896–1900; commissions like Strachey 1880 | Poverty and underdevelopment |
+| ✅ Agrarian resistance | Indigo, Pabna, Deccan | Planter coercion, rent enhancement and rural debt produced different regional movements |
 
 ## 3. Study links
 
@@ -66,6 +71,7 @@
 - ✅ **Ryotwari** is associated with **Thomas Munro** and **Alexander Read** in Madras and Bombay.
 - ✅ **Mahalwari** is associated with **Holt Mackenzie (1822)** and **R.M. Bird** in North-Western Provinces, Punjab and parts of Central India.
 - ✅ The **Strachey Famine Commission** followed the famine of 1876–78 and reported in **1880**.
+- ✅ **Indigo Revolt = 1859–60**; **Pabna leagues = 1873 onward**; **Deccan Riots = 1875** and the Deccan Agriculturists' Relief Act followed in 1879.
 - ✅ Railways, telegraph and canals were introduced, but mainly to serve imperial-commercial needs.
 - ⚠️ "Colonial modernisation" means modern infrastructure without autonomous industrial development.
 

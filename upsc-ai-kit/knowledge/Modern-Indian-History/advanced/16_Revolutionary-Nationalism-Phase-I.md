@@ -11,12 +11,12 @@
 
 | Date | Event |
 |---|---|
-| ✅ 1897 | Chapekar brothers killed Rand, showing early Maharashtra revolutionary anger |
+| ✅ 1897 | Chapekar brothers killed W.C. Rand and Lt Ayerst amid anger over plague administration |
 | ✅ 1907 | Madame Cama's Stuttgart flag episode symbolised international propaganda |
 | ✅ 1908 | Muzaffarpur attack and Alipore Bomb Case marked Bengal revolutionary escalation |
 | ✅ 1909 | Dhingra assassinated Curzon-Wyllie; India House came under intense scrutiny |
 | ✅ 1912 | Delhi Conspiracy targeted Hardinge during the imperial capital shift ceremony period |
-| ✅ 1913 | Ghadar Party founded in San Francisco with Lala Har Dayal, Sohan Singh Bhakna and others |
+| ✅ 1913 | Hindi Association of the Pacific Coast/Ghadar organisation formed; San Francisco became its headquarters |
 | ✅ 1914 | Komagata Maru incident intensified diasporic resentment against racial exclusion |
 | ✅ 1915 | Ghadar mutiny plan failed under surveillance and repression |
 
@@ -63,7 +63,7 @@
 - ✅ **Alipore Bomb Case** is linked with the Bengal revolutionary circle of Aurobindo and Barindra Ghosh.
 - ✅ **Delhi Conspiracy 1912** involved the bomb attack on Viceroy Hardinge and is linked with Rash Behari Bose and Sachin Sanyal.
 - ✅ **Abhinav Bharat** was associated with **V.D. Savarkar**.
-- ✅ **Ghadar Party** was founded in **1913** in **San Francisco**; **Lala Har Dayal**, **Sohan Singh Bhakna** and **Kartar Singh Sarabha** are key names.
+- ✅ The **Ghadar organisation** dates to **1913**; the Hindi Association of the Pacific Coast formed in the US, with **San Francisco's Yugantar Ashram** as headquarters. **Lala Har Dayal, Sohan Singh Bhakna and Kartar Singh Sarabha** are key names.
 - ✅ **Komagata Maru** occurred in **1914** and fed anti-colonial anger among overseas Indians.
 - ⚠️ Revolutionary nationalism of Phase I should be distinguished from later socialist revolutionary politics of the 1920s.
 

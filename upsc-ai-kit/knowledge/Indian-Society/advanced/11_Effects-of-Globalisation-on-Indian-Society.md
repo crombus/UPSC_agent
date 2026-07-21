@@ -4,8 +4,9 @@
 > **Core area:** The homogenisation-glocalisation theoretical architecture, the causal
 > chain linking globalisation to women's migration and family renegotiation, and the
 > fast-food-paradox behavioural-economics angle.
-> **Grounded in:** MoSPI PLFS 2023-24; NFHS-6 (2023-24, released 29 May 2026); audited 2024
-> and 2025 GS-I Mains PYQs (three direct questions).
+> **Grounded in:** MoSPI PLFS 2023-24 and 2025; NFHS-5 (2019-21, latest released national
+> round as checked 21 July 2026); audited 2024 and 2025 GS-I Mains PYQs (three direct
+> questions).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/11_Effects-of-Globalisation-on-Indian-Society.md`.*
 
@@ -51,7 +52,7 @@ statement.
 | Concept | Precise meaning |
 |---|---|
 | ✅ **Homogenisation vs glocalisation** | Homogenisation theory predicts convergence toward globally uniform consumption and cultural patterns; glocalisation describes the empirically observed adaptation of global products/practices to local context — Indian evidence shows both operating simultaneously in different domains (global brand aspiration alongside vernacular digital content, for instance), so a sound answer must show both, not pick one. |
-| ⚠️ **Push-pull migration reframed for gender** | Classical push-pull migration theory (Geography's territory) explains migration generally; the 2024 Q19 PYQ requires a gender-specific refinement — globalisation's service-sector job creation is a pull factor disproportionately salient for skilled, young, unmarried women because such jobs (IT-enabled services, retail, hospitality) specifically value attributes (English fluency, urban schooling, flexibility) more available to this demographic. |
+| ⚠️ **Push-pull migration reframed for gender** | Classical push-pull theory explains migration generally. For the 2024 Q19 proposition, assess how labour demand, education, safety, housing and family norms may shape a skilled young woman's migration choice; do not infer the stream's size or cause from aggregate female LFPR alone. |
 | ⚠️ **Bounded rationality vs full health-rational choice** | Classical rational-choice theory would predict health-conscious consumers reduce fast-food consumption as awareness rises; behavioural-economics-informed bounded rationality explains the observed paradox — convenience, time-poverty in dual-income households, present-bias in food choice, and aspirational branding outweigh long-run health considerations in actual decision-making. |
 | ⚠️ **Personal-freedom expansion vs family-authority renegotiation** | Personal freedom expansion (mobility, independent income, later marriage, partner-choice voice) and family-authority renegotiation (continued remittance, periodic contact, redefined but not eliminated parental influence) are not contradictory outcomes — both occur together, and treating the PYQ as a binary "freedom versus family" question misses that the actual empirical pattern is one of coexistence and renegotiation. |
 | ⚠️ **Structural consumerism vs cultural consumerism** | Structural consumerism refers to the expansion of market access and purchasing capacity (income growth, retail expansion, credit access); cultural consumerism refers to the symbolic and identity-related meaning attached to consumption (status signalling, brand identity) — the 2025 Q10 PYQ's "aggressive consumer culture" language points mainly to the cultural dimension, but the "only" framing fails because structural changes (labour markets, digital access) operate independently of, and sometimes prior to, cultural consumerism. |
@@ -72,13 +73,12 @@ statement.
    "more than just consumer culture" answer.
 
 ### Women's-migration-family chain (2024 Q19)
-1. Globalisation-driven service-sector job growth (IT-enabled services, retail, hospitality,
-   healthcare) creates urban employment demand for skills disproportionately available to
-   young, educated, unmarried women.
-2. This job-demand pull, combined with the gender-specific attributes it rewards, produces
-   a distinctive migration stream of skilled, young, unmarried women, verified by the PLFS
-   female labour-force participation rise (41.7% in 2023-24, up from 37.0% in 2022-23);
-   PLFS Annual Report 2025 later reported 40.0% on a changed calendar-year reference period.
+1. The PYQ's proposition invites analysis of how service-sector demand, education, safety,
+   housing and family norms may shape urban work migration by skilled, young, unmarried
+   women.
+2. PLFS female LFPR (41.7% in 2023-24; 40.0% in the calendar-year 2025 report) measures
+   aggregate labour-force participation, not the size, age/marital composition or causal
+   source of that migration stream. Its changed reporting period also limits comparison.
 3. Independent urban income and residence expand personal freedom — mobility, spending
    autonomy, delayed marriage, greater voice in partner selection.
 4. ⚠️ Family relationships are simultaneously renegotiated: remittance flows, continued
@@ -93,16 +93,16 @@ statement.
 3. ⚠️ Glocalised menu adaptation (India-specific vegetarian and spice-profile options)
    lowers the cultural barrier to adoption, expanding the addressable consumer base beyond
    what an unmodified global menu could reach.
-4. ✅ Rising health awareness (documented in public discourse and health messaging)
-   coexists with, rather than reverses, this trend because convenience, aspiration and
-   glocalisation collectively outweigh health considerations in most actual purchase
-   decisions — the behavioural-economics explanation for the paradox.
+4. ⚠️ Health concern can coexist with purchase behaviour because convenience, price,
+   delivery, aspiration and local adaptation compete with long-run health considerations.
+   Use bounded rationality as one analytical lens, not as proof that one motive outweighs all
+   others in every purchase.
 
 ## 4. Institutional and reform architecture
 
 - ⚠️ **Digital-divide correction efforts:** rural and gender-linked internet-access gaps
-  (NFHS-6's 64.3% ever-internet-use figure implies a persisting non-user share) point to
-  where globalisation's digital-connectivity benefits remain incomplete.
+  remain important. NFHS-5's 33.3% ever-internet-use figure for women aged 15-49 is a dated
+  2019-21 indicator, not a current connectivity estimate.
 
 ## 5. Indian applications and boundary cases
 
@@ -138,9 +138,10 @@ statement.
 - ✅ MoSPI's PLFS Annual Report 2023-24 (released 23 September 2024) recorded female labour
   force participation rate at 41.7% (up from 37.0% in 2022-23) and female worker population
   ratio at 40.3%.
-- ✅ NFHS-6 (2023-24), released 29 May 2026, recorded women's ever-internet-use at 64.3%.
-- ⚠️ Bounded rationality (behavioural economics) is the appropriate theoretical frame for
-  explaining the fast-food-industry-growth-despite-health-awareness paradox.
+- ✅ NFHS-5 (2019-21) recorded women's ever-internet-use at 33.3% for ages 15-49; it is a
+  dated access measure, not a current national digital-use rate.
+- ⚠️ Bounded rationality is one useful behavioural-economics lens for the fast-food paradox;
+  price, delivery, marketing and local food systems also need consideration.
 - ⚠️ Glocalisation and homogenisation are not mutually exclusive; Indian evidence shows both
   operating simultaneously across different globalisation channels.
 - ⚠️ All three PYQs analysed here (2024 Q19, 2025 Q10, 2025 Q18) share the underlying
@@ -166,8 +167,8 @@ statement.
   ratio (40.3%) are dated comparators. **PLFS Annual Report 2025**, released March 2026,
   reports usual-status female LFPR for age 15+ at **40.0%**. Because the newer report uses
   a January-December 2025 reference period rather than the earlier July-June cycle, cite
-  period and measure before comparing them. NFHS-6's 64.3% ever-internet-use figure
-  (released 29 May 2026) is the current digital-access anchor.
+  period and measure before comparing them. NFHS-5's 33.3% ever-internet-use figure for
+  women ages 15-49 is the dated digital-access anchor; do not cite an unissued NFHS-6 result.
 
 ## 10. PYQ-based analytical application
 
@@ -197,8 +198,8 @@ behavioural factors, not by treating globalisation as one uniform cultural force
 
 1. Reject any single-channel or single-direction framing of globalisation at the outset.
 2. Apply the homogenisation-glocalisation pairing with domain-specific Indian examples.
-3. Trace the gender-specific labour-pull chain for the women's-migration PYQ, citing PLFS
-   data.
+3. Analyse the gender-specific labour-pull chain for the women's-migration PYQ, using PLFS
+   only for aggregate LFPR and stating that it does not prove the specific migration stream.
 4. Apply the freedom-family-coexistence framing rather than a binary freedom-versus-family
    position.
 5. Apply the bounded-rationality chain to explain the fast-food paradox.

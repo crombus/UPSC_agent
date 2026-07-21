@@ -15,7 +15,7 @@
 | ✅ 1210–36 | Iltutmish built a compact Sultanate and made Delhi the political-cultural centre |
 | ✅ 1221 | Jalaluddin Mangbarani crossed the Indus; Iltutmish refused anti-Mongol alliance |
 | ✅ 1228 | Iltutmish's control reached the Indus; Multan and Sindh came under him |
-| ✅ 1236–40 | Raziya's rule and fall amid Chihalgani politics |
+| ✅ 1236–40 | Raziya's rule and fall amid noble factional politics; the concise volume prints 1236–39 |
 | ✅ 1246–66 | Balban dominated as *naib* under Nasiruddin Mahmud |
 | ✅ 1266–87 | Balban as Sultan: strong monarchy, *zil-i-allah*, *sijada*, frontier vigilance |
 | ✅ 1287 | Death of Balban; succession crisis eventually led to Khalji takeover |
@@ -32,7 +32,7 @@
 **Deeper — nobility versus monarchy is the Mamluk core theme.**
 
 - ✅ Iltutmish's slave officers formed an elite group later called the Chihalgani or "Forty" by Barani, though the exact number is not literal.
-- ✅ Raziya depended on political skill because she lacked a stable noble bloc; opposition grew when she attempted direct rule and elevated Yakut.
+- ✅ Raziya depended on political skill because she lacked a stable noble bloc; opposition grew when she attempted direct rule and elevated Jamaluddin Yaqut, but reducing her fall to either gender or one appointment is inadequate.
 - ✅ Balban's project was to break noble equality and exalt kingship: he used court ritual, *barids*, justice, army reform and harsh suppression of disorder.
 - ✅ His narrow high-born Turkish ideal strengthened monarchy but also excluded many groups and created future tensions.
 
@@ -75,7 +75,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Balban's Tomb restoration, Mehrauli Archaeological Park (2024–25):** Recent reports describe ASI-led multi-phase restoration of Balban's 13th-century tomb, including work on arches, pathways and visitor facilities. **UPSC relevance:** links Balban's political centralisation with early Indo-Islamic architectural heritage and conservation.
+📰 **Current linkage (verify live before use):** Balban's tomb is a useful conservation hook because its surviving arch is central to the history of the true arch in India. Verify any restoration phase or agency claim from ASI before citing it.
 
 ## 7. Mains angles
 
@@ -86,4 +86,3 @@
 ## ➕ Concept — Monarchy vs oligarchy
 
 ⚠️ Frame Mamluk politics as a three-way tension: Sultan's authority, Turkish slave-noble oligarchy, and external Mongol pressure.
-

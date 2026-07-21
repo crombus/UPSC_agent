@@ -12,7 +12,7 @@
 
 | Date | Event |
 |---|---|
-| ✅ 1919 | Mussolini founds the Fascist Party |
+| ✅ 1919 / 1921 | Mussolini founds the *Fasci di combattimento* in 1919; the National Fascist Party is organized in 1921 |
 | ✅ Oct 1922 | March on Rome; Mussolini becomes prime minister |
 | ✅ 1923 | Beer-Hall Putsch fails in Germany |
 | ✅ 1929 | Lateran Treaty between Mussolini and the Papacy |
@@ -43,7 +43,7 @@
 - ✅ support from property-owners, business interests, parts of the Church and eventually the king;
 - ✅ weak and divided opposition.
 
-✅ The March on Rome in October 1922 was more bluff than military revolution: King Victor Emmanuel III refused to resist and invited Mussolini to form a government.
+✅ The March on Rome in October 1922 was more bluff than military revolution: King Victor Emmanuel III refused to authorize resistance and invited Mussolini to form a government.
 
 ✅ Lowe's basic features of fascism include authoritarian government, extreme nationalism, one-party rule, leader cult, economic self-sufficiency, propaganda, anti-communism and glorification of violence.
 
@@ -100,7 +100,7 @@
 
 ## 7. Must-Know Facts (Prelims) and UPSC traps
 
-- ✅ Mussolini became prime minister in October 1922 after the March on Rome.
+- ✅ Mussolini founded the *Fasci di combattimento* in 1919; the National Fascist Party followed in 1921; he became prime minister in October 1922 after the March on Rome.
 - ✅ Acerbo Law helped the fascists dominate parliament.
 - ✅ Lateran Treaty was signed in 1929.
 - ✅ Hitler became Chancellor in January 1933; the Enabling Law was passed in March 1933.

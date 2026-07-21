@@ -61,11 +61,12 @@ departure from both the colonial monumental tradition and from
 international modernist reliance on steel and cement — the clearest
 concrete instance of the "break from colonial hangover" the book implies
 is otherwise largely absent. ✅ The new Parliament House's (2023, Bimal
-Patel) replacement of the 1927 Lutyens-Baker building — itself influenced
-by the Chausath Yogini Temple at Mitaoli (*Nitin…pdf*, PDF p. 156) — is a
+Patel) assumption of Parliament's main working functions while the 1927
+building survives as Samvidhan Sadan is a
 rare, concrete, datable case of a state architectural decision explicitly
-revisiting the colonial-era seat of government, useful as a closing
-example for any question on architecture and national identity.
+revisiting the colonial-era seat of government. ⚠️ Nitin repeats the
+popular Mitaoli-influence claim for the old building, but resemblance alone
+does not establish direct design borrowing.
 
 ## 5. Visual synthesis table
 
@@ -84,8 +85,8 @@ COLONIAL MONUMENTAL TRADITION (Baroque -> Indo-Gothic -> Neo-Roman)
   = clearest break              continuity
                     |
                     v
-   2023: new Parliament House (Bimal Patel) replaces the
-   1927 Lutyens-Baker building — a datable case of state
+   2023: new Parliament House (Bimal Patel) becomes the main
+   working building; Samvidhan Sadan survives — a datable case of state
    architecture revisiting the colonial-era seat of power
 ```
 
@@ -128,6 +129,9 @@ inheritance and a distinct national idiom.
   to the *new* 2023 building rather than the *original* 1927 design. ->
   The book attributes that specific design influence to the old (1927)
   Lutyens-Baker building, not to Bimal Patel's 2023 structure.
+- ❌ Treating even the old-building Mitaoli influence as proven. -> It is a
+  popular attribution requiring architectural drawings, correspondence or
+  another direct record; label it debated.
 
 ## 10. Mains answer frameworks
 

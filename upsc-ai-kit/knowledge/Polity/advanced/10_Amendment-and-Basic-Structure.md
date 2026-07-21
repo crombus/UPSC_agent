@@ -1,8 +1,8 @@
 # Amendment of the Constitution & Basic Structure (Article 368) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Part XX (Art 368) (Qdrant export + source book) + verified CA.
-> ✅ = from source book · ⚠️ = inference / case law · 📰 = web-verified current affairs.
+> **Grounded in:** Indian Polity by M. Laxmikant, Part XX (Art 368) (direct check of the local Sixth Revised Edition PDF) + official court update.
+> ✅ = from source book · ⚠️ = inference / case law · 📰 = official/court-verified update.
 > *Companion: `basic/Amendment-and-Basic-Structure.md`.*
 
 ---
@@ -109,7 +109,7 @@ Judiciary" tension is prime **Mains/essay** material.
 ## PYQ / CA anchors
 - Recurrent Prelims: which provisions need state ratification; simple-vs-special majority items;
   case sequence Shankari Prasad → Golak Nath → Kesavananda → Minerva Mills.
-- 📰 Live-search: latest Legislature-vs-Judiciary debates, NJAC/collegium, any new basic-structure rulings.
+- 📰 Recheck the Supreme Court's official judgments portal for any later basic-structure ruling.
 
 ## Mains angles
 - Basic-structure doctrine: guardian of constitutionalism or judicial overreach? (use Dhankhar 2023–24 debate).

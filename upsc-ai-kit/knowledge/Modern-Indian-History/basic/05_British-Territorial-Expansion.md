@@ -66,7 +66,7 @@
 - ✅ **Second Anglo-Maratha War (1803–05)**: Wellesley; Assaye; Scindia and Bhonsle submitted.
 - ✅ **Third Anglo-Maratha War (1817–18)**: Peshwa Baji Rao II deposed and pensioned at Bithur.
 - ✅ **Subsidiary Alliance**: Wellesley; first Hyderabad in **1798**.
-- ✅ **Doctrine of Lapse**: Dalhousie; Satara 1848, Jhansi 1853, Nagpur 1854.
+- ✅ **Doctrine of Lapse**: Dalhousie; Satara 1848, Jhansi annexed in 1854 after the 1853 succession dispute, Nagpur 1854.
 - ✅ **Punjab** annexed after the Second Anglo-Sikh War in **1849**.
 
 ## 5. UPSC Traps

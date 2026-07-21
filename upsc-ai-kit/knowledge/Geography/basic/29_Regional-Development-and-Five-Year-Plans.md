@@ -1,7 +1,7 @@
 # Regional Development and Five-Year Plans — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + standard regional-development models + verified NITI/SDG references for dated overlay.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-region context + verified NITI/SDG current anchor.
 > ✅ = from source book or official source · ⚠️ = inference / standard synthesis · 📰 = current affairs.
 > *Companion: `advanced/29_Regional-Development-and-Five-Year-Plans.md`.*
 
@@ -9,7 +9,7 @@
 
 ## 1. What “regional development” means
 
-✅ Khullar defines planning as a deliberate process of thinking through and implementing actions to achieve socio-economic goals. ✅ Regional planning is the application of that logic to a particular region rather than the country as a whole.
+✅ Regional-development geography treats planning as a deliberate process of thinking through and implementing actions to achieve socio-economic goals. ✅ Regional planning is the application of that logic to a particular region rather than the country as a whole.
 
 | Term | Meaning |
 |---|---|
@@ -20,7 +20,7 @@
 
 ## 2. Why regions develop unevenly
 
-✅ Khullar notes that spatial models such as growth poles and core-periphery help explain uneven development. ⚠️ Real-world variation comes from resource endowment, transport access, market size, state policy, technology and historical advantage.
+⚠️ Growth-pole, core-periphery and spread/backwash models help explain uneven development. ⚠️ Real-world variation comes from resource endowment, transport access, market size, state policy, technology and historical advantage.
 
 | Cause of unevenness | Geographic effect |
 |---|---|
@@ -41,7 +41,7 @@
 
 ## 4. What makes a good planning region
 
-✅ Khullar's regional-planning discussion stresses coherence, practicality and ecological balance. ⚠️ In answer form, the safest features to mention are territorial contiguity, functional unity, economic viability, social acceptability and environmental sustainability.
+✅ A planning region requires coherence, practicality and ecological balance. ⚠️ In answer form, the safest features to mention are territorial contiguity, functional unity, economic viability, social acceptability and environmental sustainability.
 
 | Planning-region principle | Why it matters |
 |---|---|

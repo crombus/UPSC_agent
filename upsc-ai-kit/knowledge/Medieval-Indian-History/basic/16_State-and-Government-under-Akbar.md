@@ -15,7 +15,7 @@
 | ✅ 1573 | Akbar returns from Gujarat and pays personal attention to revenue reform |
 | ✅ 1575 | Akbar builds the Ibadat Khana at Fatehpur Sikri (state-religion context) |
 | ✅ 1580 | Dahsala system instituted; empire divided into twelve subas |
-| ✅ 1594-95 | Zat and sawar distinction appears in Akbar's later reign |
+| ✅ 1595–96 | Zat and sawar distinction introduced in Akbar's 40th regnal year |
 | ✅ 1605 | Akbar dies |
 
 ## 1. Snapshot & core idea
@@ -41,7 +41,8 @@
 | ✅ Dahsala | Ten-year average of produce and prices; one-third state share in cash |
 | ✅ Zabti | Measurement-based assessment; applied from Lahore to Allahabad, Malwa and Gujarat |
 | ✅ Batai/ghalla-bakhshi | Crop-sharing system; produce divided in fixed proportion |
-| ✅ Nasaq/kankut | Rough assessment based on past payments/inspection |
+| ✅ Kankut | Appraisement: measurement plus inspection/estimate of standing crop |
+| ✅ Nasaq | Estimate based substantially on previous assessment/payment, avoiding fresh full measurement |
 | ✅ Mansab | Rank fixing status, salary and service obligation |
 | ✅ Zat | Personal rank/status and pay |
 | ✅ Sawar | Number of cavalrymen to maintain |
@@ -62,6 +63,7 @@
 - ✅ Mansab ranks split later into **zat** and **sawar**.
 - ✅ Akbar divided the empire into **twelve subas in 1580**.
 - ✅ Main central officers: *diwan*, *mir bakhshi*, *mir saman* / household, and *sadr/qazi*.
+- ✅ Zabt/dahsala did not cover every field in every province; batai, kankut and nasaq remained available, especially where measurement was difficult or crops failed.
 
 ## 5. UPSC Traps
 
@@ -74,7 +76,7 @@
 
 ## 6. 📰 Current link
 
-- 📰 **Digital India Land Records Modernisation Programme extended to 2026** — ET Government/Drishti reported near-total digitisation and extension of DILRMP; relevance: modern land-record transparency echoes Akbar's stress on measurement, record and predictable demand.
+📰 **Current linkage (verify live before use):** Modern cadastral mapping can be used only as an analogy for measurement and record capacity. Do not equate digital title systems with Mughal revenue assessment; verify programme statistics from official land-resources data.
 
 ## 7. Mains angles
 

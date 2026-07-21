@@ -12,18 +12,25 @@
 
 **Advanced — Himalayan vs Peninsular Drainage & Antecedent Rivers (Khullar / Majid).**
 
-✅ The Himalayan drainage (Indus, Ganga, Brahmaputra) is largely perennial, fed by glaciers, springs and rain. The Peninsular drainage is older, seasonal, and flows in near-fixed valleys. Himalayan rivers are largely antecedent — older than the mountains, they kept cutting down as the Himalaya rose, carving deep gorges. Khullar traces their evolution via the hypothetical Indo-Brahm (Siwalik) river and its successive river captures (headward erosion) by the Indus, Punjab rivers and Dihang.
-- ✅ The Himalayan drainage comprises India's international rivers — Indus, Ganga, Brahmaputra — mostly perennial.
+✅ The Himalayan systems are largely perennial because rain, snowmelt, glacier melt and groundwater
+contribute in different proportions. Peninsular rivers occupy an older landscape and show stronger
+seasonality, though major rivers and regulated reaches are not simply “seasonal streams.” **Some**
+Himalayan trunk rivers are antecedent and cut transverse gorges; the whole Himalayan network should
+not be labelled antecedent.
+- ✅ The Indus, Ganga and Brahmaputra systems cross international boundaries and are mostly perennial.
 - ✅ Antecedent drainage: rivers predating the Himalaya that maintained their course by down-cutting as the range uplifted (deep transverse gorges).
 - ✅ River capture (piracy): a more vigorous river, through headward erosion, beheads a neighbouring river — a key process in Himalayan drainage evolution.
 - ✅ Indo-Brahm hypothesis (Khullar): a mighty former river along the Himalayan foredeep was dismembered by successive captures into today's Indus, Ganga and Brahmaputra systems.
-- ✅ Peninsular rivers flow in comparatively fixed, shallow valleys; most drain east to the Bay of Bengal (except Narmada & Tapi, which flow west via rift valleys to the Arabian Sea).
+- ✅ Most large Peninsular basins drain east; Narmada and Tapi flow west through structurally controlled
+  troughs. Several smaller west-flowing rivers also descend from the Western Ghats.
 
 **Ca Anchor — Ken-Betwa River Interlinking Project.**
 
 ✅ River interlinking applies drainage-basin logic to move 'surplus' water to deficit basins — but crosses ecological and social thresholds, making it a live GS-I geography + GS-III environment debate.
-- ✅ Objective: irrigate ~10+ lakh hectares, supply drinking water and hydropower in drought-prone Bundelkhand.
-- ✅ Concerns: submergence of part of Panna Tiger Reserve, forest/biodiversity loss, displacement, high cost (~Rs 44,605 crore).
+- ✅ Objective: transfer water within Bundelkhand for irrigation, drinking water and power; quote
+  command-area or cost figures only with the latest project document and date.
+- ✅ Concerns: submergence and fragmentation around Panna Tiger Reserve, downstream-flow effects,
+  forest/biodiversity loss and displacement.
 - ✅ Institutions: Central Water Commission, Ken-Betwa Link Project Authority; other links for comparison — Par-Tapi-Narmada, Damanganga-Pinjal.
 
 ## 2. Key classification / data
@@ -31,23 +38,41 @@
 | Feature | Himalayan drainage | Peninsular drainage |
 |---|---|---|
 | ✅ Main systems | Indus, Ganga, Brahmaputra | Godavari, Krishna, Mahanadi, Kaveri; Narmada and Tapi exceptions |
-| ✅ Flow | Perennial — glacier, spring and rain fed | Mostly seasonal — rain fed |
+| ✅ Flow | Mostly perennial; rain, snow/ice melt and groundwater contributions vary | Monsoon-dominant discharge; many major rivers are perennial or regulated |
 | ✅ Age / valley | Young, deep gorges, meandering | Older, shallow, graded and fixed valleys |
 | ✅ Drainage type | Antecedent + consequent; river capture important | Mostly consequent and super-imposed |
-| ✅ Direction | International rivers crossing high relief | Mostly east-flowing to Bay of Bengal; Narmada/Tapi west-flow through rift valleys |
+| ✅ Direction | Several international rivers crossing high relief | Most large basins east-flowing; Narmada/Tapi and many short Ghats rivers flow west |
 | ✅ Evolution | Indo-Brahm/Siwalik river hypothesis and successive captures | Older Peninsular stability and fixed courses |
-| ✅ River interlinking | Himalayan component: storage on Ganga/Brahmaputra tributaries and transfer canals | Peninsular component: links such as Ken-Betwa; proposed 30 links / 26 rivers in query passage |
+| ✅ River interlinking | Himalayan component: storage/transfer concepts in Ganga-Brahmaputra basins | Peninsular component: links such as Ken-Betwa; project counts change with official planning status |
 
 ## 3. Study links
 
 > **Study link:** ✅ Geography → India → Drainage System (Khullar: Evolution of Himalayan Rivers; Majid: River Systems)
 > **Study link:** ✅ Geography → India Drainage → Inter-basin Transfer (applied CA)
 
+### Map hooks — source/course/mouth pairs
+
+| River | Source / formation | Mouth / terminal basin |
+|---|---|---|
+| ✅ Indus | Tibetan Plateau near Lake Manasarovar region; crosses Ladakh | Arabian Sea through Pakistan |
+| ✅ Ganga | Named at Devprayag after Bhagirathi–Alaknanda confluence | Bay of Bengal through the Ganga-Brahmaputra-Meghna delta |
+| ✅ Brahmaputra | Tibetan Plateau (Yarlung Tsangpo); Siang/Dihang in Arunachal | Joins the Ganga/Jamuna-Meghna system before Bay of Bengal |
+| ✅ Mahanadi | Sihawa highlands, Chhattisgarh | Bay of Bengal, Odisha delta |
+| ✅ Godavari | Trimbakeshwar near Nashik | Bay of Bengal, Andhra Pradesh delta |
+| ✅ Krishna | Near Mahabaleshwar, Western Ghats | Bay of Bengal, Andhra Pradesh |
+| ✅ Kaveri | Talakaveri, Brahmagiri hills | Bay of Bengal near the Tamil Nadu delta |
+| ✅ Narmada | Amarkantak Plateau | Gulf of Khambhat |
+| ✅ Tapi | Near Multai, Satpura region | Gulf of Khambhat |
+| ✅ Luni | Aravalli region near Ajmer/Pushkar valley | Dissipates toward the Rann of Kachchh; does not reach the open sea as a normal perennial river |
+
+> 🔑 Map trap: “Ganga source” may mean the Bhagirathi headstream at Gomukh or the named Ganga at
+> Devprayag. State which convention you are using.
+
 ## 4. Must-Know Facts (Prelims)
 
 
 **Advanced — Himalayan vs Peninsular Drainage & Antecedent Rivers (Khullar / Majid).**
-- ✅ Himalayan = perennial, antecedent; Peninsular = seasonal, older.
+- ✅ Himalayan systems are mostly perennial; Peninsular regimes are more monsoon-seasonal and occupy an older landscape.
 - ✅ Antecedent river = older than the mountain it cuts across (deep gorge).
 - ✅ River capture driven by headward erosion (Khullar: Indo-Brahm captures).
 - ✅ Peninsular rivers mostly flow EAST; Narmada & Tapi flow WEST (rift valleys).
@@ -55,7 +80,7 @@
 
 **Ca Anchor — Ken-Betwa River Interlinking Project.**
 - ✅ Ken-Betwa = 1st river-interlinking project (National Perspective Plan).
-- ✅ Ken (MP) surplus → Betwa (UP); Bundelkhand drought mitigation.
+- ✅ Transfer is from the Ken basin to the Betwa basin; both basins span Madhya Pradesh-Uttar Pradesh.
 - ✅ Key concern: Panna Tiger Reserve submergence + biodiversity loss.
 
 ## 5. UPSC Traps

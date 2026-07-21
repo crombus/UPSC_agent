@@ -11,7 +11,7 @@
 
 | Date | Event |
 |---|---|
-| ✅ 1336 | Vijayanagara foundation (chronology spine) |
+| ✅ c. 1336 | Conventional Vijayanagara foundation date; Chandra notes disagreement over the brothers' origins and foundation narrative |
 | ✅ 1347 | Bahmani kingdom founded by Hasan Gangu/Alauddin Bahman Shah |
 | ✅ 1367 | Mudkal/Tungabhadra war; agreement to avoid slaughter of helpless civilians |
 | ✅ 1377–1404 | Harihara II expands towards eastern sea coast |
@@ -29,6 +29,7 @@
 - ✅ Deva Raya II's army reform was a response to Bahmani superiority in horses and mounted archers.
 - ✅ The 1367 conflict is important not merely for violence but for the treaty idea that helpless and unarmed inhabitants should not be slaughtered in future wars.
 - ✅ Travellers (Conti, Abdur Razzaq, Paes, Barbosa, Nuniz) are crucial for Vijayanagara's urban, economic and administrative image.
+- ✅ Chandra rejects both extremes in the state debate: Vijayanagara had central revenue and military ambitions, but hereditary nayaks administered *amaram* territories and could not be transferred like Sultanate muqtis.
 
 **Deeper — Mahmud Gawan and the limits of centralisation.**
 
@@ -43,6 +44,7 @@
 |---|---|
 | ✅ Nature of conflict | Strategic/commercial: doab, ports, horses, Krishna-Godavari trade |
 | ✅ Vijayanagara state | Centralised in revenue/army, but with many nayaks and local powers |
+| ✅ Amaram debate | Hereditary nayak service-grants, not a replica of transferable iqta |
 | ✅ Religious policy | Krishnadeva Raya's reign noted for broad freedom by Barbosa |
 | ✅ Bahmani reform | Eight tarafs, fort governors under sultan, salaries/contingents fixed |
 | ✅ Noble factions | Deccanis (old-comers) vs Afaqis/gharibs (new-comers) |
@@ -73,7 +75,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Shaheen Group signed an MoU with ASI to maintain and develop visitor amenities at Mahmud Gawan Madrasa, Bidar, under Adopt-a-Heritage (The Hindu, 2024; ongoing 2024–29).** Relevance: Bahmani educational architecture is now a heritage-management issue.
+📰 **Current linkage (verify live before use):** Conservation and visitor management at Hampi, Bidar or Mahmud Gawan's madrasa can connect Deccan politics with heritage governance. Verify any adoption agreement and its duration from ASI.
 
 ## 7. Mains angles
 

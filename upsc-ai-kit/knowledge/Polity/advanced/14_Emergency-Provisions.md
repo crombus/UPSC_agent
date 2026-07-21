@@ -1,7 +1,7 @@
 # Emergency Provisions (Articles 352–360) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 16 / Part XVIII (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 16 / Part XVIII (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Emergency-Provisions.md`.*
 

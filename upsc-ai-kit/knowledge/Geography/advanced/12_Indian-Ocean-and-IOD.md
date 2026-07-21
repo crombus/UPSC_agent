@@ -37,8 +37,10 @@
 
 > ⚠️ **Source note:** Not covered in Khullar/Husain (books stop at *eutrophication*). Added to close a UPSC GS-1 gap; ⚠️ = standard oceanography, 📰 = current data.
 
-- ⚠️ The **Arabian Sea** hosts one of the world's **thickest and most intense Oxygen Minimum Zones (OMZ)** (~200–1500 m). The **north-western Arabian Sea / Gulf of Oman** holds one of the **largest marine dead zones on Earth** (📰 estimated ~60,000+ km²).
-- ⚠️ **Why here:** (i) strong **monsoon-driven upwelling** → very high surface productivity → heavy oxygen demand as organic matter sinks and decays; (ii) **sluggish, poorly-ventilated** intermediate-water circulation in a landlocked-to-the-north basin. 📰 Warming + rising nutrient runoff are **expanding** it (2024–25 findings).
+- ⚠️ The **Arabian Sea** hosts one of the world's strongest tropical oxygen-minimum zones at
+  intermediate depth. Avoid a single area estimate for a moving three-dimensional low-oxygen volume.
+- ⚠️ **Why here:** monsoon-driven productivity and organic-matter decay combine with weak ventilation.
+  Warming, circulation change and nutrient inputs may intensify coastal or upper-ocean deoxygenation.
 - ⚠️ **Consequences:** loss of fixed nitrogen via **denitrification/anammox**, release of the greenhouse gas **nitrous oxide (N₂O)**, fishery shifts, and replacement of diatoms by hypoxia-tolerant ***Noctiluca* (green *Noctiluca* blooms)** — an India-relevant fisheries/climate concern.
 
 | Feature | Coastal dead zone | Arabian Sea OMZ |
@@ -47,7 +49,8 @@
 | ⚠️ Location | Shallow shelf, seasonal | Mid-depth, near-permanent |
 | ⚠️ India link | Estuaries/coasts near cities | Fisheries, monsoon-productivity, N₂O emissions |
 
-> 🔑 Trap: The Arabian Sea OMZ is **largely natural** (upwelling-driven), unlike the **Gulf of Mexico** dead zone which is **eutrophication-driven** by farm runoff — climate change is intensifying **both**.
+> 🔑 Trap: The Arabian Sea OMZ has a strong natural oceanographic basis, but human nutrient inputs and
+> climate change can modify it; do not present “natural” and “anthropogenic” as mutually exclusive.
 
 ## ➕ Marine Heatwave — India Seas (high-yield gap)
 
@@ -89,10 +92,12 @@
 
 📰 **News trigger:** The Indian Ocean Dipole (IOD) — the see-saw of sea-surface temperature between the western and eastern Indian Ocean — is a key modulator of the Indian monsoon, watched every year alongside ENSO.
 
-✅ IOD is an ocean-atmosphere coupling built on the same SST/salinity physics: a warm-west/cool-east pattern (positive IOD) tends to strengthen India's monsoon.
+✅ IOD is an ocean-atmosphere coupling defined by an SST contrast between the western and eastern
+equatorial Indian Ocean. A positive IOD can favour Indian rainfall in some years, but it does not
+mechanically guarantee a strong all-India monsoon.
 
-- ✅ Positive IOD: warmer western Indian Ocean, cooler east → tends to strengthen the Indian monsoon (dry Indonesia/Australia).
-- ✅ Negative IOD: cooler west, warmer east → tends to weaken the monsoon (wet Indonesia/Australia).
+- ✅ Positive IOD: relatively warmer west/cooler east; often shifts convection westward and can support Indian rainfall.
+- ✅ Negative IOD: relatively cooler west/warmer east; often shifts convection toward Indonesia, but impacts vary by season and ENSO state.
 - ✅ IOD often reinforces or offsets ENSO; climate change is altering its behaviour and predictability.
 
 ### Current-link Must-Know Facts

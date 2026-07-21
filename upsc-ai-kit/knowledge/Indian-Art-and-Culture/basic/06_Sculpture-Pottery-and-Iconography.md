@@ -6,7 +6,9 @@
 > Gandhara-Mathura-Amaravati schools; Gupta sculpture; South Indian temple
 > sculpture; Chola Nataraja bronze; Mughal sculpture.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 189-218; `00_Master-Framework.md` Sections 2-3; audited UPSC Mains 2025
+> 189-218; R.S. Sharma, *India's Ancient Past*, PDF pp. 211-223, 347-355;
+> R.S. Sharma, *Ancient India*, PDF pp. 121-123, 156-159;
+> `00_Master-Framework.md` Sections 2-3; audited UPSC Mains 2025
 > GS Paper I (supports Topic 03's direct question).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/06_Sculpture-Pottery-and-Iconography.md`.*
@@ -29,7 +31,7 @@ iconography question.
 | ✅ **Cire-perdue (lost-wax) technique** | Bronze-casting method known since the Indus Valley period: wax figure coated in clay, heated to melt out the wax, then filled with molten metal (*Nitin…pdf*, PDF pp. 190, 195). |
 | ✅ **Yaksha/Yakshi** | Folk deities/nature spirits connected with water, fertility, trees and wilderness, absorbed into Vedic, Buddhist, Jain and Hindu worship; Yakshi is the female counterpart, associated with fertility (*Nitin…pdf*, PDF pp. 197-198). |
 | ✅ **Shalabhanjika** | A yakshi-holding-a-tree motif, common as a bracket figure on stupa gateways (Sanchi, Bharhut) and later in Hoysala temples; symbolises fertility and auspiciousness (*Nitin…pdf*, PDF pp. 198-199). |
-| ✅ **Northern Black Polished Ware (NBPW)** | Mauryan-period luxury pottery, black-painted with a highly lustrous finish (*Nitin…pdf*, PDF p. 199). |
+| ✅ **Northern Black Polished Ware (NBPW)** | Fine, highly lustrous tableware, often black/steel-grey but also other shades; associated especially with early historic urbanisation, not exclusively the Mauryan court. |
 | ✅ **Kirtimukha** | A monster-faced decorative motif common in South Indian temple iconography, also found in Buddhist architecture (*Nitin…pdf*, PDF p. 208). |
 | ✅ **Nataraja** | Shiva as the Lord of Dance in Tandava posture; a defining Chola sculptural icon, though its earliest known example is at the Ravana Phadi Cave, Aihole (early Chalukya period) (*Nitin…pdf*, PDF pp. 210-211). |
 
@@ -40,40 +42,46 @@ iconography question.
 sandstone/stucco), **Mathura** (indigenous, all-three-religions, red
 sandstone), and **Amaravati** (Krishna river basin, dynamic/narrative
 Tribhanga-posture art, also called the Vengi School) (*Nitin…pdf*, PDF
-pp. 200-204). ✅ Harappan pottery is classified into plain and painted
-(Black and Red Ware) categories; ancient Indian pottery traditions
+pp. 200-204). ✅ Harappan pottery is predominantly red ware, often painted in black, with
+plain and painted varieties; it should not be collapsed into the separate,
+wider archaeological category "Black-and-Red Ware." Pottery traditions
 proceed chronologically from Neolithic hand-made coarse ware through
 Chalcolithic painted ware (Ahar, Malwa, Jorwe), Harappan Red Ware, Painted
 Grey Ware (Vedic age), to Mauryan NBPW (*Nitin…pdf*, PDF pp. 194, 199).
 
 ## 4. Foundation narrative
 
-✅ Famous Harappan sculptures: the **Pashupati Seal** (steatite, Mohenjo-
-daro, cross-legged horned figure surrounded by animals); the **Dancing
-Girl** (world's oldest bronze sculpture, Mohenjo-daro, tribhanga posture);
-the **Mother Goddess** figure (fertility-associated); the **Bearded
+✅ Famous Harappan objects: the so-called **Pashupati Seal** (steatite,
+Mohenjo-daro, a horned seated figure whose proto-Shiva identification R.S.
+Sharma explicitly calls doubtful); the **Dancing Girl** (one of the
+earliest celebrated South Asian lost-wax bronzes, often described through
+the later term tribhanga); terracotta female figures, whose automatic
+"Mother Goddess" label is interpretive rather than certain; and the **Bearded
 Priest** (steatite, Mohenjo-daro) (*Nitin…pdf*, PDF pp. 191-193). ✅ The
-**Didarganj Yakshi** (Mauryan period, Chauri/whisk-bearer) and the
+**Didarganj Chauri-bearer/Yakshi** (often dated Mauryan, but also assigned
+by scholars to later centuries) and the
 **Parkham Yaksha** exemplify Mauryan-period Yaksha/Yakshi sculpture,
 carrying the characteristic Mauryan polish (*Nitin…pdf*, PDF pp. 197-198).
-✅ Gandhara sculpture transformed Buddhist art by depicting the Buddha in
-human form for the first time, replacing earlier symbolic representation
+✅ Gandhara and Mathura both participated, around the early centuries CE,
+in the shift toward anthropomorphic Buddha images; priority between them is
+debated, so "Gandhara first" should not be stated as settled. Earlier
+Buddhist monuments often used symbolic representation
 (footprint, throne, wheel, tree); Greco-Roman influence shows in wavy
 hair, slender musculature, pleated garments, and elongated earlobes
 (*Nitin…pdf*, PDF pp. 201-202). ✅ The Mathura school used avayudhas
 (attribute-symbols) to represent Hindu gods (e.g. Shiva through linga)
 and depicted Buddha largely in Abhaya Mudra, with a larger, geometrically
-decorated halo than Gandhara (*Nitin…pdf*, PDF p. 203). ✅ Gupta-period
+decorated halo than Gandhara (*Nitin…pdf*, PDF p. 203). ✅ Gupta and immediately post-Gupta
 sculpture developed around Sarnath, using cream-coloured sandstone and
-metal, with immaculately draped, non-nude figures (Sultanganj Buddha, a
-7.5 ft copper sculpture) (*Nitin…pdf*, PDF p. 207).
+metal, with subtly modelled, thinly draped figures. The c. seventh-century
+Sultanganj copper Buddha is safer described as late/post-Gupta rather than
+an uncontested Gupta-period work.
 
 ✅ **Nataraja iconography (Chola):** rear right hand holds the damaru
 (creation-sound); rear left hand holds fire (destruction); front right
-hand in Abhaya Mudra (reassurance); front left hand in Gajahasta gesture
-pointing to the raised foot (path of salvation); left leg in
-bhujangatrasita stance (kicking away illusion/maya); Shiva dances on the
-dwarf Muyalaka (ignorance/ego); matted locks represent the Ganges; one
+hand in Abhaya Mudra (reassurance); front left hand crosses the torso and points toward the raised left foot (release);
+the supporting foot subdues the dwarf Apasmara/Muyalaka
+(ignorance/forgetfulness); matted locks may include the Ganga motif; one
 male and one female earring represent Ardhanarishvara fusion; a snake
 symbolises dormant kundalini power; a surrounding nimbus represents
 unending time cycles (*Nitin…pdf*, PDF pp. 211-212). ✅ The **earliest
@@ -113,6 +121,13 @@ Saptamatrikas) -> CHOLA (Nataraja bronze masterpiece)
 | ✅ Mathura | Indigenous development | Spotted red sandstone | Buddhism, Hinduism, Jainism |
 | ✅ Amaravati (Vengi School) | Indigenous, narrative-focused | Local stone, dynamic reliefs | Mainly Buddhist |
 
+| Reading problem | Safe formulation |
+|---|---|
+| Pashupati seal | "Horned seated figure, often interpreted as proto-Shiva; identification disputed" |
+| Didarganj figure | "Chauri-bearer traditionally dated Mauryan; chronology debated" |
+| First Buddha image | "Gandhara and Mathura developed anthropomorphic Buddha imagery in broadly overlapping early-CE contexts" |
+| Nataraja | "Pre-Chola antecedents, including Aihole; Chola bronzes achieved canonical portable form" |
+
 ## 6. Source spine
 
 ✅ *Nitin…pdf*, PDF pp. 189-214 (Chapter 3, "Sculpture and Pottery" — full
@@ -142,6 +157,16 @@ papers tests sculpture/pottery/iconography as a stand-alone topic.
   explicit that its earliest known example is at Aihole's Ravana Phadi
   Cave under the early Chalukyas; the Cholas brought it to its peak, not
   its origin.
+- ❌ Gandhara unquestionably made the first human Buddha image. -> R.S.
+  Sharma records both Gandhara and Mathura production in the Kushana age;
+  priority remains debated.
+- ❌ "Mother Goddess," "Priest-King" and "Pashupati" are deciphered
+  Harappan identities. -> These are modern labels/interpretations; the
+  script remains undeciphered.
+- ✅ **Local PYQ routes:** CSE 2019 asks for Central Asian and
+  Greco-Bactrian elements in Gandhara; CSE 2022 asks the significance of
+  lion and bull figures. Both reward material, context and symbol
+  distinctions rather than one-line labels.
 - ❌ Gandhara art is purely Greek art relocated to India. -> It combines
   Parthian, Central Asian/Bactrian and Greco-Roman influences layered
   over a Buddhist iconographic programme — "Indo-Greek" is a shorthand,
@@ -153,6 +178,9 @@ papers tests sculpture/pottery/iconography as a stand-alone topic.
   Pashupati seal show sophisticated technique (lost-wax casting, fine
   steatite carving), even though some terracotta figures are comparatively
   crude.
+- ❌ Harappan painted pottery is simply "Black-and-Red Ware." -> Most
+  Harappan pottery is red ware with black-painted designs; Black-and-Red
+  Ware is a separate technical category found in several cultures.
 
 ## 10. Mains framework
 

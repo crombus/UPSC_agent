@@ -55,6 +55,9 @@
 - ✅ Jainism split later into **Shvetambara** and **Digambara** traditions.
 - ✅ Buddhism: desire causes sorrow; Eightfold Path leads toward nirvana.
 - ✅ Buddhism spread widely outside India but declined in India by the twelfth century AD.
+- ✅ **Prelims identity distinction:** *Shakyamuni* and *Tathagata* are epithets of Gautama Buddha; **Nayaputta/Nataputta** refers to Mahavira in Pali tradition.
+- ✅ Jain doctrine recognizes four main forms of existence: **deva** (gods), **manushya** (humans), **naraki** (hell beings) and **tiryancha** (animals and plants).
+- ✅ Upanishads predate the Puranas and do contain parables/dialogues; do not confuse later Puranic narrative with all early philosophical storytelling.
 
 ## 5. UPSC Traps
 
@@ -62,12 +65,13 @@
 
 - ❌ Mahavira founded ahimsa for the first time. → RS Sharma notes earlier teachers already taught four vows; Mahavira added celibacy.
 - ❌ Triratna belongs to Buddhism. → It is a Jain formulation in this context.
+- ❌ *Nayaputta* is an epithet of the Buddha. → It is associated with **Mahavira**; Buddha is *Shakyamuni/Tathagata*.
 - ❌ Buddhism survived strongly in India everywhere after the 12th century. → RS Sharma says it virtually disappeared from most of India.
 - ❌ Jainism and Buddhism were only spiritual movements. → They were also responses to social, economic and ritual conditions.
 
 ## 6. 📰 Current link
 
-📰 **Navkar Mahamantra Divas / Mahavir Jayanti 2025:** Official observances linked Jain values such as ahimsa, satya and ecological restraint with modern public ethics. Use this as a living hook for Jainism's contribution to non-violence and environmental responsibility.
+⚠️ **Current-link discipline:** Verify any commemorative event from its official organizer. The safe contemporary linkage is the continuing ethical relevance of *ahimsa*, restraint, compassion and the Middle Path.
 
 ## 7. Mains angles
 

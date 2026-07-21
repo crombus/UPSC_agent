@@ -1,7 +1,7 @@
 # Centre-State & Inter-State Relations (Art 245–263, 268–293, 301–307) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 14–15 (Qdrant export + source book) + verified CA.
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 14–15 (direct check of the local Sixth Revised Edition PDF) + official updates.
 > ✅ = from source book · ⚠️ = inference · 📰 = current affairs.
 > *Companion: `basic/Centre-State-Relations.md`.*
 
@@ -34,7 +34,8 @@ for & got **President's assent** (then state law prevails in that state, but Par
 | ✅ Implement international agreements | **253** | e.g. UN Privileges Act, Anti-Hijacking Act, TRIPS |
 | ✅ During President's Rule | **356** | law continues even after; state may repeal later |
 
-**Centre's control:** Governor reserves bills for President (**absolute veto**); some State-List bills
+**Centre's control:** Governor may reserve bills; the **President** can exercise an
+absolute veto over a reserved state bill. Some State-List bills
 need President's **prior sanction**; during **financial emergency** money bills reserved.
 ✅ **Sarkaria Commission:** federal supremacy is "**a technique to avoid absurdity, resolve conflict**."
 
@@ -49,7 +50,8 @@ railways, mother-tongue instruction for linguistic minorities, welfare schemes f
 also impose duties by **parliamentary law without state consent** — a state **cannot** do the reverse.
 ✅ **Cooperation devices:** inter-state water dispute adjudication (Art 262), **Inter-State Council (Art
 263, set up 1990)**, Full Faith & Credit (Art 261).
-✅ **All-India Services (Art 312):** IAS + IPS (ICS/IP replaced 1947) + **IFS (created 1966)**; new AIS
+✅ **All-India Services (Art 312):** IAS + IPS (ICS/IP replaced 1947) + **Indian Forest
+Service (IFoS, created 1966; not the Indian Foreign Service)**; new AIS
 needs **Rajya Sabha resolution**. Ambedkar defended them for "**strategic posts**." Recruited/trained by
 Centre; **ultimate control = Centre, immediate control = state**.
 ✅ **Integrated judiciary**; **Art 355** duty on Centre (protect states vs external aggression/internal
@@ -57,9 +59,10 @@ disturbance + ensure constitutional governance). Extra-constitutional bodies: **
 Planning Commission), National Integration Council, Zonal Councils.
 
 ## A3. Financial Relations (Art 268–293, Part XII) ⭐⭐
-✅ **Taxing powers:** Union List **(13 tax entries)** exclusive to Parliament; State List **(18 tax
-entries)** exclusive to states; **no tax in Concurrent List** except **GST (101st Amdt 2016)** which is
-**concurrent**. Residuary tax → Parliament. Professional tax cap = **₹2,500/annum**.
+✅ **Taxing powers:** the book counts Union List **13 tax entries** and State List **18 tax
+entries**; the Concurrent List has **no general tax entry**. GST's shared legislative competence
+comes from the special rule in **Art 246-A** (101st Amendment), not from a Concurrent-List entry.
+Residuary tax → Parliament. Professional tax cap = **₹2,500/annum**.
 
 **Distribution of tax revenues:** ⭐
 | Category | Article |
@@ -76,7 +79,8 @@ entries)** exclusive to states; **no tax in Concurrent List** except **GST (101s
 **Grants:** ✅ **Statutory (Art 275)** — need-based, on FC recommendation; **Discretionary (Art 282)** —
 any public purpose, Centre's discretion (leverage over states).
 ✅ **GST Council (Art 279-A):** joint Centre-state forum; recommends rates/exemptions/threshold.
-✅ **Finance Commission (Art 280):** **quasi-judicial**, constituted **every 5 years**; "**balancing wheel
+✅ **Finance Commission (Art 280):** constitutional and periodic, described by
+Laxmikanth as **quasi-judicial**, constituted **every 5 years**; "**balancing wheel
 of fiscal federalism**." ✅ **Borrowing:** Centre borrows within/outside India; **state only within India**,
 and **needs Centre's consent** if a Central loan is outstanding.
 
@@ -94,8 +98,9 @@ Narmada, Ravi-Beas, **Mahanadi (2018:** Odisha/Chhattisgarh**)**.
 ✅ President may establish; duties: enquire into disputes, investigate common-interest subjects,
 recommend policy coordination (function is **advisory**, unlike Art 131 SC binding). ✅ **Sarkaria
 Commission** urged a permanent council ("Inter-Governmental Council") → **V.P. Singh govt set it up in
-1990**. **Chair = PM**; members = all CMs, UT CMs/administrators, 6 Union cabinet ministers. Meets **≥3×/yr**,
-in camera, decisions by **consensus**. Standing Committee (1996, chaired by **Union Home Minister**).
+1990**. **Chair = PM**; members = all CMs, UT CMs/administrators, 6 Union cabinet ministers.
+Its procedural guidelines envisage at least three meetings a year, in camera and by consensus;
+actual practice has been much less regular. Standing Committee (1996, chaired by the Union Home Minister).
 
 ## B3. Full Faith & Credit (Art 261)
 ✅ Public acts/records/judicial proceedings of Centre & states recognised throughout India; **civil**
@@ -118,12 +123,17 @@ deliberative. ✅ **North-Eastern Council** = separate Act (**NEC Act 1971**); 8
 📰 ✅ **16th Finance Commission** — constituted 2023, **Chair: Arvind Panagariya** (ex-NITI Aayog VC);
 report submitted **17 Nov 2025**; award period **2026-27 to 2030-31**, effective **1 Apr 2026**.
 The government retained vertical devolution at **41%** and accepted a horizontal formula adding
-**Contribution to GDP (10%)**. Debate: equity vs efficiency, population criteria and the divisible pool.
+**Contribution to GDP (10%)**. *(Official status checked 21 Jul 2026 against the Sixteenth
+Finance Commission report and Union Government action-taken material.)* Debate: equity vs
+efficiency, population criteria and the divisible pool.
 📰 ⚠️ **GST Council** (Art 279-A) frictions — compensation cess end, rate rationalisation, and the
 **voting-vs-consensus** debate after *Mohit Minerals* (2022, SC: GST Council recommendations are
 **persuasive, not binding** → reaffirmed fiscal federalism).
-📰 ⚠️ **Governor withholding assent to state bills** (TN, Kerala, Punjab SC cases 2023-24) — Art 200/254
-& administrative-relations flashpoint.
+📰 ✅ **Governor assent:** *State of Tamil Nadu v. Governor of Tamil Nadu* (8 Apr
+2025) imposed timelines/deemed assent in its case-specific reasoning; the later Article 143
+opinion, *In re: Assent, Withholding or Reservation of Bills* (20 Nov 2025), held that courts
+cannot create rigid timelines or automatic deemed assent, while prolonged, unexplained,
+indefinite inaction remains open to limited judicial review.
 
 
 ## ➕ Legislative Doctrines (high-yield gap)
@@ -147,7 +157,8 @@ The government retained vertical devolution at **41%** and accepted a horizontal
 - ❌ 42nd Amdt shifted subjects Concurrent→State → it was **State→Concurrent** (5 subjects).
 - ❌ Art 249 needs a national emergency → **no** — only a **Rajya Sabha 2/3 resolution**.
 - ❌ Zonal Councils are constitutional bodies → **statutory** (SRA 1956). NEC is under a **1971 Act**.
-- ❌ Finance Commission is permanent → constituted **every 5 years** (quasi-judicial).
+- ❌ Finance Commission is permanent → constituted every fifth year or earlier; "quasi-
+  judicial" is a standard descriptive label, not the Constitution's own classification.
 - ❌ Inter-State Council is a constitutional body → constitutional **provision (Art 263)** but the body
   itself was created by **executive order (1990)**.
 - ❌ GST Council recommendations bind the states → **persuasive only** (Mohit Minerals 2022).

@@ -32,7 +32,7 @@
 ✅ Upinder cautions against assuming uniform centralised control everywhere. The Mauryan state had a multi-tiered hierarchy and provincial centres, but actual political and economic control varied.
 - ✅ Officials and inspection teams were constantly moving, giving Ashokan governance a **peripatetic** quality.
 - ✅ The Arthashastra, Megasthenes and inscriptions are qualitatively different sources; divergences between them must be interpreted carefully.
-- ✅ Ashoka stands apart for the candid and confessional style of his edicts, his repeated explanation of Dhamma and his rejection of war.
+- ✅ Ashoka stands apart for the candid style of his edicts and his preference for *dhamma-vijaya* after Kalinga. This was not total pacifism: he retained coercive authority and warned forest peoples in Rock Edict XIII.
 - ⚠️ Best mains frame: the Mauryas were imperial, but not a modern bureaucratic nation-state.
 
 ## 2. Key classification / data
@@ -58,6 +58,7 @@
 - ✅ Ashoka's inscriptions include Major/Minor Rock Edicts and Pillar Edicts.
 - ✅ Rock Edict 13 is central for Kalinga and remorse.
 - ✅ Pillar Edict 5 is important for Dhamma policy.
+- ✅ *Pradeshika*, *rajuka* and *yukta* recur in Ashokan administrative contexts and are high-yield source terms.
 - ✅ Sources for Mauryas differ: inscriptions, Greek accounts, Arthashastra, Buddhist/Jaina/Puranic traditions.
 - ✅ Ashokan control was imperial but regionally variable.
 
@@ -72,7 +73,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Buddhist relic diplomacy, 2025:** India sent/exhibited sacred Buddha relics in Buddhist countries including Vietnam as part of Vesak-linked outreach. For Mauryan studies, this keeps Ashoka's model of Buddhist-connected diplomacy relevant: religion, statecraft and soft power continue to intersect.
+⚠️ **Current-link discipline:** Verify a relic exposition from official custody and host records. The safe linkage is the modern intersection of Buddhist sacred objects, diplomacy and statecraft.
 
 ## 7. Mains angles
 

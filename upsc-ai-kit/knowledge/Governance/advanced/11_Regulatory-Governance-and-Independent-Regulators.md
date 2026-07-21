@@ -170,11 +170,12 @@ rather than treating "regulatory independence" as a single yes/no property.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The Supreme Court's 19 November 2025 judgment is the fixed, current legal status:
+- 📰 **Status checked 21 July 2026:** the Supreme Court's 19 November 2025 judgment
+  (2025 INSC 1330) is the current judicial baseline:
   it struck down the Tribunals Reforms Act, 2021's four-year tenure and 50-year minimum-age
-  provisions and directed a National Tribunal Commission within four months. No fixed
-  current caseload/pendency figure for High Courts absorbing functions from abolished
-  tribunals is asserted here, since such data changes continuously.
+  provisions and directed a National Tribunal Commission within four months. No official
+  notification establishing the Commission was located by the cut-off; implementation of
+  that direction remains an unresolved legal-administrative issue.
 
 ## 10. PYQ-based analytical application
 
@@ -206,6 +207,8 @@ illustrates the political-economy limits of comprehensive regulatory unification
 4. Recommend a calibration (e.g., strengthened search-cum-selection independence, phased
    unification) rather than an all-or-nothing prescription.
 5. Anchor the answer in a specific, current Indian regulator or tribunal example.
+6. Add an ex-ante rule-quality test: published draft, reasoned response to consultation,
+   impact analysis, conflict-of-interest disclosure and ex-post review/sunset where suitable.
 
 ## 12. Probable questions
 

@@ -4,7 +4,7 @@
 > **Core area:** Trade policy.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.*
+> *Companion: `../advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.*
 
 ---
 
@@ -39,6 +39,7 @@ are demonstrable.
 | ✅ **FTA** | Agreement reducing trade barriers among members under agreed coverage and rules. |
 | ✅ **Rules of origin** | Criteria determining where a product originates for preferential treatment. |
 | ✅ **Protectionism** | Use of barriers or preferences to shelter domestic producers from external competition. |
+| ✅ **TRIPS** | WTO agreement setting minimum standards for intellectual-property protection; it does not itself grant a patent. |
 
 ## 3. Topic mechanism
 
@@ -80,6 +81,8 @@ are demonstrable.
   domestically.
 - ✅ Anti-dumping action addresses specified unfair pricing injury; it is not a general
   safeguard against all imports.
+- ✅ Countervailing duty addresses subsidised imports causing injury; safeguards address
+  serious injury from import surge without requiring dumping.
 - ✅ Services trade can be supplied across borders, through consumption abroad, commercial
   presence or movement of persons.
 - ✅ Trade balance concerns goods; the current account is broader.
@@ -110,8 +113,14 @@ conceal deeper dependence on imported inputs, technology and machinery.
 
 - ⚠️ 2025 GS-III: Challenges as the world shifts from multilateral free trade to
   protectionism and bilateralism.
+- ⚠️ 2024 GS-III: Intellectual-property rights in life materials and the gap between
+  patent filing and commercialisation.
 - ⚠️ 2026 Prelims provisional key links certification and port logistics to premium-market
   access and trade competitiveness.
+- ⚠️ **IPR answer route:** distinguish TRIPS minimum standards from domestic innovation
+  systems; explain commercialisation through research quality, technology transfer,
+  finance, regulatory pathways, market discovery, skills and risk appetite rather than
+  patent counts alone.
 
 ## 10. Mains angles
 
@@ -134,7 +143,7 @@ conceal deeper dependence on imported inputs, technology and machinery.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.
+- ✅ Advanced companion: `../advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.
 - ✅ `19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` — trade and current-
   account effects.
 - ✅ `17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — domestic capability and

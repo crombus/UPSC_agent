@@ -41,7 +41,7 @@ service-delivery capacity, and vice versa in principle.
 |---|---|
 | ✅ **Activity mapping vs functional devolution** | "Activity mapping" is the formal exercise of listing which specific activities within a subject are transferred to which tier of local government; genuine functional devolution requires that this mapping is matched by actual administrative and financial authority — many states have completed activity mapping exercises on paper without matching functionary/fund transfer, producing a devolution gap. |
 | ✅ **Parastatal encroachment** | State-level parastatal agencies (water boards, housing boards, development authorities) continuing to exercise functions nominally devolved to local bodies is a well-documented Indian pattern that hollows out local governments' practical service-delivery role even where the constitutional/statutory devolution appears complete. |
-| ✅ **Kerala People's Plan Campaign's specific design features** | The 1996 campaign combined (a) a substantial, guaranteed share of the state plan outlay devolved directly to local bodies, (b) genuine functional transfer across a wide range of subjects, (c) participatory local planning (Gram Sabha-level project identification) and (d) capacity-building support for local officials — its success is attributable to this *combination* of design features, not to fund devolution alone. |
+| ✅ **Kerala People's Plan Campaign's design features** | The 1996 campaign combined substantial plan-resource devolution, functional transfer, participatory local planning and capacity-building. Use a dated official source before attaching a precise percentage to the devolved share. |
 | ⚠️ **Merger as service-continuity solution vs merger as representation-dilution risk** | Rural-urban merger addresses a genuine service-delivery mismatch (peri-urban areas needing urban-level infrastructure/planning capacity that rural local bodies structurally lack) but simultaneously creates a real risk of diluting rural political representation and disrupting locally rooted revenue/tax arrangements — the correct analytical frame treats this as a genuine trade-off requiring context-specific criteria (population density, urbanisation trajectory, revenue-base compatibility), not a one-size-fits-all prescription. |
 
 ## 3. Detailed causal chain: from devolution design to service outcome
@@ -91,6 +91,11 @@ service-delivery capacity, and vice versa in principle.
   states — several states have not fully operationalised DPCs as effective bodies, reducing
   them to a formal plan-compilation exercise rather than a genuine integrated-planning
   institution.
+- ✅ Article 243ZD's four-fifths elected-member rule and common-interest planning factors make
+  DPCs representative coordinating bodies, not state-appointed district planning departments.
+- ✅ The Ministry of Panchayati Raj Devolution Index Report 2024 provides a current,
+  methodology-based PRI comparison; it should complement, not replace, state-specific
+  activity mapping, SFC and functionary-control evidence.
 - ✅ State Finance Commissions are the constitutionally mandated mechanism (composition/
   mandate detail is Polity-owned) for recommending local-body revenue devolution; their
   recommendations' actual acceptance and implementation by state governments varies, directly
@@ -153,11 +158,9 @@ service-delivery capacity, and vice versa in principle.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The devolution-gap diagnostic (constitutional recognition vs actual 3F transfer) is the
-  fixed, durable analytical tool for this topic. No fixed current 3F-devolution "score" or
-  DPC-effectiveness rating for any specific state is asserted here, since these continue to
-  change with state-level policy action; Kerala's 1996 campaign remains the durable
-  benchmark against which other states' partial devolution is compared.
+- 📰 **Status checked 21 July 2026:** cite the Devolution Index Report 2024 for PRI
+  comparison. Urban devolution, DPC effectiveness and PESA implementation still require
+  separate state-specific evidence.
 
 ## 10. PYQ-based analytical application
 
@@ -181,6 +184,8 @@ criteria to avoid trading service gains for representational and fiscal losses.
    mismatch) if reorganisation is at issue.
 5. Recommend a calibrated reform (full 3F devolution, empowered DPCs, criteria-based
    reorganisation) rather than a blanket structural prescription.
+6. Add asymmetric localism: Scheduled Areas/PESA, metropolitan regions and peri-urban
+   transitions require different institutional designs rather than one national template.
 
 ## 12. Probable questions
 

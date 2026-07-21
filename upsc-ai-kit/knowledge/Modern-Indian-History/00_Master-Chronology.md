@@ -1,7 +1,7 @@
 # Modern India — MASTER CHRONOLOGY (Full Timeline)
 
 > **Subject:** History (Modern India, c. 1707–2000) · **GS Paper:** GS-I (Modern History, Freedom Struggle, Post-Independence Consolidation) · **Also Prelims.**
-> **Grounded in:** Bipin Chandra, *Modern India* (basic) + *India's Struggle for Independence* (advanced) + *India After Independence, 1947–2000* (post-1947 topics 29–38).
+> **Grounded in:** Bipan Chandra, *Modern India* (basic) + *India's Struggle for Independence* (advanced) + *India After Independence, 1947–2000* (integration/post-1947 topics 28–38), cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partition*.
 > ✅ = from source book · ⚠️ = inference / standard periodisation · 📰 = current affairs.
 > *This is the spine. Every topic file (`basic/NN`, `advanced/NN`) carries its own mini-timeline; this file stitches them together.*
 
@@ -18,8 +18,8 @@
 | Event | Date | Significance |
 |---|---|---|
 | ✅ Death of Aurangzeb | 1707 | Begins the decline of the Mughal Empire |
-| ✅ Battle of Plassey | 1757 | Clive vs Siraj-ud-Daula; English East India Company gains Bengal |
-| ✅ Third Battle of Panipat | 1761 | Ahmad Shah Abdali defeats the Marathas; power vacuum |
+| ✅ Battle of Plassey | 1757 | Clive defeats Siraj through conspiracy; Company gains decisive political leverage, not yet legal sovereignty over Bengal |
+| ✅ Third Battle of Panipat | 1761 | Ahmad Shah Abdali defeats the Marathas and checks their northward advance; Maratha power later recovers |
 | ✅ Battle of Buxar | 1764 | Company defeats Mir Qasim–Awadh–Shah Alam II; real military supremacy |
 | ✅ Grant of the Diwani of Bengal | 1765 | Company gets revenue rights; "Dual Government" begins |
 
@@ -28,20 +28,21 @@
 | Event | Date | Significance |
 |---|---|---|
 | ✅ Regulating Act | 1773 | First parliamentary control; Governor-General of Bengal (Warren Hastings) |
-| ✅ Pitt's India Act | 1784 | Board of Control; dual government of the Company in Britain |
+| ✅ Pitt's India Act | 1784 | Board of Control plus Court of Directors; dual system of control in Britain |
 | ✅ Permanent Settlement (Bengal) | 1793 | Cornwallis; zamindars made proprietors |
-| ✅ Subsidiary Alliance | 1798– | Wellesley's instrument of indirect expansion |
-| ✅ Doctrine of Lapse | 1848–56 | Dalhousie annexes Satara, Jhansi, Nagpur, Awadh (1856) |
+| ✅ Subsidiary Alliance | 1798 onward | Wellesley's instrument of dependent alliance and indirect control |
 | ✅ Charter Act | 1813 | Ends Company trade monopoly (except tea/China); ₹1 lakh for education |
 | ✅ Charter Act | 1833 | Governor-General of **India** (Bentinck); Law Member (Macaulay) |
 | ✅ Macaulay's Minute / English Education | 1835 | English as medium of higher education |
 | ✅ Wood's Education Despatch | 1854 | "Magna Carta of English education" in India |
+| ✅ Doctrine of Lapse | 1848–56 | Dalhousie's annexation device; Satara, Jhansi (1854), Nagpur and other states |
+| ✅ Annexation of Awadh | 1856 | Annexed on the separate pretext of alleged misgovernment, not under the Doctrine of Lapse |
 
 ## 3. The Revolt of 1857 & Crown rule (1857–1885)
 
 | Event | Date | Significance |
 |---|---|---|
-| ✅ Revolt of 1857 | 1857–58 | Sepoy mutiny → popular revolt; ends Company rule |
+| ✅ Revolt of 1857 | 1857–58 | Began as a sepoy revolt and became a broad civil uprising in several north/central Indian regions; remained regionally uneven |
 | ✅ Government of India Act / Queen's Proclamation | 1858 | Crown assumes direct rule; Secretary of State + Viceroy |
 | ✅ Indian Councils Act | 1861 | Portfolio system; nominated non-official members |
 | ✅ Vernacular Press Act; Arms Act | 1878 | Lytton's repressive measures |
@@ -90,8 +91,8 @@
 | ✅ Congress Ministries in provinces | 1937–39 | Congress forms governments in 8 provinces; resign over WWII |
 | ✅ Cripps Mission | 1942 | Offer of dominion status rejected; "post-dated cheque" |
 | ✅ Quit India Movement | 1942 | "Do or Die"; the last great mass upsurge |
-| ✅ INA (Azad Hind Fauj) under Subhas Bose; INA trials | 1943–46 | Militarised nationalism; Red Fort trials galvanise opinion |
-| ✅ RIN Mutiny (Royal Indian Navy) | 1946 | Naval ratings' revolt; signals end of the Raj |
+| ✅ First INA; INA under Subhas Bose; INA trials | 1942; 1943–46 | Mohan Singh's first INA preceded Bose's reorganisation; Red Fort trials galvanised opinion despite military defeat |
+| ✅ RIN ratings' revolt | Feb 1946 | Short-lived but serious naval unrest within a wider post-war upsurge; its precise weight in British withdrawal remains debated |
 | ✅ Cabinet Mission Plan | 1946 | Rejects Pakistan; proposes grouping & Constituent Assembly |
 | ✅ Mountbatten Plan (3 June Plan) | 1947 | Partition accepted |
 | ✅ Indian Independence Act; Independence & Partition | 1947 | 15 August 1947; India & Pakistan created |
@@ -135,4 +136,4 @@
 
 > **Study link:** ✅ Each era → its topic file, e.g. Plassey/Buxar → `basic/04`+`advanced/04`; NCM-Khilafat → `basic/20`,`advanced/20`; Quit India → `basic/25`,`advanced/25`.
 > **Study link:** ⚠️ Constitutional ladder (1773 → 1858 → 1861 → 1892 → 1909 → 1919 → 1935) is threaded across `06`, `12`, `18`, `22`, `24` — also a **Polity** overlap.
-> **Study link:** ⚠️ Bridges *back* into **Medieval** (Mughal decline, Panipat III 1761) → `Medieval-Indian-History`; and *forward* into the **post-independence topics 29–38** (consolidation, reorganisation, Nehru era, Emergency, reforms) within this same folder.
+> **Study link:** ⚠️ Bridges *back* into **Medieval** (Mughal decline, Panipat III 1761) → `Medieval-Indian-History`; and *forward* into the **integration/post-independence topics 28–38** within this same folder.

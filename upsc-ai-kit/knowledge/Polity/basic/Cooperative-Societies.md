@@ -23,7 +23,9 @@ for state co-operatives** (no state ratification under Art 368) — it **survive
 
 ## Must-Know Facts
 - ✅ Parliament legislates for **multi-state** co-ops; **states** for the rest.
-- ✅ Part IX-B: board **max 21**, **5-yr** term, reservation (**1 SC/ST + 2 women**), audit in 6 months.
+- ✅ For the surviving Part IX-B field (multi-state co-operatives), board max **21** and
+  5-year term; one SC/ST and two women seats apply where the society's individual membership
+  includes those categories. Audit must be completed within six months of the financial-year close.
 - ✅ Art 19(1)(c) & Art 43-B remain valid after the 2021 verdict.
 
 ## 📰 Current link

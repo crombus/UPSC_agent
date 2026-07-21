@@ -3,7 +3,8 @@
 > **Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) |
 > **GS Paper:** GS-I.
 > **Core area:** Classical Sanskrit theatre; folk and modern Indian
-> theatre; string/shadow/glove/rod puppetry classification.
+> theatre; string/shadow/glove/rod puppetry; martial and ritual-performance
+> traditions.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
 > 500-568; `00_Master-Framework.md` Section 3; audited UPSC Mains 2024-2025
 > GS Paper I (no direct question).
@@ -24,19 +25,19 @@ cross-links with music (topic 08) and dance (topic 09).
 
 | Term | Exam-ready meaning |
 |---|---|
-| ✅ **Sitabenga and Jogimara Caves** | Often called the world's oldest amphitheatres, evidencing India's ancient theatre tradition (*Nitin…pdf*, PDF p. 501). |
+| ⚠️ **Sitabenga and Jogimara Caves** | Archaeological spaces and inscriptions linked by some scholars to performance; the popular "world's oldest amphitheatre" label is disputed and should not be stated as settled fact. |
 | ✅ **Lokadharmi vs. Natyadharmi** | Lokadharmi = realistic depiction of daily life; Natyadharmi = conventional, stylised, symbolic narration (*Nitin…pdf*, PDF p. 501). |
-| ✅ **Nataka and Prakarana** | The two of the ten classical Sanskrit play types that the Natya Shastra itself describes in detail (out of ten total types: Anka, Bhana, Dima, Ihamgra, Nataka, Prahasana, Prakarana, Svakarna, Vithi, Vyayog) (*Nitin…pdf*, PDF pp. 501-502). |
-| ✅ **Sutradhar** | The stage manager/director figure in classical Sanskrit theatre, who performs pre-play rituals and announces time/place; the same term denotes the "holder of strings" who narrates a puppet performance (*Nitin…pdf*, PDF pp. 502, 15035-ff). |
+| ✅ **Ten rupakas** | Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka; spellings and lists must not be reconstructed from faulty OCR. |
+| ✅ **Sutradhar** | The stage manager/director figure in classical Sanskrit theatre, who performs preliminaries and introduces the play; in puppetry the term is also interpreted as "holder of strings" and narrator (*Nitin…pdf*, PDF pp. 502, 540-542). |
 | ✅ **Nayaka, Nayika, Vidusaka** | The three broad character types in Sanskrit plays: hero, heroine, and the comic/satirical clown who traditionally spoke Prakrit while others spoke Sanskrit (*Nitin…pdf*, PDF p. 503). |
 | ✅ **Four puppetry categories** | String puppets (marionettes), shadow puppets, rod puppets, and glove puppets — India's broad puppetry classification (*Nitin…pdf*, PDF p. 541-ff). |
 
 ## 3. Core classification
 
-✅ Classical Sanskrit plays followed rigid conventions: four-to-seven act
-structure, mandatory happy endings (unlike Greek tragedy), a male
-protagonist who achieves his goal, and a ritualistic progression
-beginning with Purva-raga (pre-play rituals) (*Nitin…pdf*, PDF p. 502). ✅
+✅ Sanskrit dramaturgy uses codified plot, character, rasa, preliminaries
+and stage conventions, but not every play has one act-count or a simplistic
+"mandatory happy ending." Catastrophic action was generally not shown on
+stage and closure commonly restored order. ✅
 Puppetry in India is classified into **four categories**: string
 puppets (marionettes), shadow puppets, rod puppets and glove puppets, each
 with named regional traditions (*Nitin…pdf*, PDF p. 541-ff).
@@ -47,24 +48,42 @@ with named regional traditions (*Nitin…pdf*, PDF p. 541-ff).
 through terms like nataka, rupaka, drishyakavya and preksakavya; Bharata's
 Natya Shastra (200 BC-200 AD) is the first treatise on dramaturgy,
 describing the Natya Veda's creation by Brahma from the four Vedas
-(*Nitin…pdf*, PDF pp. 501, 13710-ff). ✅ Sanskrit theatre's stage could
-reportedly accommodate around 400 persons, was two-storeyed (upper for
-the celestial sphere, lower for the terrestrial), used curtains but **not
-masks** (*Nitin…pdf*, PDF p. 502). ✅ Puppetry's Indian antiquity is
+(*Nitin…pdf*, PDF pp. 501-503). ⚠️ Claims that every Sanskrit stage held 400 persons, was physically
+two-storeyed or categorically excluded masks should not be universalised
+from a summary; stage houses varied and performance texts distinguish
+convention from archaeological reconstruction. ✅ Puppetry's Indian antiquity is
 evidenced from the Harappa/Mohenjo-daro periods, with references in the
 Mahabharata, the Tamil text *Silappadikaram*, and marionette theatre from
 500 BC; the Bhagavad Gita's metaphor of God as a puppeteer gives the art
 form a philosophical dimension, and the narrator/puppeteer figure is also
-called Sutradhar (*Nitin…pdf*, PDF pp. 15032-15036). ✅ Named string-
+called Sutradhar (*Nitin…pdf*, PDF pp. 540-548). ✅ Named string-
 puppet traditions include Kathputli (Rajasthan, legless wooden dolls
 controlled by finger-tied strings), Kundhei/Kandhei Nacha (Odisha, more
 jointed, showing Odissi dance influence), and Gombeyatta (Karnataka,
 styled on Yakshagana theatre characters, using multiple puppeteers)
-(*Nitin…pdf*, PDF pp. 15065-15100). ⚠️ Puppetry is documented as
+(*Nitin…pdf*, PDF pp. 542-545).
+
+✅ **Four mechanisms, regional distinctions:**
+
+| Mechanism | Examples | Distinction |
+|---|---|---|
+| String | Kathputli (Rajasthan), Kundhei (Odisha), Gombeyatta (Karnataka) | Suspended/manipulated by strings; construction and jointing vary |
+| Shadow | Tholu Bommalata (Andhra Pradesh), Togalu Gombeyatta (Karnataka), Ravana Chhaya (Odisha) | Leather or opaque cut-outs projected against a lit screen |
+| Glove | Pavakoothu (Kerala) | Head/arms controlled by fingers inside a sleeve-like body |
+| Rod | Putul Nach (West Bengal), Yampuri (Bihar) | Figures moved by rods from below/behind |
+
+✅ **Martial-performance map:** Kalaripayattu (Kerala), Silambam (Tamil
+Nadu), Thang-ta (Manipur), Gatka (Punjab), Mardani Khel (Maharashtra) and
+Pari-khanda/Chhau-linked traditions (eastern India) must be mapped by
+weapon, movement and community rather than called one "ancient Indian
+martial art." Nitin, PDF pp. 552-560. ⚠️ Antiquity claims in oral lineages
+should be distinguished from securely dated textual evidence.
+
+⚠️ Puppetry is documented as
 currently in decline "because of lack of funding and captive audience,"
 with revival efforts such as Anupama Hoskere's (SNA Puraskar, 2020, via
 her organisation "Dhaatu") named as a specific, dated example
-(*Nitin…pdf*, PDF pp. 15040-15043).
+(*Nitin…pdf*, PDF pp. 540-548).
 
 ## 5. Visual map or comparison table
 
@@ -117,8 +136,8 @@ cross-links with topics 08-09 for shared performance-art vocabulary.
   The book is explicit that "portrayal of tragedy was almost rare" and
   plays "always had happy endings."
 - ❌ Sanskrit theatre used masks extensively, as in some other classical
-  traditions. -> The book explicitly states masks were **not** used;
-  curtains were used instead to intensify dramatic impact.
+  traditions. -> Mask use is form-specific; do not extrapolate one
+  Sanskrit-theatre summary to Kutiyattam, folk theatre or dance-drama.
 - ❌ India's four puppetry categories are stylistically interchangeable. ->
   String, shadow, rod and glove puppetry each have distinct construction
   and control mechanisms (e.g. Kathputli's legless, finger-string design
@@ -126,6 +145,12 @@ cross-links with topics 08-09 for shared performance-art vocabulary.
 - ❌ Puppetry is a thriving, unthreatened tradition. -> The book explicitly
   documents its current decline due to funding and audience shortages,
   alongside specific named revival efforts.
+- ❌ Martial traditions are interchangeable war dances. -> Kalaripayattu,
+  Silambam, Thang-ta and Gatka have different regions, weapon systems,
+  pedagogies and ritual/performance contexts.
+- ✅ **Local PYQ routes:** CSE 2014 identifies Kalaripayattu as a living
+  martial tradition of South India; CSE 2011 asks regional theatre forms
+  such as Bhand Pather, Swang, Maach, Bhaona, Mudiyettu and Dashavatar.
 
 ## 10. Mains framework
 

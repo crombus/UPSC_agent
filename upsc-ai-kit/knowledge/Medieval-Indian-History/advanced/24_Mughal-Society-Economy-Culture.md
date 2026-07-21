@@ -27,6 +27,7 @@
 - ✅ Bernier's claim that Mughal nobles were simply foreigners is criticised: by Aurangzeb's later reign, less than 10% of nobles of 1000 zat and above were born outside India, and immigrants assimilated into Indo-Mughal culture.
 - ✅ The nobility was bureaucratised through mansab rules, yet aristocratic and top-heavy; high nobles spent on mansions, retainers, stables, jewels and patronage.
 - ✅ Zamindars had forts/garhis, armed followings and local caste-clan links; the state tried both to discipline and use them for revenue and cultivation.
+- ✅ Rural hierarchy included resident owner-cultivators (*khud-kasht*), ordinary *raiyati/muzarian* and incoming *pahi-kasht* cultivators; mobility and concessions existed, but caste, residence and access to cattle/credit structured inequality.
 
 **Deeper — economy and culture: expansion with structural limits.**
 
@@ -34,6 +35,7 @@
 - ✅ India's exports included textiles, rice, pulses, wheat, oil, ghee, sugar, raw silk, cotton, pepper, indigo and tobacco; horses and some luxury goods were major imports, while bullion flowed in because of favourable trade balances.
 - ✅ Mughal state policy generally kept trade free, ports open, customs low, and prevented European fortified settlements while using land power against coercion.
 - ✅ Cultural production was institutional: painting as **karkhana**, architecture as collective craftsmanship, literature through Persian-regional exchange; yet technology lagged because elite science and artisanal production remained weakly connected.
+- ✅ Chandra rejects Bernier's claim that India lacked middle strata: merchants, shopkeepers, clerks, revenue officials, professionals and prosperous master-craftsmen occupied varied positions between great nobles and labouring poor.
 
 ## 2. Key classification / data
 
@@ -42,6 +44,8 @@
 | ✅ Nobility | Iranis/Turanis still large group, but most were India-born by late Aurangzeb | Refutes simplistic "foreign ruling class" claim |
 | ✅ Bernier | Useful but often criticised by Chandra on nobility/land arguments | Source criticism |
 | ✅ Zamindars | Armed, locally rooted, sometimes autonomous rajas/deshmukhs/patils/nayaks | Rural state capacity |
+| ✅ Cultivators | Khud-kasht, raiyati/muzarian, pahi-kasht | Residence, property and caste shaped dues |
+| ✅ Middle strata | Merchants, clerks, professionals, master-craftsmen | Corrects Bernier's binary picture |
 | ✅ Merchants | Abdul Ghaffur of Surat, Virji Vohra, Chettis, overseas agents | Indian commercial sophistication |
 | ✅ Trade balance | Bullion inflow; textiles central; West Asian/Southeast Asian routes | Early modern economy |
 | ✅ Karkhana | Imperial painting workshop under Akbar; multi-religious artisan base | Composite culture |
@@ -72,7 +76,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Development of Handloom and Handicraft Sectors, PIB (25 July 2025):** Ministry of Textiles reported support under handloom/handicraft development schemes for raw material, toolkits, design, marketing and concessional loans. **Relevance:** links historical artisan production and textile exports with modern craft-sector policy.
+📰 **Current linkage (verify live before use):** Contemporary handloom policy is a useful but limited bridge to Mughal artisan and merchant networks. Verify scheme data officially and avoid projecting modern labour categories backward.
 
 ## 7. Mains angles
 

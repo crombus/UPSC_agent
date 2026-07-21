@@ -29,6 +29,8 @@
 ✅ Later Vedic society shows expanding kingship, ritual hierarchy and agrarian surplus, but it is not yet the fully monetised urban world of the mahajanapadas.
 - ✅ The shift from *jana* to *janapada* marks the gradual territorialisation of political identity.
 - ✅ Brahmanical ritual helped legitimise chiefs; sacrifices became political theatre.
+- ✅ The *rajasuya*, *ashvamedha* and *vajapeya* converted surplus expenditure into public claims of sovereignty; ritual did political work.
+- ✅ Gotra exogamy and stronger patriarchal restrictions appear in later textual norms, but should not be projected uniformly across all regions.
 - ⚠️ The Upanishads can be read as a response to ritualism, but not as a complete rejection of the Vedic world.
 
 ## 2. Key classification / data
@@ -80,7 +82,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Purana Qila / Indraprastha excavation planning (Delhi, 2024–26):** reporting on the ASI's next excavation phase described a **LiDAR-guided** survey. Keep its results separate from **PGW (c. 1100–400 BC) found in earlier excavation campaigns** at Purana Qila; no fresh 2024–26 PGW result should be claimed without a dated ASI excavation bulletin. The valid topic hook is that earlier PGW remains provide material evidence for early-iron-age settlement in the upper Ganga-Yamuna region, not proof of a literal epic identification.
+⚠️ **Current-link discipline:** Earlier PGW finds at Purana Qila are evidence of early-Iron-Age settlement, not proof of a literal epic identification. Any new LiDAR or excavation result requires a dated ASI bulletin.
 
 ## 7. Mains angles
 

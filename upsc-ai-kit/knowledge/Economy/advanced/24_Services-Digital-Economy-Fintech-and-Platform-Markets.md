@@ -4,7 +4,7 @@
 > **Core area:** Services and digital transformation.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md`.*
+> *Companion: `../basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md`.*
 
 ---
 
@@ -69,8 +69,8 @@ liability to competing applications and regulating market power, data use and cy
 
 ## 4. Institutional architecture
 
-- ✅ **RBI and NPCI-regulated ecosystem:** govern payment systems and bank-linked digital
-  finance within their mandates.
+- ✅ **RBI and NPCI:** RBI regulates payment systems and authorised operators; NPCI operates
+  designated retail payment systems and interfaces within that framework.
 - ✅ **SEBI, IRDAI and PFRDA:** regulate digital distribution in securities, insurance and
   pensions.
 - ✅ **Competition Commission of India:** addresses abuse of dominance and anti-competitive
@@ -129,9 +129,9 @@ fraud awareness and grievance resolution determine effective inclusion.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 Services were 53.6% of nominal GDP/GVA in H1 FY26 and grew 9.1% in FY26 FAE. | Strong services output must be connected to tradability, productivity and the composition of urban employment. |
+| 📰 Services' share in GDP reached 53.6% in H1 FY26 and services GVA grew 9.1% in FY26 FAE. | Strong services output must be connected to tradability, productivity and the composition of urban employment. |
 | 📰 Services accounted for 30% of total employment and 61.9% of urban employment in the Economic Survey 2025-26 highlights. | The employment shares show services' labour importance but not uniform job quality or wages. |
-| 📰 Internet connections reached 101.78 crore by Sep 2025. | Connectivity scale supports digital delivery while effective access still depends on devices, skills and trust. |
+| 📰 Internet connections rose from 25.15 crore in 2014 to 96.96 crore in 2024 in the Survey's cited series. | A connection count supports a scale argument but does not prove equal device access, skills or trust. |
 
 ## 10. PYQ-based analytical application
 
@@ -153,8 +153,8 @@ fraud awareness and grievance resolution determine effective inclusion.
 1. Define **Services** and distinguish it from **Digital public infrastructure**.
 2. Applications build financial, commercial or public services on these shared digital
    layers.
-3. RBI and NPCI-regulated ecosystem: govern payment systems and bank-linked digital finance
-   within their mandates.
+3. RBI regulates payment systems and authorised operators; NPCI operates designated retail
+   payment systems and interfaces within that framework.
 4. Interoperability increases contestability but common standards may slow differentiated
    innovation.
 5. Recommend interoperability, consent, liability clarity, portable protection and
@@ -171,8 +171,7 @@ fraud awareness and grievance resolution determine effective inclusion.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/24_Services-Digital-Economy-Fintech-and-Platform-
-  Markets.md`.
+- ✅ Foundation companion: `../basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md`.
 - ✅ `05_Banking-Structure-NBFCs-and-Financial-Regulation.md` — regulated financial entities.
 - ✅ `08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md` — digital investment
   and tokenisation.

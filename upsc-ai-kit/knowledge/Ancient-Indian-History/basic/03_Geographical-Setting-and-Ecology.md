@@ -11,7 +11,7 @@
 
 | Phase | Approx date | Ecology / settlement marker |
 |---|---|---|
-| ✅ Palaeolithic | c. 2 million–10,000 BC | river valleys, raw stone, hunting-gathering |
+| ✅ Palaeolithic | c. 600,000–10,000 BC in R.S. Sharma's Indian chronology | river valleys, raw stone, hunting-gathering |
 | ✅ Neolithic | c. 7000–1000 BC | regional farming, cattle, rice/wheat zones |
 | ✅ Chalcolithic | c. 2000–700 BC | copper-stone rural cultures in dry and riverine zones |
 | ✅ Early historic | c. 600 BC onward | Ganga plains urbanisation, iron, rivers, monsoon agriculture |
@@ -69,7 +69,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Saraswati/Ghaggar-Hakra palaeochannel studies (2025–26):** renewed satellite, drilling and settlement-mapping work in Haryana-Rajasthan keeps ancient river ecology central to Harappan/Vedic chronology debates.
+⚠️ **Current-link discipline:** Use a dated palaeochannel study only after checking the paper or official survey. The safe linkage is that river reconstruction informs settlement ecology but cannot by itself prove a textual river identification.
 
 ## 7. Mains angles
 

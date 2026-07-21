@@ -141,13 +141,11 @@ through the adjudicatory tribunal layer above regulatory decisions.
 
 ## 8. 📰 Current anchor
 
-- 📰 The Supreme Court's 19 November 2025 judgment striking down the Tribunals Reforms Act,
-  2021's four-year tenure and 50-year minimum-age provisions, and directing a National
-  Tribunal Commission within four months, is the fixed, current legal status of tribunal
-  member service conditions. No fixed current caseload or pendency figure for High Courts
-  absorbing functions from the tribunals abolished by the 2021 Act is asserted here, since
-  caseload data changes continuously; the durable analytical point is the trade-off between
-  reduced tribunal proliferation and added generalist-court workload.
+- 📰 **Status checked 21 July 2026:** Supreme Court judgment **2025 INSC 1330**
+  (19 November 2025) struck down the four-year tenure and 50-year minimum age provisions and
+  directed creation of a National Tribunal Commission within four months. No official
+  notification establishing that Commission was located by this audit cut-off; describe
+  compliance as unresolved, not completed.
 
 ## 9. PYQ application
 
@@ -162,8 +160,8 @@ through the adjudicatory tribunal layer above regulatory decisions.
   domains, versus gains in appointment-process uniformity and reduced tribunal
   proliferation); (d) for any answer written after November 2025, add that the Supreme
   Court has since struck down the Act's tenure/age provisions and ordered a National
-  Tribunal Commission, reopening the appointment-design question the 2021 Act was meant to
-  settle.
+  Tribunal Commission. As of 21 July 2026, no official establishment notification was
+  located, reopening both appointment design and compliance questions.
 
 ## 10. Mains angles
 
@@ -174,6 +172,8 @@ through the adjudicatory tribunal layer above regulatory decisions.
 - ⚠️ For tribunal questions, always distinguish the *rationale* for tribunals (why they were
   created) from the *2021 reform's specific institutional changes* (what actually changed) —
   the PYQ rewards addressing both explicitly.
+- ⚠️ Apply six regulator tests: statutory mandate, appointment/removal, funding, rule-making
+  consultation/RIA, enforcement due process, and appeal/parliamentary reporting.
 
 > **Answer thesis:** Independent regulators and specialised tribunals exist to bring
 > technical expertise and speed to complex sectoral governance, but both require continuous

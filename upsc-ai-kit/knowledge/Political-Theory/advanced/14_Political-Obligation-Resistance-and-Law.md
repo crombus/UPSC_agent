@@ -1,8 +1,8 @@
 # Political Obligation, Resistance and Law - ADVANCED
 
 > **Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
-> **Core area:** The moral grounds and limits of obedience, the disciplined theory of resistance, and jurisprudential debates on legality, morality, liberty and rule of law.
-> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.11-12, PDF pp.280-300.
+> **Core area:** The moral grounds and limits of obedience, disciplined resistance, jurisprudential debates, and rival justifications of punishment.
+> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.11-12, PDF pp.280-300; *Socio-Political Philosophy*, PDF pp.164-167 for punishment.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
 > ✅ = source-grounded | ⚠️ = analytical inference/synthesis | 📰 = dated current anchor | ❌ = trap/misattribution.
 > *Companion: `Political-Theory/basic/14_Political-Obligation-Resistance-and-Law.md`.*
@@ -30,6 +30,11 @@ FINAL TEST
    legality != morality
    restraint can protect liberty
    rule of law restrains arbitrariness
+
+PENAL TEST
+   guilt -> necessary threshold
+   proportionality -> upper constraint
+   retribution / deterrence / reform -> rival aims
 ```
 
 - ✅ Gauba treats political obligation and concept of law as linked because obedience cannot be understood without knowing what counts as valid law, just law and limited government (PDF pp.280-300).
@@ -67,6 +72,16 @@ FINAL TEST
 - ✅ **Prescriptive law:** a humanly made rule, backed by sanctions, telling people what to do or refrain from doing (PDF pp.289-290).
 - ✅ **Positive law:** law expressing the sovereign will through proper enactment and enforceable sanction (PDF p.290).
 - ✅ **Rule of law:** governance by known, general, prospective and legally restrained norms rather than arbitrary will (PDF pp.298-300).
+- ✅ **Retribution:** backward-looking justification based on culpable desert and restoration of
+  moral/legal balance; a liberal version must remain proportionate rather than vindictive
+  (*Socio-Political Philosophy*, PDF p.164).
+- ✅ **Specific/general deterrence:** prevention directed respectively at the offender and at
+  potential offenders (PDF p.165).
+- ✅ **Reformation/rehabilitation:** changing the offender's dispositions and conditions so that
+  lawful reintegration becomes possible (PDF pp.165-166).
+- ⚠️ **Penal proportionality:** seriousness of harm and culpability constrain severity, but
+  proportionality is underdeterminate: it does not uniquely identify the humane, effective or just
+  sentence.
 
 ## 5. Thinker-by-thinker positions
 
@@ -100,6 +115,21 @@ FINAL TEST
 | ✅ **Gandhian view** | ✅ Conscience can justify law-breaking under strict moral discipline (PDF p.287). | ✅ Best account of principled resistance. | ⚠️ Demands unusual moral restraint from both leaders and followers. |
 | ✅ **Natural-law jurisprudence** | ✅ Valid law should answer to higher justice (PDF pp.290-291). | ✅ Preserves moral criticism of law. | ⚠️ Can lack procedural precision. |
 | ✅ **Positivism** | ✅ Validity depends on source/form, not moral content alone (PDF pp.291-292). | ✅ Gives technical clarity to legal systems. | ❌ Can detach legality from legitimacy too sharply. |
+
+### Punishment as a three-way argument
+
+| Theory | Temporal direction | Moral unit | Best argument | Hardest objection |
+|---|---|---|---|---|
+| Retributive | Backward to the completed wrong | Culpable agent and proportionate desert | Treats the offender as responsible rather than merely manipulable | Can reproduce vengeance and inflict suffering without prevention or repair |
+| Deterrent | Forward to future conduct | Social prevention | Connects punishment to public protection | May instrumentalize the offender; severity does not establish effectiveness |
+| Reformative | Forward to future character and reintegration | Offender as capable of change | Addresses causes and reduces exclusion | May understate culpability, victims and crimes not traceable to deprivation/pathology |
+
+- ⚠️ No single theory is sufficient for a complete penal philosophy. A defensible synthesis normally
+  requires legality and proof, proportionality, public protection, humane treatment and a realistic
+  opportunity for reform.
+- ⚠️ Capital punishment creates a special asymmetry: because it is irreversible, later
+  rectification of error and rehabilitation become impossible. This does not settle the debate by
+  itself, but it raises the justificatory burden.
 
 ## 7. Internal debates and criticisms
 
@@ -142,6 +172,11 @@ FINAL TEST
 - ⚠️ **Prompt 3:** Is legal validity enough for political obligation? Answer with reference to natural law, positivism and Gandhian conscience.
 - ⚠️ **Prompt 4:** "Rule of law restrains liberty only in order to secure liberty more generally." Evaluate.
 - ⚠️ **Prompt 5:** Can the state demand obedience when its officials are fallible and its laws morally contested?
+- ✅ **Verified PYQ cluster (2022-2025):** moral justification of capital punishment; juvenile
+  proportionality; deterrent effectiveness; right to life and death penalty.
+- ⚠️ PYQ framework: thesis on penal purpose -> three theories -> proportionality and culpability ->
+  error/irreversibility -> deterrence as empirical issue -> reform and public protection -> qualified
+  conclusion.
 
 ## 11. Cross-links and exclusions
 
@@ -161,10 +196,14 @@ FINAL TEST
 - ❌ Do **not** equate analytical jurisprudence with the denial of all morality; Hart and Dworkin themselves complicate Austin-style command theory (PDF pp.291-292).
 - ❌ Do **not** say rule of law is only about procedure and never about rights-protection; Gauba reads Dicey more broadly than that (PDF pp.299-300).
 - ❌ Do **not** duplicate Indian statute/case material here; this file supplies the conceptual tests by which such material should later be judged.
+- ❌ Do **not** treat the second source's pro- and anti-capital-punishment lists as settled facts.
+  They are argument inventories; claims of deterrent success require independent evidence.
 
 ## 13. Sources, metadata and tags
 
 - ✅ Primary source used: Gauba, Ch.11 "Grounds and Limits of Political Obligation" and Ch.12 "Concept of Law" (PDF pp.280-300).
+- ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.164-167.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
 - ✅ Page clusters used: force/divine right/conservative/consent (PDF pp.280-284); idealist, Marxist, anarchist and Gandhian positions (PDF pp.284-287); Gauba's cautionary conclusion (PDF pp.287-288); law, jurisprudence, sources, morality, liberty and rule of law (PDF pp.289-300).
 - ⚠️ All examples are historical or conceptual; no present-day statute/case claim is inserted.
 - ⚠️ Boundary preserved: conceptual theory here, applied Indian legal doctrine elsewhere.

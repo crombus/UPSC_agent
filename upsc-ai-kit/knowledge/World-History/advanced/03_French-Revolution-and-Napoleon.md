@@ -77,6 +77,15 @@
 | Body 4 | Napoleon as consolidation plus reversal |
 | Conclusion | Revolution outlived both monarchy and Napoleon because legitimacy itself had changed |
 
+### Exact PYQ support route (2025 GS-I)
+
+> **Verified from the local UPSC paper:** “The French Revolution has enduring relevance to the contemporary world. Explain. (Answer in 250 words)”
+
+⚠️ Answer through enduring **principles and political vocabulary**—legal equality, citizenship,
+popular sovereignty, secular public authority and nationalism—while qualifying that women,
+colonial subjects and poorer citizens did not immediately receive equal power. “Enduring
+relevance” does not mean that the institutions or conflicts of 1789 survive unchanged.
+
 ### Probable questions
 
 1. "The French Revolution was at once a bourgeois, popular and ideological revolution." Discuss.

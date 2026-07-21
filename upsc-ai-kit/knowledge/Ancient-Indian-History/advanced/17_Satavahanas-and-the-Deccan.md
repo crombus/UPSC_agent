@@ -31,6 +31,8 @@
 - ✅ Administrative divisions were **aharas**; officials included amatyas, mahamatras, mahasenapatis, scribes and record keepers; villages had **gramikas**.
 - ✅ Local elites such as **maharathis/mahabhojas** appear as donors in western Deccan Buddhist caves and had matrimonial ties with Satavahanas.
 - ✅ This shows a layered polity: royal power depended on regional chiefs, merchants, monks and Brahmanas rather than a Mauryan-style centralized bureaucracy.
+- ✅ Royal matronymics signal lineage and marriage politics, not female succession or a matriarchal state; they coexist with patrilineal dynastic rule.
+- ✅ Paddy transplantation, cotton and the Krishna-Godavari rice zone connect political expansion with an increasingly productive rural economy.
 
 ## 2. Key classification / data
 
@@ -67,7 +69,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Karla Caves and ASI standards, 2025–26:** Recent heritage debate around ASI maintenance, UNESCO-level standards and visitor management keeps Satavahana-linked Buddhist cave sites such as **Karla** relevant. Use it as a GS-I/heritage-governance hook: ancient merchant-Buddhist patronage now requires modern conservation capacity.
+⚠️ **Current-link discipline:** Verify a Karla conservation issue from ASI records. The safe linkage is managing visitor pressure and conserving merchant-supported Buddhist cave architecture.
 
 ## 7. Mains angles
 

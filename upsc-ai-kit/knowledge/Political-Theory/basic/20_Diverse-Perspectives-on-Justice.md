@@ -60,7 +60,15 @@
 ## 5. Essential distinctions
 
 - ✅ Rawlsian justice is not flat equality; liberty comes first, opportunity next, and only then may inequalities be permitted if they help the least advantaged. (PDF p.448)
+- ⚠️ Rawls canonically states **two principles**: the first secures equal basic liberties; the second
+  contains fair equality of opportunity and the difference principle, with opportunity prior to the
+  difference principle. Gauba's page 448 presents these as a three-step list for exposition.
+- ⚠️ Benefit to the least advantaged is therefore not sufficient by itself: inequality must also
+  respect equal basic liberties and genuinely fair opportunity.
 - ✅ Nozick does not deny justice; he denies redistributive or welfare-state patterning that violates just holdings and voluntary exchange. (PDF pp.451-452)
+- ✅ A current voluntary transfer is not sufficient for entitlement if the original acquisition or
+  earlier transfers were unjust; Nozick's third principle of rectification is integral, not optional
+  (PDF pp.450-452).
 - ✅ Marxist justice is not mainly about slightly better wages inside capitalism; it targets the exploitative structure of property and surplus extraction itself. (PDF pp.452-459)
 - ✅ Democratic socialism differs from Marxism by refusing dictatorship and insisting on freedom of thought, party competition and civil liberties alongside social justice. (PDF pp.459-461)
 - ✅ Feminist equality is not exhausted by identical legal treatment; Gauba also notes support for maternity benefits, exemptions from certain hazardous work, and reservations to correct underrepresentation. (PDF pp.466-468)
@@ -72,8 +80,8 @@
 
 | Thinker / stream | Position in this topic |
 |---|---|
-| John Rawls | ✅ Justice as fairness through equal liberty, fair opportunity and the difference principle chosen in the original position. (PDF pp.447-450) |
-| Robert Nozick | ✅ Justice as entitlement grounded in self-ownership, initial acquisition, voluntary transfer and rectification under a night-watchman state. (PDF pp.450-452) |
+| John Rawls | ✅ Justice as fairness through two lexically ordered principles: equal basic liberties; then fair opportunity plus the difference principle, chosen in the original position. Gauba explains the second principle's two parts as separate steps (PDF pp.447-450). |
+| Robert Nozick | ✅ Justice as entitlement grounded jointly in self-ownership, just initial acquisition, voluntary transfer and rectification under a minimal protective state (PDF pp.450-452). |
 | Marx and Engels | ✅ Capitalist injustice lies in exploitation of labour, surplus value and private ownership of major means of production; communist society aims to end class domination. (PDF pp.452-459) |
 | Harold Laski / E.F.M. Durbin | ✅ Democratic socialism combines socialist justice with democratic method, civil liberties and public services. (PDF pp.459-461) |
 | Godwin / Proudhon / Bakunin / Kropotkin / Tolstoy / Gandhi / Bookchin | ✅ Anarchist family members differ, but all distrust coercive authority and seek justice through decentralized, voluntary or morally regenerated association. (PDF pp.461-464) |
@@ -97,8 +105,8 @@
 
 | Perspective | Distribution rule | State | Property | Equality | Community | Critique |
 |---|---|---|---|---|---|---|
-| Rawlsian liberal | ✅ Equal liberties first; fair opportunity second; inequality only if it benefits the least advantaged. (PDF p.448) | ✅ Active state may pursue distributive justice and regulate inequalities. (PDF pp.448-450) | ✅ Retains capitalism conditionally, but only in a more humane, regulated form. (PDF p.450) | ✅ Equal liberty plus justified inequality, not simple leveling. (PDF pp.448-449) | ✅ Chain connection suggests the stronger social whole depends on improving the weakest link. (PDF pp.448-449) | ✅ Criticized by collectivists, Marxists, libertarians and communitarians from different angles. (PDF pp.448-449) |
-| Libertarian (Nozick) | ✅ Historical entitlement through just acquisition, voluntary transfer and rectification. (PDF pp.450-452) | ✅ Minimal state for common services and rectification, not welfare redistribution. (PDF pp.451-452) | ✅ Strong private property and self-ownership are central to liberty. (PDF pp.450-452) | ✅ Equality of outcome is irrelevant if holdings arose justly. (PDF p.451) | ✅ Community does not ground redistribution; aid to others is charity, not enforceable justice. (PDF p.452) | ✅ Criticized for moralizing market inequality and ignoring structural injustice. (PDF p.452) |
+| Rawlsian liberal | ✅ Equal liberties first; the second principle then requires fair opportunity before inequalities can be tested by the difference principle (PDF p.448). | ✅ Active state may pursue distributive justice and regulate inequalities. (PDF pp.448-450) | ✅ Retains capitalism conditionally, but only in a more humane, regulated form. (PDF p.450) | ✅ Equal liberty plus justified inequality, not simple leveling. (PDF pp.448-449) | ⚠️ Gauba's "chain connection" is his explanatory presentation of social interdependence, not a substitute for Rawls's ordered principles. | ✅ Criticized by collectivists, Marxists, libertarians and communitarians from different angles. (PDF pp.448-449) |
+| Libertarian (Nozick) | ✅ Historical entitlement through just acquisition, voluntary transfer and rectification. All three matter (PDF pp.450-452). | ✅ Minimal protective state plus rectification, not patterned welfare redistribution. (PDF pp.451-452) | ✅ Strong private property and self-ownership are central to liberty, qualified by just title and the acquisition proviso. | ✅ Equality of outcome is irrelevant only where holdings arose justly. | ✅ Community does not automatically ground coercive redistribution; voluntary aid remains possible. | ✅ Criticized for underestimating structural injustice and the indeterminacy of rectification. |
 | Marxist | ✅ Ultimately distribution by need in communist society; under capitalism, justice cannot be reduced to fair shares inside an exploitative system. (PDF pp.453, 458-459) | ✅ Socialist state is transitional, then expected to wither away with class abolition. (PDF pp.455-459) | ✅ Abolishes private ownership of major means of production while distinguishing personal property. (PDF pp.458-459) | ✅ Seeks abolition of exploitative class inequality. (PDF pp.453-459) | ✅ Envisions classless association where free development of each supports all. (PDF pp.458-459) | ✅ Criticized because new domination may reappear through political or bureaucratic power. (PDF p.459) |
 | Democratic-socialist | ✅ Social justice through partial socialization, welfare, public services and democratic rights. (PDF pp.459-461) | ✅ Strong welfare-democratic state, but not dictatorship. (PDF pp.460-461) | ✅ Mixed regime: some essential sectors under state ownership, not wholesale abolition. (PDF p.459) | ✅ Combines socio-economic justice with civil liberties and personality development. (PDF pp.459-460) | ✅ Public opinion, work culture and democratic institutions are needed to sustain it. (PDF p.461) | ✅ Criticized as hard to fund and politically difficult to sustain without coercion or incentive loss. (PDF p.461) |
 | Anarchist | ✅ Equitable sharing through voluntary cooperation, mutualism or communal association, not imposed hierarchy. (PDF pp.461-464) | ✅ State is coercive evil to be abolished or progressively diluted. (PDF pp.461-464) | ✅ Often hostile to property as domination, though strands differ. (PDF pp.462-464) | ✅ Equality means release from domination by state, hierarchy and exploitative ownership. (PDF pp.462-464) | ✅ Small associations, federations and mutual aid are preferred to centralized rule. (PDF pp.462-464) | ✅ Criticized as politically impracticable, overly optimistic about human nature, and weak on regulation. (PDF p.464) |
@@ -109,7 +117,11 @@
 ## 9. UPSC traps and corrections
 
 - ❌ Rawls wants identical outcomes for all. -> ✅ Rawls permits inequality after liberty and fair opportunity, provided it benefits the least advantaged. (PDF p.448)
+- ❌ The difference principle alone is enough to justify an inequality. -> ✅ Equal basic liberties and
+  fair equality of opportunity have lexical priority.
 - ❌ Nozick is anti-justice. -> ✅ Nozick proposes a full theory of justice, but one centred on entitlement rather than redistribution. (PDF pp.451-452)
+- ❌ Any voluntary market transfer is just for Nozick. -> ✅ The transfer must rest on just title;
+  acquisition, transfer and rectification form a connected historical test.
 - ❌ Marxism has nothing to do with justice. -> ✅ Gauba says that would be too strong, because Marx condemns exploitation and endorses superior distributive principles in a classless order. (PDF p.453)
 - ❌ Democratic socialism is just Marxism without elections. -> ✅ It explicitly insists on freedom of thought, multi-party competition and opposition rights. (PDF pp.460-461)
 - ❌ Feminism only demands that women be treated exactly like men in every situation. -> ✅ Gauba also notes claims for maternity benefits and compensatory support rooted in actual disadvantage. (PDF pp.466-468)
@@ -127,7 +139,9 @@
 
 ## 11. Revision capsule / answer spine
 
-- ✅ Rawls: justice as fairness = equal liberty + fair opportunity + difference principle. (PDF pp.447-450)
+- ✅ Rawls: two principles—equal basic liberties; then fair opportunity plus the difference
+  principle in lexical order. Gauba presents the second principle's two parts as separate steps
+  (PDF pp.447-450).
 - ✅ Nozick: justice in holdings = acquisition + transfer + rectification under minimal state. (PDF pp.450-452)
 - ✅ Marxist: injustice lies in exploitation and private ownership of major means of production; communist justice points to need-based distribution. (PDF pp.453-459)
 - ✅ Democratic-socialist: welfare and social ownership must coexist with civil liberties and democratic competition. (PDF pp.459-461)
@@ -136,6 +150,9 @@
 - ✅ Walzer adds the important reminder that equality can mean keeping money from colonizing every other sphere of life. (PDF pp.472-473)
 - ⚠️ One-line synthesis: justice debates move from fair procedure, to valid title, to structural exploitation, to recognition and finally to shared meanings of goods.
 - ⚠️ Best answer move: compare each theory on rule of distribution, role of state, treatment of property, idea of equality, view of community, and strongest criticism.
+- ✅ **Verified PYQ (2023):** What is justice as fairness? Explain Rawls's theory of justice.
+- ⚠️ PYQ trap: do not write only the difference principle; define original position and veil of
+  ignorance, state the two principles and their priority, then add objections.
 
 ## 12. Sources, metadata and tags
 
@@ -146,5 +163,6 @@
 - ✅ Feminist, subaltern and communitarian anchor pages: PDF pp.464-473.
 - ✅ Walzer and communitarian critique anchor pages: PDF pp.470-473.
 - ✅ Chapter-opening perspective list anchor: PDF p.446.
+- ✅ Verified local PYQ: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
 - ⚠️ No post-2009 example has been introduced; all illustrations remain conceptual or clearly book-period.
 - ⚠️ The matrix format and some comparative wording are exam-oriented syntheses built from Gauba's chapter structure and are tagged accordingly.

@@ -2,7 +2,7 @@
 
 > **Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
 > **Core area:** Supreme authority of the state, its legal and political forms, and the pluralist challenge to monistic sovereignty.
-> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.7-8, PDF pp.179-208.
+> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.7-8, PDF pp.179-208; *Socio-Political Philosophy*, PDF p.67 for a limited Kautilyan comparator.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
 > ✅ = source-grounded | ⚠️ = analytical inference/synthesis | 📰 = dated current anchor | ❌ = trap/misattribution.
 > *Companion: `Political-Theory/advanced/11_Sovereignty-and-Pluralism.md`.*
@@ -77,6 +77,13 @@ SOVEREIGNTY
 - ✅ **Bentham:** sovereignty is legally unbound but morally limited, and resistance may sometimes be justified if utility is violated (PDF p.183).
 - ✅ **Austin:** sovereignty is a determinate human superior habitually obeyed and not habitually obedient to a like superior; this is the strongest legal-monist formulation (PDF pp.183-185).
 - ✅ **Laski:** the state is one association among many; authority must be morally justified and function coordinatively rather than as omnipotence (PDF pp.196-204).
+- ✅ **Kautilya (secondary-source comparator):** the supplied *Socio-Political Philosophy* synopsis
+  places the *swami* first within the seven-limbed state—ruler, ministers, territory/population,
+  fort, treasury, force and ally—and treats preservation of sovereignty as dependent on the
+  condition of all seven limbs (PDF p.67).
+- ⚠️ Kautilya should not be collapsed into Austin: the synopsis is a functional account of rulership
+  and state-capacity, whereas Austin's theory is a juristic test of a determinate, habitually obeyed
+  superior.
 
 ## 7. Illustrative examples
 
@@ -107,6 +114,19 @@ SOVEREIGNTY
 - ❌ **"Federalism proves sovereignty is divided."** -> ✅ Gauba distinguishes sovereignty from governmental powers; powers may be distributed while sovereignty remains one (PDF pp.186-187).
 - ❌ **"Pluralists are anarchists."** -> ✅ Pluralists limit and morally qualify the state; they do not abolish it, and they retain coordinating functions for it (PDF pp.197-198).
 - ❌ **"Popular sovereignty is just majority whim."** -> ✅ Rousseau's general will is presented as the common or real interest, not the mere sum of momentary particular desires (PDF pp.191-193).
+- ❌ **"Kautilya and Austin give the same theory because both emphasize a ruler."** -> ✅ Kautilya's
+  seven-limbed state distributes attention across administration, territory, finance, force and
+  alliance; Austin supplies a legal criterion of sovereignty.
+
+### Verified local PYQ transfer
+
+- ✅ **2022:** Bodin on sovereignty as absolute, perpetual and undivided.
+- ✅ **2023:** Laski's rejection of absolute sovereignty.
+- ✅ **2024:** *Arthaśāstra* insights on sovereignty and modern relevance.
+- ✅ **2025:** Kautilya's sovereignty through the maxim that there is no permanent friend or enemy.
+- ⚠️ PYQ trap: identify the thinker's distinctive problem first—legal finality (Bodin/Austin),
+  plural allegiance (Laski), or preservation of a seven-limbed state under changing internal and
+  external conditions (Kautilya).
 
 ## 10. Cross-links and boundaries
 
@@ -129,6 +149,9 @@ SOVEREIGNTY
 ## 12. Sources, metadata and tags
 
 - ✅ Primary source used: Gauba, Ch.7 "Concept of Sovereignty" and Ch.8 "Pluralist Theory of Sovereignty" (PDF pp.179-208).
+- ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF p.67, used only for the
+  Kautilyan comparator and not to rewrite Gauba's juristic framework.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
 - ✅ Key page clusters: concept and thinkers (PDF pp.179-185); characteristics and aspects (PDF pp.185-188); popular sovereignty (PDF pp.189-193); pluralist critique and Laski/Maclver (PDF pp.194-208).
 - ⚠️ Any answer examples here are pedagogical unless explicitly marked as direct historical illustrations from Gauba.
 - ⚠️ No post-2009 factual claim is relied upon in this file.

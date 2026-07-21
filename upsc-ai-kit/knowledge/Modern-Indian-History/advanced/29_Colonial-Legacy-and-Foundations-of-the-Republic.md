@@ -16,7 +16,7 @@
 | ✅ Feb 1948 | CPI, under B.T. Ranadive, declares independence "fake" and turns to armed struggle |
 | ✅ 1949–50 | RSS ban lifted (July 1949); Nehru–Liaquat Pact (Apr 1950); Constitution enforced (26 Jan 1950) |
 | ✅ 1951 | Telangana struggle withdrawn; CPI legalised; first general election begins |
-| ✅ 1954 / 1961 | Pondicherry transferred; Goa liberated by police action (17 Dec 1961) |
+| ✅ 1954 / 1961 | Pondicherry transferred; Indian military action in Goa begins on the night of 17 Dec 1961 |
 
 ## 1. Snapshot & core idea
 
@@ -58,7 +58,7 @@
 - ✅ India paid Pakistan **Rs 550 million** under the assets settlement in **January 1948**.
 - ✅ The **CPI's insurrectionary line** (1948–51) is associated with **B.T. Ranadive**; it was reversed after 1951 under **Ajoy Ghosh**.
 - ✅ The **Nehru–Liaquat Pact (1950)** addressed minority security after post-Partition riots.
-- ✅ Goa was integrated through a **police action in December 1961**, ending Portuguese rule.
+- ✅ Goa was integrated through **Indian military action (Operation Vijay) in December 1961**, ending Portuguese rule; do not confuse it with Hyderabad's 1948 "Police Action".
 - ✅ Universal adult franchise was adopted at once — a radical break from the tiny colonial franchise.
 
 ## 5. UPSC Traps

@@ -1,7 +1,7 @@
 # CIC & SIC — Information Commissions (RTI Act, 2005) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 57–58 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 57–58 (direct check of the local Sixth Revised Edition PDF) + official updates.
 > ✅ = from source book · ⚠️ = inference / analysis · 📰 = current affairs.
 > *Companion: `basic/CIC-and-SIC.md`.*
 >
@@ -22,7 +22,7 @@ body** that decides **complaints & appeals** on offices/PSUs/financial instituti
 | ✅ Re-appointment | **NOT eligible** |
 
 ## Tenure & removal ⭐⭐
-- 📰 **Term = "as prescribed by the Central Government"** or **65 years**, whichever earlier.
+- 📰 **Term = 3 years under the RTI Rules, 2019**, subject to the statutory maximum age of **65**.
   ⚠️ **The RTI (Amendment) Act, 2019** removed the earlier **fixed 5-year term** and the salary parity with the
   **Election Commission**, making **tenure, salary & service conditions decided by the Central Government** — widely
   criticised as **undermining the CIC's independence** and turning it into a subordinate body.
@@ -43,7 +43,7 @@ report** → Parliament.
 | ✅ Members | **State CIC + up to 10 State Information Commissioners** |
 | ✅ Appointed by | **Governor**, on a committee: **CM (chair)** + **LoP (Assembly)** + a **State Cabinet Minister** |
 | ✅ **Removed by** | **GOVERNOR** (for proved misbehaviour → **SC inquiry**) |
-| ✅ Term | **As prescribed by the Central Government** / 65 years |
+| ✅ Term | **3 years under the 2019 Rules** / maximum age 65 |
 
 ⭐ **Crucial distinction:** SIC members are **appointed AND removed by the Governor** — UNLIKE the **SHRC**, whose
 members the Governor appoints but only the **President** can remove.
@@ -52,8 +52,8 @@ members the Governor appoints but only the **President** can remove.
 
 ## UPSC Traps
 - ❌ CIC/SIC are constitutional bodies → **statutory** (RTI Act 2005).
-- ❌ CIC's term is fixed at 5 years → **"as prescribed by the Central Government"** since the **2019 Amendment**
-  (max 65 yrs age).
+- ❌ CIC's term remains 5 years → after the **2019 Amendment**, Central rules prescribe
+  it; the **RTI Rules, 2019 currently prescribe 3 years**, subject to age 65.
 - ❌ CIC salary equals the Election Commissioners' → that **parity was removed** by the 2019 Amendment.
 - ❌ CIC can have unlimited Information Commissioners → **max 10** (+ the Chief).
 - ❌ SIC members are removed by the President → removed by the **Governor** (contrast SHRC = President).
@@ -62,8 +62,10 @@ members the Governor appoints but only the **President** can remove.
 
 ## 📰 CA hooks
 - 📰 **RTI (Amendment) Act, 2019** — Centre controls tenure/salary → the **independence** debate.
-- 📰 **DPDP Act, 2023 amended RTI Section 8(1)(j)** — critics say it **exempts ALL "personal information"** from
-  disclosure, potentially **gutting RTI** (public-servant asset/qualification info); activists demand its repeal.
+- 📰 ✅ **DPDP Act, 2023 section 44(3)** substituted RTI section 8(1)(j) with effect
+  from **13 Nov 2025** under MeitY's commencement notification. The new text exempts
+  information relating to personal information; its interaction with the public-interest
+  override and constitutional right-to-information doctrine remains contested.
 - 📰 ⚠️ **Vacancies & pendency** in the CIC/SICs — several commissions functioning below strength or defunct, delaying
   appeals (SC has flagged this).
 

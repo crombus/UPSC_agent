@@ -18,11 +18,11 @@
 | Group / island | Sea | Origin / note |
 |---|---|---|
 | ✅ Andaman Islands | Bay of Bengal | Extension of Tertiary Arakan Yoma; sandstone, limestone and shale in source notes |
-| ✅ Nicobar Islands | Bay of Bengal | Mainly coral origin; 18 islands, 11 inhabited in source notes |
+| ✅ Nicobar Islands | Bay of Bengal | Emergent parts of the same tectonic island arc, with extensive fringing reefs and sedimentary/volcanic rocks |
 | ✅ Barren Island | Bay of Bengal | India's only active volcano |
-| ✅ Narcondam | Bay of Bengal | Dormant volcano |
+| ✅ Narcondam | Bay of Bengal | Volcanic island; avoid treating activity status as settled in a simple active/dormant binary |
 | ✅ Lakshadweep | Arabian Sea | Entirely coral origin; atolls |
-| ✅ Saddle Peak | North Andaman | Highest point noted: ~737 m |
+| ✅ Saddle Peak | North Andaman | Highest point of the Andaman-Nicobar archipelago; use Survey of India data for exact elevation |
 
 ## 3. Core static theory
 
@@ -36,17 +36,18 @@
 
 ### 3.3 Dynamic coastlines and island fragility
 
-✅ Khullar's extracted notes mention dynamic island coastlines near the Ganga delta, where islands appear and vanish with sea-level/coastal change (e.g. New Moore Island). ⚠️ For UPSC, island geography must be linked to tectonic risk, coral ecology, sea-level change and strategic location.
+✅ Khullar notes dynamic deltaic islands near the Sundarbans, where channel migration, erosion and
+accretion can create or remove low-lying bars/islands (the New Moore/South Talpatti example). ⚠️ For UPSC, island geography must be linked to tectonic risk, coral ecology, sea-level change and strategic location.
 
 ## 4. Must-Know Facts (Prelims)
 
 - ✅ Andaman = Arakan Yoma extension; tectonic/fold-belt link.
-- ✅ Nicobar = mainly coral origin; 18 islands, 11 inhabited in source notes.
+- ✅ Nicobar islands belong to the tectonic island arc and are fringed by coral reefs; they are not simply coral atolls.
 - ✅ Barren Island = India's only active volcano.
-- ✅ Narcondam = dormant volcano.
+- ✅ Narcondam = volcanic island; Barren Island is India's only historically active volcano.
 - ✅ Lakshadweep = entirely coral atolls in Arabian Sea.
 - ✅ A&N region lies in a major earthquake zone.
-- ✅ Saddle Peak in North Andaman is ~737 m.
+- ✅ Saddle Peak is in North Andaman and is the archipelago's highest point.
 
 ## 5. UPSC Traps
 

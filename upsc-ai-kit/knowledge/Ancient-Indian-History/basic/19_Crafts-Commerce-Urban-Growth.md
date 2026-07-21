@@ -68,7 +68,7 @@
 
 ## 6. 📰 Current link
 
-📰 **National Maritime Heritage Complex, Lothal, 2025:** PIB updates note Phase 1A of the NMHC at Lothal targeted for 2025 completion, including galleries and a recreated Lothal township. Use it as a current hook for India's long maritime-trade tradition from Harappan ports to early-historic commerce.
+⚠️ **Current-link discipline:** Project deadlines for a maritime museum must be checked from the latest official release. The safe linkage is the public interpretation of ancient ports and Indian Ocean trade.
 
 ## 7. Mains angles
 

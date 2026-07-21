@@ -9,10 +9,11 @@
 
 ## 1. India's polar analogue: the Ladakh cold desert
 
-✅ India's counterpart to the polar/tundra realm is the **cold desert of Ladakh** — the **Trans-Himalayan
-ranges of Zanskar, Ladakh and the Karakoram** in J&K/Ladakh (Husain). ✅ The **Ladakh (Karakoram) region**
-sprawls over **~350,000 sq km**, ~700 km long × ~500 km wide, average height **~3,000 m**, holding the
-**largest number of glaciers in India** — "characterised by cold desert conditions" (Husain).
+✅ India's cold-desert analogue is **Ladakh and adjoining trans-Himalayan/inner-Himalayan valleys**.
+The Karakoram and Ladakh ranges are Trans-Himalayan; the Zanskar Range is commonly treated with the
+Greater/Himalayan system. Old source dimensions for a broad “Ladakh-Karakoram region” extend beyond
+today's Ladakh UT and must not be quoted as its administrative area. Glacier counts depend on boundary
+and inventory method.
 
 ✅ Husain classes it in the **cold desert & semi-desert biome** (with the Sierra Nevada–USA and the
 Andes–Argentina): *"winter snow occurs but is generally light; summers are hot; dryness, clear skies and
@@ -42,18 +43,20 @@ patches of barley, peas and vegetables; the **Changpa** rear pashmina goats and 
 - ⚠️ **NCPOR (Goa)** runs India's polar science; India acceded to the **Antarctic Treaty (1983)** and has
   the **Indian Antarctic Act, 2022** and an **Arctic Policy (2022, 6 pillars)**.
 - ⚠️ Stations: **Dakshin Gangotri** (1st, 1983–90) → **Maitri** (1989, Schirmacher Oasis) → **Bharati**
-  (2012, Larsemann Hills); Arctic **Himadri** (2008, Ny-Ålesund, Svalbard); Himalayan **Himansh** (Ladakh)
+  (2012, Larsemann Hills); Arctic **Himadri** (2008, Ny-Ålesund, Svalbard); Himalayan **Himansh**
+  in Spiti, Himachal Pradesh
   for glacier studies.
 - ⚠️ Research theme: **teleconnections** — Arctic sea-ice loss is linked to disruption of the **Indian
   monsoon** and Himalayan snowfall, tying the poles directly to India's water security.
 
 ## 5. Must-Know Facts (Prelims)
 
-- ✅ Ladakh = India's **cold desert**, in the **Trans-Himalaya** (Zanskar–Ladakh–Karakoram); ~3,000 m avg;
-  most glaciers of any Indian region.
+- ✅ Ladakh = India's principal cold-desert region; distinguish Trans-Himalayan Karakoram/Ladakh ranges
+  from the Zanskar Range and avoid broad-region area/glacier superlatives.
 - ✅ Cold-desert biome shared with **Sierra Nevada (USA)** and the **Andes (Argentina)** — light winter
   snow, hot summers, high radiative loss.
-- ⚠️ India's polar stations: **Maitri, Bharati** (Antarctic), **Himadri** (Arctic), **Himansh** (Ladakh);
+- ⚠️ India's polar/high-altitude stations: **Maitri, Bharati** (Antarctic), **Himadri** (Arctic),
+  **Himansh** (Spiti, Himachal Pradesh);
   coordinated by **NCPOR, Goa**.
 - ⚠️ Legal/policy: **Antarctic Treaty 1959** (India 1983), **Indian Antarctic Act 2022**, **Arctic Policy
   2022**.
@@ -69,11 +72,9 @@ patches of barley, peas and vegetables; the **Changpa** rear pashmina goats and 
 
 ## 7. 📰 Current link
 
-📰 **India's polar leap, 2025.** In **Oct 2025** the Finance Ministry gave in-principle approval for
-**Maitri-II** — India's **4th and largest** Antarctic base (~**₹2,150 crore**, housing up to **140**
-researchers, targeted by ~2032). The same month India ran its **first direct Goa→Antarctica air-cargo**
-(IL-76), transforming polar logistics; and by **Feb 2025** India had completed **15 Arctic expeditions**
-from Himadri. Together they mark India's rising **polar-science and Arctic-governance** footprint.
+📰 **India's polar infrastructure:** Maitri-II planning and expedition logistics are evolving. Quote
+approval stage, cost, capacity, expedition count and target year only from the latest NCPOR or Union
+government document; do not count a proposed base as an operational “fourth station.”
 
 ## 8. Mains angles
 

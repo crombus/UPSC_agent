@@ -4,7 +4,7 @@
 > **Core area:** Monetary policy.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md`.*
+> *Companion: `../basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md`.*
 
 ---
 
@@ -55,6 +55,9 @@ trace pass-through through markets, banks, borrowers and expectations.
 
 - ⚠️ Separate stance, policy rate, operating target, liquidity corridor and instruments;
   they form one architecture but do different jobs.
+- ⚠️ The formal target concerns headline CPI, the repo is the MPC's policy signal and WACR
+  is the operating target; treating any one as a synonym for the others obscures
+  transmission.
 - ⚠️ Transmission channels include interest rates, bank credit, asset prices, exchange rates
   and expectations.
 - ⚠️ A liquidity deficit can keep overnight rates firm even when the announced stance is
@@ -167,7 +170,7 @@ stalled project or recapitalise a weak borrower.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md`.
+- ✅ Foundation companion: `../basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md`.
 - ✅ `03_Inflation-Price-Indices-and-Business-Cycles.md` — the objective and inflation
   diagnosis.
 - ✅ `05_Banking-Structure-NBFCs-and-Financial-Regulation.md` — institutions carrying

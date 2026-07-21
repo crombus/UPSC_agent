@@ -31,8 +31,9 @@ British (maritime) and Siberian (continental) types** — it has **features of b
 
 ✅ Off **northern Japan**, the cold **Oyashio** current meets the warm **Kuroshio**, producing **fog and
 mist** and making north Japan a **"second Newfoundland."** ✅ **Fishing replaces agriculture** as the main
-occupation in many coastlands. ⚠️ Likewise off Newfoundland the cold **Labrador** current meets the warm
-**Gulf Stream** over the shallow **Grand Banks** — historically one of the world's great **fishing** grounds.
+occupation in many coastlands. ⚠️ Off Newfoundland, the cold **Labrador Current** meets warmer Atlantic water over the shallow Grand
+Banks, favouring fog. Fish productivity also depends on shelf mixing, nutrient supply and management;
+warm-cold “meeting” alone is not a complete explanation.
 
 ## 4. Natural vegetation
 
@@ -52,16 +53,13 @@ British type and the coniferous Siberian taiga).
 
 - ❌ Laurentian type has a winter rainfall maximum → **summer maximum** (easterly ocean winds).
 - ❌ It occurs in the Southern Hemisphere too → **Northern Hemisphere only** (no land there).
-- ❌ Grand Banks fisheries arise from warm water alone → from the **mixing of cold Labrador + warm Gulf
-  Stream** currents (nutrient upwelling).
+- ❌ Grand Banks fisheries arise simply because two currents meet → shallow shelf, mixing, nutrients,
+  water masses and fisheries management all matter.
 
 ## 7. 📰 Current link
 
-📰 **Stretched polar vortex & cold waves, 2025.** A disrupted, **stretched stratospheric polar vortex**
-drove repeated **Arctic cold outbreaks and blizzards across eastern Canada, the NE/Midwest USA and East
-Asia (Korea, Japan)** — precisely the Laurentian regions. Scientists link more frequent vortex
-disruptions to **rapid Arctic warming and sea-ice loss**, a live example of cold-eastern-margin winter
-severity and mid-latitude weather volatility.
+📰 **Polar-vortex and cold-outbreak research:** stratospheric disruptions can alter mid-latitude cold
+outbreak risk, but links to Arctic sea-ice loss remain actively debated and event attribution must be cautious.
 
 ## 8. Mains angles
 

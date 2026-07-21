@@ -4,7 +4,7 @@
 > **Core area:** Sustainable development.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md`.*
+> *Companion: `../advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md`.*
 
 ---
 
@@ -101,10 +101,9 @@ protecting vulnerable workers, regions and consumers during the transition.
 
 ## 8. 📰 Economic Survey 2025-26 / current anchor
 
-- 📰 Economic Survey 2025-26 notes 30.16 GW of solar capacity addition in its cited chapter
-  context.
-- 📰 Economic Survey 2025-26 highlights 4.47 GW of other clean-capacity addition alongside
-  solar additions.
+- 📰 In FY2025-26 **up to 31 December 2025**, the Survey reports 38.61 GW of renewable
+  capacity installed: 30.16 GW solar, 4.47 GW wind, 0.03 GW bio-power and 3.24 GW
+  hydro. These are installations over a stated period, not total installed capacity.
 - 📰 The 2025 official key confirms that lower raw-material use and waste explain circular
   economy's emissions benefit.
 
@@ -114,8 +113,18 @@ tracking and verification create greenwashing rather than additional climate act
 ## 9. PYQ application
 
 - ⚠️ 2025 Prelims: circular economy mechanisms and greenhouse-gas reduction.
-- ⚠️ 2025 GS-I and GS-III questions connect sustainable growth, clean energy and mining
-  externalities.
+- ⚠️ 2025 GS-III: clean-technology energy independence and biotechnology; CCUS; and
+  India's Paris/COP26/updated-NDC commitments.
+- ⚠️ **Climate answer route:** separate mitigation, adaptation and energy security; state
+  the 2022 updated NDC's target of about 50% cumulative installed electric-power capacity
+  from non-fossil sources by 2030, then discuss grid/storage, finance, technology,
+  affordability and just-transition constraints. Treat “energy independence by 2047” as
+  the question's analytical horizon, not an unverified numerical outcome.
+- ⚠️ **CCUS route:** define capture, use and geological storage; assess hard-to-abate
+  sectors, energy/cost and monitoring constraints, and why it complements rather than
+  replaces emission reduction.
+
+Source for the NDC distinction: [MoEFCC LT-LEDS/UNFCCC submission](https://moef.gov.in/uploads/2022/11/Indias-LT-LEDS.pdf).
 
 ## 10. Mains angles
 
@@ -138,8 +147,7 @@ tracking and verification create greenwashing rather than additional climate act
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/25_Climate-Economics-Green-Finance-and-Circular-
-  Economy.md`.
+- ✅ Advanced companion: `../advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md`.
 - ✅ `14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` — adaptation and
   resource resilience.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — resilient and clean

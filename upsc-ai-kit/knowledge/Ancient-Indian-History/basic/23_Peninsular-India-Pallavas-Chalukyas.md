@@ -34,6 +34,8 @@
 - ✅ Pallavas and Chalukyas both championed Brahmanism, performed Vedic sacrifices and made grants to Brahmanas.
 - ✅ Pallavas built rock-cut and structural monuments at **Mahabalipuram/Mamallapuram** and Kanchi; Chalukyas built at **Aihole, Badami and Pattadakal**.
 - ⚠️ The Bhakti beginnings of Alvars/Nayanars should be linked to temple society, vernacular devotion and changing religious culture.
+- ✅ Pallava literary culture included the Sanskrit farce **`Mattavilasa-prahasana`** of Mahendravarman I; early medieval Tamil devotional songs of the **Alvars and Nayanmars** developed in the same broad south-Indian milieu.
+- ✅ Pallava inscriptions often used Sanskrit for eulogistic *prashasti* and Tamil for documentary portions.
 
 ## 2. Key classification / data
 
@@ -55,6 +57,7 @@
 
 > **Study link:** ✅ History → Ancient → Peninsular India (RS Sharma Ch-28).
 > **Study link:** ⚠️ Gupta/post-Gupta transition → `basic/22_Post-Gupta-Harsha-and-Eastern-India.md`; temple architecture → Art & Culture notes.
+> **2024 GS-I PYQ route:** “Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India.” Organise the answer as **rock-cut beginnings → monolithic rathas/reliefs → structural temples; Sanskrit court writing → Tamil Bhakti and bilingual epigraphy**.
 
 ## 4. Must-Know Facts (Prelims)
 
@@ -64,6 +67,7 @@
 - ✅ Aihole, Badami and Pattadakal are Chalukya; Mahabalipuram and Kanchi are Pallava.
 - ✅ Kalabhra revolt is linked to anti-existing-order protest and revocation of Brahmana grants.
 - ✅ Land grants aided agrarian expansion but could increase burdens on peasants.
+- ✅ Mahendravarman I is associated with `Mattavilasa-prahasana`; Pallava inscriptions used Sanskrit and Tamil for different textual functions.
 
 ## 5. UPSC Traps
 
@@ -76,7 +80,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Mahabalipuram/Shore Temple conservation (2025–26):** PIB-linked heritage conservation updates note ASI's continuing annual conservation process for centrally protected monuments, including Tamil Nadu's major ancient temples. Use this to connect Pallava temple heritage with modern conservation governance.
+⚠️ **Current-link discipline:** Verify a Mahabalipuram conservation intervention from ASI records. The safe linkage is coastal-weathering risk, monument conservation and visitor management.
 
 ## 7. Mains angles
 

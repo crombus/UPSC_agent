@@ -8,13 +8,15 @@
 > puppetry and performance; languages, scripts, literature and manuscripts;
 > crafts, textiles, folk and tribal traditions; religion, philosophy and
 > cultural synthesis; heritage conservation, institutions and UNESCO.
-> **Grounded in:** Nitin Singhania, *Indian Art and Culture* (PDF pp. 1-1056,
-> directly examined; cited as *Nitin…pdf*, PDF pp. x-y); audited UPSC Mains
-> 2024 and 2025 GS Paper I PYQs; dated official releases from the Ministry of
+> **Grounded in:** direct examination of Nitin Singhania, *Indian Art and
+> Culture*; R.S. Sharma, *India's Ancient Past*; R.S. Sharma, *Ancient
+> India*; Satish Chandra, *History of Medieval India*; and Satish Chandra,
+> *Medieval History, 1526-1748, Part 2*; local UPSC Prelims/Mains PYQs; dated
+> official releases from the Ministry of
 > Culture, ASI, UNESCO (WHC/ICH/Memory of the World), Sangeet Natak Akademi
 > (SNA), Lalit Kala Akademi (LKA), Sahitya Akademi, IGNCA, NMMA, National
 > Mission for Manuscripts and the GI Registry.
-> **Research cutoff:** 18 July 2026 — book-period facts are dated to the
+> **Research cutoff:** 21 July 2026 — book-period facts are dated to the
 > book's own text; dynamic claims (counts, inscriptions, awardee lists) are
 > anchored only to a dated official source and never presented as
 > permanently current.
@@ -72,10 +74,10 @@ PLACE / ECOLOGY ──┘                                    │
 | 07 | Painting Traditions | Rock art; murals; Mughal/Rajput/Pahari/Deccan; modern, folk and tribal painting |
 | 08 | Indian Music | Swara-raga-tala; Hindustani/Carnatic; gharanas; treatises; folk music |
 | 09 | Indian Dance | Natya Shastra concepts; eight SNA classical forms; folk dance |
-| 10 | Theatre, Puppetry and Performance Traditions | Sanskrit/folk/modern theatre; string/shadow/glove/rod puppetry |
+| 10 | Theatre, Puppetry and Performance Traditions | Sanskrit/folk/modern theatre; string/shadow/glove/rod puppetry; martial traditions and ritual performance |
 | 11 | Languages, Scripts, Literature and Manuscripts | Language families, scripts, classical-language status, Memory of the World |
 | 12 | Crafts, Textiles, Folk and Tribal Traditions | Handicrafts, GI-tagged crafts, craft ecology and livelihoods |
-| 13 | Religion, Philosophy and Cultural Synthesis | Religions as cultural frameworks; Bhakti/Sufi; six darshanas; synthesis |
+| 13 | Religion, Philosophy and Cultural Synthesis | Religions as cultural frameworks; Bhakti/Sufi; six darshanas; fairs/festivals; qualified synthesis |
 | 14 | Heritage Conservation, Institutions and UNESCO | ASI, SNA, LKA, Sahitya Akademi, IGNCA, NMMA; WHS/ICH/Memory of the World/GI |
 
 ## Study sequence
@@ -167,8 +169,30 @@ conservation and tourism).
   August-September 2025 (its own UNESCO/GI figures are dated to that
   period) — treat any number in this book as book-period unless
   independently re-verified against a more recent official source.
+- R.S. Sharma, *India's Ancient Past*, especially PDF pp. 90-109
+  (Harappan urbanism), 211-223 (post-Mauryan art/languages), 234-258
+  (early Tamil/Sangam culture) and 347-356 (art, craft and intellectual
+  legacy) — used to distinguish archaeological evidence from later
+  interpretation and to correct single-school origin claims.
+- R.S. Sharma, *Ancient India*, especially PDF pp. 46-54, 100-103,
+  121-123, 134-137, 156-159 and 193-194 — independently cross-checked for
+  Harappan planning/script, Ashokan inscriptions, Gandhara-Mathura,
+  Sangam and Gupta/Ajanta coverage.
+- Satish Chandra, *History of Medieval India*, especially PDF pp. 43-46,
+  194-211 and 328-345, and *Medieval History, 1526-1748, Part 2*, PDF pp.
+  382-395 — used for Chola temple culture, Sultanate arch/dome technology,
+  regional synthesis, Mughal architecture/painting, vernacular literature
+  and music. These texts expressly show combination, borrowing and
+  regional adaptation; they do not support fixed "Hindu" versus "Muslim"
+  style essences.
 - UPSC Mains 2024 GS Paper I and 2025 GS Paper I (audited verbatim,
   including source punctuation/quotation defects where quoted).
+- Local Prelims/PYQ route: the question sets printed in the directly read
+  Nitin PDF are used only as question evidence, notably CSE 2013
+  (rock-cut architecture), 2014 (Sattriya; Kalaripayattu), 2017
+  (Manipuri Sankirtana), 2018 (Bani Thani; cultural-material traps), 2019
+  (Gandhara; Jahangir portrait/album emphasis; Tansen), 2022-24
+  (Sangam texts, stupas, literature, ICH).
 - UNESCO World Heritage Centre, UNESCO Intangible Cultural Heritage lists,
   UNESCO Memory of the World Register, Ministry of Culture, ASI, Sangeet
   Natak Akademi, Lalit Kala Akademi, Sahitya Akademi, IGNCA, National

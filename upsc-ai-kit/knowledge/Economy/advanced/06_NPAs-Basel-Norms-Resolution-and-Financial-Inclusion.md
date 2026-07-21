@@ -4,7 +4,7 @@
 > **Core area:** Banking reform and inclusion.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md`.*
+> *Companion: `../basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md`.*
 
 ---
 
@@ -34,7 +34,7 @@ rather than account counts.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **NPA** | Loan on which interest or principal remains overdue beyond the regulatory recognition norm. |
+| ✅ **NPA** | Loan classified as non-performing under RBI prudential norms; the usual term-loan test is interest or principal overdue for more than 90 days. |
 | ✅ **Provisioning** | Charge against income to absorb expected loss on stressed assets. |
 | ✅ **Capital adequacy** | Capital buffer relative to risk-weighted assets. |
 | ✅ **Resolution** | Restructuring, recovery, sale or insolvency process for stressed exposure. |
@@ -111,8 +111,8 @@ prolonged concealment creates zombie borrowers and misallocated credit.
 - ✅ Risk weights mean capital requirements depend on asset risk, not only total assets.
 - ✅ Insolvency resolution aims to preserve value through time-bound collective action; it is
   not merely loan recovery.
-- ✅ RBI's FI-Index uses Access, Usage and Quality, as tested in the official provisional
-  2026 key.
+- ✅ RBI's annual FI-Index uses Access, Usage and Quality; it is not an account-opening
+  count and has no base year.
 
 ## 8. Advanced Prelims traps
 
@@ -133,11 +133,14 @@ prolonged concealment creates zombie borrowers and misallocated credit.
 |---|---|
 | 📰 Scheduled commercial bank GNPA was 2.2% and NNPA 0.5% by Sep 2025. | Treat improved asset quality as the outcome of recognition, provisioning, recovery, resolution and better credit discipline. |
 | 📰 The Survey reports multi-decade-low asset-quality ratios while stressing calibrated financial regulation. | Low reported stress does not remove concentration, cyber, liquidity or future credit-cycle risks. |
-| 📰 The 2026 provisional key confirms the FI-Index dimensions: Access, Usage and Quality. | Use Access, Usage and Quality to show why account opening alone is an incomplete inclusion metric. |
+| 📰 RBI's FI-Index uses Access, Usage and Quality. | Use its architecture to show why account opening alone is an incomplete inclusion metric. |
+
+Source: [RBI FI-Index release](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51984).
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ 2026 Prelims tested the RBI FI-Index architecture directly.
+- ⚠️ Use RBI's FI-Index architecture—Access, Usage and Quality—to distinguish formal
+  account ownership from meaningful inclusion.
 - ⚠️ Use the 2024-25 banking PYQ pattern to distinguish institutions, access windows and
   instrument-specific regulation.
 
@@ -163,7 +166,7 @@ prolonged concealment creates zombie borrowers and misallocated credit.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md`.
+- ✅ Foundation companion: `../basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md`.
 - ✅ `05_Banking-Structure-NBFCs-and-Financial-Regulation.md` — regulated entities and safety
   nets.
 - ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — recapitalisation and

@@ -29,6 +29,7 @@
 - ✅ Ghiyasuddin replaced measurement by sharing in khalisa areas, reducing cultivator risk when crops failed.
 - ✅ Firuz's canals improved cultivation in Haryana and the doab; benefits, however, flowed strongly to nobles and rural privileged groups because much revenue had been assigned as iqtas.
 - ✅ The term **zamindar** begins to appear by the early fourteenth century for hereditary intermediaries and later widens under the Mughals.
+- ✅ Iqta control rested on transfer, audit and the distinction between authorised expenditure and surplus due to the centre; practice varied with the strength of the sultan and distance from Delhi.
 
 **Deeper — monetisation, urbanisation and social hierarchy.**
 
@@ -52,6 +53,8 @@
 | ✅ Karkhanas | Royal workshops employing artisans/slaves | Luxury production and state demand |
 | ✅ Towns | Delhi, Daulatabad, Multan, Lahore, Kara, Lakhnauti, Khambayat | Urban revival under centralised rule |
 | ✅ Social life | Purdah, caste rigidity, Hindu-Muslim interaction, slavery | Stratified but interactive society |
+
+> **Terminology caution:** Satish Chandra associates *diwan-i-risalat* with religious matters and grants; other scholarly reconstructions have assigned it diplomatic functions. State the source used rather than presenting a debated portfolio as universally settled.
 
 ## 3. Study links
 
@@ -83,7 +86,7 @@
 
 ## 6. 📰 Current link
 
-📰 **India Maritime Heritage Conclave 2024 (PIB/Ministry of Ports, Shipping & Waterways, 11–12 December 2024):** The conclave highlighted India's maritime heritage and port-trade networks, a live CA hook for Sultanate-era Cambay/Khambayat, Indian Ocean trade and textile exports.
+📰 **Current linkage (verify live before use):** Maritime-heritage policy can provide a present hook for Cambay/Khambayat, textiles and merchant credit. Use a dated conclave or ministry initiative only after checking the official release.
 
 ## 7. Mains angles
 

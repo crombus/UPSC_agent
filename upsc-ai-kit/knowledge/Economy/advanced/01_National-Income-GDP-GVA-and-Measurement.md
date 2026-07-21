@@ -4,11 +4,11 @@
 > **Grounded in:** Ramesh Singh, Ch. 1; Economic Survey 2025-26, Ch. 1;
 > System of National Accounts concepts used in India's national accounting.
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey hook.
-> *Companion: `basic/01_National-Income-GDP-GVA-and-Measurement.md`.*
+> *Companion: `../basic/01_National-Income-GDP-GVA-and-Measurement.md`.*
 
 ---
 
-## 1. Measurement architecture
+## 1. Measurement Architecture
 
 ```text
 Production account          Income account          Expenditure account
@@ -156,6 +156,10 @@ and **7.3% for real GVA**, with PFCE at **61.5% of GDP**.
 
 ## 11. Mains-ready frameworks
 
+**Central thesis:** National accounts measure production through consistent identities,
+but a credible growth assessment must preserve price, coverage and estimate-vintage
+distinctions and test output against jobs, distribution and sustainability.
+
 ### "GDP is necessary but insufficient"
 
 1. GDP measures production and fiscal capacity.
@@ -185,3 +189,11 @@ and **7.3% for real GVA**, with PFCE at **61.5% of GDP**.
 - ⚠️ **Mains:** Explain why revisions in base year and national-accounting
   methodology are necessary, while examining the challenges they create for
   comparability and public trust.
+
+## 14. Study links
+
+- ✅ Foundation companion: `../basic/01_National-Income-GDP-GVA-and-Measurement.md`.
+- ✅ `02_Growth-Development-HDI-IHDI-and-MPI.md` — welfare complements to output.
+- ✅ `03_Inflation-Price-Indices-and-Business-Cycles.md` — deflators, CPI and WPI.
+- ✅ `26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md` — estimates,
+  revisions and macro dashboard use.

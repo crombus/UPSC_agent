@@ -1,7 +1,7 @@
 # Anti-Defection Law (Tenth Schedule; Arts 102 & 191) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 72 (Tenth Schedule) + source book.
+> **Grounded in:** Indian Polity by M. Laxmikant, Tenth Schedule/electoral-dynamics chapters (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Anti-Defection-Law.md`.*
 
@@ -25,7 +25,8 @@
 rival rallies).
 
 ## Exceptions ✅ (only ONE survives)
-- ✅ **Merger** — if **2/3 of the legislature party** agree to merge with another party (no disqualification).
+- ✅ **Merger** — if **at least 2/3 of the legislature party** agree to the merger;
+  members who do not accept it may function as a separate group without disqualification.
 - ✅ Presiding officer who gives up party membership on taking office (dignity of the chair).
 - ❌ ⭐ The **"split" exception (1/3 members) was REMOVED by the 91st Amendment (2003)** — so **only merger** remains.
 
@@ -33,8 +34,9 @@ rival rallies).
 
 # PART C — DECIDING AUTHORITY & JUDICIAL REVIEW ⭐⭐
 - ✅ Decided by the **Presiding Officer** (Speaker/Chairman) of the House.
-- ✅ ⭐ **Kihoto Hollohan v. Zachillhu (1992/93):** the SC struck down the "finality" clause — the Presiding Officer
-  acts as a **tribunal**, so the decision **is subject to judicial review** (on grounds of *mala fides, perversity,
+- ✅ ⭐ **Kihoto Hollohan v. Zachillhu (1992):** the SC invalidated paragraph 7's
+  jurisdiction-exclusion (it lacked required state ratification) and held that the Presiding
+  Officer acts as a **tribunal**, so the decision **is subject to judicial review** (on grounds of *mala fides, perversity,
   violation of natural justice*). Review is generally available **after** the decision, not before.
 - ✅ Defection has **no automatic effect** — needs a complaint; member gets a hearing.
 

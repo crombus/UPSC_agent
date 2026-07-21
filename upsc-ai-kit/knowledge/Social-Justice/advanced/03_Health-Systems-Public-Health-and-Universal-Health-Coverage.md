@@ -22,8 +22,8 @@ UHC FINANCING TRIANGLE
   (tax, SHI, OOPE)      (risk-sharing)       (provider payment)
         |                    |                     |
         v                    v                     v
-  India: dominated       India: fragmented     India: mixed
-  by OOPE + tax          (PM-JAY, ESIS,        (fee-for-service,
+  India: tax + OOPE      India: fragmented     India: mixed
+  financing              (PM-JAY, ESIS,        (fee-for-service,
   (no comprehensive      state schemes,        capitation, DRG
    SHI)                  CGHS — no single      in PM-JAY)
                          pool)
@@ -57,22 +57,25 @@ by expanding grassroots public capacity (HWC/AAM), providing insurance cover
 |---|---|
 | ✅ **Primary vs secondary vs tertiary care** | Primary: first-contact, preventive/promotive/basic curative (HWC, PHC); secondary: specialist outpatient and inpatient (CHC, district hospital); tertiary: super-specialty, advanced procedures (medical colleges, referral centres) — Ayushman Bharat addresses primary via HWC/AAM and secondary/tertiary via PM-JAY. |
 | ✅ **Comprehensive Primary Health Care (CPHC)** | Expanded primary-care package (12 services) delivered at HWC/AAM: beyond reproductive-child health to include NCDs, mental health, ENT, ophthalmology, oral health, geriatric/palliative care, emergency care. |
-| ✅ **Social Health Insurance (SHI) vs tax-funded** | SHI: contribution-based pooling (ESIS, CGHS); tax-funded: general-revenue financing (NHM, PM-JAY) — India's UHC strategy is largely tax-funded, not contribution-based. |
+| ✅ **Social Health Insurance (SHI) vs tax-funded** | SHI pools contribution-linked cover (for example, ESIC); tax-funded programmes use general revenue (NHM and PM-JAY). India uses a mixed, fragmented architecture rather than one comprehensive national pool. |
 | ⚠️ **Catastrophic health expenditure** | Health spending exceeding a threshold share of household income/consumption (commonly 10-25%), pushing households into poverty or debt — high OOPE is the primary driver. |
 | ⚠️ **Clinical Establishments Act, 2010** | Central Act providing for registration and regulation of clinical establishments (hospitals, clinics); states must adopt or enact equivalent legislation — a regulatory tool for quality and price transparency. |
 | ⚠️ **Standard Treatment Guidelines (STGs)** | Evidence-based protocols for diagnosis and treatment; promote rational care and cost control; adoption varies across public and empanelled private providers. |
 
 ## 3. Detailed causal chain: marketisation and state response (2024 PYQ Q17)
 
-1. **Under-funding of public health:** Public health expenditure historically
-   ~1-1.2% of GDP; NHP 2017 targets 2.5% but progress is slow.
-2. **Expansion of private sector:** Private providers dominate curative care
-   (~70% of outpatient, ~60% of inpatient care by some estimates); largely
-   unregulated in many states.
-3. **High OOPE:** Households pay out-of-pocket for private care; OOPE share
-   ~48-55% (varies by NHA reporting year) — among the highest in the world.
-4. **Catastrophic and impoverishing spending:** ~5-7% of households pushed below
-   poverty line annually due to health spending (estimate varies by study).
+1. **Public-provision constraint:** NHP 2017 sets a policy aspiration of raising public
+   health expenditure to 2.5% of GDP; an aspiration is not proof that the target has
+   been reached or that state-level primary care is adequately staffed.
+2. **Mixed provider landscape:** Where public primary care is unavailable or perceived
+   as low quality, households turn to private providers. The relevant Mains issue is
+   quality, price and regulation, not a single undated private-sector share.
+3. **High OOPE:** National Health Accounts Estimates reported household OOPE at 47.1% of
+   total health expenditure in 2020-21. This dated aggregate signals incomplete financial
+   protection.
+4. **Catastrophic and impoverishing spending:** The risk is concentrated among households
+   needing medicines, diagnostics or repeated care; cite the survey/study and threshold
+   before asserting a poverty-impact percentage.
 5. **State's corrective measures (Q17 answer structure):**
    - Expand HWC/AAM for comprehensive primary care — reduces need for
      hospital-level care-seeking.
@@ -96,9 +99,10 @@ by expanding grassroots public capacity (HWC/AAM), providing insurance cover
 - ✅ **Ayushman Bharat - HWC/AAM:** Target: 1.5 lakh HWCs (upgraded SCs/PHCs);
   delivers 12 CPHC packages; staffed by Mid-Level Health Provider (MLHP) or
   Community Health Officer (CHO).
-- ✅ **Ayushman Bharat - PM-JAY:** Covers ~55 crore beneficiaries (SECC-based);
-  empanels public and private hospitals; claims processed via National Health
-  Authority IT platform; states can add top-up schemes.
+- ✅ **Ayushman Bharat - PM-JAY:** Its core route uses notified eligibility criteria
+  including SECC-derived deprivation/occupational categories; it empanels public and
+  private hospitals and is implemented by the National Health Authority. All citizens
+  aged 70+ have a separate, income-independent enrolment route; states may add cover.
 - ⚠️ **Clinical Establishments Act adoption:** Some states have adopted or enacted
   equivalent legislation; others have not — a federal regulatory gap.
 
@@ -107,11 +111,9 @@ by expanding grassroots public capacity (HWC/AAM), providing insurance cover
 - ✅ **2024 Q17:** The question directly tests the state's role against
   marketisation; a strong answer integrates supply-side expansion (HWC, NHM),
   demand-side protection (PM-JAY) and regulation.
-- ⚠️ **PM-JAY 70+ expansion:** A policy direction extends cover to all senior
-  citizens (70+) regardless of SECC status. No fixed state-wise participation or
-  beneficiary-enrolment figure is asserted here because the PM-JAY portal's
-  cumulative count changes continuously; the durable fact is the 70+
-  universal-coverage policy direction itself.
+- ✅ **PM-JAY 70+ expansion:** The all-citizen 70+ route is operational, regardless of
+  SECC status. Keep it analytically distinct from the core eligibility-based PM-JAY
+  route and from portal enrolment counts.
 - ⚠️ **Boundary case — private-sector empanelment under PM-JAY:** Empanelled
   private hospitals provide cashless care but may select patients (cream-
   skimming) or inflate claims (fraud) — regulatory audit and IT-based fraud
@@ -155,11 +157,9 @@ by expanding grassroots public capacity (HWC/AAM), providing insurance cover
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **OOPE share:** OOPE as a share of total health expenditure has been on a
-  declining trend (from roughly two-thirds in the early 2000s toward roughly half
-  in recent National Health Accounts estimates). No single year's percentage is
-  asserted here because NHA estimates are published on a rolling basis and the
-  reporting year changes; the durable trend is OOPE declining but remaining high.
+- 📰 **OOPE share:** National Health Accounts Estimates reported household OOPE at 47.1%
+  of total health expenditure in 2020-21. Use this dated statistic rather than a
+  range assembled across incompatible reporting years.
 - 📰 **PM-JAY beneficiary count:** The National Health Authority portal publishes
   cumulative claims and beneficiary counts; no fixed figure is asserted here
   because this count rises continuously as the portal updates.
@@ -203,9 +203,9 @@ households, undermining the health capability that a welfare state must secure.
    - Public-private partnership with accountability.
 4. Acknowledge trade-offs: insurance-led vs provision-led, HR bottleneck,
    regulatory federalism.
-5. Recommend with measurable safeguard: raise public health expenditure toward
-   NHP 2017 target, operationalise 100% HWC target, reduce OOPE to <30% (or
-   another specific outcome).
+5. Recommend a measurable safeguard: track public primary-care readiness, medicine/
+   diagnostics availability and a stated, dated OOPE indicator rather than inventing an
+   unsupported target.
 
 ## 12. Probable questions
 

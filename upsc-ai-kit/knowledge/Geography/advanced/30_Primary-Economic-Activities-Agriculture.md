@@ -1,7 +1,7 @@
 # Primary Economic Activities: Agriculture — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + verified Ministry of Agriculture / PIB material.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified Agriculture Ministry/PIB current anchor.
 > **Data caution:** ✅ Where book-era observations are used, they are treated as historical/static patterns; current numbers are separately identified in the CA section.
 > ✅ = grounded source · ⚠️ = synthesis / answer-writing guidance · 📰 = verified dated current-affairs anchor.
 > *Companion: `basic/30_Primary-Economic-Activities-Agriculture.md`.*
@@ -39,6 +39,18 @@
 | ✅ Tube-well irrigation | Strengthens assured Rabi cultivation in alluvial plains |
 | ✅ Tank / rainfed dependence | More important in peninsular and plateau India |
 | ⚠️ Uneven irrigation | Creates unequal resilience to monsoon failure |
+
+### Indian soil–crop map
+
+| Soil group | Core distribution | Agricultural linkage / trap |
+|---|---|---|
+| ✅ Alluvial | Indo-Gangetic-Brahmaputra plains and coastal/deltaic tracts | Rice, wheat, sugarcane, jute; khadar is newer alluvium, bhangar older |
+| ✅ Black / regur | Deccan Trap areas of Maharashtra, MP, Gujarat, Telangana/Karnataka margins | Moisture-retentive clay; cotton association, but also soybean, pulses and cereals |
+| ✅ Red and yellow | Peninsular crystalline uplands | Generally low in nitrogen/humus; responds to irrigation and fertilisation |
+| ✅ Laterite | High-rainfall, strongly leached uplands of Ghats and parts of east/north-east India | Tea/coffee/cashew with management; laterite is not naturally fertile everywhere |
+| ✅ Arid | Western Rajasthan and adjoining dry tracts | Low humus, salinity/calcareousness possible; irrigation can raise productivity but also waterlogging/salinity |
+| ✅ Forest/mountain | Himalayan and hill belts; varies sharply with altitude and parent material | Horticulture, tea and forest use; not one uniform soil |
+| ✅ Saline/alkaline and peaty/marshy | Poorly drained, arid-irrigated or coastal/wetland pockets | Problem soils defined by chemistry/drainage, not a single climatic zone |
 
 ## 4. Green Revolution geography
 
@@ -114,17 +126,20 @@
 
 ## 10. 📰 Current link
 
-### CA Anchor — 28 May 2025 (PIB) and 20 Nov 2025 (Ministry of Agriculture): MSP revision and record output
+### CA Anchor — PM Dhan-Dhaanya Krishi Yojana's district geography
 
-📰 **Source/date:** PIB, **28 May 2025** - Cabinet approved MSP for Kharif crops for 2025-26; Ministry of Agriculture & Farmers Welfare, **20 Nov 2025** - final foodgrain output for 2024-25 placed at **357.73 million tonnes**.
+📰 **Current anchor:** PM Dhan-Dhaanya Krishi Yojana was announced in Budget 2025-26, approved by the
+Cabinet on **16 July 2025** and launched on **11 October 2025**. It targets **100 districts** selected
+for low productivity, low cropping intensity and low credit disbursement, using convergence across schemes.
 
 | Current fact | Static geography link |
 |---|---|
-| ✅ MSP approved for Kharif crops for 2025-26 | Crop incentives differ by agro-climatic season and region |
-| ✅ Final foodgrain estimate reached 357.73 MT | High output still depends on monsoon + irrigation geography |
-| ✅ Paddy and wheat procurement remain spatially concentrated | Surplus belts remain central to NFSA logistics |
+| ✅ District targeting | Agricultural backwardness is spatially concentrated |
+| ⚠️ Convergence of schemes | Irrigation, credit, storage and extension must be aligned territorially |
+| ✅ Procurement concentration | Surplus belts remain central to NFSA logistics |
 
-✅ The 2025 sequence reinforces a classic India-geography point: **national food security is built on regionally concentrated surplus production, irrigation, procurement and transport networks**.
+✅ The programme reinforces a classic geography point: agricultural backwardness is territorially
+clustered and needs district-specific convergence rather than one national package.
 
 ## 11. Mains angles
 

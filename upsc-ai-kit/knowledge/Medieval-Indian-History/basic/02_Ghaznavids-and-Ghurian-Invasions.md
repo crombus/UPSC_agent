@@ -27,7 +27,7 @@
 
 **Foundation — Mahmud: raids, Punjab base, no Gangetic empire.**
 
-- ✅ Mahmud of Ghazni is said to have made seventeen raids into India; in India he is remembered chiefly as a plunderer and destroyer of temples.
+- ✅ The conventional textbook count assigns Mahmud seventeen Indian expeditions, but the counting of separate operations is not uniform; the secure point is his repeated raiding between 1000 and 1027.
 - ✅ His early wars were against the Hindu Shahis of Peshawar/Punjab; Jayapala and Anandapala offered prolonged resistance.
 - ✅ Mahmud's raids into Mathura, Kanauj and Somnath aimed at wealth, prestige and Central Asian campaigns, not permanent annexation of the Gangetic states.
 - ✅ Yet Mahmud's conquest of Punjab and Multan changed the political situation: Turks had crossed the north-western mountain shield.
@@ -38,6 +38,7 @@
 - ✅ Tarain I (1191) was a Ghurid defeat; Tarain II (1192) was a turning point because Delhi and eastern Rajasthan passed under Turkish rule.
 - ✅ Chandawar (1194) broke Gahadavala power near Kanauj and opened the upper Ganga valley.
 - ✅ Qutbuddin Aibak, as Muizzuddin's trusted slave, managed Indian affairs after Tarain and expanded into the doab.
+- ✅ Conquest remained staged: Aibak occupied Delhi and Ajmer after resistance, while Bakhtiyar Khalji's campaigns in Bihar and Bengal extended Turkish power eastward without producing immediate uniform control.
 
 ## 2. Key classification / data
 
@@ -75,11 +76,10 @@
 
 ## 6. 📰 Current link
 
-📰 **Somnath Swabhiman Parv/heritage commemoration (2026 reporting):** Recent news has linked Somnath heritage events and temple-development narratives to the millennium memory of Mahmud's attack and post-independence restoration. **UPSC relevance:** use carefully for heritage-memory questions, while separating current commemoration from source-grounded medieval facts.
+📰 **Current linkage (verify live before use):** Somnath remains a major site of heritage memory. Separate present commemoration and political interpretation from the source-grounded facts of Mahmud's 1025 raid and the absence of lasting Ghaznavid rule in Gujarat.
 
 ## 7. Mains angles
 
 - ⚠️ Compare Mahmud's raids with Muizzuddin's conquest strategy.
 - ⚠️ Explain why Punjab was the strategic hinge between plunder and rule.
 - ⚠️ Discuss the organisational reasons for Rajput defeat without reducing the issue to bravery or religion.
-

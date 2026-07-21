@@ -49,6 +49,7 @@
 | Procedural fairness / historical entitlement | ✅ Rawls justifies outcomes through fair choice of principles, whereas Nozick justifies holdings through their actual path of acquisition and transfer. (PDF pp.447-452) |
 | Substantive liberty / formal liberty | ✅ Gauba presents liberal-Rawlsian justice as concerned with substantive liberty, but libertarian justice as focused on formal liberty and limited state. (PDF pp.446, 450) |
 | Patterned distribution / anti-patterned distribution | ⚠️ This is the cleanest advanced shorthand for Rawls-versus-Nozick, though Gauba himself explains it through distribution rules versus modes of acquisition. (PDF pp.447-452) |
+| Two principles / Gauba's three-step exposition | ⚠️ Rawls's first principle secures equal basic liberties; his second contains fair equality of opportunity and the difference principle. Gauba lists the two parts of the second principle separately for teaching clarity (PDF p.448). |
 | Exploitation / inequality | ✅ For Marxism, the central wrong is not bare inequality but unpaid surplus labour made possible by capitalist property relations. (PDF pp.453-455) |
 | Recognition / redistribution | ⚠️ Feminist and subaltern sections show that justice cannot be reduced to income or wealth alone because power, dignity, participation and status are also unequally distributed. (PDF pp.464-469) |
 | Isolated self / situated self | ✅ Liberal justice is criticized for abstracting individuals from social ends; communitarian justice sees persons as embedded in social roles, practices and traditions. (PDF pp.469-472) |
@@ -58,8 +59,8 @@
 
 | Thinker | Position used in this topic |
 |---|---|
-| Rawls | ✅ Justice as fairness, chosen behind a veil of ignorance, yields lexical priority to liberty, then fair opportunity, then the difference principle. (PDF pp.447-450) |
-| Nozick | ✅ Justice is title-based, not end-state-based; self-ownership and voluntary exchange limit legitimate redistribution. (PDF pp.450-452) |
+| Rawls | ✅ Justice as fairness, chosen behind a veil of ignorance, yields two lexically ordered principles: equal basic liberties; then fair opportunity plus the difference principle (PDF pp.447-450). |
+| Nozick | ✅ Justice is title-based, not end-state-based; just acquisition, voluntary transfer and rectification jointly limit legitimate redistribution (PDF pp.450-452). |
 | Marx and Engels | ✅ Capitalism is unjust because labour creates value while capital appropriates surplus; communism aims to abolish private ownership of major productive assets and class rule. (PDF pp.453-459) |
 | Lenin / Mao | ✅ Gauba uses them to explain book-period socialist-state functions such as socialization, planning and ideological-cultural transformation in transition. (PDF pp.456-458) |
 | Laski / Durbin | ✅ Democratic socialism seeks social justice through democratic method, welfare provision and civil liberties. (PDF pp.460-461) |
@@ -71,7 +72,8 @@
 ## 6. Competing perspectives
 
 - ✅ Rawlsian liberalism asks what fair persons would choose if stripped of bargaining advantage. (PDF pp.447-448)
-- ✅ Libertarianism asks whether each holding arose from self-ownership, just acquisition and voluntary transfer. (PDF pp.450-452)
+- ✅ Libertarianism asks whether each holding arose through just acquisition and transfer and
+  whether prior injustice has been rectified (PDF pp.450-452).
 - ✅ Marxism asks who owns production, who performs labour and who captures surplus. (PDF pp.453-455)
 - ✅ Democratic socialism asks how social justice can be constitutional, democratic and welfare-oriented without dictatorship. (PDF pp.459-461)
 - ✅ Anarchism asks whether coercive institutions themselves are the deepest injustice. (PDF pp.461-464)
@@ -88,7 +90,11 @@
 - ✅ He records libertarian criticism that Rawls sacrifices liberty and incentives for equality. (PDF p.449)
 - ✅ He records communitarian criticism that Rawls's neutrality evades the pursuit of the common good. (PDF p.449)
 - ✅ Gauba partly answers these by reading Rawls as a convergence of libertarian, egalitarian and communitarian elements. (PDF pp.449-450)
+- ⚠️ Necessary/sufficient correction: improving the least advantaged is not sufficient to justify an
+  inequality if equal basic liberties or fair equality of opportunity are violated.
 - ✅ Nozick is criticized for treating welfare taxation as morally suspect while leaving structurally generated market injustice untouched. (PDF p.452)
+- ⚠️ Historical-title correction: present consent is not sufficient for Nozickian justice when the
+  asset's acquisition history is unjust; rectification is a constitutive third principle.
 - ✅ Gauba's own Marxist conclusion is double-edged: communism is ethically attractive, yet new dominance may reappear through bureaucratic or political power even after private property is abolished. (PDF p.459)
 - ✅ Democratic socialism is normatively attractive but institutionally fragile because it depends on strong public opinion, resources and incentives. (PDF p.461)
 - ✅ Anarchism is criticized as fascinating but programmatically weak, overly optimistic about human nature and inattentive to regulatory needs of large modern societies. (PDF p.464)
@@ -100,8 +106,8 @@
 
 | Perspective | Distribution rule | State | Property | Equality | Community | Critique |
 |---|---|---|---|---|---|---|
-| Rawlsian liberal | ✅ Primary goods are to be distributed under equal liberty, fair opportunity and the difference principle. (PDF pp.447-448) | ✅ Redistributive and regulatory; government may pursue distributive justice, not mere order-maintenance. (PDF pp.448-450) | ✅ Capitalism may remain, but only under fairness conditions that humanize it. (PDF p.450) | ✅ Priority of liberty, then opportunity, then benefit to least advantaged; not equality of outcome. (PDF pp.448-450) | ✅ Chain connection links best-off and worst-off, giving a limited communitarian resonance. (PDF pp.448-450) | ✅ Vulnerable to charges of legitimizing inequality and abstracting from actual power relations. (PDF pp.448-449) |
-| Libertarian (Nozick) | ✅ Historical justice in acquisition, transfer and rectification, not patterned redistribution. (PDF pp.450-452) | ✅ Night-watchman state for police, defence, common services and limited rectification. (PDF pp.450-452) | ✅ Near-absolute moral importance of self-ownership and holdings gained without force or fraud. (PDF pp.450-452) | ✅ Inequality is acceptable if it reflects just processes. (PDF p.451) | ✅ Community cannot conscript one person's talents for another's benefit. (PDF p.452) | ✅ Ignores how market structures and starting inequalities themselves shape "voluntary" outcomes. (PDF p.452) |
+| Rawlsian liberal | ✅ Primary goods are governed by two principles: equal basic liberties; then fair opportunity and the difference principle (PDF pp.447-448). | ✅ Redistributive and regulatory; government may pursue distributive justice, not mere order-maintenance. (PDF pp.448-450) | ✅ Capitalism may remain only under prior fairness conditions. | ✅ Benefit to the least advantaged is tested only after liberty and opportunity requirements. | ⚠️ Gauba's chain-connection illustration stresses interdependence but does not replace lexical priority. | ✅ Vulnerable to charges of legitimizing inequality and abstracting from actual power relations. |
+| Libertarian (Nozick) | ✅ Historical justice requires acquisition, transfer and rectification, not patterned redistribution (PDF pp.450-452). | ✅ Minimal protective state and correction of proven title injustice; Gauba also mentions limited common services. | ✅ Strong self-ownership and property, subject to just title, non-force/non-fraud and the acquisition proviso. | ✅ Inequality is acceptable only if the historical process is just. | ✅ Community cannot automatically conscript one person's talents for another's benefit. | ✅ Rectification is difficult to specify, and structural starting inequalities complicate claims of voluntariness. |
 | Marxist | ✅ Need-based communist distribution is normatively superior, but justice within capitalism is structurally blocked by exploitation. (PDF pp.453, 458-459) | ✅ Transitional socialist state suppresses reaction and socializes production before eventual withering away. (PDF pp.455-458) | ✅ Distinguishes personal property from exploitative private ownership of major means of production. (PDF pp.458-459) | ✅ Equality means ending class exploitation, not merely redistributing wages. (PDF pp.453-459) | ✅ Final aim is classless association where each person's development supports all. (PDF pp.458-459) | ✅ Underestimates reappearance of domination through political-bureaucratic power. (PDF p.459) |
 | Democratic-socialist | ✅ Social justice through partial socialization, welfare, education, culture and public services. (PDF pp.459-461) | ✅ Constitutional-democratic welfare state with party competition and civil liberties. (PDF pp.460-461) | ✅ Mixed economy; essential sectors may be publicly owned without total abolition of property. (PDF p.459) | ✅ Seeks both socio-economic equality and freedom of expression, religion and movement. (PDF pp.459-460) | ✅ Community is strengthened through democratic solidarity, public opinion and social citizenship. (PDF pp.460-461) | ✅ Hard to sustain without resources, strong civic will and careful incentive design. (PDF p.461) |
 | Anarchist | ✅ Justice through voluntary cooperation, mutual aid, decentralized federation or communal sharing. (PDF pp.461-464) | ✅ State is intrinsically coercive and should be abolished or progressively rendered unnecessary. (PDF pp.461-464) | ✅ Property is often seen as domination, though strands vary from mutualism to anarchist communism. (PDF pp.462-464) | ✅ Equality means absence of hierarchy, privilege and coercive domination. (PDF pp.462-464) | ✅ Small-scale solidarity and federation replace centralized authority. (PDF pp.462-464) | ✅ Lacks workable large-scale mechanism and underestimates mixed human motives and ecological-regulatory constraints. (PDF p.464) |
@@ -125,6 +131,9 @@
 - ⚠️ Prompt: "Discuss communitarian critique of liberal justice." -> Contrast right over good, isolated self over embedded self, and simple equality over complex equality.
 - ⚠️ Prompt: "Can socialism and democracy be combined?" -> Use democratic socialism as the middle path between Marxist revolution and laissez-faire liberalism.
 - ⚠️ Prompt: "Why is recognition central to justice?" -> Use feminist and subaltern sections to show that invisible hierarchies distort both reward and dignity.
+- ✅ **Verified PYQ (2023):** "What is meant by justice as fairness? Explain Rawls' theory of
+  justice." The high-scoring answer must include the original position, veil of ignorance, two
+  principles, lexical priority and at least one criticism.
 
 ## 11. Cross-links and exclusions
 

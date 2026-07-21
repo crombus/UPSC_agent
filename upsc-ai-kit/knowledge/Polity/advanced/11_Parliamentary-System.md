@@ -1,7 +1,7 @@
 # Parliamentary System — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 12 / "Parliamentary System" (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 12 / "Parliamentary System" (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference · 📰 = current affairs.
 > *Companion: `basic/Parliamentary-System.md`.*
 

@@ -4,7 +4,7 @@
 > **Core area:** Inclusive growth and human development.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/02_Growth-Development-HDI-IHDI-and-MPI.md`.*
+> *Companion: `../advanced/02_Growth-Development-HDI-IHDI-and-MPI.md`.*
 
 ---
 
@@ -101,7 +101,10 @@ conversion channels, and IHDI/MPI as tests of distribution and deprivation.
 - 📰 The Survey treats education, health, skills and productive employment as a connected
   human-capital system.
 
-⚠️ **Interpretation caution:** Composite indices aid comparison but cannot display every
+⚠️ **Interpretation caution:** The Survey attributes the USD 3.00 line to the World
+Bank's June 2025 revision at **2021 PPP prices** and says the resulting estimates are
+not directly comparable with older poverty lines. It is an international benchmark, not
+India's official domestic poverty line. Composite indices also cannot display every
 intra-state, gender, caste or quality-of-service gap.
 
 ## 9. PYQ application
@@ -132,7 +135,7 @@ intra-state, gender, caste or quality-of-service gap.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/02_Growth-Development-HDI-IHDI-and-MPI.md`.
+- ✅ Advanced companion: `../advanced/02_Growth-Development-HDI-IHDI-and-MPI.md`.
 - ✅ `01_National-Income-GDP-GVA-and-Measurement.md` — output and per-capita measures.
 - ✅ `22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` — productive inclusion
   through jobs.

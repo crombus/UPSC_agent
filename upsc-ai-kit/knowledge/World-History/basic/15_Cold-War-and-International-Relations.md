@@ -1,7 +1,7 @@
 # Cold War and International Relations - MUST-DO
 
 > **Subject:** History (World History) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I
-> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 7, pp. 122-140, and Chapter 8, pp. 142-166; OCR lines used: 9217-10507, 10554-10809, 11499-11731.
+> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapters 7-8, pp. 122-166, and Chapter 11, pp. 225-256; the local PDF was read directly.
 > **Exam-relevance anchor:** ✅ UPSC GS-I syllabus includes: "History of the world will include events from 18th century such as industrial revolution, world wars, redrawal of national boundaries, colonization, decolonization, political philosophies like communism, capitalism, socialism etc.-their forms and effect on the society."
 > ✅ = source-grounded · ⚠️ = interpretive synthesis / answer-writing line · 📰 = current-affairs peg only when separately verified.
 > *Companion: `advanced/15_Cold-War-and-International-Relations.md`.*
@@ -20,6 +20,7 @@
 | ✅ 1955 | Austrian State Treaty and Warsaw Pact |
 | ✅ 1961 | Berlin Wall |
 | ✅ 1962 | Cuban missiles crisis |
+| ✅ 1967 / 1973 | Six-Day War and Yom Kippur War reshape the Arab-Israeli conflict |
 | ✅ 1972 | SALT I and Nixon's China opening |
 | ✅ 1975 | Helsinki Agreement |
 | ✅ 1979 | Soviet invasion of Afghanistan |
@@ -100,7 +101,36 @@
 
 ⚠️ For this topic, use these cases to illustrate the **international-relations framework** of the Cold War, not to substitute for region-specific study.
 
-## 6. Detente and the end of the Cold War
+## 6. The Middle East: local conflict, decolonization and Cold War intervention
+
+✅ Lowe's Chapter 11 prevents a Eurocentric Cold War narrative. The Middle East was not merely a
+chessboard for Washington and Moscow: Arab nationalism, the creation and security of Israel,
+Palestinian displacement and statehood, decolonization, oil, territorial disputes and domestic
+regime choices all had their own force.
+
+| Event | Core significance |
+|---|---|
+| ✅ Arab-Israeli War, 1948-49 | Israel survived; the Palestinian refugee problem and Arab-Israeli hostility became enduring regional issues |
+| ✅ Suez War, 1956 | Nasser's canal nationalization, the British-French-Israeli attack and US/USSR pressure exposed declining European imperial power |
+| ✅ Six-Day War, 1967 | Israel occupied the Sinai, Gaza, West Bank, East Jerusalem and Golan Heights, transforming the territorial question |
+| ✅ Yom Kippur War, 1973 | Egyptian and Syrian attack restored some Arab leverage; superpower tension and oil politics widened the crisis |
+| ✅ Camp David, 1978-79 | Egypt and Israel made peace, but the Palestinian question remained unresolved |
+| ✅ Iran-Iraq War, 1980-88 / Gulf War, 1990-91 | Regional rivalry, oil security and outside intervention outlasted the classic Arab-Israeli war cycle |
+
+```text
+post-imperial borders + competing national projects
+                    +
+Palestinian dispossession + Israeli security fears
+                    +
+Arab nationalism + oil + superpower intervention
+                    ->
+recurrent wars, partial settlements and unresolved statehood questions
+```
+
+⚠️ UPSC-safe conclusion: **the Cold War internationalized Middle Eastern conflicts, but did not
+create all of their local causes**.
+
+## 7. Detente and the end of the Cold War
 
 ✅ Detente emerged in the 1970s because both sides feared nuclear catastrophe and faced strategic and economic strain.
 
@@ -120,7 +150,7 @@
 
 ✅ Between 1988 and 1991 communist systems collapsed across eastern Europe and then in the USSR itself.
 
-## 7. Must-Know Facts (Prelims) and UPSC traps
+## 8. Must-Know Facts (Prelims) and UPSC traps
 
 - ✅ Truman Doctrine = support for states resisting communist pressure.
 - ✅ Marshall Plan = US economic recovery programme for Europe.
@@ -131,6 +161,7 @@
 - ✅ Cuban missiles crisis occurred in 1962.
 - ✅ SALT I and Helsinki are classic detente markers.
 - ✅ INF Treaty (1987) marked destruction of a class of nuclear weapons.
+- ✅ Suez (1956), the Six-Day War (1967), the Yom Kippur War (1973) and Camp David (1978-79) must be kept in sequence.
 
 > 🔑 Trap: The Cold War was not only Europe-versus-Europe. Lowe repeatedly shows Asia, Latin America and the wider decolonizing world as major theatres of Cold War competition.
 
@@ -138,8 +169,9 @@
 - ❌ Korea was a straightforward civil war unrelated to superpower politics. -> ✅ Lowe presents it as both a Korean conflict and a Cold War crisis.
 - ❌ The Berlin Wall solved the German question. -> ✅ It froze one aspect of the crisis but symbolized continuing division.
 - ❌ The Cold War ended because one summit solved everything. -> ✅ It ended through longer structural and political change, especially under Gorbachev.
+- ❌ Every Middle Eastern war was only a US-USSR proxy conflict. -> ✅ Local nationalism, territory, refugees, state security and oil politics had autonomous importance.
 
-## 8. GS-I Mains exam linkage, answer frame and probable questions
+## 9. GS-I Mains exam linkage, answer frame and probable questions
 
 ✅ This topic enters UPSC through communism, capitalism, postwar international relations and the transformation of world politics after 1945.
 
@@ -148,15 +180,17 @@
 2. Explain causes through ideology, security and mistrust.
 3. Track escalation: Truman Doctrine, Marshall Plan, Berlin, NATO, Korea.
 4. Add thaw, Cuba, detente and collapse.
-5. End with the idea that the Cold War structured post-1945 world politics.
+5. Add one non-European theatre, preferably Korea, Vietnam or the Middle East.
+6. End with the idea that the Cold War structured post-1945 world politics without erasing local causes.
 
 **Probable Mains questions**
 - ⚠️ "What caused the Cold War? Assess the relative role of ideology and power politics."
 - ⚠️ "How did the Cold War develop between 1945 and 1962?"
 - ⚠️ "Discuss the significance of the Cuban missiles crisis in the history of the Cold War."
 - ⚠️ "Explain the causes, course and consequences of detente."
+- ⚠️ "Why can the Arab-Israeli conflict not be explained as a Cold War proxy struggle alone?"
 
-## 9. Study link
+## 10. Study link
 
 > **Study link:** World-History -> `advanced/15_Cold-War-and-International-Relations.md` for blame debates, detente logic and end-of-Cold-War analysis.
 > **Study link:** World-History -> `basic/16_United-Nations-and-Global-Governance.md` for the UN's role in Korea and later peacekeeping.

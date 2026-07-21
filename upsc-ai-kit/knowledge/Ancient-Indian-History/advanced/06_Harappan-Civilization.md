@@ -24,11 +24,12 @@
 - ✅ **Craft specialisation & standardisation:** bead-making (Chanhudaro, Lothal), shell, faience, metallurgy; the uniformity of **weights, bricks (ratio 1:2:4) and seals** across a million sq km implies **shared norms and administrative control** — but *how* control was exercised is unknown.
 - ✅ **Trade networks:** internal exchange plus long-distance links to **Mesopotamia** (their **Meluha**), via **Dilmun** and **Magan**; imports of raw materials (lapis from Afghanistan, tin, copper) point to a **procurement-driven economy**.
 - ✅ **Writing:** short inscriptions (avg ~5 signs) mostly on **seals** — likely **administrative/ownership** rather than literary; hence no histories, king-lists or epics survive.
+- ✅ The script has about **400–450 basic signs**, is generally read right-to-left, and only some multi-line texts use boustrophedon; calling the entire script “boustrophedon” is inaccurate.
 
 **Advanced — society, polity, religion & the "who ruled?" problem.**
 
 ✅ Upinder Singh stresses the **absence of unambiguous evidence for kings, palaces or state religion** — unlike Egypt/Mesopotamia there are no royal tombs or monumental temples. Interpretations of Harappan **polity** therefore range across: a single centralised state, several competing city-states, or a **decentralised network of elites** bound by shared ideology and trade. The **"ruling elite"** is inferred from the **citadel, granaries, standardisation and hoarded valuables**, not from named rulers.
-- ✅ **Religion & funerary practice:** reconstructed from figurines (Mother Goddess), the **"Pashupati"/proto-Shiva seal** (Upinder cautions against reading it straight as Shiva), pipal and animal motifs, fire altars (Kalibangan, Lothal), and **varied burials** (extended inhumation, some with grave goods) — pointing to **belief but not a single dogma**.
+- ✅ **Religion & funerary practice:** reconstructed from varied female figurines (not one automatic “Mother Goddess”), the contested **“Pashupati” seal**, pipal and animal motifs, fire installations, possible cult objects, and varied burials. These indicate ritual activity but do not reveal a single Harappan creed.
 - ✅ **Decline:** Upinder rejects a single-cause narrative. Contributing factors: **shifts/drying of the Ghaggar-Hakra (Sarasvati) and Indus rivers, ecological stress, breakdown of the Mesopotamian trade network, and internal reorganisation** — the result was **de-urbanisation**, not extinction; rural Late-Harappan cultures persisted.
 - ✅ **Significance of the Late Harappan phase:** the transition "was marked by the decline of urban features and the **diversification of agriculture**" — cultural continuities (in pottery, beliefs, agriculture) link the Harappans to later cultures, complicating any clean Harappan/Vedic break.
 
@@ -41,14 +42,14 @@
 | ✅ Cause of decline | Multi-causal: river change, aridity, trade collapse, internal shift — **not "Aryan invasion"** |
 | ✅ Continuity | Late-Harappan cultures show cultural continuity → clean "end" is a myth |
 | ✅ Sarasvati question | Many sites on the **Ghaggar-Hakra**; its drying is one decline factor (identification debated) |
+| ✅ Monument functions | “Granaries” at Harappa/Mohenjo-daro and Lothal's “dockyard” are functional interpretations, not settled labels |
 
 ## ➕ The Aryan / Harappan genetics debate (PYQ-adjacent, GS-I)
 
-> ⚠️ Source note: the genetics is post-2019 science, not in the book; grounded in peer-reviewed studies + 📰. Included because UPSC interviews/essays touch it.
+> ✅ Source note: the genetics summary follows Upinder Singh's 2nd-edition discussion of the 2019 peer-reviewed Rakhigarhi and Narasimhan studies.
 
-- 📰 The **2019 Rakhigarhi ancient-DNA study** (Shinde et al.; Narasimhan et al., *Science*/*Cell*) found the Harappan individual had **Iranian-agriculturalist-related + ancient South-Asian hunter-gatherer ancestry** and **no Steppe (Central-Asian pastoralist) ancestry** — Steppe ancestry enters South Asia **after** the Harappan decline.
+- ✅ Upinder Singh summarizes the **2019 Rakhigarhi ancient-DNA study** as a mixture related to ancient Iranian and South/Southeast Asian hunter-gatherer lineages, with little or no immediate contribution from Steppe pastoralists or Anatolian/Iranian farmers or herders. The “Iranian” component predates Iranian farming and must not be called simply “Iranian-farmer ancestry.”
 - ⚠️ Scholarly reading: consistent with **Indo-Aryan-speaking pastoralists migrating in c. 2000–1500 BC**, *after* the mature Harappan cities — i.e., Harappans were **not** the Vedic Aryans, but there is **cultural continuity**, not a violent replacement.
-- 📰 **2026:** new Rakhigarhi skeletons under aDNA/isotope/facial-reconstruction study aim to enlarge the sample.
 
 > 🔑 Trap: The genome data **weakens the "Aryan Invasion"** model (no evidence of mass violent conquest) **and** the "Harappans = Vedic Aryans" model (no Steppe ancestry in Harappans). UPSC-safe framing: **migration + admixture, multi-causal decline**, debate unresolved.
 
@@ -64,7 +65,12 @@
 - ✅ Mesopotamian trade terms: **Meluha** (Indus), via **Dilmun (Bahrain)** and **Magan/Makan (Oman-Makran)**.
 - ✅ Seals mostly **administrative**; script short (~5 signs), undeciphered.
 - ✅ Decline = **de-urbanisation, multi-causal**; Late-Harappan continuity, not extinction.
-- 📰 **2019 Rakhigarhi genome:** Iranian-farmer + AASI ancestry, **no Steppe** ancestry.
+- ✅ **2019 Rakhigarhi genome:** ancestry related to ancient Iranian and South Asian hunter-gatherer lineages; little/no immediate Steppe or Anatolian/Iranian farmer-herder contribution in that individual.
+
+## ➕ Exact PYQ application (2025 GS-I)
+
+- ⚠️ Structure a 150-word architecture answer around **planning, construction, water/drainage, public works, regional variation and interpretive caution**.
+- ✅ Use Dholavira to correct the over-generalized “citadel west/lower town east” template; use the Great Bath as secure evidence and “granary/dockyard” with quotation-mark caution.
 
 ## 5. UPSC Traps
 
@@ -75,7 +81,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Rakhigarhi 2026:** ASI Mound-7 burials → AnSI/BSIP for **ancient-DNA + isotope + facial reconstruction**; a fresh test of the 2019 "no-Steppe-ancestry" finding. Also keeps alive the **Ghaggar-Hakra/Sarasvati** debate and Harappan **social stratification** (differential grave goods, up to ~40 pots in some burials).
+⚠️ **Current-link discipline:** Use the published 2019 Rakhigarhi genome as the verified modern anchor. Any later burial count, grave-goods total, isotope result or facial reconstruction requires an excavation or peer-reviewed scientific report.
 
 ## 7. Mains angles
 

@@ -42,7 +42,7 @@
 |---|---|
 | ✅ Law and order | Stern action against robbers, dacoits and disobedient zamindars |
 | ✅ Roads | Indus-Sonargaon road; Agra-Jodhpur-Chittor; Lahore-Multan |
-| ✅ Sarais | Fortified inns every two kos/about eight km; later market towns and dak stages |
+| ✅ Sarais | Fortified inns every two *karohs* (four miles in Part II); later market towns and dak stages |
 | ✅ Customs | Duties at entry and sale; no arbitrary road/ferry/town levies |
 | ✅ Currency | Fine gold, silver and copper coins; silver rupee became a long standard |
 | ✅ Revenue | Measurement, crop rate (*rai*), one-third state share, patta |
@@ -63,6 +63,7 @@
 - ✅ **Patta** recorded the area, crop and amount due from each peasant.
 - ✅ He used **chehra** and **dagh** for army control.
 - ✅ He died in **1545** during the siege of **Kalinjar**.
+- ✅ Sher Shah did not create a modern province structure: **sarkars/shiqs** and **parganas** remained the important territorial units, working through local officials and zamindars.
 
 ## 5. UPSC Traps
 
@@ -75,7 +76,7 @@
 
 ## 6. 📰 Current link
 
-- 📰 **Grand Trunk Road in 2025 public debate** — Zee News/The Wire discussed the historic GT Road corridor in the context of politics, highway renumbering and heritage memory; relevance: Sher Shah's communications policy remains a live heritage-governance anchor.
+📰 **Current linkage (verify live before use):** The Grand Trunk Road remains a useful transport-and-heritage hook. Distinguish Sher Shah's restoration and extension of older routes from modern highway alignments and numbering.
 
 ## 7. Mains angles
 

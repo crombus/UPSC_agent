@@ -22,9 +22,9 @@ JAJMANI SYSTEM (historical)
 Patron households (jajman, usually landholding)
         |
         v
-Hereditary service castes (kamin: barber, washerman,
-priest, carpenter, blacksmith) paid in kind/grain,
-not cash wages
+Hereditary service groups (kamin: barber, washerman,
+priest, carpenter, blacksmith) received customary
+payments, often grain/kind and sometimes cash
         |
         v
 AGRARIAN CLASS STRUCTURE
@@ -42,18 +42,17 @@ migration, remittance, markets, media - not
 a sealed traditional/modern divide)
 ```
 
-**Core proposition:** ⚠️ Village India was historically organised around the jajmani
-system's patron-client service exchange and a caste-linked agrarian class hierarchy, with
-locally dominant castes converting numbers and land into political power; contemporary
-rural society is better described by a rural-urban continuum than by a strict
-traditional-versus-modern divide, as migration, markets and Panchayati Raj have
-restructured, without eliminating, the older caste-class overlap.
+**Core proposition:** ⚠️ Jajmani was an important but regionally variable historical
+patron-client arrangement, alongside caste-linked agrarian hierarchy. Locally dominant
+castes can convert numbers, land and office into power; migration, markets and Panchayati
+Raj have reworked rather than uniformly eliminated caste-class overlap, making a
+rural-urban continuum more useful than a strict traditional/modern divide.
 
 ## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Jajmani system** | A historical patron-client arrangement in which landholding patron households (jajman) received hereditary services from specific caste groups (kamin) — barbers, washermen, priests, carpenters — typically paid in grain or kind rather than cash. |
+| ✅ **Jajmani system** | A historical, regionally variable patron-client arrangement in which patron households (jajman) received customary services from designated groups (kamin). Payments were often grain or kind, but cash and local variation existed; it was not one uniform all-India institution. |
 | ✅ **Agrarian class structure** | The stratification of rural society into landowning cultivators, tenants/sharecroppers and landless agricultural labourers, often (though not always) correlating with caste position. |
 | ✅ **Dominant caste** (M.N. Srinivas) | A caste that is numerically strong, holds a significant share of local land and exercises political influence in a village or region, whether or not it is ritually highest-ranked. |
 | ⚠️ **Rural-urban continuum** | The sociological view that villages and towns are linked by migration, remittance, trade and communication rather than separated by a rigid traditional-modern divide. |
@@ -65,10 +64,9 @@ restructured, without eliminating, the older caste-class overlap.
    laundry, ritual officiating, tool-making) from designated service castes in exchange for
    a fixed share of the harvest or customary payment in kind, embedding caste occupation
    into the village economy.
-2. **Decline of jajmani:** ⚠️ cash-wage labour, non-farm employment, urban migration and
-   the weakening of caste-occupation linkage have eroded the jajmani system in most regions,
-   though vestiges (a family still using a traditional caste-linked service provider)
-   persist in some areas.
+2. **Change in jajmani relations:** ⚠️ cash-wage labour, non-farm employment, urban
+   migration and weaker caste-occupation linkage have altered or eroded many customary
+   service relations, though ritual and personalised service ties persist in some places.
 3. **Agrarian class stratification:** ✅ ownership of land, security of tenancy and
    dependence on wage labour differentiate rural households; land reform, land ceiling laws
    and their macro-economic mechanics are `Economy`'s territory, not elaborated here.
@@ -76,9 +74,10 @@ restructured, without eliminating, the older caste-class overlap.
    combining numerical strength, landholding and political office could dominate a village's
    decision-making regardless of its ritual rank, making it the practical unit of local
    power analysis.
-5. **Green Revolution's social effect:** ⚠️ the Green Revolution concentrated productivity
-   gains among larger landholders able to invest in inputs, sharpening class differentiation
-   within the peasantry and reinforcing some existing dominant-caste advantages.
+5. **Green Revolution's social effect:** ⚠️ initial gains often favoured irrigated regions
+   and cultivators able to access inputs, credit and markets, which could sharpen class
+   differentiation and reinforce dominant-caste advantage. Adoption and distribution varied
+   by crop, tenancy and region; do not make this a universal outcome.
 6. **Panchayati Raj's restructuring effect:** ⚠️ reserved seats for Scheduled Castes,
    Scheduled Tribes and women in Panchayats have introduced new, formally mandated voices
    into village governance, contesting (without eliminating) older dominant-caste control.
@@ -88,8 +87,9 @@ restructured, without eliminating, the older caste-class overlap.
 
 ## 4. Institutions and concepts
 
-- ✅ **Jajmani (kamin-jajman relationship):** the historical service-exchange institution,
-  now largely replaced by cash-wage and market relationships in most regions.
+- ✅ **Jajmani (kamin-jajman relationship):** a historical service-exchange institution
+  whose form, payment and persistence varied across regions; cash-wage and market relations
+  have changed many such ties.
 - ✅ **Dominant caste:** the numbers-land-power convergence concept central to understanding
   village-level authority.
 - ⚠️ **Village Panchayat as contested arena:** Panchayati Raj institutions are where
@@ -115,8 +115,9 @@ restructured, without eliminating, the older caste-class overlap.
 
 - ✅ M.N. Srinivas coined "dominant caste" from his Rampura (Karnataka) village fieldwork,
   the same study that produced "Sanskritisation."
-- ✅ Jajmani relationships were typically hereditary and paid in kind (grain share), not
-  cash wages — a key definitional feature.
+- ✅ Jajmani relationships were often hereditary and involved customary grain/in-kind
+  payments, but local records also show cash and mixed forms; avoid treating “no cash” as a
+  universal definition.
 - ✅ Panchayati Raj mandates reservation for Scheduled Castes, Scheduled Tribes and women in
   local bodies (institutional design is Governance's territory).
 - 📰 PLFS 2023-24 is a dated rural-workforce comparator; PLFS Annual Report 2025,
@@ -126,9 +127,9 @@ restructured, without eliminating, the older caste-class overlap.
 
 ## 7. UPSC traps
 
-- ❌ Jajmani system payments were made in cash wages. -> Payments were traditionally in
-  kind (grain share) or customary in-kind arrangements, not cash wages — this is the key
-  distinguishing feature from modern wage labour.
+- ❌ Jajmani system payments were always cash wages / never cash. -> Customary grain or
+  in-kind payment was common, but arrangements varied and could include cash. Its key
+  difference from a modern labour market is the hereditary, personalised patron-client tie.
 - ❌ Dominant caste always means the ritually highest-ranked caste in a village. -> Dominance
   rests on numbers, land and political power, which can belong to a middle-ranked but
   locally numerous and land-owning caste.
@@ -154,19 +155,18 @@ restructured, without eliminating, the older caste-class overlap.
 
 ## 10. Mains angles
 
-- ⚠️ Use jajmani decline and dominant-caste persistence as complementary, not contradictory,
-  observations — the service-exchange system has weakened while caste-based local power has
-  restructured rather than disappeared.
+- ⚠️ Use changing jajmani relations and dominant-caste persistence as complementary, not
+  contradictory, observations — but qualify both by regional variation and avoid claiming
+  either has disappeared everywhere.
 - ⚠️ Cross-link land-reform and tenancy-law mechanics to Economy rather than re-deriving
   them.
 - ⚠️ Use the rural-urban continuum framing to avoid treating villages as static or isolated.
 
-> **Answer thesis:** Rural India's traditional jajmani-based service economy has
-> substantially declined under cash-wage labour and non-farm employment, but the
-> dominant-caste convergence of numbers, land and political power continues to shape
-> village authority even as Panchayati Raj reservation introduces contesting voices, and the
-> rural-urban continuum — not a rigid traditional/modern divide — best describes how
-> migration and markets now connect villages to towns.
+> **Answer thesis:** Rural India contains regionally varied, changing jajmani and
+> caste-class arrangements. Cash work, non-farm employment and migration have altered many
+> personalised service ties, while dominant-caste power can persist or be challenged through
+> land, electoral institutions and reservations; a rural-urban continuum, not a rigid
+> traditional/modern divide, best captures these uneven connections.
 
 ## 11. Probable questions
 

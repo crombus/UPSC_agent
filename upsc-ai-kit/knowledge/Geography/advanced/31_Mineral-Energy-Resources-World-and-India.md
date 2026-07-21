@@ -1,7 +1,7 @@
 # Mineral & Energy Resources: India’s Belts, Power Geography & Critical Minerals — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Ministry of Mines / Ministry of Coal / Ministry of Power / PIB material.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified Mines/Coal/Power current anchor.
 > **Data caution:** ✅ Old book-era reserve or production figures are not used as current data; contemporary figures are identified separately in the CA section.
 > ✅ = grounded source · ⚠️ = synthesis / answer-writing guidance · 📰 = verified dated current-affairs anchor.
 > *Companion: `basic/31_Mineral-Energy-Resources-World-and-India.md`.*
@@ -22,13 +22,29 @@
 | ✅ Odisha-Jharkhand-Chhattisgarh sector | Iron ore, bauxite, coal | Core mineral-industrial arc of east-central India |
 | ✅ Karnataka-Goa belt | Iron ore, manganese | Export-linked and steel-linked belt |
 | ✅ Rajasthan-Aravalli belt | Copper, lead, zinc, gypsum, marble | Non-ferrous and industrial-mineral zone |
-| ✅ Assam-Gujarat offshore / western basin link | Petroleum and gas | Hydrocarbon geography |
+| ✅ Assam-Arakan and Cambay basins | Onshore petroleum and gas | North-east and western onshore hydrocarbon geography |
+| ✅ Mumbai Offshore and other continental-margin basins | Offshore petroleum and gas | Shelf/margin hydrocarbon geography |
 | ✅ Coastal placer belts | Ilmenite, monazite and beach-sand minerals | Strategic mineral significance |
 
     Rajasthan / Aravallis -> Cu, Pb, Zn
     Chota Nagpur -> Fe + Coal + Steel axis
     Assam / Gujarat / offshore -> Oil and gas
     Peninsular lateritic belts -> Bauxite
+
+### Prelims map hooks — belts, not isolated mines
+
+| Resource | Principal belt logic | High-yield locations |
+|---|---|---|
+| ✅ Iron ore | Odisha-Jharkhand; Durg-Bastar-Chandrapur; Karnataka; Maharashtra-Goa | Keonjhar-Mayurbhanj/Noamundi; Dalli-Rajhara-Bailadila; Ballari-Hospet; Goa |
+| ✅ Gondwana coal | Damodar, Mahanadi, Son and Godavari valley basins | Jharia-Bokaro-Raniganj; Talcher-Ib; Singrauli; Singareni |
+| ✅ Bauxite | Lateritised plateaux and hilltops | Odisha leading belt; also Gujarat, Jharkhand, Maharashtra, Chhattisgarh and MP |
+| ✅ Manganese | Peninsular metamorphic belts | Odisha, Karnataka, Madhya Pradesh and Maharashtra |
+| ✅ Copper | Aravalli and Singhbhum belts | Khetri; Singhbhum; Malanjkhand |
+| ✅ Lead-zinc | Aravalli belt | Zawar, Rampura-Agucha and adjoining Rajasthan deposits |
+| ✅ Petroleum/gas | Sedimentary basins—onshore and offshore | Assam-Arakan, Cambay, Mumbai Offshore, Krishna-Godavari, Cauvery |
+
+> 🔑 Trap: Bailadila is an iron-ore range, Jharia a coking-coal field, Khetri copper, Zawar lead-zinc,
+> and Mumbai High offshore petroleum—do not swap commodity belts.
 
 ## 3. Coal, power and energy geography
 
@@ -76,7 +92,8 @@
 
 - ❌ India’s mineral core lies in the Indo-Gangetic plain -> It is mainly in the peninsular shield and associated belts.
 - ❌ Petroleum follows the same geography as iron ore -> Hydrocarbons are basin/offshore resources, not shield-ore resources.
-- ❌ Renewable-energy growth makes coal irrelevant immediately -> Coal remains central to baseload and industrial energy supply.
+- ❌ Renewable-energy growth makes coal irrelevant immediately -> Coal remains central to dispatchable
+  generation and industrial energy, though its share can change with storage, grids and policy.
 
 ## 7. PYQ / exam linkage
 
@@ -97,16 +114,17 @@
 
 ## 8. 📰 Current link
 
-### CA Anchor — 2025: record mining, NCMM approval and 500 GW power milestone
+### CA Anchor — India's changing power-capacity map
 
-📰 **Source/date:** Cabinet approval of NCMM, **29 Jan 2025**; Ministry/PIB release on record mining output, **24 Jun 2025**; PIB power-capacity update, **30 Sep 2025**.
+📰 **Current anchor:** CEA capacity releases show rapid solar/wind additions concentrated in western and
+southern corridors while coal capacity remains tied strongly to east-central fuel and rail geography.
+Quote capacity with the CEA release date and distinguish **installed capacity** from **actual generation**.
 
 | Current fact | Geographic reading |
 |---|---|
-| ✅ NCMM approved with total outlay of Rs 34,300 crore | Critical-mineral geography is now central to industrial policy |
-| ✅ FY 2024-25 iron ore output reached **289 MMT** and bauxite **24.7 MMT** | East-central and peninsular mineral belts remain foundational |
-| ✅ Installed power capacity reached **500.89 GW**; non-fossil capacity **256.09 GW** | India’s power geography is diversifying beyond coal |
-| ✅ FY 2024-25 coal production crossed **1,047.57 MT** | Coal still anchors the energy system despite transition |
+| ✅ Renewable-capacity concentration | Rajasthan-Gujarat-Tamil Nadu-Karnataka corridors gain importance |
+| ✅ Coal-power geography | East-central coalfields and freight networks still matter |
+| ⚠️ Capacity vs generation | A MW of installed solar/wind is not directly comparable with annual thermal output |
 
 ✅ The combined message is clear: India's old mineral geography has not disappeared, but it is being overlaid by a new map of **critical minerals + renewable-energy corridors + strategic processing chains**.
 

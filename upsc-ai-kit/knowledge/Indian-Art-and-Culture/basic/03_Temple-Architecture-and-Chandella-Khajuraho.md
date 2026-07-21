@@ -8,7 +8,8 @@
 > Khajuraho dossier**.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp. 69-124
 > (Khajuraho pp. 79-82; South Indian schools pp. 84-121); `00_Master-
-> Framework.md` Sections 3, 6; audited UPSC Mains 2024-2025 GS Paper I.
+> Framework.md` Sections 3, 6; Satish Chandra, *History of Medieval India*,
+> PDF pp. 43-46, 73-77; audited UPSC Mains 2024-2025 GS Paper I.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/03_Temple-Architecture-and-Chandella-Khajuraho.md`.*
 
@@ -31,10 +32,10 @@ reading, not optional detail.
 | ✅ **Mandapa** | Entrance portico/hall for worshippers to gather (*Nitin…pdf*, PDF p. 72). |
 | ✅ **Shikhara** | Mountain-like spire, pyramidal to curvilinear in shape (*Nitin…pdf*, PDF p. 72). |
 | ✅ **Vahana** | The deity's vehicle/mount, placed before the sanctum (*Nitin…pdf*, PDF p. 72). |
-| ✅ **Panchayatana style** | Principal shrine plus four subsidiary shrines in a crucified ground plan (*Nitin…pdf*, PDF p. 70). |
+| ✅ **Panchayatana style** | Principal shrine with four subsidiary shrines at the platform's corners, producing a five-shrine/quincunx arrangement; not every example preserves every subsidiary shrine. |
 | ✅ **Ardhamandapa / antarala** | Ardhamandapa = intermediate porch before the main mandapa; antarala = vestibule connecting mandapa to garbhagriha (Chola usage, *Nitin…pdf*, PDF p. 90). |
 | ✅ **Ratha divisions** | Triratha/pancharatha/saptaratha/navaratha — the number of vertical wall-plane projections on a Nagara temple (*Nitin…pdf*, PDF p. 73). |
-| ✅ **Vimana vs. Nagara shikhara** | Dravida vimana = stepped pyramidal tower, one per temple; Nagara shikhara = curvilinear tower, present over every shrine including subsidiary ones (*Nitin…pdf*, PDF p. 89). |
+| ✅ **Vimana vs. Nagara shikhara** | Dravida vimana = tiered superstructure over a sanctum; Nagara shikhara = usually curvilinear sanctum tower. Principal and subsidiary shrines may each carry superstructures; gopura means gateway tower, not sanctum tower. |
 | ✅ **Gopuram** | Dravidian-style monumental gateway tower at the boundary wall (*Nitin…pdf*, PDF p. 89). |
 
 ## 3. Core classification
@@ -59,16 +60,17 @@ central India between the 9th and 13th centuries AD, contemporaries of the
 Rashtrakutas, Pratiharas and Palas; their capital was Kharjju-ravahaka
 (Khajuraho) (*Nitin…pdf*, PDF p. 79). ✅ Early rulers Jayashakti (also
 called Jejjaka/Jeja, giving the name Jejabhukti) and Vijayashakti expanded
-under Harsha and Yashovarman while acknowledging Pala overlordship;
+under Harsha and Yashovarman within the Gurjara-Pratihara political sphere;
 **Dhanga**, the first fully independent Chandela king, took the title
 *maharajadhiraja*, and several Khajuraho temples date to his reign
 (*Nitin…pdf*, PDF pp. 79-80).
 
-✅ **Architecture:** All Khajuraho temples were built in Nagara style,
-reaching its climax under the Chandelas — fine-grained buff, pink and
-pale-yellow sandstone, erected on high platform terraces **without any
+✅ **Architecture:** Khajuraho's mature temples use Nagara forms,
+with fine-grained buff, pink and pale-yellow sandstone, erected on high
+platform terraces **without any
 enclosure wall**; all temples except the Chaturbhuja temple face sunrise
-(*Nitin…pdf*, PDF p. 80).
+(*Nitin…pdf*, PDF p. 80). ⚠️ Material is not uniform: ASI identifies
+Chausath Yogini, Brahma and Mahadeva as granite exceptions.
 
 ✅ **Plural patronage:** Of the surviving temples, six are dedicated to
 Shiva, eight to Vishnu, one to Ganesha, one to the Sun, and four to Jain
@@ -81,7 +83,8 @@ group comprises Lakshmana and Duladeo temples and the Mahadeva temples
 (*Nitin…pdf*, PDF p. 80). Other named temples include Parsvanath,
 Vishvanath, Jagadambi and Chitragupta (also a Surya/Sun temple)
 (*Nitin…pdf*, PDF pp. 80-81). ✅ **Chausath-yogini** is the earliest
-building at Khajuraho — a circular, open-air structure reflecting Tantric
+building at Khajuraho — a **rectangular**, open-air granite enclosure
+reflecting Yogini/Tantric
 and Shaiva traditions, one of about 13 surviving Chausath Yogini temples
 in India (*Nitin…pdf*, PDF p. 81). ✅ **Kandariya Mahadeva Temple**
 (dedicated to Shiva) is the largest and loftiest monument at Khajuraho,
@@ -144,6 +147,13 @@ UNESCO World Heritage List, 1986
 | ✅ Parsvanath | Jain Tirthankara | Jain group |
 | ✅ Chitragupta | Surya (Sun) | Distinct dedication |
 | ✅ Matangeshvara | Shaiva | Only temple still an active worship site |
+
+| Regional school | Structural distinction | High-value comparison |
+|---|---|---|
+| ✅ Odisha/Kalinga | Rekha deul sanctum + pidha deul hall; walled complex | Konark/Bhubaneswar also carry mithuna imagery |
+| ✅ Khajuraho | High jagati, connected halls, clustered subsidiary spires, no enclosure wall | Sandstone integration of wall and sculpture |
+| ✅ Chola Dravida | Axial walled complex; pyramidal vimana; later emphasis on gopura | Brihadishvara's scale and inscriptional/bronze ecology |
+| ✅ Hoysala | Stellate plans, soapstone, dense horizontal friezes | Multiple shrines and lathe-turned pillars; "Vesara" label should be qualified |
 
 ## 6. Source spine
 
@@ -209,10 +219,17 @@ sophistication.
   corrected. -> Both spellings appear in the source material itself; this
   file preserves the PYQ's own "Chandella" spelling exactly where quoting
   or answering that question.
-- ❌ Nagara shikhara and Dravida vimana are the same structural concept
-  with different names. -> Nagara shikhara is curvilinear and crowns every
-  shrine (including subsidiary ones); Dravida vimana is a stepped pyramid
-  and appears only once, over the main shrine.
+- ❌ Nagara shikhara and Dravida vimana are simply the same object, or one
+  appears exactly once while the other appears over every shrine. -> Both
+  are sanctum-superstructure terms with regional morphologies; multi-shrine
+  complexes require monument-specific description.
+- ❌ Chausath Yogini at Khajuraho is circular and sandstone. -> ASI and
+  UNESCO describe this exceptional early shrine as rectangular; it is one
+  of Khajuraho's granite monuments.
+- ❌ Vesara is a universally agreed third style made by mechanically mixing
+  Nagara and Dravida halves. -> It is a useful but inconsistently used
+  label; describe Chalukya/Hoysala plan, tower and material before naming
+  the category.
 - ❌ The Great Living Chola Temples means three separate World Heritage
   properties. -> It is one serial World Heritage property comprising three
   temple complexes: Thanjavur (inscribed 1987), with Gangaikondacholapuram

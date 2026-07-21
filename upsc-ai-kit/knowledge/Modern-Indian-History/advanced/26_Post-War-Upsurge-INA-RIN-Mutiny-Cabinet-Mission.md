@@ -27,7 +27,7 @@
 - ✅ *India's Struggle for Independence* treats the INA trials, workers' protests, student demonstrations and RIN Mutiny as a cumulative post-war upsurge rather than isolated incidents.
 - ✅ The INA's military defeat was overshadowed by the political power of the Red Fort trials, which made colonial prosecution look like punishment of patriotism.
 - ✅ The symbolic Hindu-Muslim-Sikh composition of **Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon** allowed nationalist mobilisation to cut across communal categories for a brief moment.
-- ✅ The RIN Mutiny alarmed the British because it suggested that the armed forces, the ultimate coercive foundation of the Raj, could no longer be taken for granted.
+- ✅ The RIN revolt alarmed officials by exposing disaffection in a coercive arm of the Raj. Chandra nevertheless stresses its limits: it was short-lived, concentrated in a few urban centres and lacked the breadth of earlier mass movements.
 
 **Deeper — Cabinet Mission was a constitutional compromise trapped by communal polarisation.**
 
@@ -72,6 +72,7 @@
 
 - ❌ INA trials alone forced the British to quit. → They were one major psychological-political factor within a wider endgame.
 - ❌ RIN Mutiny was a full national revolution. → It was serious armed-force unrest but short-lived and not fully coordinated with national leadership.
+- ❌ Congress simply betrayed an otherwise successful revolution in February 1946. → Chandra reads the upsurges as extensions of Congress-created anti-imperialist politics but rejects the claim that they constituted a durable nationwide revolutionary situation.
 - ❌ Cabinet Mission grouping was identical to Partition. → Grouping was a federal compromise; Partition created two sovereign dominions.
 - ❌ Congress and League interpreted Cabinet Mission similarly. → Congress stressed sovereignty of the Constituent Assembly; League stressed grouping and Muslim safeguards.
 - ❌ 1945–46 elections solved the communal issue. → They deepened competing claims of representation.
@@ -89,4 +90,4 @@
 
 ## ➕ Historiography note (PYQ-gap)
 
-⚠️ A strong answer should avoid the myth that freedom came only through constitutional negotiation or only through armed pressure. Bipin Chandra's assessment gives weight to **INA trials and RIN Mutiny** because they undermined confidence in the loyalty of soldiers, but he also situates them within the long mass nationalist movement and post-war imperial exhaustion. The historiographical balance is: INA/RIN hastened withdrawal; they did not replace decades of mass struggle.
+⚠️ A strong answer should avoid the myth that freedom came only through constitutional negotiation or only through armed pressure. Chandra gives the **INA agitation and RIN revolt** major political significance but explicitly rejects making the British decision a mere response to the winter of 1945–46: imperial legitimacy had been eroded over decades, and the urban upsurges were brief and limited. The balance is: INA/RIN sharpened the endgame; they did not replace mass struggle or independently determine the transfer date.

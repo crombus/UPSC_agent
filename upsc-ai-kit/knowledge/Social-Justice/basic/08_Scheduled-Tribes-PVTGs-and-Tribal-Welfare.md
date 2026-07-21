@@ -40,7 +40,7 @@ Sanctuary)                            |      (MFP livelihood)
    ALIENATION                               |
    (transfer to                             v
     non-tribals)                    PESA (welfare angle)
-        |                           Gram Sabha consent,
+        |                           Gram Sabha consultation,
         v                           MFP ownership,
    State tenancy/                   money-lending
    land-transfer laws               regulation
@@ -58,11 +58,11 @@ integration or cultural autonomy).
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **FRA, 2006** | The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, recognising individual forest rights (habitation, self-cultivation title), community rights (MFP collection, grazing, traditional/customary rights) and community forest resource rights (protection/management of traditionally protected forests). |
-| ✅ **Individual forest rights (FRA)** | Rights to hold and live in forest land under individual or family occupation for habitation or self-cultivation, with a title not exceeding 4 hectares per nuclear family. |
+| ✅ **Individual forest rights (FRA)** | Rights to hold and live in forest land under individual or family occupation for habitation or self-cultivation. The title is limited to the area actually under occupation (ceiling 4 hectares per nuclear family), is heritable but not transferable/alienable. |
 | ✅ **Community rights (FRA)** | Rights including ownership of minor forest produce (MFP), community grazing, access to biodiversity, traditional rights to fish/water bodies, and customary rights. |
 | ✅ **Community forest resource rights (FRA)** | The right of a Gram Sabha to protect, regenerate, conserve and manage community forest resources which they have traditionally protected — the most empowering but under-recognised category. |
 | ✅ **PVTG** | Particularly Vulnerable Tribal Group — a sub-category of STs identified using criteria: pre-agricultural technology level, low literacy, declining or stagnant population, economic backwardness. 75 PVTG communities are officially identified across India. |
-| ✅ **PM-JANMAN** | Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (launched 2023-24) — a PVTG-focused saturation mission covering housing (PMAY-G convergence), road/electricity/water connectivity, health (mobile medical units), education (hostels, EMRS). |
+| ✅ **PM-JANMAN** | Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan, launched on 15 November 2023 — a PVTG-focused convergence mission for the 75 identified PVTG communities across 18 States/UTs, covering housing, water, sanitation, health, education, connectivity and livelihoods. |
 | ✅ **Van Dhan Yojana** | A TRIFED-led scheme establishing Van Dhan Vikas Kendras (VDVKs) at village level for MFP value-addition, aggregation and marketing; supports tribal livelihood through MFP-based enterprise. |
 | ✅ **EMRS** | Eklavya Model Residential Schools — dedicated tribal residential schools (one per block with specified ST population threshold) under Ministry of Tribal Affairs, providing quality education from Class VI to XII. |
 
@@ -77,7 +77,8 @@ integration or cultural autonomy).
    control over money-lending regulation; (d) managing village markets. Constitutional/
    Panchayati-Raj institutional detail is in `Polity/basic/Scheduled-and-Tribal-Areas.md`
    — here the focus is on the welfare/livelihood protection function.
-3. **PM-JANMAN (2023-24):** Saturation approach for 75 PVTG communities: (a) housing via
+3. **PM-JANMAN (15 Nov 2023):** Saturation approach for 75 PVTG communities across 18
+   States/UTs: (a) housing via
    PMAY-G convergence; (b) road/electricity/water infrastructure; (c) health services
    through mobile medical units and Anganwadi outreach; (d) education via EMRS and
    hostels.
@@ -95,8 +96,9 @@ integration or cultural autonomy).
 - ✅ **PESA, 1996 (welfare angle):** Gram Sabha's mandatory consultation before land
   acquisition, MFP ownership, money-lending control — do NOT re-teach the Panchayati-Raj
   institutional structure (cross-link Polity).
-- ✅ **PM-JANMAN (MoTA, 2023-24):** PVTG-focused saturation mission (housing, connectivity,
-  health, education).
+- ✅ **PM-JANMAN (MoTA, launched 15 Nov 2023):** PVTG-focused convergence mission for
+  75 identified communities across 18 States/UTs (housing, connectivity, health,
+  education and livelihoods).
 - ✅ **Van Dhan Yojana/TRIFED:** VDVKs for MFP value-addition; MSP-for-MFP; marketing
   support.
 - ✅ **EMRS (MoTA):** tribal residential schools; one per qualifying block.
@@ -127,8 +129,8 @@ integration or cultural autonomy).
   rights, and community forest resource rights.
 - ✅ 75 PVTG communities are officially identified across India based on pre-agricultural
   technology, low literacy, declining/stagnant population and economic backwardness.
-- ✅ PM-JANMAN (launched 2023-24) is the PVTG-focused saturation mission covering housing,
-  connectivity, health and education.
+- ✅ PM-JANMAN (launched 15 November 2023) is the PVTG-focused convergence mission for
+  75 identified communities across 18 States/UTs.
 - ✅ Van Dhan Vikas Kendras are village-level MFP processing/aggregation units under
   TRIFED.
 - ✅ EMRS norm: one school per block with ≥50% ST population and ≥20,000 ST persons (or
@@ -148,10 +150,10 @@ integration or cultural autonomy).
 
 ## 8. 📰 Current anchor
 
-- 📰 PM-JANMAN was launched in 2023-24 as a PVTG-focused saturation mission. No specific
-  beneficiary count is asserted here because portal data updates continuously; the
-  durable facts are: (a) 75 officially identified PVTG communities; (b) saturation of
-  housing, connectivity, health and education as the programme design.
+- 📰 **PM-JANMAN status (21 July 2026):** Launched on 15 November 2023, it is a
+  convergence mission for 75 PVTG communities in 18 States/UTs. Do not convert a
+  sanctioned-household/dashboard count into proof of completed service delivery; state
+  the component and reporting date.
 
 ## 9. PYQ application
 

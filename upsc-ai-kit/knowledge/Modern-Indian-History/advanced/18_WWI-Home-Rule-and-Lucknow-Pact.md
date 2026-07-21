@@ -33,7 +33,7 @@
 
 - ✅ The Lucknow Congress allowed the re-entry of Tilak and his followers, ending the damaging Moderate-Extremist split of Surat.
 - ✅ Congress and the Muslim League agreed on a joint constitutional scheme, with Congress accepting separate electorates and weightage for Muslims in certain provinces.
-- ⚠️ The Pact demonstrated tactical Hindu-Muslim unity against colonial rule, but it also strengthened the principle of political representation by religious community.
+- ⚠️ The Pact demonstrated tactical Congress-League unity against colonial rule, but it also strengthened representation by religious community. Its later effects are disputed: avoid a teleological claim that the 1916 bargain made Partition inevitable.
 - ✅ The Montagu Declaration followed wartime pressure and agitation; it promised increasing Indian association in administration and gradual responsible government, not immediate transfer of power.
 
 ## 2. Key classification / data

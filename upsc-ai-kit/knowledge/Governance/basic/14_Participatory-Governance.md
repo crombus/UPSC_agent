@@ -46,7 +46,7 @@ failure, not a resource or capacity failure alone.
 | ✅ **Subsidiarity** | The principle that decisions and problem-solving responsibility should be located as close as possible to the level (individual, community, local government) that holds the relevant information and will implement the decision, with higher levels intervening only where the lower level genuinely cannot act effectively. |
 | ⚠️ **Participation quality vs participation frequency** | Genuine participatory governance requires that Gram Sabha/Ward Committee meetings actually influence decisions (participation *quality*) — not merely that meetings are held on schedule (participation *frequency*), which can become a compliance formality without real decision-making effect. |
 | ✅ **Participatory budgeting** | A process allowing citizens to directly deliberate and decide on the allocation of a portion of public budget (commonly piloted at municipal/ward level in India, following global models like Porto Alegre, Brazil), rather than budgets being fixed solely by administrators/elected representatives without direct citizen input. |
-| ✅ **Pre-legislative consultation** | The Government of India's 2014 policy recommending that draft legislation be placed in the public domain with an explanatory note for a minimum comment period before introduction, allowing stakeholder and citizen input into law-making (see also `02` for its policy-design angle; here the focus is its participatory-governance function). |
+| ✅ **Pre-legislative consultation** | The Union's 2014 policy calls for draft legislation, explanatory material and ordinarily at least 30 days for comments, subject to stated exceptions. It is an executive policy, not a statute, and does not make comments binding. |
 | ✅ **MyGov** | A Government of India citizen-engagement platform enabling crowdsourcing of ideas, public discussion and citizen participation in policy-related initiatives and campaigns. |
 
 ## 3. Why participatory governance succeeds or fails (mechanism)
@@ -79,8 +79,8 @@ failure, not a resource or capacity failure alone.
   (composition/constitutional-mandate detail is Polity-owned; here the focus is
   participation *quality*).
 - ✅ **Ward Committees** — municipal-level participatory bodies intended to bring urban local
-  governance decision-making closer to residents (constitutional-mandate detail is
-  Polity-owned).
+  governance closer to residents; Article 243S specifically requires them in municipalities
+  with population of three lakh or more, with state law determining composition/details.
 - ✅ **Pre-Legislative Consultation Policy (2014)** — the Union government's stated policy for
   public consultation on draft legislation/rules before introduction.
 - ✅ **MyGov** — the citizen-engagement and crowdsourcing platform for policy ideas and public
@@ -131,7 +131,9 @@ failure, not a resource or capacity failure alone.
 
 ## 8. 📰 Current anchor
 
-- 📰 Subsidiarity, pre-legislative consultation (2014) and MyGov are fixed, durable features
+- 📰 **Status checked 21 July 2026:** subsidiarity is an analytical principle; the 2014
+  consultation policy and MyGov remain administrative participation channels, not
+  co-decision rights. No fixed current list of
   of India's participatory-governance architecture. No fixed current list of
   participatory-budgeting pilot cities/wards or of MyGov's active campaigns is asserted
   here, since specific pilots and campaigns change over time; the durable fact is that
@@ -160,6 +162,8 @@ failure, not a resource or capacity failure alone.
   centralisation or the appropriate level of decision-making.
 - ⚠️ Cross-link to `12`'s 3Fs framework when a question specifically concerns local-body
   decision-making capacity, to avoid duplicating that content here.
+- ⚠️ Demand a consultation feedback matrix: stakeholder category, issue raised, government
+  response, accepted/rejected reason, draft change and unresolved distributional effect.
 
 > **Answer thesis:** Genuine participatory governance requires locating decision-making
 > authority close to those who hold the relevant information and will execute the decision —

@@ -5,9 +5,9 @@
 > **Core area:** History of the Indian women's movement, women's organisations as a
 > sociological form (AIWC, NFIW, SEWA, SHGs), and the gender equality-equity-empowerment
 > trichotomy.
-> **Grounded in:** All India Women's Conference (1927); National Federation of Indian
-> Women; Self Employed Women's Association (SEWA); NFHS-6 (2023-24, released 29 May 2026);
-> audited 2024 GS-I Mains PYQ.
+> **Grounded in:** Women's Indian Association, All India Women's Conference (1927), National
+> Federation of Indian Women and Self Employed Women's Association (SEWA); NFHS-5 (2019-21,
+> latest released national round as checked 21 July 2026); audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/07_Women-and-Womens-Organisations.md`.*
 
@@ -31,39 +31,38 @@ child-marriage               NFIW)
 issues)
         |
         v
-GENDER TRICHOTOMY (2024 PYQ)
-EQUALITY (same rules) -> EQUITY (differentiated
-treatment) -> EMPOWERMENT (expanded agency, the outcome)
+GENDER ANALYTICAL TRIAD (2024 PYQ)
+EQUALITY (equal rights/status) + EQUITY (context-responsive
+measures) -> EMPOWERMENT (expanded agency; process and outcome)
 ```
 
-**Core proposition:** ⚠️ The Indian women's movement evolved through successive
-organisational waves — social-reform-era advocacy, nationalist-era formal organisations,
-post-Independence rights mobilisation, and contemporary SHG-based economic organisation —
-and the 2024 PYQ's equality-equity-empowerment trichotomy captures why programme design
-must move beyond formally equal rules to differentiated support if it is to produce
-genuine empowerment.
+**Core proposition:** ⚠️ Women's organising in India has included social reform, early
+national bodies, post-Independence rights mobilisation, labour organising and SHG
+federations; these streams overlap rather than replace one another. The 2024 PYQ requires a
+distinction between equality, equity and empowerment: equity can be a route to substantive
+equality, while empowerment concerns agency and cannot be inferred from formal entitlement
+or programme coverage alone.
 
 ## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **All India Women's Conference (AIWC), 1927** | India's earliest major national women's organisation, initially focused on women's education, later broadening to legal and social reform advocacy, including opposition to child marriage and support for the Hindu Code Bill reforms. |
-| ✅ **National Federation of Indian Women (NFIW)** | A post-Independence-era women's organisation associated with the broader left political movement, focused on women's rights, wages and anti-dowry mobilisation. |
-| ✅ **Self Employed Women's Association (SEWA)** | A trade union and cooperative movement of self-employed and informal-sector women workers, founded in Gujarat, organising women around economic rights, credit access and collective bargaining. |
+| ✅ **All India Women's Conference (AIWC), 1927** | An influential pan-Indian women's organisation, initially focused on women's education and later on legal and social reform. It followed earlier bodies such as the Women's Indian Association, so do not call it the first women's organisation in India. |
+| ✅ **National Federation of Indian Women (NFIW)** | A post-Independence women's organisation associated with the broader left movement, focused on rights, wages and anti-dowry mobilisation. |
+| ✅ **Self Employed Women's Association (SEWA)** | A Gujarat-based trade union and cooperative movement of self-employed and informal-sector women workers, organising around economic rights, credit access and collective bargaining. |
 | ⚠️ **Self-Help Group (SHG) federation** | A grassroots women's organisational form built on small savings-and-credit groups that federate upward into larger bodies, generating social capital and economic agency (mechanism detailed in Governance, not here). |
-| ✅ **Gender equality** | Same legal treatment, rights and opportunities regardless of gender; outcome-neutral rules applied uniformly. |
-| ✅ **Gender equity** | Differentiated treatment that compensates for structural disadvantage to achieve fair outcomes; recognises unequal starting conditions. |
-| ✅ **Women's empowerment** | The expansion of women's agency, capability and voice — the outcome when equality and equity instruments combine effectively. |
+| ✅ **Gender equality** | Equal rights, status and opportunity regardless of gender. It includes formal equality before law and the pursuit of substantive equality in lived outcomes. |
+| ✅ **Gender equity** | Context-responsive measures that address structural disadvantage and unequal starting conditions; it is a means toward fair, substantive equality, not a synonym for special privilege. |
+| ✅ **Women's empowerment** | The process and outcome of expanded agency, capability, resources and voice. Equality and equity can support it, but coverage or legal rights alone do not prove it. |
 
 ## 3. How the women's movement organised over time
 
 1. **Social-reform era (19th century):** ⚠️ male and female reformers raised issues such as
    sati, widow remarriage and child marriage, largely as elite-led advocacy rather than
    mass women's organisation.
-2. **Nationalist-era organisational consolidation:** ✅ the All India Women's Conference
-   (1927) marked the shift to a formal, sustained national women's organisation, initially
-   centred on girls' education and expanding into legal-reform advocacy alongside the
-   freedom movement.
+2. **Early national organisation:** ✅ bodies including the Women's Indian Association and
+   the All India Women's Conference (1927) created sustained platforms for education,
+   franchise and legal-reform advocacy; the history was not a single organisation's story.
 3. **Post-Independence rights-movement phase:** ✅ organisations such as the National
    Federation of Indian Women mobilised around legal equality, wage rights and anti-dowry
    campaigns, feeding into the reforms that shaped independent India's gender-related law.
@@ -117,11 +116,12 @@ genuine empowerment.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ The All India Women's Conference was founded in 1927, initially focused on women's
-  education.
+- ✅ The All India Women's Conference was founded in 1927 and initially focused on women's
+  education; it followed earlier organisations such as the Women's Indian Association.
 - ✅ SEWA was founded in Gujarat as a trade union of self-employed women workers.
-- ✅ NFHS-6 (2023-24), released 29 May 2026, reported 89.0% of women owning and using a
-  bank or savings account, and 64.3% having ever used the internet.
+- ✅ NFHS-5 (2019-21) reported that 78.6% of women aged 15-49 had a bank/savings account they
+  themselves used and 33.3% had ever used the internet. These are dated access indicators,
+  not measures of agency or control.
 - ✅ The equality-equity-empowerment trichotomy is the exact structuring device tested by
   the 2024 GS-I PYQ.
 - ⚠️ SHG federations are the most widespread contemporary women's organisational form in
@@ -129,10 +129,10 @@ genuine empowerment.
 
 ## 7. UPSC traps
 
-- ❌ Gender equality, equity and empowerment are interchangeable terms. -> They are
-  sequential and distinct: equality is the rule, equity is the compensating instrument,
-  empowerment is the resulting agency outcome — treating them as synonyms misses the 2024
-  PYQ's core testing point.
+- ❌ Gender equality, equity and empowerment are interchangeable terms. -> Equality concerns
+  rights/status, equity concerns context-responsive means, and empowerment concerns agency.
+  They are related but not a mechanical one-way sequence — treating them as synonyms misses
+  the 2024 PYQ's core testing point.
 - ❌ The Indian women's movement has always spoken with one unified voice and agenda. ->
   Dalit, tribal and class-based women's organisations have historically raised distinct
   concerns not always centred by upper-caste, urban-led organisations.
@@ -146,10 +146,10 @@ genuine empowerment.
 
 ## 8. 📰 Current anchor
 
-- 📰 NFHS-6 (2023-24), officially released on 29 May 2026, reported that 89.0% of women
-  owned and used a bank or savings account and 64.3% had ever used the internet — dated
-  empowerment-access indicators, not proof of equal control over assets, income or
-  decision-making.
+- 📰 NFHS-5 (2019-21), the latest released national NFHS round as checked on 21 July 2026,
+  reported 78.6% of women aged 15-49 with a bank/savings account they themselves used and
+  33.3% ever using the internet. These are dated access indicators, not proof of control over
+  assets, income or decision-making.
 
 ## 9. PYQ application
 
@@ -160,19 +160,18 @@ genuine empowerment.
 
 ## 10. Mains angles
 
-- ⚠️ Always sequence the trichotomy as equality -> equity -> empowerment, not as
-  interchangeable synonyms.
-- ⚠️ Use AIWC, NFIW, SEWA and SHG federations as the four organisational-form anchors for
-  any women's-movement history question.
+- ⚠️ Define equality, equity and empowerment separately; explain their interaction rather
+  than presenting a mechanical sequence.
+- ⚠️ Use early bodies (including WIA and AIWC), NFIW, SEWA and SHG federations to show that
+  women's organising has several overlapping forms.
 - ⚠️ Keep DV Act/POSH/Mission Shakti legal-scheme detail cross-linked to Social-Justice, not
   restated here.
 
-> **Answer thesis:** The Indian women's movement progressed through social-reform,
-> nationalist, post-Independence rights and contemporary economic-organisational waves, each
-> pushing policy incrementally from formal equality toward differentiated equity and,
-> ultimately, substantive empowerment; the 2024 PYQ's trichotomy is the analytical
-> distillation of this organisational history and the correct frame for judging any current
-> programme's design.
+> **Answer thesis:** Indian women's organising spans overlapping reform, national,
+> rights-based, labour and SHG forms. The 2024 PYQ should distinguish equal rights/status,
+> context-responsive equity and agency-centred empowerment, then test whether a programme
+> actually reaches women with different caste, class, location and care constraints rather
+> than assuming formal coverage produces empowerment.
 
 ## 11. Probable questions
 

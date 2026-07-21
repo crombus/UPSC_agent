@@ -1,7 +1,7 @@
 # Parliament (Articles 79–122) + Parliamentary Committees & Forums — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 22–23 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 22–23 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Parliament.md`.*
 
@@ -96,7 +96,7 @@ President has a **suspensive veto** on ordinary bills.
 |---|---|---|
 | Introduce | ✅ **Only in LS**, on President's recommendation, by a minister | Either House |
 | RS power | ✅ Cannot reject/amend; only recommends; must return in **14 days** | Equal powers |
-| Speaker's certificate | ✅ Required, **final** | No |
+| Speaker's certificate | ✅ Required; Art 110 calls it **final**, subject to narrow constitutional judicial review for illegality/misuse | No |
 | Joint sitting | ✅ **No provision** | Yes (Art 108) |
 | President | ✅ Assent or withhold — **cannot return** | Can return once |
 
@@ -136,10 +136,12 @@ committees, chaired by minister).
 - ❌ Joint sitting for a money bill / constitution amendment → only for **ordinary bills** (Art 108).
 
 ## 📰 CA hooks
-- 📰 ✅ **Women's Reservation — Nari Shakti Vandan Adhiniyam (106th Amdt, 2023)**: provides 33% seats for
-  women in LS + State Assemblies (including within SC/ST-reserved seats). Section 1(2) requires a separate
-  commencement notification; none was located as of **19 July 2026**. Operationalisation then depends on
-  the constitutionally specified post-commencement census and delimitation sequence.
+- 📰 ✅ **Women's Reservation — Nari Shakti Vandan Adhiniyam (106th Amdt, 2023)**:
+  inserts Arts 330A, 332A and 334A and provides 33% reservation in the covered legislatures
+  (including within SC/ST-reserved seats). Operational reservation follows the separately
+  notified commencement, publication of the relevant first post-commencement census figures,
+  delimitation and the Art 334A sequence. **Status checked 21 Jul 2026:** no operational
+  commencement notification was located on the Legislative Department portal.
 - 📰 ⚠️ **Post-2026 census and delimitation** — Articles 82/170 defer readjustment until the relevant
   figures of the first census taken after 2026 are published; the resulting North-South seat-share debate
   is the live federal issue, not an automatic expiry in 2026.

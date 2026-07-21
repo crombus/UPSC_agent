@@ -33,8 +33,8 @@ equilibrium)                   contradiction/struggle)
                         |
                         v
         SECULARISATION (social process:
-        declining religious authority in economic/
-        political life) - NOT secularism (doctrine)
+        institutional differentiation; not necessarily
+        declining belief) - NOT secularism (doctrine)
 ```
 
 **Analytical claim:** ⚠️ A sophisticated answer on Indian social change must hold three
@@ -52,7 +52,7 @@ culture does not simply flow downward onto folk culture unchanged.
 | ✅ **Structural-functionalism vs conflict theory applied to the same episode** | The abolition of untouchability practices in a village could be read functionally (the system adapting to reduce disruptive tension and restore cohesion) or through conflict theory (the outcome of sustained lower-caste mobilisation against entrenched upper-caste interests) — the same empirical change supports both readings, and a sophisticated answer states which mechanism the evidence better supports rather than asserting only one theory applies universally. |
 | ✅ **Sanskritisation vs Modernisation as distinct axes** | Sanskritisation changes a group's *position* within an unchanged hierarchical logic; Modernisation changes the *structure* itself (bureaucratic-rational institutions, technology, differentiated occupational roles) — a group can modernise structurally (adopt formal education, salaried employment) without Sanskritising ritually, and vice versa, so the two must not be treated as points on a single scale. |
 | ⚠️ **Universalisation vs parochialisation as a two-way exchange, not elite imposition** | A purely elite-imposition model would predict only downward (Great to Little Tradition) cultural flow; universalisation demonstrates the opposite direction is equally real — local deities, festivals and practices have historically been absorbed upward into pan-Indian textual recognition, making Indian cultural change a genuine two-way exchange, not one-directional diffusion. |
-| ✅ **Secularisation (social process) vs secularism (doctrine) vs desacralisation** | Secularisation describes religious authority's declining grip on economic/political/social institutions as a society modernises; secularism is the constitutional-political doctrine of state neutrality toward religion (Polity's territory); desacralisation (a related but distinct concept) describes the declining sense of the sacred in specific practices or spaces themselves — the three operate at institutional, legal-political and experiential-symbolic levels respectively and should not be merged into one term. |
+| ✅ **Secularisation (social process) vs secularism (doctrine) vs desacralisation** | Secularisation describes differentiation of religious authority from economic/political/social institutions, which can coexist with resilient or revived religious identity; secularism is the constitutional-political doctrine of state neutrality toward religion; desacralisation describes declining sense of the sacred in particular practices or spaces. The three operate at institutional, legal-political and experiential-symbolic levels. |
 | ⚠️ **Evolutionary theory vs diffusionist explanation of change** | Evolutionary theory (unilinear stages of progress) explains change as internally generated development; diffusionist explanation attributes change to the spread of practices, technology or ideas from one society/region to another (relevant to explaining, for instance, how Western-origin institutions entered Indian society) — modern sociology generally favours multi-linear, context-specific accounts over either pure theory alone. |
 
 ## 3. Detailed causal chain
@@ -81,12 +81,12 @@ culture does not simply flow downward onto folk culture unchanged.
    uniform pan-Indian culture or wholly separate local traditions.
 
 ### Secularisation chain
-1. Expansion of state education, salaried employment and formal legal institutions reduces
-   the domains in which religious authority directly governs economic and civic life
-   (contract enforcement, schooling curriculum, workplace rules).
+1. Expansion of state education, salaried employment and formal legal institutions can
+   differentiate contract enforcement, schooling and workplace rules from direct religious
+   authority.
 2. ⚠️ Religious identity and practice can remain, or even intensify, in personal and
-   communal life even as this institutional secularisation proceeds — the two are not
-   mutually exclusive.
+   communal life while such institutional differentiation proceeds; neither direction is
+   automatic or uniform.
 3. ⚠️ This sociological secularisation process interacts with, but is analytically distinct
    from, the constitutional secularism doctrine that governs state-religion relations
    (Topic 15/Polity) — a frequent point of confusion in Mains answers.
@@ -138,8 +138,8 @@ culture does not simply flow downward onto folk culture unchanged.
   community.
 - ✅ Universalisation and parochialisation are bidirectional processes linking Great and
   Little Traditions, developed by McKim Marriott building on Robert Redfield's framework.
-- ⚠️ Secularisation (sociological process), secularism (constitutional doctrine) and
-  desacralisation (experiential-symbolic decline of the sacred) are three analytically
+- ⚠️ Secularisation (institutional differentiation), secularism (constitutional doctrine)
+  and desacralisation (experiential-symbolic decline of the sacred) are three analytically
   distinct concepts.
 - ⚠️ Status inconsistency (differential pace across change axes) is a recognised source of
   ongoing, not resolved, social tension.
@@ -159,8 +159,8 @@ culture does not simply flow downward onto folk culture unchanged.
   direction of cultural flow. -> They describe opposite directions — universalisation is
   local-to-pan-Indian, parochialisation is pan-Indian-to-local.
 - ❌ Secularisation, secularism and desacralisation are interchangeable terms. -> They
-  operate at institutional, legal-political and experiential-symbolic levels respectively
-  and must be kept analytically distinct.
+  operate at institutional, legal-political and experiential-symbolic levels respectively;
+  secularisation does not necessarily imply declining personal belief.
 
 ## 9. 📰 Current-anchor note
 

@@ -28,6 +28,7 @@
 - ✅ Firuz's reforms appeased nobles and soldiers but weakened the central machinery; after his death, nobles, rajas and Firuzi slaves intervened in succession politics.
 - ✅ By the late Tughlaq phase, the sultan's real authority had shrunk sharply; the famous joke said the "Lord of the Universe" ruled only from Delhi to Palam.
 - ✅ Timur's 1398 raid drained wealth and artisans, sacked Delhi brutally, and marked the end of strong rule by the Delhi sultans, though the Tughlaqs lingered.
+- ✅ The political result was regionalisation, not a civilisational void: Jaunpur, Bengal, Gujarat, Malwa, Mewar and other centres carried forward state formation and cultural patronage.
 
 **Foundation — Sayyids to Lodis: weak recovery, Afghan phase.**
 
@@ -76,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Lodhi Garden monument conservation concern (The Tribune, 4 July 2026):** Reports flagged vegetation growing from cracks in Lodi-era monuments such as Muhammad Shah's tomb, linking late-Sultanate architecture with present-day heritage maintenance.
+📰 **Current linkage (verify live before use):** Conservation of Sayyid-Lodi monuments in Delhi can connect the late Sultanate with urban heritage management. Check ASI or the responsible civic authority before citing a specific damage or restoration report.
 
 ## 7. Mains angles
 

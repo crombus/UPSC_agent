@@ -11,7 +11,7 @@
 
 | Date | Event |
 |---|---|
-| ✅ 1564 | Akbar abolished **jizyah** on non-Muslims; he also abolished pilgrim tax at holy places |
+| ✅ 1563–64 | Pilgrim tax remitted in 1563; **jizyah** abolished in 1564 |
 | ✅ 1575 | Akbar built the **Ibadat Khana** at Fatehpur Sikri |
 | ✅ c. 1578 | Ibadat Khana debates opened beyond Muslim scholars to Hindus, Jains, Christians, Zoroastrians and others |
 | ✅ 1579 | Akbar issued the **mahzar** on choosing among conflicting legal interpretations |
@@ -22,7 +22,7 @@
 
 **Foundation — Akbar's religious policy was state-building, not merely curiosity.**
 
-✅ Akbar's religious evolution began with practical reforms: he abolished **jizyah**, pilgrim tax, and forced conversion of prisoners of war, laying the basis of an empire with equal rights for subjects irrespective of belief.
+✅ Akbar's religious evolution began with practical reforms: he abolished **pilgrim tax** and **jizyah** and prohibited enslavement of the families of defeated rebels, reducing formal religious discrimination within an otherwise hierarchical empire.
 - ✅ Abul Fazl linked Akbar's kingship with **paternal love**, justice, and avoidance of sectarian strife; this became the policy of **sulh-i-kul** or "peace to all".
 - ✅ Akbar drew able Hindus into the nobility, including **Todar Mal** in revenue administration and **Birbal** as a close companion.
 - ⚠️ The core UPSC idea: religious tolerance helped convert a conquering dynasty into an **all-India political system**.
@@ -33,7 +33,7 @@
 - ✅ The early Muslim-only debates became disorderly: the mullahs argued, abused each other, and alienated Akbar.
 - ✅ Akbar then opened the debates to Christians, Zoroastrians, Hindus, Jains and even atheists; this widened debate but increased controversy and rumours.
 - ✅ By **1582**, Akbar discontinued the debates because they produced bitterness rather than inter-religious understanding.
-- ✅ Satish Chandra stresses that **Tauhid-i-Ilahi / Din-i-Ilahi** had no scripture, priesthood, place of worship or compulsory ritual beyond initiation; it should not be treated as a full new religion.
+- ✅ Satish Chandra stresses that **Tauhid-i-Ilahi / Din-i-Ilahi** had no separate scripture, priesthood or congregational place of worship; limited initiation and discipleship practices did exist, so it should not be treated either as a mass religion or as having no practices at all.
 
 ## 2. Key classification / data
 
@@ -56,7 +56,7 @@
 - ✅ **Ibadat Khana** was built at **Fatehpur Sikri** in **1575**.
 - ✅ Debates were first limited to Muslims, later opened to multiple religions and even atheists.
 - ✅ **1582**: Akbar discontinued Ibadat Khana debates.
-- ✅ **Tauhid-i-Ilahi / Din-i-Ilahi** had no scripture, no priesthood, no public temple/church/mosque, and no coercive mass conversion.
+- ✅ **Tauhid-i-Ilahi / Din-i-Ilahi** had no separate scripture, priesthood or public congregational institution, and no coercive mass conversion.
 - ✅ **Birbal** was the only major Hindu noble known to have joined Akbar's close devotional group.
 - ✅ Akbar's broad policy is summed up as **sulh-i-kul**.
 
@@ -71,11 +71,10 @@
 
 ## 6. 📰 Current link
 
-📰 **Fatehpur Sikri heritage conservation/accessibility (2025):** recent heritage reporting notes ASI stewardship and improved visitor accessibility at Fatehpur Sikri, including the Ibadat Khana complex. **Relevance:** links Akbar's interfaith statecraft with modern heritage protection and inclusive tourism.
+📰 **Current linkage (verify live before use):** Fatehpur Sikri conservation can connect Ibadat Khana with heritage interpretation. Verify the identification, accessibility and current status of specific remains from ASI.
 
 ## 7. Mains angles
 
 - ⚠️ Akbar's religious policy was a tool of **political integration** as much as a matter of personal belief.
 - ⚠️ Ibadat Khana shows the limits of debate without institutional tolerance; sulh-i-kul was the more durable policy outcome.
 - ⚠️ Use Akbar to discuss medieval Indian traditions of pluralism and the administrative logic of inclusive governance.
-

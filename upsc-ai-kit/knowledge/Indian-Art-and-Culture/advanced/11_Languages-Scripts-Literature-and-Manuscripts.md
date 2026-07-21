@@ -5,7 +5,10 @@
 > textual criticism; inscription-versus-manuscript evidentiary
 > distinction; cultural circulation of texts.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 580-585, 618-621; `00_Master-Framework.md` Sections 4-5; audited UPSC
+> 580-721; R.S. Sharma, *India's Ancient Past*, PDF pp. 211-223, 234-258;
+> Satish Chandra, *History of Medieval India*, PDF pp. 332-334; Satish
+> Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp. 392-395;
+> `00_Master-Framework.md` Sections 4-5; audited UPSC
 > Mains 2024 GS Paper I.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/11_Languages-Scripts-Literature-and-Manuscripts.md`.*
@@ -35,6 +38,7 @@ centuries removed from its actual ancient composition.
 | ⚠️ **Language as social marker (on-stage convention)** | The Sanskrit/Prakrit character-speech convention in classical drama is a *textual* record of a *social* hierarchy — elite/Brahmanical characters coded through elite language, subordinate characters (women, Shudras) coded through vernacular language — usable as direct evidence in any question on language and social stratification. |
 | ✅ **Composition-date vs. inscription-date distinction** | A manuscript's actual age (e.g. the Rigveda's ancient composition) is analytically distinct from its UNESCO Memory of the World *inscription* year (2007 for the Rigveda) — the inscription date marks international documentary-heritage recognition, not the text's age (*Nitin…pdf*, PDF p. 621). |
 | ⚠️ **Manuscript ecology** | The range of Memory of the World entries — from religious/philosophical texts (Bhagavad Gita, Natyashastra, Rigveda) to secular/administrative archives (Dutch East India Company records) and even folk-performance documentation (Saang Lok Collection) — shows India's documentary heritage spans religious, aesthetic, administrative and folk-performance registers simultaneously, not a single "ancient scripture" category. |
+| ⚠️ **Text-layer discipline** | Oral formation, composition, redaction, earliest surviving manuscript, modern critical edition and UNESCO inscription are different dates. An epic or Sangam work rarely has one uncontested "publication year." |
 
 ## 3. Comparative framework
 
@@ -72,6 +76,15 @@ advanced answer should name at least two different registers to
 demonstrate this range rather than listing only well-known religious
 texts.
 
+✅ R.S. Sharma treats Sangam texts as powerful but bounded evidence:
+compiled c. CE 300-600 with earlier layers, they illuminate towns, trade,
+crafts, war, social ranking and hero-stone culture, but do not provide a
+coherent dynastic chronicle. Satish Chandra similarly shows medieval
+Persian, Sanskrit and regional languages interacting through translation,
+Bhakti, court patronage and bilingual authors. "Vernacular rise" therefore
+means expanded literary publics, not the disappearance of Sanskrit or
+Persian.
+
 ## 5. Visual synthesis table
 
 ```text
@@ -94,11 +107,11 @@ list with inscription years).
 
 ## 7. 📰 Dated official anchor
 
-- 📰 India's Memory of the World Register count (14 entries per the
-  book's own account, most recently including the Bhagavad Gita and
-  Natyashastra, both 2025) should be re-verified against UNESCO's own
+- 📰 UNESCO/UN India confirm 14 Indian International Register inscriptions,
+  most recently including the Bhagavadgita and Natyashastra manuscripts
+  (2025); the count should be re-verified against UNESCO's own
   register page before being cited as the exact current count beyond
-  this file's research cutoff (18 July 2026), since new nominations are
+  this file's research cutoff (21 July 2026), since new nominations are
   reviewed periodically.
 
 ## 8. Exact PYQ application
@@ -122,6 +135,12 @@ a text's rediscovery date as its composition date.
   this specifically for Gupta-period plays; do not generalise it
   unqualified to all Indian theatre across all eras (cross-reference
   topic 10 for theatre's own historical development).
+- ❌ Giving a single exact date to a layered oral/textual corpus. ->
+  Distinguish composition strata, compilation/redaction and surviving
+  manuscripts.
+- ❌ Describing regional-language growth as a zero-sum victory over
+  Sanskrit/Persian. -> Satish Chandra documents coexistence, translation
+  and mutual influence.
 - ❌ Treating India's Memory of the World entries as exclusively religious
   texts. -> The list includes colonial administrative archives and
   folk-performance documentation alongside religious/philosophical texts.
@@ -171,7 +190,7 @@ inscription year).
 - ✅ Verified against *Nitin…pdf*, PDF p. 584 and PDF pp. 619-621 directly,
   cross-checked against external web-search confirmation of the Bhagavad
   Gita/Natyashastra 2025 additions and the 14-entry count (accessed via
-  web search, 18 July 2026).
+  official-source search, 21 July 2026).
 - ⚠️ Open caution: the exact current Memory of the World entry count
   should be re-verified against UNESCO's own register page before being
   cited as unconditionally current beyond this file's research cutoff.

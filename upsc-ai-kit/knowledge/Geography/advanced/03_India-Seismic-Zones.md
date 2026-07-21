@@ -17,16 +17,17 @@
 - ✅ The Indo-Gangetic basin is high-risk because thick alluvium amplifies shaking; Kutch (Rann) is an intraplate high-risk pocket (2001 Bhuj quake).
 - ✅ The Peninsular shield is presumably a stable landmass with few quakes — but Latur (1993) and Koyna (reservoir-induced) are notable exceptions.
 - ✅ Liquefaction: during strong quakes, loose water-saturated uniform sands lose strength and behave like a liquid — buildings sink or tilt (severe in Bhuj 2001).
-- ✅ Intensity in India is mapped on the MSK scale (damage felt), while magnitude uses the Richter scale.
+- ✅ BIS zonation is based on expected intensity/damage and design ground motion. Earthquake size is now
+  commonly reported as **moment magnitude (Mw)**; “Richter” is a popular but imprecise generic label.
 
 ## 2. Key classification / data
 
 | BIS zone | Risk / MSK intensity | Representative areas |
 |---|---|---|
-| ✅ Zone V | Very high damage risk; MSK IX and above | NE India, Kashmir/Himachal/Uttarakhand Himalaya, Kutch, Andaman & Nicobar |
-| ✅ Zone IV | High damage risk; MSK VIII | Delhi-NCR, remaining Himalayan foothills, Indo-Gangetic belt |
-| ✅ Zone III | Moderate damage risk; MSK VII | Parts of the Peninsula, Gujarat, west coast |
-| ✅ Zone II | Low damage risk; MSK VI | Stable interior Peninsula |
+| ✅ Zone V | Very high damage risk; MSK IX and above | Parts of the Himalayan/NE belt, Rann of Kachchh and Andaman-Nicobar |
+| ✅ Zone IV | High damage risk; MSK VIII | Delhi and extensive Himalayan/foothill and adjoining plain sectors |
+| ✅ Zone III | Moderate damage risk; MSK VII | Large parts of peninsular and coastal India |
+| ✅ Zone II | Low damage risk; MSK VI or lower | Remaining comparatively stable areas |
 | ✅ Himalayan zone | Fold-mountain collision belt | Earthquakes primarily due to Indian Plate pushing N/NE at ~5 cm/yr |
 | ✅ Indo-Gangetic zone | Moderate to high foothill earthquakes; high population density | More harmful because of population concentration and alluvial amplification |
 | ✅ Peninsular zone | Relatively stable | Exceptions include Latur and Koyna; not aseismic |
@@ -36,17 +37,21 @@
 > ✅ Grounded in D.R. Khullar, *India: A Comprehensive Geography* (Tsunami Warning System in India) + ⚠️ standard facts.
 
 - ✅ On **26 December 2004** a great **Sumatra subduction earthquake** sent tsunamis across the Indian Ocean; ✅ Khullar notes the wave **took about three hours** to reach the Indian coast, yet **India and Indian-Ocean rim countries had no warning system**, so thousands died and property worth billions was lost.
-- ⚠️ Worst-hit in India: **Tamil Nadu (Nagapattinam), Andhra Pradesh, Kerala and the Andaman & Nicobar Islands**; ~2.3 lakh deaths basin-wide — one of the deadliest disasters on record.
+- ⚠️ India's heaviest losses occurred in the Andaman-Nicobar Islands and on the Tamil Nadu coast, with
+  impacts also in Andhra Pradesh, Kerala and Puducherry. Avoid an undated basin-wide fatality estimate
+  when the analytical focus is formation, warning and vulnerability.
 - ✅ **India's response:** built its **own tsunami warning system (~₹125 crore)** — chosen over joining the Pacific system — **inaugurated 15 October 2007**. ✅ It is a **real-time network of seismic stations, Bottom Pressure Recorders (BPR) and tide gauges** monitoring undersea earthquakes and the tsunamis they trigger.
 - ⚠️ Run by **INCOIS, Hyderabad** as the **Indian Tsunami Early Warning Centre (ITEWC)** — also a UNESCO/IOC **Regional Tsunami Service Provider** for the Indian Ocean.
-- ✅ **Khullar's safety rules:** a **perceptible rapid rise or fall of coastal water** is a forewarning; **coastal areas < 8 m above sea level** are at greatest risk and must be **evacuated immediately**.
+- ✅ Natural warning signs include strong or long coastal shaking, an unusual roar, or rapid sea-level
+  change. Evacuate to officially identified high ground/inland routes; a single elevation cut-off is not
+  a universal safety rule because run-up varies with bathymetry and coastal form.
 
 | Element | Fact |
 |---|---|
 | ✅ Trigger event | 26 Dec 2004 Sumatra (Sunda Trench) megathrust quake |
 | ✅ Indian warning system | INCOIS/ITEWC, Hyderabad; inaugurated 15 Oct 2007; ~₹125 cr |
 | ✅ Sensors | Seismic stations + Bottom Pressure Recorders (BPR) + tide gauges |
-| ⚠️ High-risk zone | Coasts < 8 m elevation; A&N, TN, AP, Kerala |
+| ⚠️ High-risk setting | Low-lying, gently sloping or funnel-shaped coasts near tsunamigenic sources |
 
 > 🔑 Trap: India's tsunami warning centre is **INCOIS/ITEWC at Hyderabad** (not a coastal city); India built its **own** system rather than joining the **Pacific** Tsunami Warning System.
 
@@ -79,7 +84,9 @@
 
 
 **Advanced — India's Earthquake Zones, Plate Collision & Liquefaction (D.R. Khullar).**
-📰 India's seismic risk is set by the ongoing northward push of the Indian Plate (~5 cm/yr) into Eurasia; the National Center for Seismology maps quakes against the BIS seismic-zone map (Zone II–V), with the Himalaya, NE India and Kutch in the highest-risk Zone V.
+📰 **BIS seismic-zonation and code-compliance anchor:** India's current public seismic map uses Zones
+II–V; no official Zone VI is assumed here. The advanced issue is converting zonation into microzonation,
+ductile design, retrofitting and land-use control—not merely reporting each felt tremor.
 
 ## 7. Mains angles
 

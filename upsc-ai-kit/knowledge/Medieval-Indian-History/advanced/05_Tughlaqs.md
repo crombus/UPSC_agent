@@ -11,7 +11,7 @@
 
 | Date | Event |
 |---|---|
-| ✅ 1320–24 | Ghiyasuddin Tughlaq stresses moderation, cultivation and administrative recovery |
+| ✅ 1320–25 | Ghiyasuddin Tughlaq stresses moderation, cultivation and administrative recovery |
 | ✅ 1325–51 | Muhammad bin Tughlaq tries to centralise and standardise an all-India state |
 | ✅ 1328–29 | Pressure on officials, Sufis and leading groups to move to Daulatabad |
 | ✅ 1329–33 | Token currency experiment; copper/brass coins at par with silver/gold, later withdrawn |
@@ -28,7 +28,7 @@
 - ✅ The **exodus to Deogiri/Daulatabad** was not a total emptying of Delhi. It mainly involved the royal household, nobles, officials, Sufis, ulema, merchants and artisans; Delhi continued to mint coins and remained populated.
 - ✅ Daulatabad was chosen because it was central to the empire and useful for southern control; the scheme failed after Mabar, Warangal and the south broke away, but it helped Daulatabad become a Deccan centre of Islamic learning.
 - ✅ The **Khurasan project** and large recruited army were tied to frontier strategy after Mongol weakness, not necessarily a world-conquest fantasy; the **Qarachil** expedition was aimed at the Himalayan region, not China.
-- ✅ The token currency experiment was intellectually ahead of its time and could have expanded trade during a silver shortage, but failed because the state could not distinguish and suppress forged coins.
+- ✅ Token currency had precedents outside India and could have enlarged the money supply, but failed because the state neither monopolised minting effectively nor created a reliable verification-and-redemption system; a silver shortage is a possible context, not a sufficient explanation.
 - ✅ His doab policy used standard yields and official prices rather than actual produce/prices; coupled with harsh officials and famine, this produced an agrarian uprising.
 
 **Deeper — Firuz: benevolence, conciliation and administrative contradiction.**
@@ -81,7 +81,7 @@
 
 ## 6. 📰 Current link
 
-📰 **MCD heritage walk at Firoz Shah Kotla (ThePrint/PTI, 19 June 2026; walk on 22 June 2026):** The civic heritage walk highlights Firuz Shah's built legacy, including the Kotla and Ashokan pillar, as an active site of public-history outreach.
+📰 **Current linkage (verify live before use):** Firoz Shah Kotla and its transported Ashokan pillar connect Tughlaq public works with present heritage interpretation. Verify any walk, restoration or access claim before use.
 
 ## 7. Mains angles
 

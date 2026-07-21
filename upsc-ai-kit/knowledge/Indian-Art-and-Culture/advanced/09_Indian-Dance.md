@@ -33,7 +33,7 @@ text.
 
 | Term | Precise meaning |
 |---|---|
-| ⚠️ **Revival narrative vs. continuous-practice narrative** | Bharatanatyam's standard account (temple devadasi tradition -> decline -> revival by E. Krishna Iyer and Rukmini Devi Arundale, *Nitin…pdf*, PDF p. 462) is a **revival** narrative — the form nearly vanished before being deliberately reconstructed and given global visibility — analytically distinct from a **continuous-practice** narrative where a form's practice was never significantly disrupted; conflating the two risks presenting a form's entire history as a single unbroken line when a revival event is documented. |
+| ⚠️ **Revival/reconfiguration vs. unchanged continuity** | Modern Bharatanatyam emerged through Sadir repertories, hereditary practitioners, anti-nautch disruption and selective twentieth-century reconstruction by multiple actors. "Revival" should not erase the communities whose knowledge made reconstruction possible. |
 | ✅ **Shared root-text vocabulary** | Because the Natya Shastra explicitly names dance as a "complete art" uniting "music, sculpture, poetry and drama" (*Nitin…pdf*, PDF p. 458), the same mudra and rasa vocabulary this topic defines for dance is directly applicable to reading temple sculpture (topic 06) — this is not an analogy imposed externally but a connection the source text itself makes. |
 | ⚠️ **Institutional-recognition timeline** | The SNA's identification of exactly eight classical forms is itself a 20th-century institutional act (developed fully in topic 14); a dance form's much longer social/regional history should not be assumed to date only from its SNA recognition. |
 
@@ -42,7 +42,7 @@ text.
 | Dimension | Bharatanatyam (revival case) | Kuchipudi (community-origin case) | Analytical point |
 |---|---|---|---|
 | ✅ Origin association | Sadir/devadasi temple-dance tradition | Travelling actors (Kusselavas), Kuchelapuram village, associated with Siddhendra | Distinct social origins — temple-attached solo female performance vs. travelling troupe performance |
-| ✅ Disruption/revival | Nearly vanished with the devadasi system's decline; revived by E. Krishna Iyer, given global visibility by Rukmini Devi Arundale | Not documented in the book as having undergone a comparable near-extinction/revival event | Revival narratives should be argued only where the book/source explicitly documents disruption, not assumed universally |
+| ✅ Disruption/reconfiguration | Anti-nautch pressure and institutional change disrupted hereditary practice; E. Krishna Iyer, Rukmini Devi and hereditary teachers shaped modern staging | Not documented in the book as having undergone the same institutional reconfiguration | Compare specific histories; do not apply one revival template universally |
 | ✅ Institutional recognition | One of the SNA's eight classical forms | One of the SNA's eight classical forms | Both hold identical current institutional status despite different social histories |
 
 ## 4. Evidence, form and interpretation
@@ -56,11 +56,11 @@ twisting sculptural figure at Khajuraho or a Chola bronze Nataraja should
 be read using the *same* posture/gesture vocabulary this topic defines,
 not a separately invented "art-critical" vocabulary. ⚠️ Applying the
 revival-narrative caution (Section 2) to Bharatanatyam specifically: an
-advanced answer should name the devadasi-system decline and the specific
+advanced answer should name anti-nautch disruption, hereditary
+practitioners and the specific
 individuals (E. Krishna Iyer, Rukmini Devi Arundale) credited with
-revival, rather than presenting Bharatanatyam as an unbroken, continuously
-practised tradition from antiquity to the present — the book's own
-account documents a disruption-and-revival, not simple continuity.
+reconfiguration, rather than presenting either an unchanged ancient line
+or a rescue performed only by elite revivalists.
 
 ## 5. Visual synthesis table
 
@@ -111,6 +111,11 @@ itself unites the two arts.
   acknowledging the devadasi-system decline and 20th-century revival. ->
   The book documents a specific disruption-and-revival narrative that
   should be named explicitly.
+- ❌ Presenting revivalists as creating the form from nothing. -> They
+  reorganised and publicised repertoires transmitted by hereditary
+  performers and teachers; continuity and rupture must be held together.
+- ❌ Equating 108 karanas with 108 mudras. -> Karanas are whole-body
+  movement units; hasta lists are separate and text-specific.
 - ❌ Treating SNA's eight-classical-forms list as an ancient classification
   rather than a modern institutional recognition act. -> This is a
   20th-century institutional decision (developed in topic 14), layered

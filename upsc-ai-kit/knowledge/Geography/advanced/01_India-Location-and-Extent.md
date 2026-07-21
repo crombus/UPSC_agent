@@ -33,6 +33,16 @@ Standard Time (UTC+5:30)** at **82°30'E** for administrative uniformity.
 > 🔑 Trap: The **Tropic of Cancer** (not the Equator) passes through India; India has **one** time zone,
 > not multiple.
 
+### Map hooks
+
+| Line | West-to-east Indian states |
+|---|---|
+| ✅ Tropic of Cancer | Gujarat → Rajasthan → Madhya Pradesh → Chhattisgarh → Jharkhand → West Bengal → Tripura → Mizoram |
+| ✅ Standard Meridian (82°30'E) | Uttar Pradesh → Madhya Pradesh → Chhattisgarh → Odisha → Andhra Pradesh |
+
+> 🔑 Trap: The Tropic of Cancer crosses eight states; the Standard Meridian crosses a different
+> north-south set and is conventionally associated with Mirzapur, Uttar Pradesh.
+
 ## 3. Must-Know Facts (Prelims)
 
 - ✅ India: **8°4'N–37°6'N** and **68°7'E–97°25'E**.

@@ -74,6 +74,12 @@
 
 ⚠️ Strong answer line: **strategic bombing was morally contentious but, in Lowe's verdict, materially decisive once accuracy and targeting improved**.
 
+⚠️ The end of the Pacific War remains contested. The atomic bombings, Soviet declaration of war
+and invasion of Manchuria, blockade, conventional bombing and Japanese internal politics all
+belong in a balanced explanation; Lowe's discussion itself presents rival interpretations of
+whether the bombs were militarily necessary or also aimed at ending the war before Soviet gains
+expanded.
+
 ## 5. The Holocaust: how does Lowe frame the debate?
 
 ✅ Lowe explicitly sets out the intentionalist-versus-functionalist debate.
@@ -113,6 +119,7 @@
 - ✅ Allied bombing becomes analytically stronger after 1944 than before.
 - ✅ Holocaust interpretation in Lowe is explicitly historiographical.
 - ✅ The war directly feeds into the UN, decolonization and the Cold War.
+- ✅ Japan's surrender is a multi-causal historiographical problem, not an atomic-bombs-only fact.
 
 > 🔑 Trap: "Turning point" is not identical with "final victory." Battle of Britain checked Germany; Stalingrad shattered eastern momentum; D-Day accelerated the end; each matters differently.
 

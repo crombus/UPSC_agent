@@ -10,7 +10,7 @@
 | Nature | **Statutory** (not constitutional) |
 | Lokpal | **Chairperson + max 8 members** (50% judicial) |
 | Selection | PM + Speaker + LoP(LS) + CJI/SC judge + eminent jurist |
-| Lokayukta | State-level; appointed by **Governor** |
+| Lokayukta | State-level institution; design varies under each **state law** |
 | Ombudsman origin | **Sweden, 1809** |
 
 ## Core idea
@@ -20,15 +20,19 @@ exclusions), Ministers, MPs and all govt officials**, and can **direct the CBI**
 
 > 🔑 **Lokpal:** Chair + **8** members, **50% judicial**, **50%** SC/ST/OBC/min/women.
 > 🔑 Biggest weakness: **NO suo-motu power**; **no anonymous** complaints; **7-yr** limitation.
-> 🔑 Lokpal = **PM appoints panel**; Lokayukta = **Governor appoints**.
+> 🔑 Lokpal has a uniform central statute; **Lokayukta appointment, composition,
+> jurisdiction and tenure vary across state enactments**.
 
 ## Must-Know Facts
 - ✅ **10 bills** introduced (1968–2011) before the 2013 Act.
 - ✅ ARC kept the **judiciary outside** Lokpal; PM **included with safeguards**.
-- ✅ Lokayukta first in **Maharashtra (1971)**; Governor appoints (CJ of HC + LoP consulted); 5-yr/65 term.
+- ✅ Maharashtra was the first state to establish a Lokayukta (1971). Do not universalise
+  one state's selection panel, age limit or tenure to all Lokayuktas.
 - ✅ Lokpal has **superintendence over the CBI** for referred cases.
 
 ## 📰 Current link
-📰 **Justice A.M. Khanwilkar** = current Lokpal chair (since Mar 2024); first was **Justice P.C. Ghose (2019)**.
-📰 **2025:** Lokpal claimed jurisdiction over **High Court judges** → **Supreme Court stayed** the order (big
-accountability-vs-independence debate). Prosecution wing now operational.
+📰 ✅ **Justice A.M. Khanwilkar** has chaired the Lokpal since **10 Mar 2024**
+(official Lokpal profile); first chair was **Justice P.C. Ghose (2019)**.
+📰 ✅ On **20 Feb 2025**, the Supreme Court stayed the Lokpal's 27 Jan 2025 order
+asserting jurisdiction over a High Court judge; the jurisdiction issue therefore remains
+unsettled, not a final expansion of Lokpal power.

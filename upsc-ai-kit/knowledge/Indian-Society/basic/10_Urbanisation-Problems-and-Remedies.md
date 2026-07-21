@@ -34,19 +34,18 @@ Does urban infrastructure (incl. smart cities)
 reach the poor, or bypass them?
 ```
 
-**Core proposition:** ⚠️ Urbanisation in India generates genuine social pathology — slum
-formation, alienation and weakened community bonds — precisely because large cities'
-economic pull (diverse jobs, agglomeration wages) draws migrants faster than housing,
-services and social integration mechanisms can absorb them, making distributive justice
-(who actually benefits from urban infrastructure) the central social test of any urban
-development model, including smart cities.
+**Core proposition:** ⚠️ Large-city economic pull can outpace housing, services and social
+integration, contributing to informal settlements, alienation and unequal access. Informal
+housing is both a response to unmet affordable-housing demand and a product of land,
+planning, tenure and service-delivery failures; distributive and procedural justice are
+therefore central tests of urban development, including smart-city projects.
 
 ## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Urban alienation / anomie** | A weakening of social bonds and shared normative structure in dense, anonymous urban settings, associated with reduced informal community support and increased social isolation. |
-| ✅ **Slum** | An informally developed, under-serviced urban settlement, typically characterised by insecure tenure, inadequate infrastructure and overcrowding, arising when formal housing supply fails to match migrant/urban-poor demand. |
+| ✅ **Slum** | A settlement identified under a particular legal, Census or local-government definition, often associated with insecure tenure, inadequate services and overcrowding. Definitions and causes vary; housing-supply gaps, land/tenure rules, poverty and planning failures can interact. |
 | ⚠️ **Distributive justice (urban context)** | The principle that the benefits of urban infrastructure and services should be fairly shared across income groups, not concentrated in already-serviced, higher-income areas. |
 | ✅ **Large-city migrant pull** | The tendency of large cities to attract disproportionately more migrants than smaller towns because of a wider range of job opportunities, agglomeration-driven wage premiums and denser service/information networks. |
 | ⚠️ **Smart city (social lens)** | An urban development model emphasising technology-enabled infrastructure and services; from a social standpoint, its success depends on whether such infrastructure improves access for the urban poor or is captured mainly by better-off residents and business districts. |
@@ -58,9 +57,10 @@ development model, including smart cities.
    that help new migrants find work and lodging faster than smaller towns can, explaining
    why migration flows disproportionately toward large cities in developing-country
    conditions.
-2. **Housing-supply lag:** ⚠️ formal housing and service delivery (water, sanitation,
-   electricity) typically expand more slowly than migrant inflow, producing informal
-   settlement (slums) as the market's spontaneous adjustment to unmet housing demand.
+2. **Housing and tenure gap:** ⚠️ formal housing and service delivery can expand more slowly
+   than demand. Informal settlements emerge through this gap together with land prices,
+   tenure insecurity, regulatory exclusion and planning choices; do not portray them as only
+   a spontaneous market adjustment or only a migrant choice.
 3. **Alienation and weakened community bonds:** ⚠️ high residential mobility, anonymity and
    weaker extended-kin presence in cities can reduce the informal social support that rural
    or small-town communities more readily provide, a phenomenon long associated with urban
@@ -69,9 +69,9 @@ development model, including smart cities.
    smart-city projects, can disproportionately benefit already well-serviced areas and
    higher-income residents unless deliberately designed to prioritise slum and informal-
    settlement access — the central social test the 2025 PYQ raises.
-5. **Crime and social-control concerns:** ⚠️ weakened informal social control in dense,
-   anonymous urban settings is sometimes associated with localised rises in certain crime
-   categories, though this association is contested and varies by context.
+5. **Crime and social-control concerns:** ⚠️ density or migration alone does not explain
+   crime. Local inequality, policing, opportunity, reporting and social networks confound
+   any simple urban-anomie claim; make causal claims only with context-specific evidence.
 
 ## 4. Institutions and concepts
 
@@ -114,8 +114,9 @@ development model, including smart cities.
   2011 and Census 2027 is still prospective.
 - ✅ Large-city migrant pull is explained by job diversity, agglomeration wage premiums and
   denser social/information networks, especially pronounced in developing-country contexts.
-- ⚠️ Slum formation is best understood as an informal-market response to unmet formal-
-  housing demand, not simply a planning failure.
+- ⚠️ Slum formation reflects an affordable-housing and tenure gap shaped by markets,
+  regulation, land and service-delivery failures; neither a market-only nor a planning-only
+  explanation is adequate.
 - ⚠️ Urban alienation/anomie describes weakened social bonds in dense, anonymous urban
   settings, a long-standing urban-sociology concern.
 - ⚠️ Smart-city success on distributive-justice grounds depends on deliberate pro-poor
@@ -126,9 +127,9 @@ development model, including smart cities.
 - ❌ India's urban population share is already Census-verified above one-third. -> The
   ~36% figure is a UN WUP 2025 projection-based estimate, not Census data; India's last
   full Census remains 2011, and Census 2027 has not occurred.
-- ❌ Slums arise purely from planning failure or migrant "unwillingness" to live formally.
-  -> Slums are better explained as the informal market's spontaneous response when formal
-  housing supply lags migrant inflow.
+- ❌ Slums arise purely from planning failure / purely from migrant choice. -> Housing-supply
+  gaps interact with land prices, tenure rules, poverty and planning/service failures; use a
+  multi-causal explanation without blaming residents.
 - ❌ Smart cities automatically reduce urban poverty and improve distributive justice by
   virtue of using technology. -> Benefits can concentrate in designated zones/higher-income
   areas unless the project design explicitly targets slum and informal-settlement access.
@@ -154,8 +155,8 @@ development model, including smart cities.
 ## 10. Mains angles
 
 - ⚠️ Always distinguish UN-projection urbanisation estimates from Census data explicitly.
-- ⚠️ Treat slum formation as an informal-market response, not a moral or planning failing
-  of migrants.
+- ⚠️ Treat slum formation as a multi-causal housing and tenure problem, never as a moral
+  failing of migrants or a one-factor planning story.
 - ⚠️ Use the pro-poor-design-versus-automatic-benefit framing for any smart-city question.
 
 > **Answer thesis:** Large Indian cities attract disproportionate migration because of job

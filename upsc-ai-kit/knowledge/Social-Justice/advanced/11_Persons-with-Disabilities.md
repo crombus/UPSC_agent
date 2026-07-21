@@ -36,7 +36,7 @@ RIGHTS-BASED                            REASONABLE
        |                                 tionate burden)
        +----------- ACCESSIBILITY -----------+
                          |
-                 Sugamya Bharat
+                 SIPDA / Sugamya framework
               (built env, transport, ICT)
                          |
                     ADIP + National Trust
@@ -79,9 +79,9 @@ and public life.
 4. **Reasonable-accommodation duty:** Employers, educational institutions and service
    providers must provide necessary modifications (accessible workplaces, flexible
    evaluation, assistive technology) unless doing so imposes a disproportionate burden.
-5. **Accessibility infrastructure:** Sugamya Bharat Abhiyan targets built environment,
-   transportation and ICT accessibility through standards, retrofitting and new-design
-   mandates.
+5. **Accessibility infrastructure:** Sugamya Bharat's built-environment, transport and
+   ICT framework is carried through SIPDA after March 2024, using standards, retrofitting
+   and universal-design requirements.
 6. **Assistive devices and care support:** ADIP provides devices; National Trust
    provides guardianship and registered-organisation support for specific conditions.
 7. **Outcome gap:** Despite statutory entitlements, many PwDs face barriers to education
@@ -102,8 +102,8 @@ and public life.
   RPwD Act to receive complaints, monitor safeguards and recommend remedial measures;
   State Commissioners perform parallel functions at the state level.
 - ⚠️ **Accessibility standards and compliance:** Harmonised Guidelines and Standards for
-  Universal Accessibility specify technical requirements; compliance is monitored via
-  audits but enforcement varies across jurisdictions.
+  Universal Accessibility specify technical requirements; SIPDA/DEPwD monitoring does
+  not remove the need for State/local enforcement and independent access audits.
 
 ## 5. Indian applications and boundary cases
 
@@ -122,9 +122,10 @@ and public life.
 
 - ⚠️ **Benchmark rigidity:** The 40% threshold for reservation eligibility may exclude
   persons with lower-percentage disability who still face significant barriers.
-- ⚠️ **National Trust scope mismatch:** The National Trust (1999) covers only four
-  conditions (autism, CP, MR, multiple disabilities); 17 other RPwD categories lack
-  equivalent guardianship/care-support infrastructure.
+- ⚠️ **National Trust scope mismatch:** The National Trust Act, 1999 covers autism,
+  cerebral palsy, the statute's term “mental retardation” and multiple disabilities.
+  Its narrower mandate should not be mistaken for a care/guardianship system covering
+  every specified disability under the RPwD Act.
 - ⚠️ **Retrofitting cost:** Making legacy infrastructure accessible is expensive and
   slow; Sugamya Bharat compliance timelines have been extended multiple times.
 - ⚠️ **Private-sector coverage:** RPwD's reasonable-accommodation duty applies to all
@@ -161,11 +162,10 @@ and public life.
 
 ## 9. 📰 Current-anchor note
 
-- ⚠️ UDID registration counts and Sugamya Bharat Abhiyan compliance-dashboard figures
-  are dynamic, updated periodically by DEPwD. No fixed current figure is asserted here.
-  The durable facts are: UDID's purpose (centralised certification, portability,
-  replacing fragmented state certificates) and Sugamya Bharat's three-pillar structure
-  (built environment, transportation, ICT accessibility).
+- 📰 **Status check (21 July 2026):** UDID counts are dynamic. The three-pillar Sugamya
+  Bharat accessibility framework is carried through SIPDA after March 2024; cite the
+  DEPwD reporting date and vehicle rather than treating a legacy campaign label as a
+  current compliance result.
 - ⚠️ Census 2011 estimated disability prevalence at ~2.2% of population; the 2027
   Census (once completed) may provide updated enumeration under revised methodologies.
 

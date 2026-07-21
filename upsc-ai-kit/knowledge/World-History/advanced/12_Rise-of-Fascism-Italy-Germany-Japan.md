@@ -28,6 +28,11 @@
 
 ✅ Lowe lists the fascist ambitions clearly: one-party rule, leader cult, corporatism, propaganda, nationalism, anti-communism, violence and the drive for autarky.
 
+✅ Chronology matters: Mussolini created the *Fasci di combattimento* in 1919 with a fluid early
+programme; after electoral failure and a turn towards property and business interests, the
+National Fascist Party took shape in 1921. Fascism was therefore not born as a fully fixed
+doctrine.
+
 ✅ Yet Lowe's own verdict is qualified: Mussolini never created a completely totalitarian system in the strict fascist sense of eliminating all independent centres of power.
 
 | Evidence of fascist control | Limits on Mussolini's control |
@@ -155,7 +160,7 @@
 
 ## 11. Must-Know Facts (Prelims) and UPSC traps
 
-- ✅ March on Rome succeeded because the king refused resistance, not because fascists won a major battle.
+- ✅ March on Rome succeeded because the king refused to authorize resistance, not because fascists won a major battle.
 - ✅ Acerbo Law strengthened fascist parliamentary control.
 - ✅ Lateran Treaty was signed in 1929.
 - ✅ Weimar prosperity after 1924 depended heavily on American loans.

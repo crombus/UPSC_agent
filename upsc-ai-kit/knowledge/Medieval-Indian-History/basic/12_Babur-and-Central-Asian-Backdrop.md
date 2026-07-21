@@ -57,10 +57,11 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Babur was a Timurid; he claimed prestige from **Timur** and **Chingiz** lineages.
+- ✅ Babur descended paternally from **Timur** and maternally from the Chagatai line associated with **Chingiz Khan**.
 - ✅ Babur conquered **Kabul in 1504**.
 - ✅ **First Battle of Panipat = 1526**, Babur vs Ibrahim Lodi.
-- ✅ Babur used Ottoman-style carts/field defence and Ottoman master-gunners **Ustad Ali** and **Mustafa**.
+- ✅ Babur used Ottoman-style carts/field defence and master-gunners **Ustad Ali** and **Mustafa**.
+- ⚠️ Part II dates Panipat to **20 April 1526**; many standard chronologies give **21 April**. For Prelims, the year and combatants are secure; qualify the day if used.
 - ✅ **Khanwa = 1527**, Babur vs Rana Sanga; Sanga was supported by Afghans including Mahmud Lodi and Hasan Khan Mewati.
 - ✅ Babur's advent linked Kabul-Qandhar with north India and improved India's access to trans-Asian trade.
 
@@ -75,11 +76,10 @@
 
 ## 6. 📰 Current link
 
-- 📰 **500 years of the First Battle of Panipat (2026)** — News18/InsightsIAS carried anniversary explainers on Babur's 1526 victory and battlefield heritage; relevance: connects military innovation, heritage memory and empire formation.
+📰 **Current linkage (verify live before use):** Panipat battlefield commemoration can connect military innovation with heritage memory. Verify the programme and avoid presenting the disputed 20/21 April day as unanimously settled.
 
 ## 7. Mains angles
 
 - ⚠️ Explain how Central Asian instability pushed Babur toward India.
 - ⚠️ Assess Panipat and Khanwa as stages in the shift from Sultanate balance to Mughal hegemony.
 - ⚠️ Discuss gunpowder, cavalry and political legitimacy in the making of the early Mughal state.
-

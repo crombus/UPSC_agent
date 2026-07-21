@@ -12,17 +12,18 @@
 | Date | Event |
 |---|---|
 | ✅ 1950–52 | Constitutional safeguards; Jharkhand Party (Jaipal Singh) enters electoral politics |
-| ✅ 1952 | Nehru codifies the Tribal Panchsheel — the doctrine of integration-with-identity |
-| ✅ 1955–57 | Naga declaration of independence; armed insurrection suppressed by the army |
+| ✅ Early post-independence years | Nehru sets out five tribal-policy guidelines later called the Tribal Panchsheel |
+| ✅ 1955–57 | Phizo-led separatists form an "independent government"; armed insurrection is contained but not ended |
 | ✅ 1963 | Nagaland statehood — coercion followed by political accommodation |
 | ✅ 1966–72 | Mizo uprising; North-East reorganised (Meghalaya, Manipur, Tripura, NEFA→Arunachal) |
-| ✅ 1986–87 | Mizo Accord ends the longest North-Eastern insurgency; statehood for Mizoram & Arunachal |
+| ✅ 1986–87 | Mizo Accord ends the Mizo insurgency; statehood for Mizoram and Arunachal |
 
 ## 1. Snapshot & core idea
 
 **Deeper — thesis: the "tribal question" tested whether the nation could integrate without erasing difference.**
 
 - ✅ Colonial penetration — markets, moneylenders, traders and restrictive **forest laws** — had **dispossessed** tribal communities and detonated a century of revolts, the backdrop to post-1947 policy.
+- ✅ The demographic baseline in this chapter is the **1971 Census**: over 400 communities, nearly 38 million people and 6.9% of India's population.
 - ✅ Nehru's **Tribal Panchsheel** consciously rejected two extremes: the isolationist "**no-change**" view and the assimilationist demand that tribes surrender their identity.
 - ⚠️ The doctrine's five planks — develop along their own genius; respect **land and forest rights**; train and use **tribal personnel**; avoid **over-administration**; judge results by human, not statistical, growth — made autonomy an instrument of unity.
 - ⚠️ Chandra's assessment is candid: constitutional intent was sound, but **implementation was often dismal** — neglect, corruption and elite capture, not the design, produced tribal alienation.
@@ -54,12 +55,12 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ The **Tribal Panchsheel** (1952) is Nehru's five-principle framework; **Verrier Elwin** was its intellectual influence.
+- ✅ The **Tribal Panchsheel** is the standard label for Nehru's five broad guidelines; the source passage does not attach them to a single dated proclamation. **Verrier Elwin** was an intellectual influence.
 - ✅ **Nagaland (1963)** and **Mizoram (statehood 1987, Accord 1986)** exemplify insurgency-to-accommodation.
 - ✅ **NEFA** became **Arunachal Pradesh** (renamed 1972; statehood 1987).
 - ✅ The **Jharkhand Party (1950, Jaipal Singh)** gave way to the **JMM (Shibu Soren)** as the movement broadened.
 - ✅ The **Sixth Schedule** provides autonomous district and regional councils for North-Eastern tribal areas.
-- ✅ Chandra attributes tribal alienation mainly to **poor implementation and neglect**, not constitutional intent.
+- ✅ Chandra attributes tribal alienation mainly to **poor implementation and neglect**, not constitutional intent; rights-based and subaltern scholarship disputes whether the development model itself was also dispossessing.
 
 ## 5. UPSC Traps
 

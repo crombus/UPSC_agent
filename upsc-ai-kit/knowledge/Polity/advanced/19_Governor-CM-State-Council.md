@@ -1,7 +1,7 @@
 # Governor, Chief Minister & State Council of Ministers (Articles 153–167) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 30–32 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 30–32 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Governor-and-CM.md`.*
 
@@ -23,10 +23,12 @@ takes charge (no interregnum). ⚠️ Mass changes after regime change (V.P. Sin
 
 ## Powers ⭐
 ✅ Executive (all state actions in his name; appoints **CM, Advocate-General, State Election Commissioner,
-SPSC chair/members, VCs as Chancellor**; recommends President's Rule) · Legislative (summons/prorogues,
+SPSC chair/members**; recommends President's Rule; often has a Chancellor/VC role **under state
+university statutes, not the Constitution**) · Legislative (summons/prorogues,
 dissolves Assembly; **nominates 1/6 of Legislative Council**; assents/returns/**reserves bills for President**;
 **ordinances Art 213**) · Financial (money bills need his recommendation; **State Finance Commission**) ·
-Judicial (**pardons Art 161** — but **cannot pardon death sentences / court-martial**, unlike President).
+Judicial (**Art 161** — cannot **pardon** a death sentence, but may suspend/remit/commute
+it; cannot deal with court-martial sentences, unlike the President).
 
 ## Constitutional position & discretion ⭐
 ✅ **Nominal executive** (Art 154, 163, 164). Unlike the President, (a) the Governor **can act in discretion**,
@@ -70,7 +72,9 @@ Welfare Minister** in Chhattisgarh, Jharkhand, MP, Odisha (Bihar excluded by 94t
 ## UPSC Traps
 - ❌ Governor is elected → **appointed by the President** (min age **35**, not 25).
 - ❌ Ministerial advice is binding on the Governor → **not** expressly binding (no 42nd-Amdt equivalent).
-- ❌ Governor can pardon death sentences → **cannot** (only the President, Art 72).
+- ❌ Governor can pardon death sentences → cannot **pardon**, though Art 161 permits
+  suspension, remission or commutation; only the President has pardon power for death and
+  court-martial sentences.
 - ❌ Governor nominates members to the Legislative **Assembly** → nominates **1/6 to the Legislative Council** (Anglo-Indian Assembly nomination now lapsed).
 - ❌ Governor has a fixed 5-yr tenure → holds office during **President's pleasure**, no security of tenure.
 - ❌ State CoM cap is 15% of both Houses → **≤ 15% of the Assembly, minimum 12** (91st Amdt).
@@ -78,10 +82,13 @@ Welfare Minister** in Chhattisgarh, Jharkhand, MP, Odisha (Bihar excluded by 94t
 - ❌ Reserving a bill for the President is on cabinet advice → a **discretionary** power of the Governor.
 
 ## 📰 CA hooks
-- 📰 ✅ **Governor's assent to bills — landmark 2025 rulings:** in *State of TN v. Governor* (Apr 2025) the SC
-  set a 3-month timeline & "deemed assent" (Art 142); the **Presidential Reference (Art 143) 5-judge opinion
-  of 20 Nov 2025** clarified — **no fixed judicial timelines, no "deemed assent"**, but Governors/President
-  **cannot sit indefinitely** ("prolonged inaction" is judicially reviewable). *(web-verified 2026)*
+- 📰 ✅ **Governor's assent — current doctrine:** *State of Tamil Nadu v. Governor of
+  Tamil Nadu* (8 Apr 2025, 2025 INSC 481) prescribed timelines and used deemed assent in
+  the facts before it. The later five-judge Article 143 opinion, *In re: Assent, Withholding
+  or Reservation of Bills* (20 Nov 2025, 2025 INSC 1333), held that Articles 200/201 do
+  not permit court-created rigid timelines or automatic deemed assent; prolonged,
+  unexplained and indefinite inaction can nevertheless attract limited judicial scrutiny
+  and mandamus.
 - 📰 ⚠️ Recurrent **Governor vs elected government** friction (Tamil Nadu, Kerala, Punjab, West Bengal) — bill
   delays, VC appointments, and use of discretion.
 

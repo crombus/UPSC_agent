@@ -1,8 +1,8 @@
 # Lokpal & Lokayuktas — The Ombudsman in India — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 61 (Qdrant export + source book).
-> ✅ = from source book · ⚠️ = inference / analysis · 📰 = current affairs (web-verified).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 61 (direct check of the local Sixth Revised Edition PDF) + official updates.
+> ✅ = from source book · ⚠️ = inference / analysis · 📰 = official/court-verified update.
 > *Companion: `basic/Lokpal-and-Lokayuktas.md`.*
 >
 > ⚠️ **Note:** Lokpal & Lokayuktas are **statutory** bodies (Lokpal and Lokayuktas Act, **2013**) — **NOT constitutional**.
@@ -49,10 +49,9 @@ heavy punishment for false complaints (deterrent) · **7-year** limitation · no
 
 # PART C — LOKAYUKTAS (States) ⭐
 - ✅ First established in **Maharashtra (1971)** (Odisha enacted 1970 but enforced 1983).
-- ✅ **Appointed by the Governor** (consulting the **CJ of the High Court** + **LoP in Assembly**).
-- ✅ Term generally **5 years / 65**, **no reappointment**. **No structural uniformity** — some states have
-  *Upalokayukta*, some include the CM in jurisdiction (HP, AP, MP, Gujarat), some exclude.
-- ✅ The 2013 Act **mandated states to set up Lokayuktas within 365 days** — but left the design to states.
+- ✅ The 2013 Act required states to establish Lokayuktas **by state law** and left the
+  design to them. Appointment panel, composition, jurisdiction, tenure, age limits, removal
+  and the existence of an Upalokayukta therefore vary across state enactments.
 
 ---
 
@@ -62,16 +61,18 @@ heavy punishment for false complaints (deterrent) · **7-year** limitation · no
 - ❌ The PM is fully outside Lokpal's ambit → **included, with subject-matter exclusions**.
 - ❌ Lokpal can act **suo motu** → **cannot** (a key drawback).
 - ❌ Ombudsman originated in the UK → **Sweden (1809)**.
-- ❌ Lokayukta is appointed by the President → by the **Governor**.
+- ❌ Every Lokayukta follows one Governor–Chief Justice–LoP panel and 5-year/65 rule →
+  **state statutes differ**.
 - ❌ Judiciary is within Lokpal's purview → ARC/ Act kept **judiciary out** (⚠️ see 2025 HC-judge order below).
 
-## 📰 CA hooks (web-verified)
+## 📰 CA hooks (official/court-verified)
 - 📰 **Justice A.M. Khanwilkar** is the current **Lokpal Chairperson** (assumed office **10 Mar 2024**); the **first**
   Lokpal chair was **Justice Pinaki Chandra Ghose (2019)**.
-- 📰 **Jan 2025 — Lokpal held it can probe corruption complaints against HIGH COURT judges** (not SC judges); the
-  **Supreme Court stayed** that order — a major judicial-independence vs accountability debate.
-- 📰 Lokpal **operationalised its prosecution wing** and digitised complaints; complaints have **risen sharply (2024–26)**.
-- 📰 ⚠️ Centre reportedly **considering amendments** to the Lokpal Act to sharpen enforcement.
+- 📰 ✅ On **20 Feb 2025**, the Supreme Court stayed the Lokpal's 27 Jan 2025 order
+  asserting jurisdiction over a High Court judge. The jurisdiction issue remains unresolved;
+  the stayed order is not settled law.
+- 📰 Lokpal has notified complaint-processing procedures and maintains inquiry/prosecution
+  machinery; avoid unsupported claims about sharp complaint growth or proposed amendments.
 
 ## Mains angles
 - "An Ombudsman without teeth" — evaluate the structural weaknesses of the Lokpal (no suo-motu, PM safeguards, delays).

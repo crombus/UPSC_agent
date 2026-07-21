@@ -1,7 +1,7 @@
 # Primary Economic Activities: Agriculture — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (world/general-concept) · **GS Paper:** GS-I & GS-III
-> **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + D.R. Khullar, *India: A Comprehensive Geography*.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong's climate-region chapters + verified dated current-affairs anchor.
 > **Data caution:** ✅ Agricultural-region examples below are textbook/static geography patterns; do not treat them as current output rankings unless separately updated.
 > ✅ = grounded source · ⚠️ = synthesis / exam heuristic · 📰 = verified dated current-affairs anchor.
 > *Companion: `advanced/30_Primary-Economic-Activities-Agriculture.md`.*
@@ -40,7 +40,8 @@
 | ✅ Commercial grain farming | Large mechanised farms, low labour density | Prairies, Pampas, Steppes, Downs |
 | ✅ Market gardening / dairy | Perishable products for urban demand | Around metropolitan belts |
 
-✅ G.C. Leong's human-geography passages strongly distinguish **wet-rice**, **plantation**, **Mediterranean**, **mixed farming** and **commercial grain farming** by labour use, climate and market orientation.
+✅ Majid Husain's world economic-geography chapters distinguish **wet-rice**, **plantation**,
+**Mediterranean**, **mixed farming** and **commercial grain farming** by labour use, climate and market orientation.
 
 ## 4. Von Thunen model: why distance matters
 
@@ -76,9 +77,21 @@
 
 ⚠️ Good map habit: pair each agricultural region with one **climate type**, one **signature crop**, and one **settlement/labour pattern**.
 
+### Crop-requirement traps (broad, not rigid thresholds)
+
+| Crop | Broad climatic/soil requirement | Trap |
+|---|---|---|
+| ✅ Rice | Warm growing season; abundant water or irrigation; clayey/alluvial lowlands often favourable | Not all rice is flooded lowland rice—upland and irrigated systems differ |
+| ✅ Wheat | Cool growing period, brighter/drier ripening; well-drained loam/alluvium | Wheat is not a high-rainfall tropical crop |
+| ✅ Cotton | Long frost-free warm season; black soil is favourable in India, but alluvial cotton belts also exist | Cotton is not confined to regur soil |
+| ✅ Jute | Hot-humid monsoon climate; new alluvium and abundant water for retting | Jute belt is deltaic/eastern, not the dry Deccan |
+| ✅ Tea | Warm humid climate; acidic, well-drained slopes; labour-intensive plucking | Waterlogging harms tea despite high rainfall |
+| ✅ Coffee | Warm uplands, shade and well-drained soils | Indian coffee is concentrated on shaded southern highlands, not all humid tropics |
+| ✅ Millets | Lower and more variable rainfall; many tolerate lighter soils | “Coarse cereals” are not nutritionally inferior by definition |
+
 ## 6. Agricultural change: from subsistence to commercialisation
 
-✅ D.R. Khullar's agriculture discussion highlights irrigation, improved seeds, fertilisers, roads and market access as key forces that alter cropping patterns and intensity. ⚠️ Globally, the broad transition is from **subsistence -> surplus -> commercial specialisation -> agro-processing linkages**.
+✅ Majid Husain links irrigation, improved seeds, fertilisers, roads and market access as key forces that alter cropping patterns and intensity. ⚠️ Globally, the broad transition is from **subsistence -> surplus -> commercial specialisation -> agro-processing linkages**.
 
 | Driver | Geographic consequence |
 |---|---|
@@ -126,14 +139,15 @@
 
 ## 10. 📰 Current link
 
-### CA Anchor — 28 May 2025 (PIB) and 20 Nov 2025 (Ministry of Agriculture): MSP geography and record foodgrain output
+### CA Anchor — Kharif MSP and agricultural-estimate discipline
 
-📰 **Source/date:** PIB, **28 May 2025** - Cabinet approval of MSP for Kharif crops for 2025-26; Ministry of Agriculture & Farmers Welfare, **20 Nov 2025** - final estimates placed India's foodgrain output at **357.73 million tonnes**.
+📰 **Source/date:** PIB, **28 May 2025**—Cabinet approval of MSP for Kharif crops for 2025-26.
+Do not quote a “final 2025-26 foodgrain output” before the Agriculture Ministry publishes it.
 
 ✅ This current anchor shows why agricultural geography matters: crop seasonality, irrigation, procurement and regional specialisation are not abstract ideas - they directly shape national food availability.
 
 - ✅ MSP decisions are season-specific and crop-specific; they reflect different agro-climatic belts and sowing calendars.
-- ✅ Record foodgrain output does not erase spatial inequality; procurement, storage and market access still vary by region.
+- ⚠️ National output estimates do not erase spatial inequality; procurement, storage and market access vary by region.
 - ⚠️ Revision use: read current MSP/output news through the static lens of **Kharif-Rabi cycles, surplus belts and market geography**.
 
 ## 11. Mains angles

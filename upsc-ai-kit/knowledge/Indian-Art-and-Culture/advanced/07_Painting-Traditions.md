@@ -5,7 +5,9 @@
 > album); regional-school divergence; colonial-era nationalism in painting;
 > provenance and conservation.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 309-377; `00_Master-Framework.md` Sections 4-5; audited UPSC Mains 2024
+> 309-377; Satish Chandra, *History of Medieval India*, PDF pp. 328-334;
+> Satish Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp. 389-392;
+> `00_Master-Framework.md` Sections 4-5; audited UPSC Mains 2024
 > GS Paper I (supports Topic 03).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/07_Painting-Traditions.md`.*
@@ -52,20 +54,24 @@ should not be read as evidence that Pallava painting was minor or
 undeveloped — rather, it should be read alongside the Pallavas' extensive
 architectural and literary patronage (topic 03, topic 11) as evidence
 that painting was likely a comparably significant, simply less
-durable, medium. ✅ The lineage from Pala/Apabhramsa manuscript
+durable, medium. ✅ The lineage from Pala and Western Indian/Jain manuscript
 illustration (religious, community-specific — Buddhist and Jain
 respectively) into Mughal secular/courtly miniature painting marks a
 format **and** subject-matter shift together: devotional manuscript
 illustration gives way to courtly portraiture, hunting scenes and
 literary illustration under Mughal patronage, before Rajasthani and
 Pahari schools reintroduce devotional (Krishna-centred, Ragamala) themes
-within the miniature format. ⚠️ The Bengal School's rejection of both
-colonial Company-painting hybridity and Ravi Varma's academicism should
-be read as a two-front cultural argument — against colonial commercial
-appropriation of Indian imagery on one side, and against uncritical
-adoption of European academic technique on the other — making it a
-distinctly nationalist artistic position, not simply a stylistic
-alternative.
+within the miniature format. ⚠️ The Bengal School's critique of colonial academic naturalism and Ravi
+Varma's oil-and-canvas idiom should be read as a nationalist intervention,
+but not as a total rejection of all European or pan-Asian exchange:
+Japanese wash techniques and transnational networks also shaped it.
+
+✅ Satish Chandra's Mughal atelier evidence complicates "court style" as a
+single hand: Akbar's karkhana assembled artists from Gwalior, Gujarat,
+Lahore, Kashmir and Malwa; manuscripts were collaborative; Jahangir's
+portrait/natural-history emphasis altered format; later dispersal helped
+Rajasthan and Pahari centres. Continuity therefore worked through mobile
+artists, not sealed dynastic boxes.
 
 ## 5. Visual synthesis table
 
@@ -125,6 +131,9 @@ bronze and stone sculptural record (topic 06).
 - ❌ Treating the Bengal School as merely "traditional-style" painting. ->
   It was a deliberate, two-front cultural-political reaction against both
   colonial commercial painting and European academic realism.
+- ❌ Treating Mughal, Rajasthani, Pahari and Deccani as isolated ethnic
+  essences. -> Artists, manuscripts, pigments and compositions circulated
+  across courts; regional schools selectively reworked shared resources.
 
 ## 10. Mains answer frameworks
 

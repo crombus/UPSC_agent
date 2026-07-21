@@ -4,7 +4,7 @@
 > **Core area:** Services and digital transformation.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md`.*
+> *Companion: `../advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md`.*
 
 ---
 
@@ -54,8 +54,8 @@ liability to competing applications and regulating market power, data use and cy
 
 ## 4. Institutions and policy tools
 
-- ✅ **RBI and NPCI-regulated ecosystem:** govern payment systems and bank-linked digital
-  finance within their mandates.
+- ✅ **RBI and NPCI:** RBI regulates payment systems and authorised operators; NPCI operates
+  designated retail payment systems and interfaces within that framework.
 - ✅ **SEBI, IRDAI and PFRDA:** regulate digital distribution in securities, insurance and
   pensions.
 - ✅ **Competition Commission of India:** addresses abuse of dominance and anti-competitive
@@ -98,10 +98,11 @@ liability to competing applications and regulating market power, data use and cy
 
 ## 8. 📰 Economic Survey 2025-26 / current anchor
 
-- 📰 Services were 53.6% of nominal GDP/GVA in H1 FY26 and grew 9.1% in FY26 FAE.
+- 📰 Services' share in GDP reached 53.6% in H1 FY26 and services GVA grew 9.1% in FY26 FAE.
 - 📰 Services accounted for 30% of total employment and 61.9% of urban employment in the
   Economic Survey 2025-26 highlights.
-- 📰 Internet connections reached 101.78 crore by Sep 2025.
+- 📰 The Survey reports internet connections rising from 25.15 crore in 2014 to 96.96 crore
+  in 2024; this is a connection count, not a measure of equal device ownership or skills.
 
 ⚠️ **Interpretation caution:** Digital access is not digital capability; language,
 disability, fraud awareness and grievance resolution determine effective inclusion.
@@ -141,8 +142,7 @@ disability, fraud awareness and grievance resolution determine effective inclusi
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/24_Services-Digital-Economy-Fintech-and-Platform-
-  Markets.md`.
+- ✅ Advanced companion: `../advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md`.
 - ✅ `05_Banking-Structure-NBFCs-and-Financial-Regulation.md` — regulated financial entities.
 - ✅ `08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md` — digital investment
   and tokenisation.

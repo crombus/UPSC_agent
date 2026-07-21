@@ -14,7 +14,7 @@
 
 ✅ Weathering is the in-situ disintegration and decomposition of rock at or near the Earth's surface — without transport. It differs from erosion, which involves the removal and transport of the loosened debris by rivers, wind, ice or waves. Weathering prepares the loose mantle (regolith) that gravity and running water then move. Leong groups it into three families: mechanical, chemical and biological.
 - ✅ Exfoliation: outer rock heats and peels off in thin layers like an onion; angular debris collects as scree at cliff foot.
-- ✅ Frost action: water freezing in cracks expands ~10% of its volume and prises off fragments (important in cold/high-altitude climates).
+- ✅ Frost action: water expands by about **9%** on freezing and can prise apart jointed, saturated rock.
 - ✅ Mass movement = down-slope movement of weathered material under gravity; speed depends on slope gradient, debris weight and rain lubrication.
 - ✅ Soil creep: slow, near-continuous soil movement — tilts trees, fences, posts; debris piles at slope foot.
 - ✅ Landslides (slumping/sliding): rapid fall of a large soil/rock mass on steep or undercut slopes; triggered by rivers/sea undercutting, earthquakes, or man-made cuttings.
@@ -40,8 +40,8 @@
 | ✅ Biological weathering | Plant roots, burrowing/trampling animals | Rock split along joints and bedding planes |
 | ✅ Mass movement | Gravity acting on weathered debris, aided by rain lubrication | Soil creep, landslides, slumping |
 | ✅ Groundwater | Seepage down to impermeable layer | Aquifer, water-table, springs, artesian wells |
-| ✅ Solution | Limestone changes from solid to liquid state with water | Widened joints/grikes; karst |
-| ✅ Carbonation | Weak carbonic acid (water + CO2) attacks Ca/Mg/K/Na minerals | Carbonates formed; limestone decay |
+| ✅ Solution | Dissolved ions are removed in water; especially effective in soluble rocks | Widened joints/grikes; karst |
+| ✅ Carbonation | Water + CO2 forms weak carbonic acid that dissolves carbonate minerals | Limestone dissolution and karst development |
 | ✅ Hydrolysis | Minerals chemically combine with water | Feldspar → clay minerals |
 | ✅ Oxidation | Oxygen via water reacts with minerals such as iron | Reddish/rusty rotted rock |
 
@@ -56,7 +56,7 @@
 **Foundation — Weathering, Mass Movement & Groundwater (G.C. Leong).**
 - ✅ Weathering is IN-SITU (no transport); erosion = weathering + transport.
 - ✅ Exfoliation = 'onion weathering'; debris = scree.
-- ✅ Frost water expands ~10% by volume → freeze-thaw shattering.
+- ✅ Water expands by about **9%** on freezing → freeze-thaw shattering where cracks repeatedly wet and freeze.
 - ✅ Solution is the most potent process in LIMESTONE regions.
 - ✅ Aquifer = water-bearing permeable rock; water-table = its saturated surface.
 - ✅ Artesian well: aquifer sandwiched between two impermeable layers → water rises without pumping.
@@ -80,7 +80,8 @@
 - ❌ All wells are artesian. → Only where a confined aquifer lies between two impermeable strata does water rise under natural pressure (artesian).
 
 **Standard — Weathering Controls, Chemical Processes & Karst Hydrology (Majid Husain).**
-- ❌ Carbonation and solution are identical. → Solution = limestone dissolving into liquid; carbonation = carbonic acid reacting to form carbonates — related but distinct.
+- ❌ Carbonation “turns limestone into liquid.” → Carbonic-acid water dissolves carbonate minerals and
+  carries their ions in solution; the rock does not literally melt.
 - ❌ Karst regions have dense surface drainage. → Karst LACKS integrated surface drainage — water sinks underground via dolines to form caves and resurgences.
 - ❌ Chemical weathering is strongest in cold dry climates. → It is strongest in hot-humid climates; cold/high-altitude zones favour physical (frost) weathering.
 
@@ -88,10 +89,13 @@
 
 
 **Foundation — Weathering, Mass Movement & Groundwater (G.C. Leong).**
-📰 Dharali (Uttarkashi, Uttarakhand) debris-flow disaster, 5 Aug 2025 — a rainfall-triggered mudslide destroyed ~148 buildings; and the Aug 2025 Katra landslide near Vaishno Devi (~30 dead) put slope failure / mass movement in the news.
+📰 **Himalayan extreme-rain and slope-failure events** keep the weathering→saturation→mass-movement
+chain current. Use an event only with an official post-event report; avoid early casualty/building counts
+that often change during rescue operations.
 
 **Standard — Weathering Controls, Chemical Processes & Karst Hydrology (Majid Husain).**
-📰 Scientists link the rising frequency/severity of 2025 Himalayan mass-movement events to climate change intensifying rainfall — raising demand for hazard zonation of weathering-weakened slopes.
+📰 Current attribution is event-specific: warming can increase atmospheric moisture and extreme-rain
+risk, but a landslide also depends on geology, antecedent saturation, slope cutting, drainage and land use.
 
 ## 7. Coastal-aquifer salinisation and direct PYQs
 

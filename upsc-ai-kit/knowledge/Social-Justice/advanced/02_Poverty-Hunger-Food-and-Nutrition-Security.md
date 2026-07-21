@@ -7,7 +7,7 @@
 > interpretation.
 > **Grounded in:** NFSA, 2013; PMGKAY-NFSA merger and free-foodgrain policy
 > (1 Jan 2023, extended to Dec 2028); Poshan 2.0 guidelines (MWCD); PM POSHAN (MoE);
-> NFHS-5 (2019-21) nutrition baseline; NFHS-6 (2023-24, released 29 May 2026);
+> NFHS-5 (2019-21), the latest published national nutrition round as at 21 July 2026;
 > 2024 GS-II PYQ Q7.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md`.*
@@ -171,10 +171,10 @@ access but not dietary diversity or the first-1000-days critical window.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **NFHS-6 (2023-24):** The latest national round was officially released on
-  29 May 2026. The stunting, wasting and child-anaemia figures stated above are
-  explicitly NFHS-5 (2019-21) baselines; use the official NFHS-6 factsheets rather
-  than carrying those older values forward as current outcomes.
+- 📰 **Survey-status check (21 July 2026):** NFHS-5 (2019-21) remains the latest
+  published national round. Its under-five baseline is stunting 35.5%, wasting 19.3%
+  and anaemia (6–59 months) 67.1%; retain that round beside each figure rather than
+  treating an unreleased NFHS-6 as current evidence.
 - 📰 **Free-foodgrain policy:** NFSA foodgrains have been distributed free of cost
   to AAY/priority-household beneficiaries since 1 January 2023 (PMGKAY merged
   into NFSA, replacing the earlier ₹1-3/kg Central Issue Price payment), and the
@@ -243,9 +243,9 @@ micronutrient supplementation) combined with nutrition-sensitive convergence
 - ✅ **Mains (10 marks, 2024 Q7):** Poverty and malnutrition create a vicious
   cycle, adversely affecting human capital formation. What steps can be taken to
   break the cycle?
-- ✅ **Mains (15 marks, 2025 GS-II Q16):** “With the growing inequality in the
-  ownership pattern of resources, the paradox of poverty in the midst of plenty is
-  becoming more and more evident in India. Critically comment.”
+- ✅ **Mains (15 marks, 2025 GS-II Q16):** “Inequality in the ownership pattern of
+  resources is one of the major causes of poverty. Discuss in the context of ‘paradox of
+  poverty’.”
 - ⚠️ **Prelims:** Which of the following is administered by the Ministry of Women
   and Child Development — PM POSHAN, Poshan 2.0, ONORC or NFSA?
 - ⚠️ **Mains (15 marks):** Distinguish nutrition-specific from nutrition-sensitive

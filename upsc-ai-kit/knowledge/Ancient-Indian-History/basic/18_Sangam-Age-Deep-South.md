@@ -31,6 +31,8 @@
 - ✅ The texts speak of rudimentary state formation: warriors, taxation, judiciary, merchants, craftsmen and farmers.
 - ✅ Major towns include **Kanchi, Korkai, Madurai, Puhar/Kaveripattanam and Uraiyur**.
 - ✅ Yavanas came in ships, bought **pepper with gold**, and supplied wine and women slaves; archaeology and Greco-Roman texts support the trade picture.
+- ✅ Sangam poetry is conventionally divided into **akam** (interior/love) and **puram** (public themes such as war, gift and fame). The *tinai* framework links poetic landscapes with livelihood and social setting.
+- ⚠️ The poems were orally transmitted and later anthologized; they illuminate social worlds but cannot be assigned mechanically to exact reigns or events.
 
 ## 2. Key classification / data
 
@@ -55,6 +57,7 @@
 - ✅ Sangam texts describe towns such as **Kanchi, Korkai, Madurai, Puhar and Uraiyur**.
 - ✅ Yavana trade: gold for pepper; wine and luxury goods came by sea.
 - ✅ **Arikamedu** is a key Indo-Roman trade site; **Muziris** is linked to the Malabar coast.
+- ✅ *Akam/puram* and *tinai* are literary keys; use them with inscriptions, megaliths, coins and port archaeology.
 
 ## 5. UPSC Traps
 
@@ -67,7 +70,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Keeladi, 2025:** The continuing debate over the Keeladi excavation report and Tamil-Brahmi/urban finds keeps the Sangam-age question alive: how early was literacy and urbanism in Tamilakam, and how should literature be cross-checked with archaeology?
+⚠️ **Current-link discipline:** Use Keeladi dates or claims only from the excavation report. The safe linkage is how archaeology tests literary pictures of literacy, craft production and urbanism in Tamilakam.
 
 ## 7. Mains angles
 

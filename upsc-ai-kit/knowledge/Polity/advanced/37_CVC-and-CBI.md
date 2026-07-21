@@ -1,7 +1,7 @@
 # CVC & CBI — Anti-Corruption Bodies — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 59–60 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 59–60 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/CVC-and-CBI.md`.*
 >
@@ -84,7 +84,9 @@
 
 ## 📰 CA hooks
 - 📰 ⚠️ **"Caged parrot"** — SC's 2013 remark (Coalgate) on the CBI's lack of autonomy; recurring **CBI independence/reform** debate.
-- 📰 **Withdrawal of "general consent"** — ~9 states (WB, Punjab, Rajasthan, Kerala, etc.) barred the CBI from operating without case-specific consent → federalism friction.
+- 📰 **Withdrawal of "general consent"** — several states have withdrawn or altered
+  standing consent, requiring case-specific consent; the roster changes over time, so avoid
+  memorising an undated count/list.
 - 📰 **DSPE (Amendment) Act 2021 & CVC (Amendment) Act 2021** — enabled **up to 5-year** tenures for CBI & ED Directors via annual extensions.
 - 📰 Demand for a **statutory charter / separate CBI Act** to insulate it from executive control (2nd ARC, Parliamentary panels).
 

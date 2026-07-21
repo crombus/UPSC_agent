@@ -1,7 +1,7 @@
 # Directive Principles of State Policy (Articles 36–51) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Part IV (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Part IV (direct check of the local Sixth Revised Edition PDF).
 > ✅ = directly from the book · ⚠️ = inference / standard case law.
 > *Companion: `basic/Directive-Principles.md`.*
 
@@ -109,6 +109,7 @@ amplify the Preamble.
 | ✅ **Kesavananda Bharati** | 1973 | Struck down **2nd provision** of 31C (judicial review = basic feature); **1st provision valid** |
 | ✅ **42nd Amdt** | 1976 | Extended 31C to **ALL** DPSP (not just 39 b,c) → primacy of DPSP over Art 14,19,31 |
 | ✅ **Minerva Mills** | 1980 | Struck down that 42nd-Amdt extension → DPSP again subordinate to FR; **but Art 39(b)&(c) still override Art 14 & 19**. Famous "**two wheels of a chariot**," balance = **basic structure** |
+| 📰 **Property Owners Association** | 2024 | Nine-judge Bench confirmed that the unamended Art 31C survives. Art 39(b) can cover some privately owned resources, but not all private property automatically; the inquiry is contextual. |
 
 ✅ **Present position:** FR enjoy **supremacy** over DPSP, **but** Parliament can amend FR to implement
 DPSP **so long as basic structure isn't damaged**. Art 31 (property) abolished by **44th Amdt 1978**.
@@ -145,6 +146,8 @@ nationalisation (LIC 1956, 14 banks 1969, general insurance 1971, Privy Purses a
 - ❌ DPSP are justiciable → **non-justiciable** (Art 37).
 - ❌ Champakam gave DPSP primacy → gave **FR** primacy.
 - ❌ Minerva Mills struck down all of Art 31C → only the **42nd-Amdt extension**; 39(b)&(c) protection stands.
+- ❌ Art 39(b) automatically converts every private asset into a community resource →
+  rejected by the nine-judge Bench in *Property Owners Association* (5 Nov 2024).
 - ❌ Art 44 (UCC) is Gandhian → **liberal-intellectual**; Art 40 (panchayats) is Gandhian.
 - ❌ Free legal aid (39A) & environment (48A) were original → **added by 42nd Amdt**.
 - ❌ Prohibition of cow slaughter is a FR → it's a **DPSP** (Art 48).

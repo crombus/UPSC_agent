@@ -4,7 +4,7 @@
 > **Core area:** Labour and human capital.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md`.*
+> *Companion: `../advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md`.*
 
 ---
 
@@ -112,6 +112,12 @@ differences in state rules, inspection capacity and enforcement readiness.
 - ⚠️ 2024 GS-III asked merits, demerits and progress of the four Labour Codes.
 - ⚠️ Current answer update: in force from 21 Nov 2025; final Central Rules notified in May
   2026.
+- ⚠️ **Answer engine:** merits—consolidation, wider wage/social-security architecture,
+  digital compliance and clarity; risks—thresholds, bargaining power, compliance cost,
+  implementation capacity and gig-worker coverage; conclude with state rules, inspection,
+  grievance redress and measured outcomes.
+
+Source: [Ministry of Labour and Employment annual report 2025-26](https://labour.gov.in/static/uploads/2026/06/4b7ec0e8206aa4860576d6f75b432e97.pdf).
 
 ## 10. Mains angles
 
@@ -135,8 +141,7 @@ differences in state rules, inspection capacity and enforcement readiness.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/22_Employment-Labour-Codes-Skills-and-Demographic-
-  Dividend.md`.
+- ✅ Advanced companion: `../advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md`.
 - ✅ `02_Growth-Development-HDI-IHDI-and-MPI.md` — capability formation.
 - ✅ `17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — labour-intensive and
   technical manufacturing demand.

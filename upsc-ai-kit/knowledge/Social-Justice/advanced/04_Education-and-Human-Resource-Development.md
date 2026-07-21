@@ -5,7 +5,8 @@
 > **Core area:** RTE implementation gaps; NEP 2020 structural reforms; FLN crisis;
 > higher-education equity; skills-employment mismatch.
 > **Grounded in:** RTE Act, 2009; NEP 2020; NIPUN Bharat; ASER; AISHE; Skill India/
-> NCVET/NAPS frameworks; audited GS-II syllabus.
+> NCVET/NAPS frameworks; Public Examinations (Prevention of Unfair Means) Act, 2024;
+> audited 2024-2025 GS-II PYQs.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/04_Education-and-Human-Resource-Development.md`.*
 
@@ -65,6 +66,11 @@ group disparities in GER and learning outcomes); NEP 2020 and NIPUN Bharat addre
 quality through foundational-literacy focus, but the school-to-employment pipeline
 requires an integrated skills ecosystem (NCVET, NAPS) to convert schooling into
 productive capability.
+
+✅ **Economic Survey 2025-26 linkage:** Its education chapter treats school quality and
+access as a human-capital foundation. Use it to support the inference that enrolment,
+school infrastructure and a policy announcement are inputs; FLN and transition outcomes
+test whether those inputs become capability.
 
 ## 2. Concepts and distinctions
 
@@ -191,9 +197,11 @@ productive capability.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names
-  education/HRD; the closest adjacent PYQ is 2024 Q7 (poverty-malnutrition-human-
-  capital), which tests capability-formation logic.
+- ✅ **2024 GS-II Q11 (15 marks)** directly concerns the Public Examinations
+  (Prevention of Unfair Means) Act, 2024. It asks both the Act's aims and whether
+  university/state education-board examinations are covered. The answer must identify
+  the Act's notified public-examination authorities before drawing the broader
+  education-governance link; it must not assume universal coverage of all examinations.
 - ⚠️ A strong education-related answer should:
   1. Distinguish access (enrolment, GER) from quality (learning outcomes, FLN).
   2. Cite ASER data with the survey year.

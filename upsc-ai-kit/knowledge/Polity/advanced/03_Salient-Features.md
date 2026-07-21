@@ -1,7 +1,7 @@
 # Salient Features of the Constitution — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 3 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 3 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference. *(Very high-frequency Prelims chapter.)*
 > *Companion: `basic/Salient-Features.md`.*
 
@@ -106,7 +106,7 @@ federal → **unitary** without formal amendment — a unique feature.
 
 ### 17. Co-operative societies
 ✅ **97th Amdt 2011:** (1) right to form co-ops = FR under **Art 19**; (2) new DPSP **Art 43-B**;
-(3) new **Part IX-B** (Art 243-ZH to 243-ZT). ⚠️ (SC in *Rajendra Shah*, 2021, struck down the Part
+(3) new **Part IX-B** (Art 243-ZH to 243-ZT). ⚠️ (SC in *Union of India v. Rajendra N. Shah*, 2021, struck down the Part
 IX-B provisions **for state co-ops** for lack of state ratification; multi-state co-op provisions stand.)
 
 ---
@@ -136,7 +136,7 @@ Indian needs — "the charge of a blind copy is based on inadequate study."
 ## 📰 CA / relevance
 - 📰 J&K: ✅ note — till 2019 J&K had its **own constitution** (Art 370); abolished 2019; **SC upheld
   the abrogation in Dec 2023** (*In re Article 370*), reaffirming India's federal-with-unitary-bias design.
-- 📰 Co-operatives (feature 17): *Rajendra Shah* 2021 ruling + creation of the **Ministry of
+- 📰 Co-operatives (feature 17): *Rajendra N. Shah* 2021 ruling + creation of the **Ministry of
   Co-operation (2021)** are live CA hooks.
 
 ## UPSC Traps

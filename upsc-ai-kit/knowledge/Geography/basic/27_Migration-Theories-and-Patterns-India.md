@@ -1,7 +1,7 @@
 # Migration: Theories and Spatial Patterns — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Indian & World Geography* + verified MoSPI 2020-21 references for dated overlay.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-resource context + verified MoSPI current anchor.
 > ✅ = from source book or official source · ⚠️ = inference / standard synthesis · 📰 = current affairs.
 > *Companion: `advanced/27_Migration-Theories-and-Patterns-India.md`.*
 
@@ -9,20 +9,22 @@
 
 ## 1. What migration means in geography
 
-✅ Khullar defines migration as spatial mobility involving a permanent change of residence from one geographical unit to another. ✅ Majid Husain's school-level explanation captures the same logic through **push factors** from the origin and **pull factors** at the destination.
+✅ Migration is a change in usual residence across a meaningful geographic or administrative boundary;
+it may be internal or international, and official datasets may use place of birth or last usual residence.
+Majid Husain explains the logic through **push factors** from the origin and **pull factors** at the destination.
 
 | Basic term | Meaning |
 |---|---|
-| ✅ Migration | Movement within a country involving change of residence |
+| ✅ Migration | Change of usual residence; may be internal or international |
 | ✅ Immigration | Movement into a country |
 | ✅ Emigration | Movement out of a country |
 | ✅ Push factors | Distress, conflict, disaster, job loss, social pressure |
 | ✅ Pull factors | Jobs, wages, safety, education, amenities |
-| ✅ Refugee | Forced mover protected under international arrangements |
+| ✅ Refugee | Person meeting the applicable refugee-law definition; not every forced migrant has the same legal status |
 
 ## 2. Classical theories you should know
 
-> ✅ Khullar stresses that migration theory remains imperfect and more complex than fertility or mortality. The models below are therefore best used as analytical tools, not iron laws.
+> ⚠️ Migration models are analytical tools, not iron laws; motives, obstacles and selectivity interact. The models below are therefore best used as analytical tools, not iron laws.
 
 | Theory / idea | Core proposition | UPSC utility |
 |---|---|---|
@@ -34,7 +36,7 @@
 
 ## 3. Types and streams of migration
 
-✅ Khullar classifies migrants by place of birth or last residence and by place of enumeration. ✅ He also distinguishes major internal streams by rural and urban origin-destination combinations.
+✅ Official migration measurement commonly compares place of birth or last usual residence with place of enumeration. ✅ He also distinguishes major internal streams by rural and urban origin-destination combinations.
 
 | Type | Example | Static note |
 |---|---|---|
@@ -47,7 +49,7 @@
 
 ## 4. Effects on source and destination regions
 
-✅ Khullar notes that migration changes the origin area, the destination area and the migrants themselves. ✅ He also links migration with changing sex structure, labour availability, remittances, slums and pressure on infrastructure.
+✅ Migration changes origin areas, destination areas and migrants themselves. ✅ He also links migration with changing sex structure, labour availability, remittances, slums and pressure on infrastructure.
 
 | Effect | Source area | Destination area |
 |---|---|---|

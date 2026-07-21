@@ -1,14 +1,15 @@
 # Finance Commission (Article 280) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II / GS-III
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 14 & 45 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 14 & 45 (direct check of the local Sixth Revised Edition PDF) + official update.
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Finance-Commission.md`.*
 
 ---
 
 # PART A — CONSTITUTION & COMPOSITION (Art 280) ⭐
-✅ A **quasi-judicial constitutional body** constituted by the **President** **every 5th year (or earlier)**.
+✅ A constitutional body constituted by the **President every 5th year (or earlier)**;
+Laxmikanth describes its expert, adjudicatory-style role as **quasi-judicial**.
 Envisaged as the **"balancing wheel of fiscal federalism"** in India.
 
 | Point | Detail |

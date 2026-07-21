@@ -1,7 +1,7 @@
 # The British Conquest of Bengal (Plassey & Buxar) — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* (Ch. IV) + *India's Struggle for Independence* (backdrop) — with historiography on plunder, drain and early colonial state formation.
+> **Grounded in:** Bipan Chandra, *Modern India* (Ch. IV), cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partition* — with historiography on plunder, collaboration and early colonial state formation.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/04_British-Conquest-of-Bengal.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -64,7 +64,7 @@
 - ✅ **Buxar**: 22 Oct 1764; Hector Munro defeated Mir Qasim, Shuja-ud-Daula of Awadh and Mughal emperor Shah Alam II.
 - ✅ **Treaty of Allahabad (1765)**: Diwani of Bengal, Bihar and Orissa granted to the Company; Awadh preserved as buffer.
 - ✅ **Dual Government**: 1765–72; started under Clive, ended by Warren Hastings.
-- ✅ **Bengal Famine (1770)** is linked to the crisis of Company revenue rule and administrative breakdown.
+- ✅ **Bengal Famine (1770)** combined harvest failure and disease with an extractive, unaccountable revenue order; the Company's role concerns vulnerability and response, not a monocausal claim that taxation alone produced drought.
 - ⚠️ Key phrase: **"power without responsibility"** for Dual Government.
 
 ## 5. UPSC Traps

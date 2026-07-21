@@ -1,7 +1,7 @@
 # State Legislature (Articles 168–212) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 33 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 33 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/State-Legislature.md`.*
 
@@ -23,8 +23,11 @@ Parliament. History: AP created 1957 → abolished 1985 → revived 2007; TN abo
 # PART B — COMPOSITION
 
 ## Legislative Assembly (Vidhan Sabha) ⭐
-✅ **Directly elected**, universal adult franchise; strength **60–500** (special: Goa/Sikkim/Arunachal **30**,
-Mizoram **40**, Nagaland **46**). Governor could nominate 1 **Anglo-Indian** (lapsed, 104th Amdt).
+✅ **Directly elected**, universal adult franchise; normally **60–500**, with special
+constitutional/statutory exceptions for smaller states (current examples: **Sikkim 32,
+Goa 40, Mizoram 40**). Figures such as 30/40/46 in special Articles are constitutional
+minima, not necessarily the present Assembly strength. Governor's Anglo-Indian nomination
+power lapsed under the 104th Amendment.
 Readjustment remains deferred until the relevant figures of the **first census taken after 2026 have
 been published** (84th Amdt); SC/ST reservation is based on population ratio.
 

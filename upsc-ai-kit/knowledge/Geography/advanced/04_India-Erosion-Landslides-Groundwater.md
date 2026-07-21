@@ -28,7 +28,7 @@
 | ✅ Wind erosion | Surface creep, saltation and suspension | Thar and Rajasthan arid margins |
 | ✅ Landslides | Failure of weathered debris on steep slopes | Himalaya and Western Ghats; monsoon-triggered |
 | ✅ Subsidence | Weathered, water-saturated debris overloaded by construction | Joshimath sinking in source note |
-| ✅ Groundwater over-extraction | Withdrawal exceeds replenishment | CGWB: groundwater is a prime source of drinking water and irrigation; 92% withdrawal for irrigation in query passage |
+| ✅ Groundwater over-extraction | Withdrawal exceeds replenishment | Irrigation is the dominant withdrawal use; attach the year and CGWB assessment when quoting a percentage |
 | ✅ Groundwater contamination | Waste, fluids and contaminated water infiltrate aquifers | Disposal through wells/sinkholes can contaminate aquifers |
 | ✅ Liquefaction | Saturated loose sand loses strength during strong shaking | Bhuj 2001 in source note |
 
@@ -43,7 +43,8 @@
 - ✅ Erosion sequence: sheet → rill → gully → ravine (Chambal badlands).
 - ✅ Wind erosion transport: surface creep, saltation, suspension (Rajasthan).
 - ✅ Landslide hot-spots: Himalaya & Western Ghats (monsoon-triggered).
-- ✅ Joshimath = land subsidence on weathered, over-loaded slope (ISRO/NRSC).
+- ✅ Joshimath = subsidence in a settlement built partly on old landslide/debris material, aggravated by
+  drainage, construction and slope instability; no single trigger explains the whole crisis.
 - ✅ Groundwater threats: over-extraction + aquifer contamination via sinkholes/wells.
 - ✅ Liquefaction of saturated sands worsens quake damage (Bhuj 2001).
 
@@ -61,7 +62,9 @@
 
 
 **Advanced — India's Soil Erosion, Landslides & Groundwater Stress (D.R. Khullar).**
-📰 Joshimath (Uttarakhand) land-subsidence crisis — ISRO/NRSC satellite data showed the town sinking, cracking hundreds of buildings; it exemplifies mass movement on weathered, over-loaded Himalayan slopes (distinct from the Dharali/Katra landslides in the Must-Do note).
+📰 Joshimath (Uttarakhand) remains the distinct advanced anchor: satellite and field observations
+documented subsidence, while expert assessments stressed old landslide material, poor drainage,
+construction loading and slope instability rather than a single-cause explanation.
 
 ## 7. Coastal aquifers and direct PYQ routing
 

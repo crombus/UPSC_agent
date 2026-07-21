@@ -5,7 +5,8 @@
 > site + comparison); aniconism-to-iconism as an interpretive argument;
 > Nataraja and Chandella sculpture as comparative case studies.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 189-214; `00_Master-Framework.md` Sections 4-5; audited UPSC Mains 2025
+> 189-214; R.S. Sharma, *India's Ancient Past*, PDF pp. 211-223, 347-355;
+> `00_Master-Framework.md` Sections 4-5; audited UPSC Mains 2025
 > GS Paper I (supports Topic 03).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/06_Sculpture-Pottery-and-Iconography.md`.*
@@ -29,7 +30,7 @@ to embody a comprehensive vision of sacred and secular life").
 
 | Term | Precise meaning |
 |---|---|
-| ✅ **Aniconic-to-iconic argument** | Early Buddhist art (Bharhut, early Sanchi) represented the Buddha only through symbols; Gandhara/Mathura sculpture introduced figural representation — this shift is not merely stylistic but reflects a change in how devotional focus was mediated (symbol vs. image) (developed architecturally in topic 02, sculpturally here). |
+| ✅ **Aniconic-to-iconic argument** | Early Buddhist programmes frequently represented the Buddha through symbols; anthropomorphic images emerged in Gandhara and Mathura in broadly overlapping early-CE contexts. Avoid treating either school as the uncontested sole origin. |
 | ✅ **Tribhanga posture** | A "three-bend" body posture (used extensively at Amaravati, and seen in the Harappan Dancing Girl) conveying dynamism and grace — a specific, namable posture rather than generic "graceful pose" (*Nitin…pdf*, PDF pp. 192, 204). |
 | ⚠️ **Iconographic attribute reading (avayudha method)** | Reading a Hindu deity's identity through carried attribute/symbol (Shiva through linga, Vishnu through specific avatars) rather than through inscription alone — the Mathura school's signature interpretive technique, reusable wherever an unlabelled sculpture must be identified. |
 | ✅ **Chronological correction technique** | Using the Ravana Phadi Cave Nataraja (early Chalukya) to correct the common assumption that Chola patronage originated, rather than perfected, Nataraja iconography (*Nitin…pdf*, PDF p. 211) — a model for how advanced answers should distinguish "origin" from "peak development." |
@@ -39,7 +40,7 @@ to embody a comprehensive vision of sacred and secular life").
 | Case | Material/technique | Posture/gesture | Patron/site | Comparative point |
 |---|---|---|---|---|
 | ✅ Nataraja (Chola bronze) | Cire-perdue bronze | Tandava, bhujangatrasita leg stance, multiple symbolic hand gestures | Chola temples (Chidambaram, Thanjavur) | Peak development of an Aihole-originated (Chalukya) iconographic form |
-| ✅ Khajuraho figural sculpture | Sandstone relief, high-relief carving | Dynamic, twisting, multi-postured figures across secular and sacred registers | Chandella (topic 03) | "Resilient vigour" = posture dynamism; "breadth of life" = subject-range comprehensiveness |
+| ✅ Khajuraho figural sculpture | Sandstone relief, often high relief | Dynamic, flexed, multi-postured figures across sacred, courtly and everyday registers | Chandella (topic 03) | "Resilient vigour" = rhythmic modelling; "breadth of life" = subject-range comprehensiveness |
 | ✅ Gandhara Buddha | Grey stone/stucco | Static, serene, Greco-Roman-influenced drapery | Kushana patronage | Contrast: composed stillness vs. Khajuraho/Chola dynamism |
 | ✅ Mathura Yaksha (Parkham) | Red sandstone | Frontal, monumental, "massive strength and gravity" (*Nitin…pdf*, PDF p. 198) | Mauryan-period popular cult | Early precedent for the scale and physical presence later seen in temple sculpture |
 
@@ -119,6 +120,12 @@ entirely in strengthening topic 03's and topic 09's answers.
   contextual/inscriptional evidence. -> Use avayudha/attribute reading as
   a *supporting* method, not a substitute for an available inscription or
   documented provenance.
+- ❌ Treating traditional museum labels as decoded Harappan identities. ->
+  "Pashupati," "Mother Goddess" and "Priest-King" are hypotheses or
+  conveniences, not readings from the undeciphered script.
+- ❌ Assigning Didarganj automatically to the Mauryas. -> Its polish supports
+  that attribution, but stylistic and chronological arguments for later
+  dating remain; state the debate.
 
 ## 10. Mains answer frameworks
 

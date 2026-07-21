@@ -55,11 +55,11 @@ at declaration without delivery infrastructure.
 | Concept | Precise meaning |
 |---|---|
 | ✅ **NALSA judgment vs 2019 Act** | NALSA (2014) is a Supreme Court directive recognising constitutional rights; the 2019 Act is Parliament's statutory response — distinct in legal authority (judicial vs legislative), scope (constitutional principles vs detailed provisions) and enforceability. |
-| ✅ **Self-perceived gender (2019 Act) vs medical certification (earlier drafts)** | The 2019 Act adopted a self-declaration route via District Magistrate, not a medical/surgical gate; this was a significant departure from earlier Bill drafts that required medical screening. |
+| ✅ **Self-perceived gender (2019 Act) vs medical certification (earlier drafts)** | The basic transgender certificate is issued by the District Magistrate on self-perceived identity, not a surgery requirement. Section 7 separately permits a revised male/female certificate after medical intervention; distinguish the two routes. |
 | ⚠️ **Certificate-based recognition vs automatic recognition** | Under the 2019 Act, a person must apply to the DM for a certificate — a gate that critics argue medicalises/bureaucratises identity; automatic self-declaration (as in some international models) would remove this step. |
 | ✅ **"Denotified" vs "decriminalised"** | Denotification (1952) repealed the Criminal Tribes Act label but did not provide rehabilitation or remove social stigma; decriminalisation would imply wrongful-conviction remedy, which did not occur. |
 | ⚠️ **Advisory body vs statutory commission** | DWBDNC is an advisory welfare board under MoSJE, not a statutory commission with quasi-judicial powers; Idate Commission recommended a permanent statutory commission, which has not been enacted. |
-| ⚠️ **Visible vs invisible minorities** | Transgender persons are socially visible but legally marginalised; DNT/NT/SNT communities are often socially and administratively invisible — absent from caste lists, BPL lists and even Census enumerations. |
+| ⚠️ **Visible vs invisible minorities** | Transgender persons can be socially visible but legally marginalised; DNT/NT/SNT communities can be administratively invisible because classifications, documents and State lists are fragmented. Do not make an unsupported claim that they are simply absent from every Census or welfare list. |
 
 ## 3. Detailed causal chains and failure modes
 
@@ -67,9 +67,10 @@ at declaration without delivery infrastructure.
 1. **DM-certificate bottleneck:** District Magistrates may lack sensitisation, causing
    delays, discretionary rejections or invasive questioning during the certificate
    application process.
-2. **Anti-discrimination enforcement gap:** Section 3 prohibits discrimination, but no
-   dedicated enforcement machinery (inspectorate, penalties for non-compliance by
-   employers) exists; victims must approach courts.
+2. **Anti-discrimination enforcement gap:** Section 3 prohibits discrimination and the
+   Act requires an establishment complaint officer, but awareness, independence and
+   effective remedy remain weak; a formal complaint route is not the same as accessible
+   enforcement.
 3. **Shelter coverage gap:** Garima Greh shelters are limited in number and geographic
    spread; transgender persons outside major urban centres may lack access.
 4. **Livelihood integration gap:** SMILE's skill-training component exists but linkages
@@ -92,8 +93,9 @@ at declaration without delivery infrastructure.
 - ✅ **National Council for Transgender Persons (2019 Act):** Advisory body chaired by
   Union Minister for Social Justice; includes transgender community representatives,
   state nominees and ministry officials; lacks quasi-judicial or enforcement powers.
-- ✅ **DWBDNC (2019):** Welfare board under MoSJE; undertakes surveys, coordinates SEED
-  implementation and advises on policy — but is not a statutory commission.
+- ✅ **DWBDNC (constituted 21 February 2019):** Welfare Board under MoSJE; undertakes
+  surveys, coordinates SEED implementation and advises on policy — but is not a statutory
+  commission.
 - ⚠️ Recommended reform: convert DWBDNC into a permanent statutory commission (on the
   NCSC/NCST model) with powers to receive complaints, conduct inquiries and issue
   binding directions.
@@ -129,9 +131,10 @@ at declaration without delivery infrastructure.
   2019 Act did not fully adopt this direction.
 - ✅ The Idate Commission (2015) recommended a permanent statutory commission for DNT
   communities; DWBDNC (2019) is an advisory board, not a statutory commission.
-- ✅ The 2019 Act's certificate route removed the medical-screening requirement present
-  in earlier Bill drafts.
-- ✅ SEED (2022) is the first central-level dedicated welfare scheme for DNT communities.
+- ✅ The basic 2019 Act certificate route does not require surgery; Section 7's revised
+  male/female certificate after medical intervention is a distinct route.
+- ✅ SEED, launched 16 February 2022, has free coaching, health-insurance facilitation,
+  community-livelihood and housing/land components.
 
 ## 8. Advanced Prelims traps
 
@@ -146,10 +149,10 @@ at declaration without delivery infrastructure.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Garima Greh shelter numbers and SEED beneficiary counts change as schemes expand;
-  no fixed current figure is asserted here. The durable analytical point is the gap
-  between statutory recognition (Act/scheme exists) and delivery reach (shelter/benefit
-  coverage remains limited).
+- 📰 **Status check (21 July 2026):** SMILE and SEED are active delivery routes, and
+  DWBDNC remains a non-statutory advisory Board. Shelter and beneficiary totals are
+  dynamic; the analytical point is the gap between a legal/scheme route and accessible
+  delivery, not an undated portal number.
 - ⚠️ No direct GS-II Mains PYQ in 2024-2025 on transgender or DNT welfare; the probable
   questions below anticipate UPSC framing.
 

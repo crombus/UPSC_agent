@@ -3,7 +3,8 @@
 > **Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II.
 > **Core area:** Donors, charities, trusts, foundations and CSR as non-state actors in the
 > development process.
-> **Grounded in:** Indian Trusts Act, 1882; Societies Registration Act, 1860; Companies Act,
+> **Grounded in:** state public-trust/charitable-endowment law; Societies Registration Act,
+> 1860 and state variants; Companies Act,
 > 2013 (Section 8 companies and Section 135 CSR); audited 2024 GS-II PYQ; official UPSC
 > GS-II syllabus ("development processes and the development industry — role of NGOs...").
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
@@ -23,8 +24,8 @@
   BILATERAL/     PUBLIC          PRIVATE            CORPORATE
   MULTILATERAL   CHARITABLE      FOUNDATIONS        SOCIAL
   DONORS         TRUSTS          & FAMILY            RESPONSIBILITY
-  (World Bank,   (Trusts Act,    PHILANTHROPY        (Companies Act
-  ADB, UN         1882)                               2013, s.135)
+  (World Bank,   (state trust/   PHILANTHROPY        (Companies Act
+  ADB, UN        endowment law)                       2013, s.135)
   agencies)
         |            |               |                   |
         ------------------------------------------------
@@ -46,7 +47,7 @@ intervention is genuinely inclusive or narrowly donor-driven.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Development industry** | The ecosystem of donors, multilateral/bilateral agencies, charitable trusts, foundations, corporate CSR programmes and implementing NGOs that collectively fund and deliver development interventions alongside the state. |
-| ✅ **Public charitable trust** | A trust created under the Indian Trusts Act, 1882 (or state public trusts acts) for a public charitable purpose (relief of poverty, education, medical relief, advancement of any other object of general public utility); governed by trustees who hold and apply trust property for the stated purpose. |
+| ✅ **Public charitable trust** | A trust/endowment for a public charitable purpose, governed through the trust deed, applicable state public-trust/endowment law and general legal principles. **Section 1 of the Indian Trusts Act, 1882 expressly excludes public or private religious or charitable endowments**; the 1882 Act should not be cited as a uniform national incorporation statute for public charitable trusts. |
 | ✅ **Society** | A voluntary association of persons registered under the Societies Registration Act, 1860 (or state variants) for a charitable, literary, scientific or similar object — a common legal form for NGOs. |
 | ✅ **Section 8 company** | A company registered under Section 8 of the Companies Act, 2013 for promoting charitable objects, which is prohibited from distributing profits to its members — commonly used by larger NGOs and foundations. |
 | ✅ **Corporate Social Responsibility (CSR)** | Under Section 135 of the Companies Act, 2013, companies meeting specified net worth/turnover/net profit thresholds must spend at least 2% of average net profits of preceding years on CSR activities listed in Schedule VII, often channelled through implementing NGOs/trusts. |
@@ -73,8 +74,9 @@ intervention is genuinely inclusive or narrowly donor-driven.
 
 ## 4. Institutions and tools
 
-- ✅ **Indian Trusts Act, 1882** and state Public Trusts Acts — the primary legal
-  architecture for public charitable trusts.
+- ✅ **State public-trust/endowment laws and general trust principles** — the applicable
+  registration/supervision framework varies by state. The Indian Trusts Act, 1882 principally
+  concerns private trusts and expressly excludes charitable/religious endowments.
 - ✅ **Societies Registration Act, 1860** — legal form for a very large share of Indian NGOs.
 - ✅ **Companies Act, 2013, Section 8** — the "not-for-profit company" form used by larger,
   professionally governed foundations and NGOs.
@@ -100,8 +102,8 @@ intervention is genuinely inclusive or narrowly donor-driven.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ Public charitable trusts in India are governed under the Indian Trusts Act, 1882 (and
-  state public trusts acts), not under company law.
+- ✅ The Indian Trusts Act, 1882 is **not** a uniform governing statute for public charitable
+  endowments; state law, the deed and other applicable charitable/endowment law govern.
 - ✅ Section 8 of the Companies Act, 2013 permits incorporation of companies for charitable
   objects, prohibiting profit distribution to members.
 - ✅ Section 135 of the Companies Act, 2013 mandates CSR spending of at least 2% of average
@@ -112,8 +114,11 @@ intervention is genuinely inclusive or narrowly donor-driven.
 ## 7. UPSC traps
 
 - ❌ NGOs, societies, trusts and Section 8 companies are legally identical. -> They are
-  distinct legal forms under different statutes (Trusts Act, Societies Registration Act,
+  distinct legal forms under different regimes (state trust/endowment law, societies law,
   Companies Act) with different governance and reporting requirements.
+- ❌ Every public charitable trust is incorporated under the Indian Trusts Act, 1882. ->
+  Section 1 excludes public/private religious or charitable endowments; verify the relevant
+  state public-trust/endowment regime.
 - ❌ CSR funding is voluntary corporate charity with no legal basis. -> Since the Companies
   Act, 2013, CSR spending is a statutory obligation (not mere voluntary philanthropy) for
   companies crossing the specified financial thresholds.
@@ -126,9 +131,9 @@ intervention is genuinely inclusive or narrowly donor-driven.
 
 ## 8. 📰 Current anchor
 
-- 📰 Track the latest Ministry of Corporate Affairs CSR compliance/impact-assessment
-  reporting requirements (CSR-2 filing, impact assessment for large CSR projects) before
-  citing specific current compliance mechanics in an answer.
+- 📰 **Status checked 21 July 2026:** CSR-2 reporting and rule-based impact-assessment
+  requirements remain part of the MCA CSR framework. Their thresholds come from amended
+  Companies (CSR Policy) Rules, not from section 135 alone; cite the rule and reporting year.
 
 ## 9. PYQ application
 

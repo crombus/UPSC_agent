@@ -3,8 +3,8 @@
 > **Subject:** Indian Society | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I.
 > **Core area:** Forms of diversity in Indian society, unity-in-diversity as a lived
 > arrangement, and the link between cultural diversity and socio-economic marginality.
-> **Grounded in:** Census of India (2011, last full count); Ministry of Tribal Affairs
-> PVTG list; audited 2024 GS-I Mains PYQ.
+> **Grounded in:** Census of India (2011, last full count); Census 2027 Gazette/PIB
+> announcement; Ministry of Tribal Affairs PVTG list; audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/01_Salient-Features-and-Diversity-of-Indian-Society.md`.*
 
@@ -15,7 +15,7 @@
 ```text
 FORMS OF DIVERSITY IN INDIA
    |
-   +-- Racial/ethnic
+   +-- Ethnic/ethno-linguistic
    +-- Linguistic (families, dialects)
    +-- Religious (major faiths + sects)
    +-- Regional (physiographic, cultural zones)
@@ -38,7 +38,7 @@ FORMS OF DIVERSITY IN INDIA
 ```
 
 **Core proposition:** ⚠️ Indian diversity is not a single axis but several overlapping
-axes (race, language, religion, region, caste/tribe); social cohesion depends on whether
+axes (ethnicity, language, religion, region, caste/tribe); social cohesion depends on whether
 these axes reinforce each other into compounded disadvantage or cut across each other so
 that no single identity always predicts deprivation.
 
@@ -46,7 +46,7 @@ that no single identity always predicts deprivation.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Diversity** | The objective presence of multiple racial, linguistic, religious, regional or caste/tribe identities within one society. |
+| ✅ **Diversity** | The objective presence of multiple ethnic, linguistic, religious, regional or caste/tribe identities within one society. |
 | ✅ **Plurality** | A social condition where multiple identities coexist with mutual recognition, distinct from mere numerical diversity. |
 | ⚠️ **Unity-in-diversity** | A civilisational and constitutional aspiration that difference need not produce division if integrative institutions are strong. |
 | ⚠️ **Marginality** | Socio-economic exclusion from mainstream opportunity, resources or voice, often but not always tied to an identity group. |
@@ -55,23 +55,26 @@ that no single identity always predicts deprivation.
 
 ## 3. How Indian diversity is structured
 
-1. **Racial/ethnic layer:** Indian population draws on Proto-Australoid, Mongoloid,
-   Mediterranean and Nordic/Indo-Aryan physical-anthropological strands; ⚠️ this layer is
-   now sociologically secondary to language, religion and caste in everyday identity.
-2. **Linguistic layer:** ✅ Four major language families are spoken in India — Indo-Aryan,
-   Dravidian, Austroasiatic and Tibeto-Burman — with the Eighth Schedule recognising 22
-   languages (constitutional listing itself is Polity's territory).
+1. **Ethnicity and ancestry:** ⚠️ Older physical-anthropology labels such as
+   “Proto-Australoid” or “Mongoloid” are not a sound way to describe contemporary Indian
+   society. Use self-identification, language, culture and regional history; official Census
+   operations do not classify Indians into biological “races.”
+2. **Linguistic layer:** ✅ Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the
+   four large families commonly used in UPSC texts; this is not an exhaustive taxonomy of all
+   Indian languages. The Eighth Schedule recognises 22 languages (constitutional listing
+   itself is Polity's territory).
 3. **Religious layer:** ✅ Hinduism, Islam, Christianity, Sikhism, Buddhism, Jainism and
    Zoroastrianism coexist, each with internal sectarian variation, plus tribal faiths.
 4. **Regional layer:** ⚠️ Physiographic and cultural-zone diversity (Himalayan, Indo-Gangetic,
    peninsular, coastal, island) produces distinct cuisines, dress, festivals and social norms.
-5. **Caste/tribe layer:** ✅ Over 2,000 caste groups and hundreds of Scheduled Tribes
-   overlay the other layers, so a person's location on one axis rarely determines their
-   location on another — this cross-cutting is what keeps diversity from automatically
-   becoming conflict.
-6. **Layering outcome:** ⚠️ Where axes are cross-cutting (a poor Brahmin, a wealthy Dalit
-   trader), diversity stays plural; where axes are reinforcing (a tribal household that is
-   also remote, low-literacy and land-poor), diversity compounds into marginality.
+5. **Caste/tribe layer:** ✅ Thousands of locally situated jatis and constitutionally
+   notified Scheduled Tribes overlay the other layers; there is no current all-India count of
+   all jatis that should be quoted as a settled fact. Their intersections can be
+   cross-cutting or reinforcing.
+6. **Layering outcome:** ⚠️ Cross-cutting identities can reduce the chance that one identity
+   predicts every disadvantage, but do not guarantee harmony. Where identities reinforce
+   (for example, remoteness, low schooling and asset poverty affecting a tribal household),
+   diversity can become a visible marker of marginality.
 
 ## 4. Integrative and marginalising mechanisms
 
@@ -114,8 +117,10 @@ that no single identity always predicts deprivation.
   rationalised into 121 languages spoken by 10,000 or more persons.
 - ✅ Scheduled Tribes formed about 8.6% and Scheduled Castes about 16.6% of India's
   population at Census 2011 — the most recent verified full-Census figures.
-- 📰 Census 2027 is India's next Census; it is prospective, planned to be digital, and will
-  for the first time include caste enumeration; no results exist yet.
+- 📰 The Government announced caste enumeration in the forthcoming Census 2027. This is not
+  the first caste count in Indian history; it is a new all-India enumeration after
+  post-Independence Censuses did not enumerate all castes. No results exist as of 21 July
+  2026.
 
 ## 7. UPSC traps
 
@@ -128,16 +133,17 @@ that no single identity always predicts deprivation.
 - ❌ Every minority or tribal group is automatically marginalised. -> Marginality is
   conditional on historical exclusion and access, not an automatic consequence of being
   culturally distinct — several diverse communities are economically prosperous.
-- ❌ India's diversity is only religious and linguistic. -> Regional, racial/ethnic and
+- ❌ India's diversity is only religious and linguistic. -> Regional, ethnic/ethno-linguistic and
   caste/tribe axes are equally salient and often analytically more decisive for marginality
   outcomes than religion or language alone.
 
 ## 8. 📰 Current anchor
 
-- 📰 Census 2027 has been notified as a two-phase, digital exercise that will, for the first
-  time, enumerate caste; the reference date is 1 March 2027 for most of India and
-  1 October 2026 for snow-bound areas. No enumeration has occurred and no results exist as
-  of 17 July 2026 — do not cite any caste-count figure from this exercise.
+- 📰 Gazette S.O. 2681(E) (16 June 2025) fixes Census 2027 reference dates at 1 October 2026
+  for Ladakh and specified snow-bound areas, and 1 March 2027 elsewhere. PIB's 30 April 2025
+  announcement confirms caste enumeration. It remains prospective as of 21 July 2026; do not
+  cite a caste-count figure or imply that the exercise is India's first historical caste
+  enumeration.
 
 ## 9. PYQ application
 
@@ -150,6 +156,8 @@ that no single identity always predicts deprivation.
 - ⚠️ Always separate "diversity as fact" from "marginality as outcome" before answering any
   diversity-linked question.
 - ⚠️ Use cross-cutting versus reinforcing identity axes as the core analytical device.
+- ⚠️ Label Census 2011 stocks, forthcoming Census 2027 operations and survey estimates
+  separately; none alone establishes that identity *causes* deprivation.
 - ⚠️ Anchor examples in named, verifiable groups rather than generic claims.
 
 > **Answer thesis:** India's cultural diversity correlates with socio-economic marginality

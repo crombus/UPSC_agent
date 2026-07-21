@@ -9,14 +9,15 @@
 
 ## 1. Shape & Motions of the Earth (G.C. Leong)
 
-✅ The Earth is a **near-sphere — an oblate spheroid / geoid**: flattened at the poles, bulging at the
-equator. Proofs of sphericity: circular horizon, ships' hulls vanishing first, curved shadow in lunar
+✅ The Earth is approximately an **oblate spheroid**: flattened at the poles and bulging at the
+equator. A **geoid** is the irregular, gravity-defined mean-sea-level surface, not simply another name
+for an oblate spheroid. Proofs of broad sphericity include the circular horizon, ships' hulls vanishing first, curved shadow in lunar
 eclipses, photos from space.
 
 ✅ Two motions drive time and seasons:
 - **Rotation** — spin on axis, ~24 hours (~1,675 kmph at equator) → **day & night**.
 - **Revolution** — orbit round the Sun, **365.25 days** → **the year** (leap-year adjustment).
-- **Axial tilt** = **23.5°** from the vertical to the orbital plane → **seasons** and changing day length.
+- **Axial tilt** = about **23.5° from the perpendicular to the orbital plane** (66.5° to the plane) → **seasons** and changing day length.
 
 > 🔑 Trap: **Rotation causes day & night**; the **23.5° tilt + revolution** cause seasons — *not* rotation.
 
@@ -36,7 +37,8 @@ eclipses, photos from space.
 
 ## 3. Origin of the Universe & Earth's Interior (Majid Husain)
 
-✅ **Big Bang (~15 billion years ago)** → matter expanded into billions of galaxies. The solar system
+✅ The **Big Bang** marks the expansion of the universe from an extremely hot, dense early state; modern
+estimates place its age at about **13.8 billion years**. The solar system
 formed by **gravitational collapse of a cold gas–dust cloud** (mainly H & He) in a Milky Way spiral arm.
 ✅ Inner **terrestrial** planets = rock/metal (crystallised hot); outer **Jovian** planets = gas/ice
 condensates (cold).
@@ -46,14 +48,14 @@ condensates (cold).
 | ✅ Crust | Surface → Moho (~35 km avg) | Rigid; <1% of Earth's volume |
 | ✅ Mantle | ~35 km → 2900 km | Solid rock + magma; density 3.3–5.7 |
 | ✅ Outer core | 2900 km → ~5150 km | **Liquid** nickel-iron (NiFe) |
-| ✅ Inner core | ~5150 km → centre | **Solid** NiFe; ~2700°C+ |
+| ✅ Inner core | ~5150 km → centre | **Solid** iron-nickel alloy under immense pressure |
 
 ✅ **Moho** = crust/mantle boundary (~35 km). ✅ **Gutenberg discontinuity** (~2900 km) = mantle/outer-core boundary.
 ✅ **S-waves** (shear) cannot pass liquids and vanish at 2900 km → **outer core is liquid**; **P-waves** pass through all layers.
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Earth's true shape = **oblate spheroid / geoid**.
+- ✅ Earth's geometric approximation = **oblate spheroid**; geoid = gravity-defined mean-sea-level surface.
 - ✅ Rotation ≈ 24 h (day-night); Revolution = 365.25 days (year); tilt 23.5° (seasons).
 - ✅ **15° longitude = 1 hour**; IST meridian = **82.5°E (UTC+5:30)**.
 - ✅ International Date Line ≈ **180°** meridian.

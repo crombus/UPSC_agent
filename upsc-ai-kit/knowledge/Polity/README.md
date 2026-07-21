@@ -22,8 +22,15 @@ Every advanced topic must have a foundation companion in `basic/`. For Topic 46,
 
 ## Source discipline
 
+- Static coverage was rechecked directly against the local **M. Laxmikanth, Indian
+  Polity, Sixth Revised Edition** PDF; the book's post-2019 institutional counts are
+  not treated as current law.
 - ✅ Constitutional/statutory facts must be traceable to the Constitution, India Code,
   an official judgment or an official institutional source.
-- 📰 Current anchors must carry a date or status date.
-- Verified PYQs must state year, paper, question number, marks and word limit.
+- 📰 Post-edition claims must carry a date/status date and identify the official
+  institution, Gazette/India Code source, or court judgment used.
+- Verified PYQs must state year, paper, question number, marks and word limit and be
+  checked against the official UPSC paper.
 - ⚠️ Practice prompts must never be labelled as actual PYQs.
+- Constitutional text, statute, rule, convention, judicial interpretation and current
+  institutional practice must be labelled distinctly; a proposal or Bill is not law.

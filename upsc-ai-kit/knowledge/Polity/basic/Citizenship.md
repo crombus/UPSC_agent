@@ -13,7 +13,7 @@
 | ✅ Constitution covers | only **who were citizens on 26 Jan 1950** |
 | ✅ Rest handled by | **Citizenship Act, 1955** (amended often) |
 | ✅ Type | **Single citizenship** (like Canada) — no state citizenship |
-| ✅ Dual citizenship | **Forbidden (Art 9)** — OCI is NOT dual citizenship |
+| ✅ Dual citizenship | India does not recognise it under the Citizenship Act; **Art 9** addresses voluntary foreign citizenship at commencement. OCI is NOT dual citizenship |
 
 ## Core idea
 ✅ Constitution gives **no permanent/elaborate** rules — it just names the four categories of people who
@@ -44,9 +44,10 @@ Telangana); (2) state concessions to residents (fees); (3) Art 19 curbs in **tri
 - ✅ **L.M. Singhvi Committee** → led to OCI (2003); PIO+OCI merged in **2015**.
 
 ## 📰 Current link — CAA 2019 ⭐
-📰 ✅ **Citizenship (Amendment) Act 2019:** fast-track citizenship for **6 communities (Hindu, Sikh,
+📰 ✅ **Citizenship (Amendment) Act 2019:** creates a facilitated application route for **6 communities (Hindu, Sikh,
 Buddhist, Jain, Parsi, Christian)** from **Pakistan, Bangladesh, Afghanistan** who entered India **by
 31 Dec 2014**. 📰 **Rules notified March 2024; first certificates issued May 2024.** ⚠️ Challenged in
-SC on Art 14 (excludes Muslims) grounds.
+SC on Art 14 grounds. It does **not automatically confer citizenship**; statutory
+eligibility, application and scrutiny remain necessary.
 
 ➡️ For acquisition/loss detail, OCI, Art 35A & full CAA analysis → `advanced/06_Citizenship.md`.

@@ -21,7 +21,8 @@ Hemisphere). Two sub-divisions:
 
 - ✅ **Very low mean annual temperature**; the **warmest month (June/July) seldom exceeds ~50°F (10°C)**.
 - ✅ **No more than ~4 months** rise above freezing; **long, severe winters** (colder in the interior).
-- ✅ **Precipitation is low and mainly snow**, falling in winter and **drifted by wind**; **blizzards** are common.
+- ✅ **Precipitation is low**, much of it snow; seasonal maximum varies by region, and wind redistributes
+  snow into drifts. **Blizzards** are wind-and-snow events, not simply heavy snowfall.
 
 > 🔑 Trap: The polar climate is a **cold desert** — precipitation is **low** (mostly snow), not heavy.
 
@@ -33,8 +34,8 @@ survive. ✅ Coastal lowlands carry **hardy grasses and "reindeer moss" (lichen)
 
 ## 4. People & key terms
 
-- ⚠️ Inhabitants: **Eskimos (Inuit)** of Greenland/Canada; **Lapps, Samoyeds** of Eurasia — traditionally
-  hunting, fishing and **reindeer herding**; new mining settlements have sprung up with mineral discoveries.
+- ⚠️ Use current community names: **Inuit** in Greenland/Canada/Alaska, **Sámi** in northern Fennoscandia
+  and **Nenets** and other Indigenous peoples in Arctic Russia. Older textbook exonyms may be inappropriate.; new mining settlements have sprung up with mineral discoveries.
 - ✅ Key terms (Leong): **blizzards, permafrost, midnight sun, ice cap, snow-blindness, kayaks.**
 
 ## 5. Must-Know Facts (Prelims)
@@ -42,7 +43,7 @@ survive. ✅ Coastal lowlands carry **hardy grasses and "reindeer moss" (lichen)
 - ✅ Polar climate lies **mainly north of the Arctic Circle**; ice-cap (Greenland) vs tundra (lowlands).
 - ✅ **Warmest month < ~10°C**; ≤ 4 months above freezing; **low snow precipitation → cold desert**.
 - ✅ Tundra = **treeless**; mosses, lichens (**reindeer moss**), dwarf shrubs; **permafrost** below.
-- ✅ Peoples: **Eskimos/Inuit, Lapps, Samoyeds**; reindeer herding.
+- ✅ Peoples: **Inuit, Sámi, Nenets and other Arctic Indigenous communities**; livelihoods are diverse.
 
 ## 6. UPSC Traps
 
@@ -53,11 +54,9 @@ survive. ✅ Coastal lowlands carry **hardy grasses and "reindeer moss" (lichen)
 
 ## 7. 📰 Current link
 
-📰 **Arctic meltdown, 2025.** The Arctic is warming **~4× the global average**; **Oct 2024–Sep 2025** was
-its **warmest in 125 years**. On **22 Mar 2025** Arctic sea ice hit a **record-low winter maximum
-(14.33 million km²)** in the 47-year satellite record, and **Greenland** logged its **29th consecutive
-year of net ice loss** (~105 Gt in 2024–25). Snow cover and old thick ice are collapsing — a stark
-signal from the polar climate zone with global sea-level and monsoon implications.
+📰 **Arctic amplification:** the Arctic has warmed several times faster than the global mean in recent
+decades, with declining sea ice, ice-sheet mass loss and permafrost thaw. Exact record dates, extents
+and mass balances require the annual NOAA/NSIDC/IMBIE release.
 
 ## 8. Mains angles
 

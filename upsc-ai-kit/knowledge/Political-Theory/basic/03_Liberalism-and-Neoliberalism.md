@@ -45,7 +45,7 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 | Classical / negative liberalism | ✅ The laissez-faire strand that confines the state to protection of life, property, contract and minimal common services (Gauba, PDF p.41). |
 | Welfare / positive liberalism | ✅ The strand that gives the state a positive role in securing a dignified life, welfare and self-development (Gauba, PDF p.41). |
 | Welfare state | ✅ A state that provides social security, education, health and other public services to secure social well-being (Gauba, PDF p.41). |
-| Neoliberalism / neo-classical liberalism / libertarianism | ✅ Gauba uses these closely for the contemporary restoration of laissez-faire individualism and rollback of the interventionist welfare state (Gauba, PDF pp.42-43). |
+| Neoliberalism / neo-classical liberalism / libertarianism | ✅ Gauba groups these closely as a restoration of laissez-faire and welfare-state rollback (Gauba, PDF pp.42-43). ⚠️ For conceptual precision, market neoliberalism (Hayek/Friedman) and rights-based libertarianism (Nozick) overlap but are not identical. |
 | Constitutionalism | ✅ Organization of the state according to a constitution so that power is structured and limited rather than arbitrary (Gauba, PDF p.45). |
 
 ## 4. Core argument / chapter spine
@@ -66,6 +66,7 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 | Welfare liberalism vs neoliberalism | ✅ Welfare liberalism expands state responsibility; neoliberalism wants to roll back intervention and restore laissez-faire individualism (Gauba, PDF pp.42-43). |
 | Individualism vs utilitarianism | ✅ Early liberal thought develops both through rights-bearing individualism and through happiness-maximizing utilitarianism, though Mill pulls utilitarianism toward liberty and welfare reform (Gauba, PDF p.42). |
 | Capitalism vs constitutionalism | ✅ Gauba says liberalism today is invoked both as a theory of capitalism and as a theory of constitutionalism; the second has more lasting political value (Gauba, PDF p.45). |
+| Neoliberalism vs libertarianism | ⚠️ Hayek and Friedman chiefly defend market coordination and limits on welfare intervention; Nozick grounds a minimal state in self-ownership and entitlement. The labels may overlap in Gauba, but the arguments should not be treated as interchangeable. |
 
 ## 6. Thinkers and positions
 
@@ -101,6 +102,7 @@ individual moral worth | consent | rights | rule of law | anti-arbitrary power
 
 - ❌ Liberalism always means anti-state politics. -> ✅ Gauba explicitly distinguishes classical negative liberalism from welfare positive liberalism (Gauba, PDF pp.41-42).
 - ❌ Neoliberalism and liberalism are identical. -> ✅ Neoliberalism is a contemporary restoration of laissez-faire within the wider liberal family (Gauba, PDF pp.42-43).
+- ❌ Hayek, Friedman and Nozick defend one identical doctrine. -> ✅ Gauba groups them for rollback purposes, but Hayekian spontaneous order, Friedmanite market freedom and Nozickian entitlement/minimal-state reasoning remain distinct arguments.
 - ❌ Liberalism only protects property and has nothing to do with constitutionalism. -> ✅ Gauba says liberalism's lasting value survives strongly as constitutionalism and limits on arbitrary power (Gauba, PDF p.45).
 - ❌ Welfare liberalism abandoned liberty. -> ✅ Its claim is that liberty needs supportive conditions, not merely absence of restraint (Gauba, PDF p.41).
 - ❌ Gauba's criticism means liberalism has no contribution. -> ✅ He also credits it with rationalism, critique of feudalism and durable constitutional values (Gauba, PDF pp.44-45).

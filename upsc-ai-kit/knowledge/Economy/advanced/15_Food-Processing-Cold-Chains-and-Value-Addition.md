@@ -4,7 +4,7 @@
 > **Core area:** Agriculture-industry linkage.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md`.*
+> *Companion: `../basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md`.*
 
 ---
 
@@ -121,6 +121,8 @@ if procurement is concentrated or contracts transfer excessive risk to producers
   distributed infrastructure remain critical.
 - ❌ Export certification concerns only tariffs. -> Sanitary, phytosanitary, quality and
   traceability requirements matter.
+- ❌ APEDA is the domestic food-safety regulator. -> FSSAI regulates food safety; APEDA
+  supports relevant agricultural/processed-food export development and market access.
 - ❌ Higher retail value automatically reaches producers. -> Market power and contract terms
   determine value distribution.
 
@@ -137,6 +139,10 @@ if procurement is concentrated or contracts transfer excessive risk to producers
 - ⚠️ 2025 GS-III: Scope of food-processing industries and employment-generation measures.
 - ⚠️ 2025 GS-III supply-chain question provides the upstream framework for processing
   answers.
+- ⚠️ **PYQ answer engine:** scope—first-mile aggregation, processing, packaging, testing,
+  storage, cold movement, branding, retail and exports; constraints—seasonality,
+  throughput, finance, power, standards and fair contracts; employment—farm-adjacent,
+  manufacturing and service nodes.
 
 ## 11. Mains-ready framework
 
@@ -160,7 +166,7 @@ if procurement is concentrated or contracts transfer excessive risk to producers
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md`.
+- ✅ Foundation companion: `../basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md`.
 - ✅ `13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md` — aggregation and farm-market
   linkage.
 - ✅ `17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — small-enterprise finance

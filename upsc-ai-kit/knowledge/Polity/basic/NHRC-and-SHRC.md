@@ -15,7 +15,8 @@
 ## Core idea
 The **NHRC** is the statutory **"watchdog of human rights"** — it inquires into violations by public servants,
 visits jails, and promotes HR, but its recommendations are **advisory, not binding**, and it **cannot punish**.
-Each state has an **SHRC** for State/Concurrent List matters.
+The 1993 Act **permits a state government to constitute** an SHRC for State/Concurrent
+List matters; it does not mean every state necessarily has a functioning commission.
 
 > 🔑 **Statutory, not constitutional** — 1993 Act.
 > 🔑 **SHRC:** Governor appoints, **President removes**. **NHRC:** can't touch cases **older than 1 year**.
@@ -28,8 +29,7 @@ Each state has an **SHRC** for State/Concurrent List matters.
 - ✅ **Human Rights Courts** in each district (with HC Chief Justice's concurrence).
 
 ## 📰 Current link
-📰 **GANHRI recommended downgrading NHRC from "A" to "B"** (independence/pluralism/police-investigator
-concerns); final review **postponed to Nov 2026**. A downgrade would remove A-status independent
-speaking/written-submission privileges at the UN Human Rights Council and GANHRI governance rights;
-NHRIs never vote in the Council, where voting belongs to member states. This feeds the "toothless
-watchdog" reform debate.
+📰 ✅ **Status checked 21 Jul 2026:** NHRC's official site continues to describe India as
+holding GANHRI **A-status** while the review cycle remains unresolved; no official downgrade
+decision has been published. Independence, pluralism and reliance on police investigators remain
+reform concerns, but a proposed/recommended downgrade must not be reported as an accomplished fact.

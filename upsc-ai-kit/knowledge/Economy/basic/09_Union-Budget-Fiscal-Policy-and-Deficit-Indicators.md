@@ -4,7 +4,7 @@
 > **Core area:** Public finance.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`.*
+> *Companion: `../advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`.*
 
 ---
 
@@ -76,6 +76,10 @@ macroeconomic timing, transparency and the debt path—not by the fiscal-deficit
 - ✅ The Annual Financial Statement is constitutionally presented with charged and voted
   expenditure distinctions.
 - ✅ Fiscal deficit is not total public debt; it is a flow during a period.
+- ✅ In the fiscal-deficit identity, borrowing is excluded from non-debt receipts; recovery
+  of loans and disinvestment are non-debt capital receipts.
+- ✅ A Union fiscal-deficit ratio does not describe the whole general government: states,
+  local bodies and public-sector liabilities require separate treatment.
 - ✅ Capital expenditure can create assets or reduce liabilities; revenue expenditure
   generally supports current operations and transfers.
 - ✅ Effective capital expenditure adds grants used for capital-asset creation to the
@@ -110,11 +114,11 @@ macroeconomic timing, transparency and the debt path—not by the fiscal-deficit
 |---|---:|
 | Fiscal deficit, 2026-27 BE | 4.3% of GDP |
 | Fiscal deficit, 2025-26 RE | 4.4% of GDP |
-| Capital expenditure, 2026-27 BE | ₹12.2 lakh crore |
+| Capital expenditure, 2026-27 BE | ₹12.22 lakh crore |
 
 ✅ Budget estimates are policy authorisations/projections; they are not the same
-as Survey trends or realised accounts. Source: [PIB Budget highlights, 1 February
-2026](https://pib.gov.in/PressReleasePage.aspx?PRID=2221395).
+as Survey trends or realised accounts. Source: [Union Budget 2026-27 FRBM
+statement](https://www.indiabudget.gov.in/doc/frbm1.pdf).
 
 ⚠️ **Interpretation caution:** Off-budget liabilities, guarantees and delayed payments can
 make the headline deficit understate public-sector risk.
@@ -154,7 +158,7 @@ make the headline deficit understate public-sector risk.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`.
+- ✅ Advanced companion: `../advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`.
 - ✅ `10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md` — revenue and
   intergovernmental finance.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — capex quality and

@@ -1,7 +1,7 @@
 # Contemporary Geographical Issues in India — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied + current-linked) · **GS Paper:** GS-I with GS-III overlap
-> **Grounded in:** D.R. Khullar + Majid Husain for basin, regional and development geography; verified official current anchors from PIB / government sources.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified official current anchors.
 > ✅ = grounded source · ⚠️ = synthesis / answer-writing lens · 📰 = verified dated current-affairs anchor.
 > *Companion: `basic/36_Contemporary-Geographical-Issues-India.md`.*
 

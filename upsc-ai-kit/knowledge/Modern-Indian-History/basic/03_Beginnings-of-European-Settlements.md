@@ -18,7 +18,7 @@
 | ✅ 1613 | English factory at Surat after Mughal permission |
 | ✅ 1639 | English acquire Madras and build Fort St George |
 | ✅ 1664 | French Compagnie des Indes is founded under Colbert |
-| ✅ 1690 | English settlement at Calcutta/Fort William begins under Job Charnock |
+| ⚠️ 1690 | Conventional chronology links Job Charnock with the English settlement at Calcutta; the "founder" label is disputed |
 | ✅ 1746–63 | Carnatic Wars decide the Anglo-French contest in India |
 | ✅ 1760 | Wandiwash: Eyre Coote defeats Lally; French power declines |
 
@@ -62,7 +62,7 @@
 - ✅ **Albuquerque** captured **Goa in 1510**.
 - ✅ **English East India Company** was chartered in **1600** by Queen Elizabeth I.
 - ✅ **Surat factory** was established in **1613** after Mughal permission; Hawkins and Sir Thomas Roe are linked to early Mughal contacts.
-- ✅ **Madras/Fort St George** dates to **1639**; **Bombay** came to the English in **1668**; **Calcutta/Fort William** began in **1690**.
+- ✅ **Madras/Fort St George** dates to **1639**; **Bombay** was transferred by the Crown to the Company in **1668**; **1690** is the conventional date for the English settlement associated with Job Charnock at Calcutta, not an uncontested "founding" date.
 - ✅ **French Compagnie des Indes** was founded in **1664** by Colbert.
 - ✅ **Wandiwash (1760)**: Eyre Coote defeated Lally.
 - ✅ **Treaty of Paris (1763)** ended the Seven Years' War phase and curtailed French political ambitions in India.

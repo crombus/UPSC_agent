@@ -1,7 +1,7 @@
 # National Commissions (SC / ST / BC) + Linguistic Minorities (Articles 338, 338-A, 338-B, 350-B) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 47–50 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 47–50 (direct check of the local Sixth Revised Edition PDF) + official updates.
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/National-Commissions-SC-ST-BC.md`.*
 
@@ -50,8 +50,9 @@ NCSC/NCST** — and inserted **Art 342-A** (President specifies socially & educa
 ✅ Inserted by the **7th Amendment (1956)** on the **States Reorganisation Commission (1953–55)** recommendation.
 - ✅ **Special Officer for Linguistic Minorities**, appointed by the **President** → investigates safeguards for
   linguistic minorities; reports to the President → laid before Parliament & sent to states.
-- ✅ Designated **Commissioner for Linguistic Minorities** (office created 1957); **HQ at Allahabad**; under the
-  **Ministry of Minority Affairs**.
+- ✅ Designated **Commissioner for Linguistic Minorities** (office created 1957), under the
+  **Ministry of Minority Affairs**. Headquarters moved from Allahabad to **New Delhi on
+  1 June 2015** (official Ministry status checked 21 Jul 2026).
 - ⚠️ Constitution is **silent** on his qualifications, tenure, salary & removal.
 - ✅ Related: **Art 350-A** (mother-tongue primary-education facilities); **Art 29 & 30** (cultural/educational
   rights of minorities).
@@ -70,9 +71,11 @@ NCSC/NCST** — and inserted **Art 342-A** (President specifies socially & educa
   their own lists (105th Amendment).
 
 ## 📰 CA hooks
-- 📰 ⚠️ **Sub-classification of SCs — SC 7-judge bench (State of Punjab v. Davinder Singh, Aug 2024):** states **may
-  sub-classify** SCs for more targeted reservation & introduce a **creamy-layer** idea for SC/ST — huge for NCSC's
-  remit.
+- 📰 ✅ **Sub-classification of SCs — *State of Punjab v. Davinder Singh* (1 Aug
+  2024):** the seven-judge Bench overruled *E.V. Chinnaiah* and permits sub-classification
+  supported by quantifiable, demonstrable data; it cannot exclude the balance of the
+  Presidential-list class. Creamy-layer exclusion was discussed in concurring opinions and
+  earlier promotion cases, not as one unanimous ratio of all seven judges.
 - 📰 ⚠️ **Caste census** demand & the OBC/SEBC data gap — central to NCBC's mandate.
 - 📰 ⚠️ **Maratha / other quota agitations** and the **50% ceiling** (Indra Sawhney) debate.
 - 📰 ⚠️ Demand to elevate the **Linguistic Minorities** office into a full statutory commission.

@@ -4,7 +4,7 @@
 > **Core area:** Banking reform and inclusion.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md`.*
+> *Companion: `../advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md`.*
 
 ---
 
@@ -34,7 +34,7 @@ rather than account counts.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **NPA** | Loan on which interest or principal remains overdue beyond the regulatory recognition norm. |
+| ✅ **NPA** | Loan classified as non-performing under RBI prudential norms; for a term loan, interest or principal overdue for more than 90 days is the standard test. |
 | ✅ **Provisioning** | Charge against income to absorb expected loss on stressed assets. |
 | ✅ **Capital adequacy** | Capital buffer relative to risk-weighted assets. |
 | ✅ **Resolution** | Restructuring, recovery, sale or insolvency process for stressed exposure. |
@@ -81,8 +81,8 @@ rather than account counts.
 - ✅ Risk weights mean capital requirements depend on asset risk, not only total assets.
 - ✅ Insolvency resolution aims to preserve value through time-bound collective action; it is
   not merely loan recovery.
-- ✅ RBI's FI-Index uses Access, Usage and Quality, as tested in the official provisional
-  2026 key.
+- ✅ RBI's annual FI-Index uses Access, Usage and Quality; it measures more than the number
+  of accounts opened.
 
 ## 7. UPSC traps
 
@@ -102,7 +102,10 @@ rather than account counts.
 - 📰 Scheduled commercial bank GNPA was 2.2% and NNPA 0.5% by Sep 2025.
 - 📰 The Survey reports multi-decade-low asset-quality ratios while stressing calibrated
   financial regulation.
-- 📰 The 2026 provisional key confirms the FI-Index dimensions: Access, Usage and Quality.
+- 📰 RBI's FI-Index has three dimensions—Access, Usage and Quality—and no base year.
+  Its score should not be presented as a count of accounts or borrowers.
+
+Source: [RBI FI-Index release](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51984).
 
 ⚠️ **Interpretation caution:** Temporary regulatory forbearance can bridge a shock, but
 prolonged concealment creates zombie borrowers and misallocated credit.
@@ -132,8 +135,7 @@ prolonged concealment creates zombie borrowers and misallocated credit.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-
-  Inclusion.md`.
+- ✅ Advanced companion: `../advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md`.
 - ✅ `05_Banking-Structure-NBFCs-and-Financial-Regulation.md` — regulated entities and safety
   nets.
 - ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — recapitalisation and

@@ -1,7 +1,7 @@
 # Attorney General (Art 76) & Advocate General (Art 165) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 52–53 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 52–53 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Attorney-General.md`.*
 
@@ -13,7 +13,7 @@
 | Point | Detail |
 |---|---|
 | ✅ Appointed by | **President** |
-| ✅ Qualification | Qualified to be a **Supreme Court judge** (HC judge for 5 yrs / HC advocate for 10 yrs / **eminent jurist** in the President's opinion) |
+| ✅ Qualification | Qualified to be a **Supreme Court judge** (HC judge for 5 yrs / HC advocate for 10 yrs / **distinguished jurist** in the President's opinion) |
 | ✅ Term | **Not fixed** by the Constitution |
 | ✅ Removal | No procedure/grounds — holds office **during the President's pleasure** |
 | ✅ Remuneration | **Not fixed** — as the President determines |
@@ -68,8 +68,8 @@ a vote**; enjoys **MLA privileges**.
 ## UPSC Traps
 - ❌ The AG has a fixed term of 5/6 years → **no fixed term**; holds office during the **President's pleasure**.
 - ❌ The AG can vote in Parliament → **speaks but cannot vote**.
-- ❌ The Solicitor General is a constitutional or statutory post → **only the AG** is constitutional
-  (Art 76); SG/ASG are non-statutory executive law offices.
+- ❌ The Solicitor General is a constitutional or statutory post → the **AG and Advocate
+  General** are constitutional (Arts 76 and 165); SG/ASGs are non-statutory executive law offices.
 - ❌ The AG is a member of the Cabinet → he is **not**; a separate Law Minister exists.
 - ❌ The AG cannot do private practice → he **can** (not a government servant / not full-time).
 - ❌ The AG has a right of audience only in the Supreme Court → **all courts in India**.
@@ -78,8 +78,9 @@ a vote**; enjoys **MLA privileges**.
 - ❌ The AG advises state governments → he advises the **GoI**; states have the **Advocate General**.
 
 ## 📰 CA hooks
-- 📰 ⚠️ **AG's consent for contempt of court** proceedings against public figures — a recurring news point on the
-  AG's quasi-independent role.
+- 📰 ⚠️ Under section 15 of the Contempt of Courts Act, 1971, AG/SG written consent is
+  relevant to specified criminal-contempt motions before the Supreme Court; the Court may
+  also act suo motu, so consent is not a universal prerequisite.
 - 📰 ⚠️ Debate on the **AG appearing for the government vs acting as a constitutional functionary** (perceived
   politicisation of law officers).
 

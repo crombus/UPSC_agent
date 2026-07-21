@@ -46,6 +46,7 @@ or under-using the real-time responsiveness monitoring offers.
 | ✅ **Delta-ranking vs absolute-ranking** | Absolute ranking compares districts/states on their current KPI level (favouring already-advantaged units); delta-ranking compares the *rate of improvement* over a defined period (rewarding effort and progress regardless of starting position) — the Aspirational Districts Programme's explicit use of delta-ranking is a deliberate incentive-design choice to avoid penalising historical disadvantage while still driving competitive improvement. |
 | ⚠️ **Self-reported dashboard data vs independently validated data** | The Aspirational Districts Programme's KPI data is initially self-reported by district-level officers, then subject to validation by NITI-Aayog-selected agencies — a two-stage design intended to balance the speed/frequency advantage of self-reporting against the reliability advantage of independent validation, though validation capacity and rigor can vary by sector/indicator. |
 | ⚠️ **Outcome budgeting vs output budgeting vs input budgeting** | Input budgeting (traditional line-item budgeting) tracks how much money is allocated to a category; output budgeting tracks physical units produced per allocation; outcome budgeting tracks the actual change achieved relative to allocation — India's Output-Outcome Monitoring Framework represents a deliberate shift from primarily output-focused budget reporting toward outcome-focused accountability, though full outcome-budgeting maturity (with rigorously validated causal attribution) remains a work in progress across most schemes. |
+| ✅ **DMEO REESI+C+E framework** | Evaluation tests relevance, effectiveness, efficiency, sustainability, impact, coherence and equity. It prevents "impact" from being reduced to output completion and makes distributional effects explicit. |
 
 ## 3. Detailed causal chain: from output-counting to outcome-accountable governance
 
@@ -160,12 +161,10 @@ or under-using the real-time responsiveness monitoring offers.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 DMEO, the OOMF and the Aspirational Districts/Blocks Programme are permanent,
-  established features of India's monitoring-and-evaluation architecture. No fixed current
-  OOMF scheme-coverage count, Aspirational Districts/Blocks district-and-block count, or
-  KPI/sector list is asserted here, since all three are revised over time; the durable fact
-  is each instrument's fixed design logic (dual output-outcome reporting; delta-ranking;
-  independent evaluation) rather than any specific current coverage figure.
+- 📰 **Status checked 21 July 2026:** OOMF 2026-27 lists 172 major schemes at the
+  ₹500-crore-or-more threshold; ADP uses 112 districts/49 KPIs/five themes; current NITI
+  material lists 513 Aspirational Blocks. Date-stamp all figures and keep the two programmes
+  analytically separate.
 
 ## 10. PYQ-based analytical application
 
@@ -193,6 +192,8 @@ genuine outcome accountability.
    honestly.
 5. Recommend strengthened third-party evaluation and rigorous outcome-attribution methods
    as the forward reform direction.
+6. Apply REESI+C+E and publish management response, accepted actions, responsible owner and
+   follow-up date so evaluation closes the learning loop.
 
 ## 12. Probable questions
 

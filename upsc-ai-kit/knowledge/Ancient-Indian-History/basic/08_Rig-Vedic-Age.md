@@ -28,6 +28,8 @@
 
 ✅ The Rig Vedic polity was tribal: *jana* was the people/tribe, *rajan* was chief, and assemblies such as **sabha** and **samiti** checked chiefly power.
 - ✅ The economy was not yet a tax-based agrarian state economy; gifts, booty and cattle wealth mattered.
+- ✅ Other assemblies included **vidatha** and **gana**; women could attend the *sabha* and *vidatha* in R.S. Sharma's reconstruction.
+- ✅ The chief was assisted by the **purohita** and **senani**; there was no regular tax-collecting officer or standing army. Voluntary offerings were called **bali**.
 - ✅ Important gods included **Indra** (war/rain), **Agni** (sacrificial fire) and **Varuna** (cosmic order).
 - ⚠️ The famous **Battle of Ten Kings (Dasharajna)** is treated as a key Rig Vedic conflict involving Sudas and a confederacy of tribes.
 
@@ -37,6 +39,7 @@
 |---|---|
 | ✅ Economy | Pastoral; cattle wealth; limited agriculture |
 | ✅ Polity | Tribal chiefship; *jana*, *rajan*, *sabha*, *samiti* |
+| ✅ Functionaries | *Purohita*, *senani*, *gramani*; no regular tax bureaucracy |
 | ✅ Geography | Sapta-Sindhu / north-western river zone |
 | ✅ Religion | Nature gods; sacrifice; Indra, Agni, Varuna prominent |
 | ⚠️ Social order | Varna ideas begin but are not yet rigid like later Vedic society |
@@ -52,6 +55,8 @@
 - ✅ Economy was predominantly **pastoral**; cattle were the principal form of wealth.
 - ✅ *Rajan* was a tribal chief, not an absolute monarch.
 - ✅ **Sabha** and **samiti** were important assemblies.
+- ✅ *Vidatha* combined deliberative, military and religious functions; *bali* was an offering, not yet a regular land tax.
+- ✅ Agriculture was known—ploughing, sowing, harvesting and threshing occur—but cattle remained the dominant measure of wealth.
 - ✅ Major gods: **Indra, Agni, Varuna**.
 - ⚠️ Battle of Ten Kings is linked to Sudas and the Bharatas in Book 7 of the Rig Veda.
 
@@ -66,7 +71,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Vedic Heritage Portal (Ministry of Culture/IGNCA), 2025:** Official communications highlighted digital access to Vedic material, including thousands of mantras and audio-visual resources. For Rig Vedic notes, the current hook is preservation and public access to **Vedic textual heritage**, not a new archaeological discovery.
+⚠️ **Current-link discipline:** Verify any portal statistics from the responsible institution. The safe linkage is preservation of oral/textual heritage and the distinction between a preserved sacred corpus and historical reconstruction.
 
 ## 7. Mains angles
 

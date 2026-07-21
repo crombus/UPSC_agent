@@ -68,7 +68,9 @@
 
 ### CA Anchor — India's Coastal Erosion (NCCR)
 
-📰 **News trigger:** The National Centre for Coastal Research (NCCR) reports ~33.6% of India's mainland coast is eroding (West Bengal ~63%, Puducherry ~57%, Kerala ~45%, Tamil Nadu ~41%).
+📰 **News trigger (NCCR assessment period 1990–2018):** about **33.6%** of India's mainland coastline
+was classified as eroding. State percentages belong to that mapping period and should not be presented
+as timeless current rates.
 
 ✅ Coastal erosion is wave attack outpacing sediment supply — accelerated by sea-level rise, dams cutting sediment, mangrove loss and hard structures that disrupt longshore drift.
 
@@ -79,7 +81,7 @@
 ### Current-link Must-Know Facts
 
 - ✅ NCCR: ~33.6% of India's coast eroding.
-- ✅ Worst: West Bengal (~63%), Puducherry (~57%).
+- ✅ In the **1990–2018 NCCR assessment**, West Bengal and Puducherry had especially high eroding shares.
 - ✅ Cause link: sea-level rise + sediment starvation + hard structures.
 
 ### Current-link Traps
@@ -88,7 +90,9 @@
 
 ## 7. Mains angles
 
-- Explain wave erosion vs deposition and emergent/submergent coasts, applying them to India's straight submergent west coast and deltaic emergent east coast.
+- Explain wave erosion vs deposition and relative sea-level change, applying them cautiously to India's
+generally narrow, estuarine/backwater-rich west coast and broader deltaic east coast without treating
+either coast as uniformly emergent or submergent.
 - Link wave-erosion theory to India's shoreline crisis and integrated coastal-zone management.
 
 ## 8. Study link

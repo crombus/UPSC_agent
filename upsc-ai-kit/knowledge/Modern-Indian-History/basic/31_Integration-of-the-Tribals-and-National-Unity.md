@@ -13,8 +13,8 @@
 |---|---|
 | ✅ 1950 | Constitution provides safeguards — Fifth & Sixth Schedules, Article 46, reserved seats |
 | ✅ 1950 | **Jharkhand Party** founded by **Jaipal Singh**; wins 32 seats in 1952 |
-| ✅ 1952 | Nehru articulates the **Tribal Panchsheel** (five principles of tribal policy) |
-| ✅ 1955–57 | Naga insurrection (Phizo) suppressed; army deployed in the Naga Hills |
+| ✅ Early post-independence years | Nehru articulates five broad guidelines later known as the **Tribal Panchsheel** |
+| ✅ 1955–57 | Phizo-led separatists form an "independent government"; army deployed in early 1956 and the rebellion's main force is broken by mid-1957 |
 | ✅ 1963 | **Nagaland** created as a state |
 | ✅ 1966 | **Mizo National Front** (Laldenga) launches armed uprising |
 | ✅ 1972 | Meghalaya, Manipur and Tripura reorganised; NEFA renamed Arunachal Pradesh |
@@ -24,7 +24,7 @@
 
 **Foundation — tribal integration was the third pillar of national consolidation.**
 
-- ✅ India has **over 400 tribal communities** — nearly **38 million** people, about **6.9%** of the population (1951 baseline).
+- ✅ The book's figures—**over 400 tribal communities**, nearly **38 million** people and about **6.9%** of the population—come from the **1971 Census**, not 1951.
 - ✅ Colonial rule had eroded tribal isolation through **moneylenders, traders and forest laws**, provoking dispossession and revolt.
 - ✅ **Nehru's Tribal Panchsheel** rejected both forced assimilation and museum-like isolation, favouring **development along the tribes' own genius**.
 - ✅ **Verrier Elwin** deeply influenced this policy of **"integration without imposition."**
@@ -40,7 +40,7 @@
 
 | Item | Core fact |
 |---|---|
-| ✅ Tribal population (1951) | Over **400 communities**, ~**38 million**, ~**6.9%** of India |
+| ✅ Tribal population (1971) | Over **400 communities**, ~**38 million**, ~**6.9%** of India |
 | ✅ Policy | Nehru's **Tribal Panchsheel**; adviser **Verrier Elwin** |
 | ✅ Constitutional safeguards | **Fifth & Sixth Schedules**, **Article 46**, reserved seats, SC/ST Commissioner |
 | ✅ Nagaland | Statehood **1963** after suppression of the Naga (Phizo) insurgency |
@@ -53,12 +53,12 @@
 > **Study link:** ✅ The parallel language-based reorganisation → `basic/30_Linguistic-Reorganisation-and-Regionalism.md`.
 > **Study link:** ✅ Consolidation foundations → `basic/29_Colonial-Legacy-and-Foundations-of-the-Republic.md`.
 > **Study link:** ⚠️ Constitutional Fifth/Sixth Schedule machinery → `Polity/basic/Scheduled-and-Tribal-Areas.md`.
-> **Study link:** ⚠️ Colonial-era tribal revolts that form the backdrop → `Modern-Indian-History/basic/23_Left-Peasant-Workers-and-States-Peoples-Movements.md`.
+> **Study link:** ⚠️ Colonial-era tribal revolts that form the backdrop → `basic/11_The-Revolt-of-1857.md`; later agrarian/tribal mobilisation → `basic/23_Left-Peasant-Workers-and-States-Peoples-Movements.md`.
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Tribals were about **6.9%** of India's population (1951), in over **400 communities**.
-- ✅ **Nehru's Tribal Panchsheel** set out five principles of tribal development; **Verrier Elwin** was the key influence.
+- ✅ The **1971 Census** figures used by Chandra are about **6.9%**, nearly **38 million**, in over **400 communities**.
+- ✅ **Nehru's Tribal Panchsheel** is a later label for five broad policy guidelines; avoid attaching a precise year unless the source being cited supplies one. **Verrier Elwin** was a key influence.
 - ✅ The **Sixth Schedule** provides autonomous councils for North-Eastern tribal areas; **Article 46** directs the state to protect tribal interests.
 - ✅ **Nagaland** became a state in **1963**; the Naga insurgency was led by **A.Z. Phizo**.
 - ✅ The **Mizo National Front (Laldenga)** rose in 1966; the **Mizo Accord** was signed in **1986**.

@@ -49,10 +49,10 @@ duplicating report content here.
 
 | # | Report title | Primary Governance file |
 |---|---|---|
-| 1 | Right to Information: Master Key to Good Governance | `Ethics/15` (RTI ethics); `08` (non-RTI accountability, contrast) |
-| 2 | Unlocking Human Capital: Entitlements and Governance | `02` (policy design/implementation) |
+| 1 | Right to Information: Master Key to Good Governance | `08` (RTI process/accountability); Ethics/Polity cross-links |
+| 2 | Unlocking Human Capital: Entitlements and Governance | `02` (implementation); Social Justice cross-link |
 | 3 | Crisis Management: From Despair to Hope | *(GS-III disaster-management linkage; cross-reference only)* |
-| 4 | Ethics in Governance | `Ethics/01, 09, 14` (Ethics owns this report's depth) |
+| 4 | Ethics in Governance | `08`, `09`, `11` for institutional accountability; Ethics for personal probity |
 | 5 | Public Order | *(GS-III internal-security linkage; cross-reference only)* |
 | 6 | Local Governance | `12` (local governance and service delivery) |
 | 7 | Capacity Building for Conflict Resolution | *(cross-reference only; limited GS-II core relevance)* |
@@ -61,7 +61,7 @@ duplicating report content here.
 | 10 | Refurbishing of Personnel Administration: Scaling New Heights | `09` (civil services and Mission Karmayogi) |
 | 11 | Promoting e-Governance: The Smart Way Forward | `05` (e-governance models and user-centricity) |
 | 12 | Citizen-Centric Administration: The Heart of Governance | `07` (citizen-centric administration) |
-| 13 | Organisational Structure of Government of India | *(machinery-of-government/Polity linkage; cross-reference only)* |
+| 13 | Organisational Structure of Government of India | `02`, `09`, `10` (machinery, coordination, reform); Polity cross-link |
 | 14 | Strengthening Financial Management Systems | `13` (public finance and service-delivery tools) |
 | 15 | State and District Administration: A Fresh Look | `12` (local governance and service delivery) |
 
@@ -73,6 +73,16 @@ duplicating report content here.
 - ⚠️ **State governments** — several ARC recommendations (e.g., on local governance,
   personnel administration) require state-level action for implementation, since the
   subjects fall wholly or partly in the state or concurrent domain.
+
+### Implementation-status vocabulary
+
+| Label | Evidence required |
+|---|---|
+| Proposed | ARC text only |
+| Accepted in principle | Government response/decision, but no operative instrument |
+| Notified/enacted | Act, rule, order or scheme instrument exists |
+| Operational | Institutions, staff, budget and procedure are functioning |
+| Evaluated | Independent evidence shows implementation quality/outcomes |
 
 ## 5. Indian applications and examples
 
@@ -113,7 +123,8 @@ duplicating report content here.
 
 ## 8. 📰 Current anchor
 
-- 📰 DARPG is the fixed institutional home for ARC-recommendation tracking. No fixed,
+- 📰 **Status checked 21 July 2026:** DARPG remains the institutional home for ARC material
+  and follow-up. No fixed,
   single implementation status ("accepted," "partially implemented" or "not acted upon") is
   asserted here for any specific recommendation across the board, since implementation
   status differs recommendation by recommendation and is best stated report-by-report (see
@@ -134,6 +145,9 @@ duplicating report content here.
 - ⚠️ Always qualify ARC citations as recommendations from a dated report rather than
   asserting they are current implemented practice — this precision itself earns credit in
   GS-II answers.
+- ⚠️ Name the evidence for implementation: later Act/rule/order, operational body and
+  outcome evidence. Thematic similarity (e.g., ARC and Mission Karmayogi) is not proof of
+  direct implementation.
 - ⚠️ Use this file only to identify the correct report and routing; develop the actual
   analytical content in the destination topic file.
 

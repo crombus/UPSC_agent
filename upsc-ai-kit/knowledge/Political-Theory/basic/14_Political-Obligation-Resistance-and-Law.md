@@ -1,8 +1,8 @@
 # Political Obligation, Resistance and Law - MUST-DO
 
 > **Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
-> **Core area:** Why obey political authority, when resistance is justified, and how law relates to morality, liberty and rule of law.
-> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.11-12, PDF pp.280-300.
+> **Core area:** Why obey political authority, when resistance is justified, how law relates to morality and liberty, and what can justify punishment.
+> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.11-12, PDF pp.280-300; *Socio-Political Philosophy*, PDF pp.164-167 for punishment.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
 > ✅ = source-grounded | ⚠️ = analytical inference/synthesis | 📰 = dated current anchor | ❌ = trap/misattribution.
 > *Companion: `Political-Theory/advanced/14_Political-Obligation-Resistance-and-Law.md`.*
@@ -30,6 +30,11 @@ LAW
    +--> ✅ law <-> morality
    +--> ✅ law <-> liberty
    +--> ✅ rule of law
+
+PUNISHMENT
+   +--> retributive: proportionate desert
+   +--> deterrent: prevent future crime
+   +--> reformative: rehabilitate offender
 ```
 
 - ✅ Gauba defines the problem of political obligation as the question of how far, when and why an individual is obliged to obey law and political authority (PDF p.280).
@@ -56,6 +61,15 @@ LAW
 - ✅ **Historical jurisprudence:** law must be traced to social history, custom and legal evolution (PDF pp.292-293).
 - ✅ **Sociological jurisprudence:** law is an instrument of social purpose and social engineering, not merely sovereign command (PDF pp.293-294).
 - ✅ **Rule of law:** governance through known, general, non-retrospective law and legally restrained power, not arbitrary will (PDF pp.298-300).
+- ✅ **Retributive punishment:** backward-looking punishment justified by the offender's culpable
+  wrong and constrained by proportionality (*Socio-Political Philosophy*, PDF p.164).
+- ✅ **Deterrent punishment:** forward-looking punishment intended to discourage the offender
+  (specific deterrence) or others (general deterrence) from future crime (PDF p.165).
+- ✅ **Reformative punishment:** forward-looking treatment aimed at rehabilitation and return to
+  law-abiding life, often by addressing social, economic or psychological causes (PDF pp.165-166).
+- ⚠️ **Proportionality:** severity should not exceed the seriousness and culpability of the offence;
+  this constrains punishment but does not by itself select retribution, deterrence or reform as the
+  governing purpose.
 
 ## 4. Core argument / chapter spine
 
@@ -77,6 +91,11 @@ LAW
 - ✅ **Resistance vs revolution:** resistance may seek correction of an unjust act or law; revolution aims at larger systemic transformation and carries higher risks (PDF p.288).
 - ✅ **Descriptive/scientific law vs prescriptive law:** the first describes regularities in nature; the second prescribes conduct and is central to politics and jurisprudence (PDF pp.289-290).
 - ✅ **Law and liberty:** law restrains some actions in order to secure equal liberty and other social goods (PDF pp.296-298).
+- ⚠️ **Guilt, aim and severity:** proof of legal guilt is necessary before punishment, but is not
+  sufficient to settle its legitimate aim or quantum. Culpability, harm, proportionality, prospects
+  of reform and the rights of others remain separate questions.
+- ⚠️ **Deterrence and severity:** harshness does not logically prove deterrent effectiveness; the
+  latter is an empirical claim and cannot be assumed from the sentence alone.
 
 ## 6. Thinkers and positions
 
@@ -128,6 +147,14 @@ LAW
 | ✅ **Historical** | ✅ Law evolves from custom, people and historical development (PDF pp.292-293). | ✅ Savigny, Maine (PDF pp.292-293). | ❌ Can over-romanticize inherited norms. |
 | ✅ **Sociological** | ✅ Law serves social purpose and should be judged by social effects (PDF pp.293-294). | ✅ Duguit, Pound, Laski (PDF pp.293-294). | ❌ Can underplay formal validity if used carelessly. |
 
+### D. Theories of punishment
+
+| Theory | Justifying question | Strongest claim | Main objection |
+|---|---|---|---|
+| Retributive | What does this culpable wrong deserve? | Proportion restores moral/legal balance and avoids private revenge (Socio-Political Philosophy, PDF p.164). | Pain may neither repair harm nor reform the offender; revenge must not masquerade as justice. |
+| Deterrent | What sentence will prevent future crime? | Punishment may discourage the offender and the public (PDF p.165). | It risks using the offender merely as an example and may ignore impulsive crime or social causes. |
+| Reformative | How can the offender return to lawful life? | Rehabilitation treats crime's personal and social causes (PDF pp.165-166). | Not every offence is explained by pathology or deprivation; grave culpability and public protection remain relevant. |
+
 ## 9. UPSC traps and corrections
 
 - ❌ **"Civil disobedience means any illegal act done for a cause."** -> ✅ Gauba's version is public, non-violent, principled, last-resort and penalty-accepting (PDF p.287).
@@ -136,6 +163,25 @@ LAW
 - ❌ **"Hobbes, Locke and Rousseau all justify the same kind of consent."** -> ✅ Hobbes prioritizes security, Locke trust and limited government, Rousseau general will and civic freedom (PDF pp.283-284).
 - ❌ **"Law always reduces liberty."** -> ✅ Under a democratic welfare state, law often secures equal liberty and social welfare by rational restraint (PDF pp.296-298).
 - ❌ **"This topic is basically Indian Polity."** -> ✅ This file gives conceptual tests; Indian statutes, Articles and case-law belong elsewhere.
+- ❌ **"Retribution means unlimited revenge."** -> ✅ A defensible retributive theory is
+  proportional and public, not private vengeance.
+- ❌ **"A severe sentence is automatically an effective deterrent."** -> ✅ Deterrence is an
+  empirical proposition; severity alone is neither necessary nor sufficient proof of prevention.
+- ❌ **"Reformative theory denies responsibility."** -> ✅ It changes the purpose and method of
+  punishment; it does not by itself erase guilt, accountability or protection of society.
+- ❌ **"Capital punishment follows automatically from a heinous crime."** -> ✅ The source presents
+  rival arguments; irreversibility, error, human dignity, proportionality and deterrence must be
+  separately examined (Socio-Political Philosophy, PDF pp.166-167).
+
+### Verified local PYQ transfer
+
+- ✅ **2025:** Can the right to life be absolute with reference to capital punishment?
+- ✅ **2024:** Accept or reject capital punishment as an effective deterrent.
+- ✅ **2023:** Proportionality and juvenile punishment.
+- ✅ **2022:** Moral justifications of capital punishment.
+- ⚠️ Answer frame: define penal aim -> distinguish retribution/deterrence/reform -> apply
+  proportionality -> test irreversibility and error -> separate moral argument from empirical
+  deterrence -> conclude conditionally.
 
 ## 10. Cross-links and boundaries
 
@@ -158,6 +204,9 @@ LAW
 ## 12. Sources, metadata and tags
 
 - ✅ Primary source used: Gauba, Ch.11 "Grounds and Limits of Political Obligation" and Ch.12 "Concept of Law" (PDF pp.280-300).
+- ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.164-167, for retributive,
+  deterrent, reformative and capital-punishment arguments.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
 - ✅ Page clusters used: political obligation theories (PDF pp.280-287); Gauba's caution on resistance (PDF pp.287-288); nature and schools of law (PDF pp.289-294); law and morality/liberty/rule of law (PDF pp.295-300).
 - ⚠️ All examples are historical or conceptual; no undated current-affairs claim is inserted.
 - ⚠️ Boundary maintained: no Indian statute-by-statute or case-by-case Polity duplication.

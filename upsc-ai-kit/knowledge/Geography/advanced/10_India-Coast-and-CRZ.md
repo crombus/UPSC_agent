@@ -11,15 +11,17 @@
 
 ✅ Khullar divides the Indian coast into the **West Coastal Plain** between the Western Ghats and Arabian Sea and the **East Coastal Plain** between the Eastern Ghats and Bay of Bengal. ✅ The east coast extends from the **Ganga delta to Kanniyakumari** and is marked by deltas of the **Mahanadi, Godavari, Krishna and Cauvery**. ✅ The east coast also has lagoons, especially **Chilka/Chilika** and **Pulicat**.
 
-> 🔑 Trap: West coast and east coast are not mirror images; the west is narrow/submergent with estuaries and backwaters, while the east is broad/emergent and deltaic.
+> 🔑 Trap: West and east coasts are not mirror images. The west is generally narrower and richer in
+> estuaries/backwaters; the east is generally broader and deltaic. “Submergent” and “emergent” are useful
+> regional tendencies, not uniform labels for every coastal segment.
 
 ## 2. West Coast vs East Coast
 
 | Feature | West Coast | East Coast |
 |---|---|---|
-| ✅ General nature | Narrow, steep, largely submergent | Broad, gently sloping, emergent/deltaic |
+| ✅ General nature | Generally narrow; estuaries, creeks and Kerala backwaters | Generally broad; major deltas and lagoons |
 | ✅ Location | Western Ghats–Arabian Sea | Eastern Ghats–Bay of Bengal |
-| ✅ Divisions | Konkan, Karnataka, Kerala/Malabar | Northern Circars, Coromandel |
+| ✅ Divisions | Gujarat coast, Konkan, Karnataka coast, Kerala/Malabar | Utkal/Northern Circars and Coromandel sectors |
 | ✅ River mouths | Estuaries: Narmada, Tapi | Deltas: Mahanadi, Godavari, Krishna, Cauvery |
 | ✅ Water bodies | Backwaters/lagoons, Vembanad, Malabar coast | Chilika and Pulicat lagoons |
 | ✅ Port implication | Deep natural harbours more common | Fewer natural harbours; many ports artificial/silt-managed |
@@ -99,7 +101,9 @@
 
 ✅ CRZ zoning translates coastal geomorphology into land-use rules; the Blue Economy links that coast to fisheries, ports, tourism and marine energy.
 
-- ✅ CRZ 2019: No-Development Zones, Coastal Zone Management Plans (CZMPs) and hazard lines mapping sea-level-rise and erosion risk.
+- ✅ CRZ 2019: category-specific regulation, No-Development Zones where applicable, and Coastal Zone
+  Management Plans. The hazard line is a planning/disaster-management input, not itself a uniform
+  construction boundary for every CRZ category.
 - ✅ Blue Economy: sustainable use of ocean resources — fisheries, aquaculture, shipping, tourism, marine renewable energy and biotech.
 - ✅ Coastal erosion directly threatens the blue economy (fisheries, tourism, ports), so CRZ + mangrove shields aim to build resilience.
 

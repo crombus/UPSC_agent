@@ -12,7 +12,7 @@
 | Date | Event |
 |---|---|
 | ✅ 1530 | Humayun succeeds Babur at age 23 |
-| ✅ 1532 | Humayun defeats Afghan forces at Dadrah and besieges Chunar |
+| ⚠️ 1531/32 | Battle of Dadrah/Daurah and siege of Chunar; Part II notes a chronological difference among sources |
 | ✅ 1535 | Humayun captures Malwa/Gujarat centres including Mandu and Champaner |
 | ✅ 1537-38 | Humayun turns east; Chunar takes six months |
 | ✅ 1538 | Sher Khan captures Gaur, Bengal's capital |
@@ -29,6 +29,7 @@
 - ✅ Babur left Humayun with weak finances, unconsolidated administration, unsubdued Afghans and the Timurid problem of brothers claiming shares.
 - ✅ Kamran's occupation of Lahore and Multan weakened central unity, though Humayun accepted it to avoid civil war and focus east.
 - ✅ Humayun initially treated the Afghan threat seriously: at **Dadrah (1532)** he defeated Afghans and then besieged **Chunar**, the gateway to eastern India.
+- ⚠️ Part II notes that Nizamuddin Ahmad places Dadrah/Daurah in 1531 and does not mention the siege in the same sequence; the strategic interpretation is firmer than the exact dating.
 - ⚠️ His problem was not laziness alone; the Mughal ruling class had not yet rooted itself in India.
 
 **Foundation — Sher Khan outmanoeuvred Humayun.**
@@ -75,11 +76,10 @@
 
 ## 6. 📰 Current link
 
-- 📰 **Humayun's Tomb Site Museum (2025)** — Khanglobal/Design Pataki reported the new largely subterranean site museum at Humayun's Tomb; relevance: links Humayun's political restoration/death with Mughal memory, architecture and heritage interpretation.
+📰 **Current linkage (verify live before use):** Museum interpretation at Humayun's Tomb can link restoration, dynastic memory and Mughal architecture. Verify opening dates and exhibits from ASI or the site manager.
 
 ## 7. Mains angles
 
 - ⚠️ Analyse Humayun's failure as a problem of premature imperial expansion.
 - ⚠️ Discuss the Afghan challenge as a social-military force, not merely a dynastic rivalry.
 - ⚠️ Evaluate Humayun's Gujarat and Bengal campaigns: ambition, logistics and state capacity.
-

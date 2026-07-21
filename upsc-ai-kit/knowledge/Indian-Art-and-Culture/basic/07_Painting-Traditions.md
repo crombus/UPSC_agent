@@ -6,7 +6,10 @@
 > Sittanavasal); miniature painting (Pala, Rajasthani, Pahari, Deccan,
 > Mughal); modern, folk and tribal painting.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 309-377; `00_Master-Framework.md` Section 3; audited UPSC Mains 2024 GS
+> 309-377; R.S. Sharma, *India's Ancient Past*, PDF pp. 347-355; Satish
+> Chandra, *History of Medieval India*, PDF pp. 328-334; Satish Chandra,
+> *Medieval History, 1526-1748, Part 2*, PDF pp. 389-392;
+> `00_Master-Framework.md` Section 3; audited UPSC Mains 2024 GS
 > Paper I (supports Topic 03's questions).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/07_Painting-Traditions.md`.*
@@ -27,9 +30,9 @@ it is a dense Prelims source (named caves, named schools, named artists).
 |---|---|
 | ✅ **Roopbheda, Pramana, Bhava, Lavanya Yojana, Sadrishya, Varnikabhanga** | The six limbs (Shadanga) of Indian painting per classical treatise: looks/appearance, proportion/structure, expression, aesthetic composition, resemblance, and use of brush/colours (*Nitin…pdf*, PDF p. 309-ff outline). |
 | ✅ **Fresco secco** | A mural technique using pigment applied to a dried (not wet) plaster surface — the technique used at Ajanta, per the book (*Nitin…pdf*, PDF p. 58, cross-referenced from topic 02). |
-| ✅ **Petroglyph** | A prehistoric rock engraving (as distinct from a painted rock image) (*Nitin…pdf*, PDF p. 7950-ff outline). |
-| ✅ **Pichhwai, Madhubani, Warli, Kalamkari, Pattachitra, Thangka, Phad, Gond** | Named regional/tribal/folk painting traditions each with a distinct community, material and iconographic base (*Nitin…pdf*, PDF pp. 9224-9372 outline range). |
-| ✅ **Company Painting vs. Bazaar Painting** | Company painting = colonial-period hybrid style commissioned by British East India Company officials (e.g. Patna, Varanasi, Thanjavur), blending European technique with Indian subject; Bazaar painting = a parallel colonial-period commercial/popular tradition from Bengal/Bihar (*Nitin…pdf*, PDF p. 9073-ff). |
+| ✅ **Petroglyph** | A prehistoric rock engraving, distinct from a painted rock image. |
+| ✅ **Pichhwai, Madhubani, Warli, Kalamkari, Pattachitra, Thangka, Phad, Gond** | Named regional traditions with distinct supports, communities, workshop systems and ritual/market uses; never treat them as one "folk style." |
+| ✅ **Company Painting vs. Bazaar/Kalighat markets** | Company painting served European patrons and documentation; urban bazaar traditions served pilgrimage and commercial publics. Both are internally diverse, not one school. |
 
 ## 3. Core classification
 
@@ -46,23 +49,28 @@ painting** (Madhubani, Warli, Pattachitra, Kalamkari, Gond, and others)
 
 ## 4. Foundation narrative
 
-✅ Mural painting begins with rock art (Bhimbetka rock shelters, Madhya
+✅ Painting evidence begins with rock art (Bhimbetka rock shelters, Madhya
 Pradesh; Lakhudiyar, Uttarakhand) and continues through the Buddhist cave
-tradition (Ajanta — fresco secco technique, six-colour palette; Bagh
+tradition. Ajanta paintings were executed over prepared plaster, generally
+with pigments applied after the surface had dried; "fresco secco/tempera"
+is safer than calling them true wet fresco. Bagh
 Caves, Dhar district, more materialistic in emphasis than Ajanta's
 spiritual focus) and Sittanavasal (Pandya-period Jain cave paintings)
 (cross-referenced to topic 02 for Ajanta/Ellora/Bagh architecture). ✅
 South Indian mural traditions continue under the Pallavas (fragments at
 Kailasanatha Temple, Kanchipuram, and Talagishwara temple, Panamalai —
-"the only two surviving examples of the Pallava mural paintings,"
+two principal surviving Pallava mural locations in the source,
 *Nitin…pdf*, PDF p. 88, cross-referenced from topic 03), and later under
 the Cholas, Vijayanagara and Nayaka rulers (Lepakshi murals at the
-Veerbhadra Temple). ✅ Miniature painting traces a lineage from the Pala
-school (Buddhist manuscript illustration, eastern India) and the
-Apabhramsa school (Jain manuscript illustration, western India), through
-a Delhi Sultanate-period transition, into the fully developed Mughal
+Veerbhadra Temple). ✅ Miniature painting traces a lineage from Pala
+Buddhist manuscript illustration in eastern India and Western Indian/Jain
+manuscript painting in Gujarat-Rajasthan, through
+a Delhi Sultanate-period transition, into Mughal
 miniature tradition (illustrated manuscripts such as the Tutinama, and
-Jahangir-era naturalistic portraiture) and regional schools — Rajasthani
+Jahangir-era portraiture and natural history). Satish Chandra stresses the
+imperial atelier's mixed Hindu-Muslim workforce and collaborative
+production. Dispersal of artists after reduced imperial patronage aided
+regional schools — Rajasthani
 (Mewar, Amber-Jaipur, Marwar, Kishangarh — home of the famous "Bani-Thani"
 by Nihal Chand), Pahari (Basholi, Kangra, Guler, Jammu/Dogra, Kullu-Mandi),
 and South Indian traditions (Tanjore painting, famous for gold-coating;
@@ -110,6 +118,15 @@ Gond, Thangka, Phad, and others)
 | ✅ Kalamkari | Andhra Pradesh | Hand-painted/block-printed textile art, natural dyes |
 | ✅ Thangka | Himalayan Buddhist regions | Scroll painting on cotton/silk applique, religious iconography |
 
+| Court/region | High-yield distinction |
+|---|---|
+| ✅ Mughal-Akbar | Large illustrated manuscripts, narrative action, collaborative karkhana |
+| ✅ Mughal-Jahangir | Album page, portraiture, flora/fauna naturalism; Mansur |
+| ✅ Deccani | Saturated colour, elongated figures, fantastic landscape and Persianate-Deccan court culture |
+| ✅ Mewar/Bundi/Kota | Bold colour; court, hunt and Krishna/Ragamala themes with regional variation |
+| ✅ Kishangarh | Lyrical Radha-Krishna imagery; *Bani Thani* associated with Nihal Chand |
+| ✅ Basohli/Guler/Kangra | From intense Basohli colour to Guler/Kangra naturalism and Krishna poetry |
+
 ## 6. Source spine
 
 ✅ *Nitin…pdf*, PDF pp. 309-377 (Chapter 7, "Indian Paintings" — full
@@ -136,13 +153,20 @@ literature" answer on those dynasties.
 - ❌ All Indian mural technique is "true fresco" (wet-plaster). -> Ajanta's
   technique is specifically identified as fresco secco (dry-plaster),
   not true fresco — retain source-specific technique terminology.
-- ❌ Pallava mural painting survives extensively. -> The book explicitly
-  notes only two surviving examples (Kailasanatha Temple fragments and
-  Talagishwara temple remnants).
+- ❌ Pallava mural painting survives extensively. -> The source identifies
+  two principal surviving locations (Kailasanatha, Kanchipuram, and
+  Talagirishvara, Panamalai); phrase this as a survival record, not proof
+  of originally limited production.
 - ❌ Miniature painting is a single, undifferentiated Mughal-era style. ->
   It has distinct pre-Mughal (Pala, Apabhramsa) origins and diverges into
   multiple regional schools (Rajasthani sub-schools, Pahari sub-schools,
   South Indian traditions) after the Mughal period.
+- ❌ "Apabhramsa school" is the only or universally preferred label for
+  western Indian Jain manuscripts. -> Use Western Indian/Jain school and
+  explain language, region, support and patronage.
+- ✅ **Local PYQ traps:** CSE 2019 associates the move from manuscript
+  series toward albums/individual portraiture with Jahangir; CSE 2018
+  places *Bani Thani* in Kishangarh; CSE 2017 locates Padmapani at Ajanta.
 - ❌ Folk/tribal painting is a homogeneous category. -> Each named
   tradition (Madhubani, Warli, Pattachitra, etc.) has a distinct region,
   community and material base; treating them as interchangeable loses

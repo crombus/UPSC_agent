@@ -16,8 +16,9 @@
 ```text
 FIVE MODELS OF E-GOVERNANCE (standard Indian public-administration typology)
 1. BROADCASTING MODEL          -- disseminate information widely (govt websites, portals)
-2. CRITICAL FLOW MODEL         -- route critical information to targeted audiences
-                                   (e.g., disaster alerts to affected districts)
+2. CRITICAL FLOW MODEL         -- route information of critical value to a targeted
+                                   audience or wider public (e.g., exposing a local
+                                   service failure to affected citizens/watchdogs)
 3. COMPARATIVE ANALYSIS MODEL  -- let citizens compare govt performance/services
                                    (e.g., published service-delivery dashboards)
 4. MOBILISATION & NETWORKING   -- use digital tools for e-advocacy, citizen
@@ -27,10 +28,10 @@ FIVE MODELS OF E-GOVERNANCE (standard Indian public-administration typology)
                                    (2024 PYQ focus)
 ```
 
-**Core proposition:** ✅ E-governance is not one uniform activity — it ranges from one-way
-information broadcasting to fully transactional, two-way interactive service delivery; the
-2024 PYQ specifically tests the **Interactive Service Model**, the most advanced and
-citizen-facing of the five.
+**Core proposition:** ✅ E-governance is not one uniform activity. These five models classify
+different information and interaction strategies; they are **not an official chronological
+maturity ladder**. A project may combine several models, while the 2024 PYQ specifically tests
+the citizen-facing, two-way **Interactive Service Model**.
 
 ## 2. Essential definitions
 
@@ -39,7 +40,7 @@ citizen-facing of the five.
 | ✅ **E-governance** | The application of information and communication technology to government processes, spanning G2C, G2B, G2G and G2E interactions, to improve service delivery, transparency and efficiency. |
 | ✅ **Interactive Service Model** | The e-governance model in which citizens do not merely receive information but transact directly with government (applying, paying, tracking, appealing online), with the interaction itself designed to embed transparency and accountability — not simply digitise a paper process. |
 | ✅ **Broadcasting/Critical Flow/Comparative Analysis/Mobilisation Models** | The other four classical models: one-way wide dissemination; targeted critical/emergency information flow; citizen-facing comparative performance data; and civil-society digital mobilisation/advocacy respectively — together with the Interactive Service Model, they form the standard five-model e-governance typology. |
-| ✅ **NeSDA** | The National e-Governance Service Delivery Assessment, a DARPG framework assessing state, UT and central-ministry digital service delivery on parameters such as accessibility, content availability, ease of use, information security/privacy, end-service delivery, integrated service delivery, status tracking, open government data and e-participation. |
+| ✅ **NeSDA** | DARPG's assessment framework. NeSDA 2021's core portal parameters are accessibility, content availability, ease of use, information security/privacy, end-service delivery, integrated-service delivery and status/request tracking. NeSDA-Way Forward separately monitors saturation of identified mandatory e-services and disseminates best practices; do not merge every related e-governance indicator into one fixed parameter list. |
 | ⚠️ **User-centric design vs technology/back-end-integration bias** | User-centric design starts from the citizen's task and journey; a technology/back-end bias starts from the convenience of digitising existing departmental workflows and IT architecture — the 2025 PYQ tests exactly this built-in tension. |
 
 ## 3. How e-governance functions (mechanism)
@@ -64,8 +65,8 @@ citizen-facing of the five.
 - ✅ **Digital India programme (MeitY):** the umbrella Union government programme to
   transform India into a digitally empowered society, spanning digital infrastructure,
   governance-on-demand and digital empowerment of citizens.
-- ✅ **NeSDA (DARPG):** the biennial assessment framework evaluating e-governance service
-  delivery quality across states, UTs and central ministries.
+- ✅ **NeSDA (DARPG):** periodic assessment plus the continuing NeSDA-Way Forward
+  implementation-monitoring exercise; it should not be described as guaranteed biennial.
 - ⚠️ **State/central service portals:** the practical delivery layer where the Interactive
   Service Model and user-centric design are actually tested (e.g., single-window
   license/certificate portals — see `07` for the institutional citizen-centric-administration
@@ -112,12 +113,10 @@ citizen-facing of the five.
 
 ## 8. 📰 Current anchor
 
-- 📰 NeSDA's parameter list (accessibility, content availability, ease of use, information
-  security and privacy, end service delivery, integrated service delivery, status and
-  request tracking, open government data, e-participation) is fixed as DARPG's assessment
-  framework, and recent cycles have assessed dozens of mandatory services across states/UTs
-  and central ministries. No fixed mandatory-service count is asserted here, since the
-  number of assessed services can change between cycles.
+- 📰 **Status checked 21 July 2026:** DARPG's NeSDA-Way Forward monthly reporting tracks
+  saturation of **56 identified mandatory e-services** across States/UTs. Treat 56 as a
+  dated implementation-set figure, not a permanent parameter count; recheck the latest
+  DARPG monthly report before reuse.
 
 ## 9. PYQ application
 
@@ -132,6 +131,8 @@ citizen-facing of the five.
   example of a corrective (citizen-journey mapping, usability testing, vernacular-language
   interfaces); (c) recommend NeSDA-style ease-of-use and accessibility benchmarking as the
   institutional corrective.
+- ⚠️ Test inclusion with assisted/offline access, disability accessibility, vernacular
+  interfaces, low-bandwidth design, reasoned rejection and a human appeal channel.
 
 ## 10. Mains angles
 

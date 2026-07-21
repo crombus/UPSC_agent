@@ -1,7 +1,7 @@
 # NITI Aayog (Non-Constitutional, Non-Statutory Body) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II / GS-III
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 54 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 54 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / analysis · 📰 = current affairs.
 > *Companion: `basic/NITI-Aayog.md`.*
 >

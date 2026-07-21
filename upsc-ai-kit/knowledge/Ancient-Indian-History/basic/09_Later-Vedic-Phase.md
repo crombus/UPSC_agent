@@ -31,6 +31,9 @@
 - ✅ The cult of sacrifice became central; rituals and formulae expanded under brahmanical influence.
 - ✅ Indra and Agni lost some earlier prominence, while **Prajapati** rose in importance.
 - ✅ The **Upanishads** were compiled in Panchala and Videha around 600 BC in RS Sharma's chronology.
+- ✅ Royal rituals strengthened territorial kingship: **rajasuya** asserted supreme power, **ashvamedha** advertised control, and **vajapeya** dramatized royal prestige.
+- ✅ The *vidatha* disappeared; *sabha* and *samiti* became more aristocratic, and women were excluded from the *sabha* in Sharma's account.
+- ✅ The institution of **gotra** and gotra exogamy became visible; the four-ashrama scheme was not yet fully established.
 
 ## 2. Key classification / data
 
@@ -59,6 +62,7 @@
 - ✅ Kuru-Panchala / upper doab became the core area.
 - ✅ Agriculture expanded; rice and wheat were principal crops.
 - ✅ Upanishads compiled in Panchala and Videha around **600 BC**.
+- ✅ Later-Vedic kingship is linked to **rajasuya, ashvamedha and vajapeya**; gotra exogamy is a social marker.
 
 ## 5. UPSC Traps
 
@@ -71,7 +75,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Manuscript conservation, 2025:** The National Mission for Manuscripts / Gyan Bharatam updates emphasise digitising and cataloguing India's manuscript heritage. For Later Vedic notes, the anchor is preservation of **Brahmana-Aranyaka-Upanishadic** knowledge traditions that mark the ritual-to-philosophical shift.
+⚠️ **Current-link discipline:** Use a manuscript-mission target only after checking the official announcement. The safe linkage is conservation of Brahmana, Aranyaka and Upanishadic textual traditions and their layered transmission.
 
 ## 7. Mains angles
 

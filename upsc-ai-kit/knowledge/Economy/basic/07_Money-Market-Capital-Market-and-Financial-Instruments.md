@@ -4,7 +4,7 @@
 > **Core area:** Financial markets.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md`.*
+> *Companion: `../advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md`.*
 
 ---
 
@@ -38,6 +38,7 @@ tradability and regulator; then connect market liquidity with real-economy finan
 | ✅ **Primary market** | Issue of new securities to raise funds. |
 | ✅ **Secondary market** | Trading of existing securities among investors. |
 | ✅ **Financial instrument** | Contract creating a financial asset for one party and liability or equity for another. |
+| ✅ **TReDS** | RBI-regulated electronic platform for financing or discounting MSME trade receivables through multiple financiers. |
 
 ## 3. Topic mechanism
 
@@ -82,6 +83,8 @@ tradability and regulator; then connect market liquidity with real-economy finan
   price discovery.
 - ✅ The former CBLO mechanism was replaced by TREPS; the 2024 PYQ correctly located CBLO in
   the money market.
+- ✅ TReDS discounts an accepted invoice or receivable; it is neither a stock exchange nor
+  conventional collateral-based term finance.
 
 ## 7. UPSC traps
 
@@ -136,8 +139,7 @@ liquidity if activity is concentrated in a narrow set of instruments or particip
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/07_Money-Market-Capital-Market-and-Financial-
-  Instruments.md`.
+- ✅ Advanced companion: `../advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md`.
 - ✅ `04_RBI-Monetary-Policy-and-Liquidity-Management.md` — overnight operating target and
   liquidity.
 - ✅ `08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md` — claim and product-

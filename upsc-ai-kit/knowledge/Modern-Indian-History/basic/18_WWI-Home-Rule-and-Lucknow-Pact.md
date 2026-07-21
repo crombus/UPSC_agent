@@ -32,7 +32,7 @@
 - ✅ The **Home Rule Leagues** demanded self-government for India on the Irish Home Rule model, not immediate complete independence.
 - ✅ Tilak's League and Besant's League used public meetings, pamphlets, newspapers, branches and local workers to carry nationalist politics beyond annual Congress sessions.
 - ✅ The **Lucknow Pact** brought a double unity: reunion of Moderates and Extremists inside Congress, and cooperation between Congress and the Muslim League.
-- ⚠️ The price of Congress-League unity was Congress acceptance of **separate electorates for Muslims**, a concession later remembered as a major communal trap.
+- ⚠️ The institutional cost of Congress-League unity was Congress acceptance of **separate electorates and weightage**. Historians dispute whether this was a necessary tactical bargain or a step that entrenched communal representation.
 
 ## 2. Key classification / data
 

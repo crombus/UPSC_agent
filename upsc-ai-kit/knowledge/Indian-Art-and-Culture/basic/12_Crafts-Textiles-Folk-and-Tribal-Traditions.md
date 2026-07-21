@@ -6,7 +6,10 @@
 > bronze, wood, stoneware); Geographical Indications (GI) as origin-linked
 > intellectual property; craft-community livelihoods.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 378-410; `00_Master-Framework.md` Section 3; audited UPSC Mains 2024 GS
+> 378-410; R.S. Sharma, *India's Ancient Past*, PDF pp. 97-103, 250-260,
+> 347-355; Satish Chandra, *History of Medieval India*, PDF pp. 118-149,
+> 317-327; Satish Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp.
+> 358-401; `00_Master-Framework.md` Section 3; audited UPSC Mains 2024 GS
 > Paper I (adjacent only).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`.*
@@ -55,10 +58,34 @@ product**, registered in 2004-05 (*Nitin…pdf*, PDF p. 407). ✅ As of July
 as of April 2025, **Uttar Pradesh held the highest number of GI tags (77
 registered products)**, surpassing Tamil Nadu's previous lead
 (*Nitin…pdf*, PDF pp. 406-407). ✅ Kerala's Nilambur Teak received a GI
-tag (Nilambur hosts the world's first Teak Museum and the world's oldest
-teak plantation); Kangra Tea (Himachal Pradesh) additionally secured
+tag (Nilambur also has a prominent teak museum and historic plantation
+landscape); Kangra Tea (Himachal Pradesh) additionally secured
 protected GI status in the **European Union** (*Nitin…pdf*, PDF pp.
 407-408).
+
+✅ **Regional craft-textile distinctions:**
+
+| Tradition | Region/community | Technique/product trap |
+|---|---|---|
+| Patola | Patan, Gujarat | Double ikat; not Pochampally/Kanchipuram |
+| Pochampally ikat | Telangana | Resist-dyed yarn; may be single/double ikat |
+| Kanchipuram silk | Tamil Nadu | Contrasting borders joined to body; silk weaving |
+| Banarasi brocade | Varanasi, Uttar Pradesh | Supplementary-weft zari/brocade traditions |
+| Chikankari | Lucknow, Uttar Pradesh | White-on-white embroidery repertoire |
+| Kantha | Bengal | Running-stitch quilting/embroidery from reused cloth traditions |
+| Kalamkari | Andhra Pradesh/Telangana centres | Hand-drawn/printed cotton textile with mordant/resist processes |
+| Dhokra | Central/eastern Indian artisan communities | Lost-wax non-ferrous metal casting; not a single-state monopoly |
+
+✅ Continuity does not mean unchanged production. R.S. Sharma records
+Harappan bead, shell, pottery, metal and textile skills and Sangam-era
+cotton/silk trade; Satish Chandra records karkhanas, weavers, dyers and
+export textiles under medieval markets. Court, temple, guild, merchant,
+colonial and contemporary GI/tourism markets successively reshaped design
+and labour.
+
+⚠️ Ivory carving belongs to historical craft study, but contemporary
+answers must acknowledge wildlife-protection and trade restrictions; do
+not present new ivory production as a safeguarding objective.
 
 ## 5. Visual map or comparison table
 
@@ -137,6 +164,16 @@ answering the sociological question.
   2025 (per the book), Uttar Pradesh (77 products) had surpassed Tamil
   Nadu's previous lead — verify the current leading state against the GI
   Registry before citing.
+- ❌ One textile name identifies one technique everywhere. -> Ikat,
+  brocade, embroidery, painted/printed cloth and appliqué use different
+  production logics; map name + region + technique.
+- ❌ A GI protects an entire community or guarantees authenticity by
+  itself. -> It protects an origin-linked name for authorised users;
+  labour conditions, raw materials, design copying and benefit-sharing
+  require separate institutions.
+- ✅ **Local PYQ trap:** CSE 2015 defines Kalamkari as hand-painted cotton
+  textile in South India; CSE 2018's craft-state matching tests precise
+  regional attribution.
 
 ## 10. Mains framework
 

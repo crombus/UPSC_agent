@@ -65,11 +65,12 @@ determine what a policy actually becomes in practice.
   delivery (see `12` for the local-body delivery angle).
 - ✅ **The Public Examinations (Prevention of Unfair Means) Act, 2024:** enacted to prevent
   and penalise the use of unfair means (paper leaks, impersonation, tampering) in public
-  examinations conducted by specified public examination authorities; it covers examinations
-  conducted by these Union-notified authorities, and its applicability to state
-  university/state education board examinations depends on the specific coverage/adoption
-  by the relevant government — treat this scope question as the actual PYQ ask (Q11, 2024)
-  rather than assuming blanket coverage.
+  examinations conducted by public examination authorities listed in its Schedule or later
+  notified by the **Central Government**. The scheduled central authorities include UPSC,
+  SSC, Railway Recruitment Boards, IBPS, Central Government departments/attached offices
+  and NTA. A state board or university examination is **not automatically covered** merely
+  because the Act extends to India; it requires coverage within the central Act's notified
+  authority framework or separate state legislation.
 
 ## 5. Indian applications and examples
 
@@ -107,22 +108,18 @@ determine what a policy actually becomes in practice.
   effectively make policy through discretionary choices, which can improve or undermine the
   formally decided policy.
 - ❌ The 2024 Public Examinations Act automatically covers every state board/university exam.
-  -> Its applicability to university/state education board examinations is a scope question
-  the PYQ itself tests — do not assume blanket coverage without checking the specific Act's
-  provisions.
+  -> It applies to examinations conducted by scheduled or Central-Government-notified public
+  examination authorities; ordinary state-board/university examinations are not automatically
+  brought within it.
 - ❌ Consultation before formulation is a purely procedural formality. -> Effective
   pre-legislative consultation and RIA are meant to surface implementation problems before
   they become costly delivery failures.
 
 ## 8. 📰 Current anchor
 
-- 📰 The Public Examinations (Prevention of Unfair Means) Act, 2024 was enacted and came into
-  force in 2024, applying to examinations conducted by the public examination authorities it
-  specifies; its extension to a given university or state education board examination
-  depends on that examination being conducted by, or notified under, a covered authority,
-  not on blanket automatic coverage. No fixed, complete list of covered university/state
-  board examinations is asserted here, since coverage can be extended by further
-  notification.
+- 📰 **Status checked 21 July 2026:** the central Act came into force on 21 June 2024
+  (S.O. 2422(E)). Coverage is authority-based, not a blanket all-examinations rule. Before
+  claiming later expansion, verify the Gazette notification naming the additional authority.
 
 ## 9. PYQ application
 
@@ -148,6 +145,9 @@ determine what a policy actually becomes in practice.
 - ⚠️ For any question on a "recently enacted" law, always test whether the question is
   really asking about the law's *scope* (who/what it covers) rather than only its stated
   objectives — the 2024 PYQ pattern rewards this precision.
+- ⚠️ Use a six-stage implementation map: legal authority -> rules/SOPs -> responsible agency
+  -> staff/technology -> grievance/appeal -> outcome evaluation. An enacted law can stall at
+  any later stage.
 
 > **Answer thesis:** A policy is not implemented merely because it is announced; it is
 > implemented only when clearance points are minimised, street-level discretion is guided

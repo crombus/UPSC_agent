@@ -18,7 +18,7 @@
 | ✅ 1613 | English secure a factory at Surat after Mughal permission |
 | ✅ 1639 | Madras/Fort St George becomes an English base on the Coromandel coast |
 | ✅ 1664 | Colbert sponsors the French Compagnie des Indes |
-| ✅ 1690 | Calcutta/Fort William settlement develops under Job Charnock |
+| ⚠️ 1690 | Conventional chronology associates Job Charnock with the Calcutta settlement; later urban origins were more cumulative |
 | ✅ 1746–63 | Carnatic Wars transform European commerce into territorial politics |
 | ✅ 1760 | Wandiwash: Eyre Coote defeats Lally, breaking French military prospects |
 
@@ -63,7 +63,7 @@
 - ✅ **Dutch VOC**: founded **1602**; important centres at **Pulicat** and **Nagapattinam**.
 - ✅ **Amboyna Massacre (1623)**: Dutch-English conflict in Southeast Asia; Dutch focus later shifted towards Indonesia.
 - ✅ **Bedara/Hooghly (1759)**: English defeated the Dutch challenge in Bengal.
-- ✅ **English EIC**: chartered **1600**; Surat **1613**; Madras **1639**; Bombay **1668**; Calcutta **1690**; farman **1717**.
+- ✅ **English EIC**: chartered **1600**; Surat **1613**; Madras **1639**; Bombay leased to the Company **1668**; Calcutta settlement conventionally dated **1690**; farman **1717**.
 - ✅ **French**: Compagnie des Indes **1664**; Pondicherry **1674**; Chandernagore.
 - ✅ **Carnatic Wars**: First 1746–48; Second 1749–54; Third 1756–63; Wandiwash 1760.
 

@@ -4,7 +4,7 @@
 > **Core area:** International economic institutions.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.*
+> *Companion: `../advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.*
 
 ---
 
@@ -38,6 +38,7 @@ governance and conditionality rather than grouping all external finance together
 | ✅ **ADB** | Regional development bank focused on Asia and the Pacific. |
 | ✅ **AIIB** | Multilateral development bank with infrastructure and related development focus. |
 | ✅ **NDB** | BRICS-founded multilateral development bank financing infrastructure and sustainable development. |
+| ✅ **SDR** | IMF-created international reserve asset valued from a currency basket; it is not a currency in everyday circulation. |
 
 ## 3. Topic mechanism
 
@@ -77,6 +78,8 @@ governance and conditionality rather than grouping all external finance together
   finance projects and development policy.
 - ✅ World Bank Group institutions have different mandates; the term World Bank commonly
   refers to IBRD and IDA.
+- ✅ SDRs are reserve assets allocated by the IMF; they are not IMF loans, a national
+  currency or ordinary budget revenue.
 - ✅ Voting power, quotas, capital contributions and governance arrangements differ across
   institutions.
 - ✅ Conditionality can protect programme credibility but raises ownership and social-impact
@@ -140,7 +143,7 @@ automatically guarantee additional, well-appraised or debt-sustainable investmen
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.
+- ✅ Advanced companion: `../advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.
 - ✅ `19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` — crisis finance and
   reserve adequacy.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — multilateral project

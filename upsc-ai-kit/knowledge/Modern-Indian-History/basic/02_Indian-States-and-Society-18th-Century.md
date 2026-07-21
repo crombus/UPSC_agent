@@ -29,8 +29,8 @@
 
 **Foundation — society mixed continuity with limits.**
 
-- ✅ The economy remained primarily **agrarian**, with self-sufficient villages forming the base of production.
-- ✅ Towns, crafts and trade continued in many regions; Bengal and Gujarat remained commercially important.
+- ✅ The economy remained primarily **agrarian and village-centred**, but villages were not sealed, self-sufficient units: revenue, credit, artisanal production and commodity trade linked them to towns and merchant networks.
+- ✅ Towns, crafts and trade continued in many regions; Bengal, Gujarat, Awadh-Banaras and parts of the south contained important commercial and surplus-producing zones.
 - ✅ Common people faced heavy taxation and insecurity during warfare, but the picture was not one of uniform decline.
 - ✅ Religious tolerance and composite culture survived strongly in everyday life, despite political conflict.
 - ⚠️ A major weakness was the absence of sustained **scientific and technological advance**, which later widened the gap with Europe.

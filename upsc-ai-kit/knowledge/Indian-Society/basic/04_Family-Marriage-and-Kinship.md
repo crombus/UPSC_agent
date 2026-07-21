@@ -3,9 +3,9 @@
 > **Subject:** Indian Society | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I.
 > **Core area:** Family typology, forms of marriage, kinship systems, and the
 > interreligious-marriage half of the intercaste/interreligious marriage divergence.
-> **Grounded in:** NFHS-6 (2023-24, released 29 May 2026) marriage and fertility
-> indicators; classical kinship typologies (patrilineal/matrilineal systems); audited 2024
-> GS-I Mains PYQ.
+> **Grounded in:** NFHS-5 (2019-21, latest released national round as checked 21 July 2026)
+> fertility indicators; classical kinship typologies (patrilineal/matrilineal systems);
+> audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/04_Family-Marriage-and-Kinship.md`.*
 
@@ -31,22 +31,22 @@ PATRILINEAL (descent/property via father's line - majority pattern)
 MATRILINEAL (descent/property via mother's line - e.g., Khasi, Nair)
         |
         v
-BOUNDARY-CROSSING GRADIENT
-Intercaste marriage (status-parity eases it)  >
-Interreligious marriage (identity/personal-law anchors it)
+BOUNDARY-CROSSING EXPLANATIONS (2024 PYQ)
+Intercaste marriage (status parity may matter)  |
+Interreligious marriage (kinship/community constraints may matter)
 ```
 
-**Core proposition:** ✅ The Indian family is shifting from joint to nuclear forms under
-urbanisation and migration, marriage remains predominantly endogamous and arranged even as
-self-choice marriage grows, and kinship systems are overwhelmingly patrilineal with
-significant matrilineal exceptions — against this backdrop, caste boundaries in marriage
-are eroding faster than religious boundaries.
+**Core proposition:** ⚠️ Urbanisation and migration can encourage smaller or separate
+households without ending intergenerational support. Marriage remains strongly shaped by
+endogamy and kinship norms, while self-choice and boundary-crossing marriages vary sharply
+by region, class and generation; the 2024 PYQ's intercaste/interreligious contrast must be
+analysed as a qualified pattern, not treated as a national series.
 
 ## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Joint family** | A multi-generational household sharing residence, property and income under a common head, historically the normative Indian family form. |
+| ✅ **Joint family** | A multi-generational family arrangement that may share residence, property, income or obligations. Co-residence is an important form, but family functions can persist across separate households. |
 | ✅ **Nuclear family** | A household consisting of parents and their unmarried children, increasingly common with urban migration and occupational mobility. |
 | ✅ **Endogamy / Exogamy** | Endogamy requires marriage within one's own group (caste, sub-caste, sometimes religion); exogamy requires marriage outside a specified unit, classically the gotra or clan, to avoid consanguinity. |
 | ✅ **Patrilineal / Matrilineal kinship** | Patrilineal systems trace descent and property through the father's line (the majority Indian pattern); matrilineal systems trace descent and property through the mother's line, as among the Khasi of Meghalaya and the Nair of Kerala. |
@@ -59,9 +59,10 @@ are eroding faster than religious boundaries.
    and rising individual income have shifted many households from joint to nuclear form,
    though joint-family ties (financial support, ritual obligation) often persist even after
    physical separation.
-2. **Marriage-form persistence and change:** ✅ arranged marriage within caste and often
-   within religion remains the dominant pattern, but self-choice ("love") marriage,
-   inter-caste marriage and, more slowly, inter-religious marriage are all rising.
+2. **Marriage-form persistence and change:** ⚠️ caste endogamy and family participation in
+   marriage choice remain strong in many settings, while self-choice and boundary-crossing
+   marriages vary by region, class, education and generation. Do not convert a visible trend
+   into an undated all-India prevalence claim.
 3. **Endogamy as the default, exogamy as the qualifier:** ✅ most Indian marriages are
    caste-endogamous while simultaneously gotra-exogamous (avoiding marriage within the same
    clan lineage) — the two rules operate together, not in opposition.
@@ -69,10 +70,10 @@ are eroding faster than religious boundaries.
    inheritance, matrilineal systems among groups such as the Khasi (Meghalaya) and
    traditionally the Nair (Kerala) show that Indian kinship is not uniform, and that
    women's property and lineage roles differ sharply by region and community.
-5. **Boundary-crossing gradient:** ⚠️ intercaste marriage is increasingly accepted when
-   families are of similar socio-economic standing, but interreligious marriage remains
-   far more constrained by community identity and personal-law considerations, showing
-   family and marriage norms are not eroding uniformly across all social boundaries.
+5. **Boundary-crossing gradient:** ⚠️ the 2024 PYQ proposes that socio-economic parity can
+   ease some intercaste matches, while interreligious matches may face additional community,
+   kinship and identity constraints. The Special Marriage Act supplies a civil route, so
+   personal-law plurality alone is not an adequate explanation; patterns are not uniform.
 6. **Globalisation's family effect:** ⚠️ urban migration of young, skilled and unmarried
    women for work has expanded personal choice in partner selection and timing of marriage,
    while also creating new tension with family expectations of control over marriage
@@ -88,10 +89,10 @@ are eroding faster than religious boundaries.
 - ⚠️ **Family as socialisation unit:** the family remains the primary institution
   transmitting caste, religious and gender norms across generations, making it the site
   where broader social change (or resistance to it) is first visible.
-- ✅ **Legal-social gap on live-in relationships and domestic violence:** the detailed
-  legal remedies (protection orders, residence rights) for women in domestic and
-  live-in relationships are treated in `Social-Justice/basic/05_Women-and-Gender-Justice.md`
-  and are not re-derived here.
+- ✅ **Legal-social gap on live-in relationships and domestic violence:** protective remedies
+  can apply to qualifying relationships, but legal recognition and social acceptance do not
+  move together. Details are treated in
+  `Social-Justice/basic/05_Women-and-Gender-Justice.md` and are not re-derived here.
 
 ## 5. Indian applications and PYQ mapping
 
@@ -101,15 +102,18 @@ are eroding faster than religious boundaries.
   marriage crosses a boundary anchored in personal law, community belonging and often
   family/community sanction that operates independently of economic standing, which is why
   it lags behind intercaste marriage even where the couples concerned are of equal
-  socio-economic standing — the primary sociological treatment of the caste-marriage half
-  of this PYQ is in `02_Caste-System-Structure-and-Contemporary-Dynamics.md`.
+  socio-economic standing. State this as a qualified explanation to test, not a claim that
+  personal law makes interreligious marriage impossible; the Special Marriage Act provides
+  a civil route. The caste-marriage half is in
+  `02_Caste-System-Structure-and-Contemporary-Dynamics.md`.
 - ⚠️ A Khasi household where the youngest daughter inherits the family home illustrates
   matrilineal kinship operating alongside India's dominant patrilineal norm.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ NFHS-6 (2023-24), released 29 May 2026, reported India's Total Fertility Rate at 2.0,
-  a fertility-linked indicator directly relevant to family-size change.
+- ✅ NFHS-5 (2019-21) reported India's Total Fertility Rate at 2.0. It is the latest released
+  national NFHS round as checked on 21 July 2026; do not present it as a 2026 household
+  estimate.
 - ✅ The Khasi of Meghalaya and, traditionally, the Nair of Kerala are the most commonly
   cited matrilineal kinship systems in India.
 - ✅ Gotra exogamy (marrying outside the paternal clan lineage) is observed widely alongside
@@ -135,33 +139,32 @@ are eroding faster than religious boundaries.
 
 ## 8. 📰 Current anchor
 
-- 📰 NFHS-6 (2023-24), officially released on 29 May 2026, reported India's Total Fertility
-  Rate stable at 2.0 — a family-size-relevant indicator; women's bank-account ownership at
-  89.0% and ever-internet-use at 64.3% are treated in `07_Women-and-Womens-Organisations.md`
-  and are not restated here.
+- 📰 NFHS-5 (2019-21) reported a national TFR of 2.0. It is a dated survey indicator of
+  fertility, not a direct measure of household form or marriage acceptance; no unissued
+  NFHS-6 result should be used as a current anchor.
 
 ## 9. PYQ application
 
-- ✅ **2024 GS-I (10 marks):** from the family/kinship angle, emphasise that interreligious
-  marriage crosses a personal-law and community-identity boundary that is independent of
-  economic standing, which explains its slower normalisation relative to intercaste
-  marriage; cross-refer to Topic 02 for the caste-side analysis.
+- ✅ **2024 GS-I (10 marks):** from the family/kinship angle, explain how kinship, community
+  identity and family sanction can make parity insufficient for some interreligious matches;
+  note the Special Marriage Act's civil route and avoid treating the qualified PYQ premise as
+  a universal trend. Cross-refer to Topic 02 for the caste-side analysis.
 
 ## 10. Mains angles
 
 - ⚠️ Use the joint-to-nuclear transition and the endogamy/exogamy pairing as the structuring
   concepts for any family-and-marriage question.
 - ⚠️ Cite matrilineal exceptions whenever a question implies India's kinship is uniform.
+- ⚠️ Distinguish a Census/survey measure from qualitative marriage evidence; no broad claim
+  about a national trend should be inferred from the 2024 PYQ alone.
 - ⚠️ Keep legal remedies for domestic violence or live-in relationships cross-linked, not
   restated.
 
-> **Answer thesis:** The Indian family is transitioning from joint to nuclear forms without
-> fully abandoning joint-family obligations, marriage remains predominantly endogamous and
-> arranged even as self-choice and intercaste marriage rise, and kinship is overwhelmingly
-> patrilineal with important matrilineal exceptions; within this framework, the 2024 PYQ's
-> observation that interreligious marriage lags intercaste marriage reflects the deeper,
-> personal-law-anchored nature of religious boundaries compared to increasingly
-> status-conditioned caste boundaries.
+> **Answer thesis:** Family change is uneven: separate residence can coexist with
+> intergenerational obligation, and kinship is mostly patrilineal with important matrilineal
+> exceptions. For the 2024 PYQ, assess how status parity, kinship, family sanction and
+> community identity interact, while recognising the civil-marriage route and strong regional
+> variation rather than attributing every difference to personal law.
 
 ## 11. Probable questions
 

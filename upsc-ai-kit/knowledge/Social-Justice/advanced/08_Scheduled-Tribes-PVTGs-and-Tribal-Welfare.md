@@ -61,7 +61,7 @@ policy coherence.
 |---|---|
 | ✅ **Individual vs community vs community forest resource rights (FRA)** | Individual rights secure land-holding for habitation/cultivation (≤4 ha); community rights grant collective ownership of MFP, grazing, traditional/customary access; community forest resource rights empower the Gram Sabha to protect/manage traditionally conserved forests — the third category is the most empowering but least operationalised. |
 | ✅ **PVTG criteria** | Pre-agricultural or low-level technology, low literacy, declining or stagnant population, economic backwardness relative to other tribal groups — 75 communities are officially identified. |
-| ✅ **FRA rejection vs eviction** | FRA provides a process for recognising rights; rejected claims may lead to eviction from forest land. The Supreme Court's 2019 order directing eviction of rejected claimants was stayed, but the rejection-eviction link remains a policy concern. |
+| ✅ **FRA rejection vs eviction** | FRA provides a process for recognising rights; rejection does not erase due-process duties or justify automatic eviction. The Supreme Court's 2019 eviction direction concerning rejected claims was stayed, so an answer must not treat that interim episode as a standing automatic-eviction rule. |
 | ⚠️ **Land alienation** | Transfer of tribal land to non-tribals, regulated by state-specific tenancy/land-transfer laws in Fifth Schedule areas (e.g., Chotanagpur Tenancy Act, AP Scheduled Areas Land Transfer Regulation) — a persistent welfare problem despite legal prohibition. |
 | ⚠️ **R&R policy** | Rehabilitation and Resettlement policy (various state and central frameworks, including the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013) — intended to compensate and resettle displaced tribals, but implementation gaps persist. |
 
@@ -72,9 +72,11 @@ policy coherence.
    power, industry; tribals lose land, forest access and livelihood.
 2. **Dams/irrigation projects:** submergence displaces habitation; R&R often delayed or
    inadequate.
-3. **Protected-area notification:** wildlife sanctuaries/national parks restrict tribal
-   access; FRA's Section 4(2) provides for in-situ rehabilitation or R&R for
-   unavoidable relocation, but implementation is weak.
+3. **Protected-area notification:** wildlife sanctuaries/national parks can restrict
+   access. FRA Section 4(2) permits modification of rights in critical wildlife habitat
+   only after its cumulative safeguards — completed rights recognition, scientific case,
+   coexistence assessment, Gram Sabha's free informed consent and a secure resettlement/
+   livelihood package — are met; it is not a general relocation power.
 4. **Land alienation:** despite legal prohibition, tribal land transfers to non-tribals
    through informal/illegal means continue; state-level enforcement is variable.
 
@@ -110,8 +112,9 @@ policy coherence.
 - ✅ **PESA (welfare angle):** Gram Sabha's mandatory consultation before land acquisition;
   MFP ownership; money-lending regulation; control over village markets — empowers
   tribal self-governance at the village level in Scheduled Areas.
-- ✅ **PM-JANMAN:** 2023-24 launch; PVTG-saturation design; convergence with PMAY-G
-  (housing), NHM (health), MoTA (education/hostels/EMRS).
+- ✅ **PM-JANMAN:** launched 15 November 2023; convergence design for 75 PVTG
+  communities across 18 States/UTs, including PMAY-G (housing), health, education,
+  connectivity and livelihoods.
 - ✅ **TRIFED:** national-level agency for tribal-produce marketing; implements Van Dhan
   Yojana and MSP-for-MFP.
 - ✅ **State land-transfer laws:** Chotanagpur Tenancy Act (Jharkhand), AP Scheduled
@@ -163,10 +166,9 @@ policy coherence.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 PM-JANMAN (launched 2023-24) is the most significant recent tribal-welfare
-  initiative. No specific beneficiary count is cited because data updates continuously;
-  the durable facts are: PVTG-saturation design, convergence with PMAY-G/NHM/MoTA, and
-  75-community scope.
+- 📰 **PM-JANMAN (21 July 2026):** launched on 15 November 2023 for 75 PVTG communities
+  across 18 States/UTs. Its convergence design is the durable fact; qualify any coverage
+  number by component and reporting date.
 
 ## 10. PYQ-based analytical application
 

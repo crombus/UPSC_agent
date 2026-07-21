@@ -47,8 +47,9 @@ across most Indian states is the central governance-quality problem this topic a
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **The 3Fs of devolution** | Funds (own-source revenue and predictable, formula-based transfers), Functions (subjects actually transferred in practice, not merely listed in a state Panchayati Raj Act), and Functionaries (staff genuinely accountable to and controlled by the local body, not merely deputed while remaining answerable to a state department). |
-| ✅ **District Planning Committee (DPC)** | A body mandated (under the constitutional local-governance framework) to consolidate the development plans prepared by Panchayats and Municipalities in a district into a single, coherent district development plan. |
-| ✅ **Kerala People's Plan Campaign (1996)** | A landmark decentralised-planning initiative in Kerala that devolved roughly a third of the state's plan outlay directly to local bodies with genuine functional and financial devolution, widely cited as India's most substantive local-governance decentralisation experiment. |
+| ✅ **District Planning Committee (DPC)** | Article 243ZD requires consolidation of Panchayat and Municipality plans and preparation of a draft district plan, considering common interests such as spatial planning, shared resources, infrastructure and environmental conservation. At least four-fifths of members are elected by and from local elected members in the district, proportionate to rural/urban population. |
+| ✅ **Kerala People's Plan Campaign (1996)** | A landmark decentralised-planning initiative combining substantial plan-resource devolution, participatory planning, functional transfer and capacity support. Avoid a fixed "one-third" figure unless citing the relevant official period/document. |
+| ✅ **PESA, 1996 dimension** | In Fifth Schedule areas, Gram Sabha approval/consultation and control provisions under PESA strengthen self-governance. PESA requires consultation before land acquisition/resettlement in Scheduled Areas; do not misstate this central provision as a universal consent requirement. |
 | ⚠️ **Rural-urban local body merger** | Combining a rural local body (Gram Panchayat) with an adjoining urban local body (Municipality), typically in rapidly urbanising peri-urban areas, to provide unified planning and service delivery across a functionally continuous settlement. |
 | ⚠️ **Service-delivery angle vs constitutional-structure angle** | Governance studies whether local bodies actually deliver services given their real functional/financial/functionary capacity; the 73rd/74th Amendments' composition, reservation and constitutional-status details are a Polity-owned topic — this file cross-links rather than repeats that content. |
 
@@ -79,6 +80,8 @@ across most Indian states is the central governance-quality problem this topic a
 - ✅ **Kerala People's Plan Campaign model** — genuine, large-scale devolution of plan funds,
   functions and functionary support directly to Gram Panchayats and municipalities, widely
   cited as a benchmark decentralisation practice.
+- ✅ **Ministry of Panchayati Raj Devolution Index 2024** — a current official diagnostic of
+  state-level devolution. Cite its edition/methodology before using any rank.
 - ⚠️ **State Finance Commissions** — recommend the distribution of state revenue between the
   state government and local bodies, directly affecting the "Funds" leg of the 3Fs
   (composition/constitutional-mandate detail is Polity-owned; here the focus is their
@@ -126,12 +129,10 @@ across most Indian states is the central governance-quality problem this topic a
 
 ## 8. 📰 Current anchor
 
-- 📰 The 3Fs framework (Funds, Functions, Functionaries) is the fixed, durable diagnostic for
-  local-body service-delivery capacity. No fixed current devolution "score" for any specific
-  state is asserted here, since actual own-revenue powers, functional transfer and
-  functionary control continue to evolve state by state; the durable analytical point is
-  that a devolution gap between constitutional recognition and actual 3F transfer persists
-  in most states outside Kerala's benchmark model.
+- 📰 **Status checked 21 July 2026:** the Ministry of Panchayati Raj's Devolution Index
+  Report 2024 is the current official comparative reference located for Panchayats. Use the
+  report's edition and methodology, and do not extend PRI rankings automatically to urban
+  local bodies.
 
 ## 9. PYQ application
 
@@ -152,6 +153,9 @@ across most Indian states is the central governance-quality problem this topic a
   devolution whenever a question asks for a successful decentralisation example.
 - ⚠️ For any merger/reorganisation question, structure the answer with explicit, separately
   labelled pros and cons rather than a blended discussion — examiners reward this clarity.
+- ⚠️ Add inclusion safeguards: Gram Sabha/Ward consultation, PESA compliance where applicable,
+  protection of rural representation/common resources, fiscal transition and continuity of
+  essential services.
 
 > **Answer thesis:** Local bodies can deliver good governance only where Funds, Functions
 > and Functionaries are devolved together, not merely where they are constitutionally

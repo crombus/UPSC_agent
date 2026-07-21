@@ -32,7 +32,7 @@
 **Foundation — post-war unrest showed the Raj's coercive base was weakening.**
 
 - ✅ The INA trials of **Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon** created Hindu-Muslim-Sikh unity in public sympathy.
-- ✅ The **RIN Mutiny (February 1946)** began among ratings of HMIS Talwar in Bombay and spread to other centres, signalling disaffection within the armed forces.
+- ✅ The **RIN ratings' revolt (February 1946)** began at HMIS Talwar in Bombay and spread to ships and shore establishments. It was serious but short-lived, urban-centred and not a coordinated national military revolution.
 - ✅ The **Cabinet Mission (1946)** rejected Pakistan but proposed a weak centre, provincial groups, provinces, a Constituent Assembly and an Interim Government.
 - ✅ **Direct Action Day (16 August 1946)** marked the collapse of constitutional trust into mass communal violence.
 
@@ -72,6 +72,7 @@
 
 - ❌ INA won India's independence on the battlefield. → INA's military campaign failed, but its trials created huge patriotic mobilisation.
 - ❌ RIN Mutiny was a Congress-led movement. → It was a naval ratings' revolt; national parties did not fully own it.
+- ❌ INA/RIN alone forced immediate British withdrawal. → They intensified the post-war crisis, but long-term loss of legitimacy, mass nationalism, British weakness and constitutional calculations also mattered.
 - ❌ Cabinet Mission accepted the demand for Pakistan. → It **rejected Pakistan** but proposed provincial groupings.
 - ❌ Cabinet Mission created the Constitution of India. → It proposed the **Constituent Assembly** framework; the Assembly drafted the Constitution later.
 - ❌ Direct Action Day was part of the Cabinet Mission proposal. → It was a Muslim League political call after constitutional deadlock.

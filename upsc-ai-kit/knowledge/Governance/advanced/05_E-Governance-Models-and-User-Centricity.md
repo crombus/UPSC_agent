@@ -13,28 +13,26 @@
 ## 1. Architecture
 
 ```text
-MATURITY LADDER (rising citizen value, rising design difficulty)
-Broadcasting -> Critical Flow -> Comparative Analysis -> Mobilisation -> Interactive Service
-(inform)        (alert)          (benchmark)             (organise)      (transact + account)
-        |                                                                     |
-        v                                                                     v
- LOW DESIGN RISK:                                              HIGH DESIGN RISK:
- mostly back-end-driven                                        must be citizen-journey-driven
- (publishing existing data                                     or it silently reproduces the
- is technically simple)                                        back-end-integration bias (2025 PYQ)
+FIVE COMPLEMENTARY INFORMATION/INTERACTION STRATEGIES
+Broadcasting | Critical Flow | Comparative Analysis | Mobilisation | Interactive Service
+      \              |                 |                   |                /
+       ------------------ may coexist in one platform ----------------------
+                                      |
+                                      v
+                      SEPARATE MATURITY QUESTION
+ presence/information -> interaction -> transaction -> integration/transformation
 ```
 
-**Analytical claim:** ⚠️ The five e-governance models are not equally vulnerable to the
-technology/back-end bias identified in the 2025 PYQ — the bias risk rises precisely as a
-model's citizen value rises, because higher-value models (Interactive Service) require
-redesigning process around the user, while lower-value models (Broadcasting) can succeed by
-simply publishing existing back-end data.
+**Analytical claim:** ⚠️ Do not rank the five models as a universal maturity sequence.
+Maturity asks how completely a service is digitised and integrated; the models ask what
+information/interaction function is being performed. Interactive services are especially
+exposed to back-end bias because transaction completion requires genuine process redesign.
 
 ## 2. Concepts and distinctions
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Model vs maturity stage** | The five models (Section 1) describe *what kind of interaction* e-governance provides; maturity stages (commonly: presence/informational, interaction, transaction, integration/transformation — echoed in UN e-Government Development Index-style thinking and NeSDA's own end-service-delivery and integrated-service-delivery parameters) describe *how completely* any given model is realised. A portal can adopt the Interactive Service Model in name while remaining stuck at a low maturity stage if it is not genuinely end-to-end. |
+| ✅ **Model vs maturity stage** | The five models describe an information/interaction strategy; maturity stages describe service depth. They must not be collapsed into one ladder. A portal can combine broadcasting, comparative data and transaction features while still failing end-to-end completion. |
 | ✅ **NeSDA's twin service-completion parameters** | "End service delivery" (is the service actually completed online, not just initiated) and "integrated service delivery" (are multiple departments/services joined up seamlessly) are the two NeSDA parameters that operationally distinguish genuine Interactive Service Model delivery from a digitised front-end bolted onto unchanged back-end silos. |
 | ⚠️ **Technology-push vs user-pull design** | Technology-push design begins from available IT capability/back-end database structure and builds a citizen interface around it; user-pull design begins from mapping the citizen's actual task/journey and builds the back-end integration to serve that journey — the 2025 PYQ's "built-in bias" is precisely a structural tendency toward technology-push design in government IT procurement. |
 | ⚠️ **Transparency vs accountability in the Interactive Service Model** | Transparency (visibility of status, rules, timelines) is a necessary but insufficient condition for accountability (an identifiable authority who must explain or remedy failure); the 2024 PYQ's phrase "multifarious interactions... for ensuring transparency and accountability" requires showing both are structurally built in, not just transparency alone. |
@@ -66,18 +64,17 @@ simply publishing existing back-end data.
   use the interactive features (tracking, escalation) — a technology-push design that is
   functionally interactive but practically unusable for a low-literacy or low-connectivity
   citizen defeats the model's accountability purpose even while formally implementing it.
-- ⚠️ NeSDA's own parameter of "e-participation" is the direct institutional analogue of the
-  Mobilisation and Networking Model — showing that NeSDA is implicitly built to assess all
-  five classical models, not only transactional service delivery.
+- ⚠️ E-participation/open-data assessments may complement NeSDA work, but the core NeSDA
+  2021 portal parameters should not be inflated by merging every related assessment category.
 - ⚠️ The Comparative Analysis Model (citizen-facing performance dashboards) can itself
   create indirect accountability pressure on departments to fix back-end-biased portals,
   making it a potential corrective mechanism for the very bias the 2025 PYQ raises.
 
 ## 4. Institutional and reform architecture
 
-- ✅ DARPG's NeSDA is the principal institutional corrective for user-centricity, explicitly
-  scoring accessibility (including for persons with disabilities and multiple languages),
-  ease of use and end-to-end service completion, not just back-end functionality.
+- ✅ DARPG's NeSDA is a principal benchmarking corrective for user-centricity, scoring
+  accessibility, ease of use and end-to-end completion. Accessibility claims should be
+  verified against the applicable NeSDA/GIGW criteria rather than assumed from portal launch.
 - ✅ Digital India's broader mandate (digital infrastructure, governance on demand, digital
   empowerment of citizens) provides the umbrella policy space within which user-centric
   design reforms sit, but the programme itself does not automatically guarantee
@@ -143,10 +140,9 @@ simply publishing existing back-end data.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 NeSDA's nine assessment parameters (Section 3) are the fixed, durable basis for
-  comparing state/UT and central-ministry e-governance service delivery across cycles. No
-  fixed current state/UT ranking or mandatory-service count is asserted here, since NeSDA
-  rankings and service coverage are re-assessed in each new cycle.
+- 📰 **Status checked 21 July 2026:** NeSDA-Way Forward monthly reports continue, and the
+  dated mandatory e-service set is 56. Core NeSDA 2021 portal assessment used seven
+  parameters; verify any revised methodology before calling a later list "fixed."
 
 ## 10. PYQ-based analytical application
 
@@ -160,13 +156,12 @@ simply publishing existing back-end data.
 
 ## 11. Mains-ready framework
 
-**Central thesis:** E-governance's citizen value rises with model maturity from
-Broadcasting to Interactive Service, but so does its vulnerability to a structural
-technology/back-end-integration bias; genuine transparency-and-accountability gains require
-deliberate user-centric design and external, NeSDA-style benchmarking, not technology
-adoption alone.
+**Central thesis:** E-governance models and maturity are separate analytical axes. Genuine
+transparency-and-accountability gains require the right mix of information, comparison,
+participation and transaction functions, implemented through user-centred process redesign
+and independently tested completion/accessibility outcomes.
 
-1. Name the specific e-governance model(s) at issue and place it on the maturity ladder.
+1. Name the model(s) at issue and separately identify the service's maturity stage.
 2. Explain the structural bias mechanism (procurement, capacity asymmetry, launch metrics).
 3. Separate transparency from accountability explicitly when evaluating any interactive
    platform.

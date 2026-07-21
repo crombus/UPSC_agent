@@ -14,7 +14,7 @@
 | ✅ 1290 | Jalaluddin Khalji founds the Khalji dynasty ("Khalji revolution") |
 | ✅ 1296 | Alauddin murders Jalaluddin, seizes the throne |
 | ✅ 1298–1311 | Deccan/South campaigns under **Malik Kafur** |
-| ✅ 1303 | Conquest of **Chittor**; c. this period the **market reforms** begin |
+| ✅ 1303 | Conquest of **Chittor**; market reforms belong to the standing-army/Mongol-pressure phase, but their exact start-year is not securely fixed |
 | ✅ 1316 | Death of Alauddin; rapid Khalji decline → Tughlaqs (1320) |
 
 ## 1. Snapshot & core idea
@@ -29,7 +29,7 @@
 **Foundation — market control & agrarian policy.**
 
 ✅ Alauddin sought to **fix the price of all commodities** — from foodgrains, sugar and oil "to a needle," and from imported cloth to horses, cattle and slaves. He set up **three markets at Delhi**: (1) foodgrains, (2) costly cloth, (3) horses, slaves & cattle. Each was under a high officer, the **shahna**, who kept a register of merchants and strictly controlled shopkeepers and prices.
-- ✅ **Cheap grain supply:** land revenue in the **doab** (Meerut to Kara) was taken **directly by the state** (no iqta assignment), and revenue was **raised to half (50%) of the produce**, payable in **cash**.
+- ✅ **Cheap grain supply:** land revenue in the **doab** (Meerut to Kara) was taken **directly by the state** (no iqta assignment), assessed at **half (50%) of the produce**. It was calculated in kind and generally demanded in cash, while areas near Delhi also supplied a portion in kind for royal stores.
 - ✅ This forced peasants to sell grain cheaply to **banjaras** (grain-carriers), who were **registered** and collectively responsible, to carry it to Delhi and sell at **state-fixed prices**.
 - ✅ **Anti-hoarding:** the state built **granaries/warehouses**, stocking grain to release during famine/shortage; **very harsh punishment** for overcharging or cheating.
 
@@ -39,7 +39,7 @@
 |---|---|
 | ✅ Three Delhi markets | Foodgrains · costly cloth · horses/slaves/cattle |
 | ✅ Shahna | Superintendent controlling each market, merchant register & prices |
-| ✅ Doab direct revenue | State takes revenue directly, revenue = **½ of produce**, in cash |
+| ✅ Doab direct revenue | State takes revenue directly; **½ of produce**; cash demand with some collection in kind near Delhi |
 | ✅ Banjaras registered | Grain-carriers bound to bring grain to Delhi at fixed prices |
 | ✅ State granaries | Buffer stocks released in famine to hold prices |
 | ⚠️ Sarai-i-Adl | The cloth market (standard name); grain sold in the *mandi* |
@@ -70,7 +70,7 @@
 
 ## 6. 📰 Current link
 
-- 📰 **ASI restoration of the Alai Darwaza (Qutb Complex), 2024–26** — the gateway built by Alauddin Khalji in **1311** is under phased ASI conservation: Phase 1 (from July 2024) restored eroded hand-carved red-sandstone up to 6 ft; Phase 2 (2025–26) targets the upper structure to ~20 ft (*Times of India / Hindustan Times*). Relevance: the Alai Darwaza is the **first true Islamic (horseshoe) arch** in India and part of the UNESCO **Qutb Minar** World Heritage Site — a live heritage-governance and art-history hook for Khalji-era architecture.
+📰 **Current linkage (verify live before use):** Alai Darwaza conservation can link Khalji policy to architecture. Do not call it India's first true arch—the source places the first surviving true arch in Balban's tomb; Alai Darwaza marks a mature, scientifically constructed arch-and-dome phase.
 
 ## 7. Mains angles
 

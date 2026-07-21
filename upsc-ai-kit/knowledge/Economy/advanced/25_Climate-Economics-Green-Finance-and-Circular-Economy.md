@@ -4,7 +4,7 @@
 > **Core area:** Sustainable development.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md`.*
+> *Companion: `../basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md`.*
 
 ---
 
@@ -134,15 +134,22 @@ tracking and verification create greenwashing rather than additional climate act
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 Economic Survey 2025-26 notes 30.16 GW of solar capacity addition in its cited chapter context. | Use the capacity addition only within the Survey 2025-26 chapter context and connect it to grid and storage needs. |
-| 📰 Economic Survey 2025-26 highlights 4.47 GW of other clean-capacity addition alongside solar additions. | Other clean-capacity additions broaden the transition beyond solar but still require technology-specific analysis. |
+| 📰 FY2025-26 up to 31 Dec 2025 renewable installations were 38.61 GW: solar 30.16 GW, wind 4.47 GW, bio-power 0.03 GW and hydro 3.24 GW. | Treat these as period installations, not total capacity; connect rapid additions to grid, storage, land, finance and dispatchability. |
 | 📰 The 2025 official key confirms that lower raw-material use and waste explain circular economy's emissions benefit. | The PYQ supplies the causal chain from lower virgin-material use and waste to lower emissions. |
 
 ## 10. PYQ-based analytical application
 
 - ⚠️ 2025 Prelims: circular economy mechanisms and greenhouse-gas reduction.
-- ⚠️ 2025 GS-I and GS-III questions connect sustainable growth, clean energy and mining
-  externalities.
+- ⚠️ 2025 GS-III: clean-technology energy independence and biotechnology; CCUS; and
+  India's Paris/COP26/updated-NDC commitments.
+- ⚠️ **Answer engine:** mitigation—renewables, efficiency, electrification, industry and
+  CCUS for hard-to-abate sectors; adaptation—water, agriculture, resilient infrastructure
+  and social protection; enabling conditions—grid/storage, finance, innovation, skills,
+  affordability and just transition. State the 2022 updated NDC's about-50% cumulative
+  non-fossil installed-capacity target for 2030 separately from wider political
+  announcements and long-term aspirations.
+
+Source: [MoEFCC LT-LEDS/UNFCCC submission](https://moef.gov.in/uploads/2022/11/Indias-LT-LEDS.pdf).
 
 ## 11. Mains-ready framework
 
@@ -168,8 +175,7 @@ tracking and verification create greenwashing rather than additional climate act
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/25_Climate-Economics-Green-Finance-and-Circular-
-  Economy.md`.
+- ✅ Foundation companion: `../basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md`.
 - ✅ `14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` — adaptation and
   resource resilience.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — resilient and clean

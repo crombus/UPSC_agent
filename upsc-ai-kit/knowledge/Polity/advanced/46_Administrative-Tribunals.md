@@ -1,7 +1,8 @@
 # Administrative Tribunals and Tribunal Reforms - ADVANCED
 
 > **Subject:** Polity | **Tier:** Advanced | **GS Paper:** GS-II  
-> **Grounded in:** Articles 323-A and 323-B; Administrative Tribunals Act, 1985;
+> **Grounded in:** Laxmikanth's Tribunals chapter (direct check of the local Sixth Revised Edition PDF);
+> Articles 323-A and 323-B; Administrative Tribunals Act, 1985;
 > *S.P. Sampath Kumar* (1987); *L. Chandra Kumar* (1997); *Madras Bar Association*
 > tribunal cases; Tribunal Reforms Act, 2021; verified 2025 GS-II Q2.  
 > ✅ = official/case-grounded | ⚠️ = analysis | 📰 = current/PYQ anchor.  
@@ -58,6 +59,11 @@ independence, stable tenure, adequate benches and constitutional-court supervisi
 - ✅ The Supreme Court's *Madras Bar Association* line insists that tribunal
   appointments, tenure and conditions must preserve judicial independence and
   separation of powers.
+- 📰 ✅ **Status 21 Jul 2026:** the 2021 Act's four-year tenure provisions remain
+  contested against the Court's earlier five-year-tenure directions. On **9 Mar 2026**,
+  the Supreme Court made an interim arrangement extending specified incumbents until
+  **8 Sep 2026** (or maximum age) and continued periodic supervision; this was not a final
+  merits judgment on the Act.
 
 | Claimed gain | Counter-risk | Surgical reform |
 |---|---|---|
@@ -86,6 +92,9 @@ independence, stable tenure, adequate benches and constitutional-court supervisi
   under Articles 226/227.
 - ❌ Tribunalisation permits Parliament to remove the basic structure. -> Constituent
   and legislative power remain subject to basic-structure judicial review.
+- ❌ The 2021 tenure dispute has a final constitutional answer. -> It remains under
+  Supreme Court supervision; distinguish the statutory four-year text, prior judicial
+  independence directions and the March 2026 interim extensions.
 
 ## 7. Study links
 
@@ -93,4 +102,3 @@ independence, stable tenure, adequate benches and constitutional-court supervisi
 - `advanced/21_High-Court-and-Subordinate-Courts.md` - Articles 226/227 and court burden.
 - `Governance/advanced/11_Regulatory-Governance-and-Independent-Regulators.md` -
   independence/accountability design for specialist bodies.
-

@@ -60,6 +60,7 @@
 - ✅ Jahangir deliberately avoided over-extension in the Deccan after victories.
 - ✅ **Daulatabad (1633)** = end of Nizam Shahi dynasty.
 - ✅ **Treaties of 1636** made Bijapur and Golconda accept Mughal suzerainty/protection.
+- ✅ The **1597 battle of Sonepat** in the assigned source belongs to the Berar-Deccan campaign; it should not be confused with present-day Sonipat in Haryana.
 
 ## 5. UPSC Traps
 
@@ -72,11 +73,10 @@
 
 ## 6. 📰 Current link
 
-📰 **Maratha Military Landscapes inscribed on UNESCO World Heritage List (July 2025):** 12 forts linked to Maratha military systems entered the UNESCO list as India's 44th World Heritage Site. **Relevance:** Malik Ambar's use of Maratha light cavalry is an early bridge to the later Maratha military landscape.
+📰 **Current linkage (verify live before use):** Heritage recognition of Deccan and Maratha forts can connect Malik Ambar's mobile warfare with later fort-centred power. Verify inscription names, dates and component sites from UNESCO.
 
 ## 7. Mains angles
 
 - ⚠️ Mughal Deccan policy evolved from **diplomatic suzerainty** to **selective annexation** and finally toward deeper intervention.
 - ⚠️ Malik Ambar's importance lies less in permanent territorial success and more in training Maratha power and frustrating imperial consolidation.
 - ⚠️ The Deccan shows the limits of Mughal expansion in a region of mobile warfare, competing sultanates and emerging Maratha elites.
-

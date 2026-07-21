@@ -18,6 +18,7 @@
 | ✅ 1934 | Congress Socialist Party formed within Congress |
 | ✅ 1936 | All India Kisan Sabha formed; Sahajanand Saraswati and N.G. Ranga are major leaders |
 | ✅ 1936 | Faizpur Congress foregrounds agrarian questions |
+| ✅ 1945–47 | Warli, Tebhaga and Telangana struggles mark a more radical late-colonial agrarian phase |
 | ✅ 1938 | Subhas Chandra Bose elected Congress president at Haripura |
 | ✅ 1939 | Tripuri crisis; Bose resigns and forms Forward Bloc |
 
@@ -34,8 +35,9 @@
 
 - ✅ The **AITUC (1920)** became an early all-India labour platform, with Lala Lajpat Rai as its first president.
 - ✅ Textile and railway strikes indicated that industrial workers were becoming politically visible in the freedom struggle.
-- ✅ Peasant movements included earlier **Champaran**, **Awadh/Eka**, **Moplah (1921)** and the later **Bardoli Satyagraha (1928)**.
+- ✅ Peasant movements included **Awadh Kisan mobilisation (Baba Ramchandra)**, **Eka (1921–22)**, **Moplah (1921)** and **Bardoli (1928)**. Moplah combined agrarian and anti-colonial grievances but also acquired a grave communal dimension; it must not be romanticised as a purely class movement.
 - ✅ The **All India Kisan Sabha (1936)** brought agrarian issues onto an organised national platform.
+- ✅ In the late 1930s–40s, **Bakasht** struggles in Bihar, the **Warli Adivasi movement (1945)**, **Tebhaga (1946)** and **Telangana (from 1946)** connected tenancy, rent, forced labour and land questions with left organisation.
 - ✅ The **All India States Peoples' Conference (1927)** coordinated struggles for rights in princely states.
 - ✅ Subhas Bose's **Haripura (1938)** and **Tripuri (1939)** presidency episodes highlighted tensions between left-radical planning and the Gandhian-majority leadership.
 
@@ -47,6 +49,7 @@
 | ✅ Communist | CPI/Kanpur 1925; Meerut Case 1929–33 | Radical labour-left politics and colonial repression |
 | ✅ Labour | AITUC, 1920 | First major all-India trade-union platform |
 | ✅ Peasant | Bardoli 1928; AIKS 1936 | Revenue, tenancy and agrarian mobilisation |
+| ✅ Late-colonial agrarian radicalism | Bakasht, Warli, Tebhaga, Telangana | Sharecropping, landlord power, forced labour and land redistribution |
 | ✅ Congress economy | Karachi 1931; Faizpur 1936 | Rights, labour protection and agrarian programme |
 | ✅ Princely states | AISPC 1927 | Democratic movements under Indian princes |
 | ✅ Bose current | Haripura 1938; Tripuri 1939; Forward Bloc | Left-nationalist challenge inside Congress |
@@ -65,6 +68,7 @@
 - ✅ CSP leaders included **Jayaprakash Narayan**, **Acharya Narendra Dev**, **Ram Manohar Lohia** and **Minoo Masani**.
 - ✅ **All India Kisan Sabha** was formed in **1936**, with leaders such as **Sahajanand Saraswati** and **N.G. Ranga**.
 - ✅ **All India States Peoples' Conference** was founded in **1927** for struggles in princely states.
+- ✅ **Tebhaga (1946)** demanded two-thirds of produce for Bengal sharecroppers; **Telangana** began in 1946 against landlord oppression under the Hyderabad state.
 - ✅ **Subhas Chandra Bose** was Congress president at **Haripura (1938)** and again at **Tripuri (1939)** before resigning.
 - ✅ **Forward Bloc** was formed by Bose in **1939**.
 
@@ -75,6 +79,7 @@
 - ❌ AITUC was founded in 1936. → ✅ AITUC was founded in **1920**.
 - ❌ AIKS was founded in 1920. → ✅ All India Kisan Sabha was formed in **1936**.
 - ❌ Bardoli was a mill-worker strike. → ✅ Bardoli was a **revenue/peasant satyagraha** in Gujarat.
+- ❌ Moplah was either only agrarian or only communal. → It began in an agrarian and anti-colonial setting but included communal violence; both dimensions must be stated.
 - ❌ Patel became "Sardar" after Independence. → ✅ The title became associated with him after **Bardoli (1928)**.
 - ❌ Forward Bloc was formed before the Tripuri crisis. → ✅ Bose formed it in **1939** after resigning from Congress presidentship.
 

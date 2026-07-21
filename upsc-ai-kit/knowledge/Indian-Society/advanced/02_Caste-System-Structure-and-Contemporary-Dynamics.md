@@ -1,10 +1,10 @@
 # Caste System: Structure and Contemporary Dynamics - ADVANCED
 
 > **Subject:** Indian Society | **Tier:** Advanced | **GS Paper:** GS-I.
-> **Core area:** Caste as ethnicity in urban/political life, the caste-class overlap debate,
+> **Core area:** Caste as political identity in urban/electoral life, the caste-class overlap debate,
 > boundary cases in caste mobility, and the intercaste-versus-interreligious marriage divide.
 > **Grounded in:** M.N. Srinivas's Sanskritisation/dominant-caste framework; Census 2027
-> caste-enumeration notification; audited 2024 GS-I Mains PYQ.
+> Gazette/PIB caste-enumeration announcement; audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/02_Caste-System-Structure-and-Contemporary-Dynamics.md`.*
 
@@ -29,7 +29,7 @@ Western contact)                  converge, not ritual rank)
    |                                 |
    +----------------+----------------+
                      v
-        CASTE AS ETHNICITY IN URBAN/
+        CASTE AS POLITICAL IDENTITY IN URBAN/
         ELECTORAL LIFE (interest-group
         function replaces purity-hierarchy
         function)
@@ -44,9 +44,9 @@ Western contact)                  converge, not ritual rank)
 emulation (Sanskritisation) and structural power convergence (dominant caste) — and these
 tracks do not always move together: a jati can Sanskritise its rituals while remaining
 economically weak, or a caste can gain political dominance without ritual-status change;
-the 2024 PYQ's marriage-boundary question is best explained by treating caste boundaries as
-increasingly negotiable on status-parity grounds while religious boundaries remain anchored
-in personal law and community belonging, which erode far more slowly.
+the 2024 PYQ's marriage-boundary question should be treated as a qualified pattern: status
+parity can ease some intercaste matches, while community, kinship and religious-identity
+constraints can make interreligious matches harder in particular contexts.
 
 ## 2. Concepts and distinctions
 
@@ -55,15 +55,15 @@ in personal law and community belonging, which erode far more slowly.
 | ✅ **Sanskritisation vs Westernisation** | Sanskritisation is upward emulation *within* the existing local hierarchy (adopting a dominant caste's rituals); Westernisation introduces *new* values (equality, individual rights, rationality) that can subvert, rather than reinforce, the hierarchy Sanskritisation assumes. |
 | ✅ **Dominant caste vs ritually superior caste** | Dominance is defined by numbers, land ownership and political office in a locality; ritual superiority is defined by position in the purity-pollution hierarchy — the two frequently diverge, and dominance is the better predictor of everyday local power. |
 | ⚠️ **Caste-class overlap vs caste-class cross-cutting** | Overlap describes regions/periods where caste rank and economic class coincide (reinforcing disadvantage); cross-cutting describes cases where class differentiation occurs *within* a caste (a caste with both prosperous and poor members), which is increasingly common with urbanisation and market employment. |
-| ⚠️ **Caste as hierarchy vs caste as ethnicity** | The classical (Dumont-style) view treats caste as a religiously sanctioned purity hierarchy; the contemporary political-sociology view treats caste, especially in urban and electoral contexts, as an ethnic-interest bloc mobilised for resource claims — both readings are valid for different settings, and conflating them in an answer is a common error. |
-| ⚠️ **Status-parity marriage norm vs identity-anchored marriage norm** | Intercaste marriage acceptance increasingly tracks socio-economic parity between families (a status calculation); interreligious marriage acceptance tracks community-identity and personal-law boundaries (a belonging calculation) — this distinction is the analytical key to the 2024 PYQ. |
+| ⚠️ **Caste as hierarchy vs caste as political identity** | The classical (Dumont-style) view treats caste as a religiously sanctioned purity hierarchy; contemporary political sociology also studies caste as a mobilised interest and network in urban and electoral settings. The latter does not make caste identical to ethnicity or remove the continuing relevance of hierarchy and endogamy. |
+| ⚠️ **Status-parity versus community-boundary explanations of marriage** | The 2024 PYQ proposes a qualified pattern: parity can ease some intercaste matches, while interreligious matches may face additional family, community and identity constraints. Treat this as an analytical proposition, not a universal causal law or a national prevalence estimate. |
 
 ## 3. Detailed causal chain
 
 ### Ritual-mobility chain (Sanskritisation)
 1. A jati acquires new economic resources (trade, migration income, education).
-2. It adopts the ritual practices of a locally dominant "twice-born" caste (vegetarianism,
-   temple-centred worship, dowry marriage).
+2. It adopts ritual, dietary or marriage practices associated with a locally higher-status
+   caste; the practices and their local reception vary.
 3. It claims a higher position in the local hierarchy without waiting for external
    reclassification.
 4. ⚠️ Success depends on the dominant caste's tacit acceptance and on the jati's ability to
@@ -81,11 +81,12 @@ in personal law and community belonging, which erode far more slowly.
 ### Marriage-boundary chain (2024 PYQ)
 1. Intercaste marriage between castes of similar socio-economic standing does not disturb
    either family's resource base or local status — acceptance rises.
-2. Interreligious marriage crosses a boundary tied to personal law, community identity and
-   often family/community sanction independent of economic standing — acceptance rises far
-   more slowly even where economic parity exists.
-3. ⚠️ The differential pace shows that caste boundaries are becoming primarily a status
-   calculation while religious boundaries remain an identity-and-belonging calculation.
+2. Interreligious marriage may engage community identity, religious practice and
+   family/community sanction in ways economic parity does not remove. The Special Marriage
+   Act supplies a civil route, so personal-law plurality alone cannot explain resistance.
+3. ⚠️ The differential pattern in the PYQ is best tested against region, class, kinship and
+   generation; it does not show that caste is now only a status calculation or that every
+   religious boundary behaves alike.
 
 ## 4. Institutional and reform architecture
 
@@ -101,7 +102,7 @@ in personal law and community belonging, which erode far more slowly.
   architecture belongs to `Polity` and `Social-Justice/basic/07`.
 - ⚠️ **Urban caste persistence:** even where ritual practices weaken, caste-based networks
   persist in urban housing preferences, matrimonial markets and business partnerships,
-  showing caste as ethnicity outlives caste as ritual hierarchy.
+  showing that caste networks can outlive, without replacing, ritual hierarchy.
 
 ## 5. Indian applications and boundary cases
 
@@ -137,8 +138,10 @@ in personal law and community belonging, which erode far more slowly.
   externally derived values — the two are analytically separate processes.
 - ✅ The 2024 GS-I PYQ explicitly distinguishes intercaste (parity-conditioned, rising) from
   interreligious (identity-anchored, less so) marriage trends.
-- 📰 Census 2027 will for the first time enumerate caste, with reference dates of 1 March
-  2027 (most of India) and 1 October 2026 (snow-bound areas); no data exists yet.
+- 📰 The Government has announced caste enumeration in Census 2027. Gazette S.O. 2681(E)
+  fixes reference dates at 1 October 2026 for specified snow-bound areas and 1 March 2027
+  elsewhere; no data exists as of 21 July 2026. This is not the first caste count in Indian
+  history.
 
 ## 8. Advanced Prelims traps
 
@@ -154,33 +157,35 @@ in personal law and community belonging, which erode far more slowly.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Census 2027's caste-enumeration notification (prospective, digital, two reference
-  dates: 1 March 2027 for most of India, 1 October 2026 for snow-bound areas) is the only
-  verified dated anchor for this topic; no caste-count outcome exists to cite.
+- 📰 Census 2027's prospective caste-enumeration announcement is the dated anchor for this
+  topic. The Gazette fixes 1 October 2026 for specified snow-bound areas and 1 March 2027
+  elsewhere; no caste-count outcome exists as of 21 July 2026. Do not call it India's first
+  historical caste enumeration.
 
 ## 10. PYQ-based analytical application
 
 - ✅ **2024 GS-I (10 marks, verbatim):** "Intercaste marriages between castes which have
   socio-economic parity have increased, to some extent, but this is less true of
   interreligious marriages. Discuss." Analytical route: (a) apply the status-parity versus
-  identity-anchored distinction; (b) explain intercaste easing through the dominant-caste/
-  Sanskritisation lens — families of similar standing see marriage as status-neutral; (c)
-  explain interreligious rigidity through personal-law and community-belonging boundaries,
-  which are unaffected by economic parity; (d) conclude the trend reflects differential
-  erosion speed of caste versus religious social boundaries, not a uniform "modernisation"
-  of all social boundaries at once.
+  community-boundary distinction; (b) explain why parity may matter for some intercaste
+  matches without universalising it; (c) explain interreligious resistance through
+  community-belonging and kinship boundaries while noting the Special Marriage Act's civil
+  route; (d) conclude that the qualified pattern needs region- and class-sensitive
+  evidence, not a uniform “modernisation” story.
 
 ## 11. Mains-ready framework
 
 **Central thesis:** Caste mobility today operates on two only-partly-linked tracks — ritual
-emulation (Sanskritisation) and structural power convergence (dominant caste) — while caste
-and religious marriage boundaries are eroding at different, non-parallel speeds, with caste
-increasingly a negotiable status marker and religion remaining an identity-anchored one.
+emulation (Sanskritisation) and structural power convergence (dominant caste). The 2024
+marriage PYQ should be answered as a qualified, context-dependent pattern: status parity can
+matter, but community, kinship and regional norms can constrain both caste and religious
+boundary crossing.
 
 1. Define varna, jati, endogamy, hierarchy and occupation-linkage precisely.
 2. Introduce Sanskritisation and Westernisation as distinct, sometimes divergent, processes.
 3. Introduce dominant caste as a power-convergence concept independent of ritual rank.
-4. Apply the status-parity versus identity-anchored distinction to the marriage question.
+4. Apply status-parity and community-boundary explanations without treating either as
+   universal.
 5. Give one boundary case each for ritual mobility without structural mobility, and vice
    versa.
 6. Flag the generalisation-risk limitation using the PYQ's own "to some extent" qualifier.
@@ -197,8 +202,8 @@ increasingly a negotiable status marker and religion remaining an identity-ancho
   interreligious marriages. Discuss.
 - ⚠️ **Mains (15 marks):** "Dominant caste status rests on power convergence, not ritual
   rank." Examine with reference to rural India.
-- ⚠️ **Mains (15 marks):** Distinguish between caste as a hierarchy and caste as an ethnic
-  interest group in contemporary Indian politics.
+- ⚠️ **Mains (15 marks):** Distinguish between caste as a hierarchy and caste as a political
+  identity in contemporary Indian politics.
 
 ## 13. Study links
 

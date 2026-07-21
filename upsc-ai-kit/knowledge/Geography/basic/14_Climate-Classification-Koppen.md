@@ -19,8 +19,8 @@
 |---|---|---|
 | ✅ A | Tropical rainy climate with no cool season | Temperature of coolest month above **18°C** |
 | ✅ B | Dry climate | Excess of evaporation over precipitation |
-| ✅ C | Middle-latitude rainy climate with mild winters | Coldest month below **18°C** but above **-3°C**; warmest month over **10°C** |
-| ✅ D | Cold / microthermal climate with severe winter | Coldest month below **-3°C**; warmest month over **10°C** |
+| ✅ C | Temperate / mesothermal climate | Coldest month below **18°C** but above the C/D threshold; warmest month over **10°C** |
+| ✅ D | Continental / microthermal climate | Coldest month below the C/D threshold; warmest month over **10°C** |
 | ✅ E | Polar climate with no warm season | Warmest month below **10°C** |
 | ✅ H | Highland climate | Added later for mountainous, undifferentiated climates |
 
@@ -31,7 +31,7 @@
 | ✅ First capital | A, B, C, D, E | Major climate group |
 | ✅ Moist second letters | f, m, w, s | f = no dry season; m = monsoon/short dry season; w = dry winter; s = dry summer |
 | ✅ Dry-climate second letters | W, S | W = desert/arid; S = steppe/semi-arid |
-| ✅ Temperature letters | h, k, a, c | h = hot, mean annual temp >18°C; k = cold; a = hot summer; c = cool short summer |
+| ✅ Temperature letters | h/k for B; a/b/c/d for C-D | h/k distinguish hot/cold dry climates; a-d distinguish summer warmth/severity |
 
 ## 4. Common full codes
 
@@ -45,7 +45,7 @@
 | ✅ Cs | Mediterranean with dry summer |
 | ✅ Cw | China type / dry winter warm temperate |
 | ✅ Cf | Maritime / no dry season warm temperate |
-| ✅ Df | Cold continental / Siberian type in notes |
+| ✅ Df | Humid continental with no dry season; Siberian interiors often use dry-winter Dw codes |
 | ✅ ET | Tundra |
 | ✅ EF | Ice cap |
 
@@ -71,8 +71,7 @@
 - ✅ Koppen is empirical/data-based, not genetic/cause-based.
 - ✅ Group A: coolest month above 18°C.
 - ✅ Group B: dry/arid because evaporation exceeds precipitation; not a temperature group.
-- ✅ Group C: coldest month between 18°C and -3°C; warmest above 10°C.
-- ✅ Group D: severe winter, coldest below -3°C; warmest above 10°C.
+- ✅ Original Köppen uses **-3°C** for the C/D boundary; many modern maps use **0°C**. State the convention.
 - ✅ Group E: warmest month below 10°C.
 - ✅ f = no dry season; w = dry winter; s = dry summer; m = monsoon.
 - ✅ H = highland, added later.
@@ -85,19 +84,16 @@
 
 ## 6. 📰 Current link
 
-### CA Anchor — Shifting Koppen Zones: Expansion of India's Arid (BWh) & Semi-Arid (BSh) Belts
+### CA Anchor — Updating Köppen-Geiger Maps under Climate Change
 
-📰 **News trigger:** 2025–26 climate studies using high-resolution Koppen-Geiger maps show India's dry "B" zones expanding: the arid BWh (Thar) belt creeping eastward/southward and the semi-arid BSh steppe spreading into parts of Maharashtra, Karnataka, Telangana and Andhra Pradesh — a signature of warming + erratic rainfall.
-
-✅ Climate classification is not static — as temperatures rise and rainfall becomes erratic, the boundaries between Koppen zones physically migrate. ✅ India's "B" (dry) group is expanding, a direct, map-able consequence of climate change with agricultural and water-security stakes.
-
-✅ Updated Koppen-Geiger maps (1991–2020 baseline + projections to 2050) reveal transition zones. ✅ Because Group B is defined by aridity (evaporation > precipitation), warming automatically pushes marginal Aw/BSh land into drier categories.
+📰 **News trigger:** Updated Köppen-Geiger datasets compare historical baselines and future projections.
+Classification boundaries can move as temperature and precipitation regimes change, but India-wide
+claims of a specific BWh/BSh expansion require a named dataset, scenario and period.
 
 | Region | Old zone (1990s) | New trend (2025/26) |
 |---|---|---|
-| ✅ West Rajasthan (Thar) | BWh (arid) | BWh expanding E & S — desertification risk |
-| ✅ Central India (MP, Maharashtra) | Aw (savanna) | → BSh (semi-arid steppe) expansion |
-| ✅ Karnataka, Telangana, Andhra | Aw | → BSh spread — drought management needed |
+| ✅ Dry-zone boundary | BWh/BSh threshold | Sensitive to both precipitation seasonality and temperature |
+| ⚠️ Transition belts | Aw/BSh or C/B margins | Direction and magnitude depend on dataset and emissions scenario |
 
 - ✅ Group B logic recap: aridity is judged by a rainfall-temperature threshold (evaporation vs precipitation), so a small rise in temperature can flip a region from moist (A/C) to dry (B) even without a big rainfall drop.
 - ✅ Koppen-Geiger maps: modern high-resolution versions (used by IPCC-era studies) track boundary migration decade-by-decade — the visual evidence of climate change.
@@ -107,7 +103,7 @@
 
 - ✅ Group B (dry) expansion in India = warming + erratic rainfall tipping Aw/BSh land into drier categories.
 - ✅ Thar's BWh belt is projected to expand eastward and southward; BSh steppe spreading into peninsular interior.
-- ✅ Studies suggest India's dry zone could grow 10–15% in area by 2050 on current trends.
+- ⚠️ Do not quote a national percentage shift without the underlying map, baseline and scenario.
 - ✅ Koppen "B" is aridity-defined, so temperature rise alone can shift the zone boundary.
 - ✅ Feeds NAPCC / state climate action plans for crop and water re-planning.
 

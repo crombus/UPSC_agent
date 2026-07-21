@@ -50,7 +50,33 @@ Resources + Labour + Capital + Technology + Institutions
 | `Fiscal deficit = total expenditure - non-borrowing receipts` | Government borrowing requirement |
 | `Current account = trade in goods/services + primary income + transfers` | External flow balance |
 
-## 4. Policy transmission map
+## 4. Measurement and vintage discipline
+
+```text
+Question asks for a number
+        |
+        v
+What is the concept? -> stock / flow / share / growth / estimate
+        |
+        v
+What is the coverage? -> Centre / states / general government; GDP / GVA
+        |
+        v
+What is the vintage? -> BE / RE / PA / final; FAE / SAE / revised; series base
+        |
+        v
+Quote the period, source and caveat before drawing the inference
+```
+
+- **Never splice series casually:** a new base year can change weights, sources,
+  coverage and methods. Compare only through an official back-series or linking
+  methodology.
+- **Never turn a plan into an outcome:** an announcement, allocation, approval,
+  sanction, Budget Estimate and completed expenditure are different stages.
+- **Never turn a projection into an actual:** retain the issuing institution,
+  forecast period and stated assumptions.
+
+## 5. Policy transmission map
 
 ```text
 RBI repo/liquidity
@@ -69,7 +95,7 @@ Global prices/trade/capital flows
       +-> exchange rate -> imports/exports -> inflation/current account/growth
 ```
 
-## 5. Recurring UPSC analytical tensions
+## 6. Recurring UPSC analytical tensions
 
 | Tension | Balanced framing |
 |---|---|
@@ -81,7 +107,7 @@ Global prices/trade/capital flows
 | Technology vs employment | Raise productivity while enabling skills and transitions |
 | Climate action vs development | Combine energy security, adaptation and green growth |
 
-## 6. Study sequence
+## 7. Study sequence
 
 1. **Measure the economy:** Topics 01-03.
 2. **Understand policy levers:** Topics 04-10.
@@ -89,4 +115,3 @@ Global prices/trade/capital flows
 4. **Connect India to the world:** Topics 19-21.
 5. **Evaluate development quality:** Topics 22-25.
 6. **Update all answers:** Topic 26 and the latest Economic Survey.
-

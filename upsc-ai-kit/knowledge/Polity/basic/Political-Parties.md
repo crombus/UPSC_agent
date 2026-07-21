@@ -27,6 +27,7 @@ coalition politics. The **ECI** grants **national/state** recognition based on *
 - ✅ Recognition privileges: reserved symbol, broadcast time, one proposer, electoral-roll access.
 
 ## 📰 Current link
-📰 **Electoral Bonds struck down** by the SC (**ADR case, Feb 2024**) as unconstitutional (violates the right to
-information). **2023:** ECI made **AAP** a national party and **derecognised TMC, NCP, CPI** → **6 national parties**
-now. Ongoing debate on bringing parties under **RTI**.
+📰 **Electoral Bonds struck down** by the SC (**ADR case, Feb 2024**) as unconstitutional
+(right to information). **ECI orders of 10 Apr 2023** made AAP a national party and withdrew
+national status from TMC, NCP and CPI; **official list checked 21 Jul 2026: six national
+parties**. The RTI/inner-party-democracy debate continues.

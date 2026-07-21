@@ -9,11 +9,13 @@
 
 ## 1. What & Where (G.C. Leong)
 
-✅ Deserts are regions of **scanty rainfall**. ✅ They may be **hot**, like the Saharan type, or **temperate/mid-latitude**, like the Gobi. ✅ Hot deserts are mainly arid because of **offshore Trade Winds**, so they are also called **Trade-Wind deserts**. ✅ Temperate deserts are rainless mainly because of **interior location** in temperate latitudes, away from rain-bearing winds.
+✅ Deserts are regions of **scanty rainfall**. ✅ They may be **hot**, like the Saharan type, or **temperate/mid-latitude**, like the Gobi. ✅ Many subtropical hot deserts lie under descending subtropical-high air and dry trade-wind regimes;
+continentality, cold currents and rain shadows modify the pattern. “Trade-wind desert” is a useful
+textbook label, not a complete explanation of every hot desert. ✅ Temperate deserts are rainless mainly because of **interior location** in temperate latitudes, away from rain-bearing winds.
 
 | Type | ✅ Examples | ✅ Main location |
 |---|---|---|
-| Hot desert (BWh) | Sahara, Arabian, Thar, Kalahari, Atacama, Australian deserts | 15°–30° on western margins / subtropical highs |
+| Hot desert (BWh) | Sahara, Arabian, Thar, Kalahari, Atacama, Australian deserts | Subtropical high-pressure belts, including western margins and interiors |
 | Mid-latitude desert (BWk) | Gobi, Turkestan, Patagonian | Continental interiors / rain-shadow basins |
 
 > 🔑 Trap: Deserts are defined by **aridity**, not by heat alone.
@@ -85,7 +87,10 @@
 
 ## 7. 📰 Current link
 
-📰 **UNCCD COP16 Riyadh (2–13 December 2024):** The largest-ever UN land conference and first in the **MENA** region, marking the Convention’s 30th year. It launched the **Riyadh Global Drought Resilience Partnership** with about **USD 12+ billion pledged**, but a binding **Global Drought Framework** was not finalised and was deferred to **COP17, Mongolia (2026)**. UNCCD is one of the three Rio Conventions and focuses on **desertification, land degradation and drought (DLDD)** and **Land Degradation Neutrality by 2030 (SDG 15.3)**. India hosted **COP14, New Delhi, 2019**.
+📰 **UNCCD COP16, Riyadh (2–13 December 2024):** the conference elevated drought resilience and land
+restoration but did not finalise a binding global drought framework. Quote pledge totals only from the
+final UNCCD communiqué because announced finance changed during the conference. UNCCD addresses
+desertification, land degradation and drought; India hosted COP14 in New Delhi in 2019.
 
 ## 8. Mains angles
 

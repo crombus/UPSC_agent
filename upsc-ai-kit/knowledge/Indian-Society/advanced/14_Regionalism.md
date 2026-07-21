@@ -33,20 +33,21 @@ language, culture)                 development, resources)
         |                                  |
         +----------------+-----------------+
                          v
-        SUB-REGIONALISM (internal fracture when
-        a part of a region feels doubly neglected
-        on BOTH axes relative to the rest of that region)
+        SUB-REGIONALISM (assertion within an existing
+        state/region; may involve identity,
+        representation, disparity or a combination)
                          |
                          v
-        ESCALATION: statehood -> autonomy -> (rarely) secession
+        MOVEMENT FORMS: statehood | autonomy | (rarely) secession
+        (not a compulsory escalation ladder)
 ```
 
 **Analytical claim:** ⚠️ The 2024 PYQ's core testing point is that diversity and disparity
 are causally independent variables, not two names for the same phenomenon; regionalism can
-therefore be driven by identity grievance alone, disparity grievance alone, or — in the most
-volatile cases, including many sub-regionalism episodes — by both simultaneously, and the
-correct policy response must be diagnosed against the specific driver rather than applying a
-single generic "regional development" or "cultural recognition" formula to every case.
+therefore be driven by identity grievance alone, disparity grievance alone, representation
+or a combination. Sub-regionalism may compound several drivers but does not always do so;
+the correct policy response must be diagnosed against evidence rather than applying a single
+generic “regional development” or “cultural recognition” formula.
 
 ## 2. Concepts and distinctions
 
@@ -54,7 +55,7 @@ single generic "regional development" or "cultural recognition" formula to every
 |---|---|
 | ✅ **Diversity vs disparity as independent axes** | Diversity is a descriptive, cultural-identity fact; disparity is a normative, outcome-based measurement — a region can score high on one and low on the other in any combination, which is precisely why the 2024 PYQ asks students to define, distinguish and then separately assess seriousness. |
 | ⚠️ **Identity-driven vs disparity-driven regionalism** | Identity-driven regionalism seeks recognition (linguistic status, cultural autonomy) even where economic conditions are comparable to neighbouring regions; disparity-driven regionalism seeks redistribution (infrastructure, investment, fiscal transfer) even where cultural identity is not distinctly separate — conflating the two leads to mismatched policy responses (offering only cultural recognition to a disparity-driven grievance, or vice versa). |
-| ⚠️ **Sub-regionalism as compounded grievance** | Sub-regionalism most often arises where a sub-region perceives itself as doubly disadvantaged — culturally distinct from the rest of the state or region *and* economically neglected relative to it — making the compounding of both axes, not either alone, the strongest predictor of an escalating separate-statehood demand. |
+| ⚠️ **Sub-regionalism as a possible compounded grievance** | A sub-region may combine cultural distinctiveness with perceived economic neglect, representation or administrative grievance. This can strengthen a statehood claim, but neither dual disadvantage nor escalation is a universal rule. |
 | ⚠️ **Composite index measurement vs lived disparity** | A composite index such as the SDG India Index aggregates multiple indicators into a single comparative score, useful for benchmarking but potentially masking intra-state variation (a state can rank well in aggregate while containing a severely lagging sub-region) — a key limitation when assessing "how serious" disparity is at a finer-than-state level. |
 | ⚠️ **Recognition response vs redistribution response** | A recognition response (linguistic-state status, cultural autonomy, symbolic representation) addresses identity-driven regionalism; a redistribution response (targeted infrastructure investment, special fiscal packages) addresses disparity-driven regionalism — applying only one where both drivers are present under-resolves the grievance, echoing the recognition-redistribution trade-off introduced in Topic 01. |
 
@@ -76,12 +77,11 @@ single generic "regional development" or "cultural recognition" formula to every
 1. A sub-region within an existing state perceives itself as under-represented in state-level
    political power and under-served in infrastructure/investment relative to the rest of the
    state.
-2. ⚠️ Where this economic neglect is accompanied by a sense of distinct sub-regional cultural
-   or historical identity, the grievance compounds, strengthening the case (as perceived
-   locally) for separate political recognition.
-3. ⚠️ Sustained political mobilisation around this compounded grievance can escalate toward
-   a formal separate-statehood demand, which the Union has historically addressed through
-   negotiated state reorganisation rather than a fixed constitutional formula.
+2. ⚠️ Where economic neglect is accompanied by a distinct sub-regional identity or
+   representation grievance, the perceived case for separate political recognition can
+   strengthen.
+3. ⚠️ Sustained mobilisation may take forms including administrative reform, autonomy or a
+   statehood demand; none follows mechanically from identity or disparity alone.
 
 ### Policy-response chain
 1. Diagnosing the correct response requires first establishing whether a specific
@@ -141,8 +141,8 @@ single generic "regional development" or "cultural recognition" formula to every
 
 - ✅ Diversity and regional disparity are independent variables — the 2024 PYQ's exact
   testing point.
-- ⚠️ Sub-regionalism is most strongly associated with compounded (identity plus disparity)
-  grievance, not either axis alone.
+- ⚠️ Sub-regionalism can combine identity, representation and disparity grievances, but the
+  driver must be established case by case rather than presumed from a generic model.
 - 📰 The NITI Aayog SDG India Index's most recently verified edition as of July 2026 is the
   2023-24 edition; always confirm no newer edition exists before citing a specific rank or
   score.
@@ -156,9 +156,9 @@ single generic "regional development" or "cultural recognition" formula to every
 - ❌ A region with high cultural diversity necessarily also shows high regional disparity. ->
   The two are independent variables; all four combinations (both high, both low, and each
   singly high) are empirically observed in India.
-- ❌ Sub-regionalism is driven primarily by cultural difference alone. -> It is most strongly
-  associated with compounded grievance — cultural distinctiveness combined with perceived
-  economic neglect — not cultural difference in isolation.
+- ❌ Sub-regionalism has one inevitable driver. -> Cultural distinction, representation,
+  administrative access and perceived economic neglect can combine in different ways; use
+  local evidence rather than a one-factor explanation.
 - ❌ A state's aggregate SDG India Index rank fully represents disparity within every part of
   that state. -> Aggregate state-level indices can mask significant sub-state (district or
   sub-regional) variation.
@@ -211,8 +211,8 @@ applying a single generic response to every regional assertion.
   Sustainable Development Goal-linked indicators?
 - ✅ **Mains (15 marks, 2024 GS-I PYQ, verbatim):** What is regional disparity? How does it
   differ from diversity? How serious is the issue of regional disparity in India?
-- ⚠️ **Mains (15 marks):** Examine why sub-regionalism is most strongly associated with
-  compounded identity-and-disparity grievance rather than either axis alone.
+- ⚠️ **Mains (15 marks):** Examine how identity, representation and developmental disparity
+  can combine in sub-regionalism, while explaining why no single pattern is universal.
 - ⚠️ **Mains (10 marks):** Distinguish between recognition-based and redistribution-based
   responses to regionalist grievance.
 

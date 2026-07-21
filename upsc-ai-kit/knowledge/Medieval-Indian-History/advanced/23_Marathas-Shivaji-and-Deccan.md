@@ -11,7 +11,7 @@
 
 | Date | Event |
 |---|---|
-| ✅ 1645–47 | Shivaji captures early hill forts near Poona |
+| ✅ 1645–47 | Shivaji captures Rajgad (source: Rajgarh), Kondana and Torna near Poona |
 | ✅ 1656 | Javli conquest makes him undisputed master of Mavala highlands |
 | ✅ 1665 | Purandar treaty: Jai Singh's attempt to fit Shivaji into a forward Deccan policy |
 | ✅ 1666 | Agra visit/escape; Aurangzeb undervalues Shivaji's alliance |
@@ -37,6 +37,13 @@
 - ✅ Maratha commanders, local headmen and kamaish-dars set up parallel chauth collection in parts of the Deccan.
 - ✅ Mughal jagirdars in disturbed areas often could not collect even the paper income of their jagirs; some made private pacts to pay chauth to avoid disturbances.
 - ✅ The **jagirdari crisis** had administrative and social roots: mismatch of jama/hasil, entrenched zamindars, shortage of productive jagirs, corruption in transfers, and inflated Deccan assessments.
+
+**Deeper — Shivaji's state beyond forts and raids.**
+
+- ✅ The Ashtapradhan was not a cabinet; each officer answered to Shivaji, and the offices were substantially adapted from Deccani administrative practice.
+- ✅ Revenue reform curbed but did not abolish deshmukhs, ended some illegal exactions and revenue farming, and produced a measurement-based assessment in 1679; the exact incidence remains difficult to reconstruct.
+- ✅ Chauth had precedents in western Indian zamindari claims and became protection money/territorial assertion; sardeshmukhi was a distinct additional ten-per-cent claim.
+- ✅ The navy drew on local seafaring communities and Muslims as well as Marathas, undercutting a narrowly communal description of the state.
 
 ## 2. Key classification / data
 
@@ -75,7 +82,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Maharashtra's post-UNESCO 10-year conservation plan for Maratha forts (reported 17–26 July 2025):** after World Heritage recognition, plans included conservation, visitor management and training locals as heritage guides. **Relevance:** shows how Shivaji's fort-network remains central to heritage policy and local community participation.
+📰 **Current linkage (verify live before use):** Fort conservation can connect Shivaji's military geography with visitor management and local participation. Verify any UNESCO-linked plan, budget or duration from official records.
 
 ## 7. Mains angles
 

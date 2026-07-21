@@ -1,7 +1,7 @@
 # PM & Central Council of Ministers (Articles 74–75, +Cabinet Committees) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 19–21 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 19–21 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/PM-and-Council-of-Ministers.md`.*
 

@@ -75,7 +75,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Ratnagiri Buddhist complex, Odisha (2025–26):** recent excavation reports mention colossal Buddha heads, votive stupas, inscriptions and shrine remains at Ratnagiri. Use it as a current anchor for the post-Gupta/eastern-India theme: Odisha was not peripheral; it was a major Buddhist and regional-cultural zone.
+⚠️ **Current-link discipline:** Cite new Ratnagiri finds only from the excavation report. The safe linkage is eastern India's major role in post-Gupta Buddhist, agrarian and regional-cultural history.
 
 ## 7. Mains angles
 

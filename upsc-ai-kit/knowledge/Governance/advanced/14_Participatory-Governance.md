@@ -93,6 +93,9 @@ centralisation is bad.
   but does not mandate substantive incorporation of feedback into the final law — its
   design is consultation-based participation, not co-decision, a structural limitation worth
   naming explicitly (see also `02` for the same distinction applied to policy design).
+- ⚠️ Its governance quality depends on disclosure of a reasoned response/feedback matrix;
+  opening a 30-day window without showing how major objections were handled is participation
+  compliance, not deliberative accountability.
 - ✅ MyGov functions primarily as an ideas-crowdsourcing and public-campaign platform;
   its influence on final policy decisions varies by initiative and is not institutionally
   guaranteed to be binding.
@@ -154,7 +157,8 @@ centralisation is bad.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The consultation-versus-co-decision distinction (Section 2) is the fixed, durable
+- 📰 **Status checked 21 July 2026:** the consultation-versus-co-decision distinction is the
+  durable
   analytical tool for evaluating any participatory mechanism. No fixed current scale or list
   of participatory-budgeting pilot cities/wards, or of MyGov's active campaigns, is asserted
   here, since specific pilots and campaigns change over time; the durable fact is that
@@ -183,6 +187,8 @@ consultation — backed by local capacity-building and elite-capture safeguards.
 4. Distinguish consultation-based from co-decision participatory mechanisms in any proposed
    corrective.
 5. Flag elite-capture risk and recommend specific safeguards alongside decentralisation.
+6. Test inclusion: who could not participate because of language, disability, connectivity,
+   care work, social hierarchy or lack of notice, and what assisted channel corrected it?
 
 ## 12. Probable questions
 

@@ -49,8 +49,8 @@ substantive outcomes in education, livelihood and social inclusion.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Minority (centrally notified)** | A community notified as a minority at the national level by the central government under Section 2(c) of the National Commission for Minorities Act, 1992. As of 2014, six communities are centrally notified: Muslims, Christians, Sikhs, Buddhists, Parsis and Jains (Jains notified in 2014). |
-| ✅ **National Commission for Minorities (NCM)** | A statutory body constituted under the National Commission for Minorities Act, 1992 (Commission constituted in 1993), with the mandate to evaluate progress of minority development, monitor implementation of safeguards, look into specific complaints of rights-deprivation, and make recommendations to the central and state governments. |
-| ✅ **PM VIKAS (Pradhan Mantri Virasat Ka Samvardhan)** | An umbrella scheme of the Ministry of Minority Affairs that merged earlier schemes (skill-development/USTTAD-type craft-skill components, educational support, infrastructure development for minority-concentration areas) to provide integrated developmental support to minorities. |
+| ✅ **National Commission for Minorities (NCM)** | A statutory body constituted under the National Commission for Minorities Act, 1992 (Commission constituted in 1993), with a Chairperson, Vice-Chairperson and five Members. It evaluates development, monitors safeguards, examines complaints and recommends action; its recommendations are not self-executing orders. |
+| ✅ **PM VIKAS (Pradhan Mantri Virasat Ka Samvardhan)** | A Central Sector umbrella that merged Seekho Aur Kamao, USTTAD, Nai Manzil, Nai Roshni and Hamari Dharohar. Its routes include traditional/non-traditional skilling, women’s leadership/entrepreneurship, bridge education and credit facilitation; it is not simply a scholarship or area-infrastructure scheme. |
 | ✅ **Waqf** | An Islamic religious endowment — a dedication of property (movable or immovable) for any purpose recognised by Muslim law as pious, religious or charitable; governed by the Waqf Act, 1995 and amendments. |
 | ⚠️ **Minority-concentration area** | A block, district or town with a minority population above a threshold (typically 25% or higher), used for targeting infrastructure and development schemes. |
 
@@ -60,17 +60,16 @@ substantive outcomes in education, livelihood and social inclusion.
    conserve their distinct language, script or culture (Art 29) and the right to
    establish and administer educational institutions of their choice (Art 30). See
    Polity for detailed constitutional interpretation.
-2. **Statutory monitoring:** The National Commission for Minorities (NCM), constituted
-   under the NCM Act, 1992, evaluates progress, monitors safeguards, looks into
-   complaints and recommends policy changes. Composition: a Chairperson, Vice-Chairperson
-   and Members, with representation from each notified minority community as far as
-   practicable.
-3. **Developmental schemes:** PM VIKAS provides integrated support covering skills
-   (craft preservation, USTTAD-type training), educational assistance, and
-   infrastructure in minority-concentration areas — merging earlier fragmented schemes.
-4. **Scholarship architecture:** The Ministry of Minority Affairs runs pre-matric, post-
-   matric and merit-cum-means scholarships for students from notified minority
-   communities to reduce educational dropout and improve attainment.
+2. **Statutory monitoring:** The NCM evaluates progress, monitors safeguards, looks into
+   complaints and recommends policy changes. It has a Chairperson, Vice-Chairperson and
+   five Members; it is advisory, not an enforcement court.
+3. **Developmental schemes:** PM VIKAS provides pan-India skilling, leadership,
+   entrepreneurship and bridge-education routes. Infrastructure in minority-concentration
+   areas is a distinct PMJVK-style area-development route; do not collapse the two.
+4. **Education support:** Name a scholarship only after checking the current Ministry/
+   National Scholarship Portal notification. PM VIKAS bridge/open-schooling support is
+   not proof that every earlier pre-matric, post-matric or merit-cum-means scholarship
+   remains open on unchanged terms.
 5. **Waqf administration:** Waqf properties are managed by State Waqf Boards (statutory
    bodies) under the oversight of the Central Waqf Council; the Waqf (Amendment) Act,
    2025 introduced reforms to registration, governance and dispute resolution, but
@@ -79,8 +78,8 @@ substantive outcomes in education, livelihood and social inclusion.
 ## 4. Institutions and tools
 
 - ✅ **National Commission for Minorities (NCM):** Statutory body under NCM Act, 1992;
-  constituted in 1993. Composition: Chairperson, Vice-Chairperson and Members (one
-  member belonging to each notified minority community as far as practicable). Mandate:
+  constituted in 1993. Composition: Chairperson, Vice-Chairperson and five Members.
+  Mandate:
   evaluate progress of minority development, monitor safeguards under the Constitution
   and laws, look into specific complaints of rights-deprivation, make recommendations.
   Note: NCM is NOT a constitutional body; it is a statutory body — distinguish from
@@ -88,23 +87,24 @@ substantive outcomes in education, livelihood and social inclusion.
 - ✅ **Six centrally notified minority communities (as of 2014):** Muslims, Christians,
   Sikhs, Buddhists, Parsis, and Jains. Jains were notified as a minority community in
   2014.
-- ✅ **PM VIKAS:** Umbrella scheme merging earlier schemes; administered by the Ministry
-  of Minority Affairs; components include skill development (craft preservation,
-  USTTAD-type), educational support, and infrastructure for minority-concentration
-  districts/blocks.
-- ✅ **Pre-matric, post-matric and merit-cum-means scholarships:** Direct scholarship
-  support for minority students at different educational stages, administered by
-  Ministry of Minority Affairs via state governments/UTs.
+- ✅ **PM VIKAS:** Central Sector umbrella merging five earlier schemes; administered by
+  the Ministry of Minority Affairs with skilling, leadership/entrepreneurship, bridge
+  education and credit-facilitation routes. It is pan-India, while PMJVK is the
+  area-infrastructure route for minority-concentration areas.
+- ⚠️ **Scholarships:** Their names, classes and annual application status are volatile.
+  Check the contemporaneous Ministry/National Scholarship Portal notice rather than
+  treating a historical scholarship list as a permanent entitlement.
 - ✅ **Central Waqf Council and State Waqf Boards:** Statutory bodies for Waqf property
   registration, management and dispute resolution under the Waqf Act, 1995 (amended).
 
 ## 5. Indian applications and examples
 
-- ⚠️ A student from a notified minority community (e.g., a Sikh student in a state where
-  Sikhs are a demographic minority) accessing post-matric scholarship illustrates the
-  educational-support mechanism.
-- ⚠️ A minority-concentration district receiving infrastructure grant under PM VIKAS for
-  a skill-development centre illustrates the targeted developmental approach.
+- ⚠️ A student from a notified minority community using a currently notified education
+  support route illustrates the mechanism; first verify the year-specific scholarship
+  notice and eligibility rather than assuming a historical scheme remains available.
+- ⚠️ A minority-concentration district receiving a PMJVK infrastructure intervention,
+  alongside a PM VIKAS skilling route, illustrates why area development and individual
+  capability support should be kept analytically separate.
 - ⚠️ The TMA Pai Foundation case (2002) and subsequent judgments clarify the scope of
   Art 30 rights for minority educational institutions — see Polity for doctrinal detail.
 
@@ -114,8 +114,9 @@ substantive outcomes in education, livelihood and social inclusion.
   is NOT a constitutional body.
 - ✅ Six communities are centrally notified as minorities: Muslims, Christians, Sikhs,
   Buddhists, Parsis, and Jains (Jains added in 2014).
-- ✅ PM VIKAS is an umbrella scheme of the Ministry of Minority Affairs merging earlier
-  skill, education and infrastructure schemes for minorities.
+- ✅ PM VIKAS is a Central Sector umbrella merging Seekho Aur Kamao, USTTAD, Nai Manzil,
+  Nai Roshni and Hamari Dharohar; PMJVK, not PM VIKAS alone, is the key area-
+  infrastructure route.
 - ✅ Article 30 guarantees minorities the right to establish and administer educational
   institutions of their choice; Article 29 protects the right to conserve distinct
   language, script or culture.
@@ -138,8 +139,8 @@ substantive outcomes in education, livelihood and social inclusion.
 
 ## 8. 📰 Current anchor
 
-- ✅ Parliament enacted the Waqf (Amendment) Act, 2025 (also referred to in some official
-  communication as the UMEED Act).
+- ✅ Parliament enacted the Waqf (Amendment) Act, 2025 (No. 14 of 2025) after presidential
+  assent on 5 April 2025.
 - ✅ On 15 September 2025, the Supreme Court, ruling on multiple petitions challenging the
   Act's constitutionality, declined to stay the Act in its entirety (holding that a
   wholesale stay of a statute is warranted only in the rarest of cases) but stayed
@@ -154,12 +155,10 @@ substantive outcomes in education, livelihood and social inclusion.
 - ✅ The Court did not stay the prospective abolition of 'waqf by user' for future claims,
   and did not treat the amendment as retrospectively affecting already-registered waqf
   properties.
-- ⚠️ Several substantive constitutional questions from this interim order — including on
-  minority autonomy and the extent of permissible state regulation of religious-
-  endowment administration — remain pending full final adjudication. As of July 2026,
-  no final Supreme Court judgment has been delivered, and the 15 September 2025 interim
-  arrangement (Act operative except for the specifically stayed provisions) remains the
-  position in force.
+- ⚠️ Several substantive constitutional questions — including minority autonomy and the
+  permissible extent of State regulation — remain pending. As at 21 July 2026, use the
+  15 September 2025 interim arrangement: the Act is operative except for the specifically
+  stayed provisions; do not present an interim order as the final constitutional ruling.
 
 ## 9. PYQ application
 
@@ -172,7 +171,8 @@ substantive outcomes in education, livelihood and social inclusion.
 ## 10. Mains angles
 
 - ⚠️ Frame minority welfare as combining protective rights (Art 29/30, NCM monitoring)
-  with developmental schemes (PM VIKAS, scholarships) — neither alone is sufficient.
+  with developmental routes (PM VIKAS, PMJVK and currently notified education support) —
+  neither alone is sufficient.
 - ⚠️ Distinguish statutory NCM from constitutional commissions (NCSC/NCST/NCBC).
 - ⚠️ For Waqf-related questions, clearly distinguish enacted law from stayed provisions
   and from pending constitutional questions — do NOT treat the September 2025 interim
@@ -182,7 +182,8 @@ substantive outcomes in education, livelihood and social inclusion.
 
 > **Answer thesis:** Minority welfare in India rests on constitutional cultural and
 > educational rights (Articles 29–30) monitored by a statutory NCM, complemented by
-> developmental schemes like PM VIKAS and scholarships; its effectiveness depends on
+> developmental routes such as PM VIKAS, PMJVK and currently notified education support;
+> its effectiveness depends on
 > converting formal entitlements into measurable improvements in educational attainment,
 > livelihood and social inclusion, while ongoing legal developments such as the Waqf
 > Amendment Act litigation highlight the evolving balance between state regulation and

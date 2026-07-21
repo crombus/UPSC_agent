@@ -5,6 +5,7 @@
 > Buddhist art; religious coexistence as evidence; inscriptions as biased
 > primary sources; conservation case studies.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp. 40-69;
+> R.S. Sharma, *India's Ancient Past*, PDF pp. 192-223;
 > `00_Master-Framework.md` Sections 4-5; audited UPSC Mains 2024-2025 GS
 > Paper I (no direct question).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
@@ -40,7 +41,7 @@ tolerance as an abstract virtue.
 | Site | Patron sequence | Sectarian pattern | Analytical takeaway |
 |---|---|---|---|
 | ✅ Sanchi | Mauryan (Ashoka) -> Sunga -> Satavahana -> Gupta | Exclusively Buddhist across all phases | Continuity of a single tradition across dynasties with differing political character |
-| ✅ Ellora | Vakataka/Chalukya (Buddhist caves) -> Rashtrakuta (Hindu, incl. Kailasha) -> Yadava (Jain) | Buddhist -> Hindu -> Jain, sequentially, same hillside | Sectarian succession at one site, not simultaneous multi-sect patronage |
+| ✅ Ellora | Multiple patrons from the c. 6th-10th centuries; Rashtrakuta Krishna I is securely associated with Kailasha | Buddhist, Brahmanical and Jain phases broadly sequence but overlap | Shared sacred hillside and changing patronage; neither perfect simultaneity nor a clean relay |
 | ✅ Udayagiri-Khandagiri | Kharavela (Maha Meghavahana, Jain) -> Somavamsi (9th-12th century) | Predominantly Jain across a long span | Single-sect continuity under changing dynasties, unlike Ellora |
 | ✅ Elephanta | Multiple Hindu dynasties (5th-8th century, precise attribution debated) | Shaiva-dominant, with Buddhist stupa remnants | Palimpsest of Shaiva and earlier Buddhist presence on one island |
 
@@ -51,8 +52,8 @@ reading a multi-period monument: identify each dynasty's specific,
 separable contribution (Mauryan brick core; Sunga expansion, railing and
 harmika; Satavahana toranas; Gupta victory inscription and Temple 17)
 rather than describing the site as a single-period creation (*Nitin…pdf*,
-PDF pp. 46-47). ⚠️ Applying this method to Ellora: the fact that only 1 of
-12 Buddhist caves is a chaitya (prayer hall), with the rest viharas
+PDF pp. 46-47). ⚠️ Applying this method to Ellora: the predominance of
+viharas over chaitya halls
 (*Nitin…pdf*, PDF p. 61), suggests the Buddhist community using the site
 by that period emphasised monastic residence over congregational
 worship — a shift in religious practice inferable from architectural
@@ -109,15 +110,18 @@ referencing topic 06 for the sculptural detail of that transition.
 - ❌ Treating Ellora's tri-religious character as evidence of simultaneous,
   harmonious multi-faith patronage. -> The caves were built in sequential
   phases (Buddhist, then Hindu, then Jain) by different dynasties over
-  centuries, not concurrently by a single tolerant patron.
+  centuries, with some chronological overlap; it was not a single
+  patron's planned "tolerance complex."
+- ❌ Treating the court/popular binary as a literal funding map. ->
+  Barabar-Nagarjuni are royal Ajivika dedications even though some textbook
+  classifications place caves under "popular art."
 - ❌ Citing the Hathigumpha inscription as a complete, neutral historical
   record of Kharavela's reign. -> It is Kharavela's own commemorative
   text and omits inconvenient episodes (the Mauryan Kalinga invasion),
   illustrating why inscriptions require source-critical reading.
-- ❌ Assuming Mauryan polish techniques continued into the Gupta period. ->
-  The book is explicit that the technique was abandoned after the
-  Mauryan period due to cost, and Gupta-period sculpture (topic 06) used
-  different material/technique conventions.
+- ❌ Assuming Mauryan polish remained a normal Gupta technique. -> Its
+  characteristic use declines; Nitin's high-cost explanation is plausible
+  but should not be presented as a demonstrated single cause.
 
 ## 10. Mains answer frameworks
 

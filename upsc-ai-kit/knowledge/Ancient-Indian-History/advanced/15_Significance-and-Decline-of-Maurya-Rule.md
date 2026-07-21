@@ -73,7 +73,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Piprahwa relics returned, 2025:** The Ministry of Culture reported the return of sacred Piprahwa Buddha relics to India after 127 years. The chapter link is heritage custody: early Buddhist/Mauryan-age material culture is not only an exam topic but also a live issue of repatriation, provenance and public display.
+⚠️ **Current-link discipline:** A relic-return claim requires official provenance and custody documentation. The safe linkage is heritage ownership, authentication and public display of early Buddhist material.
 
 ## 7. Mains angles
 

@@ -7,7 +7,8 @@
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
 > 722-738, 955-971, 983-992; `00_Master-Framework.md` Sections 4-5, 9;
 > audited UPSC Mains 2024-2025 GS Paper I (no direct question — capstone
-> role); official UNESCO Moidams property page (accessed 19 July 2026).
+> role); official UNESCO WHC/ICH/Memory of the World and PIB pages
+> (verified 21 July 2026).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/14_Heritage-Conservation-Institutions-and-UNESCO.md`.*
 
@@ -37,7 +38,8 @@ permanently fixed.
 | ✅ **World Heritage Committee's Danger-List mechanism** | A structural safeguard: sites deemed inadequately protected/managed can be moved to the List of World Heritage in Danger, and can in principle be delisted entirely if conditions do not improve (*Nitin…pdf*, PDF pp. 728-729) — this is a **conditional**, not permanent, status once inscribed. |
 | ⚠️ **Conservation-versus-access trade-off** | UNESCO inscription's tourism/economic benefit (Section 3 below) directly increases visitor footfall, which can stress open, unenclosed monuments (e.g. Khajuraho's platforms without boundary walls, topic 03) — an advanced answer should name this trade-off explicitly rather than treating inscription as an unqualified positive. |
 | ✅ **Repatriation discipline** | This folder's rule (from `00_Master-Framework.md`) that no repatriation claim should be made without a dated official source naming the object, receiving institution and provenance — directly relevant whenever a Mains answer risks citing an unverified "artefact returned to India" claim. |
-| ⚠️ **Institutional mandate precision** | ASI (monuments/archaeology), SNA (performing arts), LKA (visual arts), Sahitya Akademi (literature), National Archives (documentary records), Asiatic Society (oriental scholarship) each have a specific, non-overlapping primary mandate — conflating them (e.g. treating SNA as responsible for monument conservation) is a precision failure. |
+| ⚠️ **Institutional mandate precision** | ASI (monuments/archaeology), SNA (performing arts), LKA (visual arts), Sahitya Akademi (literature), National Archives (documentary records), Asiatic Society (research/library) have distinct primary mandates, though projects can overlap. |
+| ✅ **Domestic-zone vs. UNESCO-buffer distinction** | AMASR's prohibited/regulated areas around centrally protected monuments arise from Indian law; a WH property buffer zone is mapped through UNESCO nomination/management documents. Never substitute one boundary for the other. |
 
 ## 3. Comparative framework
 
@@ -114,17 +116,15 @@ Danger List and the Manas/Hampi removal case), PDF pp. 956-967
   outstanding expression of its associated cosmology. The property page
   also identifies rainfall, erosion and vegetation growth as management
   pressures — a precise conservation hook, not merely a changing count.
-- 📰 As of the book's own account (September 2025), India holds 44 WHS
-  properties with no site currently on the Danger List (July 2025); as of
-  this file's research cutoff (18 July 2026), independent web-search
-  verification is consistent with this figure and additionally confirms
-  the 2025 Maratha Military Landscapes inscription and the ICH
-  Deepavali (2025) inscription — always re-verify both figures against
-  UNESCO's own current pages before citing an exact count in a live
-  answer, since inscriptions are added at each annual Committee session.
+- 📰 As verified on 21 July 2026, India holds 44 WH properties; Maratha
+  Military Landscapes (2025) is the latest. India has 16 Representative
+  List ICH elements after Deepavali (2025), and 14 Memory of the World
+  International Register inscriptions after the Bhagavadgita and
+  Natyashastra manuscript additions (2025). Re-check after each annual
+  cycle.
 - 📰 ASI's live Monuments page states that it protects and maintains
   **3,679 centrally protected monuments and archaeological sites**
-  (accessed 18 July 2026); cite the live figure with its access date.
+  (accessed 21 July 2026); cite the live figure with its access date.
 
 ## 8. Exact PYQ application
 
@@ -155,6 +155,9 @@ current-status-plus-trade-off closing line.
 - ❌ Treating SNA, LKA, Sahitya Akademi, ASI and the National Archives as
   interchangeable "cultural bodies." -> Each has a precise, distinct
   primary mandate; conflating them is a specific, avoidable error.
+- ❌ Treating the AMASR 100 m/200 m spatial regime as UNESCO's buffer-zone
+  rule. -> Domestic statutory control and World Heritage management
+  mapping are different layers that must be analysed together.
 
 ## 10. Mains answer frameworks
 
@@ -201,12 +204,13 @@ named precisely rather than generically.
 ## 13. Verification ledger and open cautions
 
 - ✅ Verified against *Nitin…pdf*, PDF pp. 722-738, 955-971 and 983-985
-  directly and against official pages accessed 18 July 2026: India has 44
+  directly and against official pages checked 21 July 2026: India has 44
   WH properties after the 2025 Maratha Military Landscapes inscription;
   Deepavali's 2025 inscription brings India's Representative List total to
-  16; ASI's Monuments page states 3,679 centrally protected monuments and
+  16; Bhagavadgita and Natyashastra take the Memory of the World total to
+  14; ASI's Monuments page states 3,679 centrally protected monuments and
   archaeological sites.
-- ✅ Moidams details verified against UNESCO's property page (accessed 19
+- ✅ Moidams details verified against UNESCO's property page (checked 21
   July 2026): inscription
   on 26 July 2024; criteria (iii) and (iv); Tai-Ahom royal necropolis at
   Charaideo; rainfall, erosion and vegetation growth recorded as

@@ -1,7 +1,7 @@
 # President & Vice-President (Articles 52–73) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 17–18 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 17–18 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/President-and-Vice-President.md`.*
 
@@ -114,9 +114,10 @@ elected. Called "**His Superfluous Highness**" by some scholars.
 - ❌ President's ordinance can amend the Constitution → **cannot**.
 
 ## 📰 CA hooks
-📰 ⚠️ **Governor/President withholding assent to state bills** (TN, Kerala, Punjab SC cases 2023-24) —
-Art 200/201 flashpoint; SC (Nov 2023-2024) held Governors can't sit on bills indefinitely. 📰 ⚠️ Debate
-over **President's/Governor's discretion**, mercy-petition delays (death-row commutations), and
+📰 ✅ **Articles 200/201:** the five-judge Article 143 opinion of **20 Nov 2025**
+held that courts cannot create rigid timelines or automatic deemed assent, while prolonged,
+unexplained and indefinite gubernatorial inaction remains open to limited judicial review.
+📰 ⚠️ Debate over **President's/Governor's discretion**, mercy-petition delays, and
 **re-promulgation of ordinances** (D.C. Wadhwa doctrine) recur. 📰 **VP election 2022** — Jagdeep Dhankhar.
 
 ## Mains angles

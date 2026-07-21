@@ -14,7 +14,7 @@
 | ✅ Ashokan memory | 3rd c. BC onward | Mahinda/Sanghamitta tradition in Sri Lanka |
 | ✅ Early centuries AD | 1st–6th c. AD | Buddhism/Hindu influences in Myanmar, Cambodia, Java, Sumatra |
 | ✅ Asian Buddhist networks | early medieval | Relics, texts, pilgrims and monastic circuits |
-| 📰 Buddhist diplomacy | 2025 | Sacred relic expositions and ASEAN cultural links |
+| ⚠️ Heritage diplomacy | contemporary | Relics, pilgrimage circuits and shared conservation |
 
 ## 1. Snapshot & core idea
 
@@ -32,6 +32,7 @@
 - ✅ The `Mahavamsa` assigns a special role to Ashoka, Mahinda and Sanghamitta in spreading Buddhism to Sri Lanka.
 - ✅ Relics, monasteries and texts created sacred geographies linking India to Asia.
 - ✅ Cultural flows were multi-directional: pilgrims came to India, texts travelled out, and Asian patrons reinterpreted Indian forms.
+- ✅ The Ashoka–Mahinda–Sanghamitta narrative is specifically associated with the Sri Lankan `Mahavamsa`; distinguish chronicle memory from Ashoka's own inscriptions.
 - ⚠️ For mains, connect material objects (relics, manuscripts, images) with diplomacy and legitimacy.
 
 ## 2. Key classification / data
@@ -76,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-📰 **ASI conservation of the My Son Cham temples, Vietnam (2025–26):** India's ASI continues restoring the **UNESCO-listed My Son** Hindu-Cham temple complex — brick shrines to **Shiva** built by the Champa kingdom, a direct descendant of the ancient India→Southeast-Asia cultural transmission (Sanskrit, Shaivism, temple form). A living example of *cultural give-and-take* becoming modern **heritage diplomacy**.
+⚠️ **Current-link discipline:** Verify the current phase of ASI work at My Son from official bilateral/ASI records. The safe linkage is shared conservation of locally adapted Sanskritic, Shaiva and temple traditions.
 
 ## 7. Mains angles
 

@@ -18,8 +18,9 @@
 | Origin | Basin-forming process | Lake type | Examples from source |
 |---|---|---|---|
 | ✅ Earth movement | Warping, sagging, faulting, rifting or downwarping creates a basin | Tectonic / rift-valley lake | Tanganyika, Baikal; Caspian (largest lake) |
-| ✅ Glaciation | Ice scours hollows, deposits drift dams, or buried ice melts | Tarn, kettle, drift-dammed, glacial-scour lake | Cirque tarns; Great Lakes |
-| ✅ Volcanic activity | Crater/caldera depression or collapsed lava crust holds water | Crater / caldera lake | Lake Toba; Lonar as impact/crater example |
+| ✅ Glaciation | Ice scours/deepens hollows, deposits drift dams, or buried ice melts | Tarn, kettle, drift-dammed, glacially modified lake | Cirque tarns; Great Lakes |
+| ✅ Volcanic activity | Crater/caldera depression holds water | Crater / caldera lake | Lake Toba |
+| ✅ Impact | Meteorite impact excavates a crater | Impact-crater lake | Lonar |
 | ✅ Erosion | Solution, wind deflation or other erosion excavates hollows | Karst / deflation / playa lake | Solution lakes; desert playas |
 | ✅ Deposition | Deposition cuts off water from a river/sea or dams a valley | Ox-bow, lagoon, barrier lake | Cut-off meanders; Chilika lagoon |
 | ✅ Human action | River valley dammed deliberately | Reservoir | Dammed river lakes |
@@ -32,11 +33,14 @@
 
 ### 3.2 Glacial lakes
 
-✅ **Tarns** occupy ice-scoured cirque hollows. ✅ **Kettle lakes** form when buried ice blocks melt inside glacial deposits. ✅ Drift-dammed lakes form where glacial drift blocks drainage. ✅ Large glacial-scour basins include the **Great Lakes**.
+✅ **Tarns** occupy cirque hollows. ✅ **Kettle lakes** form when buried ice blocks melt inside glacial
+deposits. ✅ Drift-dammed lakes form where glacial deposits block drainage. The **Great Lakes** occupy
+tectonically inherited basins profoundly deepened and modified by Pleistocene ice.
 
 ### 3.3 Volcanic and crater lakes
 
-✅ Water may collect in a **volcanic crater** or larger **caldera**; **Toba** is the caldera example in the source. ✅ Lonar is retained as an impact/crater example from the extracted notes.
+✅ Water may collect in a **volcanic crater** or larger **caldera**; **Toba** is a caldera-lake example.
+✅ **Lonar** is a meteorite-impact lake excavated in Deccan basalt, not a volcanic crater.
 
 ### 3.4 Erosional and depositional lakes
 
@@ -49,7 +53,7 @@
 - ✅ Rift-valley lakes are tectonic and very deep: **Tanganyika, Baikal**.
 - ✅ **Caspian Sea** = world's largest lake / inland tectonic basin.
 - ✅ **Tarn** = cirque lake; **kettle** = lake from melted buried ice block.
-- ✅ **Caldera lake** example: Toba; **Lonar** = impact/crater lake.
+- ✅ **Caldera lake** example: Toba; **Lonar** = meteorite-impact lake in basalt.
 - ✅ **Ox-bow lake** = cut-off meander.
 - ✅ **Lagoon** = barrier/spit-enclosed coastal lake.
 - ✅ Salt lakes commonly form in **endorheic/inland drainage** basins.

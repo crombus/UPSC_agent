@@ -15,7 +15,7 @@
 | ✅ 1342 | Ilyas Khan captures Lakhnauti and Sonargaon; rules as Sultan Shamsuddin Ilyas Shah |
 | ✅ 1389–1409 | Ghiyasuddin Azam Shah of Bengal — justice tradition, contacts with Hafiz and China |
 | ✅ 1407 | Zafar Khan formally proclaims Gujarat independent as Muzaffar Shah |
-| ✅ 1411–43 | Ahmad Shah I consolidates Gujarat and founds Ahmedabad (foundation laid 1413) |
+| ✅ 1411–42 | Ahmad Shah I consolidates Gujarat and founds Ahmedabad (the assigned source places the foundation in 1413) |
 | ✅ 1420–70 | Zainul Abidin rules Kashmir and reverses earlier persecution |
 | ✅ 1459–1511 | Mahmud Begarha rules Gujarat; captures Girnar and Champaner |
 | ✅ 1484 | Bahlul Lodi annexes Jaunpur and ends the Sharqi kingdom |
@@ -55,7 +55,7 @@
 | ⚠️ Records | *Buranjis* are Ahom chronicles and a key source for political and social history |
 | ✅ Royal funerary landscape | UNESCO describes Charaideo's moidams as Tai-Ahom royal mound burials created from the thirteenth to nineteenth centuries |
 
-> **Boundary:** Medieval History owns Ahom state formation, administration and chronicles. Art & Culture owns moidam form, cosmology, World Heritage status and conservation.
+> **Boundary/source note:** The Ahom extension is supplementary and lies outside the three assigned Satish Chandra PDFs. Medieval History owns state formation, administration and chronicles; Art & Culture owns moidam form, cosmology, World Heritage status and conservation.
 
 ## 3. Study links
 
@@ -82,9 +82,7 @@
 
 ## 6. 📰 Current link
 
-📰 **West Bengal sought Central funds in 2025 for conserving archaeological sites including Adina Mosque/Pandua-Malda Sultanate heritage** (Millennium Post, 2025). Relevance: links Bengal Sultanate urban culture (Pandua/Gaur) with present heritage conservation.
-
-📰 **Moidams, Charaideo (26 July 2024):** UNESCO inscription made the Tai-Ahom royal mound-burial landscape a direct current hook for the Ahom extension. Use this file for political context only; route architecture and conservation to Indian Art & Culture topic 14.
+📰 **Current linkage (verify live before use):** Conservation of Gaur-Pandua, Champaner, Mandu, Jaunpur and Kashmir's built heritage can be used as a regional-state hook. For the Ahom extension, verify Moidams status and dates from UNESCO; keep funerary architecture in Art & Culture.
 
 ## 7. Mains angles
 

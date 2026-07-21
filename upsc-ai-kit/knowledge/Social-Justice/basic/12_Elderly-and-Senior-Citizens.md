@@ -6,8 +6,9 @@
 > AVYAY; SAGE; elder abuse; ageing demography; geriatric care.
 > **Grounded in:** Maintenance and Welfare of Parents and Senior Citizens Act, 2007;
 > Maintenance and Welfare of Parents and Senior Citizens (Amendment) Bill, 2019 (lapsed)
-> and 2025 Bill (pending); AVYAY (Atal Vayo Abhyuday Yojana) guidelines; SAGE initiative;
-> Ministry of Social Justice and Empowerment; National Policy on Older Persons (1999);
+> and pending 2025 Private Members' Bills; AVYAY (Atal Vayo Abhyuday Yojana) guidelines;
+> SAGE initiative; Ministry of Social Justice and Empowerment; National Policy on Older
+> Persons (1999) and National Policy for Senior Citizens (2011);
 > Census 2011 ageing data.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/12_Elderly-and-Senior-Citizens.md`.*
@@ -24,15 +25,16 @@
    MAINTENANCE         WELFARE                    CARE
        |                   |                          |
   Act 2007            AVYAY umbrella             Geriatric
-  (children's         (IGSR day-care,            health system
+  (children's         (IPSC day-care,            health system
    obligation,         RVY devices,              (cross-link
    Tribunals,          Elderline)                Topic 03)
    property                |                          |
    revocation)        SAGE                       Elder abuse
        |              (start-up                  (physical,
-  Amdt Bill           incubation,                financial,
-  2025 (pending)      elderly-care               emotional,
-       |              products)                  neglect)
+  Private Members'    incubation,                financial,
+  Bills 2025          elderly-care               emotional,
+  (not enacted)       products)                  neglect)
+       |                   |
        +------------------- OUTCOME -------------------+
                               |
                   Dignity, security, health, social
@@ -51,9 +53,9 @@ health integration and addressing under-reported elder abuse within family struc
 |---|---|
 | ✅ **Senior citizen** | A citizen of India who has attained the age of sixty years (Section 2(h), Maintenance and Welfare of Parents and Senior Citizens Act, 2007). |
 | ✅ **Maintenance (Act of 2007)** | Provision of food, clothing, residence, medical attendance and treatment to a parent or senior citizen by children or relatives who are legally obligated to provide such maintenance. |
-| ✅ **Maintenance Tribunal** | A summary adjudicatory body established under the 2007 Act in every sub-division to receive applications from senior citizens for maintenance and pass orders within a specified time frame (currently 90 days). |
-| ✅ **Property-revocation remedy** | A provision under the 2007 Act enabling a senior citizen to apply for revocation/declaration of voidability of a gift or transfer of property made to a relative who subsequently fails to provide basic amenities and physical needs. |
-| ✅ **AVYAY (Atal Vayo Abhyuday Yojana)** | An umbrella elderly-welfare scheme merging earlier schemes, covering components such as the Integrated Programme for Senior Citizens (IPSC) for old-age-home and day-care support, Rashtriya Vayoshri Yojana (RVY) for free assistive-device distribution to BPL-eligible seniors, and the National Helpline for Senior Citizens (Elderline) for information/grievance/emergency assistance. |
+| ✅ **Maintenance Tribunal** | A summary adjudicatory body established under the 2007 Act in every sub-division to receive applications from senior citizens for maintenance and ordinarily decide within 90 days (extendable in exceptional circumstances). A State-prescribed allowance cannot exceed the Act's ₹10,000 monthly ceiling. |
+| ✅ **Property-revocation remedy** | A transfer by gift or otherwise made subject to the condition that the transferee provide basic amenities/physical needs may be declared void at the senior citizen's option if that condition is not met. It is not an automatic remedy for every later family dispute. |
+| ✅ **AVYAY (Atal Vayo Abhyuday Yojana)** | An umbrella elderly-welfare scheme covering the Integrated Programme for Senior Citizens (IPSC), RVY and Elderline. RVY, implemented through ALIMCO, provides aids/devices for eligible 60+ persons with age-related infirmity who are BPL or have family income up to ₹15,000/month under current guidelines. |
 | ⚠️ **Elder abuse** | Physical, financial/property, emotional/psychological harm or neglect of senior citizens, often perpetrated within family settings and under-reported due to dependence, shame and family-loyalty dynamics. |
 
 ## 3. How elderly maintenance and welfare work (mechanism)
@@ -61,16 +63,18 @@ health integration and addressing under-reported elder abuse within family struc
 1. **Statutory obligation:** Under the 2007 Act, children and relatives (those who are
    or will be legal heirs) are obligated to maintain parents and senior citizens.
 2. **Maintenance Tribunals:** A senior citizen (or authorised person) may apply to the
-   Tribunal for a maintenance order; the Tribunal may order children/relatives to pay
-   up to a maximum monthly allowance (currently ₹10,000 under the 2007 Act).
-3. **Property-revocation remedy:** If a senior citizen has transferred property to a
-   relative and subsequently is not provided basic amenities, the senior citizen may
-   apply for revocation/declaration of voidability of the transfer.
-4. **Old-age-home provision:** The Act enables state governments to establish and
-   maintain old-age homes with at least one in each district.
+   Tribunal for a maintenance order; the State prescribes the allowance, subject to the
+   Act's ₹10,000-per-month ceiling.
+3. **Property-revocation remedy:** Where a transfer was made subject to a condition of
+   basic amenities/physical needs and the transferee fails it, the senior citizen may
+   seek the Section 23 declaration; state the condition in a legal answer.
+4. **Old-age-home provision:** The Act directs State Governments to establish and maintain
+   at least one old-age home in each district, with capacity for at least 150 indigent
+   senior citizens; actual functionality remains the implementation question.
 5. **AVYAY welfare:** IPSC supports NGO/state-run old-age homes and day-care centres;
-   RVY provides free assistive devices (hearing aids, walking sticks, spectacles) to
-   BPL seniors; Elderline provides a toll-free national helpline for senior citizens.
+   RVY provides aids/devices through ALIMCO to eligible 60+ seniors with age-related
+   infirmity (BPL or family income up to ₹15,000/month under current guidelines);
+   Elderline provides a toll-free national helpline.
 6. **SAGE:** The Seniorcare Ageing Growth Engine initiative supports elderly-care
    start-ups/products/services through a curated marketplace and incubation model,
    encouraging private-sector innovation in eldercare.
@@ -80,21 +84,21 @@ health integration and addressing under-reported elder abuse within family struc
 - ✅ **Maintenance and Welfare of Parents and Senior Citizens Act, 2007:** Core
   architecture — children's/relatives' statutory obligation, Maintenance Tribunals,
   property-revocation remedy, old-age-home establishment, abandonment penalty.
-- ✅ **Maintenance and Welfare of Parents and Senior Citizens (Amendment) Bill:**
+- ✅ **Maintenance and Welfare of Parents and Senior Citizens amendment proposals:**
   - A Bill was first introduced in the Lok Sabha in December 2019 proposing an
     expanded definition of a life of dignity for senior citizens, enhanced penalties
     for abandonment, and mechanisms such as direct maintenance-amount deduction from
     a paying relative's income; this 2019 Bill lapsed with the dissolution of that
     Lok Sabha and was NEVER enacted.
-  - A fresh version of the Amendment Bill was introduced afresh in 2025 in both Houses
-    of Parliament, carrying similar expanded provisions.
-  - ⚠️ As of the most recent available information, this 2025 Bill has not yet been
-    passed or enacted into law. The Act currently in force is the existing 2007 Act
-    (without these proposed enhancements); the broader dignity definition, enhanced
-    penalties and income-deduction mechanism are proposed reforms, not current law.
+  - Private Members' Bills were introduced in the Lok Sabha and Rajya Sabha in 2025.
+    They are proposals, not a Government amendment enacted by Parliament.
+  - ⚠️ As at 21 July 2026, neither 2025 Private Member's Bill is enacted. The Act in
+    force is the 2007 Act; a broader dignity definition, enhanced penalties or
+    income-deduction mechanism must be labelled proposed, not current law.
 - ✅ **AVYAY (Atal Vayo Abhyuday Yojana):** Umbrella scheme; components include IPSC
-  (old-age homes, day-care, multi-service centres), RVY (free assistive devices for
-  BPL seniors), Elderline (national helpline, typically 14567).
+  (old-age homes, day-care, multi-service centres), RVY (ALIMCO aids/devices for
+  eligible BPL or ≤₹15,000/month-family-income seniors with age-related infirmity) and
+  Elderline (national helpline, typically 14567).
 - ⚠️ **SAGE (Seniorcare Ageing Growth Engine):** Initiative supporting elderly-care
   start-ups and products through a curated marketplace and incubation support;
   specific participant counts are not asserted here as they are periodically updated.
@@ -104,7 +108,7 @@ health integration and addressing under-reported elder abuse within family struc
 - ⚠️ A senior citizen whose children refuse to provide care after receiving property
   transfer may apply to the Maintenance Tribunal for a maintenance order and/or for
   revocation of the property transfer — the dual remedy under the 2007 Act.
-- ⚠️ A BPL-eligible senior receiving free spectacles and a hearing aid through RVY
+- ⚠️ An eligible senior receiving free spectacles and a hearing aid through RVY
   illustrates AVYAY's assistive-device component.
 - ⚠️ An elderly person experiencing financial exploitation by a family member but not
   reporting it due to dependence and shame illustrates the under-reporting challenge
@@ -114,19 +118,18 @@ health integration and addressing under-reported elder abuse within family struc
 
 - ✅ The Maintenance and Welfare of Parents and Senior Citizens Act, 2007 defines a
   senior citizen as a citizen aged 60 years or above.
-- ✅ Maintenance Tribunals under the 2007 Act may order maintenance up to a maximum of
-  ₹10,000 per month.
-- ✅ AVYAY is the umbrella elderly-welfare scheme; RVY (Rashtriya Vayoshri Yojana)
-  provides free assistive devices to BPL-eligible seniors.
+- ✅ A State-prescribed Tribunal maintenance allowance cannot exceed ₹10,000 per month
+  under the 2007 Act.
+- ✅ AVYAY is the umbrella elderly-welfare scheme; RVY provides ALIMCO aids/devices to
+  eligible 60+ seniors with age-related infirmity who meet the BPL/income criterion.
 - ✅ Elderline is the National Helpline for Senior Citizens (typically 14567).
 - ✅ The 2007 Act enables senior citizens to seek revocation of property transfers where
   the transferee fails to provide basic amenities.
 
 ## 7. UPSC traps
 
-- ❌ The Maintenance and Welfare of Parents and Senior Citizens (Amendment) Act, 2025
-  is now in force. -> ✅ As of mid-2026, the 2025 Amendment Bill has been introduced
-  but not yet passed/enacted; the 2007 Act (unamended) remains the current law.
+- ❌ A Government “Amendment Act, 2025” is in force. -> ✅ The 2019 Government Bill lapsed;
+  2025 Private Members' Bills are pending proposals, and the 2007 Act remains current law.
 - ❌ Only children have a maintenance obligation under the 2007 Act. -> ✅ The obligation
   extends to children AND relatives (those who are or will be legal heirs of the senior
   citizen's property).
@@ -141,11 +144,9 @@ health integration and addressing under-reported elder abuse within family struc
 
 - ✅ The Maintenance and Welfare of Parents and Senior Citizens (Amendment) Bill, 2019
   lapsed with the dissolution of that Lok Sabha.
-- ✅ A fresh version of the Amendment Bill was introduced in 2025 in both Houses of
-  Parliament.
-- ⚠️ As of the most recent available information, this 2025 Bill has not been
-  passed or enacted into law. The 2007 Act is the current law in force; the
-  proposed amendments are not yet law.
+- ✅ Private Members' Bills were introduced in the Lok Sabha and Rajya Sabha in 2025.
+- ⚠️ Neither is enacted as at 21 July 2026. The 2007 Act remains current law; proposed
+  amendments are not law.
 - ⚠️ India's 60+ population is projected to rise significantly over coming decades
   (demographic transition); exact projections vary by source and are not asserted
   here. The durable fact is that ageing is a growing policy priority requiring
@@ -164,8 +165,8 @@ health integration and addressing under-reported elder abuse within family struc
 - ⚠️ Frame the 2007 Act as a legal-entitlement foundation (maintenance, Tribunals,
   property remedy), complemented by welfare schemes (AVYAY) and innovation support
   (SAGE).
-- ⚠️ Distinguish enacted law (2007 Act) from pending reforms (2025 Amendment Bill —
-  NOT yet enacted).
+- ⚠️ Distinguish enacted law (2007 Act) from pending 2025 Private Members' Bills
+  (not enacted).
 - ⚠️ For health aspects of ageing (geriatric care, NCD burden, primary-health
   integration), cross-link to `basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md`.
 - ⚠️ Flag elder abuse as a data-scarce, under-reported problem requiring sensitised
@@ -177,7 +178,7 @@ health integration and addressing under-reported elder abuse within family struc
 > complemented by AVYAY's umbrella welfare components and SAGE's innovation support;
 > its effectiveness depends on enforcement, integration with the geriatric-health
 > system, and addressing the under-reported problem of elder abuse within family
-> structures — reforms proposed in the 2025 Amendment Bill, if enacted, may strengthen
+> structures — reforms proposed in pending 2025 Private Members' Bills, if enacted, may strengthen
 > this framework.
 
 ## 11. Probable questions

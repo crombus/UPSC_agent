@@ -26,7 +26,7 @@
 - ✅ *India's Struggle for Independence* presents the war years as a decisive phase in which imperial claims to defend democracy clashed with the denial of Indian self-government.
 - ✅ The Congress response was not isolationist; it objected to being committed to war without a declaration that India would be free and without an immediate national government.
 - ✅ The **August Offer** retained the Viceroy's control and gave minorities a practical veto, strengthening the colonial pattern of using communal safeguards to block national transfer of power.
-- ✅ The **Cripps proposals** recognised the principle of a constituent assembly but weakened national unity by allowing provinces/states the option not to join the Union.
+- ✅ The **Cripps proposals** recognised constitution-making but weakened national unity by allowing British Indian provinces not to accept the new constitution; princely-state representation remained controlled by rulers rather than popular election.
 
 **Deeper — Quit India combined spontaneity, organisation and a new threshold of defiance.**
 
@@ -41,7 +41,7 @@
 |---|---|
 | ✅ Congress war position | Support for anti-fascist principles required Indian freedom and responsible government |
 | ✅ August Offer problem | Dominion goal postponed; minority veto entrenched; no immediate transfer |
-| ✅ Cripps contradiction | Constituent assembly conceded, but unity weakened by provincial opt-out |
+| ✅ Cripps contradiction | Constitution-making conceded, but unity weakened by provincial non-accession and undemocratic princely-state representation |
 | ✅ Spontaneity vs organisation | Leader arrests caused spontaneity; underground networks supplied continuity |
 | ✅ Violence question | Sabotage and attacks occurred; official repression was severe; ideology remained anti-colonial mass resistance |
 | ✅ Parallel governments | Ballia, Tamluk and Satara represented local experiments in national authority |

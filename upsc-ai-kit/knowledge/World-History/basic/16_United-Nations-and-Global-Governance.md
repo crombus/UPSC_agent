@@ -1,7 +1,7 @@
 # United Nations and Global Governance - MUST-DO
 
 > **Subject:** History (World History) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I with GS-II linkage
-> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 9, pp. 167-185; OCR lines used: 11841-12803. Contemporary structure cross-check: official UN "main bodies" page, fetched 16 July 2026.
+> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 9, pp. 167-185; the local PDF was read directly. Contemporary structure cross-check: official UN main-bodies page, rechecked 21 July 2026.
 > **Exam-relevance anchor:** ✅ UPSC GS-I syllabus includes the world wars and their effects; ✅ UPSC GS-II syllabus includes: "Important International institutions, agencies and fora-their structure, mandate."
 > ✅ = source-grounded · ⚠️ = interpretive synthesis / answer-writing line · 📰 = current-affairs peg only when separately verified.
 > *Companion: `advanced/16_United-Nations-and-Global-Governance.md`.*
@@ -35,7 +35,7 @@
 
 ## 2. Structure: what to remember for exam use
 
-✅ Lowe's chapter discusses the General Assembly, Security Council, Secretariat, International Court of Justice, Trusteeship Council and ECOSOC, and also covers the International Criminal Court in the wider UN system.
+✅ Lowe's chapter discusses the General Assembly, Security Council, Secretariat, International Court of Justice, Trusteeship Council and ECOSOC. It also discusses the International Criminal Court, but Lowe's "seventh organ" presentation is not Charter-accurate: the ICC is an independent treaty-based court with a cooperation relationship with the UN, not a principal UN organ.
 
 ✅ The official UN "main bodies" page today lists **six principal bodies** under the Charter:
 
@@ -63,15 +63,15 @@
 
 ✅ Lowe's central verdict is balanced: the UN has been more successful than the League, but some structural weaknesses remained.
 
-## 4. Peacekeeping: where the UN succeeded and failed
+## 4. Peacekeeping and collective security: where the UN succeeded and failed
 
 ### Relative successes in Lowe's account
 
 - ✅ West New Guinea: helped negotiations and supervised transfer.
-- ✅ Korea: acted decisively, though only because the Soviet delegation was absent.
+- ✅ Korea: Security Council-authorized collective enforcement, not ordinary consent-based peacekeeping; action was possible because the Soviet delegation was absent.
 - ✅ Suez Crisis: one of the UN's strongest moments; ceasefire and peacekeeping force followed.
 - ✅ Congo: complex and costly, but the UN did restore some order.
-- ✅ Gulf War of 1991: collective action was forceful and effective.
+- ✅ Gulf War of 1991: the Security Council authorized force by a member-state coalition; it was not a UN-commanded peacekeeping army.
 - ✅ Cambodia and Mozambique: the post-Cold-War UN helped stabilize transitions.
 
 ### Clear limitations
@@ -95,7 +95,7 @@
 | ✅ Food | FAO support for agriculture and emergency food needs |
 | ✅ Education/culture | UNESCO literacy, schools and heritage work |
 | ✅ Children/refugees | UNICEF and UNRWA |
-| ✅ Finance/trade | IMF, World Bank, GATT/WTO, UNCTAD |
+| ✅ Finance/trade | IMF and World Bank are UN specialized agencies; UNCTAD is a UN body; GATT/WTO belongs to the wider multilateral trade system but the WTO is not a UN specialized agency |
 | ✅ Humanitarian relief | OCHA and disaster response |
 
 ✅ This is the section that often converts a one-sided "UN fails because wars continue" answer into a balanced one.
@@ -128,7 +128,7 @@
 - ✅ "Uniting for Peace" emerged from the Korean War context.
 - ✅ Suez is a classic UN success; Hungary a classic UN failure.
 - ✅ The Trusteeship Council helped supervise territories towards independence.
-- ✅ WHO, FAO, UNESCO, UNICEF and UNRWA are high-yield associated bodies/agencies in Lowe's treatment.
+- ✅ WHO, FAO and UNESCO are specialized agencies; UNICEF is a UN fund and UNRWA a General Assembly-created agency/programme—do not flatten every entity into the same legal category.
 - ✅ The official UN today recognizes six principal bodies under the Charter.
 
 > 🔑 Trap: Do not reduce the UN to the Security Council alone. Lowe stresses that most of the UN's actual work lies in social, humanitarian and developmental fields.
@@ -136,6 +136,7 @@
 - ❌ The UN completely solved Palestine, Kashmir or Cyprus. -> ✅ It managed crises and ceasefires better than final settlements.
 - ❌ Veto means the General Assembly is irrelevant. -> ✅ Assembly resolutions, including "Uniting for Peace", can still matter politically.
 - ❌ ICC and ICJ are the same thing. -> ✅ ICJ is the UN's principal court; ICC is separate in institutional origin.
+- ❌ Korea and the 1991 Gulf War were ordinary blue-helmet peacekeeping missions. -> ✅ They were collective-enforcement cases authorized through the Security Council and conducted mainly by member-state forces.
 
 ## 8. GS-I/GS-II Mains exam linkage, answer frame and probable questions
 

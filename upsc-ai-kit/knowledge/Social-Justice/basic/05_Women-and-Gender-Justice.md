@@ -71,14 +71,18 @@ for tracking whether public expenditure reflects this dual commitment.
    (IC) where employee strength is 10 or more; complaints are inquired within 90 days;
    failure to comply attracts penalties and can lead to licence cancellation for repeat
    offenders. The Local Committee (LC) extends coverage to women in the unorganised sector.
-3. **Mission Shakti (2021) — umbrella scheme:** Two sub-schemes: (a) *Sambal* for safety
-   (One Stop Centres, Women Helpline 181, Beti Bachao Beti Padhao) and (b) *Samarthya* for
-   empowerment (Ujjwala, Working Women Hostels, crèche/childcare support).
+3. **Mission Shakti (2021) — umbrella scheme:** *Sambal* is the safety/security track
+   (for example, One Stop Centres, Women Helpline, Beti Bachao Beti Padhao and Nari
+   Adalat), while *Samarthya* is the empowerment track. Together the current framework
+   links shelter/rehabilitation, maternity benefit, childcare, working-women accommodation
+   and empowerment support; use the current MWCD guidelines before attaching a component
+   to a sub-scheme.
 4. **Maternity support:** The Maternity Benefit Act, 1961 (amended 2017) mandates 26 weeks
    of paid leave for the first two surviving children in covered establishments with 10 or
-   more employees. PMMVY provides a cash transfer to eligible pregnant/lactating women,
-   excluding those in regular Central/State Government or PSU employment or already
-   receiving similar maternity benefits.
+   more employees. Under PMMVY 2.0, eligible women receive ₹5,000 in two instalments for
+   the first child and ₹6,000 in one instalment for a second child if it is a girl,
+   subject to health/birth/immunisation conditions. It is a conditional DBT, not a
+   substitute for employer-funded leave.
 5. **NCW (1990 Act) — statutory oversight:** The National Commission for Women receives
    complaints, investigates violations, reviews legislation and recommends policy reforms
    affecting women's rights.
@@ -99,8 +103,10 @@ for tracking whether public expenditure reflects this dual commitment.
   Samarthya (empowerment); integrates multiple erstwhile standalone schemes.
 - ✅ **Maternity Benefit Act, 1961 (amended 2017):** 26 weeks paid maternity leave;
   applicable to organised-sector establishments above specified employee threshold.
-- ✅ **Pradhan Mantri Matru Vandana Yojana (PMMVY):** cash transfer to pregnant/lactating
-  women, designed for unorganised-sector partial wage compensation.
+- ✅ **Pradhan Mantri Matru Vandana Yojana (PMMVY 2.0):** conditional maternity-benefit
+  DBT for eligible pregnant/lactating women: ₹5,000 in two instalments for the first
+  child and ₹6,000 in one instalment for a second child if it is a girl. It is targeted
+  support, not universal paid maternity leave.
 - ✅ **National Commission for Women (NCW) Act, 1990:** Chairperson + Members as notified;
   mandate includes investigating complaints, reviewing legislation and recommending
   safeguards; a statutory body, not a constitutional body.
@@ -156,10 +162,13 @@ for tracking whether public expenditure reflects this dual commitment.
   erstwhile standalone schemes into Sambal (safety) and Samarthya (empowerment)
   sub-schemes. No specific beneficiary count is asserted here because portal dashboards
   update continuously; the durable fact is the two-sub-scheme architecture.
-- 📰 NFHS-6 (2023-24), officially released on 29 May 2026, reported that 89.0% of
-  women owned and used a bank or savings account and 64.3% had ever used the
-  internet. These are dated empowerment-access indicators, not proof of equal
-  control over assets, income or decision-making.
+- 📰 **NFHS-5 (2019-21) access baseline:** 78.6% of women aged 15–49 reported having a
+  bank/savings account that they themselves used, while 54.0% reported owning/using a
+  mobile phone. These are dated access indicators, not proof of equal control over
+  assets, income or decision-making; NFHS-6 must not be assumed released.
+- 📰 **PMMVY 2.0 status:** State the child order, child-sex condition and conditional
+  instalment structure accurately; do not merge it with the Maternity Benefit Act's
+  employer obligation.
 
 ## 9. PYQ application
 

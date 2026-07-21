@@ -15,7 +15,7 @@
 | ✅ 1342 | Ilyas Khan/Sultan Shamsuddin Ilyas Shah captures Lakhnauti and Sonargaon |
 | ✅ 1389–1409 | Ghiyasuddin Azam Shah; justice tradition and China-Hafiz contacts |
 | ✅ 1407 | Gujarat formally independent under Muzaffar Shah |
-| ✅ 1411–42 | Ahmad Shah I consolidates Gujarat; Ahmedabad founded in 1413 |
+| ✅ 1411–42 | Ahmad Shah I consolidates Gujarat; the assigned source dates Ahmedabad's foundation to 1413 |
 | ✅ 1420–70 | Zainul Abidin of Kashmir; policy of toleration and cultural revival |
 | ✅ 1459–1511 | Mahmud Begarha's long reign; Girnar and Champaner |
 | ✅ 1484 | Bahlul Lodi occupies Jaunpur and annexes the Sharqi kingdom |
@@ -54,7 +54,7 @@
 | ⚠️ Source criticism | *Buranjis* are court chronicles: indispensable for sequence and institutions, but not neutral records |
 | ✅ Moidams | UNESCO identifies Charaideo as a Tai-Ahom royal necropolis whose mound burials encode funerary custom and cosmology across six centuries |
 
-> **Boundary:** Political-administrative analysis remains here. Form, material, cosmology, UNESCO criteria and conservation belong to Indian Art & Culture topic 14.
+> **Boundary/source note:** This Ahom material is a supplementary extension outside the three assigned Satish Chandra PDFs. Political-administrative analysis remains here; form, material, cosmology, UNESCO criteria and conservation belong to Indian Art & Culture topic 14.
 
 ## 3. Study links
 
@@ -81,9 +81,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Champaner-Pavagadh Heritage Festival 2026 / UNESCO-site programming highlighted Gujarat Sultanate and syncretic heritage** (Incredible India / New Indian Express, 2026). Relevance: Mahmud Begarha's Champaner remains a living heritage-management case.
-
-📰 **Moidams, Charaideo (26 July 2024):** the World Heritage inscription is the dated hook for revising Ahom state formation, the *paik* system and *buranji* source tradition. Do not turn this political-history file into a monument dossier; cross-link the funerary landscape to Indian Art & Culture topic 14.
+📰 **Current linkage (verify live before use):** UNESCO/ASI management of Champaner-Pavagadh and other regional capitals can connect architecture with state legitimacy. Verify festival, inscription and conservation details from official records; route Moidam form and criteria to Art & Culture.
 
 ## 7. Mains angles
 

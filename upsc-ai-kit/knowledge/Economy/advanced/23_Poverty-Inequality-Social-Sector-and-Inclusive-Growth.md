@@ -4,7 +4,7 @@
 > **Core area:** Poverty and inclusion.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.*
+> *Companion: `../basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.*
 
 ---
 
@@ -126,7 +126,7 @@ can exclude precisely those with unstable incomes and residence.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 Extreme poverty was 5.3% in 2022-23 using the revised World Bank USD 3/day line. | State the revised poverty line and year before drawing trend or international-comparison conclusions. |
+| 📰 Extreme poverty was 5.3% in 2022-23 using the revised World Bank USD 3/day line. | It uses the World Bank's 2021-PPP benchmark and is not directly comparable with older lines or India's domestic poverty-line debate. |
 | 📰 Lower-middle-income poverty was 23.9% in 2022-23. | The higher lower-middle-income-line headcount shows sensitivity to the benchmark chosen. |
 | 📰 NITI MPI fell to 14.96% in 2019-21 and was estimated at 11.28% in 2022-23. | MPI progress should be decomposed by dimension and geography rather than treated as uniform welfare improvement. |
 
@@ -134,6 +134,9 @@ can exclude precisely those with unstable incomes and residence.
 
 - ⚠️ 2024 GS-III: Social-service public expenditure and inclusive growth after reforms.
 - ⚠️ 2025 GS-III: HDI versus IHDI as an inclusive-growth indicator.
+- ⚠️ **Social-expenditure answer engine:** allocation → release → actual spending →
+  service availability/quality → household outcome; disaggregate by state, group and
+  rural/urban access before claiming inclusive growth.
 
 ## 11. Mains-ready framework
 
@@ -159,8 +162,7 @@ can exclude precisely those with unstable incomes and residence.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-
-  Growth.md`.
+- ✅ Foundation companion: `../basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.
 - ✅ `02_Growth-Development-HDI-IHDI-and-MPI.md` — measurement of capabilities and
   deprivation.
 - ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — fiscal space and expenditure

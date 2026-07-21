@@ -2,7 +2,7 @@
 
 > **Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
 > **Core area:** Negative/positive liberty, formal/substantive equality, and property as freedom, security and social power.
-> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.16-18, PDF pp.367-431.
+> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.16-18, PDF pp.367-431; *Socio-Political Philosophy*, PDF pp.7-35 for supplementary liberty/equality contrasts.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
 > ✅ = source-grounded | ⚠️ = analytical inference/synthesis | 📰 = dated current anchor | ❌ = trap/misattribution.
 > *Companion: `Political-Theory/advanced/18_Liberty-Equality-and-Property.md`.*
@@ -56,6 +56,7 @@ property qualified by common good
 | Liberty | ✅ Liberty is commonly described as absence of restraint, but Gauba insists that in society it means absence of **unreasonable** restraint and protection of conditions in which human capacities can develop (Gauba, PDF pp.371-375, 379-381). |
 | Negative liberty | ✅ Freedom from interference in chosen actions, especially where the state abstains from imposing unreasonable restraints on speech, worship, movement and similar activities (Gauba, PDF pp.375-377). |
 | Positive liberty | ✅ Freedom secured by removing socially created obstacles such as poverty, insecurity, unemployment or lack of education where these are alterable by public policy (Gauba, PDF pp.379-381). |
+| Positive liberty: two senses | ⚠️ Do not conflate Berlin's sense of self-mastery with positive liberalism's enabling-conditions sense. Gauba expressly says Berlin's positive liberty does not correspond to welfare/positive liberalism (Gauba, PDF pp.378-380). |
 | Equality | ✅ Equality is a claim of right and equal moral worth, not a statement that all persons are factually identical in talent, strength or circumstance (Gauba, PDF pp.392-396). |
 | Formal equality | ✅ Equality understood as non-discrimination, equal legal personality, equal vote or open access in principle, without necessarily changing the underlying socio-economic structure (Gauba, PDF pp.400-406). |
 | Substantive equality | ✅ Equality understood as actual reduction of unjust and alterable inequalities, especially by extending real opportunities and safeguards to weaker sections (Gauba, PDF pp.404-407). |
@@ -86,6 +87,7 @@ property qualified by common good
 | Positive liberty | ✅ It asks whether the individual lacks the means or conditions to act because of poverty, insecurity, unemployment, ignorance or similar social obstacles that can be altered by policy (Gauba, PDF pp.379-381). |
 | Core warning | ❌ Positive liberty simply means "more government." -> ✅ Gauba's point is narrower: it means removal of alterable social constraints, not unlimited state command over life (Gauba, PDF pp.379-381). |
 | Common ground | ✅ Gauba treats the two as complementary rather than mutually exclusive, although different schools give different priority to them (Gauba, PDF p.375). |
+| Two positive-liberty languages | ⚠️ **Self-mastery:** rule by one's reflective or higher self (Berlin's analytic category). **Enabling freedom:** removal of socially alterable deprivation (Green/positive liberalism). They can overlap, but neither definition may be silently substituted for the other. |
 
 ### Formal equality vs substantive equality
 
@@ -95,6 +97,7 @@ property qualified by common good
 | Substantive equality | ✅ It means actual widening of access and capability through social provision, protection of weaker sections and reduction of unjust socio-economic disparities (Gauba, PDF pp.404-407). |
 | Core warning | ❌ If opportunities are formally open to all, equality is already achieved. -> ✅ Gauba repeatedly argues that legal-political equality can become decorative where poverty, hierarchy and dependence block actual access (Gauba, PDF pp.401-406). |
 | Test | ⚠️ Ask not only "Is the rule same?" but also "Can ordinary people really use the opportunity?" |
+| Necessary/sufficient test | ✅ Alterability is a necessary condition for making an inequality a practical target of reform, but not sufficient to prove injustice; some alterable differences may be justified by need, relevant function or socially beneficial excellence (Gauba, PDF pp.394-397). |
 
 ### Property categories and political meaning
 
@@ -110,7 +113,7 @@ property qualified by common good
 | Thinker | Position to retain |
 |---|---|
 | J.S. Mill | ✅ Mill marks the liberal transition from laissez-faire toward a positive role for the state by distinguishing self-regarding and other-regarding conduct and justifying intervention for welfare, taxation and education (Gauba, PDF pp.377-378). |
-| Isaiah Berlin | ✅ Berlin sharply distinguishes negative liberty from self-mastery and denies that poverty or lack of means automatically counts as loss of political liberty; Gauba criticizes this for ignoring socially produced disabilities (Gauba, PDF pp.378-380). |
+| Isaiah Berlin | ✅ Berlin distinguishes negative liberty from positive liberty as self-mastery and denies that poverty automatically equals political unfreedom; Gauba accepts the moral self-mastery distinction but criticizes its treatment of socially produced material disability (Gauba, PDF pp.378-380). |
 | F.A. Hayek | ✅ Hayek identifies liberty with freedom from coercion, defends equality before law rather than material equality, and warns that distributive schemes may destroy freedom (Gauba, PDF pp.381-383, 408-412). |
 | Milton Friedman | ✅ Friedman links competitive capitalism with freedom and seeks to minimize welfare and regulatory functions of the state; Gauba treats this as conceptually narrow because market power itself can coerce labour (Gauba, PDF pp.383-384). |
 | Robert Nozick | ✅ Nozick defends a minimal state and rejects redistributive correction of production-level inequalities if acquisition and transfer were voluntary (Gauba, PDF pp.384, 411). |
@@ -152,11 +155,24 @@ property qualified by common good
 ## 9. UPSC traps and corrections
 
 - ❌ Positive liberty means the state may command whatever it likes. -> ✅ Positive liberty means removing socially alterable obstacles to self-development; it does not justify unlimited authority (Gauba, PDF pp.379-381).
+- ❌ Berlin, Green, Hayek and Nozick use "positive liberty" in the same way. -> ✅ Berlin's
+  self-mastery category differs from Green's enabling freedom, while Hayek and Nozick resist the
+  redistributive conclusions associated with positive liberalism.
 - ❌ Liberty and equality are natural enemies. -> ✅ Gauba treats them as complementary when liberty is understood as equal liberty and equality as reasonable, not literal, equalization (Gauba, PDF pp.392-393, 407-410).
 - ❌ Equality means identical treatment or identical shares for all. -> ✅ Gauba explicitly rejects literal equalization and allows differential treatment on grounds of need and socially useful excellence (Gauba, PDF pp.395-398, 410).
 - ❌ Formal equality before law automatically yields justice. -> ✅ Gauba stresses that legal access and political rights may remain ineffective amid poverty, hierarchy and unequal bargaining power (Gauba, PDF pp.401-406).
 - ❌ Property is one undifferentiated right. -> ✅ The chapters distinguish security-giving personal holdings from productive assets that can become instruments of power over others (Gauba, PDF pp.414, 419-431).
 - ❌ Marxism abolishes every form of property. -> ✅ Gauba says its target is bourgeois/private property in the means of production, not personal property as such (Gauba, PDF pp.429-430).
+
+### Verified local PYQ transfer
+
+- ✅ **2025:** salient features of equality according to J.S. Mill; why liberty and equality remain
+  inadequate without justice.
+- ✅ **2024:** critically evaluate liberty and equality as political ideals.
+- ✅ **2022:** complete liberty, inequality and the loss of freedom through order/restriction.
+- ⚠️ Framework: define -> separate negative liberty, self-mastery and enabling freedom -> distinguish
+  formal/substantive equality -> apply the alterability-but-not-sufficiency test -> reconcile through
+  equal liberty and justice.
 
 ## 10. Cross-links and boundaries
 
@@ -180,6 +196,8 @@ property qualified by common good
 ## 12. Sources, metadata and tags
 
 - ✅ Main direct-book anchors used here: liberty at PDF pp.367-390; equality at PDF pp.391-412; property at PDF pp.413-431.
+- ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.7-35.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
 - ✅ Companion file: `Political-Theory/advanced/18_Liberty-Equality-and-Property.md`.
 - ✅ Immediate justice follow-up: `Political-Theory/basic/19_Justice-Concepts-and-Dimensions.md`.
 - ✅ Module anchors: `Political-Theory/README.md` and `Political-Theory/00_Master-Framework.md`.

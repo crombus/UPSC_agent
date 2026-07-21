@@ -50,10 +50,10 @@ therefore requires its own dedicated data-governance and privacy framework.
 | ✅ **UPI (Unified Payments Interface)** | An NPCI-built real-time payments system enabling instant bank-to-bank money transfer, the payments layer of India's DPI stack. |
 | ✅ **DigiLocker** | A MeitY-backed digital document wallet allowing citizens to store and share verified documents (certificates, licenses) with government and other agencies electronically. |
 | ✅ **Account Aggregator (AA)** | An RBI-regulated (NBFC-AA) consent-manager framework that enables secure, consent-based sharing of financial information between regulated financial-information providers and financial-information users, without the AA itself storing the underlying data. |
-| ✅ **DEPA (Data Empowerment and Protection Architecture)** | A techno-legal framework giving individuals control over what personal data is shared, with whom and for what purpose, operationalised through consent managers such as Account Aggregators, extending beyond finance to sectors like health. |
+| ✅ **DEPA (Data Empowerment and Protection Architecture)** | A techno-legal policy architecture for consent-based data sharing. The RBI-regulated Account Aggregator ecosystem is its operational financial-sector implementation; any extension to another sector must be verified under that sector's own framework. |
 | ✅ **ONDC (Open Network for Digital Commerce)** | A DPIIT-backed open-protocol initiative enabling interoperable digital commerce (buyers and sellers transacting across platforms), analogous in spirit to UPI's interoperability for payments. |
-| ✅ **ABDM (Ayushman Bharat Digital Mission)** | The Ministry of Health and Family Welfare's digital health initiative building unique health IDs, digital health records and registries of healthcare providers/facilities on a consent-based data-sharing model. |
-| ✅ **DPDP Act, 2023** | India's comprehensive personal-data-protection statute, establishing obligations for "Data Fiduciaries" processing personal data, consent requirements, rights of "Data Principals," and a Data Protection Board of India for enforcement. |
+| ✅ **ABDM (Ayushman Bharat Digital Mission)** | The National Health Authority's digital-health architecture built around the voluntary ABHA identifier, health-professional/facility registries and consent-mediated exchange of health records; it does not create one central government-owned clinical record for every person. |
+| ✅ **DPDP Act, 2023** | India's personal-data-protection statute with phased commencement. As of 21 July 2026, institutional/rule-making provisions are in force, but most substantive processing duties, Data Principal rights and penalties commence on 13 May 2027. |
 
 ## 3. How DPI and data governance function together (mechanism)
 
@@ -63,15 +63,14 @@ therefore requires its own dedicated data-governance and privacy framework.
    scale, reducing cash dependency in both government transfers and private commerce.
 3. **Document/records layer (DigiLocker, ABDM health records)** digitises verified documents
    and records for portable, on-demand sharing.
-4. **Consent-based data-sharing layer (Account Aggregator, DEPA)** allows individuals to
-   share their own data (financial, health) with a chosen recipient without the
-   intermediary itself retaining or monetising that data.
+4. **Consent-based data-sharing layer:** Account Aggregators enable regulated financial-data
+   sharing; ABDM uses its own health-data exchange/consent architecture. Both reflect DEPA-
+   style principles but are legally and institutionally distinct.
 5. **Commerce layer (ONDC)** extends the DPI logic (open, interoperable protocols) to digital
    commerce, reducing platform lock-in.
-6. **Data-protection layer (DPDP Act, 2023 and Rules, 2025)** overlays all the above with
-   statutory consent, purpose-limitation and grievance-redress obligations, since a DPI
-   ecosystem that moves large volumes of personal data across government and private actors
-   requires a matching legal safeguard.
+6. **Data-protection layer:** the DPDP Act/Rules provide the enacted framework, but duties
+   must be stated according to commencement. Before 13 May 2027 many core consent, duty,
+   right and penalty provisions are enacted but not yet operative.
 
 ## 4. Institutions and tools
 
@@ -82,13 +81,14 @@ therefore requires its own dedicated data-governance and privacy framework.
 - ✅ **RBI** — regulates Account Aggregators (as NBFC-AAs) under the DEPA framework.
 - ✅ **DPIIT** — the nodal department for ONDC.
 - ✅ **Ministry of Health and Family Welfare / National Health Authority** — implements ABDM.
-- ✅ **Data Protection Board of India** — the adjudicatory body established under the DPDP
-  Act, 2023 for enforcement, complaints and penalties.
-- 📰 **Digital Personal Data Protection Rules, 2025** — notified by MeitY on 13 November
-  2025, bringing Rules 1, 2 and 17-21 into force immediately, Rule 4 (Consent Manager
-  registration) into force one year later (13 November 2026), and the remaining
-  operational obligations (Rules 3, 5-16, 22 and 23) into force eighteen months later
-  (13 May 2027).
+- ✅ **Data Protection Board of India (DPBI)** — legally established under section 18.
+  MeitY invited applications in May 2026 for one Chairperson and four Members. No official
+  appointment order was located by the 21 July 2026 cut-off, so the Board must not be
+  described as hearing cases or imposing penalties.
+- 📰 **Digital Personal Data Protection Rules, 2025** — G.S.R. 846(E), notified
+  13 November 2025 (with a December 2025 corrigendum), use phased commencement. The Act's
+  commencement notification similarly leaves most substantive provisions until
+  13 May 2027.
 
 ## 5. Indian applications and examples
 
@@ -113,8 +113,8 @@ therefore requires its own dedicated data-governance and privacy framework.
 - ✅ UPI is operated by the National Payments Corporation of India (NPCI).
 - ✅ Account Aggregators are regulated by the Reserve Bank of India as a distinct NBFC
   category (NBFC-AA).
-- ✅ The Digital Personal Data Protection Act, 2023 establishes a Data Protection Board of
-  India as the enforcement/adjudicatory authority.
+- ✅ The DPDP Act provides for the DPBI; legal establishment, appointment of members and
+  operational adjudication are separate stages.
 - 📰 The Digital Personal Data Protection Rules, 2025 were notified by MeitY on 13 November
   2025, with different provisions coming into force on a staggered timeline.
 
@@ -135,11 +135,11 @@ therefore requires its own dedicated data-governance and privacy framework.
 
 ## 8. 📰 Current anchor
 
-- 📰 The Digital Personal Data Protection Rules, 2025 were notified on 13 November 2025,
-  with Rules 1, 2 and 17-21 in force immediately, Consent Manager registration (Rule 4) in
-  force from 13 November 2026, and the remaining compliance obligations in force from
-  13 May 2027 — a fixed, officially notified staggered timeline, not a figure subject to
-  periodic revision.
+- 📰 **Status checked 21 July 2026:** the Rules were notified 13 November 2025. DPBI
+  recruitment was underway after MeitY's May 2026 advertisement; most substantive Act/Rule
+  obligations commence 13 May 2027. Section 44(2), which substitutes RTI Act section
+  8(1)(j), is also scheduled for that later phase; until then the existing RTI privacy/public-
+  interest text remains operative.
 
 ## 9. PYQ application
 
@@ -160,6 +160,8 @@ therefore requires its own dedicated data-governance and privacy framework.
   evaluative answer; do not present DPI as an unqualified success story.
 - ⚠️ Cross-link the constitutional right-to-privacy foundation (Justice K.S. Puttaswamy v.
   Union of India, 2017 — a Polity/Fundamental Rights topic) rather than re-deriving it here.
+- ⚠️ Add four safeguards to any DPI proposal: necessity/proportionality, data minimisation
+  and purpose tagging, assisted/offline fallback, and reasoned human review/appeal.
 
 > **Answer thesis:** India's Digital Public Infrastructure — identity, payments and
 > consent-based data-sharing rails used across government and private services — has

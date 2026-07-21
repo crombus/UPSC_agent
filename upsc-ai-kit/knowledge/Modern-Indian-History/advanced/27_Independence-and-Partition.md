@@ -1,7 +1,7 @@
 # Independence & Partition (1946–1947) — ADVANCED
 
 > **Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, Mridula Mukherjee, Aditya Mukherjee, K.N. Panikkar, Sucheta Mahajan, *India's Struggle for Independence, 1857–1947* — transfer of power and Partition analysis.
+> **Grounded in:** Bipan Chandra et al., *India's Struggle for Independence, 1857–1947*, cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partition* — transfer of power and Partition analysis.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `basic/27_Independence-and-Partition.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -70,7 +70,7 @@
 
 > 🔑 Trap: Do not confuse **responsibility for Partition** with **legal mechanics of Partition**; UPSC can ask both separately.
 
-- ❌ Partition was inevitable from 1906. → It resulted from cumulative communal politics but became unavoidable only in the late transfer crisis.
+- ❌ Partition was inevitable from 1906. → It resulted from contingent political choices and cumulative communalisation; whether it became literally "unavoidable" even in 1947 remains a disputed counterfactual, not a provable fact.
 - ❌ Congress always supported Partition. → Congress accepted it reluctantly in 1947 after constitutional deadlock and violence.
 - ❌ British haste alone caused Partition. → Haste worsened violence, but communal politics and League-Congress deadlock were already central.
 - ❌ Boundary commissions prevented mass violence. → The late and hurried award contributed to uncertainty and panic.

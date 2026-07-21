@@ -76,6 +76,8 @@
 | ✅ Cold War origins and early phase | 1945-1953 | US-USSR bipolar rivalry, containment, division of Europe | Berlin Blockade, 1948-49; NATO, 1949 |
 | ✅ Chinese Communist victory | 1949 | Mao Zedong's CCP defeats the Kuomintang | People's Republic of China proclaimed, 1 Oct 1949 |
 | ✅ Cold War crises and detente | 1953-1979 | Cuban Missile Crisis, Vietnam War, detente | Cuban Missile Crisis, 1962 |
+| ✅ Middle East wars and diplomacy | 1948-1991 | Arab-Israeli wars, Palestinian question, superpower involvement and oil-security politics | 1948-49 war; Suez, 1956; Six-Day War, 1967; Yom Kippur War, 1973; Camp David, 1978-79; Gulf War, 1990-91 |
+| ✅ Western European integration | 1951-1991 | ECSC and EEC deepen cooperation while western and eastern Europe remain divided | ECSC, 1951; Treaty of Rome, 1957; Maastricht agreed, 1991 |
 | ✅ Decolonization of Asia and Africa | 1945-1975 (bulk 1945-1965) | End of European empires | India independence, 1947; most African states independent by mid-1960s |
 | ✅ Latin America under US influence | 1945-1980s | US interventions, debt crisis | Cuban Revolution, 1959; 1980s debt crisis |
 | ✅ Renewed Cold War tension and end | 1979-1991 | Afghanistan invasion, Gorbachev reforms, collapse of communism | Fall of Berlin Wall, 1989; USSR dissolved, Dec 1991 |
@@ -90,6 +92,7 @@
 | Era/event | Approx date | Defining feature | Key marker (Norman Lowe) |
 |---|---|---|---|
 | ✅ Post-Cold-War "new world order" | 1991-2001 | US unipolarity, Gulf War, globalisation acceleration | Gulf War, 1990-91 |
+| ✅ European Union after Maastricht | 1992-present | Simultaneous deepening and enlargement of European integration | Maastricht signed, 1992; in force, 1993; major eastern enlargement, 2004 |
 | ✅ Rise of global terrorism / War on Terror | 1990s-2000s | Al-Qaeda, 9/11, Afghanistan/Iraq wars | 11 September 2001 attacks |
 | ✅ Arab Spring | 2010-2012 (onward instability) | Popular uprisings across the Arab world | Tunisia, Dec 2010 - Jan 2011 onward |
 | ⚠️ Contemporary multipolarity debate | 2010s-present | Rise of China, shifting global-governance debates | Beyond Lowe's 5th-edition (2013) coverage — treat any post-2013 update as a separately dated 📰 current-affairs anchor inside Topic 21, not as part of Lowe's own narrative |
@@ -104,8 +107,9 @@
 - ⚠️ **World wars bracket:** WWI (1914-18) -> interwar League/appeasement failure (1919-39) ->
   WWII (1939-45), with the Russian Revolution (1917) and rise of fascism (1918-39) unfolding
   inside/around this bracket.
-- ⚠️ **Bipolar age:** UN founded (1945) -> Cold War (1947-91) -> simultaneous decolonization
-  (1945-65) -> Cold War ends with USSR's collapse (1991).
+- ⚠️ **Bipolar age:** UN founded (1945) -> Cold War (1947-91), Middle East crises and western
+  European integration unfold alongside decolonization (1945-65) -> Cold War ends with USSR's
+  collapse (1991).
 - ⚠️ **Post-1991:** Unipolar "new world order" -> rise of terrorism/9/11 (2001) -> Arab Spring
   (2010-12) -> ongoing multipolarity debate (post-2013, treat as dated current affairs only).
 

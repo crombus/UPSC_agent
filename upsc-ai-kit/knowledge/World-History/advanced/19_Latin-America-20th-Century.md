@@ -1,7 +1,7 @@
 # Latin America in the Twentieth Century — ADVANCED
 
 > **Subject:** History (World History) · **Tier:** Advanced (analysis + answer writing) · **GS Paper:** GS-I
-> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapter 26 + dated current-affairs continuity note.
+> **Grounded in:** Norman Lowe, *Mastering Modern World History* (5th ed.), Chapters 8 and 26 + dated current-affairs continuity note.
 > ✅ = from Lowe · ⚠️ = synthesis / analytical judgement · 📰 = post-2013 current affairs.
 > *Companion: `basic/19_Latin-America-20th-Century.md`.*
 
@@ -49,8 +49,9 @@
 
 ## 6. 📰 Current link
 
-- 📰 **13 May 2025:** the **Fourth China-CELAC Forum** in Beijing adopted a new action plan and highlighted Latin America's search for diversified partnerships beyond the United States.
+- 📰 **13 May 2025:** the Fourth Ministerial Meeting of the China-CELAC Forum in Beijing adopted the Beijing Declaration and the China-CELAC Joint Action Plan for Cooperation in Key Areas (2025-2027), according to China's Ministry of Foreign Affairs.
 - 📰 Exam use: this is a modern echo of Lowe's theme that US influence in the region has repeatedly been contested rather than passively accepted.
+- ⚠️ Source caution: the document confirms the meeting and agreed framework; it does not by itself prove that every announced project has been implemented or that US influence has been displaced.
 
 ## 7. Must-Know Facts (Prelims) and UPSC Traps
 

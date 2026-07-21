@@ -127,6 +127,19 @@ category alone.
 **Exam trap:** A scheme cannot substitute for enforcement of a protective law, and a
 commission cannot substitute for the department responsible for service delivery.
 
+### Status ladder for volatile claims
+
+| Status | What it proves — and what it does **not** prove |
+|---|---|
+| Announced / approved | Political intent or budget decision; not a legal entitlement by itself |
+| Enacted | Parliament or a legislature has made a law; commencement may still await notification |
+| Rules notified | Subordinate framework exists; check its territorial and provision-specific commencement |
+| Commenced | The notified provision is legally in force; this does not prove funds, capacity or uptake |
+| Funded / operational | Delivery has begun; report the source date and distinguish a dashboard output from an outcome |
+
+**Use in answers:** Name the precise rung. For example, an enacted labour code, a
+notified rule and a benefit actually received by a worker are three different claims.
+
 ## 7. Measuring outcomes responsibly
 
 | Source | Strength | Limitation |
@@ -156,7 +169,8 @@ recorded discrimination remain poor.
 2. **Name the legal or entitlement foundation.**
 3. **Map the responsible institution and delivery route.**
 4. **Distinguish coverage from effective access and quality.**
-5. **Use dated outcome evidence, not an undated dashboard total.**
+5. **State the legal and delivery status, then use dated outcome evidence rather than an
+   undated dashboard total.**
 6. **Diagnose the specific gap:** identification, enforcement, delivery, quality or
    learning.
 7. **Recommend convergence, remedy and a measurable capability outcome.**
@@ -169,3 +183,11 @@ recorded discrimination remain poor.
 4. Read `14-16` for precarious labour, occupation and location.
 5. Read `17` last to integrate targeting, convergence and data.
 
+### Audited Essay transfer routes
+
+- ✅ **2024 Essay, Section B:** “Social media is triggering Fear of Missing Out amongst
+  the youth precipitating depression and loneliness.” Use it as a thematic bridge to
+  Topic 06's digital-child-safety and mental-health discussion; it is not outcome data.
+- ✅ **2025 Essay, Section B:** “Contentment is natural wealth; luxury is artificial
+  poverty.” Use it to distinguish an ethical/normative essay lens from the measured
+  poverty, inequality and capability evidence required in Topics 01–02.

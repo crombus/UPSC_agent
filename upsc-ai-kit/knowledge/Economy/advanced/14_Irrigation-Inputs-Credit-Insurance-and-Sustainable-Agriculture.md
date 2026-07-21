@@ -4,7 +4,7 @@
 > **Core area:** Agricultural inputs and resilience.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`.*
+> *Companion: `../basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`.*
 
 ---
 
@@ -106,6 +106,8 @@ extension, maintenance and market access determine who benefits.
 - ✅ Input subsidies alter crop choices, technology and resource use, not only farm costs.
 - ✅ Credit and insurance address different constraints: liquidity versus covered risk.
 - ✅ Insurance requires clear triggers, credible yield or weather data and timely settlement.
+- ✅ Crop-insurance coverage turns on notified crop, area, season and specified peril; it
+  does not insure every price loss or substitute for irrigation and risk-reduction policy.
 - ✅ Integrated farming systems combine crops with horticulture, livestock, fisheries or
   agroforestry to diversify risk.
 
@@ -134,6 +136,10 @@ extension, maintenance and market access determine who benefits.
 
 - ⚠️ 2024 GS-III: Challenges of Indian irrigation and government measures for efficiency.
 - ⚠️ 2026 Prelims provisional key: Rainfed Area Development and Integrated Farming Systems.
+- ⚠️ **Irrigation answer engine:** source sustainability and aquifer governance; conveyance
+  and field efficiency; waterlogging/salinity; crop-water incentives and power pricing;
+  then micro-irrigation, canal modernisation, watershed work, measurement, extension and
+  locally credible user institutions.
 
 ## 11. Mains-ready framework
 
@@ -158,8 +164,7 @@ extension, maintenance and market access determine who benefits.
 
 ## 13. Study links
 
-- ✅ Foundation companion: `basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-
-  Agriculture.md`.
+- ✅ Foundation companion: `../basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`.
 - ✅ `11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md` — crop and regional path
   dependence.
 - ✅ `12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` — price incentives affecting

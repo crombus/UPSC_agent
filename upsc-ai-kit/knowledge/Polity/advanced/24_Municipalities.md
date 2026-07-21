@@ -1,7 +1,7 @@
 # Municipalities — 74th Amendment (Articles 243-P–243-ZG, Part IX-A) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 39 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 39 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Municipalities.md`.*
 
@@ -26,7 +26,7 @@ density, revenue, % non-agricultural employment, economic importance**.
 ## Salient features
 | Feature | Detail |
 |---|---|
-| ✅ **Composition** | All members **directly elected** from **wards** |
+| ✅ **Composition** | All **territorial seats** directly elected from wards; Art 243-R permits specified additional representation |
 | ✅ **Wards Committees** | Mandatory in municipalities with population **≥ 3 lakh** |
 | ✅ **Reservation** | SC/ST by population + **≥ 1/3 seats for women**; BC reservation optional |
 | ✅ **Duration** | **5-year term**; election within **6 months** of dissolution; reasonable opportunity of hearing before dissolution |

@@ -24,8 +24,8 @@ sharper in developing-country conditions - 2024 PYQ)
 HOUSING-SUPPLY LAG (formal supply < migrant inflow)
         |
         v
-INFORMAL SETTLEMENT / SLUM (market response, not failure
-of migrant choice)
+INFORMAL SETTLEMENT / SLUM (housing/tenure gap shaped by
+markets, land rules and planning; never migrant “failure”)
         |
    -----+------------------------------
    |                                  |
@@ -52,7 +52,7 @@ the very pull mechanism that makes large cities economically attractive in the f
 | Concept | Precise meaning |
 |---|---|
 | ✅ **Agglomeration economies vs simple wage differential** | Agglomeration economies describe the compounding productivity and matching benefits that arise when many firms and workers cluster together (deeper labour markets, knowledge spillovers, denser supplier networks); a simple wage differential is only one output of this clustering — large-city pull is driven by the full agglomeration effect, not wage level alone. |
-| ✅ **Slum as informal-market response vs slum as planning failure** | Treating slums purely as a planning or governance failure implies the state alone caused the problem; treating slums as an informal housing market's spontaneous response to unmet demand (given housing-supply lag) locates the driver in the demand-supply mismatch itself, which planning must accommodate rather than merely police. |
+| ✅ **Informal settlement as market response and governance outcome** | Informal housing can respond to unmet demand, but land prices, tenure rules, service exclusion and planning choices also shape it. A sound answer rejects both a market-only account and a resident-blaming or planning-only account. |
 | ⚠️ **Urban anomie vs rural-urban continuum (cross-reference)** | Urban anomie theory (weakened normative bonds in dense, anonymous settings) can appear to contradict the rural-urban continuum framing (Topic 05), but the two operate at different levels — continuum describes ongoing structural/economic linkage between village and city, while anomie describes a possible social-psychological consequence of urban density itself; a household can be economically continuum-linked to its village while still experiencing urban social anomie. |
 | ⚠️ **Exclusionary smart-city design vs inclusive smart-city design** | Exclusionary design concentrates technology-enabled infrastructure (digital governance, smart transport, surveillance-linked safety) in designated zones or higher-income areas; inclusive design explicitly extends service upgrading, tenure security and connectivity to slum and informal-settlement areas — the 2025 PYQ specifically tests whether Indian smart-city practice tends toward the former or the latter. |
 | ⚠️ **Distributive justice vs procedural justice in urban planning** | Distributive justice asks whether outcomes (services, infrastructure, opportunity) are fairly shared; procedural justice asks whether affected communities (including slum residents) had a fair voice in the planning process — smart-city critique often invokes both, since exclusion from planning process frequently precedes exclusion from planning benefit. |
@@ -73,10 +73,10 @@ the very pull mechanism that makes large cities economically attractive in the f
 ### Slum-formation chain
 1. Migrant inflow outpaces formal housing and basic-service supply expansion in the
    receiving city.
-2. ⚠️ Migrants and lower-income urban residents access housing through informal channels —
-   unauthorised colonies, informal rental subdivision, pavement dwelling — as the market's
-   spontaneous adjustment.
-3. Without formal tenure security, informal settlements typically also lack formal
+2. ⚠️ Migrants and lower-income urban residents may access housing through informal channels
+   — unauthorised colonies, informal rental subdivision or pavement dwelling — where
+   affordable formal supply, tenure or access is blocked.
+3. Without formal tenure security, informal settlements can lack formal
    water/sanitation/electricity connection, compounding health and social vulnerability.
 
 ### Smart-city distributive-justice chain (2025 PYQ)
@@ -151,9 +151,9 @@ the very pull mechanism that makes large cities economically attractive in the f
 - ❌ Large-city migrant pull is explained by wage differentials alone. -> Agglomeration
   economies (job diversity, information-network density, matching efficiency) are the fuller
   explanation, of which wage premium is only one component.
-- ❌ Slums result primarily from governance or planning failure. -> They are better explained
-  as an informal housing market's spontaneous response to a housing-supply lag relative to
-  migrant inflow.
+- ❌ Slums have a single cause. -> Informal housing reflects demand-supply gaps, land/tenure
+  institutions, planning and service-delivery failures; explain the local combination rather
+  than blame residents or select one cause.
 - ❌ Smart-city investment automatically improves distributive justice by upgrading urban
   infrastructure. -> Without deliberate inclusive design, such investment tends to
   concentrate in designated zones, bypassing informal settlements.
@@ -190,7 +190,7 @@ benefits in designated, already-advantaged zones.
 
 1. Explain agglomeration economies as the full driver of large-city pull, not wage alone.
 2. Trace the causal link from pull to housing-supply lag to informal settlement.
-3. Distinguish slum-as-market-response from slum-as-planning-failure framings.
+3. Explain how market, land/tenure and planning factors jointly shape informal settlements.
 4. Apply the exclusionary-versus-inclusive smart-city design distinction.
 5. Give one boundary case each of exclusionary and inclusive smart-city practice.
 6. Flag the investment-versus-equity structural-incentive trade-off.

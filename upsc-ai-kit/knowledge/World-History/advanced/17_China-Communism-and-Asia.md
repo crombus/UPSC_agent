@@ -69,7 +69,8 @@
 
 ## 7. 📰 Current link
 
-- 📰 **2025 continuity note:** analyses of the CCP's recent plenums still describe reform in terms of "high-quality development" and technological self-reliance under tight Party supremacy, not political pluralization.
+- 📰 **20-23 October 2025:** the official communique of the CCP's Fourth Plenary Session said the meeting adopted recommendations for the Fifteenth Five-Year Plan and continued to frame policy around high-quality development, technological capacity and centralized Party leadership.
+- ⚠️ Source caution: this is the Chinese government's own institutional statement, useful for continuity of official doctrine, not independent proof that every target has been achieved.
 - 📰 Exam use: the post-Mao story is best remembered as **economic adaptation without surrender of one-party rule**.
 
 ## 8. Must-Know Facts (Prelims) and UPSC Traps

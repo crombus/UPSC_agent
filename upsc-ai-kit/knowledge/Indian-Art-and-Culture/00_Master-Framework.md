@@ -41,11 +41,11 @@ dynasties or "rich cultural heritage" generically.
 
 | Domain | Term pair/set | Precise distinction |
 |---|---|---|
-| ✅ Architecture | Trabeate vs. Arcuate | Trabeate = post-and-lintel (pre-Islamic Indian default); Arcuate = arch-and-dome (introduced with Indo-Islamic architecture) — *Nitin…pdf*, PDF p. 126. |
+| ✅ Architecture | Trabeate vs. Arcuate | Trabeate = post-and-lintel; arcuate = load-bearing arch/vault/dome. Arches and domes were known earlier, but Sultanate builders spread their scientifically constructed, large-scale use while continuing to combine them with lintel-and-beam work — Satish Chandra, *History of Medieval India*, PDF pp. 194-197. |
 | ✅ Temple morphology | Nagara *shikhara* vs. Dravida *vimana* | Nagara *shikhara* is curvilinear, crowned by an *amalak* and *kalash*; Dravida *vimana* is a stepped pyramidal tower crowned by an octagonal *shikhara* — *Nitin…pdf*, PDF pp. 72, 89. |
 | ✅ Rock-cut function | Chaitya vs. Vihara | Chaitya = prayer/worship hall; Vihara = residential monastery for monks — *Nitin…pdf*, PDF p. 52. |
 | ✅ Dance structure | Nritta vs. Nritya vs. Natya | Nritta = pure rhythmic movement without expression; Nritya = expressive/emotive dance with mudras; Natya = dramatic, story-driven representation — *Nitin…pdf*, PDF p. 460. |
-| ✅ Language register | Sanskrit vs. Prakrit | Sanskrit = codified, elite, rule-bound; Prakrit = natural/common-tongue register (Pali, Ardhamagadhi, Shauraseni, Maharashtri, Paishachi as its branches) — *Nitin…pdf*, PDF pp. 583-584. |
+| ✅ Language register | Sanskrit and Middle Indo-Aryan | Sanskrit was highly codified and often elite/literary; "Prakrit" covers several Middle Indo-Aryan literary/inscriptional varieties. Pali has a close Middle Indo-Aryan relationship but should not be reduced to an uncontested branch of one standard Prakrit. Ashokan records vary by region, script and language. |
 | ✅ Heritage category | World Heritage Site vs. Intangible Cultural Heritage vs. Memory of the World vs. GI | WHS = tangible/mixed/natural property under the 1972 Convention; ICH = living practice under the 2003 Convention; Memory of the World = documentary heritage register; GI = origin-linked intellectual property under the GI Act, 1999 — never interchangeable (Topic 14). |
 
 ## 4. Evidence hierarchy for cultural claims
@@ -84,6 +84,12 @@ dynasties or "rich cultural heritage" generically.
 | ✅ Solanki/Maru-Gurjara | Shikhara; stepped *surya kund* | — | Solanki (Chaulukya) | 03 |
 | ✅ Dravida (Pallava/Chola/Nayaka) | Vimana (stepped pyramid) + gopuram | High boundary walls | Pallava, Chola, Nayaka | 03 |
 | ✅ Vesara (Karnataka, hybrid) | Combines Nagara + Dravida elements | Varies | Chalukya of Badami, Rashtrakuta, Hoysala | 03 |
+
+⚠️ **Classification caution:** Nagara, Dravida and Vesara are useful
+exam labels, not watertight civilisational boxes. Regional workshops
+borrowed plans, superstructure devices, materials and ornament across
+political boundaries; "Vesara" itself is used inconsistently in texts and
+modern surveys. Describe the monument first, then apply the label.
 
 ## 7. Chandella/Khajuraho case-study route
 
@@ -133,6 +139,19 @@ links, and topic 14 for the UNESCO/ASI institutional layer.
   date-stamp).
 - National Mission for Manuscripts, IGNCA — manuscript documentation and
   digitisation status.
+
+## 9A. Direct-source cross-check rule
+
+- Use Nitin Singhania for breadth and exam taxonomy, but cross-check
+  chronology and attribution against R.S. Sharma and Satish Chandra.
+- Preserve disagreement rather than forcing false certainty: examples
+  include the Didarganj Yakshi's date, the first anthropomorphic Buddha,
+  the Pashupati-seal interpretation, Elephanta patronage, the Taj Mahal's
+  design authorship and the claimed Mitaoli influence on the old Parliament.
+- Do not turn a period label into a religious essence. Satish Chandra's
+  Sultanate and Mughal chapters repeatedly document indigenous craftsmen,
+  imported architects, local motifs, trabeate-arcuate combination and
+  regional adaptation.
 
 ## 10. Recurring analytical gaps
 

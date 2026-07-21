@@ -14,7 +14,7 @@
 | ✅ c. 200 BCE–300 CE | Interaction and innovation | Post-Mauryan connected world |
 | ✅ 2nd c. BCE | Indo-Greek presence | Coins, Hellenistic contact, Gandhara beginnings |
 | ✅ Early 1st c. CE | Shaka Kshatrapa Rajuvula defeats Strato III and captures Sagala | End of Indo-Greek control east of Jhelum |
-| ✅ AD 78 | Kanishka/Saka era in RS chronology | Chronological anchor; debated in wider scholarship |
+| ⚠️ AD 78 / c. AD 127 | Shaka era / Kanishka accession | Older association versus current majority chronology |
 | ✅ 1st–3rd c. CE | Kushana power | Silk Route, religious pluralism, Gandhara-Mathura art |
 
 ## 1. Snapshot & core idea
@@ -26,6 +26,7 @@
 - ✅ Rajuvula, the Shaka Kshatrapa of Mathura, defeated the Indo-Greek Strato III and captured **Sagala (Sialkot)** in the early 1st century CE.
 - ✅ Indo-Greek rule had an important cultural impact through the **Gandhara school of art**.
 - ✅ The Kushana empire began as a Central Asian kingdom and expanded into the subcontinent.
+- ✅ Upinder Singh states that **most scholars now accept c. AD 127** for Kanishka's accession; the *Yavanajataka* treats the Kushana and Shaka eras as separate. The AD 78 association is an older view.
 
 **Advanced — Kushana cosmopolitanism.**
 
@@ -59,7 +60,7 @@
 - ✅ Kushana coins show Buddha, Shiva, Atash, Mithra, Helios and Selene.
 - ✅ Kushana/Buddhist missions moved toward **Kashgar, Yunan and China**.
 - ✅ Kushana empire had Central Asian origins and expanded into India.
-- ⚠️ Saka era/Kanishka chronology is high-yield but debated in wider scholarship; follow RS Sharma for basic dating.
+- ✅ Shaka era/Kanishka chronology is a source-conflict trap: **AD 78 = Shaka era**, while **Kanishka c. AD 127–150** is Upinder Singh's majority chronology.
 
 ## 5. UPSC Traps
 
@@ -72,7 +73,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Repatriated antiquities gallery, 2025:** Ministry updates on confiscated/retrieved antiquities and public display keep Gandhara/Kushana-style provenance questions relevant. For this topic, the live hook is that coins, sculptures and Buddhist objects from the contact zone require careful identification of style, period and legal provenance.
+⚠️ **Current-link discipline:** Verify a repatriated object's provenance from the official catalogue. The safe linkage is careful identification of Gandhara/Kushana coins, sculptures and Buddhist objects across modern borders.
 
 ## 7. Mains angles
 

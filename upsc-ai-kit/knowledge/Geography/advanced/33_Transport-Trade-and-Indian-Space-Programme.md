@@ -1,7 +1,7 @@
 # Transport, Trade & Indian Space Programme — ADVANCED
 
 > **Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III
-> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + MoRTH / Indian Railways / Ministry of Ports, Shipping & Waterways / Ministry of Commerce & Industry / ISRO / PIB material.
+> **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified transport/ports/ISRO current anchor.
 > **Data caution:** ✅ Book-era transport descriptions are used only for static logic; current corridor, port and space-programme facts are separately identified in the CA section.
 > ✅ = grounded source · ⚠️ = synthesis / answer-writing guidance · 📰 = verified dated current-affairs anchor.
 > *Companion: `basic/33_Transport-Trade-and-Indian-Space-Programme.md`.*
@@ -66,7 +66,9 @@
 | ✅ IN-SPACe | Opens the sector to non-governmental participation |
 | ✅ NavIC | Indigenous navigation support for transport and timing |
 
-✅ Dated milestones useful for revision: **Chandrayaan-3** soft-landed on **23 Aug 2023** near the lunar south-polar region; **NVS-02** for NavIC was launched on **29 Jan 2025**; ✅ PIB/ISRO updates through **2026** described **Gaganyaan** as being in the final preparation phase with uncrewed mission sequencing ahead.
+✅ Dated milestones useful for revision: **Chandrayaan-3** soft-landed on **23 Aug 2023** near the lunar
+south-polar region; **NVS-02** launched on **29 Jan 2025** but failed to complete orbit raising and did
+not join its intended NavIC slot; ✅ PIB/ISRO updates through **2026** described **Gaganyaan** as being in the final preparation phase with uncrewed mission sequencing ahead.
 
 ## 6. Deeper debates
 
@@ -99,15 +101,17 @@
 
 ## 9. 📰 Current link
 
-### CA Anchor — 2025-26: Bharatmala progress, port cargo record and ISRO navigation milestone
+### CA Anchor — FY 2025-26 major-port cargo and multimodal corridors
 
-📰 **Source/date:** Official highway/Parliament updates up to early **2026** placed Bharatmala Phase I at **34,800 km** approved and **22,223 km** constructed; PIB port update for FY **2025-26** reported **915.17 MT** cargo at major ports; ISRO, **29 Jan 2025**, launched **NVS-02** on GSLV-F15.
+📰 **Source/date:** Official highway/Parliament updates up to early **2026** placed Bharatmala Phase I at
+**34,800 km** approved and **22,223 km** constructed. PIB reported **915.17 MT** cargo at major ports
+in FY 2025-26 (release dated **5 April 2026**). NVS-02's orbit-raising failure remains a separate
+operational lesson.
 
 | Current fact | Applied-geography reading |
 |---|---|
 | ✅ Bharatmala Phase I approved for 34,800 km; 22,223 km constructed by early 2026 | Highways are being built as economic corridors and port/border connectors |
-| ✅ Major ports handled 915.17 MT in FY 2025-26 | Maritime geography remains central to India’s trade system |
-| ✅ Chandrayaan-3 (23 Aug 2023), NVS-02 (29 Jan 2025) and Gaganyaan-prep updates through 2026 | India’s space geography now spans exploration prestige, navigation utility and human-spaceflight infrastructure |
+| ✅ Major ports handled 915.17 MT in FY 2025-26 | Maritime gateways serve national hinterlands, not only coastal states |
 
 ✅ Read together, these updates show India's development strategy as **multimodal territorial integration + maritime trade expansion + space-enabled connectivity**.
 

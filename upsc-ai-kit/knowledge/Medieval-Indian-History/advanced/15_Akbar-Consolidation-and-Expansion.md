@@ -61,6 +61,7 @@
 - ✅ Bairam Khan's regency lasted about four years, **1556-1560**.
 - ✅ Hemu had won many battles for Adil Shah before Panipat II, but his artillery was captured before the decisive battle.
 - ✅ Akbar executed Adham Khan after the murder of Atka Khan.
+- ✅ Akbar punished Mughal excess in Garh-Katanga only partially, and the Chittor massacre remains essential evidence that accommodation and coercion operated together.
 - ✅ Baz Bahadur was later enrolled as a Mughal mansabdar and rose to 2000 in the basic source.
 - ✅ Rana Pratap's forces at Haldighati included Afghans under Hakim Khan Sur and Bhils.
 - ✅ Man Singh led the Mughal force at Haldighati.
@@ -76,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-- 📰 **Hemu and Second Battle of Panipat in 2025 heritage discourse** — Moneycontrol/Vajiram revisited Hemu's career and Panipat II; relevance: connects Akbar's consolidation with changing public memory of non-royal military leadership.
+📰 **Current linkage (verify live before use):** Public memory of Hemu, Panipat II, Chittor and Haldighati often carries nationalist or communal framing. Use source-based political and military analysis and verify any commemoration claim.
 
 ## 7. Mains angles
 
@@ -87,4 +88,3 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ Avoid nationalist/communal frames for Haldighati and Panipat II. Satish Chandra's emphasis is political: local independence, noble alliances and imperial centralisation.
-

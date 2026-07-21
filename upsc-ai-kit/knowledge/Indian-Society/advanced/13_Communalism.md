@@ -4,8 +4,8 @@
 > **Core area:** The instrumentalist-versus-primordialist theoretical debate on communalism,
 > the detailed riot-sociology causal chain, and the Places of Worship Act as a live
 > communal-harmony flashpoint.
-> **Grounded in:** Places of Worship (Special Provisions) Act, 1991, current Supreme Court
-> status; no direct 2024/2025 GS-I standalone PYQ (flagged honestly).
+> **Grounded in:** Places of Worship (Special Provisions) Act, 1991; official Supreme Court
+> materials checked 21 July 2026; no direct 2024/2025 GS-I standalone PYQ (flagged honestly).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/13_Communalism.md`.*
 
@@ -24,13 +24,14 @@ conflict-prone)                  constructed by political
         |                               |
         +---------------+---------------+
                         v
-        MODERN SOCIOLOGICAL CONSENSUS:
-   communal conflict is historically and
-   politically CONSTRUCTED, not inevitable
+       CONSTRUCTIVIST / INSTRUMENTALIST INSIGHT:
+   communal conflict can be historically and
+   politically constructed, not inevitable
                         |
                         v
-        RIOT-SOCIOLOGY CAUSAL CHAIN
-   RUMOUR -> POLARISATION -> SEGREGATION -> VIOLENCE
+       RIOT-SOCIOLOGY RISK CHAIN
+   TRIGGER/RUMOUR -> POLARISATION -> SEGREGATION -> VIOLENCE
+   (not a universal chronology)
                         |
                         v
         INSTITUTIONAL RESPONSE ARCHITECTURE
@@ -39,23 +40,23 @@ conflict-prone)                  constructed by political
                         |
                         v
         LIVE FLASHPOINT: Places of Worship Act, 1991
-        (sub judice, pending Supreme Court resolution)
+        (official Court-status check required before
+        characterising any litigation outcome)
 ```
 
-**Analytical claim:** ⚠️ The dominant modern sociological position rejects the
-primordialist view that communal conflict is an inevitable outcome of ancient religious
-difference, favouring an instrumentalist account in which political and social actors
-construct and activate communal identity for specific mobilisation advantage — this
-distinction matters because it implies communalism is preventable through institutional and
-political choices, not an unavoidable consequence of India's religious diversity.
+**Analytical claim:** ⚠️ Constructivist and instrumentalist accounts help explain how
+political and social actors activate communal identity for mobilisation, countering any claim
+that conflict is an inevitable result of ancient religious difference. Primordial attachment
+can still be a lived source of belonging; a strong answer asks how identity, organisation,
+grievance and institutions interact in a particular case.
 
 ## 2. Concepts and distinctions
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Primordialism vs instrumentalism** | Primordialism treats religious-community identity and its associated antagonisms as ancient, fixed and naturally conflict-prone; instrumentalism treats communal identity and conflict as constructed and strategically activated by political, social or economic actors for specific advantage — the modern sociological mainstream favours instrumentalism, since historically documented periods of syncretic coexistence contradict a purely primordialist reading. |
+| ✅ **Primordialism vs instrumentalism/constructivism** | Primordialism emphasises durable, emotionally meaningful group attachment; instrumentalist/constructivist accounts explain how actors activate, frame and organise identity for political or economic advantage. Neither should be converted into a claim that conflict is biologically fixed or that attachment is unreal. |
 | ⚠️ **Structural versus triggering causes of riots** | Structural causes (residential segregation, economic competition, historical grievance, weak local institutions) create the conditions under which a riot becomes possible; triggering causes (a specific rumour, an inflammatory incident) are the proximate spark — both must be addressed, since removing only the trigger without addressing structural conditions leaves the underlying risk intact. |
-| ✅ **Places of Worship Act, 1991 as a "freeze" mechanism vs adjudication mechanism** | The Act freezes the religious character of a place of worship as it stood on 15 August 1947, explicitly excluding the Ayodhya dispute; it functions as a legislative freeze intended to prevent title disputes over historical religious sites from being repeatedly relitigated, distinct from a judicial adjudication mechanism that would resolve competing title claims on the merits. |
+| ✅ **Places of Worship Act, 1991 as a “freeze” mechanism vs adjudication mechanism** | Section 4 preserves religious character as on 15 August 1947, with Ayodhya and other statutory exceptions (including specified monument and settled/decided categories). It is a legislative stability mechanism, distinct from judicial title adjudication on the merits. |
 | ⚠️ **Institutional impartiality vs institutional presence** | Mere presence of police or administrative machinery in a communally sensitive area does not by itself build trust; impartiality — demonstrated through even-handed action regardless of the complainant's or accused's community — is the specific quality that produces the trust-repair effect. |
 | ⚠️ **National integration (institutional) vs communal harmony (social)** | National integration refers to institutional/constitutional mechanisms (federal accommodation, National Integration Council) for managing diversity at the state level; communal harmony refers to the social-level, everyday coexistence and trust between communities — the two interact but are not identical, and institutional integration does not automatically guarantee social-level harmony. |
 
@@ -102,10 +103,10 @@ political choices, not an unavoidable consequence of India's religious diversity
 - ⚠️ **National Integration Council (cross-linked):** established as a forum to build
   consensus against communalism, defunct in practice since 2013; its institutional
   history and current status belong to `Polity/basic/National-Integration-and-Foreign-Policy.md`.
-- ✅ **Places of Worship (Special Provisions) Act, 1991 (current status):** the Act remains
-  formally in force; litigation testing its scope and validity remains before the Supreme
-  Court as of 17 July 2026, with no final resolution delivered — any answer must state this
-  precisely as a pending matter, not a settled outcome in either direction.
+- ✅ **Places of Worship (Special Provisions) Act, 1991 (current-status discipline):** the
+  Act remains on the statute book. Public Supreme Court materials checked on 21 July 2026
+  did not yield a final merits order in the retrieved material; verify the official
+  case-status/order record before characterising litigation as pending or resolved.
 - ⚠️ **Community-policing and local trust-building models:** structured community-liaison
   policing (rather than purely reactive law-and-order deployment) is the institutional
   design most consistent with the trust-repair chain above.
@@ -143,56 +144,56 @@ political choices, not an unavoidable consequence of India's religious diversity
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ Instrumentalism, not primordialism, is the dominant modern sociological explanation
-  for communal conflict's construction and escalation.
-- ✅ The Places of Worship (Special Provisions) Act, 1991 freezes religious character as of
-  15 August 1947, with the Ayodhya dispute specifically excluded from its scope.
-- 📰 As of 17 July 2026, litigation over the Act's scope and validity remains pending before
-  the Supreme Court, with no final verdict delivered.
-- ⚠️ Structural causes (segregation, competition, grievance) and triggering causes (rumour,
-  incident) are analytically distinct but jointly necessary for most communal-violence
-  episodes.
+- ⚠️ Instrumentalist/constructivist accounts are powerful explanations of mobilisation, but
+  should be used alongside evidence about lived attachment, institutions and context.
+- ✅ The Places of Worship (Special Provisions) Act, 1991 preserves religious character as of
+  15 August 1947, with Ayodhya and other statutory exceptions.
+- 📰 The Act remains on the statute book; verify the official case-status/order record before
+  claiming a final outcome, rather than relying on an undated litigation assertion.
+- ⚠️ Structural causes (segregation, competition, grievance) and triggers (rumour, incident)
+  are analytically distinct and can interact, but no fixed combination explains every event.
 - ⚠️ The National Integration Council has effectively been defunct since 2013.
 
 ## 8. Advanced Prelims traps
 
 - ❌ Communal conflict in India is an inevitable consequence of ancient religious
-  difference. -> The instrumentalist consensus treats it as constructed and strategically
-  activated, not primordially inevitable.
+  difference. -> Constructivist/instrumentalist accounts show how mobilisation is organised;
+  assess lived identity, grievance and institutions instead of assuming inevitability.
 - ❌ Removing the triggering rumour alone is sufficient to prevent communal violence. ->
   Structural conditions (segregation, competition, grievance) must also be addressed, or
   the underlying risk persists for future triggers.
 - ❌ The Places of Worship Act, 1991 covers all religious-site disputes without exception.
-  -> The Ayodhya dispute is explicitly excluded from its scope.
+  -> Ayodhya and other statutory categories are excluded; do not state an Ayodhya-only
+  exception.
 - ❌ The National Integration Council remains an active, functioning body today. -> It has
   been effectively defunct since 2013.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The Places of Worship (Special Provisions) Act, 1991 remains in force; litigation
-  testing its scope remains pending before the Supreme Court as of 17 July 2026 — state
-  this precisely as an unresolved, sub judice matter in any Mains answer, avoiding any
-  claim of final resolution in either direction.
+- 📰 The Places of Worship (Special Provisions) Act, 1991 remains on the statute book.
+  Public Supreme Court materials checked on 21 July 2026 did not yield a final merits order
+  in the retrieved material. Check official case status before stating litigation status,
+  and do not infer a final result from absence in a cause list.
 
 ## 10. PYQ-based analytical application
 
 - ⚠️ No direct 2024/2025 GS-I Mains PYQ targets communalism as a standalone question in the
   two locally available Mains papers; this is stated honestly rather than fabricating a
   recent question. When a communalism question does appear, the expected analytical route
-  is: apply the instrumentalist-versus-primordialist framework to explain construction of
-  communal conflict, use the structural-versus-triggering-cause distinction for riot
-  analysis, and cite the Places of Worship Act's pending status as the live current anchor.
+  is: use instrumentalist/constructivist and primordial-attachment lenses carefully, test
+  structural versus triggering causes against local evidence, and cite the Places of Worship
+  Act only with a dated official status check.
 
 ## 11. Mains-ready framework
 
-**Central thesis:** Communalism is best explained as a constructed, instrumentally
-activated form of political-social mobilisation rather than an inevitable, primordial
-consequence of religious diversity; communal violence follows a traceable structural-plus-
-triggering causal chain that institutional impartiality and sustained inter-community
-contact can interrupt, even as unresolved historical-legal flashpoints such as the Places of
-Worship Act's pending litigation show how far complete resolution remains.
+**Central thesis:** Communalism can be analysed as political-social mobilisation that is
+constructed and activated rather than an inevitable consequence of religious diversity.
+Examine the local interaction of attachment, organisation, grievance, rumour and institutions
+instead of assuming a fixed riot sequence; use current legal anchors only after a dated,
+official status check.
 
-1. Reject primordialist inevitability at the outset; apply the instrumentalist framework.
+1. Reject primordialist inevitability while using constructivist/instrumentalist and lived-
+   attachment lenses with context.
 2. Distinguish structural from triggering causes of communal violence explicitly.
 3. Trace the rumour-polarisation-segregation-violence causal chain with a concrete example.
 4. Apply the trust-repair chain (rumour verification, impartial policing, sustained

@@ -1,7 +1,7 @@
 # Contemporary Geographical Issues: Conceptual Lenses for India — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (conceptual framework) · **GS Paper:** GS-I with GS-III overlap
-> **Grounded in:** Majid Husain / D.R. Khullar for regional-development and resource-distribution logic + verified current official anchors.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-process foundations + verified current anchor.
 > ✅ = grounded source / standard concept · ⚠️ = synthesis / issue-lens · 📰 = verified dated current-affairs anchor.
 > *Companion: `advanced/36_Contemporary-Geographical-Issues-India.md`.*
 
@@ -68,11 +68,8 @@
 
 ✅ The release stresses that urban flooding is not only about rainfall; it is also about **urban planning, storm-water drains, land use and water-body management**.
 
-### CA Anchor 2 — 21 August 2025, PIB: Krishna Water Disputes Tribunal
-
-📰 **Source/date:** PIB / Lok Sabha written reply on **21 August 2025** titled **"Krishna Water Disputes Tribunal"**.
-
-✅ This shows how a river dispute is simultaneously a **basin geography** issue and a **federal governance** issue.
+⚠️ Keep tribunal-specific Krishna updates for the advanced companion; the basic current anchor here is
+urban flooding and the transferable drainage-land-use framework.
 
 ## 8. Mains angles
 

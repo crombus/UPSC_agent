@@ -1,7 +1,7 @@
 # Scheduled & Tribal Areas (Article 244, Fifth & Sixth Schedules, Part X) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 41 (Qdrant export + source book).
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 41 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
 > *Companion: `basic/Scheduled-and-Tribal-Areas.md`.*
 
@@ -44,7 +44,7 @@ fully extended and the **Centre has greater responsibility**.
 |---|---|
 | ✅ **Autonomous Districts** | Tribal areas constituted as **autonomous districts** (still within state executive authority); Governor organises/reorganises them |
 | ✅ **Autonomous Regions** | Where different tribes exist within a district |
-| ✅ **District Council** | **30 members** — **4 nominated** by Governor + **26 elected** (adult franchise), **5-year** term |
+| ✅ **District Council** | Ordinary model: up to **30 members** — 4 Governor-nominated + 26 elected, 5-year elected term; **Bodoland Territorial Council is a special 46-member exception** |
 | ✅ **Law-making** | Councils legislate on **land, forests, canal water, shifting cultivation, inheritance, marriage/divorce, social customs** — need Governor's assent |
 | ✅ **Judicial** | Councils can constitute **village councils/courts** for tribal disputes |
 | ✅ **Finance** | Assess & collect **land revenue** + specified taxes; manage schools, markets, ferries, roads |

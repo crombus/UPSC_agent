@@ -19,6 +19,7 @@
 | ✅ 1325 | Death of Nizamuddin Auliya |
 | ✅ 14th c. | Namadeva and Ramananda help transmit popular Bhakti northwards |
 | ✅ 1469 | Birth of Guru Nanak |
+| ⚠️ 1538/1539 | Part I gives 1538 for Nanak's death; standard Sikh chronology generally gives 1539 |
 
 ## 1. Snapshot & core idea
 
@@ -35,6 +36,7 @@
 - ✅ South Indian Bhakti had egalitarian features among Nayanars and Alvars, but later temple-centred ritual and Brahmanical authority moderated that egalitarianism.
 - ✅ Ramanuja bridged popular prapatti/devotion and Vedic tradition, opening bhakti to all castes.
 - ✅ Kabir's equality flowed from belief in one God; yet the source cautions he was not a social reformer in the modern sense.
+- ⚠️ Hagiographies preserve indispensable memories but often compress chronology and construct lineages; claims about Ramananda's exact disciples and saints' meetings should be presented as tradition unless independently corroborated.
 
 ## 2. Key classification / data
 
@@ -72,7 +74,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Nizamuddin Dargah's Basant Panchami celebrations in 2025–26 remained in news as a living syncretic Sufi tradition and also raised debate over ticketed heritage walks** (Awaz/Times Now/Hindustan Times, 2025–26). Relevance: Chishti inclusiveness continues as living heritage, not only textbook history.
+📰 **Current linkage (verify live before use):** Living practices at Chishti shrines can illustrate continuity and adaptation, but a contemporary ritual or heritage walk must not be projected unchanged into the thirteenth or fourteenth century.
 
 ## 7. Mains angles
 

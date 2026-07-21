@@ -45,7 +45,7 @@
 | ✅ States Reorganisation Act 1956 | **14 states + 6 UTs** |
 | ✅ Bombay split | 1960 → **Maharashtra + Gujarat** |
 | ✅ Punjab split | 1966 → **Punjab + Haryana**; Chandigarh UT |
-| ✅ Official language | Hindi + **English continues as associate official language**; Official Languages Act 1963 |
+| ✅ Official language | Hindi is the Union's official language; the Official Languages Act 1963 provided for continued use of English for Union official purposes |
 | ✅ Shiv Sena | Founded **1966** by Bal Thackeray ("sons of the soil" regionalism) |
 
 ## 3. Study links
@@ -62,7 +62,7 @@
 - ✅ The **SRC** was chaired by **Justice Fazl Ali** (members K.M. Panikkar and H.N. Kunzru).
 - ✅ The **States Reorganisation Act, 1956** created **14 states and 6 Union Territories**.
 - ✅ **Bombay** was bifurcated in **1960**; **Punjab** in **1966** (Haryana created; Chandigarh a UT).
-- ✅ The **anti-Hindi agitation of 1965** (Tamil Nadu) secured the continuation of **English as an associate official language**.
+- ✅ The **anti-Hindi agitation of 1965** reinforced the political assurance that **English would continue for Union official purposes**; "associate official language" is common shorthand, not the Constitution's formal term.
 - ✅ The **Shiv Sena** was founded in **1966** on a "sons of the soil" platform.
 
 ## 5. UPSC Traps
@@ -72,7 +72,7 @@
 - ❌ The SRC created the first linguistic state. → **Andhra (1953)** came first; the SRC reported in **1955**.
 - ❌ Bombay was split in 1956. → It was split into Maharashtra and Gujarat in **1960**.
 - ❌ Haryana was created in 1956. → Punjab was reorganised and **Haryana created in 1966**.
-- ❌ Hindi replaced English as the sole official language in 1965. → **English continued as an associate official language** after the 1965 agitation.
+- ❌ Hindi replaced English as the sole official language in 1965. → **English continued for Union official purposes** under statute and political assurance.
 - ❌ Linguistic reorganisation weakened India. → The author argues it **strengthened** national unity.
 
 ## 6. 📰 Current link

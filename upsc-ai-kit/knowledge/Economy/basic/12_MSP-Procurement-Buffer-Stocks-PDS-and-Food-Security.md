@@ -4,7 +4,7 @@
 > **Core area:** Food management.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md`.*
+> *Companion: `../advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md`.*
 
 ---
 
@@ -79,6 +79,8 @@ household distribution before evaluating food policy.
 - ✅ Open-market releases can moderate prices, while PDS addresses household access.
 - ✅ Food security has availability, access, utilisation or nutrition and stability
   dimensions.
+- ✅ CACP uses more than one cost concept in MSP analysis; do not equate the broader
+  C2 measure with A2+FL or assume that an announced MSP itself creates procurement.
 - ✅ Decentralised procurement can involve states more directly in purchase and distribution.
 
 ## 7. UPSC traps
@@ -109,6 +111,9 @@ diversification can intensify water stress and stock imbalance.
 - ⚠️ 2024 GS-III: Importance of buffer stocks for price stabilisation and storage
   challenges.
 - ⚠️ 2024 GS-III: Millets as a route to health and nutritional security.
+- ⚠️ **Millet route:** link climate resilience and lower input needs (where locally
+  suitable) with dietary diversity and micronutrients, then add the constraints of
+  yield, processing, consumer demand, procurement and market access.
 
 ## 10. Mains angles
 
@@ -131,8 +136,7 @@ diversification can intensify water stress and stock imbalance.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-
-  Security.md`.
+- ✅ Advanced companion: `../advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md`.
 - ✅ `11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md` — cropping incentives.
 - ✅ `13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md` — alternatives and market
   competition.

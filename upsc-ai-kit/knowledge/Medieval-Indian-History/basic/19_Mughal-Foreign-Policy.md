@@ -12,7 +12,7 @@
 | Date | Event |
 |---|---|
 | ✅ 1522 | Babur gained control of **Qandhar** |
-| ✅ 1572–73 | Abdullah Khan Uzbek seized Balkh, changing the northwest balance |
+| ✅ 1572–73, 1583 | Abdullah Khan first seized Balkh, later lost it, and recaptured it in 1583; Badakhshan followed in 1585 |
 | ✅ 1585 | Akbar annexed Kabul after Mirza Hakim's death |
 | ✅ 1595 | Akbar recovered **Qandhar** to strengthen the northwest frontier |
 | ✅ 1622 | Shah Abbas of Persia captured Qandhar from Jahangir's Mughals |
@@ -30,6 +30,7 @@
 - ✅ The Uzbeks were natural rivals because they had pushed the Timurids out of Samarqand and threatened Kabul/Balkh zones.
 - ✅ The Mughals generally preferred friendship with Persia because a strong Iran checked Uzbek pressure.
 - ✅ The Mughals refused a narrow Sunni alliance with Uzbeks and Ottomans against Shia Persia because that would upset the Asian balance of power.
+- ✅ The source's apparently repeated Balkh dates reflect two stages: Abdullah's seizure in 1572–73, a Timurid recovery under Shahrukh Mirza, and Uzbek reconquest in 1583.
 
 **Foundation — Qandhar and Balkh.**
 
@@ -75,11 +76,10 @@
 
 ## 6. 📰 Current link
 
-📰 **India-Central Asia connectivity and Chabahar/INSTC (2025):** current diplomatic discussions emphasise Chabahar Port and the International North-South Transport Corridor to improve India's access to Central Asia. **Relevance:** like Qandhar/Kabul in Mughal times, connectivity remains central to India's north-western trade and security imagination.
+📰 **Current linkage (verify live before use):** Modern Central Asian connectivity can be compared cautiously with the historic Kabul-Qandhar route. Verify corridor status from official diplomatic sources and avoid treating present borders or logistics as unchanged.
 
 ## 7. Mains angles
 
 - ⚠️ Mughal foreign policy combined **frontier defence**, **balance of power**, and **commercial interests**.
 - ⚠️ Qandhar illustrates the overlap of prestige, strategy and trade in medieval diplomacy.
 - ⚠️ Compare medieval Indo-Central Asian connectivity with modern Chabahar/INSTC debates carefully, without anachronism.
-

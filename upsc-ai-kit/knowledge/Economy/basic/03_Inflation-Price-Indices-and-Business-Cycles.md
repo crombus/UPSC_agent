@@ -4,7 +4,7 @@
 > **Core area:** Macroeconomic stability.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/03_Inflation-Price-Indices-and-Business-Cycles.md`.*
+> *Companion: `../advanced/03_Inflation-Price-Indices-and-Business-Cycles.md`.*
 
 ---
 
@@ -100,6 +100,20 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
   contribution.
 - 📰 RBI's FY26 inflation projection was revised from 2.6% to 2.0% in Dec 2025.
 
+### 📰 Price-index series update — data release, not inflation
+
+- ✅ The above Survey-period CPI figures belong to the then-current historical series.
+  MoSPI began publishing CPI with **2024=100** from January 2026, replacing
+  **2012=100** for current releases.
+- ✅ The Office of the Economic Adviser introduced WPI with **2022-23** as base year
+  for the May 2026 release onward, replacing the earlier **2011-12** series.
+- ⚠️ Do not compute a trend by joining index levels or weights across these breaks
+  unless using an official comparable back-series or linking method. A revised basket
+  is a measurement update, not a price shock.
+
+Sources: [MoSPI CPI metadata](https://esankhyiki.mospi.gov.in/macroindicators?product=cpi&tab=metadata);
+[OEA WPI user note](https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf).
+
 ⚠️ **Interpretation caution:** The same headline rate can conceal opposite movements in
 food, fuel, housing and services, so component analysis is essential.
 
@@ -131,7 +145,7 @@ food, fuel, housing and services, so component analysis is essential.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/03_Inflation-Price-Indices-and-Business-Cycles.md`.
+- ✅ Advanced companion: `../advanced/03_Inflation-Price-Indices-and-Business-Cycles.md`.
 - ✅ `04_RBI-Monetary-Policy-and-Liquidity-Management.md` — interest-rate and expectation
   channels.
 - ✅ `12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` — food-stock and price-

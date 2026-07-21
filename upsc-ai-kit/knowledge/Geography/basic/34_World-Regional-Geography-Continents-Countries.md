@@ -1,7 +1,7 @@
 # World Regional Geography: Continents, Regions & Country Groupings — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (world/general-concept) · **GS Paper:** GS-I
-> **Grounded in:** Majid Husain, *Indian & World Geography* (continent/regional tables and regional divisions) + G.C. Leong for physical-region framing.
+> **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-region framing + verified dated current-affairs anchor.
 > **Data caution:** ✅ Some continent population figures below are book-era snapshots reproduced from atlas tables quoted in the source text (around 2008); use them for **relative pattern**, not as current population data.
 > ✅ = grounded source · ⚠️ = synthesis / exam heuristic · 📰 = verified dated current-affairs anchor.
 > *Companion: `advanced/34_World-Regional-Geography-Continents-Countries.md`.*

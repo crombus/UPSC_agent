@@ -81,13 +81,18 @@ integrity and commitment, not as an automatic entitlement.
 
 ## 4. Institutions and tools
 
+- ✅ **Constitutional foundation (checked directly against Laxmikanth):** Articles 309-311
+  govern recruitment/service conditions, pleasure and dismissal safeguards; Article 312
+  permits Parliament to create an All India Service after the required Rajya Sabha
+  resolution. UPSC/State PSC recruitment-advisory architecture is constitutional. Governance
+  evaluates performance and capacity; Polity owns detailed composition/removal.
 - ✅ **Mission Karmayogi / NPCSCB:** approved by Cabinet on 2 September 2020 under the
   Ministry of Personnel, Public Grievances and Pensions, intended to build a future-ready
   civil service through competency-based capacity building.
-- ✅ **Capacity Building Commission (CBC):** the institutional body created to supervise and
-  harmonise capacity-building efforts across ministries under Mission Karmayogi.
-- ✅ **iGOT Karmayogi platform:** the online training ecosystem delivering role-based,
-  competency-linked learning modules to civil servants.
+- ✅ **Institutional chain:** Prime Minister's Human Resources Council (apex guidance) ->
+  Cabinet Secretariat Coordination Unit -> Capacity Building Commission (standards,
+  Annual Capacity Building Plans and institutional capacity) -> Karmayogi Bharat government-
+  owned SPV (operates iGOT Karmayogi).
 - ⚠️ **Lateral entry scheme:** periodic Union government advertisements for lateral entrants
   at Joint Secretary/Director level in select ministries, intended to supplement generalist
   cadre officers with domain specialists.
@@ -133,11 +138,10 @@ integrity and commitment, not as an automatic entitlement.
 
 ## 8. 📰 Current anchor
 
-- 📰 Mission Karmayogi (NPCSCB) was approved by Cabinet on 2 September 2020, and the Capacity
-  Building Commission and iGOT Karmayogi platform are its fixed, durable institutional
-  features. No fixed current figure for lateral-entry recruitment round scale or iGOT
-  Karmayogi's course/user coverage is asserted here, since both expand with successive
-  recruitment cycles and platform growth.
+- 📰 **Status checked 21 July 2026:** CBC's current approach centres Annual Capacity Building
+  Plans and the Karmayogi Competency Model; Karmayogi Bharat operates iGOT. No current
+  lateral-entry vacancy count or platform-user total is asserted without a dated official
+  UPSC/CBC/Karmayogi Bharat source.
 
 ## 9. PYQ application
 
@@ -157,6 +161,9 @@ integrity and commitment, not as an automatic entitlement.
   duties.
 - ⚠️ Use Mission Karmayogi as the go-to current capacity-reform example whenever a question
   asks how civil-service effectiveness or generalist-specialist balance is being addressed.
+- ⚠️ Evaluate competency-to-post fit, learning completion **and workplace application**,
+  citizen outcomes, transfer stability, domain staffing and audit—course enrolment is only
+  an output.
 - ⚠️ Cross-link Ethics' probity and vigilance-administration material rather than
   re-deriving the personal-integrity angle here — this file's angle is the institutional/
   democratic-legitimacy dimension of civil-service integrity perception.

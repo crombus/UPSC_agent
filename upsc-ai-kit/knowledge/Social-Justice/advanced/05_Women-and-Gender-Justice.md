@@ -58,7 +58,7 @@ synonyms or as unconnected terms will miss the causal linkage UPSC expects.
 |---|---|
 | ✅ **Protection order vs residence order (DV Act)** | A protection order restrains the respondent from committing domestic violence, contacting the aggrieved woman, etc.; a residence order secures the aggrieved woman's right to reside in the shared household regardless of her ownership interest — the two serve different functions (safety vs housing security). |
 | ✅ **Internal Committee vs Local Committee (POSH)** | IC is employer-constituted within an establishment (≥10 employees); LC is district-level, constituted by the District Officer, to receive complaints from women in smaller workplaces or the unorganised sector — IC is the primary mechanism, LC is the safety-net extension. |
-| ✅ **Maternity Benefit Act vs PMMVY** | MB Act (amended 2017) is a labour-law entitlement (26 weeks paid leave for the first two surviving children) applying to covered establishments with 10 or more employees; PMMVY is a welfare cash transfer for eligible pregnant/lactating women, excluding those in regular Central/State Government or PSU employment or receiving similar maternity benefits — one is an employer obligation, the other a budgetary transfer. |
+| ✅ **Maternity Benefit Act vs PMMVY** | MB Act (amended 2017) is a labour-law entitlement (26 weeks paid leave for the first two surviving children) in covered establishments with 10+ employees. PMMVY 2.0 is a targeted conditional DBT: ₹5,000 in two instalments for the first child and ₹6,000 in one instalment for a second child if it is a girl, subject to guidelines. One is an employer obligation; the other is a budgetary transfer. |
 | ⚠️ **Gender Budget Statement — allocation vs outcome** | The Statement tracks budgetary allocation classified as women-specific (Part A) or pro-women (Part B); it does not measure whether that allocation translates into empowerment outcomes — a common Mains trap conflating input with impact. |
 | ⚠️ **Statutory body vs constitutional body** | NCW is a statutory body under the NCW Act, 1990, with powers defined by Parliament; NCSC/NCST are constitutional bodies under Art 338/338A with constitutional mandates — NCW can be modified by ordinary legislation, NCSC/NCST cannot. |
 
@@ -70,7 +70,8 @@ synonyms or as unconnected terms will miss the causal linkage UPSC expects.
 2. **Statutory instrument:** DV Act (civil remedy), POSH Act (workplace safety), IPC 498A/
    BNS (criminal prosecution for cruelty).
 3. **Implementation layer:** Protection Officers (DV Act), Internal/Local Committees
-   (POSH), One Stop Centres (Mission Shakti-Sambal), Women Helpline 181.
+   (POSH), One Stop Centres, Women Helpline 181 and the current Mission Shakti service
+   architecture.
 4. **Outcome indicator:** NFHS domestic-violence prevalence, NCRB crime-against-women
    registration rates — survey-based prevalence is more reliable than registration rates
    alone (under-reporting caveat).
@@ -78,8 +79,10 @@ synonyms or as unconnected terms will miss the causal linkage UPSC expects.
 ### Empowerment chain (capability expansion)
 1. **Access to economic resources:** SHG membership → credit access → livelihood income →
    asset accumulation (detailed in Governance/04 via bonding/bridging/linking capital).
-2. **Time and mobility:** childcare/crèche support (Mission Shakti-Samarthya), maternity
-   leave (MB Act/PMMVY) reduce time poverty and enable workforce participation.
+2. **Time and mobility:** childcare/crèche support and other Mission Shakti services,
+   together with maternity leave (MB Act/PMMVY), can reduce time poverty and enable
+   workforce participation. The PMMVY 2.0 first-child/second-girl-child DBT is not
+   equivalent to employer-funded maternity leave.
 3. **Voice and representation:** SHG federation leadership, Panchayat reservation (33%
    women, 73rd Amendment) convert economic participation into political agency.
 4. **Outcome indicators:** female workforce participation rate (PLFS), women's asset
@@ -154,10 +157,10 @@ synonyms or as unconnected terms will miss the causal linkage UPSC expects.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 NFHS-6 (2023-24), officially released on 29 May 2026, reported that 89.0% of
-  women owned and used a bank or savings account and 64.3% had ever used the
-  internet. NFHS-5 (2019-21) remains a dated baseline for indicators cited from
-  that round; round-specific values must not be mixed.
+- 📰 **Survey-status check (21 July 2026):** NFHS-5 (2019-21) remains the latest
+  published national round. Its access baseline is 78.6% of women aged 15–49 reporting
+  a bank/savings account they themselves use and 54.0% reporting a mobile phone they
+  themselves use. Do not mix those values with an unreleased NFHS-6.
 
 ## 10. PYQ-based analytical application
 

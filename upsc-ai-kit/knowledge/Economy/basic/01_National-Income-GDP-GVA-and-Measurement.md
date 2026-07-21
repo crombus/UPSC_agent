@@ -3,7 +3,7 @@
 > **Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims.
 > **Grounded in:** Ramesh Singh, Ch. 1; Economic Survey 2025-26, Ch. 1.
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey hook.
-> *Companion: `advanced/01_National-Income-GDP-GVA-and-Measurement.md`.*
+> *Companion: `../advanced/01_National-Income-GDP-GVA-and-Measurement.md`.*
 
 ---
 
@@ -142,3 +142,25 @@ the figure.
   comparison with older series.
 - ⚠️ Why India needs GDP/GVA data alongside employment, inequality, human
   development and environmental indicators.
+
+> **Answer thesis:** GDP measures the value of domestic production; a sound growth
+> assessment must then separate prices from volumes, GDP from GVA, and aggregate
+> output from distribution, jobs and ecological sustainability.
+
+## 12. Probable questions
+
+- ⚠️ **Prelims:** Which adjustment converts GDP at market prices into GVA at basic
+  prices, and which adjustment converts gross into net output?
+- ⚠️ **Mains (10 marks):** Why can GDP and GVA tell different but complementary
+  stories about the same year's growth?
+- ⚠️ **Mains (15 marks):** Explain why a change of national-accounts base year
+  improves relevance but demands careful treatment of historical comparisons.
+
+## 13. Study links
+
+- ✅ Advanced companion: `../advanced/01_National-Income-GDP-GVA-and-Measurement.md`.
+- ✅ `02_Growth-Development-HDI-IHDI-and-MPI.md` — output versus welfare.
+- ✅ `03_Inflation-Price-Indices-and-Business-Cycles.md` — deflators and price
+  measurement.
+- ✅ `26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md` — estimate
+  vintage and macro interpretation.

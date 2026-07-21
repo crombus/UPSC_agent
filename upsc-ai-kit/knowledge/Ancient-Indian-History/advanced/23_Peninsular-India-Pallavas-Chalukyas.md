@@ -32,6 +32,8 @@
 - ✅ Land grants to Brahmanas are part of larger processes: local state formation, transformation of tribes into peasants, caste formation and cult appropriation.
 - ✅ Bhakti poetry in Tamil devotional traditions widened religious expression beyond Sanskritic ritual, while still interacting with temple institutions.
 - ✅ Temples became sites where royal patronage, local economy, ritual authority and community identity met.
+- ✅ Mahendravarman I was a patron of arts and the author of the 7th-century Sanskrit farce **`Mattavilasa-prahasana`**, which satirizes Buddhists, Kapalikas and Pashupatas and reveals inter-religious competition.
+- ✅ Pallava epigraphy often divided labour between Sanskrit *prashasti* and Tamil documentary sections—evidence for elite integration and regional administration.
 - ⚠️ Avoid simple binaries: Bhakti could challenge social hierarchy rhetorically yet operate within emerging temple-centred society.
 
 ## 2. Key classification / data
@@ -61,6 +63,7 @@
 - ✅ Upinder connects South Indian Bhakti with Alvars, Nayanmars, temple patronage and inter-religious dynamics.
 - ✅ Pattadakal preserves major Chalukya temple experimentation.
 - ✅ Land grants helped transform local societies through agrarian and cultural processes.
+- ✅ The exact 2024 GS-I demand combines **art and literature**; an answer limited to temples is incomplete.
 
 ## 5. UPSC Traps
 
@@ -73,11 +76,10 @@
 
 ## 6. 📰 Current link
 
-📰 **Pattadakal and Chalukyan heritage (2025–26):** official heritage updates reiterate Pattadakal's status as a UNESCO World Heritage Site while noting no new 2025–26 PIB announcement adding Aihole/Badami separately to the tentative list. Use this as a trap-aware current link: conserve the whole Chalukyan landscape, but don't overclaim UNESCO status.
+⚠️ **Current-link discipline:** Pattadakal's World Heritage status is established; verify any claim about Aihole/Badami nomination separately. Treat the three as a connected Chalukyan landscape without transferring UNESCO status automatically.
 
 ## 7. Mains angles
 
 - ⚠️ Temple building in the peninsula turned political rivalry into durable sacred geography.
 - ⚠️ Land grants and Bhakti together show how early medieval society was integrated through both material and emotional-religious idioms.
 - ⚠️ The Pallava-Chalukya age is a transition from lineage warfare to regionally rooted cultural states.
-

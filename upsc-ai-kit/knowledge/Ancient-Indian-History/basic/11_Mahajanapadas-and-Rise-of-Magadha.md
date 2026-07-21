@@ -31,6 +31,8 @@
 - ✅ Rajgir/Girivraja, the earliest capital, was surrounded by five hills and made impregnable by stone walls.
 - ✅ Pataliputra later occupied a strategic position near river junctions, improving defence and communication.
 - ✅ Ambitious rulers such as **Bimbisara, Ajatashatru and Mahapadma Nanda** used conquest and diplomacy to expand Magadha.
+- ✅ Other Sharma factors include river communications, large-scale use of elephants, effective taxation/army and the relatively unorthodox social composition of eastern India.
+- ⚠️ Upinder Singh accepts iron as a factor but cautions against an **iron-monopoly** explanation; Avanti also had access to iron.
 
 ## 2. Key classification / data
 
@@ -40,6 +42,7 @@
 | ✅ Geography | Rajgir defended by five hills; Pataliputra at strategic river routes |
 | ✅ Rivers | Ganga system enabled communication and trade |
 | ✅ Rulers | Bimbisara, Ajatashatru, Mahapadma Nanda expanded power |
+| ✅ Military ecology | Eastern forests supplied elephants used on a large scale |
 | ⚠️ Economy | Agriculture, towns, trade and surplus supported armies |
 
 | Mahajanapada cluster | Examples |
@@ -72,7 +75,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Rajgir-Nalanda Buddhist heritage events, 2025:** Ministry-linked Buddhist events around Rajgir/Bodhgaya and Nalanda heritage keep the old Magadhan landscape in public focus. For this file, use the hook to connect **Magadha's early urban-religious geography** with modern heritage tourism.
+⚠️ **Current-link discipline:** A Rajgir/Nalanda survey or heritage event needs an official dated source. The safe linkage is landscape archaeology and heritage management across the early Magadhan core.
 
 ## 7. Mains angles
 

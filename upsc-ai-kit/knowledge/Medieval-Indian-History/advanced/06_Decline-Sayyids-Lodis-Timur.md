@@ -38,6 +38,7 @@
 - ✅ Sikandar's administration combined discipline, justice, cheap prices, safe highways, grain-octroi abolition, agricultural interest and the **gazz-i-Sikandari** measurement.
 - ✅ Yet Afghan ideas of partition and noble autonomy persisted; Bahlul had divided the kingdom among sons/relations, and Sikandar could only partially undo this.
 - ✅ Lodi expansion towards eastern Rajasthan and Malwa brought them into conflict with Rana Sanga; Babur's arrival intervened before this struggle was resolved.
+- ⚠️ "Afghan tribal equality" should not be romanticised as egalitarian government: it describes bargaining among armed noble lineages, not political equality for subjects.
 
 ## 2. Key classification / data
 
@@ -79,7 +80,7 @@
 
 ## 6. 📰 Current link
 
-📰 **500th anniversary of the First Battle of Panipat (The Diplomat, 20 April 2026):** Contemporary commemorations of Panipat 1526 renew focus on Ibrahim Lodi, Afghan political limits and the transition from Sultanate to Mughal power.
+📰 **Current linkage (verify live before use):** Panipat battlefield commemoration can revive attention to Ibrahim Lodi and Afghan kingship. Verify anniversary programmes and battlefield-heritage claims before citing them.
 
 ## 7. Mains angles
 

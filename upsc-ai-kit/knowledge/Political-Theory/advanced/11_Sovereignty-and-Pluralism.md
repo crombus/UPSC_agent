@@ -2,7 +2,7 @@
 
 > **Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
 > **Core area:** Classical legal sovereignty, popular sovereignty, and the pluralist attack on monistic state supremacy.
-> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.7-8, PDF pp.179-208.
+> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.7-8, PDF pp.179-208; *Socio-Political Philosophy*, PDF p.67 for a limited Kautilyan comparator.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
 > ✅ = source-grounded | ⚠️ = analytical inference/synthesis | 📰 = dated current anchor | ❌ = trap/misattribution.
 > *Companion: `Political-Theory/basic/11_Sovereignty-and-Pluralism.md`.*
@@ -67,6 +67,12 @@ pluralism: society has many associations; state must coordinate and justify
 - ✅ **Bentham:** accepted legal supremacy but insisted on moral limits, utility and the possibility of justified resistance (PDF p.183).
 - ✅ **Austin:** perfected monistic legal sovereignty by defining it as a determinate superior habitually obeyed and not habitually obedient to a like superior; law becomes command backed by sanction (PDF pp.183-185).
 - ✅ **Laski:** treated absolute sovereignty as historically, legally and politically defective; the state is one association among many, and authority must be federal, coordinative and morally justified (PDF pp.201-204).
+- ✅ **Kautilya (secondary-source comparator):** the supplied synopsis locates the *swami* within a
+  seven-limbed state whose sovereignty depends on ministers, territory/population, fortification,
+  treasury, coercive force and allies as well as the ruler (*Socio-Political Philosophy*, PDF p.67).
+- ⚠️ This is not an Austinian doctrine in Indian dress. Austin asks who is legally final; the
+  Kautilyan synopsis asks how rulership and the material-organizational limbs of the state preserve
+  effective power against internal and external danger.
 
 ## 6. Competing perspectives
 
@@ -97,6 +103,7 @@ pluralism: society has many associations; state must coordinate and justify
 | ✅ **Bentham** | Legal sovereign, utility-tested (PDF p.183) | Moral usefulness and possible resistance | Authority must justify legislation | Utility check |
 | ✅ **Austin** | Determinate legal superior (PDF pp.183-185) | No legal superior; moral factors not erased | Law is sovereign command | Pure legal monism |
 | ✅ **Laski / pluralism** | No morally omnipotent single association (PDF pp.196-204) | Associations, conscience, history and social facts limit state claims | Government must be accountable; authority federal | Anti-monist critique |
+| ✅ **Kautilya (comparator)** | *Swami* prominent within the saptanga state | Effective rule depends on the health and coordination of seven limbs | Rulership is embedded in administration, resources, force and alliance | State-capacity and strategic preservation, not Austinian legal finality |
 
 ## 9. Application without current-affairs dependence
 
@@ -105,6 +112,8 @@ pluralism: society has many associations; state must coordinate and justify
 - ⚠️ In a federation, two levels may legislate on different subjects, but Gauba's conceptual answer is still single state sovereignty plus divided powers.
 - ⚠️ In a society of strong unions, churches, cooperatives and corporations, pluralism asks whether the state's claim to obedience is earned by fair coordination or merely asserted through coercion.
 - ⚠️ In a democracy, "the people are sovereign" is a legitimacy claim; it does **not** mean every majority decision is identical with Rousseau's general will.
+- ⚠️ In a Kautilyan application, a ruler's title is not sufficient for effective sovereignty if the
+  treasury, administration, defence, territory or alliances are dangerously weak.
 
 ## 10. UPSC answer-engine prompts
 
@@ -113,6 +122,9 @@ pluralism: society has many associations; state must coordinate and justify
 - ⚠️ **Prompt 3:** Examine the pluralist critique of monistic sovereignty with special reference to Laski.
 - ⚠️ **Prompt 4:** Does federalism divide sovereignty or merely distribute powers?
 - ⚠️ **Prompt 5:** Why must Rousseau's popular sovereignty not be confused with the authority of any elected government?
+- ✅ **Verified PYQ cluster (2022-2025):** Bodin, Laski and Kautilya recur in successive local
+  Philosophy Optional papers. A strong comparison should separate legal attributes, pluralist moral
+  limits and strategic state-capacity rather than forcing all three into one definition.
 
 ## 11. Cross-links and exclusions
 
@@ -134,4 +146,6 @@ pluralism: society has many associations; state must coordinate and justify
 
 - ✅ Primary chapters used: Ch.7 "Concept of Sovereignty" and Ch.8 "Pluralist Theory of Sovereignty" (PDF pp.179-208).
 - ✅ Core clusters used: Bodin to Austin (PDF pp.181-185); characteristics/aspects (PDF pp.185-188); popular sovereignty and general will (PDF pp.189-193); pluralist principles and Laski/Maclver (PDF pp.194-208).
+- ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF p.67.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
 - ⚠️ No post-2009 factual anchor is used in this file; all historical illustrations are either directly from Gauba or clearly presented as general hypotheticals.

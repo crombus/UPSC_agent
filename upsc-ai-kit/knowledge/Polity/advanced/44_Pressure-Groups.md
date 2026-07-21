@@ -1,7 +1,7 @@
 # Pressure Groups — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II (also GS-I: society)
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 77 + source book.
+> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 77 (direct check of the local Sixth Revised Edition PDF).
 > ✅ = from source book · ⚠️ = inference / analysis · 📰 = current affairs.
 > *Companion: `basic/Pressure-Groups.md`.*
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | 1 | **Business** (most powerful) | **FICCI, ASSOCHAM, FAIFDA, AIMO** |
 | 2 | **Trade unions** (party-linked) | **AITUC (CPI), INTUC (Cong), HMS, CITU (CPM), BMS (BJP)** |
-| 3 | **Agrarian** | **All India Kisan Sabha** (oldest/largest), Bhartiya Kisan Union, Shetkari Sanghatana |
+| 3 | **Agrarian** | **All India Kisan Sabha** (among the oldest major organisations), Bharatiya Kisan Union, Shetkari Sanghatana |
 | 4 | **Professional** | **IMA, Bar Council of India, IFWJ** |
 | 5 | **Student** | **ABVP (BJP), AISF (CPI), NSUI (Cong), SFI (CPM)** |
 | 6 | **Religious** | RSS, VHP, Jamaat-e-Islami, Shiromani Akali Dal |
@@ -51,7 +51,8 @@
 - ❌ The term originated in Britain → **USA**.
 - ❌ "Anomic" groups are formal associations → they are **spontaneous** (riots, demonstrations) per Almond & Powell.
 - ❌ Trade unions in India are apolitical → most are **affiliated to political parties** (AITUC-CPI, INTUC-Congress, BMS-BJP…).
-- ❌ The oldest/largest agrarian group is BKU → it is the **All India Kisan Sabha**.
+- ❌ A timeless "largest agrarian group" ranking can be inferred from the static text →
+  membership strength is time-sensitive; AIKS is safely described as an old major organisation.
 - ❌ Odegard's techniques include "agitation" → the three are **electioneering, lobbying, propagandizing**.
 
 ## 📰 CA hooks

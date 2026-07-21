@@ -15,8 +15,13 @@
   inference/standard linkage; 📰 = current Survey or verified current-affairs hook.
 - **Answer discipline:** use these files as the first reference. If a tested concept
   is absent, record and add the gap rather than improvising.
-- **Dynamic data:** prefer `Ref_EconomicSurvey_2025-26.md` for figures and always
-  retain the period/date attached to a number.
+- **Dynamic data:** prefer `notes/Economy/Ref_EconomicSurvey_2025-26.md` for figures and always
+  retain the period/date attached to a number. Treat the Survey as a January 2026
+  vintage, not as a live dashboard; use the named first-party release for any later
+  policy, legal or statistical-series update.
+- **Series discipline:** do not splice estimates across the old and new GDP, CPI or
+  WPI series without an official comparable back-series/linking method. Mark a
+  Budget figure as BE/RE/PA/actual, and a Survey number as an estimate or projection.
 
 ## Topic map
 

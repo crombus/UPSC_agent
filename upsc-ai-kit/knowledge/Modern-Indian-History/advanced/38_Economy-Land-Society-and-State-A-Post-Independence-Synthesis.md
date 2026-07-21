@@ -29,9 +29,9 @@
 
 **Deeper — social transformation was partial, uneven and politically explosive.**
 
-- ✅ **Land reform**: **zamindari abolition** (backed by the 1st and 4th Amendments) succeeded and made ~20 million tenants owners, but **tenancy and ceiling** reforms were defeated by **loose "personal cultivation" definitions, benami transfers, unrecorded tenancies, delay and official collusion**; **Bhoodan/Gramdan** could not substitute for structural reform.
-- ✅ The **Green Revolution** solved the food crisis but **stratified the countryside**, empowering rich and middle peasants — the social base of the **1980s farmers' movements** ("Bharat vs India," Sharad Joshi, Tikait) — while **agrarian radicalism** (Telangana → **Naxalbari 1967** → CPI(ML)) expressed the exclusion of the landless.
-- ✅ **Communalism** is analysed as an **ideology** (the "Indian form of fascism"), not merely riots; contained in the Nehru years, it **revived from the 1960s** (rising riot data; National Integration Council) and turned **endemic after the late 1970s**, culminating in Ayodhya.
+- ✅ **Land reform**: **zamindari abolition** (backed by the 1st and 4th Amendments) made about 20 million superior tenants owners. The rough fall in tenancy area from 42% to 20–25% cannot be read simply as success because oral tenancy was undercounted and some decline came through eviction. Tenancy/ceiling implementation suffered from "personal cultivation" loopholes, benami transfers, poor records, delay and official collusion; **Bhoodan/Gramdan** could not substitute for structural reform.
+- ✅ **Green Revolution debate**: Chandra argues that the strategy secured food self-sufficiency, spread beyond its initial north-western concentration, proved broadly scale-neutral and did not produce the predicted general de-peasantisation. ⚠️ Critical scholarship instead stresses unequal access to irrigation/credit, regional lag, labour displacement in some settings and ecological costs. Keep the interpretations separate.
+- ✅ **Communalism** is analysed as an ideology, not merely riots. Nehru's phrase "the Indian version of fascism" and Chandra's strong ideological judgement must be attributed; contained in the early years, communalism revived from the 1960s and became more entrenched after the late 1970s.
 - ✅ **Caste and gender**: reservations and the **Hindu Code Bill** advanced legal equality; **Dalit assertion** (Ambedkar → Dalit Panthers → BSP) and the **Mandal** moment reshaped politics, while the women's movement (1970s–90s) moved from legal reform to dowry, rape and violence — yet the author stresses persistent **implementation gaps and elite capture**.
 
 **Deeper — the institutions of governance decayed even as democracy endured.**
@@ -46,8 +46,8 @@
 | ✅ Economic model | Rational for its time; undone by the control raj, corrected (not abandoned) in 1991 |
 | ✅ Democracy–development | Free press + sovereignty prevented coercive extraction; averted famines |
 | ✅ Land reform | Zamindari abolished; tenancy/ceiling defeated by evasion + collusion |
-| ✅ Green Revolution | Food security gained; rural stratification and agrarian conflict deepened |
-| ✅ Communalism | An ideology ("Indian fascism"); contained → revived → endemic |
+| ✅ Green Revolution | Chandra: food security, diffusion and scale-neutral technology; critics: unequal access, regional/ecological costs |
+| ✅ Communalism | Ideology, not only riots; "Indian version of fascism" is an attributed Nehru/Chandra formulation |
 | ✅ Caste & gender | Legal equality advanced; assertion (Mandal, Dalit, women) reshaped politics |
 | ✅ Institutions | Parliament, Cabinet, judiciary, bureaucracy decayed; democracy still endured |
 
@@ -61,7 +61,7 @@
 ## 4. Must-Know Facts (Prelims)
 
 - ✅ The **First (1951) and Fourth (1955) Amendments** protected land-reform laws from litigation.
-- ✅ Tenancy area fell from ~**42% (1950–51)** to ~**20–25%** by the early 1960s, but tenancy reform is judged a broad failure.
+- ✅ One rough estimate puts tenancy area at ~**42% (1950–51)** and ~**20–25%** by the early 1960s; the source warns that oral tenancy made the data highly unreliable and that eviction contributed to the decline.
 - ✅ **Naxalbari (1967)** was in Darjeeling district; **CPI(ML)** was formed in **1969**; the **Srikakulam** struggle followed.
 - ✅ **Sharad Joshi's Shetkari Sangathana (Nasik, 1980)** and **Mahendra Singh Tikait's BKU (Sisauli, 1986)** led the rich-farmer movements.
 - ✅ Communal riots rose sharply from the late 1950s; the **National Integration Council** was set up under Nehru.
@@ -74,7 +74,7 @@
 - ❌ The Nehruvian model failed from the start. → It **delivered growth and capacity**; the **control raj** was its later drag.
 - ❌ Land reform uniformly failed. → **Zamindari abolition succeeded**; tenancy/ceiling reform failed.
 - ❌ Communalism is essentially about riots. → Chandra treats it as an **ideology**, with violence as the symptom.
-- ❌ The Green Revolution reduced rural inequality. → It **widened** it and fed agrarian conflict.
+- ❌ The Green Revolution's distributional verdict is settled. → Chandra rejects early predictions of general polarisation and stresses diffusion/small-farmer viability; critics document unequal assets, regional gaps and environmental damage.
 - ❌ Institutional decay meant democracy collapsed. → Institutions decayed **yet democracy survived and deepened**.
 
 ## 6. 📰 Current link
@@ -90,4 +90,4 @@
 
 ## ➕ Historiography note (PYQ-gap)
 
-⚠️ This chapter is where Chandra's **nationalist-left synthesis** is clearest: the Indian state is a **popular, multi-class, democratic** formation (rejecting the dependency/"triple alliance" thesis for India), whose development was rational but whose equity record disappointed. **Market-liberal** critics indict the control raj for the "Hindu rate of growth"; **subaltern and Marxist** critics indict the state for shielding landlords and capitalists and failing the landless, Dalits and women. A distinguished answer maps this three-cornered debate and adjudicates issue-by-issue — crediting democratic resilience and zamindari abolition, while conceding the failures of tenancy reform, the Green Revolution's inequities, and institutional decay. PYQ application: this is the master synthesis for any "social and economic change in post-independence India" essay or GS-I question.
+⚠️ This chapter is where Chandra's **nationalist-left synthesis** is clearest: the Indian state is a **popular, multi-class, democratic** formation (rejecting the dependency/"triple alliance" thesis for India), whose development was rational but whose equity record disappointed. **Market-liberal** critics indict the control raj for slow growth; **subaltern and Marxist** critics indict the state for shielding landlords and capitalists and failing the landless, Dalits and women. On the Green Revolution, however, do not attribute "widened inequality" to Chandra: he argues diffusion and scale-neutrality, whereas critical agrarian and environmental scholarship supplies the contrary case. Adjudicate issue by issue rather than forcing one verdict.

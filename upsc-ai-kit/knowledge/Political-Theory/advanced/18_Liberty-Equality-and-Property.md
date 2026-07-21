@@ -2,7 +2,7 @@
 
 > **Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background.
 > **Core area:** Competing liberal, social-democratic and Marxist reconstructions of freedom, equality and property.
-> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.16-18, PDF pp.367-431.
+> **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.16-18, PDF pp.367-431; *Socio-Political Philosophy*, PDF pp.7-35 for supplementary liberty/equality contrasts.
 > **Source edition/cutoff:** Fifth Edition (2009); no post-2009 fact is assumed unless independently dated and tagged 📰.
 > ✅ = source-grounded | ⚠️ = analytical inference/synthesis | 📰 = dated current anchor | ❌ = trap/misattribution.
 > *Companion: `Political-Theory/basic/18_Liberty-Equality-and-Property.md`.*
@@ -18,8 +18,8 @@ classical liberal non-interference
         +-------------------------+
         |                         |
         v                         v
-positive liberal welfare     libertarian pushback
-Mill/Green/Hobhouse/Laski    Berlin/Hayek/Friedman/Nozick
+positive liberal welfare     analytic distinction / libertarian pushback
+Mill/Green/Hobhouse/Laski    Berlin | Hayek/Friedman/Nozick
         |                         |
         +------------+------------+
                      v
@@ -60,7 +60,10 @@ property without social control becomes power
 2. ✅ He rejects both absolute liberty and unconditional authority: liberty must be regulated so that one person's freedom does not become another's servitude, while state authority itself must remain limited and morally grounded in legitimacy (Gauba, PDF pp.369-372).
 3. ✅ Once economic liberty enters the picture, laissez-faire non-interference appears inadequate because employers, landlords and traders can constrain the weak even without overt state coercion (Gauba, PDF pp.373-375).
 4. ✅ The shift from negative to positive liberty is then reconstructed through the Atlantic Charter and welfare-liberal thought: freedom includes both non-interference and removal of socially alterable obstacles such as want, insecurity and lack of education (Gauba, PDF pp.375-381).
-5. ✅ Berlin, Hayek, Friedman and Nozick revive a stricter liberal-libertarian emphasis on non-coercion, but Gauba criticizes each for abstracting liberty from socio-economic structure and market power (Gauba, PDF pp.378-384).
+5. ✅ Berlin analytically distinguishes negative liberty from positive self-mastery; Hayek,
+  Friedman and Nozick make the separate libertarian case for non-coercion and limited
+  redistribution. Gauba criticizes the group for underweighting socially produced material
+  constraints, but their arguments are not identical (Gauba, PDF pp.378-384).
 6. ✅ Marxist and neo-Marxist discussions of freedom rest on the claim that capitalism structurally produces alienation, dependence and pseudo-choice; freedom therefore requires transformation of the mode of production itself (Gauba, PDF pp.384-389).
 7. ✅ Equality is then recast as a prescriptive claim of equal worth, grounded in rights rather than sameness of natural capacity, and directed against unjust but alterable social inequalities (Gauba, PDF pp.392-395).
 8. ✅ Gauba distinguishes rational discrimination for need and socially useful excellence from irrational privilege, and uses this to move from equality before law to political and socio-economic equality (Gauba, PDF pp.396-406).
@@ -75,8 +78,10 @@ property without social control becomes power
 |---|---|
 | Regulated liberty | ✅ For Gauba, liberty survives only as a regulated and relative liberty compatible with equal liberty for others and with realization of human capacities (Gauba, PDF pp.370-371). |
 | Moral vs material positive liberty | ✅ Gauba accepts Berlin's insight about self-mastery in the moral sphere but criticizes him for collapsing socially produced material deprivation into merely personal incapacity (Gauba, PDF pp.378-380). |
+| Self-mastery vs enabling positive liberty | ⚠️ Berlin's positive liberty asks who or what rules the self; positive liberalism asks whether social conditions make meaningful action possible. Gauba expressly separates the two usages (PDF pp.378-380). |
 | Natural vs conventional inequality | ✅ Rousseau's distinction separates unavoidable natural differences from socially produced privilege, making only the latter the main object of political reform (Gauba, PDF pp.394-395). |
 | Formal vs substantive equality | ✅ Formal equality removes explicit exclusion; substantive equality asks whether real opportunities and safeguards exist for the underprivileged (Gauba, PDF pp.400-406). |
+| Alterability and injustice | ✅ An inequality must be alterable before it can ordinarily become a practical demand of political reform, but alterability alone is not sufficient to make it unjust; relevance, need, function and social benefit still require argument (Gauba, PDF pp.394-397). |
 | Reverse discrimination | ✅ Preferential treatment for historically deprived sections may serve equality, but it also raises questions of merit, identification of deserving cases and fairness to others (Gauba, PDF pp.398-399). |
 | Natural-right property | ✅ Property is defended as a right recognized rather than created by the state, though Gauba shows that this becomes unstable once inheritance, money and large-scale inequality enter the picture (Gauba, PDF pp.417-419). |
 | Functionless property | ✅ Tawney and Laski use this idea for ownership that yields income and power without socially useful service, making it ethically suspect (Gauba, PDF pp.421-425). |
@@ -88,7 +93,7 @@ property without social control becomes power
 |---|---|
 | J.S. Mill | ✅ Begins with strong liberty doctrine but later accepts intervention, taxation, inheritance limits and education because unregulated market society can hollow out freedom for workers (Gauba, PDF pp.377-378, 415). |
 | T.H. Green | ✅ Freedom is moral self-realization; property matters only so far as it supports development and must be restricted where it blocks others' self-realization (Gauba, PDF pp.377-378, 415-416). |
-| Isaiah Berlin | ✅ Distinguishes negative liberty from self-mastery, but Gauba argues that his refusal to treat socially produced deprivation as unfreedom is too narrow in the material sphere (Gauba, PDF pp.378-380, 408-409). |
+| Isaiah Berlin | ✅ Distinguishes negative liberty from positive self-mastery. Gauba accepts this in the moral sphere but argues that Berlin's treatment of socially produced deprivation is too narrow in the material sphere; Berlin is not simply another welfare-state critic of the Hayek-Nozick type (Gauba, PDF pp.378-380, 408-409). |
 | F.A. Hayek | ✅ Defends non-coercion, equality before law and market competition while calling social justice a mirage; Gauba sees this as divorcing liberty from the conditions required to universalize it (Gauba, PDF pp.381-383, 409-412). |
 | Milton Friedman | ✅ Competitive capitalism is presented as a necessary condition of freedom; Gauba counters that labour without capital does not negotiate from equal power (Gauba, PDF pp.383-384). |
 | Robert Nozick | ✅ Just acquisition and transfer can yield inequality without injustice, so the minimal state should not redistribute; Gauba finds this inattentive to social background inequalities (Gauba, PDF pp.384, 411). |
@@ -111,6 +116,10 @@ property without social control becomes power
 ## 7. Internal debates and criticisms
 
 - ✅ Gauba's criticism of Berlin is precise: in the moral sphere self-mastery is a genuine issue, but in the material sphere poverty and exclusion can be socially produced and politically alterable, so they cannot be dismissed as mere private incapacity (Gauba, PDF pp.378-380).
+- ✅ Hayek's own necessary/sufficient claim is narrower than a general defence of democracy: he says
+  political freedom is neither necessary nor sufficient for individual freedom because a democracy
+  may coerce and a non-democracy may leave some private latitude. This is Hayek's conceptual claim,
+  not an endorsement of non-democratic rule (Gauba, PDF p.381).
 - ✅ Hayek's equality-before-law argument is powerful against crude equalization of outcomes, yet Gauba argues it underestimates how wealth structures access, power and even the use of formal liberty itself (Gauba, PDF pp.381-383, 409-412).
 - ✅ Locke's labour theory starts with a seemingly egalitarian intuition, but once money, consent and large accumulation enter, it becomes a legitimating theory for widening inequality rather than a critique of it (Gauba, PDF pp.417-419).
 - ✅ The reverse-discrimination debate shows that substantive equality is not conceptually simple: preferential treatment may be justified by need, past exclusion or representational effect, yet still risk capture by advantaged sub-groups (Gauba, PDF pp.398-399).
@@ -151,6 +160,11 @@ property without social control becomes power
 - ⚠️ **Prompt 3:** Reconstruct Locke's labour theory of property and then show why Gauba thinks it does not logically contain capitalist inequality.
 - ⚠️ **Prompt 4:** Compare Hobhouse, Tawney and Laski on function-regulated property with Marx's critique of private ownership of means of production.
 - ⚠️ **Prompt 5:** "The real battlefield between liberty and equality is the economic sphere." Evaluate.
+- ✅ **Verified PYQ cluster (2022-2025):** complete liberty versus order; critical evaluation of
+  liberty and equality; J.S. Mill on equality; why liberty and equality need justice.
+- ⚠️ High-value frame: clarify the two meanings of positive liberty -> distinguish formal and
+  substantive equality -> test whether an inequality is alterable, relevant and justified -> bring
+  property/bargaining power into the causal chain -> conclude through equal liberty.
 
 ## 11. Cross-links and exclusions
 
@@ -172,6 +186,8 @@ property without social control becomes power
 ## 13. Sources, metadata and tags
 
 - ✅ Main direct-book anchors used here: liberty at PDF pp.367-390; equality at PDF pp.391-412; property at PDF pp.413-431.
+- ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.7-35.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
 - ✅ Companion file: `Political-Theory/basic/18_Liberty-Equality-and-Property.md`.
 - ✅ Justice linkage: `Political-Theory/basic/19_Justice-Concepts-and-Dimensions.md`.
 - ✅ Module anchors: `Political-Theory/README.md` and `Political-Theory/00_Master-Framework.md`.

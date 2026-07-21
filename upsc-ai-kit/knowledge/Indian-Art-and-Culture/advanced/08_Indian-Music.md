@@ -5,7 +5,9 @@
 > ecology; performance ecology and transmission; claims around attributed
 > inventions; safeguarding of living musical traditions.
 > **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 411-457; `00_Master-Framework.md` Sections 4-5; audited UPSC Mains
+> 411-457; Satish Chandra, *History of Medieval India*, PDF pp. 332-334;
+> Satish Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp. 394-395;
+> `00_Master-Framework.md` Sections 4-5; audited UPSC Mains
 > 2024-2025 GS Paper I (no direct question).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
 > *Companion: `basic/08_Indian-Music.md`.*
@@ -40,8 +42,8 @@ difficult to verify against a contemporaneous textual source.
 | Dimension | Hindustani music | Carnatic music |
 |---|---|---|
 | ✅ Transmission structure | Gharana (family/regional lineage) | Guru-shishya parampara, less rigidly gharana-labelled |
-| ✅ External influence | Arab, Persian, Afghan (post-Delhi Sultanate courtly contact) | Indigenous development, comparatively insulated from the same courtly influences |
-| ✅ Improvisational scope | Greater (raga elaboration, alaap-heavy Dhrupad/Khayal) | Comparatively structured, less improvisational latitude per the book's own comparison |
+| ✅ Historical formation | Older Indian theory plus devotional, courtly and Persianate encounters | Older Indian theory plus temple, court and later sabha institutions |
+| ✅ Improvisational grammar | Alap, bol, taan and layakari within form/gharana conventions | Manodharma through alapana, niraval, kalpana swara and RTP |
 | ⚠️ Patronage history | Courtly (Mughal and regional courts) transitioning to urban concert/recording-industry patronage | Temple and Zamindari patronage transitioning to sabha (concert-society) patronage |
 
 ## 4. Evidence, form and interpretation
@@ -58,6 +60,12 @@ gharana system's regional/family specialisation (Section 3) mirrors the
 same "layered patronage" logic seen in architecture (topic 02's Sanchi,
 topic 04's Delhi Sultanate imperial/provincial split) — a transmissible,
 brand-like specialisation that outlives any individual patron.
+
+✅ Satish Chandra supplies a continuity/change test: Aurangzeb's court
+restricted singing, yet instrumental practice, elite patronage and music
+writing continued; under Muhammad Shah, Sadarang/Adarang expanded khayal.
+The episode shows that loss of one patronage node redirects a tradition
+rather than automatically extinguishing it.
 
 ## 5. Visual synthesis table
 
@@ -85,7 +93,7 @@ direct spine for this file's advanced analysis.
 ## 7. 📰 Dated official anchor
 
 - 📰 Sangeet Natak Akademi's awardee list is the authoritative current
-  record of recognised musicians; at research time (18 July 2026) this
+  record of recognised musicians; at research time (21 July 2026) this
   file does not assume the list extends beyond its last verified year —
   cite only a specific, dated SNA release for any named recent awardee
   (see topic 14).
@@ -110,10 +118,11 @@ claims.
   structure, protecting a transmissible, marketable skill across
   generations.
 - ❌ Assuming Carnatic music has no improvisational element at all. -> The
-  book's comparison is relative ("less scope"), not an absolute denial of
-  improvisation (e.g. Carnatic manodharma sangeetam involves
-  improvisation, though the book itself frames the North-South contrast
-  only in relative terms).
+  premise is wrong: Carnatic manodharma is extensive, though organised
+  through forms different from Hindustani alap/taan practice.
+- ❌ Turning Hindustani/Carnatic into foreign/indigenous essences. -> Both
+  are historical formations with shared theory and region-specific
+  exchanges, institutions and repertoires.
 
 ## 10. Mains answer frameworks
 

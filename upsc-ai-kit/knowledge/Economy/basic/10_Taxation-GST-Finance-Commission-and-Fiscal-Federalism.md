@@ -4,7 +4,7 @@
 > **Core area:** Taxation and federal finance.
 > **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`.*
+> *Companion: `../advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`.*
 
 ---
 
@@ -77,6 +77,8 @@ who spends and who is accountable for outcomes.
 - ✅ Input tax credit reduces cascading when compliant value-chain invoices are matched under
   law.
 - ✅ The GST Council is a constitutional federal forum; it is not the Finance Commission.
+- ✅ Under Article 279A, the Centre has one-third of weighted GST Council votes and states
+  together have two-thirds; a decision needs at least three-fourths of weighted votes.
 - ✅ The Finance Commission addresses vertical and horizontal fiscal imbalances through
   recommendations.
 - ✅ Cesses and surcharges have different sharing implications from taxes in the divisible
@@ -97,15 +99,16 @@ who spends and who is accountable for outcomes.
 
 ## 8. 📰 Economic Survey 2025-26 / current anchor
 
-- 📰 GST 2.0's broad two-rate structure took effect from 22 Sep 2025; avoid unsourced item-
-  level claims.
+- 📰 The 56th GST Council reform took effect from 22 Sep 2025 with broad 5% and 18%
+  rates and a special 40% demerit rate for specified supplies; separately notified
+  tobacco/cess treatment must not be collapsed into the two-rate shorthand.
 - 📰 Economic Survey 2025-26 highlights stronger direct-tax compliance; do not quote the
   return-count comparison without its underlying periods.
 - 📰 Revenue receipts averaged 9.1% of GDP in FY22-FY25, compared with 8.5% in FY16-FY20.
-- 📰 The **Income-tax Act, 2025** replaced the 1961 Act from **1 April 2026**;
-  the Income-tax Rules, 2026 and redesigned forms were notified in March 2026.
-  This is a simplification/administration update, not evidence that tax rates
-  changed automatically. [PIB source](https://pib.gov.in/PressReleasePage.aspx?PRID=2248005).
+- 📰 The **Income-tax Act, 2025** and Income-tax Rules, 2026 commenced from
+  **1 April 2026**. The 1961 Act remains relevant to earlier years and their
+  proceedings; commencement and changed tax rates are separate questions.
+  [Income-tax Department notification](https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-03/En-Notified-IT-Rules-2026-20-03-2026.pdf).
 - 📰 The **Sixteenth Finance Commission** award covers 2026-27 to 2030-31.
   The accepted vertical share remains **41% of the divisible pool**; use the
   report/action-taken memorandum for horizontal criteria and grants.
@@ -146,8 +149,7 @@ consumption baskets, informality and state fiscal capacity differ.
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-
-  Federalism.md`.
+- ✅ Advanced companion: `../advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`.
 - ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — revenue, deficits and
   expenditure.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — state capex and public-

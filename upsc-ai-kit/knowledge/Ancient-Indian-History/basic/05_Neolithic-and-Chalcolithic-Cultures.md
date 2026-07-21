@@ -25,6 +25,8 @@
 - ✅ Mehrgarh is the earliest farming horizon in the north-west tradition.
 - ✅ Burzahom is famous for Kashmir Neolithic features such as pit dwellings and bone/stone tools.
 - ✅ Chirand and Koldihwa are important for eastern/northern Neolithic and rice-related questions.
+- ✅ **Lahuradewa** in the middle Ganga valley is important in Upinder Singh's updated account of early rice-based agriculture; at Koldihwa/Mahagara the dates and the identification of wild versus domesticated rice require caution.
+- ✅ South Indian Neolithic evidence includes cattle pastoralism, polished stone axes and distinctive **ash-mound** sites; this regional trajectory was not a copy of Mehrgarh.
 
 **Standard — Chalcolithic means copper + stone, mostly rural.**
 
@@ -41,6 +43,8 @@
 | ✅ Burzahom | Kashmir | pit dwellings, bone tools, human/animal burials |
 | ✅ Chirand | Bihar | Neolithic-Chalcolithic sequence; bone tools |
 | ✅ Koldihwa | UP | rice-related Neolithic evidence |
+| ✅ Lahuradewa | Uttar Pradesh | early rice-cultivation evidence in the middle Ganga valley |
+| ✅ Utnur / Piklihal / Sanganakallu | South India | cattle-pastoral Neolithic; ash-mound/stone-tool traditions |
 | ✅ Ahar / Gilund | SE Rajasthan, Banas valley | Chalcolithic dry-zone settlements |
 | ✅ Kayatha / Eran | western MP | Kayatha and Malwa horizons |
 | ✅ Navdatoli / Nagda | Malwa | Malwa ware and settlement evidence |
@@ -60,6 +64,7 @@
 - ✅ Kayatha culture: **2000–1500 BC**; OCP: **2000–1500 BC**.
 - ✅ Malwa culture: **1700–1200 BC**, found at Navdatoli, Eran and Nagda.
 - ✅ Jorwe culture: **1400–700 BC**, associated with Maharashtra.
+- ⚠️ Rice evidence is site-specific: a rice remain or impression does not by itself settle whether the variety was wild or domesticated.
 
 ## 5. UPSC Traps
 
@@ -72,7 +77,7 @@
 
 ## 6. 📰 Current link
 
-📰 **Mehrgarh radiocarbon reappraisal (2025):** a new dating study argued that agricultural practices at Mehrgarh may have begun later than earlier estimates, showing how scientific dating can revise Neolithic chronology.
+⚠️ **Current-link discipline:** Do not cite a “new Mehrgarh date” without the published study. The safe linkage is that radiocarbon calibration and archaeobotany can revise the chronology and character of early food production.
 
 ## 7. Mains angles
 

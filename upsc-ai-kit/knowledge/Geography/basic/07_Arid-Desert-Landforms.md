@@ -14,15 +14,19 @@
 
 ✅ In deserts, wind is the chief agent. It erodes by deflation (lifting/rolling loose material) and abrasion (sand-blasting rock), then deposits sand as dunes and fine dust as loess. Sparse vegetation + dry, loose regolith let wind pick up grains. Coarse sand does the abrading near the ground; fine dust travels far and settles as loess beyond desert margins.
 - ✅ Deflation lowers the land into deflation hollows by blowing away loose sand/dust; a lag of pebbles left behind forms a desert pavement.
-- ✅ Abrasion (wind-driven sand) sculpts zeugen (mushroom/rock-mushroom) and yardangs (streamlined ridges with long axis parallel to the wind, inverted-ship shape).
-- ✅ Ventifacts are wind-faceted pebbles; a three-faced one is a dreikanter. Residual hills are inselbergs; flat-topped uplands are mesas/buttes.
+- ✅ Abrasion and deflation help sculpt **zeugens** (tabular, resistant cap rock over a narrower softer
+  pedestal), pedestal/mushroom rocks and **yardangs** (streamlined ridges parallel to prevailing wind).
+- ✅ Ventifacts are wind-faceted pebbles; a three-faced one is a dreikanter. Inselbergs are isolated
+  residual hills. Mesas and buttes are structurally controlled residuals shaped by combined weathering,
+  runoff and slope retreat—not wind-only forms.
 - ✅ Depositional dunes: crescent-shaped barchans (horns point downwind) and long ridge-like seifs (longitudinal dunes) aligned with the wind.
 - ✅ Loess = extensive deposits of wind-blown fine silt/dust carried far beyond the desert (very fertile).
 
 **Ca Anchor — Greening of the Thar Desert.**
 
 ✅ The Thar shows that a 'desert' is dynamic: aeolian dune landscapes can be partly stabilised/greened by irrigation and land-use change, while other margins still face wind erosion.
-- ✅ Drivers of greening: Indira Gandhi Canal irrigation, ~300% farm expansion and 50-800% urbanisation in some areas (1985-2020).
+- ✅ Drivers of local greening include Indira Gandhi Canal irrigation, groundwater use, farming,
+  settlement growth and rainfall variability; avoid transferring study-area percentage changes to the whole Thar.
 - ✅ Greening stabilises dunes locally, but the arid fringe (E/SE Thar) remains vulnerable to degradation.
 - ✅ Shows the difference between the physical 'sand desert' and productivity-based 'desertification'.
 
@@ -32,13 +36,13 @@
 |---|---|---|
 | ✅ Deflation | Wind blows away loose sand and dust | Deflation hollow; desert pavement lag |
 | ✅ Abrasion | Sand-blasting by wind-driven grains | Zeugen, yardangs, ventifacts, dreikanter |
-| ✅ Yardang | Streamlined wind-eroded ridge | Long axis parallel to wind; inverted-ship form; ratios commonly 3:1 or more in query passage |
-| ✅ Zeugens / rock mushroom | Differential wind abrasion | Mushroom/tabular rock form |
+| ✅ Yardang | Streamlined wind-eroded ridge | Long axis parallel to prevailing wind |
+| ✅ Zeugens | Differential erosion beneath a resistant cap | Tabular cap on a narrower pedestal; not every mushroom rock is a zeugen |
 | ✅ Ventifact / dreikanter | Wind-faceted pebble | Dreikanter has three facets |
 | ✅ Inselberg / mesa | Resistant residual hill / flat-topped upland | Left after surrounding softer material is removed |
 | ✅ Barchan | Crescentic sand dune | Horns point downwind |
 | ✅ Seif | Longitudinal dune | Long ridge aligned with dominant wind |
-| ✅ Loess | Wind-blown fine dust deposited beyond desert margins | Yellow, friable, fertile, porous fine loam rich in lime in query passage |
+| ✅ Loess | Wind-blown fine silt deposited beyond desert margins | Often porous and fertile; colour and carbonate content vary |
 
 ## 3. Study links
 
@@ -58,7 +62,7 @@
 
 **Ca Anchor — Greening of the Thar Desert.**
 - ✅ Thar greening driven mainly by Indira Gandhi Canal irrigation.
-- ✅ It is the world's most densely populated desert region.
+- ✅ It is unusually densely settled for a hot desert, but avoid an uncited world superlative.
 - ✅ Desert extent is dynamic — greening vs fringe degradation.
 
 ## 5. UPSC Traps

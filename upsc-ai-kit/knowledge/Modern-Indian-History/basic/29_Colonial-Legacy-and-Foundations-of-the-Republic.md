@@ -12,7 +12,7 @@
 | Date | Event |
 |---|---|
 | ✅ 14–15 August 1947 | Independence; Nehru's "Tryst with Destiny" speech; Partition dislocation begins |
-| ✅ 1947–48 | ~6 million refugees cross the new borders; ~500,000 killed in communal violence |
+| ✅ 1947–48 | Nearly 6 million refugees enter India from Pakistan; Chandra estimates nearly 500,000 killed in the communal holocaust |
 | ✅ 30 January 1948 | Gandhiji assassinated by Nathuram Godse; RSS banned |
 | ✅ February 1948 | CPI (B.T. Ranadive line) launches insurrectionary "armed struggle" phase |
 | ✅ July 1949 | Ban on the RSS lifted after it accepted a written constitution and loyalty to the flag |
@@ -40,8 +40,8 @@
 
 | Issue at independence | Core fact |
 |---|---|
-| ✅ Refugees | Nearly **6 million** moved across the new borders in 1947–48 |
-| ✅ Partition deaths | Roughly **500,000** killed in communal violence |
+| ✅ Refugees | Nearly **6 million entered India from Pakistan**; this is not the total movement in both directions |
+| ✅ Partition deaths | Chandra's estimate is roughly **500,000**; wider scholarship offers substantially different totals |
 | ✅ Muslims remaining | About **45 million** Muslims stayed on in India |
 | ✅ Literacy (1951) | ~**84% illiterate**; female literacy ~**7.9%** |
 | ✅ Franchise | Colonial franchise ~3% (post-1919), ~15% (post-1935) → **universal adult franchise** in the Republic |
@@ -74,6 +74,7 @@
 - ❌ Goa joined India in 1947. → Goa was liberated only in **December 1961**; Pondicherry was transferred in **1954**.
 - ❌ Gandhi was killed by a Muslim assailant. → He was assassinated by **Nathuram Godse**, a Hindu communal extremist.
 - ❌ Partition ended communal violence. → It **triggered** the largest refugee crisis and communal killings of the era.
+- ❌ Partition casualty figures are exact and uncontested. → Refugee and death estimates vary by source; state the author and avoid false precision.
 
 ## 6. 📰 Current link
 

@@ -23,15 +23,17 @@
 
 ✅ A retreating glacier snout is the visible edge of a shrinking cirque/valley-glacier system — directly linking glacial geomorphology to climate change and water security.
 - ✅ The glacier terminus is the snout (here Gomukh), from which the Bhagirathi (headstream of the Ganga) emerges.
-- ✅ Retreat exposes fresh moraine and pro-glacial ground; the retreat rate has recently slowed (~15-20 m/yr) but continues.
-- ✅ Impact: long-term risk to perennial river flow, and formation of unstable glacial lakes upstream.
+- ✅ Retreat exposes fresh moraine and pro-glacial ground; rates vary by period and measurement method,
+  so quote a dated survey rather than one timeless annual rate.
+- ✅ Hydrological impact is phased: meltwater may first increase, then decline after substantial ice loss;
+  basin rainfall and seasonal snow remain crucial to Himalayan river flow.
 
 ## 2. Key classification / data
 
 | Type | Landform | What it is / diagnostic feature |
 |---|---|---|
 | ✅ Erosional | Cirque / corrie / cwm | Horse-shoe armchair basin at valley head; tarn may occupy it |
-| ✅ Erosional | Arete | Sharp saw-tooth ridge between adjacent glacial valleys; “fish-bone” in French in query passage |
+| ✅ Erosional | Arête | Sharp ridge between adjacent cirques/glacial valleys; French *arête* means ridge/edge |
 | ✅ Erosional | Horn | Pyramidal peak where multiple cirques cut back, e.g. Matterhorn in source note |
 | ✅ Erosional | U-shaped valley / glacial trough | Broad, steep-sided trough produced as ice abrades valley floor and sides |
 | ✅ Erosional | Hanging valley | Tributary valley left above the main trough; waterfalls common |
@@ -59,7 +61,7 @@
 
 **Ca Anchor — Gangotri Glacier Retreat (Gomukh Snout).**
 - ✅ Gangotri snout = Gomukh; source of Bhagirathi -> Ganga.
-- ✅ Retreat ~3.1 km (1936-2020); ongoing due to warming.
+- ✅ Long-term retreat is documented, but distance/rate must be tied to the survey period and method.
 - ✅ Glacier retreat = shrinking valley/cirque glacier (geomorphology + climate).
 
 ## 5. UPSC Traps
@@ -82,7 +84,9 @@
 📰 Glacial landforms explain the high Himalaya's scenery and its water towers — the same glaciers now retreating (Gangotri) and spawning hazardous glacial lakes.
 
 **Ca Anchor — Gangotri Glacier Retreat (Gomukh Snout).**
-📰 The Gangotri glacier — source of the Ganga at the Gomukh snout — has retreated ~3.1 km between 1936 and 2020, a marker of Himalayan warming and a threat to perennial river flow.
+📰 Gangotri's monitored snout retreat is a current cryosphere anchor. Treat the Bhagirathi as the
+headstream emerging at Gomukh and avoid converting glacier retreat directly into a simple,
+immediate “river will cease” claim.
 
 ## 7. Mains angles
 

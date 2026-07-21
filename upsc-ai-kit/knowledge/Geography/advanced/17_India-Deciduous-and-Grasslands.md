@@ -13,18 +13,21 @@
 
 | Indian type | ✅ Rainfall / region | ✅ Species / character |
 |---|---|---|
-| Tropical moist deciduous | **100–200 cm**; Sahyadris, NE peninsula, Himalayan foothills | Teak and sal dominant in returned passage |
-| Tropical dry deciduous | Lower-rainfall monsoon interiors | Sheesham, neem, mahuwa, jamun, acacia, ber, bel in Gangetic examples |
-| Tropical thorn forest | **75–100 cm** in returned passage; peninsular India, Rajasthan, Haryana, Punjab, W UP, Kachchh, MP, Himalayan foothills | Xerophytic thorn/scrub vegetation |
+| Tropical moist deciduous | Roughly **100–200 cm**; Sahyadris, eastern/central India and Himalayan foothills | Teak in much of the peninsula; sal chiefly in northern/eastern belts |
+| Tropical dry deciduous | Roughly **70–100 cm**, with regional overlap | Teak, palas, tendu, axlewood and other drought-deciduous species |
+| Tropical thorn/scrub | Generally **below ~70 cm**, grading through semi-arid margins | Acacia/babul, khejri, ber, euphorbia and grasses |
 | Grasslands | Terai, shola, Banni and other openings | Fire/grazing-maintained open landscapes |
 
 > 🔑 Trap: India’s dry deciduous forests are **not evergreen**; leaf-shedding is the water-saving response.
 
 ## 2. Moist Deciduous, Dry Deciduous & Thorn Forests
 
-✅ Returned Majid Husain passage identifies **tropical moist deciduous forests** as typical monsoon forests with **teak (Tectona grandis)** and **sal (Shorea robusta)** as dominant species, occurring where average annual rainfall is **100–200 cm**. ✅ They occur in the **Sahyadris**, north-eastern parts of the peninsula and along Himalayan foothills.
+✅ Majid Husain identifies tropical moist deciduous forests as typical monsoon forests, but **teak and
+sal are not co-dominant everywhere**: teak is strongest in peninsular/central India, while sal dominates
+many northern and eastern belts., occurring where average annual rainfall is **100–200 cm**. ✅ They occur in the **Sahyadris**, north-eastern parts of the peninsula and along Himalayan foothills.
 
-✅ The **tropical thorny forest** is described as a degraded version of the moist deciduous forest. ✅ It is found where average annual rainfall varies between **75 and 100 cm** and average annual temperature between **16°C and 22.5°C**. ✅ Regions include peninsular India, Rajasthan, Haryana, Punjab, western Uttar Pradesh, Kachchh, Madhya Pradesh and Himalayan foothills.
+✅ Thorn forest may result from climatic aridity and can be intensified by grazing/cutting; it is not
+simply a degraded moist-deciduous forest. It is associated mainly with rainfall below the dry-deciduous belt. and average annual temperature between **16°C and 22.5°C**. ✅ Regions include peninsular India, Rajasthan, Haryana, Punjab, western Uttar Pradesh, Kachchh, Madhya Pradesh and Himalayan foothills.
 
 | Forest type | ✅ Key book facts |
 |---|---|
@@ -34,7 +37,9 @@
 
 ## 3. Grasslands, Fire & Grazing
 
-✅ Existing grounded notes identify **Terai**, **shola grasslands** and **Banni grassland of Kachchh** as important Indian grasslands. ✅ Fire and grazing, as in savanna landscapes, help keep these grasslands/open forests from reverting to closed forest.
+✅ **Terai**, **shola grasslands** and **Banni grassland of Kachchh** are contrasting Indian grassland
+systems. Fire and grazing can maintain some open mosaics, but each grassland has a distinct hydrology,
+climate and management history; “preventing forest reversion” is not a universal explanation.
 
 ⚠️ The ecological fragility comes from a wet-dry regime, grazing pressure, fire misuse, invasive species and soil degradation.
 
@@ -47,8 +52,8 @@
 - ✅ India’s savanna analogue = **dry deciduous forest + thorn scrub + grasslands**.
 - ✅ Tropical moist deciduous forests: **100–200 cm** rainfall; dominant **teak and sal**.
 - ✅ Moist deciduous regions: **Sahyadris**, NE peninsula, Himalayan foothills.
-- ✅ Tropical thorny forests are a degraded version of moist deciduous forest.
-- ✅ Thorn forests: **75–100 cm** rainfall; **16°C–22.5°C** average annual temperature in returned passage.
+- ✅ Thorn/scrub reflects aridity plus land-use pressure; it is not invariably degraded moist deciduous forest.
+- ✅ Rainfall thresholds overlap regionally; use approximate belts rather than rigid universal cut-offs.
 - ✅ Thorn forest regions: peninsular India, Rajasthan, Haryana, Punjab, W UP, Kachchh, MP, Himalayan foothills.
 - ✅ Deciduous trees shed leaves in dry season.
 - ✅ Grasslands include Terai, shola and Banni examples in the source notes.
@@ -57,13 +62,16 @@
 ## 6. UPSC Traps
 
 - ❌ Dry deciduous forests are evergreen → **They are deciduous and shed leaves in the dry season.**
-- ❌ Thorn forests occur in the wettest parts of India → **They occur in drier belts, with 75–100 cm rainfall in returned passage.**
+- ❌ Thorn forests occur in the wettest parts of India → **They occur in arid/semi-arid belts, generally
+  drier than the dry-deciduous zone; thresholds overlap regionally.**
 - ❌ Banni and Terai grasslands are the same type → **Terai is humid tall wet grassland; Banni is arid/saline Kachchh grassland.**
 - ❌ Fire is always external to savanna-type landscapes → **Fire is a characteristic ecological force but becomes damaging if unmanaged.**
 
 ## 7. 📰 Current link
 
-📰 **Aravalli Green Wall Project:** Launched in **2023** by **MoEFCC**, the project aims to create a green buffer along the **~1,400 km Aravalli range** across **Haryana, Rajasthan, Gujarat and Delhi**, with a **~5 km buffer**, to check the eastward spread of the Thar desert. It supports India’s commitment to restore **26 million ha** of degraded land by **2030** (UNCCD COP14 / Bonn Challenge context) and complements ISRO Desertification Atlas findings that about **~30%** of India’s land is degraded.
+📰 **Aravalli Green Wall initiative (announced 2023):** use it as a dryland-restoration anchor across
+the Aravalli landscape. Avoid reading “green wall” as a single uniform plantation strip: native-species
+restoration, water conservation, grazing management and connectivity are more important than a fixed width.
 
 ## 8. Mains angles
 

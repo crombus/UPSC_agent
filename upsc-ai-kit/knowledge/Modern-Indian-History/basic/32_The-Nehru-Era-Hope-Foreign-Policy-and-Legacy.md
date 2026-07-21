@@ -32,7 +32,7 @@
 
 **Foundation — achievements were real, but 1962 exposed the limits.**
 
-- ✅ Institutions of science (**Homi Bhabha**, Atomic Energy), higher education and industry expanded rapidly.
+- ✅ Institutions of science and education expanded: the **Atomic Energy Commission (1948)**, CSIR laboratories, IITs, universities and technical education supported the planned-development strategy, though mass literacy remained a major failure.
 - ✅ **Panchsheel (1954)** and the **Bandung Conference (1955)** made India a leader of the newly decolonising world.
 - ✅ The **1962 India–China war** was a shock that damaged Nehru's prestige and non-alignment's optimism.
 - ⚠️ Nehru is remembered as the "**architect of modern India**" — democracy, secularism, planning and a scientific temper — despite organisational weaknesses.
@@ -47,6 +47,7 @@
 | ✅ Second Plan | **1956–61**, Mahalanobis heavy-industry model |
 | ✅ Non-alignment milestones | Panchsheel (1954), Bandung (1955), Belgrade/NAM (1961) |
 | ✅ Kerala 1957 | First elected communist government (E.M.S. Namboodiripad) |
+| ✅ Education/science | CSIR laboratories, Atomic Energy, IITs and expanded technical/higher education; primary education and literacy lagged |
 | ✅ 1962 | India–China war — Nehru's biggest setback |
 
 ## 3. Study links
@@ -85,3 +86,4 @@
 - ⚠️ GS-1: "The Nehru era laid the institutional foundations of modern India." Discuss.
 - ⚠️ GS-1: Examine non-alignment as an active, not passive, foreign policy.
 - ⚠️ GS-1: Assess the achievements and limitations of Nehruvian planning up to 1964.
+- ⚠️ GS-1 (2025 PYQ): Trace early consolidation through **polity, economy, education and international relations** rather than writing only about territorial integration.

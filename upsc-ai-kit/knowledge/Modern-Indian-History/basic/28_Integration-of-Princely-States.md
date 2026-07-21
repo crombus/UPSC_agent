@@ -1,7 +1,7 @@
 # Integration of the Princely States & the Making of the Republic — MUST-DO
 
 > **Subject:** History (Modern India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Bipin Chandra, *Modern India* — Chapter XV, "Struggle for Swaraj" and standard post-1947 nation-building knowledge.
+> **Grounded in:** Bipan Chandra, Mridula Mukherjee & Aditya Mukherjee, *India After Independence, 1947–2000* — Ch. 6–7 (initial years and accession of princely states).
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/28_Integration-of-Princely-States.md`. Chronology spine: `00_Master-Chronology.md`.*
 
@@ -12,10 +12,10 @@
 | Date | Event |
 |---|---|
 | ✅ 15 August 1947 | British paramountcy over princely states lapses at independence |
-| ⚠️ 1947 | Patel and V.P. Menon secure accessions through the States Department |
-| ⚠️ October 1947 | Pakistani tribal invasion of Kashmir leads to Instrument of Accession and Indian military aid |
-| ⚠️ February 1948 | Junagadh plebiscite favours accession to India |
-| ⚠️ September 1948 | Hyderabad integrated after **Operation Polo** / Police Action |
+| ✅ 1947 | Patel and V.P. Menon secure accessions through the States Department |
+| ✅ October 1947 | Tribal invasion from Pakistan leads Kashmir's ruler to sign the Instrument of Accession and India to send troops |
+| ✅ February 1948 | Junagadh plebiscite favours accession to India |
+| ✅ September 1948 | Hyderabad integrated after **Operation Polo** / Police Action |
 | ⚠️ 26 November 1949 | Constitution of India adopted by the Constituent Assembly |
 | ⚠️ 26 January 1950 | Constitution comes into force; India becomes a sovereign democratic republic |
 | ⚠️ 1956 onward | Linguistic reorganisation and later reforms continue the nation-building process |
@@ -24,9 +24,10 @@
 
 **Foundation — political unity had to be built after legal independence.**
 
-- ⚠️ At independence there were about **565 princely states**, and British paramountcy over them **lapsed** rather than passing automatically to India.
-- ⚠️ **Sardar Vallabhbhai Patel**, as Home and States Minister, and **V.P. Menon**, through the States Department, led the integration process.
-- ⚠️ The **Instrument of Accession** allowed states to accede on three subjects: **Defence, External Affairs and Communications**.
+- ✅ At independence there were **more than 560 princely states**; exact counts vary with the classification of estates and states. British paramountcy **lapsed** rather than passing automatically to India.
+- ✅ **Sardar Vallabhbhai Patel**, as Home and States Minister, and **V.P. Menon**, through the States Department, led the integration process.
+- ✅ The **Instrument of Accession** allowed states to accede on three subjects: **Defence, External Affairs and Communications**.
+- ✅ Chandra presents integration as a **two-stage process**: rapid accession by August 1947, followed by merger, administrative consolidation and democratisation.
 - ⚠️ Patel's method is often described as an appeal to patriotism backed by firm pressure, or an **"iron fist in a velvet glove"**.
 
 **Foundation — Junagadh, Hyderabad and Kashmir were the key problem states.**
@@ -40,7 +41,7 @@
 
 | Issue | Core fact |
 |---|---|
-| ⚠️ Number of states | About 565 princely states existed at independence |
+| ✅ Number of states | More than 560; totals such as 562/565 vary by classification |
 | ✅ Paramountcy | Lapsed with British withdrawal; not transferred automatically |
 | ⚠️ Key leaders | Patel and V.P. Menon drove accession and merger |
 | ⚠️ Instrument of Accession | Defence, External Affairs, Communications |
@@ -57,7 +58,7 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ⚠️ Around **565 princely states** existed at the time of independence.
+- ✅ There were **more than 560 princely states**; do not treat 562 and 565 as rival historical events—counts differ by classification.
 - ✅ **British paramountcy lapsed**; it was not transferred to India or Pakistan.
 - ⚠️ **Patel** and **V.P. Menon** are the key names for integration.
 - ⚠️ The **Instrument of Accession** covered **Defence, External Affairs and Communications**.

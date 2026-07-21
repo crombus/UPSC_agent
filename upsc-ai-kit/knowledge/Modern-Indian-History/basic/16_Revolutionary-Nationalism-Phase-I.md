@@ -11,12 +11,12 @@
 
 | Date | Event |
 |---|---|
-| ✅ 1897 | Chapekar brothers assassinated Rand in Poona during plague administration anger |
+| ✅ 1897 | Chapekar brothers killed plague commissioner W.C. Rand and Lt Ayerst in Poona |
 | ✅ 1907 | Madame Bhikaji Cama unfurled an Indian nationalist flag at Stuttgart |
 | ✅ 1908 | Muzaffarpur attack on Kingsford; Khudiram Bose and Prafulla Chaki involved; Alipore case followed |
 | ✅ 1909 | Madan Lal Dhingra killed Curzon-Wyllie in London |
 | ✅ 1912 | Delhi Conspiracy: bomb thrown at Viceroy Hardinge; Rash Behari Bose and Sachin Sanyal linked |
-| ✅ 1913 | Ghadar Party founded in San Francisco |
+| ✅ 1913 | Hindi Association of the Pacific Coast/Ghadar organisation formed; San Francisco became its headquarters and printing centre |
 | ✅ 1914 | Komagata Maru incident sharpened overseas Indian anger |
 | ✅ 1915 | Ghadar-linked mutiny plan was foiled by British intelligence |
 
@@ -61,10 +61,10 @@
 - ✅ **Khudiram Bose** and **Prafulla Chaki** were linked with the **Muzaffarpur attack of 1908** targeting Kingsford.
 - ✅ **Alipore Bomb Case** followed revolutionary activity in Bengal and involved the Aurobindo-Barindra circle.
 - ✅ **Rash Behari Bose** and **Sachin Sanyal** were linked with the **Delhi Conspiracy of 1912** against Hardinge.
-- ✅ **Chapekar brothers** assassinated **Rand** in **1897** in Poona.
+- ✅ **Chapekar brothers** killed **W.C. Rand and Lt Ayerst** in **1897** in Poona.
 - ✅ **India House** in London was associated with **Shyamji Krishna Varma**.
 - ✅ **Madan Lal Dhingra** killed **Curzon-Wyllie** in **1909** in London.
-- ✅ **Ghadar Party** was founded in **1913** in **San Francisco**.
+- ✅ **Ghadar movement (1913)** grew from the Hindi Association of the Pacific Coast; **San Francisco's Yugantar Ashram** became its headquarters and produced the *Ghadr* paper.
 - ✅ **Komagata Maru** incident occurred in **1914**.
 
 ## 5. UPSC Traps

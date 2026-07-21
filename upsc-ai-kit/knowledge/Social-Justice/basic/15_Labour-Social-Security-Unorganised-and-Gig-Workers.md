@@ -2,14 +2,12 @@
 
 > **Subject:** Social Justice | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II;
 > cross-reference GS-III (labour-market reform — see `Economy/basic/22`).
-> **Core area:** Code on Social Security, 2020; gig and platform worker definitions;
-> e-Shram; BOCW welfare; PM-SYM; social-security architecture for informal work.
-> **Grounded in:** Code on Social Security, 2020 (in force 21 Nov 2025); Social
-> Security (Central) Rules, 2026 (notified 8 May 2026, G.S.R. 344(E)) — the gig/
-> platform-worker aggregator-contribution and registration framework is now
-> operational; e-Shram portal (MoLE, 2021); Building and Other Construction
-> Workers Act, 1996 (now subsumed); PM-SYM (2019); audited 2024 GS-III PYQ on
-> Labour Codes (cross-link only).
+> **Core area:** Code on Social Security, 2020; enacted-versus-commenced labour-code
+> status; gig/platform-worker definitions; e-Shram; BOCW welfare; PM-SYM.
+> **Grounded in:** Code on Social Security, 2020 (enacted, with provision-specific
+> commencement required); Unorganised Workers' Social Security Act, 2008; BOCW Acts,
+> 1996; e-Shram (MoLE); PM-SYM (2019); India Code and official Gazette status as at
+> 21 July 2026; audited 2024 GS-III Labour Codes PYQ (cross-link only).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md`.*
 
@@ -18,231 +16,173 @@
 ## 1. Visual foundation
 
 ```text
-SOCIAL-SECURITY ARCHITECTURE: PRE-CODE vs POST-CODE SHIFT
+SOCIAL-SECURITY ARCHITECTURE: ENACTMENT IS NOT COMMENCEMENT
 
-PRE-CODE (FRAGMENTED)                    POST-CODE (UNIFIED)
-┌────────────────────────────┐           ┌────────────────────────────┐
-│ BOCW Act 1996 (cess boards)│           │ CODE ON SOCIAL SECURITY,   │
-│ ESI Act 1948 (ESIC)        │           │ 2020 (in force 21 Nov 2025)│
-│ EPF Act 1952 (EPFO)        │           │ Consolidates 9 social-     │
-│ Maternity Benefit Act 1961 │           │ security laws including    │
-│ Payment of Gratuity 1972   │           │ BOCW, ESI, EPF, Gratuity   │
-│ Unorganised Workers Act 08 │           │                            │
-│ + multiple state schemes   │           │ FIRST STATUTORY DEFINITION │
-│                            │           │ of GIG WORKER and PLATFORM │
-│ NO statutory definition    │           │ WORKER                     │
-│ of gig/platform worker     │           │                            │
-└────────────────────────────┘           │ Aggregator contribution    │
-         |                               │ mechanism OPERATIONAL from │
-         |                               │ 8 May 2026 (Rules, 2026):  │
-         v                               │ 1-2% of annual turnover,   │
-  Occupation-specific,                   │ capped at 5% of payouts to │
-  non-portable, fragmented               │ gig/platform workers       │
-                                         │                            │
-                                         │ Social Security Fund for   │
-                                         │ unorganised/gig/platform   │
-                                         │ workers                    │
-                                         └────────────────────────────┘
-                                                      |
-                                                      v
-                                         PORTABLE, UNIFIED, OPERATIONAL
-                                         Registration on eShram + worker
-                                         eligibility: 90 days with one
-                                         aggregator OR 120 days across
-                                         multiple aggregators (prior FY)
-
-2024 GS-III PYQ on Labour Codes (merits/demerits/progress) is analysed in
-Economy/basic/22 and Economy/advanced/22 — cross-link there for the macro
-labour-market-reform debate. This file focuses on SOCIAL-SECURITY ENTITLEMENT
-content specific to unorganised/gig/platform workers.
+CODE ON SOCIAL SECURITY, 2020
+(enacted; definitions + enabling framework)
+                    |
+                    v
+CHECK THE STATUS LADDER
+enacted -> rules/scheme notified -> provision commenced
+        -> contribution collected -> benefit delivered
+                    |
+      no all-India commencement / no verified
+      2026 gig-worker Rules claim as at 21 Jul 2026
+                    |
+                    v
+CURRENT DELIVERY ROUTES
+e-Shram registration | BOCW welfare boards | EPFO/ESIC
+PM-SYM / State schemes | legacy labour laws where still in force
+                    |
+                    v
+OUTCOME TEST
+portable, adequate and actually accessible protection
+for informal, migrant, gig and platform workers
 ```
 
-**Core proposition:** ✅ The Code on Social Security, 2020 (in force 21 Nov 2025),
-together with the Social Security (Central) Rules, 2026 (notified 8 May 2026), has
-made India's gig/platform-worker social-security framework operational — a structural
-shift from fragmented, occupation-specific welfare boards toward a unified, portable
-architecture with the first statutory definitions of "gig worker" and "platform
-worker," a notified aggregator-contribution mechanism, and a defined worker-eligibility
-threshold, extending life, disability, health, maternity and old-age protection to
-informal-sector workers.
+**Core proposition:** ✅ The Code on Social Security, 2020 is an enacted framework that
+defines gig and platform workers and provides for schemes/funding mechanisms. As at
+21 July 2026, do not call the Code or a supposed “Social Security (Central) Rules,
+2026” a universally operational national gig-worker benefit system without a specific
+commencement and scheme notification. Existing laws, boards and schemes remain essential
+to actual protection.
 
 ## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Code on Social Security, 2020** | One of the four Labour Codes, consolidating 9 central social-security laws into a single statute; in force from 21 Nov 2025; covers EPF, ESI, gratuity, maternity benefit, BOCW welfare and provisions for unorganised/gig/platform workers. |
-| ✅ **Gig worker (Code definition)** | A person who performs work or participates in a work arrangement and earns from such activities outside of a traditional employer-employee relationship — the first statutory definition in Indian labour law. |
-| ✅ **Platform worker (Code definition)** | A person engaged in or undertaking platform work, i.e., a work arrangement outside a traditional employer-employee relationship in which organisations or individuals use an online platform to access other organisations or individuals to solve specific problems or provide specific services in exchange for payment. |
-| ✅ **Aggregator (Code definition)** | A digital intermediary or marketplace that, by means of application or platform, connects a buyer/user of a service with a seller/provider of that service — specified categories include ride-hailing, food/grocery delivery, logistics, content/media services; each notified aggregator category must contribute to the Social Security Fund and register itself and its workers on the eShram portal. |
-| ✅ **Social Security Fund (Code provision)** | A fund established for unorganised, gig and platform workers, financed by government appropriations and aggregator contributions, from which life/disability cover, health/maternity benefits and old-age protection are provided; the contribution mechanism is operational under the Social Security (Central) Rules, 2026 (notified 8 May 2026). |
-| ✅ **Aggregator contribution rate (notified, 2026)** | Under the Social Security (Central) Rules, 2026, aggregators must contribute 1-2% of their annual turnover (excluding taxes, cess and surcharge), subject to a cap of 5% of the total amount paid or payable to gig/platform workers in that year — an operational, notified rate, not merely an enabling provision. |
-| ✅ **Worker eligibility threshold (notified, 2026)** | A gig or platform worker qualifies for Social Security Fund benefits if engaged for at least 90 days with a single aggregator, or at least 120 days cumulatively across multiple aggregators, in the preceding financial year. |
-| ✅ **e-Shram (2021)** | National Database of Unorganised Workers, launched by the Ministry of Labour and Employment; provides a portable e-Shram card/Unique Account Number as the single registration point for workers and, since the 2026 Rules, the mandatory registration portal for aggregators and their gig/platform workers. |
-| ✅ **BOCW Welfare Boards** | State-level welfare boards for building and other construction workers, funded by a cess on construction cost under the earlier BOCW Act, 1996; functions now subsumed within the Code on Social Security's unified framework but existing boards continue. |
-| ✅ **PM-SYM (2019)** | Pradhan Mantri Shram Yogi Maandhan — a voluntary contributory pension scheme for unorganised workers aged 18-40 with monthly income below a specified threshold; requires matching government contribution; guarantees ₹3,000/month pension from age 60. |
+| ✅ **Code on Social Security, 2020** | One of the four Labour Codes, consolidating nine central social-security laws in its enacted text. Section 1 requires Central Government commencement notification, potentially provision by provision; enactment is not proof of nationwide operational replacement of legacy laws. |
+| ✅ **Gig worker (Code definition)** | A person who performs work or participates in a work arrangement and earns from activities outside the traditional employer-employee relationship. The definition gives statutory recognition in the Code; it does not itself guarantee a benefit. |
+| ✅ **Platform worker (Code definition)** | A person engaged in platform work outside a traditional employer-employee relationship, using an online platform to access organisations/individuals for specific services in exchange for payment. |
+| ✅ **Aggregator (Code definition)** | A digital intermediary/marketplace connecting a service user with a provider through an application or platform. The Code identifies aggregator categories for a future social-security contribution architecture. |
+| ✅ **Aggregator contribution in the enacted Code** | Section 114 provides a statutory framework for a Central-Government-notified rate: at least 1% and no more than 2% of annual turnover, subject to a cap of 5% of the amount paid/payable to gig and platform workers. This range is not evidence that a nationwide contribution is being collected or benefits disbursed. |
+| ✅ **e-Shram (2021)** | Ministry of Labour and Employment database/registration portal for unorganised workers, issuing a UAN-based card. It is a delivery and convergence tool, not an automatic pension, insurance or statutory gig-worker entitlement. |
+| ✅ **BOCW Welfare Boards** | State welfare boards under the Building and Other Construction Workers legal framework, funded principally through the construction-welfare cess and delivering State-notified benefits to registered workers. |
+| ✅ **PM-SYM (2019)** | Pradhan Mantri Shram Yogi Maandhan: voluntary contributory pension route for eligible unorganised workers; the worker and Government make matching contributions, with ₹3,000 monthly pension after age 60 subject to scheme conditions. |
 
-## 3. How the social-security mechanism works under the Code
+## 3. How the social-security mechanism works
 
-1. **Statutory definitions extend coverage:** The Code defines gig and platform workers
-   for the first time, bringing them within the potential ambit of social-security
-   entitlements that were previously limited to employer-employee relationships.
-2. **Aggregator contribution mechanism (operational):** Under the Social Security
-   (Central) Rules, 2026 (notified 8 May 2026), aggregators contribute 1-2% of
-   their annual turnover (excluding taxes, cess and surcharge), capped at 5% of the
-   amount paid to gig/platform workers, into the Social Security Fund. This is a
-   notified, operational rate — not merely an enabling provision awaiting Rules.
-3. **Social Security Fund (operational):** Benefits — life and disability cover, health
-   and maternity benefits, old-age protection, provident fund/ESI extension where
-   applicable — are funded from the Social Security Fund; the 2026 Rules make the
-   contribution and worker-eligibility framework (90/120-day thresholds) operational.
-4. **Registration and portability:** e-Shram portal provides the single registration
-   point for unorganised workers and, since the 2026 Rules, the mandatory portal on
-   which aggregators must register themselves and their gig/platform workers — sharing
-   details of existing workers within 45 days of the Rules taking effect, and
-   registering new workers on an ongoing (real-time/daily) basis; the Unique Account
-   Number enables convergence with schemes (PM-SYM, PM-JAY, etc.) and portability
-   across states/occupations.
-5. **Existing architecture continues:** EPFO, ESIC and BOCW Welfare Boards continue to
-   operate under the Code's unified framework; construction workers remain covered by
-   state BOCW boards funded by the cess mechanism.
+1. **Recognise the worker and the legal status:** A gig/platform worker may fit the Code
+   definitions, but ask separately whether the relevant Code provision has commenced and
+   whether a scheme/rate/benefit rule exists.
+2. **Use current delivery routes:** An unorganised worker can register on e-Shram and may
+   separately enrol in a scheme such as PM-SYM, PM-JAY or a State welfare board if eligible.
+   Registration is a gateway, not benefit receipt.
+3. **Maintain occupation-specific protection:** Construction workers use BOCW registration
+   and State boards under the current legacy framework; EPFO/ESIC protect eligible formal
+   workers through their respective laws and institutions.
+4. **Understand the prospective Code architecture:** The enacted Code contemplates schemes
+   for unorganised, gig and platform workers and an aggregator contribution mechanism.
+   A future operational scheme needs notified commencement, administrative collection,
+   worker registration, claims rules and benefit delivery.
+5. **Measure effective protection:** Test portability across States/platforms, awareness,
+   documentation, contribution collection, grievance redress and whether the worker
+   receives health, disability, maternity, old-age or accident support in practice.
 
 ## 4. Institutions and tools
 
-- ✅ **Code on Social Security, 2020 (in force 21 Nov 2025):** Central legislation;
-  consolidates EPF, ESI, BOCW, gratuity, maternity, unorganised-worker and gig/
-  platform-worker provisions.
-- ✅ **Social Security (Central) Rules, 2026 (notified 8 May 2026, G.S.R. 344(E)):**
-  Operationalises the Code for gig/platform workers — notified aggregator-
-  contribution rate and cap, the 90/120-day worker-eligibility threshold, and
-  mandatory aggregator/worker registration on eShram.
-- ✅ **e-Shram portal (MoLE, 2021):** National database of unorganised workers; no
-  fixed cumulative registration figure is asserted here because the portal's count
-  rises continuously; issues an e-Shram card linked to Aadhaar and bank account, and
-  is now also the mandatory aggregator/gig-worker registration portal under the
-  2026 Rules.
-- ✅ **EPFO and ESIC:** Continue as implementing bodies for provident fund and health
-  insurance respectively under the Code's unified framework.
-- ✅ **BOCW Welfare Boards (state-level):** Continue to disburse construction-worker
-  benefits (accident, pension, education) from cess funds.
-- ✅ **PM-SYM (2019):** Voluntary contributory pension; worker contributes ₹55-200/month
-  (age-dependent); government matches contribution; pension of ₹3,000/month from age 60.
-- ⚠️ Cross-link `Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md`
-  for the 2024 GS-III PYQ on Labour Codes and the macro labour-market-reform debate.
+- ✅ **Code on Social Security, 2020:** enacted central framework. As at 21 July 2026,
+  no all-India commencement notification or verified “Social Security (Central) Rules,
+  2026” should be asserted as operationalising a national 1–2% gig-worker levy.
+- ✅ **Unorganised Workers' Social Security Act, 2008:** legacy statutory framework that
+  remains relevant while the Code's replacement provisions are not generally commenced.
+- ✅ **e-Shram portal (MoLE, 2021):** national unorganised-worker database/UAN route;
+  cumulative registration changes continuously and is not an entitlement count.
+- ✅ **EPFO and ESIC:** current implementing institutions for provident fund and employee
+  insurance where their applicable legacy statutes cover the establishment/worker.
+- ✅ **BOCW Welfare Boards:** State-level registration and welfare delivery for construction
+  workers under the 1996 framework and cess funding.
+- ✅ **PM-SYM:** voluntary contributory pension; separate enrolment is required.
 
 ## 5. Indian applications and examples
 
-- ⚠️ A food-delivery rider working for an app-based aggregator is a "platform worker"
-  under the Code; the aggregator must now contribute 1-2% of its annual turnover
-  (capped at 5% of payouts to such workers) to the Social Security Fund under the
-  2026 Rules, and must have registered the rider on eShram.
-- ⚠️ A construction worker registered with the state BOCW board can access accident
-  compensation and education assistance for children; the board is funded by the
-  construction-cess mechanism.
-- ⚠️ An unorganised worker who registers on e-Shram but does not separately enrol in
-  PM-SYM does not automatically receive pension — registration is a gateway, not an
-  entitlement by itself; similarly, a gig worker must cross the notified 90/120-day
-  engagement threshold to qualify for Social Security Fund benefits.
+- ⚠️ A food-delivery rider may meet the Code's platform-worker definition. That fact alone
+  does not prove a current national Fund benefit, a 90/120-day eligibility threshold or a
+  collected aggregator levy; each requires a valid operational source.
+- ⚠️ A construction worker registered with a State BOCW board can seek that board's
+  State-notified accident, education or pension support. The benefit depends on
+  registration, contribution/cess administration and State rules.
+- ⚠️ An e-Shram registrant who does not separately meet a scheme's eligibility conditions
+  does not automatically receive a PM-SYM pension, health insurance or cash transfer.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ The Code on Social Security, 2020, came into force on 21 November 2025 (with the
-  other three Labour Codes), consolidating 29 central labour laws across the four Codes.
-- ✅ "Gig worker" and "platform worker" are statutorily defined for the first time in
-  Indian labour law by the Code on Social Security, 2020.
-- ✅ The Social Security (Central) Rules, 2026, notified 8 May 2026, made the
-  aggregator-contribution mechanism operational: 1-2% of annual turnover (excluding
-  taxes/cess/surcharge), capped at 5% of payouts to gig/platform workers.
-- ✅ A gig/platform worker qualifies for Social Security Fund benefits after 90 days
-  with a single aggregator or 120 days across multiple aggregators in the preceding
-  financial year.
-- ✅ e-Shram portal was launched in 2021 by the Ministry of Labour and Employment.
-- ✅ PM-SYM is a voluntary contributory pension scheme guaranteeing ₹3,000/month pension
-  from age 60 for eligible unorganised workers.
+- ✅ The Code on Social Security, 2020 is enacted, but Section 1 makes commencement
+  notification-dependent; do not equate enactment with universal commencement.
+- ✅ The Code contains statutory definitions of “gig worker”, “platform worker” and
+  “aggregator”.
+- ✅ Section 114 contains the 1–2% annual-turnover contribution range and 5% payout cap;
+  it does not by itself establish a verified operational national levy/benefit system.
+- ✅ e-Shram is a registration database/UAN route, not an automatic social-security
+  benefit.
+- ✅ PM-SYM is a voluntary contributory pension route with ₹3,000 monthly pension after
+  age 60 for eligible enrollees.
 
 ## 7. UPSC traps
 
-- ❌ The four Labour Codes have not yet come into force. -> All four Codes came into force
-  on 21 Nov 2025.
-- ❌ Gig workers were covered by the erstwhile ESI Act. -> The ESI Act applied to
-  employees in establishments; gig workers were outside its scope until the Code's new
-  definitions extended coverage.
-- ❌ e-Shram registration automatically provides pension benefits. -> e-Shram is a
-  registration database; pension requires separate enrolment in PM-SYM or similar schemes.
-- ❌ The aggregator-contribution percentage remains unnotified/enabling only. -> The
-  Social Security (Central) Rules, 2026 (8 May 2026) notified an operational rate:
-  1-2% of annual turnover, capped at 5% of payouts to gig/platform workers.
-- ❌ Every registered gig worker is automatically eligible for Social Security Fund
-  benefits. -> Eligibility requires 90 days' engagement with a single aggregator, or
-  120 days across multiple aggregators, in the preceding financial year.
+- ❌ All four Labour Codes came into force nationwide on 21 November 2025. -> Enactment
+  and provision-specific commencement are distinct. Verify the Gazette notification;
+  do not make this all-India assertion as at 21 July 2026.
+- ❌ “Social Security (Central) Rules, 2026” notified a universal 1–2% levy, 90/120-day
+  test and mandatory e-Shram registration. -> No verified official notification supports
+  that bundled claim. The 1–2% range/5% cap is in the enacted Code; 90/120-day rules must
+  not be invented.
+- ❌ e-Shram registration automatically provides pension and health insurance. -> It is a
+  registration/convergence route; benefits require the relevant scheme and eligibility.
+- ❌ BOCW boards were already replaced nationwide by the Code. -> Their current legal/
+  operational status follows commencement notifications; the 1996 framework remains
+  relevant where the replacement is not commenced.
 
 ## 8. 📰 Current anchor
 
-- 📰 The four Labour Codes came into force on 21 Nov 2025. The Social Security
-  (Central) Rules, 2026, notified on 8 May 2026 (G.S.R. 344(E)), made the gig/
-  platform-worker aggregator-contribution mechanism (1-2% of turnover, capped at
-  5% of payouts) and the 90/120-day worker-eligibility threshold operational, and
-  require aggregators to register on eShram and share existing-worker details
-  within 45 days of the Rules taking effect. No fixed e-Shram registration count
-  is asserted here because the portal's cumulative count changes continuously;
-  the durable facts are the commencement date, the statutory definitions and the
-  now-operational contribution and eligibility framework.
-- ⚠️ The 2024 GS-III Mains question on Labour Codes (merits/demerits/progress) is
-  analysed in `Economy/basic/22` and `Economy/advanced/22`; this file supplies the
-  social-security-entitlement depth that a full answer on the Code on Social Security
-  would need.
+- 📰 **Status check (21 July 2026):** Cite the Code as enacted; distinguish this from
+  commencement, notified scheme/rules, contribution collection and benefit delivery.
+  Official India Code/Gazette checks do not support a nationwide operational claim based
+  on a purported 8 May 2026 central-rule notification, a 90/120-day threshold or a
+  mandatory aggregator e-Shram registration requirement.
+- 📰 e-Shram and welfare-board counts are dynamic administrative outputs. Use a dated
+  portal value only alongside a measure of actual benefit access and portability.
 
 ## 9. PYQ application
 
-- ⚠️ 2024 GS-III PYQ (15 marks): "Discuss the merits and demerits of the four 'Labour
-  Codes' in the context of labour market reforms in India. What has been the progress so
-  far in this regard?" — analysed in depth in `Economy/basic/22` and `Economy/advanced/22`.
-  This file (Topic 15) provides the social-security-entitlement content specific to the
-  Code on Social Security: gig/platform worker definitions, aggregator contribution,
-  Social Security Fund, e-Shram, PM-SYM.
+- ⚠️ The 2024 GS-III question on Labour Codes is analysed in `Economy/basic/22` and
+  `Economy/advanced/22`. For a GS-II social-security answer, first state the legal
+  status correctly, then explain worker recognition, current delivery routes and the
+  gap between a database/Code and actual protection.
 
 ## 10. Mains angles
 
-- ⚠️ Emphasise the structural shift: from fragmented, occupation-specific boards to a
-  unified, portable architecture with explicit gig/platform coverage, now operational
-  under the Social Security (Central) Rules, 2026.
-- ⚠️ Flag implementation challenges that persist even though the legal framework is
-  operational: aggregator registration/compliance completeness, enforcement capacity,
-  risk of cost pass-through to workers/consumers, cross-state/cross-aggregator
-  portability of benefits, and the algorithmic-management context in which gig work
-  occurs.
-- ⚠️ Connect to the rights-vs-charity framing (Topic 01): the Code and its 2026 Rules
-  create an operational statutory entitlement, but realisation still depends on
-  registration completeness and last-mile delivery — the gap between formal
-  entitlement and actual access.
+- ⚠️ Lead with the status ladder: enacted Code -> notification/commencement -> scheme ->
+  collection -> individual benefit. This avoids the common error of reporting a proposal
+  as a delivered entitlement.
+- ⚠️ Distinguish worker classification (gig/platform), registration (e-Shram), scheme
+  enrolment (PM-SYM/insurance) and benefit receipt.
+- ⚠️ Explain the real policy gap: short-tenure workers, multiple platforms, migrants,
+  accident cover, income volatility, grievance redress and bargaining asymmetry.
 
-> **Answer thesis:** The Code on Social Security, 2020, together with the Social
-> Security (Central) Rules, 2026 (notified 8 May 2026), has made India's gig/platform-
-> worker social-security architecture operational — a notified aggregator-contribution
-> rate, a defined worker-eligibility threshold and mandatory eShram registration — but
-> converting this operational entitlement into actual benefit delivery still depends on
-> registration completeness, enforcement capacity and correcting the structural
-> bargaining asymmetry of algorithmically managed work.
+> **Answer thesis:** India has enacted a forward-looking social-security framework for
+> gig and platform workers, including definitions and an aggregator-contribution design,
+> but an enacted framework is not the same as a commenced, funded and delivered benefit.
+> Current protection still depends on e-Shram-enabled convergence, legacy labour/welfare
+> institutions and separately enrolled schemes; reform must convert recognition into
+> portable, enforceable and measurable social security.
 
 ## 11. Probable questions
 
-- ⚠️ **Prelims:** Which Labour Code provides the first statutory definition of "gig
-  worker" and "platform worker" in Indian labour law?
-- ⚠️ **Prelims:** Under the Social Security (Central) Rules, 2026, what is the notified
-  aggregator-contribution rate and cap, and the worker-eligibility threshold, for
-  gig/platform-worker social-security benefits?
-- ⚠️ **Mains (10 marks):** Examine the provisions of the Code on Social Security, 2020,
-  and the Social Security (Central) Rules, 2026, for extending social-security coverage
-  to gig and platform workers.
-- ⚠️ **Mains (15 marks):** "India's social-security architecture for unorganised workers
-  has shifted from fragmented occupation-specific boards to a unified portable model."
-  Discuss with reference to the Code on Social Security and e-Shram.
+- ⚠️ **Prelims:** What is the distinction between the Code on Social Security's statutory
+  1–2% aggregator-contribution range and an operational notified levy?
+- ⚠️ **Mains (10 marks):** Explain why commencement, scheme notification and benefit
+  delivery must be distinguished while assessing the Code on Social Security, 2020.
+- ⚠️ **Mains (15 marks):** “Registration of an unorganised worker is necessary but not
+  sufficient for social security.” Discuss with reference to e-Shram, welfare boards
+  and gig/platform workers.
 
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md`.
 - ✅ `Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` —
-  2024 GS-III PYQ, Labour Codes overview, commencement date (21 Nov 2025).
-- ✅ `basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md` —
-  rights-vs-charity framing; delivery gap.
-- ✅ `Governance/basic/13_Public-Finance-and-Service-Delivery-Tools.md` — DBT/JAM/PFMS
-  for benefit delivery to gig/platform workers.
+  Labour Codes overview and the 2024 GS-III PYQ.
+- ✅ `basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md` — status
+  ladder, entitlement/access distinction and delivery gap.
+- ✅ `Governance/basic/13_Public-Finance-and-Service-Delivery-Tools.md` — fund-flow and
+  benefit-delivery architecture.
