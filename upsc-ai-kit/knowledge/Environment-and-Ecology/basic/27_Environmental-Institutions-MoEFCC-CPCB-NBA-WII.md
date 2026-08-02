@@ -41,6 +41,12 @@ identification.
 | ✅ **WCCB** | Wildlife Crime Control Bureau — statutory, multi-disciplinary body coordinating action against organised wildlife crime. |
 | ✅ **FSI** | Forest Survey of India — conducts periodic forest-cover assessment (India State of Forest Report). |
 | ✅ **BSI / ZSI** | Botanical Survey of India / Zoological Survey of India — taxonomic survey and documentation of India's flora and fauna respectively. |
+| ✅ **CAQM** | Commission for Air Quality Management in NCR and Adjoining Areas — statutory body under the **CAQM Act, 2021** (preceded by a 2020 Ordinance), whose directions on air quality override individual SPCB directions in Delhi and the NCR/adjoining areas of Haryana, Punjab, Rajasthan and Uttar Pradesh. |
+| ✅ **BEE** | Bureau of Energy Efficiency — statutory body under the **Energy Conservation Act, 2001**, administering the PAT scheme and, following the Energy Conservation (Amendment) Act, 2022, the technical machinery of the **Carbon Credit Trading Scheme** including GEI target setting (Topic 21). |
+| ✅ **NDMA** | National Disaster Management Authority — statutory body under the **Disaster Management Act, 2005**, chaired by the Prime Minister (Topic 26). |
+| ✅ **NCZMA / SCZMAs** | National and State Coastal Zone Management Authorities — constituted under the **Environment (Protection) Act, 1986** to appraise and monitor CRZ compliance (Topic 24). |
+| ✅ **NMCG** | National Mission for Clean Ganga — a **registered society** vested with the powers of an Authority under the 2016 Order issued under the Environment (Protection) Act, 1986, working under the **National Ganga Council chaired by the Prime Minister** (Topic 14). ⚠️ Not a statutory board like CPCB. |
+| ✅ **NBWL** | National Board for Wildlife — chaired by the **Prime Minister**, with a Standing Committee chaired by the Environment Minister; its recommendation is required for de-notification of protected areas and for projects in and around them (Topic 06). |
 
 ## 3. Topic mechanism
 
@@ -96,6 +102,18 @@ identification.
 - ✅ WII (Dehradun) is India's premier wildlife-science research and training institution.
 - ✅ NTCA and WCCB are distinct statutory bodies — NTCA specifically for tiger conservation,
   WCCB for broader organised wildlife-crime coordination.
+- ✅ **Statutory basis is the discriminator, not subject matter.** Memorise the pairing:
+  CPCB/SPCB → Water Act 1974 and Air Act 1981; NBA/SBB/BMC → Biological Diversity Act 2002;
+  NTCA and WCCB → Wildlife (Protection) Act 1972; NGT → NGT Act 2010; NDMA/SDMA/DDMA →
+  Disaster Management Act 2005; BEE → Energy Conservation Act 2001; CAQM → CAQM Act 2021;
+  NCZMA/SCZMA and NMCG → orders/notifications under the Environment (Protection) Act 1986.
+- ✅ **FSI, BSI, ZSI and WII are scientific/technical institutions, not regulators** — they
+  generate evidence; they do not grant or refuse clearances.
+- ✅ Bodies **chaired by the Prime Minister**: the National Board for Wildlife, the National
+  Disaster Management Authority and the National Ganga Council — a frequently examined set.
+- ✅ **CAQM's directions prevail over SPCB directions** on air quality within its
+  jurisdiction — the only Indian environmental body with such an explicit cross-state
+  override.
 
 ## 7. UPSC traps
 
@@ -116,14 +134,33 @@ identification.
 ## 8. 📰 Current anchor
 
 - 📰 India's environmental-institutional architecture (MoEFCC, CPCB, NBA, WII, NTCA, WCCB,
-  FSI, BSI, ZSI, NGT) remains the current governing structure; verify any specific
-  institutional mandate update or new statutory body creation against the latest MoEFCC
-  notification before citing a changed institutional detail.
+  FSI, BSI, ZSI, NGT, CAQM, NDMA, BEE) remains the current governing structure; verify any
+  specific institutional mandate update or new statutory body creation against the latest
+  MoEFCC notification before citing a changed institutional detail.
+- 📰 **The direction of institutional change (Economic Survey 2025-26, Ch. 10)** is toward
+  digitalisation, third-party verification and rationalised categorisation rather than new
+  regulators: **PARIVESH 3.0** as a single-window clearance and compliance-monitoring hub;
+  the **Environment Audit Rules, 2025** creating **certified third-party environmental
+  auditors**; **uniform consent-to-establish/operate guidelines across all SPCBs** following
+  the Water and Air Act amendments; CPCB's industry categories extended to include **Blue**;
+  and, in October 2025, rationalised **green-belt** norms by pollution potential.
+- 📰 **Decriminalisation:** the **EPA 1986, Air Act 1981 and Indian Forest Act 1927** have
+  been decriminalised through the Jan Vishwas route, and the criminal provisions of the
+  **Water Act 1974** amended under **Article 252(1)** because water is a State List subject;
+  the **Public Liability Insurance Act** relief amounts were raised and the **Environmental
+  Relief Fund** made usable for remediation of contaminated sites under the **Environment
+  Protection (Management of Contaminated Sites) Rules, 2025**.
+- 📰 The **Biological Diversity (Access to Biological Resources and Knowledge Associated
+  thereto and Fair and Equitable Sharing of Benefits) Regulations, 2025** extend the NBA's
+  operating framework to **digital sequence information** (Economic Survey 2025-26, Ch. 10).
 
 ⚠️ **Interpretation caution:** always cite the specific institution's precise statutory
 basis (which Act established it) when discussing its mandate, since several institutions
 share overlapping subject areas (e.g., wildlife) but operate under different specific
-legal provisions.
+legal provisions. Distinguish also a **statutory body** (created by an Act), an **authority
+constituted by notification** under a parent Act, a **registered society** exercising
+delegated powers (NMCG), and a purely **advisory committee** — all four appear in this
+architecture and are routinely confused.
 
 ## 9. PYQ application
 

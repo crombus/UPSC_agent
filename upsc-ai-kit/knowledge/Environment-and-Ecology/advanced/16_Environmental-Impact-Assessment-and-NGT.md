@@ -118,6 +118,14 @@ executive capacity to actually implement its directions on the ground.
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 EIA Notification, 2006 (as periodically amended) and NGT Act, 2010 — current governing framework (verify any specific proposed amendment/draft notification and its date before citing). | Use as the baseline for evaluating any EIA-reform proposal against the preventive-versus-streamlining trade-off framework in Section 4. |
+| 📰 **PARIVESH 3.0**, the **Environment Audit Rules, 2025** (certified third-party auditors), uniform SPCB consent guidelines, the new **Blue** industry category, and the **October 2025** green-belt rationalisation (Economic Survey 2025-26, Ch. 10). | The Survey's own framing is a **"trust-based, outcome-oriented"** shift. The sharpest balanced critique writes itself: trust-based regulation presupposes credible verification, and the Survey *itself* lists weak post-clearance monitoring and SPCB capacity constraints among the unresolved problems. Quote both halves — it demonstrates you read the source rather than the headline. |
+| 📰 The Survey's own list of persisting weaknesses: multiplicity of clearances and overlapping jurisdictions, weak post-clearance monitoring, SPCB capacity constraints, significant inter-state variation, and high litigation-related uncertainty (Economic Survey 2025-26, Ch. 10). | This is a **government-sourced critique**, which is far more persuasive in an answer than an activist-sourced one. Use it as the evidentiary spine of any "is India's EIA regime effective?" answer. |
+| ✅ Supreme Court jurisprudence against **ex post facto environmental clearance** — *Alembic Pharmaceuticals Ltd. v. Rohit Prajapati* (2020), reinforced by a 2025 ruling invalidating the executive route to regularising projects started without prior clearance. ⚠️ Verify the 2025 case name and date before citing. | The doctrinal anchor for the whole topic: prior clearance is not a procedural formality but the **substance** of the preventive principle, because an assessment conducted after construction cannot alter the decision it was meant to inform. |
+
+⚠️ **Instrument-hierarchy discipline:** an **office memorandum** cannot override a
+**notification**, and neither can override a **statute** or a binding **judgment**. Several
+EIA controversies of the last decade are, at their core, disputes about this hierarchy —
+saying so explicitly is a high-value analytical move.
 
 ## 10. PYQ-based analytical application
 

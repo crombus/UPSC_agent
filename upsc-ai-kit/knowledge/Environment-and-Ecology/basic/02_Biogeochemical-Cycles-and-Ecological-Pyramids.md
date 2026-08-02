@@ -36,6 +36,8 @@ or organism-count exists at each trophic level at one point in time.
 | ✅ **Gaseous cycle** | Cycle with atmosphere/ocean as the main reservoir (carbon, nitrogen, oxygen, water) — fast, self-regulating. |
 | ✅ **Sedimentary cycle** | Cycle with earth's crust as the main reservoir (phosphorus, sulphur, calcium) — slower, more easily disrupted. |
 | ✅ **Nitrogen fixation** | Conversion of atmospheric N₂ into usable ammonia/nitrate by bacteria (e.g., *Rhizobium*) or lightning. |
+| ✅ **Ammonification → nitrification → denitrification** | The three sequential microbial steps that follow fixation: decomposers convert organic N to ammonia (ammonification); *Nitrosomonas* oxidises ammonia to nitrite and *Nitrobacter* nitrite to nitrate (nitrification); *Pseudomonas*-type bacteria reduce nitrate back to N₂ (denitrification), closing the loop. |
+| ✅ **Eutrophication** | Enrichment of a water body with nutrients and sediment. It is a **natural ageing process** of lakes (gradual filling and ageing); when accelerated by sewage and fertiliser runoff it is called **cultural (anthropogenic) eutrophication** — the exam-relevant distinction. |
 | ✅ **Ecological pyramid** | Graphical representation of number, biomass or energy at successive trophic levels. |
 
 ## 3. Topic mechanism
@@ -87,6 +89,15 @@ or organism-count exists at each trophic level at one point in time.
   specific ecosystems (e.g., biomass pyramid inverted in most aquatic ecosystems).
 - ✅ Eutrophication is nutrient (commonly nitrogen/phosphorus) over-enrichment of a water body
   leading to algal blooms and oxygen depletion.
+- ✅ Eutrophication is a **natural** lake-ageing process; the exam-relevant term for the
+  human-accelerated version is **cultural eutrophication** — do not treat the two as
+  synonyms.
+- ✅ Nitrification is carried out by *Nitrosomonas* (ammonia → nitrite) and *Nitrobacter*
+  (nitrite → nitrate); denitrification returns nitrogen to the atmosphere as N₂.
+- ✅ Nitrous oxide (N₂O), a nitrogen-cycle by-product of fertilised soils, is both a potent
+  greenhouse gas and (per the ozone literature) a significant stratospheric ozone-depleting
+  substance not controlled by the Montreal Protocol — a favourite cross-topic link
+  (Topics 17 and 22).
 
 ## 7. UPSC traps
 
@@ -94,6 +105,8 @@ or organism-count exists at each trophic level at one point in time.
   upright; number and biomass pyramids can be inverted.
 - ❌ Phosphorus cycle has a major atmospheric phase like carbon. -> It is a sedimentary cycle
   with negligible atmospheric presence.
+- ❌ Eutrophication is always man-made. -> It is a natural lake-ageing process; only its
+  accelerated form is *cultural* eutrophication.
 - ❌ Nitrogen fixation is done only by plants. -> It is done by bacteria (free-living/
   symbiotic), cyanobacteria, lightning and industrial (Haber-Bosch) processes — plants do not
   fix nitrogen themselves.

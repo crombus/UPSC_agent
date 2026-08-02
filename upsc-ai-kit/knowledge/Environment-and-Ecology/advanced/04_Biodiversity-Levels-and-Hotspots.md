@@ -100,6 +100,13 @@ the framework's design logic.
   biological resources/traditional knowledge, especially by foreign entities.
 - ✅ The CBD's Kunming-Montreal Global Biodiversity Framework (2022) set the 30x30 target —
   30% terrestrial and marine area conservation by 2030.
+- ✅ KMGBF's 30x30 target explicitly counts **"other effective area-based conservation
+  measures" (OECMs)** alongside formally protected areas — so community forests, sacred
+  groves and well-managed working landscapes can count towards it without being notified as
+  protected areas (link Topic 06).
+- ✅ CBD COP16 (Cali 2024, resumed Rome February 2025) created the **Cali Fund** for sharing
+  benefits from **digital sequence information** and a **permanent subsidiary body on Article
+  8(j)** for indigenous peoples and local communities.
 - ✅ India's four biodiversity hotspots are Himalaya, Indo-Burma, Western Ghats-Sri Lanka and
   Sundaland (represented domestically by the Nicobar Islands).
 
@@ -122,7 +129,13 @@ the framework's design logic.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 CBD Kunming-Montreal Global Biodiversity Framework (CBD COP15, 2022): 30x30 global area-based conservation target. | Use to connect India's hotspot-specific and protected-area conservation efforts to its broader multilateral biodiversity commitment. |
+| 📰 CBD Kunming-Montreal Global Biodiversity Framework (CBD COP15, Montreal, December 2022): 30x30 global area-based conservation target, plus 22 other 2030 targets and four 2050 goals. | Use to connect India's hotspot-specific and protected-area conservation efforts to its broader multilateral biodiversity commitment. |
+| 📰 CBD COP16 (Cali, Colombia, October-November 2024; suspended and **resumed in Rome, February 2025**) is the latest completed CBD COP anchor. Its two structurally important outcomes are the **"Cali Fund"** mechanism for sharing benefits from the use of **digital sequence information (DSI)** on genetic resources, and a **permanent subsidiary body on Article 8(j)** for indigenous peoples and local communities. | This is the exact point where the *genetic* level of biodiversity (Section 2) becomes an international-negotiation object: benefits must now be shared from sequence data, not only from physical samples. |
+| 📰 **India's Biological Diversity (Access to Biological Resources and Knowledge Associated thereto and Fair and Equitable Sharing of Benefits) Regulations, 2025** regulate access to biological resources and associated traditional knowledge **including digital sequence information** (Economic Survey 2025-26, Ch. 10). | The domestic translation of the DSI debate — cite it to show India is not merely a demandeur internationally but has legislated at home. |
+
+⚠️ **Proposal vs operational status:** the Cali Fund is an *established mechanism* whose
+contribution levels and disbursement record are still developing — say "established", not
+"is compensating countries", unless a disbursement figure is cited with its source and date.
 
 ## 11. PYQ-based analytical application
 

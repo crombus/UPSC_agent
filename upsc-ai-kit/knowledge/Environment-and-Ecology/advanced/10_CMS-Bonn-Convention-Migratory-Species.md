@@ -128,6 +128,12 @@ India's prior hosting/presidency context. [CMS source](https://www.cms.int/news/
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | ✅ Historical context: CMS COP13 (Gandhinagar, 2020) and India's subsequent Presidency term. | Use as evidence of prior leadership, not as the latest COP; pair it with the COP14 Central Asian Flyway outcome above. |
+| 📰 The first *State of the World's Migratory Species* report (launched at CMS COP14, Samarkand, February 2024) is the first global stocktake of CMS-listed species. ⚠️ Cite its specific percentages only from the report itself — this file deliberately does not reproduce them from memory. | Its structural finding is the usable one: a large share of CMS-listed species show declining population trends, and **fish are the worst-affected CMS-listed group**, because migratory fish face barriers (dams, weirs), overexploitation and pollution across an entire river or ocean basin. Use it to argue that river-connectivity policy (Topic 14) is migratory-species policy. |
+| ✅ **Amur Falcon and Pangti/Doyang, Nagaland** — the standard Indian case of a community-led reversal, where large-scale trapping of a long-distance migrant at its stopover was replaced by community protection and roost-based ecotourism. | The counterweight to the Great Indian Bustard case: the bustard shows a *domestic infrastructure* failure; the Amur Falcon shows a *domestic community-institution success* on a species whose survival depends on range states from north-east Asia to southern Africa. Together they let an answer argue that CMS's weakest-link problem is solved locally, not only diplomatically. |
+
+⚠️ **Announced vs achieved discipline:** the Samarkand Strategic Plan for Migratory Species
+2024-2032 sets *targets*; it is not evidence of improved species status. Never present the
+adoption of a strategic plan as a conservation outcome.
 | 📰 Supreme Court-monitored Great Indian Bustard power-line mitigation proceedings (verify latest order date). | Use as the domestic-implementation contrast case to the range-state-coordination framing of typical CMS problems. |
 
 ## 10. PYQ-based analytical application

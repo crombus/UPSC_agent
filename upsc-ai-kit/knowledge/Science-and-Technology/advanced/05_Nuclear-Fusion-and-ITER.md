@@ -8,6 +8,10 @@
 
 ---
 
+## 1. Analytical frame
+
+⚠️ Fusion answers fail when they treat "unlimited clean energy" as an imminent policy option. The disciplined frame separates three distinct thresholds: **scientific feasibility** (can a plasma release more fusion energy than is injected into it — the physics gain Q), **engineering feasibility** (can a machine run continuously, breed its own tritium, survive 14 MeV neutron damage and produce net *electrical* output after subtracting the plant's own consumption), and **commercial viability** (capital cost, availability factor, licensing regime, supply chain for superconductors, beryllium/tungsten and lithium). ITER is designed to demonstrate the first and to test components for the second; it is not designed to generate electricity at all. India's analytical significance therefore lies in *capability capture* — cryogenics, superconducting magnets, radio-frequency heating sources, vacuum vessels and remote handling built by Indian industry for ITER are dual-use industrial competences that pay off regardless of when fusion power arrives.
+
 ## 2. Visual foundation
 
 ```text

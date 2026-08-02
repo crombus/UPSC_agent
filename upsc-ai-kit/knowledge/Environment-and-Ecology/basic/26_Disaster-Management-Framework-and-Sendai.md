@@ -103,6 +103,30 @@ shift from disaster *management* to disaster *risk reduction* as the guiding phi
 - ✅ The Sendai Framework articulates four priorities for action: understanding disaster
   risk, strengthening disaster-risk governance, investing in disaster-risk reduction for
   resilience, and enhancing preparedness for effective response and "Build Back Better."
+- ✅ Sendai also sets **seven global targets (A-G)** — substantially **reduce** (A) disaster
+  mortality, (B) the number of affected people, (C) direct economic loss relative to global
+  GDP, and (D) damage to critical infrastructure and disruption of basic services; and
+  substantially **increase** (E) the number of countries with national and local DRR
+  strategies, (F) international cooperation to developing countries, and (G) availability of
+  and access to multi-hazard early warning systems and disaster risk information. ⚠️ Four
+  priorities **and** seven targets — a question asking for "the global targets of the Sendai
+  Framework" is asking for the second set, not the first.
+- ✅ The **World Conference on Disaster Risk Reduction** has been held three times, each
+  hosted by **Japan**: **Yokohama (1994)**, **Kobe (2005)** and **Sendai (2015)**. Yokohama
+  produced the *Yokohama Strategy for a Safer World* (10 principles, arising from the
+  mid-term review of the International Decade for Natural Disaster Reduction); Kobe produced
+  the **Hyogo Framework for Action 2005-2015** with **five priorities** and launched an
+  International Early Warning Programme; Sendai produced the current framework — the **first
+  major agreement of the post-2015 development agenda**.
+- ✅ India's **National Disaster Management Plan, 2016** was the country's first such plan.
+  It is aligned with the Sendai Framework, the SDGs and the Paris Agreement, and organises
+  action under **five thematic areas**: understanding risk; inter-agency coordination;
+  investing in DRR through **structural** measures; investing in DRR through **non-structural**
+  measures; and capacity development. ⚠️ A documented critique is that, unlike Sendai or the
+  SDGs, the NDMP sets **no goals, targets, timeframes or funding projections** of its own.
+- ✅ The **Prime Minister's Ten-Point Agenda on Disaster Risk Reduction** was enunciated at
+  the **Asian Ministerial Conference on Disaster Risk Reduction (AMCDRR), New Delhi, 2016**;
+  each point maps to one or more Sendai priorities for action.
 - ✅ The disaster-management cycle comprises mitigation, preparedness, response and
   recovery as continuously linked phases, not a single reactive event.
 - ✅ The National Disaster Response Force (NDRF) is India's specialised disaster-response
@@ -116,7 +140,14 @@ shift from disaster *management* to disaster *risk reduction* as the guiding phi
   non-binding UN framework guiding national disaster-risk-reduction policy.
 - ❌ NDMA is chaired by the Union Home Minister. -> It is chaired by the Prime Minister.
 - ❌ The Sendai Framework was the first global disaster-risk-reduction framework. -> It
-  succeeded the earlier Hyogo Framework for Action (2005-2015).
+  succeeded the earlier Hyogo Framework for Action (2005-2015), which itself followed the
+  Yokohama Strategy (1994).
+- ❌ The Sendai Framework's "global targets" and its "priorities for action" are the same
+  list. -> There are **four priorities for action** and **seven global targets (A-G)** — a
+  distinction UPSC has tested directly.
+- ❌ India's National Disaster Management Plan sets its own quantified targets like Sendai
+  does. -> The NDMP is aligned with Sendai and the SDGs but does **not** set its own goals,
+  targets, timeframes or funding projections — a documented critique.
 - ❌ "Build Back Better" means restoring exactly pre-disaster conditions as quickly as
   possible. -> It specifically means rebuilding to reduce future vulnerability and improve
   resilience, not merely replicating the pre-disaster state.
@@ -141,6 +172,25 @@ attributed to their specific source and event for precise, defensible citation.
 
 ## 9. PYQ application
 
+- ✅ **2024 GS-III direct PYQ (250 words):** “What is disaster resilience? How is it
+  determined? Describe various elements of a resilience framework. Also mention the global
+  targets of the Sendai Framework for Disaster Risk Reduction (2015-2030).” ⚠️ Three distinct
+  demands. For "elements of a resilience framework", use the standard DRR fields of action:
+  a **policy framework** backed by legal and institutional mechanisms; **risk assessment**
+  based on hazard and community resilience; **risk awareness** among stakeholders and
+  decision-makers; **implementation** through environmental management and urban planning;
+  **early-warning systems**; and **use of knowledge** through informed stakeholder
+  participation and accessible communication. Then list the **seven global targets (A-G)** —
+  the question asks for targets, not the four priorities.
+- ✅ **2024 GS-III direct PYQ (250 words):** “Flooding in urban areas is an emerging
+  climate-induced disaster. Discuss the causes of this disaster. Mention the features of two
+  major floods in the last two decades in India. Describe the policies and frameworks aimed
+  at dealing with such floods.” ⚠️ The question demands **two named Indian urban floods with
+  their features** — a factual requirement most answers skip. The documented challenges to
+  cite are: inadequate comprehensive urban-flood risk assessment before mitigation planning;
+  failure to map city-specific risk factors into development planning; weak inter-agency
+  coordination; poor information sharing; disintegrated investment decisions; and lack of
+  stakeholder consultation.
 - ⚠️ Recurring Prelims pattern: correctly identify the NDMA-SDMA-DDMA chairing structure and
   the Sendai Framework's four priorities for action.
 - ⚠️ Mains linkage: the "Build Back Better" principle is used to argue for resilience-

@@ -32,9 +32,12 @@ precise, non-overlapping identification of each convention's specific scope.
 |---|---|
 | ✅ **CBD (Convention on Biological Diversity, 1992)** | UN treaty (from the Rio Earth Summit) with three objectives: conservation of biodiversity, sustainable use of its components, and fair/equitable sharing of benefits from genetic resources. |
 | ✅ **Kunming-Montreal Global Biodiversity Framework (CBD COP15, 2022)** | The CBD's current global strategic framework, including the widely cited "30x30" target (conserving 30% of terrestrial and marine areas by 2030). |
-| ✅ **Basel Convention (1989)** | Treaty controlling transboundary movements of hazardous wastes and their disposal, based on prior informed consent between exporting and importing countries. |
-| ✅ **Stockholm Convention (2001)** | Treaty aiming to eliminate or restrict production and use of Persistent Organic Pollutants (POPs) — chemicals that resist degradation, bioaccumulate, and are toxic (e.g., certain pesticides like DDT, industrial chemicals like PCBs). |
-| ✅ **Montreal Protocol (1987)** | Treaty (under the Vienna Convention for the Protection of the Ozone Layer) phasing out production and consumption of ozone-depleting substances (e.g., CFCs, halons). |
+| ✅ **Cartagena Protocol on Biosafety (2000)** | The CBD's first protocol, governing the safe transfer, handling and use of **living modified organisms (LMOs)** across borders, using the **advance informed agreement** procedure and grounded in the precautionary approach. Its **Nagoya-Kuala Lumpur Supplementary Protocol (2010)** deals with liability and redress. |
+| ✅ **Nagoya Protocol (2010)** | The CBD's second protocol, on **access to genetic resources and the fair and equitable sharing of benefits (ABS)** arising from their utilisation — the international instrument India's Biological Diversity Act architecture implements domestically. |
+| ✅ **Basel Convention (1989)** | Treaty controlling transboundary movements of hazardous wastes and their disposal, based on prior informed consent between exporting and importing countries. Its **Ban Amendment** (in force from December 2019) prohibits export of hazardous wastes from OECD/EU countries and Liechtenstein to all other Parties, and its **plastic-waste amendments** (adopted 2019, effective January 2021) brought most contaminated and mixed plastic scrap into the prior-informed-consent regime. |
+| ✅ **Rotterdam Convention (1998)** | The third member of the chemicals-and-waste cluster: it applies **Prior Informed Consent (PIC)** to international trade in listed hazardous chemicals and pesticides — Parties must be informed and consent before receiving them. Basel, Rotterdam and Stockholm are jointly administered and hold **back-to-back "BRS" COPs**. |
+| ✅ **Stockholm Convention (2001)** | Treaty aiming to eliminate or restrict production and use of Persistent Organic Pollutants (POPs) — chemicals that resist degradation, bioaccumulate, and are toxic. It began with the **"dirty dozen"** and operates through three annexes: **Annex A (elimination)**, **Annex B (restriction** — the standard example being DDT, retained for disease-vector control**)** and **Annex C (unintentional production**, e.g., dioxins and furans**)**. |
+| ✅ **Vienna Convention (1985) and Montreal Protocol (1987)** | The Vienna Convention is the **framework** treaty for protection of the ozone layer; the **Montreal Protocol** is the operative protocol under it, phasing out production and consumption of ozone-depleting substances (CFCs, halons and others), supported by a dedicated **Multilateral Fund** financing developing-country compliance. |
 | ✅ **Kigali Amendment (2016, to the Montreal Protocol)** | Amendment extending the Protocol's phase-down mandate to hydrofluorocarbons (HFCs) — potent greenhouse gases that, while not ozone-depleting, are regulated under this ozone treaty due to its proven institutional effectiveness. |
 
 ## 3. Topic mechanism
@@ -71,8 +74,14 @@ precise, non-overlapping identification of each convention's specific scope.
   Diversity.
 - ✅ **Basel Convention Secretariat (under UNEP):** administers the hazardous-waste treaty.
 - ✅ **Stockholm Convention Secretariat (under UNEP):** administers the POPs treaty.
+- ✅ **Rotterdam Convention Secretariat (jointly with Basel and Stockholm, under UNEP):**
+  administers the Prior Informed Consent procedure for listed hazardous chemicals and
+  pesticides; the three conventions share a joint secretariat and back-to-back COPs.
 - ✅ **Ozone Secretariat (under UNEP):** administers the Vienna Convention and Montreal
   Protocol.
+- ✅ **Multilateral Fund for the Implementation of the Montreal Protocol:** finances
+  developing-country compliance — the feature most often credited for the Protocol's
+  near-universal ratification and effectiveness.
 - ✅ **MoEFCC:** India's nodal ministry for implementation of and negotiation under all four
   conventions.
 
@@ -101,6 +110,22 @@ precise, non-overlapping identification of each convention's specific scope.
 - ✅ The Kigali Amendment (2016) extended the Montreal Protocol's mandate to
   hydrofluorocarbons (HFCs), which are potent greenhouse gases but not themselves
   ozone-depleting.
+- ✅ The CBD has **two protocols**: the **Cartagena Protocol on Biosafety (2000)** on living
+  modified organisms, and the **Nagoya Protocol (2010)** on access and benefit-sharing.
+- ✅ **Basel, Rotterdam and Stockholm** form the jointly administered **"BRS" chemicals-and-
+  waste cluster** and hold back-to-back COPs; the **Rotterdam Convention (1998)** applies the
+  Prior Informed Consent procedure to trade in listed hazardous chemicals and pesticides.
+- ✅ The **Basel Ban Amendment** entered into force in **December 2019**; **plastic-waste
+  amendments** adopted in 2019 took effect in **January 2021**.
+- ✅ Stockholm's three annexes are **A (elimination), B (restriction — DDT), C (unintentional
+  production — dioxins/furans)**.
+- ✅ The **Vienna Convention (1985)** is the framework treaty; the **Montreal Protocol (1987)**
+  is the operative instrument under it, financed for developing countries by the
+  **Multilateral Fund**.
+- ✅ Under Kigali, developing countries phase HFCs **down** (not out) on differentiated
+  schedules; India is in the later of the two developing-country groups. ⚠️ Verify India's
+  exact baseline years, freeze year and step-down percentages against the Ozone Secretariat
+  or the MoEFCC Ozone Cell before quoting them.
 
 ## 7. UPSC traps
 
@@ -118,6 +143,18 @@ precise, non-overlapping identification of each convention's specific scope.
   their climate (not ozone) impact.
 - ❌ The "30x30" target originates from the Paris Agreement. -> It originates from the CBD's
   Kunming-Montreal Global Biodiversity Framework (CBD COP15, 2022).
+- ❌ The Cartagena and Nagoya Protocols belong to different conventions. -> **Both are
+  protocols to the CBD** — Cartagena (2000) on biosafety/LMOs, Nagoya (2010) on ABS.
+- ❌ The Montreal Protocol is a standalone treaty. -> It is a protocol under the **Vienna
+  Convention (1985)**.
+- ❌ Kigali requires developing countries to phase **out** HFCs. -> It mandates a phase-**down**
+  on differentiated schedules, not elimination.
+- ❌ The Basel Convention bans all hazardous-waste trade. -> The Convention itself imposes
+  prior informed consent; the separate **Ban Amendment** (in force December 2019) prohibits
+  export specifically from OECD/EU/Liechtenstein to other Parties.
+- ❌ DDT is banned outright under the Stockholm Convention. -> It sits in **Annex B
+  (restriction)**, permitting continued use for disease-vector control under specified
+  conditions.
 
 ## 8. 📰 Current anchor
 

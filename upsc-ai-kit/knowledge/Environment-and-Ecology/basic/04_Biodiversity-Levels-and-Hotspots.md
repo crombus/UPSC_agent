@@ -35,8 +35,12 @@ combining exceptional endemism with severe habitat loss — not merely any speci
 | ✅ **Species diversity** | Variety and abundance of species within a region or ecosystem. |
 | ✅ **Ecosystem diversity** | Variety of habitats, biotic communities and ecological processes across a landscape. |
 | ✅ **Endemic species** | A species found naturally only in one defined geographic region and nowhere else. |
-| ✅ **Biodiversity hotspot** | A region meeting Conservation International's dual criteria: ≥1,500 endemic vascular plants and ≤30% of original natural habitat remaining. |
-| ✅ **Megadiverse country** | One of a select group of countries (India included) holding a very high share of the world's species diversity. |
+| ✅ **Biodiversity hotspot** | A region meeting Conservation International's dual criteria: ≥1,500 endemic vascular plants and ≤30% of original natural habitat remaining. The concept was proposed by **Norman Myers (1988)** and later operationalised with these thresholds. |
+| ✅ **Alpha (α) diversity** | Species diversity *within* a single community/habitat — the local count (Whittaker's terminology). |
+| ✅ **Beta (β) diversity** | The *turnover* of species between communities along an environmental gradient — high β means adjacent habitats share few species. |
+| ✅ **Gamma (γ) diversity** | Total diversity across a whole landscape/region, integrating α and β. |
+| ✅ **Species richness vs evenness** | Richness = number of species; evenness = how equally abundant they are. Two sites can have identical richness but very different evenness — and hence different diversity-index values. |
+| ✅ **Megadiverse country** | One of the group of countries (India included) holding a very high share of the world's species diversity; they coordinate politically as the **Like-Minded Megadiverse Countries (LMMC)** group, which India helped found and which pushes access-and-benefit-sharing positions in CBD negotiations. |
 
 ## 3. Topic mechanism
 
@@ -86,6 +90,17 @@ combining exceptional endemism with severe habitat loss — not merely any speci
 - ✅ India is one of a small group of globally recognised "megadiverse" countries.
 - ✅ Endemism means restricted natural distribution to one region, not simply rarity
   elsewhere due to hunting/habitat loss.
+- ✅ Alpha, beta and gamma diversity (Whittaker) describe within-habitat, between-habitat
+  turnover, and whole-landscape diversity respectively — a very high-frequency Prelims
+  matching set.
+- ✅ Diversity has two components — **richness** (how many species) and **evenness** (how
+  equally distributed) — so a "more diverse" site is not automatically the one with more
+  species.
+- ✅ The hotspot idea is credited to **Norman Myers (1988)**; the two quantitative thresholds
+  were added when Conservation International operationalised it.
+- ⚠️ The *global* number of recognised hotspots has been revised upward over time as new
+  regions qualified — quote the current figure only from conservation.org with the date of
+  checking, never from memory.
 
 ## 7. UPSC traps
 
@@ -101,16 +116,30 @@ combining exceptional endemism with severe habitat loss — not merely any speci
 - ❌ Hotspot status is a legally binding Indian conservation designation like a National Park.
   -> It is an international scientific-prioritisation framework, not a domestic legal
   protection category.
+- ❌ Alpha diversity and species richness are the same thing. -> Alpha diversity is
+  within-habitat diversity (richness *and* evenness); richness is only the species count.
+- ❌ High beta diversity means a habitat is species-rich. -> It means species composition
+  *turns over* sharply between adjacent habitats, which can occur even where each individual
+  habitat is species-poor.
 
 ## 8. 📰 Current anchor
 
 - 📰 India's biodiversity-hotspot count and megadiverse-country status remain the standard
   reference points cited in MoEFCC and NBA communications; verify any updated percentage or
   species-count claims against the NBA/MoEFCC website before quoting a specific figure.
+- 📰 **Biological Diversity (Access to Biological Resources and Knowledge Associated thereto
+  and Fair and Equitable Sharing of Benefits) Regulations, 2025** now govern access to India's
+  biological resources and associated traditional knowledge, and — significantly — extend to
+  **digital sequence information (DSI)** (source: Economic Survey 2025-26, Ch. 10). This is the
+  domestic implementation edge of the genetic-diversity level of this topic (cross-refer
+  Topics 22 and 27).
 
 ⚠️ **Interpretation caution:** exact species-count figures for India (total flora/fauna
 species) vary by source and survey vintage — cite the source and year rather than a bare
-number in an answer.
+number in an answer. Similarly, distinguish the *legal category* (a Biological Diversity Act
+"biodiversity heritage site" or a Wildlife Protection Act protected area) from an
+*international scientific label* (hotspot) and from an *administrative label*
+("eco-sensitive zone" notification status).
 
 ## 9. PYQ application
 

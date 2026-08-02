@@ -31,7 +31,7 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 | Mars Orbiter Mission | Historic low-cost Mars orbiter | Mission concluded |
 | Venus Orbiter Mission / Shukrayaan | Next major comparative-planetology step | Approved / under development |
 
-## 3. Essential definitions
+## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
@@ -45,7 +45,7 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 | ✅ **Sample return** | Mission design that collects extraterrestrial material and brings it back to Earth for analysis. |
 | ✅ **Gaganyatri** | Indian astronaut-designate/crew member associated with the Gaganyaan programme. |
 
-## 4. Mechanism / how it works
+## 3. Mechanism / how it works
 
 1. For Gaganyaan, ISRO must human-rate the launcher, qualify crew escape and life-support systems, test the orbital module and validate recovery procedures before crewed flight.
 2. The orbital module consists of a Crew Module for astronauts and a Service Module for propulsion and support; safety is built through redundancy, abort capability and progressive testing.
@@ -53,7 +53,7 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 4. Planetary missions follow a different logic: launch, orbit-raising/transit, insertion into the destination environment and then science operations or landing/surface operations depending on mission type.
 5. Lunar missions, solar observation, Mars exploration and approved Venus/sample-return plans together form a stepwise capability ladder in deep-space science and technology.
 
-## 5. Institutions and programmes
+## 4. Institutions and programmes
 
 - ✅ **ISRO / Human Space Flight Centre (HSFC):** leads the Gaganyaan programme and coordinates the human-spaceflight ecosystem across ISRO centres, labs, academia and industry.
 - ✅ **Astronaut Training Facility, Bengaluru:** ISRO states that training covers academics, simulators, physical fitness, aero-medical work, survival and procedures.
@@ -62,7 +62,7 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 - ✅ **International cooperation channels:** Axiom-4/ISS participation shows that foreign mission exposure can complement, but does not replace, indigenous crewed capability development.
 - ✅ **Cabinet-approved future architecture:** BAS-1, Chandrayaan-4 and Venus Orbiter Mission belong to the next phase of India’s human-spaceflight and planetary roadmap.
 
-## 6. Indian applications, examples and limitations
+## 5. Indian applications, examples and limitations
 
 - ✅ Human-spaceflight drives life support, crew safety, re-entry, recovery, materials and avionics capability that can spill over into wider aerospace engineering.
 - ✅ Chandrayaan missions deepen lunar science, landing technology and surface-operation know-how; Chandrayaan-3 especially turned landing success into a major technological milestone.
@@ -73,7 +73,7 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 - ⚠️ Limitation: prestige missions draw attention, but long-term value depends on sustained science output, industrial learning and follow-on missions.
 - ⚠️ Limitation: approved future missions such as BAS or Venus Orbiter should never be written as if they are already operating in space.
 
-## 7. Must-Know Facts for Prelims
+## 6. Must-Know Facts for Prelims
 
 - ✅ ISRO states that Gaganyaan envisages sending a crew of three members to about 400 km orbit for about three days and recovering them in Indian sea waters.
 - ✅ ISRO identifies Human Rated LVM3 (HLVM3) as the launcher for Gaganyaan.
@@ -84,7 +84,7 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 - ✅ ISRO states Aditya-L1 entered halo orbit around Sun-Earth L1 on 6 January 2024.
 - ✅ Mangalyaan outlived its original design life and is now treated in recent official references as a concluded mission.
 
-## 8. UPSC traps
+## 7. UPSC traps
 
 - ❌ Axiom-4 made Gaganyaan unnecessary. -> Axiom-4 gave international crewed-mission exposure; Gaganyaan is about indigenous launch, orbital and recovery capability.
 - ❌ Chandrayaan-2 was a complete failure. -> The lander did not soft-land successfully, but the orbiter was successfully placed in lunar orbit and continues science operations per ISRO.
@@ -93,7 +93,7 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 - ❌ Mangalyaan should be described as operational today. -> Recent official references celebrate it as a concluded historic mission.
 - ❌ Approved Bharatiya Antariksh Station or Venus Orbiter plans should be written as completed missions. -> They are approved/under-development roadmap items, not accomplished missions.
 
-## 9. 📰 Current anchor
+## 8. 📰 Current anchor
 
 - 📰 **06 Jan 2024 | Aditya-L1 - operational in halo orbit.** ISRO said halo-orbit insertion at Sun-Earth L1 was successfully accomplished; use this to mark the mission as operational, not proposed.
 - 📰 **18 Sep 2024 | Gaganyaan follow-on + Bharatiya Antariksh Station - approved.** PIB said BAS-1 and associated follow-on missions were approved within the expanded Gaganyaan scope.
@@ -102,13 +102,13 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 
 ⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date; verify later updates before exam use.
 
-## 10. PYQ application
+## 9. PYQ application
 
 - ⚠️ UPSC often tests outcome-based distinctions: orbiter versus lander success, soft landing versus orbital insertion, and operational versus proposed missions.
 - ⚠️ Prelims can ask deceptively simple status questions - for example, whether a mission is solar, lunar, Martian, crewed, uncrewed, operational or concluded.
 - ⚠️ GS-III Mains can use Gaganyaan to discuss technology capability, innovation spillovers, strategic prestige and the cost-safety balance in major scientific programmes.
 
-## 11. Mains framework / angles
+## 10. Mains framework / angles
 
 - ⚠️ Separate human-spaceflight capability from planetary-science capability, then show how both feed a larger national roadmap.
 - ⚠️ Use a status vocabulary carefully: completed, operational, approved, under development, tested or concluded - vague wording loses marks.
@@ -117,13 +117,13 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 
 > **Answer thesis:** India’s human-spaceflight and planetary programme is a staged capability-building project in which crew safety, orbital systems, landing technologies, deep-space operations and international mission exposure reinforce one another; the key UPSC skill is to distinguish clearly between completed successes, partial successes, operational missions and merely approved future ambitions.
 
-## 12. Probable questions
+## 11. Probable questions
 
 - ⚠️ **Prelims (practice):** Which of the following correctly matches the mission with its present status: Chandrayaan-2 orbiter, Aditya-L1, Mangalyaan and Venus Orbiter Mission?
 - ⚠️ **Mains (10 marks, practice):** Why should Axiom-4 participation be analysed as complementary to, but not a substitute for, Gaganyaan? Answer in 150 words.
 - ⚠️ **Mains (15 marks, practice):** Discuss how Gaganyaan, Bharatiya Antariksh Station plans and India’s lunar/solar/planetary missions together indicate a shift from episodic missions to a long-horizon space capability strategy.
 
-## 13. Study links
+## 12. Study links
 
 - ✅ Advanced companion: `advanced/03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md`.
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launcher capability, human-rating and space-governance context.

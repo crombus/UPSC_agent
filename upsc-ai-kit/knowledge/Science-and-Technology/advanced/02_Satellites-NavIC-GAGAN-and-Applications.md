@@ -8,6 +8,10 @@
 
 ---
 
+## 1. Analytical frame
+
+⚠️ Satellite topics are usually revised as lists of spacecraft names. The examinable distinction is **the difference between an autonomous constellation and an augmentation system**, and between *satellites launched* and *service actually delivered*. NavIC is a sovereign regional constellation providing its own position-navigation-timing (PNT) signals; GAGAN does not navigate independently at all — it augments GPS with correction and integrity messages for civil aviation. A constellation can be nominally "operational" while individual satellites degrade, fail to reach orbit or drop to reduced-function modes, so the honest metric is *functional satellites and signals in service on a stated date*, not cumulative launches. The same discipline applies to applications: a satellite in orbit is capacity; a user-level service (fisher advisory, flood mapping, tele-education, precision agriculture) is outcome.
+
 ## 2. Visual foundation
 
 ```text

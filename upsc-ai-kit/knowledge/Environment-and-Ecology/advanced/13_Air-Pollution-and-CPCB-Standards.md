@@ -121,6 +121,13 @@ distinction examiners look for.
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 CAQM (established under the 2021 Act) continues to coordinate Delhi-NCR air-quality management including GRAP implementation (verify the latest GRAP stage/season-specific order before citing). | Use as the institutional-design case study for cross-jurisdictional pollution governance, paired with the reactive-versus-structural (GRAP-versus-NCAP) analytical distinction. |
+| 📰 **Surat particulate-matter emissions trading scheme** — the world's first PM emissions market, covering **317 plants** with mandatory **CEMS**; the experimental evaluation reports **20-30% lower particulate emissions** and **11-14% lower abatement costs** than the command-and-control counterfactual (Economic Survey 2025-26, Ch. 10, Box X.9, citing Greenstone, Pande, Ryan & Sudarshan, *QJE*, 2025). | The strongest available Indian evidence that **market instruments can work in a low-state-capacity setting when monitoring is credible**. Use it to move an answer beyond the tired "India lacks enforcement capacity" line: the binding constraint was *measurement*, and CEMS relaxed it. |
+| 📰 **Jan Vishwas-route decriminalisation** of the Air Act, 1981 (alongside the EPA 1986 and the Indian Forest Act 1927), with Water Act criminal provisions amended under **Article 252(1)**; CPCB's industry categories extended to include **Blue**; October 2025 rationalisation of green-belt norms by pollution potential (Economic Survey 2025-26, Ch. 10). | The current regulatory direction is explicit: from criminal sanction toward **monetary penalty plus risk-based, outcome-oriented regulation**. A balanced answer notes both the ease-of-doing-business gain and the deterrence question this raises where penalties are small relative to compliance cost. |
+
+⚠️ **Legal-category discipline:** the Water Act could not be decriminalised by ordinary
+central amendment because **"water" is a State List subject** — Parliament used
+**Article 252(1)** (legislation for two or more States by consent). Naming that route is a
+precise GS-II/GS-III crossover point most candidates miss.
 
 ## 10. PYQ-based analytical application
 

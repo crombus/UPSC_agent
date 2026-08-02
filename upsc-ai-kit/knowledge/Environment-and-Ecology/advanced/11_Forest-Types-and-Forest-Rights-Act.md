@@ -103,6 +103,35 @@ credit the law's intent while substantively critiquing its execution.
 | FRA claims settlement vs protected-area core-habitat relocation | Both are legitimate objectives; sequencing FRA settlement before relocation reduces coercion risk and administrative ambiguity. |
 | Community Forest Resource empowerment vs capacity to exercise it | Legal vesting of CFR rights is necessary but insufficient without technical/financial support for communities to manage forest resources sustainably. |
 
+## 7A. Three legal orders on the same piece of land
+
+⚠️ The reason FRA questions are hard is that a single hectare of Indian forest can sit
+simultaneously inside **three incompatible classification systems**, each with its own
+authority, evidentiary standard and remedy:
+
+| Layer | Instrument | What it classifies | Who decides |
+|---|---|---|---|
+| ✅ **Legal-tenure layer** | Indian Forest Act, 1927 (Reserved / Protected / Village forest) and the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** (formerly the Forest (Conservation) Act, renamed by the 2023 amendment) | Whether land is legally "forest" and whether its diversion needs prior central approval | State notification + central approval; and, on the meaning of "forest", the **Supreme Court's February 2024** interim direction preserving the broad *Godavarman* (1996) dictionary meaning pending State expert-committee records |
+| ✅ **Measurement layer** | FSI's ISFR — "forest cover" = any land ≥1 ha with **>10% canopy density, irrespective of ownership or legal status**, graded Very Dense (≥70%) / Moderately Dense (40-70%) / Open (10-40%) / Scrub (<10%) | How much canopy exists | FSI, by remote sensing |
+| ✅ **Rights layer** | Forest Rights Act, 2006 — IFR, Community Rights and CFR rights, with a **13 December 2005** cut-off and a **75-year/three-generation** test for OTFDs | Who holds what rights over the land | Gram Sabha → SDLC → DLC |
+
+⚠️ **Four consequences a strong answer draws out:**
+
+1. **"Forest cover" is not "recorded forest area".** A plantation or orchard can register as
+   forest cover; a degraded but legally notified reserved forest may not. Answers that use
+   ISFR numbers to make legal or tenure claims are committing a category error.
+2. **The 2023 amendment and the 2024 direction pull in opposite directions.** The statute
+   narrowed applicability to notified/recorded forest; the Court kept the ecological test
+   alive in the interim. State the sequence, not just an endpoint (cross-refer Topic 12).
+3. **The exemptions are spatially concentrated.** The 2023 amendment's border-area exemption
+   (within 100 km of international borders/LoC/LAC for strategic linear projects) falls
+   largely on the Himalaya and the North-East — exactly where forest biodiversity and FRA
+   claims are densest.
+4. **Section 4(5) is the pivot.** The FRA bars eviction until the recognition and
+   verification process is complete. Wherever a relocation, diversion or exemption proceeds
+   in an area with unsettled claims, that provision — not a general appeal to tribal welfare
+   — is the precise legal argument.
+
 ## 8. Must-Know Facts for Advanced Prelims
 
 - ✅ The FRA's claims process runs through Gram Sabha, Sub-Divisional Level Committee and
@@ -134,6 +163,8 @@ credit the law's intent while substantively critiquing its execution.
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 ISFR 2023 (Dec 2024): total forest+tree cover 8,27,357 sq km (25.17% of geographical area). | Use as the ecological baseline; pair with Ministry of Tribal Affairs FRA implementation data (cited separately with its own date) to discuss the tenure-and-conservation intersection without conflating the two datasets. |
+| 📰 **Forest (Conservation) Amendment Act, 2023** renaming the 1980 Act to the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980**, read with the **Supreme Court's February 2024** interim direction preserving the *Godavarman* definition of forest pending State expert-committee records. | The current legal baseline for any FRA-adjacent question on diversion, exemption or "what counts as forest". Cite both together — the statute alone overstates the narrowing; the order alone understates the change. |
+| 📰 Economic Survey 2025-26 (Ch. 10): ecosystem-based restoration is being incentivised through the **Afforestation and Green Credit Programme**, encouraging public and private participation in compensatory afforestation and degraded-forest restoration. | Raises a distinctively FRA-shaped question that most answers miss: **whose consent is required** before "degraded forest land" is committed to a credit-earning plantation? Where CFR rights are recognised or claims are pending, the Gram Sabha is a rights-holder, not a stakeholder to be consulted (cross-refer Topic 12). |
 
 ## 11. PYQ-based analytical application
 

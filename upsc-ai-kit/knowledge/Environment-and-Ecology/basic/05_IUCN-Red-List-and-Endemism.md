@@ -36,6 +36,8 @@ Protection Act Schedules) are related but legally distinct classifications.
 | ✅ **Near Threatened (NT)** | Close to qualifying for a threatened category soon. |
 | ✅ **Least Concern (LC)** | Widespread and abundant taxa evaluated as low risk. |
 | ✅ **Data Deficient (DD)** | Inadequate information to make a direct or indirect assessment of extinction risk. |
+| ✅ **Not Evaluated (NE)** | The taxon has not yet been assessed against the criteria at all — distinct from Data Deficient, where an assessment was attempted but data were insufficient. |
+| ✅ **Criteria A-E** | The five quantitative criteria used to place a taxon in a threatened category: **A** population size reduction; **B** restricted geographic range (extent of occurrence / area of occupancy) plus fragmentation, decline or fluctuation; **C** small population size *and* continuing decline; **D** very small or very restricted population; **E** quantitative analysis of extinction probability. |
 | ✅ **Endemic species** | Naturally occurring only within one defined geographic region. |
 
 ## 3. Topic mechanism
@@ -88,6 +90,17 @@ Protection Act Schedules) are related but legally distinct classifications.
   create a legally binding domestic protection obligation.
 - ✅ Endemic species face heightened extinction risk because habitat loss in their single
   range has no alternative-range buffer.
+- ✅ The Red List uses **five criteria (A-E)** — population reduction, restricted range, small
+  and declining population, very small population, and quantitative extinction-probability
+  analysis. A taxon needs to meet only *one* criterion at the relevant threshold to enter a
+  threatened category.
+- ✅ **Not Evaluated (NE) ≠ Data Deficient (DD):** NE means no assessment was attempted; DD
+  means an assessment was attempted but the evidence was inadequate.
+- ✅ IUCN also publishes a separate **Green Status of Species** assessment, which measures
+  *recovery* and conservation impact rather than extinction risk — the Red List answers "how
+  close to extinction?", the Green Status answers "how fully recovered?".
+- ✅ IUCN assessments can be made at **global** and **regional/national** scale; a species can
+  carry different categories at the two scales, so always say which scale a category refers to.
 
 ## 7. UPSC traps
 
@@ -103,16 +116,28 @@ Protection Act Schedules) are related but legally distinct classifications.
 - ❌ Endemic automatically means endangered. -> Endemism raises vulnerability but an endemic
   species can still be assessed as Least Concern if its restricted range is stable and
   undisturbed.
+- ❌ "Not Evaluated" and "Data Deficient" are interchangeable. -> NE means never assessed;
+  DD means assessed but with inadequate data.
+- ❌ A single global IUCN category applies everywhere. -> IUCN supports regional/national Red
+  List assessments, so global and national categories for the same species can differ.
 
 ## 8. 📰 Current anchor
 
-- 📰 The Great Indian Bustard's Critically Endangered status and ongoing power-line
-  collision mitigation efforts (including Supreme Court-monitored measures on overhead
-  transmission lines in bustard habitat) remain a live, frequently updated conservation
-  issue — cite the most recent MoEFCC/court update date when referencing case status.
+- 📰 The Great Indian Bustard's Critically Endangered status and power-line collision
+  mitigation remain a live conservation issue. In **M.K. Ranjitsinh & Ors. v. Union of India
+  (Supreme Court, order dated 21 March 2024)** the Court **modified** its earlier blanket
+  direction to underground transmission lines across bustard habitat, constituted an expert
+  committee to determine feasibility area-by-area, and — in the same judgment — articulated a
+  **"right against the adverse effects of climate change"** read into Articles 14 and 21.
+  ⚠️ Read this correctly: it is a *modification* of an earlier direction, not a dilution of
+  bustard protection, and the climate-rights holding is *obiter*-adjacent constitutional
+  reasoning that examiners now expect candidates to know (cross-refer Topics 16, 17, 25).
+- 📰 Cite the most recent MoEFCC/NTCA/court update date whenever referencing case status or
+  bustard population figures — both are volatile.
 
 ⚠️ **Interpretation caution:** species counts by Red List category for India are updated
 periodically by IUCN reassessments — attribute any specific count to its assessment year.
+Never state that a species "has been downlisted/uplisted" without naming the assessment year.
 
 ## 9. PYQ application
 

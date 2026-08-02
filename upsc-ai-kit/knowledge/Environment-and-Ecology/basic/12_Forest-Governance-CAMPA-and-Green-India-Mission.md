@@ -45,28 +45,48 @@ instruments with different triggers and objectives.
 | ✅ **Net Present Value (NPV)** | A calculated monetary value of the ecosystem services lost when forest land is diverted, paid by the user agency into the CAF. |
 | ✅ **CAMPA** | Compensatory Afforestation Fund Management and Planning Authority — manages funds collected for compensatory afforestation and related forest/wildlife activities. |
 | ✅ **Compensatory Afforestation Fund Act, 2016** | Law establishing the National and State Compensatory Afforestation Funds (CAF) and their governance/utilisation framework. |
-| ✅ **Green India Mission (GIM)** | One of the eight National Action Plan on Climate Change (NAPCC) missions, focused on protecting, restoring and enhancing India's forest cover and ecosystem services. |
+| ✅ **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** | The **renamed** Forest (Conservation) Act, 1980 — the Forest (Conservation) Amendment Act, 2023 changed its title and restructured its scope. This is the statute whose prior approval is required before forest land is diverted to non-forest use, and it is therefore the *trigger* for CAMPA payments. |
+| ✅ **Green India Mission (GIM)** | One of the National Action Plan on Climate Change (NAPCC) missions, focused on protecting, restoring and enhancing India's forest cover and ecosystem services. ⚠️ NAPCC was launched with **eight** missions; the Economic Survey 2025-26 (Ch. 10) now describes NAPCC as operating through **nine** missions, the ninth being on **health** (the National Programme on Climate Change and Human Health). State both if a question asks for the count. |
 | ✅ **National Afforestation Programme (NAP)** | A distinct, older centrally sponsored afforestation scheme for degraded forest land, involving Joint Forest Management Committees. |
+| ✅ **Green Credit Programme** | A market-style instrument notified under the Environment (Protection) Act (Green Credit Rules, 2023) under which entities earn tradable green credits for voluntary environmental actions, most prominently tree plantation on degraded forest land. Economic Survey 2025-26 refers to the combined **"Afforestation and Green Credit Programme"** as the vehicle for incentivising public and private participation in compensatory afforestation and degraded-forest restoration. ⚠️ Distinguish it sharply from a **carbon** credit (Topic 21): a green credit is not denominated in tCO₂e. |
 
 ## 3. Topic mechanism
 
 1. When forest land is legally diverted for a non-forest purpose (e.g., mining, roads,
-   industry) under the Forest (Conservation) Act, the user agency must pay compensatory-
+   industry) under the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** (the renamed
+   Forest (Conservation) Act, 1980), the user agency must pay compensatory-
    afforestation costs and the calculated Net Present Value of the diverted forest land.
-2. These payments accumulate in the Compensatory Afforestation Fund (CAF), structured as a
+2. The **Forest (Conservation) Amendment Act, 2023** made three structural changes worth
+   knowing precisely: (i) it **renamed** the 1980 Act; (ii) it specified the **categories of
+   land to which the Act applies** — land declared/notified as forest under the Indian Forest
+   Act, 1927 or any other law, and land recorded as forest in government records on or after
+   25 October 1980; and (iii) it **exempted certain categories** from prior approval, notably
+   land within 100 km of international borders/LoC/LAC proposed for strategic linear projects
+   of national importance and security, small tracts for security infrastructure and defence
+   projects, and land alongside rail lines/public roads for access facilities, subject to
+   conditions.
+3. ⚠️ **The judicial counterweight:** the Supreme Court's **February 2024** interim direction
+   in the *Ashok Kumar Sharma v. Union of India* proceedings required that, pending the
+   compilation of State expert-committee forest records, the **broad "dictionary meaning" of
+   forest laid down in *T.N. Godavarman Thirumulpad* (1996)** continue to govern — preserving
+   protection for forest-like land that is not formally recorded as forest. Read the
+   amendment and this order **together**: the statute narrowed the recorded-forest test, the
+   Court kept the ecological test alive in the interim.
+4. These payments accumulate in the Compensatory Afforestation Fund (CAF), structured as a
    National CAF (retaining a smaller share centrally) and State CAFs (receiving the larger
    share for actual afforestation and forest-management activities in the respective state).
-3. CAMPA, established under the Compensatory Afforestation Fund Act, 2016, is the statutory
+5. CAMPA, established under the Compensatory Afforestation Fund Act, 2016, is the statutory
    authority managing planning, fund release and monitoring of how these funds are utilised
    by states for compensatory afforestation, forest regeneration, wildlife management, and
    forest infrastructure.
-4. The Green India Mission, in contrast, is a broader climate-policy mission (part of NAPCC)
+6. The Green India Mission, in contrast, is a broader climate-policy mission (part of NAPCC)
    aiming to increase forest/tree cover quality and area on a defined target timeline, using
    multiple funding streams (not only CAMPA funds) and emphasising ecosystem-service value
    (carbon sequestration, biodiversity, water regulation) alongside simple area coverage.
-5. Both mechanisms interact with, but are legally distinct from, the National Afforestation
-   Programme and various state-specific afforestation schemes, creating a layered (and
-   sometimes overlapping) forest-restoration funding landscape in India.
+7. Both mechanisms interact with, but are legally distinct from, the National Afforestation
+   Programme, the Green Credit Programme and various state-specific afforestation schemes,
+   creating a layered (and sometimes overlapping) forest-restoration funding landscape in
+   India.
 
 ## 4. Institutions and policy tools
 
@@ -100,6 +120,16 @@ instruments with different triggers and objectives.
   Compensatory Afforestation Funds and CAMPA's statutory governance structure.
 - ✅ The Green India Mission is one of the eight missions under the National Action Plan on
   Climate Change (NAPCC).
+- ✅ The **Forest (Conservation) Act, 1980 was renamed the Van (Sanrakshan Evam Samvardhan)
+  Adhiniyam, 1980** by the Forest (Conservation) Amendment Act, 2023, which also defined the
+  land categories covered and created border-area/strategic-project and rail/road-side
+  exemptions from prior central approval.
+- ✅ The Supreme Court in **February 2024** directed that the broad *Godavarman* (1996)
+  "dictionary meaning" of forest continue to apply pending State expert-committee records —
+  so the operative definition of "forest" is currently the product of statute **and** judicial
+  order together.
+- ✅ **Green credits (Green Credit Rules, 2023) are not carbon credits** — they reward
+  specified voluntary environmental actions and are not denominated in tCO₂e.
 - ✅ Compensatory afforestation is required to occur on non-forest land equivalent in extent
   to the diverted area, or on degraded forest land twice the extent if non-forest land is
   unavailable.
@@ -121,6 +151,14 @@ instruments with different triggers and objectives.
   contributes to, but was not created by, India's international climate commitments.
 - ❌ The National Afforestation Programme and CAMPA are identical schemes. -> They are
   distinct funding/implementation mechanisms, though both fund afforestation activity.
+- ❌ The Forest (Conservation) Act, 1980 has been repealed. -> It was **renamed** the Van
+  (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 and amended in 2023; it remains in force.
+- ❌ A green credit is a carbon credit by another name. -> Green credits (2023 Rules) reward
+  specified voluntary environmental actions such as plantation; carbon credit certificates
+  under the CCTS (Topic 21) are denominated in tonnes of CO₂-equivalent.
+- ❌ After the 2023 amendment, only land recorded as forest in government records is
+  protected. -> The Supreme Court's February 2024 interim direction kept the broader
+  *Godavarman* ecological definition operative pending State records.
 
 ## 8. 📰 Current anchor
 

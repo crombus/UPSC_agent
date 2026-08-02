@@ -12,14 +12,17 @@
 
 ```text
 WILDLIFE PROTECTION ACT, 1972 (AS AMENDED 2022) - SCHEDULE STRUCTURE
-Schedule I    -> Highest protection; absolute protection, most severe penalties
-Schedule II   -> Protection, but lesser than Schedule I
-Schedule III  -> Protection, lesser than Schedule II
-Schedule IV   -> CITES-linked species (Part I / II / III mirroring CITES Appendices I/II/III)
-              -> (Amendment 2022 also protects specified plants under the Act)
+Schedule I    -> ANIMALS given the greatest degree of protection; most severe penalties
+Schedule II   -> ANIMALS given a lesser degree of protection than Schedule I
+Schedule III  -> PLANTS (specified plant species protected under the Act)
+Schedule IV   -> SCHEDULED SPECIMENS: species listed in CITES Appendices I, II and III
+                 (the trade-regulation schedule, not a protection tier)
 
-PRE-2022 STRUCTURE HAD SIX SCHEDULES (I-VI); THE 2022 AMENDMENT RESTRUCTURED/REDUCED THEM
-TO ALIGN DOMESTIC LAW DIRECTLY WITH CITES OBLIGATIONS.
+PRE-2022 STRUCTURE HAD SIX SCHEDULES (I-VI). THE 2022 AMENDMENT REDUCED THEM TO FOUR:
+  - the old Schedule V ("vermin") schedule was OMITTED altogether;
+  - plants moved from the old Schedule VI to the new Schedule III;
+  - a brand-new CITES-mirroring Schedule IV was created, with Chapter VB inserted to
+    regulate international trade in scheduled specimens.
 ```
 
 **Core proposition:** The Wildlife Protection Act, 1972 is India's core domestic species-
@@ -33,8 +36,11 @@ domestic law with its CITES international-trade obligations.
 |---|---|
 | ✅ **Wildlife Protection Act, 1972** | India's principal law for protection of wild animals, birds and plants, and for regulating hunting and trade. |
 | ✅ **Schedule** | A graded list within the Act assigning a species a specific protection level and penalty regime. |
-| ✅ **Schedule I** | Species given the highest/absolute protection under the Act, with the most stringent penalties for offences. |
-| ✅ **Schedule IV (post-2022)** | Species listed to mirror CITES Appendices I, II and III, directly linking domestic law to international trade regulation. |
+| ✅ **Schedule I** | **Animals** given the greatest degree of protection under the Act, with the most stringent penalties for offences. |
+| ✅ **Schedule II** | **Animals** given a lesser degree of protection than Schedule I. |
+| ✅ **Schedule III (post-2022)** | **Plants** — the specified plant species protected under the Act (this was Schedule VI before the 2022 amendment). |
+| ✅ **Schedule IV (post-2022)** | **Scheduled specimens** — species listed in CITES Appendices I, II and III, directly linking domestic law to international trade regulation. It is a *trade* schedule, not a higher protection tier. |
+| ✅ **Vermin** | A wild animal declared, for a specified area and period, to be vermin so that it may be hunted. ⚠️ The old Schedule V vermin list was **omitted** in 2022; the power now operates through a central-government notification, and a Schedule I animal can never be declared vermin. |
 | ✅ **Poaching** | Illegal hunting/killing/capturing of protected wildlife under the Act. |
 | ✅ **Wildlife Crime Control Bureau (WCCB)** | Statutory multi-disciplinary body under MoEFCC combating organised wildlife crime, including trafficking. |
 
@@ -43,17 +49,24 @@ domestic law with its CITES international-trade obligations.
 1. The Act empowers the central and state governments to declare protected areas, regulate
    hunting, and control trade in wild animals, parts and derivatives, backed by a graded
    Schedule classification assigning each species a specific protection tier.
-2. Higher Schedules carry more stringent penalties and near-total prohibition on hunting,
-   while lower Schedules permit more regulated activity (e.g., historically, vermin
-   declarations for problem species under a schedule dealing with such categories).
+2. Higher Schedules carry more stringent penalties and near-total prohibition on hunting.
+   Hunting is permitted only in narrow statutory situations — chiefly where an animal has
+   become **dangerous to human life, or is disabled or diseased beyond recovery**, with the
+   permission of the **Chief Wildlife Warden** (for a Schedule I animal) or of an authorised
+   officer, and for specified scientific/education/collection purposes under permit.
 3. The Wildlife (Protection) Amendment Act, 2022 restructured the earlier six-schedule
-   system into four schedules and introduced a schedule explicitly mirroring CITES
-   Appendices — meaning a change in a species' international CITES Appendix listing can now
-   be reflected more directly in Indian domestic law.
-4. The 2022 amendment also empowered the central government to regulate invasive alien
-   species and strengthened provisions for the management of protected areas and for
-   international cooperation on wildlife trade enforcement.
-5. Enforcement runs through state forest/wildlife departments for on-ground action and
+   system into four schedules — animals (I and II), plants (III) and CITES-listed scheduled
+   specimens (IV) — and **omitted the old vermin schedule**, meaning a change in a species'
+   international CITES Appendix listing can now be reflected more directly in Indian
+   domestic law.
+4. The 2022 amendment inserted a dedicated chapter on the **regulation of international trade
+   in scheduled specimens**, requiring the central government to designate a **Management
+   Authority** (permits and certificates) and a **Scientific Authority** (advice on trade
+   impact) — the exact institutional design CITES requires of every party (Topic 09).
+5. The 2022 amendment also empowered the central government to regulate or prohibit the
+   **import, trade, possession or proliferation of invasive alien species**, strengthened
+   penalties, and provided for management plans for sanctuaries and national parks.
+6. Enforcement runs through state forest/wildlife departments for on-ground action and
    through the Wildlife Crime Control Bureau (WCCB) for organised, cross-border wildlife
    crime and intelligence coordination.
 
@@ -83,8 +96,15 @@ domestic law with its CITES international-trade obligations.
 - ✅ Schedule I provides the highest/most stringent protection level under the Act.
 - ✅ The Wildlife (Protection) Amendment Act, 2022 restructured the earlier six-schedule
   system into four schedules.
-- ✅ The 2022 amendment's Schedule IV is structured to mirror CITES Appendices I, II and III,
-  aligning domestic law with India's CITES obligations.
+- ✅ Post-2022 mapping to memorise: **Schedule I and II = animals** (greater and lesser
+  protection), **Schedule III = plants**, **Schedule IV = CITES-listed scheduled specimens**.
+  The old **Schedule V (vermin) was omitted**.
+- ✅ The 2022 amendment requires the Centre to designate a **Management Authority** and a
+  **Scientific Authority** for CITES implementation, and empowers it to regulate **invasive
+  alien species**.
+- ✅ Hunting is permissible only in narrow statutory circumstances — notably where an animal
+  is **dangerous to human life or disabled/diseased beyond recovery** — and, for Schedule I
+  animals, only on the written permission of the **Chief Wildlife Warden**.
 - ✅ The Wildlife Crime Control Bureau (WCCB) is the statutory body coordinating action
   against organised wildlife crime in India.
 
@@ -101,7 +121,15 @@ domestic law with its CITES international-trade obligations.
 - ❌ WCCB is a state-level body. -> It is a central, statutory, multi-disciplinary body under
   MoEFCC.
 - ❌ The Wildlife Protection Act only covers animals. -> It also covers specified plants,
-  particularly reinforced under the 2022 amendment.
+  which after 2022 are listed in **Schedule III**.
+- ❌ Post-2022 Schedule III is a third tier of animal protection. -> Schedule III is the
+  **plant** schedule; only Schedules I and II grade animal protection.
+- ❌ The vermin schedule still exists. -> The old Schedule V was **omitted** in 2022; vermin
+  declaration now proceeds by central notification for a specified area and period, and can
+  never apply to a Schedule I animal.
+- ❌ Schedule IV listing gives a species higher protection than Schedule II. -> Schedule IV is
+  a **trade-control** schedule mirroring CITES Appendices, not a rung on the protection
+  ladder.
 
 ## 8. 📰 Current anchor
 

@@ -40,7 +40,11 @@ CRZ compliance is the regulatory precondition for legitimate Blue Economy activi
 | ✅ **No Development Zone (NDZ)** | A buffer distance from the shoreline in CRZ-III (rural coastal) areas within which new construction is restricted, aimed at protecting the immediate coastal zone. |
 | ✅ **Blue Economy** | The sustainable use of ocean and coastal resources (fisheries, shipping, ports, tourism, offshore renewable energy, marine biotechnology) for economic growth, improved livelihoods and ocean-ecosystem health. |
 | ✅ **Mangrove ecosystem** | A salt-tolerant coastal forest ecosystem at the land-sea interface, providing coastal protection, fish nursery habitat and carbon storage ("blue carbon"). |
-| ✅ **Coral reef** | A marine ecosystem built by colonies of coral polyps, among the most biodiverse marine ecosystems, highly sensitive to temperature change (coral bleaching) and pollution. |
+| ✅ **Coral reef** | A marine ecosystem built by colonies of coral polyps, among the most biodiverse marine ecosystems, highly sensitive to temperature change (coral bleaching) and pollution. The three classical reef forms are **fringing** (attached to the shore), **barrier** (separated from shore by a lagoon) and **atoll** (a ring enclosing a lagoon). India's four major reef areas are the **Gulf of Mannar, Gulf of Kachchh, Lakshadweep and the Andaman and Nicobar Islands** — Lakshadweep being atoll reefs. |
+| ✅ **Seawater (saline) intrusion** | The landward movement of seawater into a coastal freshwater aquifer, driven chiefly by **over-extraction of groundwater** lowering the freshwater head, and compounded by sea-level rise, reduced recharge, tidal-canal/creek modification and aquaculture ponds. Remedies are recharge-side (artificial recharge, check dams, rainwater harvesting), demand-side (extraction regulation, crop shifts) and barrier-based (recharge/injection wells, subsurface barriers). |
+| ✅ **BBNJ Agreement (2023)** | The "**High Seas Treaty**" — an implementing agreement under **UNCLOS** on the conservation and sustainable use of **marine biological diversity of areas beyond national jurisdiction**. It covers marine genetic resources and benefit-sharing, area-based management tools including marine protected areas on the high seas, environmental impact assessments, and capacity-building/technology transfer. ⚠️ Verify India's signature/ratification status and the Agreement's entry into force on un.org before asserting them. |
+| ✅ **Deep Ocean Mission (2021)** | Ministry of Earth Sciences mission covering deep-sea mining technology, a manned submersible (**Samudrayaan**/*Matsya-6000*), ocean climate-change advisory services, deep-sea biodiversity, offshore energy and desalination, and an advanced marine-station for ocean biology. It is India's principal Blue-Economy science programme. |
+| ✅ **Exclusive Economic Zone (EEZ)** | The zone extending to **200 nautical miles** from the baseline, within which a coastal state has sovereign rights over living and non-living resources — the legal basis for most Blue Economy activity. |
 
 ## 3. Topic mechanism
 
@@ -102,6 +106,19 @@ CRZ compliance is the regulatory precondition for legitimate Blue Economy activi
   corals to expel their symbiotic algae, and is linked to broader climate-change impacts.
 - ✅ India's Blue Economy policy vision spans fisheries, shipping/ports, coastal tourism,
   offshore renewable energy and marine biotechnology.
+- ✅ **Reef forms:** fringing, barrier and atoll. India's reef areas are the Gulf of Mannar,
+  Gulf of Kachchh, Lakshadweep (atolls) and the Andaman and Nicobar Islands.
+- ✅ **Seawater intrusion** into coastal aquifers is driven primarily by **groundwater
+  over-extraction**, not by sea-level rise alone — the causal ordering matters in an answer.
+- ✅ The **BBNJ ("High Seas") Agreement, 2023** is an implementing agreement under **UNCLOS**
+  covering marine genetic resources, area-based management tools (including high-seas MPAs),
+  EIAs and capacity-building beyond national jurisdiction.
+- ✅ The **EEZ extends to 200 nautical miles**; CRZ-IV, by contrast, covers the water area
+  from the Low Tide Line up to **12 nautical miles** and tidally influenced water bodies.
+- ✅ **MISHTI** targets restoration of about **540 sq km of mangroves across 9 coastal States
+  and 4 UTs over 2023-2028**, with an estimated carbon sink of 4.5 million tonnes and around
+  22.8 million person-days of employment; the **National Coastal Mission** and **NPCA**
+  complete India's coastal-resilience architecture (Economic Survey 2025-26, Ch. 10).
 
 ## 7. UPSC traps
 
@@ -124,13 +141,38 @@ CRZ compliance is the regulatory precondition for legitimate Blue Economy activi
 - 📰 The CRZ Notification, 2019 remains the current governing coastal-regulation framework;
   verify any subsequent state-specific Coastal Zone Management Plan approval or amendment
   against the latest MoEFCC/NCZMA notification before citing a specific procedural detail.
+- 📰 **Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI)** envisages
+  restoration/reforestation of about **540 sq km of mangroves across nine coastal States and
+  four Union Territories over 2023-2028**, implemented through convergence with existing
+  schemes; it is expected to generate around **22.8 million person-days** of employment and
+  create an estimated carbon sink of **4.5 million tonnes** (Economic Survey 2025-26, Ch. 10).
+  ⚠️ These are **programme targets/estimates**, not audited achievements.
+- 📰 Economic Survey 2025-26 (Ch. 10) describes India's coastal approach as an **integrated
+  one linking ecosystem protection with livelihood security and climate adaptation**, run
+  through the **National Coastal Mission** (integrated coastal zone management and
+  climate-resilient infrastructure), **MISHTI** and the **NPCA**.
 
 ⚠️ **Interpretation caution:** specific No Development Zone distances and permitted-activity
 details vary by CRZ sub-category and state-specific Coastal Zone Management Plans — cite the
-specific notification/plan rather than a single blanket distance figure.
+specific notification/plan rather than a single blanket distance figure. Distinguish also
+between a **CRZ classification** (regulatory zone under the EPA 1986), a **protected area**
+(Wildlife Protection Act), a **Ramsar site** (international designation) and an **EEZ**
+(UNCLOS maritime zone) — four different legal orders that can apply to the same stretch of
+coast.
 
 ## 9. PYQ application
 
+- ✅ **2025 GS-III direct PYQ (150 words):** “Seawater intrusion in the coastal aquifers is a
+  major concern in India. What are the causes of seawater intrusion and the remedial measures
+  to combat this hazard?” ⚠️ Note the demand is **causes + remedies**, not a general coastal-
+  ecology essay. Lead with **groundwater over-extraction** as the primary driver (with
+  sea-level rise, reduced recharge, creek/canal modification and coastal aquaculture as
+  compounding factors), then organise remedies as recharge-side, demand-side and
+  barrier-based. Link to Topic 14 for the groundwater-governance instruments.
+- ✅ **2025 GS-III cross-route (250 words):** the maritime and coastal security question
+  (“Why is maritime security vital to protect India's sea trade?”) is primarily an
+  Internal-Security/IR demand, but the **coastal ecology and CRZ layer** of any answer on
+  coastal infrastructure and port expansion is owned here.
 - ⚠️ Recurring Prelims pattern: correctly match CRZ-I through CRZ-IV to their defining
   characteristics and permitted-activity regime.
 - ⚠️ Mains linkage: the mangrove/coral-reef ecosystem-service framing is used to argue for

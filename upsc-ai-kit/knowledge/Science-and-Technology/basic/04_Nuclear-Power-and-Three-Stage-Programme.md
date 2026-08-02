@@ -8,7 +8,7 @@
 
 ---
 
-## 2. Visual foundation
+## 1. Visual foundation
 
 ```text
 FISSION -> heat -> steam -> turbine -> electricity
@@ -31,7 +31,7 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 | PWR | Water kept under pressure; separate steam-generator loop | No boiling in reactor vessel |
 | FBR | Fast-neutron breeder logic | Central to Stage 2 |
 
-## 3. Essential definitions
+## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
@@ -45,7 +45,7 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 | ✅ **Closed fuel cycle** | Fuel strategy involving reprocessing and reuse of fissile material rather than one-time fuel use. |
 | ✅ **Thorium cycle** | Long-term strategy to use thorium, via conversion to fissile U-233, for sustained nuclear energy generation. |
 
-## 4. Mechanism / how it works
+## 3. Mechanism / how it works
 
 1. In a fission reactor, neutrons split heavy nuclei such as uranium, releasing more neutrons and a large amount of heat.
 2. The heat is transferred by coolant to make steam, which drives a turbine-generator system to produce electricity.
@@ -54,7 +54,7 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 5. Stage 2 fast breeder reactors use plutonium and aim to multiply fissile resources, opening the path to thorium-linked Stage 3 systems for long-term energy security.
 6. The full strategy makes sense only when candidates connect reactor physics, fuel cycle, reprocessing and India’s uranium-thorium resource profile.
 
-## 5. Institutions and programmes
+## 4. Institutions and programmes
 
 - ✅ **DAE:** apex governmental department for nuclear policy, research coordination and strategic direction.
 - ✅ **BARC:** core R&D institution for reactor technology, fuel cycle, advanced reactor concepts and reprocessing-linked knowledge systems.
@@ -63,7 +63,7 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 - ✅ **AERB:** safety regulator for siting, design, operation review and corrective oversight in India’s nuclear-power system.
 - ✅ **Civil-liability and international-cooperation framework:** CLND Act 2010, the Indo-US 123 Agreement and the NSG waiver form the legal-diplomatic backdrop for India’s civil nuclear engagement.
 
-## 6. Indian applications, examples and limitations
+## 5. Indian applications, examples and limitations
 
 - ✅ Nuclear power provides firm, low-carbon electricity and supports a wider ecosystem of reactor engineering, radiation technologies and fuel-cycle expertise.
 - ✅ India’s three-stage strategy is specifically designed around modest domestic uranium and relatively strong thorium potential, making it more than a generic copy of foreign reactor strategy.
@@ -74,7 +74,7 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 - ⚠️ Limitation: breeder-reactor success is strategically important, but scaling a breeder-heavy fleet requires mastery of materials, sodium systems, fuel fabrication and reprocessing.
 - ⚠️ Limitation: liability concerns, waste management politics and water/site constraints can slow investment even when the strategic rationale is strong.
 
-## 7. Must-Know Facts for Prelims
+## 6. Must-Know Facts for Prelims
 
 - ✅ Homi Bhabha’s three-stage strategy was built around India’s limited uranium and large thorium endowment.
 - ✅ Stage 1 relies on PHWRs using natural uranium; the resulting spent fuel provides plutonium relevant for later stages.
@@ -85,7 +85,7 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 - ✅ The Indo-US 123 Agreement is a bilateral civil nuclear cooperation framework; the NSG waiver enabled civil nuclear commerce with India despite India not being an NPT signatory.
 - ✅ Fission, not fusion, is the process used in today’s nuclear power plants.
 
-## 8. UPSC traps
+## 7. UPSC traps
 
 - ❌ Fission and fusion can be used interchangeably in nuclear-energy answers. -> India’s three-stage power programme is about fission; fusion is a different research-stage domain.
 - ❌ PHWR and PWR are the same because both mention “pressurised water.” -> PHWR uses heavy water and is linked to natural-uranium strategy; PWR uses light water with a different design logic.
@@ -94,7 +94,7 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 - ❌ Civil nuclear liability law is the same thing as reactor-safety regulation. -> Liability deals with compensation architecture; safety regulation is handled through regulatory oversight and standards.
 - ❌ Fast breeder success means India has already completed the thorium stage. -> PFBR progress belongs to Stage 2 logic, not automatic Stage 3 completion.
 
-## 9. 📰 Current anchor
+## 8. 📰 Current anchor
 
 - 📰 **20 Sep 2024 | RAPP-7 - achieved first criticality.** PIB described this as the start of controlled fission chain reaction and a sign of maturity in India’s indigenous 700 MWe PHWR line.
 - 📰 **24 Dec 2024 | DAE year-end review - PHWR/FBR progress.** PIB noted commercial operation of Kakrapar’s first two indigenous 700 MWe PHWR units and important PFBR commissioning milestones.
@@ -103,13 +103,13 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 
 ⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date; verify later updates before exam use.
 
-## 10. PYQ application
+## 9. PYQ application
 
 - ⚠️ Prelims regularly rewards clarity on reactor-type distinctions, heavy water versus light water, and breeder versus conventional thermal-reactor logic.
 - ⚠️ Questions on India’s nuclear strategy often test whether candidates understand why thorium matters specifically for India rather than for all countries equally.
 - ⚠️ GS-III Mains can combine energy security, low-carbon transition, indigenous technology, liability and international cooperation in one analytical frame.
 
-## 11. Mains framework / angles
+## 10. Mains framework / angles
 
 - ⚠️ Start with the physics of fission only briefly; the scoring part is the resource logic behind the three stages.
 - ⚠️ Show that Stage 1 is the presently practical backbone, Stage 2 is the strategic bridge and Stage 3 is the long-term thorium horizon.
@@ -118,13 +118,13 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 
 > **Answer thesis:** India’s nuclear-power strategy is not just about producing electricity from uranium; it is a long-horizon fuel-cycle design in which PHWR-led Stage 1 capacity supports breeder-led Stage 2 progression and ultimately aims at thorium-linked Stage 3 energy security, all within a tightly regulated and diplomatically sensitive civil-nuclear framework.
 
-## 12. Probable questions
+## 11. Probable questions
 
 - ⚠️ **Prelims (practice):** Which one of the following correctly distinguishes PHWR, PWR, BWR and Fast Breeder Reactor in relation to moderator/coolant/fuel-cycle logic?
 - ⚠️ **Mains (10 marks, practice):** Why is the three-stage nuclear programme especially relevant to India’s resource profile? Answer in 150 words.
 - ⚠️ **Mains (15 marks, practice):** Explain the technological, institutional and diplomatic dimensions of India’s civilian nuclear-power programme with special reference to PHWRs, fast breeders, thorium and civil nuclear cooperation.
 
-## 13. Study links
+## 12. Study links
 
 - ✅ Advanced companion: `advanced/04_Nuclear-Power-and-Three-Stage-Programme.md`.
 - ✅ `05_Nuclear-Fusion-and-ITER.md` - essential contrast between current fission power and experimental fusion research.

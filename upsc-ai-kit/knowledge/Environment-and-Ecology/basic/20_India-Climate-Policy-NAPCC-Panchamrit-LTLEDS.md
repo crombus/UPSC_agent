@@ -34,7 +34,10 @@ commitments.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **NAPCC (2008)** | National Action Plan on Climate Change — India's foundational domestic climate strategy, comprising eight National Missions addressing both mitigation and adaptation. |
+| ✅ **NAPCC (2008)** | National Action Plan on Climate Change — India's foundational domestic climate strategy. It was launched with **eight** National Missions covering both mitigation and adaptation. ⚠️ Economic Survey 2025-26 (Ch. 10) now describes NAPCC as spearheading climate action through **nine** missions, the ninth being on **health** (the National Programme on Climate Change and Human Health). If asked for a number, state "eight originally; nine as currently described by the Government." |
+| ✅ **Mission LiFE (Lifestyle for Environment)** | India's behaviour-change initiative linking individual and community consumption choices to climate action. Economic Survey 2025-26 states explicitly that **"LiFE is an integral part of India's NDC"** — so it is a formal component of India's international pledge, not merely a campaign. |
+| ✅ **State Action Plans on Climate Change (SAPCCs)** | State-level translations of NAPCC objectives. Their **revised** versions have shifted from a mitigation emphasis toward **adaptation-led development**, with greater weight on contextual risk, sectoral vulnerability and district-level development priorities (Economic Survey 2025-26, Ch. 10). |
+| ✅ **Adaptation Communication** | India submitted its **Initial Adaptation Communication** as part of its Third National Communication (2023), which is the source for the finding that India's adaptation-relevant expenditure rose to **5.6% of GDP in FY22**. |
 | ✅ **Panchamrit** | The five climate pledges announced by India at COP26 (Glasgow, 2021): 500 GW non-fossil capacity by 2030; 50% of energy requirements from renewables by 2030; reducing total projected carbon emissions by one billion tonnes by 2030; reducing carbon intensity of the economy by 45% by 2030 (from 2005 levels); achieving net-zero emissions by 2070. |
 | ✅ **LT-LEDS** | Long-Term Low-Emission Development Strategy — India's formal, UNFCCC-submitted (2022) strategy document outlining pathways toward its net-zero-by-2070 goal across key sectors. |
 | ✅ **Nationally Determined Contribution (NDC)** | India's Paris Agreement pledge, updated in 2022 to reflect the Panchamrit commitments. |
@@ -100,6 +103,20 @@ commitments.
   in 2022, operationalising the net-zero-by-2070 pathway.
 - ✅ India updated its NDC in 2022 to formally reflect the Panchamrit commitments.
 - ✅ Net-zero by 2070 was India's first formal, economy-wide net-zero commitment.
+- ✅ **The 2022 updated NDC quantified only two of the five Panchamrit pledges** as formal
+  international targets: (i) reduce the **emissions intensity of GDP by 45% by 2030 from the
+  2005 level**, and (ii) achieve about **50% cumulative electric power installed capacity
+  from non-fossil-fuel-based energy resources by 2030**. The 500 GW figure, the one-billion-
+  tonne reduction and the 2070 net-zero date are **announced pledges**, not quantified NDC
+  targets — a precise distinction examiners reward.
+- ✅ **Mission LiFE is an integral part of India's NDC** (Economic Survey 2025-26, Ch. 10).
+- ✅ India's adaptation-relevant expenditure rose to **5.6% of GDP in FY22** (Initial
+  Adaptation Communication / Third National Communication, 2023).
+- ✅ **India has surpassed the 50% non-fossil installed-capacity goal ahead of schedule** —
+  non-fossil sources stood at **51.93% of installed power capacity at end-December 2025**
+  (Ministry of Power data, cited in Economic Survey 2025-26, Ch. 10). ⚠️ This is
+  *installed capacity*, not generation share, and not the separate "50% of energy
+  requirements" Panchamrit pledge.
 
 ## 7. UPSC traps
 
@@ -114,18 +131,42 @@ commitments.
   NDC.
 - ❌ India's carbon-intensity-reduction target is measured from a 2015 baseline. -> The
   Panchamrit's 45% carbon-intensity-reduction target is measured against a 2005 baseline.
+- ❌ All five Panchamrit pledges are quantified targets in India's updated NDC. -> Only two
+  were — the **45% emissions-intensity cut by 2030 from 2005** and about **50% non-fossil
+  installed capacity by 2030**.
+- ❌ India's 51.93% non-fossil figure means half of India's electricity is generated from
+  non-fossil sources. -> It is **installed capacity**, not generation; generation share is
+  materially lower because of capacity-utilisation differences.
+- ❌ Mission LiFE is a purely domestic awareness campaign outside India's international
+  commitments. -> The Government states it is **an integral part of India's NDC**.
 
 ## 8. 📰 Current anchor
 
+- 📰 **India crossed its 50% non-fossil installed-capacity milestone ahead of the 2030
+  deadline: 51.93% of installed power capacity at end-December 2025** (Ministry of Power data
+  cited in Economic Survey 2025-26, Ch. 10). During 2025-26 up to 31 December 2025, India
+  added **38.61 GW of renewable capacity** (30.16 GW solar, 4.47 GW wind, 3.24 GW hydro,
+  0.03 GW bio-power).
+- 📰 Per **IRENA's Renewable Energy Statistics 2025**, India ranks **fourth globally** in
+  total installed renewable energy capacity, after China, the USA and Brazil (cited in
+  Economic Survey 2025-26, Ch. 10).
+- 📰 **Adaptation**: India's adaptation-relevant expenditure reached **5.6% of GDP in FY22**;
+  the Government's stated direction is "ecosystem-led, development-integrated climate
+  resilience", operationalised through NAPCC missions, **MISHTI** (mangroves), the
+  **National Coastal Mission**, **NPCA** (aquatic ecosystems) and revised, adaptation-led
+  **SAPCCs** (Economic Survey 2025-26, Ch. 10).
 - 📰 India's Panchamrit pledges (COP26, 2021), its 2022-updated NDC, and its 2022-submitted
-  LT-LEDS remain the current formal architecture of India's international climate
-  commitments; verify the latest progress figures toward the 500 GW non-fossil-capacity
-  target against the most recent MNRE/Ministry of Power report before citing a specific
-  achieved-capacity figure.
+  LT-LEDS remain the formal architecture of its international climate commitments. ⚠️ Under
+  the Paris ratchet, Parties were expected to communicate NDCs with **2035** targets in the
+  round following the first Global Stocktake — verify India's current NDC submission status
+  on unfccc.int before asserting it in an answer; this file does not assert one.
 
-⚠️ **Interpretation caution:** progress-tracking figures toward Panchamrit targets (e.g.,
-installed non-fossil capacity achieved so far) change frequently — cite the specific
-source and reporting date.
+⚠️ **Interpretation caution:** progress-tracking figures toward Panchamrit targets change
+frequently — cite the specific source and reporting date. Keep three quantities strictly
+apart: **installed capacity share** (51.93%, Dec 2025), **generation share** (a different
+and lower number, because solar and wind have lower capacity utilisation factors), and
+**share of energy requirements met** (the Panchamrit formulation). Conflating them is the
+single most common error on this topic.
 
 ## 9. PYQ application
 

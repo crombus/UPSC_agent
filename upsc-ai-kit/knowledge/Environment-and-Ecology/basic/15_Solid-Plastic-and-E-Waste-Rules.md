@@ -38,7 +38,10 @@ municipalities/consumers to producers and brand owners.
 | ✅ **Plastic Waste Management Rules, 2016 (as amended)** | Rules regulating plastic packaging and products, mandating Extended Producer Responsibility and phasing out identified single-use plastic items. |
 | ✅ **E-Waste (Management) Rules, 2022** | Rules governing environmentally sound management of electronic/electrical waste, mandating EPR and authorised recycling/dismantling. |
 | ✅ **Extended Producer Responsibility (EPR)** | A policy principle making producers/brand owners financially/physically responsible for the collection, recycling or disposal of their products after consumer use. |
-| ✅ **Single-use plastic (SUP)** | Plastic items designed for one-time use before disposal (e.g., certain plastic cutlery, straws, specified packaging films), a category India has moved to phase out for identified items. |
+| ✅ **Single-use plastic (SUP)** | Plastic items designed for one-time use before disposal. India banned **12 identified SUP items** with high littering potential and low utility from **1 July 2022** — ear buds with plastic sticks, plastic sticks for balloons, plastic flags, candy sticks, ice-cream sticks, polystyrene (thermocol) for decoration, plates/cups/glasses/cutlery (forks, spoons, knives, straws, trays), wrapping or packing films around sweet boxes, invitation cards and cigarette packets, PVC banners under 100 microns, and stirrers (Economic Survey 2025-26, Ch. 10). |
+| ✅ **Plastic carry-bag thickness** | Raised progressively to **120 microns** to make bags easier to collect and recycle — a design-standard lever rather than a ban. |
+| ✅ **Battery Waste Management Rules, 2022** | EPR framework for all battery types (portable, automotive, industrial, electric-vehicle), replacing the earlier lead-acid-focused rules and mandating minimum recovery and recycled-content obligations. |
+| ✅ **Circular Economy Action Plans** | India has adopted action plans across **10 waste categories** — lithium-ion batteries, e-waste, toxic and hazardous industrial waste, ferrous and non-ferrous scrap metal, tyre and rubber, end-of-life vehicles, gypsum, used oil, solar panels and municipal solid waste (Economic Survey 2025-26, Ch. 10). |
 | ✅ **Urban Local Bodies (ULBs)** | Municipal-level bodies primarily responsible for household/municipal solid-waste collection, segregation infrastructure and processing under the Solid Waste Management Rules. |
 
 ## 3. Topic mechanism
@@ -101,6 +104,17 @@ municipalities/consumers to producers and brand owners.
   Waste Management Rules.
 - ✅ The E-Waste (Management) Rules, 2022 mandate that e-waste be channelled to authorised
   dismantlers/recyclers under an EPR framework.
+- ✅ **12 identified single-use plastic items** were banned from **1 July 2022**; plastic
+  carry-bag thickness was raised to **120 microns**. The policy is item-specific, not a
+  blanket plastic ban.
+- ✅ India now runs **EPR frameworks across eight waste streams** — plastic packaging,
+  batteries, e-waste, waste tyres, used oil, end-of-life vehicles, construction and
+  demolition waste, and non-ferrous metal scrap — supported by centralised digital portals
+  (Economic Survey 2025-26, Ch. 10).
+- ✅ **Circular Economy Action Plans** now cover **10 waste categories**, including solar
+  panels and gypsum — categories most candidates omit.
+- ✅ All these rule frameworks are subordinate legislation notified under the **Environment
+  (Protection) Act, 1986**, not standalone statutes.
 
 ## 7. UPSC traps
 
@@ -119,6 +133,14 @@ municipalities/consumers to producers and brand owners.
 - ❌ E-waste in India is primarily managed through formal, authorised recyclers today. -> A
   significant share has historically been processed through informal, often environmentally
   unsafe channels, which the 2022 Rules aim to shift toward authorised recycling.
+- ❌ India has banned single-use plastics generally. -> **12 specified items** were banned
+  from 1 July 2022; other single-use plastics remain legal but subject to EPR and thickness
+  standards.
+- ❌ EPR applies only to plastic and e-waste. -> EPR frameworks now cover **eight** streams,
+  including waste tyres, used oil, end-of-life vehicles, construction and demolition waste
+  and non-ferrous metal scrap.
+- ❌ Solar panels are outside India's waste policy. -> Solar panels are one of the **10 waste
+  categories** covered by Circular Economy Action Plans.
 
 ## 8. 📰 Current anchor
 
@@ -132,6 +154,21 @@ municipalities/consumers to producers and brand owners.
   the current governing framework; verify the latest EPR target percentages and any newly
   specified single-use-plastic-item bans against the most recent MoEFCC/CPCB notification
   before citing specific figures.
+- 📰 **EPR portal position as on 14 November 2025** (Economic Survey 2025-26, Ch. 10):
+  **69,116 producers** and **4,377 recyclers** registered; approximately **308 lakh tonnes**
+  of waste (plastic packaging, battery, e-waste and waste tyres) recycled, against which
+  **296.53 lakh tonnes** of EPR certificates were generated. ⚠️ Date-stamp this figure — it
+  is a rolling cumulative number.
+- 📰 **Environment Protection (Management of Contaminated Sites) Rules, 2025** establish a
+  framework for identifying and remediating contaminated sites, and the **Environmental
+  Relief Fund** (under the amended Public Liability Insurance Act) can now be used for that
+  remediation (Economic Survey 2025-26, Ch. 10) — closing a long-standing legacy-waste gap
+  that the three waste-stream rules never addressed.
+
+⚠️ **Registered vs recycled vs recovered discipline:** producer/recycler *registrations*
+measure participation, tonnage *recycled* measures throughput, and EPR *certificates*
+measure the tradable instrument generated — none of the three is a measure of material
+actually returned to productive use. Say which one a cited number is.
 
 ⚠️ **Interpretation caution:** EPR target percentages and specific banned single-use-plastic
 item lists have been revised over time — cite the specific notification and its date rather

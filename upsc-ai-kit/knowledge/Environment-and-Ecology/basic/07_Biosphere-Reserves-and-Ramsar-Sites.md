@@ -50,20 +50,25 @@ the two are distinct designation systems that can, but need not, overlap geograp
 2. The three-zone model allows a single landscape to serve conservation (core), scientific/
    monitoring (buffer) and livelihood (transition) functions simultaneously, rather than
    forcing a single "protect everything" or "develop everything" choice.
-3. A wetland is nominated by India to the Ramsar Secretariat based on criteria such as
-   supporting significant numbers of waterbirds, representative/rare wetland types, or
-   supporting threatened species — successful designation places it on the Ramsar "Montreux
-   Record" watch-list only if its ecological character is later found to be under threat.
-4. Ramsar designation obliges India to promote the "wise use" of the site (sustainable
+3. A wetland is nominated by India to the Ramsar Secretariat based on nine listing criteria —
+   covering representative/rare wetland types, support for threatened species and ecological
+   communities, biodiversity value, and numerical waterbird or fish thresholds (e.g., regularly
+   supporting 20,000 or more waterbirds, or 1% of a biogeographic population of a waterbird
+   species). Meeting **any one** criterion suffices.
+4. The **Montreux Record** is a separate register, maintained within the List of Wetlands of
+   International Importance, of listed sites where changes in ecological character **have
+   occurred, are occurring or are likely to occur** as a result of technological development,
+   pollution or other human interference. It is a *watch-list*, not a penalty — and India's
+   long-standing entries are **Keoladeo National Park (Rajasthan)** and **Loktak Lake
+   (Manipur)**.
+5. Ramsar designation obliges India to promote the "wise use" of the site (sustainable
    management maintaining ecological character) and to report periodically, but it does not
    by itself create new domestic legal protection — implementation still relies on existing
    Indian wetland/environmental law.
-5. A wetland can be located inside a Biosphere Reserve's core/buffer zone and simultaneously
+6. A wetland can be located inside a Biosphere Reserve's core/buffer zone and simultaneously
    hold Ramsar status, illustrating how the two designation systems are complementary,
    layered international recognitions rather than substitutes for domestic legal
-   protection.
-
-## 4. Institutions and policy tools
+   protection.## 4. Institutions and policy tools
 
 - ✅ **MoEFCC:** nodal ministry nominating both Biosphere Reserves (to UNESCO) and wetlands
   (to the Ramsar Secretariat).
@@ -97,6 +102,17 @@ the two are distinct designation systems that can, but need not, overlap geograp
   as India's 100th Ramsar site (source: PIB PRID 2269208; Ramsar Convention Secretariat).
 - ✅ Ramsar designation requires member states to promote the "wise use" (sustainable
   management) of listed wetlands, not necessarily strict no-use preservation.
+- ✅ The **Montreux Record** lists Ramsar sites whose ecological character has changed, is
+  changing or is likely to change; India's entries are **Keoladeo National Park** and
+  **Loktak Lake**.
+- ✅ **World Wetlands Day is 2 February**, the anniversary of the Convention's signature at
+  Ramsar, Iran in 1971.
+- ✅ Domestically, wetlands are governed by the **Wetlands (Conservation and Management)
+  Rules, 2017**, implemented through State/UT Wetland Authorities, and funded through the
+  **National Plan for Conservation of Aquatic Ecosystems (NPCA)** — the Ramsar label itself
+  creates no new Indian legal power.
+- ✅ **Nilgiri (1986)** was India's first Biosphere Reserve and its first entry into UNESCO's
+  World Network (2000); the **Gulf of Mannar** was India's first *marine* Biosphere Reserve.
 
 ## 7. UPSC traps
 
@@ -109,7 +125,14 @@ the two are distinct designation systems that can, but need not, overlap geograp
 - ❌ Ramsar status means no human use of the wetland is permitted. -> The Convention's "wise
   use" principle permits sustainable use compatible with maintaining ecological character.
 - ❌ The Ramsar Convention creates automatic domestic legal protection in India. -> Domestic
-  protection still depends on India's own wetland/environmental law and rules.
+  protection still depends on India's own wetland/environmental law and rules (Wetlands
+  (Conservation and Management) Rules, 2017).
+- ❌ Being on the Montreux Record means a site has lost Ramsar status. -> The Montreux Record
+  sits *within* the Ramsar List; it flags adverse ecological change and triggers advisory
+  assistance, not delisting.
+- ❌ The Ramsar Convention is a UN treaty administered by UNEP. -> It is an independent
+  intergovernmental treaty with its own Secretariat hosted by IUCN at Gland, Switzerland;
+  Biosphere Reserves, by contrast, sit under UNESCO's MAB Programme.
 - ❌ India's Ramsar site count is a fixed, unchanging number. -> It grows as new sites are
   nominated and designated — always verify and cite the latest count with its date (100 as
   of 5 June 2026, per PIB PRID 2269208).
@@ -123,9 +146,17 @@ the two are distinct designation systems that can, but need not, overlap geograp
 - 📰 India has 18 notified Biosphere Reserves; 13 are internationally recognised in
   UNESCO's World Network after Cold Desert joined in 2025 (MoEFCC/UNESCO, verified 2026).
   Keep the domestic and UNESCO-recognised counts distinct.
+- 📰 Economic Survey 2025-26 (Ch. 10) credits the **National Plan for Conservation of Aquatic
+  Ecosystems (NPCA)** with expanding protected wetlands that "support flood moderation and
+  water security — critical buffers under climate stress." This is the strongest available
+  official framing for arguing that Ramsar-listed wetlands are **adaptation infrastructure**,
+  not merely bird habitat.
 
 ⚠️ **Interpretation caution:** always cite the Ramsar count with its exact date (5 June 2026
 for the 100th-site milestone), since new sites continue to be added after that date.
+Equally, keep three statuses apart: a wetland **notified** under the 2017 Rules, a wetland
+**designated** as a Ramsar site, and a wetland with a **funded, implemented management plan**
+— only the third is evidence of protection.
 
 ## 9. PYQ application
 

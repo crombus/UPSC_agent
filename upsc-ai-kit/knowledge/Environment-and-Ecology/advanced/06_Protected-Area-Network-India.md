@@ -35,11 +35,19 @@ continuity — and this balance is where most real controversy and litigation oc
 
 ## 3. Eco-Sensitive Zones: jurisprudence and the buffer-planning debate
 
-- ✅ The Supreme Court, in matters concerning eco-sensitive zones around protected areas, has
-  addressed the extent and regulation of activity permissible in ESZs (buffer distances,
-  activity zonation), reflecting an evolving judicial approach to balancing conservation
-  buffers with settled human habitations, infrastructure and local economic activity within
-  or near the notified zone.
+- ✅ **The judicial sequence to know (verify exact order dates before citing them):** in
+  **2022**, in the continuing *T.N. Godavarman Thirumulpad* proceedings, the Supreme Court
+  directed a **minimum 1 km eco-sensitive zone** around every protected area as a default
+  buffer. In **2023** the Court **modified** that direction, accepting that a uniform blanket
+  buffer could not be applied mechanically where settlements, existing ESZ notifications or
+  essential public infrastructure were involved, and restoring a site-specific,
+  notification-led approach.
+- ⚠️ **Read the sequence, not just the endpoint.** The 2022 order is the strongest judicial
+  statement that protected areas need buffers as a matter of principle; the 2023 modification
+  is the strongest judicial statement that conservation buffers cannot be designed without
+  reference to who already lives there. A high-scoring answer uses *both* to show that the
+  Court moved from a uniform rule to a proportionality test — not that it "diluted"
+  conservation.
 - ⚠️ **Implementation gap:** ESZ boundary finalisation for many protected areas has
   historically lagged the notification of the core protected area itself, creating
   prolonged regulatory uncertainty for residents and local development planning in the
@@ -47,6 +55,25 @@ continuity — and this balance is where most real controversy and litigation oc
 - ⚠️ The tension is genuinely two-sided: overly permissive ESZ rules risk edge-effect
   degradation of the core area; overly restrictive rules risk disproportionate hardship for
   long-settled local populations with limited alternative livelihoods.
+
+## 3A. The marine blind spot in India's protected-area network
+
+⚠️ A distinct, under-used analytical point: India's protected-area system is overwhelmingly
+**terrestrial** in design vocabulary (National Park, Sanctuary, core/buffer, relocation),
+whereas the KMGBF's 30x30 target applies to **terrestrial and marine** areas alike.
+
+1. ⚠️ Marine and coastal protected areas in India are mostly notified as Marine National
+   Parks/Sanctuaries under the same Wildlife Protection Act categories, which were designed
+   for bounded terrestrial habitat rather than for mobile fish stocks, migratory marine
+   megafauna and fluid oceanographic boundaries.
+2. ⚠️ Protection in the marine domain is therefore split across statutes and ministries —
+   Wildlife Protection Act (MoEFCC), CRZ notifications under the Environment (Protection)
+   Act (Topic 24), and fisheries regulation (state fisheries departments/Department of
+   Fisheries) — with no single core/buffer analogue.
+3. ⚠️ **Answer payoff:** when a question asks whether India can meet 30x30, the honest
+   analytical answer separates the terrestrial arithmetic (where OECMs, community forests and
+   conservation reserves can bridge the gap) from the marine arithmetic (where the legal
+   toolkit itself is thinner) — a distinction most candidates miss.
 
 ## 4. Species-reserve overlay architecture: NTCA and Project Elephant compared
 

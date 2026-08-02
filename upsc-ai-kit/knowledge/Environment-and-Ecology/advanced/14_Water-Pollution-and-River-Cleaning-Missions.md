@@ -117,6 +117,13 @@ flagged in various government and independent assessments of river-cleaning miss
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 Namami Gange Programme continuing sewage-treatment-infrastructure expansion and effluent monitoring (verify latest NMCG/CPCB capacity and water-quality figures with their report date before citing). | Use to illustrate the infrastructure-first governance model while explicitly flagging the "last-mile" implementation gap and the stretch/season-specific nature of water-quality claims. |
+| 📰 **Water Act criminal provisions amended under Article 252(1)**, alongside Jan Vishwas decriminalisation of the EPA, Air Act and Indian Forest Act (Economic Survey 2025-26, Ch. 10); MoEFCC has also issued **uniform guidelines for grant of consent to establish/operate across all SPCBs**. | Two distinct analytical points. First, the **federal** one: water's State List status forced a different constitutional route — a precise GS-II crossover. Second, the **regulatory-design** one: uniform consent guidelines attack the inter-state variability that made "same industry, different SPCB, different outcome" a standing critique. |
+| 📰 **Environment Audit Rules, 2025** introduce **certified third-party environmental auditors** under major environmental statutes, and **PARIVESH 3.0** provides a single-window clearance and post-approval compliance platform (Economic Survey 2025-26, Ch. 10). | The structural answer to the classic "SPCBs lack monitoring capacity" critique is **outsourcing verification while retaining sanction**. A balanced answer notes the obvious risk: third-party auditors are paid by the audited entity, which is precisely the conflict of interest that has undermined audit regimes elsewhere. |
+
+⚠️ **Capacity-created vs capacity-used discipline:** installed **STP capacity (MLD)** is not
+the same as **capacity actually operated at design load**, which is not the same as
+**river-stretch water quality**. The recurring CAG/standing-committee finding in this sector
+is the gap between the first and second — say which of the three a cited number measures.
 
 ## 10. PYQ-based analytical application
 

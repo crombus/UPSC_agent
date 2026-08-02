@@ -37,6 +37,10 @@ India's most degraded major rivers.
 | ✅ **Eutrophication** | Nutrient (nitrogen/phosphorus) over-enrichment of a water body causing algal blooms and subsequent oxygen depletion (cross-refer Topic 02). |
 | ✅ **Consent to Establish / Consent to Operate** | Statutory approvals under the Water Act, 1974 (and Air Act, 1981) that industries/projects must obtain from SPCBs before establishing or operating a polluting activity. |
 | ✅ **Namami Gange Programme** | India's flagship integrated river-conservation mission for the Ganga, covering sewage treatment infrastructure, industrial effluent monitoring, river-front development, biodiversity and public participation. |
+| ✅ **National Ganga Council** | The apex body for Ganga rejuvenation, **chaired by the Prime Minister**, created by the *River Ganga (Rejuvenation, Protection and Management) Authorities Order, 2016* issued under the **Environment (Protection) Act, 1986** — with an Empowered Task Force under the Union Jal Shakti Minister, plus State and District Ganga Committees below it. ⚠️ NMCG is its implementation arm (a registered society vested with Authority powers), not a statutory board like CPCB. |
+| ✅ **"National River"** | The Ganga was declared India's **National River in 2008** — a declaratory status that raised priority and funding, not a new legal protection category. |
+| ✅ **Arth Ganga** | The economic-model extension of Namami Gange, built on six verticals: zero-budget natural farming, monetisation and reuse of treated water and sludge, livelihood generation, increased public participation, cultural heritage and tourism, and institution building. |
+| ✅ **Hybrid Annuity Model (HAM)** | The PPP contracting model used for Namami Gange sewage-treatment plants, under which a share of capital cost is paid during construction and the balance as performance-linked annuities over a long operation period — designed to fix the historic failure mode of *built-but-not-operated* STPs. |
 
 ## 3. Topic mechanism
 
@@ -96,6 +100,18 @@ India's most degraded major rivers.
   pollution-load contributor to the Ganga.
 - ✅ "Consent to Establish" and "Consent to Operate" are statutory approvals industries must
   obtain from SPCBs under the Water Act, 1974.
+- ✅ The **National Ganga Council is chaired by the Prime Minister** and was constituted under
+  the **Environment (Protection) Act, 1986** through the 2016 Authorities Order — a rare
+  instance of a river-governance body created under environmental, not water, legislation.
+- ✅ The Ganga was declared a **National River in 2008**.
+- ✅ **Arth Ganga** has **six verticals**, of which zero-budget natural farming and the
+  monetisation/reuse of treated water and sludge are the most frequently examined.
+- ✅ Namami Gange uses the **Hybrid Annuity Model** with a "one city, one operator" approach
+  to tie payment to sustained STP *performance* rather than construction completion.
+- ✅ Because **"water" is a State List subject**, the criminal provisions of the Water Act,
+  1974 were amended (decriminalised) using **Article 252(1)** — legislation by Parliament for
+  two or more consenting States — whereas the Air Act, EPA and Indian Forest Act were
+  decriminalised directly through the Jan Vishwas route (Economic Survey 2025-26, Ch. 10).
 
 ## 7. UPSC traps
 
@@ -112,6 +128,12 @@ India's most degraded major rivers.
 - ❌ Eutrophication and organic sewage pollution are the same phenomenon. -> Eutrophication
   is specifically nutrient (N/P) over-enrichment causing algal blooms; sewage pollution is
   broader organic-matter and pathogen contamination, though the two can co-occur.
+- ❌ The National Ganga Council is chaired by the Union Jal Shakti Minister. -> It is chaired
+  by the **Prime Minister**; the Empowered Task Force is chaired by the Jal Shakti Minister.
+- ❌ NMCG is a statutory board like CPCB. -> It is a registered society vested with the powers
+  of an Authority under the 2016 Order issued under the Environment (Protection) Act, 1986.
+- ❌ Declaring the Ganga a "National River" (2008) created a new legal protection category. ->
+  It was a declaratory, priority-signalling status, not a new statutory regime.
 
 ## 8. 📰 Current anchor
 
@@ -129,7 +151,18 @@ monitoring report and its date, as water quality can vary seasonally and by rive
 - ✅ **2024 GS-III direct PYQ:** “Industrial pollution of river water is a
   significant environmental issue in India.” It asks for mitigation measures
   and government initiatives. Route the exact demand via `../README.md`.
-
+- ✅ **2024 GS-III direct PYQ (250 words):** “The world is facing an acute shortage of clean
+  and safe freshwater. What are the alternative technologies which can solve this crisis?
+  Briefly discuss any three such technologies citing their key merits and demerits.” ⚠️ Note
+  the exact demand: **three** technologies, each with **merits and demerits** — a structured
+  three-block answer (e.g., desalination, wastewater recycling/reuse, atmospheric water
+  generation or advanced membrane treatment), not a general water-scarcity essay.
+- ✅ **2025 GS-III direct PYQ (250 words):** “Examine the factors responsible for depleting
+  groundwater in India. What are the steps taken by the government to mitigate such
+  depletion of groundwater?” ⚠️ This is a **groundwater quantity** question; keep it distinct
+  from the surface-water **quality** framing of Namami Gange, and use Atal Bhujal Yojana,
+  Jal Shakti Abhiyan/Catch the Rain, the Central Ground Water Authority's notified
+  over-exploited blocks and the Master Plan for Artificial Recharge as the "steps taken".
 - ⚠️ Recurring Prelims pattern: identify the correct water-quality indicator (BOD/DO/
   faecal coliform) implied by a described pollution scenario.
 - ⚠️ Mains linkage: the sewage-versus-industrial-effluent pollution-source distinction is

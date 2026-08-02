@@ -36,7 +36,8 @@ replacing the underlying legal category.
 | ✅ **Conservation Reserve** | Buffer/connector area, usually government land adjacent to protected areas, declared after consulting local communities. |
 | ✅ **Community Reserve** | Area on private/community land declared with consent of the community/individual for conservation, retaining their management role. |
 | ✅ **Tiger Reserve** | Declared by state government on NTCA recommendation, comprising a core/critical tiger habitat (inviolate) and a buffer zone, under the National Tiger Conservation Authority framework. |
-| ✅ **Eco-Sensitive Zone (ESZ)** | Area around a protected area (typically up to 10 km, case-specific) where regulated (not prohibited) activity is permitted to cushion the core protected area from external pressure. |
+| ✅ **Eco-Sensitive Zone (ESZ)** | Area around a protected area where regulated (not prohibited) activity is permitted to cushion the core from external pressure. ⚠️ Critically, an ESZ is notified under the **Environment (Protection) Act, 1986**, *not* under the Wildlife Protection Act — its extent is site-specific and fixed by the notification, not by a uniform statutory 10 km rule. |
+| ✅ **OECM** | "Other effective area-based conservation measure" — a CBD/KMGBF category for areas delivering conservation outcomes outside the formal protected-area system (sacred groves, community forests, well-managed working landscapes). It counts towards the 30x30 target without being a legal protected area (link Topic 04). |
 
 ## 3. Topic mechanism
 
@@ -90,6 +91,19 @@ replacing the underlying legal category.
   recommendation and have a core/critical tiger habitat plus a buffer zone.
 - ✅ Eco-Sensitive Zones regulate, rather than prohibit, activity around a protected area to
   reduce edge pressure.
+- ✅ **ESZs are notified under the Environment (Protection) Act, 1986**, while National Parks,
+  Sanctuaries and Conservation/Community Reserves are declared under the Wildlife Protection
+  Act, 1972 — different parent statutes, a very common Prelims discriminator.
+- ✅ Boundaries of a **National Park or Sanctuary cannot be altered except on a resolution
+  passed by the State Legislature**, and de-notification requires the recommendation of the
+  **National Board for Wildlife (NBWL)** — the statutory safeguard against administrative
+  shrinkage of protected areas.
+- ✅ For a **Tiger Reserve**, no alteration of boundaries may be made except on the
+  recommendation of the **NTCA** and the approval of the **NBWL**, and no Tiger Reserve may be
+  de-notified except in the public interest with the approval of both bodies — a stricter
+  double lock than for an ordinary sanctuary.
+- ✅ The **National Board for Wildlife is chaired by the Prime Minister**; its Standing
+  Committee (chaired by the Environment Minister) does most clearance work in practice.
 
 ## 7. UPSC traps
 
@@ -105,6 +119,14 @@ replacing the underlying legal category.
   rather than universally prohibit activity.
 - ❌ All four protected-area categories were created simultaneously in 1972. -> Conservation
   and Community Reserves were added via a later (2002) amendment.
+- ❌ Eco-Sensitive Zones are declared under the Wildlife Protection Act. -> They are notified
+  under the **Environment (Protection) Act, 1986**.
+- ❌ Every protected area has a uniform 10 km Eco-Sensitive Zone. -> ESZ extent is
+  site-specific and fixed by the individual notification; there is no automatic uniform
+  statutory width.
+- ❌ A state government can shrink a National Park administratively. -> Alteration of
+  boundaries requires a **State Legislature resolution**, and de-notification requires the
+  NBWL's recommendation.
 
 ## 8. 📰 Current anchor
 
@@ -118,7 +140,11 @@ replacing the underlying legal category.
   added.
 
 ⚠️ **Interpretation caution:** always attribute protected-area counts to the specific
-database/date cited above; these figures change as new reserves are notified.
+database/date cited above; these figures change as new reserves are notified. Also
+distinguish the three different things a "count" can mean — areas **notified**, areas with an
+**approved management plan**, and areas with **verified on-ground protection** — an answer
+that treats notification as protection is making the designation-versus-implementation error
+this folder flags throughout.
 
 ## 9. PYQ application
 

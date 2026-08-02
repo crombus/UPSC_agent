@@ -119,6 +119,11 @@ IPCC's institutional design is responsive, not purely mechanical/periodic.
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 IPCC AR6 Synthesis Report (2023) as the most recent completed full assessment cycle (verify whether a newer AR7-cycle report has been released before citing further updates). | Use as the current authoritative reference point, explicitly noting its literature cut-off limitation when discussing very recent developments not yet assessed. |
+| 📰 **AR7 cycle status, verified from ipcc.ch on 2 August 2026:** three Working Group reports agreed at IPCC-60 (Istanbul, January 2024); Special Report on **Climate Change and Cities** outlined at IPCC-61 (Sofia, July-August 2024, Decision IPCC-LXI-5); Working Group outlines agreed at IPCC-62 (Hangzhou, February 2025); the **2027 Methodology Report on Carbon Dioxide Removal Technologies, CCUS** agreed at IPCC-63 (Lima, October 2025); AR7 **Synthesis Report due by late 2029**; plus a **2027 Methodology Report on Inventories for Short-Lived Climate Forcers**. | Three distinct analytical uses. **(1) Timing versus the Global Stocktake:** an AR7 Synthesis Report arriving by late 2029 sits awkwardly against the UNFCCC's five-yearly Global Stocktake rhythm — a genuine science-policy-synchronisation critique (Topic 19). **(2) Methodology as power:** the CDR/CCUS and SLCF methodology reports decide *how removals and methane get counted*, which is often more consequential than headline findings — the accounting rulebook shapes what a country can claim (Topics 20, 21). **(3) Cities as a unit of climate science:** a dedicated Special Report on Cities validates urban local bodies as climate actors, a direct hook for GS-II governance and GS-I urbanisation answers. |
+
+⚠️ **Agreed-outline vs published-finding discipline:** IPCC plenary decisions on outlines,
+workplans and methodology scope are **process milestones**, not scientific conclusions. Never
+attribute a substantive finding to AR7 before its Summary for Policymakers is approved.
 
 ## 10. PYQ-based analytical application
 

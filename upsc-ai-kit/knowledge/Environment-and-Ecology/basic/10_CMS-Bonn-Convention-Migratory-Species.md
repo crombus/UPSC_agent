@@ -94,6 +94,19 @@ trade focus and from any single country's domestic wildlife law.
   cycle, not just its breeding or final destination country.
 - ✅ The dugong and various Central Asian Flyway birds are prominent Indian examples of
   CMS-relevant migratory species.
+- ✅ **India has been a Party to CMS since 1983.** It is a signatory to four CMS
+  species-specific **non-legally-binding MOUs**: the **Siberian Crane**, **Marine Turtles**
+  (Indian Ocean-South-East Asian region), **Dugong**, and **Raptors (Birds of Prey)** MOUs.
+- ✅ A species may be listed on **both** Appendix I and Appendix II simultaneously — the two
+  Appendices serve different functions (strict protection vs cooperative agreement) rather
+  than being mutually exclusive tiers.
+- ✅ CMS's **"Concerted Actions"** mechanism designates priority species/populations for
+  focused, time-bound cooperative measures between CoPs — the operational bridge between an
+  Appendix listing and on-ground work.
+- ✅ CMS CoP13 (Gandhinagar, 2020) had the Great Indian Bustard-inspired mascot **"Gibi"**,
+  the theme *"Migratory species connect the planet and we welcome them home"*, and produced
+  the **Gandhinagar Declaration** highlighting migratory species' role in ecological
+  connectivity.
 
 ## 7. UPSC traps
 
@@ -109,6 +122,12 @@ trade focus and from any single country's domestic wildlife law.
   2020 and held the subsequent CMS Presidency.
 - ❌ CMS only covers birds. -> It covers migratory mammals, fish, reptiles and insects as
   well as birds (e.g., dugongs, sharks, marine turtles).
+- ❌ A species must be on either Appendix I or Appendix II, never both. -> Dual listing is
+  common and deliberate: Appendix I imposes protection duties, Appendix II opens the route to
+  a cooperative Agreement/MOU.
+- ❌ All CMS instruments are legally binding. -> CMS supports both binding **Agreements** and
+  non-binding **Memoranda of Understanding**; all four instruments India has signed under CMS
+  are MOUs, not binding Agreements.
 
 ## 8. 📰 Current anchor
 
@@ -124,7 +143,11 @@ trade focus and from any single country's domestic wildlife law.
   COP13 as the latest completed COP.
 
 ⚠️ **Interpretation caution:** CMS CoP outcomes and Appendix updates occur periodically —
-always cite the specific CoP year when referencing a listing or Agreement status.
+always cite the specific CoP year when referencing a listing or Agreement status. CMS CoPs
+meet roughly triennially, so a CoP after Samarkand (2024) may have occurred by the time an
+answer is written; verify on cms.int rather than assuming COP14 is still the latest.
+Distinguish also between a species being **proposed** for listing at a CoP and a proposal
+being **adopted** — only the latter changes legal status.
 
 ## 9. PYQ application
 

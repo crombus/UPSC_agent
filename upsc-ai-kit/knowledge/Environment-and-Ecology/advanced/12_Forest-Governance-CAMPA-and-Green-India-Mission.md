@@ -50,6 +50,22 @@ principle, slow fund utilisation further delays any restoration benefit.
    purely quantity-based accounting exercise — but this integration is not automatic and
    depends on deliberate convergence in state-level implementation planning.
 
+## 3A. The 2023 amendment and the 2024 judicial correction: a two-step legal shift
+
+⚠️ Advanced answers on forest governance now have to handle a **statute-versus-judgment
+interaction**, not just a single law:
+
+| Step | What changed | Analytical reading |
+|---|---|---|
+| ✅ **Forest (Conservation) Amendment Act, 2023** renamed the 1980 Act to the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** and defined its applicability by reference to land *notified* as forest under the Indian Forest Act, 1927 or *recorded* as forest in government records on or after 25 October 1980. | The reform's stated purpose was regulatory certainty: user agencies and states had faced ambiguity about which land needed prior central approval. | ⚠️ The cost of certainty is coverage: land that is ecologically forest but never entered the record risks falling outside the Act's prior-approval requirement. |
+| ✅ The 2023 Act **exempted** specified categories from prior approval — including land within 100 km of international borders/LoC/LAC for strategic linear projects of national importance and security, limited areas for security infrastructure, defence projects, and land alongside rail lines and public roads for access. | Security and connectivity imperatives in border and remote regions. | ⚠️ Note *where* the exemptions bite: the 100 km border belt includes the biodiversity-rich Himalaya and the North-East — so the exemption is not spatially neutral with respect to biodiversity. |
+| ✅ **Supreme Court, February 2024** (*Ashok Kumar Sharma v. Union of India* proceedings): directed that the broad **"dictionary meaning" of forest from *T.N. Godavarman Thirumulpad* (1996)** continue to apply pending the compilation and submission of State expert-committee records of forest-like land. | Judicial preservation of the ecological test during the transition. | ⚠️ This is the single most examinable sentence in current Indian forest law: **the statutory definition narrowed, and the Court held the ecological definition in place in the interim.** |
+
+⚠️ **Answer-writing discipline:** describe this as *statute narrowed → Court preserved
+interim breadth → State records pending*, and never assert that the *Godavarman* definition
+has been either abolished (it has not) or permanently entrenched (the interim direction is
+tied to the record-compilation process).
+
 ## 4. Compensatory afforestation site-quality issues in depth
 
 - ⚠️ Independent field studies and civil-society assessments have repeatedly flagged
@@ -120,6 +136,13 @@ principle, slow fund utilisation further delays any restoration benefit.
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 CAG/parliamentary standing committee reviews of CAMPA fund utilisation (verify the latest report and its specific figures/date before citing). | Use to evidence the fund-utilisation-gap critique analytically, rather than citing a specific corpus figure without its report date. |
+| 📰 **Forest (Conservation) Amendment Act, 2023** (renaming and scope redefinition) read with the **Supreme Court's February 2024 interim direction** preserving the *Godavarman* definition pending State expert-committee records. | The current legal baseline for any question on forest diversion, CAMPA triggers or "what counts as forest". Always present the two together — quoting only the amendment overstates the narrowing; quoting only the judgment understates the statutory change. |
+| 📰 Economic Survey 2025-26 (Ch. 10): ecosystem-based approaches and restoration are being incentivised through the **Afforestation and Green Credit Programme**, encouraging public and private participation in compensatory afforestation and degraded-forest restoration. | The newest layer on the CAMPA stack — and the sharpest current version of the quantity-versus-quality critique, because a credit earned per unit of plantation is, by construction, an *input* metric. |
+
+⚠️ **Announced vs achieved:** CAMPA corpus figures measure **money accrued**, green credits
+measure **actions registered**, and ISFR measures **canopy detected**. None of the three
+measures **ecological restoration achieved** — say so explicitly in a Mains answer; it is the
+single highest-value analytical sentence in this topic.
 
 ## 10. PYQ-based analytical application
 

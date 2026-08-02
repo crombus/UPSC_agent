@@ -30,12 +30,13 @@ complementary to, but legally distinct from, domestic wildlife/habitat protectio
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **CITES (1975)** | Convention on International Trade in Endangered Species of Wild Fauna and Flora — an international agreement regulating cross-border trade in listed species. |
+| ✅ **CITES (1975)** | Convention on International Trade in Endangered Species of Wild Fauna and Flora — **signed at Washington D.C. on 3 March 1973** and **in force from 1 July 1975**; it regulates cross-border trade in listed species. (It is therefore also called the Washington Convention.) |
 | ✅ **Appendix I** | Species threatened with extinction; international commercial trade is generally prohibited except in exceptional circumstances. |
 | ✅ **Appendix II** | Species not necessarily currently threatened but requiring trade regulation to prevent them from becoming so; trade allowed with export permits. |
-| ✅ **Appendix III** | Species protected in at least one country that has requested other parties' cooperation in controlling trade; requires a certificate of origin. |
+| ✅ **Appendix III** | Species protected in at least one country that has requested other parties' cooperation in controlling trade; requires a certificate of origin. Listing here is a **unilateral** act by a single party — it does not require a CoP vote, unlike Appendices I and II. |
+| ✅ **Non-detriment finding (NDF)** | The Scientific Authority's determination that a proposed export will not be detrimental to the survival of the species — the scientific gate that must be cleared before a Management Authority issues an export permit. |
 | ✅ **CITES Management Authority / Scientific Authority** | National bodies each member state designates to issue permits (Management Authority) and provide scientific advice on trade impact (Scientific Authority). |
-| ✅ **Conference of the Parties (CoP)** | CITES' periodic decision-making meeting where Appendix listings are reviewed/amended by member-state vote. |
+| ✅ **Conference of the Parties (CoP)** | CITES' periodic decision-making meeting where Appendix I and II listings are reviewed/amended by member-state vote (a two-thirds majority of Parties present and voting is required). |
 
 ## 3. Topic mechanism
 
@@ -91,6 +92,17 @@ complementary to, but legally distinct from, domestic wildlife/habitat protectio
   Schedule IV, restructured by the 2022 amendment.
 - ✅ Each CITES party designates a Management Authority (permit issuance) and a Scientific
   Authority (trade-impact advice).
+- ✅ CITES was signed at **Washington D.C. on 3 March 1973** and entered into force on
+  **1 July 1975**; the UN observes **3 March as World Wildlife Day** to mark that signature.
+- ✅ **Appendix III listing is unilateral** — any single Party can list a species it protects
+  domestically and seek other Parties' cooperation, without a CoP vote. Appendix I and II
+  amendments need a **two-thirds majority** of Parties present and voting at a CoP.
+- ✅ An export permit for an Appendix I or II specimen requires a **non-detriment finding** by
+  the exporting country's Scientific Authority — the mechanism that makes CITES a science-
+  gated, not merely paperwork-based, regime.
+- ✅ India's designated CITES Management Authority function sits with MoEFCC (through its
+  wildlife wing), and the Wildlife (Protection) Amendment Act, 2022 gave this designation an
+  explicit statutory footing (Topic 08).
 
 ## 7. UPSC traps
 
@@ -107,6 +119,11 @@ complementary to, but legally distinct from, domestic wildlife/habitat protectio
   extinction-risk assessment (cross-refer Topic 05).
 - ❌ Only animals are covered by CITES. -> CITES covers both fauna and flora (e.g., Red
   Sanders, various orchids and timber species).
+- ❌ Adding a species to Appendix III requires a CoP vote. -> Appendix III listing is a
+  **unilateral** act by a single Party; only Appendices I and II require a two-thirds CoP
+  majority.
+- ❌ An export permit is a purely administrative formality. -> It must be preceded by a
+  **non-detriment finding** from the exporting state's Scientific Authority.
 
 ## 8. 📰 Current anchor
 
@@ -117,7 +134,10 @@ complementary to, but legally distinct from, domestic wildlife/habitat protectio
 
 ⚠️ **Interpretation caution:** CITES Appendix status for a specific species can change after
 each Conference of the Parties — always cite the relevant CoP year when referencing a
-species' current Appendix listing.
+species' current Appendix listing. This file deliberately does **not** assert a CoP session
+number, host city or listing outcome for the most recent CoP; check cites.org for the latest
+CoP record and its adopted proposals before quoting one in an answer, and never infer an
+outcome from a *proposal* that was merely tabled.
 
 ## 9. PYQ application
 

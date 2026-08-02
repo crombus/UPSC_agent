@@ -105,6 +105,34 @@ decarbonised through direct electrification alone.
   difficult.
 - ✅ India's renewable-energy expansion (solar, wind) is the foundational input enabling
   cost-competitive green-hydrogen production.
+- ✅ **Non-fossil sources reached 51.93% of India's installed power capacity at end-December
+  2025**, surpassing the ~50%-by-2030 NDC target ahead of schedule; **38.61 GW** of renewable
+  capacity was added in 2025-26 up to 31 December 2025 — **30.16 GW solar, 4.47 GW wind,
+  3.24 GW hydro, 0.03 GW bio-power** (Economic Survey 2025-26, Ch. 10).
+- ✅ Per **IRENA's Renewable Energy Statistics 2025**, India ranks **fourth globally** in
+  total installed renewable capacity (after China, the USA and Brazil).
+- ✅ **Solar** grew roughly forty-five-fold, from about **3 GW in 2014 to 135.81 GW by
+  December 2025**; **PM Surya Ghar** had delivered **8 GW of rooftop capacity** by December
+  2025; **55 solar parks** with 39,973 MW sanctioned capacity were approved, of which
+  16,121 MW was installed.
+- ✅ **Wind** stood at **54.51 GW (December 2025)** — the **fourth-highest** installed wind
+  capacity in the world — with 4.74 GW added between April and December 2025, 30.04 GW under
+  implementation, and 83.35 billion units generated in 2024-25. Viability Gap Funding
+  supports **offshore** wind.
+- ✅ **Nuclear:** India's installed nuclear capacity is about **8,780 MW**; the **Nuclear
+  Energy Mission** (Union Budget 2025-26, ₹20,000 crore) targets **at least five indigenously
+  designed, operational Small Modular Reactors by 2033**, and the CEA roadmap projects
+  **100 GW of nuclear capacity by 2047** through 700 MWe indigenous PHWRs, imported reactors,
+  the **Bharat Small Modular Reactor (BSMR-200)** and **SMR-55**.
+- ✅ The **SHANTI Act (Sustainable Harnessing and Advancement of Nuclear Energy for
+  Transforming India), December 2025**, consolidates and modifies the **Atomic Energy Act,
+  1962** and the **Civil Liability for Nuclear Damage Act, 2010** to permit **private-sector
+  and state-government participation** in nuclear plant operation, generation, equipment
+  manufacturing and research, and establishes a **graded liability framework** without
+  diluting victim compensation.
+- ✅ **Storage:** the CEA projects a requirement of about **411 GWh of battery energy storage
+  by 2031-32**; the Advanced Chemistry Cell PLI covers **50 GWh**, of which **10 GWh** is
+  earmarked for grid-scale storage.
 
 ## 7. UPSC traps
 
@@ -117,6 +145,16 @@ decarbonised through direct electrification alone.
   transport instead.
 - ❌ The National Green Hydrogen Mission targets 50 million metric tonnes per annum
   production by 2030. -> The target is 5 million metric tonnes per annum by 2030.
+- ❌ India's 51.93% non-fossil figure means more than half of India's electricity is
+  generated from non-fossil sources. -> It is **installed capacity share** at end-December
+  2025; generation share is materially lower because solar and wind have lower capacity
+  utilisation factors than thermal.
+- ❌ Nuclear power in India is closed to private participation. -> The **SHANTI Act
+  (December 2025)** consolidates the Atomic Energy Act, 1962 and the CLNDA, 2010 and permits
+  private-sector and state-government participation, with a graded liability framework.
+- ❌ Allocated green-hydrogen capacity means green hydrogen is being produced at that scale.
+  -> **862,000 tonnes per year allocated to 18 companies** is contracted intent; commissioned
+  production is a separate figure.
 - ❌ Renewable-energy expansion and green-hydrogen production are independent, unrelated
   strategies. -> Green hydrogen's cost-competitiveness and climate benefit depend directly on
   the availability of cheap renewable electricity as an input.
@@ -130,16 +168,50 @@ decarbonised through direct electrification alone.
   green-hydrogen production capacity by 2030, ~125 GW additional renewable capacity, over
   ₹8 lakh crore in investment leverage, and significant annual greenhouse-gas abatement and
   job-creation goals, with a total financial outlay of approximately ₹19,744 crore up to
-  2029-30; verify the latest progress figures (electrolyser capacity installed,
-  production achieved) against the most recent MNRE report before citing specific
-  achieved-to-date figures.
+  2029-30.
+- 📰 **NGHM progress as reported in Economic Survey 2025-26 (Ch. 10):** production capacity
+  of **862,000 tonnes of green hydrogen per year has been allocated to 18 companies**, and
+  **15 firms have been awarded 3,000 MW of annual electrolyser manufacturing capacity**.
+  **Three Green Hydrogen Hubs** have been designated — **Deendayal Port Authority (Gujarat),
+  V.O. Chidambaranar Port Authority (Tamil Nadu) and Paradip Port Authority (Odisha)**.
+  ⚠️ Read these precisely: *allocated* and *awarded* capacity is contracted intent, **not**
+  commissioned production.
+- 📰 **Non-fossil capacity milestone: 51.93% of installed power capacity at end-December
+  2025**, with 38.61 GW of renewable capacity added in 2025-26 up to 31 December 2025;
+  India ranks **fourth globally** in installed renewable capacity per IRENA's *Renewable
+  Energy Statistics 2025* (Economic Survey 2025-26, Ch. 10).
+- 📰 **Bio-energy (as of October 2025):** biomass power and cogeneration at about **9.82 GW
+  grid-connected** plus 0.935 GWeq off-grid; waste-to-energy at **309.34 MW grid-connected**
+  plus 546.28 MWeq off-grid; **51.21 lakh small biogas plants** and 361 medium-sized biogas
+  plants (aggregate 11.5 MW) installed.
+- 📰 **Nuclear:** the **SHANTI Act, December 2025** opens nuclear generation and manufacturing
+  to private and state participation; the **Nuclear Energy Mission** targets at least five
+  indigenous SMRs by 2033 and the CEA roadmap projects **100 GW nuclear by 2047** from a base
+  of about **8,780 MW** (Economic Survey 2025-26, Ch. 10, Box X.2).
+- 📰 **The Survey's own list of remaining constraints:** high capital costs, land-acquisition
+  delays, grid availability, the **material intensity** of solar and wind, **critical-mineral**
+  access, and capital-intensive storage requirements — plus grid-stability risk under high
+  variable-renewable output, which the Survey illustrates with international grid incidents.
 
 ⚠️ **Interpretation caution:** green-hydrogen production costs and electrolyser-capacity
 figures are rapidly evolving with technology development — cite the specific source and date
-for any cost or capacity claim.
+for any cost or capacity claim. Keep four statuses strictly apart: **target announced**,
+**capacity allocated/awarded**, **capacity commissioned**, and **output produced**. Most
+weak answers on this topic quote an allocation figure as though it were production.
 
 ## 9. PYQ application
 
+- ✅ **2025 GS-III direct PYQ (150 words):** “How can India achieve energy independence
+  through clean technology by 2047? How can biotechnology play a crucial role in this
+  endeavour?” ⚠️ Two distinct demands. The **clean-technology** half is owned by this file
+  (renewables, storage, nuclear/SHANTI Act, green hydrogen, grid and critical minerals); the
+  **biotechnology** half needs bio-energy specifics — the National Bio-Energy Programme,
+  compressed bio-gas, ethanol blending, enzymatic/algal routes to biofuels, and biomass
+  cogeneration (9.82 GW grid-connected as of October 2025).
+- ✅ **2025 GS-III cross-route (150 words):** the ITER/fusion question is a Science-and-
+  Technology demand, but this file supplies the correct framing for why fusion sits **outside**
+  the 2030-2047 energy-transition arithmetic — it is a post-2050 option, not a Panchamrit
+  instrument.
 - ⚠️ Recurring Prelims pattern: distinguish green, grey and blue hydrogen by production
   process and emissions profile, and identify the National Green Hydrogen Mission's key
   targets and the SIGHT Programme's function.

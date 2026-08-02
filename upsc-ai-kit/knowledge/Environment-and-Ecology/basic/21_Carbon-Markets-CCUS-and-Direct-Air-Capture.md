@@ -37,7 +37,9 @@ Working Group III, not competing or interchangeable approaches.
 | ✅ **Voluntary carbon market** | A market where entities voluntarily purchase carbon credits (often from projects like afforestation or renewable energy) to offset their own emissions, without a regulatory mandate. |
 | ✅ **CCUS** | Carbon Capture, Utilisation and Storage — technology capturing CO₂ at its emission source (e.g., a power plant or industrial facility) before atmospheric release, then either using it (e.g., in industrial processes) or storing it (e.g., underground geological storage). |
 | ✅ **Direct Air Capture (DAC)** | Technology that captures CO₂ directly from ambient air (not from a concentrated point source), typically requiring more energy per tonne captured than CCUS due to CO₂'s low atmospheric concentration. |
-| ✅ **Indian Carbon Market (ICM)** | India's domestic compliance carbon market framework, established under the Energy Conservation (Amendment) Act, 2022, building on India's earlier Perform, Achieve and Trade (PAT) energy-efficiency scheme. |
+| ✅ **Indian Carbon Market (ICM) / Carbon Credit Trading Scheme (CCTS)** | India's domestic carbon market framework, enabled by the Energy Conservation (Amendment) Act, 2022 and given effect by the **Carbon Credit Trading Scheme notified in June 2023**. It has a **dual structure**: a **compliance mechanism** for obligated energy-intensive entities and an **offset mechanism** for voluntary registration by non-obligated entities (Economic Survey 2025-26, Ch. 10). |
+| ✅ **Baseline-and-credit vs cap-and-trade** | India's compliance mechanism is an **emission-intensity baseline-and-credit** system: obligated entities receive a **greenhouse gas emission intensity (GEI) target** (tCO₂e per unit of output). Those who beat their target earn **Carbon Credit Certificates (CCCs)**, denominated in **tonnes of CO₂ equivalent** and traded on **power exchanges**; those who miss it must buy and surrender credits. ⚠️ This is **not** cap-and-trade — there is no absolute economy-wide emissions cap, which is the single most examinable design difference from the EU ETS. |
+| ✅ **Carbon Credit Certificate (CCC)** | The tradable instrument under the CCTS, denominated in tCO₂e. Distinguish it from a **green credit** (Green Credit Rules, 2023 — rewards specified environmental actions, not tCO₂e) and from an **Energy Saving Certificate/ESCert** under PAT (denominated in tonnes of oil equivalent energy saved). |
 
 ## 3. Topic mechanism
 
@@ -98,6 +100,23 @@ Working Group III, not competing or interchangeable approaches.
   Saving Certificates and served as an institutional precursor to the broader carbon market.
 - ✅ Compliance carbon markets are government-mandated; voluntary carbon markets involve
   non-mandated, voluntary credit purchases.
+- ✅ The **Carbon Credit Trading Scheme (CCTS) was adopted in June 2023** with a **dual
+  compliance-plus-offset** design; the compliance leg is an **emission-intensity
+  baseline-and-credit** system (not cap-and-trade), and **Carbon Credit Certificates (CCCs)**
+  denominated in **tCO₂e** are traded on **power exchanges** (Economic Survey 2025-26, Ch. 10).
+- ✅ In **2025** the Government notified pro-rata **Greenhouse Gas Emission Intensity (GEI)
+  targets for four sectors — Aluminium, Cement, Chlor-Alkali, and Pulp and Paper**.
+- ✅ The **offset mechanism** covers an approved list of **10 sectors**: energy, industries,
+  agriculture, waste handling and disposal, forestry, transport, fugitive emissions,
+  construction, solvent use, and **CCUS** and others.
+- ✅ Under the EU ETS (launched 2005, now in its **fourth phase**), up to **57%** of
+  allowances are auctioned and the rest allocated free to limit carbon leakage; the **Carbon
+  Border Adjustment Mechanism (CBAM) gradually replaces free allocation from 2026**, and a
+  second system, **ETS2**, covering buildings, road transport and additional small-industry
+  fuel combustion, is to be implemented **by 2027** (Economic Survey 2025-26, Ch. 10, Box X.5).
+- ✅ **Korea's ETS has been operational since 2015**; China operates a **national ETS** —
+  together with the EU these are the three major reference systems India's design is compared
+  against.
 
 ## 7. UPSC traps
 
@@ -117,17 +136,43 @@ Working Group III, not competing or interchangeable approaches.
 - ❌ CCUS eliminates the need for renewable-energy transition. -> CCUS is a complementary
   tool primarily for hard-to-abate sectors and existing infrastructure, not a substitute for
   the broader renewable-energy transition.
+- ❌ India's compliance carbon market is a cap-and-trade system like the EU ETS. -> It is an
+  **emission-intensity baseline-and-credit** system with no absolute economy-wide cap.
+- ❌ A carbon credit certificate and a green credit are the same instrument. -> CCCs are
+  denominated in **tCO₂e** under the CCTS; **green credits** (Green Credit Rules, 2023) reward
+  specified environmental actions and are not emission-denominated.
+- ❌ CBAM is an EU carbon tax on all imports. -> It is a border adjustment that **gradually
+  replaces free allocation** for carbon-leakage-exposed sectors within the EU ETS from 2026,
+  applying to specified goods rather than to imports generally.
 
 ## 8. 📰 Current anchor
 
-- 📰 India's Indian Carbon Market framework (under the Energy Conservation (Amendment) Act,
-  2022) continues to be operationalised in phases; verify the latest sectoral coverage and
-  implementation-phase status against the most recent BEE/Ministry of Power notification
-  before citing specific compliance-obligation details.
+- 📰 **CCTS status (Economic Survey 2025-26, Ch. 10):** adopted June 2023; compliance
+  mechanism built on the PAT infrastructure and transitioning it into a full compliance
+  carbon market; **GEI targets notified in 2025 for Aluminium, Cement, Chlor-Alkali and Pulp
+  and Paper**; offset mechanism approved for **10 sectors** including **CCUS**. GEI target
+  setting proceeds by estimating each obligated entity's baseline GEI, comparing entities
+  within the same sub-sectoral group, and assigning the **least demanding target to the most
+  efficient unit and the most demanding to the least efficient** (Bureau of Energy
+  Efficiency methodology).
+- 📰 **International reference points (Economic Survey 2025-26, Box X.5):** EU ETS (2005,
+  fourth phase; up to 57% of the cap auctioned; **CBAM replacing free allocation from 2026**;
+  **ETS2** for buildings/road transport by **2027**; offset credits discontinued in Phase 4),
+  Korea ETS (2015) and China's national ETS. The EU's early-phase experience — oversupply of
+  offset credits diluting the carbon price — is the specific cautionary lesson the Survey
+  draws for India's offset mechanism.
+- 📰 **IPCC AR7 cycle:** the scientific content of a **2027 Methodology Report on Carbon
+  Dioxide Removal Technologies, Carbon Capture, Utilization and Storage for National
+  Greenhouse Gas Inventories** was agreed at **IPCC-63 (Lima, Peru, October 2025)** — meaning
+  internationally agreed *accounting rules* for CCUS and removals are being written now
+  (ipcc.ch, verified 2 August 2026).
 
 ⚠️ **Interpretation caution:** global CCUS and DAC deployment scale remains small relative
 to IPCC-modelled mitigation pathway requirements — cite specific deployment figures with
-their source and date rather than assuming large-scale current deployment.
+their source and date rather than assuming large-scale current deployment. Equally,
+distinguish a **notified scheme** (CCTS, 2023) from **notified sectoral targets** (2025, four
+sectors) from an **operating, liquid market with a discovered carbon price** — India is
+demonstrably at the second stage, not the third.
 
 ## 9. PYQ application
 

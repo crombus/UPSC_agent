@@ -2,7 +2,7 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims.
 > **Core area:** Ecological fundamentals.
-> **Grounded in:** NCERT Class XII Biology, Ch. "Ecosystem"; NIOS Environmental Studies; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** NCERT Class XII Biology, Ch. "Ecosystem"; NIOS Environmental Studies; Majid Husain, *Indian and World Geography*, Ch. 5 "Biogeography"; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
 > *Companion: `advanced/01_Ecosystem-Structure-and-Function.md`.*
 
@@ -34,12 +34,15 @@ must both be read together to answer any ecosystem question.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Ecosystem** | A functional unit of interacting biotic communities and their abiotic environment exchanging energy and matter. |
-| ✅ **Biotic component** | Living part — producers, consumers (herbivore/carnivore/omnivore), decomposers/detritivores. |
-| ✅ **Abiotic component** | Non-living part — climatic (temperature, light, rainfall) and edaphic (soil, minerals, topography) factors. |
-| ✅ **Habitat vs niche** | Habitat is the physical address of a species; niche is its functional role, resource use and interactions. |
-| ✅ **Ecotone** | Transition zone between two ecosystems (e.g., mangrove, grassland-forest edge) with its own distinct species. |
+| ✅ **Ecosystem** | A self-regulating functional unit of interacting biotic communities and their abiotic (physical and chemical) environment exchanging energy and matter. The term was coined by the British ecologist **A.G. Tansley (1935)**. |
+| ✅ **Biotic component** | Living part — producers, consumers (herbivore/carnivore/omnivore), decomposers/detritivores. The biotic subsystems are conventionally read as plants, animals (including humans) and micro-organisms. |
+| ✅ **Abiotic component** | Non-living part — climatic (temperature, light, rainfall) and edaphic (soil, minerals, topography) factors; at the biosphere scale this means the lithosphere, atmosphere and hydrosphere. |
+| ✅ **Habitat vs niche** | Habitat is the physical address of a species; niche is its functional role, resource use and interactions — its "occupation" or "job" in the community. |
+| ✅ **Three components of a niche** | A niche has a **habitat niche** (where it lives), a **trophic/food niche** (how it feeds) and a **reproductive niche** (how it breeds) — the standard biogeography decomposition. |
+| ✅ **Ecotone** | Boundary transition zone between two adjoining ecosystems (e.g., mangrove, grassland-forest edge), varying in width and acting as a zone of *tension* where species of both communities compete for resources. |
 | ✅ **Edge effect** | Tendency for greater species density/variety at the ecotone/community junction. |
+| ✅ **Biomass** | Net dry weight of organic material — the material base that actually feeds the food chain. |
+| ✅ **Life zone** | Altitudinal zonation of plants and animals forming distinctive communities, each with its own temperature-precipitation regime. |
 
 ## 3. Topic mechanism
 
@@ -87,6 +90,12 @@ must both be read together to answer any ecosystem question.
   neighbouring community.
 - ✅ Niche cannot be shared identically by two species in the same habitat (competitive
   exclusion) — the basis of resource partitioning.
+- ✅ The term "ecosystem" was coined by **A.G. Tansley (1935)**; the biosphere's abiotic
+  frame is the lithosphere + atmosphere + hydrosphere.
+- ✅ A niche is decomposed into habitat, trophic (food) and reproductive niches — a
+  frequently examined three-part classification.
+- ✅ **Biomass** is measured as *net dry weight* of organic matter, not fresh/wet weight —
+  the standard basis for pyramid-of-biomass comparisons.
 
 ## 7. UPSC traps
 
@@ -100,12 +109,23 @@ must both be read together to answer any ecosystem question.
   interconnected food chains and gives more stability.
 - ❌ Producers are always green plants. -> Chemosynthetic bacteria (e.g., at hydrothermal
   vents) are also producers without sunlight.
+- ❌ An ecotone is simply a boundary line. -> It is a *zone* of variable width and a zone of
+  ecological tension/competition, not a line on a map.
+- ❌ "Biomass" means the live weight of organisms. -> It is conventionally the **net dry
+  weight** of organic material.
 
 ## 8. 📰 Current anchor
 
-- 📰 As of the 18th India State of Forest Report (ISFR 2023, released Dec 2024), India's
+- 📰 As of the 18th India State of Forest Report (ISFR 2023, released December 2024 — the
+  latest ISFR edition verified for this knowledge base as on **2 August 2026**), India's
   total forest and tree cover is 8,27,357 sq km — 25.17% of the geographical area (forest
   cover 21.76%, tree cover 3.41%) — the base ecosystem-extent statistic to cite with its date.
+  ⚠️ ISFR is a **biennial** FSI publication, so verify against the newest edition on
+  `fsi.nic.in` before quoting in an answer written later than this date.
+- 📰 Economic Survey 2025-26 (Ch. 10, *Environment and Climate Change*) frames India's
+  policy direction as "ecosystem-led, development-integrated climate resilience" — the
+  government's own vocabulary for treating ecosystem function (mangroves, wetlands, forests)
+  as adaptation infrastructure rather than as a separate conservation silo.
 
 ⚠️ **Interpretation caution:** forest/tree cover statistics measure canopy extent, not
 ecosystem health, species diversity or forest quality — do not conflate the two in answers.

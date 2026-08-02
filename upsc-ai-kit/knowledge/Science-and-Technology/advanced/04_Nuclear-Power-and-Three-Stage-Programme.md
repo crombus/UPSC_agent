@@ -8,6 +8,10 @@
 
 ---
 
+## 1. Analytical frame
+
+⚠️ The three-stage programme is best read not as a *timetable* but as a **resource-constrained fuel-cycle strategy**: India has modest uranium reserves and large thorium reserves, so the design intent was always to convert an abundant *fertile* material (thorium-232) into a usable *fissile* one (uranium-233) via a plutonium-fuelled fast-reactor bridge. Every analytical judgement follows from that: Stage 1 (PHWRs) generates plutonium, Stage 2 (fast breeder reactors) multiplies it while irradiating thorium blankets, Stage 3 (thorium-U233 systems) closes the cycle. The programme's difficulty is therefore not physics but **closed-fuel-cycle engineering** — reprocessing throughput, sodium handling, remote fuel fabrication for radioactive U-233, and reactor-grade material accounting. A second analytical axis is *institutional and legal*: capacity has historically been constrained less by technology than by fuel supply, land/siting, liability law and financing, which is exactly what the post-2025 statutory reform seeks to address.
+
 ## 2. Visual foundation
 
 ```text

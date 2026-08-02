@@ -99,6 +99,15 @@ frequently tested.
 - ✅ Land Degradation Neutrality (LDN) is linked to Sustainable Development Goal 15.3 and
   operates through a counterbalancing (loss-offset-by-restoration-gain) mechanism.
 - ✅ India hosted UNCCD's 14th Conference of the Parties (COP14) in New Delhi in 2019.
+- ✅ **UNCCD COP17: Ulaanbaatar, Mongolia, 17-28 August 2026**, theme **"Restoring Land.
+  Restoring Hope"**; the Convention has **197 Parties**.
+- ✅ **2026 is the UN International Year of Rangelands and Pastoralists (IYRP)** — rangelands
+  cover more than half the Earth's land surface, support roughly 500 million people's
+  livelihoods, and supply about one-sixth of global nutrition.
+- ✅ UNCCD's current framing is that **up to 40% of the world's land** is already degraded.
+- ✅ The UNCCD is the **only Rio Convention with a specific regional-annex structure**, giving
+  particular attention to Africa — which is why its founding text names Africa explicitly
+  while the UNFCCC and CBD do not name any region.
 
 ## 7. UPSC traps
 
@@ -118,6 +127,23 @@ frequently tested.
 
 ## 8. 📰 Current anchor
 
+- 📰 **UNCCD COP17 is scheduled for Ulaanbaatar, Mongolia, 17-28 August 2026**, under the
+  theme **"Restoring Land. Restoring Hope."** It will bring together delegates from the
+  UNCCD's **197 Parties**. (Source: unccd.int, verified **2 August 2026** — this is an
+  *upcoming* session; do not attribute outcomes to it until they are adopted.)
+- 📰 UNCCD's own headline framing for COP17: **land degradation is already affecting up to
+  40% of the world's land**, with consequences for food production, water availability,
+  livelihoods and economic stability. Mongolia, the host, has **~77% of its land degraded**
+  across a territory of 1.56 million sq km, and runs a President-led **"Billion Trees"
+  campaign** (launched 2021, targeting one billion trees by 2030).
+- 📰 **2026 is the UN International Year of Rangelands and Pastoralists (IYRP)**, declared by
+  the UN General Assembly and championed by Mongolia. Rangelands cover **more than half of
+  the Earth's land surface**, support the direct livelihoods of around **500 million people**
+  and provide about **one-sixth of the world's nutrition** — yet remain among the most
+  overlooked and increasingly degraded ecosystems. ⚠️ This is the single most useful 2026
+  hook for this topic, and it connects directly to the **Open Natural Ecosystems** argument
+  in `advanced/03` — India's grasslands are rangelands, administratively recorded as
+  "wasteland".
 - 📰 **UNCCD COP16, Riyadh (December 2024):** advanced negotiations toward
   a global drought regime and launched the Riyadh Global Drought Resilience
   Partnership. This is a process/partnership outcome—not a completed binding
@@ -131,12 +157,20 @@ frequently tested.
 
 ⚠️ **Interpretation caution:** national desertification/land-degradation extent figures for
 India are periodically updated through remote-sensing-based atlases — cite the specific
-atlas edition and year rather than a static historical figure.
+atlas edition and year rather than a static historical figure. Distinguish also a
+**scheduled COP** (COP17, August 2026) from a **concluded COP** (COP16, Riyadh, 2024) — only
+the latter has outcomes to cite.
 
 ## 9. PYQ application
 
 - ⚠️ Recurring Prelims pattern: precisely distinguish desertification, land degradation and
   drought, and identify the UNCCD as one of the three Rio Conventions.
+- ✅ **UPSC Mains 2024, Essay (Section A): "Forests precede civilizations and deserts follow
+  them."** This topic owns the second half of that essay. The disciplined treatment
+  distinguishes **desertification** (degradation *within* drylands) from the popular image of
+  advancing sand — the essay's metaphor is about *civilisational* land exhaustion, and the
+  precise definitional correction is itself a scoring point. Pair with Topic 03 (succession
+  thresholds) and Topic 11 (forest classification).
 - ⚠️ Mains linkage: the Land Degradation Neutrality framework is used to argue for
   integrated soil-water-livelihood strategies in India's dryland regions.
 

@@ -42,7 +42,12 @@ state precisely.
 | ✅ **Global warming** | The observed long-term rise in Earth's average surface temperature, primarily attributed to anthropogenic greenhouse gas emissions. |
 | ✅ **Climate change** | Long-term shifts in temperature and weather patterns, encompassing global warming plus its downstream effects (altered precipitation, extreme events, sea-level rise). |
 | ✅ **Radiative forcing** | A measure of the change in energy balance (warming or cooling influence) caused by a factor such as a greenhouse gas or aerosol. |
-| ✅ **Global Warming Potential (GWP)** | A metric comparing a greenhouse gas's heat-trapping capacity over a set time period relative to CO₂ (CO₂ = 1 by definition). |
+| ✅ **Global Warming Potential (GWP)** | A metric comparing a greenhouse gas's heat-trapping capacity over a set time period relative to CO₂ (CO₂ = 1 by definition). Always state the horizon — a gas's GWP-20 and GWP-100 values differ sharply, which is exactly why methane looks far more urgent on a 20-year horizon than on a 100-year one. |
+| ✅ **Albedo** | The reflectivity of a surface. Fresh snow and ice have high albedo (reflect most incoming radiation); open ocean and dark soil have low albedo (absorb it). |
+| ✅ **Climate feedback** | A process triggered by warming that either amplifies it (**positive feedback**) or dampens it (**negative feedback**). Key positive feedbacks: **ice-albedo** (melting ice exposes darker surfaces that absorb more heat), **water-vapour** (warmer air holds more water vapour, itself a greenhouse gas) and **permafrost carbon/methane release**. ⚠️ "Positive" here means *amplifying*, not *beneficial* — a classic wording trap. |
+| ✅ **Aerosols** | Suspended particles (e.g., sulphate from coal combustion) that mostly **cool** the surface by scattering sunlight and by seeding cloud formation — which is why cleaning up sulphur pollution can *unmask* additional warming, a genuine policy tension. |
+| ✅ **Short-Lived Climate Forcers (SLCFs)** | Warming or cooling agents with atmospheric lifetimes far shorter than CO₂ — methane, tropospheric ozone, **black carbon** and some hydrofluorocarbons. Because they clear quickly, cutting them delivers **near-term** temperature benefits, and black carbon control also yields direct health co-benefits in India (cookstoves, brick kilns, diesel). |
+| ✅ **Carbon sink vs source** | A reservoir that absorbs more carbon than it releases (forests, oceans, soils) versus one that releases more than it absorbs. ⚠️ A sink can **flip** to a source — e.g., a forest after severe fire or dieback. |
 
 ## 3. Topic mechanism
 
@@ -105,6 +110,16 @@ state precisely.
   pre-industrial levels, attributed unequivocally to human influence.
 - ✅ Ocean acidification results from oceans absorbing a significant share of atmospheric
   CO₂, forming carbonic acid and lowering ocean pH.
+- ✅ In climate science a **positive feedback amplifies** the initial change and a **negative
+  feedback dampens** it — the ice-albedo and water-vapour feedbacks are positive.
+- ✅ **Aerosols largely cool** the surface (scattering sunlight, seeding clouds), so
+  air-pollution control can reveal warming that aerosols were previously masking — the
+  reason air-quality and climate policy are not automatically aligned.
+- ✅ **Black carbon** is a short-lived climate forcer that both warms the atmosphere and
+  darkens snow/ice (reducing albedo), making it especially consequential over the Himalaya
+  and the Indo-Gangetic Plain.
+- ✅ GWP values are horizon-specific: quote **GWP-20** or **GWP-100** explicitly, never a bare
+  "GWP".
 
 ## 7. UPSC traps
 
@@ -123,6 +138,13 @@ state precisely.
   the broader term encompassing warming plus its downstream weather-pattern effects.
 - ❌ Ocean acidification is caused by rising sea temperature alone. -> It is specifically
   caused by oceans absorbing atmospheric CO₂, forming carbonic acid.
+- ❌ A "positive feedback" is a beneficial one. -> It means an **amplifying** feedback; the
+  ice-albedo and permafrost-carbon feedbacks are positive and harmful.
+- ❌ All atmospheric particles warm the planet. -> Most **aerosols cool** it; black carbon is
+  the notable warming exception.
+- ❌ Cutting methane and black carbon has the same effect as cutting CO₂. -> SLCF cuts deliver
+  faster **near-term** temperature benefits, but only CO₂ reduction addresses the long-term,
+  cumulative warming commitment.
 
 ## 8. 📰 Current anchor
 

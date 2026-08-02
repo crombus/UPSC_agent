@@ -37,6 +37,8 @@ providing the scientific foundation on which UNFCCC negotiations (Topic 19) are 
 | ✅ **Working Group I** | Assesses the physical science basis of climate change (e.g., observed warming, greenhouse gas concentrations, projections). |
 | ✅ **Working Group II** | Assesses climate-change impacts, vulnerability and adaptation options. |
 | ✅ **Working Group III** | Assesses mitigation options and pathways for reducing greenhouse gas emissions. |
+| ✅ **Task Force on National Greenhouse Gas Inventories (TFI)** | The IPCC's **fourth body** alongside the three Working Groups. It develops and refines the methodologies countries use to compile national GHG inventories — the technical rulebook that makes UNFCCC reporting comparable across countries. |
+| ✅ **Special Report / Methodology Report** | Reports produced between full assessments on a specific theme (e.g., the Special Report on Global Warming of 1.5°C) or on inventory methodology (produced by the TFI). |
 | ✅ **Synthesis Report** | Integrates findings from all three Working Group reports (and relevant Special Reports) into a single overarching assessment at the end of an assessment cycle. |
 | ✅ **Summary for Policymakers (SPM)** | A concise, line-by-line government-approved summary of each report's key findings, the most frequently cited document in policy and exam contexts. |
 
@@ -97,6 +99,16 @@ providing the scientific foundation on which UNFCCC negotiations (Topic 19) are 
   conjunction with the report's scientist-authors.
 - ✅ IPCC AR6 Synthesis Report (2023) confirmed observed warming of approximately 1.1°C above
   pre-industrial levels, attributed to human influence.
+- ✅ The IPCC has a **fourth body** besides the three Working Groups — the **Task Force on
+  National Greenhouse Gas Inventories (TFI)**, which writes the methodology countries use to
+  report emissions to the UNFCCC.
+- ✅ The **AR7 cycle** (agreed at IPCC-60, Istanbul, January 2024) comprises three Working
+  Group reports plus a Synthesis Report **due by late 2029**, a **Special Report on Climate
+  Change and Cities**, a **2027 Methodology Report on Short-Lived Climate Forcers**, and a
+  **2027 Methodology Report on Carbon Dioxide Removal Technologies, CCUS**.
+- ✅ AR7 Working Group **outlines were agreed at IPCC-62 (Hangzhou, China, February 2025)**;
+  the CDR/CCUS methodology report's scientific content was agreed at **IPCC-63 (Lima, Peru,
+  October 2025)**.
 
 ## 7. UPSC traps
 
@@ -113,14 +125,36 @@ providing the scientific foundation on which UNFCCC negotiations (Topic 19) are 
   distinct Working Groups (science, impacts/adaptation, mitigation) plus a Synthesis Report.
 - ❌ AR6 is the first IPCC assessment report. -> AR6 is the sixth in a series beginning with
   AR1, each roughly five to seven years apart.
+- ❌ The IPCC has only three bodies. -> It has three Working Groups **plus the Task Force on
+  National Greenhouse Gas Inventories**.
+- ❌ AR7 has replaced AR6 as the citable scientific baseline. -> As of 2 August 2026 the AR7
+  Working Group reports are in preparation (outlines agreed 2025, Synthesis Report due by
+  late 2029); **AR6 (2023) remains the latest completed assessment**.
 
 ## 8. 📰 Current anchor
 
-- 📰 IPCC AR6 Synthesis Report (2023) remains the most recent completed full assessment
-  cycle; verify whether a subsequent AR7-cycle report or interim Special Report has been
-  released before citing a newer finding, since IPCC assessment cycles are multi-year and
-  their completion dates should always be checked against the IPCC's official publication
-  schedule.
+- 📰 **The AR6 Synthesis Report (2023) is the latest completed full assessment; the seventh
+  assessment cycle (AR7) is under way.** Verified from ipcc.ch on **2 August 2026**, the AR7
+  timeline is:
+  - **IPCC-60, Istanbul, Türkiye (January 2024):** the Panel agreed to produce the three
+    Working Group contributions to AR7 (Physical Science Basis; Impacts, Adaptation and
+    Vulnerability; Mitigation of Climate Change).
+  - **IPCC-61, Sofia, Bulgaria (27 July - 2 August 2024):** agreed the outline of the
+    **Special Report on Climate Change and Cities** (Decision IPCC-LXI-5), following a
+    scoping meeting in Riga, Latvia in April 2024. It is being developed under the joint
+    scientific leadership of Working Groups I, II and III.
+  - **IPCC-62, Hangzhou, China (February 2025):** agreed the **outlines of the three AR7
+    Working Group contributions**.
+  - **IPCC-63, Lima, Peru (October 2025):** agreed the scientific content of the **2027
+    Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization
+    and Storage** for national greenhouse gas inventories, and agreed the **2026 workplan**
+    for the three Working Group contributions.
+  - The **AR7 Synthesis Report is to be released by late 2029**.
+  - The cycle also includes a **2027 Methodology Report on Inventories for Short-Lived
+    Climate Forcers**.
+- ⚠️ **Status discipline:** an *agreed outline* and an *approved workplan* are not published
+  findings. Until an AR7 Working Group report is released and its Summary for Policymakers
+  approved, AR6 remains the citable scientific baseline.
 
 ⚠️ **Interpretation caution:** always cite the specific assessment report (e.g., "AR6
 Synthesis Report, 2023") rather than referring to "the IPCC report" generically, since

@@ -8,6 +8,10 @@
 
 ---
 
+## 1. Analytical frame
+
+⚠️ Human spaceflight is not "a bigger satellite launch." It converts a *mission-success* engineering culture into a *crew-survival* culture, where the governing metric is **probability of loss of crew**, not probability of mission success. That forces an entirely different qualification pyramid: propulsion and structural margins, a Crew Escape System usable from pad to upper atmosphere, environmental control and life support, parachute-based deceleration and recovery, abort modes at every flight phase, and human-rating of the launcher itself. Analytically, therefore, the correct ladder is *component test → integrated ground test → abort/air-drop test → uncrewed orbital flight → crewed flight → sustained presence (space station)*. Planetary missions sit on a parallel but different ladder — orbit insertion, soft landing, sample return — where the binding constraints are deep-space navigation, autonomy under signal delay and mass budgets, not life support. Never merge the two ladders, and never read an approved programme as a flown one.
+
 ## 2. Visual foundation
 
 ```text

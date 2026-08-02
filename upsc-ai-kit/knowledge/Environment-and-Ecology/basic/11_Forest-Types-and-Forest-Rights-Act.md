@@ -36,16 +36,21 @@ Scheduled Tribes and Other Traditional Forest Dwellers over these forest lands.
 | ✅ **Tropical Moist/Dry Deciduous Forest** | Forest with trees shedding leaves seasonally, covering the largest share of India's forested area, found across much of the peninsula and Himalayan foothills. |
 | ✅ **Tropical Thorn Forest** | Sparse, thorny, drought-adapted vegetation in low-rainfall/arid zones (e.g., parts of Rajasthan, Gujarat, Deccan interior). |
 | ✅ **Montane/Alpine Forest** | Altitude-driven forest zonation in the Himalaya, transitioning from temperate to sub-alpine to alpine vegetation with rising elevation. |
-| ✅ **Forest Rights Act (FRA), 2006** | Law recognising individual and community rights of forest-dwelling Scheduled Tribes (STs) and Other Traditional Forest Dwellers (OTFDs) over forest land they have traditionally occupied. |
-| ✅ **Individual Forest Rights (IFR)** | Right to hold and live in forest land under individual/family occupation for habitation or self-cultivation. |
+| ✅ **Forest Rights Act (FRA), 2006** | Law recognising individual and community rights of forest-dwelling Scheduled Tribes (STs) and Other Traditional Forest Dwellers (OTFDs) over forest land they have traditionally occupied. Its full title is the *Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006*. |
+| ✅ **The 13 December 2005 cut-off** | Rights are recognised for occupation **prior to 13 December 2005**. For **OTFDs** there is an additional threshold — primary residence and dependence on the forest for **at least three generations (75 years)** before that date. STs face no such generational test. |
+| ✅ **Individual Forest Rights (IFR)** | Right to hold and live in forest land under individual/family occupation for habitation or self-cultivation (capped at the area under actual occupation, subject to a statutory maximum of 4 hectares). |
 | ✅ **Community Forest Resource (CFR) rights** | Right of a community to protect, regenerate, conserve and manage a community forest resource that it has traditionally protected/used. |
+| ✅ **Legal forest categories (Indian Forest Act, 1927)** | **Reserved Forest** (most restrictive — everything prohibited unless permitted), **Protected Forest** (everything permitted unless prohibited), **Village/Unclassed Forest**. These are *legal* categories. |
+| ✅ **FSI canopy-density classes** | **Very Dense Forest** (canopy ≥70%), **Moderately Dense Forest** (40-70%), **Open Forest** (10-40%), **Scrub** (<10%). ⚠️ These are *administrative measurement* classes, not legal categories, and "forest cover" in ISFR means **all land ≥1 hectare with tree canopy density above 10%, irrespective of ownership or legal status** — which is why plantations and orchards can count. |
 
 ## 3. Topic mechanism
 
 1. India's forest types are primarily determined by rainfall gradient (evergreen in the
    wettest zones, progressively drier types toward thorn forest) and, in the Himalaya, by
-   altitude (temperate to alpine zonation) — this is the standard classification framework
-   (associated with the Champion-Seth system) taught alongside biogeography.
+   altitude (temperate to alpine zonation). The standard framework is the **Champion and Seth
+   (1968) revised survey**, which groups India's forests into **16 forest type groups** under
+   five broad classes — **tropical moist, tropical dry, montane subtropical, montane temperate
+   and alpine**.
 2. Historically, colonial-era and early independent-India forest law treated forests
    primarily as state property for timber/revenue purposes, without formally recognising the
    customary rights of communities who had lived in and depended on these forests for
@@ -96,6 +101,26 @@ Scheduled Tribes and Other Traditional Forest Dwellers over these forest lands.
 - ✅ The Act provides for Individual Forest Rights, Community Rights and Community Forest
   Resource rights as distinct categories.
 - ✅ The Gram Sabha is the starting point of the claims-verification process under the Act.
+- ✅ The FRA cut-off is **13 December 2005**; OTFDs must additionally show **three generations
+  (75 years)** of primary residence and dependence before that date, whereas STs need not.
+- ✅ **Section 4(5) FRA:** no member of a forest-dwelling ST or OTFD shall be **evicted or
+  removed** from forest land until the recognition and verification procedure is complete —
+  the Act's strongest procedural safeguard.
+- ✅ **Section 3(2) FRA** permits diversion of forest land (up to **1 hectare**, with felling
+  of not more than 75 trees per hectare) for **13 categories of community development
+  facilities** — schools, hospitals, anganwadis, fair-price shops, roads, drinking water,
+  minor irrigation, electric/telecom lines, tanks, vocational centres, community centres,
+  rainwater harvesting and non-conventional energy — on the **recommendation of the Gram
+  Sabha**.
+- ✅ FRA also recognises rights over **minor forest produce (MFP)** — the right of ownership,
+  access, use and disposal — and grants rights to **Particularly Vulnerable Tribal Groups
+  (PVTGs) and pre-agricultural communities** over habitat.
+- ✅ **Reserved Forest** = everything prohibited unless expressly permitted; **Protected
+  Forest** = everything permitted unless expressly prohibited — the classic reversal pair
+  under the Indian Forest Act, 1927.
+- ✅ FSI's "forest cover" counts **any land ≥1 ha with >10% canopy density regardless of legal
+  status or ownership**, which is why forest *cover* and "recorded forest area" are different
+  numbers and must never be used interchangeably.
 
 ## 7. UPSC traps
 
@@ -112,6 +137,14 @@ Scheduled Tribes and Other Traditional Forest Dwellers over these forest lands.
 - ❌ The Forest Rights Act removes all state authority over forest land. -> It recognises
   specific rights of forest dwellers within the broader framework of forest governance,
   rather than transferring full ownership/control away from the state.
+- ❌ "Forest cover" and "recorded forest area" mean the same thing. -> Forest **cover** is a
+  canopy-density measurement (≥1 ha, >10% canopy, any ownership); **recorded forest area** is
+  the legally notified forest land in government records. The two rarely coincide.
+- ❌ Reserved and Protected Forests differ only in name. -> The permission logic is inverted:
+  in a Reserved Forest everything is prohibited unless permitted; in a Protected Forest
+  everything is permitted unless prohibited.
+- ❌ The FRA cut-off date is the date the Act came into force. -> The statutory cut-off is
+  **13 December 2005**, prior to the Act's enactment.
 
 ## 8. 📰 Current anchor
 

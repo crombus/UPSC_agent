@@ -41,6 +41,11 @@ architecture (not just dates) is the key to answering most UPSC questions on thi
 | ✅ **Kyoto Protocol (1997)** | The first treaty setting legally binding emission-reduction targets, applicable only to developed ("Annex I") countries, based on the principle of common but differentiated responsibilities. |
 | ✅ **Paris Agreement (2015, adopted at COP21)** | A universally applicable agreement under which all parties submit Nationally Determined Contributions (NDCs), with a long-term goal of holding warming well below 2°C and pursuing efforts to limit it to 1.5°C. |
 | ✅ **Nationally Determined Contribution (NDC)** | A country's self-determined climate-action pledge (mitigation targets, and often adaptation plans) submitted under the Paris Agreement, to be updated with increasing ambition over time. |
+| ✅ **Annex I / Annex II / non-Annex I** | UNFCCC's country groupings. **Annex I** = industrialised countries plus economies in transition (the group that took emission commitments). **Annex II** = a subset of Annex I (OECD members, excluding economies in transition) that additionally bears **finance and technology-transfer** obligations. **Non-Annex I** = developing countries, including India. ⚠️ The Paris Agreement did not abolish these annexes; it built a parallel universal NDC architecture alongside them. |
+| ✅ **Kyoto flexibility mechanisms** | Three market/project mechanisms: **Clean Development Mechanism (CDM)** — projects in developing countries generating credits for Annex I buyers; **Joint Implementation (JI)** — projects between Annex I countries; and **International Emissions Trading**. India was one of the largest CDM host countries. |
+| ✅ **Doha Amendment (2012)** | Established the Kyoto Protocol's **second commitment period (2013-2020)**; it entered into force only on **31 December 2020**, the very day the period ended — the standard illustration of ratification lag defeating a treaty's purpose. |
+| ✅ **Global Stocktake (GST)** | The Paris Agreement's five-yearly collective assessment of progress toward its goals, designed to inform the next round of NDCs. The **first GST concluded at COP28 (Dubai, 2023)** in the "UAE Consensus", which called on Parties to contribute to **transitioning away from fossil fuels in energy systems**, and to **triple global renewable energy capacity and double the rate of energy-efficiency improvement by 2030**. |
+| ✅ **Loss and Damage Fund** | Agreed in principle at **COP27 (Sharm el-Sheikh, 2022)** and **operationalised at COP28 (Dubai, 2023)** with initial pledges — the third pillar of climate response alongside mitigation and adaptation, addressing harms that adaptation cannot prevent. |
 | ✅ **Common But Differentiated Responsibilities (CBDR-RC)** | The UNFCCC's foundational equity principle recognising that all countries share responsibility for climate action but developed countries bear greater responsibility given historical emissions and capability. |
 
 ## 3. Topic mechanism
@@ -100,6 +105,20 @@ architecture (not just dates) is the key to answering most UPSC questions on thi
   limit warming to 1.5°C above pre-industrial levels.
 - ✅ Common But Differentiated Responsibilities (CBDR-RC) is the foundational UNFCCC equity
   principle distinguishing developed and developing country obligations.
+- ✅ **Annex II is a subset of Annex I** and carries the additional finance and
+  technology-transfer obligations; India is **non-Annex I**.
+- ✅ Kyoto's three flexibility mechanisms are **CDM, Joint Implementation and International
+  Emissions Trading**; the **Doha Amendment (2012)** created the second commitment period
+  (2013-2020) but entered into force only on **31 December 2020**.
+- ✅ The **first Global Stocktake concluded at COP28 (Dubai, 2023)**, producing the "UAE
+  Consensus" call to transition away from fossil fuels in energy systems and to triple
+  renewable capacity and double the energy-efficiency improvement rate by 2030.
+- ✅ The **Loss and Damage Fund** was agreed at **COP27 (2022)** and **operationalised at
+  COP28 (2023)**.
+- ✅ **Article 6** of the Paris Agreement provides the cooperative-approaches architecture:
+  **6.2** (bilateral cooperative approaches using Internationally Transferred Mitigation
+  Outcomes — ITMOs), **6.4** (a centralised UN crediting mechanism, the Paris Agreement
+  Crediting Mechanism/PACM, successor to the CDM) and **6.8** (non-market approaches).
 
 ## 7. UPSC traps
 
@@ -120,6 +139,15 @@ architecture (not just dates) is the key to answering most UPSC questions on thi
   principle, though Paris operationalises it through universal participation with
   self-determined, nationally differentiated ambition rather than Kyoto-style binary
   developed/developing bifurcation.
+- ❌ Annex I and Annex II are alternative names for the same group. -> **Annex II is a subset
+  of Annex I**, carrying the additional finance and technology-transfer obligations.
+- ❌ The COP28 "UAE Consensus" committed the world to a fossil-fuel **phase-out**. -> The
+  agreed language was "**transitioning away from** fossil fuels in energy systems" — a
+  deliberately weaker formulation, and the precise wording is what examiners test.
+- ❌ The Loss and Damage Fund was created at COP28. -> It was **agreed at COP27 (2022)** and
+  **operationalised at COP28 (2023)**.
+- ❌ The Doha Amendment never took effect. -> It **entered into force on 31 December 2020** —
+  the final day of the very commitment period it governed.
 
 ## 8. 📰 Current anchor
 
@@ -134,7 +162,17 @@ architecture (not just dates) is the key to answering most UPSC questions on thi
   specific binding fossil-fuel phase-out commitment.
 
 ⚠️ **Interpretation caution:** climate-finance figures and COP outcome details are
-politically negotiated and evolve each year — always cite the specific COP and year.
+politically negotiated and evolve each year — always cite the specific COP and year. Three
+further discipline points for this topic:
+- Distinguish a **decision text** (adopted by the COP/CMA) from a **pledge** (voluntary,
+  by individual parties) from **money delivered** (verified disbursement). The NCQG's
+  USD 300 billion figure is a *goal*, not a receipt.
+- Distinguish the **1.3 trillion "Baku to Belém Roadmap"** aspiration (all sources, all
+  actors) from the **USD 300 billion** goal (developed-country-led, to developing countries) —
+  conflating the two is the most common error on this topic.
+- ⚠️ This file deliberately does **not** state the host or outcome of any COP after Belém
+  (COP30, 2025), nor India's post-2025 NDC submission status. Verify both on unfccc.int
+  before citing; a COP has ordinarily been held each November.
 
 ## 9. PYQ application
 

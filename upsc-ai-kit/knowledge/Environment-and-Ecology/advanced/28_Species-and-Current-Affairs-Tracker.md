@@ -126,6 +126,13 @@ unrelated preparation tracks.
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 This tracker's Section 5 entries (basic tier), each with specific source/date attribution. | Use as the model template for how to compile, verify and periodically refresh current-affairs knowledge across the entire Environment and Ecology syllabus, applying the same discipline to any newly emerging item. |
+| 📰 **Section 5A (basic tier) — the 2 August 2026 reevaluation batch**, drawn from Economic Survey 2025-26 Ch. 10, ipcc.ch and unccd.int. | Note what makes these entries *usable*: each pairs a number with (a) an issuing authority, (b) an as-on date and (c) a status qualifier (target / allocated / installed / achieved). An entry lacking any of the three is not exam-safe. |
+| ⚠️ **The tracker's omissions list is itself the deliverable.** Section 5A ends with an explicit statement of what could **not** be verified — recent CITES and Ramsar COP outcomes, post-Belém UNFCCC COPs, India's post-2025 NDC status, the global hotspot count, and India's Kigali step-down schedule. | This is the single most transferable habit in the whole knowledge base. In an examination, a candidate who writes "India's non-fossil installed capacity was 51.93% at end-December 2025 (Economic Survey 2025-26)" and then declines to guess the current global Ramsar total is demonstrating **calibration** — and calibration is what distinguishes a credible answer from a confident-sounding one. |
+
+⚠️ **Four status verbs to keep separate in every tracker entry:** *announced* (a target
+exists), *notified* (a legal instrument exists), *allocated/sanctioned* (money or capacity is
+committed), and *achieved/commissioned* (physical reality). Almost every avoidable factual
+error in Environment answers is a substitution of one of these for another.
 
 ## 10. PYQ-based analytical application
 

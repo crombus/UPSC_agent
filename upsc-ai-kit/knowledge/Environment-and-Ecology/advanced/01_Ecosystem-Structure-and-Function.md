@@ -2,7 +2,7 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims.
 > **Core area:** Ecological fundamentals.
-> **Grounded in:** NCERT Class XII Biology, Ch. "Ecosystem"; MoEFCC/ISFR data; ecosystem-services literature (MEA framework); audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** NCERT Class XII Biology, Ch. "Ecosystem"; MoEFCC/ISFR data; Economic Survey 2025-26 Ch. 10 (Environment and Climate Change); ecosystem-services literature (MEA framework); audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/01_Ecosystem-Structure-and-Function.md`.*
 
@@ -28,6 +28,29 @@ Examiners test whether a candidate can trace that causal chain, not whether they
 ⚠️ This four-category framework (drawn from the globally used Millennium Ecosystem
 Assessment structure) is the standard vocabulary examiners expect when a question asks
 candidates to "assess the value of an ecosystem" rather than merely describe it.
+
+⚠️ **Analytical upgrade — MEA is not the end of the story.** The MEA (2005) classification
+has since been reframed by IPBES (the Intergovernmental Science-Policy Platform on
+Biodiversity and Ecosystem Services) as **"Nature's Contributions to People" (NCP)**, which
+deliberately widens the lens beyond a market/utilitarian reading to include relational and
+indigenous/local-knowledge values of nature. A high-scoring answer names MEA for the
+four-fold taxonomy but flags the NCP reframing as the reason "ecosystem services" is no
+longer treated as a purely economic-valuation concept.
+
+## 2A. Ecosystem function as adaptation infrastructure (the current policy frame)
+
+⚠️ The operational significance of "structure enables function" in Indian policy today is
+that ecosystem function is being treated as **infrastructure**, not sentiment:
+
+| Instrument | Ecosystem structure protected | Function purchased | Verified anchor |
+|---|---|---|---|
+| ✅ MISHTI (Mangrove Initiative for Shoreline Habitats & Tangible Incomes) | Mangrove zonation along the coast | Storm-surge buffering, fish nursery, blue carbon | ~540 sq km restoration across **9 coastal States and 4 UTs**, 2023-2028; ~22.8 million person-days of employment; estimated carbon sink ~4.5 million tonnes (Economic Survey 2025-26, Ch. 10) |
+| ✅ National Plan for Conservation of Aquatic Ecosystems (NPCA) | Wetland hydrology and vegetation | Flood moderation, water security | ES 2025-26 credits NPCA with expanding protected wetlands that act as "critical buffers under climate stress" |
+| ✅ National Coastal Mission | Coastal landform-vegetation complex | Reduced vulnerability to sea-level rise/extreme events | ES 2025-26, Ch. 10 |
+
+⚠️ **Why this matters for marking:** it converts an abstract "ecosystem services" paragraph
+into a named-scheme, dated, quantified argument — the difference between a 5/10 and an
+8/10 answer on ecosystem-value questions.
 
 ## 3. Structural analysis: stratification, productivity, and stability
 
@@ -85,6 +108,12 @@ candidates to "assess the value of an ecosystem" rather than merely describe it.
   questions.
 - ✅ Ecotones show the edge effect — higher species density and variety than either bordering
   community due to overlapping resource availability.
+- ✅ IPBES reframed the MEA's "ecosystem services" as **Nature's Contributions to People
+  (NCP)** to admit relational and indigenous/local-knowledge values alongside instrumental
+  ones — the vocabulary shift examiners increasingly reward.
+- ✅ A niche is not a single attribute: it decomposes into habitat, trophic (food) and
+  reproductive niches, which is why two species can overlap in one dimension and still
+  coexist.
 
 ## 8. Advanced Prelims traps
 
@@ -101,7 +130,13 @@ candidates to "assess the value of an ecosystem" rather than merely describe it.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 ISFR 2023 (Dec 2024): forest+tree cover 8,27,357 sq km, 25.17% of geographical area (forest 21.76%, tree cover 3.41%). | Use as the quantitative base for any "extent of forest ecosystem" answer, but immediately flag the quality/quantity distinction to earn analytical credit. |
+| 📰 ISFR 2023 (December 2024; latest ISFR verified as on 2 August 2026): forest+tree cover 8,27,357 sq km, 25.17% of geographical area (forest 21.76%, tree cover 3.41%). | Use as the quantitative base for any "extent of forest ecosystem" answer, but immediately flag the quality/quantity distinction to earn analytical credit. ISFR is biennial — always re-verify the edition. |
+| 📰 Economic Survey 2025-26 (Ch. 10): India's adaptation-relevant expenditure rose to **5.6% of GDP in FY22** (source: India's Initial Adaptation Communication / Third National Communication to UNFCCC, 2023). | Converts "ecosystems are valuable" into a fiscal claim: India is already spending at ecosystem-adaptation scale, so the policy question is *allocative efficiency*, not whether to spend. |
+| 📰 Economic Survey 2025-26 (Ch. 10): MISHTI targets ~540 sq km of mangrove restoration across 9 coastal States and 4 UTs (2023-2028), with an estimated 4.5 million tonne carbon sink. | The single best worked example of "structure (mangrove zonation) purchased for function (surge buffering + blue carbon + livelihoods)". |
+
+⚠️ **Announced-target vs achievement discipline:** MISHTI's 540 sq km and 4.5 Mt figures are
+*programme targets/estimates*, not audited outcomes — say "targets/envisages", never
+"has restored", unless a completion figure is cited.
 
 ## 10. PYQ-based analytical application
 

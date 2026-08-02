@@ -129,6 +129,12 @@ rather than assuming pollution reduction is uniformly climate-beneficial in ever
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 IPCC AR6 Synthesis Report (2023): ~1.1°C observed warming; remaining carbon budget ~500 GtCO₂ (50% chance, 1.5°C, from start-2020); current global emissions ~40 GtCO₂/year. | Use to construct the finite-budget-depletion argument precisely (budget/annual-emission-rate = approximate years remaining), demonstrating quantitative reasoning in a Mains answer. |
+| 📰 The AR7 cycle includes a **2027 Methodology Report on Inventories for Short-Lived Climate Forcers** and a **2027 Methodology Report on Carbon Dioxide Removal Technologies, CCUS** (ipcc.ch, verified 2 August 2026). | Signals where the science frontier has moved: from *whether* warming is anthropogenic (settled) to *how to measure* the two levers that determine near-term temperature (SLCFs) and net long-term budget (removals). For India this matters concretely — black carbon and methane are large parts of its warming footprint and its most health-relevant emissions. |
+
+⚠️ **Global vs Indian evidence:** the ~1.1°C figure and the global carbon budget are
+planet-scale quantities. India-specific warming, monsoon-variability and sea-level statements
+must come from Indian sources (IMD, Ministry of Earth Sciences assessments, India's National
+Communications/BURs to the UNFCCC) — do not downscale a global number in an answer.
 
 ## 10. PYQ-based analytical application
 

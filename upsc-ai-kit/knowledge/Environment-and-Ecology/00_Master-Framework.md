@@ -54,6 +54,10 @@ biodiversity, species risk               Diversity Act, Forest law, EIA/NGT,
 | Reactive vs structural response | Emergency/short-term measures differ from long-term, source-reduction strategy | Topics 13, 14, 21, 26 |
 | Nationally determined, internationally reviewed | Voluntary national target-setting with periodic international review | Topics 19 (NDCs), 20 (Panchamrit), 23 (LDN targets) |
 | Last-mile implementation gap | Capacity created on paper (fund, plant, standard) vs actual on-ground utilisation | Topics 12, 14, 15, 27 |
+| **Four status verbs** | *Announced* (a target exists) → *notified* (a legal instrument exists) → *allocated/sanctioned* (money or capacity committed) → *achieved/commissioned* (physical reality). Substituting one for another is the most common factual error in Environment answers. | Topics 12, 20, 21, 24, 25, 28 |
+| **Legal category vs administrative label vs ecological category** | "Forest" (legal, judicially construed) ≠ "wasteland" (revenue label) ≠ "grassland biome" (ecological); "forest cover" (canopy measurement) ≠ "recorded forest area" (legal record); "hotspot" (international scientific label) ≠ "protected area" (statute). | Topics 03, 04, 06, 11, 12 |
+| **Global evidence vs Indian evidence** | Global assessments (IPCC warming figures, planetary boundaries, UNCCD's 40%-of-land figure) must not be downscaled into claims about India; Indian claims need Indian sources (IMD, FSI, MoES, India's National Communications). | Topics 02, 17, 18, 23 |
+| **Statute and judgment read together** | Indian environmental law is frequently the product of a statute *and* a court order operating simultaneously — e.g., the 2023 forest amendment plus the February 2024 *Godavarman*-preserving direction; the ESZ orders of 2022 and 2023; the bar on ex post facto clearance. | Topics 05, 06, 12, 16 |
 
 ## 4. Governance-flow map
 
@@ -85,6 +89,10 @@ ON-GROUND OUTCOME (species/ecosystem status, pollution levels, forest-restoratio
 | Global equity (CBDR-RC) vs universal climate/biodiversity ambition | India's positions on climate finance, Panchamrit framing and LDN targets consistently invoke differentiated responsibility alongside universal participation |
 | Compensation/offset logic vs ecological irreplaceability | CAMPA, LDN and similar "counterbalancing" mechanisms face a recurring ecological-commensurability critique |
 | Designation/target-setting vs genuine on-ground outcome | Ramsar/Biosphere/Tiger Reserve counts, NDCs, and LDN pledges are necessary but not sufficient without verified implementation |
+| Command-and-control vs market-based instruments | India is now running both — CPCB consent/standards alongside the CCTS, green credits, EPR certificate markets and the Surat particulate-matter ETS. The evidence (Surat: 20-30% lower emissions, 11-14% lower abatement cost) suggests markets can work in lower-capacity settings **when monitoring is credible** — which relocates the debate from ideology to measurement infrastructure (Topics 13, 15, 21) |
+| Trust-based/decriminalised regulation vs deterrence | The Jan Vishwas decriminalisation of the EPA, Air Act and Indian Forest Act, third-party audit under the Environment Audit Rules, 2025, and single-window clearance via PARIVESH 3.0 reduce compliance burden — but the Economic Survey 2025-26 itself lists weak post-clearance monitoring and SPCB capacity constraints as unresolved. Both halves belong in a balanced answer (Topics 13, 14, 16, 27) |
+| Mitigation visibility vs adaptation reality | Mitigation attracts the treaties, markets and headlines; India's adaptation-relevant expenditure was already **5.6% of GDP in FY22**. For a developing country, adaptation is the larger fiscal fact and the sharpest expression of CBDR-RC (Topics 20, 24, 26) |
+| Installation vs integration | With non-fossil sources at **51.93% of installed capacity (December 2025)**, the binding constraint has moved from adding megawatts to storage (411 GWh needed by 2031-32), critical minerals, material intensity and grid stability (Topics 20, 25) |
 
 ## 6. Study sequence
 

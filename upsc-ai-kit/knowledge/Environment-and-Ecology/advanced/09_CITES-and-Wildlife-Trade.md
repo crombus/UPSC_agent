@@ -20,9 +20,12 @@ border. Mains answers that present CITES as a comprehensive species-protection t
 
 ## 2. The CoP mechanism: political economy of listing decisions
 
-1. ✅ Appendix listing/delisting/uplisting decisions require a two-thirds majority vote of
-   parties present and voting at a Conference of the Parties (CoP), making listing outcomes
+1. ✅ Amendments to **Appendix I and Appendix II** require a two-thirds majority of parties
+   present and voting at a Conference of the Parties (CoP), making listing outcomes
    as much a matter of international political negotiation as of scientific evidence.
+   ⚠️ **Appendix III is different**: any single Party may unilaterally list a species it
+   already protects domestically and request other Parties' cooperation — no vote is needed,
+   and the listing can be withdrawn just as unilaterally.
 2. ⚠️ **Analytical point:** range states (countries where a species naturally occurs) can
    have differing national interests in a listing decision — some favour stricter Appendix I
    listing to curb poaching pressure, while others (sometimes citing sustainable-use
@@ -90,13 +93,16 @@ timber species, reptile skins).
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ CITES Appendix listing/amendment decisions require a two-thirds majority vote at the
-  Conference of the Parties (CoP).
+- ✅ **Appendix I and II** amendments require a two-thirds majority vote at the Conference of
+  the Parties; **Appendix III listing is unilateral** by a single Party and needs no vote.
 - ✅ Each CITES party designates both a Management Authority (permits) and a Scientific
   Authority (non-detriment findings) — a two-body domestic institutional requirement.
 - ✅ CITES' jurisdiction is limited to international trade; it has no direct authority over
   domestic habitat loss, hunting for local consumption, or purely internal wildlife
   management.
+- ✅ A Party may enter a **reservation** against a specific listing, in which case it is
+  treated as a non-Party with respect to trade in that taxon — the structural escape hatch
+  that explains why an Appendix I listing does not guarantee a global trade halt.
 - ✅ Red Sanders (Appendix II timber species) and Star Tortoise are commonly cited Indian
   species affected by persistent illegal wildlife trafficking despite CITES listing.
 
@@ -105,8 +111,11 @@ timber species, reptile skins).
 - ❌ CITES can directly penalise a country for domestic habitat destruction affecting a
   listed species. -> CITES' authority is limited to regulating international trade, not
   domestic habitat/land-use decisions.
-- ❌ A two-thirds majority is required only for Appendix I listings, not II or III. -> The
-  two-thirds majority voting rule applies to Appendix amendment decisions generally at CoP.
+- ❌ A two-thirds majority is required for every Appendix listing. -> It applies to Appendix I
+  and II amendments only; **Appendix III listing is unilateral** and requires no CoP vote.
+- ❌ Once a species is on Appendix I, every Party is bound to ban its commercial trade. -> A
+  Party that has entered a **reservation** is treated as a non-Party for that taxon, which is
+  the main structural leak in the regime.
 - ❌ The Scientific Authority issues trade permits. -> The Management Authority issues
   permits; the Scientific Authority provides the non-detriment finding/advisory input.
 - ❌ CITES listing alone has proven sufficient to eliminate illegal trafficking in high-value

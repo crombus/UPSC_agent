@@ -32,11 +32,13 @@ Delhi-NCR) triggered when pollution crosses defined severity thresholds.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **CPCB** | Central Pollution Control Board — apex statutory body under the Air Act, 1981 and Water Act, 1974 setting national standards and coordinating pollution control. |
-| ✅ **NAAQS** | National Ambient Air Quality Standards — CPCB-notified permissible concentration limits for key air pollutants (PM2.5, PM10, SO2, NOx, CO, ozone, lead, ammonia, benzene, etc.) in outdoor air. |
+| ✅ **NAAQS** | National Ambient Air Quality Standards — CPCB-notified permissible concentration limits in outdoor air. The **current standards were notified in 2009** and cover **12 pollutants**: PM10, PM2.5, SO₂, NO₂, CO, ozone, lead, ammonia, benzene, benzo(a)pyrene, arsenic and nickel. |
 | ✅ **PM2.5 / PM10** | Particulate matter with diameter ≤2.5/≤10 micrometres respectively; PM2.5 penetrates deeper into the respiratory system and is considered a more direct health hazard. |
-| ✅ **AQI (Air Quality Index)** | A composite 0-500 scale translating multiple pollutant concentrations into a single public health-communication category. |
-| ✅ **NCAP** | National Clean Air Programme (launched 2019) — a national framework setting city-specific particulate-matter reduction targets and timelines for identified non-attainment cities. |
+| ✅ **AQI (Air Quality Index)** | A composite 0-500 scale translating pollutant concentrations into a single public health-communication category. India's AQI (launched 2014-15) uses **eight pollutants** — PM10, PM2.5, NO₂, SO₂, CO, ozone, ammonia and lead — and **six categories**: Good (0-50), Satisfactory (51-100), Moderate (101-200), Poor (201-300), Very Poor (301-400), Severe (401-500). ⚠️ The AQI reported is the **worst (maximum) sub-index** across pollutants, not an average. |
+| ✅ **NCAP** | National Clean Air Programme (launched 2019) — a national framework setting city-specific particulate-matter reduction targets and timelines for identified non-attainment cities. Its target was initially 20-30% PM reduction by 2024 against a 2017 base and was subsequently **revised to a 40% reduction in PM10 concentration (or attainment of NAAQS) by 2025-26**, against a 2017-18 base. |
+| ✅ **Non-attainment city** | A city that failed to meet NAAQS for PM10 or NO₂ over a specified five-year monitoring period — the criterion by which NCAP cities were identified. |
 | ✅ **GRAP** | Graded Response Action Plan — a staged emergency air-pollution response mechanism (primarily for Delhi-NCR) that escalates restrictions as AQI severity worsens. |
+| ✅ **Industry pollution categories** | CPCB classifies industries by Pollution Index into **Red, Orange, Green, White** and — newly — **Blue**. Blue covers industries providing essential environmental services for managing domestic waste and carries an extended consent validity of two years (Economic Survey 2025-26, Ch. 10). |
 
 ## 3. Topic mechanism
 
@@ -55,7 +57,7 @@ Delhi-NCR) triggered when pollution crosses defined severity thresholds.
    industrial curbs) as air quality deteriorates from "poor" toward "severe" categories.
 5. Because air pollution sources are diverse (vehicles, industry, biomass/crop-residue
    burning, construction dust, thermal power plants) and often cross state boundaries
-   (e.g., seasonal crop-residue burning contributing to Delhi-NCR's winter pollution), 
+   (e.g., seasonal crop-residue burning contributing to Delhi-NCR's winter pollution),
    effective governance requires coordinated multi-state and multi-sectoral action, not
    single-city measures alone.
 
@@ -95,6 +97,21 @@ Delhi-NCR) triggered when pollution crosses defined severity thresholds.
   associated with the Delhi-NCR region.
 - ✅ The Commission for Air Quality Management in NCR and Adjoining Areas (CAQM) is a
   statutory body coordinating cross-state air-quality management for Delhi-NCR.
+- ✅ CAQM was first created by **Ordinance in 2020** and placed on a permanent statutory
+  footing by the **CAQM in NCR and Adjoining Areas Act, 2021**; its jurisdiction covers the
+  NCT of Delhi and the NCR/adjoining areas of **Haryana, Punjab, Rajasthan and Uttar
+  Pradesh**. Its directions override those of individual SPCBs on air quality in that region.
+- ✅ The **Air (Prevention and Control of Pollution) Act, 1981** was enacted by Parliament
+  under **Article 253** (legislation to implement international agreements) to give effect to
+  decisions of the **1972 Stockholm Conference on the Human Environment** — the same
+  constitutional route used for the Water Act, 1974 and the Environment (Protection) Act,
+  1986.
+- ✅ India's AQI aggregates **eight** pollutants into **six** categories, and the published
+  AQI is the **highest** individual pollutant sub-index, not an average — so one pollutant
+  can drive the whole city's reported category.
+- ✅ Following amendments made through the **Jan Vishwas** route, **minor offences under the
+  Air Act, 1981 have been decriminalised** — replaced by monetary penalties in place of
+  imprisonment (Economic Survey 2025-26, Ch. 10).
 
 ## 7. UPSC traps
 
@@ -110,17 +127,37 @@ Delhi-NCR) triggered when pollution crosses defined severity thresholds.
 - ❌ Air pollution in Delhi-NCR is caused only by vehicular emissions. -> It results from a
   combination of vehicular, industrial, construction, biomass-burning and meteorological
   factors.
+- ❌ The reported AQI is the average of all pollutant readings. -> It is the **worst
+  (maximum) sub-index** among the eight pollutants monitored.
+- ❌ NAAQS cover only PM2.5 and PM10. -> The 2009 standards cover **12 pollutants**,
+  including lead, ammonia, benzene, benzo(a)pyrene, arsenic and nickel.
+- ❌ The Air Act, 1981 was enacted under the Concurrent List entry on public health. -> It was
+  enacted under **Article 253** to implement decisions of the 1972 Stockholm Conference.
 
 ## 8. 📰 Current anchor
 
-- 📰 NCAP's city-specific particulate-matter reduction targets and CAQM's GRAP-based
-  seasonal response continue to be the operative national and Delhi-NCR-specific
-  frameworks; verify the latest NCAP target revision and any updated non-attainment city
-  list against the most recent MoEFCC/CPCB publication before citing specific figures.
+- 📰 NCAP's revised national goal is a **40% reduction in PM10 concentration (or attainment
+  of NAAQS) by 2025-26** against a 2017-18 base — a revision of the original 20-30%-by-2024
+  formulation. Verify the current non-attainment city list and any further target revision
+  against the latest MoEFCC/CPCB publication before citing figures.
+- 📰 **World's first particulate-matter emissions trading scheme, Surat (Gujarat)** —
+  reported in Economic Survey 2025-26 (Ch. 10, Box X.9): the scheme covered **317 industrial
+  plants**, was underpinned by mandatory **Continuous Emissions Monitoring Systems (CEMS)**,
+  and replaced a conventional command-and-control regime. The experimental evaluation
+  (Greenstone, Pande, Ryan and Sudarshan, *Quarterly Journal of Economics*, 2025) found
+  near-universal compliance, **20-30% lower particulate emissions** in participating plants
+  than under the status-quo regime, and **11-14% lower abatement costs** for a given emissions
+  level.
+- 📰 CPCB's industry categorisation now includes a **Blue** category (essential environmental
+  services for domestic waste; two-year consent validity) alongside Red, Orange, Green and
+  White; and in **October 2025** MoEFCC rationalised green-belt requirements by pollution
+  potential, replacing the blanket 33% green-cover norm for industrial estates (Economic
+  Survey 2025-26, Ch. 10).
 
 ⚠️ **Interpretation caution:** specific numeric pollution-reduction targets and non-
 attainment city counts under NCAP have been revised over time — cite the source and date
-rather than a fixed historical figure.
+rather than a fixed historical figure. Distinguish also an **announced target** (40% PM10 by
+2025-26) from **attainment achieved** in any given city; the two are frequently conflated.
 
 ## 9. PYQ application
 

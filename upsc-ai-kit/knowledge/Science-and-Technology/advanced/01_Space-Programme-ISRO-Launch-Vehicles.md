@@ -2,11 +2,16 @@
 
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II (governance) + Prelims.
 > **Core area:** Institutional separation, launch-economics, private participation and future transport infrastructure.
+> **Grounded in:** ISRO Launchers (https://www.isro.gov.in/Launchers.html); ISRO PSLV/GSLV/LVM3/SSLV pages; IN-SPACe portal (https://www.inspace.gov.in/inspace); NSIL portal (https://www.nsilindia.co.in/); Indian Space Policy 2023 PIB release (https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1947442); NGLV Cabinet approval 18 Sep 2024 (https://www.pib.gov.in/PressReleasePage.aspx?PRID=2055979) and 27 Mar 2025 configuration reply (https://pib.gov.in/PressReleasePage.aspx?PRID=2115885); semi-cryogenic engine development notes (https://www.isro.gov.in/ISRO_achieves_breakthrough_in_Semicryo_engine_development_Mar_2025_Final.html); Third Launch Pad approval 16 Jan 2025 (https://pib.gov.in/PressReleasePage.aspx?PRID=2093358); SSLV technology transfer to HAL (https://www.isro.gov.in/Technology_Transfer_Agreement_SSLV.html ; https://pib.gov.in/PressReleasePage.aspx?PRID=2226236); Kulasekarapattinam complex (https://www.isro.gov.in/SSLVLaunchComplexKulasekarapattinam.html ; https://pib.gov.in/PressReleasePage.aspx?PRID=2276117); DoS status reply 17 Dec 2025 (https://pib.gov.in/PressReleasePage.aspx?PRID=2205291) — re-verified 2 Aug 2026.
 > **Grounded in:** ISRO Launchers (https://www.isro.gov.in/Launchers.html); ISRO PSLV/GSLV/LVM3/SSLV pages (https://www.isro.gov.in/PSLV_CON.html ; https://www.isro.gov.in/GSLV_CON.html ; https://www.isro.gov.in/GSLVmk3_CON.html ; https://www.isro.gov.in/sslv_CON.html); ISRO SLV and ASLV history (https://www.isro.gov.in/SLV.html ; https://www.isro.gov.in/ASLV.html); IN-SPACe portal (https://www.inspace.gov.in/inspace); NSIL portal (https://www.nsilindia.co.in/); Indian Space Policy 2023 PIB release (https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1947442); Third Launch Pad note (https://www.isro.gov.in/CabinetapprovesThirdLaunchPad.html); Kulasekarapattinam spaceport reply (https://pib.gov.in/PressReleasePage.aspx?PRID=2158404) — verified 16 Jul 2026.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `basic/01_Space-Programme-ISRO-Launch-Vehicles.md`.*
 
 ---
+
+## 1. Analytical frame
+
+⚠️ India’s launch story is routinely written as a list of rockets. The analytically useful question is different: **access to space is a system, not a vehicle.** Four variables decide whether a launcher programme becomes strategic and commercial capability — (i) *propulsion class* (solid/earth-storable liquid → cryogenic → semi-cryogenic → reusable), (ii) *orbit reach* (LEO/SSO vs GTO vs escape trajectories), (iii) *throughput* (pads, integration bays, stage manufacturing, range slots), and (iv) *institutional clarity* (who researches, who authorises, who sells). India solved (i) and (ii) first, is now investing in (iii), and used Indian Space Policy 2023 to settle (iv). Judge every claim of "space power" against all four, and never treat a Cabinet approval for a future vehicle or pad as present capability.
 
 ## 2. Visual foundation
 
@@ -38,10 +43,13 @@ SLV/ASLV (technology learning)
 |---|---|
 | ✅ **Authorisation architecture** | The rule-and-clearance framework through which non-government players are permitted and supervised in space activities. |
 | ✅ **Commercialisation** | Conversion of public space capability into market-facing launch, satellite or technology services. |
-| ✅ **Cryogenic capability** | Ability to use high-performance cryogenic propulsion for heavier missions, central to GSLV/LVM3 evolution. |
+| ✅ **Cryogenic capability** | Ability to use high-performance cryogenic propulsion (LOX + liquid hydrogen) for heavier missions, central to GSLV/LVM3 evolution. |
+| ⚠️ **Semi-cryogenic propulsion** | LOX + refined kerosene: denser and less cryogenically demanding than LH₂, giving more thrust per stage volume. In India it is under development (SE2000 engine / SC120 stage) as an **LVM3 payload-enhancement upgrade**, not as a flying stage. |
 | ✅ **Human-rating** | Process of redesigning and certifying a launcher/system for crew safety and reliability. |
 | ✅ **Launch cadence** | Frequency at which a system can repeatedly support missions with acceptable cost and safety. |
-| ✅ **NGLV** | Approved next-generation launch-vehicle line for future heavier and more adaptable mission needs. |
+| ✅ **NGLV** | Approved next-generation launch-vehicle line (18 Sep 2024, ₹8,240 crore) — three-stage, **partially reusable first stage**, ~30 t to LEO class. Approved and under development; nothing has flown. |
+| ⚠️ **Reusability** | Recovery and reflight of a stage. It lowers marginal cost only if refurbishment cost and turnaround time are low and cadence is high — otherwise it raises programme cost. |
+| ⚠️ **Launching State liability** | Under the 1972 Liability Convention the launching State bears **absolute** liability for surface damage; this is the legal reason private launch requires State authorisation, insurance and indemnity chains, not merely a licence. |
 | ✅ **Sovereign capability** | Strategic national control over critical technologies and mission-enabling infrastructure. |
 
 ## 4. Mechanism / how it works
@@ -65,6 +73,9 @@ SLV/ASLV (technology learning)
 - ⚠️ Launch authorisation involves liability, range safety, export-control sensitivity, spectrum/orbital coordination and national-security oversight; it cannot be treated like ordinary industrial licensing.
 - ⚠️ Over-centralisation can slow innovation, but under-regulation can create safety and strategic vulnerabilities in a dual-use domain.
 - ⚠️ The real success metric is not merely new entrants but whether the ecosystem can scale manufacturing, quality assurance and globally credible launch service delivery.
+- ⚠️ **The unfinished legal question:** India regulates private space activity through **executive policy (Indian Space Policy 2023) and IN-SPACe norms, not through a space statute.** Under the Outer Space Treaty (Art. VI) States bear international responsibility for non-government activity and must authorise and continuously supervise it; under the Liability Convention the launching State is absolutely liable for surface damage. A policy-based authorisation regime therefore leaves open how liability is apportioned between the State and an Indian private launch operator, how insurance floors are fixed, and how appeals against IN-SPACe decisions are adjudicated — a genuine "regulatory gap" argument that scores well in Mains.
+- ⚠️ **Ownership vs control:** the 2024 FDI liberalisation (74% automatic for satellite manufacture/operation; 49% automatic for launch vehicles and spaceports; 100% automatic for components/sub-systems) opens capital but keeps launch-vehicle control tighter than downstream segments — evidence that India treats *access to space* as more strategically sensitive than *use of space*.
+- ⚠️ **Technology transfer as the real test:** the SSLV transfer to HAL (10 Sep 2025, ₹511 crore, 10 years) is a sharper indicator of reform than any policy announcement, because it moves an entire launch system from the state agency to an industrial producer — but it also transfers the burden of quality assurance, which is where launcher programmes usually fail.
 
 ## 6. Indian applications, strategic significance and limitations
 
@@ -104,18 +115,22 @@ SLV/ASLV (technology learning)
 ## 9. 📰 Current anchor
 
 - 📰 **10 Aug 2023 | Indian Space Policy 2023 - approved.** PIB formally placed the policy in the public domain and clarified institutional roles.
-- 📰 **September 2024 | NGLV - approved.** Department of Space monthly summary placed NGLV inside the future-capability basket.
-- 📰 **16 Jan 2025 | Third Launch Pad - approved.** ISRO/PIB tied it to future NGLV and human-spaceflight support needs.
-- 📰 **20 Aug 2025 | Kulasekarapattinam spaceport - under development.** PIB indicated construction progress and a target commissioning window.
+- 📰 **18 Sep 2024 | NGLV - approved.** Cabinet sanctioned ₹8,240 crore for a three-stage, partially reusable vehicle of the ~30-tonne-to-LEO class. **Status: approved / under development.**
+- 📰 **16 Jan 2025 | Third Launch Pad - approved.** ₹3,984.86 crore, 48-month realisation target; tied to NGLV and to standby cover for the Second Launch Pad. **Status: approved, not commissioned.**
+- 📰 **10 Sep 2025 | SSLV technology transfer to HAL - executed.** ₹511 crore, ten-year term; the first transfer of a complete Indian launch vehicle to industry. **Status: agreement signed.**
+- 📰 **21 Jun 2026 | Kulasekarapattinam SSLV complex - under construction.** First SSLV launch from the site targeted in FY 2026-27. **Status: under development.**
+- 📰 **2025-26 mission record.** GSLV-F16/NISAR (30 Jul 2025) and LVM3-M5/CMS-03 (2 Nov 2025) succeeded; **PSLV-C61/EOS-09 (18 May 2025) failed** after a PS3-stage observation and **PSLV-C62 (Jan 2026)** saw an end-of-PS3 anomaly under expert review.
 
 | Verified current anchor | Analytical use in answers |
 |---|---|
-| Indian Space Policy 2023 clarifies roles of DoS, ISRO, IN-SPACe and NSIL. | Use to argue that reform is institutional differentiation, not simple privatisation. |
+| Indian Space Policy 2023 clarifies roles of DoS, ISRO, IN-SPACe and NSIL — but is executive policy, not a statute. | Use to argue that reform is institutional differentiation, not simple privatisation, and that a domestic space law remains the unfinished agenda under Outer Space Treaty Art. VI obligations. |
 | Third Launch Pad approval shows future missions are infrastructure-constrained, not only rocket-constrained. | Use to explain why launch capacity is an ecosystem of pads, integration, logistics and safety, not merely propulsion technology. |
 | Kulasekarapattinam progress highlights small-satellite/polar-orbit support ambitions. | Use to connect space reform with regional industrialisation and launch-market diversification. |
-| NGLV approval indicates India’s roadmap has moved from maintaining access to expanding mission class. | Use to frame India’s transition from workhorse access to next-generation strategic/commercial ambition. |
+| NGLV approval (₹8,240 crore, partially reusable) indicates India's roadmap has moved from maintaining access to expanding mission class. | Use to frame India's transition from workhorse access to next-generation strategic/commercial ambition — while noting that reusability pays only at high cadence. |
+| SSLV technology transfer to HAL converts policy into an actual industrial handover. | Use as the concrete evidence that "commercialisation" now means transferring build responsibility, and that the binding risk shifts to industrial quality assurance. |
+| Two PSLV anomalies inside twelve months alongside two clean heavy-lift successes. | Use to keep the answer balanced: reliability is an engineering variable that must be re-earned every flight, and it directly governs insurance cost and customer confidence. |
 
-⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date; verify later updates before exam use.
+⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Aug 2026); verify later updates before exam use.
 
 ## 10. PYQ application
 

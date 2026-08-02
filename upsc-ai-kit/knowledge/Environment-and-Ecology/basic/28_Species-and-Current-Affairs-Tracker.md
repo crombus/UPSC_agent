@@ -103,10 +103,112 @@ answer.
   least USD 300 billion/year by 2035 (developed-to-developing), with a broader USD 1.3
   trillion/year aspirational total-mobilisation goal via the Baku-to-Belém Roadmap, carried
   forward at COP30 (Belém, 2025).
-- ✅📰 **Great Indian Bustard:** Critically Endangered (IUCN); Supreme Court-monitored
-  proceedings on overhead power-line mitigation (undergrounding/bird diverters) in its
-  Rajasthan/Gujarat habitat remain active — verify the latest court order date before
-  citing case status.
+- ✅📰 **Great Indian Bustard:** Critically Endangered (IUCN). In **M.K. Ranjitsinh & Ors. v.
+  Union of India (Supreme Court, 21 March 2024)** the Court **modified** its April 2021
+  blanket direction on undergrounding overhead power lines across bustard habitat,
+  substituting an expert-committee-led, area-specific feasibility assessment, and in the same
+  judgment recognised a **right against the adverse effects of climate change** under
+  Articles 14 and 21 — verify the latest order date and expert-committee status before
+  citing case progress.
+
+### 5A. Verified entries added on this reevaluation (2 August 2026)
+
+**Energy and climate — Economic Survey 2025-26, Chapter 10 (Government of India):**
+
+- ✅📰 **Non-fossil capacity: 51.93% of India's installed power capacity at end-December
+  2025** — the ~50%-by-2030 NDC target met ahead of schedule (Ministry of Power data).
+- ✅📰 **38.61 GW of renewable capacity added in 2025-26 up to 31 December 2025** — 30.16 GW
+  solar, 4.47 GW wind, 3.24 GW hydro, 0.03 GW bio-power (MNRE).
+- ✅📰 **India ranks 4th globally in installed renewable capacity** (after China, the USA and
+  Brazil) — IRENA, *Renewable Energy Statistics 2025*.
+- ✅📰 **Solar: ~3 GW (2014) → 135.81 GW (December 2025)**; **PM Surya Ghar: 8 GW rooftop**;
+  **55 solar parks** approved (39,973 MW sanctioned, 16,121 MW installed).
+- ✅📰 **Wind: 54.51 GW (December 2025)** — 4th highest in the world; 83.35 billion units
+  generated in 2024-25.
+- ✅📰 **Nuclear: installed capacity ~8,780 MW**; CEA roadmap for **100 GW by 2047**; Nuclear
+  Energy Mission (Budget 2025-26, ₹20,000 crore) targeting **≥5 indigenous SMRs by 2033**
+  (BSMR-200 and SMR-55).
+- ✅📰 **SHANTI Act, December 2025** — consolidates the Atomic Energy Act, 1962 and the Civil
+  Liability for Nuclear Damage Act, 2010; permits private-sector and state participation;
+  graded liability framework.
+- ✅📰 **National Green Hydrogen Mission:** **862,000 t/yr** of green-hydrogen capacity
+  **allocated to 18 companies**; **3,000 MW/yr of electrolyser manufacturing awarded to 15
+  firms**; **three Green Hydrogen Hubs** — Deendayal Port (Gujarat), V.O. Chidambaranar Port
+  (Tamil Nadu) and Paradip Port (Odisha). ⚠️ *Allocated/awarded*, not commissioned.
+- ✅📰 **Storage:** CEA projects **411 GWh of battery storage needed by 2031-32**; ACC PLI
+  covers 50 GWh, of which 10 GWh is earmarked for grid-scale storage.
+- ✅📰 **Adaptation expenditure reached 5.6% of GDP in FY22** (India's Initial Adaptation
+  Communication / Third National Communication, 2023).
+- ✅📰 **NAPCC is now described by the Government as nine missions**, the ninth being on
+  **health** — state "eight originally, nine as currently described".
+
+**Carbon markets and regulation:**
+
+- ✅📰 **CCTS adopted June 2023**; **2025: pro-rata GEI targets notified for four sectors —
+  Aluminium, Cement, Chlor-Alkali, Pulp and Paper**; **offset mechanism approved for 10
+  sectors** including CCUS. CCCs are denominated in tCO₂e and traded on power exchanges.
+- ✅📰 **EU:** CBAM begins replacing free allocation from **2026**; **EU ETS2** (buildings,
+  road transport, small industry) to be implemented **by 2027**; offsets discontinued in
+  EU ETS Phase 4.
+- ✅📰 **Surat, Gujarat — world's first particulate-matter emissions trading scheme**: 317
+  plants, mandatory CEMS, **20-30% lower particulate emissions** and **11-14% lower abatement
+  costs** (Greenstone, Pande, Ryan & Sudarshan, *QJE*, 2025, cited in Economic Survey
+  2025-26, Box X.9).
+- ✅📰 **PARIVESH 3.0**; **Environment Audit Rules, 2025** (certified third-party auditors);
+  uniform SPCB consent guidelines; industry categories extended to include **Blue**;
+  **October 2025** green-belt norms rationalised by pollution potential (replacing the
+  blanket 33% green-cover requirement for industrial estates).
+- ✅📰 **Jan Vishwas decriminalisation** of the EPA 1986, Air Act 1981 and Indian Forest Act
+  1927; **Water Act 1974** criminal provisions amended under **Article 252(1)**;
+  **Environment Protection (Management of Contaminated Sites) Rules, 2025**.
+
+**Waste and circular economy:**
+
+- ✅📰 **EPR portal as on 14 November 2025:** **69,116 producers** and **4,377 recyclers**
+  registered; **~308 lakh tonnes** recycled; **296.53 lakh tonnes** of EPR certificates
+  generated. EPR now spans **eight streams**; **Circular Economy Action Plans cover 10 waste
+  categories** (including solar panels and gypsum).
+- ✅📰 **12 single-use plastic items banned from 1 July 2022**; plastic carry-bag thickness
+  raised to **120 microns**.
+
+**Biodiversity and coasts:**
+
+- ✅📰 **Biological Diversity (Access to Biological Resources and Knowledge Associated
+  thereto and Fair and Equitable Sharing of Benefits) Regulations, 2025** — extend to
+  **digital sequence information**.
+- ✅📰 **MISHTI:** ~**540 sq km** of mangrove restoration across **9 coastal States and 4
+  UTs**, **2023-2028**; ~**22.8 million person-days** of employment; estimated carbon sink
+  ~**4.5 million tonnes**. ⚠️ Targets/estimates, not achievements.
+
+**International science and treaty calendar:**
+
+- ✅📰 **IPCC AR7 cycle** (ipcc.ch, verified 2 August 2026): three Working Group reports
+  agreed at **IPCC-60 (Istanbul, January 2024)**; **Special Report on Climate Change and
+  Cities** outlined at **IPCC-61 (Sofia, July-August 2024)**; Working Group outlines agreed
+  at **IPCC-62 (Hangzhou, February 2025)**; the **2027 Methodology Report on Carbon Dioxide
+  Removal Technologies, CCUS** agreed at **IPCC-63 (Lima, October 2025)**; **AR7 Synthesis
+  Report due by late 2029**; plus a **2027 Methodology Report on Inventories for Short-Lived
+  Climate Forcers**. ⚠️ **AR6 (2023) remains the latest completed assessment.**
+- ✅📰 **UNCCD COP17: Ulaanbaatar, Mongolia, 17-28 August 2026**, theme **"Restoring Land.
+  Restoring Hope"**; **197 Parties**; UNCCD states **up to 40% of the world's land** is
+  already degraded (unccd.int, verified 2 August 2026). ⚠️ **Scheduled, not concluded.**
+- ✅📰 **2026 is the UN International Year of Rangelands and Pastoralists (IYRP)** —
+  rangelands cover more than half the Earth's land surface, support ~500 million people's
+  livelihoods and provide about one-sixth of global nutrition (unccd.int).
+- ✅📰 **CBD COP16 (Cali 2024; resumed Rome, February 2025):** **Cali Fund** for DSI
+  benefit-sharing; **permanent subsidiary body on Article 8(j)** for indigenous peoples and
+  local communities.
+- ✅📰 **First Global Stocktake, COP28 (Dubai, 2023):** the "UAE Consensus" called for
+  **transitioning away from fossil fuels in energy systems** and for **tripling renewable
+  capacity and doubling the energy-efficiency improvement rate by 2030**; the **Loss and
+  Damage Fund** (agreed COP27, 2022) was **operationalised**.
+
+⚠️ **Deliberate omissions (not oversights):** this tracker does **not** state a CITES CoP
+session number, host or listing outcome for the most recent CoP; a Ramsar COP session number
+or global site total; a UNFCCC COP after Belém (2025); India's post-2025 NDC submission
+status; a global biodiversity-hotspot count; or India's exact Kigali HFC phase-down schedule.
+Each was not verifiable against a first-party source at the time of this reevaluation and is
+therefore omitted rather than estimated, in line with the rule stated in Section 1.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -119,6 +221,15 @@ answer.
   of the Parties sessions, with the NCQG climate-finance outcome as their headline result.
 - ✅ Always cite the specific source and date for any dated fact used in an answer — never
   present a current-affairs figure as a permanent, unchanging constant.
+- ✅ **India crossed 50% non-fossil installed capacity ahead of schedule — 51.93% at
+  end-December 2025** (Economic Survey 2025-26, Ch. 10). This is the single most citable
+  Indian climate achievement of the current cycle.
+- ✅ **UNCCD COP17 is at Ulaanbaatar, Mongolia, 17-28 August 2026** ("Restoring Land.
+  Restoring Hope"), and **2026 is the UN International Year of Rangelands and Pastoralists**.
+- ✅ **AR6 (2023) is still the latest completed IPCC assessment**; the AR7 Synthesis Report is
+  due by **late 2029**.
+- ✅ **The SHANTI Act (December 2025)** opened India's nuclear sector to private and state
+  participation.
 
 ## 7. UPSC traps
 

@@ -37,8 +37,11 @@ adjudicate related disputes — together forming a pre-emptive and corrective go
 | ✅ **Category A project** | Projects requiring environmental clearance from the central MoEFCC, based on the Expert Appraisal Committee's review. |
 | ✅ **Category B project** | Projects requiring clearance from the State Environment Impact Assessment Authority (SEIAA); further split into B1 (needs full EIA/public consultation) and B2 (does not require detailed EIA). |
 | ✅ **Public consultation** | A mandatory stage in the EIA process (for applicable projects) allowing affected communities and stakeholders to raise concerns before clearance is granted. |
-| ✅ **National Green Tribunal (NGT)** | A specialised statutory tribunal (established under the NGT Act, 2010) with original and appellate jurisdiction over environment-related disputes, offering faster, technically informed adjudication than ordinary courts. |
-| ✅ **Polluter Pays Principle / Precautionary Principle** | Foundational environmental-jurisprudence principles the NGT applies — the former placing remediation cost on the polluter, the latter allowing preventive action even without full scientific certainty of harm. |
+| ✅ **National Green Tribunal (NGT)** | A specialised statutory tribunal (established under the NGT Act, 2010) with original and appellate jurisdiction over environment-related disputes, offering faster, technically informed adjudication than ordinary courts. India was among the first countries to set up such a dedicated environmental tribunal. |
+| ✅ **NGT's Schedule I laws** | NGT jurisdiction extends to substantial questions relating to the environment arising under **seven** enactments: the Water Act, 1974; Water (Prevention and Control of Pollution) Cess Act, 1977; Forest (Conservation) Act, 1980; Air Act, 1981; Environment (Protection) Act, 1986; Public Liability Insurance Act, 1991; and Biological Diversity Act, 2002. ⚠️ **The Wildlife (Protection) Act, 1972 and the Indian Forest Act, 1927 are NOT in Schedule I** — one of the most reliably examined traps in this topic. |
+| ✅ **NGT composition and procedure** | Chairperson (a retired Supreme Court judge or High Court Chief Justice) plus **Judicial and Expert Members** — a minimum of 10 and maximum of 20 of each in full-time service. The Tribunal is **not bound by the Code of Civil Procedure, 1908 or the Indian Evidence Act**, but is guided by **principles of natural justice**. Applications are to be disposed of within **six months**, and an appeal lies to the **Supreme Court within 90 days**. |
+| ✅ **Polluter Pays Principle / Precautionary Principle** | Foundational environmental-jurisprudence principles the NGT applies — the former placing remediation cost on the polluter, the latter allowing preventive action even without full scientific certainty of harm. Section 20 of the NGT Act directs the Tribunal to apply these along with **sustainable development**. |
+| ✅ **PARIVESH** | Pro-Active and Responsive facilitation by Interactive, Virtuous and Environmental Single window Hub — the national single-window platform for environment, forest, wildlife and CRZ clearances. **PARIVESH 3.0** integrates baseline environmental data, compensatory-afforestation land banks, inter-ministerial dashboards and AI-enabled support (Economic Survey 2025-26, Ch. 10). |
 
 ## 3. Topic mechanism
 
@@ -99,6 +102,19 @@ adjudicate related disputes — together forming a pre-emptive and corrective go
   jurisdiction (challenges to environmental clearances).
 - ✅ The Polluter Pays Principle and the Precautionary Principle are foundational
   environmental-jurisprudence principles applied by Indian courts and the NGT.
+- ✅ NGT's original jurisdiction covers **seven** Schedule I enactments; the **Wildlife
+  (Protection) Act, 1972 and the Indian Forest Act, 1927 are excluded**.
+- ✅ NGT is **not bound by the CPC, 1908 or the Indian Evidence Act, 1872** but must follow
+  **natural justice**; cases are to be disposed of within **six months**, with appeal to the
+  **Supreme Court within 90 days**.
+- ✅ NGT's **Principal Bench is at New Delhi**, with regional benches at **Bhopal, Pune,
+  Kolkata and Chennai**.
+- ✅ An application for compensation/relief must ordinarily be made within **five years** of
+  the cause of action, while an appeal against a clearance order must be filed within **30
+  days** (extendable) — different limitation clocks for different remedies.
+- ✅ **PARIVESH 3.0** is the single-window digital platform for environmental clearances and
+  post-approval compliance monitoring; the **Environment Audit Rules, 2025** introduce
+  **certified third-party environmental auditors** (Economic Survey 2025-26, Ch. 10).
 
 ## 7. UPSC traps
 
@@ -116,6 +132,17 @@ adjudicate related disputes — together forming a pre-emptive and corrective go
 - ❌ Public consultation is mandatory for every category of project under the EIA
   Notification. -> It is specifically required for projects/activities that need a
   detailed EIA report (broadly, Category A and B1), not for all categories.
+- ❌ The NGT can hear any environmental dispute whatsoever. -> Its original jurisdiction is
+  tied to substantial questions arising under **seven Schedule I enactments**; the Wildlife
+  (Protection) Act, 1972 and the Indian Forest Act, 1927 are not among them.
+- ❌ The NGT follows the Code of Civil Procedure and the Evidence Act. -> It is expressly
+  **not bound** by either, and instead follows principles of natural justice.
+- ❌ Environmental clearance can be regularised after a project has already started. -> The
+  Supreme Court has repeatedly held that **ex post facto ("post-facto") clearance is alien to
+  environmental jurisprudence** — most prominently in *Alembic Pharmaceuticals Ltd. v. Rohit
+  Prajapati* (2020), and again in a 2025 ruling striking down the executive instruments that
+  had permitted regularisation of projects begun without prior clearance. ⚠️ Verify the exact
+  case name and date of the 2025 ruling before citing it.
 
 ## 8. 📰 Current anchor
 
@@ -127,7 +154,22 @@ adjudicate related disputes — together forming a pre-emptive and corrective go
 ⚠️ **Interpretation caution:** proposals to amend the EIA process have periodically been
 debated publicly (e.g., regarding post-facto clearance provisions or public-consultation
 timelines) — cite the specific notification/draft and its date rather than assuming a
-settled final version.
+settled final version. Distinguish rigorously between a **draft notification**, a **final
+gazette notification**, an **office memorandum** (executive instruction) and a **judgment** —
+these have very different legal force, and questions on EIA reform are frequently designed to
+test exactly that distinction.
+
+📰 **Direction of reform (Economic Survey 2025-26, Ch. 10):** the government describes a
+shift toward "risk-based and outcome-oriented regulation", naming **PARIVESH 3.0**
+(single-window clearance and compliance monitoring), the **Environment Audit Rules, 2025**
+(certified third-party auditors), **uniform SPCB consent guidelines** following the Water and
+Air Act amendments, the extension of industry categories to include **Blue**, streamlined
+regulation for **critical, strategic and atomic mineral** mining projects, and the
+**October 2025** rationalisation of green-belt norms by pollution potential in place of the
+blanket 33% green-cover requirement for industrial estates. The Survey simultaneously
+acknowledges the unresolved problems: multiplicity of clearances and overlapping
+jurisdictions, weak post-clearance monitoring, SPCB capacity constraints, wide inter-state
+variation and high litigation-related uncertainty.
 
 ## 9. PYQ application
 

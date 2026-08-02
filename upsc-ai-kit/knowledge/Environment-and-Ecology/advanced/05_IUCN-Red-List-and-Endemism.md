@@ -97,8 +97,14 @@ rate, which is a subtler mechanism than "few individuals left" that many candida
 - ✅ IUCN Red List criteria (A-E) allow a species to be classified as threatened through
   population decline, restricted range, small population size, or quantitative extinction-
   probability analysis — any single qualifying criterion suffices.
-- ✅ The Great Indian Bustard is Critically Endangered; the Supreme Court has directed
-  examination of overhead power-line mitigation (undergrounding/diverters) in its habitat.
+- ✅ The Great Indian Bustard is Critically Endangered; in **M.K. Ranjitsinh v. Union of India
+  (21 March 2024)** the Supreme Court modified its earlier blanket undergrounding direction
+  in favour of an expert-committee, area-specific feasibility approach, and in the same
+  judgment read a **right against the adverse effects of climate change** into Articles 14
+  and 21.
+- ✅ IUCN's **Green Status of Species** is a separate assessment measuring species *recovery*
+  and conservation impact; it complements, and does not replace, the Red List's
+  extinction-risk scale.
 - ✅ IUCN Red List reassessment cycles and India's Wildlife Protection Act Schedule revisions
   are independent processes and are not automatically synchronised.
 - ✅ Data Deficient status reflects an information gap, not a confirmed low-risk finding.
@@ -121,7 +127,8 @@ rate, which is a subtler mechanism than "few individuals left" that many candida
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 Supreme Court-monitored Great Indian Bustard power-line mitigation proceedings (ongoing; verify latest order date before citing). | Use as the standard case study for judicial translation of Red List/Schedule-I risk into an enforceable, if contested, mitigation measure — and for the renewable-energy-versus-conservation siting tension. |
+| 📰 **M.K. Ranjitsinh & Ors. v. Union of India (Supreme Court, 21 March 2024)** — the Court modified its April 2021 blanket direction on undergrounding power lines across Great Indian Bustard habitat, replaced it with an expert-committee-led, area-specific feasibility assessment, and recognised a **right against the adverse effects of climate change** under Articles 14 and 21. | The single best case for the *three-layer* argument: IUCN category (science) → Schedule I listing (domestic law) → judicial balancing (constitutional adjudication). It is also the cleanest example of a **conservation-versus-renewables siting conflict** being resolved not by choosing a side but by re-scoping the remedy — precisely the "balanced framing" examiners reward. |
+| 📰 Verify the latest order date, expert-committee report status and current bustard population estimate before citing — all three are volatile. | Distinguish *directions issued* from *compliance achieved*: the 2024 order re-designed the remedy; it did not certify that mitigation has been installed. |
 
 ## 10. PYQ-based analytical application
 

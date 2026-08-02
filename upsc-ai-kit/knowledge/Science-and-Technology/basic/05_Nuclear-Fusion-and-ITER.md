@@ -8,7 +8,7 @@
 
 ---
 
-## 2. Visual foundation
+## 1. Visual foundation
 
 | Contrast | Fusion | Fission |
 |---|---|---|
@@ -26,7 +26,7 @@ INERTIAL CONFINEMENT
 tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 ```
 
-## 3. Essential definitions
+## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
@@ -40,7 +40,7 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 | ✅ **Aditya-U** | Upgraded Indian tokamak used for plasma studies and fusion-technology learning relevant to larger programmes. |
 | ✅ **Tritium breeding** | Future fusion-reactor concept of generating tritium from lithium-bearing blanket systems for fuel sustainability. |
 
-## 4. Mechanism / how it works
+## 3. Mechanism / how it works
 
 1. Fusion aims to force light nuclei - most commonly deuterium and tritium in laboratory discussion - to combine at extremely high temperature, releasing energy.
 2. Because the fuel becomes plasma at such temperatures, it cannot touch ordinary reactor walls directly; it must be confined either magnetically or inertially.
@@ -48,7 +48,7 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 4. Inertial confinement takes a different route: a tiny fuel pellet is compressed and heated rapidly, relying on the pellet’s own inertia for a very short fusion event.
 5. ITER is designed as an experimental bridge between present fusion machines and later electricity-generating demonstration plants; it is not itself a commercial power plant.
 
-## 5. Institutions and programmes
+## 4. Institutions and programmes
 
 - ✅ **ITER Organization:** coordinates the world’s flagship experimental tokamak project in France.
 - ✅ **India as one of the ITER members:** contributes technology, components and scientific participation to the international project.
@@ -57,7 +57,7 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 - ✅ **Aditya / Aditya-U:** India’s earlier and upgraded tokamak platform for plasma physics, diagnostics and operational learning.
 - ✅ **ITER-India interface:** connects domestic R&D, industrial manufacturing and international in-kind contribution to the ITER project.
 
-## 6. Indian applications, examples and limitations
+## 5. Indian applications, examples and limitations
 
 - ✅ Fusion research builds capability in superconducting magnets, plasma diagnostics, cryogenics, control systems, vacuum engineering and high-end materials.
 - ✅ India’s participation in ITER gives industrial and scientific exposure far beyond textbooks, linking domestic research to a global frontier project.
@@ -67,7 +67,7 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 - ⚠️ Limitation: even if experimental milestones succeed, scaling to economical grid electricity requires later demonstration plants, supply chains, tritium handling and regulatory learning.
 - ⚠️ Limitation: public debate often mistakes single lab breakthroughs for ready-to-deploy electricity generation; UPSC answers should resist that hype.
 
-## 7. Must-Know Facts for Prelims
+## 6. Must-Know Facts for Prelims
 
 - ✅ Fusion is different from fission: fusion combines light nuclei, while fission splits heavy nuclei.
 - ✅ A tokamak is a magnetic-confinement device; ITER follows the magnetic-confinement route, not inertial confinement.
@@ -78,7 +78,7 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 - ✅ Fusion research may eventually support clean energy, but current fusion systems remain at the experimental/research stage.
 - ✅ No answer should claim that an operational fusion power plant already exists anywhere in the world.
 
-## 8. UPSC traps
+## 7. UPSC traps
 
 - ❌ Fusion and fission are both just “nuclear power” and can be discussed together. -> Fusion is a separate research-stage process; current commercial nuclear plants use fission.
 - ❌ ITER is a power plant that will soon feed electricity to the grid. -> ITER is an experimental facility for demonstrating feasibility, not a commercial electricity plant.
@@ -87,7 +87,7 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 - ❌ India’s fusion research is only through foreign participation. -> India also has domestic tokamak research through IPR, SST-1 and Aditya-U.
 - ❌ Topic 05 can replace Topic 04. -> Topic 05 is about fusion research; Topic 04 is about today’s fission-based nuclear power system.
 
-## 9. 📰 Current anchor
+## 8. 📰 Current anchor
 
 - 📰 **20 Jun 2024 | ITER baseline - updated for phased execution.** ITER formally presented an updated baseline prioritising substantial research operations as rapidly as possible while managing repair and assembly realities.
 - 📰 **17 Feb 2025 | India’s contributions to ITER - highlighted.** ITER noted the scale of India’s industrial and personnel contribution, including the cryostat as the largest of India’s procurement packages.
@@ -96,7 +96,7 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 
 ⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date; verify later updates before exam use.
 
-## 10. PYQ application
+## 9. PYQ application
 
 - ✅ **2025 GS-III direct PYQ:** evolution of India's fusion programme,
   India's contributions to ITER, and implications of ITER's success for global
@@ -106,7 +106,7 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 - ⚠️ Questions on frontier technology reward restraint: writing that fusion is “promising but not yet commercial” is often safer and more accurate than exaggerated optimism.
 - ⚠️ GS-III answers can connect fusion research to long-term energy transitions, international cooperation, advanced materials and scientific self-reliance.
 
-## 11. Mains framework / angles
+## 10. Mains framework / angles
 
 - ⚠️ A good answer first draws the fusion-fission line sharply, then explains why plasma confinement is the central challenge.
 - ⚠️ Use ITER as the anchor for global experimental fusion and IPR/SST-1/Aditya-U as the Indian domestic capability base.
@@ -115,13 +115,13 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 
 > **Answer thesis:** Fusion is a scientifically powerful but still experimental energy frontier in which the central question is controlled plasma confinement, not immediate grid supply; India’s value lies both in being an ITER member and in sustaining domestic tokamak capability through IPR, SST-1 and Aditya-U while clearly distinguishing fusion from the fission-based nuclear power system.
 
-## 12. Probable questions
+## 11. Probable questions
 
 - ⚠️ **Prelims (practice):** Which one of the following correctly distinguishes magnetic confinement fusion, inertial confinement fusion and present-day fission power plants?
 - ⚠️ **Mains (10 marks, practice):** Why must ITER be described as an experimental fusion facility rather than as an operational power plant? Answer in 150 words.
 - ⚠️ **Mains (15 marks, practice):** Discuss the technological significance of India’s participation in ITER and its domestic fusion research ecosystem, while explaining why fusion remains a long-term rather than immediate energy solution.
 
-## 13. Study links
+## 12. Study links
 
 - ✅ Advanced companion: `advanced/05_Nuclear-Fusion-and-ITER.md`.
 - ✅ `04_Nuclear-Power-and-Three-Stage-Programme.md` - essential fission-versus-fusion distinction.

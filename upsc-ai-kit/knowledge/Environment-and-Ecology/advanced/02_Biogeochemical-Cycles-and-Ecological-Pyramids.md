@@ -29,6 +29,25 @@ cycle, is what human activity has altered — and that different cycles fail in 
 essentially irreversible at human timescales once mined and dispersed, making phosphorus
 stewardship a distinct policy category from carbon or nitrogen mitigation.
 
+## 2A. The planetary-boundaries reading (distinct analytical layer)
+
+⚠️ The most useful advanced framing is that biogeochemical flows are one of the **planetary
+boundaries** — and that the nitrogen/phosphorus boundary is generally assessed as *more*
+transgressed than the climate boundary, even though climate receives far more policy
+attention. Three consequences a strong answer draws out:
+
+1. ⚠️ **Attention asymmetry:** carbon has a treaty (UNFCCC/Paris), a market (CCTS, EU ETS)
+   and an assessment body (IPCC); reactive nitrogen and phosphorus have no equivalent
+   global compliance architecture — only soft instruments (UNEP resolutions on sustainable
+   nitrogen management, the Colombo Declaration's aspirational halving of nitrogen waste).
+2. ⚠️ **Substitutability asymmetry:** fossil carbon has substitutes (renewables, nuclear —
+   Topic 25); phosphate rock has **no substitute** as a plant nutrient, so a phosphorus
+   constraint is a food-security constraint, not merely an emissions problem.
+3. ⚠️ **Geopolitical asymmetry:** phosphate rock reserves are highly geographically
+   concentrated, so nutrient security sits in the same analytical family as critical-mineral
+   security (Economic Survey 2025-26 treats critical-mineral concentration as a systemic
+   transition risk — the same logic applies to fertiliser feedstock).
+
 ## 3. Pyramids as a diagnostic tool, not a static shape
 
 1. Pyramid shape is **ecosystem- and parameter-specific**: a grassland gives an upright
@@ -102,12 +121,22 @@ stewardship a distinct policy category from carbon or nitrogen mitigation.
   efficiency instead.
 - ❌ The 10% ecological-efficiency rule is a fixed law of nature. -> It is an average
   heuristic; actual values vary by ecosystem and taxon.
+- ❌ Nitrogen and phosphorus pollution is a "smaller" problem than climate change because it
+  gets less attention. -> On planetary-boundary assessments the biogeochemical-flows boundary
+  is judged more transgressed than the climate boundary; the difference is in governance
+  architecture, not in severity.
 
 ## 9. 📰 Current anchor — analytical use
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 IPCC AR6 Synthesis Report (2023): ~1.1°C observed warming above pre-industrial levels, driven overwhelmingly by anthropogenic CO₂. | Use as direct evidence of human-scale carbon-cycle acceleration — the scientific premise for the entire climate-policy stack (Topics 17-21). |
+| 📰 IPCC's **seventh assessment cycle (AR7)** now includes a **2027 Methodology Report on Carbon Dioxide Removal Technologies, CCUS for National Greenhouse Gas Inventories**, whose scientific content was agreed at IPCC-63 (Lima, Peru, October 2025) — source: ipcc.ch, verified 2 August 2026. | Shows that the carbon cycle is being re-engineered as an *accounting* object: removals now need inventory rules, not just science. Use when a question asks how carbon-cycle science translates into policy machinery (link Topic 21). |
+
+⚠️ **Global vs Indian evidence discipline:** the ~1.1°C figure and the CDR methodology work
+are *global* science-assessment outputs. Do not present them as measurements of Indian
+warming or of Indian removals — for India-specific carbon-cycle claims use FSI carbon-stock
+data (ISFR) or India's National Communication / Biennial Update Reports to the UNFCCC.
 
 ## 10. PYQ-based analytical application
 

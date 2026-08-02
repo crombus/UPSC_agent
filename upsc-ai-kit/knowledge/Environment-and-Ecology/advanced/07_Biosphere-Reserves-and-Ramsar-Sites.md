@@ -95,6 +95,12 @@ biosphere reserve model in India.
   zones rely more on planning/cooperative mechanisms.
 - ✅ India reached 100 Ramsar sites on 5 June 2026, with Jai Prakash Narayan Bird Sanctuary
   (Surha Tal), Ballia, Uttar Pradesh, as the 100th site (PIB PRID 2269208).
+- ✅ India's Montreux Record entries are **Keoladeo National Park** and **Loktak Lake**;
+  Chilika Lake is the standard example of a site that was placed on the Record and later
+  **removed** after restoration — evidence that the Record functions as a corrective
+  mechanism, not a permanent stigma.
+- ✅ **Amrit Dharohar** (Union Budget 2023-24) is the wetland-management/livelihood scheme
+  layered over Ramsar sites; **MISHTI**, announced alongside it, is its mangrove counterpart.
 
 ## 8. Advanced Prelims traps
 
@@ -114,6 +120,13 @@ biosphere reserve model in India.
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 India reached 100 Ramsar sites on 5 June 2026 (Jai Prakash Narayan Bird Sanctuary, Surha Tal, Ballia, UP — PIB PRID 2269208). | Use as the headline milestone, but pair it analytically with the Montreux Record/Wetlands Rules governance-gap critique rather than citing the number alone as evidence of conservation success. |
+| 📰 **Amrit Dharohar** (announced in the Union Budget 2023-24) is the scheme framing for community-led management of Ramsar sites, promoting wetland ecotourism, carbon stock and local livelihoods; its mangrove counterpart announced in the same Budget is **MISHTI** (~540 sq km across 9 coastal States and 4 UTs, 2023-2028 — Economic Survey 2025-26, Ch. 10). | The pairing is the answer: Amrit Dharohar carries the *inland wetland* half and MISHTI the *coastal* half of India's wetland-as-infrastructure agenda. Citing both shows systemic, not anecdotal, knowledge. |
+| 📰 Economic Survey 2025-26 (Ch. 10) positions NPCA-expanded wetlands as flood-moderation and water-security buffers "under climate stress". | Converts Ramsar designation from a conservation statistic into an **adaptation** argument — the single most useful re-framing for GS-III answers on climate resilience. |
+
+⚠️ **Verification discipline for this topic:** the Ramsar Conference of the Parties meets
+roughly triennially and both the global site total and India's total move between COPs.
+Before citing "the latest Ramsar COP" or any global total, check ramsar.org directly; this
+file deliberately does not assert a COP-session number or a global site count.
 
 ## 10. PYQ-based analytical application
 

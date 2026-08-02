@@ -22,9 +22,11 @@ compliance-and-enforcement reform, not just a schedule count reduction.
 
 | Change | Legal/governance significance |
 |---|---|
-| ✅ Schedule restructuring (6 → 4) with new CITES-mirroring Schedule IV | Directly operationalises CITES Appendix listings in domestic law, closing the enforcement gap where a CITES-listed species lacked an exact domestic equivalent. |
-| ✅ Central government empowered to regulate/manage invasive alien species | Extends wildlife law beyond native-species protection to proactive control of ecologically damaging introduced species — a notable conceptual widening of the Act's scope. |
-| ✅ Enhanced provisions for management of protected areas, including rationalising some categories | Strengthens the administrative backbone of the protected-area network (Topic 06). |
+| ✅ Schedule restructuring (6 → 4): Schedules I and II for **animals**, Schedule III for **plants** (formerly Schedule VI), Schedule IV for **CITES-listed scheduled specimens**; the old **Schedule V (vermin) omitted** | Directly operationalises CITES Appendix listings in domestic law, closing the enforcement gap where a CITES-listed species lacked an exact domestic equivalent — and removes a standing statutory vermin list that had drawn criticism for enabling blanket culling declarations. |
+| ✅ New chapter on **regulation of international trade in scheduled specimens**, with statutory designation of a **Management Authority** and a **Scientific Authority** | Gives India the exact two-authority institutional architecture CITES requires of every Party, moving the designation from administrative practice to statute (Topic 09). |
+| ✅ Central government empowered to regulate/manage **invasive alien species** | Extends wildlife law beyond native-species protection to proactive control of ecologically damaging introduced species — a notable conceptual widening of the Act's scope. |
+| ✅ Statutory backing for **management plans** for sanctuaries and national parks | Strengthens the administrative backbone of the protected-area network (Topic 06) by making the plan, rather than ad hoc administrative decision, the operative instrument. |
+| ✅ Provision for **voluntary surrender** of captive animals/derivatives to the Chief Wildlife Warden, which then vest in the government | A pragmatic amnesty-style route to bring undeclared holdings into the legal system rather than driving them underground. |
 | ⚠️ Strengthened penalty and enforcement framework, intended to support international cooperation on trafficking | Aims to improve India's standing and effectiveness in CITES-related enforcement cooperation, though outcomes depend on state-level implementation capacity. |
 
 ## 3. The CITES-alignment mechanism in legal-technical detail
@@ -83,8 +85,12 @@ compliance-and-enforcement reform, not just a schedule count reduction.
 
 - ✅ The Wildlife (Protection) Amendment Act, 2022 restructured six schedules into four and
   introduced a CITES Appendix-mirroring Schedule IV.
+- ✅ Post-2022 schedule content: I and II = animals (greater/lesser protection), III =
+  plants, IV = CITES scheduled specimens; the vermin schedule was **omitted**.
 - ✅ The 2022 amendment empowered the central government to regulate/manage invasive alien
   species — a scope extension beyond native-species protection.
+- ✅ The amendment gave **statutory** footing to India's CITES **Management Authority** and
+  **Scientific Authority**, and to **management plans** for sanctuaries and national parks.
 - ✅ The Wildlife Crime Control Bureau (WCCB) coordinates intelligence and enforcement
   against organised wildlife trafficking, including international liaison.
 - ✅ Schedule IV's CITES-mirroring structure is a legal-alignment mechanism, not an automatic,

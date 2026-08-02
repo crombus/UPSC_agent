@@ -34,6 +34,8 @@ ecosystems by climate, giving a spatial (not temporal) framework for comparing e
 | ✅ **Secondary succession** | Succession on a substrate that already has soil and was previously vegetated but disturbed (e.g., abandoned farmland, post-fire land). |
 | ✅ **Pioneer species** | First colonisers of a primary-succession site (e.g., lichens on bare rock). |
 | ✅ **Climax community** | Relatively stable, self-perpetuating end-community of succession, in equilibrium with the local climate. |
+| ✅ **Sere / seral stage** | The whole successional sequence at a site is a **sere**; each intermediate community in it is a **seral stage/community**. |
+| ✅ **Named seres by starting substrate** | **Lithosere** (bare rock), **psammosere** (sand), **halosere** (saline/salt marsh), **hydrosere** (fresh water), **xerosere** (dry substrate) — a high-frequency Prelims matching set. |
 | ✅ **Biome** | Large regional ecosystem type characterised by a distinctive climate, vegetation and animal community (e.g., tropical rainforest, savanna, tundra). |
 
 ## 3. Topic mechanism
@@ -84,6 +86,15 @@ ecosystems by climate, giving a spatial (not temporal) framework for comparing e
 - ✅ Hydrarch succession (in water bodies, toward land) and xerarch succession (on dry land,
   toward more mesic conditions) are named after their starting substrate and typically
   converge toward a similar mesic climax.
+- ✅ The full successional sequence is a **sere**; lithosere/psammosere/halosere/hydrosere/
+  xerosere are named for the starting substrate (rock/sand/salt/water/dry land).
+- ✅ **Ecological succession** was defined in classical biogeography as the process by which
+  more complex assemblages of plants and animals progressively replace older and simpler
+  communities — note the "usually more complex" wording; complexity, not merely change, is
+  the diagnostic.
+- ✅ Tundra vegetation — low herbs, sedges, cotton grasses, grasses, mosses and lichens — is
+  the standard example of a climatically arrested, low-complexity climax where the growing
+  season, not soil, is the binding constraint.
 
 ## 7. UPSC traps
 
@@ -97,6 +108,10 @@ ecosystems by climate, giving a spatial (not temporal) framework for comparing e
   major disturbance (fire, storm, land-use change).
 - ❌ Lichens are plants. -> A lichen is a symbiotic association of fungus and alga/
   cyanobacterium, not a single plant species.
+- ❌ "Sere" and "seral stage" mean the same thing. -> The sere is the whole sequence; a seral
+  stage is one community within it.
+- ❌ Hydrarch succession moves toward a wetter climax. -> It moves *away* from open water
+  toward a drier (mesic) terrestrial climax, as the basin fills.
 
 ## 8. 📰 Current anchor
 
@@ -112,6 +127,10 @@ mature climax-forest recovery — do not conflate the two in an answer.
 
 - ⚠️ Recurring Prelims pattern: distinguish primary/secondary succession using named
   examples (bare rock vs abandoned field) and identify correct pioneer-species statements.
+- ✅ **UPSC Mains 2024, Essay (Section A):** *"Forests precede civilizations and deserts
+  follow them."* This topic supplies the ecological engine of that essay — succession builds
+  soil and forest; disturbance beyond a threshold reverses the sere toward xeric/degraded
+  states (link Topic 23 on desertification for the land-degradation half).
 - ⚠️ Mains linkage: succession theory underpins ecological-restoration and afforestation
   policy answers (cross-refer Topic 12).
 
