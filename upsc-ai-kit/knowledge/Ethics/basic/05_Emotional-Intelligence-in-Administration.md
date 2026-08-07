@@ -3,9 +3,11 @@
 > **Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV.
 > **Core area:** Emotional intelligence (EI/EQ) — concepts, utility and application in
 > administration and governance (official UPSC GS-IV syllabus item).
-> **Grounded in:** Standard EI theory — Salovey & Mayer's ability model (1990); Daniel Goleman's
-> mixed/competency model (1995) — as codified in the official UPSC GS-IV syllabus; audited GS-IV
-> PYQs (2024-2025 Mains, disaster-management case study on personal-vs-duty conflict).
+> **Grounded in:** Standard EI theory — Salovey & Mayer's 1990 definition and the Mayer-Salovey
+> four-branch ability model (1997); Daniel Goleman's mixed/competency model (*Emotional
+> Intelligence*, 1995; five workplace competencies, HBR 1998) — as required by the official UPSC
+> GS-IV syllabus; audited GS-IV PYQs (2013, 2020, and the 2025 Mains disaster-management case study
+> on personal-vs-duty conflict).
 > ✅ = theory-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/05_Emotional-Intelligence-in-Administration.md`.*
 
@@ -35,10 +37,10 @@ under pressure, crisis and competing personal-professional demands.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Emotional Intelligence** (Salovey-Mayer) | The ability to perceive, understand, manage and use emotions effectively in oneself and others. |
+| ✅ **Emotional Intelligence** (Salovey & Mayer, 1990) | "The subset of social intelligence that involves the ability to monitor one's own and others' feelings and emotions, to discriminate among them and to use this information to guide one's thinking and actions." |
 | ✅ **Goleman's five components** | Self-awareness, self-regulation, motivation, empathy, social skill. |
 | ⚠️ **IQ vs EQ** | IQ measures cognitive/analytical ability; EQ measures the capacity to manage emotional responses and interpersonal dynamics — both matter, but EQ is decisive under high-stress, high-stakes administrative situations. |
-| ⚠️ **Emotional labour** | The effort required to manage one's displayed emotions to meet professional role demands (e.g., a public-facing officer remaining courteous despite provocation). |
+| ⚠️ **Emotional labour** (Hochschild, *The Managed Heart*, 1983) | The effort required to manage one's displayed emotions to meet professional role demands (e.g., a public-facing officer remaining courteous despite provocation). |
 
 ## 3. How EI functions in administration (mechanism)
 
@@ -53,8 +55,8 @@ under pressure, crisis and competing personal-professional demands.
    applicant's confusion, a disaster victim's trauma) and adapt service delivery accordingly.
 5. **Social skill** enables coordination across departments, conflict resolution among
    stakeholders, and effective communication of unpopular but necessary decisions.
-6. ✅ 2025 GS-IV Case Study (Q7, DC "Vijay") tests EI directly: a District Collector leading
-   disaster relief must regulate grief over his mother's death while sustaining composed,
+6. ✅ 2025 GS-IV Q7 (Section B case study: DC "Vijay") tests EI directly: a Deputy Commissioner
+   leading disaster relief must regulate grief over his mother's death while sustaining composed,
    effective public duty — the paradigmatic administrative EI dilemma (see `22` for the full
    case-study method).
 
@@ -70,8 +72,11 @@ under pressure, crisis and competing personal-professional demands.
 ## 5. Must-Know Facts for Prelims
 
 - ✅ Emotional Intelligence as an academic construct was introduced by Peter Salovey and John Mayer
-  (1990); Daniel Goleman (1995) popularised it and proposed five components: self-awareness,
-  self-regulation, motivation, empathy, social skill.
+  in 1990; the **four-branch ability model** (perceiving emotion; using emotion to facilitate
+  thought; understanding emotion; managing emotion) is the later Mayer-Salovey formulation of
+  **1997**, not the 1990 paper. Daniel Goleman's *Emotional Intelligence* (1995) popularised the
+  field, and his 1998 *Harvard Business Review* essay set out the five workplace competencies:
+  self-awareness, self-regulation, motivation, empathy, social skill.
 - ⚠️ EI is distinct from, and complements rather than replaces, cognitive intelligence (IQ) in
   administrative decision-making.
 
@@ -87,16 +92,15 @@ under pressure, crisis and competing personal-professional demands.
 
 ## 7. PYQ application
 
-- ✅ **2013 GS-IV:** "What do you understand by 'emotional intelligence' and
-  how can it be developed in people? How does it help an individual in taking
-  ethical decisions?" — use definition → development → ethical-decision
-  mechanism.
-- ✅ **2020 GS-IV:** "What are the main components of emotional intelligence
-  (EI)? Can they be learned? Discuss." — use Goleman's five-component model,
-  then show trainability through reflection, feedback and repeated practice.
-- ✅ 2025 GS-IV Case Study Q7 (DC Vijay, disaster relief amid personal bereavement) is the clearest
-  recent example of an EI-centred case study — testing self-regulation, motivation and duty amid
-  acute personal grief.
+- ✅ **2013 GS-IV Q4:** "What is 'emotional intelligence' and how can it be developed in people?
+  How does it help an individual in taking ethical decisions?" — use definition → development →
+  ethical-decision mechanism.
+- ✅ **2020 GS-IV Q2(b):** "What are the main components of emotional intelligence (EI)? Can they
+  be learned? Discuss." — use Goleman's five-component model, then show trainability through
+  reflection, feedback and repeated practice.
+- ✅ **2025 GS-IV Q7** (Section B case study: DC "Vijay", disaster relief amid personal
+  bereavement) is the clearest recent example of an EI-centred case study — testing self-regulation,
+  motivation and duty amid acute personal grief.
 - ⚠️ Any question framed around "maintaining composure," "managing conflicting personal and
   professional demands," or "handling public pressure calmly" is fundamentally an EI question.
 

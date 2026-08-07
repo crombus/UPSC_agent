@@ -159,12 +159,23 @@ problem alone.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **FSI's FAST 3.0/Forest Fire Alert System**, checked as of 18 July
-  2026, is the correct current anchor for detection-system status,
-  registered-user counts and current fire-season data.
+- 📰 **FSI's Forest Fire Monitoring and Alert System** — FAST 3.0
+  (launched 16 January 2019) plus the **Van Agni** large-fire geoportal,
+  on MODIS (2004) and SNPP-VIIRS (2017) feeds — is the correct current
+  anchor for detection-system status, registered-user counts and current
+  fire-season data (FSI page last updated 15 April 2026).
+- ⚠️ **The alert-to-suppression asymmetry is this topic's strongest
+  advanced point.** India's detection layer is satellite-based,
+  near-real-time and nationally uniform; its suppression layer is a
+  State forest department's crew strength, equipment and access time,
+  which no dated national source quantifies. An SMS alert with no crew
+  within reach is a *measurement* of failure, not a mitigation of it —
+  a precise formulation of the same technology-versus-capacity gap topic
+  `04` develops for warning generally.
 - ❌ Do not present the document-period "95% human-caused" or district-
   concentration statistics as necessarily current without this
-  verification.
+  verification, and do not cite a FAST version later than 3.0 — none is
+  officially documented.
 
 ## 11. PYQ-based analytical application
 

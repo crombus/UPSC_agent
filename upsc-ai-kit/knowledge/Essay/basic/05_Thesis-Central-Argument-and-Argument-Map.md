@@ -24,12 +24,52 @@ and organises what `02`–`04` produced.
 
 ## 2. Core terms in plain language
 
+- **Topic:** the printed prompt itself — the exact sentence UPSC set. You
+  do not choose it, restate it, or improve it; you argue about it.
+- **Theme:** a recurring subject area the topic touches (e.g. "well-being",
+  "power", "technology"). A theme is a container, not a position — an
+  essay organised around themes lists; an essay organised around a thesis
+  argues.
 - **Thesis:** one sentence stating the essay's central, qualified claim
   — not a restatement of the prompt, not a list of themes.
 - **Qualification:** an explicit limit, condition, or exception attached
   to the thesis so it is defensible, not absolute.
 - **Argument map:** the sequence proposition → mechanism → illustration →
   qualification → synthesis, repeated once per major paragraph-cluster.
+
+⚠️ **Worked separation, 2024-A3.** Topic: "There is no path to happiness,
+Happiness is the path." Theme: well-being. Thesis: *happiness is a
+by-product of how one lives rather than an outcome to be pursued, which is
+why public policy that treats well-being as a future target under-serves
+citizens in the present.* Only the third is arguable — the theme could
+head a thousand different essays.
+
+## 2a. Claim, reason and warrant
+
+⚠️ Most weak body paragraphs fail at the warrant, not the claim. Naming
+the three parts separately makes the gap visible.
+
+| Part | What it is | Test |
+|---|---|---|
+| **Claim** | What you are asserting in this paragraph | Could a reasonable reader disagree? |
+| **Reason** | The "because" — the mechanism or evidence supporting it | Is it stated, or only implied? |
+| **Warrant** | The unstated principle that licenses moving from that reason to that claim | Would someone who accepts the reason but rejects the warrant still resist the claim? |
+
+Worked example (2024-B8, cost of being wrong vs. doing nothing):
+
+```text
+CLAIM    A regulator should pilot a contested reform rather than defer it.
+REASON   Because a pilot's errors are observable and reversible.
+WARRANT  Because reversible error is a lower expected cost than the
+         compounding cost of an unaddressed problem.
+```
+
+⚠️ The warrant is where the counter-view attaches (`08`): an objector need
+not deny that pilots are reversible — they deny that reversibility is the
+governing consideration when the harm is severe. ❌ A paragraph that
+states claim and reason but never surfaces its warrant reads as assertion
+even when the reason is true, because the reader is being asked to supply
+the connecting principle themselves.
 
 ## 3. ✅ Exam facts / source basis
 
@@ -105,6 +145,14 @@ verbatim from the introduction. Full method: `06`.
 - ❌ **Unqualified absolute thesis** ("doing nothing is always worse than
   being wrong"). → Repair: attach the qualification identified in
   Section 6 before drafting.
+- ❌ **Thesis-as-theme** (announcing a subject area — "this essay examines
+  happiness and public policy" — rather than a position). → Repair: ask
+  what a reader could disagree with in your sentence; if nothing, you have
+  named a theme, not a thesis (Section 2).
+- ❌ **Unstated warrant** (claim and reason present, connecting principle
+  left for the reader to supply). → Repair: write the "because…is what
+  governs here" sentence explicitly at least once per argument cycle
+  (Section 2a).
 - ❌ **Thesis without a mechanism** (asserting the claim but never
   explaining why it holds). → Repair: always answer Section 5's Q3
   before writing body paragraphs.

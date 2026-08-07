@@ -32,6 +32,12 @@ them under a real clock.
 - **Two-essay budget interdependence:** the fact that overrunning on
   essay one directly reduces available time for essay two — the budget
   must be tracked jointly, not per-essay in isolation.
+- **Absolute vs. proportional budget:** ❌ neither locally held paper
+  prints a duration, so every allocation in this folder is expressed as a
+  *share* of the total. ⚠️ Convert shares to minutes yourself once you
+  have confirmed the paper's actual duration from the official paper or
+  admit card, and re-verify that conversion in timed practice rather than
+  assuming it.
 
 ## 3. Tension pairs and hidden assumptions
 

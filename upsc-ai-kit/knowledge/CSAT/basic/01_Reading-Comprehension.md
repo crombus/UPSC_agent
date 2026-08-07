@@ -35,12 +35,25 @@ text**, not the one that is true in the real world.
 | Type | The stem sounds like | The correct option must... |
 |---|---|---|
 | ✅ **Central idea / main message** | "best summarises / crux / the author mainly says" | cover the **whole** passage, not one sentence. |
-| ✅ **Inference** | "can be inferred / most logical inference" | be **forced to be true** if the passage is true. |
+| ✅ **Inference / implication** | "can be inferred / most logical inference / implies" | be **forced to be true** if the passage is true. |
 | ✅ **Assumption** | "the argument assumes / rests on" | be an **unstated premise** the argument needs. |
 | ✅ **Tone / attitude / scope** | "the author's tone / attitude / this passage is about" | match the **wording and range** of the text. |
+| ✅ **Which statement(s) follow / are correct** | "which of the statements given above is/are correct" | be judged **one statement at a time**, then combined into the option code. |
 
 > 🔑 **Trap:** many wrong options are **factually correct** yet not supported by the passage. In a
 > passage-only item, "true" is irrelevant; only "stated or entailed" wins.
+
+### 2.1 Three word-pairs that decide RC options
+
+| Pair | The difference |
+|---|---|
+| ✅ **Inference vs assumption** | An inference comes **out of** the passage (a conclusion). An assumption sits **under** it (an unstated premise the argument needs). |
+| ✅ **Implication vs equivalence** | If the passage says "A leads to B", it has **not** said "B leads to A". An option that reverses the direction is a distortion, however plausible. |
+| ✅ **Necessary vs sufficient** | "Forecasting is **necessary but not sufficient**" means good forecasts cannot be skipped **and** cannot finish the job alone. An option that treats a necessary condition as enough - or as useless - fails. |
+
+- ⚠️ Passages in this paper regularly use "necessary but not sufficient", "only if", and "unless".
+  Translate each into an arrow before reading the options: *"only if B" means `A -> B`*; *"unless B"
+  means `not B -> not A`*.
 
 ## 3. Method (step by step)
 
@@ -112,11 +125,17 @@ assumption. (b) is an unstated ranking; (c) and (d) are not needed by the argume
 **Answer: (c).** It captures the whole passage - forecasting **plus** last-mile delivery. (a)
 contradicts "necessary"; (b) fixes on one detail; (d) is out-of-passage.
 
+> 🔑 Note how Example C turns on **necessary vs sufficient**: the passage calls forecasting
+> "necessary but not sufficient". Option (a) reads that as "useless" and option (c) reads it
+> correctly. One word-pair decided the item.
+
 ## 6. Must-Know habits
 
 - ✅ Read the **stem before** the passage.
 - ✅ "Best supported", not "true": choose what the passage **defends**.
 - ✅ Watch quantifiers - **some/most/all/only** decide most inference items.
+- ✅ Watch **direction**: "A causes B" never licenses "B causes A".
+- ✅ Watch **strength**: "necessary" is not "sufficient", and neither is "the only thing that matters".
 - ✅ For assumptions, use the **negation test**: if negating the option breaks the argument, it is the
   assumption.
 - ✅ For central idea, reject options that are **only one sentence** of a multi-point passage.
@@ -125,6 +144,8 @@ contradicts "necessary"; (b) fixes on one detail; (d) is out-of-passage.
 
 - ❌ Picking a **true** statement that the passage never makes. -> Ask "which line proves this?"
 - ❌ Turning a qualified claim ("often", "many") into an **absolute** ("always", "all"). -> Reject.
+- ❌ **Reversing** a stated relation (treating `A -> B` as `B -> A`). -> Check the arrow direction.
+- ❌ Reading "necessary" as "sufficient" (or as "unimportant"). -> Keep the two apart.
 - ❌ Importing **subject knowledge** (economics, science) into a passage-only item. -> Text only.
 - ❌ Choosing the **longest / most sophisticated** option by reflex. -> Length is not correctness.
 - ❌ Answering the **wrong question type** (giving a detail when the stem wants the main idea). ->
@@ -135,6 +156,7 @@ contradicts "necessary"; (b) fixes on one detail; (d) is out-of-passage.
 - ✅ Can you name the question type from the stem alone? (idea / inference / assumption / tone)
 - ✅ For any option you keep, can you point to the **exact phrase** that supports it?
 - ✅ Did you reject at least one option specifically for being **out-of-passage**?
+- ✅ Did you check that no kept option **reverses** a relation the passage stated one way?
 
 ## 9. Mini-drill (with answers and explanations)
 

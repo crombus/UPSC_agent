@@ -44,7 +44,9 @@ meteorite impacts (PDF p. 23).
 |---|---|
 | ✅ **Tsunami** | Japanese for "harbour wave"; large waves of extremely long wavelength/period from an undersea disturbance near the coast or in the ocean (PDF p. 23). |
 | ✅ **Effect-determining factors** | Characteristics of the generating seismic event; distance from origin/magnitude; and bathymetry (ocean depth configuration) (PDF p. 23). |
-| ✅ **Indian Tsunami Early Warning System** | Established with the Department of Space, Department of Science and Technology and CSIR; a real-time network of seismic stations, Bottom Pressure Recorders and tide gauges, detecting tsunamigenic earthquakes in the Indian Ocean in under 10 minutes (PDF pp. 24-25). |
+| ✅ **Indian Tsunami Early Warning System** | Established with the Department of Space, Department of Science and Technology and CSIR; a real-time network of seismic stations, Bottom Pressure Recorders and tide gauges, detecting tsunamigenic earthquakes in the Indian Ocean in under 10 minutes (PDF pp. 24-25). 📰 The **Indian Tsunami Early Warning Centre (ITEWC)** at INCOIS, Hyderabad, has been operational since **15 October 2007**; it detects tsunamigenic earthquakes within about **10 minutes** and disseminates advisories within about **20 minutes**, and serves India's coastal States/UTs plus **26 Indian Ocean-rim countries** (PIB, 4 February 2026). |
+| 📰 **UNESCO-IOC Tsunami Service Provider (TSP)** | ITEWC operates as an approved Tsunami Service Provider under the UNESCO Intergovernmental Oceanographic Commission's Indian Ocean Tsunami Warning and Mitigation System (IOTWMS) — i.e. it issues advisories not only for India but for the regional framework. ⚠️ The exact date of initial formal TSP designation is not established by a dated first-party source; state the role, not a designation year. |
+| 📰 **"Tsunami Ready"** | A UNESCO-IOC **community-level performance recognition** programme (not a national certification). India's first recognised communities were **Venkatraipur (Ganjam)** and **Noliasahi (Jagatsinghpur)** in **Odisha**, recognised on **7 August 2020**. ⚠️ Recognition attaches to named communities meeting defined indicators; do not describe an entire State as "fully Tsunami Ready" without a dated source saying so. |
 | ✅ **Bio-shield** | A narrow, thickly planted strip of land along the coastline, developed as a coastal-zone disaster-management sanctuary with public-awareness spaces (PDF p. 24). |
 | ✅ **Coastal-zone regulation and tsunami hazard mapping** | Tsunami-safe coastal development is governed by the **CRZ Notification, 2019's** category-specific controls (CRZ-I to CRZ-IV, each with distinct no-development/regulated-development zones), combined with tsunami inundation and hazard mapping — not a single universal distance/elevation rule applicable everywhere (PDF p. 24, updated per the current CRZ Notification, 2019). |
 
@@ -123,6 +125,16 @@ meteorite impacts (PDF p. 23).
 - ✅ India's Tsunami Early Warning System detects tsunamigenic
   earthquakes in the Indian Ocean in under 10 minutes.
 - ✅ The system was established with Department of Space, DST and CSIR.
+- 📰 The **Indian Tsunami Early Warning Centre (ITEWC)** at INCOIS,
+  Hyderabad, has been operational since **15 October 2007**, detects
+  tsunamigenic earthquakes in about **10 minutes**, disseminates
+  advisories in about **20 minutes**, and serves **26 Indian Ocean-rim
+  countries** besides India (PIB, 4 February 2026).
+- 📰 ITEWC is an approved **UNESCO-IOC Tsunami Service Provider** under
+  the Indian Ocean Tsunami Warning and Mitigation System (IOTWMS).
+- 📰 **Venkatraipur (Ganjam)** and **Noliasahi (Jagatsinghpur)** in
+  **Odisha** were India's first UNESCO-IOC **"Tsunami Ready"**-recognised
+  communities, recognised on **7 August 2020**.
 - ✅ INCOIS and ICMAM jointly customised the Tsunami N2 model.
 - ✅ The CRZ Notification, 2019's category-specific controls (CRZ-I to
   CRZ-IV), together with tsunami inundation/hazard mapping, govern
@@ -150,6 +162,18 @@ meteorite impacts (PDF p. 23).
   question. -> It is an adjacent Geography/Environment cross-link only
   (README/Master Framework Section 7); do not present it as testing this
   topic directly.
+- ❌ "Tsunami Ready" is a national certification India has achieved. ->
+  It is a **UNESCO-IOC community-level recognition** awarded against
+  defined preparedness indicators; India's first recognised communities
+  were Venkatraipur and Noliasahi (Odisha) on 7 August 2020. Do not
+  describe a State or the country as "fully Tsunami Ready" without a
+  dated source using that wording.
+- ❌ Detection time and warning time are the same number. -> ITEWC
+  detects a tsunamigenic earthquake in roughly **10 minutes** but
+  disseminates the advisory in roughly **20 minutes**; the gap is
+  confirmation and authorisation, and quoting one figure for both
+  collapses precisely the detection-versus-dissemination distinction
+  topic `04` builds on.
 
 ## 9. 📰 Current official anchor
 

@@ -59,25 +59,31 @@ does not incapacitate India's broader diplomatic architecture.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **BIMSTEC's institutional evolution (Charter, 2024)** | The BIMSTEC Charter's entry into force (20 May 2024) formalises what had operated as a looser cooperative framework since its BIMST-EC origins — an example of regionalism deepening its institutional/legal character over time. |
+| ✅ **BIMSTEC's institutional evolution (Charter, 2024)** | The BIMSTEC Charter's entry into force (20 May 2024) formalises what had operated as a looser cooperative framework since its BIMST-EC origins — an example of regionalism deepening its institutional/legal character over time. 📰 The 6th Summit (Bangkok, 4 April 2025) adopted Bangkok Vision 2030, Rules of Procedure and the Eminent Persons Group report. |
+| 📰 **Partial entry into force as an effectiveness datum** | The BIMSTEC Agreement on Maritime Transport Cooperation was signed on 3 April 2025 and entered into force on 16 May 2026 **among only four of seven members** (Bhutan, India, Myanmar and Thailand) after Myanmar deposited the fourth instrument on 13 May 2026. ⚠️ This is the sharpest available illustration that "regional agreement in force" and "regional agreement binding the region" are different claims — and that variable-geometry ratification, not summit reluctance, is where regional integration actually slows. |
 | ⚠️ **Regionalism vs. minilateralism** | Regionalism (SAARC, BIMSTEC) is defined by geographic contiguity and typically broader membership/mandate; minilateralism (Quad, RIC, I2U2) is defined by a small, self-selected membership around one or two specific functional issues, without requiring geographic contiguity. |
 | ⚠️ **ASEAN centrality** | The principle, widely referenced in Indo-Pacific diplomacy, that ASEAN should remain the organising hub of regional architecture even as external powers (including India, via Act East) deepen engagement — a normative claim ASEAN members themselves actively assert, not a status any external power confers. |
-| ✅ **Membership-gap reality (Sikri)** | ✅ Sikri's statement that India "failed to get membership of either" APEC or ASEM is a book-period observation, not a current two-forum gap: India joined ASEM in 2007, while APEC remains a current non-membership example as of July 2026. |
+| ✅ **Membership-gap reality (Sikri)** | ✅ Sikri's statement that India "failed to get membership of either" APEC or ASEM is a book-period observation, not a current two-forum gap: India joined ASEM in 2007, while APEC remains a current non-membership example as of 3 August 2026. |
 | ✅ **Trilateral platforms as autonomy-preserving instruments (IBSA, RIC)** | ✅ Sikri frames IBSA and RIC as "potentially significant" — smaller, issue-oriented platforms that let India engage major powers (Russia, China via RIC) or Southern peers (Brazil, South Africa via IBSA) without the constraints of a larger, more heterogeneous body. |
 | ⚠️ **Institutional-effectiveness spectrum** | Groupings range from treaty-bound charter bodies with formal legal status (BIMSTEC post-2024) to loose, non-treaty consultative coalitions (Quad) — analytically distinct categories that should not be conflated when assessing "effectiveness." |
 
-**Current membership and institutional nature (dated July 2026):**
+**Current membership, participation tiers and institutional nature (verified 3 August 2026):**
 
-| Grouping | Current membership | Institutional nature |
-|---|---|---|
-| SAARC | 8 members | Charter-based South Asian regional organisation |
-| BIMSTEC | 7 members | Charter-based Bay of Bengal regional organisation |
-| ASEAN | 11 members, including Timor-Leste | Treaty/charter-based Southeast Asian regional organisation |
-| IORA | 23 member states | Indian Ocean intergovernmental regional organisation |
-| SCO | 10 members, including Iran and Belarus | Charter-based Eurasian intergovernmental organisation |
-| BRICS | 11 full members | Intergovernmental political-economic grouping, not a treaty alliance |
-| G20 | 19 states plus the European Union and African Union | Informal premier forum for international economic cooperation |
-| Quad | India, Australia, Japan and the United States | Non-treaty consultative minilateral |
+| Grouping | Full membership | Other participation tiers | Institutional nature |
+|---|---|---|---|
+| SAARC | 8 members | Observers | Charter-based South Asian regional organisation; no Summit since the 18th (Kathmandu, 2014) |
+| BIMSTEC | 7 members | — | Charter-based Bay of Bengal regional organisation |
+| ASEAN | 11 members, including Timor-Leste (26 October 2025) | Dialogue partners | Treaty/charter-based Southeast Asian regional organisation |
+| IORA | 23 member states | 12 dialogue partners | Indian Ocean intergovernmental regional organisation; India chairs 2025-27 |
+| SCO | 10 members, including Iran and Belarus | 2 observers; 15 dialogue partners | Charter-based Eurasian intergovernmental organisation |
+| BRICS | 11 full members | 10 partner countries (from 24 October 2024) | Intergovernmental political-economic grouping, not a treaty alliance |
+| G20 | 19 states plus the European Union and African Union | Guest countries and invited organisations | Informal premier forum for international economic cooperation |
+| Quad | India, Australia, Japan and the United States | — | Non-treaty consultative minilateral |
+
+⚠️ The right-hand columns matter more than the left for advanced analysis:
+participation tiers are how these bodies expand reach without expanding
+decision rights — the same asymmetry the Global South contests at the UNSC
+(topic 12).
 
 ## 3. Detailed causal chain: from overlap to strategic-autonomy payoff
 
@@ -113,16 +119,30 @@ does not incapacitate India's broader diplomatic architecture.
 
 ## 4. Institutional and reform architecture
 
-- 📰 **BIMSTEC Charter (in force 20 May 2024):** the clearest example of
-  regionalism's institutional deepening within the period covered by this
-  module.
-- 📰 **BRICS Rio Declaration (6 July 2025):** the current dated reference for
-  BRICS's evolving agenda (financial-architecture reform, expanded membership
-  considerations) — full financial-institution-reform linkage reserved for
-  topic 12 to avoid duplicating that treatment here.
+- 📰 **BIMSTEC Charter (in force 20 May 2024) and the 6th Summit (Bangkok,
+  4 April 2025):** the clearest example of regionalism's institutional
+  deepening within the period covered by this module — Charter, Bangkok Vision
+  2030, Rules of Procedure and an Eminent Persons Group report in a single
+  cycle. 📰 The Agreement on Maritime Transport Cooperation (signed 3 April
+  2025) entered into force on 16 May 2026 among four of seven members.
+- 📰 **BRICS Rio de Janeiro Declaration (17th Summit, 6-7 July 2025):** the
+  current dated reference for BRICS's evolving agenda (financial-architecture
+  reform, expanded membership considerations) — full financial-institution-reform
+  linkage reserved for topic 12 to avoid duplicating that treatment here.
+  📰 India holds the 2026 chairship, launched 13 January 2026.
 - ✅ **IBSA and RIC:** trilateral platforms whose "potentially significant"
-  framing (Sikri) reflects an early-stage assessment; treat any claim about
-  their current activity level as requiring independent, dated verification.
+  framing (Sikri) reflects an early-stage assessment. 📰 An IBSA Leaders'
+  Meeting was held at Johannesburg on 23 November 2025, proposing an IBSA
+  Digital Innovation Alliance and a climate-resilient agriculture fund
+  (⚠️ proposals, not established institutions); ⚠️ RIC has no officially
+  verified meeting since the virtual 18th Foreign Ministers' Meeting of
+  26 November 2021 — a candid asymmetry worth stating when the two are listed
+  together.
+- 📰 **Quad:** most recent Leaders' Summit at Wilmington, 21 September 2024;
+  most recent Foreign Ministers' Meeting in New Delhi, 26 May 2026. ⚠️ India was
+  announced as intended host of a Leaders' Summit, but no India-hosted Leaders'
+  Summit — or a formal postponement — is officially verified: an accurate
+  answer states the gap rather than assuming either outcome.
 - ⚠️ **SCO:** full institutional/connectivity profile reserved for topic 05.
 - ⚠️ **Quad:** full maritime-security institutional profile reserved for topic
   04, where its internal asymmetry (per Tharoor) is analysed in depth.
@@ -170,10 +190,15 @@ does not incapacitate India's broader diplomatic architecture.
 ## 7. Must-Know Facts for Advanced Prelims
 
 - 📰 The BIMSTEC Charter entered into force on 20 May 2024, formalising the
-  grouping's institutional/legal status.
-- 📰 The BRICS Rio Declaration was issued on 6 July 2025.
+  grouping's institutional/legal status; the 6th Summit (Bangkok, 4 April 2025)
+  adopted BIMSTEC Bangkok Vision 2030.
+- 📰 The BIMSTEC Agreement on Maritime Transport Cooperation, signed 3 April
+  2025, entered into force on 16 May 2026 among Bhutan, India, Myanmar and
+  Thailand.
+- 📰 The BRICS Rio de Janeiro Declaration was issued at the 17th Summit,
+  6-7 July 2025; BRICS has 11 full members plus 10 partner countries.
 - ✅ Sikri documents a historical APEC/ASEM gap; India joined ASEM in 2007,
-  while it remains outside APEC as of July 2026.
+  while it remains outside APEC as of 3 August 2026.
 - ✅ IBSA and RIC are specifically named by Sikri as "potentially significant"
   trilateral groupings, distinct from larger multilateral bodies.
 - ✅ BIMSTEC's institutional lineage traces from BIMST-EC (Bangladesh-India-
@@ -200,10 +225,16 @@ does not incapacitate India's broader diplomatic architecture.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The BIMSTEC Charter (in force 20 May 2024) and the BRICS Rio Declaration
-  (6 July 2025) remain key institutional anchors. India's launch of its BRICS
+- 📰 The BIMSTEC Charter (in force 20 May 2024), the 6th BIMSTEC Summit and
+  Bangkok Vision 2030 (4 April 2025), and the BRICS Rio de Janeiro Declaration
+  (6-7 July 2025) remain key institutional anchors. India's launch of its BRICS
   2026 chairship logo, theme and website on 13 January 2026 is the latest
-  chairship-process anchor; it is not a completed summit outcome.
+  chairship-process anchor; it is not a completed summit outcome. 📰 Two further
+  markers — the partial entry into force of the BIMSTEC maritime transport
+  agreement (16 May 2026) and the Quad Foreign Ministers' Meeting (New Delhi,
+  26 May 2026) — show the two ends of the effectiveness spectrum operating in
+  the same month: a treaty binding four states, and a non-treaty coalition
+  launching initiatives without any ratification step at all.
 
 ## 10. PYQ-based analytical application
 
@@ -219,8 +250,10 @@ does not incapacitate India's broader diplomatic architecture.
      global-governance, minilateral) rather than listing them undifferentiated.
   2. Distinguish institutional-effectiveness levels (treaty-bound vs.
      non-treaty).
-  3. Cite the BIMSTEC Charter, BRICS Rio Declaration and India's BRICS 2026
-     chairship launch at the correct evidentiary level.
+  3. Cite the BIMSTEC Charter, Bangkok Vision 2030, the BRICS Rio de Janeiro
+     Declaration and India's BRICS 2026 chairship launch at the correct
+     evidentiary level, and distinguish full membership from partner/observer
+     tiers.
   4. Acknowledge membership gaps (APEC/ASEM) honestly rather than presenting
      uniform diplomatic success.
 
@@ -237,7 +270,9 @@ ongoing limitations.
 1. **Categorise the grouping by layer** before analysing its specific role.
 2. **Distinguish institutional-effectiveness levels** (treaty-bound vs.
    non-treaty).
-3. **Cite the dated BIMSTEC/BRICS anchors** as concrete evidence.
+3. **Cite the dated BIMSTEC/BRICS anchors** as concrete evidence, at the
+   correct evidentiary level (charter in force, summit vision document,
+   declaration, chairship launch).
 4. **Acknowledge membership gaps honestly** (APEC/ASEM example).
 5. **Explain the strategic-autonomy payoff** of deliberate overlap.
 6. **Acknowledge coordination-cost and coherence-dilution limitations.**

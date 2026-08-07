@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims.
 > **Core area:** Strategic weapons R&D, institutional architecture and analytical distinctions.
 > **Grounded in:** DRDO About DRDO (https://drdo.gov.in/drdo/en/organisation/about-drdo — verified 16 Jul 2026); DRDO Missiles and Strategic Systems cluster (https://drdo.gov.in/drdo/en/organisation/technology-cluster/missiles-and-strategic-systems — verified 16 Jul 2026); DRDO Akash page (https://drdo.gov.in/drdo/en/offerings/products/akash — verified 16 Jul 2026); DRDO BrahMos page (https://drdo.gov.in/drdo/en/offerings/products/brahmos — verified 16 Jul 2026); DRDO Guided Pinaka Rocket System page (https://drdo.gov.in/drdo/en/offerings/products/guided-pinaka-rocket-system — verified 16 Jul 2026); PIB Agni-Prime release (https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170979 — 25 Sep 2025); PIB Pinaka LRGR release (https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209588 — 29 Dec 2025).
+> **Additionally verified 2 Aug 2026:** Mission Divyastra / Agni-5 MIRV, 11 Mar 2024 (https://pib.gov.in/PressReleasePage.aspx?PRID=2013549); first long-range hypersonic missile trial, 17 Nov 2024 (https://pib.gov.in/PressReleasePage.aspx?PRID=2073994); HSTDV scramjet demonstration, 7 Sep 2020 (https://pib.gov.in/PressReleasePage.aspx?PRID=1651956); IGMDP scope and 2012 closure (https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=85986); Akash IAF induction 2015 and Akash-NG user trials 23 Dec 2025 (https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=123140 ; https://pib.gov.in/PressReleasePage.aspx?PRID=2207971); QRSAM trials, Sep 2022 (https://pib.gov.in/PressReleasePage.aspx?PRID=1857724); MRSAM-BDL contract, 16 Jan 2025 (https://pib.gov.in/PressReleasePage.aspx?PRID=2093286); BrahMos Aerospace as the DRDO-NPOM joint venture (https://pib.gov.in/PressReleasePage.aspx?PRID=1791199); DDP mandate (https://www.ddpmod.gov.in/connect/rti/mandatory-disclosures); DAC Acceptance of Necessity framing, 3 Jul 2026 (https://pib.gov.in/PressReleasePage.aspx?PRID=2280728); Operation Sindoor MoD release, 7 May 2025 (https://pib.gov.in/PressReleasePage.aspx?PRID=2127370).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current/dated development.
 > *Companion: `basic/06_Defence-RandD-DRDO-and-Missile-Systems.md`.*
 
@@ -32,11 +33,17 @@ deterrence / air defence / air combat / anti-armour / long-range fires
 | Concept | Precise meaning |
 |---|---|
 | ✅ **Strategic missile system** | System linked to deterrence, long-range strike or high-value operational missions. |
-| ✅ **Ballistic missile** | Missile whose main path after boost is largely governed by ballistic trajectory. |
-| ✅ **Cruise missile** | Missile that sustains powered, guided atmospheric cruise. |
+| ✅ **Ballistic missile** | Missile whose main path after boost is largely governed by ballistic trajectory; predictable trajectory makes it easier to track but its speed and short flight time make it hard to intercept. |
+| ✅ **Cruise missile** | Missile that sustains powered, guided atmospheric cruise — typically low-flying (terrain masking) and slower, trading speed for accuracy and radar-horizon concealment. |
+| ⚠️ **Boost-glide (hypersonic glide vehicle)** | Rocket-boosted, then an unpowered but **manoeuvring** hypersonic glide on a depressed trajectory. Strategically significant because it defeats the *predictability* assumption that ballistic-missile defence relies on, while remaining faster than a cruise missile. |
+| ⚠️ **Scramjet / hypersonic cruise** | Air-breathing supersonic-combustion propulsion sustaining hypersonic flight — India's HSTDV demonstrated the technology in 2020. The engineering barriers are thermal management, materials and sustaining combustion in supersonic airflow. |
+| ⚠️ **Propulsion-to-class mapping** | Solid rockets → ballistic missiles, SAMs, rocket artillery (storable, instant readiness). Liquid rockets → some early ballistic systems (higher performance, harder handling). Turbojet/turbofan → subsonic cruise missiles. **Ramjet** → supersonic cruise (BrahMos). **Scramjet** → hypersonic cruise (developmental). |
+| ⚠️ **MIRV and deterrence stability** | MIRV increases warheads deliverable per launcher, complicating an adversary's missile defence — but it is also destabilising in theory because a MIRVed launcher is a high-value target, creating use-it-or-lose-it pressure. Worth one balanced line in a deterrence answer. |
+| ⚠️ **Canisterisation and mobility** | Storing a missile sealed in a canister on a road- or **rail**-mobile launcher improves survivability and reduces launch preparation time. India's rail-mobile Agni-Prime launch (Sep 2025) is best analysed as a *survivability and second-strike credibility* development, not merely another test. |
 | ✅ **Rocket artillery / guided rocket** | Rocket-based fire-support system distinct from cruise-missile and ballistic-missile logic. |
 | ✅ **MSS cluster** | DRDO cluster officially responsible for missile and strategic-system technologies. |
 | ✅ **DIA-CoE model** | DRDO-led collaboration route linking labs, academia and advanced research problems. |
+| ⚠️ **Development-to-induction ladder** | *Developmental trial → user evaluation trial → "ready for induction" → AoN/contract → induction → deployment at scale.* Each official phrase means something different; an advanced answer should use the exact rung the source uses. |
 
 ## 3. Detailed mechanism / how the ecosystem works
 
@@ -55,12 +62,15 @@ deterrence / air defence / air combat / anti-armour / long-range fires
 
 ## 4. Institutions and programmes
 
-- ✅ **DRDO:** official site calls it the R&D wing of the Ministry of Defence and states its mission of self-reliance in critical defence technologies.
+- ✅ **DRDO:** official site calls it the R&D wing of the Ministry of Defence and states its mission of self-reliance in critical defence technologies; its function is to design/develop and to **facilitate** production and induction.
 - ✅ **Department of Defence R&D:** administrative umbrella for DRDO.
+- ✅ **Department of Defence Production (DDP):** the distinct MoD department for production infrastructure, DPSUs and manufacturing indigenisation. The **R&D-production split** is the institutional fact most often missed in answers.
+- ✅ **Defence Acquisition Council (DAC):** grants **Acceptance of Necessity**, which MoD material describes as in-principle approval only — not a contract, delivery or induction.
+- ✅ **Services (Army/Navy/Air Force):** own the qualitative requirements, conduct user trials and take induction decisions; DRDO cannot induct its own product.
 - ✅ **MSS cluster:** official page lists DRDL, RCI, ASL, TBRL and ITR, along with other centres for testing, integration and analysis.
-- ✅ **BrahMos joint-development framework:** official DRDO page states joint development by DRDO, India and NPOM, Russia.
+- ✅ **BrahMos Aerospace Private Limited (BAPL):** the DRDO-NPOM (Russia) **joint venture** that develops and produces BrahMos — a JV company, not a bilateral programme run by two governments' agencies in parallel.
 - ✅ **DIA-CoEs:** official DRDO scheme route for collaboration with universities/research institutions on frontier defence problems.
-- ✅ **IGMDP legacy:** historically central to India’s indigenous missile development story and still crucial for exam framing.
+- ✅ **IGMDP legacy (1983 - March 2012):** covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator. Analytically it matters because it built the *subsystem* base — propulsion, seekers, guidance, materials — on which later non-IGMDP systems (BrahMos, Astra, Agni-5, QRSAM, MRSAM, hypersonics) were possible.
 
 ## 5. Indian applications, examples and strategic significance
 
@@ -103,12 +113,17 @@ deterrence / air defence / air combat / anti-armour / long-range fires
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 **25 Sep 2025:** PIB reported successful launch of Intermediate Range Agni-Prime from a rail-based mobile launcher under a full operational scenario. **Status:** tested. | Use it to discuss survivability, mobility, deterrence and the difference between developmental success and enduring force integration. |
+| 📰 **11 Mar 2024:** Mission Divyastra — first successful Agni-5 flight test with indigenous **MIRV** technology. **Status:** tested. | Use to discuss penetration of adversary missile defence and the credibility of assured retaliation — while noting that a first flight test is not fleet MIRV capability, and that MIRV also creates counterforce-target incentives. |
+| 📰 **16 Nov 2024:** DRDO's first long-range **hypersonic missile** flight trial, described as designed for payloads beyond 1,500 km. **Status:** tested (demonstration). | Use to argue that India is entering the hypersonic competition at the *demonstration* rung; induction is not officially recorded. Pair with HSTDV (2020) to distinguish air-breathing scramjet work from boost-glide systems. |
+| 📰 **25 Sep 2025:** PIB reported successful launch of Intermediate Range Agni-Prime from a rail-based mobile launcher under a full operational scenario. **Status:** tested (rail-mobile); road-mobile Agni-P already **inducted**. | Use it to discuss survivability, dispersal and second-strike credibility — and as a clean example of two different status labels for the same missile on two different launch platforms. |
 | 📰 **29 Dec 2025:** PIB reported the maiden flight test of Pinaka LRGR 120 from an in-service launcher. **Status:** tested. | Use it to show how artillery modernisation and precision long-range fires are broadening beyond classic missile binaries. |
+| 📰 **23 Dec 2025:** Akash-NG completed user evaluation trials, "paving the way" for induction. **Status:** user trials completed. | Use to demonstrate status discipline: "paved the way for induction" is not induction. Contrast with legacy Akash, inducted into the IAF in July 2015. |
+| 📰 **16 Jan 2025:** MoD signed a ₹2,960-crore MRSAM supply contract with BDL. **Status:** contracted. | Use to illustrate the missing middle in Indian defence analysis — the gap between a successful DRDO trial and a signed production contract with a DPSU is where indigenisation actually succeeds or fails. |
 | 📰 **16 Jul 2026:** DRDO Akash page still marks Akash as inducted and operational. **Status:** operational. | Use it to distinguish a fielded air-defence system from under-trial or technology-demonstration systems. |
-| 📰 **16 Jul 2026:** DRDO BrahMos page still marks BrahMos as inducted and operational. **Status:** operational. | Use it to discuss service integration and the strategic importance of an already fielded cruise-missile system. |
+| 📰 **16 Jul 2026:** DRDO BrahMos page still marks BrahMos as inducted and operational; BrahMos Aerospace is the DRDO-NPOM joint venture. **Status:** operational. | Use it to discuss service integration and to make the co-development point: a JV can deliver a fielded system faster than pure indigenous development, at the cost of shared IP and partner dependence. |
+| 📰 **7 May 2025:** MoD stated that Operation Sindoor struck nine terrorist-infrastructure sites in Pakistan and PoJK, describing the action as focused, measured and non-escalatory. **Status:** officially documented operation. | Use only for the *doctrinal* point that precision stand-off capability now shapes India's response options; do not attribute specific weapons to the operation beyond what the official release states. |
 
-*Current as of 16 Jul 2026; verify for later updates.*
+*Current as of 16 Jul 2026, re-verified 2 Aug 2026; verify for later updates.*
 
 ## 10. PYQ application
 

@@ -6,8 +6,11 @@
 > constitutional) consequences of the 2019 reorganisation; rehabilitation
 > policy design; rights-security trade-offs in a proxy-war theatre.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
-> India*, PDF pp. 23-30; `00_Master-Framework.md` Sections 5-9; audited
-> GS-III syllabus.
+> India*, PDF pp. 23-30; VisionIAS, *Security Challenges and Their
+> Management in Border Areas*, PDF p. 30; `00_Master-Framework.md`
+> Sections 5-9; audited GS-III syllabus; Jammu and Kashmir Reorganisation
+> Act 2019 as published in India Code; the DGMOs' joint statement of
+> 25 February 2021.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/05_Jammu-Kashmir-and-Cross-Border-Terrorism.md`.*
 
@@ -34,7 +37,9 @@ topic analyses only the operational internal-security consequences.
 | ✅ **Deniability as the proxy-war's core design feature** | ✅ Applying Singh's general proxy-actor logic (topic 02) specifically to J&K: sponsoring "non-state" fronts (LeT, JeM, Hizbul Mujahideen) let Pakistan pursue its stated post-1971 objective — "bleed India through a thousand cuts" — while retaining formal deniability (Singh, PDF pp. 8, 25-26). |
 | ✅ **Ceasefire violations as instrument, not friction** | ✅ Singh: ceasefire violations are "planned by the ISI mainly to keep the J&K issue alive, to try to internationalise it, keep the Indian forces engaged and to aid the infiltration of the terrorists" (PDF p. 29) — a deliberate tactic, analytically distinct from routine border-management friction (topic 06). |
 | ⚠️ **Strategy adaptation over time** | Singh documents an explicit ISI strategy shift "in the last 4-5 years" (book-period, referring to the post-2008 period) toward "crowd mobilisation... to defame Indian security forces and to internationalise the Kashmir issue," with stone-pelting becoming "a routine feature of street protesters" (PDF p. 26) — evidence that the proxy-war toolkit evolves rather than remaining static; ⚠️ any claim about the *current* toolkit must be separately, currently verified. |
-| ⚠️ **Reorganisation as operational, not merely symbolic, change** | The 2019 reorganisation altered the administrative/security command structure (Union Territory status, direct central administration) with operational effects on coordination and governance delivery — analytically separable from, though related to, the constitutional debate Polity owns. |
+| ⚠️ **Reorganisation as operational, not merely symbolic, change** | The 2019 reorganisation altered the administrative/security command structure (Union Territory status, direct central administration) with operational effects on coordination and governance delivery — analytically separable from, though related to, the constitutional debate Polity owns. ⚠️ State it precisely: under the Jammu and Kashmir Reorganisation Act, 2019, **public order and police lie outside the J&K Assembly's legislative competence**, so even after Assembly elections the internal-security chain runs Lieutenant Governor → Union, not Chief Minister → State. Coordination in J&K is therefore *intra*-executive rather than Centre-State — a structurally different problem from the one in topics 03, 04 and 12. |
+| ⚠️ **Ceasefire as an instrument, settlement as an outcome** | The November 2003 LoC ceasefire understanding, reaffirmed by both DGMOs on **25 February 2021**, is a military-to-military arrangement. ⚠️ It reduces one *category* of harm (cross-LoC firing and its civilian cost in border villages), which is a genuine gain in itself, but it is not a settlement, is not a treaty, and does not by itself alter infiltration, tunnelling, drone-borne delivery or hinterland module activity. Treating a quiet LoC as evidence of a resolved proxy war is the topic-specific form of the folder's ceasefire-versus-settlement discipline. |
+| ⚠️ **Attribution as a graded, not binary, judgement** | Proxy-war attribution runs along a gradient: material recovered, communication intercepts, cadre origin, training-camp provenance, financing trail and state-institution linkage. ⚠️ An answer that says "Pakistan-sponsored" without naming which of these evidences the claim is asserting; one that names the evidentiary basis is analysing. |
 
 ## 3. Detailed causal chain: from conventional defeat to proxy-war toolkit evolution
 
@@ -83,8 +88,14 @@ topic analyses only the operational internal-security consequences.
   rehabilitation problem specific to J&K.
 - ⚠️ **Village Defence Committees (VDC)/Village Defence Guards:** a
   community self-defence model originating in J&K and later generalised
-  nationally (Singh, PDF p. 64; developed in topic 06) — an institutional
-  export from this topic to the broader border-management framework.
+  nationally (Singh, PDF p. 64; VisionIAS, PDF p. 30, which records the
+  renaming and the SP/SSP-supervised structure) — an institutional export
+  from this topic to the broader border-management framework. ⚠️ Its
+  design trade-off is the classic counter-insurgency one: arming and
+  training civilian volunteers buys local presence and early warning at
+  the cost of weakened command accountability over armed actors, which is
+  why supervision (here, by the district police chief) is the variable
+  that determines whether the model helps or harms.
 - 📰 **Current-anchor institutional detail:** any claim about the present
   security command structure, force levels or the current administrative
   status of Jammu & Kashmir and Ladakh must be verified from a dated
@@ -141,6 +152,12 @@ topic analyses only the operational internal-security consequences.
 - ✅ Singh documents a post-2008 ISI tactical shift toward crowd
   mobilisation and stone-pelting as an information/legitimacy-contest
   instrument, alongside continued kinetic militancy.
+- ✅ The November 2003 LoC ceasefire understanding was reaffirmed by the
+  Indian and Pakistani DGMOs in a joint statement of 25 February 2021 — a
+  military-to-military understanding, not a treaty or settlement.
+- ✅ Under the Jammu and Kashmir Reorganisation Act, 2019, public order and
+  police are outside the legislative competence of the J&K Assembly; J&K
+  is a Union Territory with a legislature and Ladakh one without.
 - ⚠️ The 2019 reorganisation created the Union Territories of Jammu &
   Kashmir and Ladakh; its constitutional reasoning and the December 2023
   Supreme Court judgment upholding it are Polity's domain.
@@ -159,6 +176,15 @@ topic analyses only the operational internal-security consequences.
 - ❌ Stone-pelting and crowd mobilisation are spontaneous, unconnected
   protest phenomena. -> Singh documents them as part of a deliberate ISI
   tactical shift toward an information/legitimacy contest.
+- ❌ A reaffirmed LoC ceasefire is evidence that the proxy war has ended.
+  -> It is a military-to-military understanding covering cross-LoC firing;
+  infiltration, tunnelling, drone-borne delivery and hinterland module
+  activity are separately measured and can move in the opposite direction.
+- ❌ After Assembly elections, J&K's internal-security chain reverted to
+  the normal Centre-State model. -> Police and public order remain outside
+  the Assembly's competence under the 2019 Act, so the chain remains
+  Lieutenant-Governor-centred — a fact about the statute, independent of
+  any political assessment of it.
 
 ## 9. 📰 Current-anchor note
 
@@ -217,6 +243,9 @@ each carrying its own operational trade-off.
 - ⚠️ **Mains (15 marks):** Analyse the operational (not constitutional)
   internal-security consequences of the 2019 reorganisation of Jammu &
   Kashmir.
+- ⚠️ **Mains (15 marks):** "A ceasefire on the Line of Control is a
+  humanitarian gain for border populations, not a resolution of
+  cross-border terrorism." Examine.
 
 ## 13. Study links
 

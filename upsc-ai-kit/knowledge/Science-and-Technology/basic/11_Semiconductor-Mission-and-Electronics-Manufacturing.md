@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims.
 > **Core area:** Semiconductor value chain, India Semiconductor Mission, and electronics manufacturing ecosystem.
 > **Grounded in:** ISM Semicon 2.0 (`https://ism.gov.in/schemes/semicon2.0/index`, verified 2026-07-16); ISM semiconductor fab scheme (`https://ism.gov.in/schemes/semicon1.0/semiconductor-fab`, verified 2026-07-16); ISM compound semiconductor & ATMP scheme (`https://ism.gov.in/schemes/semicon1.0/compound-and-atmp`, verified 2026-07-16); DLI portal (`https://chips-dli.gov.in/DLI/HomePage`, verified 2026-07-16); PM India approval update of 05 May 2026; PIB release of 12 Mar 2024 on three semiconductor facilities; MeitY electronics PLI page (`https://www.meity.gov.in/esdm/pli/`, verified 2026-07-16).
+> **Additionally verified 2 Aug 2026:** ISM press-release register recording approvals of 29 Feb 2024, 2 Sep 2024, 14 May 2025, 12 Aug 2025 and 5 May 2026, the inaugurations of Micron Sanand (28 Feb 2026), Kaynes Semicon Sanand (31 Mar 2026) and CG Semi Sanand (4 Jul 2026), the HCL-Foxconn groundbreaking (20 Feb 2026), the Tata Electronics fab agreement (12 Mar 2025) and the presentation of the first set of Made-in-India chips (2 Sep 2025) (https://ism.gov.in/notifications/press-release); ISM Semicon 1.0 scheme pages (https://ism.gov.in/schemes/semicon1.0/semiconductor-fab); Semicon 2.0 Cabinet approval of 15 Jul 2026 with a Rs 1,27,500 crore outlay (https://ism.gov.in/schemes/semicon2.0/index); SEMICON India 2026 event page, 17-19 Sep 2026 (https://ism.gov.in/semicon-india-2026).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `../advanced/11_Semiconductor-Mission-and-Electronics-Manufacturing.md`. Economy cross-link: `../../Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md`.*
 
@@ -39,13 +40,16 @@ PCB / module / device assembly -> phones, servers, EVs, telecom gear
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Chip design / IP** | Creation of circuit architecture, logic blocks, layouts and reusable intellectual property blocks before manufacturing. |
-| ✅ **Fabless company** | A firm that designs chips but outsources wafer manufacturing to a foundry/fab. |
-| ✅ **Semiconductor fab / foundry** | Facility that manufactures chips on silicon or compound-semiconductor wafers through clean-room processes. |
+| ✅ **Fabless company** | A firm that designs chips but outsources wafer manufacturing to a foundry/fab (e.g. the classic fabless model). |
+| ✅ **Semiconductor fab** | A wafer-fabrication plant. ⚠️ **A "foundry" is a fab that manufactures to other companies' designs**, whereas an **IDM (Integrated Device Manufacturer)** designs and fabricates its own products in its own fab. Fab, foundry and IDM are therefore **not synonyms**: every foundry is a fab, but not every fab is a foundry. |
 | ✅ **Wafer fabrication** | Front-end manufacturing stage where transistors and interconnects are built layer by layer on a wafer. |
-| ✅ **ATMP / OSAT** | Assembly, Testing, Marking and Packaging / Outsourced Semiconductor Assembly and Test — the back-end stage after wafers are made. |
-| ✅ **Compound semiconductor** | Semiconductor material other than plain silicon, such as GaN or silicon photonics related platforms, used for special applications like power, RF or optoelectronics. |
-| ✅ **EDA tools** | Electronic Design Automation software used to design, verify and tape-out chips. |
-| ✅ **India Semiconductor Mission (ISM)** | MeitY-led institutional platform implementing semiconductor and display ecosystem schemes in India. |
+| ⚠️ **Process node (e.g. 28 nm, 7 nm, 3 nm)** | Originally the physical gate length; today largely a **marketing-cum-generation label** for transistor density and performance, not a literal measurement. Smaller nodes cost dramatically more; **mature/legacy nodes (28 nm and above) still dominate automotive, industrial, power and defence demand** — which is why a country can be strategically relevant without leading-edge capability. |
+| ⚠️ **Lithography: DUV vs EUV** | **Deep-ultraviolet (193 nm, often immersion)** lithography serves mature and mid-range nodes. **Extreme-ultraviolet (13.5 nm)** is required for leading-edge nodes, is supplied by a single global vendor, and is subject to export controls — the tightest chokepoint in the entire value chain. |
+| ✅ **ATMP / OSAT** | Assembly, Testing, Marking and Packaging / Outsourced Semiconductor Assembly and Test — the back-end stage after wafers are made. **OSAT is the outsourced service model; ATMP describes the process steps.** |
+| ⚠️ **Advanced packaging** | 2.5D/3D integration, chiplets, through-silicon vias and heterogeneous integration. Strategically important because it delivers system-level performance gains **without** requiring leading-edge lithography — the most realistic route for a late entrant. |
+| ✅ **Compound semiconductor** | A semiconductor formed from **two or more elements**, such as **GaN, GaAs, InP or SiC**, used for power, RF and optoelectronic applications where silicon performs poorly. ⚠️ **Silicon photonics is *not* a compound semiconductor** — it is a silicon-based platform for optical interconnects, grouped with compound semiconductors in Indian scheme nomenclature only for policy convenience. |
+| ✅ **EDA tools** | Electronic Design Automation software used to design, verify and tape-out chips — itself a concentrated global market and a real dependency for a design-heavy country like India. |
+| ✅ **India Semiconductor Mission (ISM)** | MeitY-led institutional platform implementing semiconductor and display ecosystem schemes in India. ⚠️ **ISM is the implementing agency; the Semicon India Programme is the scheme package; SPECS and PLI are separate electronics-manufacturing incentives.** Do not merge them. |
 | ✅ **Design Linked Incentive (DLI)** | India scheme focused on financial and design-infrastructure support for chip design companies, startups and MSMEs. |
 
 ## 3. Mechanism / how it works
@@ -60,17 +64,20 @@ PCB / module / device assembly -> phones, servers, EVs, telecom gear
 ## 4. Institutions and programmes
 
 - ✅ **MeitY:** parent ministry for India’s semiconductor policy architecture.
-- ✅ **India Semiconductor Mission (ISM):** nodal institutional mechanism for implementing semiconductor and display schemes.
-- ✅ **Semicon India 1.0:** umbrella support covering semiconductor fabs, display fabs, compound semiconductor / ATMP / OSAT facilities and DLI.
-- ✅ **Semicon 2.0:** next phase focused on deeper ecosystem development, including design, machines and materials, more fabs, ATMP/OSAT, R&D and talent.
+- ✅ **India Semiconductor Mission (ISM):** nodal institutional mechanism for implementing semiconductor and display schemes — an **implementing agency**, not a scheme.
+- ✅ **Semicon India Programme (Semicon India 1.0):** the **₹76,000 crore** umbrella covering four schemes — **Semiconductor Fab Scheme**, **Display Fab Scheme**, **Compound Semiconductor / Silicon Photonics / Sensors Fab and ATMP-OSAT Scheme**, and the **Design Linked Incentive (DLI) Scheme**.
+- ✅ **Semicon 2.0:** approved by the Union Cabinet on **15 Jul 2026** with a fiscal outlay of **₹1,27,500 crore**, deepening the ecosystem across design, machines and materials, more fabs, ATMP/OSAT, R&D and talent. **Status: approved.**
+- ✅ **SPECS and PLI schemes (electronics):** separate MeitY instruments for components/sub-assemblies and for large-scale electronics/IT-hardware manufacturing. They **complement** the semiconductor schemes; they are not part of ISM's mandate.
 - ✅ **C-DAC / DLI portal architecture:** operational channel for DLI support, including design infrastructure and EDA/tool access.
 - ✅ **MeitY electronics manufacturing support / PLI ecosystem:** complements semiconductors by expanding mobile and electronics assembly demand in India.
 
 ## 5. Indian applications, examples and limitations
 
 - ✅ India already has a strong design-services and chip-design talent base; DLI aims to convert that into domestic IP, prototypes and product companies.
-- ✅ Official March 2024 approvals/foundation-stage facilities included a semiconductor fab at Dholera and OSAT/ATMP units at Morigaon and Sanand.
-- ✅ Official May 2026 approvals added Crystal Matrix’s integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon’s OSAT facility in Surat.
+- ✅ **Approval and commissioning timeline (all dates from official ISM releases):** three units approved **29 Feb 2024**; one more **02 Sep 2024**; a "sixth unit" **14 May 2025**; four further projects — **SiCSem, CDIL, 3D Glass Solutions and ASIP** — **12 Aug 2025**; two more units **05 May 2026**.
+- ✅ **Facilities officially inaugurated:** **Micron's ATMP facility at Sanand (28 Feb 2026)**, **Kaynes Semicon at Sanand (31 Mar 2026)** and **CG Semi's OSAT facility at Sanand (04 Jul 2026)**; **HCL-Foxconn** groundbreaking was announced on **20 Feb 2026**; the **Tata Electronics** semiconductor-fab fiscal-support agreement was signed **12 Mar 2025**.
+- ✅ **"First set of Made-in-India chips" was presented to the Prime Minister on 02 Sep 2025.** ⚠️ A presentation or inauguration is **not** evidence of commercial-scale production or market sale — no official source establishes commercial rollout. Use the precise verb the source uses.
+- ⚠️ **Note the sequencing:** India's early wins are concentrated in **ATMP/OSAT (back-end) and compound semiconductors**, not in leading-edge silicon fabs. That is a rational entry strategy, not a shortfall — but it must be stated accurately.
 - ⚠️ Electronics manufacturing growth in mobiles and consumer devices can create stable domestic demand for packaging, testing and downstream semiconductor integration.
 - ⚠️ India may move faster in packaging, compound semiconductors, specialty materials and design than in the most advanced leading-edge silicon nodes; do not assume every approved project is a frontier-node fab.
 - ⚠️ **Limitation 1:** fabs need reliable power, ultra-pure water, clean-room engineering and long-term process know-how, so policy approval is only the first step.
@@ -94,20 +101,33 @@ PCB / module / device assembly -> phones, servers, EVs, telecom gear
 - ❌ **OSAT/ATMP is just another name for a fab.** -> No; it is the post-fabrication packaging and test stage.
 - ❌ **An approved semiconductor project automatically implies a verified advanced node size.** -> State only what official sources confirm; do not invent node sizes.
 - ❌ **Semiconductor policy is only about fabs.** -> Official ISM material repeatedly emphasizes design, machines, materials, R&D, talent and packaging as ecosystem pillars.
+- ❌ **"Fab" and "foundry" are interchangeable.** -> A **foundry manufactures to other firms' designs**; an **IDM** fabricates its own. The business model, not the building, defines the term.
+- ❌ **Silicon photonics is a compound semiconductor.** -> It is a **silicon-based** optical-interconnect platform, grouped with compound semiconductors only in Indian scheme nomenclature. Compound semiconductors are GaN, GaAs, InP, SiC and similar multi-element materials.
+- ❌ **A smaller node is always better for India.** -> Mature nodes (28 nm and above) serve automotive, industrial, power and defence demand, need no EUV, and are where a late entrant can be competitive. Leading-edge capability is not the only strategically meaningful capability.
+- ❌ **ISM, Semicon India, SPECS and PLI are one scheme.** -> **ISM implements**; **Semicon India** is the scheme package (₹76,000 crore in 1.0, ₹1,27,500 crore approved for 2.0 on 15 Jul 2026); **SPECS and PLI** are separate electronics-manufacturing incentives.
+- ❌ **India is now producing commercial semiconductors at scale.** -> Facilities have been **inaugurated** (Micron Sanand, Feb 2026; Kaynes Sanand, Mar 2026; CG Semi Sanand, Jul 2026) and a **first set of Made-in-India chips was presented on 2 Sep 2025**, but no official source establishes **commercial-scale production or sale**. Distinguish approval → groundbreaking → inauguration → pilot output → commercial production.
 
 ## 8. 📰 Current anchor
 
-- 📰 **12 Mar 2024 | approved / foundation-stage:** PIB announced foundation of three semiconductor facilities — Dholera semiconductor fab, Morigaon OSAT, and Sanand OSAT. Current as of 2026-07-16; verify construction progress for later use.
+- 📰 **29 Feb 2024 → 12 Mar 2024 | approved / foundation-stage:** three semiconductor facilities approved and foundation stones laid — a fab at Dholera and OSAT/ATMP units at Morigaon (Assam) and Sanand (Gujarat).
+- 📰 **02 Sep 2024, 14 May 2025, 12 Aug 2025, 05 May 2026 | further approvals.** The 12 Aug 2025 tranche covered **SiCSem, CDIL, 3D Glass Solutions and ASIP**; the 05 May 2026 tranche added two more units. ⚠️ ISM's register lists approvals individually; **no official source states a single aggregate "number of approved projects"** — do not assert a total.
+- 📰 **12 Mar 2025 | Tata Electronics fab | Status: fiscal-support agreement signed.** An agreement is a financing milestone, not production.
+- 📰 **02 Sep 2025 | "First set of Made-in-India chips" presented to the Prime Minister. Status: demonstration/presentation**, not verified commercial rollout.
 - 📰 **08 Sep 2025 | scheme-amended / operational:** ISM scheme pages show amendments to semiconductor manufacturing guidelines under the modified programme, indicating ongoing policy fine-tuning.
-- 📰 **05 May 2026 | approved:** PM India announced approval of two more units — Crystal Matrix integrated compound semiconductor fabrication plus ATMP in Dholera, and Suchi Semicon OSAT in Surat.
+- 📰 **20 Feb 2026 | HCL-Foxconn joint venture | Status: groundbreaking announced.**
+- 📰 **28 Feb 2026 / 31 Mar 2026 / 04 Jul 2026 | Status: inaugurated.** Micron's ATMP facility, Kaynes Semicon's plant and CG Semi's OSAT facility, all at Sanand, Gujarat.
+- 📰 **15 Jul 2026 | Semicon 2.0 approved by the Union Cabinet with a fiscal outlay of ₹1,27,500 crore. Status: approved** — an authorisation, not disbursement.
+- 📰 **17-19 Sep 2026 | SEMICON India 2026 scheduled.**
 - 📰 **Current as of 2026-07-16:** ISM’s Semicon 2.0 page frames the next phase around six pillars — design, machines/materials, more fabs, ATMP/OSAT, R&D and talent.
+
+*Re-verified 2 Aug 2026; commissioning and production status change fast — check ism.gov.in before quoting.*
 
 ## 9. PYQ application
 
-- ✅ **2025 GS-III direct PYQ:** challenges facing India's semiconductor
-  industry and salient features of India Semiconductor Mission. Separate
-  design, fabrication, ATMP/OSAT, inputs and talent. Exact route: `../README.md`.
-
+- ✅ **2025 GS-III direct PYQ (Q16, 250 words):** "India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission." Route: `../README.md`.
+  - ⚠️ **Challenges to name precisely:** capital intensity and long payback; **equipment and EUV/DUV lithography dependence** with export-control exposure; ultra-pure water, uninterrupted power and specialty gases/chemicals; materials import dependence (wafers, photoresists, high-purity gases); process know-how and yield learning curves that cannot be bought; **talent** (design strength but thin fab-process and equipment-engineering base); small domestic demand for leading-edge chips; and global competition from heavily subsidised incumbents.
+  - ⚠️ **ISM salient features:** MeitY-led implementing agency; **Semicon India Programme (₹76,000 crore)** with four schemes — semiconductor fabs, display fabs, compound-semiconductor/silicon-photonics/sensors fabs plus ATMP-OSAT, and **DLI**; fiscal support on a project-cost-share basis; ecosystem focus on design, materials, equipment, R&D and talent; **Semicon 2.0 approved 15 Jul 2026 with ₹1,27,500 crore**.
+  - ⚠️ **How to score the conclusion:** argue for a **staged strategy** — back-end/ATMP and compound semiconductors first, mature nodes next, leading edge later — and date-stamp every project status.
 - ⚠️ UPSC is likely to ask a **distinction-based Prelims question** separating fabless design, front-end fabrication and back-end packaging/testing.
 - ⚠️ In Mains, the issue is not merely subsidy; it is whether India can move from design services and electronics assembly to deeper semiconductor capability.
 - ⚠️ A good answer should pair technology vocabulary with institutional specificity: ISM, DLI, fabs, ATMP/OSAT, materials, utilities and downstream electronics demand.

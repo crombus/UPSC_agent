@@ -5,8 +5,9 @@
 > **Core area:** Routing and concise interpretive outlines for the 16
 > recent prompts, linked to the full 100-prompt corpus; a deliberate-practice loop with an error log and
 > spaced reattempts.
-> **Grounded in:** verified 2013-2025 UPSC Essay corpus (see
-> `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> **Grounded in:** the 2013-2025 UPSC Essay corpus with per-year
+> verification levels (see `../PYQ-Corpus-2013-2025.md`);
+> `../00_Master-Framework.md`
 > Section 11.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -38,11 +39,18 @@ reattempt.
 
 ## 3. ✅ Exam facts / source basis
 
-✅ All 16 recent prompts below are quoted or referenced against the
-official/corrected ledger (see `../PYQ-Corpus-2013-2025.md`). Both recent
-papers are unattributed for every prompt;
-this topic follows the same quotation-attribution safety rule as `09` —
-no author is ever attached to any of the 16 recent prompts.
+✅ All 16 recent prompts below are quoted from `../PYQ-Corpus-2013-2025.md`'s
+**V1** rows — read directly off the official 2024 and 2025 PDFs in
+`books/mains/` — and are reproduced with their printed defects intact
+("futures" in 2024-A2; a comma before a capitalised "Happiness" in
+2024-A3; no comma before "precipitating" in 2024-B5). ✅ Both V1 papers are
+unattributed for every prompt; this topic follows the same
+quotation-attribution safety rule as `09` — no author is ever attached to
+any of the 16 recent prompts.
+
+⚠️ Prompts drawn from 2013–2023 (`V2` rows) are **not** locally verified.
+Route and practise from them freely, but paraphrase rather than quote them
+verbatim until the official paper for that year has been checked.
 
 ## 4. The central idea and common misreading
 
@@ -67,15 +75,15 @@ can genuinely recall for it? (5) what is the synthesis?
 | Label | Exact prompt | Route | Concise interpretive outline |
 |---|---|---|---|
 | 2024-A1 | "Forests precede civilizations and deserts follow them." | `02, 04, 05, 11, 12` | Ecological precondition/warning; forests as ecological capital, deserts as the cost of extractive overreach; dimensions: ecological, civilisational, developmental; synthesis: regenerative development and intergenerational responsibility. |
-| 2024-A2 | "The empires of the future will be the empires of the mind." | `02, 05, 09, 11, 12` | "Empire" redefined as knowledge/power; dimensions: education, research capacity, digital-platform power; synthesis: inclusive, accountable knowledge-power, not concentrated power. |
-| 2024-A3 | "There is no path to happiness; Happiness is the path." | `02, 05, 06, 10, 12` | Process vs. destination; dimensions: individual conduct, consumption, public policy/well-being; synthesis: flourishing as an ongoing process and a social condition. |
+| 2024-A2 | "The empires of the futures will be the empires of the mind." | `02, 05, 09, 11, 12` | "Empire" redefined as knowledge/power; dimensions: education, research capacity, digital-platform power; synthesis: inclusive, accountable knowledge-power, not concentrated power. ❌ "futures" is the paper's printed slip — do not build the essay on the plural. |
+| 2024-A3 | "There is no path to happiness, Happiness is the path." | `02, 05, 06, 10, 12` | Process vs. destination; dimensions: individual conduct, consumption, public policy/well-being; synthesis: flourishing as an ongoing process and a social condition. (Printed with a comma, not a semicolon.) |
 | 2024-A4 | "The doubter is a true man of science." | `02, 08, 09, 11` | Disciplined doubt vs. denialism; dimensions: scientific method, public policy, civic scrutiny; synthesis: scientific temper as method, not mere scepticism. |
 
 **2024 — Section B**
 
 | Label | Exact prompt | Route | Concise interpretive outline |
 |---|---|---|---|
-| 2024-B5 | "Social media is triggering ‘Fear of Missing Out’ amongst the youth, precipitating depression and loneliness." | `03, 04, 08, 09, 10, 11, 12` | Issue-based prompt (see `03`); mechanism: design/comparison-driven distress; dimensions: individual, family, platform, state; synthesis: agency, literacy, humane platform design. |
+| 2024-B5 | "Social media is triggering ‘Fear of Missing Out’ amongst the youth precipitating depression and loneliness." | `03, 04, 08, 09, 10, 11, 12` | Issue-based prompt (see `03`); mechanism: design/comparison-driven distress; dimensions: individual, family, platform, state; synthesis: agency, literacy, humane platform design. (No comma before "precipitating" in the printed paper.) |
 | 2024-B6 | "Nearly all men can stand adversity, but to test the character, give him power." | `02, 05, 08, 10, 12` | Discretionary power vs. adversity as character tests; dimensions: personal virtue, institutional accountability; synthesis: accountable power, not power denied or unchecked. |
 | 2024-B7 | "All ideas having large consequences are always simple." | `02, 05, 08, 09, 11` | Simplicity of moral/political core vs. complexity of execution; synthesis: simple compass, sophisticated implementation. |
 | 2024-B8 | "The cost of being wrong is less than the cost of doing nothing." | `02, 05, 08, 09, 11` | Reversible experimentation vs. paralysis; synthesis: responsible, safeguarded action with precaution for irreversible harms. |

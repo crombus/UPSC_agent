@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + GS-II + Prelims.
 > **Core area:** IPR types, patent law basics and Indian institutional architecture.
 > **Grounded in:** IP India Patents Act page (https://ipindia.gov.in/pages/patents/chapter — verified 16 Jul 2026); Patents Act PDF used for Section 3(d) and compulsory licensing text (https://ipindia.gov.in/storage/uploads/docs-operator/73b5bf10-b04e-4f45-abef-87ff117315dc.pdf — verified 16 Jul 2026); Basics of Trademarks page (https://ipindia.gov.in/basics-of-trademarks — verified 16 Jul 2026); GI introduction and filing process pages (https://ipindia.gov.in/gi-introduction and https://ipindia.gov.in/gi-filing-process-step-by-step — verified 16 Jul 2026); CIPAM National IPR Policy summary (https://cipam.gov.in/en/about/national-IPR-policy — verified 16 Jul 2026); WIPO PCT contracting states page (https://www.wipo.int/en/web/pct-system/pct-contracting-states — verified 16 Jul 2026).
+> **Additionally verified 2 Aug 2026:** WIPO Global Innovation Index 2025 results, India ranked 38th (https://www.wipo.int/web-publications/global-innovation-index-2025/en/gii-2025-results.html); Patents (Amendment) Rules, 2024 of 15 and 16 Mar 2024 as listed by IP India (https://ipindia.gov.in/storage/uploads/docs-operator/17e7b633-4b6f-4737-9408-8c8fe72c9cfc.pdf); CGPDTM Annual Report 2024-25 located but tables not machine-readable (https://ipindia.gov.in/storage/uploads/media/English_Annual_Report_2024-25.pdf) — no filing/grant statistic is asserted in this file.
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current/dated development.
 > *Companion: `advanced/17_Intellectual-Property-Rights-and-Patents.md`.*
 
@@ -29,29 +30,50 @@
 | ✅ **Inventive step** | Technical advance or economic significance that makes the invention non-obvious to a person skilled in the art. |
 | ✅ **Trademark** | Sign capable of graphic representation and of distinguishing the goods or services of one person from those of others. |
 | ✅ **Geographical Indication (GI)** | Indication identifying goods as originating in a territory/region/locality where a given quality, reputation or characteristic is essentially attributable to that origin. |
-| ✅ **Section 3(d)** | Patent-law filter that blocks mere new forms/new uses of known substances unless enhanced efficacy is shown. |
-| ✅ **Compulsory licence** | Statutory authorization to use a patent without ordinary voluntary licence, subject to legal grounds and conditions. |
+| ✅ **Section 3(d)** | Patentability filter with two distinct limbs. First, **mere discovery of a new property or new use of a known substance, or of the mere use of a known process/machine/apparatus, is not an invention at all**. Second, a **new form of a known substance** (salt, ester, polymorph, isomer, metabolite, particle size, etc.) is not patentable **unless it differs significantly in properties with regard to efficacy** — with efficacy read as *therapeutic* efficacy in *Novartis v. Union of India* (2013). ⚠️ Enhanced efficacy rescues a **new form**; it does not rescue a **new use**. |
+| ⚠️ **Section 3(b)** | Excludes inventions whose primary or intended use would be contrary to public order or morality, or cause serious prejudice to human, animal or plant life or health or to the environment. |
+| ⚠️ **Section 3(j)** | Excludes **plants and animals in whole or any part thereof (other than micro-organisms), including seeds, varieties and species, and essentially biological processes** for their production. This is the provision that pushes plant-variety protection out of patent law and into the PPV&FR Act — directly relevant to the 2024 PYQ on IPR and "life materials." |
+| ✅ **Compulsory licence** | Statutory authorization to use a patent without a voluntary licence. **Section 84** allows an application **after three years from grant** on any of three grounds — reasonable requirements of the public not satisfied, the invention not available at a reasonably affordable price, or the invention not worked in India. **Section 92** permits government-notified compulsory licences in circumstances of national emergency, extreme urgency or public non-commercial use. India's only granted s.84 licence to date was **Natco v. Bayer (2012, sorafenib/Nexavar)**. |
+| ⚠️ **Section 107A (Bolar exemption + parallel import)** | Permits making/using/selling a patented invention **solely for uses reasonably related to development and submission of regulatory information**, so generic makers can be ready on patent expiry; it also permits importation from a person duly authorised under the law to produce and sell the product. |
+| ⚠️ **Pre-grant and post-grant opposition** | **Section 25(1)** allows *any person* to oppose before grant; **Section 25(2)** allows an *interested person* to oppose within one year of grant. This two-stage opposition system is a distinctive feature of Indian patent law and a key public-health safeguard. |
+| ⚠️ **Product vs process patent** | India granted only **process** patents in pharmaceuticals, food and chemicals from 1970, which built the generics industry. **Product patents were restored from 1 January 2005** under TRIPS, with s.3(d), compulsory licensing and oppositions retained as balancing devices. |
 | ✅ **PCT** | WIPO-administered filing system for international patent applications; it is a filing route, not a global patent grant. |
-| ✅ **TRIPS** | WTO agreement setting minimum standards for intellectual-property protection and flexibilities. |
+| ✅ **TRIPS** | WTO agreement setting minimum standards for intellectual-property protection and flexibilities; the **Doha Declaration on TRIPS and Public Health (2001)** affirmed members' right to grant compulsory licences and determine the grounds for them. |
+
+**The five statutes and the treaties (do not merge them):**
+
+| Right | Indian statute | Term | Character |
+|---|---|---|---|
+| ⚠️ Patent | Patents Act, 1970 | 20 years from filing | Time-bound monopoly over an invention |
+| ⚠️ Trademark | Trade Marks Act, 1999 | 10 years, indefinitely renewable | Brand identifier, potentially perpetual |
+| ⚠️ Geographical Indication | GI of Goods (Registration and Protection) Act, 1999 | 10 years, renewable | **Collective, place-based** right; cannot be assigned or licensed to an outsider |
+| ⚠️ Copyright | Copyright Act, 1957 | Generally life of author + 60 years | Automatic on creation; protects **expression, not ideas** |
+| ⚠️ Industrial design | Designs Act, 2000 | 10 + 5 years | Protects visual appearance, not function |
+| ⚠️ Semiconductor layout-design | Semiconductor Integrated Circuits Layout-Design Act, 2000 | 10 years | *Sui generis* right — the IPR link to Topic 11 |
+| ⚠️ Plant variety + farmers' rights | Protection of Plant Varieties and Farmers' Rights Act, 2001 | Crop-dependent | *Sui generis* TRIPS-compliant alternative to plant patents; **expressly preserves the farmer's right to save, use, sow, exchange and sell farm-saved seed** (not branded seed of a protected variety) |
+
+⚠️ **International instruments:** **Paris Convention** (industrial property, national treatment, priority), **Berne Convention** (copyright), **PCT** (international patent filing), **Madrid Protocol** (international trademark registration), **Budapest Treaty** (deposit of micro-organisms for patent purposes) and **TRIPS** with the **Doha Declaration**. India's **Traditional Knowledge Digital Library (TKDL)**, built by CSIR with the Ministry of Ayush, functions as defensive protection by making prior art searchable to foreign patent offices — the answer to biopiracy cases such as turmeric, neem and basmati.
 
 ## 3. Mechanism / how it works
 
 1. ✅ For a patent in India, the invention must satisfy **novelty, inventive step and industrial applicability**.
-2. ✅ Section 3 of the Patents Act excludes certain subject matter from patentability; Section 3(d) is especially important in pharmaceutical debates.
-3. ✅ A patent application is filed, examined and, if compliant, granted for a time-bound exclusive right.
+2. ✅ Section 3 of the Patents Act excludes certain subject matter from patentability; **s.3(d)** governs new forms/new uses, **s.3(j)** excludes plants, animals and essentially biological processes, and **s.3(b)** covers public order and morality.
+3. ✅ A patent application is filed, published, examined **on request**, opposed if challenged, and, if compliant, granted for **20 years from the date of filing**, subject to annual renewal fees and **Form 27 working statements**.
 4. ✅ A trademark application protects brand-distinguishing signs; registration is renewable in further 10-year blocks.
-5. ✅ A GI application is filed through the GI Registry with proof of geographical link, reputation/quality and producer organization details.
-6. ✅ Under Section 84, compulsory licensing may be sought after three years from grant if public requirements are unmet, price is not reasonably affordable or the invention is not worked in India.
+5. ✅ A GI application is filed through the GI Registry with proof of geographical link, reputation/quality and producer organization details; **registration protects a collective right of producers in the region**, and a separate **authorised-user** registration lets individual producers enforce it.
+6. ✅ Under Section 84, compulsory licensing may be sought after three years from grant if public requirements are unmet, price is not reasonably affordable or the invention is not worked in India; **s.92** covers emergency/public non-commercial use.
 7. ⚠️ UPSC answers should connect IPR with **innovation incentives + public interest + access questions**.
 
 ## 4. Institutions and programmes
 
-- ✅ **CGPDTM:** Controller General of Patents, Designs and Trade Marks; umbrella IP-office authority.
+- ✅ **CGPDTM (Office of the Controller General of Patents, Designs and Trade Marks):** administers **patents, designs, trade marks and geographical indications**. ⚠️ It does **not** administer copyright (Copyright Office, under DPIIT) or plant varieties (**PPV&FR Authority**, under the Ministry of Agriculture). Do not describe it as the umbrella authority for all IP.
 - ✅ **Patent Office / Trade Marks Registry / GI Registry:** administrative arms under the IP India architecture.
 - ✅ **GI Registry, Chennai:** nodal registry for Geographical Indications.
-- ✅ **DPIIT and CIPAM:** policy coordination and implementation support under the National IPR Policy 2016.
-- ✅ **WIPO:** global IP body administering treaties such as the PCT.
-- ✅ **WTO/TRIPS framework:** international rule-setting layer relevant to India’s IP obligations and flexibilities.
+- ✅ **PPV&FR Authority:** registers plant varieties and administers **farmers' rights**, including registration of farmers' varieties and benefit sharing.
+- ✅ **DPIIT and CIPAM:** policy coordination and implementation support under the National IPR Policy 2016; DPIIT is the **policy** ministry, distinct from CGPDTM's **administrative/adjudicatory** function.
+- ✅ **TKDL (CSIR + Ministry of Ayush):** defensive documentation of traditional knowledge to prevent wrongful patent grants abroad.
+- ✅ **WIPO:** global IP body administering treaties such as the PCT, Madrid, Paris, Berne and Budapest — a **UN specialised agency**, not a WTO organ.
+- ✅ **WTO/TRIPS framework:** international rule-setting layer relevant to India’s IP obligations and flexibilities. ⚠️ **WIPO ≠ WTO:** WIPO administers treaties and registries; the WTO enforces TRIPS through dispute settlement.
 
 ## 5. Indian applications, examples and limitations
 
@@ -89,19 +111,22 @@
 - 📰 **18 Jul 2024 | NIPAM event listing on official IP awareness portal | Status: outreach ongoing.** IP awareness sessions continued under the National Intellectual Property Awareness Mission.
 - 📰 **07 Dec 2024 | NIPAM event listing on official IP awareness portal | Status: outreach ongoing.** The IP-awareness architecture remained active beyond one-off campaigns.
 - 📰 **01 Jul 2026 | WIPO PCT Applicant’s Guide India profile validity date | Status: in-force reference material.** WIPO’s India PCT guide remained updated for applicants using the international filing route.
+- 📰 **15-16 Mar 2024 | Patents (Amendment) Rules, 2024 notified.** IP India records the Patents (Amendment) Rules, 2024 dated 15 Mar 2024 and a second amendment dated 16 Mar 2024. ⚠️ **The detailed effects of these Rules could not be extracted from the official PDF at the verification date** — do not assert specific changes (certificate of inventorship, Form 27 frequency, opposition procedure, extensions of time) without reading ipindia.gov.in directly.
+- 📰 **2025 | Global Innovation Index: India ranked 38th** in WIPO's Global Innovation Index 2025. ⚠️ Always cite the **edition year with the rank**; GII rank is among the most frequently mis-stated statistics in S&T answers.
+- ⚠️ **Patent filing/grant statistics:** the CGPDTM Annual Report for **2024-25** exists on ipindia.gov.in but its tables were not machine-readable at the verification date, so **no filing, grant or resident-share figure is asserted here**. Cite the Annual Report directly.
 
-*Current as of 16 Jul 2026; verify for later updates.*
+*Current as of 16 Jul 2026, re-verified 2 Aug 2026; verify for later updates.*
 
 ## 9. PYQ application
 
-- ✅ **2024 GS-III direct PYQ:** IPR concerning life materials and reasons
-  behind low commercialisation of Indian patents. Treat “India is second in
-  filing” as the question's premise, not an undated current statistic. Exact
-  route: `../README.md`.
+- ✅ **2024 GS-III direct PYQ (Q5, 150 words):** "What is the present world scenario of intellectual property rights with respect to life materials? Although India is second in the world to file patents, still only a few have been commercialized. Explain the reasons behind this less commercialization." Route: `../README.md`.
+  - ⚠️ **On "life materials":** the world scenario is a **patchwork**. TRIPS Art. 27.3(b) permits members to exclude plants and animals but requires protection of plant varieties by patents, an effective *sui generis* system, or a combination. India chose the *sui generis* route: **s.3(j)** excludes plants, animals and essentially biological processes from patenting, while the **PPV&FR Act, 2001** protects breeders *and* expressly preserves farmers' seed-saving rights. Micro-organisms remain patentable (Budapest Treaty deposit). Contrast this with jurisdictions permitting broader patenting of isolated genes and life forms, and note the **Nagoya Protocol/Biological Diversity Act** access-and-benefit-sharing overlay and the biopiracy cases (turmeric, neem, basmati) that produced the **TKDL**.
+  - ⚠️ **Reasons for low commercialisation (organise them, do not list randomly):** *research-side* — much filing is defensive or academic, with weak market validation and thin proof-of-concept/prototype funding; *institutional* — under-resourced Technology Transfer Offices, unclear IP-ownership and revenue-sharing norms in publicly funded institutions, and few technology-scouting intermediaries; *industry-side* — limited industry R&D absorption and low corporate demand for university IP; *process-side* — pendency and examination capacity, high maintenance costs for individual and MSME applicants, and the cost of enforcement litigation; *ecosystem* — weak patent-quality culture (quantity-driven incentives), inadequate pilot/scale-up facilities, and limited risk capital for deep-tech.
+  - ⚠️ **Discipline note:** treat "India is second in the world to file patents" as the **question's premise**. Do not assert it as a verified current statistic; the safe move is to answer the commercialisation question directly.
 
-- ⚠️ Prelims often tests **distinctions**: patent vs GI vs trademark, or PCT vs patent grant.
+- ⚠️ Prelims often tests **distinctions**: patent vs GI vs trademark vs copyright vs plant variety, or PCT vs patent grant, or WIPO vs WTO.
 - ⚠️ GS-II/GS-III can ask about the balance between innovation incentives and access to affordable medicines.
-- ⚠️ Section 3(d), compulsory licensing and GI examples are classic UPSC-ready anchor points.
+- ⚠️ Section 3(d), s.3(j), compulsory licensing (s.84 Natco v. Bayer), the Bolar exemption and GI examples are classic UPSC-ready anchor points.
 - ⚠️ Another likely theme is whether India should expand IP protection while still preserving public interest and traditional-product identity.
 
 ## 10. Mains framework / angles

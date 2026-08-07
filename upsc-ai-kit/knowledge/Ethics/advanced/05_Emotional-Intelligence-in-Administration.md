@@ -2,8 +2,9 @@
 
 > **Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV.
 > **Core area:** Emotional intelligence — theoretical models, institutional application and limits.
-> **Grounded in:** Salovey-Mayer ability model; Goleman's competency model; Bar-On's EQ-i model;
-> official UPSC GS-IV syllabus; audited GS-IV PYQs (2024-2025 Mains).
+> **Grounded in:** Salovey-Mayer ability model (1990 definition, 1997 four-branch revision);
+> Goleman's competency model (1995/1998); Bar-On's EQ-i (1997); Hochschild on emotional labour
+> (1983); official UPSC GS-IV syllabus; audited GS-IV PYQs (2013, 2020, 2025 Mains).
 > ✅ = theory-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/05_Emotional-Intelligence-in-Administration.md`.*
 
@@ -34,19 +35,19 @@ also identify EI's dark-side risk (emotional skill used manipulatively rather th
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Ability model** (Salovey-Mayer, 1990) | Treats EI as a genuine cognitive ability with four branches: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion. |
-| ✅ **Mixed/competency model** (Goleman, 1995) | Blends ability with personality/motivational traits into five practical workplace competencies (self-awareness, self-regulation, motivation, empathy, social skill). |
-| ⚠️ **Trait model** (Bar-On's EQ-i) | Treats EI as a constellation of self-perceived emotional/social competencies measurable via self-report — useful for training design, more contested as a predictor of actual behaviour. |
-| ⚠️ **Emotional labour** (Hochschild) | The managed performance of appropriate emotion in a professional role — administratively necessary (a calm counter-clerk) but psychologically costly if sustained without institutional support (burnout risk). |
+| ✅ **Ability model** (Salovey & Mayer, 1990 definition; Mayer & Salovey, 1997 four-branch model) | Treats EI as a genuine cognitive ability. The 1990 paper defines EI as monitoring one's own and others' feelings, discriminating among them, and using that information to guide thinking and action; the 1997 revision sets out the four branches: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion. |
+| ✅ **Mixed/competency model** (Goleman, 1995 book; 1998 HBR formulation) | Blends ability with personality/motivational traits into five practical workplace competencies (self-awareness, self-regulation, motivation, empathy, social skill). |
+| ⚠️ **Trait model** (Bar-On's EQ-i, technical manual 1997) | Treats EI as a constellation of self-perceived emotional and social competencies measured by self-report — useful for training design, more contested as a predictor of actual behaviour, and methodologically different from ability tests such as the MSCEIT. |
+| ⚠️ **Emotional labour** (Hochschild, *The Managed Heart*, 1983) | The managed performance of appropriate emotion in a professional role — administratively necessary (a calm counter-clerk) but psychologically costly if sustained without institutional support (burnout risk). |
 | ⚠️ **EI's dark side** | High social skill and empathic accuracy can be used to manipulate stakeholders (reading their emotional vulnerabilities to extract compliance) rather than to serve them — EI is ethically neutral in itself; its value depends on the user's intent. |
 
 ## 3. Detailed treatment
 
 ### The disaster-leadership case study as an EI stress-test
 
-- ✅ 2025 GS-IV Case Study Q7 places DC "Vijay" in a hill-district disaster (cloudburst, deaths,
-  displaced population) while his mother dies during the crisis and family pressure mounts to
-  travel for the funeral.
+- ✅ 2025 GS-IV Q7 (Section B case study) places DC "Vijay" in a hill-district disaster (cloudburst,
+  more than 200 deaths, about 5,000 injured, road and telecom networks disrupted) while his mother
+  dies during the crisis and family pressure mounts to travel for the last rites.
 - ⚠️ Advanced decomposition using the ability model: **perceiving** his own grief without denial;
   **using** that grief productively (channelling urgency into relief effort rather than paralysis
   or over-reaction); **understanding** the competing emotional claims of his family and his duty;
@@ -64,9 +65,9 @@ also identify EI's dark-side risk (emotional skill used manipulatively rather th
   provide **structural supports** — succession/delegation protocols during crises, peer-support and
   debrief mechanisms after trauma exposure, and rotation policies that prevent chronic burnout in
   high-stress postings (disaster management, law and order, frontline health).
-- ⚠️ Mission Karmayogi's behavioural-competency modules (📰 verify current curriculum specifics
-  independently) represent an attempt to formalise EI-adjacent training, but competency modules
-  alone cannot substitute for structural crisis-management protocols.
+- ⚠️ Mission Karmayogi's behavioural-competency modules on the iGOT-Karmayogi platform (Cabinet
+  approval 2 September 2020) represent an attempt to formalise EI-adjacent training, but competency
+  modules alone cannot substitute for structural crisis-management protocols.
 
 ### The manipulation risk — EI's ethical boundary
 
@@ -106,10 +107,11 @@ also identify EI's dark-side risk (emotional skill used manipulatively rather th
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ Three principal EI models are taught in comparative literature: Salovey-Mayer's ability model,
-  Goleman's mixed/competency model, and Bar-On's trait-based EQ-i model.
-- ✅ Hochschild's concept of "emotional labour" describes the managed performance of role-appropriate
-  emotion, relevant to public-facing administrative roles.
+- ✅ Three principal EI models are taught in comparative literature: the Salovey-Mayer ability model
+  (1990 definition, 1997 four-branch revision), Goleman's mixed/competency model (1995/1998), and
+  Bar-On's trait-based EQ-i (1997).
+- ✅ Hochschild's concept of "emotional labour" (*The Managed Heart*, 1983) describes the managed
+  performance of role-appropriate emotion, relevant to public-facing administrative roles.
 
 ## 8. Advanced Prelims traps
 
@@ -128,14 +130,14 @@ also identify EI's dark-side risk (emotional skill used manipulatively rather th
 
 ## 10. PYQ-based analytical application
 
-- ✅ **2013 GS-IV** directly tests EI's definition, development and role in
+- ✅ **2013 GS-IV Q4** directly tests EI's definition, development and role in
   ethical decisions; distinguish emotional awareness from ethical judgment,
   then show how EI improves perception and self-regulation without itself
   supplying the moral standard.
-- ✅ **2020 GS-IV** directly tests the main EI components and their
+- ✅ **2020 GS-IV Q2(b)** directly tests the main EI components and their
   learnability; use the ability/competency distinction to explain why training
   can improve skills without making every trainee equally proficient.
-- ✅ 2025 GS-IV Case Study Q7 rewards candidates who decompose the DC's dilemma using named EI
+- ✅ 2025 GS-IV Q7 rewards candidates who decompose the DC's dilemma using named EI
   components (self-regulation, empathy, social skill in communicating with family/team) rather than
   a purely narrative, sentiment-laden answer.
 - ⚠️ Cross-reference `22` for the full options-stakeholders-framework-decision architecture to embed

@@ -111,12 +111,18 @@ freedom to decide the next issue independently? — remains constant.
 - ⚠️ **US-Russia hedging as boundary case:** India's deepening defence-technology
   relationship with the US (topic 03) coexists with continuing defence and energy
   ties with Russia (topic 03) — this is the clearest test of whether hedging
-  remains viable as US-Russia tension intensifies; treat as ongoing, not resolved.
+  remains viable as US-Russia tension intensifies. 📰 The 2025-26 sequence is
+  instructive: an additional Russian-oil-linked US duty took effect on 27 August
+  2025 and was removed from 7 February 2026, while the 23rd India-Russia Annual
+  Summit went ahead in New Delhi on 4-5 December 2025 and the ten-year US-India
+  Major Defense Partnership framework was signed on 31 October 2025. ⚠️ Hedging
+  held, but the episode shows its cost is real, priced and third-party imposed.
 - ⚠️ **Gulf energy dependence as a boundary case:** ✅ Sikri notes a Gulf diaspora
   of "5 million" gives India "vital interests in, and considerable influence
   over, this energy-rich region" — energy dependence is simultaneously a source
-  of vulnerability (Economy owns pricing/import-bill mechanics) and of
-  diplomatic leverage through diaspora and investment ties (topic 06).
+  of vulnerability (📰 PPAC records 89.1% crude-oil import dependence in
+  FY2024-25 and FY2025-26 provisional) and of diplomatic leverage through
+  diaspora and investment ties (topic 06).
 - ⚠️ **Central Asia as a constrained-autonomy case:** ✅ Sikri highlights that
   "any energy pipeline from Eurasia to India that does not cross Afghanistan/
   Pakistan has to be routed via Xinjiang and then across the Karakoram and the
@@ -132,7 +138,12 @@ freedom to decide the next issue independently? — remains constant.
 
 - ⚠️ **Hedging is not cost-free:** deepening ties with competing powers
   simultaneously can generate friction with each partner if either perceives the
-  other relationship as encroaching on an exclusive expectation.
+  other relationship as encroaching on an exclusive expectation. 📰 The clearest
+  dated illustration is the additional 25% US duty on specified Indian goods
+  linked to purchases of Russian oil, effective 27 August 2025 and removed from
+  7 February 2026, which India officially called "unjustified and unreasonable"
+  (4 and 6 August 2025) — hedging was sustained, but at a measurable,
+  time-bound market-access cost.
 - ⚠️ **Defence-technology dependence risk:** ✅ Sikri warns explicitly against
   over-reliance, noting it is "highly debatable whether it is wise for India,
   which remains heavily dependent on Russian military equipment, to enmesh its
@@ -165,8 +176,14 @@ freedom to decide the next issue independently? — remains constant.
 - ✅ Tharoor's multi-alignment textually pairs UN with G20, NAM with the
   Community of Democracies, G77 with IOR-ARC, and SAARC with ASEAN-linked
   engagement, as simultaneous, non-exclusive commitments.
-- 📰 The third Voice of Global South Summit (17 August 2024) is the most recent
-  verified example of India-led coalition convening under this framework.
+- 📰 The Voice of Global South Summit has had three editions (12-13 January
+  2023, 17 November 2023 and 17 August 2024), all convened virtually by India —
+  the clearest verified example of India-led coalition convening under this
+  framework.
+- 📰 MAHASAGAR (12 March 2025, Port Louis) restates the autonomy logic in
+  development-partnership form: "trade for development, capacity building for
+  sustainable growth, and mutual security for a shared future," delivered
+  through "technology sharing, concessional loan and grants."
 
 ## 8. Advanced Prelims traps
 
@@ -189,11 +206,12 @@ freedom to decide the next issue independently? — remains constant.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The third Voice of Global South Summit (17 August 2024) remains the most
-  recent verified event anchoring this topic's contemporary relevance; it is
-  referenced in a subsequent MEA bilateral document dated January 2025. Treat any
-  further summit editions or outcomes as requiring their own dated verification
-  before citing.
+- 📰 Two dated anchors carry this topic. The **third Voice of Global South
+  Summit (17 August 2024)** remains the most recent verified India-convened
+  Global South summit (no fourth edition was officially recorded as of 3 August
+  2026), and **MAHASAGAR (12 March 2025)** is the most recent doctrinal
+  articulation of autonomous agenda-setting. Treat any further summit editions
+  or outcomes as requiring their own dated verification before citing.
 
 ## 10. PYQ-based analytical application
 

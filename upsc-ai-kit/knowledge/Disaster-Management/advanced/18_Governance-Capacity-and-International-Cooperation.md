@@ -162,11 +162,26 @@ genuine localisation gap in the governance-accountability chain.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **UNDRR's Sendai Framework Midterm Review Political Declaration
-  (2023)** and the **Disaster Management (Amendment) Act, 2025 (Act 10
-  of 2025)**, in force from 9 April 2025, checked as of 18 July 2026,
-  are the correct current anchors for Sendai-implementation status and
-  India's domestic-governance updates respectively.
+- 📰 **UNDRR's Sendai Framework Midterm Review Political Declaration**
+  (High-Level Meeting, 17-19 May 2023; **UNGA resolution 77/289**) and
+  the **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)**,
+  gazetted 29 March 2025 and in force from 9 April 2025, checked as of
+  18 July 2026, are the correct current anchors for Sendai-implementation
+  status and India's domestic-governance updates respectively.
+- 📰 **Early Warnings for All** (2022; target **2027**; UNDRR, WMO, ITU
+  and IFRC pillars) is the correct anchor for the international
+  early-warning agenda. ⚠️ It is analytically important for a
+  cooperation answer because it is the one post-Sendai initiative with a
+  **date, a lead-agency division of labour and a measurable coverage
+  metric** — and because India, as an established provider of regional
+  warning services (ITEWC serving 26 Indian Ocean-rim countries, topic
+  `06`), is positioned as a contributor rather than only a recipient.
+- 📰 For **CDRI**, cite its own dated publications: **58 member countries
+  and 12 member organisations** as of June 2026, headquartered in New
+  Delhi with international-organisation status from an August 2022
+  Headquarters Agreement, running **IRIS**, the biennial **Global
+  Infrastructure Resilience** report and **DRI Connect**. ⚠️ Membership
+  growth evidences convening power, not resilience outcomes.
 - ❌ Do not present VisionIAS's 2015-2023 event chronology as evidence of
   continued, current cooperation intensity without verification.
 

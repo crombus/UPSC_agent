@@ -32,12 +32,20 @@ understood; here they are sequenced under a clock.
 
 ## 3. ✅ Exam facts / source basis
 
-- ✅ Both audited years require two essays, about 1000–1200 words each,
+- ✅ Both V1 years require two essays, about 1000–1200 words each,
   one from each Section (see `../README.md`).
+- ✅ The 2024 paper prints "(125 × 2 = 250)"; ❌ the locally held 2025
+  copy prints no marks line.
+- ❌ **Neither locally held paper prints a "Time Allowed" header**, so
+  this folder states no duration and no minutes-per-phase figure. ⚠️
+  Confirm the paper's actual duration from the official question paper or
+  your admit card, then convert every proportional split below into
+  minutes yourself. A time plan built on an assumed duration is worse than
+  no plan, because it fails silently.
 - ⚠️ Neither paper prescribes how time should be split across choice,
-  planning, drafting and revision — the time allocations below are a
-  pedagogical starting plan to be adapted after timed practice, not an
-  official UPSC prescription.
+  planning, drafting and revision — the allocations below are a
+  pedagogical starting plan expressed as *shares*, to be adapted after
+  timed practice, not an official UPSC prescription.
 
 ## 4. The central idea and common misreading
 
@@ -50,7 +58,9 @@ clear thesis only after several paragraphs are already drafted.
 
 ## 5. Basic decomposition questions
 
-1. How much total time do I have for both essays combined?
+1. How much total time do I have for both essays combined? (✅ Take this
+   from the official paper/admit card — it is not printed in either
+   locally held copy, so this folder does not supply it.)
 2. How much time will I spend on choice-and-decode versus planning
    versus drafting versus revision, for each essay?
 3. Am I allocating roughly similar planning discipline to both essays,

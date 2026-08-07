@@ -37,6 +37,16 @@ keep for the final thesis (`05`) or how to sequence them into paragraphs
 - **Breadth vs. depth:** the hidden assumption that more dimensions
   signals more depth is false; four shallow dimensions read as thinner
   than two deeply developed ones.
+- **Breadth vs. coherence:** a distinct and more dangerous trade-off than
+  breadth vs. depth. Breadth asks *how many* distinct angles the essay
+  covers; coherence asks whether those angles **build one argument**. An
+  essay can be broad *and* deep and still be incoherent — three
+  well-developed dimensions that never speak to each other are three
+  essays sharing a title. ⚠️ The diagnostic: state each kept dimension's
+  claim in one line, then ask whether the second claim would change if the
+  first were false. If not, you have breadth without coherence, and
+  `07`'s sequencing will not rescue it — the fix belongs here, at
+  selection.
 - **Template completeness vs. relevance:** the assumption that every
   axis (scale/time/domain/distribution) must be represented is false —
   some prompts (e.g. 2025-B5, "muddy water") are richer on the

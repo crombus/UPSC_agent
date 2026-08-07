@@ -55,6 +55,25 @@ a pile of separate computations.
 **A father is thrice his son's age now; in 12 years he will be twice.** Let son `= s`, father `= 3s`.
 `3s + 12 = 2(s + 12)` -> `s = 12`, father `= 36`. **Son 12, father 36.** *(Verified.)*
 
+### 📝 Method 4 - three different "percentages" from one situation
+
+⚠️ When a **rate** applied to a **changing base** moves, there are **three** true percentage answers.
+The options will contain more than one of them.
+
+**A scheme is approved by 30% of 2000 respondents in year 1 and by 36% of 2500 in year 2.**
+
+| Question actually asked | Computation | Answer |
+|---|---|---|
+| Change in the **approval rate**, in percentage points | `36 - 30` | **6 percentage points** |
+| **Percent change** in the approval rate | `(36 - 30)/30` | **20%** |
+| **Percent change** in the **number** of approvers | `600 -> 900`, `(900 - 600)/600` | **50%** |
+
+*(Verified: `0.30 x 2000 = 600`; `0.36 x 2500 = 900`.)*
+
+- 🔑 **Escalation rule:** underline the noun the stem attaches "%" to - **rate** or **count** - before
+  you compute anything. Then decide whether it wants a **gap** (percentage points) or a **ratio**
+  (percent change).
+
 ## 4. Time-saving techniques (safe conditions)
 
 - ⚠️ **Multiplier chaining** for any sequence of percentage changes. *Safe always.*
@@ -72,12 +91,20 @@ a pile of separate computations.
 - ⚠️ Replacement formula fails if the removed amount **changes** between rounds.
 - ⚠️ A weighted average of two mixtures uses the **volumes taken**, not a plain average, unless the
   volumes are equal.
+- ⚠️ A percentage applied to a **moving base** yields several different true answers - name the base
+  before computing (Method 4).
+- ⚠️ Successive discounts multiply; two discounts of `d1` and `d2` are equivalent to a single
+  `d1 + d2 - d1 d2/100`, never `d1 + d2`.
 
 ## 6. Advanced traps
 
 - ❌ Cutting consumption by `r%` (not `r/(1+r)`) to offset an `r%` price rise. -> Use `r/(1+r)`.
 - ❌ Applying discount on cost price. -> Discount is on marked price.
+- ❌ Adding two successive discounts. -> Multiply the multipliers.
+- ❌ Reporting a **percent change** when the stem asked for **percentage points**, or the reverse.
+  -> Underline the noun before computing.
 - ❌ Averaging two mixture ratios directly. -> Weight by volume.
+- ❌ Averaging two group averages when the groups differ in size. -> Weight by group size.
 - ❌ In ages, writing "+12" on one side only. -> Add the time to **both** ages.
 
 ## 7. Error analysis
@@ -86,25 +113,38 @@ a pile of separate computations.
 |---|---|---|
 | Wrong base for %/discount | C | Label CP/MP/SP before writing a multiplier. |
 | Adding percentages | A | Always chain multipliers. |
+| Percentage point vs percent | R | Underline "rate" or "count" in the stem first. |
 | Age-equation sign slips | A | Tabulate ages at each time point. |
 | Mixture weighting | X | Use volume x fraction, then divide by total volume. |
 
 ## 8. Advanced drill (with full solutions)
 
+> ⚠️ These items are **new** - they do not repeat Methods 1-4 above or the Foundation file.
+
 1. To keep expenditure unchanged after a 25% price rise, by what % must consumption fall?
 2. Vessel 1 has milk : water = 3 : 1; vessel 2 has 5 : 2. Equal volumes are mixed. Find the new milk :
    water ratio.
-3. From 40 L milk, 8 L is drawn off and replaced with water three times. How much milk remains?
-4. An item marked up 40% is sold at 25% discount. Find the profit percentage.
-5. A father is thrice as old as his son now and twice as old in 12 years. Find their present ages.
+3. A trader marks goods 25% above cost and then allows two successive discounts of 10% and 4%. Find
+   the profit percentage.
+4. From 40 L of pure milk, 10 L is drawn off and replaced with water; this is done **twice**. How much
+   milk remains?
+5. A class of 50 averages 60 marks. The 30 boys average 56. Find the girls' average.
+6. An article sold at a 20% loss would have yielded a 10% gain had the selling price been 300 higher.
+   Find the cost price.
 
 **Solutions.**
 
-1. **20%.** `25/(100 + 25) = 25/125 = 20%`. *(Verified.)*
+1. **20%.** `25/(100 + 25) = 25/125 = 20%`. *(Verified.)* ⚠️ Not 25% - the base changed.
 2. **41 : 15.** Milk fraction `= (3/4 + 5/7)/2 = 41/56`; water `= 15/56`. *(Verified.)*
-3. **20.48 L.** `40 x (4/5)^3 = 20.48`. *(Verified.)*
-4. **5% profit.** `1.4 x 0.75 = 1.05`. *(Verified.)*
-5. **Son 12, father 36.** From `3s + 12 = 2(s + 12)`. *(Verified.)*
+3. **8% profit.** Chain the multipliers on **CP**: `1.25 x 0.90 x 0.96 = 1.08`. *(Verified.)*
+   ⚠️ The two discounts are **both on the marked price**, so they multiply (`0.90 x 0.96 = 0.864`);
+   adding them to "14%" would give a wrong 7.5%.
+4. **22.5 L.** `40 x (1 - 10/40)^2 = 40 x (3/4)^2 = 40 x 9/16 = 22.5`. *(Verified.)* The formula holds
+   because the **same** 10 L is removed each round.
+5. **66.** Total `= 50 x 60 = 3000`; boys `= 30 x 56 = 1680`; girls' total `= 1320` over 20 girls
+   `= 66`. *(Verified.)* ⚠️ The plain mean of 56 and 60 is meaningless here - the groups differ in size.
+6. **1000.** `0.8C + 300 = 1.1C` -> `0.3C = 300` -> `C = 1000`. *(Verified: SP at 20% loss = 800;
+   800 + 300 = 1100 = 1.1 x 1000.)*
 
 ## 9. PYQ-pattern notes (2024-2026, Set A)
 

@@ -1,0 +1,144 @@
+# SANSKRIT AND PALI TERMS — IAST, SCRIPT AND EXAM MEANING
+
+> **Use:** spelling and recall authority for Indian Philosophy and Philosophy of Religion.
+> Owner files remain controlling for doctrine. **IAST** is used in answers because it is readable
+> in Roman script; Devanāgarī is supplied here for exact recognition. A `❓` elsewhere in this
+> knowledge base means a disputed interpretation or uncertain printed wording—it never stands
+> for a missing Sanskrit character.
+
+## 1. Epistemology and logic
+
+| IAST | Devanāgarī | Exam meaning |
+|---|---|---|
+| pramā | प्रमा | valid cognition |
+| pramāṇa | प्रमाण | means/source of valid cognition |
+| pratyakṣa | प्रत्यक्ष | perception |
+| anumāna | अनुमान | inference |
+| upamāna | उपमान | comparison |
+| śabda | शब्द | verbal testimony |
+| arthāpatti | अर्थापत्ति | postulation/presumption |
+| anupalabdhi | अनुपलब्धि | non-apprehension as knowledge of absence |
+| vyāpti | व्याप्ति | invariable concomitance |
+| pakṣa | पक्ष | minor term or subject of inference |
+| hetu | हेतु | reason/middle term |
+| sādhya | साध्य | probandum/major term |
+| pañcāvayava | पञ्चावयव | five-membered Nyāya inference |
+| āpta | आप्त | trustworthy speaker |
+| svataḥ-prāmāṇya | स्वतःप्रामाण्य | intrinsic validity of cognition |
+| parataḥ-prāmāṇya | परतःप्रामाण्य | extrinsic ascertainment of validity |
+| svayaṃprakāśa | स्वयंप्रकाश | self-manifesting cognition/consciousness |
+| nirvikalpaka | निर्विकल्पक | indeterminate/non-conceptual perception |
+| savikalpaka | सविकल्पक | determinate/qualified perception |
+| abhāva | अभाव | absence/non-existence |
+| anyathākhyāti | अन्यथाख्याति | Nyāya theory of error |
+| akhyāti | अख्याति | Prābhākara theory of error |
+| viparītakhyāti | विपरीतख्याति | Kumārila's misapprehension theory |
+| anirvacanīyakhyāti | अनिर्वचनीयख्याति | Advaita theory of indeterminable error |
+
+## 2. Metaphysics, causation and categories
+
+| IAST | Devanāgarī | Exam meaning |
+|---|---|---|
+| padārtha | पदार्थ | category/object denoted by a word |
+| dravya | द्रव्य | substance |
+| guṇa | गुण | quality; in Sāṃkhya, constituent tendency |
+| karma | कर्म | action; also morally efficacious deed |
+| sāmānya | सामान्य | universal |
+| viśeṣa | विशेष | ultimate particularity |
+| samavāya | समवाय | inherence |
+| saṃyoga | संयोग | conjunction |
+| satkāryavāda | सत्कार्यवाद | effect pre-exists in its cause |
+| asatkāryavāda | असत्कार्यवाद | effect does not pre-exist in its cause |
+| ārambhavāda | आरम्भवाद | production as a new beginning |
+| pariṇāmavāda | परिणामवाद | real transformation |
+| vivartavāda | विवर्तवाद | apparent transformation |
+| pratītyasamutpāda | प्रतीत्यसमुत्पाद | dependent origination |
+| kṣaṇikavāda | क्षणिकवाद | doctrine of momentariness |
+| anekāntavāda | अनेकान्तवाद | many-sidedness of reality |
+| syādvāda | स्याद्वाद | doctrine of conditional predication |
+| saptabhaṅgīnaya | सप्तभङ्गीनय | sevenfold conditional judgement |
+
+## 3. Self, mind, bondage and liberation
+
+| IAST | Devanāgarī | Exam meaning |
+|---|---|---|
+| ātman | आत्मन् | self |
+| anātman / nairātmyavāda | अनात्मन् / नैरात्म्यवाद | no permanent self / doctrine of no-self |
+| jīva | जीव | living individual self |
+| puruṣa | पुरुष | pure consciousness in Sāṃkhya-Yoga |
+| prakṛti | प्रकृति | primordial material nature |
+| citta | चित्त | mind-stuff/mental field |
+| cittavṛtti | चित्तवृत्ति | modification of mind |
+| kleśa | क्लेश | affliction |
+| avidyā | अविद्या | ignorance |
+| adhyāsa | अध्यास | superimposition |
+| bandha | बन्ध | bondage |
+| mokṣa | मोक्ष | liberation |
+| apavarga | अपवर्ग | Nyāya-Vaiśeṣika liberation |
+| kaivalya | कैवल्य | isolation/liberation in Sāṃkhya-Yoga; perfected state in Jain usage |
+| nirvāṇa | निर्वाण | cessation/liberation in Buddhism |
+| jīvanmukti | जीवन्मुक्ति | liberation while living |
+| videhamukti | विदेहमुक्ति | liberation after bodily death |
+| samādhi | समाधि | meditative absorption |
+| samprajñāta-samādhi | सम्प्रज्ञातसमाधि | cognitive absorption |
+| asamprajñāta-samādhi | असम्प्रज्ञातसमाधि | supra-cognitive absorption |
+| vivekakhyāti | विवेकख्याति | discriminative knowledge |
+| īśvara-praṇidhāna | ईश्वरप्रणिधान | devotion/surrender to Īśvara |
+
+## 4. Vedānta
+
+| IAST | Devanāgarī | Exam meaning |
+|---|---|---|
+| Brahman | ब्रह्मन् | ultimate reality |
+| Īśvara | ईश्वर | Lord/God |
+| jagat | जगत् | world |
+| māyā | माया | Advaita principle of dependent appearance; neither absolutely real nor sheer non-being |
+| nāma-rūpa | नामरूप | name and form |
+| sākṣin / sākṣī | साक्षिन् / साक्षी | witnessing consciousness |
+| mahāvākya | महावाक्य | great Upaniṣadic sentence |
+| tat tvam asi | तत्त्वमसि | “That thou art” |
+| ahaṃ brahmāsmi | अहं ब्रह्मास्मि | “I am Brahman” |
+| apṛthaksiddhi | अपृथक्सिद्धि | inseparable existence/relationship in Viśiṣṭādvaita |
+| pañcavidhabheda | पञ्चविधभेद | Madhva's five eternal differences |
+| dvaitādvaita | द्वैताद्वैत | difference-and-non-difference |
+| śuddhādvaita | शुद्धाद्वैत | pure non-dualism |
+| acintyabhedābheda | अचिन्त्यभेदाभेद | inconceivable difference-and-non-difference |
+| saguṇa Brahman | सगुण ब्रह्मन् | Brahman with attributes |
+| nirguṇa Brahman | निर्गुण ब्रह्मन् | Brahman beyond limiting attributes |
+
+## 5. Schools, thinkers and practice
+
+| IAST | Devanāgarī | Exam meaning |
+|---|---|---|
+| Cārvāka | चार्वाक | materialist/empiricist school |
+| Jaina | जैन | Jain tradition |
+| Nyāya | न्याय | logic and epistemological realism |
+| Vaiśeṣika | वैशेषिक | categorical and atomistic realism |
+| Sāṃkhya | सांख्य | dualism of puruṣa and prakṛti |
+| Yoga | योग | disciplined cessation of mental modifications |
+| Mīmāṃsā | मीमांसा | Vedic exegesis and theory of knowledge |
+| Vedānta | वेदान्त | schools interpreting the Upaniṣadic end of the Veda |
+| Śaṅkara | शङ्कर | Advaita Vedānta |
+| Rāmānuja | रामानुज | Viśiṣṭādvaita Vedānta |
+| Madhva | मध्व | Dvaita Vedānta |
+| Nimbārka | निम्बार्क | Dvaitādvaita Vedānta |
+| Vallabha | वल्लभ | Śuddhādvaita Vedānta |
+| Patañjali | पतञ्जलि | classical Yoga systematizer |
+| Īśvara | ईश्वर | special puruṣa in classical Yoga; God/Lord in other systems |
+| ahiṃsā | अहिंसा | non-violence |
+| bhakti | भक्ति | devotion |
+| jñāna | ज्ञान | knowledge |
+| prapatti | प्रपत्ति | surrender |
+
+## 6. Pali forms often encountered
+
+| Pali | Script | Sanskrit/English relation |
+|---|---|---|
+| anattā | अनत्ता | Sanskrit *anātman*; no permanent self |
+| dukkha | दुक्ख | Sanskrit *duḥkha*; suffering/unsatisfactoriness |
+| nibbāna | निब्बान | Sanskrit *nirvāṇa* |
+| paṭiccasamuppāda | पटिच्चसमुप्पाद | Sanskrit *pratītyasamutpāda* |
+
+> **Answer-writing rule:** use one form consistently. IAST is sufficient in the UPSC answer;
+> Devanāgarī is optional. Never mix a Pali form and a Sanskrit form as if they were different
+> doctrines.

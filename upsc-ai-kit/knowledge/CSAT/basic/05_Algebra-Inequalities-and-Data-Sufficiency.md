@@ -26,38 +26,72 @@
 **Core proposition:** data sufficiency tests a **decision** ("is the information enough?"), not a
 computation - the fastest solvers often **never** find the value.
 
-## 2. The UPSC data-sufficiency format (learn it exactly)
+## 2. The UPSC data-sufficiency format (read it, do not recall it)
 
-✅ A CSAT data-sufficiency item gives a **Question** followed by two **Statements I and II**, and asks
-you to choose:
+✅ A CSAT data-sufficiency item gives a **Question** followed by two **Statements I and II**. The
+first three options are stable across the audited papers; **the fourth is not**.
 
-| Option | Meaning |
+| Option | Meaning (stable across 2024, 2025 and 2026 Set A) |
 |---|---|
 | **(a)** | Answerable using **one** statement alone, but **not** the other alone. |
 | **(b)** | Answerable using **either** statement alone. |
 | **(c)** | Answerable using **both** statements **together**, but not either alone. |
-| **(d)** | **Cannot** be answered even using both statements together. |
+| **(d)** | ⚠️ **Varies - read it.** See the table below. |
+
+### ⚠️ The fourth option is not a fixed template
+
+| Audited paper | Printed wording of (d) | What it means |
+|---|---|---|
+| 2024 Set A (per item) | "The Question **cannot** be answered even by using both the Statements together" | Nothing works. |
+| 2025 Set A (some items) | "The Question **cannot** be answered even using any of the Statements" | Nothing works. |
+| 2025 Set A (other items) | "The Question **can** be answered even **without** using any of the Statements" | The **question alone is self-sufficient**. |
+| 2026 Set A (shared block of 5) | "the question cannot be answered even using any of the statements" | Nothing works. |
+
+- ✅ **Both 2025 variants appear in the same paper.** Two of the five audited 2025 data-sufficiency
+  items print the "cannot" form and three print the "even without" form.
+- 🔑 **Consequence:** a candidate who marks (d) from memory as "nothing works" will mark the exact
+  opposite verdict on a "can be answered without any statement" item. **Always read (d) before
+  deciding.**
+- ✅ **Layout also differs:** 2024 and 2025 repeat the directions and all four options **inside every
+  item**; 2026 prints them **once** above a block of five items. In 2026 you must scroll back to the
+  block header to see what (d) says.
 
 > 🔑 **DS discipline:** test **Statement I alone**, then **Statement II alone**, and only then **both
-> together**. Do the value-finding **only** far enough to see whether the answer is **unique**.
+> together** - but before any of that, check whether the **question is already answerable on its own**,
+> because in this paper that can be a live option. Do the value-finding **only** far enough to see
+> whether the answer is **unique**.
+
+### Necessary vs sufficient (the distinction the format is built on)
+
+| Term | Test | In a DS item |
+|---|---|---|
+| ✅ **Sufficient** | Having it **settles** the question. | A statement is "sufficient" only if it forces **exactly one** answer. |
+| ✅ **Necessary** | The conclusion **cannot hold without** it. | A statement can be necessary yet insufficient - it narrows without pinning. |
+
+- ⚠️ In `A -> B`: A is **sufficient** for B; B is **necessary** for A. They are not interchangeable,
+  and a statement that is merely necessary is **not** enough to mark (a) or (b).
 
 ## 3. Essential algebra and inequality facts
 
-| Tool | Rule |
-|---|---|
-| ✅ **Linear solve** | Isolate the variable; one equation fixes one unknown. |
-| ✅ **Two unknowns** | Need **two independent** equations; a multiple of one is not independent. |
-| ✅ **Inequality flip** | Multiplying/dividing by a **negative** reverses the inequality sign. |
-| ✅ **Quantitative comparison** | Reduce both quantities to the **same base/form** before comparing. |
-| ✅ **Sum-difference** | Two numbers with sum `S`, difference `D`: they are `(S+D)/2` and `(S-D)/2`. |
+| Tool | Rule | Edge condition |
+|---|---|---|
+| ✅ **Linear solve** | Isolate the variable; one equation fixes one unknown. | Only if the coefficient is non-zero. |
+| ✅ **Two unknowns** | Need **two independent** equations; a multiple of one is not independent. | Inconsistent pairs give **no** solution; dependent pairs give **many**. Both block a unique answer. |
+| ✅ **Inequality flip** | Multiplying/dividing by a **negative** reverses the sign. | Adding/subtracting **never** flips it. |
+| ✅ **Dividing by a variable** | Only legal if you know it is non-zero. | If its **sign** is unknown, the inequality direction is unknown too - split into cases. |
+| ✅ **Squaring to compare** | `a > b >= 0  =>  a^2 > b^2`. | Fails if either side may be negative. |
+| ✅ **Quantitative comparison** | Reduce both quantities to the **same base/form** before comparing. | `x^m` vs `x^n` reverses for `0 < x < 1`. |
+| ✅ **Sum-difference** | Two numbers with sum `S`, difference `D`: they are `(S+D)/2` and `(S-D)/2`. | Integer answers need `S` and `D` of the same parity. |
 
 ## 4. Method
 
 1. **Solve items:** translate each sentence to one equation; count unknowns vs independent equations.
 2. **Inequality/QC items:** rewrite both sides in a comparable form (same base, same power); watch the
    sign rule.
-3. **DS items:** apply the four-option test - I alone, II alone, both - stopping at **uniqueness**, not
-   the value.
+3. **DS items - in this order:**
+   1. **Read the four printed options**, especially (d).
+   2. Ask whether the **question alone** already pins the answer (a live verdict in this paper).
+   3. Test **I alone**, then **II alone**, then **both** - stopping at **uniqueness**, not the value.
 
 ## 5. Original solved examples
 
@@ -93,27 +127,58 @@ Statement II: n + 1 is odd.
 I alone -> n^2 even forces n even (sufficient). II alone -> n+1 odd forces n even (sufficient). Each
 works alone. **Answer: (b).**
 
+### 📝 Example F (the self-sufficient question - the 2025 fourth-option variant)
+
+**Question:** What is the smallest **two-digit** number having exactly **three** distinct factors?
+Statement I: the number is odd.
+Statement II: the number is divisible by 5.
+
+A number has exactly three distinct factors only if it is the **square of a prime** (`1, p, p^2`).
+Two-digit prime squares are `25` and `49`, so the smallest is **25** - and that came from the
+**question alone**. Statement I is true of 25 and Statement II is true of 25, but **neither was
+needed**.
+
+**Verdict:** the question is answerable **without** either statement. Under the 2025-style fourth
+option ("The Question can be answered even **without** using any of the Statements") that is **(d)**.
+Under a 2024-style fourth option ("cannot be answered even by using both together") the same
+reasoning would make (d) **wrong** and the printed set would have to be re-read.
+*(Verified: divisors of 25 = {1, 5, 25}; of 49 = {1, 7, 49}; no smaller two-digit number has exactly
+three.)*
+
+> 🔑 **This is the whole lesson of Section 2:** the same reasoning maps to different letters depending
+> on what is printed. Solve the logic, then read the label.
+
 ## 6. Must-Know facts
 
 - ✅ Two independent linear equations are needed to pin two unknowns; `2x + 4y = 20` adds **nothing** to
   `x + 2y = 10`.
-- ✅ In DS, a statement is "sufficient" only if it yields a **single** answer.
+- ✅ In DS, a statement is "sufficient" only if it yields a **single** answer; a statement that merely
+  narrows the field is **necessary at best**, never sufficient.
+- ✅ **Sufficiency is about the answer, not about the arithmetic.** Never finish the calculation.
 - ✅ Reversing an inequality happens on multiply/divide by a negative - **not** on adding a negative.
+  Adding the same quantity to both sides never flips the sign.
+- ✅ Squaring both sides preserves order **only when both sides are non-negative**.
 - ✅ For QC, common tricks: equalise exponents, take roots, or compare ratios.
 
 ## 7. Common traps
 
 - ❌ Computing the value in a DS item when you only need "is it unique?". -> Stop at uniqueness.
+- ❌ **Marking (d) from memory.** -> The printed (d) differs between the audited years and even
+  between items of the same 2025 paper; read it.
+- ❌ Missing that the **question alone** may already be answerable. -> Check that first.
 - ❌ Treating a scaled copy of an equation as new information. -> It is dependent.
+- ❌ Confusing **necessary** with **sufficient** ("n is even" is necessary for "n is a multiple of 6",
+  but nowhere near sufficient). -> Ask which direction the arrow points.
 - ❌ Forgetting to flip the inequality on a negative multiplier. -> Flip the sign.
 - ❌ In DS, checking "both together" **before** testing each alone. -> Test each alone first (it may be
   (a) or (b)).
-- ❌ Assuming "cannot be found" without trying **both together**. -> (d) requires both to fail.
+- ❌ Assuming "cannot be found" without trying **both together**. -> That verdict requires both to fail.
 
 ## 8. Quick checks
 
-- ✅ Can you recite the four DS options and their exact meanings?
+- ✅ Can you state options (a), (b) and (c) - and did you just **read** (d) off the paper?
 - ✅ Do you test I alone and II alone **before** combining?
+- ✅ Can you say which of two conditions is necessary and which is sufficient?
 - ✅ Can you compare `a^m` and `b^n` by equalising exponents?
 
 ## 9. Mini-drill (with answers and explanations)
@@ -124,6 +189,10 @@ works alone. **Answer: (b).**
    its digits is 9.
 4. **DS.** Question: What is x? I: `3x = 12`. II: `x + 7 = 11`.
 5. Two numbers have sum 30 and difference 8. Find them.
+6. For the claim "`n` is a multiple of 12", is "`n` is even" **necessary**, **sufficient**, both, or
+   neither?
+7. **DS.** Question: What is the smallest integer greater than 1 that is both a perfect square and a
+   perfect cube? I: it is even. II: it is less than 100.
 
 **Answers.**
 
@@ -134,6 +203,12 @@ works alone. **Answer: (b).**
    9 and 0), unique. So one statement (II) alone answers it but not the other. *(Verified: only 90.)*
 4. **(b).** I alone -> x = 4; II alone -> x = 4. Either works. *(Verified.)*
 5. **19 and 11.** `(30±8)/2`. *(Verified.)*
+6. **Necessary but not sufficient.** Every multiple of 12 is even, so evenness cannot be dropped; but
+   14 is even and not a multiple of 12, so evenness does not settle it. *(Verified counter-example.)*
+7. **The question is self-sufficient.** A number that is both a square and a cube is a **6th power**;
+   the smallest above 1 is `2^6 = 64`. Neither statement was used - both merely happen to be true of
+   64. Under the 2025-style fourth option that is **(d)**; under a 2024-style fourth option it is not,
+   so **read the printed options** before marking. *(Verified: `64 = 8^2 = 4^3`; next is `3^6 = 729`.)*
 
 ## 10. Study links
 

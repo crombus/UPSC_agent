@@ -101,19 +101,32 @@ India does not control.
 - ✅ **SCO:** the broad multilateral body through which India engages Central
   Asia alongside China, Russia and Pakistan; India's full membership (since
   2017) provides a seat but not privileged influence given the mixed membership.
-- ⚠️ **India-Central Asia Dialogue/Summit:** the more direct, region-specific
-  mechanism, used for connectivity, counter-terrorism and cultural cooperation
-  commitments distinct from SCO's broader agenda.
-- ⚠️ **INSTC and Chabahar port:** connectivity frameworks under continuing
-  development; their capacity and reliability depend partly on Iran-related
-  geopolitics (West Asia, topic 06) — treat as evolving infrastructure, not
-  completed high-capacity corridors.
-- 📰 **India-Uzbekistan bilateral brief (August 2025):** the most recent dated
-  bilateral-relationship record within the region.
-- ⚠️ **Proposed Comprehensive Economic Cooperation Agreement:** an economic-
-  integration instrument proposed by India for the Eurasian space; treat its
-  status (proposed vs. concluded) carefully and do not assert conclusion without
-  a specific dated source.
+  📰 The 2025 summit at Tianjin (31 August-1 September 2025) adopted the Tianjin
+  Declaration; Kyrgyzstan chairs for 2025-26. ⚠️ Pakistan and Iran are now full
+  members, not observers — Sikri's observer list is period-specific.
+- 📰 **India-Central Asia Summit and Dialogue:** the more direct,
+  region-specific mechanism — first Summit 27 January 2022 (virtual); fourth
+  India-Central Asia Dialogue, New Delhi, 6 June 2025, which envisaged
+  preparing the ground for a second summit; third meeting of Secretaries of
+  Security Councils/NSAs, Bishkek, 16 October 2025. ⚠️ No second leader-level
+  summit was officially recorded as held by 3 August 2026 — a candid indicator
+  that the dedicated format has not yet institutionalised at leader level.
+- 📰 **INSTC and Chabahar port:** connectivity frameworks under continuing
+  development. The 10-year Chabahar contract between India Ports Global Limited
+  and Iran's Ports and Maritime Organisation was signed 13 May 2024, with
+  roughly USD 120 million in announced equipment investment and a USD 250
+  million credit window; ⚠️ the US revoked the 2018 Chabahar sanctions waiver on
+  16 September 2025, effective 29 September 2025, with a Treasury assurance of
+  non-exposure running only to 26 April 2026. ⚠️ This is exposure created by a
+  third state's domestic law, not a legal obligation on India — but it is a real
+  constraint on the Iran work-around's financeability.
+- 📰 **India-Uzbekistan bilateral brief (as on April 2026):** the most recent
+  dated bilateral-relationship record within the region.
+- 📰 **India-Eurasian Economic Union free-trade negotiation:** the current form
+  of the "Comprehensive Economic Cooperation Agreement" proposal — negotiations
+  formally began on 3 June 2017 at St Petersburg and the second round was held
+  in Moscow on 22-25 June 2026. ⚠️ Under negotiation; do not assert conclusion
+  or entry into force.
 
 ## 5. Indian applications and boundary cases
 
@@ -165,11 +178,14 @@ India does not control.
 - ✅ Sikri explicitly recommends India-China cooperative "understanding" on
   energy sourcing, arguing that competition between the two "only benefit[s]"
   producer states.
-- ✅ Pakistan, Iran and Mongolia hold or have held SCO observer status;
-  Turkmenistan and Afghanistan are neither members nor observers but retain an
-  interest in the organisation.
-- 📰 The India-Uzbekistan bilateral brief was most recently updated in August
-  2025.
+- 📰 The SCO has 10 full members, 2 observers (Afghanistan, Mongolia) and 15
+  dialogue partners; Pakistan (2017), Iran (2023) and Belarus (2024) are full
+  members. ⚠️ Sikri's account of Pakistan, Iran and Mongolia as observers is
+  period-specific and must be dated when quoted.
+- 📰 The India-Uzbekistan bilateral brief is current as on April 2026; the
+  fourth India-Central Asia Dialogue met in New Delhi on 6 June 2025.
+- 📰 The US Chabahar sanctions waiver was revoked effective 29 September 2025,
+  with non-exposure assurance running to 26 April 2026.
 
 ## 8. Advanced Prelims traps
 
@@ -188,13 +204,23 @@ India does not control.
   constraint. -> These are developing connectivity frameworks whose capacity and
   reliability remain contingent on Iran-related geopolitics; do not assert full
   substitution without dated verification.
+- ❌ The Iran route removed India's dependency problem. -> It substituted a
+  sanctions-exposure dependency for a transit dependency: the 10-year Chabahar
+  contract (13 May 2024) was followed by revocation of the US waiver effective
+  29 September 2025 — a change in a third state's domestic law that India does
+  not control and is not legally bound by, but cannot ignore commercially.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The India-Uzbekistan bilateral brief (August 2025) remains the most recent
-  dated MEA reference for the region; treat any claim about the current status
-  of INSTC, Chabahar or the proposed Comprehensive Economic Cooperation
-  Agreement as requiring separate, dated verification.
+- 📰 The India-Uzbekistan bilateral brief (as on April 2026) remains the most
+  recent dated MEA reference for the region. Two further dated anchors sharpen
+  the analysis: the **fourth India-Central Asia Dialogue (New Delhi, 6 June
+  2025)**, which envisaged a second summit that had not been held by 3 August
+  2026, and the **revocation of the US Chabahar sanctions waiver (effective 29
+  September 2025)**, which converts the Iran work-around from a geographic
+  question into a financing-and-sanctions-exposure question. ⚠️ Treat any claim
+  about current INSTC throughput or the India-EAEU negotiation's outcome as
+  requiring separate, dated verification.
 
 ## 10. PYQ-based analytical application
 

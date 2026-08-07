@@ -1,0 +1,947 @@
+{
+  "summary": {
+    "audited_at": "2026-08-06T06:23:14.857925+05:30",
+    "pdfs": 59,
+    "pages": 867,
+    "read_failures": [],
+    "reliable_pages": 835,
+    "searchable_pages": 854,
+    "unresolved_meaningful_zero_text_pages": 0,
+    "repaired_files": 59,
+    "unchanged_files": 0,
+    "blank_only_files": 0,
+    "searchable_repaired_pages": 789,
+    "ocr_classified_blank_or_decorative_pages": 13,
+    "sparse_but_searchable_meaningful_pages": 19
+  },
+  "books": [
+    {
+      "path": "csp-p1.pdf",
+      "pages": 48,
+      "reliable_pages": 45,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [
+        44,
+        45,
+        46
+      ],
+      "sparse_meaningful_pages": [
+        44,
+        45,
+        46
+      ],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 45,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "csp-p2.pdf",
+      "pages": 48,
+      "reliable_pages": 48,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 48,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "CSP_2020_GS_Paper-1.pdf",
+      "pages": 48,
+      "reliable_pages": 48,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 48,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "CSP_2020_GS_Paper-2.pdf",
+      "pages": 48,
+      "reliable_pages": 45,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [
+        44,
+        45,
+        46
+      ],
+      "sparse_meaningful_pages": [
+        44,
+        45,
+        46
+      ],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 45,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "ENGLISH (1).pdf",
+      "pages": 8,
+      "reliable_pages": 8,
+      "searchable_pages": 8,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 8,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "ENGLISH-COMP_0.pdf",
+      "pages": 8,
+      "reliable_pages": 8,
+      "searchable_pages": 8,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 8,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf",
+      "pages": 8,
+      "reliable_pages": 8,
+      "searchable_pages": 8,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 8,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "English.pdf",
+      "pages": 8,
+      "reliable_pages": 8,
+      "searchable_pages": 8,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 8,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "ESSAY_0.pdf",
+      "pages": 2,
+      "reliable_pages": 2,
+      "searchable_pages": 2,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 2,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "ESSAY_1.pdf",
+      "pages": 2,
+      "reliable_pages": 2,
+      "searchable_pages": 2,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 2,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "Gen_St_P1.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "Gen_St_P2.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "Gen_St_P3.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "Gen_St_P4.pdf",
+      "pages": 12,
+      "reliable_pages": 11,
+      "searchable_pages": 11,
+      "zero_pages": [
+        12
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        12
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 11,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "GENERAL STUDIES PAPER I.pdf",
+      "pages": 48,
+      "reliable_pages": 46,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [
+        45,
+        47
+      ],
+      "sparse_meaningful_pages": [
+        45,
+        47
+      ],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 46,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "GENERAL STUDIES PAPER II.pdf",
+      "pages": 48,
+      "reliable_pages": 44,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "sparse_meaningful_pages": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 44,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "GENERAL-STUDIES-PAPER-I.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "GENERAL-STUDIES-PAPER-II.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "GENERAL-STUDIES-PAPER-III.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "GENERAL-STUDIES-PAPER-IV.pdf",
+      "pages": 11,
+      "reliable_pages": 11,
+      "searchable_pages": 11,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 11,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "HINDI-COMP.pdf",
+      "pages": 7,
+      "reliable_pages": 7,
+      "searchable_pages": 7,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 7,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "HINDI-COMPULSORY-QP-CSM-25-010925.pdf",
+      "pages": 8,
+      "reliable_pages": 7,
+      "searchable_pages": 7,
+      "zero_pages": [
+        8
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        8
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 7,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "HINDI_0 (1).pdf",
+      "pages": 8,
+      "reliable_pages": 7,
+      "searchable_pages": 7,
+      "zero_pages": [
+        8
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        8
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 7,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "Hindi_0.pdf",
+      "pages": 7,
+      "reliable_pages": 7,
+      "searchable_pages": 7,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 7,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-21-ESSAY-110122.pdf",
+      "pages": 2,
+      "reliable_pages": 2,
+      "searchable_pages": 2,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 2,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-21-GENSTUDIESPAPER-I-110122.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf",
+      "pages": 5,
+      "reliable_pages": 5,
+      "searchable_pages": 5,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 5,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf",
+      "pages": 11,
+      "reliable_pages": 11,
+      "searchable_pages": 11,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 11,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-22-ENGLISH-Compl-280922.pdf",
+      "pages": 8,
+      "reliable_pages": 8,
+      "searchable_pages": 8,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 8,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-22-ESSAY-190922.pdf",
+      "pages": 2,
+      "reliable_pages": 2,
+      "searchable_pages": 2,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 2,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf",
+      "pages": 16,
+      "reliable_pages": 15,
+      "searchable_pages": 15,
+      "zero_pages": [
+        16
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        16
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 15,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+      "pages": 6,
+      "reliable_pages": 5,
+      "searchable_pages": 5,
+      "zero_pages": [
+        6
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        6
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 5,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf",
+      "pages": 6,
+      "reliable_pages": 5,
+      "searchable_pages": 5,
+      "zero_pages": [
+        6
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        6
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 5,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-22-HINDI-Compl-280922.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+      "pages": 8,
+      "reliable_pages": 8,
+      "searchable_pages": 8,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 8,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-23-ESSAY-180923 (1).pdf",
+      "pages": 4,
+      "reliable_pages": 3,
+      "searchable_pages": 3,
+      "zero_pages": [
+        4
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        4
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 3,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-23-ESSAY-180923.pdf",
+      "pages": 4,
+      "reliable_pages": 3,
+      "searchable_pages": 3,
+      "zero_pages": [
+        4
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        4
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 3,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf",
+      "pages": 16,
+      "reliable_pages": 15,
+      "searchable_pages": 15,
+      "zero_pages": [
+        16
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        16
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 15,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+      "pages": 8,
+      "reliable_pages": 7,
+      "searchable_pages": 7,
+      "zero_pages": [
+        8
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        8
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 7,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM19-EnglishCompulsory.pdf",
+      "pages": 8,
+      "reliable_pages": 8,
+      "searchable_pages": 8,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 8,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM19-Essay.pdf",
+      "pages": 2,
+      "reliable_pages": 2,
+      "searchable_pages": 2,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 2,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM19-GeneralStudies-I.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM19-GeneralStudies-II.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM19-GeneralStudies-III.pdf",
+      "pages": 4,
+      "reliable_pages": 4,
+      "searchable_pages": 4,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 4,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM19-GeneralStudies-IV.pdf",
+      "pages": 8,
+      "reliable_pages": 7,
+      "searchable_pages": 7,
+      "zero_pages": [
+        8
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        8
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 7,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSM19-HindiCompulory.pdf",
+      "pages": 8,
+      "reliable_pages": 7,
+      "searchable_pages": 7,
+      "zero_pages": [
+        8
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        8
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 7,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSP-18-GS-I-C.pdf",
+      "pages": 48,
+      "reliable_pages": 48,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 48,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSP-18-GS-II-C.pdf",
+      "pages": 48,
+      "reliable_pages": 44,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "sparse_meaningful_pages": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 44,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+      "pages": 48,
+      "reliable_pages": 45,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [
+        44,
+        45,
+        46
+      ],
+      "sparse_meaningful_pages": [
+        44,
+        45,
+        46
+      ],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 45,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP-CSP-21-GeneralStudiesPaper-II-121021.pdf",
+      "pages": 48,
+      "reliable_pages": 48,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 48,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP_CS_Pre_Exam_2023_280523.pdf",
+      "pages": 48,
+      "reliable_pages": 48,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 2,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP_CS_Pre_Exam_2023_GENERAL_STUDIES_PAPER_II_280523.pdf",
+      "pages": 48,
+      "reliable_pages": 48,
+      "searchable_pages": 48,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 48,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP_CSM_2024_Eng_Comp_03102024.pdf",
+      "pages": 8,
+      "reliable_pages": 8,
+      "searchable_pages": 8,
+      "zero_pages": [],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 8,
+      "rasterized_fallback": false
+    },
+    {
+      "path": "QP_CSM_2024_Hn_Comp_03102024.pdf",
+      "pages": 8,
+      "reliable_pages": 7,
+      "searchable_pages": 7,
+      "zero_pages": [
+        8
+      ],
+      "sparse_pages": [],
+      "sparse_meaningful_pages": [],
+      "blank_or_decorative_pages": [
+        8
+      ],
+      "unresolved_zero_pages": [],
+      "ocr_status": "repaired",
+      "searchable_repaired_pages": 7,
+      "rasterized_fallback": false
+    }
+  ]
+}

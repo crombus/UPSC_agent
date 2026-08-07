@@ -167,12 +167,31 @@ strategy for an unforecastable one.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **NDMA's SACHET and Aapda Mitra official systems**, checked as of
-  18 July 2026, are the correct current anchors for relief-coordination
-  technology and community-volunteer-scheme status.
+- 📰 **NDMA's SACHET and Aapda Mitra official systems** are the correct
+  current anchors for relief-coordination technology and
+  community-volunteer-scheme status (expanded scheme: ~1,00,000
+  volunteers across 350 districts, MHA, 25 July 2024; NDRF at **16
+  battalions**, MHA, 22 July 2025).
+- 📰 The current operational-guideline stack is NDMA's **Incident
+  Response System (July 2010)**, **Minimum Standards of Relief (February
+  2016)**, **Management of the Dead (August 2010)** with **Comprehensive
+  Disaster Victim Identification (January 2026)**, **Temporary Shelters
+  (September 2019)**, **Mental Health and Psychosocial Support (updated
+  December 2023)**, **Emergency Operations Centre (October 2024)**,
+  **Disaster Management Exercises (October 2024)** and **International
+  Humanitarian Assistance and Disaster Relief (October 2024)**.
+- ⚠️ **The 2024-2026 guideline cluster marks a real shift in what
+  "relief" is taken to include** — psychosocial support, dignified
+  victim identification, standing EOC design and rehearsed exercises are
+  now guideline-backed rather than improvised. An advanced answer should
+  note that this expands relief from *commodity delivery* toward
+  *service continuity and dignity*, while conceding that guidelines are
+  advisory and their district-level adoption is not reported by any dated
+  national source.
 - ❌ Do not present VisionIAS's document-period Aapda Mitra coverage or
-  NDRF composition details as necessarily current without this
-  verification.
+  NDRF battalion count as current, and do not call India's arrangement
+  the "Incident Command System" when the institutional term is the
+  Incident Response System.
 
 ## 11. PYQ-based analytical application
 

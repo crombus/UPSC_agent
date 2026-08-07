@@ -1,11 +1,17 @@
 # Essay — Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Essay | **GS Paper:** Essay (General Studies Paper — Essay,
 > Mains; two essays required, one from each displayed Section, about
 > 1000–1200 words each).
 > **Research cutoff:** 18 July 2026.
-> **Corpus:** 100 verified prompts from UPSC Essay papers, 2013-2025;
-> complete ledger in `PYQ-Corpus-2013-2025.md`.
+> **Corpus:** 100 prompts from UPSC Essay papers, 2013-2025, each carrying
+> an explicit verification level; complete ledger in
+> `PYQ-Corpus-2013-2025.md`.
+> **Directly audited locally:** the 2024 and 2025 papers only
+> (`books/mains/UPSC Mains 2024 Essay Paper.pdf`,
+> `books/mains/UPSC Mains 2025 Essay Paper.pdf`).
 > **Start here:** `00_Master-Framework.md`.
 
 ---
@@ -40,56 +46,142 @@
   alternatives, argument maps, paragraph plans, transition banks, error
   logs and timed drills — never a complete finished essay to memorise and
   reproduce, because that defeats the exam's test of original synthesis.
+- **No guaranteed formula.** Every engine, chain, grid and paragraph
+  count in this folder is a ⚠️ scaffold for thinking, offered because it
+  makes weaknesses visible — none is a scoring formula, and any of them
+  should be abandoned for a specific prompt where it distorts the
+  argument. A structure applied against the grain of a prompt is worse
+  than no structure at all.
 
 ## Source policy — read before using any prompt in this folder
 
-The complete prompt ledger is
-`PYQ-Corpus-2013-2025.md`. The 2017-2025 wording was checked against
-UPSC-hosted PDFs; 2013-2016 was checked against archived transcriptions of
-the official papers. Local OCR is evidence to locate text, not authority
-for spelling or numbering: extraction artefacts are corrected against the
-paper.
+The complete prompt ledger is `PYQ-Corpus-2013-2025.md`, and every year in
+it carries a stated **verification level**:
+
+| Level | Meaning | Years |
+|---|---|---|
+| **V1 — directly verified locally** | Wording read off the official question-paper PDF held in this repository | 2024, 2025 |
+| **V2 — not locally verifiable** | No official paper for that year is present locally; wording is a carried-forward transcription that has *not* been checked against the printed paper in this pass | 2013–2023 |
+
+✅ **V1 rule.** For 2024 and 2025 the printed English wording — including
+its punctuation, spelling and printing defects — is reproduced exactly.
+❌ This folder does **not** silently "tidy" a UPSC prompt: where the paper
+prints `futures`, a comma splice, or a garbled instruction line, that is
+recorded as printed and flagged, not corrected into elegant English.
+
+⚠️ **V2 rule.** 2013–2023 rows are usable for practice but must not be
+quoted as certified printed wording. Before quoting a V2 prompt verbatim
+in any published or submitted work, check it against the official paper
+for that year; if a V2 paper is later added to `books/mains/`, promote the
+year to V1 and re-audit its rows.
+
+❌ Do not describe the corpus as "100 verified prompts." 16 of the 100
+(2024–2025) are directly verified locally; the remaining 84 are V2.
 
 Neither 2024 nor 2025 prints an author attribution beside any prompt.
 Do not add one merely because an aphorism is commonly attributed online.
 
-## Recent prompt index
+## Recent prompt index (V1 — directly verified)
 
-### 2024 — `UPSC Mains 2024 Essay Paper.txt`
+### 2024 — `books/mains/UPSC Mains 2024 Essay Paper.pdf`
 
-Instruction (exact): "Write two essays, choosing one topic from each of
-the following Sections A and B, in about 1000-1200 words each:" (125 × 2
-= 250).
+Instruction, exactly as printed: "Write two essays, choosing one topic
+from each of the following Sections A and B, in about 1000-1200 words
+each:" followed by the marks line "(125 × 2 = 250)".
 
-| Label | Exact wording |
-|---|---|
-| 2024-A1 | "Forests precede civilizations and deserts follow them." |
-| 2024-A2 | "The empires of the future will be the empires of the mind." |
-| 2024-A3 | "There is no path to happiness; Happiness is the path." |
-| 2024-A4 | "The doubter is a true man of science." |
-| 2024-B5 | "Social media is triggering ‘Fear of Missing Out’ amongst the youth, precipitating depression and loneliness." |
-| 2024-B6 | "Nearly all men can stand adversity, but to test the character, give him power." |
-| 2024-B7 | "All ideas having large consequences are always simple." |
-| 2024-B8 | "The cost of being wrong is less than the cost of doing nothing." |
+✅ Printed numbering: Section A runs **1–4** and Section B **restarts at
+1–4** (it does *not* continue 5–8). The `B5`–`B8` labels below are this
+folder's own internal referencing convention, kept stable across years —
+they are **not** the paper's printed numbers for 2024.
 
-### 2025 — `UPSC Mains 2025 Essay Paper.txt`
+| Label | Printed no. | Exact wording as printed |
+|---|---|---|
+| 2024-A1 | A-1 | "Forests precede civilizations and deserts follow them." |
+| 2024-A2 | A-2 | "The empires of the futures will be the empires of the mind." |
+| 2024-A3 | A-3 | "There is no path to happiness, Happiness is the path." |
+| 2024-A4 | A-4 | "The doubter is a true man of science." |
+| 2024-B5 | B-1 | "Social media is triggering ‘Fear of Missing Out’ amongst the youth precipitating depression and loneliness." |
+| 2024-B6 | B-2 | "Nearly all men can stand adversity, but to test the character, give him power." |
+| 2024-B7 | B-3 | "All ideas having large consequences are always simple." |
+| 2024-B8 | B-4 | "The cost of being wrong is less than the cost of doing nothing." |
 
-Instruction: "Write two essays, choosing one topic from each of the
-following Sections A and B, in about 1000-1200 words each:"
+❌ **Printed defects in 2024 — reproduce, do not "fix":**
 
-| Label | Exact wording |
-|---|---|
-| 2025-A1 | "Truth knows no color." |
-| 2025-A2 | "The supreme art of war is to subdue the enemy without fighting." |
-| 2025-A3 | "Thought finds a world and creates one also." |
-| 2025-A4 | "Best lessons are learnt through bitter experiences." |
-| 2025-B5 | "Muddy water is best cleared by leaving it alone." |
-| 2025-B6 | "The years teach much which the days never know." |
-| 2025-B7 | "It is best to see life as a journey, not as a destination." |
-| 2025-B8 | "Contentment is natural wealth; luxury is artificial poverty." |
+- A-2 prints "empires of the **futures**" (plural). Widely circulated
+  coaching versions read "future"; the paper does not.
+- A-3 prints a **comma**, then a capitalised "Happiness": "There is no
+  path to happiness, Happiness is the path." Not a semicolon.
+- B-1 has **no comma** before "precipitating".
+
+⚠️ If you quote a defective prompt in a practice answer, quote it as
+printed; do not draw attention to the defect in the essay itself, and do
+not build an argument on the assumption that the defect is deliberate.
+
+### 2025 — `books/mains/UPSC Mains 2025 Essay Paper.pdf`
+
+✅ Printed numbering: Section A runs **1–4** and Section B **continues
+5–8** — the opposite of 2024's restart. The 2024/2025 difference is
+itself evidence that printed numbering is not a stable paper convention.
+
+❌ **Printed defect in the 2025 instruction line.** The locally held paper
+prints the English instruction as: "Write two essays, choosing one topic
+from each of the following Sections A as in about 1000 – 1200 words
+each:". The phrase "Sections A as in" is garbled in the source. The
+substantive requirement is unambiguous from the same paper's own Hindi
+line and its two printed section headings (`SECTION-A`, `SECTION-B`):
+✅ two essays, one topic from each of Sections A and B, about 1000–1200
+words each. ⚠️ Do not quote the 2025 instruction as clean English without
+this note.
+
+❌ The locally held 2025 paper prints **no marks line** (2024's
+"(125 × 2 = 250)" has no 2025 counterpart in this copy) and **no
+"Time Allowed" header**. This folder therefore asserts no duration and no
+2025 marks split; confirm both from the official paper or admit card.
+
+| Label | Printed no. | Exact wording as printed |
+|---|---|---|
+| 2025-A1 | A-1 | "Truth knows no color." |
+| 2025-A2 | A-2 | "The supreme art of war is to subdue the enemy without fighting." |
+| 2025-A3 | A-3 | "Thought finds a world and creates one also." |
+| 2025-A4 | A-4 | "Best lessons are learnt through bitter experiences." |
+| 2025-B5 | B-5 | "Muddy water is best cleared by leaving it alone." |
+| 2025-B6 | B-6 | "The years teach much which the days never know." |
+| 2025-B7 | B-7 | "It is best to see life as a journey, not as a destination." |
+| 2025-B8 | B-8 | "Contentment is natural wealth; luxury is artificial poverty." |
+
+⚠️ 2025-A1 prints the American spelling "color"; retain it when quoting.
+
+### Facts common to both V1 papers
+
+- ✅ Each topic is printed **bilingually** — Hindi first, then English.
+  Only the English line is quoted in this folder.
+- ✅ **Four prompts per Section**, and **one topic must be chosen from
+  each** Section — never two from the same Section.
+- ✅ **No author attribution** beside any of the 16 prompts.
+- ✅ **No marking rubric, examiner weightage, or paragraph/example count**
+  is printed. 2024's "(125 × 2 = 250)" is a marks split, not a rubric.
+- ❌ Neither locally held copy prints a "Time Allowed" line, so no
+  duration is asserted anywhere in this folder.
 
 All 16 recent prompts above are unattributed in the papers. The same
 quotation-safety rule applies to the full 100-prompt corpus.
+
+## Working vocabulary — distinctions this folder holds apart
+
+⚠️ Essay marks are lost most often to blurred categories, not missing
+facts. Each pair/triad below is defined in full in its owning file; the
+one-line contrast here is the index.
+
+| Distinction | One-line contrast | Owning file |
+|---|---|---|
+| Topic vs. theme vs. thesis | The topic is the printed prompt; a theme is a recurring subject area inside it; the thesis is your single contestable claim about it | `basic/05`, `advanced/05` |
+| Claim vs. reason vs. warrant | The claim is what you assert; the reason is the evidence-backed "because"; the warrant is the unstated principle that licenses moving from reason to claim | `basic/05`, `advanced/05` |
+| Example vs. evidence vs. analogy | An example instantiates; evidence supports a claim's truth; an analogy transfers structure from another domain and proves nothing on its own | `basic/09`, `advanced/09` |
+| Quotation vs. paraphrase | A quotation reproduces exact printed words inside quote marks; a paraphrase restates the idea in your own words and carries no wording risk | `basic/09` |
+| Counterargument vs. rebuttal vs. synthesis | The counterargument is the opposing case stated at full strength; the rebuttal answers it; the synthesis specifies the condition under which each side governs | `basic/08`, `advanced/08` |
+| Philosophical prompt vs. issue prompt | A philosophical prompt compresses a metaphor/proposition needing decoding; an issue prompt names a real phenomenon and asserts a causal claim needing scoping | `basic/02`, `basic/03` |
+| Breadth vs. coherence | Breadth counts how many distinct angles appear; coherence asks whether they build one argument — breadth without coherence is a list | `advanced/04`, `advanced/07` |
+| Illustrative visual vs. decorative diagram | An illustrative visual carries information prose would state less clearly; a decorative diagram restates a sentence in boxes | `basic/14`, `advanced/14` |
 
 ## Topic map
 

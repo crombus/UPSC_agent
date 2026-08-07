@@ -44,6 +44,16 @@ supply.
   unconnected topics can look "comprehensive" while actually reducing
   coherence — an advanced essay favours fewer, connected cycles over
   many disconnected ones (cross-link `04`, Section 7).
+- **Breadth vs. coherence, structurally:** `advanced/04` catches this at
+  selection; it reappears here as a *sequencing* problem. Breadth is
+  additive — each paragraph contributes a new angle. Coherence is
+  cumulative — each paragraph is harder to remove than the last, because
+  later ones depend on earlier ones. ⚠️ Test: number your body paragraphs
+  and ask which could be moved to the front without rewriting its opening
+  sentence. Every paragraph that could is a breadth paragraph; if all of
+  them could, the essay is a well-stocked list. ❌ Adding transitions to a
+  breadth-only essay produces connective language over an unchanged
+  structure — the reader notices the seam.
 
 ## 4. Levels of analysis and temporal-spatial scale
 

@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims.
 > **Core area:** Biotechnology as a strategic platform sector, with DBT-BIRAC mission architecture.
 > **Grounded in:** BIRAC home page (`https://www.birac.nic.in/`, verified 2026-07-16); BIRAC biomanufacturing initiative page (`https://www.birac.nic.in/biomanufacturing.php`, verified 2026-07-16); PIB BioE3 approval release of 24 Aug 2024; PIB BioE3 aims/objectives release of 27 Nov 2024; PIB implementation review of 21 Jul 2025; official government listing of the National Biotechnology Development Strategy [2020-2025] identified through web verification on 2026-07-16.
+> **Additionally verified 2 Aug 2026:** BioE3 Cabinet approval of 24 Aug 2024 and its six thematic sectors (https://birac.nic.in/biomanufacturing.php ; https://bmi.dbt.gov.in/biomanufacturing-initiative.php); DBT press-release index recording Bio-RIDE (19 Sep 2024) and completion of 10,000 GenomeIndia sequences (28 Feb 2024) (https://dbt.gov.in/data-view?name=press-release); BIRAC mandate page (https://birac.nic.in/desc_new.php?id=89). No official successor to the National Biotechnology Development Strategy 2021-25 was located.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current anchor.
 > *Companion: `../basic/13_Biotechnology-Fundamentals-and-DBT-Missions.md`. Forward links: `14_Genetic-Engineering-GM-Crops-and-CRISPR.md`, `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md`.*
 
@@ -37,7 +38,7 @@ BIRAC -> funding, incubation, translation, industry interface
 | **Fermentation / bioprocessing** | Core manufacturing layer that converts biology into industrial scale. |
 | **Tissue culture** | Controlled propagation and cellular work platform, especially valuable in plant and cell biology. |
 | **Molecular diagnostics** | Translational bridge from molecular detection to clinical/public-health use. |
-| ✅ **DBT** | State-level mission designer for India’s biotechnology priorities. |
+| ✅ **DBT** | The **Department of Biotechnology, a central department under the Ministry of Science and Technology** — India's principal biotechnology policy, funding and mission-design body. (It is a Union department, not a State-level body.) |
 | ✅ **BIRAC** | Translational and entrepreneurial bridge between research and industry. |
 | ✅ **BioE3** | Policy move toward high-performance biomanufacturing as an economic, environmental and employment strategy. |
 
@@ -79,8 +80,8 @@ BIRAC -> funding, incubation, translation, industry interface
 
 - ✅ **DBT** anchors national biotech mission design.
 - ✅ **BIRAC** supports incubation, translational grants, entrepreneurship and industry linkage.
-- ✅ **National Biotechnology Development Strategy (2020-2025)** provides a medium-term strategic frame.
-- ✅ **BioE3** adds a sharper biomanufacturing orientation.
+- ⚠️ **National Biotechnology Development Strategy (2021-2025)** was the medium-term strategic frame; **its stated period has now elapsed**, and no official successor document was located at the verification date (2 Aug 2026). Treat it as historical context, and use **BioE3 (24 Aug 2024)** and **Bio-RIDE (19 Sep 2024)** as the current policy and scheme anchors.
+- ✅ **BioE3** adds a sharper biomanufacturing orientation, organised around six thematic sectors: **bio-based chemicals and enzymes; functional food and smart proteins; precision biotherapeutics; climate-resilient agriculture; carbon capture and its utilisation; and futuristic marine and space research.**
 - ✅ **Biomanufacturing initiative / biofoundry logic** on BIRAC and PIB sources shows movement toward shared translation infrastructure.
 
 ## 10. Indian applications, examples and limitations

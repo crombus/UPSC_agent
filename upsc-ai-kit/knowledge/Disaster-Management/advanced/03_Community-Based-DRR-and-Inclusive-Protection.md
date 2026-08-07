@@ -158,12 +158,23 @@ undifferentiated "vulnerable population" plan.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **NDMA's Aapda Mitra portal** (checked as of 18 July 2026) is the
-  correct current anchor for scheme coverage, training-module content
-  and volunteer numbers.
-- ❌ Do not cite the document-period 30-district/25-State figure, or the
-  13.9-million annual displacement figure, as current without this
-  verification.
+- 📰 **NDMA's Aapda Mitra materials** are the correct current anchor for
+  scheme coverage, training-module content and volunteer numbers: the
+  2016 pilot (30 districts, 25 States) versus the expanded scheme
+  (**1,00,000 volunteers across 350 districts**, MHA, 25 July 2024), with
+  **Yuva Aapda Mitra** (315 districts, ~2.37 lakh volunteers, 29 October
+  2024) as a separate programme.
+- ⚠️ **Volunteer counts measure inputs, not capability.** An advanced
+  answer should note that a trained-volunteer total says nothing about
+  refresher-training frequency, equipment held, activation protocol, or
+  whether volunteers are distributed toward the most exposed
+  wards — the same detection-versus-last-mile problem topic `04`
+  identifies for warnings, transposed to human capacity. NDMA's
+  **CBDRR guidelines (October 2024)** are the current governing document
+  against which that institutionalisation should be assessed.
+- ❌ Do not cite the pilot's 30-district/25-State figure as the current
+  scope, conflate Aapda Mitra with Yuva Aapda Mitra, or present the
+  13.9-million annual displacement figure as current.
 
 ## 11. PYQ-based analytical application
 

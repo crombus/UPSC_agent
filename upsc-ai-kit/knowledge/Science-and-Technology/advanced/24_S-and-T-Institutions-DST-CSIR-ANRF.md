@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims *(with strong GS-II governance overlap)*.
 > **Core area:** India’s research-governance architecture, funding reform, lab-network function and coordination with mission-specific scientific bodies.
 > **Grounded in:** DST Introduction page (https://dst.gov.in/introduction); DST ANRF page (https://dst.gov.in/anusandhan-national-research-foundation-anrf); DST ANRF initiatives page (https://dst.gov.in/anusandhan-national-research-foundation-launches-first-2-initiatives-pmecrg-and-maha-ev-mission); India Science & Technology portal ANRF page (https://www.indiascienceandtechnology.gov.in/listingpage/anusandhan-national-research-foundation-anrf); CSIR About page (https://www.csir.res.in/en/about-us/about-csir); CSIR laboratories/MAHA pages (https://www.csir.res.in/en/csir-labs-unit ; https://www.csir.res.in/en/News/Call-for-proposals/Announcements/mission-advancement-high-impact-areas-maha-ev-mission-last); ANRF portal pages (https://anrf.gov.in/page/english/research_grants ; https://anrfonline.in/ANRF/ecrg_anrf?HomePage=New); DST STI Policy 2013 page (https://dst.gov.in/st-system-india/science-and-technology-policy-2013) — verified 16 Jul 2026.
+> **Additionally verified 2 Aug 2026:** ANRF Act, 2023 (Act 25 of 2023), including s.5 Governing Board, s.7 Executive Council and s.27 repeal of the SERB Act (https://www.indiacode.nic.in/bitstream/123456789/19767/1/a2023-25.pdf); DST statement on SERB being subsumed and ANRF's Rs 50,000 crore / Rs 36,000 crore non-government financing design (https://dst.gov.in/parliament-passes-anusandhan-national-research-foundation-nrf-bill-2023-rajya-sabha-adopting-bill); ANRF portal showing 2026 live calls (https://anrf.gov.in/); CSIR 'About CSIR' page recording 37 national laboratories (https://www.csir.res.in/en/about-us/about-csir); DSIR organisation page, last updated 30 Dec 2025, confirming CSIR's placement under DSIR (https://dsir.gov.in/ministry/our-organisation).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `basic/24_S-and-T-Institutions-DST-CSIR-ANRF.md`.*
 
@@ -19,13 +20,18 @@
 | ✅ DST | Department under Government of India | Policy, missions, coordination, support | Horizontal policy anchor |
 | ✅ ANRF | Statutory apex body under ANRF Act 2023 | Grants, mission-mode programmes, ecosystem shaping | Horizontal funding + strategic direction |
 | ✅ SERB | Former statutory body under 2008 Act | Competitive research grants | Legacy predecessor now absorbed/repealed |
-| ✅ CSIR | Large public R&D network under Ministry of Science & Technology | Laboratories, translational research, patents, technology development | Horizontal research-performing network |
-| ✅ Mission bodies (ISRO, DAE, DRDO, DBT/MeitY-linked ecosystems) | Sector-specific agencies/programmes | Domain execution | Vertical mission architecture |
+| ✅ CSIR | An **autonomous society administratively under DSIR**, Ministry of Science & Technology | Laboratories, translational research, patents, technology development | Horizontal research-performing network (37 national laboratories) |
+| ✅ DSIR | Department under the Ministry of Science & Technology | Administers CSIR; industrial-research promotion and technology transfer | The missing link usually omitted between DST and CSIR |
+| ✅ Sectoral bodies (**ISRO** under the Department of Space; **DAE** and **DBT** as Departments; **DRDO** under MoD; **MeitY** a Ministry; **ICMR** under MoHFW; **ICAR** under DARE) | Different constitutional forms, different parent ministries | Domain execution | Vertical mission architecture — **not one class of "mission bodies"** |
 
 ```text
-policy steering (DST)
-      -> strategic funding / ecosystem shaping (ANRF)
-      -> research performance / technology generation (CSIR + universities + labs)
+policy steering (DST, a Department)
+      -> strategic funding / ecosystem shaping (ANRF, a STATUTORY body
+         whose Governing Board is headed ex officio by the Prime Minister
+         and whose Executive Council is chaired by the Principal Scientific
+         Adviser; DST is its administrative anchor, not its parent office)
+      -> research performance / technology generation
+         (CSIR, an autonomous society under DSIR, + universities + labs)
       -> mission translation (space / nuclear / chips / biotech / AI / clean energy)
 ```
 
@@ -53,13 +59,16 @@ policy steering (DST)
 
 ## 5. Institutions and programmes
 
-- ✅ **DST:** established in May 1971 to promote new S&T areas and coordinate national activities; acts as the horizontal science-policy anchor.
-- ✅ **CSIR:** official page describes a dynamic network of 37 national laboratories and a wide span from chemicals and drugs to genomics, aerospace and environmental engineering.
-- ✅ **ANRF:** DST page describes it as an apex body established under the ANRF Act 2023 to seed, grow and promote R&D and provide high-level strategic direction.
-- ✅ **SERB to ANRF transition:** India Science & Technology portal states the ANRF Act repeals the SERB Act, 2008 and dissolves SERB.
+- ✅ **DST:** established in May 1971 to promote new S&T areas and coordinate national activities; acts as the horizontal science-policy anchor. It is a **Department**, not a Ministry.
+- ✅ **DSIR:** the Department that administers CSIR; its official organisation page (last updated 30 Dec 2025) records CSIR as India's leading R&D organisation **under DSIR** with **37 laboratories**.
+- ✅ **CSIR:** an **autonomous society** whose official profile describes a network of **37 national laboratories**, 39 outreach centres, one innovation complex and three units, spanning chemicals, drugs, genomics, aerospace and environmental engineering. The **Prime Minister is its President**.
+- ✅ **ANRF:** established by the **ANRF Act, 2023 (Act 25 of 2023; enacted 12 Aug 2023; in force 5 Feb 2024 via S.O. 474(E))**. **Governing Board: Prime Minister as ex officio President** (s.5), with the Union Ministers for Science & Technology and Education as Vice-Presidents; **Executive Council: the Principal Scientific Adviser as ex officio Chairperson** (s.7).
+- ✅ **ANRF financing:** the stated design is **₹50,000 crore over 2023-28**, of which about **₹36,000 crore (nearly 80%) was expected from non-government sources** including industry and philanthropy; the balance is an arithmetic residual rather than a separately labelled fixed Government allocation.
+- ✅ **SERB to ANRF transition:** **s.27 of the ANRF Act repealed the SERB Act, 2008 and dissolved SERB**, transferring assets, liabilities and staff subject to savings.
 - ✅ **PMECRG:** ANRF portal frames it as an early-career one-time grant up to Rs. 60 lakh excluding overheads for three years.
-- ✅ **MAHA:** mission-mode ANRF platform for priority-driven, solution-focused research; EV mobility was identified as an early focus area and later calls also show a hub-and-spoke style innovation logic.
-- ✅ **STI Policy 2013:** remains the last clearly adopted national STI policy reference point available on DST’s policy stack; later drafts should be handled cautiously unless formally adopted.
+- ✅ **MAHA:** mission-mode ANRF platform for priority-driven, solution-focused research; EV mobility was an early focus, with later calls extending to water (ANRF-Jal Shakti MAHA Water) and drones, alongside ARG/ARG-MATRICS, Catalytic Partnership, ATRI, Critical Raw Material Research and RDI Fund activity.
+- ⚠️ **Adjacent bodies to keep distinct:** **DBT** (Department, biotechnology), **ICMR** (MoHFW), **ICAR** (DARE), **INSA** (a scientific academy, not a funder), the **Office of the Principal Scientific Adviser** (advisory/coordination and ANRF Executive Council chair), and **PRIP**, which is run by the **Department of Pharmaceuticals**, not by DST or ANRF.
+- ✅ **STI Policy 2013:** remains the last clearly adopted national STI policy reference point on DST's policy stack. ⚠️ **STIP 2020 was drafted and consulted upon; no notification of formal adoption was located.** **Vigyan Dhara** is DST's consolidated umbrella scheme and **Scientific Social Responsibility** the knowledge-sharing framework.
 
 ## 6. Indian applications, examples and limitations
 
@@ -101,12 +110,15 @@ policy steering (DST)
 
 | Verified current anchor | Analytical use in answers |
 |---|---|
-| 📰 **10 Sep 2024:** first ANRF Governing Board meeting chaired by the Prime Minister. | Use to show that ANRF has been positioned as a top-level strategic body, not a routine scheme office. |
+| 📰 **12 Aug 2023 / 05 Feb 2024:** ANRF Act, 2023 (Act 25 of 2023) enacted and commenced; s.27 repealed the SERB Act and dissolved SERB. | Use to date the structural break precisely, and to make the Act-versus-commencement point that recurs across this folder. |
+| 📰 **10 Sep 2024:** first ANRF Governing Board meeting chaired by the Prime Minister. | Use to show that ANRF has been positioned as a top-level strategic body, not a routine scheme office — and note the design intent that the **PSA chairs the Executive Council**, separating strategy from execution. |
 | 📰 **14 Oct 2024:** DST announced PMECRG and MAHA-EV as the first ANRF initiatives. | Use to show transition from legal creation to operational instruments. |
 | 📰 **25 Nov 2024:** CSIR-hosted MAHA-EV call recorded the proposal deadline and e-Node structure. | Use to show how mission-mode research is operationalized through consortia rather than isolated projects. |
-| 📰 **As of 16 Jul 2026:** ANRF and ANRF-online pages remain active with grant/programme architecture. | Use to show continuing institutional operationalization and broadening beyond the old SERB mode. |
+| 📰 **2026:** ANRF running multiple live calls — ANRF-Jal Shakti MAHA Water (1 Jun 2026), ARG/ARG-MATRICS, MAHA Drones, Catalytic Partnership, ATRI, Critical Raw Material Research, RDI Fund. **Status: operational.** | Use to argue ANRF has moved past inauguration into routine competitive funding — a stronger, better-evidenced claim than "its web pages remain active." |
+| 📰 **ANRF's ₹50,000 crore (2023-28) design, with ~₹36,000 crore expected from non-government sources.** | The single best analytical hook on this topic: India has legislated a **crowd-in** funding model in a system where private R&D spending has historically been low. Ask whether the philanthropy-and-industry share materialises, and what happens to grant continuity if it does not — that is the real test of the reform, not the size of the headline number. |
+| 📰 **30 Dec 2025:** DSIR page reaffirms CSIR as an organisation **under DSIR** with 37 laboratories. | Use to correct the common diagram error that places CSIR directly under DST, and to argue that CSIR's autonomy-plus-accountability structure is itself a governance design question. |
 
-*Current as of 16 Jul 2026; verify for later updates.*
+*Current as of 16 Jul 2026, re-verified 2 Aug 2026; verify for later updates.*
 
 ## 11. PYQ application
 

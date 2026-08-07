@@ -138,9 +138,14 @@ question.
 ## 10. Evidence/source-risk and India application
 
 ✅ Both years' prompts are unattributed and carry printed defects (see
-`../README.md`) — an advanced candidate should treat this as
-confirmation that the paper is testing original interpretation, not
-recall of a "correct," externally sourced reading. ⚠️ Evidence-risk at
+`../README.md`) — an advanced candidate should draw two conclusions from
+this. First, the paper is testing original interpretation, not
+recall of a "correct," externally sourced reading: there is no canonical
+text behind the prompt to be matched against. Second, ❌ a printing defect
+is not a cryptic signal — 2024-A2's "empires of the **futures**" is a
+slip, not an invitation to write about plural futures, and 2025's garbled
+"Sections A as in" instruction line is a typesetting failure, not a change
+of rule. Quote as printed; interpret the evident sense. ⚠️ Evidence-risk at
 the choice stage means: do not shortlist a prompt whose only available
 illustrations are half-remembered statistics you cannot verify under
 exam conditions — prefer prompts supportable by institutions, well-known

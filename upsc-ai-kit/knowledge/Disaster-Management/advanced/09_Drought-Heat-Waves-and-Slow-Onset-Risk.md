@@ -182,10 +182,23 @@ separate response measures.
 - 📰 **IMD's Heat Wave Guidance and daily bulletins**, active as of 18
   July 2026, are the correct current anchor for heat-wave criteria,
   current HAP coverage and any current departure-threshold or mortality
-  claim.
+  claim (Heat Wave = departure 4.5-6.4°C, Severe = >6.4°C; declaration
+  needs two stations on two consecutive days).
+- 📰 **The notified-disaster boundary is this topic's sharpest
+  governance finding.** Heat wave and lightning — two of India's most
+  lethal recurring hazards — are outside the national list of 12
+  notified disasters. FC16 recorded (1 February 2026) that 11 States had
+  notified heat wave and 16 lightning as State-specific disasters, and
+  recommended national inclusion. ⚠️ An advanced answer should draw the
+  structural inference: the notified list is organised around **discrete,
+  attributable, rapid-onset events**, and slow-onset or diffuse-mortality
+  hazards fit that template poorly — so the fiscal architecture reproduces
+  exactly the visibility bias Section 1 identifies, and correcting it is
+  a *classification* reform, not merely a funding request.
 - ❌ Do not cite VisionIAS's document-period 68%-drought-prone,
   ~820-million-water-scarce, or CWMI state-ranking figures as current
-  without verification.
+  without verification; and do not report FC16's recommendation as
+  though heat wave were already nationally notified.
 
 ## 11. PYQ-based analytical application
 

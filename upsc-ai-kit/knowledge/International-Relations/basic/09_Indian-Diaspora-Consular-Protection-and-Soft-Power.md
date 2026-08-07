@@ -53,9 +53,10 @@ countries rather than as a foreign-policy lever to be directed.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ⚠️ **Diaspora categories** | Non-Resident Indians (NRIs, Indian citizens residing abroad), Persons of Indian Origin/Overseas Citizens of India (OCI cardholders, foreign nationals of Indian origin) and labour migrants (especially in the Gulf) — each with distinct legal status (Polity owns the citizenship/OCI legal doctrine). |
-| ✅ **Pravasi Bharatiya Divas (PBD)** | India's flagship diaspora-engagement event, held periodically to recognise diaspora contributions; the 18th edition was held 8-10 January 2025 under the theme "Diaspora's Contribution to a Viksit Bharat." |
-| ⚠️ **MADAD portal** | An MEA online grievance-redress and consular-assistance platform for overseas Indians, used to track and resolve welfare/consular complaints. |
+| ⚠️ **Diaspora categories** | Non-Resident Indians (NRIs, Indian citizens residing abroad), Persons of Indian Origin/Overseas Citizens of India (OCI cardholders, foreign nationals of Indian origin) and labour migrants (especially in the Gulf) — each with distinct legal status (Polity owns the citizenship/OCI legal doctrine). 📰 MEA's population table (as on January 2026) records **35,421,987 overseas Indians — 19,571,375 NRIs and 15,850,612 PIOs**; top host countries include the USA (6,079,221), the UAE (4,344,008), Malaysia (2,902,370) and Saudi Arabia (2,750,551). ⚠️ These are population-stock estimates, not counts of citizenship or OCI cards. |
+| ✅ **Pravasi Bharatiya Divas (PBD)** | India's flagship diaspora-engagement event, held periodically to recognise diaspora contributions; the 18th edition was held 8-10 January 2025 at Bhubaneswar, Odisha, under the theme "Diaspora's Contribution to a Viksit Bharat." ⚠️ No 19th edition had been officially recorded as held or announced as of 3 August 2026. |
+| ⚠️ **MADAD portal** | An MEA online grievance-redress and consular-assistance platform for overseas Indians, launched 21 February 2015; 📰 **MADAD 2.0** was launched in December 2025 and linked with e-Migrate and Pravasi Bharatiya Sahayata Kendras. |
+| 📰 **Indian Community Welfare Fund (ICWF), e-Migrate and PBBY** | The three operational welfare instruments alongside MADAD: ICWF supports emergency medical care, air passage and legal aid; e-Migrate registers and clears Emigration-Check-Required (ECR) workers and routes grievances to MADAD; the **Pravasi Bharatiya Bima Yojana** is compulsory insurance for ECR workers going to ECR countries, providing ₹10 lakh accidental-death/permanent-disability cover, with 8,536,398 beneficiaries and 2,222 claims settled through October 2025. |
 | ⚠️ **Protector General of Emigrants** | The MEA authority overseeing emigration clearance and protection of migrant workers, particularly for Emigration-Check-Required (ECR) categories heading to specific countries. |
 | ✅ **Soft power (Tharoor)** | ✅ Tharoor lists "Bollywood cinema, books and music, educational opportunities, health care..., sporting exchanges, tourism and cultural schemes," alongside Ayurveda and yoga, and "the transformed image of the country created by its thriving diaspora," as the components of India's soft power. |
 | ✅ **"Now-Required-Indians"** | ✅ Tharoor's reframing of "NRIs" — arguing India lacks "a policy to channel [diaspora] enthusiasm... and resources to the promotion of India's image," and that with such a policy NRIs could become "Now-Required-Indians." |
@@ -88,12 +89,23 @@ countries rather than as a foreign-policy lever to be directed.
 
 ## 4. Institutions and agreements
 
-- ✅ **Pravasi Bharatiya Divas (18th edition, 8-10 January 2025):** the anchor
-  diaspora-convening event, themed "Diaspora's Contribution to a Viksit
-  Bharat."
-- ⚠️ **MADAD:** the online consular-grievance and welfare-assistance portal.
-- ⚠️ **Protector General of Emigrants:** the authority overseeing emigration
-  clearance and migrant-worker protection.
+- ✅ **Pravasi Bharatiya Divas (18th edition, 8-10 January 2025, Bhubaneswar):**
+  the anchor diaspora-convening event, themed "Diaspora's Contribution to a
+  Viksit Bharat."
+- ⚠️ **MADAD (2015; MADAD 2.0 launched December 2025):** the online
+  consular-grievance and welfare-assistance portal, now linked with e-Migrate
+  and Pravasi Bharatiya Sahayata Kendras.
+- ⚠️ **Protector General of Emigrants, e-Migrate, ICWF and PBBY:** the
+  emigration-clearance and welfare stack for ECR-category migrant workers; PBBY
+  provides ₹10 lakh accidental-death/permanent-disability cover and had
+  8,536,398 beneficiaries with 2,222 claims settled through October 2025.
+- 📰 **Crisis-evacuation practice — Operation Sindhu (June 2025):** 4,415
+  Indians evacuated by 27 June 2025, comprising 3,597 from Iran and 818 from
+  Israel. ⚠️ IR owns the host-government coordination and consular diplomacy;
+  `Disaster-Management/basic/17` owns the relief and logistics cycle.
+- 📰 **Consular caseload as a scale indicator:** MEA recorded **10,152 Indian
+  prisoners/undertrials abroad** in a Lok Sabha answer dated 28 March 2025 —
+  ⚠️ a measure of consular workload, not of diaspora wrongdoing.
 - ✅ **ICCR (Indian Council for Cultural Relations):** the traditional
   institutional vehicle for cultural diplomacy — ✅ Tharoor argues its role
   should be complemented, not solely relied upon, by mainstreaming
@@ -114,15 +126,37 @@ countries rather than as a foreign-policy lever to be directed.
   attack" incident and comparable episodes — illustrates that soft power is
   vulnerable to domestic events, not solely a function of deliberate foreign-
   policy projection.
-- ⚠️ Diaspora remittance flows are a significant economic linkage (Economy owns
-  the specific data and macroeconomic mechanics); this folder treats the
-  diaspora's diplomatic and cultural-bridge role, not the remittance figures
-  themselves.
+- ⚠️ Diaspora remittance flows are a significant economic linkage. ✅ The
+  Economic Survey 2025-26 records India as "the world's largest recipient of
+  remittances," with inflows rising from USD 55.6 billion in FY11 to **USD 135.4
+  billion (provisional) in FY25 — about 3.5 per cent of GDP** — and USD 73
+  billion in H1 FY26 against USD 64.7 billion a year earlier. ⚠️ The composition
+  is shifting: per the RBI's sixth Survey on Remittances (FY24), advanced
+  economies now contribute more than the Gulf Cooperation Council countries, with
+  the US the top source at 27.7 per cent, followed by the UAE (19.2), the UK
+  (10.8) and Singapore (6.6) — evidence that the diaspora's economic weight is
+  moving from low-skilled Gulf labour toward skilled professional migration, with
+  direct consequences for which consular and soft-power instruments matter most.
+  Economy owns the macroeconomic mechanics; this folder treats the diplomatic
+  and cultural-bridge role.
 
 ## 6. Must-Know Facts for Prelims
 
-- 📰 The 18th Pravasi Bharatiya Divas was held 8-10 January 2025, themed
-  "Diaspora's Contribution to a Viksit Bharat."
+- 📰 MEA's overseas-Indian population table (as on January 2026) records
+  35,421,987 overseas Indians: 19,571,375 NRIs and 15,850,612 PIOs.
+- 📰 The 18th Pravasi Bharatiya Divas was held 8-10 January 2025 at Bhubaneswar,
+  themed "Diaspora's Contribution to a Viksit Bharat."
+- ✅ India is the world's largest recipient of remittances; inflows reached USD
+  135.4 billion (provisional) in FY25, about 3.5 per cent of GDP, and USD 73
+  billion in H1 FY26 (Economic Survey 2025-26).
+- ✅ Per the RBI's sixth Survey on Remittances (FY24), advanced economies now
+  contribute more than GCC countries: the US 27.7 per cent, the UAE 19.2, the UK
+  10.8 and Singapore 6.6.
+- 📰 Operation Sindhu evacuated 4,415 Indians — 3,597 from Iran and 818 from
+  Israel — by 27 June 2025.
+- 📰 The Pravasi Bharatiya Bima Yojana provides ₹10 lakh accidental-death/
+  permanent-disability cover for ECR-category workers, with 8,536,398
+  beneficiaries and 2,222 claims settled through October 2025.
 - ✅ Tharoor's soft-power inventory includes Bollywood, books, music,
   educational opportunities, healthcare, sporting exchanges, tourism, cultural
   schemes, Ayurveda and yoga.
@@ -131,8 +165,9 @@ countries rather than as a foreign-policy lever to be directed.
 - ✅ ITEC has trained more than two lakh persons from over 160 countries per
   the Economic Survey 2025-26, with a particular cultural-diplomacy role in
   South Asia.
-- ⚠️ MADAD and the Protector General of Emigrants are the principal MEA
-  mechanisms for diaspora welfare and emigration-clearance protection.
+- ⚠️ MADAD (2015; MADAD 2.0 from December 2025), e-Migrate, ICWF, PBBY and the
+  Protector General of Emigrants are the principal MEA mechanisms for diaspora
+  welfare and emigration-clearance protection.
 
 ## 7. UPSC traps
 
@@ -153,13 +188,25 @@ countries rather than as a foreign-policy lever to be directed.
 - ❌ ITEC and PBD are the same programme. -> ITEC is a technical-training and
   cultural-diplomacy cooperation programme with partner countries; PBD is a
   diaspora-recognition convening event — distinct instruments.
+- ❌ The MEA overseas-Indian figure counts Indian citizens abroad. -> It counts
+  population stock in two distinct categories — NRIs (Indian citizens resident
+  abroad) and PIOs (foreign nationals of Indian origin) — and is not a count of
+  OCI cards issued.
+- ❌ Gulf countries remain the dominant source of India's remittances. -> Per
+  the RBI's sixth Survey on Remittances (FY24, cited in the Economic Survey
+  2025-26), advanced economies now contribute more than GCC countries, with the
+  US the single largest source.
 
 ## 8. 📰 Current anchor
 
-- 📰 The **18th Pravasi Bharatiya Divas (8-10 January 2025)**, themed
-  "Diaspora's Contribution to a Viksit Bharat," is the anchor current event for
-  this topic — cite it, dated, as the concrete evidence of India's ongoing
+- 📰 The **18th Pravasi Bharatiya Divas (8-10 January 2025, Bhubaneswar)**,
+  themed "Diaspora's Contribution to a Viksit Bharat," is the anchor current
+  event for this topic — cite it, dated, as evidence of India's ongoing
   diaspora-engagement architecture.
+- 📰 For the protection track, cite **Operation Sindhu (4,415 Indians evacuated
+  from Iran and Israel by 27 June 2025)** and **MADAD 2.0 (December 2025)**; for
+  the economic-linkage track, cite the **Economic Survey 2025-26** remittance
+  data and the RBI's sixth Survey on Remittances.
 
 ## 9. PYQ application
 
@@ -210,6 +257,8 @@ countries rather than as a foreign-policy lever to be directed.
 - ✅ `Polity/basic/Citizenship.md` — OCI and citizenship legal doctrine (Polity
   owns this detail).
 - ⚠️ **Cross-links within this folder:** topic 06 for Gulf-diaspora welfare
-  context; topic 07 for ITEC's Africa-specific role; topic 01 for the
-  multi-alignment vocabulary. Route Disaster Management (evacuation
-  operations) conceptually — a dedicated folder does not yet exist.
+  context and Operation Sindhu; topic 07 for ITEC's Africa-specific role; topic
+  01 for the multi-alignment vocabulary. Route evacuation operations to
+  `Disaster-Management/basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`
+  and international cooperation to
+  `Disaster-Management/basic/18_Governance-Capacity-and-International-Cooperation.md`.

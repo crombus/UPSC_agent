@@ -1,5 +1,7 @@
 # Modern Indian History — Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** History → **Modern Indian History** · **GS Paper:** GS-I (Modern Indian History c. 1750s–1947, Freedom Struggle; and Post-Independence Consolidation, 1947–2000) + Prelims.
 > **Spine:** Bipan Chandra — freedom-struggle tiers from *Modern India* (basic) and *India's Struggle for Independence* (advanced); princely-state integration and the post-independence tiers (topics 28–38) from *India After Independence, 1947–2000*. Sekhar Bandyopadhyay's *From Plassey to Partition* is used as a supplementary interpretive check.
 > **Start here:** `00_Master-Chronology.md` — the full modern timeline (Mughal decline → 1947 → integration → 2000) that stitches every topic together.

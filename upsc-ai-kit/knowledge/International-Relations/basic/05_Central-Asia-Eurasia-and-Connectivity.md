@@ -59,9 +59,9 @@ discussed here.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Connect Central Asia Policy (2012)** | ✅ Launched in 2012, this policy aims at "strengthening and expanding... India's relations with the Central Asian countries" (Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan) through "a broad-based approach including political, security, economic and cultural connections." |
-| ✅ **Multilateral engagement channels** | ✅ India engages Central Asia partly through "existing fora like the SCO, Eurasian Economic Community (EEC) and the Custom Union," and has "proposed a Comprehensive Economic Cooperation Agreement to integrate its markets with the... Eurasian space." |
-| ⚠️ **India-Central Asia Summit/Dialogue** | A dedicated leader/ministerial-level consultation mechanism for the region, distinct from SCO (a broader multilateral body including China, Russia, Pakistan and Central Asian states). |
-| ✅ **SCO observer/interested-party structure** | ✅ Sikri notes Pakistan, Iran and Mongolia have held observer status, while "Turkmenistan and Afghanistan, while neither members nor observers, nevertheless have an interest in the SCO" — illustrating the region's overlapping multilateral memberships. |
+| ✅ **Multilateral engagement channels** | ✅ India engages Central Asia partly through "existing fora like the SCO, Eurasian Economic Community (EEC) and the Custom Union," and has "proposed a Comprehensive Economic Cooperation Agreement to integrate its markets with the... Eurasian space." 📰 That proposal is now pursued as the **India-Eurasian Economic Union (EAEU) free-trade negotiation**, formally begun on 3 June 2017 at St Petersburg and still under negotiation — the second round was held in Moscow on 22-25 June 2026. ⚠️ Under negotiation, not signed or in force. |
+| 📰 **India-Central Asia Summit and Dialogue** | The dedicated, region-specific mechanisms: the **first India-Central Asia Summit** was held virtually on 27 January 2022; the **fourth India-Central Asia Dialogue** (foreign-minister level) met in New Delhi on 6 June 2025 and envisaged preparing the ground for a second summit; the **third meeting of Secretaries of Security Councils/NSAs** met at Bishkek on 16 October 2025. ⚠️ A second summit had not been recorded as held by 3 August 2026. |
+| ✅ **SCO membership and participation tiers** | ⚠️ Sikri's book-period note that Pakistan, Iran and Mongolia "held observer status" is period-specific. 📰 As of 3 August 2026 the SCO has **10 full members** (Belarus, China, India, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Russia, Tajikistan and Uzbekistan), **2 observers** (Afghanistan and Mongolia) and **15 dialogue partners** — Pakistan and Iran are now members, not observers. A 1 September 2025 decision envisages consolidating the observer/dialogue-partner categories into a single "SCO Partner" status, but the enabling amendments had not entered into force. |
 | ⚠️ **"New Great Game"** | ✅ Sikri's framing that Central Asia, "as a geographical area that abuts on the borders of major powers in Asia... will always attract foreign presences" — describing ongoing great-power competition for influence, not Indian determinism over the outcome. |
 | ⚠️ **Connectivity constraint** | India's lack of direct land access to Central Asia (absent transit through Pakistan or Afghanistan) is the structural limitation every connectivity initiative (INSTC, Chabahar) must address. |
 
@@ -94,16 +94,31 @@ discussed here.
 - ✅ **Shanghai Cooperation Organisation (SCO):** the principal multilateral
   forum linking India with Central Asia, China, Russia and Pakistan (India
   became a full member in 2017 — World History/Polity own precise accession
-  chronology).
-- ⚠️ **India-Central Asia Dialogue/Summit:** a dedicated regional consultation
-  mechanism distinct from SCO.
-- 📰 **India-Uzbekistan bilateral brief (updated August 2025):** the current
+  chronology). 📰 The 2025 Heads of State Council summit met at Tianjin on
+  31 August-1 September 2025 and adopted the **Tianjin Declaration**;
+  Kyrgyzstan holds the 2025-26 chairmanship, with the next summit scheduled for
+  Bishkek.
+- 📰 **India-Central Asia Summit and Dialogue:** first Summit 27 January 2022
+  (virtual); fourth India-Central Asia Dialogue, New Delhi, 6 June 2025; third
+  NSA/Security Council Secretaries' meeting, Bishkek, 16 October 2025.
+- 📰 **India-Uzbekistan bilateral brief (as on April 2026):** the current
   authoritative MEA record for the India-Uzbekistan relationship — cite this
   dated brief for any specific current claim.
-- ⚠️ **INSTC (International North-South Transport Corridor) and Chabahar port:**
-  connectivity frameworks intended to open a maritime-linked route to Central
-  Asia/Eurasia bypassing Pakistan — treat as announced/developing connectivity
-  frameworks, not as completed, full-capacity corridors.
+- 📰 **Chabahar port (Iran):** India Ports Global Limited and Iran's Ports and
+  Maritime Organisation signed a **10-year long-term contract on 13 May 2024**,
+  with India announcing roughly USD 120 million in equipment investment and a
+  USD 250 million credit window for mutually identified infrastructure. ⚠️ The
+  US State Department revoked the 2018 sanctions waiver on 16 September 2025,
+  effective **29 September 2025**, with a subsequent assurance of non-exposure
+  running to 26 April 2026 — status beyond that date requires fresh
+  verification. ⚠️ Sanctions exposure is a risk to Indian entities, not a legal
+  obligation on India.
+- ⚠️ **INSTC (International North-South Transport Corridor):** a connectivity
+  framework intended to open a maritime-linked route to Central Asia/Eurasia
+  bypassing Pakistan — treat as an announced/developing corridor with operating
+  segments, not a completed, full-capacity corridor.
+- ⚠️ **India-EAEU FTA:** under negotiation since 3 June 2017; the second round
+  met in Moscow on 22-25 June 2026. ⚠️ Negotiation, not signature.
 
 ## 5. Indian applications and examples
 
@@ -116,11 +131,11 @@ discussed here.
   membership, and the energy/connectivity constraint (Afghanistan/Pakistan
   access problem) as concrete evidence of both the relationship's evolution and
   its structural limits.
-- ⚠️ India's 2022 India-Central Asia Summit (leader-level) commitments on
-  connectivity and counter-terrorism cooperation illustrate the "increasing
-  significance" the question asks about — cite only the general fact of the
-  summit's occurrence; treat any specific commitment figure as requiring
-  independent, dated verification.
+- ⚠️ The first India-Central Asia Summit (27 January 2022, held virtually) and
+  the fourth India-Central Asia Dialogue (New Delhi, 6 June 2025) illustrate the
+  "increasing significance" the question asks about — ⚠️ but a second
+  leader-level summit had not been recorded as held by 3 August 2026, which is
+  itself an honest indicator of the pace of institutionalisation.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -128,13 +143,22 @@ discussed here.
 - ✅ The five Central Asian Republics are Kazakhstan, Kyrgyzstan, Tajikistan,
   Turkmenistan and Uzbekistan.
 - ✅ India has proposed a Comprehensive Economic Cooperation Agreement to
-  integrate with the Eurasian economic space.
-- ✅ Pakistan, Iran and Mongolia have held SCO observer status; Turkmenistan and
-  Afghanistan are neither members nor observers but retain an interest in the
-  organisation.
+  integrate with the Eurasian economic space; this is pursued as the India-EAEU
+  free-trade negotiation, formally begun 3 June 2017 and still under
+  negotiation.
+- 📰 The SCO has 10 full members, 2 observers (Afghanistan, Mongolia) and 15
+  dialogue partners; Pakistan and Iran are now full members, not observers, and
+  Belarus joined in 2024.
+- 📰 The 2025 SCO summit met at Tianjin (31 August-1 September 2025) and adopted
+  the Tianjin Declaration; Kyrgyzstan chairs for 2025-26.
+- 📰 The first India-Central Asia Summit was held virtually on 27 January 2022;
+  the fourth India-Central Asia Dialogue met in New Delhi on 6 June 2025.
+- 📰 The 10-year Chabahar port contract between India Ports Global Limited and
+  Iran's Ports and Maritime Organisation was signed on 13 May 2024; the US
+  sanctions waiver for Chabahar was revoked effective 29 September 2025.
 - ✅ Any Eurasia-to-India energy pipeline avoiding Afghanistan/Pakistan would
   need to route via Xinjiang and across the Karakoram/Himalayan ranges.
-- 📰 The India-Uzbekistan bilateral brief was updated in August 2025.
+- 📰 The India-Uzbekistan bilateral brief is current as on April 2026.
 
 ## 7. UPSC traps
 
@@ -152,15 +176,27 @@ discussed here.
   Connect Central Asia Policy is explicitly "broad-based," including political,
   security and cultural dimensions alongside economic ones.
 - ❌ INSTC/Chabahar are completed, fully functioning corridors at full capacity.
-  -> Treat these as developing connectivity frameworks; do not assert completed
-  capacity without a specific, dated, verified claim.
+  -> Treat these as developing connectivity frameworks with operating segments;
+  do not assert completed capacity without a specific, dated, verified claim.
+- ❌ Pakistan and Iran are SCO observers. -> Both are now full SCO members
+  (Pakistan since 2017, Iran since 2023); Afghanistan and Mongolia are the
+  observers, and Belarus joined as a full member in 2024. Sikri's observer list
+  is period-specific.
+- ❌ The revocation of the US Chabahar sanctions waiver (effective 29 September
+  2025) is a legal bar on India. -> It is a change in another state's domestic
+  sanctions posture creating exposure risk for entities; it is not an
+  international legal obligation binding on India.
 
 ## 8. 📰 Current anchor
 
-- 📰 The **India-Uzbekistan bilateral brief (updated August 2025)** is the
-  current dated MEA reference for this relationship — use it, not an
-  undated general claim, for any specific current-status statement about
-  India-Uzbekistan cooperation.
+- 📰 The **India-Uzbekistan bilateral brief (as on April 2026)** is the
+  current dated MEA reference for that relationship. Three further dated
+  anchors carry this topic: the **fourth India-Central Asia Dialogue (New
+  Delhi, 6 June 2025)**, the **SCO Tianjin Declaration (31 August-1 September
+  2025)**, and the **revocation of the US Chabahar sanctions waiver (effective
+  29 September 2025)** — the last being the clearest current illustration that
+  India's alternative-connectivity route remains exposed to third-party
+  sanctions dynamics.
 
 ## 9. PYQ application
 
@@ -181,10 +217,13 @@ discussed here.
   constraint — examiners reward acknowledging the structural difficulty, not
   only listing opportunities.
 - ⚠️ Distinguish SCO (broad multilateral, includes China/Pakistan/Russia) from
-  the India-Central Asia Dialogue (region-specific, India-CAR only).
+  the India-Central Asia Dialogue (region-specific, India-CAR only), and
+  distinguish SCO membership from observer and dialogue-partner status.
 - ⚠️ Use "broad-based" framing (political + security + economic + cultural) for
   the Connect Central Asia Policy rather than reducing it to energy alone.
-- ⚠️ Cite the dated India-Uzbekistan brief for any current-status claim.
+- ⚠️ Cite the dated India-Uzbekistan brief (April 2026) for any current-status
+  claim, and the Chabahar waiver revocation (29 September 2025) when discussing
+  third-party constraints on India's connectivity options.
 
 > **Answer thesis:** India's Central Asia engagement has evolved from a 2012
 > broad-based policy into deeper multilateral (SCO) and proposed economic

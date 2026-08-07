@@ -1,5 +1,7 @@
 # Geography - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Geography | **GS Paper:** GS-I (Physical, Human and World Geography), with GS-III
 > (resources/economy/disaster-management linkage) and Prelims relevance throughout.
 > **Spine:** G.C. Leong, *Certificate Physical & Human Geography* + D.R. Khullar, *India: A

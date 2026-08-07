@@ -1,5 +1,7 @@
 # Indian Art & Culture - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Indian Art & Culture | **GS Paper:** GS-I (Indian culture will
 > cover the salient aspects of Art Forms, Literature and Architecture from
 > ancient to modern times).

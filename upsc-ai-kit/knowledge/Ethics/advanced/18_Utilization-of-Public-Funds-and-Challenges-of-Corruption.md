@@ -12,16 +12,16 @@
 ## 1. Architecture
 
 ```text
-FOUR TYPES OF "WILFUL ABUSE OF OFFICE" NOT COVERED BY EXISTING PC ACT (ARC 3.2.1.3-3.2.1.9)
+FOUR TYPES OF "WILFUL ABUSE OF OFFICE" NOT COVERED BY THE PC ACT (ARC 3.2.1.3-3.2.1.10)
 --------------------------------------------------------------------------------------------
-1. Gross perversion of Constitution/democratic institutions (wilful violation of oath)
+1. Gross perversion of the Constitution/democratic institutions (wilful violation of oath)
 2. Abuse of authority unduly favouring or harming someone (no pecuniary gain required)
-3. Obstruction of justice (influencing law enforcement/prosecution)
+3. Obstruction of justice (unduly influencing law enforcement/prosecution)
 4. Squandering public money (ostentatious spending; no misappropriation to any individual)
                     |
                     v
-        ARC's own recommendation: classify all four as PC Act offences
-        (a 2007 recommendation — verify current statutory status independently)
+        ARC 3.2.1.10 recommends classifying all four as PC Act offences
+        (a 2007 recommendation — still unimplemented as at 4 August 2026)
 ```
 
 **Analytical claim:** The ARC's most conceptually significant contribution to this topic is
@@ -101,10 +101,13 @@ conflated with bribery alone.
   central "Transparency in Procurement Act" modelled on Tamil Nadu (1998) and Karnataka (1999); (3)
   fix evaluation criteria before bidding and disallow mid-process changes; (4) use committees for
   high-value bid evaluation; (5) expand IT use in procurement processing.
-- 📰 Verify current statutory status independently: as of the ARC's 2007 recommendation, these four
-  categories had not been incorporated into the Prevention of Corruption Act's definitional
-  framework in the form the ARC proposed — any Mains answer should distinguish the *dated ARC
-  recommendation* from *current enacted law* rather than assuming automatic implementation.
+- 📰 **Status as at 4 August 2026:** none of the ARC's four categories was added to the Prevention
+  of Corruption Act in the form proposed. The Prevention of Corruption (Amendment) Act, 2018 moved
+  in the opposite direction on one of them — it *narrowed* Section 13 to misappropriation of
+  entrusted property and unexplained illicit enrichment, deleting the old Section 13(1)(d) head of
+  obtaining an advantage "by abusing his position as a public servant" (see `19`). Any Mains answer
+  should present the four categories as a live, unimplemented ARC recommendation and note that the
+  legal-definitional gap has, if anything, widened.
 
 ## 5. Indian applications and boundary cases
 
@@ -146,8 +149,9 @@ conflated with bribery alone.
 ## 8. Advanced Prelims traps
 
 - ❌ All four of the ARC's uncovered misconduct categories are already criminalised under the
-  Prevention of Corruption Act as the ARC recommended. -> This was a 2007 recommendation; current
-  statutory incorporation should be verified independently rather than assumed.
+  Prevention of Corruption Act as the ARC recommended. -> None has been added in the proposed form;
+  the 2018 Amendment in fact narrowed Section 13 by deleting the "abuse of position" head, moving
+  away from the ARC's 2007 proposal.
 - ❌ MPLADS-related separation-of-powers concerns apply only if the legislator personally handles
   cash. -> ARC 2.6.8 explicitly rejects this argument, noting "no Minister directly handles public
   money" either, yet ministerial decision-making is unquestionably executive in character — the test

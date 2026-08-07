@@ -5,10 +5,12 @@
 > Navy-Coast Guard-Marine Police layered architecture; the post-26/11
 > coastal security build-out; the Anti-Maritime Piracy Act, 2022.
 > **Grounded in:** VisionIAS, *Security Challenges and Their Management in
-> Border Areas*, PDF pp. 31-37; Ashok Kumar Singh, *Challenges to Internal
-> Security of India*, PDF pp. 124-130; `00_Master-Framework.md` Sections 4,
-> 6; audited GS-III syllabus; MHA order establishing the National Academy
-> of Coastal Policing (7 July 2026).
+> Border Areas*, PDF pp. 4, 31-37, 47; Ashok Kumar Singh, *Challenges to
+> Internal Security of India*, PDF pp. 124-130; `00_Master-Framework.md`
+> Sections 4, 6; audited GS-III syllabus; Coast Guard Act 1978, Maritime
+> Zones Act 1976, SUA Act 2002 and Anti-Maritime Piracy Act 2022 as
+> published in India Code; MHA order establishing the National Academy of
+> Coastal Policing (7 July 2026).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/07_Maritime-and-Coastal-Security.md`.*
 
@@ -61,12 +63,30 @@ Marine Police" (PDF p. 35).
 | ✅ **Maritime terrorism** | "The undertaking of terrorist acts and activities within the maritime environment, using or against vessels or fixed platforms at sea or in port... against coastal facilities or settlements" (VisionIAS, PDF p. 31). |
 | ✅ **Piracy** | By definition occurs on the high seas; India's Sunderbans shallow-water violence is analogous but not technically piracy under this definition (VisionIAS, PDF p. 31). |
 | ✅ **Indian Coast Guard (ICG)** | Established 1 February 1977; formally constituted as the fourth armed force of India under the Coast Guard Act (18 August 1978), under the Ministry of Defence, tasked with maritime-zone security and protecting maritime/national interests (VisionIAS, PDF p. 33). |
+| ✅ **The maritime-zone ladder** | Under the Maritime Zones Act, 1976 and UNCLOS: **territorial sea** to 12 nautical miles (full sovereignty; State Marine Police jurisdiction ends here), **contiguous zone** to 24 nm (customs, fiscal, immigration and sanitary enforcement), **EEZ** to 200 nm (resource rights, with Navy/Coast Guard surveillance to its limits), and the **high seas** beyond. ⚠️ Getting this ladder right is what makes an answer's institutional claims land: which agency leads, and which law applies, changes at each line. |
 | ✅ **Marine Police Force** | Created under the Coastal Security Scheme (2005); works with the ICG on a "hub-and-spoke" model, patrolling territorial waters (12 nautical miles) (VisionIAS, PDF pp. 33-34). |
 | ✅ **NC3I (National Command Control Communication and Intelligence Network)** | An over-arching coastal-security network collating and disseminating vessel data to enhance maritime domain awareness (VisionIAS, PDF p. 35). |
-| ✅ **Anti-Maritime Piracy Act, 2022** | Defines piracy per international convention language, applies to the high seas (including EEZ), provides for Designated Courts, extradition and court-ordered disposal of seized property (VisionIAS, PDF p. 37). |
+| ✅ **Anti-Maritime Piracy Act, 2022** | Defines piracy per international convention language ("any illegal act of violence or detention or any act of depredation committed for private ends... directed on the high seas against another ship"), applies to the high seas including the EEZ, provides for Designated Courts specified in consultation with the concerned High Court's Chief Justice, extradition of the accused to treaty partners, arrest and seizure only by authorised personnel, and court-ordered disposal of seized property (VisionIAS, PDF p. 37). |
+| ✅ **SUA Act, 2002** | The Suppression of Unlawful Acts against Safety of Maritime Navigation and Fixed Platforms on Continental Shelf Act, 2002, gives effect to India's obligations under the SUA Convention and covers ship-hijacking and violence against vessels and offshore platforms — the maritime-terrorism statute that complements, and pre-dates, the 2022 piracy Act. |
 
 ## 3. How the coastal-security architecture works
 
+0. **Why it matters, in the source's own numbers:** ✅ India's coastline
+   runs **7,516.6 km including island territories**, through **nine
+   coastal States** (Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil
+   Nadu, Andhra Pradesh, Odisha, West Bengal) and the coastal Union
+   Territories (VisionIAS, PDF pp. 4, 31). ✅ The same source records that
+   "more than 90 percent of India's trade is through sea routes and more
+   than 80% of our hydrocarbon requirement is ferried through sea route"
+   (PDF p. 37) — ⚠️ a source-cited proportion, not a dated official
+   statistic; if the 2025 Q20 answer needs a figure, cite it as the
+   VisionIAS/standard trade-share claim and confirm against a current
+   Ministry of Ports, Shipping and Waterways or Navy release.
+   ⚠️ Note also the vulnerability profile the source gives: creeks, bays,
+   backwaters, lagoons, estuaries, mudflats and small inhabited and
+   uninhabited islands; the absence of any physical barrier; vital
+   industrial and defence installations near the coast; and physical
+   proximity to politically volatile neighbours (PDF p. 31).
 1. **Threat categorisation:** ✅ VisionIAS's five broad categories:
    maritime terrorism, piracy/armed robbery, smuggling/trafficking,
    infiltration/illegal migration/refugee influx, and fishermen straying
@@ -91,7 +111,22 @@ Marine Police" (PDF p. 35).
    gap — India previously "does not have a specific law or legal
    provision in Indian Penal Code or Criminal Procedure Code for piracy"
    (VisionIAS, PDF p. 37) — bringing India's law in line with UNCLOS
-   obligations.
+   obligations. ⚠️ Read it alongside the SUA Act, 2002 (maritime terrorism
+   and offshore platforms) and the Maritime Zones Act, 1976 (the zone
+   ladder itself): the legal architecture is three statutes with different
+   triggers, not one.
+6. **Surveillance and community layers:** ✅ The **Coastal Surveillance
+   Network** combines static coastal-radar chain, Automatic Identification
+   System (AIS) receivers, long-range tracking and day-night cameras, with
+   **Vessel Traffic Management System (VTMS)** radars at major and minor
+   ports; the Navy has installed **Integrated Underwater Harbour Defence
+   and Surveillance Systems (IUHDSS)** at major naval harbours; **Operation
+   Sagar Kavach** exercises test inter-agency coordination; and the Navy
+   raised **Sagar Prahari Bal** in 2009 to protect naval bases and
+   adjacent vulnerable areas/points (VisionIAS, PDF pp. 35-36).
+   ✅ Fishermen groups of trained volunteers are described as the "ears and
+   eyes" of coastal security, alongside multi-purpose fishermen ID cards,
+   uniform boat licensing and GPS/transponder tracking (PDF p. 36).
 
 ## 4. Institutions, laws and reference points
 
@@ -104,6 +139,11 @@ Marine Police" (PDF p. 35).
   information with International Liaison Officers from partner nations
   (VisionIAS, PDF p. 36) — IR-owned diplomatic partnership dimension;
   this folder treats its operational maritime-domain-awareness function.
+- ✅ **Coastal Security Scheme (CSS):** implemented in phases by MHA's
+  Department of Border Management to build coastal police stations,
+  check-posts, jetties, boats and surveillance capability for the Marine
+  Police (VisionIAS, PDF pp. 35, 47) — the scheme under which the Marine
+  Police Force itself was created in 2005-06.
 - ✅ **Indian Maritime Security Strategy (IMSS), 2015:** the Navy's
   strategy document envisaging coordination, SLOC security, and
   multilateral engagement (VisionIAS, PDF p. 35).
@@ -111,7 +151,10 @@ Marine Police" (PDF p. 35).
   2026):** MHA's dedicated training institution for coastal/marine police
   personnel from nine coastal States, five Union Territories and central
   forces (BSF, CISF) — the current institutional anchor for marine-police
-  training capacity.
+  training capacity. ⚠️ It follows the earlier, partial step VisionIAS
+  records — Marine Police training institutes approved in Tamil Nadu and
+  Gujarat, with periodic training otherwise provided by the Navy and Coast
+  Guard (PDF p. 36).
 
 ## 5. Indian applications and examples
 
@@ -128,12 +171,21 @@ Marine Police" (PDF p. 35).
 - ✅ The Indian Coast Guard was established on 1 February 1977 and
   formally constituted as the fourth armed force of India by the Coast
   Guard Act, 1978.
+- ✅ India's coastline is 7,516.6 km including island territories,
+  spanning nine coastal States and the coastal Union Territories.
+- ✅ The maritime-zone ladder: territorial sea 12 nm, contiguous zone
+  24 nm, EEZ 200 nm (Maritime Zones Act, 1976, consistent with UNCLOS).
 - ✅ The Marine Police Force was created under the Coastal Security Scheme
   (2005) and patrols territorial waters up to 12 nautical miles.
 - ✅ Joint Operations Centres for coastal security operate at Mumbai,
   Visakhapatnam, Kochi and Port Blair.
+- ✅ Sagar Prahari Bal was raised by the Indian Navy in 2009 to protect
+  naval bases and adjacent vulnerable areas; Operation Sagar Kavach is the
+  post-26/11 inter-agency coastal-security exercise.
 - ✅ The Anti-Maritime Piracy Act, 2022 filled a pre-existing legal gap —
-  India previously had no specific piracy provision in the IPC or CrPC.
+  India previously had no specific piracy provision in the IPC or CrPC;
+  the SUA Act, 2002 separately covers maritime terrorism and offshore
+  platforms.
 - 📰 India's National Academy of Coastal Policing at Okha was established
   as a subordinate MHA office on 7 July 2026.
 
@@ -154,6 +206,17 @@ Marine Police" (PDF p. 35).
 - ❌ India has always had a dedicated anti-piracy law. -> A specific
   statute (the Anti-Maritime Piracy Act) was enacted only in 2022; before
   that, India relied on general provisions, not a piracy-specific law.
+- ❌ Every maritime boundary of India is unsettled. -> The India-Bangladesh
+  maritime boundary was settled by a 2014 UNCLOS arbitral award;
+  **Sir Creek** (with Pakistan) is the principal unsettled segment. ⚠️ The
+  VisionIAS text's blanket statement that India's maritime boundaries with
+  both Pakistan and Bangladesh "are not delineated" (PDF p. 31) is stale
+  on the Bangladesh half, as the same document acknowledges at PDF p. 21.
+- ❌ Maritime domain awareness and interdiction capability are the same
+  thing. -> AIS, coastal radar, NC3I and IFC-IOR generate *knowledge* of
+  what is at sea; boats, crew, sea-days and boarding capability determine
+  whether anything can be *done* about it. Most identified gaps in this
+  topic are capability, not awareness, gaps.
 
 ## 8. 📰 Current anchor
 
@@ -170,14 +233,18 @@ Marine Police" (PDF p. 35).
 - ✅ **2025 Q20 (verbatim):** "Why is maritime security vital to protect
   India's sea trade? Discuss maritime and coastal security challenges and
   the way forward."
-  - Structure: state India's sea-trade dependence (⚠️ cite only a
-    currently-verified trade/hydrocarbon-import share figure from an
-    official source, not an unverified historical percentage) → distinguish
-    maritime from coastal security → list the five threat categories →
-    describe the three-tier architecture and its post-26/11
-    institutionalisation → close with "way forward" citing the National
-    Academy of Coastal Policing (2026) and continued Coast Guard/Marine
-    Police capacity-building.
+  - Structure: state India's sea-trade dependence (⚠️ the VisionIAS-cited
+    proportions — over 90% of trade and over 80% of hydrocarbon
+    requirement moving by sea — with a note that a current official figure
+    should be confirmed) → distinguish maritime from coastal security and
+    lay out the 12/24/200 nm zone ladder → list the five threat categories
+    → describe the three-tier architecture and its post-26/11
+    institutionalisation (NC3I, JOCs, coastal radar chain, AIS, VTMS,
+    Sagar Kavach, Sagar Prahari Bal) → name the legal layer (Maritime
+    Zones Act 1976, SUA Act 2002, Anti-Maritime Piracy Act 2022) → close
+    with "way forward" citing the National Academy of Coastal Policing
+    (2026), the still-open single-authority recommendation, and continued
+    Coast Guard/Marine Police capacity-building.
 
 ## 10. Mains angles
 

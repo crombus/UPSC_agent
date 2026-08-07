@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II + Prelims.
 > **Core area:** AI mission architecture, governance design and strategic policy debates.
 > **Grounded in:** PIB IndiaAI Mission approval release (https://www.pib.gov.in/PressReleasePage.aspx?PRID=2012375 — 07 Mar 2024); PIB Safe & Trusted AI EoI release (https://www.pib.gov.in/PressReleasePage.aspx?PRID=2086605 — 20 Dec 2024); Digital India AI initiative page (https://www.digitalindia.gov.in/initiative/national-program-on-artificial-intelligence/ — verified 16 Jul 2026); Digital India AI governance-guidelines page (https://www.digitalindia.gov.in/press_release/meity-unveils-india-ai-governance-guidelines-under-indiaai-mission-to-ensure-safe-inclusive-and-responsible-adoption-of-artificial-intelligence-across-sectors/ — verified 16 Jul 2026); OECD AI Principles (https://oecd.ai/en/ai-principles — verified 16 Jul 2026); EU AI Act overview (https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai — verified 16 Jul 2026).
+> **Additionally verified 2 Aug 2026:** Cabinet approval of IndiaAI Mission, 7 Mar 2024 (https://www.pmindia.gov.in/en/news_updates/cabinet-approves-indiaai-mission-with-budget-outlay-of-rs-10371-92-crore/); IndiaAI current pillar list (https://api.indiaai.in/api/web/page/home-pillar); IndiaAI compute announcement (https://indiaai.gov.in/article/union-minister-of-electronics-it-railways-and-i-b-announces-the-availability-of-18-000-affordable-ai-compute-units); MeitY AI Governance Guidelines subcommittee report and consultation (https://indiaai.gov.in/article/report-on-ai-governance-guidelines-development); IT Rules amendment on synthetically generated information, G.S.R. 120(E), 10 Feb 2026 (https://egazette.gov.in/WriteReadData/2026/269993.pdf); India AI Impact Summit 2026 (https://impact.indiaai.gov.in).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current/dated development.
 > *Companion: `basic/09_Artificial-Intelligence-Governance-and-IndiaAI.md`.*
 
@@ -30,12 +31,17 @@ compute capacity + data ecosystem + talent pipeline
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **IndiaAI Mission** | Cabinet-approved ecosystem mission spanning compute, datasets, applications, skilling, startups and Safe & Trusted AI. |
+| ✅ **IndiaAI Mission** | Cabinet-approved (07 Mar 2024, ₹10,371.92 crore) ecosystem mission spanning **IndiaAI Innovation Centre, Application Development Initiative, AIKosh Platform, Compute Capacity, Startup Financing, FutureSkills and Safe & Trusted AI**; implemented through IndiaAI, an Independent Business Division of Digital India Corporation. |
 | ✅ **Safe & Trusted AI** | IndiaAI pillar focused on indigenous tools, guidelines, frameworks and standards for responsible AI. |
-| ✅ **Foundation model** | Broad base model usable across multiple tasks and downstream applications. |
+| ✅ **Foundation model** | Broad base model usable across multiple tasks and downstream applications. Its governance implication is **upstream-risk propagation**: one model's biases, licences and failure modes are inherited by every application built on it, which is why "regulate the application, not the model" is contested. |
+| ⚠️ **Compute sovereignty** | The claim that a state must control access to accelerators, data-centre capacity and energy to have autonomous AI capability. It is the sharpest link between AI policy (Topic 09), semiconductors (Topic 11) and energy policy — and the reason GPU **empanelment** figures are a policy variable, not a technical footnote. |
+| ⚠️ **Compute unit ≠ GPU** | IndiaAI's stated objective is **10,000 GPUs**; its headline achievement figure is **"18,000+ affordable AI compute units."** These are different measures. Conflating them inflates capability claims — precisely the kind of error a well-set Prelims statement will exploit. |
 | ✅ **AI governance** | Institutional, legal, technical and procedural methods to steer AI toward safe, accountable use. |
-| ✅ **Risk-based regulation** | Governance design that calibrates obligations according to the seriousness of potential harms. |
-| ✅ **Light-touch / pro-innovation stance** | Policy preference for enabling innovation while building targeted safeguards instead of immediate sweeping statutory restriction. |
+| ⚠️ **Regulatory instrument hierarchy** | *Advisory* (persuasive) < *guideline/report* (non-binding) < *Rules notified under a parent Act* (binding, enforceable) < *Act* (primary law). India's only binding AI-specific obligation at the verified date is the **IT Rules amendment on synthetically generated information (G.S.R. 120(E), 10 Feb 2026)**; there is **no AI Act**. |
+| ✅ **Risk-based regulation** | Governance design that calibrates obligations according to the seriousness of potential harms — the EU AI Act's unacceptable/high/limited/minimal tiering being the reference model. |
+| ✅ **Light-touch / pro-innovation stance** | Policy preference for enabling innovation while building targeted safeguards instead of immediate sweeping statutory restriction. ⚠️ Its honest cost is **ex-post** correction: harms must occur before they are addressed. |
+| ⚠️ **Techno-legal regulation** | India's stated preference for embedding compliance in technical design (labelling, provenance metadata, consent artefacts, auditability) rather than only in legal prohibition. It scales better but depends on standards bodies and testing capacity that India is still building. |
+| ⚠️ **Algorithmic accountability in public administration** | When the State uses AI for targeting, eligibility or policing, administrative-law duties — reasoned decisions, right to be heard, non-arbitrariness under Art. 14 — do not disappear. DPDP contains no algorithmic-decision safeguard, so this gap is currently filled only by general constitutional principles. |
 
 ## 3. Detailed mechanism / how it works
 
@@ -104,11 +110,15 @@ compute capacity + data ecosystem + talent pipeline
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 **07 Mar 2024:** Cabinet approved IndiaAI Mission and publicly listed seven pillars. **Status:** approved. | Use it to show that India’s AI policy is mission-based and ecosystem-wide, not a narrow startup subsidy. |
+| 📰 **07 Mar 2024:** Cabinet approved IndiaAI Mission (₹10,371.92 crore) with seven pillars. **Status:** approved. | Use it to show that India’s AI policy is mission-based and ecosystem-wide, not a narrow startup subsidy — and note that an outlay is an *authorisation*, not expenditure. |
+| 📰 **16 Aug 2024 → 22 Jan 2025:** GPU empanelment RFE issued against a **10,000-GPU** objective; ten qualified bidders' financial bids opened; official communication later cited **18,000+ compute units**. **Status:** procurement/empanelment. | Use it to argue that "AI sovereignty" begins as a **procurement and energy problem**, and to demonstrate measurement discipline: compute units are not GPUs, and empanelment is not deployed capacity. |
 | 📰 **20 Dec 2024:** IndiaAI Mission issued second-round EoI under Safe & Trusted AI. **Status:** implementation underway. | Use it to show that governance is being operationalised through proposals, tools and institutional processes, not only speeches. |
-| 📰 **16 Jul 2026:** Digital India governance-guidelines page remains live. **Status:** governance framework publicly articulated. | Use it to connect India’s official narrative of responsible AI adoption with its light-touch, pro-innovation stance. |
+| 📰 **27 Feb 2025:** public consultation on MeitY's AI Governance Guidelines report closed. **Status:** consultation completed; report is non-binding. | Use it to make the instrument-hierarchy point: India chose **consultation and guidance** first, deliberately avoiding an EU-style ex-ante statute. |
+| 📰 **10 Feb 2026:** G.S.R. 120(E) amended the IT Rules, 2021 for **synthetically generated information**. **Status:** binding subordinate legislation. | Use it as the concrete answer to "how does India regulate AI?": through **intermediary law and labelling duties**, targeting the highest-salience harm (deepfakes) rather than model development. Then evaluate the trade-off — fast to deploy, but it regulates distribution rather than creation. |
+| 📰 **19-20 Feb 2026:** India AI Impact Summit, New Delhi. **Status:** held. | Use it for the diplomacy angle: India's positioning as a voice for the Global South on inclusive AI, alongside its GPAI chairing history. |
+| 📰 **16 Jul 2026:** Digital India governance-guidelines page remains live. **Status:** governance framework publicly articulated, **not enforceable regulation**. | Use it to connect India’s official narrative of responsible AI adoption with its light-touch, pro-innovation stance — while keeping "articulated" and "enforceable" strictly separate. |
 
-*Current as of 16 Jul 2026; verify for later updates.*
+*Current as of 16 Jul 2026, re-verified 2 Aug 2026; verify for later updates.*
 
 ## 11. PYQ application
 

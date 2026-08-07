@@ -33,6 +33,8 @@ and **stress-testing the option against the text** - never by outside knowledge.
 |---|---|
 | ✅ **Inference vs Assumption** | Inference = a **new** statement forced by the text (a *conclusion*). Assumption = an **unstated premise** the argument already **needs** (a *foundation*). |
 | ✅ **Inference vs Implication** | Both follow from the text; UPSC often uses them interchangeably. Test both the same way: **must it be true given the passage?** |
+| ✅ **Implication vs Equivalence** | A passage that says `A -> B` has **not** said `B -> A`. Only an "if and only if" (or an explicit definition) licenses the reverse. A reversed option is a **distortion**, not an inference. |
+| ✅ **Necessary vs Sufficient** | "Necessary" = the claim fails without it; "sufficient" = it settles the claim. A passage saying "X is necessary but not enough" rules out both "X is useless" and "X guarantees the outcome". |
 | ✅ **Central idea vs Detail** | Central idea spans the **whole** passage; a detail is one supporting sentence. A detail option is a classic main-idea distractor. |
 | ✅ **Tone vs Content** | Tone is the author's **attitude** (neutral, critical, cautionary, optimistic), read from **word choice**, independent of the facts stated. |
 | ✅ **Stated vs Entailed** | "Stated" = literally in the text. "Entailed" = must be true even if not literal. Both are acceptable; "merely true in the world" is not. |
@@ -50,6 +52,26 @@ and **stress-testing the option against the text** - never by outside knowledge.
 - ⚠️ **Two-survivor rule.** When two options remain, find the **single word** that makes one
   unsupported (an added "only", "all", "because"). *Condition:* the discriminator must be a
   text-vs-option mismatch, not your preference.
+
+### 3.1 Time-saving decision ladder (RC is where the clock is won or lost)
+
+⚠️ Comprehension is the largest audited family, so its **time policy** matters more than any single
+technique. Climb only as far as you need:
+
+| Rung | Spend | Do this | Exit when |
+|---|---|---|---|
+| **1. Type** | ~5 s | Name the stem type (idea / inference / assumption / tone / statement-set). | Always do this. |
+| **2. Predict** | ~10 s | Answer in your own words **before** reading options. | A prediction exists. |
+| **3. Match** | ~20 s | Scan for the option closest to the prediction. | One clear match -> **mark and leave**. |
+| **4. Eliminate** | ~30 s | Kill options by out-of-passage / over-generalisation / reversal / half-right. | Two or fewer survive. |
+| **5. Discriminate** | ~20 s | Find the one word that breaks a survivor; apply the negation test on assumption stems. | One survivor. |
+| **6. Escalate or park** | - | If two still survive, take the **more modest** claim; if none does, **park it** and move on. | The per-item ceiling is hit. |
+
+- 🔑 **Escalation rule:** never re-read a whole passage for one option. Re-read only **the sentence
+  the option points at**. If the option points at no sentence, it is already wrong.
+- ⚠️ **Statement-set items** ("which of the statements given above is/are correct") are the exception
+  worth extra time: each statement is a **separate** true/false decision, and settling even two of
+  three usually eliminates every option but one. Judge statements individually, never as a bundle.
 
 ## 4. Two-passage compare sets (a recurring PYQ format)
 
@@ -121,10 +143,15 @@ overshoots ("hostile/dismissive").
 - ❌ Treating an **assumption** stem like an inference (choosing a conclusion). -> Use the negation
   test.
 - ❌ Rewarding an option for **sophistication** or length. -> Support beats style.
+- ❌ Turning a passage's **"can"** into **"must"**, or its `A -> B` into `B -> A`. -> That is an
+  equivalence the text never granted.
+- ❌ Reading "necessary" as "sufficient" (or as "irrelevant"). -> Keep the two words apart.
 - ❌ Letting a **single distorted word** slip through ("because", "only", "all"). -> Two-survivor
   rule.
 - ❌ In two-passage sets, crediting an option supported by **one** passage when the stem needs
   **both**. -> Map to P1/P2/both/neither first.
+- ❌ Judging a statement-set item as one bundle. -> Decide each numbered statement separately, then
+  read the code.
 - ❌ Reading **tone** from the facts instead of the **wording**. -> Tone lives in adjectives and
   irony.
 
@@ -134,9 +161,11 @@ overshoots ("hostile/dismissive").
 |---|---|---|
 | Out-of-passage "true" options | **P** | Force "quote the line" before selecting. |
 | Assumption items | **C/A** | Do 10 negation-test reps until automatic. |
+| Reversed relations / "can" read as "must" | **R** | Draw the arrow in the margin before reading options. |
 | Central-idea vs detail | **R** | Summarise each passage in one line before options. |
+| Statement-set items | **A** | Mark each numbered statement T/F in the margin, then read the code. |
 | Tone/scope | **C** | Build a tone word-bank (neutral/critical/cautionary/optimistic). |
-| Slow reading | **T** | One read only; stem-first; predict before options. |
+| Slow reading | **T** | One read only; stem-first; predict before options; obey the Section 3.1 ladder. |
 
 ## 9. Advanced drill (with full solutions)
 
@@ -164,6 +193,13 @@ overshoots ("hostile/dismissive").
    (c) Strong students never need improvement.
    (d) Average marks and value added always agree.
 
+4. **Which of the statements given below is/are supported by the passage?**
+   1. A fairer measure can also be a harder one to compute.
+   2. Any school with a high average mark must be adding little value.
+   3. Discouraging weak students would tend to raise a school's average.
+
+   (a) 1 only  (b) 1 and 3 only  (c) 2 and 3 only  (d) 1, 2 and 3
+
 **Solutions.**
 
 1. **(b).** Captures both the problem (perverse incentive) and the proposed fairer gauge. (a)/(c) are
@@ -174,6 +210,17 @@ overshoots ("hostile/dismissive").
 3. **(a).** If average marks reward student selection while value-added measures improvement, a
    selective school can look good on averages yet add little - a forced inference. (b) contradicts
    "harder", not "impossible"; (c)/(d) are unsupported absolutes.
+4. **(b).** Judge each statement separately.
+   - **1 - supported.** The passage calls value-added "a fairer gauge ... though this is harder to
+     measure": fairer **and** harder, exactly as stated.
+   - **2 - not supported.** The passage says a selective school **can** look good on averages while
+     adding little; it never says every high-average school does. Turning "can" into "must" reverses a
+     one-way claim into an equivalence - the classic **implication-vs-equivalence** distortion.
+   - **3 - supported.** "A struggling child lowers the average" entails that removing or discouraging
+     such children raises it. That is the **contrapositive-style** move the passage itself relies on.
+
+   ⚠️ Note the economy of this format: settling statement 2 alone kills options (c) and (d), and
+   settling statement 3 then decides between (a) and (b). **You rarely need all three.**
 
 ## 10. PYQ-pattern notes (2024-2026, Set A)
 
@@ -182,6 +229,9 @@ overshoots ("hostile/dismissive").
   assuming the same annual distribution.
 - ⚠️ The dominant stems are **inference** and **assumption**, plus **central idea** and occasional
   **tone/practical-message**; pure vocabulary items are rare.
+- ⚠️ The provisional 2026 paper leans noticeably on the **numbered-statement format** - "Which of the
+  following statements is/are correct?" followed by two or three statements and a code - alongside
+  "conclusions", "inferences" and "assumptions" stems. Practise deciding statements **individually**.
 - ⚠️ **Two-passage** sets recur - practise the "P1/P2/both/neither" mapping.
 - ⚠️ Passages span economics, science, environment and governance, but **no outside knowledge is ever
   required** - which is exactly why passage-only discipline is the decisive habit.

@@ -92,10 +92,10 @@ historical dynamic.
 
 - ⚠️ **Neighbourhood First policy statements** and prime-ministerial visits set
   the political framing for bilateral engagement with each neighbour.
-- ✅ **MEA bilateral briefs** (e.g., the updated India-Sri Lanka brief, 2025, and
-  the India-Bhutan brief, November 2025) are the authoritative current record of
-  each relationship's state and instruments — cite the specific dated brief
-  rather than an undated general claim.
+- ✅ **MEA bilateral briefs** are the authoritative current record of each
+  relationship's state and instruments — the India-Sri Lanka and India-Bhutan
+  briefs were current to July 2026 and the India-Maldives brief to June 2026;
+  cite the specific dated brief rather than an undated general claim.
 - ⚠️ **Cross-border connectivity instruments:** power-grid interlinkage
   agreements, transit and transport protocols, and river-water-sharing
   arrangements are the operational tools of the doctrine (Geography owns route
@@ -104,6 +104,19 @@ historical dynamic.
   engaging India through a regional framework (rather than purely bilateral
   channels) is a key input into why regional groupings matter — SAARC and
   BIMSTEC institutional comparison is treated in topic 10, not here.
+
+**Dated bilateral instruments and status markers (verified 3 August 2026):**
+
+| Neighbour | Dated instrument / status marker | Evidentiary level |
+|---|---|---|
+| Sri Lanka | Seven MoUs exchanged during the Prime Minister's visit, 5 April 2025 (HVDC power interconnection; digital transformation; India-Sri Lanka-UAE Trincomalee energy hub; defence cooperation; Eastern Province grant assistance; health/medicine; pharmacopoeial cooperation) | Signed MoUs — not proof that each project is operational; the 120 MW Sampur solar project had its ground-breaking, not commissioning |
+| Maldives | India-Maldives Joint Vision, 7 October 2024 (records support of USD 400 million and INR 30 billion as a currency-swap arrangement); FTA Terms of Reference signed and negotiations launched 25 July 2025; INR 4,850 crore Line of Credit | Vision document + ToR + LoC — an FTA has not been concluded |
+| Bhutan | India's INR/Nu 100 billion (₹10,000 crore) commitment for Bhutan's 13th Five Year Plan (2024-29); rail-link MoU of 29 September 2025 for Kokrajhar-Gelephu and Banarhat-Samtse; support for Gelephu Mindfulness City expressed 12 November 2025 | Commitment + MoU + political support — not commissioned rail links or an operating city |
+| Bangladesh | India engaged the interim government from 16 August 2024 and pressed for early inclusive elections (20 August 2025); parliamentary elections held 12 February 2026; the 1996 Ganga Waters Treaty expires in December 2026 and India stated on 13 February 2026 that renewal talks had not begun | Engagement + election fact + treaty-expiry fact — no renewed treaty |
+| Nepal | India welcomed the interim government led by Sushila Karki on 12 September 2025 after the September 2025 unrest; elections held 5 March 2026; the 10,000 MW/10-year power-import understanding dates from 2 June 2023 | Political engagement + agreed power-trade target — not a revised 1950 Treaty |
+| Myanmar | India's stated position (31 August 2025) supports a Myanmar-led, Myanmar-owned peace process and inclusive elections; on the Kaladan Multi-Modal Transit Transport Project the waterway and Sittwe Port were operationalised (May 2023) while the road component lagged, with both sides still calling for completion on 1 June 2026 | Position statement + partially commissioned corridor |
+| Afghanistan | Engagement with the Taliban administration through the Foreign Secretary's Dubai meeting (8 January 2025) and the External Affairs Minister's New Delhi meeting (10 October 2025); India restored its Kabul Technical Mission to Embassy status with immediate effect on 21 October 2025 | Engagement + administrative upgrade — ⚠️ not a recognition declaration |
+| Pakistan | The Cabinet Committee on Security decided on 23 April 2025 that "the Indus Water Treaty of 1960 will be held in abeyance with immediate effect until Pakistan credibly and irrevocably abjures its support for cross-border terrorism"; Operation Sindoor was described officially on 7 May 2025 as "measured, non-escalatory, proportionate, and responsible"; on 10 May 2025 India recorded an "understanding... to stop all military activities" | Executive decision + operation + understanding — ⚠️ not treaty termination and not a formal ceasefire agreement |
 
 ## 5. Indian applications and examples
 
@@ -119,6 +132,14 @@ historical dynamic.
 - ⚠️ Maldives is cross-linked to topic 04 (Indo-Pacific/Indian Ocean maritime
   security) rather than treated in depth here, since its geostrategic salience is
   primarily maritime.
+- ⚠️ **Political-transition test in practice:** three neighbours changed
+  government or governing arrangement within a single cycle — Bangladesh (interim
+  government from August 2024; elections 12 February 2026), Nepal (interim
+  government under Sushila Karki welcomed by India on 12 September 2025;
+  elections 5 March 2026) and Sri Lanka (2024 change of government, followed by
+  seven MoUs on 5 April 2025). ⚠️ This is the strongest contemporary evidence for
+  Sikri's people-to-people prescription: engagement that survives a change of
+  regime is the operative test of Neighbourhood First.
 - ⚠️ **PYQ mapping:** no GS-II Mains question in the audited 2024-2025 papers
   directly names the South Asian neighbourhood (excluding Maldives, which is
   addressed by 2024 Q20 and cross-linked to topic 04). State this honestly rather
@@ -139,8 +160,18 @@ historical dynamic.
   transitions, cited by Sikri in Bangladesh (1971), Sri Lanka (1987) and Nepal
   (1950-51 and later crises) — treat these as historical references, not current
   claims.
-- 📰 Updated MEA bilateral briefs (India-Sri Lanka, 2025; India-Bhutan, November
-  2025) are the current authoritative record for each relationship.
+- 📰 The MEA bilateral briefs for Sri Lanka and Bhutan were current to July 2026
+  and the Maldives brief to June 2026 — they are the current authoritative record
+  for each relationship.
+- 📰 India restored its Kabul Technical Mission to Embassy status with immediate
+  effect on 21 October 2025 — an upgrade of diplomatic presence, ⚠️ not a
+  statement of recognition of the Taliban administration.
+- 📰 The Cabinet Committee on Security decided on 23 April 2025 that the Indus
+  Waters Treaty (1960) would be "held in abeyance" until Pakistan credibly and
+  irrevocably abjures support for cross-border terrorism — ⚠️ abeyance is India's
+  own stated position, not treaty termination under the treaty's own text.
+- 📰 The India-Bangladesh Ganga Waters Treaty of 1996 runs out in December 2026;
+  India stated on 13 February 2026 that renewal talks had not begun.
 
 ## 7. UPSC traps
 
@@ -162,14 +193,28 @@ historical dynamic.
   intervention. -> Sikri's historical examples are cited as instances of
   influence and involvement, not a standing doctrine of intervention; India's
   stated posture (Gujral Doctrine) is non-interference.
+- ❌ India has terminated the Indus Waters Treaty. -> The official decision
+  (23 April 2025) is that the Treaty is "held in abeyance" pending a change in
+  Pakistan's conduct; India separately maintains that the Court of Arbitration
+  seized of the matter is illegally constituted and its awards "null and void."
+  Neither claim is the same as treaty termination.
+- ❌ Upgrading the Kabul mission to an Embassy (21 October 2025) amounts to
+  recognition of the Taliban administration. -> It is a change in the level of
+  India's diplomatic presence; the official record does not contain a
+  recognition declaration.
 
 ## 8. 📰 Current anchor
 
-- 📰 The updated MEA bilateral brief on **India-Sri Lanka relations (2025)** and
-  the **India-Bhutan bilateral brief (November 2025)** are the current
-  authoritative references for these two relationships. Use the specific dated
-  brief for any claim about current connectivity projects, credit lines or
-  visit-level engagement rather than an undated general statement.
+- 📰 The MEA bilateral briefs on **India-Sri Lanka (July 2026)**, **India-Bhutan
+  (July 2026)** and **India-Maldives (June 2026)** are the current authoritative
+  references. Use the specific dated brief for any claim about current
+  connectivity projects, credit lines or visit-level engagement rather than an
+  undated general statement.
+- 📰 The **seven India-Sri Lanka MoUs of 5 April 2025** and the **India-Maldives
+  FTA Terms of Reference of 25 July 2025** are the two clearest dated markers of
+  Neighbourhood First delivery in the current cycle — ⚠️ both are pre-delivery
+  instruments (MoU and terms of reference), not completed projects or a concluded
+  free trade agreement.
 
 ## 9. PYQ application
 
@@ -192,6 +237,10 @@ historical dynamic.
 - ⚠️ Use the people-to-people reorientation argument to answer questions about
   sustaining ties across changes of government in a neighbouring state.
 - ⚠️ Cite a dated MEA bilateral brief rather than an undated connectivity claim.
+- ⚠️ Distinguish an executive decision on a treaty's operation (Indus Waters
+  Treaty "in abeyance," 23 April 2025) from treaty termination, and a change of
+  mission level (Kabul Embassy, 21 October 2025) from recognition of a
+  government.
 
 > **Answer thesis:** India's neighbourhood policy manages a structural
 > power asymmetry through non-reciprocal accommodation (the Gujral Doctrine),

@@ -90,9 +90,17 @@ advanced answers must name the mechanism of failure, not just assert failure.
 
 ## 4. Institutional and reform architecture
 
-- ✅ CVC Act, 2003 (a direct outcome of the Supreme Court's *Vineet Narain* judgment, 1997) gave the
-  CVC statutory status and superintendence over the CBI's anti-corruption functions — a structural
-  attempt to address the internal-control independence problem the ARC's Colloquium diagnosis names.
+- ✅ CVC Act, 2003 (assent 11 September 2003) — a direct outcome of the Supreme Court's *Vineet
+  Narain v. Union of India*, (1998) 1 SCC 226, decided 18 December 1997 — gave the CVC statutory
+  status and superintendence over the CBI's functions in relation to Prevention of Corruption Act
+  offences: a structural attempt to address the internal-control independence problem the ARC's
+  Colloquium diagnosis names.
+- ⚠️ 📰 The same Act inserted Section 6A into the Delhi Special Police Establishment Act, 1946 (the
+  statutory "single directive" requiring prior Central Government approval to investigate officers
+  of Joint Secretary rank and above). That safeguard was **struck down as violative of Article 14**
+  by a Constitution Bench in *Dr. Subramanian Swamy v. Director, CBI*, (2014) 8 SCC 682, decided
+  6 May 2014 — the approval requirement now operative is the differently designed, rank-neutral
+  Section 17A of the PC Act, inserted in 2018 (see `19`, `21`).
 - ⚠️ A Lokpal-type institution (see `20`) is designed specifically to address the "final decision
   rests with the executive" failure mode by creating an authority with its own prosecutorial
   reference power over high-level functionaries, outside ordinary executive control.
@@ -123,13 +131,16 @@ advanced answers must name the mechanism of failure, not just assert failure.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ The CVC was accorded statutory status via the Central Vigilance Commission Act, 2003, following
-  the Supreme Court's 1997 *Vineet Narain v. Union of India* judgment.
+- ✅ The CVC was accorded statutory status via the Central Vigilance Commission Act, 2003 (assent
+  11 September 2003), following the Supreme Court's *Vineet Narain v. Union of India*, (1998) 1 SCC
+  226, decided 18 December 1997. The Commission itself dates from an executive resolution of 1964,
+  on the Santhanam Committee's recommendation.
 - ✅ The Fifth Pay Commission specifically recommended concurrent (rather than exclusively post-
   facto) audit to reduce the time-lag between corrupt acts and their exposure.
 - ✅ ARC's Colloquium annexure names five specific mechanisms of internal-control failure in India
   (collusion, lack of investigative independence, sabotage of investigation, executive control over
-  the final decision, and excessive procedural stages).
+  the final decision, and excessive procedural stages — the annexure counts twelve stages in a
+  typical departmental action).
 
 ## 8. Advanced Prelims traps
 

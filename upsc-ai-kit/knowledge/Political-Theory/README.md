@@ -1,5 +1,7 @@
 # Political Theory - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Political Theory (GS-II / PSIR conceptual foundation) | **Spine:** O. P. Gauba,
 > *An Introduction to Political Theory*, Fifth Edition (2009), read directly and mapped to a
 > 23-topic file spine; supplemented directly from the supplied *Socio-Political Philosophy* PDF

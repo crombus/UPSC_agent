@@ -2,8 +2,9 @@
 
 > **Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV.
 > **Core area:** Human values, their sources, and administrative lessons from leaders/reformers.
-> **Grounded in:** 2nd ARC, 4th Report *Ethics in Governance* (2007); audited GS-IV PYQs
-> (2024-2025 Mains, verbatim quotations).
+> **Grounded in:** 2nd ARC, 4th Report *Ethics in Governance* (2007) — **Box 2.8** (Gandhi's Seven
+> Social Sins) and **Annexure-I(2)** (Kautilya passages in the ARC Chairman's National Colloquium
+> speech, 1 September 2006); audited GS-IV PYQs (2024-2025 Mains, verbatim quotations).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/02_Human-Values-and-Lessons-from-Leaders.md`.*
 
@@ -41,11 +42,15 @@ limitation.
 
 ### Gandhi's Seven Social Sins — deeper reading
 
-- ✅ Cited at the ARC's National Colloquium (Minister Suresh Pachouri's address) as a prescient
+- ✅ Reproduced in ARC **Box 2.8** and sourced there to Gandhi in *Young India*, 1925 — a prescient
   warning against decoupling ends (wealth, pleasure, knowledge, politics, commerce, worship) from
   ethical means (work, conscience, humanity, character, principle, morality, sacrifice).
+- ⚠️ Provenance nuance worth one line in an answer: in the *Young India* note of 22 October 1925
+  Gandhi presented the list as one his correspondent wanted readers to know; the ARC's Box also
+  prints "leisure without conscience" where the original reads "pleasure without conscience". Cite
+  it as a list Gandhi published and endorsed.
 - ⚠️ Administrative reading: each "sin" names a **means-ends decoupling** — e.g., "politics without
-  principle" anticipates exactly the ARC's later (1.12) diagnosis that corrupt political markets
+  principles" anticipates exactly the ARC's later (1.12) diagnosis that corrupt political markets
   displace rather than eliminate corruption.
 - ⚠️ Limitation: as a list of prohibitions it does not itself supply an enforcement mechanism — it
   must be paired with institutional design (Nolan-type codes, `09`/`16`), consistent with the
@@ -53,8 +58,15 @@ limitation.
 
 ### Vivekananda's two tested quotations — synthesis
 
-- ✅ "Learn... but do not become others" (2024) and "strength of a society is... in the morality of
-  its people" (2025) together form a coherent position: **selective institutional borrowing** +
+- ✅ "Learn everything that is good from others, but bring it in, and in your own way absorb it; do
+  not become others" (2024) is traceable to the *Complete Works*, Vol. III, "The Common Bases of
+  Hinduism" (Lahore, 1897).
+- ⚠️ "The strength of a society is not in its laws, but in the morality of its people" (2025) is
+  set by UPSC as Vivekananda's but is **not traceable** to the *Complete Works*. The nearest
+  documented statement of the theme is from "Our Duty to the Masses" (23 June 1894): "No country on
+  earth has so many laws, and in no country are they so little regarded." Answer the proposition;
+  do not manufacture a citation.
+- ⚠️ Read together they still form a coherent position: **selective institutional borrowing** plus
   **primacy of internalised societal morality over external law**.
 - ⚠️ Advanced application: when India adapts a foreign anti-corruption model (Hong Kong's ICAC,
   Singapore's CPIB — see `23`), Vivekananda's principle argues for adaptation to Indian federal,
@@ -63,12 +75,18 @@ limitation.
 
 ### Kautilya — the earliest structural (not moral) theory of corruption
 
-- ✅ Quoted at the ARC Colloquium: an official handling the king's money "cannot but taste" some of
-  it, "just as a fish moving inside water cannot be known when drinking water."
+- ✅ Quoted in ARC **Annexure-I(2)** (National Colloquium speech of ARC Chairman M. Veerappa Moily,
+  1 September 2006), which reproduces five *Arthashastra* propositions: officials handling the
+  king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison
+  (Kangle 2.9.32); embezzlement is as unobservable as a fish drinking water (2.9.33); "it is
+  possible to know even the path of birds flying in the sky, but not the ways of officers moving
+  with their intentions concealed" (2.9.34); those who have amassed money wrongfully should be made
+  to disgorge it and be moved to other work; and those who increase the king's wealth "in just
+  ways" should be made permanent in their offices.
 - ⚠️ This is a **structural/opportunity theory** of corruption predating modern institutional
-  economics by roughly two millennia — Kautilya's prescribed remedy (rewarding officials who
-  increase royal wealth "in just ways," removing/reassigning those who misappropriate) anticipates
-  today's performance-linked, rotation-based vigilance mechanisms (see `21`).
+  economics by roughly two millennia — the prescribed remedy (positive permanence for the honest,
+  disgorgement and reassignment for the rest) anticipates today's performance-linked,
+  rotation-based vigilance mechanisms (see `21`).
 - ⚠️ Advanced distinction: Kautilya's realism (assume temptation is near-universal; design controls
   accordingly) sits in productive tension with Gandhi's character-based idealism — a strong Mains
   answer can use *both* registers depending on the question's framing (systemic design vs personal
@@ -79,6 +97,10 @@ limitation.
 - ✅ 2025 GS-IV Q4(b) tested "major teachings of Mahavir" and their "relevance in the contemporary
   world" — Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha (five *Mahavratas*), plus Anekantavada
   and Syadvada.
+- ⚠️ Precision point worth one line: Jain tradition contrasts Parshvanatha's four restraints with
+  Mahavir's five. Brahmacharya is best described as the vow Mahavir's tradition *separately
+  enumerated*, having earlier been understood as included within aparigraha — not as an ethical
+  idea Mahavir is documented to have invented.
 - ⚠️ Administrative translation: Anekantavada supports structured multi-stakeholder consultation
   (e.g., before a land-acquisition or environmental-clearance decision) as an epistemic discipline,
   not mere procedural box-ticking — it says complex public decisions are irreducibly many-sided.
@@ -88,11 +110,13 @@ limitation.
 
 ## 4. Institutional translation of value-education
 
-- 📰 Mission Karmayogi/NPCSCB (2020-ongoing) explicitly builds "behavioural competencies" (values,
-  attitude, integrity) into the foundational and mid-career training curriculum via the iGOT
-  platform — the institutional mechanism for converting the leader-based lessons in this file into
-  standardised civil-service capacity building (verify current course catalogue independently for
-  any specific claim beyond this general status).
+- 📰 Mission Karmayogi / the National Programme for Civil Services Capacity Building (NPCSCB),
+  approved by the Union Cabinet on **2 September 2020**, builds behavioural competencies (values,
+  attitude, integrity) into training through the **FRAC** approach (Framework of Roles, Activities
+  and Competencies) and the **iGOT-Karmayogi** platform, with the **Capacity Building Commission**
+  established on **1 April 2021**. Official scale, as reported to Parliament with data as on
+  **6 February 2026**: over 1.49 crore users, 4,342 courses, 7.26 crore course completions and 23
+  languages. Do not assert a general APAR/appraisal linkage without a service-specific DoPT order.
 - ⚠️ Value-education in Mains answers should therefore reference *both* the classical exemplar and
   the current institutional delivery mechanism, showing the values-plus-institutions synthesis in
   practice.
@@ -118,11 +142,14 @@ limitation.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ The "Seven Social Sins" phrase is Gandhi's; it was invoked in the ARC's own National Colloquium
-  proceedings on Ethics in Governance (2006), reproduced in the 4th Report's annexures.
+- ✅ The "Seven Social Sins" list appears in the 4th Report as **Box 2.8**, sourced there to Gandhi
+  in *Young India*, 1925 (original note dated 22 October 1925, Collected Works Vol. XXVIII).
 - ✅ Mahavir's five Mahavratas: Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha.
-- ✅ Anekantavada and Syadvada are Mahavir/Jain doctrines of the many-sidedness and conditional
-  predication of truth, distinct from moral relativism.
+- ✅ Anekantavada and Syadvada are Jain doctrines of the many-sidedness and conditional
+  predication of truth (*syat* = "in some respect / from a standpoint"), distinct from moral
+  relativism.
+- ✅ The Kautilya passages the ARC quotes are from the *Arthashastra*'s chapter on inspecting the
+  work of officers — Kangle's numbering 2.9.32-34.
 
 ## 8. Advanced Prelims traps
 
@@ -139,7 +166,7 @@ limitation.
 
 | Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| ⚠️ Mission Karmayogi/NPCSCB uses the iGOT platform for competency-based civil-service learning | Shows an institutional channel through which value lessons can be translated into training; do not claim a general APAR linkage without an exact DoPT order and scope. |
+| 📰 Mission Karmayogi/NPCSCB uses the iGOT-Karmayogi platform and the FRAC competency framework for civil-service learning (Cabinet approval 2 September 2020; Capacity Building Commission from 1 April 2021) | Shows an institutional channel through which value lessons can be translated into training; cite the 6 February 2026 parliamentary figures rather than undated claims, and do not claim a general APAR linkage without an exact DoPT order and scope. |
 
 ## 10. PYQ-based analytical application
 

@@ -5,8 +5,11 @@
 > classification; attributes of internal security; root causes; the
 > eight-element internal-security doctrine.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
-> India*, PDF pp. 1-6; `00_Master-Framework.md` Sections 1-6; audited
-> GS-III syllabus.
+> India*, PDF pp. 1-6; VisionIAS, *Challenges to Internal Security through
+> Communication Network*, PDF p. 14 (risk model); VisionIAS, *Security
+> Challenges and Their Management in Border Areas*, PDF p. 4; Laxmikant,
+> *Indian Polity*, PDF pp. 329, 1332 (Seventh Schedule entries);
+> `00_Master-Framework.md` Sections 1-6; audited GS-III syllabus.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/01_Internal-Security-Foundations-and-Governance.md`.*
 
@@ -88,6 +91,17 @@ armed police forces, if required" (PDF p. 1).
 
 - ✅ **Ministry of Home Affairs (MHA):** the nodal ministry for internal
   security in India (Singh, PDF p. 1).
+- ✅ **The constitutional division that shapes every response** (Seventh
+  Schedule, as reproduced in Laxmikant, *Indian Polity*, PDF p. 1332):
+  **State List Entry 1** (public order) and **Entry 2** (police) make the
+  State the primary actor; **Union List Entry 2A** permits "deployment of
+  any armed force of the Union in any state in aid of the civil power";
+  **Union List Entry 8** covers the Central Bureau of Intelligence and
+  Investigation and **Entry 9** preventive detention connected with the
+  security of India; **Article 355** places on the Union a duty to protect
+  every State against external aggression and internal disturbance.
+  ⚠️ Note the wording "in aid of the civil power" — central forces
+  supplement, they do not displace, the State's own authority.
 - ✅ **Multi Agency Centre (MAC):** cited by Singh as "a good beginning" on
   intelligence coordination even at the doctrine-formation stage (PDF p.
   6) — institutional detail developed fully in topic 12.
@@ -97,6 +111,23 @@ armed police forces, if required" (PDF p. 1).
 - ⚠️ **Navy/Coast Guard/Coastal Police role clarity:** flagged even at the
   doctrine stage as needing clearly defined, harmonised roles (Singh, PDF
   p. 6) — developed in topic 07.
+
+## 4A. Threat, vulnerability and capability — the three-variable habit
+
+⚠️ The single most useful discipline before writing any answer in this
+folder is to separate three things Singh's root-cause list mixes together:
+
+| Variable | Definition (VisionIAS, *Communication Network*, PDF p. 14) | Internal-security example |
+|---|---|---|
+| ✅ **Threat** | A circumstance or event "with the potential to negatively affect" operations or assets — with its own source/actor, vector and target | A Pakistan-sponsored infiltration module (topic 05) |
+| ✅ **Vulnerability** | A "weakness in a system, security procedure, internal control, or implementation that can be exploited by a threat source" | A porous, difficult-terrain border stretch (topic 06) |
+| ⚠️ **Capability** | The state's actual means of prevention and response — not merely its legal power | Trained, equipped border-guarding manpower and surveillance cover (topics 06, 12) |
+| ✅ **Consequence** | "The adverse results that occur when threats exploit vulnerabilities" | A successful attack, displacement, or loss of state legitimacy |
+
+⚠️ Why it earns marks: hostile *intent* is largely outside India's
+control, so almost every workable "measures/way forward" answer is really
+about **reducing vulnerability** and **building capability**. Saying so
+explicitly converts a list of schemes into an argument.
 
 ## 5. Indian applications and examples
 
@@ -130,7 +161,16 @@ armed police forces, if required" (PDF p. 1).
   governance, police & security forces, Centre-State coordination,
   intelligence, border management and cyber security.
 - ✅ India's land border stretches nearly 15,000 km, shared with six
-  countries (Singh, PDF p. 6) — precise current figures belong to topic 06.
+  countries (Singh, PDF p. 6). ⚠️ MHA's current figure, as reproduced by
+  VisionIAS, is **15,106.7 km of land border shared with seven countries**
+  (including the claimed 106 km with Afghanistan) plus a **7,516.6 km
+  coastline including island territories** (*Security Challenges and Their
+  Management in Border Areas*, PDF p. 4) — precise sector-wise figures
+  belong to topics 06 and 07.
+- ✅ Under the Seventh Schedule, public order (State List Entry 1) and
+  police (Entry 2) are State subjects, while deployment of any armed force
+  of the Union in a State "in aid of the civil power" is Union List
+  Entry 2A.
 
 ## 7. UPSC traps
 
@@ -148,6 +188,16 @@ armed police forces, if required" (PDF p. 1).
 - ❌ Root causes are only external (hostile neighbours). -> Singh lists
   poverty, unemployment, inequitable growth and governance deficit as
   equally significant, largely domestic, root causes.
+- ❌ A threat and a vulnerability are the same thing. -> A threat is a
+  hostile actor or event; a vulnerability is the exploitable weakness that
+  lets it succeed; capability is the state's means of response. Only their
+  convergence produces harm — and India's policy levers act mainly on the
+  second and third, not the first (Section 4A).
+- ❌ Because police is a State subject, the Centre has no
+  internal-security role. -> Union List Entry 2A expressly provides for
+  deployment of armed forces of the Union in a State "in aid of the civil
+  power," and Article 355 places a protective duty on the Union; the
+  design is cooperative, not exclusive, on either side.
 
 ## 8. 📰 Current anchor
 
@@ -166,6 +216,13 @@ armed police forces, if required" (PDF p. 1).
   distinction. State this honestly; this topic is the common introduction/
   conclusion framework for the eight threat-specific PYQs mapped across
   topics 02-03, 06-07 and 09 in this folder.
+- ✅ **Essay 2025, Section A(2) (verbatim from the local paper):** "The
+  supreme art of war is to subdue the enemy without fighting." This is the
+  folder's clearest Essay route: the doctrine's non-kinetic elements
+  (political settlement, socio-economic delivery, governance, intelligence
+  and cyber security) are precisely the tools that subdue a threat without
+  fighting, while proxy war, hybrid warfare and information operations
+  (topics 02, 05, 09) are the same principle used *against* India.
 
 ## 10. Mains angles
 

@@ -3,11 +3,14 @@
 > **Subject:** Internal Security | **Tier:** Advanced | **GS Paper:** GS-III.
 > **Core area:** The NCTC federalism critique; intelligence-operations-
 > investigation-prosecution as a federal chain, not a central monopoly;
-> terror financing disruption; the rights/accountability dimension of
-> counter-terror law; PRAHAAR's design logic.
+> designation versus prosecution after the 2019 UAPA amendment; the
+> BNS-versus-UAPA forum-choice problem; terror financing disruption; the
+> rights/accountability dimension of counter-terror law; PRAHAAR's design
+> logic.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
 > India*, PDF pp. 13-22; `00_Master-Framework.md` Sections 5-9; audited
-> GS-III syllabus; MHA, *PRAHAAR* (23 February 2026).
+> GS-III syllabus; MHA, *PRAHAAR* (23 February 2026); UAPA (Amendment) Act
+> 2019, NIA (Amendment) Act 2019 and BNS 2023 as published in India Code.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/02_Terrorism-and-Counter-Terror-Architecture.md`.*
 
@@ -35,6 +38,8 @@ architecture.
 | ✅ **State police's irreplaceable local role** | ✅ Singh argues the "first person to reach the site of a terrorist attack would invariably be the local police," and that "preservation of evidence, securing witnesses, managing the media... are other dimensions... which can only be handled by the state police" (PDF p. 19) — a structural, not merely political, argument for State-police primacy in prevention, containment and initial investigation. |
 | ✅ **Four-function counter-terror chain** | ✅ Singh's own structuring device: intelligence gathering → training/operations → investigation → prosecution (PDF pp. 19-21), each with a distinct primary institutional owner. |
 | ⚠️ **Deniability vs. accountability** | The proxy-actor logic (basic topic Section 3) that gives a sponsor state deniability is mirrored, on the domestic response side, by the need for transparent, accountable investigation and prosecution — using non-transparent or extra-legal methods to counter a deniable threat undermines the rule-of-law legitimacy the response depends on. |
+| ⚠️ **Designation vs. prosecution — two different legal logics** | The UAPA (Amendment) Act, 2019 lets the Central Government notify an **individual** as a terrorist in the Fourth Schedule. This is an **executive, preventive/expressive** act (it signals, restricts and enables listing-linked measures) with a statutory denotification/review route; prosecution is a **judicial, punitive** process requiring proof beyond reasonable doubt. ⚠️ The rights critique is precisely that the first carries reputational and practical consequences without the second's evidentiary threshold; the security case is that organisational bans are easily defeated by re-naming, which individual designation addresses. An advanced answer states both, and never treats designation as guilt. |
+| ⚠️ **Concurrent special and general law — the forum-choice problem** | Since 1 July 2024, the same conduct can attract BNS Section 113 (terrorist act, general penal law, State-police-led) or UAPA (special law, with NIA's concurrent jurisdiction, stricter bail under Section 43D(5) and a sanction requirement under Section 45). ⚠️ BNS Section 113 places the choice with an officer not below SP rank. This is a genuinely new federal-design question: an executive officer's forum choice now determines which bail regime, sanction requirement and investigating agency apply — a discretion that did not exist before 2024 and that Mains answers on "counter-terror architecture" can legitimately flag as needing guidelines. |
 
 ## 3. Detailed causal chain: from 26/11 to PRAHAAR
 
@@ -65,6 +70,14 @@ architecture.
    threat domains — cyberattacks by criminal/state actors, drone-based
    attacks, dark web/cryptocurrency misuse — alongside classical
    cross-border terrorism, linking this topic forward to topics 08-10.
+7. **Legal architecture widened in parallel, in two directions:** ⚠️ the
+   2019 amendments widened *central* reach (individual designation under
+   UAPA; NIA's extraterritorial jurisdiction and expanded schedule under
+   the NIA Act), while BNS Section 113 (1 July 2024) widened *general* and
+   therefore *State-police* reach. The architecture has thus become more
+   centralised and more decentralised at the same time — which is why the
+   post-2024 coordination question is no longer "who investigates?" but
+   "under which statute, and on whose discretion?"
 
 ## 4. Institutional and reform architecture
 
@@ -79,6 +92,13 @@ architecture.
   need was substantially absorbed into MAC's expanded role and, later,
   PRAHAAR's framework — verify NCTC's precise current legal/operational
   status from a dated MHA source before making any claim about it.
+- ⚠️ **The post-2019 legal layer (not in Singh's book):** UAPA's Fourth
+  Schedule individual-designation power, Inspector-rank NIA investigation
+  and DG-NIA-approved property attachment; NIA's extraterritorial
+  jurisdiction and expanded schedule; and, from 1 July 2024, BNS Section
+  113. ⚠️ Each is a *statutory power*; none is evidence of throughput.
+  Cite conviction, attachment-confirmation or trial-completion data only
+  from a dated NIA/MHA/National Crime Records Bureau publication.
 - 📰 **PRAHAAR (2026):** the current apex policy document; its seven
   elements (prevention, response, aggregating capacities, human
   rights/rule of law, attenuating conditions, international alignment,
@@ -95,7 +115,19 @@ architecture.
   amendment bringing economic offences (fund-raising, counterfeiting)
   within "terrorist act" expands prosecutorial reach but also widens the
   space in which due-process safeguards must operate — an explicit
-  trade-off, not a costless expansion.
+  trade-off, not a costless expansion. ⚠️ The 2019 amendment sharpens the
+  same trade-off: individual designation is an executive act with real
+  consequences, and its safeguard is a review/denotification mechanism
+  rather than a prior judicial finding.
+- ⚠️ **Bail as the operative rights question, not detention length:**
+  under UAPA Section 43D(5) a court may not grant bail if, on the case
+  diary/report, there are reasonable grounds to believe the accusation is
+  prima facie true — a substantially higher bar than ordinary bail law.
+  ⚠️ This is why "arrest under UAPA" and "conviction under UAPA" can
+  diverge sharply in time and in number: the operative deprivation of
+  liberty often occurs during trial, not after it. An advanced answer that
+  identifies bail (not the length of the sentence) as the real
+  proportionality question is making the argument examiners reward.
 - ⚠️ **TADA/POTA's lapse as a legitimacy precedent:** both special laws
   were allowed to lapse or were repealed following documented misuse
   concerns (Singh, PDF pp. 16-17) — a precedent Mains answers can cite
@@ -130,9 +162,21 @@ architecture.
 
 - ✅ NCTC's core federalism objection: its proposed search/arrest powers
   over any part of the country, without mandatory State Government
-  involvement, were viewed as infringing States' policing powers.
+  involvement, were viewed as infringing States' policing powers; ✅ a
+  second objection in the same passage was institutional — granting arrest
+  powers to an intelligence body breaches the principle that intelligence
+  agencies do not arrest.
 - ✅ Singh's four-function counter-terror chain: intelligence gathering,
   training/operations, investigation, prosecution.
+- ✅ The UAPA (Amendment) Act, 2019 permits designation of **individuals**
+  as terrorists (Fourth Schedule) — an executive notification with a
+  statutory review route, not a judicial finding of guilt.
+- ✅ The NIA (Amendment) Act, 2019 extended NIA's jurisdiction to scheduled
+  offences committed **outside India** affecting Indian citizens or Indian
+  interests, and allowed Sessions Courts to be designated Special Courts.
+- ✅ BNS Section 113 (in force 1 July 2024) brings "terrorist act" into
+  general penal law; an officer not below SP rank decides whether to
+  proceed under BNS or UAPA.
 - 📰 PRAHAAR (23 February 2026) is organised around seven elements and
   explicitly recognises cyberattacks, drone-based attacks and dark
   web/cryptocurrency misuse as contemporary threat domains.
@@ -150,10 +194,20 @@ architecture.
 - ❌ PRAHAAR replaces NIA, MAC and State police with a new central body. ->
   PRAHAAR explicitly works through existing institutions; it is a policy
   and strategy framework, not a new operational agency.
+- ❌ Designation of an individual under UAPA and conviction for a
+  terrorist act are the same legal event. -> Designation is an executive
+  Fourth-Schedule notification; conviction requires a Special Court trial
+  to the criminal standard of proof. Conflating them is the single most
+  common rights-analysis error on this topic.
+- ❌ BNS Section 113 replaced or repealed UAPA. -> Both operate
+  concurrently; the practical question the 2024 codes created is which of
+  the two an SP-rank officer elects to invoke, and with what consequences
+  for bail, sanction and investigating agency.
 - ❌ Expanding UAPA's scope carries no legitimacy cost. -> Every expansion
   of investigative/prosecutorial reach (e.g., 2012 economic-offence
-  inclusion) requires a corresponding accountability safeguard to avoid
-  the misuse pattern that ended TADA and POTA.
+  inclusion, 2019 individual designation) requires a corresponding
+  accountability safeguard to avoid the misuse pattern that ended TADA and
+  POTA.
 
 ## 9. 📰 Current-anchor note
 
@@ -172,10 +226,14 @@ architecture.
   - Advanced structure: after the basic-tier answer (define, categorise,
     cite funding/response chain), add (i) the NCTC federalism lesson to
     show *why* India's architecture is cooperative rather than centralised;
-    (ii) the accountability trade-off in any UAPA-based measure cited;
-    (iii) PRAHAAR's explicit recognition of cyber/drone/dark-web threat
-    domains to demonstrate the "contemporary" dimension the question asks
-    for, each claim tied to a dated source.
+    (ii) the accountability trade-off in any UAPA-based measure cited,
+    naming bail under Section 43D(5) and the executive character of
+    individual designation rather than "misuse" in the abstract; (iii) the
+    post-2024 BNS-versus-UAPA forum-choice question as a genuinely
+    *contemporary* institutional development; (iv) PRAHAAR's explicit
+    recognition of cyber/drone/dark-web threat domains to demonstrate the
+    "contemporary" dimension the question asks for, each claim tied to a
+    dated source.
 
 ## 11. Mains-ready framework
 
@@ -206,9 +264,15 @@ its own right.
 - ⚠️ **Prelims:** Which constitutional feature underlay the primary
   objection to the National Counter Terrorism Centre (NCTC) as originally
   proposed?
+- ⚠️ **Prelims:** Under which Schedule of the UAPA may the Central
+  Government designate an individual as a terrorist, and is such
+  designation a judicial or an executive act?
 - ⚠️ **Mains (15 marks):** "India's counter-terror institutional
   architecture is cooperative-federal, not centralised, by constitutional
   necessity." Discuss with reference to the NCTC episode.
+- ⚠️ **Mains (15 marks):** "The 2019 amendment shifted UAPA's centre of
+  gravity from organisations to individuals." Examine the security
+  rationale and the due-process implications.
 - ⚠️ **Mains (15 marks):** Critically examine PRAHAAR (2026) as India's
   first comprehensive national counter-terrorism policy, distinguishing
   its policy-coordination role from an operational agency's role.

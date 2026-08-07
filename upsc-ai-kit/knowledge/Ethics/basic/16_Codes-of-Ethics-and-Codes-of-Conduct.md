@@ -50,13 +50,16 @@ unacceptable behaviour and action" — the two are complementary, not interchang
    e.g., ARC 2.4.2's Ministers' Code requires disclosure of assets/liabilities to the PM/CM, divestment
    from businesses supplying goods/services to government, and restrictions on accepting valuable
    gifts.
-3. ✅ ARC 2.4.5's recommendations: create a Code of Ethics *in addition to* the existing Code of
-   Conduct; set up dedicated monitoring units in the PM's/CM's offices; require an annual public
-   report on violations; extend to coalition-government Ministers uniformly.
-4. **Legislators** have their own parallel structure: Rajya Sabha's Code of Conduct (14 principles,
-   ARC 2.5.2.2) and the Lok Sabha Ethics Committee's six general principles (ARC 2.5.3.1) both
+3. ✅ ARC 2.4.4-2.4.5's recommendations: create a Code of Ethics *in addition to* the existing Code
+   of Conduct; set up dedicated monitoring units in the PM's/CM's offices, empowered to receive
+   public complaints; make the PM/CM duty-bound to ensure observance, "even in the case of coalition
+   governments where the Ministers may belong to different parties"; submit an annual report on
+   observance — with specific violations and action taken — to the appropriate legislature; and put
+   the Code of Ethics, the Code of Conduct and the annual report in the public domain.
+4. **Legislators** have their own parallel structure: the Rajya Sabha's Code of Conduct (ARC
+   2.5.2.2) and the Lok Sabha Ethics Committee's general ethical principles (ARC 2.5.3.1) both
    emphasise subordinating private interest to public trust, non-acceptance of fees/gifts for
-   parliamentary acts, and maintaining "high standards of morality, dignity, decency."
+   parliamentary acts, and maintaining high standards of morality, dignity and decency.
 5. ✅ 2025 GS-IV Q5(a) confirms this dual-code gap persists in the current exam's own framing: Code
    of Conduct "already in operation," Code of Ethics "not yet put in place" — asking candidates to
    "suggest a suitable model for code of ethics."
@@ -70,15 +73,19 @@ unacceptable behaviour and action" — the two are complementary, not interchang
   personal interest and public trust by subordinating the former, and forbids accepting fees for
   votes, bills, resolutions or questions.
 - ✅ The Mudgal case (1951) and the "cash-for-questions" case (2005) — both examined in `23` —
-  illustrate the Code of Conduct's *enforcement* dimension (expulsion for proven violation), distinct
-  from the aspirational Code of Ethics.
+  illustrate the Code of Conduct's *enforcement* dimension (ten Lok Sabha Members and one Rajya
+  Sabha Member expelled in the 2005 case), distinct from the aspirational Code of Ethics.
 
 ## 5. Must-Know Facts for Prelims
 
 - ✅ ARC 2.2.6: Code of Ethics = broad principles; Code of Conduct = precise, sanctionable rules.
-- ✅ The Rajya Sabha's Committee on Ethics was first constituted in 1997; the Lok Sabha's Committee
-  on Ethics was constituted in 2001 (present committee reconstituted 2005 per ARC's account).
-- ✅ ARC 2.4.2's Ministers' Code of Conduct fixes the Toshakhana gift-valuation threshold at ₹5,000.
+- ✅ The Rajya Sabha's Committee on Ethics was first constituted by the Chairman on **4 March 1997**
+  (ARC 2.5.2.1); the Lok Sabha's Committee on Ethics is recorded by the ARC (2.5.3.1) from the
+  Thirteenth Lok Sabha onward. ⚠️ ARC 2.5.3.2 notes that, as per available information, only a few
+  State Legislatures — Andhra Pradesh among them — had then adopted comparable arrangements.
+- ✅ ARC 2.4.2's Ministers' Code of Conduct fixes the Toshakhana gift-valuation threshold at ₹5,000:
+  a gift below that value may be retained; above it, the Minister may purchase the item from the
+  Toshakhana by paying the difference over ₹5,000.
 - ⚠️ India, per the ARC's 2007 diagnosis and the 2025 GS-IV Q5(a) framing, still lacks a
   comprehensive Code of Ethics for Ministers, even though a Code of Conduct exists.
 

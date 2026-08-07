@@ -117,6 +117,33 @@ Research Establishment (DGRE), not treated as a sub-type of landslide.
 - ✅ **ISRO** — among the organisations engaged in monitoring glacial
   lakes and other water bodies in the Himalayan region's Indian river
   basins (PDF p. 79).
+- 📰 **Geological Survey of India (GSI)** — the nodal agency for
+  landslide hazard. GSI completed **National Landslide Susceptibility
+  Mapping at 1:50,000 over about 4.3 lakh sq km** of landslide-prone
+  terrain in parts of **19 States/UTs**, classifying terrain as low,
+  moderate or high susceptibility; maps and the landslide inventory are
+  served through the **Bhukosh** and NGDR portals (PIB/Ministry of Mines,
+  20 August 2025).
+- 📰 **National Landslide Forecasting Centre (NLFC)** — inaugurated
+  **19 July 2024**, with regional landslide forecasts beginning
+  **20 July 2024** for **Darjeeling, Kalimpong and the Nilgiris**. By
+  December 2025 the Regional Landslide Forecasting System covered **21
+  districts — 4 operational and 17 experimental** — issuing daily
+  next-48-hour forecasts at taluk/sub-divisional scale, disseminated via
+  the **Bhusanket** web portal and **Bhooskhalan** mobile app (PIB/MoES,
+  17 December 2025). ⚠️ Distinguish the **operational** from the
+  **experimental** districts — the second set is not a service guarantee.
+- 📰 **NDMA's National Landslide Risk Management Strategy (September
+  2019)** is the governing national strategy document; NDMA's
+  **Guidelines on Management of Landslides and Snow Avalanches (June
+  2009)** remain the underlying guideline.
+- 📰 **NDMA's Guidelines on Management of Glacial Lake Outburst Floods
+  (October 2020)** and the **National GLOF Risk Mitigation Programme
+  (NGRMP)** — outlay **₹150 crore (₹135 crore from the National Disaster
+  Mitigation Fund plus ₹15 crore State contribution)**, covering
+  **Arunachal Pradesh, Himachal Pradesh, Sikkim and Uttarakhand** (MHA/
+  PIB, 4 February 2025). The official dynamic list contained **195
+  high-risk glacial lakes** as of 4 December 2024.
 - ⚠️ **DGRE (Defence Geoinformatics Research Establishment, DRDO)** —
   India's dedicated avalanche-warning institution, issuing snow/
   avalanche forecasts and warnings for the Himalayan/Ladakh region based
@@ -154,6 +181,21 @@ Research Establishment (DGRE), not treated as a sub-type of landslide.
 - ✅ GLOFs result from the failure or overtopping of a glacial lake's
   natural dam — ice, moraine, bedrock or other natural dam — releasing
   melt water, moraines and the lake's contents.
+- 📰 GSI completed **National Landslide Susceptibility Mapping at
+  1:50,000 over ~4.3 lakh sq km** across parts of **19 States/UTs**;
+  outputs are served through **Bhukosh**.
+- 📰 The **National Landslide Forecasting Centre** was inaugurated
+  **19 July 2024**, forecasts beginning 20 July 2024 for **Darjeeling,
+  Kalimpong and the Nilgiris**; by December 2025 the Regional Landslide
+  Forecasting System covered **21 districts (4 operational, 17
+  experimental)** with daily 48-hour forecasts, disseminated via
+  **Bhusanket** (portal) and **Bhooskhalan** (app).
+- 📰 NDMA's **National Landslide Risk Management Strategy** dates to
+  **September 2019**; its **GLOF Guidelines** to **October 2020**.
+- 📰 The **National GLOF Risk Mitigation Programme** has an outlay of
+  **₹150 crore (₹135 crore NDMF + ₹15 crore State)** covering **Arunachal
+  Pradesh, Himachal Pradesh, Sikkim and Uttarakhand**; the official list
+  carried **195 high-risk glacial lakes** as of 4 December 2024.
 - ⚠️ An avalanche is triggered by snowpack instability, slope angle
   (typically 30-45°) and weather (snow load, temperature, wind); DGRE
   (DRDO) is India's dedicated avalanche-warning institution for the

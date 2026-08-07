@@ -63,7 +63,16 @@ national consensus" (*Challenges and Strategy*).
 
 ⚠️ A single issue is frequently worked simultaneously at more than one level —
 Maldives is managed bilaterally and through IORA/Colombo Security Conclave; energy
-security runs through bilateral Gulf ties and through I2U2/IMEEC.
+security runs through bilateral Gulf ties and through I2U2/IMEC.
+
+✅ **Doctrine labels map onto levels, not onto instruments.** SAGAR ("Security and
+Growth for All in the Region," articulated in Mauritius on 12 March 2015) and its
+stated extension MAHASAGAR ("Mutual and Holistic Advancement for Security and
+Growth Across Regions," announced at Port Louis on 12 March 2025 as a Global South
+vision "going beyond SAGAR," covering trade for development, capacity building,
+mutual security, technology sharing, concessional loans and grants) are declared
+visions that organise instrument choice — they are not treaties, and they do not
+by themselves create obligations.
 
 ## 3. National-interest matrix
 
@@ -119,16 +128,22 @@ to choose a position issue-by-issue, even while deepening any one partnership.
 | Instrument type | Example | Binding character |
 |---|---|---|
 | Treaty/agreement | Defence, trade or nuclear cooperation agreement | Binding once ratified (Polity owns ratification procedure) |
-| Joint statement/vision document | India-Maldives Vision (2024) | Political commitment, not a treaty |
-| Charter | BIMSTEC Charter (in force 2024) | Binding on member states once in force |
-| Declaration | BRICS Rio Declaration (2025) | Political/normative, not legally binding |
+| Multilateral treaty in force | BBNJ Agreement under UNCLOS (in force 17 January 2026; India signed 25 September 2024, ratification not deposited) | Binding only on States that have deposited ratification/accession |
+| Joint statement/vision document | India-Maldives Vision (7 October 2024) | Political commitment, not a treaty |
+| Charter | BIMSTEC Charter (in force 20 May 2024) | Binding on member states once in force |
+| Sectoral agreement in force among some parties | BIMSTEC Agreement on Maritime Transport Cooperation (signed 3 April 2025; in force 16 May 2026 among Bhutan, India, Myanmar and Thailand) | Binds only the parties that have deposited instruments |
+| Declaration | BRICS Rio de Janeiro Declaration (6-7 July 2025 summit) | Political/normative, not legally binding |
 | Chairship launch | BRICS India 2026 theme/logo/site (13 January 2026) | Process/agenda anchor, not a summit outcome or treaty |
-| MoU | India-SADC economic-cooperation MoU (2024) | Statement of intent, not self-executing |
-| Dialogue mechanism | India-Central Asia Dialogue | Recurring consultation, no binding output by itself |
+| MoU | India-SADC MoU on Economic Cooperation (2 July 2024) | Statement of intent, not self-executing |
+| Corridor MoU | IMEC MoU (9 September 2023, eight signatories) | Framework of intent; not evidence of an operational corridor segment |
+| Dialogue mechanism | India-Central Asia Dialogue (4th, 6 June 2025) | Recurring consultation, no binding output by itself |
+| Partner/observer status | BRICS partner countries (category created at Kazan, 24 October 2024); SCO observers and dialogue partners | Participation without the rights and obligations of full membership |
 
 **Exam trap:** ⚠️ A summit declaration, a signed charter and an implemented project
 are three different evidentiary levels. Treat "agreed," "signed/in force" and
 "delivered" as distinct claims — do not upgrade one to another without a date.
+⚠️ Equally, do not upgrade *signature* to *ratification*, *participation* to
+*membership*, or a *corridor MoU* to an *operating corridor*.
 
 ## 6. Source hierarchy
 
@@ -136,7 +151,9 @@ are three different evidentiary levels. Treat "agreed," "signed/in force" and
 |---|---|---|
 | MEA bilateral document/press release | Official, dated, authoritative | May understate unresolved friction |
 | Summit declaration/charter text | Verifiable commitment language | Aspirational language may not equal delivery |
+| UN treaty depositary record (`treaties.un.org`) | Definitive on signature, ratification, party count and entry into force | Silent on political salience or implementation quality |
 | UN/WTO/IMF/World Bank official page | Institutional mandate and procedure | Slow to reflect informal power shifts |
+| Statistical authority (PPAC, Department of Commerce, RBI via Economic Survey) | Precise, dated quantitative baseline | Financial-year lags; provisional figures get revised |
 | Book analysis (Sikri, Tharoor) | Strategic reasoning and context | Reflects the period and stance of writing; date-check before citing as current |
 | News/secondary commentary | Timely | Must be corroborated before treating as ✅ |
 
@@ -145,7 +162,11 @@ are three different evidentiary levels. Treat "agreed," "signed/in force" and
 | Gap | Failure | Correction |
 |---|---|---|
 | Announcement-delivery gap | MoU or vision document treated as completed outcome | Track implementation status separately, with its own date |
+| Legal-status gap | Signature treated as ratification, or adoption as entry into force | Name the exact stage (adopted / opened for signature / signed / ratified / in force) and its date |
+| Membership-participation gap | Partner, observer, dialogue-partner or guest status described as membership | State the exact category and the date it was conferred |
 | Alliance-autonomy conflation | Deepening one partnership described as an "alliance" or bloc membership | Distinguish non-treaty partnership (Quad) from treaty alliance |
+| Corridor-conception gap | A corridor MoU or announced route treated as operating infrastructure | Distinguish route conception, signed MoU, financed segment and commissioned segment |
+| Sanctions-obligation gap | Another state's unilateral sanction treated as a legal obligation on India | Distinguish exposure/secondary risk from a binding international-law duty |
 | Homogeneity gap | Neighbourhood, Global South or a grouping treated as a single bloc | Note internal diversity of interest and position |
 | Asymmetry-blindness gap | Bilateral relationship analysed only from India's interest | Note the partner's incentive and domestic political constraint |
 | Chronology-substitution gap | Cold War/decolonisation history substituted for present-day mandate analysis | Use World History for chronology; use this folder for present function and reform |

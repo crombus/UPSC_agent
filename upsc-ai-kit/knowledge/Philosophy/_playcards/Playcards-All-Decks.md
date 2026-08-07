@@ -1,6 +1,9 @@
 # PLAYCARDS / FLASHCARDS — Q → A for spaced repetition
 
 > **Use:** cover the answer, recall aloud, flip. Feed the D1/D7/D30 calendar. Format: `Q :: A`. ✅ canonical · ⚠️ synthesis.
+> **PYQ base:** Paper I and Paper II are both continuously covered from 2018 through 2025.
+> **Sanskrit:** IAST is used on cards; exact Devanāgarī forms are in the
+> [Sanskrit and Pali glossary](../_revision/Sanskrit-and-Pali-Terms.md).
 
 ---
 
@@ -14,7 +17,7 @@ Hume on causation                               :: Not a necessary connection; h
 Synthetic a priori — who made it central & why  :: Kant; to explain how maths & science give necessary yet informative truths.
 Kant's Copernican revolution                    :: Objects conform to mind (space/time/categories), not mind to objects.
 Phenomena vs noumena                            :: Things-as-they-appear (knowable) vs things-in-themselves (unknowable).
-Hegel's dialectic                               :: Thesis → antithesis → synthesis; Spirit unfolding to Absolute.
+Hegel's dialectic                               :: Immanent contradiction → determinate negation/*Aufhebung*; not a mechanical thesis–antithesis–synthesis triad.
 Russell's theory of descriptions                :: "The present king of France" — analysed away as incomplete symbol.
 Picture theory of meaning — whose?              :: Early Wittgenstein (Tractatus); proposition pictures a possible fact.
 Verification principle                          :: Logical Positivism; meaning = method of empirical verification (or analyticity).
@@ -30,7 +33,7 @@ Strawson's basic particulars                    :: Material bodies; "person" is 
 
 ## DECK 2 — PAPER-I INDIAN (core terms)
 ```
-Cārvāka's sole pramāṇa                          :: Pratyakṣa (perception) only; rejects inference & testimony.
+Cārvāka's sole pramāṇa                          :: Pratyakṣa (perception); rejects inference as an independent certain pramāṇa, though practical probabilistic reasoning may be conceded.
 Saptabhaṅgīnaya                                 :: Jain 7-fold conditional predication (syād-asti, syād-nāsti…).
 Anekāntavāda                                    :: Jain doctrine: reality has infinitely many aspects.
 Pratītyasamutpāda                               :: Buddhist dependent origination; 12 nidānas.
@@ -45,10 +48,10 @@ Satkāryavāda                                    :: Effect pre-exists in the ca
 Yoga's definition                               :: Cittavṛtti-nirodha — stilling the mind's modifications.
 Kaivalya                                        :: Yoga's liberation — isolation of puruṣa from prakṛti.
 Svataḥ prāmāṇya                                 :: Mīmāṃsā; knowledge is intrinsically valid.
-Śaṅkara's mahāvākya                             :: Brahma satyaṃ jagat mithyā, jīvo brahmaiva.
+Advaita summary (not itself a mahāvākya)        :: Brahma satyaṃ jagan mithyā, jīvo brahmaiva nāparaḥ — Brahman is real, the world dependently apparent, and the self is not other than Brahman.
 Adhyāsa                                         :: Śaṅkara; superimposition (rope-snake) explaining ignorance.
-Māyā                                            :: Cosmic illusion veiling Brahman (Advaita).
-Aprthaksiddhi                                   :: Rāmānuja; inseparable relation of soul/matter to Brahman.
+Māyā                                            :: Advaita's beginningless principle of dependent appearance; the world is neither absolutely real nor sheer non-being.
+Apṛthaksiddhi                                   :: Rāmānuja; inseparable relation of soul/matter to Brahman.
 Pañcavidhabheda                                 :: Madhva; five eternal differences (God-soul, God-matter, etc.).
 Aurobindo's evolution/involution                :: Spirit involves into matter, then evolves back toward Supermind.
 ```
@@ -64,7 +67,7 @@ Marxism's engine of history                     :: Dialectical materialism / cla
 "Principled distance" — whose, what?            :: Bhargava; the Indian model of secularism.
 Capability approach — whose?                    :: Amartya Sen; development as expansion of freedoms.
 "One is not born but becomes a woman"           :: Simone de Beauvoir.
-Gandhi vs Ambedkar on caste                     :: Gandhi reforms varṇa/abolishes untouchability; Ambedkar annihilates caste.
+Gandhi vs Ambedkar on caste                     :: Gandhi's position evolves but centres moral/religious reform and abolition of untouchability; Ambedkar demands annihilation, rights and structural safeguards.
 Ontological argument                            :: Anselm; God's existence follows from His concept.
 Teleological argument                           :: Design argument (Paley's watch); Hume/Kant critique.
 Problem of evil — Hick's reply                  :: "Vale of soul-making" theodicy.
@@ -77,4 +80,100 @@ Symbolic language — whose?                      :: Tillich; symbols participat
 Braithwaite on religious language               :: Non-cognitive — declaration of a moral intention.
 ```
 
-> 🔑 **Drill method:** shuffle a deck, target 90% recall before moving decks; re-test failed cards next day (D1).
+## DECK 4 — PAPER-II RELIGION: ARGUMENT → OBJECTION
+```
+Anselm's ontological argument — central move     :: A being than which none greater can be conceived must exist in reality, not merely understanding.
+Gaunilo's objection                             :: The same form appears to prove a perfect island; definition cannot create existence.
+Kant's objection to ontological proof            :: Existence is not a real predicate adding a property to a concept.
+Aquinas' cosmological family                     :: From motion, efficient cause, contingency, gradation and governance to God.
+Hume's design objection                          :: The finite, imperfect world cannot license an infinite, perfect designer; analogy is weak.
+Nyāya kāryāt argument                            :: The world is an effect and therefore requires an intelligent maker.
+Buddhist reply to creator inference              :: Dependent origination explains conditioned arising without a permanent creator.
+Logical problem of evil                          :: Omnipotence + omnibenevolence + evil appear jointly inconsistent.
+Free-will defence                                :: Moral evil is possible because significantly free agents can misuse freedom.
+Soul-making reply                                :: A law-governed world with difficulty can develop virtues impossible in a pleasure-only world.
+Euthyphro dilemma                                :: Divine command risks arbitrariness; independent goodness limits command theory.
+Rebirth without a permanent soul                 :: Buddhism explains continuity causally, not through identity of an enduring ātman.
+Faith vs belief                                  :: Faith includes existential trust/commitment; belief may be only propositional assent.
+Religious experience — verification problem      :: Private certainty does not automatically become public evidence.
+Hick's pluralism — core move                     :: Traditions are culturally conditioned responses to the transcategorial Real.
+Pluralist objection                              :: Reinterpreting all traditions through “the Real” may override their self-understanding.
+Analogy in religious language                    :: Predicates apply neither univocally nor wholly equivocally to God and creatures.
+Symbol in Tillich                                :: A religious symbol participates in and opens a level of reality beyond literal description.
+Non-cognitive does not mean meaningless          :: A statement may guide life or express commitment without asserting an empirically testable fact.
+```
+
+## DECK 5 — COMPARE / DISTINGUISH
+```
+Plato Form vs Aristotle form                     :: Separate universal paradigm vs immanent principle organizing matter.
+Descartes vs Spinoza on substance                :: Many created substances under God vs exactly one substance, God/Nature.
+Locke vs Berkeley on primary qualities           :: Mind-independent qualities retained vs all sensible qualities idea-dependent.
+Hume vs Kant on causation                        :: Habit from constant conjunction vs a priori category enabling experience.
+Early vs Later Wittgenstein                      :: Proposition pictures fact vs meaning arises from use in language-games.
+Sāṃkhya vs Yoga                                  :: Metaphysical dualism vs the disciplined method, adding a special puruṣa/Īśvara.
+Nyāya vs Mīmāṃsā validity                        :: Validity known extrinsically vs cognition presumptively valid intrinsically.
+Advaita vs Viśiṣṭādvaita                         :: Non-dual Brahman and mithyā world vs qualified unity of Brahman with real souls/matter.
+Rawls vs Nozick                                  :: Patterned fairness benefiting the least advantaged vs historical entitlement and side constraints.
+Austin vs Laski                                  :: Monistic determinate sovereign vs plural centres of social authority.
+Gandhi vs Ambedkar on caste                      :: Reform and moral reconstruction vs annihilation of caste structure.
+Secularism vs multiculturalism                   :: State-religion relation vs recognition/accommodation of cultural groups.
+Retributive vs reformative punishment            :: Desert/proportion vs rehabilitation and reintegration.
+Growth vs social progress                        :: Increase in output vs capability, dignity, justice and sustainable well-being.
+Cognitivist vs non-cognitivist religion          :: Truth-apt assertion vs commitment, attitude, symbol or form of life.
+```
+
+## DECK 6 — COMMON UPSC TRAPS
+```
+Is Hegel's dialectic simply thesis-antithesis-synthesis? :: No. It is a later shorthand; explain immanent contradiction and determinate negation.
+Does Cārvāka reject every inference in daily life?       :: Do not overstate; the philosophical target is inference to unperceived/transcendent entities.
+Is Jain syādvāda ordinary scepticism?                    :: No. It is conditional, standpoint-sensitive predication grounded in many-sided reality.
+Does Buddhism teach that nothing exists?                 :: No. Dependent and momentary existence is not simple nihilism.
+Is Yoga's Īśvara the creator-God of Nyāya?               :: No. Classical Yoga treats Īśvara as a special puruṣa, not straightforwardly as world-creator.
+Is māyā absolute non-existence?                           :: No. Advaita treats the world as empirically experienced but not ultimately independent.
+Does negative liberty mean absence of every law?         :: No. It concerns absence of unjustified interference.
+Does secularism always mean a strict wall of separation? :: No. Indian debates include principled distance and context-sensitive engagement.
+Does religion without God mean religion without discipline? :: No. Non-theistic traditions retain soteriology, practice, community and normativity.
+Does non-cognitive religious language equal nonsense?    :: No. Non-cognitivists explain meaning through commitment, attitude, use or symbol.
+```
+
+## DECK 7 — EXPANDED PYQ DEMANDS (2018–2021 additions)
+```
+Plato's red chair — required move                       :: Particular chair and redness participate in Forms; then test participation/Third Man rather than merely naming Forms.
+Aristotle's wooden table                                 :: Wood can become table (potentiality); form actualises matter through causes—potentiality is not a miniature actual table.
+Descartes: how know external things?                     :: Cogito → God/non-deceiver → passive sensory faculty must have an external corporeal cause, with primary properties clearer than sensory qualities.
+Locke on personal identity                               :: Continuity of consciousness/memory, not identity of substance alone; circularity and forgotten-action objections.
+Husserl: can hallucination be intentional?               :: Yes; intentionality requires an intended object/noema, not the real existence of a corresponding object.
+Husserl's natural attitude                               :: Everyday existential posit of an independent world; epoché suspends—not denies—it for constitutive analysis.
+Moore's Defence of Common Sense                          :: Certain truisms are better known than sceptical premises; objection: assertion/gesture may not prove the external world.
+Strawson's basic particulars                             :: Material bodies are public re-identifiable particulars; persons primitively bear both physical and mental predicates.
+Cārvāka and the Socrates syllogism                       :: The hidden universal vyāpti “all men are mortal” cannot be established by finite perception without circular inference.
+Nyāya: jñānalakṣaṇa in error                             :: Prior cognition of silver mediates extraordinary perception of elsewhere-silver in shell–silver error.
+Udayana's four named inferences                          :: Kāryāt, āyojanāt, dhṛtyādeḥ, śruteḥ—state each inferential bridge and its objection.
+Yoga citta-level application                             :: Diagnose concentration/dispersion and kleśa-load; do not equate scientific focus with samādhi or devotion alone with kaivalya.
+Mīmāṃsā and Vedic authority                              :: Apauruṣeyatva, eternality and intrinsic validity block author-error; then face circularity/linguistic-history objections.
+Aurobindo's psychic being                                :: Its emergence reorients nature toward the Divine; it begins conscious evolution but is not yet supramental transformation.
+Hindu polytheism question                                :: Distinguish polytheism, henotheism, qualified theism, saguṇa/nirguṇa and unity behind divine names.
+Freedom of will vs omnipotent God                        :: Separate foreknowledge, causal determination and permission; omniscience alone need not cause the act.
+Moral argument for God                                   :: Moral obligation/order → postulated moral ground; objection: autonomy, evolutionary explanation and Euthyphro.
+Sacred/Holy as object of religion                        :: Phenomenological object need not equal a personal God; distinguish Otto's numinous from a proof of objective divinity.
+Prayer vs worship                                        :: Prayer petitions/communicates; worship adores and reorients the self; both are practices, not automatic evidence.
+Religious experience in public discourse                :: Private certainty becomes public warrant only through testimony, coherence, fruits and defeater-responsiveness.
+Secular vs religious language                            :: Compare use, context, truth-conditions and performative force; do not assume a separate grammar makes criticism impossible.
+Liberal democracy and social cohesion                    :: Rights need deeper civic equality, fraternity and constitutional trust; cohesion cannot erase dissent/minority protection.
+Austin vs Kautilya on sovereignty                        :: Legal command/determinate superior versus organismic statecraft, daṇḍa, welfare and dharmic constraints.
+Technology and social progress                           :: Instrumental capacity may grow without ethical capability, distribution or dignity; growth is neither necessary proof nor sufficient condition of progress.
+Hume: Sun tomorrow vs 2+2=4                              :: Matter of fact/causal expectation versus relation of ideas/demonstrative necessity.
+Leibniz: harmony and freedom                             :: No inter-monadic influx, yet action follows the monad's internal perceptions/appetitions; spontaneity is not indeterminism.
+Family resemblance and “game”                            :: Overlapping similarities without one common essence; open texture does not remove local criteria.
+Sartre: bad faith → alienation                           :: Flight into facticity or pure transcendence denies situated freedom and fixes self through roles/the Other's look.
+“Understanding makes Nature”                            :: Kant: categories constitute lawful phenomenal nature; the mind does not fabricate empirical matter.
+Scientific laws under verificationism                   :: Universal laws receive indirect/weak confirmation through consequences, never conclusive verification from finite cases.
+Heidegger against the transcendental ego                 :: Being-in-the-world and practical involvement are prior to a detached subject confronting objects.
+Brown table vs book on table                             :: Colour–table = samavāya (inherence); book–table = saṃyoga (separable conjunction).
+Nyāya vs Yoga on God                                     :: Nyāya infers creator/orderer; Yoga's Īśvara is a special puruṣa and soteriological aid—not simply the same proof.
+Svayaṃprakāśa vs svataḥ-prāmāṇya                         :: Self-manifestation of cognition is distinct from its intrinsic prima facie validity.
+Four-school Vedānta mokṣa                                :: Viśiṣṭādvaita communion; Dvaita difference; Śuddhādvaita real manifestation; Acintyabhedābheda inconceivable relation.
+Aurobindo's “life divine”                                :: Supramental transformation as evolutionary possibility/tendency, not automatic attainment by every individual.
+```
+
+> 🔑 **Drill method:** shuffle a deck, target 90% recall before moving decks; re-test failed cards next day (D1). Owner files remain controlling where a card compresses a disputed interpretation.

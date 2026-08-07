@@ -41,6 +41,8 @@ calm "eye" before decreasing (PDF p. 35).
 | ✅ **Six requirements for tropical cyclogenesis** | Sufficiently warm sea-surface temperatures; atmospheric instability; high humidity in the lower-to-middle troposphere; sufficient Coriolis force; a pre-existing low-level disturbance; and low vertical wind shear (PDF pp. 35-36). |
 | ✅ **Area Cyclone Warning Centers (ACWCs) / Cyclone Warning Centers (CWCs)** | IMD's warning-issuing network — ACWCs at Kolkata, Chennai, Mumbai; CWCs at Bhubaneswar, Visakhapatnam, Ahmedabad — under the satellite-based Cyclone Warning Dissemination System (PDF p. 36). |
 | ✅ **IMD's four colour codes** | Green ("no warning"); Yellow ("be updated" — watch and stay informed); Orange ("be prepared" — extremely bad weather, possible blackouts/communication disruption); Red ("take action" — severe weather expected, significant life risk) (PDF p. 37). ⚠️ A Red warning signals expected severe weather requiring action; it is a forecast-based alert, not a guarantee that severe weather will occur. |
+| 📰 **IMD's four-stage cyclone bulletin scheme** | **Pre-Cyclone Watch** — issued at least **72 hours** ahead; **Cyclone Alert** — at least **48 hours**; **Cyclone Warning** — at least **24 hours**; **Post-Landfall Outlook** — at least **12 hours** before landfall (IMD Cyclone Warning SOP, 23 March 2021). ⚠️ Do not conflate this bulletin *sequence* with the Green/Yellow/Orange/Red *colour* scheme — they are two different systems, one describing lead time and one describing action level. |
+| 📰 **IMD's classification of cyclonic disturbances by wind speed** | Depression 17-27 kt (31-49 kmph); Deep Depression 28-33 kt (50-61); Cyclonic Storm 34-47 kt (62-88); Severe Cyclonic Storm 48-63 kt (89-117); Very Severe Cyclonic Storm 64-89 kt (118-166); Extremely Severe Cyclonic Storm 90-119 kt (167-221); Super Cyclonic Storm ≥120 kt (≥222) (IMD/RSMC New Delhi, *Tropical Cyclones in the North Indian Ocean*, 2022 edition). ⚠️ A system is named only from **Cyclonic Storm** stage upward. |
 | ✅ **National Cyclone Risk Mitigation Project (NCRMP)** | Undertakes structural/non-structural measures across 13 identified cyclone-prone States/UTs, split into Category I (higher vulnerability: Andhra Pradesh, Gujarat, Odisha, Tamil Nadu, West Bengal) and Category II (lower vulnerability: Maharashtra, Karnataka, Kerala, Goa, Puducherry, Lakshadweep, Daman and Diu, Andaman and Nicobar), implemented by NDMA/MHA with NIDM, partially World Bank-funded (PDF p. 37). |
 | ✅ **Aircraft Probing of Cyclone (APC)** | Recommended facility enabling upper-air/cloud-aerosol observation to understand the cyclone core environment (PDF p. 36). |
 
@@ -88,7 +90,16 @@ calm "eye" before decreasing (PDF p. 35).
   objective is reducing coastal-community vulnerability via improved
   warning dissemination, enhanced local response capacity, improved
   shelter/evacuation access, and strengthened DRM capacity for
-  mainstreaming risk mitigation into development (PDF p. 37).
+  mainstreaming risk mitigation into development (PDF p. 37). 📰 **NCRMP
+  Phase I closed in December 2018** (reported expenditure ₹2,524.84
+  crore) and **Phase II in March 2023** (₹1,806.84 crore) — MHA/PIB,
+  1 April 2026. Multi-Purpose Cyclone Shelters reported State-wise
+  include Odisha 316, Andhra Pradesh 219, West Bengal 146, Gujarat 76,
+  Kerala 17, Goa 11 and Karnataka 10 (MHA/PIB, 4 February 2025). ⚠️ No
+  dated official source confirms an NCRMP-III or a named successor
+  project — describe NCRMP in the **past tense as a completed project**,
+  not as an ongoing programme, and do not treat MoEFCC's separate
+  National Coastal Mission as its successor.
 - ✅ **Cyclone Disaster Management Information System (CDMIS)** —
   recommended comprehensive, all-DM-phase online system for State
   disaster-management departments (PDF p. 38).
@@ -110,10 +121,17 @@ calm "eye" before decreasing (PDF p. 35).
 
 - ✅ IMD uses four colour codes: Green (no warning), Yellow (be
   updated), Orange (be prepared), Red (take action).
+- 📰 IMD's cyclone bulletins run in four stages by lead time:
+  **Pre-Cyclone Watch (72 h) → Cyclone Alert (48 h) → Cyclone Warning
+  (24 h) → Post-Landfall Outlook (12 h)**.
+- 📰 Wind-speed thresholds: Cyclonic Storm begins at **34 kt (62 kmph)**;
+  Very Severe Cyclonic Storm at 64 kt (118 kmph); **Super Cyclonic Storm
+  at ≥120 kt (≥222 kmph)**.
 - ✅ ACWCs are at Kolkata, Chennai and Mumbai; CWCs at Bhubaneswar,
   Visakhapatnam and Ahmedabad.
 - ✅ NCRMP covers 13 cyclone-prone States/UTs in two vulnerability
-  categories (Category I and Category II).
+  categories (Category I and Category II); 📰 Phase I closed December
+  2018 and Phase II March 2023.
 - ✅ Over 58% of Bay of Bengal cyclonic storms cross the east coast in
   October-November (document-period estimate).
 - ✅ Six conditions are required for tropical cyclogenesis (Section 2).
@@ -138,8 +156,19 @@ calm "eye" before decreasing (PDF p. 35).
   though this document-period estimate should be checked against a
   current IMD climatology for precision.
 - ❌ NCRMP funding and coastal-district counts are current without
-  verification. -> These are document-period figures (PDF p. 37);
-  confirm current project phase/status against NDMA sources.
+  verification. -> These are document-period figures (PDF p. 37); 📰 MHA
+  reported (1 April 2026) that **Phase I closed in December 2018** and
+  **Phase II in March 2023** — NCRMP is a completed project, not a live
+  programme, and no dated official source confirms a Phase III.
+- ❌ The colour codes and the cyclone bulletin stages are the same
+  system. -> Green/Yellow/Orange/Red communicate **action level**;
+  Pre-Cyclone Watch/Alert/Warning/Post-Landfall Outlook communicate
+  **lead time** (72/48/24/12 hours). Both may apply to the same system
+  simultaneously.
+- ❌ Every named storm is a "cyclone." -> A system is named only from the
+  **Cyclonic Storm** stage (≥34 kt / 62 kmph); Depressions and Deep
+  Depressions are unnamed and still cause major flooding — the
+  under-warned category behind several inland flood events.
 
 ## 9. 📰 Current official anchor
 

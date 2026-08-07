@@ -42,7 +42,7 @@ current exam and requiring named institutional recommendations, not generic ethi
 | ✅ **UNCAC Article 8** (2003) | Requires State Parties to "promote... integrity, honesty and responsibility" among public officials and to "apply... codes or standards of conduct," referencing the UN's 1996 International Code of Conduct for Public Officials (ARC 2.3.1). |
 | ✅ **UK's Ministerial Code** | Explicitly *not* a rulebook enforced by officials — "Ministers are personally responsible for deciding how to act... and for justifying their actions... in Parliament," with the Prime Minister as "the ultimate judge" (ARC 2.4.1, quoted verbatim) — a code of political, not judicial/quasi-judicial, accountability. |
 | ✅ **Belize's constitutionally embedded code** (ARC Box 2.5) | Section 121(1) of Belize's Constitution directly prohibits public officials from conflicts of interest, compromising official functions, using office for private gain, demeaning their office, or endangering confidence in government — an unusually strong example of constitutionalising a code of conduct rather than leaving it to ordinary legislation or executive instruction. |
-| ✅ **UK's Parliamentary Commissioner for Standards** (post-Nolan, ARC 2.5.7.4) | An independent office responsible for maintaining the Register of Members' Interests, advising Members confidentially, and investigating Code-of-Conduct complaints, reporting findings to the Committee on Standards and Privileges — the ARC recommended a similar "Ethics Commissioner" office for both Houses of the Indian Parliament (2.5.7.6), a recommendation not yet enacted as of current status. |
+| ✅ **UK's Parliamentary Commissioner for Standards** (post-Nolan, ARC 2.5.7.4) | An independent office responsible for maintaining the Register of Members' Interests, advising Members confidentially, and investigating Code-of-Conduct complaints, reporting findings to the Committee on Standards and Privileges. ARC 2.5.7.4 also cites Canada's Conflict of Interest and Post-Employment Code for public office holders (2006), overseen by an Ethics Commissioner who is an Officer of Parliament appointed under Section 72.01 of the Parliament of Canada Act. ARC 2.5.7.6(a) recommended a similar "Ethics Commissioner" office for **each House** of the Indian Parliament, functioning under the Speaker/Chairman — a recommendation not traced as enacted. |
 
 ## 3. Detailed treatment
 
@@ -80,14 +80,14 @@ current exam and requiring named institutional recommendations, not generic ethi
 
 ### The Ethics Commissioner recommendation — India's unfilled institutional gap
 
-- ✅ ARC 2.5.7.5-2.5.7.6 explicitly recommends both Houses of the Indian Parliament establish an
-  "Ethics Commissioner" office (modelled on the UK's Parliamentary Commissioner for Standards),
-  functioning under the Speaker/Chairman, to assist the Ethics Committee, advise Members
-  confidentially, and maintain the Register of Members' Interests.
-- ⚠️ 📰 Verify current status independently, but as of the ARC's own diagnosis and absent a
-  specifically confirmed subsequent enactment, this remains a largely unimplemented 2007
-  recommendation — a precise, citable institutional gap for advanced Mains answers proposing
-  concrete reforms rather than generic "strengthen ethics" language.
+- ✅ ARC 2.5.7.6(a) recommends that an Office of "Ethics Commissioner" be constituted by **each House**
+  of the Indian Parliament (modelled on the UK's Parliamentary Commissioner for Standards and
+  Canada's Ethics Commissioner), functioning under the Speaker/Chairman, to assist the Committee on
+  Ethics, advise Members when required and maintain the necessary records; ARC 2.5.7.6(b) extends
+  parallel recommendations to State legislatures.
+- ⚠️ 📰 On the position verified as at 4 August 2026, no such statutory Ethics Commissioner office
+  has been traced for either House — a precise, citable institutional gap for advanced Mains answers
+  proposing concrete reforms rather than generic "strengthen ethics" language.
 
 ## 4. Institutional and reform architecture
 
@@ -95,9 +95,11 @@ current exam and requiring named institutional recommendations, not generic ethi
   Q5(a) at an advanced level) should explicitly: (1) restate the seven Nolan principles as the
   aspirational floor; (2) require Ministers to resolve conflicts of interest by prioritising public
   interest, consistent with the existing Code of Conduct's disclosure/divestment rules; (3) establish
-  a dedicated monitoring unit in the PM's/CM's office (ARC 2.4.5); (4) mandate an annual public
-  report to the legislature on violations; (5) create an Ethics Commissioner office for Parliament
-  (ARC 2.5.7.6), extending the model to State legislatures.
+  a dedicated monitoring unit in the PM's/CM's office, empowered to receive public complaints
+  (ARC 2.4.5(b)); (4) make the PM/CM duty-bound to enforce it uniformly across coalition partners
+  (2.4.5(c)); (5) mandate an annual report to the legislature listing violations and action taken
+  (2.4.5(d)); (6) place all three documents in the public domain (2.4.5(f)); and (7) create an
+  Ethics Commissioner office for each House of Parliament (2.5.7.6), extended to State legislatures.
 - ⚠️ This model explicitly closes the letter/spirit-of-the-law gap (`10`) that a Code of Conduct
   alone cannot reach, while retaining the Code of Conduct's existing enforceability.
 
@@ -139,8 +141,8 @@ current exam and requiring named institutional recommendations, not generic ethi
   the Code itself stating the Prime Minister is "the ultimate judge," making it a political, not
   judicial, accountability mechanism.
 - ❌ India has already established an "Ethics Commissioner" office for Parliament as recommended by
-  the ARC. -> This remains a 2007 ARC recommendation; verify current status independently before
-  asserting implementation.
+  the ARC. -> On the position verified as at 4 August 2026, no such statutory office has been traced
+  for either House; it remains a 2007 ARC recommendation (2.5.7.6).
 - ❌ UNCAC Article 8 mandates a single, universal code of conduct text for all signatory states. ->
   It requires States to "promote" and "endeavour to apply" codes/standards within their own
   institutional/legal systems, referencing the 1996 UN model code as guidance, not imposing a

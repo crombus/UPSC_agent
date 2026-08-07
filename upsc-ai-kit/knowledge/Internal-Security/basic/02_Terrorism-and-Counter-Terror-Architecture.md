@@ -3,11 +3,15 @@
 > **Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III.
 > **Core area:** Definition of terrorism; state vs. non-state actors;
 > categories of terrorism in India; funding sources; the UAPA/NIA/NCTC/
-> NATGRID institutional response; the 2026 PRAHAAR policy.
+> NATGRID institutional response; the 2019 UAPA and NIA amendments and BNS
+> Section 113; the 2026 PRAHAAR policy.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
-> India*, PDF pp. 7-22; `00_Master-Framework.md` Sections 1, 5-6; audited
-> GS-III syllabus; MHA, *National Counter-Terrorism Policy and Strategy —
-> PRAHAAR* (23 February 2026).
+> India*, PDF pp. 7-22; VisionIAS, *Challenges to Internal Security
+> through Communication Network*, PDF pp. 23, 27; `00_Master-Framework.md`
+> Sections 1, 5-6; audited GS-III syllabus; MHA, *National
+> Counter-Terrorism Policy and Strategy — PRAHAAR* (23 February 2026);
+> UAPA (Amendment) Act 2019, NIA (Amendment) Act 2019 and BNS 2023 as
+> published in India Code.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/02_Terrorism-and-Counter-Terror-Architecture.md`.*
 
@@ -65,7 +69,8 @@ definition exists because "a 'terrorist' in one country may be viewed as a
 | ✅ **Non-state actor** | An individual or group acting without direct government association; Singh notes groups like LeT and Indian Mujahideen "claim to be non-state actors but have de facto support from Pakistan" — the "proxy" concept (PDF p. 8). |
 | ✅ **Categories of terrorism in India** | Hinterland terrorism; J&K militancy; North-East insurgency; Left-Wing Extremism (Singh, PDF p. 9) — this folder treats the latter three as dedicated topics (03, 04, 05). |
 | ✅ **Sleeper cell** | A dormant agent or cell placed in a target country/organisation, activated only on order (Singh, PDF p. 12). |
-| ✅ **UAPA (Unlawful Activities Prevention Act)** | India's principal terrorism-related statute, enacted 1967, amended multiple times (1969, 1972, 1986, 2004, 2008, 2012) to widen the definition of "terrorist act" (Singh, PDF p. 17). |
+| ✅ **UAPA (Unlawful Activities Prevention) Act** | India's principal anti-terrorism statute, enacted 1967 and amended in 1969, 1972, 1986, 2004, 2008, 2012 (Singh, PDF p. 17) and — after Singh's book-period — **2019**. The 2019 amendment allows the Central Government to designate an **individual** (not only an organisation) as a terrorist under the Fourth Schedule, permits investigation by an NIA officer of the rank of **Inspector or above**, and requires the **Director General, NIA** to approve seizure/attachment of property in NIA-investigated cases (instead of the State DGP). |
+| ✅ **Bharatiya Nyaya Sanhita (BNS), 2023** | In force 1 July 2024, replacing the Indian Penal Code. For the first time, **general penal law itself defines a "terrorist act" (Section 113)** and **organised crime (Section 111)**; UAPA continues as the special law, and BNS Section 113 provides that an officer not below the rank of Superintendent of Police decides whether a case is registered under BNS or under UAPA. The BNSS (procedure) and BSA (evidence) replaced the CrPC and the Evidence Act on the same date. |
 
 ## 3. How the counter-terror mechanism works
 
@@ -86,10 +91,19 @@ definition exists because "a 'terrorist' in one country may be viewed as a
    triggered creation/strengthening of NIA, NATGRID, MAC (revamped) and
    NCTC (proposed), plus four new NSG hubs and a revamped Coastal Security
    Scheme (Singh, PDF pp. 15-16).
-4. **Legal framework evolution:** ✅ TADA (1985-1995, lapsed amid misuse
-   allegations) → POTA (2002, repealed 2004) → UAPA amendments
-   (2004-2012) is the historical sequence of India's special
-   anti-terrorism law (Singh, PDF pp. 16-17).
+4. **Legal framework evolution:** ✅ TADA (in force 1985-1995; Singh notes
+   it was "the first anti-terrorism law legislated by the government to
+   define and counter terrorist activities," allowed to lapse in 1995 "due
+   to widespread allegations of abuse") → POTA (2002, enacted after the
+   December 2001 Parliament attack; repealed 2004) → UAPA amendments of
+   2004, 2008 and 2012 (Singh, PDF pp. 16-17) → ⚠️ **UAPA (Amendment) Act,
+   2019** and **NIA (Amendment) Act, 2019**, both after Singh's book-period
+   → **BNS/BNSS/BSA, 2023** in force 1 July 2024, which brought terrorism
+   and organised crime into the general penal code for the first time.
+   ⚠️ Note the recurring pattern the examiner rewards: each special law
+   widened investigative power *and* was later criticised on due-process
+   grounds — TADA and POTA on confession-admissibility and prolonged
+   pre-charge detention, UAPA on bail and on designating individuals.
 5. **Current policy frame:** 📰 The MHA's *PRAHAAR* policy (23 February
    2026) is India's first comprehensive national counter-terrorism policy
    document, organised around prevention, response, aggregating
@@ -97,25 +111,75 @@ definition exists because "a 'terrorist' in one country may be viewed as a
    conditions, aligning international efforts, and whole-of-society
    recovery/resilience — it formalises coordination through existing
    bodies (MAC, NIA) rather than creating a new agency.
+6. **Prevention is not response — and the two are measured
+   differently:** ⚠️ Prevention (intelligence, de-radicalisation,
+   community engagement, vulnerability reduction) produces an *absence* of
+   incidents and is therefore hard to evidence; response (NSG hubs,
+   interdiction, arrests) produces countable outputs. PRAHAAR's
+   "attenuating conditions" element is the prevention half; its "response"
+   and "aggregating capacities" elements are the response half. A Mains
+   answer that names both halves, and notes the measurement asymmetry
+   between them, out-performs one that lists agencies.
 
 ## 4. Institutions, laws and reference points
 
 - ✅ **National Investigation Agency (NIA):** created by the NIA Act, 2008,
   with concurrent jurisdiction to probe terror-related offences anywhere
-  in India (Singh, PDF p. 15).
+  in India (Singh, PDF p. 15). Its schedule already covered, at enactment,
+  offences against sovereignty and integrity, bomb blasts, hijacking of
+  aircraft and ships, attacks on nuclear installations, counterfeit
+  currency, human trafficking, narcotics, organised-crime mobs and gangs,
+  and Atomic Energy/WMD Act violations (Singh, PDF p. 18).
+  ⚠️ The **NIA (Amendment) Act, 2019** — after Singh's book-period —
+  extended NIA's reach to **scheduled offences committed outside India**
+  against Indian citizens or Indian interests, added further scheduled
+  offences (including human trafficking, counterfeit currency, manufacture
+  or sale of prohibited arms, cyber terrorism and offences under the
+  Explosive Substances Act, 1908), and empowered the Central Government to
+  designate **Sessions Courts** as Special Courts.
+- ✅ **Special NIA Courts:** notified under Sections 11 and 22 of the NIA
+  Act, presided over by a judge appointed on the recommendation of the
+  Chief Justice of the relevant High Court, vested with all powers of a
+  Court of Session, required to hold day-to-day trials with precedence
+  over other cases, with appeal to the High Court; States may also
+  appoint Special Courts (Singh, PDF p. 18). ⚠️ Singh's count of Special
+  NIA Courts is book-period — verify the current number from NIA/MHA.
 - ⚠️ **NATGRID:** an intelligence-sharing grid linking multiple agency
-  databases, proposed after 26/11; Singh's book states it "is yet to
-  become operational" (PDF p. 15) — a book-period claim; verify NATGRID's
-  current operational status from the MHA Annual Report 2024-25 before citing.
+  databases, proposed after 26/11. Singh's book states it "is yet to
+  become operational" (PDF p. 15) — a book-period claim. ⚠️ VisionIAS's
+  2024 update describes NATGRID in present operational terms, as "an
+  integrated intelligence master database structure that links databases
+  from several security agencies within the Government of India" and makes
+  them "easily accessible to security agencies around the clock"
+  (*Communication Network*, PDF p. 27); treat that as a 2024 secondary
+  description and confirm current status/coverage from the MHA Annual
+  Report 2024-25 before citing detail.
 - ✅ **National Counter Terrorism Centre (NCTC):** conceived post-26/11 as
   a single apex counter-terror body under IB's administrative control, but
   faced criticism for infringing States' policing powers under the
   constitutional scheme; Singh notes the concept remained contested (PDF
-  pp. 17-18).
+  pp. 17-18). ✅ A second, less-quoted objection in the same passage is
+  institutional rather than federal: granting arrest powers to an
+  intelligence body violates "the principle of not granting the power of
+  arrest to intelligence agencies" (PDF p. 18).
+- ✅ **Four new NSG hubs:** created post-26/11 at Mumbai, Kolkata, Chennai
+  and Hyderabad, in addition to Manesar, "to ensure faster and more
+  effective reaction to crisis situations" (Singh, PDF p. 16) — a *response*
+  (not prevention) capability measure.
 - ✅ **UAPA:** widened in 2012 to include economic offences (fund-raising,
-  counterfeiting) within "terrorist act."
+  counterfeiting) within "terrorist act"; widened again in 2019 to permit
+  designation of individuals as terrorists.
 - 📰 **PRAHAAR (23 February 2026):** MHA's first comprehensive national
   counter-terrorism policy and strategy document.
+- 📰 **UNSC Counter-Terrorism Committee's Delhi Declaration (2022):** on
+  countering the use of new and emerging technologies for terrorist
+  purposes, adopted at the special CTC meeting hosted by India — cited by
+  VisionIAS among "measures taken to address the misuse of technology by
+  extremists," alongside the Global Counterterrorism Forum's Berlin
+  Memorandum on countering terrorist use of unmanned aerial systems and
+  FATF's 2018 virtual-asset guidance (*Communication Network*, PDF p. 23).
+  ⚠️ IR owns the diplomatic negotiation of these instruments; this folder
+  claims their domestic operational effect.
 
 ## 5. Indian applications and examples
 
@@ -140,9 +204,22 @@ definition exists because "a 'terrorist' in one country may be viewed as a
 - ✅ TADA was in force 1985-1995; POTA, 2002-2004; both were repealed amid
   misuse concerns.
 - ✅ UAPA was enacted in 1967 and amended in 1969, 1972, 1986, 2004, 2008
-  and 2012.
+  and 2012; ⚠️ the **2019 amendment** (post-dating this book) added
+  designation of **individuals** as terrorists, Inspector-rank NIA
+  investigation, and DG NIA approval for property attachment in
+  NIA-investigated cases.
 - ✅ NIA was created by the NIA Act, 2008, following the 26/11 Mumbai
-  attacks.
+  attacks; the **NIA (Amendment) Act, 2019** extended its jurisdiction to
+  scheduled offences committed outside India against Indian citizens or
+  Indian interests and allowed Sessions Courts to be designated Special
+  Courts.
+- ✅ The **Bharatiya Nyaya Sanhita, 2023** (in force 1 July 2024) defines
+  a terrorist act in **Section 113** and organised crime in **Section
+  111** — the first time either appears in India's general penal code;
+  UAPA remains the special law and an officer not below SP rank decides
+  which statute a case is registered under.
+- ✅ Four new NSG hubs were created after 26/11 at Mumbai, Kolkata,
+  Chennai and Hyderabad, in addition to Manesar.
 - 📰 PRAHAAR, MHA's first comprehensive national counter-terrorism policy
   and strategy document, was released on 23 February 2026.
 - ✅ Singh's three-part difference: terrorism (general category),
@@ -156,13 +233,25 @@ definition exists because "a 'terrorist' in one country may be viewed as a
   tool; NCTC was a proposed apex coordinating body that remained
   contested and was never fully implemented as originally conceived —
   keep the three institutionally distinct (developed further in topic 12).
+- ❌ UAPA's amendment history ends in 2012. -> That is where Singh's
+  book-period account ends; the **2019 amendment** is the one most likely
+  to be tested, because it introduced individual designation.
+- ❌ Designation of an individual as a terrorist under UAPA is a judicial
+  finding of guilt. -> It is an **executive** notification by the Central
+  Government under the Fourth Schedule, reviewable through the statutory
+  denotification/review process; it is neither a charge nor a conviction —
+  keep designation, arrest, charge-sheet and conviction as four distinct
+  evidentiary levels.
+- ❌ Because BNS now defines a terrorist act, UAPA has been repealed. ->
+  Both are in force; BNS Section 113 is general penal law, UAPA is the
+  special law with its own designation, forfeiture and bail regime.
 - ❌ Every non-state actor group is wholly independent of any state. ->
   Singh's proxy-war framing shows several "non-state" groups received de
   facto state support while retaining official deniability for the
   sponsor state.
 - ❌ TADA and POTA are still in force. -> Both were allowed to lapse/were
-  repealed; current terrorism prosecutions rely on the UAPA and the NIA
-  Act framework.
+  repealed; current terrorism prosecutions rely on the UAPA, the NIA Act
+  framework and, since 1 July 2024, BNS Section 113.
 - ❌ All named historical attacks and group leadership details in Singh's
   book remain the current status of those organisations. -> These are
   book-period facts; verify any current claim about a specific group from
@@ -200,9 +289,20 @@ definition exists because "a 'terrorist' in one country may be viewed as a
   the specific institution at each stage (IB/state police for prevention;
   CAPFs/NSG for response; NIA/state police for investigation; special NIA
   courts for prosecution), then anchor the whole in PRAHAAR (2026).
+- ⚠️ **Name the legal instrument precisely, and at the right evidentiary
+  level.** UAPA (with the 2019 amendment), the NIA Act (with the 2019
+  amendment) and BNS Section 113 are three distinct hooks; designation,
+  arrest, charge-sheet and conviction are four distinct outcomes. An
+  answer that says "strict laws have been enacted" earns less than one
+  that names the section and then notes, separately, that statutory power
+  is not the same as prosecutorial throughput.
 - ⚠️ Where a question invites "state versus non-state actor" analysis, use
   the proxy-war/deniability framing (Section 3) rather than treating the
   categories as mutually exclusive.
+- ⚠️ For "contemporary examples," prefer dated institutional or policy
+  developments you can source (PRAHAAR 2026; the 2019 amendments; the UNSC
+  CTC Delhi Declaration on emerging technologies) over incident claims you
+  cannot verify — the question rewards currency, not casualty figures.
 
 ## 11. Probable questions
 

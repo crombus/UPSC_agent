@@ -5,8 +5,9 @@
 > **Core area:** A quotation/source-risk rule for the 100-prompt corpus,
 > with deeper analytical outlines for the 16 recent prompts building on the basic routing
 > table, and a spaced-repetition error-log system.
-> **Grounded in:** verified 2013-2025 UPSC Essay corpus (see
-> `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> **Grounded in:** the 2013-2025 UPSC Essay corpus with per-year
+> verification levels (see `../PYQ-Corpus-2013-2025.md`);
+> `../00_Master-Framework.md`
 > Sections 11, 13.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -64,20 +65,28 @@ resemble the neglected set.
 
 ## 6. Causality, mechanisms and feedback loops — full quotation/source-risk ledger
 
-| Prompt label | Printed author? | Permissible use | Verification needed for attribution |
-|---|---|---|---|
-| 100 prompts (2013-2025) | Use only the attribution printed in `../PYQ-Corpus-2013-2025.md`; the 2024-2025 prompts are unattributed | Quote the verified ledger or paraphrase faithfully | Any added attribution requires a primary/authoritative source |
+| Prompt set | Verification level | Printed author? | Permissible use | Verification needed for attribution |
+|---|---|---|---|---|
+| 2024, 2025 (16 prompts) | **V1** — read directly off the local official PDFs | No — none is attributed | Quote verbatim, printed defects included, or paraphrase faithfully | Any added attribution requires a primary/authoritative source |
+| 2013–2023 (84 prompts) | **V2** — no local official paper | Only 2013-1 carries one ("Gandhiji"), itself unverified | Paraphrase for practice; check the official paper before quoting verbatim | Both the wording *and* any attribution need the official paper |
 
 ```text
 BEFORE using any prompt-derived quotation in a live attempt:
         |
         v
-IS IT IN THE 100-PROMPT VERIFIED LEDGER?
-   yes -> quote/paraphrase the ledger; use only its printed attribution
-   no (a different, remembered aphorism) -> apply 09's full ledger:
-           verify author/wording via primary source, or use unattributed,
-           or omit
+IS IT A V1 ROW (2024/2025)?
+   yes -> quote verbatim as printed (defects included), unattributed
+   no  -> IS IT A V2 ROW (2013-2023)?
+             yes -> paraphrase the idea, OR verify against the official
+                    paper for that year before quoting verbatim
+             no (a different, remembered aphorism) -> apply 09's full ledger:
+                    verify author/wording via primary source, or use
+                    unattributed, or omit
 ```
+
+❌ The commonest failure here is quiet upgrading: reproducing a V2 prompt
+inside quotation marks because it "sounds exactly right." Sounding right
+is not verification — see `09`'s quotation-vs-paraphrase rule.
 
 ## 7. Necessary/sufficient conditions and exceptions
 
@@ -110,8 +119,10 @@ omitting recurring failures defeats the purpose of the error log
 
 ## 10. Evidence/source-risk and India application
 
-✅ The ledger in Section 6 applies uniformly to all 100 prompts;
-✅ every illustration used in practice attempts should also be checked
+⚠️ The ledger in Section 6 applies to all 100 prompts, but not
+uniformly: 16 rows are V1 and quotable verbatim, 84 are V2 and should be
+paraphrased until checked.
+✅ Every illustration used in practice attempts should also be checked
 against `12`'s claim → example → function → limitation → source-module
 chain, logged as part of the same practice record.
 

@@ -38,7 +38,8 @@ size control at 1-100 nm
 | ✅ **Nanoscale** | About 1-100 nm, where size itself becomes functionally important. |
 | ✅ **Quantum confinement** | Electron/light behaviour changes as material dimensions shrink sufficiently. |
 | ✅ **Surface-area effect** | Relative exposed surface rises sharply, often altering reactivity and adsorption. |
-| ✅ **Nanoparticle** | Small particle with one or more dimensions in the nanoscale range. |
+| ✅ **Nanoparticle** | A nano-object with **all three external dimensions** in the nanoscale (~1-100 nm). Objects with two nanoscale dimensions are **nanofibres/nanotubes**; with one, **nanoplates/nanosheets**. A **nanomaterial** is the broader class including nanostructured bulk materials; **nanotechnology** is the deliberate engineering of matter at that scale. |
+| ⚠️ **Fullerenes, dendrimers, nanoemulsions** | Three families frequently omitted from revision: hollow carbon cages (C₆₀); precisely branched polymers with internal cavities used for drug encapsulation; and nanoscale droplet dispersions used in agrochemical, food and pharmaceutical formulations. |
 | ✅ **Graphene** | Two-dimensional carbon sheet with exceptional conductivity/strength relevance. |
 | ✅ **Carbon nanotube** | Cylindrical carbon nanostructure with strength and electronics relevance. |
 | ✅ **Nanocomposite** | Composite where nanoscale phases modify bulk properties. |
@@ -106,7 +107,7 @@ size control at 1-100 nm
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 **01-30 Sep 2024:** DST opened and closed a focused NPNST advanced-materials proposal window. **Status:** programme implementation. | Shows that India’s nano policy is not dormant; it continues through targeted thematic calls rather than only legacy mission language. |
+| 📰 **01-30 Sep 2024:** DST opened and closed a focused NPNST advanced-materials proposal window. **Status:** call issued and closed. | Shows that India's nano programme continues through targeted thematic calls rather than only legacy mission language. ⚠️ A call cycle evidences programme activity, **not** funding volume, project outcomes or deployment — do not infer that "the mission is thriving" from an open call or a live webpage. |
 | 📰 **27 Mar 2025:** MeitY-backed Nano Electronics Roadshow and Conference on Semiconductor Ecosystem in India. **Status:** event held. | Useful to connect nanotechnology with semiconductor strategy, startup ecosystem and indigenous IP creation. |
 | 📰 **16 Jul 2026:** DST and INST pages remain live and publicly describe nano-science institutional architecture. **Status:** institutional continuity visible online. | Helps argue that nanotechnology remains embedded in India’s science-policy ecosystem even when not always headline-dominating. |
 

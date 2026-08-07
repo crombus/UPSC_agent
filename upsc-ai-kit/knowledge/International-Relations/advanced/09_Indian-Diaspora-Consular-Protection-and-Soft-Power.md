@@ -68,7 +68,8 @@ depends on domestic Indian pluralism as much as on external diplomatic effort.
 | ⚠️ **Diaspora as bridge vs. diaspora as lever** | The "bridge" framing treats the diaspora as a channel of mutual understanding and goodwill between India and host societies; the "lever" framing would treat diaspora communities as an instrument to be directed for Indian foreign-policy ends — Tharoor's analysis favours the former, cautioning against the latter's risks. |
 | ✅ **Authenticity and self-inflicted soft-power damage** | ✅ Tharoor explicitly attributes soft-power damage to India's own domestic failures — citing "a nativist attack" episode — arguing "soft power will not come from a narrow or restricted version of Indianness" and must instead "proudly reflect the multi-religious identities of our people, our linguistic diversity." |
 | ⚠️ **Political sensitivity in host states** | Diaspora visibility and political engagement (e.g., diaspora advocacy, community organisation) can itself become contested within a host country's own domestic politics, requiring India to calibrate engagement carefully rather than assume unconditional diaspora mobilisation is cost-free. |
-| ⚠️ **Evacuation coordination as diplomatic architecture** | The bilateral/multilateral arrangements (host-government coordination, consular readiness) that enable evacuation during a crisis belong to IR's diplomatic-framework domain; the operational execution belongs to Disaster Management (folder not yet created; route conceptually). |
+| ⚠️ **Evacuation coordination as diplomatic architecture** | The bilateral/multilateral arrangements (host-government coordination, consular readiness) that enable evacuation during a crisis belong to IR's diplomatic-framework domain; the operational execution belongs to `Disaster-Management/basic/17`. 📰 Operation Sindhu (4,415 Indians evacuated — 3,597 from Iran, 818 from Israel — by 27 June 2025) is the dated worked example. |
+| 📰 **Composition shift as a policy-design variable** | ✅ Per the RBI's sixth Survey on Remittances (FY24, reported in the Economic Survey 2025-26), advanced economies now contribute more of India's inward remittances than the GCC countries, with the US at 27.7 per cent, the UAE 19.2, the UK 10.8 and Singapore 6.6. ⚠️ This is analytically consequential: the welfare/protection track (ECR clearance, PBBY, emigration protection) was designed around low-wage Gulf labour migration, while the fastest-growing remittance base is skilled professional migration to advanced economies — where the binding constraints are visa regimes, social-security portability and professional recognition, not emigration clearance. |
 
 ## 3. Detailed causal chain: from fragmented promotion to authentic soft power
 
@@ -126,15 +127,21 @@ depends on domestic Indian pluralism as much as on external diplomatic effort.
   a genuine, evolving tension requiring careful, case-specific judgment rather
   than a blanket policy.
 - ⚠️ **Boundary case — remittances versus diplomatic bridge role:** the
-  diaspora's economic contribution (remittances) is analytically distinct from
-  its diplomatic/cultural bridge role; Economy owns the former's data and
-  macroeconomic mechanics, while this folder addresses only the latter.
+  diaspora's economic contribution (📰 USD 135.4 billion in FY25, about 3.5 per
+  cent of GDP, and USD 73 billion in H1 FY26 per the Economic Survey 2025-26) is
+  analytically distinct from its diplomatic/cultural bridge role; Economy owns
+  the former's macroeconomic mechanics, while this folder addresses only the
+  latter. ⚠️ The two nonetheless interact: a diaspora of 35,421,987 (MEA, as on
+  January 2026) whose remittance centre of gravity is shifting from the Gulf to
+  advanced economies changes which host-country relationships carry the greatest
+  consular and negotiating weight.
 - ⚠️ **Boundary case — evacuation diplomacy versus consular routine:** routine
-  consular welfare work (MADAD-handled grievances) is qualitatively different
-  from crisis evacuation coordination, which requires host-government
-  negotiation and often overlaps with Disaster Management's operational
-  domain — a boundary this folder maintains even without a dedicated Disaster
-  Management folder existing yet.
+  consular welfare work (MADAD-handled grievances; 📰 MADAD 2.0 launched
+  December 2025) is qualitatively different from crisis evacuation coordination,
+  which requires host-government negotiation and overlaps with Disaster
+  Management's operational domain — 📰 Operation Sindhu (June 2025) is the dated
+  illustration; route the operational cycle to
+  `Disaster-Management/basic/17`.
 - ⚠️ **Boundary case — authenticity as a two-way requirement:** Tharoor's
   argument implies soft power is not solely an external-facing communications
   challenge but is shaped by domestic Indian social cohesion — a boundary point
@@ -156,10 +163,18 @@ depends on domestic Indian pluralism as much as on external diplomatic effort.
   attack example) can disproportionately damage cumulative soft-power
   investment, illustrating a fragile, asymmetric relationship between
   domestic conduct and external perception.
-- ⚠️ **Welfare-protection capacity constraints:** MADAD and the Protector
-  General of Emigrants mechanism operate at scale across a very large and
-  diverse diaspora population; capacity and reach limitations are a genuine,
-  ongoing operational challenge, not a solved problem.
+- ⚠️ **Welfare-protection capacity constraints:** MADAD, e-Migrate, the ICWF,
+  PBBY and the Protector General of Emigrants mechanism operate at scale across
+  a very large and diverse diaspora population — 📰 35,421,987 overseas Indians
+  (MEA, January 2026), with 10,152 Indian prisoners/undertrials abroad recorded
+  in a Lok Sabha answer of 28 March 2025. ⚠️ Capacity and reach limitations are
+  a genuine, ongoing operational challenge, not a solved problem.
+- ⚠️ **Instrument-population mismatch:** the compulsory-insurance and
+  emigration-clearance stack is tied to the ECR category, i.e. to low-wage Gulf
+  migration; ⚠️ it does not by design address the skilled-migration issues
+  (visa policy, social-security portability, qualification recognition) that
+  dominate the fastest-growing segment of the diaspora — a structural gap
+  distinct from the resourcing problem.
 - ⚠️ **ITEC's cultural-diplomacy role is regionally concentrated:** the
   Economic Survey 2025-26 explicitly notes ITEC's cultural-diplomacy influence
   is strongest "in the South Asian region," meaning its soft-power effect is
@@ -180,6 +195,13 @@ depends on domestic Indian pluralism as much as on external diplomatic effort.
 - ✅ The Economic Survey 2025-26 specifically notes ITEC's cultural-diplomacy
   influence is strongest in the South Asian region, not uniformly across all
   partner countries.
+- 📰 MEA's overseas-Indian population table (as on January 2026) records
+  35,421,987 overseas Indians — 19,571,375 NRIs and 15,850,612 PIOs.
+- 📰 Per the RBI's sixth Survey on Remittances (FY24), advanced economies now
+  contribute more than GCC countries, with the US at 27.7 per cent, the UAE
+  19.2, the UK 10.8 and Singapore 6.6.
+- 📰 Operation Sindhu evacuated 4,415 Indians from Iran and Israel by 27 June
+  2025; MADAD 2.0 was launched in December 2025.
 
 ## 8. Advanced Prelims traps
 
@@ -199,9 +221,13 @@ depends on domestic Indian pluralism as much as on external diplomatic effort.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The 18th Pravasi Bharatiya Divas (8-10 January 2025) remains the most
-  recent verified dated diaspora-convening event for this topic. Any claim
-  about a subsequent PBD edition or a specific new diaspora-policy measure
+- 📰 The 18th Pravasi Bharatiya Divas (8-10 January 2025, Bhubaneswar) remains
+  the most recent verified dated diaspora-convening event; ⚠️ no 19th edition
+  was officially recorded as of 3 August 2026. For the protection track cite
+  **Operation Sindhu (June 2025)** and **MADAD 2.0 (December 2025)**; for the
+  economic-linkage track cite the **Economic Survey 2025-26** remittance data
+  and the **RBI's sixth Survey on Remittances (FY24)** composition shift. Any
+  claim about a subsequent PBD edition or a specific new diaspora-policy measure
   requires independent, dated verification.
 
 ## 10. PYQ-based analytical application
@@ -264,4 +290,5 @@ pluralism, not through diaspora "deployment" alone.
 - ⚠️ **Cross-links within this folder:** topic 06 (advanced) for Gulf-diaspora
   welfare exposure to regional-conflict spillover; topic 07 for ITEC's
   Africa-specific role; topic 01 for the multi-alignment vocabulary. Route
-  Disaster Management (evacuation operations) conceptually.
+  evacuation operations to
+  `Disaster-Management/basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`.

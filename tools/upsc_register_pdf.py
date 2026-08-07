@@ -39,6 +39,8 @@ FONT_REGULAR = "Helvetica"
 FONT_BOLD = "Helvetica-Bold"
 FONT_ITALIC = "Helvetica-Oblique"
 FONT_BOLD_ITALIC = "Helvetica-BoldOblique"
+DOCUMENT_LABEL = "UPSC REGISTER NOTES"
+DOCUMENT_TAGLINE = "Concept • Context • Comparison • Answer Writing"
 
 _font_sets = [
     (
@@ -875,12 +877,12 @@ def on_page(canvas, doc):
     canvas.line(2*cm, H - 1.02*cm, W - 2*cm, H - 1.02*cm)
     canvas.setFont(FONT_BOLD, 7.2)
     canvas.setFillColor(P["subtext"])
-    canvas.drawString(2*cm, H - 0.78*cm, "UPSC PHILOSOPHY OPTIONAL  •  VISUAL REGISTER NOTES")
+    canvas.drawString(2*cm, H - 0.78*cm, f"{DOCUMENT_LABEL}  •  VISUAL REGISTER NOTES")
     canvas.setFillColor(P["navy"])
     canvas.rect(0, 0, W, 0.62*cm, fill=1, stroke=0)
     canvas.setFont(FONT_REGULAR, 7)
     canvas.setFillColor(white)
-    canvas.drawString(2*cm, 0.22*cm, "Concept • Critique • Comparison • Answer Writing")
+    canvas.drawString(2*cm, 0.22*cm, DOCUMENT_TAGLINE)
     canvas.setFillColor(P["amber"])
     canvas.circle(W - 2.15*cm, 0.31*cm, 0.18*cm, fill=1, stroke=0)
     canvas.setFont(FONT_BOLD, 6.5)
@@ -891,6 +893,12 @@ def on_page(canvas, doc):
 
 # ── Main PDF builder ──────────────────────────────────────────────────────────
 def build_pdf(data: dict, out_path: str):
+    global DOCUMENT_LABEL, DOCUMENT_TAGLINE
+    DOCUMENT_LABEL = data.get("document_label", "UPSC REGISTER NOTES")
+    DOCUMENT_TAGLINE = data.get(
+        "document_tagline",
+        "Concept • Context • Comparison • Answer Writing",
+    )
     doc = SimpleDocTemplate(
         out_path, pagesize=A4,
         leftMargin=2*cm, rightMargin=2*cm,
@@ -903,7 +911,7 @@ def build_pdf(data: dict, out_path: str):
 
     # ── Cover page ────────────────────────────────────────────────────────────
     story.append(spacer(1.8))
-    eyebrow = p("UPSC PHILOSOPHY OPTIONAL",
+    eyebrow = p(DOCUMENT_LABEL,
                 S(fontName=FONT_BOLD, fontSize=9, textColor=P["amber"],
                   alignment=TA_LEFT, leading=12))
     cover = Table([[

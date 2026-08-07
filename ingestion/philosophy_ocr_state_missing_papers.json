@@ -1,0 +1,355 @@
+{
+  "version": 1,
+  "books": {
+    "1656490273_Philosophy Syllabus_Final.pdf": {
+      "path": "1656490273_Philosophy Syllabus_Final.pdf",
+      "page_count": 3,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:14:53.002348+00:00",
+      "ocr_language": "eng",
+      "source_size": 411220
+    },
+    "PHILOSOPHY OPTIONAL PAPER-I 2019.pdf": {
+      "path": "PHILOSOPHY OPTIONAL PAPER-I 2019.pdf",
+      "page_count": 4,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:14:53.029437+00:00",
+      "ocr_language": "eng",
+      "source_size": 13986059
+    },
+    "PHILOSOPHY OPTIONAL PAPER-I 2021.pdf": {
+      "path": "PHILOSOPHY OPTIONAL PAPER-I 2021.pdf",
+      "page_count": 4,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:14:53.074822+00:00",
+      "ocr_language": "eng",
+      "source_size": 28462755
+    },
+    "PHILOSOPHY OPTIONAL PAPER-I 2022.pdf": {
+      "path": "PHILOSOPHY OPTIONAL PAPER-I 2022.pdf",
+      "page_count": 4,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:14:53.128792+00:00",
+      "ocr_language": "eng",
+      "source_size": 31981911
+    },
+    "PHILOSOPHY OPTIONAL PAPER-I 2023.pdf": {
+      "path": "PHILOSOPHY OPTIONAL PAPER-I 2023.pdf",
+      "page_count": 6,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:14:53.169043+00:00",
+      "ocr_language": "eng",
+      "source_size": 20999822
+    },
+    "PHILOSOPHY OPTIONAL PAPER-II 2019.pdf": {
+      "path": "PHILOSOPHY OPTIONAL PAPER-II 2019.pdf",
+      "page_count": 6,
+      "low_text_before": 1,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [
+        6
+      ],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [
+        6
+      ],
+      "status": "blank-only",
+      "seconds": 5.2,
+      "completed_at": "2026-08-06T12:14:58.400331+00:00",
+      "ocr_language": "eng",
+      "source_size": 34595204
+    },
+    "PHILOSOPHY OPTIONAL PAPER-II 2020.pdf": {
+      "path": "PHILOSOPHY OPTIONAL PAPER-II 2020.pdf",
+      "page_count": 6,
+      "low_text_before": 1,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [
+        6
+      ],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [
+        6
+      ],
+      "status": "blank-only",
+      "seconds": 5.4,
+      "completed_at": "2026-08-06T12:15:03.809739+00:00",
+      "ocr_language": "eng",
+      "source_size": 6238635
+    },
+    "PHILOSOPHY OPTIONAL PAPER-II 2021.pdf": {
+      "path": "PHILOSOPHY OPTIONAL PAPER-II 2021.pdf",
+      "page_count": 5,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:15:03.893160+00:00",
+      "ocr_language": "eng",
+      "source_size": 27563699
+    },
+    "PHILOSOPHY OPTIONAL PAPER-II 2022.pdf": {
+      "path": "PHILOSOPHY OPTIONAL PAPER-II 2022.pdf",
+      "page_count": 6,
+      "low_text_before": 1,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [
+        6
+      ],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [
+        6
+      ],
+      "status": "blank-only",
+      "seconds": 4.5,
+      "completed_at": "2026-08-06T12:15:08.435125+00:00",
+      "ocr_language": "eng",
+      "source_size": 12587343
+    },
+    "PHILOSOPHY OPTIONAL PAPER-II 2023.pdf": {
+      "path": "PHILOSOPHY OPTIONAL PAPER-II 2023.pdf",
+      "page_count": 6,
+      "low_text_before": 1,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [
+        6
+      ],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [
+        6
+      ],
+      "status": "blank-only",
+      "seconds": 6.3,
+      "completed_at": "2026-08-06T12:15:14.894224+00:00",
+      "ocr_language": "eng",
+      "source_size": 43377915
+    },
+    "PHILOSOPHY-PAPER-I-QP-CSM-25-010925.pdf": {
+      "path": "PHILOSOPHY-PAPER-I-QP-CSM-25-010925.pdf",
+      "page_count": 4,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:15:14.969252+00:00",
+      "ocr_language": "eng",
+      "source_size": 1544989
+    },
+    "PHILOSOPHY-PAPER-II-QP-CSM-25-010925.pdf": {
+      "path": "PHILOSOPHY-PAPER-II-QP-CSM-25-010925.pdf",
+      "page_count": 6,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:15:15.041577+00:00",
+      "ocr_language": "eng",
+      "source_size": 1280213
+    },
+    "PHILOSOPHY_I.pdf": {
+      "path": "PHILOSOPHY_I.pdf",
+      "page_count": 6,
+      "low_text_before": 6,
+      "ocr_meaningful_pages": 5,
+      "blank_or_decorative_pages": [
+        6
+      ],
+      "failed_pages": [],
+      "searchable_repaired_pages": 5,
+      "remaining_low_text_pages": [],
+      "status": "repaired",
+      "seconds": 17.1,
+      "completed_at": "2026-08-06T12:15:32.149170+00:00",
+      "ocr_language": "eng",
+      "inserted_words": 1495,
+      "rasterized_fallback": false,
+      "source_size": 585851
+    },
+    "PHILOSOPY OPTIONAL PAPER-II 2018.pdf": {
+      "path": "PHILOSOPY OPTIONAL PAPER-II 2018.pdf",
+      "page_count": 6,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:15:32.169970+00:00",
+      "ocr_language": "eng",
+      "source_size": 3206396
+    },
+    "PHILOSOPY-PAPER-I.pdf": {
+      "path": "PHILOSOPY-PAPER-I.pdf",
+      "page_count": 5,
+      "low_text_before": 5,
+      "ocr_meaningful_pages": 5,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 5,
+      "remaining_low_text_pages": [],
+      "status": "repaired",
+      "seconds": 16.3,
+      "completed_at": "2026-08-06T12:15:48.452615+00:00",
+      "ocr_language": "eng",
+      "inserted_words": 1634,
+      "rasterized_fallback": false,
+      "source_size": 708733
+    },
+    "QP-CSM-22-PHILOSOPHY-PAPER-I-280922.pdf": {
+      "path": "QP-CSM-22-PHILOSOPHY-PAPER-I-280922.pdf",
+      "page_count": 4,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:15:48.512449+00:00",
+      "ocr_language": "eng",
+      "source_size": 1808718
+    },
+    "QP-CSM-22-PHILOSOPHY-PAPER-II-280922.pdf": {
+      "path": "QP-CSM-22-PHILOSOPHY-PAPER-II-280922.pdf",
+      "page_count": 6,
+      "low_text_before": 1,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [
+        6
+      ],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [
+        6
+      ],
+      "status": "blank-only",
+      "seconds": 4.5,
+      "completed_at": "2026-08-06T12:15:53.076505+00:00",
+      "ocr_language": "eng",
+      "source_size": 1417007
+    },
+    "QP-CSM-23-PHILOSOPHY-PAPER-I-29092023.pdf": {
+      "path": "QP-CSM-23-PHILOSOPHY-PAPER-I-29092023.pdf",
+      "page_count": 6,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:15:53.160894+00:00",
+      "ocr_language": "eng",
+      "source_size": 1765935
+    },
+    "QP-CSM-23-PHILOSOPHY-PAPER-II-29092023.pdf": {
+      "path": "QP-CSM-23-PHILOSOPHY-PAPER-II-29092023.pdf",
+      "page_count": 6,
+      "low_text_before": 1,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [
+        6
+      ],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [
+        6
+      ],
+      "status": "blank-only",
+      "seconds": 6.1,
+      "completed_at": "2026-08-06T12:15:59.310407+00:00",
+      "ocr_language": "eng",
+      "source_size": 1983713
+    },
+    "QP-CSM-24-PHILOSOPHY-PAPER-I-031024.pdf": {
+      "path": "QP-CSM-24-PHILOSOPHY-PAPER-I-031024.pdf",
+      "page_count": 8,
+      "low_text_before": 1,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [
+        8
+      ],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [
+        8
+      ],
+      "status": "blank-only",
+      "seconds": 5.0,
+      "completed_at": "2026-08-06T12:16:04.374123+00:00",
+      "ocr_language": "eng",
+      "source_size": 2245305
+    },
+    "QP-CSM-24-PHILOSOPHY-PAPER-II-031024.pdf": {
+      "path": "QP-CSM-24-PHILOSOPHY-PAPER-II-031024.pdf",
+      "page_count": 4,
+      "low_text_before": 0,
+      "ocr_meaningful_pages": 0,
+      "blank_or_decorative_pages": [],
+      "failed_pages": [],
+      "searchable_repaired_pages": 0,
+      "remaining_low_text_pages": [],
+      "status": "unchanged",
+      "seconds": 0,
+      "completed_at": "2026-08-06T12:16:04.436292+00:00",
+      "ocr_language": "eng",
+      "source_size": 1322119
+    }
+  },
+  "updated_at": "2026-08-06T12:16:04.437309+00:00"
+}

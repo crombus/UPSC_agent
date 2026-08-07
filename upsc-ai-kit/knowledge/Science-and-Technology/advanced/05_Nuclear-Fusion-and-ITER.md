@@ -2,7 +2,7 @@
 
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims.
 > **Core area:** Experimental fusion strategy, international collaboration, India’s domestic research base and realism about commercial timelines.
-> **Grounded in:** ITER fusion pages (https://www.iter.org/sci/whatisfusion ; https://www.iter.org/fusion-energy/what-will-iter-do ; https://www.iter.org/fusion-energy/after-iter); ITER India contributions/update pages (https://www.iter.org/node/20687/indias-contributions-iter ; https://www.iter.org/node/20687/updated-baseline-presented ; https://www.iter.org/sites/default/files/media/2025-06/ic-36_press_release_final2.pdf); IPR SST-1 and Aditya-U pages (https://nsd.ipr.res.in/documents/sst-1.html ; https://nsd.ipr.res.in/documents/aditya_u.html); official IPR ecosystem references (https://www.ipr.res.in/) — verified 16 Jul 2026.
+> **Grounded in:** ITER fusion pages (https://www.iter.org/sci/whatisfusion ; https://www.iter.org/fusion-energy/what-will-iter-do ; https://www.iter.org/fusion-energy/after-iter); ITER India contributions/update pages (https://www.iter.org/node/20687/indias-contributions-iter ; https://www.iter.org/node/20687/updated-baseline-presented ; https://www.iter.org/sites/default/files/media/2025-06/ic-36_press_release_final2.pdf); IPR SST-1 and Aditya-U pages (https://nsd.ipr.res.in/documents/sst-1.html ; https://nsd.ipr.res.in/documents/aditya_u.html); official IPR ecosystem references (https://www.ipr.res.in/); ITER new-baseline release, 8 Jul 2024 (https://www.iter.org/node/20687/new-baseline-prioritize-robust-start-exploitation); ITER mission overview (https://www.iter.org/few-lines); ITER-India contributions page (https://www.iterindia.in/indias-contribution-iter); IPR ADITYA-U and SST-1 pages (https://www.ipr.res.in/rdactivities/Aditya-U1 ; https://nsd.ipr.res.in/documents/sst-1.html) — re-verified 2 Aug 2026.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `basic/05_Nuclear-Fusion-and-ITER.md`.*
 
@@ -35,12 +35,16 @@ DEMO-like future systems = later power-generation ambition
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Burning plasma ambition** | Fusion state where plasma heating is substantially sustained by fusion reactions themselves; a key experimental frontier. |
-| ✅ **DEMO** | Future demonstration-class fusion power concept expected after ITER-type experimentation, not before it. |
-| ✅ **Cryogenic / superconducting ecosystem** | Engineering base needed for large magnetic-confinement devices. |
+| ✅ **Burning plasma ambition** | Fusion state where plasma heating is substantially sustained by fusion reactions themselves — physically, when the **3.5 MeV alpha particles** retained in the plasma supply most of the heating. This is the frontier no tokamak has yet crossed at scale. |
+| ⚠️ **Lawson triple product (n·T·τ_E)** | The quantitative statement of what "hard" means in fusion: density, temperature and energy-confinement time must be raised *simultaneously*. Machine size, magnetic field strength and plasma stability all enter through τ_E. |
+| ⚠️ **Q, engineering Q and net electricity** | **Q** = fusion power / injected heating power (ITER target ≥ 10). **Engineering Q** subtracts the whole plant's recirculating consumption — magnets, cryoplant, pumps, heating efficiency, thermal-to-electric conversion. A machine can achieve Q > 1 and still be a net electricity *consumer*; conflating the two is the commonest fusion error in exam writing. |
+| ⚠️ **Tritium breeding ratio (TBR)** | Tritium bred per tritium consumed. **TBR must exceed 1** (with margin for decay and losses) or a D-T plant cannot fuel itself, since world tritium inventories are tiny. Test blanket modules on ITER exist precisely to validate this. |
+| ⚠️ **Neutron-resistant materials** | 14.1 MeV neutrons cause displacement damage, helium/hydrogen production and activation in structural steel. Reduced-activation ferritic-martensitic steels and tungsten armour are the candidate answers; validating them needs a dedicated high-flux neutron source, which is itself an unbuilt prerequisite for DEMO. |
+| ✅ **DEMO** | Future demonstration-class fusion power concept expected after ITER-type experimentation, not before it — the first machine intended to put fusion electricity on a grid. |
+| ✅ **Cryogenic / superconducting ecosystem** | Engineering base needed for large magnetic-confinement devices; also the clearest channel through which fusion spending yields non-fusion industrial returns (MRI magnets, accelerators, cryogenics, vacuum technology). |
 | ✅ **Fusion hype risk** | Analytical error of mistaking experimental success for immediate commercial power deployment. |
-| ✅ **Long-duration plasma operation** | Ability to sustain controlled plasma for longer pulses, central to future practicality. |
-| ✅ **In-kind contribution model** | International collaboration structure in which members provide components and systems rather than only cash support. |
+| ✅ **Long-duration plasma operation** | Ability to sustain controlled plasma for longer pulses, central to future practicality. A tokamak's induced plasma current is inherently pulsed, which is why *steady-state* operation (SST-1's purpose) and stellarators are strategically interesting. |
+| ✅ **In-kind contribution model** | International collaboration structure in which members provide components and systems rather than only cash support — attractive because it converts a contribution into **domestic industrial capability**, but demanding because delivery failures by one member delay everyone. |
 
 ## 4. Mechanism / how it works
 
@@ -53,16 +57,20 @@ DEMO-like future systems = later power-generation ambition
 ## 5. Institutions and programmes
 
 ### Core institutions
-- ✅ **ITER Organization:** global flagship experimental fusion collaboration.
-- ✅ **India as ITER member:** contributes components, engineering and scientific participation.
-- ✅ **IPR / ITER-India ecosystem:** India’s domestic fusion-research base and international contribution interface.
-- ✅ **SST-1 and Aditya-U:** domestic experimental platforms that cultivate operational knowledge and scientific manpower.
+- ✅ **ITER Organization:** global flagship experimental fusion collaboration of **seven members — India, EU, China, Japan, South Korea, Russia and the USA** — sited at Saint-Paul-lez-Durance, France.
+- ✅ **India as ITER member:** contributes **nine in-kind packages** — cryostat, in-wall shielding, cooling-water system, cryogenic system, ion-cyclotron RF heating, electron-cyclotron RF heating, diagnostic neutral beam, power supplies and diagnostics.
+- ✅ **Institute for Plasma Research (IPR), Gandhinagar:** a DAE-aided institute; India's plasma-physics and fusion-research base, operating ADITYA-U and SST-1.
+- ✅ **ITER-India:** the **Indian Domestic Agency for ITER, constituted as a dedicated project within IPR**. It contracts Indian industry, manages delivery schedules and interfaces with the ITER Organization. ⚠️ Writing "IPR / ITER-India" as one entity blurs a research institute with a procurement agency — precisely the kind of institutional conflation UPSC penalises.
+- ✅ **SST-1 and Aditya-U:** domestic experimental platforms that cultivate operational knowledge and scientific manpower; IPR describes them as research devices, not power reactors.
 
 ### Governance / strategic debates
 - ⚠️ Fusion cooperation is simultaneously scientific diplomacy, industrial capability-building and long-horizon energy strategy.
 - ⚠️ Because fusion is still experimental, policymakers must balance visionary funding with realistic public communication.
 - ⚠️ International collaboration accelerates learning but also requires domestic industry depth to convert participation into durable technological gain.
 - ⚠️ A serious fusion policy discussion asks what India learns in magnets, cryogenics, control systems and materials - not only whether it gets future electricity.
+- ⚠️ **The in-kind model's double edge:** it guarantees Indian firms build first-of-a-kind hardware to nuclear-grade tolerances (real capability transfer), but it also couples India's programme to a multi-party schedule it does not control — the 2024 re-baselining is the practical illustration.
+- ⚠️ **Regulatory vacuum:** fusion devices are not fission reactors, yet they involve tritium inventories, activated materials and large stored magnetic energy. India has no distinct fusion-specific licensing framework; whether fusion should be regulated under the atomic-energy law or a lighter bespoke regime is an open governance question worth one line in a Mains answer.
+- ⚠️ **Private fusion is now a real variable globally**, with venture-funded compact-tokamak and alternative-confinement ventures claiming faster timelines than ITER. The analytically honest position is that none has demonstrated a burning plasma or a closed tritium cycle, so private entry changes the *funding landscape* more than the *technical readiness*.
 
 ## 6. Indian applications, strategic significance and limitations
 
@@ -101,19 +109,22 @@ DEMO-like future systems = later power-generation ambition
 
 ## 9. 📰 Current anchor
 
-- 📰 **20 Jun 2024 | ITER baseline - updated.** Official baseline revision prioritised substantial research operations while accounting for repairs and integration realities.
-- 📰 **17 Feb 2025 | India’s ITER contribution - highlighted officially.** ITER emphasised India’s cryostat and broader contribution footprint.
+- 📰 **08 Jul 2024 | ITER new baseline - adopted.** ITER moved from a "First Plasma" milestone to **Start of Research Operations in 2034**, **full magnetic energy in 2036** and **deuterium-tritium operation in 2039**, retaining the mission target of **Q ≥ 10 (500 MW fusion from 50 MW injected heating)**.
+- 📰 **17 Feb 2025 | India’s ITER contribution - highlighted officially.** ITER emphasised India’s cryostat and broader contribution footprint across its nine in-kind packages.
 - 📰 **19 Jun 2025 | ITER Council Meeting 36 - strong project execution.** Official press release welcomed sector-module installation ahead of schedule and completion of all major magnets.
+- 📰 **Verified position, Aug 2026 | Domestic platforms.** IPR describes **ADITYA-U** (deuterium plasma, divertor and shaped-plasma campaigns) and **SST-1** (steady-state superconducting tokamak) as experimental research devices. **Status: research operation, not power generation.**
 - 📰 **Ongoing official position:** after ITER, later demonstration plants remain the next step; fusion therefore stays in the experimental/research category.
 
 | Verified current anchor | Analytical use in answers |
 |---|---|
-| Updated baseline in 2024 | Use to show that frontier science projects are governed by schedule realism, not linear optimism. |
-| India’s contribution highlighted in 2025 | Use to argue that ITER participation has industrial and diplomatic value beyond physics alone. |
+| 2024 re-baselining to Start of Research Operations 2034 and D-T 2039 | Use to show that frontier science projects are governed by schedule realism, not linear optimism — and to date any "implications of success" answer to the second half of the century rather than the current decade. |
+| Q ≥ 10 stated as **500 MW thermal from 50 MW injected heating** | Use to make the precise point that ITER's target is a *plasma physics* gain, not net electricity; ITER has no generating equipment at all. |
+| India’s nine in-kind packages, cryostat highlighted in 2025 | Use to argue that ITER participation has industrial and diplomatic value beyond physics alone: Indian firms delivered nuclear-grade cryogenics, vacuum and RF systems that are reusable in accelerators, space and medical technology. |
 | ITER Council welcomed 2025 construction milestones | Use to show progress without falsely claiming commercial readiness. |
-| “After ITER” framing remains central | Use to reinforce that no operational fusion power plant yet exists anywhere. |
+| ADITYA-U and SST-1 described as research devices | Use to keep India's domestic claim honest: India has plasma-physics capability and steady-state ambition, not a fusion power programme. |
+| “After ITER” framing remains central | Use to reinforce that no operational fusion power plant yet exists anywhere, and that DEMO-class machines plus a validated tritium-breeding blanket and a neutron-materials test facility all remain prerequisites. |
 
-⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date; verify later updates before exam use.
+⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Aug 2026); verify later updates before exam use.
 
 ## 10. PYQ application
 

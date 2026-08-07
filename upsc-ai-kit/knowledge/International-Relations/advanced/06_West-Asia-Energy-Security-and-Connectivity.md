@@ -19,8 +19,8 @@ ENERGY TRILEMMA
 │ SECURITY   │ AFFORD-   │ SUSTAIN-  │
 │ (supply    │ ABILITY   │ ABILITY   │
 │ reliability│ (price    │ (transition│
-│ ~70% import│ exposure) │ pressure) │
-│ dependence)│           │           │
+│ 89.1% crude│ exposure) │ pressure) │
+│ import dep)│           │           │
 └───────────┴───────────┴───────────┘
         |
         v
@@ -59,8 +59,9 @@ between reliable supply, cost and long-term transition pressure.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Energy trilemma applied to West Asia** | ⚠️ India's ~70% import dependence (Sikri) creates a security vulnerability that equity investment abroad partially addresses, but affordability (price exposure) and sustainability (transition pressure) introduce additional, sometimes conflicting, considerations that a pure security lens misses. |
-| ⚠️ **Diversification vs. dependence-reduction** | Equity investment in overseas oilfields diversifies the supplier base but does not by itself reduce India's aggregate import-dependence level — a distinction between managing risk and eliminating it. |
+| ✅ **Energy trilemma applied to West Asia** | ⚠️ India's crude-oil import dependence — 📰 89.1% in FY2024-25 and FY2025-26 provisional (PPAC), against ✅ Sikri's book-period "approximately 70 per cent" — creates a security vulnerability that equity investment abroad partially addresses, but affordability (price exposure) and sustainability (transition pressure) introduce additional, sometimes conflicting, considerations that a pure security lens misses. |
+| ⚠️ **Diversification vs. dependence-reduction** | Equity investment in overseas oilfields and a widening supplier base diversify supply risk but do not by themselves reduce India's aggregate import-dependence level — a distinction between managing risk and eliminating it. 📰 The Economic Survey 2025-26 documents exactly this pattern: the US share of India's crude imports rose to 8.1% (from 4.6%) and the UAE's to 11.1% (from 9.4%) in April-November of FY26, while aggregate dependence stayed at 89.1%. |
+| ⚠️ **Refinery lock-in as a hidden switching cost** | ✅ Tharoor notes "many Indian refineries are in fact devised to process the quality of crude oil that Iran supplies" — ⚠️ configuration-specific refining capacity is a physical constraint on how quickly a supplier mix can actually change, and is the reason headline diversification percentages move slowly. |
 | ✅ **Look West and Look East as parallel doctrines** | ✅ Tharoor frames "Look West" as an explicit parallel to the "Look East" policy — both represent regionally targeted engagement doctrines rather than a single undifferentiated foreign-policy stance. |
 | ✅ **Balancing, not equidistance, in the Israel-Arab-Iran triangle** | ✅ Tharoor's explicit statement — valuing Israel ties "not at the expense of" Arab/Muslim friendships — describes active balancing (deepening multiple ties simultaneously) rather than passive equidistance (avoiding commitment to any). |
 | ⚠️ **Connectivity-diplomacy vs. connectivity-infrastructure** | I2U2 and IMEEC are diplomatic-economic frameworks that create political momentum and investment interest; they are not, by themselves, completed transport/energy infrastructure — a distinction essential to avoid overstating delivery. |
@@ -68,8 +69,10 @@ between reliable supply, cost and long-term transition pressure.
 
 ## 3. Detailed causal chain: from dependence to integrated strategy
 
-1. **Baseline vulnerability:** ✅ Sikri's ~70% oil-import-dependence figure
-   establishes West Asia's structural centrality to India's energy security.
+1. **Baseline vulnerability:** 📰 PPAC's 89.1% crude-oil-import-dependence
+   figure for FY2024-25 and FY2025-26 (provisional), up from ✅ Sikri's
+   book-period "approximately 70 per cent," establishes West Asia's structural
+   centrality to India's energy security.
 2. **Diversification response:** ✅ India's equity-investment strategy in
    overseas oilfields spreads supply risk across multiple sources and
    geographies, a direct policy response to the baseline vulnerability.
@@ -96,20 +99,29 @@ between reliable supply, cost and long-term transition pressure.
 
 ## 4. Institutional and reform architecture
 
-- 📰 **India-GCC Joint Action Plan (2024-28):** the current dated framework for
-  India-GCC strategic dialogue, covering trade, energy, security and people-to-
-  people dimensions.
-- ⚠️ **UAE-India CEPA:** a bilateral trade-agreement instrument deepening
-  India-UAE economic integration (Economy owns tariff mechanics).
+- 📰 **India-GCC Joint Action Plan (2024-2028):** adopted at the first India-GCC
+  Joint Ministerial Meeting for Strategic Dialogue, Riyadh, 9 September 2024 —
+  the current dated framework for India-GCC strategic dialogue, covering trade,
+  energy, security and people-to-people dimensions.
+- 📰 **Bilateral strategic architecture:** the India-Saudi Strategic Partnership
+  Council's second meeting (Jeddah, 22 April 2025) and the India-Qatar Agreement
+  on Establishment of a Bilateral Strategic Partnership (18 February 2025).
+- ⚠️ **UAE-India CEPA (in force 1 May 2022):** a bilateral trade-agreement
+  instrument deepening India-UAE economic integration, with officially reported
+  bilateral trade of approximately USD 100 billion in FY2024-25 (Economy owns
+  tariff mechanics). 📰 An India-Oman CEPA was signed on 18 December 2025.
 - ⚠️ **I2U2 (India-Israel-UAE-US):** a minilateral framework on food security,
-  water, energy and technology — illustrates cross-regional (South Asia-Middle
-  East-North America) cooperation architecture.
-- ⚠️ **IMEEC:** an announced connectivity corridor concept linking India, the
-  Gulf, Israel/the Levant and Europe — treat completion, capacity or timeline
-  claims cautiously and only with a specific dated source.
-- ⚠️ **Chabahar port (Iran):** a connectivity link serving both West Asia and
-  Central Asia engagement (cross-link to topic 05); its utility depends partly
-  on Iran-related sanctions and geopolitical dynamics.
+  water, energy and technology. ⚠️ No four-party meeting or outcome in 2024-2026
+  is officially verified — an honest limitation to state rather than assume
+  continuous activity.
+- 📰 **IMEC/IMEEC:** an eight-party MoU signed on 9 September 2023 (India, US,
+  Saudi Arabia, UAE, EU, France, Germany, Italy) linking India, the Gulf,
+  the Levant and Europe. ⚠️ MEA's 24 June 2024 India-UAE readout referred to
+  "commencement of work"; no completed construction or operating segment is
+  officially established.
+- 📰 **Chabahar port (Iran):** 10-year contract signed 13 May 2024; US sanctions
+  waiver revoked effective 29 September 2025 — a connectivity link serving both
+  West Asia and Central Asia engagement (cross-link to topic 05).
 
 ## 5. Indian applications and boundary cases
 
@@ -118,12 +130,17 @@ between reliable supply, cost and long-term transition pressure.
   Eastern countries" — invites an advanced answer to unpack "influence" beyond
   energy purchase into diaspora diplomacy, technology partnership (Israel) and
   connectivity-framework participation (I2U2, IMEEC, GCC Joint Action Plan).
-- ⚠️ **Boundary case — Iran under sanctions pressure:** ✅ Sikri notes "Iran's
+- ⚠️ **Boundary case — Iran under sanctions pressure:** ✅ Tharoor notes "Iran's
   natural resources, particularly its oil and natural gas, have been
-  increasingly important for India for decades" (Tharoor), while Iran-related
-  international sanctions regimes constrain how fully India can operationalise
-  this relationship or the Chabahar connectivity route at any given time — a
-  live constraint requiring dated verification before any specific claim.
+  increasingly important for India for decades," that "many Indian refineries
+  are in fact devised to process the quality of crude oil that Iran supplies,"
+  and that India is "anxious to avoid Iran becoming an irritant in its
+  strengthening relations with the United States." 📰 The tension is now dated
+  and concrete: the 10-year Chabahar contract of 13 May 2024 was followed by
+  revocation of the US sanctions waiver effective 29 September 2025, with
+  non-exposure assurance only to 26 April 2026. ⚠️ Sanctions exposure is a
+  commercial and financing constraint created by another state's domestic law —
+  not an international legal obligation on India.
 - ⚠️ **Boundary case — Israel-Palestine escalation risk:** any escalation
   directly tests India's explicit balancing principle (valuing Israel ties
   "not at the expense of" Arab/Muslim relationships); how India navigates a
@@ -131,9 +148,11 @@ between reliable supply, cost and long-term transition pressure.
   event-specific verification rather than a general assumption.
 - ⚠️ **Boundary case — diaspora welfare during regional conflict:** any Gulf/
   regional conflict escalation triggers evacuation and consular-protection
-  needs — the operational evacuation response belongs to Disaster Management
-  (folder not yet created; route conceptually), while the diplomatic
-  arrangements enabling cooperation belong to this folder and to topic 09.
+  needs. 📰 Operation Sindhu evacuated 4,415 Indians — 3,597 from Iran and 818
+  from Israel — by 27 June 2025, the concrete demonstration that this is not a
+  hypothetical risk. ⚠️ The operational relief and logistics cycle belongs to
+  `Disaster-Management/basic/17`; the host-government negotiation and consular
+  diplomacy enabling it belong to this folder and to topic 09.
 
 ## 6. Limitations and trade-offs
 
@@ -162,16 +181,21 @@ between reliable supply, cost and long-term transition pressure.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ Sikri's ~70% oil-import-dependence figure is the baseline data point for
-  India's energy-security vulnerability in this region (period-specific; verify
-  current figures via Economy sources).
+- ✅ India's crude-oil import dependence is 89.1% in FY2024-25 and FY2025-26
+  provisional (PPAC); ✅ Sikri's ~70% is a book-period baseline useful only for
+  showing the trend direction.
 - ✅ Tharoor explicitly parallels "Look West" with "Look East" as regionally
   targeted engagement doctrines.
 - ✅ Tharoor's explicit balancing statement — Israel ties valued "not at the
   expense of" Arab/Muslim friendships — is the precise textual anchor for any
   "balancing" argument in this topic.
-- 📰 The India-GCC Joint Action Plan (2024-28) is the most recent verified
-  dated framework anchoring India-Gulf strategic dialogue.
+- ✅ Tharoor notes many Indian refineries are configured for Iranian crude and
+  that the proposed Iran-Pakistan-India pipeline remained "a serious attraction"
+  despite US pressure and India's reluctance to route energy security through
+  Pakistani territory.
+- 📰 The India-GCC Joint Action Plan (2024-2028) was adopted at the first
+  India-GCC Joint Ministerial Meeting for Strategic Dialogue, Riyadh, 9
+  September 2024; the IMEC MoU was signed by eight parties on 9 September 2023.
 
 ## 8. Advanced Prelims traps
 
@@ -190,10 +214,14 @@ between reliable supply, cost and long-term transition pressure.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The India-GCC Joint Action Plan (2024-28) remains the most recent verified
-  dated framework for this topic. Any claim about I2U2/IMEEC delivery status,
-  or about a specific regional-conflict development, requires independent,
-  dated verification before being treated as ✅.
+- 📰 The India-GCC Joint Action Plan (2024-2028), adopted at Riyadh on
+  9 September 2024, remains the anchor framework. Two further dated anchors
+  sharpen the analysis: **Operation Sindhu (4,415 Indians evacuated by 27 June
+  2025)**, which prices the diaspora-exposure limb of the trilemma, and the
+  **revocation of the US Chabahar sanctions waiver (effective 29 September
+  2025)**, which prices the connectivity limb. ⚠️ Any claim about I2U2/IMEEC
+  delivery status, or about a specific regional-conflict development, requires
+  independent, dated verification before being treated as ✅.
 
 ## 10. PYQ-based analytical application
 
@@ -207,11 +235,12 @@ between reliable supply, cost and long-term transition pressure.
   should:
   1. Apply the energy trilemma (security, affordability, sustainability)
      rather than security alone.
-  2. Cite the ~70% import-dependence baseline and the equity-investment
-     diversification response.
-  3. Unpack "overarching influence" into diaspora diplomacy, Israel technology
-     partnership, and connectivity frameworks (I2U2, IMEEC, GCC Joint Action
-     Plan 2024-28).
+  2. Cite the 89.1% import-dependence baseline (PPAC) against Sikri's
+     book-period ~70%, and the equity-investment and supplier-diversification
+     response documented in the Economic Survey 2025-26.
+  3. Unpack "overarching influence" into diaspora diplomacy (Operation Sindhu,
+     June 2025), Israel technology partnership, and connectivity frameworks
+     (I2U2, IMEEC, GCC Joint Action Plan 2024-2028).
   4. Flag regional-conflict spillover risk as a compounding factor requiring
      continuous diplomatic management, without predicting a specific future
      event.

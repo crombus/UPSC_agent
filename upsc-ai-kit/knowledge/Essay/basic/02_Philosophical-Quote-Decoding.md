@@ -36,14 +36,41 @@ construction proper — see `05`.
 
 ## 3. ✅ Exam facts / source basis
 
-- ✅ All 16 recent prompts are printed **without any author attribution**;
-  the full 100-prompt ledger is `../PYQ-Corpus-2013-2025.md`.
-- ✅ Raw OCR is not authoritative. For example, 2024-A2 reads "empires of
-  the **future**" and 2024-A3 reads "There is no path to happiness;
-  Happiness is the path."
+- ✅ All 16 recent prompts (2024, 2025) are printed **without any author
+  attribution**; the full 100-prompt ledger, with each year's verification
+  level, is `../PYQ-Corpus-2013-2025.md`.
+- ✅ **Quote the paper, not the tidy version.** Read directly from the
+  official PDFs, 2024-A2 prints "The empires of the **futures** will be
+  the empires of the mind" and 2024-A3 prints "There is no path to
+  happiness**,** Happiness is the path" — plural "futures", and a comma
+  rather than a semicolon. Coaching reproductions commonly normalise
+  both. ❌ Do not.
+- ❌ A printing defect is not a hidden meaning. Decode the evident sense
+  of the sentence; an essay arguing that "futures" (plural) signals
+  multiple possible futures is answering a question the paper did not ask.
 - ⚠️ Because no author is given, this folder treats every prompt as a
   **free-standing proposition to be interpreted on its own terms** —
   there is no "correct," externally sourced reading to recall.
+
+## 3a. Philosophical prompt vs. issue prompt — which method applies
+
+⚠️ Deciding this in the first thirty seconds saves the whole attempt,
+because the two prompt types need different first moves.
+
+| | Philosophical prompt (this file, `02`) | Issue prompt (`03`) |
+|---|---|---|
+| What it presents | A compressed proposition, usually metaphorical or definitional | A named real-world phenomenon plus an asserted causal/evaluative claim |
+| Example | 2025-B5 "Muddy water is best cleared by leaving it alone." | 2024-B5, on social media, FOMO and youth distress |
+| First move | **Decode** — literal claim, operative tension, scope | **Scope** — bound the specific claim, name the mechanism |
+| Main risk | Restating the metaphor instead of interpreting it | Drifting into a GS survey of the subject area |
+| What "evidence" does | Tests whether the decoded reading survives real cases | Substantiates or qualifies the asserted causal chain |
+
+❌ The boundary is not always clean: a prompt can be metaphorical in
+phrasing and empirical in reference (2024-A1, forests and deserts). ⚠️
+Where it is genuinely hybrid, decode first and scope second — decoding a
+prompt that needed only scoping costs a minute; scoping a prompt that
+needed decoding produces an essay about the wrong subject. `03`,
+Section 3a, gives a three-question test for the borderline cases.
 
 ## 4. The central idea and common misreading
 
@@ -119,8 +146,10 @@ Full method: `06`.
   authoritative. → Repair: since no author is printed (Section 3), never
   attribute one; use the prompt's own words as the reference point (full
   discipline: `09`, `16`).
-- ❌ **Treating OCR noise as official wording.** → Repair: quote from
-  `../PYQ-Corpus-2013-2025.md` or recheck the paper.
+- ❌ **Treating OCR noise as official wording — or "correcting" the paper
+  into better English.** Both are the same error in opposite directions.
+  → Repair: quote from `../PYQ-Corpus-2013-2025.md`'s V1 rows, which
+  reproduce the 2024/2025 papers as printed, defects included.
 - ❌ **Picking the first metaphorical reading that comes to mind** without
   testing a contrary reading. → Repair: always run Section 5, Q5 before
   committing to a thesis.

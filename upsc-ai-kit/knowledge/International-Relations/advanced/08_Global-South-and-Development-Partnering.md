@@ -33,7 +33,8 @@ COALITION-FORMATION LANDSCAPE
 INDIA'S DUAL POSITIONING
 member of every overlapping platform +
 convenor of its own dedicated summit
-(Voice of Global South, 17 Aug 2024)
+(Voice of Global South: Jan 2023,
+Nov 2023, 17 Aug 2024)
              |
              v
 NORM ENTREPRENEURSHIP
@@ -102,12 +103,25 @@ negotiating bloc, which constrains how far any single leadership claim can go.
 - ⚠️ **NAM:** retains historical solidarity value but has narrowed contemporary
   institutional salience (cross-link to topic 01's advanced non-alignment
   analysis).
-- ⚠️ **BRICS:** a distinct, expanding grouping whose 2025 Rio Declaration (6
-  July 2025 — full treatment in topic 10) addresses financial-architecture
-  reform, only partially overlapping with the broader Global South agenda.
-- 📰 **Voice of Global South Summit (third edition, 17 August 2024):** India's
-  own dedicated convening instrument, distinguishing its approach from relying
-  solely on pre-existing coalitions.
+- ⚠️ **BRICS:** a distinct, expanding grouping whose 17th Summit issued the Rio
+  de Janeiro Declaration (6-7 July 2025 — full treatment in topic 10),
+  addressing financial-architecture reform, only partially overlapping with the
+  broader Global South agenda. ⚠️ Its separate **partner-country** category
+  (created 24 October 2024) is itself an instructive case: it widens
+  participation without widening membership rights, the same distinction the
+  Global South presses against the UNSC and Bretton Woods institutions.
+- 📰 **Voice of Global South Summit (first 12-13 January 2023; second
+  17 November 2023; third 17 August 2024, all virtual):** India's own dedicated
+  convening instrument, distinguishing its approach from relying solely on
+  pre-existing coalitions. The **Global Development Compact** proposed at the
+  third edition is a four-fold framework — trade for development; capacity
+  building for sustainable growth; technology sharing; and project-specific
+  concessional finance and grants. ⚠️ A proposal, not an operational institution;
+  and no fourth edition was officially recorded as of 3 August 2026.
+- 📰 **Outcome benchmark:** the African Union's admission as a permanent G20
+  member on 9 September 2023 is the one concrete representation change achieved
+  in this cycle — ⚠️ useful precisely because it shows what "success" looks like
+  at realistic scale: one forum, one seat, not systemic redistribution.
 - ⚠️ **UNSC/Bretton Woods reform tracks:** the ultimate institutional venues
   where representation-deficit grievances would need to be formally addressed —
   full treatment reserved for topic 12 to avoid duplicating that analysis here.
@@ -162,10 +176,14 @@ negotiating bloc, which constrains how far any single leadership claim can go.
 - ✅ Sikri's explicit "potential leader" framing is the key textual anchor for
   any question on India's aspirational (not settled) Global South leadership
   role.
-- 📰 The third Voice of Global South Summit (17 August 2024) is the most recent
-  verified dated convening instrument.
+- 📰 The Voice of Global South Summit has had three editions — 12-13 January
+  2023, 17 November 2023 and 17 August 2024 — all virtual; the Global
+  Development Compact proposed at the third is a four-fold framework.
+- 📰 The African Union became a permanent G20 member on 9 September 2023;
+  India launched its UNSC candidature for 2028-29 on 13 July 2026.
 - ⚠️ BRICS, G77 and NAM have distinct, only partially overlapping memberships —
-  a frequently tested distinction.
+  a frequently tested distinction; BRICS additionally distinguishes full members
+  from partner countries (category created 24 October 2024).
 
 ## 8. Advanced Prelims traps
 
@@ -178,18 +196,23 @@ negotiating bloc, which constrains how far any single leadership claim can go.
 - ❌ Convening the Voice of Global South Summit is equivalent to securing UNSC
   or IMF reform. -> Convening generates agenda-setting momentum; institutional
   reform requires separate, harder-to-achieve decision-making processes (topic
-  12).
+  12). The African Union's G20 seat (9 September 2023) shows what an achievable
+  outcome looks like — one forum's membership, not systemic redistribution.
 - ❌ BRICS is simply a larger version of G77. -> BRICS has a distinct,
   narrower core membership with an expanding-but-different composition and a
   financial-architecture-specific agenda, not a general development-partnership
-  mandate.
+  mandate; it also distinguishes full members from partner countries.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The third Voice of Global South Summit (17 August 2024) remains the most
-  recent verified dated instrument for this topic. Any claim about a
-  subsequent edition or specific outcome requires independent, dated
-  verification before being treated as ✅.
+- 📰 The third Voice of Global South Summit (17 August 2024) and the Global
+  Development Compact proposed there remain the most recent verified dated
+  instruments for this topic; ⚠️ no fourth edition was officially recorded as
+  held or announced as of 3 August 2026, which is itself worth stating honestly
+  in an answer on convening capacity. For a dated *outcome* rather than a dated
+  *convening*, use the African Union's permanent G20 membership (9 September
+  2023). Any claim about a subsequent edition or specific outcome requires
+  independent, dated verification before being treated as ✅.
 
 ## 10. PYQ-based analytical application
 

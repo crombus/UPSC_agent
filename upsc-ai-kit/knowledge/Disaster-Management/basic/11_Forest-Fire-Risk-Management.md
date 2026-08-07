@@ -91,7 +91,18 @@ third component" that "really initiates fire" (PDF p. 47).
 - ✅ **Forest Survey of India (FSI)** — developed the Pre Warning Alert
   System (2016), the grid-based system (2017), and the Large Forest
   Fire Monitoring Programme (2019, FAST 3.0), working with NASA and
-  ISRO's National Remote Sensing Centre (PDF p. 48).
+  ISRO's National Remote Sensing Centre (PDF p. 48). 📰 FSI describes its
+  operational system as the satellite-based **Forest Fire Monitoring and
+  Alert System**, disseminating alerts by SMS and e-mail to registered
+  users; MODIS-based alerts began in **2004** and **SNPP-VIIRS** was added
+  in **2017**, with **FAST 3.0** launched **16 January 2019** (FSI,
+  page last updated 15 April 2026).
+- 📰 **Van Agni** — FSI's single-point geoportal, operational from 2019,
+  for near-real-time monitoring and tracking of **large forest fires**,
+  also carrying pre-fire and near-real-time alerts. ⚠️ Van Agni and
+  FAST 3.0 are components of the same FSI alert architecture, not
+  competing systems; no dated official source shows FAST 3.0 superseded,
+  so do not cite a later version number.
 - ✅ **National Master Plan for Forest Fire Control** (MoEF) — a well-
   coordinated, integrated fire-management programme covering prevention
   of human-caused fires, Joint Forest Fire Management (community
@@ -99,6 +110,10 @@ third component" that "really initiates fire" (PDF p. 47).
   communication, and remote-sensing prioritisation; recommends a
   National Fire Danger Rating System and Fire Forecasting System (PDF p.
   54, cross-referenced from the Vision-test-series answer).
+- 📰 **Forest Fire Prevention and Management (FPM) Scheme** — MoEFCC's
+  continuing centrally sponsored scheme supporting State Governments and
+  UT administrations on fire prevention and management (PIB/MoEFCC,
+  22 July 2024).
 
 ## 6. India applications and examples
 
@@ -116,7 +131,14 @@ third component" that "really initiates fire" (PDF p. 47).
 
 - ✅ More than 95% of forest fires are human-caused (negligent or
   deliberate).
-- ✅ FAST 3.0 is a NASA-ISRO-FSI collaboration.
+- ✅ FAST 3.0 is a NASA-ISRO-FSI collaboration; 📰 it was launched on
+  **16 January 2019**.
+- 📰 FSI's satellite alerting used **MODIS from 2004** and added
+  **SNPP-VIIRS in 2017**; **Van Agni** is FSI's geoportal for
+  near-real-time large-forest-fire monitoring.
+- 📰 The **Forest Fire Prevention and Management (FPM) Scheme** is
+  MoEFCC's centrally sponsored scheme supporting States/UTs on forest-fire
+  prevention and management.
 - ✅ India's fire triangle: fuel + oxygen (naturally present) + heat
   (the initiating factor).
 - ✅ Two forest-fire types: surface fire and crown fire.
@@ -147,12 +169,22 @@ third component" that "really initiates fire" (PDF p. 47).
 
 ## 9. 📰 Current official anchor
 
-- 📰 **FSI's FAST 3.0/Forest Fire Alert System**, checked as of the 18
-  July 2026 research cutoff, is the correct current anchor for
-  registered-user counts, detection-system status and any current
-  fire-incidence statistic — VisionIAS's 2015-2016 percentages and
-  2003-2016 district-concentration figure must be cross-checked against
-  current FSI data before being cited as present fact.
+- 📰 **FSI's Forest Fire Monitoring and Alert System** — comprising
+  **FAST 3.0** (launched 16 January 2019) and the **Van Agni** geoportal,
+  using **MODIS (from 2004)** and **SNPP-VIIRS (from 2017)** — is the
+  correct current anchor for registered-user counts, detection-system
+  status and any current fire-incidence statistic; FSI's forest-fire
+  activities page was last updated 15 April 2026. VisionIAS's 2015-2016
+  percentages and 2003-2016 district-concentration figure must be
+  cross-checked against current FSI data before being cited as present
+  fact.
+- 📰 **MoEFCC's Forest Fire Prevention and Management (FPM) Scheme** is
+  the correct anchor for the funding/community-partnership limb of any
+  forest-fire answer. ⚠️ Distinguish **detection capability** (satellite
+  alerts, near-real-time, well documented) from **suppression capacity**
+  (State forest-department crews, equipment and response time), which no
+  dated national source quantifies — the gap between the two is the
+  substance of this topic's governance critique.
 
 ## 10. PYQ application
 

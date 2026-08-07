@@ -2,7 +2,7 @@
 
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II (aviation/governance) + Prelims.
 > **Core area:** Navigation sovereignty, satellite-service architecture, aviation augmentation and adoption constraints.
-> **Grounded in:** ISRO Navigation page (https://www.isro.gov.in/Navigation.html); GAGAN official portal (https://gagan.aai.aero/); NavIC parliamentary reply (https://pib.gov.in/PressReleasePage.aspx?PRID=2244977); NavIC navigation-systems reply (https://pib.gov.in/PressReleasePage.aspx?PRID=2201530&reg=3&lang=1); GAGAN aviation article (https://pib.gov.in/PressReleasePage.aspx?PRID=2279810&reg=3&lang=1); INSAT-3DS launch note (https://pib.gov.in/PressReleasePage.aspx?PRID=2006794); ISRO communication satellites page (https://www.isro.gov.in/CommunicatioSatellitenNew.html); ISRO Earth observation / Resourcesat / Cartosat / INSAT-3DR pages (https://www.isro.gov.in/EarthObservationSatellites.html ; https://www.isro.gov.in/RESOURCESAT_2.html ; https://www.isro.gov.in/Cartosat_3.html ; https://www.isro.gov.in/INSAT-3DR.html) — verified 16 Jul 2026.
+> **Grounded in:** ISRO Navigation page (https://www.isro.gov.in/Navigation.html); ISRO satellite-navigation services and IRNSS programme pages (https://www.isro.gov.in/SatelliteNavigationServices.html ; https://www.isro.gov.in/IRNSS_Programme.html); NavIC L1 payload note (https://www.isro.gov.in/Atmanirbhar/L1_band_Navigation_Payload.html); NVS-02 on-orbit observations (https://www.isro.gov.in/NVS-02-Spacecraft-On-Orbit-Observations.html); GAGAN official portal and DGCA certification page (https://gagan.aai.aero/ ; https://gagan.aai.aero/gagan/content/dgca-certification); NavIC parliamentary replies (https://pib.gov.in/PressReleasePage.aspx?PRID=2244977 ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147284 ; https://pib.gov.in/PressReleasePage.aspx?PRID=2227029 ; https://pib.gov.in/PressReleasePage.aspx?PRID=2201530&reg=3&lang=1); GAGAN aviation article (https://pib.gov.in/PressReleasePage.aspx?PRID=2279810&reg=3&lang=1); INSAT-3DS launch note (https://pib.gov.in/PressReleasePage.aspx?PRID=2006794); ISRO communication and Earth-observation satellite pages (https://www.isro.gov.in/CommunicatioSatellitenNew.html ; https://www.isro.gov.in/EarthObservationSatellites.html ; https://www.isro.gov.in/RESOURCESAT_2.html ; https://www.isro.gov.in/Cartosat_3.html ; https://www.isro.gov.in/INSAT-3DR.html) — re-verified 2 Aug 2026.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `basic/02_Satellites-NavIC-GAGAN-and-Applications.md`.*
 
@@ -37,10 +37,14 @@ Constellation ownership and augmentation function must never be conflated.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **PNT sovereignty** | National ability to control positioning, navigation and timing services critical to civilian and strategic systems. |
-| ✅ **SBAS integrity** | Information that tells users whether a navigation signal is reliable enough for safety-critical use, especially aviation. |
-| ✅ **Regional constellation** | Navigation architecture designed for a particular region rather than for full global coverage. |
-| ✅ **One-way messaging** | Broadcast-type service layer in navigation/satellite systems without full two-way communication capability. |
+| ✅ **PNT sovereignty** | National ability to control positioning, navigation and timing services critical to civilian and strategic systems. Its practical test is not owning satellites but whether national infrastructure can keep functioning if a foreign GNSS signal is degraded, denied or spoofed. |
+| ✅ **SBAS integrity** | Information that tells users whether a navigation signal is reliable enough for safety-critical use, especially aviation. Formally it is bounded by *time-to-alert* — an SBAS must warn within a defined interval; accuracy without a timely alert is useless for approach and landing. |
+| ⚠️ **SBAS vs GBAS** | SBAS (GAGAN, WAAS, EGNOS, MSAS): wide-area corrections rebroadcast from geostationary satellites. GBAS: local corrections broadcast by VHF from a single aerodrome, giving precision-approach performance in a small radius. They are complements, not substitutes. |
+| ✅ **Regional constellation** | Navigation architecture designed for a particular region rather than for full global coverage. NavIC's nominal 3 GEO + 4 IGSO geometry is the deliberate minimum for continuous coverage of India and ~1500 km beyond. |
+| ⚠️ **Constellation health vs launch count** | Operational strength = number of satellites currently delivering the *service in question*, on a stated date. India's officially reported NavIC set includes PNT satellites, message-broadcast-only satellites, a decommissioned satellite and satellites that failed orbit-raising. |
+| ⚠️ **Clock as the critical component** | Satellite navigation is timing before it is positioning: ranging errors scale with clock error (light travels ~30 cm per nanosecond). Atomic-clock reliability, not launcher reliability, has historically been the binding constraint on regional constellations. |
+| ✅ **One-way messaging** | Broadcast-type service layer in navigation/satellite systems without full two-way communication capability — used, for example, for disaster alerts to fishing vessels beyond terrestrial network range. |
+| ⚠️ **Signal interoperability** | A navigation signal is commercially useful only if mass-market chipsets already listen on that frequency. NavIC's original L5/S-band choice limited handset adoption; adding a civil **L1** signal (first on NVS-01) is precisely an interoperability decision, not a technical upgrade for its own sake. |
 | ✅ **Data continuity** | Ability of satellite series such as Resourcesat/INSAT to provide uninterrupted service across generations. |
 | ✅ **Ground segment dependence** | Reality that satellites are useful only when backed by tracking, calibration, data-processing and receiver ecosystems. |
 
@@ -56,8 +60,8 @@ Constellation ownership and augmentation function must never be conflated.
 ## 5. Institutions and programmes
 
 ### Core institutions
-- ✅ **ISRO:** owner/developer of satellite platforms, navigation architecture and major application systems.
-- ✅ **AAI + ISRO:** joint developers of GAGAN, the aviation augmentation system.
+- ✅ **ISRO:** develops and operates satellite platforms, the NavIC space and control segment and major application systems. (Precisely: ISRO builds and operates the navigation constellation — it is not the sole "owner" of every downstream service built on it.)
+- ✅ **AAI + ISRO:** joint developers of GAGAN. AAI is the operational owner on the aviation side, **DGCA** is the certifying regulator (RNP 0.1 in 2013, APV-1 in 2015), and the correction payloads ride on ISRO's GSAT-8/10/15 — three different institutional roles in one system.
 - ✅ **User ministries/agencies such as IMD and other MoES bodies:** convert meteorological satellite inputs into actionable forecasts and warnings.
 - ✅ **NRSC/Bhuvan ecosystem:** exemplifies how data becomes policy utility.
 
@@ -101,22 +105,30 @@ Constellation ownership and augmentation function must never be conflated.
 - ❌ Satellite applications are automatically realised once the satellite is launched. -> Adoption requires receivers, standards, departments and user workflows.
 - ❌ More satellites automatically means more sovereignty. -> Signal policy, ground infrastructure and user dependence also matter.
 - ❌ Navigation and aviation are unrelated syllabi. -> GAGAN directly connects space systems to civil aviation governance.
+- ❌ "Eleven NavIC satellites have been launched, so eleven are working." -> Official disaggregation (23 Jul 2025) counted 4 PNT satellites, 4 message-broadcast satellites, 1 decommissioned and 2 that failed to reach the intended orbit; a later reply reported 8 operational. **Operational ≠ PNT-capable.**
+- ❌ A launch success guarantees a working satellite. -> NVS-02 was correctly injected on 29 Jan 2025 but could not complete orbit-raising because an oxidiser-line pyro valve did not receive its drive signal. Launch, injection, orbit-raising and service entry are four separate milestones.
+- ❌ SBAS is just "more accurate GPS." -> Its regulatory value is **integrity with a bounded time-to-alert**; that is why DGCA certification (RNP 0.1, then APV-1) matters more than a raw accuracy number.
 
 ## 9. 📰 Current anchor
 
 - 📰 **17 Feb 2024 | INSAT-3DS - launched/deployed.** Added meteorological observation capacity.
+- 📰 **23 Jul 2025 | NavIC composition - official disaggregation.** 4 PNT + 4 message-broadcast + 1 decommissioned + 2 that did not reach intended orbit.
 - 📰 **10 Dec 2025 | NavIC adoption - broadening.** PIB highlighted standards work, pilot projects and non-mandated but expanding integration.
+- 📰 **12 Feb 2026 | NavIC - 11 launched, 8 operational.** Rajya Sabha reply.
+- 📰 **25 Feb 2026 | NVS-02 - on-orbit anomaly reported.** ISRO attributed the failed orbit-raising to a pyro-valve drive-signal failure, likely from connector-contact disengagement.
 - 📰 **25 Mar 2026 | NavIC architecture - strengthening.** Parliament reply described ongoing constellation/service enhancement and explicitly separated GAGAN’s role.
-- 📰 **01 Jul 2026 | GAGAN - operational milestone.** PIB recorded the first satellite-based landing approach on a commercial jet using GAGAN in June 2026.
+- 📰 **01 Jul 2026 | GAGAN - operational milestone.** PIB recorded the first satellite-based landing approach on a commercial jet using GAGAN in June 2026; payloads on GSAT-8/10/15; DGCA certifications of 2013 (RNP 0.1) and 2015 (APV-1).
 
 | Verified current anchor | Analytical use in answers |
 |---|---|
 | INSAT-3DS augments meteorological services. | Use to show that satellite utility is sector-specific and directly tied to weather/disaster governance. |
-| NavIC adoption work continues through devices, standards and pilot projects. | Use to argue that strategic technology success depends on ecosystem adoption, not just launch. |
+| NavIC adoption work continues through devices, standards and pilot projects; government has not mandated NavIC. | Use to argue that strategic technology success depends on ecosystem adoption, not just launch — and that mandating versus incentivising receiver support is itself a policy choice with cost implications for industry. |
+| Official disaggregation of the NavIC constellation (4 PNT / 4 messaging / 1 decommissioned / 2 mis-orbited). | Use as the strongest available evidence for the "replenishment problem": a regional constellation with a small nominal size has no spare capacity, so every clock failure or launch anomaly is strategically material. |
+| NVS-02's orbit-raising anomaly after a successful launch. | Use as a precise example of why capability claims must specify the milestone reached; also a good illustration of single-point-failure risk in propulsion pyro systems. |
 | Parliament reply separated NavIC and GAGAN roles. | Use this as the clearest official distinction in Prelims and Mains answers. |
-| GAGAN-enabled landing milestone shows operational maturity. | Use to connect space technology with aviation safety and regulatory trust. |
+| GAGAN-enabled landing milestone, resting on 2013/2015 DGCA certification. | Use to connect space technology with aviation safety and regulatory trust — and to show that certification, not launch, is the gate for safety-critical adoption. |
 
-⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date; verify later updates before exam use.
+⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Aug 2026); verify later updates before exam use.
 
 ## 10. PYQ application
 
@@ -145,5 +157,5 @@ Constellation ownership and augmentation function must never be conflated.
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - transport backbone of satellite deployment.
 - ✅ `03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md` - mission-side expansion beyond application satellites.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` - future secure timing and technology-system intersections.
-- ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - sustainability context of dense orbital use.
+- ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launch cadence and vehicle availability as the constraint on constellation replenishment.
 

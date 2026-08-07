@@ -168,6 +168,16 @@ natural hazard.
   current anchor for chemical-emergency public-health response
   guidance; use **DAE/AERB official documents** for any nuclear-specific
   current claim.
+- 📰 The governing NDMA documents are dated and should be named as such:
+  **Chemical Disasters (April 2007)**, **Nuclear and Radiological
+  Emergencies (February 2009)** and **Medical Preparedness and Mass
+  Casualty Management (October 2007)**. ⚠️ An advanced answer can make
+  the freshness point directly: this hazard family's national guidance is
+  roughly two decades old and predates the current industrial-chemical
+  inventory, the growth of chemical logistics by road and rail, and the
+  NaTech risk profile created by siting hazardous plant in
+  cyclone/flood-exposed coastal industrial belts — a documented case of
+  guidance ageing while exposure changed.
 - ❌ Do not cite VisionIAS's MAH-unit count or nuclear-capacity
   projection as current without this verification.
 

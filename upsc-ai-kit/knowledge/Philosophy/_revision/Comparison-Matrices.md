@@ -7,12 +7,12 @@
 ## 1. RATIONALISTS — Descartes vs Spinoza vs Leibniz
 | Axis | Descartes | Spinoza | Leibniz |
 |---|---|---|---|
-| Substance | **two** (mind, matter) + God | **one** (God/Nature) | **infinite** monads |
+| Substance | God strictly independent; created mind and matter treated as finite substances | **one** (God/Nature) | **infinite** monads |
 | God | perfect being, guarantor | = Nature (pantheism) | supreme monad, creator |
 | Mind–body | **interaction** (pineal gland) | **parallelism** (two attributes) | **pre-established harmony** |
-| Freedom | libertarian free will | strict determinism | compatibilist (best world) |
+| Freedom | will is formally free but error arises when will outruns intellect | necessity throughout; freedom = adequate understanding/self-determination | spontaneity and rational inclination within pre-established order |
 | Method | doubt → cogito | geometric deduction | logic / sufficient reason |
-> 🔑 "**1 substance splits (Descartes 2) → collapses to 1 (Spinoza) → explodes to ∞ (Leibniz).**"
+> 🔑 "**Created dualism → one substance → monadic plurality.**" The slogan must not hide Descartes' concession that only God fully satisfies strict independence.
 
 ## 2. EMPIRICISTS — Locke vs Berkeley vs Hume
 | Axis | Locke | Berkeley | Hume |
@@ -64,7 +64,7 @@
 ## 7. CASTE — Gandhi vs Ambedkar (single most-repeated Paper-II clash) ✅
 | Axis | Gandhi | Ambedkar |
 |---|---|---|
-| Varṇa system | reform, retain as division of labour (no hierarchy) | **abolish** — root of oppression |
+| Varṇa/caste | ❓ Gandhi's position changes across time: he attacks untouchability and hereditary hierarchy, yet earlier defences of varṇa remain contestable | **annihilate caste** as a graded, religiously sanctioned structure |
 | Untouchability | evil, must go ("Harijan") | symptom; caste itself must go |
 | Method | change of heart, trusteeship | **law, rights, conversion** |
 | Religion | reform Hinduism from within | left Hinduism → Buddhism |
@@ -82,3 +82,102 @@
 | Buddhism | **anātman** — no permanent self |
 | Strawson | "person" — logically primitive, bearer of both M- & P-predicates |
 > 🔑 Bridges Paper-I Western + Indian; deploy in any "nature of self" question.
+
+---
+
+## 9. RELIGIOUS LANGUAGE — expanded eight-year matrix
+
+| Axis | Analogy (Aquinas) | Symbol (Tillich) | Cognitivism | Non-cognitivism (Braithwaite/Wittgensteinian) |
+|---|---|---|---|---|
+| Core problem | predication without univocity/equivocity | finite expression of ultimate concern | whether claims are truth-apt | practical meaning without factual assertion |
+| Mechanism | attribution/proportionality | participation; opens levels of reality | assertion about reality | moral policy, attitude or use in a form of life |
+| Older-PYQ test | secular versus religious use | symbol → mysticism; transcendent referent | “Does religious language carry cognitive content?” | Braithwaite 2018/2021 |
+| Main objection | semantic indeterminacy | vague referent/idolatry risk | verification and anthropomorphism | loses believer's realist intent |
+
+> ⚠️ **Demand rule:** “symbolic” and “non-cognitive” answer different questions. A symbol may
+> still make or mediate a truth-claim.
+
+## 10. SOUL, REBIRTH AND LIBERATION — identity without collapse
+
+| Tradition | Continuity-bearer | Rebirth/survival | Liberation |
+|---|---|---|---|
+| Advaita | empirical jīva under avidyā; ultimately Ātman–Brahman | karma operates at empirical level | knowledge; jīvanmukti/videhamukti |
+| Viśiṣṭādvaita | real individual self, mode/body of God | enduring self bears karma | communion/service through grace and devotion |
+| Nyāya–Vaiśeṣika | enduring plural ātman | karmic connection across embodiment | apavarga: cessation of suffering/qualities |
+| Jainism | real jīva bound by karmic matter | the same jīva transmigrates | stoppage and shedding of karma |
+| Buddhism | causal series without permanent ātman | continuity without numerical identity | nirvāṇa: cessation of craving and conditioned becoming |
+
+> ❌ **Trap:** a permanent soul is not logically required by every theory of rebirth; the
+> eight-year corpus repeatedly tests precisely this presupposition.
+
+## 11. LIBERTY, EQUALITY AND JUSTICE — recurring adjudication axes
+
+| Question | Liberty-first answer | Equality-first answer | Justice-mediated verdict |
+|---|---|---|---|
+| Democratic status | protects agency and dissent | gives equal civic standing | equal basic liberty under fair institutions |
+| Distribution | guards choice/property | corrects structural disadvantage | justify inequalities by entitlement, need, capability or benefit to least advantaged |
+| Social hierarchy | formal freedom may coexist with domination | status equality attacks caste/gender privilege | dignity and fair opportunity connect both |
+| Main danger | licence or domination by the powerful | levelling/uniformity | a theory of justice may itself privilege a disputed metric |
+
+> ⚠️ Use this matrix for the 2018 liberty/equality–democracy question, the Rawls–Plato and
+> Sen–Rawls comparisons, and the 2025 claim that liberty and equality are inadequate without
+> justice.
+
+## 12. RESTORED WESTERN BRIDGES — Hume, Kant, Hegel
+
+| Restored demand | First position | Reply/extension | Decisive distinction |
+|---|---|---|---|
+| “Sun will rise” vs “2+2=4” | Hume: matter of fact, denial conceivable | relation of ideas, denial contradictory | causal expectation vs demonstrative necessity |
+| Humean bundle vs Kantian self | no impression of a simple self | transcendental “I think” unifies representations | substance-soul vs formal condition of experience |
+| “Understanding makes Nature” | categories constitute lawful phenomenal nature | Hegel removes the unknowable noumenal remainder | transcendental constitution vs Absolute Idealism |
+| Phenomenal world in Hegel | finite appearance is not self-sufficient | appearance is preserved as a moment of the whole | mediated reality vs subjective illusion |
+
+> ❌ Kant does not reintroduce an observed Cartesian soul, and Hegel does not turn the world
+> into a private idea.
+
+## 13. NYĀYA AND YOGA ON GOD
+
+| Axis | Nyāya–Vaiśeṣika | Yoga |
+|---|---|---|
+| Basic conception | intelligent maker/orderer and moral governor | special puruṣa untouched by affliction, karma and latent deposit |
+| Main route | inference from effect, ordering, atomic conjunction and governance | scriptural/disciplinary role; Īśvara-praṇidhāna and the unsurpassed teacher |
+| World-causation | commonly affirmed in later Nyāya | not established in exactly the full Nyāya creator sense |
+| Soteriological role | true knowledge of categories/God supports release | concentration, removal of obstacles and orientation toward samādhi |
+| Main objection | analogy/regress and adequacy of inferred attributes | why posit Īśvara if discriminative knowledge liberates? |
+
+> ⚠️ The 2018 comparison asks whether the proofs are “the same”; the defensible answer is
+> qualified difference, not automatic identity.
+
+## 14. WIDER VEDĀNTA MOKṢA GRID
+
+| School | World | Jīva–Brahman relation | Mokṣa |
+|---|---|---|---|
+| Viśiṣṭādvaita | real body/mode of Brahman | inseparable dependence with retained individuality | loving communion/service through devotion and grace |
+| Dvaita | real and eternally dependent | real difference | God-directed bliss without identity |
+| Śuddhādvaita | real manifestation of pure Brahman | non-dual dependence without Advaitic Māyā | grace-filled participation in Kṛṣṇa |
+| Acintyabhedābheda | real divine energy | inconceivable difference-and-non-difference | loving devotion retaining relational distinction |
+
+> ❌ Do not force Nimbārka, Vallabha or Caitanya into the standard Śaṅkara–Rāmānuja–Madhva
+> grid; “Schools of Vedanta” is wider than those three.
+
+---
+
+## OWNER-FILE LINKS
+
+- Rationalists: [`Rationalism.md`](../paper-1/western/Rationalism.md)
+- Empiricists: [`Empiricism.md`](../paper-1/western/Empiricism.md)
+- Kant: [`Kant.md`](../paper-1/western/Kant.md)
+- Vedānta: [`Vedanta.md`](../paper-1/indian/Vedanta.md)
+- Sovereignty: [`Sovereignty.md`](../paper-2/socio-political/Sovereignty.md)
+- Indian causation: [`Causation-across-schools.md`](../paper-1/_themes/Causation-across-schools.md)
+- Gandhi-Ambedkar: [`Caste-Gandhi-Ambedkar.md`](../paper-2/socio-political/Caste-Gandhi-Ambedkar.md)
+- Self and liberation: [`Self-and-liberation-across-schools.md`](../paper-1/_themes/Self-and-liberation-across-schools.md)
+- Religious language: [`Religious-Language.md`](../paper-2/philosophy-of-religion/Religious-Language.md)
+- Soul, rebirth and liberation: [`Soul-Immortality-Rebirth.md`](../paper-2/philosophy-of-religion/Soul-Immortality-Rebirth.md)
+- Social and political ideals: [`Social-Political-Ideals.md`](../paper-2/socio-political/Social-Political-Ideals.md)
+- Restored Western bridges: [`Empiricism.md`](../paper-1/western/Empiricism.md), [`Kant.md`](../paper-1/western/Kant.md), [`Hegel.md`](../paper-1/western/Hegel.md)
+- Nyāya/Yoga God comparison: [`Nyaya-Vaisesika.md`](../paper-1/indian/Nyaya-Vaisesika.md), [`Yoga.md`](../paper-1/indian/Yoga.md)
+
+> These grids compress arguments. For a compare/distinguish answer, state the common problem,
+> compare by explicit axes, present at least one objection to each side, and then justify a
+> verdict.

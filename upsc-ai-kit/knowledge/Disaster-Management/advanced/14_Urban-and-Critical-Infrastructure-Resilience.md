@@ -165,14 +165,34 @@ Urban DM Authority) is empowered to coordinate across all of them.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **CDRI's official current resources** and the **Disaster Management
-  (Amendment) Act, 2025's Urban Disaster Management Authority
-  provision**, checked as of 18 July 2026, are the correct current
-  anchors for CDRI's current project/membership status and the Urban DM
+- 📰 **CDRI's own dated publications** (58 member countries and 12 member
+  organisations as of June 2026; IRIS; the biennial *Global
+  Infrastructure Resilience* report, first edition October 2023; DRI
+  Connect) and the **Disaster Management (Amendment) Act, 2025's
+  s. 41A Urban Disaster Management Authority provision** are the correct
+  current anchors for CDRI's project/membership status and the Urban DM
   Authority's actual statutory/operational status.
+- ⚠️ **CDRI's membership growth is an influence metric, not a resilience
+  outcome.** An advanced answer should resist reading 70 members as
+  evidence of resilient infrastructure; CDRI's stated mechanism is to
+  shape **standards and multilateral-bank investment criteria**, so the
+  correct test of its effect is whether design codes and lending
+  conditions have changed — which no dated source establishes — not how
+  many countries have joined.
+- ⚠️ **Mass-gathering safety is the clearest case of the
+  guideline-without-enforcement pattern.** NDMA's crowd-management
+  document is a **May 2014 guide** addressed to State governments, local
+  authorities and event organisers — advisory in form, and outside the
+  numbered National Disaster Management Guidelines. Post-incident
+  hardening therefore tends to be **operator-led and
+  incident-triggered** (as with the Ministry of Railways' February 2025
+  measures reported on 19 March 2025) rather than driven by a standing,
+  enforceable venue-capacity regime — a precise instance of the
+  regulation-versus-guidance gap this topic analyses for lifelines
+  generally.
 - ❌ Do not assume every Indian city now has a functioning Urban DM
-  Authority merely because the 2025 Amendment Act contains the
-  provision.
+  Authority merely because s. 41A is in force — it is an enabling
+  provision, and Delhi and Chandigarh are excluded outright.
 
 ## 11. PYQ-based analytical application
 

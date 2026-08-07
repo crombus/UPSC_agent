@@ -111,7 +111,8 @@ Concl : release (saṃvara→nirjarā→mokṣa) shows bondage is reversible; th
 
 ---
 
-## NEXT WORKED EXAMPLES TO BUILD (on request)
-- **Quote-critique**: 2022 "'Immortality of soul is necessary for rebirth' — examine w.r.t. Buddhism."
-- **Compare**: "satkāryavāda vs asatkāryavāda" (20m).
-- **Critically-examine**: "Nyāya arguments for God" (20m, cross-paper into Phil-of-Religion).
+## NEXT WORKED EXAMPLES
+
+- Four-section answer bank: [`Model-Answer-Bank-Four-Sections.md`](Model-Answer-Bank-Four-Sections.md).
+- Remaining high-value builds: satkāryavāda vs asatkāryavāda; Nyāya arguments for God;
+  Gandhi-Ambedkar; and a full religious-pluralism comparison.

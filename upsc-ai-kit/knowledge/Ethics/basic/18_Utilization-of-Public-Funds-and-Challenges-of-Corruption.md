@@ -78,13 +78,15 @@ undermined" — a distinct category of harm requiring its own classification (se
 ## 5. Must-Know Facts for Prelims
 
 - ✅ ARC's 4th Report classifies "squandering public money" as a distinct category of official
-  misconduct not currently criminalised under the Prevention of Corruption Act (see `19` for full
-  legal treatment).
+  misconduct that the Prevention of Corruption Act does not reach (see `19` for full legal
+  treatment); ARC 3.2.1.10 recommends criminalising it, and that recommendation is still
+  unimplemented as at 4 August 2026.
 - ✅ Tamil Nadu's Transparency in Tenders Act (1998) and Karnataka's Transparency in Public
   Procurement Act (1999) were the first state-level procurement-transparency laws in India, per the
   ARC's citation.
 - ⚠️ MPLADS-type discretionary schemes are frequently examined for their separation-of-powers
-  tension (see `11`'s office-of-profit discussion for the constitutional angle).
+  tension; the ARC's own "office of profit" analysis (2.6.7-2.6.10) is the source, and is treated in
+  full in the advanced companion to this file.
 
 ## 6. UPSC traps
 

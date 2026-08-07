@@ -58,10 +58,13 @@ Relief, Restoration) are described as being replaced by "3 Ps"
 
 ```text
 NDMA (PM-headed) / MHA / NEC / NIDM / NDRF
+      + NCMC (s. 8A) and HLC (s. 8B) as statutory escalation bodies
                     |
         SDMA (CM-headed) / SEC / SDRF
+      + optional State Disaster Response Force (s. 44A)
                     |
     DDMA (District Collector-headed) + PRIs + ULBs + communities
+      + optional Urban DM Authority (s. 41A) in Municipal-Corporation cities
                     |
      last-mile warning, evacuation, response, recovery
 ```
@@ -71,8 +74,21 @@ Minister; NDRF's "general superintendence, direction and control" vests
 in the NDMA; NIDM works within NDMA's policy framework (PDF p. 13). ✅
 SDMA is chaired by the Chief Minister; the DDMA is headed by the
 District Collector/Magistrate with the elected local-authority
-representative as Co-Chairperson (PDF pp. 14-15). Full detail in topic
-`02`.
+representative as Co-Chairperson (PDF pp. 14-15). 📰 The **Disaster
+Management (Amendment) Act, 2025 (Act 10 of 2025)** — in force from
+9 April 2025 — adds two escalation bodies and two optional tiers to this
+chart: **s. 8A** places the Cabinet Secretary-chaired **National Crisis
+Management Committee** on a statutory footing as the nodal body for
+disasters with serious or national ramifications; **s. 8B** does the same
+for the **High Level Committee**, which approves financial assistance
+under ss. 46-47; **s. 41A** *enables* a State to constitute an **Urban
+Disaster Management Authority** (Municipal Commissioner as Chairperson,
+District Collector as Vice-Chairperson) for State capitals and cities
+with a Municipal Corporation, excluding the NCT of Delhi and Chandigarh;
+and **s. 44A** *enables* a State to constitute a **State Disaster
+Response Force**. ⚠️ Sections 41A and 44A are enabling, not
+self-executing — see the enabling-power gap in Section 8. Full detail in
+topic `02`.
 
 ## 4. Mains answer engine
 
@@ -116,14 +132,27 @@ successor to the **Hyogo Framework for Action (2005-2015)**, whose five
 priorities were: making DRR a priority; improving risk information and
 early warning; building a culture of safety and resilience; reducing
 risk in key sectors; and strengthening preparedness for response (PDF p.
-61). ⚠️ Sendai adds **seven global targets** (quantitative, e.g. reducing
-mortality, affected people, economic loss and damage to critical
-infrastructure, while increasing national/local strategies, international
-cooperation and access to early warning) — VisionIAS depicts these in a
-figure without reproducing precise wording (PDF p. 62); do not invent
-numeric targets not confirmed by a dated UNDRR source. ❌ **Sendai is a
-voluntary, non-binding framework**, not a treaty — a frequent Prelims
-trap. Full detail and the 2023 Midterm Review in topic `01`.
+61). ⚠️ VisionIAS depicts Sendai's **seven global targets** in a figure
+without reproducing their wording (PDF p. 62); the targets below are
+taken from the adopted Sendai Framework text (UNDRR, adopted 18 March
+2015) and are the version to reproduce in a 2024 Q17 answer:
+
+| Target | Substance |
+|---|---|
+| ✅ **A** | Substantially **reduce global disaster mortality** by 2030, lowering average per-100,000 mortality in 2020-2030 against 2005-2015 |
+| ✅ **B** | Substantially **reduce the number of affected people** globally by 2030, on the same per-100,000 decadal-average basis |
+| ✅ **C** | Reduce **direct disaster economic loss in relation to global GDP** by 2030 |
+| ✅ **D** | Substantially reduce **disaster damage to critical infrastructure and disruption of basic services**, including health and education, by developing their resilience by 2030 |
+| ✅ **E** | Substantially increase the number of countries with **national and local DRR strategies** by 2020 |
+| ✅ **F** | Substantially enhance **international cooperation** to developing countries through adequate and sustainable support by 2030 |
+| ✅ **G** | Substantially increase the availability of and access to **multi-hazard early warning systems** and disaster risk information and assessments by 2030 |
+
+⚠️ Note the internal asymmetry examiners exploit: **A-D are
+loss-reduction targets, E-G are capacity/means-of-implementation
+targets**, and **E alone carries a 2020 (not 2030) deadline**. ❌
+**Sendai is a voluntary, non-binding framework**, not a treaty — a
+frequent Prelims trap. Full detail and the 2023 Midterm Review in topic
+`01`.
 
 ## 7. PYQ application box
 
@@ -147,11 +176,13 @@ trap. Full detail and the 2023 Midterm Review in topic `01`.
 
 | Gap | Failure | Correction |
 |---|---|---|
-| ⚠️ Document-period-as-current gap | Citing the VisionIAS document's NDRF battalion count or the 2019 Standing Committee funding figures as today's status; or citing NDMP 2016 (India's first edition) instead of the revised NDMP 2019 (the latest published plan) | Label as document-period evidence; verify current status against a dated NDMA/MHA source; cite NDMP 2019 as the operative plan |
+| ⚠️ Document-period-as-current gap | Citing the VisionIAS document's NDRF battalion count or the 2019 Standing Committee funding figures as today's status; or citing NDMP 2016 (India's first edition) instead of the revised NDMP 2019 (the latest published plan) | Label as document-period evidence; verify current status against a dated NDMA/MHA source; cite NDMP 2019 as the operative plan and the **Sixteenth Finance Commission** award (2026-31) for current fund allocations |
 | ⚠️ Relief-only gap | Treating disaster management as ending at relief | Carry every answer through rehabilitation, reconstruction and Build Back Better (topics 16-17) |
 | ❌ Prediction-forecast conflation | Claiming earthquakes can be predicted | Distinguish prediction (not possible), forecast (probabilistic, e.g. weather) and early warning (post-detection alert, e.g. tsunami/cyclone) — topics 04-06 |
 | ⚠️ Deadline-achievement gap | Treating an announced target/deadline as accomplished merely because the date has arrived | State only what a dated official release confirms |
 | ⚠️ Single-hazard silo gap | Treating hazards as independent when cascading/compound risk is common (earthquake→landslide→dam breach; cyclone→flood→epidemic) | Note cascading linkages explicitly (topics 09, 10, 12, 14) |
+| ⚠️ Enabling-power-as-existing-body gap | Reading "the State Government **may** constitute" (ss. 41A, 44A) as meaning every city has an Urban DM Authority and every State a statutory State Disaster Response Force | Separate the **statutory mandate** from the **operational fact**; name a constituted authority only where a State notification is cited (topics 02, 14) |
+| ⚠️ Compensation-as-risk-financing gap | Treating SDRF/NDRF relief payouts as evidence that disaster *risk* is financed | Separate **relief compensation** (SDRF/NDRF, response-triggered) from **risk financing** (SDMF/NDMF, insurance, catastrophe bonds, ex-ante) — topic 16 |
 
 ## 9. Boundary routing
 

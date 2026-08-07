@@ -101,25 +101,50 @@ defence-energy complementarity — a three-track hedge, not a binary choice.
 
 ## 4. Institutional and reform architecture
 
-- ✅ **Second iCET meeting/review (17 June 2024):** the two National Security
+- ✅ **iCET (announced May 2022; inaugural NSA-level meeting 31 January 2023;
+  second NSA-level review 17 June 2024):** the two National Security
   Advisers reviewed India-US cooperation on semiconductors, AI, space and
   defence-industrial collaboration — a cooperation initiative, not a treaty or
   framework agreement.
 - 📰 **India-US clean-energy supply-chain commitments (21 September 2024):**
   extends the resilience agenda from technology into clean-energy manufacturing
   inputs.
+- 📰 **TRUST and COMPACT (13 February 2025):** the current India-US technology
+  and defence-commerce branding, announced with **Mission 500** and the launch
+  of bilateral trade-agreement negotiations. ⚠️ The official statement does not
+  say TRUST terminated or superseded iCET — an important precision point, since
+  treating a rebrand as a legal succession misstates the architecture.
+- 📰 **Framework for the US-India Major Defense Partnership (Kuala Lumpur, 31
+  October 2025):** a ten-year defence framework. ⚠️ A framework is not a
+  mutual-defence treaty; Tharoor's "tactical partnership" caution still applies.
+- 📰 **The 2025-26 US tariff cycle as an architecture stress test:** a 25%
+  India-specific reciprocal duty (effective 7 August 2025) and an additional 25%
+  Russian-oil-linked duty (effective 27 August 2025) were imposed, the latter
+  removed from 7 February 2026 and IEEPA additional duties ended that month,
+  with a separate 10% Section 301 duty from 24 July 2026. ⚠️ This is the
+  clearest available evidence that "friend-shoring" partnership and coercive
+  trade measures can run simultaneously from the same partner — a decisive
+  qualification to any simple "the West is fostering India" reading (2024 Q9).
+- 📰 **India-Russia continuity architecture:** the 23rd Annual Summit (New
+  Delhi, 4-5 December 2025) during President Putin's state visit produced the
+  joint statement "Russia-India: A Time-Tested Progressive Partnership, Anchored
+  in Trust & Mutual Respect" and a Programme for Development of Strategic Areas
+  of Economic Cooperation until 2030. ⚠️ Treat S-400 delivery status and
+  Russian-crude volumes as separately unverified without an official figure.
+- 📰 **India-China border and dialogue architecture:** the patrolling
+  arrangement announced 21 October 2024 (Depsang and Demchok); the 23rd Special
+  Representatives round (Beijing, 18 December 2024) and 24th round (New Delhi,
+  19 August 2025), which agreed an Expert Group on "early harvest" boundary
+  delimitation, a WMCC working group on border management and General-Level
+  Mechanisms in the Eastern and Middle sectors, and provided for reopening
+  border trade through the existing designated points of Lipulekh, Shipki La
+  and Nathu La; the Modi-Xi meeting at Tianjin on 31 August 2025; and the 35th
+  WMCC (Beijing, 27 May 2026), which prepared for the next SR meeting. ⚠️ A
+  process architecture, not a settlement.
 - ⚠️ **Quad and I2U2 as minilateral supply-chain vehicles:** these
   non-treaty coalitions provide additional, non-exclusive channels for
-  diversification cooperation, distinct from the bilateral iCET track (full
+  diversification cooperation, distinct from the bilateral track (full
   institutional profile reserved for topic 10).
-- ⚠️ **India-Russia defence-procurement continuity:** sustained through ongoing
-  bilateral procurement arrangements rather than a single named 2024/2025
-  agreement in the sources reviewed here — treat any specific figure or new
-  agreement claim as requiring independent, dated verification.
-- ⚠️ **China trade-management architecture:** conducted through routine
-  commercial channels without a comparable strategic-partnership framework,
-  reflecting the boundary dispute's continuing chill on institutionalised
-  strategic cooperation.
 
 ## 5. Indian applications and boundary cases
 
@@ -158,7 +183,7 @@ defence-energy complementarity — a three-track hedge, not a binary choice.
 - ⚠️ **Russia-defence dependence risk:** Sikri's own caution against
   "enmesh[ing]" military planning with the US while remaining "heavily
   dependent on Russian military equipment" without reciprocal US technology-
-  sharing illustrates a genuine strategic bind, not a costless hedge.
+  sharing illustrates a genuine strategic bind, not a costless hedge. The
   advanced file for topic 01 develops this trade-off further.
 - ⚠️ **Minilateral coalitions carry coordination costs:** Quad/I2U2-style
   cooperation requires aligning multiple partners' differing priorities, which
@@ -178,9 +203,17 @@ defence-energy complementarity — a three-track hedge, not a binary choice.
   partnership," not an alliance, cautioning against "hyperbole."
 - ✅ Sikri identifies nuclear-powered submarines as an example of
   high-technology defence equipment India can source only from Russia.
-- 📰 The second iCET meeting/review (17 June 2024) and the clean-energy supply-chain
-  commitments (21 September 2024) are the two verified 2024 dated anchors for
-  US-India resilient-supply-chain cooperation.
+- 📰 The dated 2024-2026 anchors for this topic are: iCET review (17 June 2024);
+  clean-energy supply-chain commitments (21 September 2024); the India-China
+  patrolling arrangement (21 October 2024); TRUST and COMPACT (13 February
+  2025); the 24th Special Representatives round (19 August 2025); the Modi-Xi
+  meeting at Tianjin (31 August 2025); the ten-year US-India Major Defense
+  Partnership framework (31 October 2025); and the 23rd India-Russia Annual
+  Summit (4-5 December 2025).
+- 📰 The US tariff sequence — 25% reciprocal duty from 7 August 2025, an
+  additional 25% Russian-oil-linked duty from 27 August 2025, its removal from
+  7 February 2026 and a separate 10% Section 301 duty from 24 July 2026 — is
+  the dated counter-evidence to a one-directional "fostering" narrative.
 
 ## 8. Advanced Prelims traps
 
@@ -199,10 +232,13 @@ defence-energy complementarity — a three-track hedge, not a binary choice.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The second iCET meeting/review (17 June 2024) and the India-US clean-energy supply-chain
-  commitments (21 September 2024) remain the two verified 2024 anchors for this
-  topic. Any newer summit outcome or agreement claim requires independent, dated
-  verification before being treated as ✅.
+- 📰 The strongest current framing for this topic is the **three-track
+  simultaneity of 2025**: TRUST/COMPACT with the US (13 February 2025), the
+  24th Special Representatives round with China (19 August 2025) and the 23rd
+  Annual Summit with Russia (4-5 December 2025) — all within ten months, and all
+  while a US Russian-oil-linked tariff was in force against India. ⚠️ Any newer
+  summit outcome or agreement claim requires independent, dated verification
+  before being treated as ✅.
 
 ## 10. PYQ-based analytical application
 
@@ -212,13 +248,16 @@ defence-energy complementarity — a three-track hedge, not a binary choice.
   Explain this statement with examples.* An advanced-level answer should:
   1. Separate the economic (diversification opportunity) and strategic (mistrust
      of China) dimensions explicitly.
-  2. Cite iCET (17 June 2024) and clean-energy supply-chain commitments (21
-     September 2024) as concrete evidence.
+  2. Cite iCET (17 June 2024 review), the clean-energy supply-chain
+     commitments (21 September 2024) and TRUST/COMPACT (13 February 2025) as
+     concrete evidence.
   3. Qualify the "counter China's dominance" framing — India pursues
      diversification, not an anti-China alliance, and sustains simultaneous
-     China trade and Russia defence-energy ties.
+     China engagement (the 24th SR round, 19 August 2025) and Russia
+     defence-energy ties (23rd Annual Summit, 4-5 December 2025).
   4. Flag the autonomy-dependence trade-off if the US-technology track deepens
-     without reciprocal technology-sharing.
+     without reciprocal technology-sharing, and cite the 2025-26 US tariff cycle
+     as evidence that "fostering" is conditional and reversible.
 
 ## 11. Mains-ready framework
 
@@ -233,8 +272,9 @@ China-versus-West alignment.
 2. **Use "tactical partnership," not alliance**, for the US relationship.
 3. **Use "complementarity," not one-sided dependence**, for Russia, while
    noting the real dependence-risk caveat.
-4. **Cite the dated iCET and clean-energy anchors** as concrete evidence of
-   Western diversification interest.
+4. **Cite the dated anchors** — iCET/TRUST, the patrolling arrangement and SR
+   rounds, and the India-Russia Annual Summit — as concrete evidence of
+   Western diversification interest and of simultaneous three-track engagement.
 5. **Reject the "replacement" narrative** in favour of "diversification of
    dependence."
 6. **Acknowledge the autonomy-dependence trade-off** if any single track

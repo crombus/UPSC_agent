@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims.
 > **Core area:** Quantum-technology ecosystem, strategic significance and mission implementation.
 > **Grounded in:** DST National Quantum Mission page (https://dst.gov.in/national-quantum-mission-nqm — verified 16 Jul 2026; page last updated 21 May 2026); DST T-Hub announcement page (https://dst.gov.in/nqm-landmark-t-hubs-announced-lead-indias-quantum-revolution — verified 16 Jul 2026; page last updated 01 Oct 2024); PIB parliamentary answer on Quantum Technology (https://www.pib.gov.in/PressReleasePage.aspx?PRID=2150820 — 31 Jul 2025); official hub links cited on DST page.
+> **Additionally verified 2 Aug 2026:** DST National Quantum Mission page (approval 19 Apr 2023; outlay Rs 6,003.65 crore; 2023-24 to 2030-31; four verticals; four T-Hubs; stated targets; progress figures), last updated 21 May 2026 (https://dst.gov.in/national-quantum-mission-nqm).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current/dated development.
 > *Companion: `basic/10_National-Quantum-Mission-and-Quantum-Tech.md`.*
 
@@ -30,11 +31,16 @@ strategic capability, research depth and future applications
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Quantum computing** | Quantum-state based information processing for specific classes of complex problems. |
+| ✅ **Quantum computing** | Quantum-state based information processing for specific classes of complex problems (factoring, unstructured search, quantum simulation, some optimisation) — not general-purpose speed-up. |
+| ⚠️ **Physical vs logical qubits** | Error correction encodes one **logical** qubit in many noisy **physical** qubits. NQM's stated target of **50-1000 physical qubits in eight years** is therefore a *hardware-scaling* target, not a claim of fault-tolerant computing. Reading it as the latter is the single biggest analytical error on this topic. |
+| ⚠️ **Decoherence and coherence time** | The finite window in which quantum information survives environmental interaction. It drives the entire engineering stack — cryogenics, vacuum, shielding, materials purity — and explains why **quantum materials & devices** is a mission vertical in its own right rather than a supporting activity. |
+| ⚠️ **Modality competition** | Superconducting, trapped-ion, photonic, neutral-atom and topological qubits trade off gate speed, coherence, connectivity and manufacturability. NQM's vertical structure lets India hedge rather than pick a winner — defensible for a follower, but it also disperses scarce talent. |
 | ✅ **Quantum communication** | Secure communication techniques using quantum states, including QKD-like applications. |
-| ✅ **Quantum sensing & metrology** | High-precision measurement using quantum effects. |
-| ✅ **Quantum materials & devices** | Hardware, materials and components enabling the rest of the ecosystem. |
-| ✅ **T-Hub** | Thematic hub under NQM focused on one major quantum vertical. |
+| ⚠️ **QKD vs PQC — the policy choice** | **QKD** offers physics-based key exchange but needs dedicated links, trusted nodes or satellites, and does not by itself authenticate endpoints. **PQC** is a standards-and-software migration that protects data at rest and in transit today. For a state facing **"harvest now, decrypt later"** adversaries, PQC migration is the urgent, cheap action; QKD is the strategic, capital-intensive one. A good answer says India needs both, sequenced differently. |
+| ⚠️ **Quantum threat timeline** | The risk is not that quantum computers exist tomorrow, but that **data encrypted today with RSA/ECC may be stored now and decrypted later**. This reframes quantum security from a future technology question into a present-day **data-retention and cryptographic-inventory** problem for government systems. |
+| ✅ **Quantum sensing & metrology** | High-precision measurement using quantum effects — with the most credible near-term deployments (atomic clocks, magnetometers, gravimeters, GNSS-denied navigation), which is why sensing is often the first vertical to yield usable output. |
+| ✅ **Quantum materials & devices** | Hardware, materials and components enabling the rest of the ecosystem — the official name of the fourth NQM vertical (not generic "hardware"). |
+| ✅ **T-Hub** | Thematic hub under NQM focused on one major quantum vertical: IISc Bengaluru (computing), IIT Madras (communication), IIT Bombay (sensing & metrology), IIT Delhi (materials & devices). |
 
 ## 3. Detailed mechanism / how it works
 
@@ -98,11 +104,12 @@ strategic capability, research depth and future applications
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 **01 Oct 2024:** DST’s T-Hub page publicly announced the four thematic hubs and hosts. **Status:** announced / structured. | Use it to show that India organised the mission by vertical specialisation rather than a single-centre model. |
-| 📰 **31 Jul 2025:** PIB parliamentary answer reported 14 Technical Groups across 17 States and 2 UTs. **Status:** operational update. | Use it to show scale of institutional spread and ecosystem-building beyond one campus. |
-| 📰 **21 May 2026:** DST NQM page remained updated with hub links and mission goals. **Status:** active mission page. | Use it to show continuity and formalisation of the mission architecture. |
+| 📰 **19 Apr 2023:** Cabinet approved NQM — **₹6,003.65 crore, 2023-24 to 2030-31**, four verticals. **Status:** approved. | Use to show mission-mode public financing of a pre-commercial technology, and to date-stamp the outlay rather than quoting it loosely. |
+| 📰 **01 Oct 2024:** DST’s T-Hub page publicly announced the four thematic hubs and hosts. **Status:** announced / structured. | Use it to show that India organised the mission by vertical specialisation rather than a single-centre model — a hedging strategy appropriate to a follower with no dominant modality. |
+| 📰 **31 Jul 2025:** PIB parliamentary answer reported 14 Technical Groups across 17 States and 2 UTs. **Status:** implementation update. | Use it to show scale of institutional spread and ecosystem-building beyond one campus. |
+| 📰 **21 May 2026:** DST reported **152 researchers, 43 institutions, 14 technical groups, 8 startups supported**, alongside stated targets of 50-1000 physical qubits in eight years and satellite QKD over 2,000 km. **Status:** implementation update. | Use it carefully: these are **inputs and targets**, not demonstrated capability. The disciplined analytical line is that India has built *organisational* capacity quickly, while hardware milestones remain to be demonstrated — and that a physical-qubit target is not fault tolerance. |
 
-*Current as of 16 Jul 2026; verify for later updates.*
+*Current as of 16 Jul 2026, re-verified 2 Aug 2026; verify for later updates.*
 
 ## 10. PYQ application
 
@@ -117,7 +124,7 @@ strategic capability, research depth and future applications
 - ⚠️ Explain why India adopted a four-hub mission structure.
 - ⚠️ Conclude with strategic significance plus engineering, talent and ecosystem constraints.
 
-> **Answer thesis:** India’s quantum mission is significant not because it promises a single headline machine, but because it institutionalises a four-vertical ecosystem—hardware, communications, sensing and computation—through which long-run strategic and technological capability can be built.
+> **Answer thesis:** India’s quantum mission is significant not because it promises a single headline machine, but because it institutionalises a four-vertical ecosystem—**quantum computing, quantum communication, quantum sensing & metrology, and quantum materials & devices**—through which long-run strategic and technological capability can be built.
 
 ## 12. Probable questions
 

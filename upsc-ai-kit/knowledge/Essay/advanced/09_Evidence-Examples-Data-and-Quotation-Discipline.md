@@ -67,9 +67,11 @@ reason (beyond exam risk) to maintain the discipline described here.
 
 | Use case | Printed author? | Permissible use | Attribution status | Verification source needed | Risk if misused |
 |---|---|---|---|---|---|
-| The 16 recent UPSC prompts | No (see `../README.md`) | Quote exactly or paraphrase faithfully | Unattributed by design | None — the prompt itself is the source | Low, if quoted/paraphrased accurately |
+| 2024–2025 prompts (V1, 16 rows) | No (see `../README.md`) | Quote exactly as printed, defects included, or paraphrase | Unattributed by design | None — the local official PDF is the source | Low, if quoted/paraphrased accurately |
+| 2013–2023 prompts (V2, 84 rows) | Only 2013-1, itself unverified | Paraphrase; quote only after checking the official paper for that year | Do not attribute | The official paper for that year | Medium — carried-forward wording may differ from print |
 | Familiar aphorism, uncertain web attribution | Not applicable | Use only as an unattributed proposition, or omit | Do not attribute | Would need a primary/authoritative source, typically unavailable | High — misattribution undermines credibility |
 | Named quotation from a known thinker | N/A (not from this corpus) | Use only after verification | Attribute only if verified | Primary text or authoritative anthology/translation | High — wrong wording/author/context |
+| Analogy | N/A | Clarify a mechanism; never offer as support | Not a source claim at all | None — but the underlying mechanism must be supported separately | Medium — an argument that collapses if the comparison is rejected |
 | Indian/translated text | N/A | Identify translator/edition if quoted; else paraphrase | Attribute translator if known and verified | Cited edition | Medium — translation variance |
 | Current statistic | N/A | State only if source and date are genuinely known | Cite source and date | Dated official/primary source | High — false precision, staleness |
 
@@ -108,8 +110,10 @@ using impressive-sounding but unverifiable specifics.
 
 ✅ Apply the ledger (Section 6) to every one of the 16 recent prompts
 before using them in a drafted essay — since all are unattributed by
-design, the correct practice across the entire corpus is uniform: quote
-or paraphrase without an author. ⚠️ For India-application illustrations,
+design, the correct practice across the V1 set is uniform: quote or
+paraphrase without an author. ⚠️ The 84 V2 prompts (2013–2023) are not
+locally verified and should be paraphrased unless checked against the
+official paper for that year. ⚠️ For India-application illustrations,
 prefer institutions and documented episodes (recalled-general
 confidence) over precise current statistics unless a specific source and
 date are genuinely known (`12`).

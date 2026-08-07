@@ -46,6 +46,25 @@ atom -> element -> periodic trends -> bonding -> compounds -> reactions
 | ✅ **Ore** | Mineral from which a metal can be extracted economically. |
 | ✅ **Biomolecule** | Carbon-based molecule of life such as carbohydrates, proteins, lipids and nucleic acids. |
 
+**High-frequency Prelims chemistry — the compact coverage table.**
+
+| Area | What must be known |
+|---|---|
+| ⚠️ **Atomic structure** | Protons + neutrons in the nucleus, electrons in shells. **Atomic number** = protons (identity of the element); **mass number** = protons + neutrons. **Isotopes** = same Z, different A (C-12/C-14, U-235/U-238); **isobars** = same A, different Z; **isotones** = same neutron number. |
+| ⚠️ **Periodic trends** | Across a period (left → right): atomic size decreases, **ionisation energy and electronegativity increase**, metallic character decreases. Down a group the reverse. **Fluorine is the most electronegative element**; noble gases are largely inert due to filled shells. |
+| ⚠️ **Bonding beyond ionic and covalent** | **Metallic bonding** (a lattice of cations in a "sea" of delocalised electrons) explains conductivity, malleability and lustre. **Hydrogen bonding** — weak individually but decisive collectively — explains water's high boiling point and specific heat, ice floating on water, DNA's double helix and protein folding. **Van der Waals** forces explain the layered slipperiness of graphite. |
+| ⚠️ **Acids, bases, pH, buffers** | pH = −log[H⁺]; a one-unit change is a **tenfold** change in hydrogen-ion activity. ⚠️ Neutral pH is exactly 7 only at **25 °C** — pure water's neutral pH shifts with temperature. **Buffers** resist pH change (blood's bicarbonate buffer; soil buffering capacity). **Salts** may be acidic, basic or neutral depending on the parent acid and base. |
+| ⚠️ **Redox and electrochemistry** | A **galvanic/voltaic cell** converts chemical energy to electrical (batteries, fuel cells); an **electrolytic cell** does the reverse (electroplating, electrorefining, aluminium extraction, chlor-alkali). **Corrosion** of iron in moist air is an **electrochemical** process; prevention is by barrier coating, galvanising (zinc), alloying (stainless steel) or **cathodic protection** with a sacrificial anode. ⚠️ Not all corrosion is electrochemical — **dry/chemical corrosion** (direct attack by oxygen or gases at high temperature) also occurs. |
+| ⚠️ **Catalysis** | A catalyst speeds a reaction by lowering activation energy and is **not consumed**; it does not shift the equilibrium position. **Enzymes** are biological catalysts. Industrial examples: iron in Haber-Bosch ammonia synthesis, vanadium pentoxide in contact-process sulphuric acid, platinum-group metals in vehicle catalytic converters. |
+| ⚠️ **Carbon allotropes** | **Diamond** (tetrahedral, hardest natural substance, non-conducting), **graphite** (layered, soft, conducts electricity, a lubricant), **fullerenes (C₆₀)**, **carbon nanotubes** and **graphene** (single layer, exceptional strength and conductivity). Same element, wholly different properties — a favourite Prelims contrast. |
+| ⚠️ **Polymers and plastics** | **Addition** polymers (polythene, PVC, polystyrene, Teflon) versus **condensation** polymers (nylon, polyester/Terylene, Bakelite). **Thermoplastics** soften on heating and are recyclable; **thermosets** set irreversibly. **Biodegradable** and compostable plastics degrade under specified conditions — "biodegradable" is a claim about conditions, not a licence to litter. |
+| ⚠️ **Soaps vs detergents** | Both are surfactants with a hydrophilic head and hydrophobic tail forming micelles. **Soaps** are sodium/potassium salts of long-chain fatty acids and form scum in hard water; **synthetic detergents** work in hard and even acidic water. Branched-chain detergents resist biodegradation and were a historic water-pollution problem. |
+| ⚠️ **Fertilisers** | **Urea** — the main nitrogen carrier; **DAP** supplies nitrogen and phosphorus; **MOP** supplies potassium. Nutrient imbalance (excess N relative to P and K), nitrate leaching and eutrophication are the standard consequences; **nano urea** (Topic 16) is the input-efficiency response. |
+| ⚠️ **Alloys** | Steel (Fe + C), stainless steel (+ Cr, Ni), brass (Cu + Zn), bronze (Cu + Sn), solder (Pb + Sn), duralumin (Al + Cu + Mg + Mn), amalgam (with Hg). Alloys are made to improve strength, corrosion resistance or workability. |
+| ⚠️ **Atmospheric chemistry** | **Stratospheric ozone (O₃)** absorbs UV-B; **CFCs/halons** destroy it catalytically via chlorine/bromine radicals (Montreal Protocol; Kigali Amendment for HFCs). **Ground-level ozone** is a **pollutant** formed photochemically from NOx and VOCs — the same molecule, opposite policy meaning. Principal greenhouse gases: CO₂, CH₄, N₂O, water vapour and fluorinated gases, differing in **global warming potential** and atmospheric lifetime. |
+| ⚠️ **Water treatment technologies (2024 PYQ area)** | **Chlorination** (cheap, residual protection, but disinfection by-products); **UV disinfection** (no chemicals or residual, ineffective in turbid water); **reverse osmosis** (removes dissolved salts, but energy-intensive and generates brine, and strips beneficial minerals); **thermal/multi-stage flash desalination** (robust for seawater, very energy-intensive); **electrodialysis** (electric-field-driven ion removal, suited to brackish water); **solar stills and atmospheric water generators** (off-grid, low output); **wastewater recycling** (highest volume potential, needs acceptance and dual piping); **adsorption/advanced oxidation** for specific contaminants such as fluoride, arsenic and micropollutants. Every technology must be evaluated on **energy use, cost, capacity, brine/sludge disposal and operator skill** — that trade-off table is what the 2024 question actually rewarded. |
+| ⚠️ **Nuclear chemistry** | Radioisotope applications: **Co-60** in radiotherapy and food irradiation, **I-131** in thyroid diagnosis and therapy, **C-14** in dating, **Tc-99m** in imaging, **P-32** in agriculture research. Radiation dose, half-life and shielding link this row to Topic 21. |
+
 ## 3. Mechanism / how it works
 
 ### How a metal is obtained from an ore (conceptual metallurgy flow)
@@ -82,7 +101,7 @@ atom -> element -> periodic trends -> bonding -> compounds -> reactions
 - ✅ Alkali metals are highly reactive metals; halogens are highly reactive non-metals.
 - ✅ Ionic compounds often conduct electricity in molten or aqueous state because ions are free to move.
 - ✅ Covalent compounds generally do not conduct electricity well in pure form.
-- ✅ pH below 7 is acidic, above 7 is basic, and 7 is neutral for pure water at standard conditions.
+- ✅ pH below 7 is acidic, above 7 is basic, and 7 is neutral for pure water **at 25 °C**; the neutral point shifts with temperature.
 - ✅ Oxidation and reduction always occur together in a redox reaction.
 - ✅ Addition polymers and condensation polymers are not the same class.
 - ✅ Urea, DAP and potash fertilizers are chemically different nutrient carriers.
@@ -97,6 +116,12 @@ atom -> element -> periodic trends -> bonding -> compounds -> reactions
 - ❌ **All plastics are thermoplastics.** -> Thermoplastics and thermosetting plastics behave differently on heating.
 - ❌ **All metals can be extracted by carbon reduction.** -> Highly reactive metals often require electrolytic routes.
 - ❌ **DNA, RNA and proteins are the same kind of biomolecule.** -> DNA/RNA are nucleic acids; proteins are polymers of amino acids.
+- ❌ **Neutral pH is always exactly 7.** -> Only at **25 °C**; the neutral point moves with temperature because water's self-ionisation changes.
+- ❌ **All corrosion is electrochemical rusting.** -> Aqueous corrosion generally is, but **dry/chemical corrosion** by gases at high temperature also occurs.
+- ❌ **A catalyst increases the yield of a reaction at equilibrium.** -> It speeds the approach to equilibrium; it does not shift the equilibrium position.
+- ❌ **Ozone is always beneficial.** -> **Stratospheric** ozone shields us from UV; **tropospheric** ozone is a harmful secondary pollutant.
+- ❌ **Diamond and graphite differ because they contain different elements.** -> Both are pure carbon; the difference is **structure (allotropy)**.
+- ❌ **Reverse osmosis is simply the best water technology.** -> It removes dissolved salts but is energy-intensive, wastes reject water, produces brine and strips beneficial minerals — technology choice depends on the contaminant, scale and energy cost.
 
 ## 8. 📰 Current anchor
 

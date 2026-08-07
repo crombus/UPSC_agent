@@ -41,8 +41,8 @@ explicitly rather than treating AI and environment as unrelated topics.
 |---|---|
 | ⚠️ **Algorithmic bias** | Systematic, unfair skew in an AI system's outputs arising from biased training data, biased feature selection, or biased labelling — administratively dangerous because it can appear "objective" while encoding historical discrimination. |
 | ⚠️ **Explainability/interpretability** | The degree to which an AI system's decision process can be understood and audited by humans — a precondition for accountability in high-stakes administrative use (welfare eligibility, law-enforcement risk scoring). |
-| ✅ **Precautionary principle — precise formulation** | Where an activity raises threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation (Rio Declaration, Principle 15, 1992) — a formulation directly transferable to high-stakes, uncertain AI deployment as well. |
-| ✅ **CBDR-RC** (Common but Differentiated Responsibilities and Respective Capabilities) | The UNFCCC (1992) principle that climate obligations should reflect both a state's historical contribution to emissions and its present capacity to act — the basis for differentiated climate-finance and mitigation-target expectations between developed and developing countries. |
+| ✅ **Precautionary principle — precise formulation** | "Where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation" — **Rio Declaration, Principle 15 (1992)**, which frames it as a "precautionary **approach**", "widely applied by States according to their capabilities". The formulation transfers directly to high-stakes, uncertain AI deployment. |
+| ✅ **CBDR-RC** (Common but Differentiated Responsibilities and Respective Capabilities) | UNFCCC Article 3.1 requires Parties to protect the climate system "on the basis of equity and in accordance with their common but differentiated responsibilities and respective capabilities"; Article 4.1 applies it to all Parties' commitments; Rio Principle 7 is its source formulation; the Paris Agreement Article 2(2) adds "in the light of different national circumstances". It is the basis for differentiated climate-finance and mitigation expectations. |
 | ⚠️ **Intergenerational equity** | The principle (echoed in India's own environmental jurisprudence, e.g., the public-trust doctrine) that the present generation holds natural resources in trust for future generations, not as exhaustible private property. |
 
 ## 3. Detailed treatment
@@ -64,8 +64,8 @@ explicitly rather than treating AI and environment as unrelated topics.
 
 ### Climate change as an ethics-of-consumption question — the 2024 GS-IV framing
 
-- ✅ 2024 GS-IV Q1(b): frames global warming/climate change explicitly as "the outcomes of human
-  greed in the name of development," warning of species extinction "including human beings."
+- ✅ 2024 GS-IV Q2(b): frames global warming/climate change explicitly as "the outcomes of human
+  greed in the name of development," warning of extinction of organisms "including human beings."
 - ⚠️ Advanced reading: this framing invites a **virtue-ethics critique of consumption** (greed as a
   vice, temperance as the corrective virtue) *combined with* a **consequentialist/intergenerational**
   argument (present consumption imposing catastrophic costs on future, voiceless generations) —
@@ -93,15 +93,19 @@ explicitly rather than treating AI and environment as unrelated topics.
 
 ## 4. Institutional and reform architecture
 
-- 📰 India's Digital Personal Data Protection Act/Rules and the **India AI
-  Governance Guidelines (November 2025)** are distinct domestic layers:
-  DPDP governs personal-data processing, while the Guidelines articulate
-  people-first, fairness, accountability, understandability, safety and
-  sustainability principles for AI. They do not amount to one comprehensive
-  AI statute — cross-link
+- 📰 India's Digital Personal Data Protection Act, 2023 and the **India AI Governance Guidelines
+  (MeitY, 5 November 2025)** are distinct domestic layers: DPDP governs personal-data processing,
+  while the Guidelines articulate seven "sutras" (trust as the foundation; people first; innovation
+  over restraint; fairness and equity; accountability; understandable by design; safety, resilience
+  and sustainability) and six pillars for AI. They do not amount to one comprehensive AI statute —
+  cross-link
   `Science-and-Technology/basic/09_Artificial-Intelligence-Governance-and-IndiaAI.md` and
   `Science-and-Technology/basic/12_Data-Protection-DPDP-Act-and-Cybersecurity.md` for statutory
   detail, to avoid duplicating that policy content here.
+- 📰 Internationally, UNESCO's *Recommendation on the Ethics of Artificial Intelligence* (23
+  November 2021) and the OECD AI Principles (2019, updated May 2024) supply the standard,
+  citable normative vocabulary — proportionality and do-no-harm, human oversight, transparency and
+  explainability, accountability, fairness and non-discrimination, sustainability.
 - ✅ India's environmental-clearance regime (EIA Notification, National Green Tribunal) is the
   domestic institutional mechanism operationalising the precautionary principle — see
   `Environment-and-Ecology/basic/16_Environmental-Impact-Assessment-and-NGT.md` for procedural
@@ -137,12 +141,13 @@ explicitly rather than treating AI and environment as unrelated topics.
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ The precautionary principle's classical formulation is Principle 15 of the 1992 Rio
-  Declaration on Environment and Development.
-- ✅ CBDR-RC originates in the UNFCCC (1992) and underpins the differentiated NDC structure of the
-  Paris Agreement (2015).
+  Declaration on Environment and Development, which uses the term "precautionary approach".
+- ✅ CBDR appears in Rio Principle 7 and UNFCCC Articles 3.1 and 4.1 (1992); the Paris Agreement
+  (Article 2(2), 2015) states CBDR-RC "in the light of different national circumstances" and
+  underpins the differentiated NDC structure.
 - ⚠️ "Algorithmic accountability" and "explainability" are standard, widely used terms in current
-  global AI-governance discourse (OECD AI Principles, EU AI Act discussions), not India-specific
-  coinages.
+  global AI-governance discourse (UNESCO's 2021 Recommendation, the OECD AI Principles, EU AI Act
+  debates), not India-specific coinages.
 
 ## 8. Advanced Prelims traps
 
@@ -159,8 +164,9 @@ explicitly rather than treating AI and environment as unrelated topics.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 India AI Governance Guidelines (November 2025) | Provide the dated domestic principles anchor for human-centric, fair, accountable, understandable, safe and sustainable AI; distinguish this non-statutory framework from DPDP law. |
-| 📰 India AI Impact Summit (16-21 February 2026) | Its People, Planet and Progress framing supplies a current bridge between inclusion, human agency and AI's environmental footprint. |
+| 📰 India AI Governance Guidelines (MeitY, 5 November 2025) — seven sutras and six pillars | Provide the dated domestic principles anchor for human-centric, fair, accountable, understandable, safe and sustainable AI; distinguish this non-statutory framework from DPDP law. |
+| 📰 India AI Impact Summit, Bharat Mandapam, New Delhi, 19-20 February 2026 (within a 16-20 February programme) | Its *Sarvajana Hitaya, Sarvajana Sukhaya* framing, and the People-Planet-Progress impact framing, supply a current bridge between inclusion, human agency and AI's environmental footprint. |
+| 📰 UNESCO Recommendation on the Ethics of AI (23 November 2021); OECD AI Principles (2019, updated May 2024) | Give internationally agreed normative vocabulary for human oversight, explainability and accountability that an Indian answer can cite without over-claiming domestic statutory force. |
 | 📰 Paris Agreement NDC cycles (ongoing, periodically updated) | Anchors CBDR-RC discussion in the current international climate-governance architecture rather than only the 1992 UNFCCC baseline. |
 
 ## 10. PYQ-based analytical application

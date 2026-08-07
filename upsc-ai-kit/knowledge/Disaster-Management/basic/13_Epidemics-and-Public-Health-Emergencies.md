@@ -93,6 +93,21 @@ being man-made (Biological Warfare/Bioterrorism) (PDF p. 48).
 - ✅ **Health as a State Subject** — under Schedule VII, primary
   responsibility for biological-disaster response rests with State
   Governments (PDF p. 51).
+- 📰 **NDMA's Guidelines on Management of Biological Disasters (July
+  2008)** remain the national guideline for this hazard, alongside the
+  **Guidelines on Medical Preparedness and Mass Casualty Management
+  (October 2007)** — the two documents an answer should name rather than
+  referring to "NDMA guidelines" generically.
+- 📰 **The international layer has changed twice since VisionIAS's
+  text.** Amendments to the **International Health Regulations (2005)**,
+  adopted at WHA77 on 1 June 2024, **entered into force on 19 September
+  2025** and created a new **"pandemic emergency"** alert tier above a
+  PHEIC. Separately, the **WHO Pandemic Agreement** was **adopted at
+  WHA78 on 20 May 2025** but is **not yet in force**: it opens for
+  signature only after the Pathogen Access and Benefit-Sharing (PABS)
+  annex is adopted, and requires **60 ratifications**. ⚠️ Distinguish
+  **adopted** from **in force** precisely — this is the exact
+  announced-versus-implemented distinction this folder enforces.
 
 ## 6. India applications and examples
 
@@ -120,6 +135,15 @@ being man-made (Biological Warfare/Bioterrorism) (PDF p. 48).
   List Entries 23 and 29.
 - ✅ COVID-19 was the first pan-India disaster managed via the DM Act,
   2005's legal machinery.
+- 📰 The amended **International Health Regulations (2005)** entered into
+  force on **19 September 2025**, adding a **"pandemic emergency"** tier
+  above a PHEIC.
+- 📰 The **WHO Pandemic Agreement** was **adopted at WHA78 on 20 May
+  2025** but is **not yet in force**; it needs **60 ratifications** and
+  opens for signature only after the **PABS annex** is adopted.
+- 📰 NDMA's biological-hazard documents are the **Guidelines on
+  Management of Biological Disasters (July 2008)** and the **Guidelines
+  on Medical Preparedness and Mass Casualty Management (October 2007)**.
 
 ## 8. ❌ Traps and stale-claim cautions
 
@@ -137,6 +161,17 @@ being man-made (Biological Warfare/Bioterrorism) (PDF p. 48).
   replaced. -> VisionIAS records this as a *recommendation* ("needs to
   be repealed"), not a completed reform (PDF p. 51); verify current
   legal status before asserting repeal/replacement.
+- ❌ The WHO Pandemic Agreement now binds India's pandemic response. ->
+  It was **adopted** at WHA78 on 20 May 2025 but is **not in force**: it
+  is not yet open for signature (pending the PABS annex) and needs 60
+  ratifications. Adoption, signature, ratification and entry into force
+  are four distinct stages — collapsing them is the commonest error on
+  this topic.
+- ❌ A "pandemic emergency" is just another name for a PHEIC. -> The
+  amended IHR (in force 19 September 2025) create **"pandemic emergency"
+  as a higher-alert category** for a communicable-disease event with, or
+  at high risk of, wide international spread requiring coordinated
+  international response — a tier above, not a synonym for, a PHEIC.
 - ❌ "Health is a State Subject" means the Centre has no legal role in a
   pandemic. -> The DM Act's Concurrent List basis (Entries 23, 29)
   explicitly enables central action, as demonstrated by the COVID-19
@@ -145,11 +180,25 @@ being man-made (Biological Warfare/Bioterrorism) (PDF p. 48).
 ## 9. 📰 Current official anchor
 
 - 📰 **NCDC's IDSP (Integrated Disease Surveillance Programme) and
-  technical-guideline resources**, checked as of the 18 July 2026
-  research cutoff, are the correct current anchor for outbreak-
-  surveillance architecture and current institutional status — replace
-  VisionIAS's "NICD" reference and its "no policy exists" claim with
-  this source's current description before citing as present fact.
+  technical-guideline resources** are the correct current anchor for
+  outbreak-surveillance architecture and current institutional status —
+  replace VisionIAS's "NICD" reference and its "no policy exists" claim
+  with this source's current description before citing as present fact.
+- 📰 **International Health Regulations (2005), as amended:** amendments
+  adopted at WHA77 on **1 June 2024** **entered into force on
+  19 September 2025**, introducing a new **"pandemic emergency"**
+  category — a higher-alert tier within the PHEIC framework for a
+  communicable-disease event with, or at high risk of, wide international
+  spread requiring coordinated international response. This, not the
+  unamended IHR, is the current international legal baseline.
+- 📰 **WHO Pandemic Agreement:** adopted by consensus at **WHA78 on
+  20 May 2025**. ⚠️ It is **not yet in force and not yet open for
+  signature**: signature opens only after the Pathogen Access and
+  Benefit-Sharing (PABS) annex is adopted, and **60 ratifications** are
+  needed for entry into force. WHO reported PABS negotiations still
+  continuing on 20 July 2026. ❌ Do not describe it as a binding treaty
+  currently governing pandemic response, and do not state India's
+  signature/ratification status without a dated official source.
 
 ## 10. PYQ application
 

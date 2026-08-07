@@ -13,19 +13,21 @@
 ## 1. Architecture
 
 ```text
-LAYER 1: DECOMPOSE                 LAYER 2: WEIGHT THE SIX CHECKS
-Nested dilemmas? Separate            Not all checks carry equal weight in
-each sub-dilemma and solve            every case — state explicitly which
-independently before                  check is DECISIVE and why (e.g.,
-recombining into one answer           legality is always a hard threshold;
-                                       compassion may be secondary to public
-                                       interest in a resource-scarcity case)
+LAYER 1: DECOMPOSE                 LAYER 2: BOUND THE PROBLEM
+Nested dilemmas? Separate            State the HARD CONSTRAINTS (legal,
+each sub-dilemma and solve            delegation, time, information,
+independently before                  jurisdiction, capacity) that make
+recombining into one answer           some notionally attractive options
+                                       simply unavailable
 
-LAYER 3: STRESS-TEST THE DECISION   LAYER 4: DEFEND AGAINST THE
-Explicitly state the strongest       STRONGEST COUNTER-ARGUMENT
-objection to your chosen option       Anticipate the examiner's "but what
-and explain why it does not           if..." and address it within the
-overturn your conclusion              answer itself, not after
+LAYER 3: WEIGHT THE SIX CHECKS     LAYER 4: STRESS-TEST AND DEFEND
+Not all checks carry equal weight    State the strongest objection to your
+in every case — state explicitly     chosen option and explain why it does
+which check is DECISIVE and why      not overturn your conclusion; then
+(legality is always a hard           name the residual risk that survives
+threshold; compassion may be         your own recommendation, and how it
+secondary to public interest in      will be monitored
+a resource-scarcity case)
 ```
 
 **Analytical claim:** The advanced skill beyond the basic six-step architecture is **explicit
@@ -44,6 +46,28 @@ examiner to raise unaddressed.
 
 ## 3. Detailed treatment
 
+### A conflict-of-interest case worked at advanced level — 2025 GS-IV Q9 (Subash) and 2024 Q10 (Sneha)
+
+- ✅ 2025 GS-IV Q9: Subash, Secretary PWD, holds pre-announcement knowledge of a mega road project's
+  alignment; his son, a real-estate businessman, presses him to disclose the location, arguing he
+  buys land routinely and will be discreet; separately the Minister has introduced his own nephew's
+  infrastructure company and signalled that its business interests should be looked after.
+- ✅ 2024 GS-IV Q10: Sneha chairs a hospital procurement committee and finds her brother — a
+  financially stressed supplier — among the bidders; the hospital is private, so the lowest bid is
+  not mandatory, and management would back whatever she decides.
+- ⚠️ Advanced handling: both are **hard-threshold** cases, not weighted balancing exercises. The
+  private-interest link is disqualifying in itself; the only defensible sequence is *disclose in
+  writing → recuse from the specific decision → have the decision taken by an untainted authority
+  on published criteria*. The fact that management "trusts her fully", or that the son "buys land
+  anyway", is precisely the reasoning a corrupt outcome would use, and should be named as such.
+- ⚠️ Note the distinct second issue in the 2025 case: unauthorised disclosure of price-sensitive
+  official information is itself a breach of conduct rules and, if acted on, moves the matter from
+  conflict of interest into the territory of an undue advantage under the PC Act (see `19`) — an
+  answer that treats it only as a family dilemma misses the legal escalation. The safeguard against
+  ministerial pressure is the same one that protects Subash: put the advice and the refusal on the
+  file, and route the project's land-acquisition and tendering through published, committee-based
+  criteria (see `18`).
+
 ### Weighting the six checks — worked principle
 
 - ⚠️ **Legality** is nearly always a hard threshold: no matter how compelling the public-interest or
@@ -60,9 +84,9 @@ examiner to raise unaddressed.
 
 ### Nested-dilemma decomposition — applied to the 2025 DC-Vijay case
 
-- ⚠️ As identified in `09`'s advanced treatment, the DC-Vijay case nests at least three dilemmas:
-  (1) personal grief vs public duty; (2) resource-allocation fairness in ongoing disaster relief;
-  (3) transparency vs maintaining public calm during an active crisis.
+- ⚠️ As identified in `09`'s advanced treatment, the 2025 GS-IV Q7 case (DC Vijay) nests at least
+  three dilemmas: (1) personal grief vs public duty; (2) resource-allocation fairness in ongoing
+  disaster relief; (3) transparency vs maintaining public calm during an active crisis.
 - ⚠️ Advanced answers solve each nested dilemma with its own mini six-check pass, then integrate: the
   personal/duty dilemma resolves through delegation-plus-brief-attendance (see basic file); the
   resource-allocation dilemma resolves through the deputy applying pre-established, transparent
@@ -72,7 +96,7 @@ examiner to raise unaddressed.
 
 ### Steelmanning — applied to the 2024 tech-company AI/environment case
 
-- ✅ 2024 GS-IV Case Study Q1 (see `12`, `13`): a strong steelman of the "just optimise for
+- ✅ 2024 GS-IV Q7 (Section B case study) (see `12`, `13`): a strong steelman of the "just optimise for
   shareholder value and innovation pace" counter-argument would note that aggressive competitors
   unconstrained by voluntary emissions discipline could out-innovate a self-restrained company,
   eroding its market position and, paradoxically, its long-term capacity to invest in sustainability
@@ -99,8 +123,8 @@ examiner to raise unaddressed.
   structure (options considered, stakeholders identified, legal/conflict-of-interest check performed,
   public-interest rationale stated, and residual risk flagged) — directly reinforcing the probity/
   transparency principles taught in `14`, `15`.
-- ⚠️ Training programmes (Mission Karmayogi's case-based learning modules, 📰 verify current
-  curriculum specifics independently) increasingly use structured case methods similar to this
+- ⚠️ Mission Karmayogi's case-based and simulation learning on the iGOT-Karmayogi platform
+  (Cabinet approval 2 September 2020) increasingly uses structured case methods similar to this
   architecture to build administrative judgment, rather than relying purely on rule memorisation.
 
 ## 5. Indian applications and boundary cases
@@ -159,10 +183,10 @@ examiner to raise unaddressed.
 
 ## 10. PYQ-based analytical application
 
-- ✅ 2025 GS-IV Q7 (DC Vijay) rewards nested-dilemma decomposition and explicit check-weighting
+- ✅ 2025 GS-IV Q7 (Section B case study: DC Vijay) rewards nested-dilemma decomposition and explicit check-weighting
   (public duty as a near-hard threshold once delegation is arranged; compassion for personal grief
   weighted alongside, not overriding, that duty).
-- ✅ 2024 GS-IV Case Study Q1 (tech company) rewards steelmanning the profitability/innovation
+- ✅ 2024 GS-IV Q7 (Section B case study: tech company) rewards steelmanning the profitability/innovation
   counter-argument and proposing a time-bound, verifiable, competitively-viable sustainability
   commitment rather than an unqualified "prioritise the environment" answer.
 
@@ -175,11 +199,13 @@ counter-argument to its decision, and closes with an honest acknowledgment of re
 monitoring mechanism.
 
 1. Decompose the case into its analytically separable nested dilemmas, if more than one exists.
-2. Apply the six-check framework to each, explicitly noting which checks are hard thresholds and
+2. State the hard constraints that bound the choice, so that unrealisable options are eliminated
+   before, not after, the ethical evaluation.
+3. Apply the six-check framework to each, explicitly noting which checks are hard thresholds and
    which are weighted, with a stated rationale for the weighting.
-3. Reach a decision for each nested dilemma, then integrate into a single coherent recommendation.
-4. State the strongest counter-argument to your decision and directly address it.
-5. Close with a specific implementation step and an honestly acknowledged residual risk with its
+4. Reach a decision for each nested dilemma, then integrate into a single coherent recommendation.
+5. State the strongest counter-argument to your decision and directly address it.
+6. Close with a specific implementation step and an honestly acknowledged residual risk with its
    monitoring/mitigation mechanism.
 
 ## 12. Probable questions

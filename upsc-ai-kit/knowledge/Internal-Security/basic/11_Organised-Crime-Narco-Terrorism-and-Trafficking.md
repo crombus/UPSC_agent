@@ -3,12 +3,14 @@
 > **Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III.
 > **Core area:** Organised crime vs. terrorism (means and ends); the
 > terrorism-organised-crime nexus; narco-terrorism; arms/human/FICN
-> trafficking; NCORD/ANTF/NCB institutional architecture.
+> trafficking; the NDPS/BNS/UNTOC legal architecture; NCORD/ANTF/NCB
+> institutional architecture.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
-> India*, PDF pp. 83-90 (organised crime, narcotics), pp. 58-60 (LWE
-> extortion, cross-referenced); `00_Master-Framework.md` Sections 4-6;
-> audited GS-III syllabus; MHA, Vision Document on Drug Control 2026-2029
-> (June 2026).
+> India*, PDF pp. 83-90, 96 (organised crime, narcotics, UNTOC, MCOCA),
+> pp. 58-60 (LWE extortion, cross-referenced); `00_Master-Framework.md`
+> Sections 4-6; audited GS-III syllabus; NDPS Act 1985, PIT-NDPS Act
+> 1988, BNS 2023 and the Arms Act 1959 as published in India Code; MHA,
+> Vision Document on Drug Control 2026-2029 (June 2026).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/11_Organised-Crime-Narco-Terrorism-and-Trafficking.md`.*
 
@@ -59,11 +61,12 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Organised crime** | A structured group of three or more persons, existing over time, acting in concert to obtain financial/material benefit through serious crime (UN Convention definition, cited by Singh, PDF p. 83). |
-| ✅ **Transnational organised crime** | Per the UN Convention: a non-randomly-formed group of three or more, existing over time, committing at least one crime punishable by 4+ years, for financial/material benefit (Singh, PDF p. 83). |
+| ✅ **Organised crime** | A structured group of three or more persons, existing over time, acting in concert to obtain financial/material benefit through serious crime (UN Convention definition, cited by Singh, PDF p. 83). ✅ Since **1 July 2024** it is also a general penal offence: **Section 111 of the Bharatiya Nyaya Sanhita, 2023** defines organised crime (continuing unlawful activity by a syndicate — kidnapping, extortion, contract killing, land grabbing, financial scams, cyber-crimes, trafficking) and **Section 112** creates the lesser offence of "petty organised crime." ⚠️ This is the first time the IPC's successor covers organised crime nationally, rather than leaving it to State special laws like MCOCA. |
+| ✅ **Transnational organised crime** | Per the UN Convention: a non-randomly-formed group of three or more, existing over time, committing at least one crime punishable by 4+ years, for financial/material benefit (Singh, PDF p. 83). ✅ The instrument is the **UN Convention against Transnational Organised Crime (UNTOC/Palermo Convention)**, "the only international convention which deals with organised crime," supplemented by three Protocols — trafficking in persons, smuggling of migrants and trafficking of firearms (Singh, PDF p. 90). |
 | ✅ **Narco-terrorism** | The convergence of narcotics trafficking with terrorism/insurgent financing — armed groups tax, control or directly profit from drug cultivation/trafficking routes to fund political violence. |
+| ✅ **NDPS Act, 1985** | The **Narcotic Drugs and Psychotropic Substances Act, 1985** is India's principal narcotics statute — it prohibits production, manufacture, possession, sale, transport and consumption of narcotic drugs and psychotropic substances except for medical/scientific purposes, grades punishment by **small / lesser-than-commercial / commercial quantity**, and in **Chapter VA (Sections 68A-68F)** provides for **forfeiture of illegally acquired property** of traffickers. ⚠️ It is also the enabling statute under which the **Narcotics Control Bureau** was constituted (Section 4(3)); the **PIT-NDPS Act, 1988** separately permits preventive detention of traffickers. ❌ Answering a narco-terrorism question without naming the NDPS Act is the commonest content gap on this topic. |
 | ✅ **Golden Crescent / Golden Triangle** | Golden Crescent: Afghanistan, Iran, Pakistan (heroin source); Golden Triangle: Myanmar, Laos, Thailand — both feed narcotics into the Asia-Pacific, including India, via major transit routes (Singh, PDF p. 89). |
-| ✅ **FICN (Fake Indian Currency Notes)** | A named organised-crime/terror-financing tool distinct from narcotics or arms trafficking, used both to fund militancy and destabilise the economy. |
+| ✅ **FICN (Fake Indian Currency Notes)** | A named organised-crime/terror-financing tool distinct from narcotics or arms trafficking, used both to fund militancy and destabilise the economy; it is a scheduled offence under the NIA Act and, since 2012, within UAPA's expanded "terrorist act." |
 
 ## 3. How the organised-crime/terror nexus works
 
@@ -99,12 +102,49 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
 
 ## 4. Institutions, laws and reference points
 
+- ✅ **NDPS Act, 1985** (with the PIT-NDPS Act, 1988 for preventive
+  detention): the central narcotics statute — quantity-graded punishment,
+  Chapter VA forfeiture of illegally acquired property, and the statutory
+  basis for the NCB. ⚠️ Note the two-track design: **penal** action against
+  the trafficker and **property** action against the proceeds; the second
+  is what connects this topic to topic 10.
+- ✅ **Bharatiya Nyaya Sanhita, 2023 (in force 1 July 2024):** Section 111
+  (organised crime by a syndicate), Section 112 (petty organised crime),
+  Section 113 (terrorist act), and Sections 143-144 (trafficking of a
+  person and exploitation of a trafficked person, replacing IPC Sections
+  370 and 370A). ⚠️ For the first time the general criminal code covers
+  organised crime, terrorism and trafficking together — the statutory
+  recognition of exactly the nexus this topic analyses.
 - ✅ **Maharashtra Control of Organised Crime Act (MCOCA), 1999:** a
-  State-specific stringent law with admissible-confession and strict-bail
-  provisions to counter organised crime and terrorism (Singh, PDF p. 96).
+  State-specific stringent law. Singh records its distinguishing
+  features precisely: confessions before senior police officers
+  admissible "not only against the accused giving the confession but also
+  against the other accused in the same case"; no anticipatory bail for
+  six months; "not bail but jail" as the controlling principle; 180 days
+  (rather than 90) to file a charge-sheet; and witness-protection measures
+  including keeping identity and address secret (PDF p. 96). ⚠️ Several
+  States enacted analogous laws; with BNS Sections 111-112 now in force
+  nationally, the question is no longer whether a special law exists but
+  which law an investigating officer elects to use.
+- ✅ **Trafficking-specific instruments:** **Article 23** of the
+  Constitution prohibits traffic in human beings and forced labour; the
+  **Immoral Traffic (Prevention) Act, 1956** and the **Bonded Labour
+  System (Abolition) Act, 1976** supplement BNS Sections 143-144; MHA
+  supports State/UT **Anti-Human Trafficking Units (AHTUs)** as the
+  district-level investigative mechanism. ⚠️ Human trafficking is also a
+  scheduled offence under the NIA Act, giving a federal route where the
+  network is inter-State or transnational.
+- ✅ **Arms Act, 1959** (amended 2019) and the **Explosive Substances Act,
+  1908:** the statutes behind illicit-arms trafficking cases; offences
+  relating to prohibited arms and explosive substances are scheduled
+  offences under the NIA Act after the 2019 amendment.
 - ✅ **NIA Act, 2008:** covers organised crime (extortion mobs and gangs)
   alongside terrorism, FICN, human trafficking and narcotics within its
   schedule (developed fully in topic 12).
+- ✅ **UNTOC (Palermo Convention) and its three Protocols** (trafficking in
+  persons, smuggling of migrants, trafficking of firearms) — the only
+  international convention dealing with organised crime (Singh, PDF
+  p. 90); India is a party.
 - 📰 **NCORD (National Narcotics Coordination):** four-tier (Apex,
   Executive, State, District) coordination mechanism for drug-trafficking
   enforcement, precursor-diversion control, demand reduction and
@@ -113,9 +153,9 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
   that map drug hotspots, prioritise financial investigation and link
   local operations to cartel-level activity.
 - 📰 **NCB (Narcotics Control Bureau):** the central nodal drug-law-
-  enforcement agency under MHA, coordinating multi-agency counter-
-  narcotic action and international partnerships (Interpol, Navy, border
-  forces).
+  enforcement agency under MHA, constituted under Section 4(3) of the
+  NDPS Act, coordinating multi-agency counter-narcotic action and
+  international partnerships (Interpol, Navy, border forces).
 - 📰 **MHA Vision Document on Drug Control (2026-2029), released June
   2026:** the current zero-tolerance policy framework, organised around
   "Detect, Disrupt, Destroy," covering supply reduction, demand
@@ -138,9 +178,24 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
 
 - ✅ Organised crime's UN-Convention definition requires three or more
   persons, sustained over time, committing a serious crime (4+ years'
-  punishment) for financial/material benefit.
+  punishment) for financial/material benefit; the instrument is UNTOC
+  (Palermo Convention) with three Protocols — trafficking in persons,
+  smuggling of migrants, trafficking of firearms.
+- ✅ The NDPS Act, 1985 is India's principal narcotics statute; it grades
+  punishment by small/lesser/commercial quantity and provides for
+  forfeiture of illegally acquired property in Chapter VA (Sections
+  68A-68F); the NCB is constituted under its Section 4(3); the PIT-NDPS
+  Act, 1988 provides preventive detention.
+- ✅ BNS, 2023 Sections 111 and 112 create the offences of organised crime
+  and petty organised crime; Sections 143-144 cover trafficking of a
+  person and exploitation of a trafficked person.
 - ✅ MCOCA, 1999 is a Maharashtra State law targeting organised crime and
-  terrorism with stringent evidentiary and bail provisions.
+  terrorism, with admissible confessions before senior police officers, a
+  180-day charge-sheet window, no anticipatory bail for six months and
+  witness-identity protection.
+- ✅ Article 23 of the Constitution prohibits traffic in human beings and
+  forced labour; AHTUs are the district-level anti-trafficking
+  investigative units.
 - ✅ The Golden Crescent (Afghanistan-Iran-Pakistan) and Golden Triangle
   (Myanmar-Laos-Thailand) are the two principal heroin-source regions
   affecting Asia-Pacific trafficking, including India.
@@ -167,6 +222,19 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
   reflect current reality. -> These are book-period case studies; verify
   any current claim about a specific individual or group from a dated
   official (NCB/NIA/ED) source.
+- ❌ Organised crime can only be prosecuted under State special laws like
+  MCOCA. -> Since 1 July 2024, BNS Sections 111 and 112 make organised
+  crime and petty organised crime offences under general law across
+  India; State special laws continue to operate alongside.
+- ❌ Drug seizures and drug destruction are measures of trafficking
+  reduction. -> They measure enforcement activity. Supply reduction is
+  evidenced by price, purity and availability data, and by conviction and
+  forfeiture outcomes under the NDPS Act — not by seizure tonnage.
+- ❌ Human trafficking is only a social-welfare or women-and-child issue.
+  -> It is a scheduled offence under the NIA Act and a BNS offence
+  (Sections 143-144), and it shares routes, financiers and facilitators
+  with narcotics and arms trafficking — which is precisely why it sits in
+  this topic.
 
 ## 8. 📰 Current anchor
 
@@ -189,11 +257,15 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
   country. Suggest suitable measures to counter narco-terrorism."
   - Structure: define narco-terrorism and the means-ends distinction from
     organised crime → trace the Golden Crescent/Golden Triangle route
-    geography and the regional nexus patterns (North-East, J&K) → cite
-    the current institutional response (NCORD, ANTF, NCB, the 2026 Vision
-    Document) as "measures to counter" → close by noting the "Detect,
-    Disrupt, Destroy" strategy's high-tech focus as the most recent
-    counter-measure layer.
+    geography and the regional nexus patterns (North-East, J&K) → name
+    the legal architecture (NDPS Act 1985 with its Chapter VA property
+    forfeiture, PIT-NDPS 1988, BNS Sections 111-113, NIA Act schedule,
+    and PMLA where narcotics is the predicate offence) → cite the current
+    institutional response (NCORD, ANTF, NCB, the 2026 Vision Document)
+    as "measures to counter" → close by noting the "Detect, Disrupt,
+    Destroy" strategy's high-tech focus as the most recent counter-measure
+    layer, and by distinguishing seizure statistics from conviction and
+    forfeiture outcomes.
 
 ## 10. Mains angles
 

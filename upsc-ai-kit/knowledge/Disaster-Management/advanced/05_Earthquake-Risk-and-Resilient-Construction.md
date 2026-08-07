@@ -100,8 +100,21 @@ systemic compliance failure, not five unrelated gaps.
   claim India has an operational earthquake early-warning system without
   a specific, dated official citation.
 - 📰 Any claim about current seismic-monitoring-station density, network
-  upgrades, or "India Quake" app functionality must be verified against
-  the National Centre for Seismology's current service description.
+  upgrades, or the earthquake app must be verified against the National
+  Centre for Seismology's current service description: NCS operated a
+  **170-observatory** National Seismological Network and identifies
+  **BhooKamp** as its official app (PIB/MoES, 1 April 2026).
+- ⚠️ **The withdrawn seismic-zonation revision is the sharpest available
+  illustration of this topic's compliance thesis.** A proposed revised
+  zonation was **withdrawn in March 2026**, leaving **IS 1893 (Part 1):
+  2016** operative. An advanced answer can use this to make a precise
+  point: hazard maps are *techno-legal* instruments, not merely
+  scientific ones — upgrading a zone raises design loads, construction
+  costs, insurance pricing and retrofitting liability for existing stock,
+  so zonation revision carries distributional consequences that
+  scientific updating alone does not resolve. Reporting the withdrawal
+  honestly, rather than assuming an announced revision took effect, is
+  itself the discipline this folder requires.
 
 ## 6. Vulnerability, equity and community lens
 
@@ -143,10 +156,16 @@ systemic compliance failure, not five unrelated gaps.
 ## 9. Financing/monitoring/accountability
 
 - ⚠️ VisionIAS does not detail a specific seismic-retrofitting financing
-  mechanism beyond BMPTC's promotional/technical role (PDF p. 21); any
+  mechanism beyond BMTPC's promotional/technical role (PDF p. 21); any
   current claim about retrofitting-fund allocation, National Earthquake
   Risk Mitigation Project budget status, or State-wise retrofitting
   progress requires a dated NDMA/Ministry of Earth Sciences source.
+  📰 The structurally correct route for such financing is now the
+  **State/National Disaster Mitigation Fund** window (topic `16`), which
+  finances *ex-ante* risk reduction; ⚠️ no dated official source reports
+  a nationwide seismic-retrofitting programme financed from it, and its
+  absence — against demonstrated NDMF financing of urban-flood and GLOF
+  mitigation — is itself the citable gap.
 - 📰 Insurance/risk-transfer instruments specific to seismic risk
   (developed generically in topic `16`) require current verification;
   VisionIAS does not detail a seismic-specific insurance scheme.

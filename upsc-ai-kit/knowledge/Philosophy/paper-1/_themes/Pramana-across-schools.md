@@ -161,4 +161,9 @@ Concl.  : Epistemology entirely in service of ritual/Vedic authority (dharma).
 - Cross-paper: P-II Phil-of-Religion `Proofs-for-God.md` reuses §6.2.
 
 ---
-> 📖 **SOURCE-VERIFIED** (synthesis): Cross-cutting theme distilled from source-verified parents. The pramāṇa ladder (pratyakṣa → anumāna → upamāna → śabda → arthāpatti → anupalabdhi) and the svataḥ/parataḥ-prāmāṇya debate confirmed vs **C.D. Sharma** & **Chatterjee-Datta** (utpatti/jñapti double aspect) in `indian/Nyaya-Vaisesika.md`, `Mimamsa.md`. No independent corrections.
+
+## SOURCES
+
+- C. D. Sharma, *A Critical Survey of Indian Philosophy*.
+- S. C. Chatterjee and D. M. Datta, *An Introduction to Indian Philosophy*.
+- Owner files: [`Nyaya-Vaisesika.md`](../indian/Nyaya-Vaisesika.md), [`Mimamsa.md`](../indian/Mimamsa.md), [`Carvaka.md`](../indian/Carvaka.md), and [`Vedanta.md`](../indian/Vedanta.md).

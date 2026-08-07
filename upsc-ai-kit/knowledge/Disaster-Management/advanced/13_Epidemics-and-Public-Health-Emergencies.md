@@ -172,10 +172,23 @@ precision (or lack of it) of the response measures adopted.
 - 📰 **NCDC's IDSP and technical-guideline resources**, checked as of 18
   July 2026, are the correct current anchor for India's disease-
   surveillance architecture and institutional nomenclature.
-- 📰 **WHO's HEPR report to WHA78 (May 2025)** is the correct current
-  anchor for the international health-emergency-preparedness standard.
+- 📰 **The amended International Health Regulations (2005)**, in force
+  **19 September 2025** with the new **"pandemic emergency"** tier, are
+  the correct current international legal anchor; the **WHO Pandemic
+  Agreement**, **adopted 20 May 2025 (WHA78)**, is **not yet in force**
+  (signature awaits the PABS annex; 60 ratifications required).
+- ⚠️ **The gap between the two instruments is itself the advanced
+  point.** The IHR amendments were achievable because they adjust an
+  existing binding regime's alert thresholds; the Pandemic Agreement
+  stalls precisely where sovereignty and equity bite — **pathogen access
+  and benefit-sharing**, i.e. who supplies samples and who gets vaccines
+  made from them. An advanced answer should name PABS as the specific
+  unresolved issue rather than asserting general "geopolitical
+  differences," and should note that India's interest as a large vaccine
+  manufacturer sits on both sides of that bargain.
 - ❌ Do not repeat VisionIAS's pre-COVID "no policy exists" claim or its
-  "NICD" institutional name as current without this verification.
+  "NICD" institutional name as current, and do not describe the Pandemic
+  Agreement as binding law.
 
 ## 11. PYQ-based analytical application
 

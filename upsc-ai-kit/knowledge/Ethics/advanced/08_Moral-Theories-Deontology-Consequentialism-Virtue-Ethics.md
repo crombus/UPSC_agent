@@ -150,7 +150,8 @@ about which theory is doing the justificatory work in a given recommendation.
   virtue-ethics judgment about appropriate human oversight.
 - ⚠️ Case-study answers (2025 GS-IV Q7) score higher when the candidate implicitly shows awareness of
   moral luck — evaluating the DC's decisions by the soundness of the process under uncertainty, not
-  merely by the disaster's eventual outcome.
+  merely by the disaster's eventual outcome. Separating **motive, intention and consequence**
+  explicitly (see `basic/08`) is the cleanest way to do this on paper.
 
 ## 11. Mains-ready framework
 

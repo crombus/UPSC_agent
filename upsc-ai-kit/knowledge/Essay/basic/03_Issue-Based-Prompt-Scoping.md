@@ -15,9 +15,10 @@
 
 ## 1. Purpose and scope
 
-One audited prompt — 2024-B5, "Social media is triggering 'Fear of
-Missing Out' amongst the youth, precipitating depression and loneliness"
-— is an issue-statement rather than a philosophical aphorism: it names a
+One audited prompt — 2024-B5, printed as "Social media is triggering
+'Fear of Missing Out' amongst the youth precipitating depression and
+loneliness" — is an issue-statement rather than a philosophical aphorism:
+it names a
 real phenomenon, a mechanism and a consequence directly. This topic
 teaches how to scope such prompts as an *essay argument*, distinct from
 `02`'s aphorism-decoding and distinct from a GS-III/Society answer.
@@ -37,12 +38,53 @@ teaches how to scope such prompts as an *essay argument*, distinct from
 ## 3. ✅ Exam facts / source basis
 
 - ✅ 2024-B5 is printed exactly as: "Social media is triggering 'Fear of
-  Missing Out' amongst the youth, precipitating depression and
-  loneliness." — no author, no further qualifying data attached in the
-  source paper.
-- ⚠️ This is the only prompt in either audited year that reads as a
+  Missing Out' amongst the youth precipitating depression and
+  loneliness." — no author, and **no comma before "precipitating"**
+  (widely circulated versions insert one; the paper does not). No further
+  qualifying data is attached in the source paper.
+- ✅ It is printed as **item 1 of Section B** in the 2024 paper, which
+  restarts Section B numbering at 1; `B5` is this folder's internal label
+  (see `../README.md`).
+- ⚠️ The missing comma slightly changes what is asserted: without it,
+  "precipitating depression and loneliness" reads as attached to the FOMO
+  it triggers rather than as a separate consequence of social media. ✅
+  Either way the essay must engage the *causal chain the sentence asserts*
+  — social media → FOMO → depression/loneliness — and ❌ not substitute a
+  general discussion of social media's effects.
+- ⚠️ This is the only prompt in either V1 year that reads as a
   direct, unmetaphorical issue-statement rather than an aphorism; the
   remaining 15 prompts are decoded via `02`.
+
+## 3a. Is this actually an issue prompt? — a three-question test
+
+⚠️ `basic/02`, Section 3a, gives the full philosophical-vs-issue contrast
+table. This section does not repeat it; it supplies the decision procedure
+for the one call you have to make under time pressure.
+
+```text
+Q1  Does the sentence name a real, nameable phenomenon
+    (social media, urbanisation, automation) rather than an abstraction?
+        no  -> philosophical prompt: decode it (02)
+        yes -> continue
+Q2  Does it assert a causal or evaluative claim ABOUT that phenomenon
+    ("is triggering", "has lost the ability to", "is a threat to")?
+        no  -> a bare topic label, not an issue-statement: treat as a
+               scoping-plus-decoding hybrid, decoding first
+        yes -> continue
+Q3  Would a literal reading of the sentence already give you something
+    contestable to argue?
+        yes -> issue prompt: scope it (this file)
+        no  -> the sentence only looks empirical; decode first (02)
+```
+
+⚠️ Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations
+and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read
+literally it is a claim about vegetation sequence that nobody would spend
+1000 words contesting. That failure is the signal that the sentence is
+carrying a metaphor, and that `02` owns it. ❌ Scoping a prompt that
+needed decoding produces a technically accurate essay about the wrong
+subject — the most expensive error available at this stage, because it is
+invisible until the essay is finished.
 
 ## 4. The central idea and common misreading
 

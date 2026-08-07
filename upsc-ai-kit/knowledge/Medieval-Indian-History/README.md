@@ -1,5 +1,7 @@
 # Medieval Indian History — Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** History → **Medieval Indian History** · **GS Paper:** GS-I (Medieval India, Art & Culture) + Prelims.
 > **Spine:** Satish Chandra — basic tier from *History of Medieval India* (concise); advanced tier from *Medieval India: From Sultanat to the Mughals* (Part I Sultanat + Part II Mughals).
 > **Start here:** `00_Master-Chronology.md` — the full medieval timeline that stitches every topic together.

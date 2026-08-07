@@ -14,9 +14,9 @@
 
 ```text
 STRUCTURAL RISK #1: OVER-SUSPICION            STRUCTURAL RISK #2: UNDER-SUSPICION
-Investigating agencies "assume a               Sanction/single-point-directive
-decision should be wrong for there to           safeguards used to shield genuinely
-be corruption" (ARC 7.6) -> demoralises         corrupt officials or delay investigation
+Investigating agencies "assume a               Prior-approval/sanction safeguards
+decision should be wrong for there to           used to shield genuinely corrupt
+be corruption" (ARC 7.6) -> demoralises         officials or delay investigation
 honest officials, chills legitimate risk        indefinitely (ARC 7.4's own caution)
 taking, produces low conviction + high
 harassment simultaneously (ARC 7.6-7.7)
@@ -72,15 +72,23 @@ choice.
   and an unnecessary interference in the judicial process" — the ARC does not resolve this tension by
   simply endorsing or abolishing the safeguards, but calls for "due discrimination" in their
   application.
+- 📰 The judiciary resolved one half of it: the rank-based single directive (DSPE Act s.6A) was
+  **struck down as violative of Article 14** in *Dr. Subramanian Swamy v. Director, CBI*, (2014) 8
+  SCC 682, decided 6 May 2014, on the reasoning that corruption knows no rank and that a
+  status-based classification of who may even be investigated is arbitrary. Parliament then
+  legislated a differently framed safeguard in 2018 — Section 17A — which is rank-neutral but
+  conduct-specific (official-duty decisions and recommendations). ⚠️ The Supreme Court has not
+  pronounced on Section 17A's validity in that judgment, which predates it.
 - ⚠️ Advanced synthesis: the sanction requirement's *legitimacy* depends entirely on whether the
   sanctioning authority applies genuine, timely scrutiny (screening allegations, per 7.9a) or uses
   the requirement as an unreviewable, indefinite shield — the same procedural mechanism can be
   either protective or obstructive depending on its *administration*, not its mere existence.
 - ⚠️ This connects directly to the 2018 PC Amendment's Section 17A (see `19`), which extends the
-  sanction principle to the investigation stage itself — an intensification of the very safeguard
-  ARC flags as double-edged, making the advanced evaluation of Section 17A's actual operation (timely
-  vs indefinitely delayed sanction decisions) a live, unresolved empirical and institutional-design
-  question.
+  approval principle to the enquiry/investigation stage itself — an intensification of the very
+  safeguard ARC flags as double-edged. ⚠️ Unlike the struck-down s.6A, Section 17A does carry a
+  statutory decision timeline (three months, extendable by one for recorded reasons), so the live
+  advanced question is compliance and consequence-of-delay, not the absence of a timeline: neither
+  Section 17A nor Section 19 provides for deemed approval on expiry.
 
 ### The transfer industry — a distinct, compounding threat to honest officials
 
@@ -117,8 +125,8 @@ choice.
   capacity-building for both investigators and officials handling commercial/financial decisions;
   and prosecution only where evidence is strong.
 - ✅ ARC 7.8's Lok-Pal-linked special investigation unit (to check investigating-agency misconduct/
-  harassment) remains, 📰 per current verified status, a recommendation whose full implementation
-  should not be assumed without independent confirmation.
+  harassment) remains, 📰 on the position verified as at 4 August 2026, a recommendation whose
+  implementation has not been traced.
 - ✅ The National Commission to Review the Working of the Constitution's Civil Service Board proposal
   (ARC 9.13) and the Draft Public Services Bill, 2006's Central Public Services Authority (ARC 9.14,
   advisory-only powers) are cited as complementary institutional correctives to the transfer industry.
@@ -153,6 +161,9 @@ choice.
   transfer policy, leaving reform primarily to executive/legislative correction.
 - ✅ ARC 7.8 recommends a special investigation unit under the proposed Lok Pal specifically to probe
   misconduct or harassment by investigating agencies themselves.
+- 📰 DSPE Act s.6A (the statutory single directive) was struck down in *Dr. Subramanian Swamy v.
+  Director, CBI*, (2014) 8 SCC 682, on 6 May 2014; PC Act s.17A (2018) is the differently framed,
+  rank-neutral successor safeguard.
 
 ## 8. Advanced Prelims traps
 
@@ -171,7 +182,7 @@ choice.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 Section 17A (2018 PC Amendment)'s extension of prior-sanction requirements to the investigation stage (see `19`) | Represents a live intensification of exactly the double-edged safeguard ARC 7.4 flags — useful for an advanced answer assessing whether recent legal reform has tilted the balance toward over-protection or remains appropriately calibrated. |
+| 📰 PC Act Section 17A (2018) — prior approval before any enquiry, inquiry or investigation into an official-duty decision, with a three-month plus one-month timeline (see `19`); the rank-based DSPE Act s.6A single directive struck down in 2014 | Represents a live re-framing of exactly the double-edged safeguard ARC 7.4 flags: the *basis* of protection has moved from rank to the nature of the decision. Useful for an advanced answer assessing whether recent legal reform has tilted the balance toward over-protection or remains appropriately calibrated. |
 
 ## 10. PYQ-based analytical application
 

@@ -36,10 +36,12 @@ guide behaviour, choices and actions; standards alone do not ensure ethical cond
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Ethics** | From Greek *ethikos* ("arising from habit") — standards guiding right conduct, internalised through practice, not just declared. |
-| ✅ **Corruption** | From Latin *corruptus* ("to break or destroy") — the most visible manifestation of ethics' failure (ARC 1.2). |
-| ⚠️ **Human interface** | The point of contact between a public official's private interest and public duty/citizen need — where ethical testing actually happens (ARC 2.2.6). |
+| ✅ **Corruption** | From Latin *corruptus* ("to break or destroy") — an important manifestation of the failure of ethics (ARC 1.2). |
+| ⚠️ **Four levels of ethical enquiry** | **Descriptive** ethics = an empirical account of what a society/group actually believes (e.g., a survey of officials' attitudes to gift-taking). **Normative** ethics = what one *ought* to do, argued from a theory (duty, consequence, virtue — see `08`). **Meta-ethics** = what moral words mean and whether moral judgments can be true (objectivism vs relativism). **Applied ethics** = normative theory worked out for a specific field — administrative, medical, environmental, AI, business ethics (see `12`, `13`). GS-IV is overwhelmingly *normative and applied*; meta-ethical debate is worth one line at most in an answer. |
+| ⚠️ **Human interface** | The point of contact between a public official's private interest and public duty/citizen need — where ethical testing actually happens. |
 | ⚠️ **Ethics vs morality** | Ethics = the *systematic, reasoned* study/standard of right conduct; morality = the *actually held* beliefs/practices of a person or society (often used interchangeably in Mains answers, but definable on demand). |
-| ✅ **Asymmetry of power** | ARC 1.6: unequal power between citizen and public official (nearly 90% of Indians in the unorganised sector vs a comparatively privileged organised-sector public service) that weakens societal pressure for ethical conduct. |
+| ⚠️ **Legality vs morality vs propriety** | Legality = conformity to enacted law; morality = conformity to a standard of right conduct; **propriety** = conformity to what the office and occasion make *appropriate*. The three come apart: accepting a lavish private dinner from a bidder may break no law and involve no bribe, yet fails propriety because of how it looks to a reasonable citizen. ARC's own Box 2.3 (US Senate Ethics Manual) is the classic statement of the gap — conduct that "offend[s] the spirit of the law but do[es] not violate its letter" (see `10`). |
+| ✅ **Asymmetry of power** | ARC 1.6: "enormous asymmetry of power in our society. Nearly 90% of our people are in the unorganized sector," while "nearly 70% of the organized workers with job security and regular monthly wage are employed by the state" — an imbalance that "reduces societal pressure to conform to ethical behaviour." |
 
 ## 3. Why the human interface matters (mechanism)
 
@@ -53,8 +55,12 @@ guide behaviour, choices and actions; standards alone do not ensure ethical cond
    demonstrated by post-1991 liberalisation in telecom, steel, cement and two-wheelers.
 4. ✅ ARC 1.9: over-centralisation widens the gap between authority and accountability, since more
    functionaries stand between the citizen and the final decision-maker.
-5. ✅ ARC 1.10: citizen empowerment (RTI, citizens' charters, social audit, stakeholder participation)
-   is the democratic corrective to this asymmetric interface.
+5. ✅ ARC 1.10: citizen empowerment (RTI, effective citizens' charters, stakeholder involvement in
+   service delivery, public consultation, social auditing) is the democratic corrective to this
+   asymmetric interface.
+6. ✅ ARC 1.11: prevention is not enough — "enforcement of rule of law and deterrent punishment
+   against corruption are critical to build an ethically sound society." The corrective is
+   preventive **and** punitive, never either/or.
 
 ## 4. Two classical explanations of ethical failure (ARC 1.4)
 
@@ -70,19 +76,23 @@ guide behaviour, choices and actions; standards alone do not ensure ethical cond
   human interface — the citizen is a victim, not a beneficiary, of the transaction.
 - ⚠️ A contractor and inspecting engineer colluding to certify substandard road work is collusive
   corruption — both gain, the public/state loses (see `19` for the legal classification).
-- ✅ ARC 1.15-1.16: SC-mandated candidate asset disclosure, the RTI Act and e-governance are cited
-  as early correctives strengthening the human interface against corruption.
+- ✅ ARC 1.15: SC-mandated candidate disclosure of wealth, educational qualifications and criminal
+  antecedents with nomination papers, the RTI Act and e-governance/automation of corruption-prone
+  processes are cited as recent correctives strengthening the human interface against corruption.
 
 ## 6. Must-Know Facts for Prelims
 
 - ✅ "Ethics" derives from Greek *ethikos* ("habit"); "corrupt" derives from Latin *corruptus*
   ("to break/destroy") (ARC 1.1-1.2).
-- ✅ The 2nd ARC's 4th Report is titled *Ethics in Governance* (2007), organised in nine chapters.
-- ✅ ARC's terms of reference on ethics covered: (a) vigilance and corruption, (b) political
-  executive-civil service relationship, (c) codes of conduct (ARC 1.18).
-- ✅ Nearly 90% of India's workforce is in the unorganised sector per the ARC's 1.6 framing of
-  power asymmetry (a 2007 estimate — cite as dated, not current labour statistics).
-- ✅ Competition and transparency reduce corruption; monopoly and discretion increase it (ARC 1.8).
+- ✅ The 2nd ARC's 4th Report is titled *Ethics in Governance* (January 2007).
+- ✅ ARC's terms of reference on ethics covered: (a) vigilance and corruption, (b) the relationship
+  between the political executive and the permanent civil service, (c) codes of conduct for
+  different organs of government (ARC 1.18).
+- ✅ ARC 1.6 (a **dated 2007 framing**, not current labour statistics): "nearly 90% of our people
+  are in the unorganized sector" and "nearly 70% of the organized workers with job security and
+  regular monthly wage are employed by the state directly or through public sector undertakings."
+- ✅ Competition and transparency reduce corruption; monopoly and discretion increase it (ARC 1.8),
+  demonstrated post-liberalisation in telephones, steel, cement, sugar and two-wheelers.
 
 ## 7. UPSC traps
 
@@ -92,7 +102,10 @@ guide behaviour, choices and actions; standards alone do not ensure ethical cond
 - ❌ The ARC blamed only "declining values" for corruption. -> The ARC explicitly rejected a
   single-cause explanation and insisted institutions and values are jointly necessary (1.5).
 - ❌ All corruption is the citizen's fault for paying a bribe. -> ARC 1.13 distinguishes coercive
-  corruption, where the citizen is a victim of extortion, from collusive corruption.
+  corruption, where the citizen is an "unwilling victim" of extortion, from collusive corruption.
+- ❌ If an act is legal, no ethical question arises. -> Legality, morality and **propriety** are
+  three separate tests; ARC's Box 2.3 quotes the warning that "morality has become identical with
+  legality" precisely to reject this equation (see `10`).
 - ❌ Liberalisation is unrelated to ethics. -> ARC 1.8 explicitly credits competition and reduced
   discretion (a liberalisation effect) with falling corruption in several sectors.
 

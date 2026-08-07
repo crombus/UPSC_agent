@@ -50,8 +50,9 @@ long-term development plans, taking account of future disaster risks")
 | ✅ **Relief phase** | Immediate post-disaster: search and rescue, rapid damage/needs assessment, provision of relief/first aid, temporary shelters, humanitarian assistance (PDF p. 9). |
 | ✅ **Rehabilitation phase** | Enabling basic services to resume functioning, reviving economic activities, supporting survivors' psychological/social well-being; a "transitional phase between immediate relief and more major, long-term development" (PDF p. 9). |
 | ✅ **Reconstruction** | Full restoration of services/local infrastructure, physical-structure replacement, economic/social/cultural-life revitalisation; must be integrated into long-term development plans accounting for future disaster risk (PDF p. 9). |
-| ✅ **Incident Command System (ICS, 2003)** | A management system organising functions/tasks/staff during incidents, emphasising coordination/communication among organisations; deactivated once the rehabilitation phase ends, after which normal administration resumes remaining reconstruction work (PDF p. 9). |
-| ✅ **NDRF's "proactive availability"/"pre-positioning"** | Deploying the specialist response force ahead of a threatening disaster situation, which VisionIAS credits with having "immensely helped minimise damage" (PDF p. 13). |
+| ✅ **Incident Command System (ICS, 2003)** | A management system organising functions/tasks/staff during incidents, emphasising coordination/communication among organisations; deactivated once the rehabilitation phase ends, after which normal administration resumes remaining reconstruction work (PDF p. 9). 📰 India's own adaptation is the **Incident Response System (IRS)**, for which NDMA issued **Guidelines on Incident Response System in July 2010**; use "IRS" for the Indian institutional arrangement and reserve "ICS" for the generic/US-origin model VisionIAS describes. |
+| ✅ **NDRF's "proactive availability"/"pre-positioning"** | Deploying the specialist response force ahead of a threatening disaster situation, which VisionIAS credits with having "immensely helped minimise damage" (PDF p. 13). 📰 NDRF's current operational strength is **16 battalions** with a sanctioned strength of 18,581 (MHA, 22 July 2025). |
+| 📰 **Minimum standards of relief** | NDMA's **Guidelines on Minimum Standards of Relief (February 2016)** set the benchmark for relief-camp provision; the **Guidelines on Temporary Shelters for Disaster-Affected Families (September 2019)** cover the shelter stage — the two documents to name instead of "relief norms" generically. |
 
 ## 3. Risk/problem mechanism
 
@@ -89,11 +90,30 @@ long-term development plans, taking account of future disaster risks")
   supervision with the Director General, NDRF; specialist search-and-
   rescue composition (engineers, technicians, paramedics, dog squads);
   proactive pre-positioning credited with damage minimisation (PDF p.
-  13).
-- ✅ **Aapda Mitra Scheme** — trains community volunteers in the 30 most
-  flood-prone districts of 25 States for relief/rescue tasks "when
-  emergency services are not readily available" (PDF p. 29) — the
-  community-volunteer layer supplementing NDRF's specialist capacity.
+  13). 📰 Current strength: **16 battalions**, sanctioned strength
+  **18,581** (MHA, 22 July 2025). 📰 **s. 44A** of the DM Act (inserted
+  2025) additionally *enables* States to constitute their own specialist
+  **State Disaster Response Force** — the State-tier counterpart NDRF has
+  historically lacked.
+- ✅ **Aapda Mitra Scheme** — trains community volunteers for relief/
+  rescue tasks "when emergency services are not readily available" (PDF
+  p. 29) — the community-volunteer layer supplementing NDRF's specialist
+  capacity; 📰 expanded to a target of **1,00,000 volunteers across 350
+  districts** (MHA, 25 July 2024), with **Yuva Aapda Mitra** a separate
+  youth programme (topic `03`).
+- 📰 **The operational-guideline stack for this phase** — NDMA's
+  **Incident Response System guidelines (July 2010)**, **Minimum
+  Standards of Relief (February 2016)**, **Management of the Dead in the
+  Aftermath of Disaster (August 2010)** with the **Comprehensive Disaster
+  Victim Identification and Management guidelines (January 2026)**,
+  **Temporary Shelters for Disaster-Affected Families (September 2019)**,
+  **Mental Health and Psychosocial Support Services in Disasters
+  (updated December 2023)**, **Emergency Operations Centre establishment
+  and operations (October 2024)**, **Disaster Management Exercises
+  (October 2024)** and **International Humanitarian Assistance and
+  Disaster Relief (HADR) (October 2024)** — naming the specific document
+  for the specific relief function is what distinguishes a precise answer
+  from a generic one.
 
 ## 6. India applications and examples
 
@@ -111,9 +131,15 @@ long-term development plans, taking account of future disaster risks")
 - ✅ The DM cycle's three post-disaster phases: relief, rehabilitation,
   reconstruction (Section 2).
 - ✅ The Incident Command System dates to 2003 and is deactivated once
-  rehabilitation ends.
+  rehabilitation ends; 📰 India's own adaptation is the **Incident
+  Response System**, governed by NDMA's **July 2010** guidelines.
 - ✅ NDRF's search-and-rescue teams include engineers, technicians,
-  paramedics and dog squads.
+  paramedics and dog squads; 📰 NDRF has **16 battalions** (MHA, 22 July
+  2025), and **s. 44A** enables States to raise their own State Disaster
+  Response Force.
+- 📰 Relief benchmarks come from NDMA's **Minimum Standards of Relief
+  (February 2016)** and **Temporary Shelters (September 2019)**
+  guidelines; **Management of the Dead** dates to **August 2010**.
 - ✅ Aapda Mitra trains community volunteers specifically for
   flood/flash-flood/urban-flood relief and rescue.
 - ✅ "Build Back Better" is explicitly a Sendai Priority 4 element,
@@ -135,8 +161,18 @@ long-term development plans, taking account of future disaster risks")
   (engineers, technicians, paramedics, dog squads), distinct from
   Internal Security's operational mandate.
 - ❌ Aapda Mitra's document-period 30-district/25-State coverage is
-  current and complete. -> Verify current scope against NDMA's Aapda
-  Mitra materials (also flagged in topic `03`).
+  current and complete. -> That was the 2016 pilot; the expanded scheme
+  targets **1,00,000 volunteers across 350 districts** (MHA, 25 July
+  2024) — see topic `03`.
+- ❌ "ICS" and "IRS" are interchangeable labels in the Indian context.
+  -> VisionIAS describes the generic **Incident Command System (2003)**;
+  India's institutional arrangement is the **Incident Response System**,
+  governed by NDMA's **July 2010** guidelines. Use IRS when naming the
+  Indian structure.
+- ❌ Relief adequacy is a matter of administrative discretion. -> NDMA's
+  **Guidelines on Minimum Standards of Relief (February 2016)**, issued
+  under the DM Act, set benchmarks for relief-camp provision — cite the
+  standard, not the discretion.
 
 ## 9. 📰 Current official anchor
 

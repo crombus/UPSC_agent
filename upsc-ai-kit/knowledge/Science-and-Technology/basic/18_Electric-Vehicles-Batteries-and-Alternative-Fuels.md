@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims.
 > **Core area:** Vehicle powertrains, battery basics and India’s clean-mobility policy.
 > **Grounded in:** PM E-DRIVE official portal (https://pmedrive.heavyindustries.gov.in/ — verified 16 Jul 2026); PMO PM E-DRIVE approval page (https://www.pmindia.gov.in/en/news_updates/cabinet-approves-pm-electric-drive-revolution-in-innovative-vehicle-enhancement-pm-e-drive-scheme-with-an-outlay-of-rs-10900-crore-over-a-period-of-two-years/ — verified 16 Jul 2026); MHI ACC battery-storage scheme page (https://heavyindustries.gov.in/en/pli-scheme-for-national-programme-on-advanced-chemistry-cell-acc-battery-storage — verified 16 Jul 2026); MNRE National Green Hydrogen Mission page (https://mnre.gov.in/en/national-green-hydrogen-mission/ — verified 16 Jul 2026); MNRE transport-pilot guideline notice (https://mnre.gov.in/en/notice/scheme-guidelines-for-implementation-of-pilot-projects-for-use-of-hydrogen-in-the-transport-sector-under-the-national-green-hydrogen-mission-nghm/ — verified 16 Jul 2026); BIS EV charging overview page and official search references on Indian charging standards (https://www.bis.gov.in/ev-charging-infrastructure-and-standards-an-overview/?lang=en — verified 16 Jul 2026).
+> **Additionally verified 2 Aug 2026:** PM E-DRIVE original notification S.O. 4259(E), 29 Sep 2024 (https://pmedrive.heavyindustries.gov.in/docs/policy_document/257594.pdf); extension to 31 Mar 2028 by S.O. 3626(E), 7 Aug 2025 (https://pmedrive.heavyindustries.gov.in/docs/policy_document/Extension%20of%20Scheme%20till%2031%2003%202028%20dated%2007%2008%202025.pdf); segment-wise dates in S.O. 1617(E), 27 Mar 2026 (https://pmedrive.heavyindustries.gov.in/docs/policy_document/2026-03-27%20e-rickshaw%20%26%20e-2w%20extension%20notification.pdf); MHI Lok Sabha reply of 28 Jul 2026 on incentivised EVs and reimbursement (https://heavyindustries.gov.in/sites/default/files/2026-07/lsauq_1406.pdf); PLI-Auto and PLI-ACC scheme pages (https://heavyindustries.gov.in/en/pli-scheme-automobile-and-auto-component-industry ; https://heavyindustries.gov.in/en/pli-scheme-national-programme-advanced-chemistry-cell-acc-battery-storage); PM-eBus Sewa (https://pm-ebus-sewa.mohua.gov.in/) and its payment-security mechanism (https://heavyindustries.gov.in/en/pm-e-bus-sewa-payment-security-mechanism-psm-scheme).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current/dated development.
 > *Companion: `advanced/18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md`.*
 
@@ -12,9 +13,12 @@
 
 | Vehicle type | Core power source | Main logic |
 |---|---|---|
-| ✅ **Battery Electric Vehicle (BEV)** | Battery + electric motor | Runs only on stored electricity. |
-| ✅ **Hybrid vehicle (HEV/PHEV family)** | Engine + electric system | Combines internal-combustion and electric propulsion. |
-| ✅ **Fuel-cell vehicle (FCV)** | Hydrogen fuel cell + electric motor | Generates electricity onboard from hydrogen. |
+| ✅ **Battery Electric Vehicle (BEV)** | Battery + electric motor | Runs only on stored electricity; **zero tailpipe emissions**. |
+| ✅ **Hybrid Electric Vehicle (HEV)** | Engine + small battery/motor, **charged only by the engine and regenerative braking** | Improves fuel efficiency; **cannot be plugged in**, has no meaningful electric-only range. |
+| ✅ **Plug-in Hybrid Electric Vehicle (PHEV)** | Engine + larger battery, **externally chargeable** | Real electric-only range for short trips, engine for long trips. |
+| ✅ **Fuel-cell Electric Vehicle (FCEV)** | Hydrogen fuel cell + electric motor | Generates electricity onboard from hydrogen; **tailpipe emission is water**. |
+
+> 🔑 **All four are "electric drive" except a pure ICE vehicle.** The exam distinction is **where the electricity comes from**: stored in a battery (BEV), made by the engine (HEV), both (PHEV), or made from hydrogen on board (FCEV).
 
 ```text
 SIMPLE LI-ION CELL IDEA
@@ -32,13 +36,21 @@ electrons move through external circuit during discharge to power the motor
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **BEV** | Vehicle propelled only by an electric motor using electricity stored in a battery pack. |
-| ✅ **Hybrid vehicle** | Vehicle that combines an internal-combustion engine with an electric motor/battery system. |
-| ✅ **Fuel-cell vehicle** | Electric vehicle that generates onboard electricity using hydrogen in a fuel cell. |
+| ✅ **HEV vs PHEV** | An **HEV** cannot be plugged in — its battery is charged by the engine and regenerative braking. A **PHEV** is externally chargeable and has a usable electric-only range. Treating them as one "hybrid" category is a standard error. |
+| ✅ **Fuel-cell vehicle (FCEV)** | Electric vehicle that generates onboard electricity using hydrogen in a **proton-exchange-membrane (PEM)** fuel cell, which operates at low temperature and suits vehicles; **solid-oxide fuel cells (SOFC)** run hot and suit stationary power, not cars. |
 | ✅ **Cathode** | Positive-side electrode material from which lithium ions move during battery discharge in a common lithium-ion setup. |
-| ✅ **Anode** | Negative-side electrode material that stores lithium during charging in a common lithium-ion cell. |
+| ⚠️ **Cathode chemistries** | **NMC/NCA** (nickel-manganese-cobalt / nickel-cobalt-aluminium): higher energy density, longer range, but use **cobalt and nickel** with supply and cost risk. **LFP** (lithium iron phosphate): lower energy density but **cheaper, more thermally stable and cobalt- and nickel-free** — which is why LFP dominates Indian two- and three-wheeler and bus applications. |
+| ✅ **Anode** | Negative-side electrode material — usually **graphite**, increasingly with **silicon** blending for higher capacity — that stores lithium during charging. |
+| ⚠️ **Sodium-ion battery** | Uses abundant sodium instead of lithium; lower energy density but far better resource security and cold-weather behaviour — strategically interesting for India given lithium import dependence. |
+| ⚠️ **Solid-state battery** | Replaces the liquid/gel electrolyte with a solid one, promising higher energy density and much lower fire risk. **Still pre-commercial at automotive scale** — do not describe it as deployed. |
 | ✅ **Electrolyte** | Medium that allows ion movement between electrodes. |
+| ⚠️ **Battery Management System (BMS)** | Electronics that monitor cell voltage, current and temperature, balance cells and prevent overcharge/over-discharge. Most Indian EV fire incidents trace to thermal management and BMS quality, not to lithium as such. |
+| ⚠️ **Battery swapping** | Exchanging a depleted pack for a charged one at a station — attractive for two- and three-wheelers because it removes charging time and decouples battery cost from vehicle cost, but requires **standardised pack form factors and interoperability**. |
 | ✅ **Energy density** | Energy stored per unit weight or volume; crucial for range and weight trade-offs. |
 | ✅ **Alternative fuels** | Fuels other than conventional petrol/diesel, such as ethanol blends, biodiesel, CNG/LNG and hydrogen. |
+| ⚠️ **E20 and flex-fuel** | **E20** = 20% ethanol blended with petrol, India's blending target under the ethanol-blending programme. A **flex-fuel vehicle (FFV)** has an engine and fuel system able to run on a wide range of ethanol-petrol blends, up to very high ethanol content. |
+| ⚠️ **CBG and biodiesel** | **Compressed Bio-Gas** is purified biogas from agricultural residue, press mud or municipal waste, promoted through the **SATAT** initiative. **Biodiesel** is produced by transesterification of vegetable oils or used cooking oil, and is blended with diesel. |
+| ⚠️ **Hydrogen "colours"** | Labels for **how** hydrogen was produced, not for the gas itself: **green** (electrolysis using renewable electricity), **blue** (from fossil fuel with carbon capture), **grey** (from fossil fuel without capture). Only the production route differs — the molecule is identical. |
 
 ## 3. Mechanism / how it works
 
@@ -51,12 +63,16 @@ electrons move through external circuit during discharge to power the motor
 
 ## 4. Institutions and programmes
 
-- ✅ **Ministry of Heavy Industries:** anchor ministry for FAME-era and PM E-DRIVE clean-mobility support.
+- ✅ **Ministry of Heavy Industries (MHI):** anchor ministry for FAME-era and PM E-DRIVE clean-mobility **demand incentives**, and for the **PLI-Auto** and **PLI-ACC** manufacturing schemes.
 - ✅ **PM E-DRIVE portal:** official public interface for the current scheme architecture.
-- ✅ **ACC battery PLI:** industrial-policy instrument for domestic advanced-chemistry-cell manufacturing.
-- ✅ **Ministry of Power / BEE / BIS / CEA:** standards and charging-infrastructure ecosystem.
-- ✅ **MNRE:** green-hydrogen mission and transport-sector pilot guidelines.
-- ✅ **MoPNG:** ethanol-blending and broader transport-fuel diversification agenda.
+- ✅ **ACC battery PLI (₹18,100 crore for 50 GWh):** industrial-policy instrument for domestic advanced-chemistry-cell manufacturing.
+- ✅ **MoRTH:** vehicle **type approval, safety and emission norms** under the Motor Vehicles Act and Central Motor Vehicles Rules (CMVR) — the regulator of what may legally be sold and driven.
+- ✅ **Ministry of Power:** issues the **EV charging infrastructure guidelines and standards**; **BIS** notifies charging-connector and safety standards; **CEA** governs electricity-system and safety regulations; **BEE** handles efficiency labelling. These are four distinct roles, not one "standards ecosystem."
+- ✅ **MoHUA:** runs **PM-eBus Sewa** for city electric buses (a separate ministry and a separate scheme from PM E-DRIVE).
+- ✅ **MNRE:** National Green Hydrogen Mission and transport-sector pilot guidelines.
+- ✅ **MoPNG:** ethanol-blending programme, **SATAT** for compressed bio-gas, and broader transport-fuel diversification.
+- ✅ **MoEFCC:** **Battery Waste Management Rules, 2022**, which impose **Extended Producer Responsibility (EPR)** on producers for collection, recycling and recovery of battery materials — the regulatory answer to the "what happens to used EV batteries?" question.
+- ✅ **NITI Aayog:** policy analysis and roadmap work (e.g. battery swapping and mobility transition studies) — an **advisory** body, not an implementing ministry.
 
 ## 5. Indian applications, examples and limitations
 
@@ -71,31 +87,40 @@ electrons move through external circuit during discharge to power the motor
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ A **BEV** is different from a **hybrid**, and both are different from a **fuel-cell vehicle**.
-- ✅ A lithium-ion cell fundamentally involves **cathode, anode and electrolyte**.
-- ✅ The PM E-DRIVE portal says the scheme was notified on **29 Sep 2024** and implemented from **1 Oct 2024 to 31 Mar 2026**.
-- ✅ The PMO approval page for PM E-DRIVE is dated **11 Sep 2024**.
-- ✅ The ACC battery-storage PLI is aimed at domestic advanced-chemistry-cell manufacturing capacity rather than only vehicle purchase subsidies.
+- ✅ A **BEV** is different from an **HEV** and a **PHEV** (only the PHEV can be plugged in), and all three differ from an **FCEV**.
+- ✅ A lithium-ion cell fundamentally involves **cathode, anode and electrolyte**; **NMC/NCA** chemistries use cobalt and nickel while **LFP** does not.
+- ✅ **PM E-DRIVE:** approved by the Cabinet on **11 Sep 2024**, notified by **S.O. 4259(E) dated 29 Sep 2024**, outlay **₹10,900 crore**, original period **1 Oct 2024 to 31 Mar 2026** — and **extended to 31 March 2028 by S.O. 3626(E) dated 7 Aug 2025**, within the same outlay, expressly **subsuming EMPS-2024**.
+- ✅ **Scheme chronology:** FAME-I → FAME-II (ended **31 Mar 2024**) → **EMPS-2024** (bridge scheme, Apr-Sep 2024) → **PM E-DRIVE** (from 1 Oct 2024). **PM-eBus Sewa** (MoHUA, 10,000 e-buses) and the **PM e-Bus Sewa Payment Security Mechanism** (MHI, ₹3,435.33 crore) are separate instruments.
+- ✅ The ACC battery-storage PLI (**₹18,100 crore for 50 GWh**) is aimed at domestic advanced-chemistry-cell manufacturing capacity rather than only vehicle purchase subsidies; **PLI-Auto** carries an outlay of **₹25,938 crore**.
 - ✅ MNRE separately issued pilot-project guidelines for **green hydrogen in the transport sector**.
 - ✅ Official Indian charging discussions refer to Ministry of Power guidelines and BIS-notified EV charging standards; Bharat AC-001/DC-001 belong to India’s charging-standard vocabulary.
-- ✅ Ethanol blending and E20 belong to the **fuel-transition side of mobility**, not to battery technology itself.
+- ✅ **Battery Waste Management Rules, 2022** apply **Extended Producer Responsibility** to all battery types, with recycling and recovery targets.
+- ✅ Ethanol blending and **E20** belong to the **fuel-transition side of mobility**, not to battery technology itself; a **flex-fuel vehicle** can run on a wide range of ethanol blends.
+- ✅ **Hydrogen colours describe the production route, not the gas** — green (renewable electrolysis), blue (fossil + carbon capture), grey (fossil, uncaptured).
 
 ## 7. UPSC traps
 
-- ❌ **Every electric-looking vehicle is a BEV.** -> Hybrids and fuel-cell vehicles are distinct powertrain categories.
+- ❌ **Every electric-looking vehicle is a BEV.** -> HEVs, PHEVs and FCEVs are distinct powertrain categories.
+- ❌ **HEV and PHEV are the same.** -> Only the PHEV can be charged from an external source and driven meaningfully on electricity alone.
 - ❌ **Fuel-cell vehicles are non-electric.** -> They are electric-drive vehicles; they simply generate electricity onboard from hydrogen.
-- ❌ **Battery chemistry is only about lithium as a raw mineral.** -> The exam may ask about the cell architecture: cathode, anode and electrolyte.
-- ❌ **PM E-DRIVE is the same thing as the old FAME scheme with only a renamed title.** -> It is a successor scheme with its own portal, notification and implementation period.
+- ❌ **Battery chemistry is only about lithium as a raw mineral.** -> Cathode chemistry decides which minerals matter: **LFP uses neither cobalt nor nickel**, while NMC/NCA do.
+- ❌ **PM E-DRIVE is the same thing as the old FAME scheme with only a renamed title.** -> It is a successor scheme with its own notification, and it **subsumed EMPS-2024** while FAME-II had already ended on 31 Mar 2024.
+- ❌ **PM E-DRIVE ended on 31 March 2026.** -> It was **extended to 31 March 2028**; but individual segments have their own end dates (registered e-2W incentives ran to **31 Jul 2026**; the e-3W (L5) segment closed on **26 Dec 2025** after reaching its target; e-rickshaw/e-cart runs to 31 Mar 2028).
 - ❌ **Clean mobility means only renewable-energy generation.** -> Vehicle technology, storage, infrastructure and alternative transport fuels are separate analytical layers.
+- ❌ **BEVs are automatically zero-emission.** -> They are zero **tailpipe** emission; lifecycle emissions depend on the **grid mix**, battery manufacturing and end-of-life recycling.
+- ❌ **Solid-state batteries are already in Indian EVs.** -> They remain pre-commercial at automotive scale.
 
 ## 8. 📰 Current anchor
 
 - 📰 **11 Sep 2024 | PMO | Status: approved.** Union Cabinet approved PM E-DRIVE with ₹10,900 crore outlay over two years.
-- 📰 **29 Sep 2024 | PM E-DRIVE portal / Gazette reference | Status: notified.** Portal states notification S.O. 4259(E) dated 29 Sep 2024 and implementation from 1 Oct 2024.
+- 📰 **29 Sep 2024 | Gazette S.O. 4259(E) | Status: notified.** Implementation from 1 Oct 2024 to 31 Mar 2026 as originally notified.
+- 📰 **07 Aug 2025 | Gazette S.O. 3626(E) | Status: extended.** PM E-DRIVE extended to **31 March 2028** within the same ₹10,900 crore ceiling, expressly subsuming **EMPS-2024**.
+- 📰 **26 Dec 2025 | e-3W (L5) segment closed** after reaching its target; **27 Mar 2026 | S.O. 1617(E)** set segment-wise dates — registered **e-2W** incentives to **31 Jul 2026** and **e-rickshaw/e-cart** to **31 Mar 2028**.
+- 📰 **28 Jul 2026 | Lok Sabha reply | Status: implementation update.** MHI reported **23,22,878 EVs incentivised** and **₹2,281.94 crore reimbursed to OEMs as of 22 Jul 2026**, reaffirming the 31 Mar 2028 horizon.
 - 📰 **14 Feb 2024 | MNRE | Status: guideline issued.** Scheme guidelines were issued for green-hydrogen pilot projects in the transport sector under NGHM.
-- 📰 **16 Jul 2026 | PM E-DRIVE portal access date | Status: portal live.** The scheme portal remained active and publicly accessible.
+- 📰 **Ongoing | PLI-Auto (₹25,938 crore, incentive period FY2022-23 to FY2026-27) and PLI-ACC (₹18,100 crore, 50 GWh)** continue as the manufacturing-side instruments; **PM-eBus Sewa (MoHUA)** targets 10,000 e-buses with an estimated ₹57,613 crore including ₹20,000 crore central support.
 
-*Current as of 16 Jul 2026; verify for later updates.*
+*Current as of 16 Jul 2026, re-verified 2 Aug 2026; segment-wise scheme dates change frequently — check the PM E-DRIVE portal before quoting.*
 
 ## 9. PYQ application
 

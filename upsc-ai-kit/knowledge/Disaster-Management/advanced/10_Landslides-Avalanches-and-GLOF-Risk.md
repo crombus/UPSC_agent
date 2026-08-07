@@ -181,9 +181,30 @@ specifically to the Himalayan cryosphere.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **GSI's National Landslide Forecasting Centre/Bhooskhalan platform**,
-  checked as of 18 July 2026, is the correct current anchor for
-  landslide-monitoring and forecasting-service status.
+- 📰 **GSI's National Landslide Forecasting Centre and the Bhusanket/
+  Bhooskhalan platforms** are the correct current anchor for
+  landslide-monitoring and forecasting-service status: NLFC inaugurated
+  **19 July 2024**; Regional Landslide Forecasting System covering **21
+  districts — 4 operational, 17 experimental** — as of December 2025;
+  National Landslide Susceptibility Mapping completed over **~4.3 lakh
+  sq km in 19 States/UTs**.
+- ⚠️ **The operational/experimental split is the analytically important
+  fact, not the district count.** Only 4 of 21 districts had operational
+  forecasts; the remaining 17 were experimental. An advanced answer
+  should therefore avoid the "India now has landslide early warning"
+  formulation and say instead that India has moved from *susceptibility
+  mapping* (a static, where-question answered over 4.3 lakh sq km) to
+  *forecasting* (a dynamic, when-question answered operationally in four
+  districts) — the gap between the two being the real measure of
+  capability.
+- 📰 For **GLOF**, the current anchors are NDMA's **GLOF Guidelines
+  (October 2020)** and the **National GLOF Risk Mitigation Programme**
+  (₹150 crore: ₹135 crore NDMF + ₹15 crore State; Arunachal Pradesh,
+  Himachal Pradesh, Sikkim, Uttarakhand), against **195 high-risk lakes**
+  officially listed as of 4 December 2024. ⚠️ Compare the programme
+  outlay with the number of high-risk lakes before describing coverage as
+  adequate; and note the list is described as **dynamic**, so any lake
+  count must carry its date.
 - 📰 **DGRE's (DRDO) current avalanche-warning bulletins/services** are
   the correct current anchor for any avalanche-warning-coverage or
   forecast-accuracy claim, distinct from GSI's landslide anchor above.

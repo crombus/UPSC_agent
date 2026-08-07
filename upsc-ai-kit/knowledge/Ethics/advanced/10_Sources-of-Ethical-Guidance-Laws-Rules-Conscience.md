@@ -50,9 +50,10 @@ conscience-driven dissent through lawful, accountable institutional mechanisms.
 
 ### The Fulbright warning — deeper reading
 
-- ✅ ARC 2.2.5 cites Senator Fulbright's concern about officials who "do not directly and blatantly
-  sell the favors of their offices for money" but instead "accept favors" that "offend the spirit of
-  the law but do not violate its letter."
+- ✅ ARC **Box 2.3** (sourced to the US Senate Ethics Manual, 2003) cites Senator Fulbright's
+  concern about officials who "do not directly and blatantly sell the favors of their offices for
+  money and so place themselves within the penalties of the law", but instead "under the guise of
+  friendship, accept favors, which offend the spirit of the law but do not violate its letter."
 - ⚠️ Advanced point: this identifies a **structural gap** between legality and ethics that cannot be
   closed by drafting ever-more-detailed rules — because any finite rule-set will always have edge
   cases exploitable in letter while violating spirit. The gap is closed only by cultivating
@@ -63,10 +64,16 @@ conscience-driven dissent through lawful, accountable institutional mechanisms.
 
 ### Constitutional morality — genealogy and precise content
 
-- ⚠️ The term draws on B.R. Ambedkar's invocation (Constituent Assembly Debates, 4 November 1948,
-  quoting historian George Grote) of "constitutional morality" as a *paramount reverence* for
-  constitutional forms combined with tolerance for opposition — deliberately distinguished from
-  unreflective popular sentiment.
+- ⚠️ The term draws on B.R. Ambedkar's invocation in the Constituent Assembly on **4 November 1948**,
+  where he quoted the historian George Grote's definition of constitutional morality as "a paramount
+  reverence for the forms of the Constitution, enforcing obedience to authority acting under and
+  within these forms yet combined with the habit of open speech, of action subject only to definite
+  legal control, and unrestrained censure of those very authorities as to all their public acts",
+  together with "a perfect confidence in the bosom of every citizen amidst the bitterness of party
+  contest that the forms of the Constitution will not be less sacred in the eyes of his opponents
+  than in his own." Ambedkar's own point was that its "diffusion... throughout the whole" society is
+  "the indispensable condition of a government at once free and peaceable" — and that in India
+  "democracy is only a top-dressing on an Indian soil, which is essentially undemocratic."
 - ✅ 2025 GS-IV Q1(b)'s framing ("not a natural sentiment but a product of civil education and
   adherence to the rule of law") matches this genealogy precisely: it must be taught/cultivated, not
   assumed to arise spontaneously from majority preference or individual instinct.
@@ -91,10 +98,15 @@ conscience-driven dissent through lawful, accountable institutional mechanisms.
 - ⚠️ The gap the ARC/Fulbright identify (letter vs spirit of law) is precisely why the ARC
   recommends a *Code of Ethics* in addition to a Code of Conduct (see `09`, `16`) — ethics codes are
   designed to reach conduct that technically satisfies rules but violates their spirit.
-- ⚠️ India's whistleblower-protection framework (statutorily enacted in 2014 but, as of the current
-  verified status, still not brought into force — see `19`) is the specific institutional channel
+- ⚠️ India's whistleblower-protection framework — the Whistle Blowers Protection Act, 2014 received
+  assent on **9 May 2014** but, on the verified position as at **4 August 2026**, no commencement
+  notification has been traced, so it is enacted but **not in force**; the Whistle Blowers
+  Protection (Amendment) Bill, 2015, passed by the Lok Sabha on 13 May 2015, lapsed with the
+  dissolution of the Sixteenth Lok Sabha (see `19`). The Act is the specific institutional channel
   intended to legitimise conscience-driven disclosure without requiring resignation or unlawful
-  leaking; its non-implementation leaves a real gap in the institutional-channel hierarchy above.
+  leaking; its non-commencement leaves a real gap in the institutional-channel hierarchy above,
+  filled only by the CVC's non-statutory PIDPI Resolution (Resolution No. 371/12/2002-AVD-III,
+  21 April 2004).
 
 ## 5. Indian applications and boundary cases
 
@@ -115,18 +127,18 @@ conscience-driven dissent through lawful, accountable institutional mechanisms.
   values, not free-floating moral intuition.
 - ⚠️ The institutional-channel hierarchy for dissent presupposes reasonably functioning internal
   escalation and whistleblower-protection mechanisms; where these are weak or absent (as with
-  India's still-unenforced 2014 Whistle Blowers Protection Act), conscience-driven officials face a
-  genuine, unresolved practical dilemma between silence and unprotected disclosure.
+  India's 2014 Whistle Blowers Protection Act, enacted but never commenced), conscience-driven
+  officials face a genuine, unresolved practical dilemma between silence and unprotected disclosure.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ B.R. Ambedkar invoked "constitutional morality" in the Constituent Assembly (4 November 1948),
-  drawing on historian George Grote's usage, to describe reverence for constitutional forms combined
-  with tolerance of opposition.
-- ✅ ARC 2.2.5's Fulbright citation is drawn from the US Senate Ethics Manual (2003).
+- ✅ B.R. Ambedkar invoked "constitutional morality" in the Constituent Assembly on **4 November
+  1948**, quoting the historian George Grote's definition, to describe reverence for constitutional
+  forms combined with open speech, legally bounded action and unrestrained censure of authority.
+- ✅ ARC **Box 2.3**'s Fulbright citation is drawn from the US Senate Ethics Manual (2003).
 - ✅ The Whistle Blowers Protection Act, 2014 — the intended institutional channel for lawful
-  conscience-driven disclosure in India — remains not brought into force as of the current verified
-  status (see `19`).
+  conscience-driven disclosure in India — received assent on 9 May 2014 but has **not been brought
+  into force** on the position verified as at 4 August 2026 (see `19`).
 
 ## 8. Advanced Prelims traps
 
@@ -139,17 +151,17 @@ conscience-driven dissent through lawful, accountable institutional mechanisms.
   ethically salient.
 - ❌ Whistleblowing is fully legally protected in India today. -> The 2014 Act granting such
   protection has not been brought into force; interim protection operates only through the CVC's
-  administrative PIDPI Resolution (2004), a weaker, non-statutory mechanism (see `19`).
+  administrative PIDPI Resolution of 21 April 2004, a weaker, non-statutory mechanism (see `19`).
 
 ## 9. 📰 Current-anchor application
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 Whistle Blowers Protection Act, 2014 remains not brought into force; CVC's PIDPI Resolution (2004) is the operative interim mechanism | Shows a live institutional gap in the conscience-to-lawful-channel hierarchy — directly usable to answer "what protects a conscientious objector in Indian public service today." |
+| 📰 Whistle Blowers Protection Act, 2014 (assent 9 May 2014) not brought into force as at 4 August 2026; the 2015 Amendment Bill lapsed; CVC's PIDPI Resolution of 21 April 2004 remains the operative interim mechanism | Shows a live institutional gap in the conscience-to-lawful-channel hierarchy — directly usable to answer "what protects a conscientious objector in Indian public service today." |
 
 ## 10. PYQ-based analytical application
 
-- ✅ **2015 GS-IV** directly asks how law and ethics regulate conduct and how
+- ✅ **2016 GS-IV Q5** directly asks how law and ethics regulate conduct and how
   their approaches differ. A strong answer distinguishes external,
   state-backed minimum compliance from conscience/socially grounded ethical
   aspiration, while acknowledging overlap and using one legal-but-unethical

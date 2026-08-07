@@ -36,17 +36,36 @@ steps will be.
 
 ## 3. ✅ Exam facts / source basis
 
-- 2024 instruction (exact): "Write two essays, choosing one topic from
-  each of the following Sections A and B, in about 1000-1200 words
-  each:" — printed with "(125 × 2 = 250)." Section B continues numbering
-  at 5–8.
-- 2025 instruction: "Write two essays, choosing one topic from each of
-  the following Sections A and B, in about 1000-1200 words each:"
-- Both years display **four prompts per Section**, and require **one
-  topic chosen from each Section** — never two from the same Section.
-- Neither year's paper names an author for any prompt, and neither
-  supplies a marking rubric beyond the word-count/marks instruction
-  above. See `../PYQ-Corpus-2013-2025.md` for all 100 prompts.
+Only the 2024 and 2025 papers are held locally
+(`books/mains/`); everything below is read off those PDFs.
+
+- ✅ **2024 instruction, exactly as printed:** "Write two essays, choosing
+  one topic from each of the following Sections A and B, in about
+  1000-1200 words each:" followed by the marks line "(125 × 2 = 250)".
+- ❌ **2025 instruction is garbled in the printed paper:** "Write two
+  essays, choosing one topic from each of the following Sections A as in
+  about 1000 – 1200 words each:". ✅ The requirement is still
+  unambiguous from the paper's Hindi line and its two printed section
+  headings — two essays, one from each of Sections A and B, about
+  1000–1200 words each — but do not quote the 2025 line as clean English.
+- ✅ **Printed numbering is not a stable convention.** 2024 restarts
+  Section B at 1–4; 2025 continues Section B at 5–8. This folder's
+  `B5`–`B8` labels are an internal reference scheme, not the 2024 paper's
+  printed numbers.
+- ✅ Both years display **four prompts per Section**, print each topic
+  **bilingually (Hindi then English)**, and require **one topic chosen
+  from each Section** — never two from the same Section.
+- ❌ **Not printed in either locally held paper:** any "Time Allowed"
+  header, a 2025 marks line, an author beside any prompt, or any marking
+  rubric/weightage. ⚠️ Confirm the duration from the official paper or
+  admit card; this folder deliberately asserts none.
+- See `../PYQ-Corpus-2013-2025.md` for all 100 prompts and each year's
+  verification level (2024–2025 verified locally; 2013–2023 not).
+
+⚠️ **Practical consequence for choice:** because the paper's own numbering
+and even its instruction line vary year to year, spend the first reading
+confirming the *structural* rule (one from each Section) rather than
+assuming any layout you have seen in a mock paper.
 
 ## 4. The central idea and common misreading
 

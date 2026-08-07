@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims.
 > **Core area:** Core biotechnology concepts, DBT institutional architecture and innovation missions.
 > **Grounded in:** BIRAC home page (`https://www.birac.nic.in/`, verified 2026-07-16); BIRAC biomanufacturing initiative page (`https://www.birac.nic.in/biomanufacturing.php`, verified 2026-07-16); PIB BioE3 approval release of 24 Aug 2024; PIB BioE3 aims/objectives release of 27 Nov 2024; PIB implementation review of 21 Jul 2025; official government listing of the National Biotechnology Development Strategy [2020-2025] identified through web verification on 2026-07-16.
+> **Additionally verified 2 Aug 2026:** BioE3 Cabinet approval of 24 Aug 2024 and its six thematic sectors (https://birac.nic.in/biomanufacturing.php ; https://bmi.dbt.gov.in/biomanufacturing-initiative.php); DBT press-release index recording Bio-RIDE (19 Sep 2024) and completion of 10,000 GenomeIndia sequences (28 Feb 2024) (https://dbt.gov.in/data-view?name=press-release); BIRAC mandate page (https://birac.nic.in/desc_new.php?id=89). No official successor to the National Biotechnology Development Strategy 2021-25 was located.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `../advanced/13_Biotechnology-Fundamentals-and-DBT-Missions.md`. Forward links: `14_Genetic-Engineering-GM-Crops-and-CRISPR.md`, `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md`.*
 
@@ -46,18 +47,25 @@ Products -> seeds, diagnostics, vaccines, enzymes, biofuels, bioremediation tool
 ## 3. Mechanism / how it works
 
 1. Biotechnology begins by identifying a useful gene, enzyme, cell line, microbial strain or tissue system.
-2. In **recombinant DNA technology**, a target gene or construct is inserted into a host system so that the host expresses the desired trait or molecule.
-3. In **fermentation/bioprocessing**, microbes or cells are grown in controlled vessels where nutrients, temperature, pH and oxygen are managed to maximise output.
-4. In **tissue culture**, cells or tissues are grown aseptically for propagation, regeneration, screening or research.
-5. In **molecular diagnostics**, DNA/RNA/protein signatures are amplified or detected to identify pathogens, mutations or biomarkers.
-6. Translation from lab to market usually needs incubation, regulatory support, pilot facilities, funding and industry linkage — this is where DBT and BIRAC become important.
+2. **The central dogma sets the ground rules:** DNA → (transcription) → RNA → (translation) → protein. Almost every biotechnology technique intervenes at one of these three steps, which is why the dogma is worth stating once in an answer.
+3. In **recombinant DNA technology**, a target gene is cut out with **restriction endonucleases** (which recognise specific palindromic sequences), joined into a **vector** (a plasmid, bacteriophage or Ti plasmid) using **DNA ligase**, introduced into a host cell (transformation), and selected using **marker genes** — so that the host expresses the desired trait or molecule. **Human insulin (recombinant, expressed in *E. coli*)** is the classic first-generation product.
+4. **PCR (Polymerase Chain Reaction)** amplifies a target DNA sequence through repeated cycles of **denaturation → annealing of primers → extension by a thermostable DNA polymerase (Taq)**, doubling the copies each cycle. **RT-PCR** first converts RNA into cDNA, which is why it is the standard for RNA viruses.
+5. In **fermentation/bioprocessing**, microbes or cells are grown in controlled vessels where nutrients, temperature, pH and oxygen are managed to maximise output — the step that converts a laboratory construct into an industrial product, and the specific bottleneck BioE3 targets.
+6. In **tissue culture**, cells or tissues are grown aseptically on nutrient media with plant hormones (auxin/cytokinin balance). It works because of plant cell **totipotency** — the ability of a single somatic cell to regenerate a whole plant — giving **micropropagation** of genetically uniform, disease-free planting material.
+7. **Stem cells** are undifferentiated cells capable of self-renewal and differentiation: **embryonic** (pluripotent), **adult/tissue-specific** (multipotent) and **induced pluripotent stem cells (iPSCs)**, which are adult cells reprogrammed to a pluripotent state — the route that avoids embryo-related ethical objections.
+8. **Gene therapy** delivers a functional gene (or corrects a defective one) into a patient's cells, usually with a viral vector. **Somatic** gene therapy affects only the treated individual; **germline** modification would be heritable and is not permitted in India.
+9. In **molecular diagnostics**, DNA/RNA/protein signatures are amplified or detected to identify pathogens, mutations or biomarkers.
+10. Translation from lab to market usually needs incubation, regulatory support, pilot facilities, funding and industry linkage — this is where DBT and BIRAC become important.
 
 ## 4. Institutions and programmes
 
-- ✅ **Department of Biotechnology (DBT):** central department driving biotechnology research, mission design and policy support.
-- ✅ **BIRAC:** DBT-set-up public sector enterprise funding start-ups, incubators and translational innovation.
-- ✅ **BioE3 Policy:** approved framework for high-performance biomanufacturing with emphasis on economy, environment and employment.
-- ✅ **National Biotechnology Development Strategy (2020-2025):** overarching strategic direction for translation, capability building and bioeconomy growth.
+- ✅ **Department of Biotechnology (DBT):** central department under the **Ministry of Science and Technology**, driving biotechnology research, mission design and policy support; it also administers a network of **autonomous institutes** (e.g. NII, NIBMG, THSTI, inStem, NABI, RCB).
+- ✅ **BIRAC:** a DBT-established **not-for-profit Section 8 public sector enterprise** acting as an industry-academia interface — funding start-ups, incubators, translational innovation, technology transfer and IP management. It is an **interface/funding agency**, not a regulator.
+- ⚠️ **Keep the research bodies apart:** **DBT** (biotechnology), **ICMR** (biomedical research under MoHFW), **CSIR** (industrial/multidisciplinary R&D under DSIR), **ICAR** (agricultural research under DARE), **CDSCO** (drug and vaccine *approval* regulator), **GEAC** (GMO environmental-release regulator under MoEFCC). Research funding, research performance and regulatory approval are three different functions.
+- ✅ **BioE3 Policy:** approved by the Union Cabinet on **24 Aug 2024** — *Biotechnology for Economy, Environment and Employment: Fostering High Performance Biomanufacturing* — organised around **six thematic sectors**: bio-based chemicals and enzymes; functional food and smart proteins; precision biotherapeutics; climate-resilient agriculture; carbon capture and its utilisation; and futuristic marine and space research.
+- ✅ **Bio-RIDE (Biotechnology Research Innovation and Entrepreneurship Development):** DBT's umbrella scheme approved on **19 Sep 2024**, consolidating research, industry-academia translation and bio-manufacturing support.
+- ⚠️ **National Biotechnology Development Strategy (2021-2025):** the earlier strategic frame for translation, capability building and bioeconomy growth. **Its period has elapsed and no official successor was located at the verification date** — cite it as historical, not current, policy.
+- ✅ **GenomeIndia:** DBT announced completion of sequencing of **10,000 genomes from the Indian population on 28 Feb 2024** — the reference dataset for population-specific genomics, pharmacogenomics and rare-disease work.
 - ✅ **National Biopharma Mission / biomanufacturing initiatives under BIRAC-DBT architecture:** support translational and product-oriented biotechnology.
 - ✅ **BioNEST / incubation and translation ecosystem under BIRAC:** supports start-ups and innovation pipelines.
 
@@ -79,6 +87,12 @@ Products -> seeds, diagnostics, vaccines, enzymes, biofuels, bioremediation tool
 - ✅ BioE3 was approved by the Union Cabinet on **24 Aug 2024**.
 - ✅ PIB’s 27 Nov 2024 official note described BioE3 as a framework for fostering high-performance biomanufacturing.
 - ✅ PIB’s 21 Jul 2025 review stated that the first round of DBT-BIRAC joint calls under the policy drew over 2,000 proposals.
+- ✅ **BioE3's six thematic sectors:** bio-based chemicals and enzymes; functional food and smart proteins; precision biotherapeutics; climate-resilient agriculture; carbon capture and its utilisation; and futuristic marine and space research.
+- ✅ **Bio-RIDE** — DBT's consolidated umbrella scheme — was approved on **19 Sep 2024**.
+- ✅ **GenomeIndia:** DBT announced completion of **10,000 genome sequences from the Indian population on 28 Feb 2024**.
+- ✅ **Central dogma:** DNA → RNA → protein; **PCR** amplifies DNA through denaturation-annealing-extension cycles using **Taq polymerase**; **restriction enzymes** cut DNA at specific sites and **ligase** joins it.
+- ✅ **Recombinant human insulin** was the first major rDNA pharmaceutical; **Agrobacterium tumefaciens' Ti plasmid** is the classic natural vector for plant transformation.
+- ✅ **Plant totipotency** underlies tissue culture and micropropagation; **iPSCs** are adult cells reprogrammed to pluripotency.
 - ✅ Biotechnology applications span agriculture, health, industry and environment; UPSC should not reduce the field to GM crops alone.
 - ✅ Fermentation/bioprocessing and molecular diagnostics are core biotechnology tools even when no transgenic crop is involved.
 
@@ -89,13 +103,19 @@ Products -> seeds, diagnostics, vaccines, enzymes, biofuels, bioremediation tool
 - ❌ **Fermentation is only about alcohol production.** -> It is a broad industrial bioprocess platform for multiple biologically derived products.
 - ❌ **Tissue culture and recombinant DNA are identical.** -> Tissue culture is a sterile growth technique; recombinant DNA is a gene-manipulation technique.
 - ❌ **DBT’s role ends at academic research grants.** -> Mission-mode translation, entrepreneurship and biomanufacturing support are also central.
+- ❌ **DBT is a State-government body or a ministry.** -> It is a **central Department under the Ministry of Science and Technology**.
+- ❌ **DBT, ICMR, ICAR, CSIR and CDSCO are interchangeable.** -> Four are research/funding bodies in different domains; **CDSCO is the statutory approval regulator** for drugs and vaccines, and **GEAC** the regulator for environmental release of GMOs.
+- ❌ **"2,000 proposals received" proves BioE3 is delivering.** -> Proposals are an **input**; funded projects, pilot plants and marketed products are outputs. Do not upgrade one to the other.
+- ❌ **The National Biotechnology Development Strategy 2021-2025 is India's current strategy.** -> Its period has elapsed; no successor was located at the verification date.
 
 ## 8. 📰 Current anchor
 
-- 📰 **24 Aug 2024 | approved:** The Union Cabinet approved the BioE3 policy for fostering high-performance biomanufacturing.
+- 📰 **28 Feb 2024 | completed:** DBT announced completion of sequencing of **10,000 genomes** from the Indian population under GenomeIndia.
+- 📰 **24 Aug 2024 | approved:** The Union Cabinet approved the BioE3 policy for fostering high-performance biomanufacturing, with six thematic sectors.
+- 📰 **19 Sep 2024 | approved:** Cabinet approved **Bio-RIDE**, consolidating DBT's research, innovation and entrepreneurship schemes.
 - 📰 **27 Nov 2024 | policy clarified / under implementation:** PIB detailed the aims and objectives of BioE3, linking it to green growth, innovation and biomanufacturing.
-- 📰 **21 Jul 2025 | implementation underway:** PIB reported that the first round of DBT-BIRAC joint calls under the policy received more than 2,000 proposals.
-- 📰 **Current as of 2026-07-16:** BIRAC’s official site and biomanufacturing pages continue to present the institution as DBT’s key translational and innovation-support arm.
+- 📰 **21 Jul 2025 | implementation underway:** PIB reported that the first round of DBT-BIRAC joint calls under the policy received more than 2,000 proposals. **Status: proposal-stage input metric**, not funded output or installed biomanufacturing capacity.
+- 📰 **Current as of 2026-07-16 (re-verified 2 Aug 2026):** BIRAC’s official site and biomanufacturing pages continue to present the institution as DBT’s key translational and innovation-support arm. ⚠️ **The National Biotechnology Development Strategy 2021-2025 period has expired and no official successor was located.**
 
 ## 9. PYQ application
 

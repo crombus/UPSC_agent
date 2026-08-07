@@ -55,9 +55,10 @@ surviving a *realistic pressure scenario*, not merely define it.
 ### Impartiality/non-partisanship in the political-executive interface
 
 - ⚠️ The sharpest real-world test of non-partisanship is the arbitrary-transfer problem examined in
-  the ARC's chapter on Political Executive-Civil Service relations (cross-linked in `11`, `20`) —
-  where "the transfer is the politician's basic weapon of control over the bureaucracy" (ARC 9.4,
-  quoting Robert Wade's study of Andhra Pradesh).
+  the ARC's chapter on Political Executive-Civil Service relations (cross-linked in `11`, `21`) —
+  where, in Robert Wade's study of Andhra Pradesh quoted at ARC 9.4, "the transfer is the
+  politicians' basic weapon of control over the bureaucracy and thus the lever for
+  surplus-extraction from the clients of the bureaucracy."
 - ⚠️ A civil servant's non-partisanship is only as durable as the institutional protection (fixed
   tenure norms, Civil Services Board-type mechanisms) against this transfer leverage — a point that
   elevates non-partisanship from a personal virtue to an institutional-design problem.
@@ -82,11 +83,12 @@ surviving a *realistic pressure scenario*, not merely define it.
 
 ## 4. Institutional and reform architecture
 
-- 📰 Mission Karmayogi/NPCSCB (2020-ongoing) is the primary current institutional vehicle
-  operationalising these values through competency mapping (FRACs), the iGOT digital-learning
-  platform and competency-based learning — converting "foundational values"
-  from an abstract syllabus phrase into a trainable HR input. Do not assert a
-  general APAR linkage without a service-specific DoPT order.
+- 📰 Mission Karmayogi/NPCSCB (Cabinet approval 2 September 2020; Capacity Building Commission
+  constituted 1 April 2021) is the primary current institutional vehicle operationalising these
+  values through competency mapping (FRACs), the iGOT-Karmayogi digital-learning platform and
+  competency-based learning — converting "foundational values" from an abstract syllabus phrase
+  into a trainable HR input. Do not assert a general APAR linkage without a service-specific
+  DoPT order.
 - ⚠️ Civil Services Board-type mechanisms (recommended by the ARC and the National Commission to
   Review the Working of the Constitution — see `11`, `21`) institutionally protect non-partisanship
   by insulating routine transfer/posting decisions from unmediated political discretion.
@@ -117,7 +119,11 @@ surviving a *realistic pressure scenario*, not merely define it.
   with, the Nolan Committee's seven principles of public life (see `09` for the exact seven).
 - ✅ ARC 9.4-9.13 (Political Executive-Civil Service relations chapter) documents the "transfer
   industry" as the structural threat to non-partisanship, citing the Fifth Pay Commission's
-  recommendation of a minimum three-to-five-year tenure.
+  recommendation of a minimum three-to-five-year tenure (two-to-three years for especially
+  sensitive posts).
+- ⚠️ Aptitude, attitude and value are three different objects of assessment: capacity to perform,
+  evaluative stance toward a specific object, and general cross-situational standard respectively
+  (see `03`).
 
 ## 8. Advanced Prelims traps
 

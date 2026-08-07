@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims *(still strongly Prelims-heavy, but analytically useful for GS-III technology answers)*.
 > **Core area:** Foundational physics as the base layer of energy systems, semiconductor strategy, instrumentation, radiation technologies and precision manufacturing.
 > **Grounded in:** NCERT Class IX-X Science; NCERT Class XI-XII Physics; Nobel Physics 2023 press release (https://www.nobelprize.org/prizes/physics/2023/press-release/); ISM Semicon 2.0 page (https://ism.gov.in/schemes/semicon2.0/index); SEMICON India 2026 page (https://ism.gov.in/semicon-india-2026) — verified 16 Jul 2026.
+> **Additionally verified 2 Aug 2026:** Nobel Prize in Physics 2024 press release (https://www.nobelprize.org/prizes/physics/2024/press-release/), cited for the 8 Oct 2024 current anchor.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `basic/21_General-Science-Physics-Fundamentals.md`.*
 
@@ -52,8 +53,8 @@ basic principle -> device -> system -> industry -> national capability
 
 1. ✅ In solids, electrons occupy energy bands; the gap between valence and conduction behavior determines whether a material behaves as conductor, semiconductor or insulator.
 2. ✅ Pure semiconductors conduct modestly; doping introduces controlled charge carriers and creates p-type or n-type behavior.
-3. ✅ Joining differently doped regions creates junction behavior used in diodes and transistors.
-4. ✅ Transistors allow switching, amplification and logic operations, which become the basis of integrated circuits.
+3. ✅ Joining differently doped regions creates a **p-n junction**, which conducts in forward bias and blocks in reverse — the basis of rectifiers, LEDs and photovoltaic cells.
+4. ✅ **Transistors** allow switching, amplification and logic operations. ⚠️ The two families work differently: in a **bipolar junction transistor** a small **base current** controls a large collector current, whereas in a **MOSFET** — the device that actually underpins modern integrated circuits — an **insulated gate's electric field** controls conduction in a channel, drawing almost no gate current. Low static power consumption in CMOS logic follows from that field-effect design, and is the reason microprocessors scaled at all.
 5. ✅ Integrated circuits scale from single devices to chips, sensors, power electronics and communication hardware.
 6. ⚠️ The policy lesson is that “semiconductor capability” is not a single fab announcement but a stack: materials, design, fabrication, packaging, testing, metrology and talent.
 

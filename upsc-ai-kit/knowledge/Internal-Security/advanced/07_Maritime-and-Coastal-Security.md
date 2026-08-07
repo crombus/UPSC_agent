@@ -6,9 +6,11 @@
 > Police; fishermen as an intelligence asset and a diplomatic friction
 > point; the Anti-Maritime Piracy Act's jurisdictional design.
 > **Grounded in:** VisionIAS, *Security Challenges and Their Management in
-> Border Areas*, PDF pp. 26-27, 31-39; `00_Master-Framework.md` Sections
-> 6, 8-9; audited GS-III syllabus; MHA order establishing the National
-> Academy of Coastal Policing (7 July 2026).
+> Border Areas*, PDF pp. 11, 21, 26-27, 31-39; `00_Master-Framework.md`
+> Sections 6, 8-9; audited GS-III syllabus; Maritime Zones Act 1976, SUA
+> Act 2002 and Anti-Maritime Piracy Act 2022 as published in India Code;
+> MHA order establishing the National Academy of Coastal Policing (7 July
+> 2026).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/07_Maritime-and-Coastal-Security.md`.*
 
@@ -36,7 +38,9 @@ interface only at the coastal-security level.
 | ✅ **Reactive vs. proactive institutionalisation** | ✅ VisionIAS's own chronology (1974 → 1977 → 2005 → post-2008 → 2017 → 2020) shows each major coastal-security institution or mechanism followed a specific vulnerability episode, most explicitly: "the mind-set that coastal security is not an essential component of national security eventually changed" only "post 26/11 terrorist attacks" (PDF p. 35) — a reactive, not anticipatory, institutional pattern. |
 | ✅ **Jurisdictional layering vs. jurisdictional ambiguity** | The three-tier design (Navy/EEZ, Coast Guard/territorial waters, Marine Police/close coastal) is a deliberate layering, but VisionIAS's own "way forward" section still recommends the Coast Guard be "designated as the single authority responsible for coastal security" and calls for removing "all ambiguities... from the Coast Guard Act" (PDF p. 37) — i.e., the *current* layered design still has unresolved command-clarity gaps at the margins. |
 | ✅ **Fishermen as intelligence asset vs. security liability** | ✅ VisionIAS frames fishermen as "the 'ears and eyes' of coastal security" through organised volunteer-monitoring groups (PDF p. 36), while also documenting the 2008-era risk that arrested/straying fishermen's Indian-registered boats "could be used to sneak in arms, explosives and operatives into India" (Singh, PDF p. 122) — the same population is simultaneously a security resource and a potential vulnerability, depending on engagement design. |
-| ⚠️ **Territorial waters vs. EEZ vs. high seas as a jurisdictional ladder** | Each zone carries different security-agency lead responsibility and different applicable law (state marine police jurisdiction ends at 12 nautical miles; Navy/Coast Guard operate to EEZ limits; the Anti-Maritime Piracy Act applies to the high seas including the EEZ) — precision on this ladder is a recurring examiner expectation. |
+| ⚠️ **Territorial waters vs. EEZ vs. high seas as a jurisdictional ladder** | Each zone carries different security-agency lead responsibility and different applicable law (state marine police jurisdiction ends at 12 nautical miles; the contiguous zone to 24 nm supports customs/immigration/fiscal/sanitary enforcement; Navy/Coast Guard operate to EEZ limits; the Anti-Maritime Piracy Act applies to the high seas including the EEZ) — precision on this ladder is a recurring examiner expectation. |
+| ⚠️ **Maritime domain awareness vs. interdiction capability** | NC3I, the coastal radar chain, AIS, VTMS and IFC-IOR are *awareness* assets: they answer "what is out there?" Boats, sea-days, trained crew and boarding capacity are *interdiction* assets: they answer "can we reach it and act lawfully on it?" ⚠️ India's post-26/11 build-out has been awareness-heavy, which is why the residual recommendations in VisionIAS's own "way forward" (single authority, marine-police training, stronger coastal police) are all interdiction- and command-side items, not sensor-side ones. |
+| ⚠️ **Blue-water navy vs. coastal-security tasking as a resource conflict** | ✅ VisionIAS's "way forward" states it bluntly: "The Indian navy should be eased out from coastal security responsibilities and allowed to concentrate on developing its blue water capabilities and defending the country during times of war" (PDF p. 37). ⚠️ This converts the command-unification question from an abstract tidiness argument into a resource argument — every Navy asset tasked to coastal patrol is one not available for sea-control or SLOC protection, which is the very interest the 2025 PYQ asks candidates to protect. |
 
 ## 3. Causal model
 
@@ -129,6 +133,18 @@ resolves both problems.
   boundary — a useful illustration that "settled boundary, unsettled
   domestic politics" is itself a distinct category from "unsettled
   boundary."
+- ⚠️ **Sir Creek versus the Bangladesh maritime boundary as paired
+  boundary cases:** India's maritime boundary with Bangladesh was
+  delimited by a **2014 UNCLOS arbitral award** (VisionIAS, PDF p. 21),
+  whereas Sir Creek with Pakistan remains unsettled on the Thalweg-versus-
+  green-line question, with roughly 250 square miles of EEZ turning on it
+  (PDF p. 11). ⚠️ Note the source's own inconsistency — at PDF p. 31 it
+  still describes *both* boundaries as undelimited; cite the settled
+  position, not the stale sentence. The analytical point is that maritime
+  boundary settlement is achievable through third-party adjudication when
+  both parties submit, and the security consequence of non-settlement is
+  a permanently ambiguous patrolling line, not merely a diplomatic
+  irritant.
 - ⚠️ **Piracy jurisdiction as a boundary case:** the Anti-Maritime Piracy
   Act, 2022 applies to the high seas including the EEZ; violence within
   territorial waters or internal waters (e.g., Sunderbans-type incidents)
@@ -160,14 +176,19 @@ resolves both problems.
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ VisionIAS's own "way forward" recommends designating the Coast Guard
-  as the single authority responsible for coastal security — indicating
-  this question remained open even after the post-26/11 institutional
+  as the single authority responsible for coastal security, removing
+  ambiguities from the Coast Guard Act, integrating State police in
+  detection and capture at sea, and easing the Navy out of coastal-security
+  tasking so it can concentrate on blue-water capability — indicating this
+  question remained open even after the post-26/11 institutional
   build-out.
 - ✅ Joint Operations Centres operate at four locations: Mumbai,
   Visakhapatnam, Kochi and Port Blair.
 - ✅ The Palk Bay/Sri Lanka fishermen dispute concerns a *settled*
   maritime boundary that Indian fishermen dispute in practice, not an
-  unsettled boundary.
+  unsettled boundary; the India-Bangladesh maritime boundary was likewise
+  settled, by the 2014 arbitral award. Sir Creek is the principal
+  unsettled maritime segment.
 - 📰 The National Academy of Coastal Policing, Okha, established 7 July
   2026, is India's first dedicated marine-police training institution,
   serving nine coastal States, five Union Territories and central forces.
@@ -188,6 +209,11 @@ resolves both problems.
   the marine-police training-capacity gap specifically; the broader
   "single authority" recommendation remains a separate, still-open policy
   question per the source material.
+- ❌ Expanding surveillance coverage automatically expands the ability to
+  act. -> Awareness assets (radar, AIS, NC3I, IFC-IOR) and interdiction
+  assets (boats, sea-days, boarding teams) are separately funded and
+  separately constrained; a detection without a reachable response is a
+  logged track, not a security outcome.
 
 ## 9. 📰 Current-anchor note
 
@@ -205,11 +231,16 @@ resolves both problems.
   - Advanced structure: after the basic-tier definitional and
     architectural answer, add (i) the reactive-institutionalisation
     pattern as an analytical observation about *why* gaps recur; (ii) the
-    still-open Coast Guard "single authority" recommendation as the
-    clearest unresolved "way forward" item; (iii) the 2026 Academy as a
-    training-capacity (not command-structure) solution, explicitly
-    distinguished; (iv) the fishermen dual role (asset and vulnerability)
-    as a nuanced "way forward" point on community engagement.
+    still-open Coast Guard "single authority" recommendation, paired with
+    VisionIAS's blunter corollary that the Navy should be eased out of
+    coastal tasking to protect blue-water capability — which reframes
+    command unification as a resource question directly relevant to the
+    "sea trade" premise of the question; (iii) the awareness-versus-
+    interdiction distinction, to show that sensors alone do not close the
+    gap; (iv) the 2026 Academy as a training-capacity (not
+    command-structure) solution, explicitly distinguished; (v) the
+    fishermen dual role (asset and vulnerability) as a nuanced "way
+    forward" point on community engagement.
 
 ## 11. Mains-ready framework
 

@@ -1,5 +1,7 @@
 # International Relations - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** International Relations | **GS Paper:** GS-II (bilateral, regional and
 > global groupings and agreements involving India and/or affecting India's interests;
 > effect of policies and politics of developed and developing countries on India's
@@ -7,9 +9,16 @@
 > — their structure and mandate).
 > **Spine:** Official GS-II IR syllabus phrases only; audited UPSC GS-II PYQs
 > (2024-2025); MEA/PMO/PIB bilateral documents; UN, WTO, IMF, World Bank, ASEAN,
-> SCO, BRICS, G20 and Quad official texts; Rajiv Sikri's *Challenges and Strategy:
-> Rethinking India's Foreign Policy*; Shashi Tharoor's *Pax Indica*; Economic Survey
-> 2025-26 (ITEC/cultural-diplomacy context only).
+> SCO, BRICS, G20, BIMSTEC, IORA and Quad official texts; UN treaty-depositary
+> records; Rajiv Sikri's *Challenges and Strategy: Rethinking India's Foreign
+> Policy*; Shashi Tharoor's *Pax Indica*; Economic Survey 2025-26 (ITEC,
+> remittances and crude-import-diversification context).
+> **Method:** book sources are read directly from the source PDFs in `books/`
+> (Sikri, Tharoor, Norman Lowe, Ramesh Singh, Economic Survey 2025-26) and the
+> local 2024-2025 GS-II/Essay papers in `books/mains/`; current claims are taken
+> from first-party official documents, not from secondary commentary.
+> **Currency:** volatile claims in this folder were re-verified against
+> first-party sources on **3 August 2026**; every such claim carries its own date.
 > **Start here:** `00_Master-Framework.md`.
 
 ---
@@ -28,6 +37,11 @@
   announced MoU, a signed charter and an implemented outcome are treated as
   different evidentiary levels — none is upgraded to the next without a dated
   source.
+- **Status vocabulary used throughout:** announcement -> MoU -> signature ->
+  ratification/acceptance -> entry into force -> implementation; dialogue vs.
+  alliance; full membership vs. partner/observer/dialogue-partner/guest status;
+  corridor conception vs. operational segment; sanctions exposure vs. legal
+  obligation; diaspora population stock vs. citizenship/OCI status.
 - **No forecasting:** this folder does not predict UNSC permanent-seat outcomes,
   FTA conclusion, corridor completion/capacity or the result of an ongoing
   negotiation. It states what is proposed, signed, ratified or implemented, with
@@ -99,13 +113,22 @@
 
 - MEA bilateral documents, country briefs and press releases; PMO and PIB
   statements on summits and visits.
-- UN (General Assembly, Security Council and IGN reform portal), WTO
-  notifications portal, IMF and World Bank official pages.
-- ASEAN, SCO, BRICS (including NDB-hosted texts), G20 and Quad official
-  statements and joint declarations.
+- UN (General Assembly, Security Council and IGN reform portal), the UN treaty
+  depositary (`treaties.un.org`) for signature/ratification/entry-into-force
+  status, WTO notifications and ministerial-conference portals, IMF and World
+  Bank official pages, WHO, ICJ and PCA/UNCLOS Annex-VII tribunal records.
+- ASEAN, SCO, BIMSTEC, IORA, BRICS (including NDB-hosted texts), G20 and Quad
+  official statements and joint declarations; partner-country foreign-ministry
+  joint statements.
+- PPAC/Ministry of Petroleum and Natural Gas for crude-import-dependence data;
+  Department of Commerce/DGFT for trade-agreement status.
 - Rajiv Sikri, *Challenges and Strategy: Rethinking India's Foreign Policy*,
   for national-interest and instrument-level analysis.
 - Shashi Tharoor, *Pax Indica*, for multi-alignment, soft power and
   diaspora-diplomacy framing.
-- Economic Survey 2025-26, for the ITEC training programme as an education
-  and cultural-diplomacy data point (dated and scoped only to that context).
+- Norman Lowe, *Mastering Modern World History*, for the institutional
+  creation-history behind today's UN, Bretton Woods and Cold-War-era bodies
+  (World History owns the chronology itself).
+- Ramesh Singh, *Indian Economy*, and Economic Survey 2025-26, for the
+  trade, development, energy and remittance linkages that IR interprets
+  strategically (dated and scoped to that context).

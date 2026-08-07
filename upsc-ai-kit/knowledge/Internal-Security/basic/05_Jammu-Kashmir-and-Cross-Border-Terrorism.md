@@ -7,8 +7,11 @@
 > and rehabilitation initiatives.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
 > India*, PDF pp. 23-30 (dedicated J&K chapter), pp. 8-12 (proxy-actor
-> groups); `00_Master-Framework.md` Sections 1, 5-6; audited GS-III
-> syllabus.
+> groups); VisionIAS, *Security Challenges and Their Management in Border
+> Areas*, PDF pp. 11, 30; `00_Master-Framework.md` Sections 1, 5-6;
+> audited GS-III syllabus; Jammu and Kashmir Reorganisation Act 2019 and
+> the Armed Forces (Jammu and Kashmir) Special Powers Act 1990 as
+> published in India Code.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/05_Jammu-Kashmir-and-Cross-Border-Terrorism.md`.*
 
@@ -61,6 +64,8 @@ India" (PDF p. 13).
 | ✅ **Low-intensity/proxy war** | Pakistan's strategy, adopted after conventional defeats in 1965 and 1971, of supporting terrorist/separatist activity in Kashmir rather than direct war (Singh, PDF p. 25). |
 | ✅ **Pakistan-occupied Kashmir (PoK)/"Azad Kashmir"** | The area from which invading Pakistani-backed tribesmen were not driven out in 1947-48; India's name for the territory versus Pakistan's own name for it (Singh, PDF p. 24). |
 | ⚠️ **Article 370 (historical, pre-2019 status)** | The provision that historically required the State Government's concurrence for extending most central laws to J&K; ❌ its constitutional text, litigation history and the 2019 abrogation/2023 Supreme Court judgment are **Polity's** domain — this folder treats only the *operational* internal-security consequences of the change in status. |
+| ✅ **Jammu and Kashmir Reorganisation Act, 2019 — the operational fact** | The Act created two Union Territories: **Jammu & Kashmir with a legislature** and **Ladakh without one**. ⚠️ Critically for internal security, the J&K Assembly's legislative competence expressly **excludes "public order" and "police"** (State List Entries 1 and 2) — so, unlike in a State, the operational chain for law and order runs through the Lieutenant Governor and the Union, not the elected State government. This is the single most examinable *internal-security* (as opposed to constitutional) consequence of 2019. |
+| ✅ **The 2003 ceasefire understanding and its 2021 reaffirmation** | India and Pakistan agreed a Line of Control ceasefire in November 2003; the two Directors General of Military Operations reaffirmed strict observance of all agreements and ceasefire along the LoC and all other sectors in a joint statement of **25 February 2021**. ⚠️ It is an *understanding between military authorities*, not a treaty and not a settlement: it can lapse in practice without any instrument being revoked, and it changes nothing about the underlying dispute or about infiltration attempts, which are a separate metric. |
 
 ## 3. How the proxy-war mechanism works
 
@@ -94,6 +99,11 @@ India" (PDF p. 13).
   continues to supervise the ceasefire line and report violations (Singh,
   PDF p. 24) — an IR/UN-institutional detail; this folder treats only its
   operational relevance to continued LoC monitoring.
+- ✅ **Armed Forces (Jammu and Kashmir) Special Powers Act, 1990:** the
+  J&K-specific special-powers statute, distinct from the 1958 AFSPA that
+  applies in the North-East (topic 04) — the two are separate Acts with
+  parallel structures (disturbed-area declaration, enabling powers, prior
+  sanction for prosecution).
 - ✅ **Development packages:** the Prime Minister's Reconstruction Plan
   (2004), 'UDAAN' skill-development initiative, and a rehabilitation
   package for Kashmiri Pandit migrants (announced 2008) are book-period
@@ -101,12 +111,21 @@ India" (PDF p. 13).
   names/allocations from a dated official source.
 - ✅ **Village Defence Committees (VDC), J&K:** a local-resistance-group
   model later referenced as a precedent for LWE-affected areas (Singh,
-  PDF p. 64) — renamed Village Defence Guards nationally (see topic 06).
+  PDF p. 64) — ✅ renamed **Village Defence Guards (VDG)**, which
+  "function under SP/SSP with an aim to provide residents of remote hilly
+  villages with weapons and give them arms training to defend themselves"
+  (VisionIAS, *Security Challenges*, PDF p. 30). ⚠️ The arming of
+  civilians is a genuine trade-off — local deterrence and early warning
+  against the risk of unaccountable armed groups — and should be stated as
+  such, not as an unqualified measure.
 - ⚠️ **2019 reorganisation:** the bifurcation of the former State into the
   Union Territories of Jammu & Kashmir and Ladakh, and the associated
   change in Article 370's application, is a Polity-owned constitutional
   event; this folder notes only its *operational* internal-security
-  effects (developed in the advanced companion), not its legal reasoning.
+  effects — principally that police and public order sit outside the J&K
+  Assembly's competence under the 2019 Act (Section 2 above), which makes
+  Centre-UT coordination structurally different from Centre-State
+  coordination elsewhere in this folder.
 
 ## 5. Indian applications and examples
 
@@ -136,8 +155,16 @@ India" (PDF p. 13).
 - ✅ Nearly four lakh Kashmiri Pandits were displaced from the Kashmir
   Valley during the 1990s insurgency.
 - ⚠️ In August 2019, the State of Jammu & Kashmir was reorganised into two
-  Union Territories (Jammu & Kashmir and Ladakh); the constitutional
-  mechanics of this change belong to Polity.
+  Union Territories (Jammu & Kashmir, with a legislature, and Ladakh,
+  without one); "public order" and "police" are outside the J&K Assembly's
+  legislative competence under the Jammu and Kashmir Reorganisation Act,
+  2019. The constitutional mechanics of the change belong to Polity.
+- ✅ The India-Pakistan LoC ceasefire understanding of November 2003 was
+  reaffirmed by the two DGMOs in a joint statement of 25 February 2021 —
+  an understanding between military authorities, not a treaty or a
+  settlement.
+- ✅ Village Defence Committees in J&K have been renamed Village Defence
+  Guards and function under the district SP/SSP.
 
 ## 7. UPSC traps
 
@@ -160,6 +187,18 @@ India" (PDF p. 13).
   insurgency (topic 04) is predominantly identity/autonomy-driven with a
   secondary foreign-shelter dimension — keep the two analytically
   distinct even where cross-references exist.
+- ❌ A ceasefire on the Line of Control means cross-border terrorism has
+  stopped. -> A ceasefire governs *firing across the LoC* between armed
+  forces. Infiltration attempts, tunnel and drone-borne weapon/narcotics
+  drops, and hinterland module activity are separate metrics with separate
+  reporting; a quiet LoC and continued infiltration are entirely
+  compatible states of affairs.
+- ❌ Because J&K now has an elected Assembly, its policing chain works
+  like any other State's. -> Under the 2019 Reorganisation Act, public
+  order and police lie outside that Assembly's legislative competence, so
+  the operational chain runs through the Lieutenant Governor and the
+  Union — an internal-security-relevant distinction independent of the
+  constitutional debate.
 
 ## 8. 📰 Current anchor
 
@@ -191,6 +230,13 @@ India" (PDF p. 13).
   India (2025 Q9), J&K's proxy-war history supplies the clearest state-
   sponsorship illustration, provided any specific current claim is
   separately dated and verified.
+- ⚠️ **Distinguish the four J&K metrics that answers routinely merge:**
+  (i) ceasefire violations on the LoC; (ii) infiltration attempts versus
+  successful infiltration; (iii) local recruitment into militancy; and
+  (iv) hinterland incidents. Each is separately reported, moves
+  independently, and supports a different argument — an answer that names
+  the metric it is relying on is far more credible than one that asserts
+  a general improvement or deterioration.
 
 ## 11. Probable questions
 

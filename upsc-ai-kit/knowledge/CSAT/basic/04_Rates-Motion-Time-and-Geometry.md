@@ -26,19 +26,36 @@ clocks, calendars and mensuration are **fixed-formula** families.
 
 ## 2. Essential formulas
 
-| Family | Formula |
-|---|---|
-| ✅ **Work** | If A finishes in `a` days, rate `= 1/a`; combined rate = sum of rates; time = 1/combined. |
-| ✅ **Pipes** | Fillers add (+1/time), drains subtract (-1/time). |
-| ✅ **Speed** | `Speed = Distance / Time`; `km/h x 5/18 = m/s`. |
-| ✅ **Trains** | Cross a pole: length/speed. Cross a platform: `(length + platform)/speed`. |
-| ✅ **Relative speed** | Opposite directions add speeds; same direction subtract. |
-| ✅ **Clock angle** | Angle `= |30H - 5.5M|` degrees. |
-| ✅ **Calendar** | Odd days decide the weekday; a non-leap year shifts the weekday by 1, a leap year by 2. |
-| ✅ **Mensuration** | Rectangle: area `= l x b`, perimeter `= 2(l + b)`, diagonal `= sqrt(l^2 + b^2)`. Cube: volume `= a^3`, surface `= 6a^2`. |
+| Family | Formula | Edge condition |
+|---|---|---|
+| ✅ **Work** | If A finishes in `a` days, rate `= 1/a`; combined rate = sum of rates; time = 1/combined. | Rates add only for **simultaneous** work. |
+| ✅ **Pipes** | Fillers add (+1/time), drains subtract (-1/time). | If the net rate is `<= 0` the tank never fills. |
+| ✅ **Speed** | `Speed = Distance / Time`; `km/h x 5/18 = m/s`. | Speed uses **path length travelled**, never net displacement. |
+| ✅ **Average speed** | `Total distance / total time`. For two **equal-distance** legs this is the harmonic mean `2 s1 s2/(s1 + s2)`. | The harmonic form fails for unequal distances - go back to total/total. |
+| ✅ **Trains** | Cross a pole: length/speed. Cross a platform: `(length + platform)/speed`. | Always include the train's **own** length. |
+| ✅ **Relative speed** | Opposite directions add speeds; same direction subtract. | Requires motion along the **same line/track**. |
+| ✅ **Clock angle** | Angle `= \|30H - 5.5M\|` degrees. | `H` is the hour on a **12-hour** dial (use `H mod 12`, so 14:00 -> H = 2); if the result exceeds 180, the smaller angle is `360 - angle`. |
+| ✅ **Calendar** | Odd days decide the weekday; a non-leap year shifts the weekday by 1, a leap year by 2. | A span "shifts by 2" only if it actually **contains** 29 February. |
+| ✅ **Mensuration** | Rectangle: area `= l x b`, perimeter `= 2(l + b)`, diagonal `= sqrt(l^2 + b^2)`. Cube: volume `= a^3`, surface `= 6a^2`. | Keep all lengths in **one unit** before combining. |
 
 > 🔑 **Unit reflex:** convert `km/h` to `m/s` with `x 5/18` **before** touching train/length problems -
 > half of all motion errors are unit slips.
+
+### 2.1 Speed vs velocity - distance vs displacement
+
+| Quantity | Definition | Uses |
+|---|---|---|
+| ✅ **Distance** | Total **path length** covered, always `>= 0` and never decreasing. | Fuel, fare, time-taken, average speed. |
+| ✅ **Displacement** | **Net** change of position, with direction; can be zero after a round trip. | "How far is he from the start?", forward-and-back step items. |
+| ✅ **Speed** | `distance / time` - a magnitude only. | Every "average speed" question in this paper. |
+| ✅ **Velocity** | `displacement / time` - carries a direction. | Items asking for net position or bearing. |
+
+- ⚠️ **The audited papers exploit this.** The 2026 Set-A paper contains a forward/backward step item
+  in which a toy makes a fixed number of jumps of two different lengths and ends a stated distance
+  **forward**: the total path covered and the net advance are completely different numbers, and only
+  the net advance is asked. Read whether the stem wants **how far travelled** or **how far from the
+  start**.
+- 🔑 **Test:** if the object ever reverses, the two answers differ. If it never reverses, they coincide.
 
 ## 3. Method
 
@@ -54,7 +71,11 @@ clocks, calendars and mensuration are **fixed-formula** families.
   cycle first.
 - ⚠️ Relative speed **adds** for opposite directions and **subtracts** for the same direction - and
   the objects must be moving along the **same line** for the simple rule.
-- ⚠️ The clock formula gives an angle; if it exceeds 180, take `360 - angle` for the smaller angle.
+- ⚠️ The clock formula takes `H` on a **12-hour dial** and gives an angle; if it exceeds 180, take
+  `360 - angle` for the smaller angle.
+- ⚠️ **Average speed is never the plain mean of the speeds** unless the **times** are equal. For equal
+  **distances** use the harmonic mean; otherwise compute total distance over total time.
+- ⚠️ Distinguish **distance travelled** from **displacement** before writing any equation (Section 2.1).
 
 ## 5. Original solved examples
 
@@ -76,35 +97,56 @@ clocks, calendars and mensuration are **fixed-formula** families.
 ### 📝 Example D (clock)
 
 **Angle between the hands at 4:20.** `|30 x 4 - 5.5 x 20| = |120 - 110| =` **10 degrees.**
-*(Verified.)*
+*(Verified.)* At **2:50** the same formula gives `|60 - 275| = 215`, which is more than 180, so the
+smaller angle is `360 - 215 =` **145 degrees.** *(Verified.)*
 
 ### 📝 Example E (mensuration)
 
 **Rectangle 8 x 6.** Area `= 48`, perimeter `= 28`, diagonal `= sqrt(64 + 36) =` **10.** *(Verified.)*
 
+### 📝 Example F (distance vs displacement, and average speed)
+
+**A cyclist rides 12 km east in 30 min, then 12 km back west in 20 min.**
+
+- **Distance** covered `= 24 km`; **displacement** `= 0` (he is back where he started).
+- **Average speed** `= 24 km / (50/60 h) =` **28.8 km/h**.
+- **Average velocity** `= 0 / time =` **0**.
+- The plain mean of the leg speeds (24 and 36 km/h) is 30 - **wrong**. The harmonic mean
+  `2 x 24 x 36 / (24 + 36) = 1728/60 =` **28.8**, which matches, because the two legs are equal in
+  **distance**. *(Verified.)*
+
 ## 6. Must-Know facts
 
 - ✅ `km/h x 5/18 = m/s`; `m/s x 18/5 = km/h`.
-- ✅ The clock hands **coincide 11 times** every 12 hours (22 times a day), not 12.
+- ✅ The clock hands **coincide 11 times** every 12 hours (22 times a day), not 12 - once every
+  `720/11 = 65 5/11` minutes.
+- ✅ The hands are at **right angles 22 times** in 12 hours (44 times a day).
 - ✅ 100 years contain **5 odd days**; 400 years contain **0** (the weekday pattern repeats every 400
   years).
 - ✅ Cube side doubled -> surface x4, volume x8.
 - ✅ For same-direction motion, the **faster catches the slower** at the difference of speeds.
+- ✅ **Displacement is never greater than distance**, and they are equal only when the motion never
+  reverses.
 
 ## 7. Common traps
 
 - ❌ Adding times instead of rates for "working together". -> Add **rates**, then invert.
 - ❌ Forgetting the train's **own length** when crossing a platform/bridge. -> Add both lengths.
 - ❌ Using `30H` alone for the clock angle. -> Include the minute term `-5.5M`.
+- ❌ Feeding a 24-hour hour into the clock formula. -> Use `H mod 12` (17:40 -> H = 5).
 - ❌ Assuming hands coincide 12 times in 12 hours. -> They coincide **11** times.
 - ❌ Averaging two speeds by a plain mean for a round trip. -> Use the harmonic mean
-  `2 x s1 x s2 / (s1 + s2)`.
+  `2 x s1 x s2 / (s1 + s2)`, and only when the two legs are **equal in distance**.
+- ❌ Answering with the **distance covered** when the stem asks how far the object ends up **from the
+  start**. -> That is displacement.
+- ❌ Assuming a leap-year span always shifts the weekday by 2. -> Only if 29 February falls inside it.
 
 ## 8. Quick checks
 
 - ✅ Can you convert 90 km/h to m/s in one step? (25 m/s.)
 - ✅ Can you write the combined rate for two workers instantly?
-- ✅ Can you state the clock angle formula without hesitation?
+- ✅ Can you state the clock angle formula without hesitation - including the `H mod 12` rule?
+- ✅ Can you say, for a there-and-back trip, what the displacement is without computing anything? (Zero.)
 
 ## 9. Mini-drill (with answers and explanations)
 
@@ -113,6 +155,10 @@ clocks, calendars and mensuration are **fixed-formula** families.
 3. A 3x3x3 painted cube is cut into 27 unit cubes. How many have **exactly two** painted faces?
 4. If 15 August 2024 (a leap year) is a Thursday, what day is 15 August 2025?
 5. Between 4 and 5 o'clock, at what minute do the hands coincide?
+6. A grasshopper makes 20 hops in a straight line: each forward hop is 6 cm, each backward hop is
+   4 cm, and it ends up 40 cm ahead of its start. How many forward hops did it make, and what total
+   distance did it cover?
+7. A car covers 60 km at 30 km/h and the next 60 km at 60 km/h. Find its average speed.
 
 **Answers.**
 
@@ -124,6 +170,14 @@ clocks, calendars and mensuration are **fixed-formula** families.
    Thursday + 1 = Friday. *(Verified.)*
 5. **21 and 9/11 minutes (about 4:21:49).** Coincidence minute `= 60H/11 = 240/11 ≈ 21.82`.
    *(Verified.)*
+6. **12 forward hops; 104 cm of distance covered.** Let `f` forward and `b = 20 - f` backward.
+   **Displacement:** `6f - 4(20 - f) = 40` -> `10f - 80 = 40` -> `f = 12`, so `b = 8`.
+   **Distance (path length):** `6 x 12 + 4 x 8 = 72 + 32 =` **104 cm**, while the displacement is only
+   **40 cm**. *(Verified: `72 - 32 = 40`.)*
+   ⚠️ Two different correct numbers from one motion - read which the stem wants.
+7. **40 km/h.** Total distance `120 km`; total time `60/30 + 60/60 = 2 + 1 = 3 h`; `120/3 = 40`.
+   The plain mean of 30 and 60 is 45 - **wrong**. The harmonic mean applies here because the legs are
+   equal in distance: `2 x 30 x 60/(30 + 60) = 3600/90 = 40`. *(Verified.)*
 
 ## 10. Study links
 

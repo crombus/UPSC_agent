@@ -39,7 +39,7 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 | ✅ **Categorical Imperative** (Kant) | Act only according to a maxim you could will to become a universal law; treat humanity (in yourself or others) always as an end, never merely as a means. |
 | ✅ **Utilitarianism** (Bentham/Mill) | An act or policy is right if it produces the greatest good (happiness/welfare) for the greatest number, with Mill adding a qualitative distinction between "higher" and "lower" pleasures and protection for individual liberty. |
 | ✅ **Golden Mean / Virtue Ethics** (Aristotle) | Virtue is a habituated disposition lying between two vicious extremes (e.g., courage between cowardice and recklessness); the good life (*eudaimonia*) is achieved through practising virtues, not merely following rules or calculating outcomes. |
-| ✅ **Veil of Ignorance / Justice as Fairness** (Rawls) | Principles of justice should be chosen as if the chooser did not know their own place in society (wealth, talent, position) — yielding equal basic liberties plus the "difference principle" (inequalities justified only if they benefit the least advantaged). |
+| ✅ **Veil of Ignorance / Justice as Fairness** (Rawls) | In the "original position", rational choosers deliberate behind a "veil of ignorance" about their own place in society (class, talents, conception of the good) and therefore choose principles for distributing "primary goods" that they could accept from any position — yielding equal basic liberties for all, plus fair equality of opportunity and the "difference principle" (inequalities justified only if they benefit the least advantaged). |
 | ⚠️ **"Know thyself"** (Socrates) | Ethical action begins with rigorous self-examination of one's own assumptions and biases — foundational to `01`'s emphasis on discretion-testing integrity. |
 
 ## 3. Thinker-by-thinker administrative translation
@@ -54,11 +54,15 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 3. **Aristotle:** ✅ Virtue as the mean between extremes — e.g., generosity between wastefulness and
    miserliness — directly supports proportionate, non-extremist administrative judgment (echoing
    the Buddhist Middle Path in `06`).
-4. **Kant:** ✅ 2024 GS-IV Q3(c) tested Kant's quotation verbatim: "In law, a man is guilty when he
-   violates the rights of others. In ethics, he is guilty if he only thinks of doing so." ⚠️ Lesson:
-   ethics demands a stricter standard than law — intention and disposition matter even where no
-   external act/violation occurred, directly supporting the "ethical dilemma is not the same as
-   legal violation" distinction (`00`, `09`).
+4. **Kant:** ✅ 2024 GS-IV Q3(c) tested this line verbatim: "In law, a man is guilty when he
+   violates the rights of others. In ethics, he is guilty if he only thinks of doing so." ⚠️
+   Provenance: it is **not** a sentence from the *Groundwork*, the second *Critique* or the
+   *Metaphysics of Morals*; the closest source is the section on Innocence in Louis Infield's 1930
+   English *Lectures on Ethics*, itself reconstructed from students' notes of Kant's lectures. Use
+   the idea, and say "as the paper attributes to Kant" rather than citing a Kantian work. ⚠️
+   Lesson: ethics demands a stricter standard than law — intention and disposition matter even
+   where no external act/violation occurred, directly supporting the "ethical dilemma is not the
+   same as legal violation" distinction (`00`, `09`).
 5. **Mill:** ⚠️ Utilitarian reasoning justifies public-policy trade-offs (e.g., a lockdown's
    aggregate health benefit against individual liberty cost) but Mill's own liberty principle warns
    against sacrificing individual rights purely for majority convenience — a built-in self-limit.
@@ -80,9 +84,12 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 - ✅ Kant's ethics is deontological (duty-based); Mill's utilitarianism is consequentialist
   (outcome-based); Aristotle's is virtue-based (character-based) — the three classical families of
   normative ethical theory (full treatment in `08`).
-- ✅ Rawls's *A Theory of Justice* (1971) introduced the "veil of ignorance" and the "difference
-  principle" as tools for designing just institutions.
+- ✅ Rawls's *A Theory of Justice* (1971) introduced the "original position", the "veil of
+  ignorance" and the "difference principle" as tools for designing just institutions.
 - ✅ Aristotle's Golden Mean situates virtue between two vicious extremes (deficiency and excess).
+- ⚠️ The Kant line set in 2024 GS-IV Q3(c) is not traceable to a work Kant published; its nearest
+  source is Infield's 1930 translation of the *Lectures on Ethics*, reconstructed from student
+  notes. Answer the proposition; do not cite a Kantian treatise for it.
 
 ## 6. UPSC traps
 

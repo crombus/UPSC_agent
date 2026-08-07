@@ -1,5 +1,7 @@
 # Indian Society - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Indian Society | **GS Paper:** GS-I, with Social-Justice, Geography,
 > Economy, Polity, History and Philosophy links.
 > **Spine:** Official GS-I syllabus; audited 2024-2025 GS-I Mains PYQs; Census/RGI,

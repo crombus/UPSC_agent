@@ -97,6 +97,33 @@ hazard topic.
   to the Hyogo Framework for Action (2005-2015); "first major agreement
   of the post-2015 development agenda," with **four priorities** and
   **seven global targets** (PDF p. 62).
+- 📰 **The seven global targets (A-G)** — VisionIAS shows them only as a
+  figure (PDF p. 62); the substance below is from the adopted Sendai
+  Framework text (UNDRR, 18 March 2015) and is what 2024 Q17 asks for:
+  **A** substantially reduce global disaster **mortality** by 2030;
+  **B** substantially reduce the number of **affected people** globally
+  by 2030 (both A and B measured as per-100,000 decadal averages,
+  2020-2030 against 2005-2015); **C** reduce direct disaster **economic
+  loss relative to global GDP** by 2030; **D** substantially reduce
+  disaster damage to **critical infrastructure** and disruption of basic
+  services, including health and education, by developing their
+  resilience by 2030; **E** substantially increase the number of
+  countries with **national and local DRR strategies** by **2020**;
+  **F** substantially enhance **international cooperation** to
+  developing countries by 2030; **G** substantially increase
+  availability of and access to **multi-hazard early warning systems**
+  and disaster risk information and assessments by 2030.
+  ⚠️ Structure to remember: **A-D reduce losses; E-G build means of
+  implementation; E alone has a 2020 deadline.**
+- 📰 **Early Warnings for All (EW4All)** — the UN Secretary-General's
+  March 2022 call, launched as an initiative at COP27 in November 2022,
+  to protect every person on earth by an early warning system by
+  **2027**; it is the operational vehicle for Sendai **Target G**. Its
+  four pillars and lead agencies are: disaster-risk knowledge (**UNDRR**);
+  detection, observations, monitoring, analysis and forecasting
+  (**WMO**); warning dissemination and communication (**ITU**); and
+  preparedness and response (**IFRC**), with WMO and UNDRR co-leading
+  overall. Applied to India in topic `04`.
 - ✅ **National Disaster Management Plan, 2016** incorporates the four
   Sendai priorities into five Thematic Areas for Action — Understanding
   Risk, Inter-Agency Coordination, Investing in DRR (structural),
@@ -130,6 +157,18 @@ hazard topic.
 - ✅ Sendai Framework (2015-2030) has four priorities and seven global
   targets; it succeeded the Hyogo Framework for Action (2005-2015),
   which had five priorities (PDF pp. 61-62).
+- 📰 The seven targets are lettered **A-G**: mortality (A), affected
+  people (B), economic loss/GDP (C), critical-infrastructure damage (D),
+  national and local DRR strategies (E), international cooperation (F),
+  multi-hazard early warning and risk information (G). **Only Target E
+  carries a 2020 deadline; the rest are 2030.**
+- 📰 **Early Warnings for All (EW4All)** — UN Secretary-General's call of
+  March 2022, launched at COP27 (November 2022), target year **2027**;
+  four pillars led by UNDRR (risk knowledge), WMO (observation and
+  forecasting), ITU (dissemination) and IFRC (preparedness and response).
+- 📰 The Sendai Midterm Review High-Level Meeting was held **17-19 May
+  2023**; its Political Declaration was adopted as UN General Assembly
+  resolution **77/289** on 18 May 2023.
 - ✅ The PM's ten-point DRR agenda was announced at AMCDRR, New Delhi,
   November 2016 (PDF p. 8).
 - ⚠️ Rapid-onset disasters (earthquake, cyclone, flood, tsunami) versus
@@ -159,10 +198,18 @@ hazard topic.
 ## 9. 📰 Current official anchor
 
 - 📰 The Sendai Framework's implementation status is authoritatively
-  tracked by **UNDRR**, whose **Sendai Framework Midterm Review Political
-  Declaration (2023)** is the correct dated anchor for any claim about
-  global progress against the seven targets — do not cite VisionIAS's
+  tracked by **UNDRR**. The **High-Level Meeting on the Midterm Review**
+  was held **17-19 May 2023** and adopted a **Political Declaration**,
+  subsequently issued as **UN General Assembly resolution 77/289**
+  (18 May 2023) — this is the correct dated anchor for any claim about
+  global progress against the seven targets. Do not cite VisionIAS's
   2015-era description of the targets as a current-progress statement.
+- 📰 For **Target G** specifically, the current operational anchor is the
+  **Early Warnings for All** initiative (UN Secretary-General, March
+  2022; launched at COP27, November 2022; target year **2027**),
+  co-led by **WMO and UNDRR** across four pillars — the correct
+  reference point for any statement about how the early-warning target is
+  being pursued rather than merely stated.
 
 ## 10. PYQ application
 
@@ -173,9 +220,12 @@ hazard topic.
   words, 15 marks). Answer using: definition (Section 2) → determination
   (risk-knowledge, robustness, redundancy, resourcefulness, rapid
   recovery elements) → resilience framework elements → Sendai's four
-  priorities and seven targets (Section 5; cite UNDRR MTR 2023 for
-  current progress status, not a specific numeric claim absent that
-  source).
+  priorities and the **seven lettered targets A-G** set out in Section 5,
+  noting that Target E alone had a 2020 deadline (cite the UNDRR Midterm
+  Review Political Declaration/UNGA res. 77/289, 2023, for current
+  progress status rather than a specific numeric claim absent that
+  source). ⚠️ The question says "mention," so name all seven compactly
+  rather than describing three at length.
 - ⚠️ No other audited 2024/2025 GS-III question directly tests this
   topic's core vocabulary; it is the conceptual introduction every other
   topic's answer draws on.

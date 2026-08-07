@@ -37,7 +37,9 @@ Effect is already present in the cause and is only *manifested*. Splits by **whe
 
 - **B1. PARIṆĀMAVĀDA (real transformation):**
   - **Sāṃkhya:** the effect is a **real modification** of prakṛti (curd really from milk; the world really evolves from prakṛti). 5 arguments (asadakaraṇāt, upādāna-grahaṇāt, sarvasambhavābhāvāt, śaktasya-śakyakaraṇāt, kāraṇabhāvāt). ✅
-  - **Rāmānuja (Viśiṣṭādvaita):** **Brahma-pariṇāma-vāda** — the world is a *real* transformation of Brahman (Brahman with cit-acit as real modes). Māyā = God's real creative power.
+  - **Rāmānuja (Viśiṣṭādvaita):** the world is a real transformation of Brahman's dependent
+    modes/body (*cit* and *acit*), not a mutation that destroys Brahman's essential perfection.
+    Māyā denotes God's real creative power rather than an indeterminable illusion.
 
 - **B2. VIVARTAVĀDA (apparent/unreal transformation):**
   - **Advaita (Śaṃkara):** the effect is only an **apparent, unreal appearance** of the cause — Brahman does not really change; the world is *vivarta*, like the **snake superimposed on the rope** or silver on shell. The cause alone is real; the "effect" is a name-and-form (nāma-rūpa) illusion. ✅
@@ -109,4 +111,9 @@ Concl  : causation is the hidden spine of Indian metaphysics.
 - `_themes/Pramana-across-schools.md` (epistemology axis) · `_themes/Self-and-liberation-across-schools.md`
 
 ---
-> 📖 **SOURCE-VERIFIED** (synthesis): Cross-cutting theme distilled from source-verified parent topics. The causation grid — **asatkāryavāda** (Nyāya-Vaiśeṣika ārambhavāda), **satkāryavāda** (Sāṃkhya pariṇāmavāda / Vedānta vivartavāda), and **pratītyasamutpāda** (Buddhism) — confirmed vs **C.D. Sharma** & **Chatterjee-Datta** in the parent files. No independent corrections.
+
+## SOURCES
+
+- C. D. Sharma, *A Critical Survey of Indian Philosophy*.
+- S. C. Chatterjee and D. M. Datta, *An Introduction to Indian Philosophy*.
+- Owner files: [`Nyaya-Vaisesika.md`](../indian/Nyaya-Vaisesika.md), [`Samkhya.md`](../indian/Samkhya.md), [`Vedanta.md`](../indian/Vedanta.md), and [`Buddhism.md`](../indian/Buddhism.md).

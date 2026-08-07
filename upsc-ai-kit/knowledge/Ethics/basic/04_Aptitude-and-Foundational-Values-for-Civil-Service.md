@@ -42,12 +42,12 @@ usually test them in combination (e.g., impartiality *and* compassion in a welfa
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ⚠️ **Aptitude** | A natural or trainable capacity/inclination for a task or role — here, the disposition to perform public duties competently and ethically. |
+| ⚠️ **Aptitude** | A natural or trainable capacity/inclination for a task or role — here, the disposition to perform public duties competently and ethically. Distinguish it from **attitude** (an evaluative stance toward a specific object) and from **value** (a general standard): aptitude is about *capacity to perform*, attitude about *how one evaluates*, value about *what one holds worth pursuing*. |
 | ✅ **Integrity** | Consistency between stated values and actual conduct, especially under temptation or unobserved conditions — the Nolan Committee (cited in ARC 2.2.5) lists it as a distinct principle from honesty. |
 | ✅ **Impartiality/Objectivity** (Nolan) | Decisions on public appointments, contracts or benefits made strictly on merit, without favour to family, friends or political allies. |
 | ⚠️ **Non-partisanship** | A civil servant's duty to serve the government of the day loyally and professionally regardless of personal political preference, and without allowing party political considerations to shape official advice or action. |
 | ⚠️ **Dedication to public service** | Motivation to serve the public interest that exceeds the minimum required by rules — visible in responsiveness, initiative and proactive problem-solving. |
-| ⚠️ **Empathy vs sympathy vs compassion** | Empathy = cognitively/emotionally understanding another's situation; sympathy = feeling *for* someone from the outside; compassion = empathy translated into a felt desire to alleviate suffering and corresponding action. |
+| ⚠️ **Empathy vs sympathy vs compassion** | **Empathy** = accurately grasping another's situation and feelings *from their frame of reference* (cognitive + affective perspective-taking). **Sympathy** = feeling *for* someone from the outside, often with an implicit hierarchy between giver and receiver. **Compassion** = empathy plus a motivated commitment to relieve the suffering, i.e. it necessarily issues in *action or service design*. Only compassion, in this sense, is administratively assessable — which is why GS-IV answers must convert felt concern into a procedural change. |
 | ⚠️ **Tolerance** | Respect for and acceptance of diversity of belief, culture and viewpoint, distinct from mere passive non-interference. |
 
 ## 3. How these values interact under pressure (mechanism)
@@ -74,15 +74,17 @@ usually test them in combination (e.g., impartiality *and* compassion in a welfa
   elderly/disabled applicants operationalises compassion as service design, not sentiment.
 - ⚠️ A returning officer during election duty applying identical scrutiny to all candidates,
   irrespective of ruling-party affiliation, demonstrates non-partisanship under real pressure.
-- ✅ Mission Karmayogi's (NPCSCB) behavioural-competency framework is the institutional attempt to
-  build these foundational values systematically into training rather than leave them to informal
-  socialisation (📰 verify current course content independently before citing specifics).
+- 📰 Mission Karmayogi (NPCSCB), approved by the Union Cabinet on 2 September 2020, is the
+  institutional attempt to build these foundational values systematically into training through the
+  FRAC competency framework and the iGOT-Karmayogi platform, rather than leaving them to informal
+  socialisation (official scale as reported to Parliament, data as on 6 February 2026: over 1.49
+  crore users, 4,342 courses, 7.26 crore completions).
 
 ## 5. Must-Know Facts for Prelims
 
-- ✅ The UPSC GS-IV syllabus explicitly lists: "integrity, impartiality and non-partisanship,
-  objectivity, dedication to public service, empathy, tolerance and compassion towards the weaker
-  sections" as foundational values for civil service.
+- ✅ The UPSC GS-IV syllabus lists, verbatim: "Aptitude and foundational values for Civil Service,
+  integrity, impartiality and non-partisanship, objectivity, dedication to public service, empathy,
+  tolerance and compassion towards the weaker-sections."
 - ✅ The Nolan Committee's seven principles of public life (selflessness, integrity, objectivity,
   accountability, openness, honesty, leadership) — see `09` — overlap substantially with, but are
   not identical to, the GS-IV syllabus's own list.

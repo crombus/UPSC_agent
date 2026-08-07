@@ -3,11 +3,13 @@
 > **Subject:** International Relations | **Tier:** Advanced | **GS Paper:** GS-II.
 > **Core area:** Sovereign nationalism; de-risking; trade-technology-climate
 > linkages; policy transmission to Indian interests.
-> **Grounded in:** WTO India notifications portal; audited GS-II syllabus and
-> PYQ; `00_Master-Framework.md` Sections 6-7. *(Note: no directly relevant
-> Sikri/Tharoor passages were retrieved for this specific topic; content is
-> built on the syllabus, the verified PYQ and standard, conservatively tagged
-> institutional facts — no statistic, treaty status or quotation is
+> **Grounded in:** WTO ministerial-conference and dispute-settlement records;
+> official EFTA/UK/EU trade documentation; US executive orders and Federal
+> Register notices; Economic Survey 2025-26; audited GS-II syllabus and PYQ;
+> `00_Master-Framework.md` Sections 6-7. *(Note: Sikri and Tharoor were read
+> directly from the source PDFs; neither develops this specific topic at length,
+> so content is built on the syllabus, the verified PYQ and dated first-party
+> institutional records — no statistic, treaty status or quotation is
 > fabricated.)*
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md`.*
@@ -58,7 +60,8 @@ dimension alone.
 | ⚠️ **De-risking as a specific trade-technology response** | De-risking (reducing overconcentration in a single supplier or partner while sustaining engagement) is the moderate policy response to sovereign-nationalist pressure, distinct from full protectionist retrenchment or decoupling (cross-link to topic 03's detailed treatment). |
 | ⚠️ **Trade-technology-climate linkage** | Contemporary external-policy measures increasingly combine trade, technology-control and climate objectives in a single instrument (e.g., a carbon-border adjustment mechanism that is simultaneously a trade measure, an industrial-policy tool and a climate instrument) — a more complex policy-transmission structure than classical tariff-only protectionism. |
 | ⚠️ **Policy transmission to Indian interests** | The specific channels (market-access changes, supply-chain reallocation, technology-access conditions, climate-compliance costs) through which another country's or bloc's sovereign-nationalist policy choice affects India's own economic and strategic interests. |
-| ✅ **WTO's weakened but continuing role** | The WTO remains India's reference framework for trade-dispute resolution and baseline rules even as its Doha-era negotiating function has stalled — an institution whose relevance has narrowed in scope (negotiation) while persisting in another (dispute settlement and rule-setting baseline). |
+| ✅ **WTO's weakened but continuing role** | The WTO remains India's reference framework for trade-dispute resolution and baseline rules even as its Doha-era negotiating function has stalled — an institution whose relevance has narrowed in scope (negotiation) while persisting in another (dispute settlement and rule-setting baseline). ⚠️ The weakening is now specific and datable: the Appellate Body lost its three-member quorum for new appeals on 10 December 2019 and has had **zero members since 30 November 2020**, so appeals can be filed "into the void"; the interim MPIA arrangement under DSU Article 25 has some 30 participants but **India is not among them**. |
+| 📰 **Consensus as the binding constraint** | At MC14 (Yaoundé, 26-30 March 2026), 165 of 166 members supported incorporating the Investment Facilitation for Development agreement into the WTO rulebook and 129 parties supported implementation, yet **consensus was absent and incorporation failed**. ⚠️ The precise lesson for a Mains answer: in the WTO the veto point is procedural (consensus), not majoritarian — structurally parallel to the P5 veto problem in topic 12. |
 
 ## 3. Detailed causal chain: from globalisation strain to Indian policy response
 
@@ -94,20 +97,39 @@ dimension alone.
 
 ## 4. Institutional and reform architecture
 
-- ✅ **WTO:** retains its dispute-settlement and baseline-rule function;
-  India continues using its notification and dispute mechanisms even as
-  multilateral negotiation has stalled — cite only date-stamped notifications
-  for any specific claim.
-- ⚠️ **Bilateral FTA/CEPA architecture:** India's negotiated agreements (e.g.,
-  UAE-India CEPA) exemplify the substitute-liberalisation channel (Economy owns
-  detailed tariff-schedule mechanics; this folder owns the diplomatic and
-  strategic significance).
+- ✅ **WTO:** retains its dispute-settlement and baseline-rule function, but
+  with a non-functioning Appellate Body since 30 November 2020 and India outside
+  the MPIA workaround. 📰 MC13 met at Abu Dhabi (26 February-2 March 2024) and
+  MC14 at Yaoundé (26-30 March 2026). 📰 The Agreement on Fisheries Subsidies
+  entered into force 15 September 2025; India deposited its acceptance on
+  20 July 2026.
+- 📰 **Bilateral FTA/CEPA architecture:** India-EFTA TEPA (signed 10 March 2024,
+  in force 1 October 2025), India-UK CETA (signed 24 July 2025, in force 15 July
+  2026, with the Double Contributions Convention in force the same day and up to
+  60 months' home-country social-security coverage for detached workers), and
+  the India-EU FTA whose negotiations were **concluded on 27 January 2026** at
+  the 16th India-EU Summit but which was neither signed nor in force. ⚠️ Three
+  agreements, three different legal stages — the cleanest available teaching set
+  for the status vocabulary.
+- 📰 **Beyond trade in the same summits:** the 16th India-EU Summit also **signed**
+  a Security and Defence Partnership, **launched** negotiations on a Security of
+  Information Agreement and **adopted** *Towards 2030: India-EU Joint
+  Comprehensive Strategic Agenda*. ⚠️ Signed, launched and adopted are three
+  different verbs and three different obligations in one communiqué.
 - ⚠️ **Minilateral trade-technology frameworks:** arrangements combining trade,
   supply-chain and technology-cooperation objectives (cross-link to topic 03's
-  iCET treatment and topic 10's minilateral-grouping profile).
-- ⚠️ **Carbon-border and green-subsidy measures:** an emerging external-policy
-  category requiring separate, dated verification for any specific claim about
-  a particular measure's scope or India-specific impact.
+  iCET/TRUST treatment and topic 10's minilateral-grouping profile).
+- 📰 **Carbon-border and green-subsidy measures:** the EU's Carbon Border
+  Adjustment Mechanism entered its **definitive regime on 1 January 2026** — an
+  external-policy category requiring separate, dated verification for any
+  specific claim about a particular measure's scope or India-specific impact.
+- 📰 **Unilateral tariff measures as external-policy effects:** the 2025-26 US
+  tariff cycle on India (25% reciprocal duty from 7 August 2025; an additional
+  25% Russian-oil-linked duty from 27 August 2025, removed 7 February 2026;
+  IEEPA additional duties ended February 2026; a separate 10% Section 301 duty
+  from 24 July 2026). ⚠️ Note the analytical point: a measure that lasted under
+  six months still shaped a full negotiating cycle — volatility, not level, is
+  the transmission mechanism.
 
 ## 5. Indian applications and boundary cases
 
@@ -147,11 +169,12 @@ dimension alone.
   affected exporting countries (including India) may contest its
   proportionality or fairness — a live, contested policy area requiring
   case-specific, dated evidence rather than a general assumption either way.
-- ⚠️ **WTO's dispute-settlement function itself faces strain:** the
-  functioning of WTO's Appellate Body has faced well-documented difficulties in
-  recent years, meaning even the "continuing" institutional function is not
-  operating at full historical capacity — cite only a specific, dated source if
-  elaborating this point further.
+- ⚠️ **WTO's dispute-settlement function itself faces strain:** the Appellate
+  Body has had no members since 30 November 2020, having lost its quorum for
+  new appeals on 10 December 2019; India does not participate in the MPIA
+  interim arrangement, so an adverse panel report against India can be appealed
+  into the void — and India equally cannot obtain binding appellate review
+  against others. ⚠️ This is a two-sided cost, not simply a shield.
 - ⚠️ **Domestic industrial policy carries its own trade-offs:** PLI-type
   schemes and similar strategic-sector support measures (Economy's domain)
   respond to sovereign-nationalist pressure but can themselves invite
@@ -164,6 +187,14 @@ dimension alone.
 - ⚠️ The Doha Round (launched 2001) has not concluded as a comprehensive
   agreement, illustrating the stagnation of multilateral trade negotiation
   referenced in this topic.
+- 📰 The WTO Appellate Body lost its quorum on 10 December 2019 and has had no
+  members since 30 November 2020; India is not an MPIA participant.
+- 📰 The Agreement on Fisheries Subsidies entered into force 15 September 2025;
+  India deposited its instrument of acceptance on 20 July 2026.
+- 📰 India-EFTA TEPA entered into force 1 October 2025; India-UK CETA on 15 July
+  2026; India-EU FTA negotiations were concluded 27 January 2026 without
+  signature or entry into force.
+- 📰 The EU's CBAM definitive regime began on 1 January 2026.
 - ⚠️ De-risking, not decoupling, is the analytically precise term for the
   moderate supply-chain-diversification response to sovereign-nationalist
   pressure (cross-link to topic 03).
@@ -184,16 +215,24 @@ dimension alone.
   instruments, a key IR-relevant classification point.
 - ❌ WTO has become fully irrelevant to India's trade policy. -> It continues to
   provide the baseline dispute-settlement and rules framework even as its
-  negotiating function has weakened.
+  negotiating function has weakened — but be precise: no Appellate Body members
+  since 30 November 2020, and India outside the MPIA.
+- ❌ Near-unanimous support at the WTO produces a decision. -> At MC14 the
+  Investment Facilitation for Development agreement had 165 of 166 members'
+  support for incorporation and still failed, because WTO decisions rest on
+  consensus rather than majority.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 Cite the **WTO's India notifications portal**, or any other specific
-  date-stamped official trade measure, for any current-affairs claim in this
-  topic. No single dramatic dated event anchors this conceptual topic; each
-  specific claim (a particular FTA's status, a particular carbon-border
-  measure's scope) requires its own independent, dated verification before
-  being treated as ✅.
+- 📰 Four dated anchors carry this topic: **India-EFTA TEPA in force (1 October
+  2025)** and **India-UK CETA in force (15 July 2026)** against the merely
+  **concluded India-EU FTA negotiation (27 January 2026)**; the **EU CBAM
+  definitive regime (from 1 January 2026)**; **WTO MC14 (Yaoundé, 26-30 March
+  2026)**, where the Investment Facilitation for Development agreement failed on
+  consensus despite 165 of 166 members' support; and the **2025-26 US tariff
+  cycle** on India. ⚠️ Each specific claim (a particular FTA's status, a
+  particular carbon-border measure's scope) still requires its own independent,
+  dated verification before being treated as ✅.
 
 ## 10. PYQ-based analytical application
 

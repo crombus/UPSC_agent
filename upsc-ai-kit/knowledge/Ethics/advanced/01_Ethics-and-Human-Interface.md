@@ -47,9 +47,10 @@ integrity of the political market, not with exhortation alone.
    calls (1.5) an "enormous temptation."
 2. Colonial-era administrative culture normalised **unchallenged authority** (1.6), which
    post-colonial India inherited without a matching accountability culture.
-3. **Asymmetry of power** (1.6): the ARC's illustrative 2007 estimate that ~90% of the workforce
-   was in the unorganised sector, versus ~70% of organised-sector, secure-wage employment being
-   state-linked, meant citizens rarely had the social leverage to demand ethical conduct.
+3. **Asymmetry of power** (1.6): the ARC's illustrative 2007 framing that "nearly 90% of our
+   people are in the unorganized sector", versus "nearly 70% of the organized workers with job
+   security and regular monthly wage" being employed by the state directly or through PSUs, meant
+   citizens rarely had the social leverage to demand ethical conduct.
 4. Early-decades **policy choice** (over-regulation, near-monopoly, subsidy-driven patron-client
    relationships) converted "public servant into patron and master" and "citizens into mendicants"
    (1.7) — a self-reinforcing incentive structure, not a moral failing of individuals alone.
@@ -76,14 +77,21 @@ integrity of the political market, not with exhortation alone.
 
 ## 4. Institutional and reform architecture
 
-- ✅ ARC 1.10: RTI, citizens' charters, stakeholder involvement and social auditing are named as
-  instruments that "dramatically curbed corruption."
+- ✅ ARC 1.10: RTI, effective citizens' charters, stakeholder involvement and social auditing are
+  named as instruments that "dramatically curbed corruption and promoted integrity and quality of
+  decision making."
 - ✅ ARC 1.11: enforcement of rule of law and deterrent punishment remain necessary even where
   systemic reform succeeds — the corrective is preventive **and** punitive, not either/or.
-- ✅ ARC 1.14-1.16: the UN Convention against Corruption (2003), the ADB-OECD Anti-Corruption
-  Action Plan and the RTI Act (2005) are cited as the international/domestic legal correctives
-  contemporaneous with the ARC's writing (⚠️ India signed but had not ratified UNCAC as of the
-  Report — verify current ratification status independently before citing as current).
+- ✅ ARC 1.14-1.15 name the contemporaneous international/domestic correctives: the UN Convention
+  against Corruption (adopted by UNGA resolution 58/4 on 31 October 2003), the ADB-OECD
+  Anti-Corruption Action Plan for Asia and the Pacific "signed by the Government of India", the
+  World Bank's refusal to fund projects tainted by corrupt practices, the 2006 IMF-World Bank
+  Singapore joint statement, and the RTI Act, 2005.
+- 📰 **Status update on the ARC's 2007 framing:** India signed UNCAC on 9 December 2005 and
+  **ratified it on 9 May 2011** (UN Treaty Collection/UNODC status list), so the Report's
+  "signed but not ratified" position is now historical. India endorsed the ADB-OECD Anti-Corruption
+  Action Plan on 30 November 2001. India is **not** a party to the separate OECD Anti-Bribery
+  Convention, 1997 — do not conflate the two instruments.
 
 ## 5. Indian applications and boundary cases
 

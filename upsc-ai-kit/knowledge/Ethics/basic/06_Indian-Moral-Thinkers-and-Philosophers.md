@@ -3,9 +3,10 @@
 > **Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV.
 > **Core area:** Contributions of Indian moral thinkers and philosophers to public-administration
 > ethics (official UPSC GS-IV syllabus item).
-> **Grounded in:** 2nd ARC 4th Report *Ethics in Governance* (2007) — Kautilya citation in the
-> National Colloquium annexure; Gandhi's Seven Social Sins (ARC Colloquium); standard primary
-> sources for Buddha, Vivekananda, Basava, Guru Nanak; audited GS-IV PYQs (2024-2025 Mains).
+> **Grounded in:** 2nd ARC, 4th Report *Ethics in Governance* (2007) — Kautilya passages in
+> **Annexure-I(2)** (ARC Chairman's National Colloquium speech) and Gandhi's Seven Social Sins in
+> **Box 2.8**; standard primary sources for Buddha, Vivekananda, Basava and Guru Nanak; audited
+> GS-IV PYQs (2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/06_Indian-Moral-Thinkers-and-Philosophers.md`.*
 
@@ -24,9 +25,9 @@ Gandhi               Sarvodaya, Trusteeship, Seven        Ends-means unity; powe
 Vivekananda          Practical Vedanta; service to        Selective learning, service as spiritual
                       humanity as service to God             duty ("Daridra Narayana")
 Basava               Anubhava Mantapa; equality,          Anti-caste, participatory ethics; work
-                      Kayaka (dignity of labour)            (kayaka) as spiritual/civic duty
+                      Kayaka (work) + Dasoha (sharing)      (kayaka) as spiritual/civic duty
 Guru Nanak           Naam Japna, Kirat Karo, Vand         Honest livelihood + sharing with others
-                      Chakko (earn honestly, share)         as an ethic of public resource use
+                      Chhako (earn honestly, share)         as an ethic of public resource use
 ```
 
 **Core proposition:** ⚠️ Indian moral thinkers span a spectrum from **structural realism**
@@ -42,29 +43,35 @@ duty/devotion.
 | ✅ **Sarvodaya and Trusteeship** (Gandhi) | Welfare of all, achieved when the wealthy/powerful hold resources/power in trust for society's benefit rather than as personal property. |
 | ✅ **Practical Vedanta** (Vivekananda) | The application of Vedantic non-dualism to ethical service — "Daridra Narayana" (seeing God in the poor) makes service to the deprived a spiritual and civic duty. |
 | ✅ **Madhyama Pratipada** (Buddha) | The Middle Path between self-indulgence and self-mortification — administratively read as balance, proportionality and non-extremism in decision-making. |
-| ✅ **Kayaka** (Basava) | Dignity of labour — all honest work, regardless of caste, is spiritually and socially equal, underpinning an anti-discrimination service ethic. |
+| ✅ **Kayaka** (Basava) | *Kayakave Kailasa* — dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic. Its companion principle is **Dasoha**, sharing one's surplus in service of the community. |
 
 ## 3. Thinker-by-thinker administrative translation
 
-1. **Kautilya:** ✅ cited at the ARC's National Colloquium — an official handling public money
-   "cannot but taste" some of it, and officials' true intentions are harder to discern than "the
-   path of birds flying in the sky." ⚠️ Lesson: assume opportunity-driven temptation is structural,
-   not exceptional; reward officials who serve with integrity and rotate/reassign those who misuse
-   funds — an early performance-and-integrity-linked personnel policy.
+1. **Kautilya:** ✅ ARC Annexure-I(2) quotes the *Arthashastra* (Kangle 2.9.32-34): an official
+   dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey
+   or poison; embezzlement is as unobservable as a fish drinking water; and "it is possible to know
+   even the path of birds flying in the sky, but not the ways of officers moving with their
+   intentions concealed." ⚠️ Lesson: assume opportunity-driven temptation is structural, not
+   exceptional; make those who increase the king's wealth "in just ways" permanent in office and
+   make those who misappropriate disgorge and move — an early performance-and-integrity-linked
+   personnel policy.
 2. **Buddha:** ⚠️ The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto
    lawful conduct, honest occupation and self-aware decision-making; the Middle Path counsels
    against both reckless discretion and paralytic over-caution in administrative choice.
-3. **Gandhi:** ✅ Seven Social Sins (see `02`) warn against decoupling means from ethical restraint;
-   ⚠️ Trusteeship reframes public office holding — a bureaucrat "owns" authority only in trust for
-   citizens, never as personal property, directly opposing the ARC's account (`01`) of officials
-   treating "public office as an extension of one's property."
-4. **Vivekananda:** ✅ "Learn... but do not become others" and "the strength of a society is... in
-   the morality of its people" (both 2024/2025 GS-IV PYQs, see `02`); ⚠️ "Daridra Narayana" converts
-   welfare administration from a bureaucratic obligation into a devotional duty, elevating
-   compassion (`04`) to a spiritual register useful in Mains ethics essays.
-5. **Basava:** ⚠️ Kayaka (dignity of labour) and the Anubhava Mantapa's participatory, caste-blind
-   assembly model anticipate modern participatory governance and anti-discrimination service norms.
-6. **Guru Nanak:** ⚠️ "Kirat Karo" (earn through honest labour) and "Vand Chakko" (share with
+3. **Gandhi:** ✅ Seven Social Sins (ARC Box 2.8, sourced to *Young India*, 1925 — see `02`) warn
+   against decoupling means from ethical restraint; ⚠️ Trusteeship reframes public office holding —
+   a bureaucrat "owns" authority only in trust for citizens, never as personal property.
+4. **Vivekananda:** ✅ "Learn everything that is good from others, but bring it in, and in your own
+   way absorb it; do not become others" (2024 GS-IV Q3(a); *Complete Works*, Vol. III) and the 2025
+   GS-IV Q3(c) line on law versus the morality of a people (⚠️ attributed by UPSC, not traceable to
+   the *Complete Works* — see `02`); ⚠️ "Daridra Narayana" converts welfare administration from a
+   bureaucratic obligation into a devotional duty, elevating compassion (`04`) to a spiritual
+   register useful in Mains ethics essays.
+5. **Basava:** ⚠️ Kayaka (*kayakave kailasa* — dignified, honest work is itself the divine abode)
+   and Dasoha (sharing one's surplus in service), together with the Anubhava Mantapa's
+   participatory, caste-blind assembly of sharanas, anticipate modern participatory governance and
+   anti-discrimination service norms.
+6. **Guru Nanak:** ⚠️ "Kirat Karo" (earn through honest labour) and "Vand Chhako" (share with
    others) together model an ethic directly applicable to a public servant's honest use of, and
    equitable sharing of, public resources.
 
@@ -79,15 +86,21 @@ duty/devotion.
 
 ## 5. Must-Know Facts for Prelims
 
-- ✅ Kautilya's Arthashastra is the ARC-cited classical source for the earliest structural theory of
-  official corruption in Indian political thought.
-- ✅ Gandhi's Seven Social Sins: wealth without work, pleasure without conscience, science without
-  humanity, knowledge without character, politics without principle, commerce without morality,
-  worship without sacrifice.
-- ✅ Basava founded the Anubhava Mantapa (12th century, Karnataka) as an early participatory,
-  anti-caste assembly for spiritual and social discourse.
-- ✅ Guru Nanak's three pillars: Naam Japna (remembrance of the divine), Kirat Karo (honest labour),
-  Vand Chakko (sharing with others).
+- ✅ Kautilya's *Arthashastra* is the classical Indian source the ARC quotes (Annexure-I(2), Kangle
+  2.9.32-34) for a structural, opportunity-driven theory of official corruption in Indian political
+  thought.
+- ✅ Gandhi's Seven Social Sins as printed in ARC Box 2.8: politics without principles; wealth
+  without work; leisure without conscience; knowledge without character; commerce without morality;
+  science without humanity; worship without sacrifice. ⚠️ The original *Young India* note of 22
+  October 1925 reads "pleasure without conscience" (see `02`).
+- ✅ Basava (12th century, in the Kalachuri kingdom under Bijjala) is associated with the **Anubhava
+  Mantapa**, an assembly of Lingayat *sharanas* for spiritual and social discourse open across
+  caste and gender. ⚠️ Present it as a tradition-attested assembly, not as a securely dated
+  institution — and avoid the popular "first parliament in the world" claim.
+- ✅ Guru Nanak's three pillars, as standardly taught: Naam Japna (remembrance of the divine name),
+  Kirat Karo (honest labour), Vand Chhako (sharing with others). ⚠️ The scriptural basis is firm
+  (Guru Granth Sahib, Angs 8 and 1245); the "three pillars" phrasing itself is later pedagogical
+  packaging, not a verbatim triad of Guru Nanak's.
 
 ## 6. UPSC traps
 

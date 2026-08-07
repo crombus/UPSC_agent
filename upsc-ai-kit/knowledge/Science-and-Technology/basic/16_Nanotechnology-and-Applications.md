@@ -29,8 +29,12 @@
 | ✅ **Surface-area effect** | Increase in relative exposed surface, often raising reactivity, adsorption or catalytic performance. |
 | ✅ **Carbon nanotube (CNT)** | Cylindrical nanostructure of carbon with high strength and useful electrical/thermal properties. |
 | ✅ **Graphene** | Single-atom-thick sheet of carbon atoms arranged in a hexagonal lattice. |
-| ✅ **Quantum dot** | Nanocrystal whose optical/electronic behaviour depends strongly on size. |
+| ✅ **Quantum dot** | Nanocrystal whose optical/electronic behaviour depends strongly on size — smaller dots emit shorter (bluer) wavelengths, the classic demonstration of quantum confinement. |
 | ✅ **Nanocomposite** | Composite material in which one phase has nanoscale dimensions to improve performance. |
+| ⚠️ **Fullerene (C₆₀)** | Closed hollow carbon cage ("buckyball"); with graphene, CNTs and diamond/graphite it completes the standard **carbon allotrope** set tested in Prelims. |
+| ⚠️ **Dendrimer** | A precisely branched, tree-like polymer with internal cavities and a controllable surface — widely studied for **drug encapsulation and targeted delivery**. |
+| ⚠️ **Nanoemulsion** | Kinetically stable dispersion of nanoscale droplets of one liquid in another; the basis of many agricultural formulations, food and cosmetic products. |
+| ⚠️ **Nanoparticle vs nano-object vs nanomaterial vs nanotechnology** | A **nanoparticle** has **all three external dimensions** at the nanoscale; a **nanofibre/nanotube** has two, a **nanoplate/nanosheet** has one — collectively **nano-objects**. A **nanomaterial** is any material with nanoscale internal or surface structure. **Nanotechnology** is the deliberate design, manipulation and application of matter at that scale. Using these as synonyms is a precision error. |
 
 ## 3. Mechanism / how it works
 
@@ -38,8 +42,9 @@
 2. ✅ This can change reactivity, catalytic action, adsorption behaviour and mechanical performance.
 3. ✅ At sufficiently small dimensions, quantum effects can alter colour, band-gap, conductivity or magnetic behaviour.
 4. ✅ Scientists deliberately build nanomaterials as particles, tubes, sheets, coatings or composites to exploit these altered properties.
-5. ✅ The resulting materials can then be used in drug delivery, diagnostics, catalysts, filtration membranes, batteries, coatings, electronics and sensors.
-6. ⚠️ UPSC answers should therefore connect **size -> property change -> application**, not stop at definitions.
+5. ⚠️ Two broad fabrication routes exist: **top-down** (carving structures from bulk material — lithography, milling, etching) and **bottom-up** (assembling from atoms/molecules — self-assembly, chemical vapour deposition, sol-gel). Top-down is precise but wasteful; bottom-up is scalable but harder to control.
+6. ✅ The resulting materials can then be used in drug delivery, diagnostics, catalysts, filtration membranes, batteries, coatings, electronics and sensors.
+7. ⚠️ UPSC answers should therefore connect **size -> property change -> application**, not stop at definitions.
 
 ## 4. Institutions and programmes
 
@@ -51,7 +56,7 @@
 ## 5. Indian applications, examples and limitations
 
 - ✅ **Medicine:** nanocarriers, imaging materials, biosensors and targeted-delivery research are major areas of interest.
-- ✅ **Agriculture:** nano-fertilizers, nano-urea, sensing and smart-delivery approaches are being explored for input efficiency.
+- ✅ **Agriculture:** nanotechnology in Indian agriculture spans **nano-fertilisers** (notably nano urea and nano DAP, which are **commercially marketed products notified under the Fertiliser (Control) Order**, not merely research concepts), **nano-formulated agrochemicals** allowing lower dose per hectare, **nano-sensors** for soil moisture and nutrient status, **controlled-release and seed-coating systems**, and **nano-enabled water/post-harvest treatment**. ⚠️ **Agronomic evidence on yield equivalence for nano urea is actively contested in the scientific literature**; write it as a promising input-efficiency technology whose field performance is still being evaluated, never as settled fact.
 - ✅ **Energy:** nanomaterials are relevant to batteries, fuel cells, supercapacitors and higher-performance solar cells.
 - ✅ **Water and environment:** nanomaterials can support adsorption, membrane filtration and contaminant detection.
 - ✅ **Textiles and coatings:** nano-enabled coatings can improve stain resistance, antimicrobial behaviour or durability.
@@ -83,19 +88,19 @@
 - 📰 **01 Sep 2024 | DST | Status: call opened.** DST opened a proposal window on advanced materials under NPNST.
 - 📰 **30 Sep 2024 | DST | Status: call closed after submission window.** The NPNST proposal page listed 30 Sep 2024 as the deadline for the advanced-materials call.
 - 📰 **27 Mar 2025 | MeitY / PIB | Status: event held.** Government-backed Nano Electronics Roadshow and Conference on Semiconductor Ecosystem in India highlighted nanoelectronics, indigenous IP and startups.
-- 📰 **16 Jul 2026 | DST / INST page access date | Status: programme architecture remains live online.** Official DST and INST pages continue to describe ongoing nano-science institutions and programme support.
+- 📰 **16 Jul 2026 | DST / INST page access date | Status: programme pages accessible online.** ⚠️ A live webpage evidences that the institutional architecture exists; it does **not** establish current funding levels, active project counts or deployment. Do not convert "page is live" into "programme is active at scale."
 
-*Current as of 16 Jul 2026; verify for later updates.*
+*Current as of 16 Jul 2026, re-verified 2 Aug 2026; verify for later updates.*
 
 ## 9. PYQ application
 
-- ✅ **2025 GS-III direct PYQ:** how nanotechnology advances agriculture and
-  can improve farmers' socio-economic condition. Link nano-inputs, sensors,
-  delivery and water treatment to cost, safety, access and regulation. Exact
-  route: `../README.md`.
+- ✅ **2025 GS-III direct PYQ (Q15, 250 words):** "How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers?" Route: `../README.md`.
+  - ⚠️ **Advancements to name:** **nano-fertilisers** (nano urea, nano DAP — FCO-notified commercial products) improving nutrient-use efficiency and cutting bulk handling; **nano-formulated pesticides** enabling lower active-ingredient dose and reduced residue; **controlled/targeted release** synchronised with crop demand; **nano-sensors** for soil moisture, nutrients and pathogen detection feeding precision agriculture; **seed coatings and nano-priming** for germination and stress tolerance; **nano-enabled water treatment and irrigation-water remediation**; and **post-harvest** nano-coatings and active packaging to cut spoilage.
+  - ⚠️ **Socio-economic uplift pathway (write it as a chain, not a list):** lower input cost per hectare and reduced transport/storage burden → improved input-use efficiency and possibly yield stability → less fertiliser-subsidy pressure and lower import dependence → reduced residue and soil/water damage → better post-harvest realisation through lower spoilage → higher net farm income, especially for small and marginal farmers who buy inputs in small lots.
+  - ⚠️ **The balance that earns marks:** state plainly that **field-level agronomic evidence for nano urea's yield equivalence is contested**, that **nanotoxicology and soil-microbiome effects are unsettled**, that **standards, metrology and residue-testing protocols are incomplete**, and that benefits reach farmers only with **extension support, credit and awareness** — otherwise a technology adopted on cost grounds can reduce yields for the least-informed users. Conclude that nanotechnology is best framed as **input-efficiency and precision-agriculture infrastructure**, not as a yield miracle.
 
 - ⚠️ UPSC usually prefers concept questions such as **why nanomaterials behave differently** rather than deep laboratory chemistry.
-- ⚠️ Prelims can test distinctions among graphene, CNTs, quantum dots and nanocomposites.
+- ⚠️ Prelims can test distinctions among graphene, CNTs, fullerenes, dendrimers, quantum dots and nanocomposites.
 - ⚠️ GS-III can link nanotechnology with agriculture, health, water treatment, energy storage, electronics and manufacturing competitiveness.
 - ⚠️ A common analytical angle is whether nanotechnology is only a frontier lab subject or also a development and industrial policy tool.
 

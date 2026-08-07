@@ -1,5 +1,7 @@
 # Polity - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Indian Constitution and Polity | **GS Paper:** GS-II  
 > **Use:** Read the unnumbered file in `basic/` first, then its numbered companion in
 > `advanced/`. Political Theory remains a separate conceptual module; this folder owns

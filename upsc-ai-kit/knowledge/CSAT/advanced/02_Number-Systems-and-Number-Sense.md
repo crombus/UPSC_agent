@@ -36,7 +36,7 @@ Exponent reduction modulo a period is valid only from the point where that perio
 | ✅ **Power tower** | For `a^(b^c) mod m`, reduce the exponent modulo a verified period only after accounting for any pre-period. | If `gcd(a,m) = 1`, Euler/Carmichael-style periodicity is available; otherwise inspect the residue sequence directly. |
 | ✅ **Exponent of prime p in n!** | `v_p(n!) = floor(n/p) + floor(n/p^2) + ...`; the highest power dividing `n!` is `p^v_p(n!)`. | Trailing zeros equal `v_5(n!)` (since 2s are more plentiful). |
 | ✅ **Last two digits** | Track `mod 100`; many bases have short 2-digit cycles. | e.g., `7^4 ≡ 01 (mod 100)`. |
-| ✅ **Inclusion-exclusion** | `|A∪B| = |A| + |B| - |A∩B|`. | For "divisible by neither", subtract the union from the range. |
+| ✅ **Inclusion-exclusion** | `\|A∪B\| = \|A\| + \|B\| - \|A∩B\|`. | For "divisible by neither", subtract the union from the range. |
 
 ## 3. Harder methods (worked)
 
@@ -56,8 +56,30 @@ Exponent reduction modulo a period is valid only from the point where that perio
 **Last two digits of `7^100`.** `7^4 = 2401 ≡ 01 (mod 100)`, so `7^100 = (7^4)^25 ≡ 01`. **Last two
 digits = 01.** *(Verified.)*
 
+### 📝 Method 4 - when the base and modulus share a factor (no period at all)
+
+⚠️ The "reduce the exponent modulo the cycle length" habit **fails** when `gcd(a, m) != 1`. List the
+residues first:
+
+| `n` | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+| `6^n mod 8` | 6 | 4 | **0** | 0 | 0 | 0 |
+| `2^n mod 8` | 2 | 4 | **0** | 0 | 0 | 0 |
+
+The sequence does not cycle - it **stabilises at 0** from `n = 3` onward, because `8 = 2^3` divides
+every `6^n` and `2^n` with `n >= 3`. So `6^25 mod 8 =` **0**, and any attempt to "reduce 25 modulo a
+period" is meaningless here. *(Verified.)*
+
+- 🔑 **Escalation rule:** before reducing an exponent, ask **"is `gcd(base, modulus) = 1`?"** If yes,
+  a genuine cycle exists and reduction is safe. If no, write out the first few residues and look for
+  **stabilisation or a pre-period** instead.
+
 ## 4. Time-saving techniques (safe conditions)
 
+- ⚠️ **Coprimality gate - run this before any exponent reduction.** If `gcd(base, modulus) = 1`, a
+  genuine cycle exists and reducing the exponent modulo its length is safe. If not, list residues and
+  look for a **pre-period or stabilisation** instead (Method 4). *This single check prevents the most
+  expensive error in the family.*
 - ⚠️ **Negatives modulo m.** Replace a base by a small negative residue (e.g., `15 ≡ -1 mod 4`) to
   make powers trivial. *Safe always.*
 - ⚠️ **Parity/last-digit elimination.** Kill options of the wrong parity or unit digit before any
@@ -70,9 +92,14 @@ digits = 01.** *(Verified.)*
 
 - ⚠️ Within a cycle that starts at exponent 1, a reduced exponent of `0` selects the **last cycle
   position**. If there is a pre-period, map the exponent relative to the cycle's actual start instead.
+- ⚠️ A **stabilising** sequence (Method 4) has no cycle at all - the answer is simply the stable value
+  once the exponent is large enough.
+- ⚠️ "Divisible by **either**" (`|A| + |B| - |A∩B|`) and "divisible by **exactly one**"
+  (`|A| + |B| - 2|A∩B|`) are different counts; read which is asked.
 - ⚠️ Inclusion-exclusion needs the **intersection** term (divisible by `lcm`), not the product of the
   two divisors, unless they are coprime.
 - ⚠️ `HCF x LCM = product` **fails** for three or more numbers - use prime factorisation instead.
+- ⚠️ A "last two digits" answer below 10 keeps its **leading zero** (`3^101 -> 03`, not `3`).
 
 ## 6. Advanced traps
 
@@ -80,8 +107,10 @@ digits = 01.** *(Verified.)*
 - ❌ Reducing modulo a period before checking non-coprime stabilization/pre-period. -> List residues
   and locate where repetition actually begins.
 - ❌ Counting trailing zeros of `n!` by 2s. -> Count 5s.
+- ❌ Stopping the `v_p(n!)` floor sum one term early. -> Continue until the term is 0.
 - ❌ In "divisible by neither 2 nor 3", subtracting `50 + 33` without adding back multiples of 6. ->
   Use inclusion-exclusion.
+- ❌ Answering the "either" count when "exactly one" was asked. -> Subtract the overlap **twice**.
 - ❌ Treating `a^0` inside a cycle as term 0. -> It is the last cycle term.
 
 ## 7. Error analysis
@@ -95,19 +124,32 @@ digits = 01.** *(Verified.)*
 
 ## 8. Advanced drill (with full solutions)
 
+> ⚠️ These items are **new** - none repeats Methods 1-4 above or an example in the Foundation file.
+
 1. Trailing zeros of `50!`.
 2. How many integers from 1 to 1000 are divisible by **3 or 5**?
-3. Remainder of `2^50` divided by 7.
-4. How many integers from 1 to 100 are divisible by **neither 2 nor 3**?
-5. Unit digit of `3^35`.
+3. Remainder when `2^100` is divided by 9.
+4. What is the **highest power of 2** that divides `50!`?
+5. Last two digits of `3^101`.
+6. How many integers from 1 to 300 are divisible by **exactly one** of 4 and 6?
+7. Remainder when `10^30` is divided by 16.
 
 **Solutions.**
 
 1. **12.** `floor(50/5) + floor(50/25) = 10 + 2 = 12`. *(Verified.)*
 2. **467.** `floor(1000/3) + floor(1000/5) - floor(1000/15) = 333 + 200 - 66 = 467`. *(Verified.)*
-3. **4.** `2^3 ≡ 1 (mod 7)`, `50 mod 3 = 2`, `2^2 = 4`. *(Verified.)*
-4. **33.** Divisible by 2 or 3 = `50 + 33 - 16 = 67`; neither = `100 - 67 = 33`. *(Verified.)*
-5. **7.** Cycle (3,9,7,1); `35 mod 4 = 3` -> 7. *(Verified.)*
+3. **7.** `gcd(2, 9) = 1`, so a cycle exists: `2^6 = 64 ≡ 1 (mod 9)`, period **6**.
+   `100 mod 6 = 4` -> `2^4 = 16 ≡ 7`. *(Verified.)*
+4. **`2^47`.** `v_2(50!) = 25 + 12 + 6 + 3 + 1 = 47`. *(Verified - keep adding floors until the term
+   is 0; the last non-zero term here is `floor(50/32) = 1`.)*
+5. **03.** `3^20 ≡ 01 (mod 100)`, so `3^100 ≡ 01` and `3^101 ≡ 3`, i.e. the last two digits are
+   **03** - write the leading zero. *(Verified.)*
+6. **75.** `|A| = floor(300/4) = 75`, `|B| = floor(300/6) = 50`, `|A ∩ B| = floor(300/12) = 25`.
+   "Exactly one" `= |A| + |B| - 2|A ∩ B| = 75 + 50 - 50 = 75`. *(Verified.)* ⚠️ Subtracting the
+   overlap **once** (the "either" count) would give 100 - a different question.
+7. **0.** `gcd(10, 16) = 2 != 1`, so there is **no cycle to reduce into** - apply the Method 4 gate.
+   Listing residues gives `10, 4, 8, 0, 0, ...`: the sequence **stabilises** at 0 from `n = 4`, because
+   `16 = 2^4` divides `10^n` once `n >= 4`. Since `30 >= 4`, the remainder is **0**. *(Verified.)*
 
 ## 9. PYQ-pattern notes (2024-2026, Set A)
 

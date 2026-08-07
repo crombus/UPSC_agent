@@ -33,7 +33,7 @@ Authentic Existence; Being-in-the-world and Temporality.
  15. Nyaya—Vaiesesika : Theory of Categories; Theory of Appearance; Theory of Pramana; Self, Liberation;
 God; Proofs for the Existence of God; Theory of Causation; Atomistic Theory of Creation.
  16. Samkhya; Prakrit; Purusa; Causation; Liberation.
- 17. Yoga; Citta; Cittavrtti; Klesas; Samadhi; Kaivalya. 
+ 17. Yoga; Citta; Cittavrtti; Klesas; Samadhi; Kaivalya.
 18. Mimamsa: Theory of Knowlegde.
 19. Schools of Vedanta : Brahman; Isvara; Atman; Jiva; Jagat; Maya; Avida; Adhyasa; Moksa;
 Aprthaksiddhi; Pancavidhabheda.

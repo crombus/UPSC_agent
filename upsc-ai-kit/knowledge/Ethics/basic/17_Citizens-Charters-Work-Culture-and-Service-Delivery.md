@@ -65,12 +65,17 @@ clauses, rather than "a long list of lofty declarations which are impractical."
 
 ## 4. Indian applications and examples
 
-- ✅ ARC 6.3.3: Andhra Pradesh's E-Seva integrated roughly 13 state/local, 3 central and 9 private-
-  sector organisations' services under one roof, covering bill payments, certificates, reservations
-  and share transfers — an Administrative Staff College of India survey found reduced corruption
-  and realised expected benefits.
+- ✅ ARC 6.3.3: Andhra Pradesh's E-Seva integrated some 13 state and local government, three central
+  government and nine private-sector organisations' services under one roof — bill payments, birth
+  and death certificates, property tax, train and bus reservations, mobile bill payments, passport
+  applications and share transfers; a user survey by the Administrative Staff College of India
+  indicated the expected benefits were being realised and corruption had reduced substantially.
 - ⚠️ A district office publishing a citizen-facing dashboard of average processing times per service,
   updated in real time, operationalises ARC's charter-with-remedy recommendation in a digital-era form.
+- 📰 DARPG's Sevottam framework (2006) is the domestic institutional expression of the same logic:
+  a Citizens' Charter is only one of its three modules, the other two being grievance redress and
+  service-delivery capability — a useful corrective to answers that treat the charter alone as the
+  reform.
 - ✅ 2025 GS-IV Q6(a) (workplace code-of-ethics compliance culture) directly tests measures for a
   "value-based and compliance-based work culture," which this topic's charter-plus-culture framework
   directly answers.
@@ -78,10 +83,19 @@ clauses, rather than "a long list of lofty declarations which are impractical."
 ## 5. Must-Know Facts for Prelims
 
 - ✅ ARC 5.1.7 explicitly diagnoses Citizens' Charters as having "fallen into disuse" in many
-  offices, becoming unenforceable "pious declarations."
+  offices, becoming unenforceable "pious declarations with no mechanism to enforce them."
 - ✅ ARC's own recommendation is fewer, specific, enforceable promises rather than long aspirational
   lists, with a stated remedy/compensation mechanism for default.
-- ✅ Andhra Pradesh's E-Seva (ARC 6.3.3) is the ARC's cited exemplar one-stop service-delivery model.
+- ✅ Andhra Pradesh's E-Seva (ARC 6.3.3) is the ARC's cited exemplar one-stop service-delivery model,
+  integrating "some 13 state and local government organisations, three central government
+  organisations and nine private sector organisations under one roof."
+- 📰 **Institutional context to name in answers:** India's Citizens'/Clients' Charter initiative
+  dates from the 1997 Conference's Action Plan for Effective and Responsive Administration; DARPG
+  designed the **Sevottam** framework in 2006 around three modules — Citizens' Charter, Public
+  Grievance Redress Mechanism, and Service Delivery Capability. ⚠️ The *Right of Citizens for Time
+  Bound Delivery of Goods and Services and Redressal of their Grievances Bill, 2011*, introduced in
+  the Lok Sabha on 20 December 2011, **lapsed** and never became law — there is no national
+  right-to-service statute, only State-level Right to Service/Public Service Guarantee Acts.
 
 ## 6. UPSC traps
 
@@ -91,6 +105,10 @@ clauses, rather than "a long list of lofty declarations which are impractical."
 - ❌ Work culture and Citizens' Charters are the same thing. -> A charter is a formal, published
   document; work culture is the lived daily practice of an office, which can diverge sharply from
   the charter's stated promises without active reinforcement.
+- ❌ India has a national statutory right to time-bound public services. -> The 2011 Bill that would
+  have created one lapsed; only some States have enacted Right to Service/Public Service Guarantee
+  legislation, and the central framework remains administrative (Citizens' Charters, Sevottam,
+  CPGRAMS-type grievance systems).
 - ❌ "Enabler not regulator" means abandoning all regulatory function. -> It means calibrated,
   risk-based facilitation alongside necessary regulation, not wholesale deregulation (see `04`).
 

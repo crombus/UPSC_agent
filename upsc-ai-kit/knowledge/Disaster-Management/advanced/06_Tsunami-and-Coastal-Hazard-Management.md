@@ -154,11 +154,22 @@ schedules.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **INCOIS/ITEWC's official tsunami-service-provider status** (regional
-  and global service provider role recognised under UNESCO-IOC
-  arrangements), checked as of 18 July 2026, is the correct current
-  anchor for warning-system operational status, service-provider scope
-  and any claim about monitoring-station counts.
+- 📰 **INCOIS/ITEWC's official tsunami-service-provider status** —
+  operational since **15 October 2007**, an approved UNESCO-IOC Tsunami
+  Service Provider under IOTWMS, detecting in ~10 minutes and
+  disseminating in ~20 minutes to India and **26 Indian Ocean-rim
+  countries** (PIB, 4 February 2026) — is the correct current anchor for
+  warning-system operational status, service-provider scope and any claim
+  about monitoring-station counts.
+- 📰 **UNESCO-IOC "Tsunami Ready"** is the correct anchor for
+  community-preparedness claims: recognition is community-level and
+  indicator-based, first awarded in India to **Venkatraipur** and
+  **Noliasahi**, Odisha, on **7 August 2020**. ⚠️ Recognition is
+  **periodically renewable**, which is precisely why it is the right
+  instrument for this topic's readiness-decay problem (Section 2): it
+  converts preparedness from a one-off investment into a recurring
+  verification, addressing the low-frequency hazard's characteristic
+  failure mode rather than merely documenting a moment of readiness.
 - ❌ Do not present VisionIAS's RTSMN/monitoring-station description or
   the "13 tsunamis in 300 years" figure as necessarily current without
   this verification.

@@ -61,7 +61,7 @@ strategic autonomy to multi-alignment.
 | ✅ **Non-alignment** | ✅ As Nehru described it, non-alignment meant "(i) that India has no military alliances with countries of either bloc... (ii) India has an independent approach to foreign policy; and (iii) India attempts to maintain friendly relations with all countries" — a refusal to join a Cold War bloc, not passivity. |
 | ✅ **Strategic autonomy** | ⚠️ The continuing successor concept to non-alignment in a multipolar, post-Cold-War world: the retained capacity to decide each external issue by India's own interest calculus rather than bloc discipline. |
 | ✅ **Multi-alignment** | ✅ Tharoor's term for engaging every relevant platform on its own terms — "both the United Nations and the G20; both the Non-Aligned Movement... and the Community of Democracies... both the G77... and smaller organizations like IOR-ARC... both SAARC and [ASEAN]" — rather than one exclusive bloc. |
-| ✅ **Panchsheel** | The five principles of peaceful coexistence (mutual respect for sovereignty and territorial integrity, non-aggression, non-interference, equality and mutual benefit, peaceful coexistence) — a historical normative reference still invoked in India's diplomatic vocabulary. |
+| ✅ **Panchsheel** | The five principles of peaceful coexistence (mutual respect for sovereignty and territorial integrity, non-aggression, non-interference, equality and mutual benefit, peaceful coexistence), set out in the preamble of the India-China Agreement on Trade and Intercourse with the Tibet Region of China (signed 29 April 1954) — a historical normative reference still invoked in India's diplomatic vocabulary. |
 | ⚠️ **Principles versus interests** | Indian foreign policy is regularly framed as balancing normative commitments (anti-colonialism, sovereign equality, peaceful coexistence) against hard interest calculations (security, growth, technology access) — the two are presented as complementary, not opposed. |
 | ⚠️ **Hedging** | Simultaneously deepening ties with more than one major power on different issues, without exclusive commitment to any one — the operational expression of strategic autonomy in a multipolar order. |
 
@@ -90,12 +90,21 @@ strategic autonomy to multi-alignment.
 ## 4. Instruments, principles and reference points
 
 - ✅ **Panchsheel (1954):** historical normative reference for peaceful
-  coexistence, still cited in joint statements.
+  coexistence, set out in the preamble of the India-China Tibet-trade agreement
+  of 29 April 1954 and still cited in joint statements.
 - ✅ **Non-alignment / NAM:** historical institutional expression of the refusal
   to join a bloc; World History owns the Cold-War chronology of NAM's founding.
-- ⚠️ **SAGAR (Security and Growth for All in the Region)** and **Act East /
-  Neighbourhood First:** are contemporary policy doctrines that operationalise
-  strategic autonomy regionally (detailed in topics 02 and 04).
+- ⚠️ **SAGAR and its stated extension MAHASAGAR:** ✅ SAGAR ("Security and Growth
+  for All in the Region") was articulated in Mauritius on 12 March 2015; ✅ on
+  12 March 2025, again in Mauritius (Port Louis), the Prime Minister announced
+  that India's vision for the Global South would be "going beyond SAGAR — it
+  will be MAHASAGAR, i.e. 'Mutual and Holistic Advancement for Security and
+  Growth Across Regions'," encompassing "trade for development, capacity
+  building for sustainable growth, and mutual security for a shared future,"
+  delivered through "technology sharing, concessional loan and grants."
+  ⚠️ Both are declared visions, not treaties (detailed in topics 04 and 08).
+- ⚠️ **Act East / Neighbourhood First:** contemporary policy doctrines that
+  operationalise strategic autonomy regionally (detailed in topics 02 and 10).
 - ⚠️ **Development partnership model:** lines of credit, capacity building and
   technical cooperation (ITEC) function as a distinct diplomatic instrument
   alongside classical security/trade tools (detailed in topics 07-08).
@@ -131,10 +140,13 @@ strategic autonomy to multi-alignment.
 - ✅ Tharoor's "multi-alignment" explicitly includes simultaneous engagement with
   the UN and G20, NAM and the Community of Democracies, the G77 and IOR-ARC, and
   SAARC and ASEAN-linked processes.
-- 📰 The third Voice of Global South Summit was convened on 17 August 2024 —
-  a contemporary example of India using a dedicated multilateral platform to
-  aggregate developing-country voice (detailed current-anchor treatment in
+- 📰 The third Voice of Global South Summit was convened virtually on 17 August
+  2024 — a contemporary example of India using a dedicated multilateral platform
+  to aggregate developing-country voice (detailed current-anchor treatment in
   topic 08).
+- 📰 MAHASAGAR ("Mutual and Holistic Advancement for Security and Growth Across
+  Regions") was announced at Port Louis on 12 March 2025, exactly ten years after
+  SAGAR was articulated in Mauritius on 12 March 2015.
 - ⚠️ Strategic autonomy is not neutrality or non-alignment "on every issue at
   once" — it is issue-specific freedom of choice, retained even while deepening
   a particular bilateral relationship.
@@ -155,17 +167,26 @@ strategic autonomy to multi-alignment.
   Hedging means pursuing distinct, often deep, partnerships with more than one
   power on different issues, not avoiding commitment altogether.
 - ❌ Panchsheel and non-alignment are the same concept. -> Panchsheel is a set of
-  normative principles for interstate conduct; non-alignment is a bloc-avoidance
-  foreign-policy posture — related but distinct.
+  normative principles for interstate conduct (1954, India-China Tibet-trade
+  agreement); non-alignment is a bloc-avoidance foreign-policy posture — related
+  but distinct.
+- ❌ MAHASAGAR replaced or superseded SAGAR. -> The 12 March 2025 announcement
+  presents MAHASAGAR as "going beyond SAGAR" for the Global South while
+  explicitly reaffirming that India is "moving ahead with the SAGAR Vision" in
+  the Indian Ocean region — an extension of scope, not a repudiation.
 
 ## 8. 📰 Current anchor
 
-- 📰 The third **Voice of Global South Summit** was held on **17 August 2024**
-  (referenced in a subsequent MEA bilateral document dated January 2025). It
-  illustrates contemporary strategic autonomy/multi-alignment in practice: India
-  simultaneously deepens major-power partnerships (topic 03) and convenes a
-  dedicated platform to aggregate Global South concerns (topic 08) — engaging
-  both tracks without treating them as mutually exclusive.
+- 📰 The third **Voice of Global South Summit** was held virtually on
+  **17 August 2024** (referenced in a subsequent MEA bilateral document dated
+  January 2025). It illustrates contemporary strategic autonomy/multi-alignment
+  in practice: India simultaneously deepens major-power partnerships (topic 03)
+  and convenes a dedicated platform to aggregate Global South concerns (topic
+  08) — engaging both tracks without treating them as mutually exclusive.
+- 📰 **MAHASAGAR (12 March 2025, Port Louis)** is the most recent dated doctrinal
+  articulation: it extends SAGAR's regional maritime framing into a Global South
+  development-and-security vision. ⚠️ Cite it as a declared vision with a date,
+  not as a treaty, funding commitment or delivered programme.
 
 ## 9. PYQ application
 

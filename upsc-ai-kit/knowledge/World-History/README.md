@@ -1,5 +1,7 @@
 # World History - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** History (World History) | **GS Paper:** GS-I — "History of the world will
 > include events from 18th century such as industrial revolution, world wars, redrawal of
 > national boundaries, colonization, decolonization, political philosophies like communism,

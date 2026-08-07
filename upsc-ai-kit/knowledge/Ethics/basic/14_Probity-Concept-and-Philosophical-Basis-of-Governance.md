@@ -23,9 +23,10 @@ disclosure              including unobserved           conduct of PUBLIC OFFICE
          \                    |                             /
           v                   v                            v
               Together, these underpin "GOOD GOVERNANCE":
-   participatory, consensus-oriented, accountable, transparent,
-   responsive, effective/efficient, equitable/inclusive, rule-of-law-based
-       (UN-ESCAP's 8 characteristics, cited at the ARC's Colloquium)
+   participatory, consensus oriented, accountable, transparent,
+   responsive, effective and efficient, equitable and inclusive,
+   and follows the rule of law
+       (UNESCAP's 8 characteristics, quoted in ARC Annexure-I(1))
 ```
 
 **Core proposition:** ⚠️ Probity is narrower and more institutional than honesty or integrity — it is
@@ -40,7 +41,7 @@ scrutiny (audit, RTI disclosure, judicial review).
 | ⚠️ **Probity** | Demonstrable, procedurally verifiable rectitude in the exercise of public office — the quality of conduct that would survive external scrutiny, not merely private moral conviction. |
 | ✅ **Integrity** (Nolan, ARC 2.2.5) | Freedom from financial/other obligation to outside individuals/organisations that "might influence" official duty. |
 | ⚠️ **Honesty** | Truthfulness in communication and disclosure — a necessary but not sufficient component of probity (an honest official can still lack procedural rigor or transparency). |
-| ✅ **Good governance** (UN-ESCAP's 8 characteristics, cited at the ARC's National Colloquium) | Participatory, consensus-oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and rule-of-law-based. |
+| ✅ **Good governance** (UNESCAP's 8 characteristics, cited in ARC Annexure-I(1)) | Participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and follows the rule of law. |
 | ⚠️ **Philosophical basis of probity** | Draws on both deontological (duty to the public trust, regardless of consequence) and virtue-ethics (probity as a habituated public-office virtue) traditions — see `08`. |
 
 ## 3. Mechanism: how probity operates in governance (distinguishing it from mere honesty)
@@ -51,7 +52,7 @@ scrutiny (audit, RTI disclosure, judicial review).
 2. **Probity is institutionally scaffolded** — asset disclosure, audit trails, RTI-enabled
    transparency and codes of conduct exist precisely to make private integrity externally verifiable
    as public probity (see `15`, `16`).
-3. ✅ Good governance (UN-ESCAP's eight characteristics, cited at the ARC's Colloquium) situates
+3. ✅ Good governance (UNESCAP's eight characteristics, quoted in ARC Annexure-I(1)) situates
    probity within a wider system — probity alone (individual rectitude) is necessary but not
    sufficient; participation, transparency, accountability and rule of law must reinforce it
    institutionally.
@@ -65,23 +66,30 @@ scrutiny (audit, RTI disclosure, judicial review).
 - ⚠️ A district officer maintaining a transparent, dated file-noting trail for a discretionary
   land-allotment decision demonstrates probity — not merely being honest in intention, but making
   that honesty independently verifiable.
-- ✅ Mandatory annual asset-and-liability declarations for legislators (Representation of the
-  People Act, Section 75A, inserted 2002/2003) operationalise probity by converting private
-  financial conduct into a publicly verifiable record (see `16`).
+- ✅ Annual asset-and-liability declarations by Members of Parliament under **Section 75A of the
+  Representation of the People Act, 1951** (inserted by the Representation of the People (Third
+  Amendment) Act, 2002) operationalise probity by converting private financial conduct into a
+  verifiable record filed within 90 days of taking oath, with the Members of Lok Sabha and Members
+  of Rajya Sabha (Declaration of Assets and Liabilities) Rules, 2004 prescribing the form (see
+  `16`). ⚠️ Section 75A covers **elected candidates for a House of Parliament only**; the ARC's
+  paraphrase at 2.5.6.1 ("or the Legislature of the State") over-states its reach — State-level
+  disclosure obligations rest on separate State rules and on Election Commission nomination
+  affidavits.
 - ⚠️ 2024 GS-IV Q6(a)'s reference to maintaining "high standards of probity" for women public
   servants confirms that probity, in the syllabus's own usage, denotes a demonstrable, institutional
   standard of conduct, not merely a personal virtue.
 
 ## 5. Must-Know Facts for Prelims
 
-- ✅ UN-ESCAP's eight characteristics of good governance: participatory, consensus-oriented,
-  accountable, transparent, responsive, effective and efficient, equitable and inclusive, and
-  follows the rule of law (cited at the ARC's National Colloquium address).
+- ✅ The UN Economic and Social Commission for Asia and the Pacific (UNESCAP) formulation quoted in
+  ARC Annexure-I(1): good governance "has 8 major characteristics. It is
+  participatory, consensus oriented, accountable, transparent, responsive, effective and efficient,
+  equitable and inclusive and follows the rule of law."
 - ⚠️ Probity is distinguished from integrity/honesty by its requirement of external verifiability,
   not merely internal virtue.
-- ✅ The Representation of the People (Third Amendment) Act, 2002 inserted Section 75A, requiring
-  every elected legislator to file asset/liability details within 90 days of taking oath — an early
-  probity-verification mechanism (ARC 2.5.6.1).
+- ✅ Section 75A of the Representation of the People Act, 1951 (inserted by the Third Amendment Act,
+  2002) requires every elected candidate for a House of **Parliament** to file asset/liability
+  details within 90 days of taking oath — an early probity-verification mechanism (ARC 2.5.6.1).
 
 ## 6. UPSC traps
 
@@ -92,19 +100,20 @@ scrutiny (audit, RTI disclosure, judicial review).
 - ❌ Probity is purely a personal virtue with no institutional dimension. -> Probity is defined
   precisely by its institutional verifiability — disclosure, audit, transparency mechanisms make
   probity checkable, distinguishing it from private honesty alone.
-- ❌ Good governance is achieved once individual officials are honest. -> UN-ESCAP's framework shows
+- ❌ Good governance is achieved once individual officials are honest. -> UNESCAP's framework shows
   good governance requires systemic characteristics (participation, transparency, rule of law)
   beyond any individual official's personal probity.
 
 ## 7. PYQ application
 
-- ✅ **2013 GS-IV:** "What do you understand by the term 'probity' in public
-  life? What are the difficulties in practising it in the present times? How
-  can these difficulties be overcome?" — define, diagnose and prescribe.
-- ✅ **2023 GS-IV:** "'Probity is essential for an effective system of
-  governance and socio-economic development.' Discuss. Suggest measures for
-  ensuring probity in government." — connect verifiable integrity to
-  institutional outcomes and safeguards.
+- ✅ **2014 GS-IV Q4:** "What do you understand by 'probity' in public life? What are the
+  difficulties in practicing it in the present times? How can these difficulties be overcome?" —
+  define, diagnose and prescribe.
+- ✅ **2019 GS-IV Q5(a):** "What do you understand by probity in governance? Based on your
+  understanding of the term, suggest measures for ensuring probity in government."
+- ✅ **2023 GS-IV Q5(b):** "'Probity is essential for an effective system of governance and
+  socio-economic development.' Discuss." — connect verifiable integrity to institutional outcomes.
+  ⚠️ Keep 2019 and 2023 separate; they are two distinct questions, often quoted merged.
 - ✅ 2024 GS-IV Q6(a): maintaining "high standards of probity" for women public servants while
   addressing gender-specific challenges — a direct probity-in-institutional-context question.
 - ⚠️ Any question invoking "philosophical basis of governance" should draw on the trusteeship
@@ -125,7 +134,8 @@ scrutiny (audit, RTI disclosure, judicial review).
 
 ## 9. Probable questions
 
-- ⚠️ **Prelims:** List UN-ESCAP's eight characteristics of good governance.
+- ⚠️ **Prelims:** List the eight characteristics of good governance in the UNESCAP formulation
+  quoted by the 2nd ARC.
 - ⚠️ **Mains (10 marks):** Distinguish probity from integrity and honesty, with an Indian
   administrative example.
 - ⚠️ **Mains (15 marks):** Discuss the philosophical basis of probity in governance, linking it to

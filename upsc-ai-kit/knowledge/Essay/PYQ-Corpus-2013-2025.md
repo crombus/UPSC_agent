@@ -1,28 +1,55 @@
 # UPSC Essay PYQ Corpus, 2013-2025
 
-> **Purpose:** Exact English prompt ledger for the post-2013 Essay pattern.
+> **Purpose:** English prompt ledger for the post-2013 Essay pattern.
 > **Coverage:** 100 prompts — four in 2013; eight in every year from
-> 2014-2025.
-> **Source discipline:** 2017-2025 wording was checked against UPSC-hosted
-> question-paper PDFs; 2013-2016 wording was checked against archived
-> transcriptions of the official papers. OCR artefacts are corrected rather
-> than promoted as printed wording.
+> 2014-2025 (4 + 12×8 = 100).
+> **Source discipline:** each year carries an explicit **verification
+> level**. **V1** = wording read directly off the official question-paper
+> PDF held in this repository. **V2** = no official paper for that year is
+> present locally; the wording is a carried-forward transcription that has
+> **not** been checked against the printed paper in this pass.
 > **Route key:** **Q** = philosophical/quotation (`02,04,05,08,10`);
 > **I** = issue/policy (`03,04,05,08,09,11,12`); **H** = hybrid
 > proposition (`02,03,04,05,08,11,12`).
 
-## 2013 — one essay from four topics
+## Verification ledger
 
-| Label | Exact prompt | Route |
+| Years | Level | Local source | How to use |
+|---|---|---|---|
+| 2018–2025 | **V1 — directly verified** | 2018–2023: `books/more_previous_papers/`; 2024–2025: `books/mains/` | Safe to quote verbatim, printed defects included |
+| 2013–2017 | **V2 — not locally verifiable** | none in this repository | Use for practice and routing; re-check against the official paper before quoting verbatim |
+
+❌ Do not upgrade a V2 row to V1 on the strength of a coaching site, an
+aggregator, or memory. Promotion requires the official paper for that year
+to be added to `books/mains/` and the rows re-read from it.
+
+⚠️ **Label convention.** `YYYY-A1…A4` / `YYYY-B5…B8` are this folder's own
+stable internal references, not the papers' printed numbers. ✅ Verified
+printed numbering varies across V1 years: 2024 restarts Section B
+at 1–4, while 2025 continues Section B at 5–8. For V2 years the printed
+numbering is unknown and is not asserted here.
+
+## 2013 — V2 (not locally verifiable)
+
+⚠️ The 2013 paper is not held locally. The number of topics, the printed
+instruction and the word limit for that year are therefore not asserted
+here; the four prompts below are carried forward for practice only.
+
+| Label | Prompt (V2) | Route |
 |---|---|---|
 | 2013-1 | "Be the change you want to see in others." — Gandhiji | Q |
 | 2013-2 | Is the colonial mentality hindering India's success? | I |
 | 2013-3 | GDP (Gross Domestic Product) along with GDH (Gross Domestic Happiness) would be the right indices for judging the well-being of a country. | H |
 | 2013-4 | Science and Technology is the panacea for the growth and security of the nation. | H |
 
-## 2014
+⚠️ 2013-1 is the only row in the whole corpus carrying an attribution
+("Gandhiji"). Because 2013 is V2, that attribution is itself unverified:
+❌ do not present it as printed-paper fact, and do not extend the pattern
+by attributing any other prompt.
 
-| Label | Exact prompt | Route |
+## 2014 — V2 (not locally verifiable)
+
+| Label | Prompt (V2) | Route |
 |---|---|---|
 | 2014-A1 | With greater power comes greater responsibility. | Q |
 | 2014-A2 | Is the growing level of competition good for the youth? | I |
@@ -33,9 +60,9 @@
 | 2014-B7 | Fifty Golds in Olympics: Can this be a reality for India? | I |
 | 2014-B8 | Tourism: Can this be the next big thing for India? | I |
 
-## 2015
+## 2015 — V2 (not locally verifiable)
 
-| Label | Exact prompt | Route |
+| Label | Prompt (V2) | Route |
 |---|---|---|
 | 2015-A1 | Lending hands to someone is better than giving a dole. | H |
 | 2015-A2 | Quick but steady wins the race. | Q |
@@ -46,9 +73,9 @@
 | 2015-B7 | Dreams which should not let India sleep. | Q |
 | 2015-B8 | Can capitalism bring inclusive growth? | I |
 
-## 2016
+## 2016 — V2 (not locally verifiable)
 
-| Label | Exact prompt | Route |
+| Label | Prompt (V2) | Route |
 |---|---|---|
 | 2016-A1 | If development is not engendered, it is endangered. | H |
 | 2016-A2 | Need brings greed, if greed increases it spoils breed. | Q |
@@ -59,9 +86,9 @@
 | 2016-B7 | Near jobless growth in India: An anomaly or an outcome of economic reforms. | I |
 | 2016-B8 | Digital economy: A leveller or a source of economic inequality. | H |
 
-## 2017
+## 2017 — V2 (not locally verifiable)
 
-| Label | Exact prompt | Route |
+| Label | Prompt (V2) | Route |
 |---|---|---|
 | 2017-A1 | Farming has lost the ability to be a source of subsistence for majority of farmers in India. | I |
 | 2017-A2 | Impact of the new economic measures on fiscal ties between the Union and States in India. | I |
@@ -72,9 +99,9 @@
 | 2017-B7 | We may brave human laws but cannot resist natural laws. | Q |
 | 2017-B8 | Social media is inherently a selfish medium. | H |
 
-## 2018
+## 2018 — V1 (directly verified)
 
-| Label | Exact prompt | Route |
+| Label | Prompt (V1) | Route |
 |---|---|---|
 | 2018-A1 | Alternative technologies for a climate change resilient India. | I |
 | 2018-A2 | A good life is one inspired by love and guided by knowledge. | Q |
@@ -85,9 +112,9 @@
 | 2018-B7 | A people that values its privileges above its principles loses both. | Q |
 | 2018-B8 | Reality does not conform to the ideal, but confirms it. | Q |
 
-## 2019
+## 2019 — V1 (directly verified)
 
-| Label | Exact prompt | Route |
+| Label | Prompt (V1) | Route |
 |---|---|---|
 | 2019-A1 | Wisdom finds truth. | Q |
 | 2019-A2 | Values are not what humanity is, but what humanity ought to be. | Q |
@@ -98,9 +125,9 @@
 | 2019-B7 | Biased media is a real threat to Indian democracy. | I |
 | 2019-B8 | Rise of Artificial Intelligence: the threat of jobless future or better job opportunities through reskilling and upskilling. | I |
 
-## 2020
+## 2020 — V1 (directly verified)
 
-| Label | Exact prompt | Route |
+| Label | Prompt (V1) | Route |
 |---|---|---|
 | 2020-A1 | Life is a long journey between human being and being humane. | Q |
 | 2020-A2 | Mindful manifesto is the catalyst to a tranquil self. | Q |
@@ -111,9 +138,9 @@
 | 2020-B7 | Patriarchy is the least noticed yet the most significant structure of social inequality. | I |
 | 2020-B8 | Technology as the silent factor in international relations. | I |
 
-## 2021
+## 2021 — V1 (directly verified)
 
-| Label | Exact prompt | Route |
+| Label | Prompt (V1) | Route |
 |---|---|---|
 | 2021-A1 | The process of self-discovery has now been technologically outsourced. | H |
 | 2021-A2 | Your perception of me is a reflection of you; my reaction to you is an awareness of me. | Q |
@@ -124,9 +151,9 @@
 | 2021-B7 | History repeats itself, first as a tragedy, second as a farce. | Q |
 | 2021-B8 | There are better practices to "best practices". | H |
 
-## 2022
+## 2022 — V1 (directly verified)
 
-| Label | Exact prompt | Route |
+| Label | Prompt (V1) | Route |
 |---|---|---|
 | 2022-A1 | Forests are the best case studies for economic excellence. | H |
 | 2022-A2 | Poets are the unacknowledged legislators of the world. | Q |
@@ -137,9 +164,9 @@
 | 2022-B7 | A smile is the chosen vehicle for all ambiguities. | Q |
 | 2022-B8 | Just because you have a choice, it does not mean that any of them has to be right. | Q |
 
-## 2023
+## 2023 — V1 (directly verified)
 
-| Label | Exact prompt | Route |
+| Label | Prompt (V1) | Route |
 |---|---|---|
 | 2023-A1 | Thinking is like a game, it does not begin unless there is an opposite team. | Q |
 | 2023-A2 | Visionary decision-making happens at the intersection of intuition and logic. | Q |
@@ -150,34 +177,78 @@
 | 2023-B7 | A society that has more justice is a society that needs less charity. | H |
 | 2023-B8 | Education is what remains after one has forgotten what one has learned in school. | H |
 
-## 2024
+## 2024 — V1 (directly verified against `books/mains/UPSC Mains 2024 Essay Paper.pdf`)
 
-| Label | Exact prompt | Route |
-|---|---|---|
-| 2024-A1 | Forests precede civilizations and deserts follow them. | H |
-| 2024-A2 | The empires of the future will be the empires of the mind. | Q |
-| 2024-A3 | There is no path to happiness; Happiness is the path. | Q |
-| 2024-A4 | The doubter is a true man of science. | Q |
-| 2024-B5 | Social media is triggering 'Fear of Missing Out' amongst the youth, precipitating depression and loneliness. | I |
-| 2024-B6 | Nearly all men can stand adversity, but to test the character, give him power. | Q |
-| 2024-B7 | All ideas having large consequences are always simple. | Q |
-| 2024-B8 | The cost of being wrong is less than the cost of doing nothing. | Q |
+✅ Instruction as printed: "Write two essays, choosing one topic from each
+of the following Sections A and B, in about 1000-1200 words each:" with the
+marks line "(125 × 2 = 250)". ✅ Printed numbering: Section A 1–4;
+Section B **restarts** 1–4.
 
-## 2025
+| Label | Printed no. | Exact prompt as printed | Route |
+|---|---|---|---|
+| 2024-A1 | A-1 | Forests precede civilizations and deserts follow them. | H |
+| 2024-A2 | A-2 | The empires of the futures will be the empires of the mind. | Q |
+| 2024-A3 | A-3 | There is no path to happiness, Happiness is the path. | Q |
+| 2024-A4 | A-4 | The doubter is a true man of science. | Q |
+| 2024-B5 | B-1 | Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness. | I |
+| 2024-B6 | B-2 | Nearly all men can stand adversity, but to test the character, give him power. | Q |
+| 2024-B7 | B-3 | All ideas having large consequences are always simple. | Q |
+| 2024-B8 | B-4 | The cost of being wrong is less than the cost of doing nothing. | Q |
 
-| Label | Exact prompt | Route |
-|---|---|---|
-| 2025-A1 | Truth knows no color. | Q |
-| 2025-A2 | The supreme art of war is to subdue the enemy without fighting. | Q |
-| 2025-A3 | Thought finds a world and creates one also. | Q |
-| 2025-A4 | Best lessons are learnt through bitter experiences. | Q |
-| 2025-B5 | Muddy water is best cleared by leaving it alone. | Q |
-| 2025-B6 | The years teach much which the days never know. | Q |
-| 2025-B7 | It is best to see life as a journey, not as a destination. | Q |
-| 2025-B8 | Contentment is natural wealth; luxury is artificial poverty. | Q |
+❌ **Printed defects reproduced above, not corrected:** A-2 reads
+"futures" (plural); A-3 uses a comma before a capitalised "Happiness", not
+a semicolon; B-1 has no comma before "precipitating". Coaching
+reproductions commonly normalise all three — this ledger does not.
+
+## 2025 — V1 (directly verified against `books/mains/UPSC Mains 2025 Essay Paper.pdf`)
+
+❌ Instruction as printed is garbled: "Write two essays, choosing one topic
+from each of the following Sections A as in about 1000 – 1200 words
+each:". ✅ The requirement is nonetheless unambiguous from the same page's
+Hindi line and its two printed section headings: two essays, one topic
+from each of Sections A and B, about 1000–1200 words each. ❌ This copy
+prints **no marks line and no time-allowed header**. ✅ Printed numbering:
+Section A 1–4; Section B **continues** 5–8.
+
+| Label | Printed no. | Exact prompt as printed | Route |
+|---|---|---|---|
+| 2025-A1 | A-1 | Truth knows no color. | Q |
+| 2025-A2 | A-2 | The supreme art of war is to subdue the enemy without fighting. | Q |
+| 2025-A3 | A-3 | Thought finds a world and creates one also. | Q |
+| 2025-A4 | A-4 | Best lessons are learnt through bitter experiences. | Q |
+| 2025-B5 | B-5 | Muddy water is best cleared by leaving it alone. | Q |
+| 2025-B6 | B-6 | The years teach much which the days never know. | Q |
+| 2025-B7 | B-7 | It is best to see life as a journey, not as a destination. | Q |
+| 2025-B8 | B-8 | Contentment is natural wealth; luxury is artificial poverty. | Q |
+
+⚠️ 2025-A1 prints "color" (American spelling); retain it when quoting.
+
+## Internal consistency audit
+
+| Check | Result |
+|---|---|
+| Row count | 4 (2013) + 96 (2014–2025, 8 each) = **100** ✅ |
+| Years covered | 2013–2025 inclusive, no gaps ✅ |
+| Label scheme | `A1–A4` / `B5–B8` for 2014–2025; `1–4` for 2013 ✅ |
+| Route tag present on every row | Yes ✅ |
+| Attributions present | Exactly one (2013-1, "Gandhiji") — V2, unverified ⚠️ |
+| Rows verified against a local official paper | 64 of 100 (2018–2025) ✅ |
+| Printed numbering asserted | 2018–2025 only; unknown for 2013–2017 ⚠️ |
+
+⚠️ Route tags (`Q`/`I`/`H`) are this folder's own classification, not a
+UPSC category; a prompt can reasonably be routed differently, and the tag
+is a starting point for `02`/`03`, not a verdict on the prompt's nature.
 
 ## Use rule
 
 Quote from this ledger, but use topics `02`-`15` for method. Topic `16`
 selects representative prompts for deep outlines; it does not need to repeat
 all 100 rows.
+
+⚠️ **Verification-aware quoting.** A V1 row (2024, 2025) may be quoted
+verbatim, defects included. A V2 row should be paraphrased, or quoted only
+after checking the official paper for that year — `09`'s
+quotation-vs-paraphrase rule applies to prompts as much as to any other
+borrowed wording. ❌ Never attach an author to a prompt on the strength of a
+familiar-sounding aphorism; the only attribution anywhere in this ledger
+(2013-1) is itself V2 and unverified.

@@ -34,9 +34,11 @@ first) and by asking, for logic, "does it hold in **every** consistent diagram?"
 |---|---|---|
 | ✅ **Constraint ordering** | Place the clue that fixes the most first; each fix prunes the tree. | Recheck every earlier clue after each placement. |
 | ✅ **Syllogism validity** | A conclusion is valid only if true in **all** consistent Venn diagrams. | One counter-diagram disproves it. |
+| ✅ **Implication chaining** | `A -> B` and `B -> C` give `A -> C`; each arrow also gives its contrapositive. | The **converse** and the **inverse** are never free. |
 | ✅ **Coding rule extraction** | Derive the transformation (shift/reverse/position) from the given pair. | Confirm the rule on **every** given letter before applying. |
 | ✅ **Dice/coin counting** | Enumerate the sample space (`6^k`, `2^k`); count favourable. | Outcomes must be equally likely. |
-| ✅ **Inclusion-exclusion** | `|A∪B| = |A| + |B| - |A∩B|`. | Subtract the overlap once. |
+| ✅ **Drawing without replacement** | Use `C(n,r)` on the whole draw, not repeated single-draw fractions. | Fractions multiply only if the draw is **with** replacement. |
+| ✅ **Inclusion-exclusion** | `\|A∪B\| = \|A\| + \|B\| - \|A∩B\|`; for three sets, subtract the three pairwise overlaps and **add back** the triple. | Overlaps are counted via `lcm`, not the product, unless coprime. |
 | ✅ **Polygon diagonals** | `n(n-3)/2`. | Convex polygon. |
 
 ## 3. Harder methods (worked)
@@ -58,6 +60,32 @@ solution is forced.)*
 **Two fair dice; `P(sum = 7)`?** Favourable pairs: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 of 36 ->
 **1/6.** *(Verified.)*
 
+### 📝 Method 4 - conditional chains: solve them backwards
+
+⚠️ A statement-logic item gives several "if ... then ..." links and asks which claims follow. Do
+**not** try to assign truth values by trial. Instead:
+
+```text
+1. Write every link as an arrow:            A -> B
+2. Write the contrapositive beside it:      not B -> not A
+3. To test "if P then Q", ASSUME P and not Q, then chain to a contradiction.
+4. To test "it is not necessary that Q", find ONE consistent case with Q false.
+```
+
+**Worked example (original).** Four claims W, X, Y, Z satisfy: *(i)* if X is false then Z is false;
+*(ii)* if Y is false then W is true; *(iii)* if W is true then X is false.
+
+- **Does "X true -> Y true" hold?** Assume X true and Y false. By (ii), W is true. By (iii), X is
+  false - contradicting the assumption. So **Y must be true**: the claim **holds**.
+- **Is it possible for Z to be true while Y is false?** (i) contraposed is "Z true -> X true", and we
+  just showed X true forces Y true. So **no** - "Z true with Y false" is impossible, i.e. the claim
+  "if Z is true it is *not necessary* that Y is true" is **false**.
+
+*(Verified as a logical derivation; only chaining and contraposition were used.)* The audited 2026
+Set-A paper contains a four-statement item of exactly this shape.
+
+- 🔑 **Escalation rule:** two arrows plus one contradiction beat any truth table under exam time.
+
 ## 4. Time-saving techniques (safe conditions)
 
 - ⚠️ **Strongest-constraint-first** placement. *Safe always; it minimises backtracking.*
@@ -74,17 +102,24 @@ solution is forced.)*
   solutions are guaranteed.
 - ⚠️ "Some A are B" does **not** give "some A are not B" - existential statements do not license their
   negatives.
+- ⚠️ "It is **not necessary** that Q" is settled by **one** consistent counter-case; it does not mean
+  Q is false.
 - ⚠️ Probability requires **equally likely** outcomes; weighted or dependent events need the sample
   space rebuilt.
+- ⚠️ "Possible" is a **yes/no** verdict, "probability" is a **number** - answer the one asked.
 
 ## 6. Advanced traps
 
 - ❌ Reporting a placement true in **one** solution when the puzzle has several. -> Report only forced
   facts.
 - ❌ Accepting a syllogism because it "sounds right". -> Find a counter-diagram.
+- ❌ Reading `A -> B` as `B -> A` in a statement-chain item. -> Only contraposition is free.
 - ❌ Applying a coding rule confirmed on only one letter. -> Verify on all given letters.
-- ❌ Double-counting the overlap in "either/or". -> Subtract `|A∩B|` once.
+- ❌ Multiplying single-draw fractions for a without-replacement draw. -> Use combinations.
+- ❌ Double-counting the overlap in "either/or"; forgetting to add back the triple overlap with three
+  sets. -> Write the full inclusion-exclusion line.
 - ❌ Adding probabilities of non-exclusive events. -> Use inclusion-exclusion or complements.
+- ❌ Reporting a percentage-point move as a percent change in a DI item. -> Name the quantity first.
 
 ## 7. Error analysis
 
@@ -92,42 +127,66 @@ solution is forced.)*
 |---|---|---|
 | Over-claiming a unique seat | A | List all solutions; keep only common facts. |
 | Invalid syllogism accepted | C | Always attempt a counter-diagram. |
+| Converse used as if valid | C | Write the arrow and its contrapositive; nothing else. |
 | Wrong coding rule | R | Re-derive the rule on every letter. |
-| Probability sample-space errors | X | Write `6^k`/`2^k` and count favourable explicitly. |
+| Probability sample-space errors | X | Write `6^k`/`2^k` or `C(n,r)` and count favourable explicitly. |
+| DI quantity mismatch | R | Label level / share / change / points before computing. |
 
 ## 8. Advanced drill (with full solutions)
 
-1. Five people P, Q, R, S, T sit in seats 1-5. R is in the middle; P is at the far left; Q is
-   immediately right of P; T is not at an end. Give the full order.
-2. In a code, EARTH -> GCTVJ. Encode MARS.
-3. Two fair dice are rolled. Find `P(sum = 7)`.
-4. A fair coin is tossed 3 times. Find `P(at least one head)`.
-5. How many diagonals does a regular octagon have?
-6. How many integers from 1 to 100 are divisible by **neither 2 nor 3**?
+> ⚠️ These items are **new** - they do not repeat Methods 1-4 above or the Foundation file.
+
+1. A fair coin is tossed 3 times. Find `P(at least one head)`.
+2. How many diagonals does a regular decagon have?
+3. How many distinct arrangements can be made of the letters of "SUCCESS"?
+4. How many integers from 1 to 100 are divisible by **at least one** of 2, 3 and 5?
+5. Two fair dice are rolled. Find `P(sum >= 10)`.
+6. A bag holds 4 white and 6 black balls; two are drawn together. Find `P(at least one white)`.
+7. Given "every diploma holder is a graduate" and "no graduate is under 18", which of these follow?
+   (i) No diploma holder is under 18. (ii) Every graduate is a diploma holder.
 
 **Solutions.**
 
-1. **P, Q, R, T, S.** Forced by the constraints (see Method 1). *(Verified consistent.)*
-2. **OCTU.** Shift each letter +2. *(Verified.)*
-3. **1/6.** 6 favourable of 36. *(Verified.)*
-4. **7/8.** `1 - (1/2)^3 = 1 - 1/8`. *(Verified.)*
-5. **20.** `8 x (8 - 3)/2 = 20`. *(Verified.)*
-6. **33.** `100 - (50 + 33 - 16) = 33`. *(Verified.)*
+1. **7/8.** Complement: `1 - P(no head) = 1 - (1/2)^3 = 1 - 1/8`. *(Verified.)* The complement is
+   valid here because the tosses are independent.
+2. **35.** `n(n-3)/2 = 10 x 7/2 = 35`. *(Verified.)*
+3. **420.** "SUCCESS" has 7 letters with S x3 and C x2: `7!/(3! x 2!) = 5040/12 = 420`. *(Verified.)*
+   ⚠️ Dividing by only one repeat factorial gives 840 - the standard slip.
+4. **74.** Three-set inclusion-exclusion:
+   `50 + 33 + 20 - 16 - 10 - 6 + 3 = 74`, where the pairwise terms use `lcm(2,3) = 6`,
+   `lcm(2,5) = 10`, `lcm(3,5) = 15` and the triple term uses `lcm = 30`. *(Verified by enumeration.)*
+   ⚠️ With three sets the triple overlap must be **added back**, not subtracted.
+5. **1/6.** Sums of 10, 11 or 12 come from (4,6),(5,5),(6,4),(5,6),(6,5),(6,6) = 6 of 36.
+   *(Verified.)* ⚠️ It happens to equal `P(sum = 7)` - a coincidence, not a rule.
+6. **2/3.** `P(no white) = C(6,2)/C(10,2) = 15/45 = 1/3`, so `P(at least one white) = 2/3`.
+   *(Verified.)* Draws are **without replacement**, so use combinations, not repeated `6/10`.
+7. **(i) only.** From `diploma -> graduate` and `graduate -> not under 18`, chaining gives
+   `diploma -> not under 18`, so (i) follows. (ii) is the **converse** of the first premise and does
+   not follow. *(Verified as a logical form.)*
 
 ## 9. Multi-step data interpretation (worked)
 
 Read this revenue table (in crore):
 
-| Year | Revenue |
-|---|---:|
-| 2022 | 400 |
-| 2023 | 500 |
-| 2024 | 450 |
+| Year | Product X | All products | X's share |
+|---|---:|---:|---:|
+| 2022 | 400 | 1000 | 40% |
+| 2023 | 500 | 1250 | 40% |
+| 2024 | 450 | 900 | 50% |
 
-- Growth 2022 -> 2023 `= (500 - 400)/400 =` **+25%.** *(Verified.)*
-- Change 2023 -> 2024 `= (450 - 500)/500 =` **-10%.** *(Verified.)*
-- ⚠️ **Trap:** a +25% then -10% does **not** return to 400 - it gives `400 x 1.25 x 0.90 = 450`, matching
-  the table. Percentage changes are on **different bases**, so they do not cancel.
+- Growth of X, 2022 -> 2023 `= (500 - 400)/400 =` **+25%.** *(Verified.)*
+- Change in X, 2023 -> 2024 `= (450 - 500)/500 =` **-10%.** *(Verified.)*
+- ⚠️ **Trap 1 - different bases.** A +25% then -10% does **not** return to 400: `400 x 1.25 x 0.90 =
+  450`, matching the table. Percentage changes are on **different bases**, so they do not cancel.
+- ⚠️ **Trap 2 - level vs share.** From 2023 to 2024 X's revenue **fell** (500 -> 450) while X's
+  **share rose** (40% -> 50%), because the total fell faster. "X performed worse" and "X gained share"
+  are both true.
+- ⚠️ **Trap 3 - percentage point vs percent.** That share move is **+10 percentage points** and
+  **+25%** in relative terms (`10/40`). *(Verified.)* Expect both numbers among the options.
+
+> 🔑 **DI decision rule:** before computing, label the quantity asked as **level**, **share**,
+> **change in level**, **change in share (points)**, or **relative change**. Five different numbers
+> live in one table row.
 
 ## 10. Interpersonal and communication scenarios
 

@@ -97,6 +97,36 @@ tools rather than a single generic system.
 - ✅ **"India Quake" mobile app** — developed by the National Centre for
   Seismology for automatic dissemination of earthquake parameters
   (location, time, magnitude) immediately after an event (PDF p. 22).
+  📰 The app NCS/Ministry of Earth Sciences currently identifies as its
+  official earthquake-information app is **BhooKamp** (PIB/MoES, 1 April
+  2026) — use that name for a current reference and treat "India Quake"
+  as the document-period name.
+- 📰 **SACHET — the CAP-based Integrated Alert System.** NDMA
+  operationalised India's Common Alerting Protocol platform, developed by
+  **C-DOT**; PIB reported (30 June 2025) that it operated across all 36
+  States/UTs and supported geo-targeted SMS alerting in 19+ languages.
+  CAP is an ITU-recommended standard that lets one authored alert fan out
+  across SMS, cell broadcast, radio, TV, sirens, social media, web and
+  apps — its value is **interoperability**, i.e. one hazard agency's
+  alert reaching every channel without re-drafting.
+- 📰 **Cell Broadcast System.** Developed by C-DOT under the Department
+  of Telecommunications with NDMA/MHA and integrated with SACHET; a
+  nationwide launch and test took place on **2 May 2026**. Unlike SMS it
+  pushes a near-real-time, geo-targeted message to every handset in a
+  cell — including roaming users — without queuing, which is the specific
+  technical answer to the "last-mile speed" problem in Section 3.
+- 📰 **Hazard-specific public apps and their owners** — a frequently
+  confused set: **Mausam** (IMD, forecasts/warnings), **Meghdoot** (IMD,
+  agro-met advisories), **Damini** (IITM Pune, lightning warning),
+  **BhooKamp** (NCS/MoES, earthquakes), **UMANG** (MeitY, carrying IMD
+  content) — PIB, 22 July 2026.
+- 📰 **Early Warnings for All (EW4All)** — the global programme this
+  layer answers to: universal early-warning coverage by **2027**, with
+  four pillars led by **UNDRR** (risk knowledge), **WMO** (detection and
+  forecasting), **ITU** (dissemination) and **IFRC** (preparedness and
+  response). Mapping India's own institutions onto these four pillars —
+  NDMA/NRSC, IMD/INCOIS/CWC/GSI, SACHET/Cell Broadcast, NDRF/SDRF/Aapda
+  Mitra — is the cleanest structure for an early-warning Mains answer.
 
 ## 6. India applications and examples
 
@@ -119,8 +149,20 @@ tools rather than a single generic system.
   time for urban-flood rainfall monitoring.
 - ✅ The Indian Tsunami Early Warning System detects tsunamigenic
   earthquakes across the Indian Ocean in under 10 minutes.
-- ✅ "India Quake" is the National Centre for Seismology's mobile app for
-  automatic earthquake-parameter dissemination.
+- ✅ "India Quake" is the National Centre for Seismology's document-period
+  app name for automatic earthquake-parameter dissemination; 📰 NCS/MoES
+  currently identifies **BhooKamp** as its official earthquake app.
+- 📰 **SACHET** is NDMA's **Common Alerting Protocol (CAP)**-based
+  Integrated Alert System, developed by **C-DOT**, covering all 36
+  States/UTs with geo-targeted SMS in 19+ languages (PIB, 30 June 2025).
+- 📰 The **Cell Broadcast System** (C-DOT/DoT with NDMA/MHA, integrated
+  with SACHET) had its nationwide launch and test on **2 May 2026**; it
+  reaches every handset in a cell, including roaming users, without SMS
+  queuing.
+- 📰 App ownership: **Mausam** and **Meghdoot** — IMD; **Damini** —
+  IITM Pune; **BhooKamp** — NCS/MoES; **UMANG** — MeitY.
+- 📰 **Early Warnings for All** targets universal early-warning coverage
+  by **2027**, with pillars led by UNDRR, WMO, ITU and IFRC.
 - ✅ Official flood/urban-flood warnings must be issued to the public
   only through government officials, per NDMA guidelines (PDF p. 30).
 
@@ -144,13 +186,23 @@ tools rather than a single generic system.
 
 ## 9. 📰 Current official anchor
 
-- 📰 **NDMA's SACHET portal** and **IMD's impact-based warning services**
-  (cyclone/heat-wave-specific), active as of the 18 July 2026 research
-  cutoff, are the correct current anchors for verifying dissemination
-  architecture, channel coverage and impact-based-forecast rollout
-  status — VisionIAS's material does not itself describe SACHET or a
-  formalised impact-based-forecasting programme by name and must not be
-  treated as current on this point.
+- 📰 **NDMA's SACHET/CAP Integrated Alert System** (all 36 States/UTs,
+  geo-targeted SMS in 19+ languages — PIB, 30 June 2025) and the
+  **Cell Broadcast System** (nationwide launch and test **2 May 2026**)
+  are the correct current anchors for India's dissemination
+  architecture; **IMD's impact-based warning services** (cyclone and
+  heat-wave specific) are the correct anchor for impact-based-forecast
+  rollout status. VisionIAS's material does not itself describe SACHET,
+  cell broadcast or a formalised impact-based-forecasting programme by
+  name and must not be treated as current on this point.
+- 📰 Globally, **Early Warnings for All** (target 2027; UNDRR/WMO/ITU/
+  IFRC pillars) is the correct anchor for any claim about the direction
+  and deadline of early-warning expansion.
+- ⚠️ Distinguish the **warning system** from the **warning-reach
+  statistic**: coverage of a platform (SACHET operating in all 36
+  States/UTs) is not the same as the share of at-risk people who
+  received, understood and acted on an alert; the latter needs its own
+  dated official source and is generally not published.
 
 ## 10. PYQ application
 

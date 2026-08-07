@@ -1,5 +1,7 @@
 # Ancient Indian History — Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** History → **Ancient Indian History** · **GS Paper:** GS-I (Ancient India, Art & Culture) + Prelims.
 > **Spine:** R.S. Sharma, *India's Ancient Past* (chapter sequence). **Tiers:** `basic/` (R.S. Sharma foundation) · `advanced/` (Upinder Singh analysis and historiography).
 > **Start here:** `00_Master-Chronology.md` — the full timeline that stitches every topic together.

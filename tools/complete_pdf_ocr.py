@@ -29,6 +29,7 @@ DEFAULT_BOOKS = ROOT / "books"
 DEFAULT_STATE = ROOT / "ingestion" / "ocr_completion_state.json"
 DEFAULT_BACKUP = ROOT.parent / "upsc-agent-ocr-backups" / "2026-07-20"
 TESSERACT = Path(r"C:\Program Files\Tesseract-OCR\tesseract.exe")
+DEVANAGARI_FONT = Path(r"C:\Windows\Fonts\Nirmala.ttc")
 MIN_EXISTING_CHARS = 50
 MIN_OCR_CHARS = 12
 MIN_CONFIDENCE = 20.0
@@ -37,14 +38,15 @@ MAX_RASTER_DIMENSION = 4000
 _WORKER: dict[str, object] = {}
 
 
-def _worker_init(pdf_path: str, dpi: int) -> None:
+def _worker_init(pdf_path: str, dpi: int, language: str) -> None:
     os.environ["OMP_THREAD_LIMIT"] = "1"
     pytesseract.pytesseract.tesseract_cmd = str(TESSERACT)
     _WORKER["doc"] = fitz.open(pdf_path)
     _WORKER["dpi"] = dpi
+    _WORKER["language"] = language
 
 
-def _ascii_text(value: str) -> str:
+def _normalized_text(value: str, preserve_unicode: bool) -> str:
     replacements = {
         "\u2018": "'",
         "\u2019": "'",
@@ -56,13 +58,22 @@ def _ascii_text(value: str) -> str:
     }
     for source, target in replacements.items():
         value = value.replace(source, target)
-    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode()
+    if preserve_unicode:
+        value = unicodedata.normalize("NFC", value)
+    else:
+        value = (
+            unicodedata.normalize("NFKD", value)
+            .encode("ascii", "ignore")
+            .decode()
+        )
     return re.sub(r"\s+", " ", value).strip()
 
 
 def _ocr_page(page_number: int) -> dict[str, object]:
     doc = _WORKER["doc"]
     dpi = _WORKER["dpi"]
+    language = _WORKER["language"]
+    preserve_unicode = "hin" in language.split("+")
     page = doc[page_number]
     try:
         requested_zoom = dpi / 72.0
@@ -78,14 +89,14 @@ def _ocr_page(page_number: int) -> dict[str, object]:
         image = Image.open(io.BytesIO(pix.tobytes("png")))
         data = pytesseract.image_to_data(
             image,
-            lang="eng",
+            lang=language,
             config="--oem 1 --psm 3",
             output_type=pytesseract.Output.DICT,
         )
         words: list[tuple[float, float, float, float, str]] = []
         accepted_text: list[str] = []
         for index, raw_text in enumerate(data["text"]):
-            text = _ascii_text(raw_text)
+            text = _normalized_text(raw_text, preserve_unicode)
             if not text:
                 continue
             try:
@@ -109,6 +120,7 @@ def _ocr_page(page_number: int) -> dict[str, object]:
             "words": words,
             "chars": len(" ".join(accepted_text)),
             "error": "",
+            "language": language,
         }
     except Exception as exc:
         return {
@@ -118,6 +130,7 @@ def _ocr_page(page_number: int) -> dict[str, object]:
             "words": [],
             "chars": 0,
             "error": str(exc),
+            "language": language,
         }
 
 
@@ -154,6 +167,13 @@ def _insert_words(page: fitz.Page, result: dict[str, object]) -> int:
 
     scale_x = page.rect.width / pix_width
     scale_y = page.rect.height / pix_height
+    language = str(result.get("language", "eng"))
+    font_name = "helv"
+    if "hin" in language.split("+"):
+        if not DEVANAGARI_FONT.exists():
+            raise FileNotFoundError(f"Devanagari font not found: {DEVANAGARI_FONT}")
+        font_name = "ocrdev"
+        page.insert_font(fontname=font_name, fontfile=str(DEVANAGARI_FONT))
     inserted = 0
     for x, y, width, height, text in result["words"]:
         point = fitz.Point(
@@ -168,7 +188,7 @@ def _insert_words(page: fitz.Page, result: dict[str, object]) -> int:
                 point,
                 text,
                 fontsize=font_size,
-                fontname="helv",
+                fontname=font_name,
                 render_mode=3,
                 overlay=True,
             )
@@ -259,6 +279,7 @@ def repair_pdf(
     backup_root: Path,
     workers: int,
     dpi: int,
+    language: str,
     force_raster: bool = False,
 ) -> dict[str, object]:
     relative = pdf_path.relative_to(books_root)
@@ -276,6 +297,7 @@ def repair_pdf(
         "status": "unchanged",
         "seconds": 0,
         "completed_at": "",
+        "ocr_language": language,
     }
     if not low_text_pages:
         outcome["completed_at"] = datetime.now(timezone.utc).isoformat()
@@ -287,7 +309,9 @@ def repair_pdf(
     )
     results: list[dict[str, object]] = []
     with ProcessPoolExecutor(
-        max_workers=workers, initializer=_worker_init, initargs=(str(pdf_path), dpi)
+        max_workers=workers,
+        initializer=_worker_init,
+        initargs=(str(pdf_path), dpi, language),
     ) as executor:
         for done, result in enumerate(
             executor.map(_ocr_page, low_text_pages, chunksize=1), start=1
@@ -405,8 +429,19 @@ def main() -> int:
     parser.add_argument("--backup-root", type=Path, default=DEFAULT_BACKUP)
     parser.add_argument("--state", type=Path, default=DEFAULT_STATE)
     parser.add_argument("--only", default="", help="Case-insensitive path substring")
+    parser.add_argument(
+        "--only-hindi",
+        action="store_true",
+        help="Select only filenames containing 'Hindi' or '_Hn_'",
+    )
     parser.add_argument("--dpi", type=int, default=220)
     parser.add_argument("--workers", type=int, default=8)
+    parser.add_argument("--lang", default="eng")
+    parser.add_argument(
+        "--hindi-lang",
+        default="",
+        help="OCR language for filenames containing 'Hindi' or '_Hn_'",
+    )
     parser.add_argument("--force", action="store_true")
     parser.add_argument(
         "--force-raster",
@@ -422,11 +457,17 @@ def main() -> int:
     books_root = args.root.resolve()
     state = _load_state(args.state)
     state_books = state.setdefault("books", {})
+    def is_hindi_path(path: Path) -> bool:
+        return "hindi" in path.name.lower() or bool(
+            re.search(r"(?:^|[_-])hn(?:[_-]|$)", path.stem, re.IGNORECASE)
+        )
+
     pdfs = sorted(
         path
         for path in books_root.rglob("*.pdf")
         if ".ocr-tmp." not in path.name
         and (not args.only or args.only.lower() in str(path).lower())
+        and (not args.only_hindi or is_hindi_path(path))
     )
     print(f"PDFs selected: {len(pdfs)} | workers={args.workers} | dpi={args.dpi}")
 
@@ -442,12 +483,15 @@ def main() -> int:
             print(f"[{index}/{len(pdfs)}] Skip completed: {relative}")
             continue
         print(f"[{index}/{len(pdfs)}] Inspecting: {relative}", flush=True)
+        is_hindi = is_hindi_path(pdf_path)
+        language = args.hindi_lang if is_hindi and args.hindi_lang else args.lang
         outcome = repair_pdf(
             pdf_path,
             books_root,
             args.backup_root,
             args.workers,
             args.dpi,
+            language,
             args.force_raster,
         )
         outcome["source_size"] = pdf_path.stat().st_size

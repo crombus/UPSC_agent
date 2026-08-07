@@ -34,10 +34,15 @@ ready-made antibody delivered
 
 | Concept | Deeper meaning |
 |---|---|
-| **Live-attenuated / inactivated / subunit / vector / mRNA / DNA** | Different vaccine platform choices with different manufacturing, stability and immune-response implications. |
+| **Live-attenuated / inactivated / subunit / toxoid / VLP / vector / mRNA / DNA** | Different vaccine platform choices with different manufacturing, stability and immune-response implications. **Toxoid** vaccines target a bacterial toxin rather than the organism (tetanus, diphtheria); **VLP** vaccines use an empty protein shell with no genetic material (HPV, including India's Cervavac); **DNA** vaccines must reach the nucleus (India's **ZyCoV-D** used needle-free jet delivery), while **mRNA** acts in the cytoplasm via lipid nanoparticles. |
+| ⚠️ **Platform choice as an equity decision** | Thermostability determines cold-chain cost and therefore reach. A platform that is scientifically superior but requires ultra-cold logistics can deliver **less** population protection in low-infrastructure settings than a sturdier protein-subunit or inactivated product. Platform strategy is public-health policy, not just biology. |
+| ⚠️ **Platform reusability** | The strategic value of mRNA and vector platforms is that the **manufacturing process is largely antigen-agnostic**: a new pathogen means a new insert, not a new factory. This is the core of "100 Days Mission"-style pandemic preparedness thinking and the strongest argument for sovereign platform capability. |
 | **Active immunisation** | The person’s own immune system generates protection and memory. |
-| **Monoclonal antibody** | Pre-manufactured targeted biological molecule; typically a therapeutic or prophylactic tool, not a classic vaccine. |
-| ✅ **CDSCO** | Regulatory authority for vaccines and biological products in India. |
+| **Monoclonal antibody** | Pre-manufactured targeted biological molecule; typically a therapeutic or prophylactic tool, not a classic vaccine. Produced historically by **hybridoma** technology and now mainly by recombinant mammalian cell culture; progressively humanised (**-ximab → -zumab → -umab**) to reduce immunogenicity. |
+| ⚠️ **Antiviral** | A small-molecule drug inhibiting a step of viral replication. Neither active nor passive immunisation — a **third** therapeutic category that answers must not fold into the vaccine/mAb binary. |
+| ⚠️ **Biosimilar vs generic** | Generics are chemically identical copies approved on bioequivalence; **biosimilars are highly similar but never identical**, need comparative analytical/clinical evidence, and carry higher development cost. This is why the "pharmacy of the world" argument built on generics does **not** transfer automatically to biologics. |
+| ⚠️ **Efficacy vs effectiveness** | Efficacy is trial-condition performance; effectiveness is field performance under real coverage, storage and variant conditions. Conflating them is the commonest analytical error in vaccine answers. |
+| ✅ **CDSCO** | Regulatory authority for vaccines and biological products in India, headed by the **DCGI** under the Drugs and Cosmetics Act, 1940 read with NDCTR 2019. |
 | ✅ **NDCTR, 2019** | Core Indian framework for new-drug and clinical-trial regulation. |
 | ✅ **ICMR** | Public biomedical research and evidence institution, not the market-approval authority. |
 
@@ -120,8 +125,12 @@ biomanufacturing—not as a vaccine or monoclonal antibody.
 |---|---|
 | 📰 **29 Nov 2020:** PIB launched Mission COVID Suraksha. | Use to show how India built mission-mode vaccine capability rather than relying only on routine grant funding. |
 | 📰 **01 Jun 2021:** BIRAC Mission COVID Suraksha call page shows implementation-stage capacity support. | Use to demonstrate that missions require follow-on manufacturing and translational support, not just declarations. |
-| 📰 **27 Nov 2024:** PIB outlined BioE3 objectives. | Use to shift the answer from emergency vaccine response to long-term biologics and biomanufacturing capacity. |
-| 📰 **21 Jul 2025:** PIB reported DBT-BIRAC joint-call implementation under the policy. | Use to argue that the biopharma ecosystem is being embedded in a broader advanced-biotech manufacturing strategy. |
+| 📰 **04 Apr 2024:** NexCAR19, India's first indigenous CAR-T cell therapy, launched. **Status: launched (2024); current approval scope, availability and pricing unverified.** | Use to argue that India has crossed from *manufacturing others' biologics at scale* to *originating a complex cell therapy* — while noting honestly that a launch is not evidence of access, and that autologous cell therapies face cost and infrastructure barriers that volume manufacturing cannot solve. |
+| 📰 **27 Nov 2024:** PIB outlined BioE3 objectives, including **precision biotherapeutics** among its six thematic sectors. | Use to shift the answer from emergency vaccine response to long-term biologics and biomanufacturing capacity. |
+| 📰 **21 Jul 2025:** PIB reported DBT-BIRAC joint-call implementation under the policy. | Use to argue that the biopharma ecosystem is being embedded in a broader advanced-biotech manufacturing strategy — while treating proposal counts as inputs, not capacity. |
+| ⚠️ **Product-level approvals (NexCAR19 indication scope, any Indian mRNA vaccine, new biosimilar clearances) could not be verified from CDSCO's machine-readable records at 2 Aug 2026.** | Use as a discipline rule: cite **cdsco.gov.in** directly for any approval claim. In a Mains answer, argue capability at the **platform** level, where the evidence is solid, rather than at the product level, where it is not. |
+
+*Re-verified 2 Aug 2026.*
 
 ## 14. PYQ-based analytical application
 

@@ -38,19 +38,29 @@ underlying *rule/institution*, not just the isolated act, is just.
 | ✅ **Kant's Categorical Imperative — two formulations** | (1) Universalisability: act only on a maxim you could will as universal law; (2) Humanity formula: treat persons always also as ends, never merely as means. |
 | ✅ **Rule vs act utilitarianism** (Mill/Bentham lineage) | Act utilitarianism judges each act by its individual consequences; rule utilitarianism judges the *rule* an act follows by the consequences of everyone following that rule — the latter is closer to how public administration actually reasons (policy = a rule applied repeatedly). |
 | ✅ **Aristotle's practical wisdom (phronesis)** | The capacity to judge *which* mean is appropriate in a *particular* situation — virtue ethics is therefore not a fixed formula but a trained, context-sensitive judgment, distinguishing it from both Kant's universal rule and Mill's outcome calculus. |
-| ✅ **Rawls's two principles of justice** | (1) Equal basic liberties for all; (2) social/economic inequalities permitted only if attached to positions open to all (fair equality of opportunity) and to the benefit of the least advantaged (difference principle). |
+| ✅ **Rawls's two principles of justice** (in lexical order) | (1) Equal basic liberties for all, compatible with the same liberties for others — this principle has *priority*; (2) social/economic inequalities permitted only if attached to positions open to all under fair equality of opportunity, and to the greatest benefit of the least advantaged (difference principle). The priority ordering matters: liberty cannot be traded away for economic gain. |
+| ✅ **Original position and primary goods** | The veil of ignorance operates inside the "original position": self-interested but non-envious, risk-averse rational choosers, ignorant of their own class, talents and conception of the good, select the criteria for distributing "primary goods" (liberties, opportunities, income, the social bases of self-respect) — which is why each reasons as if he might be in the least advantaged position. |
 | ⚠️ **Reflective equilibrium** (Rawls's method) | Moving back and forth between general principles and particular judgments until they cohere — a defensible method for a candidate reconciling a "gut reaction" to a case study with a stated ethical theory. |
 
 ## 3. Detailed comparative treatment
 
 ### Kant's quotation (2024 GS-IV Q3(c)) — deeper reading
 
-- ✅ "In law, a man is guilty when he violates the rights of others. In ethics, he is guilty if he
-  only thinks of doing so."
-- ⚠️ Advanced reading: this operationalises the **legal-ethical guilt gap** central to `09`'s
+- ✅ As set by UPSC: "In law, a man is guilty when he violates the rights of others. In ethics, he
+  is guilty if he only thinks of doing so."
+- ⚠️ **Provenance caveat:** the sentence is not from Kant's published ethical works. The closest
+  identifiable source is the section on Innocence in Louis Infield's 1930 English translation of
+  the *Lectures on Ethics* — itself reconstructed from students' notes of Kant's lecture courses —
+  where it reads that in law a man is guilty when he has done something against the right of
+  another, and in ethics he is guilty even if he only harboured the thought of doing it. An
+  advanced answer can note this in half a line and then argue the substance.
+- ⚠️ Advanced reading: it operationalises the **legal-ethical guilt gap** central to `09`'s
   distinction between ethical dilemma and legal violation — a public servant who merely *intends*
   to favour a contractor (without completing an illegal act) has committed no crime, but has failed
-  an ethical (Kantian) test of pure will/duty.
+  an ethical (Kantian) test of the good will.
+- ⚠️ The line also maps onto Kant's own settled doctrine, which is genuinely textual: in the
+  *Groundwork*, moral worth attaches to acting **from duty**, not merely in conformity with duty —
+  so motive and maxim, not just the outward act, are the objects of moral appraisal.
 - ⚠️ Institutional implication: codes of ethics (aspirational, covering intention/disposition, see
   `16`) are needed precisely because codes of conduct (rule-based, covering completed acts) cannot
   reach the Kantian intention-level failure.
@@ -127,11 +137,15 @@ underlying *rule/institution*, not just the isolated act, is just.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ Kant's two formulations of the Categorical Imperative are the universalisability formula and
-  the humanity (means/ends) formula.
+- ✅ Kant's two most-tested formulations of the Categorical Imperative are the universalisability
+  formula and the humanity (means/ends) formula.
 - ✅ Rule utilitarianism judges rules by their general consequences; act utilitarianism judges
   individual acts by their specific consequences — a key internal utilitarian distinction.
-- ✅ Rawls's difference principle permits inequality only if it benefits the least advantaged group.
+- ✅ Rawls's difference principle permits inequality only if it benefits the least advantaged group,
+  and is subordinate to the prior guarantee of equal basic liberties.
+- ⚠️ The 2024 GS-IV Kant quotation is not traceable to a Kant-published work (nearest source:
+  Infield's 1930 *Lectures on Ethics*, from student notes) — a provenance point, not a reason to
+  reject the idea.
 
 ## 8. Advanced Prelims traps
 
@@ -148,7 +162,7 @@ underlying *rule/institution*, not just the isolated act, is just.
 
 | Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| ⚠️ AI-driven welfare-eligibility algorithms | Provide a test case for Rawls's veil of ignorance and Kant's humanity formula; use topic `13`'s dated India AI Governance Guidelines rather than calling this a dated-neutral current fact. |
+| ⚠️ AI-driven welfare-eligibility algorithms | Provide a test case for Rawls's veil of ignorance and Kant's humanity formula; use topic `13`'s dated India AI Governance Guidelines (MeitY, 5 November 2025) rather than calling this a dated-neutral current fact. |
 
 ## 10. PYQ-based analytical application
 

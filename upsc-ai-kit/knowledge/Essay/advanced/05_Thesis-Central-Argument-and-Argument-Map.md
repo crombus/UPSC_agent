@@ -33,6 +33,30 @@ execution (`07`) — it supplies the thesis-and-map design those depend on.
 - **Multi-cycle argument map:** repeating proposition→mechanism→
   illustration→qualification→synthesis two to four times across an
   essay, each cycle addressing a distinct dimension from `04`.
+- **Backed warrant:** a warrant (`basic/05`, Section 2a) that is itself
+  defended, rather than assumed — the difference between "reversible error
+  costs less than inaction" asserted and the same principle argued from
+  observability, correction speed and distribution of harm.
+
+## 2a. Warrant analysis — where advanced theses actually break
+
+⚠️ At basic level the discipline is to *surface* the warrant. At advanced
+level it is to notice that **the warrant, not the claim, is what a strong
+objector attacks** — and to design the thesis so its warrant is
+defensible in its own right.
+
+| Prompt | Claim | Warrant it depends on | How the warrant is attacked |
+|---|---|---|---|
+| 2025-B5 muddy water | Restraint often resolves a disturbed situation | That the situation is self-correcting if left undisturbed | Show a domain where delay compounds rather than settles (public health, active injustice) — the warrant fails, so the claim fails with it |
+| 2024-A4 the doubter | Doubt is constitutive of science | That the doubt in question is disciplined and evidence-seeking | Point to denialism, which satisfies "doubt" but not the warrant — forcing the thesis to specify *which* doubt |
+| 2025-B8 contentment | Contentment is the truer wealth | That the person addressed is already above a sufficiency threshold | Point to those below it, for whom aspiration is need, not luxury — the warrant is bounded, not universal |
+
+⚠️ Note the pattern: in each case the repair is not to abandon the claim
+but to **write the warrant's boundary into the thesis** — this is exactly
+what makes a qualification load-bearing (Section 2) rather than
+decorative. ❌ A thesis whose warrant cannot be bounded without becoming
+trivial is a thesis worth replacing at the planning stage, not defending
+under time pressure.
 
 ## 3. Tension pairs and hidden assumptions
 

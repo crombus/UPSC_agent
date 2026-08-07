@@ -128,6 +128,9 @@ about.
 source module or a primary/authoritative source before live use. This
 folder treats entries as well-known, non-statistical candidate
 illustrations; it does not independently certify their current accuracy.
+✅ Two entries have been checked against local source texts in this pass
+(Right to Information Act, 2005; Chipko movement, 1970s — see
+`../basic/12`, note beneath Section 6); ⚠️ the remainder have not.
 Do not add a specific
 current number (funding amount, ranking, percentage) to any bank entry
 without a dated, verifiable source at the time of use (`09`).

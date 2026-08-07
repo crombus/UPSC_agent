@@ -11,7 +11,7 @@
 ```
 AXIS 1 — NATURE OF SELF                     AXIS 2 — LIBERATION (mokṣa)
  No-self ─────────────► Full Self            Escape ───────────► Divine life
- Cārvāka: self = body                         Cārvāka: none (only kāma)
+ Cārvāka: self = body                         Cārvāka: liberation rejected
  Buddhism: no ātman (skandhas)                Buddhism: nirvāṇa (cessation)
  Nyāya: self = substance (conscious-         Nyāya: apavarga (painless, no consciousness)
    ness adventitious)                         Jaina: kaivalya (infinite jñāna restored)
@@ -76,7 +76,7 @@ AXIS 1 — NATURE OF SELF                     AXIS 2 — LIBERATION (mokṣa)
 
 ## 4. KEY DEBATES (examiner's favourites) ⚠️
 1. **Is liberation blissful or merely painless?** Advaita (ānanda) & Jaina (infinite bliss) **vs** Nyāya ("stone-like" apavarga, no consciousness). → the stock critique of Nyāya mokṣa.
-2. **Liberation *with* a self or *without*?** Buddhism dissolves the self in nirvāṇa; Advaita realises the self *is* Brahman; Viśiṣṭādvaita/Dvaita keep the self **distinct** — hence "is liberation possible without a real agent?" (2022/2025 PYQ) = Advaita vs Viśiṣṭādvaita.
+2. **Liberation *with* a self or *without*?** Buddhism denies that a permanent self exists and treats nirvāṇa as cessation of craving and conditioned becoming; Advaita realises the self *is* Brahman; Viśiṣṭādvaita/Dvaita keep the self **distinct** — hence "is liberation possible without a real agent?" (2022/2025 PYQ) = Advaita vs Viśiṣṭādvaita.
 3. **Escape vs transformation:** all classical schools = *release from* saṃsāra; **Aurobindo** = *divinise* the world. The modern reversal.
 4. **Rebirth without a soul?** Buddhism's nairātmyavāda vs the "immortality-of-soul-necessary-for-rebirth" thesis (2022 PYQ). Continuity via **santāna**, not ātman.
 5. **Means — jñāna vs bhakti:** knowledge-schools (Sāṃkhya, Advaita, Nyāya) vs devotion-schools (Viśiṣṭādvaita, Dvaita).
@@ -119,4 +119,9 @@ Concl : liberation-concepts mirror each school's theory of self and causation.
 - Cross-paper: Paper-II Phil-of-Religion `Soul.md` (immortality, rebirth, liberation — Indian & Western).
 
 ---
-> 📖 **SOURCE-VERIFIED** (synthesis): Cross-cutting theme distilled from source-verified parents. The self axis — Buddhist **nairātmya/anattā**, Jaina/Nyāya/Sāṃkhya substantial self, Advaita **ātman=Brahman** — and mokṣa/nirvāṇa/kaivalya confirmed vs **C.D. Sharma** & **Chatterjee-Datta** in the parent files. No independent corrections.
+
+## SOURCES
+
+- C. D. Sharma, *A Critical Survey of Indian Philosophy*.
+- S. C. Chatterjee and D. M. Datta, *An Introduction to Indian Philosophy*.
+- Owner files in [`../indian/`](../indian), especially Buddhism, Jainism, Nyāya-Vaiśeṣika, Sāṃkhya, Yoga and Vedānta.

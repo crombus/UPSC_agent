@@ -99,9 +99,10 @@ is the recurring test examiners probe.
 - ⚠️ **Bilateral summit-level mechanisms** (annual or periodic leader-level
   visits) remain the primary vehicle for agreeing new connectivity and
   development commitments with each neighbour.
-- 📰 **MEA bilateral briefs** (India-Sri Lanka, 2025; India-Bhutan, November
-  2025) function as the institutional record of current-status commitments —
-  cite the dated brief, not an aggregated undated summary.
+- 📰 **MEA bilateral briefs** (India-Sri Lanka and India-Bhutan, current to July
+  2026; India-Maldives, current to June 2026) function as the institutional
+  record of current-status commitments — cite the dated brief, not an
+  aggregated undated summary.
 - ⚠️ **Power-grid and transit protocols** are typically negotiated and renewed
   bilaterally rather than through a regional body, reflecting the preference of
   the connectivity instrument for direct engagement even where the neighbour
@@ -131,7 +132,22 @@ is the recurring test examiners probe.
 - ⚠️ **Regime change discontinuity risk:** any government transition in a
   neighbouring state creates a real test of whether earlier development or
   connectivity commitments are honoured — the people-to-people orientation is
-  presented as a partial mitigation, not a guarantee.
+  presented as a partial mitigation, not a guarantee. 📰 The 2024-2026 cycle
+  supplied three simultaneous tests: Bangladesh (interim government from August
+  2024; elections 12 February 2026), Nepal (interim government welcomed by India
+  on 12 September 2025; elections 5 March 2026) and Sri Lanka (post-2024
+  government, with seven MoUs signed on 5 April 2025). ⚠️ In each case India
+  engaged the successor arrangement rather than the outgoing one — the operative
+  evidence for Sikri's society-orientation argument.
+- ⚠️ **Boundary case — the implementation-credibility test with dated
+  evidence:** the same 2025 Sri Lanka visit inaugurated 5,000 rooftop solar
+  units and a warehouse but only broke ground on the 120 MW Sampur solar
+  project; the Kaladan Multi-Modal Transit Transport Project has an
+  operationalised waterway and Sittwe Port (May 2023) but a lagging road
+  component, with both governments still calling for completion on 1 June 2026;
+  the India-Bhutan rail MoU of 29 September 2025 covers two links not yet built.
+  ⚠️ Read together, these show the gap is typically between *segment delivered*
+  and *corridor completed*, not between announcement and total inaction.
 
 ## 6. Limitations and trade-offs
 
@@ -156,6 +172,13 @@ is the recurring test examiners probe.
   can outpace delivery, creating a credibility gap if a neighbour's expectations
   are not met on the announced timeline — see the announcement-delivery gap in
   `00_Master-Framework.md` Section 7.
+- ⚠️ **Water as the hardest case for non-reciprocity:** the Gujral Doctrine's
+  logic of asymmetric generosity is least stable where the resource is finite
+  and shared. 📰 The Indus Waters Treaty abeyance (23 April 2025) and the
+  pending December 2026 expiry of the 1996 Ganga Waters Treaty are the two live
+  instances; ⚠️ they show that non-reciprocal accommodation is a policy choice
+  that can be withdrawn when linked to a security condition, which is itself an
+  analytically important qualification to the doctrine.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
@@ -191,10 +214,18 @@ is the recurring test examiners probe.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The updated MEA bilateral briefs on **India-Sri Lanka (2025)** and
-  **India-Bhutan (November 2025)** remain the current dated references for the
-  status of these two relationships; do not extend their specific claims to
-  other neighbours without independent verification.
+- 📰 The MEA bilateral briefs on **India-Sri Lanka and India-Bhutan (current to
+  July 2026)** and **India-Maldives (June 2026)** remain the current dated
+  references for the status of those relationships; do not extend their specific
+  claims to other neighbours without independent verification.
+- 📰 Two structural anchors deserve separate mention because they are dated,
+  unresolved and examinable: the **Indus Waters Treaty held "in abeyance" by the
+  Cabinet Committee on Security decision of 23 April 2025**, alongside India's
+  position that the Court of Arbitration is illegally constituted and its awards
+  "null and void" (restated 16 May 2026); and the **December 2026 expiry of the
+  1996 Ganga Waters Treaty**, with India stating on 13 February 2026 that
+  renewal talks had not begun. ⚠️ Both are water-sharing questions that test the
+  Gujral Doctrine's non-reciprocity premise under adversarial conditions.
 
 ## 10. PYQ-based analytical application
 

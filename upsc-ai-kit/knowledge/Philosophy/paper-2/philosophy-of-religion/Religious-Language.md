@@ -1,8 +1,8 @@
-# NATURE OF RELIGIOUS LANGUAGE — Analogical/Symbolic; Cognitive/Non-cognitive — Paper-II Sec-B, Item 10
+# NATURE OF RELIGIOUS LANGUAGE — Syllabus Item 10 (Paper II · Section B)
 
-> **Syllabus:** Nature of Religious Language — Analogical and Symbolic; Cognitivist and Non-cognitive.
-> **Grounding:** ✅ = canonical (Hick; Oxford Handbook; Aquinas; Tillich; Braithwaite; Ayer) · ⚠️ = exam synthesis
-> **Nature:** How can **finite human language** speak of the **infinite/transcendent**? High yield (5 Qs 2022–25): symbolic (2025), analogical (2024), cognitive/non-cognitive (2022, 2024 Braithwaite), Tillich (2023), Wittgenstein (2023), **Advaitic anirvachanīyatā** (2025). Two axes: **how** we speak (analogy/symbol) and **whether** it states facts (cognitive/non-cognitive).
+> **Syllabus (verbatim):** Nature of Religious Language : Analogical and Symbolic; Cognitivist and Non-cognitive.
+> **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
+> **Placement:** The clause has two axes: how transcendent predicates signify, and whether religious utterances are truth-apt. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
 ---
 
@@ -70,12 +70,12 @@
 
 ---
 
-## 5. STATEMENT / QUOTE BANK ⚠️
-1. ✅ Aquinas: God-talk is **analogical** — between univocal and equivocal.
-2. ✅ Tillich: *"God is Being-Itself"*; a symbol *"participates in the reality to which it points"*; literalism = idolatry.
-3. ✅ Braithwaite: a religious assertion = *"a declaration of an intention to lead a certain way of life."*
-4. ✅ Wittgenstein: meaning is **use** in a **form of life**.
-5. ✅ Advaita/Upaniṣad: *"yato vāco nivartante"* — "whence words turn back" (Brahman is anirvachanīya; neti neti).
+## 5. FOUNDATIONAL STATEMENT BANK ⚠️
+1. ✅ Aquinas locates God-talk between univocal sameness and equivocal disconnection through analogy.
+2. ✅ Tillich treats religious symbols as participatory and God as being-itself rather than one being among others.
+3. ✅ Braithwaite analyses religious assertion through commitment to a moral way of life and its sustaining stories.
+4. ✅ Wittgensteinian approaches interpret religious meaning through use within a form of life.
+5. ✅ The Upaniṣadic formula *yato vāco nivartante* marks the limit of objectifying speech; Advaita also deploys *neti neti* and indirect indication.
 
 ---
 
@@ -112,9 +112,149 @@ Concl : religious language is symbolic — pointing beyond itself to the Ground 
 
 ---
 
-## 8. LINK-OUTS
-- `philosophy-of-religion/Notions-of-God.md` (attributes we predicate) · `philosophy-of-religion/Religious-Experience.md` (ineffability) · `philosophy-of-religion/Reason-Revelation-Faith.md`.
-- Cross-paper: Paper-I `western/Logical-Positivism.md` (verification → meaningless; the trigger) · `western/Later-Wittgenstein.md` (meaning-as-use, language-games) · `indian/Vedanta.md` (anirvachanīya, neti neti).
+## 9. ADVANCED DOCTRINE DOSSIERS
 
----
-> 📖 **SOURCE-VERIFIED** (local RAG over book PDFs): Analogical (**Aquinas' Doctrine of Analogy** — analogy of attribution/proportion) and symbolic (**Tillich** — religious statements as symbols pointing to "being-itself") theories, plus cognitivist vs non-cognitivist and the falsification debate (Flew/Hare/Mitchell), confirmed vs **Hick — Philosophy of Religion** (TOC chapter: "The Doctrine of Analogy… Religious Statements as Symbolic") & **Oxford Handbook**. No corrections.
+### 9.1 Aquinas' analogy
+- **Doctrine statement.** ✅ Predicates such as good and wise apply to God neither in exactly the creaturely sense nor in a wholly unrelated sense, but analogically.
+- **Argument.** ✅ (1) Creatures depend causally on God and display perfections; (2) effects resemble causes without matching their mode; (3) perfection terms can therefore signify truly while their mode of possession differs infinitely.
+- **Presupposition.** ⚠️ Causal participation warrants semantic continuity and pure perfections can be separated from creaturely limitation.
+- **Distinction.** ✅ Analogy of attribution relates secondary instances to a primary source; proportionality compares relations according to distinct modes of being.
+- **Canonical example.** ✅ "Healthy" applies primarily to an animal and derivatively to medicine as cause/sign; divine goodness is not exactly this example but it shows ordered, non-univocal predication.
+- **Objection → reply.** ⚠️ Without a univocal core, analogy is indeterminate. Thomist reply: causal relation and perfection supply ordered content, though critics ask how it can be specified without prior knowledge of God.
+
+### 9.2 Tillich's symbol
+- **Doctrine statement.** ✅ Religious symbols point beyond themselves, participate in what they indicate, open levels of reality and self, arise collectively and can die.
+- **Argument.** ✅ Ultimate concern exceeds literal object-language; symbols mediate participation without turning God into one being among others; "God" symbolises being-itself.
+- **Presupposition.** ⚠️ Participatory reference is intelligible and symbolic mediation can retain truth.
+- **Distinction.** ✅ A sign has conventional reference without participation; a symbol carries depth and transformative power.
+- **Canonical example.** ✅ A national flag participates in collective identity more deeply than a traffic sign; religious symbolism is stronger still.
+- **Objection → reply.** ⚠️ If every God-statement is symbolic, reference becomes vague. Tillich retains being-itself as the non-symbolic basis, though this exception is debated.
+
+### 9.3 Cognitivism, verification and falsification
+- **Doctrine statement.** ✅ Cognitivism treats religious assertions as truth-apt; verificationism challenges their empirical meaning; falsification asks what conceivable evidence could count against them.
+- **Argument.** ✅ Ayer's criterion excludes unverifiable metaphysics. Flew's gardener presses the erosion of content under endless qualification. Mitchell's partisan permits trust to survive counterevidence without becoming unfalsifiable.
+- **Presupposition.** ⚠️ Factual meaning requires specified evidential consequences, or at least vulnerability to reasons.
+- **Distinction.** ✅ Verification concerns possible confirmation; falsification concerns possible disconfirmation; eschatological verification claims future confirmation without present falsifiability.
+- **Canonical example.** ✅ Hick's celestial-city parable models a claim verified at journey's end.
+- **Objection → reply.** ⚠️ Verification criteria may be self-undermining and too narrow. Critics replace strict empirical verification with broader realism and cumulative warrant.
+
+### 9.4 Braithwaite, Hare and Wittgensteinian use
+- **Doctrine statement.** ✅ Braithwaite interprets religious assertions as commitments to a moral policy supported by stories; Hare's *blik* is a basic world-picture; Wittgensteinian approaches locate meaning in a religious form of life.
+- **Argument.** ✅ Meaning is shown by use in worship, repentance, hope and conduct rather than by isolated correspondence tests.
+- **Presupposition.** ⚠️ Practical role can constitute or explain meaning without factual description.
+- **Distinction.** ✅ Non-cognitive does not mean emotionally trivial or meaningless; Ayer's hostile non-cognitivism differs from use/commitment accounts.
+- **Canonical examples.** ✅ Braithwaite's agapeistic policy; Hare's paranoid student; religious use of Last Judgement as life-orienting.
+- **Objection → reply.** ⚠️ Reduction to use or morality misdescribes believers who intend realist claims. Reply: non-cognitivists capture function; a mixed account may retain both truth-claim and performative force.
+
+### 9.5 Advaita, negation and indirect indication
+- **Doctrine statement.** ✅ Brahman exceeds literal predication; *neti neti* removes limiting identifications, while Upaniṣadic sentences indirectly indicate non-dual reality.
+- **Argument.** ✅ Words ordinarily denote qualified objects; Brahman is not such an object; negation and *lakṣaṇā* remove incompatible literal senses so identity teaching can disclose the intended non-dual referent.
+- **Presupposition.** ⚠️ Language can function eliminatively and indicatively beyond ordinary denotation.
+- **Distinction.** ✅ Brahman is ineffable, while *māyā* is often termed *anirvacanīya* as neither absolutely real nor unreal; do not collapse the two uses.
+- **Canonical example.** ✅ In "That thou art," incompatible omniscient/finite connotations are set aside to indicate consciousness as the common import.
+- **Objection → reply.** ⚠️ If all predicates fail, teaching is self-defeating. Advaita replies that language removes ignorance like a thorn removing a thorn and is itself sublated after knowledge.
+
+## 10. INTER-THINKER / INTER-SCHOOL DEBATES
+
+| Theory | Truth-apt? | Semantic mechanism | Strength | Risk |
+|---|---|---|---|---|
+| Aquinas | ✅ Yes | Analogy/causal participation | Realism without crude anthropomorphism | Indeterminacy |
+| Tillich | ⚠️ Symbolically realist | Participation | Depth and transformation | Vague referent |
+| Ayer | ❌ No factual meaning | Verification criterion | Evidential discipline | Criterion too narrow/self-problem |
+| Braithwaite | ❌ Not primarily factual | Moral intention and story | Captures practice | Reductionism |
+| Wittgensteinian | ⚠️ Meaning in use | Language-game/form of life | Context sensitivity | Fideism/insulation |
+| Advaita | ✅ Indicative, non-literal | Negation and *lakṣaṇā* | Avoids objectifying Brahman | Self-reference/silence |
+
+## 11. CRITICISMS AND REPLIES
+
+1. **Anthropomorphism.** ⚠️ Literal divine predicates project human traits. **Reply:** analogy/symbol changes mode while retaining ordered content.
+2. **Agnosticism.** ⚠️ If senses differ too much, nothing is said. **Reply:** causal relation, practice and negation constrain meaning.
+3. **Fideism.** ⚠️ Language-game accounts immunise belief. **Reply:** internal grammar need not exclude external moral and epistemic criticism.
+4. **Reductionism.** ⚠️ Non-cognitivism ignores intended realism. **Reply:** mixed speech-act accounts distinguish assertion, commitment, prayer and expression.
+5. **Advaitic self-reference.** ⚠️ Saying "Brahman is indescribable" describes it. **Reply:** the statement limits objectifying discourse rather than predicates an ordinary property.
+
+## 12. COMMON UPSC TRAPS
+
+1. ⚠️ Do not equate analogical with metaphorical.
+2. ⚠️ Do not say a Tillichian symbol is a mere sign.
+3. ⚠️ Do not group Ayer, Braithwaite and Wittgenstein as holding the same non-cognitivism.
+4. ⚠️ Do not infer that non-cognitive means insignificant.
+5. ⚠️ Do not attribute every language-game reading directly to explicit doctrines of Wittgenstein without noting the Wittgensteinian development.
+6. ⚠️ Do not say Brahman and māyā are indescribable in exactly the same sense.
+
+## 13. KEYWORD & STATEMENT BANK
+
+**Keywords:** ✅ univocal/equivocal/analogical · attribution · proportionality · causal participation · sign/symbol · participation · being-itself · ultimate concern · verification · falsification · eschatological verification · parable of gardener · partisan · moral policy · *blik* · language-game · form of life · *neti neti* · *lakṣaṇā* · *anirvacanīya*.
+
+**Safe formulations:** ⚠️ "Religious utterances can be simultaneously assertoric, symbolic and performative." · "The central issue is not only whether God-talk is meaningful, but what mode of meaning fits transcendence."
+
+<!-- expanded-pyq-depth:start -->
+### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
+
+- ⚠️ **Priority:** Primary ownership is 14 of 112 parts, second only to the soul–rebirth–liberation clause.
+- ✅ **Required doctrinal depth:** Older papers add secular versus religious use, Braithwaite, symbolism leading to mysticism, transcendent-reference mediation, cognitive content and Tillich before the recent analogy/cognitivism cycle.
+- ❌ **Trap / answer consequence:** Do not merge symbol, analogy and non-cognitivism; distinguish semantic mode from truth-aptness, and a participatory symbol from a conventional sign.
+
+<!-- expanded-pyq-depth:end -->
+
+## 14. PYQ ROUTING (2018–2025)
+
+> ⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+
+| Year | Question | Marks | Exact demand |
+|---|---|---:|---|
+| 2018 | Q5(a) | 10 marks | In what sense is the secular use of language different from the religious use of language? Discuss. |
+| 2018 | Q7(b) | 15 marks | Critically examine Braithwaite’s non-cognitive theory of religious language. |
+| 2018 | Q8(c) | 15 marks | Explain the significance of religious symbols as transcendent referent that mediates into the cultural, spatial and temporal world. |
+| 2019 | Q6(a) | 20 marks | Discuss whether and how does religious symbolism lead to mysticism. |
+| 2020 | Q8(a) | 20 marks | Does religious language carry cognitive content? Elucidate in detail. |
+| 2021 | Q8(a) | 20 marks | What is non-cognitive theory of religious language? Explain critically in the light of R. B. Braithwaite’s views. |
+| 2021 | Q8(c) | 15 marks | Explain the symbolic nature of religious language with special reference to Paul Tillich. |
+| 2022 | Q5(e) | 10 marks | Explain the difference between the cognitivist and non-cognitivist approaches to the religious language with reference to the statement — “God exists”. |
+| 2023 | Q5(d) | 10 marks | Discuss Wittgenstein’s view about the non-cognitive nature of religious language. |
+| 2023 | Q7(c) | 15 marks | Explain the symbolic nature of religious language according to Tillich. |
+| 2024 | Q5(e) | 10 marks | Explain the analogical nature of religious language. |
+| 2024 | Q8(a) | 20 marks (10+10) | Distinguish between cognitivist and non-cognitivist account of religious language. Does the cognitivist account lead to any contradiction? Answer with reference to the philosophical views of R. B. Braithwaite. |
+| 2025 | Q5(b) | 10 marks | Is religious language symbolic? Give reasons and justification in support of your answer. |
+| 2025 | Q8(c) | 15 marks | Discuss the Advaitic notion of indescribability (anirvacanīyatā) in the context of nature of religious language. |
+
+See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+
+## 15. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
+
+### 10 marks
+```text
+Define theory → mechanism of meaning → canonical example →
+nearest contrast → one objection → verdict.
+```
+
+### 15 marks
+```text
+Frame finite-language problem → doctrine's argument and presupposition →
+example → critic and reply → Indian/Western comparison.
+```
+
+### 20 marks
+```text
+Separate HOW from WHETHER → compare cognitive and non-cognitive families →
+verification/falsification pressure → analogy/symbol/Advaita resources →
+two objections and a mixed, defended conclusion.
+```
+
+## 16. LINK-OUTS
+
+- [Notions of God](./Notions-of-God.md)
+- [Religious Experience](./Religious-Experience.md)
+- [Reason, Revelation and Faith](./Reason-Revelation-Faith.md)
+- [Paper I: Logical Positivism](../../paper-1/western/Logical-Positivism.md)
+- [Paper I: Later Wittgenstein](../../paper-1/western/Later-Wittgenstein.md)
+- [Paper I: Vedānta](../../paper-1/indian/Vedanta.md)
+- [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md)
+
+## SOURCES
+
+- Thomas Aquinas, *Summa Theologiae*, on names said of God.
+- Paul Tillich, *Dynamics of Faith* and *Systematic Theology*.
+- John Hick, *Philosophy of Religion*.
+- A. J. Ayer, *Language, Truth and Logic*; R. B. Braithwaite, *An Empiricist's View of the Nature of Religious Belief*.
+- Advaita discussions in S. Radhakrishnan, S. C. Chatterjee & D. M. Datta, and C. D. Sharma.

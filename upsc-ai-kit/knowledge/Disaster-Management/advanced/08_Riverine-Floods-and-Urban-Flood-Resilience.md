@@ -169,10 +169,21 @@ thesis, not merely as a factual footnote.
 
 - 📰 **CWC's Flood Forecasting and Monitoring SOP (April 2026)** — the
   correct current anchor for forecasting protocol, lead times and
-  monitoring-station status.
+  monitoring-station status (**350 stations: 200 level-forecast, 150
+  inflow-forecast**; 24-hour statutory forecast; 7-day rainfall-runoff
+  advisory; **C-Flood** 2-day village-level inundation forecasts).
 - 📰 **CWC's "Delhi Floods 2023: A Case Study" (January 2025)** — the
   correct current, rigorously documented source for Delhi 2023's
   verified features, to be used instead of general/media accounts.
+- 📰 **The Urban Flood Risk Management Programme is the answer to 2024
+  Q18's "policies and frameworks" limb that most candidates miss** —
+  NDMF-financed, Chennai approved December 2023, six more cities July
+  2024, and **Phase 2 approved 1 October 2025 for 11 cities at ₹2,444.42
+  crore on a 90:10 basis**. ⚠️ Its analytical significance is that it is
+  the first Indian instance of urban-flood *mitigation* being financed
+  from a dedicated mitigation fund rather than from post-event relief —
+  the exact ex-ante/ex-post shift topic `16` argues for. ⚠️ The 11
+  Phase-2 city names are not officially confirmed; do not list them.
 - ❌ Do not use VisionIAS's general flood-prone-area figures (e.g. "40
   million hectares") as current without CWC/NDMA verification.
 

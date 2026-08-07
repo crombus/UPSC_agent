@@ -2,7 +2,7 @@
 
 > **Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + GS-II (aviation/governance) + Prelims.
 > **Core area:** Satellite classes, regional navigation, aviation augmentation and civilian-strategic applications.
-> **Grounded in:** ISRO Navigation page (https://www.isro.gov.in/Navigation.html); GAGAN official portal (https://gagan.aai.aero/); NavIC parliamentary reply (https://pib.gov.in/PressReleasePage.aspx?PRID=2244977); NavIC navigation-systems reply (https://pib.gov.in/PressReleasePage.aspx?PRID=2201530&reg=3&lang=1); GAGAN aviation article (https://pib.gov.in/PressReleasePage.aspx?PRID=2279810&reg=3&lang=1); INSAT-3DS launch note (https://pib.gov.in/PressReleasePage.aspx?PRID=2006794); ISRO communication satellites page (https://www.isro.gov.in/CommunicatioSatellitenNew.html); ISRO Earth observation / Resourcesat / Cartosat / INSAT-3DR pages (https://www.isro.gov.in/EarthObservationSatellites.html ; https://www.isro.gov.in/RESOURCESAT_2.html ; https://www.isro.gov.in/Cartosat_3.html ; https://www.isro.gov.in/INSAT-3DR.html) — verified 16 Jul 2026.
+> **Grounded in:** ISRO Navigation page (https://www.isro.gov.in/Navigation.html); ISRO satellite-navigation services page (https://www.isro.gov.in/SatelliteNavigationServices.html); ISRO IRNSS programme page (https://www.isro.gov.in/IRNSS_Programme.html); NavIC L1 payload note (https://www.isro.gov.in/Atmanirbhar/L1_band_Navigation_Payload.html); NVS-02 on-orbit observations (https://www.isro.gov.in/NVS-02-Spacecraft-On-Orbit-Observations.html); GAGAN official portal and DGCA certification page (https://gagan.aai.aero/ ; https://gagan.aai.aero/gagan/content/dgca-certification); NavIC parliamentary replies (https://pib.gov.in/PressReleasePage.aspx?PRID=2244977 ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147284 ; https://pib.gov.in/PressReleasePage.aspx?PRID=2227029 ; https://pib.gov.in/PressReleasePage.aspx?PRID=2201530&reg=3&lang=1); GAGAN aviation article (https://pib.gov.in/PressReleasePage.aspx?PRID=2279810&reg=3&lang=1); INSAT-3DS launch note (https://pib.gov.in/PressReleasePage.aspx?PRID=2006794); ISRO communication and Earth-observation satellite pages (https://www.isro.gov.in/CommunicatioSatellitenNew.html ; https://www.isro.gov.in/EarthObservationSatellites.html ; https://www.isro.gov.in/RESOURCESAT_2.html ; https://www.isro.gov.in/Cartosat_3.html ; https://www.isro.gov.in/INSAT-3DR.html) — re-verified 2 Aug 2026.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `advanced/02_Satellites-NavIC-GAGAN-and-Applications.md`.*
 
@@ -31,21 +31,26 @@ GAGAN = SBAS -> corrects/augments GPS for aviation accuracy + integrity
 | ✅ **Remote sensing satellite** | Satellite that observes Earth using sensors for land, water, ocean, resource and disaster applications. |
 | ✅ **Communication satellite** | Satellite that carries transponders to relay telecom, broadcasting and related communication services. |
 | ✅ **Meteorological satellite** | Satellite dedicated to weather, climate, atmosphere-ocean observation and associated warning services. |
-| ✅ **NavIC / IRNSS** | India’s independent regional Position, Navigation and Timing system covering India and surrounding region. |
-| ✅ **GAGAN** | GPS Aided GEO Augmented Navigation; an Indian Satellite Based Augmentation System for aviation-grade navigation performance. |
-| ✅ **SBAS** | Satellite Based Augmentation System that improves another GNSS signal by providing correction and integrity information. |
+| ✅ **NavIC / IRNSS** | India’s independent regional Position, Navigation and Timing system covering India and surrounding region. Nominal constellation: **7 satellites — 3 in geostationary orbit and 4 in inclined geosynchronous orbit (IGSO)**. |
+| ✅ **GAGAN** | GPS Aided GEO Augmented Navigation; an Indian Satellite Based Augmentation System for aviation-grade navigation performance, **jointly developed by ISRO and the Airports Authority of India (AAI)**. |
+| ✅ **SBAS** | Satellite Based Augmentation System that improves another GNSS signal by broadcasting correction and **integrity** information over a wide region via geostationary satellites. |
+| ⚠️ **GBAS** | Ground Based Augmentation System: corrections broadcast by a **local ground station at a single airport** by VHF, giving very high precision within a small radius. SBAS = wide-area via satellite; GBAS = airport-local via ground radio. |
+| ⚠️ **Integrity (in navigation)** | The system's ability to warn a user, within a specified time-to-alert, that its signal must not be used. For aviation, integrity — not raw accuracy — is the decisive requirement. |
 | ✅ **SPS** | Standard Positioning Service: open civilian NavIC service. |
-| ✅ **RS** | Restricted Service: controlled/authorised NavIC service for strategic users. |
+| ✅ **RS** | Restricted Service: an **encrypted** NavIC service made available only to **authorised users** — not merely "for strategic users." |
+| ⚠️ **NavIC signal bands** | NavIC broadcasts in **L5 and S-band**; a civil **L1** signal (interoperable with mass-market GNSS chipsets) was first carried by **NVS-01 (launched 29 May 2023)** and is being extended across the second-generation NVS series. |
 | ✅ **Transponder** | Satellite payload unit that receives, amplifies and retransmits communication signals. |
+| ⚠️ **Constellation health** | *Satellites launched* ≠ *satellites functional*. A navigation constellation degrades as individual satellites lose atomic clocks, are decommissioned or fail orbit-raising — always cite functional numbers with a date. |
 
 ## 3. Mechanism / how it works
 
 1. Earth-observation satellites collect optical/radar/multispectral data and send it to ground stations for mapping, planning and monitoring applications.
 2. Communication satellites relay signals through onboard transponders, enabling television, telecommunications, search-and-rescue and other networked services.
 3. Meteorological satellites combine imaging and sounding payloads to observe clouds, atmosphere, ocean conditions and severe-weather indicators for forecasting agencies.
-4. NavIC works as an Indian regional satellite navigation constellation that provides Position, Navigation and Timing services over India and its neighbourhood through dedicated satellite signals.
-5. GAGAN does not replace NavIC or GPS; it augments GPS by sending correction and integrity information needed for safer aircraft navigation and air-traffic management.
+4. NavIC works as an Indian regional satellite navigation constellation that provides Position, Navigation and Timing services over India and its neighbourhood through dedicated satellite signals. A receiver computes its position by **trilateration**: it measures signal travel time from several satellites whose positions are known, so the accuracy of the on-board **atomic clocks** is the single most critical element — which is why clock failures, not launch failures, are the usual cause of constellation degradation.
+5. GAGAN does not replace NavIC or GPS; it augments GPS by sending correction and integrity information needed for safer aircraft navigation and air-traffic management. Its architecture is: **Indian Reference Stations** measure GPS error → a **master control centre** computes wide-area corrections and integrity flags → **uplink stations** send them to **GEO satellites** → the satellites rebroadcast them on a GPS-like frequency, so an ordinary SBAS-capable aircraft receiver can use them without new hardware.
 6. In exam answers, always separate “constellation that provides navigation” from “augmentation layer that improves another system’s navigation performance.”
+7. ⚠️ Also separate **space segment** (satellites), **ground segment** (control, reference, uplink stations) and **user segment** (chipsets, receivers, standards, applications). India's recurring bottleneck for NavIC has been the *user segment*, not the space segment.
 
 ## 4. Institutions and programmes
 
@@ -76,7 +81,12 @@ GAGAN = SBAS -> corrects/augments GPS for aviation accuracy + integrity
 - ✅ INSAT/GSAT belong to the communication-satellite cluster, whereas Resourcesat/Cartosat belong to the Earth-observation cluster.
 - ✅ INSAT-3D, INSAT-3DR and INSAT-3DS belong to the meteorological observation-and-warning ecosystem.
 - ✅ ISRO notes that NavIC is designed to provide PNT services over India and a region extending up to 1500 km from Indian land mass.
-- ✅ GAGAN has been operational since 2015 and is recognised as India’s aviation-focused satellite navigation augmentation system.
+- ✅ NavIC's nominal architecture is **7 satellites: 3 geostationary + 4 inclined geosynchronous (IGSO)** — the inclined satellites give better visibility at higher latitudes than a purely equatorial GEO set could.
+- ✅ NavIC broadcasts in **L5 and S-band**; the civil **L1** signal was introduced with **NVS-01** to make NavIC usable in ordinary mass-market GNSS chipsets.
+- ✅ **Restricted Service is an encrypted service for authorised users** — the distinction from SPS is encryption and authorisation, not "military versus civilian" as such.
+- ✅ **GAGAN was certified by DGCA for RNP 0.1 on 30 Dec 2013 and for APV-1 (approach with vertical guidance) on 21 Apr 2015**; GAGAN payloads ride on **GSAT-8, GSAT-10 and GSAT-15**.
+- ✅ GAGAN has been operational since 2015 and is recognised as India’s aviation-focused satellite navigation augmentation system. India is one of a small set of States/regions operating an SBAS (alongside the US WAAS, Europe's EGNOS and Japan's MSAS).
+- ⚠️ Do not confuse **augmentation** (GAGAN/SBAS improving GPS) with **regional constellation** (NavIC) or with **regional augmentation-plus-navigation hybrids** used elsewhere; each solves a different problem.
 
 ## 7. UPSC traps
 
@@ -86,15 +96,21 @@ GAGAN = SBAS -> corrects/augments GPS for aviation accuracy + integrity
 - ❌ Restricted Service (RS) means NavIC is unavailable for civilian use. -> SPS is the open civilian service; RS is the controlled/authorised layer.
 - ❌ Remote-sensing satellites are only for defence imaging. -> Their major Indian uses include agriculture, water, disaster management, planning and environmental monitoring.
 - ❌ If GAGAN improves GPS, India does not need NavIC. -> Augmenting GPS and owning an independent PNT constellation solve different strategic problems.
+- ❌ "NavIC has 11 satellites, so it is a large constellation." -> Cumulative **launches** are not constellation strength. Count *functional* satellites on a stated date, and remember that some launched satellites have been decommissioned or failed to reach their intended orbit.
+- ❌ SBAS and GBAS are alternative names for the same thing. -> SBAS corrects over a wide area via geostationary satellites; GBAS is a local, airport-based VHF ground broadcast.
+- ❌ NavIC is a global system like GPS/GLONASS/Galileo/BeiDou. -> NavIC is **regional** by design (India plus ~1500 km); this is a deliberate cost-and-coverage choice, not a shortfall.
 
 ## 8. 📰 Current anchor
 
 - 📰 **17 Feb 2024 | INSAT-3DS - launched/deployed.** PIB said the GSLV-F14 mission would augment India’s meteorological services alongside operational INSAT-3D and INSAT-3DR.
 - 📰 **10 Dec 2025 | NavIC adoption - operational expansion.** PIB said DoS was expanding NavIC use through pilot projects, standards work and device integration; it also clarified that NavIC had not yet been mandated by government.
 - 📰 **25 Mar 2026 | NavIC system - operational / being strengthened.** Lok Sabha reply described NavIC as a regional PNT system, noted ongoing base-layer enhancement and explicitly distinguished GAGAN as the operational air-navigation augmentation system.
-- 📰 **01 Jul 2026 | GAGAN - operational with new aviation milestone.** PIB recorded that DGCA had conducted India’s first satellite-based landing-system approach on a commercial jet aircraft using GAGAN in June 2026.
+- 📰 **23 Jul 2025 | NavIC constellation composition - official breakdown.** A parliamentary reply disaggregated the constellation as **4 satellites providing PNT service, 4 providing one-way message broadcast, 1 decommissioned and 2 that could not reach the intended orbit** — the cleanest available answer to "how healthy is NavIC?".
+- 📰 **12 Feb 2026 | NavIC - 11 launched, 8 operational.** A Rajya Sabha reply stated that of the navigation satellites launched, **eight were operational**. Read this together with the July 2025 breakdown: "operational" includes message-broadcast-only satellites, so it is *not* the same as eight PNT satellites.
+- 📰 **29 Jan 2025 / 25 Feb 2026 | NVS-02 - launch success, on-orbit anomaly.** GSLV-F15 injected NVS-02 correctly on 29 Jan 2025, but ISRO reported that the planned orbit-raising could not be carried out because an oxidiser-line pyro valve did not receive its drive signal (likely connector-contact disengagement). **Status: launch successful, spacecraft not in its intended orbit** — a precise example of why "launched" ≠ "in service."
+- 📰 **01 Jul 2026 | GAGAN - operational with new aviation milestone.** PIB recorded that DGCA had conducted India’s first satellite-based landing-system approach on a commercial jet aircraft using GAGAN in June 2026; GAGAN payloads are carried on GSAT-8, GSAT-10 and GSAT-15.
 
-⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date; verify later updates before exam use.
+⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Aug 2026); verify later updates before exam use.
 
 ## 9. PYQ application
 
@@ -123,5 +139,5 @@ GAGAN = SBAS -> corrects/augments GPS for aviation accuracy + integrity
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launch capacity and institutional reform behind satellite deployment.
 - ✅ `03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md` - mission-side extension of India’s space capability beyond applications satellites.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` - future secure timing, positioning and strategic technology intersections.
-- ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - orbital sustainability context for growing satellite deployments.
+- ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launch-vehicle choice and cadence constraints that govern constellation replenishment.
 

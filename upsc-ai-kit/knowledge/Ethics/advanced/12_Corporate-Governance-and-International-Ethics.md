@@ -37,7 +37,7 @@ fraud investigation, whistleblower protection) are directly transferable to the 
 |---|---|
 | ⚠️ **Agency problem** | The separation of ownership (shareholders) from control (management) creates incentives for managers to prioritise personal/short-term gain over shareholders'/stakeholders' long-term interest — the foundational economic-ethics problem corporate governance is designed to solve. |
 | ✅ **Stakeholder vs shareholder model of corporate ethics** | Shareholder-primacy models judge corporate ethics mainly by fiduciary duty to owners/profit; stakeholder models extend ethical obligation to employees, communities, environment and future generations — the 2024 GS-IV case study's "sustainability vs profitability" framing directly tests this tension. |
-| ✅ **Serious Fraud Office model — precise design features** (ARC 3.7.4, UK SFO under the Criminal Justice Act, 1987) | Headed by a Director accountable to the Attorney General; multi-disciplinary teams (law, accountancy, investigation); can prosecute its own cases without routing through a separate prosecution service; empowered to investigate any offence "reasonably" believed to involve "serious or complex fraud" without a rigid statutory definition of the term. |
+| ✅ **Serious Fraud Office model — precise design features** (ARC 3.7.4; UK SFO under the Criminal Justice Act 1987) | The Director acts "under the superintendence of the Attorney General"; multi-disciplinary teams (law, accountancy, investigation); may "institute and have the conduct of" its own prosecutions without routing through a separate prosecution service; may investigate any suspected offence which appears "on reasonable grounds" to involve "serious or complex fraud", the Act deliberately leaving the term undefined. The relevant provisions came into force on 6 April 1988. |
 | ⚠️ **Regulatory capture** | The risk that a sector regulator, over time, comes to serve the interests of the regulated industry rather than the public — a corporate-governance-adjacent ethical risk relevant to competition, environment and financial regulators alike. |
 
 ## 3. Detailed treatment
@@ -55,39 +55,62 @@ fraud investigation, whistleblower protection) are directly transferable to the 
 
 ### CSR as a statutory mandate — strengths and limits
 
-- ✅ Companies Act, 2013, Section 135 requires qualifying companies (net worth ≥ Rs 500 crore,
-  turnover ≥ Rs 1,000 crore, or net profit ≥ Rs 5 crore) to spend at least 2% of average net profit
-  of the preceding three years on CSR activities listed in Schedule VII, with mandatory disclosure
-  and (since 2021 amendments) stricter unspent-amount transfer/penalty provisions.
+- ✅ Companies Act, 2013, Section 135 requires qualifying companies (net worth ≥ ₹500 crore,
+  turnover ≥ ₹1,000 crore, or net profit ≥ ₹5 crore in the immediately preceding financial year) to
+  spend at least 2% of average net profits of the three immediately preceding financial years on
+  Schedule VII activities, with mandatory board disclosure. Amendments have materially tightened
+  this: the Companies (Amendment) Act, **2019** created the unspent-amount architecture — for a
+  non-ongoing project, transfer to a Schedule VII fund within **six months** of the year-end; for
+  an ongoing project, transfer to an **Unspent CSR Account** within **30 days** of year-end, to be
+  spent within three financial years. The Companies (Amendment) Act, **2020** converted the
+  Section 135(7) sanction into a **civil monetary penalty** (company: the lesser of twice the
+  transferable amount or ₹1 crore; officer in default: the lesser of one-tenth of that amount or
+  ₹2 lakh) and inserted **Section 135(9)**, exempting a company whose required CSR spend does not
+  exceed ₹50 lakh from constituting a CSR Committee.
+- ✅ The CSR Policy Amendment Rules, **2021** added the "ongoing project" definition, mandatory
+  registration of implementing agencies through **Form CSR-1**, and impact assessment for companies
+  with an average CSR obligation of ₹10 crore or more. ⚠️ **Form CSR-2** was introduced separately,
+  by the Companies (Accounts) Amendment Rules, 2022 — do not attribute it to the 2021 CSR Rules.
+- 📰 Most recent change (dated): by notifications G.S.R. 415(E) and G.S.R. 416(E) of **27 May 2026**,
+  Schedule VII was expanded to include subscription to zero-coupon zero-principal instruments on
+  the Social Stock Exchange, capped by a new Rule 4A at 10% of annual CSR expenditure.
 - ⚠️ Advanced critique: CSR spending, however well-administered, does not address a company's *core*
   ethical conduct (e.g., a company could fully comply with CSR spend while simultaneously
   under-reporting emissions or engaging in anti-competitive practices) — CSR is best understood as
   a redistribution/reputation mechanism operating *alongside*, not as a proxy for, ethical business
   conduct.
-- 📰 Note: current CSR compliance data, penalty enforcement statistics, and any recent amendments
-  should be verified independently before being cited as current in a Mains answer.
 
 ### International anti-corruption architecture — layered, not singular
 
-- ✅ ARC 1.14 identifies three distinct international layers: (1) UNCAC (2003) — the binding
-  multilateral treaty framework; (2) the ADB-OECD Anti-Corruption Action Plan — a regional,
-  non-binding cooperative framework India has signed; (3) World Bank conditionality — refusing to
-  fund projects "tainted by corrupt practices," an instrumental, lender-driven mechanism distinct
-  from treaty law.
-- ⚠️ Advanced point: these three layers operate through different enforcement logics — treaty
+- ✅ ARC 1.14 identifies three distinct international layers: (1) UNCAC (adopted 31 October 2003;
+  in force 14 December 2005; **India signed 9 December 2005 and ratified 9 May 2011**) — the binding
+  multilateral treaty framework; (2) the ADB-OECD Anti-Corruption Action Plan for Asia and the
+  Pacific — a regional, non-binding cooperative framework India endorsed on 30 November 2001;
+  (3) World Bank conditionality — refusing to fund projects "tainted by corrupt practices", an
+  instrumental, lender-driven mechanism distinct from treaty law. ARC 1.14 also notes the 2006
+  IMF-World Bank Singapore joint statement on a common anti-fraud framework.
+- ⚠️ Advanced point: these layers operate through different enforcement logics — treaty
   obligation (UNCAC), cooperative peer-review (ADB-OECD), and financial conditionality (World Bank)
   — and a sophisticated answer should not conflate them as a single undifferentiated "international
-  pressure."
-- ⚠️ The US Foreign Corrupt Practices Act (FCPA) is distinctive because it extraterritorially
-  punishes *bribe-paying* by (and connected to) US-linked companies abroad — ARC 3.2.2 notes most
-  countries, unlike the US via FCPA, have historically been reluctant to punish bribe-payers as
-  vigorously as bribe-takers, a parallel to the coercive/collusive distinction in `19`.
+  pressure." ⚠️ India is **not** a party to the separate OECD Anti-Bribery Convention, 1997.
+- ⚠️ The US Foreign Corrupt Practices Act (FCPA), 1977 is distinctive because it extraterritorially
+  punishes *bribe-paying* by US issuers/persons and by foreign firms acting in furtherance within
+  US territory — ARC 3.2.2 notes most countries, unlike the US via the FCPA, have historically been
+  reluctant to punish bribe-payers as vigorously as bribe-takers, a parallel to the
+  coercive/collusive distinction in `19`. 📰 Date-stamp any *enforcement* claim: Executive Order
+  14209 of 10 February 2025 directed a pause on new FCPA matters pending review, and revised DOJ
+  guidelines of 9 June 2025 narrowed enforcement priorities; the statute remains in force and cases
+  continue to be resolved, so describe FCPA enforcement as selective and policy-dependent rather
+  than either unchanged or abandoned.
 
 ### The 2024 GS-IV case study — a genuine stakeholder-vs-shareholder dilemma
 
-- ✅ 2024 GS-IV Q1 presents a tech CEO/majority shareholder facing a 48% GHG emissions increase
-  (2023 vs 2019) driven by AI-fuelled data-centre energy demand, against a stated Net Zero-by-2030
-  commitment, amid competitive pressure for innovation and shareholder value.
+- ✅ 2024 GS-IV Q7 presents a tech CEO/majority shareholder facing a 48% increase in greenhouse-gas
+  emissions in 2023 against 2019 levels, driven by AI-fuelled data-centre energy demand, against a
+  stated net-zero-by-2030 commitment, amid competitive pressure for innovation and shareholder
+  value; the paper asks for an immediate response, the ethical issues, the arguments the CEO would
+  make about being singled out for penalty by technology giants, and the measures a "conscience
+  being" would adopt.
 - ⚠️ Advanced decomposition: (a) deontological floor — does the company have a non-negotiable
   disclosure/compliance duty regarding emissions data (transparency to regulators/investors)?
   (b) consequentialist optimisation — what mix of renewable investment, efficiency improvement and
@@ -99,15 +122,16 @@ fraud investigation, whistleblower protection) are directly transferable to the 
 
 ## 4. Institutional and reform architecture
 
-- ✅ ARC 3.7.9's Corporate Serious Fraud Office recommendation anticipated later Indian institutional
-  developments (the Serious Fraud Investigation Office, SFIO, under the Ministry of Corporate
-  Affairs, now empowered under the Companies Act, 2013) — a useful "ARC recommendation vs later
-  enacted institution" comparison point for exam answers, provided the SFIO's current statutory
-  powers are verified independently rather than assumed identical to the ARC's 2002/2007 proposal.
+- ✅ ARC 3.7.9's Corporate Serious Fraud Office recommendation was followed by India's **Serious
+  Fraud Investigation Office (SFIO)** — first set up by Government Resolution of 2 July 2003 and
+  then given statutory footing under **Section 211 of the Companies Act, 2013** (notified by
+  S.O. 2005(E) dated 21 July 2015), with power to arrest under Section 212(8) where there is
+  material-based reason to believe a person is guilty of fraud under Section 447. This is the
+  cleanest available "ARC recommendation vs later enacted institution" comparison for exam answers.
 - ⚠️ Sarbanes-Oxley-style whistleblower protection for corporate reporting has a partial Indian
-  analogue in SEBI's whistleblower/informant reward mechanisms for securities-law violations — a
-  narrower, sector-specific protection than the still-unenforced general Whistle Blowers Protection
-  Act, 2014 (see `19`).
+  analogue in SEBI's whistleblower/informant reward mechanisms for insider-trading and
+  securities-law violations — a narrower, sector-specific protection than the general Whistle
+  Blowers Protection Act, 2014, which has never been brought into force (see `19`).
 
 ## 5. Indian applications and boundary cases
 
@@ -132,12 +156,17 @@ fraud investigation, whistleblower protection) are directly transferable to the 
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ Companies Act, 2013, Section 135's CSR thresholds: net worth ≥ Rs 500 crore, or turnover ≥ Rs
-  1,000 crore, or net profit ≥ Rs 5 crore, triggering a mandatory 2%-of-average-net-profit CSR spend.
-- ✅ The UK Serious Fraud Office was established in 1988 under the Criminal Justice Act, 1987, with
-  power to prosecute its own cases without routing through a separate prosecution service.
-- ✅ The US FCPA specifically targets bribe-paying by (and connected to) US-linked entities abroad,
-  an extraterritorial anti-corruption mechanism distinct from UNCAC's multilateral framework.
+- ✅ Companies Act, 2013, Section 135's CSR-applicability thresholds: net worth ≥ ₹500 crore, or
+  turnover ≥ ₹1,000 crore, or net profit ≥ ₹5 crore, in the immediately preceding financial year,
+  triggering a 2%-of-average-net-profits CSR spend.
+- ✅ The UK Serious Fraud Office was constituted under the Criminal Justice Act 1987 and began
+  operating in April 1988; its Director acts under the superintendence of the Attorney General and
+  may prosecute its own cases.
+- ✅ The US FCPA (1977) targets bribe-paying by US issuers/persons and by others acting in
+  furtherance within US territory — an extraterritorial anti-corruption mechanism distinct from
+  UNCAC's multilateral framework.
+- ✅ India ratified UNCAC on 9 May 2011, having signed on 9 December 2005; India is **not** a party
+  to the OECD Anti-Bribery Convention, 1997.
 
 ## 8. Advanced Prelims traps
 
@@ -148,8 +177,13 @@ fraud investigation, whistleblower protection) are directly transferable to the 
   often ring-fenced spend obligation; a company can comply with CSR while its core operations
   remain ethically deficient.
 - ❌ India's Serious Fraud Investigation Office is identical in design to the ARC's 2007 Corporate
-  Serious Fraud Office proposal. -> They are related but not necessarily identical in scope/powers;
-  verify current SFIO statutory powers independently before equating the two.
+  Serious Fraud Office proposal. -> They are related but not identical: the SFIO operates under
+  Section 211 of the Companies Act, 2013 (notified in 2015) with a specific statutory arrest power
+  under Section 212(8), whereas the 2002/2007 proposal envisaged a body in the Department of
+  Company Affairs overseen by a Cabinet Secretary-headed committee.
+- ❌ India is bound by the OECD Anti-Bribery Convention because it works with the OECD on
+  anti-corruption. -> India endorsed the ADB-OECD Anti-Corruption *Action Plan* (2001) and ratified
+  UNCAC (2011), but is not a party to the OECD Anti-Bribery Convention, 1997.
 
 ## 9. Current application
 
@@ -159,7 +193,7 @@ fraud investigation, whistleblower protection) are directly transferable to the 
 
 ## 10. PYQ-based analytical application
 
-- ✅ 2024 GS-IV Q1 rewards an answer that names the stakeholder-shareholder tension explicitly,
+- ✅ 2024 GS-IV Q7 rewards an answer that names the stakeholder-shareholder tension explicitly,
   applies at least two moral theories (`08`), and recommends a *specific, verifiable* step (e.g.,
   time-bound renewable procurement targets, third-party emissions audit) rather than a vague
   "balance profit and sustainability" statement.

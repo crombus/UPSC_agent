@@ -37,6 +37,7 @@ and a **Code of Conduct** (precise, sanctionable rules) — the ARC's own founda
 | ✅ **Ethical dilemma** | A situation in which two or more legitimate duties, values or loyalties genuinely conflict, such that honouring one requires compromising another — distinct from a simple temptation to break a known rule. |
 | ✅ **Legal violation** | A breach of a specific, codified rule/law, independent of whether the underlying situation involved any genuine value conflict. |
 | ⚠️ **Ethical dilemma vs legal violation** | A dilemma may exist even where *no law is broken* (e.g., choosing between two lawful options with different ethical costs); a legal violation may occur without any real dilemma (e.g., simple theft) — GS-IV case studies are built almost entirely around genuine dilemmas, not simple violations. |
+| ⚠️ **Conflict of interest vs corruption** | A conflict of interest is a *situation*, not an act of wrongdoing: a private interest (family, financial, past employment) that could reasonably be thought to compromise official judgment. The **ethical failure is the non-disclosure or non-recusal**, not the existence of the interest. Corruption requires an actual abuse of office — under the PC Act, an "undue advantage" (see `19`). Every conflict of interest left unmanaged is a corruption risk; not every conflict of interest is corruption. Nolan's "honesty" principle is specifically about declaring such interests. |
 | ✅ **Code of Ethics** (ARC 2.2.6) | Broad guiding principles of good behaviour and governance. |
 | ✅ **Code of Conduct** (ARC 2.2.6) | A precise, unambiguous list of acceptable and unacceptable behaviour and action, with sanctions. |
 
@@ -66,9 +67,12 @@ and a **Code of Conduct** (precise, sanctionable rules) — the ARC's own founda
 
 ## 5. Must-Know Facts for Prelims
 
-- ✅ The Nolan Committee (UK, formally the Committee on Standards in Public Life) identified the
-  seven principles of public life in 1995; the 2nd ARC's 4th Report (2007) cites them verbatim as a
-  model for Indian public life.
+- ✅ The Nolan Committee (UK, formally the Committee on Standards in Public Life, set up in October
+  1994) issued the seven principles of public life in its First Report of May 1995; the 2nd ARC's
+  4th Report (2007) reproduces that 1995 wording verbatim at para 2.2.5 as a model for Indian
+  public life. ⚠️ The UK's own official wording has since been revised (notably after the 2013
+  *Standards Matter* review) — quote the ARC's 1995 text when citing the ARC, and check gov.uk if
+  you need the current UK formulation.
 - ✅ ARC 2.2.6: a Code of Ethics ≠ a Code of Conduct — the former is principle-based, the latter is
   rule-based with defined sanctions.
 - ⚠️ An ethical dilemma requires a genuine conflict between legitimate values; a mere temptation to
@@ -91,7 +95,7 @@ and a **Code of Conduct** (precise, sanctionable rules) — the ARC's own founda
   "promoting good governance" and "ensuring accountability."
 - ✅ 2025 GS-IV Q5(a): Code of Conduct "already in operation" vs Code of Ethics "not yet put in
   place" — directly tests the ARC 2.2.6 distinction (fully answered in `16`).
-- ✅ 2025 GS-IV Case Study Q7 (DC Vijay) is a textbook multi-duty ethical dilemma (public duty vs
+- ✅ 2025 GS-IV Q7 (Section B case study: DC Vijay) is a textbook multi-duty ethical dilemma (public duty vs
   family/personal grief) resolvable through the anatomy taught in Section 3 above.
 
 ## 8. Mains angles

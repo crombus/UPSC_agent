@@ -41,7 +41,7 @@ the Lokpal) was needed.
 | ✅ **CVC (Central Vigilance Commission)** | Set up 1964 (Santhanam Committee recommendation); given statutory status via the CVC Act, 2003 following *Vineet Narain v. Union of India* (1997); advises the Union government on integrity/vigilance and superintends CBI's anti-corruption functions. |
 | ✅ **CBI (Central Bureau of Investigation)** | Union government's principal anti-corruption investigative agency, deriving power from the Delhi Special Police Establishment Act, 1946; its Anti-Corruption Division investigates PC Act cases. |
 | ✅ **Lok Pal/Lokayukta (ARC's 2007 conception)** | ARC 4.3.1-4.3.4 recommended a three-member Lok Pal (a serving/retired Supreme Court judge as Chairman, an eminent jurist, and the CVC ex-officio) to enquire into corruption allegations against Ministers and MPs, working in organic linkage with the CVC. |
-| 📰 **Lokpal (as actually enacted, 2013)** | The Lokpal and Lokayuktas Act, 2013 established a differently structured body (a Chairperson and up to eight members, mixed judicial/non-judicial composition, broader jurisdiction over central government officials, NGOs receiving substantial public/foreign funding) — distinct in composition from the ARC's own 2007 three-member proposal. |
+| 📰 **Lokpal (as actually enacted, 2013)** | The Lokpal and Lokayuktas Act, 2013 established a differently structured body — a Chairperson and **not more than eight Members**, of whom at least 50% must be judicial members and at least 50% must be from among SC/ST/OBC, minorities and women — with jurisdiction over the Prime Minister (subject to exclusions), Ministers, MPs, central government officials of all groups, and specified societies/trusts receiving public or foreign funding: distinct in composition from the ARC's own 2007 three-member proposal. |
 
 ## 3. Mechanism: how the institutional-jurisdiction debate works
 
@@ -67,23 +67,28 @@ the Lokpal) was needed.
 - ✅ The CVC Act, 2003 was a direct legislative response to the Supreme Court's *Vineet Narain*
   judgment (1997), which had found the CBI's investigative independence compromised by executive
   control — giving the CVC statutory superintendence over CBI's anti-corruption functions.
-- 📰 The Lokpal and Lokayuktas Act, 2013 (in force from 16 January 2014) eventually operationalised
-  a national anti-corruption ombudsman, though the first Lokpal Chairperson was appointed only in
-  March 2019 — a substantial implementation gap between enactment and functioning (📰 verify current
-  Lokpal composition/chairperson independently before citing specific names in an answer).
+- 📰 The Lokpal and Lokayuktas Act, 2013 received assent on 1 January 2014 and came into force on
+  **16 January 2014**, but the first Lokpal Chairperson (Justice Pinaki Chandra Ghose) was appointed
+  only on **19 March 2019**, assuming office on 23 March 2019 — a five-year gap between commencement
+  and operation. 📰 The Chairperson as at 4 August 2026 is **Justice Ajay Manikrao Khanwilkar**,
+  appointed on 10 March 2024; check lokpal.gov.in on the day of use before naming an incumbent.
 - ⚠️ A case involving both a Minister and a senior bureaucrat accused of collusive favouritism in a
   licensing decision exemplifies exactly the "organic link" scenario the ARC's 4.3.3 recommendation
   anticipated.
 
 ## 5. Must-Know Facts for Prelims
 
-- ✅ The CVC was set up in 1964 following the Santhanam Committee's recommendation; it received
-  statutory status via the CVC Act, 2003, after the Supreme Court's *Vineet Narain* judgment (1997).
+- ✅ The CVC was set up by executive resolution in **1964** following the Santhanam Committee's
+  recommendation; it received statutory status via the CVC Act, 2003 (assent 11 September 2003),
+  after the Supreme Court's *Vineet Narain v. Union of India*, (1998) 1 SCC 226, decided 18
+  December 1997.
 - ✅ ARC's own 2007 Lok Pal proposal envisaged a three-member body (judicial Chairman, an eminent
   jurist, and the CVC ex-officio) — distinct from the Lokpal and Lokayuktas Act, 2013's actual,
-  larger and differently composed structure.
+  larger and differently composed structure (Chairperson plus not more than eight Members).
 - ✅ ARC explicitly recommended the Prime Minister remain accountable to Parliament rather than to a
-  formal Lok Pal enquiry, while Ministers and MPs should fall under Lok Pal jurisdiction.
+  formal Lok Pal enquiry, while Ministers and MPs should fall under Lok Pal jurisdiction. ⚠️ The
+  enacted 2013 Act took a different route — inclusion of the PM with subject-matter exclusions and
+  a higher procedural threshold (see the advanced companion).
 
 ## 6. UPSC traps
 

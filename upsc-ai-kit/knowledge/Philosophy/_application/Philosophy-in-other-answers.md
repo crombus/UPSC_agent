@@ -2,7 +2,7 @@
 
 > **Purpose:** Your Philosophy optional is not just 500 marks in Papers I & II. The *same* concepts, quotes and thinkers can lift your **Essay (250)**, **GS-IV Ethics (250)**, **GS-I Society**, **GS-II Polity/Governance**, and the **Interview**. This page shows *which concept goes where*, with ready-to-drop lines.
 > **Rule of use:** deploy as a **scalpel, not a bucket** — one apt philosophical line elevates an answer; three make it pretentious. Always land it in *Indian* idiom and connect to the concrete point.
-> **Grounding:** ✅ = concept from your notes · ⚠️ = deployment suggestion (my synthesis)
+> **Grounding:** ✅ = canonical doctrine or text · ⚠️ = deployment suggestion/analytical synthesis · ❓ = attribution or wording requiring caution · 📰 = dated current anchor · ❌ = trap
 
 ---
 
@@ -33,12 +33,12 @@ Philosophy gives essays their two scarcest ingredients: a **conceptual spine** a
 ### Ready openers (drop as epigraph or first line) ⚠️
 | Theme of essay | Philosophical opener |
 |---|---|
-| Tolerance / diversity | *"The Jaina seers told of blind men and an elephant — each right from his standpoint, all wrong in claiming the whole. Truth, said anekāntavāda, is many-sided."* ✅ |
-| Ends & means | *"'Ahiṃsā paramo dharmaḥ' — for the Jainas and for Gandhi, the purity of the end could never redeem an impure means."* ✅ |
-| Materialism / happiness | *"The Cārvāka bid us 'eat, drink, be merry, for death spares none' — yet twenty-five centuries of Indian thought answered that pleasure is not the same as contentment."* ✅ |
-| Change & impermanence | *"'Sabbe dhammā aniccā' — all things are impermanent, taught the Buddha; wisdom lies not in clinging but in flowing."* ✅ |
-| Human potential | *"Aurobindo saw man as 'a transitional being' — not nature's last word but a bridge to a higher consciousness."* ✅ |
-| Interdependence | *"'This being, that arises' — the Buddhist law of dependent origination is also the first law of ecology."* ⚠️ |
+| Tolerance / diversity | ⚠️ Use the blind-men-and-elephant illustration as a later popular illustration of many-sidedness; do not present it as a verbatim Jaina canonical quotation. |
+| Ends & means | ⚠️ Contrast Jaina non-violence and Gandhian means–end integrity without attributing an unsourced sentence to either. |
+| Materialism / happiness | ⚠️ Present the standard Cārvāka prioritisation of embodied pleasure as a **paraphrase**; avoid the spurious “eat, drink, be merry” quotation. |
+| Change & impermanence | ✅ *Sabbe saṅkhārā aniccā*—all conditioned formations are impermanent; connect impermanence to non-attachment without turning it into passivity. |
+| Human potential | ⚠️ Paraphrase Aurobindo: the human being is transitional within an unfinished spiritual evolution. |
+| Interdependence | ⚠️ The dependent-origination formula “when this is, that comes to be” can frame ecological interdependence, but the ecological application is an analogy, not Buddhist environmental doctrine. |
 
 ### Conceptual spines (structure a whole essay) ⚠️
 - **"Justice"** essay → scaffold with *Rawls (justice-as-fairness / veil of ignorance)* → *Ambedkar (annihilation of caste)* → *Gandhi (antyodaya)*. Three thinkers = three sections.
@@ -46,8 +46,8 @@ Philosophy gives essays their two scarcest ingredients: a **conceptual spine** a
 - **"Truth"** essay → *Syādvāda (conditional truth)* vs *Advaita (one absolute truth)* vs *religious pluralism*.
 
 ### Closers (land the plane) ⚠️
-- *"Perhaps the answer is anekānta — not one truth loudly held, but many truths humbly heard."*
-- *"The self, said the Upaniṣads, is not to be won by the weak — nor is a just society."*
+- ⚠️ *Anekānta recommends humility about standpoint without implying that all claims are equally true.*
+- ✅ *Nāyam ātmā balahīnena labhyaḥ*—the Self is not attained by the weak; if used, identify it as an Upaniṣadic line and make the political extension explicitly analogical.
 
 ---
 
@@ -99,6 +99,7 @@ This is where philosophy pays the highest *non-optional* dividend — GS-IV rewa
 | Sustainable development | **Cārvāka critique** (consumerism), **Gandhian limits** | "earth has enough for need, not greed" |
 | Ecology / climate ethics | **Pratītyasamutpāda** (interdependence), **ahiṃsā** to nature | deep-ecology framing |
 | Inclusive growth | **Rawls' difference principle**, **antyodaya** | growth judged by the worst-off |
+| Technology and progress | Paper II **Development and Social Progress** | distinguish greater technical capacity from ethical, distributive and capability progress |
 
 ---
 
@@ -111,27 +112,31 @@ This is where philosophy pays the highest *non-optional* dividend — GS-IV rewa
 
 ---
 
-## 7. THE 12 HIGHEST-LEVERAGE QUOTES (memorise these first) ⚠️
-| # | Quote | Deploy in |
+## 7. HIGH-LEVERAGE FORMULATIONS — quotation discipline first
+| # | Formulation | Status and deployment |
 |---|---|---|
-| 1 | *Ahiṃsā paramo dharmaḥ* — non-violence is the highest duty | Essay, GS-IV, GS-I |
-| 2 | *Sabbe dhammā aniccā* — all is impermanent | Essay (change) |
+| 1 | *Ahiṃsā paramo dharmaḥ* | ✅ Traditional maxim; do not falsely assign a single authorship. Essay, GS-IV, GS-I |
+| 2 | *Sabbe saṅkhārā aniccā* — conditioned formations are impermanent | ✅ Buddhist canonical formula; Essay (change) |
 | 3 | *Tat tvam asi* — That thou art | Essay (unity), Interview |
 | 4 | *Vasudhaiva kutumbakam* — the world is one family | GS-II IR, Essay |
 | 5 | *Sarva-dharma-samabhāva* — equal respect for all religions | GS-II secularism |
-| 6 | Anekānta — the blind men & the elephant | Essay, Interview |
+| 6 | Anekānta — reality is many-sided | ✅ Doctrine; the blind-men illustration is explanatory, not quoted scripture |
 | 7 | Nishkāma karma — action without attachment to fruit (Gītā) | GS-IV |
-| 8 | *Man is a transitional being* — Aurobindo | Essay (potential) |
+| 8 | Human beings as transitional within spiritual evolution | ⚠️ Safe paraphrase of Aurobindo; Essay (potential) |
 | 9 | *Justice as fairness* / veil of ignorance — Rawls | GS-II, Essay |
-| 10 | *Means are ends-in-the-making* — Gandhi | GS-IV, Essay |
-| 11 | *Educate, Agitate, Organise* / annihilation of caste — Ambedkar | GS-I, Essay |
-| 12 | *This being, that arises* — dependent origination | GS-III ecology, Essay |
+| 10 | Means and ends are internally connected in Gandhi | ⚠️ Doctrine-level paraphrase unless an exact edition is cited |
+| 11 | *Educate, Agitate, Organise* / *Annihilation of Caste* | ❓ Verify the exact quotation context; the work-title is safe |
+| 12 | “When this is, that comes to be” — dependent origination | ✅ Standard translated formula; ecology use is ⚠️ analogy |
 
 > 🔑 **Discipline reminder:** in GS/Essay, a philosophical reference must *serve* the answer's argument, always be **explained in one clause** (don't assume the examiner knows *syādvāda*), and be tied to a **concrete Indian example**. Ornament without substance loses marks.
 
 ---
 
 ## 8. LINK-OUTS
-- Source concepts: all `paper-1/indian/*.md`, `paper-2/**` and `_themes/*.md`.
-- Companion: `_application/Model-Answer-01-Jainism-Soul-Bondage.md` (how to write the *optional* answer itself).
-- To build next (on request): a **Quote Bank** master sheet (P6 revision artifact) expanding §7 to ~40 quotes with sources.
+- Source concepts: [`../paper-1/indian/`](../paper-1/indian),
+  [`../paper-1/western/`](../paper-1/western), [`../paper-1/_themes/`](../paper-1/_themes)
+  and [`../paper-2/`](../paper-2).
+- Optional-answer companions:
+  [`Model-Answer-01-Jainism-Soul-Bondage.md`](Model-Answer-01-Jainism-Soul-Bondage.md)
+  and [`Model-Answer-Bank-Four-Sections.md`](Model-Answer-Bank-Four-Sections.md).
+- Quotation control: [`../_revision/Quote-and-Keyword-Bank.md`](../_revision/Quote-and-Keyword-Bank.md).

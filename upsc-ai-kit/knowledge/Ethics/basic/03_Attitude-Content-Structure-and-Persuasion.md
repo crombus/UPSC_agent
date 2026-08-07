@@ -3,10 +3,10 @@
 > **Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV.
 > **Core area:** Attitude — content, structure, function, and how it is influenced/persuaded;
 > relationship with thought and behaviour.
-> **Grounded in:** Standard social-psychology theory (Rosenberg & Hovland's ABC model; Festinger's
-> cognitive dissonance theory; Hovland-Yale persuasion model) as codified in the official UPSC
-> GS-IV syllabus; audited GS-IV PYQs (2024-2025 Mains, incl. William James quotation and social
-> media ethics question).
+> **Grounded in:** Standard social-psychology theory — Rosenberg & Hovland's tripartite (ABC) model
+> (1960); Festinger's cognitive dissonance theory (1957); the Hovland-Yale attitude-change approach
+> (Hovland, Janis & Kelley, 1953) — as required by the official UPSC GS-IV syllabus; audited GS-IV
+> PYQs (2024-2025 Mains, incl. the William James quotation and the social-media ethics question).
 > ✅ = textbook/theory-grounded | ⚠️ = analytical inference/administrative application | 📰 = current anchor.
 > *Companion: `advanced/03_Attitude-Content-Structure-and-Persuasion.md`.*
 
@@ -23,7 +23,7 @@ ATTITUDE = evaluative disposition toward an object/person/idea
             +------ the "ABC" (Rosenberg-Hovland) structure of attitude -----+
                                     |
                                     v
-                    PERSUASION (source, message, channel, audience)
+                    PERSUASION (source, message, audience; channel added later)
                                     |
                                     v
                     ATTITUDE CHANGE  <-->  COGNITIVE DISSONANCE
@@ -43,15 +43,15 @@ model) — and is distinct from **value** (broad, enduring, cross-situational) a
 | ✅ **Affective component** | The emotional charge (like/dislike, comfort/discomfort) attached to the object. |
 | ✅ **Behavioural (conative) component** | The predisposition/intention to act in a particular way toward the object. |
 | ✅ **Cognitive dissonance** (Festinger, 1957) | Psychological discomfort from holding two inconsistent cognitions/attitudes, or from acting against one's own attitude — resolved by changing the attitude, the behaviour, or rationalising the gap. |
-| ⚠️ **Attitude vs value vs belief** | Value = general, enduring, cross-situational standard (e.g., honesty); attitude = evaluative stance toward one specific object (e.g., "I dislike this particular policy"); belief = a single factual/causal claim a person holds true. |
+| ⚠️ **Attitude vs value vs belief vs aptitude** | Value = general, enduring, cross-situational standard (e.g., honesty); attitude = evaluative stance toward one specific object (e.g., "I dislike this particular policy"); belief = a single factual/causal claim a person holds true; aptitude = the trainable capacity to perform a role or task well (see `04`). |
 
 ## 3. How attitudes form and change (mechanism)
 
 1. Attitudes form through **direct experience, social learning (family/peers/media), and
    reinforcement** — repeated positive/negative outcomes attach evaluative charge to an object.
-2. **Persuasion** changes attitude via four classical levers (Hovland-Yale model): the
-   *communicator's* credibility, the *message's* content/framing, the *channel* used, and the
-   *audience's* predispositions.
+2. **Persuasion** changes attitude via the classical Hovland-Yale ("Yale attitude change") levers:
+   the *communicator's* credibility and expertise, the *message's* content/framing, and the
+   *audience's* predispositions — with the *channel/medium* added by later communication research.
 3. **Cognitive dissonance** is a powerful internal driver of attitude change: when behaviour and
    attitude conflict (e.g., a civil servant who values transparency is asked to withhold routine
    information), the discomfort pushes either attitude change, behaviour change, or self-justifying
@@ -80,10 +80,13 @@ model) — and is distinct from **value** (broad, enduring, cross-situational) a
 - ✅ The ABC model of attitude (cognitive, affective, behavioural) is associated with Rosenberg and
   Hovland.
 - ✅ Cognitive dissonance theory was proposed by Leon Festinger (1957).
-- ✅ The Hovland-Yale persuasion model identifies source, message, channel and audience as the four
-  key persuasion variables.
-- ⚠️ Attitude is specific-object-directed; value is general and cross-situational — a frequently
-  tested distinction.
+- ✅ The Hovland-Yale ("Yale attitude change") approach identifies the **communicator/source**, the
+  **message** and the **audience/recipient** as the core persuasion variables; the *channel/medium*
+  is a standard addition from wider communication research (Lasswell's formula), not part of the
+  original Yale triad.
+- ⚠️ Attitude is specific-object-directed; value is general and cross-situational; **aptitude** is
+  neither — it is the capacity/disposition to perform a role well (see `04`). Keeping the three
+  apart is a frequently tested distinction.
 
 ## 6. UPSC traps
 

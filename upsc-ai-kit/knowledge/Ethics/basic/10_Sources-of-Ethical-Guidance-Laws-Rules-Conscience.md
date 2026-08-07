@@ -3,9 +3,10 @@
 > **Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV.
 > **Core area:** Sources of ethical guidance — laws, rules, regulations and conscience — and their
 > relative authority and interaction (official UPSC GS-IV syllabus item).
-> **Grounded in:** 2nd ARC 4th Report *Ethics in Governance* (2007) — Senator Fulbright's "Need for
-> Ethical Code" box (para 2.2.5) on the law/morality gap; official UPSC GS-IV syllabus; audited
-> GS-IV PYQs (2024-2025 Mains, constitutional morality question).
+> **Grounded in:** 2nd ARC, 4th Report *Ethics in Governance* (2007) — **Box 2.3, "Need for Ethical
+> Code"** (printed alongside para 2.2.5 and sourced by the ARC to the US Senate Ethics Manual,
+> 2003), quoting Senator Fulbright on the law/morality gap; official UPSC GS-IV syllabus; audited
+> GS-IV PYQs (2016 and 2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md`.*
 
@@ -30,10 +31,11 @@ Constitution/constitutional        -- outermost, foundational; "constitutional
 morality                             morality" binds even where ordinary law is silent
 ```
 
-**Core proposition:** ✅ ARC 2.2.5 (quoting US Senator Fulbright) — "morality has become identical
-with legality" for many; but "we are certainly in a tragic plight if the accepted standard by which
-we measure the integrity of a man in public life is that he keep within the letter of the law" —
-law is a necessary floor, not a sufficient ethical ceiling.
+**Core proposition:** ✅ ARC **Box 2.3** (quoting US Senator Fulbright, sourced to the Senate Ethics
+Manual, 2003) — "morality has become identical with legality" for many influential people; but "we
+are certainly in a tragic plight if the accepted standard by which we measure the integrity of a man
+in public life is that he keep within the letter of the law" — law is a necessary floor, not a
+sufficient ethical ceiling.
 
 ## 2. Essential definitions
 
@@ -57,9 +59,9 @@ law is a necessary floor, not a sufficient ethical ceiling.
 5. **Constitutional morality** operates as the outermost, foundational commitment — it can require
    an official to act *against* an unjust ordinary rule or majoritarian preference, in fidelity to
    constitutional values, when the two conflict.
-6. ✅ Fulbright's warning (ARC 2.2.5) captures the risk at the narrowest end: an official who
-   "accepts favours... under the guise of friendship" which "offend the spirit of the law but do
-   not violate its letter" has satisfied legality while failing ethics/conscience.
+6. ✅ Fulbright's warning (ARC Box 2.3) captures the risk at the narrowest end: an official who
+   "under the guise of friendship, accept[s] favors, which offend the spirit of the law but do not
+   violate its letter" has satisfied legality while failing ethics and propriety.
 
 ## 4. Indian applications and examples
 
@@ -75,12 +77,14 @@ law is a necessary floor, not a sufficient ethical ceiling.
 
 ## 5. Must-Know Facts for Prelims
 
-- ✅ ARC 2.2.5 cites US Senator Fulbright's Senate Ethics Manual (2003) warning against equating
-  morality with mere legality.
+- ✅ ARC **Box 2.3** cites US Senator Fulbright, sourced to the Senate Ethics Manual (2003), warning
+  against equating morality with mere legality.
 - ✅ Constitutional morality (2025 GS-IV Q1(b)) is explicitly described as a product of "civil
-  education and adherence to the rule of law," not an automatic or natural sentiment.
+  education and adherence to the rule of law", not an automatic or natural sentiment.
 - ⚠️ The standard hierarchy taught for GS-IV: conscience -> professional/social codes -> codes of
   conduct/service rules -> statutory law -> constitutional morality (outermost, foundational).
+- ⚠️ Legality, morality and propriety are three separate tests (see `01`); the Fulbright passage is
+  the classic statement of the gap between the first and the last two.
 
 ## 6. UPSC traps
 
@@ -95,11 +99,10 @@ law is a necessary floor, not a sufficient ethical ceiling.
 
 ## 7. PYQ application
 
-- ✅ **2015 GS-IV:** "Law and ethics are considered to be the two tools for
-  controlling human conduct so as to make it conducive to civilized social
-  existence. (a) Discuss how they achieve this objective. (b) Giving examples,
-  show how the two differ in their approaches." — compare source, enforcement,
-  minimum standard and examples rather than treating law and ethics as
+- ✅ **2016 GS-IV Q5:** "Law and ethics are considered to be the two tools for controlling human
+  conduct so as to make it conducive to civilized social existence. (a) Discuss how they achieve
+  this objective. (b) Giving examples, show how the two differ in their approaches." — compare
+  source, enforcement, minimum standard and examples rather than treating law and ethics as
   interchangeable.
 - ✅ 2025 GS-IV Q1(b): constitutional morality's role in promoting good governance and accountability
   — a direct test of this topic's outermost source of guidance.
@@ -121,7 +124,8 @@ law is a necessary floor, not a sufficient ethical ceiling.
 
 ## 9. Probable questions
 
-- ⚠️ **Prelims:** What did Senator Fulbright warn against, as cited in the 2nd ARC's 4th Report?
+- ⚠️ **Prelims:** What did Senator Fulbright warn against, as cited in Box 2.3 of the 2nd ARC's
+  4th Report?
 - ⚠️ **Mains (10 marks):** "Morality has become identical with legality" — critically examine this
   observation with reference to Indian public administration.
 - ⚠️ **Mains (15 marks):** Explain constitutional morality's role in guiding a civil servant when

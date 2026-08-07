@@ -14,19 +14,26 @@
 
 ```text
 ARC's 2007 LOK PAL PROPOSAL              LOKPAL AND LOKAYUKTAS ACT, 2013 (ENACTED)
-3-member body:                             Chairperson + up to 8 members (mix of
- - Chairman: serving/retired SC judge       judicial and non-judicial), with
- - 1 eminent jurist                         mandated SC/ST/OBC/women/minority
- - CVC (ex-officio)                         representation
-Jurisdiction: Ministers + MPs only         Jurisdiction: PM (qualified/limited),
- (explicitly excludes formal PM             Ministers, MPs, all central govt
- enquiry — Parliament remains the           officials (Groups A-D), heads/officers
- PM's check)                                of govt-linked bodies, NGOs receiving
-                                             >Rs 10 lakh public/foreign funding
+3-member body:                             Chairperson + not more than 8 Members
+ - Chairman: serving/retired SC judge       (>=50% judicial; >=50% from SC/ST/OBC,
+ - 1 eminent jurist                          minorities and women)
+ - CVC (ex-officio)
+Jurisdiction: Ministers + MPs only         Jurisdiction: PM (barred only for
+ (explicitly excludes formal PM             international relations, external and
+ enquiry — Parliament remains the           internal security, public order, atomic
+ PM's check)                                energy and space; 2/3 of Members must
+                                             approve; in camera), Ministers, MPs, all
+                                             central govt officials (Groups A-D), heads
+                                             of govt-linked bodies, FCRA-funded bodies
+                                             above Rs 10 lakh/year, and government-
+                                             financed bodies above a notified amount
 Organic link to CVC: CVC works             CVC/CBI continue to operate under
  under Lok Pal's "overall guidance          their own statutes; Lokpal has powers
  and superintendence" while retaining       to direct/supervise CBI investigation
  functional autonomy                        in referred cases and its own inquiry wing
+                                            States to set up Lokayuktas within one
+                                            year of commencement (s.63), without a
+                                            prescribed uniform model
 ```
 
 **Analytical claim:** The gap between the ARC's lean, judiciary-anchored 2007 proposal and the
@@ -40,9 +47,9 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
 | Concept | Precise meaning |
 |---|---|
 | ✅ **ARC's Prime-Minister-jurisdiction argument, precisely stated** | ARC 4.3.6-4.3.9 argues the Westminster-model Prime Minister, while formally "first among equals," has *practically* become the government's leader whose Parliamentary-confidence-based survival underpins the entire government's stability — subjecting the PM to formal Lok Pal enquiry (even on ultimately baseless charges) would itself, per the ARC, cripple governance during the enquiry period, an institutional-continuity harm distinct from any claim of legal immunity. |
-| 📰 **The 2013 Act's actual (qualified) PM jurisdiction** | Unlike the ARC's blanket exclusion, the enacted Lokpal and Lokayuktas Act, 2013 brings the Prime Minister within Lokpal jurisdiction subject to specific safeguards/exclusions (e.g., matters of international relations, external/internal security, public order, atomic energy and space, and a special majority/procedural threshold for initiating inquiry) — a compromise position between full exemption and unqualified inclusion. 📰 Verify the exact current safeguard provisions independently before citing precise statutory language. |
-| ⚠️ **Judicial-anchoring vs broad-representation institutional design** | ARC's judiciary-heavy 3-member design privileged perceived independence/legal rigor; the 2013 Act's larger, socially representative composition (SC/ST/OBC/women/minority mandated seats) privileges legitimacy and inclusiveness — a genuine institutional-design trade-off between specialised independence and broad-based representative legitimacy. |
-| ⚠️ **NGO/substantially-funded-body jurisdiction** | ARC 3.3 (cross-referenced from the legal-framework chapter) had recommended extending PC Act-type coverage to substantially government-funded NGOs (>50% of annual operating cost or ≥Rs 1 crore in the preceding 3 years); the 2013 Lokpal Act's NGO-jurisdiction threshold (funding above a specified amount, verify current exact figure) reflects a related but not identical policy lineage. |
+| 📰 **The 2013 Act's actual (qualified) PM jurisdiction** | Unlike the ARC's blanket exclusion, the enacted Act brings the Prime Minister within Lokpal jurisdiction but bars any inquiry into allegations relating to "international relations, external and internal security, public order, atomic energy and space"; an inquiry may be initiated only if the full bench considers it and **at least two-thirds of the Members** approve, the proceedings are held **in camera**, and if the complaint is dismissed the records are neither published nor made available to anyone. |
+| ⚠️ **Judicial-anchoring vs broad-representation institutional design** | ARC's judiciary-heavy 3-member design privileged perceived independence/legal rigor; the 2013 Act's larger composition — at least 50% judicial Members, and at least 50% from SC/ST/OBC, minorities and women — privileges legitimacy and inclusiveness: a genuine institutional-design trade-off between specialised independence and broad-based representative legitimacy. |
+| ⚠️ **NGO/substantially-funded-body jurisdiction** | ARC 3.3 had recommended extending PC Act-type coverage to substantially government-funded NGOs (>50% of annual operating cost or ≥₹1 crore in the preceding 3 years). The 2013 Act's own thresholds differ and must be stated precisely: **Section 14(1)(g)** covers bodies/associations receiving foreign contribution under the FCRA, 2010 "in excess of ten lakh rupees in a year"; **Section 14(1)(h)** covers bodies wholly or partly financed by government whose annual income exceeds "such amount as the Central Government may, by notification, specify". |
 
 ## 3. Detailed treatment
 
@@ -92,10 +99,11 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
   models across states) remains a substantially valid structural description even after the 2013
   Lokpal Act, since that Act primarily addresses the *central* government level and high-level
   functionaries, leaving state-level institutional heterogeneity largely unresolved.
-- ⚠️ Advanced point: a comprehensive institutional-coherence reform would need to standardise
-  State Lokayukta design (composition, jurisdiction, independence safeguards) alongside the central
-  Lokpal — a gap the 2013 Act only partially addresses by mandating states establish a Lokayukta
-  within a specified period, without prescribing a uniform structural model.
+- ⚠️ Advanced point: Section 63 of the 2013 Act required every State to establish a Lokayukta within
+  one year of commencement — i.e. by 16 January 2015 — but prescribed **no uniform structural
+  model**, so composition, jurisdiction and independence safeguards still vary widely. A
+  comprehensive institutional-coherence reform would need to standardise State Lokayukta design
+  alongside the central Lokpal.
 
 ## 4. Institutional and reform architecture
 
@@ -132,9 +140,12 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
 
 - ✅ ARC's 2007 Lok Pal proposal was a lean, 3-member, judiciary-anchored body limited to Ministers
   and MPs, explicitly excluding formal PM enquiry in favour of Parliamentary accountability.
-- 📰 The Lokpal and Lokayuktas Act, 2013 established a larger, more broadly jurisdictioned body
-  (Chairperson + up to 8 members, mandated social-representation seats) covering the PM (with
-  qualified exclusions), Ministers, MPs, and all central government officials.
+- 📰 The Lokpal and Lokayuktas Act, 2013 (assent 1 January 2014; in force 16 January 2014)
+  established a Chairperson plus not more than eight Members, at least half judicial and at least
+  half from SC/ST/OBC, minorities and women, covering the PM (with the five subject-matter
+  exclusions and a two-thirds-of-Members threshold), Ministers, MPs and all central government
+  officials. The first Chairperson was appointed on 19 March 2019; Justice A.M. Khanwilkar has been
+  Chairperson since 10 March 2024.
 - ✅ ARC 4.2.5's "multiplicity of institutions with overlapping functions" critique specifically
   targeted the lack of coordination between CVC, departmental vigilance, CBI (Union level) and the
   varying Lokayukta/Vigilance-Commission/Anti-Corruption-Bureau models (State level).
@@ -155,7 +166,7 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
 
 | Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| ⚠️ Lokpal's enacted composition and current officeholders | Anchor comparison with the ARC's 2007 design, but verify the officeholder and vacancies from Lokpal's official site on the date of use. |
+| 📰 Lokpal's enacted composition and current officeholders (Chairperson Justice A.M. Khanwilkar since 10 March 2024; first Chairperson appointed 19 March 2019) | Anchor comparison with the ARC's 2007 design, and illustrate the enactment-versus-operation gap; verify the officeholder and vacancies from lokpal.gov.in on the date of use. |
 
 ## 10. PYQ-based analytical application
 

@@ -21,12 +21,42 @@ resolve it, rather than dismissing it or leaving it hanging.
 
 ## 2. Core terms in plain language
 
-- **Counter-view:** the strongest reasonable objection to your thesis,
-  stated fairly, not a weak "straw man" version easy to knock down.
+- **Counter-view (counterargument):** the strongest reasonable objection
+  to your thesis, stated fairly and at full strength, not a weak
+  "straw man" version easy to knock down. It is a *position*, and in a
+  good essay it is stated as its own advocate would state it.
+- **Rebuttal:** your specific answer to that objection — showing it rests
+  on a false premise, applies only under conditions that do not hold here,
+  or has been over-generalised. A rebuttal is a *move*, and it can succeed
+  without the objection disappearing.
+- **Synthesis:** a resolution that specifies the condition under which
+  each side governs, incorporating what is valid in the counter-view while
+  still defending a version of the original thesis. A synthesis is an
+  *outcome*, and it is not the same as splitting the difference.
 - **Trade-off:** a genuine cost or limitation your thesis must
   acknowledge, not explain away.
-- **Synthesis:** a resolution that incorporates what is valid in the
-  counter-view while still defending a version of the original thesis.
+
+⚠️ **The three are not interchangeable, and the order matters.**
+
+```text
+COUNTERARGUMENT   "Some errors are irreversible and catastrophic."
+        |          (stated at full strength; not yet answered)
+        v
+REBUTTAL          "That is true of a narrow class of decisions -
+        |          irreversibility, not error itself, is the danger."
+        v
+SYNTHESIS         "So: prefer experimentation where error is reversible
+                   and safeguarded; apply precaution where it is not."
+```
+
+❌ Three common collapses: stating a counterargument and calling it
+balance (no rebuttal); rebutting without synthesising (the objection is
+defeated but nothing is learned); and presenting a synthesis with no
+counterargument behind it (a resolution to a conflict never actually
+staged). ⚠️ A rebuttal that fully destroys the objection usually signals
+the objection was too weak — the best counterarguments survive rebuttal in
+some bounded form, which is precisely what gives the synthesis something
+to resolve.
 
 ## 3. ✅ Exam facts / source basis
 

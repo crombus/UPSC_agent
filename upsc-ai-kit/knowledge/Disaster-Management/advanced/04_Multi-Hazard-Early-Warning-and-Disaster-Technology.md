@@ -135,10 +135,15 @@ stages, not detection alone.
   analysis.
 - ⚠️ **Interoperability across agencies** (IMD, INCOIS, GSI, CWC, ISRO)
   is implied by the multi-agency architecture (Section 3) but not
-  detailed by VisionIAS as a single integrated system; an advanced
-  answer can flag potential coordination friction across agencies with
-  different hazard mandates as a governance question requiring current
-  verification, not an assumed solved problem.
+  detailed by VisionIAS as a single integrated system; 📰 the **Common
+  Alerting Protocol** underlying SACHET is precisely the standard
+  designed to solve this — a single structured alert authored once by the
+  competent hazard agency and rendered across every channel. An advanced
+  answer should note that CAP solves *format* interoperability, not
+  *mandate* interoperability: which agency owns a compound event
+  (a cyclone that becomes an urban flood that becomes a dam-safety
+  question) remains an institutional question CAP cannot answer, and one
+  requiring current verification rather than an assumed solved problem.
 
 ## 9. Financing/monitoring/accountability
 
@@ -153,13 +158,30 @@ stages, not detection alone.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **NDMA's SACHET portal** and **IMD's impact-based warning/cyclone/
-  heat-wave services**, active as of 18 July 2026, are the correct
-  current anchors for multi-channel dissemination architecture and
-  impact-based-forecast rollout.
+- 📰 **NDMA's SACHET/CAP Integrated Alert System** and the **Cell
+  Broadcast System** (nationwide launch and test **2 May 2026**,
+  C-DOT/DoT with NDMA/MHA) are the correct current anchors for
+  multi-channel dissemination architecture; **IMD's impact-based
+  warning/cyclone/heat-wave services** for impact-based-forecast rollout.
+- ⚠️ **Cell broadcast is the strongest available answer to the
+  authority-centralisation trade-off in Section 2, not a repeal of it.**
+  It removes the *technical* bottleneck (SMS queuing, per-subscriber
+  delivery, roaming exclusion) while leaving the *institutional*
+  bottleneck intact: someone still has to decide to press send, and the
+  decision rule — who authorises, on what threshold, with what liability
+  for a false alarm — is not a technology question. An advanced answer
+  should say precisely this rather than treating the 2026 rollout as
+  having solved the last mile.
+- 📰 **Early Warnings for All** (target **2027**; pillars led by UNDRR,
+  WMO, ITU and IFRC) is the correct benchmark against which to assess
+  India's warning chain, because its four pillars map exactly onto the
+  four stages in Section 2 — making it possible to say *which pillar*
+  India is strongest and weakest on rather than asserting general
+  progress.
 - ❌ Do not present VisionIAS's Phailin-era or document-period technology
-  descriptions (mobile app, DSS) as a complete account of India's
-  current warning architecture without this verification.
+  descriptions ("India Quake," DSS) as a complete account of India's
+  current warning architecture; NCS/MoES currently identifies
+  **BhooKamp** as its earthquake app.
 
 ## 11. PYQ-based analytical application
 

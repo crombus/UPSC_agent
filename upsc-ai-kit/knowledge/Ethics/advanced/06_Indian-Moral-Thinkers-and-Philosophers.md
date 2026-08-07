@@ -44,10 +44,11 @@ the other.
 
 ### Kautilya vs Gandhi — realism and idealism in tension
 
-- ✅ Kautilya assumes officials will be tempted "just as it is not possible not to taste honey or
-  poison placed on the surface of the tongue" (cited at the ARC Colloquium) — a psychologically
-  realist premise driving his emphasis on *external control mechanisms* (spies, audits, rotation,
-  reward).
+- ✅ Kautilya assumes officials will be tempted: "Just as it is not possible not to taste honey or
+  poison placed on the surface of the tongue, even so it is not possible for one dealing with the
+  money of the king not to taste the money in however small a quantity" (ARC Annexure-I(2), quoting
+  the *Arthashastra*; Kangle 2.9.32) — a psychologically realist premise driving his emphasis on
+  *external control mechanisms* (inspection, audit, reassignment, reward).
 - ⚠️ Gandhi's trusteeship and Satyagraha assume the *possibility* of moral transformation through
   example and self-purification — an idealist premise driving *internal, exemplar-based reform*.
 - ⚠️ Advanced synthesis: modern Indian anti-corruption architecture (see `19`-`21`) is, in practice,
@@ -67,10 +68,11 @@ the other.
 
 ### Guru Nanak — honest earning and equitable sharing as public-resource ethics
 
-- ⚠️ "Kirat Karo" (honest labour) directly opposes rent-seeking/corruption; "Vand Chakko" (sharing)
+- ⚠️ "Kirat Karo" (honest labour) directly opposes rent-seeking/corruption; "Vand Chhako" (sharing)
   supports progressive, equity-oriented allocation of public resources — together they form an
   ethic directly transferable to public-finance administration (see `18`), where honest revenue
-  collection (Kirat Karo analogue) must be paired with equitable expenditure (Vand Chakko analogue).
+  collection (Kirat Karo analogue) must be paired with equitable expenditure (Vand Chhako
+  analogue).
 
 ### Buddha's Middle Path as a decision-procedure, not just a virtue
 
@@ -115,12 +117,15 @@ the other.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ Kautilya's Arthashastra explicitly links rewarding honest officials with permanence in office to
-  incentivising integrity — an early instance of positive (not only punitive) incentive design.
+- ✅ Kautilya's *Arthashastra* pairs punishment with positive incentive: those who "do not consume
+  (the king's) goods and increase them in just ways, should be made permanent in their offices" —
+  an early instance of positive, not only punitive, incentive design (ARC Annexure-I(2)).
 - ✅ Vivekananda's "Daridra Narayana" concept collapses the distinction between service to the
   deprived and worship of the divine within a Practical Vedanta framework.
-- ✅ Basava's Anubhava Mantapa (12th century) is among the earliest recorded participatory,
-  caste-blind assemblies in Indian intellectual history.
+- ✅ Basava (12th century) is associated with the **Anubhava Mantapa**, a tradition-attested assembly
+  of Lingayat *sharanas* open across caste and gender. ⚠️ Treat it as a tradition-attested
+  association rather than a securely dated founded institution, and avoid the popular "first
+  parliament of the world" formulation.
 
 ## 8. Advanced Prelims traps
 

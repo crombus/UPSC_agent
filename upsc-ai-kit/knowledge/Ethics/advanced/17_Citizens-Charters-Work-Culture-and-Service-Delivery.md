@@ -73,9 +73,12 @@ a punitive one.
 
 ### E-Seva and single-window design — structural, not merely cultural, correction
 
-- ✅ ARC 6.3.3's E-Seva account: roughly 13 state/local, 3 central government and 9 private-sector
-  organisations' services integrated under one roof — this structural consolidation reduces the
-  citizen's need to navigate multiple discretionary counters, each a potential corruption point.
+- ✅ ARC 6.3.3's E-Seva account: some 13 state and local government, three central government and
+  nine private-sector organisations' services integrated under one roof — this structural
+  consolidation reduces the citizen's need to navigate multiple discretionary counters, each a
+  potential corruption point. ARC 6.3.3 also cites Canada's single-window giving all approvals in
+  two days, and stresses that the model requires "not merely a single window but also fully
+  automated back up of all related offices."
 - ⚠️ Advanced point: single-window design succeeds specifically because it *removes* discretion
   points rather than merely asking officials to behave better at each point — a systemic-reform
   logic consistent with the ARC's broader "reduce discretion, increase transparency" diagnosis (`01`).
@@ -98,6 +101,13 @@ a punitive one.
   responsible officer per service line; (3) an explicit compensation/remedy clause; (4) periodic,
   independent citizen-satisfaction survey (ARC 5.1.8's professional-agency feedback model) feeding
   back into charter revision.
+- 📰 The domestic institutional vehicle is DARPG's **Sevottam** framework (designed 2006), whose
+  three modules — Citizens' Charter, public grievance redress, and service-delivery capability —
+  encode exactly the "charter alone is insufficient" insight. ⚠️ The *Right of Citizens for Time
+  Bound Delivery of Goods and Services and Redressal of their Grievances Bill, 2011* (introduced
+  20 December 2011) lapsed, so the national framework remains administrative rather than statutory;
+  several States have their own Right to Service Acts. A strong reform answer proposes reviving a
+  statutory entitlement with a defined remedy, rather than merely "strengthening charters".
 - ⚠️ Work-culture reform requires pairing charter/IT interventions with performance-appraisal
   realignment (rewarding responsiveness, not just rule-compliance) and visible senior-leadership
   modelling of citizen-centric behaviour, consistent with Nolan's "leadership" principle (`09`).
@@ -128,10 +138,13 @@ a punitive one.
 
 - ✅ ARC's Citizens' Charter recommendation specifically calls for "a few promises which can be kept
   rather than a long list of lofty declarations which are impractical."
-- ✅ Andhra Pradesh's E-Seva integrated services from roughly 13 state/local, 3 central and 9
-  private-sector organisations under one roof (ARC 6.3.3).
+- ✅ Andhra Pradesh's E-Seva integrated services from some 13 state and local government, three
+  central government and nine private-sector organisations under one roof (ARC 6.3.3).
 - ✅ The ARC itself flags a specific risk of "positive silence"/deemed-sanction rules: back-end
-  harassment by inspectors seeking to extract a bribe after deemed approval.
+  harassment by the building inspector "who is sure to find violation of bylaws for possible
+  extraction of a bribe" after deemed approval.
+- 📰 DARPG designed the Sevottam framework in 2006 (Citizens' Charter + grievance redress + service
+  delivery capability); the 2011 time-bound-service-delivery Bill lapsed without enactment.
 
 ## 8. Advanced Prelims traps
 

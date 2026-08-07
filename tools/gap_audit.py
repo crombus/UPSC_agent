@@ -23,8 +23,21 @@ KNOW = ROOT / "upsc-ai-kit" / "knowledge"
 BOOKS = ROOT / "books"
 
 # PYQ PDF sources per subject (English GS papers where the subject is examined).
+# The 2018-2023 entries are the directly held, OCR-searchable official papers.
 SUBJECT_PYQ = {
     "Geography": [
+        "more_previous_papers/GENERAL-STUDIES-PAPER-I.pdf",
+        "more_previous_papers/QP-CSM19-GeneralStudies-I.pdf",
+        "more_previous_papers/Gen_St_P1.pdf",
+        "more_previous_papers/QP-CSM-21-GENSTUDIESPAPER-I-110122.pdf",
+        "more_previous_papers/QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf",
+        "more_previous_papers/QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf",
+        "more_previous_papers/QP-CSP-18-GS-I-C.pdf",
+        "more_previous_papers/csp-p1.pdf",
+        "more_previous_papers/CSP_2020_GS_Paper-1.pdf",
+        "more_previous_papers/QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+        "more_previous_papers/GENERAL STUDIES PAPER I.pdf",
+        "more_previous_papers/QP_CS_Pre_Exam_2023_280523.pdf",
         "mains/UPSC Mains 2024 GS Paper I.pdf",
         "mains/UPSC Mains 2025 GS Paper 1.pdf",
         "prelima_question_paper_answers/2024-GS1-Set A.pdf",
@@ -32,6 +45,18 @@ SUBJECT_PYQ = {
         "prelima_question_paper_answers/2026-GS1-Set A.pdf",
     ],
     "Polity": [
+        "more_previous_papers/GENERAL-STUDIES-PAPER-II.pdf",
+        "more_previous_papers/QP-CSM19-GeneralStudies-II.pdf",
+        "more_previous_papers/Gen_St_P2.pdf",
+        "more_previous_papers/QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+        "more_previous_papers/QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+        "more_previous_papers/QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+        "more_previous_papers/QP-CSP-18-GS-I-C.pdf",
+        "more_previous_papers/csp-p1.pdf",
+        "more_previous_papers/CSP_2020_GS_Paper-1.pdf",
+        "more_previous_papers/QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+        "more_previous_papers/GENERAL STUDIES PAPER I.pdf",
+        "more_previous_papers/QP_CS_Pre_Exam_2023_280523.pdf",
         "mains/02 UPSC 2024 Paper-II.pdf",
         "mains/UPSC Mains 2025 GS Paper 2.pdf",
         "prelima_question_paper_answers/2024-GS1-Set A.pdf",

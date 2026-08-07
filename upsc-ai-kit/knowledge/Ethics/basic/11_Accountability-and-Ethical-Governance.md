@@ -3,9 +3,9 @@
 > **Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV.
 > **Core area:** Accountability in governance; accountability vs responsibility; the ethics-specific
 > reading of India's accountability architecture (CVC, CBI, Lokpal/Lokayukta, CAG, judiciary).
-> **Grounded in:** 2nd ARC 4th Report *Ethics in Governance* (2007), Ch.4 Institutional Framework and
-> the ARC's National Colloquium annexures (control-systems discussion); official UPSC GS-IV syllabus;
-> audited GS-IV PYQs (2024-2025 Mains, accountability/leakages question).
+> **Grounded in:** 2nd ARC, 4th Report *Ethics in Governance* (2007), Ch.4 Institutional Framework
+> and the ARC's National Colloquium annexures (control-systems discussion); official UPSC GS-IV
+> syllabus; audited GS-IV PYQs (2024-2025 Mains, accountability/leakages question).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/11_Accountability-and-Ethical-Governance.md`.*
 
@@ -81,6 +81,10 @@ court, CVC/Lokpal, public via RTI).
   (CAG/judiciary) and social (civil society/media/RTI).
 - ✅ The Fifth Pay Commission recommended that audit "should try to be as concurrent as possible" to
   reduce the time-lag between an act of corruption and its exposure.
+- ✅ The Central Vigilance Commission was set up by executive resolution in **1964** on the Santhanam
+  Committee's recommendation and given statutory status by the Central Vigilance Commission Act,
+  2003 (assent 11 September 2003), following *Vineet Narain v. Union of India*, (1998) 1 SCC 226,
+  decided on **18 December 1997**.
 - ⚠️ Accountability (answerability to a forum, after the fact) is conceptually distinct from
   responsibility (the duty itself, prospectively assigned) — a standard, frequently tested distinction.
 

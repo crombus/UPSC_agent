@@ -168,10 +168,23 @@ coordination, action/support) and their practical delivery.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **UNDRR's Sendai Framework Midterm Review (2023)** is the correct
-  current anchor for climate-disaster-risk trend claims generally; use
-  **UNFCCC's official COP decisions** for any specific Loss and Damage
-  Fund or finance-figure claim.
+- 📰 **UNDRR's Sendai Framework Midterm Review (High-Level Meeting,
+  17-19 May 2023; Political Declaration issued as UNGA resolution
+  77/289)** is the correct current anchor for climate-disaster-risk trend
+  claims generally; use **UNFCCC's official COP decisions** for any
+  specific Loss and Damage Fund or finance-figure claim.
+- ⚠️ **Ecosystem-based DRR is where the adaptation and DRR agendas
+  actually merge, and it is also where the accounting is weakest.** A
+  mangrove belt or restored wetland delivers hazard buffering,
+  carbon storage and livelihoods at once — but that same multiplicity
+  means it is funded, and evaluated, under whichever head happens to
+  claim it. 📰 India's ₹692.05 crore NDMF approval for **Assam wetland
+  restoration** (MHA, 11 February 2026) is significant precisely because
+  it books ecosystem restoration as **disaster mitigation**, giving the
+  intervention a risk-reduction test rather than only an ecological one.
+  ⚠️ The corresponding risk an advanced answer should name: without an
+  agreed method for valuing avoided losses, Eco-DRR competes badly
+  against engineered assets, whose outputs are easier to count.
 - ❌ Do not present VisionIAS's Warsaw Mechanism/Suva Dialogue
   description as reflecting the current (materially expanded) loss-and-
   damage finance architecture without this verification.

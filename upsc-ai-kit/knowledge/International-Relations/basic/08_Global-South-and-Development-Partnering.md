@@ -36,7 +36,9 @@ access, institutional representation
              |
              v
 INSTRUMENT: VOICE OF GLOBAL SOUTH SUMMIT
-(third edition, 17 August 2024)
+(three virtual editions: Jan 2023, Nov 2023,
+17 Aug 2024) + Global Development Compact
+(proposed at the third edition)
              |
              v
 OUTCOME: AGENDA-SETTING AND SOLIDARITY
@@ -57,7 +59,8 @@ bloc or substituting for the distinct memberships of G77, NAM or BRICS.
 | ✅ **G77** | ✅ Tharoor describes the G77 as "the massive gathering of over 120 developing countries" — a specific, long-standing negotiating coalition within the UN system, distinct from but overlapping with the broader "Global South" category. |
 | ⚠️ **South-South cooperation** | Development cooperation among developing countries themselves (technology transfer, capacity building, trade), positioned as a complement to, not a replacement for, North-South development assistance. |
 | ✅ **India as a potential leader for weaker states** | ✅ Sikri: "For countries that may be too weak to follow autonomous policies but remain ready to rally behind a stronger country that can be an independent global player, India has become a potential leader" — framing India's aspirational role within the Global South. |
-| ✅ **Voice of Global South Summit** | An India-convened platform aggregating developing-country priorities and concerns ahead of major multilateral events; the third edition was held 17 August 2024. |
+| ✅ **Voice of Global South Summit (VoGSS)** | An India-convened virtual platform aggregating developing-country priorities and concerns ahead of, and after, major multilateral events: 📰 first edition 12-13 January 2023; second 17 November 2023; third 17 August 2024. ⚠️ No fourth edition had been officially recorded as held or announced as of 3 August 2026. |
+| 📰 **Global Development Compact** | ✅ Proposed by India at the third VoGSS (17 August 2024) as a **four-fold** framework: trade for development; capacity building for sustainable growth; technology sharing; and project-specific concessional finance and grants. ⚠️ A proposal announced at a summit — not an operational institution with its own secretariat or budget. |
 | ⚠️ **Representation deficit** | The Global South's argument that existing multilateral institutions (UNSC, IMF/World Bank governance) under-represent developing countries relative to their population and economic weight — the core grievance driving Global South coalition-building (full institutional-reform treatment in topic 12). |
 
 ## 3. How the Global South mechanism works
@@ -87,9 +90,26 @@ bloc or substituting for the distinct memberships of G77, NAM or BRICS.
 - ⚠️ **NAM:** historically linked to Global South solidarity, though its
   contemporary institutional salience has narrowed (cross-link to topic 01's
   treatment of non-alignment's evolution).
-- 📰 **Voice of Global South Summit (third edition, 17 August 2024):**
-  India's dedicated convening platform — the anchor current instrument for this
-  topic.
+- 📰 **Voice of Global South Summit (first 12-13 January 2023; second 17
+  November 2023; third 17 August 2024, all virtual):** India's dedicated
+  convening platform — the anchor current instrument for this topic. The
+  **Global Development Compact** was proposed at the third edition.
+- 📰 **African Union's permanent G20 membership (9 September 2023, New Delhi
+  Summit):** the single most concrete institutional-representation outcome
+  achieved during India's G20 presidency — ⚠️ a change in one forum's
+  membership, not a systemic reform of global governance.
+- 📰 **India's development-partnership footprint (MEA):** more than **260 Lines
+  of Credit**, valued above **USD 26 billion**, across roughly **62 countries**
+  worldwide. ⚠️ Extended/committed facilities, not disbursed amounts.
+- 📰 **India-initiated plurilateral platforms:** the **Coalition for Disaster
+  Resilient Infrastructure** had 70 members (58 countries and 12 partner
+  organisations) as of June 2026; the **Global Biofuels Alliance**, launched
+  9 September 2023, had 25 countries and 12 international organisations agreeing
+  to join as of 30 July 2026. ⚠️ These are membership counts, not evidence of
+  delivered projects.
+- 📰 **India's UNSC candidature for 2028-29 (launched 13 July 2026):** the
+  clearest current expression of the representation-deficit argument converted
+  into a specific institutional ask (topic 12 owns the reform architecture).
 - ⚠️ **BRICS:** a distinct grouping with its own membership and agenda, only
   partially overlapping with "Global South" — full institutional profile in
   topic 10; avoid treating BRICS as synonymous with the Global South.
@@ -103,18 +123,33 @@ bloc or substituting for the distinct memberships of G77, NAM or BRICS.
   alignment framework (topic 01) as the structuring devices for any Global
   South-themed question.
 - ⚠️ India's G20 presidency-era emphasis on African Union inclusion and Global
-  South priorities is a widely referenced example of translating summit
-  convening into institutional representation advocacy — cite only with
-  independently verified, dated specifics if elaborating further.
+  South priorities is the clearest example of translating summit convening into
+  institutional representation advocacy: 📰 the African Union became a permanent
+  G20 member at the New Delhi Summit on 9 September 2023.
 - ⚠️ Climate-finance and debt-relief advocacy at UN climate and financial fora
   illustrate the substantive issue agenda the Global South platform aggregates,
   though specific outcome claims require separate, dated verification.
+- 📰 India launched its candidature for a non-permanent UN Security Council seat
+  for **2028-29** on **13 July 2026** — the representation-deficit grievance
+  expressed as a concrete, dated institutional bid (topic 12).
 
 ## 6. Must-Know Facts for Prelims
 
 - ✅ G77 comprises over 120 developing countries within the UN system
   (Tharoor's figure).
-- 📰 The third Voice of Global South Summit was convened on 17 August 2024.
+- 📰 The Voice of Global South Summit has had three editions — 12-13 January
+  2023, 17 November 2023 and 17 August 2024 — all convened virtually by India;
+  no fourth edition was officially recorded as of 3 August 2026.
+- 📰 The Global Development Compact, proposed at the third VoGSS on 17 August
+  2024, is a four-fold framework: trade for development; capacity building for
+  sustainable growth; technology sharing; and project-specific concessional
+  finance and grants.
+- 📰 The African Union became a permanent member of the G20 on 9 September 2023
+  at the New Delhi Summit.
+- 📰 MEA records more than 260 Lines of Credit worth over USD 26 billion across
+  roughly 62 countries — commitments, not disbursements.
+- 📰 India launched its candidature for a UNSC non-permanent seat for 2028-29 on
+  13 July 2026.
 - ✅ Sikri frames India as a "potential leader" for weaker states seeking
   independent global positioning without their own capacity for fully
   autonomous foreign policy.
@@ -142,12 +177,21 @@ bloc or substituting for the distinct memberships of G77, NAM or BRICS.
 - ❌ South-South cooperation replaces the need for North-South development
   assistance. -> It is presented as a complement, not a substitute, within the
   broader development-partnership landscape.
+- ❌ The Global Development Compact is a functioning institution with its own
+  finance window. -> It was announced at the third VoGSS (17 August 2024) as a
+  four-fold framework proposal; treat it as an agenda item unless a dated
+  operational instrument is cited.
 
 ## 8. 📰 Current anchor
 
-- 📰 The **third Voice of Global South Summit (17 August 2024)** is the anchor
-  current instrument for this topic — cite it, dated, as the concrete example
-  of India's contemporary Global South convening role.
+- 📰 The **third Voice of Global South Summit (17 August 2024, virtual)** and the
+  **Global Development Compact** proposed there are the anchor current
+  instruments for this topic — cite them, dated, as the concrete example of
+  India's contemporary Global South convening role, and note that no fourth
+  edition had been officially recorded as of 3 August 2026.
+- 📰 For an outcome (rather than convening) example, cite the **African Union's
+  admission as a permanent G20 member on 9 September 2023**; for a live ask,
+  cite **India's UNSC candidature for 2028-29, launched 13 July 2026**.
 
 ## 9. PYQ application
 

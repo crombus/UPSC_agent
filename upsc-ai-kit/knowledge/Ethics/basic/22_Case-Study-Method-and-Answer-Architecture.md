@@ -14,10 +14,14 @@
 ## 1. Visual foundation — the six-step case-study architecture
 
 ```text
-STEP 1: FACTS & OPTIONS            STEP 2: STAKEHOLDERS & ISSUES
-Restate the dilemma in one           List every affected party (not just
-line; generate ALL realistic         the protagonist); name every value/
-options (not just two extremes)      duty/legal issue in play
+STEP 1: FACTS & OPTIONS            STEP 2: STAKEHOLDERS, ISSUES
+Restate the dilemma in one         & CONSTRAINTS
+line; generate ALL realistic         List every affected party (not just
+options (not just two extremes)      the protagonist); name every value/
+                                      duty/legal issue in play; and state
+                                      the HARD CONSTRAINTS that bound the
+                                      choice — legal, time, resource,
+                                      information, jurisdiction, capacity
 
 STEP 3: ETHICAL-FRAMEWORK           STEP 4: SIX-CHECK EVALUATION
 EVALUATION                            Conflict of interest | Legality |
@@ -31,6 +35,12 @@ State the chosen option and WHY       How will it be executed, communicated,
                                        monitored/mitigated going forward
 ```
 
+**Why constraints deserve their own step:** ⚠️ most weak case-study answers propose options the
+protagonist has no power, time, information or money to execute. Naming the binding constraint —
+"the file must be decided before the tender closes on Friday", "the DC cannot reach the Home
+Secretary because connectivity is down", "GFR delegation caps this officer at ₹30 lakh" — converts
+an essay into an administrative decision and rules out unrealistic options early.
+
 **Core proposition:** ⚠️ A high-scoring case-study answer is not a narrative essay but a
 **structured decision architecture** — options generated, stakeholders/issues mapped, evaluated
 against named ethical frameworks and a six-point check, decided with explicit reasoning, and
@@ -42,7 +52,8 @@ followed by a realistic implementation/mitigation plan.
 |---|---|
 | ⚠️ **Options generation** | Listing at least three realistic courses of action (not just "do it" vs "don't do it") — including hybrid/sequenced options that a sophisticated administrator would actually consider. |
 | ⚠️ **Stakeholder mapping** | Identifying every party affected by the decision, including indirect/silent stakeholders (future generations, absent parties, the institution's own long-term credibility). |
-| ✅ **Conflict of interest** | A situation where an official's personal interest (financial, family, reputational) could improperly influence their official duty — must be checked and, if present, resolved through disclosure/recusal (see `09`, `14`). |
+| ⚠️ **Constraint mapping** | Separately identifying what *bounds* the decision: legal and delegation limits (a GFR financial ceiling, a statutory timeline), informational limits (facts not yet verified, communications down), resource and capacity limits, and jurisdictional limits (what the protagonist can decide alone versus what must be referred). An option that violates a hard constraint is not an option; an option that merely strains a soft constraint should be costed, not silently ignored. |
+| ✅ **Conflict of interest** | A situation where an official's personal interest (financial, family, reputational) could improperly influence their official duty. ⚠️ It is not itself misconduct — the failure is proceeding without disclosure or recusal (see `09`, `14`). |
 | ✅ **Legality check** | Whether an option is actually lawful — a necessary threshold test before any further ethical weighing (see `09`'s ethical-dilemma-vs-legal-violation distinction). |
 | ⚠️ **Proportionality check** | Whether the scale/intensity of the proposed action matches the scale/severity of the problem — avoiding both under-reaction and over-reaction (the Buddhist Middle Path, `06`, applied procedurally). |
 
@@ -62,16 +73,21 @@ followed by a realistic implementation/mitigation plan.
    vulnerable ones, with dignity, and does it hold up when projected forward in time (not just in
    its immediate optics)?
 
-## 4. Mechanism: worked application to the 2025 GS-IV DC-Vijay case
+## 4. Mechanism: worked application to the 2025 GS-IV Q7 case (DC "Vijay")
 
-1. **Facts/options:** DC Vijay is leading disaster relief in a flood-hit hill district; his mother
-   dies during the crisis; his only close relative (an elder sister) lives abroad. Options: (a)
-   abandon post immediately for the funeral; (b) remain at post and skip the funeral entirely; (c)
-   delegate command to a competent deputy for a short, defined period, attend essential rites, and
-   return; (d) manage remotely via continuous communication while a deputy handles ground operations.
-2. **Stakeholders/issues:** disaster-affected citizens (right to continued, competent relief
-   leadership); DC's own family/filial duty and grief; institutional continuity of the relief
-   operation; DC's own long-term wellbeing (see `05`, emotional intelligence).
+1. **Facts/options:** Vijay, Deputy Commissioner of a remote hill district, is leading relief after
+   a cloudburst that has killed more than 200 people and injured about 5,000, with roads and
+   telecommunications disrupted; his mother dies in Kerala during the crisis; his only close
+   relative is an elder sister who is a US citizen living abroad; heavy rain resumes after a
+   five-day gap while family messages press him to come for the last rites. Options: (a) leave
+   immediately for the last rites; (b) remain at post and forgo them entirely; (c) delegate command
+   to a competent deputy for a short, defined period, attend the essential rites, and return;
+   (d) manage remotely via continuous communication while a deputy handles ground operations.
+2. **Stakeholders, issues and constraints:** disaster-affected citizens (right to continued,
+   competent relief leadership); Vijay's own family duty and grief; institutional continuity of the
+   relief operation; his own long-term wellbeing (see `05`). Constraints: rain has resumed and
+   communications are disrupted, so travel is itself uncertain; there is no other close relative in
+   India to perform the rites; and any absence must be authorised and recorded, not improvised.
 3. **Framework evaluation:** deontology (duty to citizens is a role-specific, non-negotiable public
    obligation, but filial duty is also a recognised value — not dismissible); consequentialism
    (a short, well-delegated absence causes minimal relief disruption if a competent deputy is
@@ -91,18 +107,31 @@ followed by a realistic implementation/mitigation plan.
 
 ## 5. Indian applications and examples
 
-- ✅ 2024 GS-IV Case Study Q1 (tech company AI/data-centre emissions, see `12`, `13`) is best solved
+- ✅ 2024 GS-IV Q7 (Section B case study: tech company AI/data-centre emissions, see `12`, `13`) is best solved
   using the same six-step architecture: options (continue as-is; halt AI expansion; invest in
   verifiable renewable transition) evaluated against the six checks, yielding a decision for
   time-bound, audited renewable investment alongside continued innovation.
+- ⚠️ The other 2024 Section B cases are worth practising against this architecture too: Q8 (DG Police
+  countering online radicalisation of unemployed youth), Q9 (SP surrounded by tribal women demanding
+  release of apprehended naxalites), Q10 (hospital manager Sneha, whose brother has bid for a
+  procurement contract — a textbook conflict-of-interest case), Q11 (District Collector balancing
+  farmers and industry in a water crisis) and Q12 (Dr Srinivasan pressed to take data-integrity and
+  informed-consent shortcuts in a drug trial).
+- ⚠️ For 2025, Section B is Q7 (DC Vijay), Q8 (clearing forest land to house the homeless), Q9 (PWD
+  Secretary Subash, insider land information and ministerial pressure), Q10 (Rajesh and the
+  splitting of expenditure to avoid a GFR sanction limit), Q11 (restoring a mismanaged MGNREGA
+  programme) and Q12 (Divisional Commissioner Ashok and a cross-border influx that includes armed
+  soldiers in uniform). Between them they cover conflict of interest, procurement propriety,
+  humanitarian obligation and public-money integrity — the syllabus in applied form.
 - ⚠️ Any GS-IV case study involving a public official's private grief, financial pressure, or
   political pressure should be decomposed using this same architecture rather than answered as a
   free-flowing narrative.
 
 ## 6. Must-Know Facts for Prelims
 
-- ⚠️ GS-IV Section B (Case Studies) typically carries the largest share of the paper's marks and
-  rewards structured, multi-step reasoning over narrative storytelling.
+- ⚠️ GS-IV Section B (Case Studies) carries 120 of the paper's 250 marks — six cases of 20 marks
+  each, numbered Q7-Q12 in both the 2024 and 2025 papers — and rewards structured, multi-step
+  reasoning over narrative storytelling. Section A (Q1-Q6) carries the remaining 130.
 - ⚠️ The six-check framework (conflict of interest, legality, public interest, proportionality,
   transparency, compassion/long-term consequence) is a synthesis tool, not a single "correct"
   UPSC-mandated checklist — its value is in ensuring no major ethical dimension is missed.
@@ -121,8 +150,9 @@ followed by a realistic implementation/mitigation plan.
 
 ## 8. PYQ application
 
-- ✅ 2025 GS-IV Q7 (DC Vijay) and 2024 GS-IV Case Study Q1 (tech company) are the audited case
-  studies against which this architecture should be practised.
+- ✅ 2025 GS-IV Q7 (DC Vijay) and 2024 GS-IV Q7 (tech company) are the audited case studies against
+  which this architecture should be practised; the remaining ten Section B cases of those two
+  papers (2024 Q8-Q12 and 2025 Q8-Q12) supply the rest of the practice bank.
 - ⚠️ Both cases reward candidates who explicitly name conflict-of-interest, legality, public-
   interest, proportionality, transparency and compassion checks rather than a purely narrative
   emotional response.
@@ -135,11 +165,11 @@ followed by a realistic implementation/mitigation plan.
 - ⚠️ End every case-study answer with a specific, actionable implementation step, not just an
   abstract "I would balance both values" conclusion.
 
-> **Answer thesis:** A defensible GS-IV case-study answer works through facts/options, stakeholder/
-> issue mapping, moral-theory evaluation, a six-point ethical check (conflict of interest, legality,
-> public interest, proportionality, transparency, compassion/long-term consequence), a reasoned
-> decision, and a realistic implementation/mitigation plan — never a single-paragraph narrative
-> reaction.
+> **Answer thesis:** A defensible GS-IV case-study answer works through facts/options, stakeholder,
+> issue and **constraint** mapping, moral-theory evaluation, a six-point ethical check (conflict of
+> interest, legality, public interest, proportionality, transparency, compassion/long-term
+> consequence), a reasoned decision, and a realistic implementation/mitigation plan — never a
+> single-paragraph narrative reaction.
 
 ## 10. Probable questions
 

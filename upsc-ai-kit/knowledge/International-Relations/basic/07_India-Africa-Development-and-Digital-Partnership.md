@@ -3,8 +3,10 @@
 > **Subject:** International Relations | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II.
 > **Core area:** India-Africa Forum Summit (IAFS); capacity building; lines of
 > credit; health/education cooperation; digital public infrastructure (DPI).
-> **Grounded in:** Shashi Tharoor, *Pax Indica*; MEA India-SADC economic-
-> cooperation MoU; `00_Master-Framework.md` Sections 2-3.
+> **Grounded in:** Shashi Tharoor, *Pax Indica*; MEA India-SADC Memorandum of
+> Understanding on Economic Cooperation (2 July 2024) and MEA Africa background
+> brief (April 2026); Economic Survey 2025-26 (ITEC);
+> `00_Master-Framework.md` Sections 2-3.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/07_India-Africa-Development-and-Digital-Partnership.md`.*
 
@@ -52,8 +54,8 @@ co-development model rather than a donor-recipient framing.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ⚠️ **India-Africa Forum Summit (IAFS)** | The principal political framework convening India and African states/the African Union for periodic summit-level engagement on development partnership. |
-| ✅ **Pan African e-Network and e-VBAB** | ✅ Tharoor describes the Pan African e-Network as seeking to bridge the "digital divide" through tele-education and ICT connectivity. MEA records that project as concluded in 2017; the e-VidyaBharati and e-ArogyaBharati Network Project (e-VBAB), launched in 2019, is its tele-education and tele-medicine successor. |
+| ⚠️ **India-Africa Forum Summit (IAFS)** | The principal political framework convening India and African states/the African Union for periodic summit-level engagement on development partnership. 📰 IAFS-I: New Delhi, 8-9 April 2008; IAFS-II: Addis Ababa, 24-25 May 2011; IAFS-III: New Delhi, 26-29 October 2015. IAFS-IV was announced on 23 April 2026 for New Delhi and, on 21 May 2026, India and the African Union agreed to convene it later owing to the health situation — ⚠️ announced and postponed, not held. |
+| ✅ **Pan African e-Network and e-VBAB** | ✅ Tharoor describes the Pan African e-Network as seeking to bridge the "digital divide" through tele-education and ICT connectivity. MEA records that project as concluded in 2017; the e-VidyaBharati and e-ArogyaBharati Network Project (e-VBAB), for which the MEA-TCIL implementation agreement was signed on 10 September 2018 and which was launched in 2019, is its tele-education and tele-medicine successor. 📰 MEA records e-VBAB participation by 22 African countries and 15,116 scholarships offered (April 2026 brief). ⚠️ Scholarships offered is not the same as students who completed training. |
 | ✅ **Joint institution-building** | ✅ Tharoor documents India "in the process of establishing nineteen institutions on African soil jointly with the African Union Commission and the member states," including an India-Africa Institute of Information Technology, an India-Africa Institute of Foreign Trade, an India-Africa Institute of Educational Planning and Administration, an India-Africa Diamond Institute, ten vocational training centres and five human settlement institutes. |
 | ✅ **Capacity-building grant** | ✅ Tharoor: "at the first India-Africa Forum Summit, India announced a grant of $500 million specifically to undertake projects in human resource development and capacity building." |
 | ✅ **Technical-cooperation training positions** | ✅ Tharoor cites "1600 training positions offered under India's technical cooperation programme to Africa." |
@@ -84,18 +86,37 @@ co-development model rather than a donor-recipient framing.
 
 ## 4. Institutions and agreements
 
-- ⚠️ **India-Africa Forum Summit (IAFS):** the umbrella political mechanism.
+- 📰 **India-Africa Forum Summit (IAFS):** the umbrella political mechanism —
+  IAFS-I (New Delhi, 2008), IAFS-II (Addis Ababa, 2011), IAFS-III (New Delhi,
+  2015); IAFS-IV was announced on 23 April 2026 and postponed on 21 May 2026.
+  ⚠️ The decade-long gap since IAFS-III is itself a legitimate analytical point
+  about the pace of summit-level institutionalisation.
 - ✅ **Pan African e-Network:** historical digital-partnership precursor,
   concluded in 2017.
-- ✅ **e-VBAB:** the successor tele-education and tele-medicine network,
-  launched in 2019.
+- ✅ **e-VBAB:** the successor tele-education and tele-medicine network
+  (MEA-TCIL implementation agreement 10 September 2018; launched 2019), with
+  22 participating African countries and 15,116 scholarships offered per MEA's
+  April 2026 brief.
 - ✅ **Nineteen jointly established institutions** (IT, foreign trade,
   educational planning and administration, diamond processing, ten vocational
   training centres, five human settlement institutes) with the African Union
   Commission and member states.
-- 📰 **India-SADC economic-cooperation MoU (2024):** explicitly includes
-  ICT/DPI cooperation — the anchor current instrument for this topic's digital-
-  partnership dimension.
+- 📰 **India-SADC Memorandum of Understanding on Economic Cooperation, signed
+  2 July 2024** at the SADC Secretariat by SADC Executive Secretary Elias Mpedi
+  Magosi and India's High Commissioner to Botswana and Special Representative to
+  SADC, Bharath Kumar Kuthati. It frames cooperation against SADC's RISDP
+  2020-2030 and its Digital Transformation Strategy and covers industrialisation,
+  human and social development, **new and emerging technologies (ICT
+  development including connectivity, access and Digital Public Infrastructure)**,
+  trade and investment, disaster risk management, women-led development, private
+  sector development, space cooperation, green growth, and research and
+  innovation. It replaces/renews an earlier India-SADC economic-cooperation MoU
+  of 14 October 1997. ⚠️ An MoU is a statement of intent; entry into force and
+  delivery require separate verification.
+- 📰 **Development-partnership scale (MEA, April 2026 Africa brief):** more than
+  **190 Lines of Credit** worth over **USD 10 billion** extended to **41 African
+  countries**; India-Africa trade in FY2024-25 stood at **USD 81.99 billion**.
+  ⚠️ Lines of credit *extended* are commitments, not disbursements.
 - ✅ **Indian Technical and Economic Cooperation (ITEC) Programme:** per the
   Economic Survey 2025-26, ITEC has "trained more than two lakh persons from
   over 160 countries in both the civilian and the defence sector," and is
@@ -114,8 +135,11 @@ co-development model rather than a donor-recipient framing.
   historical precursor and e-VBAB as its successor, the nineteen joint
   institutions (institutional partnership), the
   $500 million HRD grant and 1600 training positions (mutual-respect/capacity-
-  building dimension), and the India-SADC MoU (2024, ICT/DPI) as the current
-  dated evidence of continuing digital-partnership expansion.
+  building dimension), and the India-SADC MoU (2 July 2024, whose "new and
+  emerging technologies" pillar covers ICT, connectivity, access and DPI) as the
+  current dated evidence of continuing digital-partnership expansion, supported
+  by MEA's April 2026 figures (190+ LoCs, over USD 10 billion, 41 countries;
+  e-VBAB in 22 countries).
 - ⚠️ The "mutual respect" framing is best evidenced by the demand-driven,
   non-intrusive model Tharoor describes, contrasted with a donor-imposed
   conditionality model.
@@ -131,8 +155,17 @@ co-development model rather than a donor-recipient framing.
 - ✅ At any given time, 10,000-15,000 African students study in India.
 - ✅ 1600 training positions are offered under India's technical cooperation
   programme to Africa specifically.
-- 📰 The India-SADC economic-cooperation MoU (2024) explicitly includes ICT/DPI
-  cooperation.
+- 📰 The India-SADC Memorandum of Understanding on Economic Cooperation was
+  signed on 2 July 2024; it explicitly covers ICT development, connectivity,
+  access and Digital Public Infrastructure among ten cooperation areas, and
+  renews an earlier India-SADC MoU of 14 October 1997.
+- 📰 IAFS-I (2008), IAFS-II (2011) and IAFS-III (2015) have been held; IAFS-IV
+  was announced on 23 April 2026 and postponed on 21 May 2026.
+- 📰 MEA records more than 190 Lines of Credit worth over USD 10 billion
+  extended to 41 African countries, and India-Africa trade of USD 81.99 billion
+  in FY2024-25.
+- 📰 e-VBAB covers 22 African countries with 15,116 scholarships offered (MEA,
+  April 2026).
 - 📰 ITEC has trained more than two lakh persons from over 160 countries,
   per the Economic Survey 2025-26 (a global figure, not Africa-specific).
 
@@ -155,13 +188,26 @@ co-development model rather than a donor-recipient framing.
 - ❌ MoUs with African regional bodies (e.g., SADC) equal delivered outcomes. ->
   An MoU states intent; delivery/implementation requires separate, dated
   verification (announcement-delivery gap).
+- ❌ The IAFS process has continued on a regular cycle. -> IAFS-III (2015) was
+  the last summit held; IAFS-IV was announced on 23 April 2026 and postponed on
+  21 May 2026 — an honest acknowledgement of this gap strengthens rather than
+  weakens an answer.
+- ❌ Lines of credit "extended" to Africa are the same as money disbursed. ->
+  MEA's figure of 190+ LoCs worth over USD 10 billion across 41 countries
+  measures commitments; disbursement and project completion are separate
+  questions.
 
 ## 8. 📰 Current anchor
 
-- 📰 The **India-SADC economic-cooperation MoU (2024)**, which explicitly
-  includes ICT/DPI cooperation, is the anchor current instrument for this
-  topic's digital-partnership dimension — cite it, dated, for any claim about
-  contemporary India-Africa digital cooperation.
+- 📰 The **India-SADC MoU on Economic Cooperation (2 July 2024)**, whose "new and
+  emerging technologies" pillar expressly covers ICT development, connectivity,
+  access and Digital Public Infrastructure, is the anchor current instrument for
+  this topic's digital-partnership dimension — cite it, dated and by its exact
+  title, for any claim about contemporary India-Africa digital cooperation.
+- 📰 Pair it with the **MEA April 2026 Africa brief** figures (190+ LoCs, over
+  USD 10 billion, 41 countries; FY2024-25 trade of USD 81.99 billion; e-VBAB in
+  22 countries) as the dated quantitative backdrop, and note that **IAFS-IV was
+  announced (23 April 2026) and postponed (21 May 2026)**.
 
 ## 9. PYQ application
 
@@ -174,8 +220,8 @@ co-development model rather than a donor-recipient framing.
 - ✅ **2025 Q9 (direct):** *India-Africa digital partnership is achieving mutual
   respect, co-development and long-term institutional partnerships. Elaborate.*
   Structure: (1) trace the Pan African e-Network (concluded 2017) to its e-VBAB
-  successor (launched 2019); (2) cite the India-SADC MoU (2024, ICT/DPI) as
-  current evidence; (3) evidence
+  successor (launched 2019); (2) cite the India-SADC MoU (2 July 2024, ICT/
+  connectivity/access/DPI pillar) as current evidence; (3) evidence
   "institutional partnership" via the nineteen jointly established institutions;
   (4) evidence "mutual respect/co-development" via the demand-driven,
   non-intrusive model and African student mobility; (5) avoid overstating
@@ -184,7 +230,7 @@ co-development model rather than a donor-recipient framing.
 ## 10. Mains angles
 
 - ⚠️ Evidence "digital partnership" with the Pan African e-Network-to-e-VBAB
-  transition and a dated MoU (SADC 2024), not a generic DPI claim.
+  transition and a dated MoU (SADC, 2 July 2024), not a generic DPI claim.
 - ⚠️ Distinguish capacity-building/institution-building from trade/investment
   — this topic's syllabus emphasis is the former.
 - ⚠️ Use "demand-driven" and "non-intrusive" as the precise vocabulary for

@@ -33,11 +33,16 @@ induction, sustainment, exports and ecosystem learning
 | Concept | Precise meaning |
 |---|---|
 | ✅ **Atmanirbhar defence** | Push for domestic capacity across design, development, production and sustainment. |
-| ✅ **DAP 2020** | Official acquisition procedure structuring how capital defence procurement is processed. |
-| ✅ **Positive Indigenisation List** | Demand-side restriction and signalling device for domestic sourcing. |
+| ✅ **DAP 2020** | Official acquisition procedure structuring how capital defence procurement is processed (published 14 Dec 2020). |
+| ⚠️ **The five-rung 'Buy' ladder** | **Buy (Indian-IDDM) → Buy (Indian) → Buy & Make (Indian) → Buy (Global - Manufacture in India) → Buy (Global)**. Each rung trades speed of capability induction against depth of domestic value capture; the middle two rungs are where technology transfer is actually negotiated. |
+| ⚠️ **Three senses of "indigenous"** | (a) **Indigenous design** — the intellectual property and system architecture are Indian; (b) **indigenous manufacture** — assembly/production occurs in India, possibly under licence; (c) **indigenous value addition** — the DAP indigenous-content percentage. A country can score highly on (c) and (b) while remaining dependent on (a), which is precisely India's aero-engine, seeker and semiconductor problem. |
+| ⚠️ **Offsets** | Reciprocal industrial obligations on foreign vendors. DAP 2020 removed offsets for government-to-government, inter-governmental and single-vendor procurements after criticism that discharged offsets rarely produced critical technology transfer. A good answer treats offsets as a **cautionary case study in policy design**, not as a success story. |
+| ✅ **Positive Indigenisation List** | Demand-side restriction and signalling device for domestic sourcing. ⚠️ Distinguish **Services PILs** (import embargo on listed platforms after notified dates) from **DPSU PILs** (component/sub-system localisation tracked on SRIJAN). |
 | ✅ **Strategic Partnership Model** | Capacity-building route for major defence segments using selected private-sector long-term partners. |
-| ✅ **DPSU** | Public-sector defence manufacturer or integrator under the defence-production ecosystem. |
-| ✅ **Defence corridor** | Place-based industrial policy instrument to deepen supplier ecosystems and investment. |
+| ✅ **DPSU** | Public-sector defence manufacturer or integrator. ⚠️ The **2021 corporatisation of the Ordnance Factory Board into seven DPSUs** converted a departmental production organisation into corporate entities with balance-sheet accountability — a structural reform whose success must be judged on order books and productivity, not on the reorganisation itself. |
+| ⚠️ **iDEX / ADITI and TDF** | Supply-side innovation instruments that fund non-traditional entrants (startups, MSMEs, academia). Their analytical importance is that they attack the *entry barrier* problem, which PILs and IC rules do not. |
+| ✅ **Defence corridor** | Place-based industrial policy instrument to deepen supplier ecosystems and investment (Uttar Pradesh and Tamil Nadu). |
+| ⚠️ **Acceptance of Necessity (AoN)** | In-principle DAC approval of a requirement and its categorisation. It is **not** an order. Tracking AoN-to-contract conversion rates and lapse rates is the honest way to assess procurement performance. |
 
 ## 3. Detailed mechanism / how it works
 
@@ -56,13 +61,14 @@ induction, sustainment, exports and ecosystem learning
 
 ## 4. Institutions and programmes
 
-- ✅ **Department of Defence Production:** central administrative anchor.
+- ✅ **Department of Defence Production:** central administrative anchor for production and DPSUs — distinct from the **Department of Defence R&D/DRDO** (technology creation) and from the **Defence Acquisition Council** (approval of necessity and categorisation).
 - ✅ **DAP 2020:** formal acquisition rulebook.
+- ✅ **Defence Innovation Organisation — iDEX and ADITI:** startup/MSME innovation channel; **Technology Development Fund (DRDO):** industry-led development funding.
 - ✅ **SRIJAN:** public-facing implementation dashboard for positive-indigenisation items.
-- ✅ **DPSU product filters on official DDP page:** HAL, BEL, BDL, MDL, GRSE and GSL are visible categories.
+- ✅ **DPSU product filters on official DDP page:** HAL, BEL, BDL, MDL, GRSE and GSL are visible categories; the **seven OFB-successor DPSUs** created in 2021 form the erstwhile ordnance-factory base.
 - ✅ **Defence Exim portal:** official export/import authorisation workflow platform.
 - ✅ **Tamil Nadu Defence Corridor** and ✅ **Uttar Pradesh Defence Corridor:** state-linked cluster ecosystems under broader indigenisation strategy.
-- ✅ **DPIIT FDI framework:** defines route structure for foreign investment in the defence sector.
+- ✅ **DPIIT FDI framework:** defines route structure for foreign investment in the defence sector — automatic up to 74%, government route beyond 74% and up to 100% where likely to give access to modern technology or for reasons to be recorded.
 
 ## 5. Indian applications, examples and economic significance
 
@@ -85,12 +91,14 @@ induction, sustainment, exports and ecosystem learning
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ The official DAP node records publication of DAP 2020 on 14 Dec 2020.
-- ✅ DAP 2020’s opening structure classifies capital-acquisition schemes into Buy, Buy and Make, Leasing, Make, Design and Development and Strategic Partnership Model.
+- ✅ DAP 2020’s opening structure classifies capital-acquisition schemes into Buy, Buy and Make, Leasing, Make, Design and Development and Strategic Partnership Model; within 'Buy' the ladder runs **Buy (Indian-IDDM) → Buy (Indian) → Buy & Make (Indian) → Buy (Global - Manufacture in India) → Buy (Global)**.
 - ✅ Official DAP text places Buy (Indian-IDDM), Buy (Indian) and Buy (Global) inside the broader Buy scheme.
 - ✅ The SRIJAN dashboard is the official public stage-tracker for DPSU positive-indigenisation items.
 - ✅ The DDP products page publicly exposes filters for major DPSUs including HAL, BEL, BDL, MDL, GRSE and GSL.
 - ✅ The Tamil Nadu corridor portal explicitly states a vision of becoming a global defence-manufacturing destination.
-- ✅ Official policy-search results continue to describe defence FDI as automatic-route up to 74% and government-route beyond 74% up to 100%.
+- ✅ Official policy-search results continue to describe defence FDI as automatic-route up to 74% and government-route beyond 74% up to 100%, the latter being considered where the investment is **likely to result in access to modern technology** or for other reasons to be recorded.
+- ✅ The **Ordnance Factory Board was corporatised into seven DPSUs in 2021**; DAP 2020 narrowed **offsets** by removing them for government-to-government, inter-governmental and single-vendor procurements.
+- ✅ **iDEX/ADITI** (MoD's Defence Innovation Organisation) and the DRDO-run **Technology Development Fund** are the standard supply-side innovation instruments; the two **defence industrial corridors** are in Uttar Pradesh and Tamil Nadu.
 
 ## 8. Advanced UPSC traps
 
@@ -104,7 +112,7 @@ induction, sustainment, exports and ecosystem learning
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 **25 Jun 2024:** fifth Positive Indigenisation List for DPSUs notified through official defence-production ecosystem. **Status:** in force. | Use it to explain demand-side localisation and the signalling function of procurement restrictions. |
+| 📰 **25 Jun 2024:** fifth Positive Indigenisation List for DPSUs notified through official defence-production ecosystem. **Status:** notified, with item-wise indigenisation deadlines. | Use it to explain demand-side localisation and the signalling function of procurement restrictions — while noting that a notified list is a *commitment device*, and its success must be measured by items actually indigenised on SRIJAN, not by list length. |
 | 📰 **24 Mar 2025:** PIB reported record defence production and exports while linking outcomes to Make in India, SRIJAN and indigenous systems. **Status:** ongoing policy push. | Use it to show that production, exports and vendor development are the measurable outcomes of procurement reform. |
 | 📰 **16 Jul 2026:** DDPMoD products page remains live with DPSU manufacturer filters. **Status:** operational institutional resource. | Use it to show the continuing centrality of DPSUs even within a broader private-sector and export narrative. |
 | 📰 **16 Jul 2026:** SRIJAN dashboard remains active. **Status:** ongoing implementation. | Use it to discuss how indigenisation is monitored through staged progression rather than one-time announcement politics. |

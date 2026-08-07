@@ -6,7 +6,9 @@
 > security-development-rights response architecture.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
 > India*, PDF pp. 51-65; `00_Master-Framework.md` Sections 4-5; audited
-> GS-III syllabus; MHA parliamentary reply, 4 February 2026.
+> GS-III syllabus; MHA National Policy and Action Plan to address LWE
+> (2015); MHA parliamentary reply, 4 February 2026; PIB "Naxal-Free
+> India" explainer (June 2026).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/03_Left-Wing-Extremism-and-Integrated-Response.md`.*
 
@@ -88,24 +90,58 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
    implementation), security strategy (professional dominance, state-
    police primacy, specialised forces on the Greyhounds model) and
    psychological operations (media/public-perception management,
-   restoring trust) (PDF pp. 63-64).
+   restoring trust) (PDF pp. 63-64). 📰 MHA's **National Policy and Action
+   Plan (2015)** states the same logic in official language as a
+   three-pronged approach — security, development, and ensuring the
+   rights and entitlements of local communities.
+6. **Clear, hold, develop — and why the middle step decides the
+   outcome:** ⚠️ Security operations *clear* an area; a permanent
+   administrative and police presence *holds* it; schemes and rights
+   delivery *develop* it. Most reversals in LWE history occurred at the
+   holding stage, when forces moved on before civil administration
+   arrived. This is why "number of districts cleared" is a weaker
+   indicator than "number of districts holding a functioning police
+   station, panchayat and service-delivery presence."
 
 ## 4. Institutions, laws and reference points
 
 - ✅ **Scheduled Tribes and Other Traditional Forest Dwellers (Recognition
   of Forest Rights) Act, 2006:** cited by Singh as a rights-based
   instrument whose "coordination and implementation" in LWE-affected
-  states is part of the development strategy (PDF p. 63).
+  states is part of the development strategy (PDF p. 63). ⚠️ Its
+  companion instruments — the **Panchayats (Extension to the Scheduled
+  Areas) Act, 1996 (PESA)**, which vests Gram Sabhas in Fifth Schedule
+  areas with consultative rights over land acquisition and minor
+  minerals, and the **Fifth Schedule** administrative framework itself —
+  are the constitutional/statutory core of the "governance deficit" root
+  cause and should be named alongside FRA, not left implicit.
+- ✅ **CPI (Maoist) is a banned terrorist organisation** listed in the
+  First Schedule of the UAPA (along with its front organisations and all
+  formations). ⚠️ This is the legal reason LWE cases can attract UAPA and
+  NIA jurisdiction, not merely State penal law — a link Mains answers on
+  "measures taken" frequently omit.
+- 📰 **National Policy and Action Plan to address Left Wing Extremism
+  (2015):** MHA's standing policy frame, built on three prongs — a
+  **security** response, a **development** response, and ensuring the
+  **rights and entitlements of local communities** (the third prong is the
+  one candidates most often drop). ⚠️ Verify its current operative status
+  and any successor framing from the MHA Annual Report before describing
+  it as the latest policy.
 - ⚠️ **Security Related Expenditure (SRE) Scheme, Special Infrastructure
-  Scheme (SIS), Integrated Action Plan (IAP), Road Requirement Plan,
-  Civic Action Programme (CAP):** book-period central schemes for
-  LWE-affected states (Singh, PDF pp. 60-61) — verify current scheme
-  names, coverage and allocations from a dated MHA source before citing
-  any figure.
+  Scheme (SIS), Special Central Assistance (SCA) for the most
+  LWE-affected districts, the Road Requirement Plan and its successor road
+  connectivity project for LWE areas, the LWE Mobile Tower Project, Civic
+  Action Programme (CAP) and Fortified Police Stations:** the central
+  scheme cluster for LWE-affected States (Singh, PDF pp. 60-61, for the
+  book-period subset) — ⚠️ verify current scheme names, coverage and
+  allocations from a dated MHA source before citing any figure.
 - ✅ **Operation Greyhound (Andhra Pradesh):** a specialised, trained state
   police force credited with substantially curbing Naxalism within
   undivided Andhra Pradesh — an institutional design precedent (Singh,
-  PDF pp. 61-64).
+  PDF pp. 61-64). ⚠️ Its later analogues include CRPF's **CoBRA**
+  (jungle-warfare) battalions and locally recruited units such as the
+  **Bastariya Battalion**; name the specific unit rather than "central
+  forces" generically.
 - 📰 **MHA Rajya Sabha Starred Question 49 (4 February 2026):** reported
   that LWE violence had declined by 73% and deaths by 86% since 2010, and
   that the footprint had fallen from 126 districts in 2013 to 38 in 2024.
@@ -139,6 +175,12 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
   War."
 - ✅ Naxalites, unlike J&K or North-East militants, do not seek secession
   from the Indian Union; their objective is to capture state power.
+- ✅ CPI (Maoist) and its front organisations are listed as a terrorist
+  organisation in the First Schedule of the UAPA — the statutory basis for
+  UAPA charges and NIA jurisdiction in LWE cases.
+- 📰 MHA's **National Policy and Action Plan (2015)** is the three-pronged
+  policy frame: security, development, and rights/entitlements of local
+  communities.
 - 📰 MHA's 4 February 2026 reply reports a 73% decline in violence and an
   86% decline in deaths since 2010, with the footprint reducing from 126
   districts in 2013 to 38 in 2024.
@@ -162,6 +204,18 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
   in this book reflects the present. -> These are book-period historical
   figures; the current, dated picture must come from the MHA's 2026
   parliamentary reply or a subsequent official release.
+- ❌ A district removed from the "LWE-affected" list is a district where
+  the root causes are resolved. -> The list is an administrative
+  classification driving scheme eligibility and force deployment;
+  de-listing records a security-metric change, not the completion of land,
+  forest or service-delivery reform. Keep classification, security outcome
+  and development outcome as three separate claims.
+- ❌ "Surrender" and "rehabilitation" are the same thing. -> Surrender is
+  a one-time act with an immediate incentive package; rehabilitation is a
+  multi-year process (skilling, livelihood, protection from reprisal,
+  social reintegration) that State surrender-and-rehabilitation policies
+  vary widely on — a variation Maoists have historically exploited
+  (advanced companion, Section 5).
 
 ## 8. 📰 Current anchor
 
@@ -190,9 +244,12 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
   - Structure: define LWE and its ideology (Section 1-2) → explain civilian
     impact (denial of development, displacement, extortion economy,
     targeting of infrastructure) → cite the three-part strategy (security,
-    development, psychological/trust) → anchor "measures taken" in the
-    current schemes, the 4 February baseline and the qualified June 2026
-    post-deadline assessment.
+    development, psychological/trust), naming MHA's 2015 National Policy
+    and Action Plan's third prong (rights and entitlements) explicitly →
+    anchor "measures taken" in the current schemes, the 4 February
+    baseline and the qualified June 2026 post-deadline assessment →
+    distinguish the *clear* phase from the *hold* and *develop* phases
+    when assessing durability.
 
 ## 10. Mains angles
 

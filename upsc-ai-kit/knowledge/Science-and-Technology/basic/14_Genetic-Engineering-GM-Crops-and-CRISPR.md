@@ -3,6 +3,7 @@
 > **Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims, with biosafety/governance overlap.
 > **Core area:** Transgenic GM crops, gene editing and Indian biosafety regulation.
 > **Grounded in:** GEAC about page (`http://www.geacindia.gov.in/about-geac-india.aspx`, verified 2026-07-16); GEAC meetings pages and 147th meeting proceedings PDF (`http://www.geacindia.gov.in/Uploads/MoMPublished/MoMPublishedOn20221025200345.pdf`, verified 2026-07-16); GEAC approved-products page and Bt cotton list PDF (`http://www.geacindia.gov.in/approved-products.aspx`, verified 2026-07-16); PIB GM mustard release of 07 Feb 2023; PIB Bt cotton release of 06 Aug 2024; PIB genome-edited rice / SDN-1, SDN-2 note of 19 Jul 2022; official DBT genome-edited plants guideline URL verified through official-source web search on 2026-07-16.
+> **Additionally verified 2 Aug 2026:** Supreme Court split verdict in Gene Campaign & Anr. v. Union of India & Ors., 2024 INSC 545, 23 Jul 2024 (https://api.sci.gov.in/supremecourt/2004/661/661_2004_11_1501_54013_Judgement_23-Jul-2024.pdf); Bt brinjal moratorium release, 9 Feb 2010 (https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=57727); ICAR announcement of DRR Rice 100 (Kamla) and Pusa DST Rice 1, 4 Apr 2025 (https://icar.gov.in/en/union-agriculture-minister-shri-shivraj-singh-chouhan-announces-two-genome-edited-rice-varieties); GEAC published minutes of the 159th (20 Mar 2026) and 161st (14 Jul 2026) meetings (http://geacindia.gov.in/Uploads/MoMPublished/MoMPublishedOn20260417162625.pdf ; http://geacindia.gov.in/Uploads/MoMPublished/MoMPublishedOn20260727174712.pdf). No post-July-2024 Supreme Court order resolving the DMH-11 question, and no 2026 official restatement of the Bt-cotton-only position, were located.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `../advanced/14_Genetic-Engineering-GM-Crops-and-CRISPR.md`. Environment cross-link: `../../Environment-and-Ecology/basic/16_Environmental-Impact-Assessment-and-NGT.md` where biosafety and environmental governance overlap.*
 
@@ -33,30 +34,40 @@ Guide RNA identifies target DNA
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Genetic engineering** | Deliberate modification of genetic material to create a desired biological trait. |
-| ✅ **Transgenic GM crop** | Crop carrying genetic material introduced from another organism/source through recombinant DNA methods. |
+| ✅ **Transgenic GM crop** | Crop carrying genetic material introduced from **a different species** through recombinant DNA methods. |
+| ⚠️ **Transgenic vs cisgenic vs intragenic** | **Transgenic** = DNA from an unrelated species. **Cisgenic** = a gene from the same or a sexually compatible species, transferred intact. **Intragenic** = rearranged elements from the same species' gene pool. All three are "GM" in law; only the source of DNA differs. |
+| ⚠️ **GM vs hybrid** | A **hybrid** is produced by controlled cross-pollination between parent lines — conventional breeding, no laboratory gene transfer, and not regulated as a GMO. **DMH-11 is both a hybrid and transgenic**, which is exactly why it confuses candidates. |
 | ✅ **GEAC** | Genetic Engineering Appraisal Committee under MoEF&CC; apex environmental appraisal body for release of genetically engineered organisms/products. |
-| ✅ **Bt cotton** | Insect-resistant cotton using a Bacillus thuringiensis trait; the only GM crop officially approved for commercial cultivation in India. |
-| ✅ **GM mustard (DMH-11)** | Transgenic mustard hybrid and parental lines considered by GEAC and Government through the environmental-release process under specified conditions. |
-| ✅ **CRISPR-Cas9** | Gene-editing system in which guide RNA directs Cas9 nuclease to a target DNA sequence for cleavage and repair-based editing. |
-| ✅ **SDN-1 / SDN-2** | Site-directed nuclease edits that do not retain exogenously introduced foreign DNA in the plant product; treated differently from transgenic GMOs under India’s 2022 framework. |
-| ✅ **SDN-3** | Gene-editing outcome involving insertion/integration in a way closer to transgenic modification; not part of the lighter exemption track. |
+| ✅ **Bt cotton** | Insect-resistant cotton expressing **cry genes (e.g. cry1Ac, cry2Ab)** from the soil bacterium ***Bacillus thuringiensis***, whose crystal protein is toxic to specific **lepidopteran** larvae (bollworms) but not to mammals. Bollgard-II stacks two cry genes to delay resistance. |
+| ✅ **GM mustard (DMH-11)** | A transgenic mustard hybrid built on the **barnase-barstar** system: the *barnase* gene induces male sterility in one parent, *barstar* restores fertility in the hybrid, and the *bar* gene provides herbicide (glufosinate) tolerance as a selectable marker. Its purpose is to enable **hybridisation in a self-pollinating crop**, not to create herbicide-tolerant fields. |
+| ⚠️ **Herbicide tolerance (HT)** | A trait letting a crop survive a broad-spectrum herbicide. In India, HT traits are the most contested category because of weed-resistance evolution, labour-displacement concerns and illegal cultivation of unapproved HT cotton. |
+| ✅ **CRISPR-Cas9** | Gene-editing system in which a **guide RNA** directs the **Cas9 nuclease** to a target DNA sequence adjacent to a short **PAM (Protospacer Adjacent Motif, typically NGG)** and creates a double-strand break for repair-based editing. |
+| ⚠️ **NHEJ vs HDR** | **Non-Homologous End Joining** is the cell's default error-prone repair, producing small **insertions/deletions** that knock out a gene. **Homology-Directed Repair** uses a supplied template to make a **precise substitution or insertion**, but is far less efficient. |
+| ⚠️ **Base editing / prime editing** | Newer tools that **chemically convert one base into another** (base editing) or **write short new sequences** (prime editing) **without a double-strand break** — achieving precision that NHEJ cannot deliver. |
+| ✅ **SDN-1** | A site-directed-nuclease edit with **no repair template** — the break is repaired by NHEJ, producing small indels. No foreign DNA in the product. |
+| ✅ **SDN-2** | An edit using a **short homologous template** to make a small, defined change. No foreign DNA in the product. Both SDN-1 and SDN-2 receive lighter treatment under India's 2022 framework. |
+| ✅ **SDN-3** | An edit that **inserts a substantial DNA sequence at a targeted site**. The inserted sequence may be transgenic *or* cisgenic; the regulatory point is the **insertion of a gene-sized construct**, which keeps SDN-3 outside the lighter exemption track. |
 
 ## 3. Mechanism / how it works
 
-1. In conventional **transgenic GM** development, a desired gene construct is inserted into the plant genome to confer a trait such as insect resistance or herbicide tolerance.
+1. In conventional **transgenic GM** development, a desired gene construct is inserted into the plant genome — usually via **Agrobacterium-mediated transfer (Ti plasmid)** or a gene gun — to confer a trait such as insect resistance or herbicide tolerance.
 2. The resulting plant is assessed for biosafety, environmental release and related approvals through India’s GMO-regulation architecture.
-3. In **CRISPR-Cas9**, a guide RNA matches a target DNA sequence and brings the Cas9 enzyme to that exact site.
-4. Cas9 cuts the DNA; cellular repair then creates a deletion, substitution or targeted edit.
-5. If the final plant falls in **SDN-1 / SDN-2** categories without exogenous foreign DNA, India’s 2022 approach treats it differently from a transgenic GMO.
+3. In **CRISPR-Cas9**, a guide RNA matches a ~20-base target sequence, and Cas9 binds and cuts **only if a PAM sequence sits immediately downstream** — the PAM requirement is what limits which sites can be targeted.
+4. Cas9 creates a double-strand break. **Repair then determines the outcome:** error-prone **NHEJ** yields small indels (gene knockout, SDN-1); **HDR with a short template** yields a defined small change (SDN-2); **HDR with a gene-sized donor** yields targeted insertion (SDN-3). **Base and prime editing** achieve precise changes without relying on a double-strand break at all. These mechanisms are **not interchangeable** — a "targeted substitution" does not arise spontaneously from NHEJ.
+5. If the final plant falls in **SDN-1 / SDN-2** categories without exogenous foreign DNA, India’s 2022 approach exempts it from Rules 7-11 of the 1989 Rules.
 6. Therefore, the exam distinction is: **transgenic GMO = foreign gene insertion / classic GMO route**; **certain gene-edited plants = native-genome edit / lighter 2022 treatment**.
+7. ⚠️ **Ecological mechanisms that drive the policy debate:** **resistance evolution** in target pests (managed through refuge requirements and gene stacking), **gene flow** to wild relatives or non-GM fields, **off-target edits**, and effects on non-target organisms.
 
 ## 4. Institutions and programmes
 
+- ✅ **The six-tier biosafety structure under the Rules, 1989:** **RDAC** (Recombinant DNA Advisory Committee, DBT — advisory), **IBSC** (Institutional Biosafety Committee, at each institution — day-to-day oversight), **RCGM** (Review Committee on Genetic Manipulation, **DBT** — research and contained-trial approvals), **GEAC** (**MoEF&CC** — environmental release and large-scale use), **SBCC** (State Biotechnology Coordination Committee) and **DLC** (District Level Committee) for state and district-level monitoring.
 - ✅ **GEAC under MoEF&CC:** environmental appraisal body for large-scale use/release proposals involving genetically engineered organisms/products.
-- ✅ **DBT system / Institutional Biosafety Committees:** research-stage biosafety oversight and guidance architecture.
+- ✅ **RCGM under DBT:** the research-stage approval body — the sharpest institutional distinction in this topic is **RCGM (DBT, research/contained trials) vs GEAC (MoEF&CC, environmental release)**.
+- ✅ **FSSAI:** the separate statutory authority for **GM food** safety and labelling under the Food Safety and Standards Act, 2006 — a food regulator, not a biosafety regulator.
 - ✅ **ICAR:** relevant for agronomic testing, evaluation and crop-release procedures after biosafety stages where applicable.
-- ✅ **Rules, 1989 under the Environment (Protection) Act, 1986:** core Indian GMO biosafety regulatory framework for transgenic GMOs.
-- ✅ **DBT Guidelines for Safety Assessment of Genome Edited Plants, 2022:** regulatory differentiation instrument for gene-edited plants.
+- ✅ **Rules, 1989 (Manufacture, Use, Import, Export and Storage of Hazardous Micro-organisms/Genetically Engineered Organisms or Cells) under the Environment (Protection) Act, 1986:** core Indian GMO biosafety regulatory framework.
+- ✅ **DBT Guidelines for Safety Assessment of Genome Edited Plants, 2022** (notified 17 May 2022): regulatory differentiation instrument for gene-edited plants, following MoEF&CC's **30 Mar 2022 Office Memorandum** exempting SDN-1/SDN-2 plants free of exogenous DNA from Rules 7-11.
+- ⚠️ **International layer:** the **Cartagena Protocol on Biosafety** (transboundary movement of living modified organisms; advance informed agreement; precautionary approach) and the **Nagoya Protocol** on access and benefit-sharing, implemented domestically through the **Biological Diversity Act, 2002 (amended 2023)** and the **National Biodiversity Authority**.
 
 ## 5. Indian applications, examples and limitations
 
@@ -85,13 +96,26 @@ Guide RNA identifies target DNA
 - ❌ **Bt cotton and GM mustard have identical legal status in India.** -> Bt cotton is commercially cultivated; GM mustard’s official materials reviewed here refer to environmental release for seed production/testing under conditions before commercial release.
 - ❌ **CRISPR-Cas9 always inserts a foreign gene.** -> It is a targeted editing system; foreign DNA insertion is not necessary in SDN-1/SDN-2 outcomes.
 - ❌ **Any genome-edited plant automatically escapes regulation.** -> The lighter track applies only to specified categories such as SDN-1/SDN-2 without exogenous foreign DNA, not to all edits.
+- ❌ **"CRISPR cuts and the cell makes whatever change we want."** -> NHEJ mainly yields **random small indels**; a precise substitution needs **HDR with a template, base editing or prime editing**. The mechanisms are distinct.
+- ❌ **GM mustard was approved for commercial cultivation.** -> The 2023 approval was for **environmental release for seed production and testing** under conditions. It was then **challenged in the Supreme Court, which delivered a split verdict on 23 Jul 2024** — so its legal position is unsettled, not settled in favour of cultivation.
+- ❌ **A hybrid crop is a GM crop.** -> Hybrids come from conventional cross-pollination; DMH-11 is unusual precisely because it is *both* a hybrid and transgenic.
+- ❌ **RCGM and GEAC are the same body.** -> **RCGM sits under DBT** and clears research and contained trials; **GEAC sits under MoEF&CC** and appraises environmental release.
+- ❌ **Bt crops are herbicide-tolerant.** -> **Bt = insect resistance** through *cry* proteins. **HT is a separate trait.** DMH-11 does carry the *bar* herbicide-tolerance gene, but as a **selection marker within the barnase-barstar hybridisation system**, not as an agronomic HT product.
+- ❌ **"Terminator technology" is used in Indian GM seeds.** -> Genetic Use Restriction Technology has **never been commercialised anywhere**, and India's Seeds/PPV&FR framework does not permit it. It is a persistent myth, not a fact.
+- ❌ **Bt brinjal was banned.** -> A **moratorium** was imposed in **February 2010** pending independent long-term safety studies — a suspension of release, expressly not a permanent rejection or a conditional acceptance.
 
 ## 8. 📰 Current anchor
 
-- 📰 **19 Jul 2022 | guideline-notified / exemption clarified:** PIB stated that SDN-1 and SDN-2 genome-edited plants free of exogenous DNA were exempted from Rules 7-11 of the 1989 Rules, and that DBT had notified the 2022 genome-edited plants guidelines.
+- 📰 **09 Feb 2010 | moratorium:** the Government imposed a **moratorium on Bt brinjal** pending independent long-term human-health and environmental-safety studies, stating that a moratorium "implies rejection of this particular case of release for the time being." ⚠️ No official source confirming its continuation, withdrawal or replacement was located at the verification date.
+- 📰 **19 Jul 2022 | guideline-notified / exemption clarified:** PIB stated that SDN-1 and SDN-2 genome-edited plants free of exogenous DNA were exempted from Rules 7-11 of the 1989 Rules by MoEF&CC's OM of **30 Mar 2022**, and that DBT had notified the **Guidelines for Safety Assessment of Genome Edited Plants** on **17 May 2022**.
 - 📰 **18 Oct 2022 | GEAC decision stage:** Proceedings of the 147th GEAC meeting recorded consideration of environmental release of transgenic mustard hybrid DMH-11 and parental lines.
 - 📰 **07 Feb 2023 | approved with conditions prior to commercial release:** PIB stated that Government approved environmental release of GM mustard hybrid DMH-11 and parental lines for seed production and testing as per existing ICAR guidelines and GEAC conditions.
-- 📰 **06 Aug 2024 | status reaffirmed:** PIB stated that Bt cotton remains the only GM crop approved for commercial cultivation in India.
+- 📰 **23 Jul 2024 | Supreme Court split verdict on GM mustard.** In *Gene Campaign & Anr. v. Union of India & Ors.* (2024 INSC 545), **Justice B.V. Nagarathna held the GEAC recommendation of 18 Oct 2022 and the Union decision of 25 Oct 2022 legally vitiated and quashed them**, requiring fresh consideration; **Justice Sanjay Karol held the conditional approval not vitiated** and allowed the regulatory process/field trials to continue subject to directions. The common order directed a **national GM-crop policy consultation**, conflict-of-interest safeguards in decision-making, and compliance with **s.23 of the Food Safety and Standards Act** on GM-food labelling, and placed the divided question before the Chief Justice for an **"appropriate Bench."** **Status: unresolved.** ⚠️ No later official Supreme Court order resolving the DMH-11 question was located at the verification date; do **not** describe it as referred to a "larger bench," which is not the order's wording.
+- 📰 **04 Apr 2025 | ICAR announced two genome-edited rice varieties.** **DRR Rice 100 (Kamla)**, derived from Samba Mahsuri, with more grains per panicle and about 20 days earlier maturity; and **Pusa DST Rice 1**, derived from MTU 1010, for better performance in saline/alkaline soils. ICAR stated they were produced using CRISPR-Cas **without adding foreign DNA**, under the SDN-1/SDN-2 route. **Status: announced varieties** — treat seed availability and area under cultivation as separate, unverified questions.
+- 📰 **06 Aug 2024 | status reaffirmed:** PIB stated that Bt cotton remains the only GM crop approved for commercial cultivation in India. ⚠️ **No 2026-dated official restatement was located** — cite this with its 2024 date.
+- 📰 **20 Mar 2026 and 14 Jul 2026 | GEAC meetings:** published minutes show continued scrutiny of a herbicide-tolerant cotton proposal (BGII Roundup Ready Flex), with the applicant asked to generate additional India-specific data and protocols referred back to the expert committee. **Status: under regulatory review — not approval.**
+
+*Re-verified 2 Aug 2026.*
 
 ## 9. PYQ application
 

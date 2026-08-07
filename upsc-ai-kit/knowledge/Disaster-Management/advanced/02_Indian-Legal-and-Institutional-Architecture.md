@@ -74,25 +74,44 @@ analogue of the risk-creation loop developed in topic `01`.
   excludes law-and-order situations, confirming NCMC is engaged for
   major disasters, not as a security/law-and-order body.
 - 📰 **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)**,
-  gazette-notified 8 April 2025, in force from **9 April 2025**.
-  Sections 8A, 8B, 9B and 41A are operative law. ⚠️ A specific claim
-  about an *implementation action* under the amendment — e.g. a
-  particular State's Urban Disaster Management Authority being
-  constituted, or the national disaster database's actual rollout —
-  depends on the relevant State/Central notification and must be
-  verified against the current official text and notification record;
-  the Act's own commencement is settled and should not be presented as
-  uncertain.
+  assented and published in the Gazette on **29 March 2025**, in force
+  **with effect from 9 April 2025** (India Code consolidated DM Act text
+  as on 15 May 2026). The operative new sections are **8A** (NCMC),
+  **8B** (High Level Committee), **41A** (Urban DM Authority), **44A**
+  (State Disaster Response Force), **60A** (hazard-action orders) and
+  **76A** (NDMA regulations); the database duties sit in **ss. 2(da),
+  6(2)(v) and 18(2)(p)**. ❌ There is no Section 9B. ⚠️ A specific claim
+  about an *implementation action* under the amendment — a particular
+  State's Urban Disaster Management Authority being constituted, or the
+  national disaster database's actual rollout — depends on the relevant
+  State/Central notification and must be verified against the current
+  official text and notification record; the Act's own commencement is
+  settled and should not be presented as uncertain.
+- ⚠️ **The amendment's real analytical significance is that it converts
+  administrative practice into statutory duty.** NCMC and HLC both
+  *existed* before 2025; s. 8A/8B change their legal character, not their
+  membership. Conversely ss. 41A and 44A create only *permissions*. An
+  advanced answer should therefore read the Act as **strengthening
+  accountability at the top of the cascade while leaving the bottom
+  (urban/local) tier discretionary** — precisely the weak link this
+  topic's thesis identifies. MHA's report that Karnataka had constituted
+  a BBMP Urban Disaster Management Authority (11 February 2026) is
+  evidence of *beginning*, not of completed national roll-out.
 
 ## 4. Evidence and Indian applications
 
-- ⚠️ **NDRF's document-period force structure as an implementation-
-  capacity indicator:** VisionIAS records NDRF at "12 Battalions" with
-  1149 personnel each, drawn from ITBP, BSF, CRPF and CISF (PDF p. 13).
-  An advanced answer treats this not as a fact to repeat but as a
-  prompt to ask a current, verified question: has capacity kept pace
-  with India's disaster-prone geography (this requires a current NDMA/
-  MHA figure, not the document-period count).
+- ⚠️ **NDRF's force structure as an implementation-capacity indicator:**
+  VisionIAS records NDRF at "12 Battalions" with 1149 personnel each,
+  drawn from ITBP, BSF, CRPF and CISF (PDF p. 13). 📰 MHA reported **16
+  operational battalions** and a sanctioned strength of **18,581** on
+  22 July 2025, four battalions having been added to the original twelve.
+  An advanced answer uses the *trajectory* analytically: a one-third
+  increase in battalions is real capacity growth, but it is still a
+  centrally raised, centrally deployed force covering 28 disaster-prone
+  States/UTs, which is precisely why s. 44A's enabling power for **State**
+  Disaster Response Forces matters — the constraint is not NDRF's size
+  alone but the absence of an equally professionalised State tier
+  beneath it.
 - ⚠️ **NPDRR's composition signals the Centre's convening role, not
   binding State compliance power:** it is chaired by the Union Home
   Minister with State ministers and select mayors/MPs as members and
@@ -102,15 +121,22 @@ analogue of the risk-creation loop developed in topic `01`.
 
 ## 5. Technology/data and warning limits
 
-- ⚠️ A **national disaster database** under Sections 8A/8B/9B of the 2025
-  Amendment Act would, if fully rolled out, address a documented gap:
-  the NDMP 2016's absence of costed, time-bound, tracked targets
-  (Section 2) is partly a *data* problem — without standardised
-  loss/damage/expenditure data, no plan can set measurable targets.
-  📰 The Act itself is in force from 9 April 2025; verify the
-  database's actual operational rollout and scope against the current
-  official Act text and notifications before citing implementation
-  specifics.
+- ⚠️ A **national disaster database** — defined at **s. 2(da)** and
+  assigned to NDMA to *create* at **s. 6(2)(v)**, with SDMAs required to
+  maintain State databases feeding into it at **s. 18(2)(p)** — would, if
+  fully rolled out, address a documented gap: the NDMP 2016's absence of
+  costed, time-bound, tracked targets (Section 2) is partly a *data*
+  problem, since without standardised loss/damage/expenditure data no
+  plan can set measurable targets, and no Sendai Target C/D reporting is
+  possible. ⚠️ Note the statutory verb is "**create**," not "maintain and
+  publish" — an advanced answer can fairly observe that the Act does not
+  itself mandate public disclosure or a reporting periodicity, so
+  transparency remains a design choice rather than a statutory guarantee.
+  📰 The Act is in force from 9 April 2025 and MHA restated the database
+  mandate on 11 February 2026; the database's actual operational rollout
+  and scope still require separate verification, and it should not be
+  confused with NDMA's much older 2012 *National Disaster Management
+  Information and Communication System* guideline.
 
 ## 6. Vulnerability, equity and community lens
 
@@ -154,9 +180,14 @@ analogue of the risk-creation loop developed in topic `01`.
   Moily) recommended a separate **Disaster Mitigation Fund**,
   earmarking 10% of centrally sponsored scheme allocations for permanent
   restoration, and a 15% annual SDRF corpus increase for 2020-25 (PDF p.
-  15) — ⚠️ document-period recommendations; their actual adoption status
-  and any successor Finance Commission award must be verified officially
-  before being cited as implemented policy.
+  15). 📰 The core recommendation was subsequently acted on: the
+  **Fifteenth Finance Commission** (2021-26) created a National and State
+  Disaster Risk Management Fund each split **80:20 between response and
+  mitigation**, and the **Sixteenth Finance Commission** (report submitted
+  17 November 2025, award period 2026-31) retained the 80:20 State split
+  while introducing a **Disaster Risk Index** weighting. Cite those
+  awards, not the 2019 report, for current fund levels — full figures in
+  topic `16`.
 - 📰 Any current claim about NDRF-the-fund's corpus, NCCD revenue, or
   SDRF allocation rates must be sourced to a dated MHA/Finance
   Commission document, not VisionIAS's 2015-16/2018-19 NCCD revenue
@@ -164,18 +195,24 @@ analogue of the risk-creation loop developed in topic `01`.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)**, MHA/
-  National Disaster Management Division, gazette-notified 8 April 2025,
-  in force from **9 April 2025** — the correct dated anchor for any
-  claim about India's current statutory DM architecture; Sections 8A,
-  8B, 9B and 41A are operative law. Any claim about a *specific
-  implementation action* under these sections (e.g. a named State's
-  Urban DM Authority, disaster-database rollout) still requires the
-  relevant notification to be verified, but the Act's own commencement
-  is settled and must not be described as uncertain or provision-wise
-  pending.
+- 📰 **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)**,
+  assented and gazetted **29 March 2025**, in force **with effect from
+  9 April 2025** — the correct dated anchor for any claim about India's
+  current statutory DM architecture; **ss. 8A, 8B, 41A, 44A, 60A and 76A**
+  are operative law, and there is **no s. 9B**. Any claim about a
+  *specific implementation action* under these sections (e.g. a named
+  State's Urban DM Authority, disaster-database rollout) still requires
+  the relevant notification to be verified, but the Act's own
+  commencement is settled and must not be described as uncertain or
+  provision-wise pending.
 - ❌ Do not describe the DM Act, 2005 in its original, unamended form as
   the complete current legal position.
+- ❌ Do not describe the DM Act's district tier as fiscally unprovided
+  for: **s. 48** expressly contemplates District Disaster Response and
+  Mitigation Funds. The gap is that the Sixteenth Finance Commission
+  reported (1 February 2026) Union- and State-level funds constituted
+  with **district-level funds the exception** — an implementation gap, not
+  a drafting gap, and a sharper formulation of Section 8's critique.
 
 ## 11. PYQ-based analytical application
 
@@ -205,10 +242,11 @@ database, urban authority) are implemented with the specificity the
    district/local capacity — rather than describing the structure
    generically.
 3. **Cite the 2025 Amendment Act** as the current legal anchor, noting it
-   is in force from 9 April 2025 (Sections 8A, 8B, 9B, 41A operative),
-   with the explicit caveat that a *named implementation action* under
-   it (e.g. a specific State's Urban DM Authority) needs its own
-   notification verified (Section 10).
+   was gazetted 29 March 2025 and is in force from 9 April 2025 (ss. 8A,
+   8B, 41A, 44A operative), with the explicit caveat that ss. 41A and 44A
+   are *enabling* — a *named implementation action* under them (e.g. a
+   specific State's Urban DM Authority) needs its own notification
+   verified (Section 10).
 4. **Note the parallel security-escalation channel** (CCS/NCMC, Section
    3) where relevant, distinguishing it from the ordinary DM cascade.
 5. **Identify the financing gap** (Section 9) underlying implementation

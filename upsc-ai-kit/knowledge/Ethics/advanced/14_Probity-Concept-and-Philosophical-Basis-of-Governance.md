@@ -3,8 +3,9 @@
 > **Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV.
 > **Core area:** Deeper philosophical and institutional treatment of probity, good governance and
 > their theoretical foundations.
-> **Grounded in:** 2nd ARC 4th Report *Ethics in Governance* (2007); UN-ESCAP good-governance
-> framework (ARC National Colloquium); audited GS-IV PYQs (2024-2025 Mains).
+> **Grounded in:** 2nd ARC, 4th Report *Ethics in Governance* (2007); the UNESCAP good-governance
+> formulation quoted in ARC Annexure-I(1) (National Colloquium, 2006); audited GS-IV PYQs (2014,
+> 2019, 2023 and 2024 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/14_Probity-Concept-and-Philosophical-Basis-of-Governance.md`.*
 
@@ -43,7 +44,7 @@ a personal-virtue one.
 | ⚠️ **Public trust doctrine (fiduciary framing)** | Public office/authority/resources are held by the official *in trust* for citizens, not as personal entitlement — any private benefit extracted from that trust, even if legally permissible, is a probity concern. |
 | ⚠️ **Procedural vs substantive probity** | Procedural probity concerns whether decisions followed transparent, auditable, rule-bound processes; substantive probity concerns whether the actual outcome served the public interest — both are necessary, and a process can be procedurally impeccable while substantively serving a narrow interest (or vice versa). |
 | ⚠️ **Presumption of regularity vs presumption of suspicion** | Good governance design must balance a workable presumption that officials act in good faith (protecting honest risk-taking, see `21`) against sufficient verification mechanisms to catch genuine misconduct — an unresolved design tension in any probity framework. |
-| ✅ **UN-ESCAP's eight good-governance characteristics** | Participatory, consensus-oriented, accountable, transparent, responsive, effective/efficient, equitable/inclusive, rule-of-law-based — cited at the ARC's National Colloquium as the internationally recognised governance standard within which probity operates. |
+| ✅ **UNESCAP's eight good-governance characteristics** | Participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and follows the rule of law — cited in ARC Annexure-I(1) as the internationally recognised governance standard within which probity operates. |
 
 ## 3. Detailed treatment
 
@@ -94,10 +95,18 @@ a personal-virtue one.
 
 ## 4. Institutional and reform architecture
 
-- ✅ India's asset-disclosure regime for legislators (Representation of the People Act, Section 75A,
-  2002/2003 — ARC 2.5.6.1) and for civil servants (annual immovable-property returns under All India
-  Services Conduct Rules) are the primary domestic probity-verification instruments, converting
-  private financial conduct into an auditable public record.
+- ✅ India's asset-disclosure regime for Members of Parliament (Representation of the People Act,
+  1951, Section 75A, inserted 2002 — ARC 2.5.6.1; the Members of Lok Sabha and Members of Rajya
+  Sabha (Declaration of Assets and Liabilities) Rules, 2004) and for civil servants (annual
+  immovable-property returns under Rule 18 of the CCS (Conduct) Rules, 1964 for Group A and B
+  officers, and Rule 16 of the All India Services (Conduct) Rules, 1968) are the primary domestic
+  probity-verification instruments, converting private financial conduct into an auditable record.
+- ⚠️ 📰 Section 44 of the Lokpal and Lokayuktas Act, 2013 — as substituted by the 2016 amendment,
+  retrospectively from 16 January 2014 — now reads simply that "every public servant shall make a
+  declaration of his assets and liabilities in such form and manner as may be prescribed." The
+  earlier, more elaborate statutory publication regime is therefore **not** the current text; in
+  practice DoPT continues to rely on the existing service-rule returns. Do not describe a universal
+  public online asset-declaration duty as the current Lokpal Act position.
 - ⚠️ Concurrent/real-time audit and digital expenditure-tracking (see `11`) extend probity
   verification from periodic, retrospective disclosure to near-continuous institutional visibility.
 
@@ -123,11 +132,12 @@ a personal-virtue one.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ UN-ESCAP's eight good-governance characteristics were cited at the ARC's National Colloquium
-  (2006) as the internationally recognised governance standard.
-- ✅ Representation of the People Act Section 75A (inserted via the 2002 Ordinance, later the Third
-  Amendment Act, 2002) mandates asset/liability disclosure by elected legislators within 90 days of
-  taking oath.
+- ✅ UNESCAP's eight good-governance characteristics are quoted in ARC Annexure-I(1) (National
+  Colloquium, 2006) as the internationally recognised governance standard.
+- ✅ Section 75A of the Representation of the People Act, 1951 (inserted by the Third Amendment Act,
+  2002) mandates asset/liability disclosure by elected candidates for a House of **Parliament**
+  within 90 days of taking oath. ⚠️ ARC 2.5.6.1's paraphrase adds "or the Legislature of the State",
+  which the enacted text does not support.
 - ⚠️ The public-trust doctrine, as applied in Indian jurisprudence (*M.C. Mehta v. Kamal Nath*, 1997),
   originated in the context of natural-resource management, and its extension to public-office
   conduct generally is an analytical/philosophical extension rather than settled case law.
@@ -153,13 +163,13 @@ a personal-virtue one.
 
 ## 10. PYQ-based analytical application
 
-- ✅ **2013 GS-IV** requires a three-part answer: precise meaning of probity,
+- ✅ **2014 GS-IV Q4** requires a three-part answer: precise meaning of probity,
   current obstacles, and measures to overcome them; use the
   individual-integrity plus institutional-verifiability distinction.
-- ✅ **2023 GS-IV** connects probity to effective governance and
-  socio-economic development, then asks for measures; show the causal link
-  before listing disclosure, audit, conflict-of-interest and accountability
-  safeguards.
+- ✅ **2019 GS-IV Q5(a)** asks for the meaning of probity in governance and then for measures to
+  ensure it; **2023 GS-IV Q5(b)** asks you to discuss probity as essential to effective governance
+  and socio-economic development. Show the causal link before listing disclosure, audit,
+  conflict-of-interest and accountability safeguards.
 - ✅ 2024 GS-IV Q6(a)'s "high standards of probity" phrase rewards an answer that explicitly defines
   probity as demonstrable/verifiable (not merely personal) rectitude, then proposes specific
   institutional measures (transparent posting/appraisal criteria, harassment-redress documentation)
@@ -178,7 +188,7 @@ individual honesty alone.
 2. Ground the definition philosophically (public-trust doctrine, deontological duty, virtue ethics).
 3. Name the specific institutional mechanism that would make the conduct in question verifiable.
 4. Apply risk-graded scrutiny reasoning if the question involves discretion/documentation trade-offs.
-5. Conclude by linking individual probity to the systemic good-governance characteristics (UN-ESCAP).
+5. Conclude by linking individual probity to the systemic good-governance characteristics (UNESCAP).
 
 ## 12. Probable questions
 

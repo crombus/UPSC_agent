@@ -104,6 +104,12 @@ systems" (PDF p. 51).
 - ✅ **Atomic Energy Regulatory Board (AERB)** — India's nuclear
   regulatory authority under the Atomic Energy Act, 1962 (PDF pp.
   55-56).
+- 📰 **The NDMA guideline set for this hazard family** — **Guidelines on
+  Chemical Disasters (April 2007)**, **Guidelines on Management of
+  Nuclear and Radiological Emergencies (February 2009)** and
+  **Guidelines on Medical Preparedness and Mass Casualty Management
+  (October 2007)** — name the specific document and year rather than
+  "NDMA guidelines" generically.
 - ✅ **Indian Coast Guard's National Oil Spill Disaster Contingency Plan
   (NOSDCP)** — coordinated multi-agency oil-spill response strategy
   (25th NOSDCP meeting cited at Vadinar, Gujarat, 23 November 2023);
@@ -130,6 +136,10 @@ systems" (PDF p. 51).
   liability" and established the Environmental Relief Fund (2008).
 - ✅ AERB is India's nuclear regulatory authority; DAE is the nodal
   agency for radiological emergencies.
+- 📰 NDMA guideline years for this hazard family: **Chemical Disasters
+  (April 2007)**, **Nuclear and Radiological Emergencies (February
+  2009)**, **Medical Preparedness and Mass Casualty Management (October
+  2007)**.
 - ✅ Four nuclear-radiation protection principles: time, distance,
   shielding, containment.
 - ✅ Oilzapper and Oilivorous-S are TERI-developed (the latter jointly

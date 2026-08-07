@@ -6,8 +6,10 @@
 > → structure → conclusion → revision answer engine, plus summary
 > routing for the 16 recent prompts, with the full 100-prompt ledger in
 > `PYQ-Corpus-2013-2025.md`.
-> **Grounded in:** verified 2013-2025 UPSC Essay corpus (100 prompts; see
-> `PYQ-Corpus-2013-2025.md`); linked GS
+> **Grounded in:** the 2013-2025 UPSC Essay corpus (100 prompts, each
+> carrying a verification level; see `PYQ-Corpus-2013-2025.md` — 2024 and
+> 2025 read directly from local official PDFs, 2013-2023 not locally
+> verifiable); linked GS
 > subject modules; dated sources where used.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ audited paper fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -16,11 +18,16 @@
 
 ## 1. What this paper actually tests
 
-✅ Both recent papers require **two essays, one topic chosen from each
-of two displayed Sections**, each about **1000–1200 words** — 2024
-prints "(125 × 2 = 250)"; 2025's extraction does not show a marks line,
-but the two-essay, two-section structure is explicit and identical in
-both years (see `README.md` for exact wording). ⚠️ Read as a skill test,
+✅ Both V1 papers (2024, 2025 — read directly from the PDFs in
+`books/mains/`) require **two essays, one topic chosen from each of two
+displayed Sections**, each about **1000–1200 words**. ✅ 2024 additionally
+prints "(125 × 2 = 250)"; ❌ the locally held 2025 copy prints neither a
+marks line nor a "Time Allowed" header, so this folder asserts no duration
+and no 2025 marks split. ✅ Printed numbering differs between the two
+years — 2024 restarts Section B at 1–4, 2025 continues it at 5–8 — and
+2025's English instruction line is garbled in the source ("Sections A as
+in"); both facts are logged in `README.md`, which is this folder's single
+source of truth for prompt wording. ⚠️ Read as a skill test,
 the paper rewards: accurate decoding of a compressed proposition,
 disciplined multidimensional thinking, one defensible and sustained
 thesis, argument tested against counter-view, safe and proportionate
@@ -54,6 +61,14 @@ Each stage has its own basic/advanced pair: decode = `02`/`03`; expand =
 `04`; thesis/argument = `05`/`08`; lenses = `10`/`11`; evidence = `09`/
 `12`; structure/conclusion = `06`/`07`; revision = `14`/`15`; execution
 under time = `13`; practice = `16`.
+
+⚠️ **This chain is a scaffold, not a guarantee.** It exists to make gaps
+visible — a missing mechanism, an untested counter-view, an unearned
+conclusion. It is not a marking formula, no examiner is known to reward
+it, and a prompt that is better served by a different movement of thought
+should get that instead. ❌ An essay that visibly executes the chain while
+saying nothing contestable is worse than one that ignores the chain and
+argues something real.
 
 ## 3. Paper-selection engine
 
@@ -168,8 +183,8 @@ Full method in `14` (language/style) and `15` (self-evaluation).
 | Prompt | Primary route | One-line interpretive core |
 |---|---|---|
 | 2024-A1 Forests…deserts | `02, 04, 05, 11, 12` | Ecological precondition and warning against extractive civilisation; regenerative development as synthesis. |
-| 2024-A2 Empires…mind | `02, 05, 09, 11, 12` | "Empire" as power through knowledge/innovation; inclusive knowledge-power as synthesis. |
-| 2024-A3 Happiness…path | `02, 05, 06, 10, 12` | Process/conduct over deferred destination; flourishing as process and social condition. |
+| 2024-A2 Empires…mind | `02, 05, 09, 11, 12` | "Empire" as power through knowledge/innovation; inclusive knowledge-power as synthesis. (Printed as "empires of the **futures**".) |
+| 2024-A3 Happiness…path | `02, 05, 06, 10, 12` | Process/conduct over deferred destination; flourishing as process and social condition. (Printed with a comma, not a semicolon.) |
 | 2024-A4 Doubter…science | `02, 08, 09, 11` | Disciplined doubt (falsifiability, correction) vs. denialism; scientific temper in policy. |
 | 2024-B5 FOMO…youth | `03, 04, 08, 09, 10, 11, 12` | Platform design and social comparison; agency plus humane digital design as synthesis. |
 | 2024-B6 Power tests character | `02, 05, 08, 10, 12` | Discretionary power vs. adversity; accountable power as synthesis. |
@@ -201,9 +216,21 @@ reproduce that module's theory or fact bank inside an Essay file.
 
 ## 13. Source and risk-ledger protocol
 
-- **Prompt wording:** quote the official/corrected ledger, not raw OCR; no
-  author attribution unless independently verified against a primary/
-  authoritative source (see `README.md`, `09`, `16`).
+- **Prompt wording:** quote `README.md`/`PYQ-Corpus-2013-2025.md`, and
+  respect the verification level. ✅ V1 rows (2024, 2025) may be quoted
+  verbatim including printed defects; ⚠️ V2 rows (2013-2023) should be
+  paraphrased or re-checked against the official paper before verbatim
+  use. ❌ No author attribution unless independently verified against a
+  primary/authoritative source (see `README.md`, `09`, `16`).
+- **Printed defects:** ❌ never silently normalise a UPSC prompt into
+  better English. 2024-A2's "futures", 2024-A3's comma splice, 2024-B5's
+  missing comma and 2025's garbled instruction line are all recorded as
+  printed. Reproduce them; do not argue from them.
+- **Paper metadata:** ✅ assert only what a locally held paper prints —
+  the two-essay/two-section rule and the 1000–1200-word range (both
+  years), and "(125 × 2 = 250)" (2024 only). ❌ Do not assert a duration,
+  a 2025 marks split, a paragraph count, or any marking rubric: none is
+  printed in either locally held copy.
 - **Familiar aphorisms found elsewhere on the web with uncertain
   attribution:** ❌ do not attribute; use only as an unattributed
   proposition, or omit.

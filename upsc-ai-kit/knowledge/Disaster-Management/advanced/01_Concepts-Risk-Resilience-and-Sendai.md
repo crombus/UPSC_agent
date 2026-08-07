@@ -82,7 +82,24 @@ loop, is analytically incomplete.
   weakness: Sendai sets seven *global* targets but, being non-binding,
   has no enforcement mechanism against any single member state's
   performance — the same accountability gap recurs at both the domestic
-  and global level.
+  and global level. ⚠️ Note the sharper internal asymmetry: **Targets
+  A-D** measure loss outcomes, which no state controls unilaterally,
+  while **Targets E-G** measure means of implementation — strategies,
+  cooperation, warning coverage — which states *do* control. Target E
+  (national and local DRR strategies) alone carried a **2020** deadline
+  and is the only target on which a country can be straightforwardly held
+  to account; an advanced answer should note that the framework's
+  measurable commitments are also its least demanding ones.
+- 📰 **The 2023 Midterm Review is the point at which this weakness became
+  official.** The High-Level Meeting of **17-19 May 2023** adopted a
+  Political Declaration, issued as **UN General Assembly resolution
+  77/289** — a renewed political commitment rather than a binding
+  correction, which is exactly the evidence an answer needs to argue that
+  Sendai's accountability deficit was acknowledged rather than remedied.
+  📰 The concrete operational response was **Early Warnings for All**
+  (2022; target **2027**; UNDRR/WMO/ITU/IFRC pillars), i.e. progress was
+  pursued on **Target G** — a means target — rather than on the
+  loss-reduction targets.
 
 ## 4. Evidence and Indian applications
 

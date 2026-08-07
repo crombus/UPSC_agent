@@ -42,7 +42,7 @@ of occurrence (PDF pp. 19-20).
 |---|---|
 | ✅ **Fault** | Areas of stress at plate boundaries that release accumulated energy by slipping or rupturing, generating seismic waves (PDF p. 19). |
 | ✅ **Magnitude vs. intensity** | Magnitude is commonly measured on the moment magnitude scale (Mw) for large events (the Richter scale is an older, magnitude-limited local scale); intensity describes observed effects and may be expressed on the Modified Mercalli Intensity (MMI) or MSK scale — magnitude and intensity are distinct measurement dimensions of the same event (PDF p. 19, updated per current seismological practice). |
-| ✅ **Seismic zones of India** | IS 1893 (Part 1): 2016 defines four zones (II-V) by expected seismic intensity/hazard; Zone V (highest hazard) comprises the whole of North-East India and the Andaman & Nicobar Islands, plus parts of northern Bihar, Jammu & Kashmir/Ladakh, Himachal Pradesh, Uttarakhand and Gujarat; most of India lies in Zones II and III (PDF p. 20, updated per IS 1893:2016). |
+| ✅ **Seismic zones of India** | IS 1893 (Part 1): 2016 defines four zones (II-V) by expected seismic intensity/hazard; Zone V (highest hazard) comprises the whole of North-East India and the Andaman & Nicobar Islands, plus parts of northern Bihar, Jammu & Kashmir/Ladakh, Himachal Pradesh, Uttarakhand and Gujarat; most of India lies in Zones II and III (PDF p. 20, updated per IS 1893:2016). 📰 Approximate share of India's land area: **Zone V ~11%, Zone IV ~18%, Zone III ~30%**, with **~59% of the landmass** prone to earthquakes of moderate-to-severe intensity (Zones III-V), the balance in Zone II (PIB/MoES, 30 July 2021). |
 | ✅ **Alpine-Himalayan Belt** | The convergent boundary where the Indian plate meets the Eurasian plate, thrusting at ~5 cm/year, making fourteen States across the western/central Himalayas, North-East and Indo-Gangetic basin highly earthquake-prone (PDF p. 20). |
 | ✅ **NDMA's six pillars of seismic safety** | (1) Earthquake-resistant construction of new structures; (2) selective seismic strengthening/retrofitting of priority and lifeline structures; (3) regulation and enforcement; (4) awareness and preparedness; (5) capacity development; (6) emergency response (PDF pp. 21-22). |
 
@@ -89,17 +89,27 @@ of occurrence (PDF pp. 19-20).
 
 - ✅ **National Centre for Seismology** — office of the Ministry of Earth
   Sciences; submits earthquake surveillance and hazard reports to
-  government agencies; developed the "India Quake" app (PDF pp. 21-22).
+  government agencies; developed the earthquake-parameter dissemination
+  app recorded by VisionIAS as "India Quake" (PDF pp. 21-22). 📰 NCS
+  operated a National Seismological Network of **170 observatories**, and
+  currently identifies its official earthquake-information app as
+  **BhooKamp** (PIB/MoES, 1 April 2026).
 - ✅ **National Building Code (NBC)** — comprehensive guidelines for
   building-construction materials, planning, design and construction
   practices, protecting structural sufficiency, fire safety and health
-  (PDF p. 21).
-- ✅ **Building Materials and Technology Promotion Council (BMPTC)** —
+  (PDF p. 21). 📰 NDMA has issued a **Simplified Guideline for Earthquake
+  Safety of Buildings from the National Building Code of India 2016**
+  (May 2021) and **Guidelines on Seismic Retrofitting of Deficient
+  Buildings and Structures** (June 2014) alongside the 2007 earthquake
+  guidelines that supply the six pillars.
+- ✅ **Building Materials and Technology Promotion Council (BMTPC)** —
   promotes resource-efficient, disaster-resistant construction and
   lifeline-structure retrofitting; also produces the Vulnerability Atlas
   of India (third edition, 2019), covering earthquake, wind, flood,
   landslide, cyclone and thunderstorm-frequency hazards State/UT-wise,
-  plus housing-stock vulnerability (PDF p. 18).
+  plus housing-stock vulnerability (PDF p. 18). ⚠️ VisionIAS renders the
+  acronym "BMPTC" (PDF p. 18); the Council's own official abbreviation is
+  **BMTPC** — use that spelling.
 
 ## 6. India applications and examples
 
@@ -123,11 +133,17 @@ of occurrence (PDF pp. 19-20).
   V is the highest-hazard zone, covering the whole of North-East India
   and Andaman & Nicobar, plus parts of northern Bihar, J&K/Ladakh,
   Himachal Pradesh, Uttarakhand and Gujarat.
+- 📰 Approximate land-area shares: Zone V ~11%, Zone IV ~18%, Zone III
+  ~30%; **~59% of India's landmass** is prone to moderate-to-severe
+  earthquakes (Zones III-V) (PIB/MoES, 30 July 2021).
+- 📰 The National Seismological Network comprised **170 observatories**;
+  NCS/MoES's official earthquake app is **BhooKamp** (PIB/MoES, 1 April
+  2026).
 - ✅ The Indian plate thrusts beneath the Eurasian plate at approximately
   5 cm/year (a convergent boundary).
 - ✅ NDMA's earthquake-management guidelines rest on six pillars of
   seismic safety.
-- ✅ The Vulnerability Atlas of India (BMPTC, third edition, 2019) maps
+- ✅ The Vulnerability Atlas of India (BMTPC, third edition, 2019) maps
   earthquake, wind, flood, landslide, cyclone and thunderstorm-frequency
   risk by State/UT.
 
@@ -148,17 +164,25 @@ of occurrence (PDF pp. 19-20).
   India, Lakshadweep and Andaman & Nicobar as seismically active zones
   (PDF p. 20).
 - ❌ The Vulnerability Atlas of India's "third edition, 2019" is
-  necessarily the current edition today. -> Verify against BMPTC's
+  necessarily the current edition today. -> Verify against BMTPC's
   current published edition before citing as the latest.
 
 ## 9. 📰 Current official anchor
 
-- 📰 **National Centre for Seismology's public surveillance/service
-  portal**, checked as of the 18 July 2026 research cutoff, is the
-  correct current anchor for real-time seismic monitoring status,
-  "India Quake" app functionality and any current seismic-hazard-zoning
-  update — VisionIAS's Richter/Mercalli and zonal description should be
-  cross-checked against this source for any numerically precise claim.
+- 📰 The **National Centre for Seismology (Ministry of Earth Sciences)**
+  is the correct current anchor for real-time seismic monitoring status,
+  network size and app functionality: NCS operated **170 observatories**
+  and identifies **BhooKamp** as its official earthquake-information app
+  (PIB/MoES, 1 April 2026).
+- 📰 **Seismic zoning is still IS 1893 (Part 1): 2016.** A proposed
+  revised zonation was **withdrawn in March 2026** (PIB/MoES, 1 April
+  2026) — a textbook instance of the announced-versus-implemented
+  distinction. ❌ Do not describe India as having a new five-zone or
+  revised seismic map; the four-zone IS 1893:2016 scheme remains the
+  operative standard.
+- ⚠️ VisionIAS's Richter/Mercalli description and its zonal State list
+  should be cross-checked against this source before any numerically
+  precise claim.
 
 ## 10. PYQ application
 

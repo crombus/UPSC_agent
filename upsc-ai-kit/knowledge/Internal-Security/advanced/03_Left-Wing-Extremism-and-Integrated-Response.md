@@ -7,7 +7,10 @@
 > as a distinct strategic pillar.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
 > India*, PDF pp. 58-65; `00_Master-Framework.md` Sections 3-6; audited
-> GS-III syllabus; MHA parliamentary reply, 4 February 2026.
+> GS-III syllabus; MHA National Policy and Action Plan to address LWE
+> (2015); MHA parliamentary reply, 4 February 2026; PIB "Naxal-Free
+> India" explainer (June 2026); FRA 2006 and PESA 1996 as published in
+> India Code.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/03_Left-Wing-Extremism-and-Integrated-Response.md`.*
 
@@ -34,6 +37,8 @@ cover general communal/identity conflict (folded into topics 02, 04, 05,
 | ✅ **Administrative-hurdle typology** | ✅ Singh lists specific hurdles: poor infrastructure/manpower shortage; absence of routine administration enabling parallel taxation; inter-State boundary exploitation (the Dandakaranya trijunction problem); lack of professionalism between central forces and state police; and differing State policies on surrender/talks allowing cross-border escape (PDF pp. 61-62). |
 | ⚠️ **Security-first vs. development-first sequencing** | Singh's own text argues implicitly for a security-precedes-development sequence ("security needs to be established before development can come," PDF p. 63) while simultaneously warning that security without addressing root causes will fail — the two claims must be reconciled as *sequenced*, not *either/or*. |
 | ✅ **Psychological operations as a distinct pillar** | ✅ Singh names this explicitly, separate from security and development: "delegitimize the movement," manage media/public perception, and have "administration... engage with public at large, civil society, NGOs to restore people's faith" (PDF p. 64) — trust restoration is treated as its own strategic track, not a by-product of security or development success. |
+| ⚠️ **Clear vs. hold vs. develop — three separable capabilities** | Clearing is a *force* capability; holding is an *administrative presence* capability (police station, revenue and welfare staff physically resident); developing is a *delivery* capability. ⚠️ India's LWE record shows the binding constraint has usually been the second, not the first — which is why fortified police stations, road connectivity and mobile-tower projects appear in the scheme list alongside battalions. A decline in incidents evidences clearing; only a sustained administrative presence evidences holding. |
+| ⚠️ **De-listing a district vs. resolving its grievances** | The "LWE-affected" and "most-affected" district lists are administrative classifications that drive scheme eligibility (SRE, SCA) and force deployment. ⚠️ De-listing therefore changes the *resource* position of the district as well as its security label — which is an argument for tapering, rather than abruptly ending, development support in recently de-listed districts if reversibility is to be avoided. |
 
 ## 3. Causal model
 
@@ -98,7 +103,20 @@ not, by itself, confirm.
   of the development strategy's rights dimension (Singh, PDF p. 63) —
   ⚠️ implementation quality (title distribution pace, community-forest-
   rights recognition) is the recurring practical gap examiners expect
-  candidates to flag, not the Act's mere existence.
+  candidates to flag, not the Act's mere existence. ⚠️ **PESA, 1996** adds
+  the procedural half of the same rights claim in Fifth Schedule areas —
+  Gram Sabha consultation before land acquisition and over minor minerals
+  — which matters precisely because LWE intensity correlates with
+  mineral-belt project activity (Singh, PDF p. 58). An answer that names
+  FRA without PESA names the entitlement without the procedure by which
+  communities can assert it.
+- ⚠️ **Rights delivery as a security instrument, not a parallel track:**
+  MHA's 2015 policy makes "ensuring rights and entitlements of local
+  communities" a *prong of the counter-LWE strategy*, not a humanitarian
+  add-on. ⚠️ The analytical consequence is that a failure of FRA/PESA
+  implementation is a *security* failure in this theatre, and can be
+  argued as such — a framing that distinguishes an advanced answer from a
+  "development is also important" gesture.
 - 📰 **Current-anchor institutional detail:** verify current SRE/SIS/IAP-
   successor scheme names, district coverage and the present force posture
   in the most-affected districts from the MHA Annual Report 2024-25 or
@@ -111,7 +129,13 @@ not, by itself, confirm.
   surrenders, talks and policing strategy are also exploited by the
   Maoists" (PDF p. 62) — a genuine federal-design boundary case: uniform
   Central guidance versus State-specific rehabilitation packages, each
-  with trade-offs for consistency versus local adaptability.
+  with trade-offs for consistency versus local adaptability. ⚠️ Note also
+  the internal distinction: a **surrender** is a single verifiable event
+  producing a countable statistic; **rehabilitation** is a multi-year
+  outcome (livelihood, protection from reprisal, social acceptance) that
+  is rarely measured. Reporting the first as though it evidenced the
+  second is the LWE-specific form of the folder's arrest-versus-conviction
+  discipline.
 - ⚠️ **Civic Action Programme's "individual-oriented" pivot:** Singh notes
   a shift from a "project-oriented" to an "individual-oriented" approach
   under the "Winning Hearts and Minds" framing (PDF p. 61, book-period) —
@@ -153,7 +177,13 @@ not, by itself, confirm.
   operations — is Singh's own explicit structuring device, not an
   externally imposed framework.
 - ✅ The Forest Rights Act, 2006 is named specifically as part of the
-  rights dimension of the development strategy.
+  rights dimension of the development strategy; PESA, 1996 supplies the
+  Gram Sabha consultation procedure in Fifth Schedule areas.
+- ✅ MHA's National Policy and Action Plan (2015) is three-pronged:
+  security, development, and rights/entitlements of local communities.
+- ✅ CPI (Maoist) is listed as a terrorist organisation under the First
+  Schedule of the UAPA, which is what brings UAPA charges and NIA
+  jurisdiction into LWE cases.
 - 📰 MHA's 4 February 2026 reply reports a 73% decline in violence and an
   86% decline in deaths since 2010, and a footprint reduction from 126
   districts in 2013 to 38 in 2024, alongside the stated 31 March 2026

@@ -90,6 +90,26 @@ felt immediately" (PDF p. 6).
 - ✅ **Suva Expert Dialogue (COP23)** — a direct developing-country
   advocacy outcome, mobilising expertise/finance/technology/capacity-
   building support for loss-and-damage response (PDF p. 64).
+- ✅ **Ecosystem-based disaster risk reduction (Eco-DRR)** — the
+  adaptation instrument VisionIAS documents without naming: mangroves,
+  coastal forests, sand dunes and cliffs "provided the best natural
+  barriers" in 2004, with heavy damage where dunes had been mined (PDF
+  p. 23); bio-shields, mangrove/coastal-forest plantation and coral reefs
+  are listed as tsunami mitigation (PDF p. 24); saline embankments and
+  coastal bio-shields as cyclone mitigation (PDF pp. 36-37); catchment-
+  area treatment and afforestation as flood mitigation (PDF pp. 28-29);
+  and "ecosystem-based management" as a named non-structural resilient-
+  infrastructure measure (PDF p. 64). ⚠️ Its analytical value is that a
+  single ecosystem asset delivers **hazard buffering, carbon storage and
+  livelihood support simultaneously** — making Eco-DRR the clearest
+  overlap between adaptation and disaster risk reduction, and the
+  strongest answer to a question asking how the two agendas converge.
+- 📰 **Eco-DRR is now financed, not merely recommended, in India:** MHA
+  reported (11 February 2026) that the High Level Committee approved
+  **₹692.05 crore from the National Disaster Mitigation Fund for wetland
+  restoration and rejuvenation in Assam** — a citable instance of
+  ecosystem restoration being funded as *disaster mitigation* rather than
+  as an environment programme (topic `16`).
 
 ## 6. India applications and examples
 
@@ -114,6 +134,15 @@ felt immediately" (PDF p. 6).
 - ✅ The Suva Expert Dialogue was decided at COP23 (Bonn).
 - ✅ Paris Agreement Article 8 addresses averting/minimising/addressing
   loss and damage.
+- ✅ **Eco-DRR** examples from the source: mangroves, coastal forests,
+  sand dunes and cliffs as the best natural barriers in 2004;
+  bio-shields and coral reefs (tsunami); saline embankments and coastal
+  bio-shields (cyclone); catchment-area treatment and afforestation
+  (flood); ecosystem-based management as a non-structural resilient-
+  infrastructure measure.
+- 📰 **₹692.05 crore was approved from the National Disaster Mitigation
+  Fund for wetland restoration/rejuvenation in Assam** (MHA, 11 February
+  2026) — Eco-DRR financed as disaster mitigation.
 - ✅ Disaster-displaced persons are not automatically recognised as
   refugees under the 1951 Refugee Convention's persecution-based
   definition; their protection depends on domestic law and non-binding

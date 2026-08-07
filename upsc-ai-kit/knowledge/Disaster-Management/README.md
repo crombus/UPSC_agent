@@ -1,5 +1,7 @@
 # Disaster Management - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Disaster Management | **GS Paper:** GS-III (disaster and
 > disaster management — includes both natural and man-made disasters,
 > covering prevention, mitigation, preparedness, response, recovery and
@@ -30,19 +32,36 @@
   misconception, or what this folder does **not** cover.
 - **Date discipline — VisionIAS-period vs current:** the VisionIAS
   material is a "2024 update" but still carries several **pre-2025**
-  institutional descriptions (e.g. NDRF at "12 Battalions" — PDF p. 13;
+  institutional descriptions (e.g. NDRF at "12 Battalions" — PDF p. 13,
+  against **16 operational battalions** reported by MHA on 22 July 2025;
   the National Disaster Management Plan of **2016** — India's first
   edition — described as the operative plan, superseded by the
   **revised NDMP, 2019** — PDF p. 14; NDMA's National Policy on Disaster
   Management of **2009**; the 2019 Standing Committee on Finance report
-  on SDRF/NDRF funding — PDF p. 15). Every such fact is labelled
-  **document-period evidence** and is never presented as the current
-  state of affairs. Current facts — especially the **Disaster Management
-  (Amendment) Act, 2025 (Act 10 of 2025)** (gazette-notified 8 April
-  2025, in force from 9 April 2025; Sections 8A, 8B, 9B and 41A are
-  operative law) and any State/Central *implementation* action taken
-  under it — are cited only to a dated official source; the Act's own
-  commencement is settled and is not treated as uncertain.
+  on SDRF/NDRF funding — PDF p. 15, now overtaken by the **Fifteenth**
+  and **Sixteenth Finance Commission** disaster-fund awards). Every such
+  fact is labelled **document-period evidence** and is never presented as
+  the current state of affairs. Current facts — especially the **Disaster
+  Management (Amendment) Act, 2025 (Act 10 of 2025)** (assented to and
+  published in the Gazette on **29 March 2025**, brought into force
+  **with effect from 9 April 2025**; the newly inserted Sections **8A**
+  (National Crisis Management Committee), **8B** (High Level Committee),
+  **41A** (Urban Disaster Management Authority) and **44A** (State
+  Disaster Response Force) are operative law) and any State/Central
+  *implementation* action taken under it — are cited only to a dated
+  official source; the Act's own commencement is settled and is not
+  treated as uncertain.
+- **Statutory mandate vs operational practice:** an enabling power in the
+  Act ("the State Government **may**... constitute") is never reported as
+  a body that exists everywhere. Sections 41A and 44A are enabling
+  provisions; a *named* Urban Disaster Management Authority or State
+  Disaster Response Force exists only where a State has actually notified
+  it. Likewise an **announced guideline** (e.g. NDMA's 2010 Urban
+  Flooding recommendation of an Urban Flooding Cell) is distinguished
+  from an **implemented programme** (e.g. the Urban Flood Risk Management
+  Programme actually sanctioned from the National Disaster Mitigation
+  Fund), and **relief compensation** (SDRF/NDRF) is distinguished from
+  **risk financing** (SDMF/NDMF, insurance, catastrophe bonds).
 - **No stale-danger claims:** this folder does not claim precise
   earthquake prediction, does not treat an announced target as achieved
   merely because its date has arrived, and does not carry forward
@@ -87,21 +106,21 @@
 | # | Topic | Core exam area |
 |---|---|---|
 | 01 | Concepts, Risk, Resilience and Sendai | Hazard/exposure/vulnerability/capacity/risk; DM cycle; Sendai priorities and targets |
-| 02 | Indian Legal and Institutional Architecture | DM Act 2005 and 2025 Amendment Act (in force 9 Apr 2025); NDMA/SDMA/DDMA/NEC/NIDM/NDRF; plans and finance |
+| 02 | Indian Legal and Institutional Architecture | DM Act 2005 and 2025 Amendment Act (in force 9 Apr 2025; ss. 8A, 8B, 41A, 44A); NDMA/SDMA/DDMA/NEC/NIDM/NDRF; plans and finance |
 | 03 | Community-Based DRR and Inclusive Protection | Community as first responder; PRIs/ULBs/SHGs; disability, gender, children, elderly, migrants |
 | 04 | Multi-Hazard Early Warning and Disaster Technology | End-to-end warning chain; GIS/satellites; SACHET; impact-based forecasting |
 | 05 | Earthquake Risk and Resilient Construction | Seismic zones; codes, retrofitting; National Centre for Seismology |
 | 06 | Tsunami and Coastal Hazard Management | Indian Tsunami Early Warning System; INCOIS/ITEWC; coastal buffers |
 | 07 | Cyclones, Storm Surge and Coastal Preparedness | IMD warnings/colour codes; NCRMP; shelters and evacuation |
 | 08 | Riverine Floods and Urban Flood Resilience | Flood causation and zoning; urban flood distinctiveness; CWC/IMD forecasting |
-| 09 | Drought, Heat Waves and Slow-Onset Risk | Drought typology; Heat Action Plans; slow-onset/creeping emergencies |
+| 09 | Drought, Heat Waves and Slow-Onset Risk | Drought typology; Heat Action Plans; thunderstorm/lightning; slow-onset/creeping emergencies |
 | 10 | Landslides, Avalanches and GLOF Risk | Vulnerability zonation; GSI monitoring; Himalayan development-risk interface |
 | 11 | Forest Fire Risk Management | Causes, FSI FAST/Large Forest Fire Monitoring; community fire management |
 | 12 | Industrial, Chemical, Nuclear and CBRN Emergencies | MAH units; Chemical Accident Rules 1996; AERB; nuclear/radiological response |
 | 13 | Epidemics and Public Health Emergencies | Biological disasters; COVID-19/DM Act interface; surveillance and health-system surge |
-| 14 | Urban and Critical Infrastructure Resilience | Urban Flooding Cell (NDMA 2010 guideline recommendation); lifeline protection; CDRI; resilient infrastructure |
+| 14 | Urban and Critical Infrastructure Resilience | Urban Flooding Cell (NDMA 2010 guideline recommendation) and the implemented Urban Flood Risk Management Programme; crowd/stampede safety at mass gatherings; lifeline protection; CDRI; resilient infrastructure |
 | 15 | Climate Risk, Adaptation and Loss and Damage | Slow-onset risk; Warsaw Mechanism/Suva Dialogue; displacement |
-| 16 | Disaster Finance, Risk Transfer and Build Back Better | SDRF/NDRF/NCCF; risk transfer/insurance; Build Back Better |
+| 16 | Disaster Finance, Risk Transfer and Build Back Better | SDRF/NDRF/SDMF/NDMF/NCCF; Fifteenth and Sixteenth Finance Commission awards; notified disasters; risk transfer/insurance; Build Back Better |
 | 17 | Humanitarian Logistics, Relief, Rehabilitation and Recovery | DM cycle phases; Incident Command System; Aapda Mitra |
 | 18 | Governance, Capacity and International Cooperation | NPDRR; global frameworks (Yokohama-Hyogo-Sendai); SAARC/BIMSTEC/G20/CDRI cooperation |
 
@@ -145,6 +164,13 @@
   environmental hazard (Environment — cross-link `10` for slope/
   subsidence risk only); India's climate commitments under the Paris
   Agreement/COP26/NDC update (Environment/UNFCCC — cross-link `15`).
+- **2024 adjacent-only (verified in the same local paper):** Q16 —
+  "What are asteroids? How real is the threat of them causing extinction
+  of life? What strategies have been development to prevent such a
+  catastrophe?" — is a Science & Technology/planetary-defence question,
+  cross-linked here only as an illustration of the **low-probability,
+  high-consequence** hazard class distinguished in topic `01`; it is not
+  absorbed as a Disaster Management PYQ.
 
 ## Dynamic-source rule
 

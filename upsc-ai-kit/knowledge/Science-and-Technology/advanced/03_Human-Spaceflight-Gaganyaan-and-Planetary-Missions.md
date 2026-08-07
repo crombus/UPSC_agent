@@ -2,7 +2,7 @@
 
 > **Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II (international cooperation/governance) + Prelims.
 > **Core area:** Human-spaceflight strategy, mission-status discipline, planetary roadmap and science-policy signalling.
-> **Grounded in:** ISRO Gaganyaan page (https://www.isro.gov.in/Gaganyaan.html); ISRO Axiom-4 launch note (https://www.isro.gov.in/Successful_Launch_of_Axiom_Mission.html); ISRO Chandrayaan pages (https://www.isro.gov.in/Chandrayaan-1_science.html ; https://www.isro.gov.in/Chandrayaan2_science.html ; https://www.isro.gov.in/Chandrayaan3.html); ISRO Aditya-L1 pages (https://www.isro.gov.in/Aditya_L1.html ; https://www.isro.gov.in/ISRO_EN/halo-orbit-insertion-adtya-l1.html); PIB Gaganyaan/Bharatiya Antariksh Station approval (https://pib.gov.in/PressReleasePage.aspx?PRID=2055978); PIB Chandrayaan-4 approval (https://pib.gov.in/PressReleasePage.aspx?PRID=2055989); ISRO Venus/Chandrayaan configuration note (https://www.isro.gov.in/UnionCabinetApprovesIndiasMission.html); PIB Mangalyaan legacy note (https://pib.gov.in/PressReleasePage.aspx?PRID=2276117&reg=48&lang=1) — verified 16 Jul 2026.
+> **Grounded in:** ISRO Gaganyaan page (https://www.isro.gov.in/Gaganyaan.html); ISRO Axiom-4 launch and conclusion notes (https://www.isro.gov.in/ISRO_EN/Successful_Launch_of_Axiom_Mission.html ; https://www.isro.gov.in/Axiom04_mission_successfully_concluded_return_ISRO_Gaganyatri_ShubhanshuShukla.html); Integrated Air Drop Tests and IMAT-05 (https://www.isro.gov.in/Integrated_Air_Drop_Test_for_Gaganyaan_Missions.html ; https://www.isro.gov.in/ISRO_conducts_Second_Integrated_Air_Drop_Test_for_Gaganyaan.html ; https://www.isro.gov.in/Integrated_Main_Parachute_Air_Drop_Test.html); Pad Abort Test note (https://pib.gov.in/PressReleasePage.aspx?PRID=1540066); ISRO Chandrayaan pages (https://www.isro.gov.in/Chandrayaan-1_science.html ; https://www.isro.gov.in/Chandrayaan2_science.html ; https://www.isro.gov.in/Chandrayaan3.html); ISRO Aditya-L1 pages (https://www.isro.gov.in/Aditya_L1.html ; https://www.isro.gov.in/ISRO_EN/halo-orbit-insertion-adtya-l1.html); Cabinet approvals of 18 Sep 2024 (https://pib.gov.in/PressReleasePage.aspx?PRID=2055978 ; https://pib.gov.in/PressReleasePage.aspx?PRID=2055989 ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2055982); Gaganyaan status replies (https://pib.gov.in/PressReleasePage.aspx?PRID=2205291 ; https://pib.gov.in/PressReleasePage.aspx?PRID=2227019) — re-verified 2 Aug 2026.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `basic/03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md`.*
 
@@ -36,10 +36,14 @@ completed != operational != approved != under development != concluded mission
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Mission-status discipline** | Practice of distinguishing completed, operational, approved, under-development and concluded missions precisely. |
-| ✅ **Crew escape system** | Abort-capability layer that moves the crew module to safety in case of emergency. |
+| ✅ **Crew escape system** | Abort-capability layer that moves the crew module to safety in case of emergency. Its validation ladder in India ran Pad Abort Test (2018) → Test Vehicle mission TV-D1 (2023); a **Test Vehicle abort demonstration is not an orbital mission**. |
+| ⚠️ **Human-rating vs mission success record** | Human-rating adds structural/propulsion margins, redundancy, vehicle health monitoring, benign failure modes and abort provisions. A launcher can have a strong success record and still not be human-rated; conversely human-rating cannot be inferred from consecutive successes. |
+| ⚠️ **Probability of Loss of Crew (P(LOC))** | The governing safety metric for crewed vehicles, distinct from probability of mission success. It is why the qualification burden — and hence the timeline — for Gaganyaan is categorically different from a satellite launch campaign. |
+| ⚠️ **Qualification test hierarchy** | Ground/structural test → component qualification → **air-drop test of parachute and recovery** (IADT/IMAT, no rocket) → **abort demonstration** (Test Vehicle) → **uncrewed orbital flight (G1)** → crewed flight. Each rung answers a different failure question; skipping the vocabulary is a common answer error. |
 | ✅ **Human-spaceflight ecosystem** | Launcher, life support, training, recovery, mission control and safety architecture taken together. |
 | ✅ **Comparative planetology** | Studying similarities and differences across planets/moons to understand planetary evolution. |
-| ✅ **Sample-return capability** | Ability not just to land but to retrieve extraterrestrial material and safely return it to Earth. |
+| ✅ **Sample-return capability** | Ability not just to land but to retrieve extraterrestrial material and safely return it to Earth — requiring ascent from the target body, rendezvous/transfer or direct return, re-entry survival and planetary-protection containment. |
+| ⚠️ **Station-keeping at L1** | A halo orbit around Sun-Earth L1 is only quasi-stable; the spacecraft must fire thrusters periodically, so **propellant budget, not instrument life, often sets mission duration** for L1 observatories such as Aditya-L1. |
 | ✅ **Microgravity research platform** | Orbital environment used to study biological, material and physical processes in low gravity. |
 
 ## 4. Mechanism / how it works
@@ -102,18 +106,21 @@ completed != operational != approved != under development != concluded mission
 ## 9. 📰 Current anchor
 
 - 📰 **06 Jan 2024 | Aditya-L1 - operational in halo orbit.** ISRO confirmed successful insertion at Sun-Earth L1.
-- 📰 **18 Sep 2024 | BAS-1 and Gaganyaan follow-on scope - approved.** PIB linked future station capability to expanded programme architecture.
-- 📰 **18 Sep 2024 | Venus Orbiter Mission and Chandrayaan-4 - approved.** ISRO/PIB framed them as major next steps in comparative planetology and lunar return capability.
-- 📰 **25 Jun 2025 | Axiom Mission 4 - successful launch with Shubhanshu Shukla.** Official ISRO note linked ISS experience with India’s broader human-spaceflight journey.
+- 📰 **18 Sep 2024 | BAS-1 and Gaganyaan follow-on scope - approved.** Cabinet approval of an expanded Gaganyaan scope including **BAS-01, targeted December 2028**.
+- 📰 **18 Sep 2024 | Venus Orbiter Mission and Chandrayaan-4 - approved.** Chandrayaan-4 approved as lunar sample-return technology (36-month completion wording); Venus opportunity stated as **March 2028**.
+- 📰 **25 Jun - 15 Jul 2025 | Axiom Mission 4 - flown and concluded.** Group Captain Shubhanshu Shukla flew as mission pilot on an 18-day mission with seven Indian experiments.
+- 📰 **24 Aug 2025 / 10 Apr 2026 / 7 Jul 2026 | IADT-01, IADT-02 and IMAT-05 - conducted.** Air-drop and main-parachute qualification tests supporting the first uncrewed orbital mission G1.
+- 📰 **17 Dec 2025 / 12 Feb 2026 | Gaganyaan - crewed flight targeted 2027-28.** Official material described continuing G1 module checks, integration and simulations; **no Gaganyaan orbital flight had taken place** as of the latest verified statement.
 
 | Verified current anchor | Analytical use in answers |
 |---|---|
-| Aditya-L1 operating at L1 | Use to show India’s space-science expansion beyond landing-centric narratives. |
-| BAS approval within Gaganyaan follow-on scope | Use to argue that human-spaceflight ambition is shifting from demonstration to continuity. |
-| Chandrayaan-4 and Venus approval | Use to show mission sequencing from landing success toward sample return and wider comparative planetology. |
-| Axiom-4 participation | Use to distinguish international operational exposure from indigenous capability-building. |
+| Aditya-L1 operating at L1 | Use to show India’s space-science expansion beyond landing-centric narratives — and to make the point that L1 missions are propellant-budget-limited, not instrument-limited. |
+| BAS-01 approved with a December 2028 target | Use to argue that human-spaceflight ambition is shifting from a one-off demonstration to *continuity of presence* — a far harder logistics, life-support and resupply problem. |
+| Chandrayaan-4 and Venus approval | Use to show mission sequencing from landing success toward sample return and wider comparative planetology, while noting sample return requires ascent and rendezvous capabilities India has not yet demonstrated. |
+| Gaganyaan's completed tests are abort and parachute-recovery tests; G1 has not flown; crewed flight targeted 2027-28. | Use as the model example of **status discipline**: a well-publicised test campaign is evidence of methodical safety qualification, not of achieved human spaceflight. Schedule slippage in a crewed programme should be read as safety governance working, not as failure. |
+| Axiom-4 participation | Use to distinguish international operational exposure from indigenous capability-building — India bought *experience*, not *capability*. |
 
-⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date; verify later updates before exam use.
+⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Aug 2026); verify later updates before exam use.
 
 ## 10. PYQ application
 
@@ -141,6 +148,6 @@ completed != operational != approved != under development != concluded mission
 - ✅ Foundation companion: `basic/03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md`.
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launcher base, human-rating and institutional context.
 - ✅ `02_Satellites-NavIC-GAGAN-and-Applications.md` - underlying satellite and mission-support ecosystem.
-- ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - congestion and sustainability implications of sustained orbital presence.
+- ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launch-infrastructure constraints (Third Launch Pad, NGLV) behind a sustained orbital presence.
 - ✅ `16_Nanotechnology-and-Applications.md` - advanced systems, avionics and materials linkages.
 

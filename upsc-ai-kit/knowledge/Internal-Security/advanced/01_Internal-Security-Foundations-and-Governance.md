@@ -5,8 +5,10 @@
 > development-rights sequencing problem; Centre-State coordination
 > failure modes; using the doctrine as an integrating Mains framework.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
-> India*, PDF pp. 1-6; `00_Master-Framework.md` Sections 1-10; audited
-> GS-III syllabus.
+> India*, PDF pp. 1-6; Laxmikant, *Indian Polity*, PDF pp. 329, 1332
+> (Seventh Schedule entries; Article 355 read with Entry 2A);
+> `00_Master-Framework.md` Sections 1-10; audited GS-III syllabus and
+> local 2024-2025 GS-III/Essay papers.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/01_Internal-Security-Foundations-and-Governance.md`.*
 
@@ -32,6 +34,8 @@ diagnostic and answer-architecture layer that topics 02-12 apply.
 | ✅ **Centre-State coordination as a structural, not merely administrative, problem** | Singh notes police and law-and-order sit with the States while intelligence, border guarding and several central agencies sit with the Centre — coordination "exists in all areas from intelligence to operations," requiring "an institutional framework which resolves all these centre-state coordination problems" (PDF p. 6). |
 | ⚠️ **Root-cause vs. trigger** | A root cause (governance deficit, land alienation) is the enabling condition; a trigger (a specific riot, an arrest, a land-acquisition notice) is the proximate event. Answers that conflate the two under-diagnose the threat. |
 | ✅ **Doctrine as diagnostic, not checklist** | The eight elements (political, socio-economic, governance, police & forces, Centre-State coordination, intelligence, border management, cyber security) are not eight things to mention in sequence — they are eight hypotheses to test against a specific threat to find which is weakest. |
+| ⚠️ **Prevention vs. response as separate resource decisions** | Prevention (intelligence, community engagement, counter-radicalisation, vulnerability reduction) and response (force deployment, interdiction, crisis management) compete for the same budget and political attention, but are measured differently: response produces visible, countable outputs (arrests, seizures, hubs opened), prevention produces an *absence* of events. ⚠️ This measurement asymmetry, not indifference, is the usual reason prevention is under-resourced — a reusable explanatory point in topics 02, 03, 08 and 11. |
+| ⚠️ **Statutory power vs. operational capability** | A statute confers authority; it does not create trained manpower, forensic capacity, court time or inter-agency trust. Every "the law already provides for X" claim in a Mains answer should be paired with a separate, dated statement about whether the capacity to use X exists — the distinction FATF's 2024 critique of India applies to prosecution (topic 10) and VisionIAS's "way forward" applies to marine policing (topic 07). |
 
 ## 3. Causal model
 
@@ -131,7 +135,19 @@ question with an obvious answer.
 - ⚠️ **Centre-State coordination is a standing structural constraint, not
   a one-time fix.** Because policing is a State subject while several
   response tools are central, every topic in this folder inherits this
-  same coordination constraint in some form.
+  same coordination constraint in some form. ⚠️ Note the constitutional
+  asymmetry precisely: the Union may *deploy* armed forces in a State
+  under Union List Entry 2A, but only "in aid of the civil power," and it
+  owes a protective duty under Article 355 — so the Centre has a duty to
+  act with instruments it cannot use unilaterally. That is the structural
+  source of the coordination problem, not administrative reluctance.
+- ⚠️ **Evidentiary-level discipline is itself an answer-quality
+  differentiator.** Statutory power is not operational practice; a
+  notification is not implementation; a ceasefire is not a settlement; an
+  arrest or attachment is not a conviction or confiscation; a cyber
+  incident is not a cybercrime is not an information operation. An
+  advanced answer that keeps these apart reads as informed; one that
+  collapses them reads as second-hand.
 - ❌ **The doctrine is not a substitute for area-specific diagnosis.**
   Applying all eight elements generically to every question, without
   identifying which element is weakest for the *specific* threat asked
@@ -146,10 +162,18 @@ question with an obvious answer.
   character (heavy hand for secessionism, softer approach for regional/
   ethnic aspiration).
 - ✅ Policing and law and order are State subjects under India's
-  constitutional scheme; several internal-security response tools
-  (central agencies, border-guarding forces) are central.
+  constitutional scheme (State List Entries 2 and 1); several
+  internal-security response tools are central — Union List Entry 2A
+  (deployment of armed forces of the Union in a State in aid of the civil
+  power), Entry 8 (Central Bureau of Intelligence and Investigation) and
+  Entry 9 (preventive detention connected with the security of India),
+  read with the Union's Article 355 duty.
 - ⚠️ Singh's own text acknowledges cyber security as the doctrine's least
   mature element even at the time of writing.
+- ⚠️ Singh's legal chapters pre-date the UAPA (Amendment) Act 2019, the
+  NIA (Amendment) Act 2019 and the 2023 criminal-law codes (BNS/BNSS/BSA,
+  in force 1 July 2024); the doctrine survives those changes, the legal
+  detail does not.
 
 ## 8. Advanced Prelims traps
 
@@ -187,6 +211,15 @@ question with an obvious answer.
   PYQ answer (2025 Q9 terrorism, 2025 Q10 LWE, 2025 Q19 North-East, 2025
   Q20 maritime, 2024 Q9 narco-terrorism, 2024 Q19 border, 2024 Q20 social
   media, 2024 Q10 DPDP Act).
+- ✅ **Essay 2025, Section A(2):** "The supreme art of war is to subdue the
+  enemy without fighting." An advanced essay can run the proposition in
+  both directions — India's non-kinetic doctrinal elements (political
+  settlement, development delivery, governance, intelligence) as the
+  *ideal*, and adversarial proxy war, hybrid warfare and information
+  operations as the same principle turned against India (topics 02, 05,
+  09) — closing on the proportionality condition: subduing without
+  fighting only sustains legitimacy if the non-kinetic tools remain
+  rights-bound.
 
 ## 11. Mains-ready framework
 

@@ -1,5 +1,7 @@
 # Science & Technology - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Science & Technology | **GS Paper:** GS-III (core), with GS-II governance/regulatory
 > links on digital, biotech, IPR and data topics, and dense Prelims weight throughout.
 > **Spine:** NCERT Class IX-X Science + relevant NCERT XI-XII Physics/Chemistry/Biology chapters
@@ -110,14 +112,36 @@ sitting well beyond the stated date.
 
 | Paper | Exact tested demand | Route |
 |---|---|---|
-| 2024 | IPR concerning life materials and reasons for low patent commercialisation in India | `basic/17`, `advanced/17` |
-| 2024 | Context and salient features of the Digital Personal Data Protection Act, 2023 | `basic/12`, `advanced/12` |
-| 2024 | Alternative technologies for clean/safe freshwater; merits and demerits of any three | `basic/22`, `advanced/22` |
-| 2024 | Asteroids, extinction risk and strategies to prevent such a catastrophe | `basic/21`, `advanced/21` |
-| 2025 | India's fusion programme, contribution to ITER and implications of success | `basic/05`, `advanced/05` |
-| 2025 | Energy independence through clean technology by 2047 and biotechnology's role | `basic/13`, with topic 15 application |
-| 2025 | Nanotechnology advances in agriculture and farmers' socio-economic uplift | `basic/16`, `advanced/16` |
-| 2025 | Semiconductor-industry challenges and salient features of India Semiconductor Mission | `basic/11`, `advanced/11` |
+| 2024 (Q5, 150w) | IPR concerning life materials and reasons for low patent commercialisation in India | `basic/17`, `advanced/17` |
+| 2024 (Q6, 150w) | Technology used for electronic toll collection on highways; advantages, limitations, proposed changes and risks | `basic/08`, `advanced/08` (digital rails), with `basic/12` for the data/privacy risk of movement tracking |
+| 2024 (Q10, 150w) | Context and salient features of the Digital Personal Data Protection Act, 2023 | `basic/12`, `advanced/12` |
+| 2024 (Q15, 250w) | Alternative technologies for clean/safe freshwater; merits and demerits of any three | `basic/22`, `advanced/22` |
+| 2024 (Q16, 250w) | Asteroids, extinction risk and strategies to prevent such a catastrophe | `basic/21`, `advanced/21` |
+| 2024 (Q20, 250w) | Security implications of social media and encrypted messaging services, and remedies | `basic/12`, `advanced/12` (IT Act ss.69/69A/79, IT Rules 2021 as amended, traceability-vs-encryption); cross-refer Internal Security without duplicating it |
+| 2025 (Q5, 150w) | India's fusion programme, contribution to ITER and implications of success | `basic/05`, `advanced/05` |
+| 2025 (Q6, 150w) | Energy independence through clean technology by 2047 and biotechnology's role | `basic/13`, with topic 15 application and topic 18 for fuels |
+| 2025 (Q12, 250w) | Rationale, achievements and improvement of the Production Linked Incentive scheme | Economy `17` for macro-industrial analysis; use `basic/11`, `advanced/11` only for the semiconductor/electronics component |
+| 2025 (Q15, 250w) | Nanotechnology advances in agriculture and farmers' socio-economic uplift | `basic/16`, `advanced/16` |
+| 2025 (Q16, 250w) | Semiconductor-industry challenges and salient features of India Semiconductor Mission | `basic/11`, `advanced/11` |
+
+**Essay linkage:** the 2024 Essay Section-A topic *"The empires of the future will be empires of the mind"* is the natural home for this folder's material on research funding (`24`), frontier missions (`01-05`, `10-11`) and knowledge-economy institutions — use it for illustration, not as a technology catalogue.
 
 These are direct PYQs from the locally audited official-paper text, not probable
 questions. Route from this matrix to avoid duplicating full model answers.
+
+## Status-discipline rules used throughout this folder
+
+Because S&T current affairs move faster than any other GS-III sub-area, every file
+in this folder applies the following ladders, and answers should reproduce them:
+
+- **Law:** enacted → notified → *brought into force* (possibly in tranches) → rules framed → enforced.
+  *Examples in this folder:* the **DPDP Act, 2023** (phased commencement from 13 Nov 2025) and the
+  **SHANTI Act, 2025** (assented 20 Dec 2025, commencement not notified as at the verification date).
+- **Mission/technology:** proposed → approved → under development → tested → operational → deployed at scale.
+- **Facility:** approved → agreement signed → groundbreaking → inaugurated → pilot output → commercial production.
+- **Weapon system:** developmental trial → user evaluation → "ready for induction" → contract → induction → deployment.
+- **Money:** announced outlay → sanctioned → disbursed → capacity created.
+
+⚠️ A live web page, an open call for proposals, a signed MoU or a received proposal count is
+**evidence of activity, not of capability**. Where an official source could not confirm a figure,
+the file says so explicitly rather than substituting a recalled number.

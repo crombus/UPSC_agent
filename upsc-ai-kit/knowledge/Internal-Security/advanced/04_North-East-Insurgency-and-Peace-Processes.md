@@ -8,7 +8,9 @@
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
 > India*, PDF pp. 44-50; VisionIAS, *Security Challenges and Their
 > Management in Border Areas*, PDF pp. 24-25; `00_Master-Framework.md`
-> Sections 5-9; audited GS-III syllabus.
+> Sections 5-9; audited GS-III syllabus; AFSPA 1958, Articles 244(2),
+> 371A and 371C as published in India Code; *Naga People's Movement of
+> Human Rights* (1997) and *EEVFAM* (2016).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/04_North-East-Insurgency-and-Peace-Processes.md`.*
 
@@ -37,6 +39,8 @@ design.
 | ✅ **AFSPA's operational-necessity argument, precisely stated** | ✅ Singh: "If the armed forces are deployed without the power of search and seizure, then their deployment is meaningless" (PDF p. 47) — the argument is functional (a deployed force needs enabling powers), not merely political. |
 | ✅ **AFSPA's accountability counter-argument, precisely stated** | ✅ Singh, in the same passage: forces "must also be wary of human rights violations and must be accountable for their actions and behaviour towards the public" (PDF p. 47) — the two arguments are presented together, not as opposing camps to pick one from. |
 | ⚠️ **Border regime as an internal-security-dependent variable** | The 8 February 2024 decision to scrap the FMR shows a cross-border regime being reconsidered partly because of internal ethnic conflict and insurgent misuse, not only external diplomacy. Current implementation must be sourced separately. |
+| ⚠️ **The four-rung instrument ladder, and why the rung determines the argument** | Ceasefire/SoO → framework agreement → Memorandum of Settlement → implementation (basic companion, Section 4A). ⚠️ The analytical payoff: the *same* State can occupy different rungs simultaneously — Nagaland has held a framework agreement since 2015 without a final settlement, Assam has multiple signed settlements at varying implementation stages, and Manipur's principal live instrument remains a rung-1 SoO. "Progress in the North-East" is therefore not one trend line but several, and a Mains answer that says so is doing the mapping the 2025 PYQ actually asks for. |
+| ⚠️ **Autonomy instruments are not interchangeable** | The Sixth Schedule (Articles 244(2)/275(1)) applies to tribal areas of Assam, Meghalaya, Tripura and Mizoram; Nagaland's protections run through **Article 371A** (customary law, land and resources, requiring Assembly concurrence for named central laws) and Manipur's hill areas through **Article 371C**. ⚠️ This matters operationally: a demand framed as "Sixth Schedule status" (as in Ladakh's or some Manipur hill demands) is a demand for a *different* constitutional instrument, not merely more funds — and accords that promise autonomy must specify which instrument they intend. |
 
 ## 3. Causal model
 
@@ -91,15 +95,38 @@ UNODC-linked surge in narcotics flow from Myanmar's post-coup turmoil
   for transitioning an armed group toward talks without requiring
   immediate full disarmament — Singh notes SoO agreements historically
   covered "most of the insurgent groups (numbering 17-18)" (PDF p. 44,
-  book-period count).
-- ⚠️ **Assam Rifles' dual and contested mandate:** VisionIAS notes Assam
-  Rifles has deployed the larger share of its battalions to counter-
+  book-period count). ⚠️ Its design weakness is structural: ground rules
+  (camp confinement, arms in monitored storage, no extortion) require
+  continuous monitoring capacity, so an SoO's value depends on the
+  monitoring mechanism, not on the signature.
+- ⚠️ **Assam Rifles' dual and contested mandate:** VisionIAS records that
+  Assam Rifles "mans this border since 2002 with some help from Indian
+  Army," and has deployed the larger share of its battalions to counter-
   insurgency duties rather than pure border guarding along the Myanmar
   border (31 of 46 battalions to counter-insurgency versus 15 to border
   guarding, per the source's figures) — "functioning more like a
   counter-insurgency force rather than a border guarding force" (PDF p.
-  25) — a live "one force, one mandate" institutional design question
-  connecting this topic to topic 06 and topic 12.
+  25). ✅ The same source's "way ahead" is explicit: either give Assam
+  Rifles "the single mandate of guarding the border" or deploy another
+  border-guarding force such as the BSF — a live "one force, one mandate"
+  institutional design question connecting this topic to topic 06 and
+  topic 12.
+- ⚠️ **Article 356 as the residual instrument:** where a State's
+  law-and-order machinery is assessed to have failed, the Union's options
+  escalate from central-force deployment under Union List Entry 2A (aid to
+  the civil power, State government intact) to President's Rule under
+  Article 356 (State executive superseded). ⚠️ Manipur's situation since
+  the 2023 ethnic violence has drawn on both instruments — verify the
+  State's **current** constitutional status from the Gazette/MHA before
+  asserting it, since President's Rule is time-bound and reversible.
+- ⚠️ **AFSPA's judicial frame as the accountability instrument:**
+  *Naga People's Movement of Human Rights* (1997) upheld the Act while
+  making the Army's "Do's and Don'ts" binding and requiring minimum
+  necessary force; *EEVFAM* (2016) held there is no absolute immunity and
+  that alleged excesses are investigable. ⚠️ Section 6's central-sanction
+  requirement remains the practical bottleneck between an investigation
+  and a prosecution — the precise point at which "accountability exists in
+  law" and "accountability operates in practice" diverge.
 - 📰 **Current-anchor institutional detail:** the precise, current list of
   peace accords "in the past decade" (directly required by the 2025 PYQ)
   must be built from the MHA Annual Report 2024-25's dated entries, not
@@ -141,11 +168,21 @@ UNODC-linked surge in narcotics flow from Myanmar's post-coup turmoil
 - ⚠️ **SoO agreements manage violence but do not by themselves resolve
   underlying political demands**; prolonged SoO status without a
   political settlement can itself become a source of frustration and
-  fragmentation within a group.
+  fragmentation within a group. ⚠️ The converse risk is equally real: a
+  signed settlement whose implementation stalls converts a negotiating
+  partner into an aggrieved one, which is why the implementation rung
+  (basic companion, Section 4A) carries more analytical weight than the
+  number of accords signed.
+- ⚠️ **Accommodation of one group can re-open a boundary question with
+  another.** An accord conferring territorial or council-level autonomy on
+  one community necessarily fixes a boundary that a neighbouring
+  community may contest — the structural reason North-East settlements
+  tend to generate successor demands rather than closing the file.
 - ⚠️ **AFSPA's operational-necessity and accountability arguments are in
   permanent tension**, not a problem solvable by policy design alone —
   continuous, transparent accountability mechanisms are the only way to
-  sustain both simultaneously.
+  sustain both simultaneously, and Section 6's central-sanction
+  requirement is where that tension is actually adjudicated.
 - ❌ **The 2024 FMR-scrapping decision is not a comprehensive solution to Myanmar-
   border insurgency and narcotics flow** — VisionIAS's own "way ahead"
   notes continuing need for a single-mandate border force, expedited
@@ -167,7 +204,17 @@ UNODC-linked surge in narcotics flow from Myanmar's post-coup turmoil
   immediate disarmament.
 - ✅ Singh's AFSPA position is explicitly two-sided: operational necessity
   (search/seizure powers) paired with an accountability obligation, not a
-  one-sided endorsement.
+  one-sided endorsement — a position the Supreme Court's 1997 and 2016
+  rulings mirror (constitutionality upheld; no absolute immunity).
+- ✅ AFSPA Section 3 governs the disturbed-area declaration, Section 4 the
+  powers conferred, and Section 6 the requirement of prior Central
+  Government sanction before prosecution.
+- ✅ VisionIAS's own "way ahead" recommends either giving Assam Rifles the
+  single mandate of border guarding or deploying another border-guarding
+  force such as the BSF on the Myanmar border.
+- ✅ Nagaland's constitutional protection runs through Article 371A and
+  Manipur's hill areas through Article 371C — not the Sixth Schedule,
+  which covers tribal areas of Assam, Meghalaya, Tripura and Mizoram.
 
 ## 8. Advanced Prelims traps
 
@@ -183,6 +230,14 @@ UNODC-linked surge in narcotics flow from Myanmar's post-coup turmoil
 - ❌ SoO agreements amount to full disarmament or conflict resolution. ->
   They are ceasefire/dialogue-enabling arrangements; the underlying
   political demand still requires a separate negotiated settlement.
+- ❌ The 2015 Framework Agreement with NSCN (IM) is a final Naga
+  settlement. -> It records agreed principles; competencies, territory and
+  timelines were left to later negotiation, which is precisely why the
+  process remains open.
+- ❌ AFSPA gives security forces absolute immunity from prosecution. -> The
+  Supreme Court held in *EEVFAM* (2016) that there is no absolute
+  immunity; Section 6 requires prior Central Government sanction, which is
+  a procedural filter, not a bar on investigation.
 
 ## 9. 📰 Current-anchor note
 
@@ -202,10 +257,12 @@ UNODC-linked surge in narcotics flow from Myanmar's post-coup turmoil
   decade."
   - Advanced structure: after the basic-tier challenge/accord mapping, add
     (i) the accommodation-vs.-coercion parallel-track analysis; (ii) the
-    Assam Rifles single-mandate institutional gap as a "challenge" the
-    question invites; (iii) the 2024 FMR-scrapping decision as a recent,
-    dated illustration of internal conflict driving border policy,
-    explicitly dated and sourced.
+    four-rung instrument ladder, used to show that different North-East
+    States currently sit on *different* rungs — which is the analytical
+    core of an honest "map"; (iii) the Assam Rifles single-mandate
+    institutional gap as a "challenge" the question invites; (iv) the 2024
+    FMR-scrapping decision as a recent, dated illustration of internal
+    conflict driving border policy, explicitly dated and sourced.
 
 ## 11. Mains-ready framework
 
@@ -243,6 +300,9 @@ Myanmar border-regime change.
   security challenges and the peace accords of the past decade,
   distinguishing accommodation from coercive instruments in the
   government's approach.
+- ⚠️ **Mains (15 marks):** "Signing an accord and settling a conflict are
+  different achievements." Examine with reference to the North-East peace
+  process of the past decade.
 - ⚠️ **Mains (15 marks):** "The 2024 decision to scrap the India-Myanmar Free
   Movement Regime illustrates how internal identity conflict can reshape
   border policy." Discuss.

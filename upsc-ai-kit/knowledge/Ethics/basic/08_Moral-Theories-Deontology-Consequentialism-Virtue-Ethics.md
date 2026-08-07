@@ -40,6 +40,8 @@ apply more than one and reconcile or choose between them explicitly.
 | ✅ **Virtue Ethics** | An act is right if it is what a person of good character (possessing practical wisdom, *phronesis*) would do in that situation. | Aristotle |
 | ⚠️ **Ethical relativism** | The (contested) view that moral standards are relative to a culture/individual, with no universal standard — usually presented in GS-IV as a foil to be critiqued, not endorsed. |
 | ⚠️ **Ethical absolutism/universalism** | The view that some moral standards hold across all cultures/contexts — Kantian deontology is typically absolutist about core duties. |
+| ⚠️ **Motive vs intention vs consequence** | **Motive** = the underlying reason that moved the agent (career advancement, compassion, fear); **intention** = the specific outcome the agent chose to bring about; **consequence** = what actually followed, which can diverge from both. Deontology grades the maxim (and so intention); virtue ethics attends most closely to motive/character; consequentialism grades the outcome. A GS-IV case study is usually solved by separating the three explicitly — an officer can have a good motive, a defective intention, and a bad consequence, and each attracts a different response. |
+| ⚠️ **Means vs ends** | Consequentialism allows a bad means to be redeemed by a good end if the balance of outcomes is better; Kantian deontology and Gandhi's ends-means unity (`06`) deny this — impure means corrupt the end. Naming which position you are taking is the single clearest way to make a Mains answer non-generic. |
 
 ## 3. Mechanism: applying each theory to a dilemma
 
@@ -69,9 +71,12 @@ apply more than one and reconcile or choose between them explicitly.
 ## 5. Must-Know Facts for Prelims
 
 - ✅ Deontology = duty-based; Consequentialism = outcome-based; Virtue ethics = character-based —
-  the three classical families of normative ethical theory.
+  the three classical families of **normative** ethical theory (contrast descriptive, meta- and
+  applied ethics, defined in `01`).
 - ✅ Kant is the paradigmatic deontologist; Bentham and Mill are the paradigmatic utilitarians;
   Aristotle is the paradigmatic virtue ethicist.
+- ⚠️ Motive, intention and consequence are three separate objects of moral appraisal; conflating
+  them is the commonest error in case-study answers.
 - ⚠️ Ethical relativism and ethical absolutism/universalism are positions about the *scope* of moral
   standards, cutting across (not identical to) the three normative theories above.
 
@@ -90,8 +95,8 @@ apply more than one and reconcile or choose between them explicitly.
 ## 7. PYQ application
 
 - ✅ 2024 GS-IV Q3(c) (Kant quotation on law vs ethics) is a direct deontology-application question.
-- ⚠️ Case-study questions (2025 GS-IV Q7, disaster-management dilemma) implicitly require running
-  the decision through all three theories, even though the paper does not name them explicitly.
+- ⚠️ Case-study questions (2024 and 2025 GS-IV Q7-Q12) implicitly require running the decision
+  through all three theories, even though the papers do not name them explicitly.
 - ⚠️ Theory questions asking to "critically examine" a policy/statement from "the ethical point of
   view" (e.g., 2024 GS-IV Q1(a) on AI in decision-making) are best answered by explicitly naming and
   applying the relevant theory/theories rather than giving a generic moral reaction.

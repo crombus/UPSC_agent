@@ -23,6 +23,17 @@ catalogue.
 
 ## 2. Core terms in plain language
 
+- **Example:** a single instance of the thing being discussed. It makes an
+  abstraction concrete; on its own it establishes that something *can*
+  happen, not that it generally does.
+- **Evidence:** material offered to support the truth of a claim —
+  a documented pattern, an institutional fact, a sourced figure. Evidence
+  bears a burden an example does not: it must be accurate *and* actually
+  bear on the claim.
+- **Analogy:** a transfer of structure from another domain ("policy
+  reform is like repairing a roof"). ❌ An analogy illustrates and can
+  clarify a mechanism, but it **proves nothing** — the two domains are
+  similar by the writer's choice, not by demonstration.
 - **Functional example:** an illustration used to demonstrate a specific
   claim, not decoration or a fact dropped without purpose.
 - **Evidence-dumping:** citing many examples or statistics without
@@ -33,13 +44,42 @@ catalogue.
   used without naming an author unless a primary/authoritative source
   independently verifies exact wording, authorship and context.
 
+⚠️ **Why the example/evidence/analogy distinction earns marks.** The
+sentence "Chipko shows that communities can restrain extraction" uses an
+example as evidence for a modal claim (*can*) — legitimate. "Chipko shows
+that community action is sufficient to protect forests" uses the same
+example as evidence for a general claim it cannot carry. "Forests are the
+lungs of the nation" is an analogy: useful for vividness, worthless as
+support. ❌ The commonest failure is an analogy quietly doing the work of
+evidence — check whether your paragraph's support could be denied by
+someone who simply rejects the comparison.
+
+## 2a. Quotation vs. paraphrase
+
+| | Quotation | Paraphrase |
+|---|---|---|
+| What it reproduces | Exact printed words, inside quote marks | The idea, in your own words |
+| Risk carried | Wording, punctuation, authorship, translation, context | Only fidelity of meaning |
+| When required | When the exact phrasing is itself the object of analysis | Almost everywhere else |
+| Applies to the prompt | ✅ Safe for V1 (2024–2025) rows, defects included | ⚠️ Preferred for V2 (2013–2023) rows until checked |
+
+⚠️ Quotation marks are a promise about *wording*, not merely a signal of
+borrowing. If you cannot keep that promise — because you are recalling an
+aphorism, or working from a corpus row that has not been verified against
+the official paper — paraphrase instead. ❌ Half-remembered quotation
+inside quote marks is a fabrication even when the idea is right, and it
+buys nothing a clean paraphrase would not.
+
 ## 3. ✅ Exam facts / source basis
 
 - ✅ All 16 recent prompts (2024 and 2025) are printed **without any
   author attribution** in the source papers (see `../README.md` for
   the recent index).
-- ✅ OCR artefacts are corrected against the paper. The authoritative
-  working ledger is `../PYQ-Corpus-2013-2025.md`, not a raw extraction.
+- ✅ The 2024/2025 rows in `../PYQ-Corpus-2013-2025.md` are **V1** —
+  read directly off the official PDFs and reproduced with their printed
+  defects intact. ⚠️ The 2013–2023 rows are **V2** — not checked against
+  an official paper locally, and therefore to be paraphrased rather than
+  quoted verbatim (Section 2a).
 - ⚠️ Because no author is printed for any prompt, this folder's default
   rule is: **quote the prompt exactly, or paraphrase it faithfully; never
   attach an author's name to it.**
@@ -71,9 +111,11 @@ strength.
 
 | Use case | Safe practice |
 |---|---|
-| The UPSC prompt itself | Quote exactly as printed (see `../README.md`), or paraphrase faithfully; no author needed or invented. |
+| The UPSC prompt itself, 2024–2025 (V1) | Quote exactly as printed (see `../README.md`), defects included; or paraphrase faithfully. No author needed or invented. |
+| The UPSC prompt itself, 2013–2023 (V2) | ⚠️ Paraphrase, unless you have checked the official paper for that year — the ledger wording is carried forward, not locally verified. |
 | A familiar aphorism recalled from general reading, with uncertain attribution | ❌ Do not attribute an author. Either omit it, or use it as an unattributed proposition only if not presented as a direct quotation. |
 | A named quotation from a known thinker | Use only if you can state it accurately from memory with reasonable confidence in wording and context; when in doubt, paraphrase the idea instead of quoting verbatim. |
+| An analogy | Use to clarify a mechanism, never as support for a claim — state the mechanism it is standing in for, so the argument survives if a reader rejects the comparison. |
 | A statistic or "current" fact | State only if you are reasonably confident it is accurate and not stale; when unsure, describe the pattern qualitatively instead of inventing a number. |
 
 ## 7. India-first illustration starters
@@ -109,10 +151,17 @@ directly responsive to the actual question asked.
   sufficient warrant (Section 6).
 - ❌ **Inventing a statistic to sound authoritative.** → Repair:
   describe the pattern qualitatively, or omit the claim entirely.
+- ❌ **Analogy used as proof.** → Repair: state the mechanism the analogy
+  is standing in for, and support *that* — an analogy the reader rejects
+  should not take a claim down with it (Section 2).
+- ❌ **Quotation marks around half-remembered wording.** → Repair:
+  paraphrase. Quote marks promise exact wording; a paraphrase carries the
+  idea at no risk (Section 2a).
 - ❌ **Evidence-dumping** (stacking three examples for one claim). →
   Repair: keep the single strongest, most accurate example.
-- ❌ **Repeating OCR noise as a source-paper defect.** → Repair: recheck
-  the paper or `../PYQ-Corpus-2013-2025.md` before quoting directly.
+- ❌ **Treating a V2 corpus row as certified printed wording.** → Repair:
+  paraphrase it, or check the official paper for that year before quoting
+  (`../PYQ-Corpus-2013-2025.md`).
 
 ## 12. Timed micro-drill and self-check
 

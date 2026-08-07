@@ -38,13 +38,20 @@ attempt was weak, so you know which topic file to revisit.
 
 ## 3. ✅ Exam facts / source basis
 
-- ✅ Neither 2024 nor 2025 audited papers print any marking rubric,
-  weightage table, or scoring guidance beyond the word-count/marks
-  instruction already logged in `../README.md`.
+- ✅ Neither the 2024 nor the 2025 paper prints any marking rubric,
+  weightage table, or scoring guidance. ✅ The only marks information
+  printed anywhere in either locally held copy is 2024's
+  "(125 × 2 = 250)" — a marks split between the two essays, **not** a
+  rubric, and with no 2025 counterpart in the local copy (see
+  `../README.md`).
 - ❌ Do not present any score derived from this topic's tool as an
   official UPSC mark, an examiner's likely score, or a "topper formula"
   — none of these exist in the audited corpus, and inventing one would
   misrepresent the source material.
+- ❌ Equally, do not treat "(125 × 2 = 250)" as implying anything about
+  *how* those 125 marks are distributed within an essay. The paper is
+  silent on that, and any internal weighting — including this file's
+  seven dimensions — is a coaching/self-evaluation construct.
 
 ## 4. The central idea and common misreading
 

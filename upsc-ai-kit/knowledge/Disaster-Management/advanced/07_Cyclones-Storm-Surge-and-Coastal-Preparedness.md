@@ -167,10 +167,23 @@ analyse both chains separately.
   document-period. [PIB source](https://pib.gov.in/PressReleasePage.aspx?PRID=2198800).
 - 📰 **IMD's cyclone bulletin/service pages**, active as of 18 July 2026,
   are the correct current anchor for warning-issuance practice and
-  current cyclone-season status.
+  current cyclone-season status — including the four-stage bulletin
+  scheme (72/48/24/12 hours) and the wind-speed classification, both of
+  which VisionIAS omits.
+- 📰 **NCRMP is a closed project, not a live programme:** MHA reported
+  (1 April 2026) Phase I completion in **December 2018** (₹2,524.84
+  crore) and Phase II in **March 2023** (₹1,806.84 crore). ⚠️ An advanced
+  answer should draw the governance inference rather than merely note the
+  dates: the asset base NCRMP created — cyclone shelters, saline
+  embankments, evacuation roads — now sits with State governments under
+  routine budgets, so the live question has shifted from *construction*
+  to **operation and maintenance liability**, which no dated source
+  reports as separately funded. Naming this hand-off risk is a stronger
+  point than describing NCRMP's original objectives.
 - ❌ Do not present the document-period NCRMP State list, coastal-district
   count, or 1994 Odisha-cyclone example as evidence of current
-  operational capability without verification.
+  operational capability without verification, and do not assert an
+  NCRMP-III or a named successor — none is officially confirmed.
 
 ## 11. PYQ-based analytical application
 

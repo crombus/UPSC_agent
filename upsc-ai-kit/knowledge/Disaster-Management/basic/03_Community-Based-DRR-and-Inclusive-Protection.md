@@ -90,9 +90,27 @@ roles to be assigned for a coordinated response (PDF p. 65).
 ## 5. Institutions and policy tools
 
 - ✅ **Aapda Mitra** — NDMA-approved Centrally Sponsored Scheme, 30 most
-  flood-prone districts across 25 States (PDF p. 29); ⚠️ current
-  district/State coverage and scheme status require verification against
-  NDMA's own current Aapda Mitra materials.
+  flood-prone districts across 25 States (PDF p. 29). 📰 That was the
+  **pilot**, launched in **May 2016** with a target of 6,000 volunteers;
+  NDMA records **5,186 volunteers trained across 23 project States**
+  under it. The **expanded scheme** targets **1,00,000 volunteers across
+  350 vulnerable districts**, and MHA reported around one lakh volunteers
+  trained in 350 districts on **25 July 2024**. ⚠️ Cite the pilot and the
+  expanded scheme separately — conflating the two produces a wrong
+  district count either way.
+- 📰 **Yuva Aapda Mitra** — a distinct youth-volunteer programme:
+  **315 districts**, about **1,300 trainers/master trainers** and roughly
+  **2.37 lakh youth volunteers** (MHA/PIB, 29 October 2024). It is not a
+  rebranding of Aapda Mitra.
+- 📰 **NDMA's community and inclusion guidelines** — the **National
+  Guidelines on Community-Based Disaster Risk Reduction (CBDRR),
+  October 2024**; the **Guidelines on Disability Inclusive Disaster Risk
+  Reduction, September 2019**; the **Guidelines on Temporary Shelters for
+  Disaster-Affected Families, September 2019**; the **Updated National
+  Guidelines for Mental Health and Psychosocial Support Services in
+  Disasters, December 2023**; and the **National Guidelines on
+  Animal-inclusive Disaster Risk Reduction (AiDRR), April 2026** — name
+  the specific document rather than "NDMA guidelines" generically.
 - ✅ **PRIs as the cascading-training entry point** for community
   education given scale (PDF p. 65).
 - ✅ **SHGs/CBOs/NGOs** — named participants in search-and-rescue support
@@ -114,8 +132,15 @@ roles to be assigned for a coordinated response (PDF p. 65).
 
 ## 7. Must-Know Facts for Prelims
 
-- ✅ Aapda Mitra targets the 30 most flood-prone districts across 25
-  States (document-period coverage; verify current scope officially).
+- ✅ Aapda Mitra's **pilot** targeted the 30 most flood-prone districts
+  across 25 States; 📰 the **expanded scheme** targets **1,00,000
+  volunteers across 350 districts**, with MHA reporting roughly that
+  figure trained on 25 July 2024.
+- 📰 **Yuva Aapda Mitra** is a separate youth programme — about **2.37
+  lakh volunteers across 315 districts** (MHA/PIB, 29 October 2024).
+- 📰 NDMA's **National Guidelines on Community-Based Disaster Risk
+  Reduction** date to **October 2024**; its **Disability Inclusive
+  Disaster Risk Reduction** guidelines to **September 2019**.
 - ✅ VisionIAS's social-vulnerability list: poor, pregnant/lactating
   women, disabled persons, children, elderly.
 - ✅ Attitudinal vulnerability is a distinct, named vulnerability type —
@@ -144,16 +169,29 @@ roles to be assigned for a coordinated response (PDF p. 65).
   binding disaster-displacement treaty (PDF p. 63). This is a protection
   gap, not an absence of any rights whatsoever.
 - ❌ Aapda Mitra's 30-district, 25-State coverage is still current and
-  complete. -> Treat as document-period scope; verify current coverage
-  against NDMA's Aapda Mitra materials.
+  complete. -> That was the **2016 pilot** (target 6,000 volunteers;
+  NDMA records 5,186 trained across 23 project States). The **expanded
+  scheme** targets **1,00,000 volunteers across 350 districts**, roughly
+  achieved per MHA's statement of 25 July 2024 — cite the two phases
+  separately.
+- ❌ Aapda Mitra and Yuva Aapda Mitra are the same scheme. -> **Yuva
+  Aapda Mitra** is a distinct youth programme covering **315 districts**
+  with about **2.37 lakh volunteers** (MHA/PIB, 29 October 2024).
 
 ## 9. 📰 Current official anchor
 
-- 📰 **NDMA's Aapda Mitra portal/materials** (checked as of the 18 July
-  2026 research cutoff) are the correct current source for scheme
-  coverage, eligibility and training-module status — do not present the
-  document-period 30-district figure as the current scope without this
-  verification.
+- 📰 **NDMA's Aapda Mitra materials** are the correct current source for
+  scheme coverage: the **2016 pilot** (30 flood-prone districts, 25
+  States, 6,000-volunteer target, 5,186 trained across 23 project
+  States) and the **expanded scheme** (**1,00,000 volunteers across 350
+  districts**, roughly achieved per MHA, 25 July 2024) must be cited
+  separately, with **Yuva Aapda Mitra** (315 districts, ~2.37 lakh
+  volunteers, MHA/PIB, 29 October 2024) treated as a distinct programme.
+- 📰 **NDMA's National Guidelines on Community-Based Disaster Risk
+  Reduction (October 2024)** are the current governing document for
+  community DRR, and the **Guidelines on Disability Inclusive Disaster
+  Risk Reduction (September 2019)** for inclusive protection — name these
+  rather than "NDMA guidelines" generically.
 
 ## 10. PYQ application
 

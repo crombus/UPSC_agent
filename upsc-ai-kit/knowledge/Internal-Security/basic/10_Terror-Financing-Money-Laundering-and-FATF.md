@@ -3,13 +3,14 @@
 > **Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III.
 > **Core area:** Terror-financing sources and mechanisms; the money-
 > laundering process (placement-layering-integration); trade-based money
-> laundering (TBML); the PMLA/FIU-IND architecture; FATF and India's 2024
-> Mutual Evaluation.
+> laundering (TBML); the PMLA/FIU-IND architecture and the UAPA Section
+> 51A freezing channel; FATF and India's 2024 Mutual Evaluation.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
-> India*, PDF pp. 91-96 (laundering, TBML, PMLA, black money), pp. 13-14
-> (terror-funding sources); `00_Master-Framework.md` Sections 4-6; audited
-> GS-III syllabus; FATF, Mutual Evaluation Report of India (June 2024
-> Plenary, Singapore).
+> India*, PDF pp. 91-96 (laundering, TBML, PMLA, FEMA, black money), pp.
+> 13-14 (terror-funding sources); `00_Master-Framework.md` Sections 4-6;
+> audited GS-III syllabus; PMLA 2002, UAPA 1967 (Section 51A) and the WMD
+> Act 2005 (as amended 2022) as published in India Code; FATF, Mutual
+> Evaluation Report of India (June 2024 Plenary, Singapore).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/10_Terror-Financing-Money-Laundering-and-FATF.md`.*
 
@@ -38,8 +39,9 @@ goods
              |
              v
 DOMESTIC LEGAL-INSTITUTIONAL RESPONSE
-PMLA (2005) + FIU-IND + Enforcement
-Directorate + Special Courts
+PMLA 2002 (in force 2005) + FIU-IND +
+Enforcement Directorate + Special Courts;
+UAPA s.51A freezing for listed entities
              |
              v
 GLOBAL STANDARD-SETTING
@@ -62,8 +64,11 @@ folder maps onto.
 | ✅ **Layering** | Moving money through multiple transactions (bank-to-bank transfers, currency changes, high-value purchases) to obscure its origin (Singh, PDF p. 91). |
 | ✅ **Integration** | Money re-enters the mainstream economy in a legitimate-looking form, becoming usable without detection (Singh, PDF p. 92). |
 | ✅ **Trade-Based Money Laundering (TBML)** | FATF-defined process of disguising crime proceeds and moving value through trade transactions, via over/under-invoicing, multiple-invoicing, over/under-shipment, or falsely described goods/services (Singh, PDF pp. 93-94). |
-| ✅ **Prevention of Money Laundering Act (PMLA), 2005** | Criminal law under which money laundering linked to predicate scheduled offences is punishable; ED investigates; FIU-IND analyses suspicious/cash-transaction reports (Singh, PDF p. 94). |
-| ✅ **FATF (Financial Action Task Force)** | The global standard-setting body for anti-money-laundering/counter-terrorist-financing (AML/CFT); conducts periodic Mutual Evaluations of member jurisdictions. |
+| ✅ **Prevention of Money-Laundering Act (PMLA), 2002** | India's principal anti-money-laundering statute — **enacted as Act 15 of 2003 and brought into force on 1 July 2005**. ❌ Do not cite it as "PMLA, 2005"; the year in the Act's title is 2002. Money laundering linked to a **predicate scheduled offence** is punishable under it; ED investigates; FIU-IND analyses suspicious/cash-transaction reports (Singh, PDF p. 94). |
+| ✅ **Predicate (scheduled) offence** | PMLA is a *derivative* offence: there is no money-laundering case without proceeds of crime generated from an offence listed in the PMLA Schedule and registered by the competent agency. ⚠️ This is the single most consequential structural feature of India's AML regime — it makes ED's reach a function of other agencies' registrations, and it is why scheduling decisions (which offences are added to the Schedule) are themselves a policy lever. |
+| ✅ **UAPA Section 51A — the counter-financing power** | Distinct from PMLA: it obliges the Government to **freeze, seize or attach funds and financial assets** of individuals and entities listed in connection with terrorism (including those designated under the UN Security Council's 1267 sanctions regime) and to prevent the making of funds available to them. ⚠️ Terror financing is therefore attacked through **two separate legal channels** — UAPA (Chapter III/IV offences of raising funds for terrorist acts, plus Section 51A freezing) and PMLA (laundering of proceeds) — and an answer that names only one has named half the architecture. |
+| ✅ **FATF (Financial Action Task Force)** | The global standard-setting body for anti-money-laundering/counter-terrorist-financing (AML/CFT); conducts periodic Mutual Evaluations of member jurisdictions. India has been a full FATF member since 2010 and is also a member of the Asia/Pacific Group on Money Laundering and the Eurasian Group. |
+| ⚠️ **FATF's listing categories, precisely** | "**Grey list**" is FATF's *jurisdictions under increased monitoring* — countries with strategic deficiencies that have committed to an action plan; the "**black list**" is *high-risk jurisdictions subject to a call for action*. ❌ Neither is the same as the **follow-up category** assigned after a Mutual Evaluation ("regular," "enhanced" or "expedited enhanced" follow-up), which describes reporting frequency, not deficiency status. Conflating the two is a common and avoidable error. |
 
 ## 3. How the terror-financing/AML mechanism works
 
@@ -91,7 +96,16 @@ folder maps onto.
    (Singh, PDF pp. 94-95; ⚠️ figures such as scheduled-offence counts and
    MLAT-country counts are book-period — verify current numbers from the
    Enforcement Directorate/MHA).
-5. **International standard-setting and evaluation:** 📰 FATF's June 2024
+5. **The four-step property ladder — never collapse it:** ⚠️ (i) ED makes
+   a **provisional attachment**; (ii) the **Adjudicating Authority**
+   confirms or releases it; (iii) the **Special Court** convicts or
+   acquits; (iv) only on conviction does the property stand
+   **confiscated** to the Central Government. ⚠️ "Assets worth ₹X
+   attached" is therefore a *step-one* statistic and is not evidence of
+   proven laundering. The same discipline applies to UAPA Section 51A
+   freezing, which is an executive listing-linked act, not an
+   adjudication.
+6. **International standard-setting and evaluation:** 📰 FATF's June 2024
    Plenary (Singapore) adopted India's Mutual Evaluation Report, placing
    India in "regular follow-up" — the best-available compliance category,
    shared by only four other G20 countries at that Plenary (France,
@@ -100,11 +114,35 @@ folder maps onto.
 ## 4. Institutions, laws and reference points
 
 - ✅ **Enforcement Directorate (ED):** investigates PMLA cases once a
-  predicate scheduled offence is registered by the concerned agency.
+  predicate scheduled offence is registered by the concerned agency; also
+  administers FEMA, under which foreign-exchange contraventions can draw a
+  penalty of up to three times the amount involved and confiscation of
+  amounts held abroad (Singh, PDF p. 96). ⚠️ Keep the two apart: FEMA is
+  civil/adjudicatory, PMLA is criminal.
 - ✅ **Financial Intelligence Unit-India (FIU-IND):** receives suspicious/
   cash-transaction reports from financial-sector entities under Section
   12 of PMLA, analyses them and disseminates findings to enforcement/
-  intelligence agencies (Singh, PDF p. 94).
+  intelligence agencies (Singh, PDF p. 94); it functions under the
+  Department of Revenue, Ministry of Finance. ⚠️ **Virtual digital asset
+  service providers** have been brought within PMLA's reporting-entity
+  obligations by notification — confirm the current scope and the
+  registration position from a dated FIU-IND/Ministry of Finance release
+  before citing specifics.
+- ✅ **UAPA Section 51A and the UNSC 1267 listing route:** the
+  freezing/seizure/attachment obligation for listed terrorist individuals
+  and entities — the counter-terrorist-financing channel that operates
+  independently of any PMLA predicate offence.
+- ✅ **Weapons of Mass Destruction and their Delivery Systems (Prohibition
+  of Unlawful Activities) Act, 2005, as amended in 2022:** the amendment
+  prohibits the **financing** of proliferation-related prohibited
+  activity — the proliferation-financing limb FATF's standards require,
+  and a point almost never made in candidate answers.
+- ✅ **Section 105A of the CrPC** provided reciprocal arrangements for
+  attachment and forfeiture of property abroad, executed through Letters
+  Rogatory where a treaty exists (Singh, PDF p. 96). ⚠️ Since 1 July 2024
+  the CrPC has been replaced by the Bharatiya Nagarik Suraksha Sanhita,
+  2023, which carries the corresponding provisions — cite the BNSS, not
+  the CrPC, for anything current.
 - ⚠️ **PMLA's scheduled-offence count (156 offences across 28 statutes,
   per Singh) and MLAT count (26 countries, per Singh):** book-period
   figures (PDF pp. 94-95); verify the current scheduled-offence list and
@@ -136,8 +174,16 @@ folder maps onto.
   integration.
 - ✅ TBML techniques include over/under-invoicing, multiple-invoicing,
   over/under-shipment and falsely described goods/services.
-- ✅ PMLA came into force on 1 July 2005; FIU-IND receives suspicious/
-  cash-transaction reports under Section 12.
+- ✅ The Prevention of Money-Laundering Act is of **2002** (Act 15 of
+  2003) and came into force on **1 July 2005**; FIU-IND receives
+  suspicious/cash-transaction reports under Section 12.
+- ✅ PMLA is a derivative offence requiring a **predicate scheduled
+  offence**; UAPA Section 51A operates independently, requiring freezing
+  of the assets of listed terrorist individuals and entities.
+- ✅ The property ladder runs provisional attachment (ED) → confirmation
+  (Adjudicating Authority) → conviction (Special Court) → confiscation.
+- ✅ India has been a full FATF member since 2010, and is a member of the
+  Asia/Pacific Group on Money Laundering and the Eurasian Group.
 - 📰 FATF adopted India's Mutual Evaluation Report at its June 2024
   Plenary (Singapore), placing India in "regular follow-up" status.
 - ✅ Different threats draw on different funding models: J&K on external
@@ -164,6 +210,22 @@ folder maps onto.
 - ❌ PMLA's exact scheduled-offence count and MLAT-country count in this
   book reflect the current numbers. -> These are book-period figures;
   verify from a current ED/MHA source.
+- ❌ The Act is the "Prevention of Money Laundering Act, 2005." -> The
+  statute is the Prevention of Money-Laundering Act, **2002**; 2005 is the
+  year it was brought into force.
+- ❌ Attached assets are recovered assets. -> Attachment is provisional
+  and precedes adjudication; confiscation follows conviction. A statistic
+  of "assets attached" says nothing about how many cases ended in
+  conviction — which is precisely the gap FATF's 2024 report asked India
+  to close.
+- ❌ FATF "grey list" and FATF "regular follow-up" mean roughly the same
+  thing. -> Grey-listing is inclusion among *jurisdictions under increased
+  monitoring* for strategic deficiencies; regular follow-up is the least
+  demanding **post-evaluation reporting category**. They come from
+  different FATF processes entirely.
+- ❌ Terror financing is prosecuted only under PMLA. -> UAPA carries its
+  own fund-raising offences and the Section 51A freezing obligation, and
+  the WMD Act (as amended in 2022) covers proliferation financing.
 
 ## 8. 📰 Current anchor
 

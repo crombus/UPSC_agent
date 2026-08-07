@@ -3,8 +3,10 @@
 > **Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV.
 > **Core area:** Deeper treatment of transparency's ethical architecture, RTI's institutional
 > evolution, and the limits of information-based accountability.
-> **Grounded in:** 2nd ARC 4th Report *Ethics in Governance* (2007); RTI Act, 2005; RTI (Amendment)
-> Act, 2019; audited GS-IV PYQs (2024-2025 Mains).
+> **Grounded in:** 2nd ARC, 4th Report *Ethics in Governance* (2007) and 1st Report *Right to
+> Information* (2006); RTI Act, 2005; RTI (Amendment) Act, 2019 and RTI Rules, 2019; Digital
+> Personal Data Protection Act, 2023 s.44(3) (in force 13 November 2025); audited GS-IV PYQs
+> (2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/15_Transparency-RTI-and-Information-Sharing.md`.*
 
@@ -37,7 +39,9 @@ concern.
 | Concept | Precise meaning |
 |---|---|
 | ✅ **RTI's disclosure architecture** | Section 4 mandates *proactive* suo motu disclosure by public authorities; Sections 6-8 govern citizen-initiated requests and specify exemptions (Section 8: national security, cabinet papers, commercial confidence, personal privacy, etc.). |
-| ✅ **RTI (Amendment) Act, 2019 — precise change** | Removed the fixed five-year (or age-65) tenure and the statutory salary-equivalence (to Election Commissioners at the Centre, to the State Election Commissioner/Chief Secretary at the State level) for the CIC and Information Commissioners, replacing both with terms/conditions prescribed by Central Government rules. |
+| ✅ **RTI (Amendment) Act, 2019 — precise change** | Amended Sections 13 and 16 to replace the fixed five-year term (or age 65, whichever earlier) and the statutory salary-equivalence — to Election Commissioners at the Centre, and to the State Election Commissioner/Chief Secretary at the State level — with terms, salaries, allowances and other service conditions "as may be prescribed by the Central Government", and expanded Section 27 (new clauses 27(2)(ca) and (cb)) to enable that rule-making. The age ceiling of 65 remains. |
+| ✅ **RTI Rules, 2019 (made under the amended Act)** | Prescribe a term of **three years**, or until the age of 65, whichever is earlier, for the Chief Information Commissioner and Information Commissioners at both Central and State level. ⚠️ The three-year term comes from the *Rules*, not from the 2019 Amendment Act itself — a distinction between enactment and delegated legislation that answers frequently blur. |
+| ✅ **RTI Section 8(1)(j) as substituted (in force 13 November 2025)** | Section 44(3) of the Digital Personal Data Protection Act, 2023 replaced the earlier public-activity/larger-public-interest privacy test with a bare exemption for "information which relates to personal information" — a live change in the disclosure default that is directly examinable. |
 | ⚠️ **Institutional independence as an information-ethics variable** | Transparency law is only as strong as the independence of its adjudicating body; a datum-transparency mechanism (RTI) can be substantively weakened by process-level changes (appointment/tenure/salary control) without touching the citizen's formal "right" to request information at all. |
 | ⚠️ **Information asymmetry and its ethical significance** | Bureaucratic discretion is partly a function of information asymmetry between official and citizen; RTI's ethical contribution is reducing this asymmetry, but its effectiveness is bounded by enforcement-body independence and citizen capacity (see `01`'s "asymmetry of power" framing). |
 
@@ -51,12 +55,11 @@ concern.
   Parliamentary statute.
 - ✅ Post-2019: these protections were replaced by terms and conditions "as may be prescribed" by
   Central Government rules — meaning tenure, salary and allowances are now set by executive
-  notification rather than fixed in the Act. 📰 Current rules (as independently verified) set a
-  three-year term, and the change has drawn sustained criticism (from legal experts, former
-  commissioners and transparency advocates) that it reduces the Information Commissions'
-  institutional insulation from executive influence, including for State Information Commissions,
-  whose service conditions are now also determined centrally rather than by the respective State
-  Government.
+  notification rather than fixed in the Act. 📰 Rule 3 of the RTI Rules, 2019 accordingly prescribes
+  a **three-year** term (or age 65, whichever is earlier), and the change has drawn sustained
+  criticism from former commissioners and transparency advocates that it reduces the Information
+  Commissions' institutional insulation from executive influence — including for State Information
+  Commissions, whose service conditions are now also determined centrally.
 - ⚠️ Advanced ethical reading: this is a textbook illustration of how **transparency law's
   substance can be hollowed out through process-level (appointment/tenure) changes** without
   amending the citizen-facing "right to information" provisions themselves — a caution for any
@@ -79,6 +82,15 @@ concern.
   ARC's own Colloquium framing) is when exemptions are invoked as a *default* posture rather than a
   narrowly justified exception, effectively reintroducing an Official-Secrets-Act mindset through
   administrative practice even where RTI itself remains formally in force.
+- 📰 This concern sharpened on **13 November 2025**, when Section 44(3) of the DPDP Act, 2023 came
+  into force and substituted Section 8(1)(j): the exemption now reads simply "information which
+  relates to personal information", dropping the earlier requirement that the information have no
+  relationship to any public activity or interest, and dropping the express override where "the
+  larger public interest justifies the disclosure". ⚠️ Critics argue this can shield
+  disclosure of officials' service records, beneficiary lists and similar data previously released
+  under the larger-public-interest test; defenders argue it aligns RTI with a general data-protection
+  regime. Present it as a live, contested change — and note that Section 8(2)'s public-interest
+  override and Section 11's third-party procedure remain on the statute book.
 - ⚠️ A useful advanced test: does the withholding authority provide a specific, reasoned justification
   tied to a named Section 8 exemption, or a generic, unparticularised invocation of "public
   interest"? The former is legitimate exemption use; the latter risks default-secrecy practice.
@@ -94,9 +106,10 @@ concern.
 
 ## 4. Institutional and reform architecture
 
-- ✅ ARC's own recommendation (Colloquium annexure) that the Official Secrets Act, 1923 be repealed
-  remains a dated 2007 recommendation; 📰 its current legislative status should be verified
-  independently rather than assumed resolved.
+- ✅ The ARC's **First Report** on the Right to Information (2006, para 2.2.12) recommended that the
+  Official Secrets Act, 1923 "should be repealed, and substituted by a chapter in the National
+  Security Act, containing provisions relating to official secrets"; 📰 on the position verified as
+  at 4 August 2026 that recommendation has not been implemented and the OSA remains in force.
 - ⚠️ Restoring statutory (Parliament-fixed) tenure and salary protection for Information Commissioners
   — reversing the 2019 Amendment's executive-rule-making approach — is a frequently proposed reform
   to re-strengthen RTI's enforcement-body independence, directly relevant to "how to strengthen RTI"
@@ -128,13 +141,15 @@ concern.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ The RTI (Amendment) Act, 2019 removed the statutorily fixed tenure/salary protections for the
-  CIC and Information Commissioners (Centre and States), replacing them with Central Government
-  rule-making discretion.
+- ✅ The RTI (Amendment) Act, 2019 amended Sections 13, 16 and 27, removing the statutorily fixed
+  tenure/salary protections for the CIC and Information Commissioners (Centre and States) and
+  replacing them with Central Government rule-making discretion.
 - ✅ RTI Section 4 mandates proactive/suo motu disclosure; Sections 6-8 govern citizen-initiated
   requests and specify exemptions.
-- 📰 Current rules under the 2019 Amendment set a three-year tenure for Information Commissioners
-  (verify against the latest official notification before citing as fixed/permanent).
+- ✅ Rule 3 of the RTI Rules, 2019 sets a three-year tenure (or age 65, whichever is earlier) for
+  Information Commissioners — the term comes from the Rules, not from the Amendment Act.
+- 📰 Section 44(3) of the DPDP Act, 2023 substituted RTI Section 8(1)(j) with an exemption for
+  "information which relates to personal information", in force from 13 November 2025.
 
 ## 8. Advanced Prelims traps
 
@@ -148,12 +163,17 @@ concern.
 - ❌ Proactive (Section 4) disclosure has fully replaced citizen-request-based RTI in practice. ->
   Section 4 compliance remains uneven across departments; citizen-request-based RTI (Section 6)
   remains the dominant practical mechanism.
+- ❌ The three-year term for Information Commissioners was fixed by the RTI (Amendment) Act, 2019
+  itself. -> The Act only enabled Central Government rule-making; Rule 3 of the RTI Rules, 2019
+  fixed the three-year term — a distinction between statute and delegated legislation.
 
 ## 9. 📰 Current-anchor application
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 RTI (Amendment) Act, 2019's executive-rule-based tenure/salary regime for Information Commissioners, with a currently notified three-year term, drawing sustained institutional-independence criticism | Provides a concrete, current example of how transparency law's substance can be affected by process-level (appointment/tenure) changes, usable in any "evaluate RTI's current effectiveness" Mains answer. |
+| 📰 RTI (Amendment) Act, 2019 shifting tenure/salary of Information Commissioners to Central Government rules, with Rule 3 of the RTI Rules, 2019 prescribing a three-year term | Concrete example of transparency law's substance being affected by process-level (appointment/tenure) changes, usable in any "evaluate RTI's current effectiveness" Mains answer. |
+| 📰 RTI Section 8(1)(j) as substituted by DPDP Act, 2023 s.44(3), in force 13 November 2025 | The single most current, examinable change to RTI's disclosure default; frame it as a genuine privacy-versus-transparency trade-off rather than as an unambiguous dilution or an unambiguous improvement. |
+| 📰 Official Secrets Act, 1923 still in force despite the ARC's 2006 repeal recommendation | Illustrates the recommendation-versus-enactment gap, and the persistence of a secrecy-default statute alongside a disclosure-default one. |
 
 ## 10. PYQ-based analytical application
 
@@ -172,7 +192,9 @@ reducing reliance on citizen-capacity-dependent individual requests.
 
 1. State RTI's default-reversal principle (disclosure-unless-justified) and its Section 4/6/8
    architecture.
-2. Cite the 2019 Amendment's specific institutional change (tenure/salary via executive rules).
+2. Cite the 2019 Amendment's specific institutional change (tenure/salary via executive rules, with
+   the three-year term coming from the 2019 Rules) and the DPDP-driven substitution of Section
+   8(1)(j) from 13 November 2025.
 3. Assess the resulting independence concern and its implication for RTI's practical enforcement.
 4. Recommend specific reforms (restore statutory tenure protection; expand proactive disclosure;
    invest in citizen legal-literacy/capacity).

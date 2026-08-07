@@ -31,26 +31,36 @@ indigenisation lists + corridors + exports + lifecycle support
 |---|---|
 | ✅ **Atmanirbhar Bharat in defence** | Policy push for greater domestic design, development, production and supply-chain depth in defence. |
 | ✅ **DAP 2020** | Defence Acquisition Procedure governing capital-acquisition pathways and categories. |
-| ✅ **Buy (Indian-IDDM)** | Indian procurement preference for indigenously designed, developed and manufactured systems under DAP logic. |
-| ✅ **Positive Indigenisation List** | Official list of items to be procured from Indian industry after notified timelines. |
-| ✅ **DPSU** | Defence Public Sector Undertaking such as HAL, BEL, BDL, MDL or GRSE. |
+| ✅ **Buy (Indian-IDDM)** | The **highest-priority** DAP category: Indian vendor supplying a product **indigenously designed, developed and manufactured** with the prescribed minimum indigenous content. |
+| ⚠️ **DAP 'Buy' sub-categories in priority order** | **Buy (Indian-IDDM) → Buy (Indian) → Buy (Indian - IDDM/Indian) with Buy & Make (Indian) → Buy (Global - Manufacture in India) → Buy (Global)**. Two categories the file previously omitted are essential: **Buy & Make (Indian)** (Indian vendor manufactures after transfer of technology from a foreign OEM) and **Buy (Global - Manufacture in India)** (foreign vendor buys in, but a minimum share must be manufactured in India through a subsidiary/JV). |
+| ⚠️ **Indigenous content (IC)** | The percentage of contract value that must be Indian. It is the **operative measure** of every DAP category — "indigenous" in DAP is a *value-share test*, not a claim about who designed the system. This is why **design indigenisation, manufacturing indigenisation and value-addition indigenisation are three different things**. |
+| ⚠️ **Offsets** | An obligation on a foreign vendor in large contracts to plough back a share of contract value into Indian defence/aerospace/internal-security industry via purchases, investment or technology transfer. Offsets were narrowed in DAP 2020 (notably dropped for government-to-government and single-vendor routes) after criticism that they had produced limited genuine technology absorption. |
+| ✅ **Positive Indigenisation List** | Official list of items to be procured from Indian industry after notified timelines. ⚠️ Two distinct families exist: **Services PILs** (platforms/weapons the armed forces may import only up to a notified date) and **DPSU PILs** (sub-systems, components and raw materials that DPSUs must source domestically, tracked on SRIJAN). |
+| ✅ **DPSU** | Defence Public Sector Undertaking such as HAL, BEL, BDL, MDL or GRSE. ⚠️ The **Ordnance Factory Board was corporatised in 2021 into seven new DPSUs** (Munitions India, Armoured Vehicles Nigam, Advanced Weapons and Equipment India, Troop Comforts, Yantra India, India Optel and Gliders India) — an important structural reform, not a renaming. |
 | ✅ **Strategic Partnership Model** | DAP route aimed at building long-term domestic capacity in major defence segments through selected private partners. |
-| ✅ **Defence corridor** | Cluster-based industrial ecosystem intended to attract investment, ancillaries, testing and supply chains. |
+| ⚠️ **iDEX / ADITI** | Innovations for Defence Excellence — the MoD-DIO route that funds startups, MSMEs and individual innovators against defence problem statements; ADITI supports deep-tech within it. Its significance is that it opens defence R&D to entrants **outside** the DRDO-DPSU duopoly. |
+| ⚠️ **Technology Development Fund (TDF)** | DRDO-executed fund financing Indian industry (especially MSMEs/startups) to develop defence technologies not yet available domestically. |
+| ✅ **Defence corridor** | Cluster-based industrial ecosystem intended to attract investment, ancillaries, testing and supply chains — **two corridors: Uttar Pradesh and Tamil Nadu**. |
 
 ## 3. Mechanism / how procurement and indigenisation work
 
 1. ✅ A service requirement moves into acquisition planning and an appropriate category under DAP 2020 is chosen.
 2. ✅ DAP 2020, as reflected in the official node and PDF table-of-contents structure, organises capital procurement under ‘Buy’, ‘Buy and Make’, ‘Leasing’, ‘Make’, ‘Design and Development’ and the Strategic Partnership Model.
-3. ✅ Under the ‘Buy’ scheme, official DAP text classifies procurement into Buy (Indian-IDDM), Buy (Indian) and Buy (Global).
-4. ✅ Positive indigenisation lists and the SRIJAN system create a demand-side push by saying specified items should be sourced domestically after notified timelines.
-5. ✅ Corridors, DPSUs, private firms, MSME suppliers and export-promotion systems try to turn policy intent into manufacturing scale.
+3. ✅ Under the ‘Buy’ scheme, DAP text classifies procurement into **Buy (Indian-IDDM), Buy (Indian), Buy & Make (Indian), Buy (Global - Manufacture in India) and Buy (Global)** — a five-fold priority ladder, not a three-fold one.
+4. ⚠️ The approval chain runs: services' requirement → **DAC Acceptance of Necessity (in-principle approval only)** → RFP/tender → technical and field evaluation → commercial negotiation → **contract** → delivery → induction. Confusing an AoN with a purchase is the single commonest factual error in defence-procurement answers.
+5. ✅ Positive indigenisation lists and the SRIJAN system create a demand-side push by saying specified items should be sourced domestically after notified timelines.
+6. ✅ Corridors, DPSUs, private firms, MSME suppliers and export-promotion systems try to turn policy intent into manufacturing scale.
+7. ⚠️ Supply-side instruments (iDEX/ADITI, TDF, defence-industrial corridors, DRDO technology transfer, FDI liberalisation) and demand-side instruments (PILs, IC requirements, DAP priority ladder, defence budget's domestic-capital-procurement earmark) must both work; an answer that mentions only one side is incomplete.
 
 ## 4. Institutions and programmes
 
 - ✅ **Department of Defence Production (DDP), Ministry of Defence:** core institutional anchor for industrial-policy side.
+- ✅ **Defence Acquisition Council (DAC)**, chaired by the Raksha Mantri: grants Acceptance of Necessity and approves categorisation — distinct from DDP (production) and from DRDO (R&D).
 - ✅ **DAP 2020:** official DDP document for acquisition categories and procedures.
 - ✅ **SRIJAN portal:** official dashboard for DPSU positive-indigenisation items and their stage of progress.
-- ✅ **DPSU-linked product filters on DDP site:** HAL, BEL, BDL, MDL, GRSE and GSL are visible on the official products page.
+- ✅ **Defence Innovation Organisation (DIO) / iDEX and ADITI:** startup-and-MSME innovation route under MoD.
+- ✅ **Technology Development Fund (TDF):** DRDO-run funding line for industry-led development of defence technologies.
+- ✅ **DPSU-linked product filters on DDP site:** HAL, BEL, BDL, MDL, GRSE and GSL are visible on the official products page; the seven OFB-successor DPSUs created in 2021 sit alongside them.
 - ✅ **Tamil Nadu Defence Industrial Corridor portal:** official corridor vision is to build a global defence-manufacturing destination and A&D ecosystem.
 - ✅ **UP defence-corridor institutional route:** official-state-corridor architecture exists under the Uttar Pradesh government ecosystem (web-searched official source).
 - ✅ **Defence Exim portal:** official digital platform for defence export/import authorisation processes.
@@ -72,12 +82,15 @@ indigenisation lists + corridors + exports + lifecycle support
 
 - ✅ The official DDP node shows DAP 2020 as a published government document dated 14 Dec 2020.
 - ✅ DAP 2020 broadly classifies capital-acquisition schemes as Buy, Buy and Make, Leasing, Make, Design and Development, and Strategic Partnership Model.
-- ✅ Under the Buy scheme, DAP 2020 recognises Buy (Indian-IDDM), Buy (Indian) and Buy (Global).
+- ✅ Under the Buy scheme, DAP 2020 recognises **Buy (Indian-IDDM), Buy (Indian), Buy & Make (Indian), Buy (Global - Manufacture in India) and Buy (Global)**, in descending order of indigenisation preference.
 - ✅ The SRIJAN dashboard is the official public-facing portal for DPSU positive-indigenisation items.
 - ✅ The official DDP products page exposes manufacturer filters for HAL, BEL, BDL, MDL, GRSE and GSL.
 - ✅ The Tamil Nadu corridor portal frames the corridor as a global defence-manufacturing destination.
 - ✅ Defence exports and authorisation workflows are handled through an official Defence Exim portal under the defence-production ecosystem.
-- ✅ Official policy-search results continue to describe defence FDI as permitted up to 74% under the automatic route and beyond 74% up to 100% under the government route.
+- ✅ Official policy-search results continue to describe defence FDI as permitted up to 74% under the automatic route and beyond 74% up to 100% under the government route — the latter **where it is likely to result in access to modern technology, or for other reasons to be recorded**.
+- ✅ The **Ordnance Factory Board was corporatised in 2021 into seven DPSUs**; DPSU-plus-private is now the production base, alongside HAL, BEL, BDL, MDL, GRSE, GSL, BEML and MIDHANI.
+- ✅ **iDEX/ADITI (MoD Defence Innovation Organisation)** and the **Technology Development Fund (DRDO)** are the two standard supply-side innovation instruments; defence-industrial corridors exist in **Uttar Pradesh and Tamil Nadu**.
+- ✅ **Offsets** were significantly narrowed in DAP 2020 — notably removed for government-to-government, inter-governmental and single-vendor procurements — following criticism about weak technology absorption.
 
 ## 7. UPSC traps
 
@@ -87,15 +100,22 @@ indigenisation lists + corridors + exports + lifecycle support
 - ❌ **A defence corridor is itself an acquisition category under DAP.** -> It is an industrial-cluster policy instrument, not a procurement category.
 - ❌ **FDI automatically means loss of self-reliance.** -> The real issue is whether technology absorption, domestic capacity and value addition deepen.
 - ❌ **Exports alone prove indigenous design capability.** -> Some exports may still depend on imported subsystems or limited domestic depth.
+- ❌ **"Buy (Indian-IDDM), Buy (Indian) and Buy (Global)" is the complete DAP 'Buy' ladder.** -> **Buy & Make (Indian)** and **Buy (Global - Manufacture in India)** are also core categories, and they are exactly where technology transfer and local manufacture are negotiated.
+- ❌ **Indigenous content percentage = indigenous design.** -> IC is a *value-share* test. A system can meet a high IC threshold while its critical design, engines, seekers or semiconductors remain foreign. Distinguish **indigenous design, indigenous manufacture and indigenous value addition**.
+- ❌ **The Ordnance Factory Board still exists.** -> OFB was corporatised in **2021 into seven DPSUs**; answers referring to "OFB" as a current producer are outdated.
+- ❌ **FDI up to 100% in defence is automatic.** -> Up to **74% is automatic**; **beyond 74% and up to 100% requires government approval**, and is considered where it is **likely to result in access to modern technology** or for other reasons to be recorded.
 
 ## 8. 📰 Current anchor
 
-- 📰 **25 Jun 2024 | DDP / SRIJAN-linked official list | Status: in force.** The fifth Positive Indigenisation List for DPSUs added another notified set of items for domestic sourcing after scheduled timelines.
+- 📰 **2021 | Ordnance Factory Board corporatisation | Status: implemented.** OFB was restructured into seven DPSUs — the biggest structural change in India's defence-production base in decades.
+- 📰 **25 Jun 2024 | DDP / SRIJAN-linked official list | Status: notified.** The fifth Positive Indigenisation List for DPSUs added another notified set of items for domestic sourcing after scheduled timelines. ⚠️ Each item carries its own indigenisation deadline, so "in force" applies item-by-item, not to the list as a whole.
 - 📰 **24 Mar 2025 | PIB | Status: ongoing policy push.** The defence-growth release reported record production and exports while linking indigenisation, SRIJAN and Make in India.
-- 📰 **16 Jul 2026 | DDPMoD products page last-updated stamp | Status: operational resource.** The official products page continues to expose DPSU manufacturer filters such as HAL, BEL, BDL, MDL, GRSE and GSL.
+- 📰 **16 Jan 2025 | MRSAM contract with BDL (₹2,960 crore) | Status: contracted.** A useful, dated illustration of the DRDO-design → DPSU-production → services-induction chain actually closing.
+- 📰 **03 Jul 2026 | MoD/PIB | Status: in-principle approval.** MoD material reiterates that a DAC **Acceptance of Necessity is in-principle approval only** — not a contract, delivery or induction. Use this to date-stamp the distinction.
+- 📰 **16 Jul 2026 | DDPMoD products page | Status: operational resource.** The official products page continues to expose DPSU manufacturer filters such as HAL, BEL, BDL, MDL, GRSE and GSL.
 - 📰 **16 Jul 2026 | SRIJAN dashboard access date | Status: ongoing implementation.** The public dashboard continues to track item stages such as EOI, RFP, trials and indigenised progress.
 
-*Current as of 16 Jul 2026; verify for later updates.*
+*Current as of 16 Jul 2026, re-verified 2 Aug 2026; verify for later updates — especially production/export totals, which change every financial year.*
 
 ## 9. PYQ application
 

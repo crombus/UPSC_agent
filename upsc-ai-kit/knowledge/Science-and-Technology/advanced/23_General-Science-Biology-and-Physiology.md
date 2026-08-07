@@ -57,7 +57,7 @@ DNA -> transcription -> RNA -> translation / regulation -> protein -> cell funct
 
 - ✅ **DBT:** biotechnology policy and programme institution linking basic biology to applied missions.
 - ✅ **CSIR-CCMB / CSIR-IGIB:** molecular biology, genomics and systems-biology research ecosystems.
-- ✅ **ICMR / disease-surveillance and public-health institutions:** where physiology, microbiology and immunology become policy action.
+- ✅ **ICMR / disease-surveillance and public-health institutions:** where physiology, microbiology and immunology become policy action. ⚠️ Separate the functions precisely: **ICMR** performs and funds biomedical research; **NCDC and the IDSP/IHIP network under MoHFW** run operational surveillance and outbreak response; **State health departments** deliver programmes; **CDSCO** grants regulatory approvals. Research capacity, surveillance capacity and regulatory capacity fail in different ways and require different remedies.
 - ✅ **WHO-linked surveillance and immunization reporting frameworks:** relevant because public-health biology is continuously monitored, not studied once and forgotten.
 - ⚠️ Applied extensions sit in `13_Biotechnology-Fundamentals-and-DBT-Missions.md`, `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` and `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md`.
 

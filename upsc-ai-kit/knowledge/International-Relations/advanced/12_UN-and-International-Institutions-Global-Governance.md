@@ -33,8 +33,10 @@ FOUR STRUCTURAL DIMENSIONS OF THE DEBATE
              v
 REFORM MECHANISM
 G4 coalition + IGN process + Pact for
-the Future (22 Sep 2024) + G4 statement
-(29 May 2025)
+the Future (22 Sep 2024) + G4 FM joint
+statement (25 Sep 2025) + India's IGN
+intervention on the African model
+(20 Apr 2026)
              |
              v
 EAST-WEST STRUCTURAL OBSTACLE
@@ -90,10 +92,21 @@ US and the Russia-China axis) is the binding constraint.
    Russo-Chinese alliance" — describes how contemporary great-power rivalry
    (not only the original 1945 veto design) actively obstructs consensus on
    specific reform proposals.
-7. **Outcome: sustained, dated advocacy without resolution.** The G4 statement
-   (29 May 2025) demonstrates continuing coalition activity, but reform remains
-   correctly described (both PYQs implicitly, and this analysis explicitly) as
-   unresolved rather than imminent.
+7. **Outcome: sustained, dated advocacy without resolution.** The G4 Foreign
+   Ministers' joint statement (25 September 2025) records "strong concern over
+   the continued absence of concrete progress on UNSC reform in the
+   Intergovernmental Negotiations (IGN) format" while asserting that "consensus
+   is not a decision-making requirement" — ⚠️ an important analytical move,
+   because it reframes the blockage as a contested procedural convention rather
+   than a legal rule. Reform nonetheless remains correctly described (both PYQs
+   implicitly, and this analysis explicitly) as unresolved rather than imminent.
+8. **Meanwhile, global governance advances elsewhere.** ⚠️ A distinctively
+   advanced point: while Charter-level reform stalls, the same system produced
+   the UN80 Initiative (12 March 2025), the ICJ's climate advisory opinion
+   (23 July 2025), the BBNJ Agreement's entry into force (17 January 2026) and
+   the WHO Pandemic Agreement's adoption (20 May 2025). Institutional change is
+   migrating to the tracks that do **not** require P5 ratification — an
+   explanation of the reform impasse's consequence, not merely its cause.
 
 ## 4. Institutional and reform architecture
 
@@ -105,20 +118,53 @@ US and the Russia-China axis) is the binding constraint.
   counter-pressure that explains part of the reform impasse; cite any specific
   claim about their current position only with independent, dated
   verification.
-- 📰 **UN Pact for the Future (22 September 2024):** a summit-level outcome
-  document addressing UN reform and governance themes at the leader level.
-- 📰 **G4 statement (29 May 2025):** a recent coordination statement
-  reaffirming the G4's shared reform position.
-- 📰 **India's IGN intervention (20 April 2026):** the current dated Indian
-  intervention on Security Council reform, including engagement with the
-  African reform model; it remains a negotiating position.
-- ✅ **UNSC Counter-Terrorism Committee (CTC):** a subsidiary body whose
-  effectiveness is structurally limited by its coordinating (not enforcing)
-  mandate — the central analytical point for 2024 Q19.
+- 📰 **UN Pact for the Future (22 September 2024):** adopted at the Summit of
+  the Future, with the Global Digital Compact (Annex I) and the Declaration on
+  Future Generations (Annex II).
+- 📰 **G4 Foreign Ministers' joint statement (New York, 25 September 2025):**
+  reaffirms expansion in both categories, backs the Common African Position as
+  enshrined in the Ezulwini Consensus and Sirte Declaration, and argues that
+  reform discussion "need not be confined to the IGN."
+- 📰 **India's IGN intervention (20 April 2026):** on the African model —
+  India aligned with the L.69 and G4 statements and, nationally, backed a
+  **26-member Council**, expansion in both categories, an "all or none"
+  principle on the veto ("there cannot be a sub-category within the permanent
+  category"), a larger role for troop-contributing countries in mandate design,
+  and the position that non-permanent-only expansion "would not result in real
+  and substantive reform." ⚠️ A negotiating position, not reform achieved.
+- ⚠️ **IGN process status:** co-chaired for the 80th session by Kuwait and the
+  Netherlands (appointed 31 October 2025); the Assembly encouraged work "with a
+  view to developing a consolidated model" but had adopted **neither a
+  consolidated model nor a decision commencing text-based negotiations** as of
+  3 August 2026, with the July 2026 correspondence covering a revised Elements
+  Paper and a rollover decision.
+- 📰 **Parallel reform tracks that bypass Charter amendment:** the **UN80
+  Initiative** (launched 12 March 2025) on Secretariat efficiency, mandate
+  review and structural realignment; and the **Secretary-General selection
+  process** for the post falling vacant on 31 December 2026, formally initiated
+  by joint letter of the Presidents of the General Assembly and Security
+  Council on 25 November 2025 under resolution 79/327. ⚠️ Both change how the
+  UN works without changing who sits on the Council.
+- 📰 **Adjudicative and treaty-making tracks:** the ICJ's advisory opinion on
+  *Obligations of States in respect of Climate Change* (23 July 2025) and the
+  BBNJ Agreement's entry into force (17 January 2026) show international law
+  advancing where the Council is deadlocked. ⚠️ An advisory opinion is
+  authoritative but not binding; India signed BBNJ on 25 September 2024 without
+  ratifying, so it is not a party.
+- ✅ **UNSC Counter-Terrorism Committee (CTC):** established by resolution 1373
+  (28 September 2001); a subsidiary body whose effectiveness is structurally
+  limited by its coordinating (not enforcing) mandate — the central analytical
+  point for 2024 Q19. 📰 Its expert arm CTED holds a mandate to 5 January 2029
+  under resolution 2810 (2025); the Delhi Declaration was adopted at the CTC
+  special meeting in India on 29 October 2022. ⚠️ Listings sit with the separate
+  1267/1989/2253 ISIL (Da'esh) and Al-Qaida Sanctions Committee, not the CTC —
+  a distinction that decides whether an answer on "effectiveness" is even
+  addressing the right body.
 - ⚠️ **IMF/World Bank governance reform:** a parallel, financing-dimension
   reform demand (voting-share rebalancing) that runs alongside, but is
-  institutionally separate from, UNSC reform (Economy owns their operational
-  lending mandates).
+  institutionally separate from, UNSC reform. 📰 IDA21 was finalised in December
+  2024, mobilising USD 100 billion for FY2025-28 (Economy owns their
+  operational lending mandates).
 
 ## 5. Indian applications and boundary cases
 
@@ -181,9 +227,16 @@ US and the Russia-China axis) is the binding constraint.
   decades ago."
 - ✅ The G4 coalition became more concretely active from 2010, per Tharoor,
   superseding the "feckless" Open-Ended Working Group approach.
-- 📰 The UN Pact for the Future (22 September 2024), G4 statement (29 May
-  2025) and India's IGN intervention (20 April 2026) are dated
-  reform-process milestones, none of which changes the Charter by itself.
+- 📰 The UN Pact for the Future (22 September 2024, with the Global Digital
+  Compact and Declaration on Future Generations as annexes), the G4 Foreign
+  Ministers' joint statement (25 September 2025) and India's IGN intervention
+  (20 April 2026) are dated reform-process milestones, none of which changes
+  the Charter by itself.
+- 📰 India's stated national position at the IGN (20 April 2026) is a 26-member
+  Council, expansion in both categories, and veto parity between existing and
+  new permanent members.
+- 📰 India's most recent UNSC non-permanent terms were 2011-12 and 2021-22; it
+  launched its candidature for 2028-29 on 13 July 2026.
 
 ## 8. Advanced Prelims traps
 
@@ -205,10 +258,13 @@ US and the Russia-China axis) is the binding constraint.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The UN Pact for the Future (22 September 2024) and the G4 statement (29
-  May 2025) remain relevant; India's **20 April 2026 IGN intervention** is
-  the current dated Indian position. Treat all three as process evidence, not
-  completed institutional reform.
+- 📰 The UN Pact for the Future (22 September 2024) and the G4 Foreign
+  Ministers' joint statement (25 September 2025) remain relevant; India's
+  **20 April 2026 IGN intervention** is the current dated Indian position.
+  Treat all three as process evidence, not completed institutional reform.
+  ⚠️ As of 3 August 2026 the General Assembly had adopted neither a consolidated
+  model nor a decision commencing text-based negotiations — the single most
+  important status fact for any UN-reform answer.
 
 ## 10. PYQ-based analytical application
 
@@ -216,20 +272,30 @@ US and the Russia-China axis) is the binding constraint.
   Security Council's Counter Terrorism Committee (CTC) and its associated
   bodies in addressing and mitigating this threat at the international level.*
   An advanced answer should: (1) define the CTC's coordinating/monitoring
-  mandate precisely; (2) note its dependence on member-state compliance
-  capacity as the central limitation on "effectiveness"; (3) use India's own
-  chairmanship as evidence of substantive engagement; (4) avoid claiming direct
-  enforcement power for the CTC.
+  mandate precisely (resolution 1373, 28 September 2001) and distinguish it from
+  the 1267/1989/2253 ISIL and Al-Qaida Sanctions Committee, which does the
+  listing; (2) note its dependence on member-state compliance
+  capacity as the central limitation on "effectiveness," while crediting CTED's
+  assessment machinery (mandate to 5 January 2029 under resolution 2810 (2025));
+  (3) use India's own chairmanship and the Delhi Declaration (29 October 2022)
+  on terrorist misuse of new and emerging technologies as evidence of
+  substantive engagement; (4) avoid claiming direct enforcement power for the
+  CTC.
 - ✅ **2025 Q20 (direct):** *"The reform process in the United Nations remains
   unresolved, because of the delicate imbalance of East and West and
   entanglement of the USA vs. Russo-Chinese alliance." Examine and critically
   evaluate the East-West policy confrontations in this regard.* An advanced
   answer should: (1) distinguish the veto's stabilising-versus-blocking dual
-  character; (2) cite the G4/IGN process and the dated Pact for the Future/G4
-  statement as evidence of sustained but unresolved advocacy; (3) acknowledge
+  character; (2) cite the G4/IGN process and the dated Pact for the Future and
+  G4 Foreign Ministers' joint statement (25 September 2025) as evidence of
+  sustained but unresolved advocacy, noting that as of 3 August 2026 neither a
+  consolidated model nor text-based negotiation had been agreed; (3) acknowledge
   the East-West fault line as significant but not the sole explanatory factor,
   noting counter-coalition opposition as an additional obstacle; (4) avoid
-  predicting a specific reform outcome or timeline.
+  predicting a specific reform outcome or timeline. ⚠️ A distinguishing move:
+  observe that institutional change has migrated to tracks that do not require
+  P5 ratification — UN80 (2025), the ICJ climate advisory opinion (2025) and the
+  BBNJ Agreement's entry into force (2026).
 
 ## 11. Mains-ready framework
 

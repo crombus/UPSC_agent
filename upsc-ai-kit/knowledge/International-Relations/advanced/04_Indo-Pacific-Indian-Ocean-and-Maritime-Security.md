@@ -60,7 +60,9 @@ India — holds an uncontested security-guarantor position.
 | ⚠️ **Island-state agency vs. dependency framing** | Treating Maldives, Seychelles, Mauritius or Sri Lanka merely as objects of India-China competition understates their own agency in balancing multiple partners for their own developmental and security interests — a framing correction examiners reward. |
 | ✅ **Net security provider — a contested, not settled, label** | ⚠️ The phrase is used in strategic-studies commentary to describe India's aspirational regional security role, but it is not asserted here as fixed, official doctrine absent a specific dated official source — treat any Mains use of the term as a commentary framing, not a proven institutional status. |
 | ✅ **External-power basing as a structural feature** | ✅ VisionIAS material notes ports and naval bases (e.g., Djibouti, Gwadar-type facilities) reflecting "growing military ambitions" of external powers "in the otherwise peaceful Indian Ocean region" — a structural, ongoing feature of the maritime commons, not a one-off event. |
-| ⚠️ **HADR diplomacy vs. HADR operations** | IR studies the cooperative frameworks and readiness partnerships (diplomacy); the operational relief cycle (evacuation, logistics, command) belongs to Disaster Management — a boundary this folder maintains even though a dedicated Disaster Management folder does not yet exist here. |
+| ⚠️ **HADR diplomacy vs. HADR operations** | IR studies the cooperative frameworks and readiness partnerships (diplomacy); the operational relief cycle (evacuation, logistics, command) belongs to `Disaster-Management/basic/17` and `18` — a boundary this folder maintains. |
+| 📰 **Chairship vs. control** | India chairs IORA (2025-27, assumed November 2025) and IONS (from 20 February 2026), and hosts IFC-IOR (25 partner countries; International Liaison Officers from 15 countries, as stated November 2025). ⚠️ In consensus bodies a chairship confers agenda-setting and convening advantage, not decision authority — conflating the two is the single most common overstatement in answers on this topic. |
+| 📰 **Legal-order participation vs. rule-shaping** | India ratified UNCLOS on 29 June 1995 and accepted the Annex-VII India-Bangladesh maritime-boundary award of 7 July 2014; it signed the BBNJ Agreement on 25 September 2024 but had not ratified when the Agreement entered into force on 17 January 2026. ⚠️ A state that is not a party cannot vote at the Conference of the Parties that will design implementation — a concrete, examinable cost of the signature-ratification gap. |
 
 ## 3. Detailed causal chain: from trade dependence to contested order
 
@@ -111,10 +113,17 @@ India — holds an uncontested security-guarantor position.
 - ⚠️ **Quad's maritime-security dimension:** a non-treaty, asymmetric coalition
   (per Tharoor) — full institutional/membership profile reserved for topic 10 to
   avoid duplicating that treatment here.
-- ⚠️ **Colombo Security Conclave:** a regional trilateral-plus mechanism
-  (India, Sri Lanka, Maldives, with observer/partner engagement) for maritime
-  and security cooperation — cite only dated, verified specifics if elaborating
-  further.
+- ⚠️ **Colombo Security Conclave:** a regional maritime and security-cooperation
+  mechanism. 📰 At the National Security Adviser-level meeting in New Delhi on
+  20 November 2025 its verified members were Bangladesh, India, Maldives,
+  Mauritius and Sri Lanka, with Seychelles attending as an **observer** and
+  Malaysia as a **guest**; on 9 February 2026 India welcomed Seychelles'
+  **decision** to become a full member, without an officially recorded effective
+  accession date. ⚠️ Precisely the kind of case where "member," "observer,"
+  "guest" and "decided to join" must not be collapsed into one claim.
+- ⚠️ **Route Internal Security (naval/anti-piracy operations) to
+  `Internal-Security/basic/07_Maritime-and-Coastal-Security.md` and the HADR
+  operational cycle to `Disaster-Management/basic/17` and `18`.**
 
 ## 5. Indian applications and boundary cases
 
@@ -126,7 +135,17 @@ India — holds an uncontested security-guarantor position.
   agency, Maldives (like other littoral states) balances India against other
   external partners for its own developmental and security calculus — a
   dynamic mirroring India's own strategic-autonomy logic (topic 01) at a
-  smaller scale.
+  smaller scale. 📰 The dated arc is instructive: the Joint Vision of 7 October
+  2024, then FTA Terms of Reference and an INR 4,850 crore Line of Credit on
+  25 July 2025 — ⚠️ India responded to a period of political distance with more
+  instruments, not fewer, which is itself the operative test of whether
+  non-reciprocal accommodation survives partner-state political change.
+- ⚠️ **Boundary case — chairship without control:** India simultaneously chairs
+  IORA (2025-27) and IONS (from February 2026) and hosts IFC-IOR. ⚠️ An
+  advanced answer should treat this as convening capacity, not as evidence that
+  the regional order has settled in India's favour; the same period saw the
+  Colombo Security Conclave still working through membership questions and the
+  BBNJ Agreement enter into force without India as a party.
 - ⚠️ **Boundary case — Quad asymmetry:** Tharoor's point about unequal treaty
   relationships among Quad members means India cannot rely on Quad as a
   substitute for its own bilateral naval capacity-building (Sagar Prahari Bal,
@@ -186,14 +205,25 @@ India — holds an uncontested security-guarantor position.
 - ❌ "Net security provider" is India's settled, official self-description. ->
   Treat this as a commentary/strategic-studies framing unless a specific dated
   official source is cited.
+- ❌ Signing the BBNJ Agreement gave India a seat at its Conference of the
+  Parties. -> Party status follows ratification; India signed on 25 September
+  2024 and had not ratified when the Agreement entered into force on
+  17 January 2026.
+- ❌ Seychelles was a Colombo Security Conclave member in 2025. -> It attended
+  the 20 November 2025 NSA-level meeting as an observer; India welcomed its
+  decision to become a full member on 9 February 2026, with no officially
+  recorded effective accession date.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 The India-Maldives Vision for Comprehensive Economic and Maritime Security
-  Partnership (7 October 2024) remains the most recent verified dated anchor
-  for this topic. Any claim about its implementation status, or about a newer
-  summit outcome, requires independent, dated verification before being treated
-  as ✅.
+- 📰 The India-Maldives Joint Vision for Comprehensive Economic and Maritime
+  Security Partnership (7 October 2024) remains the anchor bilateral instrument.
+  Three later dated developments update the analysis: **MAHASAGAR (12 March
+  2025)** as doctrinal extension, **India's IORA (2025-27) and IONS (from
+  20 February 2026) chairships** as institutional leadership, and the **BBNJ
+  Agreement's entry into force (17 January 2026)** with India a signatory but
+  not a party. ⚠️ Any claim about implementation status, or about a newer summit
+  outcome, requires independent, dated verification before being treated as ✅.
 
 ## 10. PYQ-based analytical application
 
@@ -253,5 +283,8 @@ basing competition mean outcomes remain genuinely open rather than guaranteed.
 - ⚠️ **Cross-links within this folder:** topic 01 (advanced) for strategic
   autonomy mirrored in island-state agency; topic 02 for Maldives' general
   neighbourhood context; topic 10 for Quad's full institutional profile. Route
-  Internal Security (naval/anti-piracy operations) and Disaster Management (HADR
-  operational cycle) conceptually — dedicated folders do not yet exist.
+  naval/anti-piracy operations to
+  `Internal-Security/basic/07_Maritime-and-Coastal-Security.md` and the HADR
+  operational cycle to
+  `Disaster-Management/basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`
+  and `Disaster-Management/basic/18_Governance-Capacity-and-International-Cooperation.md`.

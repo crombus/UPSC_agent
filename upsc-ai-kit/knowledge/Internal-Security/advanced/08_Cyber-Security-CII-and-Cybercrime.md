@@ -6,9 +6,11 @@
 > protection; the audit-mandate model (CERT-In/NCIIPC); DPDP's phased-
 > compliance design as a rights-security balancing exercise.
 > **Grounded in:** VisionIAS Value Added Material, *Challenges to Internal
-> Security through Communication Network*, PDF pp. 3-4, 12-17, 27;
-> `00_Master-Framework.md` Sections 6, 8-9; audited GS-III syllabus;
-> MeitY, DPDP Rules 2025; CERT-In Directions, 28 April 2022.
+> Security through Communication Network*, PDF pp. 3-4, 12-17, 21-23,
+> 27-31; `00_Master-Framework.md` Sections 4A, 6, 8-9; audited GS-III
+> syllabus; the IT Act 2000 (as amended) and the Telecommunications Act
+> 2023 as published in India Code; MeitY, DPDP Rules 2025; CERT-In
+> Directions, 28 April 2022.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/08_Cyber-Security-CII-and-Cybercrime.md`.*
 
@@ -37,6 +39,8 @@ domain); it covers cyber *threats, institutions and resilience* only.
 | ✅ **Federal/private-sector coordination problem** | ⚠️ Most CII (banking, telecom, power) is operated by a mix of private and public entities across multiple regulatory jurisdictions, meaning CII protection cannot be a purely central-government function — it requires binding coordination with private operators and sector regulators, a recurring institutional design challenge. |
 | ✅ **Audit-mandate model** | 📰 CERT-In and NCIIPC jointly conduct thousands of sectoral cybersecurity audits annually (power/energy, transport, BFSI) as a *preventive*, not merely reactive, institutional tool — a structural shift from the 2013-era policy's largely aspirational objectives toward measurable, recurring compliance verification. |
 | ⚠️ **Phased compliance as a rights-security trade-off** | The DPDP Rules' 18-month runway for core compliance provisions (notice/consent, data-fiduciary obligations, cross-border transfer) reflects a deliberate choice to prioritise industry readiness over immediate full enforcement — a trade-off between individual data-rights protection speed and compliance-capacity building. |
+| ⚠️ **Incident, crime and operation — three chains that do not converge** | A CERT-In-reportable **incident** ends in containment and recovery; a **cybercrime** ends (if at all) in conviction; an **information operation** ends in attribution and, at best, diplomatic or platform action. ⚠️ The consequence for analysis: improvements in one chain do not imply improvement in the others, and a "cyber security is improving" claim must specify which chain it means. This is also why incident-reporting volumes are a poor proxy for either crime levels or hostile-state activity. |
+| ⚠️ **The 5G shift as an architectural, not incremental, change** | ✅ VisionIAS records the assessment that 5G carries "200 times more attack vectors" than 4G, because switching moves from centralised hardware to "distributed, software-defined digital routing" on common internet protocols with shared infrastructure and AI-managed networks, creating "potential for mass failure across multiple linked-networks" (PDF pp. 21-22). ⚠️ Analytically this converts telecom security from a perimeter problem into a software-supply-chain and network-governance problem — which is why the policy answers offered (indigenous equipment, in-India data localisation for network data, shared operator responsibility) are industrial and regulatory rather than technical. |
 
 ## 3. Causal model
 
@@ -101,6 +105,26 @@ gap).
   response teams coordinating with CERT-In, reflecting the
   interdependence-driven need for sector-level, not only national-level,
   response capacity (VisionIAS, PDF p. 27; current CERT-In reporting).
+- ✅ **Cyber Swachhta Kendra:** the botnet-cleaning and malware-analysis
+  centre — a *hygiene/prevention* institution distinct from CERT-In's
+  response function and NCIIPC's protective function (VisionIAS, PDF
+  p. 23).
+- ⚠️ **Trusted-source telecom procurement:** VisionIAS records that
+  measures such as mandatory local certification and an equipment testing
+  laboratory were announced to ensure imported communication equipment is
+  free of vulnerabilities (PDF p. 23). ⚠️ India has since operated a
+  trusted-source/trusted-product regime for telecom equipment under the
+  National Security Directive on the Telecommunication Sector, administered
+  through the National Cyber Security Coordinator's office — verify the
+  current designating authority and product list from a dated DoT/MeitY
+  release before citing specifics.
+- ⚠️ **Telecommunications Act, 2023:** replaced the Indian Telegraph Act,
+  1885 and carries express telecom cyber-security obligations alongside
+  the interception and service-suspension powers used in topic 09. ⚠️ Its
+  existence means "India's cyber legal framework" is now at least three
+  statutes (IT Act, Telecommunications Act, DPDP Act) with different
+  regulators — a fragmentation point worth naming in any "comprehensive
+  strategy" assessment.
 - 📰 **DPDP Rules' phased architecture (2025-2027):** immediate Data
   Protection Board provisions, a 12-month runway for Consent Manager
   registration, and an 18-month runway for core compliance rules —
@@ -120,7 +144,7 @@ gap).
   equipment security certification, trusted-source procurement rules) —
   this folder claims only the security-institutional response dimension.
 - ⚠️ **Section 66A's post-*Shreya Singhal* status as a rights boundary
-  case:** the 2015 Supreme Court judgment strick down the provision for
+  case:** the 2015 Supreme Court judgment struck down the provision for
   being an unconstitutionally vague restriction on free speech — a
   precedent illustrating that expanding cyber-law enforcement power
   requires careful constitutional calibration, a lesson carried forward
@@ -154,13 +178,18 @@ gap).
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ Section 66A of the IT Act, 2000 was struck down by the Supreme Court
-  in *Shreya Singhal v. Union of India* (2015) as unconstitutional.
-- ✅ CERT-In empanels cybersecurity audit organisations; NCIIPC separately
-  coordinates protection of notified CII. Any quantified audit claim
-  needs a linked official source.
+  in *Shreya Singhal v. Union of India* (2015) as unconstitutional;
+  Section 66F (cyber terrorism) remains in force and carries a maximum of
+  imprisonment for life.
+- ✅ CERT-In (Section 70B) empanels cybersecurity audit organisations;
+  NCIIPC (Section 70A) separately coordinates protection of notified CII.
+  Any quantified audit claim needs a linked official source.
 - ✅ Huawei and ZTE have historically supplied a substantially larger
   share of India's telecommunications equipment than Indian manufacturers
   — a cited supply-chain vulnerability illustration.
+- ✅ Security-agency assessment cited by VisionIAS put 5G's attack vectors
+  at roughly 200 times those of 4G, owing to software-defined,
+  virtualised, shared-infrastructure network design.
 - 📰 The DPDP Rules, 2025 commence in three phases: 13 November 2025
   (Board provisions); 13 November 2026 (Consent Managers); 13 May 2027
   (core compliance rules).
@@ -179,6 +208,16 @@ gap).
 - ❌ The DPDP Rules became fully enforceable the day they were notified. ->
   Commencement is explicitly phased across three dates through 13 May
   2027 for the core compliance provisions.
+- ❌ India's cyber legal framework is contained in the IT Act alone. -> It
+  is now at least three statutes with different regulators — the IT Act
+  2000 (offences, CII, interception/blocking), the Telecommunications Act
+  2023 (telecom networks, interception, service suspension, telecom cyber
+  security) and the DPDP Act 2023 (personal data) — with the BNS supplying
+  the general penal provisions since 1 July 2024.
+- ❌ Rising audit or incident-report counts prove a worsening threat
+  environment. -> They may equally reflect better detection, mandatory
+  reporting and wider coverage; the direction of a reporting series is not
+  the direction of risk.
 
 ## 9. 📰 Current-anchor note
 

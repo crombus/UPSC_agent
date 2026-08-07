@@ -3,12 +3,13 @@
 > **Subject:** International Relations | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II.
 > **Core area:** Globalisation and protectionism; sanctions and export controls;
 > supply chains; FTAs/CEPAs; WTO rules as context.
-> **Grounded in:** WTO India notifications portal; audited GS-II syllabus and
-> PYQ; `00_Master-Framework.md` Sections 3 and 6. *(Note: the Sikri/Tharoor
-> Qdrant retrieval for this specific topic returned no directly relevant
-> passages; content here is accordingly built primarily on the syllabus,
-> the verified PYQ and standard, non-fabricated institutional facts, tagged
-> conservatively.)*
+> **Grounded in:** WTO ministerial-conference and dispute-settlement records;
+> official EFTA/UK/EU trade documentation; US executive orders and Federal
+> Register notices; Economic Survey 2025-26; audited GS-II syllabus and PYQ;
+> `00_Master-Framework.md` Sections 3 and 6. *(Note: Sikri and Tharoor were read
+> directly from the source PDFs; neither develops this specific topic at length,
+> so the content here is built on the syllabus, the verified PYQ and dated
+> first-party institutional records, tagged conservatively.)*
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md`.*
 
@@ -62,7 +63,8 @@ technology-control pressures that "waning globalisation" produces.
 | ⚠️ **Protectionism** | Trade-policy measures (tariffs, quotas, local-content requirements) that shield domestic industry from international competition — Economy owns the precise tariff/trade-data mechanics; IR owns the diplomatic and strategic meaning of a protectionist turn. |
 | ⚠️ **Sanctions and export controls** | Instruments used by states to restrict trade or technology transfer for foreign-policy or security reasons — a direct expression of sovereign nationalism in the economic domain. |
 | ⚠️ **FTA/CEPA** | Free Trade Agreements and Comprehensive Economic Partnership Agreements — bilateral/plurilateral instruments that carve out preferential trade terms, often pursued precisely because multilateral (WTO) liberalisation has stalled. |
-| ✅ **WTO as the background rules framework** | The World Trade Organization (founded 1995; India a founding member) remains the reference framework for trade rules even as its negotiating function has weakened and states increasingly turn to bilateral FTAs and unilateral measures. |
+| ✅ **WTO as the background rules framework** | The World Trade Organization (founded 1995; India a founding member) remains the reference framework for trade rules even as its negotiating function has weakened and states increasingly turn to bilateral FTAs and unilateral measures. 📰 MC13 met at Abu Dhabi on 26 February-2 March 2024 and MC14 at Yaoundé, Cameroon, on 26-30 March 2026. The **Appellate Body has had zero members since 30 November 2020** and lost its three-member quorum for new appeals on 10 December 2019; ⚠️ India is **not** a participant in the interim MPIA appeal-arbitration arrangement. |
+| 📰 **Agreement on Fisheries Subsidies** | Adopted at WTO MC12 on 17 June 2022; **entered into force 15 September 2025** on reaching two-thirds acceptance; ⚠️ **India deposited its instrument of acceptance on 20 July 2026** — a clean worked example of the adoption -> entry-into-force -> individual-acceptance sequence. |
 
 ## 3. How the globalisation/nationalism mechanism works
 
@@ -90,21 +92,47 @@ technology-control pressures that "waning globalisation" produces.
 
 ## 4. Institutions and agreements
 
-- ✅ **WTO:** the multilateral trade-rules body; use only date-stamped
-  measures/notifications when citing India's current WTO-related actions
-  (e.g., the WTO's India notifications portal), rather than an undated general
-  claim.
-- ⚠️ **UAE-India CEPA and other bilateral FTAs/CEPAs:** examples of India's
-  turn toward bilateral trade-liberalisation instruments amid stalled
-  multilateral negotiations (Economy owns detailed tariff-schedule mechanics).
-- ⚠️ **Export-control regimes (e.g., technology-transfer restrictions):**
-  instruments used by major powers, including in India's own technology
-  partnerships (cross-link to topic 03's iCET discussion of persistent US
-  export restrictions).
-- ⚠️ **Carbon-border and climate-linked trade measures:** an emerging category
-  of externally imposed trade conditions with climate objectives, illustrating
-  how "external policy effects" now include climate policy transmission, not
-  only classical tariffs.
+- ✅ **WTO:** the multilateral trade-rules body. 📰 MC13 (Abu Dhabi, 26 February-
+  2 March 2024) produced the Abu Dhabi Ministerial Declaration and decisions on
+  dispute-settlement reform, special and differential treatment, LDC graduation
+  and e-commerce; MC14 (Yaoundé, 26-30 March 2026) took decisions on small
+  economies and SPS/TBT implementation and continued fisheries negotiations
+  toward MC15, while e-commerce moratorium questions remained unresolved. At
+  MC14 the Investment Facilitation for Development agreement had the support of
+  165 of 166 members for incorporation, but **consensus was absent, so it was
+  not incorporated** — ⚠️ near-unanimity is not consensus in WTO practice.
+- 📰 **India's FTA/CEPA cycle (dated status, 3 August 2026):**
+
+  | Agreement | Status | Date |
+  |---|---|---|
+  | India-UAE CEPA | In force | 1 May 2022 |
+  | India-Australia ECTA | In force | 29 December 2022 |
+  | India-EFTA TEPA | Signed 10 March 2024; **in force 1 October 2025** | 2024/2025 |
+  | India-UK CETA | Signed London 24 July 2025; **in force 15 July 2026**, with the Double Contributions Convention in force the same day | 2025/2026 |
+  | India-EU FTA | **Negotiations concluded 27 January 2026** at the 16th India-EU Summit; ⚠️ not signed, ratified or in force | 2026 |
+  | India-Oman CEPA | Signed | 18 December 2025 |
+  | India-Chile CEPA | Negotiations concluded | 5 December 2025 |
+  | India-New Zealand FTA | Signed | 27 April 2026 |
+  | India-US | Interim framework and continuing negotiation; ⚠️ no comprehensive agreement in force | 2025-2026 |
+  | RCEP | India announced it would not join | 4 November 2019 |
+
+  ⚠️ EFTA's "USD 100 billion over 15 years and one million direct jobs" is a
+  shared objective in the TEPA framework, not realised investment or employment.
+- 📰 **Carbon-border and climate-linked trade measures:** the EU's Carbon Border
+  Adjustment Mechanism entered its **definitive regime on 1 January 2026** —
+  the clearest current example of an external climate policy transmitting
+  directly into India's trade interests.
+- 📰 **Unilateral tariff and sanctions measures as external-policy effects:**
+  the 2025-26 US tariff cycle on India (25% reciprocal duty effective 7 August
+  2025; an additional 25% Russian-oil-linked duty effective 27 August 2025,
+  removed from 7 February 2026; IEEPA additional duties ended in February 2026;
+  a separate 10% Section 301 duty from 24 July 2026) illustrates how a single
+  partner's executive action can reshape market access within months. ⚠️ These
+  are another state's domestic measures creating exposure — not obligations
+  binding on India.
+- ⚠️ **Export-control regimes:** instruments used by major powers, including in
+  India's own technology partnerships (cross-link to topic 03's iCET/TRUST
+  discussion of persistent US export restrictions).
 
 ## 5. Indian applications and examples
 
@@ -113,18 +141,40 @@ technology-control pressures that "waning globalisation" produces.
   words) — this is the anchor PYQ for this topic.
 - ⚠️ A strong answer to 2025 Q10 should define globalisation and sovereign
   nationalism as co-present (not sequential) forces, cite protectionism/
-  sanctions/export-control examples, and connect the trend to India's own
-  navigation of both opportunity (supply-chain diversification, topic 03) and
-  risk (exposure to others' protectionist measures) — while avoiding any
-  fabricated statistic or unverified current-affairs claim.
+  sanctions/export-control examples — the 2025-26 US tariff cycle on India and
+  the EU CBAM's definitive regime (from 1 January 2026) are the cleanest dated
+  cases — and connect the trend to India's own navigation of both opportunity
+  (supply-chain diversification, topic 03) and risk (exposure to others'
+  protectionist measures), while avoiding any fabricated statistic or unverified
+  current-affairs claim.
 - ⚠️ India's own use of FTAs/CEPAs alongside continued WTO engagement
   exemplifies a state navigating both the globalised (seeking market access
   abroad) and nationalist (protecting select domestic sectors) dimensions
-  simultaneously.
+  simultaneously — evidenced by TEPA entering into force (1 October 2025) and
+  CETA (15 July 2026) even as India stayed out of RCEP and out of the WTO's
+  MPIA appeal arrangement.
 
 ## 6. Must-Know Facts for Prelims
 
 - ✅ The WTO was established in 1995, with India as a founding member.
+- 📰 WTO MC13 met at Abu Dhabi (26 February-2 March 2024) and MC14 at Yaoundé,
+  Cameroon (26-30 March 2026).
+- 📰 The WTO Agreement on Fisheries Subsidies was adopted 17 June 2022 and
+  entered into force 15 September 2025; India deposited its instrument of
+  acceptance on 20 July 2026.
+- 📰 The WTO Appellate Body has had no members since 30 November 2020 and lost
+  its quorum for new appeals on 10 December 2019; India is not a participant in
+  the MPIA interim appeal arrangement.
+- 📰 India-EFTA TEPA was signed 10 March 2024 and entered into force 1 October
+  2025; India-UK CETA was signed 24 July 2025 and entered into force 15 July
+  2026; India-EU FTA negotiations were concluded on 27 January 2026 but the
+  agreement was not signed or in force.
+- 📰 The EU's Carbon Border Adjustment Mechanism began its definitive regime on
+  1 January 2026.
+- ✅ India announced it would not join RCEP on 4 November 2019.
+- ✅ India ranked 44th of 145 countries on the Harvard Economic Complexity Index
+  in 2023, up from 57th in 2013 but unchanged since 2019 (Economic Survey
+  2025-26) — a structural indicator behind India's export-diversification push.
 - ⚠️ Sovereign nationalism, in this context, refers to reasserted national
   control over trade, technology and strategic industries rather than a purely
   political-nationalist phenomenon.
@@ -133,8 +183,6 @@ technology-control pressures that "waning globalisation" produces.
 - ⚠️ Export controls and sanctions are policy instruments distinct from tariffs,
   targeting specific technologies, entities or countries rather than
   across-the-board trade.
-- ⚠️ Carbon-border-type climate-linked trade measures represent an emerging
-  category of external-policy effect distinct from classical protectionism.
 
 ## 7. UPSC traps
 
@@ -151,20 +199,31 @@ technology-control pressures that "waning globalisation" produces.
   itself.
 - ❌ WTO has become irrelevant. -> It remains the reference framework for
   baseline trade rules and dispute settlement even as its negotiating function
-  has weakened — a "weakened," not "irrelevant," institution.
+  has weakened — a "weakened," not "irrelevant," institution. ⚠️ Be precise
+  about the weakness: the Appellate Body has been without members since
+  30 November 2020, so appeals "into the void" are possible, and India does not
+  participate in the MPIA workaround.
+- ❌ Concluding FTA negotiations means the agreement is in force. -> India-EU
+  negotiations were **concluded** on 27 January 2026 but the agreement was
+  neither signed nor in force; by contrast India-EFTA TEPA entered into force on
+  1 October 2025 and India-UK CETA on 15 July 2026.
 - ❌ Climate-linked trade measures are purely an environmental policy matter. ->
   They have a direct trade-policy and diplomatic dimension relevant to IR,
-  even though Economy owns their precise economic mechanics.
+  even though Economy owns their precise economic mechanics; the EU CBAM's
+  definitive regime began on 1 January 2026.
 
 ## 8. 📰 Current anchor
 
-- 📰 Use the **WTO's India notifications portal** (or any other specific,
-  date-stamped official trade measure) as the source for any current-affairs
-  claim in this topic — the research guidance for this topic specifically
-  cautions against citing volatile tariff statistics or unratified FTA claims
-  without a specific date. No single dramatic dated event anchors this
-  conceptual topic as clearly as other topics in this folder; date-stamp
-  every specific claim individually instead.
+- 📰 Three dated anchors carry this topic: the **entry into force of India-EFTA
+  TEPA (1 October 2025) and India-UK CETA (15 July 2026)** against the merely
+  **concluded India-EU FTA negotiation (27 January 2026)**; the **EU CBAM
+  definitive regime (from 1 January 2026)**; and **WTO MC14 (Yaoundé, 26-30
+  March 2026)**, where the Investment Facilitation for Development agreement
+  had 165 of 166 members' support yet failed for want of consensus.
+- ⚠️ Date-stamp every specific trade claim individually. Use the WTO's
+  ministerial-conference and dispute-settlement pages, official partner-
+  government trade pages and the Department of Commerce rather than
+  secondary tariff commentary.
 
 ## 9. PYQ application
 
@@ -172,8 +231,11 @@ technology-control pressures that "waning globalisation" produces.
   world is becoming a site of sovereign nationalism." Elucidate.* Structure:
   (1) define globalisation and sovereign nationalism as co-present forces; (2)
   cite protectionism, sanctions/export controls and the FTA-over-WTO shift as
-  evidence; (3) connect to India's own dual navigation (seeking market access
-  while protecting strategic sectors); (4) avoid fabricated statistics — cite
+  evidence — the 2025-26 US tariff cycle, the EU CBAM definitive regime and the
+  MC14 failure of the Investment Facilitation for Development agreement despite
+  165 of 166 members' support; (3) connect to India's own dual navigation
+  (seeking market access via TEPA/CETA while protecting strategic sectors and
+  staying out of RCEP); (4) avoid fabricated statistics — cite
   only date-stamped, verifiable measures if specifics are required.
 
 ## 10. Mains angles
@@ -184,7 +246,8 @@ technology-control pressures that "waning globalisation" produces.
 - ⚠️ Cite India's FTA/CEPA turn as a globalisation-continuation strategy, not
   an anti-globalisation retreat.
 - ⚠️ Avoid asserting any specific tariff percentage, trade-deficit figure or
-  FTA-conclusion date without independent, current verification.
+  FTA-conclusion date without independent, current verification — and always
+  name the exact legal stage (signed / concluded / ratified / in force).
 
 > **Answer thesis:** The post-Cold-War world exhibits waning multilateral
 > globalisation and rising sovereign nationalism as co-present, not sequential,

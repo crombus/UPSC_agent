@@ -25,9 +25,20 @@ are already in place.
   vaguer synonym chosen for effect.
 - **Ornamental vocabulary:** words or phrases chosen to sound impressive
   rather than to communicate a specific meaning.
-- **Functional visual:** a diagram or table that clarifies an actual
-  process or comparison the prose would otherwise state less clearly —
-  not a decoration.
+- **Illustrative visual:** a diagram or table that carries information the
+  prose would state less clearly — a genuine sequence, a genuine
+  multi-item comparison. Removing it would cost the reader something.
+- **Decorative diagram:** a visual that restates in boxes and arrows what
+  one sentence already said. Removing it would cost the reader nothing;
+  it signals effort rather than supplying clarity.
+
+⚠️ **The test is subtractive, not aesthetic.** Do not ask "does this look
+good?" — ask "if I delete this and say it in a sentence, what is lost?"
+An arrow chain showing social-media design → comparison → distress →
+increased use → distress again earns its place because the *loop* is hard
+to hold in a sentence. A box labelled "Causes" above three bullet points
+does not. ❌ In a continuous-prose essay the default is no visual at all;
+`advanced/14` gives the full two-gate earning test.
 
 ## 3. ✅ Exam facts / source basis
 

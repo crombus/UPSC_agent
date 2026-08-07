@@ -39,9 +39,9 @@ application.
 |---|---|
 | ⚠️ **AI ethics in administration** | The set of concerns (bias, opacity/explainability, accountability, human oversight) raised when algorithmic tools inform or make administrative/judicial decisions. |
 | ⚠️ **Algorithmic accountability** | The principle that a human/institution must remain answerable for an AI-assisted decision's outcome — accountability cannot be "delegated" to the algorithm itself. |
-| ✅ **Precautionary principle** (environmental ethics) | Where an action carries a credible risk of serious/irreversible harm, lack of full scientific certainty should not be used as a reason to postpone protective measures. |
+| ✅ **Precautionary principle** (environmental ethics) | Where an activity raises threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation. ⚠️ Rio Declaration **Principle 15** (1992), which is its classic statement, actually uses the words "precautionary **approach**". |
 | ⚠️ **Intergenerational justice** | The ethical obligation to consider the interests/rights of future generations (who cannot participate in present decision-making) when making resource-use and environmental decisions today. |
-| ✅ **Common but Differentiated Responsibilities (CBDR)** | The international climate-ethics principle that all states share responsibility for addressing climate change, but developed and developing nations bear differentiated responsibility/capacity based on historical emissions and development needs. |
+| ✅ **Common but Differentiated Responsibilities (CBDR)** | Rio Declaration Principle 7 and UNFCCC Articles 3.1 and 4.1: all states share responsibility for addressing climate change, but responsibility is differentiated by historical contribution and "respective capabilities". The Paris Agreement (Article 2(2)) expresses it as **CBDR-RC**, "in the light of different national circumstances". |
 
 ## 3. Mechanism: how emerging-ethics dilemmas arise and are resolved
 
@@ -58,7 +58,7 @@ application.
 5. ✅ 2024 GS-IV Q1(a): "application of AI as a dependable source of input for administrative
    rational decision-making is a debatable issue" — requires "critical examination... from the
    ethical point of view," directly testing algorithmic accountability and human oversight.
-6. ✅ 2024 GS-IV Q1(b): "global warming and climate change are the outcomes of human greed in the
+6. ✅ 2024 GS-IV Q2(b): "global warming and climate change are the outcomes of human greed in the
    name of development" — tests intergenerational justice and the ethics of consumption/growth.
 7. ✅ 2025 GS-IV Q2(b): environmental clearance disputes in "ecologically sensitive border areas,"
    examined against "national security" — tests the precautionary principle against strategic/
@@ -77,13 +77,14 @@ application.
 
 ## 5. Must-Know Facts for Prelims
 
-- ✅ The precautionary principle is a foundational concept in environmental ethics and law
-  (embedded in India's environmental jurisprudence via Supreme Court rulings, e.g., *Vellore
-  Citizens' Welfare Forum v. Union of India*, 1996).
-- ✅ CBDR (Common but Differentiated Responsibilities) is a principle of international climate law
-  originating in the UNFCCC (1992) framework.
+- ✅ The precautionary principle is a foundational concept in environmental ethics and law; its
+  classic international statement is Rio Declaration **Principle 15** (1992), which speaks of the
+  "precautionary approach", and it is embedded in India's environmental jurisprudence through
+  *Vellore Citizens' Welfare Forum v. Union of India* (1996).
+- ✅ CBDR appears in Rio Declaration Principle 7 and UNFCCC Articles 3.1 and 4.1 (1992); the Paris
+  Agreement's Article 2(2) uses the fuller CBDR-RC formulation.
 - ⚠️ "Algorithmic accountability" and "explainability" are standard terms in current AI-governance
-  discourse, distinguishing a transparent, auditable AI system from an opaque "black box."
+  discourse, distinguishing a transparent, auditable AI system from an opaque "black box".
 
 ## 6. UPSC traps
 
@@ -94,29 +95,36 @@ application.
   means proportionate protective measures are justified despite scientific uncertainty for serious/
   irreversible risks — not an absolute prohibition on all development.
 - ❌ Climate change is purely a technical/scientific problem with no ethical dimension. -> 2024
-  GS-IV Q1(b) explicitly frames it as an outcome of "human greed... in the name of development,"
+  GS-IV Q2(b) explicitly frames it as an outcome of "human greed... in the name of development,"
   requiring an ethical, not merely technical, response.
 
 ## 7. PYQ application
 
 - ✅ 2024 GS-IV Q1(a): AI as a "dependable source of input" for administrative decisions — critical
   examination from the ethical point of view.
-- ✅ 2024 GS-IV Q1(b): climate change/global warming as an outcome of human greed — ending it to
+- ✅ 2024 GS-IV Q2(b): climate change/global warming as an outcome of human greed — ending it to
   "protect life and bring equilibrium between society and environment."
 - ✅ 2025 GS-IV Q2(b): environmental-clearance disputes in ecologically sensitive border areas,
   examined against national security.
-- ✅ 2024 GS-IV Case Study Q1: tech company's AI-driven data-centre emissions vs profitability/
+- ✅ 2024 GS-IV Q7 (Section B case study): tech company's AI-driven data-centre emissions vs profitability/
   sustainability (see `12`).
 
 ## 8. 📰 Current anchors
 
-- 📰 **India AI Governance Guidelines (November 2025):** provide a dated,
-  domestic framework for people-first, fair, accountable, understandable,
-  safe and sustainable AI; use them for institutional safeguards, not as a
+- 📰 **India AI Governance Guidelines (MeitY, released 5 November 2025):** *Enabling Safe and
+  Trusted AI Innovation* — seven "sutras" (trust is the foundation; people first; innovation over
+  restraint; fairness and equity; accountability; understandable by design; safety, resilience and
+  sustainability) and six pillars (infrastructure; capacity building; policy and regulation; risk
+  mitigation; accountability; institutions). Use them for institutional safeguards, **not** as a
   claim that India has enacted a comprehensive AI statute.
-- 📰 **India AI Impact Summit (16-21 February 2026):** its People, Planet and
-  Progress framing links human-centric AI, inclusion and environmental
-  sustainability to the ethical dilemmas in this topic.
+- 📰 **India AI Impact Summit, New Delhi:** the headline summit was held on **19-20 February 2026**
+  at Bharat Mandapam, within a broader 16-20 February programme; its official overarching
+  formulation was *Sarvajana Hitaya, Sarvajana Sukhaya*, with "People, Planet, Progress" used as
+  the impact framing that links human-centric AI, inclusion and environmental sustainability.
+- 📰 **International anchors:** UNESCO's *Recommendation on the Ethics of Artificial Intelligence*
+  (adopted 23 November 2021) and the OECD AI Principles (2019, updated May 2024 — inclusive growth
+  and well-being; human rights and democratic values; transparency and explainability; robustness,
+  security and safety; accountability). Both predate and inform India's own framework.
 
 ## 9. Mains angles
 

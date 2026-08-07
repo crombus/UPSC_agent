@@ -2,9 +2,10 @@
 
 > **Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV.
 > **Core area:** Attitude — content, structure, function, persuasion and the attitude-behaviour gap.
-> **Grounded in:** Standard social-psychology theory (Rosenberg-Hovland ABC model; Festinger's
-> cognitive dissonance; Hovland-Yale persuasion model; LaPiere's attitude-behaviour studies) per the
-> official UPSC GS-IV syllabus; audited GS-IV PYQs (2024-2025 Mains).
+> **Grounded in:** Standard social-psychology theory — Rosenberg-Hovland tripartite (ABC) model
+> (1960); Festinger's cognitive dissonance (1957); the Hovland-Yale attitude-change approach
+> (Hovland, Janis & Kelley, 1953); LaPiere's attitude-behaviour study (1934) — per the official
+> UPSC GS-IV syllabus; audited GS-IV PYQs (2024-2025 Mains).
 > ✅ = theory-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/03_Attitude-Content-Structure-and-Persuasion.md`.*
 
@@ -35,7 +36,7 @@ ethical behaviour under institutional pressure.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Attitude-behaviour gap** (LaPiere's classic finding) | Stated attitudes and actual behaviour can diverge sharply under real situational pressure — a caution against assuming declared values predict conduct. |
+| ✅ **Attitude-behaviour gap** (LaPiere, 1934) | Stated attitudes and actual behaviour can diverge sharply under real situational pressure — a caution against assuming declared values predict conduct, and against assuming a general attitude predicts a specific act. |
 | ✅ **Cognitive dissonance resolution paths** (Festinger) | (a) change attitude to match behaviour, (b) change future behaviour to match attitude, (c) add a justifying cognition (rationalisation) — the third path is the ethically risky one in administration. |
 | ⚠️ **Persuasion vs manipulation vs propaganda** | Persuasion respects audience autonomy and uses truthful argument; manipulation exploits cognitive biases/asymmetric information; propaganda uses repetition/emotional framing at scale, often state-sponsored, to bypass critical evaluation. |
 | ⚠️ **Attitude strength** | Attitudes held with high certainty, personal relevance and frequent rehearsal resist persuasion and predict behaviour better than weakly held attitudes — relevant to why some officials resist and others succumb to corrupt pressure. |
@@ -62,10 +63,16 @@ ethical behaviour under institutional pressure.
 ### Persuasion at algorithmic scale — the 2025 social-media question
 
 - ✅ 2025 GS-IV Q1(a) tested "key ethical dilemmas" of social media in "the present digital age."
-- ⚠️ Advanced reading: social-media platforms operationalise the Hovland-Yale model at
+- ⚠️ Advanced reading: social-media platforms operationalise the Hovland-Yale variables at
   unprecedented scale and precision — the *audience* variable is now algorithmically segmented
   (micro-targeting), which can shade legitimate persuasion into manipulation by exploiting
   individual cognitive biases invisible to the audience itself.
+- ⚠️ Name the *specific* dilemmas the 2025 question invites: privacy and data harvesting;
+  misinformation and deepfakes; algorithmic amplification and echo chambers; attention-capture
+  ("addictive") design; anonymity and accountability for harm; and the state's own use of the same
+  channel. Anchor at least one to a dated Indian instrument (the IT Rules' due-diligence
+  obligations, or the DPDP Act, 2023 for consent and personal data) rather than a generic claim —
+  cross-link `13` and `Science-and-Technology/basic/12_Data-Protection-DPDP-Act-and-Cybersecurity.md`.
 - ⚠️ This raises a distinctive GS-IV dilemma: the same channel used for legitimate public
   information campaigns (vaccination uptake, tax compliance) can be used for disinformation and
   political manipulation — the ethical test is **transparency of intent and respect for audience
@@ -101,11 +108,16 @@ ethical behaviour under institutional pressure.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ LaPiere's classic 1930s study demonstrated a stark divergence between stated attitude and
-  actual behaviour, founding the "attitude-behaviour gap" literature.
+- ✅ LaPiere's 1934 study ("Attitudes vs. Actions", *Social Forces*) toured the United States with a
+  young Chinese couple and was refused service only once in some 250 establishments, yet a large
+  majority of the same establishments later said in writing that they would not serve Chinese
+  guests — founding the "attitude-behaviour gap" literature. ⚠️ It shows that a *general* stated
+  attitude predicts a *specific* act poorly; it does not show that attitudes never shape behaviour.
 - ✅ Festinger's cognitive dissonance theory (1957) identifies three resolution paths: change
   attitude, change behaviour, or add a justifying cognition.
-- ✅ The Hovland-Yale model's four persuasion variables are source, message, channel, and audience.
+- ✅ The Hovland-Yale approach (Hovland, Janis & Kelley, *Communication and Persuasion*, 1953)
+  centres on the communicator/source, the message and the audience; the *channel* is a later
+  addition from wider communication research, not part of the original triad.
 
 ## 8. Advanced Prelims traps
 

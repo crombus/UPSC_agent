@@ -106,13 +106,37 @@ minutes)" (PDF p. 27) — the core causal distinction directly required by
 - ✅ **Central Water Commission (CWC) and IMD** — CWC's field formations
   observe/collect hydro-meteorological (discharge) data; IMD supplies
   daily rainfall data — jointly forming the "basic requirements for the
-  formulation of a flood forecast" (PDF p. 29).
+  formulation of a flood forecast" (PDF p. 29). 📰 CWC's network
+  comprised **350 forecasting stations — 200 level-forecast stations on
+  rivers and 150 inflow-forecast stations at dams/barrages** — issuing a
+  statutory short-range forecast of **up to 24 hours**, supplemented by a
+  rainfall-runoff model giving a **7-day advisory** and by **C-Flood**,
+  which provides **2-day village-level inundation forecasts** (initially
+  for the Godavari, Tapi and Mahanadi basins) (PIB/MoES, 17 December 2025
+  and 11 March 2026).
+- 📰 **CWC's three river-stage thresholds** — **Warning Level** (normally
+  about 1 metre below Danger Level, but fixed site-specifically),
+  **Danger Level** (site-specific), and **Highest Flood Level (HFL)**
+  (the highest previously recorded level at that site). Operationally,
+  Warning-to-Danger is treated as Above Normal/Yellow, Danger-to-HFL as
+  Severe/Orange, and above HFL as Extreme/Red (CWC SOP for Flood
+  Forecasting, April 2025). ⚠️ These are **site-specific gauge
+  thresholds**, not a national numerical standard.
 - ✅ **Urban Flooding Cell** — recommended by NDMA's Guidelines on
   Management of Urban Flooding (2010) within the national urban-
   development ministry, to coordinate national Urban Flood Disaster
   Management activities, with ULBs managing at the local level (PDF p.
   31); ⚠️ its current constitution/operation requires verification
   against a MoHUA/State notification.
+- 📰 **Urban Flood Risk Management Programme (UFRMP)** — the implemented
+  counterpart to that 2010 recommendation, financed from the **National
+  Disaster Mitigation Fund**: Chennai approved 7 December 2023 (₹561.29
+  crore, including ₹500 crore central assistance); six further cities —
+  Mumbai, Kolkata, Bengaluru, Hyderabad, Ahmedabad and Pune — approved
+  25 July 2024 (aggregate ₹2,514.36 crore); and **Phase 2 approved
+  1 October 2025 for 11 cities at ₹2,444.42 crore on a 90:10
+  Centre-State basis**. ⚠️ The names of the 11 Phase-2 cities are not
+  confirmed by a dated official release — do not infer them.
 
 ## 6. India applications and examples
 
@@ -137,6 +161,17 @@ minutes)" (PDF p. 27) — the core causal distinction directly required by
   (Rashtriya Barh Ayog assessment).
 - ✅ CWC supplies discharge data; IMD supplies rainfall data, for flood
   forecasting.
+- 📰 CWC operated **350 forecasting stations — 200 level-forecast and 150
+  inflow-forecast** — with a statutory short-range forecast of **up to
+  24 hours**, a 7-day rainfall-runoff advisory, and **C-Flood** 2-day
+  village-level inundation forecasts.
+- 📰 CWC's river-stage thresholds are **Warning Level → Danger Level →
+  Highest Flood Level (HFL)**, each fixed site-specifically; Warning
+  Level is normally about 1 metre below Danger Level.
+- 📰 The **Urban Flood Risk Management Programme**, funded from the
+  National Disaster Mitigation Fund, covered Chennai (approved 7 December
+  2023) and six more cities (25 July 2024), with **Phase 2 approved
+  1 October 2025 for 11 cities at ₹2,444.42 crore, 90:10 Centre-State**.
 - ✅ Nowcasting generates forecasts 5-30 minutes ahead; Doppler radar
   gives 3-6 hours' lead time for urban rainfall monitoring.
 - ✅ The Urban Flooding Cell (recommended by NDMA's 2010 guidelines)

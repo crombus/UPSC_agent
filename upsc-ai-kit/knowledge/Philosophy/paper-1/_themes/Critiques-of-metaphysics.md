@@ -108,4 +108,10 @@ Concl : metaphysics survives as critical/descriptive enquiry, not as science of 
 - Cross-paper: Paper-II `Nature-of-Religious-Language.md` (positivist attack on theology + the reply) · `Proofs-for-God.md`.
 
 ---
-> 📖 **SOURCE-VERIFIED** (synthesis): Cross-cutting theme distilled from source-verified parents (`western/Logical-Positivism.md`, `Kant.md`, `Later-Wittgenstein.md`, `indian/Carvaka.md`). Hume's fork, Kant's limits, Ayer's verificationism, and the Cārvāka rejection of transcendent entities confirmed vs **Masih**, **Kenny**, **Chatterjee-Datta**. No independent corrections.
+
+## SOURCES
+
+- Y. Masih, *A Critical History of Western Philosophy*.
+- Anthony Kenny, *A New History of Western Philosophy*.
+- S. C. Chatterjee and D. M. Datta, *An Introduction to Indian Philosophy*.
+- Owner files: [`Logical-Positivism.md`](../western/Logical-Positivism.md), [`Kant.md`](../western/Kant.md), [`Later-Wittgenstein.md`](../western/Later-Wittgenstein.md), and [`Carvaka.md`](../indian/Carvaka.md).

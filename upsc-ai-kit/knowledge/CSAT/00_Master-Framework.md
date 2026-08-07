@@ -11,11 +11,12 @@
 ## 1. The paper as a system
 
 ```text
-   80 items, 200 marks, 2 hours              (from the printed instruction page)
+   80 items, 200 marks, 2 hours     (identical instruction page, 2024 / 2025 / 2026)
             |
    2.5 marks correct  /  -5/6 wrong  /  0 blank
+            |            (3 wrong cancel exactly 1 correct: 3 x 5/6 = 2.5)
             |
-     Goal = QUALIFY (minimum standard, commonly stated 33% = 66/200)
+     Goal = QUALIFY (minimum standard set by the notification, NOT by the paper)
             |
    +--------+---------+---------+
    |        |         |         |
@@ -24,12 +25,18 @@
  first    once     & verify   & risk
 ```
 
-- ✅ **Facts (from the paper's own instruction page):** 80 items; 200 marks; two hours; equal marks
-  (so 2.5 each); one-third penalty for a wrong answer (so `5/6 = 0.8333...`); multiple marks = wrong;
-  blank = no penalty.
-- ⚠️ **Qualifying standard:** commonly stated as 33% (66/200). **Verify against the current
-  notification.** The strategy below assumes only that the bar is well below full marks - which is
-  what makes **selective, high-accuracy attempting** the correct policy.
+- ✅ **Facts (from the paper's own instruction page, identical in all three audited years):** 80 items;
+  200 marks; two hours; equal marks (so 2.5 each); one-third penalty for a wrong answer (so
+  `5/6 = 0.8333...`); marking more than one option = wrong, with the same penalty; blank = no penalty.
+- ✅ **Fact (from each Set-A key scan):** `No. of Questions Dropped = 0`, `No. of Questions taken for
+  Scoring = 80` in 2024, 2025 and the provisional 2026 key alike.
+- ⚠️ **Qualifying standard - provenance matters:** **no supplied paper or key states a threshold.**
+  33% (= 66/200 by arithmetic) is the figure commonly quoted from the Civil Services Examination
+  notification. **Verify it there.** The strategy below assumes only that the bar is well below full
+  marks - which is what makes **selective, high-accuracy attempting** the correct policy.
+- ⚠️ **Keep two numbers apart:** the **official rule** (a notified qualifying minimum you must look
+  up) and your **internal safety target** (a personal practice number you choose to sit above it).
+  Never quote the second as if it were the first.
 
 ## 2. Attempt strategy (three-pass method)
 
@@ -97,6 +104,33 @@ MATCH to an option; if two survive, test the boundary case
 | Wrong **parity / unit digit / sign** | Eliminate by property, no full solve. |
 | Two options that are logical opposites | The answer is often one of the two - focus there. |
 | An option that restates the stem without adding the asked step | Usually a trap. |
+| "Cannot be determined / insufficient data" as option (d) | A **live** answer in this paper, not a filler - the audited papers do use it. Rule it out by proof, not by reflex. |
+
+> ⚠️ **Read the printed options, never a memorised template.** In the audited sample the fourth
+> option of the two-statement data-sufficiency items is **not constant**: 2024 prints "cannot be
+> answered even by using both the Statements together", 2025 prints **both** "cannot be answered even
+> using any of the Statements" **and** "can be answered even **without** using any of the Statements"
+> in the same paper, and 2026 prints its four options once above a five-item block. The second 2025
+> variant flips the meaning of (d) completely. Details in
+> [basic/05](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), Section 2.
+
+### 5.1 Precision vocabulary (the word-pairs this paper actually tests)
+
+⚠️ Each pair below decides at least one audited item type. The **owning topic file** drills it; this
+table is the index.
+
+| Pair | The difference in one line | Drilled in |
+|---|---|---|
+| **Implication vs equivalence** | `A -> B` is one-way; `A <-> B` is two-way. `A -> B` also gives `not B -> not A` (contrapositive) but **never** `B -> A` (converse). | [basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md), [advanced/06](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) |
+| **Necessary vs sufficient** | Necessary = cannot hold without it; sufficient = having it settles the matter. In `A -> B`, A is sufficient for B and B is necessary for A. | [basic/05](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) |
+| **Inference vs assumption** | Inference = forced **out of** the text; assumption = required **under** it. | [basic/01](basic/01_Reading-Comprehension.md), [advanced/01](advanced/01_Reading-Comprehension.md) |
+| **Percentage point vs percent change** | 40% -> 50% is **+10 percentage points** but **+25%** relative. | [basic/03](basic/03_Arithmetic-and-Commercial-Math.md), [advanced/06](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) |
+| **Average vs weighted average** | A plain mean is only correct when the group sizes/quantities are equal. | [basic/03](basic/03_Arithmetic-and-Commercial-Math.md) |
+| **Speed vs velocity (distance vs displacement)** | Speed uses path length; velocity uses net displacement. Forward-and-back items are displacement items. | [basic/04](basic/04_Rates-Motion-Time-and-Geometry.md) |
+| **Simple vs compound interest** | SI is on the original principal each period; CI is on the running amount. | [basic/03](basic/03_Arithmetic-and-Commercial-Math.md) |
+| **Permutation vs combination** | Order matters vs order does not. | [basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) |
+| **Probability vs possibility** | Possible = at least one favourable case exists; probability = a measured fraction. "Can happen" is not "likely". | [basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) |
+| **Data sufficiency vs answer solving** | The DS stem asks whether the value is **pinned**, not what it is. | [basic/05](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [advanced/05](advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md) |
 
 ## 6. Time allocation - adaptable, not prescriptive
 
@@ -134,6 +168,32 @@ EV = 0  when  p = (5/6) / (2.5 + 5/6) = 1/4   (exactly a 1-in-4 blind guess)
 - ⚠️ Because the paper only needs to be **qualified**, once your banked-plus-positive-EV total
   comfortably clears the bar, **stop taking marginal risks** - protect the lead.
 
+**Planning arithmetic (exact, given a target `T`).** Minimum correct answers `C` with `W` wrong:
+
+```text
+2.5 C - (5/6) W  >=  T        ->        C  >=  (T + (5/6) W) / 2.5
+Equivalently:  every 3 wrong answers wipe out exactly 1 correct answer.
+```
+
+⚠️ The table below sets `T = 66` **only to show the method**; 66 comes from the commonly quoted 33%
+rule, **not from any supplied paper or key** (Section 1). Re-run the formula with whatever the
+current notification actually specifies.
+
+| Wrong | Minimum correct (`T = 66`) | Attempted | Net at that minimum | Blanks left |
+|---:|---:|---:|---:|---:|
+| 0 | 27 | 27 | 67.5 | 53 |
+| 6 | 29 | 35 | 67.5 | 45 |
+| 12 | 31 | 43 | 67.5 | 37 |
+| 21 | 34 | 55 | 67.5 | 25 |
+| 30 | 37 | 67 | 67.5 | 13 |
+
+- 🔑 **Read the last column, not the first.** Even the worst row leaves items unanswered - which is
+  the whole argument for **selection over volume** in a qualifying paper.
+- ⚠️ **Internal safety target (author-set, not a rule):** practise to land well clear of the bar - for
+  instance `45 correct / 15 wrong = 100.0` net or `48 correct / 12 wrong = 110.0` net. Log this as a
+  **personal** number in the [Readiness Tracker](00_Readiness-Tracker.md); never present it as an
+  official standard.
+
 ## 8. Error taxonomy (log every mistake into one of these)
 
 | Code | Error type | Typical fix |
@@ -165,7 +225,9 @@ Day 15 error-log-only revision     ->  Day 30 full timed 80-item mock
 
 **Method:** every one of the **240 items** (80 per year x 3 years) in the Set A English text was
 classified into exactly one of the six skill families that define Topics 01-06. Counts below are
-that classification.
+that classification. The **answers** behind them are not classifications: all 240 ledger keys were
+re-read from the **Set-A column of the key scans** and reconciled **240/240** with the
+[Question Audit Ledger](00_Question-Audit-Ledger.md).
 
 **Limitations (read before using the numbers):**
 
@@ -192,6 +254,8 @@ that classification.
 
 - ⚠️ **Reading Comprehension is the largest three-year family** and the largest family in each
   audited year, including the **provisional 2026 classification**.
+- ⚠️ **Ranked by three-year size the top three are 01 (79), 06 (45), 02 (44)** - in that order.
+  Topic 03 is last (18). Prioritise in that order when time is short.
 - ⚠️ **Reasoning + Data Sufficiency together (Topics 05+06)** account for **78 of 240 (32.5%)**,
   almost the same as Reading Comprehension alone (79 of 240). Read Topics 05 and 06 together because
   their boundary is method-dependent.

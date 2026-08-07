@@ -7,9 +7,10 @@
 > a force multiplier.
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
 > India*, PDF pp. 125-129; VisionIAS, *Security Challenges and Their
-> Management in Border Areas*, PDF pp. 6-9, 28-30, 38-39; `00_Master-
-> Framework.md` Sections 6, 8; audited GS-III syllabus; MHA Border
-> Management-II annexure (8 January 2026).
+> Management in Border Areas*, PDF pp. 6-9, 11, 21, 28-30, 38-39;
+> `00_Master-Framework.md` Sections 6, 8; audited GS-III syllabus; MHA
+> Border Management-II annexure (8 January 2026); 100th Constitutional
+> Amendment Act 2015 as published in India Code.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/06_Border-Management-and-Border-Area-Development.md`.*
 
@@ -34,6 +35,7 @@ management architecture.
 | Concept | Precise meaning |
 |---|---|
 | ✅ **Disputed/undemarcated vs. settled/porous borders** | The China border is disputed and largely undemarcated (Aksai Chin, Arunachal Pradesh) with low population movement; the Pakistan and Bangladesh borders are largely demarcated but porous and densely populated at the border — the management problem is fundamentally different (dispute-resolution and military posture for China; guarding/regulation intensity for Pakistan/Bangladesh) (VisionIAS, PDF pp. 5-9; Singh, PDF pp. 121-123). |
+| ✅ **A third category: settled by instrument** | ⚠️ India's boundary map is not a binary of "disputed" and "porous." The India-Bangladesh boundary moved *from* disputed *to* settled through two instruments — the **2014 UNCLOS arbitral award** on the maritime boundary (proceedings Bangladesh instituted in 2009) and the **2015 Land Boundary Agreement**, given effect by the **100th Constitutional Amendment Act, 2015**, exchanging enclaves (VisionIAS, PDF p. 21). ⚠️ Analytically this is the folder's most useful counterfactual: it shows that adjudication and constitutional amendment can close a boundary question, and therefore that the China boundary's persistence is a matter of political will and asymmetry rather than of inherent insolubility. |
 | ✅ **"One border, one force" as an unfinished reform, not a completed one** | ✅ VisionIAS notes the India-China border itself is guarded by more than one actor — "Vikas Battalions" reporting to the Cabinet Secretariat in some Western/Middle-sector parts, while ITBP (which mans most of the China border) reports to MHA — "making coordination difficult" (PDF pp. 4-5) — showing the principle recommended after Kargil remains only partially implemented even on a single border. |
 | ⚠️ **Grid protection vs. linear security** | The Madhukar Gupta Committee's recommendation to replace "linear security" with "grid border protection" (VisionIAS, PDF p. 38) implies a shift from a continuous-fence-and-patrol model to a networked, sensor/intelligence-driven model — a genuine paradigm shift, not a mere technology upgrade. |
 | ✅ **Community-participative border management** | ✅ VisionIAS names specific instruments: Operation Sadbhavana-style community development by Border Guarding Forces, Village Defence/Volunteer Forces, and enhanced border trade — framed as reducing the "pull" toward illegal activity by improving local livelihoods and trust (PDF p. 38). |
@@ -89,11 +91,20 @@ question.
 
 ## 4. Institutional and reform architecture
 
-- ✅ **Kargil Review Committee (1999) → Group of Ministers (2001):**
-  recommended settling border disputes, creating a Department of Border
+- ✅ **Kargil Review Committee (1999) → Group of Ministers (2001):** the
+  GoM on Reforming the National Security System, chaired by the then Home
+  Minister, worked through four task forces; its **Task Force on Border
+  Management was chaired by Madhav Godbole**. Its recommendations
+  included settling border disputes, creating a Department of Border
   Management, the one-force-one-border principle, strengthening the Coast
-  Guard/marine police, and accelerating border-area infrastructure (Singh,
-  PDF pp. 125-126).
+  Guard/marine police, and accelerating border-area infrastructure
+  (Singh, PDF pp. 125-126).
+- ✅ **The India-Bangladesh settlement instruments as the reform
+  agenda's one completed item:** the GoM's first recommendation was to
+  settle disputes; the 2014 arbitral award and the 2015 Land Boundary
+  Agreement (100th Constitutional Amendment Act) are the only case where
+  that recommendation was carried to completion on a full boundary. ⚠️ Use
+  it to show the reform agenda is achievable, not aspirational.
 - ✅ **Border Dispute Settlement Mechanism (China):** a series of five
   agreements (1993, 1996, 2005, 2012, 2013) providing confidence-building
   measures and consultation mechanisms along the LAC (VisionIAS, PDF p.
@@ -130,10 +141,15 @@ question.
   2) says should be preserved — a genuine trade-off, not a costless
   security gain (cross-reference topic 04, advanced, Section 5).
 - ⚠️ **Sir Creek/unsettled maritime-adjacent boundary as a boundary case
-  between this topic and topic 07:** Sir Creek's peculiar terrain
-  complicates both land-border and coastal patrolling — this topic treats
-  its land-border-adjacent management dimension; topic 07 treats its
-  coastal-security dimension.
+  between this topic and topic 07:** Sir Creek's peculiar tidal terrain —
+  a 96 km estuary where India invokes the Thalweg mid-channel doctrine and
+  Pakistan an eastern-bank "green line," with roughly 250 square miles of
+  EEZ turning on the outcome (VisionIAS, PDF p. 11) — complicates both
+  land-border and coastal patrolling. ⚠️ Its unresolved status also
+  illustrates the *converse* of the Bangladesh case: where the parties do
+  not agree to adjudicate, an equally technical boundary question remains
+  open indefinitely. This topic treats its land-border-adjacent management
+  dimension; topic 07 treats its coastal-security dimension.
 
 ## 6. Limitations and trade-offs
 
@@ -159,12 +175,17 @@ question.
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ The Kargil Review Committee's border-management recommendations were
-  operationalised through a 2001 Group of Ministers task force chaired by
-  Madhav Godbole.
+  operationalised through the 2001 Group of Ministers on Reforming the
+  National Security System, whose **Task Force on Border Management was
+  chaired by Madhav Godbole**.
 - ✅ Even on the single China border, more than one force/command
   structure (ITBP under MHA; Army/Vikas Battalions under the Cabinet
   Secretariat/Army in parts) currently operates — the one-force-one-
   border principle remains only partially implemented.
+- ✅ The India-Bangladesh maritime boundary was settled by a 2014 UNCLOS
+  arbitral award; the land enclaves were exchanged under the 2015 Land
+  Boundary Agreement, given effect by the 100th Constitutional Amendment
+  Act, 2015.
 - ✅ The DS-DBO road, completed in 2019, is cited as reducing troop-
   movement time by 40% along a key western-sector stretch.
 - ✅ The Madhukar Gupta Committee recommended replacing "linear security"
@@ -184,6 +205,15 @@ question.
   disrupted legitimate cross-border kinship and small-scale trade ties
   that community-participative border-management theory otherwise seeks
   to preserve — a genuine trade-off (cross-reference topic 04).
+- ❌ All of India's boundary disputes are structurally insoluble. -> The
+  India-Bangladesh maritime boundary was settled by arbitration (2014) and
+  the land boundary by agreement plus constitutional amendment (2015) —
+  which is why the persistence of the China boundary question is analysed
+  as a political-will and asymmetry problem, not an inherent one.
+- ❌ Fencing a border is equivalent to sealing it. -> Riverine, hilly and
+  densely habited stretches often cannot be fenced; guarding, technology,
+  patrol-road density and community engagement are separate variables,
+  which is precisely the case for grid rather than linear protection.
 
 ## 9. 📰 Current-anchor note
 
@@ -200,11 +230,13 @@ question.
   challenges along the border. Also give out the development Programme
   (BADP) and Border Infrastructure and Management (BIM) Scheme."
   - Advanced structure: after the basic-tier neighbour-specific challenge
-    map, add (i) the disputed-vs.-settled border distinction (Section 2)
-    to structure "conflicting issues" analytically rather than as a
-    chronology; (ii) the one-force-one-border implementation gap on the
-    China border specifically; (iii) the Border Dispute Settlement
-    Mechanism's limits, evidenced by Galwan (2020) and Tawang (2022); (iv)
+    map, add (i) the disputed-vs.-settled-vs.-settled-by-instrument
+    distinction (Section 2) to structure "conflicting issues"
+    analytically rather than as a chronology; (ii) the
+    one-force-one-border implementation gap on the China border
+    specifically; (iii) the Border Dispute Settlement Mechanism's limits,
+    evidenced by Galwan (2020) and Tawang (2022), contrasted with the
+    India-Bangladesh instruments that did settle a boundary; (iv)
     BADP/BIM described with current period/allocation from the January
     2026 MHA annexure.
 

@@ -26,8 +26,10 @@ GULF/GCC          ISRAEL           IRAN
              |
              v
 ENERGY SECURITY AS DOMINANT INTEREST
-~70% oil-import dependence; equity stakes
-in overseas oilfields; diversification
+89.1% crude-oil import dependence (PPAC,
+FY2024-25 and FY2025-26 provisional); equity
+stakes in overseas oilfields; source
+diversification
              |
              v
 DIASPORA WELFARE
@@ -56,20 +58,26 @@ than treating any one as exclusive.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **"Look West" policy** | ✅ Tharoor: "as far as the Arab world is concerned, we are proud that we have a 'Look West' policy too" — paralleling the better-known "Look East" policy but oriented toward the Gulf/Arab world. |
-| ✅ **Energy-security dependence** | ✅ Sikri notes India's imported-oil dependence stands at "approximately 70 per cent," driving a policy of "making equity investments in oilfields abroad" to diversify supply sources. |
-| ✅ **Gulf diaspora scale** | ✅ Sikri cites "a diaspora of 5 million in the Gulf"; ✅ Tharoor separately notes the Arab world "is home to nearly 6 million Indians" — both figures should be cited with their source and treated as period-specific, not assumed current without independent verification. |
+| ✅ **Energy-security dependence** | ✅ Sikri notes India's imported-oil dependence stood at "approximately 70 per cent" in his book period, driving a policy of "making equity investments in oilfields abroad." 📰 PPAC's June 2026 snapshot puts crude-oil import dependence, on a consumption basis, at **89.1% in FY2024-25 and 89.1% (provisional) in FY2025-26** — cite the current official figure, not the book-period one, for any present-day claim. |
+| 📰 **Supplier diversification (Economic Survey 2025-26)** | ✅ "A notable increase in the diversity of countries from which India imports crude oil has been observed": in April-November of FY26, the US share rose to 8.1% (from 4.6% a year earlier) and the UAE's to 11.1% (from 9.4%), with Egypt, Nigeria and Libya also rising, while Russia, Saudi Arabia, Iraq and Venezuela declined. ⚠️ Diversification of sources, not reduction of aggregate dependence. |
+| ✅ **Gulf diaspora scale** | ✅ Sikri cites "a diaspora of 5 million in the Gulf"; ✅ Tharoor separately notes the Arab world "is home to nearly 6 million Indians" — both are period-specific. 📰 MEA's overseas-Indian population table (as on January 2026) records 4,344,008 in the UAE and 2,750,551 in Saudi Arabia. ⚠️ These are population-stock estimates, not citizenship or OCI counts. |
 | ⚠️ **Energy trilemma** | Balancing energy security (reliable supply), affordability and sustainability — a standard framework for evaluating any energy-security policy, including India's Gulf/Iran engagement. |
 | ✅ **Israel-Arab balancing** | ✅ Tharoor: India "values its relationship with Israel, but not at the expense of its friendships with Arab and other Muslim states" — the explicit statement of India's balancing principle in the region. |
-| ⚠️ **I2U2 and IMEEC** | Minilateral (India-Israel-UAE-US) and connectivity (India-Middle East-Europe Economic Corridor) frameworks that combine diplomatic, economic and infrastructure cooperation across West Asia — treat corridor capacity/completion claims cautiously and only with a specific dated source. |
+| ⚠️ **I2U2 and IMEC (also written IMEEC)** | Minilateral (India-Israel-UAE-US) and connectivity (India-Middle East-Europe Economic Corridor) frameworks that combine diplomatic, economic and infrastructure cooperation across West Asia. 📰 The IMEC MoU was signed in New Delhi on **9 September 2023** by India, the US, Saudi Arabia, the UAE, the EU, France, Germany and Italy. ⚠️ An MoU among eight parties is a framework of intent — it is not evidence of a financed, constructed or operating corridor segment. |
 
 ## 3. How the West Asia engagement mechanism works
 
-1. **Energy dependence sets the baseline interest:** ✅ Sikri's ~70% oil-import-
-   dependence figure explains why the Gulf/West Asia region is treated as
-   central to India's overall energy-security strategy.
+1. **Energy dependence sets the baseline interest:** 📰 PPAC's 89.1%
+   crude-oil-import-dependence figure for FY2024-25 and FY2025-26 (provisional)
+   — up from ✅ Sikri's book-period "approximately 70 per cent" — explains why
+   the Gulf/West Asia region is treated as central to India's overall
+   energy-security strategy.
 2. **Diversification strategy:** ✅ India's equity investment in oilfields abroad
    is a direct policy response to this dependence, aiming to secure supply
-   without over-relying on any single source or route.
+   without over-relying on any single source or route; 📰 the Economic Survey
+   2025-26 records a measurable widening of the supplier base in FY26, with the
+   US and UAE shares rising. ⚠️ Source diversification is not dependence
+   reduction.
 3. **Diaspora-driven engagement:** the large expatriate population (Sikri's 5
    million; Tharoor's 6 million figure, each period-specific) creates both a
    welfare-diplomacy obligation and a source of remittance-linked economic ties
@@ -85,18 +93,37 @@ than treating any one as exclusive.
 
 ## 4. Institutions and agreements
 
-- 📰 **India-GCC Joint Action Plan (2024-28):** the anchor current framework
-  for India's strategic dialogue with the Gulf Cooperation Council.
-- ⚠️ **UAE-India CEPA (Comprehensive Economic Partnership Agreement):** a
-  bilateral trade agreement deepening India-UAE economic ties (Economy owns
-  tariff/trade-volume mechanics; IR owns its strategic-partnership significance).
+- 📰 **India-GCC Joint Action Plan (2024-2028):** adopted at the **first
+  India-GCC Joint Ministerial Meeting for Strategic Dialogue, Riyadh, 9
+  September 2024** — the anchor current framework for India's strategic
+  dialogue with the Gulf Cooperation Council.
+- 📰 **Bilateral strategic architecture in the Gulf:** the India-Saudi Arabia
+  Strategic Partnership Council held its **second meeting at Jeddah on 22 April
+  2025**; India and Qatar signed an **Agreement on Establishment of a Bilateral
+  Strategic Partnership on 18 February 2025**; India-UAE relations were elevated
+  to a Comprehensive Strategic Partnership on 25 January 2017.
+- ⚠️ **UAE-India CEPA:** in force since **1 May 2022**; officially reported
+  bilateral trade was approximately USD 100 billion in FY2024-25 (Economy owns
+  tariff/trade-volume mechanics; IR owns its strategic-partnership
+  significance). 📰 An **India-Oman CEPA was signed on 18 December 2025** —
+  ⚠️ signature; entry into force requires separate verification.
 - ⚠️ **I2U2 (India-Israel-UAE-US):** a minilateral cooperation framework
-  spanning food security, water, energy and technology.
-- ⚠️ **IMEEC (India-Middle East-Europe Economic Corridor):** an announced
-  connectivity framework linking India, the Gulf, Israel/the Levant and Europe;
-  treat completion or capacity claims cautiously.
-- ⚠️ **Chabahar port (Iran):** connectivity link relevant to both West Asia and
-  Central Asia (cross-link to topic 05) engagement.
+  spanning food security, water, energy and technology. ⚠️ No four-party I2U2
+  meeting or outcome in 2024-2026 could be verified from official sources; the
+  13 February 2025 India-US statement only recorded an intention to convene
+  partners.
+- 📰 **IMEC (India-Middle East-Europe Economic Corridor):** MoU signed 9
+  September 2023 by eight parties on the margins of the G20 New Delhi Summit;
+  MEA's 24 June 2024 India-UAE readout referred to "commencement of work on
+  IMEEC." ⚠️ No completed construction or operating segment is officially
+  established — treat completion or capacity claims as unverified.
+- 📰 **Chabahar port (Iran):** 10-year long-term contract signed 13 May 2024;
+  the US sanctions waiver was revoked effective 29 September 2025. Connectivity
+  link relevant to both West Asia and Central Asia (cross-link to topic 05).
+- 📰 **Operation Sindhu (June 2025):** India's evacuation of **4,415 nationals**
+  from Iran (3,597) and Israel (818) by 27 June 2025 — the concrete illustration
+  that West Asia policy carries a standing consular-protection obligation
+  (topic 09 owns the diaspora-diplomacy architecture).
 
 ## 5. Indian applications and examples
 
@@ -105,9 +132,12 @@ than treating any one as exclusive.
   influence in Middle Eastern countries." How would you integrate energy
   security with India's foreign policy trajectories in the coming years?*
   (250 words) — this is the anchor PYQ for this topic.
-- ✅ A strong answer to 2025 Q19 should cite the ~70% oil-import-dependence
-  figure, the equity-investment diversification strategy, the India-GCC Joint
-  Action Plan (2024-28), and I2U2/IMEEC as concrete integration mechanisms,
+- ✅ A strong answer to 2025 Q19 should cite the 89.1% crude-oil-import-
+  dependence figure (PPAC, FY2024-25/FY2025-26) alongside Sikri's book-period
+  ~70% baseline to show the trend direction, the equity-investment and
+  supplier-diversification strategy (Economic Survey 2025-26), the India-GCC
+  Joint Action Plan (2024-2028, Riyadh, 9 September 2024), and I2U2/IMEEC as
+  concrete integration mechanisms,
   while avoiding any prediction of specific future oil-price or corridor
   outcomes.
 - ⚠️ India's simultaneous engagement with Israel (technology, defence,
@@ -116,12 +146,25 @@ than treating any one as exclusive.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ India's oil-import dependence is described by Sikri as approximately 70
-  per cent (period-specific figure; treat current figures as requiring separate
-  verification — Economy owns updated data).
-- ✅ Sikri cites a Gulf diaspora of approximately 5 million; Tharoor separately
-  cites nearly 6 million Indians in the Arab world — cite each with its source.
-- 📰 The India-GCC Joint Action Plan covers 2024-28.
+- 📰 India's crude-oil import dependence was **89.1% in FY2024-25** and **89.1%
+  (provisional) in FY2025-26** (PPAC). ✅ Sikri's "approximately 70 per cent" is
+  a book-period figure — quote it only as historical baseline.
+- 📰 In April-November of FY26, the US share of India's crude imports rose to
+  8.1% from 4.6%, and the UAE's to 11.1% from 9.4%, while Russia, Saudi Arabia,
+  Iraq and Venezuela declined (Economic Survey 2025-26).
+- ✅ Sikri cites a Gulf diaspora of approximately 5 million and Tharoor nearly 6
+  million Indians in the Arab world; 📰 MEA's January 2026 table records
+  4,344,008 overseas Indians in the UAE and 2,750,551 in Saudi Arabia.
+- 📰 The India-GCC Joint Action Plan (2024-2028) was adopted at the first
+  India-GCC Joint Ministerial Meeting for Strategic Dialogue, Riyadh, 9
+  September 2024.
+- 📰 The India-Qatar Agreement on Establishment of a Bilateral Strategic
+  Partnership was signed on 18 February 2025; the second India-Saudi Arabia
+  Strategic Partnership Council met at Jeddah on 22 April 2025.
+- 📰 The IMEC MoU was signed on 9 September 2023 by eight parties: India, the
+  US, Saudi Arabia, the UAE, the EU, France, Germany and Italy.
+- 📰 Operation Sindhu evacuated 4,415 Indians from Iran and Israel by 27 June
+  2025.
 - ✅ India's "Look West" policy is explicitly paralleled with the "Look East"
   policy in Tharoor's framing.
 - ✅ Tharoor states India values Israel ties "not at the expense of" Arab and
@@ -137,22 +180,31 @@ than treating any one as exclusive.
   economic core (Economy owns pricing/import-bill mechanics).
 - ❌ India's Israel partnership has replaced its Gulf/Arab relationships. ->
   Tharoor explicitly frames these as parallel, non-exclusive relationships.
-- ❌ IMEEC is a completed, operational corridor. -> It remains a developing/
-  announced connectivity framework; do not assert completion without a specific
-  dated source.
+- ❌ IMEEC is a completed, operational corridor. -> It rests on an eight-party
+  MoU of 9 September 2023; no completed construction or operating segment is
+  officially established.
+- ❌ India's oil-import dependence is about 70 per cent. -> That is Sikri's
+  book-period figure. PPAC records 89.1% for FY2024-25 and FY2025-26
+  (provisional); supplier diversification has increased even as aggregate
+  dependence has not fallen.
 - ❌ The Gulf diaspora figure is a fixed, unchanging number. -> Diaspora figures
-  are period-specific estimates (Sikri's 5 million, Tharoor's 6 million); treat
-  any current figure as requiring independent, dated verification.
+  are period-specific estimates (Sikri's 5 million, Tharoor's 6 million; MEA's
+  January 2026 country table), and they measure population stock, not
+  citizenship or OCI status.
 - ❌ Iran is excluded from India's West Asia engagement due to Israel ties. ->
   India engages Iran separately (energy, Chabahar connectivity) without treating
-  Israel and Iran engagement as mutually exclusive.
+  Israel and Iran engagement as mutually exclusive, though third-party sanctions
+  (the Chabahar waiver revocation of 29 September 2025) constrain execution.
 
 ## 8. 📰 Current anchor
 
-- 📰 The **India-GCC Joint Action Plan (2024-28)** is the anchor current
-  framework document for India's Gulf engagement — cite it, with its date
-  range, for any claim about the current structure of India-GCC strategic
-  dialogue.
+- 📰 The **India-GCC Joint Action Plan (2024-2028)**, adopted at Riyadh on 9
+  September 2024, is the anchor current framework for India's Gulf engagement —
+  cite it, with its date and forum, for any claim about the current structure of
+  India-GCC strategic dialogue.
+- 📰 Pair it with **Operation Sindhu (4,415 Indians evacuated from Iran and
+  Israel by 27 June 2025)** as the dated evidence that West Asia policy is
+  simultaneously an energy, diaspora-protection and connectivity portfolio.
 
 ## 9. PYQ application
 
@@ -164,11 +216,13 @@ than treating any one as exclusive.
   India's foreign policy, and is linked with India's overarching influence in
   Middle Eastern countries." How would you integrate energy security with
   India's foreign policy trajectories in the coming years?* Structure: (1) state
-  the ~70% import-dependence baseline; (2) cite the equity-investment
-  diversification strategy; (3) cite the India-GCC Joint Action Plan (2024-28)
-  and I2U2/IMEEC as integration mechanisms; (4) balance this against the
-  Israel-Arab-Iran triangular relationship; (5) avoid predicting specific future
-  oil-price or corridor outcomes.
+  the 89.1% import-dependence baseline (PPAC) and the direction of travel since
+  Sikri's ~70%; (2) cite the equity-investment and supplier-diversification
+  strategy; (3) cite the India-GCC Joint Action Plan (2024-2028, adopted Riyadh,
+  9 September 2024) and I2U2/IMEEC as integration mechanisms; (4) balance this
+  against the Israel-Arab-Iran triangular relationship and the diaspora-
+  protection obligation (Operation Sindhu, June 2025); (5) avoid predicting
+  specific future oil-price or corridor outcomes.
 
 ## 10. Mains angles
 

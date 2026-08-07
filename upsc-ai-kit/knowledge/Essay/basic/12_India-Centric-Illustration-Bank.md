@@ -80,6 +80,23 @@ demonstrate the specific claim at hand.
 | Technology policy can integrate people, planet and progress | India AI Impact Summit, 16-21 February 2026 | Illustrates science/knowledge prompts through an India-led attempt to join inclusion, sustainability and innovation | A summit framework is an agenda, not evidence that every outcome has been delivered | `Science-and-Technology`, `International-Relations` |
 | Data governance uses phased implementation rather than one-day transformation | DPDP Rules notified 13 November 2025 with staged commencement | Illustrates 2024-B8: action can be sequenced and safeguarded rather than postponed indefinitely | Data protection is not the whole platform-safety or AI-governance problem | `Science-and-Technology`, `Internal-Security` |
 
+✅ **Verified in this pass against local source texts** (the rest of the
+table remains candidate-recalled and still requires confirmation before
+live use):
+
+- **Right to Information Act, 2005** — the Act's year and its creation of
+  the Central and State Information Commissions are confirmed in
+  M. Laxmikanth, *Indian Polity* (chapters on the Central Information
+  Commission and State Information Commission).
+- **Chipko movement, 1970s** — placed in the 1970s wave of movements
+  alongside the Naxalite, JP and 1973-75 anti-price-rise movements, with
+  Sunderlal Bahuguna named in connection with the agitation, in Bipan
+  Chandra et al., *India After Independence*.
+
+⚠️ Verifying the *fact* is not the same as verifying the *inference*: the
+essay function and limitation stated for each row above remain this
+folder's analytical judgement, not a claim sourced from those texts.
+
 ## 7. India-first illustration starters
 
 ⚠️ For a prompt you have not yet illustrated, first ask: which

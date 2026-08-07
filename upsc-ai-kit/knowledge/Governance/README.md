@@ -1,5 +1,7 @@
 # Governance - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Governance | **GS Paper:** GS-II, with GS-IV accountability and GS-III
 > public-finance links.
 > **Spine:** Official UPSC GS-II syllabus; directly audited UPSC GS-II/Essay PYQs

@@ -83,9 +83,9 @@ atomic structure -> bonding -> compound properties -> process chemistry -> indus
 ## 8. Must-Know Facts for Advanced Prelims
 
 - ✅ Atomic number organizes the periodic table because chemical behavior repeats with electron configuration patterns.
-- ✅ pH is logarithmic, so one-unit change reflects a tenfold change in hydrogen-ion concentration.
+- ✅ pH is logarithmic, so a one-unit change reflects a tenfold change in hydrogen-ion **activity** (concentration is the standard school approximation, exact only in dilute ideal solutions).
 - ✅ Oxidation and reduction always occur together, even when only one side is highlighted in a question.
-- ✅ Corrosion is not just “rusting” as a memorized fact; it is an electrochemical process.
+- ✅ Corrosion is not just “rusting” as a memorized fact; **aqueous corrosion of iron is an electrochemical process** (anodic and cathodic sites on the same metal surface with an electrolyte film), which is why galvanising and cathodic protection work. ⚠️ **Dry/chemical corrosion** by gases at high temperature is a separate, non-electrochemical route — do not state that all corrosion is electrochemical.
 - ✅ Thermoplastics and thermosetting polymers differ in reheating behavior because of structural differences.
 - ✅ Highly reactive metals are not typically extracted by simple carbon reduction.
 - ✅ Proteins, lipids, carbohydrates and nucleic acids are different biomolecule classes, but all are chemistry before they are physiology.

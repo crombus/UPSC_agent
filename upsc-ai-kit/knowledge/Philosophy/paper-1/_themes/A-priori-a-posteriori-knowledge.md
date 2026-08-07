@@ -120,4 +120,10 @@ Concl : Kant's category remains the pivot of modern epistemology, even under att
 - Cross-paper: Paper-II `Proofs-for-God.md` (Kant's demolition of the ontological/cosmological proofs rests on this limit).
 
 ---
-> 📖 **SOURCE-VERIFIED** (synthesis): This is a cross-cutting theme file distilled from already source-verified parent topics (`western/Kant.md`, `western/Empiricism.md`, `western/Rationalism.md` — checked vs **Masih**, **Kenny**, **Cambridge Dictionary**). The a priori/a posteriori & analytic/synthetic distinctions and Kant's synthetic-a-priori confirmed there. No independent corrections.
+
+## SOURCES
+
+- Y. Masih, *A Critical History of Western Philosophy*.
+- Anthony Kenny, *A New History of Western Philosophy*.
+- Robert Audi (ed.), *The Cambridge Dictionary of Philosophy*.
+- Owner files: [`Kant.md`](../western/Kant.md), [`Empiricism.md`](../western/Empiricism.md), and [`Rationalism.md`](../western/Rationalism.md).

@@ -44,6 +44,9 @@ targets (PDF pp. 59-62).
 |---|---|
 | ✅ **Yokohama Strategy for a Safer World (1994)** | Ten principles from the mid-term review of the International Decade for Natural Disaster Reduction (IDNDR, 1990s); emphasises risk assessment, development-integrated prevention/preparedness, capacity development, early warning, participatory prevention, vulnerability reduction through education, technology-sharing, environmental protection, and each country's primary protection responsibility with international-community support (PDF p. 60). |
 | ✅ **Hyogo Framework for Action (2005-2015)** | Five priorities: making DRR a priority; improving risk information/early warning; building a culture of safety/resilience; reducing risk in key sectors; strengthening preparedness for response (PDF p. 61). |
+| 📰 **Sendai's seven global targets (A-G)** | A mortality; B affected people; C economic loss relative to GDP; D critical-infrastructure damage and basic-service disruption; E national and local DRR strategies; F international cooperation to developing countries; G multi-hazard early warning and risk information (UNDRR, Sendai Framework text, 18 March 2015). ⚠️ **A-D are loss-reduction targets; E-G are means-of-implementation targets; Target E alone had a 2020 deadline.** VisionIAS shows these only as a figure (PDF p. 62). |
+| 📰 **Sendai Midterm Review (2023)** | High-Level Meeting held **17-19 May 2023**; adopted a Political Declaration, issued as **UN General Assembly resolution 77/289** (18 May 2023) — the correct anchor for any global-progress claim. |
+| 📰 **Early Warnings for All (EW4All)** | UN Secretary-General's call of March 2022, launched at COP27 (November 2022), targeting universal early-warning coverage by **2027**; pillars led by UNDRR (risk knowledge), WMO (observation/forecasting), ITU (dissemination) and IFRC (preparedness/response), with WMO and UNDRR co-leading. It is the operational vehicle for Sendai Target G. |
 | ✅ **National Platform for Disaster Risk Reduction (NPDRR)** | Multi-stakeholder body chaired by the Union Home Minister; MoS (DM, MHA) and NDMA Vice-Chairman as NPDRR Vice-Chairpersons; State/UT DM ministers, mayors of six named metros, four Lok Sabha and two Rajya Sabha members, and ten ULB chairpersons as members; reviews DRR-policy implementation progress and advises on Centre-State coordination (PDF p. 12). |
 | ✅ **Global Platform for Disaster Risk Reduction (GPDRR)** | "The most important international forum dedicated to the disaster risk reduction agenda"; recognised by the UN General Assembly as critical for reviewing Sendai implementation progress, feeding into the High-Level Political Forum on Sustainable Development (PDF pp. 63-64). |
 | ✅ **Coalition for Disaster Resilient Infrastructure (CDRI)** | Launched by India at the UN Climate Action Summit, New York, 23 September 2019; four thematic areas (risk assessment, standards, financing, reconstruction/recovery) (PDF p. 64) — full detail in topic `14`. |
@@ -123,9 +126,20 @@ targets (PDF pp. 59-62).
   (2015).
 - ✅ Hyogo Framework: five priorities, 2005-2015. Sendai Framework: four
   priorities, seven targets, 2015-2030.
+- 📰 Sendai's seven targets are lettered **A-G**; **Target E (national
+  and local DRR strategies) alone carried a 2020 deadline**, the rest
+  2030.
+- 📰 The Sendai **Midterm Review** High-Level Meeting was held 17-19 May
+  2023; its Political Declaration became **UNGA resolution 77/289**.
+- 📰 **Early Warnings for All** targets universal early-warning coverage
+  by **2027**; four pillars led by UNDRR, WMO, ITU and IFRC.
 - ✅ NPDRR is chaired by the Union Home Minister.
 - ✅ CDRI was launched by India at the UN Climate Action Summit, New
   York, on 23 September 2019.
+- 📰 CDRI reported **58 member countries and 12 member organisations
+  (70 members)** as of June 2026; it is headquartered in New Delhi and
+  obtained international-organisation status through a Headquarters
+  Agreement in August 2022.
 - ✅ GPDRR feeds review outcomes into the UN High-Level Political Forum
   on Sustainable Development.
 
@@ -149,12 +163,24 @@ targets (PDF pp. 59-62).
 ## 9. 📰 Current official anchor
 
 - 📰 **UNDRR's Sendai Framework Midterm Review Political Declaration
-  (2023)** is the correct current anchor for Sendai implementation
-  status and India's alignment; the **Disaster Management (Amendment)
-  Act, 2025 (Act 10 of 2025)**, in force from 9 April 2025, is the
-  correct current anchor for domestic governance architecture updates —
-  VisionIAS's document-period cooperation chronology should be checked
-  against these before any current-status claim.
+  (High-Level Meeting, 17-19 May 2023; UNGA resolution 77/289, 18 May
+  2023)** is the correct current anchor for Sendai implementation status
+  and India's alignment; the **Disaster Management (Amendment) Act, 2025
+  (Act 10 of 2025)**, assented and gazetted 29 March 2025 and in force
+  from 9 April 2025, is the correct current anchor for domestic
+  governance architecture updates — VisionIAS's document-period
+  cooperation chronology should be checked against these before any
+  current-status claim.
+- 📰 For **early-warning cooperation** specifically, the current anchor is
+  **Early Warnings for All** (WMO/UNDRR co-led, target 2027) rather than
+  any general "international cooperation" formulation — applied to
+  India's own warning chain in topic `04`.
+- 📰 For **CDRI**, use CDRI's own dated publications: it reported **58
+  member countries and 12 member organisations** as of June 2026, and
+  runs **IRIS** (Infrastructure for Resilient Island States), the
+  biennial **Global Infrastructure Resilience** report (first edition
+  October 2023) and the **DRI Connect** knowledge platform — full
+  treatment in topic `14`.
 
 ## 10. PYQ application
 

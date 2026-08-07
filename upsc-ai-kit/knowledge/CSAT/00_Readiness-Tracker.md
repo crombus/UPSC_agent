@@ -36,13 +36,25 @@ Mark each `[ ]` -> `[x]` only when you can do it **without notes** and **within 
 **Topic 05 - Algebra, Inequalities & Data Sufficiency**
 - [ ] Linear/simple equations and word-to-equation translation.
 - [ ] Inequalities and quantitative comparison.
-- [ ] The two-statement data-sufficiency decision (four standard verdicts).
+- [ ] The two-statement data-sufficiency decision (test I alone, II alone, then both).
+- [ ] **Read the printed fourth option every time** - it is not a fixed template across the audited
+      years, and one 2025 variant means "answerable **without** any statement".
+- [ ] Separate **necessary** from **sufficient**, and **sufficiency** from **solving**.
 
 **Topic 06 - Logical Reasoning, Coding, Counting & DI**
 - [ ] Linear/circular arrangements, blood relations, directions.
 - [ ] Coding-decoding, syllogism/deduction, decision-making scenarios.
 - [ ] Counting/probability basics and reading DI tables/graphs.
 - [ ] Communication relationships/tools/barriers and neutral questionnaire design.
+- [ ] Conditional chains: use the **contrapositive**, never the converse; say whether a link is an
+      **implication** or an **equivalence**.
+
+**Cross-cutting precision check (see [Master Framework](00_Master-Framework.md), Section 5.1)**
+- [ ] implication vs equivalence   - [ ] necessary vs sufficient   - [ ] inference vs assumption
+- [ ] percentage point vs percent change   - [ ] average vs weighted average
+- [ ] speed vs velocity (distance vs displacement)   - [ ] simple vs compound interest
+- [ ] permutation vs combination   - [ ] probability vs possibility
+- [ ] data sufficiency vs answer solving
 
 ## 2. Timed-set log (template - copy one block per set)
 
@@ -52,7 +64,23 @@ Mark each `[ ]` -> `[x]` only when you can do it **without notes** and **within 
 |  |  |  |  |  |  |  |  |  |  |
 
 - **Net marks** = `2.5 x correct - (5/6) x wrong` (blank contributes 0).
-- Keep **time cap** realistic (e.g., 30 items in 45 min for a topic set).
+- ✅ **Exact equivalence to remember while logging:** `3 wrong = 1 correct` (`3 x 5/6 = 2.5`).
+- Keep **time cap** realistic. The paper's own average is `7200 s / 80 = 90 s` per item, so e.g.
+  30 items in 45 min reproduces exam pace exactly.
+
+### 2.1 Qualifying-margin worksheet (fill in your own two numbers)
+
+> ⚠️ **Keep these rows apart.** Row A is a **rule you must look up**; Row B is a **target you choose**.
+> Nothing in the supplied papers or key scans states any qualifying percentage.
+
+| Row | What it is | Where it comes from | Your value |
+|---|---|---|---|
+| **A - Official bar** | Notified qualifying minimum for Paper II | The current year's Civil Services Examination notification - **verify, do not recall** |  |
+| **B - Internal target** | Practice net you insist on clearing in mocks | Your choice; keep it comfortably above Row A |  |
+| **C - Correct needed** | `C >= (B + (5/6) x W) / 2.5` for your expected wrong count `W` | Derived arithmetic |  |
+| **D - Items you must reach** | `C + W` | Derived arithmetic |  |
+
+- ⚠️ Recompute Row C whenever your typical `W` moves; it shifts by exactly **1 correct per 3 wrong**.
 
 ## 3. Accuracy / attempt / risk metrics (compute each set)
 
@@ -108,11 +136,12 @@ Advance only when the gate condition holds on **at least two** recent timed sets
 
 | Gate | Condition | Cleared? |
 |---|---|---|
-| **G1 - Foundation** | All Section 1 checkboxes ticked for Topics 01, 02, 06 (the three largest audited families). | [ ] |
+| **G1 - Foundation** | All Section 1 checkboxes ticked for Topics **01, 06, 02** - the three largest audited families, in that order (79 / 45 / 44 of 240). | [ ] |
 | **G2 - Accuracy** | Accuracy on attempted items is consistently high on topic sets. | [ ] |
 | **G3 - Selection** | Attempt rate high **and** guess quality above the 1-in-4 blind line. | [ ] |
 | **G4 - Time** | Full 80-item mock finished within two hours with a Pass-3 buffer. | [ ] |
-| **G5 - Margin** | Net marks on full mocks sit **comfortably above** the qualifying bar (verify the bar against the current notification). | [ ] |
+| **G5 - Margin** | Net marks on full mocks sit **at or above your Section 2.1 Row B target**, which itself sits comfortably above the Row A official bar you verified. | [ ] |
+| **G6 - Paper rules** | You can state, without notes: 80 items, 200 marks, 2 hours, 2.5 per correct, `5/6` per wrong, blank = 0, multiple marks = wrong - **and** you read the printed data-sufficiency options rather than assuming them. | [ ] |
 
 > 🔑 **Internal planning use:** when G5 holds repeatedly in realistic mocks, consider shifting more
 > effort back to Paper I. This is study guidance, not an official clearance prediction.
@@ -131,5 +160,7 @@ after each Day-7 mixed set.
 | 05 Algebra, Inequalities & DS |  |  |  |  |  |
 | 06 Logical Reasoning, Coding & DI |  |  |  |  |  |
 
-- ⚠️ Prioritise turning **red** cells in the **big families (01, 02, 06)** to amber first - that
-  moves the qualifying needle fastest (see the trend table in the [Master Framework](00_Master-Framework.md)).
+- ⚠️ Prioritise turning **red** cells in the **big families (01, 06, 02 - in that order of audited
+  size)** to amber first; that moves the qualifying needle fastest (see the trend table in the
+  [Master Framework](00_Master-Framework.md)). Topic 03 is the smallest audited family and the
+  cheapest to leave amber longest.

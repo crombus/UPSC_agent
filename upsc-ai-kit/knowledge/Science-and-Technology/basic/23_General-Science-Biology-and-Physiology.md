@@ -41,17 +41,35 @@ antigen exposure -> immune recognition -> response -> memory
 | ✅ **DNA** | Double-stranded nucleic acid storing hereditary information in most organisms. |
 | ✅ **RNA** | Usually single-stranded nucleic acid involved in expression and regulation of genetic information. |
 | ✅ **Hormone** | Chemical messenger secreted in small amounts and carried to target tissues. |
-| ✅ **Antigen** | Foreign substance recognized by the immune system as capable of triggering a response. |
+| ✅ **Antigen** | Any substance that can be **recognised and bound by an antibody or T-cell receptor**. ⚠️ Antigens need not be foreign: **self-antigens** exist, and **immune tolerance** normally prevents a response to them — failure of tolerance produces **autoimmune disease**. An antigen that actually provokes a response is an **immunogen**. |
 | ✅ **Antibody** | Specific protein produced by B-lymphocyte lineage that binds an antigen. |
-| ✅ **Innate immunity** | Inborn, immediate and non-specific defense. |
+| ✅ **Innate immunity** | Inborn, immediate and non-specific defence — physical/chemical barriers (skin, mucus, stomach acid, lysozyme), phagocytes (neutrophils, macrophages), natural killer cells, complement proteins, interferons and the inflammatory and fever responses. |
 | ✅ **Adaptive immunity** | Specific acquired defense involving memory, B cells and T cells. |
 | ✅ **Photosynthesis** | Process by which green plants use light energy to synthesize food from carbon dioxide and water. |
+
+**High-frequency Prelims biology — the compact coverage table.**
+
+| Area | What must be known |
+|---|---|
+| ⚠️ **Cell structure** | **Prokaryote** (no true nucleus or membrane-bound organelles — bacteria) vs **eukaryote**. Organelles: **nucleus** (genetic control), **ribosome** (protein synthesis), **rough/smooth ER** (protein and lipid processing), **Golgi** (packaging and secretion), **lysosome** ("suicide bag", hydrolytic enzymes), **mitochondrion** (ATP), **chloroplast** and **cell wall** (plants only), **vacuole**. Membrane transport: **diffusion, osmosis, active transport**. |
+| ⚠️ **Cell division** | **Mitosis** — one division, two genetically identical diploid daughter cells, for growth and repair. **Meiosis** — two divisions, four genetically varied **haploid** gametes, with **crossing over** generating variation. Confusing the two is a standard error. |
+| ⚠️ **Molecular genetics** | DNA **replication** is semi-conservative; **transcription** makes mRNA; **translation** at the ribosome uses tRNA and the **genetic code** (triplet codons) to build protein. **Mutations** (point, frameshift, chromosomal) are the raw material of variation; **sickle-cell anaemia** and **thalassaemia** are standard Indian examples. |
+| ⚠️ **Mendelian inheritance** | Laws of dominance, segregation and independent assortment; monohybrid 3:1 and dihybrid 9:3:3:1 ratios. **Sex determination** in humans is XX/XY (the sperm determines sex). **Sex-linked** conditions such as haemophilia and red-green colour blindness are X-linked recessive, hence commoner in males. |
+| ⚠️ **Blood** | **ABO groups** with A, B, AB (universal recipient) and **O (universal donor)**; **Rh factor** — Rh-negative mothers carrying an Rh-positive foetus risk **erythroblastosis foetalis**. Blood components: plasma, RBCs (haemoglobin, no nucleus in humans), WBCs, platelets (clotting). |
+| ⚠️ **Human systems** | **Circulatory** — four-chambered heart, double circulation, arteries carry blood away (pulmonary artery is the deoxygenated exception). **Respiratory** — gas exchange in alveoli; haemoglobin binds oxygen but binds **carbon monoxide far more strongly**, which is why CO poisoning is lethal. **Excretory** — the **nephron** filters (glomerulus), reabsorbs and secretes; dialysis substitutes for failed kidneys. **Nervous** — CNS and peripheral; neurons transmit via electrical impulses and neurotransmitters; the medulla controls involuntary functions; reflex arcs bypass the brain. **Digestive** — enzymes act at specific pH (salivary amylase, gastric pepsin in acid, pancreatic and intestinal enzymes in alkaline medium); bile emulsifies fat. |
+| ⚠️ **Endocrine system** | Pituitary (master gland: growth hormone), thyroid (thyroxine; **iodine deficiency → goitre**), parathyroid (calcium), adrenal (adrenaline, cortisol), pancreas (**insulin and glucagon — diabetes mellitus**), gonads. |
+| ⚠️ **Nutrition and deficiency** | Fat-soluble vitamins **A, D, E, K**; water-soluble **B-complex and C**. Deficiencies: **A → night blindness/xerophthalmia; D → rickets and osteomalacia; C → scurvy; B1 → beriberi; B3 → pellagra; B12/folate → anaemia; K → clotting defects; iron → anaemia; iodine → goitre and cretinism**. Protein-energy malnutrition: **kwashiorkor** (protein deficit, oedema) and **marasmus** (overall energy deficit, wasting). |
+| ⚠️ **Diseases and pathogens** | **Bacterial** — TB, cholera, typhoid, tetanus, leprosy. **Viral** — measles, polio, dengue, chikungunya, rabies, hepatitis, COVID-19, influenza. **Protozoan** — **malaria (Plasmodium, female Anopheles)**, kala-azar (Leishmania, sandfly), amoebiasis. **Fungal** — ringworm, candidiasis. **Helminthic** — filariasis (Culex), ascariasis. **Vectors matter:** *Aedes aegypti* → dengue/chikungunya/Zika; *Anopheles* → malaria; *Culex* → filariasis/Japanese encephalitis. **Zoonoses** (rabies, Nipah, avian influenza, brucellosis) justify the **One Health** approach. |
+| ⚠️ **Communicable vs non-communicable** | NCDs — cardiovascular disease, diabetes, cancers, chronic respiratory disease, mental illness — now dominate India's disease burden and are driven by tobacco, alcohol, diet, physical inactivity and air pollution. India's **double burden** of persisting infections plus rising NCDs is the standard framing. |
+| ⚠️ **Antibiotics vs antivirals; AMR** | **Antibiotics act on bacteria only** — they do nothing against viruses. **Antimicrobial resistance** arises from over-prescription, incomplete courses, over-the-counter sales, use in animal husbandry and antibiotic residues in the environment; it is a **selection** process, not "the body becoming resistant." India's **National Action Plan on AMR** and Schedule H1 prescription controls are the policy responses. |
+| ⚠️ **Human microbiome** | Trillions of gut and skin microbes involved in digestion, vitamin synthesis (K, some B), immune development and pathogen exclusion; disturbed by antibiotics; **probiotics** add live beneficial microbes and **prebiotics** feed them. |
+| ⚠️ **Plant physiology** | **Photosynthesis** (light and dark reactions, chlorophyll, stomata), **transpiration** and the transpiration pull driving water movement in **xylem**; **phloem** translocates food. Plant hormones: **auxin** (elongation, apical dominance), **gibberellin** (stem growth), **cytokinin** (cell division), **abscisic acid** (stress and stomatal closure), **ethylene** (fruit ripening). **C3, C4 and CAM** pathways explain drought adaptation. |
 
 ## 3. Mechanism / how it works
 
 ### How adaptive immune response develops (without entering vaccine-platform details)
 
-1. ✅ An antigen enters the body and is recognized as non-self.
+1. ✅ An antigen enters the body and is recognised as **non-self**. ⚠️ Recognition of *self* antigens is normally suppressed by **immune tolerance**; when tolerance fails, autoimmune disease results.
 2. ✅ Antigen-presenting cells help activate lymphocytes.
 3. ✅ B cells differentiate into plasma cells that produce antibodies; T cells coordinate or directly attack depending on subtype.
 4. ✅ Antibodies bind specific antigens and help neutralize or mark them for destruction.
@@ -63,7 +81,7 @@ antigen exposure -> immune recognition -> response -> memory
 - ✅ **DBT (Department of Biotechnology):** major biotechnology-policy and programme institution for applied life sciences.
 - ✅ **CSIR-CCMB:** cellular and molecular biology research ecosystem.
 - ✅ **CSIR-IGIB:** genomics and integrative biology research.
-- ✅ **ICMR / public-health surveillance ecosystem:** disease, diagnostics and human-biology applications.
+- ✅ **ICMR:** India's apex body for **biomedical research** — it formulates research policy, runs institutes and issues ethical guidelines. ⚠️ It is **not** the operational disease-surveillance agency: **NCDC** and the **IDSP/IHIP** network under **MoHFW**, together with State health departments, perform surveillance and outbreak response, while **CDSCO** approves drugs and vaccines. Collapsing ICMR, NCDC, MoHFW and CDSCO into one "public-health ecosystem" is a common institutional error.
 - ⚠️ Foundations here support later applied discussions in `13_Biotechnology-Fundamentals-and-DBT-Missions.md`, `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` and `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md`.
 
 ## 5. Indian applications, examples and limitations

@@ -2,7 +2,7 @@
 
 > **Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + GS-II (international cooperation) + Prelims.
 > **Core area:** Human-spaceflight architecture, astronaut training and India’s lunar/solar/planetary mission sequence.
-> **Grounded in:** ISRO Gaganyaan page (https://www.isro.gov.in/Gaganyaan.html); ISRO Axiom-4 launch note (https://www.isro.gov.in/Successful_Launch_of_Axiom_Mission.html); ISRO Chandrayaan pages (https://www.isro.gov.in/Chandrayaan-1_science.html ; https://www.isro.gov.in/Chandrayaan2_science.html ; https://www.isro.gov.in/Chandrayaan3.html); ISRO Aditya-L1 pages (https://www.isro.gov.in/Aditya_L1.html ; https://www.isro.gov.in/ISRO_EN/halo-orbit-insertion-adtya-l1.html); PIB Gaganyaan/Bharatiya Antariksh Station approval (https://pib.gov.in/PressReleasePage.aspx?PRID=2055978); PIB Chandrayaan-4 approval (https://pib.gov.in/PressReleasePage.aspx?PRID=2055989); ISRO Venus/Chandrayaan configuration note (https://www.isro.gov.in/UnionCabinetApprovesIndiasMission.html); PIB Mangalyaan legacy note (https://pib.gov.in/PressReleasePage.aspx?PRID=2276117&reg=48&lang=1) — verified 16 Jul 2026.
+> **Grounded in:** ISRO Gaganyaan page (https://www.isro.gov.in/Gaganyaan.html); ISRO Axiom-4 launch and conclusion notes (https://www.isro.gov.in/ISRO_EN/Successful_Launch_of_Axiom_Mission.html ; https://www.isro.gov.in/Axiom04_mission_successfully_concluded_return_ISRO_Gaganyatri_ShubhanshuShukla.html); Integrated Air Drop Tests (https://www.isro.gov.in/Integrated_Air_Drop_Test_for_Gaganyaan_Missions.html ; https://www.isro.gov.in/ISRO_conducts_Second_Integrated_Air_Drop_Test_for_Gaganyaan.html) and IMAT-05 (https://www.isro.gov.in/Integrated_Main_Parachute_Air_Drop_Test.html); Pad Abort Test note (https://pib.gov.in/PressReleasePage.aspx?PRID=1540066); ISRO Chandrayaan pages (https://www.isro.gov.in/Chandrayaan-1_science.html ; https://www.isro.gov.in/Chandrayaan2_science.html ; https://www.isro.gov.in/Chandrayaan3.html); ISRO Aditya-L1 pages (https://www.isro.gov.in/Aditya_L1.html ; https://www.isro.gov.in/ISRO_EN/halo-orbit-insertion-adtya-l1.html); Cabinet approvals of 18 Sep 2024 for Gaganyaan/BAS, Chandrayaan-4 and the Venus Orbiter Mission (https://pib.gov.in/PressReleasePage.aspx?PRID=2055978 ; https://pib.gov.in/PressReleasePage.aspx?PRID=2055989 ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2055982); Gaganyaan status replies (https://pib.gov.in/PressReleasePage.aspx?PRID=2205291 ; https://pib.gov.in/PressReleasePage.aspx?PRID=2227019) — re-verified 2 Aug 2026.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current/dated development.
 > *Companion: `advanced/03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md`.*
 
@@ -23,13 +23,17 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 
 | Mission / programme | What UPSC should remember | Current broad status |
 |---|---|---|
-| Gaganyaan | Indigenous human spaceflight capability demonstration | Under development / test phase |
+| Gaganyaan | Indigenous human spaceflight capability demonstration | Under development / uncrewed test phase (as of Aug 2026 no Gaganyaan orbital flight has taken place) |
 | Chandrayaan-1 | First lunar mission; major science outcome on lunar water/hydroxyl evidence | Completed |
-| Chandrayaan-2 | Orbiter successful; lander soft landing not achieved | Orbiter operational as per ISRO science page |
-| Chandrayaan-3 | Successful soft landing and surface science near lunar south polar region | Completed science mission |
-| Aditya-L1 | Solar observatory at Sun-Earth L1 halo orbit | Operational |
+| Chandrayaan-2 | Orbiter successful; lander soft landing not achieved | Orbiter reported operational by ISRO; re-verify the orbiter's status before quoting it as "currently operating" |
+| Chandrayaan-3 | Successful soft landing (23 Aug 2023) and surface science near the lunar south polar region | Completed science mission |
+| Aditya-L1 | Solar observatory in a halo orbit around Sun-Earth L1 (insertion 6 Jan 2024) | Operational |
 | Mars Orbiter Mission | Historic low-cost Mars orbiter | Mission concluded |
-| Venus Orbiter Mission / Shukrayaan | Next major comparative-planetology step | Approved / under development |
+| Chandrayaan-4 | Lunar **sample-return** technology demonstration | Approved 18 Sep 2024 / under development |
+| Venus Orbiter Mission / Shukrayaan | Next major comparative-planetology step | Approved 18 Sep 2024; launch opportunity stated as March 2028 |
+| Bharatiya Antariksh Station (BAS) | Indian space station; BAS-01 is the first module | Approved 18 Sep 2024; BAS-01 targeted December 2028 |
+
+> 🔑 **The four ladders — never mix them.** (a) *Human spaceflight*: test → uncrewed orbital → crewed → station. (b) *Lunar*: orbit → soft land → rove → sample return. (c) *Solar/deep-space observation*: Lagrange-point station-keeping, no landing at all. (d) *International crewed cooperation* (e.g. an ISS flight) — participation in someone else's system, not indigenous capability.
 
 ## 2. Essential definitions
 
@@ -40,9 +44,14 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 | ✅ **Service Module (SM)** | Support module that provides propulsion, power and other non-habitable orbital support to the Crew Module. |
 | ✅ **Orbital Module (OM)** | Combined Gaganyaan flight element made of the Crew Module and Service Module. |
 | ✅ **Vyommitra** | ISRO’s humanoid mission-support robot intended for uncrewed human-spaceflight precursor missions. |
-| ✅ **Halo orbit** | A periodic three-dimensional orbit around a Lagrange point; Aditya-L1 uses one around Sun-Earth L1. |
-| ✅ **Soft landing** | Controlled touchdown on a celestial body with velocity reduced enough to preserve payload functionality. |
-| ✅ **Sample return** | Mission design that collects extraterrestrial material and brings it back to Earth for analysis. |
+| ✅ **Crew Escape System (CES)** | A set of solid motors that pulls the Crew Module clear of a failing launch vehicle. It must work from the launch pad right through the atmospheric ascent — this is what the Pad Abort Test (5 Jul 2018) and Test Vehicle mission TV-D1 (21 Oct 2023) demonstrated. |
+| ⚠️ **Abort mode** | A pre-planned survivable exit from a failing flight, defined for each phase (pad abort, low-altitude, high-altitude, orbital). A launcher without validated abort modes cannot be human-rated regardless of its success record. |
+| ⚠️ **Environmental Control and Life Support System (ECLSS)** | Onboard system maintaining breathable atmosphere, pressure, temperature, humidity and CO₂ removal — the defining difference between a satellite and a crewed spacecraft. |
+| ⚠️ **Integrated Air Drop Test (IADT)** | Test in which a crew-module mass simulator is dropped from a helicopter/aircraft to qualify the **parachute-based deceleration and recovery sequence**, without any rocket launch. IADT-01 was conducted on 24 Aug 2025 and IADT-02 on 10 Apr 2026. |
+| ✅ **Halo orbit** | A periodic three-dimensional orbit around a Lagrange point; Aditya-L1 uses one around Sun-Earth L1. A satellite there needs continuous **station-keeping** because the orbit is only quasi-stable. |
+| ⚠️ **Lagrange point** | One of five positions in a two-body system where gravitational and centripetal effects allow a small body to hold a fixed configuration. L1 (between Sun and Earth) gives an uninterrupted view of the Sun without eclipses — the reason Aditya-L1 was placed there rather than in Earth orbit. |
+| ✅ **Soft landing** | Controlled, non-destructive touchdown on a celestial body, with descent velocity reduced enough that the spacecraft survives intact. (Preserved payload function is the intended *result*; the defining condition is the controlled, survivable descent.) |
+| ✅ **Sample return** | Mission design that collects extraterrestrial material and brings it back to Earth for analysis. It requires two capabilities India has not yet demonstrated together: ascent from another body, and rendezvous/docking or direct Earth return with containment. |
 | ✅ **Gaganyatri** | Indian astronaut-designate/crew member associated with the Gaganyaan programme. |
 
 ## 3. Mechanism / how it works
@@ -83,6 +92,11 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 - ✅ Chandrayaan-3 achieved successful soft landing and in-situ lunar science including sulphur detection on the surface.
 - ✅ ISRO states Aditya-L1 entered halo orbit around Sun-Earth L1 on 6 January 2024.
 - ✅ Mangalyaan outlived its original design life and is now treated in recent official references as a concluded mission.
+- ✅ **Gaganyaan test sequence actually completed so far (all uncrewed):** Pad Abort Test (5 Jul 2018) → Test Vehicle abort mission **TV-D1** (21 Oct 2023) → **IADT-01** parachute/recovery air-drop test (24 Aug 2025) → **IADT-02** (10 Apr 2026) → Integrated Main Parachute Air Drop Test **IMAT-05** (7 Jul 2026, qualifying parachutes for the first uncrewed orbital mission G1).
+- ✅ **G1, the first uncrewed Gaganyaan orbital flight, had not been flown as of the latest verified official statements (Aug 2026).** The first **crewed** flight is officially targeted in **2027-28**. Treat both as targets, not achievements.
+- ✅ **Bharatiya Antariksh Station:** approved 18 Sep 2024 within an expanded Gaganyaan scope; **BAS-01 (first module) targeted by December 2028**.
+- ✅ **Chandrayaan-4** (lunar sample return) and the **Venus Orbiter Mission** were both approved on **18 Sep 2024**; the Venus launch opportunity was stated as **March 2028**.
+- ✅ **Axiom-4:** Group Captain **Shubhanshu Shukla** flew as mission pilot, launching **25 Jun 2025** and returning **15 Jul 2025** after an **18-day** mission, carrying out **seven Indian experiments** aboard the ISS. This was an **international ISS mission on a SpaceX Dragon**, not an Indian human spaceflight.
 
 ## 7. UPSC traps
 
@@ -92,15 +106,21 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 - ❌ Vyommitra is an Indian astronaut. -> Vyommitra is a humanoid mission-support robot for uncrewed test phases.
 - ❌ Mangalyaan should be described as operational today. -> Recent official references celebrate it as a concluded historic mission.
 - ❌ Approved Bharatiya Antariksh Station or Venus Orbiter plans should be written as completed missions. -> They are approved/under-development roadmap items, not accomplished missions.
+- ❌ "An air-drop test is a Gaganyaan flight." -> IADT/IMAT tests drop a crew-module simulator from an aircraft or helicopter to qualify parachutes and recovery; no launch vehicle is involved.
+- ❌ "TV-D1 was India's first uncrewed Gaganyaan mission." -> TV-D1 was a **Test Vehicle abort demonstration** validating the Crew Escape System in transonic flight; the first uncrewed *orbital* mission is G1, which is distinct and later.
+- ❌ Writing that an Indian astronaut has "gone to space under Gaganyaan." -> Shubhanshu Shukla flew on Axiom-4 to the ISS on a US commercial vehicle; Gaganyaan's crewed flight is targeted for 2027-28.
 
 ## 8. 📰 Current anchor
 
 - 📰 **06 Jan 2024 | Aditya-L1 - operational in halo orbit.** ISRO said halo-orbit insertion at Sun-Earth L1 was successfully accomplished; use this to mark the mission as operational, not proposed.
-- 📰 **18 Sep 2024 | Gaganyaan follow-on + Bharatiya Antariksh Station - approved.** PIB said BAS-1 and associated follow-on missions were approved within the expanded Gaganyaan scope.
-- 📰 **18 Sep 2024 | Venus Orbiter Mission and Chandrayaan-4 - approved.** ISRO/PIB described the Venus Orbiter Mission and Chandrayaan-4 sample-return technology mission as approved future steps under Space Vision 2047.
-- 📰 **25 Jun 2025 | Axiom Mission 4 - crewed international mission launched successfully.** ISRO announced the successful launch carrying Group Captain Shubhanshu Shukla as mission pilot, linking ISS experience with India’s human-spaceflight journey.
+- 📰 **18 Sep 2024 | Gaganyaan follow-on + Bharatiya Antariksh Station - approved.** Cabinet approved BAS-01 and follow-on missions within the expanded Gaganyaan scope; **BAS-01 target: December 2028.**
+- 📰 **18 Sep 2024 | Venus Orbiter Mission and Chandrayaan-4 - approved.** Chandrayaan-4 was approved as a lunar **sample-return technology** mission (Cabinet wording: completion within 36 months); the Venus Orbiter Mission's stated opportunity is **March 2028**.
+- 📰 **25 Jun - 15 Jul 2025 | Axiom Mission 4 - flown and concluded.** Group Captain Shubhanshu Shukla flew as mission pilot, spent 18 days on the mission and performed seven Indian experiments. **Status: completed international mission.**
+- 📰 **24 Aug 2025 / 10 Apr 2026 | Integrated Air Drop Tests IADT-01 and IADT-02 - conducted.** Qualified the crew-module parachute-deceleration and recovery sequence.
+- 📰 **7 Jul 2026 | IMAT-05 main-parachute air-drop test - conducted.** ISRO described it as a qualification step towards the first uncrewed orbital mission **G1**.
+- 📰 **17 Dec 2025 / 12 Feb 2026 | Gaganyaan - crewed flight targeted 2027-28; G1 preparation continuing.** Parliamentary material described crew/service-module checks, integration and simulations. **Status: under development; no Gaganyaan orbital flight had occurred as of the latest verified statement.**
 
-⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date; verify later updates before exam use.
+⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Aug 2026); verify later updates before exam use.
 
 ## 9. PYQ application
 

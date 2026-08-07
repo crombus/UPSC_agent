@@ -42,7 +42,9 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Urban Flooding Cell (UFC)** | A dedicated national coordination cell recommended in **NDMA's Guidelines on Management of Urban Flooding (2010)** to be constituted within the urban-development ministry, for Urban Flood Disaster Management activities, with ULBs managing locally (PDF p. 31); ⚠️ a *recommendation*, not a self-executing body — its actual constitution/current operation requires verification against a current MoHUA/State notification. |
-| ✅ **Coalition for Disaster Resilient Infrastructure (CDRI)** | Launched by India at the UN Climate Action Summit, New York, 23 September 2019; works toward common infrastructure-building standards, financial/compliance mechanisms, and R&D informing multilateral-bank investment decisions (PDF p. 64). |
+| ✅ **Coalition for Disaster Resilient Infrastructure (CDRI)** | Launched by India at the UN Climate Action Summit, New York, 23 September 2019; works toward common infrastructure-building standards, financial/compliance mechanisms, and R&D informing multilateral-bank investment decisions (PDF p. 64). 📰 CDRI reported **58 member countries and 12 member organisations (70 members)** as of **June 2026**; it is headquartered in **New Delhi** and secured international-organisation status through a **Headquarters Agreement in August 2022**. |
+| 📰 **CDRI's flagship initiatives** | **IRIS** (Infrastructure for Resilient Island States) — technical, financial and policy support for Small Island Developing States; the biennial **Global Infrastructure Resilience** report (first edition, *Capturing the Resilience Dividend*, October 2023); and **DRI Connect**, its knowledge-exchange platform for resilient-infrastructure professionals. |
+| 📰 **Crowd disasters / stampedes at mass gatherings** | VisionIAS treats stampedes as an anthropogenic disaster (PDF p. 55). NDMA's governing document is the **May 2014** guide *Managing Crowd at Events and Venues of Mass Gathering — A Guide for State Governments, Local Authorities, Administrators and Organizers*, covering crowd-disaster causes and triggers, advance planning and coordination, safety standards and SOPs, stakeholder preparedness, technology, media/public communication and best practices. ⚠️ It is an NDMA **report/guide**, not one of the numbered National Disaster Management Guidelines. 📰 After the New Delhi Railway Station crowd disaster, the Ministry of Railways reported **18 deaths and 15 injuries** and described holding areas, controlled access, CCTV/war-room monitoring, wider foot-over-bridges, capacity-linked ticketing and strengthened station-director powers (PIB, 19 March 2025). ❌ Do not quote casualty figures for other recent crowd incidents without a dated government source. |
 | ✅ **CDRI's four thematic areas** | (1) Disaster risk assessment (time-series hazard data, probabilistic risk models); (2) standards of design and implementation (codes reflecting evolving hazard understanding and engineering advances); (3) financing new infrastructure/risk-covering mechanisms (budget reserve funds, catastrophe bonds); (4) reconstruction/recovery of infrastructure ("Build Back Better" for both structural design and management systems) (PDF p. 64). |
 | ✅ **Structural vs. non-structural resilience measures** | Structural: flood-control systems, protective embankments, seawall rehabilitation, building retrofitting. Non-structural: risk-sensitive planning, institutional frameworks, hazard mapping, ecosystem-based management, disaster-risk financing (PDF p. 64). |
 
@@ -66,6 +68,19 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
    did not previously exist in a common, internationally coordinated
    form; India launched CDRI at the UN Climate Action Summit, New York,
    on 23 September 2019 (PDF p. 64).
+4. **Crowd density as an urban hazard in its own right**: ⚠️ a stampede
+   is the one urban disaster where the hazard *is* the exposure — the
+   crowd is simultaneously what is at risk and what generates the risk,
+   so the standard hazard/exposure separation (topic `01`) collapses.
+   Risk therefore turns on **built-environment capacity and flow
+   design** — entry/exit ratios, corridor widths, one-way circulation,
+   holding areas, and capacity-linked ticketing — rather than on
+   forecasting an external hazard. 📰 The Ministry of Railways' response
+   after the New Delhi Railway Station disaster (holding areas,
+   controlled access, CCTV/war-room monitoring, wider foot-over-bridges,
+   capacity-linked ticketing, strengthened station-director powers; PIB,
+   19 March 2025) is a precisely citable illustration of that
+   flow-design logic applied to a lifeline asset.
 
 ## 4. Disaster-management cycle application
 
@@ -111,6 +126,13 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
 
 - ✅ CDRI was launched by India at the UN Climate Action Summit, New
   York, on 23 September 2019.
+- 📰 CDRI reported **58 member countries and 12 member organisations
+  (70 members)** as of June 2026; headquartered in **New Delhi**, with
+  international-organisation status from a **Headquarters Agreement of
+  August 2022**.
+- 📰 CDRI's flagship initiatives are **IRIS** (Infrastructure for
+  Resilient Island States), the biennial **Global Infrastructure
+  Resilience** report (first edition October 2023) and **DRI Connect**.
 - ✅ CDRI has four thematic areas: risk assessment, design/implementation
   standards, financing mechanisms, reconstruction/recovery.
 - ✅ Disaster Resilient Infrastructure includes both structural
@@ -119,6 +141,15 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
   Management of Urban Flooding (2010) to coordinate nationally, with
   ULBs implementing locally; its current existence/operation requires
   MoHUA/State notification verification.
+- 📰 The **Urban Flood Risk Management Programme**, financed from the
+  National Disaster Mitigation Fund, is the implemented counterpart:
+  Chennai (7 December 2023), six more cities (25 July 2024) and **Phase 2
+  for 11 cities at ₹2,444.42 crore on a 90:10 basis (1 October 2025)**.
+- 📰 A **UDMA under s. 41A** is chaired by the **Municipal Commissioner**
+  with the **District Collector** as Vice-Chairperson; it prepares the
+  **Urban Plan**, approved by the SDMA. Delhi and Chandigarh are excluded.
+- 📰 NDMA's crowd-safety document is the **May 2014** guide *Managing
+  Crowd at Events and Venues of Mass Gathering*.
 - ✅ "Build Back Better" applies to management systems, not only physical
   structures.
 
@@ -148,12 +179,25 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
 ## 9. 📰 Current official anchor
 
 - 📰 The **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)**
-  is in force from 9 April 2025 (gazette-notified 8 April 2025), and its
-  Urban Disaster Management Authority provision is operative law; ⚠️
-  whether a *specific* State has actually constituted its Urban DM
-  Authority requires the relevant State notification, checked against
-  **CDRI's official current resources** for CDRI's current membership/
-  project status, as of the 18 July 2026 research cutoff — VisionIAS's
+  was assented and gazetted **29 March 2025** and is in force **from
+  9 April 2025**; its **Urban Disaster Management Authority** provision
+  is **s. 41A** (there is no s. 9B). ⚠️ s. 41A is **enabling** — a UDMA
+  exists only where a State has notified one (MHA cited Karnataka's BBMP
+  UDMA on 11 February 2026), and the NCT of Delhi and UT of Chandigarh
+  are expressly excluded.
+- 📰 **CDRI's own dated publications** are the correct anchor for its
+  membership and project status: **58 member countries and 12 member
+  organisations** as of June 2026; **IRIS**, the biennial **Global
+  Infrastructure Resilience** report (first edition October 2023) and
+  **DRI Connect** are its flagship initiatives.
+- 📰 For urban-flood infrastructure specifically, the **Urban Flood Risk
+  Management Programme** (NDMF-financed; Phase 2 approved 1 October 2025
+  for 11 cities at ₹2,444.42 crore, 90:10) is the implemented programme —
+  as distinct from the Urban Flooding Cell, which remains a 2010
+  guideline **recommendation**.
+- 📰 For **mass-gathering safety**, the anchor is NDMA's May 2014 crowd-
+  management guide together with the operator's own post-incident
+  measures (e.g. Ministry of Railways, PIB, 19 March 2025). VisionIAS's
   material pre-dates the 2025 Amendment Act and must not be presented as
   reflecting its provisions.
 

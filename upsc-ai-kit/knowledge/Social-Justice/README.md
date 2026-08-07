@@ -1,5 +1,7 @@
 # Social Justice - Knowledge Base Index
 
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+
 > **Subject:** Social Justice | **GS Paper:** GS-II, with GS-I society, GS-III
 > labour and GS-IV justice links.
 > **Spine:** Official UPSC GS-II syllabus; audited local UPSC GS-II and Essay papers

@@ -126,4 +126,10 @@ Concl : "substance" migrates from ontology to epistemology/language — the mirr
 - Cross-paper / cross-tradition: `indian/Buddhism.md` (nairātmya vs Hume's bundle) · `_themes/Self-and-liberation-across-schools.md`.
 
 ---
-> 📖 **SOURCE-VERIFIED** (synthesis): Cross-cutting theme distilled from source-verified parents. Substance from Aristotle (primary/secondary) → Descartes (thinking/extended) → Spinoza (one substance) → Leibniz (monads) → Locke ("something-I-know-not-what") → Berkeley/Hume (rejection) confirmed vs **Stace**, **Masih**, **Kenny** in the parent files. No independent corrections.
+
+## SOURCES
+
+- W. T. Stace, *A Critical History of Greek Philosophy*.
+- Y. Masih, *A Critical History of Western Philosophy*.
+- Anthony Kenny, *A New History of Western Philosophy*.
+- Owner files: [`Plato-Aristotle.md`](../western/Plato-Aristotle.md), [`Rationalism.md`](../western/Rationalism.md), and [`Empiricism.md`](../western/Empiricism.md).

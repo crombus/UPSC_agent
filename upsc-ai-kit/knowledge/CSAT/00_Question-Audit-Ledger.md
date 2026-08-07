@@ -1,6 +1,7 @@
 # CSAT - Question Audit Ledger
 
 > **Scope:** all 240 questions in the supplied 2024-2026 GS Paper II Set-A scans.
+> **Booklets:** `KSPC-B-GSPT/61A` (2024), `LVPK-T-PST (48-A)` (2025), `TDMN-B-AST/66A` (2026).
 > **Method:** direct inspection of the English question text and Set-A column of each supplied key.
 > Labels are neutral, non-verbatim skill descriptions; they are not official UPSC tags.
 
@@ -8,9 +9,23 @@
 04 Rates/Motion/Time/Geometry; 05 Algebra/Inequalities/Data Sufficiency; 06 Logical Reasoning,
 Coding, Counting, Data Interpretation and interpersonal/communication skills.
 
-**Key status:** `S` = supplied completed scan; issuer not identified in supplied file/metadata.
-`P` = supplied provisional 2026 scan; not treated as a final key. An unresolved scan would be
-recorded as `manual review needed`; none remained after direct page inspection.
+**Key status:** `S` = supplied completed scan headed only `CS(P)-2024` / `CS(P)-2025`, with **no
+issuer named and no provisional marker**; this module therefore records it as *supplied*, not as
+*certified final*. `P` = the 2026 scan, headed **`CS (P) Exam 2026 [Prov. Ans. Key]`**, i.e.
+provisional on its own face. All three scans state `No. of Questions Dropped = 0` and
+`No. of Questions taken for Scoring = 80`, which is why each year below reconciles to a full 80 rows.
+An unresolved scan would be recorded as `manual review needed`; none remained after direct page
+inspection.
+
+**Verification:** every key column below was re-read from the Set-A page of the corresponding key
+scan and compared row-by-row with this table. **240 of 240 matched.** Keys are **Set A only** - a
+different booklet series carries a different order and these letters do **not** transfer to it.
+
+**Format note (2024/2025 vs 2026):** the two-statement data-sufficiency items are printed
+**per item** in 2024 and 2025 (each carries its own directions and its own four options) but under a
+**single shared directions block covering five items** in 2026. The fourth option is **not** a fixed
+template across items - see [basic/05](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md),
+Section 2, before using any of these rows as practice.
 
 ## 2024
 
@@ -281,6 +296,19 @@ Every classification and answer in this section is provisional.
 | 06 | 12 | 12 | 21 | 45 |
 | **All families** | **80** | **80** | **80** | **240** |
 
-Taxonomy overlaps were resolved by the dominant solving method. In particular, all two-statement
-data-sufficiency formats remain in Family 05 even when their content uses rates, arithmetic, or
-relations; coding/counting formats remain in Family 06. This rule makes the totals reproducible.
+Taxonomy overlaps were resolved by the dominant solving method, using these written tie-breaks so the
+totals are reproducible:
+
+1. **Two-statement data-sufficiency format -> Family 05**, always, even when the content is rates,
+   arithmetic, relations or coding. The tested skill is "is this pinned?", not the computation.
+2. **Coding, counting, arrangement and matching formats -> Family 06**, even when the content is
+   numeric.
+3. **Motion context -> Family 04.** Items about distance, displacement, step/jump sequences, tracks,
+   crossings, clocks and calendars stay in 04 even when the algebra is a small linear system; word
+   problems with **no motion or geometric measure** go to 05.
+4. **Commercial base (price, cost, profit, share, average of a group) -> Family 03**; pure number
+   properties (divisibility, digits, factors, remainders, series) -> Family 02.
+
+⚠️ Rules 1 and 2 make the 05/06 split reproducible but not uncontestable; rule 3 is the one that
+most often moves a single item between 04 and 05. Read the [Master Framework](00_Master-Framework.md)
+trend-table caveats before quoting any single-family count as a trend.

@@ -123,8 +123,13 @@ them, where conduct is technically lawful but the Nolan-standard resolution is c
   existing Code of Conduct for Ministers, monitored by dedicated units in the PM's/CM's offices with
   an annual report to the legislature.
 - ✅ 2025 GS-IV Q5(a) explicitly acknowledges that India's Code of Conduct is "already in operation"
-  while a Code of Ethics remains "yet to be put in place" — matching the ARC's own 2007 diagnosis,
+  while a Code of Ethics remains "not yet put in place" — matching the ARC's own 2007 diagnosis,
   still substantially unresolved as of the current PYQ.
+- ✅ ARC 2.4.5(b)-(d) also specify *how* such a Code should be monitored: dedicated units in the
+  offices of the Prime Minister and Chief Ministers, empowered to receive public complaints, with
+  an annual report on observance — including specific violations and action taken — submitted to
+  the appropriate legislature, and all three documents (Code of Ethics, Code of Conduct, annual
+  report) placed in the public domain.
 
 ## 8. Advanced Prelims traps
 
@@ -135,8 +140,11 @@ them, where conduct is technically lawful but the Nolan-standard resolution is c
   legitimately unequal in ethical weight; the dilemma is that both options honour some legitimate,
   competing duty, not that they are equivalent in merit.
 - ❌ The ARC's Code of Ethics recommendation for Ministers has been fully implemented. -> The 2025
-  GS-IV paper itself confirms the Code of Ethics remains "yet to be put in place," matching the
-  ARC's 2007, still-largely-unaddressed recommendation.
+  GS-IV paper itself confirms the Code of Ethics is "not yet put in place", matching the ARC's
+  2007, still-largely-unaddressed recommendation.
+- ❌ The Nolan wording the ARC reproduces is the current UK text. -> The ARC quotes the Committee on
+  Standards in Public Life's **1995** formulation; the UK's official wording has since been
+  revised. Cite the ARC's version as the ARC's, not as today's UK standard.
 
 ## 9. 📰 Current-anchor application
 
@@ -150,7 +158,7 @@ them, where conduct is technically lawful but the Nolan-standard resolution is c
   distinction precisely, (b) notes the current implementation gap, and (c) proposes a specific,
   Nolan-principle-based model (e.g., integrity/openness/accountability clauses with a monitoring
   unit, as the ARC itself recommended in 2.4.5).
-- ✅ 2025 GS-IV Case Study Q7 rewards decomposition into nested dilemmas (personal/duty,
+- ✅ 2025 GS-IV Q7 (Section B case study) rewards decomposition into nested dilemmas (personal/duty,
   distributive-justice, transparency) rather than a single blended narrative response.
 
 ## 11. Mains-ready framework

@@ -38,7 +38,7 @@ default from secrecy-unless-permitted to disclosure-unless-justified.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **RTI Act, 2005** | Statute giving citizens an enforceable right to request information from public authorities, subject to specified exemptions, enforced through Public Information Officers, First Appellate Authorities and the Central/State Information Commissions. |
-| ✅ **Official Secrets Act, 1923** | Colonial-era law criminalising unauthorised disclosure of official information; the ARC (per its Colloquium annexure) recommended its repeal as inconsistent with a transparency-oriented democracy. |
+| ✅ **Official Secrets Act, 1923** | Colonial-era law criminalising unauthorised disclosure of official information. The 2nd ARC's **First Report** (*Right to Information: Master Key to Good Governance*, 2006, para 2.2.12) recommended that it "should be repealed, and substituted by a chapter in the National Security Act, containing provisions relating to official secrets". 📰 On the position verified as at 4 August 2026, the Act **remains in force**; RTI Section 22 is only an overriding clause to the extent of inconsistency, not a repeal. |
 | ⚠️ **Transparency vs disclosure** | Transparency is the systemic default/culture of openness; disclosure is the specific act of releasing particular information — an organisation can make occasional disclosures while remaining institutionally non-transparent (e.g., only releasing information under duress/litigation). |
 | ⚠️ **Proactive vs reactive transparency** | Proactive transparency (suo motu disclosure, e.g., RTI Section 4 obligations) publishes information without being asked; reactive transparency responds only to specific citizen requests — proactive transparency reduces the burden on citizens and better serves the "openness" default. |
 
@@ -56,7 +56,10 @@ default from secrecy-unless-permitted to disclosure-unless-justified.
    citizens' willingness and capacity to use it, not the law's mere existence.
 5. ⚠️ Transparency has legitimate limits (national security, ongoing investigation, individual
    privacy, cabinet deliberation) — the ethical test is whether an exemption is genuinely necessary
-   and narrowly drawn, not a default excuse for secrecy.
+   and narrowly drawn, not a default excuse for secrecy. 📰 Since 13 November 2025 the privacy
+   exemption is broader in form: Section 8(1)(j), as substituted by the DPDP Act, 2023, exempts
+   "information which relates to personal information" without the earlier public-activity and
+   larger-public-interest qualifiers.
 
 ## 4. Indian applications and examples
 
@@ -71,13 +74,21 @@ default from secrecy-unless-permitted to disclosure-unless-justified.
 
 ## 5. Must-Know Facts for Prelims
 
-- ✅ The RTI Act was enacted in 2005; the ARC's Colloquium annexure explicitly credits it (alongside
-  the Official Secrets Act's recommended repeal) as central to India's transparency architecture.
+- ✅ The RTI Act was enacted in 2005; the ARC's 4th Report Colloquium annexure describes it as
+  path-breaking, and the ARC's **First Report** (2006, para 2.2.12) separately recommended repealing
+  the Official Secrets Act, 1923 and relocating genuine official-secrets provisions to a chapter of
+  the National Security Act.
 - ✅ ARC 1.15: the RTI Act is described as "a potent weapon to fight corruption."
 - ⚠️ RTI is enforced through a three-tier structure: Public Information Officer (PIO) at first
   instance, First Appellate Authority within the public authority, and the Central/State Information
   Commission as the final statutory appellate/enforcement body (see `Polity/advanced/36_CIC-and-SIC.md`
   for full constitutional-body detail).
+- 📰 **Current statutory change to note:** Section 44(3) of the Digital Personal Data Protection Act,
+  2023 **substituted RTI Section 8(1)(j)**, which now exempts simply "information which relates to
+  personal information"; India Code records that substitution as effective from **13 November 2025**,
+  so it is in force as at 4 August 2026. The earlier public-activity / larger-public-interest test
+  in Section 8(1)(j) is no longer the statutory text — a significant, date-stamped narrowing of the
+  disclosure default that any current RTI answer must acknowledge.
 
 ## 6. UPSC traps
 
@@ -88,9 +99,14 @@ default from secrecy-unless-permitted to disclosure-unless-justified.
   provides specified exemptions (national security, cabinet papers, ongoing investigation, personal
   privacy) — the ethical debate concerns whether exemptions are used narrowly and in good faith or as
   a default excuse.
-- ❌ The Official Secrets Act, 1923 has been repealed following the ARC's recommendation. -> Verify
-  current legislative status independently before asserting repeal; the ARC's 2007 recommendation
-  and the law's current status are two distinct facts that must not be conflated.
+- ❌ The Official Secrets Act, 1923 has been repealed following the ARC's recommendation. -> The
+  ARC's **First Report** (2006) recommended repeal and relocation into the National Security Act,
+  but on the position verified as at 4 August 2026 the OSA remains in force; RTI Section 22 gives
+  RTI overriding effect only to the extent of inconsistency.
+- ❌ RTI Section 8(1)(j) still turns on whether the information relates to a public activity or
+  whether a larger public interest justifies disclosure. -> That test was **replaced**: Section
+  44(3) of the DPDP Act, 2023 substituted Section 8(1)(j) so that it now exempts "information which
+  relates to personal information", effective 13 November 2025.
 
 ## 7. PYQ application
 
