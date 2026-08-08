@@ -11,6 +11,12 @@
 
 **P2 — Examinable depth.** The UPSC Philosophy paper does not reward recall of school-summaries; it rewards (i) precise doctrinal statement, (ii) the *argument structure* behind a doctrine, (iii) the presuppositions the doctrine needs, (iv) the standard objection, (v) the standard reply, and (vi) a defensible evaluative position. Every core file must deliver all six for its main doctrines.
 
+**P3 — Core sufficiency.** The forty syllabus-owner files must, by themselves, support a
+serious attempt at every syllabus term and every available PYQ. Nothing required for a
+10-, 15- or 20-mark answer may be displaced into `_advanced`. Advanced material is optional
+enrichment only; if its omission could affect paper attemptability, it is misclassified and
+must be promoted to Core.
+
 ---
 
 ## 2. PAPER STRUCTURE (as printed on the question papers)
@@ -101,6 +107,7 @@
 | [`_revision/`](_revision) (6 files) | Master sheets, comparison matrices, keyword bank, spaced calendar, GS/Essay integration. |
 | [`_playcards/Playcards-All-Decks.md`](_playcards/Playcards-All-Decks.md) | Active-recall prompts. |
 | [`_application/`](_application) (3 files) | Full model answers and cross-use of Philosophy in GS/Essay. |
+| [`_advanced/`](_advanced) | Optional second-order interpretation, specialist objections and extended comparisons. [`Coverage-Matrix.md`](_advanced/Coverage-Matrix.md) enforces the Core-sufficiency gate. |
 
 ---
 
@@ -243,6 +250,9 @@ Close   : one sentence of philosophical (not rhetorical) closure.
 2. **Second pass (exam build).** Owner file → traps, keyword bank, PYQ routing, answer architecture. Then the relevant `_themes` file.
 3. **Third pass (revision).** [`_revision/Master-Sheet-Paper-1.md`](_revision/Master-Sheet-Paper-1.md) / [`_revision/Master-Sheet-Paper-2.md`](_revision/Master-Sheet-Paper-2.md) + [`_revision/Comparison-Matrices.md`](_revision/Comparison-Matrices.md), then [`_playcards/Playcards-All-Decks.md`](_playcards/Playcards-All-Decks.md) for recall testing.
 4. **Answer practice.** Pick a PYQ from the year-wise banks; write cold; compare against the owner file's answer architecture and [`_application/`](_application).
+5. **Optional depth.** Only after Core can answer the PYQs, use
+   [`_advanced/Depth-Map.md`](_advanced/Depth-Map.md). Never repair a Core weakness by expecting
+   the candidate to study Advanced.
 
 ---
 

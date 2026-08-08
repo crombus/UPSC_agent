@@ -95,6 +95,7 @@ remains archived separately in [`_PROMPT-VERBATIM.md`](_PROMPT-VERBATIM.md). The
 | Socio-Political Philosophy | [`paper-2/socio-political/`](paper-2/socio-political) | Ten owner files, one per syllabus item |
 | Philosophy of Religion | [`paper-2/philosophy-of-religion/`](paper-2/philosophy-of-religion) | Ten owner files, one per syllabus item |
 | PYQ banks | [`paper-1/`](paper-1), [`paper-2/`](paper-2) | Year-wise exact questions, clause ownership and trend counts |
+| Advanced enrichment | [`_advanced/`](_advanced) | Optional interpretation, counter-objection and comparison depth; never required for basic paper coverage |
 | Revision | [`_revision/`](_revision) | Master sheets, matrices, current anchors, keywords and revision calendar |
 | Active recall | [`_playcards/`](_playcards) | Rapid doctrine, distinction, objection and comparison drills |
 | Answer application | [`_application/`](_application) | Model answers and Philosophy-to-GS/Essay transfer |
@@ -111,6 +112,14 @@ Every major doctrine must contain:
 6. **Objection and reply** - the strongest objection and the doctrine's available response.
 7. **Evaluation** - what survives criticism and what does not.
 8. **Exam conversion** - traps, keywords, PYQ routing and 10/15/20-mark architecture.
+
+### Core/Advanced firewall
+
+The forty owner files are the complete examination base. Every printed syllabus term and all
+knowledge necessary to answer the available 2018-2025 PYQs must remain there. The
+[`_advanced/`](_advanced) folder is strictly optional: it may improve interpretation,
+counter-objection and evaluation, but skipping it must not make any paper question
+unanswerable. Its [`Coverage-Matrix.md`](_advanced/Coverage-Matrix.md) is the audit ledger.
 
 ### Evidence key
 
@@ -189,6 +198,8 @@ the citation unit.
 7. **Comparison pass:** use `_themes`, comparison matrices and playcards.
 8. **Answer pass:** write exact PYQs under timed 10/15/20-mark limits and audit against the
    owner file's argument and objection structure.
+9. **Advanced pass (optional):** only after timed PYQs are answerable from Core, use
+   [`_advanced/Depth-Map.md`](_advanced/Depth-Map.md) to improve judgement and comparison.
 
 ## 8. Boundaries and cross-links
 
@@ -211,3 +222,6 @@ the citation unit.
 - Are quotations exact or clearly labelled as paraphrases?
 - Are volatile legal and institutional claims dated and sourced?
 - Does the conclusion answer the directive word rather than merely praise the thinker?
+- If the entire `_advanced` folder were unavailable, would every syllabus term and held PYQ
+  still remain fully answerable from its owner file? If not, promote the missing material to
+  Core immediately.

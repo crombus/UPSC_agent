@@ -40,7 +40,7 @@ FONT_BOLD = "Helvetica-Bold"
 FONT_ITALIC = "Helvetica-Oblique"
 FONT_BOLD_ITALIC = "Helvetica-BoldOblique"
 DOCUMENT_LABEL = "UPSC REGISTER NOTES"
-DOCUMENT_TAGLINE = "Concept • Context • Comparison • Answer Writing"
+DOCUMENT_TAGLINE = "Concept | Context | Comparison | Answer Writing"
 
 _font_sets = [
     (
@@ -240,7 +240,7 @@ def concept_map(spec):
         ("TOPPADDING", (0,0), (-1,-1), 7),
         ("BOTTOMPADDING", (0,0), (-1,-1), 7),
     ]))
-    story.extend([center_box, p("↓", S(fontSize=15, textColor=P["purple"],
+    story.extend([center_box, p("v", S(fontSize=15, textColor=P["purple"],
                                        alignment=TA_CENTER, leading=16))])
 
     cells = []
@@ -297,7 +297,7 @@ def flow_diagram(spec):
         ]))
         story.append(box)
         if i < len(steps):
-            story.append(p("↓", S(fontSize=13, textColor=P["teal"],
+            story.append(p("v", S(fontSize=13, textColor=P["teal"],
                                   alignment=TA_CENTER, leading=14)))
     return [KeepTogether(story)]
 
@@ -394,7 +394,7 @@ def venn_diagram(spec):
         cell = [p(title, S(fontName=FONT_BOLD, fontSize=8.5,
                            textColor=color, alignment=TA_CENTER, leading=11))]
         cell.extend(
-            p(f"• {item}", S(fontSize=8, leading=10.5, alignment=TA_LEFT))
+            p(f"- {item}", S(fontSize=8, leading=10.5, alignment=TA_LEFT))
             for item in items
         )
         return cell
@@ -628,21 +628,26 @@ def cover_concept_visual(title):
         if len(word.strip("—–-,:;()[]")) > 3
     ][:3] or ["PHILOSOPHY"]
 
-    drawing.add(Circle(cx, cy, 56, fillColor=P["navy"],
-                       strokeColor=P["amber"], strokeWidth=2))
-    _draw_lines(drawing, words, cx, cy + 15, 88, white,
-                font_size=10, align="middle", leading=13, bold_first=True)
-
     nodes = [
         ("CONCEPT", "What is being claimed?", 26, 174, P["purple"], P["purple_bg"]),
         ("ARGUMENT", "Why should it be accepted?", width - 176, 174, P["teal"], P["teal_bg"]),
         ("CRITIQUE", "Where does it fail?", 26, 35, P["red"], P["red_bg"]),
         ("JUDGEMENT", "What should the answer conclude?", width - 176, 35, P["amber"], P["amber_bg"]),
     ]
+    for _, _, x, y, _, _ in nodes:
+        drawing.add(Line(
+            cx, cy, x + 75, y + 29,
+            strokeColor=P["border_2"], strokeWidth=1.1,
+        ))
+
+    drawing.add(Circle(cx, cy, 56, fillColor=P["navy"],
+                       strokeColor=P["amber"], strokeWidth=2))
+    _draw_lines(drawing, words, cx, cy + 15, 88, white,
+                font_size=10, align="middle", leading=13, bold_first=True)
+
     for label, prompt, x, y, color, bg in nodes:
         box_w, box_h = 150, 58
         tx, ty = x + box_w / 2, y + box_h / 2
-        drawing.add(Line(cx, cy, tx, ty, strokeColor=P["border_2"], strokeWidth=1.1))
         drawing.add(Rect(x, y, box_w, box_h, rx=10, ry=10,
                          fillColor=bg, strokeColor=P["border_2"], strokeWidth=0.7))
         drawing.add(Rect(x, y + box_h - 7, box_w, 7, rx=10, ry=10,
@@ -719,7 +724,7 @@ def build_topic_card(topic):
             for item in topic["timeline"]:
                 yr = item.get("year", "")
                 ev = item.get("event", "")
-                right_rows.append(p(f"<b>{yr}</b> — {ev}", S(fontSize=8, leading=12)))
+                right_rows.append(p(f"<b>{yr}</b> - {ev}", S(fontSize=8, leading=12)))
             story.append(flat_two_col(left_rows, right_rows, 0.55))
         else:
             story.append(full_box([[r] for r in left_rows], P["light"], P["blue"]))
@@ -772,7 +777,7 @@ def build_topic_card(topic):
         story.append(spacer(0.12))
         rows = [[sec_label("📚", "Static Theory", P["blue"])]]
         for pt in topic["static_theory"]:
-            rows.append([p(f"• {pt}", S(fontSize=8.5, leading=13))])
+            rows.append([p(f"- {pt}", S(fontSize=8.5, leading=13))])
         story.append(full_box(rows, P["light"], P["blue"]))
 
     # ── 8. MEMORY HOOK ────────────────────────────────────────────────────────
@@ -877,7 +882,7 @@ def on_page(canvas, doc):
     canvas.line(2*cm, H - 1.02*cm, W - 2*cm, H - 1.02*cm)
     canvas.setFont(FONT_BOLD, 7.2)
     canvas.setFillColor(P["subtext"])
-    canvas.drawString(2*cm, H - 0.78*cm, f"{DOCUMENT_LABEL}  •  VISUAL REGISTER NOTES")
+    canvas.drawString(2*cm, H - 0.78*cm, f"{DOCUMENT_LABEL}  |  VISUAL REGISTER NOTES")
     canvas.setFillColor(P["navy"])
     canvas.rect(0, 0, W, 0.62*cm, fill=1, stroke=0)
     canvas.setFont(FONT_REGULAR, 7)
@@ -897,7 +902,7 @@ def build_pdf(data: dict, out_path: str):
     DOCUMENT_LABEL = data.get("document_label", "UPSC REGISTER NOTES")
     DOCUMENT_TAGLINE = data.get(
         "document_tagline",
-        "Concept • Context • Comparison • Answer Writing",
+        "Concept | Context | Comparison | Answer Writing",
     )
     doc = SimpleDocTemplate(
         out_path, pagesize=A4,
@@ -957,7 +962,7 @@ def build_pdf(data: dict, out_path: str):
 
     story.append(spacer(0.8))
     story.append(HRFlowable(width="100%", thickness=1.5, color=P["red"], spaceAfter=6))
-    story.append(p("End of Register Notes — UPSC Agent / Copilot CLI", FOOTER_S))
+    story.append(p("End of Register Notes - UPSC Agent / Copilot CLI", FOOTER_S))
 
     doc.build(story, onFirstPage=on_page, onLaterPages=on_page)
     print(f"PDF saved: {out_path}")

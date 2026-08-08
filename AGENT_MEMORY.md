@@ -5,7 +5,7 @@
 > Whenever the user says **"save"**, the agent does BOTH: (1) stores a Copilot memory, and
 > (2) appends/updates the rule here so it survives across sessions, machines, and other apps.
 >
-> _Last updated: 2026-06-22_
+> _Last updated: 2026-08-07_
 
 ---
 
@@ -26,31 +26,27 @@
   Wrong data in UPSC prep is worse than no data — this rule overrides convenience.
 - **No fabrication.** Never guess %, ₹, years, targets, counts, or scheme names.
 - **Tag everything:** ✅ Fact = directly from fetched/retrieved source · ⚠️ Inference = analytical.
-- **Source priority:** (1) user-uploaded PDFs/snippets → (2) live `web_fetch` → (3) Qdrant books →
-  (4) training knowledge (label as ⚠️ Inference).
+- **Learning-session source priority:** (1) Markdown knowledge files →
+  (2) OCR-searchable PDFs for deeper book evidence → (3) live current affairs →
+  (4) Qdrant only as an optional fallback.
 - **India-centric examples** always.
 
 ---
 
-## 2. Qdrant / book grounding
+## 2. Static grounding and Qdrant fallback
 
-- **Start Qdrant first — always**, before any teaching, CA analysis, MCQ, or exam generation.
-  ```
-  docker start qdrant-upsc
-  ```
-  Full run command if the container does not exist:
-  ```
-  docker run -d --name qdrant-upsc -p 6333:6333 ^
-    -v "C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\vectordb\static:/qdrant/storage" ^
-    qdrant/qdrant
-  ```
-  First query has ~2 min embedding warmup. Never skip this step.
-- **Query books** for context before answering teaching questions or generating exams:
+- For learning sessions, use the authored Markdown knowledge files first and the OCR-searchable
+  PDFs second for deeper source evidence.
+- Add live current affairs after establishing the static foundation.
+- Qdrant is optional and must not block a learning session. Use it only when the Markdown and OCR
+  sources are insufficient and Qdrant is available at a practical response time.
+- Optional Qdrant query:
   ```
   python tools/query_books.py "<topic>" --subject "<Subject>" --limit 5
   ```
   `--subject` is an **exact-match** filter — the string must match the stored tag precisely.
-- If the DB is unavailable/empty, fall back to training knowledge + `web_search` silently.
+- If Qdrant is unavailable, empty, or slow, continue with Markdown + OCR PDFs + live current
+  affairs without delaying the session.
 
 ### Subject tags (exact strings)
 Indian Polity · Economy · History · Geography · Ethics · International Relations ·
@@ -159,6 +155,19 @@ Internal Security · Disaster Management · Current Affairs
 - Each PDF must be visually learnable and include topic-specific mind maps, argument or causal
   flows, concept links, comparison tables, memory hooks, must-know facts, UPSC traps, PYQ routes,
   and 10/15/20-mark answer frameworks.
+- **Complete-session export rule (all subjects):** the main topic PDF must preserve the full
+  detailed learning session rather than compressing it into a short summary. Include every
+  substantive definition, derivation, distinction, example, criticism/reply, technical term,
+  advanced refinement, solved PYQ, MCQ loop and remedial practice item needed for understanding.
+  Remove only chat/tool noise and genuine repetition. Put consolidated register notes after all
+  subtopics and practice material.
+- **Separate practice-workbook rule (all subjects):** alongside the main topic PDF, create a
+  second detailed PDF containing topic-complete solved PYQs plus MCQ and remedial practice with
+  explanations. Cover every subtopic and rotate correct MCQ options A -> B -> C -> D.
+- **Reusable Markdown rule (all subjects):** retain a cleaned, complete Markdown edition of the
+  learning session and solved practice material in the repository. The Markdown must omit chat
+  turns and tool logs but preserve all substantive teaching, solutions, diagrams in text form,
+  traps, terminology, advanced refinements, and register notes needed to regenerate the PDFs.
 - Never split tables, facts/traps panels, memory hooks, diagrams, Mains-angle
   panels or Study-link panels across pages. Keep all diagram text inside
   measured nodes or bounded detail cards.
