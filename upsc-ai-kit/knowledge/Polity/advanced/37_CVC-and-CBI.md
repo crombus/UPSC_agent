@@ -94,3 +94,24 @@
 - "The CBI is a caged parrot." Examine the structural causes of its lack of autonomy and suggest reforms.
 - Withdrawal of general consent to the CBI: a symptom of eroding cooperative federalism?
 - Multiplicity of anti-corruption bodies (CVC, CBI, Lokpal, ED) — synergy or turf war?
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2021
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2021 | GS-II | 11 | CBI jurisdiction, State consent and the federal character of India | Explain · 15 marks · 250 words | Cross-cutting; the agency and the federal principle both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- CBI jurisdiction, State consent and the federal character of India
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

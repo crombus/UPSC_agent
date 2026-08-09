@@ -211,3 +211,35 @@ than an assumed fixed list.
 - ✅ `21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` — circular-economy/resource-
   efficiency linkages relevant to waste-to-value approaches.
 - ✅ `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` — CPCB's EPR administration role.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019, 2020, 2021, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Prelims GS-I | 26 | Pyrolysis and plasma gasification in waste management | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 59 | Solid Waste Management Rules 2016 India provisions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 78 | Extended producer responsibility introduction in Indian rules | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 76 | Steel slag uses in road construction and agriculture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 16 | R2 Code of Practices electronics recycling industry | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 46 | Polyethylene terephthalate properties blending recycling disposal | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Pyrolysis and plasma gasification in waste management
+- Solid Waste Management Rules 2016 India provisions
+- Extended producer responsibility introduction in Indian rules
+- Steel slag uses in road construction and agriculture
+- R2 Code of Practices electronics recycling industry
+- Polyethylene terephthalate properties blending recycling disposal
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

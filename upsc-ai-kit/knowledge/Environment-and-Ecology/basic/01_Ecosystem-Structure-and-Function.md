@@ -167,3 +167,37 @@ ecosystem health, species diversity or forest quality — do not conflate the tw
   globally.
 - ✅ `04_Biodiversity-Levels-and-Hotspots.md` — species-level consequence of ecosystem
   structure.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019, 2021, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 7
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Prelims GS-I | 28 | Marine and reptile animal dietary and reproductive characteristics | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 22 | Primary producers in ocean food chains | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 26 | Filter feeder organisms in marine ecology | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 28 | Detritivores and their role in decomposition | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 30 | Organisms capable of establishing symbiotic relationships | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 43 | Wetland ecosystem filtering and heavy metal absorption functions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 90 | Species known for cultivating fungi symbiotic relationship | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Marine and reptile animal dietary and reproductive characteristics
+- Primary producers in ocean food chains
+- Filter feeder organisms in marine ecology
+- Detritivores and their role in decomposition
+- Organisms capable of establishing symbiotic relationships
+- Wetland ecosystem filtering and heavy metal absorption functions
+- Species known for cultivating fungi symbiotic relationship
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

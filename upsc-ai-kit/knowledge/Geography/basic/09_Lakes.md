@@ -97,3 +97,33 @@ tectonically inherited basins profoundly deepened and modified by Pleistocene ic
 
 Geography → Physical Geography → Lakes (G.C. Leong; Majid Husain)  
 Geography → Lakes → Lagoons / Wetlands (applied CA)
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2021, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 13 | Aral Sea Lake Baikal shrinkage due to human activities | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 77 | Artificial lake identification among given Indian water bodies | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 42 | Common features of Aliyar Isapur and Kangsabati | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 54 | Saline lakes Rajasthan Didwana Kuchaman Sargol Khatu | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 1 | Indian rivers feeding lakes Wular Kolleru Kanwar | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Aral Sea Lake Baikal shrinkage due to human activities
+- Artificial lake identification among given Indian water bodies
+- Common features of Aliyar Isapur and Kangsabati
+- Saline lakes Rajasthan Didwana Kuchaman Sargol Khatu
+- Indian rivers feeding lakes Wular Kolleru Kanwar
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

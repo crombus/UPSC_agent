@@ -152,3 +152,26 @@ Indian needs — "the charge of a blind copy is based on inadequate study."
 - "The Indian Constitution is federal in form but unitary in spirit." Discuss.
 - Positive secularism vs the Western wall-of-separation model.
 - Is the Indian Constitution merely a "bag of borrowings"? (Ambedkar's defence).
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2019, 2021
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-II | 1 | Strict separation of powers against checks and balances | Explain · 10 marks · 150 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 1 | Doctrine of Constitutional Morality and its essential facets | Explain with the help of illustrations · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Strict separation of powers against checks and balances
+- Doctrine of Constitutional Morality and its essential facets
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

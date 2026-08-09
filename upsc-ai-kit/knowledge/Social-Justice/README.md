@@ -11,6 +11,33 @@
 
 ---
 
+## Official UPSC syllabus mapping
+
+> **Authority:** [`../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md`](../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md)
+> · subject mapping:
+> [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+>
+> **Applicable papers:** Preliminary Examination - Paper I (GS-I); Main Examination -
+> Paper III (General Studies II).
+>
+> **PYQ status:** 2018-2023 is **central-routing-only** via
+> [`../_PYQ-INDEX.md`](../_PYQ-INDEX.md). Audited 2024-2025 GS-II applications are
+> embedded where they exist (for example
+> [`basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md`](basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md),
+> [`basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md`](basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md),
+> [`basic/05_Women-and-Gender-Justice.md`](basic/05_Women-and-Gender-Justice.md) and
+> [`basic/06_Children-and-Child-Protection.md`](basic/06_Children-and-Child-Protection.md));
+> other files explicitly note when no direct 2024-2025 hit was found.
+
+| Official clause | Status | Existing owner files | Note |
+|---|---|---|---|
+| "Economic and Social Development-Sustainable Development, Poverty, Inclusion, Demographics, Social Sector Initiatives, etc." | PARTIAL | [`basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md`](basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md)<br>[`basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md`](basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md)<br>[`basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md`](basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md)<br>[`basic/04_Education-and-Human-Resource-Development.md`](basic/04_Education-and-Human-Resource-Development.md)<br>[`basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md`](basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md) | Defensible ownership is the poverty/inclusion/social-sector slice; the whole prelims line also overlaps with Economy and Indian-Society. |
+| "Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections." | COVERED | [`basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md`](basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md)<br>[`basic/05_Women-and-Gender-Justice.md`](basic/05_Women-and-Gender-Justice.md)<br>[`basic/06_Children-and-Child-Protection.md`](basic/06_Children-and-Child-Protection.md)<br>[`basic/10_Minorities-Rights-and-Welfare.md`](basic/10_Minorities-Rights-and-Welfare.md)<br>[`basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md`](basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md) | Vulnerable-sections coverage is distributed across dedicated group files plus a capstone performance file; constitutional-body composition still cross-links to `Polity/`. |
+| "Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources." | COVERED | [`basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md`](basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md)<br>[`basic/04_Education-and-Human-Resource-Development.md`](basic/04_Education-and-Human-Resource-Development.md) | Direct clause-to-file match. |
+| "Issues relating to poverty and hunger." | COVERED | [`basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md`](basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md)<br>[`advanced/02_Poverty-Hunger-Food-and-Nutrition-Security.md`](advanced/02_Poverty-Hunger-Food-and-Nutrition-Security.md) | Direct clause-to-file match. |
+
+---
+
 ## How this folder works
 
 - **Two tiers per topic:** `basic/NN` builds the must-do entitlement, law, scheme

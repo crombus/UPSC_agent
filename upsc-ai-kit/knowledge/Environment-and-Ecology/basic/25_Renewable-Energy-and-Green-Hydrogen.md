@@ -251,3 +251,35 @@ weak answers on this topic quote an allocation figure as though it were producti
   pathway for sectors less suited to hydrogen/electrification.
 - ✅ `05_IUCN-Red-List-and-Endemism.md` — the renewable-infrastructure-siting tension with
   Critically Endangered species habitat (e.g., Great Indian Bustard).
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2020, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 67 | Solar power production silicon wafers and tariff regulation India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 84 | Biofuels raw materials permitted under National Policy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 88 | Solar water pumps surface submersible centrifugal piston types | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 84 | Solar parks floating solar and airport projects Indian states | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 60 | Green hydrogen applications fuel blending and fuel cells | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 99 | Green hydrogen decarbonizing fertilizer oil refinery steel industries | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Solar power production silicon wafers and tariff regulation India
+- Biofuels raw materials permitted under National Policy
+- Solar water pumps surface submersible centrifugal piston types
+- Solar parks floating solar and airport projects Indian states
+- Green hydrogen applications fuel blending and fuel cells
+- Green hydrogen decarbonizing fertilizer oil refinery steel industries
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

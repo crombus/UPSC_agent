@@ -288,3 +288,28 @@ basing competition mean outcomes remain genuinely open rather than guaranteed.
   operational cycle to
   `Disaster-Management/basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`
   and `Disaster-Management/basic/18_Governance-Capacity-and-International-Cooperation.md`.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2020, 2021, 2023
+- **Paper(s):** GS-II
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-II | 20 | Indo-US and Indo-Russian defence deals and Indo-Pacific stability | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 20 | AUKUS in the Indo-Pacific and existing regional partnerships | Discuss the strength and impact · 15 marks · 250 words | Routed to owning topic; opening clause of the printed stem truncated in scan | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 20 | Role of the IMO in protecting environment and maritime safety | Discuss · 15 marks · 250 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Indo-US and Indo-Russian defence deals and Indo-Pacific stability
+- AUKUS in the Indo-Pacific and existing regional partnerships
+- Role of the IMO in protecting environment and maritime safety
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

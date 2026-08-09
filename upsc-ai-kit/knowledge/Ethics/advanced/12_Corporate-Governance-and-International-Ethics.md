@@ -230,3 +230,44 @@ commitments.
 - ✅ `13_Emerging-Ethics-Technology-AI-and-Environment.md` — the technology/environment case in depth.
 - ✅ `19_Corruption-Legal-Framework.md` — whistleblower-protection parallels.
 - ✅ `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md` — theory triangulation method.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 11
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-IV | 9 | Apparel company - marketing executive sexually harasses woman employee - company offers money to withdraw FIR; identify ethical issues and options available to woman employee | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 3 | (a) most relevant teachings of Buddha today and why; (b) will to power tamed by rationality and moral duty - examine in context of international relations | Discuss / Examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 8 | BML Chairman asked to expand ATGM production for export to friendly nation - (a) ethical issues for a responsible arms-exporting nation; (b) five ethical factors influencing arms sale decision | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 11 | Anil APW factory in backward Parmal district: CSR-driven development of Noora village - critically analyse ethical issues; assess APW as role model for backward area development | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 5 | (a) refugees must not be returned to face persecution - examine ethical dimensions violated by nations claiming to be democratic; (b) impartiality and non-partisanship as indispensable civil servant qualities | Examine / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 11 | food company sells inferior products domestically and dumps rejected export products in Indian market - (a) authority action; (b) company remedy to restore reputation; (c) ethical dilemma | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 5 | (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty | Illustrate (a); Short notes (b) · 10 + 10 marks · 150 words (a); 30 words each (b) | Routed to owning Ethics topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 6 | (a) policy measures to strengthen whistle-blower protection mechanism; (b) corporate social responsibility in contemporary corporate world | Suggest (a); Critically examine (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 7 | Case on a marketing VP offered rival firm's defence tender documents in exchange for employment | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2022 | GS-IV | 10 | Case on a quality inspection officer pressured to clear an export-rejected defective consignment for domestic market | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2023 | GS-IV | 1 | (a) moral integrity and professional efficiency in corporate governance; (b) ethics in contemporary international aid | Illustrate (a); Comment (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Apparel company - marketing executive sexually harasses woman employee - company offers money to withdraw FIR; identify ethical issues and options available to woman employee
+- (a) most relevant teachings of Buddha today and why; (b) will to power tamed by rationality and moral duty - examine in context of international relations
+- BML Chairman asked to expand ATGM production for export to friendly nation - (a) ethical issues for a responsible arms-exporting nation; (b) five ethical factors influencing arms sale decision
+- Anil APW factory in backward Parmal district: CSR-driven development of Noora village - critically analyse ethical issues; assess APW as role model for backward area development
+- (a) refugees must not be returned to face persecution - examine ethical dimensions violated by nations claiming to be democratic; (b) impartiality and non-partisanship as indispensable civil servant qualities
+- food company sells inferior products domestically and dumps rejected export products in Indian market - (a) authority action; (b) company remedy to restore reputation; (c) ethical dilemma
+- (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty
+- (a) policy measures to strengthen whistle-blower protection mechanism; (b) corporate social responsibility in contemporary corporate world
+- Case on a marketing VP offered rival firm's defence tender documents in exchange for employment
+- Case on a quality inspection officer pressured to clear an export-rejected defective consignment for domestic market
+- (a) moral integrity and professional efficiency in corporate governance; (b) ethics in contemporary international aid
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

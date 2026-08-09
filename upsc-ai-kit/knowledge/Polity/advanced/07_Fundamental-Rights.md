@@ -335,3 +335,32 @@ sentences. Martial law = "military rule" (undefined; from English common law); n
   of the child -> DNA testing only on strong prima facie need, not a routine roving inquiry.
 - Freedom of speech vs reasonable restrictions in the digital age.
 - Preventive detention vs personal liberty — balancing security and Art 22 safeguards.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2019, 2021, 2022, 2023
+- **Paper(s):** GS-II
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-II | 5 | What France can learn from India's approach to secularism | What can it learn · 10 marks · 150 words | Cross-cutting; constitutional guarantee and the secularism concept both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 13 | Right to Equality in the Constitutions of the USA and India | Analyze the distinguishing features · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 2 | Right of movement and residence and its limits | Comment · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 11 | Constitution as a living instrument and expanding right to life and liberty | Illustrate · 15 marks · 250 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 12 | Constitutional perspectives of gender justice with provisions and case law | Explain · 15 marks · 250 words | Cross-cutting; gender justice and constitutional guarantees both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- What France can learn from India's approach to secularism
+- Right to Equality in the Constitutions of the USA and India
+- Right of movement and residence and its limits
+- Constitution as a living instrument and expanding right to life and liberty
+- Constitutional perspectives of gender justice with provisions and case law
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

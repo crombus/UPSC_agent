@@ -143,3 +143,35 @@ alone because leasing, fragmentation, machinery services and crop choice matter.
 - ✅ `13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md` — markets for diversification.
 - ✅ `14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` — resource
   sustainability.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 3 | NSSO 70th Round Agricultural Household Survey data | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 100 | Organic farming NPOP APEDA and Sikkim first organic state | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 83 | Kharif crop cultivation area statistics in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 61 | Public investment categories in Indian agriculture sector | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 86 | Pulse production black gram green gram kharif rabi | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 57 | Least water-efficient crop among major agricultural crops | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- NSSO 70th Round Agricultural Household Survey data
+- Organic farming NPOP APEDA and Sikkim first organic state
+- Kharif crop cultivation area statistics in India
+- Public investment categories in Indian agriculture sector
+- Pulse production black gram green gram kharif rabi
+- Least water-efficient crop among major agricultural crops
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

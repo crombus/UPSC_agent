@@ -204,3 +204,32 @@ positive silence with back-end safeguards) — not through publication or digiti
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — Bhoomi, Gyandoot, CARD and E-Seva in full detail.
 - ✅ `01_Ethics-and-Human-Interface.md` — the discretion-reduction/corruption-migration principle.
 - ✅ `16_Codes-of-Ethics-and-Codes-of-Conduct.md` — the parallel precision-enables-enforceability logic.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-IV | 4 | (a) basic principles of citizens charter movement and importance; (b) Official Secrets Act as obstacle to RTI implementation | Explain/Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 12 | Pawan faces chronic workplace harassment and public humiliation by senior officer causing mental anguish and family distress - options to cope; approach for tranquillity; training suggestions | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 11 | Case on Joint Commissioner adjudicating bus driver death compensation dispute and resolving transport workers strike | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2023 | GS-IV | 9 | Case on Joint Secretary navigating work-life obligations and equitable workplace laws protecting women in service | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2023 | GS-IV | 11 | Case on ADG CPWD handling workplace harassment of a new woman architect by an insecure senior Chief Architect | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+
+### What this owner must now support
+
+- (a) basic principles of citizens charter movement and importance; (b) Official Secrets Act as obstacle to RTI implementation
+- Pawan faces chronic workplace harassment and public humiliation by senior officer causing mental anguish and family distress - options to cope; approach for tranquillity; training suggestions
+- Case on Joint Commissioner adjudicating bus driver death compensation dispute and resolving transport workers strike
+- Case on Joint Secretary navigating work-life obligations and equitable workplace laws protecting women in service
+- Case on ADG CPWD handling workplace harassment of a new woman architect by an insecure senior Chief Architect
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

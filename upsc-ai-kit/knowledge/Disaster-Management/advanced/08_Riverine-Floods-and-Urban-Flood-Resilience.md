@@ -237,3 +237,28 @@ not merely institutional-labelling, response.
   infrastructure resilience in full; topic 15 develops the climate-
   attribution question; topic 17 develops flood relief/rehabilitation
   operations.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2020, 2022, 2023
+- **Paper(s):** GS-I, GS-III
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-I | 15 | Flooding in million-plus cities and lasting remedial measures | Account for and suggest · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 8 | Mechanism and occurrence of cloudbursts in Indian subcontinent | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 7 | Dam failures causes catastrophic downstream effects and case examples | Analyze · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Flooding in million-plus cities and lasting remedial measures
+- Mechanism and occurrence of cloudbursts in Indian subcontinent
+- Dam failures causes catastrophic downstream effects and case examples
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

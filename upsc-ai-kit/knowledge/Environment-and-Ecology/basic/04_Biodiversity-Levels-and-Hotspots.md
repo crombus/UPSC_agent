@@ -180,3 +180,27 @@ number in an answer. Similarly, distinguish the *legal category* (a Biological D
   protection.
 - ✅ `22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md` — the CBD
   framework underlying the Biological Diversity Act, 2002.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 60 | Sixth mass extinction causes and human activities impact | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 13 | Invasive Species Specialist Group and parent organization | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Sixth mass extinction causes and human activities impact
+- Invasive Species Specialist Group and parent organization
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -151,3 +151,25 @@
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — emerging-tech regulation increasingly intersects with IP questions.
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — digital economy expansion raises software, data and branding questions.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — frontier R&D also depends on patenting and technology-commercialization capacity.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Prelims GS-I | 57 | Indian Patents Act and Intellectual Property Board | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Indian Patents Act and Intellectual Property Board
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

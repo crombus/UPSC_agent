@@ -173,3 +173,32 @@ willpower or treated as automatically virtuous.
 - ✅ `14_Probity-Concept-and-Philosophical-Basis-of-Governance.md` — pairing EI with integrity.
 - ✅ `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — institutional support for
   officials under stress.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-IV | 5 | (a) probity in governance - meaning and measures for ensuring probity; (b) emotional intelligence as ability to make emotions work for you | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 2 | (a) hatred destructive of wisdom and conscience - do you agree and justify; (b) main components of emotional intelligence and whether they can be learned | Agree-Justify / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 4 | (a) how to build suitable attitude needed for a public servant; (b) whether emotional intelligence helps overcome crisis of conscience without compromising ethical stand | Discuss / Critically examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 1 | (a) wisdom in administration and travesty of justice in service delivery; (b) empathy and compassion as vital attributes for civil servants | Critically evaluate (a); Explain (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 4 | (a) emotional intelligence (EQ) as key to success over cognitive abilities alone; (b) moral intuition vs moral reasoning | Discuss (a); Differentiate (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) probity in governance - meaning and measures for ensuring probity; (b) emotional intelligence as ability to make emotions work for you
+- (a) hatred destructive of wisdom and conscience - do you agree and justify; (b) main components of emotional intelligence and whether they can be learned
+- (a) how to build suitable attitude needed for a public servant; (b) whether emotional intelligence helps overcome crisis of conscience without compromising ethical stand
+- (a) wisdom in administration and travesty of justice in service delivery; (b) empathy and compassion as vital attributes for civil servants
+- (a) emotional intelligence (EQ) as key to success over cognitive abilities alone; (b) moral intuition vs moral reasoning
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

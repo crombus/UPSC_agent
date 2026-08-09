@@ -1,6 +1,8 @@
 # Science & Technology - Knowledge Base Index
 
-> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — central routing only, not topic-file integration.
+>
+> **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 > **Subject:** Science & Technology | **GS Paper:** GS-III (core), with GS-II governance/regulatory
 > links on digital, biotech, IPR and data topics, and dense Prelims weight throughout.

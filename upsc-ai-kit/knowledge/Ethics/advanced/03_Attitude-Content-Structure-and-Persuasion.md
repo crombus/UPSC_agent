@@ -171,3 +171,28 @@ constraint, while distinguishing legitimate persuasion from manipulation/propaga
 - ✅ `16_Codes-of-Ethics-and-Codes-of-Conduct.md` — the institutional-constraint counterpart to
   attitude-based reform.
 - ✅ `05_Emotional-Intelligence-in-Administration.md` — regulating the affective component under pressure.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2020, 2021, 2022
+- **Paper(s):** GS-IV
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-IV | 4 | (a) distinction between laws and rules and role of ethics in formulating them; (b) positive attitude as essential characteristic of a civil servant under stress | Distinguish-Discuss / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 4 | (a) how to build suitable attitude needed for a public servant; (b) whether emotional intelligence helps overcome crisis of conscience without compromising ethical stand | Discuss / Critically examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 2 | (a) positive vs negative mindset in interpreting rules and regulations; (b) ethics in human actions and resolution of conflicts in daily functioning | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) distinction between laws and rules and role of ethics in formulating them; (b) positive attitude as essential characteristic of a civil servant under stress
+- (a) how to build suitable attitude needed for a public servant; (b) whether emotional intelligence helps overcome crisis of conscience without compromising ethical stand
+- (a) positive vs negative mindset in interpreting rules and regulations; (b) ethics in human actions and resolution of conflicts in daily functioning
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

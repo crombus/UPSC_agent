@@ -100,3 +100,28 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ Marxist historians highlight the **class content** of peasant, worker and left mobilisation, arguing that national politics was shaped by material grievances from below. ⚠️ Subaltern approaches warn against making Congress leaders the only actors and recover local peasants, workers, tribal groups and princely-state subjects as makers of nationalism. ⚠️ A balanced UPSC answer should show that Congress both absorbed and limited radical pressures, keeping the anti-imperialist coalition broad.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2019, 2020, 2023
+- **Paper(s):** GS-I
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-I | 11 | Many voices strengthening the nationalist movement in the Gandhian phase | Elaborate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-I | 13 | Ideological strands of the national movement since the 1920s | Discuss · 15 marks · 250 words | Cross-cutting; the question spans several ideological strands | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-I | 13 | Colonial rule and the tribals and the tribal response | How did and What was · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Many voices strengthening the nationalist movement in the Gandhian phase
+- Ideological strands of the national movement since the 1920s
+- Colonial rule and the tribals and the tribal response
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

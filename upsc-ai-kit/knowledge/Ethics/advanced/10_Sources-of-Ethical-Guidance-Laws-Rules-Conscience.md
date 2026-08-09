@@ -203,3 +203,30 @@ institutional channels rather than either blind compliance or unilateral defianc
 - ✅ `19_Corruption-Legal-Framework.md` — whistleblower-protection status in detail.
 - ✅ `16_Codes-of-Ethics-and-Codes-of-Conduct.md` — the letter-vs-spirit gap this file addresses.
 - ✅ `Polity/advanced/09_Fundamental-Duties.md` — constitutional grounding for constitutional morality.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 12 | Edward Snowden released classified government surveillance documents citing moral obligation to inform public; ethically justified even if legally prohibited - weighing competing values | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 3 | (a) constitutional morality - meaning and how to uphold; (b) crisis of conscience - meaning and manifestation in public domain | Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 4 | (a) distinction between laws and rules and role of ethics in formulating them; (b) positive attitude as essential characteristic of a civil servant under stress | Distinguish-Discuss / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 5 | (a) conscience as reliable ethical guide compared to laws and rules; (b) probity essential for effective governance and development | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Edward Snowden released classified government surveillance documents citing moral obligation to inform public; ethically justified even if legally prohibited - weighing competing values
+- (a) constitutional morality - meaning and how to uphold; (b) crisis of conscience - meaning and manifestation in public domain
+- (a) distinction between laws and rules and role of ethics in formulating them; (b) positive attitude as essential characteristic of a civil servant under stress
+- (a) conscience as reliable ethical guide compared to laws and rules; (b) probity essential for effective governance and development
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

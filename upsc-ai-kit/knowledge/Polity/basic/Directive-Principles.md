@@ -70,3 +70,35 @@ democracy**). Not legally enforceable, but morally & politically binding — the
 
 ➡️ For the full case-law spine (Champakam → Golaknath → Kesavananda → Minerva Mills), named critics,
 Art 31C, directives outside Part IV, traps & Mains angles — see **advanced/Directive-Principles.md**.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2020, 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | Prelims GS-I | 5 | Separation of judiciary from executive constitutional source | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 8 | UDHR principles in Preamble DPSP and Fundamental Duties | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 9 | Legal Services Authorities free legal aid eligibility criteria | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 12 | Constitution part declaring ideal of Welfare State | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 18 | Directive Principles Part IV enforceability and legislative influence | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 91 | Constitutional provision against concentration of wealth | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Separation of judiciary from executive constitutional source
+- UDHR principles in Preamble DPSP and Fundamental Duties
+- Legal Services Authorities free legal aid eligibility criteria
+- Constitution part declaring ideal of Welfare State
+- Directive Principles Part IV enforceability and legislative influence
+- Constitutional provision against concentration of wealth
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

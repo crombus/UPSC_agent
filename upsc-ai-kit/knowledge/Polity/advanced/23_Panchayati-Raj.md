@@ -93,3 +93,28 @@ land alienation, and consultation before land acquisition/mining — the corners
   Examine (the 3 Fs).
 - Women's reservation in PRIs — has it led to genuine empowerment or "sarpanch-pati" proxy rule?
 - PESA & tribal self-governance: promise vs ground reality.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020
+- **Paper(s):** GS-II
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 15 | Panchayat system and non-grant sources for financing projects | Assess · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-II | 13 | Reservation of seats for women in local self-government and patriarchy | Comment · 15 marks · 250 words | Cross-cutting; gender justice and local government both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 13 | Local institutions from functions functionaries and funds to functionality | Highlight the challenges · 15 marks · 250 words | Cross-cutting; service delivery and the constitutional tier both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Panchayat system and non-grant sources for financing projects
+- Reservation of seats for women in local self-government and patriarchy
+- Local institutions from functions functionaries and funds to functionality
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

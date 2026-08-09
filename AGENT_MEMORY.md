@@ -125,6 +125,20 @@ Internal Security · Disaster Management · Current Affairs
   - Track completed chapters; always continue from the next pending chapter.
 - Teach **visually first** (≥1 diagram/table/flowchart per subtopic), text second.
 - One subtopic per response; never auto-advance — wait for a navigation command.
+- **Verbatim learning-session export (all subjects):** when exporting a completed interactive
+  learning session, the notes Markdown and main notes PDF must preserve the teaching **word for
+  word and in the original order**, including roadmap, pre-teach checklists, visuals, tables,
+  explanations, traps, revision notes, MCQs, remedial feedback and completion messages. Do not
+  summarize, compress, rewrite or reorganize the taught session. A separately requested workbook
+  may remain structured for practice.
+- **Universal Export PDF workflow (all subjects):** whenever the user asks to export a PDF for
+  any topic, first create the complete Guided Tutor-style learning session in the approved format,
+  even if that topic was not previously taught interactively. Then save the session Markdown and
+  render that same session verbatim to the main PDF. Never substitute a condensed topic summary.
+- Store reusable interactive-session Markdown under
+  `upsc-ai-kit/knowledge/<Subject>/learning-sessions/`. Create that dedicated folder for every
+  subject; do not mix verbatim session transcripts into `basic/`, `advanced/` or canonical topic
+  files.
 
 ### 5a. AI-kit knowledge files (output format & location — IMPORTANT)
 
@@ -159,19 +173,32 @@ Internal Security · Disaster Management · Current Affairs
   flows, concept links, comparison tables, memory hooks, must-know facts, UPSC traps, PYQ routes,
   and 10/15/20-mark answer frameworks.
 - **Complete-session export rule (all subjects):** the main topic PDF must preserve the full
-  detailed learning session rather than compressing it into a short summary. Include every
+  detailed learning session verbatim when an interactive session exists. Include every
   substantive definition, derivation, distinction, example, criticism/reply, technical term,
   advanced refinement, solved PYQ, MCQ loop and remedial practice item needed for understanding.
-  Remove only chat/tool noise and genuine repetition. End with complete consolidated register
+  Remove only tool noise; do not remove or rewrite taught repetition, feedback or navigation
+  content when the user requests a word-for-word export. End with complete consolidated register
   notes covering every subtopic in the learning session, after all teaching and practice material.
 - **Separate practice-workbook rule (all subjects):** alongside the main topic PDF, create a
   second detailed PDF containing topic-complete solved PYQs plus MCQ and remedial practice with
   explanations. Include MCQs spanning nearly every subtopic and add original Mains practice
   questions with model solutions. Rotate correct MCQ options A -> B -> C -> D.
-- **Reusable Markdown rule (all subjects):** retain a cleaned, complete Markdown edition of the
-  learning session and solved practice material in the repository. The Markdown must omit chat
-  turns and tool logs but preserve all substantive teaching, solutions, diagrams in text form,
-  traps, terminology, advanced refinements, and register notes needed to regenerate the PDFs.
+- **Exam-stage PYQ coverage rule:** for subjects or topics that overlap between UPSC Prelims
+  and Mains, the solved workbook must include all relevant verified PYQs from both stages. For
+  subjects or topics tested only in Prelims, include the relevant verified Prelims PYQs and
+  objective-answer explanations; do not force unrelated Mains PYQs into the workbook.
+- **Premium solved-workbook standard (all subjects):** every solved PYQ must include an
+  examiner-grade, highest-standard model answer appropriate to its marks and directive, followed
+  by a specific explanation of what an outstanding answer for that question and subject must
+  contain (structure, concepts, comparisons, criticisms, examples, terminology and verdict).
+  After the solved PYQs, include a substantial set of hard MCQs covering almost every part of the
+  learning session, with four plausible options, strict A -> B -> C -> D key rotation and detailed
+  explanations. End with revision-oriented Mains practice questions across relevant mark levels,
+  each solved to the same highest standard. Brief answer routes alone are not sufficient.
+- **Reusable Markdown rule (all subjects):** retain a complete Markdown edition of an interactive
+  learning session under `knowledge/<Subject>/learning-sessions/`. It must omit tool logs but keep
+  the taught wording and ordering unchanged. Canonical synthesized topic files may remain in their
+  existing syllabus folders.
 - Never split tables, facts/traps panels, memory hooks, diagrams, Mains-angle
   panels or Study-link panels across pages. Keep all diagram text inside
   measured nodes or bounded detail cards.

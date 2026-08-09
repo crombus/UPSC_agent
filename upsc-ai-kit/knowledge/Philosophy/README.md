@@ -4,6 +4,9 @@
 > **Marks:** 250 + 250 | **Time:** 3 hours per paper
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md)
 > **Last subject-wide reevaluation started:** 6 August 2026
+> **CSE scheme context:** [`../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md`](../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md)
+> states that Optional Papers VI and VII are broadly at honours-degree level. The exact
+> Philosophy clauses remain controlled by this folder's dedicated official transcription.
 
 ---
 

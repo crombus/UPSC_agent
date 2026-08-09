@@ -78,3 +78,41 @@
 - ⚠️ Analyse Jainism and Buddhism as reform movements against ritualism and social hierarchy.
 - ⚠️ Discuss why Buddhism spread more widely than Jainism, yet declined in India while Jainism survived.
 - ⚠️ Use ahimsa and the Middle Path as GS-I to GS-IV bridges in ethics answers.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 9
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 71 | Sthanakvasi sect and its religious affiliation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 74 | Maitreya as future Buddha in Buddhist tradition | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 9 | Mahayana Buddhism doctrines and characteristic features | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 22 | Buddhist sects Sthaviravadins Mahasanghika and Mahayana links | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 31 | Paramitas as perfections on Bodhisattva path in Buddhism | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 71 | Cultural terms Parivrajaka Shramana Upasaka ancient India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 55 | Jaina canonical texts identification from ancient literature | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 41 | Dhanyakataka Buddhist centre Mahasanghikas regional location | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 47 | Jainism belief souls in rocks water natural objects | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Sthanakvasi sect and its religious affiliation
+- Maitreya as future Buddha in Buddhist tradition
+- Mahayana Buddhism doctrines and characteristic features
+- Buddhist sects Sthaviravadins Mahasanghika and Mahayana links
+- Paramitas as perfections on Bodhisattva path in Buddhism
+- Cultural terms Parivrajaka Shramana Upasaka ancient India
+- Jaina canonical texts identification from ancient literature
+- Dhanyakataka Buddhist centre Mahasanghikas regional location
+- Jainism belief souls in rocks water natural objects
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

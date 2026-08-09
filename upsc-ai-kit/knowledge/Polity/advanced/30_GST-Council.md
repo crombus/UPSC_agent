@@ -84,3 +84,24 @@ with bands)**; special disaster rates; special provisions for **NE & hill/specia
 - "The GST Council is a laboratory of cooperative federalism." Examine, using the voting design and Mohit Minerals.
 - Should petroleum products be brought under GST? Analyse the fiscal-federal trade-offs.
 - GST 2.0 rate rationalisation: simplification vs revenue autonomy of states.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2023
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2023 | GS-II | 15 | 101st Constitutional Amendment Act and accommodative federalism | Explain the significance · 15 marks · 250 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- 101st Constitutional Amendment Act and accommodative federalism
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

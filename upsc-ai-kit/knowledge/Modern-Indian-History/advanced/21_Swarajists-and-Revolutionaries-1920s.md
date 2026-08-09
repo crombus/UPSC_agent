@@ -92,3 +92,24 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ Historiography has moved beyond treating revolutionaries as romantic terrorists. Bipin Chandra stresses their anti-imperialist patriotism and ideological growth, while later scholarship highlights Bhagat Singh's rationalism, socialism and use of the courtroom as political theatre. Subaltern and regional studies of Chittagong also show that revolutionary activity included women, students and local networks, not only famous male martyrs.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2020
+- **Paper(s):** GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-I | 13 | Ideological strands of the national movement since the 1920s | Discuss · 15 marks · 250 words | Cross-cutting; the question spans several ideological strands | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Ideological strands of the national movement since the 1920s
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

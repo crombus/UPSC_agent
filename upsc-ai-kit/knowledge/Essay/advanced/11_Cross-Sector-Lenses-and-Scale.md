@@ -158,3 +158,40 @@ second's condition.
 chain as a model, and check whether your own chain passes the
 counterfactual test in Section 8; log any artificial links in `16`'s
 error log.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Essay
+- **Routed question demands:** 9
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Essay | 1 | Alternative technologies for a climate change resilient India | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2018 | Essay | 3 | Poverty anywhere is a threat to prosperity everywhere | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 5 | South Asian societies woven around plural cultures and identities | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 8 | Rise of Artificial Intelligence, jobless future or reskilling opportunity | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 7 | Patriarchy as the least noticed structure of social inequality | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 8 | Technology as the silent factor in international relations | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 5 | The hand that rocks the cradle rules the world | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 1 | Forests as the best case studies for economic excellence | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 5 | Girls weighed down by restrictions and boys by demands | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+
+### What this owner must now support
+
+- Alternative technologies for a climate change resilient India
+- Poverty anywhere is a threat to prosperity everywhere
+- South Asian societies woven around plural cultures and identities
+- Rise of Artificial Intelligence, jobless future or reskilling opportunity
+- Patriarchy as the least noticed structure of social inequality
+- Technology as the silent factor in international relations
+- The hand that rocks the cradle rules the world
+- Forests as the best case studies for economic excellence
+- Girls weighed down by restrictions and boys by demands
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

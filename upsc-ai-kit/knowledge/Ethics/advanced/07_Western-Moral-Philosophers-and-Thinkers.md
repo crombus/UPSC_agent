@@ -203,3 +203,30 @@ isolation.
   in Indian codes.
 - ✅ `Philosophy/paper-1/western/Kant.md` and `Philosophy/paper-1/western/Plato-Aristotle.md` —
   full philosophical depth.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2021
+- **Paper(s):** GS-IV
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 6 | (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good | Reflect · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 6 | (a) Socrates on unexamined life; (b) M.K. Gandhi on thoughts shaping character; (c) A.P.J. Abdul Kalam on righteousness in heart and harmony in home nation and world | Reflect · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 6 | three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others; (c) Socrates on morality and emotional values | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 3 | three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good
+- (a) Socrates on unexamined life; (b) M.K. Gandhi on thoughts shaping character; (c) A.P.J. Abdul Kalam on righteousness in heart and harmony in home nation and world
+- three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others; (c) Socrates on morality and emotional values
+- three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -133,3 +133,26 @@ unexplained and indefinite gubernatorial inaction remains open to limited judici
   Article II personal executive power -> Indian court-martial/death-sentence scope vs US
   federal-offence/impeachment limits -> mala fides/arbitrariness review -> pre-emptive
   pardon covers completed conduct before charge/conviction, not future offences.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2022
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2022 | GS-II | 4 | Role of the Vice-President as Chairman of the Rajya Sabha | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 14 | Election procedures for the Presidents of India and France | Critically examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Role of the Vice-President as Chairman of the Rajya Sabha
+- Election procedures for the Presidents of India and France
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

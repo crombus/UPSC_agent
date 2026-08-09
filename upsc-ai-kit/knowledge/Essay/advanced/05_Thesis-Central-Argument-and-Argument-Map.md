@@ -184,3 +184,58 @@ finds a world and creates one also") on a separate occasion, and compare
 whether your qualifications in both attempts were genuinely load-bearing
 (Section 8's counterfactual test) or decorative; log any drift in `16`'s
 error log.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Essay
+- **Routed question demands:** 18
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Essay | 7 | A people that values its privileges above its principles loses both | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2018 | Essay | 8 | Reality does not conform to the ideal but confirms it | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 3 | Best for an individual is not necessarily best for the society | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 4 | Courage to accept and dedication to improve as two keys to success | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 3 | Ships sink because of the water that gets into them | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 4 | Simplicity is the ultimate sophistication | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 6 | Social justice and economic prosperity as mutually dependent | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 6 | What is research but a blind date with knowledge | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 8 | There are better practices to best practices | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 1 | Forests as the best case studies for economic excellence | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 4 | A ship in harbour is safe but that is not what a ship is for | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 5 | The time to repair the roof is when the sun is shining | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 7 | A smile as the chosen vehicle for all ambiguities | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 8 | Having a choice does not mean any of them has to be right | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 2 | Visionary decision-making at the intersection of intuition and logic | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 4 | Inspiration for creativity from looking for the magical in the mundane | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 7 | A society that has more justice needs less charity | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 8 | Education as what remains after one forgets what was learned | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+
+### What this owner must now support
+
+- A people that values its privileges above its principles loses both
+- Reality does not conform to the ideal but confirms it
+- Best for an individual is not necessarily best for the society
+- Courage to accept and dedication to improve as two keys to success
+- Ships sink because of the water that gets into them
+- Simplicity is the ultimate sophistication
+- Social justice and economic prosperity as mutually dependent
+- What is research but a blind date with knowledge
+- There are better practices to best practices
+- Forests as the best case studies for economic excellence
+- A ship in harbour is safe but that is not what a ship is for
+- The time to repair the roof is when the sun is shining
+- A smile as the chosen vehicle for all ambiguities
+- Having a choice does not mean any of them has to be right
+- Visionary decision-making at the intersection of intuition and logic
+- Inspiration for creativity from looking for the magical in the mundane
+- A society that has more justice needs less charity
+- Education as what remains after one forgets what was learned
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

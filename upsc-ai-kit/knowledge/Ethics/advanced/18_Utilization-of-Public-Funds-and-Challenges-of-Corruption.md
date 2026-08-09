@@ -205,3 +205,34 @@ redesign, not enforcement intensification alone.
 - ✅ `19_Corruption-Legal-Framework.md` — PC Act's current gratification-based definition and its gaps.
 - ✅ `01_Ethics-and-Human-Interface.md` — the structural, discretion-based corruption diagnosis.
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — systemic-reform case examples (Bhoomi, Gyandoot).
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 8 | Senior Ministry officer with access to policy decisions - minister requests road realignment near his farm and offers land in wife's name; conflicts of interest and responsibilities as public servant | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 2 | (a) reasons for under-utilization and mis-utilization of public funds and implications; (b) non-performance of duty as a form of corruption | Examine/Justify · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 7 | Finance Ministry official Rajesh Kumar: re-appropriation of NHS welfare funds to SEZ and gas plant - (a) ethical issues; (b) options available including whether resignation is worthy | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 9 | Case on a journalist exposing stone-mining mafia-official-politician nexus who faces report suppression by the media owner | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2023 | GS-IV | 2 | (a) corruption as failure of core values and measures to uplift society; (b) coercion vs undue influence in work environment | Discuss (a); Differentiate (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 7 | Case on bank executive whose colleague's father's surgery was funded by manager from a dormant account without authorisation | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+
+### What this owner must now support
+
+- Senior Ministry officer with access to policy decisions - minister requests road realignment near his farm and offers land in wife's name; conflicts of interest and responsibilities as public servant
+- (a) reasons for under-utilization and mis-utilization of public funds and implications; (b) non-performance of duty as a form of corruption
+- Finance Ministry official Rajesh Kumar: re-appropriation of NHS welfare funds to SEZ and gas plant - (a) ethical issues; (b) options available including whether resignation is worthy
+- Case on a journalist exposing stone-mining mafia-official-politician nexus who faces report suppression by the media owner
+- (a) corruption as failure of core values and measures to uplift society; (b) coercion vs undue influence in work environment
+- Case on bank executive whose colleague's father's surgery was funded by manager from a dormant account without authorisation
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

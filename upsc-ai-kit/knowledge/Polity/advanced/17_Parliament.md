@@ -160,3 +160,36 @@ committees, chaired by minister).
   marginalised parliamentary supremacy. Use questions, motions, financial control,
   committees and bicameral scrutiny from this file as the institutional counterweights;
   the complete answer route is in `11_Parliamentary-System.md`.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2023
+- **Paper(s):** GS-II
+- **Routed question demands:** 7
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 4 | Usefulness of parliamentary committees and the Estimates Committee | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-II | 15 | Decline of the individual parliamentarian as law maker and debate quality | Discuss · 15 marks · 250 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 5 | Once a Speaker always a Speaker and objectivity of the office | Do you think and what implications · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 14 | Transformation of the Rajya Sabha into a supporting organ | Highlight the factors and areas · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 4 | Parliament's ability to ensure accountability of the executive | To what extent · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 15 | Department-related Parliamentary Standing Committees and control | Evaluate the working · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 16 | Parliamentary Committee system and the financial committees | Explain the structure · 15 marks · 250 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Usefulness of parliamentary committees and the Estimates Committee
+- Decline of the individual parliamentarian as law maker and debate quality
+- Once a Speaker always a Speaker and objectivity of the office
+- Transformation of the Rajya Sabha into a supporting organ
+- Parliament's ability to ensure accountability of the executive
+- Department-related Parliamentary Standing Committees and control
+- Parliamentary Committee system and the financial committees
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

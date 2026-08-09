@@ -84,3 +84,25 @@
 - ⚠️ Muhammad bin Tughlaq shows the difference between **administrative imagination** and **state capacity**.
 - ⚠️ Firuz Shah's reign can be assessed as a welfare-oriented but politically decentralising phase.
 - ⚠️ The Tughlaqs reveal the core Sultanate dilemma: expansion beyond administrative reach produced regional breakaways.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2021 | Prelims GS-I | 38 | Medieval rulers matched with contemporary historical events | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Medieval rulers matched with contemporary historical events
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

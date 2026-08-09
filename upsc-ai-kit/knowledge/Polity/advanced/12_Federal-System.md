@@ -94,3 +94,28 @@ bills** (read with the 20 Nov 2025 Article 143 opinion), **NEET/education (Concu
 - "Indian federalism is a case sui generis." Discuss with recent Centre-state frictions.
 - Cooperative vs competitive vs coercive federalism — which best describes India today?
 - Do the 14 unitary features make India a "unitary state with federal features"? Evaluate post-Bommai.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2020, 2021, 2022
+- **Paper(s):** GS-II
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-II | 3 | Cooperation competition and confrontation shaping Indian federation | How far do you think · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 11 | CBI jurisdiction, State consent and the federal character of India | Explain · 15 marks · 250 words | Cross-cutting; the agency and the federal principle both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 13 | National parties favouring centralisation and regional parties State autonomy | Comment · 15 marks · 250 words | Cross-cutting; party system and federal balance both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Cooperation competition and confrontation shaping Indian federation
+- CBI jurisdiction, State consent and the federal character of India
+- National parties favouring centralisation and regional parties State autonomy
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -1,6 +1,8 @@
 # Disaster Management - Knowledge Base Index
 
-> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — central routing only, not topic-file integration.
+>
+> **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 > **Subject:** Disaster Management | **GS Paper:** GS-III (disaster and
 > disaster management — includes both natural and man-made disasters,

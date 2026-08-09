@@ -112,3 +112,26 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ UPSC can frame the colonial economy through historiography: **nationalists** such as Naoroji and Dutt emphasised drain and poverty; **Marxist** historians stressed colonialism's dependent integration of India into world capitalism; **Cambridge/revisionist** approaches questioned uniform nationalist narratives and highlighted intermediaries and regional variation. The safest answer is balanced: the exact quantum of drain may be debated, but the structural direction of surplus transfer, deindustrialisation and dependent development is central to understanding colonial underdevelopment.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2022
+- **Paper(s):** GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-I | 13 | Indentured labour export and diaspora cultural identity | Why and Have they · 15 marks · 250 words | Cross-cutting; colonial labour and migration both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-I | 3 | Spurt in famines in colonial India since the mid-eighteenth century | Why and Give reasons · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Indentured labour export and diaspora cultural identity
+- Spurt in famines in colonial India since the mid-eighteenth century
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

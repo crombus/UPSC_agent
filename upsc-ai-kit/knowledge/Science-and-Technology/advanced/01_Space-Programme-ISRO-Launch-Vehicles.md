@@ -160,3 +160,25 @@ SLV/ASLV (technology learning)
 - ✅ `06_Defence-RandD-DRDO-and-Missile-Systems.md` - dual-use and strategic-technology parallels.
 - ✅ Geography cross-link: `../Geography/basic/33_Transport-Trade-and-Indian-Space-Programme.md`.
 
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2022, 2023
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2022 | GS-III | 15 | James Webb Space Telescope features goals and human benefits | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 16 | Chandrayaan-3 mission tasks subsystems and Virtual Launch Control Centre | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- James Webb Space Telescope features goals and human benefits
+- Chandrayaan-3 mission tasks subsystems and Virtual Launch Control Centre
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

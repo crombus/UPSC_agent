@@ -148,3 +148,41 @@ oil dependence, export concentration or private foreign-currency risk.
   dependence.
 - ✅ `21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md` — external financing
   institutions.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 9
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Prelims GS-I | 63 | India external debt composition and currency denomination | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 65 | Factors that reduce currency crisis risk in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 49 | Policies for India immunity from global financial crisis | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 51 | Foreign Direct Investment major defining characteristics India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 7 | Foreign Direct Investment eligible instruments classification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 8 | Currency devaluation effects on exports and trade | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 2 | Nominal and Real Effective Exchange Rate concepts | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 61 | US Federal Reserve tightening capital flight and ECBs | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 86 | Switzerland gold exports and global gold reserves ranking | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- India external debt composition and currency denomination
+- Factors that reduce currency crisis risk in India
+- Policies for India immunity from global financial crisis
+- Foreign Direct Investment major defining characteristics India
+- Foreign Direct Investment eligible instruments classification
+- Currency devaluation effects on exports and trade
+- Nominal and Real Effective Exchange Rate concepts
+- US Federal Reserve tightening capital flight and ECBs
+- Switzerland gold exports and global gold reserves ranking
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -183,3 +183,26 @@ indefinite inaction remains open to limited judicial review.
   Commission/NDC discretionary transfers -> Finance Commission/NITI/GST era -> 14th-16th
   FC devolution, cesses and conditional transfers -> gains in rules-based sharing but
   continuing vertical imbalance.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2019, 2020
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-II | 4 | Principle of Federal Supremacy and Harmonious Construction | Explain · 10 marks · 150 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 11 | Centralising tendencies and emergency legislation and the Farm Acts | Elucidate · 15 marks · 250 words | Cross-cutting; federal balance and disaster law both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Principle of Federal Supremacy and Harmonious Construction
+- Centralising tendencies and emergency legislation and the Farm Acts
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

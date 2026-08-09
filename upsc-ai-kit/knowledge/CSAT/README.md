@@ -108,6 +108,22 @@ contains six such items (Q72-Q77), while the 2024/2025 papers do not form a comp
   three-year family and the largest family in each audited year, including the provisional 2026
   classification.
 
+## 3A. Official UPSC syllabus mapping
+
+Full local map: [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+
+| Official line / note | Status | Primary owners | PYQ integration note |
+|---|---|---|---|
+| `Comprehension.` | **COVERED** | [`00_Master-Framework.md`](00_Master-Framework.md), [`basic/01_Reading-Comprehension.md`](basic/01_Reading-Comprehension.md), [`advanced/01_Reading-Comprehension.md`](advanced/01_Reading-Comprehension.md) | Reading Comprehension is the largest audited family (79/240 Set-A items); use the trend table and the non-verbatim ledger together. |
+| `Interpersonal skills including communication skills.` | **PARTIAL** | [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md), [`advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md`](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Explicit standalone routing is strongest in the **provisional 2026** block (Q72-Q77); 2024/2025 do not show an equivalent clean block. |
+| `Logical reasoning and analytical ability.` | **COVERED** | [`basic/05_Algebra-Inequalities-and-Data-Sufficiency.md`](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md`](advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md), [`advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md`](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) | The ledger and the six-topic audit route reasoning families through Topics 05-06. |
+| `Decision making and problem solving.` | **COVERED** | [`00_Master-Framework.md`](00_Master-Framework.md), [`basic/05_Algebra-Inequalities-and-Data-Sufficiency.md`](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Data sufficiency, scenario decisions and DI interpretation are already practiced via the audited 2024-2026 Set-A families. |
+| `General mental ability.` | **PARTIAL** | [`basic/02_Number-Systems-and-Number-Sense.md`](basic/02_Number-Systems-and-Number-Sense.md), [`basic/04_Rates-Motion-Time-and-Geometry.md`](basic/04_Rates-Motion-Time-and-Geometry.md), [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Covered as a distributed umbrella across numeracy and reasoning; no standalone owner file exists. |
+| `Basic numeracy ... Data interpretation ...` | **COVERED** | [`basic/02_...`](basic/02_Number-Systems-and-Number-Sense.md), [`basic/03_...`](basic/03_Arithmetic-and-Commercial-Math.md), [`basic/04_...`](basic/04_Rates-Motion-Time-and-Geometry.md), [`basic/05_...`](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`basic/06_...`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) plus paired advanced files | Numeracy, DS and DI are split cleanly across Topics 02-06 and reconciled through the 240-question audit. |
+| `Note 1 ... qualifying ... 33%.` | **PARTIAL** | [`00_Master-Framework.md`](00_Master-Framework.md), [`00_Readiness-Tracker.md`](00_Readiness-Tracker.md) | Caveat preserved: 33% belongs to the **notification**, not to the audited paper PDFs; all safe-score arithmetic is explicitly derived under that verification warning. |
+| `Note 2 ... multiple choice, objective type.` | **COVERED** | [`00_Master-Framework.md`](00_Master-Framework.md) | The instruction-page audit already captures 80 objective items, four responses, one-response marking and penalty logic. |
+| `Note 3 ... mandatory ... both the Papers ... disqualified ...` | **PARTIAL** | [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAPPING.md) | Administrative exam-scheme rule noted here for completeness; no separate PYQ-training file depends on it. |
+
 ## 4. How Foundation vs Advanced Drill works
 
 - **`basic/NN` = Foundation.** Builds the concept: visual, definitions/formulas with conditions,

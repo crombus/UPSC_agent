@@ -167,3 +167,88 @@ under 15 minutes total.
 **Transfer task:** Re-run the same three prompts a week later without
 looking at your first attempt; compare whether your mechanism/exception
 identification is consistent, and log any drift in `16`'s error log.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Essay
+- **Routed question demands:** 33
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Essay | 2 | A good life is one inspired by love and guided by knowledge | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2018 | Essay | 3 | Poverty anywhere is a threat to prosperity everywhere | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2018 | Essay | 5 | Customary morality cannot be a guide to modern life | Essay · 125 marks · 1000-1200 words | Method routing only; section header OCR-read as SECTION-E in this scan | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2018 | Essay | 6 | The past as a permanent dimension of human consciousness and values | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2018 | Essay | 7 | A people that values its privileges above its principles loses both | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2018 | Essay | 8 | Reality does not conform to the ideal but confirms it | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 1 | Wisdom finds truth | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 2 | Values are not what humanity is but what humanity ought to be | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 4 | Courage to accept and dedication to improve as two keys to success | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 1 | Life is a long journey between human being and being humane | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 2 | Mindful manifesto as the catalyst to a tranquil self | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 3 | Ships sink because of the water that gets into them | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 4 | Simplicity is the ultimate sophistication | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 5 | Culture is what we are, civilization is what we have | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 1 | The process of self-discovery as technologically outsourced | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 2 | Perception of me as a reflection of you and reaction as awareness | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 3 | Philosophy of wantlessness as Utopian and materialism as chimera | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 4 | The real is rational and the rational is real | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 5 | The hand that rocks the cradle rules the world | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 6 | What is research but a blind date with knowledge | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 7 | History repeats itself first as tragedy then as farce | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 2 | Poets as the unacknowledged legislators of the world | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 3 | History as victories of the scientific man over the romantic man | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 4 | A ship in harbour is safe but that is not what a ship is for | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 5 | The time to repair the roof is when the sun is shining | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 6 | You cannot step twice in the same river | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 7 | A smile as the chosen vehicle for all ambiguities | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 1 | Thinking as a game that needs an opposite team | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 2 | Visionary decision-making at the intersection of intuition and logic | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 3 | Not all who wander are lost | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 4 | Inspiration for creativity from looking for the magical in the mundane | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 6 | Mathematics is the music of reason | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 8 | Education as what remains after one forgets what was learned | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+
+### What this owner must now support
+
+- A good life is one inspired by love and guided by knowledge
+- Poverty anywhere is a threat to prosperity everywhere
+- Customary morality cannot be a guide to modern life
+- The past as a permanent dimension of human consciousness and values
+- A people that values its privileges above its principles loses both
+- Reality does not conform to the ideal but confirms it
+- Wisdom finds truth
+- Values are not what humanity is but what humanity ought to be
+- Courage to accept and dedication to improve as two keys to success
+- Life is a long journey between human being and being humane
+- Mindful manifesto as the catalyst to a tranquil self
+- Ships sink because of the water that gets into them
+- Simplicity is the ultimate sophistication
+- Culture is what we are, civilization is what we have
+- The process of self-discovery as technologically outsourced
+- Perception of me as a reflection of you and reaction as awareness
+- Philosophy of wantlessness as Utopian and materialism as chimera
+- The real is rational and the rational is real
+- The hand that rocks the cradle rules the world
+- What is research but a blind date with knowledge
+- History repeats itself first as tragedy then as farce
+- Poets as the unacknowledged legislators of the world
+- History as victories of the scientific man over the romantic man
+- A ship in harbour is safe but that is not what a ship is for
+- The time to repair the roof is when the sun is shining
+- You cannot step twice in the same river
+- A smile as the chosen vehicle for all ambiguities
+- Thinking as a game that needs an opposite team
+- Visionary decision-making at the intersection of intuition and logic
+- Not all who wander are lost
+- Inspiration for creativity from looking for the magical in the mundane
+- Mathematics is the music of reason
+- Education as what remains after one forgets what was learned
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -1,5 +1,8 @@
 # Indian Art & Culture - Knowledge Base Index
 
+> **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 
 > **Subject:** Indian Art & Culture | **GS Paper:** GS-I (Indian culture will

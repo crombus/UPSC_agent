@@ -152,3 +152,25 @@ electrons move through external circuit during discharge to power the motor
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — useful where charging, fleet management and digital platforms intersect.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — autonomous and smart-mobility layers overlap with EV deployment.
 - ✅ `../../Environment-and-Ecology/basic/25_Renewable-Energy-and-Green-Hydrogen.md` — generation and hydrogen-production side; this topic stays focused on mobility technology and policy.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Prelims GS-I | 43 | Hydrogen-enriched CNG fuel advantages for public transport | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Hydrogen-enriched CNG fuel advantages for public transport
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

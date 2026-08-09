@@ -163,3 +163,24 @@ Same breach, different questions:
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — digital-state architecture context.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — privacy and AI-governance overlap.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — future cyber-risk implications.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 19 | Personal data protection report strengths and weaknesses in cyberspace | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Personal data protection report strengths and weaknesses in cyberspace
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

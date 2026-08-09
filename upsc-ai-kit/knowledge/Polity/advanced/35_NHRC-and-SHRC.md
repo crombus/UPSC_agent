@@ -82,3 +82,26 @@ govt with the **HC Chief Justice's concurrence**) for speedy trial.
 - "The NHRC is a recommendatory watchdog without teeth." Examine, referencing the GANHRI downgrade concerns.
 - Reforms needed to align the NHRC with the **Paris Principles** (independence, pluralism, transparency).
 - Should the 1-year limitation on NHRC inquiries be removed?
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2021
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 16 | Multiplicity of commissions for vulnerable sections and an umbrella body | Argue your case · 15 marks · 250 words | Cross-cutting; the question compares two commission families | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 12 | Structural and practical limitations of Human Rights Commissions | Analyzing and suggest remedial measures · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Multiplicity of commissions for vulnerable sections and an umbrella body
+- Structural and practical limitations of Human Rights Commissions
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

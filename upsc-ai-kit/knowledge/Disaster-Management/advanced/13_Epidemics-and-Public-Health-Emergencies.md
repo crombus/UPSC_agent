@@ -237,3 +237,24 @@ been completed.
   the comparative industrial/CBRN institutional design; topic 17
   develops health-system continuity during response/recovery; topic 18
   develops WHO/international health-emergency cooperation.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2020
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-III | 15 | Technology in COVID-19 pandemic management and advancements | Give an account of · 15 marks · 250 words | Routed to owning topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Technology in COVID-19 pandemic management and advancements
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

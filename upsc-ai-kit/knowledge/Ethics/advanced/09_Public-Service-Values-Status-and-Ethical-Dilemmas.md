@@ -191,3 +191,52 @@ defensibility.
 - ✅ `16_Codes-of-Ethics-and-Codes-of-Conduct.md` — full statutory/institutional detail.
 - ✅ `11_Accountability-and-Ethical-Governance.md` — accountability principle in institutional depth.
 - ✅ `22_Case-Study-Method-and-Answer-Architecture.md` — nested-dilemma decomposition in practice.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 15
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 2 | (a) meaning of public interest and principles for civil servants; (b) RTI redefining the concept of accountability | Explain/Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 3 | (a) conflict of interest - actual vs potential with examples; (b) Warren Buffett quote on integrity intelligence and energy for hiring | Illustrate/Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 5 | (a) government dam construction in forest valley inhabited by ethnic communities - rational policy for unforeseen contingencies; (b) process of resolving ethical dilemmas in public administration | Suggest/Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 7 | Rakesh (district officer) - elderly couple applies for senior citizen healthcare scheme; surgeon willing to operate free but couple cannot afford incidental costs; how should he respond | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 9 | SP appointed in prohibition state notorious for illicit liquor distillation causing deaths; what new approach to bring problem under control | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 1 | (a) basic principles of public life with examples; (b) meaning of public servant and expected role | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 11 | Woman SP appointed in frontier narcotics district - money laundering poppy farming arms smuggling education collapse; identify dimensions and suggest measures to restore normalcy | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 9 | DC of tribal Rampura district: minor girls trafficked to cotton farms as child labour by contractors; identify ethical issues; steps to ameliorate conditions and economic scenario | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 12 | migrant workers during COVID lockdown: ethical issues in crisis; meaning of ethical care and ethical giving; civil society role in mitigating migrant suffering | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 2 | (a) digital technology as reliable input for rational decision making - critically evaluate; (b) innovativeness and creativity in resolving ethical dilemmas | Critically evaluate / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 8 | Vice Principal faces management pressure to suppress exam cheating involving students of influential local politician and businessman - (a) ethical issues; (b) options and best course | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 10 | COVID-19 hospital administrator: criteria and justification for deploying clinical and non-clinical staff in infectious crisis; whether justification differs for a private hospital | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 1 | (a) wisdom in administration and travesty of justice in service delivery; (b) empathy and compassion as vital attributes for civil servants | Critically evaluate (a); Explain (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 2 | (a) corruption as failure of core values and measures to uplift society; (b) coercion vs undue influence in work environment | Discuss (a); Differentiate (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 8 | Case on District Magistrate (AIIMS physician) facing blood-transfusion dilemma during a landslide relief operation | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+
+### What this owner must now support
+
+- (a) meaning of public interest and principles for civil servants; (b) RTI redefining the concept of accountability
+- (a) conflict of interest - actual vs potential with examples; (b) Warren Buffett quote on integrity intelligence and energy for hiring
+- (a) government dam construction in forest valley inhabited by ethnic communities - rational policy for unforeseen contingencies; (b) process of resolving ethical dilemmas in public administration
+- Rakesh (district officer) - elderly couple applies for senior citizen healthcare scheme; surgeon willing to operate free but couple cannot afford incidental costs; how should he respond
+- SP appointed in prohibition state notorious for illicit liquor distillation causing deaths; what new approach to bring problem under control
+- (a) basic principles of public life with examples; (b) meaning of public servant and expected role
+- Woman SP appointed in frontier narcotics district - money laundering poppy farming arms smuggling education collapse; identify dimensions and suggest measures to restore normalcy
+- DC of tribal Rampura district: minor girls trafficked to cotton farms as child labour by contractors; identify ethical issues; steps to ameliorate conditions and economic scenario
+- migrant workers during COVID lockdown: ethical issues in crisis; meaning of ethical care and ethical giving; civil society role in mitigating migrant suffering
+- (a) digital technology as reliable input for rational decision making - critically evaluate; (b) innovativeness and creativity in resolving ethical dilemmas
+- Vice Principal faces management pressure to suppress exam cheating involving students of influential local politician and businessman - (a) ethical issues; (b) options and best course
+- COVID-19 hospital administrator: criteria and justification for deploying clinical and non-clinical staff in infectious crisis; whether justification differs for a private hospital
+- (a) wisdom in administration and travesty of justice in service delivery; (b) empathy and compassion as vital attributes for civil servants
+- (a) corruption as failure of core values and measures to uplift society; (b) coercion vs undue influence in work environment
+- Case on District Magistrate (AIIMS physician) facing blood-transfusion dilemma during a landslide relief operation
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

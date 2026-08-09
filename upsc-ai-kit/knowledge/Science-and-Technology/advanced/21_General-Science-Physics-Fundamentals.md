@@ -150,3 +150,26 @@ networks. Use as the physics-to-AI bridge and cross-link topic 09.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — frontier-physics mission context.
 - ✅ `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — full ecosystem application.
 - ✅ `22_General-Science-Chemistry-Fundamentals.md` — materials and solid-state chemistry overlap.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2021
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 5 | Bose-Einstein Statistics contribution to revolution in Physics | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-III | 16 | Blue LED invention Nobel 2014 impact on everyday life | How has · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Bose-Einstein Statistics contribution to revolution in Physics
+- Blue LED invention Nobel 2014 impact on everyday life
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

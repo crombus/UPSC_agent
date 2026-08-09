@@ -95,3 +95,35 @@
 - ⚠️ GS-1: Analyse the Orientalist–Anglicist controversy and its consequences for Indian education.
 - ⚠️ GS-1: Evaluate colonial social legislation as an interaction between Indian reformers and the colonial state.
 - ⚠️ GS-1: Link vernacular press repression to the growth of political consciousness.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2020, 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 19 | Wood's Dispatch provisions on education in colonial India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 76 | Introduction of English education in colonial India factors | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 89 | Colonial educational institutions founders matching pairs India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 34 | Fort William College Calcutta Wellesley establishment purpose | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 36 | Madanapalle historical significance modern Indian history | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 44 | Songs from Prison ancient religious lyrics translation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Wood's Dispatch provisions on education in colonial India
+- Introduction of English education in colonial India factors
+- Colonial educational institutions founders matching pairs India
+- Fort William College Calcutta Wellesley establishment purpose
+- Madanapalle historical significance modern Indian history
+- Songs from Prison ancient religious lyrics translation
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

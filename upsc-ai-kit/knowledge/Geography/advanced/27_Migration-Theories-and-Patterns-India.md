@@ -126,3 +126,24 @@ and use `26_World-Population-and-Demographic-Transition.md` for the schedule.
 
 Geography → Human Geography → Migration in India  
 Geography → Human Geography → Interstate Migration + Rural-Urban Mobility
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018
+- **Paper(s):** GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-I | 13 | Indentured labour export and diaspora cultural identity | Why and Have they · 15 marks · 250 words | Cross-cutting; colonial labour and migration both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Indentured labour export and diaspora cultural identity
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

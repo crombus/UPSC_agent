@@ -125,3 +125,35 @@ There is evidence of twentieth-century weakening, but the timing and magnitude o
 
 Geography → Physical → Oceanography (GC Leong: Currents/Tides; Majid: Ocean Currents)  
 Geography → Oceans → Thermohaline Circulation (applied CA)
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019, 2020, 2021, 2022
+- **Paper(s):** GS-I, Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-I | 17 | Ocean currents and water masses and their impact on marine life | How do they differ with examples · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | Prelims GS-I | 93 | Ocean Mean Temperature Indian Ocean monsoon prediction tool | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 56 | Ocean seabed mineral exploration licensing international waters | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 58 | Ocean surface temperature patterns trade winds westerlies | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 62 | Global water distribution rivers groundwater polar ice | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | GS-I | 14 | Forces influencing ocean currents and their role in fishing | What are and Describe · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Ocean currents and water masses and their impact on marine life
+- Ocean Mean Temperature Indian Ocean monsoon prediction tool
+- Ocean seabed mineral exploration licensing international waters
+- Ocean surface temperature patterns trade winds westerlies
+- Global water distribution rivers groundwater polar ice
+- Forces influencing ocean currents and their role in fishing
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -124,3 +124,32 @@ uses NICDP's planned industrial nodes.
 
 Geography -> Economic Geography of India -> Industries and industrial regions  
 Geography -> Economic Geography of India -> Industrial corridors, smart cities and manufacturing clusters
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2021
+- **Paper(s):** GS-I
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-I | 16 | Significance and characteristics of industrial corridors in India | What is the significance and explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-I | 6 | Regional resource-based manufacturing and employment promotion | Can the strategy help · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-I | 7 | Localisation of agro-based food processing in North-West India | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-I | 7 | Location of iron and steel industries away from raw material | Account for by giving examples · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-I | 17 | Socio-economic implications of IT industry growth in major Indian cities | What are the implications · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Significance and characteristics of industrial corridors in India
+- Regional resource-based manufacturing and employment promotion
+- Localisation of agro-based food processing in North-West India
+- Location of iron and steel industries away from raw material
+- Socio-economic implications of IT industry growth in major Indian cities
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

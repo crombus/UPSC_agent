@@ -259,3 +259,28 @@ each carrying its own operational trade-off.
   proxy-actor/federalism analysis; topic 06 for current LoC/Pakistan
   border management; topic 09 for the information-warfare dimension of
   the post-2008 tactical shift.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2023
+- **Paper(s):** GS-III
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 9 | CPEC as OBOR subset and India's strategic objections | Enumerate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-III | 9 | Over-ground workers role in assisting terrorist organizations in insurgency | Examine · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 9 | Hearts and Minds approach in Jammu and Kashmir conflict resolution | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- CPEC as OBOR subset and India's strategic objections
+- Over-ground workers role in assisting terrorist organizations in insurgency
+- Hearts and Minds approach in Jammu and Kashmir conflict resolution
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

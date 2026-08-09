@@ -96,3 +96,33 @@
 - ⚠️ GS-1: Compare Permanent Settlement, Ryotwari and Mahalwari systems and their consequences for peasants.
 - ⚠️ GS-1: Critically assess whether railways and telegraphs represented development or colonial exploitation.
 - ⚠️ GS-1: Link famines, revenue demand and market dependence to the creation of colonial poverty.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2020
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 51 | Colonial government measures after Santhal Uprising subsided | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 52 | Economic results of British rule in 19th century India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 68 | East India Company export commodities from Bengal mid-century | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 23 | Industrial Revolution impact on India in nineteenth century | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 33 | Indigo cultivation decline in early twentieth century India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Colonial government measures after Santhal Uprising subsided
+- Economic results of British rule in 19th century India
+- East India Company export commodities from Bengal mid-century
+- Industrial Revolution impact on India in nineteenth century
+- Indigo cultivation decline in early twentieth century India
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

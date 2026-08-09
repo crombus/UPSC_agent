@@ -82,3 +82,31 @@
 - ⚠️ "The seventeenth century was a second classical age of Indian cultural creativity." Discuss with architecture, painting and literature.
 - ⚠️ Explain how Mughal political integration encouraged trade, currency circulation and urban growth.
 - ⚠️ Analyse the role of zamindars as both collaborators and constraints in the Mughal rural order.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 73 | Foreign traveler who discussed diamonds and diamond mines India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 1 | Jagirdar and Zamindar differences in Mughal India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 21 | Mughal era terms Aurang Banian Mirasidar roles | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 94 | Yogavasistha Persian translation during Mughal reign | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Foreign traveler who discussed diamonds and diamond mines India
+- Jagirdar and Zamindar differences in Mughal India
+- Mughal era terms Aurang Banian Mirasidar roles
+- Yogavasistha Persian translation during Mughal reign
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

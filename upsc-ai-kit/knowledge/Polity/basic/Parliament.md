@@ -49,3 +49,45 @@ notification was located as of **19 July 2026**. Operational reservation also de
 constitutionally specified post-commencement census and delimitation sequence.
 
 ➡️ Full procedure, traps & Mains angles: **`advanced/17_Parliament.md`**
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 11
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 1 | First Lok Sabha opposition party and Leader of Opposition history | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 20 | Parliamentary Committee scrutinizing delegated legislation India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 31 | Money Bill constitutional provisions and definitions India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 49 | Parliament Disqualification Act and Office of Profit | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 69 | Parliamentary committees reviewing independent sector regulators | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 2 | Rajya Sabha powers equal to Lok Sabha | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 3 | MPLADS fund utilisation inspection and carryforward rules | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 20 | Parliament sessions presidential summoning and minimum sittings | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 15 | Exclusive constitutional powers of Lok Sabha | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 20 | Deputy Speaker of Lok Sabha election and ruling powers | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 37 | Finance Bill and Money Bill Parliament powers procedures | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- First Lok Sabha opposition party and Leader of Opposition history
+- Parliamentary Committee scrutinizing delegated legislation India
+- Money Bill constitutional provisions and definitions India
+- Parliament Disqualification Act and Office of Profit
+- Parliamentary committees reviewing independent sector regulators
+- Rajya Sabha powers equal to Lok Sabha
+- MPLADS fund utilisation inspection and carryforward rules
+- Parliament sessions presidential summoning and minimum sittings
+- Exclusive constitutional powers of Lok Sabha
+- Deputy Speaker of Lok Sabha election and ruling powers
+- Finance Bill and Money Bill Parliament powers procedures
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

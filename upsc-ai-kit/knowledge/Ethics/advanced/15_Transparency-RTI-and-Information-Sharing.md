@@ -215,3 +215,26 @@ reducing reliance on citizen-capacity-dependent individual requests.
 - ✅ `14_Probity-Concept-and-Philosophical-Basis-of-Governance.md` — transparency-probity mutual reinforcement.
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — MKSS and Parivartan cases.
 - ✅ `Polity/advanced/36_CIC-and-SIC.md` — full constitutional/statutory-body detail on the Information Commissions.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019
+- **Paper(s):** GS-IV
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 2 | (a) meaning of public interest and principles for civil servants; (b) RTI redefining the concept of accountability | Explain/Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 4 | (a) basic principles of citizens charter movement and importance; (b) Official Secrets Act as obstacle to RTI implementation | Explain/Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) meaning of public interest and principles for civil servants; (b) RTI redefining the concept of accountability
+- (a) basic principles of citizens charter movement and importance; (b) Official Secrets Act as obstacle to RTI implementation
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

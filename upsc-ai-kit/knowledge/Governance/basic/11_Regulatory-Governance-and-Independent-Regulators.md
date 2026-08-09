@@ -201,3 +201,27 @@ through the adjudicatory tribunal layer above regulatory decisions.
 - ✅ `Polity/advanced/18_Supreme-Court.md`, `Polity/advanced/21_High-Court-and-Subordinate-Courts.md`
   — the constitutional judiciary structure Polity owns, distinct from statutory tribunals
   covered here.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 23 | Food Safety and Standards Act 2006 and FSSAI structure | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 74 | Petroleum Natural Gas Regulatory Board role and appeals | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Food Safety and Standards Act 2006 and FSSAI structure
+- Petroleum Natural Gas Regulatory Board role and appeals
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

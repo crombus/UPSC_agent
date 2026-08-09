@@ -75,3 +75,49 @@ CONSTITUTION OF INDIA
 
 ➡️ For nuances, exceptions (Art 31A/B/C, 33, 34, 35), suspension during Emergency, landmark cases,
 PYQs and traps — see **advanced/Fundamental-Rights.md**.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 13
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 92 | Right to Privacy protected under Article 21 and Part III | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 56 | Constitutional article protecting right to marry India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 85 | Liberty definition in political context of governance | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 4 | Fundamental Rights category covering untouchability protection | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 79 | Right to Privacy Article of Indian Constitution | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 82 | Judicial custody versus police custody in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 83 | Prisoner parole entitlement and state government rules | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 85 | Unguided executive discretionary power constitutional violation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 92 | Right to Property constitutional and legal status | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 96 | Bharat Ratna Padma Awards constitutional procedural status | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 18 | Writ jurisdiction Mandamus and Quo Warranto courts India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 31 | Due Process of Law meaning in constitutional context | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 40 | Reservation under Article 16 and administrative efficiency Article 335 | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Right to Privacy protected under Article 21 and Part III
+- Constitutional article protecting right to marry India
+- Liberty definition in political context of governance
+- Fundamental Rights category covering untouchability protection
+- Right to Privacy Article of Indian Constitution
+- Judicial custody versus police custody in India
+- Prisoner parole entitlement and state government rules
+- Unguided executive discretionary power constitutional violation
+- Right to Property constitutional and legal status
+- Bharat Ratna Padma Awards constitutional procedural status
+- Writ jurisdiction Mandamus and Quo Warranto courts India
+- Due Process of Law meaning in constitutional context
+- Reservation under Article 16 and administrative efficiency Article 335
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

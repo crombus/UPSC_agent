@@ -206,3 +206,28 @@ their recitation.
 - ✅ `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — the surveillance/trust
   boundary this file flags.
 - ✅ `Philosophy/paper-1/indian/Jainism.md` — Anekantavada and Syadvada in full philosophical depth.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2020, 2022
+- **Paper(s):** GS-IV
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-IV | 1 | (a) role of ethics and values in enhancing major sources of power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020 | Discuss / Examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 5 | (a) main factors for gender inequality in India and Savitribai Phule contribution; (b) internet expansion instilling cultural values in conflict with traditional values | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 3 | (a) Potter Stewart on ethics vs right-to-do; (b) APJ Kalam on corruption-free nation; (c) Dalai Lama on success and sacrifice | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) role of ethics and values in enhancing major sources of power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020
+- (a) main factors for gender inequality in India and Savitribai Phule contribution; (b) internet expansion instilling cultural values in conflict with traditional values
+- (a) Potter Stewart on ethics vs right-to-do; (b) APJ Kalam on corruption-free nation; (c) Dalai Lama on success and sacrifice
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

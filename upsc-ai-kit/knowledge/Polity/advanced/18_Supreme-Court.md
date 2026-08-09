@@ -120,3 +120,32 @@ Downside: frivolous/"publicity-interest" litigation, judicial overload.
   appointment of the Judges of the Supreme Court of India and that of the USA.” Route:
   First-Second-Third Judges cases/NJAC -> independence vs opacity -> compare US presidential
   nomination and Senate confirmation -> seek accountable independence, not executive primacy.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2020, 2021, 2022, 2023
+- **Paper(s):** GS-II
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-II | 4 | Convergence and divergence of Indian and UK judicial systems | Highlight the key points · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 12 | Judicial legislation, separation of powers and public interest petitions | Justify · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 2 | Greater representation of women in the higher judiciary | Discuss the desirability · 10 marks · 150 words | Cross-cutting; judicial appointments and gender justice both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 1 | Constitutionalization of environmental problems by the Supreme Court | Discuss with case laws · 10 marks · 150 words | Cross-cutting; judicial review and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 1 | Judicial independence as a prerequisite of democracy | Comment · 10 marks · 150 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Convergence and divergence of Indian and UK judicial systems
+- Judicial legislation, separation of powers and public interest petitions
+- Greater representation of women in the higher judiciary
+- Constitutionalization of environmental problems by the Supreme Court
+- Judicial independence as a prerequisite of democracy
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

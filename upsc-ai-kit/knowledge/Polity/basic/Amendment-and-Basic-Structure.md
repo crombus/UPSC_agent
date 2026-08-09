@@ -64,3 +64,35 @@ sovereignty; judiciary reaffirmed that Indian Parliament is **not supreme** — 
 ➡️ For the full case-law spine (Shankari Prasad → Coelho), the complete simple/special/federal lists,
 criticism, all 20 basic-structure elements, traps & Mains angles — see
 **advanced/Amendment-and-Basic-Structure.md**.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 5 | Ninth Schedule laws and judicial review in Constitution | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 45 | 44th and 99th Constitutional Amendments judicial implications | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 47 | Ninth Schedule introduction in Indian Constitution history | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 13 | Basic structure doctrine definition and judicial review | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 13 | Constitutional Amendment Bill procedure and Presidential assent | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 34 | Constitutional amendments enacted to overcome judicial interpretation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Ninth Schedule laws and judicial review in Constitution
+- 44th and 99th Constitutional Amendments judicial implications
+- Ninth Schedule introduction in Indian Constitution history
+- Basic structure doctrine definition and judicial review
+- Constitutional Amendment Bill procedure and Presidential assent
+- Constitutional amendments enacted to overcome judicial interpretation
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

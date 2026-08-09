@@ -173,3 +173,28 @@ against its matched prompt.
 your own (not listed in this bank) and map at least two distinct,
 honestly limited functions for it across two different audited prompts;
 log the exercise and any overstatement caught in `16`'s error log.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019
+- **Paper(s):** Essay
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Essay | 4 | Management of Indian border disputes as a complex task | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 6 | Neglect of primary health care and education as reasons for backwardness | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 7 | Biased media as a real threat to Indian democracy | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+
+### What this owner must now support
+
+- Management of Indian border disputes as a complex task
+- Neglect of primary health care and education as reasons for backwardness
+- Biased media as a real threat to Indian democracy
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

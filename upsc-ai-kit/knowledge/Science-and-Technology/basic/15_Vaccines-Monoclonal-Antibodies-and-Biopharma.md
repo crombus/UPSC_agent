@@ -143,3 +143,29 @@
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` — DBT, BIRAC and core biotech platform concepts.
 - ✅ `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` — molecular biotechnology and regulatory distinctions in another application domain.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — emerging AI linkages in diagnostics, drug discovery and health-tech governance.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2020, 2021, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | Prelims GS-I | 45 | Pneumococcal Conjugate Vaccines importance and benefits in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 65 | Recombinant vector vaccine development genetic engineering | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 39 | COVID-19 vaccine platforms mRNA vector inactivated pathogen | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Pneumococcal Conjugate Vaccines importance and benefits in India
+- Recombinant vector vaccine development genetic engineering
+- COVID-19 vaccine platforms mRNA vector inactivated pathogen
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

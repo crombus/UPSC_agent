@@ -82,3 +82,29 @@
 - ⚠️ Harsha is best read as a **post-Gupta restorer**, not a Maurya/Gupta-scale empire builder.
 - ⚠️ Xuanzang shows how travel accounts help reconstruct political, religious and educational history.
 - ⚠️ Eastern India's transition illustrates how land grants, religion and agrarian expansion integrated frontier regions.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2020, 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | Prelims GS-I | 24 | Chronological order Pratihara Pallava Chola Pala dynasties | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 97 | Historical places Bhilsa Dwarasamudra Girinagar Sthanesvara state matching | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 34 | Kingdoms of Northern India after Gupta decline | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Chronological order Pratihara Pallava Chola Pala dynasties
+- Historical places Bhilsa Dwarasamudra Girinagar Sthanesvara state matching
+- Kingdoms of Northern India after Gupta decline
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

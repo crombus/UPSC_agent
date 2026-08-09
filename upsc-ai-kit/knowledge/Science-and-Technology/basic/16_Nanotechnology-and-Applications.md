@@ -126,3 +126,29 @@
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — another frontier-science mission where materials capability matters.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — useful for understanding nanoelectronics and sensor-system interfaces in smart technologies.
 - ✅ `20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md` — broader materials strategy and supply-chain context.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2020, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 84 | 3D printing technology applications across multiple sectors | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 41 | Carbon nanotubes uses in medicine biosensors and industry | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 98 | Nanoparticles natural occurrence cosmetics and safety | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- 3D printing technology applications across multiple sectors
+- Carbon nanotubes uses in medicine biosensors and industry
+- Nanoparticles natural occurrence cosmetics and safety
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

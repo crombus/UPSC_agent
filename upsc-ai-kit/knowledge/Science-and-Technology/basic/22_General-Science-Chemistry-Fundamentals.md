@@ -168,3 +168,29 @@ atom -> element -> periodic trends -> bonding -> compounds -> reactions
 - ✅ `23_General-Science-Biology-and-Physiology.md` — biomolecules continue into the life-science domain.
 - ✅ `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — materials and chip chemistry in applied form.
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` — chemistry of biomolecules feeds into biotechnology applications.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2021 | Prelims GS-I | 71 | Water dipolar nature as universal solvent property | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 74 | Bisphenol A BPA polycarbonate plastics manufacturing | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 75 | Triclosan presence in consumer personal care products | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Water dipolar nature as universal solvent property
+- Bisphenol A BPA polycarbonate plastics manufacturing
+- Triclosan presence in consumer personal care products
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

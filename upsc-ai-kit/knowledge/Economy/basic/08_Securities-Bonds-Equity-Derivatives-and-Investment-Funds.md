@@ -140,3 +140,33 @@ loss, liquidity mismatch or poor governance.
   sustainability bonds.
 - ✅ `24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` — tokenisation and digital
   distribution.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Prelims GS-I | 67 | Participatory Notes issued to overseas stock market investors | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 5 | Inflation-Indexed Bonds features and investor benefits | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 65 | Convertible bonds interest rate and equity conversion features | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 21 | Infrastructure Investment Trusts InvIT tax treatment SARFAESI | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 73 | Beta as stock market volatility measure in finance | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Participatory Notes issued to overseas stock market investors
+- Inflation-Indexed Bonds features and investor benefits
+- Convertible bonds interest rate and equity conversion features
+- Infrastructure Investment Trusts InvIT tax treatment SARFAESI
+- Beta as stock market volatility measure in finance
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -165,3 +165,37 @@ make the headline deficit understate public-sector risk.
   crowding-in.
 - ✅ `23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md` — incidence of social
   spending.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2020, 2021, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 7
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 9 | FRBM Review Committee debt-GDP ratio recommendations | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 47 | Opportunity cost when government provides commodity free | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 6 | Macro Economic Framework Statement legal mandate FRBM | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 3 | Government policy measures during economic recession | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 9 | Black money creation impact on Indian economy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 9 | Capital expenditure versus revenue expenditure classification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 10 | Household financial savings and government internal debt | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- FRBM Review Committee debt-GDP ratio recommendations
+- Opportunity cost when government provides commodity free
+- Macro Economic Framework Statement legal mandate FRBM
+- Government policy measures during economic recession
+- Black money creation impact on Indian economy
+- Capital expenditure versus revenue expenditure classification
+- Household financial savings and government internal debt
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

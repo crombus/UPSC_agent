@@ -146,3 +146,47 @@ stalled project or recapitalise a weak borrower.
   transmission.
 - ✅ `07_Money-Market-Capital-Market-and-Financial-Instruments.md` — overnight rates and
   yield curves.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 12
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 46 | Legal tender money definition and characteristics | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 86 | Government and RBI measures to prevent rupee depreciation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 87 | RBI payment data storage directive for system providers | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 90 | Conditions that increase money multiplier in economy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 57 | RBI expansionist monetary policy instruments and actions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 1 | RBI Governor appointment and constitutional powers | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 11 | Money multiplier and reserve ratios in banking | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 15 | Central bank lender of last resort function | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 3 | RBI monetary policy tools and rupee management | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 68 | Institution responsible for price stability and inflation control | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 22 | Central banks interest rate hikes post-pandemic monetary policy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 24 | RBI sterilization and Open Market Operations role | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Legal tender money definition and characteristics
+- Government and RBI measures to prevent rupee depreciation
+- RBI payment data storage directive for system providers
+- Conditions that increase money multiplier in economy
+- RBI expansionist monetary policy instruments and actions
+- RBI Governor appointment and constitutional powers
+- Money multiplier and reserve ratios in banking
+- Central bank lender of last resort function
+- RBI monetary policy tools and rupee management
+- Institution responsible for price stability and inflation control
+- Central banks interest rate hikes post-pandemic monetary policy
+- RBI sterilization and Open Market Operations role
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

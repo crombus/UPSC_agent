@@ -166,3 +166,151 @@ period" is meaningless here. *(Verified.)*
 - ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - number properties decide many
   data-sufficiency items.
 - ✅ [Logical Reasoning, Coding, Counting and DI](./06_Logical-Reasoning-Coding-Counting-and-DI.md) - counting/inclusion-exclusion overlap.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-CSAT-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** CSAT
+- **Routed question demands:** 65
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | CSAT | 3 | Number matrix pattern | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 36 | Digit-ordered number count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 9 | Digit frequency count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 15 | Divisibility set overlap | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 33 | Reversed-digit ratio pairs | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 48 | Number series pattern | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 51 | Number series pattern | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 53 | Page-digit range count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 60 | Multi-digit divisibility count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 75 | Digit sum divisibility count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 7 | Trailing-zero count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 8 | Cyclic-sum divisibility | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 10 | Digit-sum primality | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 11 | Digit symbol equation | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 12 | HCF length measurement | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 13 | Prime-offset sequence | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 14 | Page-sum torn leaf | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 37 | Digit and divisibility count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 50 | Irrational number comparison | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 51 | HCF of measurements | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 53 | Recurring decimal conversion | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 54 | LCM remainder constraint | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 56 | Product remainder calculation | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 58 | Digit sum of power | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 75 | Difference-of-squares factoring | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 76 | Fraction shift comparison | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 77 | Divisibility condition digit | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 5 | Cyclic remainder pattern | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 6 | Divisibility digit value | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 26 | Sequence incorrect term | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 36 | Digit-permutation sum divisibility | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 50 | Number sequence missing term | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 59 | Cryptarithmetic digit addition | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 60 | Cryptarithmetic digit multiplication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 67 | Consecutive-integer property | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 76 | Digit-interchange difference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 79 | Repunit smallest multiplier | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 4 | Number sequence term | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 5 | Divisibility digit arrangement | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 9 | Number magnitude comparison | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 47 | LCM parity minimum | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 54 | Digit sum bound statements | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 58 | Product modular remainder | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 65 | LCM remainder threshold | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 66 | Digit reversal product | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 67 | Prime composite property | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 74 | Exponent maximum value | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 75 | Number sequence term | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 7 | Product remainder modulo | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 8 | Unit digit expansion | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 9 | Digit-sum addition puzzle | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 10 | Digit-sum ratio minimum | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 14 | Integer parity determination | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 15 | Prime-composite property check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 16 | Digit multiplication constraint | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 17 | Repeated-block divisibility | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 25 | Conditional divisor count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 27 | Repunit remainder modulo | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 28 | Repunit square digit sum | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 29 | Range digit-sum total | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 45 | Divisor-remainder bound count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 46 | Repeated-digit sum constraint | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 47 | Permuted-digit number sum | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 74 | Large power remainder | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 76 | Cryptarithmetic digit solve | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+
+### What this owner must now support
+
+- Number matrix pattern
+- Digit-ordered number count
+- Digit frequency count
+- Divisibility set overlap
+- Reversed-digit ratio pairs
+- Number series pattern
+- Page-digit range count
+- Multi-digit divisibility count
+- Digit sum divisibility count
+- Trailing-zero count
+- Cyclic-sum divisibility
+- Digit-sum primality
+- Digit symbol equation
+- HCF length measurement
+- Prime-offset sequence
+- Page-sum torn leaf
+- Digit and divisibility count
+- Irrational number comparison
+- HCF of measurements
+- Recurring decimal conversion
+- LCM remainder constraint
+- Product remainder calculation
+- Digit sum of power
+- Difference-of-squares factoring
+- Fraction shift comparison
+- Divisibility condition digit
+- Cyclic remainder pattern
+- Divisibility digit value
+- Sequence incorrect term
+- Digit-permutation sum divisibility
+- Number sequence missing term
+- Cryptarithmetic digit addition
+- Cryptarithmetic digit multiplication
+- Consecutive-integer property
+- Digit-interchange difference
+- Repunit smallest multiplier
+- Number sequence term
+- Divisibility digit arrangement
+- Number magnitude comparison
+- LCM parity minimum
+- Digit sum bound statements
+- Product modular remainder
+- LCM remainder threshold
+- Digit reversal product
+- Prime composite property
+- Exponent maximum value
+- Product remainder modulo
+- Unit digit expansion
+- Digit-sum addition puzzle
+- Digit-sum ratio minimum
+- Integer parity determination
+- Prime-composite property check
+- Digit multiplication constraint
+- Repeated-block divisibility
+- Conditional divisor count
+- Repunit remainder modulo
+- Repunit square digit sum
+- Range digit-sum total
+- Divisor-remainder bound count
+- Repeated-digit sum constraint
+- Permuted-digit number sum
+- Large power remainder
+- Cryptarithmetic digit solve
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

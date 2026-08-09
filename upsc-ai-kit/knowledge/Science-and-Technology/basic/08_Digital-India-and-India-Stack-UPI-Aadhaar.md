@@ -149,3 +149,37 @@ interoperable digital public infrastructure for service delivery
 - ✅ Advanced companion: `advanced/08_Digital-India-and-India-Stack-UPI-Aadhaar.md`.
 - ✅ `12_Data-Protection-DPDP-Act-and-Cybersecurity.md` — privacy, data governance and cyber-risk side.
 - ✅ `../../Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` — macro-fintech, market-structure and economic analysis.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 7
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 17 | Aadhaar Open APIs electronic integration and biometric authentication | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 66 | Internet of Things smart connected devices scenario description | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 75 | Differences between LTE and VoLTE telecom standards | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 91 | Augmented Reality and Virtual Reality technology differences | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 95 | Tasks accomplished by wearable technology devices | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 40 | Blockchain technology public ledger features and applications | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 33 | Software as a Service cloud computing features | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Aadhaar Open APIs electronic integration and biometric authentication
+- Internet of Things smart connected devices scenario description
+- Differences between LTE and VoLTE telecom standards
+- Augmented Reality and Virtual Reality technology differences
+- Tasks accomplished by wearable technology devices
+- Blockchain technology public ledger features and applications
+- Software as a Service cloud computing features
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -207,3 +207,34 @@ individual honesty alone.
 - ✅ `15_Transparency-RTI-and-Information-Sharing.md` — the verifiability mechanism for probity.
 - ✅ `10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md` — constitutional morality's extension
   of probity beyond individual conduct.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 11 | Dr. X charitable trust hospital - tax irregularities found on inspection; two options: broad substantial compliance ignoring technical defaults vs strict pursuit on all fronts | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 3 | (a) constitutional morality - meaning and how to uphold; (b) crisis of conscience - meaning and manifestation in public domain | Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 5 | (a) probity in governance - meaning and measures for ensuring probity; (b) emotional intelligence as ability to make emotions work for you | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 6 | (a) independent social audit mechanism as absolute must for public service accountability and ethical conduct; (b) integrity as a value that empowers the human being | Elaborate / Justify · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 5 | (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty | Illustrate (a); Short notes (b) · 10 + 10 marks · 150 words (a); 30 words each (b) | Routed to owning Ethics topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 5 | (a) conscience as reliable ethical guide compared to laws and rules; (b) probity essential for effective governance and development | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Dr. X charitable trust hospital - tax irregularities found on inspection; two options: broad substantial compliance ignoring technical defaults vs strict pursuit on all fronts
+- (a) constitutional morality - meaning and how to uphold; (b) crisis of conscience - meaning and manifestation in public domain
+- (a) probity in governance - meaning and measures for ensuring probity; (b) emotional intelligence as ability to make emotions work for you
+- (a) independent social audit mechanism as absolute must for public service accountability and ethical conduct; (b) integrity as a value that empowers the human being
+- (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty
+- (a) conscience as reliable ethical guide compared to laws and rules; (b) probity essential for effective governance and development
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

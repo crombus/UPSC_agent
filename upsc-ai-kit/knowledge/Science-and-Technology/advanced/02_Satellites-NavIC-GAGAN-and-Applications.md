@@ -159,3 +159,23 @@ Constellation ownership and augmentation function must never be conflated.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` - future secure timing and technology-system intersections.
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launch cadence and vehicle availability as the constraint on constellation replenishment.
 
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018
+- **Paper(s):** GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-I | 4 | Need for IRNSS and its role in navigation | Why and How · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Need for IRNSS and its role in navigation
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

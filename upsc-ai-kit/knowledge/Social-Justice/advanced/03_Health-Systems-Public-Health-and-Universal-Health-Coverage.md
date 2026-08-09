@@ -231,3 +231,28 @@ households, undermining the health capability that a welfare state must secure.
   social-audit and grievance-redress mechanisms applicable to health schemes.
 - ✅ `02_Poverty-Hunger-Food-and-Nutrition-Security.md` — nutrition-health
   linkage: undernutrition weakens immunity and increases morbidity.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2020, 2021
+- **Paper(s):** GS-II
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 7 | Community-level healthcare intervention and Health for All | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 6 | Health policies for geriatric and maternal care | Discuss · 10 marks · 150 words | Cross-cutting; the question names two distinct care domains | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 6 | Primary health structure as a precondition for sustainable development | Analyze · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Community-level healthcare intervention and Health for All
+- Health policies for geriatric and maternal care
+- Primary health structure as a precondition for sustainable development
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

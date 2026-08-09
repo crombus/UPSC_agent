@@ -200,3 +200,32 @@ control layers, each requiring a distinct, named reform.
 - ✅ `20_Anti-Corruption-Institutions.md` — CVC/CBI/Lokpal jurisdiction-specific detail.
 - ✅ `01_Ethics-and-Human-Interface.md` — the accountability-diffusion/over-centralisation link.
 - ✅ `Polity/advanced/32_CAG.md` and `Polity/advanced/37_CVC-and-CBI.md` — constitutional-body detail.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-IV | 10 | Rising politicization of bureaucracy - political executive encroaching on permanent executive including transfers and postings; consequences of this trend | Discuss · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 6 | (a) independent social audit mechanism as absolute must for public service accountability and ethical conduct; (b) integrity as a value that empowers the human being | Elaborate / Justify · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 9 | project manager of elevated corridor notices crack in pier; minister and chief engineer pressure to overlook - (a) options; (b) ethical dilemmas; (c) professional challenges; (d) consequences | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 4 | (a) good governance and e-governance initiatives for beneficiaries; (b) ethical issues in online methodology affecting vulnerable sections of society | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 6 | (a) major teachings of Guru Nanak and their contemporary relevance; (b) social capital and its role in good governance | Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Rising politicization of bureaucracy - political executive encroaching on permanent executive including transfers and postings; consequences of this trend
+- (a) independent social audit mechanism as absolute must for public service accountability and ethical conduct; (b) integrity as a value that empowers the human being
+- project manager of elevated corridor notices crack in pier; minister and chief engineer pressure to overlook - (a) options; (b) ethical dilemmas; (c) professional challenges; (d) consequences
+- (a) good governance and e-governance initiatives for beneficiaries; (b) ethical issues in online methodology affecting vulnerable sections of society
+- (a) major teachings of Guru Nanak and their contemporary relevance; (b) social capital and its role in good governance
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

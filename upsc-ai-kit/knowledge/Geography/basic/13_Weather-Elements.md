@@ -175,3 +175,37 @@ always quote the current IMD criterion and bulletin date.
 
 Geography → Climatology → Atmospheric Circulation  
 Geography → Climatology → Pressure & Winds + local winds (Loo)
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-I, Prelims GS-I
+- **Routed question demands:** 7
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Prelims GS-I | 44 | Absence of dewdrops formation on cloudy nights | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 99 | Jet streams hemisphere limitation and cyclone eye temperature | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | GS-I | 14 | Alignment of major mountain ranges and impact on local weather | Briefly mention and explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-I | 17 | Troposphere as the layer determining weather processes | How · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | Prelims GS-I | 81 | High and low clouds differential effects on Earth temperature | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 62 | Insolation distribution in Earth's atmosphere infrared rays | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 64 | Temperature contrast between continents and oceans seasons | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Absence of dewdrops formation on cloudy nights
+- Jet streams hemisphere limitation and cyclone eye temperature
+- Alignment of major mountain ranges and impact on local weather
+- Troposphere as the layer determining weather processes
+- High and low clouds differential effects on Earth temperature
+- Insolation distribution in Earth's atmosphere infrared rays
+- Temperature contrast between continents and oceans seasons
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

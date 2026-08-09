@@ -85,3 +85,25 @@
 - ⚠️ GS-1: Analyse the causes of Partition, balancing communalism, League politics, British policy and Congress calculations.
 - ⚠️ GS-1: Discuss how Partition transformed independence into both a political triumph and a humanitarian catastrophe.
 - ⚠️ GS-1: Distinguish the roles of the 3 June Plan, Indian Independence Act and Radcliffe Award in the transfer of power.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2021 | Prelims GS-I | 50 | International Mother Language Day Bangla language movement | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- International Mother Language Day Bangla language movement
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

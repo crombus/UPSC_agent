@@ -1,9 +1,19 @@
 # Older PYQ Routing Index, 2018–2023
 
-> **Scope:** Linkage metadata only. These ledgers route locally held official
-> papers to existing knowledge files; they do not add subject content or
-> supply answer keys. Prelims and CSAT keys for 2018–2023 are not held locally
-> and are never inferred.
+> **Scope:** These ledgers remain the controlling routing/provenance records.
+> Their rows have now been propagated into the destination owner files as
+> generated PYQ-demand sections. Prelims and CSAT keys for 2018–2023 are not
+> held locally and are never inferred.
+
+## Integration status
+
+- **Unique printed questions:** 1,560
+- **Question-to-owner assignments:** 2,190
+- **Owner files updated:** 409
+- **Missing route targets:** 0
+- **Subject/topic residual audit:**
+  [`PYQ-INTEGRATION-AUDIT-2018-2023.md`](PYQ-INTEGRATION-AUDIT-2018-2023.md)
+- **Reproducible propagator:** `../tools/propagate_historical_pyqs.py`
 
 ## Question-level routing
 

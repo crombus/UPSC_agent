@@ -141,3 +141,32 @@ GAGAN = SBAS -> corrects/augments GPS for aviation accuracy + integrity
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` - future secure timing, positioning and strategic technology intersections.
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launch-vehicle choice and cadence constraints that govern constellation replenishment.
 
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 55 | GPS technology applications in mobile banking power grids | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 61 | IRNSS satellite system orbits and coverage area India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 32 | Remote sensing satellite applications for environmental measurements | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 40 | Solar flare effects on GPS satellites power grids aurora | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 57 | Countries with independent satellite navigation systems | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- GPS technology applications in mobile banking power grids
+- IRNSS satellite system orbits and coverage area India
+- Remote sensing satellite applications for environmental measurements
+- Solar flare effects on GPS satellites power grids aurora
+- Countries with independent satellite navigation systems
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

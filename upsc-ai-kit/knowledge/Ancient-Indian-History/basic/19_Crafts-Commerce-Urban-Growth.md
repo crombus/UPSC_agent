@@ -75,3 +75,27 @@
 - ⚠️ Explain how craft specialization, guild finance and coinage together created early historic urban growth.
 - ⚠️ Link Buddhist caves/monasteries with merchants: religion acted as a node in commercial networks.
 - ⚠️ Show continuity and change: Harappan maritime memory, NBPW towns, post-Mauryan trade boom and modern maritime heritage.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2020
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | Prelims GS-I | 25 | Hundi instrument definition in post-Harsha period sources | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 82 | Gupta period port towns Ghantasala Kadura Chaul trade | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Hundi instrument definition in post-Harsha period sources
+- Gupta period port towns Ghantasala Kadura Chaul trade
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

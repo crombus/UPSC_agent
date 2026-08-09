@@ -102,3 +102,26 @@ independence, stable tenure, adequate benches and constitutional-court supervisi
 - `advanced/21_High-Court-and-Subordinate-Courts.md` - Articles 226/227 and court burden.
 - `Governance/advanced/11_Regulatory-Governance-and-Independent-Regulators.md` -
   independence/accountability design for specialist bodies.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 12 | Tribunals curtailing the jurisdiction of ordinary courts | How far do you agree and discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-II | 2 | Central Administrative Tribunal exercising independent judicial authority | Explain · 10 marks · 150 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Tribunals curtailing the jurisdiction of ordinary courts
+- Central Administrative Tribunal exercising independent judicial authority
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -218,3 +218,33 @@ further discipline points for this topic:
   translation of these commitments.
 - ✅ `21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` — Paris Agreement Article 6 carbon-
   market mechanisms.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 35 | Global Alliance for Climate-Smart Agriculture features and membership | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 83 | Partnership for Action on Green Economy PAGE UN mechanism | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 88 | Momentum for Change Climate Neutral Now initiative and originator | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 41 | Climate Action Tracker emission pledge monitoring body | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 42 | Climate Group EP100 and Under2 Coalition energy initiatives | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Global Alliance for Climate-Smart Agriculture features and membership
+- Partnership for Action on Green Economy PAGE UN mechanism
+- Momentum for Change Climate Neutral Now initiative and originator
+- Climate Action Tracker emission pledge monitoring body
+- Climate Group EP100 and Under2 Coalition energy initiatives
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

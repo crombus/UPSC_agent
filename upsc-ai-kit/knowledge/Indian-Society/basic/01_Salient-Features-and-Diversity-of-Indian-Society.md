@@ -183,3 +183,27 @@ that no single identity always predicts deprivation.
 - ✅ `14_Regionalism.md` — the exact diversity-vs-disparity distinction (2024 Q17).
 - ✅ `13_Communalism.md` — when religious diversity turns into mobilisation and conflict.
 - ✅ `15_Secularism.md` — syncretism and shared public space as lived practice.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2023 | Prelims GS-I | 95 | National sports awards Khel Ratna Arjuna Dronacharya criteria | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 96 | Chess Olympiad 2022 India mascot Thambi trophies | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- National sports awards Khel Ratna Arjuna Dronacharya criteria
+- Chess Olympiad 2022 India mascot Thambi trophies
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

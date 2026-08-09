@@ -186,3 +186,37 @@ this folder flags throughout.
   drawn from.
 - ✅ `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` — NTCA and WII institutional
   detail.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 7
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 94 | Pakhui Wildlife Sanctuary state location in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 18 | National Parks located in temperate alpine zone | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 73 | Protected areas located in Cauvery river basin | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 75 | Protected area for hard ground Barasingha swamp deer | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 95 | Desert National Park districts habitation and GIB habitat | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 100 | Tiger Reserves with largest Critical Tiger Habitat area | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 38 | Community Reserve governance hunting NTFP agricultural rights | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Pakhui Wildlife Sanctuary state location in India
+- National Parks located in temperate alpine zone
+- Protected areas located in Cauvery river basin
+- Protected area for hard ground Barasingha swamp deer
+- Desert National Park districts habitation and GIB habitat
+- Tiger Reserves with largest Critical Tiger Habitat area
+- Community Reserve governance hunting NTFP agricultural rights
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -193,3 +193,26 @@ unit and annual-reporting proposals, and a genuinely independent Ethics Commissi
   Ethics foundation.
 - ✅ `10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md` — the letter/spirit-of-law gap.
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — comparative international anti-corruption models.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019
+- **Paper(s):** GS-IV
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 1 | (a) three basic values universal in civil services and their importance; (b) distinction between code of ethics and code of conduct | Describe/Distinguish · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 12 | Civil service ethics reform - institutional measures for anticipating ethical threats strengthening ethical competence and developing administrative processes promoting integrity | Suggest · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) three basic values universal in civil services and their importance; (b) distinction between code of ethics and code of conduct
+- Civil service ethics reform - institutional measures for anticipating ethical threats strengthening ethical competence and developing administrative processes promoting integrity
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -84,3 +84,31 @@
 - ⚠️ Assess whether the Mauryan Empire was a highly centralised state or a layered empire with varied control.
 - ⚠️ Use Ashoka to discuss the use of moral language in statecraft.
 - ⚠️ Link Kalinga, Dhamma and inscriptions to the beginnings of public political communication in India.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019, 2020, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Prelims GS-I | 8 | Ashoka stone portrait in relief sculpture inscriptions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 30 | Royal inscription on religious tolerance and self-glorification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 60 | Kautilya Arthashastra provisions on slavery and legal status | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 91 | Ashoka major rock edicts and location by Indian state | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Ashoka stone portrait in relief sculpture inscriptions
+- Royal inscription on religious tolerance and self-glorification
+- Kautilya Arthashastra provisions on slavery and legal status
+- Ashoka major rock edicts and location by Indian state
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

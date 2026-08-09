@@ -237,3 +237,263 @@ These drills mirror the provisional 2026 categories without reproducing the sour
 - ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - data-sufficiency content overlaps
   this family.
 - ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - counting and inclusion-exclusion share methods.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-CSAT-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** CSAT
+- **Routed question demands:** 127
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | CSAT | 1 | 3D shape counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 4 | Polygon diagonal count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 11 | Bar-chart data comparison | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 12 | Bar-chart value calculation | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 13 | Bar-chart ratio reading | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 14 | Cube rotation opposite face | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 15 | Cube rotation opposite face | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 16 | Cube rotation opposite face | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 21 | Letter substitution coding | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 22 | Letter-to-number coding | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 25 | Office seating deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 26 | Office seating deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 42 | Venn-diagram counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 43 | Placement logic deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 44 | Placement logic deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 45 | Placement logic deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 46 | Placement statement check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 47 | Placement statement check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 48 | Placement statement check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 61 | Progress graph comparison | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 62 | Color arrangement counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 63 | Population graph inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 64 | Graph statement validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 65 | Dual-scale graph comparison | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 66 | Figural analogy completion | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 67 | Graph break-even reading | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 70 | Figural rotation series | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 71 | Population age-group graph | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 72 | Logical relation deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 73 | Policy rate graph inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 74 | Table data inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 75 | Table assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 76 | Tax revenue graph inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 10 | Cube partition cuts | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 13 | Syllogism conclusion check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 14 | Grid parallelogram count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 20 | Set overlap deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 29 | Statement sufficiency check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 31 | Venn diagram deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 32 | Logical chain elimination | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 52 | Venn-diagram counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 54 | Letter sequence fill | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 56 | Denomination combination count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 68 | Alphabet substitution coding | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 70 | Sequence conditional count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 71 | Blood-relation deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 72 | Cube face coloring count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 73 | Natural number partition count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 74 | Symbol substitution evaluation | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 76 | Ranking order deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 77 | Ranking order deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 78 | Ranking order deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 79 | Weight inequality deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 80 | Weight inequality deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 15 | Letter sequence completion | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 19 | Blood-relation deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 32 | Syllogism deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 33 | Syllogism deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 34 | Sequence pair counting | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 35 | Linear row position count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 36 | Age-ordering deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 48 | Letter-number coding | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 49 | Letter analogy series | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 52 | Table rate comparison | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 60 | Denomination subset counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 67 | Constrained permutation count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 10 | Syllogism conclusion selection | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 15 | Syllogism conclusion selection | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 17 | Mirror-image consonant count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 19 | Digit-sum integer count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 25 | Multi-attribute classification | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 27 | Matrix trend missing entry | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 28 | Dual-sequence missing entry | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 35 | Venn set overlap range | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 40 | Alphabet reversal position coding | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 45 | Table run-rate comparison | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 46 | Fractional set deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 49 | Multi-conclusion syllogism | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 56 | Letter-substitution coding | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 64 | Chessboard diagonal count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 65 | Series blank-fill pattern | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 66 | Restricted digit arrangement | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 69 | Non-consecutive selection count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 74 | Pie-chart sector angle | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 10 | Digit row arrangement count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 16 | Alphabet reversal coding | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 17 | Elimination match counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 18 | Odd digit counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 24 | Letter arrangement counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 27 | Route combination counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 29 | Letter series position | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 30 | Queue minimum size | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 36 | Blood relation deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 38 | Two-statement syllogism | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 39 | Three-statement syllogism | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 40 | Circular seating arrangement | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 55 | Constrained PIN enumeration | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 56 | Circle inscribed triangle count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 70 | Pie chart percentage | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 76 | Constrained password count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 77 | Grid row arrangement count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 79 | Form constraint number count | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 4 | Worst-case pair selection | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 5 | Score partition counting | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 6 | Derangement possibility check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 18 | Interior cube count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 19 | Position-constrained permutation | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 24 | Symbol operation decode | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 30 | Collinearity-aware triangle count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 36 | Worst-case colour group draw | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 37 | Letter-shift cipher decode | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 38 | Statement-based age ranking | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 39 | Family-relation statement sufficiency | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 40 | Prime-group odd-one-out | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 48 | Circular consecutive selection count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 54 | Circular pass-sequence return | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 55 | Sequence middle term | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 65 | Integer-constraint solution count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 66 | Adjacent-colour stripe count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 68 | Constrained assignment count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 69 | Weighing-coin optimisation | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 70 | Coded relational chain deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 75 | Repeating pattern gap fill | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 77 | True-false logic deduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 78 | Conditional logic conclusion | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 79 | Painted cuboid partition count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 80 | Reverse alphabetical position count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+
+### What this owner must now support
+
+- 3D shape counting
+- Polygon diagonal count
+- Bar-chart data comparison
+- Bar-chart value calculation
+- Bar-chart ratio reading
+- Cube rotation opposite face
+- Letter substitution coding
+- Letter-to-number coding
+- Office seating deduction
+- Venn-diagram counting
+- Placement logic deduction
+- Placement statement check
+- Progress graph comparison
+- Color arrangement counting
+- Population graph inference
+- Graph statement validity
+- Dual-scale graph comparison
+- Figural analogy completion
+- Graph break-even reading
+- Figural rotation series
+- Population age-group graph
+- Logical relation deduction
+- Policy rate graph inference
+- Table data inference
+- Table assumption validity
+- Tax revenue graph inference
+- Cube partition cuts
+- Syllogism conclusion check
+- Grid parallelogram count
+- Set overlap deduction
+- Statement sufficiency check
+- Venn diagram deduction
+- Logical chain elimination
+- Letter sequence fill
+- Denomination combination count
+- Alphabet substitution coding
+- Sequence conditional count
+- Blood-relation deduction
+- Cube face coloring count
+- Natural number partition count
+- Symbol substitution evaluation
+- Ranking order deduction
+- Weight inequality deduction
+- Letter sequence completion
+- Syllogism deduction
+- Sequence pair counting
+- Linear row position count
+- Age-ordering deduction
+- Letter-number coding
+- Letter analogy series
+- Table rate comparison
+- Denomination subset counting
+- Constrained permutation count
+- Syllogism conclusion selection
+- Mirror-image consonant count
+- Digit-sum integer count
+- Multi-attribute classification
+- Matrix trend missing entry
+- Dual-sequence missing entry
+- Venn set overlap range
+- Alphabet reversal position coding
+- Table run-rate comparison
+- Fractional set deduction
+- Multi-conclusion syllogism
+- Letter-substitution coding
+- Chessboard diagonal count
+- Series blank-fill pattern
+- Restricted digit arrangement
+- Non-consecutive selection count
+- Pie-chart sector angle
+- Digit row arrangement count
+- Alphabet reversal coding
+- Elimination match counting
+- Odd digit counting
+- Letter arrangement counting
+- Route combination counting
+- Letter series position
+- Queue minimum size
+- Blood relation deduction
+- Two-statement syllogism
+- Three-statement syllogism
+- Circular seating arrangement
+- Constrained PIN enumeration
+- Circle inscribed triangle count
+- Pie chart percentage
+- Constrained password count
+- Grid row arrangement count
+- Form constraint number count
+- Worst-case pair selection
+- Score partition counting
+- Derangement possibility check
+- Interior cube count
+- Position-constrained permutation
+- Symbol operation decode
+- Collinearity-aware triangle count
+- Worst-case colour group draw
+- Letter-shift cipher decode
+- Statement-based age ranking
+- Family-relation statement sufficiency
+- Prime-group odd-one-out
+- Circular consecutive selection count
+- Circular pass-sequence return
+- Sequence middle term
+- Integer-constraint solution count
+- Adjacent-colour stripe count
+- Constrained assignment count
+- Weighing-coin optimisation
+- Coded relational chain deduction
+- Repeating pattern gap fill
+- True-false logic deduction
+- Conditional logic conclusion
+- Painted cuboid partition count
+- Reverse alphabetical position count
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -169,3 +169,30 @@ can exclude precisely those with unstable incomes and residence.
   quality.
 - ✅ `22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` — productive pathways
   out of poverty.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2020, 2022
+- **Paper(s):** GS-III
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-III | 11 | Inclusive growth strategy for inclusiveness and sustainability objectives | Comment · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-III | 1 | Intra and inter-generational equity in inclusive growth | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 2 | Financial inclusion and inclusive growth under market economy | State · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 5 | Community health challenges from rising life expectancy in India | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Inclusive growth strategy for inclusiveness and sustainability objectives
+- Intra and inter-generational equity in inclusive growth
+- Financial inclusion and inclusive growth under market economy
+- Community health challenges from rising life expectancy in India
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

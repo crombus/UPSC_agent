@@ -81,3 +81,29 @@
 - ⚠️ GS-1: Explain how Gandhi transformed Indian nationalism by combining moral authority, local grievances and mass mobilisation.
 - ⚠️ GS-1: Assess the role of Rowlatt Satyagraha and Jallianwala Bagh in ending constitutional faith in British justice.
 - ⚠️ GS-1: Compare Gandhi's early local satyagrahas with later all-India movements in method and scale.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 69 | Champaran Satyagraha significance for Indian National Movement | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 14 | Gandhi British colonial era indenture and CDM events | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 14 | Gandhism and Marxism common ideological ground | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Champaran Satyagraha significance for Indian National Movement
+- Gandhi British colonial era indenture and CDM events
+- Gandhism and Marxism common ideological ground
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

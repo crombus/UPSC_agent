@@ -172,3 +172,30 @@ transport costs, tied credit or local buyer concentration remain high.
   risk constraints.
 - ✅ `15_Food-Processing-Cold-Chains-and-Value-Addition.md` — downstream demand and value
   addition.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2020, 2022, 2023
+- **Paper(s):** GS-III
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 4 | Supermarkets in agricultural supply chain and intermediary elimination | Examine · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-III | 3 | Constraints in transport and marketing of agricultural produce | What are · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 13 | Bottlenecks in upstream and downstream agricultural marketing in India | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 3 | e-Technology helping farmers in agricultural production and marketing | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Supermarkets in agricultural supply chain and intermediary elimination
+- Constraints in transport and marketing of agricultural produce
+- Bottlenecks in upstream and downstream agricultural marketing in India
+- e-Technology helping farmers in agricultural production and marketing
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -151,3 +151,25 @@ quantum bit (qubit) -> a superposition state a|0> + b|1>;
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — another frontier-technology mission area.
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` — strategic science/technology mission comparison.
 - ✅ `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — hardware and advanced electronics ecosystem context.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2022 | Prelims GS-I | 35 | Qubit concept in quantum computing context | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Qubit concept in quantum computing context
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

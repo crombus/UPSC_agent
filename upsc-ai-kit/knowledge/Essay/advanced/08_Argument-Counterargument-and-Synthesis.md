@@ -157,3 +157,32 @@ three sentences total.
 ("life as journey, not destination") on a separate occasion, and check
 whether your switching condition is concrete and specific in both cases;
 log any vagueness in `16`'s error log.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Essay
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Essay | 3 | Best for an individual is not necessarily best for the society | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 6 | Social justice and economic prosperity as mutually dependent | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2021 | Essay | 8 | There are better practices to best practices | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2022 | Essay | 8 | Having a choice does not mean any of them has to be right | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 1 | Thinking as a game that needs an opposite team | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+
+### What this owner must now support
+
+- Best for an individual is not necessarily best for the society
+- Social justice and economic prosperity as mutually dependent
+- There are better practices to best practices
+- Having a choice does not mean any of them has to be right
+- Thinking as a game that needs an opposite team
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

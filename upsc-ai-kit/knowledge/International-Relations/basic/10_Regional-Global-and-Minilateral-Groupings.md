@@ -299,3 +299,45 @@ obligations of membership — a distinction UPSC tests directly.
   SCO's Central Asia/connectivity role; topic 08 for the Global South/BRICS
   distinction; topic 12 for G20's global-governance linkage to UN/Bretton Woods
   institutions.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2020, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 11
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 7 | Nuclear Suppliers Group membership consequences for a country | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 33 | India IAEA Additional Protocol ratification and implications | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 34 | ASEAN free-trade partner countries identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 90 | Separatist regional areas matched with correct countries in news | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 65 | G20 member countries identification and groupings | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 66 | India membership in AIIB MTCR and SCO groupings | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 83 | Organization of Turkic States member countries identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 87 | Countries recent political events Chad Guinea Lebanon Tunisia | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 87 | USA EU Trade and Technology Council launch objectives | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 89 | EU Stability and Growth Pact budgetary deficit obligations | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 100 | G-20 origin as Finance Ministers platform India priorities | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Nuclear Suppliers Group membership consequences for a country
+- India IAEA Additional Protocol ratification and implications
+- ASEAN free-trade partner countries identification
+- Separatist regional areas matched with correct countries in news
+- G20 member countries identification and groupings
+- India membership in AIIB MTCR and SCO groupings
+- Organization of Turkic States member countries identification
+- Countries recent political events Chad Guinea Lebanon Tunisia
+- USA EU Trade and Technology Council launch objectives
+- EU Stability and Growth Pact budgetary deficit obligations
+- G-20 origin as Finance Ministers platform India priorities
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

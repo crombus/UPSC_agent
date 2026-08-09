@@ -1,6 +1,8 @@
 # Environment and Ecology - Knowledge Base Index
 
-> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — central routing only, not topic-file integration.
+>
+> **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 > **Subject:** Environment and Ecology | **GS Paper:** GS-III (Environment), with GS-II
 > (governance/institutions/international relations), GS-I (Geography linkage) and Prelims

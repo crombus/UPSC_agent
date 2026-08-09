@@ -174,3 +174,41 @@ heat/temperature -> waves -> sound -> light/optics -> electricity/magnetism
 - ✅ `23_General-Science-Biology-and-Physiology.md` — radiation, imaging and biophysical applications intersect with life sciences.
 - ✅ `04_Nuclear-Power-and-Three-Stage-Programme.md` — nuclear reactions and radiation in policy context.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` and `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — advanced applications of the modern-physics ideas introduced here.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 9
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 62 | Einstein General Theory of Relativity key scientific predictions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 97 | Black hole merger and gravitational waves observation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 39 | Visible Light Communication VLC technology properties and range | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 68 | Pressure cooker temperature and physics principles | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 72 | Sodium lamps versus LED lamps street lighting | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 76 | Light-year unit for measuring astronomical distances | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 36 | Short-range wireless communication technologies classification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 54 | Accelerometer device functions crash tilt free-fall detection | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 56 | Astronomical objects cepheids nebulae pulsars descriptions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Einstein General Theory of Relativity key scientific predictions
+- Black hole merger and gravitational waves observation
+- Visible Light Communication VLC technology properties and range
+- Pressure cooker temperature and physics principles
+- Sodium lamps versus LED lamps street lighting
+- Light-year unit for measuring astronomical distances
+- Short-range wireless communication technologies classification
+- Accelerometer device functions crash tilt free-fall detection
+- Astronomical objects cepheids nebulae pulsars descriptions
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

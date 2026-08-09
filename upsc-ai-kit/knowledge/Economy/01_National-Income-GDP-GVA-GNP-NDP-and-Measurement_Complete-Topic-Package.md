@@ -43,6 +43,56 @@ concepts follow the income of normal residents.
 > 🔑 **Mnemonic:** **D = Domestic territory; N = Net of depreciation; National =
 > residents.**
 
+### Concept in plain language
+
+National-income aggregates answer different questions about the same economy:
+
+1. **Where was production carried out?** GDP and NDP use the domestic-territory
+   test. Production inside India enters India's GDP even when the producer is a
+   foreign-owned enterprise.
+2. **Whose income is being measured?** GNP and NNP use the normal-residence test.
+   They adjust GDP by net factor income from abroad (NFIA).
+3. **Has capital wear and tear been deducted?** Gross measures have not deducted
+   depreciation; net measures have.
+4. **Are we valuing output at producer or purchaser prices?** GVA at basic prices
+   focuses on producer value added, while GDP at market prices includes net
+   product taxes paid in the purchaser's price.
+
+These are not competing measures. Each changes one boundary or valuation rule so
+that the analyst can answer a more precise question.
+
+### Worked conversion ladder
+
+Assume the following simplified values:
+
+| Item | Value |
+|---|---:|
+| GDP at market prices | 1,000 |
+| Product taxes | 120 |
+| Product subsidies | 20 |
+| Depreciation | 80 |
+| NFIA | -30 |
+
+Step-by-step:
+
+```text
+Net product taxes = 120 - 20 = 100
+GVA at basic prices = GDP at market prices - net product taxes
+                    = 1,000 - 100 = 900
+
+NDP at market prices = GDP at market prices - depreciation
+                     = 1,000 - 80 = 920
+
+GNP at market prices = GDP at market prices + NFIA
+                     = 1,000 - 30 = 970
+
+NNP at market prices = GNP at market prices - depreciation
+                     = 970 - 80 = 890
+```
+
+The negative NFIA means residents paid more factor income abroad than they
+received from abroad. Therefore, GNP is lower than GDP in this example.
+
 ## 3. GDP and GVA
 
 ```text
@@ -67,6 +117,20 @@ GVA at basic prices
 The three approaches should theoretically converge because one person's
 expenditure becomes another person's income and corresponds to produced output.
 
+### Why the three methods describe the same activity
+
+Suppose a bakery produces bread worth ₹50. On the **production side**, the
+bakery's contribution is its value added after subtracting flour and other
+intermediate inputs. On the **income side**, that value added becomes wages,
+rent, interest, profit and mixed income. On the **expenditure side**, the final
+purchase of bread is consumption expenditure. The same production event is
+therefore observed from three accounting windows.
+
+In actual estimates, the totals do not match perfectly because surveys,
+administrative records, timing conventions and informal-sector estimates differ.
+The residual is shown as a statistical discrepancy; it is not a fourth source of
+economic output.
+
 ## 5. Nominal and real GDP
 
 | Measure | Prices used | Best use |
@@ -76,6 +140,16 @@ expenditure becomes another person's income and corresponds to produced output.
 | GDP deflator | Ratio of nominal to real GDP | Broad domestic price movement |
 
 `GDP deflator = (Nominal GDP / Real GDP) x 100`
+
+### Worked price-volume example
+
+If nominal GDP rises from 100 to 112 while the GDP deflator rises from 100 to
+108, most of the increase is not additional physical output. Real GDP in the
+second period is approximately `112 / 1.08 = 103.7`. Thus nominal growth is 12%,
+but real output growth is only about 3.7%.
+
+This distinction is central to UPSC questions: **nominal GDP measures output at
+current prices, whereas real GDP attempts to isolate volume change**.
 
 ## 6. What is included and excluded?
 
@@ -296,6 +370,16 @@ GDP growth
 - ⚠️ HDI, IHDI, MPI, employment and environmental accounts complement GDP; they
   do not replace the need to measure production.
 
+### How to evaluate GDP without dismissing it
+
+The correct conclusion is not that GDP is useless. GDP remains indispensable for
+tracking production, business cycles, tax capacity, debt ratios and sectoral
+change. The limitation is narrower: GDP cannot by itself reveal who received the
+income, whether jobs were secure, whether unpaid care increased, or whether
+natural wealth was depleted. A balanced answer therefore uses GDP as the
+production anchor and adds distributional, employment, human-development and
+environmental indicators.
+
 ## 9. Advanced Prelims traps
 
 - ❌ NFIA equals all remittances. -> Personal transfers and primary income differ.
@@ -375,132 +459,268 @@ distinctions and test output against jobs, distribution and sustainability.
 
 ## Solved topic-specific MCQs
 
-### Q1. Which statement correctly resolves this common misconception: "Every market transaction raises current GDP."?
+### Q1. Which statement correctly resolves the claim that every market transaction raises current GDP?
 - A. Resale of an old asset does not.
 - B. Every market transaction raises current GDP.
 - C. A pension payment directly adds to GDP.
 - D. Higher nominal GDP always means more output.
 **Answer: A**
-**Explanation:** Resale of an old asset does not.
+**Explanation:** GDP records current production. Reselling an existing house or
+machine merely transfers ownership; only a current service such as brokerage is
+included.
 
-### Q2. Which statement correctly resolves this common misconception: "A pension payment directly adds to GDP."?
+### Q2. Why does a pension payment not directly add to current GDP?
 - A. A pension payment directly adds to GDP.
 - B. It is a transfer payment.
 - C. Higher nominal GDP always means more output.
 - D. GDP measures national welfare.
 **Answer: B**
-**Explanation:** It is a transfer payment.
+**Explanation:** A pension redistributes purchasing power without receiving a
+currently produced good or service in exchange. Any later consumption financed
+by that pension enters GDP through the purchased output.
 
-### Q3. Which statement correctly resolves this common misconception: "Higher nominal GDP always means more output."?
+### Q3. Nominal GDP increases by 10% while the relevant price level increases by 7%. Which conclusion is most appropriate?
 - A. Higher nominal GDP always means more output.
 - B. GDP measures national welfare.
 - C. It may reflect inflation.
 - D. GNP must always exceed GDP.
 **Answer: C**
-**Explanation:** It may reflect inflation.
+**Explanation:** Nominal GDP combines price and volume changes. The data are
+consistent with only a modest increase in real output; a deflator is needed
+before interpreting the rise as production growth.
 
-### Q4. Which statement correctly resolves this common misconception: "GDP measures national welfare."?
+### Q4. Which statement best describes the relationship between GDP and welfare?
 - A. GDP measures national welfare.
 - B. GNP must always exceed GDP.
 - C. NFIA equals all remittances.
-- D. It measures production, not distribution,
+- D. GDP measures production but not distribution, unpaid work or ecological loss.
 **Answer: D**
-**Explanation:** It measures production, not distribution,
+**Explanation:** GDP is a production aggregate. Welfare analysis requires
+additional information on income distribution, employment, capabilities,
+unpaid care, safety and environmental sustainability.
 
-### Q5. Which statement correctly resolves this common misconception: "GNP must always exceed GDP."?
+### Q5. When can GDP exceed GNP?
 - A. It depends on the sign of NFIA.
 - B. GNP must always exceed GDP.
 - C. NFIA equals all remittances.
 - D. GVA at basic prices already includes product taxes.
 **Answer: A**
-**Explanation:** It depends on the sign of NFIA.
+**Explanation:** `GNP = GDP + NFIA`. When factor income paid abroad exceeds
+factor income received from abroad, NFIA is negative and GNP is below GDP.
 
-### Q6. Which statement correctly resolves this common misconception: "NFIA equals all remittances."?
+### Q6. Why should inward personal remittances not automatically be added as NFIA?
 - A. NFIA equals all remittances.
 - B. Personal transfers and primary income differ.
 - C. GVA at basic prices already includes product taxes.
 - D. GDP deflator includes imported production.
 **Answer: B**
-**Explanation:** Personal transfers and primary income differ.
+**Explanation:** NFIA concerns primary or factor income associated with labour
+and capital. Personal transfers are recorded separately in external accounts and
+cannot all be treated as compensation or property income.
 
-### Q7. Which statement correctly resolves this common misconception: "GVA at basic prices already includes product taxes."?
+### Q7. Which adjustment converts GVA at basic prices into GDP at market prices?
 - A. GVA at basic prices already includes product taxes.
 - B. GDP deflator includes imported production.
-- C. Product taxes are
+- C. Add product taxes and subtract product subsidies.
 - D. Every market transaction raises current GDP.
 **Answer: C**
-**Explanation:** Product taxes are
+**Explanation:** The purchaser's market price includes product taxes and is
+reduced by product subsidies. Therefore, `GDP at market prices = GVA at basic
+prices + product taxes - product subsidies`.
 
-### Q8. Which statement correctly resolves this common misconception: "GDP deflator includes imported production."?
+### Q8. Why does the GDP deflator exclude imported production?
 - A. GDP deflator includes imported production.
 - B. Every market transaction raises current GDP.
 - C. A pension payment directly adds to GDP.
 - D. It covers domestic output.
 **Answer: D**
-**Explanation:** It covers domestic output.
+**Explanation:** The GDP deflator is derived from nominal and real GDP, both of
+which measure domestically produced final output. Imported goods can enter the
+CPI basket but are not domestic production.
+
+### Q9. A farmer sells wheat for 20, a miller sells flour for 35, and a baker sells bread to consumers for 50. What is the contribution to GDP?
+- A. 50, equal to final output or the sum of value added.
+- B. 105, equal to all recorded sales.
+- C. 85, after removing the farmer's sale.
+- D. 15, equal only to the baker's value added.
+**Answer: A**
+**Explanation:** Counting all sales would count intermediate wheat and flour
+again. GDP is either the final bread value of 50 or value added of
+`20 + 15 + 15 = 50`.
+
+### Q10. Which change directly converts a gross aggregate into its corresponding net aggregate?
+- A. Add NFIA.
+- B. Subtract consumption of fixed capital.
+- C. Subtract imports.
+- D. Add product taxes.
+**Answer: B**
+**Explanation:** Gross measures include depreciation. Deducting consumption of
+fixed capital gives the corresponding net measure, such as GDP to NDP.
+
+### Q11. A large unintended accumulation of inventories can indicate:
+- A. Strong household welfare by definition.
+- B. A rise in NFIA.
+- C. Production exceeding realised demand.
+- D. A fall in nominal GDP by definition.
+**Answer: C**
+**Explanation:** Inventory accumulation enters investment, but unintended stocks
+may signal that firms produced more than consumers purchased. Interpretation
+therefore requires demand and business-cycle context.
+
+### Q12. Which combination is best for judging whether GDP growth is inclusive and sustainable?
+- A. GDP growth alone.
+- B. Nominal GDP and the exchange rate alone.
+- C. GDP deflator and WPI alone.
+- D. Real per-capita output with employment, distribution, human-development and environmental indicators.
+**Answer: D**
+**Explanation:** GDP supplies the production anchor, while the accompanying
+indicators test whether growth improved livelihoods, capabilities and future
+productive capacity.
 
 ## Solved answer-writing practice
 
-- **10 marks:** Explain the central concepts and distinctions in National Income: GDP, GVA, GNP, NDP and Measurement.
-- **15 marks:** Analyse National Income: GDP, GVA, GNP, NDP and Measurement with applications and limitations.
-- **20 marks:** Critically examine National Income: GDP, GVA, GNP, NDP and Measurement and provide a balanced judgement.
+### 10 marks — Explain the central distinctions among GDP, GVA, GNP and NDP. Answer in 150 words.
+
+**Model solution**
+
+National-income aggregates differ by production boundary, income ownership,
+capital consumption and valuation.
+
+- **GDP** measures final output produced within domestic territory.
+- **GVA** measures producer value added: output minus intermediate consumption.
+  GDP at market prices is obtained by adding product taxes and subtracting
+  product subsidies from GVA at basic prices.
+- **GNP** shifts from territory to normal residents by adding net factor income
+  from abroad to GDP.
+- **NDP** deducts depreciation from GDP and therefore indicates output net of
+  fixed-capital consumption.
+
+The distinctions prevent analytical errors. GDP and GVA may grow differently
+when net product taxes change; GDP may exceed GNP when NFIA is negative; and a
+gross measure can overstate the output available after replacing worn-out
+capital. Thus, UPSC answers should identify whether the question concerns
+location, residence, valuation or depreciation before selecting an aggregate.
+
+### 15 marks — Explain the three methods of measuring national income and the practical reasons for statistical discrepancy. Answer in 250 words.
+
+**Model solution**
+
+National income can be measured through production, income and expenditure
+because each method observes the same circular flow from a different side.
+
+**Production method:** It sums value added across activities. Intermediate
+consumption is deducted from output to avoid double counting. It is especially
+useful for sectoral GVA, but informal production and suitable deflators are
+difficult to estimate.
+
+**Income method:** It sums compensation of employees, operating surplus, mixed
+income and relevant production income. It shows how value added is distributed
+among factors, but under-reporting and mixed household-enterprise accounts create
+measurement problems.
+
+**Expenditure method:** It adds private and government final consumption,
+capital formation, inventory change and net exports. Imports are subtracted
+because some domestic expenditure purchases foreign output.
+
+The three estimates should theoretically converge: final expenditure purchases
+produced output, and the value added becomes income. In practice, they use
+different surveys, tax records, company filings, price indices and reporting
+periods. Informal activity, revisions, inventory valuation and timing differences
+produce a statistical discrepancy.
+
+India should reduce—not conceal—the discrepancy through better enterprise and
+household surveys, integrated administrative data, supply-use tables, transparent
+revision schedules and stronger state statistical capacity.
+
+### 20 marks — “GDP growth is necessary but insufficient for judging development.” Critically examine. Answer in 300 words.
+
+**Model solution**
+
+GDP growth remains necessary because it measures the expansion of domestic
+production. Sustained real growth enlarges employment possibilities, tax
+capacity, infrastructure financing and the resources available for welfare.
+Sectoral GVA also reveals structural transformation, while per-capita output
+adjusts aggregate growth for population.
+
+However, GDP is insufficient as a development measure.
+
+1. **Distribution:** Aggregate output can rise while income and wealth gains
+   remain concentrated.
+2. **Employment:** Capital-intensive growth may produce limited or insecure jobs.
+3. **Non-market work:** Unpaid care and household work remain outside the
+   conventional production boundary.
+4. **Human capabilities:** GDP does not directly measure health, learning,
+   nutrition, safety or agency.
+5. **Environment:** Resource depletion and pollution can accompany current
+   output, while defensive or reconstruction expenditure may raise GDP.
+6. **Quality and informality:** Rapid digital change, informal activity and
+   service quality are difficult to capture precisely.
+
+Yet replacing GDP with a single “happiness” measure would also be inadequate.
+Production must still be measured consistently for fiscal, monetary and
+business-cycle policy. The appropriate approach is a dashboard: real per-capita
+GDP and sectoral GVA alongside employment, consumption distribution, HDI/IHDI,
+MPI, gender indicators and environmental or natural-capital accounts.
+
+Therefore, GDP should be treated as the economy's production anchor—not as a
+complete social report card. Development policy succeeds when higher output is
+converted into broad capabilities, decent work and sustainable wealth.
 
 ## Final consolidated register notes
 
-- ✅ GVA shows the contribution of producers and sectors.
-- ✅ GDP at market prices shows the value paid by final purchasers.
-- ⚠️ GDP and GVA growth can differ when net product taxes change sharply.
-- ✅ Final goods and services produced during the accounting period.
-- ✅ Imputed values used under national-accounting rules, where applicable.
-- ✅ Government services valued mainly through production costs.
-- ✅ Intermediate goods when their value is already embedded in final output.
-- ✅ Pure transfer payments because no current good/service is produced in return.
-- ✅ Sale of an existing asset; only current brokerage or service value is added.
-- ✅ Unpaid household work that lies outside the conventional production boundary.
-- ✅ Gross measures include depreciation; net measures deduct it.
-- ✅ GDP can exceed GNP when NFIA is negative.
-- ✅ GDP is territorial; GNP is resident-income based.
-- ✅ Real GDP removes price effects; nominal GDP does not.
-- ✅ GVA is not GDP: net product taxes connect the two.
-- ✅ Imports are subtracted because consumption/investment totals may include
-- ✅ MoSPI released a **new GDP series with base year 2022-23**, replacing 2011-12,
-- ✅ The release provides annual and quarterly estimates from 2022-23; the
-- ⚠️ The FY26 FAE figures above are Survey-period estimates. Always identify the
-- Source: MoSPI press note, 27 February 2026.
-- ⚠️ No direct national-income-measurement question appears in the audited
-- ⚠️ Why GDP growth is necessary but insufficient for development.
-- ⚠️ How base-year and methodology revisions improve measurement but can disrupt
-- ⚠️ Why India needs GDP/GVA data alongside employment, inequality, human
-- ⚠️ **Prelims:** Which adjustment converts GDP at market prices into GVA at basic
-- ⚠️ **Mains (10 marks):** Why can GDP and GVA tell different but complementary
-- ⚠️ **Mains (15 marks):** Explain why a change of national-accounts base year
-- ✅ Advanced companion: ../advanced/01_National-Income-GDP-GVA-and-Measurement.md.
-- ✅ 02_Growth-Development-HDI-IHDI-and-MPI.md — output versus welfare.
-- ✅ 03_Inflation-Price-Indices-and-Business-Cycles.md — deflators and price
-- ✅ 26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md — estimate
-- ✅ **Production taxes/subsidies** relate to production activity.
-- ✅ **Product taxes/subsidies** relate to units of goods/services and bridge GVA
-- ⚠️ A tax cut can narrow GDP growth relative to GVA growth even when underlying
-- ✅ Constant-price estimates separate output-volume change from price change.
-- ✅ Different sectors require suitable deflators; one economy-wide price index
-- ✅ Base-year revision updates prices, weights, databases, classifications and
-- ⚠️ A new series can alter levels and growth rates because both the base and
-- ⚠️ Informal-sector estimation, rapidly changing digital services and quality
-- ⚠️ Per-capita GDP corrects for population size but not inequality.
-- ⚠️ Disaster reconstruction can add to GDP although the original welfare loss
-- ⚠️ Resource depletion may raise current output while reducing future wealth.
-- ⚠️ HDI, IHDI, MPI, employment and environmental accounts complement GDP; they
-- ✅ MoSPI's new national-accounts series uses **2022-23 as base year**, replacing
-- ✅ Estimates from 2022-23 onward were released; a comparable back-series was
-- ⚠️ Do not splice growth levels across the two series without the official
-- More frequent enterprise and household surveys.
-- Better informal-sector and gig/digital-economy measurement.
-- Transparent back-series and revision policy.
-- Satellite accounts for environment, health, care and digital activity.
-- ⚠️ **Prelims:** Differentiate GDP, GVA, GNP, NDP, nominal GDP and real GDP.
-- ⚠️ **Mains:** "India's growth debate should move from the rate of GDP growth to
-- ⚠️ **Mains:** Explain why revisions in base year and national-accounting
-- ✅ Foundation companion: ../basic/01_National-Income-GDP-GVA-and-Measurement.md.
-- ✅ 02_Growth-Development-HDI-IHDI-and-MPI.md — welfare complements to output.
-- ✅ 03_Inflation-Price-Indices-and-Business-Cycles.md — deflators, CPI and WPI.
-- ✅ 26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md — estimates,
+### Identity ladder
+
+- `GDP = C + I + G + (X - M)` on the expenditure side.
+- `GVA = output - intermediate consumption`.
+- `GDP at market prices = GVA at basic prices + product taxes - product subsidies`.
+- `NDP = GDP - depreciation`.
+- `GNP = GDP + NFIA`.
+- `NNP = GNP - depreciation`.
+
+### Boundary rules
+
+- **Domestic** follows the location of production; **national** follows normal
+  residence.
+- **Gross** includes consumption of fixed capital; **net** deducts it.
+- Final output is counted; intermediate inputs are excluded when embedded in
+  final value.
+- Transfer payments do not directly represent current production.
+- Resale of an existing asset is excluded, but current brokerage services count.
+- Unpaid household work remains outside the conventional production boundary.
+
+### Measurement logic
+
+- Production, income and expenditure methods observe the same circular flow.
+- Value-added accounting prevents double counting.
+- Imports are deducted because consumption and investment can include foreign
+  production.
+- Statistical discrepancy arises from different data sources, timing and
+  estimation—not from extra output.
+
+### Prices and growth
+
+- Nominal GDP uses current prices; real GDP removes estimated price effects.
+- The GDP deflator covers domestically produced final output and is not a
+  cost-of-living index.
+- A base-year revision updates prices, weights, classifications, sources and
+  coverage; comparisons require a consistent back-series.
+- Quote the base year, reference period and estimate vintage with current data.
+
+### Interpretation and welfare
+
+- GDP and GVA can diverge when net product taxes change.
+- GDP may exceed GNP when NFIA is negative.
+- Per-capita GDP adjusts for population but not inequality.
+- GDP measures production, not the complete welfare consequences of production.
+- Use GDP with employment, distribution, HDI/IHDI, MPI and environmental
+  indicators.
+
+### Current anchor and answer spine
+
+- ✅ MoSPI released the new national-accounts series with base year 2022-23 on
+  27 February 2026, replacing 2011-12.
+- ⚠️ Do not splice old- and new-series levels without an official comparable
+  back-series.
+- **Mains spine:** define the aggregate → state the accounting identity → explain
+  the analytical use → identify the measurement limit → add complementary
+  indicators → conclude with a balanced judgement.

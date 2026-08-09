@@ -178,3 +178,34 @@ service design, and calibrated facilitation — not personal adjectives.
 - ✅ `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — Nolan principles compared.
 - ✅ `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — the transfer-industry problem.
 - ✅ `17_Citizens-Charters-Work-Culture-and-Service-Delivery.md` — enabler-facilitator service design.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2021
+- **Paper(s):** GS-IV
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 1 | (a) three basic values universal in civil services and their importance; (b) distinction between code of ethics and code of conduct | Describe/Distinguish · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 3 | (a) conflict of interest - actual vs potential with examples; (b) Warren Buffett quote on integrity intelligence and energy for hiring | Illustrate/Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 1 | (a) basic principles of public life with examples; (b) meaning of public servant and expected role | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 7 | Rescue officer in severe natural calamity - team members assaulted by angry crowd - some plead to call off operations; what will be your response and what qualities of public servant are required | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 1 | (a) five ethical traits for plotting civil servant performance on a matrix; (b) ten essential values for effective public servant and means to prevent non-ethical behaviour | Identify / Describe · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 5 | (a) refugees must not be returned to face persecution - examine ethical dimensions violated by nations claiming to be democratic; (b) impartiality and non-partisanship as indispensable civil servant qualities | Examine / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) three basic values universal in civil services and their importance; (b) distinction between code of ethics and code of conduct
+- (a) conflict of interest - actual vs potential with examples; (b) Warren Buffett quote on integrity intelligence and energy for hiring
+- (a) basic principles of public life with examples; (b) meaning of public servant and expected role
+- Rescue officer in severe natural calamity - team members assaulted by angry crowd - some plead to call off operations; what will be your response and what qualities of public servant are required
+- (a) five ethical traits for plotting civil servant performance on a matrix; (b) ten essential values for effective public servant and means to prevent non-ethical behaviour
+- (a) refugees must not be returned to face persecution - examine ethical dimensions violated by nations claiming to be democratic; (b) impartiality and non-partisanship as indispensable civil servant qualities
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

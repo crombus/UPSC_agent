@@ -31,3 +31,25 @@ and two ECs have **equal powers** and decide differences by **majority**.
 📰 **CEC & Other ECs Appointment Act 2023** replaced the CJI on the selection panel with a Union Minister (PM +
 Minister + LoP) — **SC challenge ongoing in 2026**; CEC **Gyanesh Kumar** appointed Feb 2025. **Electoral bonds
 struck down (Feb 2024)**; **One Nation One Election** debate live.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2021 | Prelims GS-I | 80 | Candidate contesting from multiple Lok Sabha constituencies | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Candidate contesting from multiple Lok Sabha constituencies
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

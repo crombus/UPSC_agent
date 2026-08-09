@@ -210,3 +210,36 @@ review, precautionary assessment and capability-linked responsibility-sharing.
 - ✅ `Science-and-Technology/basic/09_Artificial-Intelligence-Governance-and-IndiaAI.md` — AI policy detail.
 - ✅ `Environment-and-Ecology/basic/16_Environmental-Impact-Assessment-and-NGT.md` and
   `Environment-and-Ecology/basic/19_UNFCCC-COP-Kyoto-Paris-Agreement.md` — full statutory/treaty depth.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 7
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 5 | (a) government dam construction in forest valley inhabited by ethnic communities - rational policy for unforeseen contingencies; (b) process of resolving ethical dilemmas in public administration | Suggest/Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 10 | Corporate chemical factory ordered closed after pollution protests and public agitation; closure causes unemployment in workers and ancillary units; address as senior officer | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 5 | (a) main factors for gender inequality in India and Savitribai Phule contribution; (b) internet expansion instilling cultural values in conflict with traditional values | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 2 | (a) digital technology as reliable input for rational decision making - critically evaluate; (b) innovativeness and creativity in resolving ethical dilemmas | Critically evaluate / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 4 | (a) good governance and e-governance initiatives for beneficiaries; (b) ethical issues in online methodology affecting vulnerable sections of society | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 12 | Case on Environment Pollution Control Board officer enforcing industrial environmental compliance despite resistance and threats | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2023 | GS-IV | 12 | Case on senior government official managing son's cyberbullying and posting a counter-video on social media | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+
+### What this owner must now support
+
+- (a) government dam construction in forest valley inhabited by ethnic communities - rational policy for unforeseen contingencies; (b) process of resolving ethical dilemmas in public administration
+- Corporate chemical factory ordered closed after pollution protests and public agitation; closure causes unemployment in workers and ancillary units; address as senior officer
+- (a) main factors for gender inequality in India and Savitribai Phule contribution; (b) internet expansion instilling cultural values in conflict with traditional values
+- (a) digital technology as reliable input for rational decision making - critically evaluate; (b) innovativeness and creativity in resolving ethical dilemmas
+- (a) good governance and e-governance initiatives for beneficiaries; (b) ethical issues in online methodology affecting vulnerable sections of society
+- Case on Environment Pollution Control Board officer enforcing industrial environmental compliance despite resistance and threats
+- Case on senior government official managing son's cyberbullying and posting a counter-video on social media
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -31,3 +31,25 @@ Ministers at 15%**. The **Speaker** decides, but courts can review (**Kihoto Hol
 📰 **Speaker's delay** in deciding petitions (Maharashtra Shiv Sena split, 2022) is the big criticism. **Keisham
 Meghachandra (2020):** SC urged an **independent tribunal** and a ~3-month decision limit. "Resign-and-recontest"
 loophole used to topple governments (Karnataka/MP).
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2022 | Prelims GS-I | 16 | Anti-defection law provisions for nominated legislators | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Anti-defection law provisions for nominated legislators
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

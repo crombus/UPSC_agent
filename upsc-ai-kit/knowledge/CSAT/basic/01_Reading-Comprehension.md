@@ -201,3 +201,232 @@ contradicts "necessary"; (b) fixes on one detail; (d) is out-of-passage.
 - ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - the "is it sufficient?" mindset
   mirrors "is it supported?" here.
 - ✅ [Master Framework](../00_Master-Framework.md) - the passage workflow and the passage-only error code (P).
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-CSAT-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** CSAT
+- **Routed question demands:** 162
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | CSAT | 7 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 8 | Passage corollary | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 9 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 10 | Passage author's intent | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 17 | Passage detail inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 18 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 19 | Passage critical factor | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 20 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 27 | Passage consequence inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 28 | Passage inference validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 29 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 30 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 31 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 32 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 33 | Passage author's view | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 49 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 50 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 51 | Passage implication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 52 | Passage implication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 53 | Passage central message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 54 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 55 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 56 | Passage central message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 78 | Passage central message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 79 | Passage central message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 80 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 1 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 2 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 3 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 4 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 5 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 6 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 7 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 8 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 21 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 22 | Passage corollary | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 23 | Passage implication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 24 | Passage corollary | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 25 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 26 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 27 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 28 | Passage central message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 41 | Passage central message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 42 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 43 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 44 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 45 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 46 | Passage implication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 47 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 61 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 62 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 63 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 64 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 65 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 66 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 67 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 1 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 2 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 3 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 4 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 5 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 6 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 21 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 22 | Passage implication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 23 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 24 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 25 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 26 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 27 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 41 | Passage critical inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 42 | Passage implication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 43 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 44 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 45 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 46 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 61 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 62 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 63 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 64 | Passage assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 65 | Passage critical inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2020 | CSAT | 66 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 1 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 2 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 3 | Passage crux identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 4 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 11 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 12 | Passage compatibility inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 13 | Passage critical inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 14 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 21 | Passage critical message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 22 | Passage critical message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 23 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 24 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 31 | Passage logical assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 32 | Passage logical inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 33 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 34 | Passage crux identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 41 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 42 | Passage implication selection | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 43 | Passage logical suggestion | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 44 | Passage corollary | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 51 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 52 | Passage logical inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 61 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 62 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 71 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 72 | Passage idea identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 73 | Passage habit inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 1 | Passage cause inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 2 | Passage statement validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 3 | Passage consequence inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 11 | Passage central message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 12 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 13 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 14 | Passage phrase meaning | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 21 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 22 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 23 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 31 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 32 | Passage author argument | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 33 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 34 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 41 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 42 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 43 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 44 | Passage inference validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 51 | Passage tone | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 52 | Passage statement accuracy | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 53 | Passage author stance | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 61 | Passage implication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 62 | Passage central idea | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 63 | Passage statement accuracy | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 71 | Passage author assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 72 | Passage inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2022 | CSAT | 73 | Passage solution inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 1 | Passage best-action inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 2 | Passage implied statement | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 3 | Passage logical message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 11 | Passage crucial message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 12 | Passage rational assumption | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 13 | Passage crux inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 21 | Passage logical implication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 22 | Passage logical inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 23 | Passage rational inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 31 | Passage assumption check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 32 | Passage crux inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 33 | Passage assumption check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 34 | Passage practical message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 35 | Passage multi-assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 41 | Passage assumption check | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 42 | Passage crucial message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 43 | Passage logical message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 51 | Passage logical message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 52 | Passage practical message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 53 | Passage crux inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 61 | Passage central message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 62 | Passage solution implication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 63 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 64 | Passage assumption validity | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 71 | Passage implied message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 72 | Passage rational message | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 73 | Passage goal inference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+
+### What this owner must now support
+
+- Passage inference
+- Passage corollary
+- Passage author's intent
+- Passage detail inference
+- Passage assumption validity
+- Passage critical factor
+- Passage central idea
+- Passage consequence inference
+- Passage inference validity
+- Passage author's view
+- Passage implication
+- Passage central message
+- Passage assumption
+- Passage critical inference
+- Passage crux identification
+- Passage compatibility inference
+- Passage critical message
+- Passage logical assumption
+- Passage logical inference
+- Passage implication selection
+- Passage logical suggestion
+- Passage idea identification
+- Passage habit inference
+- Passage cause inference
+- Passage statement validity
+- Passage phrase meaning
+- Passage author argument
+- Passage tone
+- Passage statement accuracy
+- Passage author stance
+- Passage author assumption
+- Passage solution inference
+- Passage best-action inference
+- Passage implied statement
+- Passage logical message
+- Passage crucial message
+- Passage rational assumption
+- Passage crux inference
+- Passage logical implication
+- Passage rational inference
+- Passage assumption check
+- Passage practical message
+- Passage multi-assumption validity
+- Passage solution implication
+- Passage implied message
+- Passage rational message
+- Passage goal inference
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

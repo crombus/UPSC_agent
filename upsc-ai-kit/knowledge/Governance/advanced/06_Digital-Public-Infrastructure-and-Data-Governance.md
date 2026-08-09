@@ -204,3 +204,24 @@ correctives alongside the DPDP Act's overlay.
 - ✅ `13_Public-Finance-and-Service-Delivery-Tools.md` — Aadhaar-linked DBT/JAM fund flows.
 - ✅ `Polity/advanced/07_Fundamental-Rights.md` — the Puttaswamy right-to-privacy foundation
   (Polity owns this constitutional dimension).
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2021
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2021 | GS-II | 16 | Digital illiteracy in rural areas and access to information | Examine with justification · 15 marks · 250 words | Routed to owning topic; printed stem partly truncated in scan | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Digital illiteracy in rural areas and access to information
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

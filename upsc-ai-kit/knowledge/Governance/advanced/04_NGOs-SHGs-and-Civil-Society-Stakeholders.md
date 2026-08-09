@@ -202,3 +202,30 @@ proportionate financial-transparency safeguards.
   participation.
 - ✅ `Polity/advanced/44_Pressure-Groups.md` — the constitutional/typological composition of
   pressure groups (Polity owns this detail).
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2020, 2021, 2023
+- **Paper(s):** GS-II
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-II | 17 | Micro-finance as an anti-poverty instrument and the role of SHGs | Evaluate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 8 | Microfinancing of women SHGs against gender inequality poverty and malnutrition | Explain with examples · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 18 | Civil society and NGOs as an alternative public service delivery model | Discuss the challenges · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 14 | Civil society groups and women's representation in state legislatures | Discuss the contribution · 15 marks · 250 words | Cross-cutting; gender representation and civil society both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Micro-finance as an anti-poverty instrument and the role of SHGs
+- Microfinancing of women SHGs against gender inequality poverty and malnutrition
+- Civil society and NGOs as an alternative public service delivery model
+- Civil society groups and women's representation in state legislatures
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

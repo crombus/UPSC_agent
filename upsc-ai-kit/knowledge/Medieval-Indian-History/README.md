@@ -1,5 +1,8 @@
 # Medieval Indian History — Knowledge Base Index
 
+> **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 
 > **Subject:** History → **Medieval Indian History** · **GS Paper:** GS-I (Medieval India, Art & Culture) + Prelims.

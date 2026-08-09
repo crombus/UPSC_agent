@@ -226,3 +226,34 @@ transfer policy, and a check on the investigating agencies themselves.
   the bona fides test.
 - ✅ `14_Probity-Concept-and-Philosophical-Basis-of-Governance.md` — the risk-graded-scrutiny design
   principle.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-IV | 8 | Civil servants implicated and imprisoned for bonafide mistakes - moral fibre of civil services rattled; how this trend affects functioning and measures to protect honest officers | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 10 | Municipal Commissioner: mall collapse causing deaths; corruption nexus between officials and builder; POSH threat by minister relative; ethical issues and selected course of action | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 7 | Sunil in tribal district combats illegal sand mining mafia and faces violence threats - (a) options available; (b) evaluate each option; (c) most appropriate course of action | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 6 | (a) policy measures to strengthen whistle-blower protection mechanism; (b) corporate social responsibility in contemporary corporate world | Suggest (a); Critically examine (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 8 | Case on a state civil service officer directed to withdraw confidential report on illegal migrant infiltration | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2023 | GS-IV | 10 | Case on honest IAS officer as SRTC MD facing corrupt politically powerful Chairman and pressure from Opposition party | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+
+### What this owner must now support
+
+- Civil servants implicated and imprisoned for bonafide mistakes - moral fibre of civil services rattled; how this trend affects functioning and measures to protect honest officers
+- Municipal Commissioner: mall collapse causing deaths; corruption nexus between officials and builder; POSH threat by minister relative; ethical issues and selected course of action
+- Sunil in tribal district combats illegal sand mining mafia and faces violence threats - (a) options available; (b) evaluate each option; (c) most appropriate course of action
+- (a) policy measures to strengthen whistle-blower protection mechanism; (b) corporate social responsibility in contemporary corporate world
+- Case on a state civil service officer directed to withdraw confidential report on illegal migrant infiltration
+- Case on honest IAS officer as SRTC MD facing corrupt politically powerful Chairman and pressure from Opposition party
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

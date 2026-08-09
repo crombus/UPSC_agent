@@ -1,6 +1,8 @@
 # Indian Economy - Knowledge Base Index
 
-> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — central routing only, not topic-file integration.
+>
+> **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 > **Subject:** Economy | **GS Paper:** GS-III, with GS-II welfare/governance links and Prelims.
 > **Spine:** Ramesh Singh, *Indian Economy* + Economic Survey 2025-26 + audited UPSC Economy PYQs (2024-2026 Prelims; 2024-2025 Mains).

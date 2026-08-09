@@ -298,3 +298,49 @@ error in an exam answer.
 - ✅ `06_Protected-Area-Network-India.md` — the Tiger Reserve count's conceptual context.
 - ✅ `19_UNFCCC-COP-Kyoto-Paris-Agreement.md` — the COP29/30 climate-finance outcomes'
   conceptual context.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 13
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 86 | Prosopis juliflora invasive plant ecological biodiversity impact | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 31 | Himalayan nettle Girardinia diversifolia sustainable uses | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 72 | Indian elephants ecology gestation calving and state distribution | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 74 | Indian bird species frogmouth barbet minivet redstart identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 77 | Musk deer natural habitat in Himalayan protected areas | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 21 | Plants used as natural mosquito repellents | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 23 | Animals rolling up to protect vulnerable body parts | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 63 | Moringa drumstick tamarind tree properties and uses | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 45 | Himalayan forest fungus species characteristics and cultivation | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 14 | Nocturnal behaviour among Indian fauna species | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 15 | Waggle dance communication in honeybee colonies | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 17 | Indian squirrel nesting food-storage and dietary behaviour | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 19 | Orangutan tool-making behaviour stick scraping insects | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Prosopis juliflora invasive plant ecological biodiversity impact
+- Himalayan nettle Girardinia diversifolia sustainable uses
+- Indian elephants ecology gestation calving and state distribution
+- Indian bird species frogmouth barbet minivet redstart identification
+- Musk deer natural habitat in Himalayan protected areas
+- Plants used as natural mosquito repellents
+- Animals rolling up to protect vulnerable body parts
+- Moringa drumstick tamarind tree properties and uses
+- Himalayan forest fungus species characteristics and cultivation
+- Nocturnal behaviour among Indian fauna species
+- Waggle dance communication in honeybee colonies
+- Indian squirrel nesting food-storage and dietary behaviour
+- Orangutan tool-making behaviour stick scraping insects
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

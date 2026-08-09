@@ -174,3 +174,32 @@ Source: [Ministry of Labour and Employment annual report 2025-26](https://labour
   technical manufacturing demand.
 - ✅ `24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` — platform work and
   algorithmic management.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2022, 2023
+- **Paper(s):** GS-II, GS-III
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2022 | GS-II | 16 | Managing inflation and unemployment beyond welfare schemes | Discuss · 15 marks · 250 words | Cross-cutting; the stem names both inflation and unemployment | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 11 | Labour productivity led growth and job creation pattern suggestion | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 18 | Skill development programmes and links between skill education and employment | Analyse the linkages · 15 marks · 250 words | Cross-cutting; employment and education both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 11 | Structural unemployment in India and computation methodology improvements | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 12 | Distinction between care economy and monetized economy integration | Distinguish · 15 marks · 250 words | Routed to owning topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Managing inflation and unemployment beyond welfare schemes
+- Labour productivity led growth and job creation pattern suggestion
+- Skill development programmes and links between skill education and employment
+- Structural unemployment in India and computation methodology improvements
+- Distinction between care economy and monetized economy integration
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

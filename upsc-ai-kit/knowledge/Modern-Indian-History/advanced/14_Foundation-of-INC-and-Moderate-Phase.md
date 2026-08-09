@@ -87,3 +87,24 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ The key historiographical contrast is between the **safety-valve myth** and the **national-movement thesis**. Bipin Chandra and the *India's Struggle for Independence* framework argue that the Congress was rooted in objective national forces: colonial exploitation, modern education, press, transport, political associations and a new intelligentsia. For PYQs, write that Hume may have hoped to channel discontent, but he neither created Indian nationalism nor controlled its historical direction.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2021
+- **Paper(s):** GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2021 | GS-I | 11 | Role of the Moderates in preparing a base for the wider freedom movement | Comment · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Role of the Moderates in preparing a base for the wider freedom movement
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

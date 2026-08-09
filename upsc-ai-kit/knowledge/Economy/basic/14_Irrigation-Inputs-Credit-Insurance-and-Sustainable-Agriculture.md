@@ -143,3 +143,47 @@ extension, maintenance and market access determine who benefits.
   water use.
 - ✅ `25_Climate-Economics-Green-Finance-and-Circular-Economy.md` — adaptation and climate
   risk.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 12
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 59 | Conservation Agriculture practices minimum tillage and crop rotations | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 39 | Carbofuran phorate triazophos chemical use in agriculture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 59 | District Central Cooperative Banks agricultural credit delivery | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 66 | Kisan Credit Card scheme short-term credit eligible purposes | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 80 | Biochar uses in farming soil microorganisms and water retention | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 83 | Zero tillage benefits for wheat paddy and carbon sequestration | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 89 | Sugarcane cultivation bud chip settlings and tissue culture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 90 | Eco-friendly agriculture practices crop diversification tensiometer | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 91 | Fertigation advantages alkalinity nutrient availability leaching reduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 94 | Chemical fertilizers ammonia source sulphur input and pricing | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 51 | Permaculture farming versus conventional chemical farming | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 59 | Climate-Smart Agriculture CCAFS CGIAR ICRISAT India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Conservation Agriculture practices minimum tillage and crop rotations
+- Carbofuran phorate triazophos chemical use in agriculture
+- District Central Cooperative Banks agricultural credit delivery
+- Kisan Credit Card scheme short-term credit eligible purposes
+- Biochar uses in farming soil microorganisms and water retention
+- Zero tillage benefits for wheat paddy and carbon sequestration
+- Sugarcane cultivation bud chip settlings and tissue culture
+- Eco-friendly agriculture practices crop diversification tensiometer
+- Fertigation advantages alkalinity nutrient availability leaching reduction
+- Chemical fertilizers ammonia source sulphur input and pricing
+- Permaculture farming versus conventional chemical farming
+- Climate-Smart Agriculture CCAFS CGIAR ICRISAT India
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

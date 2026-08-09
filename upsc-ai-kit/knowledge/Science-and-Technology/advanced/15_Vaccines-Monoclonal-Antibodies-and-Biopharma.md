@@ -164,3 +164,26 @@ biomanufacturing—not as a vaccine or monoclonal antibody.
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` — wider biotechnology mission architecture.
 - ✅ `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` — molecular biotech governance in agriculture.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — AI-enabled diagnostics and drug-discovery context.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2022
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 15 | Biotechnology activity in India and biopharma sector benefits | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 16 | Vaccine development principles and Indian COVID-19 vaccine approaches | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Biotechnology activity in India and biopharma sector benefits
+- Vaccine development principles and Indian COVID-19 vaccine approaches
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

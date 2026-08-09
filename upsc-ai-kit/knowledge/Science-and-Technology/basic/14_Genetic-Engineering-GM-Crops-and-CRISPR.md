@@ -146,3 +146,43 @@ Guide RNA identifies target DNA
 - ✅ `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md` — another major application domain of molecular biotechnology.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — emerging AI-biology design and governance intersections.
 - ✅ `../../Environment-and-Ecology/basic/16_Environmental-Impact-Assessment-and-NGT.md` — environmental risk, governance and regulatory process overlaps.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 10
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 63 | GM mustard developed in India genes and properties | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 64 | Technology terms Belle II Blockchain CRISPR-Cas9 context identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 93 | Developments in artificial chromosome and DNA science | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 96 | RNA interference technology applications in medicine and crops | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 99 | Cas9 protein function in molecular gene editing | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 37 | Pronuclear Transfer reproductive technology mitochondrial disease prevention | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 44 | Genetic editing embryo modification and human stem cell transfer | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 66 | Mitochondrial diseases heredity and replacement therapy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 67 | Bollgard I and II genetically modified crop technology | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 70 | Microsatellite DNA use in species evolutionary relationships | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- GM mustard developed in India genes and properties
+- Technology terms Belle II Blockchain CRISPR-Cas9 context identification
+- Developments in artificial chromosome and DNA science
+- RNA interference technology applications in medicine and crops
+- Cas9 protein function in molecular gene editing
+- Pronuclear Transfer reproductive technology mitochondrial disease prevention
+- Genetic editing embryo modification and human stem cell transfer
+- Mitochondrial diseases heredity and replacement therapy
+- Bollgard I and II genetically modified crop technology
+- Microsatellite DNA use in species evolutionary relationships
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

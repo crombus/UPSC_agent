@@ -182,3 +182,40 @@ under 10 minutes, without consulting this file.
 → distribution → dialectic → synthesis) to a hypothetical future
 issue-style prompt (e.g. on automation or misinformation) to confirm the
 method generalises beyond this one audited prompt.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2023
+- **Paper(s):** Essay
+- **Routed question demands:** 9
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Essay | 1 | Alternative technologies for a climate change resilient India | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2018 | Essay | 4 | Management of Indian border disputes as a complex task | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 5 | South Asian societies woven around plural cultures and identities | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 6 | Neglect of primary health care and education as reasons for backwardness | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 7 | Biased media as a real threat to Indian democracy | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2019 | Essay | 8 | Rise of Artificial Intelligence, jobless future or reskilling opportunity | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 7 | Patriarchy as the least noticed structure of social inequality | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2020 | Essay | 8 | Technology as the silent factor in international relations | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2023 | Essay | 5 | Girls weighed down by restrictions and boys by demands | Essay · 125 marks · 1000-1200 words | Method routing only; prompt content is not pre-taught anywhere in this kit | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+
+### What this owner must now support
+
+- Alternative technologies for a climate change resilient India
+- Management of Indian border disputes as a complex task
+- South Asian societies woven around plural cultures and identities
+- Neglect of primary health care and education as reasons for backwardness
+- Biased media as a real threat to Indian democracy
+- Rise of Artificial Intelligence, jobless future or reskilling opportunity
+- Patriarchy as the least noticed structure of social inequality
+- Technology as the silent factor in international relations
+- Girls weighed down by restrictions and boys by demands
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -58,3 +58,24 @@
 - "Money power and opacity threaten Indian democracy." Discuss in light of the Electoral Bonds verdict.
 - Should political parties be brought under the RTI Act? Examine transparency vs autonomy.
 - Regionalisation of the party system: a strength of federal democracy or a source of instability?
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2022
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2022 | GS-II | 13 | National parties favouring centralisation and regional parties State autonomy | Comment · 15 marks · 250 words | Cross-cutting; party system and federal balance both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- National parties favouring centralisation and regional parties State autonomy
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

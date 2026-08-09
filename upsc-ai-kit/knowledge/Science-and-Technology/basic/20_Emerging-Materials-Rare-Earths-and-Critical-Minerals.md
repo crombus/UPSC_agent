@@ -149,3 +149,27 @@ exploration -> mining -> beneficiation / refining -> component manufacturing -> 
 - ✅ `18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md` — EV battery ecosystems are major drivers of critical-mineral demand.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — advanced materials and semiconductor-adjacent capabilities depend on strategic inputs.
 - ✅ `06_Defence-RandD-DRDO-and-Missile-Systems.md` — defence electronics and strategic systems deepen the materials-security argument.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2022 | Prelims GS-I | 28 | Monazite rare earths thorium and government policy India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 53 | Carbon fibre applications in automobiles aircraft recyclability | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Monazite rare earths thorium and government policy India
+- Carbon fibre applications in automobiles aircraft recyclability
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

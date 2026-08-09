@@ -155,3 +155,49 @@ antigen exposure -> immune recognition -> response -> memory
 - ✅ `22_General-Science-Chemistry-Fundamentals.md` — biomolecules begin there as chemistry and deepen here as life processes.
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` — applied biotech architecture.
 - ✅ `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` and `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md` — the applied extensions explicitly separated from this fundamentals file.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 13
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 2 | Desert plant leaf adaptations to inhibit water loss | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 99 | Vectors spreading plant diseases dust rain wind | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 98 | Causes of multi-drug resistance in microbial pathogens | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 100 | Hepatitis B and C virus characteristics versus HIV | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 47 | Plant and animal cell structural differences comparison | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 69 | Microorganisms cultured in artificial synthetic medium | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 70 | Adenoviruses and retroviruses genome structure diseases | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 73 | ACE2 receptor term in viral disease context | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 37 | Biofilm formation on implants food surfaces and resistance | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 38 | Probiotics composition naturally occurring organisms and gut | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 97 | B cells and T cells role in human immune system | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 16 | Properties of mushrooms medicinal psychoactive insecticidal bioluminescent | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 18 | Extreme environment microorganisms thermophiles psychrophiles acidophiles | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Desert plant leaf adaptations to inhibit water loss
+- Vectors spreading plant diseases dust rain wind
+- Causes of multi-drug resistance in microbial pathogens
+- Hepatitis B and C virus characteristics versus HIV
+- Plant and animal cell structural differences comparison
+- Microorganisms cultured in artificial synthetic medium
+- Adenoviruses and retroviruses genome structure diseases
+- ACE2 receptor term in viral disease context
+- Biofilm formation on implants food surfaces and resistance
+- Probiotics composition naturally occurring organisms and gut
+- B cells and T cells role in human immune system
+- Properties of mushrooms medicinal psychoactive insecticidal bioluminescent
+- Extreme environment microorganisms thermophiles psychrophiles acidophiles
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

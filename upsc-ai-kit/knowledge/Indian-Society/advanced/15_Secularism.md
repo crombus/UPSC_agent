@@ -219,3 +219,30 @@ successfully enacted reform faces an ongoing, separate social-implementation cha
   Bhargava's "principled distance," Taylor and Kymlicka theory.
 - ✅ `advanced/04_Family-Marriage-and-Kinship.md` — personal-law plurality's effect on
   interreligious marriage.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2022
+- **Paper(s):** GS-I, GS-II
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-I | 10 | Indian concept of secularism against the western model | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-I | 10 | Cultural practices that challenge secularism | Name and discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-II | 5 | What France can learn from India's approach to secularism | What can it learn · 10 marks · 150 words | Cross-cutting; constitutional guarantee and the secularism concept both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-I | 19 | Tolerance assimilation and pluralism in the Indian form of secularism | Justify your answer · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Indian concept of secularism against the western model
+- Cultural practices that challenge secularism
+- What France can learn from India's approach to secularism
+- Tolerance assimilation and pluralism in the Indian form of secularism
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

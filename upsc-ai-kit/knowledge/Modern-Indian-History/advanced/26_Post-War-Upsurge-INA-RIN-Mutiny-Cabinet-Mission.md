@@ -91,3 +91,24 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ A strong answer should avoid the myth that freedom came only through constitutional negotiation or only through armed pressure. Chandra gives the **INA agitation and RIN revolt** major political significance but explicitly rejects making the British decision a mere response to the winter of 1945–46: imperial legitimacy had been eroded over decades, and the urban upsurges were brief and limited. The balance is: INA/RIN sharpened the endgame; they did not replace mass struggle or independently determine the transfer date.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2019
+- **Paper(s):** GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-I | 12 | British imperial power and the transfer of power in the 1940s | Assess · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- British imperial power and the transfer of power in the 1940s
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -184,3 +184,32 @@ cannot substitute for global climate mitigation.
   that could integrate blue-carbon accounting.
 - ✅ `26_Disaster-Management-Framework-and-Sendai.md` — coastal-erosion and cyclone-risk
   linkages relevant to CRZ buffer-distance debates.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2022, 2023
+- **Paper(s):** GS-I, GS-III
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-I | 7 | Consequences of spreading marine dead zones | What are the consequences · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-I | 5 | Causes of mangrove depletion and their coastal ecology role | Discuss and explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-III | 7 | Coastal sand mining threats and impacts on Indian coasts | Analyse · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 18 | Causes effects and management techniques for coastal erosion India | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 8 | Oil pollution impacts on marine ecosystem and India vulnerability | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Consequences of spreading marine dead zones
+- Causes of mangrove depletion and their coastal ecology role
+- Coastal sand mining threats and impacts on Indian coasts
+- Causes effects and management techniques for coastal erosion India
+- Oil pollution impacts on marine ecosystem and India vulnerability
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

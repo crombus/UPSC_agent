@@ -149,3 +149,25 @@ trusted and socially useful AI deployment
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — digital public infrastructure context.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — another frontier-tech mission with state support.
 - ✅ `12_Data-Protection-DPDP-Act-and-Cybersecurity.md` — data-governance and cyber-risk dimension.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2020
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | Prelims GS-I | 38 | Artificial Intelligence current capabilities in industry and society | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Artificial Intelligence current capabilities in industry and society
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

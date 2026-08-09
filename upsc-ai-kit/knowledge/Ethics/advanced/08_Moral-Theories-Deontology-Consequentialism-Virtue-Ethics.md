@@ -183,3 +183,26 @@ bias in evaluating officials' good-faith decisions.
 - ✅ `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — the moral-luck/vigilance-angle application.
 - ✅ `16_Codes-of-Ethics-and-Codes-of-Conduct.md` — theory-to-code mapping.
 - ✅ `22_Case-Study-Method-and-Answer-Architecture.md` — full applied case-study method.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 4 | (a) permissibility in doing good absent express prohibition in context of public servant; (b) means vs ends morality - which view is more appropriate | Examine/Justify · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 4 | (a) emotional intelligence (EQ) as key to success over cognitive abilities alone; (b) moral intuition vs moral reasoning | Discuss (a); Differentiate (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) permissibility in doing good absent express prohibition in context of public servant; (b) means vs ends morality - which view is more appropriate
+- (a) emotional intelligence (EQ) as key to success over cognitive abilities alone; (b) moral intuition vs moral reasoning
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

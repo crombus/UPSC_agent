@@ -87,3 +87,26 @@
 ## ➕ Historiography note (PYQ-gap)
 
 ⚠️ Historians often identify **1919–20** as the threshold of the Gandhian phase. Nationalist accounts stress Gandhi's moral awakening of the masses; Marxist and subaltern readings ask how peasants and workers interpreted Gandhian idioms in their own ways. A strong answer balances Gandhi's agency with the accumulated discontent produced by war, agrarian distress and colonial repression.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2023
+- **Paper(s):** GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-I | 3 | Significance of Mahatma Gandhi's thought in present times | Throw light on · 10 marks · 150 words | Cross-cutting; historical and ethical anchors both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-I | 2 | Gandhi and Tagore on education and nationalism | What was the difference · 10 marks · 150 words | Cross-cutting; education policy and Gandhian thought both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Significance of Mahatma Gandhi's thought in present times
+- Gandhi and Tagore on education and nationalism
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

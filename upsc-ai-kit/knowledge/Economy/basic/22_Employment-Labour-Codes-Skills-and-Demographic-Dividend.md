@@ -147,3 +147,35 @@ Source: [Ministry of Labour and Employment annual report 2025-26](https://labour
   technical manufacturing demand.
 - ✅ `24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` — platform work and
   algorithmic management.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 49 | Human capital formation concept and its meaning | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 78 | Pradhan Mantri Kaushal Vikas Yojana scope provisions and ministry | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 60 | Fixed-term employment rules under Industrial Employment Act | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 58 | Post-1991 liberalisation rural urban worker productivity trends | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 2 | Casual workers EPF coverage and wage payment | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 71 | Agency compiling industrial disputes data in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Human capital formation concept and its meaning
+- Pradhan Mantri Kaushal Vikas Yojana scope provisions and ministry
+- Fixed-term employment rules under Industrial Employment Act
+- Post-1991 liberalisation rural urban worker productivity trends
+- Casual workers EPF coverage and wage payment
+- Agency compiling industrial disputes data in India
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

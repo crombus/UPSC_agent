@@ -82,3 +82,33 @@
 - ⚠️ GS-1: Discuss how socio-religious reform movements created a social base for modern Indian nationalism.
 - ⚠️ GS-1: Compare reformist and revivalist strategies in nineteenth-century India with examples from Brahmo Samaj and Arya Samaj.
 - ⚠️ GS-1: Examine the role of women, education and caste critique in the making of modern Indian public life.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2021
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 80 | Chronological order of 19th century socio-religious reform events | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 6 | Social reform movement organizations and leaders matching | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 28 | Vital-Vidhvansak journal untouchable audience first publisher | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 32 | Rakhmabai case 1884 women's rights age of consent | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 46 | Bethune Female School secretary social reform Calcutta | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Chronological order of 19th century socio-religious reform events
+- Social reform movement organizations and leaders matching
+- Vital-Vidhvansak journal untouchable audience first publisher
+- Rakhmabai case 1884 women's rights age of consent
+- Bethune Female School secretary social reform Calcutta
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

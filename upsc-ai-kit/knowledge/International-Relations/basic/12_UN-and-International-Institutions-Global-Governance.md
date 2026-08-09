@@ -314,3 +314,45 @@ recognising that reform itself remains unresolved rather than imminent.
   deficit grievance underlying reform advocacy; topic 10 for G20/BRICS's
   parallel global-governance role; topic 03 for China's position within UNSC
   reform dynamics.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2018, 2019, 2020, 2022, 2023
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 11
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | Prelims GS-I | 18 | Countries facing severe famine due to war and conflict | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 54 | UNCAC UNTOC and UNODC international conventions mandates | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 10 | International declarations Alma-Ata Talanoa Under2 subject matching | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 76 | UN Credentials Committee structure mandate and functioning | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 77 | International Polar Code purpose and scope | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 78 | UN General Assembly observer status and Permanent Observers | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 82 | Bidibidi and Dadaab refugee settlements in East Africa | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 78 | Country with decades of civil strife and famine | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 90 | Global Compact for Safe Orderly and Regular Migration GCM | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 93 | Conflict zones North Kivu Nagorno-Karabakh Kherson Zaporizhzhia | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 97 | Conflict zones Donbas Kachin Tigray matched country locations | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Countries facing severe famine due to war and conflict
+- UNCAC UNTOC and UNODC international conventions mandates
+- International declarations Alma-Ata Talanoa Under2 subject matching
+- UN Credentials Committee structure mandate and functioning
+- International Polar Code purpose and scope
+- UN General Assembly observer status and Permanent Observers
+- Bidibidi and Dadaab refugee settlements in East Africa
+- Country with decades of civil strife and famine
+- Global Compact for Safe Orderly and Regular Migration GCM
+- Conflict zones North Kivu Nagorno-Karabakh Kherson Zaporizhzhia
+- Conflict zones Donbas Kachin Tigray matched country locations
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

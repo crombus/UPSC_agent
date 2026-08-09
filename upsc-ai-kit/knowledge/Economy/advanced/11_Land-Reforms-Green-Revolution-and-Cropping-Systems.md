@@ -172,3 +172,38 @@ alone because leasing, fragmentation, machinery services and crop choice matter.
 - ✅ `13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md` — markets for diversification.
 - ✅ `14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` — resource
   sustainability.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2021, 2023
+- **Paper(s):** GS-III
+- **Routed question demands:** 8
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 14 | Cropping pattern changes and emphasis on millet production | Elaborate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-III | 5 | Visvesvaraya and Swaminathan contributions to water and agricultural science | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-III | 6 | Science in daily life and agricultural technology-driven changes | How · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-III | 13 | Rice-wheat cropping system success factors and negative consequences | What are · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-III | 3 | Land reforms impact on marginal and small farmers conditions | How did · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-III | 14 | Crop diversification challenges and emerging technology opportunities | What are · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 4 | Land reforms objectives measures and land ceiling policy India | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 13 | Changes in cropping patterns driven by consumption and marketing | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Cropping pattern changes and emphasis on millet production
+- Visvesvaraya and Swaminathan contributions to water and agricultural science
+- Science in daily life and agricultural technology-driven changes
+- Rice-wheat cropping system success factors and negative consequences
+- Land reforms impact on marginal and small farmers conditions
+- Crop diversification challenges and emerging technology opportunities
+- Land reforms objectives measures and land ceiling policy India
+- Changes in cropping patterns driven by consumption and marketing
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
