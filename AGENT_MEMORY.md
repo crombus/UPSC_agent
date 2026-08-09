@@ -144,6 +144,9 @@ Internal Security · Disaster Management · Current Affairs
 
 ### 5b. Philosophy Optional PDF creation
 
+- **Topic-package trigger (all subjects):** `Create Topic Package: <Subject> — <Topic>` builds the
+  complete package even when no interactive teaching session was previously run. `Export PDF`
+  applies the same package standard to the current topic/session.
 - Follow `PHILOSOPHY_VISUAL_NOTES_AI_PLAYBOOK.md` for every topic-wise Philosophy PDF.
 - Also follow `PHILOSOPHY_PDF_CONTENT_AND_VISUAL_STANDARD.md`. Content determines
   the design: never reduce substantive doctrine, criticisms, comparisons, PYQs
@@ -159,11 +162,12 @@ Internal Security · Disaster Management · Current Affairs
   detailed learning session rather than compressing it into a short summary. Include every
   substantive definition, derivation, distinction, example, criticism/reply, technical term,
   advanced refinement, solved PYQ, MCQ loop and remedial practice item needed for understanding.
-  Remove only chat/tool noise and genuine repetition. Put consolidated register notes after all
-  subtopics and practice material.
+  Remove only chat/tool noise and genuine repetition. End with complete consolidated register
+  notes covering every subtopic in the learning session, after all teaching and practice material.
 - **Separate practice-workbook rule (all subjects):** alongside the main topic PDF, create a
   second detailed PDF containing topic-complete solved PYQs plus MCQ and remedial practice with
-  explanations. Cover every subtopic and rotate correct MCQ options A -> B -> C -> D.
+  explanations. Include MCQs spanning nearly every subtopic and add original Mains practice
+  questions with model solutions. Rotate correct MCQ options A -> B -> C -> D.
 - **Reusable Markdown rule (all subjects):** retain a cleaned, complete Markdown edition of the
   learning session and solved practice material in the repository. The Markdown must omit chat
   turns and tool logs but preserve all substantive teaching, solutions, diagrams in text form,
@@ -172,7 +176,14 @@ Internal Security · Disaster Management · Current Affairs
   panels or Study-link panels across pages. Keep all diagram text inside
   measured nodes or bounded detail cards.
 - Use `tools/upsc_register_pdf.py` and its optional `concept_map`, `flow_diagram`, `memory_hook`,
-  and `link_map` fields.
+  `link_map`, and `generated_image` fields.
+- Use Azure GPT Image only for conceptual illustrations, historical ambience, and visual
+  metaphors. Keep maps, constitutional structures, scientific diagrams, timelines, and
+  quantitative charts deterministic. Every generated image must include a caption and the
+  renderer's AI-generated/non-factual-evidence label.
+- Generate images through `tools/azure_image_generator.py`; credentials must come only from
+  ignored environment configuration and must never appear in source, prompts, logs, PDFs, or
+  generated Markdown.
 - Validate the final PDF for content coverage, empty pages, clipping, overlap, and unsupported
   glyphs. Delete the temporary `_data.py` module only after successful generation.
 - Save Philosophy PDFs under the correct category folder inside `notes/Philosophy/`.

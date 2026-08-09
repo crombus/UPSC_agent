@@ -27,7 +27,7 @@ from reportlab.graphics.shapes import (
 )
 from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle,
-    CondPageBreak, HRFlowable, KeepTogether, PageBreak,
+    CondPageBreak, HRFlowable, Image, KeepTogether, PageBreak,
 )
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_LEFT, TA_CENTER, TA_RIGHT
@@ -659,6 +659,69 @@ def cover_concept_visual(title):
     return drawing
 
 
+def generated_illustration(spec):
+    """Render a bounded, explicitly labelled AI-generated study illustration."""
+    if isinstance(spec, (str, Path)):
+        spec = {"path": str(spec)}
+    if not isinstance(spec, dict):
+        raise TypeError("generated_image must be a path or a mapping.")
+
+    raw_path = str(spec.get("path", "")).strip()
+    if not raw_path:
+        raise ValueError("generated_image.path is required.")
+    image_path = Path(raw_path).expanduser()
+    if not image_path.is_absolute():
+        image_path = Path.cwd() / image_path
+    if not image_path.is_file():
+        raise FileNotFoundError(
+            f"Generated illustration not found: {image_path}"
+        )
+
+    max_width = min(float(spec.get("max_width", USABLE)), USABLE)
+    max_height = min(float(spec.get("max_height", 9.5 * cm)), 13 * cm)
+    illustration = Image(str(image_path))
+    illustration._restrictSize(max_width, max_height)
+    illustration.hAlign = "CENTER"
+
+    caption = str(spec.get("caption", "")).strip()
+    label = str(
+        spec.get(
+            "label",
+            "AI-generated illustration - conceptual visual, not factual evidence.",
+        )
+    ).strip()
+    elements = [
+        sec_label("", spec.get("title", "Concept Illustration"), P["purple"]),
+        illustration,
+        spacer(0.08),
+    ]
+    if caption:
+        elements.append(
+            p(
+                caption,
+                S(
+                    fontSize=8,
+                    textColor=P["subtext"],
+                    alignment=TA_CENTER,
+                    fontName=FONT_ITALIC,
+                    leading=10.5,
+                ),
+            )
+        )
+    elements.append(
+        p(
+            label,
+            S(
+                fontSize=7,
+                textColor=P["grey"],
+                alignment=TA_CENTER,
+                leading=9,
+            ),
+        )
+    )
+    return [KeepTogether(elements)]
+
+
 # ── Topic Card Builder ────────────────────────────────────────────────────────
 
 RELEVANCE_COLOR = {"HIGH": P["red"], "MEDIUM": P["amber"], "LOW": P["grey"]}
@@ -737,6 +800,10 @@ def build_topic_card(topic):
     if topic.get("illustration"):
         story.append(spacer(0.12))
         story.extend(philosopher_illustration(topic["illustration"]))
+
+    if topic.get("generated_image"):
+        story.append(spacer(0.12))
+        story.extend(generated_illustration(topic["generated_image"]))
 
     if topic.get("visual_timeline"):
         story.append(spacer(0.12))

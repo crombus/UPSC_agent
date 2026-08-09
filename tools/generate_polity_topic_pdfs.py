@@ -35,14 +35,21 @@ class Section:
 def clean_inline(text: str) -> str:
     """Remove Markdown syntax that ReportLab paragraphs do not understand."""
     text = text.strip()
+    text = re.sub(r"^>\s?", "", text)
     text = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", text)
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = text.replace("`", "")
-    text = text.replace("<=", "≤").replace(">=", "≥")
+    text = (
+        text.replace("<=", "≤")
+        .replace(">=", "≥")
+        .replace("<->", "↔")
+        .replace("->", "→")
+        .replace("<-", "←")
+        .replace("=>", "⇒")
+    )
     text = text.replace("<", "less than ").replace(">", "greater than ")
     text = re.sub(r"^[-+*]\s+", "", text)
     text = re.sub(r"^\d+[.)]\s+", "", text)
-    text = re.sub(r"^>\s?", "", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip(" -")
 

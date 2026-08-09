@@ -37,3 +37,4 @@ attempts/
 !notes/**/*.pdf
 !exams/**/*.pdf
 notes/**/_txt/
+notes/**/generated-images/
