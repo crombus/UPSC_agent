@@ -1,8 +1,9 @@
 # CSAT - Master Framework
 
-> **Purpose:** the single strategy layer to read before the six topic files. It fixes the attempt
+> **Purpose:** the single strategy layer to read before the eight Core topic files. It fixes the attempt
 > plan, the passage and quantitative workflows, the elimination and risk logic, an error taxonomy,
-> a revision cycle, and the audited **2024-2026 PYQ trend table** that justifies the six-topic map.
+> a revision cycle, and the audited **2024-2026 PYQ trend table** that justifies the six skill
+> families. Dedicated Topics 07 and 08 close the communication and General Mental Ability clauses.
 > **Core question:** how do I reliably clear a **qualifying** aptitude paper with the fewest errors
 > and the least wasted time?
 
@@ -50,6 +51,28 @@ CSAT rewards **selection**, not heroics. Use three passes over the 80 items.
 
 > 🔑 **Rule:** never let one stubborn sum consume the time of three passage items. In a qualifying
 > paper, **an item skipped costs 0; an item that eats 6 minutes costs the items you never reach.**
+
+## 2A. Complete architecture
+
+```text
+AUDITED QUESTION FAMILIES
+01 comprehension
+02 number systems
+03 arithmetic
+04 rates / motion / time / geometry
+05 algebra / inequalities / data sufficiency
+06 logic / coding / counting / DI
+             |
+OFFICIAL-SYLLABUS OWNERS
+07 interpersonal and communication skills
+08 General Mental Ability integration map
+```
+
+- Topics **01-06** own the mechanism and question-level drills.
+- Topic **07** independently completes the communication clause; Topic 06 uses it when a scenario
+  also tests logical option selection.
+- Topic **08** is the umbrella that classifies mixed GMA questions and routes weaknesses to Topics
+  02-07. It deliberately does not copy every formula or PYQ.
 
 ## 3. Passage workflow (Reading Comprehension - the largest family)
 

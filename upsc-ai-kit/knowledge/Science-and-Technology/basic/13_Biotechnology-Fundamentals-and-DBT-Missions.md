@@ -150,6 +150,29 @@ Products -> seeds, diagnostics, vaccines, enzymes, biofuels, bioremediation tool
 - ✅ `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` — genetic manipulation, GM crops and genome editing.
 - ✅ `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md` — vaccines, antibodies and biopharma applications.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — growing AI-biology interfaces in diagnostics and biotech design.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+## 2026 PYQ Integration
+
+> **Status:** 2026 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
+> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+
+- **Year represented:** 2026
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2026 | Prelims GS-I | 41 | Genetic medicines, gene delivery vectors, and therapeutic DNA modification | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2026 | Prelims GS-I | 48 | GenomeIndia Project funding, institutional role, and Indian genetic diversity | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Genetic medicines, gene delivery vectors, and therapeutic DNA modification
+- GenomeIndia Project funding, institutional role, and Indian genetic diversity
+
+> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2026 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -165,7 +188,7 @@ Products -> seeds, diagnostics, vaccines, enzymes, biofuels, bioremediation tool
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2022 | Prelims GS-I | 99 | DNA Barcoding applications species and food identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 55 | Biofilters role in recirculating aquaculture water treatment | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 55 | Biofilters role in recirculating aquaculture water treatment | Objective question; official key unavailable locally | Cross-routed to biofilter functioning and aquaculture-production economics; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 67 | Wolbachia method for controlling mosquito-borne viral diseases | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 69 | Aerial metagenomics collecting DNA samples from air | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 

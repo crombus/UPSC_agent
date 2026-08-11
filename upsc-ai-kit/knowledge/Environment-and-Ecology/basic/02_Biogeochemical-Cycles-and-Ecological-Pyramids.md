@@ -177,7 +177,7 @@ source and date rather than as a static, unchanging number.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 41 | Nitrogen compounds released from agricultural and livestock activities | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 41 | Nitrogen compounds released from agricultural and livestock activities | Objective question; official key unavailable locally | Cross-routed to nitrogen-cycle and animal-production externality owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 27 | Phosphorus cycle and rock weathering as source | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 48 | Nitrogen-fixing plant species identification in agriculture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 

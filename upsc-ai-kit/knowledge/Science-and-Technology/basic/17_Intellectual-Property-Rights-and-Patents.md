@@ -151,6 +151,26 @@
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — emerging-tech regulation increasingly intersects with IP questions.
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — digital economy expansion raises software, data and branding questions.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — frontier R&D also depends on patenting and technology-commercialization capacity.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-III | 5 | IPR for life materials; low commercialization of Indian patents | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- IPR for life materials; low commercialization of Indian patents
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -165,7 +185,7 @@
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 57 | Indian Patents Act and Intellectual Property Board | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 57 | Indian Patents Act and Intellectual Property Board | Objective question; official key unavailable locally | Cross-routed for date-sensitive statutory appellate-body status; stem verified against official scan; OCR artifact resolved; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 

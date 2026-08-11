@@ -224,14 +224,13 @@ PYQ's three-term distinction is the analytical spine for any gender-justice answ
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
 
-- **Years represented:** 2019, 2020, 2021, 2023
+- **Years represented:** 2019, 2021, 2023
 - **Paper(s):** GS-II
-- **Routed question demands:** 6
+- **Routed question demands:** 5
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2019 | GS-II | 13 | Reservation of seats for women in local self-government and patriarchy | Comment · 15 marks · 250 words | Cross-cutting; gender justice and local government both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-II | 15 | Constitutionalization of the National Commission for Women | Which steps and give reasons · 15 marks · 250 words | Cross-cutting; commission design and gender justice both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-II | 2 | Greater representation of women in the higher judiciary | Discuss the desirability · 10 marks · 150 words | Cross-cutting; judicial appointments and gender justice both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-II | 17 | Patriarchal social attitudes and interventions beyond education and schemes | What interventions can help · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | GS-II | 12 | Constitutional perspectives of gender justice with provisions and case law | Explain · 15 marks · 250 words | Cross-cutting; gender justice and constitutional guarantees both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
@@ -240,7 +239,6 @@ PYQ's three-term distinction is the analytical spine for any gender-justice answ
 ### What this owner must now support
 
 - Reservation of seats for women in local self-government and patriarchy
-- Constitutionalization of the National Commission for Women
 - Greater representation of women in the higher judiciary
 - Patriarchal social attitudes and interventions beyond education and schemes
 - Constitutional perspectives of gender justice with provisions and case law

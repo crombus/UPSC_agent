@@ -147,3 +147,24 @@ scrutiny (audit, RTI disclosure, judicial review).
 - ✅ `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — Nolan's integrity principle.
 - ✅ `15_Transparency-RTI-and-Information-Sharing.md` — the transparency mechanism verifying probity.
 - ✅ `06_Indian-Moral-Thinkers-and-Philosophers.md` — Gandhi's trusteeship as probity's philosophical root.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2025 | GS-IV | 1 | (a) ethical dilemmas of social media in the digital age; (b) constitutional morality as product of civil education | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) ethical dilemmas of social media in the digital age; (b) constitutional morality as product of civil education
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

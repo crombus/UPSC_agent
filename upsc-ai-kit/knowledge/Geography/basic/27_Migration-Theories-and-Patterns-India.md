@@ -114,3 +114,24 @@ Majid Husain explains the logic through **push factors** from the origin and **p
 
 Geography → Human Geography → Migration  
 Geography → Human Geography → Migration Streams & Consequences
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+
+- **Years represented:** 2024
+- **Paper(s):** GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-I | 5 | Why large cities attract more migrants than smaller towns | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Why large cities attract more migrants than smaller towns
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

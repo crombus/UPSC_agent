@@ -193,6 +193,26 @@ rehabilitation are central, but not exhaustive, axes of tribal development.
 - ✅ `02_Caste-System-Structure-and-Contemporary-Dynamics.md` — the caste side of the
   tribe-caste continuum.
 - ✅ `10_Urbanisation-Problems-and-Remedies.md` — displacement-linked migration into cities.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+
+- **Years represented:** 2025
+- **Paper(s):** GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2025 | GS-I | 20 | Tribal development around displacement and rehabilitation | Give your opinion · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Tribal development around displacement and rehabilitation
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

@@ -126,6 +126,26 @@
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — another frontier-science mission where materials capability matters.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — useful for understanding nanoelectronics and sensor-system interfaces in smart technologies.
 - ✅ `20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md` — broader materials strategy and supply-chain context.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2025
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2025 | GS-III | 15 | Nanotechnology advancements in agriculture | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Nanotechnology advancements in agriculture
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

@@ -94,6 +94,27 @@
 - ⚠️ GS-1: Discuss the significance and limitations of Congress ministries in 1937–39.
 - ⚠️ GS-1: Analyse how the 1935 Act and the 1937 elections affected Congress–League relations.
 - ⚠️ GS-1: Explain how the resignation of Congress ministries in 1939 changed the politics leading to the Lahore Resolution.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Prelims GS-I | 62 | Government of India Act, 1935 - All-India Federation and reserved control of defence and foreign affairs | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Government of India Act, 1935 - All-India Federation and reserved control of defence and foreign affairs
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

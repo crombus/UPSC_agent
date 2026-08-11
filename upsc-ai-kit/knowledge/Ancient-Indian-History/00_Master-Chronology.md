@@ -57,6 +57,7 @@
 | ✅ **Harsha** | AD 606–647 | Harshavardhana (Pushyabhuti) | North-Indian regional hegemony centred on Kannauj; Bana and Xuanzang; checked in the Deccan |
 | ✅ Deccan/South (post-Gupta) | c. AD 550 – 750 | Chalukyas of Badami vs Pallavas | Pallava-Chalukya conflict; temple architecture blooms |
 | ⚠️ Transition to early medieval | c. AD 750 – | Palas, Pratiharas, Rashtrakutas (Tripartite) | Land grants, feudal tendencies, regional kingdoms |
+| ✅ **Imperial Cholas** | c. AD 850–1279 | Vijayalaya; Rajaraja I; Rajendra I | Kaveri-centred state, local institutions, temples, Indian Ocean commerce and Srivijaya campaign |
 
 ## 5. Memory ladder (one line per era — revise in 60 seconds)
 

@@ -134,3 +134,24 @@ court, CVC/Lokpal, public via RTI).
 - ✅ `20_Anti-Corruption-Institutions.md` — CVC/CBI/Lokpal ethics-specific jurisdiction treatment.
 - ✅ `18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md` — leakage/misuse mechanics.
 - ✅ `Polity/advanced/32_CAG.md` and `Polity/advanced/37_CVC-and-CBI.md` — constitutional-body detail.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2025 | GS-IV | 11 | Case study: restoring proper functioning of the MGNREGA programme | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+
+### What this owner must now support
+
+- Case study: restoring proper functioning of the MGNREGA programme
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

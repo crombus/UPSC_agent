@@ -148,6 +148,59 @@ disability, fraud awareness and grievance resolution determine effective inclusi
   and tokenisation.
 - ✅ `22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` — gig and platform
   labour.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+## 2026 PYQ Integration
+
+> **Status:** 2026 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
+> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+
+- **Year represented:** 2026
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2026 | Prelims GS-I | 87 | Dropshipping model and third-party order fulfilment in e-commerce | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2026 | Prelims GS-I | 88 | ONDC interoperability objective and competition among digital-commerce platform networks | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2026 | Prelims GS-I | 89 | UPI and digital rupee transaction, settlement, and liability characteristics | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2026 | Prelims GS-I | 97 | Crowdfunding platforms and financing access for small and medium enterprises | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Dropshipping model and third-party order fulfilment in e-commerce
+- ONDC interoperability objective and competition among digital-commerce platform networks
+- UPI and digital rupee transaction, settlement, and liability characteristics
+- Crowdfunding platforms and financing access for small and medium enterprises
+
+> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Prelims GS-I | 48 | 'Metaverse' - interoperable 3D virtual worlds | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2024 | Prelims GS-I | 53 | Digital rupee (central bank digital currency) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2025 | Prelims GS-I | 69 | Countries where international merchant payments are accepted under UPI | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- 'Metaverse' - interoperable 3D virtual worlds
+- Digital rupee (central bank digital currency)
+- Countries where international merchant payments are accepted under UPI
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -166,7 +219,7 @@ disability, fraud awareness and grievance resolution determine effective inclusi
 | 2018 | Prelims GS-I | 15 | Institution linking all ATMs across India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2018 | Prelims GS-I | 28 | BHIM app UPI transfers and digital payment authentication factors | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 6 | Foreign-owned e-commerce firms marketplace regulations India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 69 | Non-Fungible Tokens digital representation and blockchain features | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 69 | Non-Fungible Tokens digital representation and blockchain features | Objective question; official key unavailable locally | Digital-asset economics plus token/distributed-ledger mechanism Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 72 | Central Bank Digital Currencies cross-border payments programmability | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support

@@ -93,6 +93,27 @@
 - ⚠️ GS-1: Assess Bardoli as a bridge between Gandhian satyagraha and agrarian mass politics.
 - ⚠️ GS-1: Discuss the significance of States' Peoples' Movements in making the freedom struggle more democratic and all-India.
 - ⚠️ GS-1: Analyse the Tripuri crisis as an ideological conflict within Congress rather than a personal dispute alone.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+## 2026 PYQ Integration
+
+> **Status:** 2026 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
+> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+
+- **Year represented:** 2026
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2026 | Prelims GS-I | 16 | Formation of Forward Bloc and Congress political alignments in 1939 | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Formation of Forward Bloc and Congress political alignments in 1939
+
+> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2026 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

@@ -251,6 +251,61 @@ weak answers on this topic quote an allocation figure as though it were producti
   pathway for sectors less suited to hydrogen/electrification.
 - ✅ `05_IUCN-Red-List-and-Endemism.md` — the renewable-infrastructure-siting tension with
   Critically Endangered species habitat (e.g., Great Indian Bustard).
+- ✅ `../../Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md`
+  — tariffs, grids, DISCOMs, fuel security, investment and transition economics.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+## 2026 PYQ Integration
+
+> **Status:** 2026 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
+> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+
+- **Year represented:** 2026
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2026 | Prelims GS-I | 45 | Green hydrogen production pathways and India's National Green Hydrogen Mission | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Green hydrogen production pathways and India's National Green Hydrogen Mission
+
+> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-I, GS-III, Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Prelims GS-I | 27 | Distributed Energy Resources (battery storage, biomass, fuel cells, rooftop solar) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2024 | Prelims GS-I | 38 | 'Pumped-storage hydropower' (long-duration energy storage) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2024 | Prelims GS-I | 46 | Feedstock for Sustainable Aviation Fuel | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2025 | GS-I | 6 | Ecological and economic benefits of solar energy generation in India | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-III | 6 | Energy independence by 2047 through clean tech; role of biotechnology | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | Prelims GS-I | 70 | PM Surya Ghar Muft Bijli Yojana - solar rooftop | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Distributed Energy Resources (battery storage, biomass, fuel cells, rooftop solar)
+- 'Pumped-storage hydropower' (long-duration energy storage)
+- Feedstock for Sustainable Aviation Fuel
+- Ecological and economic benefits of solar energy generation in India
+- Energy independence by 2047 through clean tech; role of biotechnology
+- PM Surya Ghar Muft Bijli Yojana - solar rooftop
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -265,7 +320,7 @@ weak answers on this topic quote an allocation figure as though it were producti
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 67 | Solar power production silicon wafers and tariff regulation India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 67 | Solar power production silicon wafers and tariff regulation India | Objective question; official key unavailable locally | Cross-routed to solar-technology and energy-regulation owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 84 | Biofuels raw materials permitted under National Policy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 88 | Solar water pumps surface submersible centrifugal piston types | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 84 | Solar parks floating solar and airport projects Indian states | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |

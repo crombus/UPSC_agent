@@ -161,7 +161,7 @@ Guide RNA identifies target DNA
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 63 | GM mustard developed in India genes and properties | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2018 | Prelims GS-I | 64 | Technology terms Belle II Blockchain CRISPR-Cas9 context identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 64 | Technology terms Belle II Blockchain CRISPR-Cas9 context identification | Objective question; official key unavailable locally | Cross-routed for CRISPR and blockchain classification; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 93 | Developments in artificial chromosome and DNA science | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 96 | RNA interference technology applications in medicine and crops | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 99 | Cas9 protein function in molecular gene editing | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |

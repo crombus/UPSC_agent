@@ -117,6 +117,7 @@ retroactive to 1949). 📰 Bench (**CJI Sanjiv Khanna & Justice Sanjay Kumar**) 
   compare with the secular principles of the US Constitution.” Route: Indian principled
   distance/equal respect and reform power vs US non-establishment/free exercise and a
   stronger wall metaphor; both remain constrained by equality and religious freedom.
+  Complete comparative spine: `../basic/Comparative-Constitutional-Schemes.md`.
 - ✅ **2025 GS-II Q11 (15 marks, 250 words):** “Constitutional morality is the fulcrum
   which acts as an essential check upon the high functionaries and citizens alike…”
   Explain the concept and apply it to balancing judicial independence and judicial

@@ -348,7 +348,7 @@ sentences. Martial law = "military rule" (undefined; from English common law); n
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2019 | GS-II | 5 | What France can learn from India's approach to secularism | What can it learn · 10 marks · 150 words | Cross-cutting; constitutional guarantee and the secularism concept both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-II | 5 | What France can learn from India's approach to secularism | What can it learn · 10 marks · 150 words | Dedicated comparative owner plus constitutional-rights and society support | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-II | 13 | Right to Equality in the Constitutions of the USA and India | Analyze the distinguishing features · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-II | 2 | Right of movement and residence and its limits | Comment · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | GS-II | 11 | Constitution as a living instrument and expanding right to life and liberty | Illustrate · 15 marks · 250 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |

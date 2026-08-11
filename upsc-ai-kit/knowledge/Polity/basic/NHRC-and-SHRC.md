@@ -33,3 +33,26 @@ List matters; it does not mean every state necessarily has a functioning commiss
 holding GANHRI **A-status** while the review cycle remains unresolved; no official downgrade
 decision has been published. Independence, pluralism and reliance on police investigators remain
 reform concerns, but a proposed/recommended downgrade must not be reported as an accomplished fact.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2021
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 16 | Multiplicity of commissions for vulnerable sections and an umbrella body | Argue your case · 15 marks · 250 words | Cross-cutting; statutory and constitutional commission families plus consolidated Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 12 | Structural and practical limitations of Human Rights Commissions | Analyzing and suggest remedial measures · 15 marks · 250 words | Human-rights specialist plus consolidated statutory-body Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Multiplicity of commissions for vulnerable sections and an umbrella body
+- Structural and practical limitations of Human Rights Commissions
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

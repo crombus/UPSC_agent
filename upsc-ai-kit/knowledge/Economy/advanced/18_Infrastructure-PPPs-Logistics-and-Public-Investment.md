@@ -174,6 +174,8 @@ contingent liabilities or future user and taxpayer costs.
 - ✅ `16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md` — infrastructure as
   industrial capability.
 - ✅ `20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` — logistics and export competitiveness.
+- ✅ `31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md` — dedicated
+  energy-sector economic depth.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -187,7 +189,7 @@ contingent liabilities or future user and taxpayer costs.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 1 | Energy access for Sustainable Development Goals in India | Comment · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-III | 1 | Energy access for Sustainable Development Goals in India | Comment · 10 marks · 150 words | Cross-routed to general-infrastructure and exam-complete Core energy-access owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2018 | GS-III | 9 | CPEC as OBOR subset and India's strategic objections | Enumerate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | GS-III | 11 | Capital formation concept and PPP concession agreement design factors | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-III | 12 | Infrastructure investment role in India's rapid and inclusive growth | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |

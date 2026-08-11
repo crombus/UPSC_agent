@@ -10,7 +10,9 @@
 ## 1. The S&T landscape as one connected system
 
 ```text
-Foundational science (physics/chemistry/biology - Topics 21-23)
+Foundational science and computing
+(physics/chemistry/biology - Topics 21-23; computing stack - Topic 25;
+discoveries, prizes and scientists - Topic 26)
                           |
                           v
         Research funding + institutional architecture
@@ -40,12 +42,14 @@ developed/tested/deployed), **institution** (who governs/funds/regulates it), **
 (what real Indian problem it solves), and **constraint** (technical, financial, ethical or
 regulatory limit) — never on capability claims alone.
 
-## 2. Six pillars
+## 2. Seven pillars
 
 | Pillar | Central question | Key institutions/instruments |
 |---|---|---|
 | Foundational science | What are the underlying physical, chemical and biological principles? | NCERT-level physics/chemistry/biology; DST/CSIR research base |
+| Computing foundations | How do hardware, software, data and networks combine into digital capability? | Processor/memory/storage, OS, Internet protocols, cloud, databases, HPC |
 | Research governance | Who funds, coordinates and performs research? | DST and **DSIR** (Departments), **ANRF** (statutory, absorbing SERB), **CSIR** (autonomous society under DSIR), ICMR, DBT, ICAR |
+| Discovery-current affairs | How do biographies, prize citations and institutions route back to the underlying science? | NobelPrize.org and specialist science owners |
 | Strategic frontier missions | Can India achieve autonomous space, nuclear and defence capability? | ISRO/IN-SPACe/NSIL, DAE/BARC/NPCIL, DRDO/DAP |
 | Digital & data governance | Can India build safe, inclusive digital public infrastructure? | MeitY, UIDAI, NPCI, RBI, IndiaAI, DPDP framework, CERT-In/NCIIPC |
 | Biotechnology & health science | Can biotechnology serve agriculture, health and industry safely? | DBT, BIRAC, GEAC/MoEFCC, CDSCO, ICMR |
@@ -75,6 +79,12 @@ regulatory limit) — never on capability claims alone.
 | DST vs DSIR vs CSIR vs ANRF | DST and DSIR are Departments; **CSIR is an autonomous society under DSIR**; ANRF is a statutory funding body with the PM as Governing-Board President |
 | RCGM vs GEAC | RCGM (DBT) clears research and contained trials; GEAC (MoEF&CC) appraises environmental release — with FSSAI separately regulating GM food |
 | Enacted vs commenced | An Act can be passed and notified yet not be in force: DPDP's substantive duties are phased, and the SHANTI Act's commencement had not been notified at the verification date |
+| Hardware vs software vs firmware | Physical components vs executable instructions vs low-level persistent control software |
+| Internet vs Web | Interconnected network infrastructure vs linked services/resources using it |
+| RAM vs storage | Volatile working memory vs non-volatile persistence |
+| Router vs switch | Connects networks/routes IP packets vs primarily connects devices within a LAN |
+| Cloud vs data centre | On-demand service model vs physical facility hosting computing equipment |
+| AI vs ML vs deep learning | AI is the umbrella; machine learning is a subset; deep learning is a subset of ML |
 
 ## 4. Capability-status ladder (apply to every mission/technology claim)
 
@@ -113,12 +123,12 @@ is not a "launch," and a "successful test" is not "operational deployment."
 
 ## 6. Study sequence
 
-1. **Anchor the science:** Topics 21-23 (physics/chemistry/biology fundamentals).
+1. **Anchor the foundations:** Topics 21-23 and Topic 25 (computing fundamentals).
 2. **Understand who funds and governs research:** Topic 24 (DST/CSIR/ANRF).
 3. **Study strategic frontier missions:** Topics 01-07 (space, nuclear, defence).
-4. **Study digital and data governance:** Topics 08-12 (Digital India, AI, quantum, semiconductors, data/cyber).
+4. **Study digital and data governance:** Topic 25 first, then Topics 08-12.
 5. **Study biotechnology and health science:** Topics 13-15.
 6. **Study materials, mobility and resource security:** Topics 16-20.
-7. **Revise distinctions and current anchors:** re-check every 📰-tagged date in each file before
+7. **Integrate major discoveries and scientists:** Topic 26, always routed back to the relevant foundation/specialist topic.
+8. **Revise distinctions and current anchors:** re-check every 📰-tagged date in each file before
    an exam attempt, since S&T current affairs move faster than any other GS-III sub-area.
-

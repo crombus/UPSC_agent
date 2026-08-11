@@ -49,14 +49,22 @@
 | 24 | Developments in Philosophy | 29 |
 | 25 | Cultural Interaction with Asian Countries | 30 |
 | 26 | From Ancient to Medieval: Social Change & Legacy | 31–33 |
+| 27 | Imperial Cholas: State, Society, Economy & Maritime Power | Dedicated PYQ-discovered owner; early-medieval extension |
 
 ## Recent exact PYQ route
 
 - **2024 GS-I:** “Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words)” → primary answer matrix: `advanced/09_Later-Vedic-Phase.md`; foundation comparison: `basic/09_Later-Vedic-Phase.md`; Rig Vedic baseline only: `advanced/08_Rig-Vedic-Age.md`.
 - **2024 GS-I:** “Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India. (Answer in 150 words)” → `basic/23_Peninsular-India-Pallavas-Chalukyas.md` + analytical/source caveats in `advanced/23_Peninsular-India-Pallavas-Chalukyas.md`.
 - **2025 GS-I:** “Discuss the salient features of the Harappan architecture. (Answer in 150 words)” → architecture matrix in `basic/06_Harappan-Civilization.md`; interpretation debate in `advanced/06_Harappan-Civilization.md`.
+- **2025 Prelims:** Rajendra I's successful campaign against Srivijaya → complete political,
+  maritime and chronology owner in `basic/27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md`.
+- **2024 GS-I:** Chola achievements in art and architecture → form-specific ownership in
+  `Indian-Art-and-Culture/basic/03`, cross-routed to Ancient History `basic/27` for historical,
+  institutional and economic context.
 - **Recent Prelims emphasis:** source-identification and close distinctions recur—Buddha's epithets versus Mahavira's *Nayaputta* (2024), Fa-hien and Ashokan officers (2025), and Harappan household/measurement evidence plus Pali coin terms (2026).
-- **Boundary:** Pallava/Chola art-and-architecture PYQs route primarily to `Indian-Art-and-Culture`; this folder supplies political and social chronology without duplicating form/technique analysis.
+- **Boundary:** Pallava/Chola art-and-architecture PYQs route primarily to `Indian-Art-and-Culture`;
+  Ancient History Topics 23 and 27 supply political, social and economic context without duplicating
+  form/technique analysis.
 
 ## Sources
 

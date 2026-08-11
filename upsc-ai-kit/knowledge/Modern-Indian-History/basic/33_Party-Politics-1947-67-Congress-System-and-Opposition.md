@@ -83,3 +83,25 @@
 - ⚠️ GS-1: Explain the "Congress system" of one-party dominance and why it endured till 1967.
 - ⚠️ GS-1: Why did the opposition fail to displace Congress in the first two decades? Analyse.
 - ⚠️ GS-1: Trace the evolution of the Left (CPI/CPM) and the Right (Jana Sangh, Swatantra) up to 1967.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Prelims GS-I | 73 | Political party-leader matching (Jana Sangh, Socialist Party, CFD, Swatantra) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Political party-leader matching (Jana Sangh, Socialist Party, CFD, Swatantra)
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

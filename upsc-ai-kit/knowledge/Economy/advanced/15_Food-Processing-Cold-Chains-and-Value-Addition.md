@@ -172,6 +172,10 @@ if procurement is concentrated or contracts transfer excessive risk to producers
 - ✅ `17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — small-enterprise finance
   and formalisation.
 - ✅ `20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` — SPS standards and export access.
+- ✅ `29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` — value-chain mission
+  design, complementarity and cluster economics.
+- ✅ `30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` — perishability,
+  quality contracts, producer margins and animal-product value chains.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

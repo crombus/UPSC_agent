@@ -145,10 +145,59 @@ trusted and socially useful AI deployment
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/09_Artificial-Intelligence-Governance-and-IndiaAI.md`.
+- ✅ Advanced companion: `../advanced/09_Artificial-Intelligence-Governance-and-IndiaAI.md`.
+- ✅ `25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md` — processor,
+  accelerator, data, cloud and AI/ML/deep-learning foundations.
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — digital public infrastructure context.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — another frontier-tech mission with state support.
 - ✅ `12_Data-Protection-DPDP-Act-and-Cybersecurity.md` — data-governance and cyber-risk dimension.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+## 2026 PYQ Integration
+
+> **Status:** 2026 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
+> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+
+- **Year represented:** 2026
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2026 | Prelims GS-I | 42 | Large language models, probabilistic prediction, optimization, and output bias | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2026 | Prelims GS-I | 65 | AI Impact Summit 2026 framework, declaration, and governance principles | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Large language models, probabilistic prediction, optimization, and output bias
+- AI Impact Summit 2026 framework, declaration, and governance principles
+
+> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2025
+- **Paper(s):** GS-I, Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2025 | GS-I | 15 | Using AI and drones with GIS/RS in locational and areal planning | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | Prelims GS-I | 95 | AI Action Summit (Grand Palais, Paris, February 2025) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Using AI and drones with GIS/RS in locational and areal planning
+- AI Action Summit (Grand Palais, Paris, February 2025)
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -163,7 +212,7 @@ trusted and socially useful AI deployment
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2020 | Prelims GS-I | 38 | Artificial Intelligence current capabilities in industry and society | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 38 | Artificial Intelligence current capabilities in industry and society | Objective question; official key unavailable locally | AI specialist plus computing taxonomy/application Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 

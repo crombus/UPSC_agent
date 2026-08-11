@@ -143,6 +143,58 @@ extension, maintenance and market access determine who benefits.
   water use.
 - ✅ `25_Climate-Economics-Green-Finance-and-Circular-Economy.md` — adaptation and climate
   risk.
+- ✅ `27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md` — sensors, precision
+  systems, digital insurance support and agritech adoption.
+- ✅ `28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` — fertiliser, electricity,
+  irrigation, credit and insurance subsidy incidence/reform.
+- ✅ `29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` — NMSA, extension,
+  seed, mechanisation and mission-mode adoption.
+- ✅ `30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` — complete
+  livestock, dairy, poultry, fisheries and IFS economics.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+## 2026 PYQ Integration
+
+> **Status:** 2026 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
+> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+
+- **Year represented:** 2026
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2026 | Prelims GS-I | 28 | Rainfed Area Development objectives under sustainable agriculture mission | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Rainfed Area Development objectives under sustainable agriculture mission
+
+> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-III | 13 | Challenges of the Indian irrigation system and government measures | State measures · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-III | 13 | Factors for depleting groundwater and government steps | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Challenges of the Indian irrigation system and government measures
+- Factors for depleting groundwater and government steps
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -166,7 +218,7 @@ extension, maintenance and market access determine who benefits.
 | 2020 | Prelims GS-I | 89 | Sugarcane cultivation bud chip settlings and tissue culture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 90 | Eco-friendly agriculture practices crop diversification tensiometer | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 91 | Fertigation advantages alkalinity nutrient availability leaching reduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 94 | Chemical fertilizers ammonia source sulphur input and pricing | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 94 | Chemical fertilizers ammonia source sulphur input and pricing | Objective question; official key unavailable locally | Cross-routed to input fundamentals and fertiliser pricing/subsidy owner; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 51 | Permaculture farming versus conventional chemical farming | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 59 | Climate-Smart Agriculture CCAFS CGIAR ICRISAT India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 

@@ -133,6 +133,7 @@ unexplained and indefinite gubernatorial inaction remains open to limited judici
   Article II personal executive power -> Indian court-martial/death-sentence scope vs US
   federal-offence/impeachment limits -> mala fides/arbitrariness review -> pre-emptive
   pardon covers completed conduct before charge/conviction, not future offences.
+  Complete comparative spine: `../basic/Comparative-Constitutional-Schemes.md`.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -147,7 +148,7 @@ unexplained and indefinite gubernatorial inaction remains open to limited judici
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2022 | GS-II | 4 | Role of the Vice-President as Chairman of the Rajya Sabha | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-II | 14 | Election procedures for the Presidents of India and France | Critically examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 14 | Election procedures for the Presidents of India and France | Critically examine · 15 marks · 250 words | Dedicated comparative owner plus presidential-office support | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 

@@ -95,6 +95,7 @@
 | 13 | Public Finance and Service-Delivery Tools | DBT, PFMS, SNA and expenditure rules |
 | 14 | Participatory Governance | Subsidiarity and citizen participation |
 | 15 | Monitoring, Evaluation and Outcomes | DMEO, OOMF and outcome budgeting |
+| 16 | Sports Governance, Institutions and Major Tournaments | Federations, eligibility, integrity and dispute systems |
 
 ## Study sequence
 
@@ -106,6 +107,8 @@
    regulatory governance.
 4. **Delivery and feedback:** `12-15` — local delivery, financial flows,
    participation and outcome evaluation.
+5. **Adjacent institutional application:** `16` — sports federations,
+   tournament rules, athlete rights, anti-doping and dispute resolution.
 
 ## Primary source routes
 

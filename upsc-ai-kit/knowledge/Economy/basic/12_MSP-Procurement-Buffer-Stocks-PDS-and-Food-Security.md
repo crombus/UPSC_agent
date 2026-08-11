@@ -142,6 +142,30 @@ diversification can intensify water stress and stock imbalance.
   competition.
 - ✅ `15_Food-Processing-Cold-Chains-and-Value-Addition.md` — storage and diversified food
   value chains.
+- ✅ `28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` — price support versus
+  subsidy, incidence and WTO treatment.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-III | 4 | Role of millets in health and nutritional security | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2024 | GS-III | 14 | Importance of buffer stocks for price stabilization; storage challenges | Elucidate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Role of millets in health and nutritional security
+- Importance of buffer stocks for price stabilization; storage challenges
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

@@ -52,6 +52,28 @@ Munshi), avoiding legislature-executive conflict, and **wide representation** fo
 **presidential-vs-parliamentary** question; anti-defection floor-tests keep collective responsibility topical.
 
 ➡️ For all 8 features, merits/demerits, USA contrast & Indian-vs-British model → `advanced/11_Parliamentary-System.md`.
+For the complete cross-country constitutional scheme and comparative PYQ answer engines, use
+`Comparative-Constitutional-Schemes.md`.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+
+- **Years represented:** 2024
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-II | 3 | Growth of the cabinet system and marginalisation of parliamentary supremacy | Elucidate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Growth of the cabinet system and marginalisation of parliamentary supremacy
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

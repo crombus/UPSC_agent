@@ -299,7 +299,7 @@ root-cause resolution.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 10 | Left Wing Extremism challenges and government counter strategy | Explain · 10 marks · 150 words | Routed to owning topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-III | 10 | Left Wing Extremism challenges and government counter strategy | Explain · 10 marks · 150 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | GS-III | 19 | Left-wing extremism determinants in eastern India and counter-strategy | What are · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-III | 20 | Naxalism as internal security threat and multilayered response strategy | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 

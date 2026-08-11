@@ -5,14 +5,14 @@
 ## 1. Reconciliation
 
 - **Unique printed questions integrated:** 1560
-- **Question-to-owner assignments written:** 2190
-- **Owner files updated:** 409
-- **Basic/advanced owner files audited:** 884
-- **Owners without a 2018-2023 route:** 475
+- **Question-to-owner assignments written:** 2247
+- **Owner files updated:** 419
+- **Basic/advanced owner files audited:** 914
+- **Owners without a 2018-2023 route:** 495
 - **Missing route targets:** 0
-- **Questions carrying manual-verification warnings:** 40
-- **Warning-bearing route assignments:** 66
-- **Priority lexical-review assignments:** 558
+- **Questions carrying manual-verification warnings:** 0
+- **Warning-bearing route assignments:** 0
+- **Priority lexical-review assignments:** 504
 
 ### Unique questions by paper
 
@@ -30,24 +30,24 @@
 
 | Subject | Unique questions | Route assignments | Files updated | Basic/advanced topic files | No 2018-2023 route | Low lexical signal | Source verification |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Ancient-Indian-History | 37 | 39 | 20 | 52 | 32 | 12 | 0 |
-| CSAT | 480 | 960 | 12 | 12 | 0 | 313 | 44 |
-| Disaster-Management | 14 | 14 | 8 | 36 | 28 | 2 | 1 |
-| Economy | 182 | 184 | 43 | 52 | 9 | 35 | 1 |
-| Environment-and-Ecology | 126 | 127 | 37 | 56 | 19 | 27 | 1 |
+| Ancient-Indian-History | 37 | 41 | 20 | 54 | 34 | 11 | 0 |
+| CSAT | 480 | 960 | 12 | 16 | 4 | 278 | 0 |
+| Disaster-Management | 14 | 14 | 8 | 36 | 28 | 2 | 0 |
+| Economy | 191 | 198 | 52 | 62 | 10 | 31 | 0 |
+| Environment-and-Ecology | 126 | 127 | 37 | 56 | 19 | 25 | 0 |
 | Essay | 48 | 96 | 7 | 32 | 25 | 0 | 0 |
-| Ethics | 73 | 140 | 21 | 46 | 25 | 12 | 9 |
-| Geography | 92 | 93 | 33 | 74 | 41 | 24 | 0 |
-| Governance | 34 | 35 | 19 | 30 | 11 | 7 | 1 |
-| Indian-Art-and-Culture | 22 | 22 | 13 | 28 | 15 | 5 | 0 |
+| Ethics | 73 | 140 | 21 | 46 | 25 | 12 | 0 |
+| Geography | 92 | 93 | 33 | 74 | 41 | 20 | 0 |
+| Governance | 34 | 35 | 17 | 32 | 15 | 4 | 0 |
+| Indian-Art-and-Culture | 22 | 22 | 13 | 30 | 17 | 5 | 0 |
 | Indian-Society | 37 | 37 | 15 | 30 | 15 | 14 | 0 |
-| Internal-Security | 27 | 27 | 14 | 24 | 10 | 5 | 4 |
-| International-Relations | 55 | 55 | 18 | 24 | 6 | 12 | 0 |
+| Internal-Security | 27 | 27 | 14 | 24 | 10 | 5 | 0 |
+| International-Relations | 55 | 55 | 18 | 24 | 6 | 11 | 0 |
 | Medieval-Indian-History | 20 | 20 | 11 | 50 | 39 | 8 | 0 |
 | Modern-Indian-History | 67 | 69 | 34 | 76 | 42 | 19 | 0 |
 | Political-Theory | 0 | 0 | 0 | 46 | 46 | 0 | 0 |
-| Polity | 138 | 141 | 51 | 92 | 41 | 35 | 2 |
-| Science-and-Technology | 94 | 95 | 35 | 48 | 13 | 24 | 3 |
+| Polity | 148 | 167 | 53 | 98 | 45 | 32 | 0 |
+| Science-and-Technology | 95 | 110 | 36 | 52 | 16 | 23 | 0 |
 | Social-Justice | 31 | 32 | 14 | 34 | 20 | 3 | 0 |
 | World-History | 3 | 4 | 4 | 42 | 38 | 1 | 0 |
 
@@ -79,10 +79,13 @@
 - `Ancient-Indian-History/advanced/17_Satavahanas-and-the-Deccan.md`
 - `Ancient-Indian-History/advanced/18_Sangam-Age-Deep-South.md`
 - `Ancient-Indian-History/advanced/19_Crafts-Commerce-Urban-Growth.md`
+- `Ancient-Indian-History/advanced/20_Gupta-Empire.md`
 - `Ancient-Indian-History/advanced/21_Life-and-Culture-in-Gupta-Age.md`
+- `Ancient-Indian-History/advanced/23_Peninsular-India-Pallavas-Chalukyas.md`
 - `Ancient-Indian-History/advanced/24_Developments-in-Philosophy.md`
 - `Ancient-Indian-History/advanced/25_Cultural-Interaction-with-Asia.md`
 - `Ancient-Indian-History/advanced/26_From-Ancient-to-Medieval-Legacy.md`
+- `Ancient-Indian-History/advanced/27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md`
 - `Ancient-Indian-History/basic/01_Importance-and-Historiography.md`
 - `Ancient-Indian-History/basic/03_Geographical-Setting-and-Ecology.md`
 - `Ancient-Indian-History/basic/07_Aryan-Problem-and-Identity.md`
@@ -94,7 +97,6 @@
 - `Ancient-Indian-History/basic/15_Significance-and-Decline-of-Maurya-Rule.md`
 - `Ancient-Indian-History/basic/16_Central-Asian-Contacts-Kushanas.md`
 - `Ancient-Indian-History/basic/17_Satavahanas-and-the-Deccan.md`
-- `Ancient-Indian-History/basic/23_Peninsular-India-Pallavas-Chalukyas.md`
 - `Ancient-Indian-History/basic/25_Cultural-Interaction-with-Asia.md`
 - `Ancient-Indian-History/basic/26_From-Ancient-to-Medieval-Legacy.md`
 
@@ -107,7 +109,6 @@
 - `Ancient-Indian-History/basic/10_Jainism-and-Buddhism.md` - 2023 Prelims GS-I Q41: Dhanyakataka Buddhist centre Mahasanghikas regional location (0/6 tokens)
 - `Ancient-Indian-History/basic/10_Jainism-and-Buddhism.md` - 2023 Prelims GS-I Q47: Jainism belief souls in rocks water natural objects (1/7 tokens)
 - `Ancient-Indian-History/basic/14_Mauryan-Empire.md` - 2020 Prelims GS-I Q30: Royal inscription on religious tolerance and self-glorification (1/5 tokens)
-- `Ancient-Indian-History/basic/14_Mauryan-Empire.md` - 2022 Prelims GS-I Q60: Kautilya Arthashastra provisions on slavery and legal status (1/6 tokens)
 - `Ancient-Indian-History/basic/19_Crafts-Commerce-Urban-Growth.md` - 2020 Prelims GS-I Q25: Hundi instrument definition in post-Harsha period sources (0/6 tokens)
 - `Ancient-Indian-History/basic/21_Life-and-Culture-in-Gupta-Age.md` - 2021 Prelims GS-I Q40: Mitakshara and Dayabhaga property inheritance systems (0/5 tokens)
 - `Ancient-Indian-History/basic/22_Post-Gupta-Harsha-and-Eastern-India.md` - 2020 Prelims GS-I Q24: Chronological order Pratihara Pallava Chola Pala dynasties (1/7 tokens)
@@ -116,7 +117,12 @@
 
 ### CSAT
 
-**No-route owners:** None.
+**No routed 2018-2023 question in this owner:**
+
+- `CSAT/advanced/07_Interpersonal-Communication-Negotiation-and-Public-Dealing.md`
+- `CSAT/advanced/08_Mixed-General-Mental-Ability-and-Strategy.md`
+- `CSAT/basic/07_Interpersonal-and-Communication-Skills.md`
+- `CSAT/basic/08_General-Mental-Ability-Integrated-Map.md`
 
 **Priority content-review signals:**
 
@@ -138,7 +144,6 @@
 - `CSAT/advanced/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q10: Digit-sum primality (0/2 tokens)
 - `CSAT/advanced/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q11: Digit symbol equation (1/3 tokens)
 - `CSAT/advanced/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q14: Page-sum torn leaf (0/3 tokens)
-- `CSAT/advanced/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q50: Irrational number comparison (1/3 tokens)
 - `CSAT/advanced/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q51: HCF of measurements (0/1 tokens)
 - `CSAT/advanced/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q53: Recurring decimal conversion (1/3 tokens)
 - `CSAT/advanced/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q75: Difference-of-squares factoring (0/2 tokens)
@@ -278,70 +283,45 @@
 - `CSAT/advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q69: Weighing-coin optimisation (0/2 tokens)
 - `CSAT/advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q75: Repeating pattern gap fill (1/3 tokens)
 - `CSAT/advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q79: Painted cuboid partition count (1/4 tokens)
-- `CSAT/basic/01_Reading-Comprehension.md` - 2018 CSAT Q19: Passage critical factor (1/3 tokens)
 - `CSAT/basic/01_Reading-Comprehension.md` - 2023 CSAT Q35: Passage multi-assumption validity (1/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2018 CSAT Q3: Number matrix pattern (1/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2019 CSAT Q48: Number series pattern (1/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2019 CSAT Q51: Number series pattern (1/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2019 CSAT Q53: Page-digit range count (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q10: Digit-sum primality (0/2 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q11: Digit symbol equation (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q12: HCF length measurement (0/2 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q13: Prime-offset sequence (0/2 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q14: Page-sum torn leaf (0/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q50: Irrational number comparison (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q51: HCF of measurements (0/1 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q53: Recurring decimal conversion (0/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q75: Difference-of-squares factoring (0/2 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2020 CSAT Q76: Fraction shift comparison (0/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2021 CSAT Q5: Cyclic remainder pattern (1/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2021 CSAT Q26: Sequence incorrect term (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2021 CSAT Q59: Cryptarithmetic digit addition (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2021 CSAT Q79: Repunit smallest multiplier (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2022 CSAT Q9: Number magnitude comparison (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2022 CSAT Q54: Digit sum bound statements (1/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2022 CSAT Q74: Exponent maximum value (1/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q9: Digit-sum addition puzzle (0/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q10: Digit-sum ratio minimum (1/3 tokens)
+- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q9: Digit-sum addition puzzle (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q14: Integer parity determination (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q15: Prime-composite property check (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q27: Repunit remainder modulo (1/3 tokens)
-- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q29: Range digit-sum total (0/3 tokens)
+- `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q29: Range digit-sum total (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q45: Divisor-remainder bound count (1/3 tokens)
 - `CSAT/basic/02_Number-Systems-and-Number-Sense.md` - 2023 CSAT Q46: Repeated-digit sum constraint (0/2 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2018 CSAT Q39: Conditional probability (0/2 tokens)
-- `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2018 CSAT Q68: Capacity proportion share (1/3 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2019 CSAT Q19: Unit price joint purchase (1/4 tokens)
-- `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2019 CSAT Q40: Mean error correction (1/3 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2020 CSAT Q40: Loss-percentage cost recovery (1/3 tokens)
-- `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2020 CSAT Q47: Successive-discount comparison (0/2 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2020 CSAT Q70: Price-hike quantity reduction (1/3 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2020 CSAT Q78: Volume-mass unit conversion (0/3 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2021 CSAT Q7: Linear fuel-price crossover (1/3 tokens)
-- `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2021 CSAT Q30: Proportional marks threshold (1/3 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2021 CSAT Q55: Conditional money allocation (0/3 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2021 CSAT Q70: Ratio-share inequality (0/2 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2022 CSAT Q8: Denomination combination validity (0/3 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2022 CSAT Q26: Equal interval spacing (1/3 tokens)
 - `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2022 CSAT Q64: Election vote percentage (1/3 tokens)
-- `CSAT/basic/03_Arithmetic-and-Commercial-Math.md` - 2022 CSAT Q69: Mixture proportion comparison (1/3 tokens)
 - `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2018 CSAT Q5: Velocity-time distance ratio (1/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2018 CSAT Q35: Painted-cube face geometry (1/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2018 CSAT Q58: Inscribed triangle count (0/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2018 CSAT Q59: Calendar date sequence (1/3 tokens)
+- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2018 CSAT Q58: Inscribed triangle count (1/3 tokens)
 - `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2019 CSAT Q16: Race distance inference (1/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2019 CSAT Q36: Race start scaling (1/3 tokens)
 - `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2020 CSAT Q31: Compass direction tracking (1/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2020 CSAT Q71: Combined work-rate fraction (1/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2020 CSAT Q73: Circle-square intersection count (0/3 tokens)
+- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2020 CSAT Q73: Circle-square intersection count (1/3 tokens)
 - `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2020 CSAT Q74: Upstream-downstream speed ratio (1/3 tokens)
 - `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2020 CSAT Q80: Jump-sequence well climb (0/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2021 CSAT Q16: Bounce count sequence (0/3 tokens)
 - `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2021 CSAT Q29: Two walkers meeting point (0/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2021 CSAT Q57: Clock-hand angle timing (1/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2021 CSAT Q63: Collinear-points ratio count (0/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2021 CSAT Q80: Work-rate remaining days (1/3 tokens)
-- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2023 CSAT Q20: Cyclic work-rate schedule (0/3 tokens)
+- `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2021 CSAT Q63: Collinear-points ratio count (1/3 tokens)
 - `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2023 CSAT Q49: Day-of-week calculation (0/2 tokens)
 - `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2023 CSAT Q50: Periodic signal synchronisation (0/3 tokens)
 - `CSAT/basic/04_Rates-Motion-Time-and-Geometry.md` - 2023 CSAT Q67: Tile packing maximum (0/3 tokens)
@@ -353,13 +333,11 @@
 - `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2018 CSAT Q77: Equation implication deduction (1/3 tokens)
 - `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2019 CSAT Q37: Bounded inequality range (1/3 tokens)
 - `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2019 CSAT Q50: Fraction comparison property (1/3 tokens)
-- `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2019 CSAT Q69: Piece-length ratio algebra (1/3 tokens)
 - `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2020 CSAT Q9: Equal-expression ordering (0/2 tokens)
 - `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2020 CSAT Q16: Digit-constraint sum puzzle (0/2 tokens)
 - `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2021 CSAT Q8: Exponential model identification (0/3 tokens)
-- `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2021 CSAT Q58: Two-variable score algebra (1/3 tokens)
 - `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2022 CSAT Q28: Reverse chain equation (1/3 tokens)
-- `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2023 CSAT Q26: Two-group sum product maximum (0/3 tokens)
+- `CSAT/basic/05_Algebra-Inequalities-and-Data-Sufficiency.md` - 2023 CSAT Q26: Two-group sum product maximum (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q4: Polygon diagonal count (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q11: Bar-chart data comparison (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q12: Bar-chart value calculation (0/3 tokens)
@@ -377,25 +355,20 @@
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q61: Progress graph comparison (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q63: Population graph inference (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q65: Dual-scale graph comparison (1/3 tokens)
-- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q66: Figural analogy completion (0/3 tokens)
+- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q66: Figural analogy completion (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q70: Figural rotation series (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q71: Population age-group graph (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q73: Policy rate graph inference (1/4 tokens)
-- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q75: Table assumption validity (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2018 CSAT Q76: Tax revenue graph inference (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q10: Cube partition cuts (0/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q20: Set overlap deduction (0/2 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q31: Venn diagram deduction (1/3 tokens)
-- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q68: Alphabet substitution coding (1/3 tokens)
-- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q71: Blood-relation deduction (0/2 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q72: Cube face coloring count (1/4 tokens)
-- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q74: Symbol substitution evaluation (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q76: Ranking order deduction (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q77: Ranking order deduction (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q78: Ranking order deduction (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q79: Weight inequality deduction (0/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2019 CSAT Q80: Weight inequality deduction (0/3 tokens)
-- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2020 CSAT Q19: Blood-relation deduction (0/2 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2020 CSAT Q36: Age-ordering deduction (0/2 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2020 CSAT Q52: Table rate comparison (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2020 CSAT Q60: Denomination subset counting (1/3 tokens)
@@ -408,11 +381,9 @@
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2021 CSAT Q45: Table run-rate comparison (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2021 CSAT Q46: Fractional set deduction (0/2 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2021 CSAT Q64: Chessboard diagonal count (1/3 tokens)
-- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2021 CSAT Q65: Series blank-fill pattern (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2021 CSAT Q69: Non-consecutive selection count (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2021 CSAT Q74: Pie-chart sector angle (0/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2022 CSAT Q16: Alphabet reversal coding (1/3 tokens)
-- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2022 CSAT Q17: Elimination match counting (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2022 CSAT Q30: Queue minimum size (0/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2022 CSAT Q55: Constrained PIN enumeration (0/2 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2022 CSAT Q76: Constrained password count (1/3 tokens)
@@ -430,56 +401,9 @@
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q68: Constrained assignment count (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q69: Weighing-coin optimisation (0/2 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q70: Coded relational chain deduction (1/4 tokens)
-- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q75: Repeating pattern gap fill (0/3 tokens)
+- `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q75: Repeating pattern gap fill (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q77: True-false logic deduction (1/3 tokens)
 - `CSAT/basic/06_Logical-Reasoning-Coding-Counting-and-DI.md` - 2023 CSAT Q79: Painted cuboid partition count (1/4 tokens)
-
-**Official-scan verification still required:**
-
-- 2018 CSAT Q2: Series equation solving - Partial OCR; manual verification needed; key unavailable locally
-- 2018 CSAT Q2: Series equation solving - Partial OCR; manual verification needed; key unavailable locally
-- 2018 CSAT Q3: Number matrix pattern - Partial OCR; manual verification needed; key unavailable locally
-- 2018 CSAT Q3: Number matrix pattern - Partial OCR; manual verification needed; key unavailable locally
-- 2018 CSAT Q38: Algebraic revenue expression - Partial OCR; manual verification needed; key unavailable locally
-- 2018 CSAT Q38: Algebraic revenue expression - Partial OCR; manual verification needed; key unavailable locally
-- 2018 CSAT Q66: Figural analogy completion - Partial OCR; manual verification needed; key unavailable locally
-- 2018 CSAT Q66: Figural analogy completion - Partial OCR; manual verification needed; key unavailable locally
-- 2018 CSAT Q70: Figural rotation series - Partial OCR; manual verification needed; key unavailable locally
-- 2018 CSAT Q70: Figural rotation series - Partial OCR; manual verification needed; key unavailable locally
-- 2019 CSAT Q19: Unit price joint purchase - Partial OCR; manual verification needed; key unavailable locally
-- 2019 CSAT Q19: Unit price joint purchase - Partial OCR; manual verification needed; key unavailable locally
-- 2020 CSAT Q11: Digit symbol equation - Partial OCR; manual verification needed; key unavailable locally
-- 2020 CSAT Q11: Digit symbol equation - Partial OCR; manual verification needed; key unavailable locally
-- 2020 CSAT Q34: Sequence pair counting - Partial OCR; manual verification needed; key unavailable locally
-- 2020 CSAT Q34: Sequence pair counting - Partial OCR; manual verification needed; key unavailable locally
-- 2020 CSAT Q50: Irrational number comparison - Partial OCR; manual verification needed; key unavailable locally
-- 2020 CSAT Q50: Irrational number comparison - Partial OCR; manual verification needed; key unavailable locally
-- 2021 CSAT Q27: Matrix trend missing entry - Partial OCR; manual verification needed; key unavailable locally
-- 2021 CSAT Q27: Matrix trend missing entry - Partial OCR; manual verification needed; key unavailable locally
-- 2021 CSAT Q28: Dual-sequence missing entry - Partial OCR; manual verification needed; key unavailable locally
-- 2021 CSAT Q28: Dual-sequence missing entry - Partial OCR; manual verification needed; key unavailable locally
-- 2021 CSAT Q45: Table run-rate comparison - Partial OCR; manual verification needed; key unavailable locally
-- 2021 CSAT Q45: Table run-rate comparison - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q7: Calendar day finding - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q7: Calendar day finding - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q8: Denomination combination validity - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q8: Denomination combination validity - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q9: Number magnitude comparison - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q9: Number magnitude comparison - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q74: Exponent maximum value - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q74: Exponent maximum value - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q79: Form constraint number count - Partial OCR; manual verification needed; key unavailable locally
-- 2022 CSAT Q79: Form constraint number count - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q8: Unit digit expansion - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q8: Unit digit expansion - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q38: Statement-based age ranking - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q38: Statement-based age ranking - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q55: Sequence middle term - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q55: Sequence middle term - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q59: Two-statement digit-number sufficiency - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q59: Two-statement digit-number sufficiency - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q60: Two-statement age-sequence sufficiency - Partial OCR; manual verification needed; key unavailable locally
-- 2023 CSAT Q60: Two-statement age-sequence sufficiency - Partial OCR; manual verification needed; key unavailable locally
 
 
 ### Disaster-Management
@@ -520,10 +444,6 @@
 - `Disaster-Management/advanced/02_Indian-Legal-and-Institutional-Architecture.md` - 2020 GS-II Q11: Centralising tendencies and emergency legislation and the Farm Acts (0/6 tokens)
 - `Disaster-Management/advanced/08_Riverine-Floods-and-Urban-Flood-Resilience.md` - 2022 GS-III Q8: Mechanism and occurrence of cloudbursts in Indian subcontinent (1/4 tokens)
 
-**Official-scan verification still required:**
-
-- 2020 GS-III Q15: Technology in COVID-19 pandemic management and advancements - Routed to owning topic; partial OCR, manual verification needed
-
 
 ### Economy
 
@@ -538,6 +458,7 @@
 - `Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md`
 - `Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`
 - `Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md`
+- `Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md`
 
 **Priority content-review signals:**
 
@@ -547,7 +468,6 @@
 - `Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` - 2018 GS-III Q9: CPEC as OBOR subset and India's strategic objections (0/6 tokens)
 - `Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` - 2022 GS-III Q1: Role of PPP model in railway station redevelopment (0/5 tokens)
 - `Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` - 2018 GS-III Q12: Protectionism and currency manipulation impact on macroeconomic stability (1/6 tokens)
-- `Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` - 2023 GS-III Q14: Farm subsidies in India and WTO dispute on agricultural support (1/5 tokens)
 - `Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` - 2022 GS-II Q16: Managing inflation and unemployment beyond welfare schemes (1/6 tokens)
 - `Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md` - 2022 GS-III Q5: Community health challenges from rising life expectancy in India (1/6 tokens)
 - `Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` - 2021 GS-I Q19: Cryptocurrency and its effect on global and Indian society (1/4 tokens)
@@ -555,14 +475,12 @@
 - `Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md` - 2021 Prelims GS-I Q10: Most inflationary method of financing budget deficit (1/6 tokens)
 - `Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md` - 2018 Prelims GS-I Q46: Legal tender money definition and characteristics (1/5 tokens)
 - `Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md` - 2019 Prelims GS-I Q86: Government and RBI measures to prevent rupee depreciation (1/5 tokens)
-- `Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md` - 2019 Prelims GS-I Q87: RBI payment data storage directive for system providers (1/6 tokens)
 - `Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md` - 2021 Prelims GS-I Q1: RBI Governor appointment and constitutional powers (0/4 tokens)
 - `Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md` - 2022 Prelims GS-I Q68: Institution responsible for price stability and inflation control (1/6 tokens)
 - `Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md` - 2021 Prelims GS-I Q14: WaterCredit microfinance initiative water sanitation access (1/6 tokens)
 - `Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md` - 2023 Prelims GS-I Q21: Infrastructure Investment Trusts InvIT tax treatment SARFAESI (1/6 tokens)
 - `Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md` - 2018 Prelims GS-I Q8: Equalization tax on non-resident online advertising services India (1/5 tokens)
 - `Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md` - 2018 Prelims GS-I Q97: Items exempted under Goods and Services Tax India (1/4 tokens)
-- `Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md` - 2018 Prelims GS-I Q100: Organic farming NPOP APEDA and Sikkim first organic state (1/7 tokens)
 - `Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` - 2020 Prelims GS-I Q63: Factors affecting rice price in India recently (1/5 tokens)
 - `Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` - 2023 Prelims GS-I Q27: Niger seed MSP cultivation season tribal communities (0/6 tokens)
 - `Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md` - 2022 Prelims GS-I Q79: Tea Board India statutory body ministry and overseas offices (1/6 tokens)
@@ -571,15 +489,10 @@
 - `Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` - 2020 Prelims GS-I Q89: Sugarcane cultivation bud chip settlings and tissue culture (1/6 tokens)
 - `Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` - 2021 Prelims GS-I Q51: Permaculture farming versus conventional chemical farming (1/4 tokens)
 - `Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` - 2021 Prelims GS-I Q59: Climate-Smart Agriculture CCAFS CGIAR ICRISAT India (1/5 tokens)
-- `Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` - 2019 Prelims GS-I Q37: Largest global rice exporter in recent years (0/6 tokens)
 - `Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` - 2019 Prelims GS-I Q84: Highest value agricultural commodity imported by India (1/5 tokens)
 - `Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` - 2020 Prelims GS-I Q56: TRIMS trade-related investment measures WTO provisions (1/5 tokens)
 - `Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` - 2022 Prelims GS-I Q71: Agency compiling industrial disputes data in India (1/5 tokens)
 - `Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` - 2018 Prelims GS-I Q15: Institution linking all ATMs across India (1/4 tokens)
-
-**Official-scan verification still required:**
-
-- 2023 GS-III Q12: Distinction between care economy and monetized economy integration - Routed to owning topic; partial OCR, manual verification needed
 
 
 ### Environment-and-Ecology
@@ -617,7 +530,6 @@
 - `Environment-and-Ecology/basic/02_Biogeochemical-Cycles-and-Ecological-Pyramids.md` - 2022 Prelims GS-I Q48: Nitrogen-fixing plant species identification in agriculture (1/5 tokens)
 - `Environment-and-Ecology/basic/04_Biodiversity-Levels-and-Hotspots.md` - 2018 Prelims GS-I Q60: Sixth mass extinction causes and human activities impact (0/7 tokens)
 - `Environment-and-Ecology/basic/05_IUCN-Red-List-and-Endemism.md` - 2022 Prelims GS-I Q47: Species identification Golden Mahseer Nightjar Spoonbill Ibis (1/7 tokens)
-- `Environment-and-Ecology/basic/05_IUCN-Red-List-and-Endemism.md` - 2023 Prelims GS-I Q12: Marsupials natural habitat and distribution in India (1/4 tokens)
 - `Environment-and-Ecology/basic/11_Forest-Types-and-Forest-Rights-Act.md` - 2022 Prelims GS-I Q50: Miyawaki method for urban mini forest creation (1/6 tokens)
 - `Environment-and-Ecology/basic/12_Forest-Governance-CAMPA-and-Green-India-Mission.md` - 2021 Prelims GS-I Q24: New York Declaration on Forests and deforestation (0/4 tokens)
 - `Environment-and-Ecology/basic/12_Forest-Governance-CAMPA-and-Green-India-Mission.md` - 2021 Prelims GS-I Q97: Hyderabad recognition as Tree City of the World (1/5 tokens)
@@ -631,14 +543,9 @@
 - `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2019 Prelims GS-I Q31: Himalayan nettle Girardinia diversifolia sustainable uses (0/6 tokens)
 - `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2021 Prelims GS-I Q23: Animals rolling up to protect vulnerable body parts (1/6 tokens)
 - `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2021 Prelims GS-I Q63: Moringa drumstick tamarind tree properties and uses (1/6 tokens)
-- `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2023 Prelims GS-I Q14: Nocturnal behaviour among Indian fauna species (1/4 tokens)
 - `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2023 Prelims GS-I Q15: Waggle dance communication in honeybee colonies (1/5 tokens)
-- `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2023 Prelims GS-I Q17: Indian squirrel nesting food-storage and dietary behaviour (0/5 tokens)
-- `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2023 Prelims GS-I Q19: Orangutan tool-making behaviour stick scraping insects (0/6 tokens)
-
-**Official-scan verification still required:**
-
-- 2022 Prelims GS-I Q45: Himalayan forest fungus species characteristics and cultivation - Partial OCR; manual verification needed; key unavailable locally
+- `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2023 Prelims GS-I Q17: Indian squirrel nesting food-storage and dietary behaviour (1/5 tokens)
+- `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2023 Prelims GS-I Q19: Orangutan tool-making behaviour stick scraping insects (1/6 tokens)
 
 
 ### Essay
@@ -719,18 +626,6 @@
 - `Ethics/advanced/22_Case-Study-Method-and-Answer-Architecture.md` - 2022 GS-IV Q9: Case on a journalist exposing stone-mining mafia-official-politician nexus who faces report suppression by the media owner (1/11 tokens)
 - `Ethics/advanced/22_Case-Study-Method-and-Answer-Architecture.md` - 2022 GS-IV Q11: Case on Joint Commissioner adjudicating bus driver death compensation dispute and resolving transport workers strike (1/12 tokens)
 
-**Official-scan verification still required:**
-
-- 2018 GS-IV Q6: (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good - Routed to owning Ethics topic; partial OCR, manual verification needed
-- 2018 GS-IV Q6: (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good - Routed to owning Ethics topic; partial OCR, manual verification needed
-- 2020 GS-IV Q1: (a) role of ethics and values in enhancing major sources of power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020 - Routed to owning Ethics topic; partial OCR, manual verification needed
-- 2020 GS-IV Q1: (a) role of ethics and values in enhancing major sources of power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020 - Routed to owning Ethics topic; partial OCR, manual verification needed
-- 2021 GS-IV Q3: three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance - Routed to owning Ethics topic; partial OCR, manual verification needed
-- 2021 GS-IV Q3: three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance - Routed to owning Ethics topic; partial OCR, manual verification needed
-- 2022 GS-IV Q5: (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty - Routed to owning Ethics topic; partial OCR, manual verification needed
-- 2022 GS-IV Q5: (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty - Routed to owning Ethics topic; partial OCR, manual verification needed
-- 2023 GS-IV Q3: (a) quotation on power of kindness; (b) quotation on awakening women to move the nation; (c) Swami Vivekananda on love and hatred - Routed to owning Ethics topic; partial OCR, manual verification needed
-
 
 ### Geography
 
@@ -786,11 +681,9 @@
 - `Geography/advanced/30_Primary-Economic-Activities-Agriculture.md` - 2018 GS-I Q15: Blue revolution and pisciculture development in India (1/4 tokens)
 - `Geography/advanced/30_Primary-Economic-Activities-Agriculture.md` - 2023 GS-I Q17: India from net food importer to net food exporter (1/3 tokens)
 - `Geography/advanced/37_Cultural-and-Social-Geography-of-India.md` - 2023 GS-I Q7: South-West Monsoon as Purvaiya in Bhojpur and cultural ethos (1/6 tokens)
-- `Geography/basic/01_The-Earth-and-the-Universe.md` - 2019 Prelims GS-I Q20: June 21 summer solstice sun position hemispheres (1/5 tokens)
 - `Geography/basic/01_The-Earth-and-the-Universe.md` - 2022 Prelims GS-I Q29: Summer solstice longest day timing in northern hemisphere (0/6 tokens)
 - `Geography/basic/02_The-Earths-Crust-Rocks.md` - 2018 Prelims GS-I Q57: Earth magnetic field reversal early atmosphere and life modification (1/8 tokens)
 - `Geography/basic/02_The-Earths-Crust-Rocks.md` - 2023 Prelims GS-I Q9: Indian hill ranges Amarkantak Biligirirangan Seshachalam classification (1/6 tokens)
-- `Geography/basic/05_Landforms-by-Running-Water.md` - 2021 Prelims GS-I Q53: Indus river system tributaries direct junction (1/6 tokens)
 - `Geography/basic/05_Landforms-by-Running-Water.md` - 2021 Prelims GS-I Q55: Rivers rising from Eastern Ghats identification (1/5 tokens)
 - `Geography/basic/05_Landforms-by-Running-Water.md` - 2022 Prelims GS-I Q24: Gandikota canyon formation by South Indian river (1/5 tokens)
 - `Geography/basic/06_Landforms-of-Glaciation.md` - 2023 GS-I Q6: Formation of fjords and their picturesque character (0/4 tokens)
@@ -798,8 +691,6 @@
 - `Geography/basic/09_Lakes.md` - 2021 Prelims GS-I Q54: Saline lakes Rajasthan Didwana Kuchaman Sargol Khatu (1/7 tokens)
 - `Geography/basic/10_Coastal-Landforms.md` - 2023 Prelims GS-I Q5: Repeated sea level changes forming extensive marshlands (1/6 tokens)
 - `Geography/basic/30_Primary-Economic-Activities-Agriculture.md` - 2022 Prelims GS-I Q62: Tea-producing states identification in India (0/3 tokens)
-- `Geography/basic/34_World-Regional-Geography-Continents-Countries.md` - 2022 Prelims GS-I Q27: Countries sharing border with Afghanistan identification (1/5 tokens)
-- `Geography/basic/34_World-Regional-Geography-Continents-Countries.md` - 2023 Prelims GS-I Q61: Countries sharing land borders with Ukraine (1/5 tokens)
 - `Geography/basic/35_Indian-Political-Geography-Boundaries-and-Neighbours.md` - 2018 Prelims GS-I Q29: Indian cities on longitude closest to Delhi (0/4 tokens)
 - `Geography/basic/35_Indian-Political-Geography-Boundaries-and-Neighbours.md` - 2020 Prelims GS-I Q96: Siachen Glacier geographical location and positioning (1/5 tokens)
 - `Geography/basic/36_Contemporary-Geographical-Issues-India.md` - 2019 Prelims GS-I Q23: Famous places and associated rivers in India (0/4 tokens)
@@ -811,30 +702,27 @@
 **No routed 2018-2023 question in this owner:**
 
 - `Governance/advanced/01_Good-Governance-Concepts-and-Frameworks.md`
+- `Governance/advanced/08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md`
+- `Governance/advanced/09_Civil-Services-and-Mission-Karmayogi.md`
 - `Governance/advanced/10_Administrative-Reforms-and-the-2nd-ARC.md`
+- `Governance/advanced/11_Regulatory-Governance-and-Independent-Regulators.md`
 - `Governance/advanced/15_Monitoring-Evaluation-and-Outcomes.md`
+- `Governance/advanced/16_Sports-Governance-Institutions-and-Major-Tournaments.md`
 - `Governance/basic/02_Government-Policy-Design-and-Implementation.md`
 - `Governance/basic/03_Development-Processes-and-the-Development-Industry.md`
 - `Governance/basic/04_NGOs-SHGs-and-Civil-Society-Stakeholders.md`
 - `Governance/basic/07_Citizen-Centric-Administration.md`
-- `Governance/basic/08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md`
 - `Governance/basic/13_Public-Finance-and-Service-Delivery-Tools.md`
 - `Governance/basic/14_Participatory-Governance.md`
 - `Governance/basic/15_Monitoring-Evaluation-and-Outcomes.md`
+- `Governance/basic/16_Sports-Governance-Institutions-and-Major-Tournaments.md`
 
 **Priority content-review signals:**
 
 - `Governance/advanced/02_Government-Policy-Design-and-Implementation.md` - 2018 GS-I Q17: Transformation of aspirational districts and convergence strategy (1/5 tokens)
 - `Governance/advanced/05_E-Governance-Models-and-User-Centricity.md` - 2019 GS-II Q8: Vital factors in implementing ICT-based projects and programmes (1/6 tokens)
-- `Governance/advanced/08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md` - 2020 GS-II Q2: Recent RTI amendments and the autonomy of the Information Commission (1/5 tokens)
-- `Governance/advanced/11_Regulatory-Governance-and-Independent-Regulators.md` - 2023 GS-II Q7: Competition Commission of India and abuse of dominant position (1/5 tokens)
 - `Governance/advanced/14_Participatory-Governance.md` - 2019 GS-II Q17: Cooperation among service sectors and partnership in development (1/5 tokens)
-- `Governance/basic/11_Regulatory-Governance-and-Independent-Regulators.md` - 2018 Prelims GS-I Q23: Food Safety and Standards Act 2006 and FSSAI structure (1/5 tokens)
 - `Governance/basic/12_Local-Governance-and-Service-Delivery.md` - 2021 Prelims GS-I Q81: Right to the City concept and UN-Habitat (1/4 tokens)
-
-**Official-scan verification still required:**
-
-- 2022 Prelims GS-I Q31: Government digital services built on open-source platforms - Partial OCR; manual verification needed; key unavailable locally
 
 
 ### Indian-Art-and-Culture
@@ -851,11 +739,13 @@
 - `Indian-Art-and-Culture/advanced/10_Theatre-Puppetry-and-Performance-Traditions.md`
 - `Indian-Art-and-Culture/advanced/11_Languages-Scripts-Literature-and-Manuscripts.md`
 - `Indian-Art-and-Culture/advanced/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`
+- `Indian-Art-and-Culture/advanced/15_Indian-Cinema-Film-Institutions-and-Awards.md`
 - `Indian-Art-and-Culture/basic/01_Architecture-Foundations-and-Harappan-Urbanism.md`
 - `Indian-Art-and-Culture/basic/05_Colonial-and-Post-Independence-Architecture.md`
 - `Indian-Art-and-Culture/basic/06_Sculpture-Pottery-and-Iconography.md`
 - `Indian-Art-and-Culture/basic/09_Indian-Dance.md`
 - `Indian-Art-and-Culture/basic/10_Theatre-Puppetry-and-Performance-Traditions.md`
+- `Indian-Art-and-Culture/basic/15_Indian-Cinema-Film-Institutions-and-Awards.md`
 
 **Priority content-review signals:**
 
@@ -927,13 +817,6 @@
 - `Internal-Security/basic/08_Cyber-Security-CII-and-Cybercrime.md` - 2018 Prelims GS-I Q58: WannaCry Petya EternalBlue terms in technology news (1/6 tokens)
 - `Internal-Security/basic/08_Cyber-Security-CII-and-Cybercrime.md` - 2020 Prelims GS-I Q60: Cyber insurance coverage benefits for individuals in India (1/5 tokens)
 
-**Official-scan verification still required:**
-
-- 2018 GS-III Q10: Left Wing Extremism challenges and government counter strategy - Routed to owning topic; partial OCR, manual verification needed
-- 2020 GS-III Q20: Security challenges along Pakistan LoC and Bangladesh borders - Routed to owning topic; partial OCR, manual verification needed
-- 2022 GS-III Q19: Cyber security elements challenges and India preparedness assessment - Routed to owning topic; partial OCR, manual verification needed
-- 2023 GS-III Q20: Major terror funding sources in India and FATF compliance efforts - Routed to owning topic; partial OCR, manual verification needed
-
 
 ### International-Relations
 
@@ -952,14 +835,13 @@
 - `International-Relations/advanced/10_Regional-Global-and-Minilateral-Groupings.md` - 2023 GS-II Q19: Expansion of NATO and a stronger US-Europe partnership for India (1/5 tokens)
 - `International-Relations/advanced/12_UN-and-International-Institutions-Global-Governance.md` - 2019 GS-II Q10: UNESCO funding stress and the US withdrawal (0/4 tokens)
 - `International-Relations/basic/06_West-Asia-Energy-Security-and-Connectivity.md` - 2018 Prelims GS-I Q37: Conflict zone towns and their correct country matching (1/6 tokens)
-- `International-Relations/basic/07_India-Africa-Development-and-Digital-Partnership.md` - 2023 Prelims GS-I Q98: Military coups in Chad Guinea Mali Sudan West Africa (1/8 tokens)
 - `International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings.md` - 2018 Prelims GS-I Q33: India IAEA Additional Protocol ratification and implications (1/5 tokens)
 - `International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings.md` - 2023 Prelims GS-I Q89: EU Stability and Growth Pact budgetary deficit obligations (1/6 tokens)
 - `International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md` - 2018 Prelims GS-I Q18: Countries facing severe famine due to war and conflict (1/5 tokens)
 - `International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md` - 2022 Prelims GS-I Q77: International Polar Code purpose and scope (1/5 tokens)
 - `International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md` - 2023 Prelims GS-I Q78: Country with decades of civil strife and famine (0/5 tokens)
 - `International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md` - 2023 Prelims GS-I Q93: Conflict zones North Kivu Nagorno-Karabakh Kherson Zaporizhzhia (0/7 tokens)
-- `International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md` - 2023 Prelims GS-I Q97: Conflict zones Donbas Kachin Tigray matched country locations (0/8 tokens)
+- `International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md` - 2023 Prelims GS-I Q97: Conflict zones Donbas Kachin Tigray matched country locations (1/8 tokens)
 
 
 ### Medieval-Indian-History
@@ -1085,7 +967,7 @@
 - `Modern-Indian-History/basic/34_From-Shastri-to-Indira-1964-73.md` - 2019 Prelims GS-I Q48: Coal sector nationalization status in independent India (0/5 tokens)
 - `Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md` - 2018 Prelims GS-I Q70: Founders of Hind Mazdoor Sabha labour organisation 1948 (0/6 tokens)
 - `Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md` - 2021 Prelims GS-I Q99: Tokyo 2020 Summer Olympics motto and new sports (0/5 tokens)
-- `Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md` - 2021 Prelims GS-I Q100: ICC World Test Championship finalist determination criteria (0/6 tokens)
+- `Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md` - 2021 Prelims GS-I Q100: ICC World Test Championship finalist determination criteria (1/6 tokens)
 
 
 ### Political-Theory
@@ -1157,18 +1039,23 @@
 - `Polity/advanced/22_Special-Provisions.md`
 - `Polity/advanced/26_Scheduled-and-Tribal-Areas.md`
 - `Polity/advanced/28_UPSC-and-SPSC.md`
+- `Polity/advanced/31_National-Commissions-SC-ST-BC.md`
+- `Polity/advanced/35_NHRC-and-SHRC.md`
+- `Polity/advanced/36_CIC-and-SIC.md`
+- `Polity/advanced/37_CVC-and-CBI.md`
 - `Polity/advanced/38_Lokpal-and-Lokayuktas.md`
 - `Polity/advanced/39_Cooperative-Societies.md`
 - `Polity/advanced/40_Official-Language.md`
 - `Polity/advanced/41_Public-Services.md`
 - `Polity/advanced/42_Anti-Defection-Law.md`
 - `Polity/advanced/45_National-Integration-and-Foreign-Policy.md`
-- `Polity/basic/Administrative-Tribunals.md`
+- `Polity/advanced/46_Administrative-Tribunals.md`
+- `Polity/advanced/47_Comparative-Constitutional-Design.md`
+- `Polity/advanced/48_Ministries-Departments-and-Central-Secretariat.md`
+- `Polity/advanced/49_Regulatory-State-and-Quasi-Judicial-Institutions.md`
 - `Polity/basic/CAG.md`
 - `Polity/basic/Centre-State-Relations.md`
-- `Polity/basic/CIC-and-SIC.md`
 - `Polity/basic/Cooperative-Societies.md`
-- `Polity/basic/CVC-and-CBI.md`
 - `Polity/basic/Finance-Commission.md`
 - `Polity/basic/Fundamental-Duties.md`
 - `Polity/basic/GST-Council.md`
@@ -1177,7 +1064,6 @@
 - `Polity/basic/Lokpal-and-Lokayuktas.md`
 - `Polity/basic/Municipalities.md`
 - `Polity/basic/National-Integration-and-Foreign-Policy.md`
-- `Polity/basic/NHRC-and-SHRC.md`
 - `Polity/basic/Official-Language.md`
 - `Polity/basic/Panchayati-Raj.md`
 - `Polity/basic/Political-Parties.md`
@@ -1200,36 +1086,28 @@
 - `Polity/advanced/18_Supreme-Court.md` - 2021 GS-II Q2: Greater representation of women in the higher judiciary (1/5 tokens)
 - `Polity/advanced/20_State-Legislature.md` - 2023 GS-II Q5: Presiding Officers of state legislatures and impartial conduct of business (1/7 tokens)
 - `Polity/advanced/27_Election-Commission.md` - 2019 GS-II Q11: Disqualification of a people's representative under RPA 1951 and remedies (1/4 tokens)
+- `Polity/basic/CIC-and-SIC.md` - 2020 GS-II Q2: Recent RTI amendments and the autonomy of the Information Commission (1/5 tokens)
 - `Polity/basic/Citizenship.md` - 2021 Prelims GS-I Q89: Citizenship domicile and deprivation provisions India (1/4 tokens)
 - `Polity/basic/Directive-Principles.md` - 2020 Prelims GS-I Q9: Legal Services Authorities free legal aid eligibility criteria (1/6 tokens)
-- `Polity/basic/Directive-Principles.md` - 2021 Prelims GS-I Q91: Constitutional provision against concentration of wealth (0/4 tokens)
+- `Polity/basic/Directive-Principles.md` - 2021 Prelims GS-I Q91: Constitutional provision against concentration of wealth (1/4 tokens)
 - `Polity/basic/Election-Commission.md` - 2021 Prelims GS-I Q80: Candidate contesting from multiple Lok Sabha constituencies (0/5 tokens)
 - `Polity/basic/Federal-System.md` - 2023 Prelims GS-I Q32: Prison administration by State Governments Prisons Act 1894 (1/5 tokens)
 - `Polity/basic/Fundamental-Rights.md` - 2021 Prelims GS-I Q82: Judicial custody versus police custody in India (1/3 tokens)
 - `Polity/basic/Fundamental-Rights.md` - 2021 Prelims GS-I Q85: Unguided executive discretionary power constitutional violation (1/6 tokens)
-- `Polity/basic/Fundamental-Rights.md` - 2021 Prelims GS-I Q96: Bharat Ratna Padma Awards constitutional procedural status (1/7 tokens)
 - `Polity/basic/Fundamental-Rights.md` - 2023 Prelims GS-I Q40: Reservation under Article 16 and administrative efficiency Article 335 (1/4 tokens)
 - `Polity/basic/Governor-and-CM.md` - 2019 Prelims GS-I Q66: Recommendations on ideal Governor appointment criteria (1/5 tokens)
+- `Polity/basic/NHRC-and-SHRC.md` - 2018 GS-II Q16: Multiplicity of commissions for vulnerable sections and an umbrella body (0/6 tokens)
 - `Polity/basic/NITI-Aayog.md` - 2019 Prelims GS-I Q19: Atal Innovation Mission institutional setup arrangement (0/6 tokens)
 - `Polity/basic/PM-and-Council-of-Ministers.md` - 2020 Prelims GS-I Q19: Minister appointment without legislature membership and disqualification (1/6 tokens)
-- `Polity/basic/Parliament.md` - 2018 Prelims GS-I Q20: Parliamentary Committee scrutinizing delegated legislation India (1/5 tokens)
-- `Polity/basic/Parliament.md` - 2019 Prelims GS-I Q69: Parliamentary committees reviewing independent sector regulators (1/6 tokens)
 - `Polity/basic/Parliament.md` - 2020 Prelims GS-I Q3: MPLADS fund utilisation inspection and carryforward rules (1/6 tokens)
 - `Polity/basic/Parliamentary-System.md` - 2021 Prelims GS-I Q77: Indian vs British parliamentary democracy key differences (1/4 tokens)
 - `Polity/basic/Preamble.md` - 2020 Prelims GS-I Q16: Preamble legal effect and constitutional status (1/5 tokens)
 - `Polity/basic/Salient-Features.md` - 2018 Prelims GS-I Q40: Conceptual relationship between law and liberty (0/3 tokens)
-- `Polity/basic/Salient-Features.md` - 2020 Prelims GS-I Q7: Constitutional government definition as limited government (1/4 tokens)
 - `Polity/basic/Salient-Features.md` - 2021 Prelims GS-I Q87: Definition of State in political science theory (1/5 tokens)
 - `Polity/basic/Salient-Features.md` - 2021 Prelims GS-I Q90: Best safeguard of liberty in liberal democracy (0/5 tokens)
-- `Polity/basic/Salient-Features.md` - 2021 Prelims GS-I Q94: Constitutional government definition and limiting authority (1/5 tokens)
 - `Polity/basic/Salient-Features.md` - 2023 Prelims GS-I Q33: Chief purpose of a Constitution in governance (1/4 tokens)
 - `Polity/basic/Salient-Features.md` - 2023 Prelims GS-I Q84: National Flag India Flag Code standard sizes and proportions (1/6 tokens)
 - `Polity/basic/Supreme-Court.md` - 2022 Prelims GS-I Q12: Advocates recognition and Bar Council powers India (1/4 tokens)
-
-**Official-scan verification still required:**
-
-- 2020 Prelims GS-I Q13: Basic structure doctrine definition and judicial review - Partial OCR; manual verification needed; key unavailable locally
-- 2023 GS-II Q4: British and Indian approaches to Parliamentary practice - Routed to owning topic; the final noun of the printed stem is not legible, manual verification needed
 
 
 ### Science-and-Technology
@@ -1245,10 +1123,13 @@
 - `Science-and-Technology/advanced/20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md`
 - `Science-and-Technology/advanced/22_General-Science-Chemistry-Fundamentals.md`
 - `Science-and-Technology/advanced/24_S-and-T-Institutions-DST-CSIR-ANRF.md`
+- `Science-and-Technology/advanced/25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md`
+- `Science-and-Technology/advanced/26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md`
 - `Science-and-Technology/basic/05_Nuclear-Fusion-and-ITER.md`
 - `Science-and-Technology/basic/07_Defence-Indigenization-Atmanirbhar-and-Procurement.md`
 - `Science-and-Technology/basic/11_Semiconductor-Mission-and-Electronics-Manufacturing.md`
 - `Science-and-Technology/basic/24_S-and-T-Institutions-DST-CSIR-ANRF.md`
+- `Science-and-Technology/basic/26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md`
 
 **Priority content-review signals:**
 
@@ -1261,7 +1142,6 @@
 - `Science-and-Technology/basic/08_Digital-India-and-India-Stack-UPI-Aadhaar.md` - 2018 Prelims GS-I Q66: Internet of Things smart connected devices scenario description (1/7 tokens)
 - `Science-and-Technology/basic/08_Digital-India-and-India-Stack-UPI-Aadhaar.md` - 2019 Prelims GS-I Q91: Augmented Reality and Virtual Reality technology differences (1/5 tokens)
 - `Science-and-Technology/basic/08_Digital-India-and-India-Stack-UPI-Aadhaar.md` - 2019 Prelims GS-I Q95: Tasks accomplished by wearable technology devices (1/5 tokens)
-- `Science-and-Technology/basic/12_Data-Protection-DPDP-Act-and-Cybersecurity.md` - 2019 Prelims GS-I Q94: Digital signature characteristics and electronic authentication (1/5 tokens)
 - `Science-and-Technology/basic/13_Biotechnology-Fundamentals-and-DBT-Missions.md` - 2023 Prelims GS-I Q67: Wolbachia method for controlling mosquito-borne viral diseases (1/6 tokens)
 - `Science-and-Technology/basic/13_Biotechnology-Fundamentals-and-DBT-Missions.md` - 2023 Prelims GS-I Q69: Aerial metagenomics collecting DNA samples from air (0/4 tokens)
 - `Science-and-Technology/basic/14_Genetic-Engineering-GM-Crops-and-CRISPR.md` - 2019 Prelims GS-I Q93: Developments in artificial chromosome and DNA science (1/4 tokens)
@@ -1276,12 +1156,6 @@
 - `Science-and-Technology/basic/23_General-Science-Biology-and-Physiology.md` - 2021 Prelims GS-I Q69: Microorganisms cultured in artificial synthetic medium (1/5 tokens)
 - `Science-and-Technology/basic/23_General-Science-Biology-and-Physiology.md` - 2023 Prelims GS-I Q16: Properties of mushrooms medicinal psychoactive insecticidal bioluminescent (0/6 tokens)
 - `Science-and-Technology/basic/23_General-Science-Biology-and-Physiology.md` - 2023 Prelims GS-I Q18: Extreme environment microorganisms thermophiles psychrophiles acidophiles (1/6 tokens)
-
-**Official-scan verification still required:**
-
-- 2018 Prelims GS-I Q99: Vectors spreading plant diseases dust rain wind - Partial OCR; manual verification needed; key unavailable locally
-- 2019 Prelims GS-I Q57: Indian Patents Act and Intellectual Property Board - Partial OCR; manual verification needed; key unavailable locally
-- 2022 GS-III Q6: Natural decomposition processes of cellulose on Earth surface - Routed to owning topic; partial OCR, manual verification needed
 
 
 ### Social-Justice

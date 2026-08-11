@@ -171,6 +171,8 @@ can intensify water stress and stock imbalance.
   competition.
 - ✅ `15_Food-Processing-Cold-Chains-and-Value-Addition.md` — storage and diversified food
   value chains.
+- ✅ `28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` — dedicated subsidy/WTO
+  architecture.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -178,9 +180,9 @@ can intensify water stress and stock imbalance.
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
 
-- **Years represented:** 2018, 2019, 2021, 2022, 2023
+- **Years represented:** 2018, 2019, 2021, 2022
 - **Paper(s):** GS-III
-- **Routed question demands:** 5
+- **Routed question demands:** 4
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
@@ -188,7 +190,6 @@ can intensify water stress and stock imbalance.
 | 2019 | GS-III | 13 | Reformative steps to make food grain distribution system effective | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-III | 13 | National Food Security Act 2013 features and hunger impact | What are · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-III | 3 | Challenges of PDS and improving its effectiveness and transparency | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-III | 14 | Farm subsidies in India and WTO dispute on agricultural support | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
@@ -196,7 +197,6 @@ can intensify water stress and stock imbalance.
 - Reformative steps to make food grain distribution system effective
 - National Food Security Act 2013 features and hunger impact
 - Challenges of PDS and improving its effectiveness and transparency
-- Farm subsidies in India and WTO dispute on agricultural support
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

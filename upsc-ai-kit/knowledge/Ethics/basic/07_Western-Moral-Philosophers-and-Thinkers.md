@@ -138,3 +138,26 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 - ✅ `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md` — the three theories applied in depth.
 - ✅ `Philosophy/paper-1/western/Kant.md` — Kant's full philosophical system.
 - ✅ `Philosophy/paper-1/western/Plato-Aristotle.md` — Plato and Aristotle in full depth.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-IV | 3 | Three quotations of great thinkers and their present-day meaning | Section A theory · 10 + 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 3 | Three quotations (Thiruvalluvar, William James, Vivekananda) | Section A theory · 10 + 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Three quotations of great thinkers and their present-day meaning
+- Three quotations (Thiruvalluvar, William James, Vivekananda)
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

@@ -219,13 +219,13 @@ their recitation.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2020 | GS-IV | 1 | (a) role of ethics and values in enhancing major sources of power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020 | Discuss / Examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 1 | (a) role of ethics and values in enhancing the three major components of Comprehensive National Power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020 | Discuss / Examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | GS-IV | 5 | (a) main factors for gender inequality in India and Savitribai Phule contribution; (b) internet expansion instilling cultural values in conflict with traditional values | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-IV | 3 | (a) Potter Stewart on ethics vs right-to-do; (b) APJ Kalam on corruption-free nation; (c) Dalai Lama on success and sacrifice | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
-- (a) role of ethics and values in enhancing major sources of power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020
+- (a) role of ethics and values in enhancing the three major components of Comprehensive National Power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020
 - (a) main factors for gender inequality in India and Savitribai Phule contribution; (b) internet expansion instilling cultural values in conflict with traditional values
 - (a) Potter Stewart on ethics vs right-to-do; (b) APJ Kalam on corruption-free nation; (c) Dalai Lama on success and sacrifice
 

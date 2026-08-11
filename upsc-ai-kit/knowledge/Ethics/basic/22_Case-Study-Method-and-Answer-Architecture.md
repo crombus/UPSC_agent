@@ -185,3 +185,46 @@ followed by a realistic implementation/mitigation plan.
 - ✅ `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md` — the theory-application step.
 - ✅ `05_Emotional-Intelligence-in-Administration.md` — the DC-Vijay-type personal/duty dilemma.
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — real, named cases to practise the architecture on.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 12
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-IV | 7 | Case study: ABC Incorporated, a large technology company | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2024 | GS-IV | 8 | Case study: Raman, a senior IPS officer appointed DG of a State | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2024 | GS-IV | 9 | Case study: Rohit and a multi-pronged strategy in LWE-affected States | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2024 | GS-IV | 10 | Case study: Sneha, a senior manager at a hospital chain | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2024 | GS-IV | 11 | Case study: District Collector amid acute water scarcity | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2024 | GS-IV | 12 | Case study: Dr. Srinivasan, a senior scientist at a biotechnology company | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 7 | Case study: Vijay, Deputy Commissioner of a remote district in a hilly northern State | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 8 | Case study: deforestation for housing and social-welfare objectives | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 9 | Case study: Subash - ethical issues and options | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 10 | Case study: Rajesh - options and ethical issues | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 11 | Case study: restoring proper functioning of the MGNREGA programme | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 12 | Case study: Ashok - ethical and legal dilemmas | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+
+### What this owner must now support
+
+- Case study: ABC Incorporated, a large technology company
+- Case study: Raman, a senior IPS officer appointed DG of a State
+- Case study: Rohit and a multi-pronged strategy in LWE-affected States
+- Case study: Sneha, a senior manager at a hospital chain
+- Case study: District Collector amid acute water scarcity
+- Case study: Dr. Srinivasan, a senior scientist at a biotechnology company
+- Case study: Vijay, Deputy Commissioner of a remote district in a hilly northern State
+- Case study: deforestation for housing and social-welfare objectives
+- Case study: Subash - ethical issues and options
+- Case study: Rajesh - options and ethical issues
+- Case study: restoring proper functioning of the MGNREGA programme
+- Case study: Ashok - ethical and legal dilemmas
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

@@ -171,6 +171,12 @@ extension, maintenance and market access determine who benefits.
   water use.
 - ✅ `25_Climate-Economics-Green-Finance-and-Circular-Economy.md` — adaptation and climate
   risk.
+- ✅ `28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` — integrated input-subsidy,
+  incidence and reform analysis.
+- ✅ `29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` — technology
+  diffusion, sustainability missions and evaluation.
+- ✅ `30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` — animal-
+  enterprise risk, biological cycles, IFS and One Health.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -180,23 +186,21 @@ extension, maintenance and market access determine who benefits.
 
 - **Years represented:** 2018, 2019, 2020, 2021, 2022
 - **Paper(s):** GS-III
-- **Routed question demands:** 8
+- **Routed question demands:** 7
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | GS-III | 8 | Sikkim Organic State ecological and economic benefits | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2018 | GS-III | 13 | National Horticulture Mission role in horticulture production and income | Assess · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-III | 3 | Integrated Farming System role in sustaining agricultural production | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-III | 3 | Integrated Farming System role in sustaining agricultural production | Discuss · 10 marks · 150 words | Cross-routed to sustainable-input and crop-livestock integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | GS-III | 4 | National Watershed Project impact on water-stressed area agriculture | Elaborate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | GS-III | 8 | Jal Shakti Abhiyan features for water conservation and security | What are · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | GS-III | 14 | Measures to improve water storage and irrigation under depletion | Suggest · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-III | 4 | Micro-irrigation role and extent in solving India's water crisis | How · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 14 | Integrated Farming System benefits for small and marginal farmers | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 14 | Integrated Farming System benefits for small and marginal farmers | Explain · 15 marks · 250 words | Cross-routed to sustainable-input and smallholder animal-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Sikkim Organic State ecological and economic benefits
-- National Horticulture Mission role in horticulture production and income
 - Integrated Farming System role in sustaining agricultural production
 - National Watershed Project impact on water-stressed area agriculture
 - Jal Shakti Abhiyan features for water conservation and security

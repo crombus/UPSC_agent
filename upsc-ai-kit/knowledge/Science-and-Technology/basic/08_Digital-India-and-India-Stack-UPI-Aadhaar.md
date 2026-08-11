@@ -146,9 +146,31 @@ interoperable digital public infrastructure for service delivery
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/08_Digital-India-and-India-Stack-UPI-Aadhaar.md`.
+- ✅ Advanced companion: `../advanced/08_Digital-India-and-India-Stack-UPI-Aadhaar.md`.
+- ✅ `25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md` — APIs, networks,
+  cloud, IoT, AR/VR and distributed-ledger foundations.
 - ✅ `12_Data-Protection-DPDP-Act-and-Cybersecurity.md` — privacy, data governance and cyber-risk side.
 - ✅ `../../Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` — macro-fintech, market-structure and economic analysis.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-III | 6 | Technology for electronic toll collection on highways | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Technology for electronic toll collection on highways
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -163,13 +185,13 @@ interoperable digital public infrastructure for service delivery
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 17 | Aadhaar Open APIs electronic integration and biometric authentication | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2018 | Prelims GS-I | 66 | Internet of Things smart connected devices scenario description | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 75 | Differences between LTE and VoLTE telecom standards | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 91 | Augmented Reality and Virtual Reality technology differences | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 95 | Tasks accomplished by wearable technology devices | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 40 | Blockchain technology public ledger features and applications | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 33 | Software as a Service cloud computing features | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 17 | Aadhaar Open APIs electronic integration and biometric authentication | Objective question; official key unavailable locally | Digital-governance specialist plus computing API/authentication foundations; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 66 | Internet of Things smart connected devices scenario description | Objective question; official key unavailable locally | Digital-application specialist plus computing/IoT mechanism Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 75 | Differences between LTE and VoLTE telecom standards | Objective question; official key unavailable locally | Digital-connectivity application plus telecom/network foundations; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 91 | Augmented Reality and Virtual Reality technology differences | Objective question; official key unavailable locally | Digital-application specialist plus AR/VR computing Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 95 | Tasks accomplished by wearable technology devices | Objective question; official key unavailable locally | Digital-application specialist plus sensor/wearable computing Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 40 | Blockchain technology public ledger features and applications | Objective question; official key unavailable locally | Digital-application specialist plus distributed-ledger Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 33 | Software as a Service cloud computing features | Objective question; official key unavailable locally | Digital-service application plus cloud-service-model Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 

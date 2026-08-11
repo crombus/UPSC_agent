@@ -234,7 +234,7 @@ successfully enacted reform faces an ongoing, separate social-implementation cha
 |---:|---|---:|---|---|---|---|
 | 2018 | GS-I | 10 | Indian concept of secularism against the western model | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | GS-I | 10 | Cultural practices that challenge secularism | Name and discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-II | 5 | What France can learn from India's approach to secularism | What can it learn · 10 marks · 150 words | Cross-cutting; constitutional guarantee and the secularism concept both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-II | 5 | What France can learn from India's approach to secularism | What can it learn · 10 marks · 150 words | Dedicated comparative owner plus constitutional-rights and society support | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-I | 19 | Tolerance assimilation and pluralism in the Indian form of secularism | Justify your answer · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support

@@ -308,7 +308,7 @@ reflects a deliberate rights-versus-readiness trade-off.
 | 2019 | GS-III | 10 | CyberDome Project and its utility in controlling internet crimes | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | GS-III | 9 | Types of cyber crimes and countermeasures against menace | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-III | 10 | Cross-border cyber attacks impact on India's internal security | Analyse · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 19 | Cyber security elements challenges and India preparedness assessment | Examine · 15 marks · 250 words | Routed to owning topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 19 | Cyber security elements challenges and India preparedness assessment | Examine · 15 marks · 250 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 

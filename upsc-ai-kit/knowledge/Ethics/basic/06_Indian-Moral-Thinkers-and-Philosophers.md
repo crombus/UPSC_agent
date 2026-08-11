@@ -151,3 +151,28 @@ duty/devotion.
 - ✅ `02_Human-Values-and-Lessons-from-Leaders.md` — Gandhi, Vivekananda, Kautilya, Mahavir quotations.
 - ✅ `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md` — cross-tradition theory comparison.
 - ✅ `Philosophy/paper-1/indian/Buddhism.md` — Buddha's philosophy in full depth.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-IV | 3 | Three quotations of great thinkers and their present-day meaning | Section A theory · 10 + 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 3 | Three quotations (Thiruvalluvar, William James, Vivekananda) | Section A theory · 10 + 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 4 | (a) reason and critical thinking in welfare-scheme implementation; (b) teachings of Mahavir | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Three quotations of great thinkers and their present-day meaning
+- Three quotations (Thiruvalluvar, William James, Vivekananda)
+- (a) reason and critical thinking in welfare-scheme implementation; (b) teachings of Mahavir
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

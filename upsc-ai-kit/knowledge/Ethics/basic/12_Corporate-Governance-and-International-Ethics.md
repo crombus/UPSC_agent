@@ -150,3 +150,26 @@ should describe *how* business is done throughout, not a separate reputational f
 - ✅ `19_Corruption-Legal-Framework.md` — whistleblower-protection parallels (public vs corporate).
 - ✅ `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md` — theory triangulation for
   business dilemmas.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-IV | 10 | Case study: Sneha, a senior manager at a hospital chain | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 2 | (a) Clausewitz - war as diplomacy by other means; (b) ethics of environmental clearance in sensitive border areas | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Case study: Sneha, a senior manager at a hospital chain
+- (a) Clausewitz - war as diplomacy by other means; (b) ethics of environmental clearance in sensitive border areas
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

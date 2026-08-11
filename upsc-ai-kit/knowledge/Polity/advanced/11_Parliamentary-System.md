@@ -112,13 +112,13 @@ cases keep **collective responsibility & no-confidence** live.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | GS-II | 13 | Basic tenets of the Indian and US political systems | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-II | 4 | British and Indian approaches to Parliamentary practice | Compare and contrast · 10 marks · 150 words | Routed to owning topic; the final noun of the printed stem is not legible, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-II | 13 | Basic tenets of the Indian and US political systems | Examine · 15 marks · 250 words | Dedicated comparative owner plus parliamentary-system support | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 4 | British and Indian approaches to Parliamentary sovereignty | Compare and contrast · 10 marks · 150 words | Dedicated comparative owner plus parliamentary-system support; final noun verified against official scan | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Basic tenets of the Indian and US political systems
-- British and Indian approaches to Parliamentary practice
+- British and Indian approaches to Parliamentary sovereignty
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

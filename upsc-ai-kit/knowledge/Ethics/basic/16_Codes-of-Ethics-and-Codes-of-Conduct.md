@@ -138,3 +138,26 @@ unacceptable behaviour and action" — the two are complementary, not interchang
 - ✅ `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — Nolan principles in full.
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — Mudgal and cash-for-questions cases.
 - ✅ `Polity/advanced/41_Public-Services.md` — service-rule/constitutional detail.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-IV | 5 | (a) code of conduct and code of ethics in public administration; (b) BNS rooted in Indian culture | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 6 | (a) value-based and compliance-based work culture and code of ethics; (b) accountability against leakages and misuse of funds | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) code of conduct and code of ethics in public administration; (b) BNS rooted in Indian culture
+- (a) value-based and compliance-based work culture and code of ethics; (b) accountability against leakages and misuse of funds
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

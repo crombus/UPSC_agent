@@ -46,7 +46,27 @@ legal framework of government in India — the most important being the **Govern
 > 🔑 Mnemonic (reforms pairs): **1909 = communal electorate** · **1919 = dyarchy** ·
 > **1935 = provincial autonomy**. (Don't swap them!)
 
-## 5. Must-Know Facts (Prelims)
+## 5. Government of India Act, 1935 - complete Prelims core
+
+| Feature | Exact distinction |
+|---|---|
+| **All-India Federation** | Proposed a federation of British Indian provinces and princely states |
+| **Did the federation operate?** | **No.** Accession of the required princely states did not occur |
+| **Provincial autonomy** | Dyarchy in provinces was abolished and responsible government expanded, subject to gubernatorial safeguards |
+| **Dyarchy at the Centre** | Federal subjects were divided into reserved and transferred subjects, but this federal arrangement did not commence |
+| **Reserved federal subjects** | **Defence, external/foreign affairs, ecclesiastical affairs and tribal areas** were administered by the Governor-General with councillors, not controlled by responsible ministers or the federal legislature |
+| **Legislative lists** | Federal, Provincial and Concurrent Lists |
+| **Residuary powers** | Vested in the Governor-General, not automatically in the federal or provincial legislature |
+| **Bicameralism** | Introduced in six provinces |
+| **Institutions** | Provided for the Federal Court; separated Burma; supported the institutional framework associated with the RBI |
+
+> **2024 Prelims trap:** The Act **provided** for an All-India Federation of provinces and princely
+> states, so that statement is correct even though the federation never came into operation.
+> Defence and foreign affairs were **reserved under the Governor-General**, not kept under the
+> control of the federal legislature. Therefore, for that two-statement question, **statement 1
+> only** is correct.
+
+## 6. Must-Know Facts (Prelims)
 
 - ✅ First **GG of Bengal** = Warren Hastings (1773); first **GG of India** = William Bentinck (1833).
 - ✅ First **Viceroy** = Lord Canning (1858).
@@ -57,3 +77,25 @@ legal framework of government in India — the most important being the **Govern
 
 ➡️ For every Act's full features, the complete "firsts" table, Simon Commission, Communal Award,
 traps and Mains angles — see **advanced/Historical-Background.md**.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Prelims GS-I | 62 | Government of India Act, 1935 - All-India Federation and reserved control of defence and foreign affairs | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Government of India Act, 1935 - All-India Federation and reserved control of defence and foreign affairs
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

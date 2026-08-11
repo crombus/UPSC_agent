@@ -110,4 +110,6 @@ decisions (e.g. Operation Sindoor / strikes, ceasefire calls). ⚠️ Debates on
 - ✅ **2024 GS-II Q3 (10 marks, 150 words)** asks how growth of the cabinet system has
   marginalised parliamentary supremacy. Use this file for PM/cabinet agenda control,
   collective responsibility and party-whip effects; use `11_Parliamentary-System.md` for
-  the complete verified-PYQ route and `17_Parliament.md` for scrutiny correctives.
+  the complete verified-PYQ route, `17_Parliament.md` for scrutiny correctives and
+  `../basic/Ministries-and-Departments-of-Government.md` for executive information,
+  drafting, budget and departmental-control mechanisms.

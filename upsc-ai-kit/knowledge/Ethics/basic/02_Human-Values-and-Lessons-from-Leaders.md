@@ -130,3 +130,26 @@ incentives — the same institutions-plus-values synthesis taught in `01`.
 - ✅ `06_Indian-Moral-Thinkers-and-Philosophers.md` — Kautilya, Gandhi, Vivekananda, Buddha in depth.
 - ✅ `03_Attitude-Content-Structure-and-Persuasion.md` — William James's attitude-change link.
 - ✅ `Philosophy/paper-1/indian/Jainism.md` — Mahavir's philosophical system in full depth.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024
+- **Paper(s):** GS-IV
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-IV | 2 | (a) belief in peace, not merely talk; (b) global warming and human greed | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2024 | GS-IV | 6 | (a) equal opportunity despite gender identity in Indian culture; (b) Mission Karmayogi | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) belief in peace, not merely talk; (b) global warming and human greed
+- (a) equal opportunity despite gender identity in Indian culture; (b) Mission Karmayogi
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

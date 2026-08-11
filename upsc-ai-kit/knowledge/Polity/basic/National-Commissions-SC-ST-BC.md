@@ -40,19 +40,27 @@ jurisprudence; do not present it as the single unanimous ratio of the case.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2018, 2020, 2022, 2023
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 5
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2023 | Prelims GS-I | 35 | Constitutional versus statutory bodies national commissions India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | GS-II | 2 | NCSC and reservation for Scheduled Castes in minority institutions | Examine · 10 marks · 150 words | Constitutional-commission specialist plus consolidated body-design Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-II | 16 | Multiplicity of commissions for vulnerable sections and an umbrella body | Argue your case · 15 marks · 250 words | Cross-cutting; statutory and constitutional commission families plus consolidated Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 15 | Constitutionalization of the National Commission for Women | Which steps and give reasons · 15 marks · 250 words | Cross-cutting; commission design, gender justice and consolidated body-design Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 5 | National Commission for Backward Classes from statutory to constitutional body | Discuss · 10 marks · 150 words | National-commission specialist plus constitutional/statutory classification Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | Prelims GS-I | 35 | Constitutional versus statutory bodies national commissions India | Objective question; official key unavailable locally | National-commission specialist plus consolidated source-classification Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- NCSC and reservation for Scheduled Castes in minority institutions
+- Multiplicity of commissions for vulnerable sections and an umbrella body
+- Constitutionalization of the National Commission for Women
+- National Commission for Backward Classes from statutory to constitutional body
 - Constitutional versus statutory bodies national commissions India
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

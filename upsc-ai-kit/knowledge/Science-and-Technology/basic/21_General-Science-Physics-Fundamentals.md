@@ -169,11 +169,56 @@ heat/temperature -> waves -> sound -> light/optics -> electricity/magnetism
 
 ## 12. Study links
 
-- ✅ Advanced companion: `advanced/21_General-Science-Physics-Fundamentals.md`.
+- ✅ Advanced companion: `../advanced/21_General-Science-Physics-Fundamentals.md`.
+- ✅ `25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md` — digital
+  electronics, VLC/wireless and hardware applications of physical principles.
 - ✅ `22_General-Science-Chemistry-Fundamentals.md` — matter, bonding, materials and industrial chemistry complement the physics base.
 - ✅ `23_General-Science-Biology-and-Physiology.md` — radiation, imaging and biophysical applications intersect with life sciences.
 - ✅ `04_Nuclear-Power-and-Three-Stage-Programme.md` — nuclear reactions and radiation in policy context.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` and `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — advanced applications of the modern-physics ideas introduced here.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+## 2026 PYQ Integration
+
+> **Status:** 2026 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
+> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+
+- **Year represented:** 2026
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2026 | Prelims GS-I | 44 | Aircraft black-box recorders, underwater detection, and crash-survivable memory | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Aircraft black-box recorders, underwater detection, and crash-survivable memory
+
+> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Prelims GS-I | 34 | Activities in which radar can be used | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Activities in which radar can be used
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -190,11 +235,11 @@ heat/temperature -> waves -> sound -> light/optics -> electricity/magnetism
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 62 | Einstein General Theory of Relativity key scientific predictions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 97 | Black hole merger and gravitational waves observation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 39 | Visible Light Communication VLC technology properties and range | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 39 | Visible Light Communication VLC technology properties and range | Objective question; official key unavailable locally | Physics mechanism plus communication-technology Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 68 | Pressure cooker temperature and physics principles | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 72 | Sodium lamps versus LED lamps street lighting | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 76 | Light-year unit for measuring astronomical distances | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 36 | Short-range wireless communication technologies classification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 36 | Short-range wireless communication technologies classification | Objective question; official key unavailable locally | Physics/radio basis plus wireless-network classification Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 54 | Accelerometer device functions crash tilt free-fall detection | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 56 | Astronomical objects cepheids nebulae pulsars descriptions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 

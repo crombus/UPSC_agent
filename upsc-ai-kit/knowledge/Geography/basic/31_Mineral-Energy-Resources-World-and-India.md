@@ -142,6 +142,33 @@
 
 Geography -> Economic Geography -> Mineral resources  
 Geography -> Economic Geography -> Energy resources and strategic geography
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-I, Prelims GS-I
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Prelims GS-I | 88 | Sumed pipeline (Persian Gulf oil to Europe; Red Sea-Mediterranean) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2024 | Prelims GS-I | 97 | Venezuela and the world's largest proven oil reserves | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2025 | GS-I | 14 | Distribution of off-shore oil reserves versus on-shore occurrences | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | Prelims GS-I | 79 | Resource-rich country pairs (Botswana-diamond, Chile-lithium, Indonesia-nickel) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Sumed pipeline (Persian Gulf oil to Europe; Red Sea-Mediterranean)
+- Venezuela and the world's largest proven oil reserves
+- Distribution of off-shore oil reserves versus on-shore occurrences
+- Resource-rich country pairs (Botswana-diamond, Chile-lithium, Indonesia-nickel)
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -162,7 +189,7 @@ Geography -> Economic Geography -> Energy resources and strategic geography
 | 2020 | Prelims GS-I | 92 | Major minerals designation Bentonite Chromite Kyanite Sillimanite India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 6 | Ilmenite and rutile minerals and titanium source | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 7 | Global cobalt production leading country for EV batteries | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 66 | Coal-based thermal power plants India seawater water-stress | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 66 | Coal-based thermal power plants India seawater water-stress | Objective question; official key unavailable locally | Cross-routed to spatial-resource and thermal-infrastructure owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 

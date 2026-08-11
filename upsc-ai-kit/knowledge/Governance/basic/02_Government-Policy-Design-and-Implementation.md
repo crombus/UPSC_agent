@@ -168,3 +168,24 @@ determine what a policy actually becomes in practice.
 - ✅ `00_Master-Framework.md` — the five-gap governance results chain this topic operationalises.
 - ✅ `12_Local-Governance-and-Service-Delivery.md` — convergence at the local-body level.
 - ✅ `13_Public-Finance-and-Service-Delivery-Tools.md` — financial-flow tools that support (or bottleneck) implementation.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+
+- **Years represented:** 2024
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-II | 11 | Public Examination (Prevention of Unfair Means) Act, 2024 | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Public Examination (Prevention of Unfair Means) Act, 2024
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

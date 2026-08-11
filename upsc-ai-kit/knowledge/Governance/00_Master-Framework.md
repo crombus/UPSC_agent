@@ -50,7 +50,7 @@ resources into accessible outcomes, receive credible feedback and correct failur
 | Concept | Central question | Main files |
 |---|---|---|
 | Government | Which formal institutions possess public authority? | Cross-link Polity |
-| Governance | How do state and non-state actors make and implement collective decisions? | 01-15 |
+| Governance | How do state and non-state actors make and implement collective decisions? | 01-16 |
 | Good governance | Is public authority exercised effectively, lawfully, inclusively and accountably? | 01 |
 | Public administration | How is executive work organised and performed? | 07, 09, 10 |
 | Development administration | How is administrative capacity directed toward social and economic transformation? | 02-04 |
@@ -99,6 +99,7 @@ Outputs are counted, but outcomes and unintended effects are not evaluated.
 | NGOs, SHGs and civil society | Social capital, mobilisation, innovation and monitoring | Elite capture, weak disclosure or adversarial mistrust |
 | Private and charitable actors | Finance, technology and delivery capacity | Fragmentation or profit/donor distortion |
 | Citizens | Legitimacy, information, feedback and social accountability | Participation inequality and digital exclusion |
+| Sports federations and event bodies | Technical rules, recognition, selection and tournament entry | Monopoly discretion, opacity or weak athlete remedies |
 
 ## 5. Technology as a governance layer
 

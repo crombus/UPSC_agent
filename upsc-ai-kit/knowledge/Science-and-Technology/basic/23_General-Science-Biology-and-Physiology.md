@@ -155,6 +155,37 @@ antigen exposure -> immune recognition -> response -> memory
 - ✅ `22_General-Science-Chemistry-Fundamentals.md` — biomolecules begin there as chemistry and deepen here as life processes.
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` — applied biotech architecture.
 - ✅ `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` and `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md` — the applied extensions explicitly separated from this fundamentals file.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Prelims GS-I | 19 | Plants belonging to the pea family (groundnut, horse-gram, soybean) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2024 | Prelims GS-I | 21 | Cicada, Froghopper and Pond skater as insects | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2024 | Prelims GS-I | 29 | Organisms that include poisonous species (butterflies, fish, frogs) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2024 | Prelims GS-I | 33 | Body-synthesised substance that dilates blood vessels (nitric oxide) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2025 | Prelims GS-I | 39 | Plant-type pairs (cassava, ginger, Malabar spinach, mint, papaya) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2025 | Prelims GS-I | 49 | Viruses - ocean survival, infecting bacteria, host transcription | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Plants belonging to the pea family (groundnut, horse-gram, soybean)
+- Cicada, Froghopper and Pond skater as insects
+- Organisms that include poisonous species (butterflies, fish, frogs)
+- Body-synthesised substance that dilates blood vessels (nitric oxide)
+- Plant-type pairs (cassava, ginger, Malabar spinach, mint, papaya)
+- Viruses - ocean survival, infecting bacteria, host transcription
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -170,7 +201,7 @@ antigen exposure -> immune recognition -> response -> memory
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 2 | Desert plant leaf adaptations to inhibit water loss | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2018 | Prelims GS-I | 99 | Vectors spreading plant diseases dust rain wind | Objective question; official key unavailable locally | Partial OCR; manual verification needed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 99 | Vectors spreading plant diseases birds dust rain and wind | Objective question; official key unavailable locally | Stem verified against official scan; OCR artifact resolved; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 98 | Causes of multi-drug resistance in microbial pathogens | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 100 | Hepatitis B and C virus characteristics versus HIV | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 47 | Plant and animal cell structural differences comparison | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
@@ -186,7 +217,7 @@ antigen exposure -> immune recognition -> response -> memory
 ### What this owner must now support
 
 - Desert plant leaf adaptations to inhibit water loss
-- Vectors spreading plant diseases dust rain wind
+- Vectors spreading plant diseases birds dust rain and wind
 - Causes of multi-drug resistance in microbial pathogens
 - Hepatitis B and C virus characteristics versus HIV
 - Plant and animal cell structural differences comparison

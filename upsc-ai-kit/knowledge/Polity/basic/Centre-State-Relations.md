@@ -60,3 +60,33 @@ Government action-taken material.)* 📰 ✅ **GST Council** recommendations are
 using the Supreme Court's 2025 judgment and later Article 143 opinion.
 
 ➡️ For all articles, tribunal list, Inter-State Council composition & traps → `advanced/13_Centre-State-and-Inter-State-Relations.md`.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-II | 13 | Recent changes in Centre-State relations; strengthening federalism | Suggest · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2024 | Prelims GS-I | 75 | Inter-State trade, migration and quarantine in the constitutional lists | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2025 | GS-II | 14 | Evolving Centre-State financial relations and fiscal federalism | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | Prelims GS-I | 53 | Bodies established under the Constitution (Inter-State Council, NSC, Zonal Councils) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2025 | Prelims GS-I | 89 | Minor minerals - State versus Central power to make rules/notify | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- Recent changes in Centre-State relations; strengthening federalism
+- Inter-State trade, migration and quarantine in the constitutional lists
+- Evolving Centre-State financial relations and fiscal federalism
+- Bodies established under the Constitution (Inter-State Council, NSC, Zonal Councils)
+- Minor minerals - State versus Central power to make rules/notify
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

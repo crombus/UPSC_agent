@@ -179,6 +179,8 @@ conceal deeper dependence on imported inputs, technology and machinery.
   GVCs.
 - ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — logistics cost and port
   connectivity.
+- ✅ `28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` — dedicated farm-support/WTO
+  owner.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -186,19 +188,17 @@ conceal deeper dependence on imported inputs, technology and machinery.
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
 
-- **Years represented:** 2018, 2023
+- **Years represented:** 2018
 - **Paper(s):** GS-III
-- **Routed question demands:** 2
+- **Routed question demands:** 1
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | GS-III | 12 | Protectionism and currency manipulation impact on macroeconomic stability | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-III | 14 | Farm subsidies in India and WTO dispute on agricultural support | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Protectionism and currency manipulation impact on macroeconomic stability
-- Farm subsidies in India and WTO dispute on agricultural support
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

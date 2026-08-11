@@ -138,3 +138,28 @@ usually test them in combination (e.g., impartiality *and* compassion in a welfa
 - ✅ `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — Nolan principles in full.
 - ✅ `05_Emotional-Intelligence-in-Administration.md` — empathy/compassion's psychological basis.
 - ✅ `14_Probity-Concept-and-Philosophical-Basis-of-Governance.md` — integrity vs probity distinction.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-IV | 6 | (a) equal opportunity despite gender identity in Indian culture; (b) Mission Karmayogi | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 4 | (a) reason and critical thinking in welfare-scheme implementation; (b) teachings of Mahavir | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 5 | (a) devotion to duty and personal fulfilment; (b) civil servant as enabler and facilitator | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) equal opportunity despite gender identity in Indian culture; (b) Mission Karmayogi
+- (a) reason and critical thinking in welfare-scheme implementation; (b) teachings of Mahavir
+- (a) devotion to duty and personal fulfilment; (b) civil servant as enabler and facilitator
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

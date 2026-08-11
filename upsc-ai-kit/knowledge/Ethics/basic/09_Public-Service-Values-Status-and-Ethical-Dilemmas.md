@@ -124,3 +124,36 @@ and a **Code of Conduct** (precise, sanctionable rules) — the ARC's own founda
 - ✅ `16_Codes-of-Ethics-and-Codes-of-Conduct.md` — full Code of Ethics/Conduct treatment.
 - ✅ `11_Accountability-and-Ethical-Governance.md` — the accountability principle in depth.
 - ✅ `22_Case-Study-Method-and-Answer-Architecture.md` — applying dilemma anatomy to full case studies.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 7
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-IV | 5 | (a) code of conduct and code of ethics in public administration; (b) BNS rooted in Indian culture | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2024 | GS-IV | 9 | Case study: Rohit and a multi-pronged strategy in LWE-affected States | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2024 | GS-IV | 11 | Case study: District Collector amid acute water scarcity | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 5 | (a) devotion to duty and personal fulfilment; (b) civil servant as enabler and facilitator | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 7 | Case study: Vijay, Deputy Commissioner of a remote district in a hilly northern State | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 9 | Case study: Subash - ethical issues and options | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 12 | Case study: Ashok - ethical and legal dilemmas | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+
+### What this owner must now support
+
+- (a) code of conduct and code of ethics in public administration; (b) BNS rooted in Indian culture
+- Case study: Rohit and a multi-pronged strategy in LWE-affected States
+- Case study: District Collector amid acute water scarcity
+- (a) devotion to duty and personal fulfilment; (b) civil servant as enabler and facilitator
+- Case study: Vijay, Deputy Commissioner of a remote district in a hilly northern State
+- Case study: Subash - ethical issues and options
+- Case study: Ashok - ethical and legal dilemmas
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

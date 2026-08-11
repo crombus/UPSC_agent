@@ -7,7 +7,7 @@
 > **Subject:** Science & Technology | **GS Paper:** GS-III (core), with GS-II governance/regulatory
 > links on digital, biotech, IPR and data topics, and dense Prelims weight throughout.
 > **Spine:** NCERT Class IX-X Science + relevant NCERT XI-XII Physics/Chemistry/Biology chapters
-> for foundations; official institutional sources (ISRO/IN-SPACe/NSIL, DAE/BARC/NPCIL/ITER,
+> for foundations; NobelPrize.org for major scientific-discovery/laureate anchors; official institutional sources (ISRO/IN-SPACe/NSIL, DAE/BARC/NPCIL/ITER,
 > DRDO/MoD/DAP, MeitY/UIDAI/NPCI/RBI, IndiaAI/DST/National Quantum Mission, India Semiconductor
 > Mission, India Code/CERT-In/NCIIPC, DBT/ICMR/CDSCO/BIRAC, GEAC/MoEFCC, WIPO/CGPDTM/DPIIT,
 > MNRE/MoRTH/NITI Aayog/BEE, DGCA Digital Sky, Ministry of Mines/GSI/KABIL, DST/CSIR/ANRF) for
@@ -22,7 +22,7 @@ No single authoritative textbook covers Indian Science & Technology for the exam
 Singh covers Economy. This folder therefore combines:
 
 - ✅ **NCERT foundations** (Class IX-X Science; XI-XII Physics/Chemistry/Biology) for topics 21-23
-  and for basic mechanisms embedded across all 24 topics.
+  and standard computing references for Topic 25 and mechanisms embedded across all 26 topics.
 - ✅ **Official primary sources** (ministry, department, PSU and regulator websites; PIB releases)
   for every mission, scheme, Act, Rule and institution — each file's header states exactly which
   sources were used and when they were verified.
@@ -81,6 +81,8 @@ sitting well beyond the stated date.
 | 22 | General Science: Chemistry Fundamentals | Prelims general science |
 | 23 | General Science: Biology and Physiology | Prelims general science |
 | 24 | S&T Institutions: DST, CSIR, ANRF | Research governance |
+| 25 | Computing Fundamentals: Hardware, Software, Networks and Cloud | Computers/IT foundation |
+| 26 | Scientific Discoveries, Nobel Prizes and Scientists | Discovery-to-scientist current-affairs integration |
 
 ## Cross-links to other subjects (do not duplicate — refer instead)
 
@@ -96,6 +98,9 @@ sitting well beyond the stated date.
   generation and green-hydrogen production (Topic 18 here covers vehicle/battery technology only).
 - **Environment-and-Ecology** `16_Environmental-Impact-Assessment-and-NGT.md` — biosafety/EIA
   process context referenced from Topic 14 (GM crops/GEAC) without duplication.
+- **Economy** `24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` retains digital-
+  economy and token-market analysis; Topic 25 owns the underlying cloud, blockchain, NFT and
+  network mechanisms.
 
 ## Source references
 
@@ -125,6 +130,14 @@ sitting well beyond the stated date.
 | 2025 (Q12, 250w) | Rationale, achievements and improvement of the Production Linked Incentive scheme | Economy `17` for macro-industrial analysis; use `basic/11`, `advanced/11` only for the semiconductor/electronics component |
 | 2025 (Q15, 250w) | Nanotechnology advances in agriculture and farmers' socio-economic uplift | `basic/16`, `advanced/16` |
 | 2025 (Q16, 250w) | Semiconductor-industry challenges and salient features of India Semiconductor Mission | `basic/11`, `advanced/11` |
+
+### Exact 2024-2025 Prelims computing routing
+
+| Paper | Tested demand | Route |
+|---|---|---|
+| 2024 (Q49) | Metaverse as an interoperable network of shared 3D virtual worlds and virtual-item rights | `basic/25` |
+| 2025 (Q47) | Majorana 1/quantum-computing claim and deep learning as a subset of machine learning | `basic/25`, with `basic/09` and `basic/10` specialists |
+| 2025 (Q82) | RFID tags as one component of the Kavach train-protection architecture | `basic/25` for RFID mechanism; transport specialist for the complete system |
 
 **Essay linkage:** the 2024 Essay Section-A topic *"The empires of the future will be empires of the mind"* is the natural home for this folder's material on research funding (`24`), frontier missions (`01-05`, `10-11`) and knowledge-economy institutions — use it for illustration, not as a technology catalogue.
 

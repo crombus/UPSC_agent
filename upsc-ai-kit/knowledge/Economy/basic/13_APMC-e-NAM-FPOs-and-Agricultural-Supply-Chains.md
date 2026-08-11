@@ -144,6 +144,32 @@ where transport costs, tied credit or local buyer concentration remain high.
   risk constraints.
 - ✅ `15_Food-Processing-Cold-Chains-and-Value-Addition.md` — downstream demand and value
   addition.
+- ✅ `27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md` — full e-technology,
+  public-DPI, data-governance and precision-agriculture owner.
+- ✅ `29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` — production-to-market
+  mission architecture and value-chain convergence.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2025
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2025 | GS-III | 3 | Factors influencing farmers' selection of high-value crops | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-III | 4 | Scope and significance of supply-chain management of agricultural commodities | Elaborate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Factors influencing farmers' selection of high-value crops
+- Scope and significance of supply-chain management of agricultural commodities
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -158,7 +184,7 @@ where transport costs, tied credit or local buyer concentration remain high.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2022 | Prelims GS-I | 79 | Tea Board India statutory body ministry and overseas offices | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 79 | Tea Board India statutory body ministry and overseas offices | Objective question; official key unavailable locally | Commodity-sector specialist plus statutory-body classification Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 26 | Small Farmer Large Field cooperative agricultural concept | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support

@@ -48,25 +48,29 @@ federalism live. For assent, use the controlling **20 Nov 2025 Article 143 opini
 no rigid judicial timelines/deemed assent, but prolonged unexplained inaction is reviewable.
 
 ➡️ For all 7 federal + 14 unitary features, scholar quotes & Bommai → `advanced/12_Federal-System.md`.
+For India-USA-Canada-Australia-Germany-Switzerland federal and upper-house comparison, use
+`Comparative-Constitutional-Schemes.md`.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
 - **Years represented:** 2021, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 3
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2021 | GS-II | 11 | CBI jurisdiction, State consent and the federal character of India | Explain · 15 marks · 250 words | Cross-cutting; investigative-agency source, federal consent and consolidated institutional classification | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | Prelims GS-I | 86 | Essential federal character feature of Indian polity | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 32 | Prison administration by State Governments Prisons Act 1894 | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- CBI jurisdiction, State consent and the federal character of India
 - Essential federal character feature of Indian polity
 - Prison administration by State Governments Prisons Act 1894
 

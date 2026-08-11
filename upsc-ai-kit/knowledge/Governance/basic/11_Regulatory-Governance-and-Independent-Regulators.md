@@ -53,7 +53,7 @@ through the adjudicatory tribunal layer above regulatory decisions.
 | ⚠️ **Autonomy-accountability-expertise trilemma** | The recurring governance-design tension: greater regulatory autonomy improves technical, apolitical decision-making but can weaken democratic accountability; greater accountability (closer ministerial control) improves democratic oversight but risks undermining the technical insulation regulators need to function effectively — expertise is the value both autonomy and accountability arrangements are meant to serve, but which either extreme can compromise if unbalanced. |
 | ✅ **Regulatory capture** | A situation where a regulator, over time, comes to serve the interests of the industry it regulates rather than the broader public interest — through revolving-door staffing, information asymmetry, or lobbying influence. |
 | ✅ **Tribunalisation** | The proliferation of specialised tribunals (quasi-judicial bodies) to adjudicate disputes in specific regulatory/technical domains, intended to bring domain expertise and speed to adjudication outside the ordinary court hierarchy. |
-| ✅ **Tribunals Reforms Act, 2021** | A Union statute that abolished several existing appellate tribunals/authorities (e.g., under the Cinematograph Act, Trade Marks Act, Copyright Act and certain Customs/Airport-related appellate bodies) and transferred their functions to existing courts (mainly High Courts), while also prescribing qualifications, appointment procedures, tenure and service conditions for the chairpersons/members of the tribunals that remain; its original four-year-tenure and 50-year minimum-age provisions were struck down by the Supreme Court on 19 November 2025 in the Madras Bar Association litigation (see Section 8). |
+| ✅ **Tribunals Reforms Act, 2021** | A Union statute that abolished several existing appellate tribunals/authorities and transferred their functions mainly to courts, while prescribing appointment and service conditions for remaining tribunals. In 2025 INSC 1330, the Supreme Court invalidated the re-enacted provisions covering minimum age, the two-name recommendation panel/appointment timeline, four-year tenure and the impugned allowance framework; earlier *Madras Bar Association* standards control until constitutionally compliant legislation is enacted. |
 | ✅ **FSLRC (Financial Sector Legislative Reforms Commission, 2013)** | A commission chaired by Justice B.N. Srikrishna that recommended, among other reforms, a Unified Financial Agency (UFA) to subsume most financial-sector regulators except the RBI (for banking/payments) — a "regulation by activity" model whose unified-regulator proposal has not been implemented in full, though the 2015 merger of the Forward Markets Commission into SEBI is often cited as a step influenced by its direction. |
 
 ## 3. How regulatory governance functions (mechanism)
@@ -112,10 +112,11 @@ through the adjudicatory tribunal layer above regulatory decisions.
   subsume most financial regulators except the RBI — a proposal not implemented in full.
 - ✅ RBI, SEBI, IRDAI, PFRDA, TRAI, CERC, PNGRB and CCI are India's principal sectoral/
   economic regulators, each created by its own specific statute.
-- ✅ The Supreme Court, on 19 November 2025, struck down the Tribunals Reforms Act, 2021's
-  four-year tenure and 50-year minimum-age provisions for tribunal members as an
-  impermissible "legislative override" of its earlier Madras Bar Association judgments, and
-  directed the Union Government to set up a National Tribunal Commission within four months.
+- ✅ The Supreme Court, on 19 November 2025, invalidated the Act's re-enacted provisions on
+  the fifty-year minimum age, two-name recommendation panel and merely preferable decision
+  timeline, four-year tenure, and impugned allowance framework as an impermissible
+  legislative override. It made *MBA (IV)* and *MBA (V)* controlling and directed the
+  Union Government to establish a National Tribunals Commission within four months.
 
 ## 7. UPSC traps
 
@@ -126,11 +127,10 @@ through the adjudicatory tribunal layer above regulatory decisions.
   specific, named set of appellate tribunals/authorities (not all tribunals), transferring
   their functions to existing courts, while also prescribing (originally) standardised
   service conditions for the remaining tribunal system.
-- ❌ The Tribunals Reforms Act, 2021's four-year tenure and 50-year minimum-age provisions
-  remain in force today. -> The Supreme Court struck these down on 19 November 2025, holding
-  that Parliament had re-enacted provisions already declared unconstitutional in earlier
-  Madras Bar Association judgments, and restored the five-year tenure standard from those
-  judgments pending a National Tribunal Commission.
+- ❌ Only the four-year tenure was affected by the 2025 judgment. -> The invalidated
+  re-enactments also covered the fifty-year minimum age, two-name recommendation panel and
+  merely preferable appointment timeline, and the impugned allowance framework; *MBA
+  (IV)/(V)* govern until constitutionally compliant legislation.
 - ❌ FSLRC's Unified Financial Agency proposal has been implemented. -> It has not been
   implemented in full; the RBI continues to regulate banking/payments separately, and the
   other sectoral financial regulators (SEBI, IRDAI, PFRDA) continue to exist independently,
@@ -141,11 +141,14 @@ through the adjudicatory tribunal layer above regulatory decisions.
 
 ## 8. 📰 Current anchor
 
-- 📰 **Status checked 21 July 2026:** Supreme Court judgment **2025 INSC 1330**
-  (19 November 2025) struck down the four-year tenure and 50-year minimum age provisions and
-  directed creation of a National Tribunal Commission within four months. No official
-  notification establishing that Commission was located by this audit cut-off; describe
-  compliance as unresolved, not completed.
+- 📰 **Status checked 10 August 2026:** Supreme Court judgment **2025 INSC 1330**
+  (19 November 2025) invalidated the re-enacted appointment, tenure and allowance provisions
+  identified above and directed a National Tribunal Commission within four months. A
+  **9 March 2026** interim order later allowed temporary extensions for specified serving
+  incumbents until **8 September 2026** or the applicable maximum age, whichever was
+  earlier, to prevent tribunals becoming defunct. That order did not revive the invalidated
+  provisions. No official establishment notification for the Commission was located by this
+  audit cut-off; describe implementation as unresolved, not completed.
 
 ## 9. PYQ application
 
@@ -159,9 +162,10 @@ through the adjudicatory tribunal layer above regulatory decisions.
   workload increase, loss of specialised technical adjudication in the abolished tribunals'
   domains, versus gains in appointment-process uniformity and reduced tribunal
   proliferation); (d) for any answer written after November 2025, add that the Supreme
-  Court has since struck down the Act's tenure/age provisions and ordered a National
-  Tribunal Commission. As of 21 July 2026, no official establishment notification was
-  located, reopening both appointment design and compliance questions.
+  Court invalidated the re-enacted appointment, tenure and allowance provisions and restored
+  the earlier controlling standards. The March 2026 incumbent extensions were temporary
+  continuity measures, not a merits reversal. No official establishment notification for
+  the National Tribunals Commission was located by 10 August 2026.
 
 ## 10. Mains angles
 
@@ -201,27 +205,31 @@ through the adjudicatory tribunal layer above regulatory decisions.
 - ✅ `Polity/advanced/18_Supreme-Court.md`, `Polity/advanced/21_High-Court-and-Subordinate-Courts.md`
   — the constitutional judiciary structure Polity owns, distinct from statutory tribunals
   covered here.
+- ✅ `Polity/basic/Statutory-Regulatory-and-Quasi-Judicial-Bodies.md` — consolidated
+  legal-source taxonomy, rights commissions, sector map, quasi-judicial procedure and appeals.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2019
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Years represented:** 2018, 2019, 2023
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 3
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 23 | Food Safety and Standards Act 2006 and FSSAI structure | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 74 | Petroleum Natural Gas Regulatory Board role and appeals | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 23 | Food Safety and Standards Act 2006 and FSSAI structure | Objective question; official key unavailable locally | Regulatory specialist plus consolidated statutory-body Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 74 | Petroleum Natural Gas Regulatory Board role and appeals | Objective question; official key unavailable locally | Regulatory, petroleum-sector and consolidated institutional owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | GS-II | 7 | Competition Commission of India and abuse of dominant position | Discuss the role · 10 marks · 150 words | Regulatory-governance specialist plus consolidated statutory/regulatory Core; word limit taken from instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Food Safety and Standards Act 2006 and FSSAI structure
 - Petroleum Natural Gas Regulatory Board role and appeals
+- Competition Commission of India and abuse of dominant position
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -120,6 +120,7 @@ Downside: frivolous/"publicity-interest" litigation, judicial overload.
   appointment of the Judges of the Supreme Court of India and that of the USA.” Route:
   First-Second-Third Judges cases/NJAC -> independence vs opacity -> compare US presidential
   nomination and Senate confirmation -> seek accountable independence, not executive primacy.
+  Complete comparative spine: `../basic/Comparative-Constitutional-Schemes.md`.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -133,7 +134,7 @@ Downside: frivolous/"publicity-interest" litigation, judicial overload.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2020 | GS-II | 4 | Convergence and divergence of Indian and UK judicial systems | Highlight the key points · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 4 | Convergence and divergence of Indian and UK judicial systems | Highlight the key points · 10 marks · 150 words | Dedicated comparative owner plus judiciary support | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | GS-II | 12 | Judicial legislation, separation of powers and public interest petitions | Justify · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-II | 2 | Greater representation of women in the higher judiciary | Discuss the desirability · 10 marks · 150 words | Cross-cutting; judicial appointments and gender justice both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-II | 1 | Constitutionalization of environmental problems by the Supreme Court | Discuss with case laws · 10 marks · 150 words | Cross-cutting; judicial review and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |

@@ -250,7 +250,7 @@ been completed.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2020 | GS-III | 15 | Technology in COVID-19 pandemic management and advancements | Give an account of · 15 marks · 250 words | Routed to owning topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-III | 15 | Technology in COVID-19 pandemic management and advancements | Give an account of · 15 marks · 250 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 

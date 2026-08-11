@@ -193,13 +193,13 @@ durable reform must combine values-based training with institutional redesign.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2020 | GS-IV | 1 | (a) role of ethics and values in enhancing major sources of power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020 | Discuss / Examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 1 | (a) role of ethics and values in enhancing the three major components of Comprehensive National Power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020 | Discuss / Examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | GS-IV | 2 | (a) hatred destructive of wisdom and conscience - do you agree and justify; (b) main components of emotional intelligence and whether they can be learned | Agree-Justify / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-IV | 2 | (a) positive vs negative mindset in interpreting rules and regulations; (b) ethics in human actions and resolution of conflicts in daily functioning | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
-- (a) role of ethics and values in enhancing major sources of power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020
+- (a) role of ethics and values in enhancing the three major components of Comprehensive National Power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020
 - (a) hatred destructive of wisdom and conscience - do you agree and justify; (b) main components of emotional intelligence and whether they can be learned
 - (a) positive vs negative mindset in interpreting rules and regulations; (b) ethics in human actions and resolution of conflicts in daily functioning
 

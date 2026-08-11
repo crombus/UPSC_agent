@@ -167,9 +167,31 @@ The DPDP Act, 2023 was enacted in August 2023 but was brought into force **in tr
 ## 12. Study links
 
 - ✅ Advanced companion: `../advanced/12_Data-Protection-DPDP-Act-and-Cybersecurity.md`.
+- ✅ `25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md` — network,
+  authentication, encryption, hashing and digital-signature foundations.
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — digital-state architecture and data-rich governance context.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — AI governance, algorithmic use of data and privacy debates.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — cybersecurity implications of emerging quantum technologies.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-III | 10 | Context and salient features of the Digital Personal Data Protection Act, 2023 | Describe · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Context and salient features of the Digital Personal Data Protection Act, 2023
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -185,9 +207,9 @@ The DPDP Act, 2023 was enacted in August 2023 but was brought into force **in tr
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2019 | Prelims GS-I | 88 | General Data Protection Regulation adoption and implementation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 94 | Digital signature characteristics and electronic authentication | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 94 | Digital signature characteristics and electronic authentication | Objective question; official key unavailable locally | Cyber/legal specialist plus cryptographic-computing foundations; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 46 | Public Key Infrastructure digital security context in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 32 | Web 3.0 features blockchain and user data control | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 32 | Web 3.0 features blockchain and user data control | Objective question; official key unavailable locally | Data-governance specialist plus Web3/distributed-computing Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 

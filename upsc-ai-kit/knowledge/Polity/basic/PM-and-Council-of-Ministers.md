@@ -45,6 +45,9 @@ decisions — watch for it in any national-security news.
 
 ➡️ Full article-wise depth, traps & Mains angles: **`advanced/16_PM-and-Council-of-Ministers.md`**
 
+➡️ For how portfolios become organised departments, files, consultations, Cabinet decisions and
+implementation, use `Ministries-and-Departments-of-Government.md`.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

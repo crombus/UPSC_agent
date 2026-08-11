@@ -59,11 +59,15 @@ independence, stable tenure, adequate benches and constitutional-court supervisi
 - ✅ The Supreme Court's *Madras Bar Association* line insists that tribunal
   appointments, tenure and conditions must preserve judicial independence and
   separation of powers.
-- 📰 ✅ **Status 21 Jul 2026:** the 2021 Act's four-year tenure provisions remain
-  contested against the Court's earlier five-year-tenure directions. On **9 Mar 2026**,
-  the Supreme Court made an interim arrangement extending specified incumbents until
-  **8 Sep 2026** (or maximum age) and continued periodic supervision; this was not a final
-  merits judgment on the Act.
+- 📰 ✅ On **19 Nov 2025**, the Supreme Court in **2025 INSC 1330** struck down the
+  re-enacted provisions covering the fifty-year minimum age, two-name recommendation
+  panel and merely preferable appointment timeline, four-year tenure, and impugned
+  allowance framework. It made *MBA (IV)* and *MBA (V)* the controlling standards and
+  directed a National Tribunals Commission within four months.
+- 📰 ✅ On **9 Mar 2026**, the Court made a separate continuity arrangement extending
+  specified serving incumbents until **8 Sep 2026** or the applicable maximum age,
+  whichever was earlier, because non-extension could make tribunals defunct. The order
+  did not revive the provisions invalidated in November 2025.
 
 | Claimed gain | Counter-risk | Surgical reform |
 |---|---|---|
@@ -92,9 +96,9 @@ independence, stable tenure, adequate benches and constitutional-court supervisi
   under Articles 226/227.
 - ❌ Tribunalisation permits Parliament to remove the basic structure. -> Constituent
   and legislative power remain subject to basic-structure judicial review.
-- ❌ The 2021 tenure dispute has a final constitutional answer. -> It remains under
-  Supreme Court supervision; distinguish the statutory four-year text, prior judicial
-  independence directions and the March 2026 interim extensions.
+- ❌ The March 2026 extensions revived the 2021 four-year-tenure framework. -> They were
+  temporary incumbent-specific continuity measures; *MBA (IV)/(V)* remained controlling
+  after the November 2025 judgment.
 
 ## 7. Study links
 
@@ -102,26 +106,3 @@ independence, stable tenure, adequate benches and constitutional-court supervisi
 - `advanced/21_High-Court-and-Subordinate-Courts.md` - Articles 226/227 and court burden.
 - `Governance/advanced/11_Regulatory-Governance-and-Independent-Regulators.md` -
   independence/accountability design for specialist bodies.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
-
-- **Years represented:** 2018, 2019
-- **Paper(s):** GS-II
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-II | 12 | Tribunals curtailing the jurisdiction of ordinary courts | How far do you agree and discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-II | 2 | Central Administrative Tribunal exercising independent judicial authority | Explain · 10 marks · 150 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-### What this owner must now support
-
-- Tribunals curtailing the jurisdiction of ordinary courts
-- Central Administrative Tribunal exercising independent judicial authority
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

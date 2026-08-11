@@ -12,7 +12,8 @@
 > pottery and iconography; painting traditions; music; dance; theatre,
 > puppetry and performance; languages, scripts, literature and manuscripts;
 > crafts, textiles, folk and tribal traditions; religion, philosophy and
-> cultural synthesis; heritage conservation, institutions and UNESCO.
+> cultural synthesis; heritage conservation, institutions and UNESCO;
+> Indian cinema, film institutions and awards.
 > **Grounded in:** direct examination of Nitin Singhania, *Indian Art and
 > Culture*; R.S. Sharma, *India's Ancient Past*; R.S. Sharma, *Ancient
 > India*; Satish Chandra, *History of Medieval India*; and Satish Chandra,
@@ -84,6 +85,7 @@ PLACE / ECOLOGY ──┘                                    │
 | 12 | Crafts, Textiles, Folk and Tribal Traditions | Handicrafts, GI-tagged crafts, craft ecology and livelihoods |
 | 13 | Religion, Philosophy and Cultural Synthesis | Religions as cultural frameworks; Bhakti/Sufi; six darshanas; fairs/festivals; qualified synthesis |
 | 14 | Heritage Conservation, Institutions and UNESCO | ASI, SNA, LKA, Sahitya Akademi, IGNCA, NMMA; WHS/ICH/Memory of the World/GI |
+| 15 | Indian Cinema, Film Institutions and Awards | Film form, CBFC/NFDC, preservation, festivals and awards |
 
 ## Study sequence
 
@@ -101,6 +103,8 @@ PLACE / ECOLOGY ──┘                                    │
    synthesis as the meaning-layer running through every earlier topic, and
    heritage conservation/institutions/UNESCO as the capstone through which
    every topic's "safeguarding" question routes.
+5. **Modern mass art:** `15` — cinema as a distinct composite medium,
+   institutional field and vehicle of regional representation and soft power.
 
 ## Direct and adjacent PYQ index (2024-2025 GS Paper I, audited)
 
@@ -169,7 +173,7 @@ conservation and tourism).
 ## Primary source routes
 
 - Nitin Singhania, *Indian Art and Culture* — spine for definitions,
-  classification, case detail and terminology across all fourteen topics;
+  classification, case detail and terminology across all fifteen topics;
   the book text itself carries a research cutoff of approximately
   August-September 2025 (its own UNESCO/GI figures are dated to that
   period) — treat any number in this book as book-period unless

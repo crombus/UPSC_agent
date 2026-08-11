@@ -191,7 +191,7 @@ Source: [Ministry of Labour and Employment annual report 2025-26](https://labour
 | 2022 | GS-III | 11 | Labour productivity led growth and job creation pattern suggestion | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | GS-II | 18 | Skill development programmes and links between skill education and employment | Analyse the linkages · 15 marks · 250 words | Cross-cutting; employment and education both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | GS-III | 11 | Structural unemployment in India and computation methodology improvements | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-III | 12 | Distinction between care economy and monetized economy integration | Distinguish · 15 marks · 250 words | Routed to owning topic; partial OCR, manual verification needed | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 12 | Distinction between care economy and monetized economy integration | Distinguish · 15 marks · 250 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 

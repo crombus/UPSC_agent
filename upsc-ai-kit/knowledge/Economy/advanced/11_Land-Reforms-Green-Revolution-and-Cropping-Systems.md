@@ -172,6 +172,10 @@ alone because leasing, fragmentation, machinery services and crop choice matter.
 - ✅ `13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md` — markets for diversification.
 - ✅ `14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` — resource
   sustainability.
+- ✅ `29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` — agricultural
+  innovation systems and mission-mode diffusion.
+- ✅ `30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` — household
+  portfolio, allied-sector diversification and IFS economics.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

@@ -60,6 +60,20 @@ def register_fonts() -> tuple[str, str, str, str, str, str]:
             pdfmetrics.registerFont(
                 TTFont("SessionEmoji", r"C:\Windows\Fonts\seguiemj.ttf")
             )
+            bold_italic = Path(r"C:\Windows\Fonts\arialbi.ttf")
+            if bold_italic.exists():
+                pdfmetrics.registerFont(
+                    TTFont("SessionSans-BoldItalic", str(bold_italic))
+                )
+            else:
+                pdfmetrics.registerFont(TTFont("SessionSans-BoldItalic", str(bold)))
+            pdfmetrics.registerFontFamily(
+                "SessionSans",
+                normal="SessionSans",
+                bold="SessionSans-Bold",
+                italic="SessionSans-Italic",
+                boldItalic="SessionSans-BoldItalic",
+            )
             return (
                 "SessionSans",
                 "SessionSans-Bold",
@@ -114,6 +128,7 @@ H3 = style("H3", fontName=BOLD, fontSize=11.5, leading=15, textColor=NAVY, space
 def markup(text: str) -> str:
     escaped = html.escape(text)
     escaped = re.sub(r"`([^`]+)`", r"<font name='SessionMono'>\1</font>", escaped)
+    escaped = re.sub(r"\*\*\*([^*]+?)\*\*\*", r"<b><i>\1</i></b>", escaped)
     escaped = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", escaped)
     escaped = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"<i>\1</i>", escaped)
     escaped = re.sub(
@@ -135,11 +150,14 @@ def paragraph(text: str, paragraph_style: ParagraphStyle = BODY) -> Paragraph:
 
 def parse_table(lines: list[str], usable_width: float) -> Table:
     rows = []
+    header_style = style("HeadCell", fontName=BOLD, fontSize=8.1, leading=10.8, textColor=colors.white)
+    body_style = style("Cell", fontSize=8.1, leading=10.8)
     for line in lines:
         cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
         if all(re.fullmatch(r":?-{3,}:?", cell) for cell in cells):
             continue
-        rows.append([paragraph(cell, style("Cell", fontSize=8.1, leading=10.8)) for cell in cells])
+        cell_style = header_style if not rows else body_style
+        rows.append([paragraph(cell, cell_style) for cell in cells])
     column_count = max(len(row) for row in rows)
     for row in rows:
         row.extend([paragraph("")] * (column_count - len(row)))
@@ -224,9 +242,20 @@ def markdown_story(text: str, usable_width: float) -> list:
             index += 1
             continue
 
+        if line.strip() == ">":
+            flush_paragraph()
+            index += 1
+            continue
+
         if line.startswith("> "):
             flush_paragraph()
             story.append(paragraph(line[2:], QUOTE))
+            index += 1
+            continue
+
+        if re.match(r"^\((?:[a-d]|[A-D])\)\s+\S", line.strip()):
+            flush_paragraph()
+            story.append(paragraph(line.strip(), LIST))
             index += 1
             continue
 

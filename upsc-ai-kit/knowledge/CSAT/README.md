@@ -11,7 +11,9 @@
 > but they also name no issuer, so this module does not itself certify them as final UPSC keys.
 > **Start here:** [Master Framework](00_Master-Framework.md), then work
 > [basic/01](basic/01_Reading-Comprehension.md) through
-> [basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md), followed by the paired advanced drills.
+> [basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md), then close the two official
+> architecture clauses through [basic/07](basic/07_Interpersonal-and-Communication-Skills.md) and
+> [basic/08](basic/08_General-Mental-Ability-Integrated-Map.md). Advanced files are optional drills.
 
 ---
 
@@ -77,14 +79,15 @@ wrong is `C >= (T + (5/6)W) / 2.5`; for `T = 66` this is `C >= 26.4 + W/3`.
   official target. Treat any number here as adaptable, and re-derive it if the paper pattern or
   notification changes.
 
-## 3. The six-topic map (evidence-based)
+## 3. The six skill families plus two syllabus owners
 
-The topics were locked **after classifying all 240 questions** of the 2024-2026 Set A papers into
-six non-overlapping working families (see the [Master Framework](00_Master-Framework.md) and
-[Question Audit Ledger](00_Question-Audit-Ledger.md)). They exhaust this audited sample; they are not official UPSC
-question tags. The official syllabus also separately names **interpersonal skills including
-communication skills**. Topic 06 covers that element directly; the provisional 2026 Set-A paper
-contains six such items (Q72-Q77), while the 2024/2025 papers do not form a comparable block.
+The first six topics were locked **after classifying all 240 questions** of the 2024-2026 Set A
+papers into six non-overlapping working families (see the
+[Master Framework](00_Master-Framework.md) and
+[Question Audit Ledger](00_Question-Audit-Ledger.md)). They exhaust the audited question sample;
+they are not official UPSC question tags. Topics 07 and 08 are dedicated **official-syllabus
+owners**: Topic 07 makes interpersonal/communication skills independently complete, while Topic 08
+joins the distributed General Mental Ability mechanisms without duplicating specialist drills.
 
 | # | Topic file | Skill family covered | Syllabus anchor |
 |---|---|---|---|
@@ -93,7 +96,9 @@ contains six such items (Q72-Q77), while the 2024/2025 papers do not form a comp
 | 03 | `Arithmetic-and-Commercial-Math` | Ratio/proportion, percentages, averages, mixtures/alligation, profit-loss, interest, partnership, ages | Basic numeracy |
 | 04 | `Rates-Motion-Time-and-Geometry` | Time-work, pipes/cisterns, speed-distance, trains/boats/races, clocks, calendars, geometry/mensuration | Basic numeracy; general mental ability |
 | 05 | `Algebra-Inequalities-and-Data-Sufficiency` | Equations, inequalities, quantitative comparison, and the two-statement data-sufficiency format | Analytical ability; decision-making |
-| 06 | `Logical-Reasoning-Coding-Counting-and-DI` | Arrangements, blood relations, directions, coding, syllogism, counting/probability, data interpretation, decision-making, interpersonal/communication scenarios | Logical reasoning; decision-making; data interpretation; interpersonal and communication skills |
+| 06 | `Logical-Reasoning-Coding-Counting-and-DI` | Arrangements, blood relations, directions, coding, syllogism, counting/probability, data interpretation and scenario reasoning | Logical reasoning; decision-making; data interpretation |
+| 07 | `Interpersonal-and-Communication-Skills` | Communication cycle, channels, listening, barriers, feedback, conflict, public dealing and questionnaires | Interpersonal and communication skills |
+| 08 | `General-Mental-Ability-Integrated-Map` | Classification, representation, verification, time control and routing across Topics 02-07 | General mental ability |
 
 **Boundary notes (why the grouping is clean, not arbitrary):**
 
@@ -115,10 +120,10 @@ Full local map: [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAP
 | Official line / note | Status | Primary owners | PYQ integration note |
 |---|---|---|---|
 | `Comprehension.` | **COVERED** | [`00_Master-Framework.md`](00_Master-Framework.md), [`basic/01_Reading-Comprehension.md`](basic/01_Reading-Comprehension.md), [`advanced/01_Reading-Comprehension.md`](advanced/01_Reading-Comprehension.md) | Reading Comprehension is the largest audited family (79/240 Set-A items); use the trend table and the non-verbatim ledger together. |
-| `Interpersonal skills including communication skills.` | **PARTIAL** | [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md), [`advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md`](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Explicit standalone routing is strongest in the **provisional 2026** block (Q72-Q77); 2024/2025 do not show an equivalent clean block. |
-| `Logical reasoning and analytical ability.` | **COVERED** | [`basic/05_Algebra-Inequalities-and-Data-Sufficiency.md`](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md`](advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md), [`advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md`](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) | The ledger and the six-topic audit route reasoning families through Topics 05-06. |
+| `Interpersonal skills including communication skills.` | **COVERED** | [`basic/07_Interpersonal-and-Communication-Skills.md`](basic/07_Interpersonal-and-Communication-Skills.md), with scenario interface in [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Dedicated Core is complete despite uneven recent frequency; the provisional 2026 block (Q72-Q77) is preserved as evidence, not treated as a guaranteed annual pattern. |
+| `Logical reasoning and analytical ability.` | **COVERED** | [`basic/05_Algebra-Inequalities-and-Data-Sufficiency.md`](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md`](advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md), [`advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md`](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) | The audited six-family question classification routes reasoning primarily through Topics 05-06. |
 | `Decision making and problem solving.` | **COVERED** | [`00_Master-Framework.md`](00_Master-Framework.md), [`basic/05_Algebra-Inequalities-and-Data-Sufficiency.md`](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Data sufficiency, scenario decisions and DI interpretation are already practiced via the audited 2024-2026 Set-A families. |
-| `General mental ability.` | **PARTIAL** | [`basic/02_Number-Systems-and-Number-Sense.md`](basic/02_Number-Systems-and-Number-Sense.md), [`basic/04_Rates-Motion-Time-and-Geometry.md`](basic/04_Rates-Motion-Time-and-Geometry.md), [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Covered as a distributed umbrella across numeracy and reasoning; no standalone owner file exists. |
+| `General mental ability.` | **COVERED** | [`basic/08_General-Mental-Ability-Integrated-Map.md`](basic/08_General-Mental-Ability-Integrated-Map.md), integrating specialist Core Topics 02-07 | Topic 08 supplies the explicit umbrella, classification and revision-routing spine; question-level routes remain with the mechanism owner to avoid duplication. |
 | `Basic numeracy ... Data interpretation ...` | **COVERED** | [`basic/02_...`](basic/02_Number-Systems-and-Number-Sense.md), [`basic/03_...`](basic/03_Arithmetic-and-Commercial-Math.md), [`basic/04_...`](basic/04_Rates-Motion-Time-and-Geometry.md), [`basic/05_...`](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`basic/06_...`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) plus paired advanced files | Numeracy, DS and DI are split cleanly across Topics 02-06 and reconciled through the 240-question audit. |
 | `Note 1 ... qualifying ... 33%.` | **PARTIAL** | [`00_Master-Framework.md`](00_Master-Framework.md), [`00_Readiness-Tracker.md`](00_Readiness-Tracker.md) | Caveat preserved: 33% belongs to the **notification**, not to the audited paper PDFs; all safe-score arithmetic is explicitly derived under that verification warning. |
 | `Note 2 ... multiple choice, objective type.` | **COVERED** | [`00_Master-Framework.md`](00_Master-Framework.md) | The instruction-page audit already captures 80 objective items, four responses, one-response marking and penalty logic. |
@@ -188,5 +193,6 @@ inventing a label or answer.
 | [Master Framework](00_Master-Framework.md) | Strategy, workflows, error taxonomy, and the 2024-2026 PYQ trend table. |
 | [Question Audit Ledger](00_Question-Audit-Ledger.md) | Non-verbatim 240-question classification and key-status ledger. |
 | [Readiness Tracker](00_Readiness-Tracker.md) | Reusable skill checklist, timed-set log, metrics, error log, revision plan, readiness gates. |
-| [basic/01](basic/01_Reading-Comprehension.md)..[basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Foundation files, six topics. |
-| [advanced/01](advanced/01_Reading-Comprehension.md)..[advanced/06](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Advanced Drill files, six topics. |
+| [basic/01](basic/01_Reading-Comprehension.md)..[basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Foundation files for the six audited question families. |
+| [basic/07](basic/07_Interpersonal-and-Communication-Skills.md), [basic/08](basic/08_General-Mental-Ability-Integrated-Map.md) | Dedicated Core owners for communication and the GMA umbrella. |
+| [advanced/01](advanced/01_Reading-Comprehension.md)..[advanced/08](advanced/08_Mixed-General-Mental-Ability-and-Strategy.md) | Optional advanced drills and extensions; Core remains sufficient. |

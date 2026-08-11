@@ -1,6 +1,8 @@
 # Indian Economy - Knowledge Base Index
 
-> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — central routing only, not topic-file integration.
+> **Older PYQ integration:** [2018–2023 central index](../_PYQ-INDEX.md) and
+> [subject/topic residual audit](../PYQ-INTEGRATION-AUDIT-2018-2023.md). Routed questions
+> are integrated inside their owner files.
 >
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
@@ -57,6 +59,11 @@
 | 24 | Services, Digital Economy, Fintech and Platform Markets | Services |
 | 25 | Climate Economics, Green Finance and Circular Economy | Sustainability |
 | 26 | Economic Survey Synthesis and Current Macro Dashboard | Current economy |
+| 27 | Digital Agriculture, Agritech and e-Technology for Farmers | Agriculture/technology |
+| 28 | Direct and Indirect Farm Subsidies and WTO Rules | Agriculture/fiscal/trade |
+| 29 | Agricultural Technology Missions and Mission-Mode Policy | Agriculture/technology/policy |
+| 30 | Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries | Agriculture/allied sectors |
+| 31 | Energy Infrastructure Economics, Power, Fuels and Energy Security | Infrastructure/energy |
 
 ## Source references
 
@@ -71,6 +78,7 @@
 
 | Year / paper | Exact tested hook | Route |
 |---|---|---|
+| 2020 Prelims Q42 | Drone applications including agriculture; capability depends on platform, payload and operation | `basic/27`; S&T Topic 19 technical support |
 | 2024 Prelims Q53 | Digital rupee: sovereign RBI liability, convertible with bank money/cash, not inflation-insured | `basic/24`, `advanced/24` |
 | 2024 Prelims Q85 | Annual Financial Statement is laid on behalf of the President; demands for grants need the President's recommendation | `basic/09`, `advanced/09` |
 | 2025 Prelims Q10 | Capital receipts create liability/reduce assets; borrowings and disinvestment qualify, interest receipts do not | `basic/09`, `advanced/09` |
@@ -79,6 +87,25 @@
 | 2025 Prelims Q68/Q69 | RTGS versus NEFT; UPI international merchant-payment coverage in the paper's dated context | `basic/07`, `basic/24` and companions |
 | 2026 Prelims Q2 (**provisional key**) | Hilton-Young Commission and the fixed rupee-sterling rate | `basic/04`, `advanced/04` |
 | 2026 Prelims Q90/Q93 (**provisional key**) | UPI versus digital rupee; M1xchange as a TReDS invoice-discounting platform | `basic/24`, `advanced/24` |
+| 2026 Prelims Q28 (**provisional key**) | Rainfed Area Development under NMSA promotes Integrated Farming Systems | `basic/14`, `basic/29` and companions |
+| 2021 Prelims Q52 | palm oil origin, uses and biodiesel linkage | `basic/15`, `basic/29` |
+| 2023 Prelims Q55 | biofilters in recirculating aquaculture systems | `basic/30`; S&T Topic 13 technical support |
+| 2024 Prelims Q46 | dairy farming as a primary-sector activity | `basic/30` |
+| 2025 Prelims Q5 | tax distinction between animal-rearing income and rural agricultural land | `basic/30` |
+| 2025 Prelims Q60 | PNGRB regulates midstream/downstream petroleum and gas activities, not upstream production | `basic/31`; Governance Topic 11 regulatory support |
+| 2025 Prelims Q70 | PM Surya Ghar residential rooftop target and capacity-building/skilling features | `basic/31`; Environment Topic 25 technology support |
+| 2015 GS-III | livestock potential for rural employment/income and promotional measures | `basic/30`, `advanced/30` |
+| 2019/2022 GS-III | Integrated Farming Systems for sustainable production and small farmers | `basic/14`, `advanced/14`, `basic/30`, `advanced/30` |
+| 2018 GS-III Q13 | National Horticulture Mission contribution to production, productivity and farm income | `basic/29`, `advanced/29` |
+| 2023 GS-III Q3 | e-technology helping farmers in agricultural production and marketing | `basic/27`, `advanced/27` |
+| 2025 GS-III Q15 | nanotechnology in agriculture and its role in improving farmers' socio-economic status | `basic/27`, `advanced/27`; S&T Topic 16 support |
+| 2023 GS-III Q14 | direct and indirect farm subsidies and WTO issues concerning agricultural support | `basic/28`, `advanced/28` |
+| 2018 GS-III Q1 | affordable, reliable, sustainable and modern energy access as a development/SDG driver | `basic/31`; Topic 18 infrastructure support |
+| 2020 GS-III Q16 | solar energy benefits versus conventional energy and government initiatives | `basic/31`; Environment Topic 25 support |
+| 2021 GS-III Q6 | Green Grid Initiative purpose at COP26 and International Solar Alliance origin | `basic/31`; Environment Topic 25 support |
+| 2022 GS-III Q12 | renewable-energy target and shift from fossil-fuel subsidies | `basic/31`; Environment Topic 25 support |
+| 2025 GS-I Q6 | ecological and economic benefits of solar-energy generation | `basic/31`; Environment Topic 25 and Geography support |
+| 2025 GS-III Q6 | energy independence through clean technology by 2047 and biotechnology's role | `basic/31`; Environment/S&T support |
 
 > **2026 status:** questions/answers are from the official UPSC **provisional** Series-A
 > key; retain that label until a final key is available.

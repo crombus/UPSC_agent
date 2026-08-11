@@ -165,3 +165,50 @@ you considered and rejected, with a one-line reason.
 *because of* the prompt's own wording (a good sign), or could it be
 pasted onto almost any prompt about "change" or "society" in general (a
 sign of shallow decoding)?
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** Essay
+- **Routed question demands:** 14
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Essay | Section B - 2 | Nearly all men can stand adversity, but to test the character, give him power | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section A - 2 | The empires of the future will be the empires of the mind | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section B - 3 | All ideas having large consequences are always simple | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section A - 3 | There is no path to happiness; happiness is the path | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section B - 4 | The cost of being wrong is less than the cost of doing nothing | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section A - 4 | The doubter is a true man of science | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section A - 1 | Truth knows no color | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section A - 2 | The supreme art of war is to subdue the enemy without fighting | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section A - 3 | Thought finds a world and creates one also | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section A - 4 | Best lessons are learnt through bitter experiences | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section B - 5 | Muddy water is best cleared by leaving it alone | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section B - 6 | The years teach much which the days never know | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section B - 7 | It is best to see life as a journey, not as a destination | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section B - 8 | Contentment is natural wealth; luxury is artificial poverty | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+
+### What this owner must now support
+
+- Nearly all men can stand adversity, but to test the character, give him power
+- The empires of the future will be the empires of the mind
+- All ideas having large consequences are always simple
+- There is no path to happiness; happiness is the path
+- The cost of being wrong is less than the cost of doing nothing
+- The doubter is a true man of science
+- Truth knows no color
+- The supreme art of war is to subdue the enemy without fighting
+- Thought finds a world and creates one also
+- Best lessons are learnt through bitter experiences
+- Muddy water is best cleared by leaving it alone
+- The years teach much which the days never know
+- It is best to see life as a journey, not as a destination
+- Contentment is natural wealth; luxury is artificial poverty
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

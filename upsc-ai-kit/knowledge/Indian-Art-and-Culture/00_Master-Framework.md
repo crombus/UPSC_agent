@@ -1,7 +1,7 @@
 # Indian Art & Culture - Master Conceptual Framework
 
 > **Purpose:** Connect belief, patronage, form, practice and safeguarding
-> into one reusable answer chain before studying the fourteen topic files.
+> into one reusable answer chain before studying the fifteen topic files.
 > **Core question:** For any named monument, sculpture, painting,
 > performance, text or craft, who financed or sustained it, what belief or
 > function shaped its form, what material/technique/vocabulary describes
@@ -36,6 +36,7 @@ dynasties or "rich cultural heritage" generically.
 | Regional circulation | How did the form travel, hybridise or regionally diverge? | Topics 03, 04, 07-09, 12 |
 | Documentation | What inscription, treatise, travel account or manuscript records it? | Topics 02, 03, 06, 11 |
 | Safeguarding/contestation | What is its current conservation, safeguarding or attribution status? | Topic 14, plus each topic's own 📰 anchor |
+| Modern mass circulation | How do film form, certification, festivals and awards shape cultural reach? | Topic 15 |
 
 ## 3. Essential terminology comparison (used across topics)
 

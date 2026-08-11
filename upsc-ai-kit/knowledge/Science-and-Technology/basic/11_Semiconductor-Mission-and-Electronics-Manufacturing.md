@@ -151,7 +151,53 @@ PCB / module / device assembly -> phones, servers, EVs, telecom gear
 ## 12. Study links
 
 - ✅ Advanced companion: `../advanced/11_Semiconductor-Mission-and-Electronics-Manufacturing.md`.
+- ✅ `25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md` — processors,
+  memory, accelerators and the hardware-software stack enabled by semiconductor devices.
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — downstream digital demand and state-led digital ecosystem.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — compute demand, AI hardware dependence and strategic electronics relevance.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — high-technology capability building and hardware ecosystem logic.
 - ✅ `../../Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — macro-industrial-policy and PLI-economics companion; do not duplicate that analytical frame here.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+## 2026 PYQ Integration
+
+> **Status:** 2026 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
+> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+
+- **Year represented:** 2026
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2026 | Prelims GS-I | 79 | DHRUV64 processor, DIR-V programme, and indigenous computing capability | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2026 | Prelims GS-I | 83 | Indian semiconductor plants and their announced state-level manufacturing locations | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+### What this owner must now support
+
+- DHRUV64 processor, DIR-V programme, and indigenous computing capability
+- Indian semiconductor plants and their announced state-level manufacturing locations
+
+> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2025
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2025 | GS-III | 16 | Challenges to the semiconductor industry; India Semiconductor Mission | Mention · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Challenges to the semiconductor industry; India Semiconductor Mission
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

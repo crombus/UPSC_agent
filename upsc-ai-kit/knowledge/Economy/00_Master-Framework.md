@@ -111,7 +111,7 @@ Global prices/trade/capital flows
 
 1. **Measure the economy:** Topics 01-03.
 2. **Understand policy levers:** Topics 04-10.
-3. **Study productive sectors:** Topics 11-18 and 24.
+3. **Study productive sectors:** Topics 11-18, 24 and 27-31.
 4. **Connect India to the world:** Topics 19-21.
 5. **Evaluate development quality:** Topics 22-25.
 6. **Update all answers:** Topic 26 and the latest Economic Survey.

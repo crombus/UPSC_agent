@@ -159,3 +159,36 @@ application.
   governance/policy detail (avoid duplication here).
 - ✅ `Environment-and-Ecology/basic/16_Environmental-Impact-Assessment-and-NGT.md` — EIA process/law detail.
 - ✅ `Environment-and-Ecology/basic/19_UNFCCC-COP-Kyoto-Paris-Agreement.md` — CBDR and climate-law detail (avoid duplication here).
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+- **Years represented:** 2024, 2025
+- **Paper(s):** GS-IV
+- **Routed question demands:** 7
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | GS-IV | 1 | (a) AI as a reliable input for administrative decisions; (b) dimensions of ethics guiding responsible behaviour | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2024 | GS-IV | 2 | (a) belief in peace, not merely talk; (b) global warming and human greed | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2024 | GS-IV | 7 | Case study: ABC Incorporated, a large technology company | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2024 | GS-IV | 12 | Case study: Dr. Srinivasan, a senior scientist at a biotechnology company | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2025 | GS-IV | 1 | (a) ethical dilemmas of social media in the digital age; (b) constitutional morality as product of civil education | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 2 | (a) Clausewitz - war as diplomacy by other means; (b) ethics of environmental clearance in sensitive border areas | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 8 | Case study: deforestation for housing and social-welfare objectives | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+
+### What this owner must now support
+
+- (a) AI as a reliable input for administrative decisions; (b) dimensions of ethics guiding responsible behaviour
+- (a) belief in peace, not merely talk; (b) global warming and human greed
+- Case study: ABC Incorporated, a large technology company
+- Case study: Dr. Srinivasan, a senior scientist at a biotechnology company
+- (a) ethical dilemmas of social media in the digital age; (b) constitutional morality as product of civil education
+- (a) Clausewitz - war as diplomacy by other means; (b) ethics of environmental clearance in sensitive border areas
+- Case study: deforestation for housing and social-welfare objectives
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

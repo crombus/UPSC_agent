@@ -182,3 +182,26 @@ functions as evidence for your mechanism.
 "government schemes" section that belongs in a GS answer rather than a
 continuous essay? If yes, remove it and rewrite that portion as
 connected prose.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+## Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+
+- **Years represented:** 2024
+- **Paper(s):** Essay
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Essay | Section A - 1 | Forests precede civilizations and deserts follow them | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section B - 1 | Social media triggering 'Fear of Missing Out', depression and loneliness | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+
+### What this owner must now support
+
+- Forests precede civilizations and deserts follow them
+- Social media triggering 'Fear of Missing Out', depression and loneliness
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

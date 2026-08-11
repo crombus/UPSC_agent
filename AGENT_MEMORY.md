@@ -187,6 +187,10 @@ Internal Security · Disaster Management · Current Affairs
   and Mains, the solved workbook must include all relevant verified PYQs from both stages. For
   subjects or topics tested only in Prelims, include the relevant verified Prelims PYQs and
   objective-answer explanations; do not force unrelated Mains PYQs into the workbook.
+- **Unavailable Prelims-key rule:** when the official answer key is unavailable or unreadable,
+  do not omit the relevant PYQ. Infer the most defensible answer from authoritative subject
+  knowledge, explain the elimination logic, state a confidence level, and label it prominently
+  as **INFERRED ANSWER — NOT OFFICIALLY VERIFIED**. Never present an inferred key as official.
 - **Premium solved-workbook standard (all subjects):** every solved PYQ must include an
   examiner-grade, highest-standard model answer appropriate to its marks and directive, followed
   by a specific explanation of what an outstanding answer for that question and subject must

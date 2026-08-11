@@ -96,7 +96,7 @@
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2020 | Prelims GS-I | 24 | Chronological order Pratihara Pallava Chola Pala dynasties | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | Prelims GS-I | 24 | Chronological order Pratihara Pallava Chola Pala dynasties | Objective question; official key unavailable locally | Cross-routed to Pratihara-Pala, Pallava and imperial-Chola Core owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 97 | Historical places Bhilsa Dwarasamudra Girinagar Sthanesvara state matching | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 34 | Kingdoms of Northern India after Gupta decline | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 

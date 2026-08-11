@@ -160,6 +160,16 @@ def strip_generated(text: str) -> str:
     return pattern.sub("\n", text).rstrip() + "\n"
 
 
+def normalize_generated_spacing(text: str) -> str:
+    """Keep exactly one blank line between adjacent generated cycle blocks."""
+    return re.sub(
+        r"(<!-- END GENERATED PYQ INTEGRATION: [^>]+ -->)\n+"
+        r"(<!-- BEGIN GENERATED PYQ INTEGRATION: [^>]+ -->)",
+        r"\1\n\n\2",
+        text,
+    )
+
+
 def markdown_safe(text: str) -> str:
     return text.replace("|", r"\|").replace("\n", " ").strip()
 
@@ -541,7 +551,10 @@ def main() -> None:
 
     for target, target_entries in sorted(by_target.items()):
         clean = original_text[target].rstrip()
-        target.write_text(clean + "\n" + render_block(target_entries), encoding="utf-8")
+        target.write_text(
+            normalize_generated_spacing(clean + "\n" + render_block(target_entries)),
+            encoding="utf-8",
+        )
 
     write_audit(entries, original_text, missing_targets)
     print(f"Wrote {len(by_target)} owner files")
