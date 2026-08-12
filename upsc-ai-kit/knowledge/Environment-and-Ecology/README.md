@@ -16,7 +16,10 @@
 > value-added material (Sendai/resilience) + IUCN/CITES/CMS/CBD/UNFCCC/IPCC/UNCCD/UNEP/UNDRR
 > primary sources + audited UPSC Environment PYQs (2024-2026 Prelims; 2024-2025 Mains and
 > Essay, read directly from the local official papers).
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md`](REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md)
+> compresses all 28 Core/Advanced pairs into one ecological-process map, convention
+> comparison, legal-status sheet, species-identification framework and Prelims trap list.
 > **Last source-grounded reevaluation:** 2 August 2026.
 
 ---
@@ -74,6 +77,17 @@
 | 26 | Disaster Management Framework and Sendai | Disaster-risk-reduction governance |
 | 27 | Environmental Institutions (MoEFCC, CPCB, NBA, WII) | Institutional architecture |
 | 28 | Species and Current Affairs Tracker | Dated milestone tracking |
+
+## Revision sequence
+
+1. Read the [revision chart](REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md)
+   for ecological mechanisms, legal distinctions, convention matching and species elimination.
+2. Use the linked `basic/` owner file for any weak topic. Core remains independently
+   complete for Prelims and GS-III.
+3. Open the matching `advanced/` file only for deeper ecology, legal nuance and
+   implementation trade-offs.
+4. Recheck Topic 28 before using any species status, protected-area count, treaty
+   outcome, policy target or institutional milestone.
 
 ## Cross-subject links
 

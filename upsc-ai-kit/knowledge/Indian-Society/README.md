@@ -10,6 +10,7 @@
 > **Spine:** Official GS-I syllabus; audited 2024-2025 GS-I Mains PYQs; Census/RGI,
 > NFHS, MoSPI/PLFS, NITI Aayog and ministry sources. Volatile-source check: 21 July 2026.
 > **Start here:** `00_Master-Framework.md`.
+> **Pre-exam revision:** [Structures, Change and Distinctive Features Chart](REVISION-CHART_Structures-Change-and-Distinctive-Features.md).
 
 ---
 
@@ -17,6 +18,9 @@
 
 - **Two tiers per topic:** `basic/NN` builds concepts, mechanisms and direct PYQ use;
   `advanced/NN` adds causal chains, boundary cases, trade-offs and answer frameworks.
+- **Revise by mechanism:** Before a test, use
+  `REVISION-CHART_Structures-Change-and-Distinctive-Features.md` for precise
+  definitions, social-change chains, comparisons, evidence rules and reusable Mains frames.
 - **Tagging:** ✅ = source-grounded or verified PYQ; ⚠️ = analytical inference;
   📰 = dated current anchor. Dates belong with every dynamic statistic.
 - **Evidence discipline:** distinguish a Census stock from an NFHS/PLFS survey estimate and

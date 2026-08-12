@@ -4,6 +4,7 @@
 > **Core question:** How do the Earth's physical processes create the landforms, climates and
 > resources that humans then settle, exploit, govern and contest — and how does India fit into
 > both the physical and human geographic pattern of the world?
+> **Rapid revision:** [Core Processes, Regions and Distinctive Features Chart](REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md).
 
 ---
 

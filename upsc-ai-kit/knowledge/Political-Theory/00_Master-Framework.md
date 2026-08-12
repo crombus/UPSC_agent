@@ -5,6 +5,9 @@
 > power or democracy, which competing *conceptual family* (liberal, Marxist, communitarian,
 > feminist, Gandhian, pluralist, anarchist) is being invoked, and what does each family say about
 > the unit of analysis, legitimacy, freedom, justice and the proper role of the state?
+>
+> **Last-minute route:** [`REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md`](REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md)
+> consolidates all 23 Core/Advanced pairs into one comparative revision sheet.
 > **Grounded in:** O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009),
 > read directly across all 25 chapters; selectively supplemented by the supplied
 > *Socio-Political Philosophy* PDF for secularism, multiculturalism, punishment and additional

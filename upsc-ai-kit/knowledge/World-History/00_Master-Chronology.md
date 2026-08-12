@@ -20,6 +20,9 @@
   your head, then hang each topic's detail on it.
 - Columns: **Period → approx dates → what defines it → key event/marker**.
 - The final section is a **one-line-per-era memory ladder** for quick revision.
+- For side-by-side revolution, ideology, war, imperialism, decolonisation and boundary-change
+  distinctions, use the
+  [Ages, Revolutions and Distinctive Features Revision Chart](REVISION-CHART_Ages-Eras-and-Distinctive-Features.md).
 
 ## 1. Age of Enlightenment and Revolutions (mid-1700s – early 1800s)
 

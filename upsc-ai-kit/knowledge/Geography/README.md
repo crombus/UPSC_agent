@@ -13,6 +13,7 @@
 > & Urban Affairs/MoRTH/Ports/ISRO official sources + PIB current-affairs anchors + audited UPSC
 > Geography PYQ patterns.
 > **Start here:** `00_Master-Framework.md`.
+> **Pre-exam revision:** [Core Processes, Regions and Distinctive Features Chart](REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md).
 
 ---
 
@@ -22,6 +23,9 @@
   models/theories, world patterns and classification); `advanced/NN` gives the India-application
   layer (India-specific data, institutions, current policy and a fuller Mains-answer
   architecture).
+- **Revise by mechanism:** Before a test, use
+  `REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md` for causal chains,
+  landform and climate diagnostics, India applications, models and map-based elimination.
 - **Locked source tiers:** `basic/` is grounded in the local **Majid Husain, Indian & World
   Geography** PDF plus **G.C. Leong** and its own current-affairs anchor. `advanced/` is grounded
   in the local **D.R. Khullar** PDF plus **Majid Husain, Geography of India** and a **distinct**

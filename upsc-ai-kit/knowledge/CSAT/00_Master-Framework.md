@@ -6,6 +6,9 @@
 > families. Dedicated Topics 07 and 08 close the communication and General Mental Ability clauses.
 > **Core question:** how do I reliably clear a **qualifying** aptitude paper with the fewest errors
 > and the least wasted time?
+>
+> **Last-minute route:** [Skills, Shortcuts and Distinctive Features](REVISION-CHART_Skills-Shortcuts-and-Distinctive-Features.md)
+> consolidates all eight Core/Advanced pairs into one qualifying-safe revision sheet.
 
 ---
 

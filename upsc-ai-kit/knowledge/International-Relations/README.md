@@ -19,7 +19,10 @@
 > from first-party official documents, not from secondary commentary.
 > **Currency:** volatile claims in this folder were re-verified against
 > first-party sources on **3 August 2026**; every such claim carries its own date.
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Actors-Interests-and-Distinctive-Features.md`](REVISION-CHART_Actors-Interests-and-Distinctive-Features.md)
+> compresses all 12 Core/Advanced pairs into one interest-instrument-outcome map,
+> regional fingerprint sheet, grouping comparison and Mains-answer framework.
 
 ---
 
@@ -132,6 +135,17 @@
 5. **Systemic effects and institutions:** `11-12` — how globalisation and
    trade politics transmit into India's interests, and how the UN/Bretton
    Woods system structures global governance and reform debates.
+
+## Revision sequence
+
+1. Read the [revision chart](REVISION-CHART_Actors-Interests-and-Distinctive-Features.md)
+   for the complete interest, actor, instrument, status, constraint and outcome chain.
+2. Use the linked `basic/` owner file for any weak country, region, grouping or
+   institution. Core remains independently answer-complete.
+3. Open the matching `advanced/` file only for theory, deeper strategic trade-offs
+   and institutional nuance.
+4. Before using a current example, verify its exact date, participation category
+   and legal or implementation status.
 
 ## Primary source routes
 

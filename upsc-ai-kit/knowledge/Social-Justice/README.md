@@ -7,7 +7,10 @@
 > **Spine:** Official UPSC GS-II syllabus; audited local UPSC GS-II and Essay papers
 > (2024-2025); the local Laxmikant, Ramesh Singh and Economic Survey 2025-26 texts;
 > India Code; official ministries, commissions, surveys and scheme portals.
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md`](REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md)
+> compresses all 17 Core/Advanced pairs into one rights-to-capability map, vulnerable-group
+> matrix, comparison sheet, trap list and Mains-answer framework.
 
 ---
 
@@ -98,6 +101,17 @@
 4. **Precarious work and habitation:** `14-16` — sanitation labour, informal work,
    migration, homelessness and urban poverty.
 5. **Synthesis:** `17` — targeting, convergence, outcome data and correction.
+
+## Revision sequence
+
+1. Read the [revision chart](REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md)
+   for the full rights-to-outcome architecture and group comparison matrix.
+2. Use the linked `basic/` owner file for any weak topic. Core remains independently
+   answer-complete.
+3. Open the matching `advanced/` file only for legal nuance, intersectionality,
+   institutional trade-offs and evaluation depth.
+4. Before using data or a scheme example, recheck its reporting date, legal stage,
+   eligibility rules and operational status.
 
 ## Primary source routes
 

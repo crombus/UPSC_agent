@@ -1,6 +1,6 @@
 # UPSC Master Study Index
 
-> **Generated:** 2026-08-11 by `tools/build_study_index.py`.
+> **Generated:** 2026-08-12 by `tools/build_study_index.py`.
 > **Update rule:** Re-run the builder whenever a knowledge file, learning-session note or notes PDF is added.
 
 ## Coverage status
@@ -18,13 +18,13 @@
 3. Use **Advanced** for Mains/Optional depth after Core; it must not be the sole source of an indispensable fact.
 4. Mark the topic complete only after active recall, objective practice where applicable and one written answer.
 
-**Inventory:** 1128 knowledge Markdown files and 240 notes PDFs.
+**Inventory:** 1148 knowledge Markdown files and 240 notes PDFs.
 
 # Topic-by-Topic Study Map
 
 ## Ancient Indian History
 
-**Start/ownership:** [README](Ancient-Indian-History/README.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Ancient-Indian-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Ancient-Indian-History/README.md) · [00_Master-Chronology](Ancient-Indian-History/00_Master-Chronology.md) · [REVISION-CHART_Ages-Eras-and-Distinctive-Features](Ancient-Indian-History/REVISION-CHART_Ages-Eras-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Ancient-Indian-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 
 ## Medieval Indian History
 
-**Start/ownership:** [README](Medieval-Indian-History/README.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Medieval-Indian-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Medieval-Indian-History/README.md) · [00_Master-Chronology](Medieval-Indian-History/00_Master-Chronology.md) · [REVISION-CHART_Ages-Eras-and-Distinctive-Features](Medieval-Indian-History/REVISION-CHART_Ages-Eras-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Medieval-Indian-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 
 ## Modern Indian History
 
-**Start/ownership:** [README](Modern-Indian-History/README.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Modern-Indian-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Modern-Indian-History/README.md) · [00_Master-Chronology](Modern-Indian-History/00_Master-Chronology.md) · [REVISION-CHART_Ages-Eras-and-Distinctive-Features](Modern-Indian-History/REVISION-CHART_Ages-Eras-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Modern-Indian-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 
 ## Indian Art and Culture
 
-**Start/ownership:** [README](Indian-Art-and-Culture/README.md) · [00_Master-Framework](Indian-Art-and-Culture/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Indian-Art-and-Culture/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Indian-Art-and-Culture/README.md) · [00_Master-Framework](Indian-Art-and-Culture/00_Master-Framework.md) · [REVISION-CHART_Forms-Styles-and-Distinctive-Features](Indian-Art-and-Culture/REVISION-CHART_Forms-Styles-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Indian-Art-and-Culture/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 
 ## World History
 
-**Start/ownership:** [README](World-History/README.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](World-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](World-History/README.md) · [00_Master-Chronology](World-History/00_Master-Chronology.md) · [REVISION-CHART_Ages-Eras-and-Distinctive-Features](World-History/REVISION-CHART_Ages-Eras-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](World-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 
 ## Indian Society
 
-**Start/ownership:** [README](Indian-Society/README.md) · [00_Master-Framework](Indian-Society/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Indian-Society/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Indian-Society/README.md) · [00_Master-Framework](Indian-Society/00_Master-Framework.md) · [REVISION-CHART_Structures-Change-and-Distinctive-Features](Indian-Society/REVISION-CHART_Structures-Change-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Indian-Society/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 
 ## Geography
 
-**Start/ownership:** [README](Geography/README.md) · [00_Master-Framework](Geography/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Geography/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Geography/README.md) · [00_Master-Framework](Geography/00_Master-Framework.md) · [REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features](Geography/REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Geography/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 
 ## Polity
 
-**Start/ownership:** [README](Polity/README.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Polity/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Polity/README.md) · [REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features](Polity/REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Polity/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 
 ## Governance
 
-**Start/ownership:** [README](Governance/README.md) · [00_Master-Framework](Governance/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Governance/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Governance/README.md) · [00_Master-Framework](Governance/00_Master-Framework.md) · [REVISION-CHART_Systems-Delivery-and-Distinctive-Features](Governance/REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Governance/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 
 ## Social Justice
 
-**Start/ownership:** [README](Social-Justice/README.md) · [00_Master-Framework](Social-Justice/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Social-Justice/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Social-Justice/README.md) · [00_Master-Framework](Social-Justice/00_Master-Framework.md) · [REVISION-CHART_Rights-Capabilities-and-Distinctive-Features](Social-Justice/REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Social-Justice/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 
 ## International Relations
 
-**Start/ownership:** [README](International-Relations/README.md) · [00_Master-Framework](International-Relations/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](International-Relations/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](International-Relations/README.md) · [00_Master-Framework](International-Relations/00_Master-Framework.md) · [REVISION-CHART_Actors-Interests-and-Distinctive-Features](International-Relations/REVISION-CHART_Actors-Interests-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](International-Relations/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 
 ## Economy
 
-**Start/ownership:** [README](Economy/README.md) · [00_Master-Framework](Economy/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Economy/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Economy/README.md) · [00_Master-Framework](Economy/00_Master-Framework.md) · [REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features](Economy/REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Economy/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 
 ## Environment and Ecology
 
-**Start/ownership:** [README](Environment-and-Ecology/README.md) · [00_Master-Framework](Environment-and-Ecology/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Environment-and-Ecology/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Environment-and-Ecology/README.md) · [00_Master-Framework](Environment-and-Ecology/00_Master-Framework.md) · [REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features](Environment-and-Ecology/REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Environment-and-Ecology/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 
 ## Science and Technology
 
-**Start/ownership:** [README](Science-and-Technology/README.md) · [00_Master-Framework](Science-and-Technology/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Science-and-Technology/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Science-and-Technology/README.md) · [00_Master-Framework](Science-and-Technology/00_Master-Framework.md) · [REVISION-CHART_Principles-Applications-and-Distinctive-Features](Science-and-Technology/REVISION-CHART_Principles-Applications-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Science-and-Technology/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -479,7 +479,7 @@
 
 ## Internal Security
 
-**Start/ownership:** [README](Internal-Security/README.md) · [00_Master-Framework](Internal-Security/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Internal-Security/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Internal-Security/README.md) · [00_Master-Framework](Internal-Security/00_Master-Framework.md) · [REVISION-CHART_Threats-Responses-and-Distinctive-Features](Internal-Security/REVISION-CHART_Threats-Responses-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Internal-Security/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -498,7 +498,7 @@
 
 ## Disaster Management
 
-**Start/ownership:** [README](Disaster-Management/README.md) · [00_Master-Framework](Disaster-Management/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Disaster-Management/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Disaster-Management/README.md) · [00_Master-Framework](Disaster-Management/00_Master-Framework.md) · [REVISION-CHART_Hazards-Risk-and-Distinctive-Features](Disaster-Management/REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Disaster-Management/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -523,7 +523,7 @@
 
 ## Ethics
 
-**Start/ownership:** [README](Ethics/README.md) · [00_Master-Framework](Ethics/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Ethics/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Ethics/README.md) · [00_Master-Framework](Ethics/00_Master-Framework.md) · [REVISION-CHART_Values-Dilemmas-and-Distinctive-Features](Ethics/REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Ethics/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 
 ## Essay
 
-**Start/ownership:** [README](Essay/README.md) · [00_Master-Framework](Essay/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Essay/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Essay/README.md) · [00_Master-Framework](Essay/00_Master-Framework.md) · [REVISION-CHART_Decoding-Arguments-and-Distinctive-Features](Essay/REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Essay/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 
 ## CSAT
 
-**Start/ownership:** [README](CSAT/README.md) · [00_Master-Framework](CSAT/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](CSAT/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](CSAT/README.md) · [00_Master-Framework](CSAT/00_Master-Framework.md) · [REVISION-CHART_Skills-Shortcuts-and-Distinctive-Features](CSAT/REVISION-CHART_Skills-Shortcuts-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](CSAT/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -618,7 +618,7 @@
 
 ## Political Theory
 
-**Start/ownership:** [README](Political-Theory/README.md) · [00_Master-Framework](Political-Theory/00_Master-Framework.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Political-Theory/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+**Start/ownership:** [README](Political-Theory/README.md) · [00_Master-Framework](Political-Theory/00_Master-Framework.md) · [REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features](Political-Theory/REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md) · [OFFICIAL-UPSC-SYLLABUS-MAPPING](Political-Theory/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 | # / Area | Topic | Prelims / objective study | Mains / descriptive study | Knowledge | Learning-session notes | Notes PDFs |
 |---|---|---|---|---|---|---|
@@ -763,6 +763,7 @@
 - [learning-sessions/Importance-Historiography_Premium-Solved-PYQ-Workbook_2026-08-10.md](Ancient-Indian-History/learning-sessions/Importance-Historiography_Premium-Solved-PYQ-Workbook_2026-08-10.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Ancient-Indian-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Ancient-Indian-History/README.md)
+- [REVISION-CHART_Ages-Eras-and-Distinctive-Features.md](Ancient-Indian-History/REVISION-CHART_Ages-Eras-and-Distinctive-Features.md)
 
 ## Medieval Indian History
 
@@ -822,6 +823,7 @@
 - [learning-sessions/India-on-Eve-Arab-Turkish-Contacts_Premium-Solved-PYQ-Workbook_2026-08-10.md](Medieval-Indian-History/learning-sessions/India-on-Eve-Arab-Turkish-Contacts_Premium-Solved-PYQ-Workbook_2026-08-10.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Medieval-Indian-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Medieval-Indian-History/README.md)
+- [REVISION-CHART_Ages-Eras-and-Distinctive-Features.md](Medieval-Indian-History/REVISION-CHART_Ages-Eras-and-Distinctive-Features.md)
 
 ## Modern Indian History
 
@@ -905,6 +907,7 @@
 - [basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md](Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Modern-Indian-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Modern-Indian-History/README.md)
+- [REVISION-CHART_Ages-Eras-and-Distinctive-Features.md](Modern-Indian-History/REVISION-CHART_Ages-Eras-and-Distinctive-Features.md)
 
 ## Indian Art and Culture
 
@@ -942,6 +945,7 @@
 - [basic/15_Indian-Cinema-Film-Institutions-and-Awards.md](Indian-Art-and-Culture/basic/15_Indian-Cinema-Film-Institutions-and-Awards.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Indian-Art-and-Culture/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Indian-Art-and-Culture/README.md)
+- [REVISION-CHART_Forms-Styles-and-Distinctive-Features.md](Indian-Art-and-Culture/REVISION-CHART_Forms-Styles-and-Distinctive-Features.md)
 
 ## World History
 
@@ -991,6 +995,7 @@
 - [basic/21_Cold-War-End-and-New-World-Order.md](World-History/basic/21_Cold-War-End-and-New-World-Order.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](World-History/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](World-History/README.md)
+- [REVISION-CHART_Ages-Eras-and-Distinctive-Features.md](World-History/REVISION-CHART_Ages-Eras-and-Distinctive-Features.md)
 
 ## Indian Society
 
@@ -1028,6 +1033,7 @@
 - [basic/15_Secularism.md](Indian-Society/basic/15_Secularism.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Indian-Society/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Indian-Society/README.md)
+- [REVISION-CHART_Structures-Change-and-Distinctive-Features.md](Indian-Society/REVISION-CHART_Structures-Change-and-Distinctive-Features.md)
 
 ## Geography
 
@@ -1109,6 +1115,7 @@
 - [basic/37_Cultural-and-Social-Geography-of-India.md](Geography/basic/37_Cultural-and-Social-Geography-of-India.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Geography/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Geography/README.md)
+- [REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md](Geography/REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md)
 
 ## Polity
 
@@ -1214,6 +1221,7 @@
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Polity/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [Polity-Charvaka-MCQ-Detailed-Solutions.md](Polity/Polity-Charvaka-MCQ-Detailed-Solutions.md)
 - [README.md](Polity/README.md)
+- [REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md](Polity/REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md)
 
 ## Governance
 
@@ -1253,6 +1261,7 @@
 - [basic/16_Sports-Governance-Institutions-and-Major-Tournaments.md](Governance/basic/16_Sports-Governance-Institutions-and-Major-Tournaments.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Governance/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Governance/README.md)
+- [REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md](Governance/REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md)
 
 ## Social Justice
 
@@ -1294,6 +1303,7 @@
 - [basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md](Social-Justice/basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Social-Justice/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Social-Justice/README.md)
+- [REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md](Social-Justice/REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md)
 
 ## International Relations
 
@@ -1327,6 +1337,7 @@
 - [learning-sessions/Foreign-Policy-Foundations_Premium-Solved-PYQ-Workbook_2026-08-10.md](International-Relations/learning-sessions/Foreign-Policy-Foundations_Premium-Solved-PYQ-Workbook_2026-08-10.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](International-Relations/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](International-Relations/README.md)
+- [REVISION-CHART_Actors-Interests-and-Distinctive-Features.md](International-Relations/REVISION-CHART_Actors-Interests-and-Distinctive-Features.md)
 
 ## Economy
 
@@ -1396,6 +1407,7 @@
 - [basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md](Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Economy/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Economy/README.md)
+- [REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md](Economy/REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md)
 
 ## Environment and Ecology
 
@@ -1459,6 +1471,7 @@
 - [basic/28_Species-and-Current-Affairs-Tracker.md](Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Environment-and-Ecology/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Environment-and-Ecology/README.md)
+- [REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md](Environment-and-Ecology/REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md)
 
 ## Science and Technology
 
@@ -1518,6 +1531,7 @@
 - [basic/26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md](Science-and-Technology/basic/26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Science-and-Technology/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Science-and-Technology/README.md)
+- [REVISION-CHART_Principles-Applications-and-Distinctive-Features.md](Science-and-Technology/REVISION-CHART_Principles-Applications-and-Distinctive-Features.md)
 
 ## Internal Security
 
@@ -1549,6 +1563,7 @@
 - [basic/12_Security-Forces-Intelligence-Coordination-and-Rights.md](Internal-Security/basic/12_Security-Forces-Intelligence-Coordination-and-Rights.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Internal-Security/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Internal-Security/README.md)
+- [REVISION-CHART_Threats-Responses-and-Distinctive-Features.md](Internal-Security/REVISION-CHART_Threats-Responses-and-Distinctive-Features.md)
 
 ## Disaster Management
 
@@ -1592,6 +1607,7 @@
 - [basic/18_Governance-Capacity-and-International-Cooperation.md](Disaster-Management/basic/18_Governance-Capacity-and-International-Cooperation.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Disaster-Management/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Disaster-Management/README.md)
+- [REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md](Disaster-Management/REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md)
 
 ## Ethics
 
@@ -1645,6 +1661,7 @@
 - [basic/23_Comparative-and-Named-Real-Case-Studies.md](Ethics/basic/23_Comparative-and-Named-Real-Case-Studies.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Ethics/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Ethics/README.md)
+- [REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md](Ethics/REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md)
 
 ## Essay
 
@@ -1685,6 +1702,7 @@
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Essay/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [PYQ-Corpus-2013-2025.md](Essay/PYQ-Corpus-2013-2025.md)
 - [README.md](Essay/README.md)
+- [REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md](Essay/REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md)
 
 ## CSAT
 
@@ -1710,6 +1728,7 @@
 - [basic/08_General-Mental-Ability-Integrated-Map.md](CSAT/basic/08_General-Mental-Ability-Integrated-Map.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](CSAT/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](CSAT/README.md)
+- [REVISION-CHART_Skills-Shortcuts-and-Distinctive-Features.md](CSAT/REVISION-CHART_Skills-Shortcuts-and-Distinctive-Features.md)
 
 ## Qualifying English
 
@@ -1796,6 +1815,7 @@
 - [basic/23_Contemporary-Democracy-Social-Change-and-Development.md](Political-Theory/basic/23_Contemporary-Democracy-Social-Change-and-Development.md)
 - [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](Political-Theory/OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 - [README.md](Political-Theory/README.md)
+- [REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md](Political-Theory/REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md)
 
 ## Philosophy
 

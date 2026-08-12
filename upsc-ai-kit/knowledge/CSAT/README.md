@@ -9,7 +9,10 @@
 > The 2026 key scan is headed **`CS (P) Exam 2026 [Prov. Ans. Key]`** - explicitly provisional; the
 > 2024/2025 scans are headed only `CS(P)-2024` / `CS(P)-2025` and carry **no** provisional marker,
 > but they also name no issuer, so this module does not itself certify them as final UPSC keys.
-> **Start here:** [Master Framework](00_Master-Framework.md), then work
+> **Start here:** [Master Framework](00_Master-Framework.md).
+> **Pre-exam revision:** [Skills, Shortcuts and Distinctive Features](REVISION-CHART_Skills-Shortcuts-and-Distinctive-Features.md)
+> compresses all eight Core/Advanced pairs into one qualifying-safe formula,
+> method, trap, error-control and timed-attempt sheet. Then work
 > [basic/01](basic/01_Reading-Comprehension.md) through
 > [basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md), then close the two official
 > architecture clauses through [basic/07](basic/07_Interpersonal-and-Communication-Skills.md) and
@@ -184,6 +187,16 @@ inventing a label or answer.
    source-status-aware keys.
 5. [Readiness Tracker](00_Readiness-Tracker.md) - log timed sets, track accuracy/risk, and use internal diagnostic
    gates.
+
+## 6A. Revision order
+
+1. Read the [revision chart](REVISION-CHART_Skills-Shortcuts-and-Distinctive-Features.md)
+   for the complete paper workflow and formula/trap sheet.
+2. Use the linked `basic/` file for every weak mechanism. Core remains independently
+   sufficient for a safe qualifying outcome when backed by timed practice.
+3. Open the matching `advanced/` file only for harder variants after Core accuracy is stable.
+4. Use the [Readiness Tracker](00_Readiness-Tracker.md) to separate the verified official
+   qualifying bar from your higher internal target and to diagnose errors.
 
 ## 7. Files in this module
 

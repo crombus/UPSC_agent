@@ -13,6 +13,7 @@
 - **Read top-to-bottom once** to fix the skeleton of ancient India in your head, then hang each topic's detail on it.
 - Columns: **Period → approx dates → what defines it → key polity/marker**.
 - The final section is a **one-line-per-era memory ladder** for quick revision.
+- For side-by-side diagnostic features and elimination traps, use [Ages, Eras and Distinctive Features Revision Chart](REVISION-CHART_Ages-Eras-and-Distinctive-Features.md).
 
 ## 1. Prehistory & Protohistory (Stone → Bronze Age)
 

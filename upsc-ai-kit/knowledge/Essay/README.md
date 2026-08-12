@@ -12,7 +12,10 @@
 > **Directly audited locally:** the 2024 and 2025 papers only
 > (`books/mains/UPSC Mains 2024 Essay Paper.pdf`,
 > `books/mains/UPSC Mains 2025 Essay Paper.pdf`).
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md`](REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md)
+> compresses all 16 Core/Advanced pairs into one selection-to-revision
+> workflow, argument map, evidence protocol and timed-execution checklist.
 
 ---
 
@@ -52,6 +55,17 @@
   should be abandoned for a specific prompt where it distorts the
   argument. A structure applied against the grain of a prompt is worse
   than no structure at all.
+
+## Revision path
+
+1. Read the [revision chart](REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md)
+   for topic selection, decoding, thesis, argument, evidence, structure and review.
+2. Use the linked `basic/` owner file for any weak writing skill. Core remains
+   independently sufficient for full-paper execution.
+3. Open the matching `advanced/` file only for harder causal, dialectical,
+   scale, stakeholder and revision depth.
+4. Use [`PYQ-Corpus-2013-2025.md`](PYQ-Corpus-2013-2025.md) for practice,
+   retaining its V1/V2 wording-verification discipline.
 
 ## Source policy — read before using any prompt in this folder
 

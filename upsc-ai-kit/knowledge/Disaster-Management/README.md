@@ -15,7 +15,10 @@
 > Qdrant/retrieval material.
 > **PYQ corpus:** audited local UPSC GS-III text — `03 UPSC 2024
 > Paper-III.txt` and `UPSC Mains 2025 GS Paper 3 3.txt`.
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md`](REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md)
+> compresses all 18 Core/Advanced pairs into one risk-to-resilience map,
+> hazard fingerprint sheet, institutional framework and GS-III answer structure.
 
 ---
 
@@ -143,6 +146,17 @@
    to-recovery cycle and the governance/international-cooperation
    architecture every earlier topic's "measures taken" section routes
    through.
+
+## Revision sequence
+
+1. Read the [revision chart](REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md)
+   for risk, hazard fingerprints, the complete DM cycle and institutional roles.
+2. Use the linked `basic/` owner file for any weak topic. Core remains independently
+   answer-complete.
+3. Open the matching `advanced/` file only for systems, equity, finance and
+   governance depth.
+4. Reverify every current institutional count, fund award, authority notification,
+   warning system and disaster-loss figure before use.
 
 ## Direct 2024-2025 PYQ audit
 

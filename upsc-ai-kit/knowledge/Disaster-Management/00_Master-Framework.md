@@ -6,6 +6,9 @@
 > (2024 update), PDF pp. 1-85.
 > **PYQ corpus:** audited local UPSC GS-III 2024/2025 text.
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current anchor | ❌ = trap.
+>
+> **Last-minute route:** [`REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md`](REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md)
+> consolidates all 18 Core/Advanced pairs into one exam-revision sheet.
 
 ---
 

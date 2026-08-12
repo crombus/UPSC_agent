@@ -12,7 +12,10 @@
 > Mission, India Code/CERT-In/NCIIPC, DBT/ICMR/CDSCO/BIRAC, GEAC/MoEFCC, WIPO/CGPDTM/DPIIT,
 > MNRE/MoRTH/NITI Aayog/BEE, DGCA Digital Sky, Ministry of Mines/GSI/KABIL, DST/CSIR/ANRF) for
 > current and institutional facts, each cited with its actual retrieval/verification date.
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Principles-Applications-and-Distinctive-Features.md`](REVISION-CHART_Principles-Applications-and-Distinctive-Features.md)
+> compresses all 26 Core/Advanced pairs into one principle-to-capability map,
+> technology-status ladder, comparison sheet and Prelims trap list.
 
 ---
 
@@ -83,6 +86,17 @@ sitting well beyond the stated date.
 | 24 | S&T Institutions: DST, CSIR, ANRF | Research governance |
 | 25 | Computing Fundamentals: Hardware, Software, Networks and Cloud | Computers/IT foundation |
 | 26 | Scientific Discoveries, Nobel Prizes and Scientists | Discovery-to-scientist current-affairs integration |
+
+## Revision sequence
+
+1. Read the [revision chart](REVISION-CHART_Principles-Applications-and-Distinctive-Features.md)
+   for mechanisms, architectures, readiness ladders and compulsory distinctions.
+2. Use the linked `basic/` owner file for any weak topic. Core remains independently
+   complete for Prelims and GS-III.
+3. Open the matching `advanced/` file only for engineering, governance, ethics and
+   strategic depth.
+4. Reverify every mission status, test, facility, legal commencement, production
+   claim and prize/current-affairs detail before use.
 
 ## Cross-links to other subjects (do not duplicate — refer instead)
 

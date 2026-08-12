@@ -12,6 +12,7 @@
 - Read top-to-bottom once to fix the skeleton (Mughal decline → Company conquest → colonial state → 1857 → moderate nationalism → mass movements → 1947), then hang each topic's detail on it.
 - Columns: **event → date → significance**.
 - The final section is a **date ladder** — the highest-frequency Prelims facts of the freedom struggle.
+- For side-by-side phase signatures, constitutional distinctions, movements and elimination traps, use [Phases, Movements and Distinctive Features Revision Chart](REVISION-CHART_Ages-Eras-and-Distinctive-Features.md).
 
 ## 1. The 18th-century transition (1707–1765)
 

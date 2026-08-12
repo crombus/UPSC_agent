@@ -27,6 +27,7 @@
 > anchored only to a dated official source and never presented as
 > permanently current.
 > **Start here:** `00_Master-Framework.md`.
+> **Pre-exam revision:** [Forms, Styles and Distinctive Features Chart](REVISION-CHART_Forms-Styles-and-Distinctive-Features.md).
 
 ---
 
@@ -39,6 +40,10 @@
   trade-offs and a Mains-ready answer architecture. Advanced does not repeat
   basic — it analyses what basic establishes. **Read `basic/NN` and
   `advanced/NN` for the same number as a matched pair.**
+- **Revise by identification:** Before a test, use
+  `REVISION-CHART_Forms-Styles-and-Distinctive-Features.md` for chronology,
+  morphology, materials, techniques, regional schools, institutions and
+  evidence-based elimination.
 - **Tagging:** ✅ = directly grounded in the retrieved book passage, an
   official document or a verified PYQ; ⚠️ = analytical inference, a
   contested attribution, an OCR/spelling artefact carried from source, or a

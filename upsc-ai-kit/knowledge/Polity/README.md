@@ -6,6 +6,7 @@
 > **Use:** Read the unnumbered file in `basic/` first, then its numbered companion in
 > `advanced/`. Political Theory remains a separate conceptual module; this folder owns
 > constitutional text, institutions, procedures, case law and verified Polity PYQs.
+> **Pre-exam revision:** [Constitutional Architecture and Distinctive Features Chart](REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md).
 
 ---
 
@@ -61,6 +62,10 @@ use the exam-complete `basic/Comparative-Constitutional-Schemes.md` before the o
 `advanced/48_Ministries-Departments-and-Central-Secretariat.md`. For Topic 49, use the
 exam-complete `basic/Statutory-Regulatory-and-Quasi-Judicial-Bodies.md` before the optional
 `advanced/49_Regulatory-State-and-Quasi-Judicial-Institutions.md`.
+
+Before a test, use `REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md`
+to revise source, appointment, tenure, removal, powers, accountability, appeal and
+high-frequency institutional distinctions across all 49 matched topics.
 
 ## Source discipline
 

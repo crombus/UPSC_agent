@@ -5,6 +5,9 @@
 > **Core question:** How does a constitutional welfare state convert formal equality
 > into substantive capability, dignity and participation for people facing unequal
 > starting conditions?
+>
+> **Last-minute route:** [`REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md`](REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md)
+> consolidates all 17 Core/Advanced pairs into one exam-revision sheet.
 
 ---
 

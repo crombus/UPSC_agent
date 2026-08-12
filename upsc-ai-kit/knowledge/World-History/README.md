@@ -19,6 +19,7 @@
 > Archives material where relevant, and standard reference historiography, with inference
 > clearly separated from sourced fact.
 > **Start here:** `00_Master-Chronology.md`.
+> **Pre-exam revision:** [Ages, Revolutions and Distinctive Features Chart](REVISION-CHART_Ages-Eras-and-Distinctive-Features.md).
 
 ---
 
@@ -27,6 +28,9 @@
 - **Two tiers per topic:** `basic/NN` gives the standard global narrative (what happened, why,
   core actors and concepts); `advanced/NN` adds historiographical debate, India/world linkages,
   consequences and a fuller Mains-answer architecture.
+- **Revise by comparison:** Before a test, use
+  `REVISION-CHART_Ages-Eras-and-Distinctive-Features.md` for chronology, ideologies, causal
+  chains, boundary changes, high-frequency comparisons and balanced verdicts.
 - **Same number = same topic** across both tiers (e.g., `basic/13_...md` pairs with
   `advanced/13_...md`).
 - **Tagging:** ✅ = directly grounded in a cited source (Lowe's text, NCERT/NIOS, Britannica,

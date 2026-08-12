@@ -4,6 +4,7 @@
 > outcomes before reading topic files.
 > **Core question:** How do inherited identities and changing institutions shape
 > equality, cohesion, agency and opportunity in a diverse society?
+> **Rapid revision:** [Structures, Change and Distinctive Features Chart](REVISION-CHART_Structures-Change-and-Distinctive-Features.md).
 
 ---
 

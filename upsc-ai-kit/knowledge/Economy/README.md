@@ -8,7 +8,10 @@
 
 > **Subject:** Economy | **GS Paper:** GS-III, with GS-II welfare/governance links and Prelims.
 > **Spine:** Ramesh Singh, *Indian Economy* + Economic Survey 2025-26 + audited UPSC Economy PYQs (2024-2026 Prelims; 2024-2025 Mains).
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md`](REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md)
+> compresses all 31 Core/Advanced pairs into one mechanism map, formula sheet,
+> sector framework, Prelims eliminator and GS-III answer structure.
 
 ---
 
@@ -64,6 +67,17 @@
 | 29 | Agricultural Technology Missions and Mission-Mode Policy | Agriculture/technology/policy |
 | 30 | Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries | Agriculture/allied sectors |
 | 31 | Energy Infrastructure Economics, Power, Fuels and Energy Security | Infrastructure/energy |
+
+## Revision sequence
+
+1. Read the [revision chart](REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md)
+   for macro identities, policy transmission, sector value chains and elimination rules.
+2. Use the linked `basic/` owner file for any weak concept. Core remains independently
+   complete for Prelims and GS-III.
+3. Open the matching `advanced/` file only for modelling, deeper policy trade-offs
+   and institutional nuance.
+4. Before quoting a current figure, verify its period, unit, coverage, source,
+   series/base and vintage.
 
 ## Source references
 

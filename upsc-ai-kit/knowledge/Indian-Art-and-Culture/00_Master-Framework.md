@@ -7,6 +7,7 @@
 > function shaped its form, what material/technique/vocabulary describes
 > it precisely, who practises or circulates it today, and what documents,
 > safeguards or contests it now?
+> **Rapid revision:** [Forms, Styles and Distinctive Features Chart](REVISION-CHART_Forms-Styles-and-Distinctive-Features.md).
 
 ---
 

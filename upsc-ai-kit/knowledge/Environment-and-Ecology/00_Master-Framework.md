@@ -5,6 +5,9 @@
 > **Core question:** How do India's ecosystems, species and natural resources function
 > scientifically, how are they governed legally and institutionally, and how does India
 > balance their protection against development, climate and disaster pressures?
+>
+> **Last-minute route:** [`REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md`](REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md)
+> consolidates all 28 Core/Advanced pairs into one exam-revision sheet.
 
 ---
 

@@ -4,6 +4,9 @@
 > **Core question:** How does India build strategic, economic and human-development capability
 > through science, technology and innovation — and where do capability, regulation and ethics
 > create tension?
+>
+> **Last-minute route:** [`REVISION-CHART_Principles-Applications-and-Distinctive-Features.md`](REVISION-CHART_Principles-Applications-and-Distinctive-Features.md)
+> consolidates all 26 Core/Advanced pairs into one exam-revision sheet.
 
 ---
 

@@ -1,0 +1,236 @@
+"""Generate copy-paste PDF export commands from knowledge-base topic indexes."""
+
+from __future__ import annotations
+
+import re
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[1]
+KNOWLEDGE = ROOT / "upsc-ai-kit" / "knowledge"
+OUTPUT = ROOT / "EXPORT-PDF-COMMAND-INDEX.md"
+
+SUBJECTS = [
+    ("Ancient-Indian-History", "Ancient History"),
+    ("Medieval-Indian-History", "Medieval History"),
+    ("Modern-Indian-History", "Modern History"),
+    ("World-History", "World History"),
+    ("Indian-Art-and-Culture", "Indian Art and Culture"),
+    ("Geography", "Geography"),
+    ("Indian-Society", "Indian Society"),
+    ("Polity", "Polity"),
+    ("Governance", "Governance"),
+    ("Social-Justice", "Social Justice"),
+    ("International-Relations", "International Relations"),
+    ("Economy", "Economy"),
+    ("Environment-and-Ecology", "Environment and Ecology"),
+    ("Science-and-Technology", "Science and Technology"),
+    ("Internal-Security", "Internal Security"),
+    ("Disaster-Management", "Disaster Management"),
+    ("Ethics", "Ethics"),
+    ("Political-Theory", "Political Theory"),
+    ("Essay", "Essay"),
+    ("CSAT", "CSAT"),
+    ("Qualifying-English", "Qualifying English"),
+    ("Qualifying-Hindi", "Qualifying Hindi"),
+]
+
+PHILOSOPHY_BLOCKS = [
+    (
+        "Philosophy Paper I — Western Philosophy",
+        [
+            "Plato and Aristotle",
+            "Rationalism",
+            "Empiricism",
+            "Kant",
+            "Hegel",
+            "Moore, Russell and Early Wittgenstein",
+            "Logical Positivism",
+            "Later Wittgenstein",
+            "Phenomenology (Husserl)",
+            "Existentialism",
+            "Quine and Strawson",
+        ],
+    ),
+    (
+        "Philosophy Paper I — Indian Philosophy",
+        [
+            "Carvaka",
+            "Jainism",
+            "Schools of Buddhism",
+            "Nyaya–Vaisesika",
+            "Samkhya",
+            "Yoga",
+            "Mimamsa",
+            "Schools of Vedanta",
+            "Aurobindo",
+        ],
+    ),
+    (
+        "Philosophy Paper II — Socio-Political Philosophy",
+        [
+            "Social and Political Ideals",
+            "Sovereignty",
+            "Individual and State",
+            "Forms of Government",
+            "Political Ideologies",
+            "Humanism, Secularism and Multiculturalism",
+            "Crime and Punishment",
+            "Development and Social Progress",
+            "Gender Discrimination",
+            "Caste Discrimination: Gandhi and Ambedkar",
+        ],
+    ),
+    (
+        "Philosophy Paper II — Philosophy of Religion",
+        [
+            "Notions of God",
+            "Proofs for the Existence of God",
+            "Problem of Evil",
+            "Soul: Immortality, Rebirth and Liberation",
+            "Reason, Revelation and Faith",
+            "Religious Experience",
+            "Religion without God",
+            "Religion and Morality",
+            "Religious Pluralism and Absolute Truth",
+            "Nature of Religious Language",
+        ],
+    ),
+]
+
+
+def clean_title(value: str) -> str:
+    value = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", value)
+    value = value.replace("`", "").replace("**", "").replace("*", "")
+    value = re.sub(r"<br\s*/?>.*", "", value, flags=re.I)
+    return re.sub(r"\s+", " ", value).strip(" |")
+
+
+def read_topic_table(subject_dir: Path) -> list[tuple[int, str]]:
+    readme = subject_dir / "README.md"
+    if not readme.exists():
+        return []
+
+    topics: dict[int, str] = {}
+    for line in readme.read_text(encoding="utf-8").splitlines():
+        match = re.match(r"^\|\s*(\d{1,2})\s*\|\s*([^|]+)\|", line)
+        if not match:
+            continue
+        number = int(match.group(1))
+        title = clean_title(match.group(2))
+        if title and not re.fullmatch(r"-+", title):
+            topics.setdefault(number, title)
+    return sorted(topics.items())
+
+
+def read_numbered_files(subject_dir: Path) -> list[tuple[int, str]]:
+    for tier in ("advanced", "basic"):
+        tier_dir = subject_dir / tier
+        if not tier_dir.exists():
+            continue
+        topics = {}
+        for path in tier_dir.glob("*.md"):
+            match = re.match(r"^(\d{2})_(.+)\.md$", path.name)
+            if match:
+                topics[int(match.group(1))] = clean_title(
+                    match.group(2).replace("-", " ")
+                )
+        if topics:
+            return sorted(topics.items())
+    return []
+
+
+def subject_topics(folder: str) -> list[tuple[int, str]]:
+    subject_dir = KNOWLEDGE / folder
+    topics = read_topic_table(subject_dir)
+    file_topics = read_numbered_files(subject_dir)
+
+    # Prefer the topic map, but use numbered files when the README has no complete map.
+    if file_topics and len(file_topics) > len(topics):
+        return file_topics
+    return topics
+
+
+def render_subject(display: str, topics: list[tuple[int, str]]) -> list[str]:
+    if not topics:
+        return []
+    first, last = topics[0][0], topics[-1][0]
+    lines = [
+        f"## {display} ({first:02d}–{last:02d}; {len(topics)} topics)",
+        "",
+    ]
+    for number, title in topics:
+        command = f"Export PDF for {display} {number:02d} — {title}"
+        lines.append(f"- [ ] `{command}`")
+    lines.append("")
+    return lines
+
+
+def render_philosophy() -> list[str]:
+    lines = ["# Philosophy Optional", ""]
+    for display, titles in PHILOSOPHY_BLOCKS:
+        lines.extend(
+            [
+                f"## {display} (01–{len(titles):02d}; {len(titles)} topics)",
+                "",
+            ]
+        )
+        for number, title in enumerate(titles, 1):
+            command = f"Export PDF for {display} {number:02d} — {title}"
+            lines.append(f"- [ ] `{command}`")
+        lines.append("")
+    return lines
+
+
+def main() -> None:
+    lines = [
+        "# UPSC Topic PDF Export Command Index",
+        "",
+        "Copy and send **one command at a time**. The topic number and title are both",
+        "included to prevent numbering ambiguity. Each command means: use the complete",
+        "basic and advanced sources, create the learning-session PDF and solved workbook,",
+        "retain reusable Markdown, include relevant PYQs, mark inferred Prelims answers",
+        "when an official key is unavailable, and validate both PDFs before completion.",
+        "",
+        "> Mark a checkbox after the export is complete. Regenerate this file with",
+        "> `python tools/generate_export_command_index.py` whenever a subject index changes.",
+        "",
+        "# General Studies, Essay and Qualifying Papers",
+        "",
+    ]
+
+    total = 0
+    missing = []
+    for folder, display in SUBJECTS:
+        topics = subject_topics(folder)
+        if not topics:
+            missing.append(folder)
+            continue
+        total += len(topics)
+        lines.extend(render_subject(display, topics))
+
+    philosophy_count = sum(len(titles) for _, titles in PHILOSOPHY_BLOCKS)
+    total += philosophy_count
+    lines.extend(render_philosophy())
+    lines.extend(
+        [
+            "# Index Summary",
+            "",
+            f"- **Total copy-paste commands:** {total}",
+            f"- **General/qualifying subject sections:** {len(SUBJECTS) - len(missing)}",
+            f"- **Philosophy syllabus blocks:** {len(PHILOSOPHY_BLOCKS)}",
+        ]
+    )
+    if missing:
+        lines.append(f"- **Indexes requiring manual review:** {', '.join(missing)}")
+    else:
+        lines.append("- **Indexes requiring manual review:** None")
+    lines.append("")
+
+    OUTPUT.write_text("\n".join(lines), encoding="utf-8")
+    print(f"Index saved: {OUTPUT}")
+    print(f"Commands: {total}")
+
+
+if __name__ == "__main__":
+    main()

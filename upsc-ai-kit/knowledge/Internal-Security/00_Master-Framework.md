@@ -7,6 +7,9 @@
 > combination of security, governance, development and rights-respecting
 > measures converts a hostile condition into a managed and legitimate one —
 > and at what federal, resource or accountability constraint?
+>
+> **Last-minute route:** [`REVISION-CHART_Threats-Responses-and-Distinctive-Features.md`](REVISION-CHART_Threats-Responses-and-Distinctive-Features.md)
+> consolidates all 12 Core/Advanced pairs into one exam-revision sheet.
 
 ---
 

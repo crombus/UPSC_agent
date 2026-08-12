@@ -6,6 +6,9 @@
 > **Core question:** Given a fixed set of national interests and a changing external
 > context, which instrument — bilateral, regional or multilateral — best converts
 > that interest into a verifiable outcome, and at what constraint or trade-off?
+>
+> **Last-minute route:** [`REVISION-CHART_Actors-Interests-and-Distinctive-Features.md`](REVISION-CHART_Actors-Interests-and-Distinctive-Features.md)
+> consolidates all 12 Core/Advanced pairs into one exam-revision sheet.
 
 ---
 

@@ -8,6 +8,7 @@
 > **Subject:** History → **Ancient Indian History** · **GS Paper:** GS-I (Ancient India, Art & Culture) + Prelims.
 > **Spine:** R.S. Sharma, *India's Ancient Past* (chapter sequence). **Tiers:** `basic/` (R.S. Sharma foundation) · `advanced/` (Upinder Singh analysis and historiography).
 > **Start here:** `00_Master-Chronology.md` — the full timeline that stitches every topic together.
+> **Pre-exam revision:** [Ages, Eras and Distinctive Features Chart](REVISION-CHART_Ages-Eras-and-Distinctive-Features.md).
 > *Sibling folders (to be added): `Medieval-Indian-History`, `Modern-Indian-History`.*
 
 ---
@@ -16,6 +17,7 @@
 
 - **Two tiers per topic.** `basic/NN` = R.S. Sharma foundation (must-do). `advanced/NN` = Upinder Singh depth + historiographical debates. Current-link sections are prompts and require separate official verification. Same file number = same topic.
 - **Chronology-first.** Read `00_Master-Chronology.md` once, then each topic hangs on it. Every topic file also has its own `## Mini-timeline`.
+- **Revise by distinction.** Before a test, use `REVISION-CHART_Ages-Eras-and-Distinctive-Features.md` to identify each era from tools, pottery, metals, economy, polity, sources and common UPSC traps.
 - **Tagging:** ✅ = directly supported by a listed source · ⚠️ = interpretation, debate, or source-specific chronology · 📰 = current affairs verified separately from the books.
 - **Answer discipline:** questions are answered *strictly from these md files*; if a concept is absent it is a gap to be added, not guessed.
 

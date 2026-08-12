@@ -6,7 +6,10 @@
 > Report, *Ethics in Governance* (2007) + official UPSC GS-IV syllabus + audited, topic-owning UPSC
 > GS-IV PYQs (2013-2025, with the complete local 2024-2025 papers as the recent corpus) +
 > DoPT/CVC/Lokpal/RTI/Companies Act official material.
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md`](REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md)
+> compresses all 23 Core/Advanced pairs into a single Section-A concept map,
+> Section-B decision framework, comparison sheet and example bank.
 
 ---
 
@@ -122,6 +125,17 @@ Full local map: [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAP
 5. **Anti-corruption architecture (19-21):** law, institutions, protection of the honest.
 6. **Application (22-23):** case-study architecture, then named/comparative cases for the Mains
    answer bank.
+
+## Revision sequence
+
+1. Read the [revision chart](REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md)
+   for definitions, distinctions, thinkers, institutional ethics and case-study architecture.
+2. Use the linked `basic/` owner file for any weak topic. Core remains independently
+   sufficient for scoring in both GS-IV sections.
+3. Open the matching `advanced/` file only for philosophical nuance, legal detail,
+   institutional critique and complex dilemma depth.
+4. Reverify every current legal provision, commencement status, judgment, institution and
+   numerical fact before using it in the examination.
 
 ## Source and accuracy notes
 

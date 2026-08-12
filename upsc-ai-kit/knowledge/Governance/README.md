@@ -9,7 +9,10 @@
 > M. Laxmikanth's *Indian Polity*; Second Administrative Reforms Commission reports; and
 > current official material from DARPG, DoPT, MeitY, CVC, CIC, Lokpal, CAG, NITI Aayog,
 > India Code and relevant ministries.
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md`](REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md)
+> compresses all 16 Core/Advanced pairs into one governance-results chain, comparison
+> grid, trap sheet and Mains-answer framework.
 > **Current-status cut-off:** 21 July 2026. Recheck any later notification, appointment,
 > dashboard figure or scheme-coverage claim before reuse.
 
@@ -109,6 +112,17 @@
    participation and outcome evaluation.
 5. **Adjacent institutional application:** `16` — sports federations,
    tournament rules, athlete rights, anti-doping and dispute resolution.
+
+## Revision sequence
+
+1. Read the [revision chart](REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md)
+   for the full design-to-outcome architecture and compulsory distinctions.
+2. Use the linked `basic/` owner file for any weak topic. The Core layer is
+   independently answer-complete.
+3. Open the matching `advanced/` file only for deeper institutional design,
+   trade-offs and evaluation; it is optional enrichment.
+4. Before using a current example, recheck its legal stage, reporting date and
+   implementation status.
 
 ## Primary source routes
 

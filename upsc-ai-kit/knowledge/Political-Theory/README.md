@@ -6,7 +6,10 @@
 > *An Introduction to Political Theory*, Fifth Edition (2009), read directly and mapped to a
 > 23-topic file spine; supplemented directly from the supplied *Socio-Political Philosophy* PDF
 > where Gauba's spine leaves syllabus gaps, plus verified local Philosophy Optional PYQs.
-> **Start here:** `Political-Theory/00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md`](REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md)
+> compresses all 23 Core/Advanced pairs into a five-question concept engine,
+> ideology matrix, high-frequency comparisons and reusable answer structures.
 
 ---
 
@@ -142,6 +145,17 @@
    move outward to `Polity`, `Governance`, `Ethics`, `International-Relations` or
    `Philosophy/paper-2/socio-political` only when the applied/institutional/syllabus-specific
    layer is needed — this module itself stays at the conceptual layer.
+
+## Revision path
+
+1. Read the [revision chart](REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md)
+   for the five master questions, concept distinctions, ideologies and answer frameworks.
+2. Use the linked `basic/` owner file for any weak topic. Core remains independently
+   sufficient for GS, Essay and selective PSIR conceptual support.
+3. Open the matching `advanced/` file only for direct-book reconstruction, internal
+   debate, comparative criticism and deeper conceptual qualification.
+4. Keep the subject boundary intact: move to the direct owner folder for constitutional,
+   governance, ethics, foreign-policy or Philosophy Optional detail.
 
 ## Tag policy
 

@@ -12,6 +12,7 @@
 - Read top-to-bottom once to fix the skeleton (Turkish raids → Delhi Sultanate → regional kingdoms → Mughals → 18th-c. decline), then hang each topic's detail on it.
 - Columns: **Dynasty/phase → dates → key ruler → one-line significance**.
 - The final section is a **battle & date ladder** — the highest-frequency Prelims facts.
+- For side-by-side dynasty signatures, administrative distinctions and elimination traps, use [Eras, Dynasties and Distinctive Features Revision Chart](REVISION-CHART_Ages-Eras-and-Distinctive-Features.md).
 
 ## 1. Prelude — Turkish invasions (c. 1000–1206)
 

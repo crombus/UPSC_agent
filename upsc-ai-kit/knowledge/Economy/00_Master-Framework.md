@@ -3,6 +3,9 @@
 > **Purpose:** Connect every Economy topic before studying the detailed files.
 > **Core question:** How does India convert resources, labour, capital and state
 > capacity into stable, inclusive and sustainable development?
+>
+> **Last-minute route:** [`REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md`](REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md)
+> consolidates all 31 Core/Advanced pairs into one exam-revision sheet.
 
 ---
 

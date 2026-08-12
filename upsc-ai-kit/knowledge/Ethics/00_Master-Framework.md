@@ -4,6 +4,9 @@
 > **Core question:** How does a public servant convert personal values, institutional rules and
 > constitutional morality into decisions that are lawful, impartial, transparent and in the
 > public interest — especially when these pulls conflict?
+>
+> **Last-minute route:** [`REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md`](REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md)
+> consolidates all 23 Core/Advanced pairs into one theory-and-case-study revision sheet.
 
 ---
 

@@ -8,6 +8,7 @@
 > **Subject:** History → **Medieval Indian History** · **GS Paper:** GS-I (Medieval India, Art & Culture) + Prelims.
 > **Spine:** Satish Chandra — basic tier from *History of Medieval India* (concise); advanced tier from *Medieval India: From Sultanat to the Mughals* (Part I Sultanat + Part II Mughals).
 > **Start here:** `00_Master-Chronology.md` — the full medieval timeline that stitches every topic together.
+> **Pre-exam revision:** [Eras, Dynasties and Distinctive Features Chart](REVISION-CHART_Ages-Eras-and-Distinctive-Features.md).
 > *Sibling folders: `Ancient-Indian-History` (done), `Modern-Indian-History` (to come).*
 
 ---
@@ -16,6 +17,7 @@
 
 - **Two tiers per topic.** `basic/NN` = concise Satish Chandra foundation (must-do). `advanced/NN` = detailed two-volume Satish Chandra depth + historiography + current affairs. Same file number = same topic.
 - **Chronology-first.** Read `00_Master-Chronology.md` once, then each topic hangs on it. Every topic file also has its own `## Mini-timeline`.
+- **Revise by distinction.** Before a test, use `REVISION-CHART_Ages-Eras-and-Distinctive-Features.md` for dynasty signatures, administration, battles, culture, evidence rules and elimination traps.
 - **Tagging:** ✅ = from the source book · ⚠️ = inference/standard knowledge · 📰 = current affairs.
 - **Current-link discipline:** Topic sections now use source-safe linkage prompts. Add a dated current-affairs claim only after live verification from an official or otherwise reliable source.
 - **Answer discipline:** questions are answered *strictly from these md files*; if a concept is absent it is a gap to be added, not guessed.

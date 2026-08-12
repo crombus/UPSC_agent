@@ -25,7 +25,10 @@
 > Anti-Maritime Piracy Act 2022, Telecommunications Act 2023, DPDP Act
 > 2023); selected direct UPSC GS-III PYQs (2019-2025), with complete local
 > 2024-2025 GS-III and Essay papers as the recent corpus.
-> **Start here:** `00_Master-Framework.md`.
+> **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Pre-exam revision:** [`REVISION-CHART_Threats-Responses-and-Distinctive-Features.md`](REVISION-CHART_Threats-Responses-and-Distinctive-Features.md)
+> compresses all 12 Core/Advanced pairs into one threat-vulnerability-response map,
+> institution comparison, rights safeguard sheet and GS-III answer framework.
 
 ---
 
@@ -151,6 +154,16 @@
 6. **Institutional capstone:** `12` — security forces, intelligence
    coordination and rights, which every earlier topic's "measures taken"
    section ultimately routes through.
+
+## Revision sequence
+
+1. Read the [revision chart](REVISION-CHART_Threats-Responses-and-Distinctive-Features.md)
+   for the threat, vulnerability, capability, institution and end-state framework.
+2. Use the linked `basic/` owner file for any weak topic. Core remains independently
+   answer-complete.
+3. Open the matching `advanced/` file only for causal, federal, legal and rights depth.
+4. Reverify every current threat assessment, policy status, accord implementation,
+   agency outcome and legal commencement before use.
 
 ## Primary source routes
 

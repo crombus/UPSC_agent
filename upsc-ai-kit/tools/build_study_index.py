@@ -254,7 +254,29 @@ def philosophy_topics(subject_dir: Path) -> list[Path]:
 def render_topic_section(subject: str, subject_dir: Path) -> list[str]:
     lines = [f"## {display_subject(subject)}", ""]
     overview = []
-    for name in ("README.md", "00_Master-Framework.md", "OFFICIAL-UPSC-SYLLABUS-MAPPING.md"):
+    for name in (
+        "README.md",
+        "00_Master-Framework.md",
+        "00_Master-Chronology.md",
+        "REVISION-CHART_Ages-Eras-and-Distinctive-Features.md",
+        "REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md",
+        "REVISION-CHART_Forms-Styles-and-Distinctive-Features.md",
+        "REVISION-CHART_Structures-Change-and-Distinctive-Features.md",
+        "REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+        "REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md",
+        "REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md",
+        "REVISION-CHART_Actors-Interests-and-Distinctive-Features.md",
+        "REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md",
+        "REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md",
+        "REVISION-CHART_Principles-Applications-and-Distinctive-Features.md",
+        "REVISION-CHART_Threats-Responses-and-Distinctive-Features.md",
+        "REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md",
+        "REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md",
+        "REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md",
+        "REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md",
+        "REVISION-CHART_Skills-Shortcuts-and-Distinctive-Features.md",
+        "OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    ):
         path = subject_dir / name
         if path.is_file():
             overview.append(md_link(name.replace(".md", ""), path))

@@ -8,6 +8,7 @@
 > **Subject:** History → **Modern Indian History** · **GS Paper:** GS-I (Modern Indian History c. 1750s–1947, Freedom Struggle; and Post-Independence Consolidation, 1947–2000) + Prelims.
 > **Spine:** Bipan Chandra — freedom-struggle tiers from *Modern India* (basic) and *India's Struggle for Independence* (advanced); princely-state integration and the post-independence tiers (topics 28–38) from *India After Independence, 1947–2000*. Sekhar Bandyopadhyay's *From Plassey to Partition* is used as a supplementary interpretive check.
 > **Start here:** `00_Master-Chronology.md` — the full modern timeline (Mughal decline → 1947 → integration → 2000) that stitches every topic together.
+> **Pre-exam revision:** [Phases, Movements and Distinctive Features Chart](REVISION-CHART_Ages-Eras-and-Distinctive-Features.md).
 > *Sibling folders: `Ancient-Indian-History` (done), `Medieval-Indian-History` (done), `Modern-Indian-History` (this).*
 
 ---
@@ -16,6 +17,7 @@
 
 - **Two tiers per topic.** `basic/NN` = concise Bipin Chandra foundation (must-do). `advanced/NN` = detailed depth from *India's Struggle for Independence* + historiography + current affairs. Same file number = same topic.
 - **Chronology-first.** Read `00_Master-Chronology.md` once, then each topic hangs on it. Every topic file also has its own `## Mini-timeline`.
+- **Revise by distinction.** Before a test, use `REVISION-CHART_Ages-Eras-and-Distinctive-Features.md` for colonial policies, constitutional acts, movements, leaders, evidence rules and post-independence consolidation.
 - **Tagging:** ✅ = from the source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 - **Answer discipline:** questions are answered *strictly from these md files*; if a concept is absent it is a gap to be added, not guessed.
 

@@ -5,6 +5,9 @@
 > **Core question:** How does the Indian state convert democratic authority, public
 > money, administrative capacity and citizen participation into lawful, inclusive
 > and measurable outcomes?
+>
+> **Last-minute route:** [`REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md`](REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md)
+> consolidates all 16 Core/Advanced pairs into one exam-revision sheet.
 
 ---
 

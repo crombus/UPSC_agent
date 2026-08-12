@@ -13,6 +13,9 @@
 > subject modules; dated sources where used.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ audited paper fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
+>
+> **Last-minute route:** [`REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md`](REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md)
+> consolidates all 16 Core/Advanced pairs into one paper-execution sheet.
 
 ---
 
