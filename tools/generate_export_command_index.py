@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 from pathlib import Path
 
@@ -9,6 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 KNOWLEDGE = ROOT / "upsc-ai-kit" / "knowledge"
 OUTPUT = ROOT / "EXPORT-PDF-COMMAND-INDEX.md"
+STATUS_FILE = ROOT / "EXPORT-PDF-STATUS.json"
 
 SUBJECTS = [
     ("Ancient-Indian-History", "Ancient History"),
@@ -151,38 +153,128 @@ def subject_topics(folder: str) -> list[tuple[int, str]]:
     return topics
 
 
-def render_subject(display: str, topics: list[tuple[int, str]]) -> list[str]:
+def load_statuses() -> dict[str, dict[str, object]]:
+    if not STATUS_FILE.exists():
+        return {}
+
+    data = json.loads(STATUS_FILE.read_text(encoding="utf-8"))
+    return {
+        entry["command"]: entry
+        for entry in data.get("exports", [])
+        if isinstance(entry, dict) and entry.get("command")
+    }
+
+
+def resolved_status(
+    command: str, statuses: dict[str, dict[str, object]]
+) -> tuple[str, list[str]]:
+    entry = statuses.get(command)
+    if not entry:
+        return "remaining", []
+
+    missing = []
+    for field in ("main_pdf", "workbook", "markdown"):
+        relative_path = entry.get(field)
+        if not relative_path or not (ROOT / str(relative_path)).exists():
+            missing.append(field)
+
+    if missing:
+        return "incomplete", missing
+    if entry.get("approved"):
+        return "approved", []
+    return "generated", []
+
+
+def status_line(command: str, status: str) -> str:
+    if status == "approved":
+        return f"- [x] ✅ `{command}`"
+    if status == "generated":
+        return f"- [ ] 🟡 `{command}`"
+    if status == "incomplete":
+        return f"- [ ] ⚠️ `{command}`"
+    return f"- [ ] ⬜ `{command}`"
+
+
+def render_subject(
+    display: str,
+    topics: list[tuple[int, str]],
+    statuses: dict[str, dict[str, object]],
+    totals: dict[str, int],
+) -> list[str]:
     if not topics:
         return []
     first, last = topics[0][0], topics[-1][0]
+    commands = [
+        (number, title, f"Export PDF for {display} {number:02d} — {title}")
+        for number, title in topics
+    ]
+    subject_counts = {key: 0 for key in totals}
+    resolved = []
+    for number, title, command in commands:
+        status, _ = resolved_status(command, statuses)
+        subject_counts[status] += 1
+        totals[status] += 1
+        resolved.append((number, title, command, status))
+
     lines = [
         f"## {display} ({first:02d}–{last:02d}; {len(topics)} topics)",
         "",
+        (
+            f"**Progress:** {subject_counts['approved']} approved · "
+            f"{subject_counts['generated']} generated awaiting approval · "
+            f"{subject_counts['remaining']} remaining"
+        ),
+        "",
     ]
-    for number, title in topics:
-        command = f"Export PDF for {display} {number:02d} — {title}"
-        lines.append(f"- [ ] `{command}`")
+    for _, _, command, status in resolved:
+        lines.append(status_line(command, status))
     lines.append("")
     return lines
 
 
-def render_philosophy() -> list[str]:
+def render_philosophy(
+    statuses: dict[str, dict[str, object]], totals: dict[str, int]
+) -> list[str]:
     lines = ["# Philosophy Optional", ""]
     for display, titles in PHILOSOPHY_BLOCKS:
+        commands = [
+            f"Export PDF for {display} {number:02d} — {title}"
+            for number, title in enumerate(titles, 1)
+        ]
+        block_counts = {key: 0 for key in totals}
+        resolved = []
+        for command in commands:
+            status, _ = resolved_status(command, statuses)
+            block_counts[status] += 1
+            totals[status] += 1
+            resolved.append((command, status))
+
         lines.extend(
             [
                 f"## {display} (01–{len(titles):02d}; {len(titles)} topics)",
                 "",
+                (
+                    f"**Progress:** {block_counts['approved']} approved · "
+                    f"{block_counts['generated']} generated awaiting approval · "
+                    f"{block_counts['remaining']} remaining"
+                ),
+                "",
             ]
         )
-        for number, title in enumerate(titles, 1):
-            command = f"Export PDF for {display} {number:02d} — {title}"
-            lines.append(f"- [ ] `{command}`")
+        for command, status in resolved:
+            lines.append(status_line(command, status))
         lines.append("")
     return lines
 
 
 def main() -> None:
+    statuses = load_statuses()
+    totals = {
+        "approved": 0,
+        "generated": 0,
+        "remaining": 0,
+        "incomplete": 0,
+    }
     lines = [
         "# UPSC Topic PDF Export Command Index",
         "",
@@ -192,8 +284,17 @@ def main() -> None:
         "retain reusable Markdown, include relevant PYQs, mark inferred Prelims answers",
         "when an official key is unavailable, and validate both PDFs before completion.",
         "",
-        "> Mark a checkbox after the export is complete. Regenerate this file with",
-        "> `python tools/generate_export_command_index.py` whenever a subject index changes.",
+        "**Status legend:**",
+        "",
+        "- [x] ✅ Approved complete — user approved all three deliverables.",
+        "- [ ] 🟡 Generated — main PDF, workbook and reusable Markdown exist; approval is pending.",
+        "- [ ] ⚠️ Incomplete — the status ledger references a missing deliverable.",
+        "- [ ] ⬜ Remaining — no complete package is recorded.",
+        "",
+        "> Export state is stored in `EXPORT-PDF-STATUS.json`, so regeneration does not",
+        "> erase ticks. Only explicit user approval should set `approved` to `true`.",
+        "> Regenerate with `python tools\\generate_export_command_index.py` whenever a",
+        "> package is generated, approved, or a subject index changes.",
         "",
         "# General Studies, Essay and Qualifying Papers",
         "",
@@ -207,16 +308,20 @@ def main() -> None:
             missing.append(folder)
             continue
         total += len(topics)
-        lines.extend(render_subject(display, topics))
+        lines.extend(render_subject(display, topics, statuses, totals))
 
     philosophy_count = sum(len(titles) for _, titles in PHILOSOPHY_BLOCKS)
     total += philosophy_count
-    lines.extend(render_philosophy())
+    lines.extend(render_philosophy(statuses, totals))
     lines.extend(
         [
             "# Index Summary",
             "",
             f"- **Total copy-paste commands:** {total}",
+            f"- **Approved complete:** {totals['approved']}",
+            f"- **Generated awaiting approval:** {totals['generated']}",
+            f"- **Incomplete recorded packages:** {totals['incomplete']}",
+            f"- **Remaining topics:** {totals['remaining']}",
             f"- **General/qualifying subject sections:** {len(SUBJECTS) - len(missing)}",
             f"- **Philosophy syllabus blocks:** {len(PHILOSOPHY_BLOCKS)}",
         ]

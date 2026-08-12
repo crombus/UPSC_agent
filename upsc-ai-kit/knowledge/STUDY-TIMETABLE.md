@@ -4,6 +4,7 @@
 > **Target:** Complete first learning/revision of the knowledge base, generate/update personal notes, and enter a Prelims-dominant phase by April 2027.
 > **Calendar caution:** The 2027 UPSC examination dates are not assumed here. Shift Weeks 35-42 so that the final six to eight weeks fall immediately before the officially notified Prelims date.
 > **Topic links:** Use [`STUDY-INDEX.md`](STUDY-INDEX.md) for every Core, Advanced, learning-session and notes-PDF link.
+> **Progress tracker:** Tick completed work in [`STUDY-SCHEDULE-CHECKLIST.md`](STUDY-SCHEDULE-CHECKLIST.md).
 
 ## 1. What is actually left
 
@@ -198,4 +199,3 @@ A topic is **not complete** merely because it was read. Mark it complete only wh
 - [ ] Notes PDF generated or updated
 - [ ] Day-1 and Day-7 revision completed
 - [ ] Day-30 revision scheduled
-

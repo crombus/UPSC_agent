@@ -27,6 +27,8 @@ For either trigger:
 7. Save a cleaned reusable Markdown edition in the relevant
    `upsc-ai-kit\knowledge\<Subject>\` area.
 8. Validate coverage, layout, glyphs, answers, rotation, and final register-note placement.
+9. Record all three deliverable paths in `EXPORT-PDF-STATUS.json`, regenerate
+   `EXPORT-PDF-COMMAND-INDEX.md`, and mark `approved: true` only after explicit user approval.
 
 Do not apply the quick `Notes` rule that excludes MCQs to a complete topic package or
 `Export PDF`.

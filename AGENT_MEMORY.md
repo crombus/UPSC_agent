@@ -135,6 +135,11 @@ Internal Security · Disaster Management · Current Affairs
   any topic, first create the complete Guided Tutor-style learning session in the approved format,
   even if that topic was not previously taught interactively. Then save the session Markdown and
   render that same session verbatim to the main PDF. Never substitute a condensed topic summary.
+- **Export completion and approval tracking:** after creating a complete package, record its main
+  PDF, solved workbook and reusable Markdown paths in `EXPORT-PDF-STATUS.json`, then run
+  `python tools\generate_export_command_index.py`. A package is generated only when all three
+  files exist. Set `approved: true` only after the user explicitly approves that topic package;
+  this produces the permanent tick in `EXPORT-PDF-COMMAND-INDEX.md`.
 - Store reusable interactive-session Markdown under
   `upsc-ai-kit/knowledge/<Subject>/learning-sessions/`. Create that dedicated folder for every
   subject; do not mix verbatim session transcripts into `basic/`, `advanced/` or canonical topic

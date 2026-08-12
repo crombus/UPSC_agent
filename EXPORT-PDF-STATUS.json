@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "status_rules": {
+    "generated": "Main PDF, solved workbook, and reusable Markdown all exist.",
+    "approved": "The user explicitly approved the generated package."
+  },
+  "exports": [
+    {
+      "command": "Export PDF for Ancient History 01 — Importance & Historiography of Ancient India",
+      "main_pdf": "notes\\Ancient-Indian-History\\01_Importance-Historiography-of-Ancient-India_Complete-Topic-Package_2026-08-10.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\01_Importance-Historiography-of-Ancient-India_Solved-Workbook_2026-08-10.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\01_Importance-Historiography-of-Ancient-India_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 01 — India on the Eve of the Medieval Age & Arab-Turkish Contacts",
+      "main_pdf": "notes\\Medieval-Indian-History\\01_India-on-the-Eve-Arab-Turkish-Contacts_Complete-Topic-Package_2026-08-10.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\01_India-on-the-Eve-Arab-Turkish-Contacts_Solved-Workbook_2026-08-10.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\01_India-on-the-Eve-of-the-Medieval-Age-Arab-Turkish-Contacts_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Modern History 01 — Decline of the Mughal Empire (1707–1740s)",
+      "main_pdf": "notes\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for World History 01 — Enlightenment and Age of Revolutions Overview",
+      "main_pdf": "notes\\World-History\\01_Enlightenment-and-Age-of-Revolutions_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\World-History\\01_Enlightenment-and-Age-of-Revolutions_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\World-History\\01_Enlightenment-and-Age-of-Revolutions_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Indian Art and Culture 01 — Architecture Foundations and Harappan Urbanism",
+      "main_pdf": "notes\\Indian-Art-and-Culture\\01_Architecture-Foundations-and-Harappan-Urbanism_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Indian-Art-and-Culture\\01_Architecture-Foundations-and-Harappan-Urbanism_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\01_Architecture-Foundations-and-Harappan-Urbanism_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 01 — India Location and Extent",
+      "main_pdf": "notes\\Geography\\01_India-s-Location-Extent_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Geography\\01_India-s-Location-Extent_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\01_India-s-Location-Extent_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Indian Society 01 — Salient Features and Diversity of Indian Society",
+      "main_pdf": "notes\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 01 — Historical Background",
+      "main_pdf": "notes\\Polity\\Historical_Background_Complete_Topic_Package_2026-08-09.pdf",
+      "workbook": "notes\\Polity\\Historical_Background_Solved_Practice_Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\Historical-Background-Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Governance 01 — Good Governance: Concepts and Frameworks",
+      "main_pdf": "notes\\Governance\\01_Good-Governance-Concepts-and-Frameworks_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Governance\\01_Good-Governance-Concepts-and-Frameworks_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Governance\\01_Good-Governance-Concepts-and-Frameworks_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Social Justice 01 — Social Justice, Inclusion and Welfare-State Framework",
+      "main_pdf": "notes\\Social-Justice\\01_Social-Justice-Inclusion-and-Welfare-State-Framework_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Social-Justice\\01_Social-Justice-Inclusion-and-Welfare-State-Framework_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\01_Social-Justice-Inclusion-and-Welfare-State-Framework_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for International Relations 01 — Foreign-Policy Foundations and Strategic Autonomy",
+      "main_pdf": "notes\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Complete-Topic-Package_2026-08-10.pdf",
+      "workbook": "notes\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Solved-Workbook_2026-08-10.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Economy 01 — National Income: GDP, GVA, GNP, NDP and Measurement",
+      "main_pdf": "notes\\Economy\\01_National-Income-GDP-GVA-GNP-NDP-and-Measurement_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Economy\\01_National-Income-GDP-GVA-GNP-NDP-and-Measurement_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Economy\\01_National-Income-GDP-GVA-GNP-NDP-and-Measurement_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Environment and Ecology 01 — Ecosystem Structure and Function",
+      "main_pdf": "notes\\Environment-and-Ecology\\01_Ecosystem-Structure-and-Function_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Environment-and-Ecology\\01_Ecosystem-Structure-and-Function_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\01_Ecosystem-Structure-and-Function_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Science and Technology 01 — Space Programme: ISRO, Organisation and Launch Vehicles",
+      "main_pdf": "notes\\Science-and-Technology\\01_Space-Programme-ISRO-Launch-Vehicles-and-Space-Governance_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Science-and-Technology\\01_Space-Programme-ISRO-Launch-Vehicles-and-Space-Governance_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\01_Space-Programme-ISRO-Launch-Vehicles-and-Space-Governance_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Internal Security 01 — Internal-Security Foundations and Governance",
+      "main_pdf": "notes\\Internal-Security\\01_Internal-Security-Foundations-and-Governance_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Internal-Security\\01_Internal-Security-Foundations-and-Governance_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\01_Internal-Security-Foundations-and-Governance_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Disaster Management 01 — Concepts, Risk, Resilience and Sendai",
+      "main_pdf": "notes\\Disaster-Management\\01_Concepts-Risk-Resilience-and-Sendai_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Disaster-Management\\01_Concepts-Risk-Resilience-and-Sendai_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\01_Concepts-Risk-Resilience-and-Sendai_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ethics 01 — Ethics and Human Interface",
+      "main_pdf": "notes\\Ethics\\01_Ethics-and-Human-Interface_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Ethics\\01_Ethics-and-Human-Interface_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ethics\\01_Ethics-and-Human-Interface_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Political Theory 01 — Nature and Significance of Political Theory",
+      "main_pdf": "notes\\Political-Theory\\01_Nature-and-Significance-of-Political-Theory_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Political-Theory\\01_Nature-and-Significance-of-Political-Theory_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\01_Nature-and-Significance-of-Political-Theory_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Essay 01 — Paper Rules, Choice and Selection",
+      "main_pdf": "notes\\Essay\\01_Paper-Rules-Choice-and-Selection_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Essay\\01_Paper-Rules-Choice-and-Selection_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Essay\\01_Paper-Rules-Choice-and-Selection_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for CSAT 01 — Reading-Comprehension",
+      "main_pdf": "notes\\CSAT\\01_Reading-Comprehension_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\CSAT\\01_Reading-Comprehension_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\CSAT\\01_Reading-Comprehension_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 01 — Plato and Aristotle",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\01_Plato-Aristotle.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\01_Plato-Aristotle_Solved-PYQ-MCQ-Workbook.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\_learning-sessions\\01_Plato-Aristotle-Complete-Learning-Session.md",
+      "approved": true,
+      "approved_on": "2026-08-09"
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Indian Philosophy 01 — Carvaka",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\01_Carvaka_Complete-Topic-Package_2026-08-10.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\01_Carvaka_Solved-Workbook_2026-08-10.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\Carvaka_Complete-Learning-Session_2026-08-10.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper II — Philosophy of Religion 01 — Notions of God",
+      "main_pdf": "notes\\Philosophy\\Philosophy-of-Religion\\01_Notions-of-God_Complete-Topic-Package_2026-08-09.pdf",
+      "workbook": "notes\\Philosophy\\Philosophy-of-Religion\\01_Notions-of-God_Solved-Workbook_2026-08-09.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\Notions-of-God_Verbatim-Learning-Session_2026-08-09.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper II — Philosophy of Religion 02 — Proofs for the Existence of God",
+      "main_pdf": "notes\\Philosophy\\Philosophy-of-Religion\\02_Proofs-for-God_Complete-Topic-Package_2026-08-10.pdf",
+      "workbook": "notes\\Philosophy\\Philosophy-of-Religion\\02_Proofs-for-God_Solved-Workbook_2026-08-10.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\Proofs-for-God_Complete-Learning-Session_2026-08-10.md",
+      "approved": false
+    }
+  ]
+}
