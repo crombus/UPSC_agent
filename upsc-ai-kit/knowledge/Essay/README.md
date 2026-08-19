@@ -9,9 +9,9 @@
 > **Corpus:** 100 prompts from UPSC Essay papers, 2013-2025, each carrying
 > an explicit verification level; complete ledger in
 > `PYQ-Corpus-2013-2025.md`.
-> **Directly audited locally:** the 2024 and 2025 papers only
-> (`books/mains/UPSC Mains 2024 Essay Paper.pdf`,
-> `books/mains/UPSC Mains 2025 Essay Paper.pdf`).
+> **Directly audited locally:** the 2018–2025 official papers:
+> 2018–2023 under `books/more_previous_papers/` and 2024–2025 under
+> `books/mains/`.
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
 > **Pre-exam revision:** [`REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md`](REVISION-CHART_Decoding-Arguments-and-Distinctive-Features.md)
 > compresses all 16 Core/Advanced pairs into one selection-to-revision
@@ -74,23 +74,23 @@ it carries a stated **verification level**:
 
 | Level | Meaning | Years |
 |---|---|---|
-| **V1 — directly verified locally** | Wording read off the official question-paper PDF held in this repository | 2024, 2025 |
-| **V2 — not locally verifiable** | No official paper for that year is present locally; wording is a carried-forward transcription that has *not* been checked against the printed paper in this pass | 2013–2023 |
+| **V1 — directly verified locally** | Wording read off the official question-paper PDF held in this repository | 2018–2025 |
+| **V2 — not locally verifiable** | No official paper for that year is present locally; wording is a carried-forward transcription that has *not* been checked against the printed paper in this pass | 2013–2017 |
 
-✅ **V1 rule.** For 2024 and 2025 the printed English wording — including
+✅ **V1 rule.** For 2018–2025 the printed English wording — including
 its punctuation, spelling and printing defects — is reproduced exactly.
 ❌ This folder does **not** silently "tidy" a UPSC prompt: where the paper
 prints `futures`, a comma splice, or a garbled instruction line, that is
 recorded as printed and flagged, not corrected into elegant English.
 
-⚠️ **V2 rule.** 2013–2023 rows are usable for practice but must not be
+⚠️ **V2 rule.** 2013–2017 rows are usable for practice but must not be
 quoted as certified printed wording. Before quoting a V2 prompt verbatim
 in any published or submitted work, check it against the official paper
 for that year; if a V2 paper is later added to `books/mains/`, promote the
 year to V1 and re-audit its rows.
 
-❌ Do not describe the corpus as "100 verified prompts." 16 of the 100
-(2024–2025) are directly verified locally; the remaining 84 are V2.
+❌ Do not describe the corpus as "100 verified prompts." **64 of the 100
+(2018–2025) are directly verified locally; the remaining 36 are V2.**
 
 Neither 2024 nor 2025 prints an author attribution beside any prompt.
 Do not add one merely because an aphorism is commonly attributed online.
@@ -149,8 +149,9 @@ this note.
 
 ❌ The locally held 2025 paper prints **no marks line** (2024's
 "(125 × 2 = 250)" has no 2025 counterpart in this copy) and **no
-"Time Allowed" header**. This folder therefore asserts no duration and no
-2025 marks split; confirm both from the official paper or admit card.
+"Time Allowed" header**. No duration is inferred from that scan and no
+2025 marks split is asserted; the separate official examination scheme
+supplies the three-hour paper duration.
 
 | Label | Printed no. | Exact wording as printed |
 |---|---|---|
@@ -165,7 +166,7 @@ this note.
 
 ⚠️ 2025-A1 prints the American spelling "color"; retain it when quoting.
 
-### Facts common to both V1 papers
+### Facts common to the 2024–2025 papers
 
 - ✅ Each topic is printed **bilingually** — Hindi first, then English.
   Only the English line is quoted in this folder.
@@ -174,8 +175,11 @@ this note.
 - ✅ **No author attribution** beside any of the 16 prompts.
 - ✅ **No marking rubric, examiner weightage, or paragraph/example count**
   is printed. 2024's "(125 × 2 = 250)" is a marks split, not a rubric.
-- ❌ Neither locally held copy prints a "Time Allowed" line, so no
-  duration is asserted anywhere in this folder.
+- ❌ Neither locally held 2024–2025 copy prints a "Time Allowed" line.
+  ✅ The official Civil Services (Main) examination scheme nevertheless
+  assigns the Essay paper a **three-hour duration**. Topic `13` uses
+  that 180-minute baseline while keeping every phase split explicitly
+  pedagogical rather than official.
 
 All 16 recent prompts above are unattributed in the papers. The same
 quotation-safety rule applies to the full 100-prompt corpus.

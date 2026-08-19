@@ -157,6 +157,30 @@ PCB / module / device assembly -> phones, servers, EVs, telecom gear
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — compute demand, AI hardware dependence and strategic electronics relevance.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — high-technology capability building and hardware ecosystem logic.
 - ✅ `../../Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — macro-industrial-policy and PLI-economics companion; do not duplicate that analytical frame here.
+## Core answer architecture — semiconductor ecosystem and staged manufacturing
+
+**Thesis choice.** Semiconductor sovereignty is a value-chain problem, not a single-fab slogan: India’s design, fabrication, packaging and electronics ambitions require different policies and different evidence of success.
+
+**10-mark spine.** Draw the value chain in one line; distinguish fab/foundry/IDM and ATMP/OSAT; name ISM/Semicon India/DLI; give two bottlenecks and a stage-specific conclusion.
+
+**15/20-mark spine.** Use **design-to-device chain → Indian scheme/institutional response → facility status ladder → strategic/economic implications → utilities, materials, equipment, talent, yields and environmental constraints**.
+
+**Evidence units.**
+- **Claim:** back-end capacity is valuable but not equivalent to front-end fabrication → **ATMP/OSAT assembles and tests diced wafers while a fab makes transistor layers on wafers** → packaging can build engineering, customer and downstream electronics capability → **qualification:** it does not prove indigenous leading-edge wafer process or EDA/equipment autonomy.
+- **Claim:** ISM is an ecosystem intervention → **Semicon India 1.0 schemes for fabs, displays, compound/sensor/ATMP and DLI, implemented through MeitY/ISM** → policy addresses design, manufacturing and talent rather than one plant → **qualification:** a fiscal outlay, approval or agreement is not disbursement, capacity created or commercial output.
+- **Claim:** India’s public milestones need precise verbs → **Sanand facilities were inaugurated; Tata’s fiscal-support agreement was signed; first chips were presented; Semicon 2.0 was approved** → gives evidence of an emerging ladder → **qualification:** none alone establishes commercial-scale production, sale or a verified advanced process node.
+
+**Verdict.** A sensible strategy sequences design, packaging/compound technologies and mature-node learning while investing in water, power, materials, equipment, skills and reliable demand.
+
+## Routed PYQ evidence — DHRUV64 and facility-location status
+
+- **DHRUV64:** C-DAC public material identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor and links it to India’s RISC-V/processor IP effort. A processor headline must still be separated from chip fabrication, volume production, software ecosystem and deployed strategic capability.
+- **DIR-V caution:** the 2026 provisional-key question includes a proposition about its ordinal position under the DIR-V Programme. The local record does not contain an accessible primary C-DAC DIR-V programme page that independently verifies that ordinal claim; do **not** convert the question’s statement into a stored fact or an answer key.
+- **Location/status card:** official 2024 material identifies the Dholera fab and OSAT/ATMP units at Morigaon and Sanand; later ISM releases identify further approved/inaugurated facilities. A location must be paired with its verb—approved, agreement signed, groundbreaking, inaugurated, pilot output or commercial production—not merely named as a “plant.”
+- **Core companion:** `25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md` owns CPU/SoC/RISC-V-style computing distinctions; this file owns semiconductor supply-chain and facility-status analysis.
+
+> **Audit source (retrieved 2026-08-14):** C-DAC licensing material `https://cdac.in/index.aspx?id=tenders_viewpdf&dynamicId=NjA4MzM1OTA=` was available as a PDF container but not machine-readable through the fetcher; no specification beyond the audited local record is added.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

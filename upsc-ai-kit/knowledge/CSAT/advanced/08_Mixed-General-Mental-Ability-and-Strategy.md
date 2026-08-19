@@ -94,3 +94,17 @@ A useful advanced session contains:
 
 Advanced practice should increase transfer and decision quality, not merely increase difficulty.
 
+### Timed advanced mini-drill protocol
+
+Use a 10-item mixed block: **10-15 seconds** to classify each item without solving, then a second
+pass of **60 seconds** for direct items and **120 seconds** for selected hard items. Write the stage
+failure beside every miss: classification, extraction, representation, execution, verification or
+decision. Park any item at its cap and keep the last **10 minutes of a full paper** for review; these
+limits are operating discipline, not an official UPSC timing rule.
+
+### Optional worked transfer check
+
+For the Core Topic 08 weighted-average example, an advanced solver first compares totals against
+`55 x 100`; no division or decimal conversion is needed. The shortcut is valid only after preserving
+the group sizes and applying the 25% factor uniformly to Group B. A solver who averages `70` and
+`50` has selected the wrong representation, not merely made an arithmetic slip.

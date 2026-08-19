@@ -5,10 +5,10 @@
 > **Core area:** Extending the illustration bank with multi-claim
 > examples, cross-prompt reuse discipline, and a refresh protocol for any
 > illustration that touches a live policy debate.
-> **Grounded in:** general awareness/training knowledge, used only for
-> well-established, non-statistical institutional and historical facts;
-> linked GS subject modules for full depth; audited 2024–2025 UPSC Essay
-> paper corpus (see `../README.md`) for prompt mapping.
+> **Grounded in:** the source-status-tagged Core illustration bank
+> (Constitution/Act texts, official institutional owners and dated official
+> sources), linked GS subject modules for full depth, and audited 2024–2025
+> UPSC Essay paper corpus (see `../README.md`) for prompt mapping.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../basic/12_India-Centric-Illustration-Bank.md`
@@ -36,8 +36,8 @@ selected, reused across prompts, and refreshed for currency.
   essays, or repeatedly across practice attempts, without varying its
   stated function — signals a shallow illustration repertoire.
 - **Refresh flag:** a marker on any illustration whose currency depends
-  on an evolving policy situation, requiring a check against a dated
-  source before live use.
+  on an evolving policy situation, requiring a check against its named
+  official source and recording its access date before live use.
 
 ## 3. Tension pairs and hidden assumptions
 
@@ -76,7 +76,7 @@ imply a broader resolution than it supports.
 ## 6. Causality, mechanisms and feedback loops
 
 ```text
-SELECT CANDIDATE EXAMPLE (recalled, verifiable)
+SELECT CORE-BANK EXAMPLE (source status known)
         |
         v
 STATE ITS MECHANISM  (what causal/structural link does it demonstrate?)
@@ -88,7 +88,8 @@ MATCH MECHANISM TO SPECIFIC PARAGRAPH CLAIM (05/07)
 STATE THE LIMITATION explicitly (what it does NOT prove)
         |
         v
-IF THE EXAMPLE TOUCHES A LIVE POLICY SITUATION -> apply REFRESH FLAG (13)
+IF THE EXAMPLE TOUCHES A LIVE POLICY SITUATION -> refresh the named
+official source, record the date, then apply the refresh flag (13)
 ```
 ⚠️ Skipping the "match mechanism to specific claim" step is the most
 common source of fact-dumping even among advanced writers who have
@@ -124,16 +125,14 @@ about.
 
 ## 10. Evidence/source-risk and India application
 
-⚠️ Every entry in this bank requires confirmation against its linked
-source module or a primary/authoritative source before live use. This
-folder treats entries as well-known, non-statistical candidate
-illustrations; it does not independently certify their current accuracy.
-✅ Two entries have been checked against local source texts in this pass
-(Right to Information Act, 2005; Chipko movement, 1970s — see
-`../basic/12`, note beneath Section 6); ⚠️ the remainder have not.
-Do not add a specific
-current number (funding amount, ranking, percentage) to any bank entry
-without a dated, verifiable source at the time of use (`09`).
+✅ `basic/12` now records a source status and owner for every entry:
+primary Constitution/Act text, a durable institutional/historical owner,
+or a 📰 official current source. Use the factual core only at the
+precision its status supports. A durable row does not license a recalled
+statistic; a 📰 row must be refreshed against its named official source
+immediately before live use. Do not add a funding amount, ranking,
+percentage or implementation claim without a dated authoritative source
+(`09`).
 
 ## 11. Advanced structure, paragraph sequencing and style
 
@@ -157,13 +156,15 @@ material.
 
 | Dated anchor | Reusable function | Limitation / refresh rule |
 |---|---|---|
-| 📰 India AI Governance Guidelines, November 2025 | Knowledge-power, ethical imagination, accountable innovation | Policy framework, not a comprehensive AI statute; recheck implementation claims |
-| 📰 India AI Impact Summit, 16-21 February 2026 | People-Planet-Progress synthesis for science, inclusion and sustainability prompts | Summit agenda is not proof of delivered outcomes |
+| 📰 India AI Governance Guidelines, 2026 | Knowledge-power, ethical imagination, accountable innovation | Official IndiaAI source; policy framework, not a comprehensive AI statute or proof of implementation |
+| 📰 India AI Impact Summit, core summit 16-20 February 2026; Expo to 21 February | People-Planet-Progress synthesis for science, inclusion and sustainability prompts | Official IndiaAI source; agenda/event is not proof of delivered outcomes |
 | 📰 DPDP Rules, notified 13 November 2025 | Sequenced, safeguarded action for technology/data dilemmas | Data protection does not resolve all social-media or AI risks |
 
 Any additional live-policy illustration carries a refresh flag: verify its
-status against the owning GS module or a dated official/primary source
-immediately before use.
+status against the named official/primary source immediately before use,
+record the access date, and remove the claim if the status cannot be
+confirmed. When reusing an example, record the distinct paragraph claim,
+function and limitation; otherwise replace it with a different domain.
 
 **Practice lab:** Take the Right to Information Act example (Section 3)
 and write out its three distinct functions from memory, checking each

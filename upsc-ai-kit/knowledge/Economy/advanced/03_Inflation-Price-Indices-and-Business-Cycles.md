@@ -182,20 +182,18 @@ and [OEA](https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf).
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
 
-- **Years represented:** 2019, 2022
-- **Paper(s):** GS-II, GS-III
-- **Routed question demands:** 2
+- **Years represented:** 2022
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 2 | GDP growth and low inflation assessment of Indian economy | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-II | 16 | Managing inflation and unemployment beyond welfare schemes | Discuss · 15 marks · 250 words | Cross-cutting; the stem names both inflation and unemployment | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
-- GDP growth and low inflation assessment of Indian economy
 - Managing inflation and unemployment beyond welfare schemes
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

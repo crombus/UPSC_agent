@@ -93,3 +93,82 @@
 
 **Ca Anchor — Limestone Mining vs Karst Aquifers (Meghalaya).**
 - ⚠️ Link karst hydrology to the mining-vs-conservation conflict over Meghalaya's caves and aquifers.
+
+## 8. Caves as a climate archive, and the geological time scale
+
+> **Promoted into Core (13 Aug 2026):** the *concept* of how the geological time scale is formally
+> defined, and of how cave deposits record past climate, are general methods rather than India
+> applications. The Indian cave inventory and the Meghalayan reference section remain in
+> `advanced/08_India-Caves-Meghalayan-Age.md`.
+
+- ⚠️ **Speleothems as proxies:** a stalagmite grows in annual to sub-annual increments, and the
+  chemistry of each increment varies with the rainfall and temperature at the time it formed.
+  Because the layers can be dated and read in sequence, cave deposits provide a **continuous
+  terrestrial record of past rainfall** — including monsoon strength — for periods long before any
+  instrumental measurement. This is why caves matter far beyond geomorphology.
+- ⚠️ **How geological time is formally defined:** each division of the geological time scale is
+  fixed by an agreed reference point in an actual rock or sediment section — a
+  **Global Boundary Stratotype Section and Point**, informally called a "golden spike". The
+  boundary is defined by a **physical marker in a real section**, not by a calculated age, which is
+  why a single named locality can become the global standard for a time division.
+- ⚠️ **The consequence for an answer:** stratigraphic naming is a matter of international agreement
+  on evidence, so "the Meghalayan Age" is a formally ratified subdivision of recent geological time
+  rather than a regional label — and the fact that a cave deposit can serve as its reference marker
+  follows directly from the proxy property above.
+
+> ⚠️ **Factual caution:** do not quote the age of any geological boundary, a stalagmite growth rate,
+> or a cave's surveyed length from memory.
+## 9. Answer architecture (10/15/20-mark support)
+
+### 9.1 Directive decoding for this topic
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Explain karst landform development" | The carbonation-solution chemistry, the role of joints and the water-table control on the surface-versus-underground split | List cave features only |
+| "Why is karst country dry at the surface?" | Rapid vertical loss of water down enlarged joints and swallow holes into an underground drainage system | Say "it does not rain there" |
+| "Discuss the human problems of limestone regions" | Water supply, thin soils, foundation and subsidence risk, quarrying pressure, contamination speed | Present karst as purely scenic |
+
+### 9.2 The applied dimension this topic is usually asked through
+
+- ⚠️ **Water:** karst aquifers transmit water through conduits rather than pores, so they deliver
+  large yields but respond within hours to rainfall and offer almost **no natural filtration**.
+  Contamination introduced at one point can appear far away, quickly and undiluted. This is the
+  single most important applied fact about limestone country.
+- ⚠️ **Ground stability:** dissolution voids collapse. Subsidence and sinkhole formation are
+  aggravated where **groundwater is heavily pumped** (removing buoyant support) or where leaking
+  water and sewer mains concentrate infiltration — which makes urban karst a distinct hazard class.
+- ⚠️ **Soils and land use:** limestone weathers to a thin, often stony residual soil with rapid
+  drainage, so karst uplands are typically pastoral or forested rather than intensively cropped.
+- ⚠️ **Resource conflict:** limestone is the raw material of cement, and cement demand puts
+  quarrying pressure directly onto cave systems, aquifer recharge zones and the specialised,
+  often endemic, cave fauna they contain.
+
+> ⚠️ **Factual caution:** do not quote cave lengths, depths or rankings from memory — surveyed
+> lengths change as exploration proceeds. Name the system and the state, not a number.
+
+### 9.3 Reusable 10-mark spine — "karst as a coupled surface-subsurface system"
+
+1. **Thesis:** karst is not a set of curiosities but a landscape in which the drainage system has
+   migrated underground, and every distinctive feature follows from that single fact.
+2. **Mechanism:** rainwater with dissolved carbon dioxide forms a weak acid; carbonate rock is
+   soluble; joints and bedding planes guide the attack; solution enlarges them progressively.
+3. **Surface consequence:** limestone pavement, swallow holes, dolines, dry valleys, disappearing
+   streams, and resurgence springs where the water returns at an impermeable contact.
+4. **Subsurface consequence:** caverns, and depositional forms built by carbonate re-precipitation
+   where water degasses.
+5. **Control:** the water table separates the zone of active enlargement from the zone of
+   deposition — which is why cave levels record former base levels.
+6. **Applied significance:** rapid, unfiltered aquifer transmission; subsidence risk; thin soils;
+   quarrying conflict.
+7. **Conclusion:** limestone regions demand a different land-use and water-protection regime from
+   their non-karstic neighbours, because the usual assumption of slow, filtered infiltration fails.
+
+### 9.4 Evidence units available in this file
+
+> **Claim:** rock chemistry, not climate alone, can determine an entire landscape's hydrology.
+> **Evidence:** limestone uplands carry dry valleys and disappearing streams while adjoining
+> impermeable rocks in the same rainfall regime carry ordinary surface drainage. **Significance:**
+> it is the cleanest available demonstration that lithology is an independent geographical control.
+> **Limitation:** climate still governs the rate — solution is faster where water is abundant and
+> vegetation supplies additional carbon dioxide to the soil water.
+

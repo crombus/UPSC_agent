@@ -110,6 +110,28 @@ Global prices/trade/capital flows
 | Technology vs employment | Raise productivity while enabling skills and transitions |
 | Climate action vs development | Combine energy security, adaptation and green growth |
 
+## 6A. Directive decoder
+
+| Directive | Required answer movement |
+|---|---|
+| Define / What is | Give the precise concept, boundary and one distinction; do not turn it into a policy essay. |
+| Explain / Elucidate | State the causal mechanism and show how each link produces the outcome. |
+| Discuss | Cover the principal dimensions with evidence, limitations and a direct synthesis. |
+| Examine / Analyse | Break the claim into components, test relationships and identify the decisive mechanism. |
+| Critically examine / Evaluate | Establish criteria, present achievement and counter-evidence, then give a graded verdict. |
+| Compare / Distinguish | Use common axes; do not write two disconnected descriptions. |
+| Comment / Justify | Take a clear position immediately and defend it with named evidence and qualification. |
+| Suggest | Diagnose the binding constraint before proposing sequenced, feasible correction. |
+
+### Mark-scaled evidence rule
+
+- **10 marks:** direct thesis, 2-3 named evidence units, one limitation and a
+  concise verdict.
+- **15 marks:** 4-6 evidence units across distinct dimensions, explicit
+  counter-evidence and a graded conclusion.
+- **20 marks:** 5-8 evidence units, competing explanations, distributional or
+  institutional variation, implementation constraints and prioritised reform.
+
 ## 7. Study sequence
 
 1. **Measure the economy:** Topics 01-03.

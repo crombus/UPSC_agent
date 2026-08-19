@@ -55,9 +55,9 @@
 
 ## Recent exact PYQ route
 
-- **2024 GS-I:** “Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words)” → primary answer matrix: `advanced/09_Later-Vedic-Phase.md`; foundation comparison: `basic/09_Later-Vedic-Phase.md`; Rig Vedic baseline only: `advanced/08_Rig-Vedic-Age.md`.
-- **2024 GS-I:** “Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India. (Answer in 150 words)” → `basic/23_Peninsular-India-Pallavas-Chalukyas.md` + analytical/source caveats in `advanced/23_Peninsular-India-Pallavas-Chalukyas.md`.
-- **2025 GS-I:** “Discuss the salient features of the Harappan architecture. (Answer in 150 words)” → architecture matrix in `basic/06_Harappan-Civilization.md`; interpretation debate in `advanced/06_Harappan-Civilization.md`.
+- **2024 GS-I:** "Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words)" → primary answer comparison matrix promoted to `basic/08_Rig-Vedic-Age.md`; analytical depth in `advanced/09_Later-Vedic-Phase.md`; Rig Vedic baseline: `basic/08_Rig-Vedic-Age.md` + `advanced/08_Rig-Vedic-Age.md`.
+- **2024 GS-I:** "Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India. (Answer in 150 words)" → `basic/23_Peninsular-India-Pallavas-Chalukyas.md` (now includes promoted source caveats) + optional depth in `advanced/23_Peninsular-India-Pallavas-Chalukyas.md`.
+- **2025 GS-I:** "Discuss the salient features of the Harappan architecture. (Answer in 150 words)" → architecture matrix + interpretation cautions in `basic/06_Harappan-Civilization.md`; extended debate in `advanced/06_Harappan-Civilization.md`.
 - **2025 Prelims:** Rajendra I's successful campaign against Srivijaya → complete political,
   maritime and chronology owner in `basic/27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md`.
 - **2024 GS-I:** Chola achievements in art and architecture → form-specific ownership in

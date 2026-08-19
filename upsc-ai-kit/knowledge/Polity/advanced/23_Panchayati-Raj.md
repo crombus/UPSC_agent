@@ -107,7 +107,7 @@ land alienation, and consultation before land acquisition/mining — the corners
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | GS-II | 15 | Panchayat system and non-grant sources for financing projects | Assess · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-II | 13 | Reservation of seats for women in local self-government and patriarchy | Comment · 15 marks · 250 words | Cross-cutting; gender justice and local government both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-II | 13 | Reservation of seats for women in local self-government and patriarchy | Comment · 15 marks · 250 words | Social Justice Core route; cross-cutting local-government link retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | GS-II | 13 | Local institutions from functions functionaries and funds to functionality | Highlight the challenges · 15 marks · 250 words | Cross-cutting; service delivery and the constitutional tier both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support

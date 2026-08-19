@@ -60,6 +60,48 @@ Locke's *Essay Concerning Human Understanding* (1690) opens with a sustained dem
 - We do not perceive objects directly; we perceive **ideas** that *represent* external objects. ✅
 - This creates an epistemic gap: how do we know our ideas accurately represent external reality? Locke trusts that ideas of primary qualities *do* resemble objects; Berkeley and Hume will exploit this gap.
 
+#### Locke — ABSTRACT GENERAL IDEAS ✅ (the doctrine Berkeley destroys — you cannot answer 2025 Q4(c) without it)
+
+**Thesis.** All things that exist are **particular**; yet most words are **general**. Locke's explanation of how a particular mind, furnished only with particular ideas, can use general words is the doctrine of **abstract general ideas**: words become general by being made the signs of general ideas, and ideas become general by **abstraction**. ✅
+
+**Exact printed subterms:** *abstraction* · *abstract general idea* · *general representative* · "*circumstances of time and place*" (what abstraction strips away) · *nominal essence* (the abstract idea annexed to a general name) vs *real essence* · Locke's own admission that the abstract idea is "**something imperfect, that cannot exist**."
+
+**The argument, numbered:**
+1. Everything that exists is particular (*Essay* III.iii.1).
+2. But it is impossible to have a separate name for every particular thing — memory could not hold them and communication would fail (III.iii.2–4).
+3. Therefore language requires **general terms**.
+4. Words are general only by being signs of **general ideas** (III.iii.6) — for Locke, meaning is always mediated by ideas in the mind.
+5. Ideas received from particulars become general when the mind **separates** them "from all other ideas that accompany them in their real existence" — from circumstances of time, place, and every concomitant idea (III.iii.6–9).
+6. What remains is an idea that can serve as a "**general representative**" of all particulars of the same sort.
+7. The abstract general idea annexed to a sortal name **is** the **nominal essence** by which we classify (III.iii.15). Classification is therefore the workmanship of the understanding, not a reading-off of real essences.
+8. ∴ "General and universal belong not to the real existence of things; they are the inventions and creatures of the understanding, made by it for its own use, and concern only signs" (III.iii.11). Locke is a **conceptualist**, not a Platonic realist about universals. ✅
+
+**Canonical example (and Locke's own admission) ✅ — the general triangle** (*Essay* IV.vii.9): the general idea of a triangle "must be neither oblique nor rectangle, neither equilateral, equicrural, nor scalenon; but all and none of these at once." Locke concedes it is "imperfect, that cannot exist," and that framing it "requires some pains and skill." **This sentence is the hinge of the whole Locke–Berkeley dispute — quote it (or paraphrase it) and the answer immediately looks textual.**
+
+**Presuppositions ⚠️:**
+- **P1 — Meaning is ideational**: a word signifies by standing for an idea in the speaker's mind. Drop this (as Wittgenstein and Quine do) and premise 4 collapses, and with it the entire need for abstract ideas.
+- **P2 — Ideas are imagistic/particular in origin** but can be *rendered* general by subtraction.
+- **P3 — Mental subtraction is possible**: one can hold an idea while removing determinations from it and be left with something still contentful.
+- **P4 — One-idea-per-general-word**: generality lives in the *idea*, not in the *use* of the word.
+
+**Berkeley's demolition, numbered ✅** (*Principles*, Introduction §§6–25) — PYQ 2025 Q4(c):
+1. I concede I can imagine particular things I have perceived, and compound and divide such ideas (a hand without a body, a headless torso) — this is **separation of parts that could exist apart**.
+2. But abstraction proper requires separating what **cannot** exist apart: extension without any colour, motion without a determinate speed, "man" without any determinate stature or complexion.
+3. Locke's own triangle — neither equilateral nor scalene, yet all and none at once — is **self-contradictory**; no such idea can be framed. (Berkeley quotes this passage verbatim at Intro §13.)
+4. ∴ There are no abstract general ideas.
+5. **Positive replacement:** an idea is general not by being abstract but "**by being made to represent or stand for all other particular ideas of the same sort**" (Intro §12) — a determinate particular idea, *selectively attended to*, does duty for a class. The geometer draws *this* black inch-long line and proves a theorem about all lines.
+6. **Corollary attacking the whole tradition:** words do not always stand for ideas at all; language also raises passion, prompts action, and disposes the mind (Intro §§19–20). ⚠️ This is a genuine anticipation of the later Wittgensteinian point that meaning is use — worth flagging in any "Berkeley's nominalism" answer as evidence of its long reach.
+7. **The metaphysical payload:** Locke's *material substance in general* and *substratum* are precisely abstract general ideas — the abstract idea of "being" plus the relative notion of "supporting." If abstraction is impossible, "matter" is not a mysterious unknown but a **meaningless expression**. Berkeley's immaterialism thus rests on his nominalism, not the reverse. ✅
+
+**Locke's best reply → and the residual ❓:**
+| Berkeley's charge | Locke's available reply | Verdict |
+|---|---|---|
+| The abstract triangle is contradictory | Locke can say the abstract idea is *partial*, not *contradictory*: it is the idea of three-sidedness with the specific angles **left undetermined**, not with contradictory angles **assigned**. Determinables need not be determinate. | ⚠️ This is Locke's strongest defence and modern commentators generally accept it — but it requires giving up the imagistic model of ideas, which Locke elsewhere retains. |
+| No such image can be formed | Concede that no *image* can, and relocate the abstract idea to a non-imagistic act of the understanding | ❓ Then it is no longer an idea in Locke's own official sense, and the empiricist derivation-from-experience is strained. |
+| Selective attention suffices | Then explain what fixes *which* respect a particular idea is attended to — the resemblance-respect looks like the abstract idea returning under another name | ⚠️ This is the standard modern rejoinder to Berkeley; it makes the dispute far less one-sided than textbooks suggest. |
+
+**Executable verdict:** "Berkeley wins against the *imagistic* Locke and loses against the *determinable* Locke. The lasting damage is not to abstraction but to the ideational theory of meaning that made abstraction necessary — which is why the argument's true heir is not Hume but Wittgenstein's family-resemblance treatment of generality."
+
 ### 1.2 BERKELEY — Theory of Knowledge
 
 - All knowledge is of **ideas perceived by the mind** — there is no "material substance" behind ideas. ✅
@@ -140,6 +182,46 @@ Berkeley's master argument (*Principles* §§9–15; *Three Dialogues*): ✅
 
 - Berkeley insists he is *not* denying the reality of tables and chairs — he is denying only the *philosopher's fiction* of "matter" (an unobservable substratum). The ordinary person never believed in Locke's "veil of perception"; they believe they perceive things *directly* — and so does Berkeley. His idealism is (in his own view) *closer* to common sense than representative realism. ✅
 - He accuses the *materialists* of undermining common sense by positing an unknowable world behind appearances.
+
+#### Berkeley — THE FOUR ARGUMENTS, RECONSTRUCTED ⚠️→✅ (never present *esse est percipi* as a bare slogan)
+
+**Argument 1 — The semantic/analytic argument** (*Principles* §§1–4):
+1. The objects of human knowledge are ideas: (a) imprinted on the senses, (b) perceived by attending to the passions and operations of the mind, (c) formed by memory and imagination.
+2. "Sensible things" *means* things immediately perceived by sense (this is the sense of the phrase in PYQ 2021 Q1(c)).
+3. An apple, a stone, a tree, a book are nothing but collections of such immediately perceived ideas.
+4. It is impossible that ideas should exist unperceived — their *esse* is *percipi*; existence for them consists in being perceived.
+5. ∴ For sensible things, *esse est percipi*, and to speak of their "absolute existence without relation to their being perceived" is unintelligible.
+   - **Presupposition:** step 3 is a *definition*, not a discovery. Berkeley's whole system stands on the identification of the object with the collection of ideas — grant it and immaterialism follows in four lines; deny it and nothing follows at all.
+
+**Argument 2 — The Likeness Principle** (*Principles* §8) ✅:
+1. Locke says our ideas of primary qualities *resemble* qualities in bodies.
+2. But "an idea can be like nothing but an idea" — a colour or figure can be like nothing but another colour or figure.
+3. If the supposed originals are unperceivable, no comparison with them is even possible; a resemblance-claim we could never in principle check is empty.
+4. ∴ The representative-realist relation of resemblance between idea and material quality is unintelligible.
+   - **Presupposition:** resemblance requires comparability by a perceiver. **Strongest objection:** structural or mathematical resemblance (isomorphism) does not require qualitative likeness — a map resembles terrain without being terrain-coloured. This is the standard modern rescue of Locke.
+
+**Argument 3 — The collapse of the primary/secondary distinction** (*Principles* §§9–15; *Dialogues* I) — set out at §2.2 above; its logical form is a **parity argument**: every relativity argument Locke accepts for secondary qualities (variation with observer, with organ, with medium) applies equally to primary ones (apparent size with distance, motion with frame of reference, shape with angle).
+   - **Presupposition:** perceptual relativity entails mind-dependence. **Objection:** it does not — that a thing looks different from different positions is what one should expect of a mind-*independent* thing with a real shape.
+
+**Argument 4 — The "Master Argument"** (*Principles* §§22–23) ✅:
+1. Berkeley stakes everything on one challenge: conceive one extended movable body existing unconceived, and he will concede materialism.
+2. You reply that you can easily conceive a tree standing alone in a park with nobody by.
+3. But in doing so *you* are conceiving it — so you have framed ideas in your own mind, and have not conceived the tree **unconceived** at all.
+4. ∴ The supposition is self-refuting; unperceived existence cannot even be entertained.
+   - **Presupposition (and the fatal one):** that conceiving *X existing unconceived* requires the act of conceiving to be part of the *content* conceived.
+   - **Strongest objection ❓ (Russell; refined by Prior and Gallois):** a **scope/use–mention confusion**. What is inconceivable is "*I conceive of X that it is not conceived by me*"; what is required is only "*I conceive that X exists and is not conceived*" — and that is perfectly coherent, exactly as I can *think about* an unthought-of number. Berkeley conflates the vehicle of thought with its object.
+   - **Berkeley's best reply:** for him there is no "object" over and above the idea, so the distinction the objector needs is precisely what is at issue — the argument is question-begging only if immaterialism is already false.
+
+**Argument 5 — God as the guarantor of continuity** (*Principles* §§6, 30–33, 48; *Dialogues* II):
+1. Ideas are passive and inert; they cannot cause anything.
+2. Yet the ideas of sense come to me involuntarily and in a steady, regular order.
+3. Whatever produces them must be an active spirit, and one whose power and wisdom exceed mine.
+4. ∴ God. The "laws of nature" are the settled grammar of God's language of ideas — regularities are *signs*, not causes.
+5. ∴ Objects persist unperceived by finite minds because they are always perceived by the infinite Mind.
+   - **Presupposition:** only spirits are active causes (Berkeley's *voluntarism*).
+   - **Objection:** this makes "existence unperceived" back into a hypothesis about an unobserved being — the very move Berkeley forbade Locke. **Reply:** we know spirit not by *idea* but by *notion* (§§27, 89, 140) — an asymmetry critics call ad hoc, but which Berkeley holds is forced, since an idea, being passive, could never picture activity.
+
+> ⚠️ **Answer-craft:** in a 15/20-marker on Berkeley, name the arguments (semantic · likeness · parity · master · continuity). Naming five arguments where the average script asserts one slogan is the single largest available differentiator on this sub-topic.
 
 ### 2.3 HUME — Substance and Qualities
 
@@ -246,6 +328,37 @@ Berkeley's master argument (*Principles* §§9–15; *Three Dialogues*): ✅
   - Not by demonstration (its denial is not self-contradictory).
   - Not by experience (that would be circular — using experience to prove the reliability of experience). ✅
 - Induction rests on **custom/habit**, not on reason. We *do* rely on it — nature forces us to — but we cannot *justify* it.
+
+#### Hume — THE TWO ARGUMENTS, RECONSTRUCTED ⚠️→✅
+
+**(A) The negative argument on necessary connexion** (*Treatise* I.iii.14; *Enquiry* VII):
+1. **Copy Principle:** every simple idea derives from a corresponding simple impression.
+2. So if we have a genuine idea of *necessary connexion*, we must locate its source impression.
+3. **External search:** in any single instance of causation (one billiard ball striking another) sense delivers only priority, contiguity and the succession of qualities. No impression of a *power* or *tie* is given.
+4. Repetition adds no new quality to the objects: the hundredth collision is qualitatively no different from the first as far as the objects go.
+5. **Internal search:** volition does no better — I have no impression of how the will moves the limb; the actual mechanism (nerve, muscle) is unknown to consciousness. Hume rules out the Cartesian and the occasionalist appeal alike.
+6. But repetition *does* produce a change in **the mind**: after constant conjunction, the mind is **determined** to pass from the idea of A to the idea of B. That felt determination is an **impression of reflection**.
+7. ∴ The idea of necessary connexion is copied from that internal impression. Necessity "is something that exists in the mind, not in objects."
+8. ∴ Two definitions of cause follow — (i) *objective/philosophical*: an object followed by another, where all objects similar to the first are followed by objects similar to the second; (ii) *subjective/natural*: an object followed by another, whose appearance **conveys the thought** to the other. ✅ **Naming both definitions is the single highest-value move in any Hume-on-causation answer.**
+
+**Presuppositions ⚠️:** (P1) the Copy Principle is exceptionless; (P2) a single instance and a repeated instance can be compared for *added* content — i.e. causation must be visible in one instance if it is objective at all; (P3) impressions are atomic and separable, so no relation is given *with* its terms; (P4) "necessity" must be either observed or projected — no third option such as inferred theoretical posit.
+
+**Canonical example ✅:** the two billiard balls (*Enquiry* IV, VII) — "the first is the cause, the second the effect… but all we ever observe is one succeeding the other." Secondary: bread nourishing the body (*Enquiry* IV) — the sensible qualities of bread give no clue to its nutritive power.
+
+**(B) The problem of induction as a formal dilemma** (*Enquiry* IV):
+1. All reasoning about matters of fact beyond present sense and memory rests on the relation of cause and effect.
+2. Causal inference rests on the **Uniformity Principle (UP)**: the future will resemble the past / unobserved cases resemble observed ones.
+3. UP can be established only **demonstratively** or **probably** (this exhaustive division is the fork).
+4. Not demonstratively: "the course of nature may change" implies no contradiction — it is perfectly conceivable.
+5. Not probably: every probable/experiential argument already **presupposes** UP, so the argument would be circular.
+6. ∴ UP has no rational foundation.
+7. ∴ Inductive inference is produced not by reason but by **custom or habit** — "the great guide of human life."
+
+**Presupposition ⚠️:** step 3 assumes the exhaustiveness of the demonstrative/probable dichotomy (Hume's Fork applied reflexively). Every serious reply attacks this step — Kant by supplying a **third** category, the synthetic *a priori*; Popper by denying that science needs induction at all; Strawson by arguing that demanding a justification of induction *as a whole* misapplies the very standards of rationality that induction constitutes (see [`Quine-Strawson.md`](Quine-Strawson.md)).
+
+**The counterexample Hume himself concedes ❓ — the missing shade of blue** (*Treatise* I.i.1; *Enquiry* II): a man acquainted with every shade of blue but one, shown the spectrum with a gap, can (Hume grants) form the idea of the missing shade from imagination alone — a simple idea with no antecedent impression. Hume calls the instance "so singular" that it is not worth altering his general maxim for it.
+- ⚠️ **Why this matters for marks:** it shows the Copy Principle is an *empirical generalisation*, not an analytic truth — so Hume's demolition of "substance," "self" and "necessary connexion" rests on a premise he himself admits admits exceptions. Deploying this converts a descriptive answer into a critical one.
+- **Hume's available reply:** the missing shade is generated by *interpolation between* impressions actually had, so the principle's spirit — no idea without experiential materials — survives even if its letter does not.
 
 #### Mitigated Scepticism ✅
 
@@ -444,6 +557,55 @@ Assess: Hume succeeds in showing that *experience alone* cannot ground causal ne
         remains open. Hume's sceptical result stands as a permanent constraint on dogmatism.
 Close : "Critically analyse" = exposition + verdict; deliver one.
 ```
+
+---
+
+## D. DIRECTIVE DECODER ⚠️ — what each command word obliges you to *do* here
+
+| Directive | What it demands | Structural obligation for **this** file | Fatal error |
+|---|---|---|---|
+| **Elucidate / Explain** (2025 Q4c, 2021 Q1c) | make the doctrine intelligible by exhibiting its *derivation* | Give the numbered argument (Berkeley's five, Hume's two), not the conclusion. | Restating *esse est percipi* or "constant conjunction" in synonyms. |
+| **Critically examine / Critically discuss** | assessment dominates | 3–4 lines of reconstruction, then objection → reply → **adjudication**. | Listing objections without ruling. |
+| **Discuss** (2023 Q2a, 2019 Q4b) | exposition **+** assessment | 60:40. For causation, both Humean *definitions* of cause must appear. | Only the negative half ("no necessary connexion"). |
+| **Is there any element of necessity…?** (2019 Q4b) | a **yes-and-no with a distinction**, not a flat answer | Answer: *not in objects; yes in the mind*, then explain the impression of reflection. | A flat "no." |
+| **Comment on the statement** (quotation-led parts) | locate the sentence in its **own** text and system first | Name the work and the section, state the thesis it encodes, then two consequences, then a judgment. | Generic essay on the thinker. |
+| **How does X refute Y?** (2023 Q2c: Locke vs Descartes) | a **reconstruction of the refuting argument**, premise by premise | Give Locke's three lines of attack *and* Descartes' dispositional reply — a refutation answer without the reply is one-sided. | Only listing Locke's points. |
+| **Substantiate / Do you agree?** | take and defend a position | State the ruling in the first line, defend, concede the strongest counter. | Balanced neutrality. |
+| **Bring out / Trace** | show a **development**, not a state | Use the "slide" logic of §5 — each thinker as the previous one taken consistently. | Three parallel summaries. |
+
+---
+
+## V. GRADED VERDICT BANK ⚠️ — executable closing positions
+
+| Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict** |
+|---|---|---|---|
+| **Innate ideas** | Locke defeats the *naive* innatist thesis of universally conscious innate content, but not the dispositional version Descartes actually held. | …Locke's decisive premise is that nothing can be in the mind unperceived; that premise, not the empirical facts about children, does the work — and it is a stipulation. | The dispute is not empirical but about what "in the mind" means. Locke wins the debate as staged and loses it as reformulated; Leibniz's *New Essays* ("nothing in the intellect that was not in the senses — **except the intellect itself**") shows that innatism survives as a thesis about *structure*, which is precisely the form Kant will vindicate. |
+| **Abstract general ideas** | Berkeley refutes abstraction only on an imagistic reading of ideas; on a determinable reading Locke stands. | …Berkeley's positive account (a particular idea "made to stand for" others) must specify the respect of representation — and the respect looks like the abstract idea readmitted. | The lasting casualty is not abstraction but the **ideational theory of meaning** that made abstraction necessary; the argument's true heir is Wittgenstein's family resemblance, not Hume's scepticism. |
+| **Primary/secondary qualities** | The distinction survives as a distinction between *measurable-structural* and *response-dependent* properties, but not as Locke's resemblance thesis. | …Berkeley's parity argument defeats *resemblance*; it does not defeat the scientific realist's *isomorphism*, since structural correspondence needs no qualitative likeness. | Locke's mistake was to make the distinction depend on a picture (ideas resembling qualities) rather than on explanatory role. Reconstructed as a claim about which properties enter physical explanation, the distinction is defensible — which is why it survives in science while Locke's version does not. |
+| **Berkeley's idealism** | Berkeley is not denying the world, he is denying an *unperceivable substratum* — his target is the philosopher's matter, not the grocer's apple. | …He preserves ordinary object-talk at the price of an ad hoc asymmetry: ideas are known by ideas, spirits by "notions." | Berkeley's system is internally the most economical of the three but purchases its economy with God, who does exactly the work Locke's matter did — sustaining unperceived existence. Immaterialism therefore replaces an unknowable *substance* with an unperceivable *spirit*, which is a change of vocabulary before it is a gain in intelligibility. |
+| **Hume on causation** | Hume does not deny causation; he relocates necessity from the object to the observer. | …His two definitions of cause pull apart — the first is objective and regularity-based, the second psychological — and Hume never reconciles them; this tension is the origin of the modern regularity-vs-projectivist debate. | Hume's result follows from the atomism of impressions, not from experience itself: if perceptions are separable atoms, no relation can be perceived, and the conclusion is guaranteed by the premise. Kant's answer is therefore correctly aimed — he attacks the atomism, not the inference. |
+| **Induction** | The problem is genuine and unsolved; Hume's own answer is descriptive (custom), not justificatory. | …The argument is a dilemma, and every serious reply must break a horn — Kant by adding the synthetic a priori, Popper by denying science needs induction, Strawson by dissolving the demand. | The sceptical conclusion depends on the exhaustiveness of the demonstrative/probable dichotomy. Since that dichotomy is itself the Fork, Hume's scepticism about induction is not a discovery about the world but the shadow cast by his classification of propositions — which is exactly why it survives only as long as the Fork does. |
+| **Self** | Hume's bundle theory is the Copy Principle applied without exception to the perceiver. | …Hume's Appendix retracts it: he cannot explain what unites the bundle, having denied both a substance and any real connexion. That honest failure is his most philosophically valuable page. | The bundle theory is not a positive doctrine but the last casualty of empiricist atomism; the fact that Hume can find no principle of unity, and says so, shows the atomism, not the self, to be at fault — a diagnosis Kant makes explicit in the Transcendental Deduction. |
+| **Scepticism** | Hume's scepticism is *mitigated*, not Pyrrhonian: nature compels the beliefs reason cannot justify. | …This yields a stable position only if the "natural beliefs" are exempt from the demand for justification — which concedes that not all belief needs reason. | Empiricism's slide from Locke to Hume is not decadence but rigour: each thinker applies the founding principle more consistently. That the principle consistently applied ends in a scepticism nobody can live shows the principle to be incomplete — the conclusion Kant draws when he says Hume awoke him from dogmatic slumber. |
+
+---
+
+## T. TRANSLATION, QUOTATION & PROVENANCE DISCIPLINE ✅
+
+All three writers composed in **English**, so no translation issue arises — but **edition and section discipline** does.
+
+| Text | Citation practice | Cautions |
+|---|---|---|
+| Locke, *Essay Concerning Human Understanding* (1st ed. 1690; 4th ed. 1700; standard scholarly text: Nidditch, Clarendon 1975) | Cite by **Book.Chapter.Section** — e.g. II.i.2 (no innate ideas / white paper), II.viii (qualities), II.xxiii.2 (*something I know not what*), II.xxvii.9 (person), III.iii.6–11 (abstraction), IV.vii.9 (the general triangle). | ✅ Section references are edition-invariant. Locke revised the *Essay* substantially — the personal-identity chapter II.xxvii was **added in the 2nd edition (1694)**; do not describe it as part of the original 1690 text. |
+| "*Tabula rasa*" | ⚠️ **Provenance:** the Latin phrase is **not Locke's own wording** in the *Essay*; Locke writes of the mind as "**white paper, void of all characters**" (II.i.2). *Tabula rasa* is Scholastic/Aristotelian vocabulary applied to him by the tradition. | Write: "the mind as 'white paper, void of all characters' — the doctrine traditionally labelled *tabula rasa*." This is a free provenance mark. |
+| Berkeley, *A Treatise concerning the Principles of Human Knowledge* (1710) and *Three Dialogues between Hylas and Philonous* (1713) | Cite *Principles* by **section number** (Intro §§6–25 for abstraction; §§1–4, 8, 9–15, 22–23, 27, 30–33 as used above); *Dialogues* by dialogue number. | ✅ "*Esse est percipi*" is Berkeley's own Latin (*Principles* §3). ❌ "*Esse est percipi aut percipere*" is a **later expansion** by commentators to accommodate spirits — do not present it as a quotation. |
+| Berkeley on Locke's triangle | Berkeley quotes *Essay* IV.vii.9 verbatim at *Principles*, Intro §13 | ✅ Safe to say "Berkeley quotes Locke's own words back at him" — it is literally true and examiners notice. |
+| Hume, *A Treatise of Human Nature* (1739–40) and *An Enquiry concerning Human Understanding* (1748; titled *Philosophical Essays* in 1748, renamed 1758) | Cite *Treatise* by Book.Part.Section (I.i.1 missing shade; I.iii.14 necessary connexion; I.iv.6 personal identity; **Appendix** for the retraction); *Enquiry* by **Section** (II Copy Principle; IV induction; VII necessary connexion + two definitions; XII mitigated scepticism). | ⚠️ Do not merge the two works: Hume disowned the *Treatise* as a juvenile work. Where they differ (notably on personal identity, which the *Enquiry* drops) say which text you are using. |
+| "Commit it then to the flames" | *Enquiry* XII, final paragraph | ✅ Safe verbatim; note it is the closing sentence of the *Enquiry* and is aimed at "divinity or school metaphysics." |
+| "Reason is, and ought only to be, the slave of the passions" | *Treatise* II.iii.3 — **Paper II / ethics material** | ❌ Do not deploy it as an epistemology quotation; it belongs to the theory of motivation. |
+| "Constant conjunction," "custom is the great guide of human life" | *Enquiry* V | ✅ Safe verbatim. |
+
+> ❌ **Never write:** that Hume "denied causation" or that Berkeley "denied the existence of the external world." Both are examiner-flagged misreadings; Hume denies *observable objective necessity*, Berkeley denies *matter as unperceiving substratum*.
 
 ---
 

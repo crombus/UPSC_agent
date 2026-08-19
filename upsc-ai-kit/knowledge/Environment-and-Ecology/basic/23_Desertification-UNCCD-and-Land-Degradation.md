@@ -206,25 +206,47 @@ the latter has outcomes to cite.
   Rio Conventions this treaty is grouped with.
 - ✅ Geography companion: `Geography/basic/07_Arid-Desert-Landforms.md` — the physical-
   geography basis of dryland/desert landscapes.
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Define **land degradation**, then narrow to **desertification in drylands**, and keep **drought** as a temporary climatic event. Only then bring in UNCCD/LDN.
+- **Thesis:** LDN is a useful national planning framework, but “neutrality” is credible only when restoration quality, local water/soil processes and livelihood effects are monitored, not merely offset on a map.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Dryland degradation is multi-causal. | **Thar/semi-arid landscapes: rainfall variability + grazing/vegetation loss + unsustainable water/soil use** → calls for watershed and livelihood, not tree-only, responses. | Do not say desertification is literal expansion of sand or climate alone. |
+| LDN has a structural offset limit. | **LDN counterbalancing and CAMPA comparison** → restoration elsewhere may not replace soil, biodiversity or water functions lost at the original site. | This is a quality critique, not a claim that every offset is invalid. |
+| Future COP information is not an outcome. | **UNCCD COP17, Ulaanbaatar, 17–28 August 2026** → a scheduled agenda anchor. | As of this audit date it is scheduled, not concluded; attribute no decision or target outcome to it. |
+
+### 13.3 Essay and mark-scaled spines
+
+- **10 marks:** definitions → causal chain → dryland-specific remedies.
+- **15/20 marks:** add UNCCD/LDN, remote-sensing-plus-ground-truthing, watershed/agroecology/rangeland governance and an area-versus-function verdict.
+- For the forests–deserts essay, pair this topic with succession/forest governance: civilisation can exhaust soil/water and expose drylands, but deserts also have natural climatic/geographic causes and open ecosystems must not be “restored” through indiscriminate afforestation.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2018, 2020
+- **Paper(s):** GS-I, Prelims GS-I
+- **Routed question demands:** 2
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 82 | Agricultural soil organic matter sulfur cycle and salinization | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-I | 5 | Desertification as a process without climatic boundaries | Justify with examples · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Agricultural soil organic matter sulfur cycle and salinization
+- Desertification as a process without climatic boundaries
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

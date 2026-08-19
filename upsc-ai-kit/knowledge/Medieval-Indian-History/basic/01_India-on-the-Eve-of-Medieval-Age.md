@@ -78,3 +78,37 @@
 - ⚠️ Explain how commercial contacts with the Arab world prepared a cultural bridge before political Islam entered north India.
 - ⚠️ Discuss why the fall of the north-western frontier mattered more than any single raid.
 - ⚠️ Assess the Rajput political order: military courage with weak inter-state coordination.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options (select per directive)
+
+| Directive family | Qualified thesis |
+|---|---|
+| Discuss pre-Islamic contacts | "Arab-Indian contact was primarily commercial and intellectual, creating cultural corridors that preceded and differed fundamentally from the later Turkish military conquest." |
+| Examine reasons for Turkish success | "Turkish success owed less to Indian weakness in battle than to a combination of political fragmentation, loss of frontier bastions, and superior organisational-logistic cohesion." |
+| Critically evaluate 'Indian decline' | "North India experienced political realignment, not civilisational collapse; the tripartite contest (Pala–Pratihara–Rashtrakuta) gave way to regional Rajput states without institutional vacuum, and the south under the Cholas was expansive." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Arab traders on the Malabar coast welcomed by Rashtrakutas (mosques permitted) | Pre-conquest cultural accommodation existed | Shows religion was not an automatic barrier to exchange | Limited to coastal/commercial sphere; cannot prove inland social integration |
+| 2 | ✅ Indian numerals and *Surya Siddhanta* transmitted into Arabic learning via Sind | Intellectual exchange preceded political conquest | Demonstrates substantive knowledge transfer, not mere trade | One-directional evidence; Indian reception of Arabic learning less documented for this phase |
+| 3 | ✅ Rajput inter-state rivalry after Pratihara decline (Gahadavalas, Chauhans, Paramaras etc.) | Political fragmentation enabled frontier loss | Explains why repeated Ghaznavid raids did not produce a coordinated response | Does not mean Rajputs lacked military skill or institutional governance at the local level |
+| 4 | ✅ Ghaznavid control of Punjab and Multan after Hindu Shahi defeat | Loss of "outer bastions" opened the Gangetic route | Strategic factor > individual battles in explaining later Turkish advance | Punjab loss was gradual (c. 990–1015), not a single event |
+| 5 | ✅ Turks were already Islamised and Persianised before entering India | Conquest brought a formed political culture, not raw nomadism | Explains Sultanate's rapid administrative and literary establishment | Does not make Turkish rule monolithic; regional adaptation followed |
+
+### 8.3 Counterpoints and regional variation
+
+- ⚠️ South India under the Cholas was **not** in decline during this period — the "eve of conquest" narrative applies to the north, not all India.
+- ⚠️ Some historians question the degree to which Rajput "feudalism" or fragmentation was uniquely Indian; comparable polycentric structures existed in West Asia.
+- ⚠️ Arab Sind governance (8th–10th c.) was relatively tolerant and plural; it did not attempt Gangetic expansion, challenging any linear "Islam → conquest" narrative.
+
+### 8.4 Verdict scaffolding
+
+- **For 10-mark:** Use 2–3 evidence units + one counterpoint; conclude that pre-conquest India was connected, not isolated, but structurally vulnerable in the northwest.
+- **For 15-mark:** Add south Indian contrast + Sufi/trader presence; distinguish commercial and intellectual contact from military conquest.
+- **For 20-mark:** Full 5-unit deployment + historiographical note on "Indian decline" debate; graded verdict acknowledging both vulnerability and vitality.

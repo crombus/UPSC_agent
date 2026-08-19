@@ -5,7 +5,7 @@
 > **Core area:** Urban homelessness implementation gaps, slum-upgrading trade-offs,
 > migrant-worker protection limitations, smart-city distributive-justice critique.
 > **Grounded in:** DAY-NULM (SUH); PM SVANidhi (2020); Street Vendors Act, 2014;
-> OSHWC Code, 2020 (enacted, notification-dependent commencement); Inter-State Migrant
+> OSHWC Code, 2020 (commenced 21 November 2025); repealed Inter-State Migrant
 > Workmen Act, 1979; ONORC;
 > 2024 GS-I PYQ (migration); 2025 GS-I PYQ (smart city); academic/policy literature.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
@@ -124,9 +124,9 @@ exclude the poorest — the gap between policy intent and outcome is the analyti
 - ✅ DAY-NULM's cost-sharing ratio is 60:40 Centre-state (90:10 for NE/special states).
 - ✅ PM SVANidhi provides escalating loan tranches (₹10,000 → ₹20,000 → ₹50,000)
   contingent on timely repayment.
-- ✅ The OSHWC Code, 2020 contains a migrant-worker framework, but commencement is
-  notification-dependent. As at 21 July 2026, do not state that it universally replaced
-  the Inter-State Migrant Workmen Act, 1979 without a specific operative notification.
+- ✅ The OSHWC Code commenced on 21 November 2025 and repealed the Inter-State Migrant
+  Workmen Act, 1979; final Central Rules followed in May 2026, while State rules and
+  enforcement remain material.
 - ✅ Smart Cities Mission uses an SPV (Special Purpose Vehicle) model for area-based
   development.
 
@@ -143,8 +143,8 @@ exclude the poorest — the gap between policy intent and outcome is the analyti
 ## 9. 📰 Current-anchor note
 
 - 📰 **Status check (21 July 2026):** PM SVANidhi disbursement and DAY-NULM shelter counts
-  are dashboard outputs. For migrant-labour claims, distinguish the enacted OSHWC Code
-  from operative commencement and the still-relevant 1979/State route.
+  are dashboard outputs. For migrant-labour claims, distinguish central commencement
+  from applicable State rules and enforcement.
 - ✅ 2024 GS-I PYQ (migration) and 2025 GS-I PYQ (smart city) are direct exam anchors.
 
 ## 10. PYQ-based analytical application

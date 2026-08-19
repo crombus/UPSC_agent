@@ -35,7 +35,7 @@ text**, not the one that is true in the real world.
 | Type | The stem sounds like | The correct option must... |
 |---|---|---|
 | ✅ **Central idea / main message** | "best summarises / crux / the author mainly says" | cover the **whole** passage, not one sentence. |
-| ✅ **Inference / implication** | "can be inferred / most logical inference / implies" | be **forced to be true** if the passage is true. |
+| ✅ **Inference / implication** | "can be inferred / most logical inference / implies" | be stated, entailed, or the **most defensible** reading with no new premise. |
 | ✅ **Assumption** | "the argument assumes / rests on" | be an **unstated premise** the argument needs. |
 | ✅ **Tone / attitude / scope** | "the author's tone / attitude / this passage is about" | match the **wording and range** of the text. |
 | ✅ **Which statement(s) follow / are correct** | "which of the statements given above is/are correct" | be judged **one statement at a time**, then combined into the option code. |
@@ -63,7 +63,8 @@ text**, not the one that is true in the real world.
 3. **Predict** the answer in your own words before looking at options.
 4. **Test each option** against the text with the four filters (stated / scope / distortion /
    outside-knowledge).
-5. **If two survive,** pick the **more modest, better-supported** one; extreme wording usually loses.
+5. **If two survive,** pick the **better-supported** one. A modest option often wins, but an
+   absolute option is correct when the passage itself is absolute.
 
 ## 4. Distractor families (learn to name them)
 
@@ -194,7 +195,87 @@ contradicts "necessary"; (b) fixes on one detail; (d) is out-of-passage.
 3. **(a).** "Cannot install panels on a roof they do not own" only bites if installation **needs**
    roof control - the unstated premise. (b)/(c)/(d) are not required by the argument.
 
-## 10. Study links
+## 10. Core coverage, timed execution and retry gate
+
+### 10.1 Stem-to-method map
+
+| If the stem asks for... | Do this first | Reject immediately |
+|---|---|---|
+| a stated detail | Locate the named sentence and paraphrase it narrowly. | A general opinion or a fact not in that sentence. |
+| main idea/title/purpose | Write a six-to-ten-word summary covering claim **and** qualification. | A supporting detail, an example, or a new policy. |
+| inference/conclusion | Ask: “What follows with no new premise?” For “most logical,” allow the smallest bridge the wording makes natural. | A stronger “must/only/all” claim than the passage licenses. |
+| assumption | State the evidence-to-conclusion link, then negate a candidate precisely. | A conclusion, a desirable consequence, or a merely helpful fact. |
+| tone/attitude | Circle evaluative words, irony and certainty words. | A tone inferred from the topic rather than the author's language. |
+| statement code | Mark each statement T/F from the passage before looking at codes. | Treating a mixed bundle as one statement. |
+
+> 🔑 **Inference safety rule:** “forced” is appropriate for a strict *must-follow* stem. For
+> “best” or “most logical” inference, choose the option with the least unsupported extension, not a
+> fact that is merely true outside the passage.
+
+### 10.2 Timed core drill — 12 minutes, 6 marks
+
+Use one read per passage. Mark an item **P** (out-of-passage), **S** (scope/strength),
+**D** (direction), **A** (assumption) or **T** (time) beside every miss; do not read the solutions
+until the timer ends.
+
+> **Passage 1.** “A city that publishes bus-arrival data makes waiting less uncertain only when the
+> data are reliable. A late but accurate update can still help a traveller choose to walk or wait;
+> a confidently wrong update can make the service less usable than no update at all.”
+>
+> 1. Which inference is best supported?  
+> (a) Reliability matters to the usefulness of arrival information.  
+> (b) Every late update is useless.  
+> (c) Travellers always prefer walking.  
+> (d) Publishing data guarantees better bus service.
+>
+> 2. The passage assumes, in calling a wrong update harmful, that travellers may act on the update.  
+> (a) No; this is a stated detail. (b) Yes. (c) Only if buses are privately run. (d) Only for late updates.
+
+> **Passage 2.** “A soil test does not tell a farmer what crop to grow. It identifies nutrient
+> constraints; the choice also depends on water, price risk and the farmer's objective. Treating the
+> test as a crop prescription therefore mistakes one input for the whole decision.”
+>
+> 3. The central idea is that:  
+> (a) soil tests are inaccurate.  
+> (b) farmers should ignore prices.  
+> (c) soil tests inform, but do not by themselves determine, crop choice.  
+> (d) water never affects farming.
+>
+> 4. Which statement is supported?  
+> 1. Nutrient information can matter to crop choice.  
+> 2. A soil test alone settles every relevant farming decision.  
+> (a) 2 only (b) neither (c) 1 and 2 (d) 1 only
+
+> **Passage 3.** “The committee praises the pilot's ambition but notes that its reported success
+> comes from three well-staffed districts. Before nationwide adoption, it asks whether the result
+> persists where staff and connectivity are scarce.”
+>
+> 5. The tone is:  
+> (a) wholly dismissive. (b) cautiously qualified. (c) celebratory. (d) indifferent.
+>
+> 6. Which close option is better supported?  
+> (a) The pilot has failed outside the three districts.  
+> (b) Staffing is irrelevant to the pilot.  
+> (c) National adoption is impossible.  
+> (d) Evidence from well-staffed districts may not generalise automatically.
+
+**Answers and diagnosis.** 1-a (**S** if “late” or “guarantees” attracted you); 2-b (**A**); 3-c
+(**S**); 4-d (**T** for statement-by-statement failure); 5-b (**S**); 6-d (**S/P**). A score of
+**5/6 or 6/6 within 12 minutes** clears this Core gate. At 4/6 or below, sort misses by code, redo
+only the failed passage untimed, then take a fresh six-item set on another day. Do not use Advanced
+work to compensate for an uncleared Core gate.
+
+### 10.3 Qualifying-safe RC log
+
+| Date / set | Time | Score | P | S | D | A | T | One repair rule for next set |
+|---|---:|---:|---:|---:|---:|---:|---:|---|
+|  |  |  |  |  |  |  |  |  |
+
+For a full paper, follow the Master Framework’s three-pass and risk rules; this file’s non-negotiable
+local rule is to park an RC item when its allotted ceiling expires rather than reread the whole
+passage. Return only when a text-based discriminator is available.
+
+## 11. Study links
 
 - ✅ [Advanced companion](../advanced/01_Reading-Comprehension.md) - two-passage sets, tone/scope, and
   the negation test under time pressure.

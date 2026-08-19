@@ -148,6 +148,27 @@ sensors -> controller / software -> actuator / motor -> action
 - ✅ `06_Defence-RandD-DRDO-and-Missile-Systems.md` — cross-reference for military UAVs and loitering munition context.
 - ✅ `07_Defence-Indigenization-Atmanirbhar-and-Procurement.md` — domestic manufacturing and procurement ecosystem.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — autonomy, computer vision and governance overlap.
+## Core answer architecture — drones, robotics and dual-use governance
+
+**Thesis choice.** A drone is an integrated system whose public value and risk arise from sensors, communications, software, payload and human control—not merely from the airframe or a headline flight.
+
+**10-mark spine.** Define UAV/UAS/RPAS or robot precisely; draw the architecture; give one sectoral application and one regulation/safety/privacy/dual-use constraint.
+
+**15/20-mark spine.** Use **system components and autonomy level → developmental/public/industrial applications → airspace/data/safety governance → defence and counter-drone implications → affordability, reliability and accountability verdict**.
+
+**Evidence units.**
+- **Claim:** a UAS includes more than the aircraft → **airframe, propulsion, navigation, sensor/payload, command link and software** → explains why certification and risk depend on the whole operating system → **qualification:** payload/endurance claims cannot be generalised across a hobby platform, agricultural system and military system.
+- **Claim:** drones can solve observation and access constraints → **precision agriculture, mapping/inspection, disaster assessment and health/logistics applications** → can reduce time, physical risk and information gaps → **qualification:** operator skills, weather, connectivity, approvals and maintenance determine whether a pilot becomes a service.
+- **Claim:** dual-use capability needs layered safeguards → **DGCA/Digital Sky civil governance and the distinct defence/counter-drone context** → separates airspace safety from strategic security → **qualification:** surveillance, spoofing/jamming, collision, misuse and autonomous targeting raise rights and escalation concerns that a registration portal alone cannot solve.
+
+**Verdict.** Expand legitimate use under risk-based permissions, standards, training, privacy safeguards and resilient counter-drone capacity.
+
+## Routed PYQ evidence — swarms, countermeasures and field use
+
+- **Drone swarm:** multiple aircraft coordinate through communication, localisation and distributed/autonomous control. A swarm is not simply many drones flying nearby; resilience depends on network design, sensing and control rules.
+- **Countermeasure boundary:** detection, identification, command-link protection, jamming/spoofing resistance and safe neutralisation are separate functions. No single electronic technique is a universal counter-drone answer, and interference can affect legitimate communications.
+- **Field applications:** drones can collect imagery/sensors for crop assessment, volcanic observation or wildlife research where human access is risky. They do not automatically replace ground verification, permits, animal-welfare safeguards or trained interpretation.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

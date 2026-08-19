@@ -37,6 +37,17 @@ SUBJECTS = [
     ("Qualifying-Hindi", "Qualifying Hindi"),
 ]
 
+SUPPLEMENTAL_TOPICS = {
+    "Polity": [
+        (50, "Concept of the Constitution"),
+        (51, "Rights and Liabilities of the Government"),
+        (52, "NCRWC and Working of the Constitution"),
+        (53, "Special Provisions Relating to Certain Classes"),
+        (54, "Lok Adalats and Other Courts"),
+        (55, "Constitutional Interpretation Doctrines"),
+    ],
+}
+
 PHILOSOPHY_BLOCKS = [
     (
         "Philosophy Paper I — Western Philosophy",
@@ -149,8 +160,12 @@ def subject_topics(folder: str) -> list[tuple[int, str]]:
 
     # Prefer the topic map, but use numbered files when the README has no complete map.
     if file_topics and len(file_topics) > len(topics):
-        return file_topics
-    return topics
+        topics = file_topics
+
+    merged = {number: title for number, title in topics}
+    for number, title in SUPPLEMENTAL_TOPICS.get(folder, []):
+        merged.setdefault(number, title)
+    return sorted(merged.items())
 
 
 def load_statuses() -> dict[str, dict[str, object]]:
@@ -235,7 +250,16 @@ def render_subject(
 def render_philosophy(
     statuses: dict[str, dict[str, object]], totals: dict[str, int]
 ) -> list[str]:
-    lines = ["# Philosophy Optional", ""]
+    lines = [
+        "# Philosophy Optional",
+        "",
+        "> Every Philosophy export command uses the five-layer format: SIMPLE START -> "
+        "CORE UPSC -> ADVANCED -> EXAM APPLICATION -> RAPID REVISION.",
+        "> For a single layered notes PDF plus Markdown, use "
+        "`Philosophy Notes: <Topic>`. For the full package, use any command below "
+        "or `Export Philosophy PDF: <Topic>`.",
+        "",
+    ]
     for display, titles in PHILOSOPHY_BLOCKS:
         commands = [
             f"Export PDF for {display} {number:02d} — {title}"

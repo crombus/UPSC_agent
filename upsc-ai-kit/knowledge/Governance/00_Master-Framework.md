@@ -8,6 +8,11 @@
 >
 > **Last-minute route:** [`REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md`](REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md)
 > consolidates all 16 Core/Advanced pairs into one exam-revision sheet.
+>
+> **Answer layer:** every `basic/NN` file carries a topic-specific
+> `Answer architecture (10/15/20-mark support)` section. That section, not this framework
+> and not the `advanced/` companion, is where a 10/15/20-mark answer is actually built.
+> `advanced/` is optional enrichment; no mark depends on it.
 
 ---
 
@@ -190,11 +195,21 @@ PROPOSAL -> BILL -> ENACTED ACT -> COMMENCEMENT NOTIFICATION -> RULES
   -> IMPLEMENTATION EVIDENCE -> EVALUATED OUTCOME
 ```
 
-- A statute on the books may not be in force (Whistle Blowers Protection Act, 2014).
-- A body may be legally constituted while appointments remain pending (DPBI status
-  verified from MeitY material to 21 July 2026).
+- A statute on the books may not be in force (**Whistle Blowers Protection Act, 2014** —
+  assent 9 May 2014, **never commenced**; the 2015 Amendment Bill lapsed).
+- A single statute may commence in **tranches** (DPDP Act, 2023: definitions, ss.18–26 and
+  **s.44(1)/s.44(3)** from 13 November 2025; s.6(9) from 13 November 2026; most substantive
+  duties, rights and **s.44(2)** from 13 May 2027).
+- An Act may be enacted and only **partly** commenced (National Sports Governance Act, 2025 —
+  assent 18 August 2025; tranches from 1 January and **12 May 2026**). A statutory Board or
+  Tribunal therefore cannot be treated as operational merely because its establishing
+  provisions exist; recognition continues under the 2011 Code/deeming transition and no
+  Tribunal jurisdiction is asserted at this cut-off.
+- A body may be legally constituted while appointments remain pending (**DPBI**: established
+  under s.18, **members not appointed** as of 13 August 2026).
 - A portal may be operational but non-adjudicatory (CPGRAMS).
-- A commission recommendation is neither a rule nor implementation evidence.
+- A commission recommendation is neither a rule nor implementation evidence, and thematic
+  resemblance between a recommendation and a later programme is **not** proof of adoption.
 
 ## 10. Mains answer spine
 

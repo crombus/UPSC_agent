@@ -88,6 +88,103 @@
 - ⚠️ GS-1: Assess the achievements and limitations of Nehruvian planning up to 1964.
 - ⚠️ GS-1 (2025 PYQ): Trace early consolidation through **polity, economy, education and international relations** rather than writing only about territorial integration.
 
+## 8. Answer architecture (10/15/20-mark support)
+
+> Purpose: turn the Nehru era from a list of achievements into **assessment engines** — on planning, on non-alignment and on the balance sheet of an era that ends in a defeat.
+
+### 8.1 Demand and directive map
+
+| Demand family | Typical directive signals | Answer spine to use |
+|---|---|---|
+| Era assessment | "The Nehru era laid the institutional foundations — discuss" | Institution built → what it enabled → what it failed to do → net verdict |
+| Foreign-policy analysis | "Non-alignment: active or passive?" | Definition → doctrine → instances → 1962 test → verdict |
+| Planning evaluation | "Assess Nehruvian planning" | Objective → strategy → results → structural cost → verdict |
+| Democratic institutionalisation | "How was democracy consolidated?" | Franchise → elections → opposition tolerated → federal accommodation |
+| Failure analysis | "What did the Nehru era fail to achieve?" | Literacy, land reform, employment, 1962 — with reasons |
+| Legacy/continuity | "Nehruvian legacy today" | Institutions surviving → doctrines revised → what was abandoned |
+
+### 8.2 Qualified thesis options
+
+- **Institutional-foundation thesis:** *The Nehru era's decisive contribution was institutional rather than programmatic: a competitive electoral democracy on universal franchise, a planning apparatus, a public-sector industrial base, a scientific establishment and an independent foreign-policy doctrine were all created in a single decade and all outlived their creator.*
+- **Active-doctrine thesis:** *Non-alignment was an assertion of agency, not an abstention from choice — India judged each issue on its merits, took positions on colonialism and disarmament, and used the strategy to obtain aid and technology from both blocs while joining neither.*
+- **Structural-cost thesis:** *Nehruvian planning achieved what it was designed to achieve — a heavy-industrial base and self-reliance — and underperformed on what it did not prioritise: agriculture, mass literacy, employment and small-scale industry, so the model's failures were built into its choices rather than being accidents of implementation.*
+- **Test-and-limits thesis:** *The 1962 war is the era's necessary conclusion because it exposed the one weakness the strategy could not absorb — a foreign policy of moral influence unsupported by military capability — and every later Indian government responded to that lesson.*
+
+### 8.3 Mark-scaled structure
+
+| Marks | Recommended architecture | Evidence load |
+|---:|---|---|
+| 10 | Thesis → two institutions → one failure → verdict | 3 dated units |
+| 15 | Thesis → democracy → planning → science/education → foreign policy → limits → verdict | 5–6 units |
+| 20 | Thesis → four domains developed → 1962 as the test → balance sheet → graded verdict | 6–8 units with a limitations paragraph |
+
+### 8.4 Bank A — Democratic institutionalisation
+
+- **Claim:** The decisive democratic choice was made before it could be justified by social conditions.
+- **Evidence:** ✅ The **First General Election (1951–52)** was held on **universal adult franchise** with about **173 million voters** and roughly **46 per cent turnout** — "the biggest experiment in democracy anywhere in the world"; ✅ **Kerala in 1957** elected the **first Communist state government** under **E.M.S. Namboodiripad**.
+- **Significance:** The Kerala result is the strongest single evidence for genuine democratic institutionalisation — a governing party that permitted its principal ideological opponent to take office in a state had accepted electoral democracy in substance, not only in form.
+- **Limit/caution:** ⚠️ The later dismissal of that Kerala government is part of the record and belongs to the balance sheet; state the achievement and the qualification together.
+
+### 8.5 Bank B — Planning and the economy
+
+- **Claim:** Planning was a coherent strategy with identifiable costs, not a vague aspiration.
+- **Evidence:** ✅ The **Planning Commission** was established on **15 March 1950** by executive resolution, not by the Constitution; ✅ the **Avadi Congress (1955)** adopted the "**socialistic pattern of society**" — flexible rather than doctrinaire; ✅ the **Second Five Year Plan (1956–61)** followed the **Mahalanobis** heavy-industry model, aiming at a **self-reliant mixed economy** with a large public sector.
+- **Significance:** The Mahalanobis choice — capital goods first — is the era's central economic decision, and it explains both the industrial base India acquired and the agricultural and employment deficits it carried into the 1960s food crises (`basic/34`).
+- **Limit/caution:** Do not attach growth rates or output figures here; the economic mechanics belong to `basic/38` and the Economy owner.
+
+### 8.6 Bank C — Science, education and capability
+
+- **Claim:** Nehruvian development treated scientific capability as infrastructure.
+- **Evidence:** ✅ The **Atomic Energy Commission (1948)**, **CSIR laboratories**, the **IITs** and expanded universities and technical education supported the planned-development strategy; ✅ **mass literacy remained a major failure**.
+- **Significance:** The split outcome is itself the analytical point — India built world-class scientific institutions on top of a population that was still overwhelmingly illiterate, a pattern of elite-first capability building whose consequences persist.
+- **Limit/caution:** ✅ Always state the literacy failure alongside the institutional achievement; an answer that omits it is not balanced.
+
+### 8.7 Bank D — Non-alignment as an active doctrine
+
+- **Claim:** Non-alignment was a method of maximising autonomy, not of avoiding involvement.
+- **Evidence:** ✅ **Panchsheel** was enunciated in the **1954** India–China (Tibet) agreement; ✅ the **Bandung Conference (1955)** and the **Belgrade summit (1961)**, which launched the **Non-Aligned Movement**, made India a leader of the newly decolonising world; ✅ the doctrine rested on **independent judgement on each issue**, anti-colonialism and disarmament — explicitly not neutrality; ✅ **Goa was liberated in 1961**.
+- **Significance:** Goa in 1961 is the useful counter-example against reading non-alignment as pacifism — India used force in its own territorial interest in the same year it helped found NAM.
+- **Limit/caution:** Do not extend the analysis into contemporary "multi-alignment" claims; those belong to the IR owner.
+
+### 8.8 Bank E — 1962 and the balance sheet
+
+- **Evidence:** ✅ The **India–China war of October–November 1962** was a shock that damaged Nehru's prestige and non-alignment's optimism; ✅ **Nehru died in May 1964**.
+- **Significance:** 1962 tested each pillar simultaneously — it exposed the intelligence and defence deficit of a state that had underinvested in the military, the political cost of the Panchsheel framing of the China relationship, and the limits of moral standing as a substitute for capability.
+- **Balance sheet:**
+
+| Achievements | Failures |
+|---|---|
+| ✅ Universal franchise and competitive elections; opposition governments tolerated | ✅ Mass literacy — a major failure |
+| ✅ Planning apparatus, public-sector industry, self-reliance strategy | ⚠️ Agriculture, employment and land reform under-delivered |
+| ✅ Atomic energy, CSIR, IITs, technical education | ⚠️ Primary education and health neglected relative to higher education |
+| ✅ Non-alignment, Panchsheel, Bandung, NAM leadership | ✅ **1962** — defence unpreparedness and a strategic misjudgement |
+| ✅ Secular constitutional order maintained | ⚠️ Congress organisational decay begins (`basic/33`) |
+
+- ⚠️ Nehru is remembered as the "architect of modern India" for democracy, secularism, planning and scientific temper — present this as a considered assessment, and pair it with the failures column.
+
+### 8.9 Counter-evidence, balance and caution
+
+- **Against a purely celebratory reading:** the era's own priorities produced its deficits; literacy, land reform and agriculture were not accidentally neglected but structurally deprioritised.
+- **Against a purely critical reading:** the institutions built between 1950 and 1964 are the ones through which every subsequent government has acted, including those that repudiated Nehruvian policy.
+- **Comparative:** most contemporaneous decolonised states abandoned competitive elections within a decade; India's did not, which is the era's most consequential outcome.
+- ⚠️ Keep foreign-policy doctrine historical here; current strategic assessments belong to the IR owner.
+
+### 8.10 Verdict scaffolds
+
+- **Era verdict:** "The Nehru era built the institutions India still uses and postponed the social investments India still owes; both halves of that sentence are needed."
+- **Non-alignment verdict:** "Non-alignment was the foreign policy of a weak state determined to act as an independent one — effective as diplomacy and, in 1962, unsupported by capability."
+- **Planning verdict:** "Planning delivered the industrial base it promised and the agricultural crisis it did not anticipate; the Mahalanobis choice explains both."
+
+### 8.11 Factual-risk cautions
+
+- Planning Commission = **15 March 1950**, by **executive resolution**, not a constitutional body.
+- First general election = **1951–52**, ~**173 million** voters, ~**46 per cent** turnout.
+- **Panchsheel = 1954**; **Bandung = 1955**; **Belgrade/NAM = 1961**; **Avadi = 1955**; **Second Plan = 1956–61**.
+- Kerala's Communist government = **1957**; the CPI split into CPI and CPM in **1964** (`basic/33`).
+- India–China war = **1962**; Nehru died in **May 1964**.
+- "Socialistic pattern" meant a **mixed economy**, not full state ownership.
+- Do not state growth rates, plan outlays or defence figures in this owner.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

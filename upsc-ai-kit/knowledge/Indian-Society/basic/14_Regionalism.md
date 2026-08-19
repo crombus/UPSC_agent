@@ -186,6 +186,88 @@ disparate, and vice versa.
 - ✅ `13_Communalism.md` and `15_Secularism.md` — sibling identity-mobilisation and
   social-harmony topics.
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** A regionalism answer succeeds only after it separates identity,
+> representation and development; a generic call for “balanced development” cannot answer
+> cultural assertion by itself.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Explain** disparity versus diversity | Exact distinction plus seriousness | define -> paired examples -> indicators -> scope/response |
+| **Argue** cultural assertiveness and regionalism | Causal pathway and qualification | identity -> mobilisation/representation -> demand form -> accommodation |
+| **Examine** sub-regionalism | Smaller-scale compounded grievance | identity/representation/disparity -> scale -> response |
+| **Assess** statehood/autonomy/secession | Non-linear typology | classify -> driver -> constitutional/social consequence -> verdict |
+| **Suggest** response | Diagnosis-to-instrument matching | recognition versus redistribution -> accountability -> qualification |
+
+### 13.2 Thesis bank
+
+- **T1:** ✅ Diversity is descriptive cultural variation; regional disparity is an
+  outcome-based development gap. Their possible overlap is not identity.
+- **T2:** ⚠️ Cultural assertion becomes regionalism when it is politically organised around
+  recognition, representation or resources; it is not automatically anti-national.
+- **T3:** ⚠️ The correct response is diagnosis-specific: recognition addresses an identity
+  grievance, redistribution a development grievance, and compounded cases require both.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — cultural assertiveness and regionalism (2020 GS-I).** Define regionalism,
+show the pathway from distinct language/culture/history to political assertion, and separate
+statehood/autonomy from secession. Add cultural accommodation and fair development as
+possible responses; conclude with T2.
+
+**15 marks — regional disparity and diversity (2024 GS-I).** Define both precisely; use a
+paired example logic (cultural difference without a development gap, and a gap within a
+culturally similar space). Assess seriousness through income/infrastructure/human
+development and dated index evidence, but state its sub-state limitation. Conclude with T3.
+
+**20 marks — regionalism, sub-regionalism and federal accommodation.** Add the
+identity/representation/disparity matrix, 1956 linguistic reorganisation as accommodation,
+and a recognition-versus-redistribution response table. Include the cost that new units may
+contain new internal disparities; close with a graded verdict.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Accommodation.** *Claim:* recognition can integrate rather than fragment.
+  *Evidence:* **States Reorganisation Act, 1956** and linguistic reorganisation.
+  *Significance:* supports T2. *Limitation:* it did not eliminate later sub-regional/border
+  demands.
+- **E2 — Measurement.** *Claim:* disparity is observable through outcomes, not identity.
+  *Evidence:* **NITI Aayog SDG India Index 2023-24**. *Significance:* provides a dated
+  comparative source. *Limitation:* a state-level composite score can mask district/sub-
+  regional inequality and does not prove causation.
+- **E3 — Response fit.** *Claim:* different grievances need different tools. *Evidence:*
+  recognition (language/autonomy/representation) versus redistribution (infrastructure/
+  fiscal/service investment). *Significance:* turns a generic “balanced development”
+  conclusion into diagnosis. *Limitation:* federal and fiscal doctrine belongs to Polity/
+  Geography.
+- **E4 — Movement forms.** *Claim:* demand forms are not one escalation ladder. *Evidence:*
+  statehood, autonomy and secessionist demand as distinct categories. *Significance:*
+  prevents securitising every regional assertion. *Limitation:* classify the specific case
+  with local evidence.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Do not use a cultural identity as a proxy for poverty or an index score as lived
+  experience.
+- ⚠️ Do not call statehood demand secession or assume any regional attachment is hostile.
+- ⚠️ Do not offer redistribution where recognition is the core problem, or the reverse.
+- **Verdict:** “Regionalism becomes integrative when democratic accommodation and material
+  fairness meet the actual grievance; it becomes sharper when either is mistaken for the
+  other.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2020 · GS-I · Q10 | Rising cultural assertiveness and regionalism | §13.1-13.4, T2/E1 |
+| 2024 · GS-I · Q17 | Regional disparity versus diversity | §13.3, T1/E2-E3 |
+
+> **Routing correction:** Core routing supersedes old `advanced/14` pointers. The fiscal and
+> federal mechanisms remain delegated, clearly labelled support.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

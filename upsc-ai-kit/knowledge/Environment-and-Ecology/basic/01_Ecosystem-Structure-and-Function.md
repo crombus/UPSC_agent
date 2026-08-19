@@ -192,20 +192,42 @@ ecosystem health, species diversity or forest quality — do not conflate the tw
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- For a **mechanism** question, draw `abiotic conditions → producers → food web → decomposers → nutrient pool`; then state explicitly that energy is one-way while matter cycles.
+- For an **ecosystem-service/impact** question, begin with the structural element lost and the function that fails. For **carrying capacity**, define it as the population or project load an ecosystem can sustain over time *without eroding its regenerative functions*; it is a conditional threshold, not a fixed headcount.
+- **Thesis:** ecosystem policy succeeds only when it protects the structural links that deliver regulating, provisioning, supporting and cultural functions, rather than counting a single species or canopy area alone.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Ecosystem structure is risk-reduction infrastructure. | **Sundarbans mangrove ecotone** → its zonation supports fish nursery habitat, blue-carbon storage and storm-surge buffering. | Do not turn this into a universal quantified protection claim without a site-specific study. |
+| A network is more resilient than a linear chain. | **Food web** rather than one food chain → alternative trophic links can reduce the consequence of a single-link loss. | Resilience is recovery capacity; it is not proof that every diverse-looking system resists every shock. |
+| Extent is not ecological quality. | **ISFR 2023 forest-and-tree-cover measure** → establishes a dated canopy-extent baseline. | Canopy cover does not establish native composition, age structure, biodiversity or functioning. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** definition and one compact flow; explain one disturbance chain; use one Indian evidence unit; finish with a qualified structure-function verdict.
+- **15 marks:** use the four ecosystem-service categories, then contrast a short-run gain with a regulating/supporting-service loss; add the ISFR quality caveat.
+- **20 marks / carrying capacity:** organise under regenerative supply, assimilative capacity, habitat connectivity and institutional safeguards (EIA, protected-area/forest law); compare a resilient mangrove/wetland system with a simplified plantation or sealed urban catchment; conclude that consumption pattern, technology and governance alter the threshold but do not abolish ecological limits.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
 - **Years represented:** 2019, 2021, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 7
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 8
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2019 | GS-III | 17 | Ecosystem carrying capacity concept and sustainable development planning | Define · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | Prelims GS-I | 28 | Marine and reptile animal dietary and reproductive characteristics | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 22 | Primary producers in ocean food chains | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 26 | Filter feeder organisms in marine ecology | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
@@ -216,6 +238,7 @@ ecosystem health, species diversity or forest quality — do not conflate the tw
 
 ### What this owner must now support
 
+- Ecosystem carrying capacity concept and sustainable development planning
 - Marine and reptile animal dietary and reproductive characteristics
 - Primary producers in ocean food chains
 - Filter feeder organisms in marine ecology

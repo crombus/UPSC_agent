@@ -190,6 +190,238 @@ failure, not a resource or capacity failure alone.
 - ✅ `02_Government-Policy-Design-and-Implementation.md` — pre-legislative consultation's
   policy-design angle.
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Scope.** All marks-bearing content for *participation as a governance mechanism*,
+> including the demand the 2018–2023 ledger routed to `advanced/14`, is held **in this
+> file**. `advanced/14` is optional enrichment only.
+
+### 13.0 Direct demands owned by this Core file
+
+⚠️ **Core routing supersedes the older Advanced pointer.**
+
+**(a) 2019 GS-II Q17 — cooperation among service sectors and partnership in development
+(15 marks, "examine").** Executable route:
+1. Reframe: the question is about **co-production** — development outcomes produced jointly
+   by government, market, civil society and citizens, rather than delivered by one actor to
+   passive recipients.
+2. Explain why partnership is structurally necessary rather than merely desirable:
+   development outcomes in health, education, sanitation, nutrition and livelihoods depend
+   on **household behaviour** as much as on state supply. Sanitation is the clearest case —
+   constructing a facility is a supply act; sustained use is a behavioural one, and only the
+   second produces the health outcome.
+3. Name the partnership forms and keep them distinct: **contracting** (the state buys
+   delivery); **convergence** (multiple public agencies aligning at the point of delivery,
+   see `02`); **co-production** (citizens as co-producers — community monitoring, user
+   groups, SHG-mediated delivery); and **public–private partnership** (risk and finance
+   shared under contract).
+   For a dedicated PPP demand, use `02`'s Core PPP governance block: output standard → risk
+   allocation → competitive procurement → performance monitoring → dispute/exit rules →
+   affordability and continuity safeguards.
+4. Governance conditions for partnership to work: clear allocation of responsibility so
+   that shared work does not become nobody's work; a shared information base; a single
+   accountable authority for the outcome; and a dispute/exit mechanism.
+5. The critical half that "examine" requires: partnership can **diffuse accountability** —
+   when four actors share a task, the citizen has no addressee; it can substitute for state
+   obligation; and it can privilege organised partners over unorganised beneficiaries.
+6. Verdict: cooperation improves outcomes where the **duty-holder remains identifiable**;
+   it degrades them where partnership is used to distribute responsibility rather than work.
+❌ Do not invent a project-level result, contract value or evaluation. A dedicated answer can
+still be written from the verified governance mechanism in `02`.
+
+**(b) 2022 GS-II Q17 — donor dependence and community participation (15 marks).** Jointly
+owned with `03` §13.0(b), which holds the four donor-distortion channels and the five-test
+grid. This file supplies the **participation half**: what genuine community participation
+requires (authority over a decision, not consultation on it), why donor cycles undermine the
+slow institution-building participation needs, and the elite-capture qualification.
+
+**(c) 2025 GS-II Q17 — decision-making distant from the source of information and execution
+(15 marks, "critically evaluate").** Already owned here. See §9 for the executable route;
+§13.4–13.8 supply the evidence, the counter-argument and the verdict language.
+
+**(d) 2026 Prelims Q52 — participatory resolution of tribal land, waste-management and
+environmental conflict.** The controlling frame is in §13.6: participation in a **conflict**
+setting is not the same as participation in a planning setting. What this file supplies —
+the distinction between consultation, consent and co-decision; the specific position of
+Gram Sabha powers in **Fifth Schedule** areas under **PESA** (⚠️ **consultation** before land
+acquisition/resettlement, **not** a universal consent requirement — see `12`); and the
+design conditions under which deliberation can resolve rather than entrench a dispute.
+⚠️ The 2026 key held locally is provisional and no option is inferred.
+
+### 13.1 Demand map
+
+| Stem pattern | What is being tested | Opening move |
+|---|---|---|
+| "Decision-making far from information/execution" | Subsidiarity as **efficiency**, not only democracy | Say that the stem is an efficiency argument; most answers moralise instead |
+| "Participatory governance in India" | Quality vs frequency | Distinguish holding a meeting from influencing a decision |
+| "Gram Sabha effectiveness" | Authority, not attendance | Ask what the Gram Sabha can actually decide, and whether that decision binds |
+| "Participatory budgeting" | Scale honesty | Genuinely co-decisional and genuinely small-scale in India |
+| "Consultation before legislation" | Legal status | The 2014 policy is executive, non-binding, with stated exceptions |
+| Novel mechanism (citizen jury, deliberative poll, online consultation, community scorecard) | Transferability | Place it on the participation ladder (§13.4) and ask who is excluded |
+
+### 13.2 Qualified theses
+
+- **T1 (efficiency):** "Subsidiarity is not primarily a democratic sentiment but an
+  information argument: decisions taken far from where information originates and where
+  execution occurs are systematically worse, irrespective of the resources behind them."
+- **T2 (authority):** "Participation changes outcomes only where the participatory forum
+  holds authority over the decision being discussed; consultation without authority produces
+  legitimacy for a decision already taken."
+- **T3 (capture-aware):** "Decentralised participation is not automatically inclusive
+  participation — the same forum that brings decisions closer to citizens brings them closer
+  to locally dominant groups, which is why participation requires design, not merely
+  devolution."
+- **T4 (bounded):** "Some centralisation is legitimate — economies of scale, inter-regional
+  equity and genuine technical-capacity gaps — and a credible answer names where
+  centralisation exceeds those justifications rather than opposing it in general."
+
+### 13.3 Mark-scaled structure
+
+**10 marks** — define subsidiarity as an information/execution principle; the
+quality-vs-frequency distinction; one named forum with what it can decide; one capture
+caution; verdict.
+
+**15 marks** — thesis; why centralisation persists (§13.5); the participation ladder;
+4–6 evidence units; elite capture **and** legitimate centralisation as two counterweights;
+graded verdict.
+
+**20 marks** — thesis with criteria; the two distinct failures the 2025 stem contains —
+separation from **information** and separation from **execution** — analysed separately;
+consultation/co-decision/co-production distinguished; deliberation design (§13.6); who is
+absent from the forum; the accountability consequence of participation without authority;
+verdict with reversal condition.
+
+### 13.4 The participation ladder (the structuring device for this topic)
+
+| Rung | What the citizen actually gets | Indian instance | Honest limitation |
+|---|---|---|---|
+| **Information** | To be told after the decision | Scheme publicity, s.4 disclosure (see `08`) | Not participation |
+| **Consultation** | To be asked; the decision-maker is not bound | **Pre-Legislative Consultation Policy, 2014** (draft published with explanatory note, ordinarily **at least 30 days** for comments, subject to stated exceptions); **MyGov** crowdsourcing | ⚠️ Executive policy, **not** a statute; comments are **not binding**; there is no general duty to publish a response |
+| **Involvement** | To take part in planning | **Gram Sabha** in plan approval; ward-level meetings | Effective only where the plan is actually decided there |
+| **Co-decision** | To determine an outcome | **Participatory budgeting** over a defined budget share; **Gram Sabha** approval functions under **PESA** in Fifth Schedule areas | ⚠️ Participatory budgeting in India remains **pilot-scale**, not a universal municipal practice |
+| **Co-production** | To produce the outcome jointly | Community monitoring, user/water-user groups, SHG-mediated delivery (see `04`), social audit (see `08`) | Shifts labour to citizens; needs facilitation and must not become unpaid substitution |
+| **Delegated control** | To run the service | Community-managed schemes and user committees | Requires capacity, finance and an accountability route of its own |
+
+⚠️ **The paradox worth stating:** India's most **institutionalised** participation
+instruments — pre-legislative consultation and MyGov — sit on the **weakest** rungs, while
+its most genuinely co-decisional instrument — participatory budgeting — remains the least
+institutionalised. That single observation answers a large family of stems.
+
+### 13.5 Causal chain — why decisions drift upward, and what it costs
+
+```text
+ADMINISTRATIVE CONVENIENCE   one design is simpler to run than 700 local variants
+        v
+CAPACITY ARGUMENT            local technical capability is genuinely uneven
+        v                    (real, and also a self-fulfilling justification: capacity
+                              is never built because authority is never given)
+POLITICAL-CONTROL INCENTIVE  discretionary allocation carries political credit
+        v
+INFORMATION LOSS IN TRANSMISSION
+        v                    local report -> block -> district -> State -> Union;
+                             filtered, delayed, aggregated at every step
+DECISION TAKEN WITHOUT CURRENT LOCAL INFORMATION
+        v
+OUTCOME MISMATCH             standard design unsuited to terrain or social structure |
+        v                    wrong sequencing against local execution capacity |
+                             arrives too late to be useful
+DEVELOPMENT OBJECTIVE DEFEATED — even where funding was adequate
+   CORRECTION: genuine co-decision authority at the lowest capable level, with
+   capacity investment and safeguards against local capture
+```
+
+### 13.6 Deliberation design — what makes participation real (use for novel mechanisms)
+
+1. **Authority** — is the forum deciding, or advising on a decision already made?
+2. **Timing** — is it consulted before options are foreclosed, or after?
+3. **Information** — do participants have the budget, the options and the trade-offs in
+   usable form and language?
+4. **Inclusion** — who is *absent*? Women, landless households, migrants, persons with
+   disabilities, and the poorest are the systematically absent categories.
+5. **Facilitation** — is there an independent facilitator, or does the implementing agency
+   run its own consultation?
+6. **Record and response** — are objections recorded, and is a **reasoned response**
+   published? A consultation with no response matrix cannot be distinguished from a formality.
+7. **Feedback loop** — does the participant learn what happened to their input?
+8. **In conflict settings specifically** — is there a recognised representative body, an
+   agreed factual basis, and a route to a binding outcome? Deliberation without a route to
+   decision converts a dispute into a grievance.
+
+⚠️ **Demand a consultation feedback matrix** in any recommendation: stakeholder category ·
+issue raised · government response · accepted or rejected with reasons · resulting change to
+the draft · unresolved distributional effect.
+
+### 13.7 Counter-argument and trade-off bank
+
+- ⚠️ **Elite capture:** the standard and strongest objection to "always decentralise".
+  Correctives: reservation and rotation, independent facilitation, disclosure of proceedings,
+  quorum requirements, separate forums for excluded groups, and social audit.
+- ⚠️ **Legitimate centralisation:** economies of scale (large infrastructure),
+  inter-regional equity (redistributive transfers), technical capacity (epidemiology,
+  structural engineering), and rights that must not vary locally (non-discrimination). Name
+  these before criticising centralisation, or the answer reads as advocacy.
+- ⚠️ **Participation vs speed:** deliberation costs time, and some decisions — outbreak
+  response, disaster relief — cannot wait. The answer is differentiated design, not uniform
+  participation.
+- ⚠️ **Participation fatigue and burden:** attending meetings costs wages and time; the
+  poorest bear the highest relative cost of participating, which is itself a source of
+  selection bias in who participates.
+- ⚠️ **Majoritarian deliberation vs minority rights:** a Gram Sabha can decide against a
+  minority within the village. Participation is not a substitute for rights protection.
+- ⚠️ **Consultation as legitimation:** the most common real-world failure — a comment window
+  that manufactures consent for a decision already taken.
+
+### 13.8 Stakeholder and last-mile variation
+
+- **Gram Sabha member:** holds a statutory forum whose effectiveness depends on whether the
+  Panchayat's plan is genuinely decided there.
+- **Woman participant:** attendance, speaking time and proxy participation are three
+  different things; measure the third.
+- **Landless or migrant household:** frequently absent from the electoral roll basis of the
+  forum, and therefore invisible to it.
+- **Scheduled-Area community:** additionally covered by **PESA**, with Gram Sabha powers not
+  available elsewhere — and with consultation, not consent, before land acquisition.
+- **Ward committee (urban):** Art 243S requires them in municipalities with a population of
+  **three lakh or more**, with State law determining composition — the urban participation
+  gap is structural, not incidental.
+- **Implementing official:** experiences participation as delay unless it reduces later
+  resistance — which is the practical argument for it.
+- **Civil-society facilitator:** often the reason a forum functions at all (see `04`).
+
+### 13.9 Verdict scaffolds
+
+- **2025-pattern stem:** "The failure is informational before it is democratic: decisions
+  taken far from the source of information and the point of execution misdiagnose need and
+  arrive mis-sequenced — and no increase in funding corrects a decision taken on the wrong
+  facts."
+- **Participation-quality stem:** "India has institutionalised the forms of participation and
+  not its substance: meetings are held, quorums are recorded, and the decision was taken
+  elsewhere."
+- **Balanced stem:** "Subsidiarity is a principle of the **appropriate** level, not of the
+  lowest level: the case against over-centralisation is strong, and the case for local
+  decision-making must still meet the capacity and equity tests."
+- **Novel-mechanism stem:** run §13.6; a mechanism that fails the authority and inclusion
+  tests is consultation theatre whatever it is called.
+
+### 13.10 Factual and current-status controls
+
+- ✅ Safe: subsidiarity as the appropriate-level principle; the Pre-Legislative Consultation
+  Policy of **2014** as an **executive policy** with an ordinary minimum comment period of
+  about 30 days and stated exceptions; MyGov as the Government of India's citizen-engagement
+  and crowdsourcing platform; Gram Sabha as the assembly of all registered voters in a
+  Panchayat area; **Art 243S** requiring Ward Committees in municipalities with a population
+  of three lakh or more, with State law determining composition; participatory budgeting as a
+  **pilot-scale** Indian practice; PESA's consultation requirement in Fifth Schedule areas.
+- ❌ **Do not assert:** a list of participatory-budgeting cities or wards; MyGov user or
+  campaign counts; Gram Sabha attendance or meeting-frequency statistics; the number of
+  functioning ward committees; a percentage of consultations that changed a draft; any
+  named consultation's outcome.
+- ⚠️ **Pilots change.** Specific participatory-budgeting initiatives start and stop; the
+  durable fact is that the practice remains limited in scale in India, not which city runs it.
+- ⚠️ Gram Sabha's **constitutional composition and mandate** detail is Polity-owned; the 3Fs
+  and local-body capacity belong to `12`. This file owns **participation quality** — cross-link
+  rather than duplicate.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

@@ -108,6 +108,11 @@ substantive outcomes in education, livelihood and social inclusion.
 - ⚠️ The TMA Pai Foundation case (2002) and subsequent judgments clarify the scope of
   Art 30 rights for minority educational institutions — see Polity for doctrinal detail.
 
+- ✅ **Sachar Committee (2006):** supplied a named evidence base on Muslim deficits in
+  education, formal employment, credit and public representation. Its significance is
+  the shift from communal rhetoric to measurable capability gaps; its limitation is
+  that the findings require updating and vary by region, class and gender.
+
 ## 6. Must-Know Facts for Prelims
 
 - ✅ NCM is a statutory body under the National Commission for Minorities Act, 1992; it
@@ -198,6 +203,22 @@ substantive outcomes in education, livelihood and social inclusion.
 - ⚠️ **Mains (15 marks):** "Minority welfare requires both protective rights and
   developmental support." Discuss with reference to the constitutional framework and
   government schemes in India.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+- **Constitution:** Articles 25-30; Articles 350A/350B on mother-tongue instruction and
+  the Special Officer for Linguistic Minorities.
+- **Institutions:** NCM monitors notified minorities; the NCMEI Act, 2004 supplies a
+  specialised minority-education route. Neither replaces courts or equality guarantees.
+- **Evidence:** Sachar Committee is a named diagnosis of Muslim socio-economic and
+  public-employment deficits; retain its date and avoid universalising it.
+
+**10 marks:** right, institution and 2-3 gaps. **15 marks:** religious/linguistic rights,
+education, livelihoods, representation and discrimination. **20 marks:** cultural
+autonomy, substantive equality, regional variation and common citizenship.
+
+> **Reasoned verdict:** Minority protection strengthens citizenship when cultural
+> autonomy is paired with capability and non-discrimination.
 
 ## 12. Study links
 

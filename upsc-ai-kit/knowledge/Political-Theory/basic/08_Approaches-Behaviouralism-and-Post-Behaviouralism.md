@@ -91,7 +91,7 @@
 
 ## 10. Cross-links and boundaries
 
-- ⚠️ Read `Political-Theory/advanced/08_Approaches-Behaviouralism-and-Post-Behaviouralism.md` for the full model-by-model treatment of Easton, Almond, Deutsch, decision-making and Marxian analysis.
+- ✅ Sections 13-19 of this file already reconstruct the eight behavioural tenets and all five analytical models (Easton, Almond, Deutsch, decision-making, Marxian) with claim→evidence→significance→limit; use `Political-Theory/advanced/08_Approaches-Behaviouralism-and-Post-Behaviouralism.md` only for further comparative depth and extra answer-engine prompts, not as a requirement for full marks.
 - ⚠️ Read `Political-Theory/basic/07_Nature-of-Politics-and-Communitarianism.md` first if the nature of politics itself is unclear.
 - ⚠️ Use `Political-Theory/00_Master-Framework.md` for the module-wide theory/science decode engine.
 - ⚠️ Use `Political-Theory/README.md` for the topic map and tag policy.
@@ -112,4 +112,113 @@
 - ✅ Traditional-approach anchor pages: PDF pp.113-117.
 - ✅ Behavioural anchor pages: PDF pp.118-121.
 - ✅ Post-behavioural anchor pages: PDF pp.121-122.
-- ⚠️ This basic file intentionally compresses the later models; the advanced companion expands them.
+- ✅ This basic file reconstructs behaviouralism's eight tenets and all five analytical models (systems, structural-functional, communications/cybernetic, decision-making, Marxian) directly, so it is independently sufficient for full-mark answers; the advanced companion adds further comparative depth and answer-engine prompts.
+
+---
+
+## 13. Behaviouralism's eight commonly taught tenets (provenance caution)
+
+- ⚠️ These eight "tenets"/"intellectual foundation stones" are commonly attributed, via Gauba's exposition, to **David Easton**'s account of behaviouralism (echoing Easton's own 1969 listing). Treat the list below as a widely used pedagogical summary rather than a verbatim quotation of any single sentence:
+  1. **Regularities** — political behaviour shows uniformities expressible as generalisations/theories.
+  2. **Verification** — those generalisations must be testable against relevant, observable behaviour.
+  3. **Techniques** — rigorous tools and methods (surveys, statistics, sampling) are used to acquire and interpret data.
+  4. **Quantification** — precision through measurement and quantification wherever the data meaningfully allow it.
+  5. **Values** — an analytic separation is drawn between empirical explanation and ethical evaluation (value-neutrality as method, not indifference).
+  6. **Systematization** — research and theory are interdependent; data collection is guided by, and in turn refines, theory.
+  7. **Pure science** — understanding and explanation of political behaviour is treated as logically prior to its application in solving urgent social problems.
+  8. **Integration** — political science should integrate with, and borrow from, the other social sciences.
+- ⚠️ Exam use: naming these eight in order and pairing two or three with a one-line illustration (e.g. quantification → voting-behaviour surveys; integration → borrowing psychology for leadership studies) earns more marks than a vague "behaviouralism is scientific" line.
+
+## 14. Post-behaviouralism: relevance and action
+
+- ✅ Post-behaviouralism, associated with Easton's own self-correction, retains the scientific gains of behaviouralism (rigour, verification, technique) but adds two demands: **relevance** — political science must address urgent public problems (war, poverty, discrimination, injustice) rather than only tractable micro-questions — and **action** — intellectuals bear responsibility to apply knowledge for social betterment, not merely to accumulate value-neutral findings. (PDF pp.121-122)
+- ⚠️ Post-behaviouralism is a corrective *within* science, not a licence for unexamined activism; relevance still requires disciplined evidence, or it collapses back into the untested moralism political science was trying to escape.
+
+## 15. The five analytical models (direct reconstruction)
+
+1. **David Easton — systems analysis**
+   - **Claim:** the political system is best understood as an open system embedded in a wider social environment, processing **inputs** (demands and supports from citizens/groups) through a **conversion process** (legislatures, parties, bureaucracy) into **outputs** (policies, decisions), which generate **feedback** that reshapes future demands and supports.
+   - **Evidence/mechanism:** stability is explained by the system's capacity to convert demands into outputs faster than demands accumulate, and by supports (loyalty, legitimacy, taxes, compliance) that keep the conversion process running.
+   - **Significance:** allows comparison across very different polities using one common vocabulary (inputs/outputs/feedback), and foregrounds system persistence and adaptation.
+   - **Limit:** criticised as too static/equilibrium-biased; weak at explaining the internal distribution of power, ideology, or discontinuous change such as revolution, and thin on why particular actors win particular conflicts.
+
+2. **Gabriel Almond — structural-functional approach**
+   - **Claim:** every political system, regardless of its formal constitution, must perform certain universal **functions** (political socialization and recruitment, interest articulation, interest aggregation, rule-making, rule-application, rule-adjudication, and communication); these functions can be performed by different **structures** in different systems (e.g. interest articulation via parties in one system, via kinship or patron-client networks in another).
+   - **Evidence/mechanism:** comparing systems by function rather than by formal institutional labels lets scholars compare, say, a parliamentary democracy and a traditional chiefdom on the same functional grid.
+   - **Significance:** widened comparative politics beyond formal constitutions to informal structures, especially useful for newly independent/developing polities whose formal institutions may not match Western templates.
+   - **Limit:** functionalism's assumption that systems tend toward equilibrium risks a conservative bias (downplaying conflict and structural change), and in practice often measured non-Western systems against a Western liberal-democratic benchmark despite the framework's own claim to be structure-neutral.
+
+3. **Karl Deutsch — communication/cybernetic approach**
+   - **Claim:** government functions like a **steering mechanism**, and politics can be modelled on cybernetics (the science of communication and control) — decision-making depends on the flow of information through communication channels, with feedback loops correcting the system's course toward its goals.
+   - **Evidence/mechanism:** concepts such as information "load," "lag," "gain" and "lead" describe how efficiently a political system receives, processes and acts on information about the gap between its goals and its actual performance.
+   - **Significance:** foregrounds learning, error-correction and adaptive capacity in political systems, useful for analysing bureaucratic responsiveness and policy feedback.
+   - **Limit:** the mechanistic/engineering metaphor understates power, ideology and class conflict, and is not well suited to explaining revolution, resource allocation battles or the use of violence.
+
+4. **Decision-making approach**
+   - **Claim:** political outcomes are best explained by identifying the **decision-makers**, the **alternatives** before them, and the **information, values and organisational setting** that shape which alternative is chosen — attention shifts from abstract "the state decided" to the actual unit and process of choice.
+   - **Evidence/mechanism:** decision-making frameworks (e.g. those used in foreign-policy analysis) break a decision into stages — problem recognition, search for alternatives, evaluation, choice, and implementation — and examine the internal organisational context of the deciding body.
+   - **Significance:** useful for tracing why one policy alternative rather than another was actually chosen, spotlighting individuals and institutions as choosers rather than treating outcomes as automatic system outputs.
+   - **Limit:** can become narrowly focused on the moment of decision, losing sight of long-term structural forces (class, economy, ideology) that pre-shape which alternatives even reach the table; risks elite bias by concentrating only on visible decision-makers.
+
+5. **Marxian approach**
+   - **Claim:** politics has no autonomous existence; political institutions and ideas form part of a **superstructure** resting on, and reproducing, the economic **base**/mode of production and its class relations — the state, in class society, is an instrument of the dominant class.
+   - **Evidence/mechanism:** analysis of who owns and controls the means of production is used to explain apparently neutral political institutions (law, bureaucracy, even ideology) as expressions of underlying class interest.
+   - **Significance:** exposes hidden class interests behind formally neutral institutions and connects political analysis directly to economic structure.
+   - **Limit:** reductionist — denies political institutions and ideas any independent causal weight of their own; struggles to explain variation among different capitalist states with similar economic structures but very different politics; its historical predictions about revolutionary transition remain contested and should be treated as book-period theoretical claims, not settled fact. (PDF pp.133-134, per the advanced companion's reconstruction)
+
+## 16. Comparing the five models and their limitations
+
+| Model | Core unit of analysis | Main strength | Main limitation |
+|---|---|---|---|
+| Systems (Easton) | Inputs-conversion-outputs-feedback | Cross-system comparison; explains persistence/stability | Weak on power distribution and revolutionary change |
+| Structural-functional (Almond) | Functions performed by variable structures | Compares formal and informal/traditional structures | Conservative/equilibrium bias; implicit Western benchmark |
+| Communications/cybernetic (Deutsch) | Information flow and feedback | Explains learning, adaptation, error-correction | Understates power, ideology, class conflict |
+| Decision-making | Decision-makers, alternatives, choice process | Explains specific policy choices | Narrow focus; elite bias; misses structural forces |
+| Marxian | Economic base and class relations | Exposes hidden class interest in institutions | Reductionist; weak on inter-capitalist variation |
+
+- ⚠️ Exam framing: no single model is "correct" — Gauba's own comparative stance (echoed in §8 above for the traditional/behavioural/post-behavioural clusters) extends here: each model highlights different variables (stability, function, communication, choice, or class) and is chosen according to the question asked, not treated as a universal master key.
+
+## 17. Two objection–reply chains
+
+1. **Objection:** behavioural political science's value-neutrality claim makes it complicit in ignoring urgent injustice, since choosing what to study/ignore is itself a value-laden act.
+   **Reply:** post-behaviouralism (Easton) does not abandon science in response; it insists that knowledge must be made relevant and put to responsible use while retaining verification and rigour — "action" is added to, not substituted for, evidence standards. (PDF pp.121-122)
+
+2. **Objection:** structural-functionalism's claim to be structure-neutral is not honoured in practice — comparative studies routinely measure non-Western/developing polities against an implicit Western liberal-democratic template and label divergence as "underdevelopment."
+   **Reply:** defenders reply that the framework's functional categories (interest articulation, aggregation, rule-making, etc.) are, by design, meant to be filled by any structure — formal parties or informal kinship/patron-client networks alike — so the bias is a failure of *application*, not of the model's own logic; critics maintain the correction is inconsistently applied in comparative practice. ⚠️ Present both sides; do not resolve the debate as settled.
+
+## 18. Cautious Indian application
+
+- ⚠️ The decision-making approach can be used to analyse how an Indian policy choice (e.g. a Cabinet or Cabinet Committee decision) moves from problem recognition to implementation, without asserting unverified specifics of any particular real decision unless independently confirmed.
+- ⚠️ The structural-functional approach can compare India's formal parliamentary structures with informal interest-articulation channels (caste associations, kinship networks, local patron-client ties) performing the same function in different areas — cite this as a *type* of comparison, not with unverified statistics.
+- ⚠️ The systems model can be used to trace how a sustained public demand (e.g. a farmers' agitation) moves through the input-conversion-output-feedback cycle into policy — use as a conceptual illustration, not as a claim about any specific outcome unless separately verified.
+
+## 19. Executable answer architecture (10/15/20 marks)
+
+### Directive decoding
+- "Discuss behaviouralism as an approach to political analysis" → requires definition + the eight tenets (at least several named) + a limitation, not a one-line description.
+- "Explain any one model of political analysis" → single-model directive: give claim, mechanism, significance and limitation for that one model only; do not pad with unrelated models.
+- "Compare/Distinguish [any two models]" → comparison directive: use the comparison table logic (unit of analysis, strength, limitation) explicitly for both named models.
+
+### 10-mark architecture (~150 words)
+1. Thesis: political inquiry has moved from traditional/normative approaches to a scientific, and then a value-conscious, contemporary approach.
+2. Body: name behaviouralism's core aim + 2-3 of the eight tenets, or reconstruct one analytical model with claim→evidence→significance.
+3. One limitation.
+4. One-line conclusion.
+
+### 15-mark architecture (~200-250 words)
+1. Thesis + directive decoding.
+2. Doctrine reconstruction: method vs approach → empirical vs normative → traditional approaches in one line → behaviouralism's eight tenets (name at least four) → post-behaviouralism's relevance/action correction.
+3. Reconstruct one analytical model in full (claim→evidence→significance→limit).
+4. One objection-reply chain.
+5. Reasoned conclusion.
+
+### 20-mark architecture (~250-300 words)
+1. Thesis + directive decoding.
+2. Full doctrine reconstruction: method/approach, empirical/normative, traditional approaches, behaviouralism's eight tenets, post-behaviouralism.
+3. Reconstruct at least two analytical models (e.g. Easton's systems model and Almond's structural-functional approach, or Deutsch's cybernetic model and the Marxian approach) with claim→evidence→significance→limit each, plus the comparison table's logic.
+4. Two objection-reply chains (value-neutrality objection; structural-functional Western-benchmark objection).
+5. Cautious Indian application (one example, correctly hedged).
+6. Graded conclusion on why political science needs both scientific rigour and relevance/value-consciousness.
+
+### Quotation/proposition method
+- Prefer named propositions over unverified verbatim quotations, e.g. *"Easton's proposition that political science should integrate scientific rigour with relevance and action"* rather than an exact quoted sentence, unless independently verified.

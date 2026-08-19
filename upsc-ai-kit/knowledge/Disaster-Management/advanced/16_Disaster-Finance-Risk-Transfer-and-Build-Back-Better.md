@@ -50,11 +50,13 @@ funding architecture (SDRF, NDRF-the-fund, NCCD financing) is
 statutorily established and operational, while at the time of writing
 the *mitigation* architecture was only a **recommendation** (2019
 Standing Committee, PDF p. 15). 📰 The correct current formulation is
-sharper and more defensible: the mitigation window now exists and
-disburses — MHA reported HLC approvals from the NDMF in FY 2025-26 of
-₹2,444.42 crore (Urban Flood Risk Management Programme Phase II),
-₹692.05 crore (Assam wetland restoration) and ₹507.37 crore (a PRI-based
-DRR project) on 11 February 2026 — but it remains **capped at 20%**, is
+sharper and more defensible: the mitigation window now exists and has
+sanctioned projects — dated MHA parliamentary records list
+₹2,444.42 crore for Urban Flood Risk Management Programme Phase II
+(February 2026 replies) and ₹519.04 crore for restoration and
+rejuvenation of 24 Assam wetlands (Lok Sabha reply, 2 December 2025).
+These are approvals, not disbursement/completion or avoided-loss
+evidence. The window remains **capped at 20%**, is
 **project-approval-dependent** (each release needs High Level Committee
 sanction under s. 47) rather than formula-driven like SDRF, and is
 **one-way sealed**: FC16 permits flexibility within SDRF between relief
@@ -160,16 +162,15 @@ mitigation fund at all.
   as needing expanded assistance scales, a separate mitigation fund, and
   a larger corpus — meaning fund *existence* had already been judged
   insufficient by an official parliamentary committee.
-- 📰 **The notified-disaster boundary is itself a governance gap.**
-  Central assistance is confined to 12 notified disasters; FC16 recorded
-  (1 February 2026) that **11 States had notified heat wave** and **16
-  States lightning** as State-specific disasters, and recommended their
-  national inclusion. ⚠️ Until such a notification is made, two of
-  India's most lethal recurring hazards are financed only from the 10%
-  local-disaster window of a State's own SDRF — an advanced answer can
-  cite this as a concrete instance of hazard coverage lagging observed
-  mortality, and of a Finance Commission *recommendation* being wrongly
-  reported as an accomplished change.
+- 📰 **The notified-disaster boundary has changed and must be dated.**
+  MHA's current response-fund page, retrieved **15 August 2026**, lists
+  **heatwave and lightning** within a national **14-disaster** SDRF
+  list. FC16's 1 February 2026 record of 11 State heat-wave and 16 State
+  lightning notifications is historical context, and its recommendation
+  must not be reported as the notification itself. ⚠️ National listing
+  corrects an assistance-eligibility boundary; it does not demonstrate
+  adequate prevention, warning reach, cooling access or outcome
+  improvement.
 - ⚠️ **Transparent damage/loss assessment as an underlying accountability
   requirement**: neither SDRF/NDRF financing nor CDRI's risk-financing
   tools can function accountably without standardised, transparent
@@ -219,9 +220,10 @@ mitigation fund at all.
   FC15's SDMF/NDMF windows and the commencement of s. 47(1) on 5 February
   2021. The live critique is the 20% cap and the approval-dependent
   release mechanism, not the fund's non-existence.
-- ❌ Do not state separate FC16 figures for NDRF and NDMF — the
-  Commission recommended a combined ₹79,406 crore national pool and did
-  not split it.
+- ❌ Do not state invented fixed FC16 corpora or expenditure for NDRF and
+  NDMF. MHA's current response-fund page describes a **75% NDRF /
+  maximum 25% NDMF allocation rule** within the combined ₹79,406-crore
+  national pool; it is not a project-level utilisation statement.
 
 ## 11. PYQ-based analytical application
 

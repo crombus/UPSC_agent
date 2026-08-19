@@ -151,7 +151,123 @@ equality further qualified by fraternity
 - ✅ Minimum needs must be secured before desert-based differences are justified (Gauba, PDF pp.444-445).
 - ⚠️ One-line answer spine: justice means fair rules plus fair social purpose, with liberty, equality and fraternity arranged as a just order rather than recited as separate ideals.
 
-## 12. Sources, metadata and tags
+## 12. Aristotle: distributive and corrective justice (named evidence unit)
+
+| Aristotelian category | Core claim | Significance | Limit to name alongside it |
+|---|---|---|---|
+| ⚠️ Distributive justice | Allocates goods, honours and offices among members of a community in **geometric proportion** to a relevant standard (e.g., merit, contribution, need), so equals receive equal shares and unequals receive proportionally unequal shares. | ⚠️ Gives the classical root of Gauba's own "fair allocation of benefits and burdens" framing (Section 3; PDF pp.432-433) and supplies the vocabulary for later merit/need/desert debates (Section 14). | ⚠️ Aristotle leaves the *relevant standard* (which quality should govern proportion — merit, birth, need) contestable rather than fixed, which is exactly why modern theories disagree over what should count. |
+| ⚠️ Corrective (rectificatory) justice | Restores **arithmetic equality** after a wrong in a specific transaction — voluntary (contract, exchange) or involuntary (theft, injury, fraud) — by removing the wrongdoer's unjust gain and the victim's unjust loss, irrespective of the parties' relative merit or social standing. | ⚠️ Supplies the conceptual root of ordinary legal/civil remedies (restitution, compensation) and shows justice operating independently of distributive proportion in transactional disputes. | ⚠️ Corrective justice restores a prior balance between two parties; it does not by itself address whether that prior distribution was fair in the first place — that question belongs to distributive justice. |
+| ⚠️ Relation between the two | Distributive justice governs how a community allocates shares in the first place; corrective justice governs how wrongs within specific transactions are put right afterward. | ⚠️ A complete justice answer should show both are needed: distributive justice sets a fair starting allocation, corrective justice maintains fairness in transactions that follow. | ⚠️ Do not conflate the two: a legal remedy that restores a transaction (corrective) does not itself fix an unfair underlying distribution (distributive) — this file's procedural/substantive distinction (Section 5) tracks a related but not identical line. |
+
+## 13. Procedural-justice positions: Hayek, Friedman and Nozick (with Nozick's entitlement theory)
+
+| Thinker | Procedural-justice position | Significance | Limit to name alongside it |
+|---|---|---|---|
+| ⚠️ F.A. Hayek | Argues that "justice" or "injustice" properly describes only individual conduct within known rules, not the overall pattern of outcomes thrown up by a spontaneous market order; since no single agent "distributes" the outcome of a decentralized market process, calling the resulting pattern itself "just" or "unjust" is, on Hayek's view, a category mistake. | ⚠️ Gives the strongest procedural-only position: fairness lies entirely in impartial rule-following, not in evaluating the resulting pattern. | ❌ This does not mean Hayek is indifferent to rules themselves being fair/impartial — his claim is narrower: it targets *pattern-evaluation*, not the *rules* that generate the pattern. |
+| ⚠️ Milton Friedman | Treats voluntary market exchange under freedom of contract as itself the fair procedure; if an exchange is uncoerced, its outcome is procedurally legitimate regardless of the resulting inequality. | ⚠️ Connects procedural justice directly to Section 4/Macpherson's target — the "fair race" analogy already used in Section 5. | ❌ Gauba's own Macpherson-based objection (Section 4, point 7; PDF pp.442-445) applies directly here: background inequality can make "voluntary" exchange substantively coercive for the weaker party, which Friedman's procedural criterion does not register. |
+| ✅ Robert Nozick | Defends an **entitlement theory** of justice built on three principles: (i) **justice in acquisition** — a holding is just if first acquired without violating others' legitimate prior claims; (ii) **justice in transfer** — a holding is just if it passed from a justly-held position through voluntary exchange, gift or bequest; (iii) **justice in rectification** — where a holding traces to a violation of (i) or (ii), correction of that original injustice is required regardless of how voluntary later transfers were (companion detail: `Political-Theory/basic/18_Liberty-Equality-and-Property.md`, Section 14). Whatever distribution results from repeated application of (i)-(ii), with (iii) applied wherever needed, is just — irrespective of the resulting pattern. | ✅ The purest procedural theory among the three: justice is entirely historical/procedural (how a holding came about), not patterned (what the resulting distribution looks like). | ❌ "Nozick's theory blesses any current distribution because transfers were voluntary." -> ✅ The rectification principle (iii) means an unrectified historically unjust holding remains unjust on Nozick's own terms, so his theory is not an unconditional endorsement of the status quo (see also Topic 18, Section 14). |
+
+## 14. Distributive criteria: merit, need and desert
+
+| Criterion | What it rewards | Which theory leans on it | Caution |
+|---|---|---|---|
+| ⚠️ Merit | Demonstrated ability, achievement or performance (e.g., examination rank, productivity). | ⚠️ Aristotle's proportional-allocation logic (Section 12) and liberal/procedural theories (Section 13) most readily use merit as the "relevant standard." | ⚠️ Pure merit-based allocation can ignore unequal starting conditions that shape who is able to demonstrate merit in the first place — this is exactly the substantive-justice worry in Section 4/point 7. |
+| ⚠️ Need | Basic requirements for a decent life (subsistence, health, education) regardless of contribution or ability. | ✅ Gauba's own conclusion that minimum needs must be secured before desert-based differences are defended (PDF pp.444-445) is a need-first position. | ⚠️ A need-only criterion, taken to an extreme, risks removing incentive for productive contribution — most social-democratic positions (Laski-type, per Topic 17/18) therefore combine need with a floor-and-ceiling approach rather than need alone. |
+| ⚠️ Desert | Moral entitlement earned through effort, sacrifice or voluntary contribution, distinct from raw ability (merit) or bare requirement (need). | ⚠️ Desert-based reasoning underlies everyday objections to "unearned" reward and grounds much popular resistance to pure need-based or pure luck-based allocation. | ⚠️ Desert claims are hardest to verify impartially (how much of "effort" is itself shaped by unchosen circumstance), which is part of why Rawls (Section 15) treats desert with caution rather than making it foundational. |
+| ⚠️ Exam use | A strong answer names which criterion a given policy or theory is actually using, rather than treating "fairness" as one undifferentiated idea. | | ⚠️ Most real distributive schemes (e.g., progressive taxation plus targeted welfare, already in Topic 18 Section 4/point 6) blend need (floor) with merit/desert (differential reward above the floor). |
+
+## 15. Rawls: procedural-substantive bridge (cross-link, not duplicated here)
+
+- ✅ Gauba already notes Rawls as a critic of utilitarianism who tries to accommodate substantive concerns within a procedural framework (PDF pp.434-435, 443).
+- ⚠️ The exam-relevant bridge point (stated here only in outline, not developed): Rawls uses a fair **procedure** — reasoning from an "original position" behind a "veil of ignorance" about one's own future place in society — to derive principles that are substantively redistributive in effect (equal basic liberties, then fair equality of opportunity, then the difference principle permitting inequality only if it benefits the least advantaged). This is why Rawls is often read as *reconciling* procedural and substantive justice rather than choosing one side.
+- ❌ Do not duplicate the full original-position/veil-of-ignorance/difference-principle architecture in this file. -> ✅ Use the answer-complete `Political-Theory/basic/20_Diverse-Perspectives-on-Justice.md`; its Advanced companion is optional enrichment. This file's job is only to flag the bridge so that Sections 5 and 14 are not read as forcing a strict procedural/substantive either-or.
+
+## 16. Feminist, capability and recognition links (cautious cross-links)
+
+- ⚠️ **Feminist link:** distributive-justice frameworks built around individual "holdings" or "positions" can overlook unpaid domestic/care labour and the gendered division of household work that shapes who can compete for merit-based rewards in the first place; the full theoretical treatment of this critique belongs to `Political-Theory/basic/06_Feminism-Sex-and-Gender.md`, and is named here only to flag its relevance to justice.
+- ⚠️ **Capability link:** an approach associated with Amartya Sen and Martha Nussbaum reframes the object of justice from resources/goods alone to real, substantive **freedoms/capabilities** a person can actually exercise (e.g., two people with identical income may have very different real capability to be healthy or educated); this refines rather than replaces this file's procedural/substantive distinction (Section 4/point 7) and is developed further in `Political-Theory/basic/20_Diverse-Perspectives-on-Justice.md` and Economy-track material, not here.
+- ⚠️ **Recognition link:** a distinct dimension associated with Nancy Fraser argues some injustices are matters of cultural **misrecognition** (status harm, stigma, disrespect) rather than only economic maldistribution, and that a full justice framework needs both redistribution and recognition remedies together; this file names the distinction only as a boundary marker for where distributive-justice analysis needs a companion recognition-based analysis, without developing Fraser's framework in full here.
+- ❌ Do not treat feminist/capability/recognition perspectives as fully resolved inside this conceptual file. -> ✅ They are flagged as necessary companion lenses; full development belongs to the Feminism file and to Topic 20's diverse-perspectives treatment.
+
+## 17. Objection and reply chains
+
+- **Objection 1:** Aristotle's distributive/corrective distinction is too old and abstract to help with modern policy debates.
+  **Reply:** ⚠️ The distinction still does real analytical work — it separates "was the initial allocation fair" (distributive) from "was this specific wrong put right" (corrective) questions that modern debates (e.g., taxation/allocation policy vs civil/criminal remedy) continue to keep analytically separate (Section 12).
+- **Objection 2:** Nozick's procedural entitlement theory, by focusing only on acquisition and transfer, effectively locks in whatever inequality currently exists.
+  **Reply:** ✅/⚠️ The rectification principle answers this directly (Section 13): any holding traceable to an unjust acquisition or transfer remains open to correction under Nozick's own framework; the theory is historical rather than status-quo-protecting, though critics reasonably note that establishing the *historical facts* needed to trigger rectification can be practically very difficult.
+- **Objection 3:** A pure procedural-justice standard (Hayek/Friedman) is sufficient because it treats everyone by the same impartial rule.
+  **Reply:** ✅ Gauba's own Macpherson-based rejoinder (Section 4, point 7; PDF pp.442-445) shows that impartial rules operating inside deep background inequality can still leave the weaker party trapped, so procedural fairness needs a substantive check — precisely the reasoning that makes Rawls's procedural-substantive bridge (Section 15) attractive to many theorists.
+
+## 18. Indian applied structure (cautious, non-Polity)
+
+- ⚠️ Reservation policy and progressive taxation (already used as equality examples in Topic 18, Section 7) can be read through this file's distributive-criteria lens (Section 14): reservation targets a need/corrective-of-past-disadvantage logic, while progressive taxation blends a need-based floor with a merit/desert-based differential above it.
+- ⚠️ Judicial compensation and restitution remedies illustrate Aristotle's corrective-justice category (Section 12) applied to a modern legal-institutional setting, without reproducing case law or statutory detail here.
+- ❌ Do not extend this file into constitutional Article detail, reservation case law or current welfare-scheme specifics. -> ✅ Its role is to show how the classical/procedural/distributive-criteria apparatus (Sections 12-14) applies cautiously to Indian illustrations, leaving statutory and policy detail to Polity/Economy/Social-Justice tracks (already flagged in Section 10).
+
+## 19. Directive decoder and qualified-thesis templates
+
+| Directive word | What the examiner expects | How to open this topic's answer |
+|---|---|---|
+| Examine | Break justice into its dimensions/criteria and weigh them. | Open with legal/political/socio-economic dimensions (Section 8), then examine distributive criteria (Section 14). |
+| Discuss | Rounded movement from definition to theory to critique to a reasoned position. | Define -> Aristotle (Section 12) -> procedural positions (Section 13) -> substantive correction -> qualified synthesis. |
+| Critically analyse/evaluate | State thesis, run an explicit objection-reply, end with a qualified judgement. | Use Section 17's objection-reply chains directly; never end on a flat claim. |
+| Elucidate | Explain with illustration; lighter critique load acceptable. | Define, illustrate with the Indian applied structure (Section 18), light critique only. |
+| Distinguish | Use a direct comparison structure. | Use the procedural-vs-substantive table (Section 5) or the merit/need/desert table (Section 14). |
+
+- ⚠️ **10-mark qualified-thesis template:** "Justice is best read as [fair allocation under scarcity, Gauba PDF pp.432-433], but a purely procedural reading is incomplete because [named limit — Macpherson/Section 4 point 7], though [named counter-qualification, e.g., Hayek's pattern/rule distinction]."
+- ⚠️ **15-mark qualified-thesis template:** as above, plus one named distributive criterion (merit/need/desert, Section 14) and one explicit objection-reply pair (Section 17) before the conclusion.
+- ⚠️ **20-mark qualified-thesis template:** as above, plus Aristotle's distributive/corrective distinction (Section 12), the Rawls bridge flag (Section 15), and one cautious Indian illustration (Section 18), ending with a qualified synthesis.
+
+## 20. Argument architecture: premises -> mechanism -> conclusion
+
+**Central debate used as the model:** is procedural fairness sufficient for justice, or must substantive/distributive outcomes also be assessed?
+
+- **P1:** ✅ Justice concerns fair allocation of benefits and burdens under scarcity in an open society (Gauba, PDF pp.432-433).
+- **P2:** ⚠️ Procedural theories (Hayek's rule-only standard, Friedman's voluntary-exchange standard, Nozick's acquisition-transfer-rectification standard, Section 13) hold that a fair *process*, correctly followed, is what justice requires, independent of the resulting pattern.
+- **P3:** ✅ Gauba's own Macpherson-based argument shows that impartial rules operating inside deep background inequality can still trap the weaker party in sub-human conditions, so an outcome can be procedurally clean yet substantively unjust (PDF pp.442-445).
+- **Mechanism:** ⚠️ P1 defines justice by its allocative purpose; P2 supplies a test (fair process) for judging allocation; P3 shows that satisfying P2's test does not guarantee P1's purpose is actually achieved when background inequality is severe — so procedural fairness is a necessary but not sufficient condition for justice, and a further substantive/minimum-needs check (Gauba's own conclusion, PDF pp.444-445) is required.
+- **Conclusion (qualified):** ⚠️ Justice needs both a fair procedure (to avoid arbitrary or force/fraud-based allocation, per Hayek/Friedman/Nozick's own internal limit of rectification) and a substantive floor secured before desert-based differences are defended (Gauba's own conclusion) — collapsing the debate into "procedure alone" or "outcome alone" understates how the two checks work together, and is the same reconciling logic that makes Rawls's bridge (Section 15) attractive.
+
+## 21. Executable answer architecture (10/15/20-mark blueprints)
+
+> ⚠️ Word/mark convention follows the standard PSIR-optional pattern (10 marks/~150 words, 15 marks/~200 words, 20 marks/~250 words); stated here as an analytical scaffold, not a book-sourced fact.
+
+- **10-mark/~150 words:** Define justice (fair allocation under scarcity) -> name one classical/procedural position (Aristotle or Nozick) -> one named limit -> one-line qualified conclusion.
+- **15-mark/~200 words:** Define -> Aristotle's distributive/corrective pair (Section 12) -> one procedural position and its limit (Section 13) -> one objection-reply pair (Section 17) -> qualified conclusion.
+- **20-mark/~250 words:** Define -> Aristotle (Section 12) -> procedural positions (Section 13) -> merit/need/desert (Section 14) -> Rawls bridge flag (Section 15) -> one cautious Indian illustration (Section 18) -> qualified synthesis mirroring Section 20.
+
+### Quotation/proposition micro-method (five moves, for quotation- and statement-based stems)
+
+> ⚠️ Local implementation of `Political-Theory/00_Master-Framework.md` §5D, tuned to this file's
+> justice vocabulary. Justice stems are very often propositions ("justice is giving each his due";
+> "justice delayed is justice denied"; "social justice is a mirage") rather than questions.
+
+| # | Move | What to do here |
+|---|---|---|
+| 1 | **Identify the proposition and the concept** | Restate the line as one testable claim, then name which dimension it invokes — legal, political, socio-economic (Section 8) — and which axis it is contesting: justice *according to law* vs law *according to justice*, or procedural vs substantive/distributive (Section 5). |
+| 2 | **Reconstruct the strongest argument for it** | Build the best version as premises → mechanism → conclusion (Section 20). For a procedural line: P1 no one can know the "right" pattern of shares in advance; P2 impartial general rules are the only non-arbitrary allocation device available; C justice consists in rule-following, not in outcome-matching. Argue against the strongest form, not a caricature. |
+| 3 | **Test the counterargument and the conditions** | Use Gauba's Macpherson-based point as the standing counter-set — impartial rules operating inside deep background inequality can leave the weaker party trapped, so an outcome can be procedurally clean yet substantively unjust (PDF pp.442-445) — then run the necessary-vs-sufficient check: procedural fairness is necessary but not sufficient. Name the conditions under which the proposition would hold (e.g. approximate equality of bargaining power). |
+| 4 | **Apply named evidence** | Attach at least one named unit from Sections 12-16 (Aristotle's distributive vs corrective justice; Hayek's rule-only standard; Friedman's voluntary-exchange standard; Nozick's acquisition-transfer-**rectification** trio; the merit/need/desert criteria; the Rawls bridge cross-referenced to `Political-Theory/basic/20_Diverse-Perspectives-on-Justice.md`), and mark the cross-referenced ones as such. |
+| 5 | **Give a graded verdict** | Land on "holds / holds only under stated conditions / fails as stated", mirroring Section 20's conclusion that justice needs both a fair procedure and a substantive floor. Never end on "procedure and outcome both matter" without saying how they are ordered. |
+
+- ❌ **Never treat an unverified quotation as verbatim.** No sentence in this file is a direct
+  quotation from Aristotle, Hayek, Friedman, Nozick, Macpherson or Gauba; every reconstruction is
+  paraphrase. Do **not** invent a book, edition, year, page or line reference to authenticate an
+  unfamiliar line supplied by a stem — including for classical sources, where translation wording
+  varies widely between editions.
+- ⚠️ **Three safe registers:** attribution and wording both verified → name the work and quote
+  exactly; attribution reliable but wording not → "the position associated with X is that …" (no
+  quotation marks); attribution itself uncertain → "the line is popularly attributed to X; its
+  provenance is not independently verified here — taken on its own terms it claims …", then argue
+  the doctrine. Safe technical nomenclature usable as quoted vocabulary because it is standard
+  terminology, not disputed quotation: "distributive justice", "corrective/rectificatory justice",
+  "procedural justice", "entitlement theory", "justice in acquisition/transfer/rectification".
+- ⚠️ **Architecture link:** at 10 marks run moves 1 → 2 → 5 with one named position and its limit;
+  at 15 marks add move 3 as a full objection-reply (Section 17); at 20 marks run all five moves,
+  adding the merit/need/desert criteria (Section 14) and one cautious Indian illustration
+  (Section 18) before the graded verdict.
+
+## 22. Sources, metadata and tags
 
 - ✅ Main direct-book anchors used here: conceptual framing at PDF pp.432-438; legal/political/socio-economic justice at PDF pp.439-442; procedural/substantive debate at PDF pp.442-445.
 - ✅ Companion file: `Political-Theory/advanced/19_Justice-Concepts-and-Dimensions.md`.

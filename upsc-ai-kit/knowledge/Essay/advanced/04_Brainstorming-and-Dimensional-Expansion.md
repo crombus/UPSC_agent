@@ -5,8 +5,10 @@
 > **Core area:** Disciplined dimension-generation using scale,
 > time, domain and distributional axes together; detecting and pruning
 > false expansion.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Section 5.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Section 5.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../basic/04_Brainstorming-and-Dimensional-Expansion.md`

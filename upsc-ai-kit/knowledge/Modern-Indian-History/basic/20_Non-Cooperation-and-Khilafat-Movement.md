@@ -83,6 +83,127 @@
 - ⚠️ GS-1: Evaluate Non-Cooperation as the first real mass movement of the Indian national struggle.
 - ⚠️ GS-1: Discuss the Khilafat-NCM alliance as both a moment of Hindu-Muslim unity and a fragile political experiment.
 - ⚠️ GS-1: Was Gandhi's withdrawal after Chauri Chaura a strategic necessity or a lost opportunity? Examine.
+
+## 8. Answer architecture (10/15/20-mark support)
+
+> Purpose: this owner carries several routed demands — the Non-Cooperation programme and its stages, the Eka movement and Bardoli, the Chauri Chaura aftermath and the "sedition" statement. Each is answered substantively below, with the mis-routed item explicitly corrected rather than silently repeated.
+
+### 8.1 Demand and directive map
+
+| Demand family | Typical directive signals | Answer spine to use |
+|---|---|---|
+| Movement evaluation | "Evaluate Non-Cooperation as the first mass movement" | Scale and spread → organisational change → achievements → limits → verdict |
+| Programme analysis | "Components and stages of Non-Cooperation" | Negative (boycott) → constructive → escalation ladder → what was never reached |
+| Unity assessment | "Khilafat–NCM as Hindu-Muslim unity" | Basis of alliance → depth achieved → structural fragility → aftermath |
+| Withdrawal controversy | "Necessity or lost opportunity?" | Gandhi's reasoning → critics' case → conditions on the ground → reasoned verdict |
+| Popular initiative | "Did the masses follow Gandhi or their own agenda?" | Congress programme → local movements → divergence → significance |
+| Agrarian dimension | "Peasant movements during the NCM years" | Grievance → organisation → relation to Congress → repression |
+
+### 8.2 Qualified thesis options
+
+- **Organisational-revolution thesis:** *Non-Cooperation's most durable achievement was not the boycott but the Nagpur reorganisation, which converted the Congress from an annual conference of notables into a permanent, linguistically organised, low-subscription mass organisation capable of running a national campaign.*
+- **Two-movements thesis:** *What is called the Non-Cooperation Movement was in practice several movements — an urban boycott, a Khilafat mobilisation, and a series of autonomous agrarian and tribal risings — which shared an enemy and an idiom but not a programme or a discipline.*
+- **Withdrawal-as-strategy thesis:** *Gandhi's withdrawal is defensible on his own premises and on organisational grounds — an undisciplined movement would have invited annihilating repression — but its cost was real: the alliance with the Khilafat leadership never recovered and a generation of activists turned to other methods.*
+- **Ceiling thesis:** *The movement demonstrated that mass mobilisation was possible and that it could not, by itself, coerce a state willing to wait; the programme's later stages — mass civil disobedience and tax refusal — were the untested part on which everything depended.*
+
+### 8.3 Mark-scaled structure
+
+| Marks | Recommended architecture | Evidence load |
+|---:|---|---|
+| 10 | Thesis → programme → two achievements → withdrawal → verdict | 3 dated units |
+| 15 | Thesis → Khilafat basis → programme and stages → spread and popular initiative → withdrawal → verdict | 5–6 units including one agrarian movement |
+| 20 | Thesis → causes → programme → Congress reorganisation → regional and agrarian movements → Chauri Chaura and withdrawal → consequences → graded verdict | 6–8 units across urban, agrarian and organisational evidence |
+
+### 8.4 Bank A — Programme and stages (routed demand)
+
+| Stage | Content | Status |
+|---|---|---|
+| ✅ Stage 1 — renunciation | Surrender of titles and honorary offices | Implemented |
+| ✅ Stage 2 — boycott of institutions | Schools and colleges, law courts, legislative councils, official functions | Implemented, unevenly |
+| ✅ Stage 3 — economic boycott | Foreign cloth and goods; picketing of liquor shops | Implemented, most effectively |
+| ✅ Stage 4 — constructive programme | Khadi, charkha, swadeshi, national education, panchayats, Hindu–Muslim unity, temperance | Implemented and durable |
+| ✅ Stage 5 — mass civil disobedience and refusal of taxes | To be launched selectively; ✅ Gandhi announced that **mass civil disobedience would begin in Bardoli taluqa of Surat district**, with the rest of the country maintaining discipline so that attention could concentrate there | **Never launched** — pre-empted by Chauri Chaura |
+
+- **Analytical use:** the escalation ladder is the answer to "what were the stages" and simultaneously the answer to "why did it not succeed" — the movement was withdrawn at exactly the point where it would have moved from symbolic to fiscal confrontation.
+- ✅ **National institutions founded in the boycott phase:** Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith — the constructive programme's most permanent products.
+
+**Boycott or construction — which mattered more? (for the "which was more consequential" demand)**
+
+| | ✅ Boycott programme | ✅ Constructive programme |
+|---|---|---|
+| Immediate effect | Visible, mass, nationwide; withdrawal of titles, students from schools, lawyers from courts, voters from councils | Slower, quieter, cumulative |
+| Reversibility | ⚠️ **High** — students returned to schools, lawyers to practice and politicians to councils within two years; the Swarajists formally reversed the council boycott in **1923** (`basic/21`) | ⚠️ **Low** — the institutions and the cadre survived |
+| What survived to 1930 | The *technique* of boycott, ready to be redeployed | ✅ **Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith, Bihar Vidyapith**; khadi and charkha networks; a body of full-time village workers |
+| Political function | Demonstrated withdrawal of consent — the movement's argument to the state | Built the organisation and personnel that made a second national campaign possible |
+| Weakness | Costly to sustain; the burden fell on those who could least afford it | Politically quietist; did not by itself confront colonial authority |
+
+- ⚠️ **The defensible verdict:** the boycott was the more spectacular and the constructive programme the more consequential, because boycott is by nature a temporary act while the constructive programme created durable institutions, a trained cadre and a continuous rural presence — precisely the assets the Swadeshi movement had lacked (`basic/15`) and precisely what the Congress deployed in 1930 (`basic/22`).
+- ⚠️ **Caution:** do not quantify the constructive programme. Numbers of national schools, khadi output or volunteers are not attested in this repository's sources; argue from the named institutions and from the durability contrast instead.
+
+### 8.5 Bank B — Organisational transformation
+
+- **Claim:** Nagpur made the Congress capable of mass politics.
+- **Evidence:** ✅ Non-Cooperation was adopted at the **Calcutta Special Session (September 1920)** and ratified at **Nagpur (December 1920)**, which reorganised the Congress with **linguistic provincial committees**, an AICC, a stronger **Working Committee** and a **low membership fee**.
+- **Significance:** Linguistic provincial committees aligned the party with the units in which Indians actually spoke and organised; the low fee opened membership beyond the professional classes. Both decisions structure Indian politics to this day.
+- **Limit/caution:** Organisational capacity is not the same as social reach; the new structure was strongest in towns and among the middle peasantry.
+
+### 8.6 Bank C — Popular initiative beyond the Congress programme
+
+**The Eka (Unity) movement in the United Provinces (routed demand)**
+- **Evidence:** ✅ The movement grew under the name of **Eka, or unity**. Its grievances were the extraction of a rent **generally fifty per cent higher than the recorded rent**, the oppression of **thekedars** to whom rent-collection was farmed out, and the practice of **share-rents**. ✅ Eka meetings were marked by a religious ritual in which a hole representing the Ganges was dug and filled with water and a priest presided, while assembled peasants vowed that they would **pay only the recorded rent but pay it on time, would not leave when ejected, would refuse forced labour, would give no help to criminals and would abide by panchayat decisions**. ✅ The movement developed its own grassroots leadership in **Madari Pasi** and other low-caste leaders who were not inclined to accept the discipline of non-violence urged by Congress and Khilafat leaders, so its contact with the nationalists diminished and it went its own way. ✅ Unlike the earlier Kisan Sabha movement, which rested almost solely on tenants, Eka **included many small zamindars** disenchanted with the government's heavy land-revenue demand. ✅ By **March 1922** severe official repression brought it to an end.
+- **Significance:** Eka is the single best evidence unit for the "popular initiative" argument — it shows peasants adopting the vocabulary and moral form of the national movement while rejecting its leadership and its discipline, and it shows a cross-class agrarian coalition that Congress had not designed.
+- **Limit/caution:** Do not describe Eka as a Congress movement; its defining feature is autonomy from Congress control.
+
+**Eka contrasted with Bardoli (the routed comparison demand):**
+
+| | ✅ Eka movement (UP, 1921–22) | ✅ Bardoli Satyagraha (Surat district, 1928) |
+|---|---|---|
+| Relation to Congress | Grew out of Congress–Khilafat contact but developed its **own low-caste grassroots leadership under Madari Pasi**, resisted the non-violence discipline urged by Congress and Khilafat leaders, and its **contact with the nationalists diminished** | A **Congress-organised, tightly disciplined** no-tax satyagraha directed by **Vallabhbhai Patel**, whom the **women of Bardoli** honoured with the title **Sardar** |
+| Social composition | Tenants **plus many small zamindars** aggrieved by heavy land revenue | Chiefly the taluqa's peasant proprietors, mobilised village by village |
+| Grievance | Rent **50 per cent above the recorded rent**, oppression by **thekedars**, share-rents | Enhancement of the land-revenue assessment by the government |
+| Organisation | Oath-taking mass meetings with a Ganges ritual; no central machinery | ✅ Taluqa divided into **thirteen workers' camps (*chhavanis*)**, **100 political workers** and about **1,500 volunteers**, a publications bureau issuing the daily ***Bardoli Satyagraha Patrika***, and an intelligence wing tracking *jabti* (confiscation) moves and wavering peasants |
+| Outcome | Ended by **severe repression, March 1922** | A disciplined campaign that became the model of organised Congress satyagraha (fuller treatment in `basic/23`) |
+
+> **Analytical point:** the contrast is not peasant militancy versus moderation but **autonomy versus organisation** — Eka shows agrarian mobilisation escaping national direction, Bardoli shows it being harnessed to it. ✅ Note also the chronological link: mass civil disobedience was announced for Bardoli in 1922 and the taluqa "was destined to wait another six years" before it launched its no-tax movement.
+
+**Related agrarian and regional currents to name:** ✅ the **UP Kisan Sabha** movement associated at the grassroots with **Baba Ramchandra**, and the **Mappila rebellion in Malabar from August 1921**, whose grievances concerned lack of security of tenure, renewal fees, high rents and other landlord exactions, with impetus from the **Malabar District Congress Conference at Manjeri in April 1920**. ⚠️ Use Malabar as the case where local mobilisation escaped the national frame entirely and acquired a communal character, which damaged the Khilafat–Congress alliance.
+
+### 8.7 Bank D — Chauri Chaura and the withdrawal
+
+- **Evidence:** ✅ On **5 February 1922** members of a Congress and Khilafat procession at **Chauri Chaura in Gorakhpur district, United Provinces**, irritated by police behaviour, attacked the police; the police opened fire; the procession then attacked the police station, set it on fire, and **twenty-two policemen were killed**. ✅ Gandhi decided to withdraw the movement and persuaded the **Congress Working Committee to ratify the decision on 12 February 1922** — the resolution known as the **Bardoli resolution**, because it was passed where mass civil disobedience was to have begun. ✅ Gandhi was arrested in **March 1922** and sentenced to six years.
+- **Significance:** The naming of the withdrawal resolution after Bardoli captures the whole controversy in one fact: the same meeting that was to authorise escalation instead ordered retreat.
+- **Limit/caution:** ✅ The decision "raised a controversy" that historians still contest — present the debate. Gandhi withdrew because of the violence, **not** because the movement was weak; and Bardoli itself **waited another six years** before it launched a no-tax movement (the 1928 Bardoli Satyagraha under Vallabhbhai Patel — see `basic/23`).
+
+**Consequences to name:** ⚠️ the Swarajist–No-changer split over council entry (`basic/21`), the drift of younger activists toward revolutionary and later socialist politics (`basic/21`), and the erosion of the Khilafat alliance, completed when **Mustafa Kemal abolished the Caliphate in 1924**.
+
+### 8.8 Bank E — Routed demands requiring correction or bounding
+
+| Routed demand | Correct handling |
+|---|---|
+| **"Sedition has become my religion"** | ⚠️ **Corrected placement.** The statement is Gandhi's, and the repository's source material places it at the launch of the **Second Civil Disobedience Movement**, begun with the **Dandi March on 12 March 1930**, when Gandhi walked with **78 chosen followers** from **Sabarmati Ashram to Dandi** — declaring that British rule had brought moral, material, cultural and spiritual ruin, that he regarded it as a curse, that he was out to destroy that system of government, and that "sedition has become my religion. Ours is a non-violent battle." It therefore belongs analytically to **`basic/22`**, not to the 1920–22 movement; answer it there and cross-reference. Do not associate the statement with Non-Cooperation or with the 1922 trial. |
+| **Legal defence of those arrested after Chauri Chaura** | ⚠️ **Unresolved locally.** No source book held in this repository records who led the legal defence of the Chauri Chaura accused, and the relevant official key is not held locally. Do not attribute the defence to any named leader without verified evidence. What *is* verified and usable is the incident, the death toll of twenty-two policemen, the withdrawal decision and the Bardoli resolution. |
+
+### 8.9 Counter-evidence, balance and variation
+
+- **Achievements to concede:** the first genuinely all-India mass mobilisation; a reorganised Congress; a durable constructive programme and national educational institutions; unprecedented Hindu–Muslim political cooperation.
+- **Limits to state:** boycott of councils and schools was partial and reversible; the movement did not reach the fifth stage; and the alliance rested on an issue (the Caliphate) that was decided outside India and disappeared by 1924.
+- **Variation:** urban boycott, middle-peasant participation in Gujarat and UP, tribal and forest-rights mobilisation, plantation labour movements and the distinct Malabar trajectory — one label covers very different movements.
+- ⚠️ Avoid presenting the withdrawal as either obviously right or obviously wrong; the marks lie in stating the criteria of judgement.
+
+### 8.10 Verdict scaffolds
+
+- **Evaluation verdict:** "Non-Cooperation failed to win swaraj in a year and succeeded in making swaraj a demand that millions had personally acted on — which is why the Congress that emerged in 1922 was stronger than the movement that had just been called off."
+- **Unity verdict:** "Khilafat produced the deepest Hindu–Muslim political cooperation of the colonial period on the narrowest possible foundation — an issue that neither community controlled and that history removed within two years."
+- **Withdrawal verdict:** "Judged by Gandhi's premises the withdrawal was obligatory; judged by momentum it was costly; judged by what followed, it preserved an organisation that could fight again in 1930."
+
+### 8.11 Factual-risk cautions
+
+- Calcutta Special Session = **September 1920**; Nagpur = **December 1920**; Chauri Chaura = **5 February 1922**; withdrawal = **12 February 1922**; Gandhi's arrest = **March 1922**; Caliphate abolished = **1924**.
+- Chauri Chaura is in **Gorakhpur district, United Provinces** — not Punjab, not Bihar.
+- The **twenty-two** police deaths and the **fifty per cent** rent excess in the Eka areas are the figures attested in the repository's sources; do not substitute others.
+- The fifth stage — mass civil disobedience and tax refusal — was **announced for Bardoli and never launched** in 1922.
+- Do not attribute "Sedition has become my religion" to the Non-Cooperation period; it belongs to **1930**.
+- Do not describe the Khilafat movement as a Hindu movement or as purely religious; it was a political mobilisation on a religious question.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

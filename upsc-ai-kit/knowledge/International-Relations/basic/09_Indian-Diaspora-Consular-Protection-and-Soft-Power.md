@@ -61,6 +61,7 @@ countries rather than as a foreign-policy lever to be directed.
 | ✅ **Soft power (Tharoor)** | ✅ Tharoor lists "Bollywood cinema, books and music, educational opportunities, health care..., sporting exchanges, tourism and cultural schemes," alongside Ayurveda and yoga, and "the transformed image of the country created by its thriving diaspora," as the components of India's soft power. |
 | ✅ **"Now-Required-Indians"** | ✅ Tharoor's reframing of "NRIs" — arguing India lacks "a policy to channel [diaspora] enthusiasm... and resources to the promotion of India's image," and that with such a policy NRIs could become "Now-Required-Indians." |
 | ⚠️ **Cultural diplomacy via ITEC** | ✅ per the Economic Survey 2025-26, ITEC "has been an important tool in strengthening India's cultural diplomacy and influence, especially in the South Asian region," alongside its technical-training function. |
+| ✅ **Vienna Convention on Consular Relations (1963)** | Article 36 anchors communication and access when a foreign national is detained: authorities must inform the person of the right to contact the consulate and facilitate consular communication. ⚠️ It is a reciprocal treaty right and procedural safeguard, not an unlimited power to override host-country law or secure release. |
 
 ## 3. How the diaspora-diplomacy mechanism works
 
@@ -139,6 +140,40 @@ countries rather than as a foreign-policy lever to be directed.
   direct consequences for which consular and soft-power instruments matter most.
   Economy owns the macroeconomic mechanics; this folder treats the diplomatic
   and cultural-bridge role.
+
+### Political influence and diplomatic liability
+
+- ✅ **Descriptive representation:** Indian-origin public figures have held
+  prominent elected offices in developed democracies, including Kamala Harris
+  as US Vice-President (2021-25) and Rishi Sunak as UK Prime Minister
+  (2022-24).
+  **Significance:** representation can improve familiarity, networks and the
+  visibility of India-related issues.
+  **Limitation:** office-holders act under host-country mandates and cannot be
+  treated as agents of India.
+- ✅ **US Congress:** the 119th Congress included six Indian-American House
+  members. Their presence supplies access and issue advocacy, but party,
+  constituency and committee incentives shape positions more than ancestry
+  alone.
+- ✅ **Civil nuclear agreement advocacy:** scholarship on the 2005-08
+  India-US civil-nuclear initiative identifies Indian-American organisations
+  as contributors to coalition-building with US business and strategic
+  constituencies.
+  **Significance:** diaspora influence works through networks and alliances,
+  not only votes.
+  **Limitation:** advocacy contributed to but did not independently determine
+  Congressional approval.
+- ⚠️ **Security-friction case:** US proceedings concerning the alleged
+  murder-for-hire plot against a US citizen created bilateral strain and
+  prompted an Indian high-level inquiry.
+  **Significance:** diaspora-linked separatism or security disputes can turn a
+  community connection into a sovereignty, law-enforcement and trust problem.
+  **Limitation:** distinguish allegations, charges, pleas and final judicial
+  findings; do not generalise from an individual case to a diaspora.
+- ⚠️ **Answer balance:** diaspora is an asset when welfare protection,
+  integration, credibility and network mobilisation reinforce each other; it
+  becomes a liability when domestic polarisation, host-country law or
+  securitised identity politics overwhelms those gains.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -251,6 +286,26 @@ countries rather than as a foreign-policy lever to be directed.
   representation of national identity." Discuss with reference to India's
   cultural diplomacy.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+The **2020 and 2023 GS-II diaspora in America/Europe/West** demands are owned here,
+superseding `advanced/09`.
+
+- **Mechanism:** diaspora stock/profile -> remittances, knowledge and networks ->
+  political advocacy/soft power -> consular protection -> host-country and domestic limits.
+- **Evidence:** Gulf labour migration, skilled US/Europe communities, remittance-source
+  shift, OCI/Pravasi institutions, evacuation operations and cultural diplomacy.
+- **Balance:** diaspora influence can aid bilateral ties, but communities are internally
+  diverse, host-country citizens have independent politics and overseas vulnerability
+  creates protection obligations.
+
+**10 marks:** economic and political contribution plus examples. **15 marks:** compare
+Gulf and Western profiles, consular tools and limits. **20 marks:** migration regimes,
+brain circulation, remittances, lobbying, identity, labour rights and crisis evacuation.
+
+> **Reasoned verdict:** Diaspora is an external-capability multiplier only when India
+> avoids instrumentalising citizens abroad and pairs engagement with credible protection.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md`.
@@ -262,3 +317,26 @@ countries rather than as a foreign-policy lever to be directed.
   `Disaster-Management/basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`
   and international cooperation to
   `Disaster-Management/basic/18_Governance-Capacity-and-International-Cooperation.md`.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2020, 2023
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-II | 10 | Indian diaspora in the politics and economy of America and Europe | Comment with examples · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 10 | Indian diaspora in the West and its economic and political benefits | Describe · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Indian diaspora in the politics and economy of America and Europe
+- Indian diaspora in the West and its economic and political benefits
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

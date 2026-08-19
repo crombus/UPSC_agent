@@ -141,6 +141,40 @@ Gnostic being / Life Divine = transformation of earthly existence
 - Yet it does not possess the total integrating unity of the Supermind. ✅
 - Overmind distributes truth into plural powers; Supermind integrates them in indivisible truth. ⚠️
 
+### 2.8A The three poises of the Supermind ⚠️
+
+> ⚠️ Terminology note: “comprehending,” “apprehending,” and “projecting/individualising” is one standard presentation. Naming and numbering vary; for UPSC, preserve the substance. ⚠️
+
+| Poise | What it does | Philosophical significance |
+|---|---|---|
+| **1. Comprehending / transcendent poise** | The Supermind holds all things in undivided unity; the many are present but not yet stationed as separate centres. | The Divine is aware of itself as the sole existence containing all. ✅ |
+| **2. Apprehending / creative poise** | A subject-object distinction is projected **within** unity; the Divine stands back as knower and puts forth the cosmos as known. | This is the poise of cosmic Puruṣa or Īśvara; distinction appears without loss of unity. ⚠️ |
+| **3. Projecting / individualising poise** | Consciousness stands **in** each individual centre and knows from that standpoint. | Individuality is real, but separateness arises only in the further descent below Supermind into Overmind and Mind. ⚠️ |
+
+- **Argumentative payoff:** the three poises explain how the One becomes many without either an unreal illusion or a real fragmentation of the Absolute. ⚠️
+- **Multiplicity is a real self-modification of consciousness, not a false appearance and not a diminution.** ✅
+- Supermind therefore preserves both non-duality and the reality of the world-process. ⚠️
+
+### 2.8B Full gradation of planes: Supermind and Overmind distinguished ✅
+
+| Level / plane | Status in Aurobindo | UPSC caution |
+|---|---|---|
+| **Saccidānanda** | Absolute Existence-Consciousness-Bliss | Ultimate reality, not a finite plane among planes. ✅ |
+| **Supermind** | Undivided Truth-Consciousness; unity and multiplicity held by knowledge by identity | Alone possesses integral truth; not mind raised to its maximum. ✅ |
+| **Overmind** | Plane of cosmic gods, vast powers and separated divine aspects | Unity first breaks into independently self-existent powers; last plane before ignorance becomes possible. ✅ |
+| **Intuitive Mind** | Direct flashes of truth above discursive reason | Still below supramental totality. ⚠️ |
+| **Illumined Mind** | Luminous spiritual seeing and inspiration | Light is abundant, but integral truth is not yet native. ⚠️ |
+| **Higher Mind** | Large ideative spiritual consciousness above ordinary thought | Still works through broad ideas. ⚠️ |
+| **Mind** | Separative, analytical, representational consciousness | Source of ordinary ignorance and error. ✅ |
+| **Life** | Vital force, desire, dynamism, impulse | Consciousness more veiled than in mind. ✅ |
+| **Matter** | Densest self-concealment of Spirit | Spirit in self-oblivion, not anti-spiritual. ✅ |
+| **Inconscient** | Bottom term of concealment | Consciousness hidden, not absolutely absent. ✅ |
+
+- **Ascending line:** Inconscient → Matter → Life → Mind → Higher Mind → Illumined Mind → Intuitive Mind → Overmind → Supermind → Saccidānanda. ✅
+- **Crucial distinction:** Overmind can give cosmic universality and liberated vastness, but it distributes truth into independent powers; Supermind alone is indivisible truth-consciousness. ✅
+- Previous spiritual attainments may reach liberation or Overmind-like universality, but not the supramental transformation of terrestrial nature. ⚠️
+- The supramental descent, not merely an overmental illumination, is required to transform mind, life and body. ✅
+
 ### 2.9 Metaphysical significance
 - The Supermind makes world-process intelligible. ✅
 - It preserves transcendence without world-negation. ⚠️
@@ -156,6 +190,51 @@ Gnostic being / Life Divine = transformation of earthly existence
 
 ### 2.11 One-line examiner's definition
 - ✅ **The Supermind is Aurobindo's Truth-Consciousness or Real-Idea, an ontological principle between Saccidānanda and mind that explains how unity becomes multiplicity without illusion.**
+
+## 2A. KNOWLEDGE BY IDENTITY AND KNOWLEDGE BY SEPARATION ✅
+
+### 2A.1 Why epistemology is central
+- Aurobindo's Supermind is not only a metaphysical bridge; it is also a distinct **mode of knowing**. ✅
+- The contrast between **knowledge by identity** and **knowledge by separation** explains why ordinary mind cannot complete evolution and why Integral Yoga requires supramental descent. ✅
+- Ignorance is not merely lack of information but a wrong mode of consciousness. ⚠️
+
+### 2A.2 Aurobindo's graded scheme of knowledge ⚠️
+
+> ⚠️ Aurobindo's exact enumeration and naming vary across his presentations. Present this as a **graded scheme**, not as a rigid canonical fourfold list. ⚠️
+
+| Grade | Meaning | Level / example |
+|---|---|---|
+| **1. Knowledge by identity** | Knower and known are one; Spirit knows itself directly, without subject-object separation. | Native to Saccidānanda and Supermind. ✅ |
+| **2. Knowledge by intimate direct contact** | Separation is present but bridged; the knower enters into or inwardly touches the object. | Higher spiritual or intuitive contact. ⚠️ |
+| **3. Knowledge by separative direct contact** | Direct contact remains, but from outside and through separation. | Sense-perception as direct but external. ⚠️ |
+| **4. Wholly separative indirect knowledge** | Ordinary mental knowing by signs, symbols, images, inference and concepts; it represents but does not possess the thing. | Discursive intellect and empirical representation. ✅ |
+
+### 2A.3 The philosophical point, argued
+1. Ordinary mind is constitutively **separative**: it divides, analyses, and sets subject over against object. ✅
+2. Therefore mind can never possess the thing itself; it can only represent, classify, compare, infer and construct images of it. ⚠️
+3. Mental knowledge is partial, mediated and liable to error. ✅
+4. This epistemic limitation is the correlate of metaphysical ignorance (**avidyā**) produced by involution. ⚠️
+5. Supermind is **truth-consciousness** (**vijñāna / ṛta-cit**): it knows by being, because consciousness and existence are not divided there. ✅
+6. Aurobindo's transformation is therefore not the accumulation of more mental knowledge but a **change in the mode of knowing**. ✅
+7. This is why Integral Yoga seeks a supramental **descent**, not merely a mental **ascent** to refined concepts. ✅
+
+### 2A.4 Not mysticism-as-blank ineffability
+- Knowledge by identity is not a blank trance in which all distinctions disappear into silence. ⚠️
+- It is **self-luminous, determinate and comprehensive**: it knows the many **as** the One and the One **as** the many. ✅
+- Mind cannot do this, because it either stresses unity by suppressing multiplicity or stresses multiplicity by losing unity. ⚠️
+- This is why Aurobindo can affirm the world instead of dissolving it. ✅
+
+### 2A.5 Objections and replies
+| Objection | Aurobindo's reply | Residual force |
+|---|---|---|
+| **If knower and known are identical, knowledge collapses into mere being.** | Saccidānanda contains **cit-śakti**: consciousness is inherently self-aware force, so self-knowledge is intrinsic to being and needs no external object. The mind's assumption that knowledge requires duality is a limitation of the mental mode. ✅ | This is the classic difficulty about self-luminous consciousness, also faced by Advaita's **svayaṃ-prakāśa** doctrine. ⚠️ |
+| **Empiricist / positivist objection:** this is unverifiable by any public method. | Aurobindo presents yoga as a repeatable inner discipline, not as dogma. ⚠️ | This relocates rather than removes the verification problem, because the method is not public in the ordinary scientific sense. ⚠️ |
+| **Conceptual objection:** Supermind and truth-consciousness sound metaphorical. | The terms name modes of experience and being within the systematic metaphysics of involution and evolution. ⚠️ | The vocabulary remains hard to translate into analytic criteria of truth. ⚠️ |
+
+### 2A.6 Examiner payoff
+- For a **Supermind** answer: ordinary mind knows by separation; Supermind knows by identity. ✅
+- For an **Integral Yoga** answer: yoga is needed because the mode of knowing must change, not merely the content known. ✅
+- For a **critically examine** answer: the doctrine has explanatory power inside Aurobindo's system but faces intersubjective verification problems. ⚠️
 
 ## 3. INVOLUTION ✅
 
@@ -289,6 +368,30 @@ Gnostic being / Life Divine = transformation of earthly existence
 4. Only on this basis can higher spiritual influx be safely assimilated. ⚠️
 5. Therefore the awakening of the psychic being is the first step in conscious evolution. ✅
 
+### 4.10A Ātman, jīvātman, caitya puruṣa and the ego ✅
+
+| Term | Status | Evolves? | Function in Aurobindo | Not to be confused with |
+|---|---|---:|---|---|
+| **Ātman / Self** | Eternal, unborn, immutable Spirit identical with Saccidānanda | No | Universal Self, never bound or altered by evolution. ✅ | Surface personality or psychological ego. ✅ |
+| **Jīvātman / central being** | Individual Self, a centre or portion of the Divine standing above manifestation | No | Presides over the individual's whole line of births without itself descending into change. ⚠️ | The evolving psychic being. ✅ |
+| **Caitya puruṣa / psychic being** (*chaitya purusha* in ASCII) | Evolving soul-personality formed around the divine spark (**caitya**) | Yes | Gathers the essence of experience through successive lives; comes forward in **psychicisation** and turns the being toward the Divine. ✅ | Sāṃkhya puruṣa or surface ego. ✅ |
+| **Ego / surface personality** | Functional construction of mind-life-body | Changes, but is not the true being | Organises ordinary practical identity through desire, memory, habit and self-assertion. ⚠️ | A real spiritual individual. ✅ |
+| **Inner Puruṣa and Prakṛti** | Witness consciousness and nature-force at physical, vital and mental levels | Puruṣa witnesses; Prakṛti acts | Aurobindo redeploys the Sāṃkhya instrument psychologically without accepting ultimate dualism. ⚠️ | Final metaphysical dualism. ✅ |
+
+- The psychic being is **the delegate of the jīvātman in the evolution**. ⚠️
+- Its emergence to the front, or **psychicisation**, is the decisive turn in Integral Yoga because it replaces egoic guidance with soul-guidance. ✅
+- The surface ego is not a real spiritual being; it is a provisional knot of mental, vital and physical nature. ⚠️
+- The inner Puruṣa may stand back as witness at each level, but Aurobindo does not make Puruṣa and Prakṛti two independent ultimates. ✅
+
+#### Philosophical payoff
+- This triple distinction lets Aurobindo hold together: (i) the Advaitic truth that the Self is eternally free, (ii) the Sāṃkhya-Yogic truth that individual centres are real, and (iii) the evolutionary truth that something in the individual genuinely grows. ⚠️
+- Without the distinction, an evolving soul would contradict an immutable Self. ⚠️
+
+#### Objection and reply
+- **Objection:** Aurobindo multiplies entities; why not speak of one self only? ⚠️
+- **Reply:** the functions are different: immutable witness, unevolving individual centre and evolving experiential soul-personality cannot be discharged by one term without contradiction. ⚠️
+- **Residual worry:** the scheme can appear stipulative unless one accepts Aurobindo's yogic psychology as evidence. ⚠️
+
 ### 4.11 Evolution and terrestrial destiny
 - Aurobindo's thought is not content with private mystical states. ✅
 - Its full horizon is the transformation of earthly life and collectivity. ✅
@@ -296,6 +399,32 @@ Gnostic being / Life Divine = transformation of earthly existence
 
 ### 4.12 Capsule definition
 - ✅ **Evolution in Aurobindo is the teleological re-emergence of the involved Spirit from Matter through Life and Mind toward Supermind, issuing finally in the gnostic being and the Life Divine.**
+
+## 4A. PRESUPPOSITIONS OF INVOLUTION AND EVOLUTION ⚠️
+
+### 4A.1 The load-bearing assumptions
+| # | Presupposition | What it means | What collapses if denied |
+|---:|---|---|---|
+| 1 | **Reality is one and is Saccidānanda** | There is one Divine existence-consciousness-bliss behind the whole process. ✅ | There is nothing single to involve itself and nothing divine to evolve; the system breaks into pluralism or materialism. ⚠️ |
+| 2 | **Nothing can emerge that was not already involved** | “No output without input”: life, mind and spirit must be latent in Matter if they later appear. ✅ | Evolution becomes either brute materialist accident or unexplained miracle. ⚠️ |
+| 3 | **Consciousness is not produced by matter** | Matter is consciousness self-concealed; the Inconscient is total self-oblivion, not absolute absence. ✅ | Aurobindo's evolution collapses into emergent materialism. ⚠️ |
+| 4 | **The Absolute is dynamic, not static** | **Cit** is inseparable from **cit-śakti**; consciousness is also force. ✅ | A purely static Absolute could neither involve nor evolve; this is Aurobindo's objection to a strictly nirguṇa reading of Advaita. ⚠️ |
+| 5 | **Involution is ontological/logical, not chronological** | As §3.6 notes, involution is a condition of manifestation, not a dated cosmic fall. ✅ | The doctrine degenerates into mythic history and becomes vulnerable to irrelevant empirical objections. ⚠️ |
+| 6 | **The world-process is teleological** | Evolution is directional, aiming at manifestation of the Divine in Matter. ✅ | The process becomes blind, and the move from Matter to Supermind loses necessity. ⚠️ |
+| 7 | **Terrestrial life is a fit field for divine manifestation** | Earthly life, body and society can be transformed rather than renounced. ✅ | Integral Yoga loses its anti-ascetic force and becomes another path of escape. ⚠️ |
+
+### 4A.2 Standard objections and replies
+| Objection | Aurobindo's reply | Residual force |
+|---|---|---|
+| **The involution premise is question-begging:** “what evolves must have been involved” is precisely what an emergentist denies. | Emergence of consciousness from wholly inconscient matter is not an explanation but a restatement of the mystery. The involutionist hypothesis is more economical if evolution is directional. ⚠️ | A naturalist can deny directionality and treat consciousness as emergent. ⚠️ |
+| **Science does not require teleology.** | Biological mechanisms may describe surface processes; Aurobindo offers a metaphysical interpretation of why consciousness appears and intensifies. ⚠️ | It risks unfalsifiability if insulated from every scientific challenge. ⚠️ |
+| **A dynamic Absolute compromises transcendence.** | Dynamism need not mean limitation: Saccidānanda exceeds the world while freely manifesting itself in it. ✅ | Critics may still argue that real manifestation introduces change into the Absolute. ⚠️ |
+| **Inconscient consciousness is contradictory.** | “Inconscient” means consciousness in complete self-concealment, not a second substance devoid of consciousness. ✅ | The phrase remains paradoxical and must be explained carefully. ⚠️ |
+| **If the end is assured, individual effort is irrelevant.** | Cosmic evolution has a direction, but conscious participation through yoga determines readiness and pace. ⚠️ | The balance between inevitability and freedom remains difficult. ⚠️ |
+
+### 4A.3 Examiner use
+- Use these presuppositions whenever the question asks **“examine,” “critically examine,” “evaluate,”** or **“is Aurobindo's evolution defensible?”** ⚠️
+- The strongest critical point is that the involution premise carries much of the argument but is not independently demonstrated to a materialist. ⚠️
 
 ## 5. INTEGRAL YOGA ✅
 
@@ -370,6 +499,33 @@ Integral Yoga is “integral” in at least three senses:
 | End-state | cessation and separation | truth-conscious participation in divine life |
 
 - ✅ Compact contrast: Patañjali aims at release **from** prakṛti; Aurobindo aims at transformation **of** prakṛti.
+
+### 5.8A Ṛtambharā prajñā and Aurobindo: echo, not identity ⚠️
+
+- Aurobindo uses Vedic and yogic vocabulary of **ṛta** and truth-bearing consciousness while describing supramental knowledge. ✅
+- The resemblance to **ṛtambharā prajñā** (“truth-bearing insight”) is real: both indicate cognition above discursive mind and infallible with respect to its object. ⚠️
+
+> ⚠️ **Caution: use “ṛtambharā” for Aurobindo only as an illustrative echo, never as an identification. Do not write that Aurobindo “adopts Patañjali's ṛtambharā.”** ⚠️
+
+| Axis | Patañjali's ṛtambharā prajñā | Aurobindo's supramental knowledge |
+|---|---|---|
+| Ontological status | A purified **citta-vṛtti**, a modification of mental substance at its highest clarity | Not a mental modification at all; a distinct plane of consciousness above mind ✅ |
+| Yogic location | Arises with **nirvicāra-vaiśāradya** and leads toward **nirbīja samādhi** | Must descend and be established in mind, life and body ✅ |
+| Final destiny | It too must cease, because kaivalya requires cessation of all vṛtti | It is not to be transcended but embodied as truth-consciousness ✅ |
+| Goal | **Kaivalya**, isolation of puruṣa from prakṛti | **Divine life on earth**, transformation of nature by consciousness ✅ |
+| Metaphysics | Dualist: many puruṣas, prakṛti, no real relation beyond proximity | Integrally non-dual: one Saccidānanda of which Matter and Spirit are poles ✅ |
+
+- The teleologies are opposed: Yoga is world-transcending; Aurobindo is world-transforming. ✅
+- The metaphysics are opposed: Yoga separates puruṣa from prakṛti; Aurobindo transforms prakṛti as manifestation of Spirit. ✅
+- Therefore “ṛta” and “ṛtambharā” language may clarify the **truth-bearing** character of supramental knowledge, but it must not erase Aurobindo's originality. ⚠️
+
+### 5.8B Aurobindo's use of “yoga” and the aṣṭāṅga-yoga caution ⚠️
+
+- Aṣṭāṅga-yoga is a graded ascetic discipline of restraint, concentration and cessation. ✅
+- Integral Yoga explicitly rejects renunciation of life as the final ideal. ✅
+- Its practical formula is **aspiration, rejection and surrender** (**samarpaṇa**), with the decisive factor being the descent of the Divine **Śakti**, not the practitioner's effort alone. ✅
+- Aurobindo's synthesis integrates **jñāna**, **bhakti** and **karma** yogas; this is why it is “integral” or **pūrṇa**. ✅
+- Safe line: Aurobindo uses “yoga” in a transformed sense — not isolation from nature, but divinisation of nature. ⚠️
 
 ### 5.9 Difference from Advaita ✅
 | Axis | Advaita Vedānta | Aurobindo |
@@ -446,6 +602,39 @@ Integral Yoga is “integral” in at least three senses:
 - ⚠️ He is weakest, philosophically, where his future claims exceed ordinary intersubjective verification.
 - ✅ Yet as a metaphysical synthesis of Spirit, Matter, evolution, and yoga, his system remains one of the most original in modern Indian thought.
 
+## 6A. THE PROBLEM OF EVIL IN AUROBINDO ⚠️
+
+### 6A.1 Why the problem is sharper for Aurobindo
+- If all is Saccidānanda and the world is a real manifestation of the Divine, then evil, falsehood, suffering and death are real features of the Divine's manifestation. ⚠️
+- Aurobindo cannot simply use the Advaitic escape that evil belongs only to the **vyāvahārika** level and is finally sublated, because he affirms the world as real manifestation. ⚠️
+- He also cannot rely only on a free-will defence, because suffering rooted in the Inconscient precedes human moral choice. ⚠️
+- Thus the problem of evil becomes a direct Paper-II Philosophy-of-Religion bridge. ⚠️
+
+### 6A.2 Aurobindo's answer as an argument
+1. Evil, falsehood, suffering and death are consequences of the **Inconscience** produced by involution, where consciousness is wholly self-concealed and division becomes extreme. ✅
+2. Division gives rise to ego, desire, conflict, error and pain. Evil is therefore real in manifestation but not original in Saccidānanda. ⚠️
+3. Evil is **real but not ultimate**: it belongs to a stage of manifestation, not to the eternal nature of the Divine. ✅
+4. Evil is **instrumental and transitional**: the resistance of the Inconscient makes the drama of emergence possible. ⚠️
+5. Therefore evil is not merely to be explained away or escaped; it must be **transformed** by supramental descent, which removes ignorance at its root. ✅
+
+### 6A.3 Pain, ānanda and the divided consciousness
+- Aurobindo characteristically treats all experience as a modified form of the delight of existence: pain is **ānanda** received by a consciousness too divided, weak or narrow to bear it rightly. ⚠️
+- This is not a denial that pain is experientially real; it is a metaphysical claim that pain is distorted contact with delight under conditions of division. ⚠️
+- The claim fits his system because Ānanda is ultimate and the Inconscient is self-oblivion, not a second anti-divine principle. ⚠️
+
+### 6A.4 Objections and replies
+| Objection | Aurobindo's reply | Residual force |
+|---|---|---|
+| **This instrumentalises horrendous suffering.** | Evil belongs to a transitional stage and is to be overcome by transformation, not celebrated. The Divine participates in the process through descent rather than remaining an external spectator. ⚠️ | The moral discomfort remains; the reply may not justify actual suffering of innocents. ⚠️ |
+| **The justification is deferred to a future that may never arrive.** | Aurobindo presents supramental transformation as the eventual and assured direction of conscious evolution, not a mere optional hope. ⚠️ | The future descent is not independently verifiable in advance. ⚠️ |
+| **If the Divine chose involution, the Divine authored the Inconscient and hence evil.** | The Inconscient is the Divine's self-concealment for manifestation; the individual is not an external victim but the Divine itself undergoing the adventure of consciousness. ⚠️ | This can blur moral responsibility rather than solve it. ⚠️ |
+| **“Pain is disguised ānanda” denies the reality of suffering.** | Aurobindo can reply that suffering is real at its level but not ultimate in metaphysical essence. ⚠️ | The phrase is dangerous unless balanced by explicit acknowledgement of suffering's reality. ⚠️ |
+
+### 6A.5 Safe exam verdict
+- Aurobindo's treatment of evil is powerful because it links evil to ignorance and makes transformation, not escape, the answer. ⚠️
+- It is weak where the cost of cosmic evolution appears to be borne by suffering individuals. ⚠️
+- Do not write that the problem is fully solved; write that it is integrated into his larger involution-evolution metaphysics. ⚠️
+
 ## 7. INTER-THINKER DEBATES ⚠️
 
 ### 7.1 Aurobindo and Śaṃkara
@@ -474,6 +663,33 @@ Integral Yoga is “integral” in at least three senses:
 | Matter | independent prakṛti | concealed Spirit |
 | Liberation | discrimination of puruṣa from prakṛti | transformation of nature by Spirit |
 | Teleology | prakṛti evolves for puruṣa's experience and release | evolution is the Divine's self-manifestation |
+
+### 7.3A Aurobindo and Rāmānuja
+| Issue | Rāmānuja's Viśiṣṭādvaita | Aurobindo |
+|---|---|---|
+| World | Real body of God | Real manifestation and becoming of the Divine |
+| Individual | Real mode of Brahman, dependent on God | Real individual centre of the Divine, with evolutionary destiny |
+| Goal | Loving service and communion with the personal God | Divine life through supramental transformation |
+
+- Both reject illusionism and affirm the reality of world and individual. ✅
+- Difference: for Rāmānuja the world is God's body eternally; for Aurobindo it is a Divine becoming with a supramental future. ⚠️
+
+### 7.3B Aurobindo and Buddhism
+| Issue | Buddhism | Aurobindo |
+|---|---|---|
+| Self | Denial of a permanent surface self | Denial of ego, but affirmation of Self, jīvātman and psychic being |
+| Ultimate aim | Nirvāṇa / cessation of ignorance and craving | Transformation of life by supramental descent |
+| World-attitude | Often read as release from suffering | World is a field for divine manifestation |
+
+- Aurobindo accepts the Buddhist critique of ego as a surface construction. ⚠️
+- But he rejects nirvāṇa as the final word if it means cessation or world-negation. ✅
+- He treats Buddhism and Māyāvāda as two great spiritual “denials” that his world-affirming philosophy must answer, alongside materialist denial of Spirit. ⚠️
+
+### 7.3C Aurobindo and the Gītā
+- Aurobindo reads the Gītā as a major scriptural warrant for spirituality in action. ✅
+- Its synthesis of **jñāna**, **bhakti** and **karma** supports his claim that yoga need not be life-renouncing. ⚠️
+- The Gītā's insistence on action without egoic desire becomes, in Aurobindo, part of the larger transformation of nature. ⚠️
+- Safe line: Aurobindo radicalises the Gītā's spirituality of action into an evolutionary yoga of terrestrial divinisation. ⚠️
 
 ### 7.4 Aurobindo and Darwin
 | Issue | Darwinian biology | Aurobindo |
@@ -506,6 +722,12 @@ Integral Yoga is “integral” in at least three senses:
 9. ✅ **Aurobindo is not a simple neo-Vedāntin repetition of Advaita.** Supermind, evolution, and terrestrial transformation are his distinctive moves.
 10. ✅ **Matter is not anti-spiritual in Aurobindo.** It is Spirit in self-concealment.
 
+11. ✅ **Knowledge by identity is not ordinary intuition.** It is Supermind's mode of knowing by being, not a quick mental guess.
+12. ✅ **Do not identify Aurobindo's supramental knowledge with Patañjali's ṛtambharā prajñā.** The former is a plane above mind to be established in life; the latter is a purified citta-vṛtti that must cease before kaivalya.
+13. ✅ **Jīvātman and psychic being are not the same.** Jīvātman is the unevolving individual Self above manifestation; the psychic being is the evolving soul-personality in manifestation.
+14. ✅ **Evil is real but not ultimate in Aurobindo.** Do not say it is mere illusion; do not say the theodicy is problem-free.
+15. ✅ **Western comparisons are illustrative only.** Always add the disanalogy before naming Aurobindo the Indian Bergson, Hegel or Teilhard.
+
 ## 9. KEYWORD & STATEMENT BANK
 
 ### 9.1 Must-use keywords
@@ -523,6 +745,18 @@ Integral Yoga is “integral” in at least three senses:
 - ✅ **Divine Mother / Śakti**
 - ✅ **Gnostic being**
 - ✅ **Life Divine**
+
+### 9.1A Additional must-use keywords from expanded coverage
+- ✅ **knowledge by identity**
+- ✅ **knowledge by separation**
+- ✅ **cit-śakti**
+- ✅ **ṛta-cit**
+- ✅ **three poises of Supermind**
+- ✅ **Overmind / Supermind distinction**
+- ✅ **jīvātman / central being**
+- ✅ **psychicisation**
+- ✅ **samarpaṇa**
+- ✅ **problem of evil**
 
 ### 9.2 Statement bank
 1. ✅ **“All life is Yoga.”** — *The Synthesis of Yoga*.
@@ -571,6 +805,103 @@ Integral Yoga is “integral” in at least three senses:
 | 2025 | Q8(b) | 15 marks | ‘Both Ascetic and materialist are partial in their negation of each other’. Explain Sri Aurobindo’s integral philosophy in the light of the above statement. |
 
 See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md).
+
+## 10A. PRESUPPOSITION LEDGER ⚠️
+
+| Doctrine | Presupposition | What collapses if denied |
+|---|---|---|
+| **Dynamic Saccidānanda** | The Absolute is not merely static being but consciousness-force-bliss capable of manifestation. ✅ | Involution, evolution and divine life become unintelligible. ⚠️ |
+| **Supermind** | A mediating truth-consciousness is needed between unity and multiplicity. ✅ | The One-Many relation falls back into illusion, dualism or unexplained leap. ⚠️ |
+| **Three poises of Supermind** | Unity can station multiplicity within itself without fragmentation. ⚠️ | Multiplicity becomes either unreal or a real break in the Absolute. ⚠️ |
+| **Involution** | What evolves must first be involved; Matter contains concealed Spirit. ✅ | Evolution becomes accidental emergence from sheer inconscience. ⚠️ |
+| **Evolution** | The world-process is directional and consciousness progressively manifests. ✅ | Man is no longer transitional and Supermind loses evolutionary necessity. ⚠️ |
+| **Knowledge by identity** | Consciousness can know by being and not only by representation. ✅ | Supermind becomes merely higher intellect and Integral Yoga becomes mental improvement. ⚠️ |
+| **Psychic being** | Something in the individual genuinely evolves across experience while the Self remains free. ✅ | Triple transformation cannot begin from a true inner centre. ⚠️ |
+| **Integral Yoga** | Human evolution can become conscious through aspiration, rejection, surrender and descent. ✅ | Aurobindo's theory remains metaphysics without method. ⚠️ |
+| **Divine life on earth** | Terrestrial life and body are fit for transformation. ✅ | The system collapses into world-renouncing liberation. ⚠️ |
+| **Treatment of evil** | Evil is a real but transitional effect of Inconscience, not ultimate reality. ⚠️ | Aurobindo either denies evil like illusionism or makes evil intrinsic to the Divine. ⚠️ |
+
+## 10B. PŪRVAPAKṢA–SIDDHĀNTA LEDGER ⚠️
+
+| Objector | Objection | Aurobindo's reply | Residual force ⚠️ |
+|---|---|---|---|
+| **Advaita / Māyāvāda** | If Brahman is nirguṇa and the world is māyā, Aurobindo's dynamism is superfluous; a real world compromises non-duality. | Non-duality need not mean world-negation. Māyā can be read as the Divine's creative power, and Supermind explains real multiplicity within unity. ✅ | Real manifestation may still seem to introduce change and difference into Brahman. ⚠️ |
+| **Buddhist** | Permanent Saccidānanda, Self and jīvātman are unestablished; ego-lessness should lead to cessation, not metaphysical absolutism. | Aurobindo accepts the critique of ego but distinguishes ego from Self and psychic being; cessation is a partial realisation, not the complete destiny of consciousness. ⚠️ | The Buddhist can deny that any positive Absolute is needed. ⚠️ |
+| **Sāṃkhya-Yoga** | The goal is isolation of puruṣa from prakṛti; transformation of prakṛti confuses liberation with bondage-field. | Puruṣa-Prakṛti is useful psychologically but not an ultimate dualism; nature can be transformed because it is Spirit's manifestation. ✅ | Classical Yoga may reject this as abandoning kaivalya. ⚠️ |
+| **Materialist / scientific naturalist** | Evolution needs no involution; consciousness is emergent; supramental descent is unfalsifiable. | Mechanisms do not explain why consciousness appears from matter; involution accounts for directionality and higher emergence. ⚠️ | If directionality is denied, Aurobindo's argument loses force. ⚠️ |
+| **Analytic / positivist critic** | Supermind, descent and knowledge by identity are not truth-apt or publicly verifiable. | Aurobindo offers disciplined yogic verification and systematic coherence, not blind belief. ⚠️ | Verification remains non-public in the ordinary empirical sense. ⚠️ |
+| **Moral critic** | The theodicy instrumentalises suffering and turns evil into a stage of cosmic progress. | Evil is not celebrated but transformed; the Divine participates in the suffering adventure rather than imposing it externally. ⚠️ | The suffering of innocents remains morally troubling. ⚠️ |
+| **Historical-critical objection** | Aurobindo reads his own system into the Veda, Upaniṣads and the Gītā. ❓ | His readings may be philosophical reconstruction: he uses tradition creatively to express a yogic vision, not merely antiquarian exegesis. ⚠️ | Whether this is exegesis or reconstruction remains genuinely contested. ❓ |
+
+## 10C. INTER-SCHOOL POSITIONING ✅
+
+| Axis | Aurobindo | Advaita Vedānta | Viśiṣṭādvaita | Sāṃkhya-Yoga | Buddhism | Vedic tradition |
+|---|---|---|---|---|---|---|
+| **Status of world** | Real manifestation of Saccidānanda | Ultimately māyā / mithyā in strong illusionist reading | Real body of God | Real prakṛti distinct from puruṣa | Conditioned process marked by suffering and impermanence | Cosmic order and divine manifestation |
+| **Nature of Absolute** | Dynamic Saccidānanda with Supermind as truth-power | Nirguṇa Brahman as final | Qualified Brahman / personal God | No single Absolute; dualism of puruṣa and prakṛti | No permanent substantial self or creator Absolute | ṛta, gods and powers pointing to cosmic truth |
+| **Individual** | Ātman, jīvātman, evolving psychic being | Ultimately identical with Brahman | Real dependent self | Many puruṣas | No permanent self | Human being participates in cosmic-divine order |
+| **Bondage / ignorance** | Separative consciousness due to involution and Inconscience | Avidyā superimposes world and individuality | Karma and ignorance of dependence on God | Misidentification of puruṣa with prakṛti | Ignorance, craving and clinging | Disorder from losing truth/order |
+| **Goal** | Divine life on earth through supramental transformation | Jīvanmukti / videhamukti | Loving union/service of God | Kaivalya | Nirvāṇa / cessation | Re-establishment in truth/order |
+| **Means** | Integral Yoga: jñāna-bhakti-karma, aspiration, rejection, surrender, descent | Jñāna | Bhakti and prapatti | Aṣṭāṅga-yoga and discrimination | Eightfold path / insight | Sacrifice, mantra, knowledge of ṛta |
+| **Escape or transformation?** | Transformation | Primarily escape/sublation | Communion, not supramental transformation | Escape/isolation | Cessation/release | Ambiguous; Aurobindo reads it as world-affirming truth-symbolism |
+
+## 10D. CONTROLLED WESTERN COMPARISON ⚠️
+
+| Thinker | Point of contact | Disanalogy / caution |
+|---|---|---|
+| **Bergson** | Both reject mechanistic and purely Darwinian accounts, make evolution creative and directional, and privilege intuition over analytic intellect. | Bergson's **élan vital** is an impersonal life-impulse with no prior involution and no determinate goal; its creativity is open-ended, whereas Aurobindo's evolution is teleologically closed by the recovery of Saccidānanda. Bergson's intuition is duration-consciousness, not a supramental plane, and he has no divine descent or bodily transformation. Do not assert historical influence. ⚠️ |
+| **Hegel** | Both present dynamic Absolutes and refuse to treat the finite world as mere illusion; the finite is a moment of the Infinite's self-realisation. | Hegel's process is dialectical and conceptual, moving through contradiction and **Aufhebung** toward Absolute Knowing as self-conscious thought. Aurobindo's process is supramental and experiential, aiming at divine life in matter and body; Hegel has no knowledge by identity, yogic method or doctrine of descent, and would treat bodily divinisation as a category error. ⚠️ |
+| **Teilhard de Chardin** | Closest structural parallel: cosmogenesis, complexity-consciousness, noosphere and Omega Point resemble evolution toward Supermind; both affirm matter and convergence. | Teilhard's framework is Christological and personalist; Omega is the cosmic Christ and convergence occurs at the end of the world-process. Aurobindo's Supermind descends into and transforms terrestrial life, including the body, within manifestation; Teilhard has no involution as prior self-concealment and no yogic method. Roughly same-period convergence is best treated as parallel development, not influence. ⚠️ |
+| **Nietzsche** | Both treat the human as transitional and speak to self-overcoming beyond the present human type. | Nietzsche's Übermensch is naturalistic, anti-metaphysical and centred on will and earth without Divine descent; Aurobindo's supramental being arises from Truth-Consciousness. ⚠️ |
+| **Whitehead** | Both are process-friendly and reject a static, world-negating metaphysics. | Whitehead's God and actual occasions do not map onto planes of consciousness, involution, supramental descent or bodily transformation. ⚠️ |
+| **Plotinus** | Procession from the One and return to it resembles involution and evolution. | Plotinian return is ascent away from matter, the dimmest emanation; Aurobindo's completion is descent into Matter and its transformation. ⚠️ |
+
+**Rubric:** Western parallels are illustrative only; they never substitute for Aurobindo's own argument, must always be accompanied by the disanalogy, and belong in at most one or two lines after the Aurobindo case is complete. Writing “Aurobindo is the Indian Bergson/Hegel/Teilhard” without the disanalogy is a marked weakness. ⚠️
+
+## 10E. DIRECTIVE DECODER ⚠️
+
+| Directive | What the examiner is testing | Structural move for an Aurobindo answer | Closing verdict |
+|---|---|---|---|
+| **Discuss** | Breadth and balanced exposition | Define doctrine → explain stages → show significance → add one contrast | “Thus the doctrine is central because…” ⚠️ |
+| **Examine** | Inner logic and presuppositions | State claim → expose assumptions → test with objection/reply | “It is coherent if its presuppositions are granted.” ⚠️ |
+| **Critically examine** | Doctrine plus serious assessment | Exposition → strongest objection → Aurobindo's reply → residual weakness | “Original but not free from the verification/presupposition problem.” ⚠️ |
+| **Analyse** | Break into components and relations | Decompose into Saccidānanda, Supermind, involution, evolution, yoga | “The parts form an integral metaphysical chain.” ⚠️ |
+| **Evaluate** | Final judgement | Present strengths and weaknesses with weighed conclusion | “Strong as synthesis; weak where future descent is unverifiable.” ⚠️ |
+| **Compare** | Similarity and difference | Use a table; include at least one decisive disanalogy | “The comparison clarifies Aurobindo but does not reduce him to the other school.” ⚠️ |
+| **Distinguish** | Conceptual precision | Define each term separately; add contrast line and payoff | “Confusing these terms destroys the doctrine.” ⚠️ |
+| **Elucidate** | Clarify a difficult formula | Translate formula into doctrine, example and implication | “The formula means X, not Y.” ⚠️ |
+| **Comment** | Short interpretive judgement | Explain statement → locate in system → add evaluative sentence | “The remark captures Aurobindo's integral turn.” ⚠️ |
+| **Bring out** | Highlight implications | State doctrine → draw out metaphysical, yogic and ethical implications | “Its significance lies in…” ⚠️ |
+| **Do you agree?** | Reasoned stance | Partial agreement → qualification → final calibrated judgement | “Agree within Aurobindo's framework, with reservations about…” ⚠️ |
+| **Explain and examine a quoted line from Aurobindo** | Ability to decode quotation and assess it | Identify source-theme without inventing citation → explain terms → link to system → examine presupposition/objection | “The quote is defensible as integral philosophy, though…” ⚠️ |
+
+## 10F. GRADED VERDICT ON AUROBINDO ⚠️
+
+### 10F.1 What is strong ✅
+- Aurobindo gives a genuinely original reconciliation of spiritual non-dualism with evolutionary and this-worldly commitment. ✅
+- He answers the charge that Indian philosophy is world-negating by making terrestrial transformation the goal. ✅
+- Supermind and its poises give a coherent account of how the One can become many without illusion. ✅
+- Integral Yoga is not sectarian: it synthesises knowledge, devotion, works and transformation of the whole being. ✅
+
+### 10F.2 What is weak ⚠️
+- The involution premise is load-bearing and close to question-begging against an emergentist. ⚠️
+- The supramental descent is not independently verifiable by public methods. ⚠️
+- The theodicy risks instrumentalising suffering. ⚠️
+- The scheme of planes, beings and transformations is elaborate and largely dependent on yogic experience. ⚠️
+
+### 10F.3 What is genuinely contested ❓
+- Whether Aurobindo's readings of the Veda, Upaniṣads and Gītā are exegesis or reconstruction. ❓
+- Whether his system is best classified as philosophy, yogic phenomenology, metaphysical theology, or a synthesis of all three. ❓
+- The status of claims about bodily transformation and supramental future. ❓
+
+### 10F.4 Relation to §6.7 balanced verdict
+- §6.7 gives the short answer: strongest against the false choice between asceticism and materialism, weakest on intersubjective verification. ✅
+- This ledger expands that verdict for 15- and 20-mark critical answers. ⚠️
+
+### 10F.5 Ready one-line verdicts
+- **10 marks:** Aurobindo's strength is his world-affirming Vedānta; the caveat is that its supramental future remains difficult to verify. ⚠️
+- **15 marks:** His system is a powerful synthesis of Saccidānanda, evolution and yoga, but it depends on the controversial premise that what evolves must first be involved. ⚠️
+- **20 marks:** Aurobindo is most original in reconciling non-dual Spirit with real multiplicity and terrestrial transformation; yet the involution premise, theodicy and supramental descent remain philosophically contested. ⚠️
 
 ## 11. ANSWER ARCHITECTURE
 

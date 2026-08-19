@@ -148,6 +148,130 @@ major powers are also present and competing for influence.
   2024 and had not ratified as of 3 August 2026. ⚠️ Cite India's status as
   "signatory, not party."
 
+### India's Indo-Pacific institutional layer
+
+- ✅ **Indo-Pacific Oceans Initiative (IPOI):** India announced IPOI at the
+  **14th East Asia Summit in Bangkok on 4 November 2019**. Its seven pillars are
+  maritime security; maritime ecology; maritime resources; capacity building
+  and resource sharing; disaster-risk reduction and management; science,
+  technology and academic cooperation; and trade, connectivity and maritime
+  transport.
+  **Significance:** IPOI converts SAGAR's vision into voluntary, practical,
+  partner-led cooperation across the maritime commons.
+  **Limitation:** it is not a treaty, alliance or centralised funding body.
+- ✅ **ASEAN centrality:** India's Indo-Pacific approach treats ASEAN as the
+  central regional architecture and describes IPOI and the **ASEAN Outlook on
+  the Indo-Pacific** as complementary.
+  **Significance:** India's policy is broader than a China-containment
+  coalition.
+  **Limitation:** ASEAN consensus and internal diversity can slow common action.
+- ✅ **EAS and ARF:** the East Asia Summit is a leaders-led strategic forum,
+  while the ASEAN Regional Forum provides wider confidence-building and
+  security dialogue.
+  **Significance:** India combines broad institutions with smaller
+  minilaterals.
+  **Limitation:** dialogue forums have weak enforcement.
+- ✅ **Exercise Malabar:** the India-US naval exercise expanded to include
+  Japan and, from 2020, regular Australian participation.
+  **Significance:** it provides interoperability evidence among all four Quad
+  states.
+  **Limitation:** an exercise creates no collective-defence obligation.
+
+### AUKUS and the regional balance
+
+- ✅ **AUKUS:** Australia, the United Kingdom and the United States announced
+  the enhanced trilateral security partnership on **15 September 2021**.
+  Its first initiative supports Australia's acquisition of conventionally
+  armed, nuclear-powered submarines; the advanced-capabilities track covers
+  cyber, AI, quantum and additional undersea capabilities.
+- ✅ **Submarine pathway:** the March 2023 pathway envisages rotational UK-US
+  submarine presence in Australia from as early as 2027, sale of Virginia-class
+  submarines from the early 2030s subject to US approval, and later
+  Australian-built SSN-AUKUS boats.
+  **Significance:** it deepens deterrence and technology integration.
+  **Limitation:** the schedule depends on industrial capacity, approvals and
+  sustained political commitment.
+- ⚠️ **Non-proliferation question:** Australia remains a non-nuclear-weapon
+  state; an Article 14 safeguards arrangement with the IAEA for naval nuclear
+  propulsion was still under negotiation in November 2025.
+  **Significance:** AUKUS tests whether safeguards can protect non-proliferation
+  while permitting non-proscribed military nuclear use.
+  **Limitation:** safeguards negotiation is not proof of either violation or
+  complete risk removal.
+- ✅ **Alliance-management cost:** Australia's cancellation of the French Naval
+  Group submarine programme produced a **EUR 555 million settlement in June
+  2022**.
+  **Significance:** minilateral capability gains can impose diplomatic costs on
+  other partners.
+  **Limitation:** compensation does not measure the full strategic cost.
+- ⚠️ **Regional reception and India:** ASEAN reactions varied, with concerns
+  over arms racing alongside more accommodating positions. India is not an
+  AUKUS member; its Quad participation is a parallel, non-treaty route.
+  **Significance:** the Indo-Pacific order contains overlapping instruments.
+  **Limitation:** neither ASEAN nor India should be reduced to a binary
+  pro-/anti-AUKUS position.
+
+### Defence partnerships and Indo-Pacific stability
+
+- ✅ **India-US defence enablers:** LEMOA (2016), COMCASA (2018) and BECA
+  (2020) strengthen logistics, secure communications and geospatial exchange;
+  Exercise Malabar provides a maritime interoperability route.
+  **Significance:** these instruments improve India's ability to operate with
+  partners and contribute to maritime-domain awareness.
+  **Limitation:** interoperability is not alliance dependence or an Article 5
+  commitment.
+- ✅ **India-Russia capability base:** Su-30MKI/BrahMos cooperation and the
+  S-400 contract show that Russia remains relevant to India's deterrence and
+  air-defence capacity even as Indo-US cooperation deepens.
+  **Significance:** simultaneous defence ties embody strategic autonomy.
+  **Limitation:** Russian-origin spares concentration and sanctions exposure can
+  constrain readiness and procurement choice.
+- ⚠️ **Stability effect:** diversified capabilities can strengthen deterrence
+  and burden-sharing, but competing supplier blocs and alliance perceptions can
+  also intensify regional mistrust.
+  **Verdict:** defence deals contribute to Indo-Pacific stability only when
+  combined with crisis communication, international law and non-alliance
+  autonomy.
+- ⚠️ **Red Sea/Bab-el-Mandeb route risk:** disruption around the southern Red
+  Sea and Bab-el-Mandeb can divert Asia-Europe shipping around the Cape of Good
+  Hope, raising time, freight and insurance costs.
+  **Significance:** maritime security affects trade even outside India's
+  immediate waters.
+  **Limitation:** route disruption and complete closure are different claims;
+  use dated shipping evidence before quantifying impact.
+
+### International Maritime Organization
+
+- ✅ The IMO Convention was adopted in **1948** and entered into force in
+  **1958**. IMO is the UN specialised agency responsible for global shipping
+  standards. Its Assembly includes all members; its Council is the executive
+  organ; core committees include MSC, MEPC, Legal, Technical Cooperation and
+  Facilitation.
+- ✅ **Safety and pollution instruments:** SOLAS governs safety of life at sea;
+  MARPOL addresses ship-source pollution; the Ballast Water Management
+  Convention entered into force in 2017; the Hong Kong ship-recycling
+  Convention entered into force on **26 June 2025**.
+  **Significance:** IMO converts maritime risks into common technical rules.
+  **Limitation:** effectiveness depends on flag, port and coastal-state
+  implementation.
+- ✅ **Air pollution:** from **1 January 2020**, the global sulphur limit outside
+  emission-control areas fell from 3.50% to 0.50% m/m.
+  **Significance:** a universal technical standard can reduce pollution across
+  a mobile global industry.
+  **Limitation:** compliance and fuel-cost burdens vary across states and firms.
+- ✅ **Climate governance:** the 2023 IMO GHG Strategy aims at net-zero
+  emissions from international shipping by or around 2050, with 2030 and 2040
+  checkpoints. The proposed Net-Zero Framework was approved at committee level
+  but **not adopted** in October 2025; talks were adjourned.
+  **Significance:** IMO is the principal sectoral arena for shipping
+  decarbonisation.
+  **Limitation:** ambition, burden-sharing and adoption remain contested.
+- 📰 **India:** India was elected to IMO Council **Category (b)** for the
+  **2026-27 biennium**, representing states with a major interest in
+  international seaborne trade.
+  **Significance:** Council membership gives India rule-shaping access.
+  **Limitation:** membership does not guarantee preferred outcomes.
+
 ## 5. Indian applications and examples
 
 - ✅ **Direct PYQ (2024 Q20):** *Discuss the geopolitical and geostrategic
@@ -288,6 +412,25 @@ major powers are also present and competing for influence.
 - ⚠️ **Mains (10 marks):** Explain the SAGAR doctrine. How do IORA, IONS and
   IFC-IOR operationalise it institutionally?
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+Core owns the 2020 India-US/India-Russia defence-and-stability demand, the 2021 AUKUS
+demand and the 2023 IMO demand, superseding `advanced/04`.
+
+- **Maritime chain:** sea-lane/chokepoint interest -> rules under UNCLOS -> awareness
+  and capacity -> partnerships/groupings -> island-state trust -> security outcome.
+- **Evidence:** SAGAR/MAHASAGAR, IFC-IOR, IORA/IONS, Quad, Colombo Security Conclave,
+  Maldives, BBNJ and IMO.
+- **Balance:** external balancing and minilateral capacity can deter coercion, but
+  alliance perceptions, unequal capacity and island-state domestic politics constrain.
+
+**10 marks:** map the interest and three instruments. **15 marks:** security, economy,
+law, HADR and island partners. **20 marks:** compare continental/maritime strategy,
+China/US roles, UNCLOS institutions, blue economy, climate and non-traditional threats.
+
+> **Reasoned verdict:** India's Indo-Pacific influence rests less on alliance imitation
+> than on rules, domain awareness, capacity provision and trusted island partnerships.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`.
@@ -325,22 +468,28 @@ major powers are also present and competing for influence.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Years represented:** 2020, 2021, 2022, 2023
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 5
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2020 | GS-II | 20 | Indo-US and Indo-Russian defence deals and Indo-Pacific stability | Discuss · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 20 | AUKUS in the Indo-Pacific and existing regional partnerships | Discuss the strength and impact · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 85 | UNCLOS territorial sea innocent passage and EEZ provisions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 86 | Senkaku Islands maritime territorial dispute East China Sea | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | GS-II | 20 | Role of the IMO in protecting environment and maritime safety | Discuss · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
+- Indo-US and Indo-Russian defence deals and Indo-Pacific stability
+- AUKUS in the Indo-Pacific and existing regional partnerships
 - UNCLOS territorial sea innocent passage and EEZ provisions
 - Senkaku Islands maritime territorial dispute East China Sea
+- Role of the IMO in protecting environment and maritime safety
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

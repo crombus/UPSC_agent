@@ -114,6 +114,11 @@ health integration and addressing under-reported elder abuse within family struc
   reporting it due to dependence and shame illustrates the under-reporting challenge
   in elder-abuse detection.
 
+- ✅ **IGNOAPS adequacy anchor:** Central assistance is ₹200 per month for eligible BPL
+  persons aged 60-79 and ₹500 for those aged 80+, with State top-ups varying. The low
+  Central floor supports an adequacy critique; do not present a State's higher combined
+  pension as the national amount.
+
 ## 6. Must-Know Facts for Prelims
 
 - ✅ The Maintenance and Welfare of Parents and Senior Citizens Act, 2007 defines a
@@ -192,6 +197,27 @@ health integration and addressing under-reported elder abuse within family struc
   combining legal entitlements, welfare schemes and geriatric-health services."
   Discuss with reference to current policy architecture and gaps.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+The elderly-care half of the **2020 GS-II geriatric/maternal-care** demand is owned
+here, superseding `advanced/12`.
+
+- **LASI:** national evidence source for older persons' health, economic and social
+  conditions; retain wave/year and do not infer causation from association.
+- **Health:** NPHCE is the geriatric-care route; PM-JAY's all-70+ route addresses
+  hospitalisation, not all outpatient, rehabilitation, palliative or long-term care.
+- **Income:** IGNOAPS is an assistance floor, not earnings-replacement pension; amount,
+  eligibility and State top-ups retain jurisdiction/date.
+- **Care economy:** migration, smaller households and women's unpaid care require
+  community, respite, home-based, trained and palliative services.
+
+**10 marks:** law plus pension/health and one gap. **15 marks:** income, health, abuse,
+housing, digital access and care. **20 marks:** ageing, intergenerational equity,
+long-term-care finance, gender and rural-urban variation.
+
+> **Reasoned verdict:** Active ageing needs a continuum from income and prevention to
+> long-term, palliative and abuse-protection services.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/12_Elderly-and-Senior-Citizens.md`.
@@ -202,3 +228,24 @@ health integration and addressing under-reported elder abuse within family struc
 - ✅ `Governance/basic/13_Public-Finance-and-Service-Delivery-Tools.md` — the DBT/PFMS/SNA
   fund-flow machinery through which pension/welfare safety-net transfers actually reach
   senior citizens.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2020
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-II | 6 | Health policies for geriatric and maternal care | Discuss · 10 marks · 150 words | Cross-cutting Core ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Health policies for geriatric and maternal care
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

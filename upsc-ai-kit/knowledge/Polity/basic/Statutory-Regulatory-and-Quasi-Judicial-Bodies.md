@@ -4,7 +4,7 @@
 > **Official clause:** "Statutory, regulatory and various quasi-judicial bodies."
 > **Rule:** Classification, institutional design and PYQ answer engines are complete here.
 > Specialist files supply body-specific detail; Advanced adds optional theory only.
-> **Companion:** `../advanced/49_Regulatory-State-and-Quasi-Judicial-Institutions.md`
+> **Advanced (optional):** `../advanced/49_Regulatory-State-and-Quasi-Judicial-Institutions.md` — optional deeper detail; not required for any mark.
 
 ---
 
@@ -236,9 +236,52 @@ effectiveness still depends on appointments, resources, data and governmental re
 | **CPCB/SPCBs** | Water Act, 1974; Air Act, 1981 and environmental laws | Pollution standards, consent/monitoring/enforcement functions |
 | **UGC** | UGC Act, 1956 | Coordination and maintenance of university-education standards |
 | **NMC** | National Medical Commission Act, 2019 | Medical education, institutions and professional regulation through statutory architecture |
+| **Bar Council of India (BCI)** | Advocates Act, 1961 | Professional standards, legal education, discipline architecture and All India Bar Examination; enrolment begins with State Bar Councils |
 
 The list is a sector map, not a claim that all bodies have identical powers, appointment processes or
 appeal routes. Always return to the parent Act.
+
+---
+
+## 9A. Consumer Commissions: usable adjudicatory capsule
+
+📜 The Consumer Protection Act 2019 creates a three-tier **consumer-disputes redressal commission**
+hierarchy:
+
+| Commission | Original pecuniary jurisdiction under the 2021 Rules | Appellate route |
+|---|---:|---|
+| **District** | Consideration paid **up to ₹50 lakh** | State Commission |
+| **State** | Above ₹50 lakh and up to ₹2 crore | National Commission |
+| **National (NCDRC)** | Above ₹2 crore | Original-jurisdiction orders appeal to Supreme Court under the Act |
+
+- Jurisdiction turns on the **value of consideration paid**, not the compensation claimed.
+- The commissions can grant statutory consumer remedies, including refund, replacement,
+  compensation and discontinuance of unfair/restrictive practices.
+- The 2019 Act enables e-filing, mediation and filing from the place where the consumer resides or
+  works, subject to the statutory route.
+- Appeals have prescribed limitation/deposit requirements; quote them only when the question needs
+  procedural detail.
+
+> **CCPA ≠ Consumer Commission.** The **Central Consumer Protection Authority** is a regulator/
+> enforcement authority for class-wide consumer interests, misleading advertisements and unsafe
+> goods/services. District, State and National Commissions **adjudicate consumer disputes**.
+
+⚠️ Pecuniary thresholds are rule-made and date-sensitive. The figures above are the operative
+**Consumer Protection (Jurisdiction of the District Commission, State Commission and National
+Commission) Rules, 2021** position; re-check official rules before a dated current-affairs answer.
+
+## 9B. BCI and Law Commission: source and function distinction
+
+| Axis | Bar Council of India | Law Commission of India |
+|---|---|---|
+| Source | **Statutory** — Advocates Act, 1961 | **Executive/non-statutory** — constituted for a fixed term by Government order/notification |
+| Character | Professional regulatory body | Expert law-reform advisory body |
+| Core function | Standards of professional conduct/legal education, recognition-related functions and appellate discipline under the Act | Studies laws, consults and recommends repeal, revision, codification or reform through reports |
+| Binding force | Statutory rules/orders operate within the Act and remain judicially reviewable | Reports are **recommendatory**; government/Parliament may accept, modify or reject them |
+| Institutional trap | State Bar Councils enrol advocates in the first instance; BCI is not a court or a government department | It is not permanent, constitutional or created by a Law Commission Act |
+
+⚠️ A Law Commission report is evidence of a reform proposal, not proof of current law. Verify
+whether Parliament later enacted the proposal and whether the enacted text matches it.
 
 ---
 
@@ -307,14 +350,14 @@ question was asked, but does not exist today.
 
 ## 12. Lok Adalat and legal-services bodies
 
-- **NALSA/SLSAs/DLSAs** derive from the Legal Services Authorities Act, 1987.
-- Lok Adalats facilitate compromise/settlement; an award is deemed a civil-court decree, is final and
-  binding, and no appeal lies against it under the Act.
-- Ordinary Lok Adalat cannot impose a contested merits decision when settlement fails.
-- Permanent Lok Adalat for public utility services has a distinct statutory pre-litigation and,
-  subject to the Act, adjudicatory role.
-- Arbitration Tribunal rests on party agreement and the Arbitration and Conciliation Act, 1996; it
-  is not a government statutory commission merely because legislation governs arbitration.
+The consolidated owner is `Lok-Adalats-and-Other-Courts.md`. Minimum distinction:
+
+- **ordinary Lok Adalat** conciliates/records compromise and cannot impose a merits decision;
+- **Permanent Lok Adalat** handles eligible pre-litigation public-utility disputes and may decide
+  merits after failed conciliation under the Act;
+- **Family Courts/Gram Nyayalayas** are statutory courts, not Lok Adalat variants; and
+- an **Arbitration Tribunal** rests on party agreement and the Arbitration and Conciliation Act
+  1996, not the legal-services-authority hierarchy.
 
 ---
 
@@ -416,6 +459,17 @@ debate.
 
 NCBC is now constitutional, not statutory. This is a recurring Prelims trap and a Mains case study in
 the difference between entrenchment and effectiveness.
+
+### BCI versus Law Commission
+
+BCI is a **statutory professional regulator** under the Advocates Act 1961; the Law Commission is a
+periodically reconstituted **executive advisory body**. BCI exercises statutory regulatory/
+disciplinary functions; Law Commission reports neither bind courts nor amend law.
+
+### Consumer Commission versus CCPA
+
+Consumer Commissions are statutory **adjudicatory** bodies in a District–State–National hierarchy.
+The CCPA is a statutory **regulatory/enforcement** authority protecting consumers as a class.
 
 ---
 
@@ -521,6 +575,8 @@ tenure and independence litigation -> National Tribunal Commission/independent a
 | Banks Board Bureau | Executive/reform body, not a constitutional regulator; it was succeeded by the Financial Services Institutions Bureau in 2022, so answers must use PYQ-date discipline |
 | Tea Board | Statutory commodity board under Tea Act, 1953 |
 | National commissions | NCSC/NCST/NCBC constitutional; NHRC/NCW/NCM/NCPCR statutory |
+| Consumer bodies | Commissions adjudicate individual/group consumer disputes; CCPA regulates/enforces class-wide protection |
+| BCI versus Law Commission | BCI statutory regulator; Law Commission executive, temporary and recommendatory |
 
 ---
 
@@ -560,12 +616,124 @@ For any unfamiliar body, write:
 - NCBC has been constitutional since the 102nd Amendment.
 - CVC is statutory; CBI as an organisation is not established by a dedicated CBI statute.
 - NITI Aayog and Law Commission are executive/non-statutory.
+- BCI is statutory; Law Commission reports do not change law by themselves.
+- Consumer Commissions adjudicate; CCPA regulates/enforces — neither is the other.
 - IPAB has been abolished; answer old PYQs with date discipline.
 - Independent regulators remain accountable to statute, Parliament, audit and courts.
 - High Court judicial review cannot be eliminated merely by creating a tribunal.
 
 > **Core firewall:** This file and its specialist Core links contain all indispensable classification,
 > institutional design, traps and 2018-2025 PYQ answer structures.
+
+## 21. Answer architecture (10/15/20-mark support)
+
+> Purpose: this is a thin *answer-assembly* layer over sections 1-20. It does **not** repeat the taxonomy (§1-8), the regulator map (§9-12), the independence/accountability axes (§13-14), the capture table (§15), the PYQ answer engines (§17) or the Prelims route closure (§18); it adds only the demand-to-structure mapping, the consolidated appeal/judicial-review chain, the natural-justice case anchors and the reform-architecture material that §1-20 do not hold in answer-ready form. Appeal-limitation days, pecuniary limits, vacancy counts and pending-Bill statuses change — treat every such number as 📰 and re-verify.
+
+### 21.1 Demand and directive map
+
+| Demand family | Directive signals | Answer spine (using this file) |
+|---|---|---|
+| Source/taxonomy | "constitutional or statutory", "commission", Distinguish | §8 classification → source→entrenchment logic → effectiveness caveat → verdict |
+| Sector-case (a named regulator) | "role of CCI/RBI/SEBI", Discuss | parent Act (§9) → mandate/powers → appeal forum (21.4) → capacity/capture limit → verdict |
+| Procedural fairness | "quasi-judicial", "natural justice", Examine | §5 quasi-judicial test → *Kraipak*/*Maneka* (21.5) → reasoned order → appeal/review → verdict |
+| Independence vs accountability | "autonomy of regulators", "beyond Parliament?", Critically examine | §13 insulation axes → §14 answerability → 21.6 trade-off → reform → verdict |
+| Appellate / judicial review | "appeal against a regulator", "curtail courts", How far | 21.4 chain → merits-appeal vs judicial-review standard → *L. Chandra Kumar* floor → verdict |
+
+### 21.2 Qualified thesis options
+
+- *An independent regulator is not an unaccountable one: statutory insulation from the parent ministry and answerability to Parliament, audit and the courts are two halves of the same design, not a contradiction.*
+- *The regulatory state's legitimacy rests less on how much power a body has than on whether its adjudication is procedurally fair and its orders are reviewable — independence without natural justice is merely unchecked discretion.*
+- *Tribunalising regulatory appeals speeds specialised justice, but the High Court's supervisory jurisdiction is a basic-structure floor beneath every appellate chain, so no regulator sits outside constitutional review.*
+- *India's sectoral regulatory architecture manages expertise well but invites arbitrage; the case for activity-based regulation is a case for coherence, not for a super-regulator.*
+- *A regulator that combines rule-making, investigation and adjudication is efficient but structurally conflicted; its legitimacy therefore depends on internal functional separation and an external, independent appeal.*
+
+### 21.3 Mark-scaled structures
+
+| Marks | Architecture | Evidence load |
+|---:|---|---|
+| 10 | Thesis → parent Act + one design axis → appeal forum → one limit → verdict | 3 units |
+| 15 | Thesis → mandate/powers → procedural-fairness or appeal chain → capture/capacity counter → graded verdict | 5-6 units |
+| 20 | Thesis → taxonomy → powers/adjudication → appeal + judicial-review chain → independence-vs-accountability → reform (activity-based/FSLRC) → graded verdict | 7-8 units + a standard-of-review paragraph |
+
+### 21.4 Bank A — The consolidated appeal and judicial-review chain
+
+*(§9-11 name the tribunals; this bank supplies the statutory appeal route and the standard of review, which they do not.)*
+
+| First forum / regulator | Statutory appeal forum | Onward review |
+|---|---|---|
+| **SEBI** (Board / adjudicating officer) | **SAT** — SEBI Act **§15T** | **SC on a question of law** — SEBI Act **§15Z** |
+| **CCI** | **NCLAT** — Competition Act **§53B** (post-2017, replacing COMPAT) | **SC** — Competition Act **§53T** |
+| **TRAI / AERA** | **TDSAT** — TRAI Act **§14/§14A** | **SC** — TRAI Act **§18** |
+| **CERC / SERCs** | **APTEL** — Electricity Act **§111** | **SC on a question of law** — Electricity Act **§125** |
+| **PNGRB** | **APTEL** (serves as its appellate tribunal) | **SC on a question of law** |
+| **NGT** | *(no intermediate tribunal)* | **SC** — NGT Act **§22** |
+| **NCLT** (company / insolvency) | **NCLAT** — Companies Act **§421** / IBC **§61** | **SC on a question of law** — Companies Act **§423** / IBC **§62** |
+| **CAT / SAT (service)** | **High Court Division Bench** (*L. Chandra Kumar*) | **SC** — Art 136 |
+
+- **Claim:** a statutory appeal and judicial review differ in depth. **Distinction:** a statutory appeal (to SAT/NCLAT/TDSAT/APTEL) can re-open **facts and merits** within the Act; **judicial review** by the HC (**Art 226/227**) or SC tests only **legality, jurisdiction, procedural fairness and reasonableness** — the classic grounds of **illegality, irrationality (Wednesbury unreasonableness) and procedural impropriety**, with **proportionality** an emerging ground for rights review. **Mechanism:** courts do not substitute their commercial judgment for the regulator's. **Limitation:** ⚠️ proportionality's reach in ordinary administrative review is still developing — do not state it as settled for all action.
+- **Claim:** the appeal chain cannot be used to oust the constitutional courts. **Case:** *L. Chandra Kumar v. Union of India (1997)* — **Art 226/227 review is basic structure**; every regulatory tribunal's order remains reviewable by a **HC Division Bench**. **Mechanism:** a constitutional floor beneath the whole chain. **Limitation:** ⚠️ review is not a second merits appeal.
+
+- **Claim:** the Supreme Court keeps a discretionary residual route above the whole chain. **Provision:** **Art 136** — Special Leave to Appeal from *any* court or tribunal (except a court/tribunal under a law relating to the Armed Forces). **Mechanism:** even where a statute makes a tribunal's order "final," Art 136 and Art 226/227 survive. **Limitation:** ⚠️ Art 136 is discretionary and exceptional — not a regular appeal.
+- **Claim:** the statutory appeal and the writ are alternative, not cumulative. **Doctrine:** where the parent Act provides an appeal (SAT/APTEL/TDSAT/NCLAT), the HC will ordinarily require the litigant to **exhaust it** before a writ under Art 226 — but the writ survives for jurisdictional or rights failures. **Mechanism:** channels routine disputes to the specialist forum. **Limitation:** ⚠️ a rule of discretion, not an absolute bar.
+
+### 21.5 Bank B — Procedural fairness (natural-justice anchors §5 does not name)
+
+- **Claim:** natural justice binds regulators even when the statute is silent. **Case:** *A.K. Kraipak v. Union of India (1969)* — the line between quasi-judicial and administrative action is thin; **natural justice applies to administrative action**, and the **rule against bias** (*nemo judex in causa sua*) vitiates a decision (a selection-board member judging his own candidature). **Mechanism:** every regulatory adjudication must be bias-free. **Limitation:** ⚠️ what fairness requires varies with context.
+- **Claim:** a fair hearing is read into "fair procedure." **Case:** *Maneka Gandhi v. Union of India (1978)* — procedure must be **"just, fair and reasonable"** and **audi alteram partem** is implied even where a statute is silent (the Art 14-19-21 golden triangle). **Mechanism:** regulators must hear affected parties and pass **reasoned/speaking orders**. **Limitation:** ⚠️ urgent action may permit a **post-decisional** hearing.
+
+- **Claim:** a regulator's order must carry reasons. **Case:** *Siemens Engineering & Manufacturing Co. v. Union of India (1976)* — the **duty to give reasons** is an essential part of natural justice; a quasi-judicial authority must pass a **speaking order**. **Mechanism:** reasons make appeal and judicial review meaningful. **Limitation:** ⚠️ the depth of reasons expected varies with the stakes and the statute.
+
+- **Claim:** a settled administrative practice can generate an enforceable expectation of fair treatment. **Case:** *Food Corporation of India v. Kamdhenu Cattle Feed Industries (1993)* recognised the **doctrine of legitimate expectation** as an aspect of Article 14 non-arbitrariness — it grounds a right to be **heard/treated fairly**, though not necessarily a substantive benefit. **Mechanism:** disciplines sudden regulatory reversals. **Limitation:** ⚠️ it yields to an overriding public interest and cannot freeze policy.
+
+### 21.6 Bank C — Independence-versus-accountability and regulatory architecture
+
+- **Claim:** independence and accountability are a designed trade-off, not opposites. **Framework:** a regulator needs **insulation** (secure tenure, for-cause removal, own finance — §13) *and* **answerability** (parent statute, Parliamentary committees, CAG audit, judicial review — §14). **Mechanism:** deploy the two lists together in an answer. **Limitation:** ⚠️ independence is weakest where the regulated ministry controls appointment, tenure, budget and case-direction simultaneously.
+- **Claim:** even the most autonomous regulator retains a statutory answerability hook. **Evidence:** the **RBI Act 1934, §7** lets the Central Government, **after consultation with the Governor**, give **directions in the public interest** to the RBI. **Mechanism:** a designed safety-valve for accountability that coexists with operational autonomy. **Limitation:** 📰 the power has been treated as a last resort and its formal use is exceptional — cite it as an *existing statutory* power, not routine practice.
+- **Claim:** appellate consolidation reshaped the chain. **Evidence:** the **Finance Act 2017** merged several sectoral appellate tribunals into existing ones — this is why **CCI appeals now lie to NCLAT** (not the former COMPAT) and **AERA appeals to TDSAT**. **Mechanism:** fewer appellate forums, common service conditions. **Limitation:** ⚠️ the rationalisation's appointment rules were repeatedly struck down (*Rojer Mathew*, 2019; *Madras Bar Association* line) — see the tribunal Core file.
+
+### 21.7 Institutional incentives and capture in answer-use
+
+- **How to deploy §15 in an answer:** name the *specific* capture channel (information dependence, revolving door, insecure tenure) rather than asserting "capture" generically, then attach the matching corrective (disclosure, cooling-off, for-cause removal).
+- **Incentive logic:** ⚠️ because the government or the dominant firm is often the regulator's most powerful counterparty, the incentive to weaken appointments and tenure is structural — which is why *R. Gandhi*/*L. Chandra Kumar*-style judicial standards recur.
+- **Consequence framing:** capture and under-enforcement do not merely reduce efficiency; they convert a rights-protecting body into a legitimiser of the interests it regulates — the analytical payoff examiners reward.
+
+### 21.8 Variation and implementation constraints
+
+- **Design is not uniform:** ⚠️ appointment, finance and appeal routes differ by parent Act — always "return to the parent Act" (§9) before generalising.
+- **Date-sensitivity:** ✅ some bodies have changed form — **IPAB abolished (2021)**, **Banks Board Bureau → Financial Services Institutions Bureau (2022)**, **NCBC constitutional since the 102nd Amendment**; answer old PYQs with **PYQ-date discipline**.
+- **Capacity gap:** ⚠️ vacancies, weak investigation and delayed adjudication blunt even well-designed bodies, so reform proposals must fix the diagnosed mechanism, not add generic "more powers."
+
+### 21.9 Verdict scaffolds
+
+- **Independence verdict:** "An independent regulator answers to statute, Parliament, audit and the courts; autonomy is the means to impartial regulation, not an exemption from accountability."
+- **Procedural-fairness verdict:** "*Kraipak* and *Maneka* make natural justice and reasoned orders non-negotiable for every regulator; a body may be expert and independent, but if it is not fair it is not lawful."
+- **Appellate-review verdict:** "Specialised tribunals speed regulatory justice, yet *L. Chandra Kumar* keeps High Court review as a basic-structure floor — no regulator, however technical, sits beyond the constitutional courts."
+- **Architecture verdict:** "India's sectoral regulators build expertise but invite arbitrage; the answer is coherent, activity-based coordination, not a monolithic super-regulator."
+- **Taxonomy verdict:** "Legal source decides entrenchment — constitutional bodies are harder to abolish and easier to consult — but appointments, resources and governmental response, not the label, decide whether a commission actually protects rights."
+
+### 21.10 Prelims close-option distinctions (complement to §18)
+
+*(§18 already closes the source-classification demands — NGT/CPCB, FSSAI, IPAB, CGWA, RBI, Banks Board Bureau, Tea Board and the constitutional-vs-statutory commissions. This table adds only the appeal-forum pairings §18 omits.)*
+
+| Confusion pair | Correct discrimination |
+|---|---|
+| SEBI appeal route | **SAT (§15T)**, then **SC on a question of law (§15Z)** — not the High Court in the first instance |
+| CCI appeal route | **NCLAT (§53B)**, then **SC (§53T)** — COMPAT was replaced by NCLAT in 2017 |
+| TRAI vs TDSAT | TRAI regulates/recommends; **TDSAT** hears appeals — appeal onward to the **SC (§18)** |
+| Electricity vs PNGRB appeals | **both go to APTEL**; electricity appeals cite Electricity Act **§111/§125** |
+| NGT appeal | Straight to the **SC (§22)** — there is **no** intermediate green appellate tribunal |
+| Merits appeal vs judicial review | A statutory tribunal re-hears merits; **Art 226/227** tests only legality/procedure — not the same thing |
+| Tribunal "final" clause vs SC | A statutory "final order" still faces **Art 136 SLP** and **Art 226/227** — finality is never absolute |
+| Adjudicating officer vs the Board/Commission | A penalty by an **adjudicating officer** and an order of the **Board** may have different first-appeal routes under the same Act — read the section |
+
+### 21.11 Factual-risk and current-status controls
+
+- ✅ Keep the **parent-Act years** exact (RBI Act 1934, SEBI Act 1992, TRAI Act 1997, Competition Act 2002, Electricity Act 2003, PNGRB Act 2006, FSS Act 2006, NGT Act 2010, IBC 2016) — a wrong year is a wrong answer.
+- ✅ Appeal **section numbers** (SEBI §15T/§15Z, Competition §53B/§53T, Electricity §111/§125, NGT §22, Companies §421/§423, IBC §61/§62) are settled; **appeal-limitation days and pecuniary limits are volatile** — omit or mark 📰.
+- ✅ *Kraipak* (1969) and *Maneka Gandhi* (1978) are the natural-justice anchors; state their **exact propositions**, not a name-drop.
+- ⚠️/📰 Do **not** present **FSLRC's Indian Financial Code**, a **unified financial regulator**, or any **pending Bill** as law; a Bill/report is never a statute.
+- ⚠️ Distinguish Constitution text (Art 226/227, 323A/B, commission Articles) from statute (the parent Acts) from judicial interpretation (*Kraipak*, *Maneka*, *L. Chandra Kumar*, *R. Gandhi*) from administrative practice (search-cum-selection committees) — never blur the categories.
+- ⚠️ COMPAT no longer exists (merged into **NCLAT** in 2017) and **IPAB** was abolished (2021) — do not send an appeal to a forum that has been dissolved; verify the current appellate forum before citing it.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

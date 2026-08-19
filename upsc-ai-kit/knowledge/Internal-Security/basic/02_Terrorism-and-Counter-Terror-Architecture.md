@@ -268,6 +268,20 @@ definition exists because "a 'terrorist' in one country may be viewed as a
   without creating a new standalone agency; it works through existing
   coordination mechanisms (MAC, NIA).
 
+### Current manifestation card — use status verbs precisely
+
+- 📰 The **2025 Pahalgam terror-attack case** is a safe contemporary
+  manifestation example only at the level stated by the NIA: MHA
+  transferred the investigation to NIA, and NIA’s later case material/
+  chargesheets describe an alleged Pakistan-linked conspiracy and local
+  facilitation. In an answer, write **“NIA is investigating/has
+  chargesheeted”**, not “proved/convicted”; do not add casualty figures,
+  identities or an attribution beyond the dated NIA record.
+- 📰 NIA’s 2025 Jammu/Kashmir module searches likewise illustrate
+  investigation of alleged infiltration, logistical facilitation and
+  drone/arms-delivery channels. Searches, seizures and charges are
+  disruption/investigation stages, not a judicial finding.
+
 ## 9. PYQ application
 
 - 📰 **2025 Q9 (verbatim):** "Terrorism is a global scourge. How has it
@@ -314,7 +328,73 @@ definition exists because "a 'terrorist' in one country may be viewed as a
   state sponsors seeking deniability." Discuss with reference to
   terrorism in India.
 
-## 12. Study links
+## 12. Core answer architecture — manifestations, law and calibrated counter-terrorism
+
+> **Core firewall:** The following evidence bank and spines independently
+> support the 2019/2021/2025 terrorism demands. Advanced material is
+> optional depth, not a condition for a marks-worthy answer.
+
+### Demand decoder and thesis
+
+**Thesis:** Terrorism in India is not one incident category but a set of
+political/ideological coercion pathways; a credible counter-terror answer
+matches prevention, response, investigation, prosecution, finance
+disruption and recovery to the pathway while preserving lawful process.
+“Contemporary” requires a dated policy or officially verified event — not
+an uncited casualty figure or an asserted attribution.
+
+### Executable Core spines
+
+**10 marks — 2025 manifestation and measures.** Define terrorism in one
+line; organise manifestations by **hinterland/module, J&K proxy, North-East
+insurgency and LWE-linked violence**, with one named, safely dated
+institutional or case-status example for each relevant point rather than a
+chronology of attacks. The NIA-documented 2025 Pahalgam case can anchor
+the J&K leg if its investigation/chargesheet status is stated precisely.
+Map State measures as prevention/community resilience → MAC/IB
+information sharing → police/CAPF/NSG containment → NIA or State-police
+investigation → Special Court prosecution → finance disruption. Use
+PRAHAAR (MHA, 23 February 2026) as the policy umbrella, then state that
+its notification/policy text is not an outcome statistic.
+
+**15 marks — UAPA/NIA amendments in the security environment.** State the
+qualified thesis: the 2019 amendments widened preventive/investigative
+reach to address evolving networks, but statutory power requires
+proportionate, reviewable use and prosecutorial follow-through. Analyse
+individual designation, Inspector-rank NIA investigation, DG-NIA
+approval for seizure/attachment, extraterritorial scheduled-offence
+jurisdiction and Special Courts; contrast designation, arrest,
+charge-sheet and conviction. Close with the federal role of State police
+and the rule-of-law safeguard.
+
+**15/20 marks — complexity, causes, nexus and eradication.** Draw a short
+chain: ideology/grievance or external sponsorship → recruitment →
+finance/logistics/technology → attack/propaganda → fear and legitimacy
+loss. Explain why each link needs a distinct tool; add a limitation that
+overbroad coercion can create recruitment vulnerability. A verdict should
+prefer prevention and legitimate prosecution to a claim of “eradication”
+by force alone.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Terrorism can be state-enabled while operationally non-state. | Singh's proxy/deniability account; J&K route in topic 05. | Actor type and operational front must be analysed separately. | Attribute a current incident only to a dated competent-agency finding. |
+| Counter-terrorism is a chain, not an agency list. | NIA Act, 2008; MAC/SMAC; State police; Special Courts. | Intelligence, investigation and prosecution have different mandates. | Intelligence lead is not admissible proof; NIA does not replace local police. |
+| The legal framework changed after the book period. | UAPA and NIA amendments, 2019; BNS section 113 in force 1 July 2024. | A current answer can distinguish special and general penal routes. | BNS section 113 did not repeal UAPA; choice of statute is not proof of outcome. |
+| PRAHAAR adds a policy architecture. | MHA’s National Counter-Terrorism Policy and Strategy, 23 February 2026. | Its prevention, response, capacity, rights/rule-of-law, attenuating-conditions, international-alignment and recovery/resilience pillars give a current framework. | It is a policy/strategy, not a new arresting, investigating or intelligence agency. |
+
+### Direct PYQ routes now owned in Core
+
+- **2019 GS-III:** use the UAPA/NIA 15-mark spine; state a security
+  rationale and a due-process qualification for every expanded power.
+- **2021 GS-III:** use the complexity chain and link terror finance to
+  topic 10, organised-crime logistics to topic 11 and digital
+  radicalisation to topic 09 without confusing their objectives.
+- **2025 GS-III:** use the 10-mark manifestation/measures spine; “recent”
+  policy is a safer current example than an unverified attack claim.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/02_Terrorism-and-Counter-Terror-Architecture.md`.
@@ -345,3 +425,26 @@ definition exists because "a 'terrorist' in one country may be viewed as a
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2021
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-III | 19 | UAPA and NIA Act amendments in prevailing security environment | Analyse · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-III | 20 | Terrorism complexity causes linkages nexus and eradication measures | Analyse · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- UAPA and NIA Act amendments in prevailing security environment
+- Terrorism complexity causes linkages nexus and eradication measures
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -68,6 +68,56 @@ Ayer attempted in the 2nd edition (1946) to formulate a "weak" criterion that wo
 
 "There are mountains on the far side of the moon" was meaningful *before* spaceflight because it was verifiable **in principle** — we could specify what observations would settle it, even if no one was in a position to make them. "The Absolute is beyond all experience" is not verifiable even in principle.
 
+### 1.5 THE POSITIVE CASE FOR VERIFICATION ⚠️→✅ — *why* anyone believed it
+
+Textbook treatments present verificationism only through what it destroys. An examiner-grade answer must first show why intelligent people found it compelling; only then does the critique carry weight. There are **five independent motivations**, and they are not equally strong.
+
+| # | Motivation | Statement | Strength |
+|---|---|---|---|
+| **1** | **The difference-argument** (Schlick, "Positivism and Realism," 1932) | If two putative hypotheses agree on **every** possible observation, they do not differ in content — they are one hypothesis in two vocabularies. A supposed difference that makes no difference anywhere is not a difference in what is *said*. | ⚠️ The strongest motivation, and the one that survives longest: it is a **principle of significance**, not of epistemology. |
+| **2** | **The Einstein model** | Einstein (1905) removed a two-century impasse about absolute simultaneity by asking what *procedure* determines whether two distant events are simultaneous — and finding none that is frame-independent. The metaphysical question dissolved into a definition. | ✅ Historically decisive for the Circle. Schlick was a physicist; the principle was offered as the **generalisation of a successful scientific method**, not as a philosopher's stipulation. |
+| **3** | **Meaning as rule of use** | To know what a sentence means is to know what to *do* with it — under what circumstances to assert it. Verification-conditions are the operational form of that knowledge. | ⚠️ This motivation is genuinely Wittgensteinian and outlives positivism: it reappears, transformed, in [`Later-Wittgenstein.md`](Later-Wittgenstein.md) as meaning-is-use. |
+| **4** | **The demarcation motive** | A criterion is needed to separate science from pseudo-science and from metaphysics. Verifiability offers a single, public, non-arbitrary line. | ❓ Weakest in retrospect: **Popper** (*Logik der Forschung*, 1934) shows that **falsifiability**, not verifiability, is the correct demarcation, and that demarcation is about **science**, not about **meaning** — Popper explicitly held metaphysics to be meaningful though unscientific. |
+| **5** | **The unity-of-science programme** | If all cognitively significant statements reduce to observation-statements in a single (physicalist) language, the sciences are unified and philosophy becomes the logic of science. | ⚠️ Programmatic rather than argumentative; it explains the Circle's enthusiasm, not the principle's truth. |
+
+**The positive argument, numbered ⚠️:**
+1. To understand a sentence is to know what it would be for it to be true.
+2. To know what it would be for it to be true is to be able to distinguish the circumstances in which it holds from those in which it does not.
+3. To distinguish those circumstances is to know what would count as evidence either way.
+4. ∴ Understanding a sentence = grasping its verification-conditions.
+5. ∴ A sentence for which no evidence could count either way has nothing for understanding to consist in.
+6. ∴ Such a sentence is not false; it is **without cognitive content**.
+
+**Presuppositions ⚠️ (say these before you criticise, and the criticism lands harder):**
+- **P1** Understanding is exhausted by knowledge of truth-conditions, and truth-conditions are exhausted by observation-conditions. (Step 2→3 makes this identification; it is not argued for.)
+- **P2** Observation-statements are epistemically privileged — there is a level of report that is not itself theory-laden. **This is exactly what the protocol-sentence debate (§P) breaks open from within.**
+- **P3** Sentences face experience **individually**. Destroyed by Duhem–Quine holism: a sentence has verification-conditions only relative to a whole body of theory. See [`Quine-Strawson.md`](Quine-Strawson.md).
+- **P4** The analytic/synthetic distinction is sharp — the principle's first disjunct depends on it entirely. Destroyed by "Two Dogmas of Empiricism" (1951).
+
+> ⚠️ **Answer-craft:** the mature verdict is that verificationism dies of **its presuppositions**, not of the self-refutation objection. P2 falls to Neurath, P3 and P4 to Quine. The self-refutation charge (§4) is the easiest objection and the least interesting one.
+
+### 1.6 THE *TRACTATUS*-TO-VERIFICATION LINEAGE ⚠️ — what the Circle took, and what it added
+
+**The historical thread ✅:**
+1. **1921/22** — the *Tractatus* appears. Its doctrine is that a proposition has sense iff it is **bipolar** — capable of truth and capable of falsity — and that sense is fixed by **truth-conditions** (see [`Moore-Russell-EarlyWittgenstein.md`](Moore-Russell-EarlyWittgenstein.md) §6.3).
+2. **1926–27** — the Schlick Circle reads the *Tractatus* aloud, proposition by proposition, over more than a year. Its influence on the Circle's manifesto (*Wissenschaftliche Weltauffassung: Der Wiener Kreis*, 1929) is explicit.
+3. **1929–32** — Wittgenstein converses with **Schlick** and **Waismann** (recorded in *Wittgenstein and the Vienna Circle*, ed. McGuinness, 1979). In these conversations verificationist formulations do occur.
+4. **1936** — **Ayer**, who attended Circle meetings in 1932–33, transmits the doctrine to the English-speaking world in *Language, Truth and Logic*.
+
+**The step the Circle added — and it is not a small one ⚠️:**
+| *Tractatus* | Vienna Circle |
+|---|---|
+| Sense = **truth-conditions**: a proposition shows what is the case *if* it is true (4.022, 4.024) | Sense = **verification-conditions**: a proposition means the *method* of establishing it |
+| Bipolarity is a **logical** requirement (a proposition must have a determinate place in logical space) | Verifiability is an **epistemic** requirement (someone must be able to check) |
+| Metaphysics is *unsinnig* because it fails to **depict a possible state of affairs** | Metaphysics is meaningless because **no observation is relevant to it** |
+| The elementary base is composed of **objects** never exemplified — a logical postulate | The base is composed of **observations/protocols** — an empirical claim |
+| Ethics and the mystical are **not** dismissed; they are *shown*, and 6.522 affirms their reality | Ethics is **reduced to emotive expression**; nothing is "shown" |
+
+> ⚠️ **The two most examinable corrections here.**
+> **(i)** Wittgenstein was **never a member** of the Vienna Circle. He met only Schlick and Waismann (and briefly Carnap and Feigl), refused to attend meetings, and at times read Tagore's poetry to them with his back turned rather than discuss logic — an anecdote worth one clause, not more.
+> **(ii)** The *Tractatus* is **not** a verificationist text. Moving from truth-conditions to verification-conditions is the **Circle's own empiricist addition**, and it is exactly the move that generates the strong/weak dilemma (§1.2), since truth-conditions can be specified for universal laws while conclusive verification-conditions cannot. Say this and you separate yourself immediately from the standard "the *Tractatus* inspired positivism" answer.
+> **(iii)** Wittgenstein's later attitude: verification survives in his own work only as a **grammatical** remark — "Asking whether and how a proposition can be verified is only a particular way of asking 'How d'you mean?'" (*Philosophical Investigations* §353) — i.e. a heuristic about the *kind* of question, not a criterion of meaningfulness.
+
 ---
 
 ## 2. REJECTION OF METAPHYSICS ✅ (PYQ 2023, 2021)
@@ -112,6 +162,29 @@ Since ethical and theological statements are neither analytic nor empirically ve
 | **Theology** | "God exists" = meaningless (not merely false); "God is good" doubly meaningless. Religious language is emotive/performative, not cognitive. |
 
 > ✅ *"'You stole that money' — I add no factual content; I merely evince my moral disapproval."* — Ayer (in substance)
+
+### 2.5 AYER vs STEVENSON — two emotivisms, not one ⚠️→✅
+
+**The single most common error on this sub-topic is to treat "emotivism (Ayer, Stevenson)" as one doctrine.** They differ on the question that matters most: *whether moral argument is possible at all.*
+
+| Axis | **AYER** — *Language, Truth and Logic* (1936), Ch. 6 | **STEVENSON** — "The Emotive Meaning of Ethical Terms" (1937); *Ethics and Language* (1944) |
+|---|---|---|
+| **What an ethical term does** | It is a **pure expression** of feeling. Adding "…is wrong" to "You stole that money" adds **no factual content whatever**; it merely *evinces* disapproval and may *evoke* it in the hearer. | Ethical terms have **two kinds of meaning**: a **descriptive** meaning (varying with context) *and* an **emotive** meaning (a disposition, built by usage, to express and evoke attitude). |
+| **Is it a report of feeling?** | **No** — and Ayer is emphatic. Saying "I disapprove of stealing" would be a *statement* about the speaker, true or false. Ayer rejects that (subjectivism) because it makes moral disagreement into disagreement about autobiography. Expression ≠ report. | Same rejection, same reason. Both are **non-cognitivists**, not subjectivists. ⚠️ Getting this right is worth a mark by itself. |
+| **Working model of "X is good"** | (an expression, with no propositional paraphrase at all) | "**I approve of X; do so as well.**" — i.e. an expression of attitude **plus an imperative/persuasive element**. |
+| **Nature of ethical disagreement** | Ethical disputes are **always really about facts**. Once all facts are agreed, if attitudes still differ, "we should not attempt to argue" — there is nothing left to dispute. | The crucial innovation: **disagreement in belief** vs **disagreement in attitude**. Genuine moral disagreement is disagreement *in attitude*, and it **can survive complete factual agreement**. |
+| **Is moral argument possible?** | Essentially **no** — argument is possible only about the facts surrounding the case. | **Yes.** Reasons are relevant, though not deductively: they work **causally**, by altering the beliefs on which attitudes rest. Stevenson distinguishes **rational methods** (supplying beliefs that redirect attitude) from **non-rational/persuasive methods**. |
+| **Distinctive further doctrine** | Emotivism is a **corollary** of the verification principle: ethics is neither analytic nor verifiable, therefore non-cognitive. It is derived top-down from the theory of meaning. | **Persuasive definition** — redefining a term that carries favourable emotive force so as to redirect attitudes while appearing to report a fact ("*real* democracy is…", "*true* freedom means…"). Stevenson's account is built bottom-up from the **psychology of linguistic influence**, and does not depend on the verification principle at all. |
+| **Consequence for the file** | If verificationism falls, Ayer's ethics falls with it. | Stevenson's emotivism is **logically independent** of verificationism and therefore survives its collapse — which is why he, and not Ayer, is the ancestor of Hare's prescriptivism and Blackburn's quasi-realism. |
+
+**Shared objections → replies ❓:**
+| Objection | Force | Reply available |
+|---|---|---|
+| **The Frege–Geach embedding problem** (Geach 1960, 1965; anticipated by Frege): "If lying is wrong, then getting your brother to lie is wrong" — the antecedent expresses no attitude, yet must mean the same as the free-standing "Lying is wrong" for the *modus ponens* to be valid. Expressivism cannot explain unasserted contexts. | **Decisive against simple emotivism.** Name it and the answer is immediately above average. | Later expressivists (Blackburn, Gibbard) construct logics of attitude; neither Ayer nor Stevenson had an answer. |
+| Emotivism cannot distinguish moral disapproval from mere distaste (broccoli vs murder). | Strong | Stevenson can appeal to the *generality* and *social* function of moral attitudes; Ayer cannot. |
+| It makes moral progress unintelligible — attitudes change, but nothing gets *truer*. | Strong | Stevenson: progress = convergence of attitude under fuller belief; Ayer: concedes the point. |
+
+**Executable verdict:** "Ayer's emotivism is a **deduction** from the verification principle and shares its fate; Stevenson's is an **independent theory of linguistic influence** which explains what Ayer could not — how moral argument can be genuine even though moral judgements state no fact. If asked to assess emotivism, distinguish these two and rule that the doctrine survives only in Stevenson's form, and even then only until the Frege–Geach problem is met."
 
 ---
 
@@ -176,6 +249,104 @@ The positivist's two baskets capture both; metaphysics ("The Absolute is beyond 
 Universal empirical laws ("All metals expand when heated") are **synthetic** — they say something about the world — but they are not *conclusively* verifiable (we cannot observe all metals, past and future). Under strong verification they would be meaningless. This is why Ayer adopts weak verification. But even under weak verification, the meaning of a universal law is its **potential falsifiability** (each negative instance is observable).
 
 **Can the same account apply to metaphysical statements?** No — because a metaphysical statement (e.g. "All reality is spiritual") specifies no observation that would count *for or against* it, not even in principle. General scientific statements are weakly verifiable (and strongly falsifiable); metaphysical universals are neither. ✅
+
+---
+
+## P. THE PROTOCOL-SENTENCE DEBATE ✅ (Schlick vs Neurath, 1932–35) — positivism's internal crisis
+
+**Why it matters.** Verificationism requires a **base**: statements against which everything else is checked. The Circle's own attempt to specify that base split it in two, and the split — not any external attack — is what dissolved the foundational programme. This debate is the direct ancestor of Quine's holism and is the highest-value "advanced" content in this file.
+
+**The question:** what is the **form and status** of *Protokollsätze* — the observation-statements in which verification terminates? Are they (a) incorrigible foundations, or (b) ordinary revisable sentences?
+
+| | **SCHLICK** — "The Foundation of Knowledge" (*Über das Fundament der Erkenntnis*, 1934) | **NEURATH** — "Protocol Sentences" (*Protokollsätze*, 1932) |
+|---|---|---|
+| **Position** | **Foundationalism** | **Coherentism + physicalism** |
+| **The base** | *Konstatierungen* — "**affirmations**" of the form "**Here now blue**" | Protocol sentences of a **physicalist**, fully explicit form, including the observer and time: *"Otto's protocol at 3:17: [at 3:16 Otto's speech-thinking was: [at 3:15 there was a table perceived by Otto in the room]]"* |
+| **Status** | **Absolutely certain**, because in them understanding the sentence and verifying it are **one and the same act** — there is no gap for error to enter | **Fallible and revisable like any other sentence.** Nothing is sacrosanct; even a protocol may be struck out if it conflicts with the rest of the system |
+| **Relation to reality** | They are the "**unshakeable point of contact**" between the system of knowledge and reality | **"Statements are compared with statements, not with 'experiences'."** There is no exit from language to an unmediated given |
+| **Their catch** | Affirmations **cannot be written down and preserved**: the moment one records "here now blue," what one has is a hypothesis about a past moment, not the affirmation itself. Their certainty is **momentary and unusable** | Consistency with the accepted system is the only test; conflicting protocols are decided by the working practice of the scientific community |
+| **Image** | knowledge as a structure needing a fixed ground | ✅ **Neurath's boat:** "*We are like sailors who have to rebuild their ship on the open sea, without ever being able to dismantle it in dry-dock and reconstruct it from the best components.*" |
+
+**Carnap's mediation (1932, "Über Protokollsätze"):** the *form* of protocol sentences is not a fact to be discovered but a **matter of choice of language** — which is precisely his Principle of Tolerance (§C) applied to the Circle's own foundations. This concession effectively ends foundationalism inside the Circle.
+
+**Schlick's objection to Neurath (and it is a good one) ❓:** if truth is coherence with the accepted system, then a **consistent fairy-tale** is as "true" as science; coherence alone cannot select between rival internally consistent systems. **Neurath's reply:** the selection is made not by logic but by the **actual encyclopaedic practice** of scientists, which is constrained by the protocols they in fact accept. **Residual:** this makes the choice sociological rather than epistemic — Schlick's charge is not fully met, and Neurath accepts a naturalistic consequence Schlick found unacceptable.
+
+**The two conclusions to carry away ⚠️:**
+1. The Circle could not agree on what verification terminates in — so the **verification principle never had a specified base**. This is a far deeper problem than the self-refutation objection.
+2. **Neurath's boat is quoted by Quine as the epigraph of *Word and Object* (1960).** The line from Neurath's anti-foundationalism to Quinean holism and naturalised epistemology is direct and acknowledged. See [`Quine-Strawson.md`](Quine-Strawson.md).
+
+---
+
+## C. CARNAP'S PRINCIPLE OF TOLERANCE ✅ (*Logical Syntax of Language*, 1934; English 1937, §17)
+
+**Statement ✅:**
+> "**In logic, there are no morals.** Everyone is at liberty to build up his own logic, i.e. his own form of language, as he wishes. All that is required of him is that, if he wishes to discuss it, he must state his methods clearly, and give **syntactical rules instead of philosophical arguments**."
+
+**What it does — numbered:**
+1. There is no single "correct" logic or language *given* by reality; there are only **linguistic frameworks**, each constituted by its own rules.
+2. A framework is chosen on **pragmatic** grounds — fruitfulness, simplicity, convenience — not on grounds of truth.
+3. ∴ Traditional metaphysical disputes (are there numbers? are there classes? is the world made of things or events?) are not deep discoveries but **disguised proposals** about which framework to adopt.
+4. ∴ The dispute between intuitionist and classical logic, or between phenomenalist and physicalist language, is not a factual disagreement but a choice of instrument.
+
+**The internal / external distinction ("Empiricism, Semantics, and Ontology," 1950) ✅:**
+| Question type | Example | How settled |
+|---|---|---|
+| **Internal** to a framework | "Is there a prime number greater than 100?" — asked **within** the arithmetical framework | By the rules of the framework: **trivially yes** |
+| **External** to any framework | "Are there **really** numbers?" — asked about the framework as a whole | **Not a theoretical question at all.** It is the *practical* question whether to adopt the number-language, answered by usefulness |
+
+**Why this is Carnap's most durable idea ⚠️:** it converts ontology from a metaphysical inquiry into a decision about language, and it is the most sophisticated version of the positivist rejection of metaphysics — far stronger than Ayer's blunt "meaningless," because it explains *why* the disputes are irresoluble rather than merely condemning them.
+
+**Quine's attack ✅ (the crucial follow-through):** in "On Carnap's Views on Ontology" (1951) and throughout, Quine argues the internal/external distinction **presupposes** the analytic/synthetic distinction — internal questions are settled by meanings, external ones are not — and since "Two Dogmas" has shown that distinction to be untenable, the tolerance framework collapses. For Quine there is only **one** kind of ontological question, answered by asking what our best total theory quantifies over ("**to be is to be the value of a bound variable**"). See [`Quine-Strawson.md`](Quine-Strawson.md) §1.
+
+**Executable verdict:** "The Principle of Tolerance is the positivists' most defensible anti-metaphysical weapon and their most explicit confession: metaphysics is rejected not because it is false, nor even simply because it is unverifiable, but because its questions are framework-choices misread as discoveries. Its fate is instructive — it falls not to a metaphysician's counter-argument but to an empiricist's, when Quine removes the analytic/synthetic distinction on which the internal/external line depends."
+
+---
+
+## D. DIRECTIVE DECODER ⚠️ — what each command word obliges you to *do* here
+
+| Directive | What it demands | Structural obligation for **this** file | Fatal error |
+|---|---|---|---|
+| **Discuss the verification theory of meaning** | the **positive case first**, then the critique | §1.5's five motivations, then strong/weak, then the presupposition-based critique. | Opening with "the principle is self-refuting." |
+| **Critically examine the rejection of metaphysics** | assessment dominates; the **diagnosis** is the marked part | Show *how* metaphysics is generated (surface grammar), not merely that it is condemned; then Carnap's tolerance version, which is stronger than Ayer's. | "Metaphysics is meaningless" repeated in three ways. |
+| **Elucidate the linguistic theory of necessary propositions** | show it **solves a problem for empiricism** | State the trilemma (necessary + a priori + certain vs all knowledge from experience) before giving the answer (necessity is linguistic/conventional). | Defining "analytic" and stopping. |
+| **Strong and weak verification — evaluate** (2025 Q3b) | show the **dilemma**, not two definitions | Strong kills science; weak readmits metaphysics; Church's 1949 result shows Ayer's repair fails. Then rule. | Two definitions with no dilemma. |
+| **How are pseudo-statements identified?** (2021 Q2b) | a **criterion plus worked examples** | Two routes (no empirical criterion for a term; terms combined with no truth-conditions), then four graded examples including one *meaningful* control case. | Examples with no criterion. |
+| **Comment on "Nothing noths"** | attribute correctly and analyse the **grammatical** error | Heidegger's *das Nichts nichtet*; Carnap's 1932 diagnosis: a quantifier treated as a name, plus a pseudo-verb. Then Heidegger's available reply. | Ridicule without analysis; or misquoting the phrase (see §T). |
+| **Assess emotivism** | distinguish **Ayer from Stevenson** and rule | §2.5 table, then Frege–Geach, then a verdict. | Treating emotivism as one doctrine. |
+| **Trace the influence of Wittgenstein on positivism** | show what was taken **and what was added** | §1.6: truth-conditions → verification-conditions is the Circle's own move; Wittgenstein was never a member. | "The *Tractatus* founded logical positivism." |
+
+---
+
+## V. GRADED VERDICT BANK ⚠️ — executable closing positions
+
+| Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict** |
+|---|---|---|---|
+| **Verification principle** | The principle is a criterion of **significance**, not of truth, and its real motivation is Einstein's dissolution of absolute simultaneity, not a philosopher's prejudice. | …It fails not because it is self-refuting but because no formulation is both liberal enough for science and strict enough to exclude metaphysics — the strong/weak dilemma, sealed by Church's 1949 result against Ayer's revision. | Verificationism dies of its **presuppositions**, not of its critics: Neurath removes the incorrigible base, Quine removes both sentence-by-sentence testability and the analytic/synthetic distinction on which the principle's first disjunct rests. What survives is the difference-argument — that a putative distinction with no possible consequence anywhere is not a distinction in content — and that survives precisely because it is a principle of significance and not a theory of meaning. |
+| **Rejection of metaphysics** | Metaphysics is not declared false but placed outside the class of statements that can be true or false. | …The diagnosis (surface grammar misleading logical form) is more valuable than the verdict, because it is a *method* that can be applied case by case rather than a blanket dismissal. | Carnap's tolerance version is far stronger than Ayer's: metaphysical disputes are **framework-choices misread as discoveries**, which explains their irresolubility instead of merely condemning them. That the strongest anti-metaphysical position in the movement falls to another empiricist — Quine, by dissolving the internal/external line — is the most telling fact about the episode. |
+| **Self-refutation objection** | The principle is neither analytic nor empirically verifiable, so by its own test it is meaningless. | …The available reply — that it is a **proposal** or a **recommendation** about how to use "meaningful," not an assertion — is coherent but disarms the principle: a proposal cannot *convict* metaphysics of anything, only decline to talk to it. | The self-refutation charge is the most famous objection and the least interesting. It is escapable (via the proposal reading) at the cost of the principle's polemical force, whereas the internal problems — the missing protocol base and the strong/weak dilemma — are inescapable. An answer that leads with self-refutation and stops there has taken the easy road. |
+| **Linguistic theory of necessity** | Necessary propositions are true by **linguistic convention**, so empiricism can admit necessity without admitting synthetic a priori knowledge. | …The price is that logic and mathematics say nothing about the world — which Ayer accepts but which makes their applicability in physics unexplained. | The doctrine is Hume's Fork with a linguistic mechanism supplied. It fails at both ends: Quine shows that "true by convention" cannot be made non-circular (the conventions must already be used to derive their consequences — "Truth by Convention," 1936), and Gödel shows arithmetic is not exhausted by any consistent set of syntactic rules. The theory is therefore the most technically defeated doctrine in the whole movement, and the most instructive. |
+| **Protocol sentences** | The Circle could not agree on what verification terminates in — so the principle never had a specified base. | …Schlick's affirmations are certain but unrecordable; Neurath's protocols are recordable but fallible. There is no third option, and the movement chose Neurath. | The protocol-sentence debate is where empiricist foundationalism destroys itself from within, and Neurath's boat is the exact image of what replaces it. The line to Quine is direct and acknowledged — Quine takes Neurath's ship as the epigraph of *Word and Object* — so logical positivism is best understood not as a doctrine refuted from outside but as the movement that generated its own successor. |
+| **Emotivism** | Ethical utterances express and evoke attitudes; they state nothing and are neither true nor false. | …Ayer's version is a corollary of verificationism and makes moral argument impossible; Stevenson's is independent of it and explains moral argument through disagreement in attitude. | Emotivism survives only in Stevenson's form, and only until the Frege–Geach embedding problem is answered: "if lying is wrong then…" expresses no attitude yet must carry the same content. That the objection was raised by Geach in the 1960s and answered only by later expressivists shows both the doctrine's fertility and its incompleteness. |
+| **Tolerance** | "In logic there are no morals" — a logic is chosen for its usefulness, not discovered for its truth. | …The internal/external distinction is the sharpest anti-metaphysical instrument the movement produced, because it locates the error precisely: not in the answers but in taking the question to be theoretical. | Tolerance is Carnap's most durable idea and it falls to the most economical possible objection: the internal/external line presupposes the analytic/synthetic line, and Quine has removed it. What remains is Quine's own criterion — to be is to be the value of a bound variable — which restores ontology as a legitimate question answered within our best total theory. Positivism therefore ends by handing metaphysics back, in a chastened form, to the very empiricism that had expelled it. |
+
+---
+
+## T. TRANSLATION, QUOTATION & PROVENANCE DISCIPLINE ✅
+
+| Item | Correct provenance | Caution |
+|---|---|---|
+| **"The meaning of a proposition is the method of its verification"** | Attributable to **Schlick** ("Meaning and Verification," 1936) and to Waismann's records of Wittgenstein's 1929–30 conversations | ⚠️ Do **not** attribute it to the *Tractatus*. It is not in the *Tractatus*, and the shift from truth-conditions to verification-conditions is the Circle's addition (§1.6). |
+| *Language, Truth and Logic* | Ayer, **1936**; substantially revised **Introduction** in the **2nd edition, 1946** | ⚠️ The revised verifiability criterion is in the **1946 Introduction**, not the 1936 text; Church's refutation is **1949**. Getting this sequence right is a dating mark. |
+| **Vienna Circle manifesto** | *Wissenschaftliche Weltauffassung: Der Wiener Kreis* (**1929**), by **Hahn, Neurath and Carnap** — dedicated to Schlick | ⚠️ It is a **collective** document, not Schlick's; Schlick was the Circle's leader but not the manifesto's author. |
+| **Carnap on Heidegger** | "Überwindung der Metaphysik durch logische Analyse der Sprache" (*Erkenntnis*, **1932**); English "The Elimination of Metaphysics Through Logical Analysis of Language" | ✅ Safe with the reference. |
+| **"Nothing noths"** | ✅ **Correct English renderings:** "**Nothing noths**" or "**the nothing nothings**" — for Heidegger's *"Das Nichts nichtet"* (*Was ist Metaphysik?*, **1929**) | ❌ **"Nothing noughts" is not a rendering of this phrase and must never be written.** ⚠️ Also give Heidegger's available reply in a critical answer: he holds that *das Nichts* is disclosed in the mood of *Angst* and that the "violation" of logical grammar is deliberate, since logic itself presupposes the disclosure of beings as a whole. Reporting the reply is what turns ridicule into assessment. See [`Existentialism.md`](Existentialism.md). |
+| **Neurath's boat** | Neurath, "Protokollsätze," *Erkenntnis* (**1932**); an earlier version appears in *Anti-Spengler* (1921) and in a 1913 paper | ⚠️ Renderings vary ("sailors who must rebuild their ship on the open sea"). Mark it a rendering, and note that **Quine uses it as the epigraph of *Word and Object* (1960)**. |
+| **Principle of Tolerance** | Carnap, *Logische Syntax der Sprache* (**1934**); English *The Logical Syntax of Language* (**1937**), **§17** | ✅ "In logic, there are no morals" is the standard English rendering of *In der Logik gibt es keine Moral*; give the § reference. |
+| **Internal/external questions** | Carnap, "Empiricism, Semantics, and Ontology," *Revue Internationale de Philosophie* (**1950**) | ✅ Safe. |
+| **Schlick on affirmations** | "Über das Fundament der Erkenntnis," *Erkenntnis* (**1934**) | ⚠️ *Konstatierungen* is rendered "affirmations" (standard) or "observation statements"; give the German once. |
+| **Emotivism** | Ayer, *LTL* Ch. 6 (1936); Stevenson, "The Emotive Meaning of Ethical Terms," *Mind* (**1937**) and *Ethics and Language* (**1944**) | ⚠️ Never merge them (§2.5). |
+| **Popper** | *Logik der Forschung* (**1934**); English *The Logic of Scientific Discovery* (**1959**) | ❌ Popper was **not** a member of the Vienna Circle — he called himself its "official opposition." His falsifiability criterion is a criterion of **demarcation**, not of **meaning**; he explicitly regarded metaphysics as meaningful. Conflating the two is the single most common error on this item. |
+| Quine's attacks | "Truth by Convention" (**1936**); "Two Dogmas of Empiricism," *Philosophical Review* (**1951**); *Word and Object* (**1960**) | ✅ Dates are worth stating; the 1936 paper predates *LTL*'s second edition and is the earliest serious blow. |
 
 ---
 

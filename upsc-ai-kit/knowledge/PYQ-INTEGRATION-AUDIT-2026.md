@@ -130,6 +130,12 @@
 
 ### Disaster-Management
 
+> **Re-evaluation boundary note — 15 August 2026:** this ledger has no
+> direct 2026 Disaster Management assignment. The climate-resilience and
+> mangrove questions remain Environment-and-Ecology routes; no
+> opportunistic Disaster Management ownership was added. This is a
+> deliberate boundary decision, not a Core gap.
+
 **No routed 2026 question in this owner:**
 
 - `Disaster-Management/advanced/01_Concepts-Risk-Resilience-and-Sendai.md`

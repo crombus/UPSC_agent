@@ -157,10 +157,12 @@ schedules.
 - 📰 **INCOIS/ITEWC's official tsunami-service-provider status** —
   operational since **15 October 2007**, an approved UNESCO-IOC Tsunami
   Service Provider under IOTWMS, detecting in ~10 minutes and
-  disseminating in ~20 minutes to India and **26 Indian Ocean-rim
-  countries** (PIB, 4 February 2026) — is the correct current anchor for
+  disseminating in ~20 minutes to India and the regional IOTWMS service
+  (PIB, 4 February 2026) — is the correct current anchor for
   warning-system operational status, service-provider scope and any claim
-  about monitoring-station counts.
+  about monitoring-station counts. ⚠️ Recipient-country counts differ
+  across dated official descriptions; use INCOIS's current roster rather
+  than memorising a number.
 - 📰 **UNESCO-IOC "Tsunami Ready"** is the correct anchor for
   community-preparedness claims: recognition is community-level and
   indicator-based, first awarded in India to **Venkatraipur** and

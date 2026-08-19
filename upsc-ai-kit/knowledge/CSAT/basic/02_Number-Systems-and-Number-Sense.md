@@ -64,7 +64,63 @@ factor count** - computing the whole number is usually the slow, error-prone pat
 - ⚠️ *Condition:* "`a` divides `b`" and "`b` divides `a`" are different claims; only one holds unless
   `a = b`. Divisibility is an **implication**, not an equivalence.
 
-## 5. Original solved examples
+## 5. Core number sense methods
+
+### 5.1 Recurring decimals
+
+| Form | Convert | Condition |
+|---|---|---|
+| `0.\overline{a}` | `a/9` | `a` is one recurring digit. |
+| `0.\overline{ab}` | `ab/99` | `ab` is the two-digit repeating block. |
+| `0.uv\overline{w}` | `(uvw - uv) / [10^2(10^1-1)]` | Subtract the non-repeating prefix; denominator has prefix zeros, then recurring-block 9s. |
+
+**Worked example.** `x = 0.1\overline{6}`. Then `100x = 16.\overline6` and `10x =
+1.\overline6`; subtract: `90x = 15`, so `x = 1/6`. Do not use the `a/9` shortcut when a
+non-repeating prefix exists.
+
+### 5.2 Place value, digit counts and reversal
+
+- An `n`-digit positive integer lies from `10^(n-1)` to `10^n - 1`.
+- Digits used from 1 to `N` are counted in blocks: 1–9 uses `9 x 1`; 10–99 uses `90 x 2`; then
+  count the final partial block. For a range `L` to `U`, use `digits(1..U) - digits(1..L-1)`.
+- A two-digit number with digits `a,b` is `10a+b`; its reversal is `10b+a`. Their difference is
+  `9(a-b)` and their sum is `11(a+b)`. Here `a != 0`, and a reversed “two-digit number” also
+  requires `b != 0`.
+
+**Worked example.** Pages 1–250 use `9 + 90x2 + 151x3 =` **642 digits**. A number `10a+b`
+minus its reversal is divisible by 9; this is a property, not proof that every multiple of 9 is a
+digit reversal.
+
+### 5.3 Unknown digits and exponents
+
+- For an unknown digit, apply the relevant divisibility test before trial: e.g. `47x2` divisible by
+  9 requires `4+7+x+2 = 13+x` divisible by 9, hence **`x=5`**.
+- For non-zero `a`, `a^m a^n=a^(m+n)`, `a^m/a^n=a^(m-n)`, and `(a^m)^n=a^(mn)`. A negative
+  exponent means reciprocal: `a^(-n)=1/a^n`. Fractional exponents need a real-domain check:
+  `a^(1/2)` is real only for `a >= 0`.
+- For positive bases, powers increase with exponent when `a>1` and decrease when `0<a<1`.
+  Never raise an inequality to an even power or multiply it by an unknown-sign quantity without
+  checking the direction and lost sign information.
+
+**Worked example.** Compare `(1/2)^5` and `(1/2)^3`: because the base lies between 0 and 1,
+the larger exponent gives the smaller value, so `(1/2)^5 < (1/2)^3`.
+
+### 5.4 Counting multiples in a range
+
+The count of multiples of positive `d` in the inclusive range `[L,U]` is
+`floor(U/d) - floor((L-1)/d)`. For “divisible by `a` or `b`”, add the two counts and subtract
+multiples of `lcm(a,b)`; “exactly one” subtracts the overlap twice.
+
+**Worked example.** From 100 to 500, multiples of 6 number `83-16=67`, multiples of 10 number
+`50-9=41`, and multiples of 30 number `16-3=13`. Thus divisible by 6 **or** 10:
+`67+41-13 =` **95**.
+
+> **Routing boundary:** Topic 02 owns number properties, digit structure and arithmetic counting.
+> Cryptarithmetic, code-language puzzles and general sequence inference are owned by Topic 06/08.
+> Their appearances in appended PYQ ledgers are cross-owner demand references, not claims that this
+> file independently teaches those separate mechanisms.
+
+## 6. Original solved examples
 
 ### 📝 Example A (unit digit)
 
@@ -89,7 +145,7 @@ factor count** - computing the whole number is usually the slow, error-prone pat
 
 **Number of factors of 360.** `360 = 2^3 x 3^2 x 5^1` -> `(3+1)(2+1)(1+1) =` **24.** *(Verified.)*
 
-## 6. Must-Know facts
+## 7. Must-Know facts
 
 - ✅ A number is div by 6 iff div by **2 and 3**; by 12 iff div by **3 and 4**. (Both work because the
   pairs are **coprime** - "div by 2 and 6" would **not** give div by 12.)
@@ -100,7 +156,7 @@ factor count** - computing the whole number is usually the slow, error-prone pat
 - ✅ Trailing zeros of a factorial are governed by the count of **5s**, not 2s (2s are always more).
 - ✅ A number has an **odd** number of factors exactly when it is a **perfect square**.
 
-## 7. Common traps
+## 8. Common traps
 
 - ❌ Counting 2s for trailing zeros of `n!`. -> Count **5s**; 2s are surplus.
 - ❌ Using `HCF x LCM = product` for **three** numbers. -> Two numbers only.
@@ -110,13 +166,13 @@ factor count** - computing the whole number is usually the slow, error-prone pat
   must be **coprime**.
 - ❌ Confusing "same remainder" with "exact division". -> Same remainder uses HCF of **differences**.
 
-## 8. Quick checks
+## 9. Quick checks
 
 - ✅ Can you get a unit digit of any `a^n` in under 10 seconds via `n mod 4`?
 - ✅ Can you state trailing zeros of `n!` without multiplying?
 - ✅ Given `n = p^a q^b`, can you write the factor count immediately?
 
-## 9. Mini-drill (with answers and explanations)
+## 10. Mini-drill (with answers and explanations)
 
 1. Unit digit of `7^100`.
 2. Greatest number that divides 43, 91 and 183 leaving the **same** remainder.
@@ -132,7 +188,42 @@ factor count** - computing the whole number is usually the slow, error-prone pat
 4. **24.** `floor(100/5) + floor(100/25) = 20 + 4 = 24`. *(Verified.)*
 5. **42.** Differences 4, 6, 8, 10 -> next 12 -> `30 + 12 = 42` (these are `n(n+1)`). *(Verified.)*
 
-## 10. Study links
+## 11. Timed Core drill, diagnosis and retry gate
+
+**Set rule:** attempt the eight items in **10 minutes** without a calculator. Before calculating,
+write the chosen method beside each answer: `D` divisibility, `R` remainder/cycle, `F` factors,
+`G` digits, `E` exponent, or `I` inclusion-exclusion.
+
+1. Convert `0.2\overline7` to a fraction in lowest terms.  
+2. How many digits are used to number pages 1 to 120?  
+3. Find the missing digit in `53x4` if it is divisible by 9.  
+4. How many multiples of 8 lie from 51 to 250 inclusive?  
+5. What is the unit digit of `7^53`?  
+6. How many numbers from 1 to 100 are divisible by exactly one of 4 and 6?  
+7. Which is larger: `(1/3)^4` or `(1/3)^5`?  
+8. How many positive factors does `2^4 x 3^2` have?
+
+**Answers.** 1. `5/18` (`100x-10x=25`); 2. `9+180+63 = 252`; 3. `x=6`;
+4. `floor(250/8)-floor(50/8)=31-6 = 25`; 5. **7**; 6. `25+16-2x8 = 25`;
+7. `(1/3)^4`; 8. `(4+1)(2+1)=15`.
+
+| Miss pattern | Diagnosis | Mandatory repair before a new timed set |
+|---|---|---|
+| Formula remembered but wrong base/block | **C** condition error | Rebuild one example from definitions, then solve three variants. |
+| Correct method, arithmetic slip | **X** execution | Estimate/order-check and rework the final two lines. |
+| Used a long calculation where a property worked | **T** tool selection | Label the property first on five easy items. |
+| Wrong “or/exactly one” count | **A** interpretation | Draw the overlap and write the lcm before counting. |
+
+| Date / set | Score / time | D | R | F | G | E | I | X / T | Next repair |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+|  |  |  |  |  |  |  |  |  |  |
+
+**Gate:** proceed to optional Advanced work only after **7/8 in 10 minutes** on this set and
+**7/8 on a fresh set** after correcting misses. Otherwise repeat the failed method family; an
+Advanced remainder trick is not a substitute for Core number fluency. Apply the Master Framework’s
+attempt and qualifying-margin rules in full-paper practice.
+
+## 12. Study links
 
 - ✅ [Advanced companion](../advanced/02_Number-Systems-and-Number-Sense.md) - big-power remainders,
   highest prime powers, and inclusion-exclusion counting.

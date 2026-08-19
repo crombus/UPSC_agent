@@ -23,6 +23,12 @@
   models/theories, world patterns and classification); `advanced/NN` gives the India-application
   layer (India-specific data, institutions, current policy and a fuller Mains-answer
   architecture).
+- **Core is independently answer-complete (added 13 Aug 2026):** every `basic/NN` file now ends
+  with an **`Answer architecture (10/15/20-mark support)`** section containing topic-specific
+  directive decoding, at least one reusable answer spine and `claim → named evidence →
+  significance → limitation` evidence units. A Core file must be able to produce a thesis-led,
+  directive-sensitive answer **without** opening its Advanced companion. Advanced remains optional
+  enrichment.
 - **Revise by mechanism:** Before a test, use
   `REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md` for causal chains,
   landform and climate diagnostics, India applications, models and map-based elimination.
@@ -150,18 +156,45 @@ edition used obsolete science, climatic determinism, outdated names or supersede
 
 ## Direct 2024-2025 Geography Mains routing
 
-| Paper | Exact tested demand | Route |
-|---|---|---|
-| 2024 GS-I | Gangetic-valley groundwater decline and its food-security effect | `basic/04`, `advanced/04` |
-| 2024 GS-I | Regional disparity; distinction from diversity; seriousness in India | `advanced/29` |
-| 2025 GS-I | Non-farm primary activities and their relation to physiography | `basic/30`, `advanced/30` |
-| 2025 GS-I | Ecological and economic benefits of solar-energy generation | `basic/31`, `advanced/31` |
-| 2025 GS-I | Tsunami formation, location and consequences | `basic/03`, `advanced/03` |
-| 2025 GS-I | Geographic distribution of offshore oil and contrast with onshore occurrence | `basic/31`, `advanced/31` |
-| 2025 GS-III | Seawater intrusion in coastal aquifers: causes and remedies | `basic/04`, `advanced/04` |
+> **Authority rule (corrected 13 Aug 2026):** the controlling routing record is the local ledger
+> [`_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`](../_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md).
+> An earlier version of this table conflicted with that ledger on four rows and omitted eight
+> routed demands. The table below now reproduces the ledger. Where this folder's own generated
+> `Recent PYQ Integration (2024-2025)` blocks and this table differ from any older note, **the
+> ledger and this table govern**.
 
-Source wording is reproduced from the locally audited official-paper text; use
-this table for routing rather than duplicating questions across unrelated topics.
+### Questions the ledger routes **into** this folder
+
+| Paper | Exact tested demand | Owner file | Where the answer content now lives |
+|---|---|---|---|
+| 2024 GS-I Q4 | Sea-surface-temperature rise and the formation of tropical cyclones | `basic/13` | Severe-weather section: cyclone genesis conditions, the heat-engine mechanism, intensity-versus-frequency |
+| 2024 GS-I Q5 | Why large cities attract more migrants than smaller towns | `basic/27` | Expected-income and network mechanisms, with the intervening-opportunity qualification |
+| 2024 GS-I Q6 | The phenomenon of cloudbursts | `basic/13` | Severe-weather section: the intensity criterion, convective-plus-orographic mechanism, runoff concentration |
+| 2024 GS-I Q7 | The concept of a "demographic winter" | `basic/26` | Below-replacement fertility, ageing, reverse momentum, and the record of policy responses |
+| 2024 GS-I Q14 | Declining Gangetic-valley groundwater and food security | `basic/36` | Nine-step issue chain, with the full mechanism and 15-mark spine in `basic/04` |
+| 2024 GS-I Q15 | Aurora australis and aurora borealis | `basic/01` | Magnetosphere, solar wind, auroral oval and space-weather section |
+| 2024 GS-I Q16 | Twisters and their concentration around the Gulf of Mexico | `basic/13` | Severe-weather section: the five ingredients and the continental configuration that assembles them |
+| 2025 GS-I Q5 | Non-farm primary activities and their relation to physiography | `basic/30` | Fishing, forestry, mining and quarrying, each tied to a physiographic control |
+| 2025 GS-I Q14 | Distribution of offshore oil versus onshore occurrence | `basic/31` | Petroleum-system elements, why margins are favoured, and the onshore/offshore comparison |
+| 2025 GS-I Q16 | Change in continents and ocean basins due to crustal tectonics | `basic/02` | Crustal-dynamics section: drift evidence, sea-floor spreading, boundary regimes, ocean-basin life cycle |
+| 2025 GS-I Q17 | Population distribution and density in the Ganga basin | `basic/37` | Distribution-versus-density concepts, the reinforcing controls and the consequence chain |
+
+### Geography-tagged questions the ledger routes **elsewhere**
+
+This folder supplies the underlying physical or spatial process; it is **not** the owner, and it
+does not duplicate the owner's institutional or scientific depth.
+
+| Paper | Exact tested demand | Ledger owner | Geography's supporting base |
+|---|---|---|---|
+| 2025 GS-I Q4 | Climate change and sea-level rise affecting island nations | `Environment-and-Ecology/basic/17` | Sea-level components and island vulnerability in `basic/10`, `basic/11` |
+| 2025 GS-I Q6 | Ecological and economic benefits of solar-energy generation | `Environment-and-Ecology/basic/25` | Energy-resource classification and siting logic in `basic/31` |
+| 2025 GS-I Q7 | Tsunami formation, location and consequences | `Disaster-Management/basic/06` | Tsunami generation and coastal impact in `basic/03`, `basic/10` |
+| 2025 GS-I Q15 | AI and drones with GIS/remote sensing in locational and areal planning | `Science-and-Technology/basic/09` | Spatial-analysis and survey role in `basic/33` |
+| 2025 GS-III Q8 | Seawater intrusion in coastal aquifers: causes and remedies | `Environment-and-Ecology/basic/24` | Saline-wedge mechanism in `basic/04` §7 |
+| 2024 GS-I Q17 | Regional disparity versus diversity, and its seriousness in India | `Indian-Society/basic/14` | The disparity-versus-diversity distinction and the divergence models are now taught in Core at `basic/29` |
+
+Source wording is reproduced from the locally audited official-paper text; use these tables for
+routing rather than duplicating questions across unrelated topics.
 
 ## Source references
 

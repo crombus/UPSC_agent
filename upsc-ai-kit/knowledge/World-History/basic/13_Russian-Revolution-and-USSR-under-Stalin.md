@@ -161,8 +161,121 @@
 - ⚠️ "Assess Stalin's economic transformation of the USSR with special reference to collectivization and the Five Year Plans."
 - ⚠️ "To what extent was Stalin's power in the 1930s based on terror?"
 
-## 9. Study link
+## 9. Answer architecture (10/15/20-mark support)
 
-> **Study link:** World-History -> `advanced/13_Russian-Revolution-and-USSR-under-Stalin.md` for inevitability debates, Lenin verdicts and Stalinism-as-system.
+> **Core-sufficiency note:** this file must independently support the 1917 causation demand, the
+> Lenin/Stalin continuity question and the Stalinist-transformation evaluation.
+> `advanced/13` adds the inevitability and totalitarianism debates only.
+
+### 9.1 Directive and demand map
+
+| If the question says | It is really testing | Do NOT write |
+|---|---|---|
+| *Why did tsarism collapse?* | Long-run structural weakness converted by war into breakdown | A Rasputin story |
+| *Distinguish February and October* | Two different revolutions with different actors and outcomes | "The 1917 revolution" |
+| *Why did the Provisional Government fail?* | Dual power, war, land and legitimacy | "It was weak" |
+| *How did the Bolsheviks consolidate power?* | Decree, coercion, war-winning and tactical retreat together | A civil-war narrative |
+| *Assess Stalin's economic transformation* | Achievement **and** cost in the same answer | Either a triumph or a catastrophe alone |
+| *To what extent was power based on terror?* | Terror **plus** ideology, mobility, propaganda and genuine support | Terror alone |
+| *Effect on society* | Peasants, workers, women, nationalities, education, mobility | Politics only |
+
+### 9.2 Qualified thesis templates
+
+- ⚠️ **Collapse:** "Tsarism did not fall because of the war alone; the war exposed and accelerated a legitimacy failure that 1905 had revealed and the October Manifesto had failed to repair."
+- ⚠️ **Two revolutions:** "February was a collapse, October was a seizure: the first had no single author, the second had a party that had prepared for it."
+- ⚠️ **Lenin/Stalin:** "Stalin's system was not a betrayal of a democratic Lenin, but nor was it simply Leninism completed — the one-party coercive framework was Lenin's; the scale of terror and the second revolution from above were Stalin's."
+- ⚠️ **Stalinism:** "Stalin achieved industrial transformation and lost the argument about its price: the same policies that produced steel, coal and survival in 1941 produced famine, deportation and the destruction of the country's own expertise."
+
+### 9.3 Mark-scaled structures
+
+| Marks | Structure |
+|---|---|
+| **10** | Thesis → **two** causes of collapse or **two** Stalinist policies with outcomes → one qualification → verdict |
+| **15** | Thesis → structural weakness → the two revolutions → consolidation → verdict |
+| **20** | All of the above → **plus** the Stalinist transformation, its social effects and the contested-outcomes question → verdict |
+
+### 9.4 Evidence bank A — why the old order collapsed
+
+| Claim | ✅ Named evidence | Significance | Caution |
+|---|---|---|---|
+| The 1905 settlement was never honoured | ✅ Nicholas did not work sincerely within the spirit of the October Manifesto; ✅ the first two Dumas were dissolved quickly | Constitutional reform failed as a legitimacy strategy | ⚠️ 1905 did stabilise the regime for a decade — do not read collapse back into it |
+| The land question was unresolved | ✅ Stolypin abolished redemption payments, but his land reforms did not reach or satisfy enough peasants | Peasant land hunger remained the largest mobilisable grievance | ⚠️ Stolypin's reforms had real effects for some peasants |
+| Industrial unrest revived | ✅ Strike waves revived strongly after 1912 | An organised urban working class existed before 1917 | ⚠️ Numerically small relative to the peasantry |
+| The dynasty was discredited | ✅ The royal family was discredited, especially by the Rasputin scandal | Removed the personal legitimacy autocracy depended on | ⚠️ A symptom more than a cause |
+| War broke the state's capacity | ✅ Defeats, shortages and transport failures; ✅ the war exposed military and administrative incompetence | The precipitant that converted grievance into breakdown | ⚠️ War is the trigger, not a substitute for the structural causes |
+
+### 9.5 Evidence bank B — February versus October, and why the Provisional Government failed
+
+| Axis | February/March 1917 | October/November 1917 |
+|---|---|---|
+| Trigger | ✅ Bread riots in Petrograd widening into mass strikes | ✅ The Petrograd soviet's mid-October decision to seize power |
+| Decisive actors | ✅ Crowds, strikers, mutinying Petrograd garrison, then the Duma and senior generals | ✅ Red Guards and pro-soviet troops occupying key points on the night of 25–26 October |
+| Outcome | ✅ Nicholas abdicates, 2 March 1917 | ✅ Provisional Government's ministers arrested |
+| Character | ⚠️ A broad, largely unplanned collapse | ⚠️ A prepared, minority seizure of power |
+
+**Why the Provisional Government failed (✅, five linked reasons):** it continued the unpopular
+war; it shared authority with the Petrograd soviet; it delayed land reform and elections;
+economic chaos, inflation and shortages continued; and the Kornilov affair discredited Kerensky
+while boosting the Bolsheviks. ✅ Lenin's April Theses supplied the sharper alternative — peace,
+land and soviet power.
+
+⚠️ **The mechanism to state explicitly:** dual power meant that the government held office while
+the soviets held the loyalty of the soldiers and workers who could enforce anything. That gap,
+not any single mistake, is why it fell.
+
+### 9.6 Evidence bank C — consolidation: decree, coercion, victory and retreat
+
+| Instrument | ✅ Evidence | ⚠️ Analytical significance |
+|---|---|---|
+| Immediate decrees | ✅ Land nationalised; workers given some factory control; working day limited; state control widened over banks, mines and large industry | Delivered on the slogans fast enough to hold support |
+| Ending the war | ✅ Treaty of Brest-Litovsk, March 1918, at a huge territorial cost | Lenin's own argument: sacrifice space to gain time |
+| Closing the constitutional route | ✅ The Constituent Assembly, with no Bolshevik majority, was dispersed in January 1918 | The decisive step away from parliamentary democracy — **this is the fact that answers the "was Stalin a betrayal of Lenin?" question** |
+| Coercion | ✅ The Cheka was created; the Red Terror widened; former elites and political rivals were repressed | Coercion was constitutive from the start, not a later deviation |
+| Winning the Civil War | ✅ Firmer Lenin/Trotsky leadership; control of the central core of Russia; disunited Whites; foreign intervention let the Bolsheviks appear as defenders of Russia | Explains survival, and why the party emerged militarised |
+| Tactical retreat | ✅ NEP from 1921: peasants keep surplus after tax; small trade revives; heavy industry, banking and transport stay state-controlled | ⚠️ A retreat from war communism, **not** an abandonment of communist political control |
+
+### 9.7 Evidence bank D — Stalin: methods, outcomes and social transformation
+
+| Policy | ✅ Outcome | ⚠️ Cost / qualification |
+|---|---|---|
+| **Five Year Plans** | ✅ Major gains in coal, steel, pig-iron and electricity | ✅ Harsh discipline and poor consumer supply |
+| **Collectivisation** | ✅ Most farmland collectivised by 1937; state control of grain achieved | ✅ Violent resistance, livestock collapse, famine; ✅ Lowe reports estimates of **more than 5 million deaths in the 1932–33 famine while grain was still exported**; ⚠️ exact totals and the distribution of responsibility remain historiographically contested |
+| **Purges** | ✅ Made Stalin personally unchallengeable | ✅ Removed many experienced officials, officers and administrators — a self-inflicted capability loss |
+| **1936 Constitution** | ✅ Presented the system as democratic | ✅ In practice a one-party dictatorship with no real competition |
+| **War and reconstruction** | ✅ USSR survived and defeated Nazi Germany; ✅ Fourth Five Year Plan (1946–50) rebuilt industry quickly on official statistics; ✅ first Soviet atomic bomb 1949 | ✅ Catastrophic military and civilian deaths, homelessness and destruction; ✅ agriculture lagged, famine returned in 1946 and 1952 grain output was still well below 1940 |
+| **Postwar repression** | ✅ Returning POWs and civilians treated with suspicion; labour camps expanded; cultural life tightened; the Doctors' Plot signalled renewed fear before Stalin's death in March 1953 | Shows the system did not soften with victory |
+
+**Social transformation (⚠️ — the dimension most answers omit):**
+
+- ⚠️ **Peasants:** collectivisation ended peasant proprietorship as a social class and tied rural labour to the collective farm; the resulting rural-to-urban movement supplied the industrial workforce.
+- ⚠️ **Workers:** rapid industrialisation created a vast new working class from peasant recruits, with genuine upward mobility for some — one reason the regime retained real support alongside terror.
+- ⚠️ **Women:** mass entry into industrial and professional employment coexisted with continued domestic burdens; the state expanded literacy, schooling and technical training as instruments of industrialisation.
+- ⚠️ **Nationalities:** the USSR was a multinational state in which central control and national-cultural policy were in permanent tension — the strain that resurfaced in 1989–91 (see `basic/21`).
+- ⚠️ **Keep all four qualitative.** No literacy, employment or urbanisation figures are sourced in this folder.
+
+### 9.8 Verdict scaffolds
+
+- **"Was Stalin's transformation a success?"** → "It succeeded in its own stated terms — it built the industrial base that survived 1941 — and failed by every criterion its own ideology claimed: it impoverished the peasantry, terrorised the working class it claimed to represent, and destroyed the expertise it needed."
+- **"To what extent was power based on terror?"** → "Terror was decisive at the elite level, where it removed all alternatives; below that level, the regime also rested on mobility, ideological conviction and wartime legitimacy — which is why it survived Stalin's death intact."
+- **"Lenin or Stalin?"** → "The one-party state, the dispersal of the Constituent Assembly and the political police were Lenin's; the scale of the terror and the second revolution from above were Stalin's. Continuity of framework, discontinuity of degree."
+
+### 9.9 Factual-risk controls
+
+- ❌ Do not say February 1917 was the Bolshevik revolution. ✅ It was a broader uprising that overthrew the Tsar.
+- ❌ Do not say NEP restored capitalism. ✅ It restored limited market mechanisms under communist political control.
+- ❌ Do not give a famine death toll other than the sourced ✅ "estimates of more than 5 million" for 1932–33, and always add that totals and responsibility are contested.
+- ❌ Do not give Purge, Gulag or Five Year Plan output figures; none is sourced here.
+- ❌ Do not say the 1936 Constitution made the USSR democratic. ✅ Elections were not competitive.
+- ❌ Do not present Lenin's system as a liberal democracy that Stalin ruined; ✅ coercion, party monopoly and the dispersal of the Constituent Assembly already marked Lenin's system.
+- ❌ Do not quote Lenin, Trotsky or Stalin verbatim.
+- ✅ **Only two Marxian formulations are sourced in this folder** and may be used: ✅ "the dictatorship of the proletariat" and ✅ "from each according to his ability, to each according to his needs", both reported by Lowe. ❌ Do not cite *The Communist Manifesto*, *Das Kapital* or any publication date; and ✅ note Lowe's point that Marx "had never described" how a socialist economy should actually be run — which is why Politburo policy disputes were possible in the first place.
+- ❌ Do not date Brest-Litovsk, the NEP, Lenin's death or Stalin's death loosely. ✅ March 1918, 1921, January 1924, 5 March 1953.
+- ⚠️ **Doctrine belongs to `basic/01` §9, record belongs here.** ❌ Do not define socialism, communism or social democracy in this file; ✅ use `basic/01` §9.2 for the socialism ≠ communism ≠ social democracy discipline and §10.3(f) for communism as a doctrine. ✅ This file's distinctive contribution to that clause is the sourced Menshevik/Bolshevik division — ✅ the Mensheviks were "the strict Marxists, believing in a proletarian revolution", while it was **Lenin** who was "moving away from Marxism".
+
+## 10. Study link
+
+> **Study link:** World-History -> `advanced/13_Russian-Revolution-and-USSR-under-Stalin.md` for inevitability debates and Stalinism-as-system (optional).
+> **Study link:** World-History -> `basic/01_Enlightenment-and-Age-of-Revolutions-Overview.md` §9 for what communism and socialism *are* as political philosophies — this file owns the Russian record, not the definitions.
 > **Study link:** World-History -> `basic/14_Second-World-War.md` for the war that both exposed and then magnified Soviet power.
-> **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the USSR's post-1945 superpower role.
+> **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the USSR's post-1945 superpower role, and §10.6A for the bloc's internal division.
+> **Study link:** World-History -> `basic/21_Cold-War-End-and-New-World-Order.md` for the system's eventual collapse.

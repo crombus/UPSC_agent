@@ -82,6 +82,108 @@
 - ⚠️ GS-1: Assess the role of Rowlatt Satyagraha and Jallianwala Bagh in ending constitutional faith in British justice.
 - ⚠️ GS-1: Compare Gandhi's early local satyagrahas with later all-India movements in method and scale.
 
+## 8. Answer architecture (10/15/20-mark support)
+
+> Purpose: support **method-analysis, leadership-emergence, turning-point and comparison** demands, including the routed requirements on Champaran's significance and on Gandhian versus Marxist thought.
+
+### 8.1 Demand and directive map
+
+| Demand family | Typical directive signals | Answer spine to use |
+|---|---|---|
+| Method of satyagraha | "Explain Gandhi's method", "What was new about satyagraha?" | Moral premise → technique → organisational requirement → what it demanded of opponents |
+| Emergence of leadership | "How did Gandhi become the national leader?" | Local credibility → demonstrated results → all-India occasion → organisational capture |
+| Significance of a campaign | "Significance of Champaran for the national movement" | Grievance → method tested → outcome → transferable lessons |
+| Turning point | "Did Rowlatt/Jallianwala change Indian politics?" | Prior faith → the breach → measurable shift → verdict |
+| Comparison | "Compare early satyagrahas with later mass movements" | Scale, issue, organisation, opponent, outcome |
+| Ideological | "Gandhism and Marxism", "Gandhi's social thought" | Shared diagnosis → opposed method → different theory of the person |
+
+### 8.2 Qualified thesis options
+
+- **Credibility-first thesis:** *Gandhi did not become the national leader by proclaiming a national programme; he built his authority on three limited, local, winnable campaigns and then applied the credibility earned there to an all-India cause.*
+- **Method thesis:** *Satyagraha's novelty lay in converting moral self-suffering into political pressure: by accepting punishment rather than inflicting it, it made repression politically costly for a regime that claimed to rule by law and consent.*
+- **Rupture thesis:** *Rowlatt and Jallianwala did not merely anger Indians; they destroyed the working assumption of Moderate politics — that British rule was ultimately lawful and reformable — and thereby made non-cooperation thinkable.*
+- **Grievance-to-nation thesis:** *Gandhi's distinctive organisational insight was that national politics had to be built out of specific, local, material grievances rather than out of constitutional abstractions — which is why an indigo contract in Champaran mattered more to the movement than a council resolution.*
+
+### 8.3 Mark-scaled structure
+
+| Marks | Recommended architecture | Evidence load |
+|---:|---|---|
+| 10 | Thesis → method → one or two campaigns → significance → verdict | 2–3 campaigns with year and issue |
+| 15 | Thesis → South African formation → three early satyagrahas → Rowlatt/Jallianwala → verdict | 4–6 units |
+| 20 | Thesis → method's premises → early campaigns compared → 1919 rupture → why leadership passed to Gandhi → limits → graded verdict | 6–8 units including one balance/critique |
+
+### 8.4 Named evidence units (claim → evidence → significance → limit)
+
+**A. South Africa — where the method was made**
+- **Claim:** Gandhi arrived in India with a tested technique, not an untried theory.
+- **Evidence:** ✅ Gandhi worked in South Africa from **1893 to 1914**, organised Indians through the **Natal Indian Congress**, and developed **satyagraha** — truth-force, non-violent resistance and willingness to suffer — against racial legislation, with **Phoenix Settlement** and **Tolstoy Farm** as its communities. ⚠️ The South African struggle drew in indentured and ex-indentured labourers, giving Gandhi early experience of mobilising the poorest rather than only merchants.
+- **Significance:** Explains why his Indian campaigns had immediate organisational competence — the method, the discipline and the ashram form were already worked out.
+- **Limit/caution:** Do not present South Africa as a rehearsal for India in scale; it was a struggle over specific racial statutes in a settler colony.
+
+**B. Champaran 1917 (routed demand — significance for the national movement)**
+- **Claim:** Champaran established that Gandhi's method could defeat an entrenched economic interest, and it did so on the terrain of colonial legality itself.
+- **Evidence:** ✅ Cultivators in Champaran had long been bound under the **tinkathia** system to grow indigo on a fixed portion of their holdings; after German synthetic dyes destroyed the natural-indigo market, planters sought **enhanced rents and illegal dues as the price of release** (see `basic/07`). Gandhi was brought there by **Raj Kumar Shukla** and conducted an inquiry in defiance of an order to leave.
+- **Significance:** The campaign's importance is threefold — it proved satyagraha worked in an Indian agrarian setting; it demonstrated that a leader would accept arrest rather than obey an unjust order; and it produced an official inquiry, converting a private planter grievance into a matter of state.
+- **Limit/caution:** Champaran addressed a specific contractual and rent grievance; it was not an anti-colonial campaign, and its resolution came through official machinery.
+
+**C. Ahmedabad and Kheda 1918**
+- **Claim:** The two 1918 campaigns extended the method to industrial labour and to the state's own revenue demand.
+- **Evidence:** ✅ **Ahmedabad (1918)** was a cotton-mill wage dispute in which Gandhi used his **first hunger strike in India**; ✅ **Kheda (1918)** demanded revenue remission after crop failure, and brought forward **Vallabhbhai Patel** and **Indulal Yagnik**.
+- **Significance:** Kheda is the more politically radical of the two because it withheld payment from the government rather than from an employer — the direct ancestor of the no-tax campaigns of 1928 and 1930.
+- **Limit/caution:** Kheda was a demand for remission under existing rules, not a repudiation of revenue; do not describe it as civil disobedience of the 1930 type.
+
+**D. Rowlatt: the breach of legality**
+- **Claim:** The Rowlatt legislation destroyed the moral argument for constitutional cooperation.
+- **Evidence:** ✅ The **Rowlatt Act (1919)** allowed detention without trial and continued wartime emergency powers — summarised in the popular protest formula "no *dalil*, no *vakil*, no appeal"; ✅ Gandhi launched the **Rowlatt Satyagraha** and called a nationwide **hartal on 6 April 1919**.
+- **Significance:** Coming immediately after Indian wartime contribution and the Montagu Declaration, the Act proved that reform and repression would arrive together — the precise argument non-cooperation later rested on.
+- **Limit/caution:** The hartal produced violence in several places, which is part of the story and a factor in Gandhi's later insistence on discipline.
+
+**E. Jallianwala Bagh and its aftermath**
+- **Claim:** The massacre and the response to it were separately decisive.
+- **Evidence:** ✅ On **13 April 1919** at **Jallianwala Bagh**, Amritsar, **General Dyer** ordered firing on an unarmed gathering; ✅ the **Hunter Commission** inquiry followed; ✅ **Rabindranath Tagore renounced his knighthood** in protest, and **Gandhi returned his Kaiser-i-Hind medal in 1920** over the Punjab wrongs and the Khilafat issue.
+- **Significance:** The mass renunciation of British honours is the measurable political fact — it registered the withdrawal of elite consent, which is what made a non-cooperation programme credible.
+- **Limit/caution:** ⚠️ Do not state casualty figures for Jallianwala Bagh; official and nationalist estimates differ sharply and the number is contested.
+
+**F. Gandhian thought against Marxism (routed demand)**
+- **Claim:** The two share a diagnosis and differ irreconcilably on method and on the theory of the person.
+- **Shared ground (⚠️ analytical):** both reject exploitation as the organising fact of modern society; both are critical of unregulated capitalism and the concentration of wealth; both envisage an ultimate condition in which coercive state power becomes unnecessary; both make the material condition of the poorest the test of a social order.
+- **Divergence (⚠️ analytical):** Marxism locates change in class struggle and accepts revolutionary force; Gandhism insists that means determine ends and therefore requires non-violence. Marxism seeks abolition of private property; Gandhi proposed **trusteeship**, the moral reform of the propertied rather than their expropriation. Marxism treats consciousness as socially determined; Gandhi treats individual moral transformation as the engine of social change.
+- **Significance:** Gives a precise, defensible comparison for both Prelims statement-matching and any GS-I/GS-IV question on Gandhian social thought.
+- **Limit/caution:** ⚠️ These are analytical characterisations, not quotations; do not attribute specific formulations to Gandhi or Marx verbatim, and do not claim either endorsed the other's programme.
+
+### 8.5 Comparative engine — early satyagrahas versus later mass movements
+
+| Dimension | Champaran / Ahmedabad / Kheda (1917–18) | Non-Cooperation / Civil Disobedience (1920s–30s) |
+|---|---|---|
+| Issue | Specific, local, material | National, symbolic, constitutional |
+| Opponent | Planters, mill-owners, district revenue authority | The colonial state itself |
+| Organisation | Ad hoc volunteers and local workers | Reorganised Congress with permanent structure (`basic/20`) |
+| Scale | District | All-India |
+| Outcome | Concrete redress | Political mobilisation without immediate concession |
+| Function | Built credibility and tested method | Converted credibility into national leadership |
+
+### 8.6 Counter-evidence, balance and variation
+
+- **Against a Gandhi-centred narrative:** Home Rule Leagues had already built the branch networks and political publics that made 1919–20 possible (`basic/18`); the Rowlatt agitation drew on existing organisation.
+- **Local agency:** Raj Kumar Shukla in Champaran and local leaders in Kheda and Ahmedabad initiated or sustained these campaigns; Gandhi supplied method and visibility, not the grievance.
+- **Limits of the early campaigns:** all three were narrow in scope and left colonial authority untouched; their significance is methodological and biographical rather than constitutional.
+- ⚠️ Avoid moralising about non-violence; assess it as a political technique with identifiable strengths and costs.
+
+### 8.7 Verdict scaffolds
+
+- **Leadership verdict:** "Gandhi became indispensable in 1920 because between 1917 and 1919 he had demonstrated, in three separate settings, that his method produced results and that he would pay the price for it himself."
+- **1919 verdict:** "Rowlatt made non-cooperation arguable and Jallianwala made it necessary; together they converted a constitutional movement into a mass one."
+- **Method verdict:** "Satyagraha worked against a state that needed to be seen as lawful; its power was precisely proportional to the opponent's need for legitimacy."
+
+### 8.8 Factual-risk cautions
+
+- Sequence: **Champaran 1917 → Ahmedabad and Kheda 1918 → Rowlatt and Jallianwala 1919**.
+- Champaran = indigo and *tinkathia*; Ahmedabad = mill wages and the first Indian hunger strike; Kheda = revenue remission.
+- Rowlatt hartal = **6 April 1919**; Jallianwala Bagh = **13 April 1919**.
+- Gandhi returned the **Kaiser-i-Hind medal in 1920**, not in 1919; Tagore renounced his knighthood after the massacre.
+- Do not cite Jallianwala Bagh casualty figures.
+- Do not state that satyagraha was invented in India; it was developed in South Africa between 1893 and 1914.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

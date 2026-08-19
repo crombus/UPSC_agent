@@ -85,6 +85,42 @@
 - ⚠️ Firuz Shah's reign can be assessed as a welfare-oriented but politically decentralising phase.
 - ⚠️ The Tughlaqs reveal the core Sultanate dilemma: expansion beyond administrative reach produced regional breakaways.
 
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Examine Muhammad bin Tughlaq's experiments | "Muhammad bin Tughlaq's projects were rational in conception but defeated by implementation deficits — weak verification (token currency), logistical haste (Daulatabad), and over-assessment (doab) — revealing the gap between intention and state capacity." |
+| Compare intent vs implementation | "The distinction between conquest and consolidation is embodied in Muhammad bin Tughlaq: he governed the largest Sultanate since the Mauryas but could not administer it." |
+| Assess Firuz Shah | "Firuz's concessions (hereditary iqtas, soldier pensions, noble appeasement) bought 37 years of peace but eroded the central controls that Alauddin and Muhammad had built — trading short-term stability for long-term weakness." |
+| Discuss Sultanate expansion limits | "The Tughlaq experience shows that medieval Indian empires expanded faster than their administrative infrastructure, producing breakaways that were not failures of will but structural limits." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Daulatabad as second capital: officials/Sufis pressured to move; Delhi not emptied | Aimed at better south control, not "madness" | Shows rational geopolitical logic behind a failed project | Implementation failed because southern breakaways removed the political purpose |
+| 2 | ✅ Token currency: copper coins given silver-tanka value; private forgery destroyed trust | Monetary innovation without verification infrastructure collapses | Classic UPSC comparison with modern fiat money (with major qualifications) | Satish Chandra says the idea was not unknown; failure was administrative, not conceptual |
+| 3 | ✅ Diwan-i-amir-i-Kohi: state loans for agricultural extension | Early state-directed development attempt | Shows that the Sultanate could conceive developmental policy | Officials misused funds; no monitoring mechanism |
+| 4 | ✅ Firuz's hereditary iqtas and soldier pensions | Appeasement of nobles/army bought internal peace | Explains why Firuz's reign was remembered as "peaceful and prosperous" | Heredity weakened centre; after his death, factions tore the state apart |
+| 5 | ✅ Firuz's canals, towns (Hissar-Firuzah, Firuzabad), hospitals | Public works expanded agrarian/urban revenue base | Demonstrates non-military state functions | Benefited mainly the northern heartland; no comparable investment in the Deccan |
+| 6 | ✅ 1,80,000 slaves under Firuz (karkhanas + bodyguard) | State-controlled labour on a massive scale | Shows alternative to cash-based economy for production | Slave corps became a destabilising political faction after Firuz's death |
+
+### 8.3 Counterpoints
+
+- ⚠️ Muhammad bin Tughlaq was not uniquely "impractical" — Alauddin's doab policy was equally harsh, but succeeded because of his coercive apparatus.
+- ⚠️ Firuz's "welfare" was limited: jizyah was imposed, Sufis punished, and "welfare" meant noble/soldier appeasement more than peasant relief.
+- ⚠️ Regional breakaways (Bengal 1338, Deccan 1347) had structural causes independent of Muhammad's policies.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Intent-vs-capacity using token currency + Daulatabad (2 units); conclude with state-capacity lesson.
+- **15-mark:** Add Firuz's welfare-vs-weakness + canal evidence; frame as a Sultanate dilemma between coercion and concession.
+- **20-mark:** Full 6-unit + comparison with Alauddin's success; conclude that Sultanate state-building oscillated between over-centralisation and devolution, never achieving institutional stability.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

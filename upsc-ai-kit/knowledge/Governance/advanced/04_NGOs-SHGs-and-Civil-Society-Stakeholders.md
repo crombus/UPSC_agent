@@ -218,7 +218,7 @@ proportionate financial-transparency safeguards.
 | 2020 | GS-II | 17 | Micro-finance as an anti-poverty instrument and the role of SHGs | Evaluate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-II | 8 | Microfinancing of women SHGs against gender inequality poverty and malnutrition | Explain with examples · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-II | 18 | Civil society and NGOs as an alternative public service delivery model | Discuss the challenges · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-II | 14 | Civil society groups and women's representation in state legislatures | Discuss the contribution · 15 marks · 250 words | Cross-cutting; gender representation and civil society both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 14 | Civil society groups and women's representation in state legislatures | Discuss the contribution · 15 marks · 250 words | Social Justice Core route; civil-society link retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 

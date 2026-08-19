@@ -70,9 +70,9 @@ by expanding grassroots public capacity (HWC/AAM), providing insurance cover
 2. **Mixed provider landscape:** Where public primary care is unavailable or perceived
    as low quality, households turn to private providers. The relevant Mains issue is
    quality, price and regulation, not a single undated private-sector share.
-3. **High OOPE:** National Health Accounts Estimates reported household OOPE at 47.1% of
-   total health expenditure in 2020-21. This dated aggregate signals incomplete financial
-   protection.
+3. **High OOPE:** National Health Accounts reported household OOPE at 47.1% in 2019-20,
+   44.4% in 2020-21 and 39.4% in 2021-22. The decline is progress, while the remaining
+   share still signals incomplete financial protection.
 4. **Catastrophic and impoverishing spending:** The risk is concentrated among households
    needing medicines, diagnostics or repeated care; cite the survey/study and threshold
    before asserting a poverty-impact percentage.
@@ -157,9 +157,8 @@ by expanding grassroots public capacity (HWC/AAM), providing insurance cover
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **OOPE share:** National Health Accounts Estimates reported household OOPE at 47.1%
-  of total health expenditure in 2020-21. Use this dated statistic rather than a
-  range assembled across incompatible reporting years.
+- 📰 **OOPE share:** National Health Accounts reported 39.4% in 2021-22, after 44.4%
+  in 2020-21 and 47.1% in 2019-20. Retain each accounting year.
 - 📰 **PM-JAY beneficiary count:** The National Health Authority portal publishes
   cumulative claims and beneficiary counts; no fixed figure is asserted here
   because this count rises continuously as the portal updates.

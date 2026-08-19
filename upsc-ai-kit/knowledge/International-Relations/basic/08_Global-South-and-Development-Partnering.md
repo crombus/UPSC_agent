@@ -113,8 +113,32 @@ bloc or substituting for the distinct memberships of G77, NAM or BRICS.
 - ⚠️ **BRICS:** a distinct grouping with its own membership and agenda, only
   partially overlapping with "Global South" — full institutional profile in
   topic 10; avoid treating BRICS as synonymous with the Global South.
+- ✅ **International Solar Alliance:** the ISA Framework Agreement entered into
+  force on **6 December 2017** and established a treaty-based intergovernmental
+  organisation headquartered in India for solar policy coordination, finance
+  mobilisation, capacity building and technology cooperation.
+  **Significance:** ISA shows India converting a Global South concern into a
+  permanent institution.
+  **Limitation:** aggregate membership and targets are not country-level
+  delivery evidence.
 
 ## 5. Indian applications and examples
+
+### Latin America and the Caribbean
+
+- ✅ **Brazil:** a bilateral strategic partner and co-member of BRICS, IBSA, G20 and G4;
+  cooperation spans biofuels, agriculture, pharmaceuticals, defence and global-governance
+  reform. Grouping overlap does not substitute for bilateral delivery.
+- ✅ **India-MERCOSUR PTA:** signed in 2004, operational from 1 June 2009; it is a
+  limited goods-preference agreement, not a comprehensive FTA.
+- ✅ **India-Chile:** the existing PTA was expanded in 2017. CEPA terms of reference were
+  signed in May 2025 and a fourth negotiation round concluded on 5 December 2025;
+  negotiations progressing is not an agreement concluded or in force.
+- ⚠️ **CELAC outreach:** India-CELAC dialogue provides a regional diplomatic route across
+  a diverse 33-state region. Distance, limited connectivity, language, awareness and
+  modest institutional density constrain commercial conversion.
+- ⚠️ Latin America broadens critical-mineral, energy, food, pharma and Global South
+  partnerships, but it must not be treated as a homogeneous commodity frontier.
 
 - ⚠️ **PYQ mapping:** no GS-II Mains question in the audited 2024-2025 papers
   directly names the Global South, South-South cooperation or India's voice-
@@ -230,6 +254,24 @@ bloc or substituting for the distinct memberships of G77, NAM or BRICS.
   the Global South, with reference to the representation-deficit argument in
   global governance.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+The **2019 GS-II leadership of oppressed/marginalised nations** demand is owned here,
+superseding `advanced/08`.
+
+- **Structure:** shared grievance -> convening/coalition -> development instrument ->
+  institutional outcome -> representation claim -> delivery/legitimacy limit.
+- **Geographic evidence:** Africa delivery, Latin America/MERCOSUR/CELAC, G77, VoGSS,
+  AU-G20 inclusion, LoCs, ISA, CDRI and Global Biofuels Alliance.
+
+**10 marks:** define Global South and distinguish G77/BRICS. **15 marks:** voice,
+development delivery and representation with 4-6 examples. **20 marks:** test leadership
+claims against diversity, resources, delivery, competing powers and Latin American/
+African agency.
+
+> **Reasoned verdict:** India can aggregate Global South priorities but earns leadership
+> only through representative agenda-setting and verifiable development outcomes.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/08_Global-South-and-Development-Partnering.md`.
@@ -239,3 +281,24 @@ bloc or substituting for the distinct memberships of G77, NAM or BRICS.
   inclusion of G77 alongside other platforms; topic 07 for Africa-specific
   delivery; topic 10 for BRICS/G20 institutional profiles; topic 12 for the
   UN/Bretton Woods representation-deficit and reform debate.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2019
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-II | 19 | India's image as leader of the oppressed and marginalised nations | Elaborate · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- India's image as leader of the oppressed and marginalised nations
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

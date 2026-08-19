@@ -203,6 +203,114 @@ Wittgenstein's critique of solipsism is not a separate argument but a *consequen
 
 > ⚠️ The *Tractatus* had already gestured at this: "What the solipsist *means* is quite correct, only it cannot be *said*" (5.62). The later Wittgenstein makes the impossibility of private language the explicit ground for why it cannot be said — or even thought coherently.
 
+### 5.7 CRITERIA vs SYMPTOMS ✅ — the distinction that saves the argument from behaviourism
+
+**Why you need it.** Without this distinction the private-language argument looks like the claim that "pain" *means* pain-behaviour — i.e. behaviourism. With it, Wittgenstein can hold that the connection between behaviour and pain is **grammatical** (constitutive of the concept) without being **reductive** (an identity).
+
+**Exact printed subterms:** *criterion* (*Kriterium*) · *symptom* (*Symptom*) · "**defining criterion**" · "**fluctuation in grammar between criteria and symptoms**" (PI §354) · *outward criteria* (§580) · *Lebensform* (form of life).
+
+| | **CRITERION** | **SYMPTOM** |
+|---|---|---|
+| **Relation to the concept** | **Internal / grammatical** — part of what it *is* for the concept to apply; fixed by convention and taught in learning the word | **External / inductive** — a correlation experience has taught us, discovered by observation |
+| **How established** | By the grammar of the language-game; not by evidence | By empirical investigation |
+| **If it fails** | We would not know what the word means any more — the concept would lose its footing | We would merely revise a generalisation; the concept is untouched |
+| **Wittgenstein's own example** (*Blue Book*) | For **angina**: the presence of a particular **bacillus** in the blood, which we have *defined* as the criterion | For **angina**: the **inflamed throat**, which experience has taught us usually goes with it |
+| **For pain** | Pain-behaviour **in appropriate circumstances** is a criterion for "he is in pain" | A raised pulse, sweating, a groan produced by an actor — evidence at best |
+
+**The three points that must be made ⚠️:**
+1. **Criteria are defeasible.** That pain-behaviour is a criterion does not mean it is conclusive: pretence, acting and suppression are all possible. Criteria give *non-inductive but defeasible* grounds. This is what blocks the inference to behaviourism.
+2. **Criteria are not evidence for something hidden.** They are not clues from which we infer an inner event; they are the circumstances in which the concept has its home.
+3. **The grammar fluctuates.** ✅ "In the practice of the use of language one party calls out the words, the other acts on them… The fluctuation in grammar between criteria and symptoms makes it look as if there were nothing at all but symptoms" (PI §354, in substance). What is a criterion in one language-game may be a symptom in another; the distinction is not a fixed taxonomy but a grammatical role.
+
+### 5.8 "AN INNER PROCESS STANDS IN NEED OF OUTWARD CRITERIA" — PI §580 ✅
+
+> ✅ *"An 'inner process' stands in need of outward criteria."* (*Philosophical Investigations* §580)
+
+**This one sentence is the hinge of the entire treatment of mind, and it is the single most quotable line in this file.** Note precisely what it says and does not say:
+
+| It **does** say | It does **not** say |
+|---|---|
+| That the concept of an inner process has application only where there are outward criteria for its application | That there are no inner processes |
+| That "remembering," "intending," "expecting," "understanding" are not names of private episodes we then report | That mental life is nothing but behaviour |
+| That the *grammar* of psychological words is fixed in public practice | That my pain is *someone else's* business, or that I infer my own pain from my behaviour ⚠️ **first-person asymmetry: I do not use criteria in my own case at all — I simply avow** |
+
+**The argument, numbered:**
+1. To possess a concept is to master a technique of applying a word correctly and incorrectly (§§143–202).
+2. Mastery requires that there be circumstances in which application is right and circumstances in which it is wrong.
+3. For a putatively "inner" concept, those circumstances cannot themselves be further inner items — that would restart the same problem one level down (a private criterion for a private criterion).
+4. ∴ The circumstances must be outward — behaviour, situation, what precedes and follows, the surroundings that Wittgenstein calls the "**surroundings**" or *Umgebung* of the utterance.
+5. ∴ An inner process stands in need of outward criteria.
+
+### 5.9 THE BEHAVIOURISM CHARGE — AND THE REPLY ✅ (PI §§304, 307–308)
+
+Wittgenstein raises the objection **against himself**, in the interlocutor's voice, which is why quoting it is so effective:
+
+> ✅ *"Aren't you at bottom really saying that everything except human behaviour is a fiction?" — "If I do speak of a fiction, then it is of a **grammatical** fiction."* (§307, in substance)
+
+**The reply, in four moves ⚠️:**
+1. **The denial is of a picture, not of a phenomenon.** What is rejected is the model of sensation as an **inner object** privately named — not the reality of pain, joy or memory. §304: "It is **not a something, but not a nothing either!** The conclusion was only that a nothing would serve just as well as a something about which nothing could be said."
+2. **The first false step.** §308 diagnoses how the problem arises: we begin by talking innocently of mental "processes and states" while leaving their nature undecided — "and now the analogy which was to make us understand our thoughts falls to pieces… **the decisive movement in the conjuring trick has been made, and it was the very one that we thought quite innocent.**"
+3. **Criteria ≠ definition.** Because criteria are defeasible (§5.7), "he is in pain" is not *equivalent to* any statement about behaviour. The behaviourist asserts an equivalence; Wittgenstein asserts a grammatical dependence. **This is the whole difference, and stating it is what an examiner is looking for.**
+4. **The first/third person asymmetry.** The behaviourist must treat "I am in pain" and "he is in pain" symmetrically. Wittgenstein does not: the first-person utterance is not a report based on criteria but an **avowal** (*Äußerung*) which replaces the natural expression of pain — a cry — rather than describing an inner object (§244).
+
+> ⚠️ **Verdict to deploy:** "Wittgenstein is not a behaviourist but an **anti-Cartesian without being a reductionist**. He removes the inner object while keeping the inner life, by relocating the meaning of psychological words from private ostension to public criteria. Whether this position is stable — whether one can deny the inner object and still respect the phenomenology of the first person — is the standing dispute between Hacker's and Kripke's readings."
+
+---
+
+## 5A. PHILOSOPHY AS THERAPY — LANGUAGE ON HOLIDAY AND THE FLY-BOTTLE ✅
+
+**Thesis.** Philosophical problems are not questions awaiting discoveries; they are **confusions** produced when language is taken out of the practice that gives it sense. The method is therefore **diagnostic and dissolving**, not constructive.
+
+**The five load-bearing images and remarks ✅:**
+| Remark | PI § | What it does |
+|---|---|---|
+| "**Philosophical problems arise when language goes on holiday**" (*wenn die Sprache feiert* — literally when language *idles*, is not at work) | §38 | Locates the origin of the problem: a word removed from its language-game keeps its surface grammar but loses its use |
+| "**A picture held us captive.** And we could not get outside it, for it lay in our language and language seemed to repeat it to us inexorably." | §115 | Names the mechanism: a *Bild* — the inner object, the essence, the hidden mechanism of meaning |
+| "**A philosophical problem has the form: 'I don't know my way about.'**" (*Ich kenne mich nicht aus*) | §123 | Reclassifies the difficulty: it is **disorientation**, not ignorance of a fact |
+| "**The philosopher's treatment of a question is like the treatment of an illness.**" | §255 | The therapeutic analogy stated outright |
+| ✅ "**What is your aim in philosophy? — To show the fly the way out of the fly-bottle.**" (*der Fliege den Ausweg aus dem Fliegenglas zeigen*) | **§309** | The governing image of the whole method |
+
+**Reading the fly-bottle image correctly ⚠️ (this is where marks are won or lost):**
+1. The fly-bottle is a trap that is **open at the top** — the fly is not physically imprisoned. Nothing holds it but its own manner of trying to escape: it batters at the glass, which is transparent, because it can *see* the outside.
+2. ∴ The philosopher's predicament is **self-generated**. The exit was always available.
+3. ∴ The remedy is not a new theory but a change in how one goes about it — showing the *way out*, not supplying an *answer*.
+4. ∴ There is no philosophical thesis to replace the confused one: "**Philosophy… leaves everything as it is**" (§124); "**If one tried to advance theses in philosophy, it would never be possible to debate them, because everyone would agree to them**" (§128).
+5. ∴ Success is measured by **cessation**, not by discovery: "**The real discovery is the one that makes me capable of stopping doing philosophy when I want to**" (§133).
+
+**Presuppositions ⚠️:** (P1) every genuine question has a home in some practice; (P2) philosophical theses that survive scrutiny are grammatical remarks in disguise; (P3) description suffices — "**we may not advance any kind of theory. There must not be anything hypothetical in our considerations. We must do away with all *explanation*, and description alone must take its place**" (§109).
+
+**Strongest objections → replies ❓:**
+| Objection | Reply | Residual |
+|---|---|---|
+| **Quietism/conservatism:** "leaves everything as it is" removes philosophy's critical function, including social critique. | The claim concerns *conceptual* description, not social practice; therapy removes confusion and does not forbid reform. | ⚠️ But the range of what philosophy may legitimately do is deliberately and severely narrowed; the charge is not fully answered. |
+| **Self-application:** the therapeutic method is itself a philosophical thesis about philosophy, so it refutes itself. | Wittgenstein accepts a version of this: his remarks are themselves ladder-like, and §133 speaks of "**methods**, like different therapies," in the plural — there is no single doctrine. | ❓ Structurally the same problem as the *Tractatus* ladder — continuity between early and late Wittgenstein on this precise point is a first-class exam observation. |
+| Some philosophical problems are real (personal identity, free will, the status of mathematics) and survive any amount of grammatical clarification. | Wittgenstein would treat their persistence as evidence that the picture holding us captive has not yet been fully exhibited. | ⚠️ Unfalsifiable as stated; this is the most serious methodological complaint. |
+
+---
+
+## 5B. ASPECT-SEEING AND THE DUCK-RABBIT ✅ (*Investigations*, Part II §xi / "Philosophy of Psychology — A Fragment")
+
+**Why it belongs in this file.** Aspect-seeing is where the later philosophy shows that even *perception* is not a bare given but is internally bound up with mastery of concepts and techniques. It completes the demolition of the sense-datum foundation that Russell and the positivists built on, and it explains the "experience of meaning."
+
+**The phenomenon.** Jastrow's **duck-rabbit** figure can be seen as a duck or as a rabbit. Wittgenstein's crucial observation:
+> ✅ *"I see that it has not changed; and yet I see it differently."*
+
+**The puzzle, numbered:**
+1. Nothing in the drawing alters — the lines, the ink and the retinal image are identical before and after.
+2. Yet something genuinely changes: I now see a **rabbit** where I saw a **duck**. Wittgenstein calls this the **dawning of an aspect** (*das Aufleuchten eines Aspekts*).
+3. So the change is neither in the object (nothing physical altered) nor merely in my *interpretation* (I do not *infer* the rabbit — the change is immediate and visual).
+4. ∴ "Seeing-as" is a **third** category, neither pure perception nor pure judgement: it is "half visual experience, half thought."
+5. ∴ Concepts are not applied *after* perception; the ability to see the aspect **presupposes mastery of a technique** — Wittgenstein notes that one must be familiar with the shape of a rabbit to see the rabbit-aspect at all.
+6. ∴ **Aspect-blindness:** we can conceive of someone who has full visual acuity, and can identify both figures on request, yet is incapable of the *dawning* of an aspect. Such a person's relation to meaning would also be impoverished — which is why aspect-seeing illuminates the **experience of meaning** (hearing a word "in a particular sense," feeling a word to "fit").
+
+**Consequences to deploy ⚠️:**
+| Target | Damage done |
+|---|---|
+| **Sense-data / the Given** | If what I see depends on what I can do with concepts, no perceptual layer is conceptually innocent. The Russellian foundation of acquaintance is undermined from a new direction — see [`Moore-Russell-EarlyWittgenstein.md`](Moore-Russell-EarlyWittgenstein.md) §4.7. |
+| **The picture theory** | A picture does not depict *of itself*; it depicts only within a practice of use. The *Tractatus* had assumed that the picturing relation was intrinsic to the picture. This is a self-criticism. |
+| **Meaning as inner process** | The dawning of an aspect *feels* like an inner event, yet its criteria are what one does and says next. §580 applies here as elsewhere. |
+| **Philosophy's own method** | Wittgenstein's therapy just **is** the attempt to make a new aspect dawn — to make us see the familiar language-game differently, without adding a single new fact. This is the deepest connection between §5B and §5A, and it is worth an explicit sentence in any answer on his method. |
+
 ---
 
 ## 6. INTER-THINKER / INTER-SCHOOL DEBATES ⚠️
@@ -215,6 +323,60 @@ Wittgenstein's critique of solipsism is not a separate argument but a *consequen
 | Private inner realm | **Logically impossible** as foundation of meaning | Not explicitly addressed (but logical form is objective) | Not central | Foundational (cogito, sense-data) |
 | Philosophy's task | Therapy — dissolve confusions; "leaves everything as it is" | Draw limits of the sayable | Analysis; eliminate pseudo-problems | Build system from foundations |
 | Ethics | Embedded in forms of life; no philosophical theory needed | Beyond the sayable (the mystical) | Emotive / non-cognitive | Rational theory possible |
+
+---
+
+## D. DIRECTIVE DECODER ⚠️ — what each command word obliges you to *do* here
+
+| Directive | What it demands | Structural obligation for **this** file | Fatal error |
+|---|---|---|---|
+| **Discuss meaning as use** | show the **contrast it replaces**, then the positive account | Augustinian/referential picture (§1) → use → family resemblance → forms of life. Give a worked example (the builders' "Slab!"). | "Wittgenstein said meaning is use" plus a paraphrase. |
+| **Critically examine the private-language argument** (2024, 2019) | reconstruct the **five-step logical core**, then the criteria/symptoms defence | §5.4 core, then the behaviourism charge with §§304–308 as the reply, then Kripke vs Hacker, then rule. | Retelling the beetle and the diary with no argument-structure. |
+| **Elucidate a numbered remark** (quotation-led parts) | give the §, then the doctrine, then the work it does | E.g. §580 "an inner process stands in need of outward criteria": say what it does **not** claim (§5.8 table). | Paraphrasing the sentence. |
+| **How does Wittgenstein refute solipsism?** (2019 Q3b) | show it is a **corollary**, not a separate argument | Private language impossible → the solipsist's own language is public → the thesis is self-undermining. Add *Tractatus* 5.62 for the early/late contrast. | Treating it as an independent refutation. |
+| **Compare early and later Wittgenstein** (2025 Q3a, 2023 Q4c) | name the **specific doctrines** abandoned and what caused each abandonment | Determinacy of sense, simple objects, one logical form, independence of elementary propositions (broken by colour exclusion), sense as picturing. | "He changed his mind about language." |
+| **Explain philosophy as therapy** | show that the **method follows from the diagnosis** | §38 holiday → §115 picture → §123 disorientation → §309 fly-bottle → §124/§128/§133 consequences. | Quoting the fly-bottle with no account of why the bottle is open. |
+| **Assess "family resemblance"** | show what it **denies** (essences) and what it **permits** (extensible concepts) | Games as the worked case; then the objection that unlimited resemblance makes any two things similar, and the reply that the concept is bounded by practice, not by definition. | Listing games. |
+| **Comment / Do you agree?** | a defended ruling in line 1 | Take a side on behaviourism, on Kripke's reading, or on quietism — and defend it. | Reporting the debate. |
+
+---
+
+## V. GRADED VERDICT BANK ⚠️ — executable closing positions
+
+| Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict** |
+|---|---|---|---|
+| **The break from the *Tractatus*** | The later work is not a change of subject but the dismantling of two *Tractatus* presuppositions Wittgenstein was himself the first to identify. | …Colour exclusion destroyed the independence of elementary propositions; the demand for determinate sense was seen to be a requirement imposed by a *picture*, not discovered in language. | The continuity is the conception of philosophy: in 1921 it is an activity of elucidation ending in silence, in 1953 an activity of therapy ending in the ability to stop. What changes is the diagnosis of what misleads us — logical form in the early work, the surface grammar of ordinary language in the later. Read this way the two books are one project pursued with opposite assumptions about where sense comes from. |
+| **Meaning and use** | Meaning is not a relation between word and object but a **place in a practice**; asking for the meaning is asking for the technique of employment. | …This is not verificationism: use is not exhausted by checking-conditions, and imperatives, jokes, greetings and prayers all have use without truth-conditions. The verification principle is a special case of the use-theory, illegitimately generalised. | The doctrine's strength is that it explains the phenomena the referential theory cannot — logical constants, sensation words, proper names of the non-existent. Its cost is normativity: if use fixes meaning, what distinguishes a mistake from a change? Wittgenstein's answer — that grammar and training set the standard — is adequate for stable practices and strained for creative and evolving ones, and this is the live tension in the doctrine. |
+| **Language-games / forms of life** | Language is not one thing with one essence but an indefinite family of practices woven into activities. | …"Forms of life" is where explanation stops — "**this is simply what I do**" (§217) — which is a limit, not an evasion, since any justification must terminate somewhere. | The concept of a form of life is the doctrine's greatest strength and its greatest obscurity: it grounds meaning in something more than convention (it is natural history, not agreement) while leaving unsettled whether forms of life are biological, cultural or both. The dispute between the "naturalist" and "culturalist" readings is unresolved, and any answer that names it is operating above the ordinary level. |
+| **Rule-following** | The paradox is that no interpretation can fix a rule, since every interpretation itself needs interpreting; the regress ends in a **practice**, not in a further rule. | …§201's own resolution is that "there is a way of grasping a rule which is **not** an interpretation, but which is exhibited in what we call obeying the rule" — so the sceptical paradox is a *symptom* of the interpretation-model, not a conclusion. | Kripke's "sceptical solution" reads the argument as conceding that no fact constitutes meaning and replacing truth-conditions with community assertibility-conditions; Baker–Hacker and McDowell reply that Wittgenstein dissolves rather than concedes the paradox. The examiner-safe ruling: **Kripke's reading is philosophically fertile and exegetically weak** — §201 explicitly names the paradox a *misunderstanding*, which is not how a sceptic writes. |
+| **Private language** | A sign with no possible independent standard of correct application is not a sign; the private diarist only seems to mean something. | …The argument does not deny private *experience*, only private *meaning*; and it works by removing the correct/seems-correct distinction, not by demanding public verification. | Its target is the whole Cartesian–empiricist architecture: if sensation-words cannot be privately grounded, then neither the cogito's inner theatre nor the sense-datum base can be the foundation of knowledge. Its cost is that it purchases this result with a strong premise — that a criterion of correctness must be *possible* for anyone — which Ayer's Crusoe case tests and which no formulation has made uncontroversially compelling. |
+| **Criteria vs symptoms** | Criteria are grammatical and defeasible; symptoms are inductive. That single distinction blocks the behaviourist reading. | …It allows Wittgenstein to say that behaviour is constitutive of the *concept* of pain without being identical to pain, and to preserve the first/third-person asymmetry the behaviourist must deny. | The distinction is what makes the philosophy of mind here genuinely third-way: anti-Cartesian without reduction. Its instability is that Wittgenstein himself notes the grammar *fluctuates* between criterion and symptom (§354), so the distinction cannot be drawn once and for all — which is either a candid recognition of how concepts work or an admission that the key notion is not sharp. Say which you think, and why. |
+| **Therapy / fly-bottle** | Philosophical problems are disorientation, not ignorance; the fly-bottle is open, and the remedy is a change of method, not a new theory. | …This is why "philosophy leaves everything as it is" and why no theses are advanced; success is measured by the ability to stop. | The quietist charge is the one to engage. It cannot be dismissed, because Wittgenstein does deliberately and severely narrow what philosophy may do. The defence worth making is that the narrowing is *local*: it forbids explanatory theory in the philosophy of language and mind, where the confusions are grammatical, and says nothing about ethics or politics. Whether that restriction can be principled, rather than merely announced, is the standing question. |
+| **Aspect-seeing** | "I see that it has not changed; and yet I see it differently" — seeing-as is neither bare perception nor inference, and it presupposes mastery of a technique. | …It therefore completes the case against the Given: what one can see depends on what one can do with concepts. | Aspect-seeing is also a description of Wittgenstein's own method. Therapy adds no facts and changes no object; it makes a new aspect of the familiar language-game dawn. That the doctrine of aspects and the conception of philosophy are the same thought is the strongest evidence that the later work is a unified philosophy and not, as Russell alleged, a collection of aphorisms. |
+
+---
+
+## T. TRANSLATION, NUMBERING & PROVENANCE DISCIPLINE ✅
+
+**Wittgenstein wrote in German; the *Investigations* is a posthumous compilation. Both facts constrain what you may assert.**
+
+| Item | Status | Practice |
+|---|---|---|
+| *Philosophische Untersuchungen* / *Philosophical Investigations* | Written 1929–49; **published posthumously in 1953**, edited by **Anscombe and Rhees**; German–English facing pages | ⚠️ Never write "Wittgenstein published the *Investigations*." He did not publish it, and the arrangement of remarks is partly editorial. |
+| **Translations** | **Anscombe** (1953); revised by **Hacker and Schulte** (4th edn, 2009) | ⚠️ The 4th edition changes wording in places and — crucially — **renames Part II as "Philosophy of Psychology — A Fragment," renumbering its sections**. So "PI Part II §xi" (older editions) = "PPF §§111ff" (4th edn). **If you cite the duck-rabbit, say "Part II §xi / PPF"** rather than a bare number. |
+| **Citation by § number** ✅ | Part I remarks are numbered §1–§693 and the numbering is **identical across editions and translations** | Use § numbers rather than page numbers: §1 (Augustine), §7/§23 (language-games), §38 (language on holiday), §43 (meaning is use), §66–67 (family resemblance), §109 (description not explanation), §115 (a picture held us captive), §123, §124, §128, §133, §201 (the paradox), §217 (spade turned), §241–242 (agreement in form of life), §243–271 (private language), §244 (avowal), §255, §258 (diary), §293 (beetle), §304, §307–308 (behaviourism), §309 (fly-bottle), §354 (criteria/symptoms), §580 (outward criteria). |
+| **"Meaning is use"** | ⚠️ §43 is carefully hedged: "**For a *large class* of cases** — though not for all — in which we employ the word 'meaning' it can be defined thus: the meaning of a word is its use in the language." | ❌ Never quote it without the qualification. Dropping "for a large class of cases" is the most frequent misquotation in the whole syllabus, and it converts a careful remark into the slogan Wittgenstein was avoiding. |
+| **"Language goes on holiday"** (§38) | ⚠️ The German is *wenn die Sprache feiert* — closer to "when language is **idling**" or "on vacation from work." Anscombe's "holiday" is idiomatic but slightly misleading; the image is machinery running without load, not a vacation. | Give the § and gloss the image, or paraphrase. |
+| **Fly-bottle** (§309) | ✅ "To show the fly the way out of the fly-bottle" is stable across editions | ✅ Safe verbatim with §309. |
+| **Beetle in a box** (§293) | ✅ | ✅ Safe with §293. |
+| **Diary "S"** (§258) | ⚠️ Renderings of "whatever is going to seem right to me is right" vary slightly | Give §258; paraphrase rather than quote if unsure. |
+| ***Blue and Brown Books*** | Dictated **1933–35**, published **1958** | ✅ The source for the **criterion/symptom** distinction and the angina example. ⚠️ They are *dictations to students*, not a work Wittgenstein prepared for print — say "in the *Blue Book*" rather than "Wittgenstein wrote." |
+| ***On Certainty*** | Notes from **1949–51**, published **1969** | ✅ The source of the "hinge propositions" response to Moore. ⚠️ Note it is Wittgenstein's last work and is unrevised. |
+| **Kripke's reading** | *Wittgenstein on Rules and Private Language*, **1982** | ⚠️ Kripke himself presents it as "**Wittgenstein's argument as it struck Kripke**," not as exegesis. Say "Kripke's Wittgenstein" (the standard scholarly phrase, "Kripkenstein") and you signal awareness of the distinction. |
+| **"Forms of life"** (*Lebensformen*) | Occurs only a handful of times in the *Investigations* (§19, §23, §241 and PPF) | ⚠️ Do not build a large doctrine on it and present that doctrine as Wittgenstein's stated theory; mark the interpretation as interpretation. |
+| **Duck-rabbit** | The figure is **Jastrow's** (1899), reproduced by Wittgenstein | ⚠️ Do not attribute the drawing to Wittgenstein. |
+
+> ❌ **Never write:** that Wittgenstein "denied the existence of inner mental states" (§304 explicitly refuses this); that the private-language argument is directed at codes or at talking to oneself; or that "meaning is use" is offered as a general definition (§43 says otherwise).
 
 ---
 

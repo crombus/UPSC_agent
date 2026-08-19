@@ -100,9 +100,62 @@
 
 ## 7. Mains angles
 
-- ⚠️ Prefer “urban and strongly civic, without securely identified monumental temples” to the anachronistic claim that Harappan society was definitively **secular**.
+### Interpretation cautions (promoted from Advanced — paper-essential)
+
+⚠️ **Harappan answers must embed these source-method caveats:**
+1. The **script is undeciphered** — so all claims about polity, religion and social structure are archaeological inferences, not textual facts.
+2. **"Granary"**, **"dockyard"**, **"citadel"** are functional labels applied by excavators; the buildings' actual purposes are interpretations, not proven.
+3. **Polity is unknown/debated**: no royal tombs, king-lists or palaces have been identified; interpretations range from centralised state to city-states to decentralised elite network.
+4. **The "Pashupati" seal** interpretation (proto-Shiva) is contested; treat as "a horned deity" and mark interpretation as open.
+5. **Decline was multi-causal de-urbanisation**, not sudden destruction; Late Harappan rural cultures persisted and show cultural continuity.
+6. **Dholavira** corrections: its tripartite plan (citadel, middle town, lower town) corrects the two-part "citadel west / lower town east" generalisation.
+
+### Thesis options
+
+| Directive | Thesis |
+|---|---|
+| Discuss salient features of architecture (2025 PYQ) | Harappan architecture was civic-functional rather than monumental-religious: planned layouts, standardised bricks (1:2:4), advanced drainage, public water structures and site-specific variation (Dholavira tripartite, Lothal dock, Mohenjo-daro Great Bath) demonstrate administrative standardisation alongside regional adaptation. |
+| Critically examine | While the scale and uniformity of Harappan urbanism across ~1 million sq km is remarkable, the absence of deciphered texts means every major interpretation (polity, religion, social hierarchy) remains provisional — making the civilization an exercise in archaeological reasoning rather than textual certainty. |
+
+- ⚠️ Prefer "urban and strongly civic, without securely identified monumental temples" to the anachronistic claim that Harappan society was definitively **secular**.
 - ⚠️ Use Harappan **water management** (Dholavira reservoirs, Lothal dock, Mohenjo-daro drains) as a GS-I/GS-III bridge to contemporary urban-planning and water-security answers.
 - ⚠️ Discuss why the **decline** has no single explanation — tie environmental/river-shift causes to lessons on climate-resilience of cities.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Harappan civilisation demonstrates high urban coordination, but its polity and religion can only be reconstructed probabilistically because the script remains undeciphered." |
+| Critically examine | "The Harappan world was neither a mystery to be romanticised nor a monarchy to be confidently named; its strongest evidence lies in planning and standardisation." |
+| Compare / evaluate | "The most defensible answer treats Harappan achievement as clear, but many traditional labels must remain qualified." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** ecology and surplus -> urban planning -> craft/trade -> decline/localisation
+- **For comparison Qs:** Harappa/Mohenjo-daro vs Dholavira/Lothal across planning, water and trade
+- **For evaluate Qs:** achievements -> interpretive cautions -> balanced verdict on state/religion
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Urban coordination is beyond doubt | ✅ Standard bricks, weights, drainage and planned streets | Strongest proof of organised civic life | Does not reveal the exact form of the state |
+| 2 | Trade and craft specialisation were central | ✅ Seals, bead-making, Lothal/Dholavira networks | Connects city life to exchange and administration | Trade volume and political control remain debated |
+| 3 | Religion and polity remain inferential fields | ⚠️ Pashupati seal, female figurines and building labels | Supplies workable but cautious interpretations | No direct textual confirmation exists |
+| 4 | Decline was multi-causal and regionally uneven | ✅ Localisation, river shifts and settlement dispersal | Defeats simple invasion-collapse narratives | Different zones changed at different rates |
+
+### Counterpoint and balance
+
+- Avoid both extremes: total unknowability and false certainty.
+- Material evidence reconstructs broad structures well even when script remains unread.
+
+### Verdict framing
+
+- Conclude that Harappan history is strongest on urban form, economy and technology, but weakest on named institutions and doctrine.
+- A high-scoring ending states achievement clearly while marking the boundaries of inference.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

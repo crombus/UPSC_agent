@@ -26,7 +26,7 @@ GULF/GCC          ISRAEL           IRAN
              |
              v
 ENERGY SECURITY AS DOMINANT INTEREST
-89.1% crude-oil import dependence (PPAC,
+88.2% FY25 / ~88.7% FY26(P) crude-oil import dependence (PPAC,
 FY2024-25 and FY2025-26 provisional); equity
 stakes in overseas oilfields; source
 diversification
@@ -58,7 +58,7 @@ than treating any one as exclusive.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **"Look West" policy** | ✅ Tharoor: "as far as the Arab world is concerned, we are proud that we have a 'Look West' policy too" — paralleling the better-known "Look East" policy but oriented toward the Gulf/Arab world. |
-| ✅ **Energy-security dependence** | ✅ Sikri notes India's imported-oil dependence stood at "approximately 70 per cent" in his book period, driving a policy of "making equity investments in oilfields abroad." 📰 PPAC's June 2026 snapshot puts crude-oil import dependence, on a consumption basis, at **89.1% in FY2024-25 and 89.1% (provisional) in FY2025-26** — cite the current official figure, not the book-period one, for any present-day claim. |
+| ✅ **Energy-security dependence** | ✅ Sikri notes India's imported-oil dependence stood at "approximately 70 per cent" in his book period, driving a policy of "making equity investments in oilfields abroad." 📰 PPAC data put crude-oil import dependence at **88.2% in FY2024-25** and about **88.7% (provisional) in FY2025-26** — cite the current figure and its consumption-basis definition, not the book-period one, for any present-day claim. |
 | 📰 **Supplier diversification (Economic Survey 2025-26)** | ✅ "A notable increase in the diversity of countries from which India imports crude oil has been observed": in April-November of FY26, the US share rose to 8.1% (from 4.6% a year earlier) and the UAE's to 11.1% (from 9.4%), with Egypt, Nigeria and Libya also rising, while Russia, Saudi Arabia, Iraq and Venezuela declined. ⚠️ Diversification of sources, not reduction of aggregate dependence. |
 | ✅ **Gulf diaspora scale** | ✅ Sikri cites "a diaspora of 5 million in the Gulf"; ✅ Tharoor separately notes the Arab world "is home to nearly 6 million Indians" — both are period-specific. 📰 MEA's overseas-Indian population table (as on January 2026) records 4,344,008 in the UAE and 2,750,551 in Saudi Arabia. ⚠️ These are population-stock estimates, not citizenship or OCI counts. |
 | ⚠️ **Energy trilemma** | Balancing energy security (reliable supply), affordability and sustainability — a standard framework for evaluating any energy-security policy, including India's Gulf/Iran engagement. |
@@ -67,8 +67,8 @@ than treating any one as exclusive.
 
 ## 3. How the West Asia engagement mechanism works
 
-1. **Energy dependence sets the baseline interest:** 📰 PPAC's 89.1%
-   crude-oil-import-dependence figure for FY2024-25 and FY2025-26 (provisional)
+1. **Energy dependence sets the baseline interest:** 📰 PPAC's 88.2%
+   FY2024-25 and roughly 88.7% FY2025-26 provisional crude-oil-import-dependence figures
    — up from ✅ Sikri's book-period "approximately 70 per cent" — explains why
    the Gulf/West Asia region is treated as central to India's overall
    energy-security strategy.
@@ -102,6 +102,48 @@ than treating any one as exclusive.
   2025**; India and Qatar signed an **Agreement on Establishment of a Bilateral
   Strategic Partnership on 18 February 2025**; India-UAE relations were elevated
   to a Comprehensive Strategic Partnership on 25 January 2017.
+
+### India-Israel: depth and diversity
+
+- ✅ **Diplomatic foundation:** India and Israel established full diplomatic
+  relations in **1992**; the first visit by an Indian Prime Minister to Israel
+  in **July 2017** marked a major political upgrade.
+  **Significance:** the relationship moved from limited, low-visibility contact
+  to an openly diversified partnership.
+  **Limitation:** bilateral depth must still be balanced with India's
+  Palestine position and Arab-world interests.
+- ✅ **Defence and security:** cooperation includes defence procurement,
+  counter-terrorism and co-development, with the **Barak-8 air-defence system**
+  as a named India-Israel development example.
+  **Significance:** Israel contributes specialised technology and rapid
+  capability acquisition.
+  **Limitation:** import dependence, cost and technology-transfer depth remain
+  relevant.
+- ✅ **Agriculture and water:** the Indo-Israel Agricultural Project operates
+  Centres of Excellence for protected cultivation, irrigation and
+  post-harvest practices.
+  **Significance:** it converts bilateral ties into farm-level technology and
+  capacity demonstration.
+  **Limitation:** demonstration centres require local extension, affordability
+  and scaling to affect wider productivity.
+- ✅ **Innovation:** the India-Israel Industrial R&D and Technological
+  Innovation Fund, launched in 2017, supports joint industrial research.
+  **Significance:** it diversifies the relationship beyond defence into
+  civilian innovation.
+  **Limitation:** funded projects and commercial scale must be distinguished
+  from announced cooperation.
+- ⚠️ **Minilateral extension:** I2U2 adds food, water, energy and technology
+  cooperation with the UAE and US.
+  **Significance:** India-Israel ties now operate bilaterally and through
+  regional minilateralism.
+  **Limitation:** I2U2 delivery and regional conflict remain constraints.
+- ⚠️ **Strait of Hormuz:** the narrow outlet from the Persian Gulf to the Gulf
+  of Oman is the principal route-risk chokepoint for Gulf energy shipments.
+  **Significance:** disruption can transmit immediately into freight,
+  insurance and supply insecurity for India.
+  **Limitation:** supplier diversification does not eliminate common-route
+  exposure; strategic reserves and alternative energy reduce but do not remove
+  the risk.
 - ⚠️ **UAE-India CEPA:** in force since **1 May 2022**; officially reported
   bilateral trade was approximately USD 100 billion in FY2024-25 (Economy owns
   tariff/trade-volume mechanics; IR owns its strategic-partnership
@@ -120,6 +162,30 @@ than treating any one as exclusive.
 - 📰 **Chabahar port (Iran):** 10-year long-term contract signed 13 May 2024;
   the US sanctions waiver was revoked effective 29 September 2025. Connectivity
   link relevant to both West Asia and Central Asia (cross-link to topic 05).
+- ✅ **JCPOA and India's interests:** the Joint Comprehensive Plan of Action was
+  concluded on **14 July 2015** between Iran and the E3/EU+3 and endorsed by
+  UNSC resolution 2231. The United States announced withdrawal on **8 May
+  2018** and restored sanctions in stages.
+  **Significance:** nuclear diplomacy initially widened the space for energy and
+  connectivity ties; renewed sanctions exposed Indian oil, banking, insurance
+  and project channels to third-country pressure.
+  **Limitation/status caution:** do not describe the JCPOA as normally
+  functioning. Following the E3 snapback action in 2025, the status of restored
+  UN measures is disputed by Iran, Russia and China.
+- ⚠️ **Oil-sourcing transmission:** India ceased Iranian crude purchases after
+  US Significant Reduction Exceptions ended in May 2019 and substituted other
+  suppliers.
+  **Significance:** external policy directly changed India's energy basket.
+  **Limitation:** supplier substitution reduced immediate sanctions exposure
+  but narrowed the Iran relationship and did not reduce aggregate import
+  dependence.
+- ⚠️ **Chabahar exception and reversal:** the 2018 US exception for Chabahar and
+  Afghanistan-related connectivity was revoked effective **29 September
+  2025**.
+  **Significance:** Chabahar shows why India may pursue a national-interest
+  carve-out even amid US-Iran confrontation.
+  **Limitation:** an exception is a reversible foreign executive measure, not a
+  permanent legal guarantee.
 - 📰 **Operation Sindhu (June 2025):** India's evacuation of **4,415 nationals**
   from Iran (3,597) and Israel (818) by 27 June 2025 — the concrete illustration
   that West Asia policy carries a standing consular-protection obligation
@@ -127,13 +193,26 @@ than treating any one as exclusive.
 
 ## 5. Indian applications and examples
 
+### Israel-Palestine and India's balancing position
+
+- ✅ India recognised the State of Palestine in 1988 and continues to support a
+  negotiated, sovereign, viable two-state solution alongside Israel.
+- ✅ The Abraham Accords (2020) normalised Israel's relations with several Arab states
+  and widened the space for economic/minilateral cooperation, including the environment
+  in which I2U2 emerged. Normalisation did not resolve the Palestinian question.
+- ⚠️ After the October 2023 conflict began, India condemned terrorism, called for
+  humanitarian protection, release of hostages, dialogue and a two-state settlement,
+  while continuing relations with Israel and assistance to Palestinians.
+- ⚠️ The conflict tests IMEEC/I2U2 by raising political, security and route-risk costs;
+  announced corridors and minilaterals must not be treated as insulated from regional war.
+
 - ✅ **Direct PYQ (2025 Q19):** *"Energy security constitutes the dominant
   kingpin of India's foreign policy, and is linked with India's overarching
   influence in Middle Eastern countries." How would you integrate energy
   security with India's foreign policy trajectories in the coming years?*
   (250 words) — this is the anchor PYQ for this topic.
-- ✅ A strong answer to 2025 Q19 should cite the 89.1% crude-oil-import-
-  dependence figure (PPAC, FY2024-25/FY2025-26) alongside Sikri's book-period
+- ✅ A strong answer to 2025 Q19 should cite the 88.2% FY2024-25 and roughly
+  88.7% provisional FY2025-26 crude-oil-import-dependence figures alongside Sikri's book-period
   ~70% baseline to show the trend direction, the equity-investment and
   supplier-diversification strategy (Economic Survey 2025-26), the India-GCC
   Joint Action Plan (2024-2028, Riyadh, 9 September 2024), and I2U2/IMEEC as
@@ -146,8 +225,8 @@ than treating any one as exclusive.
 
 ## 6. Must-Know Facts for Prelims
 
-- 📰 India's crude-oil import dependence was **89.1% in FY2024-25** and **89.1%
-  (provisional) in FY2025-26** (PPAC). ✅ Sikri's "approximately 70 per cent" is
+- 📰 India's crude-oil import dependence was **88.2% in FY2024-25** and about
+  **88.7% (provisional) in FY2025-26** (PPAC). ✅ Sikri's "approximately 70 per cent" is
   a book-period figure — quote it only as historical baseline.
 - 📰 In April-November of FY26, the US share of India's crude imports rose to
   8.1% from 4.6%, and the UAE's to 11.1% from 9.4%, while Russia, Saudi Arabia,
@@ -184,7 +263,7 @@ than treating any one as exclusive.
   MoU of 9 September 2023; no completed construction or operating segment is
   officially established.
 - ❌ India's oil-import dependence is about 70 per cent. -> That is Sikri's
-  book-period figure. PPAC records 89.1% for FY2024-25 and FY2025-26
+  book-period figure. PPAC records 88.2% for FY2024-25 and about 88.7% for FY2025-26
   (provisional); supplier diversification has increased even as aggregate
   dependence has not fallen.
 - ❌ The Gulf diaspora figure is a fixed, unchanging number. -> Diaspora figures
@@ -216,7 +295,7 @@ than treating any one as exclusive.
   India's foreign policy, and is linked with India's overarching influence in
   Middle Eastern countries." How would you integrate energy security with
   India's foreign policy trajectories in the coming years?* Structure: (1) state
-  the 89.1% import-dependence baseline (PPAC) and the direction of travel since
+  the 88.2% FY2024-25 / roughly 88.7% provisional FY2025-26 baseline (PPAC) and the direction of travel since
   Sikri's ~70%; (2) cite the equity-investment and supplier-diversification
   strategy; (3) cite the India-GCC Joint Action Plan (2024-2028, adopted Riyadh,
   9 September 2024) and I2U2/IMEEC as integration mechanisms; (4) balance this
@@ -253,6 +332,25 @@ than treating any one as exclusive.
   energy security with India's foreign policy trajectories in the coming years?
 - ⚠️ **Mains (10 marks):** Explain how India balances its relationships with
   Israel and the Arab/Gulf world without treating either as exclusive.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+Core owns the **2018 India-Israel** and **US-Iran nuclear-pact/national-interest**
+demands, superseding `advanced/06`.
+
+- **Portfolio:** Gulf energy/diaspora, Israel technology/defence, Iran connectivity,
+  Palestine principles/humanitarian diplomacy, and emerging corridors/minilaterals.
+- **Balance:** diversification reduces energy risk, while regional wars, sanctions and
+  unresolved Palestine can disrupt corridors and political acceptance.
+
+**10 marks:** one relationship plus three interest dimensions. **15 marks:** energy,
+diaspora, security, connectivity and Palestine balance with 4-6 examples. **20 marks:**
+integrate Gulf transitions, Israel-Iran rivalry, sanctions, two-state policy, IMEEC/I2U2
+and consular protection.
+
+> **Reasoned verdict:** India's West Asia policy is viable only as a non-exclusive
+> portfolio that combines material interests with a credible two-state and humanitarian
+> position.
 
 ## 12. Study links
 
@@ -309,21 +407,25 @@ than treating any one as exclusive.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
 - **Years represented:** 2018, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 5
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 9 | Depth and diversity of India's relations with Israel | Discuss · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-II | 20 | US-Iran nuclear pact controversy and India's national interest | In what ways and How should · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2018 | Prelims GS-I | 24 | Two-state solution in international affairs context | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2018 | Prelims GS-I | 37 | Conflict zone towns and their correct country matching | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 94 | Israel Arab states diplomatic relations Arab Peace Initiative | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- Depth and diversity of India's relations with Israel
+- US-Iran nuclear pact controversy and India's national interest
 - Two-state solution in international affairs context
 - Conflict zone towns and their correct country matching
 - Israel Arab states diplomatic relations Arab Peace Initiative

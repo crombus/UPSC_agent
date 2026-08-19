@@ -49,6 +49,7 @@
 
 > **Study link:** ✅ History → Medieval → Delhi Sultanate → Khaljis (Satish Chandra).
 > **Study link:** ⚠️ Mongol threat → `basic/05` (Tughlaqs) & `00_Master-Chronology.md`; administration → `basic/07`.
+> **Study link:** ✅ Persian-chronicle/source-methodology bank for Barani and Amir Khusrau → asic/07_Sultanate-Administration-Economy-Society.md §9.
 
 ## 4. Must-Know Facts (Prelims)
 
@@ -77,6 +78,42 @@
 - ⚠️ "Alauddin Khalji's market control was the most systematic economic regulation of the Sultanate." Examine its **mechanism, motives and limits** (collapsed after his death).
 - ⚠️ Link the **Mongol threat** to state-building — how external pressure drove army expansion, revenue centralisation and price control.
 - ⚠️ Use the reforms to discuss **state capacity** in the medieval Indian polity (registers, spies, buffer stocks) as an early example of administrative reach.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Examine market control mechanism | "Alauddin's price control was a military-fiscal device: Mongol defence → large army → low salaries → fixed prices → agrarian surplus extraction in the doab, enforced by intelligence, registers and harsh punishment." |
+| Critically evaluate motives | "The system was neither welfare nor proto-socialism; it served the army and the ruler, and its benefits to Delhi consumers were a by-product, not the objective." |
+| Assess limits and legacy | "The reforms depended entirely on Alauddin's coercive apparatus and collapsed within months of his death — demonstrating the Sultanate's institutional limits despite unprecedented administrative reach." |
+| Compare with later revenue systems | "Alauddin's measurement and half-produce demand in the doab was a precedent for Sher Shah's and Akbar's zabt; the difference is that later systems were broader, less punitive and longer-lasting." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Three markets (grain mandi, Sarai-i-Adl for cloth, horse/slave market) each under a shahna with registers | System was institutionally designed, not ad hoc | Demonstrates bureaucratic capacity: category-specific, documented, supervised | Source is primarily Barani — normative and possibly exaggerated |
+| 2 | ✅ Doab revenue: measurement (masahat), ½ of produce, intermediary privileges (khuts/muqaddams) curtailed | Agrarian base was necessary for cheap grain supply to capital | Links rural extraction to urban price control — not separate policies | Applied mainly to the doab, not the whole empire |
+| 3 | ✅ Banjaras registered and collectively responsible for haulage | State controlled supply-chain, not merely final price | Shows administrative reach beyond the market itself | Banjara compliance relied on coercion; voluntary trade logic absent |
+| 4 | ✅ Mongol invasions repelled (1299–1305) requiring standing army at Siri | Motive chain: external threat → fiscal-military innovation | Contextualises reforms as strategic necessity, not abstract policy | Mongol threat receded after 1305; reforms not recalibrated |
+| 5 | ✅ System collapsed after Alauddin's death (1316) | Personal coercion, not institutional continuity, sustained it | Reveals structural limit of Sultanate state capacity | Collapse was also due to succession chaos, not solely design failure |
+| 6 | ✅ Malik Kafur's Deccan raids (1306–11) brought massive wealth | Conquest wealth supplemented revenue; army was not funded by price control alone | Prevents monocausal market-control explanation | Plunder was unrepeatable once southern kingdoms resisted |
+
+### 8.3 Counterpoints and source criticism
+
+- ⚠️ **Barani's bias:** He wrote decades later, with a normative agenda (elite exclusivism); market-regulation details cannot be fully verified.
+- ⚠️ Enforcement was Delhi-centred; provinces may not have experienced these controls uniformly.
+- ⚠️ The peasant burden (½ produce + elimination of intermediary cushion) was severe; "cheap food" came at agrarian social cost.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Mongol-motive + mechanism (2 evidence units) + collapse as limit. Conclude: impressive reach, unsustainable beyond one reign.
+- **15-mark:** Add agrarian base + Barani source criticism + Deccan wealth. Conclude: multi-instrument system, but coercion-dependent.
+- **20-mark:** Full 6-unit deployment; contrast with Sher Shah/Akbar; discuss historiographical debate on "medieval planned economy" vs "military fiscalism"; graded verdict.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

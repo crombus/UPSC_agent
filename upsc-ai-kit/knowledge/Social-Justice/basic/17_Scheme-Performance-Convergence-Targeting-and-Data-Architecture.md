@@ -4,7 +4,7 @@
 > cross-reference GS-III (development processes) and Governance (monitoring/evaluation).
 > **Core area:** NSAP social assistance; SECC targeting database; targeting errors;
 > convergence challenges; outcome-data architecture.
-> **Grounded in:** NSAP (MoRD); SECC 2011; NFHS-5 (2019-21); PLFS; NCRB; SDG India Index;
+> **Grounded in:** NSAP (MoRD); SECC 2011; NFHS-6 (2023-24), with NFHS-5 as comparator; PLFS; NCRB; SDG India Index;
 > DMEO/OOMF (cross-link Governance/15); DBT/PFMS/SNA (cross-link Governance/13); 2027
 > Census caste-enumeration decision and 2026 operations (cross-link Topic 09).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
@@ -133,9 +133,8 @@ substitutes for the others.
   absent.
 
 ### Outcome-evidence triangulation example: nutrition
-- ⚠️ Administrative dashboards (ICDS/Poshan Tracker) may show near-universal anganwadi
-  enrolment; NFHS-5 (2019-21) still records significant stunting (35.5% under-5),
-  wasting (19.3% under-5) and anaemia (67% children 6-59 months).
+- ⚠️ Administrative dashboards may show high anganwadi enrolment; NFHS-6 (2023-24)
+  still reports under-five stunting at 29.3%, despite improvement from NFHS-5's 35.5%.
 - ⚠️ Interpretation: coverage (output) does not guarantee nutrition improvement (outcome);
   the outcome-learning gap (Master-Framework Section 7) persists.
 
@@ -145,8 +144,8 @@ substitutes for the others.
 - ✅ SECC 2011 is a targeting database distinct from the decennial Census; its caste data
   was collected but never officially released.
 - ✅ Inclusion error = ineligible included; exclusion error = eligible excluded.
-- ✅ NFHS-5 (2019-21) remains the latest published national NFHS round as at 21 July
-  2026; retain the survey round beside each health/nutrition indicator.
+- ✅ NFHS-6 (2023-24), released 29 May 2026, is the current national round; retain the
+  survey round beside every indicator.
 
 ## 7. UPSC traps
 
@@ -167,8 +166,8 @@ substitutes for the others.
   first-phase houselisting is notified for 1 April–30 September 2026. This is an ongoing
   operation, not a published database or a ready-made targeting list. Full treatment:
   `basic/09_OBC-EWS-and-Social-Mobility.md`.
-- 📰 **NFHS status:** NFHS-5 (2019-21) is the latest published national round. Retain the
-  survey round with every indicator; do not mix it with an unreleased NFHS-6.
+- 📰 **NFHS status:** NFHS-6 (2023-24) is released and reports under-five stunting at
+  29.3%; retain the round and do not silently merge NFHS-5 values.
 - ⚠️ No GS-II Mains question in the audited 2024-2025 papers directly names NSAP, SECC
   or convergence; treat the probable questions below as anticipated framing.
 
@@ -202,6 +201,29 @@ substitutes for the others.
 - ⚠️ **Mains (15 marks):** "Administrative coverage does not guarantee capability
   improvement." Discuss with reference to India's nutrition and health schemes.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+The **2019 GS-II** awareness/involvement and **2023 GS-II** discriminatory-welfare
+demands are owned here, superseding `advanced/17`.
+
+- **Exclusion:** stale SECC, documents, authentication and mobility require grievance,
+  assisted access and updating.
+- **Aadhaar:** *Puttaswamy* requires legality, purpose, proportionality and safeguards;
+  verification must not become denial of the entitlement.
+- **Convergence:** Aspirational Districts illustrates indicator-led district convergence;
+  ranking can also favour measurable outputs/data gaming.
+- **Outcome learning:** administrative data plus NFHS, PLFS, learning surveys and social
+  audit; separate coverage, quality, intermediate outcome, capability and distribution.
+- **Participation:** awareness and community monitoring aid uptake/correction; consultation
+  without decision power can be tokenistic.
+
+**10 marks:** specific failure plus 2-3 examples. **15 marks:** targeting, delivery,
+participation, convergence, outcomes and grievance. **20 marks:** universalism/targeting,
+privacy, federalism, capacity, local institutions and distributional impact.
+
+> **Reasoned verdict:** Scheme success is equitable capability gain plus correction when
+> design or data excludes the intended citizen.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md`.
@@ -217,3 +239,26 @@ substitutes for the others.
   delivery machinery.
 - ✅ `Governance/basic/15_Monitoring-Evaluation-and-Outcomes.md` — DMEO, OOMF,
   output-vs-outcome distinction.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2019, 2023
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-II | 18 | Welfare schemes for vulnerable sections and awareness and involvement | Discuss · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 17 | Development and welfare schemes for the vulnerable as discriminatory | Do you agree and give reasons · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Welfare schemes for vulnerable sections and awareness and involvement
+- Development and welfare schemes for the vulnerable as discriminatory
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

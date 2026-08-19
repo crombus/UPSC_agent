@@ -176,4 +176,48 @@ Four-school Vedānta mokṣa                                :: Viśiṣṭādvai
 Aurobindo's “life divine”                                :: Supramental transformation as evolutionary possibility/tendency, not automatic attainment by every individual.
 ```
 
+## DECK 8 — REPAIRED CORE MODULES (added 15 August 2026)
+```
+Dianoia vs noēsis — what separates them?         :: Direction of argument + use of images: maths reasons DOWN from unexamined hypotheses using images; dialectic reasons UP to an unhypothetical principle using none — not difficulty.
+Two things the Cave adds to the Line              :: Periagōgē (conversion of the whole soul) and the katabasis (the return, and the Socrates allusion) — the political conclusion.
+Categories vs Metaphysics Z — the safe line       :: Different questions: Categories asks WHICH things are substances (the individual); Z asks what SUBSTANCE-HOOD is (form/essence, sought at Z.17 as a cause).
+Z.13's sting                                      :: "No universal is a substance" — yet form is a substance and looks universal; name the individual-form (Frede–Patzig) or universal-form (Owen) reading.
+Kant's schema — what is it?                       :: A transcendental time-determination: the third thing homogeneous with both category and intuition, which lets a pure concept apply to appearances.
+Protocol-sentence debate — the two sides          :: Schlick: an incorrigible observation base. Neurath: every statement is revisable (the boat rebuilt at sea) → verification loses its bedrock from inside the Circle.
+Ayer's revised criterion                          :: Directly vs indirectly verifiable — and the standing objection that the principle is itself neither analytic nor verifiable.
+Rule-following regress                            :: No interpretation fixes a rule, since each interpretation itself needs interpreting; the regress ends in trained practice, not a further mental item.
+Kripke's reading — the caution                    :: Kripke presents it as Wittgenstein's argument "as it struck him"; it is a sceptical paradox plus a community solution, and many readers deny Wittgenstein endorses either.
+Noesis vs noema                                   :: The act vs its correlated intended-sense; a hallucination is still intentional because intentionality needs an object-SENSE, not a real object.
+Why does Kierkegaard use pseudonyms?              :: Indirect communication: existential truth must be appropriated by the reader, not received as a finished Hegelian system — which is why "truth is subjectivity" is not relativism.
+Gavagai — the step that blocks the escape         :: The linguist cannot ask "is this the same gavagai?" — that question presupposes a translation of the identity predicate and the apparatus of individuation.
+Indeterminacy — ignorance or ontology?            :: Ontology: there is no fact of the matter, not merely no way to tell. Chomsky objects it is mere underdetermination; Quine replies meaning was never more than behavioural disposition.
+Jayarāśi Bhaṭṭa — how to use him                  :: As the Cārvāka LIMIT-CASE only: he attacks perception too, so he cannot be used to state the school's "perception alone is pramāṇa" epistemology.
+Naya vs saptabhaṅgī                               :: Naya = the epistemic apparatus of valid partial standpoints; saptabhaṅgī = its sevenfold LINGUISTIC expression.
+Buddhist pramāṇas — how many, and why?            :: Two — perception (of svalakṣaṇa, kalpanāpoḍha) and inference (of the constructed sāmānyalakṣaṇa); the two objects are of different kinds, so the two instruments are irreducible.
+Apoha                                             :: Generality by EXCLUSION — "cow" = not-non-cow; universals are constructions on causal convergence, not real jātis.
+Arthakriyākāritva                                 :: Capacity for effective action — the Buddhist criterion of the real.
+Pramāṇa and pramāṇaphala                          :: Dignāga: instrument and result are not two ultimately distinct things.
+Samprajñāta vs asamprajñāta samādhi               :: With object-content and conceptual support vs no vṛtti at all — but latent saṃskāra REMAINS, which is why asamprajñāta is not kaivalya.
+What exhausts the saṃskāra residue?                :: Dharmamegha samādhi; then karma ceases to accumulate and kaivalya follows.
+Apūrva                                            :: Mīmāṃsā's unseen potency linking ritual act to later fruit — the mechanism that makes a non-theistic ritual metaphysics work.
+Bhāvanā-vāda vs niyoga-vāda                       :: Bhāṭṭa: productive force (śābdī + ārthī) aimed at a desired fruit. Prābhākara: the injunction binds as such — duty for duty's sake.
+Abhihitānvaya vs anvitābhidhāna                   :: Bhāṭṭa: words denote first, then meanings connect. Prābhākara: words denote only AS connected.
+Non-domination — whose, and why not just liberty? :: Pettit; a benevolent master still dominates, so freedom requires absence of VULNERABILITY to arbitrary power, not merely absence of interference.
+Political obligation — the four families           :: Consent · fair play · natural duty of justice · associative membership; consent is the weakest for the born citizen.
+Civil disobedience — the four marks                :: Public, non-violent, conscientious, and accepting the legal consequence — which is why it presupposes obligation rather than denying it.
+Hohfeld's four incidents                          :: Claim · liberty · power · immunity — only the claim-right strictly correlates with a duty.
+Recognition vs redistribution                     :: Taylor: misrecognition injures identity. Fraser: status is bivalent with distribution. Honneth: recognition is the deeper category.
+Communicative punishment — whose, what?           :: Duff; punishment addresses the offender as a citizen, communicating deserved censure and inviting repentance — hard treatment focuses the address.
+Reintegrative shaming                             :: Braithwaite; shame the ACT while sustaining the bond — disintegrative stigma expels the offender toward criminal subcultures.
+Degrowth's target                                 :: Productivism itself, not merely the distribution of growth; growth is neither proof nor a sufficient condition of progress.
+Care ethics — the risk to name                    :: Gilligan's "different voice" can re-naturalise women's servitude, so care is best read as a corrective INSIDE justice reasoning.
+Skeptical theism — what does it attack?           :: The noseeum INFERENCE ("I see no reason" → "there is none"), via CORNEA. It is a DEFENCE, not a theodicy — and its cost is conceded moral opacity.
+Balancing off vs defeat                           :: Adams; outweighing an evil in a total sum is not the same as defeating it WITHIN the sufferer's own life — goodness must be goodness TO the person.
+Properly basic belief                             :: Reformed epistemology; belief in God can be non-inferential yet not groundless, and remains defeasible by defeaters.
+Stace vs Zaehner — do not merge                   :: Stace: TWO types + a common core reached by subtracting interpretation. Zaehner: THREE types, NO common core.
+Modified divine command — the split               :: Adams; value is grounded in God's NATURE, obligation is generated by God's COMMAND — that split is what answers Euthyphro.
+Religious naturalism vs fictionalism              :: Naturalism relocates ultimacy inside nature and still asserts; non-realism/fictionalism retains the practice while declining the assertion.
+```
+
 > 🔑 **Drill method:** shuffle a deck, target 90% recall before moving decks; re-test failed cards next day (D1). Owner files remain controlling where a card compresses a disputed interpretation.
+> ⚠️ **Deck 8 rule:** these cards cover material that is now **Core**, not optional enrichment. If a Deck 8 card fails, return to the owner file — never to `_advanced`.

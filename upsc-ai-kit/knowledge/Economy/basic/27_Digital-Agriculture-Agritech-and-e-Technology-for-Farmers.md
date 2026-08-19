@@ -471,6 +471,146 @@ R  Reform / institutional requirement
 - ✅ `../../Science-and-Technology/basic/02_Satellites-NavIC-GAGAN-and-Applications.md`.
 - ✅ `../../Science-and-Technology/basic/16_Nanotechnology-and-Applications.md`.
 - ✅ `../../Science-and-Technology/basic/19_Drones-UAVs-and-Robotics-Policy.md`.
+
+## 15. Evidence bank: claim → named evidence → significance → limitation/status-caution
+
+This bank makes the file's evidence architecture explicit and selectable for any unfamiliar
+10/15/20-mark demand. Each unit reuses material already taught above; nothing here is a new,
+unsourced fact except the declared-demand unit at §15.6.
+
+**15.1 Claim: India's digital-agriculture push is institutionally anchored, not an ad hoc app.**
+- **Named evidence:** Union Cabinet approval of the Digital Agriculture Mission, September
+  2024, outlay Rs 2,817 crore (central share Rs 1,940 crore), built on the AgriStack and
+  Krishi-DSS pillars (§4.1).
+- **Significance:** Converts a "which scheme?" recall question into a "how is digital
+  agriculture governed?" analytical answer — institutional scale plus architecture.
+- **Limitation/status-caution:** An approved outlay is a sanctioned ceiling, not certified
+  expenditure or outcome; state-wise rollout pace should be verified against the latest
+  Economic Survey/Budget documents before being cited as "achieved."
+
+**15.2 Claim: AgriStack is federated Centre-state infrastructure, not one central database.**
+- **Named evidence:** Farmer Registry, geo-referenced village maps and Digital Crop
+  Survey/Crop Sown Registry, developed jointly with states (§4.2).
+- **Significance:** Directly answers "digital public infrastructure" framing questions and
+  rebuts the common "central surveillance database" mischaracterisation.
+- **Limitation/status-caution:** Land-linked registries can still exclude tenants,
+  sharecroppers and women cultivators unless assisted enrolment and correction exist —
+  federated design does not by itself resolve exclusion risk.
+
+**15.3 Claim: e-NAM proves that a digital market needs physical complements to function.**
+- **Named evidence:** e-NAM, operated by SFAC under the Ministry of Agriculture and Farmers
+  Welfare, requires assaying, aggregation, logistics, payment and dispute-resolution
+  complements to complete a transaction (§4.4).
+- **Significance:** Standard evidence unit for the 2023 GS-III "e-technology in production
+  and marketing" demand; shows the digital-plus-physical hybrid model.
+- **Limitation/status-caution:** Digital discovery does not abolish state APMC frameworks or
+  guarantee quality/logistics; documented price-realisation gains vary by state and mandi.
+
+**15.4 Claim: Drone-as-a-service spreads fixed technology cost across smallholders.**
+- **Named evidence:** Namo Drone Didi's approved design (2023-24 to 2025-26) targeting
+  selected women SHGs for drone-based agricultural services (§4.5).
+- **Significance:** Jointly answers the "shared-service versus universal ownership"
+  economics point and the women's-inclusion dimension in one evidence unit.
+- **Limitation/status-caution:** Viability depends on local demand aggregation,
+  battery/spares logistics and safety compliance; the scheme's approved window (2023-24 to
+  2025-26) should be re-checked for continuation before citing as ongoing.
+
+**15.5 Claim: Remote sensing/GIS supplies a signal, not automatic ground truth.**
+- **Named evidence:** Acreage, drought and crop-health estimation via satellites/GIS, subject
+  to cloud cover, resolution and revisit-frequency limits (§5A).
+- **Significance:** Core Prelims/Mains distinction (signal versus cause; GIS versus GNSS)
+  tested repeatedly and usable in any "limitations of technology" demand.
+- **Limitation/status-caution:** Interpretation error is structural, not transitional; any
+  policy use for eligibility or insurance still needs field verification and an appeal route.
+
+**15.6 Claim: The WEF "100 Million Farmers" platform is a declared PYQ demand distinct from
+India's domestic digital-agriculture architecture, and must be covered with source caution.**
+- **Named evidence:** The World Economic Forum's "100 Million Farmers" initiative is
+  officially described as a multistakeholder platform accelerating the transition to
+  net-zero (carbon), nature-positive food and water systems while increasing farmer
+  resilience, aiming to support 100 million farmers by 2030 through blended finance and
+  regenerative/climate-smart practice adoption (this is the description tested at 2024
+  Prelims GS-I Q26; the paper's distractor options wrongly described it as an organic-animal-
+  husbandry alliance, a blockchain fertiliser-trading platform, and an FPO/global-market-access
+  platform).
+- **Significance:** Closes a routed demand this owner must support without inventing detail;
+  clarifies that "100 Million Farmers" is not any Indian government scheme name.
+- **Limitation/status-caution:** It is a WEF/private-sector-coalition initiative (partners
+  such as Deloitte are cited in secondary reporting), not a Government of India programme.
+  If a question implies Indian participation, that link should be verified separately rather
+  than assumed; this file's scope remains India's domestic digital-agriculture architecture,
+  and the platform is recorded here only to satisfy the routed demand.
+
+**15.7 Claim: Nanotechnology inputs still require the full economic-diffusion chain, not a
+scale claim alone.**
+- **Named evidence:** Nano-fertiliser/formulation, nanosensor and targeted-delivery
+  applications (2025 GS-III demand) require biosafety/toxicity assessment, quality
+  regulation, farmer training and outcome monitoring before any welfare claim is valid (§5F).
+- **Significance:** Closes the 2025 GS-III nanotechnology demand using the same
+  evidence-architecture logic used for every other technology family in this file.
+- **Limitation/status-caution:** "Nano" does not automatically mean safe, cheaper or more
+  effective; field-level net-income evidence remains thinner than laboratory efficacy claims.
+
+## 16. Core limitations and trade-offs
+
+| # | Trade-off | Why it is genuinely double-edged |
+|---|---|---|
+| 1 | **Verification versus inclusion** | Land/document-based registries (AgriStack) speed up eligibility verification but risk excluding the tenants, sharecroppers and women cultivators most in need of support. |
+| 2 | **Farm-level efficiency versus basin-level resource use** | Precision/drip irrigation saves water per plot, but the saving can be offset by area or crop expansion at the basin/aquifer scale (rebound effect). |
+| 3 | **Disintermediation versus new gatekeeping** | Digital platforms can bypass old exploitative middlemen, but may create new data-broker or vendor-lock-in dependence if interoperability and portability are weak. |
+| 4 | **Speed versus verified accuracy** | AI/remote-sensing advisories are fast and cheap to scale, but carry model and ground-truth uncertainty; an unverified model error propagates to more farmers faster than a single extension worker's mistake. |
+| 5 | **Individual ownership versus shared service** | Owning equipment (drones, machinery) maximises control but is unaffordable for most small holdings; shared/service models solve affordability but add dependence on provider quality, scheduling and solvency. |
+| 6 | **Richer data versus privacy exposure** | More farmer/crop data improves targeting, credit and insurance design, but wider collection raises consent, security and onward-sharing risk — "more data is better" conflicts with data-minimisation good practice. |
+
+## 17. Answer architecture (10/15/20-mark support)
+
+### 17.1 Directive decoder
+
+| Directive word | What the examiner is actually asking for |
+|---|---|
+| Describe / Explain | Lay out the mechanism/chain factually with moderate linkage to effect. |
+| Discuss | Present multiple dimensions (benefit + constraint + institutional) with reasoned connections. |
+| Examine / Analyse | Dissect components, causes and consequences with critical depth, not a list. |
+| Evaluate / Assess / Critically discuss | Requires an explicit reasoned verdict/judgement — not merely describing both sides. |
+| Comment | A concise judgement with brief justification. |
+
+### 17.2 Evidence selection by mark value
+
+- **10 marks/150 words:** 2 evidence units from §15 + 1 limitation from §16 + a one-line verdict.
+- **15 marks/250 words:** 3-4 evidence units + 2 limitations/trade-offs + one counter-evidence
+  point + a reasoned verdict.
+- **20 marks/250-300 words:** 4-5 evidence units spanning production, market and institutional
+  stages + 3 limitations/trade-offs + counter-evidence + a fuller reasoned verdict with way
+  forward.
+
+### 17.3 Counter-evidence integration rule
+
+Never state a benefit from §15 without immediately pairing it with its own limitation/
+status-caution, or with one trade-off from §16. This single habit converts a descriptive
+answer into an evaluative one.
+
+### 17.4 10/15/20 mark-scaling template
+
+```text
+10 MARKS (150 words)
+Intro (1 line) + 2 evidence units (4 lines) + 1 limitation (2 lines) + verdict (1 line)
+
+15 MARKS (250 words)
+Intro (1 line) + 3-4 evidence units (6 lines) + 2 limitations/trade-offs (3 lines)
++ 1 counter-evidence point (2 lines) + verdict (2 lines)
+
+20 MARKS (250-300 words)
+Intro (1 line) + 4-5 evidence units across stages (8 lines) + 3 limitations/trade-offs
+(5 lines) + counter-evidence (2 lines) + reasoned verdict + way forward (3 lines)
+```
+
+### 17.5 Reasoned-verdict template
+
+> "[Technology/programme] improves farmer welfare through [named channel], evidenced by
+> [named evidence unit from §15]; however, [limitation/trade-off from §16] means the net
+> effect depends on [stated complement/condition]. Therefore [reasoned judgement], subject to
+> [one forward-looking qualification]."
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 
@@ -497,20 +637,22 @@ R  Reform / institutional requirement
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2020
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2020, 2023
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 2
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2020 | Prelims GS-I | 42 | Drone applications in agriculture volcano and wildlife research | Objective question; official key unavailable locally | Cross-routed to technical and farmer-economy owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | GS-III | 3 | e-Technology helping farmers in agricultural production and marketing | Explain · 10 marks · 150 words | Routed to dedicated e-technology owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Drone applications in agriculture volcano and wildlife research
+- e-Technology helping farmers in agricultural production and marketing
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

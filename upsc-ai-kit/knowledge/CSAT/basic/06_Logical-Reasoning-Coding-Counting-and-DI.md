@@ -32,15 +32,16 @@ tree, a direction map - so the constraints do the work.
 
 | Sub-skill | Method |
 |---|---|
-| ✅ **Linear/circular arrangement** | Draw seats; place the most-constrained clue first. |
+| ✅ **Linear/circular arrangement** | Draw seats; for a circle, fix one person as an anchor before placing the strongest clue. |
 | ✅ **Blood relations** | Build a small family tree; resolve "only son/daughter" carefully. |
 | ✅ **Directions** | Sketch N-E-S-W; each right turn is +90 clockwise. |
 | ✅ **Coding-decoding** | Find the rule (shift, reverse, position-value) from the given pair, then apply. |
 | ✅ **Series** | Test differences, ratios, and known sequences (squares, triangular, primes). |
+| ✅ **Visual/figure reasoning** | Copy the figure; count by size/layer and track invariants (sides, regions, shading, orientation). For cube views, faces visible together are adjacent. |
 | ✅ **Conditional/statement logic** | Rewrite every "if ... then ..." as `A -> B`; chain implications and use contrapositives; never the converse. |
 | ✅ **Counting** | Permutations `P(n,r) = n!/(n-r)!`; combinations `C(n,r) = n!/(r!(n-r)!)`. |
-| ✅ **Probability** | `P = favourable / total` for equally likely outcomes. |
-| ✅ **Data interpretation** | Read exactly what is asked; compute totals, differences, and percentages from the table. |
+| ✅ **Probability** | `P = favourable / total` for equally likely outcomes; for a sequence, multiply **conditional** probabilities. |
+| ✅ **Data interpretation** | Read the title, unit, scale and both axes before computing totals, differences, percentages, shares or weighted values. |
 | ✅ **Interpersonal/communication scenario** | Apply the dedicated [Topic 07](07_Interpersonal-and-Communication-Skills.md) decision engine; this file retains only the reasoning interface. |
 | ✅ **Communication matching** | Distinguish relationship type, tool purpose, channel, feedback, and barrier from the function described. |
 | ✅ **Questionnaire design** | Use clear, neutral, single-issue questions; avoid leading, double-barrelled, ambiguous, or intrusive wording. |
@@ -69,8 +70,19 @@ evidence that every CSAT paper uses the same count.
   `C(n,r) = C(n, n-r)`.*
 - ✅ `P(n,r) = C(n,r) x r!` - permutations are combinations **times** the orderings of the chosen set.
 - ✅ Arrangements of a word with repeats: `total! / (product of repeat factorials)`.
+- ✅ Circular arrangements of `n` distinct people, where rotations are identical, are `(n-1)!`: fix one
+  person, then arrange the rest. Do **not** divide by 2 unless mirror images are explicitly identical.
+- ✅ For an `r`-digit numeral using a digit set containing zero, choose the first digit from the
+  non-zero digits; then fill the remaining positions under the repetition rule.
 - ✅ `P(not E) = 1 - P(E)`; for equally likely outcomes, `P = favourable/total`. *Every probability
   lies in `[0, 1]`; an answer outside that range is a signal you counted the sample space wrongly.*
+- ✅ Sequential probability uses `P(A and B) = P(A) x P(B | A)`. Without replacement, the second
+  fraction changes; multiplication itself remains valid because it uses the **conditional** fraction.
+- ✅ `|A ∪ B| = |A| + |B| - |A ∩ B|`. For a total of `N`, overlap lies between
+  `max(0, |A|+|B|-N)` and `min(|A|,|B|)`.
+- ✅ In a worst-case “minimum draws to ensure” question, first take as many as possible without the
+  target, then add one. For a grid/figure count, list each size exactly once rather than scanning
+  visually.
 - ✅ Handshakes or pairwise segments among n objects/points = `C(n,2)`; these are distinct infinite
   lines only when no three points are collinear.
 
@@ -165,6 +177,62 @@ contrapositive of (i)).
 **Answer: (i) and (iii) only.** *(Verified: the only valid moves from a one-way implication are
 chaining and contraposition.)*
 
+### 📝 Example H (circular arrangement)
+
+**Five friends sit around a round table. In how many distinct seatings can they sit if rotations are
+the same?** Fix A at the top to remove rotational duplicates. Arrange B, C, D and E in the remaining
+seats: `4! =` **24**. A reflection is a different seating unless the stem says clockwise and
+anticlockwise arrangements are identical. *(Verified.)*
+
+### 📝 Example I (coding verification)
+
+**If CAT becomes DBU and DOG becomes EPH, code SUN.** Each corresponding letter shifts `+1`:
+`C->D, A->B, T->U` **and** `D->E, O->P, G->H`; the second pair verifies that the rule is not guessed
+from one letter. Hence `S->T, U->V, N->O`: **TVO**.
+
+### 📝 Example J (Venn/set range)
+
+In a group of 50, 28 study A and 24 study B. The number studying both can be from
+`max(0, 28+24-50) = 2` to `min(28,24) = 24`. Thus **2 to 24** are possible; choosing a single
+overlap without further data is unjustified. *(Verified.)*
+
+### 📝 Example K (constrained number with zero)
+
+How many **five-digit** numbers can be made from 0, 1, 2, 3 and 4 without repetition? The first
+place cannot be zero: 4 choices. The remaining four digits can be arranged in `4!` ways. Total:
+`4 x 4! =` **96**. *(Verified.)*
+
+### 📝 Example L (conditional probability without replacement)
+
+A bag has 3 red and 2 blue balls. Given that the first draw is red and it is not replaced, the
+probability that the second is red is `2/4 =` **1/2**. The probability of two reds in order is
+`(3/5) x (2/4) = 3/10`: fractions do multiply, but the second is the **conditional** fraction.
+
+### 📝 Example M (table, pie and dual-axis DI)
+
+| Quarter | Output (thousand units) | Revenue (₹ lakh) | Product P share of revenue |
+|---|---:|---:|---:|
+| Q1 | 40 | 80 | 25% |
+| Q2 | 50 | 90 | 30% |
+
+- **Bar/table reading:** output rose by `10 thousand`, not 10%.
+- **Dual-axis reading:** revenue per thousand units in Q2 is `90/50 = 1.8 lakh`, while Q1 is `2`;
+  output rose but revenue per unit fell.
+- **Pie/share reading:** P's Q2 revenue is `30% of 90 = 27 lakh`; its share rose by **5 percentage
+  points**, or `5/25 = 20%` relatively. Name the requested measure before choosing an option.
+
+### 📝 Example N (visual/cube and worst-case execution)
+
+**Cube views.** A labelled cube shows faces `(1,2,3)` at one corner and `(1,4,5)` at another. Faces
+2, 3, 4 and 5 are each adjacent to 1, so the remaining face **6 is opposite 1**. Do not infer an
+opposite pair from a single view.
+
+**Grid count.** A `3 x 3` square grid has `9` unit squares, `4` squares of side 2, and `1` of side
+3: **14** total. Count by size, not by visual impression.
+
+**Worst case.** From red and blue balls, how many draws ensure three of one colour? Take 2 red and
+2 blue without reaching three, then one more: **5**.
+
 ## 6. Must-Know facts
 
 - ✅ Order matters -> permutation; order does not -> combination; `P(n,r) = C(n,r) x r!`.
@@ -174,7 +242,11 @@ chaining and contraposition.)*
 - ✅ For a valid syllogism, a conclusion must hold in **every** arrangement, not just one.
 - ✅ From `A -> B` you may use the **contrapositive**; you may never use the **converse**.
 - ✅ "Possible" only needs one favourable case; "necessary/certain" needs every case.
-- ✅ In DI, watch whether the question wants an **absolute** number or a **percentage/ratio**.
+- ✅ In DI, label **level / change / percentage change / share / percentage-point change / weighted
+  rate**; a graph axis may use a different unit or scale from the other axis.
+- ✅ In circular seating, fix one anchor; in a digit-number count, forbid leading zero before using a
+  permutation.
+- ✅ Venn overlap has lower and upper bounds; do not invent an intersection from two set sizes.
 - ✅ In interpersonal items, prefer listening, clarity, fairness, legality, proportionality, and
   confirmation over humiliation, threats, concealment, or impulsive escalation.
 
@@ -187,6 +259,14 @@ chaining and contraposition.)*
   **at least one** consistent case makes it fail.
 - ❌ In directions, treating a left turn as +90 clockwise. -> Left is anticlockwise.
 - ❌ In DI, computing a total when a **change** or **percentage** was asked. -> Re-read the stem.
+- ❌ Treating a circular rotation as a new arrangement. -> Fix one anchor before counting.
+- ❌ Allowing zero in the first place of a multi-digit number. -> Choose the first digit separately.
+- ❌ Multiplying unchanged fractions without replacement. -> Multiply sequential **conditional**
+  fractions, or use combinations for an unordered draw.
+- ❌ Reading a graph without its axis unit/scale or treating points as percent change. -> Label both
+  axes and the base before computing.
+- ❌ Declaring cube faces opposite from one view or double-counting a grid figure. -> Use all views
+  and count by size/layer.
 - ❌ Accepting a syllogism conclusion true in one diagram only. -> It must hold in **all**.
 - ❌ Treating a communication problem as a character flaw before clarifying facts. -> Diagnose the
   information/process failure first.
@@ -212,6 +292,16 @@ chaining and contraposition.)*
    two blue balls, and what is the **probability** of drawing two red ones?
 7. Given "if a file is approved, then it is signed" and "this file is not signed", what follows about
    approval?
+8. Six people sit around a round table. How many distinct arrangements are there if rotations are the
+   same?
+9. How many four-digit numbers can be formed from 0, 1, 2 and 3 without repetition?
+10. Of 60 students, 35 take Hindi and 28 take Tamil. What is the least possible number taking both?
+11. A bag has 4 white and 6 black balls. Two are drawn in sequence without replacement. Find
+    `P(white then white)`.
+12. A pie slice rises from 20% to 25%. State the percentage-point change and the relative percent
+    change.
+13. How many squares are present in a `2 x 2` square grid?
+14. From three colours of balls, how many draws ensure two balls of one colour?
 
 **Answers.**
 
@@ -226,11 +316,36 @@ chaining and contraposition.)*
 7. **The file was not approved.** That is the **contrapositive** of "approved -> signed", which is
    always valid. It does **not** follow that a signed file was approved - that would be the converse.
    *(Verified as a logical form.)*
+8. **120.** Fix one person and arrange the other five: `5! = 120`.
+9. **18.** First digit: 3 non-zero choices; then `3!` arrangements: `3 x 6`.
+10. **3.** The lower overlap bound is `35 + 28 - 60 = 3`.
+11. **2/15.** `P(W₁) x P(W₂|W₁) = (4/10) x (3/9)`.
+12. **+5 percentage points; +25% relative change.** The second uses `5/20`, not `5/25`.
+13. **5.** Four unit squares plus one large square.
+14. **4.** In the worst case, take one of each colour first, then one more.
 
-## 10. Study links
+## 10. Timed transfer, diagnosis and retry gate
 
-- ✅ [Advanced companion](../advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) - multi-constraint
-  seating, syllogisms, dice probability, and inclusion-exclusion counting.
+Attempt items 8-12 plus one seating/coding/DI question of your choice in **nine minutes**. For each
+miss, diagnose before checking the answer:
+
+| Symptom | Code | Repair |
+|---|---|---|
+| Rotation or reflection double-counted | C/A | Anchor one seat; read whether reflections are distinct. |
+| Leading zero or repetition rule lost | R | Write allowed first-place digits before any factorial. |
+| One Venn intersection assumed | C | Write lower and upper overlap bounds. |
+| Without-replacement fraction unchanged | A | Write `P(B|A)` explicitly. |
+| Graph/share measure confused | R/X | Label level, share, points, and relative change before arithmetic. |
+
+**Retry gate:** after a 20-minute gap, score **6/6 in nine minutes** with no C/R error. Otherwise
+redo the matching worked example and retry fresh values. The Advanced companion is optional speed
+depth, not a prerequisite for this gate.
+
+## 11. Study links
+
+- ✅ [Optional Advanced companion](../advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md) -
+  multi-constraint seating, harder syllogisms, and speed depth. Core above independently covers the
+  required arrangement, Venn, coding, counting, probability, and DI mechanisms.
 - ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - decision-making shares the sufficiency
   mindset.
 - ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - counting rests on factor and number sense.

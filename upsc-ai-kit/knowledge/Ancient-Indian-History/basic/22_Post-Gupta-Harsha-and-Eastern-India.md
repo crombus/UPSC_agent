@@ -83,6 +83,41 @@
 - ⚠️ Xuanzang shows how travel accounts help reconstruct political, religious and educational history.
 - ⚠️ Eastern India's transition illustrates how land grants, religion and agrarian expansion integrated frontier regions.
 
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The post-Gupta age was not a simple collapse after empire; it was a phase of regional state formation in which Harsha was important but not all-encompassing." |
+| Critically examine | "Harsha's reign restored temporary political prominence in north India, yet the deeper trend was eastern and regional reconfiguration through grants, monastic centres and local dynasties." |
+| Compare / evaluate | "The best answer treats post-Gupta India as a transition from imperial concentration to regionally articulated power." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** Gupta fragmentation -> Harsha's rise -> regional/eastern consolidation -> broader transition
+- **For comparison Qs:** Harsha's polity vs Gupta empire; western-Gangetic core vs eastern growth
+- **For evaluate Qs:** Harsha's importance -> limits -> qualified verdict on regionalisation
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Harsha mattered, but he was not a pan-Indian sovereign | ✅ Bana and Xuanzang on Thaneswar/Kannauj-centred rule | Gives named evidence for political reach | Courtly and pilgrim accounts magnify elite worlds |
+| 2 | Regionalisation deepened after Gupta decline | ✅ Gauda, Kamarupa and eastern political formations | Broadens the frame beyond one ruler | Chronology extends beyond Harsha himself |
+| 3 | Grants and institutions reordered power | ✅ Copper plates, monasteries and centres such as Nalanda | Links politics, religion and landed power | Surviving evidence is heavily elite |
+| 4 | Eastern India became historically central | ✅ Riverine/coastal links and monastery-urban nodes | Prevents Kannauj-only narratives | Evidence density varies across subregions |
+
+### Counterpoint and balance
+
+- Avoid calling the post-Gupta age merely a dark age of decline.
+- Avoid overstating Harsha's unification; his influence was large but bounded.
+
+### Verdict framing
+
+- Conclude that the age is best described as one of regional restructuring with Harsha as a major but not solitary pivot.
+- This allows the answer to combine ruler-history with structural transition.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

@@ -34,11 +34,14 @@ trace pass-through through markets, banks, borrowers and expectations.
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Repo rate** | Policy rate for collateralised liquidity from RBI under the operating framework. |
-| ✅ **Standing Deposit Facility** | Uncollateralised facility for RBI to absorb liquidity. |
+| ✅ **Standing Deposit Facility (SDF)** | Uncollateralised facility for RBI to absorb liquidity. |
 | ✅ **MSF** | Overnight emergency borrowing window for scheduled commercial banks against eligible securities. |
 | ✅ **CRR** | Share of net demand and time liabilities maintained as cash with RBI. |
 | ✅ **OMO** | Outright RBI purchase or sale of government securities to alter durable liquidity. |
 | ✅ **Operating target** | The WACR is the rate RBI seeks to keep aligned with the policy corridor through liquidity operations. |
+| ✅ **Legal tender money** | Money that must be accepted in settlement of obligations within the legal framework; Indian currency notes are RBI liabilities. |
+| ✅ **Money multiplier** | The process through which reserve money supports broader money creation through banking; lower leakages and lower reserve impounding raise it. |
+| ✅ **Sterilisation** | RBI action to offset the domestic-liquidity effect of forex intervention, often through OMOs or other absorption operations. |
 
 ## 3. Topic mechanism
 
@@ -54,37 +57,56 @@ trace pass-through through markets, banks, borrowers and expectations.
 
 ## 4. Institutions and policy tools
 
-- ✅ **Monetary Policy Committee:** decides the policy repo rate under the inflation-
-  targeting framework.
-- ✅ **RBI Financial Markets Operations Department:** conducts liquidity operations and
-  market interventions.
-- ✅ **Scheduled commercial banks and primary dealers:** transmit policy through money,
-  credit and government-securities markets.
-- ✅ **Government cash-management system:** changes autonomous liquidity through taxes,
-  spending and balances with RBI.
+- ✅ **Monetary Policy Committee:** six members - RBI Governor, Deputy Governor in charge of monetary policy, one RBI-nominated officer and three Central Government appointed external members - decide the policy repo rate.
+- ✅ **Flexible inflation-targeting framework:** the MPC uses headline CPI as the nominal anchor with a target of **4% +/- 2** while keeping growth in mind.
+- ✅ **RBI Governor and Central Board:** RBI is a statutory body under the RBI Act, and the Governor is appointed by the Central Government; RBI is not a constitutional body.
+- ✅ **RBI Financial Markets Operations Department:** conducts liquidity operations, OMOs and market interventions.
+- ✅ **Scheduled commercial banks and primary dealers:** transmit policy through money, credit and government-securities markets.
+- ✅ **RBI's reserve-management and payment-system functions:** smooth excessive rupee volatility and supervise payment-system rules, including data-storage directions for regulated entities.
 
 ## 5. Indian applications and examples
 
-- ⚠️ An OMO purchase injects durable liquidity by buying government securities outright.
-- ⚠️ A repo supplies collateralised liquidity for a defined tenor; it is not an outright
-  security purchase.
-- ⚠️ A bank with expensive deposits or weak capital may cut lending rates less than the
-  repo-rate reduction.
+- ⚠️ **Claim:** Monetary policy in India is now institutionally rule-bound rather than purely discretionary. **Named evidence/example:** The 2016 adoption of the Monetary Policy Committee and flexible inflation-targeting framework made headline CPI and the repo decision central to policy communication. **Why it supports the claim:** It shows that repo changes are anchored to an explicit inflation objective and collective decision-making structure, not just the Governor's personal view. **Limit/status caution:** A rule-based framework still faces supply shocks and fiscal-external pressures that cannot be neutralised by interest-rate policy alone.
+
+- ⚠️ **Claim:** Liquidity management is distinct from the policy-rate signal. **Named evidence/example:** The introduction of the Standing Deposit Facility in 2022 gave RBI a collateral-free absorption tool for surplus liquidity. **Why it supports the claim:** It demonstrates that RBI can align overnight rates with the corridor even when the core issue is excess liquidity, not a fresh repo-rate change. **Limit/status caution:** Absorbing liquidity stabilises the operating target, but it does not automatically ensure full transmission to every borrower or depositor.
+
+- ⚠️ **Claim:** Expansionary monetary policy works through several instruments, not repo cuts alone. **Named evidence/example:** During the pandemic phase, RBI used repo reductions along with CRR easing, OMOs and targeted longer-term liquidity operations such as TLTRO-style support. **Why it supports the claim:** It shows how rate action, durable liquidity and market backstops are combined when the financial system faces stress. **Limit/status caution:** Abundant liquidity cannot by itself force credit uptake when firms are risk-averse and banks are cautious.
+
+- ⚠️ **Claim:** Transmission in India is real but uneven and lagged. **Named evidence/example:** Repo hikes in the post-pandemic inflation phase fed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and older loan books. **Why it supports the claim:** It gives a concrete exam example of how policy moves through bank pricing, borrowers' EMIs and eventually demand conditions. **Limit/status caution:** Funding mix, small-savings competition, term deposits, bank balance-sheet strength and credit risk mean pass-through is never perfectly uniform.
+
+- ⚠️ **Claim:** RBI must often balance domestic monetary goals with external-stability pressures. **Named evidence/example:** During periods of rupee depreciation pressure, RBI uses foreign-exchange intervention to smooth volatility and may sterilise the resulting liquidity effects through OMOs or absorption tools. **Why it supports the claim:** It proves that exchange-rate management, liquidity management and inflation control are linked in practice even under a flexible exchange-rate regime. **Limit/status caution:** RBI smooths excessive volatility; it does not promise a fixed rupee-dollar level and cannot permanently override global shocks.
+
+- ⚠️ **Claim:** Open-market operations influence more than short-term cash conditions. **Named evidence/example:** RBI's OMO purchases or sales in the government-securities market alter durable liquidity and can affect yields across maturities. **Why it supports the claim:** This helps answers distinguish repo from OMO and explain sterilisation, yield management and transmission to broader financial conditions. **Limit/status caution:** OMO effects depend on market expectations, government borrowing conditions and the broader stance; they are not identical to a policy-rate change.
+
+## 6A. Limitations and trade-offs
+
+- ⚠️ Tight policy helps inflation credibility and the rupee, but excessive tightening can weaken investment, housing demand, MSME cash flow and employment.
+- ⚠️ Surplus liquidity can support growth and market functioning, yet if it persists during inflationary conditions it can blunt disinflation and fuel asset-price risk.
+- ⚠️ Repo changes transmit faster to some floating-rate loans than to all deposit rates or legacy loans, so the burden of adjustment is uneven across sectors and households.
+- ⚠️ CRR is a broad and powerful liquidity tool, but it is blunt; using it repeatedly can strain bank intermediation more than corridor or market operations.
+- ⚠️ Forex intervention can smooth excessive volatility, but large or repeated intervention raises sterilisation and reserve-management trade-offs.
+- ⚠️ Monetary policy can restrain demand and expectations, but it cannot directly solve food shortages, imported energy shocks or structural banking weakness.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ RBI is the monetary authority, currency issuer, banker to government and banks, reserve
-  manager and financial regulator within statutory mandates.
-- ✅ The Monetary Policy Committee decides the policy repo rate; liquidity operations support
-  transmission around the operating target.
+- ✅ RBI is a statutory body under the RBI Act, not a constitutional authority; the Governor is appointed by the Central Government.
+- ✅ RBI is the monetary authority, currency issuer, banker to government and banks, reserve manager, payment-system regulator and lender of last resort within statutory mandates.
+- ✅ The Monetary Policy Committee has six members - three from RBI and three external members appointed by the Central Government - and it decides the policy repo rate.
+- ✅ India's flexible inflation-targeting framework uses headline CPI with a target of **4%** and a tolerance band of **+/- 2**.
 - ✅ WACR is the operating target of the liquidity-management framework.
-- ✅ The policy target, tolerance band, repo rate and operating target are distinct; use the
-  applicable RBI/Central Government notification for a current target value.
+- ✅ The policy target, tolerance band, repo rate and operating target are distinct.
+- ✅ Repo signals the stance; SDF absorbs surplus liquidity without collateral; MSF provides overnight backstop borrowing; CRR impounds bank resources; OMO changes durable liquidity through outright bond trades.
 - ✅ A repo injects liquidity against collateral; reverse-style absorption removes liquidity.
-- ✅ CRR changes affect lendable resources broadly, while OMO changes durable system
-  liquidity through securities transactions.
-- ✅ Monetary policy works with lags and cannot directly remove sector-specific supply
-  bottlenecks.
+- ✅ CRR changes affect lendable resources broadly, while OMO changes durable system liquidity through securities transactions.
+- ✅ Legal tender money must be accepted within the legal framework in settlement of obligations; currency notes issued are liabilities on RBI's balance sheet.
+- ✅ Money multiplier generally rises when reserve impounding and currency leakage fall and when banks are willing to lend rather than hold excess reserves.
+- ✅ Expansionary monetary policy can include repo cuts, CRR cuts, OMO purchases and longer-term liquidity operations.
+- ✅ Sterilisation means offsetting the domestic-liquidity effect of forex intervention, often through OMO or absorption operations.
+- ✅ Measures against rupee depreciation can include RBI forex sales to smooth volatility, monetary tightening to support rupee returns and wider policy steps affecting the external balance.
+- ✅ RBI income can arise from interest on government securities and foreign-currency assets, returns from liquidity operations or lending to banks, and fees or commissions from its banking and market functions.
+- ✅ RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a payments-regulation measure, not a general data policy.
+- ✅ Frequently tested committee-institution pairs: Hilton-Young Commission with colonial currency and central-banking reform; Narasimham Committees with Government of India banking-sector reform; Tarapore Committee with RBI on capital-account convertibility.
+- ✅ Monetary policy works with lags and cannot directly remove sector-specific supply bottlenecks.
 
 ## 7. UPSC traps
 
@@ -136,6 +158,26 @@ stalled project or recapitalise a weak borrower.
   announces a repo-rate decision.
 - ⚠️ **Mains (15 marks):** Evaluate the obstacles to complete monetary-policy transmission
   in India.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+### Directive decoder
+
+- ⚠️ **Discuss:** define the instrument set first, then trace how repo and liquidity operations move through markets, banks and inflation.
+- ⚠️ **Examine / Analyse:** separate institutional design (MPC, target, corridor) from transmission (WACR, bank rates, credit, expectations) and from external management (forex intervention, sterilisation).
+- ⚠️ **Critically examine / Evaluate:** after explaining the toolkit, add why transmission is incomplete, why supply shocks limit monetary power and what growth costs tighter policy can create.
+- ⚠️ **Compare / Justify:** for prompts such as *repo vs OMO* or *liquidity management vs monetary stance*, compare objective, instrument mechanics, transmission channel and time horizon, then justify why both are needed together.
+
+**Evidence chain:** 2016 MPC/FIT framework + 2022 SDF introduction + pandemic repo/CRR/OMO/TLTRO easing + post-pandemic transmission into EBLR and deposits + rupee-volatility intervention with sterilisation + OMO yield/liquidity example.
+
+**Counter-evidence:** Use **6A. Limitations and trade-offs** to show that inflation control, liquidity support, exchange-rate smoothing and growth support cannot all be maximised simultaneously.
+
+**10/15/20-mark scaling:**
+- ⚠️ **10 marks:** thesis + 2-3 named tools/examples + one transmission or limitation point.
+- ⚠️ **15 marks:** thesis + 4-5 evidence units covering MPC design, liquidity tools and transmission + one counter-dimension.
+- ⚠️ **20 marks:** thesis + 5-6 evidence units spanning institutional design, monetary stance, liquidity, external stability and limits of pass-through + balanced conclusion from **6A**.
+
+**Reasoned verdict template:** ⚠️ *In India, sound monetary policy is not merely about moving the repo rate; it is about combining a credible CPI target, flexible liquidity operations and realistic transmission management while accepting that growth, inflation and external stability pull policy in different directions.*
 
 ## 12. Study links
 

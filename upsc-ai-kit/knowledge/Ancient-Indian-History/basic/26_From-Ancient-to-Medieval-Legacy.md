@@ -81,6 +81,31 @@
 
 ## 7. Mains angles
 
+### Transition counter-model (promoted from Advanced — paper-essential)
+
+⚠️ **For mains answers on the ancient-to-medieval transition, present BOTH models:**
+
+| Model | Core argument | Key scholar | Use in answer |
+|---|---|---|---|
+| ✅ Feudal-tendency model | Land grants → landed intermediaries → decline of trade/towns → feudal tendencies | R.S. Sharma | Foundation model; shows material-structural change |
+| ✅ Regional state-formation model | Land grants were ONE strategy; period saw proliferation of states, not just collapse | B.D. Chattopadhyaya, Hermann Kulke | Corrective; prevents "dark age" framing |
+| ⚠️ Balanced synthesis (Upinder Singh) | Land grants matter, but within wider social-cultural processes including agrarian expansion, caste formation, cult appropriation and regional identity | Upinder Singh | Best UPSC frame: acknowledge both decline elements AND creative processes |
+
+**Chattopadhyaya's larger processes (promoted from Advanced):**
+- Expansion of state society into new areas
+- Transformation of tribes into peasants
+- Caste formation and proliferation
+- Cult appropriation and temple-centred social organisation
+- Growth of regional languages and literatures
+
+### Thesis options
+
+| Directive | Thesis |
+|---|---|
+| Discuss | The ancient-to-medieval transition was not a simple "dark age" but a complex restructuring: agrarian expansion through land grants, regional state formation, caste proliferation and new cultural identities coexisted with urban contraction in some zones. |
+| Critically examine | R.S. Sharma's feudal-tendency thesis captured important changes (land intermediaries, decline of coins/trade) but was corrected by Chattopadhyaya and Kulke who showed that the period also generated new states, temples, literatures and identities at regional and sub-regional levels. |
+| Compare | Comparing Sharma's feudal model with Chattopadhyaya's regional-process model reveals that the transition was simultaneously centralisation (at regional level) and decentralisation (from pan-Indian perspective) — a paradox resolved by seeing multiple scales of political organisation. |
+
 - ⚠️ The ancient-to-medieval transition is best framed as agrarian restructuring plus regionalisation.
 - ⚠️ Land grants created both cultural integration and rural hierarchy.
 - ⚠️ India's legacy should be evaluated through contributions and constraints: knowledge systems, art and science alongside social stratification.
@@ -92,3 +117,37 @@
 | ✅ RS Sharma | Land grants, feudal tendencies, decline of trade/towns |
 | ⚠️ Later historians | Emphasise regional state formation and local dynamism |
 | ⚠️ Balanced answer | Transition = uneven, multi-causal, regionally varied |
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The ancient-to-medieval transition in India was a long regional restructuring rather than a sudden civilisational break." |
+| Critically examine | "Land grants, localisation and temple-centred redistribution did transform society, but continuity in agrarian life, caste and Sanskritic idiom remained strong." |
+| Compare / evaluate | "The most defensible answer balances Sharma's feudal tendencies with later models stressing proliferation of regional states and differentiated trajectories." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** imperial weakening -> land grants/local power -> regional cultures -> medieval formations
+- **For comparison Qs:** continuity vs change; Sharma model vs later regional-state model
+- **For evaluate Qs:** what changed -> what persisted -> qualified transition verdict
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Regionalisation was a structural trend | ✅ Land grants, feudatories and local power-centres | Explains decline of large imperial concentration | Timing differed sharply across regions |
+| 2 | Continuities remained substantial | ✅ Agrarian base, caste and Sanskritic-political idioms | Prevents abrupt period rupture | Continuity can mask deep redistribution of power |
+| 3 | Historiography itself is part of the answer | ⚠️ Sharma's feudal thesis vs later regional-state interpretations | Shows debate-awareness and balance | No single model fits all regions equally |
+
+### Counterpoint and balance
+
+- Avoid using decline as the only language of transition.
+- Avoid writing continuity so strongly that medieval transformation disappears.
+
+### Verdict framing
+
+- Conclude that the transition was neither collapse nor continuity alone, but reorganisation through region, land and culture.
+- A high-mark ending must carry both continuity and transformation together.

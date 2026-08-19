@@ -236,7 +236,7 @@ constitutional secularism as a legal-political doctrine.
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2020 | GS-I | 19 | Customs and traditions suppressing reason and obscurantism | Do you agree · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-I | 19 | Cryptocurrency and its effect on global and Indian society | What is and How does it affect · 15 marks · 250 words | Cross-cutting; instrument owner and society effect both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-I | 19 | Cryptocurrency and its effect on global and Indian society | What is and How does it affect · 15 marks · 250 words | Cross-cutting; Economy instrument route terminates in answer-complete Core; society-effect owner retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-I | 20 | Continuity of traditional social values amid social change | Enumerate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support

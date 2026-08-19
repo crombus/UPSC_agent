@@ -49,6 +49,7 @@
 
 > **Study link:** ✅ Akbar's legacy → `basic/15`–`basic/17`; Deccan/Malik Ambar → `basic/18`.
 > **Study link:** ⚠️ Leads into **Shah Jahan** (`basic/21`); chronology → `00_Master-Chronology.md`.
+> **Study link:** ✅ Persian-source methodology for the *Tuzuk-i Jahangiri* and court memoirs → asic/07_Sultanate-Administration-Economy-Society.md §9.
 
 ## 4. Must-Know Facts (Prelims)
 
@@ -76,3 +77,37 @@
 - ⚠️ Assess the political role of **Nur Jahan** — genuine power-holder or faction-leader? Use the "junta" debate.
 - ⚠️ "Jahangir consolidated rather than expanded." Evaluate his reign's achievements (Mewar, Deccan, English contact).
 - ⚠️ Discuss the significance of **Sir Thomas Roe's embassy** for later Indo-European commercial relations.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Assess Nur Jahan | "Nur Jahan exercised exceptional influence — farmans in her name, coins, active faction management — but Satish Chandra rejects the fixed 'junta' theory: her active political role dates mainly from 1622 during Jahangir's illness, not from 1611." |
+| Evaluate Jahangir's reign | "Jahangir consolidated Akbar's inheritance — settling Mewar (1615), maintaining sulh-i-kul, and managing English trade demands — without dramatic expansion; this continuity was itself an achievement given the empire's size." |
+| Discuss European contact | "Roe's embassy (1615–19) secured English trading rights at Surat but on Mughal terms: no territorial concessions, no sovereignty — demonstrating that Europeans were supplicants, not partners, in early 17th-century India." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Nur Jahan: farmans and coins in her name; active mainly post-1622 | Exceptional female authority within Mughal system | Introduces gender-power analysis without overstating permanent structural change | Chandra disputes the fixed junta theory; alliances shifted |
+| 2 | ✅ Mewar settlement (1615): Rana Amar Singh accepted suzerainty on honourable terms | Longest Rajput conflict resolved diplomatically | Shows that Mughal integration could succeed through generosity, not force alone | Mewar retained pride and partial autonomy; full integration was debatable |
+| 3 | ✅ Thomas Roe (1615–19): 1618 farman confirmed English position at Surat | European trade operated within Mughal framework | Establishes hierarchy: Mughals as sovereign host, English as supplicant merchants | The farman was limited; it did not establish factory rights across India |
+| 4 | ✅ Khusrau's revolt (1606) linked to Guru Arjan's execution | Early-reign instability had religious and political dimensions | Connects Mughal succession disputes with Sikh history | Exact nature of Arjan's involvement is debated |
+| 5 | ✅ Mahabat Khan's coup (1626): noble seized the emperor briefly | Even a strong empire could face noble coups when the ruler weakened | Shows institutional fragility behind apparent stability | Coup was brief and reversed; does not prove systemic failure |
+
+### 8.3 Counterpoints
+
+- ⚠️ "Consolidation without expansion" can also be read as imperial stagnation relative to rising regional challenges (Malik Ambar, Deccan).
+- ⚠️ Nur Jahan's role should not be romanticised or demonised; it was structurally anomalous but politically rational.
+- ⚠️ European contact under Jahangir was trivial in its immediate political impact; its significance is retrospective.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Nur Jahan + Mewar (2–3 units); conclude: continuity-based governance with exceptional female agency.
+- **15-mark:** Add Roe + Khusrau + Mahabat Khan; conclude: stability was maintained but challenges were accumulating.
+- **20-mark:** Full 5-unit + historiographical note on "junta" debate (Beni Prasad vs Chandra); graded verdict on whether Jahangir's reign was "weak" or "stable."

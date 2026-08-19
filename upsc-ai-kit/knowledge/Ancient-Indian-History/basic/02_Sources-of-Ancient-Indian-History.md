@@ -79,6 +79,42 @@
 - ⚠️ "Ancient Indian history is a multi-source reconstruction." Discuss the limits of texts and value of archaeology.
 - ⚠️ Explain why inscriptions and coins changed the reliability of early historic chronology.
 - ⚠️ Use sources as evidence categories in every GS-I answer: text, archaeology, inscription, coin, foreign account.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Ancient Indian history becomes reliable only when literary, archaeological, epigraphic and numismatic sources are cross-read rather than used in isolation." |
+| Critically examine | "Inscriptions and coins improved chronology and state history, but they did not remove elite bias or the need for interpretation." |
+| Compare / evaluate | "Text-led and archaeology-led reconstruction answer different questions, and UPSC rewards answers that show how they complement each other." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** source-type -> what it reveals -> what it cannot reveal -> why cross-verification matters
+- **For comparison Qs:** literary vs archaeological vs inscriptional vs foreign-account evidence in a parallel grid
+- **For evaluate Qs:** reliability gain -> surviving bias -> qualified conclusion on method
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Cross-checking is the key method | ✅ Texts, inscriptions, coins and excavated sites are all core source-types | Prevents one-source answers and strengthens chronology | No source is self-explanatory |
+| 2 | Epigraphy stabilised early historic reconstruction | ✅ Ashokan edicts | Provides dated ruler-linked evidence | Royal inscriptions remain an elite voice |
+| 3 | Archaeology recovers silent zones of the past | ✅ Stratigraphy, settlement plans and artefacts | Reveals technology and material life | Cannot directly state belief or intention |
+| 4 | Outsider testimony can corroborate | ✅ Megasthenes/Xuanzang-style accounts | Adds external observation and comparison | Selective observation and outsider bias remain |
+
+### Counterpoint and balance
+
+- Material evidence is not automatically objective; it also needs context and dating.
+- Literary sources remain indispensable because archaeology cannot recover ideology by itself.
+
+### Verdict framing
+
+- End by showing that source fitness depends on the question asked.
+- Do not call any one source universally best; argue for corroboration.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

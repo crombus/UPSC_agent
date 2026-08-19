@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Schools of Vedanta : Brahman; Isvara; Atman; Jiva; Jagat; Maya; Avida; Adhyasa; Moksa; Aprthaksiddhi; Pancavidhabheda.
 
-**Evidence key:** ✅ canonical · ⚠️ analytical synthesis · ❓ contested
+**Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis · ❓ contested/uncertain
 
 **Placement:** This file covers Syllabus Clause 19, the densest and highest-scoring Vedānta cluster in Paper I Indian Philosophy. It must always be read comparatively across **Advaita (Śaṃkara)**, **Viśiṣṭādvaita (Rāmānuja)**, and **Dvaita (Madhva)**, while linking out to cross-school themes in causation, self, pramāṇa, liberation and critiques of metaphysics. See [00_Master-Framework](../../00_Master-Framework.md).
 
@@ -118,6 +118,91 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ⚠️ Most Vedānta questions reduce to a hidden dispute over the nature of Brahman.
 - ⚠️ Once Brahman is interpreted as **nirguṇa**, the world becomes appearance, Īśvara becomes lower truth, mokṣa becomes identity, and scripture becomes ultimately sublatable.
 - ⚠️ Once Brahman is interpreted as **saguṇa**, world and devotion become philosophically central.
+
+---
+
+## 1A. ADVAITA'S SIX PRAMĀṆAS AND THE PRIMACY OF ŚABDA
+
+### 1A.1 The six pramāṇas accepted by Advaita
+
+**Statement.** ✅ Advaita accepts **six pramāṇas** (means of valid knowledge), following the Bhāṭṭa Mīmāṃsā list: **pratyakṣa**, **anumāna**, **upamāna**, **śabda**, **arthāpatti** and **anupalabdhi**.
+
+| Pramāṇa | One-line definition | Standard example |
+|---|---|---|
+| ✅ **Pratyakṣa** (perception) | ✅ Immediate cognition generated through sense-contact with a present object. | ✅ “This pot is blue.” |
+| ✅ **Anumāna** (inference) | ✅ Knowledge of an unperceived fact through a perceived mark (**liṅga**) and universal concomitance (**vyāpti**). | ✅ Smoke on a hill leads to the inference of fire. |
+| ✅ **Upamāna** (comparison) | ✅ Knowledge of an unknown object through similarity to a previously described known object. | ✅ A **gavaya** is recognised in the forest by comparison with a cow. |
+| ✅ **Śabda** (verbal testimony) | ✅ Valid cognition from reliable words, supremely the **apauruṣeya** (authorless) Veda in matters beyond ordinary means. | ✅ The Upaniṣadic mahāvākya teaches Ātman-Brahman identity. |
+| ✅ **Arthāpatti** (postulation) | ✅ Presumption of an unseen fact required to reconcile otherwise incompatible known facts. | ✅ Devadatta is fat and does not eat by day, so he must eat at night. |
+| ✅ **Anupalabdhi** (non-apprehension) | ✅ Cognition of absence through non-perception under proper conditions. | ✅ “There is no pot on the floor” when the floor is fit for perception. |
+
+### 1A.2 Two-level qualification: pramāṇas work only in vyavahāra
+
+**Presupposition.** ✅ Every pramāṇa presupposes the triad **pramātṛ–pramāṇa–prameya** (knower, means of knowledge, known object).
+
+**Argument.** ✅ Since that triad presupposes duality, all six pramāṇas function only at the **vyāvahārika** (empirical) level.
+
+**Argument.** ✅ At the **pāramārthika** (ultimate) level there is no second object to be known, no separate knower and no instrument of knowing; in Brahman-realisation the whole pramāṇa-apparatus is sublated.
+
+**Reflexive puzzle.** ⚠️ If all pramāṇas are only empirically valid, how can **śabda** establish the pāramārthika truth of Brahman?
+
+**Reply.** ✅ Advaita treats śruti as a pramāṇa that removes avidyā and then loses operative relevance along with the ignorance it removed.
+
+**Example.** ⚠️ Classical Advaita teaching often compares śruti to the **kata-ka** or clearing-nut that settles the muddy water and then settles with the mud, or to a stick used to stir a funeral pyre that is itself consumed in the fire.
+
+**Conclusion.** ⚠️ Śabda is not an eternal second reality alongside Brahman; it is the empirical ladder by which the non-empirical truth is recognised.
+
+### 1A.3 Why śabda is primary for Brahman
+
+**Argument.** ✅ **Pratyakṣa** cannot reach Brahman because Brahman is **nirguṇa**, non-objectifiable and not an object of the senses.
+
+**Argument.** ✅ **Anumāna** requires a perceived **vyāpti** and a present **liṅga**, but there is no perceived instance of Brahman and no mark uniquely co-present with Brahman.
+
+**Argument.** ⚠️ Any inference to Brahman would turn Brahman into an inferred **prameya** (object of knowledge), contradicting Advaita's insistence that Brahman is the non-objective ground of all knowing.
+
+**Statement.** ✅ Hence Śaṃkara treats Brahman as **śāstra-yoni** / **śāstra-pramāṇaka** — known through scripture, not through sense or inference as an ordinary object.
+
+**Argument.** ✅ **Upamāna**, **arthāpatti** and **anupalabdhi** are derivative or empirically parasitic; they cannot independently reveal Brahman because comparison, postulation and absence-cognition all operate within the empirical field of knowable objects.
+
+**Conclusion.** ✅ Only **śabda**, specifically the mahāvākyas **tat tvam asi**, **ahaṃ brahmāsmi**, **prajñānaṃ brahma** and **ayam ātmā brahma**, can generate the liberating knowledge that removes avidyā.
+
+### 1A.4 How the mahāvākya works: semantic machinery
+
+**Statement.** ✅ The Advaita reading of **tat tvam asi** depends on **jahad-ajahal-lakṣaṇā** (abandoning-and-retaining implication), also called **bhāga-tyāga-lakṣaṇā** (part-abandoning implication).
+
+**Distinction.** ✅ **Vācyārtha** (direct meaning) of **tat** is omniscient, remote Īśvara; **vācyārtha** of **tvam** is the limited, immediate jīva.
+
+**Argument.** ✅ These direct meanings conflict: omniscience, lordship and cosmic causality cannot literally be identical with finitude, ignorance and empirical agency.
+
+**Reply.** ✅ Advaita abandons the incompatible portions of the direct meanings and retains the common **lakṣyārtha** (implied meaning): pure consciousness.
+
+**Example.** ✅ The canonical parallel is **so'yaṃ devadattaḥ** — “this is that Devadatta”; the “then-and-there” and “now-and-here” conditions are dropped, while the identical person is retained.
+
+**Conclusion.** ⚠️ The mahāvākya therefore does not assert crude identity between empirical jīva and empirical Īśvara; it discloses identity of their consciousness-essence.
+
+### 1A.5 Fault-line with Pūrva-Mīmāṃsā
+
+**Statement.** ✅ For Pūrva-Mīmāṃsā, Vedic authority is primarily authority for **vidhi** (injunction) concerning **dharma**; statements of accomplished fact are normally read as subordinate to ritual action.
+
+**Statement.** ✅ For Advaita, the Upaniṣadic statements about **siddha-vastu** (accomplished reality) are independently and supremely valid.
+
+**Distinction.** ✅ **Jñāna** is not **kārya** (an action to be performed); it is cognition of what is already the case.
+
+**Objection.** ✅ The Mīmāṃsaka asks: if the Veda is for action, how can a sentence that merely states identity produce liberation?
+
+**Reply.** ✅ The Advaitin answers: bondage is ignorance, not absence of ritual action; therefore the direct remover must be knowledge, and the mahāvākya has precisely that knowledge-producing function.
+
+**Conclusion.** ⚠️ The Pūrva-/Uttara-Mīmāṃsā fault-line is therefore not merely ritual versus metaphysics, but whether Vedic sentences can independently reveal a non-actional accomplished reality.
+
+### 1A.6 Three-school contrast on pramāṇa
+
+| School | Count | Accepted pramāṇas | Philosophical consequence |
+|---|---:|---|---|
+| ✅ **Advaita** | ✅ 6 | ✅ Pratyakṣa, anumāna, upamāna, śabda, arthāpatti, anupalabdhi. | ⚠️ A wide epistemology is retained empirically, but śabda alone reveals non-objective Brahman and then is sublated. |
+| ✅ **Viśiṣṭādvaita** | ✅ 3 | ✅ Pratyakṣa, anumāna, śabda; Rāmānuja reduces the rest to these. | ✅ Rāmānuja **accepts** nirvikalpaka pratyakṣa, but reinterprets it: it is the *first* cognition of an individual already apprehended with its structure/configuration (**saṃsthāna**), while savikalpaka is the second and later cognition that additionally recognises the generic character as recurrent. ✅ What he rejects is any cognition of a **wholly qualifierless (nirviśeṣa) object** — *sarvaṃ vijñānaṃ saviśeṣam*, all cognition is of the qualified — so nirguṇa Brahman is not establishable. |
+| ✅ **Dvaita** | ✅ 3 | ✅ Pratyakṣa, anumāna, āgama; Madhva gives special weight to scriptural āgama, the **kevala-pramāṇa / anu-pramāṇa** distinction, and the **sākṣin** (witness) as ultimate internal validator of cognition. | ❓ Madhva's **kevala-pramāṇa / anu-pramāṇa** distinction is commonly read as separating the independent ultimate standard of truth from dependent instruments; expositions vary, but the consequence is realist theism rather than Advaitic sublation. |
+
+**Comparative insight.** ⚠️ A school's pramāṇa-count tracks its metaphysics: Advaita needs śabda to disclose the non-objective absolute, Viśiṣṭādvaita's qualified realism requires all cognition to be qualified, and Dvaita's realist theism requires pramāṇas to secure real difference rather than dissolve it.
 
 ---
 
@@ -407,58 +492,109 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ✅ If avidyā belongs to Brahman, Brahman appears compromised by ignorance.
 - ⚠️ This is the **āśraya/viṣaya** problem and forms a major polemical opening for Viśiṣṭādvaita critiques.
 
-### 6.5 Rāmānuja's seven objections against māyāvāda
+### 6.5 Rāmānuja's seven objections against māyāvāda: sapta-anupapatti
 
 - ✅ Asked in **2025**.
-- ✅ This list is conventionally called the **sapta-vidhā-anupapatti**.
-- ❓ Exact names and sequence may vary slightly across commentators on the *Śrī-bhāṣya*; the following is the standard exam list.
+- ✅ The list is conventionally called **sapta-anupapatti** or **sapta-vidhā-anupapatti** — the seven alleged incoherences of Advaita's avidyā/māyā doctrine.
+- ❓ Exact names and sequence vary slightly across presentations, but the following exam-list is standard.
 
-#### 1. Āśrayānupapatti
+#### 6.5.1 Āśraya-anupapatti — untenable locus of avidyā
 
-- ✅ The locus of avidyā is inexplicable.
-- ✅ It cannot coherently belong either to jīva or to Brahman.
+**Objection.** ✅ If avidyā resides in Brahman, Brahman ceases to be pure consciousness; if avidyā resides in the jīva, the jīva itself is already a product of avidyā, producing **anyonyāśraya** (mutual dependence).
 
-#### 2. Tirodhānānupapatti
+**Reply.** ✅ The Vivaraṇa school holds Brahman to be the **āśraya** (locus/support) of avidyā without being modified or tainted by it, because avidyā is not a real modification of Brahman.
 
-- ✅ Concealment of self-luminous Brahman is unintelligible.
-- ✅ What is pure light cannot be covered by ignorance in any literal sense.
+**Reply.** ✅ The Bhāmatī school locates avidyā in the jīva and invokes the beginninglessness (**anāditva**) of the jīva-avidyā relation; a beginningless seed-sprout dependence is not automatically a vicious regress.
 
-#### 3. Svarūpānupapatti
+**Residual force.** ⚠️ This remains one of the hardest objections because the two Advaita sub-schools offer different strategies, which gives Rāmānuja a strong dialectical opening.
 
-- ✅ The very nature of avidyā is self-contradictory if it is said to be neither real nor unreal.
+#### 6.5.2 Tirodhāna-anupapatti — untenable concealment
 
-#### 4. Anirvacanīyatānupapatti
+**Objection.** ✅ Brahman is **svayaṃ-prakāśa** (self-luminous); to conceal it would be to destroy its very nature as light/consciousness.
 
-- ✅ To call something indescribable is itself to describe it.
-- ⚠️ Therefore the category appears self-refuting.
+**Reply.** ✅ Advaita says avidyā does not conceal Brahman-as-such; it conceals Brahman as it is recognised by the jīva, and the concealment is itself only apparent from the standpoint of ignorance.
 
-#### 5. Pramāṇānupapatti
+**Example.** ⚠️ A cloud does not extinguish the sun; it obstructs the viewer's vision.
 
-- ✅ No valid means of knowledge can establish an entity that is neither real nor unreal.
-- ⚠️ A pramāṇa must terminate in something intelligibly cognisable.
+**Residual force.** ⚠️ The analogy helps against literal concealment, but the critic can still ask how any obstruction can arise when Brahman alone is ultimately real.
 
-#### 6. Nivartakānupapatti
+#### 6.5.3 Svarūpa-anupapatti — untenable nature of avidyā
 
-- ✅ What exactly removes avidyā?
-- ✅ If knowledge removes it, then one must explain how knowledge arises in a knower already compromised by ignorance.
+**Objection.** ✅ Avidyā's nature is incoherent if it is said to be neither real nor unreal.
 
-#### 7. Nivṛttyānupapatti
+**Reply.** ✅ Advaita invokes the sat/asat/anirvacanīya trichotomy: avidyā is experienced, so it is not asat; it is sublated by knowledge, so it is not sat; it is therefore anirvacanīya.
 
-- ✅ The cessation of avidyā is equally unintelligible.
-- ✅ If avidyā is neither real nor unreal, its disappearance too becomes conceptually unstable.
+**Residual force.** ⚠️ The reply works only if sublatability is accepted as a criterion of degrees of reality; realist schools deny precisely that presupposition.
 
-### 6.6 Philosophical force of the seven objections
+#### 6.5.4 Anirvacanīyatva-anupapatti — indefinability is untenable
+
+**Objection.** ✅ Whatever exists must be either real or unreal; a third category is only a refusal to answer.
+
+**Reply.** ✅ Advaita replies that the contrast is not between being and non-being as bare contradictories, but between ontological grades measured by sublatability.
+
+**Reply.** ⚠️ The Advaitin may add a tu quoque: Rāmānuja's **acit** as real-but-dependent body of Brahman also occupies a status that is neither independent absolutism nor non-being.
+
+**Residual force.** ⚠️ Rāmānuja and Madhva regard this reply as verbal unless the third category is independently grounded by pramāṇa.
+
+#### 6.5.5 Pramāṇa-anupapatti — no means of knowing avidyā
+
+**Objection.** ✅ Perception gives an object, not a positive ignorance; inference lacks a valid mark; scripture does not straightforwardly teach a positive indefinable entity.
+
+**Reply.** ✅ Advaita appeals to **sākṣi-pratyakṣa** (witness-perception): the immediate experience “I do not know” presents ignorance positively, not merely as blank absence.
+
+**Reply.** ✅ Advaita also invokes **arthāpatti**: if knowledge removes bondage, there must be something positive to remove.
+
+**Reply.** ✅ Advaita further cites śruti's teaching of māyā/avidyā as a dependent power responsible for appearance.
+
+**Residual force.** ⚠️ Rāmānuja replies that “I do not know” reports an absence of knowledge, not a mysterious positive entity; hence this remains, with āśraya, among the most dangerous objections.
+
+#### 6.5.6 Nivartaka-anupapatti — untenable remover of avidyā
+
+**Objection.** ✅ What kind of knowledge can remove avidyā? Nirguṇa knowledge seems contentless, while determinate knowledge seems itself within avidyā.
+
+**Reply.** ✅ Later Advaita explains the remover as **akhaṇḍākāra-vṛtti** (undivided-form mental mode), the mahāvākya-generated cognition that takes Brahman as its content by sublating all limiting adjuncts.
+
+**Reply.** ⚠️ Knowledge does not act on avidyā as one object acts on another; the dawning of true cognition sublates the false cognition, after which the mental mode itself subsides like the stick consumed in the fire it stirs.
+
+**Residual force.** ⚠️ The answer is strong within Advaita's ladder-model of knowledge, but a critic may still ask how a mental mode within vyavahāra can terminate vyavahāra itself.
+
+#### 6.5.7 Nivṛtti-anupapatti — untenable cessation of avidyā
+
+**Objection.** ✅ If avidyā is real it cannot be removed; if unreal there is nothing to remove; and if removed, the ontological status of its cessation becomes obscure.
+
+**Reply.** ✅ Advaita says **nivṛtti** (cessation) is not a fifth entity produced after avidyā; it is simply Brahman remaining as it always was when superimposition is sublated.
+
+**Example.** ✅ Asking where avidyā went after knowledge is like asking where the snake went when the rope was recognised.
+
+**Residual force.** ⚠️ This is elegant if one accepts adhyāsa, but question-begging if the opponent rejects the rope-snake model for world-experience.
+
+### 6.6 Rāmānuja's positive alternative
+
+**Statement.** ✅ Rāmānuja replaces māyāvāda with **apṛthaksiddhi**: cit and acit are inseparable from Brahman yet really distinct as modes.
+
+**Statement.** ✅ The **śarīra-śarīrī-bhāva** (body-soul relation) is his model: the world and selves are Brahman's body, while Brahman is their indwelling controller.
+
+**Statement.** ✅ In error-theory, Rāmānuja defends **satkhyāti**: cognition is always of the real, and error is mistaking one real for another.
+
+**Example.** ✅ Because of **pañcīkaraṇa/trivṛtkaraṇa** (elemental intermixture), every object contains a portion of every element, so shell-silver illusion can be explained by a real silver-element in the shell being misapprehended.
+
+**Contrast.** ✅ Madhva's Dvaita offers a third route through **abhinava-anyathā-khyāti** and **pañcavidhabheda**; see §11 for the five real differences rather than duplicating them here.
+
+### 6.7 Philosophical force of the seven objections
 
 - ⚠️ Collectively, the seven objections target Advaita at three levels:
-  1. the **status** of avidyā,
-  2. the **possibility** of concealment and projection,
-  3. the **coherence** of liberation as removal of ignorance.
-- ⚠️ They are among the most fertile 10-marker and 15-marker materials in the entire Indian philosophy syllabus.
+  1. ✅ the **status** of avidyā,
+  2. ✅ the **possibility** of concealment and projection,
+  3. ✅ the **coherence** of liberation as removal of ignorance.
+- ⚠️ Advaita answers most convincingly where it can use the familiar logic of sublation, especially in **nivṛtti** and **tirodhāna**.
+- ⚠️ Advaita is most vulnerable on **āśraya** and **pramāṇa**, because the locus and proof of avidyā are not settled without accepting Advaita's own standpoint.
+- ⚠️ The seven are therefore not a mere list; they are a systematic attack on the explanatory cost of making the world anirvacanīya.
 
-### 6.7 Dvaita's position
+### 6.8 Dvaita's position
 
 - ✅ Dvaita does not accept māyā in the Advaita sense of ontological illusion.
 - ✅ The world is real, and ignorance is real ignorance, not cosmic appearance masking non-dual identity.
+- ⚠️ Madhva's critique is sharper than Rāmānuja's in one respect: it does not try to absorb plurality into qualified unity but makes real difference fundamental.
 
 ---
 
@@ -821,6 +957,37 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ⚠️ It is the epistemological miniature of Advaita metaphysics.
 - ⚠️ What shell-silver is to shell, the world is to Brahman.
 
+
+### 14.6 Presupposition-led defence of anirvacanīyatā
+
+**Presupposition.** ✅ **Sat**, **asat** and **anirvacanīya** are exhaustive and mutually exclusive ontological grades within Advaita's explanatory scheme.
+
+**Distinction.** ✅ **Sat** means never sublated (**trikālābādhita**); **asat** means never presented at all, like a hare's horn or square circle; **anirvacanīya** means presented in experience but subsequently sublated.
+
+**Argument.** ✅ Māyā and jagat fall into the third grade because they are experienced, so they are not asat, yet they are sublated by Brahman-knowledge, so they are not sat.
+
+**Presupposition.** ✅ **Bādha** (sublation) is the criterion of degrees of reality.
+
+**Argument.** ⚠️ Without bādha as criterion, Advaita's three-tier scheme — **pāramārthika**, **vyāvahārika**, **prātibhāsika** — collapses into either realism or nihilism.
+
+**Presupposition.** ✅ The experience of an object gives that object some positive status; therefore shell-silver must be something presented, not sheer nothing.
+
+**Argument.** ✅ This is why Advaita prefers anirvacanīya-khyāti over Buddhist **asat-khyāti**: the illusory silver appears, though it is later sublated.
+
+**Presupposition.** ✅ Avidyā is **bhāva-rūpa** (positive in form), not merely a privative absence of knowledge.
+
+**Argument.** ✅ If avidyā were only absence, it could not exercise the two functions of **āvaraṇa** (concealment) and **vikṣepa** (projection).
+
+**Objection.** ⚠️ “Indescribable as real or unreal” seems to violate the law of excluded middle, or to evade the issue by inventing a third box.
+
+**Reply.** ✅ Advaita replies that the trichotomy is not between being and non-being as bare contradictories, but between grades of sublatability.
+
+**Reply.** ⚠️ The claim is not that māyā lacks a determinate nature altogether; it is that māyā cannot be categorised under either of the two ultimate ontological heads, sat or asat.
+
+**Residual assessment.** ⚠️ Rāmānuja and Madhva regard this as a verbal manoeuvre unless the third grade is independently established.
+
+**Dialectical note.** ✅ Śrīharṣa's strategy in the *Khaṇḍanakhaṇḍakhādya* is dialectical rather than constructive: he refuses to supply a positive definition of the real and instead shows that the opponent's definitions of “real” fail.
+
 ---
 
 ## 15. LOGICAL CONSEQUENCES OF ADVAITA'S METAPHYSICAL ABSOLUTISM
@@ -1075,6 +1242,131 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 | 2025 | Q8(a) | 20 marks | Discuss the idea of Bimba-pratibimbavāda as presented in Vedānta philosophy along with its soteriological significance. |
 
 See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md).
+
+## 20A. PRESUPPOSITION LEDGER
+
+| Doctrine | Presupposition | What collapses if denied |
+|---|---|---|
+| ✅ **Nirguṇa Brahman** | ✅ Ultimate reality can be self-luminous and non-objectifiable without being blank non-being. | ⚠️ Advaita loses its pāramārthika anchor and becomes either qualified theism or emptiness. |
+| ✅ **Māyā/avidyā as bhāva-rūpa and anirvacanīya** | ✅ Ignorance must be positive enough to project but sublatable enough not to be real. | ⚠️ The world becomes either real pariṇāma or sheer non-being, both fatal to mithyātva. |
+| ✅ **Adhyāsa** | ✅ Empirical life rests on mutual superimposition of self and not-self. | ⚠️ Bondage becomes a real change in the self or only episodic error, not primordial misidentification. |
+| ✅ **Three levels of reality** | ✅ Sublation (**bādha**) grades reality into pāramārthika, vyāvahārika and prātibhāsika. | ⚠️ Advaita cannot preserve empirical validity while denying ultimate reality. |
+| ✅ **Vivartavāda** | ✅ The effect can depend on the cause without real transformation of the cause. | ⚠️ Brahman undergoes pariṇāma, compromising changelessness. |
+| ✅ **Jīva-Brahman identity: avaccheda route** | ✅ One consciousness can appear many through limiting adjuncts like pot-space (**ghaṭākāśa**). | ⚠️ Individuality becomes either real fragmentation or inexplicable appearance. |
+| ✅ **Jīva-Brahman identity: pratibimba route** | ✅ Consciousness can appear as reflected individuality while the bimba remains unaffected. | ⚠️ The dependence of jīva on Īśvara/Brahman loses explanatory imagery. |
+| ✅ **Primacy of śabda** | ✅ Non-objective Brahman can be revealed only by mahāvākya-testimony that sublates itself. | ⚠️ Brahman becomes either unknowable or reduced to a sensory/inferential object. |
+| ✅ **Jīvanmukti** | ✅ Liberation is removal of ignorance, not production of a post-mortem state. | ⚠️ Mokṣa becomes an event in time rather than recognition of what is always true. |
+| ✅ **Apṛthaksiddhi in Viśiṣṭādvaita** | ✅ Real difference can be inseparable from substantive unity. | ⚠️ Rāmānuja cannot avoid either Advaitic identity or Dvaitic plurality. |
+| ✅ **Pañcavidhabheda in Dvaita** | ✅ Difference is an eternal structure of reality, not ignorance-born appearance. | ⚠️ Madhva's bhakti-realism loses its ontological base. |
+| ❓ **Viśeṣa in Dvaita** | ❓ A unique differentiator can secure real distinctions without requiring a further difference ad infinitum. | ⚠️ Dvaita faces the regress problem of how entities and attributes are distinct. |
+
+---
+
+## 20B. PŪRVAPAKṢA–SIDDHĀNTA LEDGER
+
+| Objector | Objection | Advaita reply | Residual force ⚠️ |
+|---|---|---|---|
+| ✅ **Rāmānuja: āśraya** | ✅ Avidyā cannot reside in Brahman or jīva without impurity or circularity. | ✅ Vivaraṇa locates avidyā in Brahman as support without modification; Bhāmatī locates it in beginningless jīva-avidyā relation. | ⚠️ Two sub-school answers expose unresolved pressure. |
+| ✅ **Rāmānuja: tirodhāna** | ✅ Self-luminous Brahman cannot be concealed. | ✅ Concealment is apparent to the jīva, like cloud-cover relative to the viewer, not destruction of the sun. | ⚠️ The analogy assumes the standpoint it must justify. |
+| ✅ **Rāmānuja: svarūpa/anirvacanīya** | ✅ Neither-real-nor-unreal is incoherent. | ✅ Anirvacanīya names the grade of what is experienced yet sublated. | ⚠️ Convincing only if bādha is accepted as ontological criterion. |
+| ✅ **Rāmānuja: pramāṇa** | ✅ No valid means establishes positive avidyā. | ✅ Sākṣi-pratyakṣa, arthāpatti and śruti establish ignorance as more than absence. | ⚠️ Rāmānuja can reduce “I do not know” to absence of knowledge. |
+| ✅ **Rāmānuja: nivartaka/nivṛtti** | ✅ No coherent knowledge can remove avidyā; its cessation is obscure. | ✅ Akhaṇḍākāra-vṛtti sublates the false and then subsides; cessation is Brahman remaining, not a new entity. | ⚠️ Strong inside Advaita, weaker for external realists. |
+| ✅ **Rāmānuja: nirvikalpaka perception** | ✅ Rāmānuja does not deny nirvikalpaka perception; he redefines it as the first cognition of a **qualified individual** (grasped with its structure, minus recognition of the recurrent generic character). ✅ What he denies is cognition of a **wholly qualifierless (nirviśeṣa) object**, so nirguṇa Brahman cannot be known. | ✅ Advaita says Brahman is not objectified by perception but revealed by śabda as self-luminous consciousness. | ⚠️ This is a deep epistemological fault-line, not a minor semantic dispute. |
+| ✅ **Madhva: pañcavidhabheda** | ✅ Five differences are real and eternal, so identity is impossible. | ✅ Advaita makes difference vyāvahārika and sublatable by Brahman-knowledge. | ⚠️ Dvaita refuses the criterion of sublation, so debate becomes first-principial. |
+| ✅ **Madhva: illusion requires real perceiver** | ✅ Illusion cannot occur unless a real self, object and difference already exist. | ✅ Advaita grants empirical reality to perceiver and object while denying ultimate independence. | ⚠️ The reply risks appearing to borrow realism at the empirical level. |
+| ✅ **Madhva: sākṣin** | ✅ The witness validates real difference rather than dissolving it. | ✅ Advaita identifies sākṣī with non-dual consciousness, not a finite witness-substance. | ⚠️ Same term hides opposed metaphysics. |
+| ✅ **Bhāskara: bhedābheda** | ✅ If world is a real transformation of Brahman, māyā is unnecessary. | ✅ Advaita says real transformation compromises Brahman's changelessness. | ⚠️ Bhāskara presses the cost of making the world merely mithyā. |
+| ✅ **Nyāya: anyathā-khyāti** | ✅ Error is misapprehension of a real object elsewhere; anirvacanīya is unintelligible. | ✅ Shell-silver is cancelled at the locus, so it is not simply real silver misplaced. | ⚠️ Nyāya demands a clearer ontology of the illusory object. |
+| ✅ **Mīmāṃsā: Veda as injunction** | ✅ The Veda primarily enjoins dharma; mahāvākyas cannot produce non-actional liberation. | ✅ Advaita replies that Upaniṣads reveal siddha-vastu and knowledge removes ignorance directly. | ⚠️ This is the core Pūrva-/Uttara-Mīmāṃsā divide. |
+| ⚠️ **Buddhist: pracchanna-bauddha charge** | ⚠️ Advaita is accused of being crypto-Buddhism because it denies ultimate reality to the world. | ✅ Advaita replies that Brahman is positive self-luminous reality, unlike śūnyatā as absence of svabhāva, and that Advaita accepts śruti. | ⚠️ The similarity in world-negation remains a polemical pressure-point. |
+| ✅ **Sāṃkhya: prakṛti suffices** | ✅ Unconscious prakṛti explains the world through guṇa transformation without māyā. | ✅ Śaṃkara replies that the ultimate cause must be conscious and scripturally grounded as Brahman. | ⚠️ Sāṃkhya challenges Vedānta to justify the need for conscious absolute causality. |
+
+---
+
+## 20C. INTER-SCHOOL POSITIONING
+
+### 20C.1 Vedānta master comparison
+
+| School | Pramāṇas | Brahman / Īśvara | Jīva | World and khyāti | Causation | Means and nature of mokṣa | Jīvanmukti |
+|---|---|---|---|---|---|---|---|
+| ✅ **Advaita** | ✅ Six; śabda primary for Brahman. | ✅ Nirguṇa Brahman ultimate; Īśvara is māyā-upahita Brahman at vyavahāra. | ✅ Ultimately Brahman; empirically limited by avidyā through avaccheda/pratibimba/ābhāsa models. | ✅ Jagat is mithyā; error is anirvacanīya-khyāti. | ✅ Vivarta; Brahman is material basis without real change. | ✅ Jñāna removes avidyā; mokṣa is identity-recognition. | ✅ Central doctrine. |
+| ✅ **Viśiṣṭādvaita** | ✅ Three: pratyakṣa, anumāna, śabda. | ✅ Saguṇa Brahman/Nārāyaṇa with infinite auspicious qualities; no nirguṇa higher level. | ✅ Real atomic self, inseparable mode of Brahman. | ✅ World is real acit as Brahman's body; error is satkhyāti. | ✅ Real manifestation through Brahman's modes; God is efficient and material cause in qualified sense. | ✅ Bhakti and prapatti lead to communion/service, not identity. | ✅ Not accepted in strict Advaita sense. |
+| ✅ **Dvaita** | ✅ Three: pratyakṣa, anumāna, āgama. | ✅ Viṣṇu is independent supreme personal reality. | ✅ Real dependent self eternally different from God and other selves. | ✅ World is real; difference is pañcavidha; error explained without mithyātva. | ✅ God is supreme cause while preserving real difference. | ✅ Bhakti, right knowledge and grace lead to eternal service with tāratamya. | ✅ Not accepted as identity-realisation while embodied. |
+| ⚠️ **Bhāskara / Bhedābheda** | ❓ Usually accepts a realist Vedic epistemology rather than Advaita's sublation-model. | ✅ Brahman is both one and really transformed into plurality. | ✅ Jīva is both different and non-different from Brahman. | ✅ World is real, not māyā-produced illusion. | ✅ Pariṇāma/bhedābheda rather than vivarta. | ⚠️ Knowledge integrated with action/devotion is stressed against Śaṃkara. | ❓ Not central like Advaita jīvanmukti. |
+| ✅ **Nimbārka / Dvaitādvaita** | ❓ Standard summaries stress scripture, perception and inference without Advaita's sixfold emphasis. | ✅ Brahman/Kṛṣṇa is the ground of real cit and acit. | ✅ Jīva is different from and non-different from Brahman through dependence. | ✅ Matter is real and dependent; not Advaitic mithyā. | ✅ Difference-and-non-difference is real, not merely apparent. | ✅ Bhakti and grace culminate in communion without identity-erasure. | ❓ Not central in the Advaita sense. |
+| ✅ **Vallabha / Śuddhādvaita** | ❓ Usually presented through śruti-centred devotional Vedānta. | ✅ Brahman/Kṛṣṇa is pure non-dual and full of qualities. | ✅ Jīvas are real manifestations/parts dependent on Brahman. | ✅ World is real manifestation of Brahman, not māyā-illusion. | ✅ Real manifestation rather than vivarta. | ✅ Grace and devotion lead to participation in divine bliss. | ❓ Not framed as Śaṃkara-style jīvanmukti. |
+
+### 20C.2 Advaita and non-Vedāntic schools
+
+| School | Self | Causation | Liberation | Advaita contrast |
+|---|---|---|---|---|
+| ✅ **Sāṃkhya** | ✅ Many puruṣas, each conscious but inactive. | ✅ Prakṛti is real material cause through pariṇāma. | ✅ Kaivalya is isolation of puruṣa from prakṛti. | ⚠️ Advaita rejects unconscious ultimate cause and plurality of puruṣas. |
+| ✅ **Nyāya-Vaiśeṣika** | ✅ Many real selves, knowers of qualities. | ✅ God is efficient cause; atoms are material cause. | ✅ Liberation is cessation of suffering through true knowledge. | ⚠️ Advaita rejects atomistic realism and anyathā-khyāti. |
+| ⚠️ **Buddhism** | ✅ No permanent ātman in standard Buddhist doctrine. | ⚠️ Dependent origination replaces permanent substance-causality. | ✅ Nirvāṇa ends ignorance/craving, but not by discovering Brahman. | ⚠️ Advaita affirms self-luminous Brahman and śruti-authority. |
+| ✅ **Mīmāṃsā** | ✅ Self is real and ritual agency is central. | ✅ Vedic ritual action produces unseen potency linked to results. | ⚠️ Classical focus is dharma rather than Brahman-realisation. | ⚠️ Advaita redirects Veda from vidhi to siddha-vastu knowledge. |
+| ✅ **Jainism** | ✅ Many real jīvas with consciousness obscured by karma. | ✅ Pluralistic realism with karma as subtle matter. | ✅ Liberation is release of jīva from karmic bondage. | ⚠️ Advaita rejects permanent plural souls and realist karma-matter. |
+
+---
+
+## 20D. CONTROLLED WESTERN COMPARISON
+
+| Advaita theme | Point of contact | Disanalogy / exam warning |
+|---|---|---|
+| ⚠️ Degrees of reality | ⚠️ Bradley's *Appearance and Reality* also grades appearance and treats relations as ultimately unstable. | ⚠️ Bradley's Absolute includes and harmonises appearance, whereas Brahman sublates appearance as mithyā. |
+| ⚠️ Nirguṇa Brahman | ⚠️ Negative theology and Plotinus' One also deny ordinary predicates of the ultimate. | ⚠️ Plotinus' One emanates real hypostases, while Advaita denies real production from Brahman. |
+| ⚠️ Adhyāsa | ⚠️ Kant's transcendental illusion also diagnoses systematic error in ordinary construal. | ⚠️ Kantian phenomena remain empirically real and are not sublated by higher Brahman-knowledge. |
+| ⚠️ Māyā | ⚠️ Berkeley's idealism may seem close because both question matter's independent status. | ✅ Advaita is **not** subjective idealism: the world is not “my idea,” has vyāvahārika objectivity, is intersubjective, and Śaṃkara refutes Vijñānavāda in the *Brahma-sūtra-bhāṣya*. |
+| ⚠️ Jīva-Brahman identity | ⚠️ Spinoza also makes the finite non-independent of substance. | ⚠️ Spinoza's modes are real modifications, nearer to pariṇāma and therefore closer to Rāmānuja than to Śaṃkara's vivarta. |
+| ⚠️ Mahāvākya semantics | ⚠️ Frege's sense/reference distinction also explains informative identity statements. | ⚠️ Bhāga-tyāga-lakṣaṇā works by discarding incompatible portions of primary meaning, which has no exact Fregean counterpart. |
+
+**Rubric.** ⚠️ **Western parallels are illustrative only, never a substitute for the Vedāntic argument; use at most one or two lines after the Indian case is complete.**
+
+---
+
+## 20E. DIRECTIVE DECODER
+
+| Directive | What the examiner is testing | Structural move for a Vedānta answer | Closing verdict |
+|---|---|---|---|
+| ⚠️ **Discuss** | ⚠️ Breadth plus coherent explanation. | ⚠️ Define, explain mechanism, add example, include one rival contrast. | ⚠️ End with balanced significance, not a yes/no. |
+| ⚠️ **Examine** | ⚠️ Doctrinal explanation plus reasons. | ⚠️ State thesis, unpack presuppositions, test internal logic. | ⚠️ Say whether the doctrine is coherent within its system. |
+| ⚠️ **Critically examine** | ⚠️ Doctrine and objections. | ⚠️ Present siddhānta, then named pūrvapakṣa and reply. | ⚠️ Give a graded verdict with residual weakness. |
+| ⚠️ **Analyse** | ⚠️ Components and relations. | ⚠️ Break into Brahman, jīva, jagat, pramāṇa and mokṣa implications. | ⚠️ Show how parts follow from the root metaphysics. |
+| ⚠️ **Evaluate** | ⚠️ Philosophical strength versus cost. | ⚠️ Weigh explanatory gain against unresolved tensions. | ⚠️ Use “strong in..., weak in...” phrasing. |
+| ⚠️ **Compare** | ⚠️ Similarities and differences. | ⚠️ Use a table or paired paragraphs across Advaita, Viśiṣṭādvaita and Dvaita. | ⚠️ Close with identity/qualification/difference formula. |
+| ⚠️ **Distinguish** | ⚠️ Precise conceptual separation. | ⚠️ Give definition, locus, example and consequence for each term. | ⚠️ State the one-line trap avoided. |
+| ⚠️ **Elucidate** | ⚠️ Clarification through example. | ⚠️ Explain with rope-snake, shell-silver, pot-space or mirror-reflection. | ⚠️ End by linking the example to liberation. |
+| ⚠️ **Comment** | ⚠️ Short critical reflection. | ⚠️ State the doctrine, give one objection and one defence. | ⚠️ Avoid long exposition; close with sharp judgement. |
+| ⚠️ **Bring out** | ⚠️ Hidden implication. | ⚠️ Derive consequences for world, self, God and ethics. | ⚠️ Use “therefore” language to show derivation. |
+| ⚠️ **Do you agree?** | ⚠️ Reasoned position, not personal opinion. | ⚠️ State partial agreement, give reasons, qualify through rival school. | ⚠️ End with “agree only within...” or “disagree because...” |
+| ⚠️ **Discuss X in Advaita and examine Rāmānuja's critique** | ⚠️ Both accurate exposition and named critique. | ⚠️ First present Advaita's mechanism; then use Rāmānuja's sapta-anupapatti or qualified-realism objection; finally give Advaita reply. | ⚠️ Conclude that the dispute turns on whether sublation or qualified realism is the better criterion of reality. |
+
+---
+
+## 20F. GRADED VERDICT ON THE VEDĀNTA SCHOOLS
+
+### 20F.1 Advaita
+
+- ✅ **Strong:** ✅ It gives the most rigorous account of non-duality, self-luminosity, sublation and liberation as recognition rather than production.
+- ⚠️ **Weak:** ⚠️ It pays for metaphysical purity by making world, individuality, ethics and devotion ultimately lower-order.
+- ❓ **Contested:** ❓ The locus and proof of avidyā remain the deepest unresolved issues, especially under Rāmānuja's āśraya and pramāṇa objections.
+
+### 20F.2 Viśiṣṭādvaita
+
+- ✅ **Strong:** ✅ It preserves divine personality, real world, real selves, devotion and scriptural theism through apṛthaksiddhi.
+- ⚠️ **Weak:** ⚠️ Real modes in Brahman create pressure on divine simplicity and changelessness.
+- ❓ **Contested:** ❓ Whether qualification enriches absoluteness or limits it is the central dispute with Advaita.
+
+### 20F.3 Dvaita
+
+- ✅ **Strong:** ✅ It gives the clearest realist basis for devotion, moral responsibility and permanent God-soul relation.
+- ⚠️ **Weak:** ⚠️ Eternal difference risks ultimate pluralism and makes non-dual Upaniṣadic sentences harder to interpret.
+- ❓ **Contested:** ❓ The doctrines of hierarchy among souls and viśeṣa require careful formulation to avoid overstatement.
+
+### 20F.4 Ready comparative verdicts
+
+- ⚠️ **10 marks:** Advaita sublates plurality, Viśiṣṭādvaita qualifies unity, and Dvaita absolutises difference.
+- ⚠️ **15 marks:** Śaṃkara is strongest on metaphysical unity, Rāmānuja on religious realism, and Madhva on devotional difference; the best answer judges them by their different criteria of reality.
+- ⚠️ **20 marks:** The Vedānta debate is not merely one school versus another but a three-way contest between sublation, inseparability and real difference as rival ways of preserving Brahman, world, self and liberation.
 
 ## 21. ANSWER ARCHITECTURE
 

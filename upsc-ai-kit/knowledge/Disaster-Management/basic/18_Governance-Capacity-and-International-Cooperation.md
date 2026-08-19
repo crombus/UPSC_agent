@@ -217,3 +217,37 @@ targets (PDF pp. 59-62).
   core content; topic 02 develops NPDRR's domestic-institutional
   context; topic 14 develops CDRI in full; topic 16 develops
   international disaster-finance cooperation.
+
+## 13. Core-only answer architecture — framework to local accountability
+
+> **Core firewall:** international cooperation is useful only when it
+> improves domestic risk governance, capacity and last-mile outcomes.
+> Core supplies the Yokohama–Hyogo–Sendai comparison and the domestic
+> accountability bridge; Advanced depth is optional.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Global DRR frameworks evolved in focus and measurability. | Yokohama 1994: ten principles; Hyogo 2005–15: five priorities; Sendai 2015–30: four priorities and seven targets. | Supports a precise before/after comparison for the 2018 demand and future framework questions. | All are voluntary/non-binding; a target or conference does not establish national implementation. |
+| National governance needs an accountability bridge. | NPDRR reviews/appraises/advises; NDMA–SDMA–DDMA cascade; Sendai targets A–G. | Connects global commitments to domestic coordination, planning and local capacity. | NPDRR is advisory, not a directive enforcement body; a review is not an outcome measurement system. |
+| Cooperation can provide standards, knowledge, warning and surge support. | SAARC/BIMSTEC exercises, G20 DRR work, GPDRR review role, CDRI risk-assessment/standards/finance/recovery themes, EW4All. | Lets an answer show differentiated functions rather than listing organisations. | Event hosting, membership or membership growth demonstrates convening, not local resilience or warning effectiveness. |
+| Capacity is produced through people, plans, drills, data and finance. | NIDM/State-district capacity, Aapda Mitra, SACHET/early-warning links and finance/monitoring cross-links. | Builds a usable localisation chain. | Media/social media can assist information but cannot replace authoritative infrastructure or rumour control. |
+
+### 13.2 Executable spines
+
+- **10 marks — compare Hyogo and Sendai:** table the period, five versus
+  four priorities, and Sendai’s seven targets; explain the shift from
+  priority listing toward target/means vocabulary; qualify
+  non-bindingness.
+- **15 marks — governance/cooperation:** thesis that cooperation is a
+  capacity multiplier, not a substitute for domestic duty. Organise
+  global/regional standards and warning, national institutions, district/
+  community localisation, financing/data and an outcome test; use
+  NPDRR/CDRI/EW4All or one regional route as named evidence.
+- **20 marks — critically evaluate India’s DRR leadership:** balance
+  India’s convening/hosting and CDRI role against local implementation,
+  inclusive last-mile warning, plan/drill maintenance and measurable
+  Sendai outcomes. Conclude with a vertically accountable
+  Union–State–district/community architecture rather than diplomatic
+  visibility alone.

@@ -73,6 +73,57 @@
 
 ## 7. Mains angles
 
+### Thesis options
+
+| Directive | Thesis |
+|---|---|
+| Discuss | Geography shaped ancient India's developmental trajectory by offering differential resource endowments: river plains enabled agriculture and state formation, while passes and coasts enabled external contact—but geography set conditions, not inevitabilities. |
+| Critically examine | Environmental determinism must be rejected: the same monsoon system supported Harappan urbanism and later agrarian empires differently because technology, organisation and political will mediated between environment and outcome. |
+| Compare | The Indus-Ganga contrast demonstrates how different ecological zones produced different state-formation timelines: Indus enabled early urban-commercial civilization (Harappan), while the eastern Ganga required iron technology to unlock dense forest-alluvium potential (Magadha). |
+
+### Evidence units
+
+| Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|
+| Rivers structured settlement and economy | Indus system → Harappan cities; Ganga system → NBPW towns; Krishna-Godavari → Satavahana rice zone | Each major state formation correlates with river-basin exploitation | Correlation ≠ causation; political and cultural factors also mattered |
+| Passes enabled contact, not just invasion | Khyber/Bolan passes → Achaemenid/Greek/Kushana contact; also trade routes | NW was a zone of cultural exchange, not merely a vulnerability | Pass geography alone doesn't explain why some contacts produced empires (Kushana) and others didn't |
+| Mineral distribution created inter-regional dependence | Iron in central-eastern India; copper in Rajasthan/Singhbhum; tin imported | No region was self-sufficient; exchange networks began in prehistory | Mineral availability doesn't automatically create organised trade without social/political structures |
+| Monsoon created agricultural possibilities and limits | Wet rice in Ganga/deltaic south; wheat-barley in NW; pastoral zones in dry Deccan | Different crop regimes supported different social organisations | Monsoon variability makes general claims risky; micro-climates diverged from macro patterns |
+
 - ⚠️ "Geography supplied opportunities, not destiny." Discuss with rivers, monsoon, minerals and frontiers.
 - ⚠️ Explain how ecological zones shaped uneven cultural development in ancient India.
 - ⚠️ Use geography to connect Harappan urbanism, Ganga urbanisation and Deccan Chalcolithic cultures.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Geography did not mechanically determine ancient Indian history, but it set the ecological limits and opportunities within which societies evolved." |
+| Critically examine | "Rivers, monsoon and ecological zones shaped settlement and production, yet political outcomes depended on technology and institutions too." |
+| Compare / evaluate | "The contrast between plains, plateau interiors and coastal belts explains why regions entered state formation and trade circuits differently." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** ecology -> subsistence -> settlement density -> trade/state outcomes
+- **For comparison Qs:** northwest/Gangetic plains vs Deccan vs deep south/coasts
+- **For evaluate Qs:** enabling role of geography -> mediating role of society/technology -> qualified verdict
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | River plains enabled dense agrarian concentration | ✅ Indus and Ganga systems | Explains urbanism and later state formation | Similar ecology did not always yield identical polities |
+| 2 | Ecological diversity produced regional paths | ✅ Plateau, forest and delta zones | Explains Harappan, Vedic and Tamil differences | Broad eco-zones can hide micro-regions |
+| 3 | Passes and coasts made India connected | ✅ Northwest routes and Arabian Sea/Bay routes | Grounds invasions, trade and cultural contact | Political use of routes varied over time |
+
+### Counterpoint and balance
+
+- Geography is an enabling constraint, not an autonomous historical actor.
+- Climatic explanation should be paired with social organisation and technology.
+
+### Verdict framing
+
+- Close by linking geography to surplus, mobility and contact.
+- Avoid determinist endings such as rivers alone creating civilisation.

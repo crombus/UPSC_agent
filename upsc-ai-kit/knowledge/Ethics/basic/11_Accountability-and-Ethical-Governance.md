@@ -128,12 +128,50 @@ court, CVC/Lokpal, public via RTI).
 - ⚠️ **Mains (15 marks):** Suggest specific measures to strengthen accountability and reduce
   leakages in the utilisation of public funds in India's fast-growing economy.
 
-## 10. Study links
+## 10. Social capital as the informal complement to formal accountability (historical demand)
+
+> ⚠️ 2023 GS-IV Q6(b) (historical demand, routed at the 06/11 boundary): social capital and its role
+> in good governance. **Full concept, definition and Indian-moral-thought antecedents (Putnam's
+> bonding/bridging distinction, Guru Nanak's Vand Chhako, Basava's Dasoha) are taught in
+> `06_Indian-Moral-Thinkers-and-Philosophers.md`, Section 11 — this file's own contribution is the
+> accountability-architecture placement.**
+
+- ⚠️ Social capital operates as an informal fourth input into the accountability triad (Section 1):
+  it lowers the cost of **social control** specifically — citizens who trust each other and local
+  institutions are more willing to participate in social audits, report leakages (see `18`), and
+  hold local functionaries answerable *between* formal audit cycles.
+- ⚠️ **Worked mechanism:** MKSS-style social audits function only where a baseline of bridging
+  social capital exists (villagers trusting the audit process and each other's testimony against a
+  powerful local functionary); where social capital is low or purely bonding (caste/faction-based),
+  social audits are more easily captured or intimidated into silence.
+- ⚠️ **Limitation as an accountability substitute:** social capital cannot replace internal
+  (CVC/CVO) or external (CAG/judiciary) control — it strengthens the *social* leg of the triad only,
+  and a society rich in bonding but poor in bridging social capital can even *weaken* accountability
+  by reinforcing in-group shielding of misconduct.
+
+## 11. Executable directive decoding and answer architecture
+
+| Directive word | What is tested | Structural move |
+|---|---|---|
+| **Suggest** | A specific, implementable measure | Diagnose which control layer is weak -> name its specific limitation -> propose one concrete measure -> note the measure's own limitation |
+| **Distinguish** | Two related concepts kept precisely apart | Define both -> point-by-point contrast -> one Indian example each |
+| **Explain the role of X in good governance** | Mechanism, not a definitional restatement | Define X -> the specific mechanism by which it strengthens governance -> one Indian example -> one limitation |
+
+**10-mark architecture (~150 words):** define accountability/responsibility or the named concept
+precisely -> map it to the relevant control layer -> one Indian example -> one limitation -> one
+concrete strengthening measure -> one-line conclusion.
+
+**Counterpoint and reasoned verdict (template):** "[Named control layer/mechanism] addresses [X
+failure mode], but its limitation is [Y]; strengthening it requires pairing it with [named
+complementary layer/measure], since no single layer is self-sufficient."
+
+## 12. Study links
 
 - ✅ Advanced companion: `advanced/11_Accountability-and-Ethical-Governance.md`.
 - ✅ `20_Anti-Corruption-Institutions.md` — CVC/CBI/Lokpal ethics-specific jurisdiction treatment.
 - ✅ `18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md` — leakage/misuse mechanics.
 - ✅ `Polity/advanced/32_CAG.md` and `Polity/advanced/37_CVC-and-CBI.md` — constitutional-body detail.
+- ✅ `06_Indian-Moral-Thinkers-and-Philosophers.md` — social capital's full concept and antecedents.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
@@ -155,3 +193,32 @@ court, CVC/Lokpal, public via RTI).
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-IV | 10 | Rising politicization of bureaucracy - political executive encroaching on permanent executive including transfers and postings; consequences of this trend | Discuss · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 6 | (a) independent social audit mechanism as absolute must for public service accountability and ethical conduct; (b) integrity as a value that empowers the human being | Elaborate / Justify · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 9 | project manager of elevated corridor notices crack in pier; minister and chief engineer pressure to overlook - (a) options; (b) ethical dilemmas; (c) professional challenges; (d) consequences | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 4 | (a) good governance and e-governance initiatives for beneficiaries; (b) ethical issues in online methodology affecting vulnerable sections of society | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 6 | (a) major teachings of Guru Nanak and their contemporary relevance; (b) social capital and its role in good governance | Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Rising politicization of bureaucracy - political executive encroaching on permanent executive including transfers and postings; consequences of this trend
+- (a) independent social audit mechanism as absolute must for public service accountability and ethical conduct; (b) integrity as a value that empowers the human being
+- project manager of elevated corridor notices crack in pier; minister and chief engineer pressure to overlook - (a) options; (b) ethical dilemmas; (c) professional challenges; (d) consequences
+- (a) good governance and e-governance initiatives for beneficiaries; (b) ethical issues in online methodology affecting vulnerable sections of society
+- (a) major teachings of Guru Nanak and their contemporary relevance; (b) social capital and its role in good governance
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

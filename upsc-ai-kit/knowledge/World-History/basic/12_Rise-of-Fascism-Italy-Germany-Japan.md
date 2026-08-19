@@ -140,8 +140,101 @@
 - ⚠️ "Examine the common conditions — economic distress, weak parliamentary institutions and fear of the left — that allowed authoritarian right-wing regimes to emerge in Italy, Germany and Japan between the wars." (15 marks)
 - ⚠️ "Distinguish between fascism, Nazism and Japanese militarism as forms of interwar authoritarianism, bringing out why Lowe cautions against treating them as a single uniform category." (10 marks)
 
-## 10. Study link
+## 10. Answer architecture (10/15/20-mark support)
 
-> **Study link:** World-History → `advanced/12_Rise-of-Fascism-Italy-Germany-Japan.md` for debates on totalitarianism, elite support, Hitler myth and the status of Japan/Spain.
+> **Core-sufficiency note:** this file must independently support the comparative-fascism demand
+> **and** the "challenge to the democratic state system between the two World Wars" demand routed
+> in the ledger to the advanced tier — the Core evidence for it is supplied here.
+> `advanced/12` adds the totalitarianism, "weak dictator" and Hitler-myth debates only.
+
+### 10.1 Directive and demand map
+
+| If the question says | It is really testing | Do NOT write |
+|---|---|---|
+| *What conditions enabled fascism?* | The common crisis **plus** the national differences | One list applied to three countries |
+| *Compare fascism and Nazism* | Ideological and institutional distinctions, especially race | "Both were dictatorships" |
+| *Evaluate the challenge to the democratic state system* | Why parliamentary democracy lost legitimacy, not just who attacked it | A rise-to-power narrative |
+| *Ideology, social base, institutions, coercion* | Four separable analytical layers | Merging them |
+| *Was Japan fascist?* | Definitional discipline | Calling Japan fascist without qualification |
+| *Fascism and the road to war* | Expansion as ideologically required, not incidental | Foreign-policy chronology |
+
+### 10.2 Qualified thesis templates
+
+- ⚠️ **Conditions:** "Fascism did not defeat democracy; it occupied the space left by democracies that could not deliver security, employment or national self-respect after 1918."
+- ⚠️ **Comparison:** "Italian fascism was authoritarian-nationalist and opportunistic in its racism; Nazism was racial-biological in its core and therefore committed in principle to exclusion and expansion — the difference is not one of degree."
+- ⚠️ **Democratic crisis:** "The interwar challenge to democracy came from three directions at once — from mass movements below, from conservative elites above who preferred authoritarianism to socialism, and from the constitutional mechanisms of the democracies themselves."
+- ⚠️ **Japan:** "Japan produced military dominance of a surviving constitutional structure, not a mass party-state — related to fascism in its expansionism, distinct in its route."
+
+### 10.3 Mark-scaled structures
+
+| Marks | Structure |
+|---|---|
+| **10** | Thesis → **two** enabling conditions with named evidence from **two** countries → one distinction → verdict |
+| **15** | Thesis → the common interwar crisis → Italy as the model → Germany as the radicalisation → the distinctions → verdict |
+| **20** | All of the above → **plus** Japan and Spain as variation cases, the four-layer analysis (ideology/base/institutions/coercion) and the link to war → verdict |
+
+### 10.4 Evidence bank A — why parliamentary democracy lost legitimacy (the "challenge to the democratic state system" bank)
+
+| Mechanism of democratic failure | ✅ Named evidence | ⚠️ Why it mattered |
+|---|---|---|
+| **Unmet war expectations** | ✅ Italy's "mutilated victory" mood; ✅ Versailles humiliation and the "stab-in-the-back" myth in Germany | Made the parliamentary regime itself appear as the author of national defeat |
+| **Economic breakdown** | ✅ Italian inflation, debt and unemployment after the war; ✅ German hyperinflation 1923; ✅ Depression after 1929 with mass unemployment — ✅ over **six million** unemployed in Germany by 1932, ✅ Italian unemployment at **1.1 million** with wages cut and the lira not devalued until 1936, and ✅ in Japan "exports shrank disastrously", raw silk falling by 1932 to less than a fifth of its 1923 price. **Mechanism owner: `basic/20` §9.5** | Destroyed the material case for the existing system. ⚠️ ✅ Lowe states the counterfactual directly: without the world economic crisis "Hitler would probably never have been able to come to power" |
+| **Institutional design failure** | ✅ Weimar constitutional weakness and fragmented coalition politics; ✅ contempt for weak Italian coalition cabinets | Democracy was blamed for *immobilism*, not only for outcomes |
+| **Political violence normalised** | ✅ Political violence from left and right in Germany; ✅ fascist squads amid Italian strikes and factory occupations | The state's monopoly of force was visibly broken before it was formally surrendered |
+| **Fear of revolution** | ✅ Italian strikes, factory occupations and fear of socialist/communist revolution | Made propertied groups prefer an authoritarian solution to a democratic risk |
+| **Elite complicity** | ✅ King Victor Emmanuel III refused to authorise resistance and invited Mussolini; ✅ conservative intrigue let Hitler in **legally** | The decisive point: democracy was handed over from within, not stormed |
+| **Weak or divided opposition** | ✅ Weak and divided Italian opposition | No coalition existed to defend the system |
+| **External dependence** | ✅ German dependence on American loans after 1924 | Recovery was hostage to a foreign credit cycle |
+
+⚠️ **Verdict line for this demand:** "The interwar democracies were not overthrown so much as
+abandoned — by electorates that had lost confidence in them and by elites that preferred
+authoritarian order to democratic uncertainty."
+
+### 10.5 Evidence bank B — the four-layer comparison (ideology / base / institutions / coercion)
+
+| Layer | Italy | Germany | Japan |
+|---|---|---|---|
+| **Ideology** | ✅ Authoritarian government, extreme nationalism, one-party rule, leader cult, economic self-sufficiency, anti-communism, glorification of violence | ✅ National rebirth, totalitarian organisation, militarisation of the state, and **race theory with Aryan supremacy and anti-Semitism at the centre** | ⚠️ Emperor-centred nationalism and army-led expansionism; ✅ Lowe warns against applying the fascist label in the strict Italian/German sense |
+| **Route to power** | ✅ March on Rome, Oct 1922 — more bluff than military revolution; power was **given** | ✅ Chancellor Jan 1933; ✅ Enabling Law Mar 1933 as the decisive legal breakthrough; ✅ Night of the Long Knives 1934 | ✅ Manchuria 1931 and the assassination of Prime Minister Inukai in 1932 marked the transition to army dominance |
+| **Social base** | ✅ Property-owners, business interests, parts of the Church, eventually the king | ⚠️ Broad electoral base, but ✅ the Nazis never won an overall majority; conservative elites supplied the final step | ⚠️ Military and bureaucratic elites rather than a mass party |
+| **Institutions** | ✅ Corporate State; strikes banned; GIL youth organisation; ✅ Acerbo Law helped fascist parliamentary dominance; ✅ Lateran Treaty 1929 settled the Church question | ✅ Trade unions crushed; Hitler Youth and school control; Goebbels propaganda system | ⚠️ Existing constitutional and imperial institutions retained, but subordinated to army influence |
+| **Coercion** | ✅ Authoritarian and violent, but less thorough | ✅ Police state, camps, racial persecution; ✅ Nuremberg Laws 1935 | ⚠️ Repression of dissent alongside external war from 1937 |
+| **Expansion** | ✅ Abyssinia 1935 (see `basic/11`) | ✅ Rhineland, Anschluss, Czechoslovakia, Poland | ✅ Manchuria 1931; full-scale war in China 1937 |
+
+⚠️ **Spain as the fourth case:** ✅ monarchy fell 1931; the republic faced Church-army-regional-social conflict; civil war from 1936; Franco's Nationalists won in 1939 with major German and Italian help. ✅ Lowe explicitly cautions against labelling Spain and Portugal fascist in the same strict sense — they lacked the same mass mobilisation for national rebirth.
+
+### 10.6 Evidence bank C — why the differences matter analytically
+
+- ⚠️ **Race is the discriminator.** ✅ Anti-Jewish measures came to Italy only in 1938–39, after more than fifteen years of fascist rule; in Germany the Nuremberg Laws came in 1935, within two years. Racial exclusion was *derivative* in Italy and *constitutive* in Germany.
+- ⚠️ **Thoroughness is the second discriminator.** ✅ Lowe repeatedly notes that Nazism was more systematic, more racialised and far more brutal than Italian fascism.
+- ⚠️ **Mass mobilisation is the third.** Japan, Spain and Portugal lacked the mass movement for national rebirth that defined Italy and Germany — which is why "right-wing authoritarianism" is the safer umbrella term and "fascism" the narrower one.
+- ⚠️ **Therefore:** the family resemblance is real (anti-communism, nationalism, leader cult, contempt for parliament, expansionism); the identity is false.
+
+### 10.7 Verdict scaffolds
+
+- **"Common conditions?"** → "Defeat or disappointed victory, economic collapse, fragile parliaments and fear of the left were common; what differed was the *mechanism of transfer* — a king in Italy, a legal chancellorship and Enabling Law in Germany, and army insubordination in Japan."
+- **"Compare fascism and Nazism."** → "Both destroyed pluralism; only Nazism made biological race the organising principle of the state, and that difference determined the difference in outcome between dictatorship and genocide."
+- **"Challenge to democracy?"** → "The interwar crisis showed that democracies fail when they cannot deliver security and subsistence and when their own elites conclude that democracy is dispensable."
+
+### 10.8 Factual-risk controls
+
+- ❌ Do not say Mussolini seized power by defeating the army. ✅ He was invited to office when the king refused resistance.
+- ❌ Do not say Hitler won an overall electoral majority. ✅ The Nazis never did.
+- ❌ Do not call Japan fascist without qualification, or equate Franco's Spain with Nazi Germany.
+- ❌ Do not date the Enabling Law to January 1933. ✅ Hitler became Chancellor in January 1933; the Enabling Law was **March 1933**.
+- ❌ Do not give membership, vote-share or camp-population figures; none is sourced here.
+- ✅ **Unemployment and economic figures may be used only as sourced in §10.4 and in `basic/20` §9**: over 6 million German unemployed (1932) falling to just over 2 million (end-1935) and negligible by 1939; the German military budget at 52 per cent of government spending in 1938–9; Italian unemployment 1.1 million; Japanese raw silk below one-fifth of its 1923 price by 1932. ❌ Do not add others.
+- ⚠️ **The Depression is a causal variable in this file, not its subject.** ✅ Its causes, transmission and the policy instruments used against it — including the rearmament-led recovery in Nazi Germany and its trade-union and racial-purge preconditions — are owned by **`basic/20` §9**. ❌ Do not answer a Depression question from this file alone, and ❌ do not present Nazi full employment as a policy success without §9.6's qualification.
+- ❌ Do not attribute Holocaust content to this file. ✅ The Holocaust is owned by `basic/14` §6.
+- ❌ Do not quote Mussolini or Hitler verbatim.
+- ❌ Do not date the Nuremberg Laws, Lateran Treaty, March on Rome or Manchuria loosely. ✅ 1935, 1929, October 1922, 1931.
+
+## 11. Study link
+
+> **Study link:** World-History → `advanced/12_Rise-of-Fascism-Italy-Germany-Japan.md` for the totalitarianism, "weak dictator" and Hitler-myth debates (optional).
+> **Study link:** World-History → `basic/01_Enlightenment-and-Age-of-Revolutions-Overview.md` §9 for the liberal, socialist and social-democratic doctrines fascism defined itself against — including the Weimar SPD/communist split that §10.3(g) records.
 > **Study link:** World-History → `basic/11_International-Relations-1919-39.md` for the foreign-policy consequences of these regimes.
+> **Study link:** World-History → `basic/14_Second-World-War.md` §6 for the Holocaust, which this file deliberately does not duplicate.
+> **Study link:** World-History → `basic/20_World-Economy-and-Population-since-1900.md` §9 owns the Great Depression — causes, transmission, instruments and the authoritarian rearmament counter-case.
+> **Study link:** World-History → `basic/04_Industrial-Revolution.md` §8.6A for the Japanese industrial economy whose 1921 and 1929 collapse this file's §5 explains.
 > **Study link:** Modern-Indian-History → `basic/22_Simon-Nehru-Report-CDM-and-RTC.md` and `basic/23_Left-Peasant-Workers-and-States-Peoples-Movements.md` for interwar Indian politics without repeating it here.

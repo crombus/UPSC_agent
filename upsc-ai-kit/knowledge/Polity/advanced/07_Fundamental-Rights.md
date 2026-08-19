@@ -352,7 +352,7 @@ sentences. Martial law = "military rule" (undefined; from English common law); n
 | 2021 | GS-II | 13 | Right to Equality in the Constitutions of the USA and India | Analyze the distinguishing features · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-II | 2 | Right of movement and residence and its limits | Comment · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | GS-II | 11 | Constitution as a living instrument and expanding right to life and liberty | Illustrate · 15 marks · 250 words | Routed to owning topic; word limit taken from the instruction block | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-II | 12 | Constitutional perspectives of gender justice with provisions and case law | Explain · 15 marks · 250 words | Cross-cutting; gender justice and constitutional guarantees both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 12 | Constitutional perspectives of gender justice with provisions and case law | Explain · 15 marks · 250 words | Social Justice Core route; constitutional-doctrine link retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 

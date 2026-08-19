@@ -104,12 +104,13 @@ felt immediately" (PDF p. 6).
   livelihood support simultaneously** — making Eco-DRR the clearest
   overlap between adaptation and disaster risk reduction, and the
   strongest answer to a question asking how the two agendas converge.
-- 📰 **Eco-DRR is now financed, not merely recommended, in India:** MHA
-  reported (11 February 2026) that the High Level Committee approved
-  **₹692.05 crore from the National Disaster Mitigation Fund for wetland
-  restoration and rejuvenation in Assam** — a citable instance of
-  ecosystem restoration being funded as *disaster mitigation* rather than
-  as an environment programme (topic `16`).
+- 📰 **Eco-DRR has a dated mitigation-finance example, not a proven
+  outcome:** an MHA Lok Sabha reply (2 December 2025) records
+  **₹519.04 crore from the National Disaster Mitigation Fund for
+  restoration and rejuvenation of 24 wetlands in Assam**. It is a
+  sanctioned instance of ecosystem restoration being funded as *disaster
+  mitigation* rather than as an environment programme (topic `16`), not
+  evidence that wetland performance or avoided loss has already occurred.
 
 ## 6. India applications and examples
 
@@ -140,9 +141,10 @@ felt immediately" (PDF p. 6).
   bio-shields (cyclone); catchment-area treatment and afforestation
   (flood); ecosystem-based management as a non-structural resilient-
   infrastructure measure.
-- 📰 **₹692.05 crore was approved from the National Disaster Mitigation
-  Fund for wetland restoration/rejuvenation in Assam** (MHA, 11 February
-  2026) — Eco-DRR financed as disaster mitigation.
+- 📰 **₹519.04 crore was approved from the National Disaster Mitigation
+  Fund for restoration/rejuvenation of 24 wetlands in Assam** (MHA Lok
+  Sabha reply, 2 December 2025) — a sanctioned Eco-DRR mitigation example,
+  not an outcome claim.
 - ✅ Disaster-displaced persons are not automatically recognised as
   refugees under the 1951 Refugee Convention's persecution-based
   definition; their protection depends on domestic law and non-binding
@@ -214,3 +216,34 @@ felt immediately" (PDF p. 6).
   "climate-induced" urban-flood framing; topic 09 develops drought as
   the paradigmatic slow-onset hazard; topic 16 develops loss-and-damage
   finance mechanisms.
+
+## 13. Core-only answer architecture — avoid, adapt, address
+
+> **Core firewall:** this Core owner supplies the disaster-management
+> application of climate risk without absorbing the Environment owner's
+> Paris/NDC/negotiation questions. It also prevents causal overclaiming.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Climate-risk management has three distinct jobs. | Avoid/mitigate future climate risk → adapt/reduce present vulnerability → address residual loss and damage. | Gives a thesis and avoids calling insurance, relief and adaptation synonyms. | A specific event needs event-attribution evidence; climate signal is not automatic proof of causation. |
+| Slow-onset risk needs anticipatory governance. | VisionIAS “creeping emergencies”: drought, desertification and soil degradation; drought/heat cross-link. | Supports livelihood, water, social protection and planned-risk-reduction measures before a visible shock. | A long lead time does not mean institutions will act or that impacts are easily measured. |
+| Ecosystems can join adaptation and DRR. | 2004 coastal-buffer lesson; Eco-DRR examples; NDMF Assam wetland-restoration approval as a mitigation-finance example. | Links ecosystem restoration to hazard buffering, livelihoods and resilient development. | Project approval/finance is not evidence of restored wetland performance, avoided loss or causal attribution. |
+| Loss and damage/displacement retain protection boundaries. | Warsaw Mechanism/Paris Article 8/Suva Dialogue; non-automatic refugee status and named displacement harms. | Enables a justice and recovery argument rather than only a COP chronology. | Do not quote Loss-and-Damage Fund corpus/disbursement or call it operational for India without a dated UNFCCC decision; disaster displacement is not absence of rights. |
+
+### 13.2 Executable spines
+
+- **10 marks — adaptation versus loss and damage:** define both, show
+  residual risk after mitigation/adaptation, use one Eco-DRR example and
+  end with an attribution/finance caution.
+- **15 marks — climate-linked disaster resilience:** structure as
+  risk-assessment/attribution boundary → avoid/adapt/address →
+  slow-onset and rapid-onset applications → inclusion/displacement →
+  ecosystem/finance and implementation outcome. Do not use the adjacent
+  2025 Paris/NDC question as a direct DM PYQ.
+- **20 marks — climate justice and displacement:** thesis that equal
+  hazard does not create equal harm because capacity and protection
+  differ. Use Warsaw's three functions, named displacement harms,
+  domestic shelter/livelihood/protection measures and a qualified
+  international-finance conclusion.

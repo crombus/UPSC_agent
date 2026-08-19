@@ -194,6 +194,248 @@ the state frames CSOs shapes how effectively that social capital is used for dev
 - ✅ `Polity/advanced/44_Pressure-Groups.md` — the constitutional/typological treatment of
   pressure groups (Polity owns this composition-level detail).
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Scope.** All marks-bearing content for the *NGOs, SHGs, groups, associations and other
+> stakeholders* clause — including the four demands the 2018–2023 ledger routed to
+> `advanced/04` — is held **in this file**. `advanced/04` is optional enrichment only.
+
+### 13.0 Direct Mains demands owned by this Core file
+
+⚠️ **Core routing supersedes the older Advanced pointer.**
+
+**(a) 2020 GS-II Q17 — micro-finance as an anti-poverty instrument and the role of SHGs
+(15 marks, "evaluate").** Executable route:
+1. Define the instrument precisely: micro-finance = small-value financial services (credit,
+   savings, insurance, remittance) to households excluded from conventional banking on
+   collateral, documentation or transaction-cost grounds. **Micro-credit is one component,
+   not the whole of micro-finance** — this distinction alone separates a good answer.
+2. Name the two Indian delivery channels and keep them apart: the **SHG–Bank Linkage**
+   route (savings-first groups linked to bank credit, the DAY-NRLM architecture) and the
+   **MFI/NBFC-MFI** route (specialised lenders regulated by the RBI). They have different
+   incentives: one builds a group balance sheet, the other builds a loan book.
+3. Mechanism by which it can reduce poverty: replaces the moneylender's rate; converts
+   irregular income into a savings and repayment discipline; funds working capital for
+   micro-enterprise; and — through the **linking** capital of federations — opens access to
+   markets and schemes (§3 of this file).
+4. Honest evaluative core, because "evaluate" demands a graded judgment. Micro-finance is
+   strongest as a **consumption-smoothing and vulnerability-reduction** instrument and
+   weakest as a **structural poverty-exit** instrument: loan sizes suit micro-enterprise,
+   not asset accumulation; returns in saturated local markets are thin; and repayment
+   discipline can be sustained by borrowing again rather than by income growth.
+5. Named risks: **over-indebtedness and multiple lending** where several lenders serve one
+   household; **coercive recovery** as a documented sector risk that prompted regulatory
+   correction; **interest-rate and cost-of-delivery** tension, since serving small remote
+   loans is genuinely expensive; and **elite capture** within groups.
+6. Governance verdict: micro-finance works as one instrument inside a livelihoods system —
+   credit **plus** skill, market linkage, social protection and public services — and fails
+   when treated as a substitute for that system.
+❌ Do not state loan volumes, interest-rate caps, NPA figures, borrower counts or any named
+MFI crisis statistic; none is verified in this repository.
+
+**(b) 2021 GS-II Q8 — micro-financing of women's SHGs against gender inequality, poverty and
+malnutrition (10 marks, "explain with examples").** Executable route: use the
+bonding → bridging → linking chain (§3), then show three distinct outcome channels rather
+than repeating "empowerment": **(i) income and asset control** — money routed through a
+woman's own group account changes who decides household expenditure;
+**(ii) voice** — federation office-bearing produces public speaking, negotiation with banks
+and officials, and Gram Sabha participation (see `14`); **(iii) nutrition pathway** — the
+credible mechanism is *indirect*: women's control over income, plus SHG platforms used for
+health/nutrition messaging and convergence with public nutrition services, rather than a
+direct income-to-nutrition link. State that the nutrition link is a **convergence** claim,
+and qualify it — this precision is exactly what "explain" rewards. ❌ Do not cite a
+malnutrition percentage or claim a measured nutrition effect.
+
+**(c) 2021 GS-II Q18 — civil society and NGOs as an alternative public-service delivery
+model: the challenges (15 marks).** Executable route:
+1. Frame it as a **model comparison**, not a complaint list: state delivery has universal
+   mandate, coercive and taxing power, and electoral accountability; NGO delivery has
+   flexibility, local trust and innovation, with donor accountability.
+2. Six challenges, each with its mechanism: **scale** (NGO coverage is geographic and
+   partial, so equity across a State cannot be assured); **sustainability** (project-cycle
+   funding versus a permanent entitlement); **accountability direction** (upward to funder,
+   not downward to citizen, and no electoral sanction); **capacity and standards** variation
+   between organisations; **substitution risk** (relieving political pressure to fix public
+   delivery); and **regulatory dependence** (FCRA registration, renewal and compliance make
+   scale legally contingent).
+3. Concede the genuine case: NGOs reach populations the state reaches poorly, pilot
+   innovations the state cannot risk, and supply the facilitation that social audit and
+   community institutions require.
+4. Resolution: NGOs are best used as **complement and innovator**, and as the *facilitator*
+   of accountability (social audit support, legal aid, grievance help), rather than as the
+   **duty-holder** for a right — because a right needs an addressee who can be compelled.
+5. Verdict sentence and a safeguard set: convergence with the local plan, disclosure,
+   beneficiary grievance route, and exit planning.
+
+**(d) 2023 GS-II Q14 — civil-society groups and women's representation in State legislatures
+(15 marks).** The Governance half owned here: explain the **causal pathway** by which civil
+society affects representation — awareness and rights literacy; candidate identification and
+training; the SHG federation as a school of public life producing local leadership that can
+progress to higher tiers; advocacy and litigation for reservation and party-level
+selection; and election-monitoring/voter-mobilisation work. Then state the limits with equal
+force: local-body leadership does not automatically convert into legislative candidature;
+party ticket distribution is the actual gate and is not civil-society controlled; and elite
+capture reproduces existing hierarchies inside the very groups meant to broaden them.
+Cross-link `Social-Justice` for the gender-justice content and `Polity` for the reservation
+provisions. ❌ Do not state any percentage of women legislators or any reservation
+commencement/operational claim — see `Polity/basic/Parliament.md` for the controlled
+statement of the 106th Amendment's status.
+
+### 13.1 Demand map
+
+| Stem pattern | What is being tested | Opening move |
+|---|---|---|
+| "Anti-State vs non-State" | Category vs perception | Non-state is **structural/legal**; anti-State is **political/perceptual** — say this in sentence one |
+| "Social capital … empowerment" | Whether you use Putnam properly | Bonding / bridging / linking, each tied to a different outcome |
+| "Alternative delivery model" | Model comparison | Compare mandate, accountability direction and sustainability, not virtues |
+| "Pressure groups / associations" | Pluralism vs capture | Use **R-I-S-K**: representation, information, scrutiny, capture risk |
+| "Do you agree? Justify" | Position-taking | Commit in the introduction; justify with one supporting *and* one limiting case |
+| Novel actor (online collective, resident welfare association, faith-based body, gig-worker union) | Transferability | Apply the same four tests: structure, funding, accountability, representativeness |
+
+### 13.2 Qualified theses
+
+- **T1 (structural):** "Civil-society organisations are structurally non-State actors; the
+  'anti-State' label is a political judgment about particular advocacy or funding, not a
+  legal category — and collapsing the two converts a constitutional freedom into a
+  suspicion."
+- **T2 (social capital):** "SHG-based social capital advances gender equity because it moves
+  in three stages — trust within the group, scale across groups, and access to banks,
+  markets and the state — and it stalls wherever any one stage is missing."
+- **T3 (delivery):** "Civil society is a superior *innovator, facilitator and monitor* and an
+  inferior *duty-holder*: a right needs an addressee who can be compelled, and no NGO can be."
+- **T4 (capture-aware):** "Social capital is not automatically democratic; the same density
+  of local networks that enables collective action can entrench dominant caste and economic
+  groups unless participation design is deliberately inclusive."
+
+### 13.3 Mark-scaled structure
+
+**10 marks** — position in sentence one; the structural distinction or the three-part social
+capital chain; two named institutional anchors; one limitation; verdict.
+
+**15 marks** — thesis; mechanism chain; 4–6 evidence units from §13.4; the legal-layer
+distinctions (§13.5) where funding or regulation is in issue; the elite-capture or
+capture-risk counterpoint; graded verdict.
+
+**20 marks** — thesis with criteria; civil society disaggregated into service-deliverer,
+advocate, watchdog and community institution — because the state's response differs for
+each; state–civil society relations across the collaborative/adversarial spectrum; FCRA as a
+structural gate with its stated rationale **and** the proportionality critique;
+representativeness and internal democracy of CSOs themselves; verdict with reversal condition.
+
+### 13.4 Evidence bank A — institutions, mechanisms and limits
+
+| Anchor | What it is | Mechanism | Limitation / caution |
+|---|---|---|---|
+| ✅ **DAY-NRLM** (Ministry of Rural Development) | Mobilises rural women into SHGs, federated into **Village Organisations** and **Cluster-Level Federations** | Revolving fund and community investment support; bank linkage; three-tier scale | ❌ No cumulative SHG or household count asserted — the MIS figure rises continuously |
+| ✅ **SHG–Bank Linkage** | Savings-first groups accessing bank credit | Group liability and repayment record substitute for collateral | Credit access ≠ enterprise viability; saturated local markets thin returns |
+| ✅ **Putnam's typology** | Bonding / bridging / linking | Each performs a different governance function; none substitutes for another | Bonding without bridging can entrench in-group exclusion |
+| ✅ **FCRA, 2010 (amended 2020)** — MHA | Registration **or** case-specific prior permission; designated FCRA account at **State Bank of India, New Delhi main branch**; limits on administrative expenses and on **sub-granting between FCRA-registered entities** | The legal gate determining which CSOs can operate at scale on foreign funds | ❌ No registration/cancellation counts; renewal and suspension actions are dynamic |
+| ✅ **NGO Darpan** (NITI Aayog) | Unique-ID identification/database portal | Required for Union grants; used in linked compliance interfaces | ❌ Not incorporation, **not** FCRA permission, **not** tax exemption |
+| ✅ **Pressure group** | Organised interest seeking policy influence without seeking to form the government | Representation, expertise, agenda-setting, litigation, mobilisation | Unequal money and access convert pluralism into capture |
+| ⚠️ **Elite capture** | Dominant local groups controlling a participatory or collective body | Explains why devolution/mobilisation can reproduce hierarchy | Requires design safeguards: rotation, reservation, disclosure, external facilitation |
+
+### 13.5 Evidence bank B — the four regulatory layers (the discrimination that earns marks)
+
+| Layer | Regulator | What it governs | Confusion it prevents |
+|---|---|---|---|
+| **Incorporation** | State registrar / Registrar of Companies | Legal existence: trust, society or s.8 company (see `03`) | Being registered is not being funded |
+| **Foreign funding** | Ministry of Home Affairs, FCRA | Whether foreign contribution may be received at all | FCRA governs **foreign** contribution only; domestic and CSR funds fall outside it |
+| **Tax status** | Income Tax Department, 12A/80G | Exemption for the body; deduction for the donor | Tax exemption is not a licence to receive foreign funds |
+| **Government-grant identity** | NITI Aayog, NGO Darpan | Unique ID for Union grant eligibility | Darpan is identification, not permission |
+
+### 13.6 Causal chains
+
+```text
+EMPOWERMENT CHAIN (SHG)
+ savings + meeting discipline -> BONDING (trust, peer accountability)
+        -> federation into VO/CLF -> BRIDGING (risk-pooling, scale, negotiation)
+        -> bank / market / department -> LINKING (credit, price, scheme access)
+        -> income control + public voice -> gender-equity outcome
+   FAILURE POINT: any stage missing; or elite capture at the bridging stage
+
+SUSPICION CHAIN (CSO)
+ watchdog/advocacy function is structurally independent of government
+        -> advocacy opposes a specific policy or project
+        -> perceived as adversarial rather than as feedback
+        -> foreign funding compounds the perception (FCRA security rationale)
+        -> "anti-State" label applied to a structurally non-State actor
+   CORRECT RESOLUTION: contest or justify case-by-case; refuse the blanket label
+
+PRESSURE-GROUP CHAIN
+ diffuse interest aggregated -> specialised information supplied
+        -> consultation, media, petition, litigation, mobilisation
+        -> blind spot corrected  OR  one organised interest privileged
+   EVALUATE BY: funding transparency, representativeness, evidence quality,
+                conflict-of-interest safeguards, measurable outcome
+```
+
+### 13.7 Counter-argument and trade-off bank
+
+- ⚠️ **Autonomy vs accountability:** the freedom that lets a CSO criticise the state is the
+  same freedom that makes it hard to hold to standards; disclosure, not control, is the
+  proportionate answer.
+- ⚠️ **Foreign funding: security vs civic space:** the stated FCRA rationale is that
+  externally funded advocacy could serve external interests; the contested counter-position
+  is that broad screening can chill legitimate dissent. Present both; adjudicate no case.
+- ⚠️ **Representativeness objection:** an unelected NGO claiming to speak for a community
+  faces a legitimacy question the state can always raise — the answer is internal democracy,
+  disclosed membership and mandated consultation, not indignation.
+- ⚠️ **Professionalisation trade-off:** professional staff, audited accounts and reporting
+  systems raise quality and donor confidence while raising cost, distancing organisations
+  from volunteers and pushing them toward donor-legible work.
+- ⚠️ **Community ownership vs delivery speed:** genuine community ownership is slow;
+  contracting an experienced NGO is fast. Speed bought at the cost of ownership usually
+  ends when the project ends.
+- ⚠️ **Credit as empowerment:** access to credit is not the same as control over income or
+  freedom from over-indebtedness.
+
+### 13.8 Stakeholder and last-mile variation
+
+- **SHG member:** gains savings discipline and voice; bears meeting time and joint-liability
+  pressure.
+- **Federation office-bearer:** acquires negotiation experience — the practical route from
+  group membership to public life.
+- **Bank branch:** faces small-ticket transaction costs; behaviour determines whether linking
+  capital converts into credit.
+- **Frontline NGO worker:** carries local trust; also the point at which donor metrics bite.
+- **District administration:** decides whether CSO work converges with public schemes or runs
+  parallel.
+- **Non-member poor:** the most-excluded households are frequently **not** in any SHG —
+  state this, because it is the sharpest limitation on SHG-based inclusion claims.
+
+### 13.9 Verdict scaffolds
+
+- **Anti-State stem:** "CSOs are non-State by structure and adversarial only by
+  circumstance; the appropriate governance response to disagreement is disclosure and
+  engagement, not reclassification."
+- **Social-capital stem:** "Women's social capital advances equity because it converts trust
+  into scale and scale into institutional access — but only where bridging is genuinely
+  inclusive; without that, it consolidates existing local hierarchy."
+- **Delivery-model stem:** "Civil society should be commissioned for innovation, facilitation
+  and monitoring, and never made the duty-holder for an entitlement — the state cannot
+  contract out an addressee."
+- **Novel-actor stem:** test structure, funding, accountability direction and
+  representativeness before judging legitimacy.
+
+### 13.10 Factual and current-status controls
+
+- ✅ Safe: DAY-NRLM under the Ministry of Rural Development, SHG → VO → CLF structure;
+  FCRA, 2010 (amended 2020) under the MHA with registration/prior-permission routes,
+  the designated SBI New Delhi main branch account, administrative-expense limits and the
+  sub-granting restriction; NGO Darpan as a NITI Aayog identification portal; Putnam's
+  bonding/bridging/linking typology; pressure group defined by non-pursuit of governmental
+  office.
+- ❌ **Do not assert:** DAY-NRLM SHG or household totals; FCRA registration, renewal or
+  cancellation counts; micro-finance portfolio, borrower, interest-rate or NPA figures; any
+  named NGO's funding, results or regulatory action; percentages of women in legislatures.
+- ⚠️ Pressure-group **composition and typology** are Polity-owned
+  (`Polity/advanced/44_Pressure-Groups.md`); this file owns their **governance function and
+  capture risk**. Keep the boundary explicit rather than duplicating.
+- ⚠️ **Civil society ≠ NGO.** Civil society includes unions, cooperatives, faith-based
+  bodies, professional associations, resident welfare associations, student bodies and
+  informal collectives. Answering an "civil society" stem with NGO material only is a
+  scope error the examiner can see immediately.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

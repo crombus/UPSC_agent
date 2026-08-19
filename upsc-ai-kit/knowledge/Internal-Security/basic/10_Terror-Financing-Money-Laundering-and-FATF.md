@@ -10,7 +10,7 @@
 > 13-14 (terror-funding sources); `00_Master-Framework.md` Sections 4-6;
 > audited GS-III syllabus; PMLA 2002, UAPA 1967 (Section 51A) and the WMD
 > Act 2005 (as amended 2022) as published in India Code; FATF, Mutual
-> Evaluation Report of India (June 2024 Plenary, Singapore).
+> Evaluation Report of India (published 19 September 2024).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/10_Terror-Financing-Money-Laundering-and-FATF.md`.*
 
@@ -46,7 +46,7 @@ UAPA s.51A freezing for listed entities
              v
 GLOBAL STANDARD-SETTING
 FATF Recommendations + Mutual
-Evaluation (India: June 2024, regular
+Evaluation (India: 19 September 2024, regular
 follow-up)
 ```
 
@@ -105,11 +105,10 @@ folder maps onto.
    proven laundering. The same discipline applies to UAPA Section 51A
    freezing, which is an executive listing-linked act, not an
    adjudication.
-6. **International standard-setting and evaluation:** 📰 FATF's June 2024
-   Plenary (Singapore) adopted India's Mutual Evaluation Report, placing
-   India in "regular follow-up" — the best-available compliance category,
-   shared by only four other G20 countries at that Plenary (France,
-   Italy, Russia, UK).
+6. **International standard-setting and evaluation:** 📰 FATF published
+   India’s Mutual Evaluation Report on **19 September 2024**, placing
+   India in "regular follow-up" — a post-evaluation reporting category
+   distinct from FATF listing status.
 
 ## 4. Institutions, laws and reference points
 
@@ -147,8 +146,7 @@ folder maps onto.
   per Singh) and MLAT count (26 countries, per Singh):** book-period
   figures (PDF pp. 94-95); verify the current scheduled-offence list and
   MLAT coverage from the ED/MHA before citing a specific number.
-- 📰 **FATF Mutual Evaluation Report of India (adopted June 2024,
-  Singapore Plenary):** India placed in "regular follow-up," required to
+- 📰 **FATF Mutual Evaluation Report of India (published 19 September 2024):** India placed in "regular follow-up," required to
   report back to a FATF Plenary in 2027, three years after the assessment;
   the report recognised India's AML/CFT framework
   strength (risk understanding, asset confiscation, beneficial-ownership
@@ -184,8 +182,7 @@ folder maps onto.
   (Adjudicating Authority) → conviction (Special Court) → confiscation.
 - ✅ India has been a full FATF member since 2010, and is a member of the
   Asia/Pacific Group on Money Laundering and the Eurasian Group.
-- 📰 FATF adopted India's Mutual Evaluation Report at its June 2024
-  Plenary (Singapore), placing India in "regular follow-up" status.
+- 📰 FATF published India's Mutual Evaluation Report on 19 September 2024, placing India in "regular follow-up" status.
 - ✅ Different threats draw on different funding models: J&K on external
   state sponsorship; North-East and LWE predominantly on local extortion/
   taxation.
@@ -205,7 +202,7 @@ folder maps onto.
   black-money/tax mechanics; this folder owns the AML/CFT and terror-
   finance-security nexus).
 - ❌ India's FATF status has always been "regular follow-up." -> This is
-  the outcome of the specific June 2024 Mutual Evaluation; do not assume
+  the outcome of the specific 19 September 2024 Mutual Evaluation; do not assume
   it as a permanent or historical status without the dated evaluation.
 - ❌ PMLA's exact scheduled-offence count and MLAT-country count in this
   book reflect the current numbers. -> These are book-period figures;
@@ -229,11 +226,11 @@ folder maps onto.
 
 ## 8. 📰 Current anchor
 
-- 📰 FATF's **June 2024 Plenary** (Singapore) adopted the Mutual Evaluation
-  Report of India, placing it in **"regular follow-up"** — FATF's top
-  ongoing-compliance category, shared at that Plenary by only four other
-  G20 countries (France, Italy, Russia, UK). India must submit a progress
-  report back to a FATF Plenary in 2027. The report
+- 📰 FATF published its Mutual Evaluation Report of India on **19 September
+  2024**, placing it in **"regular follow-up"**. This is a
+  post-evaluation reporting category, not a ranking or FATF-list status.
+  India must submit a progress report back to a FATF Plenary in 2027. The
+  report
   praised India's risk understanding, asset confiscation and beneficial-
   ownership transparency, while recommending faster resolution of pending
   money-laundering/terror-financing prosecutions.
@@ -248,7 +245,7 @@ folder maps onto.
 - ⚠️ No 2024-2025 question directly names this topic. Use its
   placement-layering-integration/TBML framework as the financial-
   mechanism component of any answer on terrorism (2025 Q9) or narco-
-  terrorism (2024 Q9, topic 11), citing the June 2024 FATF evaluation as
+  terrorism (2024 Q9, topic 11), citing the 19 September 2024 FATF evaluation as
   the current institutional-credibility anchor.
 
 ## 10. Mains angles
@@ -274,7 +271,73 @@ folder maps onto.
 - ⚠️ **Mains (15 marks):** Assess India's FATF Mutual Evaluation outcome
   (2024) and the recommendations for strengthening its AML/CFT framework.
 
-## 12. Study links
+## 12. Core answer architecture — financial channels, disruption and adjudicated outcome
+
+> **Core firewall:** This Core section independently supports the 2021 and
+> 2023 Mains routes. Advanced material may deepen virtual-asset and
+> jurisprudential analysis but is not paper-essential.
+
+### Demand decoder and thesis
+
+**Thesis:** Terror financing and money laundering intersect but solve
+different problems: financing provides value for a terrorist purpose,
+whereas laundering disguises criminal proceeds. India’s framework can
+disrupt funds early, but the marks-worthy assessment distinguishes
+detection, provisional action, prosecution and confiscation.
+
+### Executable Core spines
+
+**10 marks — technology/globalisation and anti-money-laundering (2021).**
+Map channels, not buzzwords: rapid cross-border transfers/complex
+corporate ownership, trade documentation/TBML and virtual-asset service
+providers. Match each with FIU-IND reporting/financial intelligence,
+beneficial-owner and trade-data scrutiny, PMLA reporting obligations and
+FATF/international cooperation. Add the limiting point: technical
+monitoring without predicate-offence investigation and Special-Court
+capacity cannot deliver adjudicated outcomes.
+
+**15 marks — terror-funding sources and FATF compliance (2023).** Start
+with a funding-source comparison: external sponsorship/donations and
+charities; extortion/parallel taxation; narcotics/FICN/organised-crime
+proceeds; and potentially lawful-origin money diverted to terror.
+Trace: reporting entity → FIU analysis → competent investigation →
+PMLA/UAPA action → court. Use UAPA section 51A as the listing-linked
+freezing route and PMLA as the proceeds/predicate-offence route. Finish
+with FATF’s balanced evaluation.
+
+**20 marks — attachment versus conviction.** Use the four-stage property
+ladder, then evaluate whether disruption capacity is paired with
+adjudicated resolution. Conclude that timely, fair prosecution is both a
+rights safeguard and an AML/CFT effectiveness measure.
+
+### FATF status correction
+
+FATF’s official India Mutual Evaluation page is dated **19 September
+2024**, not a June 2024 Singapore-Plenary formulation. It placed India in **regular
+follow-up** and requires a report back to Plenary in three years. This is
+a post-evaluation reporting category, **not** a grey/black-list status or
+an unqualified score. FATF credited risk understanding, financial
+intelligence, beneficial-ownership access and asset recovery, while
+calling for conclusion of pending ML/TF trials, appropriate sanctions and
+risk-based non-profit outreach.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Finance follows diverse threat models. | J&K external/diaspora route; North-East/LWE extortion route; narcotics/FICN nexus. | The best intervention depends on source and movement channel. | Do not infer a present funding network from a book-period group description. |
+| PMLA and UAPA section 51A are distinct tools. | PMLA predicate scheduled offence and FIU/ED chain; UAPA section 51A listing-linked freeze/seize/attach route. | One targets proceeds/laundering; the other can act preventively on listed assets. | Neither a freeze nor a provisional attachment is a conviction/confiscation. |
+| FATF assessment identifies a prosecution-stage issue. | FATF MER, 19 September 2024. | Detection/asset action and completed trial/sanction must be evaluated separately. | “Regular follow-up” does not mean the system has no remaining weakness. |
+| Crypto/VDA risk needs a named regulatory pathway. | PMLA reporting-entity obligations for VDA service providers; Economy cross-link. | It can be discussed as an AML/CFT channel without conflating crypto with every laundering transaction. | Current registration/enforcement statistics need a dated FIU-IND/MoF source. |
+
+### Direct PYQ routes now owned in Core
+
+- **2021 GS-III:** use channel → control → limitation; do not treat
+  globalisation as an explanation by itself.
+- **2023 GS-III:** compare funding sources, map PMLA/UAPA/FATF and end on
+  prosecution quality, not attached-asset rhetoric.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/10_Terror-Financing-Money-Laundering-and-FATF.md`.
@@ -284,3 +347,26 @@ folder maps onto.
   funding-institutional-response chain; topic 11 for narco-terrorism and
   organised-crime's overlapping financial nexus; topic 12 for ED/FIU-IND's
   place in the wider agency architecture.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2021, 2023
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2021 | GS-III | 9 | Emerging technologies and globalisation contribution to money laundering prevention | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 20 | Major terror funding sources in India and FATF compliance efforts | Discuss · 15 marks · 250 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Emerging technologies and globalisation contribution to money laundering prevention
+- Major terror funding sources in India and FATF compliance efforts
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

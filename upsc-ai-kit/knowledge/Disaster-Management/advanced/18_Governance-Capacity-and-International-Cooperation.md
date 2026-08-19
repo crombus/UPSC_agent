@@ -174,8 +174,9 @@ genuine localisation gap in the governance-accountability chain.
   cooperation answer because it is the one post-Sendai initiative with a
   **date, a lead-agency division of labour and a measurable coverage
   metric** — and because India, as an established provider of regional
-  warning services (ITEWC serving 26 Indian Ocean-rim countries, topic
-  `06`), is positioned as a contributor rather than only a recipient.
+  IOTWMS warning services (topic `06`), is positioned as a contributor
+  rather than only a recipient. ⚠️ Use INCOIS's current recipient roster
+  for any country count.
 - 📰 For **CDRI**, cite its own dated publications: **58 member countries
   and 12 member organisations** as of June 2026, headquartered in New
   Delhi with international-organisation status from an August 2022

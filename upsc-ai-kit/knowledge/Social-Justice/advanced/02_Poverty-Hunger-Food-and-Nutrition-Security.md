@@ -7,7 +7,7 @@
 > interpretation.
 > **Grounded in:** NFSA, 2013; PMGKAY-NFSA merger and free-foodgrain policy
 > (1 Jan 2023, extended to Dec 2028); Poshan 2.0 guidelines (MWCD); PM POSHAN (MoE);
-> NFHS-5 (2019-21), the latest published national nutrition round as at 21 July 2026;
+> NFHS-6 (2023-24), released 29 May 2026, with NFHS-5 as comparator;
 > 2024 GS-II PYQ Q7.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md`.*
@@ -171,10 +171,9 @@ access but not dietary diversity or the first-1000-days critical window.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **Survey-status check (21 July 2026):** NFHS-5 (2019-21) remains the latest
-  published national round. Its under-five baseline is stunting 35.5%, wasting 19.3%
-  and anaemia (6–59 months) 67.1%; retain that round beside each figure rather than
-  treating an unreleased NFHS-6 as current evidence.
+- 📰 **Survey-status check (29 May 2026):** NFHS-6 (2023-24) is released; reported
+  under-five stunting is 29.3%, against 35.5% in NFHS-5. Retain each survey round and
+  do not splice indicators from different rounds into one baseline.
 - 📰 **Free-foodgrain policy:** NFSA foodgrains have been distributed free of cost
   to AAY/priority-household beneficiaries since 1 January 2023 (PMGKAY merged
   into NFSA, replacing the earlier ₹1-3/kg Central Issue Price payment), and the

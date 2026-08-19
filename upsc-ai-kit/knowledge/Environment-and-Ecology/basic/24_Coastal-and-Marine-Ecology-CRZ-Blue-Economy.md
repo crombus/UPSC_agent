@@ -254,27 +254,65 @@ coast.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Direct demand — seawater intrusion (2025 GS-III, 10 marks)
+
+**Thesis:** seawater intrusion is a hydraulic-balance failure: when freshwater head falls through over-extraction or reduced recharge, saline water moves landward/upward; sea-level rise and coastal engineering compound the risk but should not displace pumping as the primary causal driver.
+
+| Cause | Mechanism | Remedy and qualification |
+|---|---|---|
+| Groundwater over-extraction | Freshwater head drops and saline interface advances. | Meter/regulate extraction, shift demand/crops and maintain aquifer budgets; desalination supplies water but does not itself restore the aquifer. |
+| Reduced recharge/surface sealing and damaged recharge zones | Less freshwater replenishes the coastal aquifer. | Rainwater harvesting, managed aquifer recharge and protection of recharge areas; use only clean, hydrogeologically suitable recharge. |
+| Sea-level rise, tidal-creek/canal modification and saline aquaculture leakage | Increase boundary pressure/pathways. | Salinity monitoring, well-field siting, injection/recharge barriers and carefully designed physical barriers; avoid treating a barrier as universal. |
+
+**150-word spine:** define hydraulic gradient → rank causes → group remedies as demand, recharge and barrier/monitoring → close with aquifer-scale governance linked to Topic 14.
+
+### 13.2 Coastal/Blue Economy 15–20 mark spine
+
+Use `ecosystem service → pressure → legal/institutional response → livelihood/justice → trade-off`. Evidence units: **mangroves/MISHTI** for green coastal infrastructure; **CRZ 2019** for development–buffer tension; **coral bleaching plus acidification** for compounding stress; **Deep Ocean Mission** for innovation with deep-sea ecological uncertainty. Keep CRZ, EEZ, protected area and Ramsar status as separate legal categories.
+
+### 13.3 Historical coastal-demand bank
+
+| Demand family | Mechanism-led Core route | Evidence/qualification |
+|---|---|---|
+| Marine dead zones | Nutrient-rich sewage/runoff → algal bloom → microbial decomposition → low dissolved oxygen/hypoxia → fisheries and food-web loss. | Pair wastewater treatment and nutrient stewardship with monitoring; do not call every low-oxygen coastal patch a permanent “dead zone” without measured data. |
+| Mangrove depletion | Aquaculture, ports, reclamation and altered freshwater/sediment flows remove a nursery, shoreline-buffer and blue-carbon ecosystem. | **MISHTI** is a dated restoration programme target/estimate, not proof that lost natural mangrove function has already been restored. |
+| Coastal sand mining/erosion | Removing sand changes a beach–dune–nearshore sediment budget, weakening natural buffers and affecting habitat; hard structures can transfer erosion down-drift. | Use zonation, sediment-budget assessment, regulated extraction, dune/mangrove restoration and site-specific engineering; do not prescribe seawalls as a universal cure. |
+| Oil pollution | Oil coats shore and biota, affects birds/fish and can damage mangroves/coral; response needs containment, recovery, waste handling and habitat restoration. | Prevention, port/vessel compliance and contingency preparedness matter because post-spill cleanup cannot fully reverse ecological injury. |
+
+**Prelims micro-card:** **Biorock** uses a low-voltage electric current around a submerged metal frame to promote mineral accretion that can provide a substrate for coral restoration. It is a restoration technique, not a substitute for reducing heat, acidification and local pollution stress.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2021, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Years represented:** 2018, 2019, 2021, 2022, 2023
+- **Paper(s):** GS-I, GS-III, Prelims GS-I
+- **Routed question demands:** 7
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2018 | GS-I | 7 | Consequences of spreading marine dead zones | What are the consequences · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-I | 5 | Causes of mangrove depletion and their coastal ecology role | Discuss and explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-III | 7 | Coastal sand mining threats and impacts on Indian coasts | Analyse · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | Prelims GS-I | 19 | Blue carbon and coastal ecosystem carbon capture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | GS-III | 18 | Causes effects and management techniques for coastal erosion India | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 49 | Biorock technology application in coral reef restoration | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | GS-III | 8 | Oil pollution impacts on marine ecosystem and India vulnerability | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
+- Consequences of spreading marine dead zones
+- Causes of mangrove depletion and their coastal ecology role
+- Coastal sand mining threats and impacts on Indian coasts
 - Blue carbon and coastal ecosystem carbon capture
+- Causes effects and management techniques for coastal erosion India
 - Biorock technology application in coral reef restoration
+- Oil pollution impacts on marine ecosystem and India vulnerability
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

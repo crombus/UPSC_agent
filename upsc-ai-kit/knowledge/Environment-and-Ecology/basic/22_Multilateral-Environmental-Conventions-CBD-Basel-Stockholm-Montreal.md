@@ -214,26 +214,48 @@ the specific COP year for any listed-chemical or target claim.
   Convention obligations.
 - ✅ `17_Climate-Change-Science-Greenhouse-Effect.md` — HFCs' role as potent greenhouse
   gases under the Kigali Amendment.
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- First state the **environmental object**, then its mechanism: biodiversity/ABS; hazardous-waste movement; POP chemical controls; ozone-depleting-substance phase-down.
+- **Thesis:** convention performance depends on fit between problem, bindingness, finance, monitoring and domestic translation; one treaty’s success cannot be copied mechanically to a different problem.
+
+### 13.2 Reusable comparative evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Subject and mechanism are not interchangeable. | **CBD three objectives/Nagoya ABS; Basel PIC; Stockholm Annex A/B/C; Vienna–Montreal phase-out** → prevents treaty-name fact dumping. | Do not call Basel a chemical-production ban or Montreal a standalone convention. |
+| Design helps explain Montreal’s relative success. | **Binding schedules + Multilateral Fund + bounded substance list + Kigali adaptation** → connects compliance support and adaptability. | “Successful” does not mean every ozone/climate problem is solved or that HFCs are ozone-depleting. |
+| Information changes benefit-sharing. | **CBD COP16 Cali Fund/DSI and India’s 2025 ABS Regulations** → shows genetic information can bypass a physical-sample access model. | A fund’s establishment is not evidence of completed distribution to communities. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** a four-row comparison table with one mechanism and one trap per treaty.
+- **15/20 marks:** compare Montreal’s bounded problem/finance/schedule with CBD/Basel/Stockholm limits; add India’s domestic legal translation and a differentiated conclusion.
+- **Status discipline:** distinguish party, protocol, annex/appendix, adopted COP decision, proposed listing and implementation outcome. Verify current COP/listing claims against the relevant Secretariat.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
+- **Years represented:** 2018, 2023
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 4
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 17 | Biodiversity variation in India and Biological Diversity Act 2002 | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 20 | Hydrofluorocarbons uses aerosols foam fire retardants lubricants | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 59 | Mercury pollution sources gold mining coal plants health | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 79 | Biodiversity Management Committees Nagoya Protocol access benefit sharing | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- Biodiversity variation in India and Biological Diversity Act 2002
 - Hydrofluorocarbons uses aerosols foam fire retardants lubricants
 - Mercury pollution sources gold mining coal plants health
 - Biodiversity Management Committees Nagoya Protocol access benefit sharing

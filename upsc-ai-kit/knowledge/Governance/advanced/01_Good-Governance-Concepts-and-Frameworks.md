@@ -41,7 +41,7 @@ process, or treating a normatively correct process as sufficient without measura
 |---|---|
 | ✅ **Government vs governance vs good governance** | Government = formal authority-holders; governance = the process of collective decision-making by state and non-state actors; good governance = governance evaluated against normative standards (rule of law, accountability, transparency, responsiveness). |
 | ✅ **WGI's perception-based method** | WGI dimensions are built from aggregated perception surveys and expert assessments, not solely administrative data — meaning scores reflect *perceived* quality, with margins of error, not a single ground-truth measurement. |
-| ✅ **GGI's sectoral-diagnostic method** | GGI 2021 groups states/UTs into three comparison categories and scores them sector-wise. It is a periodic diagnostic, not an annual constitutional/statutory ranking; the edition and indicator set must accompany any comparison. |
+| ✅ **GGI's sectoral-diagnostic method** | **GGI 2019 used three groups; GGI 2020-21 used four: Other States Group A, Other States Group B, North-East and Hill States, and Union Territories.** It is periodic, not annual; the edition and indicator set must accompany any comparison. |
 | ⚠️ **Index vs principle-based evaluation** | An index (WGI/GGI) enables comparison and benchmarking but can incentivise gaming indicators; a principle-based framework (UNDP/ARC) resists gaming but is harder to operationalise into a single comparable score. |
 | ⚠️ **Governance vs development administration** | Good governance is a quality standard applicable to any state function; development administration is a specific administrative orientation (deliberately transformative) — the former is broader and can apply even where no development mandate exists (e.g., regulatory or law-and-order governance). |
 
@@ -68,7 +68,7 @@ process, or treating a normatively correct process as sufficient without measura
 - ⚠️ **Perception-measurement gap:** WGI's perception basis means a state can improve
   administrative practice while its WGI-equivalent perception score lags, or vice versa,
   especially where media visibility differs from administrative reality.
-- ⚠️ **Federal comparability problem:** GGI's own three-category grouping (big states,
+- ⚠️ **Federal comparability problem:** GGI's edition-specific grouping
   NE & hill states, UTs) implicitly concedes that a single all-India ranking would understate
   structural differences in capacity and geography — a design choice examiners can ask you
   to evaluate.
@@ -111,8 +111,8 @@ process, or treating a normatively correct process as sufficient without measura
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ GGI groups states/UTs into three comparison categories: bigger states, north-eastern
-  and hill states, and Union Territories — not one composite all-India list.
+- ✅ GGI grouping is edition-specific: GGI 2019 used three groups; GGI 2020-21 used four —
+  Other States Group A, Other States Group B, North-East and Hill States, and UTs.
 - ✅ WGI's six dimensions are built substantially from perception-based aggregated data
   sources, not solely objective administrative statistics.
 - ✅ DARPG operates under the Ministry of Personnel, Public Grievances and Pensions and is
@@ -132,9 +132,10 @@ process, or treating a normatively correct process as sufficient without measura
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **Status checked 21 July 2026:** the latest national edition located on DARPG is
-  GGI 2021. A later district index, workshop or state-specific exercise is not a replacement
-  for a national GGI edition. Recheck DARPG before using any rank.
+- 📰 **Status checked 13 August 2026:** the latest completed national edition located on
+  DARPG is **GGI 2020-21, released 25 December 2021**. A later district index, workshop or
+  state-specific exercise is not a replacement for a released national GGI edition. Recheck
+  DARPG before using any rank.
 
 ## 10. PYQ-based analytical application
 

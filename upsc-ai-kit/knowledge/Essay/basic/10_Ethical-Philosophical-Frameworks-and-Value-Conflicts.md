@@ -5,7 +5,7 @@
 > **Core area:** Applying ethics, constitutional values and Indian
 > thought as analytical lenses on value conflicts, without name-dropping
 > thinkers or duplicating Ethics-module theory.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Section 7; `Ethics`
 > module (for full thinker/theory depth).
 > **Research cutoff:** 18 July 2026.
@@ -33,6 +33,19 @@ domain.
 - **Name-dropping:** citing a thinker or school by name as a substitute
   for actually explaining the reasoning, rather than as a genuine
   analytical lens.
+
+### Compact ethical framework
+
+Use a category only when it clarifies the prompt's actual tension; this
+is an essay lens, not a licence to list theories.
+
+| Category | Plain-language question | Typical scale | Boundary |
+|---|---|---|---|
+| **Rights / dignity** | Whose basic claim must not be treated merely as a cost? | Individual | A right still needs fair institutions and feasible remedies. |
+| **Welfare** | What course prevents the greatest avoidable harm or expands shared well-being? | Institution / state | Aggregate benefit must not erase a concentrated burden. |
+| **Fairness** | Who receives the benefit, who bears the cost, and is that distribution defensible? | Community / state | Equal treatment may not repair unequal starting positions. |
+| **Care** | What duty follows from dependency, vulnerability or relationship? | Family / community / institution | Care must not become paternalistic control. |
+| **Ecological responsibility** | What cost is shifted to future generations or non-human systems? | Intergenerational / global | Present livelihoods cannot be dismissed as morally irrelevant. |
 
 ## 3. ✅ Exam facts / source basis
 
@@ -64,6 +77,10 @@ substantive.
 4. Can I state my reasoned priority in one sentence, with its condition
    attached?
 5. Does my resolution avoid treating either value as simply wrong?
+6. **Voiceless-stakeholder test:** whose interests are not represented in
+   the immediate choice — future generations, an excluded group, or a
+   non-human system — and would the priority change if its cost were
+   counted?
 
 ## 6. Dimension-expansion grid
 
@@ -72,6 +89,22 @@ substantive.
 | 2024-B6 "Power tests character." | Accountability/restraint vs. autonomy/discretion | Discretion should be bounded by institutional accountability where power affects others' rights; personal restraint matters most where oversight is weak |
 | 2025-B8 "Contentment… luxury." | Sufficiency vs. legitimate aspiration | Contentment should not be demanded of those below a basic sufficiency threshold; beyond that threshold, restraint on status-driven consumption is reasonable |
 | 2025-B5 "Muddy water… leaving it alone." | Restraint vs. timely intervention | Restraint where disturbance would worsen an already-settling situation; intervention where inaction causes ongoing, escalating harm |
+
+### Worked conflict paragraph — power and accountability
+
+> **Claim and conflict:** Power needs enough discretion to act, but where
+> its exercise changes another person's rights, fairness requires
+> accountability. **Evidence:** the Right to Information Act, 2005,
+> locally verified in `12`, enables citizen scrutiny of public authority;
+> it makes the case that character is tested not only inside an office
+> holder but in the reasons an institution can defend. **Counterclaim:**
+> complete exposure can impair candid deliberation and neglect legitimate
+> privacy. **Voiceless-stakeholder test:** the affected citizen has less
+> access to the decision-maker's information and must not disappear from
+> the balance. **Synthesis:** prefer transparent, reviewable reasons where
+> public rights are affected, while protecting narrowly justified private
+> or sensitive interests; transparency alone, however, cannot guarantee
+> enforcement or virtue.
 
 ## 7. India-first illustration starters
 
@@ -127,9 +160,9 @@ in for the explanation? If the latter, add the explanation or remove the
 name.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
-## Recent PYQ Integration (2024-2025)
+## V1 PYQ Integration (2018-2025)
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Status:** V1 question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
 
 - **Years represented:** 2024
@@ -138,7 +171,7 @@ name.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2024 | Essay | Section A - 1 | Forests precede civilizations and deserts follow them | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section A - 1 | Forests precede civilizations and deserts follow them | Essay · 125 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
 
 ### What this owner must now support
 

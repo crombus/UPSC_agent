@@ -77,6 +77,42 @@
 - ⚠️ Use Sangam as a case of **regional state formation**: ecology, warriors, trade and poetic patronage together.
 - ⚠️ Explain how archaeology supports and corrects literature: megaliths, Arikamedu, Keeladi and coins give material control.
 - ⚠️ Write the Deep South as part of Indian Ocean history, not as a peripheral appendix to north India.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The Sangam age reveals an early Tamil world of chiefdoms, trade and social differentiation, not a timeless literary romance." |
+| Critically examine | "Sangam literature is invaluable for reconstructing early south India, but it must be read as poetic-social evidence rather than as literal court chronicle." |
+| Compare / evaluate | "A good answer compares Sangam Tamilakam with the northern state tradition by highlighting ecology, lineage power, ports and heroic exchange." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** landscape and livelihood -> chieftainship -> port trade -> social order
+- **For comparison Qs:** North Indian state formation vs Sangam chiefdom-port world
+- **For evaluate Qs:** evidentiary richness -> literary caution -> balanced verdict
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Sangam texts preserve a real political-social world | ✅ Chera-Chola-Pandya references and gift-war ethos | Gives early south India a concrete historical frame | Poems are not date-fixed chronicles |
+| 2 | Ecology structured social experience | ✅ Tinai landscape classification | Links environment and livelihood | Literary convention may idealise reality |
+| 3 | Ports connected Tamilakam outward | ✅ Muziris, Puhar and Korkai | Ties the region to Indian Ocean trade | Literary and archaeological evidence must be cross-read |
+| 4 | Martial honour coexisted with social differentiation | ⚠️ Heroic death memory and Vattakirutal references | Useful for value-system questions | Elite-poetic sources underrepresent common life |
+
+### Counterpoint and balance
+
+- Avoid presenting Sangam society as either stateless or fully bureaucratic.
+- Do not treat every poetic motif as a direct event-report.
+
+### Verdict framing
+
+- Conclude that Sangam Tamilakam was a historically grounded chiefdom-trade society with distinctive ecological and literary articulation.
+- A nuanced ending should pair evidentiary richness with source caution.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

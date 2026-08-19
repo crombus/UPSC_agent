@@ -204,42 +204,60 @@ timeline explains the topic better.
 - Whitespace is acceptable when it improves hierarchy, but accidental gaps
   caused by broken pagination must be corrected.
 
-## 7. Content Architecture
+## 7. Philosophy-Only Layered Content Architecture
 
-A strong topic PDF normally contains three or four cards:
+The commands `Notes`, `Philosophy Notes: <Topic>`, `Export PDF`, and
+`Export Philosophy PDF: <Topic>` use the following order for every logical
+Philosophy subtopic:
 
-### Card 1 - Master map
+### Layer 1 - SIMPLE START
 
-- identity and place in the syllabus;
-- central thesis;
-- complete doctrine mind map;
-- one causal chain;
-- source caution;
-- memory hook;
-- cross-school links.
+- teach the idea in plain language before technical exposition;
+- lead with an ASCII flow, concept map, comparison table, analogy box or
+  labelled diagram;
+- state one memorable sentence and define the immediate learning problem;
+- do not remove the deeper treatment that follows.
 
-### Card 2 - Core doctrine
+### Layer 2 - CORE UPSC
 
-- detailed explanation of the principal syllabus demand;
-- technical vocabulary table;
-- argument flow;
-- examples and analogies;
-- must-know facts;
-- traps.
+- explain the complete doctrine and every relevant syllabus sub-part;
+- introduce technical and Sanskrit terminology with plain meanings;
+- reconstruct arguments step by step;
+- include source grounding, examples, analogies and essential distinctions.
 
-### Card 3 - Remaining dimensions
+### Layer 3 - ADVANCED
 
-- metaphysics, self, ethics, liberation or other topic-specific dimensions;
-- comparison with relevant Indian schools;
-- criticism and defence.
+- present the strongest objections and the school's best replies;
+- include intra-school, inter-school and Indian-Western comparisons;
+- discuss source uncertainty, interpretive disputes and unresolved problems;
+- end with a qualified philosophical evaluation.
 
-### Card 4 - PYQs and answer writing
+### Layer 4 - EXAM APPLICATION
 
-- recent PYQ routes;
-- 10-mark and 15/20-mark structures;
-- opponent's arguments;
-- balanced evaluation;
-- conclusion formula.
+- route every relevant verified PYQ to the doctrine it tests;
+- decode directive words and the precise demand;
+- include answer spines for 10, 15 and 20 marks;
+- provide solved answers or model points appropriate to the deliverable.
+
+### Layer 5 - RAPID REVISION
+
+- consolidate must-know facts, technical terms, traps and memory hooks;
+- include concise register notes covering the complete subtopic;
+- include MCQs with explanations and strict A -> B -> C -> D key rotation;
+- keep the final consolidated register notes at the end of the complete session.
+
+Implementation cards, panels and diagrams may still be used inside each layer,
+but they must serve this learning order rather than replace it.
+
+### Command deliverables
+
+- `Philosophy Notes: <Topic>` or Philosophy-session `Notes`: one complete
+  layered notes PDF plus reusable layered Markdown.
+- `Export Philosophy PDF: <Topic>` or Philosophy-session `Export PDF`: layered
+  main PDF, separate premium solved workbook and reusable layered Markdown,
+  followed by export tracking.
+- When adapting an existing session, preserve every substantive detail. Reorder
+  into layers and add simple gateways without summarising or deleting content.
 
 ## 8. PDF Data Schema
 

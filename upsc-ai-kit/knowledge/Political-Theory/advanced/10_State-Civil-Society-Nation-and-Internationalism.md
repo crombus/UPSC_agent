@@ -104,7 +104,7 @@ COMMON TEST: equal citizenship + liberty + dignity
 - ✅ **Machiavelli:** early modern articulation of the state as authority over men rather than a purely moral ideal. (PDF p.148)
 - ✅ **Max Weber:** the state is defined by its specific means, namely the successful claim to legitimate physical force within a territory. (PDF p.148)
 - ✅ **MacIver:** the state includes the whole organization of citizens, laws and constitution, while government is merely its administrative organ. (PDF pp.149, 156)
-- ✅ **Laski:** the state differs from voluntary associations because residence brings binding obedience. (PDF p.149)
+- ✅ **Laski:** the state differs from voluntary associations because residence brings binding obedience. (PDF p.149) ❌ **Do not read this as a monist position.** This is Laski's *definitional* point about compulsory (non-voluntary) membership and territorial jurisdiction, not an endorsement of absolute or omnipotent sovereignty. Laski is a leading **pluralist** critic of the Austinian sovereign: in *A Grammar of Politics* (1938) he attacks absolute sovereignty on historical, external/international and federal-organisational grounds, distinguishes the state from the fallible government that exercises its powers, and argues that because society is federal (an association of associations) authority must be federal too — coordinative and functionally shared rather than hierarchical. ✅ Reconcile with `Political-Theory/basic/11_Sovereignty-and-Pluralism.md` §6 and its argument-reconstruction section before using Laski in any sovereignty answer (PDF pp.201-203).
 - ✅ **Hegel:** civil society is the sphere of universal egoism and the state the sphere of universality; his idealist elevation of the state risks over-subordination of the individual. (PDF pp.154, 156-157)
 - ✅ **Marx:** civil society under capitalism reflects bourgeois power despite formal legal equality; state and law reproduce class interest. (PDF p.155)
 - ✅ **Gramsci:** civil society manufactures consent and legitimation while political society organizes coercion; together they stabilize domination. (PDF p.155)
@@ -200,7 +200,7 @@ COMMON TEST: equal citizenship + liberty + dignity
 
 - ✅ Direct Gauba source window read across PDF pp.147-176.
 - ✅ Direct supplementary source read across *Socio-Political Philosophy*, PDF pp.144-159.
-- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Especially used: meaning/elements of state (PDF pp.148-152), state-society-civil society-government (PDF pp.153-157), nation/nationality/self-determination (PDF pp.157-158), nation-state evolution (PDF pp.159-163), nationalism/internationalism (PDF pp.164-169), advanced industrial and Third World trends plus contemporary civil society (PDF pp.169-176).
 - ⚠️ All matrices and prompts are exam-oriented syntheses built from those passages.
 - ✅ Companion path in this folder: `Political-Theory/basic/10_State-Civil-Society-Nation-and-Internationalism.md`.

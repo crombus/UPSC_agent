@@ -26,9 +26,10 @@ FUNDS FLOW TO: CAMPA (Compensatory Afforestation Fund Management and Planning Au
                              forest regeneration, wildlife
                              management, infrastructure)
 
-SEPARATELY: GREEN INDIA MISSION (GIM) - one of the 8 NAPCC missions -
-  targets forest/tree-cover QUALITY improvement and ecosystem-service enhancement,
-  not only quantity-replacement for diverted forest land.
+SEPARATELY: GREEN INDIA MISSION (GIM) - one of NAPCC's original 8 missions
+  (NAPCC is now described by Government as 9 missions, with health added) - targets
+  forest/tree-cover QUALITY improvement and ecosystem-service enhancement, not only
+  quantity-replacement for diverted forest land.
 ```
 
 **Core proposition:** CAMPA is a compensatory financial mechanism specifically tied to
@@ -118,8 +119,9 @@ instruments with different triggers and objectives.
   funded by user-agency payments (Net Present Value plus compensatory-afforestation cost).
 - ✅ The Compensatory Afforestation Fund Act, 2016 established the National and State
   Compensatory Afforestation Funds and CAMPA's statutory governance structure.
-- ✅ The Green India Mission is one of the eight missions under the National Action Plan on
-  Climate Change (NAPCC).
+- ✅ The Green India Mission is one of the **eight original** missions under the National
+  Action Plan on Climate Change (NAPCC); the Government now describes NAPCC as operating
+  through nine missions, with health added.
 - ✅ The **Forest (Conservation) Act, 1980 was renamed the Van (Sanrakshan Evam Samvardhan)
   Adhiniyam, 1980** by the Forest (Conservation) Amendment Act, 2023, which also defined the
   land categories covered and created border-area/strategic-project and rail/road-side
@@ -233,6 +235,34 @@ utilisation performance.
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Start with the trigger: **forest diversion → user-agency payment → CAF/CAMPA**. Contrast it with **GIM’s broader ecosystem-service mission** before evaluating either.
+- **Thesis:** CAMPA can finance mitigation of diversion, but neither a fund balance, a plantation nor a green credit is evidence that a mature ecosystem has been replaced.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| The instrument is legally triggered, not a general greening programme. | **Van (Sanrakshan Evam Samvardhan) Adhiniyam/forest-diversion approval + NPV and compensatory-afforestation payments** → explains CAMPA’s source of funds. | The 2023 statutory scope and the February 2024 interim *Godavarman* direction must be read together; do not state either as the whole law. |
+| Offset accounting has an ecological limit. | **Mature forest diversion versus new compensatory plantation** → succession, soil, species composition and location make like-for-like replacement difficult. | This critiques equivalence, not the need for restoration finance. |
+| Metrics measure different things. | **CAF accrual, green-credit action and ISFR canopy** → money, registered action and detected cover are separate outputs. | None independently proves ecological restoration achieved. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** show payment/fund flow, then contrast CAMPA and GIM.
+- **15/20 marks:** add native-biome/site-selection, FRA/Gram Sabha due diligence, independent survival/function monitoring and fund-utilisation timing.
+- **NAPCC discipline:** say **eight original missions; nine as currently described by Government with the health mission**. Do not claim that a historical eight-mission list has been legally replaced by a new NAPCC statute.
+
+### 13.4 2026 community-carbon micro-card
+
+**Khasi Hills Community REDD+ Project, East Khasi Hills, Meghalaya** is India’s first
+**Plan Vivo-certified REDD+** project (Plan Vivo project record; certification 2013). Use it
+to illustrate community-led forest-carbon conservation, traditional local governance and
+benefit-sharing. Do not infer a current carbon-credit volume, community-income share or
+ecological outcome without the relevant verified project monitoring period.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

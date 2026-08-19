@@ -144,8 +144,114 @@ conventional destruction and the emperor-system question.
 - ⚠️ "How did the Second World War transform world politics and society?"
 - ⚠️ "Examine the effects of the Second World War on colonial empires and the post-1945 order."
 
-## 10. Study link
+## 10. Answer architecture (10/15/20-mark support)
 
-> **Study link:** World-History -> `advanced/14_Second-World-War.md` for Axis-defeat debates, bombing controversy and Holocaust interpretations.
+> **Core-sufficiency note:** this file must independently support origins, course, genocide,
+> society-under-total-war and consequence demands. `advanced/14` adds the bombing controversy and
+> Holocaust historiography only.
+
+### 10.1 Directive and demand map
+
+| If the question says | It is really testing | Do NOT write |
+|---|---|---|
+| *Why early Axis victories but eventual defeat?* | Operational advantage vs strategic and material inferiority | A campaign narrative |
+| *Discuss the turning points* | Why each turning point mattered **systemically** | A list of battles |
+| *How did the war transform world politics and society?* | Institutional, imperial, social and moral consequences together | Politics only |
+| *Effects on colonial empires* | The mechanism of imperial delegitimation | "It caused decolonisation" |
+| *Total war / the Holocaust* | Genocide's specificity within the wartime order | Merging all wartime deaths |
+| *Compare with the First World War* | Mobility, scale, ideology, civilian targeting | Repeating WWI content |
+| *Europe and Asia linkage* | One war with two originating theatres | A Europe-only account |
+
+### 10.2 Qualified thesis templates
+
+- ⚠️ **Origins:** "The Second World War was not one war that spread but two regional wars — Japanese expansion in Asia from 1931/1937 and German expansion in Europe from 1939 — that were fused into one by the decisions of 1941."
+- ⚠️ **Defeat:** "The Axis lost because early operational brilliance could not compensate for strategic overreach, weaker resources and self-defeating occupation policies."
+- ⚠️ **Consequences:** "The war did not merely rearrange the great powers; it disqualified Europe from world primacy, made two non-European-centred superpowers, and made the moral legitimacy of empire and of racial hierarchy unsustainable."
+- ⚠️ **Holocaust:** "The Holocaust was not a by-product of the war but a state project pursued through it — which is why it must be analysed as policy, not as wartime excess."
+
+### 10.3 Mark-scaled structures
+
+| Marks | Structure |
+|---|---|
+| **10** | Thesis → **two** turning points **or two** reasons for Axis defeat → one consequence → verdict |
+| **15** | Thesis → phases → turning points → why the Axis lost → effects → verdict |
+| **20** | All of the above → **plus** total war and the Holocaust, resistance/collaboration, and the boundary/institutional consequences → verdict |
+
+### 10.4 Evidence bank A — origins and the Europe–Asia link (multi-causal)
+
+| Strand | ✅ Evidence | ⚠️ Significance |
+|---|---|---|
+| **European revisionism** | ✅ Sept 1939: Germany and the USSR occupy Poland; ✅ the Nazi-Soviet Pact cleared the way (`basic/11`) | The immediate European origin |
+| **The failure of collective security** | ✅ Manchuria 1931, Abyssinia 1935, Rhineland 1936, Munich 1938, Prague 1939 (`basic/11`) | Permissive conditions accumulated over eight years |
+| **Asian origin, separate and earlier** | ✅ Japan occupied Manchuria in **1931** and expanded full-scale war in China from **1937** (`basic/12`) | The Asian war predates the European war — say so, or the answer is Eurocentric |
+| **The fusion, 1941** | ✅ Operation Barbarossa, 22 June 1941; ✅ Pearl Harbor, 7 Dec 1941; ✅ Hitler's declaration of war on the USA | Two regional wars become one global war within six months |
+| **Ideology as a cause of conduct** | ✅ Nazi racial policy and brutal occupation; ⚠️ war aims included racial reordering, not only territory | Explains why this war produced genocide and the First World War did not |
+
+### 10.5 Evidence bank B — turning points, stated as mechanisms
+
+| Turning point | ✅ Date | Mechanism (⚠️) |
+|---|---|---|
+| Battle of Britain | ✅ July–Sept 1940 | Denied Germany the single-front war it needed; ✅ radar warning, German range problems and the shift to bombing London mattered |
+| Barbarossa | ✅ 22 June 1941 | Created the multi-front war Hitler could not win |
+| Pearl Harbor | ✅ 7 Dec 1941 | Brought in decisive industrial and financial capacity |
+| Midway | ✅ June 1942 | Crippled Japanese carrier strength — carrier air power, not battleships, decided the Pacific |
+| El Alamein | ✅ Oct 1942 | Saved Egypt and the Suez Canal; began Axis expulsion from North Africa |
+| Stalingrad | ✅ Feb 1943 | Shattered the invincibility myth and opened the Soviet advance |
+| Battle of the Atlantic | ✅ 1939–43 | Convoy protection, radar and long-range aircraft kept Britain supplied and made all later offensives possible |
+| D-Day | ✅ 6 June 1944 | Opened the western front and forced a genuine two-front collapse |
+
+### 10.6 Evidence bank C — total war, genocide, resistance and collaboration
+
+| Dimension | ✅/⚠️ Evidence | Significance | Caution |
+|---|---|---|---|
+| **Total war** | ✅ Massive civilian bombing; industry, transport and food supply as military targets; whole societies mobilised; occupation and racial policy producing systematic atrocity | The war belongs in UPSC as history of society under extreme state violence, not only as military history | ⚠️ Do not give bombing casualty figures |
+| **The Holocaust** | ✅ Lowe's source-specific estimate of about **5.7 million** murdered Jews | The defining crime of the war and a state project pursued through the machinery of occupation | ⚠️ Estimates vary among historians; attribute the figure to Lowe |
+| **Other Nazi victim groups** | ✅ Roma, disabled people, Soviet prisoners of war, Poles, political opponents, homosexuals and others | Must be named separately | ⚠️ These groups must **not** be compressed into one undifferentiated Holocaust total |
+| **Resistance** | ✅ **Named anchors are available and should be used.** ✅ **Italian partisans** captured and shot Mussolini and took his body to Milan, where it was strung up by the feet in a public square; ✅ in occupied Norway the population resisted the invasion while ✅ local Nazis under **Vidkun Quisling** assisted the invaders; ⚠️ armed partisan and underground movements operated across occupied Europe and in Japanese-occupied Asia, tying down occupation forces and sustaining post-war political legitimacy | Gives agency to occupied societies, and gives an answer named evidence rather than an abstraction. ⚠️ The Mussolini case also shows resistance movements *executing* the political settlement, not merely harassing the occupier | ⚠️ **Bounded:** use only the named anchors above. Do not add movement names, commanders, operations, strengths or casualty figures — this folder sources none of those |
+| **Collaboration** | ✅ **Two named anchors are sourced.** ✅ **Vidkun Quisling** led the local Nazis who "gave the invaders every assistance" in Norway — the origin of the generic term for a collaborator; ✅ **Vichy France** was a functioning collaborationist authority whose forces were "technically on the same side" as the Axis, and which the Japanese persuaded "to allow them to occupy French" Indo-China; ⚠️ more generally, occupation regimes depended on local administrations, police and economic elites, and the choice between resistance, accommodation and collaboration divided occupied societies and shaped bitter post-war reckonings | ⚠️ Vichy is the decisive case because it shows collaboration operating through a *state*, with its own colonies and armed forces — which is why it had strategic consequences as far away as south-east Asia | ⚠️ **Bounded:** do not extend to other collaborationist regimes, parties or officials, and do not quantify collaboration or post-war purges |
+| **Why the pair matters analytically (⚠️)** | ⚠️ Resistance and collaboration are the same question asked of the same societies — occupation forced a choice, and both answers were common | Prevents a heroic-nation narrative and explains post-war purges, civil conflicts and the political legitimacy of post-war parties | ⚠️ Do not grade nations as brave or cowardly; the analytical point is the *structure of the choice* |
+| **Forced labour and displacement** | ✅ "Millions of decent, innocent men and women were driven into forced labour"; ✅ mass displacement and reconstruction are named among the war's effects | Population movement and coerced labour were primary, not incidental, features of the war | ⚠️ No figures are sourced here |
+| **Women in the Second World War (⚠️ bounded)** | ✅ What this folder sources directly is that **women were among those deported into forced labour** and among the victims of occupation atrocity; ⚠️ the wider wartime pattern — women drawn into war industries, services and agriculture on both sides, and the post-war argument about whether that changed their status — is the **same mechanism** this folder documents in full for the First World War, where ✅ "women in factories are named by Lowe as a defining feature of total war" (`basic/10` §8.5) | ⚠️ Use `basic/10` §8.5 as the sourced mechanism and 1939–45 as its intensification; the honest formulation is that total war repeatedly enlarged women's economic role faster than it enlarged their political rights | ⚠️ **Bounded gap, recorded honestly.** This folder's Second World War chapter supplies **no** country-level account of women's war work, no participation figures and no post-war status data. ❌ Do not invent them, and ❌ do not transfer British or American specifics into a Lowe-grounded answer. ✅ For the welfare-state consequence that did follow the war, use `basic/01` §9.3(i) (Beveridge, 1942) |
+
+### 10.7 Evidence bank D — consequences: boundaries, institutions, empire
+
+| Consequence | ✅ Evidence | ⚠️ Significance |
+|---|---|---|
+| Human and material loss | ✅ Enormous military and civilian deaths; destruction on a huge scale | The material basis of European weakness |
+| **No single Versailles-type peace** | ✅ Separate treaties rather than one all-inclusive settlement | A deliberate lesson learned from 1919 — but it also meant the European settlement was made by occupation and Cold War division, not by treaty |
+| Social change | ✅ Mass displacement, reconstruction and welfare-state pressures | The war made the post-war welfare state politically unavoidable |
+| Nuclear age | ✅ Hiroshima and Nagasaki introduced a new kind of deterrent threat | Redefines great-power conflict thereafter (`basic/15`) |
+| End of European dominance | ✅ Britain, France, Germany and Italy all weakened | The largest structural result |
+| Superpowers | ✅ USA and USSR emerged as the two dominant powers | Direct bridge to the Cold War |
+| **Decolonisation** | ✅ Japanese victories damaged the myth of European invincibility; ✅ Asian peoples were far less willing to return under European rule | The mechanism is **delegitimation plus European exhaustion**, not a single cause (see `basic/18`) |
+| United Nations | ✅ The UN emerged as successor to the League | Bridge to `basic/16` |
+
+⚠️ **Japan's surrender — mandatory caution:** ✅ Lowe foregrounds the atomic bombings and notes
+the controversy over Japanese peace feelers and expected Soviet entry; historians continue to
+debate the relative weight of the bombs, Soviet intervention, blockade, conventional destruction
+and the emperor-system question. Never present a single cause.
+
+### 10.8 Verdict scaffolds
+
+- **"Why did the Axis lose?"** → "Not at any one point but cumulatively: Germany opened fronts faster than it could resource them, Japan attacked the one power whose industrial capacity it could not match, and both governed conquered populations in ways that guaranteed hostility."
+- **"How did it transform world politics?"** → "It replaced a European states system with a bipolar one, made mass atrocity a matter of international law, and converted colonial rule from a costly asset into an untenable one."
+- **"Total war?"** → "The distinguishing feature was not scale but *targeting*: in 1939–45 the civilian population was not incidentally harmed but deliberately made an object of strategy and, in the Nazi case, of extermination."
+
+### 10.9 Factual-risk controls
+
+- ❌ Do not say the war was won by one battle or one ally. ✅ Lowe's account is multi-theatre and cumulative.
+- ❌ Do not give a Holocaust figure other than ✅ Lowe's approximately **5.7 million** murdered Jews, and always attribute it and note that estimates vary.
+- ❌ Do not merge Roma, disabled, Soviet POW, Polish and other victim groups into the Jewish death toll.
+- ❌ Do not give casualty totals for the war, for any battle, or for the atomic bombings.
+- ❌ Do not present a single cause of Japan's surrender.
+- ❌ Do not say France fell through cowardice. ✅ Blitzkrieg effectiveness, strategic surprise and Allied weakness explain it.
+- ❌ Do not say the war ended colonialism immediately. ✅ It accelerated decolonisation; struggle and transition still followed.
+- ✅ **Resistance and collaboration may now be named — but only these anchors:** ✅ **Vidkun Quisling** and the Norwegian local Nazis who assisted the invaders; ✅ **Vichy France** as a collaborationist authority, including its permission for Japanese occupation of French Indo-China; ✅ **Italian partisans** and the capture and execution of Mussolini. ❌ Do not name any other resistance movement, collaborationist regime, party, leader or operation, and ❌ do not supply strengths, casualties or purge figures for any of them.
+- ⚠️ **Wartime resistance is also the origin of post-war insurgency** — ✅ the Chinese communist guerrillas who had led the anti-Japanese resistance in Malaya turned on the British in 1948 (`basic/18` §7.5A). Use the link; do not extend it to unsourced cases.
+
+## 11. Study link
+
+> **Study link:** World-History -> `advanced/14_Second-World-War.md` for Axis-defeat debates, bombing controversy and Holocaust interpretations (optional).
 > **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the superpower rivalry that grew out of the wartime settlement.
+> **Study link:** World-History -> `basic/18_Decolonization-of-Africa-and-Asia.md` for the decolonisation this war accelerated.
 > **Study link:** Modern-Indian-History -> `basic/25_WWII-Cripps-Mission-and-Quit-India.md` and `basic/26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md` for Indian wartime and immediate postwar implications.

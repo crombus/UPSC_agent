@@ -149,6 +149,27 @@ exploration -> mining -> beneficiation / refining -> component manufacturing -> 
 - ✅ `18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md` — EV battery ecosystems are major drivers of critical-mineral demand.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — advanced materials and semiconductor-adjacent capabilities depend on strategic inputs.
 - ✅ `06_Defence-RandD-DRDO-and-Missile-Systems.md` — defence electronics and strategic systems deepen the materials-security argument.
+## Core answer architecture — critical materials and supply-chain sovereignty
+
+**Thesis choice.** A mineral occurrence is not a secure supply chain. Resource, reserve, mine, refining, component manufacture and recycling are separate steps with different economic, environmental and geopolitical risks.
+
+**10-mark spine.** Define the material category; draw the supply chain; name its technology use and one Indian institution/policy response; state the reserve-versus-resource and processing qualification.
+
+**15/20-mark spine.** Use **material function → extraction-to-component chain → India’s geological/industrial and overseas response → strategic/economic/environmental trade-offs → diversification/circularity verdict**.
+
+**Evidence units.**
+- **Claim:** rare earths and critical minerals are different categories → **rare earths are a defined 17-element group; criticality is a policy judgement of importance and supply vulnerability** → prevents false one-to-one lists in Prelims and Mains → **qualification:** a critical list can change by methodology and country; it is not a permanent geological class.
+- **Claim:** mining alone does not create technology autonomy → **exploration → mining → beneficiation → refining/separation → magnet/battery/component → recycling** → identifies the higher-value chokepoints in processing and manufacturing → **qualification:** a resource estimate or overseas acquisition does not prove economically recoverable reserves, domestic refining or reliable supply.
+- **Claim:** diversified strategy is more resilient than a single source → **GSI/Ministry of Mines exploration, KABIL-type overseas engagement, substitution, efficiency, recycling and stockpiling** → combines domestic and external risk management → **qualification:** mining expansion can damage water, land, livelihoods and biodiversity unless consent, safeguards and closure plans are credible.
+
+**Verdict.** Seek materials security through transparent geology, responsible processing, recycling and diversified partnerships rather than unqualified extraction targets.
+
+## Routed PYQ evidence — rare-earth use and carbon-fibre lifecycle
+
+- **Rare-earth use test:** rare-earth elements are used in applications such as permanent magnets, phosphors, catalysts and specialised optics/electronics; a use must be matched to the element/material function rather than treating every critical mineral as a rare earth.
+- **Monazite test:** monazite-bearing beach sands can contain rare-earth values and thorium. Geological occurrence, extraction policy, radiation controls, separation technology and commercial supply are distinct facts.
+- **Carbon fibre:** carbon-fibre composites offer high strength/stiffness at low weight and are used in aerospace, performance automobiles and other structures. Their recycling is difficult because fibres are commonly embedded in a polymer matrix; recovery quality, energy use and end-of-life economics qualify a simple “lightweight = sustainable” claim.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

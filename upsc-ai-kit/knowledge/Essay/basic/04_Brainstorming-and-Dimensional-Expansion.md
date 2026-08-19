@@ -5,8 +5,10 @@
 > **Core area:** Generating genuinely distinct dimensions from a decoded
 > prompt — scale, time, domain and effect-direction — without padding
 > with repetitive restatements.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Section 5.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Section 5.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../advanced/04_Brainstorming-and-Dimensional-Expansion.md`
@@ -61,6 +63,23 @@ say the same thing in different vocabulary.
    a restatement of another dimension's claim)?
 5. Which two or three dimensions, taken together, best support the
    thesis you are leaning toward (see `05`)?
+
+## 5a. Keep filter: coherence, evidence and limitation
+
+⚠️ Keep a dimension only when it passes every link in this chain:
+
+```text
+distinct claim
+  -> explains a mechanism
+  -> has a named, verifiable illustration
+  -> carries a relevant limit or counter-case
+  -> moves the same central thesis forward
+```
+
+Compare the final link across all kept dimensions. If one dimension does
+not help prove the same thesis, it is a parallel mini-essay, not useful
+breadth. If the illustration is not recallable safely, park the
+dimension rather than padding the essay.
 
 ## 6. Dimension-expansion grid
 

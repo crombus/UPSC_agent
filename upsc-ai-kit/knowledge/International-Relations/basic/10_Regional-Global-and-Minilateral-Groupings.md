@@ -3,7 +3,7 @@
 > **Subject:** International Relations | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II.
 > **Core area:** SAARC, BIMSTEC, ASEAN, IORA, SCO, BRICS, G20 and Quad —
 > membership, purpose and India's interest in each.
-> **Grounded in:** M. Laxmikant, *Indian Polity*; Rajiv Sikri, *Challenges and
+> **Grounded in:** M. Laxmikanth, *Indian Polity*; Rajiv Sikri, *Challenges and
 > Strategy*; Shashi Tharoor, *Pax Indica*; MEA BIMSTEC brief; BRICS Rio
 > Declaration; `00_Master-Framework.md` Section 2.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
@@ -159,6 +159,69 @@ obligations of membership — a distinction UPSC tests directly.
 
 ## 5. Indian applications and examples
 
+### NATO as an external grouping affecting India
+
+- ✅ NATO is a treaty alliance whose North Atlantic Council decides by consensus and
+  whose Article 5 establishes collective defence. Finland joined in 2023 and Sweden
+  became the 32nd member in March 2024.
+- ⚠️ India is neither a NATO member nor treaty ally. NATO expansion and Euro-Atlantic
+  consolidation affect India indirectly through Russia-West confrontation, defence and
+  technology alignments, sanctions pressure and the allocation of Western attention.
+- ⚠️ NATO must not be conflated with Quad: NATO is treaty-bound collective defence;
+  Quad is a non-treaty functional minilateral without an Article 5 commitment.
+- ⚠️ **Russia transmission:** post-2022 NATO consolidation deepens Russia-West
+  confrontation, increasing pressure on India's defence-spares, energy,
+  payments and diplomatic balancing.
+- ⚠️ **Europe transmission:** Finland's and Sweden's accession expanded NATO's
+  northern geography and strengthened US-Europe coordination, but can also
+  shift Western attention and defence-industrial capacity toward Europe.
+- ⚠️ **Technology and sanctions transmission:** closer Euro-Atlantic alignment
+  can tighten export-control, technology and sanctions coordination affecting
+  Indian firms and partnerships.
+- ⚠️ **Indian response:** diversify defence supply, deepen India-EU and
+  bilateral European ties, preserve issue-based Russia engagement and avoid
+  importing NATO's alliance logic into the Indo-Pacific.
+
+### High-yield membership and regime distinctions
+
+- ✅ **MTCR:** India joined the Missile Technology Control Regime as its
+  **35th member on 27 June 2016**.
+  **Significance:** membership gives rule access and can ease legitimate
+  high-technology cooperation.
+  **Limitation:** MTCR is a voluntary export-control arrangement, not a treaty
+  guaranteeing technology transfer.
+- ✅ **Nuclear Suppliers Group:** India is **not an NSG member**. Its application
+  is distinct from the 2008 India-specific waiver enabling civil nuclear
+  commerce.
+  **Significance:** membership would allow participation in nuclear-export
+  rule-making.
+  **Limitation:** a waiver is not membership; admission requires consensus.
+- ✅ **AIIB:** India is a founding member and the second-largest shareholder
+  after China.
+  **Significance:** it supplies finance access and a governance stake in a newer
+  development bank.
+  **Limitation:** a large shareholding does not confer unilateral control.
+- ✅ **SCO:** India became a full member in 2017.
+  **Significance:** it supplies access to Eurasian security and connectivity
+  dialogue.
+  **Limitation:** common membership does not imply common threat perceptions.
+- ✅ **IAEA Additional Protocol:** India's safeguards Additional Protocol
+  entered into force on **25 July 2014**. It applies to India's safeguards
+  arrangement; it does not make India an NPT non-nuclear-weapon State.
+- ✅ **ASEAN trade architecture:** ASEAN has separate trade agreements with
+  China, South Korea, Japan, India, Australia-New Zealand and Hong Kong.
+  RCEP links ASEAN with Australia, China, Japan, South Korea and New Zealand;
+  India is not an RCEP member.
+  **Limitation:** an ASEAN dialogue or FTA partner is not thereby an ASEAN
+  member.
+- ✅ **ASEAN-centred security architecture:** EAS and ARF provide broad
+  strategic/security dialogue, while India's IPOI and the ASEAN Outlook on the
+  Indo-Pacific are complementary voluntary frameworks (topic 04 owns detail).
+- ⚠️ **Routing caution:** ASEAN partner/FTA identification, the EU Trade and
+  Technology Council, the Stability and Growth Pact and current country-event
+  pairs require exact member/date verification; do not infer them from generic
+  grouping labels.
+
 - ⚠️ **PYQ mapping:** no GS-II Mains question in the audited 2024-2025 papers
   directly names SAARC, BIMSTEC, ASEAN, IORA, SCO, BRICS, G20 or Quad as the
   sole framing device. State this honestly; use the layered-grouping framework
@@ -289,9 +352,31 @@ obligations of membership — a distinction UPSC tests directly.
   global and minilateral groupings reflects multi-alignment, not
   indecision." Discuss.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+Core owns the 2020 Quad, 2021 SCO, 2022 BIMSTEC and I2U2, and 2023 SCO and NATO
+demands, superseding six older `advanced/10` routes.
+
+- **Comparison axes:** membership/status, legal basis, decision rule, geographic scope,
+  mandate, India's interest, delivery and political constraint.
+- **Evidence:** SAARC/BIMSTEC, ASEAN, IORA, SCO, BRICS, G20, Quad, I2U2, IBSA, RIC and
+  NATO as an external comparator.
+
+**10 marks:** classify the grouping and give aims/India interest/constraint. **15 marks:**
+compare institutions with 4-6 named features. **20 marks:** explain overlapping
+membership as multi-alignment, assess effectiveness and distinguish treaty alliances,
+regional bodies and minilaterals.
+
+> **Reasoned verdict:** Groupings serve India when their institutional form matches the
+> problem; multiplying memberships without delivery or status precision creates only
+> diplomatic symbolism.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/10_Regional-Global-and-Minilateral-Groupings.md`.
+- ✅ `basic/02_India-and-the-Neighbourhood.md` — Kaladan, the
+  India-Myanmar-Thailand Trilateral Highway and subregional connectivity that
+  operationalise Act East.
 - ✅ `00_Master-Framework.md` Section 2 — the levels-of-engagement table
   underlying this topic's structure.
 - ⚠️ **Cross-links within this folder:** topic 01 for the multi-alignment
@@ -357,12 +442,12 @@ obligations of membership — a distinction UPSC tests directly.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2020, 2022, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 11
+- **Years represented:** 2018, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 17
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
@@ -370,10 +455,16 @@ obligations of membership — a distinction UPSC tests directly.
 | 2018 | Prelims GS-I | 33 | India IAEA Additional Protocol ratification and implications | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2018 | Prelims GS-I | 34 | ASEAN free-trade partner countries identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2018 | Prelims GS-I | 90 | Separatist regional areas matched with correct countries in news | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-II | 19 | Quadrilateral Security Dialogue shifting from alliance to trade bloc | Discuss · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | Prelims GS-I | 65 | G20 member countries identification and groupings | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | GS-II | 19 | Aims and objectives of the SCO and its importance for India | Critically examine · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 10 | BIMSTEC compared with SAARC and foreign policy objectives | Do you think and how are they similar · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 19 | I2U2 grouping and India's position in global politics | How will it transform · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 66 | India membership in AIIB MTCR and SCO groupings | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 83 | Organization of Turkic States member countries identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 87 | Countries recent political events Chad Guinea Lebanon Tunisia | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | GS-II | 9 | Conflict affecting the functioning of the SCO and India's role | Point out the role · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 19 | Expansion of NATO and a stronger US-Europe partnership for India | What is your opinion with reasons · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 87 | USA EU Trade and Technology Council launch objectives | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 89 | EU Stability and Growth Pact budgetary deficit obligations | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 100 | G-20 origin as Finance Ministers platform India priorities | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
@@ -384,10 +475,16 @@ obligations of membership — a distinction UPSC tests directly.
 - India IAEA Additional Protocol ratification and implications
 - ASEAN free-trade partner countries identification
 - Separatist regional areas matched with correct countries in news
+- Quadrilateral Security Dialogue shifting from alliance to trade bloc
 - G20 member countries identification and groupings
+- Aims and objectives of the SCO and its importance for India
+- BIMSTEC compared with SAARC and foreign policy objectives
+- I2U2 grouping and India's position in global politics
 - India membership in AIIB MTCR and SCO groupings
 - Organization of Turkic States member countries identification
 - Countries recent political events Chad Guinea Lebanon Tunisia
+- Conflict affecting the functioning of the SCO and India's role
+- Expansion of NATO and a stronger US-Europe partnership for India
 - USA EU Trade and Technology Council launch objectives
 - EU Stability and Growth Pact budgetary deficit obligations
 - G-20 origin as Finance Ministers platform India priorities

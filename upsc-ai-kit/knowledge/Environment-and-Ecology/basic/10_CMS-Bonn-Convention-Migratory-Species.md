@@ -209,3 +209,23 @@ being **adopted** — only the latter changes legal status.
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Define the **range-state life-cycle problem** before listing appendices. Then identify whether the threat is transboundary coordination or a domestic implementation failure.
+- **Thesis:** migratory-species conservation is a weakest-link problem; CMS supplies graded cooperation, but a plan or MOU is not evidence of protection on each route segment.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Legal weight varies within CMS. | **Appendix I, Appendix II, Agreements and MOUs** → separates strict-protection duties from cooperative instruments. | Do not call every CMS instrument legally binding. |
+| Flyway protection needs local action as well as diplomacy. | **Amur Falcon at Doyang/Pangti, Nagaland** → community protection of a stopover can repair one vulnerable link in a long route. | One local success does not establish protection along the whole flyway. |
+| The latest completed anchor matters. | **CMS COP14, Samarkand 2024** → Strategic Plan/first global report are process and assessment milestones. | Do not convert adoption of a plan into a species-recovery outcome. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** define range state, distinguish appendices and use Amur Falcon as a mechanism case.
+- **15/20 marks:** map flyway stages, use a cooperative and a domestic mitigation example, discuss habitat/power-line/poaching risks and end with synchronised range-state plus local-community action.

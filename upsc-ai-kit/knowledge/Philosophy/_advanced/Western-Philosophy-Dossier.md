@@ -5,6 +5,16 @@
 > **Control files:** [`../OFFICIAL-UPSC-SYLLABUS-VERBATIM.md`](../OFFICIAL-UPSC-SYLLABUS-VERBATIM.md) · [`README.md`](README.md) · [`Coverage-Matrix.md`](Coverage-Matrix.md) · [`Depth-Map.md`](Depth-Map.md) · [`../paper-1/_PYQ-Western-Philosophy-2018-2025.md`](../paper-1/_PYQ-Western-Philosophy-2018-2025.md)
 > **Evidence key:** ✅ boundary secured by syllabus/PYQ/Core owner coverage · ⚠️ exam-use synthesis about optional deployment · ❓ live scholarly dispute or interpretation split
 
+> **Promotion ledger — 15 August 2026.** Three promotion triggers in this dossier have **fired
+> and been executed**: the **protocol-sentence debate** (§7), **Kierkegaard's pseudonymity and
+> indirect communication** (§10), and **radical translation / *gavagai* / indeterminacy of
+> translation** (§11); the rule-following paradox with a summary of Kripke's reading (§8) has
+> been partially promoted. Those doctrines now live in their owner files and are **no longer
+> optional**. The modules below have been recast as second-order enrichment — the interpretive
+> dispute, the counter-objection and the extension — and nothing useful was deleted in the
+> recasting. Where a module says "Core status", read the owner file first and use the module only
+> for the residue.
+
 ## 1. Plato–Aristotle
 
 - **Owner:** [`Plato-Aristotle.md`](../paper-1/western/Plato-Aristotle.md)
@@ -222,13 +232,14 @@
 
 ### Optional depth modules
 
-1. **The protocol-sentence debate** ❓  
-   - **Issue:** does verification finally rest on incorrigible observation reports, or are even observation statements revisable?  
+1. **The protocol-sentence debate — second-order layer** ❓  
+   - **✅ Core status (15 Aug 2026 — promotion trigger fired):** the protocol-sentence debate itself, Schlick's foundational reading, Neurath's anti-foundational reply and the resulting collapse of an incorrigible observation base **now live in Core** at [`Logical-Positivism.md`](../paper-1/western/Logical-Positivism.md) §P. Do **not** treat the debate as optional or postpone it: it is required to explain why verification destabilised from within. This module is retained only for the enrichment *beyond* that account.  
+   - **Issue (second-order):** granting Core's narrative, was Neurath's coherentism a *repair* of empiricism or an abandonment of it, and does "intersubjective testability" still deserve the name *verification*?  
    - **Competing interpretations:** Schlick/Carnap-style foundational protocol sentences; Neurath's anti-foundational coherentist line; later compromise positions.  
-   - **Extra objection / counter-reply:** **Objection:** if observation language is itself theory-laden and revisable, verification loses its bedrock. **Counter-reply:** the debate pushed positivists toward intersubjective testability rather than infallible experiential atoms.  
-   - **Safe 15/20 use ⚠️:** one line in evaluation is enough to show why verification became unstable from within.  
+   - **Extra objection / counter-reply:** **Objection:** if observation language is itself theory-laden and revisable, verification loses its bedrock. **Counter-reply:** the debate pushed positivists toward intersubjective testability rather than infallible experiential atoms — but a coherence-tested system is no longer an *empiricist* foundation in the original sense, which is exactly Quine's later opening.  
+   - **Safe 15/20 use ⚠️:** Core already supplies the debate; use this module only for the closing evaluative clause about whether the repair preserved empiricism.  
    - **What not to over-study ⚠️:** do not catalogue every Vienna Circle memorandum.  
-   - **Promote to Core if:** a future PYQ explicitly asks what counts as an observation statement or whether positivism needs protocol sentences.
+   - **Promotion status:** ✅ **fired and executed.** Re-promote only if a PYQ asks the Neurath's-boat coherence question in its own right.
 
 2. **Carnap vs Neurath on physicalism and unified science** ❓  
    - **Issue:** should all meaningful statements be translated into physical language, or merely coordinated inside a publicly testable scientific encyclopedia?  
@@ -257,13 +268,14 @@
 
 ### Optional depth modules
 
-1. **Kripkenstein and rule-following scepticism** ❓  
-   - **Issue:** does Wittgenstein generate a sceptical paradox about meaning, solved only by communal practice?  
+1. **Kripkenstein and rule-following scepticism — second-order layer** ❓  
+   - **✅ Core status (15 Aug 2026 — partial promotion executed):** the rule-following paradox, the regress of interpretations and a one-line summary of Kripke's sceptical reading (with its 1982 source and the caution that Kripke presents it as "Wittgenstein's argument as it struck Kripke") **now live in Core** at [`Later-Wittgenstein.md`](../paper-1/western/Later-Wittgenstein.md). A candidate can therefore take a defended side on Kripke's reading without opening this file.  
+   - **Issue (second-order):** given Core's summary, is the "sceptical solution" a legitimate Wittgensteinian move at all, or a constructive theory Wittgenstein's method forbids?  
    - **Competing interpretations:** Saul Kripke's sceptical reading with a community-based "solution"; anti-sceptical readings that treat Wittgenstein as dissolving, not endorsing, the paradox; practice-based but non-sceptical readings.  
    - **Extra objection / counter-reply:** **Objection:** Kripke turns Wittgenstein into a theory-builder he would reject. **Counter-reply:** even critics admit the Kripkean sharpening is useful for seeing why private interpretation cannot fix normativity by itself.  
    - **Safe 15/20 use ⚠️:** one short evaluative sentence in a rule-following/private-language answer is enough.  
    - **What not to over-study ⚠️:** do not reconstruct the full "plus/quus" literature in exam conditions.  
-   - **Promote to Core if:** a future PYQ directly asks about rule-following scepticism or Kripke's reading of Wittgenstein.
+   - **Promotion status:** ✅ **fired for the paradox and the Kripke summary.** The plus/quus reconstruction and the sceptical-solution debate remain optional.
 
 2. **Community requirement vs public criteria** ❓  
    - **Issue:** does Wittgenstein need an actual community for language, or only standards of correctness that are in principle shareable?  
@@ -327,13 +339,14 @@
 
 ### Optional depth modules
 
-1. **Kierkegaard's pseudonymous strategy** ❓  
-   - **Issue:** are Kierkegaard's pseudonymous works straightforward doctrinal statements, or an indirect method designed to force existential appropriation?  
-   - **Competing interpretations:** authorial-doctrine reading; indirect-communication reading; mixed reading that treats pseudonyms as dramatized standpoints through which the reader must work.  
-   - **Extra objection / counter-reply:** **Objection:** if the author speaks through masks, doctrine becomes unstable. **Counter-reply:** that instability is deliberate: existential truth cannot be handed over as a finished system in the Hegelian manner.  
-   - **Safe 15/20 use ⚠️:** use sparingly when explaining why "truth is subjectivity" is not lazy relativism.  
+1. **Kierkegaard's pseudonymous strategy — second-order layer** ❓  
+   - **✅ Core status (15 Aug 2026 — promotion trigger fired):** indirect communication and the pseudonymous authorship **now live in Core** at [`Existentialism.md`](../paper-1/western/Existentialism.md) §2B, including why a system-form cannot deliver existential truth and how "truth is subjectivity" is protected from relativism. Do not treat this as optional background.  
+   - **Issue (second-order):** granting Core's account, *how far* may a reader treat a pseudonym's thesis as Kierkegaard's own — and does the method leave him with any assertible doctrine at all?  
+   - **Competing interpretations:** authorial-doctrine reading; strict indirect-communication reading; mixed reading that treats pseudonyms as dramatized standpoints through which the reader must work.  
+   - **Extra objection / counter-reply:** **Objection:** if the author speaks through masks, doctrine becomes unstable and unfalsifiable. **Counter-reply:** that instability is deliberate and self-limiting: the pseudonyms stage standpoints the reader must *occupy and exhaust*, while the signed works retain first-person religious assertion.  
+   - **Safe 15/20 use ⚠️:** one attribution-caution clause when quoting *Fear and Trembling* or the *Postscript* — never a replacement for Core's exposition.  
    - **What not to over-study ⚠️:** do not turn the answer into literary biography or editorial history.  
-   - **Promote to Core if:** a future PYQ explicitly asks why Kierkegaard writes pseudonymously or what "indirect communication" does philosophically.
+   - **Promotion status:** ✅ **fired and executed.** Re-promote only if a PYQ asks for the *attribution* problem itself.
 
 2. **Sartre on the Look and being-for-others** ⚠️  
    - **Issue:** is Sartrean freedom fundamentally solitary, or always exposed to conflict, shame and objectification through others?  
@@ -362,13 +375,14 @@
 
 ### Optional depth modules
 
-1. **Quine beyond Two Dogmas: indeterminacy and ontological relativity** ⚠️  
-   - **Issue:** if synonymy is unstable, are meanings themselves radically underdetermined by all possible behavioural evidence?  
-   - **Competing interpretations:** strong anti-meaning reading; moderate underdetermination reading; naturalistic reading that treats translation and ontology as theory-relative practices, not nihilism.  
-   - **Extra objection / counter-reply:** **Objection:** this goes too far and seems to dissolve meaning altogether. **Counter-reply:** Quine's deeper target is intensional "meaning" as an explanatory primitive; he still preserves successful language-use within theory and behaviour.  
-   - **Safe 15/20 use ⚠️:** one line only, as a postscript to why Quine mistrusts analyticity and synonymy.  
-   - **What not to over-study ⚠️:** do not make *Word and Object* compulsory for an ordinary Two Dogmas answer.  
-   - **Promote to Core if:** a future PYQ directly asks how indeterminacy of translation strengthens Quine's critique of empiricism.
+1. **Quine beyond Two Dogmas: indeterminacy and ontological relativity — second-order layer** ⚠️  
+   - **✅ Core status (15 Aug 2026 — promotion trigger fired):** radical translation, the ***gavagai*** construction and the **indeterminacy of translation** **now live in Core** at [`Quine-Strawson.md`](../paper-1/western/Quine-Strawson.md) §1.7, together with the identity-predicate move, compensating analytical hypotheses and the verdict that indeterminacy is the *constructive* half of the critique of empiricism. Do not describe *gavagai* as optional.  
+   - **Issue (second-order):** given Core's account, is indeterminacy a distinct metaphysical thesis, or merely the ordinary underdetermination of theory by evidence applied to semantics?  
+   - **Competing interpretations:** strong anti-meaning reading; moderate underdetermination reading; naturalistic reading that treats translation and ontology as theory-relative practices, not nihilism. **Chomsky** presses the underdetermination collapse; **Davidson** accepts indeterminacy but confines it.  
+   - **Extra objection / counter-reply:** **Objection:** it goes too far and seems to dissolve meaning altogether. **Counter-reply:** Quine's target is intensional "meaning" as an explanatory primitive; successful language-use survives inside theory and behaviour. The residue is ontological relativity — reference is fixed only relative to a background theory.  
+   - **Safe 15/20 use ⚠️:** one line only, and only after Core's gavagai steps have been stated.  
+   - **What not to over-study ⚠️:** do not make the whole of *Word and Object* compulsory for an ordinary Two Dogmas answer.  
+   - **Promotion status:** ✅ **fired and executed** for indeterminacy. Ontological relativity remains optional; promote it if a PYQ asks about inscrutability of reference directly.
 
 2. **Strawson's descriptive vs revisionary metaphysics as a methodological dispute** ❓  
    - **Issue:** is Strawson merely conservative about ordinary thought, or offering a transcendental defence of the conceptual scheme within which all revision must begin?  

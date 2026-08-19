@@ -187,6 +187,22 @@ measured through intergenerational social mobility — not merely scheme coverag
   itself." Critically examine this statement in the context of backward-class welfare
   policy in India.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+- **Doctrine:** *Indra Sawhney* on OBC reservation, creamy layer and ordinary 50% ceiling;
+  102nd/105th Amendments on NCBC and State lists; *Janhit Abhiyan* upheld EWS reservation.
+- **Sub-classification:** Rohini Commission examined unequal OBC benefit distribution;
+  internal classification needs credible data and safeguards against capture.
+- **Mobility chain:** identification -> capabilities -> entry -> retention/promotion ->
+  assets and social acceptance.
+
+**10 marks:** distinguish OBC and EWS criteria. **15 marks:** doctrine, data, creamy
+layer, sub-classification and design. **20 marks:** compensatory discrimination, poverty
+relief, representation, federalism and intra-group inequality.
+
+> **Reasoned verdict:** Affirmative action needs fair internal distribution and
+> complementary capability investment to create durable mobility.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/09_OBC-EWS-and-Social-Mobility.md`.

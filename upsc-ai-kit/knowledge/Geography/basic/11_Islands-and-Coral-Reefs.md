@@ -91,6 +91,93 @@
 Geography → Physical → Islands & Coral Reefs (GC Leong: Coral Reefs; Majid: Islands)  
 Geography → Coral Reefs → Bleaching / Climate (applied CA)
 
+## 9. Two distinct threats: warming-driven bleaching and ocean acidification
+
+> **Why this section exists:** the file taught bleaching but not **acidification**, and the two are
+> routinely conflated. They have different chemistry, different timescales and different
+> consequences, and a question that asks to distinguish them was unanswerable.
+
+| | **Coral bleaching** | **Ocean acidification** |
+|---|---|---|
+| ⚠️ Driver | Thermal stress — sea-surface temperature above the local tolerance threshold for a sustained period | Uptake of atmospheric carbon dioxide by seawater |
+| ⚠️ Chemistry / biology | Heat stress breaks the symbiosis; the coral expels its **zooxanthellae**, losing both colour and its main nutrition | Dissolved carbon dioxide forms carbonic acid, releasing hydrogen ions; pH falls and the availability of **carbonate ions** declines |
+| ⚠️ Immediate effect | The coral turns white and starves; it can recover if the stress ends quickly | Calcification becomes harder and more energetically costly; existing skeletons and shells dissolve more readily |
+| ⚠️ Timescale | Episodic, tied to marine heat events; recovery possible between events | Cumulative and chronic; effectively irreversible on human timescales |
+| ⚠️ Reversibility | Reversible if brief and if the reef is otherwise healthy | Not reversible by local action; requires reduction of atmospheric carbon dioxide |
+| ⚠️ Who else is affected | Primarily reef-building corals and their dependents | All calcifying organisms — molluscs, echinoderms, calcifying plankton — hence whole food webs |
+| ⚠️ Local management leverage | Real: reduce sediment, nutrients, destructive fishing and physical damage so reefs recover between events | Almost none: it is a global-emissions problem |
+
+- ⚠️ **The compounding point that earns marks:** the two interact. Acidification lowers the rate at
+  which a reef can rebuild, so a reef struck by repeated bleaching in acidifying water has less
+  time and less chemical capacity to recover between events. Reef decline is therefore better
+  described as **reduced recovery capacity** than as a single mortality event.
+- ⚠️ Other reef stressors that must appear in a complete answer: sediment from catchment erosion and
+  dredging, nutrient loading causing algal overgrowth, destructive and over-fishing that removes
+  herbivores, coral disease, crown-of-thorns outbreaks, physical damage from anchoring and mining,
+  and invasive species.
+
+> 🔑 **Trap:** a bleached coral is **not** a dead coral. It has lost its symbionts and is starving;
+> recovery is possible if the thermal stress ends. Mortality follows only if the stress persists or
+> recurs before recovery.
+
+> ⚠️ **Factual caution:** do not quote a pH value, a percentage of reefs lost, a species count or a
+> bleaching-event date from memory. Where the file already carries a dated NOAA-attributed bleaching
+> event, retain that attribution rather than generalising it.
+
+### 9.1 Why low coral islands are a special case
+
+- ⚠️ Reef islands are built **from the reef's own carbonate production**. If reef growth slows
+  through bleaching and acidification, the island's sediment supply slows with it — so reef decline
+  threatens low islands through **sediment starvation**, not only through sea-level rise.
+- ⚠️ Their freshwater is held in a thin lens floating on saline groundwater. Over-abstraction,
+  storm overwash and rising sea level contaminate that lens, so **water security fails before land
+  is lost**.
+- ⚠️ Reef islands are not passive: they can accrete and migrate as sediment is redistributed. This
+  is an important qualification against the assumption of automatic drowning — but it requires a
+  living, sediment-producing reef, which is exactly what is at risk.
+
+## 10. Answer architecture (10/15/20-mark support)
+
+### 10.1 Directive decoding for this topic
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Discuss the conditions necessary for coral growth" | Temperature, depth/light, salinity, clear sediment-free water, firm substratum and wave-agitated oxygenation — each with the reason | List conditions without explaining why each matters |
+| "Explain Darwin's subsidence theory" | Fringing -> barrier -> atoll as one sequence driven by island subsidence with upward reef growth, plus the alternative glacio-eustatic explanation | Present the sequence as three unrelated reef types |
+| "Distinguish bleaching from acidification" | The table above — different driver, chemistry, timescale, reversibility and leverage | Treat them as the same warming problem |
+| "Assess the threats to island nations" | Sediment supply, freshwater lens, compound flooding and adaptive island dynamics, alongside sea-level rise | Reduce it to inundation |
+
+### 10.2 Reusable 10-mark spine — reef vulnerability
+
+1. **Thesis:** reefs are threatened less by any single event than by the collapse of the balance
+   between calcification and erosion — warming reduces the coral's capacity to build, acidification
+   raises the cost of building, and local stressors prevent recovery between events.
+2. **Baseline:** the narrow environmental window corals require, which is why they are such
+   sensitive indicators.
+3. **Global stressors:** bleaching and acidification, distinguished properly.
+4. **Local stressors:** sediment, nutrients, destructive fishing, physical damage, disease.
+5. **Consequence:** loss of fisheries productivity, of natural wave-energy attenuation protecting
+   coasts, of tourism income and of island sediment supply.
+6. **Balance:** local management genuinely improves recovery capacity even though it cannot address
+   acidification — so local action is worthwhile but not sufficient.
+7. **Conclusion:** graded — reef futures depend on a combination that is global in one half and
+   local in the other, which is precisely why reef governance is difficult.
+
+### 10.3 Evidence units available in this file
+
+> **Claim:** coral reefs are a coastal-protection asset, not only an ecological one.
+> **Evidence:** a reef crest dissipates wave energy before it reaches the shore, which is why
+> reef-fringed coasts and the islands behind them experience attenuated wave attack.
+> **Significance:** it converts reef loss into a direct coastal-hazard and infrastructure question.
+> **Limitation:** reefs attenuate ordinary wave energy far better than extreme surge, so they
+> supplement rather than replace other protection.
+
+> **Claim:** an island can be threatened by chemistry as much as by water level. **Evidence:** low
+> reef islands are built from carbonate produced by the living reef, and their freshwater is a thin
+> lens vulnerable to overwash and abstraction. **Significance:** it explains why water security and
+> sediment supply fail before inundation does. **Limitation:** reef islands can also accrete and
+> migrate, so their fate is not uniformly determined.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

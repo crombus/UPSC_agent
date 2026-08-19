@@ -125,3 +125,73 @@ INTEGRATED POLITICAL ANALYSIS
 - ✅ The chapter's institutional references to behaviouralism, post-behaviouralism and twentieth-century scholarship are book-period conceptual discussions, not present-day survey findings. (PDF pp.138-146)
 - ⚠️ This file paraphrases rather than quotes; examples are used only to make the chapter exam-usable.
 - ✅ Companion file created in this folder: `Political-Theory/advanced/09_Interdisciplinary-Political-Analysis.md`.
+
+---
+
+## 13. Extending the discipline list: anthropology, law and geography
+
+- ⚠️ Gauba's chapter (PDF pp.141-146) foregrounds history, economics, sociology, psychology and philosophy. A complete interdisciplinary answer should also be able to place anthropology, law and geography on the same map, since these are commonly tested alongside the five above:
+  - **Political anthropology:** studies political organisation in small-scale, kinship-based or non-state/pre-state societies (lineage systems, tribal councils, chieftaincy) — contributes evidence that authority and order can be organised without a centralised state, which sharpens rather than dissolves the concept of the state used in `Political-Theory/basic/10_State-Civil-Society-Nation-and-Internationalism.md`.
+    - **Claim → evidence → significance → limit:** Claim: political order does not require a Weberian state. Evidence: kinship/lineage-based dispute-resolution and authority structures documented across many non-state societies. Significance: tests and refines political theory's core concepts (authority, legitimacy, sovereignty) against non-state cases rather than assuming the modern state is the only unit of analysis. Limit: findings from small-scale societies cannot be mechanically transplanted onto large, complex modern states.
+  - **Law/jurisprudence as a data source:** distinct from the legal *approach* to studying politics (already covered under §8's traditional approaches), the interdisciplinary use of law supplies political analysis with constitutional text, statutes and judicial reasoning as primary evidence of how authority is formally allocated and constrained.
+    - **Claim → evidence → significance → limit:** Claim: legal materials are indispensable evidence for political analysis of institutions and rights. Evidence: constitutional provisions and case law define formal powers, limits and remedies. Significance: grounds political claims about institutional design in verifiable text rather than impression. Limit: legal text alone cannot explain informal power, bargaining or non-compliance — hence the need for sociology/psychology alongside it.
+  - **Political geography:** studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
+    - **Claim → evidence → significance → limit:** Claim: where power and resources are located in space shapes political conflict and institutional design. Evidence: boundary disputes, resource-rich/resource-poor regional imbalance, and federal arrangements responding to territorial diversity. Significance: explains regionalism, federalism and centre-state or inter-state conflict that a purely institutional or economic account would miss. Limit: geography constrains but does not determine political outcomes; it must be combined with sociology (identity) and economics (resource conflict) rather than treated as destiny.
+- ⚠️ Exam use: if the question specifically asks for an "interdisciplinary" answer without naming disciplines, a strong 15/20-mark response should be able to name at least six to seven disciplines (history, economics, sociology, psychology, philosophy, anthropology, law, geography) and give one distinct contribution for each, rather than repeating the same five from Gauba's chapter alone.
+
+## 14. Borrowed models and the limits of reductionism (named)
+
+- ✅ Gauba names specific borrowed models political science has drawn from other disciplines: **elite theory**, **base-superstructure analysis** (from Marxian political economy), **structural-functionalism** (from sociology/anthropology), **problem-solving/decision models** (from psychology and organisational theory), and market/bargaining analogies (from economics). (PDF pp.139-140)
+- ✅ **David Easton's political-system framework** is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback (see `Political-Theory/basic/08_Approaches-Behaviouralism-and-Post-Behaviouralism.md` §15 for the full reconstruction). (PDF p.140)
+- ✅ **Harold Lasswell's problem-solving model** is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes. (PDF p.140)
+- ⚠️ **Reductionism, named precisely:** each borrowed model risks a specific reductionism if used alone —
+  - *Economic reductionism* (treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest.
+  - *Psychological reductionism* (treating all politics as individual attitude/personality) misses structural, institutional and economic constraints that operate independently of any single actor's psychology.
+  - *Sociological/functional reductionism* (treating all politics as social-structure maintenance) risks a conservative bias that under-explains conflict, agency and deliberate institutional change.
+  - *Legal reductionism* (treating politics as fully captured by formal rules) misses informal power and non-compliance.
+- ⚠️ Gauba's own corrective applies to each: borrowing must remain purposeful and politics-centred; a borrowed model sharpens political analysis only so long as the political question, not the donor discipline's own priorities, stays in view. (PDF pp.137, 146)
+
+## 15. Two objection–reply chains
+
+1. **Objection:** if political science borrows core models from economics, sociology and psychology, it risks losing any distinct subject-matter of its own and dissolving into "social science in general."
+   **Reply:** Gauba's own conclusion answers this directly — interdisciplinary borrowing integrates evidence and models from other disciplines but does not merge political science into any one of them; the political question (who gets valued things, through what authoritative process) remains the organising centre even when the evidence used to answer it is economic, sociological or psychological. (PDF p.146)
+
+2. **Objection:** using anthropological or geographical evidence risks importing findings from very different (small-scale, or purely spatial) contexts and over-generalising them to modern, large-scale democratic states.
+   **Reply:** the reply is the same discipline-by-discipline caution the chapter already applies to history and economics: such evidence is used for *testing and illustrating* a political claim (e.g. that authority need not be state-centred, or that territory shapes conflict), not for asserting that small-scale or purely spatial patterns transfer mechanically to a different scale of politics — each discipline's evidence is weighed for relevance, not imported wholesale. ⚠️ This reply is a reasonable extension of Gauba's own purposeful-borrowing standard, not a direct book quotation.
+
+## 16. Cautious Indian application
+
+- ⚠️ Political-economy lens: debates on economic liberalisation, welfare-scheme design or federal fiscal transfers illustrate how political theory uses economic evidence to analyse policy conflict — cite as a *type* of application, without asserting specific unverified figures, scheme names or years unless independently confirmed.
+- ⚠️ Political-sociology lens: caste, community and regional identity's role in Indian party mobilisation and political culture is a standard illustrative anchor for the sociology-politics link — use only as a general, well-known pattern, not with specific unverified electoral statistics.
+- ⚠️ Political-geography lens: India's federal reorganisation of states and continuing regional/resource-sharing disputes (river-water disputes, hill-state demands) illustrate how territory and resource distribution shape political conflict — cite as a *type* of illustration; route exact dates, tribunal names or case detail to the Polity/Geography modules rather than asserting them here.
+
+## 17. Executable answer architecture (10/15/20 marks)
+
+### Directive decoding
+- "Discuss the interdisciplinary character of political science" → requires the definition of interdisciplinarity, at least three disciplines with one contribution each, and the integration-without-merger conclusion — not just a list of subject names.
+- "Examine the contribution of [a named discipline] to political analysis" → single-discipline directive: give that discipline's specific contribution, one borrowed model or example, and its limit if used alone.
+- "Can political science be studied independently of other social sciences?" → requires the objection/reply on subject-matter dissolution (§15.1) explicitly.
+
+### 10-mark architecture (~150 words)
+1. Thesis: political science needs other disciplines' evidence and models but keeps the political question central.
+2. Body: name 2-3 disciplines with one contribution each (claim→evidence→significance).
+3. One limit/reductionism risk.
+4. One-line conclusion.
+
+### 15-mark architecture (~200-250 words)
+1. Thesis + directive decoding.
+2. Doctrine reconstruction: definition of interdisciplinarity → why empirical/behavioural/systems analysis pushed political science outward → 4-5 disciplines (including at least one of anthropology/law/geography) each with claim→evidence→significance→limit.
+3. Name one borrowed model (Easton's system, or Lasswell's problem-solving model).
+4. One objection-reply chain.
+5. Reasoned conclusion (integration without merger).
+
+### 20-mark architecture (~250-300 words)
+1. Thesis + directive decoding.
+2. Full doctrine reconstruction across history, economics, sociology, psychology, philosophy, plus anthropology, law and geography, each with claim→evidence→significance→limit.
+3. Name at least two borrowed models explicitly (Easton's systems framework, Lasswell's problem-solving model, or elite theory/base-superstructure analysis) and state the specific reductionism risk for each donor discipline.
+4. Two objection-reply chains (dissolution-of-subject-matter objection; over-generalisation-from-small-scale-or-spatial-evidence objection).
+5. Cautious Indian application (one example, correctly hedged).
+6. Graded conclusion: integration deepens explanation; merger is neither possible nor desirable.
+
+### Quotation/proposition method
+- Prefer paraphrased, named propositions over unverified quotations, e.g. *"Gauba's proposition that interdisciplinary borrowing must remain purposeful and politics-centred"* rather than an exact quoted sentence, unless independently verified.

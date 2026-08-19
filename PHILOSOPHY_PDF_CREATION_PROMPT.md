@@ -55,21 +55,22 @@ Choose each visual because it solves a learning problem. Venn diagrams are only
 one option and must never be used by default.
 
 CONTENT OUTLINE — COMPLETE BEFORE DESIGN:
-1. Exact syllabus line and topic scope.
-2. Historical origin and intellectual context.
-3. Definitions and technical vocabulary.
-4. Complete explanation of every syllabus sub-part.
-5. Internal argument, derivation or doctrinal logic.
-6. Major criticisms, replies and unresolved problems.
-7. Intra-school and inter-thinker comparisons.
-8. Relevant Indian/Western cross-links.
-9. Must-know facts.
-10. UPSC traps and common misreadings.
-11. All verified topic PYQs and recurring demand patterns.
-12. Applied-question drills.
-13. Answer frameworks for 10, 15 and 20 marks.
-14. A balanced philosophical evaluation and conclusion.
-15. Source-page or source-chapter references.
+Use this five-layer order for every logical subtopic:
+1. SIMPLE START — plain-language concept, visual mental model and memory anchor.
+2. CORE UPSC — complete terminology, doctrine, derivation, source grounding,
+   examples and syllabus coverage.
+3. ADVANCED — strongest objections and replies, comparisons, disputes and
+   qualified evaluation.
+4. EXAM APPLICATION — all verified topic PYQs, demand decoding, applied drills
+   and 10/15/20-mark answer structures.
+5. RAPID REVISION — must-know facts, traps, concise register notes, memory aids
+   and explained MCQs with A -> B -> C -> D answer rotation.
+
+When adapting an existing Philosophy session, preserve every substantive detail.
+Reorder it into these layers and add a simple visual gateway, but never compress
+or delete doctrine, examples, criticisms, comparisons, PYQs or explanations.
+If the user explicitly requests a verbatim transcript, preserve its original
+order.
 
 REQUIRED VISUAL LEARNING:
 - one master concept map or conceptual landscape;

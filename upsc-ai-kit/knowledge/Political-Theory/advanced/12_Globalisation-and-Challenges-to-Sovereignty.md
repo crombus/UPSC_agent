@@ -33,7 +33,7 @@ THEORETICAL RESULT
 - ✅ Gauba frames this chapter as the study of **external** challenges to sovereignty after the internal pluralist challenge has been discussed separately (PDF p.209).
 - ✅ The unit of analysis remains the nation-state, but the chapter asks how autonomy is narrowed by empire, great-power structures and worldwide interdependence (PDF pp.209-218).
 - ⚠️ This file therefore assesses the **conceptual effect** of international conditions on sovereignty; it does not attempt a descriptive survey of present-day IR institutions.
-- ✅ Gauba's examples of NATO, Warsaw Pact, OPEC, non-alignment, Chernobyl and 2001 terrorism are explanatory cases located within a 2009-edition frame and must be dated accordingly (PDF pp.211-216).
+- ✅ Gauba's examples of NATO, Warsaw Pact, OPEC, non-alignment and Chernobyl are explanatory cases located within a 2009-edition frame and must be dated accordingly (PDF pp.211-216). ⚠️ **Page-attribution caution:** the module also carries a "2001 terrorism / World Trade Center attack" illustration in this chapter's borderless-threats discussion. The *event* is independently verifiable (11 September 2001) and the *use* — transnational threats defeating the sealed-container view of external sovereignty — is conceptually sound, but the **exact page on which Gauba states it has not been independently re-verified here**. Treat it as a dated historical illustration and do not cite a specific Gauba page for it.
 
 ## 3. Direct-book argument reconstruction
 
@@ -58,7 +58,7 @@ THEORETICAL RESULT
 - ✅ **Edward Said:** clarifies conceptual vocabulary by distinguishing imperialism from colonialism; this helps track how domination may survive beyond formal territorial possession (PDF p.209).
 - ✅ **J.A. Hobson:** presents imperialism as a hunt for captive markets and condemns it as exploitation rather than civilization (PDF p.210).
 - ✅ **Lenin:** interprets imperialism as a structural outcome of capitalism seeking investment outlets, markets and raw materials abroad (PDF p.210).
-- ✅ **Kwame Nkrumah:** names neo-colonialism and argues that international monetary bodies, market pricing, multinational corporations and educational-cultural institutions can preserve decisive external influence after independence (PDF pp.211-212).
+- ✅ **Kwame Nkrumah:** **popularised** the concept of neo-colonialism and argued that international monetary bodies, market pricing, multinational corporations and educational-cultural institutions can preserve decisive external influence after independence (PDF pp.211-212). ⚠️ **Provenance caution:** do **not** write that Nkrumah *coined* the term. His *Neo-Colonialism: The Last Stage of Imperialism* (1965) is the work that gave the concept its canonical statement and wide currency, but the expression was already circulating in anti-colonial and Pan-African political usage before that book; "popularised/gave canonical formulation to" is the safe attribution.
 - ✅ **Alfred Sauvy / Walter Lippmann:** appear contextually as coiners of "third world" and popularizers of "Cold War," helping situate the historical vocabulary of sovereignty under bloc politics (PDF pp.212-213).
 - ✅ **Gauba's evaluative voice:** globalization has boosters and critics, but his concluding section presents a mixed judgment rather than a simple celebration or rejection (PDF pp.217-218).
 
@@ -119,7 +119,8 @@ THEORETICAL RESULT
 ## 12. Factual-risk checks
 
 - ❌ Do **not** say Gauba declares the disappearance of sovereignty; he calls for revision of external sovereignty under interdependence (PDF p.216).
-- ❌ Do **not** present NATO, Warsaw Pact, "third world," non-alignment, Iraq-Kuwait 1990, Chernobyl 1986 or the 2001 World Trade Center attack as unmarked current affairs; they are dated historical or book-period illustrations (PDF pp.212-216).
+- ❌ Do **not** present NATO, Warsaw Pact, "third world", non-alignment, Iraq-Kuwait 1990 or Chernobyl 1986 as unmarked current affairs; they are dated historical or book-period illustrations (PDF pp.212-216).
+- ⚠️ The 11 September 2001 World Trade Center attack is likewise a **dated historical illustration**, never a current-affairs anchor. Its use here (borderless threats undermine the sealed-container view of external sovereignty) is conceptually safe, but **no specific Gauba page is asserted for it** because that page attribution has not been independently re-verified; cite the event by its own date, not by a book page.
 - ❌ Do **not** flatten globalization into a purely economic process; Gauba also discusses communication, culture and environment (PDF pp.214-217).
 - ❌ Do **not** equate legal independence with substantive autonomy; that is precisely the neo-colonial problem Gauba highlights (PDF pp.210-212).
 - ⚠️ No post-2009 dated current anchor is used in this file, so all examples remain conceptually safe and historically bounded.

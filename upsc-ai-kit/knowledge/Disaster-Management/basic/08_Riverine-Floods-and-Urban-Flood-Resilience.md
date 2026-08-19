@@ -106,21 +106,18 @@ minutes)" (PDF p. 27) — the core causal distinction directly required by
 - ✅ **Central Water Commission (CWC) and IMD** — CWC's field formations
   observe/collect hydro-meteorological (discharge) data; IMD supplies
   daily rainfall data — jointly forming the "basic requirements for the
-  formulation of a flood forecast" (PDF p. 29). 📰 CWC's network
-  comprised **350 forecasting stations — 200 level-forecast stations on
-  rivers and 150 inflow-forecast stations at dams/barrages** — issuing a
-  statutory short-range forecast of **up to 24 hours**, supplemented by a
-  rainfall-runoff model giving a **7-day advisory** and by **C-Flood**,
-  which provides **2-day village-level inundation forecasts** (initially
-  for the Godavari, Tapi and Mahanadi basins) (PIB/MoES, 17 December 2025
-  and 11 March 2026).
+  formulation of a flood forecast" (PDF p. 29). 📰 CWC's April 2026 SOP
+  lists **350 forecasting stations — 200 level-forecast and 150
+  inflow-forecast stations**. Service lead times and C-Flood geographic/
+  inundation coverage are dynamic; use the dated CWC SOP/service release
+  for a precise operational claim rather than memorising a static horizon.
 - 📰 **CWC's three river-stage thresholds** — **Warning Level** (normally
   about 1 metre below Danger Level, but fixed site-specifically),
   **Danger Level** (site-specific), and **Highest Flood Level (HFL)**
   (the highest previously recorded level at that site). Operationally,
   Warning-to-Danger is treated as Above Normal/Yellow, Danger-to-HFL as
   Severe/Orange, and above HFL as Extreme/Red (CWC SOP for Flood
-  Forecasting, April 2025). ⚠️ These are **site-specific gauge
+  Forecasting and Monitoring, April 2026). ⚠️ These are **site-specific gauge
   thresholds**, not a national numerical standard.
 - ✅ **Urban Flooding Cell** — recommended by NDMA's Guidelines on
   Management of Urban Flooding (2010) within the national urban-
@@ -128,15 +125,17 @@ minutes)" (PDF p. 27) — the core causal distinction directly required by
   Management activities, with ULBs managing at the local level (PDF p.
   31); ⚠️ its current constitution/operation requires verification
   against a MoHUA/State notification.
-- 📰 **Urban Flood Risk Management Programme (UFRMP)** — the implemented
-  counterpart to that 2010 recommendation, financed from the **National
+- 📰 **Urban Flood Risk Management Programme (UFRMP)** — a sanctioned
+  NDMF mitigation programme alongside that 2010 recommendation, financed from the **National
   Disaster Mitigation Fund**: Chennai approved 7 December 2023 (₹561.29
   crore, including ₹500 crore central assistance); six further cities —
   Mumbai, Kolkata, Bengaluru, Hyderabad, Ahmedabad and Pune — approved
   25 July 2024 (aggregate ₹2,514.36 crore); and **Phase 2 approved
   1 October 2025 for 11 cities at ₹2,444.42 crore on a 90:10
-  Centre-State basis**. ⚠️ The names of the 11 Phase-2 cities are not
-  confirmed by a dated official release — do not infer them.
+  Centre-State basis**. 📰 MHA's dated February 2026 parliamentary
+  replies identify the Phase-2 cities; cite that reply if listing them.
+  Approval does not establish completed works, maintained assets or
+  reduced loss.
 
 ## 6. India applications and examples
 
@@ -161,10 +160,9 @@ minutes)" (PDF p. 27) — the core causal distinction directly required by
   (Rashtriya Barh Ayog assessment).
 - ✅ CWC supplies discharge data; IMD supplies rainfall data, for flood
   forecasting.
-- 📰 CWC operated **350 forecasting stations — 200 level-forecast and 150
-  inflow-forecast** — with a statutory short-range forecast of **up to
-  24 hours**, a 7-day rainfall-runoff advisory, and **C-Flood** 2-day
-  village-level inundation forecasts.
+- 📰 CWC's April 2026 SOP lists **350 forecasting stations — 200
+  level-forecast and 150 inflow-forecast**. Recheck the current CWC
+  service release for lead time, C-Flood coverage and station changes.
 - 📰 CWC's river-stage thresholds are **Warning Level → Danger Level →
   Highest Flood Level (HFL)**, each fixed site-specifically; Warning
   Level is normally about 1 metre below Danger Level.
@@ -266,3 +264,51 @@ minutes)" (PDF p. 27) — the core causal distinction directly required by
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 13. Core-only answer architecture — basin, city and dam safety
+
+> **Core firewall:** this section carries the 2020 urban-flood, 2022
+> cloudburst, 2023 dam-failure and exact 2024 urban-flood demands. A
+> response may use `advanced/08`, but no fact needed for the paper is
+> trapped there.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Urban flooding is a land-use/drainage failure amplified by rainfall, not riverine flooding in a city. | Impervious surfaces, blocked drains, lost wetlands/waterways, floodplain occupation, upstream releases, tidal impedance and dense exposure; VisionIAS's faster/higher urban runoff relation. | Meets the “causes” limb with physical and governance mechanisms. | Do not call every event climate-caused; event attribution needs a case-specific scientific source. |
+| Case selection must prove a causal feature. | **Mumbai 2005:** exceptionally intense rain met low-lying/reclaimed-land, drainage and waste-blockage vulnerability. **Chennai 2015:** northeast-monsoon extreme rainfall combined with altered wetlands/waterways and urban drainage/land-use stress. | These are two contrasting, named Indian urban-flood cases from the local knowledge base, not decorative place names. | Do not add casualty, loss or climate-attribution figures without their own source; Delhi 2023 is a separately documented CWC case, not an interchangeable narrative. |
+| Flood governance must combine basin and city instruments. | Floodplain zoning, CWC/IMD forecasting, NDMA 2010 urban-flood guidelines/UFC recommendation, ULB drainage and solid-waste action, Aapda Mitra, and the sanctioned NDMF-financed UFRMP. | Answers the policies/frameworks limb with institutions and status verbs. | UFC is a guideline recommendation; UFRMP sanction is not proof of city-wide implementation or avoided loss. |
+| Cloudbursts and dam failures require distinct short-answer logic. | Cloudburst: a moisture-laden local air mass undergoes rapid uplift/condensation and releases exceptionally concentrated rain over a small area, producing rapid runoff/flash-flood/landslide risk; use nowcasting, no-valley siting, drainage and evacuation. Dam safety: Dam Safety Act 2021 requires surveillance, inspection, maintenance and emergency action planning; **Machhu II, Morbi (1979)** is a historical overtopping/flood-capacity and warning lesson. | Supplies mechanism, occurrence context, prevention and a named case for the 2022/2023 routes. | Do not turn a short-lead-time forecast into deterministic cloudburst prediction; do not give a casualty estimate or a single-cause account for Machhu II without a case-specific official source; an embankment/dam is not automatically flood-safe. |
+
+### 13.2 Executable spines — exact 2024 and historical demands
+
+**15 marks — 2024 urban-flood route. Thesis:** urban flooding is an emerging climate-risk context, but its
+disaster character is substantially produced by land-use, drainage and
+governance decisions. Write: (1) 2–3 causal chains (intense rain plus
+sealed surface/drain blockage; floodplain/wetland loss; river/barrage/
+tide interaction); (2) Mumbai 2005 and Chennai 2015, each with the
+specific feature above; (3) NDMA urban-flood guidelines and
+floodplain-zoning; CWC/IMD forecast/nowcast; ULB drainage, waste and
+wetland action; UFRMP as sanctioned mitigation finance; (4) a qualified
+close: implementation, maintenance and equitable relocation determine
+outcomes. Do not quote the local paper's OCR wording except when
+explicitly labelled verbatim elsewhere in this folder.
+
+### 13.3 Other directive spines
+
+- **10 marks — cloudburst:** distinguish cloudburst from ordinary
+  seasonal rain; explain local moisture uplift/condensation, highly
+  concentrated short-duration rainfall and Himalayan/urban rapid-runoff
+  consequence; give monitoring/settlement/drainage actions; state that
+  short lead time limits deterministic prediction.
+- **10 marks — dam failure:** organise causes as hydrological
+  overtopping/spillway capacity, structural or seepage deterioration,
+  operation/maintenance, and external triggers; give Machhu II as a
+  bounded historical case; finish with Dam Safety Act surveillance,
+  instrumentation and emergency action plans.
+- **20 marks — flood resilience:** compare riverine basin governance
+  with urban drainage/land-use governance; include structural measures'
+  risk-transfer/failure limits, inclusive warning/evacuation, ecosystem
+  buffers, finance and BBB. End by evaluating service continuity and
+  exposure reduction, not only kilometres of drains built.

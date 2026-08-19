@@ -136,3 +136,115 @@
 
 Geography -> Economic Geography -> Industries  
 Geography -> Human Geography -> Industrial location theory and industrial regions
+
+## 14. Answer architecture (10/15/20-mark support)
+
+### 14.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Explain Weber's least-cost theory and assess its relevance" | Transport cost, labour cost and agglomeration as the three terms; the material index and weight-loss logic; then what global value chains change | Describe the model without assessing it |
+| "Why do old industrial regions persist?" | Agglomeration economies, sunk infrastructure, skilled labour pools, supplier ecosystems and institutional inertia — then the cases where they did **not** persist | Assert inertia without a mechanism |
+| "Discuss the factors responsible for industrial location" | The factor set **weighted by industry type**, since different industries have different dominant pulls | Give an undifferentiated list |
+| "Examine the role of the state in industrial location" | Corridors, zones, incentives, power and land — and the limits of policy against market logic | Describe schemes |
+
+### 14.2 The weight-loss logic, made usable
+
+```text
+MATERIAL INDEX = weight of localised raw material used / weight of the finished product
+
+INDEX > 1  (weight-LOSING)   -> pull toward the RAW MATERIAL
+   e.g. ore concentration, sugar from cane, cement from limestone
+
+INDEX < 1  (weight-GAINING)  -> pull toward the MARKET
+   e.g. beverages adding water, assembly adding bulk
+
+INDEX ~ 1  or ubiquitous inputs -> location decided by LABOUR, POWER,
+   AGGLOMERATION or ACCESSIBILITY instead
+```
+
+- ⚠️ **The modern correction:** for a growing share of manufacturing the dominant costs are neither
+  raw-material nor product freight but **skills, reliable power, logistics time and access to a
+  supplier ecosystem**. Weber's *method* — identify the dominant cost and locate to minimise it —
+  survives even where his *inputs* have changed. This is the balanced position an assessment
+  question requires.
+
+### 14.3 What changed after Weber, and what did not
+
+| Change | Effect on location |
+|---|---|
+| ⚠️ Global value chains | Production is **fragmented** across countries by task rather than located as a single plant, so the unit of location analysis is the stage, not the industry |
+| ⚠️ Containerisation and cheap ocean freight | Sharply reduced the friction of distance for standardised goods, weakening raw-material orientation and strengthening **port** orientation |
+| ⚠️ Just-in-time and time-sensitive logistics | Re-strengthened proximity — to suppliers, to ports and to markets — for time-critical goods, partly reversing the previous effect |
+| ⚠️ Energy quality and cost | Reliability of power became a locational factor in its own right, especially for continuous-process and electro-intensive industry |
+| ⚠️ Skills and knowledge clustering | Created new agglomerations around universities, research institutions and specialised labour pools rather than around resources |
+| ⚠️ Environmental regulation and land cost | Pushed polluting and land-hungry activity outward and, in some cases, offshore — deglomeration in Weber's own terms |
+| ⚠️ Policy instruments | Corridors, industrial zones, incentives and cluster programmes deliberately manufacture agglomeration rather than waiting for it |
+| ⚠️ Supply-chain security concerns | Re-introduced a **political** locational factor that classical theory omits entirely |
+
+### 14.4 Reusable 15-mark spine — industrial location, theory and reality
+
+1. **Thesis:** classical least-cost theory remains the right *method* for analysing industrial
+   location while being wrong about which costs dominate — which is why modern industrial geography
+   is best explained by combining Weber's logic with agglomeration and value-chain analysis.
+2. **The classical core:** transport cost with the material index, labour-cost deviation, and
+   agglomeration and deglomeration.
+3. **The orientation typology:** raw-material, market, power, labour and footloose, with an example
+   of each.
+4. **The agglomeration argument:** shared labour pools, specialised suppliers, knowledge spillovers
+   and shared infrastructure — and industrial inertia as their cumulative effect.
+5. **What changed:** the table above, especially fragmentation of production, containerisation,
+   time-sensitive logistics, skills clustering and policy-manufactured agglomeration.
+6. **The counter-evidence that must be included:** inertia is not universal — regions whose core
+   industry lost competitiveness and whose skills were not transferable **did** decline, so
+   persistence depends on the transferability of the accumulated advantage, not on history alone.
+7. **The Indian application:** the historic coal-and-ore-linked eastern belt, the port-and-market-
+   linked western belt, and the newer corridor- and zone-led attempts to create agglomeration by
+   policy — the last being a deliberate test of whether the state can manufacture what Weber
+   assumed would emerge.
+8. **Conclusion:** graded — location theory has moved from predicting a single least-cost point to
+   explaining why activity clusters, and policy succeeds when it strengthens genuine linkages rather
+   than merely supplying land and incentives.
+
+### 14.5 Evidence units available in this file
+
+> **Claim:** industrial regions outlive the logic that created them, but only conditionally.
+> **Evidence:** the classical coal-and-iron industrial cores retained manufacturing long after the
+> original resource advantage weakened, because skilled labour, engineering and repair ecosystems,
+> transport infrastructure and urban markets had accumulated there. **Significance:** it establishes
+> agglomeration as an independent locational force and explains why industry does not simply follow
+> current resource costs. **Limitation:** inertia is not permanent — where the accumulated advantage
+> was specific to a declining technology rather than transferable, those same regions experienced
+> severe deindustrialisation, so persistence must be argued rather than assumed.
+
+> **Claim:** ports can substitute for a domestic resource endowment entirely.
+> **Evidence:** the great coastal industrial belts of resource-poor economies were built on
+> **imported** raw materials processed at the point of landing and exported as finished goods.
+> **Significance:** it decisively refutes the assumption that industrialisation requires domestic
+> minerals, and it explains the coastal orientation of modern industrial policy including India's
+> port-linked corridors. **Limitation:** the model depends on cheap, secure ocean freight and on
+> stable trade access, so it transfers a resource vulnerability into a **shipping and geopolitical**
+> vulnerability rather than eliminating it.
+
+### 14.6 Named industrial regions as evidence
+
+> ⚠️ Added 13 Aug 2026 after a Core-only stress test found the file rich in theory but short of
+> named cases to serve as evidence. India-specific corridor, cluster and policy detail remains in
+> `advanced/32`.
+
+| Region | Original locational logic | What it demonstrates |
+|---|---|---|
+| ⚠️ The coal-and-iron cores of western Europe and north-eastern North America | Coalfield-based heavy industry with adjacent ore, water transport and dense urban markets | The **classic raw-material orientation**, and later the clearest case of both industrial inertia and, where the accumulated skills were not transferable, of severe deindustrialisation |
+| ⚠️ The Japanese coastal industrial belt | Imported ore and fuel processed at deep-water ports and exported as finished goods | That **ports can substitute entirely for a domestic resource endowment**; the decisive counter-example to resource determinism |
+| ⚠️ The eastern Chinese littoral | Export orientation, abundant labour, port and power infrastructure, and policy-designated zones | **Policy-manufactured agglomeration** at scale — the state building the cluster rather than waiting for it |
+| ⚠️ India's eastern mineral belt | Coal, iron ore and other minerals on the shield, linked by rail to steel plants sited between the two (`31`, and the plateau geology in `02`) | **Weight-losing, raw-material-oriented** location in its purest Indian form |
+| ⚠️ India's western industrial belt | Port access, cotton and later petrochemical inputs, finance, power and a large urban market | **Market-, port- and capital-oriented** location, and the reason western industrialisation did not require local ore |
+| ⚠️ India's southern technology and engineering clusters | Skilled labour from concentrated educational institutions, research establishments, air connectivity and quality of urban services | **Knowledge agglomeration** — the modern form, in which the "raw material" is trained people and the location factor is a labour pool, not a mine |
+
+- ⚠️ **The analytical sequence these cases support:** raw-material orientation → port and market
+  orientation → knowledge and skill orientation. Each shift occurred when the **dominant cost**
+  changed, exactly as Weber's method predicts even though his specific inputs no longer dominate.
+  Presenting the cases as a sequence rather than a list is what turns them into an argument.
+
+> ⚠️ **Factual caution:** do **not** name individual plants with founding dates, output figures,
+> employment numbers or investment values from memory.

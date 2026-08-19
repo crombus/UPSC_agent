@@ -44,7 +44,9 @@ transaction types (coercive vs collusive) requiring different legal responses.
 | ✅ **Prevention of Corruption Act, 1988** | Consolidates the 1947 Act and 1952 Amendment; broadens "public servant"; introduces "criminal misconduct" (including possession of disproportionate assets); mandates trial by Special Judges; requires day-to-day proceedings. |
 | ✅ **Section 19, PC Act** | Requires prior sanction of the competent authority before a court takes cognizance of offences under Sections 7, 11, 13 and 15, intended to protect honest officials from vexatious complaints (see `21`). The sanctioning authority must "endeavour to convey the decision on the proposal for sanction within a period of three months", extendable by one further month where legal consultation is needed. |
 | ✅ **Section 17A, PC Act** (inserted 2018) | Requires prior approval of the appropriate authority before a police officer conducts any enquiry, inquiry or investigation into an alleged PC Act offence "relatable to any recommendation made or decision taken by such public servant in discharge of his official functions or duties", with the authority required to convey its decision within three months, extendable by one further month for recorded reasons. |
-| ✅ **Benami Transactions (Prohibition) Act, 1988** | Prohibits holding property in another's ("benami") name to conceal true ownership; Section 5 permitted confiscation, though the ARC (3.5.3) noted rules for confiscation had not been framed for 18 years after enactment. Substantially re-enacted as the **Prohibition of Benami Property Transactions Act, 1988** by the 2016 Amendment, in force from 1 November 2016. |
+| ✅ **Benami Transactions (Prohibition) Act, 1988** | Prohibits holding property in another's ("benami") name to conceal true ownership; Section 5 permitted confiscation, though the ARC (3.5.3) noted rules for confiscation had not been framed for 18 years after enactment. Substantially re-enacted as the **Prohibition of Benami Property Transactions Act, 1988** by the **Benami Transactions (Prohibition) Amendment Act, 2016**, which received assent on 10 August 2016 and was brought into force from **1 November 2016** (S.O. 3289(E)), inserting a fuller definitional, adjudicatory and confiscation architecture. |
+| 📰 **Benami law's retrospectivity status (as at 14 August 2026)** | In *Union of India v. Ganpati Dealcom Pvt Ltd* (23 August 2022), a two-judge Bench held the 2016 Amendment could not apply retrospectively to pre-2016 transactions and struck down the unamended Act's Section 3(2)/Section 5 as unconstitutional — but the **Supreme Court recalled this judgment in full on 18 October 2024**, holding that constitutional validity had been decided without a live contest on that specific question, and **restored the original appeal** for fresh adjudication. ⚠️ The retrospective-application question is therefore currently **open, not settled** — an answer should cite the recall as the live position, not the 2022 holding. |
+| ⚠️ **Non-performance of duty as an ethical/corruption failure** | The ARC's own broader diagnosis of misconduct (see mechanism point 6 below) treats persistent, wilful non-performance or dereliction of duty — not only active bribe-taking — as an ethical failure warranting accountability, since a public servant's core obligation (Rule 3 of the CCS/AIS Conduct Rules, `16`) is precisely "devotion to duty." This is a distinct, narrower claim from "the PC Act criminalises non-performance," which it does not. |
 
 ## 3. Mechanism: how the legal framework is meant to operate
 
@@ -82,6 +84,43 @@ transaction types (coercive vs collusive) requiring different legal responses.
    confiscation route (Benami law, attachment under money-laundering law). ⚠️ They run on different
    standards of proof and different timelines, so acquittal in the criminal case does not
    automatically end the departmental proceeding — a distinction case-study answers frequently miss.
+7. **Benami law's asset-recovery route, and why its retrospective reach is currently unsettled:**
+   📰 the 2016 Amendment substantially re-enacted the 1988 Act with a fuller definitional and
+   confiscation architecture (in force 1 November 2016); in *Ganpati Dealcom* (23 August 2022) the
+   Supreme Court held this could not reach pre-2016 transactions and struck down the unamended
+   Act's own confiscation provisions as unconstitutional — but the Court **recalled that judgment in
+   full on 18 October 2024**, because it had ruled on constitutional validity without a live
+   contest on that specific point, and restored the appeal for a fresh bench to decide. The
+   practical effect: authorities' ability to act against **pre-2016** benami transactions again
+   turns on an open question, not a settled prohibition or a settled permission either way.
+8. **Non-performance of duty as a distinct ethical/corruption failure — basis and limits.** ⚠️ The
+   ARC's own broader framing of misconduct extends beyond bribery-type "acts of commission" to
+   "acts of omission" — wilful inaction, neglect or failure to enforce known rules that itself
+   causes public loss or confers an undue private benefit (e.g., an inspector who *knowingly*
+   overlooks a reportable violation rather than merely making a discretionary risk judgment). This
+   is squarely consistent with Rule 3's "devotion to duty" obligation (`16`) and with ARC 3.2.1.7's
+   "squandering" category (`18`) treating harm-without-bribery as still culpable. **Limit:** this
+   framing requires *wilfulness or gross negligence*, not mere poor outcome — the bona fides test
+   (`21`) is the safeguard against treating every honest, good-faith failure or an unavoidable bad
+   result as "corrupt" non-performance; conflating the two would criminalise ordinary administrative
+   risk-taking.
+9. **Protected whistleblowing/ethical-dissent ladder — the sequence a case study should apply**
+   (developed fully with case applications in `20`-`21`; summarised here as it flows directly from
+   this topic's whistleblower-law status): (a) **verify facts and preserve records** before raising
+   any allegation — unverifiable complaints undermine both the whistleblower and the process (ARC
+   7.9(a), `21`); (b) **use authorised internal/vigilance channels first** — departmental grievance
+   or CVO reporting, escalating to the CVC's Public Interest Disclosure and Protection of Informer
+   (PIDPI) Resolution, 2004 route (for central-government/PSU matters) or the Lokpal (for matters
+   within its jurisdiction, `20`) as applicable; (c) **rely on the confidentiality/anti-retaliation
+   safeguards those channels provide** — PIDPI's secrecy of the complainant's identity, no
+   acknowledgment issued, and CVC-mediated follow-up, precisely to avoid exposing the whistleblower
+   to retaliation; (d) **external disclosure (media, public forum) only where the internal/vigilance
+   channel has failed or is itself compromised, and the harm is grave and imminent to public
+   interest** — and even then, with legal caution, since India's Whistle Blowers Protection Act,
+   2014 (assent 9 May 2014) has **never been brought into force**, so statutory protection for an
+   external discloser is not guaranteed; (e) **resignation is not the first response** — it should
+   follow only after (b)-(d) have been genuinely attempted and exhausted, since resigning
+   pre-emptively forecloses the very accountability channels the case exists to trigger.
 
 ## 4. Indian applications and examples
 
@@ -113,6 +152,15 @@ transaction types (coercive vs collusive) requiring different legal responses.
   under Section 8, punishable with up to seven years' imprisonment or fine or both, subject to a
   defence for a person "compelled to give such undue advantage" who reports it to a law-enforcement
   authority or investigating agency **within seven days**.
+- 📰 The Benami Transactions (Prohibition) Amendment Act, 2016 came into force **1 November 2016**;
+  the Supreme Court's 2022 *Ganpati Dealcom* ruling that it cannot apply retrospectively was
+  **recalled in full on 18 October 2024**, so the retrospective-application question is currently
+  open, pending fresh adjudication — not a settled position either way.
+- ✅ The Public Interest Disclosure and Protection of Informer (PIDPI) Resolution, 2004 designates
+  the CVC as the receiving authority for corruption complaints against central-government/PSU
+  employees, with mandatory confidentiality of the complainant's identity — the operative
+  administrative whistleblower mechanism while the Whistle Blowers Protection Act, 2014 remains
+  un-notified.
 
 ## 6. UPSC traps
 
@@ -126,8 +174,18 @@ transaction types (coercive vs collusive) requiring different legal responses.
   with a narrow, seven-day-reporting coercion defence.
 - ❌ Benami property can be freely confiscated by the government under the 1988 Act. -> ARC 3.5.3
   notes the government had not framed rules under Section 5 for confiscation for 18 years after
-  enactment, making confiscation largely inoperative under the original 1988 Act (see `20`/`23` for
-  the Benami Amendment Act 2016 and its subsequent Supreme Court history).
+  enactment, making confiscation largely inoperative under the original 1988 Act; the 2016
+  Amendment substantially cured this, but the Supreme Court's 2022 *Ganpati Dealcom* ruling on
+  retrospective reach was itself recalled in full on 18 October 2024 (see mechanism points 7-8
+  above), so pre-2016 transactions' confiscability remains an open legal question.
+- ❌ The 2022 *Ganpati Dealcom* judgment is the Supreme Court's final, settled word on Benami-law
+  retrospectivity. -> That judgment was recalled in its entirety on 18 October 2024 because the
+  Court had ruled on constitutional validity without a live contest on the point; the appeal now
+  stands restored for fresh decision, and an answer should cite the recall as the current position.
+- ❌ Non-performance of duty can never amount to corruption unless a bribe is proved. -> The ARC's
+  broader "acts of omission" framing (mechanism point 8) treats wilful or grossly negligent
+  dereliction as an ethical/corruption failure in its own right; the necessary limit is that a
+  genuine, bona fide judgment that later proves wrong is not automatically culpable (`21`).
 
 ## 7. PYQ application
 
@@ -137,6 +195,11 @@ transaction types (coercive vs collusive) requiring different legal responses.
   Law Commission's 179th Report (ARC 3.6.3) as the recommendation's origin, and the current
   position of the Whistle Blowers Protection Act, 2014 — assent 9 May 2014, never brought into
   force, with the 2015 Amendment Bill lapsed (see `10`, `20`).
+- ⚠️ Questions on Benami law should cite the *Ganpati Dealcom* recall (18 October 2024) as the
+  current position on retrospectivity, not the 2022 judgment.
+- ⚠️ A case study involving an official who considers exposing wrongdoing should be answered using
+  the nine-step whistleblowing/ethical-dissent ladder above (mechanism point 9), not a generic
+  "report it and resign if ignored" narrative.
 
 ## 8. Mains angles
 
@@ -146,11 +209,16 @@ transaction types (coercive vs collusive) requiring different legal responses.
 - ⚠️ Recommend specific legal reforms by name (collusive-bribery classification, extended PC Act
   coverage of substantially state-funded NGOs, Benami-rule notification, whistleblower-law
   enforcement) rather than a generic "strengthen anti-corruption law" answer.
+- ⚠️ When a scenario involves suspected wilful non-performance (not a bribe), name it explicitly as
+  an "acts of omission" ethical failure per the ARC's broader framing, while explicitly applying the
+  bona fides-test limit (`21`) so the answer does not over-criminalise ordinary risk-taking.
 
 > **Answer thesis:** India's anti-corruption legal framework, built around the Prevention of
 > Corruption Act's gratification-based definition, requires explicit differentiation between
 > coercive and collusive bribery — since their detection, proof and appropriate punishment differ
-> fundamentally — supported by complementary Benami-asset-recovery and whistleblower-protection law.
+> fundamentally — supported by complementary, but still-unsettled or still-uncommenced,
+> Benami-asset-recovery and whistleblower-protection law, and by a broader recognition that wilful
+> non-performance, not only bribe-taking, can itself be an ethical/corruption failure.
 
 ## 9. Probable questions
 
@@ -160,11 +228,23 @@ transaction types (coercive vs collusive) requiring different legal responses.
   Indian administration.
 - ⚠️ **Mains (15 marks):** Evaluate the case for classifying "collusive bribery" as a distinct,
   more severely punished offence under Indian law.
+- ⚠️ **Mains (10 marks):** What is the current status of the Benami Amendment Act, 2016's
+  retrospective application, following the Supreme Court's 18 October 2024 recall of its own 2022
+  *Ganpati Dealcom* judgment?
+- ⚠️ **Mains (15 marks):** Can non-performance of duty by a public servant amount to an ethical or
+  corruption failure even without proof of a bribe? Discuss with reference to the ARC's diagnosis
+  and its limits.
 
 ## 10. Study links
 
 - ✅ Advanced companion: `advanced/19_Corruption-Legal-Framework.md`.
-- ✅ `20_Anti-Corruption-Institutions.md` — the institutions enforcing this legal framework.
-- ✅ `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — Section 19 sanction and its
-  honest-official-protection purpose.
+- ✅ `16_Codes-of-Ethics-and-Codes-of-Conduct.md` — Rule 3 "devotion to duty" as the conduct-rule
+  basis for treating wilful non-performance as a failure.
+- ✅ `18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md` — ARC 3.2.1.7 "squandering" as
+  the parallel no-bribe-required harm category.
+- ✅ `20_Anti-Corruption-Institutions.md` — the institutions enforcing this legal framework, and the
+  Lokpal/PIDPI whistleblowing channels.
+- ✅ `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — Section 19 sanction, the
+  bona fides-test limit on "non-performance as corruption," and the whistleblowing ladder's internal
+  vigilance step.
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — Manjunath Shanmugam and Satyendra Dubey cases.

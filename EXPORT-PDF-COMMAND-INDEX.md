@@ -22,73 +22,73 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Ancient History (01–27; 27 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 26 remaining
+**Progress:** 0 approved · 27 generated awaiting approval · 0 remaining
 
 - [ ] 🟡 `Export PDF for Ancient History 01 — Importance & Historiography of Ancient India`
-- [ ] ⬜ `Export PDF for Ancient History 02 — Sources of Ancient Indian History`
-- [ ] ⬜ `Export PDF for Ancient History 03 — Geographical Setting & Ecology`
-- [ ] ⬜ `Export PDF for Ancient History 04 — The Stone Age: Palaeolithic & Mesolithic`
-- [ ] ⬜ `Export PDF for Ancient History 05 — Neolithic & Chalcolithic Cultures`
-- [ ] ⬜ `Export PDF for Ancient History 06 — The Harappan Civilization`
-- [ ] ⬜ `Export PDF for Ancient History 07 — The Aryan Problem & Identity of Aryan Culture`
-- [ ] ⬜ `Export PDF for Ancient History 08 — The Rig Vedic Age (Early Vedic)`
-- [ ] ⬜ `Export PDF for Ancient History 09 — The Later Vedic Phase`
-- [ ] ⬜ `Export PDF for Ancient History 10 — Jainism and Buddhism`
-- [ ] ⬜ `Export PDF for Ancient History 11 — Mahajanapadas & Rise of Magadha`
-- [ ] ⬜ `Export PDF for Ancient History 12 — Iranian & Macedonian Invasions`
-- [ ] ⬜ `Export PDF for Ancient History 13 — State & Varna Society in the Age of the Buddha`
-- [ ] ⬜ `Export PDF for Ancient History 14 — The Mauryan Empire`
-- [ ] ⬜ `Export PDF for Ancient History 15 — Significance & Decline of Mauryan Rule`
-- [ ] ⬜ `Export PDF for Ancient History 16 — Central Asian Contacts: Indo-Greeks, Shakas, Kushanas`
-- [ ] ⬜ `Export PDF for Ancient History 17 — The Satavahanas & the Deccan`
-- [ ] ⬜ `Export PDF for Ancient History 18 — The Sangam Age & the Deep South`
-- [ ] ⬜ `Export PDF for Ancient History 19 — Crafts, Commerce & Urban Growth (200 BC–AD 250)`
-- [ ] ⬜ `Export PDF for Ancient History 20 — The Gupta Empire`
-- [ ] ⬜ `Export PDF for Ancient History 21 — Life & Culture in the Gupta Age`
-- [ ] ⬜ `Export PDF for Ancient History 22 — Post-Gupta India: Harsha & Eastern India`
-- [ ] ⬜ `Export PDF for Ancient History 23 — Peninsular India: Pallavas, Chalukyas & Brahmanization`
-- [ ] ⬜ `Export PDF for Ancient History 24 — Developments in Philosophy`
-- [ ] ⬜ `Export PDF for Ancient History 25 — Cultural Interaction with Asian Countries`
-- [ ] ⬜ `Export PDF for Ancient History 26 — From Ancient to Medieval: Social Change & Legacy`
-- [ ] ⬜ `Export PDF for Ancient History 27 — Imperial Cholas: State, Society, Economy & Maritime Power`
+- [ ] 🟡 `Export PDF for Ancient History 02 — Sources of Ancient Indian History`
+- [ ] 🟡 `Export PDF for Ancient History 03 — Geographical Setting & Ecology`
+- [ ] 🟡 `Export PDF for Ancient History 04 — The Stone Age: Palaeolithic & Mesolithic`
+- [ ] 🟡 `Export PDF for Ancient History 05 — Neolithic & Chalcolithic Cultures`
+- [ ] 🟡 `Export PDF for Ancient History 06 — The Harappan Civilization`
+- [ ] 🟡 `Export PDF for Ancient History 07 — The Aryan Problem & Identity of Aryan Culture`
+- [ ] 🟡 `Export PDF for Ancient History 08 — The Rig Vedic Age (Early Vedic)`
+- [ ] 🟡 `Export PDF for Ancient History 09 — The Later Vedic Phase`
+- [ ] 🟡 `Export PDF for Ancient History 10 — Jainism and Buddhism`
+- [ ] 🟡 `Export PDF for Ancient History 11 — Mahajanapadas & Rise of Magadha`
+- [ ] 🟡 `Export PDF for Ancient History 12 — Iranian & Macedonian Invasions`
+- [ ] 🟡 `Export PDF for Ancient History 13 — State & Varna Society in the Age of the Buddha`
+- [ ] 🟡 `Export PDF for Ancient History 14 — The Mauryan Empire`
+- [ ] 🟡 `Export PDF for Ancient History 15 — Significance & Decline of Mauryan Rule`
+- [ ] 🟡 `Export PDF for Ancient History 16 — Central Asian Contacts: Indo-Greeks, Shakas, Kushanas`
+- [ ] 🟡 `Export PDF for Ancient History 17 — The Satavahanas & the Deccan`
+- [ ] 🟡 `Export PDF for Ancient History 18 — The Sangam Age & the Deep South`
+- [ ] 🟡 `Export PDF for Ancient History 19 — Crafts, Commerce & Urban Growth (200 BC–AD 250)`
+- [ ] 🟡 `Export PDF for Ancient History 20 — The Gupta Empire`
+- [ ] 🟡 `Export PDF for Ancient History 21 — Life & Culture in the Gupta Age`
+- [ ] 🟡 `Export PDF for Ancient History 22 — Post-Gupta India: Harsha & Eastern India`
+- [ ] 🟡 `Export PDF for Ancient History 23 — Peninsular India: Pallavas, Chalukyas & Brahmanization`
+- [ ] 🟡 `Export PDF for Ancient History 24 — Developments in Philosophy`
+- [ ] 🟡 `Export PDF for Ancient History 25 — Cultural Interaction with Asian Countries`
+- [ ] 🟡 `Export PDF for Ancient History 26 — From Ancient to Medieval: Social Change & Legacy`
+- [ ] 🟡 `Export PDF for Ancient History 27 — Imperial Cholas: State, Society, Economy & Maritime Power`
 
 ## Medieval History (01–25; 25 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 24 remaining
+**Progress:** 0 approved · 25 generated awaiting approval · 0 remaining
 
 - [ ] 🟡 `Export PDF for Medieval History 01 — India on the Eve of the Medieval Age & Arab-Turkish Contacts`
-- [ ] ⬜ `Export PDF for Medieval History 02 — The Ghaznavids & the Ghurian Invasions`
-- [ ] ⬜ `Export PDF for Medieval History 03 — Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty`
-- [ ] ⬜ `Export PDF for Medieval History 04 — The Khaljis: Alauddin Khalji & Market Reforms`
-- [ ] ⬜ `Export PDF for Medieval History 05 — The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah`
-- [ ] ⬜ `Export PDF for Medieval History 06 — Decline of the Sultanate: Timur, Sayyids & Lodis`
-- [ ] ⬜ `Export PDF for Medieval History 07 — Administration, Economy & Society under the Sultanate`
-- [ ] ⬜ `Export PDF for Medieval History 08 — Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension`
-- [ ] ⬜ `Export PDF for Medieval History 09 — Vijayanagara & the Bahmani Kingdom (Deccan)`
-- [ ] ⬜ `Export PDF for Medieval History 10 — The Bhakti & Sufi Movements`
-- [ ] ⬜ `Export PDF for Medieval History 11 — Art, Architecture & Culture of the Sultanate`
-- [ ] ⬜ `Export PDF for Medieval History 12 — Babur & the Central Asian Backdrop`
-- [ ] ⬜ `Export PDF for Medieval History 13 — Struggle for Empire: Afghans, Rajputs & Humayun`
-- [ ] ⬜ `Export PDF for Medieval History 14 — Sher Shah Sur & the Sur Empire`
-- [ ] ⬜ `Export PDF for Medieval History 15 — Akbar: Consolidation & Expansion of the Empire`
-- [ ] ⬜ `Export PDF for Medieval History 16 — State & Government under Akbar (Mansabdari, Dahsala)`
-- [ ] ⬜ `Export PDF for Medieval History 17 — Akbar's Religious Views: Ibadat Khana & Din-i-Ilahi`
-- [ ] ⬜ `Export PDF for Medieval History 18 — The Deccan & the Mughals (to 1657)`
-- [ ] ⬜ `Export PDF for Medieval History 19 — Foreign Policy of the Mughals`
-- [ ] ⬜ `Export PDF for Medieval History 20 — Jahangir & the Early Seventeenth Century (Nur Jahan)`
-- [ ] ⬜ `Export PDF for Medieval History 21 — Shah Jahan & the Evolution of the Mughal Ruling Class`
-- [ ] ⬜ `Export PDF for Medieval History 22 — Aurangzeb: Religious Policy, North India & the Rajputs`
-- [ ] ⬜ `Export PDF for Medieval History 23 — The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis`
-- [ ] ⬜ `Export PDF for Medieval History 24 — Mughal Society, Economy & Culture`
-- [ ] ⬜ `Export PDF for Medieval History 25 — Decline of the Mughal Empire & the Eighteenth Century`
+- [ ] 🟡 `Export PDF for Medieval History 02 — The Ghaznavids & the Ghurian Invasions`
+- [ ] 🟡 `Export PDF for Medieval History 03 — Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty`
+- [ ] 🟡 `Export PDF for Medieval History 04 — The Khaljis: Alauddin Khalji & Market Reforms`
+- [ ] 🟡 `Export PDF for Medieval History 05 — The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah`
+- [ ] 🟡 `Export PDF for Medieval History 06 — Decline of the Sultanate: Timur, Sayyids & Lodis`
+- [ ] 🟡 `Export PDF for Medieval History 07 — Administration, Economy & Society under the Sultanate`
+- [ ] 🟡 `Export PDF for Medieval History 08 — Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension`
+- [ ] 🟡 `Export PDF for Medieval History 09 — Vijayanagara & the Bahmani Kingdom (Deccan)`
+- [ ] 🟡 `Export PDF for Medieval History 10 — The Bhakti & Sufi Movements`
+- [ ] 🟡 `Export PDF for Medieval History 11 — Art, Architecture & Culture of the Sultanate`
+- [ ] 🟡 `Export PDF for Medieval History 12 — Babur & the Central Asian Backdrop`
+- [ ] 🟡 `Export PDF for Medieval History 13 — Struggle for Empire: Afghans, Rajputs & Humayun`
+- [ ] 🟡 `Export PDF for Medieval History 14 — Sher Shah Sur & the Sur Empire`
+- [ ] 🟡 `Export PDF for Medieval History 15 — Akbar: Consolidation & Expansion of the Empire`
+- [ ] 🟡 `Export PDF for Medieval History 16 — State & Government under Akbar (Mansabdari, Dahsala)`
+- [ ] 🟡 `Export PDF for Medieval History 17 — Akbar's Religious Views: Ibadat Khana & Din-i-Ilahi`
+- [ ] 🟡 `Export PDF for Medieval History 18 — The Deccan & the Mughals (to 1657)`
+- [ ] 🟡 `Export PDF for Medieval History 19 — Foreign Policy of the Mughals`
+- [ ] 🟡 `Export PDF for Medieval History 20 — Jahangir & the Early Seventeenth Century (Nur Jahan)`
+- [ ] 🟡 `Export PDF for Medieval History 21 — Shah Jahan & the Evolution of the Mughal Ruling Class`
+- [ ] 🟡 `Export PDF for Medieval History 22 — Aurangzeb: Religious Policy, North India & the Rajputs`
+- [ ] 🟡 `Export PDF for Medieval History 23 — The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis`
+- [ ] 🟡 `Export PDF for Medieval History 24 — Mughal Society, Economy & Culture`
+- [ ] 🟡 `Export PDF for Medieval History 25 — Decline of the Mughal Empire & the Eighteenth Century`
 
 ## Modern History (01–38; 38 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 37 remaining
+**Progress:** 1 approved · 2 generated awaiting approval · 35 remaining
 
 - [ ] 🟡 `Export PDF for Modern History 01 — Decline of the Mughal Empire (1707–1740s)`
-- [ ] ⬜ `Export PDF for Modern History 02 — Indian States & Society in the 18th Century (Marathas, Sikhs, successor states)`
-- [ ] ⬜ `Export PDF for Modern History 03 — The Beginnings of European Settlements (Portuguese → Dutch → English → French)`
+- [ ] 🟡 `Export PDF for Modern History 02 — Indian States & Society in the 18th Century (Marathas, Sikhs, successor states)`
+- [x] ✅ `Export PDF for Modern History 03 — The Beginnings of European Settlements (Portuguese → Dutch → English → French)`
 - [ ] ⬜ `Export PDF for Modern History 04 — The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government)`
 - [ ] ⬜ `Export PDF for Modern History 05 — British Territorial Expansion (Mysore, Marathas, Sikhs; Subsidiary Alliance & Lapse)`
 - [ ] ⬜ `Export PDF for Modern History 06 — Structure of Government & Constitutional Development, 1757–1858`
@@ -127,9 +127,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## World History (01–21; 21 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 20 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 20 remaining
 
-- [ ] 🟡 `Export PDF for World History 01 — Enlightenment and Age of Revolutions Overview`
+- [ ] ⚠️ `Export PDF for World History 01 — Enlightenment and Age of Revolutions Overview`
 - [ ] ⬜ `Export PDF for World History 02 — American Revolution`
 - [ ] ⬜ `Export PDF for World History 03 — French Revolution and Napoleon`
 - [ ] ⬜ `Export PDF for World History 04 — Industrial Revolution`
@@ -153,9 +153,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Indian Art and Culture (01–15; 15 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 14 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 14 remaining
 
-- [ ] 🟡 `Export PDF for Indian Art and Culture 01 — Architecture Foundations and Harappan Urbanism`
+- [ ] ⚠️ `Export PDF for Indian Art and Culture 01 — Architecture Foundations and Harappan Urbanism`
 - [ ] ⬜ `Export PDF for Indian Art and Culture 02 — Mauryan, Buddhist, Jain and Rock-Cut Heritage`
 - [ ] ⬜ `Export PDF for Indian Art and Culture 03 — Temple Architecture and Chandella Khajuraho`
 - [ ] ⬜ `Export PDF for Indian Art and Culture 04 — Indo-Islamic and Regional Architecture`
@@ -173,32 +173,32 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Geography (01–37; 37 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 36 remaining
+**Progress:** 0 approved · 24 generated awaiting approval · 13 remaining
 
 - [ ] 🟡 `Export PDF for Geography 01 — India Location and Extent`
-- [ ] ⬜ `Export PDF for Geography 02 — India Geological Structure`
-- [ ] ⬜ `Export PDF for Geography 03 — India Seismic Zones`
-- [ ] ⬜ `Export PDF for Geography 04 — India Erosion Landslides Groundwater`
-- [ ] ⬜ `Export PDF for Geography 05 — India Drainage and Interlinking`
-- [ ] ⬜ `Export PDF for Geography 06 — Himalayan Glaciers GLOF`
-- [ ] ⬜ `Export PDF for Geography 07 — Thar Desertification`
-- [ ] ⬜ `Export PDF for Geography 08 — India Caves Meghalayan Age`
-- [ ] ⬜ `Export PDF for Geography 09 — India Lakes and Wetlands`
-- [ ] ⬜ `Export PDF for Geography 10 — India Coast and CRZ`
-- [ ] ⬜ `Export PDF for Geography 11 — India Islands Great Nicobar`
-- [ ] ⬜ `Export PDF for Geography 12 — Indian Ocean and IOD`
-- [ ] ⬜ `Export PDF for Geography 13 — India JetStream Western Disturbances`
-- [ ] ⬜ `Export PDF for Geography 14 — India Climatic Regions`
-- [ ] ⬜ `Export PDF for Geography 15 — India Evergreen Forests`
-- [ ] ⬜ `Export PDF for Geography 16 — India Monsoon Mechanism`
-- [ ] ⬜ `Export PDF for Geography 17 — India Deciduous and Grasslands`
-- [ ] ⬜ `Export PDF for Geography 18 — Thar Desert and GIB`
-- [ ] ⬜ `Export PDF for Geography 19 — India Himalayan Fruit Belt`
-- [ ] ⬜ `Export PDF for Geography 20 — India Wheat Granary`
-- [ ] ⬜ `Export PDF for Geography 21 — India Humid Subtropical NE`
-- [ ] ⬜ `Export PDF for Geography 22 — India Himalayan Temperate Forests`
-- [ ] ⬜ `Export PDF for Geography 23 — India Subalpine Alpine Belt`
-- [ ] ⬜ `Export PDF for Geography 24 — India Eastern Himalaya Temperate`
+- [ ] 🟡 `Export PDF for Geography 02 — India Geological Structure`
+- [ ] 🟡 `Export PDF for Geography 03 — India Seismic Zones`
+- [ ] 🟡 `Export PDF for Geography 04 — India Erosion Landslides Groundwater`
+- [ ] 🟡 `Export PDF for Geography 05 — India Drainage and Interlinking`
+- [ ] 🟡 `Export PDF for Geography 06 — Himalayan Glaciers GLOF`
+- [ ] 🟡 `Export PDF for Geography 07 — Thar Desertification`
+- [ ] 🟡 `Export PDF for Geography 08 — India Caves Meghalayan Age`
+- [ ] 🟡 `Export PDF for Geography 09 — India Lakes and Wetlands`
+- [ ] 🟡 `Export PDF for Geography 10 — India Coast and CRZ`
+- [ ] 🟡 `Export PDF for Geography 11 — India Islands Great Nicobar`
+- [ ] 🟡 `Export PDF for Geography 12 — Indian Ocean and IOD`
+- [ ] 🟡 `Export PDF for Geography 13 — India JetStream Western Disturbances`
+- [ ] 🟡 `Export PDF for Geography 14 — India Climatic Regions`
+- [ ] 🟡 `Export PDF for Geography 15 — India Evergreen Forests`
+- [ ] 🟡 `Export PDF for Geography 16 — India Monsoon Mechanism`
+- [ ] 🟡 `Export PDF for Geography 17 — India Deciduous and Grasslands`
+- [ ] 🟡 `Export PDF for Geography 18 — Thar Desert and GIB`
+- [ ] 🟡 `Export PDF for Geography 19 — India Himalayan Fruit Belt`
+- [ ] 🟡 `Export PDF for Geography 20 — India Wheat Granary`
+- [ ] 🟡 `Export PDF for Geography 21 — India Humid Subtropical NE`
+- [ ] 🟡 `Export PDF for Geography 22 — India Himalayan Temperate Forests`
+- [ ] 🟡 `Export PDF for Geography 23 — India Subalpine Alpine Belt`
+- [ ] 🟡 `Export PDF for Geography 24 — India Eastern Himalaya Temperate`
 - [ ] ⬜ `Export PDF for Geography 25 — India Cold Desert and Poles`
 - [ ] ⬜ `Export PDF for Geography 26 — World Population and Demographic Transition`
 - [ ] ⬜ `Export PDF for Geography 27 — Migration Theories and Patterns India`
@@ -233,43 +233,43 @@ when an official key is unavailable, and validate both PDFs before completion.
 - [ ] ⬜ `Export PDF for Indian Society 14 — Regionalism`
 - [ ] ⬜ `Export PDF for Indian Society 15 — Secularism`
 
-## Polity (01–49; 49 topics)
+## Polity (01–55; 55 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 48 remaining
+**Progress:** 0 approved · 33 generated awaiting approval · 22 remaining
 
 - [ ] 🟡 `Export PDF for Polity 01 — Historical Background`
-- [ ] ⬜ `Export PDF for Polity 02 — Making of the Constitution`
-- [ ] ⬜ `Export PDF for Polity 03 — Salient Features`
-- [ ] ⬜ `Export PDF for Polity 04 — Preamble`
-- [ ] ⬜ `Export PDF for Polity 05 — Union and Territory`
-- [ ] ⬜ `Export PDF for Polity 06 — Citizenship`
-- [ ] ⬜ `Export PDF for Polity 07 — Fundamental Rights`
-- [ ] ⬜ `Export PDF for Polity 08 — Directive Principles`
-- [ ] ⬜ `Export PDF for Polity 09 — Fundamental Duties`
-- [ ] ⬜ `Export PDF for Polity 10 — Amendment and Basic Structure`
-- [ ] ⬜ `Export PDF for Polity 11 — Parliamentary System`
-- [ ] ⬜ `Export PDF for Polity 12 — Federal System`
-- [ ] ⬜ `Export PDF for Polity 13 — Centre State and Inter State Relations`
-- [ ] ⬜ `Export PDF for Polity 14 — Emergency Provisions`
-- [ ] ⬜ `Export PDF for Polity 15 — President and Vice President`
-- [ ] ⬜ `Export PDF for Polity 16 — PM and Council of Ministers`
-- [ ] ⬜ `Export PDF for Polity 17 — Parliament`
-- [ ] ⬜ `Export PDF for Polity 18 — Supreme Court`
-- [ ] ⬜ `Export PDF for Polity 19 — Governor CM State Council`
-- [ ] ⬜ `Export PDF for Polity 20 — State Legislature`
-- [ ] ⬜ `Export PDF for Polity 21 — High Court and Subordinate Courts`
-- [ ] ⬜ `Export PDF for Polity 22 — Special Provisions`
-- [ ] ⬜ `Export PDF for Polity 23 — Panchayati Raj`
-- [ ] ⬜ `Export PDF for Polity 24 — Municipalities`
-- [ ] ⬜ `Export PDF for Polity 25 — Union Territories`
-- [ ] ⬜ `Export PDF for Polity 26 — Scheduled and Tribal Areas`
-- [ ] ⬜ `Export PDF for Polity 27 — Election Commission`
-- [ ] ⬜ `Export PDF for Polity 28 — UPSC and SPSC`
-- [ ] ⬜ `Export PDF for Polity 29 — Finance Commission`
-- [ ] ⬜ `Export PDF for Polity 30 — GST Council`
-- [ ] ⬜ `Export PDF for Polity 31 — National Commissions SC ST BC`
-- [ ] ⬜ `Export PDF for Polity 32 — CAG`
-- [ ] ⬜ `Export PDF for Polity 33 — Attorney General and Advocate General`
+- [ ] 🟡 `Export PDF for Polity 02 — Making of the Constitution`
+- [ ] 🟡 `Export PDF for Polity 03 — Salient Features`
+- [ ] 🟡 `Export PDF for Polity 04 — Preamble`
+- [ ] 🟡 `Export PDF for Polity 05 — Union and Territory`
+- [ ] 🟡 `Export PDF for Polity 06 — Citizenship`
+- [ ] 🟡 `Export PDF for Polity 07 — Fundamental Rights`
+- [ ] 🟡 `Export PDF for Polity 08 — Directive Principles`
+- [ ] 🟡 `Export PDF for Polity 09 — Fundamental Duties`
+- [ ] 🟡 `Export PDF for Polity 10 — Amendment and Basic Structure`
+- [ ] 🟡 `Export PDF for Polity 11 — Parliamentary System`
+- [ ] 🟡 `Export PDF for Polity 12 — Federal System`
+- [ ] 🟡 `Export PDF for Polity 13 — Centre State and Inter State Relations`
+- [ ] 🟡 `Export PDF for Polity 14 — Emergency Provisions`
+- [ ] 🟡 `Export PDF for Polity 15 — President and Vice President`
+- [ ] 🟡 `Export PDF for Polity 16 — PM and Council of Ministers`
+- [ ] 🟡 `Export PDF for Polity 17 — Parliament`
+- [ ] 🟡 `Export PDF for Polity 18 — Supreme Court`
+- [ ] 🟡 `Export PDF for Polity 19 — Governor CM State Council`
+- [ ] 🟡 `Export PDF for Polity 20 — State Legislature`
+- [ ] 🟡 `Export PDF for Polity 21 — High Court and Subordinate Courts`
+- [ ] 🟡 `Export PDF for Polity 22 — Special Provisions`
+- [ ] 🟡 `Export PDF for Polity 23 — Panchayati Raj`
+- [ ] 🟡 `Export PDF for Polity 24 — Municipalities`
+- [ ] 🟡 `Export PDF for Polity 25 — Union Territories`
+- [ ] 🟡 `Export PDF for Polity 26 — Scheduled and Tribal Areas`
+- [ ] 🟡 `Export PDF for Polity 27 — Election Commission`
+- [ ] 🟡 `Export PDF for Polity 28 — UPSC and SPSC`
+- [ ] 🟡 `Export PDF for Polity 29 — Finance Commission`
+- [ ] 🟡 `Export PDF for Polity 30 — GST Council`
+- [ ] 🟡 `Export PDF for Polity 31 — National Commissions SC ST BC`
+- [ ] 🟡 `Export PDF for Polity 32 — CAG`
+- [ ] 🟡 `Export PDF for Polity 33 — Attorney General and Advocate General`
 - [ ] ⬜ `Export PDF for Polity 34 — NITI Aayog`
 - [ ] ⬜ `Export PDF for Polity 35 — NHRC and SHRC`
 - [ ] ⬜ `Export PDF for Polity 36 — CIC and SIC`
@@ -286,6 +286,12 @@ when an official key is unavailable, and validate both PDFs before completion.
 - [ ] ⬜ `Export PDF for Polity 47 — Comparative Constitutional Design`
 - [ ] ⬜ `Export PDF for Polity 48 — Ministries Departments and Central Secretariat`
 - [ ] ⬜ `Export PDF for Polity 49 — Regulatory State and Quasi Judicial Institutions`
+- [ ] ⬜ `Export PDF for Polity 50 — Concept of the Constitution`
+- [ ] ⬜ `Export PDF for Polity 51 — Rights and Liabilities of the Government`
+- [ ] ⬜ `Export PDF for Polity 52 — NCRWC and Working of the Constitution`
+- [ ] ⬜ `Export PDF for Polity 53 — Special Provisions Relating to Certain Classes`
+- [ ] ⬜ `Export PDF for Polity 54 — Lok Adalats and Other Courts`
+- [ ] ⬜ `Export PDF for Polity 55 — Constitutional Interpretation Doctrines`
 
 ## Governance (01–16; 16 topics)
 
@@ -310,9 +316,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Social Justice (01–17; 17 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 16 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 16 remaining
 
-- [ ] 🟡 `Export PDF for Social Justice 01 — Social Justice, Inclusion and Welfare-State Framework`
+- [ ] ⚠️ `Export PDF for Social Justice 01 — Social Justice, Inclusion and Welfare-State Framework`
 - [ ] ⬜ `Export PDF for Social Justice 02 — Poverty, Hunger, Food and Nutrition Security`
 - [ ] ⬜ `Export PDF for Social Justice 03 — Health Systems, Public Health and Universal Health Coverage`
 - [ ] ⬜ `Export PDF for Social Justice 04 — Education and Human-Resource Development`
@@ -332,10 +338,10 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## International Relations (01–12; 12 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 11 remaining
+**Progress:** 0 approved · 2 generated awaiting approval · 10 remaining
 
 - [ ] 🟡 `Export PDF for International Relations 01 — Foreign-Policy Foundations and Strategic Autonomy`
-- [ ] ⬜ `Export PDF for International Relations 02 — India and the Neighbourhood`
+- [ ] 🟡 `Export PDF for International Relations 02 — India and the Neighbourhood`
 - [ ] ⬜ `Export PDF for International Relations 03 — India, China, Major Powers and Resilient Supply Chains`
 - [ ] ⬜ `Export PDF for International Relations 04 — Indo-Pacific, Indian Ocean and Maritime Security`
 - [ ] ⬜ `Export PDF for International Relations 05 — Central Asia, Eurasia and Connectivity`
@@ -349,9 +355,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Economy (01–31; 31 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 30 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 30 remaining
 
-- [ ] 🟡 `Export PDF for Economy 01 — National Income: GDP, GVA, GNP, NDP and Measurement`
+- [ ] ⚠️ `Export PDF for Economy 01 — National Income: GDP, GVA, GNP, NDP and Measurement`
 - [ ] ⬜ `Export PDF for Economy 02 — Growth, Development, HDI, IHDI and MPI`
 - [ ] ⬜ `Export PDF for Economy 03 — Inflation, Price Indices and Business Cycles`
 - [ ] ⬜ `Export PDF for Economy 04 — RBI, Monetary Policy and Liquidity Management`
@@ -385,9 +391,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Environment and Ecology (01–28; 28 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 27 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 27 remaining
 
-- [ ] 🟡 `Export PDF for Environment and Ecology 01 — Ecosystem Structure and Function`
+- [ ] ⚠️ `Export PDF for Environment and Ecology 01 — Ecosystem Structure and Function`
 - [ ] ⬜ `Export PDF for Environment and Ecology 02 — Biogeochemical Cycles and Ecological Pyramids`
 - [ ] ⬜ `Export PDF for Environment and Ecology 03 — Ecological Succession and Biomes`
 - [ ] ⬜ `Export PDF for Environment and Ecology 04 — Biodiversity Levels and Hotspots`
@@ -418,9 +424,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Science and Technology (01–26; 26 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 25 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 25 remaining
 
-- [ ] 🟡 `Export PDF for Science and Technology 01 — Space Programme: ISRO, Organisation and Launch Vehicles`
+- [ ] ⚠️ `Export PDF for Science and Technology 01 — Space Programme: ISRO, Organisation and Launch Vehicles`
 - [ ] ⬜ `Export PDF for Science and Technology 02 — Satellites, NavIC, GAGAN and Applications`
 - [ ] ⬜ `Export PDF for Science and Technology 03 — Human Spaceflight: Gaganyaan and Planetary Missions`
 - [ ] ⬜ `Export PDF for Science and Technology 04 — Nuclear Power and the Three-Stage Programme`
@@ -449,9 +455,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Internal Security (01–12; 12 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 11 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 11 remaining
 
-- [ ] 🟡 `Export PDF for Internal Security 01 — Internal-Security Foundations and Governance`
+- [ ] ⚠️ `Export PDF for Internal Security 01 — Internal-Security Foundations and Governance`
 - [ ] ⬜ `Export PDF for Internal Security 02 — Terrorism and Counter-Terror Architecture`
 - [ ] ⬜ `Export PDF for Internal Security 03 — Left-Wing Extremism and Integrated Response`
 - [ ] ⬜ `Export PDF for Internal Security 04 — North-East Insurgency and Peace Processes`
@@ -466,9 +472,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Disaster Management (01–18; 18 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 17 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 17 remaining
 
-- [ ] 🟡 `Export PDF for Disaster Management 01 — Concepts, Risk, Resilience and Sendai`
+- [ ] ⚠️ `Export PDF for Disaster Management 01 — Concepts, Risk, Resilience and Sendai`
 - [ ] ⬜ `Export PDF for Disaster Management 02 — Indian Legal and Institutional Architecture`
 - [ ] ⬜ `Export PDF for Disaster Management 03 — Community-Based DRR and Inclusive Protection`
 - [ ] ⬜ `Export PDF for Disaster Management 04 — Multi-Hazard Early Warning and Disaster Technology`
@@ -489,9 +495,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Ethics (01–23; 23 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 22 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 22 remaining
 
-- [ ] 🟡 `Export PDF for Ethics 01 — Ethics and Human Interface`
+- [ ] ⚠️ `Export PDF for Ethics 01 — Ethics and Human Interface`
 - [ ] ⬜ `Export PDF for Ethics 02 — Human Values and Lessons from Leaders`
 - [ ] ⬜ `Export PDF for Ethics 03 — Attitude: Content, Structure and Persuasion`
 - [ ] ⬜ `Export PDF for Ethics 04 — Aptitude and Foundational Values for Civil Service`
@@ -517,9 +523,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Political Theory (01–23; 23 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 22 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 22 remaining
 
-- [ ] 🟡 `Export PDF for Political Theory 01 — Nature and Significance of Political Theory`
+- [ ] ⚠️ `Export PDF for Political Theory 01 — Nature and Significance of Political Theory`
 - [ ] ⬜ `Export PDF for Political Theory 02 — Ideology and End of Ideology`
 - [ ] ⬜ `Export PDF for Political Theory 03 — Liberalism and Neoliberalism`
 - [ ] ⬜ `Export PDF for Political Theory 04 — Marxism and Neo-Marxism`
@@ -545,9 +551,9 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Essay (01–16; 16 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 15 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 15 remaining
 
-- [ ] 🟡 `Export PDF for Essay 01 — Paper Rules, Choice and Selection`
+- [ ] ⚠️ `Export PDF for Essay 01 — Paper Rules, Choice and Selection`
 - [ ] ⬜ `Export PDF for Essay 02 — Philosophical Quote Decoding`
 - [ ] ⬜ `Export PDF for Essay 03 — Issue-Based Prompt Scoping`
 - [ ] ⬜ `Export PDF for Essay 04 — Brainstorming and Dimensional Expansion`
@@ -566,10 +572,10 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## CSAT (00–30; 12 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 11 remaining
+**Progress:** 0 approved · 0 generated awaiting approval · 11 remaining
 
 - [ ] ⬜ `Export PDF for CSAT 00 — 27`
-- [ ] 🟡 `Export PDF for CSAT 01 — Reading-Comprehension`
+- [ ] ⚠️ `Export PDF for CSAT 01 — Reading-Comprehension`
 - [ ] ⬜ `Export PDF for CSAT 02 — Number-Systems-and-Number-Sense`
 - [ ] ⬜ `Export PDF for CSAT 03 — Arithmetic-and-Commercial-Math`
 - [ ] ⬜ `Export PDF for CSAT 04 — Rates-Motion-Time-and-Geometry`
@@ -585,11 +591,11 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 **Progress:** 0 approved · 0 generated awaiting approval · 7 remaining
 
-- [ ] ⬜ `Export PDF for Qualifying English 01 — Parts of Speech: nouns, pronouns, adjectives, verbs and adverbs`
-- [ ] ⬜ `Export PDF for Qualifying English 02 — Sentence Structure: agreement, tense, articles, prepositions and conjunctions`
-- [ ] ⬜ `Export PDF for Qualifying English 03 — Punctuation and Capitalisation, especially comma usage`
-- [ ] ⬜ `Export PDF for Qualifying English 04 — Vocabulary, Confusables, Idioms and Proverbs`
-- [ ] ⬜ `Export PDF for Qualifying English 05 — Error Correction and Sentence Transformation`
+- [ ] ⬜ `Export PDF for Qualifying English 01 — Parts of Speech`
+- [ ] ⬜ `Export PDF for Qualifying English 02 — Sentence Grammar`
+- [ ] ⬜ `Export PDF for Qualifying English 03 — Punctuation and Capitalisation`
+- [ ] ⬜ `Export PDF for Qualifying English 04 — Vocabulary Idioms and Proverbs`
+- [ ] ⬜ `Export PDF for Qualifying English 05 — Error Correction and Transformation`
 - [ ] ⬜ `Export PDF for Qualifying English 06 — Comprehension and Precis`
 - [ ] ⬜ `Export PDF for Qualifying English 07 — Short Essay Writing`
 
@@ -597,44 +603,47 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 **Progress:** 0 approved · 0 generated awaiting approval · 6 remaining
 
-- [ ] ⬜ `Export PDF for Qualifying Hindi 01 — संज्ञा, सर्वनाम, विशेषण, क्रिया और अव्यय`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 02 — लिंग, वचन, कारक, काल, वाच्य, वर्तनी और वाक्य-शुद्धि`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 03 — शब्द-भंडार, पर्याय, विलोम, शब्द-युग्म, मुहावरे और लोकोक्तियाँ`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 04 — गद्यांश-बोध और संक्षेपण`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 05 — निबन्ध-लेखन`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 06 — द्विदिश अनुवाद`
+- [ ] ⬜ `Export PDF for Qualifying Hindi 01 — शब्द भेद`
+- [ ] ⬜ `Export PDF for Qualifying Hindi 02 — व्याकरण वर्तनी वाक्य शुद्धि`
+- [ ] ⬜ `Export PDF for Qualifying Hindi 03 — शब्दावली मुहावरे लोकोक्तियाँ`
+- [ ] ⬜ `Export PDF for Qualifying Hindi 04 — बोध और संक्षेपण`
+- [ ] ⬜ `Export PDF for Qualifying Hindi 05 — निबन्ध लेखन`
+- [ ] ⬜ `Export PDF for Qualifying Hindi 06 — अनुवाद`
 
 # Philosophy Optional
 
+> Every Philosophy export command uses the five-layer format: SIMPLE START -> CORE UPSC -> ADVANCED -> EXAM APPLICATION -> RAPID REVISION.
+> For a single layered notes PDF plus Markdown, use `Philosophy Notes: <Topic>`. For the full package, use any command below or `Export Philosophy PDF: <Topic>`.
+
 ## Philosophy Paper I — Western Philosophy (01–11; 11 topics)
 
-**Progress:** 1 approved · 0 generated awaiting approval · 10 remaining
+**Progress:** 0 approved · 11 generated awaiting approval · 0 remaining
 
-- [x] ✅ `Export PDF for Philosophy Paper I — Western Philosophy 01 — Plato and Aristotle`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 02 — Rationalism`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 03 — Empiricism`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 04 — Kant`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 05 — Hegel`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 06 — Moore, Russell and Early Wittgenstein`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 07 — Logical Positivism`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 08 — Later Wittgenstein`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 09 — Phenomenology (Husserl)`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 10 — Existentialism`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Western Philosophy 11 — Quine and Strawson`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 01 — Plato and Aristotle`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 02 — Rationalism`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 03 — Empiricism`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 04 — Kant`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 05 — Hegel`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 06 — Moore, Russell and Early Wittgenstein`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 07 — Logical Positivism`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 08 — Later Wittgenstein`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 09 — Phenomenology (Husserl)`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 10 — Existentialism`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 11 — Quine and Strawson`
 
 ## Philosophy Paper I — Indian Philosophy (01–09; 9 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 8 remaining
+**Progress:** 0 approved · 9 generated awaiting approval · 0 remaining
 
 - [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 01 — Carvaka`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Indian Philosophy 02 — Jainism`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Indian Philosophy 03 — Schools of Buddhism`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Indian Philosophy 04 — Nyaya–Vaisesika`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Indian Philosophy 05 — Samkhya`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Indian Philosophy 06 — Yoga`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Indian Philosophy 07 — Mimamsa`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Indian Philosophy 08 — Schools of Vedanta`
-- [ ] ⬜ `Export PDF for Philosophy Paper I — Indian Philosophy 09 — Aurobindo`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 02 — Jainism`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 03 — Schools of Buddhism`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 04 — Nyaya–Vaisesika`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 05 — Samkhya`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 06 — Yoga`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 07 — Mimamsa`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 08 — Schools of Vedanta`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 09 — Aurobindo`
 
 ## Philosophy Paper II — Socio-Political Philosophy (01–10; 10 topics)
 
@@ -653,12 +662,12 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Philosophy Paper II — Philosophy of Religion (01–10; 10 topics)
 
-**Progress:** 0 approved · 2 generated awaiting approval · 8 remaining
+**Progress:** 0 approved · 4 generated awaiting approval · 6 remaining
 
 - [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 01 — Notions of God`
 - [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 02 — Proofs for the Existence of God`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 03 — Problem of Evil`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 04 — Soul: Immortality, Rebirth and Liberation`
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 03 — Problem of Evil`
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 04 — Soul: Immortality, Rebirth and Liberation`
 - [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 05 — Reason, Revelation and Faith`
 - [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 06 — Religious Experience`
 - [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 07 — Religion without God`
@@ -668,11 +677,11 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 # Index Summary
 
-- **Total copy-paste commands:** 514
+- **Total copy-paste commands:** 520
 - **Approved complete:** 1
-- **Generated awaiting approval:** 23
-- **Incomplete recorded packages:** 0
-- **Remaining topics:** 490
+- **Generated awaiting approval:** 139
+- **Incomplete recorded packages:** 12
+- **Remaining topics:** 368
 - **General/qualifying subject sections:** 22
 - **Philosophy syllabus blocks:** 4
 - **Indexes requiring manual review:** None

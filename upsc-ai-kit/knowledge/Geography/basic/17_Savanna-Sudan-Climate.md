@@ -92,6 +92,54 @@ progress estimates vary by definition and reporting year.
 - Explain why the savanna is called a transitional climate and how the wet-dry rhythm shapes vegetation, wildlife and agriculture.
 - Assess the Great Green Wall as a nature-based response to Sahel desertification and identify lessons for dryland restoration.
 
+## 9. Answer architecture (10/15/20-mark support)
+
+### 9.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Why is the savanna a grassland rather than a forest?" | The wet-and-dry rainfall regime **plus** fire and grazing as maintaining agents | Give rainfall as the only cause |
+| "Discuss the savanna as a problem environment for agriculture" | Rainfall unreliability, leaching and laterisation, pest and disease burden, and the resulting land-use strategies | Treat it as simply dry |
+| "Compare the savanna with the steppe grassland" | Latitude, rainfall regime, soil, tree presence and economic use | Merge tropical and temperate grasslands |
+
+### 9.2 The controversy worth knowing
+
+⚠️ The savanna is often described as a **derived or fire-maintained** grassland rather than a purely
+climatic one: repeated burning, whether natural or deliberate, and sustained grazing suppress tree
+seedlings and favour fire-tolerant grasses and thick-barked trees. The honest position for an answer
+is that the wet-and-dry regime makes grassland *possible* while fire and grazing make it
+*persistent*. Saying this converts a descriptive answer into an analytical one, and it is the same
+non-deterministic reasoning the folder applies elsewhere.
+
+### 9.3 Reusable 10-mark spine — savanna as a problem environment
+
+1. **Thesis:** the savanna's difficulty is not aridity but **unreliability** — a substantial annual
+   rainfall arrives in a short, variable season, so the risk of failure is high even though the
+   total looks adequate.
+2. **Physical constraints:** a long dry season with high evaporation; alternating wetting and drying
+   that drives leaching and laterite hardening (mechanism in
+   `04_Weathering-MassMovement-Groundwater.md`); a heavy pest and disease burden for livestock and
+   people; and fire as a permanent feature of the system.
+3. **Adaptive land use:** drought-tolerant cereals and millets; pastoralism and seasonal
+   transhumance; opportunistic cultivation timed to the rains; game and wildlife-based economies.
+4. **The pressure of change:** cultivation of marginal land, sedentarisation of herders, and
+   boreholes concentrating grazing around water points, all of which raise degradation risk on the
+   dry margin (see `07_Arid-Desert-Landforms.md`).
+5. **Balance:** the savanna also carries the world's greatest concentrations of large mammals and,
+   with water control, genuine agricultural potential — it is a risky environment, not a poor one.
+6. **Conclusion:** graded — the binding constraint is **water reliability and soil management**, both
+   of which are addressable, which is why savanna outcomes vary so widely between regions with
+   similar climates.
+
+### 9.4 Evidence unit
+
+> **Claim:** vegetation boundaries are not always climatic boundaries. **Evidence:** the savanna's
+> tree-grass balance is maintained by recurrent fire and grazing as much as by the rainfall regime,
+> and fire-tolerant species dominate. **Significance:** it shows that a biome can be a coupled
+> human-ecological product, which reframes "conservation" as management of a disturbance regime
+> rather than protection from disturbance. **Limitation:** the underlying seasonal rainfall regime
+> still sets the outer limits — fire cannot create savanna in an equatorial or a desert climate.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

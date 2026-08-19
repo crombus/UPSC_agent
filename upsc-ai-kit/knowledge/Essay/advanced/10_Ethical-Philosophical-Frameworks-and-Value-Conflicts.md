@@ -6,7 +6,7 @@
 > welfare, dignity, fairness, care and ecological responsibility as
 > analytical categories; avoiding both relativism and unqualified
 > absolutism.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Section 7; `Ethics`
 > module (for full thinker/theory depth).
 > **Research cutoff:** 18 July 2026.
@@ -17,7 +17,9 @@
 
 ## 1. Advanced proposition and boundary
 
-**Proposition:** ⚠️ a value conflict is resolved analytically, not
+**Proposition:** ⚠️ Core `10` supplies the compact category card,
+voiceless-stakeholder test and one worked paragraph. This companion
+keeps the harder task: a value conflict is resolved analytically, not
 rhetorically — by naming the specific ethical categories in tension
 (rights, welfare, dignity, fairness, care, ecological responsibility)
 and stating the condition under which each should govern, rather than by
@@ -164,7 +166,7 @@ unqualified ranking; log any unqualified priorities caught late in `16`'s
 error log.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
+## V1 PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.

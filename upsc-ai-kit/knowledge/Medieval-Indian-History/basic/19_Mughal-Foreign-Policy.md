@@ -83,3 +83,37 @@
 - ⚠️ Mughal foreign policy combined **frontier defence**, **balance of power**, and **commercial interests**.
 - ⚠️ Qandhar illustrates the overlap of prestige, strategy and trade in medieval diplomacy.
 - ⚠️ Compare medieval Indo-Central Asian connectivity with modern Chabahar/INSTC debates carefully, without anachronism.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Examine Mughal foreign policy | "Mughal foreign policy was India-centric and defensive: it aimed to secure Kabul, keep the Uzbeks in check, maintain friendship with Persia as a counterweight, and protect trade routes — not reconquer Timurid Central Asia." |
+| Assess Qandhar's significance | "Qandhar represented strategic depth (outer bastion for Kabul), commercial hub (India–Central Asia trade), and imperial prestige — its loss weakened all three dimensions simultaneously." |
+| Evaluate Balkh campaign | "Shah Jahan's Balkh venture (1646–47) was defensive forward-policy (preventing Uzbek unity near Kabul), not romantic expansionism — but it proved strategically unsustainable." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Mughals refused Sunni bloc with Uzbeks/Ottomans against Shia Persia | Balance-of-power logic overrode sectarian solidarity | Shows strategic realism in Mughal diplomacy | Decision was self-interested, not principled tolerance |
+| 2 | ✅ Qandhar acquired (1595), lost (1622), recovered (1638), lost finally (1649) | Repeated oscillation shows frontier's structural instability | Demonstrates limits of Mughal military reach beyond the subcontinent | Mughal failure was also about siege-warfare limitations vs Persian fortifications |
+| 3 | ✅ Balkh campaign (1646–47): militarily successful but logistically unsustainable | Forward defence has diminishing returns beyond supply lines | Classic overextension lesson applicable to comparison questions | "Success" was temporary; garrison withdrew under pressure |
+| 4 | ✅ Akbar annexed Kabul (1585) after Mirza Hakim's death | Kabul was the non-negotiable anchor of Mughal northwest defence | Shows that even the "Indian" empire maintained a trans-frontier outpost | Kabul required continuous subsidy from Indian revenues |
+| 5 | ✅ Trade through Qandhar: India–Central Asia–Iran route; horse imports | Commercial interest underpinned strategic concern | Connects foreign policy to economic motives | Alternative routes (sea, Sind) reduced Qandhar's uniqueness over time |
+
+### 8.3 Counterpoints
+
+- ⚠️ Not entirely "defensive" — prestige and Timurid legacy claims motivated Balkh; pure security would not have ventured so far.
+- ⚠️ Persian friendship was strained by the Qandhar rivalry; "friendship as keynote" is an aspiration, not constant reality.
+- ⚠️ Mughal disengagement from Central Asia after 1650s freed resources for the Deccan but also removed a potential check on Afghan incursions.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** India-centric thesis + Qandhar cycle (2–3 units); conclude: realistic defence, not romantic irredentism.
+- **15-mark:** Add balance-of-power + Balkh + trade dimension.
+- **20-mark:** Full 5-unit + comparison with modern India's neighbourhood policy (with explicit anachronism caveat); graded verdict.

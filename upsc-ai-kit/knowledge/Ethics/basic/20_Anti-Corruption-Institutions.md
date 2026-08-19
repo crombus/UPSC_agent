@@ -61,6 +61,14 @@ the Lokpal) was needed.
    cases involving collusion between Ministers/officials are handled coherently, with the CVC
    working "under the overall guidance and superintendence of the Lok Pal" while retaining its own
    functional autonomy.
+5. **These institutions are the "authorised channel" step of the whistleblowing/ethical-dissent
+   ladder** (full ladder developed in `19`, applied to honest-official protection in `21`): a
+   central-government/PSU employee's corruption complaint is routed first to the CVC under the
+   **Public Interest Disclosure and Protection of Informer (PIDPI) Resolution, 2004** (identity kept
+   confidential, no acknowledgment issued, to avoid retaliation); matters within the Lokpal's
+   statutory jurisdiction (Ministers, MPs, specified officials/societies) go to the Lokpal, which
+   can direct or refer investigation to the CBI. ⚠️ Both are internal/institutional channels — the
+   ladder's later, external-disclosure step is a last resort, not a substitute for using these first.
 
 ## 4. Indian applications and examples
 
@@ -70,7 +78,7 @@ the Lokpal) was needed.
 - 📰 The Lokpal and Lokayuktas Act, 2013 received assent on 1 January 2014 and came into force on
   **16 January 2014**, but the first Lokpal Chairperson (Justice Pinaki Chandra Ghose) was appointed
   only on **19 March 2019**, assuming office on 23 March 2019 — a five-year gap between commencement
-  and operation. 📰 The Chairperson as at 4 August 2026 is **Justice Ajay Manikrao Khanwilkar**,
+  and operation. 📰 The Chairperson as at 14 August 2026 is **Justice Ajay Manikrao Khanwilkar**,
   appointed on 10 March 2024; check lokpal.gov.in on the day of use before naming an incumbent.
 - ⚠️ A case involving both a Minister and a senior bureaucrat accused of collusive favouritism in a
   licensing decision exemplifies exactly the "organic link" scenario the ARC's 4.3.3 recommendation
@@ -100,6 +108,10 @@ the Lokpal) was needed.
 - ❌ The ARC recommended that the Prime Minister be entirely exempt from any anti-corruption scrutiny.
   -> The ARC recommended Parliamentary accountability (no-confidence motion), not exemption from
   scrutiny altogether — a nuanced institutional-design argument, not a special-privilege claim.
+- ❌ A whistleblower can approach the CVC/Lokpal anonymously and still receive full protection. ->
+  PIDPI explicitly excludes anonymous/pseudonymous complaints from consideration; the complainant's
+  identity must be known to the CVC (and kept confidential from others) for the mechanism to
+  operate — anonymity and confidentiality are not the same safeguard.
 
 ## 7. PYQ application
 
@@ -108,6 +120,9 @@ the Lokpal) was needed.
   (4.3.3) by name.
 - ⚠️ Questions on "accountability of high constitutional functionaries" can draw on the ARC's own
   Prime-Minister-jurisdiction debate (4.3.5-4.3.10) as a genuine, two-sided institutional argument.
+- ⚠️ Case studies involving an official weighing whether/how to report suspected wrongdoing should
+  route through the CVC (PIDPI)/Lokpal institutional channels named here as the "authorised
+  channel" step of the whistleblowing ladder (`19`, `21`), before any external-disclosure step.
 
 ## 8. Mains angles
 
@@ -136,6 +151,9 @@ the Lokpal) was needed.
 
 - ✅ Advanced companion: `advanced/20_Anti-Corruption-Institutions.md`.
 - ✅ `11_Accountability-and-Ethical-Governance.md` — the broader control-systems framework.
-- ✅ `19_Corruption-Legal-Framework.md` — the legal framework these institutions enforce.
+- ✅ `19_Corruption-Legal-Framework.md` — the legal framework these institutions enforce, and the
+  full nine-step whistleblowing/ethical-dissent ladder.
+- ✅ `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — the vigilance-screening step
+  that precedes any CVC/Lokpal referral, and the POSH Act channel for harassment complaints.
 - ✅ `Polity/advanced/37_CVC-and-CBI.md` and `Polity/advanced/38_Lokpal-and-Lokayuktas.md` — full
   constitutional/statutory-body detail.

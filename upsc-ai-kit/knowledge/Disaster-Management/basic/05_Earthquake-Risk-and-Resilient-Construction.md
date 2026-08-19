@@ -27,7 +27,7 @@ SEISMIC ZONING (India: Zones II-V, Zone V highest risk)
 MITIGATION: codes + retrofitting + land-use + awareness
         |
         v
-RESPONSE: Incident Command System via Emergency Operations Centre
+RESPONSE: India's Incident Response System via Emergency Operations Centre
 ```
 
 **Core proposition:** ✅ VisionIAS states earthquakes are caused by
@@ -80,8 +80,8 @@ of occurrence (PDF pp. 19-20).
   structural safety audit manuals, vulnerability maps, NGO/volunteer-
   group streamlining, and the "India Quake" mobile app for automatic
   earthquake-parameter dissemination (PDF p. 22).
-- ✅ **Response**: all response activities run through the Incident
-  Command System, coordinated by local administration via the Emergency
+- ✅ **Response**: Indian response coordination uses the Incident
+  Response System, coordinated by local administration via the Emergency
   Operations Centre network, involving community, corporate sector and
   specialist teams (PDF p. 22).
 
@@ -220,3 +220,36 @@ of occurrence (PDF pp. 19-20).
   prediction-forecast-warning distinction generally; topic 10 develops
   the Himalayan seismic-landslide-GLOF cascade; topic 14 develops
   lifeline/critical-infrastructure seismic resilience.
+
+## 13. Core-only answer architecture — compliance is the mitigation
+
+> **Core firewall:** earthquake risk is not answerable by “better
+> prediction.” Core must instead explain an uncontrollable hazard,
+> constructed vulnerability and enforceable risk reduction.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Earthquake occurrence cannot be precisely prevented or predicted. | VisionIAS's explicit magnitude/place/time caution (PDF p. 20). | It makes codes, retrofitting, planning and preparedness the thesis rather than an afterthought. | Do not confuse post-event parameter reporting or a possible seconds-scale early-warning system with prediction. |
+| India’s risk is spatially varied and not confined to the Himalaya. | IS 1893 (Part 1): 2016 Zones II–V; Himalayan/NE and Andaman-Nicobar high hazard, with Kachchh and peninsular exceptions. | It supports region-specific zoning/microzonation rather than “earthquake-prone India.” | Zone labels describe hazard, not the fate of an individual building. |
+| Collapse risk is largely a compliance chain. | NDMA six pillars; BMTPC/Vulnerability Atlas; State responsibility to identify priority lifeline structures. | Code-compliant new construction, licensing/training, audits and retrofitting become linked evidence rather than a shopping list. | A code/guideline or an identified structure is not proof of compliance or completed retrofit. |
+| Historical cases make vulnerability concrete. | **Bhuj/Gujarat 2001** is the local-source historical case for damaged built environments and post-event GIS damage identification; **Latur 1993** and **Koyna** prevent the “Peninsula is aseismic” error. | They show why construction and siting, not only tectonic location, must be examined. | Use no casualty, magnitude or event-cause figure without a case-specific source. |
+
+### 13.2 Executable spines
+
+- **10 marks — 2021 vulnerability demand:** one-line thesis that
+  India’s vulnerability is a hazard-plus-built-environment question;
+  organise by tectonic/spatial setting, exposure/unsafe construction and
+  mitigation; use Bhuj plus one peninsular counterexample; conclude with
+  codes and retrofit priorities.
+- **15 marks — resilient construction:** trace zoning/microzonation →
+  code-compliant design → licensing/enforcement → audit and priority
+  retrofit → drills/lifeline continuity. Attach the six-pillar framework
+  and State responsibility for priority structures; qualify that
+  implementation, funding and enforcement determine outcome.
+- **20 marks — critically assess preparedness:** contrast new-build
+  compliance with existing-stock retrofitting, formal with informal
+  construction and hardening with land-use/continuity planning. End with
+  a verdict that non-predictability makes prevention of *vulnerability*,
+  not prediction of the event, the central test.

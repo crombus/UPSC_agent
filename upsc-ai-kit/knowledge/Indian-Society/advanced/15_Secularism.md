@@ -5,7 +5,7 @@
 > **Core area:** The substantive-equality-versus-community-autonomy causal architecture of
 > the UCC debate, and the Places of Worship Act as a rights-sensitive-reform boundary case.
 > **Grounded in:** Uniform Civil Code, Uttarakhand, 2024 and Rules, 2025 (in force since
-> 27 January 2025); 2026 Amendment Act; Places of Worship (Special Provisions) Act, 1991;
+> 27 January 2025); 2026 Amendment Ordinance (do not call it an Act without an official enacted text); Places of Worship (Special Provisions) Act, 1991;
 > no direct 2024/2025 GS-I standalone PYQ (flagged honestly).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/15_Secularism.md`.*
@@ -37,7 +37,7 @@ SUBSTANTIVE-EQUALITY ARGUMENT      COMMUNITY-AUTONOMY ARGUMENT
                          |
                          v
         LIVE TEST CASE: Uttarakhand UCC (2025-)
-        2026 amendment Act after an ordinance;
+        2026 amendment ordinance (enactment status needs official verification);
         outcome needs separate implementation evidence
 ```
 
@@ -82,7 +82,7 @@ failure or a successful social outcome, which require separate evidence.
    history means “first” claims need qualification.
 2. ⚠️ Implementation required new registration processes (for marriage, live-in
    relationships) and public-awareness efforts across religious communities.
-3. ✅ A 2026 amendment ordinance was subsequently enacted as an Amendment Act. Its existence
+3. ✅ A 2026 amendment ordinance was reported; this audit does not assert a later Amendment Act without an official enacted text. Its existence
    shows that the legal framework was revised; outcome evidence is still needed before
    attributing the change to a particular execution or coverage gap.
 4. This sequence distinguishes enactment from empirical implementation assessment:
@@ -129,7 +129,7 @@ failure or a successful social outcome, which require separate evidence.
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ The Uniform Civil Code, Uttarakhand, 2024 has been in force since 27 January 2025, and
-  its 2026 amendment ordinance subsequently became an Amendment Act.
+  its 2026 amendment ordinance was reported; this audit does not assert a later Amendment Act without an official enacted text.
 - ⚠️ Uttarakhand's post-Independence state code must be distinguished from Goa's separate,
   long-running Portuguese Civil Code framework; avoid unqualified “first” or “only” claims.
 - ⚠️ Substantive equality and community autonomy are the two principal, genuinely competing

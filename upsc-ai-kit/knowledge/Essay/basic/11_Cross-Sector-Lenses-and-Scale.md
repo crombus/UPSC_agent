@@ -6,7 +6,7 @@
 > technology, environment, culture/history and international-relations
 > lenses at the scale a thesis actually needs — not a token pass through
 > every lens.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Section 7.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -43,10 +43,11 @@ itself — each lens points to the owning subject module for depth.
 
 ## 4. The central idea and common misreading
 
-⚠️ **Central idea:** choose three to five lenses that genuinely fit the
+⚠️ **Central idea:** choose **two to four** lenses that genuinely fit the
 prompt's tension and develop each with a real mechanism and
 illustration — depth in fewer lenses outperforms a token pass through
-all seven or eight. ❌ **Common misreading:** mechanically working
+all seven or eight. Use a fourth lens only when it adds a distinct causal
+step or value conflict. ❌ **Common misreading:** mechanically working
 through every lens ("politically... economically... socially...")
 regardless of fit, producing a checklist-style essay rather than an
 argued one.
@@ -70,6 +71,39 @@ argued one.
 | 2025-A2 "Supreme art of war… without fighting" | International Relations; Ethics | State (deterrence/diplomacy) → global order (conflict prevention) |
 | 2025-B8 "Contentment… luxury" | Economy; Society; Environment | Individual (consumption) → society (status competition) → ecological (footprint) |
 
+### Mechanism–scale–limit cards
+
+| Lens | Prose-ready mechanism | Natural scale | Evidence function | Limit to state |
+|---|---|---|---|---|
+| Governance | Rules, incentives and accountability change what institutions can justify and correct. | Institution / state | A law, regulator or public institution can show how a decision is made reviewable. | A rule on paper does not prove implementation. |
+| Economy | Prices, livelihoods and unequal access distribute opportunities and burdens. | Household / market / state | A policy or livelihood episode can make a distributional claim concrete. | GDP or aggregate gain alone cannot establish fairness. |
+| Society | Norms, status and relationships shape behaviour before formal policy intervenes. | Individual / community | A social pattern can explain why identical rules affect groups differently. | One group experience cannot stand for all society. |
+| Science and technology | Design choices expand capabilities while also creating new dependencies or risks. | Institution / platform / state | A research institution or technology-policy episode can connect capability to power. | Innovation alone does not establish equitable access. |
+| Environment | Ecological costs accumulate and can shift burdens across place and generations. | Local ecosystem / intergenerational | A conservation or extraction episode can expose an externalised cost. | A local episode cannot prove a universal ecological outcome. |
+| Culture / history | Memory and inherited practices shape what a society can imagine, value or repeat. | Community / civilisation | A historical comparison can show continuity or learning over time. | Tradition is not self-validating. |
+| Ethics | Rights, welfare, fairness and care disclose who is protected or overlooked by a choice. | Individual to global | A value conflict can make the normative cost explicit. | “Balance” is empty without a stated priority and condition. |
+| International relations | Security, interdependence and unequal power alter the room a state has to act. | State / global order | A diplomatic or strategic case can show external constraints. | State interest alone cannot settle the ethical question. |
+
+### Interaction chain and tests
+
+For an unfamiliar prompt such as **“A society that automates choice may
+weaken judgment”**, use a real causal hand-off, not three parallel labels:
+
+```text
+Technology: engagement-optimised or delegated design changes what choices
+are visible
+        -> Society: repeated delegation can weaken reflective habits and
+           redistribute autonomy
+        -> Governance: the resulting accountability gap requires
+           transparent design, redress and public oversight
+```
+
+**Scale-match test:** does the illustration operate at the scale of the
+claim? A household example cannot by itself prove a state-wide governance
+effect. **Counterfactual test:** remove the middle social link. If the
+governance claim still follows unchanged, the chain is decorative; either
+state a real hand-off or use two independent lenses.
+
 ## 7. India-first illustration starters
 
 ⚠️ For each chosen lens, recall one Indian illustration functionally
@@ -86,8 +120,29 @@ merely to appear comprehensive.
 ## 9. Simple essay architecture
 
 ⚠️ Typically, one lens develops per argument-map cycle/paragraph cluster
-(`07`) — matching lens count roughly to cycle count (2–4) keeps the
-essay focused rather than diffuse.
+(`07`) — matching the **two-to-four** lens limit to two-to-four distinct
+cycles keeps the essay focused rather than diffuse.
+
+### Multi-lens outline — unfamiliar prompt
+
+**Prompt:** “A society that automates choice may weaken judgment.”
+
+1. **Thesis:** automation is valuable when it expands informed capacity,
+   but it weakens judgement when opaque design replaces reflection and
+   removes routes for correction.
+2. **Technology / platform-scale paragraph:** explain how design decides
+   which options become visible; use a verified policy or institutional
+   illustration only after checking the linked owner.
+3. **Society / individual-to-community paragraph:** show how repeated
+   delegation affects agency unevenly, especially where digital literacy
+   and bargaining power differ; state that an observed pattern is not
+   universal.
+4. **Governance / institution-scale paragraph:** argue for
+   transparency, contestability and redress because the earlier
+   technology-to-society hand-off creates an accountability gap.
+5. **Synthesis:** do not oppose automation to human judgement; require
+   automation that leaves people informed, able to contest and able to
+   correct consequential choices.
 
 ## 10. Opening, body and closure moves
 

@@ -132,12 +132,73 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 - ⚠️ **Mains (15 marks):** Use Rawls's veil of ignorance to evaluate the fairness of a targeted
   welfare scheme's eligibility design.
 
-## 10. Study links
+## 10. Additional routed global thinkers (historical demand)
+
+| Thinker | Teaching (verbatim where verifiable) | Administrative lesson |
+|---|---|---|
+| ⚠️ Dalai Lama (Tenzin Gyatso) | 2021 GS-IV Q3(b) (historical demand, routed here): reflect on the idea that inner peace is the foundation for outer peace. ⚠️ The closely matching, widely published line is "We can never obtain peace in the outer world until we make peace with ourselves" — treat as a well-documented public teaching, not a primary-text citation. | Administratively: an official who has not resolved personal stress/bias (see `05`'s self-awareness component) cannot reliably mediate external conflict — inner composure is the precondition for credible conflict-resolution and disaster-leadership roles (cross-link `05`'s DC "Vijay" case). |
+| ⚠️ Erik Erikson | 2021 GS-IV Q3(c) (historical demand, routed here): reflect on Erikson's idea connecting "learning and acceptance." **Attribution caution:** no single verbatim Erikson sentence on this exact phrase is reliably traceable; the verifiable content is his **Eight Stages of Psychosocial Development** (*Childhood and Society*, 1950), each posing a crisis (e.g., Identity vs Role Confusion; Generativity vs Stagnation; Ego Integrity vs Despair) whose healthy resolution requires *learning* from the stage's demands and *accepting* the outcome (including one's own limitations) to carry a "virtue" (hope, fidelity, wisdom) into the next stage. | Applied to a civil-service career: repeated postings/transfers and setbacks are Eriksonian "crises" — an officer who neither denies difficulty nor is paralysed by it, but learns and accepts and moves forward, models exactly the resilience GS-IV rewards in EQ/attitude answers (cross-link `03`, `05`). |
+| ⚠️ Potter Stewart (cross-link) | 2022 GS-IV Q3(a): "ethics is knowing the difference between what you have a right to do and what is right to do" — full treatment, including the attribution caution, is in `02_Human-Values-and-Lessons-from-Leaders.md`, Section 8a, since that file is this quotation's primary routed owner. | See `02` for the administrative translation (legality-vs-ethics gap). |
+
+- ⚠️ UPSC trap: ❌ Every Western name in a GS-IV quotation is a professional philosopher with a
+  traceable published corpus. -> Several (Dalai Lama, Potter Stewart) are public figures whose
+  popular sayings are widely circulated but not always traceable to a primary text — answer the
+  idea, flag the caution, never invent a citation.
+
+## 11. Selectable named evidence/application units
+
+> Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.
+
+1. *Claim:* Rawls's veil of ignorance is the standard tool for testing welfare-scheme fairness.
+   *Evidence:* applying it to eligibility design for a targeted subsidy (e.g., ration-card/DBT
+   beneficiary criteria). *Significance:* forces designers to prioritise the worst-off's access over
+   administrative convenience. *Limitation:* it is a design heuristic, not an implementable
+   algorithm — real eligibility criteria still require data and administrative feasibility.
+2. *Claim:* Kant's duty-based floor rejects outcome-only justification for lying/concealment.
+   *Evidence:* the 2024 GS-IV Q3(c) law-vs-ethics quotation applied to an officer tempted to hide a
+   procurement irregularity "for the greater good" of project continuity. *Significance:* supplies
+   a non-negotiable honesty floor regardless of project benefit. *Limitation:* rigid duty-following
+   can produce paralysis in a genuine emergency requiring balanced judgment (see `08`'s advanced
+   moral-luck/trolley discussion).
+3. *Claim:* Aristotle's Golden Mean supports proportionate, non-extremist administrative judgment.
+   *Evidence:* a district magistrate calibrating force in crowd control between excessive force and
+   dangerous under-reaction. *Significance:* gives a named, teachable standard for "proportionality."
+   *Limitation:* the "mean" is context-relative and requires practical wisdom (`05`) to locate — it
+   is not a fixed numeric midpoint.
+4. *Claim:* Inner composure is the precondition for credible external mediation. *Evidence:* the
+   Dalai Lama's inner-peace teaching (Section 10) applied to a district officer mediating a
+   communal-tension situation while personally under threat/stress. *Significance:* links Western/
+   global spiritual ethics directly to EQ (`05`). *Limitation:* composure alone does not resolve the
+   underlying dispute — it is a precondition for, not a substitute for, substantive mediation skill.
+5. *Claim:* Career setbacks are best framed as Eriksonian developmental crises, not failures.
+   *Evidence:* Erikson's Eight Stages (Section 10) applied to an officer's difficult early posting.
+   *Significance:* reframes resilience-building as a structured, learnable process. *Limitation:*
+   Erikson's stage model is a psychological framework, not a specific administrative protocol — it
+   supplies a lens, not a ready checklist.
+
+## 12. Executable directive decoding and answer architecture
+
+| Directive word | What is tested | Structural move |
+|---|---|---|
+| **Explain/Illustrate** | Precise mechanism plus example | Name the theory -> mechanism -> Indian/administrative example -> limitation |
+| **Discuss/Reflect** (quotation format) | Application, with attribution honesty | Restate the idea -> thinker's context/attribution caution -> administrative mechanism -> conclusion |
+| **Use X to evaluate Y** | Applying one named framework as an evaluative tool | State the framework -> apply it step-by-step to the given scenario -> state the verdict it yields |
+
+**10-mark architecture (~150 words):** name the theory/thinker precisely -> the specific
+administrative mechanism it supports -> one Indian/administrative example (Section 11) -> one
+limitation -> one-line conclusion.
+
+**Counterpoint and reasoned verdict (template):** "[Theory/thinker] supports [X conclusion], but
+[named limitation] means it must be checked against [a second theory/safeguard] before being
+applied without qualification."
+
+## 13. Study links
 
 - ✅ Advanced companion: `advanced/07_Western-Moral-Philosophers-and-Thinkers.md`.
 - ✅ `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md` — the three theories applied in depth.
 - ✅ `Philosophy/paper-1/western/Kant.md` — Kant's full philosophical system.
 - ✅ `Philosophy/paper-1/western/Plato-Aristotle.md` — Plato and Aristotle in full depth.
+- ✅ `05_Emotional-Intelligence-in-Administration.md` — the EQ link for Dalai Lama/Erikson content.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
@@ -161,3 +222,30 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2021
+- **Paper(s):** GS-IV
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 6 | (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good | Reflect · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 6 | (a) Socrates on unexamined life; (b) M.K. Gandhi on thoughts shaping character; (c) A.P.J. Abdul Kalam on righteousness in heart and harmony in home nation and world | Reflect · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 6 | three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others; (c) Socrates on morality and emotional values | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 3 | three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good
+- (a) Socrates on unexamined life; (b) M.K. Gandhi on thoughts shaping character; (c) A.P.J. Abdul Kalam on righteousness in heart and harmony in home nation and world
+- three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others; (c) Socrates on morality and emotional values
+- three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

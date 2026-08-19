@@ -4,7 +4,7 @@
 > **Official clause:** "Comparison of the Indian constitutional scheme with that of other countries."
 > **Rule:** This file contains every comparison needed for examination performance. The Advanced
 > companion adds theory and evaluation, but is not required to answer a PYQ.
-> **Companion:** `../advanced/47_Comparative-Constitutional-Design.md`
+> **Advanced (optional):** `../advanced/47_Comparative-Constitutional-Design.md` — optional deeper detail; not required for any mark.
 
 ---
 
@@ -441,6 +441,123 @@ an institution.
 
 > **Core firewall:** If Advanced is skipped, this file still closes the official clause and every
 > verified 2018-2025 comparative PYQ identified in the local knowledge base.
+
+## 16. Answer architecture (10/15/20-mark support)
+
+> Purpose: sections 1–15 already hold the facts, the master map, the trap list and per-PYQ answer engines. This layer adds the **reusable machinery** those sections do not carry in one place — a demand-type router, comparative theses, mark-scaled comparative structures, a **selectable country evidence bank with an India anchor**, the rule against shallow feature-lists, the "why a transplant behaves differently" principle, limits of comparison, verdict scaffolds and factual-risk controls. It does **not** repeat sections 1–15.
+
+### 16.1 Comparative demand and directive map (route by demand-type, not by year)
+
+| Demand type | Directive signals | Answer spine |
+|---|---|---|
+| **Feature comparison** | "compare and contrast", "convergence and divergence", "basic tenets" | Shared frame → similarities → differences → **constitutional consequence** of the difference |
+| **Lesson-drawing** | "what can X learn from India", "transferable lessons" | Identify India's working principle → isolate the transferable *principle* → state the limit that blocks a mechanical transplant |
+| **Evaluation** | "critically examine", "evaluate", "assess" | Design A vs design B on named axes → trade-offs → graded verdict tied to purpose |
+| **Transplant-critique** | "borrowed but adapted", "does the foreign feature fit India" | Source → Indian adaptation → **why behaviour differs** → fit verdict |
+| **Single-institution match** | "election of Presidents", "pardon power", "judicial appointments" | Hold the function constant → composition/selection/power/limits/review → "procedure follows function" |
+| **Secularism/rights model** | "Indian vs US/French model" | Define each model precisely → shared commitment → structural difference → avoid the caricature |
+| **Source-attribution** | "which features were borrowed and from where" | Name the conventionally cited source → the **Indian modification** → the consequence (attribution is ancestry, not operation; keep the borrowed-features detail in §12) |
+
+### 16.2 Qualified thesis options for comparative answers
+
+- *India did not copy a constitution; it synthesised one — parliamentary from the UK, rights and review from the USA, a strong-centre federation from Canada, and directive goals from Ireland — fused inside a written, rigid, transformative charter, so ancestry never equals operation.*
+- *The comparative question is almost always won on the* consequence *of a difference, not the difference itself: the point is not that the UK is sovereign-Parliament and India is supreme-Constitution, but what that does to rights protection and judicial power.*
+- *Lesson-drawing runs one way in the exam — India exports* principles *(principled secular engagement, PIL access, basic-structure limits) but rarely* mechanisms *, because founding history and party systems block mechanical transplant.*
+- *Labels deceive: "President", "Senate", "federation" and "secular" name different functions in India, the USA, France, Germany and Switzerland, so a valid comparison must compare functions, not nouns.*
+- *India's design choices privilege accountability and adaptability (fusion of powers, three amendment routes, judicial review) over the stability-through-separation that the US model prizes — a defensible trade-off, not a defect.*
+- *A fair comparison matches like with like — India's constitutional* text *against another's text and India's working* practice *against another's practice; pitting an idealised foreign text against messy Indian practice (or the reverse) is the commonest distortion.*
+- *The strongest comparative answers isolate a single* operating variable *— party system, federal form or judicial doctrine — and show how it makes the same borrowed design behave differently in India.*
+
+### 16.3 Mark-scaled comparative structures
+
+| Marks | Architecture | Country load |
+|---:|---|---|
+| 10 | Frame → 2–3 sharp similarity/difference pairs → **one consequence** → verdict | India + **one** comparator, tightly |
+| 15 | Thesis → shared constitutionalism → 3–4 differences on named axes → consequence + one qualification → verdict | India + 1 (occasionally 2) comparators |
+| 20 | Thesis → design frame → executive/federal/rights/review axes → transplant-adaptation point → trade-off → graded verdict | India + 1–2 primary comparators, others as one-line reinforcements |
+
+> 🔑 **Depth over breadth:** a 15-marker comparing India and *one* country well beats a shallow tour of five. Add a third country only as a **one-line** reinforcement.
+
+### 16.4 The no-shallow-feature-list rule (non-negotiable)
+
+- ⚠️ A feature list ("UK is uncodified, US is written, India is written…") is **not** an answer. Every compared feature must run to its **constitutional consequence** — what the difference *does* to rights, accountability, federal balance or stability.
+- ⚠️ Compare the **same function** across systems (how each *selects judges*, *limits the executive*, *protects rights*), never an Indian court against a foreign legislature because both sit in the same chapter.
+- ⚠️ Name the **operating variable** (party system, convention, federal form, judicial doctrine) that makes the same design behave differently — this is where marks are earned.
+- ⚠️ **End every comparison at India:** a passage on a foreign system that never returns to the Indian consequence earns description marks, not analysis marks.
+
+### 16.5 Country-by-country selectable evidence bank (with India anchor)
+
+> Use one comparator well. "Sourcing depth" flags how richly this repository actually supports each country, so you deploy the strong ones and keep the thin ones to a single line.
+
+| Country | Design feature this repo sources | India anchor / contrast (the consequence) | Sourcing depth here |
+|---|---|---|---|
+| ✅ **United Kingdom** | Uncodified constitution; **parliamentary sovereignty** (courts cannot strike down an Act); Westminster responsible government; Human Rights Act = **weak-form/dialogic** review | India took the cabinet model but placed it under a **written, supreme, justiciable** Constitution with **judicial review + basic structure** — so rights bind Parliament here, unlike Westminster | Rich (exec, judiciary, sovereignty) |
+| ✅ **United States** | Written, rigid, supreme Constitution; **presidential separation of powers**; coming-together federalism, **residuary powers to States**; **Senate advice-and-consent** on judges; pardon excludes State offences/impeachment/future acts; **non-establishment + free exercise** secularism; due process | India fused executive and legislature, kept **residuary with the Centre**, borrowed rights/review but with **express restrictions, writs and "procedure established by law"** — accountability over separation | Rich (exec, federalism, rights, courts, pardon) |
+| ✅ **Canada** | **Holding-together, strong-centre** federation; **residuary power with the centre** | The chief source of India's **strong Union + residuary to the Centre**; India adds single citizenship and asymmetric devices | Moderate (federal design) |
+| ✅ **Australia** | Coming-together federation; **Concurrent List** and **joint-sitting** mechanism; equal-State Senate | India adopted the **Concurrent List and joint sitting** but with a **population-weighted, indirectly elected** Rajya Sabha and its own amendment routes | Moderate (federal mechanics) |
+| ✅ **France** | **Semi-presidential** Fifth Republic; President + PM dual executive; **cohabitation**; **laïcité**; directly elected President; Constitutional Council | India's President is a **nominal, indirectly elected** head (not semi-presidential); Indian secularism is **principled engagement**, not strict laïcité | Rich (executive, secularism, presidential election) |
+| ✅ **Germany** | Basic Law; Chancellor-led federal republic; **Bundesrat** = Land-government delegation (shared rule); **textual eternity clause (Art 79(3))**; concentrated **Federal Constitutional Court** | India's **basic structure is judicially developed**, not a textual eternity clause; **Rajya Sabha ≠ Bundesrat** (no Land-government delegation) | Moderate (amendment, upper house) |
+| ✅ **South Africa** | Written, supreme, **transformative** Constitution; Constitutional Court; **textually enforceable socio-economic rights** | India pursues transformation via **DPSPs + expanded Article 21 + legislation**, not textual socio-economic rights — enforceable text vs doctrinal development | Moderate (transformative, amendment) |
+| ✅ **Japan** | Symbolic Emperor; **"procedure established by law"**; rigid amendment **plus referendum** | India borrowed the phrase **"procedure established by law"** but the SC **expanded it toward due-process fairness** | Thin (single-point use) |
+| ✅ **Switzerland** | **Collegial plural Federal Council**; annually **rotating President**; strong **direct democracy** (referendums) | India rejected a collegial executive for a **single cabinet under a PM** and chose **representative**, not direct, democracy | Thin (single-point use) |
+
+- **India anchor rule:** ⚠️ every comparison must end at India — the marks are for what the foreign design teaches about, or contrasts with, the Indian scheme, not for foreign description.
+- **Pick-your-comparator by theme (what this repo sources best):** *executive type* → **UK / US / France**; *federal formation & residuary* → **US / Canada / Australia / Germany**; *upper-house model* → **US & Australia (equal-State) / Germany (Bundesrat) / India (population-weighted)**; *judicial-review model* → **UK (weak-form) / Germany (concentrated) / US (diffuse)**; *rights & transformation* → **US (non-establishment) / South Africa (socio-economic rights)**; *amendment & unamendability* → **Germany (Art 79(3)) / South Africa / Japan (rigid + referendum)**; *secularism* → **US / France**; *direct democracy* → **Switzerland**. ⚠️ Build the spine on the **rich** comparators (UK, US, France) and use the **thin** ones (Japan, Switzerland) only as single-line reinforcements.
+
+### 16.6 Borrowing versus adaptation — why a transplant behaves differently in India
+
+- ⚠️ **The reusable principle (deploy in every transplant-critique):** a borrowed feature is filtered through India's (1) **written, rigid, supreme** Constitution and **judicial review/basic structure**; (2) **party system** (one-dominant, coalition, regionalised by turns); (3) **holding-together, strong-Union federalism**; (4) **deep social cleavages and a transformative purpose**; (5) **conventions overlaid on codification**; and (6) **state-capacity/implementation** limits. The output is **adaptation, hybridisation or functional substitution — never replication.**
+- 🔑 **Answer line:** "India imported the *mechanism* but re-tuned it to a written, federal, transformative order, so the same institution performs a different constitutional job." (This is the analytical claim section 12 lists as *examples*; here it is the *rule* you apply to an unfamiliar feature.)
+
+### 16.7 Criticism and limits of comparison
+
+- ⚠️ **False equivalence:** shared labels ("President", "Senate", "secular", "federation") hide different functions — the commonest way a comparative answer goes wrong.
+- ⚠️ **Source ≠ operation:** identifying ancestry (UK, US, Canada…) explains origin, not present working; over-stating borrowing flattens India's synthesis.
+- ⚠️ **Context-stripping:** transplanting a foreign fix without its founding conditions, party system and capacity ignores why it worked *there*.
+- ⚠️ **Selective idealisation:** comparing India's real practice with a foreign system's textbook ideal (or vice-versa) is not a fair comparison — compare like with like (text with text, practice with practice).
+- ⚠️ **Convergence illusion:** shared constitutionalism (courts, rights, elections) is easily over-read as similarity; the marks lie in the **structural divergence** beneath the shared vocabulary.
+
+### 16.8 Verdict scaffolds for comparative demands
+
+- **Feature-comparison verdict:** "The systems converge on constitutionalism and courts but diverge on where power is fused or separated; that single difference — fusion vs separation — cascades into their contrasting logics of accountability and stability."
+- **Lesson-drawing verdict:** "What travels is the *principle* — principled secular engagement, broad rights access, a basic-structure floor — not the *mechanism*, because founding history and party incentives resist mechanical transplant."
+- **Transplant-critique verdict:** "India borrowed the institution and re-purposed it; judged by fit rather than by fidelity to the source, the adaptation, not the copy, is the achievement."
+- **Evaluation verdict:** "Judged by purpose rather than symmetry, India's fusion-plus-review design buys accountability and adaptability at some cost to the tidy separation the US prizes — a coherent trade-off, not an incoherence."
+
+### 16.9 Objective-style distinctions (future-Prelims safety)
+
+> The generated blocks below route **only Mains GS-II** demands (2018 Q13, 2019 Q5, 2020 Q4, 2022 Q14, 2023 Q4, 2024 Q15) — **no objective/Prelims PYQ is routed here**. These discriminations guard the same facts against an unfamiliar objective question.
+
+| Confusion pair | Correct discrimination |
+|---|---|
+| UK "unwritten" vs "uncodified" | The UK constitution is **uncodified** (scattered across statutes, conventions, cases), **not** wholly unwritten |
+| Parliamentary sovereignty vs constitutional supremacy | **UK Parliament is sovereign**; **India's Constitution is supreme** and Parliament's power is limited (basic structure) |
+| Residuary powers | **Centre** in India and **Canada**; **States** in the **USA** and **Australia** |
+| Rajya Sabha vs US/Australian Senate vs Bundesrat | RS = **population-weighted, indirectly elected**; US/Australian Senate = **equal-State**; Bundesrat = **Land-government delegation** — not interchangeable |
+| Eternity clause vs basic structure | Germany's **Art 79(3)** is **textual**; India's **basic structure** is **judicially developed** |
+| Indian vs French secularism | India = **principled engagement/accommodation**; France = **laïcité** (strict separation) |
+| US judicial appointment | President nominates **with Senate advice and consent** — not the President alone |
+| US pardon limits | **No State offences, no impeachment, no future acts** |
+| Swiss President | **Annually rotating** head of a collegial Council — **not** a US-style executive President |
+| "Procedure established by law" | Borrowed from **Japan**; India is **not** the US "due process" wording (though later expanded by fairness doctrine) |
+| Judicial-review strength | **UK (Human Rights Act)** issues a **declaration of incompatibility** (weak-form; Parliament stays supreme); **India and the USA** can **strike down** unconstitutional laws (strong-form) |
+| Collective responsibility | A **UK convention**; in India it is **textual — Art 75(3)** (Council collectively responsible to the Lok Sabha) |
+| Cabinet's legal basis | India's cabinet system is **constitutionally entrenched (Arts 74–75)**; the UK's rests on **convention** — India codified what Britain leaves unwritten |
+| Amendment routes | India has **multiple routes under Art 368** (special majority; some needing ratification by half the States; a few matters by simple majority) — **not** a single uniform procedure |
+| Impeachment of the President | India (**Art 61**) = for **"violation of the Constitution"** by Parliament — do **not** import the US "high crimes and misdemeanours" ground |
+| Judges' removal ground | India = **"proved misbehaviour or incapacity"** via parliamentary **address** (Art 124(4)) — not a US-style criminal impeachment |
+
+### 16.10 Factual-risk and current-status controls
+
+- ⚠️ **Do not invent foreign constitutional text, amendment procedures, court sizes or appointment rules.** State only what sections 1–15 source; if a foreign detail (e.g., a specific term length, bench strength or referendum threshold) is not held here, **argue the design principle instead of quoting a number**.
+- ✅ **US Supreme Court size is set by statute, not the Constitution** — never assert a constitutionally fixed number of Justices.
+- ✅ Germany's eternity clause is **Art 79(3)**; do not attribute an identical textual clause to India.
+- ⚠️ Keep **secularism** precise: India ≠ "supports all religions equally as State policy"; USA ≠ "absolute isolation" — avoid both caricatures (the 2019/2024 secularism demands turn on this).
+- ⚠️ Treat **cohabitation, semi-presidentialism and direct democracy** as **design descriptions**, not events — don't narrate contested foreign political history.
+- ✅ **Borrowing identifies ancestry, not present operation** — the master factual-discipline line for this whole topic.
+- ⚠️ **Attribution is contested at the edges:** DPSPs are conventionally cited from **Ireland** (which itself drew on Spain), and emergency/rights-suspension ideas from the **Weimar/German** and **Government of India Act 1935** lineage — present these as **conventional attributions**, not as the Constitution's own statements (detail lives in §12).
+- ✅ **India's amendment procedure is *sui generis*** (multiple routes under Art 368) — never describe it as a copy of any single foreign model, and do not quote foreign amendment fractions from memory.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

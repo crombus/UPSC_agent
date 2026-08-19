@@ -140,12 +140,117 @@ RIGHTS LOGIC
 - ⚠️ Add one line on rights and duties: no right is exercised in a vacuum.
 - ⚠️ End with a balanced conclusion: rights protect dignity, but they require institutions, law and public responsibility to become real.
 
-## 12. Sources, metadata and tags
+## 12. Named evidence units: natural, legal, historical and ideal rights compared
+
+| Theory | Core claim (named thinker) | Significance for a rights answer | Limit to name alongside it |
+|---|---|---|---|
+| ✅ Natural-rights theory | Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance against a state that fails to protect them (PDF pp.341-342, 365). | ✅ Gives rights a moral force independent of any government's say-so — useful against arbitrary state action. | ❌ Bentham's critique (PDF pp.344-345) that unenforced "natural" claims are rhetorically powerful but institutionally empty until translated into law. |
+| ✅ Legal-rights theory | Bentham treats rights as creatures of law — they exist only once the state recognizes and enforces them (PDF pp.344-345). | ✅ Explains why enforceability, not moral aspiration alone, is what converts a claim into a working right. | ❌ Risk of legitimizing whatever a state currently enacts, even if unjust — this is exactly why Barker insists validity and value must both be present (PDF p.345, also Topic 19 Section 5). |
+| ✅ Historical-rights theory | Burke roots rights in long-inherited custom and constitutional practice rather than abstract declaration (PDF pp.346-347). | ✅ Explains gradualist, precedent-based rights traditions and resistance to sudden abstract charters. | ⚠️ Cannot by itself justify extending rights to groups excluded by that very custom (e.g., historically marginalized groups), since the custom itself may have been exclusionary. |
+| ✅ Ideal/personality (Green, Barker) rights theory | Green ties rights to conditions needed for moral personality; Barker's full right needs both personality-grounding and legal guarantee, an either-alone yields only a quasi-right (PDF pp.342-343, 345). | ✅ Bridges the moral force of natural rights with the enforceability of legal rights — the strongest synthetic answer-position. | ⚠️ Still needs a working legal-institutional order to become an actual claim; a personality-based ideal without any state or law remains aspirational. |
+| ✅ Social-democratic (Laski) rights theory | Rights are conditions for personality, equality and common welfare, always correlated with duties (PDF pp.348-353). | ✅ Links rights to positive state responsibility and social welfare, not only restraint. | ⚠️ Can be stretched by critics into open-ended state obligation if "conditions for personality" is not bounded. |
+
+## 13. Civil liberties vs democratic rights (deepened, with objection-reply)
+
+- ✅ Civil liberties are legal protections against arbitrary state action in the individual's personal/legal sphere — expression, religion, movement, association, fair trial (PDF pp.362-363).
+- ✅ Democratic rights are participatory entitlements exercised as a citizen in public life — voting, choosing government, seeking office (PDF pp.361-362).
+- ⚠️ **Objection:** democratic rights (the right to vote, to organize a party, to contest office) are themselves exercised through civil liberties (speech, association, movement), so treating them as two separate categories is artificial.
+  **Reply:** ⚠️ The corrected Section-5 relation already used in this file holds — both are overlapping branches within the wider human-rights umbrella rather than one being a strict subset of the other (PDF pp.361-363); they can be analytically separated by their *primary purpose* (protecting the individual vs enabling participation) even though they operationally depend on each other.
+- ⚠️ **Objection:** a state can hold regular elections (satisfying democratic rights on paper) while still suppressing civil liberties such as press freedom or fair trial, so "democratic rights" are the weaker guarantee.
+  **Reply:** ✅ Gauba's own point that democracy helps protect civil liberties but does not automatically secure them (Section 8 comparison table) anticipates exactly this gap — an answer should state that electoral democratic rights are necessary but not sufficient for civil liberties, and both must be assessed independently.
+
+## 14. Universality vs cultural relativism
+
+- ✅ The universalist claim, represented by the post-war UDHR project, is that human rights attach to persons as such and hold across all states and cultures as a common moral-legal standard (PDF pp.358-360).
+- ⚠️ **Cultural-relativist objection:** rights language (individual autonomy, adversarial due process, particular family/property norms) reflects a specific liberal-Western historical trajectory, so presenting it as a universal standard can override other cultures' own legitimate norms of community, duty and authority.
+  **Reply:** ⚠️ Two replies are available and should both be named: (i) Gauba's own rights-cum-duties correlation (PDF pp.351-353) shows the tradition itself is not purely individualist — duties to others and to the community are built into the theory, softening the relativist charge of one-sided individualism; (ii) a minimal-core distinction can be drawn between a thin universal floor (protection from torture, arbitrary killing, slavery) that resists relativist objection most strongly, and thicker, culturally variable applications (specific family or property arrangements) where local variation is more defensible.
+- ⚠️ Exam caution: do not resolve this debate with a flat "rights are universal, full stop" or "rights are wholly relative" — a qualified answer distinguishes the thin universal floor from thicker contested applications.
+
+## 15. Generations of rights: non-linear caution
+
+| Generation (pedagogic label only) | Illustrative content | Non-linear caution |
+|---|---|---|
+| ⚠️ "First generation" | Civil and political rights (negative rights: speech, movement, fair trial, voting). | ⚠️ Presented first in most Western timelines, but this is a teaching sequence, not a logical necessity. |
+| ⚠️ "Second generation" | Social, economic and cultural rights (positive rights: work, education, health, social security) (PDF pp.340-341, 361, 364-365). | ⚠️ Often treated as arriving "after" first-generation rights, but Laski's and the social-democratic tradition already build these in as co-original with civil rights, not as a later add-on (PDF pp.348-353). |
+| ⚠️ "Third generation" | Collective/solidarity rights (e.g., self-determination, development, healthy environment). | ⚠️ In many decolonization and anti-colonial struggles, a collective claim (self-determination) had to be secured *before* individual civil-political rights could be meaningfully exercised at all — reversing the textbook sequence. |
+| ❌ Trap already flagged in Section 9 | "Rights generations is Gauba's own classification." | ✅ It is a pedagogic synthesis, not Gauba's own scheme, and must not be presented as either his classification or as a strict historical order (Section 9). |
+
+## 16. Enforcement and application (conceptual, with cautious Indian anchor)
+
+- ✅ A right becomes real only through some enforcement mechanism — judicial remedy, constitutional guarantee, or international monitoring — not through moral assertion alone; this follows directly from the natural-vs-legal-rights tension in Section 12.
+- ⚠️ Conceptually, enforcement mechanisms fall into three layers: (i) domestic judicial enforcement (courts applying constitutionally guaranteed rights), (ii) domestic non-judicial enforcement (ombuds-type bodies, human-rights commissions), and (iii) international monitoring (treaty bodies, reporting mechanisms) with generally weaker direct enforcement power than domestic courts.
+- ⚠️ **Cautious Indian anchor:** India's judiciary is widely cited as an example of an active domestic judicial-enforcement layer (e.g., public-interest litigation as a procedural device widening access to rights remedies); this file names the mechanism only as an illustration of "domestic judicial enforcement" in the abstract. Article-level detail, case law and NHRC/SHRC powers belong to `Polity/advanced/07_Fundamental-Rights.md` and `Polity/advanced/35_NHRC-and-SHRC.md` (already cross-linked in Section 10) and must not be reproduced here.
+- ❌ Do not treat "a right is written into a document" as equivalent to "a right is enforced." -> ✅ Enforcement requires an actual functioning mechanism and remedy, which is exactly why the natural/legal-rights tension in Section 12 remains practically important.
+
+## 17. Directive decoder and qualified-thesis templates
+
+| Directive word | What the examiner expects | How to open this topic's answer |
+|---|---|---|
+| Examine | Break rights into their theoretical bases and weigh them against each other. | Open with the natural/legal/historical/ideal comparison (Section 12), then examine enforcement (Section 16). |
+| Discuss | Rounded movement from definition to theory to critique to a reasoned position. | Define -> theory bank -> universality/relativism debate (Section 14) -> qualified conclusion. |
+| Critically analyse/evaluate | State thesis, run an explicit objection-reply, end with a qualified judgement. | Use Section 13 or Section 14's objection-reply chains directly; never end on a flat claim. |
+| Elucidate | Explain with illustration; lighter critique load acceptable. | Define, illustrate with the enforcement layers (Section 16), light critique only. |
+| Distinguish | Use a direct comparison structure. | Use the civil-liberties-vs-democratic-rights table (Section 8) or the generations table (Section 15). |
+
+- ⚠️ **10-mark qualified-thesis template:** "Rights are best understood as [claims restricting arbitrary power and enabling a better life, PDF pp.339-340], but their full force depends on [named enforceability point, e.g., Barker's dual-source synthesis], though [named limit]."
+- ⚠️ **15-mark qualified-thesis template:** as above, plus one explicit objection-reply pair (Section 13 or 15) before the conclusion.
+- ⚠️ **20-mark qualified-thesis template:** as above, plus the generations caution (Section 15), the enforcement layer (Section 16), and a cautious Indian illustration, ending with a qualified synthesis.
+
+## 18. Argument architecture: premises -> mechanism -> conclusion
+
+**Central debate used as the model:** are human rights genuinely universal, or are they inescapably culture-bound?
+
+- **P1:** ✅ Human rights are presented, especially post-1948, as a moral-legal standard attaching to persons as such, independent of any one state's grant (PDF pp.338, 358-360).
+- **P2:** ⚠️ Rights language and specific institutional forms (adversarial due process, individual property/contract norms) emerged from a particular liberal-Western trajectory, so applying them without qualification risks overriding other cultures' legitimate normative orders (Section 14).
+- **P3:** ✅ The tradition itself, per Gauba/Laski, already correlates rights with duties to others and to the community, and per Barker requires both personality-grounding and legal guarantee (PDF pp.345, 351-353) — it is not purely individualistic in the way the relativist objection assumes.
+- **Mechanism:** ⚠️ P1 asserts universality; P2 challenges the *institutional form* in which that universality is usually presented; P3 shows the underlying moral content (dignity plus reciprocal duty) is less culturally parochial than P2 suggests, even though specific *implementations* legitimately vary — so the universality claim should attach to a thin protective core, while implementation detail is properly variable.
+- **Conclusion (qualified):** ⚠️ Human rights are defensible as universal at the level of a thin protective floor (freedom from torture, arbitrary killing, slavery, and Barker's personality-plus-legal-guarantee logic), while thicker institutional applications remain legitimately open to variation — collapsing this into either flat universalism or flat relativism understates the actual structure of the debate.
+
+## 19. Executable answer architecture (10/15/20-mark blueprints)
+
+> ⚠️ Word/mark convention follows the standard PSIR-optional pattern (10 marks/~150 words, 15 marks/~200 words, 20 marks/~250 words); stated here as an analytical scaffold, not a book-sourced fact.
+
+- **10-mark/~150 words:** Define rights (claims against arbitrary power + claims for a better life) -> name one theory (natural/legal/historical/ideal) -> one named limit -> one-line qualified conclusion.
+- **15-mark/~200 words:** Define -> two named theories from Section 12 -> one objection-reply pair (Section 13 or 15) -> qualified conclusion.
+- **20-mark/~250 words:** Define -> three named theories -> the universality-relativism objection-reply (Section 14) -> the generations non-linear caution (Section 15) -> one cautious Indian enforcement illustration (Section 16) -> qualified synthesis mirroring Section 18.
+
+### Quotation/proposition micro-method (five moves, for quotation- and statement-based stems)
+
+> ⚠️ Local implementation of `Political-Theory/00_Master-Framework.md` §5D, tuned to this file's
+> rights vocabulary. Rights stems are frequently propositions rather than questions ("rights are
+> nonsense upon stilts"; "rights and duties are correlative"; "human rights are a Western
+> export"), so decode before writing.
+
+| # | Move | What to do here |
+|---|---|---|
+| 1 | **Identify the proposition and the concept** | Restate the line as one testable claim, then name which rights theory it presupposes or attacks — natural, legal, historical, personality/idealist, social-welfare (Section 12) — and which distinction it is really contesting: human rights vs civil liberties vs democratic rights (Section 13), or universality vs relativism (Section 14). |
+| 2 | **Reconstruct the strongest argument for it** | Build the best version as premises → mechanism → conclusion (Section 18). For a legal-positivist line: P1 a right must be enforceable to be a right; P2 only the state supplies enforcement; C rights outside positive law are aspirations, not rights. Do not attack a weaker version than the stem allows. |
+| 3 | **Test the counterargument and the conditions** | Use Barker's personality-plus-legal-guarantee synthesis and the Laski/Gauba duty-correlation point as the standing counter-set, then run the necessary-vs-sufficient check: legal recognition is necessary for an enforceable right but not sufficient for its moral justification; conversely a moral claim without guarantee is not yet a legal right. State the conditions under which the proposition would hold. |
+| 4 | **Apply named evidence** | Attach at least one named unit from Sections 12-16 (Locke's natural-rights tradition; Bentham's positivist objection; Green/Barker on personality and guarantee; Laski on rights-with-duties; the UDHR 1948 text as a canonical anchor), and label book-period illustrations as such. |
+| 5 | **Give a graded verdict** | Land on "holds / holds only under stated conditions / fails as stated", mirroring Section 18's thin-protective-floor conclusion — universal at the level of a minimum core, legitimately variable in thicker institutional form. |
+
+- ❌ **Never treat an unverified quotation as verbatim.** Except where a canonical official text is
+  being cited by name (the UDHR, 1948), no sentence in this file is a direct quotation from Locke,
+  Bentham, Green, Barker, Laski, Marx or Gauba; every reconstruction is paraphrase. Do **not**
+  invent a book, edition, year, article number or page to authenticate an unfamiliar line supplied
+  by a stem.
+- ⚠️ **Three safe registers:** attribution and wording both verified → name the work and quote
+  exactly; attribution reliable but wording not → "the position associated with X is that …" (no
+  quotation marks); attribution itself uncertain → "the line is popularly attributed to X; its
+  provenance is not independently verified here — taken on its own terms it claims …", then argue
+  the doctrine. ⚠️ Special caution: famous rights epigrams ("nonsense upon stilts") circulate in
+  many truncated forms — argue the proposition, do not stake marks on the exact wording.
+- ⚠️ **Architecture link:** at 10 marks run moves 1 → 2 → 5 with one named theory and its limit; at
+  15 marks add move 3 as a full objection-reply (Section 13 or 15); at 20 marks run all five moves,
+  adding the universality-relativism chain (Section 14) and the generations caution (Section 15)
+  before the graded verdict.
+
+## 20. Sources, metadata and tags
 
 - ✅ Primary source used: Gauba, Ch.15 "Concept of Human Rights" (PDF pp.338-366).
 - ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.69-76, especially
   personality/idealist rights and the moral/social/legal recognition sequence.
-- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Key anchors used: meaning of human rights and rights (PDF pp.338-340); negative/positive rights and rights theories (PDF pp.340-355); Marxist/social-democratic rights debates (PDF pp.354-358); UDHR and its scheme (PDF pp.358-360); human rights/civil liberties/democratic rights distinction and concluding theories (PDF pp.361-366).
 - ⚠️ The chapter's examples of specific abuses, NGOs and institutional references are treated as book-period illustrations unless independently re-dated elsewhere.
 - ⚠️ No current institutional or constitutional detail is authored here without outward linking.

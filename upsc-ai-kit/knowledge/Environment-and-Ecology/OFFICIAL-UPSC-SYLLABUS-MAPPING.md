@@ -3,7 +3,7 @@
 > **Source text:** [../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md](../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md)
 > **Folder index:** [README.md](./README.md)
 > **Audit rule:** `COVERED` = clear in-folder direct owner(s); `PARTIAL` = some in-folder coverage exists, but the clause is fragmented, indirect, or materially dependent on another subject folder; `GAP` = no auditable in-folder owner found.
-> **Older PYQ integration status (2018–2023):** older routing is still central via [../_PYQ-INDEX.md](../_PYQ-INDEX.md), [../_PYQ-ROUTING-PRELIMS-2018-2023.md](../_PYQ-ROUTING-PRELIMS-2018-2023.md) and [../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md](../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md); that is routing support, not per-file/topic integration inside this folder.
+> **Older PYQ integration status (2018–2023):** authoritative routing remains central via [../_PYQ-INDEX.md](../_PYQ-INDEX.md), [../_PYQ-ROUTING-PRELIMS-2018-2023.md](../_PYQ-ROUTING-PRELIMS-2018-2023.md) and [../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md](../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md). As of the 14 August 2026 answer-worthiness repair, the Environment Core owners named by the Mains ledgers are `basic/` owners and each has a topic-specific Core answer architecture; generated blocks retain routing metadata, not inferred historical answer keys.
 
 ## Preliminary Examination — Paper I
 

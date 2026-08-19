@@ -33,10 +33,12 @@ clocks, calendars and mensuration are **fixed-formula** families.
 | ✅ **Speed** | `Speed = Distance / Time`; `km/h x 5/18 = m/s`. | Speed uses **path length travelled**, never net displacement. |
 | ✅ **Average speed** | `Total distance / total time`. For two **equal-distance** legs this is the harmonic mean `2 s1 s2/(s1 + s2)`. | The harmonic form fails for unequal distances - go back to total/total. |
 | ✅ **Trains** | Cross a pole: length/speed. Cross a platform: `(length + platform)/speed`. | Always include the train's **own** length. |
+| ✅ **Boats/streams** | Downstream speed `= b+s`; upstream speed `= b-s`. | `b` is still-water speed and must exceed stream speed for upstream progress. |
 | ✅ **Relative speed** | Opposite directions add speeds; same direction subtract. | Requires motion along the **same line/track**. |
+| ✅ **Circular track** | First meeting anywhere: `L/(v₁+v₂)` opposite directions, `L/|v₁-v₂|` same direction. | Same start point and constant speeds. A start-point reunion requires both runners to complete whole laps; use an LCM only for commensurable lap times. |
 | ✅ **Clock angle** | Angle `= \|30H - 5.5M\|` degrees. | `H` is the hour on a **12-hour** dial (use `H mod 12`, so 14:00 -> H = 2); if the result exceeds 180, the smaller angle is `360 - angle`. |
-| ✅ **Calendar** | Odd days decide the weekday; a non-leap year shifts the weekday by 1, a leap year by 2. | A span "shifts by 2" only if it actually **contains** 29 February. |
-| ✅ **Mensuration** | Rectangle: area `= l x b`, perimeter `= 2(l + b)`, diagonal `= sqrt(l^2 + b^2)`. Cube: volume `= a^3`, surface `= 6a^2`. | Keep all lengths in **one unit** before combining. |
+| ✅ **Calendar** | Odd days decide the weekday; a non-leap year shifts the weekday by 1, a leap year by 2. | A Gregorian year is leap iff divisible by 4, **except** a century must also be divisible by 400; count a `+2` shift only when the span contains 29 February. |
+| ✅ **Mensuration** | Rectangle: area `= l x b`, perimeter `= 2(l + b)`, diagonal `= sqrt(l^2 + b^2)`. Triangle: area `= bh/2`; trapezium with parallel sides `a,b`: area `= (a+b)h/2`; circle: area `= πr^2`, circumference `= 2πr`. Cuboid: volume `= lbh`, surface `= 2(lb+bh+hl)`; cube: volume `= a^3`, surface `= 6a^2`; right circular cylinder: volume `= πr^2h`; right circular cone: volume `= πr^2h/3`; sphere: volume `= 4πr^3/3`. | Keep every length in one unit. Area is in square units and volume in cubic units. In a trapezium, `h` is perpendicular to the parallel sides; cylinder/cone formulas require the radius and perpendicular height. Use `π = 22/7` only when the data permit it. |
 
 > 🔑 **Unit reflex:** convert `km/h` to `m/s` with `x 5/18` **before** touching train/length problems -
 > half of all motion errors are unit slips.
@@ -71,11 +73,16 @@ clocks, calendars and mensuration are **fixed-formula** families.
   cycle first.
 - ⚠️ Relative speed **adds** for opposite directions and **subtracts** for the same direction - and
   the objects must be moving along the **same line** for the simple rule.
+- ⚠️ For a circular track, read **“meet anywhere”** versus **“meet at the starting point”**. The
+  latter is a common-whole-laps condition, not the relative-speed meeting time.
 - ⚠️ The clock formula takes `H` on a **12-hour dial** and gives an angle; if it exceeds 180, take
   `360 - angle` for the smaller angle.
 - ⚠️ **Average speed is never the plain mean of the speeds** unless the **times** are equal. For equal
   **distances** use the harmonic mean; otherwise compute total distance over total time.
 - ⚠️ Distinguish **distance travelled** from **displacement** before writing any equation (Section 2.1).
+- ⚠️ For a calendar question, test the **year first**: 2000 is leap, but 1900 and 2100 are not.
+- ⚠️ In tile-packing, divide the available dimensions by the tile dimensions in a single orientation;
+  rotate only if the stem permits it, and take whole tiles only.
 
 ## 5. Original solved examples
 
@@ -94,6 +101,14 @@ clocks, calendars and mensuration are **fixed-formula** families.
 **A 120 m train at 72 km/h (= 20 m/s).** Crosses a pole: `120/20 =` **6 s.** Crosses a 180 m platform:
 `(120 + 180)/20 =` **15 s.** *(Verified.)*
 
+### 📝 Example C.1 (boat and circular track)
+
+A boat has still-water speed 10 km/h and stream speed 2 km/h. Its downstream and upstream speeds are
+**12 km/h** and **8 km/h** respectively; reversing the signs is the standard trap.
+
+On a 400 m track, runners at 5 m/s and 3 m/s starting together meet in the same direction after
+`400/|5-3| =` **200 s**. Opposite-direction meeting would be `400/(5+3) = 50 s`. *(Verified.)*
+
 ### 📝 Example D (clock)
 
 **Angle between the hands at 4:20.** `|30 x 4 - 5.5 x 20| = |120 - 110| =` **10 degrees.**
@@ -103,6 +118,39 @@ smaller angle is `360 - 215 =` **145 degrees.** *(Verified.)*
 ### 📝 Example E (mensuration)
 
 **Rectangle 8 x 6.** Area `= 48`, perimeter `= 28`, diagonal `= sqrt(64 + 36) =` **10.** *(Verified.)*
+
+**Geometry transfer.** A right triangle has legs 6 cm and 8 cm. Its hypotenuse is
+`sqrt(6^2 + 8^2) = 10 cm`; its area is `6 x 8 / 2 = 24 cm²`. A circle of radius 7 cm has area
+`(22/7) x 7² = 154 cm²`. *(Verified.)* Use Pythagoras only after identifying a right angle.
+
+**Mensuration transfer.** A trapezium with parallel sides 8 cm and
+12 cm and perpendicular height 5 cm has area
+`(8 + 12) x 5 / 2 = 50 cm²`. A right circular cylinder of radius
+3 cm and height 10 cm has volume `π x 3² x 10 = 90π cm³`;
+the cone with the same base and height has one-third of that volume,
+`30π cm³`. A sphere of radius 3 cm has volume
+`4π x 3³ / 3 = 36π cm³`. *(Verified.)*
+
+### 📝 Example E.1 (tile packing)
+
+**How many 20 cm by 10 cm tiles fit in a 1 m by 80 cm rectangle without cutting?** Convert first:
+`1 m = 100 cm`. Along the sides, `100/20 = 5` and `80/10 = 8`, hence **40 tiles**. *(Verified.)*
+The calculation would be invalid if the dimensions were mixed or cutting were allowed.
+
+### 📝 Foundation cube count (needed before the drill)
+
+For a **fully painted solid** `n x n x n` cube cut along all grid planes:
+
+| Location | Count | Why |
+|---|---:|---|
+| Corners: 3 painted faces | `8` | A cube has eight corners. |
+| Edge interiors: exactly 2 faces | `12(n-2)` | Twelve edges, with `n-2` non-corner cubes each. |
+| Face interiors: exactly 1 face | `6(n-2)^2` | Six faces, excluding edges. |
+| Inner cubes: 0 faces | `(n-2)^3` | Remove one painted layer from each side. |
+
+These counts require integer `n >= 2`, a solid cube, and paint on all six outer faces. They sum to
+`n³`; that is the check before using them in the mini-drill. The Advanced companion extends, rather
+than supplies, this foundation.
 
 ### 📝 Example F (distance vs displacement, and average speed)
 
@@ -123,7 +171,10 @@ smaller angle is `360 - 215 =` **145 degrees.** *(Verified.)*
 - ✅ The hands are at **right angles 22 times** in 12 hours (44 times a day).
 - ✅ 100 years contain **5 odd days**; 400 years contain **0** (the weekday pattern repeats every 400
   years).
+- ✅ A Gregorian century year is leap only when divisible by 400: 2000 is leap; 1900 and 2100 are not.
 - ✅ Cube side doubled -> surface x4, volume x8.
+- ✅ In a fully painted `n x n x n` cube, exactly-two-face cubes are `12(n-2)`; for `3 x 3 x 3`, that
+  is 12.
 - ✅ For same-direction motion, the **faster catches the slower** at the difference of speeds.
 - ✅ **Displacement is never greater than distance**, and they are equal only when the motion never
   reverses.
@@ -140,6 +191,10 @@ smaller angle is `360 - 215 =` **145 degrees.** *(Verified.)*
 - ❌ Answering with the **distance covered** when the stem asks how far the object ends up **from the
   start**. -> That is displacement.
 - ❌ Assuming a leap-year span always shifts the weekday by 2. -> Only if 29 February falls inside it.
+- ❌ Calling every year divisible by 4 a leap year. -> Apply the century/400 exception before counting
+  odd days.
+- ❌ Treating a tile-area quotient as a packing count when side lengths do not fit. -> Check both
+  dimensions and whether rotation/cutting is allowed.
 
 ## 8. Quick checks
 
@@ -179,10 +234,41 @@ smaller angle is `360 - 215 =` **145 degrees.** *(Verified.)*
    The plain mean of 30 and 60 is 45 - **wrong**. The harmonic mean applies here because the legs are
    equal in distance: `2 x 30 x 60/(30 + 60) = 3600/90 = 40`. *(Verified.)*
 
-## 10. Study links
+## 10. Timed transfer, diagnosis and retry gate
 
-- ✅ [Advanced companion](../advanced/04_Rates-Motion-Time-and-Geometry.md) - alternate-day work,
-  boats/streams, circular tracks, and cube-cutting counts.
+**Set a 90-second ceiling per item.** Park an item at the ceiling; in a qualifying paper, a clean
+next question is worth more than a heroic calculation.
+
+1. If 1 March 2100 is Monday, what day is 1 March 2101?
+2. A `4 x 5 x 6` cm cuboid is painted on every outer face and cut into 1 cm cubes. How many cubes
+   have exactly three painted faces?
+3. A `10 m x 8 m` floor is tiled by `2 m x 1 m` tiles without cutting. How many tiles are required?
+4. A 180 m train at 54 km/h crosses a pole. Find the time.
+5. A boat travels 24 km downstream and 24 km upstream at still-water speed 8 km/h in a 2 km/h stream.
+   Find the total time.
+6. Two runners at 7 m/s and 3 m/s start together on a 200 m track in the same direction. When do they
+   first meet anywhere?
+
+**Answers.** 1. **Tuesday**: 2100 is not leap, so the span has 365 days. 2. **8**: every cuboid has
+eight corners. 3. **40**. 4. **12 s**: `54 km/h = 15 m/s`, then `180/15`. 5. **6.4 h**:
+`24/10 + 24/6 = 2.4 + 4`. 6. **50 s**: `200/|7-3|`.
+
+| If you missed because... | Code | Repair before retry |
+|---|---|---|
+| You counted 2100 as leap | C/R | Write `÷4; century -> ÷400` above the calendar. |
+| You used area alone for tiles | A | Draw the two side quotients before multiplying. |
+| You confused cube faces/corners | C | Rebuild the four-row cube table and check its total. |
+| You left speed in km/h | X | Put every train speed in m/s before division. |
+
+**Retry gate:** redo the six items after a 20-minute gap. Continue only at **6/6 within nine minutes**
+and with no unresolved C or R error; otherwise redo the matching worked method, then retry a fresh
+six-item set.
+
+## 11. Study links
+
+- ✅ [Optional Advanced companion](../advanced/04_Rates-Motion-Time-and-Geometry.md) - alternate-day
+  work, multi-segment comparisons, and harder cube/circular cases. Core above is sufficient to
+  practise the basic paper forms.
 - ✅ [Arithmetic and Commercial Math](./03_Arithmetic-and-Commercial-Math.md) - ratios/averages feed speed and work.
 - ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - odd-days counting is modular arithmetic.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->

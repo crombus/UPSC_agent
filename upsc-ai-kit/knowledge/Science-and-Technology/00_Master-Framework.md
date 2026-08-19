@@ -135,3 +135,11 @@ is not a "launch," and a "successful test" is not "operational deployment."
 7. **Integrate major discoveries and scientists:** Topic 26, always routed back to the relevant foundation/specialist topic.
 8. **Revise distinctions and current anchors:** re-check every 📰-tagged date in each file before
    an exam attempt, since S&T current affairs move faster than any other GS-III sub-area.
+
+## 7. Core answer-worthiness and primary-owner discipline
+
+Every `basic/` topic now contains a topic-specific **10/15/20-mark answer architecture**: a directive-sensitive thesis, a question-appropriate sequence and usable **claim → named evidence/example → significance → qualification** units. It is a Core requirement, so a candidate never needs an Advanced file to supply a paper-essential mechanism, status distinction, institution, risk or verdict.
+
+**Cross-owner rule.** The central PYQ ledger—not an old README pointer—decides the *primary* owner of a mixed demand. Science can provide a bounded mechanism without falsely claiming the whole answer: the 2024 freshwater question is Environment’s primary owner (Science Topic 22 supplies treatment chemistry); the asteroid question is Science Topic 03 (Topic 21 supplies physics); encrypted-messaging security is Internal Security’s primary owner (Topic 12 supplies privacy/cyber distinctions); and 2025 clean-energy independence is Environment’s primary owner (Topic 13 supplies biotechnology’s bounded contribution).
+
+**Evidence-status rule.** A source page, proposal, MoU, approval, test, inauguration or presentation establishes only the activity named. In an answer, attach the correct ladder—law, mission, facility, weapon or money—to every current claim before assessing strategic, economic, societal or ethical significance.

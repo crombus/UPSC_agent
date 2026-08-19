@@ -6,20 +6,36 @@
 >
 > **Evidence key:** ✅ owner/PYQ/syllabus control point · ⚠️ optional enrichment only · ❓ interpretive dispute; use cautiously.
 
+> **Promotion ledger — 15 August 2026.** Several triggers in this dossier have **fired and been
+> executed**, and the doctrines below now live in the owner files and are **no longer optional**:
+> the hostile-source reconstruction problem and the **Jayarāśi sceptical wing**
+> ([Cārvāka](../paper-1/indian/Carvaka.md) §1A); the ***naya*** apparatus and the *guṇasthāna*
+> ladder ([Jainism](../paper-1/indian/Jainism.md)); **Buddhist pramāṇa theory** — two pramāṇas,
+> *svalakṣaṇa*, *apoha*, *pramāṇaphala*, *arthakriyākāritva*
+> ([Buddhism](../paper-1/indian/Buddhism.md) §9A); **Udayana's four inferences**
+> ([Nyāya–Vaiśeṣika](../paper-1/indian/Nyaya-Vaisesika.md)); the **samprajñāta/asamprajñāta
+> samādhi distinction** and *dharmamegha* ([Yoga](../paper-1/indian/Yoga.md)); ***apūrva***,
+> *bhāvanā*/*niyoga* and the full Bhāṭṭa–Prābhākara grid including *abhihitānvaya* vs
+> *anvitābhidhāna* ([Mīmāṃsā](../paper-1/indian/Mimamsa.md)); Nimbārka, Vallabha and Caitanya
+> ([Vedānta](../paper-1/indian/Vedanta.md)); and the planes of consciousness and psychic being
+> ([Aurobindo](../paper-1/indian/Aurobindo.md)). The modules below are retained as second-order
+> enrichment — attribution disputes, commentarial divergence and counter-objections — and nothing
+> useful was deleted in the recasting.
+
 ## 1. Cārvāka
 
 - **Owner:** [Cārvāka](../paper-1/indian/Carvaka.md)
 - **Core prerequisite:** ✅ Master pratyakṣa as sole pramāṇa, the vyāpti/upādhi attack on anumāna, rejection of śabda, four-element materialism, anti-ātman/karma/rebirth, and all routed 2018–2025 Cārvāka PYQs.
-- **Safe 15/20-marker use:** ⚠️ Add only one enrichment move in the evaluative paragraph—usually transmission-caution, Jayarāśi as a radical edge-case, or svabhāvavāda as a limited naturalist gesture.
+- **Safe 15/20-marker use:** ⚠️ Add only one enrichment move in the evaluative paragraph—usually transmission-caution, the Jayarāśi *affiliation* dispute, or svabhāvavāda as a limited naturalist gesture. **Jayarāśi Bhaṭṭa** (not "Bhāṭṭa", which names the Kumārila school of Mīmāṃsā) and the hostile-source problem are themselves Core.
 
 | Optional depth module | Precise doctrinal / interpretive issue | Rival school / commentarial readings | Strongest extra objection → counter-reply | Credible source trail |
 |---|---|---|---|---|
 | ⚠️ Transmission and reconstruction problem | Can “Cārvāka” be reconstructed as one stable system when most evidence comes from opponents? | Doxographical minimalism: keep only convergent theses from hostile summaries; stronger reconstruction: infer a broader Lokāyata naturalism from scattered reports | **Obj.:** hostile transmission makes the school unusable. **Reply:** treat only the stable anti-inferential and anti-transcendent core as examinable; use reconstruction merely to avoid caricature | Mādhavācārya, *Sarva-darśana-saṃgraha*; Chatterjee & Datta; C.D. Sharma |
-| ⚠️ Jayarāśi and radical scepticism | Is Jayarāśi Bhāṭṭa’s *Tattvopaplavasiṃha* a Cārvāka text or a freer sceptical explosion adjacent to Lokāyata? | Continuity reading: Jayarāśi radicalises anti-pramāṇa pressure; discontinuity reading: he exceeds normal Cārvāka and attacks even perception-stability | **Obj.:** importing Jayarāśi makes the owner’s compact Cārvāka unstable. **Reply:** exactly—so mention him only as an optional radical flank, never as the default UPSC reconstruction | Jayarāśi, *Tattvopaplavasiṃha*; Debiprasad Chattopadhyaya, *Lokāyata*; S. Radhakrishnan, *Indian Philosophy* |
+| ✅ **Jayarāśi and radical scepticism — now Core (§1A of the owner)** | Is Jayarāśi Bhaṭṭa’s *Tattvopaplavasiṃha* a Cārvāka text or a freer sceptical explosion adjacent to Lokāyata? | Continuity reading: Jayarāśi radicalises anti-pramāṇa pressure; discontinuity reading: he exceeds normal Cārvāka and attacks even perception-stability | **Obj.:** importing Jayarāśi makes the owner’s compact Cārvāka unstable. **Reply:** the owner now handles this by separating a dogmatic empiricist wing from a dialectical-sceptical wing, so the optional residue is only the **school-affiliation dispute** itself — never use him to state Cārvāka epistemology | Jayarāśi, *Tattvopaplavasiṃha*; Debiprasad Chattopadhyaya, *Lokāyata*; S. Radhakrishnan, *Indian Philosophy* |
 | ⚠️ Svabhāvavāda as thin naturalism | Does svabhāvavāda provide positive explanation, or does it merely block theological and karmic explanations? | Positive naturalist reading: things behave by intrinsic nature; deflationary reading: it is mainly a polemical refusal of adṛṣṭa/Īśvara | **Obj.:** “things act by nature” sounds like an explanatory stop-gap. **Reply:** fair criticism; its safe value is negative—Cārvāka prefers immanent explanation to supersensible postulates | Chatterjee & Datta; C.D. Sharma; Radhakrishnan |
 
 - **What not to over-study:** ⚠️ verse-attribution catalogues, every hostile fragment, or full modern debates over whether Lokāyata counts as “positivism” once the 2024 core answer is already secure.
-- **Promotion trigger:** ✅ Promote any of the above if a future PYQ directly asks hostile-source reconstruction, Jayarāśi, or svabhāvavāda as a positive metaphysical thesis, or if the owner file cannot safely answer a “naturalism/positivism” question without it.
+- **Promotion trigger:** ✅ **Hostile-source reconstruction and the Jayarāśi sceptical wing fired and were promoted on 15 Aug 2026** and are now Core (§1A of the owner). Still to promote if a PYQ asks it directly: svabhāvavāda as a positive metaphysical thesis.
 
 ## 2. Jainism
 

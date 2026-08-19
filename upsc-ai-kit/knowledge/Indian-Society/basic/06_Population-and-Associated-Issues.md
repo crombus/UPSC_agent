@@ -3,12 +3,16 @@
 > **Subject:** Indian Society | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I.
 > **Core area:** Population as a social issue — social determinants of fertility, National
 > Population Policy 2000, ageing, son preference, and the "demographic winter" debate.
-> **Grounded in:** National Population Policy 2000 (MoHFW); NFHS-5 (2019-21, latest released
-> national round as checked 21 July 2026); audited 2024 GS-I Mains PYQ.
+> **Grounded in:** National Population Policy 2000 (MoHFW); NFHS-5 (2019-21; historical comparator; NFHS-6 was released
+> 29 May 2026); audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/06_Population-and-Associated-Issues.md`.*
 
 ---
+
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
 
 ## 1. Visual foundation
 
@@ -111,8 +115,7 @@ the picture.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ NFHS-5 (2019-21) reported India's Total Fertility Rate at 2.0. It is the latest
-  released national NFHS round as checked on 21 July 2026, not a current-year estimate.
+- ✅ NFHS-5 (2019-21) reported India's Total Fertility Rate at 2.0. It is a historical comparator; the current released provisional national fact-sheet round is NFHS-6 (2023-24), not a current-year estimate.
 - ✅ National Population Policy, 2000 set immediate, medium-term and long-term goals
   culminating in a stable population aligned with sustainable development.
 - ✅ Women's education is a major social determinant associated with fertility transition,
@@ -142,9 +145,9 @@ the picture.
 
 ## 8. 📰 Current anchor
 
-- 📰 NFHS-5 (2019-21) is the latest released national NFHS round as checked on 21 July 2026
-  and reports a TFR of 2.0. Date it explicitly; do not cite an unissued NFHS-6 result or
-  treat the survey estimate as a Census-era stock.
+- 📰 NFHS-6 (2023-24) national fact sheets report a total TFR of **2.0** (urban 1.6,
+  rural 2.1). The fact sheets label results provisional; this is a survey estimate, not a
+  Census stock or a uniform state figure.
 
 ## 9. PYQ application
 
@@ -189,3 +192,87 @@ the picture.
   schemes.
 - ✅ `07_Women-and-Womens-Organisations.md` — women's education/agency as a fertility
   determinant, treated further there.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** Population questions require social mechanisms and measurement discipline;
+> they must not turn fertility into coercion, a single national average or a geographic
+> model recital.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Elaborate** demographic winter | Definition plus uneven world/state movement | define -> drivers -> uneven evidence -> consequences -> graded verdict |
+| **Discuss** women’s empowerment and population | Agency pathway, not population control | capability -> delayed/voluntary choices -> health -> qualification |
+| **Discuss and point out** population education | Objectives, methods and rights safety | objective -> age-appropriate content -> institutions -> safeguards |
+| **Examine** ageing | Achievement and support challenge | transition -> care/workforce implications -> state variation |
+| **Analyse** son preference | norm versus metric | attitude -> sex ratio at birth -> social consequences -> balance |
+
+### 13.2 Thesis bank
+
+- **T1:** ⚠️ Fertility transition is produced by agency, health, education and security; it
+  should not be treated as a numerical-control project.
+- **T2:** ⚠️ Demographic winter is an uneven age-structure risk, not a label that a dated
+  national TFR can attach to India as a whole.
+- **T3:** ⚠️ Population education works when it builds informed, voluntary capability rather
+  than imposing demographic targets.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — empowering women and population growth (2019 GS-I).** Start with T1. Link
+education, later marriage, health information, paid work/voice and voluntary contraceptive
+access to informed family-size choices; add son preference and uneven services as
+constraints. Conclude with rights-based choice, not “control”.
+
+**15 marks — objectives and measures of population education (2021 GS-I).** Define it as
+age-appropriate, scientific and rights-respecting education. Organise objectives under
+health/reproductive information, gender equality and delayed marriage, small-family
+informed choice, and population-resource awareness. Add school/community/service delivery,
+the NPP 2000 frame and an anti-coercion conclusion.
+
+**20 marks — India’s uneven demographic transition.** Start from national versus
+sub-national divergence; use fertility, ageing, sex ratio at birth, migration and
+dependency. Explain the demographic-winter/dividend distinction, route DTM mechanics to
+Geography and close with state-specific care, health, skills and gender-policy needs.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Rights-based policy.** *Claim:* population policy can be rights-oriented.
+  *Evidence:* **National Population Policy, 2000**—unmet contraceptive need, replacement
+  fertility and long-term stabilisation objectives. *Significance:* supports an
+  agency-based answer. *Limitation:* a policy objective is not an outcome or a coercive
+  mandate.
+- **E2 — Historical fertility comparator.** *Claim:* a national average can show direction,
+  not uniformity. *Evidence:* **NFHS-5 (2019-21)** reported TFR 2.0. *Significance:* a
+  dated historical anchor for transition. *Limitation:* NFHS-6 (2023-24) is now the latest
+  released national survey; neither survey is a Census stock or a uniform state estimate.
+- **E3 — Gender mechanism.** *Claim:* gender equality matters to demographic choice.
+  *Evidence:* women’s education, marriage age, health access and voice are named social
+  determinants in NPP/fertility analysis. *Significance:* permits causal explanation
+  without asserting a single determinant. *Limitation:* association does not prove one
+  factor causes every fertility outcome.
+- **E4 — Family-care mechanism.** *Claim:* ageing changes social support systems.
+  *Evidence:* **dependency ratio** and family-based elder care, cross-linked to
+  Social Justice. *Significance:* makes ageing a social, not merely numerical, answer.
+  *Limitation:* do not use one state’s ageing pattern as a national condition.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Distinguish a Census stock, NFHS survey and administrative registration.
+- ⚠️ Do not present NFHS-5 as current or infer NFHS-6 figures without its released fact sheet.
+- ⚠️ Distinguish demographic winter from demographic dividend and son preference from sex
+  ratio at birth.
+- **Verdict:** “India’s population question is an uneven capability transition: the policy
+  task is to expand informed choice and prepare for differing regional age structures.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2019 · GS-I · Q9 | Empowering women and population growth | §13.1-13.3, T1, E1-E3 |
+| 2021 · GS-I · Q18 | Population education objectives and measures | §13.1, §13.3, T3 |
+| 2024 · GS-I · Q7 | Demographic winter | §13.1, T2, E2-E4 |
+
+> **Routing correction:** Core routes supersede the older `advanced/06` pointers; Geography
+> retains the DTM/model owner, not this topic’s social-demography owner.

@@ -175,6 +175,195 @@ duplicating report content here.
 - ✅ `Ethics/basic/14_Probity-Concept-and-Philosophical-Basis-of-Governance.md` — the Ethics
   in Governance (4th Report) depth Ethics owns.
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Scope.** This file is a **routing index with reform-analysis capability**, and both
+> capabilities are held here. `advanced/10` is optional enrichment only.
+> ⚠️ **The controlling discipline for this topic:** never write a decontextualised ARC
+> quote-bank answer. An ARC recommendation earns marks only when routed to a specific
+> report, matched to a specific governance problem and qualified by its implementation
+> status.
+
+### 13.0 Direct demand owned by this Core file
+
+**2021 Prelims Q78 — the Administrative Reforms Commission and the creation of a personnel
+department.** The examinable content is the **First ARC's** place in India's administrative
+history and the institutional lineage of personnel administration. What this file must
+supply and does: the First ARC (1966–1970), initially chaired by **Morarji Desai** and later
+by **K. Hanumanthaiah**, examined the machinery of government, personnel administration and
+Centre–State relations, and its work belongs to the period in which the Union's personnel
+function was institutionally consolidated. ⚠️ **No specific recommendation, year of
+departmental creation or ministry restructuring is asserted here**, because no official
+source for that step is held locally and the 2018–2023 Prelims key is not available. ❌ Do
+not guess a year or a recommendation number; state the ARC's remit and the
+recommendation-versus-implementation distinction instead.
+
+### 13.1 Demand map
+
+| Stem pattern | What is being tested | Opening move |
+|---|---|---|
+| "First vs Second ARC" | Era and remit contrast | Post-Independence structure vs liberalised, technology-enabled, rights-based governance |
+| "Relevance of ARC recommendations today" | Status discipline | Name the report, then state its implementation status precisely |
+| "ARC on \<topic\>" | Correct routing | Identify the report by **title**, then answer from the destination topic file |
+| "Why do reform commissions fail?" | Political economy | Diagnose the acceptance → instrument → capacity → outcome chain (§13.5) |
+| "Suggest administrative reform" | Whether you distinguish proposal from law | Every recommendation cited must carry its status label |
+| Novel reform question (a new commission, a task force, a committee report) | Transferability | Apply the five-status ladder (§13.4) to the new body |
+
+### 13.2 Qualified theses
+
+- **T1 (source discipline):** "The Second ARC remains India's most systematic governance
+  diagnosis, but it is a **dated set of recommendations from 2006–09**, not a body of law;
+  its analytical value survives precisely because it is used as diagnosis rather than cited
+  as authority."
+- **T2 (selective implementation):** "India's reform record is one of selective, partial and
+  frequently unattributed adoption: reforms resembling ARC proposals have been enacted, and
+  resemblance is not evidence of implementation."
+- **T3 (era contrast):** "The First ARC asked how to build an administrative structure; the
+  Second asked how to make an existing structure accountable, participatory and
+  technology-enabled — the shift in question is itself the answer to a comparison stem."
+- **T4 (political economy):** "Reform recommendations fail less on merit than on the
+  distribution of costs: recommendations that reduce discretion or reallocate authority face
+  concentrated resistance and diffuse benefit."
+
+### 13.3 Mark-scaled structure
+
+**10 marks** — the era/remit contrast or the named report; two recommendations routed to
+their destination topics; the status caution; verdict.
+
+**15 marks** — thesis; the report-routing map for the question's theme; 4–6 evidence units
+drawn from the **destination** topic files; the implementation-status ladder applied to at
+least two items; the political-economy explanation of partial adoption; graded verdict.
+
+**20 marks** — thesis with criteria; ARC reports as a diagnostic architecture rather than a
+list; three governance domains traced from ARC diagnosis to current instrument, each with an
+honest status label; why implementation is uneven (§13.5); what has changed since 2009 that
+the ARC could not have anticipated (DPI, DPDP, statutory service guarantees, GST-era fiscal
+federalism); verdict on continuing relevance with a stated condition.
+
+### 13.4 The five-status ladder (attach to every ARC citation)
+
+| Status | Evidence that must exist to claim it | Typical error |
+|---|---|---|
+| **Proposed** | The ARC text alone | Presenting a proposal as practice |
+| **Accepted in principle** | A recorded government decision or response, with no operative instrument | Treating acceptance as implementation |
+| **Notified / enacted** | An Act, rule, order or scheme instrument exists | Citing a Bill or a draft as law |
+| **Operational** | Institutions, staff, budget and procedure are actually functioning | Confusing a constituted body with a working one |
+| **Evaluated** | Independent evidence on implementation quality and outcome | Asserting effectiveness from existence |
+
+⚠️ **Use the ladder as a sentence, not a table, in an answer:** "The ARC recommended X; the
+government accepted it in principle; the operative instrument is Y; whether it functions as
+intended has not been independently evaluated." That single sentence demonstrates all of
+criteria 8 and 10 of the audit standard.
+
+### 13.5 Causal chain — why reform recommendations are only partly implemented
+
+```text
+DIAGNOSIS         commission identifies a structural problem
+      v
+ACCEPTANCE        government responds report-by-report, recommendation-by-recommendation
+      v           (failure mode: acceptance "in principle" with no instrument)
+INSTRUMENT        Act | rule | order | scheme must be separately created
+      v           (failure mode: no legislative time, or the subject is a State subject)
+FEDERAL STEP      local governance, personnel and district administration reforms
+      v           need State action; a Union acceptance cannot deliver them
+CAPACITY          staff, money, systems and skills must exist to operate the instrument
+      v
+INCENTIVE         who loses discretion, authority or rent? concentrated resistance,
+      v           diffuse benefit -> the classic reform political economy
+OUTCOME           partial adoption, often unattributed, frequently unevaluated
+```
+
+⚠️ **The federal point is the most under-used and most rewarded:** several of the highest-value
+ARC reports — **Local Governance (6)**, **State and District Administration (15)**, and much
+of **Refurbishing of Personnel Administration (10)** — address subjects requiring **State**
+action. Their non-implementation is therefore often a **federal-capacity** fact rather than
+a Union-indifference fact.
+
+### 13.6 Report-routing bank (use the number *and* the title)
+
+Reports whose recommendations most frequently carry Mains weight, with the destination that
+holds the analytical depth:
+
+| Report | Title | Destination and what to draw from it |
+|---|---|---|
+| **1** | *Right to Information: Master Key to Good Governance* | `08` — proactive disclosure, the accountability ecosystem |
+| **2** | *Unlocking Human Capital: Entitlements and Governance* | `02` — entitlement design and implementation; Social Justice cross-link |
+| **4** | *Ethics in Governance* | `08`, `09`, `11` for institutional accountability; **Ethics owns personal probity** — do not duplicate |
+| **6** | *Local Governance* | `12` — the 3Fs, activity mapping, parastatal encroachment |
+| **9** | *Social Capital: A Shared Destiny* | `04` — bonding/bridging/linking, civil-society partnership |
+| **10** | *Refurbishing of Personnel Administration: Scaling New Heights* | `09` — neutrality, capacity, performance |
+| **11** | *Promoting e-Governance: The Smart Way Forward* | `05` — process re-engineering before digitisation |
+| **12** | *Citizen-Centric Administration: The Heart of Governance* | `07` — Sevottam, charters, grievance redress |
+| **13** | *Organisational Structure of Government of India* | `02`, `09` — machinery and coordination; Polity cross-link |
+| **14** | *Strengthening Financial Management Systems* | `13` — expenditure control, financial discipline |
+| **15** | *State and District Administration: A Fresh Look* | `12` — district administration and delivery |
+
+⚠️ Reports **3, 5, 7 and 8** (crisis management, public order, conflict resolution,
+terrorism) sit mainly in the GS-III space; cross-reference rather than force them into a
+GS-II answer.
+
+### 13.7 Counter-argument and trade-off bank
+
+- ⚠️ **Datedness objection:** a 2006–09 diagnosis predates Aadhaar-scale DPI, the DPDP
+  framework, statutory service guarantees at scale and post-GST fiscal federalism. **Reply:**
+  the ARC's *analytical categories* (capacity, accountability, citizen-centricity,
+  decentralisation) have aged far better than its *specific prescriptions* — say which you
+  are using.
+- ⚠️ **Comprehensiveness vs implementability:** a fifteen-report programme is analytically
+  complete and politically indigestible; incremental reform is implementable and incoherent.
+- ⚠️ **Commission fatigue:** repeated commissions can substitute for action, converting
+  reform into a documented intention.
+- ⚠️ **Attribution problem:** where a later reform resembles an ARC proposal, causation is
+  usually unprovable. **Never claim** that Mission Karmayogi implements Report 10, or that
+  RTS Acts implement Report 12, without a sourced acceptance/decision trail — thematic
+  similarity is not implementation evidence. This is the single most common fabricated claim
+  in ARC answers.
+- ⚠️ **Recommendation vs law:** the most examinable discipline in this whole topic. An ARC
+  recommendation is a dated reform proposal; it becomes binding only through separate
+  enactment, notification or adopted administrative practice.
+
+### 13.8 Stakeholder variation in reform adoption
+
+- **Union ministry:** accepts what fits its existing mandate; resists what reallocates it.
+- **State government:** must act on the local-governance, personnel and district-administration
+  reports — and has its own political economy.
+- **DARPG:** tracks and coordinates follow-up; a coordinating department cannot compel a line
+  ministry.
+- **Civil-service association:** organised interest in tenure, cadre and promotion rules.
+- **Citizen/civil society:** diffuse beneficiary of accountability reform, with weak
+  organisation relative to the concentrated interests that reform touches.
+
+### 13.9 Verdict scaffolds
+
+- **Relevance stem:** "The Second ARC remains indispensable as a diagnostic map and unsafe
+  as a statement of current practice; the honest use is to cite the report for the problem
+  and the current instrument for the answer."
+- **Comparison stem:** "The First ARC built machinery; the Second ARC tried to make machinery
+  answerable. Neither was fully implemented, and the reasons differ: capacity in the first
+  case, incentives and federal structure in the second."
+- **Reform-failure stem:** "Recommendations fail at the instrument and incentive stages, not
+  at the diagnosis stage — which is why yet another commission would add little that the
+  existing fifteen reports have not already said."
+- **Novel-commission stem:** apply the five-status ladder and ask who bears the concentrated
+  cost of the recommendation.
+
+### 13.10 Factual and current-status controls
+
+- ✅ Safe: First ARC **1966–1970**, chaired initially by **Morarji Desai** and later by
+  **K. Hanumanthaiah**; Second ARC **constituted 2005**, chaired by **M. Veerappa Moily**,
+  **15 reports** between **2006 and 2009**; DARPG as the nodal department tracking follow-up;
+  the report titles listed in §13.6 and in §3.
+- ❌ **Do not assert:** a percentage of ARC recommendations accepted or implemented; a
+  specific recommendation number; a date on which a recommendation was implemented; that any
+  named current programme implements a named ARC report; the composition of either
+  Commission beyond the chairs named above; any First ARC report count or title not held here.
+- ⚠️ **Status language is the mark.** Write "recommended", "accepted in principle",
+  "notified", "operational" or "unevaluated" — never "the ARC established", "the ARC
+  mandated" or "under the ARC".
+- ⚠️ This file is a routing index by design. Answer depth belongs in the destination file;
+  reproducing report content here would duplicate content and multiply the risk of
+  misattribution.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

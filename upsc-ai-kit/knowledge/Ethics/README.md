@@ -9,22 +9,25 @@
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
 > **Pre-exam revision:** [`REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md`](REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md)
 > compresses all 23 Core/Advanced pairs into a single Section-A concept map,
-> Section-B decision framework, comparison sheet and example bank.
+> Section-B eight-element decision framework (hard-threshold vs weighted checks, steelman,
+> residual-risk close), comparison sheet and example bank.
 
 ---
 
 ## How this folder works
 
-- **Two tiers per topic:** `basic/NN` builds the must-do concept, definitions and usable
-  examples; `advanced/NN` adds philosophical/administrative debates, legal nuance, institutional
-  constraints, case analysis and answer-writing depth. **Same number = same topic** in both tiers.
+- **Two tiers per topic:** `basic/NN` is independently answer-complete for Section A
+  and Section B, including historical demands, evidence, decision architecture and
+  safeguards. `advanced/NN` adds optional philosophical debate, legal nuance and
+  difficult boundary cases; skipping it must not reduce the attainable paper
+  outcome. **Same number = same topic** in both tiers.
 - **Tagging discipline:** ✅ = directly grounded in a cited source (ARC Report, statute, official
   body, verified PYQ); ⚠️ = analytical inference, standard linkage or illustrative framing;
   📰 = a dated, verifiable current-affairs or status anchor.
 - **Dated-source discipline:** The ARC's 4th Report is a **2007 document**. Its data, case
   vintage (e.g., conviction-rate tables) and *recommendations* (e.g., Lokpal, whistleblower law,
   collusive-bribery offence) are presented as **dated source material**, clearly separated from
-  **current enacted-law status verified as of 4 August 2026**. Distinguish four different things
+  **current enacted-law status verified as of 14 August 2026**. Distinguish four different things
   whenever a statute is cited: **enactment** (assent), **rules** made under it, **commencement**
   (being brought into force) and **operation** (whether the machinery actually functions). Live
   examples used throughout this folder:
@@ -33,7 +36,7 @@
   - Lokpal and Lokayuktas Act, 2013 — assent 1 January 2014, in force **16 January 2014**, but the
     first Chairperson took office only in **March 2019**: enactment ≠ operation.
   - Whistle Blowers Protection Act, 2014 — assent **9 May 2014**, but **no commencement
-    notification traced as of 4 August 2026**: enacted but *not in force*; the CVC's non-statutory
+    notification traced as of 14 August 2026**: enacted but *not in force*; the CVC's non-statutory
     PIDPI Resolution (21 April 2004) remains the operative mechanism.
   - DSPE Act s.6A "single directive" — enacted through the CVC Act, 2003 but **struck down** in
     *Subramanian Swamy v. Director, CBI* (2014): enacted then judicially voided.
@@ -43,6 +46,14 @@
     is open, not settled.
   - RTI Act, 2005 s.8(1)(j) — **substituted** by s.44(3) of the Digital Personal Data Protection
     Act, 2023, that substitution being in force from **13 November 2025**.
+- **Multi-part-question routing vs content ownership:** a question-level PYQ routing ledger tracks
+  a whole question (e.g., a two-part Q6(a)+(b)) against one topic for tracking purposes; where a
+  question genuinely bundles two independent sub-parts, the topic that substantively answers each
+  sub-part remains that sub-part's content owner regardless of which ledger row lists the full
+  question. Example: 2022 GS-IV Q6 bundles (a) whistle-blower protection — owned by
+  `basic/21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — and (b) CSR — owned by
+  `basic/12_Corporate-Governance-and-International-Ethics.md`, Section 10 (see that section's own
+  ownership note).
 - **No duplication of constitutional-body detail:** composition, appointment and removal
   procedure of CVC, CBI, Lokpal/Lokayukta, CIC/SIC and the Public Service Commissions are taught
   in `Polity/advanced/37_CVC-and-CBI.md`, `Polity/advanced/38_Lokpal-and-Lokayuktas.md`,
@@ -79,7 +90,7 @@
 | 19 | Corruption: Legal Framework | PC Act 1947/1988, collusive bribery, Benami, whistleblowers |
 | 20 | Anti-Corruption Institutions | CVC, CBI, Lokpal/Lokayukta — ethics/jurisdiction angle |
 | 21 | Protecting Honest Officials and Vigilance Administration | Single-point directive, sanction, bona fides |
-| 22 | Case Study Method and Answer Architecture | Options-stakeholders-framework-decision |
+| 22 | Case Study Method and Answer Architecture | Eight-element architecture (facts-stakeholders-constraints-options-evaluation-decision-implementation-residual risk) |
 | 23 | Comparative and Named Real Case Studies | Manjunath, Dubey, Mudgal, MKSS, ICAC, Korea, Finland |
 
 ## Official UPSC syllabus mapping
@@ -91,12 +102,12 @@ Full local map: [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAP
 | `... attitude and approach to issues relating to integrity, probity ... problem solving ... Questions may utilise the case study approach ...` | **COVERED** | [`basic/03_Attitude-Content-Structure-and-Persuasion.md`](basic/03_Attitude-Content-Structure-and-Persuasion.md), [`basic/04_Aptitude-and-Foundational-Values-for-Civil-Service.md`](basic/04_Aptitude-and-Foundational-Values-for-Civil-Service.md), [`basic/14_Probity-Concept-and-Philosophical-Basis-of-Governance.md`](basic/14_Probity-Concept-and-Philosophical-Basis-of-Governance.md), [`basic/22_Case-Study-Method-and-Answer-Architecture.md`](basic/22_Case-Study-Method-and-Answer-Architecture.md), [`basic/23_Comparative-and-Named-Real-Case-Studies.md`](basic/23_Comparative-and-Named-Real-Case-Studies.md) | Section A / Section B routing is explicit: direct questions in Q1-Q6, case studies in Q7-Q12 for the audited 2024/2025 papers. |
 | `Ethics and Human Interface ...` | **COVERED** | [`basic/01_Ethics-and-Human-Interface.md`](basic/01_Ethics-and-Human-Interface.md), [`advanced/01_Ethics-and-Human-Interface.md`](advanced/01_Ethics-and-Human-Interface.md) | Topic 01 already routes recent Section A questions on ethics dimensions and constitutional morality. |
 | `Human Values ... role of family society and educational institutions ...` | **COVERED** | [`basic/02_Human-Values-and-Lessons-from-Leaders.md`](basic/02_Human-Values-and-Lessons-from-Leaders.md), [`advanced/02_Human-Values-and-Lessons-from-Leaders.md`](advanced/02_Human-Values-and-Lessons-from-Leaders.md) | Topic 02 integrates recent quotation PYQs and value-inculcation themes. |
-| `Attitude ... moral and political attitudes; social influence and persuasion.` | **COVERED** | [`basic/03_Attitude-Content-Structure-and-Persuasion.md`](basic/03_Attitude-Content-Structure-and-Persuasion.md), [`advanced/03_Attitude-Content-Structure-and-Persuasion.md`](advanced/03_Attitude-Content-Structure-and-Persuasion.md) | Topic 03 already routes 2025 social-media and William James question types. |
+| `Attitude ... moral and political attitudes; social influence and persuasion.` | **COVERED** | [`basic/03_Attitude-Content-Structure-and-Persuasion.md`](basic/03_Attitude-Content-Structure-and-Persuasion.md), [`advanced/03_Attitude-Content-Structure-and-Persuasion.md`](advanced/03_Attitude-Content-Structure-and-Persuasion.md) | Topic 03 already routes 2025 social-media and William James question types, and now includes an explicit moral-vs-political-attitude section (definitions, non-partisanship obligation, policy-awareness limit). |
 | `Aptitude and foundational values for Civil Service ...` | **COVERED** | [`basic/04_Aptitude-and-Foundational-Values-for-Civil-Service.md`](basic/04_Aptitude-and-Foundational-Values-for-Civil-Service.md), [`advanced/04_Aptitude-and-Foundational-Values-for-Civil-Service.md`](advanced/04_Aptitude-and-Foundational-Values-for-Civil-Service.md) | Topic 04 already routes recent enabler/facilitator, objectivity and public-service questions. |
 | `Emotional intelligence ... administration and governance.` | **COVERED** | [`basic/05_Emotional-Intelligence-in-Administration.md`](basic/05_Emotional-Intelligence-in-Administration.md), [`advanced/05_Emotional-Intelligence-in-Administration.md`](advanced/05_Emotional-Intelligence-in-Administration.md) | Topic 05 explicitly anchors the 2025 DC-Vijay case study. |
 | `Contributions of moral thinkers and philosophers from India and world.` | **COVERED** | [`basic/06_Indian-Moral-Thinkers-and-Philosophers.md`](basic/06_Indian-Moral-Thinkers-and-Philosophers.md), [`basic/07_Western-Moral-Philosophers-and-Thinkers.md`](basic/07_Western-Moral-Philosophers-and-Thinkers.md), [`basic/08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md`](basic/08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md) plus advanced companions | Thinker questions are split cleanly across Indian/Western owners, with Topic 08 converting them into applied answer logic. |
 | `Public/Civil service values and Ethics in Public administration: Status and problems;` | **COVERED** | [`basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md`](basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md), [`advanced/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md`](advanced/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md) | Topic 09 already routes 2025 Q1(b), 2025 Q5(a), and the DC-Vijay dilemma back to civil-service values and public-administration ethics. |
-| `ethical concerns and dilemmas in government and private institutions;` | **COVERED** | [`basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md`](basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md), [`basic/12_Corporate-Governance-and-International-Ethics.md`](basic/12_Corporate-Governance-and-International-Ethics.md), [`basic/22_Case-Study-Method-and-Answer-Architecture.md`](basic/22_Case-Study-Method-and-Answer-Architecture.md) plus advanced companions | Government dilemmas route through Topic 09 and case-study Topic 22; private-institution dilemmas route through Topic 12, including the audited 2024 tech-company case. |
+| `ethical concerns and dilemmas in government and private institutions;` | **COVERED** | [`basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md`](basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md), [`basic/12_Corporate-Governance-and-International-Ethics.md`](basic/12_Corporate-Governance-and-International-Ethics.md), [`basic/13_Emerging-Ethics-Technology-AI-and-Environment.md`](basic/13_Emerging-Ethics-Technology-AI-and-Environment.md), [`basic/22_Case-Study-Method-and-Answer-Architecture.md`](basic/22_Case-Study-Method-and-Answer-Architecture.md) plus advanced companions | Government dilemmas route through Topic 09 and case-study Topic 22; private-institution dilemmas route through Topic 12; environmental-ethics dilemmas (orientations, sustainable development, precaution, polluter-pays, *Vellore Citizens' Welfare Forum*) route through Topic 13, which is Basic-controlling for that dimension. |
 | `laws, rules, regulations and conscience as sources of ethical guidance;` | **COVERED** | [`basic/10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md`](basic/10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md), [`advanced/10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md`](advanced/10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md) | Topic 10 explicitly routes 2025 Q1(b) on constitutional morality and related law-versus-ethics reasoning. |
 | `accountability and ethical governance;` | **COVERED** | [`basic/11_Accountability-and-Ethical-Governance.md`](basic/11_Accountability-and-Ethical-Governance.md), [`advanced/11_Accountability-and-Ethical-Governance.md`](advanced/11_Accountability-and-Ethical-Governance.md) | Topic 11 already routes 2025 Q6(b) on underutilised / misused public funds and governance accountability. |
 | `strengthening of ethical and moral values in governance;` | **COVERED** | [`basic/11_Accountability-and-Ethical-Governance.md`](basic/11_Accountability-and-Ethical-Governance.md), [`basic/16_Codes-of-Ethics-and-Codes-of-Conduct.md`](basic/16_Codes-of-Ethics-and-Codes-of-Conduct.md), [`basic/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md`](basic/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md) plus advanced companions | The repository treats this as an institutional-strengthening cluster: accountability structures, codes, and service-delivery/work-culture reform, with 2025 Q5(a) as a recent direct anchor. |
@@ -113,7 +124,7 @@ Full local map: [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAP
 | `Quality of service delivery,` | **COVERED** | [`basic/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md`](basic/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md), [`advanced/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md`](advanced/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md) | The same owner file integrates service standards, charter design and enforceability. |
 | `Utilization of public funds,` | **COVERED** | [`basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md`](basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md), [`advanced/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md`](advanced/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md) | Topic 18 explicitly routes 2025 Q6(b) on India's rise alongside underutilised / misused funds. |
 | `challenges of corruption.` | **COVERED** | [`basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md`](basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md), [`basic/19_Corruption-Legal-Framework.md`](basic/19_Corruption-Legal-Framework.md), [`basic/20_Anti-Corruption-Institutions.md`](basic/20_Anti-Corruption-Institutions.md), [`basic/21_Protecting-Honest-Officials-and-Vigilance-Administration.md`](basic/21_Protecting-Honest-Officials-and-Vigilance-Administration.md) plus advanced companions | Corruption is deliberately split into public-fund use, law, institutions and protection-of-the-honest, each with its own PYQ application section. |
-| `Case Studies on above issues.` | **COVERED** | [`basic/22_Case-Study-Method-and-Answer-Architecture.md`](basic/22_Case-Study-Method-and-Answer-Architecture.md), [`advanced/22_Case-Study-Method-and-Answer-Architecture.md`](advanced/22_Case-Study-Method-and-Answer-Architecture.md), [`basic/23_Comparative-and-Named-Real-Case-Studies.md`](basic/23_Comparative-and-Named-Real-Case-Studies.md), [`advanced/23_Comparative-and-Named-Real-Case-Studies.md`](advanced/23_Comparative-and-Named-Real-Case-Studies.md) | The recent audited Section B bank is fixed as 2024/2025 Q7-Q12, with Topic 22 owning method and Topic 23 owning named-case reinforcement. |
+| `Case Studies on above issues.` | **COVERED** | [`basic/22_Case-Study-Method-and-Answer-Architecture.md`](basic/22_Case-Study-Method-and-Answer-Architecture.md), [`advanced/22_Case-Study-Method-and-Answer-Architecture.md`](advanced/22_Case-Study-Method-and-Answer-Architecture.md), [`basic/23_Comparative-and-Named-Real-Case-Studies.md`](basic/23_Comparative-and-Named-Real-Case-Studies.md), [`advanced/23_Comparative-and-Named-Real-Case-Studies.md`](advanced/23_Comparative-and-Named-Real-Case-Studies.md) | The recent audited Section B bank is fixed as 2024/2025 Q7-Q12, with Topic 22 owning method and Topic 23 owning named-case reinforcement; domain modules include named POSH (Internal Committee/IC), GFR-propriety (goods vs works-splitting scope) and cross-border non-refoulement (interim-order caution) anchors, plus a custodial-justice/police-excess module (D.K. Basu safeguards). |
 
 ## Study sequence
 

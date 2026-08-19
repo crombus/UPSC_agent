@@ -245,6 +245,29 @@ demonstrably at the second stage, not the third.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Direct demand — CCUS and climate role (2025 GS-III, 10 marks)
+
+**Thesis:** CCUS captures CO₂ at a concentrated source, separates it, then uses or stores it; it is most defensible as an emissions-avoidance complement for hard-to-abate processes, not a licence to defer direct mitigation or a synonym for atmospheric removal.
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Capture has a sectoral role. | **Cement, steel, fertiliser and other hard-to-abate point sources** → process emissions may remain after efficiency/electrification. | Standard fossil-source CCUS avoids new emissions; it is not automatically negative emissions. |
+| Storage/accounting determine climate value. | **Geological storage, monitoring and permanence/MRV** → captured CO₂ only helps if leakage and lifecycle emissions are controlled. | Utilisation, especially where carbon is later re-released, must not be claimed as permanent storage. |
+| India is creating an enabling framework. | **CCTS offset mechanism includes CCUS among approved sectors; 2027 IPCC methodology work is scheduled** → policy/accounting are evolving. | A notified mechanism or methodology work is not proof of large-scale operating capture in India. |
+
+**150-word spine:** define capture–transport–use/store → role in hard-to-abate sectors → two limits (energy/cost and permanence/MRV/lock-in) → conclusion: prioritise direct reduction, reserve capture for residual/process emissions and verify every tonne.
+
+### 13.2 Market/removal comparison for 15/20 marks
+
+| Instrument | Function | Core integrity test |
+|---|---|---|
+| Carbon market | Price incentive for reductions/removals | additionality, double-counting and MRV |
+| Standard CCUS | Point-source emissions avoidance | capture rate, energy penalty, storage permanence |
+| DAC/BECCS | Potential atmospheric removal | high energy/cost, lifecycle accounting and durable storage |
+
+Use the CCTS intensity-baseline-and-credit design only as a dated Indian example; it is not an economy-wide absolute cap-and-trade system.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

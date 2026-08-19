@@ -79,6 +79,41 @@
 - ⚠️ Ibadat Khana shows the limits of debate without institutional tolerance; sulh-i-kul was the more durable policy outcome.
 - ⚠️ Use Akbar to discuss medieval Indian traditions of pluralism and the administrative logic of inclusive governance.
 
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Examine religious syncretism | "Akbar's religious evolution — from jizyah abolition to Ibadat Khana debates to sulh-i-kul — was fundamentally a state-building strategy that converted a conquering dynasty into an inclusive political system by removing religious discrimination from imperial service." |
+| Critically evaluate Din-i-Ilahi | "Tauhid-i-Ilahi was neither a mass religion nor mere eccentricity — it was a limited discipleship circle that reflected Akbar's personal spiritual evolution, had no scripture or priesthood, and failed to outlive him." |
+| Assess sulh-i-kul vs orthodoxy | "Sulh-i-kul succeeded as imperial ideology because it reduced sectarian friction without requiring theological merger — a practical tolerance, not indifference — and its erosion under Aurangzeb damaged the state's composite base." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Jizyah abolished (1564) + pilgrim tax abolished (1563) | Formal religious discrimination removed from the fiscal system | Shows concrete policy change, not just rhetoric | Economic impact debatable; symbolic significance greater |
+| 2 | ✅ Ibadat Khana built (1575); debates opened to all religions (c. 1578) then discontinued (1582) because of bitterness | Debate exposed ulama's narrowness but did not create consensus | Illustrates both Akbar's openness and the limits of interfaith discourse | "Bitterness" assessment is Chandra's interpretation; other views exist |
+| 3 | ✅ Mahzar (1579): Akbar could choose among conflicting legal interpretations for public good | Imperial authority placed above sectarian jurisprudence | Not "infallibility" but a mechanism for resolving deadlocks in the sovereign's favour | Scope was narrow: only among already existing legal opinions, not arbitrary legislation |
+| 4 | ✅ Sulh-i-kul: peace/respect for all creeds under Abul Fazl's ideological framework | Inclusive ideology legitimised composite nobility | Moved beyond personal tolerance to systemic governance ideology | Depended on royal will; no institutional guarantee beyond the emperor's reign |
+| 5 | ✅ Birbal was the only major Hindu to join Din-i-Ilahi's inner circle | Din-i-Ilahi was extremely limited in membership | Refutes "mass religion" and "forced conversion" claims | Birbal's membership may reflect personal loyalty more than theological conviction |
+| 6 | ✅ Todar Mal (revenue) and Birbal (companion): Hindus in highest positions | Merit-based inclusion was practised, not merely preached | Concrete administrative outcome of sulh-i-kul ideology | High-ranking Hindus were still a minority; inclusion was selective |
+
+### 8.3 Counterpoints
+
+- ⚠️ Sulh-i-kul did not mean religious indifference: the state still patronised specific institutions and could punish heterodoxy if it threatened order.
+- ⚠️ Din-i-Ilahi's limited practices (prostration, greeting customs) looked like personality cult to critics — the criticism is not purely anachronistic.
+- ⚠️ Aurangzeb's reversal shows sulh-i-kul lacked structural permanence; it was ideology, not institution.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark (150 words):** Jizyah abolition + sulh-i-kul + Din-i-Ilahi qualification (3 units); conclude: state-building, not syncretism for its own sake.
+- **15-mark:** Add Ibadat Khana + mahzar + Hindu inclusion; conclude: comprehensive but personality-dependent.
+- **20-mark:** Full 6-unit + comparison with Aurangzeb + historiographical note on "liberal Akbar" narrative (Chandra's measured assessment vs hagiography); graded verdict.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

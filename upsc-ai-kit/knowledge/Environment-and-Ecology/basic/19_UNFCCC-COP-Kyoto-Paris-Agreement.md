@@ -239,23 +239,51 @@ further discipline points for this topic:
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Trace an **architectural shift**, not a date list: framework → developed-country binding targets → universal nationally determined process.
+- **Thesis:** Paris gained participation and durability by trading Kyoto-style top-down targets for NDCs, transparency and ratcheting; its credibility now turns on ambition, accounting integrity and equity/finance.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Paris manages a sovereignty–ambition trade-off. | **Article 4 NDC progression and Global Stocktake; first GST/COP28** → attempts to raise successive nationally determined pledges. | A ratchet process does not itself impose a numerical emissions cut. |
+| Finance has separate layers. | **COP29 NCQG: at least USD 300 billion/year by 2035; broader USD 1.3 trillion mobilisation aspiration** → supports an equity argument. | A COP goal, a voluntary pledge and verified disbursement are different facts. |
+| Treaty mechanisms have defined functions. | **Paris Article 6.2/6.4/6.8** → cooperative approaches, central crediting and non-market approaches. | Do not claim a proposal or an ITMO accounting design has delivered an emission reduction without verified MRV. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** compare UNFCCC, Kyoto and Paris by coverage, obligation and implementation tool.
+- **15/20 marks:** add CBDR-RC, GST, Article 6, finance and Loss-and-Damage distinction; use a reasoned verdict on universality versus adequacy.
+- For India’s commitments, this file supplies treaty/COP architecture; use Topic 20’s original-NDC/COP26/updated-NDC table for the domestic target review. Do not call a COP announcement an automatically updated NDC.
+
+### 13.4 COP26/Glasgow historical-demand route
+
+Use two separate blocks: **(1) the COP outcome** — the Glasgow Climate Pact’s negotiated language, including the carefully worded coal *phase-down* and inefficient fossil-fuel-subsidy language; **(2) India’s national announcement** — Panchamrit, which Topic 20 separates from the later 2022 NDC update.
+**Verdict:** Glasgow mattered because it widened implementation pressure and surfaced coal/finance equity, but a negotiated COP text and a national announcement must be assessed against later notified, financed and achieved action rather than treated as equivalent outcomes.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 5
+- **Years represented:** 2018, 2021, 2022
+- **Paper(s):** GS-II, GS-III, Prelims GS-I
+- **Routed question demands:** 8
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 35 | Global Alliance for Climate-Smart Agriculture features and membership | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2018 | Prelims GS-I | 83 | Partnership for Action on Green Economy PAGE UN mechanism | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2018 | Prelims GS-I | 88 | Momentum for Change Climate Neutral Now initiative and originator | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | GS-III | 17 | COP26 major outcomes and India's climate commitments at Glasgow | Describe · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 20 | Clean energy and India's climate policy in international fora | Describe briefly · 15 marks · 250 words | IR Core owns diplomatic/institutional dimension | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 17 | Global warming greenhouse gas effects and Kyoto Protocol measures | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 41 | Climate Action Tracker emission pledge monitoring body | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 42 | Climate Group EP100 and Under2 Coalition energy initiatives | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
@@ -264,6 +292,9 @@ further discipline points for this topic:
 - Global Alliance for Climate-Smart Agriculture features and membership
 - Partnership for Action on Green Economy PAGE UN mechanism
 - Momentum for Change Climate Neutral Now initiative and originator
+- COP26 major outcomes and India's climate commitments at Glasgow
+- Clean energy and India's climate policy in international fora
+- Global warming greenhouse gas effects and Kyoto Protocol measures
 - Climate Action Tracker emission pledge monitoring body
 - Climate Group EP100 and Under2 Coalition energy initiatives
 

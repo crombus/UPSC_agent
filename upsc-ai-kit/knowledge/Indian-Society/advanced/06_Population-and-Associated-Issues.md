@@ -3,12 +3,16 @@
 > **Subject:** Indian Society | **Tier:** Advanced | **GS Paper:** GS-I.
 > **Core area:** The demographic-winter causal chain, second-demographic-transition theory,
 > ageing-society trade-offs, and boundary cases across India's uneven fertility transition.
-> **Grounded in:** National Population Policy 2000; NFHS-5 (2019-21, latest released
-> national round as checked 21 July 2026); audited 2024 GS-I Mains PYQ.
+> **Grounded in:** National Population Policy 2000; NFHS-5 (2019-21; historical comparator; NFHS-6 was released
+> 29 May 2026); audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/06_Population-and-Associated-Issues.md`.*
 
 ---
+
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
 
 ## 1. Architecture
 
@@ -129,7 +133,7 @@ process rather than a single global yes/no fact.
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ NFHS-5 (2019-21) recorded India's national TFR at 2.0, near replacement level. It is
-  the latest released national NFHS round as checked on 21 July 2026.
+  the historical national NFHS round; NFHS-6 (2023-24) was released 29 May 2026.
 - ✅ National Population Policy, 2000 set immediate (unmet contraceptive need), medium-term
   (replacement-level TFR) and long-term (stable population by around 2045, aligned with
   sustainable development) objectives.
@@ -158,9 +162,9 @@ process rather than a single global yes/no fact.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 NFHS-5 (2019-21) remains the latest released national NFHS round as checked on 21 July
-  2026 and reports a TFR of 2.0. It is a national survey aggregate masking sub-national
-  variation, not a uniform current state-level figure; do not cite an unissued NFHS-6 result.
+- 📰 NFHS-6 (2023-24) national fact sheets report a total TFR of **2.0** (urban 1.6,
+  rural 2.1). The results are provisional survey estimates that mask sub-national variation;
+  do not treat them as a uniform current state figure.
 
 ## 10. PYQ-based analytical application
 

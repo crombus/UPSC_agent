@@ -18,8 +18,9 @@ citizens & property anywhere). State legislature → only its territory (unless 
 Exceptions where Parliament's law doesn't apply: **President's regulations** for 5 UTs (A&N, Lakshadweep,
 DNH&DD, Ladakh); Governor may bar an Act in **scheduled/tribal areas**.
 
-**Distribution of subjects (7th Schedule):** ✅ **Union List (98)**, **State List (59)**, **Concurrent
-List (52)**. Residuary → **Centre** (Canadian precedent; GoI Act 1935 gave residuary to Governor-General).
+**Distribution of subjects (7th Schedule):** ✅ standard examination counts are **Union List (100)**,
+**State List (61)** and **Concurrent List (52)**; omitted and inserted entry numbers can produce
+different literal counts. Residuary → **Centre** (Canadian precedent; GoI Act 1935 gave residuary to Governor-General).
 ✅ **42nd Amendment (1976)** shifted **5 subjects** State→Concurrent: **education, forests, weights &
 measures, protection of wild animals & birds, administration of justice**. **Predominance order: Union >
 Concurrent > State.** In Concurrent conflict, **Central law prevails** — *unless* state law was reserved

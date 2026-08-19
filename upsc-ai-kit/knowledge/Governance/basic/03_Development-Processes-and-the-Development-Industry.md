@@ -92,7 +92,9 @@ intervention is genuinely inclusive or narrowly donor-driven.
 - ✅ 2024 GS-II PYQ (Q6) directly asks about public charitable trusts' potential to make
   India's development more inclusive because they relate to "certain vital public issues" —
   the expected answer links trust flexibility/targeting to inclusion, while also noting
-  accountability and scale limitations (see `advanced/03` for the critical evaluation).
+  accountability and scale limitations. Both the supporting case and the critical evaluation
+  are held **in this file** at §13.2, §13.5 and §13.7; `advanced/03` is optional enrichment
+  only and is not required for any mark.
 - ⚠️ A corporate CSR-funded school-infrastructure programme implemented through a partner NGO
   illustrates the full chain: corporate funding -> Section 8 company/NGO implementer ->
   last-mile delivery -> reporting to the CSR committee and regulator, not to an electorate.
@@ -124,8 +126,8 @@ intervention is genuinely inclusive or narrowly donor-driven.
   companies crossing the specified financial thresholds.
 - ❌ Charitable trusts automatically make development more inclusive. -> The 2024 PYQ's own
   framing ("have the potential to") signals that inclusion is a possibility contingent on
-  design and accountability, not an automatic outcome — see `advanced/03` for the
-  scale/accountability limitation.
+  design and accountability, not an automatic outcome — the scale and accountability
+  limitations are set out in §13.5 and §13.7 of this file.
 - ❌ Donor-funded development is the same as demand-driven development. -> Donor priorities
   can diverge from locally articulated need; this tension is a standard evaluative point.
 
@@ -141,7 +143,8 @@ intervention is genuinely inclusive or narrowly donor-driven.
   inclusive as they relate to certain vital public issues. Comment." — build the answer
   around (a) the legal/flexibility advantage of trusts over routine state bureaucracy,
   (b) concrete vital-issue examples (health, education, disaster relief), and (c) a balanced
-  caveat on accountability, scale and donor-driven risk (see `advanced/03`).
+  caveat on accountability, scale and donor-driven risk, using the five-test grid in §13.5
+  and the counter-argument bank in §13.7 of this file.
 - ⚠️ Use the development-industry framework as an opening paragraph whenever a question links
   CSR, philanthropy or NGOs to inclusive development outcomes.
 
@@ -176,6 +179,235 @@ intervention is genuinely inclusive or narrowly donor-driven.
 - ✅ `00_Master-Framework.md` — the state/non-state governance ecosystem table.
 - ✅ `Ethics/basic/12_Corporate-Governance-and-International-Ethics.md` — the corporate-ethics
   angle on CSR (Ethics owns probity/personal-conduct dimensions).
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Scope.** All marks-bearing content for the *development processes and development
+> industry* clause — including the demands the 2018–2023 ledger routed to `advanced/03` —
+> is held **in this file**. `advanced/03` is optional enrichment only.
+
+### 13.0 Direct Mains demands owned by this Core file
+
+⚠️ **Core routing supersedes the older Advanced pointer.**
+
+**(a) 2019 GS-II Q16 — multi-level planning in the neo-liberal development paradigm
+(15 marks, "discuss").** Executable route:
+1. Define the two terms separately before relating them. **Multi-level planning** =
+   plan formulation and resource decisions distributed across Union, State, district and
+   local tiers, with each tier planning what it is best placed to know (see `12`, `14`).
+   **Neo-liberal paradigm** = a policy orientation favouring market allocation, private
+   provision, deregulation and a state role redefined from *producer* to *regulator and
+   enabler*.
+2. State the tension as the answer's spine: multi-level planning presumes **public planning
+   authority at each tier**; the neo-liberal turn shifts allocation toward markets and
+   private/contracted provision, which can hollow out the very planning function the lower
+   tiers were meant to exercise.
+3. But argue both directions — this is what "discuss" requires. *Supporting:* decentralised
+   planning fits the paradigm's subsidiarity and efficiency logic and can improve
+   allocative fit. *Undercutting:* competitive investment attraction pushes decisions
+   **upward** to States and the Union; conditional/tied grants convert local planning into
+   scheme execution; private provision reduces the share of development actually decided in
+   any plan.
+4. Institutional evidence, named: **District Planning Committees (Art 243ZD)** as the
+   constitutional consolidation mechanism, with the honest qualification that DPC
+   operationalisation is uneven; **State Finance Commissions** as the fiscal precondition;
+   **Kerala's People's Plan Campaign (1996)** as the strongest Indian demonstration that
+   multi-level planning can work when funds, functions and functionaries move together
+   (see `12`).
+5. Development-industry link owned by this file: as public planning contracts, **donors,
+   foundations and CSR-funded programmes** occupy the vacated space — which relocates
+   development priority-setting from an accountable plan to a **donor's theory of change**.
+6. Verdict: the paradigm has not abolished multi-level planning; it has changed what is
+   planned — tiers now largely allocate **tied** resources and coordinate non-state
+   provision rather than determining development priorities.
+❌ Do not quote a devolved-share percentage for Kerala, a Plan/NITI outlay figure, or any
+FDI/growth statistic.
+
+**(b) 2022 GS-II Q17 — dependence on donor agencies versus community participation
+(15 marks, "justify your answer").** Executable route:
+1. Take an explicit position; "justify" penalises fence-sitting. Defensible thesis:
+   *donor dependence and community participation are not automatically opposed, but donor
+   funding systematically weakens participation wherever the funding cycle, the reporting
+   metric and the exit plan are designed around the donor rather than the community.*
+2. Give the mechanism, not the sentiment — four named channels:
+   **(i) agenda channel** — donor priorities set the problem before local need is assessed;
+   **(ii) metric channel** — donor reporting rewards countable outputs, so participatory
+   processes that are slow and hard to count get cut first;
+   **(iii) cycle channel** — project-based, time-bound grants mismatch the multi-year
+   horizon community institutions need to mature;
+   **(iv) accountability-substitution channel** — beneficiaries cannot vote out a trust or a
+   CSR programme, so upward donor reporting substitutes for downward answerability.
+3. Counter-evidence you must concede: donor and CSR funding can **finance** participation
+   that the state does not — community mobilisers, SHG federation costs, social-audit
+   facilitation — and DAY-NRLM's own design shows public funding using the same
+   community-institution logic (see `04`).
+4. Apply the **five-test evaluation grid** (§13.5) to decide the case rather than asserting
+   it: additionality, need-fit, accountability, sustainability, federal/local fit.
+5. Correctives: convergence with local plans instead of parallel silos; community
+   contribution and co-decision in project selection; exit and hand-over planning at
+   design stage; disclosure of funding source and programme cost.
+6. Verdict: dependence is a **design property**, not an inherent property of external
+   finance — the same rupee can strengthen or displace participation depending on who sets
+   the agenda and who receives the report.
+❌ Do not name a specific donor's India spending, a project's budget or an evaluation finding.
+
+**(c) 2025 GS-II Q17 — decision-making distant from the source of information and execution
+(15 marks, "critically evaluate").** This demand is also routed here. Answer the
+**development-industry half** using §13.0(a)–(b): distance is created not only by
+governmental centralisation but by a funding chain in which the decision-maker (donor board,
+CSR committee, multilateral appraisal team) is institutionally and geographically remote
+from both the information and the execution. Cross-link `14` §13 for the subsidiarity
+framework and elite-capture counter-argument, which are the other half of the answer.
+
+### 13.1 Demand map
+
+| Stem pattern | What is being tested | Opening move |
+|---|---|---|
+| "Have the potential to…" | Conditionality — the stem is *not* asserting the outcome | Answer conditionally: state the conditions under which the potential is realised |
+| "Role of NGOs, donors, charities…" | Whether you can differentiate actors | Separate **funding source** from **legal vehicle** from **implementer**; most answers collapse all three |
+| "Development industry" | Whether you treat non-state development as a *system* | Name funders, intermediaries, implementers and their distinct accountability routes |
+| "Donor-driven vs community-driven" | Mechanism, not sentiment | Use the four channels in §13.0(b) |
+| "CSR and inclusive development" | Statutory precision | s.135 is a **statutory obligation**, not philanthropy; Schedule VII bounds the activity |
+| Novel actor (impact investor, philanthropy, multilateral fund) | Transferability | Run the five-test grid (§13.5) on the unfamiliar actor |
+
+### 13.2 Qualified theses
+
+- **T1 (conditional inclusion):** "Charitable trusts, foundations and CSR expand India's
+  development capacity beyond the fiscal and procedural limits of the state, but they
+  convert that capacity into *inclusion* only where targeting is need-based, governance is
+  disclosed and beneficiaries have a route to complain — the legal form of charity supplies
+  none of these automatically."
+- **T2 (accountability-substitution):** "The defining feature of the development industry is
+  not its funding but its accountability direction: it reports **upward** to donors and
+  regulators, not **downward** to the people it serves, and every evaluation of it should
+  begin there."
+- **T3 (substitution vs complementarity):** "Whether non-state development is a symptom of
+  state failure (substitution) or a durable division of labour (complementarity) is the
+  question the examiner is really asking; take a position and defend it with the
+  additionality test."
+- **T4 (fragmentation):** "Multiple uncoordinated donors and CSR programmes in one geography
+  can produce duplication and visible-need bias rather than an inclusive aggregate outcome —
+  the failure is of convergence, not of generosity."
+
+### 13.3 Mark-scaled structure
+
+**10 marks** — conditional thesis; two named legal/funding forms with what each adds; one
+concrete vital-issue application; one accountability limitation; verdict.
+
+**15 marks** — thesis; the four-actor map (donors / trusts and foundations / CSR /
+implementing NGOs); 4–6 evidence units; the four donor-distortion channels; the five-test
+grid applied to one case; graded verdict.
+
+**20 marks** — thesis with criteria; funding-source → legal-vehicle → implementer →
+beneficiary chain traced end-to-end; the substitution-vs-complementarity debate argued both
+ways; fragmentation and convergence; the FCRA gate as a structural precondition
+(see `04`); state-capacity counterpoint; verdict with the condition that would reverse it.
+
+### 13.4 Evidence bank — legal vehicles, funding forms and their governance consequences
+
+| Vehicle / form | Governing law | Governance consequence | Limitation / caution |
+|---|---|---|---|
+| ✅ **Public charitable trust** | Trust deed + applicable **State** public-trust/endowment law. **s.1 of the Indian Trusts Act, 1882 expressly excludes public or private religious or charitable endowments** | Founder-defined purpose; fast, flexible deployment | Weakest external governance of the three forms; regime varies by State; ❌ never cite the 1882 Act as the national incorporation statute |
+| ✅ **Society** | Societies Registration Act, 1860 and State variants | Membership-based, general-body accountability | Registration ≠ tax exemption ≠ foreign-funding permission |
+| ✅ **Section 8 company** | Companies Act, 2013 s.8 | Board governance + Companies Act disclosure; profits cannot be distributed to members | Higher compliance cost; used mainly by larger professionalised bodies |
+| ✅ **CSR** | Companies Act, 2013 **s.135** + **Schedule VII** + Companies (CSR Policy) Rules | **Statutory** minimum spend (2% of average net profits of preceding years) for companies crossing prescribed net worth/turnover/net profit thresholds; Board disclosure and CSR-2 reporting | Schedule VII bounds activity — this both prevents diversion **and** crowds funders into visible sectors; ❌ do not state a national CSR spend figure |
+| ✅ **Multilateral/bilateral development finance** | World Bank, ADB, UN agencies, bilateral agencies | Project loans, grants, technical assistance to government and non-government programmes | ❌ no amounts, project names or conditionalities asserted here |
+| ✅ **Foreign contribution gate** | FCRA, 2010 (amended 2020), Ministry of Home Affairs (detail in `04`) | Registration or prior permission; designated FCRA account; limits on administrative expense and on sub-granting between FCRA entities | A **structural precondition** for donor-funded work at scale, not a formality |
+| ✅ **Tax-exemption layer** | Income Tax Act 12A/80G | Determines exemption for the body and deduction for its donors | A third, separate regulatory layer — Darpan ≠ FCRA ≠ 12A/80G |
+
+### 13.5 Five-test evaluation grid (use verbatim for any non-state intervention)
+
+| Test | The question to ask | Why it discriminates |
+|---|---|---|
+| **Additionality** | Does it add capacity, or substitute for a public obligation the state still owes? | Separates complementarity from quiet privatisation of a duty |
+| **Need-fit** | Was the intervention chosen from disaggregated local exclusion data, or from the funder's priority? | Operationalises donor-driven vs demand-driven |
+| **Accountability** | Can a beneficiary obtain records, complain and force correction? | Tests the downward-accountability deficit directly |
+| **Sustainability** | Who finances and operates the service after the grant cycle ends? | Exposes project-cycle mismatch |
+| **Federal/local fit** | Is it converged with the district/local plan, or a parallel silo? | Exposes fragmentation |
+
+### 13.6 Causal chain — funding to inclusion (or to exclusion)
+
+```text
+FUNDING SOURCE          sets the incentive frame before any need assessment
+      |                 (project cycle | founder priority | Schedule VII compliance)
+      v
+LEGAL VEHICLE           sets disclosure and governance quality
+      |                 (trust < society < Section 8 company, in external scrutiny)
+      v
+IMPLEMENTING NGO/SHG    sets last-mile fidelity (local social capital, capacity)  -> see 04
+      |
+      v
+ACCOUNTABILITY ROUTE    upward to donor/regulator; NOT downward to beneficiary
+      |                 (no electoral sanction -> weaker corrective loop)
+      v
+AGGREGATE OUTCOME       converged and inclusive  OR  fragmented and duplicative
+```
+
+### 13.7 Counter-argument and trade-off bank
+
+- ⚠️ **Substitution thesis:** non-state development fills gaps left by weak state capacity,
+  so its growth is a *symptom* of state failure and may entrench it by relieving political
+  pressure to fix delivery. **Reply:** the additionality test resolves this case by case.
+- ⚠️ **Complementarity thesis:** flexibility, speed, risk-taking and innovation are
+  structurally easier outside government procurement and budget cycles; a permanent division
+  of labour is efficient. **Reply:** only where convergence and disclosure exist.
+- ⚠️ **Visible-need bias:** Schedule VII's activity list plus reputational incentives crowd
+  CSR into visible sectors (school buildings, sanitation hardware) while less legible needs —
+  mental health, care work, legal aid, disability access — stay underfunded.
+- ⚠️ **Democratic-deficit objection:** development priorities set by unelected boards lack
+  the legitimacy of an elected plan, however well-intentioned.
+- ⚠️ **Sovereignty/security objection:** foreign funding of advocacy raises national-security
+  screening concerns; state it as the stated rationale for FCRA and note the contested
+  proportionality (see `04`) — do not adjudicate a specific case.
+- ⚠️ **Speed vs deliberation:** the flexibility that makes trusts effective in **disaster
+  relief** is the same discretion that makes them weakly answerable in long-term programmes.
+
+### 13.8 Stakeholder and last-mile variation
+
+- **Donor/foundation board:** distant from information and execution; optimises a theory of
+  change and a reporting metric.
+- **CSR committee:** bound by Schedule VII and Board disclosure; optimises compliance plus
+  reputational visibility.
+- **Intermediary trust/society/Section 8 company:** carries overhead; its own governance
+  quality determines what reaches the ground.
+- **Implementing NGO/SHG federation:** holds the local social capital that determines
+  last-mile fidelity (see `04`).
+- **District administration:** the tier at which convergence with public schemes can happen —
+  or fail to.
+- **Beneficiary:** has no electoral sanction over any of the above; the whole accountability
+  argument turns on this.
+
+### 13.9 Verdict scaffolds
+
+- **Trusts/inclusion stem:** "Charitable trusts hold real potential precisely where the
+  state is procedurally slow — vital public issues needing speed and flexibility — but
+  potential becomes inclusion only under disclosed governance, need-based targeting and a
+  beneficiary route to complain; the charitable legal form supplies none of these."
+- **Donor-dependence stem:** "Dependence is designed, not inherent. Where the agenda, the
+  metric and the exit are set by the funder, participation becomes consultation; where they
+  are co-set, external finance can strengthen community institutions."
+- **Multi-level planning stem:** "The paradigm did not end multi-level planning; it changed
+  the object of planning from priority-setting to the coordination of tied resources and
+  non-state provision."
+- **Novel actor stem:** run §13.5; a funder that fails **additionality** and
+  **accountability** is not made legitimate by passing the other three.
+
+### 13.10 Factual and current-status controls
+
+- ✅ Safe: s.1 of the Indian Trusts Act, 1882 excludes public/private religious or charitable
+  endowments; Societies Registration Act, 1860; Companies Act, 2013 s.8 and s.135 with
+  Schedule VII; the 2% of average net profits formulation with threshold-based
+  applicability; FCRA, 2010 (amended 2020) administered by the MHA; the four-layer
+  distinction Darpan / FCRA / 12A–80G / incorporation.
+- ⚠️ CSR-2 reporting and rule-based impact-assessment requirements derive from the amended
+  **Companies (CSR Policy) Rules**, not from s.135 alone — cite the rule and the reporting
+  year, not the section.
+- ❌ **Do not assert:** national or company CSR spend totals; the number of registered NGOs,
+  FCRA registrations or FCRA cancellations; any donor's India portfolio; any named
+  foundation's programme results; a Kerala devolution percentage; any evaluation finding
+  attributed to a named agency.
+- ⚠️ Foreign-funding regulation is dynamic (registration validity, renewal windows,
+  suspension actions). State the legal architecture, not the current register.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

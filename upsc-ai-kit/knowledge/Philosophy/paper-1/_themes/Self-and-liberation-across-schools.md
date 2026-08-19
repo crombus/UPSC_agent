@@ -85,10 +85,28 @@ AXIS 1 — NATURE OF SELF                     AXIS 2 — LIBERATION (mokṣa)
 
 ## 5. STATEMENT / QUOTE BANK ⚠️
 1. ✅ *"Tat tvam asi" / "Ahaṃ brahmāsmi"* — Advaita: the self is Brahman.
-2. ✅ *"That which is without self (anattā) — all dharmas."* — Buddhist nairātmya.
+2. ✅ *"Sabbe dhammā anattā"* (Pāli) = *sarve dharmā anātmānaḥ* — **"all dhammas are non-self."** This is the third of the **tilakkhaṇa** (three marks): *sabbe saṅkhārā aniccā* (all conditioned things are impermanent), *sabbe saṅkhārā dukkhā* (all conditioned things are unsatisfactory), *sabbe **dhammā** anattā* (all dhammas are non-self). ⚠️ **Note the deliberate shift from *saṅkhārā* to *dhammā* in the third:** the first two are stated of *conditioned* things only, while the third uses the wider term *dhamma* so that the denial of self extends to **everything without exception**. Do not render this as "that which is without self — all dharmas"; the sentence is a predication, not a description.
 3. ✅ *"Liberation is the absolute cessation of pain."* — Nyāya apavarga.
 4. ✅ *"As a dancer retires having been seen, prakṛti ceases for the liberated puruṣa."* — Sāṃkhya kaivalya.
 5. ⚠️ *"For Aurobindo, liberation is the beginning, not the end — a divine life on earth."*
+6. ✅ *"utpāda-vyaya-dhrauvya-yuktaṃ sat"* — the Jaina formula: the jīva persists as substance while its modes change, which is why bondage is real and yet removable.
+
+---
+
+## 5A. CONTROLLED WESTERN COMPARISON ⚠️
+
+Use only **after** the Indian case is complete, and always with the disanalogy attached.
+
+| Indian position | Western point of contact | The disanalogy that must be stated |
+|---|---|---|
+| Buddhist **anattā** | **Hume's** bundle theory — no impression of a persisting "I", only fleeting perceptions | Hume has no karmic continuity, no rebirth, no soteriology; the self is a *fiction of the imagination*. Buddhism has a functionally real causal series (**santāna**) that carries moral weight and can be liberated. |
+| Advaita **Ātman = Brahman** | **Plotinus'** One; **Spinoza's** substance and its modes | Plotinian reversion is an ascent through *really emanated* hypostases; Spinoza's modes are *real* modifications (pariṇāma, not vivarta) — which makes Spinoza nearer to Rāmānuja than to Śaṃkara. |
+| Nyāya **apavarga** | **Epicurean** ataraxia; purely negative conceptions of the good | Apavarga entails the absence of *consciousness itself*, not merely of disturbance. No Western eudaimonism accepts a goal in which the subject has no experience at all. |
+| Sāṃkhya **puruṣa** | **Cartesian** thinking substance; the pure subject | The cogito's self *thinks, wills and acts*; puruṣa is wholly inactive, and all agency belongs to prakṛti. Mistaking this is the single commonest error in comparative answers. |
+| Aurobindo's **divine life** | **Teilhard's** Omega Point; **Hegel's** self-realising Absolute | Teilhard's convergence is Christological and terminal; Hegel's is conceptual and realised in Spirit's history. Aurobindo's Supermind **descends into matter and body** within manifestation. |
+| Jaina **kaivalya** by karmic shedding | Purification/ascetic traditions | Jaina karma is *literally material*; liberation is subtraction of matter, and omniscience is *revealed*, not acquired. |
+
+> **Rubric.** A self-and-liberation question is answered from Indian materials — school by school, with the argument. A Western parallel earns marks only as one or two closing lines that sharpen the Indian position by contrast. It never replaces the Indian argument, and a bare equation ("Buddhism is Hume") without the disanalogy is a marked weakness.
 
 ---
 

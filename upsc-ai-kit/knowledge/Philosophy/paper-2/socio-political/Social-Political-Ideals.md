@@ -312,6 +312,46 @@ Equality is strongest when treated as **equal status, fair opportunity, and prot
 
 **UPSC hook:** Useful for **2020: 1(a) 10m**.
 
+### 2.8 Republican liberty as non-domination (Pettit)
+
+**Statement ⚠️:** A **third family** of liberty, irreducible to Berlin's pair, defines freedom as **non-domination** — not being subject to another agent's *capacity* for arbitrary interference, whether or not that capacity is currently being exercised. The normative theory is associated with **Philip Pettit**, *Republicanism: A Theory of Freedom and Government* (**1997**); the historical recovery of the pre-liberal republican tradition is associated with **Quentin Skinner**, *Liberty before Liberalism* (**1998**). ⚠️ Keep the two roles separate: Pettit supplies the theory, Skinner the intellectual history. ❌ Do not quote either, and do not attach page, chapter or edition detail.
+
+**Reconstructed argument ⚠️:**
+
+1. the negative conception measures freedom by *actual* interference with an agent's options;
+2. but consider a person under a kind master, an indulgent husband, an unusually generous employer, or a benevolent ruler who happens not to interfere;
+3. that person is not interfered with, so on the negative count is free;
+4. yet she must flatter, anticipate, self-censor and live at another's discretion, because the other retains the power to interfere **arbitrarily and with impunity**;
+5. this dependence is a real unfreedom that an interference-count cannot register;
+6. therefore liberty is best specified as a **secured status** — non-domination — rather than as an event-count of non-interference.
+
+**Presupposition ⚠️:** freedom is a social and institutional standing, not a description of an agent's momentarily unobstructed path; unexercised power is still power.
+
+**Controlling distinction ⚠️:** *interference* is an act; *domination* is a standing capacity to interfere arbitrarily. Law that tracks the interests of those it governs and remains publicly contestable can **interfere without dominating**; a master's forbearance can **dominate without interfering**.
+
+**Consequence for the liberty–law relation ⚠️:** on the negative view, every law is *prima facie* a subtraction from liberty, justified only as a lesser evil. On the republican view, law of the right kind is **freedom-constituting**, because it strips private persons of arbitrary power. This is the sharpest analytical payoff of the third family and should be stated explicitly in any liberty answer that reaches 15 or 20 marks.
+
+| Diagnostic question | Negative liberty | Positive liberty | Republican non-domination |
+|---|---|---|---|
+| What is the freedom-destroying variable? | external obstruction by others | internal disorder, ignorance, want of enabling conditions | another's arbitrary and unaccountable power |
+| Is an un-interfered-with slave free? | ⚠️ yes, to that extent | ⚠️ contested — depends on self-mastery | ⚠️ no, and unfree *as a slave* |
+| Is law a loss of freedom? | ⚠️ yes, requiring justification | ⚠️ may be freedom-enabling | ⚠️ non-arbitrary law is freedom-constituting |
+| Institutional demand | restrain the state | develop capacities and provide conditions | contestability, publicity, review, interest-tracking |
+| Named anchors | ⚠️ Berlin's negative pole; Mill's harm principle | ⚠️ Green's enabling freedom; Rousseau's moral freedom | ⚠️ Pettit (1997); Skinner (1998) |
+
+**Objection → Reply (use one, not both, at 10 marks) ⚠️:**
+
+- **Objection 1 (redundancy):** everything non-domination names could be redescribed as a high *probability* of future interference, so the third family adds a label, not a concept.
+  **Reply:** ⚠️ probability of interference is contingent and can be low precisely where dependence is total; the republican point is about the *standing* of the relation, and it also explains why the dependent person's own conduct — deference, anticipation, self-silencing — changes, which an interference-count cannot explain.
+- **Objection 2 (indeterminacy of "arbitrary"):** who decides which interferences are arbitrary? The theory risks smuggling in a substantive conception of the common good.
+  **Reply:** ⚠️ republicans specify arbitrariness procedurally — interference is non-arbitrary when it is forced to track the avowable interests of the governed and remains open to effective contestation. The reply reduces, but does not eliminate, the indeterminacy; the residual problem is genuine and should be conceded in an answer.
+
+**Relation to the ideals in this file ⚠️:** non-domination reframes the classic liberty–equality "trade-off" of §2.6. On the negative reading, redistributive or regulatory equality subtracts liberty. On the republican reading, material dependence *is* a source of domination, so certain equalising measures **increase** freedom rather than trading against it — a decisive line for 2019 Q4(b), 2022 Q1(d) and 2024 Q2(b).
+
+**Indian application (legal-status caution) ⚠️:** the vocabulary is an analytical lens, not an empirical verdict about any Indian government, party or period. ✅ The Bonded Labour System (Abolition) Act, **1976** is an **enacted statute** that legally dissolves a relation of personal dependence; ✅ the Minimum Wages Act, **1948** and the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, **2013** are enacted statutes that replace employer discretion with rule-governed entitlement and complaint machinery. ⚠️ Enactment is not implementation, and none of these establishes that domination has in fact ended; cite them as dated illustrations of the *form* of a non-domination remedy, never as proof of a philosophical thesis.
+
+**UPSC hook:** the strongest depth marker available on any liberty question; also usable as a supplement in **2018: 2(a) 20m** (liberty and equality as democratic features).
+
 ## 3. JUSTICE
 
 ### 3.1 Basic meaning
@@ -353,6 +393,67 @@ Equality is strongest when treated as **equal status, fair opportunity, and prot
 - **Objection → Reply ⚠️:**
   - **Objection:** merit is socially biased.
   - **Reply:** Aristotle's framework still matters because it shows why justice cannot be reduced to one flat formula.
+
+### 3.3A Merit, need and desert: the criteria problem inside distributive justice
+
+✅ Aristotle's proportional formula — shares should track *relevant* desert — is **formally correct but materially empty** until the relevant basis is named. Almost every modern distributive controversy is a dispute about which criterion governs which good. Naming the criteria explicitly is the single fastest way to lift a justice answer above narration.
+
+| Criterion | Formula | Best justified for | Strongest objection |
+|---|---|---|---|
+| **Need** ✅ | to each according to need | subsistence, health care, basic education, disability support | needs are elastic and contested; may weaken incentive and responsibility |
+| **Desert (moral)** ✅ | to each according to effort, sacrifice or virtue | honours, recognition, praise and blame | effort is unobservable and is itself shaped by unchosen advantage |
+| **Merit (qualification)** ✅ | to each according to demonstrated competence for a role | public offices, admissions, professional appointments | measured merit encodes prior access to nutrition, language, coaching and networks |
+| **Contribution / entitlement** ✅ | to each according to productive value or voluntary transfer | wages, exchange, property titles | market price tracks scarcity and bargaining power, not moral worth |
+| **Equal share** ✅ | to each equally | civil and political rights, one person–one vote | flattens relevant difference outside the political sphere |
+| **Compensation** ✅ | to each according to unjustified prior loss | rectification of wrongful harm and structural disadvantage | how far back, whose loss, and who bears the cost |
+
+**Reconstructed argument ⚠️:**
+
+1. justice requires treating like cases alike and unlike cases differently;
+2. "likeness" must be assessed against some criterion;
+3. no single criterion fits every social good — political rights answer to equal status, offices to competence, subsistence to need, honours to desert;
+4. therefore justice is **pluralist about criteria but not arbitrary**: each good has an internal logic that identifies its proper basis of distribution;
+5. injustice typically consists in exporting a criterion out of its proper sphere — for example, allowing wealth to purchase political influence, or letting caste rank govern access to office.
+
+**Presupposition ⚠️:** goods have social meanings, and those meanings constrain what may count as a relevant reason for unequal shares.
+
+**Merit vs desert — the distinction examiners reward ⚠️:** *desert* is backward-looking and moralised (what a person has done or suffered); *merit* is forward-looking and functional (who will discharge the office well). A candidate may have great desert and little merit, or great merit and no desert. Collapsing the two produces the standard bad answer that "merit is a moral entitlement."
+
+**Objection → Reply ⚠️:**
+
+- **Objection (Rawlsian):** desert-based distribution is unjustified because natural talent, family advantage and even the capacity for effort are **morally arbitrary** — nobody deserves the starting position from which effort is exerted.
+  **Reply:** ✅ Rawls's own reply is not that desert is meaningless but that it cannot be the *foundational* principle of institutional design; legitimate expectations generated *within* just institutions remain valid, and honour and gratitude remain intelligible responses to effort.
+- **Objection (Nozickian):** any patterned criterion — need, desert, merit — requires continuous interference with voluntary transfers.
+  **Reply:** ⚠️ patterns need only be maintained at the level of background institutions, not transaction by transaction; and Nozick's own rectification principle concedes that a historical entitlement theory still needs a criterion for correcting past injustice.
+
+**Interim verdict ⚠️:** distributive justice is criterion-plural and sphere-sensitive; the examiner's real question is almost always *which criterion, for which good, and why*.
+
+### 3.3B Corrective justice and the compensatory principle
+
+✅ Aristotle's corrective justice is **transactional**: it restores an arithmetic balance between two parties after a wrongful gain or loss, without regard to the parties' merit. This is the conceptual ancestor of damages, restitution and, on retributive readings, of punishment.
+
+**The extension problem ⚠️:** corrective justice as Aristotle states it presupposes (i) an identifiable wrongdoer, (ii) an identifiable victim, and (iii) a discrete transaction. Structural disadvantage satisfies none of the three cleanly: the harm is cumulative, the beneficiaries are diffuse, and the wrong is embedded in institutions rather than in a single act.
+
+**The compensatory principle, reconstructed ⚠️:**
+
+1. a group has suffered systematic, historically identifiable and legally sanctioned exclusion from land, education, office and honour;
+2. that exclusion continues to depress present capability, not only past holdings — it transmits through wealth, networks, schooling, health and social confidence;
+3. formal equality from today onward therefore ratifies an unequal starting line rather than correcting it;
+4. corrective justice, generalised from transactions to structures, requires positive measures that offset the transmitted disadvantage;
+5. therefore compensatory measures are demanded **by** equality, not as an exception to it.
+
+**Presupposition ⚠️:** disadvantage caused by institutions can be traced with sufficient reliability to justify group-directed remedy — a factual premise that must be argued, not assumed.
+
+**Objection → Reply ⚠️:**
+
+- **Objection:** compensation imposes a cost on present individuals who committed no wrong, and treats persons as group-members rather than as individuals.
+  **Reply:** ⚠️ the claim is not that present individuals are guilty but that they are **unjustly advantaged** by a continuing distribution; and where the *disadvantage itself* was inflicted group-wise, an individualised remedy cannot reach it. The residual difficulty — over-inclusion of the already-advantaged within a beneficiary group — is real and is exactly why an internal filter is defended.
+- **Objection:** compensation has no natural terminus.
+  **Reply:** ⚠️ the principle supplies its own terminus — it lapses when the transmitted disadvantage it targets no longer operates. Refusal to measure that condition is a policy failure, not a defect of the principle.
+
+**Ownership routing ⚠️:** this file owns the **general principle** of compensatory justice as a criterion of distribution. The affirmative-action debate proper — its competing justifications, the reverse-discrimination objection, and the Indian constitutional and judicial record — is owned by [Caste Discrimination: Gandhi and Ambedkar](Caste-Gandhi-Ambedkar.md) §5A. Do not duplicate the policy argument here; state the principle and route.
+
+**Indian application (legal-status caution) ⚠️:** ✅ Articles 14–16 of the Constitution of India establish equality before law, prohibition of discrimination and equality of opportunity in public employment, and Articles 15 and 16 contain enabling clauses permitting special provision for specified disadvantaged classes. ⚠️ An enabling constitutional clause is a **permission**, not a philosophical justification; the argument for using it must still be made on one of the criteria in §3.3A.
 
 ### 3.4 Utilitarian justice and the aggregation objection
 
@@ -507,7 +608,7 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
 | Core anxiety | Coercion in the name of higher freedom | Formal liberty without real power to use it |
 | Preferred emphasis | Negative liberty | Positive freedom / self-realisation |
 | Risk diagnosed | Authoritarian paternalism | Social abandonment and hollow freedom |
-| Best synthesis ⚠️ | Basic non-interference with enabling conditions |
+| Best synthesis ⚠️ | Preserve a protected sphere against coercion | Add enabling conditions without paternalistic control |
 
 ### 4.3 Rawls vs Nozick
 
@@ -535,7 +636,7 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
 | Core worry | Suppression of individuality and legal/social subordination | Class exploitation hidden by formal equality |
 | Favoured equality | Equal status, liberty, women's emancipation | Need-sensitive social transformation |
 | View of market society | Reformable liberal order | Structurally exploitative capitalism |
-| Best exam use ⚠️ | Contrast status equality with material critique |
+| Best exam use ⚠️ | Defend equal status and individuality | Expose the material limits of merely formal equality |
 
 ### 4.6 Plato, Aristotle, Rawls: continuities and breaks
 
@@ -604,6 +705,9 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
 ## 7. KEYWORD & STATEMENT BANK
 
 ### 7.1 Keywords
+
+**Promoted vocabulary (this pass) ⚠️:** non-domination · arbitrary interference · freedom as status · benevolent master · contestability · interest-tracking law · merit · desert · need · contribution · equal share · sphere-sensitivity · morally arbitrary advantage · corrective justice · compensatory principle · transmitted disadvantage
+
 - equal moral worth ✅
 - formal/legal equality ✅
 - substantive equality ⚠️
@@ -680,55 +784,75 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 
 ## 9. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
-### 9.1 10-mark answer
-**Use for:** definitional thinker-questions such as Mill, Rousseau, Nozick, Rawls.
+### 9.0 Directive decoder — read the verb before the topic
 
-**Structure:**
-1. **Thesis (2–3 lines):** define the doctrine exactly.
-2. **Core exposition (3 short paragraphs):** statement, argument, distinctions.
-3. **Strongest counter-position (2–3 lines):** one serious objection.
-4. **Verdict (2 lines):** retain insight, note limit.
+| Directive in the stem | What is actually being scored | Minimum structural obligation | Failure mode that costs marks |
+|---|---|---|---|
+| **Discuss** | controlled exposition plus at least one live tension | doctrine → distinction → one objection → verdict | listing views without adjudicating |
+| **Explain** | internal logic, not evaluation | statement → premises → key distinction → example | inserting criticism the stem did not ask for, at the cost of exposition |
+| **Critically discuss / evaluate** | the objection–reply layer is the answer | doctrine → strongest objection → best reply → residual problem → graded verdict | one-sided demolition, or praise with a token "however" |
+| **How far / to what extent** | a *degree* judgment is compulsory | specify the conditions under which the claim holds and fails | answering yes/no, or refusing to commit |
+| **Compare / distinguish** | shared axes, not two mini-essays | fix 3–4 axes, run both thinkers down each, then adjudicate | sequential biography of two thinkers |
+| **Is X an improvement upon Y?** | criterion of improvement must be named first | state the test → apply → concede what Y still does better | asserting improvement without a standard |
 
-**Mini-template ⚠️:**
-- Intro: “For X, …”
-- Body 1: central claim
-- Body 2: key distinction / principle
-- Body 3: implication / example
-- Counter: strongest criticism
-- Conclusion: balanced appraisal
+### 9.1 10-mark method (~150 words · 4 moves · ~12 minutes)
 
-### 9.2 15-mark answer
-**Use for:** comparison or critical-evaluation questions such as liberty vs equality, Marx's equity vs equality.
+1. **Exact doctrine (2 lines).** Define in the thinker's own technical vocabulary — *proportional equality*, *harm principle*, *natural vs artificial inequality*, *entitlement*, *non-domination*.
+2. **Argument spine (4–5 lines).** Numbered premises, not adjectives. One distinction that only someone who has read the doctrine could make.
+3. **One evidence unit (2 lines)** from §9.4, plus its limitation.
+4. **Graded verdict (2 lines)** from §9.5. Never a summary; always an adjudication.
 
-**Structure:**
-1. **Thesis:** define both terms and the axis of debate.
-2. **Side A in strongest form:** charitable reconstruction.
-3. **Side B in strongest form:** best rival argument.
-4. **Analytical bridge:** conditions under which conflict softens into complementarity.
-5. **Verdict:** nuanced—not total victory of one side.
+> ❌ At 10 marks do not attempt two thinkers, two objections, or an Indian illustration unless the stem asks for one. Depth of one doctrine beats breadth.
 
-**Recommended paragraph order ⚠️:**
-- Intro with conceptual distinction
-- Two analytic body paragraphs
-- One comparison table if possible
-- One criticism paragraph
-- Conclusion with conditional reconciliation
+### 9.2 15-mark method (~220 words · 6 moves · ~18 minutes)
 
-### 9.3 20-mark answer
-**Use for:** composite evaluative questions such as “liberty and equality inadequate without justice” or “Sen vs Rawls.”
+1. **Frame the axis of dispute** — not the topic. ("The question is whether liberty is measured by interference or by dependence.")
+2. **Side A in its strongest form**, with its presupposition stated.
+3. **Side B in its strongest form**, with the presupposition it denies.
+4. **Objection → reply pair** (one only, fully worked; two half-worked pairs score lower).
+5. **Two evidence units** from §9.4, drawn from different families.
+6. **Conditional verdict:** name the conditions under which each side wins.
 
-**Balanced architecture:**
-1. **Thesis:** state the proposition clearly, but provisionally.
-2. **Map the concepts:** define all three ideals or both rival thinkers.
-3. **Strongest supporting case:** show why the thesis is attractive.
-4. **Strongest counter-position:** articulate the best objection or rival school.
-5. **Comparative adjudication:** evaluate scope, presuppositions, and practical reach.
-6. **Verdict:** reasoned conclusion that preserves complexity.
+> ⚠️ For "compare/distinguish" stems, insert one 3-axis table here. For "how far" stems, the conditional verdict is the mark-bearing move and must be at least three lines.
 
-**Model concluding line-bank ⚠️:**
-- “Thus, liberty and equality are indispensable democratic values, yet justice remains the criterion that orders their claims.”
-- “Therefore Sen improves Rawls by shifting attention to realised freedom, though Rawls retains greater institutional precision.”
-- “Hence Rawls continues Plato only at the level of systemic concern for order, not in method, hierarchy, or democratic equality.”
+### 9.3 20-mark method (~300 words · 8 moves · ~25 minutes)
+
+1. **Provisional thesis** in one sentence, using the stem's own directive verb.
+2. **Concept map:** define all ideals or both thinkers in play; state the criterion of assessment.
+3. **Strongest case for the proposition**, reconstructed as premises.
+4. **Strongest rival**, given its best formulation — not a straw position.
+5. **Two objection → reply chains**, each ending in a *residual* problem that survives the reply.
+6. **Comparative adjudication** on scope, presupposition and institutional reach.
+7. **One dated Indian illustration**, classified accurately as constitutional provision, statute or judgment, with the caution that legal status is not philosophical proof.
+8. **Graded verdict** that concedes something to the losing side.
+
+> ⚠️ On composite stems ("liberty and equality inadequate without justice"), the mark-bearing move is showing *why* the third ideal is needed — that liberty and equality are each indeterminate about **which** liberties and **which** equalities, and that justice supplies the ordering criterion. State this explicitly.
+
+### 9.4 Selectable evidence bank — pick 1 at 10 marks, 2 at 15, 4–5 at 20
+
+Each unit is **Claim → Named anchor → Use for → Limitation**. Select by the stem's demand; do not deploy the whole bank.
+
+- **E1 · Inequality is historical, not natural.** Claim: most inequality is artificial/moral, arising with property and comparison → Named: Rousseau's natural vs artificial inequality → Use for: 2021 Q1(b); any "origin of inequality" stem → Limit: a genetic account of inequality is not by itself a justification of any remedy.
+- **E2 · Equality is not sameness of share.** Claim: proportional equality distributes by relevant criterion; arithmetic equality restores balance → Named: Aristotle's distributive vs corrective justice (§3.3) → Use for: any "equality" or "justice" stem needing a first distinction → Limit: leaves the relevant criterion unspecified (§3.3A).
+- **E3 · The criterion problem.** Claim: need, desert, merit, contribution, equal share and compensation each govern a different sphere → Named: the criteria grid (§3.3A) → Use for: "equity vs equality", social-justice and reservation-adjacent stems → Limit: sphere boundaries are themselves contested.
+- **E4 · Liberty has two poles.** Claim: freedom from interference vs freedom to realise a rational self → Named: Berlin's negative/positive distinction; Green's enabling freedom → Use for: 2020 Q1(a), 2022 Q1(d), 2024 Q2(b) → Limit: Berlin's own warning that the positive pole can be turned into coercion in the name of the "real self".
+- **E5 · Liberty as status, not as event-count.** Claim: an un-interfered-with dependent is still unfree → Named: Pettit's non-domination (1997), with Skinner's historical recovery (1998) (§2.8) → Use for: dissolving the liberty–equality trade-off; the highest-value depth marker on liberty stems → Limit: "arbitrary" remains partly indeterminate; outside the classic Berlin framing, so flag it as a third family.
+- **E6 · Self-regarding vs other-regarding.** Claim: society may coerce only to prevent harm to others → Named: Mill's harm principle → Use for: 2025 Q1(e); liberty-limits stems → Limit: the boundary of "harm" and the exclusion of the "backward" from the principle's scope.
+- **E7 · Justice as fairness.** Claim: principles chosen behind a veil of ignorance yield equal basic liberties, fair equality of opportunity and the difference principle → Named: Rawls → Use for: 2019 Q1(a), 2023 Q1(a) → Limit: institutional focus can neglect actual realised freedom (E9) and the family (route to Gender owner).
+- **E8 · Entitlement, not pattern.** Claim: justice is historical — acquisition, transfer, rectification — so any patterned end-state requires continuous interference → Named: Nozick → Use for: 2021 Q1(a) → Limit: the acquisition and rectification principles are the weakest links, since both need an independent criterion.
+- **E9 · Realisation, not only institutional design.** Claim: comparative assessment of actual lives beats the search for perfectly just institutions → Named: Sen, *The Idea of Justice* → Use for: 2021 Q2(a) → Limit: comparative ranking without an ideal benchmark can under-determine choice among rival improvements.
+- **E10 · Equity as need-sensitivity.** Claim: "to each according to need" supersedes equal shares only at a later stage; distribution under scarcity still reflects contribution → Named: Marx's *Critique of the Gotha Programme* formula → Use for: 2022 Q2(c) → Limit: the two-stage structure is a normative projection, not a demonstrated historical law.
+- **E11 · Political liberty and social democracy.** Claim: political equality without social and economic equality is a contradiction that a polity cannot sustain indefinitely → Named: Ambedkar (§3.8) → Use for: any stem joining democracy to equality → Limit: this is the Indian normative anchor; the constitutional detail is owned by the Caste file.
+- **E12 · The compensatory principle.** Claim: corrective justice, generalised from transactions to structures, requires positive remedy for transmitted disadvantage → Named: §3.3B → Use for: social-justice stems → Limit: terminus and over-inclusion problems; the affirmative-action debate itself belongs to the Caste owner.
+
+### 9.5 Graded verdict formulas (adapt; do not reproduce mechanically)
+
+- **Conditional verdict:** "The claim holds where ⟨condition⟩, and fails where ⟨condition⟩; the stem is therefore best answered as a matter of degree rather than of kind."
+- **Asymmetric verdict:** "⟨Thinker A⟩'s diagnosis survives; the remedy does not."
+- **Improvement verdict:** "Judged by ⟨named criterion⟩, ⟨A⟩ improves on ⟨B⟩; judged by ⟨rival criterion⟩, ⟨B⟩ retains the advantage — so 'improvement' is criterion-relative and must be stated as such."
+- **Ordering verdict:** "Liberty and equality are indispensable but each is indeterminate about which liberties and which equalities matter; justice is the criterion that orders their competing claims."
+- **Reconstruction verdict:** "The objection defeats the doctrine's strong form but leaves its reconstructed form standing under ⟨named constraint⟩."
+
 
 ## 10. LINK-OUTS
 - [Sovereignty](Sovereignty.md)
@@ -748,3 +872,11 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 - Isaiah Berlin, *Two Concepts of Liberty*.
 - J. S. Mill, *On Liberty*.
 - J. S. Mill, *The Subjection of Women*.
+- Aristotle, *Nicomachean Ethics* Book V and *Politics* — distributive and corrective justice, proportional equality.
+- Philip Pettit, *Republicanism: A Theory of Freedom and Government* (1997) — freedom as non-domination; cited by title and year only, paraphrased and never quoted.
+- Quentin Skinner, *Liberty before Liberalism* (1998) — historical recovery of the republican conception; cited by title and year only.
+- Karl Marx, *Critique of the Gotha Programme* — the need-based distributive formula used in §3.3A and E10.
+- [The Bonded Labour System (Abolition) Act, 1976 — India Code](https://www.indiacode.nic.in/handle/123456789/1911?view_type=browse), used only as a dated statutory illustration of a non-domination remedy, not as evidence that domination has ended.
+- [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), Articles 14–16, used as dated constitutional illustration only.
+
+> ⚠️ **Provenance note for §2.8, §3.3A and §3.3B (added in this pass):** the republican non-domination module, the distributive-criteria grid and the compensatory-principle reconstruction are named-scholar syntheses adapted into this Philosophy owner. They carry no page, chapter, edition or verbatim wording for Pettit, Skinner, Rawls, Nozick or Aristotle, and no empirical claim about any Indian government, party or period. The affirmative-action policy debate is deliberately **not** developed here; it is owned by the Caste file.

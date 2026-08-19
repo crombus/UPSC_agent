@@ -169,6 +169,282 @@ determine what a policy actually becomes in practice.
 - ✅ `12_Local-Governance-and-Service-Delivery.md` — convergence at the local-body level.
 - ✅ `13_Public-Finance-and-Service-Delivery-Tools.md` — financial-flow tools that support (or bottleneck) implementation.
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Scope of this section.** Everything needed for a directive-sensitive, thesis-led GS-II
+> answer on *policy design, the implementation gap and sectoral interventions* is held **in
+> this file**, including the demands the older 2018–2023 ledger routed to `advanced/02`.
+> `advanced/02` is optional deeper reading; **no mark depends on opening it**.
+
+### 13.0 Direct Mains demands owned by this Core file
+
+⚠️ **Core routing supersedes the older Advanced pointer.** The 2018–2023 ledger routes
+three demands to `advanced/02`. They are answered here.
+
+**(a) 2018 GS-I Q17 — transformation of aspirational districts and the convergence strategy
+(15 marks).** Executable route:
+1. Define the problem the programme addresses: **inter-district**, not inter-state,
+   development divergence — a targeting unit smaller than the state and larger than the block.
+2. Name the design: NITI Aayog's **Aspirational Districts Programme**, **112 districts**,
+   **49 KPIs across five themes** (health and nutrition; education; agriculture and water
+   resources; financial inclusion and skill development; basic infrastructure), tracked on
+   the **Champions of Change** dashboard (full detail in `15` §4).
+3. Explain the three named levers in the programme's own logic: **convergence** (of Union
+   and State schemes), **collaboration** (Union/State/district officials and the Prabhari
+   officer arrangement) and **competition** (delta ranking).
+4. Explain why **delta ranking** is the analytically interesting choice: ranking on the
+   *pace* of improvement rather than absolute level stops the historically worst-off
+   district from being permanently bottom and therefore permanently unmotivated.
+5. Convert convergence into an implementation claim using §3 of this file: convergence works
+   because it **removes clearance points** between parallel schemes at the district level,
+   not because it adds a new scheme.
+6. Limitation, stated honestly: dashboard data is largely **district-self-reported** with
+   validation by selected agencies; improvement on a KPI is an output measure, and the
+   district-level unit can mask intra-district (block, habitation) divergence — which is why
+   the **Aspirational Blocks Programme (513 blocks)** exists as a separate, non-substitutable
+   unit (see `15` §8).
+7. Verdict: the programme is best read as an **administrative-attention** and
+   **convergence** instrument rather than a financing instrument — it re-allocates
+   supervisory intensity, not primarily money.
+❌ Do not assert any district's rank, any KPI value, or a total expenditure figure.
+
+**(b) 2018 GS-II Q6 — policy contradictions across sectors and environmental degradation
+(10 marks, "comment with relevant illustrations").** Executable route:
+1. Thesis: environmental degradation in India is frequently produced not by an *absence* of
+   policy but by **mutually contradicting policies** pursued by different ministries with
+   separate mandates and no arbitration mechanism.
+2. Name the mechanism precisely — this is the analytical core: sectoral ministries optimise
+   **their own** objective function; no single actor is accountable for the aggregate
+   environmental outcome; and the environmental cost is an **externality** that appears in
+   nobody's departmental performance metric.
+3. Illustrations must be structural, not anecdotal: input/price support that encourages
+   water-intensive cropping in water-stressed regions while a separate programme funds
+   groundwater conservation; energy-access expansion against emission-reduction commitments;
+   infrastructure-clearance timelines against impact-assessment depth.
+4. Governance correctives, named: **Regulatory Impact Assessment** at formulation (§4 of
+   this file); inter-ministerial appraisal before notification; **convergence** at the
+   district level; and outcome indicators that include the environmental externality
+   (see `15`).
+5. Counterpoint: some contradictions are genuine **value conflicts** (livelihood today
+   against ecological stock tomorrow), not coordination failures, and cannot be resolved by
+   better process alone — this distinction is what lifts the answer.
+6. Cross-link `Environment-and-Ecology` for the EIA/NGT machinery; Governance owns the
+   coordination-failure diagnosis, not the environmental law.
+❌ Do not invent scheme names, ministry positions or degradation statistics.
+
+**(c) 2022 GS-II Q6 — Gati-Shakti and government–private-sector coordination (10 marks).**
+Executable route:
+1. Classify it correctly: this is a **coordination and information-asymmetry** problem, not
+   an infrastructure-finance problem. The governance content is the *institutional* answer to
+   siloed planning.
+2. Name the design honestly and only to the extent verified: **PM GatiShakti** is a National
+   Master Plan approach for **multi-modal infrastructure connectivity**, built on a shared
+   **GIS-based** planning platform that layers infrastructure and utility data from multiple
+   ministries so that projects are planned against a common map rather than in isolation.
+3. Mechanism: a shared data layer reduces the **clearance points** and sequencing failures
+   (the classic road-dug-twice problem) that arise when each ministry plans on its own data;
+   it also reduces private-sector **information risk**, because bidders can see planned
+   alignments and utility corridors.
+4. Governance limitation: a planning platform coordinates **information**, not **authority** —
+   land, utilities and many approvals remain with States and local bodies, so the platform
+   improves visibility without by itself resolving federal or jurisdictional friction.
+5. Private-sector coordination point: the state's contribution here is **de-risking through
+   predictability** (visible pipeline, common data) rather than direct subsidy.
+6. Verdict: an information-layer reform whose value depends on data currency and on States'
+   participation — use the PPP governance block below for contractual accountability and
+   cross-link `Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` only for
+   financing and sector economics.
+❌ Do not state a launch-date-linked target, an investment figure, a ministry count or a
+logistics-cost percentage; none is verified here.
+
+**PPP governance block — sufficient for a dedicated 10/15-mark demand.**
+
+```text
+PUBLIC PURPOSE + OUTPUT STANDARD
+        -> RISK ALLOCATION to the actor best able to manage each risk
+        -> COMPETITIVE PROCUREMENT + disclosed evaluation criteria
+        -> PERFORMANCE-LINKED PAYMENT and measurable service standard
+        -> INDEPENDENT MONITORING + contract disclosure
+        -> RENEGOTIATION / DISPUTE / EXIT rules
+        -> AFFORDABILITY, ACCESS AND CONTINUITY safeguards
+```
+
+- **Why PPP:** combine public-purpose authority with private capital, technology or operating
+  capability where whole-life service performance can be specified.
+- **Governance gain:** risk and responsibility can be assigned contractually rather than
+  left diffuse.
+- **Core risks:** optimistic demand forecasts; hidden contingent liabilities; weak
+  competition; opportunistic renegotiation; information asymmetry; user-fee exclusion; and
+  accountability fragmentation between department, concessionaire and regulator.
+- **Named Indian instruments:** **Viability Gap Funding** supports economically justified
+  but commercially weak PPP projects; the **Hybrid Annuity Model** illustrates deliberate
+  risk-sharing by leaving construction/operation risk substantially with the concessionaire
+  while government carries a larger revenue-payment role. They show that PPP is not one
+  uniform transfer of risk.
+- **Judgment:** PPP is a procurement and service-delivery choice, not privatisation by
+  definition. It is defensible only where output, risk, monitoring, affordability and exit
+  are specified before award. Do not invent a project-level success rate or fiscal figure.
+
+### 13.1 Demand map
+
+| Stem pattern | What is really being tested | Opening move that scores |
+|---|---|---|
+| "Issues arising out of design **and** implementation" | Whether you can separate the two | Answer in two labelled halves; a merged answer loses the distinction the syllabus itself makes |
+| "Why did \<policy\> fail?" | Causal staging | Name the stage: diagnosis / design realism / clearance points / street-level discretion / evaluation |
+| "Aims **and** scope of \<Act\>" | Precision on coverage | Answer the scope half separately and explicitly — the 2024 Q11 pattern rewards exactly this |
+| "Suggest measures / reforms" | Whether recommendations attach to a diagnosed cause | Each measure must name the stage it fixes; unattached "way forward" lists score poorly |
+| "Convergence / coordination" | Institutional design, not scheme lists | Explain what convergence removes (clearance points, duplicate targeting) before naming any programme |
+| Novel sector (health, exams, nutrition, energy) | Transferability | Run the same six-stage implementation map on the unfamiliar sector |
+
+### 13.2 Qualified theses
+
+- **T1 (structural):** "The implementation gap is the multiplicative product of design
+  realism, clearance-point count and the quality of frontline discretion — treating it as a
+  synonym for corruption misdiagnoses most Indian delivery failures."
+- **T2 (design-first):** "Most failures attributed to implementation are in fact
+  formulation failures that became visible only at delivery: the problem was misdiagnosed,
+  the target population misspecified, or the implementing incentive left unexamined."
+- **T3 (discretion):** "Street-level discretion cannot be abolished and should not be; the
+  governance task is to guide it — through clear entitlement rules, reasoned rejection,
+  recorded decisions and an appeal — so that it adapts policy humanely instead of rationing
+  it arbitrarily."
+- **T4 (federal):** "A Union policy's effectiveness in a State-implemented sector depends on
+  a chain of adoption, notification and capacity steps that territorial extent alone does
+  not supply."
+
+### 13.3 Mark-scaled structure
+
+**10 marks** — 1 thesis; 2 named causes with one example each; 1 corrective attached to a
+named cause; 1 verdict.
+
+**15 marks** — thesis; the policy cycle located precisely; three causes across *different*
+stages (design, clearance, delivery); 4–6 evidence units from §13.4/13.5; one trade-off from
+§13.7; graded verdict.
+
+**20 marks** — thesis with stated criteria; separate **design** and **implementation**
+halves as the syllabus does; three sectors from §13.5 so the argument is not
+single-sector; the six-stage map (§13.6) applied to one case end-to-end; exclusion/inclusion
+error analysis; the counter-argument that better process cannot resolve a value conflict;
+verdict with the condition under which it flips.
+
+### 13.4 Evidence bank A — implementation theory with Indian application
+
+| Concept | Named source | Mechanism | Indian application | Limitation |
+|---|---|---|---|---|
+| ✅ **Clearance points / complexity of joint action** | Pressman & Wildavsky | Cumulative failure probability rises with each independent approval point even when each is individually likely to succeed | Centrally sponsored schemes needing Union → State → District → Panchayat sign-off | Reducing clearance points centralises decisions and reduces local adaptation |
+| ✅ **Street-level bureaucracy** | Michael Lipsky | Frontline officials *make* policy through discretion under caseload pressure | Ration dealer, ANM, teacher, exam-centre invigilator | Discretion is not eliminable; guidance and records are the realistic lever |
+| ✅ **Coping routines** | Lipsky | Rationing of time/attention; **"creaming"** (serving easier cases first); informal rule-bending | Explains welfare **exclusion error without alleging corruption** — a high-value analytical wedge | Requires caseload/staffing evidence to assert in a specific case |
+| ✅ **Top-down vs bottom-up implementation** | Implementation-theory literature | Top-down asks whether frontline action matched design; bottom-up treats frontline output as the real policy | Use to reframe "did the Act work?" as "what did centres actually do?" | Neither view alone is complete |
+| ⚠️ **Design realism vs design ambition** | Analytical | Wide coverage and high targets can be specified without matching administrative capacity | Universal-coverage targets with unfilled sanctioned posts | A design-stage cause, distinct from delivery-stage causes |
+| ⚠️ **Consultation depth vs consultation compliance** | Analytical, applied to the 2014 policy | Publishing a draft ≠ incorporating feedback | Comment windows closed without a response matrix | The 2014 policy is executive, not statutory; comments are not binding |
+| ⚠️ **Theory of change** | Analytical | Explicit chain: input → activity → output → outcome → impact, with assumptions stated | Forces the designer to name the assumption most likely to fail | A stated theory of change is not evidence that it holds |
+
+### 13.5 Evidence bank B — multi-sector applications (never a scheme list)
+
+Each entry is claim → sector case → mechanism → limitation. **Use different sectors in one
+answer**; three examples from welfare alone will read as a scheme list.
+
+1. **Examinations / integrity (statutory route).** ✅ The Public Examinations (Prevention of
+   Unfair Means) Act, 2024, in force **21 June 2024 (S.O. 2422(E))**, criminalises paper
+   leaks, impersonation and tampering for examinations of **scheduled or
+   Central-Government-notified** authorities (UPSC, SSC, RRBs, IBPS, NTA and Central
+   Government departments/attached offices). *Mechanism:* deterrence via defined offences and
+   designated authorities. *Limitation and the exact exam point:* a State board or university
+   examination is **not automatically covered** by territorial extent — coverage requires
+   notification of that authority or separate State law. This is authority-based, not
+   subject-matter-based, coverage.
+2. **Health (design + delivery).** ✅ 2024 GS-II Q17's marketisation problem is
+   simultaneously a **design** question (how public financing and private-provider regulation
+   are structured) and a **delivery** question (primary-care reach at the grassroots).
+   *Mechanism:* regulation without provision leaves price and quality unaddressed; provision
+   without regulation leaves the private market shaping outcomes. *Limitation:* health is
+   overwhelmingly a **State** subject in delivery — a Union design cannot be assessed without
+   the federal implementation step. Cross-link `Social-Justice` for the health-scheme content.
+3. **Infrastructure coordination.** PM GatiShakti's shared GIS planning layer (§13.0(c)).
+   *Mechanism:* removes sequencing failure by making other ministries' plans visible.
+   *Limitation:* coordinates information, not authority.
+4. **Environment across sectors.** Contradictory sectoral incentives (§13.0(b)).
+   *Mechanism:* externality invisible in any single department's metric. *Limitation:*
+   some contradictions are value conflicts, not coordination failures.
+5. **Area-based targeting.** Aspirational Districts Programme (§13.0(a)).
+   *Mechanism:* convergence + delta-ranked competition + supervisory attention.
+   *Limitation:* self-reported data; district unit masks intra-district divergence.
+6. **Welfare targeting.** DBT de-duplication (see `13`). *Mechanism:* identity verification
+   removes duplicate/ineligible entries. *Limitation:* corrects **inclusion error** while
+   creating a distinct **exclusion-error** risk at authentication — never present one as the
+   other.
+
+### 13.6 The six-stage implementation map (apply to any unfamiliar policy)
+
+```text
+1 LEGAL AUTHORITY   Act / rule / guideline / executive scheme? Who is bound?
+2 RULES AND SOPs    Are entitlement, eligibility and procedure specified?
+3 RESPONSIBLE AGENCY Union / State / district / local / parastatal — named?
+4 STAFF, MONEY, TECH Sanctioned vs filled posts; fund-flow route; data systems
+5 CITIZEN INTERFACE Awareness, documents, distance, language, digital access
+6 GRIEVANCE + REVIEW Appeal, penalty, evaluation, sunset/renewal clause
+```
+
+⚠️ An enacted law can stall at **any** later stage. "The Act exists" answers stage 1 only.
+For any novel policy question, walk the six stages and stop at the one the stem is actually
+about — that single move converts a generic answer into a diagnosed one.
+
+### 13.7 Targeting, error and trade-off bank
+
+| Trade-off | Statement that scores | Governance resolution |
+|---|---|---|
+| **Universalism vs targeting** | Targeting concentrates scarce resources but requires identification machinery that itself excludes; universalism avoids identification error but costs more and can be regressive in incidence | Choose by the ratio of identification cost to benefit value; universalise where identification cost approaches the benefit |
+| **Inclusion error (E1) vs exclusion error (E2)** | E1 = ineligible included; E2 = eligible excluded. Tightening verification reduces E1 and **increases** E2 | Fix the tolerable E2 first for entitlements affecting subsistence; add offline/assisted fallback |
+| **Speed vs consultation** | Faster enactment reduces deliberation and stakeholder buy-in; consultation improves design realism but delays urgent response | Time-bound consultation with a published response matrix, not a binary choice |
+| **Discretion vs uniformity** | Discretion adapts humanely and rations arbitrarily; uniform rules are predictable and blind to genuine difference | Guided discretion: written reasons, recorded decisions, appeal |
+| **Centralised design vs local adaptation** | Fewer clearance points = faster; more local input = better fit | Decide centrally on entitlement, locally on delivery method |
+
+### 13.8 Stakeholder and last-mile variation
+
+- **Frontline official:** faces caseload, unclear rules and citizen pressure → produces
+  rationing and creaming (Lipsky). *Ask:* what is the caseload per official?
+- **District administration:** holds convergence authority in practice; the level at which
+  multiple schemes actually meet a citizen.
+- **State government:** in most social sectors the actual implementer; a Union policy's
+  reach is only as long as the State's adoption and capacity.
+- **Local body:** delivers but frequently without funds, functions and functionaries
+  together (see `12`).
+- **Citizen:** bears documentation cost, travel, wage loss and language barriers — costs
+  that appear in no departmental metric and cause silent, unmeasured drop-off.
+- **Private/non-state implementer:** brings capacity and speed with a different
+  accountability chain (see `03`, `04`).
+
+### 13.9 Verdict scaffolds
+
+- **Design/implementation stem:** "The gap here is not resourcing but sequencing — the
+  entitlement was created before the machinery that must deliver it, so the visible failure
+  at delivery originates in the design."
+- **Scope stem:** "The Act's aims are integrity-protective and general; its reach is
+  authority-based and therefore specific. Conflating the two is the error the question is
+  designed to expose."
+- **Convergence stem:** "Convergence adds no new scheme; it removes clearance points between
+  existing ones — which is why it improves outcomes without a proportional increase in
+  outlay, and why it fails wherever functional devolution is absent."
+- **Novel-sector stem:** run §13.6, name the stalling stage, attach one corrective and one
+  cost.
+
+### 13.10 Factual and current-status controls
+
+- ✅ Safe: the policy-cycle stages; Lipsky as the source of street-level bureaucracy;
+  Pressman & Wildavsky as the clearance-point source; Pre-Legislative Consultation Policy,
+  2014, with an ordinary minimum comment period of about 30 days, as an **executive policy,
+  not a statute**; Public Examinations Act, 2024 in force 21 June 2024 (S.O. 2422(E)) with
+  authority-based coverage.
+- ⚠️ RIA is an **emerging, unevenly institutionalised** practice in India — do not describe
+  it as a uniformly binding requirement across ministries or regulators.
+- ❌ **Do not assert:** any Aspirational Districts rank, KPI value or outlay; any GatiShakti
+  investment figure, ministry count, target date or logistics-cost percentage; any
+  environmental-degradation statistic; any claim that the 2024 Act covers State board or
+  university examinations generally.
+- ⚠️ Before claiming a later expansion of the 2024 Act, verify the Gazette notification
+  naming the additional authority. "Adoption" announced by an executive statement is not
+  notification.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

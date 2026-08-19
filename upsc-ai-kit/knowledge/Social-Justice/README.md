@@ -11,6 +11,8 @@
 > **Pre-exam revision:** [`REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md`](REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md)
 > compresses all 17 Core/Advanced pairs into one rights-to-capability map, vulnerable-group
 > matrix, comparison sheet, trap list and Mains-answer framework.
+> **Answer-worthiness status:** ✅ Complete after independent hostile certification on
+> 14 August 2026. See [`ANSWER-WORTHINESS-AUDIT.md`](ANSWER-WORTHINESS-AUDIT.md).
 
 ---
 
@@ -23,8 +25,9 @@
 > **Applicable papers:** Preliminary Examination - Paper I (GS-I); Main Examination -
 > Paper III (General Studies II).
 >
-> **PYQ status:** 2018-2023 is **central-routing-only** via
-> [`../_PYQ-INDEX.md`](../_PYQ-INDEX.md). Audited 2024-2025 GS-II applications are
+> **PYQ status:** 2018-2023 Mains routes are now Basic-first in the controlling ledger;
+> older Social Justice `advanced/` pointers were superseded during the answer-worthiness
+> audit. Audited 2024-2025 GS-II applications are
 > embedded where they exist (for example
 > [`basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md`](basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md),
 > [`basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md`](basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md),
@@ -37,15 +40,15 @@
 | "Economic and Social Development-Sustainable Development, Poverty, Inclusion, Demographics, Social Sector Initiatives, etc." | PARTIAL | [`basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md`](basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md)<br>[`basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md`](basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md)<br>[`basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md`](basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md)<br>[`basic/04_Education-and-Human-Resource-Development.md`](basic/04_Education-and-Human-Resource-Development.md)<br>[`basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md`](basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md) | Defensible ownership is the poverty/inclusion/social-sector slice; the whole prelims line also overlaps with Economy and Indian-Society. |
 | "Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections." | COVERED | [`basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md`](basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md)<br>[`basic/05_Women-and-Gender-Justice.md`](basic/05_Women-and-Gender-Justice.md)<br>[`basic/06_Children-and-Child-Protection.md`](basic/06_Children-and-Child-Protection.md)<br>[`basic/10_Minorities-Rights-and-Welfare.md`](basic/10_Minorities-Rights-and-Welfare.md)<br>[`basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md`](basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md) | Vulnerable-sections coverage is distributed across dedicated group files plus a capstone performance file; constitutional-body composition still cross-links to `Polity/`. |
 | "Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources." | COVERED | [`basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md`](basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md)<br>[`basic/04_Education-and-Human-Resource-Development.md`](basic/04_Education-and-Human-Resource-Development.md) | Direct clause-to-file match. |
-| "Issues relating to poverty and hunger." | COVERED | [`basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md`](basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md)<br>[`advanced/02_Poverty-Hunger-Food-and-Nutrition-Security.md`](advanced/02_Poverty-Hunger-Food-and-Nutrition-Security.md) | Direct clause-to-file match. |
+| "Issues relating to poverty and hunger." | COVERED | [`basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md`](basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md) | Direct Basic owner; Advanced is optional enrichment. |
 
 ---
 
 ## How this folder works
 
-- **Two tiers per topic:** `basic/NN` builds the must-do entitlement, law, scheme
-  and access framework; `advanced/NN` adds implementation gaps, legal nuance,
-  institutional trade-offs, data interpretation and Mains depth.
+- **Two tiers per topic:** `basic/NN` is independently answer-complete for plausible
+  10/15/20-mark and unfamiliar questions; `advanced/NN` adds safely skippable legal
+  nuance, extra evidence and deeper institutional trade-offs.
 - **Tagging:** ✅ = directly grounded in an official source or verified PYQ;
   ⚠️ = analytical inference or standard linkage; 📰 = a dated current legal,
   scheme or outcome-data anchor.
@@ -108,8 +111,8 @@
    for the full rights-to-outcome architecture and group comparison matrix.
 2. Use the linked `basic/` owner file for any weak topic. Core remains independently
    answer-complete.
-3. Open the matching `advanced/` file only for legal nuance, intersectionality,
-   institutional trade-offs and evaluation depth.
+3. Open the matching `advanced/` file only for optional legal nuance, additional
+   examples and deeper evaluation; no paper outcome depends on it.
 4. Before using data or a scheme example, recheck its reporting date, legal stage,
    eligibility rules and operational status.
 

@@ -127,7 +127,7 @@ can intensify water stress and stock imbalance.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 The Survey reports 49,796 storage projects sanctioned as of 31 Dec 2025. | Storage expansion matters only when projects are operationally linked to procurement, movement and quality control. |
+| 📰 The Survey highlights the Agriculture Infrastructure Fund as supporting a large pipeline of post-harvest and storage-related projects; verify any exact count against the latest official AIF dashboard. | Storage expansion matters only when projects are operationally linked to procurement, movement and quality control. |
 | 📰 The Survey emphasises storage, market linkages, productivity and climate-risk management in food policy. | Connect food management with productivity, climate resilience and diversified market access. |
 | 📰 The 2024 GS-III PYQ asked the role and storage challenges of buffer stocks. | Evaluate buffer stocks through stabilisation benefits, carrying cost, wastage and release rules. |
 

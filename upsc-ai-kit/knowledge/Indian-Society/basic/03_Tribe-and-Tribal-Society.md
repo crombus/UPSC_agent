@@ -193,6 +193,171 @@ rehabilitation are central, but not exhaustive, axes of tribal development.
 - ✅ `02_Caste-System-Structure-and-Contemporary-Dynamics.md` — the caste side of the
   tribe-caste continuum.
 - ✅ `10_Urbanisation-Problems-and-Remedies.md` — displacement-linked migration into cities.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> Core-only. Tribal questions cluster into four demand families — **policy-approach
+> history, displacement–rehabilitation, tribal diversity versus single-category treatment,
+> and tribal knowledge systems**. All four are executable from this section.
+
+### 13.1 Directive-to-structure map
+
+| Directive | What is tested | Structure that scores |
+|---|---|---|
+| **Give your opinion** (two axes of tribal development) | Whether you take a position *and* qualify its completeness | Affirm the framing → prove each axis → add what the framing omits → graded verdict |
+| **Examine** (uniqueness of tribal knowledge systems) | Whether you can describe knowledge *systems*, not folklore | Domain-by-domain: ecological, medicinal, resource-governance, craft, cosmology — each with the mainstream contrast |
+| **In which specific contexts** (tribal diversity vs single-category treatment) | Whether you can name the contexts where aggregation is right and where it is wrong | Split answer: legitimate aggregation contexts vs damaging aggregation contexts |
+| **Contrast** (Elwin vs Nehru vs Ghurye) | Whether the three positions are kept distinct | Position → its diagnosis → its instrument → its criticism, three times, then the synthesis |
+| **Discuss** (tribe–caste continuum) | Whether you keep a sociological thesis apart from a legal category | Thesis → cases where it fits → cases where it does not → the legal boundary |
+
+### 13.2 Thesis bank
+
+- **T1 (2025 demand):** ⚠️ Displacement and rehabilitation are the two axes on which tribal
+  development is *contested*, but not the two axes on which it is *constituted* — identity
+  recognition, education, health and self-governance are the third dimension the framing
+  omits.
+- **T2 (diversity demand):** ⚠️ "Tribe" is an administrative and constitutional container
+  holding sharply different social formations; aggregation is defensible for entitlement
+  and unacceptable for diagnosis.
+- **T3 (knowledge demand):** ⚠️ Tribal knowledge is distinctive not because its content is
+  exotic but because its **mode** differs — embedded in practice, held collectively,
+  transmitted orally, validated by long-run use in a specific ecology.
+- **T4 (policy-history demand):** ✅ Post-Independence policy is best read as Nehru's
+  integration standing between Elwin's protection and Ghurye's absorption — and as
+  incompletely implemented in either direction.
+
+### 13.3 Mark-scaled spines
+
+**15 marks — "Does tribal development centre around displacement and rehabilitation? Give
+your opinion." (2025 GS-I Q20)**
+1. T1 as an opinion, stated upfront. 2. Axis 1 — displacement: mining, dams and industrial
+projects concentrated in mineral-rich, forested, often tribal-majority regions (E1);
+distinguish project displacement from slow **land alienation** to non-tribal buyers (E2).
+3. Axis 2 — rehabilitation adequacy: land-for-land, livelihood restoration, community
+relocated intact (E3). 4. What the framing omits: PVTG vulnerability (E4), education and
+health, identity assertion, Fifth/Sixth Schedule self-governance (cross-link only).
+5. Qualification: variation between Fifth Schedule mainland and Sixth Schedule North-East
+contexts. 6. Graded verdict — the two axes dominate the *conflict*, a third dimension
+decides the *outcome*.
+
+**10 marks — "Tribal diversity and its treatment as a single category: in which specific
+contexts is this a problem?"**
+1. T2. 2. Contexts where aggregation is legitimate: constitutional notification under
+Art 342 (Polity's territory), entitlement portability, atrocity protection.
+3. Contexts where aggregation damages: livelihood design (forest-dependent vs settled
+cultivator vs urbanised tribal worker); PVTG-specific vulnerability (E4); Sixth Schedule
+North-East polities vs Fifth Schedule mainland belts; matrilineal Khasi kinship vs
+patrilineal tribal groups (cross-link `04`); religion and language (tribal faiths, Halbi,
+Ho, Kui). 4. Consequence: a single scheme template mis-targets. 5. Verdict.
+
+**10 marks — "Examine the uniqueness of tribal knowledge systems relative to mainstream
+systems."**
+1. T3. 2. Five domains with the contrast, from §13.5. 3. Why it matters: conservation,
+seed and forest-produce management, climate adaptation, health access. 4. Why it erodes:
+displacement severs the ecology the knowledge was indexed to (E1); schooling and market
+integration break oral transmission. 5. Qualification — do not romanticise; the knowledge is
+context-bound and does not substitute for public health or formal education.
+6. Verdict.
+
+**20 marks — "Assess post-Independence tribal policy against its own objectives."**
+Add: the three-position history (E5) with each position's instrument and criticism; the
+acculturation reality that none was fully implemented; displacement and rehabilitation as
+the test of Panchsheel's "own genius" promise; the tribe–caste continuum's limits; a
+cross-owner synthesis paragraph routing FRA/PESA to `Social-Justice/basic/08` and the
+Fifth/Sixth Schedules to `Polity`, labelled as borrowings.
+
+### 13.4 Evidence bank — `claim → named evidence → significance → limitation`
+
+- **E1 — Project displacement.** *Claim:* development projects convert tribal land into
+  national resource. *Evidence:* mining, dam and industrial projects sited in mineral-rich,
+  forested, often tribal-majority regions. *Significance:* explains why tribal development
+  and national development are experienced as a trade-off rather than a shared gain.
+  *Limitation:* ⚠️ do not attach an invented displacement count or project name-and-number;
+  no such figure is verified in this folder.
+- **E2 — Land alienation.** *Claim:* loss of land is not only project-driven. *Evidence:*
+  transfer or encroachment of tribal land by non-tribal buyers over time — a slow,
+  cumulative process distinct from a single displacement event. *Significance:* an answer
+  that treats only projects misses the larger share of long-run land loss.
+  *Limitation:* ⚠️ mechanism claim; statutory restrictions on transfer are Polity's territory.
+- **E3 — Rehabilitation as the decisive variable.** *Claim:* displacement's welfare sign is
+  set by resettlement quality. *Evidence:* resettlement that fails to restore land,
+  livelihood and an intact community — cash compensation without land, dispersal of a
+  village across sites. *Significance:* converts a "development vs tribals" debate into a
+  testable policy-design question. *Limitation:* ⚠️ analytical; do not assert a national
+  rehabilitation success rate.
+- **E4 — PVTGs as the sharpest case.** *Claim:* the tribal category contains radically
+  different vulnerability levels. *Evidence:* MoTA's state-wise list dated **9 July 2024**
+  identifies **75 PVTGs in 18 States and the UT of Andaman & Nicobar Islands**; legacy
+  criteria include pre-agricultural technology, low literacy, stagnant or declining
+  population and subsistence economy. *Significance:* the strongest evidence against
+  single-category treatment. *Limitation:* administrative policy criteria, not a ranking of
+  peoples; consult the ministry list for later revisions.
+- **E5 — The three policy positions.** *Claim:* Indian tribal policy was a contested choice,
+  not a default. *Evidence:* **Verrier Elwin** (protective isolation against market,
+  moneylender and settler exploitation), **G.S. Ghurye** ("backward Hindus", absorption),
+  **Jawaharlal Nehru's Panchsheel for Tribals** (development along tribals' own genius, land
+  and forest rights retained, no imposed assimilation, no museum isolation).
+  *Significance:* supplies the named-scholar spine every tribal-policy answer needs.
+  *Limitation:* Ghurye's phrase must be quoted as *his argument*, not as a description of
+  Adivasi identity; and none of the three was fully implemented — **acculturation**, gradual
+  and uneven, is what actually happened.
+- **E6 — Distinctiveness that survives.** *Claim:* tribal identity is not residual.
+  *Evidence:* distinct languages routed in this owner's own PYQ record — **Halbi, Ho and
+  Kui**; tribal faiths alongside the major religions; **Scheduled Tribes about 8.6% of the
+  population at Census 2011**. *Significance:* grounds both the diversity argument and the
+  scale argument. *Limitation:* Census 2011 is a stock; language family classification is
+  `01`'s territory and the official Prelims key for the language question is not held
+  locally, so no option is inferred.
+
+### 13.5 Tribal knowledge systems — the Core bank examiners ask for
+
+| Domain | What the system holds | Contrast with the mainstream system | Answer use |
+|---|---|---|---|
+| **Ecological** | Seasonal indicators, species behaviour, fire and fallow practice indexed to a specific forest tract | Generalised, transferable models validated by controlled study | Conservation and climate-adaptation questions |
+| **Medicinal** | Locally sourced plant remedies embedded in practitioner lineages | Standardised pharmacology with formal trials | Health access and bio-resource questions |
+| **Resource governance** | Community rules over forest produce, grazing and water — collective, customary, orally enforced | Individual title, statutory rights, written record | Commons and FRA-adjacent questions (law routed to `Social-Justice`) |
+| **Craft and material** | Weaving, metal, bamboo and dyeing techniques transmitted by apprenticeship | Codified industrial process | Livelihood and heritage questions |
+| **Cosmology and social order** | Origin narratives, clan rules and sacred groves that also regulate resource use | Religious belief separated from resource administration | Why "belief" and "management" cannot be separated in tribal contexts |
+
+⚠️ **Mode contrast (the actual answer):** the difference is **embedded vs abstracted**,
+**collective vs individual authorship**, **oral vs written**, **place-specific vs
+transferable**, **validated by long-run use vs validated by formal testing**.
+⚠️ **Two prohibitions:** do not romanticise the systems as a substitute for public health,
+schooling or formal science; and do not name a specific tribe as the source of a specific
+remedy or technique — no such attribution is verified in this folder.
+
+### 13.6 Balance bank
+
+- ⚠️ **Against pure isolation:** it freezes communities out of health, education and legal
+  protection, and Nehru explicitly rejected the "museum specimen" model.
+- ⚠️ **Against assimilation:** it treats distinct identity as backwardness and was contested
+  in its own time.
+- ⚠️ **Against a pure displacement framing:** education, health, identity recognition and
+  self-governance also determine tribal development outcomes.
+- ⚠️ **Against continuum overreach:** the tribe–caste continuum fits some regional histories;
+  it does not dissolve distinct self-identification or Scheduled Tribe status under Art 342.
+- ⚠️ **Against uniformity:** Fifth Schedule mainland belts, Sixth Schedule North-East
+  polities, PVTGs and urbanised tribal workers face different problems.
+
+### 13.7 Verdict scaffolds
+
+- **Graded opinion:** "Displacement and rehabilitation are the axes on which tribal
+  development is fought, but the axis on which it is won is whether communities retain
+  decision-making over land, livelihood and culture; the two-axis framing is accurate about
+  conflict and incomplete about development."
+- **Category verdict:** "A single legal category is necessary for entitlement and
+  destructive for diagnosis; policy should aggregate for rights and disaggregate for design."
+- **Knowledge verdict:** "Tribal knowledge is distinctive in its mode, not merely its
+  content, which is why displacement destroys it faster than any curriculum can record it."
+
+### 13.8 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Authoritative ledger owner | Core route |
+|---|---|---|---|
+| 2025 · GS-I · Q20 | Tribal development around displacement and rehabilitation | `Indian-Society/basic/03` ✅ this file | §13.3 15-mark spine (T1) |
+| 2021 · GS-I · Q9 | Uniqueness of tribal knowledge systems against mainstream systems | ledger points to `advanced/03` | **Core routing supersedes:** §13.5 + §13.3 10-mark spine |
+| 2022 · GS-I · Q10 | Tribal diversity and treatment as a single category | ledger points to `advanced/03` | **Core routing supersedes:** §13.3 second 10-mark spine (T2) + E4 |
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

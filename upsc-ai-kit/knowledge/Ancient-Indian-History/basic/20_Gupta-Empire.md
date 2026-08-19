@@ -78,6 +78,42 @@
 - ⚠️ Compare Mauryan and Gupta empires: territorial ambition but different administrative depth and ideology.
 - ⚠️ Use the Prayag Prashasti to discuss conquest, diplomacy and limits of eulogistic sources.
 - ⚠️ Explain Gupta decline as a combination of Huna pressure, fiscal strain and feudatory assertion rather than one invasion.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The Gupta empire combined conquest, alliance and prestige to create a powerful but layered north Indian hegemony." |
+| Critically examine | "Gupta rule stabilised large parts of north India, yet its delegated structures and land grants also contained the seeds of later regionalisation." |
+| Compare / evaluate | "The Gupta political order is best seen as influential and expansive, but not uniformly centralised or universally golden." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** political expansion -> court ideology -> delegated control -> fragmentation tendencies
+- **For comparison Qs:** Mauryan centralisation vs Gupta layered hegemony
+- **For evaluate Qs:** achievements -> structural limits -> qualified verdict on empire
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Gupta expansion relied on multiple strategies | ✅ Allahabad pillar, conquest and alliances | Explains flexible imperial growth | Prashasti evidence is celebratory |
+| 2 | Courtly ideology reinforced sovereignty | ✅ Samudragupta/Chandragupta coinage and ritual claims | Shows political power expressed symbolically | Elite sources reveal ideals more than society |
+| 3 | Delegated control shaped the empire's limits | ✅ Feudatories and land grants | Connects success to later fragmentation | Regional application was uneven |
+| 4 | Golden-age claims need qualification | ⚠️ Stability and patronage coexisted with hierarchy and decentralisation | Makes the answer analytical | The phrase means different things in different historiographies |
+
+### Counterpoint and balance
+
+- Avoid presenting the Guptas as either a second Mauryan-style bureaucracy or mere figureheads.
+- Do not let cultural glory erase political and social limits.
+
+### Verdict framing
+
+- Conclude that Gupta power was real and prestigious but structurally looser than the Mauryan model.
+- This gives a balanced route into both polity and transition questions.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

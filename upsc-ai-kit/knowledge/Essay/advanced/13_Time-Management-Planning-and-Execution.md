@@ -32,12 +32,10 @@ them under a real clock.
 - **Two-essay budget interdependence:** the fact that overrunning on
   essay one directly reduces available time for essay two — the budget
   must be tracked jointly, not per-essay in isolation.
-- **Absolute vs. proportional budget:** ❌ neither locally held paper
-  prints a duration, so every allocation in this folder is expressed as a
-  *share* of the total. ⚠️ Convert shares to minutes yourself once you
-  have confirmed the paper's actual duration from the official paper or
-  admit card, and re-verify that conversion in timed practice rather than
-  assuming it.
+- **Absolute vs. personalised budget:** ✅ The paper baseline is 180
+  minutes. `basic/13` supplies a labelled pedagogical 10 + 85 + 85
+  starter plan; ⚠️ modify phase allocations only from logged evidence,
+  never by silently taking time from Essay 2.
 
 ## 3. Tension pairs and hidden assumptions
 
@@ -47,10 +45,10 @@ them under a real clock.
   displayed section, so overrunning on the first directly compromises the
   second.
 - **Fixed template vs. adaptive budget:** the assumption that a single
-  time-split (Section 6 of the basic file) should be memorised and
-  applied identically to every prompt; in fact issue-based prompts
-  (`03`) may need more scoping time, while well-decoded aphorisms (`02`)
-  may need less.
+  time-split should be memorised and applied identically to every prompt;
+  in fact issue-based prompts (`03`) may need more scoping time, while
+  well-decoded aphorisms (`02`) may need less. The 25/95/180 completion
+  checkpoints remain fixed unless the official paper says otherwise.
 
 ## 4. Levels of analysis and temporal-spatial scale
 
@@ -127,9 +125,10 @@ extended in `16`).
 
 ⚠️ Under a compressed drafting phase (Section 6), prefer cutting the
 *number* of paragraph clusters (e.g. from four dimensions to three)
-over cutting the *depth* of each remaining cluster — a shorter, well-
-argued essay outperforms a longer one where every paragraph is
-under-developed.
+over cutting the *depth* of each remaining cluster — but still complete
+the required essay and preserve a conclusion. The 1000–1200-word range
+remains the target; do not mistake an emergency cut for a preferred
+short-essay strategy.
 
 ## 12. ❌ Failure modes and revision protocol
 
@@ -148,10 +147,10 @@ under-developed.
 📰 **Dated anchor:** not applicable — execution/time-management method
 is stable and does not depend on current-affairs content.
 
-**Practice lab:** Run one full timed attempt (choice through a completed
-draft) for any prompt in `../README.md`, deliberately forcing an
-overrun in one phase, and apply Section 6's recovery protocol for that
-phase to completion.
+**Practice lab:** Run one complete 180-minute, two-essay attempt using
+the 25/95/180 checkpoints. Deliberately force one phase overrun and apply
+Section 6's recovery protocol without taking the protected Essay 2
+budget.
 
 **Transfer task:** Repeat the same forced-overrun drill for a different
 phase on a separate occasion, and compare which recovery protocol felt

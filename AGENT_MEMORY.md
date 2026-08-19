@@ -140,6 +140,14 @@ Internal Security · Disaster Management · Current Affairs
   `python tools\generate_export_command_index.py`. A package is generated only when all three
   files exist. Set `approved: true` only after the user explicitly approves that topic package;
   this produces the permanent tick in `EXPORT-PDF-COMMAND-INDEX.md`.
+- **Permanent export completion report (saved 12 August 2026):** after every export completes,
+  the final response must list the exact path of every file created or modified by that export.
+  Listing a file does not imply approval; every newly generated package remains
+  `approved: false` until the user explicitly approves it.
+- **Universal command completion report (saved 12 August 2026):** after every completed user
+  command—not only PDF exports—the final response must list the exact repository-relative path of
+  every file created or modified during that command. If no file changed, state
+  `Files changed: none`.
 - Store reusable interactive-session Markdown under
   `upsc-ai-kit/knowledge/<Subject>/learning-sessions/`. Create that dedicated folder for every
   subject; do not mix verbatim session transcripts into `basic/`, `advanced/` or canonical topic
@@ -166,6 +174,28 @@ Internal Security · Disaster Management · Current Affairs
 - **Topic-package trigger (all subjects):** `Create Topic Package: <Subject> — <Topic>` builds the
   complete package even when no interactive teaching session was previously run. `Export PDF`
   applies the same package standard to the current topic/session.
+- **Philosophy-only layered command rule:** when the active subject is Philosophy, both `Notes`
+  and `Export PDF` must use this five-stage sequence for every logical subtopic:
+  **1. SIMPLE START** (plain-language visual gateway) -> **2. CORE UPSC** (terminology,
+  doctrine, arguments and examples) -> **3. ADVANCED** (objections, replies, comparisons and
+  refinements) -> **4. EXAM APPLICATION** (verified PYQs and answer structure) ->
+  **5. RAPID REVISION** (traps, concise register notes and MCQs).
+- The explicit aliases `Philosophy Notes: <Topic>` and `Export Philosophy PDF: <Topic>` invoke
+  the same Philosophy-only layered standard. A separate command is not required when the active
+  learning session is already clearly identified as Philosophy.
+- **Philosophy `Notes` deliverable:** create one complete layered notes PDF plus reusable layered
+  Markdown. It is not the generic short register-card PDF. A separate solved workbook and export
+  tracking are required only when the user asks for `Export PDF`, `Export Philosophy PDF`, or a
+  complete topic package.
+- **Philosophy `Export PDF` deliverables:** create the layered main learning-session PDF, a
+  separate premium solved-practice workbook, and reusable layered Markdown; then update the
+  export tracker and command index.
+- **Preservation rule for layering:** retain every existing substantive definition, derivation,
+  distinction, example, criticism/reply, comparison, PYQ, answer framework, revision point and
+  practice explanation. Layering may reorder this material and add simpler gateways, but must
+  never compress or delete it. If the user explicitly asks for a verbatim or word-for-word
+  transcript, preserve the original order instead and add the simple layer without moving the
+  transcript.
 - Follow `PHILOSOPHY_VISUAL_NOTES_AI_PLAYBOOK.md` for every topic-wise Philosophy PDF.
 - Also follow `PHILOSOPHY_PDF_CONTENT_AND_VISUAL_STANDARD.md`. Content determines
   the design: never reduce substantive doctrine, criticisms, comparisons, PYQs
@@ -204,6 +234,75 @@ Internal Security · Disaster Management · Current Affairs
   learning session, with four plausible options, strict A -> B -> C -> D key rotation and detailed
   explanations. End with revision-oriented Mains practice questions across relevant mark levels,
   each solved to the same highest standard. Brief answer routes alone are not sufficient.
+- **UPSC Mains model-answer quality standard (all subjects, saved 12 August 2026):** UPSC does
+  not publish a fixed answer-level marking formula, so use the following as the repository's
+  examiner-oriented working standard:
+  1. **Demand fidelity:** decode every keyword, directive, scope, time period, mark allocation and
+     word limit. Answer every part of the question and do not substitute a memorised adjacent
+     topic.
+  2. **Direct thesis:** begin with a short definition/context and a defensible answer to the
+     question. The introduction must orient the examiner rather than merely repeat the stem.
+  3. **Structured coverage:** organise the body into logical dimensions appropriate to the
+     subject, using meaningful headings, chronology, comparison, causation or stakeholder lenses.
+  4. **Evidence-linked analysis:** use the pattern **claim -> named evidence/example -> what it
+     proves -> limitation/qualification**. Examples must support an argument, not appear as a
+     decorative list.
+  5. **Evidence density:** normally include at least 2-3 precise examples in a 10-marker, 4-6 in
+     a 15-marker and 5-8 in a 20-marker, adjusted for the question. Use subject-appropriate named
+     evidence: texts/authors/sites in History; Articles/cases/commissions in Polity; data/reports/
+     schemes in Economy and Society; thinkers/arguments/quotations in Philosophy and Ethics;
+     maps/processes/case studies in Geography and Environment.
+  6. **Analysis over narration:** explain how, why, consequence, significance and interrelation.
+     Avoid chronology or fact-dumping unless the directive specifically requires description.
+  7. **Balance and source criticism:** include counter-evidence, limitations, regional/social
+     variation, contested interpretation or implementation gaps wherever relevant. Do not force
+     artificial balance when the evidence is one-sided.
+  8. **Value addition:** use accurate terminology, a compact diagram/map/table where it improves
+     comprehension, a relevant current or comparative linkage, and scholars only when their view
+     directly advances the answer.
+  9. **Reasoned conclusion:** deliver a graded verdict that answers the directive and follows from
+     the body. Use a practical way forward only for questions that genuinely require one.
+  10. **Factual and presentation discipline:** no fabricated names, dates, data or quotations;
+      maintain readable paragraphs/bullets, visible hierarchy, concise language and word-limit
+      proportionality.
+- **Evidence is compulsory in every solved answer and framework (strengthened 12 August 2026):**
+  every solved Mains PYQ, original 10/15/20-mark model answer, answer framework and essay model
+  must use relevant named evidence linked to the argument. Use **claim -> named evidence/example
+  -> what it proves -> limitation/qualification**; evidence must never be decorative or merely
+  listed. History answers should draw, as appropriate, on precise texts/authors, inscriptions,
+  coins, sites, excavations, material remains, travellers, archaeological/scientific findings,
+  historians and regional comparisons. Each solved answer must end with a concise
+  **“Why this earns marks”** note. Never invent a fact, quotation, date, site, text, scholar,
+  report, datum or official answer key to satisfy this requirement.
+- **Model-answer review rubric:** internally review every answer for demand fulfilment (20%),
+  accurate content and named evidence (30%), analysis and linkage (20%), structure and coherence
+  (15%), balance and conclusion (10%), and presentation/value addition (5%). Revise any model
+  answer that remains generic, lacks named examples, lists facts without inference, or fails to
+  answer the directive. The final PDF/workbook should also state a short “Why this earns marks”
+  note after each solved answer.
+- **Compact visual-layout rule (saved 13 August 2026):** visuals are content-sized by default and
+  must not be forced onto a whole page merely for presentation. Prefer inline, half-page,
+  two-column/paired, or visual-plus-explanation layouts. A full-page visual is allowed only when
+  complexity or legibility genuinely requires it (for example, a dense map, comprehensive concept
+  map or large timeline), and it must not leave excessive unused space. Keep the related caption
+  or explanation on the same page where possible. Validate page-space efficiency and reject
+  isolated diagrams surrounded by avoidable blank areas.
+- **Generated visual-asset rule (saved 14 August 2026):** complete topic packages must generate
+  and embed original topic-specific visual assets wherever they materially improve understanding:
+  labelled diagrams, schematic maps, timelines, causal/process flows, concept maps, comparison
+  infographics, charts and process illustrations. Do not rely only on styled text boxes or
+  tables. Select each visual by learning purpose, keep labels legible, add a concise caption,
+  validate factual and geographical accuracy, and use externally sourced images only with
+  appropriate attribution and licensing.
+- **Topic-specific final register-note rule (saved 13 August 2026):** final revision/register
+  notes must use topic-specific headings rather than a fixed notes template. Do not force
+  `Introduction` or `Origin` sections. Include origin/background only when it is an examinable
+  dimension of the topic and name it precisely (for example, `Transition to Food Production`,
+  `Formation of the Persianate World`, or `Evidence Base and Dating`). Register notes are
+  compressed revision notes, not a second repetition of the teaching introduction. They must
+  still cover every subtopic, but prioritise definitions, chronology, evidence/examples, causal
+  logic, comparisons, debates, traps, PYQ routes, answer frameworks and rapid-recall facts.
+  Avoid repeating introductory prose already taught earlier.
 - **Reusable Markdown rule (all subjects):** retain a complete Markdown edition of an interactive
   learning session under `knowledge/<Subject>/learning-sessions/`. It must omit tool logs but keep
   the taught wording and ordering unchanged. Canonical synthesized topic files may remain in their

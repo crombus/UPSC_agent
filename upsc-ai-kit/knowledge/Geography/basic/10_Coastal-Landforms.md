@@ -100,6 +100,148 @@ either coast as uniformly emergent or submergent.
 Geography → Physical → Coastal Landforms (G.C. Leong; Majid Husain)  
 Geography → Coasts → Coastal Erosion (applied CA)
 
+## 9. Sea-level change and the retreating coast
+
+> **Why this section exists:** the syllabus names *changes in critical geographical features* and
+> *the effects of such changes*. This file taught coastal landforms and emergent/submergent coast
+> types, but the **mechanism** of contemporary sea-level rise and its differentiated coastal
+> consequences were absent — and they are the live examinable half of the topic.
+
+### 9.1 Why sea level rises, and why it does not rise equally everywhere
+
+| Component | Mechanism | Note |
+|---|---|---|
+| ⚠️ Thermal expansion (steric) | Ocean water expands as it warms | Acts throughout the water column; the reason ocean heat content matters as much as air temperature |
+| ⚠️ Mountain glacier and ice-cap loss | Grounded land ice transfers mass to the ocean | See `06_Landforms-of-Glaciation.md` |
+| ⚠️ Ice-sheet loss | Greenland and grounded Antarctic ice discharge and melt | The largest long-term uncertainty |
+| ⚠️ Terrestrial water storage change | Groundwater abstraction ultimately reaching the sea; reservoir impoundment retaining water | Acts in both directions |
+
+- ⚠️ **Relative sea level is what floods a coast**, and it differs from the global mean because of:
+  - **land subsidence** — deltaic compaction, sediment loading, and groundwater or hydrocarbon
+    withdrawal, which can exceed the global rise signal locally;
+  - **glacial isostatic adjustment** — land still rising or falling in response to the removal of
+    Pleistocene ice loads;
+  - **ocean dynamics** — currents, winds and density structure hold sea surface higher in some
+    regions than others;
+  - **gravitational fingerprinting** — the loss of a large ice mass reduces its gravitational pull
+    on nearby ocean water, so sea level can fall near a melting ice sheet and rise more than average
+    far from it.
+
+> 🔑 **Trap:** "sea-level rise" is not a uniform global bathtub filling. An answer that recognises
+> **relative** sea-level change, and names subsidence as a co-driver, is immediately stronger — and
+> it is the correct explanation for why deltas are the most threatened coasts on Earth.
+
+### 9.2 The differentiated consequences
+
+| Coastal type | Dominant risk | Why |
+|---|---|---|
+| ⚠️ Deltaic coast | Highest combined risk | Low elevation, active subsidence, sediment starvation, dense population, saline intrusion into soils and aquifers |
+| ⚠️ Low coral island | Existential | Very low elevation, small freshwater lens vulnerable to saline contamination, limited retreat space |
+| ⚠️ Sandy barrier and beach coast | Shoreline retreat | Landward migration of the profile; hard structures interrupt longshore drift and shift erosion downdrift |
+| ⚠️ Estuarine and creek city | Compound flooding | High tide, storm surge and heavy rainfall coincide, and drainage cannot discharge against a high sea |
+| ⚠️ Rocky / cliffed coast | Lowest inundation risk | Elevation protects, though undercutting and mass failure continue |
+
+- ⚠️ **The compound-flood insight:** in coastal cities the damaging event is usually not sea-level
+  rise alone but its **coincidence with surge and rainfall** — a modest permanent rise converts a
+  formerly rare joint event into a frequent one. This non-linearity is the strongest analytical
+  point available on this topic.
+- ⚠️ **Saline intrusion** operates before inundation does: rising sea level and reduced freshwater
+  head push the saline wedge inland in aquifers and up estuaries, degrading drinking water and
+  soils years before any land is permanently lost (mechanism in
+  `04_Weathering-MassMovement-Groundwater.md`).
+
+### 9.3 Response options and their honest trade-offs
+
+| Approach | Instrument | Trade-off |
+|---|---|---|
+| ⚠️ Protect | Sea walls, groynes, breakwaters, embankments | Effective locally; interrupts sediment transport and commonly **transfers erosion downdrift**; high capital and maintenance cost; encourages further development behind the defence |
+| ⚠️ Accommodate | Raised plinths, flood-proofing, drainage redesign, warning systems, insurance | Cheaper and reversible; does not prevent land loss |
+| ⚠️ Retreat | Setback lines, relocation, buy-outs, coastal-zone regulation | The only durable option on rapidly eroding coasts; politically and socially hardest |
+| ⚠️ Ecosystem-based | Mangrove, dune, reef and marsh restoration | Attenuates wave energy, traps sediment, and can keep pace with moderate rise; requires space, sediment supply and time, and fails against extreme surge alone |
+
+> 🔑 **Trap:** hard defences are not automatically the responsible choice. A sea wall protects one
+> stretch while starving and steepening the next — which is why coastal management is now framed at
+> the scale of the **sediment cell**, not the individual property.
+
+> ⚠️ **Factual caution:** do not quote a global or Indian sea-level-rise rate, a projection for a
+> given year, or a length of coastline at risk from memory. Where the file already carries a
+> shoreline-change statistic, keep it tied to its stated agency and survey period.
+
+## 10. Storm surge: the coastal hazard mechanism
+
+> **Promoted into Core (13 Aug 2026):** storm surge is a **general** coastal-hazard process, and it
+> is the principal cause of loss in tropical-cyclone landfalls. The Indian coastal-zone regulation,
+> shoreline data and state-level applications remain in `advanced/10_India-Coast-and-CRZ.md`.
+
+| Contributing factor | Mechanism | Relative importance |
+|---|---|---|
+| ⚠️ Wind stress on the sea surface | Onshore winds drag surface water shoreward and pile it against the coast | **The dominant contributor** |
+| ⚠️ Low central pressure | Reduced atmospheric pressure allows the sea surface to rise | Real but secondary |
+| ⚠️ Shallow, gently shelving sea floor | The piled water cannot escape downward or seaward | Greatly amplifies the surge |
+| ⚠️ Funnel-shaped or converging coastline | The water mass is squeezed into a narrowing space | Greatly amplifies the surge |
+| ⚠️ Coincidence with high tide | Surge rides on top of the astronomical tide | Determines whether a given surge overtops defences |
+| ⚠️ Wave setup and run-up on top of the surge | Breaking waves add further elevation | Extends the flooded zone inland |
+| ⚠️ Low, flat coastal land | Nothing halts the inland penetration of water | Determines the area affected |
+
+- ⚠️ **The compounding rule:** surge, tide, wave run-up and river discharge can arrive together.
+  Damage is set by their **coincidence**, which is why a moderate storm at high tide during a river
+  flood can exceed a stronger storm at low tide.
+- ⚠️ **Why deltas are worst placed:** they combine every amplifying factor — shallow shelf,
+  converging coast, very low elevation, subsidence and extremely dense settlement (see
+  `05_Landforms-by-Running-Water.md` and the sea-level section above). Cyclone genesis and the
+  Bay of Bengal versus Arabian Sea contrast are taught in `13_Weather-Elements.md`.
+- ⚠️ **Mitigation logic, matched to the mechanism:** forecasting and inundation mapping to define who
+  must move; evacuation and cyclone shelters to remove exposure from the surge zone; embankments and
+  sea walls where retreat is impossible; mangrove and dune belts to attenuate wave energy and slow
+  inland penetration; and land-use control to stop new assets entering the surge plain.
+
+> ⚠️ **Factual caution:** do not quote surge heights, return periods, casualty figures or a named
+> cyclone's landfall data from memory.
+
+## 11. Answer architecture (10/15/20-mark support)
+
+### 11.1 Directive decoding for this topic
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Explain coastal erosion and deposition" | Wave energy, refraction, longshore drift and the resulting landform pair-set | List landforms without the energy logic |
+| "Discuss the effects of sea-level rise on the Indian coast" | Relative sea-level components, differentiated coastal-type risk, compound flooding and saline intrusion | Assert a uniform global rise |
+| "Distinguish coasts of emergence and submergence" | The relative land-sea movement and its landform signature — raised beaches versus rias and fjords | Confuse the two directions |
+| "Evaluate coastal protection measures" | The four-option ladder with the downdrift-transfer and sediment-cell argument | Recommend sea walls uncritically |
+
+### 11.2 Reusable 15-mark spine — sea-level rise and the coast
+
+1. **Thesis:** coastal risk is set by **relative** sea-level change and by the coincidence of
+   drivers, not by the global mean rise alone — which is why identical global forcing produces
+   radically unequal coastal outcomes.
+2. **Mechanism:** the four global components, then the four local modifiers, with subsidence
+   singled out for deltas.
+3. **Differentiated impact:** delta, coral island, barrier coast, estuarine city and cliffed coast,
+   ranked by exposure with the reason for each.
+4. **The transmission that matters first:** saline intrusion into aquifers and soils, and compound
+   flooding, both of which bite long before permanent inundation.
+5. **Response ladder:** protect, accommodate, retreat, ecosystem-based — with the honest trade-off
+   for each and the sediment-cell principle.
+6. **Balance:** shorelines naturally erode and accrete simultaneously; a national shoreline-change
+   statistic conceals both. Coastal change is not new — its rate, and the value of what stands on
+   the coast, are.
+7. **Conclusion:** graded — the practicable objective is managing exposure and preserving the
+   coast's capacity to adjust, rather than holding a fixed line everywhere.
+
+### 11.3 Evidence units available in this file
+
+> **Claim:** coastal defence can create the erosion it is meant to prevent. **Evidence:** structures
+> that interrupt longshore drift accumulate sediment updrift and starve the coast downdrift.
+> **Significance:** it establishes that the correct planning unit is the sediment cell, not the
+> individual site. **Limitation:** where a settlement or critical asset cannot be moved, hard
+> protection remains necessary — the argument is about default policy, not absolute prohibition.
+
+> **Claim:** the most threatened coasts are threatened by land movement as much as by sea movement.
+> **Evidence:** deltas subside through natural compaction, sediment loading and fluid withdrawal,
+> while simultaneously losing the sediment supply that would rebuild them. **Significance:** it
+> explains why deltas rank above cliffed coasts at the same global rise. **Limitation:** subsidence
+> rates are highly local and are not interchangeable between deltas or even between parts of one.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

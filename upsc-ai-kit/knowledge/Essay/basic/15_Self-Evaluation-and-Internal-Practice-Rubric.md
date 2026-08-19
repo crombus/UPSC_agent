@@ -77,15 +77,18 @@ required — no such official figure exists.
 
 ## 6. Dimension-expansion grid — the Internal Essay Practice Rubric (0–4 each, /28 total; not UPSC's official rubric)
 
-| # | Dimension | 0–4 self-score guidance |
-|---|---|---|
-| 1 | Relevance | Does every paragraph answer the exact prompt wording? |
-| 2 | Depth | Is there real mechanism and qualification, not surface restatement? |
-| 3 | Coherence | Do thesis, sequence, transitions and conclusion align? |
-| 4 | Evidence | Are examples accurate, functional and proportionate (not dumped)? |
-| 5 | Originality | Is the framing your own, not a memorised template? |
-| 6 | Balance | Is there a fair counter-view and a real synthesis? |
-| 7 | Language | Is the prose precise and readable, free of ornamental filler? |
+Score only after writing the paragraph numbers that justify the score.
+The anchors make the number repeatable; they do **not** predict UPSC marks.
+
+| Dimension | 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|
+| Relevance | Does not answer prompt | Mostly generic/drifts | Answers part of prompt | Answers all terms with one weak drift | Every paragraph advances the exact proposition |
+| Depth | Assertion only | One undeveloped reason | Some mechanism, little qualification | Mechanism and qualification in most clusters | Sustained causal/conceptual reasoning, including limits |
+| Coherence | No thesis/sequence | List-like | Thesis exists but links fail | Clear sequence with minor discontinuity | Thesis, transitions and transformed conclusion form one argument |
+| Evidence | Fabricated/irrelevant | Dumped or unsupported | One usable but weakly linked example | Accurate, functional examples with one weak limitation | Each example has claim, source status, function and limitation |
+| Originality | Copied/template prose | Stock framing dominates | Some independent choice | Distinct thesis or synthesis | Independent, defensible framing throughout without novelty-for-its-own-sake |
+| Balance | No counter-view | Token “however” | Counter-view stated but not answered | Fair counter-view and plausible answer | Strongest counter-view genuinely tests and improves the thesis |
+| Language | Often unclear | Ornament/jargon blocks meaning | Generally readable, repetitive | Precise with occasional imprecision | Exact, concise, varied prose; every sentence carries a claim or link |
 
 **Restated for clarity: this /28 table is the Internal Essay Practice
 Rubric — not UPSC's official rubric, and it invents no official
@@ -114,7 +117,36 @@ method before rewriting individual sentences.
 3 (Coherence) — does the conclusion return to a transformed thesis, or
 merely restate the introduction (`06`)?
 
-## 11. ❌ Traps and repair moves
+## 11. Evidence, quotation and time audit
+
+Before adding the `/28`, record:
+
+| Audit | Required record |
+|---|---|
+| Paragraph evidence | Paragraph number(s) supporting each of the seven scores |
+| Factual risk | Every number, date, policy-status claim and outcome claim; source status or “remove” |
+| Quotation risk | Exact wording, author and primary source; otherwise paraphrase or delete |
+| Timing | Selection, plan, draft and revision minutes; whether 25/95/180 checkpoints were met |
+| Choice quality | Why this prompt was safer than the rejected option, stated before drafting |
+
+An invented fact, unsupported quotation or missed Essay 2 cap is never
+cancelled out by fluent language; log it as a separate repair priority.
+
+## 11A. Three-attempt tracker and calibration
+
+| Attempt/date | Prompt/V1 status | /28 | Lowest two dimensions + paragraph evidence | Fact/quote/time flags | One repair | Reattempt/transfer date |
+|---|---|---:|---|---|---|---|
+| 1 |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |
+
+Do not label a weakness “consistent” before three timed attempts, unless
+there is an objective failure such as an invented statistic or no
+counter-view. On attempt three, ask a peer/mentor to score one dimension
+from the anchored table without seeing your own score; discuss only the
+paragraph evidence, not a predicted UPSC mark.
+
+## 12. ❌ Traps and repair moves
 
 - ❌ **Treating this scorecard as UPSC's own marking key.** → Repair:
   always describe it, out loud or in writing, as the "Internal Essay
@@ -130,13 +162,14 @@ merely restate the introduction (`06`)?
   file.** → Repair: for every dimension scoring 2 or below, name the
   topic file (`01`–`14`) you will revisit.
 
-## 12. Timed micro-drill and self-check
+## 13. Timed micro-drill and self-check
 
-**Drill:** After completing any timed or untimed practice essay, score
-it against Section 6's seven dimensions (0–4 each), and write one
-sentence per dimension identifying the specific paragraph or move that
-justifies the score.
+**Drill:** After a complete two-essay timed attempt, score each essay
+separately against Section 6. For every dimension write the supporting
+paragraph number, then complete the evidence/quotation/time audit in
+Section 11.
 
-**Self-check:** For your two lowest-scoring dimensions, have you named
-the specific topic file (`01`–`14`) to revisit before your next
-attempt? If not, do so now, and carry the note into `16`'s practice loop.
+**Self-check:** For the two lowest dimensions, name the exact topic file,
+one observable repair, and a transfer date in the Section 11A tracker.
+Never average the two essays into a reassuring total that conceals a weak
+second essay.

@@ -147,5 +147,5 @@ pluralism: society has many associations; state must coordinate and justify
 - ✅ Primary chapters used: Ch.7 "Concept of Sovereignty" and Ch.8 "Pluralist Theory of Sovereignty" (PDF pp.179-208).
 - ✅ Core clusters used: Bodin to Austin (PDF pp.181-185); characteristics/aspects (PDF pp.185-188); popular sovereignty and general will (PDF pp.189-193); pluralist principles and Laski/Maclver (PDF pp.194-208).
 - ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF p.67.
-- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ⚠️ No post-2009 factual anchor is used in this file; all historical illustrations are either directly from Gauba or clearly presented as general hypotheticals.

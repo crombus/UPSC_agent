@@ -198,6 +198,96 @@ PYQ) and the institutional-collaboration question (2024 PYQ).
 - ✅ `03_Tribe-and-Tribal-Society.md` — displacement/rehabilitation as a related
   development-conflict axis.
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** Poverty answers must establish a mechanism of deprivation and avoid
+> turning a programme announcement, a percentage or an attitude into a causal explanation.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Explain reasons** poverty persists | Structural/access mechanism | capabilities -> exclusion -> delivery/asset/market barriers -> qualification |
+| **Comment** COVID, class and poverty | Shock transmission, not a generic pandemic narrative | work/income -> housing/health/digital exposure -> unequal recovery -> caution |
+| **Discuss** three-actor collaboration | Complementary roles and accountability | state -> NGO -> private -> joint monitoring -> limitation |
+| **Comment** sustainable growth and poor needs | Real trade-off plus design distinction | resource restriction -> livelihood loss -> participatory alternative -> graded verdict |
+| **Critically examine** culture of poverty | Competing causal accounts | Lewis -> structural critique -> policy implication |
+
+### 13.2 Thesis bank
+
+- **T1:** ✅ Poverty persists when income, assets, services, voice and social recognition
+  fail together; a programme can reach a beneficiary without closing all of those gaps.
+- **T2:** ⚠️ A shock is class-differentiated when precarious work, dense housing, weak
+  savings and unequal service access transmit it unevenly.
+- **T3:** ⚠️ Conservation-poverty conflict is real but is shaped by whether design excludes
+  communities or shares voice, livelihood and benefit.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — poverty despite eradication programmes (2018 GS-I).** Use T1: distinguish
+coverage from access/use, explain capability and asset deficits, exclusion and
+implementation/last-mile barriers, then state why a poverty measure alone cannot identify
+all failures. Conclude with convergence and accountability, not a generic scheme list.
+
+**15 marks — COVID, class inequalities and poverty (2020 GS-I).** Map the shock through
+informal work/income loss, housing and health exposure, migration/social protection access
+and digital/service divides. Explain why these are channels rather than one uniform
+experience. Close with resilience and portable access; do not invent a poverty or migration
+number.
+
+**20 marks — development, sustainability and livelihood.** Contrast exclusionary and
+participatory conservation; use a forest/grazing/commons mechanism and the distinct
+project-displacement route in Topic 03. Add State-NGO-private roles only where the question
+asks institutional collaboration, then give a conservation-effectiveness versus equity
+verdict.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Capability.** *Claim:* income cannot exhaust poverty. *Evidence:* **Amartya Sen’s
+  capability approach**. *Significance:* supplies education, health and participation
+  dimensions. *Limitation:* it does not eliminate the importance of income/consumption
+  measurement owned by Economy.
+- **E2 — Causal critique.** *Claim:* coping behaviour need not be poverty’s cause.
+  *Evidence:* **Oscar Lewis’s culture-of-poverty thesis** and its structural critique.
+  *Significance:* makes the causal-direction debate explicit. *Limitation:* do not deny
+  lived coping patterns; do not blame people for structural scarcity.
+- **E3 — Dated multidimensional anchor.** *Claim:* deprivation is multidimensional.
+  *Evidence:* **NITI Aayog 2024 discussion paper** estimate for 2022-23. *Significance:*
+  supports a time-bounded MPI example. *Limitation:* not a live 2026 headcount and not
+  evidence that a particular programme caused the change.
+- **E4 — Collaboration roles.** *Claim:* each actor has a distinct comparative advantage.
+  *Evidence:* Government (scale/regulation/accountability), NGOs (trust/local knowledge),
+  private sector (technology/resources), cross-linked to Governance. *Significance:*
+  answers the 2024 demand. *Limitation:* unclear roles diffuse accountability.
+- **E5 — Resource-access trade-off.** *Claim:* restriction can harm subsistence where it
+  removes an alternative-free livelihood. *Evidence:* protected forest/grazing/forest
+  produce access mechanism. *Significance:* supports the 2025 demand without declaring
+  conservation inherently anti-poor. *Limitation:* project displacement is a distinct
+  Topic-03 mechanism.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Distinguish poverty reduction from equality, MPI from income poverty, and programme
+  announcement from outcome.
+- ⚠️ Do not use COVID as a decorative event; show a class channel and state evidentiary
+  limits.
+- ⚠️ Do not make sustainability and poverty automatically compatible or irreconcilable.
+- **Verdict:** “Poverty is overcome when capability, security and voice are restored
+  together; growth or transfer alone can reduce one deprivation while leaving another.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2018 · GS-I · Q9 | Poverty despite eradication programmes | §13.1-13.4, T1/E1-E3 |
+| 2020 · GS-I · Q9 | COVID, class inequalities and poverty | §13.1, T2, §13.3 |
+| 2024 · GS-I · Q10 | Government-NGO-private collaboration | §13.1, E4 |
+| 2025 · GS-I · Q19 | Sustainable growth and poor needs | §13.1, T3/E5 |
+
+> **Routing correction:** Core routing supersedes older `advanced/09` pointers; Economy,
+> Governance and Social Justice retain their measurement, institution and entitlement
+> boundaries.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

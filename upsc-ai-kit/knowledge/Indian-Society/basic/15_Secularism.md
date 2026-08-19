@@ -6,7 +6,7 @@
 > **Core area:** Lived secularism as social practice — syncretism, equal public space, and
 > the Uniform Civil Code as a social (not doctrinal) debate.
 > **Grounded in:** Uniform Civil Code, Uttarakhand, 2024 and Rules, 2025 (in force since
-> 27 January 2025); 2026 Amendment Act; Places of Worship (Special Provisions) Act, 1991;
+> 27 January 2025); 2026 Amendment Ordinance (do not call it an Act without an official enacted text); Places of Worship (Special Provisions) Act, 1991;
 > no direct 2024/2025 GS-I standalone PYQ (flagged honestly).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/15_Secularism.md`.*
@@ -80,7 +80,7 @@ implementation interact; no social-practice account should replace constitutiona
 ## 4. Institutions and concepts
 
 - ✅ **Uniform Civil Code, Uttarakhand, 2024:** in force from 27 January 2025 with Rules,
-  2025; the 2026 amendment became an Act after an ordinance. It is a post-Independence
+  2025; the 2026 amendment was reported as an ordinance; this audit does not assert a later Act without an official enacted text. It is a post-Independence
   state code and a live social test case. Do not call it India's first uniform civil-law
   regime without noting Goa's distinct Portuguese Civil Code history.
 - ✅ **Places of Worship (Special Provisions) Act, 1991:** treated fully in
@@ -112,7 +112,7 @@ implementation interact; no social-practice account should replace constitutiona
 ## 6. Must-Know Facts for Prelims
 
 - ✅ The Uniform Civil Code, Uttarakhand, 2024 has been in force since 27 January 2025; its
-  Rules are from 2025 and its 2026 amendment became an Act after an ordinance.
+  Rules are from 2025 and its 2026 amendment was reported as an ordinance; this audit does not assert a later Act without an official enacted text.
 - ✅ Sarva-dharma-sama-bhava (equal respect for all faiths) is commonly cited as the
   civilisational-social basis of Indian secularism, distinct from Western church-state
   separation.
@@ -142,7 +142,7 @@ implementation interact; no social-practice account should replace constitutiona
 ## 8. 📰 Current anchor
 
 - 📰 The Uniform Civil Code, Uttarakhand, 2024 has been in force since 27 January 2025.
-  A 2026 amendment ordinance was subsequently enacted as an Amendment Act. Cite the
+  A 2026 amendment ordinance was reported; this audit does not assert a later Amendment Act without an official enacted text. Cite the
   enactment and amendment precisely; do not infer implementation success or failure from
   the amendment alone, and distinguish Uttarakhand from Goa's historical civil-code regime.
 
@@ -186,3 +186,90 @@ implementation interact; no social-practice account should replace constitutiona
   secularism as political philosophy (Bhargava, Taylor, Kymlicka).
 - ✅ `04_Family-Marriage-and-Kinship.md` — personal-law plurality's effect on
   interreligious marriage.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** This is a society owner: it explains lived coexistence, pluralism and the
+> social trade-off around reform. Constitutional doctrine and thinkers remain expressly
+> cross-linked rather than copied.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Discuss** Indian against western secularism | Model comparison without caricature | define focus -> Indian equal-respect/principled engagement -> western separation ideal type -> qualification |
+| **Name and discuss** cultural practices challenging secularism | Practice versus principle | practice -> exclusion/coercion mechanism -> rights/pluralism response -> caution |
+| **Justify** tolerance, assimilation and pluralism | Exact conceptual differentiation | define three -> Indian lived evidence -> limits -> verdict |
+| **Examine** UCC social debate | Equality/autonomy/implementation distinction | substantive equality -> community autonomy -> consultation/access -> balanced response |
+| **Explain** syncretism | Social mechanism of coexistence | shared practice/public space -> cohesion -> limits |
+
+### 13.2 Thesis bank
+
+- **T1:** ⚠️ Indian secularism is not reducible to either strict separation or state
+  patronage: its lived social expression combines equal public space, plural coexistence
+  and rights-sensitive public action.
+- **T2:** ⚠️ Tolerance permits difference, assimilation absorbs it, and pluralism enables
+  equal participation with difference; a strong answer must not use them as synonyms.
+- **T3:** ⚠️ Reform of personal-law practice is durable when individual rights and
+  community trust are considered together, with enactment kept distinct from outcome.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — Indian and western secularism (2018 GS-I).** State an ideal-type comparison:
+western church-state separation versus India’s equal-respect/context-sensitive engagement.
+Use lived syncretism/equal public space as the society leg, then state constitutional
+doctrine is owned by Polity. Add the caveat that neither model guarantees equality in
+practice.
+
+**15 marks — tolerance, assimilation and pluralism (2022 GS-I).** Define each before
+argument. Use shared shrine/festival, school/market/workplace civic interaction and
+community autonomy as social examples; explain why pluralism demands equal voice rather
+than mere non-interference. Add exclusion/segregation and coercive-practice cautions; close
+with T2.
+
+**20 marks — secularism, social reform and coexistence.** Combine lived practice,
+equal public space, UCC social trade-off and Places-of-Worship stability mechanism. Separate
+law, implementation and outcome; label cross-owner constitutional/philosophical borrowing.
+Conclude with rights-sensitive, consultative reform.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Lived coexistence.** *Claim:* secularism has an everyday social dimension.
+  *Evidence:* **Sufi-Bhakti idioms, shared shrines and regional festivals**. *Significance:*
+  supports syncretism/pluralism rather than a purely legal answer. *Limitation:* examples
+  cannot prove uniform mixing or erase communal conflict.
+- **E2 — Civic test.** *Claim:* coexistence needs equal participation. *Evidence:* equal
+  access to schools, markets, transport and workplaces. *Significance:* makes pluralism
+  observable as public-space practice. *Limitation:* this is a social standard, not proof
+  that an institution is legally compliant.
+- **E3 — Reform trade-off.** *Claim:* UCC questions engage equality and autonomy. *Evidence:*
+  **Uniform Civil Code, Uttarakhand, 2024**, in force since 27 January 2025. *Significance:*
+  gives a dated state-level social test case. *Limitation:* it is not a national UCC; any
+  2026 amendment’s enacted status and implementation outcome require official verification.
+- **E4 — Stability mechanism.** *Claim:* present order can be protected amid historical
+  dispute. *Evidence:* **Places of Worship (Special Provisions) Act, 1991**. *Significance:*
+  supports a coexistence analysis. *Limitation:* statutory exceptions and litigation status
+  require official verification; do not claim a final Court outcome.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Do not convert Indian secularism into a claim that every community practice is
+  rights-compatible, or western secularism into one uniform model.
+- ⚠️ Do not treat tolerance, assimilation and pluralism as a progression that every group
+  must follow.
+- ⚠️ Do not infer successful UCC implementation from enactment/ordinance/amendment alone.
+- **Verdict:** “A secular society is secured not by flattening difference but by making
+  equal citizenship and public participation non-negotiable while reform remains
+  rights-sensitive and consultative.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2018 · GS-I · Q10 | Indian concept against western model | §13.1-13.4, T1/E1-E2 |
+| 2019 · GS-I · Q10 | Cultural practices challenging secularism | §13.1, T1, balance bank |
+| 2019 · GS-II · Q5 | France and India | society support here; doctrine in Polity |
+| 2022 · GS-I · Q19 | Tolerance, assimilation and pluralism | §13.3, T2/E1-E2 |
+
+> **Routing correction:** Core routing supersedes old `advanced/15` pointers. Comparative
+> constitutional doctrine and political philosophy remain explicit cross-owner support.

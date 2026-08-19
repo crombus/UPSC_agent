@@ -6,8 +6,10 @@
 > qualified, defensible central argument, and mapping it into a
 > proposition → mechanism → illustration → qualification → synthesis
 > chain.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Section 6.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Section 6.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../advanced/05_Thesis-Central-Argument-and-Argument-Map.md`
@@ -70,6 +72,25 @@ governing consideration when the harm is severe. ❌ A paragraph that
 states claim and reason but never surfaces its warrant reads as assertion
 even when the reason is true, because the reader is being asked to supply
 the connecting principle themselves.
+
+## 2b. Evidence significance and rebuttal cycle
+
+⚠️ Build each major paragraph-cluster as a continuous argument:
+
+```text
+claim
+  -> reason / mechanism
+  -> named, verifiable illustration
+  -> what the illustration proves for this claim
+  -> strongest objection
+  -> concession, boundary and response
+  -> link back to the thesis
+```
+
+The concession accepts what the objection gets right; the boundary states
+where the claim stops; the response explains why the qualified claim
+still holds. An illustration is not evidence merely because it is named:
+state its significance, then its limit, before moving on.
 
 ## 3. ✅ Exam facts / source basis
 

@@ -168,10 +168,11 @@ thesis, not merely as a factual footnote.
 ## 10. 📰 Current official anchor and freshness protocol
 
 - 📰 **CWC's Flood Forecasting and Monitoring SOP (April 2026)** — the
-  correct current anchor for forecasting protocol, lead times and
-  monitoring-station status (**350 stations: 200 level-forecast, 150
-  inflow-forecast**; 24-hour statutory forecast; 7-day rainfall-runoff
-  advisory; **C-Flood** 2-day village-level inundation forecasts).
+  correct current anchor for forecasting protocol and monitoring-station
+  status (**350 stations: 200 level-forecast, 150 inflow-forecast**).
+  Lead time and C-Flood geographic/inundation coverage are service-
+  specific and dynamic; use the dated CWC SOP/service release rather
+  than a remembered nationwide claim.
 - 📰 **CWC's "Delhi Floods 2023: A Case Study" (January 2025)** — the
   correct current, rigorously documented source for Delhi 2023's
   verified features, to be used instead of general/media accounts.
@@ -182,8 +183,9 @@ thesis, not merely as a factual footnote.
   crore on a 90:10 basis**. ⚠️ Its analytical significance is that it is
   the first Indian instance of urban-flood *mitigation* being financed
   from a dedicated mitigation fund rather than from post-event relief —
-  the exact ex-ante/ex-post shift topic `16` argues for. ⚠️ The 11
-  Phase-2 city names are not officially confirmed; do not list them.
+  the exact ex-ante/ex-post shift topic `16` argues for. 📰 MHA's dated
+  February 2026 parliamentary replies identify the Phase-2 cities; cite
+  that reply if listing them, and do not turn approval into completion.
 - ❌ Do not use VisionIAS's general flood-prone-area figures (e.g. "40
   million hectares") as current without CWC/NDMA verification.
 

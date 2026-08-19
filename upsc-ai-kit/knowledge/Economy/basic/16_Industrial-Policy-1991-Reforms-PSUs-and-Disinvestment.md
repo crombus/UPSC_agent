@@ -65,12 +65,148 @@ obligations.
 
 ## 5. Indian applications and examples
 
-- ⚠️ A minority market sale broadens ownership but leaves management control with
-  government.
-- ⚠️ A strategic sale transfers control and therefore changes incentives more deeply than a
-  small disinvestment.
-- ⚠️ Removing licensing can increase entry, but a network industry still needs independent
-  regulation against monopoly pricing.
+- ✅ **Claim:** India's industrial-policy chronology moved from state-led planning to
+  selective liberalisation before the 1991 structural break. **Evidence:** The Industrial
+  Policy Resolution of 1948 assigned a mixed-economy role to the state; the Industrial
+  Policy Resolution of 1956 classified industries into Schedules A, B and C reserving the
+  commanding heights for the public sector; the New Industrial Policy of 1991 dismantled
+  most industrial licensing and opened trade and investment. **Significance:** The
+  chronology shows industrial policy responding to different constraints—state-building,
+  planned heavy industry, and a balance-of-payments crisis—rather than a single ideology.
+  **Limitation:** Treating 1991 as a clean break ignores that partial delicensing and trade
+  liberalisation had already begun in the 1980s.
+- ✅ **Claim:** The pre-1991 licence-permit-quota ("licence raj") regime constrained entry,
+  capacity and technology choice, and its removal changed competitive dynamics rather than
+  eliminating regulation altogether. **Evidence:** Industrial licensing under the Industries
+  (Development and Regulation) Act, 1951 required government approval for capacity, location
+  and expansion in most sectors before 1991. **Significance:** This explains why productivity
+  and competition responses after 1991 are attributed to entry liberalisation. **Limitation:**
+  Removing licensing did not remove the need for independent sector regulation, environmental
+  clearance or competition oversight.
+- ✅ **Claim:** Strategic disinvestment and general disinvestment are analytically distinct
+  from privatisation, and answers must not collapse the three. **Evidence:** Strategic
+  disinvestment involves transfer of a substantial government shareholding (typically a
+  controlling stake) along with management control to a private buyer, as distinct from a
+  minority-stake market sale that leaves government control intact; privatisation is the
+  broader shift of ownership/control to private hands, of which strategic disinvestment is
+  one route. **Significance:** This distinction is a recurring UPSC trap and a required
+  definitional anchor for any PSU-reform answer. **Limitation:** Government has applied
+  strategic disinvestment selectively and case-by-case decisions (sector, timing, buyer) can
+  change; do not assume every announced strategic sale is completed.
+- ✅ **Claim:** The Air India transaction is the clearest completed example distinguishing
+  strategic disinvestment from a minority sale. **Evidence:** The Union government's
+  shareholding in Air India was transferred to Talace Private Limited (Tata Sons), completing
+  in January 2022 and ending decades of state ownership since the airline's earlier
+  nationalisation. **Significance:** It demonstrates full transfer of ownership and
+  management control—true privatisation via strategic disinvestment—not a partial market
+  sale. **Limitation:** Air India's outcome (a single large, high-profile transaction) cannot
+  be generalised to smaller or loss-making CPSUs with weaker buyer interest.
+- ✅ **Claim:** The New PSE (Public Sector Enterprise) Policy reframes the state's ownership
+  role around a small list of strategic sectors rather than blanket retention. **Evidence:**
+  The policy (announced in the 2021-22 Budget) classifies sectors as strategic (bare minimum
+  CPSE presence, with the rest privatised, merged or made subsidiaries of a holding company)
+  or non-strategic (privatised or closed if not strategically viable). **Significance:** It
+  operationalises "assess PSUs enterprise by enterprise" rather than through blanket
+  ownership ideology. **Limitation:** Classification of a sector as strategic is itself a
+  policy judgment and can be contested; policy intent does not equal completed
+  implementation for every listed enterprise.
+- ✅ **Claim:** Asset monetisation is a distinct instrument from disinvestment and must not
+  be conflated with it in an answer. **Evidence:** The National Monetisation Pipeline (NMP)
+  transfers revenue/operating rights over specified brownfield public assets (roads,
+  railways, power transmission, etc.) to private parties for a fixed period, with ownership
+  reverting to the government, unlike disinvestment which sells equity/ownership stake.
+  **Significance:** This distinction is essential to avoid a common conflation error and
+  strengthens the "financing structure versus ownership change" analytical frame.
+  **Limitation:** Monetisation still transfers usage/collection rights and contingent
+  performance risk; it is not costless financing and requires credible regulatory oversight
+  of the transferred asset.
+- ⚠️ **Claim:** Industrial and disinvestment policy have uneven employment-intensity and
+  regional effects that a purely fiscal or ownership framing misses. **Evidence:** Labour-
+  intensive, geographically dispersed sectors (textiles, low-tech manufacturing) generate
+  different regional employment effects than capital-intensive, geographically concentrated
+  strategic sectors (defence production, some PSU clusters). **Significance:** This links
+  industrial policy to the jobs-and-regional-balance dimension of the topic mechanism.
+  **Limitation:** Employment-intensity data by sector and region needs a dated official
+  source before being cited numerically in an answer.
+- ✅ **Claim:** India's Five-Year Plans shifted their industrial and financial-sector thrust
+  across distinct phases, and naming the correct phase-thrust pairing (not a single
+  undifferentiated "planning era") is the precise 2019 Prelims demand. **Evidence:** The
+  Second Plan (1956-61, built on the Mahalanobis strategy) prioritised heavy and basic
+  industries under public-sector leadership and import-substituting industrialisation,
+  with the financial sector largely confined to state-directed, development-bank-led
+  industrial finance; the Sixth Plan (1980-85) emphasised modernisation, productivity and
+  a first, limited loosening of industrial regulation; the Seventh Plan (1985-90) pushed
+  technology upgradation, capacity utilisation and export growth with early delicensing
+  steps and growing recognition of the private sector; systemic financial-sector
+  deregulation — interest-rate liberalisation, reduced SLR/CRR pre-emption, and
+  capital-market/regulatory reform including SEBI's establishment — followed only from the
+  Eighth Plan (1992-97) alongside industrial delicensing under the New Industrial Policy,
+  1991. **Significance:** This equips a "match the Plan to its industrial/financial-sector
+  thrust" objective item with the correct phase-by-phase distinction. **Limitation/status
+  caution:** Plan documents state strategic intent; actual implementation pace (delicensing
+  coverage, depth of bank reform) varied by sector and period and should not be read as
+  uniformly or fully achieved within each Plan's official term.
+- ✅ **Claim:** Coal-sector regulation has a dedicated statutory office distinct from the
+  coal-producing PSUs themselves, and its functions are a recurring objective-question
+  target. **Evidence:** The Coal Controller's Organisation (CCO), a subordinate office
+  under the Ministry of Coal headquartered in Kolkata, approves mining and mine-closure
+  plans under the Mines and Minerals (Development and Regulation) Act, 1957, regulates the
+  opening/reopening of coal mines and adjudicates coal-grading/quality disputes under the
+  Colliery Control Rules, compiles official coal statistics (including the Coal Directory
+  of India) under the Collection of Statistics Act, 2008, and acts as Commissioner of
+  Payment under the Coal Mines (Special Provisions) Act, 2015. **Significance:** This
+  distinguishes CCO's statutory/regulatory role from Coal India Limited's production role —
+  the precise distinction tested by the 2022 Prelims item — and cross-refers to the
+  dedicated energy-infrastructure Core owner
+  (`31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md`) for coal-sector
+  economics generally, without repeating that file's content here. **Limitation:** CCO is a
+  subordinate office operating under delegated rules and ministerial direction, not an
+  autonomous statutory regulator created by its own standalone parent Act.
+- ✅ **Claim:** Corporate Social Responsibility (CSR) in India is a statutory spending
+  obligation on qualifying companies, not a voluntary gesture or an ordinary tax, and it
+  sits alongside PSU/industrial-policy governance as a distinct corporate-governance
+  obligation. **Evidence:** Section 135 of the Companies Act, 2013 (with the Companies
+  (CSR Policy) Rules) requires every company meeting a prescribed net-worth, turnover or
+  net-profit threshold in the immediately preceding financial year to constitute a CSR
+  Committee of the Board (where the CSR obligation exceeds a prescribed annual amount) and
+  to ensure the company spends at least a prescribed minimum percentage of its average net
+  profit of the preceding three financial years on Schedule VII-listed CSR activities; the
+  Board of Directors is statutorily responsible for approving the CSR policy, ensuring the
+  prescribed amount is spent or unspent amounts are transferred/carried forward as
+  prescribed, and disclosing reasons for any shortfall in the Board's Report — CSR
+  compliance is a Board-owned governance duty, not a finance-department bookkeeping entry.
+  **Significance:** This equips the routed "CSR rules in India" objective item with the
+  applicability trigger (net worth/turnover/net profit, any one), the spending obligation
+  (percentage of three-year average net profit under Section 198), the CSR-Committee
+  threshold, Board responsibility, and Schedule VII scope as independently testable
+  statement-level facts. **Limitation/status caution:** the specific net-worth, turnover,
+  net-profit and CSR-Committee thresholds, and the minimum-spend percentage, are set by
+  statute/rules that have been amended before and were, as of the 2025 Companies
+  (Amendment) Bill, proposed for further revision (including a proposed lowering of the
+  applicability thresholds); treat any specific rupee-crore or percentage figure as
+  requiring verification from the current, dated Companies Act/MCA-rules text rather than
+  citing a fixed number from memory, and never assume CSR is an ordinary tax or a fully
+  discretionary corporate donation.
+
+## Core limitations and trade-offs
+
+- ⚠️ Disinvestment proceeds are one-off capital receipts; treating them as a recurring
+  fiscal solution risks masking the need for structural revenue or expenditure reform.
+- ⚠️ Strategic sales concentrate transaction risk (valuation, buyer availability, employee
+  transition) in a small number of large, politically salient deals, unlike diversified
+  minority-stake sales.
+- ⚠️ The New PSE Policy's "bare minimum presence" principle for strategic sectors can create
+  prolonged ambiguity for enterprises awaiting classification or a buyer, harming their
+  investment and morale in the interim.
+- ⚠️ Asset monetisation shifts near-term revenue collection to private operators; if
+  regulatory oversight or contract design is weak, user charges or service quality can
+  suffer even though ownership formally remains public.
+- ⚠️ Removing licensing intensified competition but did not automatically build countervailing
+  institutions (product/environmental standards, competition enforcement) at the same pace in
+  every sector, creating regulatory gaps.
+- ⚠️ Capability-focused industrial policy (PLI-style, strategic-sector support) risks
+  favouring large incumbents with capacity to meet eligibility conditions over smaller,
+  employment-intensive units, cutting against the regional and employment-balance objective.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -86,6 +222,22 @@ obligations.
 - ✅ Competition policy remains necessary after removing entry controls.
 - ✅ Modern industrial policy often targets capabilities, infrastructure, technology and
   supply-chain resilience.
+- ✅ India's Five-Year Plans had distinct industrial/financial-sector thrusts: the Second
+  Plan (heavy/basic industries, public-sector-led, state-directed finance), the Sixth and
+  Seventh Plans (modernisation, productivity, early delicensing steps), and systemic
+  financial-sector deregulation (interest rates, SLR/CRR, SEBI) only from the Eighth Plan
+  alongside the New Industrial Policy, 1991.
+- ✅ The Coal Controller's Organisation (CCO), under the Ministry of Coal, approves mining/
+  mine-closure plans, regulates mine opening/reopening and coal-grading disputes, compiles
+  official coal statistics, and acts as Commissioner of Payment under the Coal Mines
+  (Special Provisions) Act, 2015 — a statutory/regulatory role distinct from Coal India
+  Limited's production role.
+- ✅ CSR under Section 135 of the Companies Act, 2013 applies to companies crossing a
+  prescribed net-worth, turnover or net-profit threshold (any one), requires a minimum
+  spend of a prescribed percentage of average net profit of the preceding three years on
+  Schedule VII activities, and makes the Board of Directors responsible for the CSR policy
+  and for disclosing reasons for any shortfall — CSR is a statutory Board duty, not a
+  voluntary gesture or an ordinary tax.
 
 ## 7. UPSC traps
 
@@ -98,6 +250,17 @@ obligations.
   can support both resilience and exports.
 - ❌ Industrial policy is only subsidies. -> Standards, infrastructure, skills, procurement
   and competition also matter.
+- ❌ Every Five-Year Plan had an identical industrial/financial-sector thrust. -> The
+  thrust shifted across phases (heavy-industry/public-sector-led, then modernisation and
+  early delicensing, then systemic financial-sector deregulation from the Eighth Plan).
+- ❌ The Coal Controller's Organisation is the same as Coal India Limited. -> CCO is a
+  statutory/regulatory subordinate office under the Ministry of Coal; Coal India Limited is
+  the production PSU it does not own or operate.
+- ❌ CSR is a voluntary donation left entirely to a company's discretion, or it is just
+  another tax collected by government. -> It is a statutory Board-owned spending obligation
+  under Section 135 of the Companies Act, 2013 once a company crosses the prescribed
+  applicability threshold, spent on Schedule VII activities — not a tax remitted to the
+  exchequer and not optional once the threshold is crossed.
 
 ## 8. 📰 Economic Survey 2025-26 / current anchor
 
@@ -116,6 +279,12 @@ fiscal reform or enterprise-level productivity improvement.
   industrial policy.
 - ⚠️ Industry PYQs increasingly test rationale, implementation and measurable outcomes
   rather than slogans.
+- ⚠️ 2019 Prelims: Five-Year Plans' industrial/financial-sector thrust — answer with the
+  phase-by-phase distinction in Section 5 (Second Plan through Eighth Plan) rather than
+  treating planning as one undifferentiated era.
+- ⚠️ 2022 Prelims: Coal Controller's Organisation's statutory role — answer with the named
+  functions in Section 5, distinguishing CCO's regulatory role from Coal India Limited's
+  production role.
 
 ## 10. Mains angles
 
@@ -135,6 +304,42 @@ fiscal reform or enterprise-level productivity improvement.
   regulation?
 - ⚠️ **Mains (15 marks):** Compare the command-and-control industrial regime with India's
   emerging strategic-capability approach.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+**Directive decoder**
+- "Trace/Discuss the evolution of industrial policy" -> requires the 1948-1956-1991
+  chronology with the specific rationale of each phase, not just dates.
+- "Distinguish disinvestment, strategic disinvestment and privatisation" -> requires precise
+  definitions plus a named example (Air India) showing where control changed hands.
+- "Critically examine PSU reform / New PSE Policy / asset monetisation" -> requires the
+  policy's design logic, a completed or in-progress example, and an explicit limitation —
+  never description alone.
+
+**Evidence chain** (claim -> named evidence -> significance -> limitation)
+Use the Section 5 bank: chronology questions draw on the 1948/1956/1991 units; ownership-
+concept questions draw on the strategic-disinvestment/Air India/NMP units; jobs-and-regional
+questions draw on the employment-intensity unit.
+
+**Counter-evidence and balance**
+Every ownership-change claim must be paired with its Core-limitation caution (one-off
+receipts, classification ambiguity, regulatory-gap risk) to avoid a one-sided answer.
+
+**10/15/20-mark scaling**
+- 10 marks (~150 words): thesis + 2-3 evidence units (e.g., 1991 rationale + Air India) +
+  one limitation + verdict.
+- 15 marks (~250 words): thesis + phase-by-phase or ownership-spectrum structure
+  (licensing -> delicensing -> disinvestment -> strategic sale -> monetisation) + 4-5
+  evidence units + counter-evidence + verdict.
+- 20 marks (~250-300 words): add a comparative dimension (command-and-control regime versus
+  strategic-capability approach, or disinvestment versus monetisation as financing tools) +
+  5-7 evidence units + explicit trade-offs + a fully reasoned verdict.
+
+**Reasoned verdict template**
+"Industrial policy has shifted from licensing-based control to competition-and-capability
+management, and PSU reform (Air India-style strategic disinvestment, the New PSE Policy,
+asset monetisation) shows ownership change is only one lever — therefore [qualify with the
+specific regulatory/fiscal/employment condition the question asks about]."
 
 ## 12. Study links
 

@@ -33,9 +33,8 @@ Practice Rubric, not UPSC's official rubric**.
 ## 2. Concept definition and taxonomy
 
 - **Core scorecard (0–4 × 7 = /28):** relevance, depth, coherence,
-  evidence, originality, balance, language — as defined in `basic/15`,
-  restated here as the **Internal Essay Practice Rubric — not UPSC's
-  official rubric.**
+  evidence, originality, balance, language — using `basic/15`'s
+  paragraph-evidenced 0–4 anchors, never as an official mark.
 - **Supplementary flags (not scored, tracked separately):** word-range
   estimate, choice quality, topic-drift instances, factual-risk count,
   quotation-risk count, time used per phase.
@@ -95,9 +94,9 @@ official rubric.**
 
 ## 7. Necessary/sufficient conditions and exceptions
 
-⚠️ At least three timed attempts are typically necessary before a
-"consistently low" dimension can be identified with any confidence; a
-single attempt is not sufficient evidence of a stable weakness.
+⚠️ `basic/15`'s three-attempt tracker is the minimum before a
+"consistently low" dimension can be identified with confidence; a single
+attempt is not sufficient evidence of a stable weakness.
 **Exception:** a glaring, self-evident failure (e.g. a completely
 one-sided essay with no counter-view at all, `08`) can be flagged and
 addressed immediately, without waiting for a longitudinal pattern.
@@ -124,12 +123,11 @@ Rubric — not UPSC's official rubric.**
 
 ## 10. Evidence/source-risk and India application
 
-⚠️ The "factual-risk count" and "quotation-risk count" supplementary
-flags (Section 2) should be cross-checked directly against `09`'s
-evidence-discipline rules and `12`'s illustration-bank limitations —
-any invented statistic or unverified attribution found during
-self-evaluation should be logged as a risk instance, not silently
-corrected without noting the pattern.
+⚠️ The factual-risk, quotation-risk and phase-timing flags in
+`basic/15` Section 11 should be cross-checked directly against `09`,
+`12` and `13`. Any invented statistic, unverified attribution or missed
+Essay 2 cap is logged as a risk instance, not silently corrected without
+noting the pattern.
 
 ## 11. Advanced structure, paragraph sequencing and style
 
@@ -156,10 +154,10 @@ log.
 📰 **Dated anchor:** not applicable — self-evaluation method is stable
 and does not depend on current-affairs content.
 
-**Practice lab:** Score your most recent practice essay against
-`basic/15`'s seven dimensions and this file's supplementary flags,
-explicitly labelling the output as the **Internal Essay Practice
-Rubric — not UPSC's official rubric** in your own notes.
+**Practice lab:** Score both essays from your most recent complete mock
+with `basic/15`'s anchored table, paragraph evidence and Section 11
+audit. Label the output **Internal Essay Practice Rubric — not UPSC's
+official rubric**.
 
 **Transfer task:** After two further timed attempts (`16`), compile a
 three-attempt longitudinal comparison (Section 6) and identify one

@@ -32,7 +32,7 @@ and **stress-testing the option against the text** - never by outside knowledge.
 | Pair | The difference that decides the answer |
 |---|---|
 | ✅ **Inference vs Assumption** | Inference = a **new** statement forced by the text (a *conclusion*). Assumption = an **unstated premise** the argument already **needs** (a *foundation*). |
-| ✅ **Inference vs Implication** | Both follow from the text; UPSC often uses them interchangeably. Test both the same way: **must it be true given the passage?** |
+| ✅ **Inference vs Implication** | Both must be text-defensible. For a strict “must follow” stem, it must be entailed; for “best/most logical”, prefer the conclusion requiring the fewest extra assumptions. |
 | ✅ **Implication vs Equivalence** | A passage that says `A -> B` has **not** said `B -> A`. Only an "if and only if" (or an explicit definition) licenses the reverse. A reversed option is a **distortion**, not an inference. |
 | ✅ **Necessary vs Sufficient** | "Necessary" = the claim fails without it; "sufficient" = it settles the claim. A passage saying "X is necessary but not enough" rules out both "X is useless" and "X guarantees the outcome". |
 | ✅ **Central idea vs Detail** | Central idea spans the **whole** passage; a detail is one supporting sentence. A detail option is a classic main-idea distractor. |
@@ -217,7 +217,8 @@ overshoots ("hostile/dismissive").
      adding little; it never says every high-average school does. Turning "can" into "must" reverses a
      one-way claim into an equivalence - the classic **implication-vs-equivalence** distortion.
    - **3 - supported.** "A struggling child lowers the average" entails that removing or discouraging
-     such children raises it. That is the **contrapositive-style** move the passage itself relies on.
+     such children raises it. That is a **direct average consequence**, not a contrapositive: a
+     contrapositive of `A -> B` would be `not B -> not A`.
 
    ⚠️ Note the economy of this format: settling statement 2 alone kills options (c) and (d), and
    settling statement 3 then decides between (a) and (b). **You rarely need all three.**

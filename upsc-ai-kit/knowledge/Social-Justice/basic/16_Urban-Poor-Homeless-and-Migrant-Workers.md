@@ -6,8 +6,8 @@
 > street-vendor livelihoods, ration portability.
 > **Grounded in:** DAY-NULM (Shelter for Urban Homeless, MoHUA); PM SVANidhi (2020);
 > Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014;
-> Code on Occupational Safety, Health and Working Conditions, 2020 (enacted,
-> notification-dependent commencement); Inter-State Migrant Workmen Act, 1979;
+> Code on Occupational Safety, Health and Working Conditions, 2020 (commenced
+> 21 November 2025); repealed Inter-State Migrant Workmen Act, 1979;
 > ONORC (cross-link Topic 02); 2024 GS-I PYQ (migration to large cities); 2025 GS-I PYQ
 > (smart city and urban poverty).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
@@ -68,9 +68,10 @@ combination and ONORC address these distinct but intersecting vulnerabilities.
 | ✅ **DAY-NULM** | Deendayal Antyodaya Yojana - National Urban Livelihoods Mission (MoHUA); provides livelihood support (self-employment, skill training, SHG-based urban livelihood) and the Shelter for Urban Homeless (SUH) component for urban poor. |
 | ✅ **Shelter for Urban Homeless (SUH)** | DAY-NULM component providing permanent all-weather shelters with 24x7 access, bedding, water/sanitation and referral linkages to health/skill/livelihood services for the urban homeless population. |
 | ✅ **PM SVANidhi (2020)** | PM Street Vendor's AtmaNirbhar Nidhi — launched during COVID-19 recovery; provides collateral-free working-capital micro-loans to street vendors in escalating tranches (initial loan, higher-value renewal contingent on timely repayment), with interest subsidy and digital-payment cashback incentive. |
+| ✅ **PMAY-U 2.0 (2024)** | Urban housing mission with Beneficiary-Led Construction, Affordable Housing in Partnership, Affordable Rental Housing and Interest Subsidy Scheme. Under ISS, eligible EWS/LIG/MIG households can receive 4% subsidy on the first ₹8 lakh of a qualifying loan, with maximum actual subsidy ₹1.80 lakh subject to conditions. Sanction is not a completed, occupied house. |
 | ✅ **ONORC** | One Nation One Ration Card — enables portability of NFSA entitlements across states using Aadhaar-seeded ration cards and ePoS machines; critical for migrant workers whose seasonal/circular migration disrupts fixed-ration-shop access. |
 | ✅ **Street Vendors Act, 2014** | The Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act recognises vending as a regulated livelihood, provides Town Vending Committees, surveys/certificates of vending, vending plans and procedural safeguards against eviction. PM SVANidhi credit does not replace these legal protections. |
-| ✅ **OSHWC Code, 2020 and migrant law status** | The Code is enacted and contains a revised inter-State migrant-worker framework, but commencement is notification-dependent. As at 21 July 2026, do not claim it has universally replaced the Inter-State Migrant Workmen Act, 1979; cite the applicable commencement and State/legacy law. |
+| ✅ **OSHWC Code, 2020 and migrant law status** | The Code commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979. Final Central Rules followed in May 2026; State rules and enforcement still matter because labour is concurrent. |
 | ⚠️ **Houseless vs slum-dwelling** | Houseless/roofless persons have no shelter at all (pavement dwellers); slum-dwellers have shelter but in informal settlements with tenure insecurity and inadequate services — distinct categories of housing deprivation. |
 | ⚠️ **Circular/seasonal migration** | Migration patterns where workers move repeatedly between origin (often rural) and destination (often urban) in response to seasonal labour demand — disrupts fixed-entitlement models. |
 
@@ -91,11 +92,9 @@ combination and ONORC address these distinct but intersecting vulnerabilities.
 4. **ONORC portability:** A migrant worker with an Aadhaar-seeded ration card can draw
    NFSA foodgrain entitlement at any ePoS-enabled Fair Price Shop across states; this
    addresses the portability barrier for seasonal/circular migrants.
-5. **Migrant-worker legal route:** The enacted OSHWC Code contains a revised migrant-worker
-   architecture, but its broad nationwide commencement must not be presumed. Until an
-   applicable provision is commenced, trace registration, displacement/journey allowance
-   and equal-treatment claims through the Inter-State Migrant Workmen Act, 1979 and
-   applicable State implementation; cross-link `basic/15` and `Economy/basic/22`.
+5. **Migrant-worker legal route:** Use the commenced OSHWC Code for registration,
+   journey allowance and equal-treatment architecture, then test applicable Central/State
+   rules and actual enforcement; cross-link `basic/15` and `Economy/basic/22`.
 
 ## 4. Institutions and tools
 
@@ -108,9 +107,8 @@ combination and ONORC address these distinct but intersecting vulnerabilities.
   credit.
 - ✅ **ONORC (cross-link `basic/02`):** Portability mechanism under NFSA; depends on
   Aadhaar-seeding and ePoS infrastructure; full national rollout achieved.
-- ✅ **OSHWC Code, 2020:** enacted migrant-worker framework with notification-dependent
-  commencement. Do not say it has universally subsumed the 1979 Act without a specific
-  operative notification.
+- ✅ **OSHWC Code, 2020:** commenced migrant-worker framework; the 1979 Act was repealed.
+  State-rule and implementation variation remains relevant.
 - ⚠️ Cross-link `Governance/basic/04_NGOs-SHGs-and-Civil-Society-Stakeholders.md` —
   SHG-based livelihood and social-capital concepts applicable to DAY-NULM's urban SHGs.
 
@@ -152,6 +150,13 @@ distributive justice?"
   targeting of slums, homeless shelters and migrant-worker services within smart-city
   plans.
 
+- ✅ **Scale anchor:** Census 2011 counted about 65.5 million people in slums, around
+  17.4% of the urban population. It does not include every informal renter, homeless
+  person or unnotified settlement.
+- ⚠️ **Housing evaluation:** PMAY-U 2.0 covers ownership, partnership, rental and credit,
+  but land, beneficiary contribution, tenure documents, location and occupancy determine
+  whether a sanctioned unit reduces deprivation.
+
 ## 6. Must-Know Facts for Prelims
 
 - ✅ DAY-NULM is implemented by the Ministry of Housing and Urban Affairs; its Shelter
@@ -160,9 +165,8 @@ distributive justice?"
   vendors with an interest subsidy and digital-payment cashback.
 - ✅ ONORC enables NFSA entitlement portability across states using Aadhaar-seeded ration
   cards and ePoS machines.
-- ✅ The OSHWC Code, 2020 contains a migrant-worker framework, but its commencement must
-  be distinguished from enactment; the 1979 Act remains relevant where replacement
-  provisions are not operative.
+- ✅ The OSHWC Code commenced on 21 November 2025 and repealed the 1979 Act; distinguish
+  central legal commencement from State-rule and enforcement completeness.
 
 ## 7. UPSC traps
 
@@ -182,9 +186,8 @@ distributive justice?"
 ## 8. 📰 Current anchor
 
 - 📰 **Status check (21 July 2026):** PM SVANidhi disbursement and SUH shelter counts are
-  dynamic dashboard outputs. The OSHWC Code must be described as enacted with
-  notification-dependent commencement, not as universally in force; pair migrant welfare
-  with ONORC and the applicable legacy/State labour route.
+  dynamic dashboard outputs. Pair the commenced OSHWC migrant architecture with ONORC
+  and applicable Central/State rules and enforcement.
 - ✅ 2024 GS-I PYQ and 2025 GS-I PYQ (cited above) provide direct exam anchors for
   migration and smart-city-urban-poverty questions.
 
@@ -220,6 +223,17 @@ distributive justice?"
   poverty and distributive justice? *(2025 GS-I PYQ)*
 - ⚠️ **Mains (15 marks):** Examine the welfare architecture for urban homeless and
   migrant workers in India with reference to DAY-NULM and ONORC.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+**10 marks:** distinguish homelessness, slums, vending and circular migration; one legal
+and two delivery anchors. **15 marks:** tenure, livelihoods, portable food/social
+security, labour protection, shelter and governance. **20 marks:** origin distress,
+intermediation, rental housing, segregation, gender/child risk, fiscal federalism and
+migrant voice; qualify authentication/document exclusion.
+
+> **Reasoned verdict:** Urban inclusion needs portable person-based entitlements and
+> place-based housing, services and livelihood rights.
 
 ## 12. Study links
 

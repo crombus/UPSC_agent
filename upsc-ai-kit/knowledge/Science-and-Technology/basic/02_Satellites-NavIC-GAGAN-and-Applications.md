@@ -140,6 +140,27 @@ GAGAN = SBAS -> corrects/augments GPS for aviation accuracy + integrity
 - ✅ `03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md` - mission-side extension of India’s space capability beyond applications satellites.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` - future secure timing, positioning and strategic technology intersections.
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launch-vehicle choice and cadence constraints that govern constellation replenishment.
+## Core answer architecture — satellite services, PNT and adoption
+
+**Thesis choice.** India’s satellite strength lies in a layered service architecture; a constellation, an augmentation system and a downstream application must never be treated as the same capability.
+
+**10-mark spine.** Classify the service (Earth observation, communication, meteorology, PNT or augmentation), explain the signal/data path in one line, name the institution/user, then state the adoption or integrity constraint.
+
+**15/20-mark spine.** Organise as **space/ground/user segments → developmental and strategic applications → institutional interoperability → resilience and access limits**. A comparison answer must put NavIC and GAGAN in distinct columns before discussing their complementarity.
+
+**Evidence units.**
+- **Claim:** Sovereign PNT reduces dependence at a strategic layer → **NavIC/IRNSS provides regional positioning, navigation and timing; SPS is open while RS is encrypted for authorised users** → timing and location services can support transport, fisheries, disaster response and critical networks → **qualification:** a launched satellite is not necessarily a functional PNT satellite, so constellation health needs a dated statement.
+- **Claim:** Safety-critical aviation needs more than a position signal → **GAGAN, jointly developed by ISRO and AAI, broadcasts GPS correction and integrity information as an SBAS** → integrity alerts make aviation navigation safer than raw standalone positioning → **qualification:** GAGAN augments GPS; it is not an Indian navigation constellation or a replacement for NavIC.
+- **Claim:** Satellite public value depends on conversion of data into decisions → **Resourcesat/Cartosat, INSAT/GSAT and INSAT-3D family support agriculture, mapping, communication and weather warnings** → applications make orbital infrastructure visible in governance outcomes → **qualification:** cloud cover, revisit, ground processing, receiver standards and departmental uptake can constrain benefit.
+
+**Verdict.** The correct policy metric is reliable, inclusive downstream use and resilient ground/user infrastructure, not a raw count of satellites launched.
+
+## Routed PYQ evidence — navigation, space weather and PNT use
+
+- **PNT application test:** a GNSS/NavIC receiver supplies position, navigation and timing. Location/time can support transport, fleet management, telecom synchronisation, financial-network time-stamping and power-grid coordination; do **not** say that a navigation satellite itself performs a banking transaction or controls a grid.
+- **Space-weather test:** solar flares/coronal activity can disturb the ionosphere and hence GNSS propagation, radio communication and satellite operations; geomagnetically induced effects can also stress ground power systems. Aurora is an atmospheric light phenomenon, not a navigation service.
+- **Constellation test:** GPS, GLONASS, Galileo and BeiDou are global systems; NavIC is India’s regional system. GAGAN is a GPS augmentation system. A country’s independent navigation capability, an SBAS and a satellite launch record are different propositions.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

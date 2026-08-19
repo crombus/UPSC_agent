@@ -5,7 +5,7 @@
 > **Core area:** Testing a thesis against its strongest objection and
 > resolving the tension into a genuine synthesis, rather than an
 > unresolved "on the other hand."
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Section 6.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -96,6 +96,29 @@ test of balanced judgement.
 | 2024-B8 "Cost of being wrong… less than doing nothing." | Some errors are irreversible and catastrophic (e.g. safety, ecological harm) | Prefer reversible, safeguarded experimentation; apply precaution where harm is irreversible |
 | 2025-A2 "Supreme art of war… without fighting." | Deterrence sometimes requires credible capability, not persuasion alone | Peace built on both preparedness and diplomacy, not diplomacy alone |
 | 2024-A4 "The doubter is a true man of science." | Excessive doubt can become denialism or paralysis | Doubt must be disciplined — falsifiable, evidence-seeking, time-bound |
+
+### Two complete mini-cycles
+
+**Cycle 1 — “The cost of being wrong is less than the cost of doing
+nothing.”**
+
+| Move | Prose-ready content |
+|---|---|
+| Claim | A public problem should ordinarily invite safeguarded action rather than indefinite delay when the action can generate feedback and be corrected. |
+| Evidence | The nationwide sanitation-behaviour campaigns associated with Swachh Bharat Mission are a candidate-recalled illustration of large-scale civic mobilisation; verify its exact facts before live use (`12`). |
+| Counterclaim | Scale can magnify a mistaken intervention: participation or an announced goal does not establish uniform outcomes everywhere. |
+| Switching condition | Prefer a pilot, phased roll-out, independent review and correction where harms are observable and reversible; apply precaution where foreseeable harm is irreversible or concentrated on people unable to bear it. |
+| Synthesis | The relevant contrast is not action versus inaction, but accountable learning versus reckless or paralysed administration. |
+
+**Cycle 2 — “Forests precede civilizations and deserts follow them.”**
+
+| Move | Prose-ready content |
+|---|---|
+| Claim | Ecological restraint is a productive condition of long-run civilisation, not a sentimental refusal of development. |
+| Evidence | The Chipko movement, a locally verified 1970s Himalayan forest-protection movement, shows that communities can contest extraction whose costs they bear (`12`). |
+| Counterclaim | A single local movement cannot prove that communities alone can reverse every extractive pressure or meet every development need. |
+| Switching condition | Community restraint should govern where local ecological loss is immediate and cumulative; wider public capacity is required where livelihoods, infrastructure and interregional costs must be reconciled. |
+| Synthesis | Durable development combines locally visible ecological limits with institutions capable of sharing the costs of respecting them. |
 
 ## 7. India-first illustration starters
 

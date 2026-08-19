@@ -13,7 +13,13 @@ CĀRVĀKA (Lokāyata)
 │  ├─ Only pratyakṣa (pratyaksha, perception) is a pramāṇa
 │  ├─ Anumāna (anumana, inference) rejected as uncertain
 │  ├─ Śabda (sabda, testimony) rejected as derivative/unreliable
-│  └─ Key issue = vyāpti (vyapti, invariable concomitance) cannot be secured
+│  ├─ Key issue = vyāpti (vyapti, invariable concomitance) cannot be secured
+│  ├─ Moderate reading: lokasiddha (world-established) inference may guide practice
+│  └─ Radical wing: Jayarāśi dissolves even pramāṇa-definitions
+│
+├─ INTERNAL DIVERSITY
+│  ├─ Dogmatic empiricist-materialist wing: perception + four elements
+│  └─ Sceptical wing: no pramāṇa or tattva is finally established
 │
 ├─ METAPHYSICS
 │  ├─ Only four bhūtas (bhutas): earth, water, fire, air
@@ -158,6 +164,8 @@ CĀRVĀKA (Lokāyata)
 
 **Cārvāka-style reply.** ⚠️ A moderate reconstruction says the thesis should be read not as an absolute universal but as a warning that inference never yields apodictic certainty beyond verification. That reduces, though does not fully remove, the force of self-refutation.
 
+**Jayarāśi nuance.** ⚠️ The charge bites hardest against the **dogmatic** Cārvāka who positively asserts “perception alone is pramāṇa” and “four elements alone are tattvas.” The sceptical Jayarāśi-style reply is stronger: his arguments are **ad hominem / prasaṅga** (prasanga, internal consequence) critiques using the opponent’s own definitions, so he need not assert a competing pramāṇa-theory. This resembles the Madhyamaka strategy associated with Nāgārjuna’s “no thesis” stance. ⚠️ Residual worry: even a purely destructive dialectic may covertly assert that destructive reasoning is reliable.
+
 ### 1.7 Lokasiddha inference: practical acceptance, philosophical restriction ⚠️
 
 **Statement.** ⚠️ Many scholars distinguish between the Cārvāka’s rejection of **pāramārthika** or transcendence-bearing inference and a grudging acceptance of **vyāvahārika / laukika** everyday inference.
@@ -178,6 +186,69 @@ CĀRVĀKA (Lokāyata)
 **Objection.** ✅ This seems inconsistent: if inference is admitted in one domain, why not in another?
 
 **Reply.** ⚠️ The Cārvāka can answer that worldly inference remains corrigible by perception, whereas transcendental inference lacks any possible perceptual check.
+
+
+## 1A. JAYARĀŚI BHAṬṬA AND THE SCEPTICAL WING ❓/⚠️
+
+### 1A.1 Who and what: *Tattvopaplavasiṃha*
+
+**Statement.** ❓ Jayarāśi Bhaṭṭa is the author of the *Tattvopaplavasiṃha* (“The Lion that Devours All Principles” / “The Lion Overturning All Categories”). The work is the only surviving text usually classified with the Cārvāka/Lokāyata stream, but it is a text of radical scepticism rather than positive materialism.
+
+**Argument.** ⚠️
+1. The standard doxographical Cārvāka affirms perception as the sole pramāṇa and four perceptible elements as the basic tattvas.
+2. Jayarāśi does not build that positive materialist system.
+3. He examines rival definitions of pramāṇa and tattva and tries to show that each collapses.
+4. Therefore his importance is not that he proves materialism, but that he radicalizes the anti-dogmatic edge of Lokāyata.
+
+**Presupposition.** ❓ The classification itself is cautious: Jayarāśi is commonly discussed with Cārvāka/Lokāyata, but whether he represents the school’s central doctrine or an allied sceptical current remains contested.
+
+**Distinction.** ✅ The ordinary syllabus Cārvāka is **empiricist-materialist**; Jayarāśi is **dialectical-sceptical**. Confusing the two makes the answer either too crude or too sceptical.
+
+**Example.** ✅ A standard answer may say “Cārvāka accepts pratyakṣa alone.” A higher answer adds: “Jayarāśi, however, presses the critique further and asks whether even perception can be successfully defined as a pramāṇa.”
+
+**Objection.** ✅ If Jayarāśi destroys even perception, he is no longer Cārvāka.
+
+**Reply.** ❓ That is exactly why he must be introduced carefully: he is best used as evidence of a sceptical wing or allied Lokāyata tendency, not as proof that all Cārvākas denied every pramāṇa.
+
+### 1A.2 What Jayarāśi actually argues
+
+**Statement.** ✅ Jayarāśi’s method is destructive and dialectical: he takes each rival school’s definition of a pramāṇa or category and shows that it is too wide, too narrow, circular, or dependent on what it is meant to prove.
+
+**Argument.** ✅
+1. If Nyāya defines perception, one can ask whether the definition excludes illusion, doubt, and indeterminate awareness without smuggling in further criteria.
+2. If inference is defined through vyāpti, one can ask how vyāpti itself is known without circularity or regress.
+3. If testimony is defined through a reliable speaker, one can ask how reliability is known without inference or prior testimony.
+4. If categories are defined, one can ask whether their marks capture all and only the intended cases.
+5. Hence no pramāṇa can be shown to be a pramāṇa, and no **tattva** (principle/category) is finally established.
+
+**Presupposition.** ⚠️ The sceptical pressure point is definitional adequacy: a pramāṇa must be identifiable without relying on the very cognitive authority it is supposed to certify.
+
+**Distinction.** ✅ This conclusion is not “perception alone is valid.” It is more radical: “even the claim that perception is valid cannot be finally established.”
+
+**Example.** ✅ Against inference, Jayarāśi-style criticism does not merely say “smoke may lack fire.” It asks whether the very definition of invariable concomitance can be known without already trusting inference.
+
+**Objection.** ✅ If no pramāṇa is established, all debate and ordinary life should stop.
+
+**Reply.** ⚠️ Jayarāśi’s reported closing attitude is that when principles are overturned, **lokavyavahāra** (ordinary worldly transaction) can continue unfounded but undisturbed. One can eat, speak, bargain, and avoid danger without claiming metaphysical foundations. Flag for comparison: this resembles, without being identical to, the Pyrrhonist relation between suspension of judgement and continuation of everyday life.
+
+### 1A.3 Exam significance: internal tension inside Cārvāka
+
+**Statement.** ⚠️ Jayarāśi shows that Cārvāka/Lokāyata is not a single dogmatic materialism; it contains a tension between a dogmatic empiricist-materialist wing and a sceptical wing.
+
+**Argument.** ⚠️
+1. The dogmatic wing affirms pratyakṣa, four bhūtas, dehātmavāda, and bhūta-caitanya.
+2. The sceptical wing dissolves even perception, elements, and categories as established tattvas.
+3. Therefore the school can answer some objections in two different voices.
+4. Against Nyāya, the dogmatic wing says “inference fails; perception remains.”
+5. Jayarāśi’s wing says “your own definitions fail; I need not offer a rival theory.”
+
+**Presupposition.** ❓ Because the materialist primary corpus is lost and Jayarāśi’s exact school-affiliation is debated, the safest language is “Cārvāka/Lokāyata stream” or “sceptical wing associated with Lokāyata,” not “the official Cārvāka doctrine.”
+
+**Example.** ✅ In a 20-marker on self-refutation, add one line: “The objection is strongest against the dogmatic Cārvāka, but Jayarāśi’s prasaṅga-style scepticism can reply that it only exposes the opponent’s failures from within.”
+
+**Objection.** ✅ Does prasaṅga-style critique really avoid self-refutation?
+
+**Reply.** ⚠️ It reduces the burden because no positive pramāṇa-thesis is asserted. Yet the residual worry remains: the act of arguing seems to rely on norms of validity, non-contradiction, and dialectical success.
 
 ## 2. REJECTION OF TRANSCENDENT ENTITIES ✅
 
@@ -283,25 +354,29 @@ CĀRVĀKA (Lokāyata)
 
 **Reply.** ⚠️ The Cārvāka would answer that morality need not be underwritten by cosmic bookkeeping; human pain, pleasure, prudence, and social consequences are enough for practical conduct.
 
-### 2.6 Svabhāvavāda: nature as sufficient explanation ✅
+### 2.6 Svabhāvavāda and yadṛcchāvāda: nature is not chance ✅/❓
 
-**Statement.** ✅ Things arise and behave according to their own nature (**svabhāva**); no divine superintendent is required.
+**Statement.** ✅ **Svabhāvavāda** (svabhavavada, own-nature-ism) is the safer Cārvāka explanatory principle: things behave as they do by their own inherent natures, with no need of karma, adṛṣṭa, God, or cosmic purpose. ❓ **Yadṛcchāvāda** (yadrcchavada, accidentalism/chance-theory) is a related but more radical position sometimes associated with the materialists; its attribution to Cārvāka is contested.
 
 **Argument.** ✅
-1. The world exhibits regularities.
-2. One may explain these by the natures of things themselves rather than by appealing to a transcendent governor.
-3. Invoking God adds an unseen entity without explanatory gain.
-4. Therefore natural dispositions are sufficient.
+1. The world exhibits real regularities: fire burns, water flows downward, stones are hard, thorns are sharp.
+2. These regularities can be explained by the observable natures of things themselves.
+3. It is therefore uneconomical to posit an unseen moral or divine order behind them.
+4. Svabhāvavāda denies **transcendent** causation, not all causation.
+5. Yadṛcchāvāda goes further: events occur by chance, without any determining cause at all.
+6. Therefore the two must be distinguished: svabhāva preserves natural regularity; yadṛcchā dissolves determinate causation.
 
-**Presupposition.** ⚠️ Explanation should stop at the lowest warranted level; when the nature of things suffices, divine causation is redundant.
+**Presupposition.** ⚠️ Svabhāvavāda assumes that explanation must stop somewhere, and stopping at observable natures is more economical than stopping at God, adṛṣṭa, or karma. Yadṛcchāvāda assumes that even the appearance of order does not require a nature-based explanation.
 
-**Distinction.** ✅ Svabhāvavāda differs from systematic scientific naturalism. It is a metaphysical refusal of teleological theology, not a developed experimental program.
+**Distinction.** ✅ **Svabhāvavāda is not the denial of causation**; it is the denial of transcendent causation. **Yadṛcchāvāda is the denial of determinate causation**. Indian doxographies list chance/causeless positions among **akriyāvāda / ahetuvāda** views attacked by Buddhists, Jainas, and Naiyāyikas alike; the association with Cārvāka should be marked ❓.
 
-**Example.** ✅ Fire burns because burning belongs to its nature, not because a deity wills every instance of combustion.
+**Example.** ✅ Standard illustrations of svabhāva include the sharpness of thorns, the variegated colours of a peacock’s feathers, fire’s burning, water’s downward flow, and the hardness of stone. The regularity is real, but it is not grounded in divine will or karmic desert.
 
-**Objection.** ✅ “Nature” itself may look like an empty label unless analyzed further.
+**Safe exam formula.** ✅ Attribute **svabhāvavāda** to Cārvāka as its mainstream explanatory principle; mention **yadṛcchāvāda** as a related naturalistic/causeless option sometimes associated with the school; mark that association contested ❓.
 
-**Reply.** ⚠️ True, but the Cārvāka would still prefer a modest descriptive naturalism to a larger supernatural hypothesis.
+**Objection.** ✅ Svabhāvavāda is not an explanation but a refusal to explain: saying “fire burns by its own nature” may be only a verbal placeholder.
+
+**Reply.** ⚠️ Every explanatory chain terminates in brute natures. The theist’s “God willed it” is also terminal, but far less economical and far less observable. Residual force ⚠️: the objection retains bite because Cārvāka gives no developed account of why natures are stable; Nyāya’s vyāpti-machinery and karma-theories try to supply precisely that missing stability.
 
 ### 2.7 Ethics: kāma and artha as the operative puruṣārthas ✅
 
@@ -325,25 +400,47 @@ CĀRVĀKA (Lokāyata)
 
 ### 2.8 The source problem ❓
 
-**Statement.** ❓ Our knowledge of Cārvāka is fragmentary because no primary systematic text survives in full; the often-mentioned **Bṛhaspati-sūtra** is lost.
+**Statement.** ❓ Our knowledge of Cārvāka is fragmentary because no primary systematic text of the materialist wing survives in full; the often-mentioned **Bṛhaspati-sūtra** tradition is lost.
 
 **Argument.** ✅
-1. The school is known chiefly through doxographies and hostile refutations.
-2. Authors such as Mādhava in the *Sarva-darśana-saṃgraha* preserve important summaries.
-3. Opponents may sharpen, simplify, or caricature what they attack.
-4. Therefore reconstruction must be intellectually honest and somewhat cautious.
+1. The school is known chiefly through doxographies, dramas, and hostile refutations.
+2. Mādhava’s *Sarvadarśanasaṃgraha* preserves the famous Cārvāka chapter, but it remains an opponent’s presentation.
+3. Other polemical treatments occur in Śaṃkara, Jayanta Bhaṭṭa, Śāntarakṣita, Haribhadra, and Kṛṣṇa Miśra’s *Prabodhacandrodaya*.
+4. Opponents may preserve real doctrines while selecting the crudest or most easily refutable version.
+5. Therefore reconstruction must be intellectually honest, cautious, and alert to internal diversity.
 
-**Presupposition.** ⚠️ Historiography matters: what survives of a school through its opponents may not display its strongest version.
+**Presupposition.** ⚠️ Historiography matters: almost everything we know is transmitted by opponents whose purpose was refutation, so the tradition’s strongest arguments are likely under-represented.
 
 **Distinction.** ✅ This does not mean “nothing can be said.” It means statements should be framed as standard reconstructions, not overconfident textual certainties.
 
-**Example.** ✅ The stereotype of crude hedonism may partly reflect polemical transmission.
+**Example.** ✅ Surviving ritual-ridicule fragments—about śrāddha and sacrifice, including the mocking challenge that if an animal slain in sacrifice goes to heaven, the sacrificer should slay his own father—are polemical fragments, not a systematic treatise. Do not treat them as the whole philosophy.
 
 **Objection.** ✅ If sources are adversarial, can the school be discussed at all?
 
-**Reply.** ⚠️ Yes—through convergent accounts, recurring doctrinal cores, and careful distinction between canonical reconstruction and contested embellishment.
+**Reply.** ⚠️ Yes—through convergent accounts, recurring doctrinal cores, and careful distinction between canonical reconstruction, hostile caricature, and contested embellishment.
 
-### 2.9 Is Cārvāka positivistic? (2024) ⚠️
+### 2.9 Dhūrta and suśikṣita Cārvāka: cautious internal differentiation ❓/⚠️
+
+**Statement.** ❓ Later doxographers distinguish **dhūrta** (dhurta, cunning/rogue) Cārvāka from **suśikṣita** (susiksita, well-educated/refined) Cārvāka, but the distinction must be presented cautiously because it is preserved through opponents’ summaries.
+
+**Argument.** ⚠️
+1. The **dhūrta** version is the crude, often-caricatured form: it denies everything beyond the four elements and reduces consciousness to the body.
+2. The **suśikṣita** version is credited with a more careful position.
+3. It may admit perception-grounded practical inference (**lokasiddha anumāna**) while denying inference to supersensible objects.
+4. Some reports also allow a self distinct from the gross body while still denying survival after death.
+5. Therefore the refined position supplies the strongest reply to the self-refutation charge.
+
+**Presupposition.** ❓ The labels are indirect and inconsistent across doxographies; no surviving Cārvāka text confirms two documented schools with fixed doctrines.
+
+**Distinction.** ✅ Do not write as though dhūrta and suśikṣita were two well-attested institutions with known texts. The correct exam move is: “later doxographers distinguish a crude from a refined Cārvāka, though the evidence is indirect.”
+
+**Example.** ✅ Link this directly to §1.7: a refined Cārvāka need not deny inference **tout court** (altogether); he can deny only inference that claims to establish supersensible entities such as ātman, karma, heaven, or mokṣa.
+
+**Objection.** ✅ This distinction may be a later attempt to rescue Cārvāka from obvious objections.
+
+**Reply.** ⚠️ Perhaps; but philosophically it is valuable because it turns Cārvāka from crude anti-reason into a recognizable empiricist restriction on unverifiable metaphysics.
+
+### 2.10 Is Cārvāka positivistic? (2024) ⚠️
 
 **Statement.** ⚠️ Cārvāka can be called “positivistic” in a loose comparative sense, but the label must be qualified.
 
@@ -423,25 +520,33 @@ CĀRVĀKA (Lokāyata)
 ## 5. COMMON UPSC TRAPS ✅
 
 1. **Four bhūtas, not five.** ✅ No ākāśa.
-2. **Do not attribute extant textual quotations to a surviving Cārvāka scripture.** ✅ The *Bṛhaspati-sūtra* is lost.
-3. **Do not say Cārvāka simply denies all practical inference.** ⚠️ Better: it undermines its certainty and especially rejects transcendence-bearing inference.
+2. **Do not attribute extant textual quotations to a surviving Cārvāka scripture.** ✅ The *Bṛhaspati-sūtra* tradition is lost.
+3. **Do not say Cārvāka simply denies all practical inference.** ⚠️ Better: it undermines certainty and especially rejects transcendence-bearing inference.
 4. **Do not equate Cārvāka’s denial of self with Buddhist anātman.** ✅ Cārvāka = body-self; Buddhism = no substantial self, but not crude body-identification.
 5. **Do not write five elements.** ✅ This is one of the examiner’s favorite factual traps.
 6. **Do not call it straightforward positivism without qualification.** ⚠️ Similar in anti-metaphysical spirit, dissimilar in treatment of scientific inference.
 7. **Do not make it merely a moral slogan.** ⚠️ Its epistemology drives its metaphysics.
+8. **Do not ignore Jayarāśi.** ⚠️ He is the best way to show that Lokāyata contains a serious sceptical wing, not only crude hedonism.
+9. **Do not equate svabhāvavāda with yadṛcchāvāda.** ✅ Svabhāva keeps natural regularity; yadṛcchā denies determinate causation and its Cārvāka link is contested ❓.
+10. **Do not over-document dhūrta/suśikṣita.** ❓ Use the distinction as doxographical and indirect, not as two securely attested schools with extant texts.
 
 ## 6. KEYWORD & STATEMENT BANK ✅
 
 - **Pratyakṣaika-pramāṇavāda** — doctrine that perception alone is the pramāṇa. ✅
 - **Vyāpti** — invariable concomitance presupposed by inference. ✅
 - **Upādhi** — hidden condition vitiating over-hasty universalization. ✅
+- **Lokasiddha anumāna** — perception-grounded practical inference, useful but not transcendence-proving. ⚠️
 - **Dehātmavāda** — body as self. ✅
 - **Bhūta-caitanya** — consciousness arising from elements/body. ✅
 - **Svabhāvavāda** — appeal to own-nature rather than divine governance. ✅
+- **Yadṛcchāvāda** — accidentalism/chance-theory; association with Cārvāka is contested. ❓
+- **Dhūrta / suśikṣita Cārvāka** — crude/refined distinction preserved by opponents; use cautiously. ❓
+- **Jayarāśi Bhaṭṭa** — author of *Tattvopaplavasiṃha*, linked with Lokāyata scepticism. ❓/⚠️
 - **Lokāyata** — another name associated with the school/tradition. ✅
 - **“As long as one lives, let one live happily”** — use as a doxographical verse associated with the tradition, not as a securely locatable line from an extant primary text. ⚠️
 - **Exam sentence:** “Cārvāka’s rejection of suprasensible entities is not an independent metaphysical whim; it is the ontological consequence of restricting valid knowledge to perception.” ⚠️
 - **Exam sentence:** “The Achilles’ heel of Cārvāka is that the denial of inference seems itself inferential unless the thesis is softened into a critique of certainty rather than of all worldly reasoning.” ⚠️
+- **Exam sentence:** “Jayarāśi transforms the Cārvāka challenge from dogmatic perceptualism into a prasaṅga-style dissolution of all pramāṇa-definitions.” ⚠️
 
 <!-- restored-2018-2020-doctrine:start -->
 ## RESTORED 2018/2020 DOCTRINE DOSSIER
@@ -463,6 +568,104 @@ CĀRVĀKA (Lokāyata)
 - ❌ **Trap / answer consequence:** Do not infer from four-element materialism that Cārvāka lacks all unobserved practical reasoning; identify the target as independent certain pramāṇa and transcendent inference.
 
 <!-- expanded-pyq-depth:end -->
+
+
+## 6A. PRESUPPOSITION LEDGER ⚠️
+
+| Doctrine | Presupposition | What collapses if denied |
+|---|---|---|
+| Perception as sole pramāṇa | Immediate presentation is the only secure mark of knowledge | The entire anti-inference and anti-scripture programme loses its foundation |
+| Vyāpti critique | Universality must be certain, not merely probable, to ground pramāṇa-status | Anumāna can be rehabilitated as disciplined fallible knowledge |
+| Upādhi problem | Hidden conditions can always qualify observed regularities | Nyāya-style upādhi-elimination can secure reliable universals |
+| Rejection of śabda | Words require independent proof of speaker competence and truth | Veda, reliable testimony, and social knowledge regain pramāṇa-status |
+| Four bhūtas and rejection of ākāśa | Only perceptibly grounded elements are ontologically admissible | A fifth element can be inferred from sound or spatial accommodation |
+| Bhūta-caitanya / emergent consciousness | Consciousness can arise from organized material elements | A non-material self or consciousness-substance becomes necessary |
+| Rejection of karma and rebirth | No unseen moral continuity is perceptually established | Dharma, rebirth, and liberation-soteriology regain metaphysical force |
+| Svabhāvavāda | Observable natures are enough to explain regularity | Divine will, adṛṣṭa, karma, or teleology may be invoked as deeper explanation |
+| Hedonist ethics | Value must be anchored in embodied this-worldly experience | Dharma and mokṣa can override kāma and artha |
+| Rejection of mokṣa | Bondage and liberation require an unproved self and post-mortem destiny | The whole puruṣārtha scheme beyond worldly life becomes defensible |
+
+## 6B. PŪRVAPAKṢA–SIDDHĀNTA LEDGER ⚠️
+
+| Objector | Objection | Cārvāka reply | Residual force ⚠️ |
+|---|---|---|---|
+| Nyāya | Self-refutation: rejection of inference is itself inferential. Vyāpti is securable through upādhi-elimination, **tarka**, and **sāmānyalakṣaṇa-pratyakṣa**. The self is proved because desire, aversion, effort, pleasure, pain, and cognition inhere in a substance. | Dogmatic wing: inference never reaches certainty because vyāpti cannot be secured. Sceptical/Jayarāśi wing: the Naiyāyika’s own definitions fail from within. ⚠️ | Nyāya gives the strongest systematic defence of inference; Cārvāka must either soften or face self-refutation. |
+| Buddhism | Karma and rebirth are accepted without eternal ātman; momentariness does not imply materialism. Buddhists also accept inference as valid. | ⚠️ Reconstructed reply: rebirth and karma still outrun perception; momentary streams are as unseen as souls when used to explain post-mortem continuity. | Buddhism avoids eternal soul while preserving moral continuity, making it a subtler opponent than theism. |
+| Jainism | Consciousness cannot be a property of elements because elements individually lack it; an emergent property needs a bearer. | ⚠️ Reconstructed reply: combinations may display novel properties absent in parts; positing jīva adds an unperceived substance. | Emergence is asserted more than explained; Jaina pluralism exposes the bearer-problem. |
+| Advaita / Vedānta | Consciousness is self-luminous; the body is known **by** consciousness, so it cannot be the source of consciousness. | ⚠️ Reconstructed reply: “self-luminosity” is a metaphysical description of experienced awareness, not proof of a disembodied ātman. | The subject-object problem remains hard for materialist emergence. |
+| Mīmāṃsā | The Veda’s authority is intrinsic; ridicule of ritual is not an argument against apauruṣeyatva or dharma. | Dogmatic reply: intrinsic authority is not perceived; testimony needs proof, and ritual results are unseen. ⚠️ | Mīmāṃsā has a sophisticated theory of language and obligation; satire alone is insufficient. |
+| Yoga / Sāṃkhya | Puruṣa is distinct from prakṛti; experience, agency, and liberation require a consciousness-principle beyond matter. | ⚠️ Reconstructed reply: puruṣa is not perceived apart from embodied awareness; liberation is a projection from metaphysical dualism. | Cārvāka struggles to explain witness-consciousness, discipline, and the felt distinction between body and awareness. |
+
+## 6C. INTER-SCHOOL POSITIONING ⚠️
+
+| School | Pramāṇas | Self | Consciousness | Karma/rebirth | Scripture | God | Puruṣārthas | Liberation |
+|---|---|---|---|---|---|---|---|---|
+| Cārvāka | Pratyakṣa alone in strict doctrine; lokasiddha inference only as practical habit ⚠️ | Body-self; no surviving ātman | Emergent bhūta-caitanya | Rejected | Rejected as independent pramāṇa | Rejected | Kāma and artha emphasized; dharma/mokṣa rejected | Rejected |
+| Nyāya-Vaiśeṣika | Perception, inference, comparison, testimony | Enduring ātman-substance | Quality of self, revealed through cognition | Accepted | Accepted as reliable testimony | Generally affirmed in later Nyāya | All four | Apavarga |
+| Buddhism | Varies; perception and inference central in epistemological schools | No enduring ātman | Stream of momentary consciousness/events | Accepted without eternal self | Buddhist teaching accepted within its framework | Creator-God denied | Path-oriented revaluation | Nirvāṇa |
+| Jainism | Multiple pramāṇas with standpoint theory | Plural jīvas | Intrinsic to jīva, obscured by karma | Accepted | Jaina teaching authoritative | Creator-God denied | Ethical-spiritual discipline | Mokṣa of jīva |
+| Sāṃkhya-Yoga | Perception, inference, reliable testimony | Puruṣa distinct from prakṛti | Puruṣa as pure consciousness | Accepted | Accepted | Classical Sāṃkhya non-theistic; Yoga admits Īśvara | All four subordinated to release | Kaivalya |
+| Mīmāṃsā | Perception, inference, comparison, postulation, non-cognition, śabda in developed lists | Enduring self | Attribute/manifestation tied to self | Accepted | Veda intrinsically authoritative | Creator-God not central | Dharma central | Often secondary to ritual/dharma, varies |
+| Advaita Vedānta | Six pramāṇas commonly accepted, with śruti decisive for Brahman | Ātman identical with Brahman | Self-luminous consciousness | Empirical-level acceptance | Upaniṣadic śruti decisive | Īśvara at empirical level | Mokṣa supreme | Liberation through knowledge |
+
+**Why Cārvāka matters structurally.** ⚠️ Cārvāka is the standing **pūrvapakṣa** of Indian philosophy. Nyāya clarifies vyāpti by answering it; Mīmāṃsā sharpens Vedic authority against it; Buddhism and Jainism defend karma without crude eternalism; Vedānta defends self-luminosity against body-materialism. Knowing Cārvāka well therefore improves answers on pramāṇa, scripture, karma, self, and liberation across the whole Indian syllabus.
+
+
+## 6D. CONTROLLED WESTERN COMPARISON ⚠️
+
+| Western comparator | Point of contact | Decisive disanalogy |
+|---|---|---|
+| Hume | Both question whether observed conjunctions establish necessary universal connection; both are suspicious of metaphysical entities such as substance, soul, and God when they outrun impressions/perception. | Hume does not deny that we should reason inductively; he denies its rational-demonstrative foundation while treating custom as the great guide of life. Cārvāka draws the stronger normative conclusion that inference is not a pramāṇa. Hume targets necessary connexion through impressions and ideas; Cārvāka targets vyāpti through regress and upādhi. Hume’s bundle view of self differs from Cārvāka’s positive deha-ātmavāda, and Hume has a developed moral psychology unlike Cārvāka hedonism. |
+| A.J. Ayer / logical positivism | Both reject metaphysics on experience-linked grounds and dismiss God, soul, and afterlife when not verifiable. | Ayer’s claim is semantic: unverifiable metaphysics is meaningless, neither true nor false. Cārvāka’s claim is epistemic/ontological: such entities are not known and therefore not admitted. Ayer preserves scientific theoretical statements through indirect/weak verifiability; strict Cārvāka anti-inference threatens science too. Ayer’s verification principle is charged with self-refutation, paralleling the self-refutation charge against Cārvāka. |
+| Epicurus / Lucretius | Materialism, rejection of fear-based religion, and this-worldly pleasure make the comparison tempting. | Epicurean pleasure is ascetic and calculative, aiming at ataraxia (tranquillity); Cārvāka hedonism is usually presented as straightforward embodied enjoyment, though a refined prudential reading is possible. |
+| Pyrrhonism / Jayarāśi | Jayarāśi’s sceptical wing and Pyrrhonism both allow ordinary life to continue after suspension or collapse of foundations. | Pyrrhonism seeks tranquillity through epochē (suspension), whereas Jayarāśi works through pramāṇa-definition destruction within Indian debate; do not merge the traditions. |
+| Feuerbach / Marx on religion’s social function | Cārvāka’s charge that ritual is the livelihood of priests anticipates a functional critique of religion as serving human/social interests. | Feuerbach and Marx build broader theories of projection, alienation, ideology, and society. Cārvāka offers sharp anti-ritual polemic without a historical-materialist theory. |
+| Locke / general empiricism | Knowledge must be tied to experience; innate or purely speculative metaphysical claims are distrusted. | Locke and most empiricists accept abstraction, probability, testimony, and science-friendly inference. Cārvāka’s strict pratyakṣa-only thesis is much narrower and more disruptive. |
+
+**Rubric.** ⚠️ Western parallels are illustrative only, never a substitute for the Indian argument, and belong in at most one or two lines **after** the Cārvāka case is complete. These are conceptual analogies, not historical influences. Writing “Cārvāka is the Indian Hume” without stating the disanalogies is a marked weakness.
+
+## 6E. DIRECTIVE DECODER ⚠️
+
+| Directive | What the examiner is testing | Structural move for a Cārvāka answer | Closing verdict |
+|---|---|---|---|
+| Discuss | Breadth and balanced presentation | State doctrine → explain pramāṇa basis → show metaphysical consequences → add one criticism | “Cārvāka is best read as radical epistemic economy, not mere denial.” |
+| Examine | Internal logic | Trace how pratyakṣa-only leads to anti-inference and anti-transcendence | “The conclusion follows if its strict perceptual premise is accepted.” |
+| Critically examine | Doctrine plus objections | Present Cārvāka argument, then Nyāya/Vedānta/Mīmāṃsā objections and replies | “Powerful as critique, unstable as complete system.” |
+| Analyse | Component-wise causal logic | Break into pramāṇa, vyāpti, upādhi, śabda, ontology, ethics | “Its metaphysics is generated by epistemology.” |
+| Evaluate | Final judgement required | Weigh strengths, weaknesses, and contested source-history | “Valuable negative philosophy; limited positive account.” |
+| Compare | Relation with another school | Use fixed axes: pramāṇa, self, consciousness, karma, liberation | “Similarity at one point must not hide doctrinal difference.” |
+| Distinguish | Sharp contrasts | Define both terms/schools first, then contrast on 4–5 axes | “The safest answer is difference plus one connecting insight.” |
+| Elucidate / Comment / Bring out | Clarity of explanation | Give thesis, one argument, one example, one implication | “This shows why the doctrine matters in the larger system.” |
+| Do you agree? | Reasoned personal verdict | State qualified agreement/disagreement after doctrinal exposition | “Agree with its critique of unwarranted transcendence, not with its total pramāṇa restriction.” |
+| “Cārvāka’s rejection of X is self-refuting — critically examine” | Ability to handle the recurring self-refutation pattern | Show why the dogmatic wing is vulnerable; then introduce lokasiddha inference and Jayarāśi’s prasaṅga-style escape route | “The charge is decisive only against an absolute denial of all reasoning; it is weaker against refined empiricism or dialectical scepticism.” |
+
+## 6F. GRADED VERDICT ON CĀRVĀKA ⚠️
+
+**Strong ✅**
+- A genuine early principle of epistemic economy: do not multiply unseen entities without warrant.
+- A real and still powerful problem about the warrant for universals and vyāpti.
+- A valuable naturalistic check on speculative metaphysics, ritualism, and unverifiable claims.
+- A functional critique of ritual religion as serving priestly livelihood rather than truth.
+- In Jayarāśi, a serious dialectical scepticism that can challenge every pramāṇa-definition from within.
+
+**Weak ⚠️**
+- The self-refutation problem is serious for the dogmatic wing.
+- Svabhāvavāda gives no full account of why natures are stable.
+- Bhūta-caitanya asserts emergence but does not adequately explain subjectivity.
+- The ethics cannot easily distinguish prudence from impulse unless reconstructed charitably.
+
+**Genuinely contested ❓**
+- What the school actually held, because no primary systematic text of the materialist wing survives.
+- Whether dhūrta and suśikṣita Cārvāka name real internal schools or hostile doxographical types.
+- Whether yadṛcchāvāda belongs to Cārvāka or is a distinct ahetuvāda option.
+- Whether Jayarāśi is properly a Cārvāka or an allied radical sceptic.
+
+**Ready verdicts.** ⚠️
+- **10 marks:** Cārvāka is strongest as an epistemological protest against unverifiable metaphysics, but weakest when its rejection of inference becomes absolute.
+- **15 marks:** Its pratyakṣa-only principle powerfully explains the rejection of ātman, karma, Īśvara, and mokṣa; yet Nyāya’s self-refutation and vyāpti replies show why it cannot stand as a complete theory of knowledge.
+- **20 marks:** The best verdict is graded: dogmatic Cārvāka is vulnerable, refined Cārvāka is a coherent empiricist restriction on supersensible inference, and Jayarāśi’s wing is a serious prasaṅga-style scepticism rather than crude materialism.
+
+**Anti-caricature warning.** ✅ A strong UPSC answer presents Cārvāka as a serious epistemological position and standing pūrvapakṣa, not as mere hedonism or a stock joke about pleasure.
 
 ## 7. PYQ ROUTING (2018–2025)
 
@@ -527,4 +730,6 @@ Conclude with a qualified verdict rather than caricature.
 - Chatterjee & Datta, *An Introduction to Indian Philosophy*.
 - C.D. Sharma, *A Critical Survey of Indian Philosophy*.
 - S. Radhakrishnan, *Indian Philosophy*, Vol. I.
-- Standard doxographical discussions of Lokāyata/Cārvāka, especially summaries preserved in later compendia such as *Sarva-darśana-saṃgraha*; use with caution because the primary Cārvāka corpus does not survive intact.
+- Jayarāśi Bhaṭṭa, *Tattvopaplavasiṃha*; use cautiously for the sceptical Lokāyata wing rather than as straightforward proof of dogmatic materialism.
+- Standard doxographical discussions of Lokāyata/Cārvāka, especially Mādhava’s *Sarvadarśanasaṃgraha*; use with caution because the primary Cārvāka materialist corpus does not survive intact.
+- Polemical treatments and references in Śaṃkara, Jayanta Bhaṭṭa, Śāntarakṣita, Haribhadra, and Kṛṣṇa Miśra’s *Prabodhacandrodaya*; treat attributions as opponent-preserved unless independently corroborated.

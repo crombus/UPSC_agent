@@ -5,8 +5,10 @@
 > **Core area:** Decoding aphorisms as compressed propositions with
 > hidden scope and assumption structure; testing readings against
 > counter-readings and exceptions before committing.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Section 4.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Section 4.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../basic/02_Philosophical-Quote-Decoding.md`
@@ -56,8 +58,9 @@ forcing it onto a purely individual-psychology reading strains the text.
 
 ## 5. Stakeholder map and distributional effects
 
-⚠️ Where the aphorism has a clear social-policy extension (e.g. 2024-B5
-FOMO, 2025-A1 truth/color), identify who is advantaged and disadvantaged
+⚠️ Where a prompt has a clear social-policy extension (e.g. the
+issue-statement 2024-B5 on FOMO, or the aphorism 2025-A1 on truth/color),
+identify who is advantaged and disadvantaged
 by each candidate reading — e.g. a reading of "truth knows no color"
 that only defends institutional objectivity, without acknowledging that
 access to voice and evidence is unevenly distributed, is incomplete; a
@@ -97,10 +100,10 @@ from being a naive restatement of the prompt.
 
 ## 8. Paradox, dialectic and counterfactual test
 
-**Paradox example (2024-B5, FOMO):** connection technology that promises
-to reduce isolation can simultaneously produce loneliness — the paradox
-is not a contradiction to be resolved by picking a side, but a genuine
-double effect to be held together in the synthesis. **Dialectic:**
+**Issue-prompt analogue (2024-B5, FOMO):** connection technology that
+promises to reduce isolation can simultaneously produce loneliness — this
+is an issue-prompt double effect, not an aphorism to decode. Its
+analysis should hold both effects together in the synthesis. **Dialectic:**
 thesis (social media connects) → counter-claim (social media isolates
 through comparison) → condition/limit (effect depends on use-pattern,
 design and social context) → synthesis (agency plus humane platform

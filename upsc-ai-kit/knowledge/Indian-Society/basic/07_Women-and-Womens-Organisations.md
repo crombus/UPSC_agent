@@ -7,11 +7,15 @@
 > trichotomy.
 > **Grounded in:** Women's Indian Association, All India Women's Conference (1927), National
 > Federation of Indian Women and Self Employed Women's Association (SEWA); NFHS-5 (2019-21,
-> latest released national round as checked 21 July 2026); audited 2024 GS-I Mains PYQ.
+> historical comparator; NFHS-6 (2023-24) was released 29 May 2026); audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/07_Women-and-Womens-Organisations.md`.*
 
 ---
+
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
 
 ## 1. Visual foundation
 
@@ -146,7 +150,7 @@ or programme coverage alone.
 
 ## 8. 📰 Current anchor
 
-- 📰 NFHS-5 (2019-21), the latest released national NFHS round as checked on 21 July 2026,
+- 📰 NFHS-5 (2019-21), the historical national NFHS round; NFHS-6 (2023-24) was released 29 May 2026,
   reported 78.6% of women aged 15-49 with a bank/savings account they themselves used and
   33.3% ever using the internet. These are dated access indicators, not proof of control over
   assets, income or decision-making.
@@ -193,6 +197,98 @@ or programme coverage alone.
   mechanism and the 2025 GS-II PYQ on women's social capital.
 - ✅ `08_Social-Empowerment.md` — capability/agency theory underlying empowerment as an
   outcome concept.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** The answer must distinguish rights, differentiated support and agency;
+> organisation membership, a scheme or a statistic alone is never proof of empowerment.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Distinguish** equality, equity, empowerment | Three terms plus programme-design implication | define each -> show conversion chain -> design test |
+| **Substantiate** movement and lower strata | History plus intersectional reach | movement phases -> organisational forms -> who was reached/missed |
+| **What challenges** women across time and space | Structural, temporal and spatial constraints | unpaid care/time -> mobility/safety/space -> caste/class/location -> response |
+| **Examine** gig economy | Opportunity and precarity together | entry/flexibility -> income/control/protection risks -> qualified verdict |
+| **Explain why** young-women suicide is rising | Multi-causal social-risk analysis | reject monocause -> gendered/household/economic/mental-health dimensions -> evidence caution |
+
+### 13.2 Thesis bank
+
+- **T1:** ⚠️ Equality supplies a rights baseline, equity removes unequal constraints and
+  empowerment is the agency outcome; the first two do not mechanically produce the third.
+- **T2:** ⚠️ Indian women’s organising is layered—reform, rights, labour and collective
+  savings—not one uniform movement or constituency.
+- **T3:** ⚠️ Any account of self-harm requires extreme causal restraint: social stressors
+  may be analysed, but a reported category or trend cannot establish one cause.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — equality, equity and empowerment (2024 GS-I).** Define the three terms in
+one line each; use an example of equal eligibility, context-responsive support, and
+independent decision-making. Explain why programme design must map time, mobility, assets
+and caste/class constraints; close with uptake-and-agency measurement, not coverage.
+
+**15 marks — women’s movement and lower social strata (2018 GS-I).** Trace reform to
+WIA/AIWC, NFIW, SEWA and SHG federations. For each, state the mechanism (advocacy, wage
+rights, collective bargaining, savings/social capital), then test reach through
+intersectionality. Conclude that lower-strata women need voice, assets and protection, not
+representation by a generic category alone.
+
+**20 marks — women’s work, time and public space.** Use a four-cell structure:
+`paid work / unpaid care` and `home / public/digital space`. Place gig work, commuting,
+harassment, digital access and collective organisation in the cells; add the
+flexibility-versus-protection trade-off and the agency conclusion.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Organisational diversity.** *Claim:* women’s collective action uses different
+  mechanisms. *Evidence:* **AIWC (1927)**, **NFIW**, **SEWA** and **SHG federations**.
+  *Significance:* gives a chronological and functional evidence pool. *Limitation:* no
+  single body represents every caste, class, tribe, religion or location.
+- **E2 — Labour organisation.** *Claim:* economic organisation can enlarge bargaining
+  power. *Evidence:* **SEWA**, a Gujarat-based trade union/cooperative movement of
+  self-employed women. *Significance:* separates collective economic agency from a
+  charity/scheme narrative. *Limitation:* membership does not prove household decision-making.
+- **E3 — Access versus agency.** *Claim:* financial/digital access is not control.
+  *Evidence:* **NFHS-5 (2019-21)** access indicators in this file. *Significance:* supports
+  the coverage-versus-agency distinction. *Limitation:* they are historical survey
+  indicators; use NFHS-6 fact sheets for current metrics.
+- **E4 — Gig work boundary.** *Claim:* flexibility can coexist with insecurity.
+  *Evidence:* platform/gig-worker legal-status and social-security material is owned by
+  `Social-Justice/basic/15`. *Significance:* prevents treating entry into a platform as
+  empowerment by definition. *Limitation:* this file does not claim benefit delivery or a
+  nationwide operational code without the legal owner’s dated status.
+- **E5 — Public-health guardrail.** *Claim:* self-harm prevention needs a multi-sector,
+  non-stigmatising response rather than a single social explanation. *Evidence:* MoHFW's
+  **National Suicide Prevention Strategy (2022)** frames prevention around surveillance,
+  health-service capacity, community resilience and evidence. *Significance:* lets the
+  2023 demand close with support, prevention and evidence rather than speculation.
+  *Limitation:* the strategy is not evidence that any one stressor caused a reported rise;
+  use a current, disaggregated source before claiming a trend or rate.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Do not turn any women’s organisation into a proxy for all women; apply caste, class,
+  tribal, disability, location and care constraints where relevant.
+- ⚠️ Do not diagnose a suicide trend from one demographic label; state that prevention needs
+  reliable public-health evidence, support access and non-stigmatising discussion.
+- ⚠️ Do not treat gig work as either automatic liberation or automatic exploitation.
+- **Verdict:** “Women’s empowerment is reached when rights and differentiated support
+  convert into recognised control over resources, time, mobility and voice.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2018 · GS-I · Q18 | Women’s movement and lower social strata | §13.1-13.4, T2, E1-E2 |
+| 2019 · GS-I · Q19 | Challenges against time and space | §13.1, §13.3 20-mark structure |
+| 2021 · GS-I · Q10 | Gig economy and empowerment | §13.1, E4, balance bank |
+| 2023 · GS-I · Q9 | Rising suicide among young women | §13.1, T3, balance bank |
+| 2024 · GS-I · Q8 | Equality, equity and empowerment | §13.3, T1, E3 |
+
+> **Routing correction:** These Core routes supersede older `advanced/07` pointers. The
+> legal/scheme and labour-code owners remain cross-links, not Core dependencies.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

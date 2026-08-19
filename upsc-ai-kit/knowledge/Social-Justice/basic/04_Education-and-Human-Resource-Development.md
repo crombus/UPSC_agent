@@ -146,10 +146,8 @@ without all three, entitlement does not translate into capability.
   round, rural scope, school type and competency; ASER is not an administrative dataset
   and should not be silently generalised to urban India.
 - 📰 **GER in higher education:** AISHE (All India Survey on Higher Education)
-  publishes annual GER data. No specific percentage is asserted here because each
-  AISHE round updates the figure; the durable fact is that AISHE is the official
-  annual source for higher-education GER, including social-group and gender
-  disaggregation.
+  2021-22 reported an all-India GER of 28.4 for ages 18-23, up from 27.3 in
+  2020-21; female GER was 28.5. Retain the survey year because later rounds update it.
 - 📰 No dynamic dashboard figure is asserted here because education indicators
   are published periodically (AISHE, UDISE+, ASER); the durable fact is the
   policy/scheme architecture, not a continuously changing coverage count.
@@ -200,6 +198,31 @@ without all three, entitlement does not translate into capability.
 - ⚠️ **Mains (15 marks):** How does the skills ecosystem (Skill India, NCVET,
   NAPS) bridge the gap between school education and employability?
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+Core now owns the 2020 digital-education and NEP-SDG 4 demands; the 2021
+earn-while-you-learn demand; the 2022 RTE-awareness demand; and the 2023 HRD and
+skill-education-employment demands. These six routes supersede `advanced/04`.
+
+- **Digital education:** DIKSHA supports school content/teachers and SWAYAM online
+  courses; devices, connectivity, language, disability and study space qualify access.
+- **SDG 4/NEP:** inclusive quality education and lifelong learning are the goal;
+  ECCE, FLN, multidisciplinary and vocational reforms depend on finance and teachers.
+- **RTE status:** the 2019 amendment restored State discretion for regular examinations
+  in Classes V/VIII and possible detention after instruction and re-examination.
+- **Conversion chain:** enrolment -> attendance -> transition -> completion ->
+  competency -> higher education/skill -> employment. UDISE+, ASER and AISHE measure
+  different links.
+- **Vocational integration:** NAPS and school/college exposure connect learning to work,
+  but stigma, employer participation, counselling and matching remain constraints.
+
+**10 marks:** precise access/quality/skill problem plus 2-3 anchors. **15 marks:** full
+conversion chain and 4-6 examples. **20 marks:** ECCE, school, higher education,
+vocational learning, digital inclusion, finance, teachers and employment outcomes.
+
+> **Reasoned verdict:** Education becomes HRD only when access converts into learning,
+> progression, agency and productive work.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/04_Education-and-Human-Resource-Development.md`.
@@ -217,20 +240,32 @@ without all three, entitlement does not translate into capability.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2018, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-I, GS-II, Prelims GS-I
+- **Routed question demands:** 7
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 21 | Right to Education Act teacher qualification eligibility provisions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-I | 20 | Digital initiatives and the functioning of the education system | Elaborate your answer · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 18 | National Education Policy 2020 and Sustainable Development Goal 4 | Critically examine · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 7 | Earn while you learn and meaningful vocational education and skilling | Comment · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 18 | Right to Education Act 2009 and awareness about schooling | Analyse · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 6 | Inadequate attention to Human Resource Development in India | Suggest measures · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 18 | Skill development programmes and links between skill education and employment | Analyse the linkages · 15 marks · 250 words | Both subject routes terminate in answer-complete Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Right to Education Act teacher qualification eligibility provisions
+- Digital initiatives and the functioning of the education system
+- National Education Policy 2020 and Sustainable Development Goal 4
+- Earn while you learn and meaningful vocational education and skilling
+- Right to Education Act 2009 and awareness about schooling
+- Inadequate attention to Human Resource Development in India
+- Skill development programmes and links between skill education and employment
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

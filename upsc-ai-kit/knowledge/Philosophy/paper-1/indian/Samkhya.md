@@ -36,6 +36,98 @@ EXAM HOTSPOTS
 
 > ⚠️ **Fast memory line:** one Prakṛti, many Puruṣas, real evolution, no God, liberation by discrimination.
 
+
+## 0A. SĀṂKHYA EPISTEMOLOGY — PRAMĀṆA AND COGNITION
+
+### 0A.1 The three-pramāṇa scheme
+
+**Statement.** ✅ Sāṃkhya admits exactly **three pramāṇas** (valid means of knowledge): **dṛṣṭa / pratyakṣa** (perception), **anumāna** (inference) and **āptavacana / śabda** (reliable testimony).
+
+**Statement.** ✅ Other proposed pramāṇas — **upamāna** (comparison), **arthāpatti** (postulation), **anupalabdhi** (non-apprehension), **sambhava** (inclusion/probability) and **aitihya** (traditional report) — are not rejected as useless; they are reduced to, or included within, these three.
+
+**Exam use.** ⚠️ This epistemology is the hinge of the whole system: because **mūla-prakṛti** (root Prakṛti) and **puruṣa** are not sense-objects, Sāṃkhya must show how they can still be known without multiplying pramāṇas.
+
+### 0A.2 Definitions of the three pramāṇas
+
+**Statement.** ✅ **Dṛṣṭa / pratyakṣa** is the **prativiṣayādhyavasāya** (ascertainment with respect to a presented object) of objects through the sense-capacities in contact with them.
+
+**Distinction.** ✅ **Anumāna** is threefold:
+
+| Type of anumāna | Meaning | Example |
+|---|---|---|
+| **pūrvavat** | ✅ From an antecedent cause/sign to a later effect | ✅ Clouds → likely rain |
+| **śeṣavat** | ✅ From an effect/residue back to its cause or wider ground | ✅ Tasting one drop of seawater → seawater is salty |
+| **sāmānyato-dṛṣṭa** | ✅ From a general correlation where the connection between the terms is not itself directly perceived | ✅ Seeing the sun in different positions → the sun moves |
+
+**Statement.** ✅ **Āptavacana / śabda** is the word of a trustworthy source, pre-eminently **Veda / śruti**, where the speaker or text is not defective and the object is not otherwise easily known.
+
+### 0A.3 Reduction of other candidate pramāṇas
+
+| Candidate pramāṇa | Sāṃkhya reduction | One-line reason |
+|---|---|---|
+| **upamāna** | ✅ Included in inference/testimony | ✅ Similarity works because a prior verbal report is applied inferentially to a present case. |
+| **arthāpatti** | ✅ Included in inference | ✅ Postulation is an inference to the best explanatory condition; it does not need a separate instrument. |
+| **anupalabdhi** | ✅ Included under perception's failure-conditions, not a separate pramāṇa | ✅ Non-perception means the conditions for perceiving the object are absent or the object is unavailable; no new instrument is required. |
+| **sambhava** | ✅ Included in inference | ✅ Inclusion from a larger unit to a smaller or probable implication is inferential dependence. |
+| **aitihya** | ✅ Included in testimony when reliable, otherwise rejected | ✅ Mere tradition has force only when it becomes trustworthy verbal cognition. |
+
+
+### 0A.4 Why sāmānyato-dṛṣṭa inference is decisive
+
+**Statement.** ✅ **Avyakta / mūla-prakṛti** and **puruṣa** are both **atīndriya** (beyond the senses): neither is an object of ordinary perception.
+
+**Statement.** ✅ Their imperceptibility is not proof of non-existence; the standard non-perception discussion assigns mūla-prakṛti's imperceptibility to **saukṣmya** (subtlety), and Puruṣa is likewise atīndriya rather than non-existent.
+
+**Distinction.** ✅ Sāṃkhya lists standard causes of non-perception: excessive distance, excessive proximity, defect of the organ, inattention of mind, subtlety, obstruction by an intervening object, being overpowered by something else, and admixture with like things.
+
+**Argument.** ⚠️ Since perception cannot reach atīndriya entities, and testimony alone would beg the question against non-Vedic opponents, the argumentative burden falls on **anumāna**, specifically **sāmānyato-dṛṣṭa anumāna**.
+
+**Argument.** ⚠️ Sāmānyato-dṛṣṭa inference can reach a term that is in principle imperceptible because it does not require the vyāpti (invariable relation) to be established by seeing both terms together; it works through a general correlation of kinds.
+
+**Conclusion.** ⚠️ Therefore the five arguments for Prakṛti and the arguments for Puruṣa are not rhetorical flourishes; they discharge an epistemological obligation created by Sāṃkhya's own three-pramāṇa scheme.
+
+**Exam use.** ⚠️ A strong answer should write: **Sāṃkhya first restricts pramāṇas to three, then uses sāmānyato-dṛṣṭa inference to justify the two entities that perception cannot give — Prakṛti and Puruṣa.**
+
+### 0A.5 Presupposition and objections
+
+**Presupposition.** ⚠️ Sāṃkhya presupposes that inference from general correlation can legitimately reach an entity of a kind never itself observed as a sense-object.
+
+**Objection.** ❓ **Cārvāka:** vyāpti cannot be secured for a term never perceived; therefore inference to mūla-prakṛti or puruṣa is speculative.
+
+**Reply.** ⚠️ Sāṃkhya answers that strict perceptualism cannot explain ordinary causal reasoning either; manifest, dependent, purposive and objectifiable experience demands an unmanifest material ground and a conscious witness.
+
+**Objection.** ❓ **Nyāya:** sāmānyato-dṛṣṭa inference is legitimate, but Sāṃkhya overuses it; a plurality of atoms plus an intelligent Īśvara explains the ordered world more economically than an unobservable material first cause.
+
+**Reply.** ⚠️ Sāṃkhya replies that the continuity between cause and effect, the guṇa-character of experience, and the determinacy of production are better explained by a single material Prakṛti; adding Īśvara is unnecessary because it does not explain the material continuity itself.
+
+
+### 0A.6 Theory of cognition: antaḥkaraṇa and reflection
+
+**Statement.** ✅ The **antaḥkaraṇa** (inner instrument) has three functions: **buddhi** (determinative intellect), **ahaṃkāra** (I-maker) and **manas** (coordinating mind).
+
+**Statement.** ✅ The full **trayodaśa-karaṇa** (thirteen-fold instrument) consists of 3 internal organs + 5 **buddhīndriyas / jñānendriyas** (cognitive sense-capacities) + 5 **karmendriyas** (action-capacities).
+
+| Instrument | Function |
+|---|---|
+| **buddhi** | ✅ Final ascertainment (**adhyavasāya**), judgement, discrimination |
+| **ahaṃkāra** | ✅ Appropriation as "I" and "mine" |
+| **manas** | ✅ Coordination, attention, synthesis of sense-data |
+| **five buddhīndriyas** | ✅ Cognitive access to sound, touch, form, taste and smell |
+| **five karmendriyas** | ✅ Speech, grasping, movement, excretion and reproduction/action-functions |
+
+**Distinction.** ✅ The external faculties function as **dvāra** (doors), while the inner organ functions as **dvārin** (doorkeeper/door-supervisor) because it receives, coordinates and determines what enters cognition.
+
+**Statement.** ✅ **Buddhi alone makes the final ascertainment (adhyavasāya)**; manas only coordinates and ahaṃkāra only appropriates.
+
+**Argument.** ✅ Buddhi is sattva-predominant and therefore transparent; it reflects Puruṣa's consciousness through **puruṣa-cchāyā-āpatti / buddhi-pratibimba** (falling of Puruṣa's shadow/reflection in buddhi).
+
+**Conclusion.** ⚠️ Cognition seems conscious although buddhi is **jaḍa** (insentient), because reflected consciousness illuminates buddhi's operations.
+
+**Statement.** ✅ This reflection generates **abhimāna** (false appropriation: "I am the doer/knower/enjoyer"), and that abhimāna is the psychological root of bondage.
+
+**Exam use.** ⚠️ For Sāṃkhya, the mind does not know by itself and Puruṣa does not act by itself; empirical knowing is a reflected-consciousness event in buddhi.
+
+
 ## 1. PRAKṚTI (prakriti) — the primal material principle
 
 ### 1.1 Statement
@@ -145,43 +237,120 @@ EXAM HOTSPOTS
 
 ### 2.2 The five arguments for the existence of Puruṣa
 
+**Statement.** ✅ Sāṃkhya argues for Puruṣa as a distinct conscious principle because the entire objective complex is unconscious, instrumental and presented to experience.
+
 #### (1) **saṅghāta-parārthatvāt** — aggregates exist for another
-- ✅ Body, senses, mind and intellect are aggregates or complexes.
-- ✅ Aggregates function instrumentally and therefore imply a beneficiary distinct from them.
-- ✅ Hence there must be a conscious principle for whose sake the aggregate functions.
 
-#### (2) **triguṇādi-viparyayāt** — there must be a principle opposite to the guṇas
-- ✅ The guṇas are objective, mutable and characterized by pleasure, pain and delusion.
-- ✅ The knower of these cannot itself be of the same order as the known.
-- ✅ Therefore there must be a principle opposite in nature: non-guṇic consciousness.
+**Statement.** ✅ Body, senses, mind and buddhi are **saṅghāta** (aggregates/complexes).
 
-#### (3) **adhiṣṭhānāt** — there must be a presiding support
-- ✅ Psychophysical life displays organized and coordinated functioning.
-- ✅ Such coordination presupposes a conscious support in whose presence the system operates.
-- ⚠️ This is not a God-proof; it is an inference to a conscious self underlying lived order.
+**Argument.** ✅ Aggregates function instrumentally; an instrument is for a user or beneficiary distinct from it.
 
-#### (4) **bhoktṛ-bhāvāt** — there must be an experiencer
-- ✅ Pleasure, pain and delusion are experienced.
-- ✅ Since they are objects or states presented in experience, there must be an experiencer distinct from them.
-- ✅ Therefore a **bhoktṛ** distinct from Prakṛti must be admitted.
+**Conclusion.** ✅ Hence there must be a conscious Puruṣa for whose experience and release the aggregate functions.
 
-#### (5) **kaivalyārthaṃ pravṛtteḥ** — striving for liberation presupposes a self
-- ✅ Human striving for release from suffering would be unintelligible without a liberable conscious principle.
-- ✅ Therefore the very orientation toward **kaivalya** implies a self distinct from bondage-producing Prakṛti.
+#### (2) **triguṇādi-viparyayāt** — the witness must be other than the guṇas
+
+**Statement.** ✅ The guṇas are objective, mutable and characterized by pleasure, pain and delusion.
+
+**Argument.** ✅ The knower of pleasure, pain and delusion cannot be reducible to the same changing guṇic states that are known.
+
+**Conclusion.** ✅ Therefore a non-guṇic conscious principle must be admitted.
+
+#### (3) **adhiṣṭhānāt** — organized experience requires a presiding locus
+
+**Statement.** ✅ Psychophysical life displays coordinated functioning rather than disconnected flashes.
+
+**Argument.** ⚠️ Sāṃkhya infers a conscious support in whose presence the unconscious system becomes an experienced order.
+
+**Conclusion.** ✅ This is not a God-proof; it is an inference to Puruṣa as the presiding witness of lived order.
+
+#### (4) **bhoktṛ-bhāvāt** — experience requires an enjoyer
+
+**Statement.** ✅ Pleasure, pain and delusion are experienced.
+
+**Argument.** ✅ Since these are presented as objects or states, there must be a **bhoktṛ** (experiencer/enjoyer) distinct from them.
+
+**Conclusion.** ✅ Unconscious Prakṛti can present experience, but it cannot be the subject for whom experience appears.
+
+#### (5) **kaivalyārthaṃ pravṛtteḥ** — striving for liberation presupposes a liberable witness
+
+**Statement.** ✅ Human striving for release from suffering is a central fact for Sāṃkhya.
+
+**Argument.** ✅ Such striving would be unintelligible if there were no conscious principle distinct from bondage-producing Prakṛti.
+
+**Conclusion.** ✅ The orientation toward **kaivalya** presupposes Puruṣa.
 
 ### 2.3 Evaluation of the five proofs
 
 - ⚠️ The proofs are cumulative, not isolated.
 - ⚠️ Together they argue that aggregates are instrumental, guṇas are objectifiable, experience requires a witness, and liberation presupposes a self.
+- ⚠️ Their epistemic form is **sāmānyato-dṛṣṭa anumāna**: from the general structure of objectifiable experience to a witness that is never itself an object.
 - ✅ UPSC 2022 asked these proofs directly; list, explain and then briefly assess their cumulative force.
+
 
 ### 2.4 Plurality of Puruṣas
 
-- ✅ Sāṃkhya holds that Puruṣas are many, not one.
-- ✅ **Argument from birth, death and faculties:** embodied beings differ in birth, death, constitution and capacity; plurality of conscious selves explains this individualized embodiment.
-- ✅ **Argument from non-simultaneous liberation:** if self were one, liberation of one would imply liberation of all; since this is not so, selves must be many.
-- ✅ **Argument from individual experience:** pleasure, pain, memory and appropriation are individually structured; one person's experience is not another's.
-- ⚠️ This is Sāṃkhya's major anti-monist line against Advaita.
+**Statement.** ✅ Sāṃkhya holds that Puruṣas are many, not one.
+
+**Distinction.** ⚠️ Plurality does not mean qualitative difference among Puruṣas; each Puruṣa is pure, inactive consciousness, but they are numerically many.
+
+#### 2.4.1 Standard arguments for plurality
+
+**Argument.** ✅ **From diversity of birth, death and sense-faculties:** if there were only one Puruṣa, the birth or death of one body would be the birth or death of all, and all would be blind when one is blind.
+
+**Argument.** ✅ **From non-simultaneity of activity:** beings act at different times and in different ways; if there were one self, all embodied streams would act together.
+
+**Argument.** ✅ **From differential distribution of the three guṇas:** beings differ as sattvic, rajasic or tamasic in temperament; this supports distinct centres of experience rather than one undifferentiated experiencer.
+
+**Argument.** ✅ **From liberation of some and not others:** if the self were one, liberation of one would imply liberation of all; since some remain bound while another may be released, Puruṣas must be many.
+
+**Exam use.** ⚠️ Present these as the standard arguments for plurality; do not tie them to an exact canonical count unless the question specifically demands textual enumeration.
+
+#### 2.4.2 Presuppositions behind the plurality argument
+
+| Presupposition | Why it matters |
+|---|---|
+| Empirical individuation transfers upward | ⚠️ Sāṃkhya assumes differences in bodies and mental streams license an inference to distinct Puruṣas. |
+| Puruṣa is genuinely **bhoktṛ** | ⚠️ If experience has no owner, the question "whose pleasure or pain?" loses force. |
+| Liberation is particular | ⚠️ Sāṃkhya treats liberation as attributable to a particular Puruṣa's psychophysical stream, not merely as the collapse of a universal illusion. |
+| Numerical plurality of attributeless consciousness is intelligible | ⚠️ The school accepts numerical difference without qualitative difference. |
+
+#### 2.4.3 Objections and replies
+
+**Objection.** ❓ **Advaita / Śaṃkara:** every difference cited is a difference in **upādhis** (limiting adjuncts — bodies, minds, guṇa-configurations), not in consciousness itself. Pure consciousness, being without attribute, part, action or spatial location, admits no principle of individuation; therefore Sāṃkhya proves at most a plurality of **cittas** (mental streams), not Puruṣas.
+
+**Reply.** ✅ Sāṃkhya replies that if there were one Puruṣa, the bondage of one would be the bondage of all and the release of one the release of all; the reflection model also requires distinct reflected loci in distinct buddhis.
+
+**Residual force.** ⚠️ Advaita answers that bondage itself is adventitious and the many jīvas are apparent, so the exchange terminates in a clash of first principles: Sāṃkhya trusts the plurality given in experience, while Advaita subordinates plurality to the unity given in śruti.
+
+**Objection.** ❓ **Nyāya:** Nyāya agrees that selves are many, but objects to a purely inactive self; an agent-less self cannot be the locus of moral desert, so Nyāya makes ātman a substance with adventitious cognition, volition and effort.
+
+**Reply.** ✅ Sāṃkhya replies that agency belongs to Prakṛti's evolutes; ascribing agency to Puruṣa is precisely the **abhimāna** that bondage consists in.
+
+**Objection.** ❓ **Buddhist:** a permanent, changeless and actionless entity is causally idle and therefore, by **arthakriyā** (efficacy), unreal.
+
+**Reply.** ✅ Sāṃkhya replies that Puruṣa's efficacy is not productive causation but **sannidhi / sānnidhya** (mere presence) that renders Prakṛti's activity experienced; without Puruṣa the teleology of Prakṛti (**puruṣārtha**) is unintelligible.
+
+**Objection.** ❓ **Internal objection:** if Puruṣas are all identical in nature — pure, attributeless consciousness — what makes them numerically many?
+
+**Reply.** ⚠️ Sāṃkhya's honest answer is that plurality is inferred from the non-transferability of experience, bondage and liberation, but the ultimate individuation of qualitatively identical Puruṣas remains the school's weakest joint.
+
+#### 2.4.4 Teleology of Prakṛti for Puruṣa
+
+**Statement.** ✅ Prakṛti acts for **puruṣārtha** — the sake of Puruṣa — by providing experience and finally the possibility of discriminative release.
+
+**Example.** ✅ Prakṛti is said to function **like milk flowing for the calf**: unconscious, yet serving a purposive end.
+
+**Example.** ✅ Puruṣa and Prakṛti cooperate **like the lame man and the blind man**: Puruṣa can see but not act; Prakṛti can act but not see.
+
+**Example.** ✅ Prakṛti is **like a dancer who retires once she has been seen**: after discriminative knowledge, she no longer performs binding activity for that Puruṣa.
+
+**Example.** ✅ Prakṛti is also **like a modest woman who withdraws on being seen**: once her distinction from Puruṣa is disclosed, concealment ends.
+
+**Objection.** ❓ Unconscious teleology appears incoherent because purposiveness seems to require intelligence.
+
+**Reply.** ⚠️ Sāṃkhya replies that purposive functioning need not be conscious planning; the guṇa-structure naturally unfolds in the presence of Puruṣa, just as milk nourishes the calf without deliberation.
+
+
 
 ### 2.5 Nature of Puruṣa
 
@@ -290,31 +459,93 @@ Puruṣa = 25th tattva, but not an evolute of Prakṛti
 
 ### 4.2 The five arguments for satkāryavāda
 
-#### (1) **asadakaraṇāt** — the non-existent cannot be produced
-- ✅ What is absolutely non-existent cannot come into being.
-- ✅ Therefore the effect must in some sense already exist in the cause.
+**Statement.** ✅ The standard Sāṃkhya set gives five reasons for holding that the effect pre-exists in its material cause.
 
-#### (2) **upādāna-grahaṇāt** — a specific material cause is required
-- ✅ Specific effects require specific material causes.
-- ✅ This specificity implies that the effect is materially grounded in the cause.
+#### (1) **asadakaraṇāt** — because what does not exist cannot be brought into being
 
-#### (3) **sarva-sambhavābhāvāt** — not everything comes from everything
-- ✅ If effects did not pre-exist, anything could arise from anything.
-- ✅ Since this is false, the effect must be tied to a determinate causal base.
+**Statement.** ✅ A sheer non-entity cannot be produced.
 
-#### (4) **śaktasya śakya-karaṇāt** — only a potent cause produces what it can produce
-- ✅ A cause brings forth only that effect for which it possesses relevant power.
-- ✅ Such power is intelligible only if the effect is already present as potential in the cause.
+**Argument.** ✅ No amount of causal operation can produce a hare's horn or oil from sand; production presupposes something determinate to be produced.
 
-#### (5) **kāraṇa-bhāvāt** — effect shares the nature of cause
-- ✅ The effect is of the nature of the cause.
-- ✅ Therefore production is transformation of an already grounded reality, not emergence of an alien entity.
+**Example.** ✅ A potter's effort can manifest a pot from clay, but it cannot manifest a square circle from nothing.
 
-### 4.3 Pariṇāmavāda
+**Objection.** ❓ **Nyāya:** Sāṃkhya equivocates between the absolutely non-existent and the merely not-yet-existent; Nyāya denies only that the pot exists as a pot before production.
 
-- ✅ **Pariṇāmavāda** means real transformation.
-- ✅ The world is a real transformation of Prakṛti, not a mere illusion or appearance.
-- ⚠️ This is the distinctive Sāṃkhya version of satkāryavāda.
+**Reply.** ⚠️ Sāṃkhya presses that the "not-yet-existent" effect must still be something in the material cause, otherwise the operation would have no determinate terminus.
+
+#### (2) **upādāna-grahaṇāt** — because a determinate material cause is taken up
+
+**Statement.** ✅ Specific effects require specific material causes.
+
+**Argument.** ✅ One who wants curd takes milk, not water; one who wants cloth takes threads, not clay.
+
+**Example.** ✅ The selection of mango seed rather than sand for a mango tree shows a determinate causal base.
+
+**Objection.** ❓ The restriction may be explained by causal capacity rather than by the pre-existence of the effect.
+
+**Reply.** ⚠️ Sāṃkhya replies that causal capacity in the required determinate sense just is the latent presence of that effect in that material continuum.
+
+#### (3) **sarvasambhavābhāvāt** — because everything cannot arise from everything
+
+**Statement.** ✅ If effects were wholly non-existent before production, any cause could produce any effect.
+
+**Argument.** ✅ Non-existence as such is indistinguishable; therefore it cannot explain why curd arises from milk and not from water.
+
+**Example.** ✅ Cloth comes from threads, not from milk; curd comes from milk, not from threads.
+
+**Objection.** ❓ A rival can say that restrictions come from the constitution of causes, not from effects already existing in causes.
+
+**Reply.** ⚠️ Sāṃkhya replies that a constitution capable of producing only X is precisely the latent presence of X as a determinate effect-potential.
+
+#### (4) **śaktasya śakya-karaṇāt** — because the efficient can produce only what it is capable of producing
+
+**Statement.** ✅ A cause has a determinate **śakti** (potency) directed toward a determinate effect.
+
+**Argument.** ✅ A potency for X is unintelligible unless X is in some manner already there as the object of that potency.
+
+**Example.** ✅ Milk has the potency for curd, not for cloth; threads have the potency for cloth, not for curd.
+
+**Objection.** ❓ **Nyāya:** potency is a relational property of the cause, not the effect in latent form.
+
+**Reply.** ⚠️ Sāṃkhya replies that a merely relational potency cannot explain determinate production unless the producible form is already grounded in the material cause.
+
+#### (5) **kāraṇa-bhāvāt** — because the effect has the nature/being of the cause
+
+**Statement.** ✅ The effect is non-different from the cause in substance.
+
+**Argument.** ✅ Cloth is nothing over and above threads in a certain arrangement; it has the same material basis, weight and guṇa-continuity.
+
+**Example.** ✅ Ornament and gold differ in form and name, but the material substance remains gold.
+
+**Objection.** ❓ **Nyāya:** the whole (**avayavin**) is a new substance with new properties; a cloth covers, but separate threads do not.
+
+**Reply.** ⚠️ Sāṃkhya replies that the new properties are new **saṃsthāna** (arrangements/configurations), not new substances created out of non-being.
+
+### 4.3 Why Sāṃkhya's satkāryavāda is pariṇāmavāda
+
+**Statement.** ✅ Sāṃkhya's satkāryavāda is specifically **pariṇāmavāda**: the effect is a real transformation of the cause.
+
+**Distinction.** ✅ It is not **vivartavāda**, because the world is not a mere appearance superimposed on an unchanged cause; it is the real evolution of Prakṛti.
+
+**Argument.** ✅ The mechanism is **guṇa-pariṇāma**: the three guṇas transform and recombine to produce the differentiated tattvas.
+
+**Distinction.** ✅ In **sarūpa-pariṇāma**, each guṇa transforms homogeneously within its own nature during **pralaya** or equilibrium; in **virūpa-pariṇāma**, the guṇas transform heterogeneously and generate the manifest evolutes.
+
+**Objection.** ❓ If the effect already exists, causal effort becomes pointless.
+
+**Reply.** ✅ Production is **abhivyakti** (manifestation) of what is latent; effort removes obstruction and supplies conditions, it does not create being out of non-being.
+
+**Objection.** ❓ Satkāryavāda abolishes the distinction between cause and effect.
+
+**Reply.** ✅ Cause and effect differ by **avasthā** (state): the cause is latent/unmanifest, the effect is patent/manifest.
+
+**Objection.** ❓ Satkāryavāda implies the world was always exactly as it is now.
+
+**Reply.** ✅ Sāṃkhya denies that the gross effect is already manifest; only the determinate capacity/effect-form exists latently in the cause.
+
+**Exam use.** ⚠️ The mango-seed example should be written as latent effect + material continuity + real transformation, not as a miniature gross mango tree hidden inside the seed.
+
+
 
 ### 4.4 Contrast with Advaita vivartavāda
 
@@ -489,11 +720,13 @@ Puruṣa = 25th tattva, but not an evolute of Prakṛti
 ## 11. KEYWORD & STATEMENT BANK
 
 ### 11.1 Keywords
-- ✅ prakṛti · pradhāna · avyakta · guṇa · sattva · rajas · tamas · sāmyāvasthā
+- ✅ prakṛti · pradhāna · avyakta · mūla-prakṛti · guṇa · sattva · rajas · tamas · sāmyāvasthā
+- ✅ pratyakṣa · anumāna · āptavacana · śabda · sāmānyato-dṛṣṭa · saukṣmya · atīndriya
 - ✅ sarūpa-pariṇāma · virūpa-pariṇāma · Puruṣa · saṅghāta-parārthatvāt
 - ✅ triguṇādi-viparyayāt · adhiṣṭhānāt · bhoktṛ-bhāvāt · kaivalyārthaṃ pravṛtteḥ
-- ✅ mahat/buddhi · ahaṃkāra · tanmātra · mahābhūta · satkāryavāda · pariṇāmavāda
-- ✅ aviveka · viveka-jñāna · kaivalya · sānnidhya · nirīśvara · pradhāna-malla
+- ✅ mahat/buddhi · ahaṃkāra · manas · antaḥkaraṇa · trayodaśa-karaṇa · tanmātra · mahābhūta
+- ✅ satkāryavāda · asadakaraṇāt · upādāna-grahaṇāt · sarvasambhavābhāvāt · śaktasya śakya-karaṇāt · kāraṇa-bhāvāt
+- ✅ pariṇāmavāda · abhivyakti · avasthā · aviveka · viveka-jñāna · kaivalya · sānnidhya · nirīśvara · pradhāna-malla
 
 ### 11.2 Statement bank
 - ⚠️ Sāṃkhya is a dualist realism in which one unconscious Prakṛti evolves for the experience and liberation of many conscious Puruṣas.
@@ -524,6 +757,112 @@ Puruṣa = 25th tattva, but not an evolute of Prakṛti
 - ❌ **Trap / answer consequence:** Do not confuse one Prakṛti with one Puruṣa, or say the gross tree pre-exists visibly in the seed; reconstruct latent effect, material continuity and transformation.
 
 <!-- expanded-pyq-depth:end -->
+
+
+## 11A. PRESUPPOSITION LEDGER
+
+| Doctrine | Presupposition | What collapses if denied |
+|---|---|---|
+| Three-pramāṇa scheme | ✅ Perception, inference and reliable testimony are jointly sufficient for liberating knowledge. | ⚠️ Sāṃkhya must either multiply pramāṇas or leave Prakṛti/Puruṣa under-justified. |
+| Sāmānyato-dṛṣṭa inference to Prakṛti | ⚠️ A general correlation can justify an imperceptible material root. | ⚠️ The five proofs of Prakṛti become analogical guesses rather than philosophical inference. |
+| Guṇa theory | ✅ Qualitative variety arises from proportions of sattva, rajas and tamas within one Prakṛti. | ⚠️ Sāṃkhya loses its economical explanation of pleasure, pain, delusion and cosmic diversity. |
+| Satkāryavāda / pariṇāmavāda | ✅ The effect pre-exists latently and production is real transformation. | ⚠️ The continuity between cause and effect breaks, and Nyāya-style new production becomes stronger. |
+| Plurality of Puruṣas | ⚠️ Individual experience, bondage and liberation imply numerically distinct witnesses. | ⚠️ Liberation of one would threaten to become liberation of all, pushing the system toward Advaita. |
+| Puruṣa's inactivity | ✅ Agency belongs to Prakṛti's evolutes, not to pure consciousness. | ⚠️ Bondage would become a real modification of Puruṣa and kaivalya would be impossible. |
+| Reflection model | ⚠️ Insentient buddhi can appear conscious through Puruṣa's reflection. | ⚠️ Sāṃkhya cannot explain why cognition seems conscious while mind remains jaḍa. |
+| Kaivalya | ✅ Liberation is discriminative isolation, not union with God or Brahman. | ⚠️ The distinctively Sāṃkhya soteriology collapses into Yoga or Vedānta. |
+| Nirīśvaravāda | ✅ Prakṛti and Puruṣa are sufficient to explain world, bondage and liberation. | ⚠️ Yoga/Nyāya/Vedānta objections that an intelligent principle is required become decisive. |
+
+
+## 11B. PŪRVAPAKṢA–SIDDHĀNTA LEDGER
+
+| Objector | Objection | Sāṃkhya reply | Residual force ⚠️ |
+|---|---|---|---|
+| **Advaita / Śaṃkara** | ❓ As chief Sāṃkhya pūrvapakṣa in the *Brahmasūtra-bhāṣya*, unconscious Prakṛti cannot act purposively, cannot cause an ordered world, and cannot relate intelligibly to inactive Puruṣa. | ✅ Prakṛti's guṇa-structure evolves in Puruṣa's presence for experience and release; relation is sānnidhya, not physical contact. | ⚠️ The purposiveness of a jaḍa cause and the exact relation between the two absolutes remain the strongest Vedāntic pressure points. |
+| **Nyāya** | ❓ Asatkāryavāda is preferable; a self that neither acts nor knows is otiose; the world needs an intelligent maker. | ✅ Determinate material continuity supports satkāryavāda; cognition and agency belong to buddhi, while Puruṣa is the witness; Īśvara is unnecessary. | ⚠️ Nyāya's demand for an intelligent orderer remains powerful against unconscious teleology. |
+| **Buddhist** | ❓ No permanent substance is needed; an inactive Puruṣa fails arthakriyā. | ✅ Momentary streams cannot explain a stable witness of experience; Puruṣa's efficacy is presence-for-experience, not production. | ⚠️ The Buddhist can still press that non-productive efficacy is not real efficacy. |
+| **Mīmāṃsā** | ❓ The self must be a real agent for injunctions, duty and ritual responsibility to bind. | ✅ Sāṃkhya locates injunction-following in buddhi/ahaṃkāra while keeping Puruṣa untouched. | ⚠️ The moral subject risks becoming empirical rather than ultimate. |
+| **Yoga** | ❓ Practical discipline benefits from Īśvara as a special puruṣa and focus of surrender. | ✅ Sāṃkhya can accept discipline without making Īśvara metaphysically necessary. | ⚠️ Yoga looks more religiously and practically complete for many soteriological questions. |
+| **Viśiṣṭādvaita** | ❓ Matter and selves cannot be independent of Brahman; an unconscious Prakṛti without divine control cannot explain cosmic order. | ✅ Sāṃkhya insists that independent Prakṛti plus plural Puruṣas are sufficient for realism and liberation. | ⚠️ Theistic Vedānta gives a stronger account of unity, value and ordered purposiveness. |
+
+
+## 11C. INTER-SCHOOL POSITIONING
+
+| School | Pramāṇas | Self | Plurality/unity | Causation | God | Bondage | Liberation | Jīvanmukti |
+|---|---|---|---|---|---|---|---|---|
+| **Sāṃkhya** | ✅ Three: pratyakṣa, anumāna, śabda | ✅ Puruṣa, pure inactive consciousness | ✅ Many Puruṣas | ✅ Satkāryavāda + pariṇāmavāda | ✅ Nirīśvara | ✅ Aviveka and abhimāna through buddhi | ✅ Kaivalya by viveka-jñāna | ⚠️ Accepted as body continuing by prior momentum |
+| **Yoga** | ✅ Three textual pramāṇas, with practical appeal to yogi-pratyakṣa | ✅ Puruṣa | ✅ Many Puruṣas plus special Puruṣa | ✅ Sāṃkhya-like pariṇāma | ✅ Seśvara | ✅ Citta-vṛtti and kleśas | ✅ Kaivalya through aṣṭāṅga-yoga and discriminative knowledge | ✅ Strong practical account |
+| **Nyāya-Vaiśeṣika** | ✅ Four in classical Nyāya | ✅ Ātman as substance with adventitious qualities | ✅ Many selves | ✅ Asatkāryavāda / ārambhavāda | ✅ Īśvara as maker | ✅ False knowledge, doṣa and karma | ✅ Apavarga as cessation of suffering | ⚠️ Not central in the same way |
+| **Buddhism** | ✅ Two in epistemological schools: pratyakṣa and anumāna | ✅ No permanent self | ✅ No eternal ātman/puruṣa | ✅ Dependent origination | ✅ No creator God | ✅ Ignorance, craving and clinging | ✅ Nirvāṇa | ⚠️ Interpreted differently across schools |
+| **Jainism** | ✅ Two broad pramāṇa classes with many subtypes | ✅ Jīva as conscious substance | ✅ Many jīvas | ✅ Realism with modification | ✅ No creator God | ✅ Karmic matter binds jīva | ✅ Kevala-jñāna and release | ✅ Liberated embodied stages discussed |
+| **Mīmāṃsā** | ⚠️ Five or six, depending on Prābhākara/Bhāṭṭa | ✅ Enduring self as agent/enjoyer | ✅ Many selves | ✅ Realism; no creation from nothing | ✅ Creator God not required classically | ✅ Karma and ritual obligation | ✅ Often framed as cessation/attainment through dharma | ⚠️ Not a central Sāṃkhya-style doctrine |
+| **Advaita** | ✅ Six in standard Advaita | ✅ Ātman-Brahman as non-dual consciousness | ✅ Ultimately one | ✅ Satkārya orientation as vivartavāda | ✅ Īśvara at empirical level | ✅ Avidyā/superimposition | ✅ Mokṣa as Brahman-realization | ✅ Central |
+| **Viśiṣṭādvaita** | ✅ Three central: pratyakṣa, anumāna, śabda | ✅ Selves as real modes of Brahman | ✅ Many selves within qualified non-dualism | ✅ Real transformation/dependence under Brahman | ✅ Nārāyaṇa/Brahman supreme | ✅ Karma and ignorance of dependence | ✅ Service to Brahman; release without identity-collapse | ✅ Accepted in qualified form |
+
+**Sāṃkhya vs Advaita on satkāryavāda.** ⚠️ Both can be treated as satkāryavādins because both deny sheer creation from non-being; the decisive difference is **pariṇāma** versus **vivarta**. Sāṃkhya's real transformation yields dualistic realism, while Advaita's apparent transformation yields non-dual idealism/acosmic tendency.
+
+**Sāṃkhya vs Yoga.** ⚠️ Yoga is a friendly amendment to Sāṃkhya: it retains the broad metaphysics of Prakṛti, guṇas and many Puruṣas, but adds **Īśvara**, stronger practical discipline, **Īśvara-praṇidhāna** and **yogi-pratyakṣa**; hence Sāṃkhya is nirīśvara and more theoretical, while Yoga is seśvara and more practical.
+
+
+## 11D. CONTROLLED WESTERN COMPARISON
+
+| Comparison | Point of contact | Disanalogy / warning |
+|---|---|---|
+| **Puruṣa/Prakṛti and Cartesian dualism** | ⚠️ Both posit two irreducible principles. | ⚠️ Descartes' mind thinks and acts and interacts with body; Puruṣa is inactive, and relation is proximity/reflection, not causal interaction. |
+| **Guṇas and elemental/field principles** | ⚠️ Both explain qualitative variety through proportions of a few basic factors. | ⚠️ Guṇas are simultaneously ontological, psychological and ethical; no exact Western analogue exists. |
+| **Satkāryavāda and Aristotle's potentiality/actuality** | ⚠️ Both deny creation ex nihilo and treat change as actualisation of what is already possible. | ⚠️ Aristotle's matter is indeterminate potentiality requiring form/finality; Prakṛti contains determinate effects and unfolds without an external agent. |
+| **Prakṛti's teleology and Schopenhauer's Will** | ❓ Both can look like unconscious purposive striving; Schopenhauer also read Indian materials. | ⚠️ Schopenhauer's Will is one metaphysical drive; Sāṃkhya has one Prakṛti but many Puruṣas, and liberation is discriminative separation. |
+| **Sāṃkhya evolution and Darwinian evolution** | ⚠️ Both use the word "evolution" for ordered emergence. | ✅ UPSC trap: Sāṃkhya evolution is tattva-unfolding from a material cause, not descent with modification by natural selection. |
+| **Kaivalya and Stoic apatheia** | ⚠️ Both involve release from passion and misidentification. | ⚠️ The Stoic sage remains an agent in a rational cosmos; Sāṃkhya's Puruṣa is inactive and isolated from Prakṛti. |
+
+**Rubric.** ⚠️ **Western parallels are illustrative only, never a substitute for the Sāṃkhya argument; use at most one or two lines after the Indian case is complete.**
+
+
+## 11E. DIRECTIVE DECODER
+
+| Directive | What the examiner is testing | Structural move for a Sāṃkhya answer | Closing verdict |
+|---|---|---|---|
+| **Discuss** | ⚠️ Breadth plus ordered explanation. | ⚠️ State thesis → explain doctrine → add one debate. | ⚠️ "Thus Sāṃkhya offers a coherent realist account, though its relation problem remains." |
+| **Examine** | ⚠️ Internal logic. | ⚠️ Give reasons/presuppositions, not just features. | ⚠️ "The doctrine stands if its inferential presupposition is granted." |
+| **Critically examine** | ⚠️ Doctrine plus objections. | ⚠️ Exposition → named pūrvapakṣa → Sāṃkhya reply → residual weakness. | ⚠️ "Strong as system-internal realism, vulnerable at the puruṣa–prakṛti relation." |
+| **Analyse** | ⚠️ Components and causal links. | ⚠️ Break into Prakṛti, Puruṣa, guṇas, causation and liberation. | ⚠️ "The strength lies in how the parts mutually support one another." |
+| **Evaluate** | ⚠️ Reasoned judgement. | ⚠️ Weigh explanatory gain against objections. | ⚠️ "More persuasive as phenomenology of consciousness than as final metaphysics." |
+| **Compare** | ⚠️ Similarity and difference. | ⚠️ Use a table; compare causation, self, God, liberation. | ⚠️ "The decisive difference is ..." |
+| **Distinguish** | ⚠️ Precise conceptual separation. | ⚠️ Define both terms and give the non-overlap. | ⚠️ "Confusing these terms changes the whole system." |
+| **Elucidate** | ⚠️ Clarification through example. | ⚠️ Define → illustrate → connect to liberation/PYQ. | ⚠️ "The example shows the doctrine's intended force." |
+| **Comment** | ⚠️ Short judgement on a quoted claim. | ⚠️ Identify claim → support → qualify. | ⚠️ "The statement is substantially correct, but incomplete without ..." |
+| **Bring out** | ⚠️ Make implicit significance explicit. | ⚠️ State feature → show why it matters for the system. | ⚠️ "This brings out Sāṃkhya's distinctive dualist realism." |
+| **Do you agree?** | ⚠️ Balanced assent/dissent. | ⚠️ Say yes/no/partly → argue both sides → verdict. | ⚠️ "I agree only to the extent that ..." |
+
+
+## 11F. GRADED VERDICT ON SĀṂKHYA
+
+### 11F.1 What is strong
+
+- ✅ Sāṃkhya is a rigorously argued non-theistic realism rather than a loose mythology of evolution.
+- ✅ Its guṇa theory is one of the most economical Indian accounts of qualitative variety.
+- ✅ Satkāryavāda is a genuinely powerful causal thesis because it explains determinate production and material continuity.
+- ✅ Its separation of consciousness from mental function anticipates the modern distinction between phenomenal consciousness and cognitive processing.
+
+### 11F.2 What is weak
+
+- ⚠️ The puruṣa–prakṛti relation is under-explained because inactive consciousness and unconscious matter must somehow generate experience.
+- ⚠️ Unconscious teleology remains difficult: Prakṛti works "for" Puruṣa without intelligence.
+- ⚠️ Individuation of attributeless Puruṣas is the weakest point in the plurality doctrine.
+- ⚠️ The beginning of bondage is obscure because Puruṣa is never really modified and Prakṛti is beginningless.
+
+### 11F.3 What is genuinely contested
+
+- ❓ Whether early Sāṃkhya was originally theistic or consistently nirīśvara remains debated.
+- ❓ Whether kaivalya is purely negative isolation or has a positive phenomenological character is disputed.
+- ❓ The relation between the Kārikā tradition and later Sūtra tradition is historically and doctrinally contested.
+
+### 11F.4 Ready one-line verdicts
+
+- **10 marks.** ⚠️ Sāṃkhya is strongest as a concise dualist realism: one Prakṛti explains the world, many Puruṣas explain experience, and viveka explains liberation.
+- **15 marks.** ⚠️ Sāṃkhya's power lies in the mutual fit of pramāṇa, satkāryavāda, guṇa theory and kaivalya, though its contact problem invites Vedāntic criticism.
+- **20 marks.** ⚠️ Sāṃkhya is a philosophically serious non-theistic system whose causal realism and psychology of reflection are impressive, but whose unconscious teleology and plurality of attributeless Puruṣas remain unresolved pressure points.
+
 
 ## 12. PYQ ROUTING (2018–2025)
 

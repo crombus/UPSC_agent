@@ -238,27 +238,66 @@ variation and high litigation-related uncertainty.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Direct demand A — NGOs/activists and EIA outcomes (2024 GS-III, 10 marks)
+
+**Thesis:** NGOs and affected citizens improve EIA outcomes by making baseline gaps, livelihood impacts and compliance failures visible through hearings, independent evidence and judicial review; they influence scrutiny, conditions, remand or refusal, but are not a substitute for expert appraisal or elected administration.
+
+| Case / participation route | Documented influence on the project process | Precise status discipline |
+|---|---|---|
+| **Mopa Greenfield Airport, Goa — *Hanuman Laxman Aroskar v. Union of India*, Supreme Court, 29 March 2019** | Citizen-environmental litigation exposed appraisal/baseline and safeguard concerns; the Court required a fresh expert review and suspended the earlier environmental-clearance route pending that exercise. | Use it as an EIA-quality and judicial-review example; do **not** call it a permanent project cancellation, since later orders/conditions changed the project’s procedural position. |
+| **Niyamgiri bauxite proposal, Odisha — *Orissa Mining Corporation v. MoEF*, 18 April 2013** | Dongria Kondh mobilisation and the Court-directed Gram Sabha process made forest, religious and livelihood impacts decision-relevant; the process preceded the final forest-clearance refusal. | This is principally a forest-rights/forest-clearance and community-consent example, not a routine EIA-2006 public-hearing precedent. State that boundary. |
+| **POSCO steel project, Jagatsinghpur, Odisha — *Prafulla Samantray v. Union of India*, NGT Appeal 8/2011, 30 March 2012** | The challenge exposed appraisal of only the first 4-MTPA phase of a proposed 12-MTPA project; NGT suspended/set aside the 31 January 2011 EC pending a fresh full-project review and monitoring conditions. | Do not claim activism alone “cancelled” the project; distinguish the NGT’s procedural remedy from the later commercial and policy decision not to proceed. |
+| **Kudremukh iron-ore mining, Karnataka — *T.N. Godavarman/K.M. Chinnappa v. Union of India*, 30 October 2002** | Wildlife First’s conservation litigation placed mining inside the National Park under a precautionary framework; the Court confined work to already broken land, barred fresh area/pipeline activity and required wind-up by end-2005 with reclamation. | It is a wildlife/protected-area judicial-enforcement example, not a textbook 2006 EIA hearing; use it to show the wider project-accountability ecosystem. |
+
+**150-word spine:** define information/representation role → give four one-line examples with their route and bounded outcome → note risks of selective expertise/delay → verdict: transparent evidence, accessible hearings and reasoned appraisal strengthen rather than replace legitimate development.
+
+### 13.2 Direct demand B — mining as environmental hazard (2025 GS-III, 15 marks)
+
+**Hazard chain:** vegetation/topsoil removal and fragmentation → erosion and habitat loss; drilling, blasting, haulage and crushing → dust/noise; overburden/tailings and sulphide exposure → sediment/chemical drainage risk; dewatering and waste disposal → groundwater/surface-water stress; abandoned workings/dumps → long-lived safety and restoration liability.
+
+| Remedy | Why it answers the hazard |
+|---|---|
+| Strategic siting, cumulative impact assessment and meaningful public consultation before clearance | Avoids putting a mine in an ecologically or socially irreplaceable landscape. |
+| Mine plan/EMP, pollution control, water balance and independent compliance monitoring | Controls active dust, effluent, noise and dewatering pathways. |
+| Progressive reclamation: topsoil conservation, backfilling/stable dumps, native-biome restoration and closure finance | Prevents a deferred abandoned-mine liability; restoration begins during, not after, extraction. |
+| Community/FRA due diligence, disclosure and grievance redress | Makes livelihood, rights and benefit-sharing risks visible rather than treating geology as the only variable. |
+
+Use **Kudremukh** as a named conservation-risk case and **Jharia coalfield fires** only as an extraction-legacy illustration; do not attach unverified area, casualty or financial figures. Close: mineral security does not justify treating a clearance or closure plan as proof of achieved restoration.
+
+### 13.3 Universal EIA/NGT spine
+
+For any 10/15/20 marker: classify project and stage → identify baseline, alternatives and affected rights → test consultation quality → use precaution/polluter-pays/sustainable-development principles → distinguish notification, office memorandum and judgment → conclude with enforceable post-clearance monitoring. Ex post facto clearance cannot recreate the preventive choice that prior appraisal was meant to inform.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2019
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Years represented:** 2018, 2019, 2020, 2022
+- **Paper(s):** GS-I, GS-II, GS-III, Prelims GS-I
+- **Routed question demands:** 6
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 6 | Policy contradictions across sectors and environmental degradation | Comment with relevant illustrations · 10 marks · 150 words | Cross-cutting; policy design and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2018 | Prelims GS-I | 4 | National Green Tribunal versus Central Pollution Control Board | Objective question; official key unavailable locally | Cross-routed to environmental specialist and tribunal-versus-regulator classification; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | GS-I | 15 | Restoring mountain ecosystems from development and tourism impacts | How can it be restored · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | Prelims GS-I | 58 | Environment Protection Act 1986 Government of India powers | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-III | 7 | Draft EIA Notification 2020 differences from 2006 notification | How does · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 1 | Constitutionalization of environmental problems by the Supreme Court | Discuss with case laws · 10 marks · 150 words | Cross-cutting; judicial review and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
+- Policy contradictions across sectors and environmental degradation
 - National Green Tribunal versus Central Pollution Control Board
+- Restoring mountain ecosystems from development and tourism impacts
 - Environment Protection Act 1986 Government of India powers
+- Draft EIA Notification 2020 differences from 2006 notification
+- Constitutionalization of environmental problems by the Supreme Court
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

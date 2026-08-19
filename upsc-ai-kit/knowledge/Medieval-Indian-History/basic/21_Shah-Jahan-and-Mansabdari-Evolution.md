@@ -76,3 +76,37 @@
 - ⚠️ "Shah Jahan's reign marked both the zenith of Mughal grandeur and the first signs of systemic strain." Discuss (architecture vs mansabdari/month-scale).
 - ⚠️ Explain how the **month-scale** device foreshadowed the later **jagirdari crisis**.
 - ⚠️ Evaluate Shah Jahan's **Deccan and Central Asian (Balkh/Qandahar)** policies — gains vs overreach.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Discuss zenith and strain | "Shah Jahan's reign simultaneously represented the empire's cultural apex (Taj Mahal, Shahjahanabad) and its fiscal-structural apex-of-strain: the month-scale device openly acknowledged that jagir yields could not match swelling mansabdar numbers." |
+| Examine jagirdari foreshadowing | "The month-scale — paying only 8, 6 or even 4 months' value for a 12-month-rated jagir — was an accounting fix, not a solution; it converted a fiscal crisis into a slow-burning legitimacy crisis that would explode under Aurangzeb." |
+| Evaluate external ventures | "Balkh (1646–47) was strategically rational (prevent Uzbek unity) but logistically unsustainable; Qandhar's loss (1649) and three failed recoveries revealed that Mughal military power could not project effectively beyond the subcontinent." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Month-scale: jagirs rated at 12 months often paid only 8/6/4 months' real yield | Mansabdar numbers outgrew productive jagir supply | Core mechanism of the nascent jagirdari crisis | The crisis matured fully only under Aurangzeb; Shah Jahan managed it |
+| 2 | ✅ Deccan jagirs rated only 3–4 months (highly inflated jama) | Southern expansion worsened the fiscal imbalance | Explains why Deccan postings were unpopular and extraction intensified | Inflated jama also reflects poor surveys, not only deliberate fraud |
+| 3 | ✅ Nizam Shahi ended (1633); 1636 treaties with Bijapur/Golconda | Deccan settled through pragmatic suzerainty | Shows Shah Jahan's ability to combine force with diplomacy | Treaties were temporary; late-reign invasions (1656–57) reopened the question |
+| 4 | ✅ Taj Mahal, Red Fort, Jama Masjid, Shahjahanabad | Architectural apex funded by imperial revenue system | Demonstrates wealth alongside fiscal strain — apparent paradox | Monumental spending may have worsened the treasury/jagir imbalance |
+| 5 | ✅ Qandhar lost (1649); three failed campaigns (Aurangzeb twice, Dara once) | External military limits now undeniable | Demonstrates siege-warfare gap vs Persian fortifications | Failures also reflect internal succession tensions between princes |
+
+### 8.3 Counterpoints
+
+- ⚠️ The month-scale was not crisis at Shah Jahan's time — it was a managed fiscal adjustment; "crisis" language applies more to post-1707.
+- ⚠️ Architectural grandeur was partly funded by conquest wealth (Deccan) and partly by squeeze on existing nobles — not purely growth.
+- ⚠️ War of succession (1658) also reflects Shah Jahan's failure to institutionalise orderly transfer of power.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Month-scale + architecture paradox; conclude: grandeur masked fiscal strain.
+- **15-mark:** Add Deccan settlement + Qandhar failure + succession; conclude: zenith externally, stress internally.
+- **20-mark:** Full 5-unit + link to later jagirdari crisis + historiographical note on "golden age" framing; graded verdict.

@@ -100,6 +100,95 @@ Yorktown (1781) -> Treaty of Paris (1783)
 2. Why is the American Revolution seen as a constitutional turning point in modern world history?
 3. How did Enlightenment ideas shape the American struggle for independence?
 
-## 8. Study link
+## 8. Answer architecture (10/15/20-mark support)
+
+> **Core-sufficiency note:** this file must independently support the "how revolutionary was it?"
+> demand and the **2019-style cross-cutting demand** on the American and French Revolutions and
+> the foundations of the modern world (routed in the ledger to the advanced tier; the Core
+> evidence needed for it is supplied here). `advanced/02` adds interpretive depth only.
+
+### 8.1 Directive and demand map
+
+| If the question says | It is really testing | Do NOT write |
+|---|---|---|
+| *Analyse the causes* | Interaction of mercantilist restriction, taxation, self-government and ideas | The tax narrative alone |
+| *How revolutionary was it?* | Political/constitutional innovation vs social continuity | "It was a great revolution" |
+| *Constitutional turning point?* | Written constitution, federalism, rights-entrenchment as **novelties** | Describing the Constitution's contents |
+| *Contribution to the foundations of the modern world* | Exportable models: written constitution, federal republic, rights entrenchment, legitimate anti-colonial revolt | A US-centred narrative |
+| *Compare with the French Revolution* | Depth of social transformation | Flattening the two |
+| *Rights and exclusions* | Enslaved people, Native Americans, women, loyalists | Only "all men are created equal" |
+
+### 8.2 Qualified thesis templates
+
+- ⚠️ **Radical/conservative:** "The American Revolution was radical in what it *created* — a rights-entrenching federal republic — and conservative in what it *left standing*: slavery, property qualifications and existing elites."
+- ⚠️ **Foundations:** "Its world-historical contribution was procedural rather than social: it showed that a people could write down the terms of its own government and hold rulers to that text."
+- ⚠️ **Causes:** "It began as a constitutional dispute over who may tax and legislate, and became a national revolution only when Britain answered a claim of right with coercion."
+
+### 8.3 Mark-scaled structures
+
+| Marks | Structure |
+|---|---|
+| **10** | Thesis → **two** causes (one economic, one political-ideological) → the constitutional outcome → one exclusion → verdict |
+| **15** | Thesis → causes → escalation from protest to independence → internationalisation → constitutional settlement → exclusions → verdict |
+| **20** | All of the above → **plus** world-historical significance and a disciplined comparison with the French Revolution → verdict |
+
+### 8.4 Evidence bank A — causes as an interacting system
+
+| Claim | ✅ Named evidence | Analytical significance | Caution |
+|---|---|---|---|
+| Empire constrained colonial economic life | ✅ Old NCERT: colonies forced into British ships, markets and manufactures | Grievance was structural, not episodic | ⚠️ Many colonists still profited within the imperial system |
+| Post-1763 fiscal reordering triggered the conflict | ✅ Library of Congress: Britain's war debt after 1763 led to new taxation, regulation and troops | Explains the timing precisely | ⚠️ The sums were not crushing; the *principle* was the issue |
+| Taxation without representation was a constitutional claim | ✅ Stamp Act 1765; duties without colonial representation | Turns a fiscal dispute into a sovereignty dispute | ⚠️ "Representation" meant colonial assemblies, not universal franchise |
+| Settlement restriction added a land grievance | ✅ Old NCERT notes anger over limits on westward movement | Widens the coalition beyond merchants | ⚠️ Westward expansion meant dispossession of Native peoples — state this if asked for social consequences |
+| Existing self-government supplied the institutions of revolt | ✅ Colonies already had local assemblies | The revolution had ready-made political machinery | ⚠️ Assemblies were elite bodies |
+| Ideas legitimised resistance | ✅ Locke, Jefferson, Paine and rights-language | Converts resistance into lawful defence of rights | ⚠️ Ideas did not create the grievance |
+
+### 8.5 Evidence bank B — how revolutionary? (radical vs conservative ledger)
+
+| Radical / novel | ✅ Evidence | Conservative / continuous | ✅ Evidence |
+|---|---|---|---|
+| Rights-based claim to statehood | ✅ Declaration of Independence (1776): all men created equal; inalienable rights to life, liberty and the pursuit of happiness | Slavery survived the Revolution | ⚠️ The Revolution did not abolish it; see `basic/08` for the contrast with Haiti |
+| A written constitution creating a federal republic | ✅ U.S. Constitution in effect 1789 | Property and status qualifications limited political participation | ⚠️ This folder's own trap warns against calling it fully democratic in 1776 or 1789 |
+| Entrenched liberties against government | ✅ Bill of Rights protects speech, press, religion and legal safeguards | Existing colonial elites largely retained social leadership | ⚠️ Leadership continuity, not social overturn |
+| Rejection of monarchy as a form | ✅ Federal republic, not a monarchy | Native American land dispossession accelerated | ⚠️ Independence removed the imperial restraint on westward settlement |
+| A successful anti-imperial precedent | ✅ Treaty of Paris (1783) recognised independence | Women gained no equivalent political status | ⚠️ Rights-language outran rights-practice |
+
+⚠️ **The examinable line:** "A political revolution with a constitutional method and a social
+settlement it declined to disturb."
+
+### 8.6 Evidence bank C — foundations of the modern world (exportable models)
+
+| Model exported | ✅ Evidence | ⚠️ Why it mattered beyond America |
+|---|---|---|
+| Written, supreme constitution | ✅ Constitution in effect 1789 | Establishes the idea that the state's powers are enumerated in a text |
+| Federal division of power | ✅ Federal republic; the 1781 union phase preceded it | Provides a template for large, diverse polities |
+| Entrenched bill of rights | ✅ Bill of Rights | Rights become judicially defensible, not merely proclaimed |
+| Legitimate revolt against empire | ✅ Declaration's rights-based justification | Supplies the argument later used across the Atlantic world and, in different form, by 20th-century anti-colonial movements |
+| Internationalised anti-colonial war | ✅ Saratoga and the French alliance (1777–78); Spain and the Dutch also hurt Britain | Shows that imperial power can be broken by combining local resistance with great-power rivalry |
+
+⚠️ **Caution for the cross-cutting American+French question:** give each revolution its own
+distinct contribution (America: constitutional form and federal republic; France: social
+destruction of privilege, citizenship and the modern nation), then state the shared inheritance.
+Do not merge them into a single "Atlantic revolution" — see `basic/01` §8.6.
+
+### 8.7 Verdict scaffolds
+
+- **"How revolutionary?"** → "Revolutionary in constitutional form, reformist in social content, and consequential precisely because the gap between its declared principle and its practice became the engine of later American conflict."
+- **"Foundations of the modern world?"** → "It contributed the *method* — a people writing and binding itself by a constitution; France contributed the *content* — the destruction of privilege and the making of the citizen."
+- **"Causes?"** → "A revolt over the terms of empire became a revolution over the source of authority."
+
+### 8.8 Factual-risk controls
+
+- ❌ Do not conflate the Declaration of Independence (1776) with the Constitution (in effect 1789) or the Bill of Rights.
+- ❌ Do not say the Revolution established democracy. ✅ It established a federal republic with a restricted franchise.
+- ❌ Do not claim it abolished slavery — it did not.
+- ❌ Do not give troop numbers, casualty figures or tax revenue figures; none is sourced here.
+- ❌ Do not quote the Declaration beyond the phrases already verified in §2 from the National Archives transcript.
+- ❌ Do not say Britain fought only the colonies. ✅ After 1778 the conflict was international.
+- ❌ Do not date the Boston Tea Party or Lexington loosely. ✅ 1773 and 1775.
+
+## 9. Study link
 
 World History → Age of Revolutions → American Revolution
+World History → `basic/01` §8.6 for the disciplined Atlantic comparison
+World History → `advanced/02_American-Revolution.md` for the "how revolutionary" historiography (optional)

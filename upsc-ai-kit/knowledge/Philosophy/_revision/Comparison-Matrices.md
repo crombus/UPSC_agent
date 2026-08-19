@@ -162,7 +162,198 @@
 
 ---
 
-## OWNER-FILE LINKS
+## 15. PLATO vs ARISTOTLE — the item-1 master grid ✅
+
+| Axis | Plato | Aristotle |
+|---|---|---|
+| Where the Form is | **separate** (*chōrismos*), a paradigm particulars imitate | **in** the thing, as its organising essence |
+| What is most real | the **universal** Form | the **individual** compound (*Categories*), whose substance-hood is its **form** (*Metaphysics* Z) |
+| Relation of thing to Form | *methexis*/*mimēsis* — participation, left metaphorical | form actualises matter; no third relation needed |
+| Causation | Forms as paradigms; the Good as ultimate cause of intelligibility | **four causes** (material, formal, efficient, final) as four kinds of *explanation* (*aitia*) |
+| Change | a defect of the sensible realm | **potentiality → actuality**, the very structure of nature |
+| Knowledge | recollection; ascent through *eikasia → pistis → dianoia → noēsis* | abstraction from sense-experience; induction to first principles |
+| God | the Good, "beyond being" (*epekeina tēs ousias*) | Unmoved Mover: pure actuality, thought thinking itself |
+> 🔑 "**Plato separates and Aristotle immanentises.**" ❌ Never write that Aristotle "rejected
+> forms" — he rejects *separated* forms; and *aitia* means explanatory factor, not a push.
+
+## 16. THE DIVIDED LINE — one scale read twice ✅
+
+| Segment | State of the soul | Object | Method that defines it |
+|---|---|---|---|
+| D | *eikasia* — imagination | images, shadows, reflections | passively taking an image for its original |
+| C | *pistis* — belief | visible things themselves | ordinary perception and trust |
+| B | *dianoia* — thought | mathematical objects | argues **downward** from unexamined hypotheses, **using** visible images |
+| A | *noēsis* — understanding | Forms, up to the Good | argues **upward** to an unhypothetical principle, using **no** images |
+> ⚠️ The examinable point is that *dianoia* and *noēsis* differ by **direction of argument and
+> use of images**, not by difficulty. The Cave adds two things the Line lacks: the *periagōgē*
+> (turning of the whole soul) and the **return** (*katabasis*) that grounds the political
+> conclusion.
+
+## 17. MOORE vs RUSSELL vs EARLY WITTGENSTEIN ✅
+
+| Axis | Moore | Russell | Early Wittgenstein |
+|---|---|---|---|
+| Starting point | truisms of common sense are better known than sceptical premises | logic is the essence of philosophy; analysis to atomic facts | the general form of the proposition |
+| Against idealism | "Refutation of Idealism": *esse* is not *percipi*; the object of sensation is distinct from the sensing | idealism confuses the act with the object; relations are external | the limit of language is drawn from within |
+| Signature device | appeal to certainty of ordinary knowledge claims | **theory of descriptions**: "the F" is an **incomplete symbol** with no meaning in isolation | **picture theory**: a proposition shares logical form with the fact it depicts |
+| Logical constructions | — | replace inferred entities with constructions out of known ones | objects are the fixed substance of the world |
+| Limit of language | philosophy clarifies ordinary claims | ideal logical language avoids misleading grammar | **saying vs showing** — logical form and the mystical are *shown*, not said |
+| Weakness the examiner probes | does asserting a truism *prove* it? | does analysis reveal reality or impose a form on it? | the *Tractatus* condemns its own sentences as nonsense (the ladder) |
+
+## 18. LOGICAL POSITIVISM — the internal fracture ✅
+
+| Axis | Schlick's line | Neurath's line |
+|---|---|---|
+| Protocol sentences | a foundational, incorrigible observation base | statements, hence revisable like any other; no bedrock |
+| Structure of knowledge | foundationalist | coherentist ("Neurath's boat" — rebuilt plank by plank at sea) |
+| Test of meaning | verification against experience | intersubjective testability within a physicalist language |
+| Consequence | if the base is theory-laden, the criterion loses its anchor | empiricist *foundations* are surrendered to keep public checkability |
+
+| Verification variant | Content | Standard objection |
+|---|---|---|
+| **Strong** | conclusive verification by experience | destroys universal scientific laws and past-tense statements |
+| **Weak** | observation must be *relevant to* determining truth/falsity | too permissive — lets metaphysical sentences back in |
+| **Directly / indirectly verifiable** (Ayer's revision) | an indirectly verifiable statement yields observation-statements in conjunction with other premises | still admits unwanted statements; and the criterion is neither analytic nor verifiable — the self-refutation charge |
+> ⚠️ The positivist reply worth writing: the principle is a **proposal** or stipulative
+> definition of cognitive significance, not an empirical claim about the world.
+
+## 19. EARLY vs LATER WITTGENSTEIN ✅
+
+| Axis | *Tractatus* | *Investigations* |
+|---|---|---|
+| Meaning | a name stands for an object; a proposition pictures a possible fact | **use** in a language-game and a form of life |
+| Unity of language | one underlying logical form | **family resemblance** — overlapping similarities, no common essence |
+| Method | construct the logical scaffolding of any possible language | describe; "assemble reminders"; dissolve philosophical puzzles |
+| Ordinary language | superficially misleading, needs logical analysis | already in order; philosophy leaves it as it is |
+| The private | the mystical is shown, not said | a logically private language is impossible: no criterion of correctness |
+| Rule-following | rules are fixed by logical form | no interpretation fixes a rule (each needs interpreting); the regress ends in **trained practice** |
+> ❌ Do not say the later Wittgenstein "refuted" the earlier one and left nothing standing; he
+> rejects the *one-form* assumption while retaining the anti-metaphysical impulse.
+
+## 20. HUSSERL — the two attitudes ✅
+
+| Axis | Natural attitude | Phenomenological attitude |
+|---|---|---|
+| Status of the world | existence is unreflectively **posited** | the posit is **suspended** (*epoché*) — suspended, not denied |
+| What is studied | facts, causes, psychological events | essences (*eidē*) and structures of experience |
+| Guard against | psychologism: reducing logical validity to psychological laws | naturalism smuggled back in through "consciousness as a thing" |
+| Core structure | — | **intentionality**: every *noesis* has its correlated *noema* |
+| Ultimate ground | taken for granted | the **lifeworld** (*Lebenswelt*), which science presupposes and forgets |
+> ⚠️ Hallucination is still intentional: intentionality requires an intended object-sense, **not**
+> the real existence of a corresponding thing. That single line answers a recurring demand.
+
+## 21. EXISTENTIALISM — Kierkegaard vs Sartre vs Heidegger ✅
+
+| Axis | Kierkegaard | Sartre | Heidegger |
+|---|---|---|---|
+| Central term | the single individual; truth as subjectivity | *pour-soi* / *en-soi*; radical freedom | **Dasein**, being-in-the-world |
+| Existence & essence | existence is a task, not a category to be systematised | **existence precedes essence** — no human nature fixes what one must be | the question is prior: what is it *to be* at all |
+| Inauthenticity | despair; evading the self before God | **bad faith** — fleeing into facticity or pure transcendence | absorption in *das Man*, the anonymous "they" |
+| Freedom's shape | the **leap** across the stages (aesthetic → ethical → religious) | condemned to be free; total responsibility | resolute owning of one's finite possibilities |
+| Death / finitude | sickness unto death as despair | death is an external fact that ends projects | **being-towards-death** discloses ownmost possibility |
+| Method | **indirect communication** through pseudonyms | phenomenological ontology, argued directly | fundamental ontology, not an ethics |
+> ⚠️ Heidegger rejected the "existentialist" label for his own project; treat the grouping as a
+> syllabus convenience and say so in one clause.
+
+## 22. QUINE vs STRAWSON — two ways to do metaphysics ✅
+
+| Axis | Quine | Strawson |
+|---|---|---|
+| Target | the two dogmas: analytic/synthetic and reductionism | the Cartesian ego and no-ownership theories |
+| Model of knowledge | **web of belief** — no statement is immune to revision; only the whole faces experience | our actual conceptual scheme, mapped as it is |
+| Metaphysics | **revisionary**, continuous with natural science (naturalised epistemology) | **descriptive** — even radical revision must start from a working scheme |
+| Basic entity | whatever the best regimented theory quantifies over | **material bodies** as basic particulars; the **person** as primitive |
+| Persons | no special category | primitive bearer of both M-predicates and P-predicates |
+| Meaning | indeterminate: rival translation manuals fit all behaviour (*gavagai*) | secured by public identification and re-identification |
+> 🔑 "Quine dissolves the framework from inside science; Strawson maps the framework any science
+> must presuppose."
+
+## 23. INDIAN EPISTEMOLOGY — Buddhist vs Nyāya vs Mīmāṃsā ✅
+
+| Axis | Buddhist (Dignāga–Dharmakīrti) | Nyāya | Mīmāṃsā |
+|---|---|---|---|
+| Number of pramāṇas | **2** — perception, inference | **4** — + comparison, testimony | **5** Prābhākara / **6** Bhāṭṭa |
+| Object of perception | *svalakṣaṇa*, the bare unique particular; perception is *kalpanāpoḍha* | the qualified real object; savikalpaka perception is valid | the real object; validity is presumed |
+| Universals | none: generality is *apoha*, exclusion of the other | real *sāmānya* inhering in particulars | real universals required for word-meaning |
+| Criterion of the real | ***arthakriyākāritva*** — causal efficacy | independent existence in the categories | Vedic injunction discloses *dharma*, unavailable to perception |
+| Validity | tested by successful practice | ***parataḥ prāmāṇya*** — established extrinsically | ***svataḥ prāmāṇya*** — intrinsic; invalidity alone is extrinsic |
+| Result of knowing | *pramāṇa* and *pramāṇaphala* are not two things | instrument and result are distinct | cognition known by *jñātatā* (Bhāṭṭa) or *tripuṭī* (Prābhākara) |
+
+## 24. MĪMĀṂSĀ — Bhāṭṭa vs Prābhākara ✅
+
+| Issue | Bhāṭṭa (Kumārila) | Prābhākara |
+|---|---|---|
+| Pramāṇas | six, including independent *anupalabdhi* | five; absence is known by perceiving the bare locus |
+| Theory of error | *viparīta-khyāti* — a positively wrong identification | *akhyāti / vivekākhyāti* — two valid cognitions not discriminated |
+| Cognition of cognition | *jñātatā* — inferred from the object's known-ness | *tripuṭī-saṃvit* — knower, known and knowing revealed together |
+| Sentence-meaning | *abhihitānvaya* — words denote, then the meanings connect | *anvitābhidhāna* — words denote only as already connected |
+| Ritual motivation | *bhāvanā-vāda* — productive force aimed at a desired fruit | *niyoga-vāda* — the injunction binds; duty for duty's sake |
+> ⚠️ *Niyoga* invites a **cautious** comparison with Kant's categorical imperative: both detach
+> obligation from desired consequence, but Prābhākara grounds it in Vedic injunction, not
+> autonomous reason.
+
+## 25. YOGA — the samādhi ladder ✅
+
+| Stage | What remains | Exam point |
+|---|---|---|
+| *Samprajñāta samādhi* | an object and conceptual support (*vitarka, vicāra, ānanda, asmitā* as successive supports) | still cognitive; discriminative insight is being trained |
+| *Ṛtambharā prajñā* | truth-bearing insight arising at the summit of the cognitive stage | ⚠️ the hinge between cognitive and supra-cognitive absorption |
+| *Asamprajñāta samādhi* | no *vṛtti*, but latent *saṃskāra* residue persists | ❌ this is **not yet** kaivalya |
+| *Dharmamegha samādhi* | even the residue and the desire for the highest are exhausted | leads to *kaivalya*: isolation of puruṣa |
+> ❌ Do not equate samādhi with ordinary concentration, and do not treat *asamprajñāta* as
+> liberation itself.
+
+## 26. PUNISHMENT — the justifying-question grid (Paper II) ✅
+
+| Theory | Justifies punishment by | Looks | Main objection | Best reply |
+|---|---|---|---|---|
+| **Retributive** | desert and proportion | backward | can collapse into institutionalised vengeance | desert *limits* punishment as much as it licenses it |
+| **Deterrent** | future crime prevented | forward | permits punishing the innocent if useful | side-constraint of desert; publicity conditions |
+| **Reformative** | rehabilitation of the offender | forward | may license indefinite "treatment" and paternalism | proportionality caps the reformative programme |
+| **Expressive** | public condemnation of the wrong | both | expression could be achieved without hard treatment | censure must be *costly* to be credible |
+| **Communicative** (Duff) | addressing the offender as a citizen, calling for repentance | both | can coercion communicate? | punishment is a secular penance within a political community |
+| **Restorative** | repairing relationships between offender, victim and community | forward | may dilute public denunciation and equal justice | it retains censure while refusing vengeance as the sole mode |
+> ⚠️ Capital punishment answers score by naming the justifying question first, then testing
+> irreversibility, fallibility and dignity against it.
+
+## 27. POLITICAL OBLIGATION — the four families (Paper II) ✅
+
+| Family | Ground of the duty | Fatal-looking objection | Standard reply |
+|---|---|---|---|
+| **Consent / contract** | actual or tacit agreement | the born citizen never consented; residence is not choice | shift to hypothetical justification, which is no longer *consent* |
+| **Fair play** | accepting benefits of a cooperative scheme | benefits are often unavoidable, not accepted | restrict to *voluntarily accepted* and genuinely public goods |
+| **Natural duty of justice** | a duty to support just institutions that apply to us | why *this* state rather than any just one? | particularity supplied by the institution that actually governs |
+| **Associative** | membership in a political community, like family duties | can sanctify inherited hierarchy | associative duties bind only where the association respects equal dignity |
+> ⚠️ Civil disobedience is the **test case**: public, non-violent, conscientious, and accepting
+> the legal consequence — which is why it presupposes, rather than denies, political obligation.
+
+## 28. RELIGIOUS EXPERIENCE — the typologies (Paper II) ✅
+
+| Thinker | Classification | Object | Strength | Objection |
+|---|---|---|---|---|
+| **Otto** | the **numinous** — *mysterium tremendum et fascinans* | the Holy, *sui generis* | keeps religion irreducible to ethics or feeling | a phenomenological object is not yet a proof of a personal God |
+| **James** | four marks, **not on a par**: *ineffability* + *noetic quality* are the **defining** marks that entitle a state to be called mystical; *transiency* + *passivity* are "less sharply marked" and only **usually** found | the "more" | descriptive, comparative, empirically disciplined | pragmatic fruits do not settle veridicality |
+| **Stace** | **extrovertive / introvertive**, with a **common core** | the One | explains cross-cultural convergence | the experience/interpretation split may do all the work |
+| **Zaehner** | **three** types (nature, monistic, theistic), **no** common core | differs by type | respects real doctrinal difference | the typology is theologically loaded |
+| **Alston** | perceptual model of mystical perception | God as perceived | makes doxastic practice the unit of assessment | circularity of practice-internal justification |
+> ❌ Never merge Stace and Zaehner: two types plus a core is not three types without one.
+> ❌ Never list James's four marks as four co-equal criteria: ineffability and noetic quality are the two *defining* marks; transiency and passivity are usual accompaniments, not entry conditions.
+
+## 29. THEODICY AND DEFENCE — the evil grid (Paper II) ✅
+
+| Move | Claim | Type | Cost |
+|---|---|---|---|
+| **Free-will defence** | moral evil is possible because significantly free agents can misuse freedom | defence | weak on natural evil |
+| **Privation** (Augustine) | evil is *privatio boni*, not a positive substance | theodicy | seems to minimise experienced suffering |
+| **Soul-making** (Hick) | a law-governed world at epistemic distance grows virtues a pleasure-world could not | theodicy | horrendous evils destroy rather than build |
+| **Process** | God persuades rather than coerces; dipolar God suffers with the world | theodicy | buys the reply by surrendering classical omnipotence |
+| **Skeptical theism** | the *noseeum* inference from "I see no reason" to "there is none" fails (CORNEA) | **defence** | concedes moral opacity, which corrodes ordinary moral confidence |
+| **Horrendous evils** (Adams) | goodness must be goodness *to* the sufferer; balancing off ≠ **defeat** | critique + repair | requires eschatological resources |
+| **Karma** | suffering is distributed by prior action across lives | Indian explanation | risks victim-blaming; classical ethics still requires compassion |
+> ⚠️ Say which problem is being answered: a **defence** attacks the atheist's inference; a
+> **theodicy** claims to state God's actual reasons.
+
+---
 
 - Rationalists: [`Rationalism.md`](../paper-1/western/Rationalism.md)
 - Empiricists: [`Empiricism.md`](../paper-1/western/Empiricism.md)
@@ -177,7 +368,14 @@
 - Social and political ideals: [`Social-Political-Ideals.md`](../paper-2/socio-political/Social-Political-Ideals.md)
 - Restored Western bridges: [`Empiricism.md`](../paper-1/western/Empiricism.md), [`Kant.md`](../paper-1/western/Kant.md), [`Hegel.md`](../paper-1/western/Hegel.md)
 - Nyāya/Yoga God comparison: [`Nyaya-Vaisesika.md`](../paper-1/indian/Nyaya-Vaisesika.md), [`Yoga.md`](../paper-1/indian/Yoga.md)
+- Plato–Aristotle and the Divided Line (§15–16): [`Plato-Aristotle.md`](../paper-1/western/Plato-Aristotle.md)
+- Analytic trio, positivism and Wittgenstein (§17–19): [`Moore-Russell-EarlyWittgenstein.md`](../paper-1/western/Moore-Russell-EarlyWittgenstein.md), [`Logical-Positivism.md`](../paper-1/western/Logical-Positivism.md), [`Later-Wittgenstein.md`](../paper-1/western/Later-Wittgenstein.md)
+- Husserl, existentialism, Quine–Strawson (§20–22): [`Phenomenology-Husserl.md`](../paper-1/western/Phenomenology-Husserl.md), [`Existentialism.md`](../paper-1/western/Existentialism.md), [`Quine-Strawson.md`](../paper-1/western/Quine-Strawson.md)
+- Indian epistemology and Mīmāṃsā sub-schools (§23–24): [`Buddhism.md`](../paper-1/indian/Buddhism.md), [`Nyaya-Vaisesika.md`](../paper-1/indian/Nyaya-Vaisesika.md), [`Mimamsa.md`](../paper-1/indian/Mimamsa.md), [`Pramana-across-schools.md`](../paper-1/_themes/Pramana-across-schools.md)
+- Samādhi ladder (§25): [`Yoga.md`](../paper-1/indian/Yoga.md)
+- Punishment and political obligation (§26–27): [`Crime-and-Punishment.md`](../paper-2/socio-political/Crime-and-Punishment.md), [`Individual-and-State.md`](../paper-2/socio-political/Individual-and-State.md)
+- Religious experience and the evil grid (§28–29): [`Religious-Experience.md`](../paper-2/philosophy-of-religion/Religious-Experience.md), [`Problem-of-Evil.md`](../paper-2/philosophy-of-religion/Problem-of-Evil.md)
 
-> These grids compress arguments. For a compare/distinguish answer, state the common problem,
-> compare by explicit axes, present at least one objection to each side, and then justify a
-> verdict.
+> These grids compress arguments and deliberately do **not** repeat the owner file's prose. For a
+> compare/distinguish answer, state the common problem, compare by explicit axes, present at
+> least one objection to each side, and then justify a verdict.

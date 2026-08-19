@@ -143,13 +143,194 @@ should describe *how* business is done throughout, not a separate reputational f
   increase in emissions from AI-driven data centres. Recommend a strategic step balancing innovation,
   profitability and sustainability.
 
-## 10. Study links
+## 10. CSR full doctrine — architecture, thresholds and limits
+
+> ⚠️ 2022 GS-IV Q6(b) (historical demand, routed here): "critically examine" CSR in the
+> contemporary corporate world. ✅ 2023 GS-IV Q1(a) (historical demand, routed here): illustrate
+> moral integrity and professional efficiency in corporate governance.
+> ⚠️ **Ownership note on 2022 GS-IV Q6:** the question bundles two independent sub-parts — (a)
+> policy measures to strengthen whistle-blower protection (substantively owned by
+> `21_Protecting-Honest-Officials-and-Vigilance-Administration.md`, where the question-level
+> routing ledger correctly lists the full Q6 row) and (b) CSR in the contemporary corporate world
+> (substantively owned and answered **here**, in this section). A routing ledger that lists the
+> whole Q6 row against one topic bundles both sub-parts for question-tracking purposes only; it
+> does not mean that topic supplies the substantive content for both halves — this file remains the
+> content owner for the Q6(b)/CSR demand regardless of which ledger row it is tracked under.
+
+### Business ethics vs corporate ethics vs CSR — three distinct layers
+
+| Layer | What it covers | Governing question |
+|---|---|---|
+| ✅ **"Ethics in business"** (ARC 1.17's preferred term) | How *every* ordinary commercial decision is made — accounting, labour treatment, procurement, pricing, environmental compliance | "Is this specific transaction/decision honest and lawful?" |
+| ⚠️ **Corporate governance** | The structures ensuring the company is *directed and controlled* accountably — board composition, audit committee independence, related-party-transaction disclosure | "Is the company's internal decision-making structure itself trustworthy and accountable?" |
+| ✅ **CSR (Companies Act, 2013, s.135)** | A *statutory, ring-fenced spend* obligation on qualifying companies, directed at Schedule VII social/environmental activities | "Has the company met its mandated minimum social spend?" |
+
+- ⚠️ **The core doctrinal point (repeatedly tested):** a company can satisfy CSR to the last rupee
+  while its *core business* remains unethical (mis-selling, labour exploitation, environmental
+  non-compliance in its main operations) — CSR spend is not, and was never designed to be, a proxy
+  for core-business ethics.
+
+### Section 135 architecture, with threshold and status caution
+
+- ✅ **Applicability threshold** (any one of three, in the immediately preceding financial year): net
+  worth ≥ ₹500 crore, **or** turnover ≥ ₹1,000 crore, **or** net profit ≥ ₹5 crore.
+- ✅ **Spend obligation:** at least 2% of average net profit of the three immediately preceding
+  financial years, on Schedule VII activities, through a board-approved CSR policy.
+- ✅ **Unspent-fund architecture (Companies (CSR Policy) Amendment Rules, 2021):** unspent CSR amount
+  *not* linked to an ongoing project must be transferred to a specified Schedule VII fund (e.g., PM
+  CARES-type funds) within six months of the financial year-end; unspent amount linked to an
+  **ongoing project** must instead go into a separate "Unspent CSR Account" and be spent within
+  three financial years, failing which it too must be transferred to the specified fund.
+- ✅ **Impact assessment (mandate introduced by the Companies (CSR Policy) Amendment Rules, 2021;
+  cost cap revised by the 2022 amendment):** the 2021 amendment first introduced the requirement
+  that companies with average CSR obligation of ₹10 crore or more in the three preceding financial
+  years must conduct an independent impact assessment of their CSR projects (with a project outlay
+  of ₹1 crore or more, completed at least one year before the assessment) through an independent
+  agency; the **2022 amendment** did not create the impact-assessment mandate itself but revised
+  the cap on the assessment's own permissible cost to 2% of total CSR expenditure for the year or
+  ₹50 lakh, whichever is **higher**. ⚠️ Do not attribute the impact-assessment requirement itself to
+  the 2022 amendment — that amendment's contribution was the cost-cap revision, not the mandate's
+  introduction.
+- ⚠️ **Threshold/status caution:** CSR rules have been amended multiple times (2021, 2022) on
+  implementing-agency eligibility, the CSR-2 reporting form, and unspent-fund mechanics — verify the
+  current text of the Companies (CSR Policy) Rules, 2014 (as amended) and any MCA circular before
+  citing a specific numeric threshold in a live/administrative context, since rule-level detail is
+  more amendment-prone than the Section 135 statutory thresholds themselves.
+
+### Stakeholder responsibility and the greenwashing/box-ticking limit
+
+- ⚠️ **Stakeholder theory (contrast with pure shareholder-primacy):** corporate governance ethics
+  increasingly requires accounting for employees, consumers, local communities and the environment
+  as legitimate stakeholders whose interests constrain profit-maximisation, not merely shareholders
+  to whom fiduciary duty is owed narrowly.
+- ⚠️ **Greenwashing/box-ticking risk:** a company can technically satisfy CSR's 2%-spend requirement
+  through low-impact, easily-measured activities (a one-off donation, a branded plantation drive)
+  while its core operations continue high-emission or exploitative practices — this is precisely why
+  the Companies (CSR Policy) Amendment Rules, 2021's impact-assessment requirement exists, and why
+  "ethics in business" (Section 2/10 above) must be assessed *separately* from CSR compliance.
+- ⚠️ **GS-IV-safe verdict:** CSR is a valuable, statutorily enforceable floor for social spend, but a
+  "critically examine CSR" question should explicitly flag its greenwashing/box-ticking vulnerability
+  and argue that CSR compliance must be paired with, not substituted for, core-business ethics
+  (accounting integrity, labour standards, environmental compliance) and governance-structure
+  integrity (independent boards, related-party-transaction scrutiny).
+
+## 11. War ethics and international aid ethics (historical demand)
+
+> ⚠️ 2022 GS-IV Q5(a) (historical demand, routed here): illustrate the ethical issues in the
+> Russia-Ukraine war. ⚠️ 2023 GS-IV Q1(b) (historical demand, routed here): comment on ethics in
+> contemporary international aid. 📰 The Russia-Ukraine conflict began with Russia's full-scale
+> invasion in **February 2022**; its status (active hostilities, partial truce, ceasefire
+> negotiation stage, or a concluded settlement) **changes over time and must be independently
+> verified via `web_search`/`web_fetch` immediately before any live session or answer that states a
+> current conflict/ceasefire status** — do not rely on any date-stamped status recorded in this
+> file (including the "as of" date below) without re-checking it, since this is exactly the kind of
+> fast-moving fact this repository's own accuracy discipline requires re-verifying rather than
+> repeating from memory. As last checked for this file (status recorded, not asserted as current):
+> as of **August 2026** the conflict had seen no durable, comprehensively verified ceasefire despite
+> repeated negotiation rounds — treat this, and any specific casualty/territorial/negotiation-
+> outcome figures, as time-sensitive; the *ethical framework* below does not depend on those figures.
+
+### War ethics framework (Just War tradition, applied neutrally)
+
+| Principle | Meaning | Application to an active conflict |
+|---|---|---|
+| ⚠️ **Sovereignty** | A state's territorial integrity and political independence are protected under the UN Charter (Article 2(4)'s prohibition on the use of force against territorial integrity); a war of aggression against a sovereign state is the paradigm violation. | The core *jus ad bellum* (justice of resorting to war) question in any inter-state conflict — was force used in self-defence/UN-authorised action, or in violation of another state's sovereignty. |
+| ⚠️ **Civilian protection (distinction)** | International humanitarian law (the Geneva Conventions and their Additional Protocols) requires distinguishing combatants from civilians and civilian infrastructure, and prohibits deliberately targeting the latter. | The most frequently invoked *jus in bello* (justice in the conduct of war) principle — strikes on civilian energy grids, hospitals or residential areas raise direct IHL concerns regardless of which side commits them. |
+| ⚠️ **Proportionality** | Even a lawful military objective must not cause civilian harm excessive in relation to the concrete military advantage anticipated. | Used to assess whether a specific strike, even against a legitimate military target, was ethically/legally defensible given its collateral civilian cost. |
+| ⚠️ **Humanitarian neutrality** | Humanitarian aid organisations (ICRC and others) operate on the principles of neutrality, impartiality and independence, treating all affected civilians without regard to which side they support. | Neutrality is what allows aid access to both sides of a conflict — politicising aid delivery (favouring one side's civilian population) undermines this access-enabling principle. |
+
+- ⚠️ **GS-IV-safe answer posture:** name the specific principle(s) engaged by the scenario in the
+  question (sovereignty breach, a specific IHL/proportionality concern, or a neutrality question)
+  rather than issuing a general condemnation of "war is bad" — the exam rewards precise application
+  of a named ethical/legal framework, and a balanced, evidence-anchored treatment over a one-sided
+  political stance.
+
+### International aid ethics
+
+| Concept | Meaning | Ethical tension |
+|---|---|---|
+| ⚠️ **Donor conditionality** | Aid tied to policy conditions (governance reform, economic liberalisation, human-rights benchmarks) set by the donor state/institution. | Can improve accountability for aid use, but risks compromising the recipient state's sovereignty and self-determined development path — the central donor-ethics dilemma. |
+| ⚠️ **Ownership** | The principle (echoing the 2005 Paris Declaration on Aid Effectiveness) that recipient countries should lead and own their own development strategies rather than have them dictated externally. | Genuine ownership requires donors to accept recipient-led priorities even where they diverge from donor preference — frequently honoured only partially in practice. |
+| ⚠️ **Dependency risk** | Long-term aid reliance can weaken domestic institution-building and revenue mobilisation, or distort local markets (e.g., food-aid undercutting local agricultural prices). | Requires aid design (time-bound, capacity-building-oriented) that avoids substituting for, rather than building, domestic capacity. |
+| ⚠️ **Accountability** | Both donor and recipient are accountable — donors for effective, non-corrupt disbursement; recipients for transparent utilisation. | Weak accountability on either side (donor-driven graft, recipient diversion of aid) undermines the ethical basis for continued aid. |
+
+- ⚠️ **Balanced verdict:** aid ethics requires holding donor conditionality's accountability benefit
+  against its sovereignty cost, and valuing recipient ownership without ignoring legitimate donor
+  concern for effective, non-corrupt utilisation — a one-sided "aid is always paternalistic" or "aid
+  conditions are always justified" answer misses the genuine tension GS-IV is testing.
+- ⚠️ Cross-link: `10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md` treats sovereignty-vs-
+  intervention tensions at the individual-conscience level (Snowden); this file's contribution is
+  the state/institutional-level international-ethics register.
+
+## 12. Selectable named evidence/application units
+
+> Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.
+
+1. *Claim:* CSR compliance does not guarantee core-business ethics. *Evidence:* Section 10's
+   business-ethics/CSR/corporate-governance three-layer table. *Significance:* prevents a common
+   scoring error of treating CSR spend as a proxy for ethical conduct. *Limitation:* the distinction,
+   while doctrinally clean, still requires a concrete named example in the answer to earn full marks.
+2. *Claim:* Impact assessment is the institutional response to CSR's greenwashing risk. *Evidence:*
+   the Companies (CSR Policy) Amendment Rules, 2021's mandatory impact assessment for ≥ ₹10 crore
+   CSR obligors, with its assessment-cost cap revised by the 2022 amendment (Section 10).
+   *Significance:* shows a real regulatory correction, not just a theoretical caution.
+   *Limitation:* impact assessment applies only above the ₹10 crore threshold — smaller CSR
+   obligors remain unaudited for actual social impact.
+3. *Claim:* Neutrality is the precondition for humanitarian access in an active conflict. *Evidence:*
+   ICRC's neutrality-impartiality-independence operating principles (Section 11). *Significance:*
+   explains why politicised aid delivery undermines its own access. *Limitation:* neutrality can be
+   exploited by a belligerent party to shield itself from accountability if applied without any
+   accompanying human-rights monitoring.
+4. *Claim:* Donor conditionality trades sovereignty for accountability. *Evidence:* the Paris
+   Declaration on Aid Effectiveness's "ownership" principle set against typical governance-linked aid
+   conditions (Section 11). *Significance:* gives a named framework for balancing the two.
+   *Limitation:* "ownership" can be invoked by a recipient government to resist legitimate
+   anti-corruption conditions, not only illegitimate donor overreach.
+5. *Claim:* The Serious Fraud Investigation Office institutionalises the Naresh Chandra Committee's
+   2002 recommendation. *Evidence:* SFIO under Companies Act s.211-212 (Section 5 above).
+   *Significance:* shows a two-decade lag between recommendation and institutional realisation, a
+   useful "reform takes time but does arrive" evidence point. *Limitation:* SFIO's arrest power
+   (s.212(8)) has faced judicial scrutiny on procedural safeguards in specific cases — verify current
+   case law before citing a blanket claim of unchecked power.
+
+## 13. Executable directive decoding and answer architecture
+
+| Directive word | What is tested | Structural move |
+|---|---|---|
+| **Critically examine** | Strength and limitation both required | State the mechanism/claim -> evidence for -> evidence/limitation against -> weighted verdict |
+| **Illustrate/Comment** | A precise example doing the analytical work | Define the concept -> named example -> what it demonstrates -> one limitation |
+| **Suggest a strategic step** | An implementable, balanced recommendation | Name the competing objectives -> theory triangulation (`08`) -> one concrete measure -> its safeguard |
+
+**10-mark architecture (~150 words):** name the concept (CSR/war-ethics principle/aid-ethics
+concept) precisely -> mechanism -> one named example (Section 12) -> one limitation -> one-line
+conclusion.
+
+**20-mark case-study architecture:** This file does **not** carry its own abbreviated case-study
+format. Every GS-IV Section-B (20-mark) case study must be built on the full, controlling
+eight-element architecture in `22_Case-Study-Method-and-Answer-Architecture.md` Sec. 1 — facts,
+stakeholders, constraints, **at least three** realistic options (never cap at two, and steelman the
+single strongest objection to the chosen decision, `22` Sec. 6), named ethical evaluation (the
+six-check framework), decision, implementation/communication, and residual-risk mitigation. This
+file's corporate-governance/international-ethics theory triangulation (`08`) informs Element 5's
+ethical evaluation only, guarding specifically against greenwashing/box-ticking or sovereignty-cost
+dilution — it is not itself a rival 20-mark format.
+
+**Counterpoint and reasoned verdict (template):** "[Named mechanism] is a genuine safeguard against
+[X], but it does not by itself guarantee [Y]; the balanced verdict pairs it with [named
+complementary measure/principle]."
+
+## 14. Study links
 
 - ✅ Advanced companion: `advanced/12_Corporate-Governance-and-International-Ethics.md`.
 - ✅ `13_Emerging-Ethics-Technology-AI-and-Environment.md` — the AI/environment case in full depth.
 - ✅ `19_Corruption-Legal-Framework.md` — whistleblower-protection parallels (public vs corporate).
+- ✅ `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — the substantive owner of
+  2022 GS-IV Q6(a)'s whistle-blower-protection demand (Section 10's ownership note); this file
+  owns Q6(b)'s CSR demand from the same question.
 - ✅ `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md` — theory triangulation for
   business dilemmas.
+- ✅ `10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md` — the individual-conscience register
+  of sovereignty/disclosure tension (Snowden).
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
@@ -173,3 +354,44 @@ should describe *how* business is done throughout, not a separate reputational f
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 11
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-IV | 9 | Apparel company - marketing executive sexually harasses woman employee - company offers money to withdraw FIR; identify ethical issues and options available to woman employee | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 3 | (a) most relevant teachings of Buddha today and why; (b) will to power tamed by rationality and moral duty - examine in context of international relations | Discuss / Examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 8 | BML Chairman asked to expand ATGM production for export to friendly nation - (a) ethical issues for a responsible arms-exporting nation; (b) five ethical factors influencing arms sale decision | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 11 | Anil APW factory in backward Parmal district: CSR-driven development of Noora village - critically analyse ethical issues; assess APW as role model for backward area development | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 5 | (a) refugees must not be returned to face persecution - examine ethical dimensions violated by nations claiming to be democratic; (b) impartiality and non-partisanship as indispensable civil servant qualities | Examine / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 11 | food company sells inferior products domestically and dumps rejected export products in Indian market - (a) authority action; (b) company remedy to restore reputation; (c) ethical dilemma | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 5 | (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty | Illustrate (a); Short notes (b) · 10 + 10 marks · 150 words (a); 30 words each (b) | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 6 | (a) policy measures to strengthen whistle-blower protection mechanism; (b) corporate social responsibility in contemporary corporate world | Suggest (a); Critically examine (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 7 | Case on a marketing VP offered rival firm's defence tender documents in exchange for employment | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2022 | GS-IV | 10 | Case on a quality inspection officer pressured to clear an export-rejected defective consignment for domestic market | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2023 | GS-IV | 1 | (a) moral integrity and professional efficiency in corporate governance; (b) ethics in contemporary international aid | Illustrate (a); Comment (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Apparel company - marketing executive sexually harasses woman employee - company offers money to withdraw FIR; identify ethical issues and options available to woman employee
+- (a) most relevant teachings of Buddha today and why; (b) will to power tamed by rationality and moral duty - examine in context of international relations
+- BML Chairman asked to expand ATGM production for export to friendly nation - (a) ethical issues for a responsible arms-exporting nation; (b) five ethical factors influencing arms sale decision
+- Anil APW factory in backward Parmal district: CSR-driven development of Noora village - critically analyse ethical issues; assess APW as role model for backward area development
+- (a) refugees must not be returned to face persecution - examine ethical dimensions violated by nations claiming to be democratic; (b) impartiality and non-partisanship as indispensable civil servant qualities
+- food company sells inferior products domestically and dumps rejected export products in Indian market - (a) authority action; (b) company remedy to restore reputation; (c) ethical dilemma
+- (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty
+- (a) policy measures to strengthen whistle-blower protection mechanism; (b) corporate social responsibility in contemporary corporate world
+- Case on a marketing VP offered rival firm's defence tender documents in exchange for employment
+- Case on a quality inspection officer pressured to clear an export-rejected defective consignment for domestic market
+- (a) moral integrity and professional efficiency in corporate governance; (b) ethics in contemporary international aid
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

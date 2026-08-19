@@ -152,7 +152,42 @@ irrigation + fertile delta
 
 ---
 
-## 8. Art, architecture and literature: historical anchor
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Imperial Chola power rested on the combination of Kaveri-delta surplus, locality institutions, temple-centred redistribution and maritime reach." |
+| Critically examine | "Chola local bodies were historically important, but they were structured by hierarchy and cannot be equated with modern democracy." |
+| Compare / evaluate | "The Cholas projected impressive influence across the Bay of Bengal, yet their maritime power should be read as strategic-commercial reach rather than permanent overseas empire." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** agrarian base -> local institutions -> temple-fiscal order -> maritime projection
+- **For comparison Qs:** polity vs locality; inland agrarian core vs oceanic commercial reach
+- **For evaluate Qs:** achievements -> cautions on democracy/overseas control -> qualified verdict
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Agrarian surplus anchored imperial expansion | ✅ Kaveri delta, surveys and irrigation-backed revenue | Gives the material base of Chola power | Inscriptional detail varies by locality |
+| 2 | Local institutions were real but socially bounded | ✅ Uttaramerur and kudavolai procedures | Supplies the best-known case of structured local governance | Prescriptive and local, not empire-wide universal practice |
+| 3 | Temples connected polity and economy | ✅ Brihadisvara, brahmadeya/devadana and redistributive functions | Links culture, labour and legitimacy | Temple records privilege landed and elite actors |
+| 4 | Maritime power was strategic rather than territorial annexation | ✅ Rajendra I's Srivijaya campaign and merchant bodies such as Ayyavole | Shows Bay of Bengal reach and commercial ambition | Does not prove a permanent Southeast Asian empire |
+
+### Counterpoint and balance
+
+- Avoid both extremes: village autonomy without kingship, or royal absolutism without local institutions.
+- Avoid turning naval success into a claim of total oceanic control.
+
+### Verdict framing
+
+- Conclude that the Cholas were a regionally rooted imperial-commercial formation with strong local articulation.
+- A reasoned verdict should keep hierarchy, agrarian base and maritime reach in one synthesis.
+
+## 9. Art, architecture and literature: historical anchor
 
 | Area | Historical anchor |
 |---|---|
@@ -167,7 +202,7 @@ For a Mains question specifically asking artistic features, use the relevant
 
 ---
 
-## 9. Decline
+## 10. Decline
 
 Chola decline was gradual and multi-causal:
 
@@ -181,7 +216,7 @@ Do not reduce decline to one invasion or one weak ruler.
 
 ---
 
-## 10. PYQ answer engines
+## 11. PYQ answer engines
 
 ### 2020 Prelims: dynasty chronology
 
@@ -206,7 +241,7 @@ reject the claim that it created a permanent Southeast Asian territorial empire.
 
 ---
 
-## 11. Core traps
+## 12. Core traps
 
 - Imperial Cholas are not confined to the Sangam period.
 - Rajaraja I built Brihadisvara at Tanjavur; Rajendra I founded Gangaikondacholapuram.
@@ -220,6 +255,8 @@ reject the claim that it created a permanent Southeast Asian territorial empire.
 > **Core firewall:** Skipping Advanced Topic 27 cannot remove any Chola chronology, ruler,
 > Srivijaya mechanism, administration, local-body distinction, economy, society, maritime network,
 > culture anchor or PYQ answer framework.
+
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

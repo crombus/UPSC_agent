@@ -214,6 +214,162 @@ architectural patronage.
   comparison reused here.
 - ⚠️ **Cross-links:** Topic 03 (Pallava literary patronage), Topic 13
   (textual/doctrinal content), Topic 14 (Memory of the World ledger).
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-sufficiency note.** This file owns the **literature half of the
+> 2024 Pallava question** and the whole language/script/manuscript demand
+> family, including the classical-language and Memory of the World items
+> whose status changes over time. This section makes `basic/11` sufficient
+> for those demands without `advanced/11`.
+
+### 13.1 Directive and demand map
+
+| If the question says | It is really testing | Do NOT write |
+|---|---|---|
+| *Contribution of a dynasty to literature* | Named author, named text, patronage link, and what the text evidences | "Literature flourished under their patronage" |
+| *Language families and Indian linguistic diversity* | Family ≠ script ≠ literary register ≠ constitutional status | Treating all four as one classification |
+| *Classical-language status in India* | What the status is, what it is not, and the dated list | Confusing it with the Eighth Schedule or official language |
+| *Sanskrit and Prakrit* | Coexisting registers with different social functions | "Prakrit came after Sanskrit" |
+| *Sangam literature as a historical source* | Rich material and social evidence, bounded by compilation history | Treating it as a dynastic chronicle |
+| *Vernacular literature's rise* | Expanded literary publics, not the disappearance of Sanskrit or Persian | A zero-sum replacement story |
+| *India's documentary heritage* | Memory of the World as a distinct UNESCO programme, with composition date ≠ inscription year | Treating manuscripts as World Heritage Sites |
+| *Manuscript conservation* | Documentation, digitisation, institutional custody, access | "Manuscripts should be preserved" |
+
+### 13.2 Qualified thesis options
+
+- ⚠️ **Coexistence thesis:** "India's literary history is one of
+  simultaneous registers, not sequential replacement — Sanskrit, Pali, the
+  Prakrits, Persian and the regional languages held different social and
+  institutional functions at the same time, and their relationship is one
+  of division of labour rather than succession."
+- ⚠️ **Patronage-evidence thesis (for the Pallava demand):** "The strongest
+  proof of literary patronage is a text that itself records the patron's
+  world: Dandin's *Avantisundari Katha*, written by a scholar associated
+  with the Pallava court, praises artists for repairing a Vishnu sculpture
+  at Mamallapuram — one citation that evidences literature and art
+  patronage together."
+- ⚠️ **Register-as-social-marker thesis:** "Language in classical Indian
+  drama was not neutral: the Vidusaka traditionally spoke Prakrit while
+  others spoke Sanskrit, and in Gupta-period plays high-varna characters
+  spoke Sanskrit while women and Shudras spoke Prakrit — direct textual
+  evidence that register marked social position."
+- ⚠️ **Recognition-versus-antiquity thesis:** "A text's age and its
+  recognition are different facts: the Rigveda is ancient but its Memory of
+  the World inscription dates from 2007, and treating the inscription year
+  as the text's date is the commonest error in this area."
+
+### 13.3 Mark-scaled structures
+
+| Marks | Structure |
+|---|---|
+| **10** | Thesis → the classification or claim stated precisely → two named texts/authors with what each evidences → one caution (dating, attribution or status) → verdict |
+| **15** | Thesis → language-family/register frame → corpus-by-corpus evidence → patronage or social-register mechanism → dated status anchor → verdict |
+| **20** | All of the above → **plus** script history and epigraphic evidence → vernacular-and-translation interaction → documentary-heritage institutions → dating and attribution discipline → verdict answering the exact wording |
+
+### 13.4 Evidence bank A — the Pallava literature route (direct 2024 Q2 support)
+
+| Claim | ✅ Named evidence | Significance | Caution |
+|---|---|---|---|
+| Kanchipuram as a literary capital | ✅ Kanchipuram was the Pallava capital during the 4th-9th centuries (*Nitin…pdf*, PDF p. 85) | Places literary patronage in a specific institutional centre | ⚠️ Political detail belongs to History |
+| A named court scholar and text | ✅ In the *Avantisundari Katha*, the 7th-8th century Sanskrit scholar **Dandin**, who lived in Tamil Nadu and was associated with the Pallava court, praised artists for their repair of a Vishnu sculpture at Mamallapuram (*Nitin…pdf*, PDF p. 87) | The single strongest Pallava literary citation — and it doubles as art-history evidence | ⚠️ Cite the text and the court association; do not add biography |
+| Bilingual epigraphic culture | ✅ Bilingual Tamil-Sanskrit Pallava inscriptions appear from the 7th century onwards (*Nitin…pdf*, PDF pp. 223, 588) | Shows an administratively institutionalised two-language literary culture | — |
+| Script change | ✅ **Vatteluttu was replaced by the Pallava-Grantha script in the Pallava court** (*Nitin…pdf*, PDF p. 608) | A concrete, datable literary-cultural intervention beyond "patronage of poets" | ⚠️ Script change is a court usage claim, not a claim about all writing in the region |
+| Ruler as patron of arts | ✅ Mahendravarman's epithets *Vichitra Chitta*, *Chettakri*, *Chitrakarppulli*, and the Mamandur inscriptions recording titles including *Vichitrachitta* and *Satrumalla* (*Nitin…pdf*, PDF pp. 87, 324) | Contemporary epigraphic/textual evidence of a self-consciously cultural monarchy | ⚠️ Epithets are honorific claims by or about the ruler |
+| Earlier Tamil literary reference | ✅ *Silappadikaram* and *Manimekalai* mention painting in the 5th century AD (*Nitin…pdf*, PDF p. 324) | Establishes a pre-existing Tamil literary culture the Pallavas built on | ⚠️ Dating of these texts is itself debated |
+
+⚠️ **Structure for the answer:** literature and art are one demand in the
+2024 wording — route architecture and painting through topic 03/07 and
+supply here the named author, the named text, the epigraphic bilingualism
+and the script change.
+
+### 13.5 Evidence bank B — corpora and their evidentiary value
+
+| Corpus | ✅ Language/register | What it evidences | Dating/attribution discipline |
+|---|---|---|---|
+| Vedas, Brahmanas, Aranyakas, early Upanishads | Vedic Sanskrit | Ritual, cosmology, social categories | Layered oral-textual corpora, not single-date books |
+| Epics and Puranas | Sanskrit with long accretion | Narrative, regional cults, genealogy | Separate core composition, redaction and manuscript dates |
+| Buddhist canon and avadana | Pali, Prakrits, Buddhist Hybrid Sanskrit, Sanskrit | Monastic organisation, doctrine, popular narrative | Tripitaka, Jatakas, *Mahavastu*, *Divyavadana* |
+| Jain canon and narrative | Ardhamagadhi and other Prakrits; later Sanskrit/Apabhramsha/regional | Ascetic practice, lay-monastic relations, narrative literature | Agamas, *Kalpasutra*, *Parishishtaparvan* |
+| Sangam corpus | Early Tamil | Towns, trade, crafts, war, social ranking, hero-stone culture | ✅ Compiled c. CE 300-600 with older layers; **powerful but bounded** — not a connected dynastic chronicle (R.S. Sharma, PDF pp. 256-258) |
+| Classical Sanskrit | Sanskrit | Court aesthetics, drama, poetics | Bhasa, Kalidasa, Shudraka, Bharavi, Dandin — verify each work-author pair |
+| Medieval regional and Persian | Tamil, Kannada, Telugu, Marathi, Bengali, Braj/Awadhi, Persian | Bhakti/Sufi devotion, chronicles, translation, bilingual authorship | Vernacular rise = expanded publics, **not** the disappearance of Sanskrit or Persian |
+| Urdu | Indo-Aryan, on the structure of Hindi (Khari Boli), with the form and script of Persian | ✅ Debated as developing through Persian-Hindi interaction, including in Turkish-army barracks; initially also called **Dakkani** from its use by the Bahmani states of Ahmadnagar, Golconda, Bijapur and Berar; Amir Khusrau wrote texts in Urdu in its nascent stage; **Mirza Ghalib** (1797-1869) composed a *Diwan* in Urdu; Sauda, Dard and Mir Taqi Mir are other named poets; **Iqbal** wrote *Bang-e-Dara* and "Sare Jahan se Achcha"; patronage came from later Mughals such as the poet-emperor **Bahadur Shah Zafar** and from the Nawabs of Awadh; **Sir Syed Ahmad Khan** wrote didactic and nationalistic texts and published the journal *Tahdhib-ul-Akhlaq*, propagating women's education and opposing purdah and polygamy (*Nitin…pdf*, PDF p. 686) | ❌ Do not treat Urdu as a "Muslim language" or a non-Indian import: the book classes it as Indo-Aryan and born in India. Genres to name precisely: **Qaseeda** (single presiding subject, usually in praise of a king or noble), **Shahr Ashob** (narrative poetic genre expressing anguish over political and social change, widely used under the Mughals), **Ginans** (Nizari Ismaili devotional hymns in Gujarati, Urdu, Punjabi and Sindhi) (PDF p. 687) |
+| Hindi and its dialects | Evolved between the 7th and 14th centuries from Apabhramsa, itself from Prakrit | ✅ Its "biggest boost" came from the **Bhakti movement**, which turned away from Sanskrit as the language of Brahmins toward the language of the people; from the 12th century a sharp rise in Bengali, Hindi, Marathi and Gujarati followed; ***Prithviraj Raso*** by **Chand Bardai** was probably the first Hindi book, documenting Prithviraj Chauhan; the bulk of early work is Bhakti poetry, notably **Kabir's dohas** (*Nitin…pdf*, PDF p. 687) | ⚠️ "Probably the first" is the book's own hedge — keep it; and dating of the *Raso* is itself debated |
+
+### 13.6 Evidence bank C — script, epigraphy and the classification firewall
+
+| Distinction | ✅ Correct statement | Common error it prevents |
+|---|---|---|
+| Family vs script | Language families (Indo-Aryan, Dravidian, Austroasiatic, Tibeto-Burman) classify **languages**; Brahmi, Kharoshthi, Devanagari, Grantha and Vatteluttu are **scripts** | Assuming one family uses one script |
+| Script direction | Kharoshthi runs right-to-left and was used especially in the north-west | Assuming all Indian scripts run left-to-right |
+| Ashokan record | Mostly Prakrit in Brahmi; Kharoshthi in the north-west; Greek and Aramaic at Kandahar | "Ashokan edicts were in Sanskrit/Devanagari" |
+| Multilingual states | ✅ Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers — coexistence, not linear replacement (R.S. Sharma, PDF pp. 219-220) | A single-language-per-state assumption |
+| Earliest datable Sanskrit epigraphy | Rudradaman I's Junagarh (Girnar) inscription, c. 150 AD; the Chebrolu inscription (Andhra Pradesh, 207 AD, discovered 2019) as the earliest datable South Indian Sanskrit inscription (*Nitin…pdf*, PDF pp. 582-583) | Treating Sanskrit's literary antiquity and its inscriptional record as the same thing |
+| Constitutional statuses | Eighth Schedule (22 Scheduled Languages) ≠ official language of the Union under Article 343 ≠ classical-language status ≠ "national language," which does not exist | The single most common Indian-languages error |
+
+### 13.7 Evidence bank D — documentary heritage, with status discipline
+
+- 📰 **Classical languages:** India has **11** after Marathi, Pali, Prakrit,
+  Assamese and Bengali were added in **October 2024** to Tamil, Sanskrit,
+  Kannada, Telugu, Malayalam and Odia (PIB, verified 21 July 2026). ❌ This
+  is neither Eighth Schedule nor official-language status.
+- 📰 **Memory of the World:** India holds **14** International Register
+  inscriptions after the 2025 additions of the Bhagavadgita and
+  Natyashastra manuscripts (UNESCO/UN India, verified 21 July 2026). Named
+  entries usable with their years: Rigveda (2007); I.A.S. Tamil Medical
+  Manuscript Collection (1997); Ramcharitmanas, Panchatantra and
+  Sahrdayaloka-Locana (2024); Abhinavagupta Manuscripts and Saang Lok
+  Collection (2023); Gilgit Manuscript and Maitreyavyakarana (2017);
+  Shantinatha Charitra (2013); Tarikh-e-Khandan-e-Timuriyah and
+  Laghukalachakratantrarajatika Vimalaprabha (2011); Shaiva Manuscript in
+  Pondicherry (2005); Archives of the Dutch East India Company (2003).
+- ⚠️ **Two disciplines that earn marks:**
+  1. **Composition date ≠ inscription year.** The Rigveda's antiquity and
+     its 2007 inscription are different facts.
+  2. **Diversity of the register.** Colonial administrative archives (Dutch
+     East India Company, 2003) and Persian chronicles
+     (Tarikh-e-Khandan-e-Timuriyah, 2011) sit alongside religious
+     manuscripts, so "India's documentary heritage is ancient religious
+     texts" is false.
+- ❌ **Programme firewall:** Memory of the World (documentary) ≠ World
+  Heritage (tangible sites) ≠ Intangible Cultural Heritage (living
+  practice) ≠ GI (domestic IP). Route all four through topic 14.
+- ⚠️ **Institutional custody:** the National Mission for Manuscripts,
+  IGNCA and the National Archives hold the documentation/digitisation
+  mandate (topic 14); conservation answers should name the institution and
+  its function rather than a generic "the government."
+
+### 13.8 Reasoned verdict scaffolds
+
+- **Pallava literature:** "Pallava literary patronage is demonstrable
+  rather than assumed, because a court-associated author's own text records
+  the artistic world it was written in, and because the court changed the
+  script its records were written in."
+- **Language diversity:** "India's linguistic order is best described as
+  layered rather than plural — several families, several scripts, several
+  literary registers and several legal statuses, none of which maps neatly
+  onto the others."
+- **Documentary heritage:** "The value of India's manuscript heritage lies
+  as much in what has been catalogued, digitised and inscribed as in what
+  was written, because an undocumented manuscript is evidence that cannot
+  yet be used."
+
+### 13.9 Factual-risk and dynamic-status controls
+
+- ❌ Do not conflate language, script and religion.
+- ❌ Do not claim a constitutionally declared national language.
+- ❌ Do not assign the Buddha or Mahavira a single certain spoken language.
+- ❌ Do not present the Memory of the World count, the classical-language
+  count or the Eighth Schedule total as self-evidently current: each
+  carries its verification date (21 July 2026) and must be re-checked
+  against UNESCO's own register page or PIB before being cited later.
+- ❌ Do not invent work-author pairs, manuscript folio counts or
+  inscription readings.
+- ⚠️ 2024's Prelims demand on a work attributed to **Bhasa** and 2021's on
+  **Bhavabhuti/Hastimalla/Kshemeshvara** are attribution traps: answer them
+  by verifying the specific work-author pair, not by pattern-matching a
+  famous name.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

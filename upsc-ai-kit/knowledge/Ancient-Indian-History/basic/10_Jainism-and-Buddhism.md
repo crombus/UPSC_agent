@@ -78,6 +78,49 @@
 - ⚠️ Analyse Jainism and Buddhism as reform movements against ritualism and social hierarchy.
 - ⚠️ Discuss why Buddhism spread more widely than Jainism, yet declined in India while Jainism survived.
 - ⚠️ Use ahimsa and the Middle Path as GS-I to GS-IV bridges in ethics answers.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Jainism and Buddhism arose from the social and economic churn of the sixth-fifth centuries BC and cannot be reduced to purely spiritual protest." |
+| Critically examine | "Both traditions challenged ritualism and hierarchy, yet they differed sharply in metaphysics, institutional strategy and later historical trajectories." |
+| Compare / evaluate | "A strong comparison sets Jain ethical rigour and Buddhist middle-path pragmatism against a common background of urban growth and renunciatory ferment." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** social-economic setting -> doctrines -> institutions -> spread/decline
+- **For comparison Qs:** Jainism vs Buddhism across problem, path, social base, sects and historical reach
+- **For evaluate Qs:** reform impulse -> doctrinal divergence -> qualified verdict on long-term significance
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Both movements were historically rooted in new social conditions | ✅ Sixth-fifth century BC sectarian ferment in the mid-Gangetic plains | Explains timing and appeal beyond theology | Economic context alone cannot explain doctrine |
+| 2 | Jain and Buddhist solutions diverged clearly | ✅ Triratna/five vows vs Four Noble Truths/Eightfold Path | Gives a crisp comparative spine | Later sects complicate neat binaries |
+| 3 | Buddhism spread through institutional and doctrinal flexibility | ⚠️ Sangha, patronage and later Bodhisattva/Mahayana appeal | Helps explain transregional spread | Regional outcomes differed sharply |
+| 4 | Survival and decline were historical, not automatic | ✅ Buddhism's decline in India and Jain continuity | Supports high-mark evaluate questions | No single-cause explanation is sufficient |
+
+### Counterpoint and balance
+
+- Neither tradition was wholly outside the wider Indian religious field; both interacted with Brahmanical society over time.
+- Do not write them as identical egalitarian revolutions; social critique, doctrine and reach varied.
+
+### Verdict framing
+
+- Conclude by combining reform, doctrinal distinctiveness and long-term adaptation.
+- A graded verdict should say that both reshaped Indian thought, but through different social and institutional routes.
+
+### Provenance anchors for high-risk terms
+
+- ⚠️ Verified UPSC 2024 demand: a late-4th-century Indian monk who travelled to China; associated with Sarvastivada Vinaya/commentarial tradition. Provenance: official UPSC 2024 paper routing (local audited); do not rely on coaching sites for commentary title.
+- ⚠️ Standard reference knowledge: Shvetambara non-image-worship reform tradition; roots associated with Lonka Shah (15th c.) and later formal organisation.
+- ⚠️ Standard reference knowledge: Mahayana six perfections — dana (generosity), sila (morality), ksanti (patience), virya (effort), dhyana (meditation), prajna (wisdom). Context: central to Bodhisattva path in Mahayana tradition.
+- ⚠️ Standard reference knowledge: the future Buddha in Buddhist tradition (both Theravada and Mahayana); avoid attributing exclusively to one sect.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 
@@ -120,6 +163,14 @@
 
 - Epithets of Gautama Buddha (Nayaputta, Shakyamuni, Tathagata)
 - Sanghabhuti's commentary (Sarvastivada Vinaya)
+
+### Substantive coverage: Sanghabhuti
+
+> ✅ **Audited answer route:** Sanghabhuti was a late-fourth-century Indian Buddhist monk who travelled to China and was associated with a commentary on the **Sarvastivada Vinaya**, as identified by the audited 2024 UPSC paper/key route. Sarvastivada was a distinct early Buddhist school prominent in north-western India, Kashmir and Central Asia; it must not be equated with Theravada.
+>
+> **Exam-safe minimum:** Sanghabhuti -> commentary on the **Sarvastivada Vinaya**. **Sanghabhadra** was a different, later Vaibhashika Abhidharma scholar and is not an alternative transliteration or name for Sanghabhuti.
+>
+> **Provenance note:** Neither R.S. Sharma nor Upinder Singh discusses Sanghabhuti by name. The narrow examination identification is therefore grounded in the locally audited official UPSC question/key route, while the Core supplies only the necessary school-level context.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

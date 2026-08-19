@@ -120,7 +120,29 @@
 > empires substantially ended by the mid-1960s, while the Cold War itself continued for another
 > 25+ years until 1989-91.
 
-## 7. Cross-links
+## 7. Cross-topic synthesis routes (for questions that span several owners)
+
+> ⚠️ Some GS-I questions cut across two or more topic families. This section names the recurring
+> cross-family arguments and routes each to the **Core** sections that own the evidence. It adds
+> no new facts; it prevents contradiction and duplication when an answer must combine owners.
+
+| Synthesis argument | Core sections that own the evidence | ⚠️ The discrimination to make |
+|---|---|---|
+| **Economic transformation versus political ideology as the engine of change, 1750–1991** | `basic/04` §8.4–8.5 (industrial mechanism); `basic/07` §8.4 (industry → empire); `basic/13` §9.7 (planned industrialisation); `basic/15` §10.4 (ideology in the Cold War); `basic/20` §8.4–8.5 (world economy) | Economic transformation set the *capabilities* and the *stakes*; ideology determined *how those capabilities were used and how rivals read each other*. Neither reduces to the other. |
+| **Two ages of decolonisation (Atlantic c. 1800 and Afro-Asian after 1945)** | `basic/08` §8.7 (explicit comparison table); `basic/18` §7.4–7.5 (causes and routes) | Same word, opposite processes: a settler-elite secession from a collapsing metropole versus anti-colonial mass movements against exhausted but intact metropoles. |
+| **Boundary redrawal as a recurring mechanism, 1815 → 1919 → 1945 → 1991** | `basic/05` §7.4, §7.6 (Vienna); `basic/10` §8.6 (Paris treaties); `basic/14` §10.7 (post-1945); `basic/21` §8.5 (post-1991) | Each settlement solved the previous war's problem and created the next one's grievance; only the *criterion* changed — dynastic legitimacy, self-determination, occupation, then state collapse. |
+| **Rights universalism and its exclusions, 1776 → 1945 → decolonisation** | `basic/01` §8.7; `basic/02` §8.5; `basic/03` §8.5; `basic/07` §8.6–8.7; `basic/16` §9.7 | The universal claim and the restriction on who counted were produced together; anti-colonial movements used the coloniser's own standard against it. |
+| **The state's expanding reach: total war, planning and welfare** | `basic/10` §8.5 (WWI total war); `basic/13` §9.7 (Soviet planning); `basic/14` §10.6–10.7 (WWII and welfare pressures); `basic/20` §8.4 (post-1945 economic architecture) | War, not ideology, first taught liberal states to plan — which is why post-1945 welfare states emerged across very different political systems. |
+| **Why comparable causes produced divergent outcomes** | `basic/12` §10.5 (fascism's variants); `basic/17` §8.7 (Asian communisms); `basic/18` §7.5 (decolonisation routes); `basic/19` §7.7 (Latin American variation); `basic/21` §8.7 (Arab Spring) | Always name the *variable* that produced divergence — settler presence, state coherence, external patronage, resource rents — rather than asserting that outcomes simply differed. |
+| **Political philosophies: doctrine, regime and effect on society** | **`basic/01` §9 is the doctrine owner**; the historical records are routed by its §9.8 to `basic/04`, `05`, `06`, `12`, `13`, `15`, `17`, `18`, `20` and `21` | Never define an ideology from the regime that claimed it. State the doctrine from `01` §9, then take the record from the owner — and say which of the two the evidence is about. |
+| **Economic crisis as a political variable, 1929–39** | **`basic/20` §9 owns causes, transmission and policy instruments**; `basic/11` §8.5 and `basic/12` §10.4 own the diplomatic and constitutional consequences | The Depression is a *mechanism* in Topics 11 and 12 and a *subject* in Topic 20. Do not explain it in the topics that only use it, and do not answer a Depression question from them. |
+| **Industrialisation as a plural process** | `basic/04` §8.4 (Britain), **§8.6A (Japan, with Russia as a controlled case)**, §8.6 (railways by country type); `basic/13` §9.7 (Soviet planning) | The comparison axis is *who initiated and under what compulsion* — market advantage, state security, or revolutionary programme — not simply "early versus late". |
+
+> ⚠️ **Rule when synthesising:** take each claim from its Core owner and keep that owner's
+> qualification with it. Do not merge two owners' evidence into a single unqualified
+> generalisation, and do not import Indian-side material that `Modern-Indian-History` owns.
+
+## 8. Cross-links
 
 > **Study link:** ✅ Each era -> its topic file, e.g. French Revolution -> `basic/03` +
 > `advanced/03`; WWI -> `basic/09`+`10`, `advanced/09`+`10`; Russian Revolution/Stalin ->

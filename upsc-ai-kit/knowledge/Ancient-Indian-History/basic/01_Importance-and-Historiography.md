@@ -72,6 +72,57 @@
 
 ## 7. Mains angles
 
+### Thesis options
+
+| Directive | Thesis |
+|---|---|
+| Discuss | Historiography is itself a subject of history: how historians ask questions determines what answers they find, so method—not just data—defines historical knowledge. |
+| Critically examine | James Mill's religious periodisation was a colonial-communal imposition that modern historiography rejects because it reduces complex multi-religious, multi-cultural centuries to single-religion labels. |
+| Compare | Nationalist historians recovered Indian agency from colonial contempt, while Marxist historians shifted focus from political glory to material conditions; both corrected predecessors but introduced new limitations. |
+
+### Evidence units
+
+| Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|
+| Colonial historiography imposed communal frames | James Mill's *History of British India* (1817) divided Indian history into Hindu/Muslim/British periods | Created lasting communal periodisation that influenced policy and textbooks | Mill never visited India; his frame reflected colonial governance needs, not Indian self-understanding |
+| Nationalist historians asserted Indian agency | K.P. Jayaswal's *Hindu Polity* (1924) recovered indigenous republican traditions | Challenged colonial narrative of Oriental despotism | Sometimes over-glorified or homogenised Indian traditions |
+| Marxist/materialist turn foregrounded economy and society | D.D. Kosambi's *Introduction to the Study of Indian History* (1956); R.S. Sharma's analyses | Linked technology, agriculture, class and varna to state formation | Could undervalue religion, art and regional variation |
+| Contemporary method combines sources | Archaeology + epigraphy + numismatics + texts + science-based dating | Multi-source reconstruction is more robust than text-only history | Interdisciplinary work requires training across fields; synthesis remains partial |
+
 - ⚠️ "Ancient Indian history is a reconstruction, not a memory." Discuss using texts, archaeology and historiography.
 - ⚠️ Critically examine James Mill's periodisation and why modern historiography rejects religion-based eras.
 - ⚠️ Show how RS Sharma's materialist approach links technology, agriculture, caste and state formation.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Ancient Indian history is reconstructed through contested evidence and changing historiographical lenses, so method matters as much as content." |
+| Critically examine | "Colonial, nationalist and socio-economic readings each illuminated the past, but each narrowed it by privileging a different archive." |
+| Compare / evaluate | "The strongest answer treats historiography as a debate over sources, periodisation and social change rather than a parade of historians." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** problem of evidence -> schools of interpretation -> what each added -> present synthesis
+- **For comparison Qs:** Colonial vs nationalist vs materialist/social-history approaches in a parallel matrix
+- **For evaluate Qs:** contribution -> blind spot -> why interdisciplinary reconstruction is stronger
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Source choice shapes narrative | ✅ Colonial reliance on texts, dynasties and invasions | Explains why early histories underplayed society and economy | Text-led reading ignored much archaeology |
+| 2 | Nationalist recovery restored agency | ✅ Stress on political-cultural achievement and continuity | Corrected colonial dismissal of India's past | Could romanticise unity and golden ages |
+| 3 | Socio-economic history widened the field | ✅ R.S. Sharma's focus on material remains, production and social formations | Makes long-term change analytically visible | Can underplay ideas and regional nuance |
+
+### Counterpoint and balance
+
+- Neither colonial scepticism nor nationalist celebration is sufficient by itself.
+- Material explanation is powerful, but history-writing still needs culture and source criticism.
+
+### Verdict framing
+
+- Conclude as a move from single-archive history to interdisciplinary reconstruction.
+- Avoid claiming one school is wholly correct; combine their strongest insights.

@@ -164,3 +164,18 @@ DRDO (Ministry of Defence) | MeitY (a Ministry)
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — DST-linked mission architecture in applied form.
 - ✅ `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — where horizontal research support meets strategic manufacturing.
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` — another domain where mission bodies and horizontal science architecture intersect.
+
+## Core answer architecture — research institutions, funding and translation
+
+**Thesis choice.** A research system is not a list of laboratories: it converts curiosity, mission priorities, peer review, infrastructure, skills and industry uptake into capability, with different institutions doing different jobs.
+
+**10-mark spine.** Identify the function (policy, funding, laboratory research, translation or regulation); name the correct institution; trace one input-to-output chain; state the capacity/coordination constraint.
+
+**15/20-mark spine.** Organise **basic research base → funding/governance architecture → mission/translation and industry interface → regional/university/skill equity → autonomy, peer review and impact verdict**.
+
+**Evidence units.**
+- **Claim:** institutional labels encode distinct functions → **DST and DSIR are Departments, CSIR is an autonomous society under DSIR, and ANRF is a statutory funding body** → prevents substituting a laboratory network for a funding authority → **qualification:** formal mandate does not prove adequate funds, staffing, autonomy or research outcomes.
+- **Claim:** translation needs bridges beyond grants → **university/lab research, prototype/testing, standards, incubators and industry-scale adoption** → connects scientific output to usable products and public value → **qualification:** an MoU, call for proposals or patent filing is activity, not a deployed innovation.
+- **Claim:** mission research and broad discovery are complements → **space, health, agriculture, energy and strategic technology missions draw on upstream science and skilled people** → supports targeted national goals while renewing capability → **qualification:** excessive short-term mission metrics can crowd out curiosity research, replication and university capacity.
+
+**Verdict.** Strengthen transparent peer review, stable core support, research freedom, shared infrastructure and credible pathways from knowledge to social use.

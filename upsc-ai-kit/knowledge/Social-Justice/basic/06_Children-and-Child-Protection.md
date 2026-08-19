@@ -64,6 +64,8 @@ exploitation, cyberbullying, data privacy — that existing frameworks must adap
 | ✅ **Child Welfare Committee (CWC)** | A Committee (Chairperson + four members) with the power of a Bench of Magistrates, dealing with children in need of care and protection, ordering rehabilitation, foster care or institutional care. |
 | ✅ **Child labour (2016 Amendment)** | Complete prohibition of employment of children below 14 years in any occupation; adolescents (14-18) prohibited from hazardous occupations — Child Labour (Prohibition and Regulation) Amendment Act, 2016. |
 | ✅ **NCPCR** | National Commission for Protection of Child Rights — a statutory body under the Commissions for Protection of Child Rights Act, 2005, mandated to examine/review safeguards, inquire into violations and recommend measures. |
+| ✅ **ILO Convention 138** | Minimum Age Convention: requires a national minimum age for admission to employment/work and progressive abolition of child labour. |
+| ✅ **ILO Convention 182** | Worst Forms of Child Labour Convention: requires urgent elimination of slavery-like practices, trafficking, forced recruitment, commercial sexual exploitation, illicit activities and work likely to harm children's health, safety or morals. |
 | 📰 **DPDP child-data status** | The DPDP Act, 2023 contains child-data safeguards, and the 2025 Rules set phased commencement. As at 21 July 2026, the substantive child-data duties, including verifiable parental consent, are scheduled for 13 May 2027; do not describe them as current enforcement. |
 
 ## 3. How child-protection instruments work (mechanism)
@@ -136,6 +138,16 @@ exploitation, cyberbullying, data privacy — that existing frameworks must adap
 - ⚠️ A 17-year-old accused of a heinous offence being assessed by the JJB for possible
   transfer to a Children's Court demonstrates the 16-18 transfer provision under the
   2015 JJ Act.
+
+- ✅ **Child-marriage prevalence:** NFHS-6 (2023-24) reported that 20.1% of women aged
+  20-24 had married before age 18, down from 23.3% in NFHS-5. The variation shows why
+  law must be joined to girls' schooling, safety and household economic security.
+- ✅ **Child labour scale:** Census 2011 counted about 10.1 million workers aged 5-14
+  (main plus marginal workers). This dated measure does not capture every hidden,
+  unpaid or hazardous form.
+- ⚠️ **POCSO data discipline:** check whether a statistic measures registration,
+  disposal, convictions among disposed cases or convictions among all pending trials;
+  those denominators are not interchangeable.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -212,6 +224,25 @@ exploitation, cyberbullying, data privacy — that existing frameworks must adap
   in need of care and protection under the Juvenile Justice Act, 2015.
 - ⚠️ **Mains (10 marks):** Examine the effectiveness of the Child Labour (Prohibition and
   Regulation) Amendment Act, 2016, in eliminating child labour in India.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+- **Legal chain:** Constitution -> JJ Act -> POCSO -> NCPCR -> Mission Vatsalya.
+- **JJ Amendment 2021:** strengthened District Magistrate oversight of adoption and
+  child-care institutions and reclassified specified offences; accountability must
+  preserve specialised child-sensitive decision-making.
+- **Digital safety:** grooming, sexual-abuse material, cyberbullying, addictive design,
+  privacy loss and unequal literacy require platform duties, policing, school/parent
+  literacy and accessible reporting.
+- **Child marriage:** schooling loss, poverty, safety fears, patriarchy and weak birth
+  registration explain persistence; punishment alone can drive unions underground.
+
+**10 marks:** right plus three responses. **15 marks:** risks, institutions, gaps and
+safeguards with 4-6 examples. **20 marks:** lifecycle approach from registration and
+nutrition to education, digital participation, adolescence and rehabilitation.
+
+> **Reasoned verdict:** Child protection joins prohibition to prevention, family support,
+> child-sensitive institutions and enforceable digital accountability.
 
 ## 12. Study links
 

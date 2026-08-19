@@ -63,20 +63,20 @@ whichever prompts feel most comfortable — an uneven practice
 distribution leaves blind spots exactly where a live exam prompt might
 resemble the neglected set.
 
-## 6. Causality, mechanisms and feedback loops — full quotation/source-risk ledger
+## 6. Causality, mechanisms and feedback loops — corrected quotation/source-risk ledger
 
 | Prompt set | Verification level | Printed author? | Permissible use | Verification needed for attribution |
 |---|---|---|---|---|
-| 2024, 2025 (16 prompts) | **V1** — read directly off the local official PDFs | No — none is attributed | Quote verbatim, printed defects included, or paraphrase faithfully | Any added attribution requires a primary/authoritative source |
-| 2013–2023 (84 prompts) | **V2** — no local official paper | Only 2013-1 carries one ("Gandhiji"), itself unverified | Paraphrase for practice; check the official paper before quoting verbatim | Both the wording *and* any attribution need the official paper |
+| 2018–2025 (64 prompts) | **V1** — read from local official PDFs | Do not infer an author from familiarity | Quote verbatim, printed defects included, or paraphrase faithfully | Any added attribution requires a primary/authoritative source |
+| 2013–2017 (36 prompts) | **V2** — no local official paper | Only 2013-1 carries one ("Gandhiji"), itself unverified | Paraphrase for practice; check the official paper before quoting verbatim | Both wording and attribution need the official paper |
 
 ```text
 BEFORE using any prompt-derived quotation in a live attempt:
         |
         v
-IS IT A V1 ROW (2024/2025)?
+IS IT A V1 ROW (2018-2025)?
    yes -> quote verbatim as printed (defects included), unattributed
-   no  -> IS IT A V2 ROW (2013-2023)?
+   no  -> IS IT A V2 ROW (2013-2017)?
              yes -> paraphrase the idea, OR verify against the official
                     paper for that year before quoting verbatim
              no (a different, remembered aphorism) -> apply 09's full ledger:
@@ -120,8 +120,8 @@ omitting recurring failures defeats the purpose of the error log
 ## 10. Evidence/source-risk and India application
 
 ⚠️ The ledger in Section 6 applies to all 100 prompts, but not
-uniformly: 16 rows are V1 and quotable verbatim, 84 are V2 and should be
-paraphrased until checked.
+uniformly: **64 rows (2018–2025) are V1** and quotable verbatim; **36
+rows (2013–2017) are V2** and should be paraphrased until checked.
 ✅ Every illustration used in practice attempts should also be checked
 against `12`'s claim → example → function → limitation → source-module
 chain, logged as part of the same practice record.
@@ -160,7 +160,7 @@ situation; timely action where inaction itself causes escalating harm.
 - ❌ **Logging errors without spaced reattempt.** → Protocol: schedule a
   reattempt of the logged skill (not necessarily the same prompt) after
   a genuine gap (Section 8).
-- ❌ **Attaching an author to any of the 16 recent prompts, or to a remembered
+- ❌ **Attaching an author to a familiar V1 or V2 prompt, or to a remembered
   aphorism without verification.** → Protocol: apply Section 6's ledger
   before every use.
 
@@ -174,8 +174,8 @@ own source and date per `09`/`12`.
 prompt not already deep-outlined above — e.g. 2025-A3 ("thought finds a
 world and creates one also") — within 15 minutes.
 
-**Transfer task:** After a genuine gap (a different day), apply your
-most recently logged weakness (from `15`) to a prompt you have not yet
-practised at all, and assess via Section 8's counterfactual test whether
-the underlying skill, not just the specific essay, has improved; record
-the outcome as the next entry in your error log.
+**Transfer task:** On Day 7 of `basic/16`'s calendar, apply the most
+recently logged weakness (`15`) to an unused **2018–2023 V1** prompt
+without first reading an outline. Assess via Section 8's
+counterfactual test whether the underlying skill, not just the specific
+essay, improved; record the outcome in the Core error-log schema.

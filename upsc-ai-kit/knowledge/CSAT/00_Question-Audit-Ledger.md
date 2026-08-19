@@ -7,7 +7,12 @@
 
 **Families:** 01 Reading Comprehension; 02 Number Systems; 03 Arithmetic/Commercial Math;
 04 Rates/Motion/Time/Geometry; 05 Algebra/Inequalities/Data Sufficiency; 06 Logical Reasoning,
-Coding, Counting, Data Interpretation and interpersonal/communication skills.
+Coding, Counting and Data Interpretation.
+
+**Exclusive-family rule:** Family labels count the dominant **solving structure**, not every syllabus
+concept in the wording. Thus 2026 Q72-Q77 remain in Family 06 for matching/scenario structure, while
+the content-owner overlay below tags them Topic 07. The overlay is deliberately not added to the
+family totals.
 
 **Key status:** `S` = supplied completed scan headed only `CS(P)-2024` / `CS(P)-2025`, with **no
 issuer named and no provisional marker**; this module therefore records it as *supplied*, not as
@@ -199,7 +204,9 @@ Section 2, before using any of these rows as practice.
 
 ## 2026
 
-Every classification and answer in this section is provisional.
+The **answer-key letters** in this section are provisional. Family labels are audit judgements and
+may be revisited if a clearer source changes the reading; the supplied paper's Q72-Q77 question text
+nevertheless establishes the presence of an explicit communication block.
 
 | Q | Family | Neutral type | Key | Status |
 |---:|:---:|---|:---:|:---:|
@@ -296,13 +303,24 @@ Every classification and answer in this section is provisional.
 | 06 | 12 | 12 | 21 | 45 |
 | **All families** | **80** | **80** | **80** | **240** |
 
+### 2026 syllabus-owner overlay (not an additional family total)
+
+| Questions | Exclusive structural family retained | Content owner | Why |
+|---|---|---|---|
+| 72-77 | 06 | 07 Interpersonal and Communication Skills | Relationship/channel, tool purpose, conflict, barriers, questionnaire design and circular-letter judgement are Topic 07 content; matching/scenario form is the Topic 06 interface. |
+
+**Reporting rule:** write **`Family 06: 45 structural questions; Topic 07: 6 content-tagged
+questions`**. Do **not** sum those figures: the six Topic 07 tags are inside the exclusive Family-06
+count.
+
 Taxonomy overlaps were resolved by the dominant solving method, using these written tie-breaks so the
 totals are reproducible:
 
 1. **Two-statement data-sufficiency format -> Family 05**, always, even when the content is rates,
    arithmetic, relations or coding. The tested skill is "is this pinned?", not the computation.
 2. **Coding, counting, arrangement and matching formats -> Family 06**, even when the content is
-   numeric.
+   numeric. Q72-Q77 additionally carry the Topic 07 content-owner overlay; this does not alter the
+   exclusive Family-06 arithmetic.
 3. **Motion context -> Family 04.** Items about distance, displacement, step/jump sequences, tracks,
    crossings, clocks and calendars stay in 04 even when the algebra is a small linear system; word
    problems with **no motion or geometric measure** go to 05.

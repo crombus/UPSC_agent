@@ -7,7 +7,7 @@
 > **Grounded in:** National Food Security Act, 2013; Pradhan Mantri Garib Kalyan Anna
 > Yojana merger with NFSA (free foodgrains from 1 Jan 2023, extended to Dec 2028);
 > ICDS/Saksham Anganwadi/Poshan 2.0 (MWCD); PM POSHAN (Ministry of Education);
-> NFHS-5 (2019-21), the latest published national nutrition round as at 21 July 2026;
+> NFHS-6 (2023-24), released on 29 May 2026, with NFHS-5 as a dated comparator;
 > 2024 GS-II PYQ Q7.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/02_Poverty-Hunger-Food-and-Nutrition-Security.md`.*
@@ -110,9 +110,8 @@ alone.
 - ✅ **ONORC:** Technical backbone provided by NIC/FCI; requires Aadhaar seeding,
   ePoS rollout and inter-state data sharing.
 - ✅ **NFHS (National Family Health Survey):** Primary survey source for stunting,
-  wasting, anaemia and related household outcomes. NFHS-5 (2019-21) remains the latest
-  published national round as at 21 July 2026; do not attach newer outcomes to an
-  unreleased NFHS-6 round.
+  wasting, anaemia and related household outcomes. NFHS-6 (2023-24), released on
+  29 May 2026, is the current national round; retain the round beside every value.
 
 ## 5. Indian applications and examples
 
@@ -126,6 +125,9 @@ alone.
 - ✅ **NFHS-5 (2019-21) baseline:** 35.5% of children under five were stunted, 19.3%
   were wasted and 67.1% of children aged 6–59 months were anaemic nationally. These
   are a dated baseline, not a current dashboard total.
+- ✅ **NFHS-6 (2023-24) current anchor:** under-five stunting was reported at 29.3%;
+  the survey covered 715 districts and about 6.79 lakh households. Do not combine
+  NFHS-5 and NFHS-6 indicators without naming each round.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -165,9 +167,9 @@ alone.
 
 ## 8. 📰 Current anchor
 
-- 📰 **Survey-status check (21 July 2026):** NFHS-5 (2019-21) remains the latest
-  published national round. Retain the reporting round beside every nutrition figure;
-  do not invent, or relabel NFHS-5 values as, NFHS-6 outcomes.
+- 📰 **Survey-status check (29 May 2026):** NFHS-6 (2023-24) is released. Its
+  under-five stunting estimate is 29.3%, compared with 35.5% in NFHS-5. Retain the
+  reporting round and do not mix survey rounds.
 - 📰 **Free-foodgrain policy:** NFSA foodgrains have been distributed free of cost
   to AAY/priority-household beneficiaries since 1 January 2023 (PMGKAY merged
   into NFSA), and the Union Cabinet extended this free-distribution policy for
@@ -228,6 +230,37 @@ alone.
 - ⚠️ **Mains (15 marks):** "Food security is necessary but not sufficient for
   nutrition security." Discuss with reference to India's policy architecture.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+### Direct Mains demands owned by Core
+
+- **2018 GS-II:** food availability versus human-development causes of hunger.
+- **2019 GS-II:** divergence between poverty reduction and hunger. These Core routes
+  supersede the older `advanced/02` pointers.
+
+### Evidence and argument bank
+
+- **Lifecycle nutrition:** adolescent girls -> pregnancy and first 1,000 days ->
+  breastfeeding/complementary feeding -> preschool services -> PM POSHAN.
+- **SAM/MAM:** severe and moderate acute malnutrition require screening, referral,
+  treatment where indicated and community follow-up; foodgrain allocation is insufficient.
+- **THR versus hot meals:** Take-Home Rations support household feeding for pregnancy,
+  lactation and young children; supervised hot meals support anganwadi/school consumption.
+- **Anaemia Mukt Bharat:** use the 6x6x6 strategy as a multi-cause intervention bank.
+- **Fortification:** can address selected micronutrient gaps at scale but cannot replace
+  dietary diversity, infection control, safe water or clinical treatment.
+- **Measurement:** income/calorie poverty, MPI and anthropometry measure different
+  deprivations; falling monetary poverty can coexist with hunger.
+
+**10 marks:** vicious cycle plus 2-3 named interventions. **15 marks:** separate
+availability, access, absorption and utilisation and use 4-6 evidence units. **20
+marks:** add measurement debate, fiscal priorities, gender/WASH/health convergence and
+a graded universal-versus-targeted judgment.
+
+> **Reasoned verdict:** Food entitlement is necessary, but hunger ends only when it is
+> converted into diverse diets, maternal-child care, disease control and accountable
+> local delivery.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/02_Poverty-Hunger-Food-and-Nutrition-Security.md`.
@@ -264,21 +297,25 @@ alone.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Years represented:** 2018, 2019, 2023
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 4
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 17 | Food availability focus against human development policies as cause of hunger | How far do you agree · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2018 | Prelims GS-I | 25 | National Food Security Act 2013 beneficiary categories and provisions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | GS-II | 7 | Divergence between poverty and hunger and shrinking social expenditure | Elucidate · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 52 | Anaemia Mukt Bharat Strategy interventions and target groups | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- Food availability focus against human development policies as cause of hunger
 - National Food Security Act 2013 beneficiary categories and provisions
+- Divergence between poverty and hunger and shrinking social expenditure
 - Anaemia Mukt Bharat Strategy interventions and target groups
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

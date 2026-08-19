@@ -561,7 +561,23 @@ Navy and Coast Guard -> Coast Guard/state -> marine police,
 
 ---
 
-## 23. Optional Advanced enrichment
+## 23. Core-only answer proof: do not borrow a missing mark from Advanced
+
+| Demand family | Core thesis | Named evidence/example | Required qualification/verdict |
+|---|---|---|---|
+| Development–extremism / LWE | Organised coercion converts grievance into a security risk; rights delivery is part of response. | FRA/PESA + National Policy and Action Plan + December 2025 MHA metrics. | Reported security decline and June 2026 “effectively free” wording do not prove root-cause resolution. |
+| Terrorism / external actors | Sponsor, proxy, facilitator and target may be distinct actors in one mechanism. | UAPA/NIA amendments; PRAHAAR (23 February 2026); NIA/MAC/State-police chain. | Designation/arrest/policy is not conviction, throughput or a new agency. |
+| North-East / J&K | Accommodation, security and legitimacy are theatre-specific rather than interchangeable. | NSCN(IM) framework, UPF/KNO SoO, AFSPA legal/judicial anchors; LoC ceasefire understanding. | SoO/ceasefire/framework/accord/implementation are distinct rungs. |
+| Land/maritime borders | Terrain, legal mobility, community and threat vector determine capability. | BADP/BIM/CIBMS; zone ladder/JOCs; Anti-Maritime Piracy Act. | Detection is not interdiction; scheme/notification is not verified outcome. |
+| Cyber/information | Incident, crime and information operation have different owners and end-states. | IT Act ss. 66F/70A/70B; DPDP phased Rules; IT Rules 2021. | DPDP is privacy governance, not CII/cybercrime; encryption and shutdown restrictions need proportionality. |
+| Money/crime/forces | Follow the route/money/function and preserve adjudication/accountability. | PMLA/UAPA s.51A/FATF; NDPS/NCORD; MAC/NIA/*Prakash Singh*. | Attachment/seizure/designation is not conviction/confiscation; central support does not erase State-police primacy. |
+
+> **Revision prompt:** For any unfamiliar question, write one thesis, two
+> evidence units and one limitation from the relevant row before adding a
+> measure. If the Core cannot do this, reopen its Core answer-architecture
+> section; Advanced is enrichment, not a rescue file.
+
+## 24. Optional Advanced enrichment
 
 Use Advanced only after Core is secure:
 
@@ -580,7 +596,7 @@ Use Advanced only after Core is secure:
 
 ---
 
-## 24. Complete Core/Advanced source map
+## 25. Complete Core/Advanced source map
 
 | # | Core: must study | Advanced: optional depth |
 |---|---|---|
@@ -596,4 +612,3 @@ Use Advanced only after Core is secure:
 | 10 | [Terror Financing, Money Laundering and FATF](basic/10_Terror-Financing-Money-Laundering-and-FATF.md) | [Advanced](advanced/10_Terror-Financing-Money-Laundering-and-FATF.md) |
 | 11 | [Organised Crime, Narco-Terrorism and Trafficking](basic/11_Organised-Crime-Narco-Terrorism-and-Trafficking.md) | [Advanced](advanced/11_Organised-Crime-Narco-Terrorism-and-Trafficking.md) |
 | 12 | [Security Forces, Intelligence Coordination and Rights](basic/12_Security-Forces-Intelligence-Coordination-and-Rights.md) | [Advanced](advanced/12_Security-Forces-Intelligence-Coordination-and-Rights.md) |
-

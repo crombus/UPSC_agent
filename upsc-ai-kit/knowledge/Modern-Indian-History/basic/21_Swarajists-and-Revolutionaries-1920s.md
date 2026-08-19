@@ -85,3 +85,102 @@
 - ⚠️ GS-1: Compare the Swarajist method of council-entry with Gandhi's constructive programme after 1922.
 - ⚠️ GS-1: Assess the contribution of revolutionary nationalism in keeping anti-colonial spirit alive during the 1920s.
 - ⚠️ GS-1: Discuss the ideological evolution from HRA to HSRA and its significance for Indian nationalism.
+
+## 8. Answer architecture (10/15/20-mark support)
+
+> Purpose: support **strategy-comparison, ideological-evolution and interwar-continuity** demands, so that the 1920s are not written as an empty gap between two Gandhian movements.
+
+### 8.1 Demand and directive map
+
+| Demand family | Typical directive signals | Answer spine to use |
+|---|---|---|
+| Strategy comparison | "Compare Swarajist and No-changer approaches" | Diagnosis of 1922 → chosen method → results → complementarity |
+| Council politics | "Assess the Swarajist experiment" | Aim of obstruction → what it exposed → what it could not change → verdict |
+| Ideological evolution | "From HRA to HSRA" | Method continuity → ideological rupture → programme → significance |
+| Contribution of revolutionaries | "Did revolutionary activity help the movement?" | Political effect → recruitment effect → cost → verdict |
+| Continuity of the movement | "Was the 1920s a period of decline?" | Apparent lull → four parallel streams → what 1930 inherited |
+| Youth and radicalism | "Rise of radical politics in the 1920s" | Disappointment of 1922 → socialist ideas → new organisations |
+
+### 8.2 Qualified thesis options
+
+- **Division-of-labour thesis:** *The Swarajist–No-changer split looks like a rupture and functioned as a division of labour: council obstruction kept nationalism visible in the constitutional arena while constructive work kept it alive in the villages, and both wings reassembled for 1930.*
+- **Exposure thesis:** *Swarajist obstruction achieved its real objective not by winning votes but by demonstrating publicly that dyarchy could be paralysed by an elected majority and still not be changed by one — the strongest possible argument against the 1919 settlement.*
+- **Ideological-turn thesis:** *The transition from HRA to HSRA marks the point at which Indian revolutionary politics stopped being nationalist-insurrectionary and became socialist-republican, redefining the enemy as both imperialism and indigenous class exploitation.*
+- **Continuity thesis:** *The 1920s were not a trough between movements; they produced the Congress organisation, the constitutional case for Purna Swaraj, the socialist current and the martyr tradition on which 1929–30 was built.*
+
+### 8.3 Mark-scaled structure
+
+| Marks | Recommended architecture | Evidence load |
+|---:|---|---|
+| 10 | Thesis → two streams → results → verdict | 3 dated units |
+| 15 | Thesis → post-1922 debate → Swarajist record → revolutionary evolution → verdict | 5–6 units |
+| 20 | Thesis → 1922 vacuum → four streams (Swarajist, No-changer, revolutionary, emergent socialist/communal) → results → what 1929–30 inherited → graded verdict | 6–8 units with dates and organisations |
+
+### 8.4 Named evidence units (claim → evidence → significance → limit)
+
+**A. The strategic debate of 1922–23**
+- **Claim:** The split was about how to use a defeat, not about the goal.
+- **Evidence:** ✅ Congress divided between **No-changers**, who emphasised khadi, national education, Hindu–Muslim unity and removal of untouchability, and **Pro-changers** led by **C.R. Das** and **Motilal Nehru**, who founded the **Swaraj Party on 1 January 1923** for council entry and obstruction from within.
+- **Significance:** Both wings remained inside the Congress, which is the decisive institutional fact — the movement absorbed a fundamental strategic disagreement without fragmenting, unlike most anti-colonial movements.
+- **Limit/caution:** The division was real and bitter; do not present it as a planned allocation of roles.
+
+**B. The Swarajist record**
+- **Claim:** Council entry produced political exposure rather than legislative power.
+- **Evidence:** ✅ The Swarajists performed strongly in the **1923 elections** and used their position to expose the limits of dyarchy and the weaknesses of the budgetary settlement (see `basic/18` for why the transferred departments were structurally weak).
+- **Significance:** By defeating government motions and refusing supply where possible, they demonstrated that an elected Indian majority could obstruct but not govern — which converted the abstract nationalist critique of dyarchy into a demonstrated fact.
+- **Limit/caution:** Obstruction eroded over time as ministries, patronage and factional politics drew members in; the strategy's returns diminished by the later 1920s.
+
+**C. Constructive work in the villages**
+- **Claim:** The No-changer programme built the social base that the 1930 movement used.
+- **Evidence:** ✅ Khadi and charkha work, national schools, temperance, communal-harmony work and anti-untouchability campaigning through the mid-1920s.
+- **Significance:** This is the answer to "was the 1920s a lull?" — the constructive programme kept a cadre of workers in continuous contact with rural India between mobilisations, which is precisely what the Swadeshi movement had lacked (`basic/15`).
+- **Limit/caution:** Constructive work was politically quietist by design and did not directly challenge colonial authority.
+
+**D. HRA — revolutionary revival**
+- **Claim:** Armed revolutionary politics revived because the withdrawal of 1922 discredited the non-violent method among a section of the young.
+- **Evidence:** ✅ The **Hindustan Republican Association** was founded in **1924** by leaders including **Sachindranath Sanyal**, **Ram Prasad Bismil** and **Jogesh Chatterjee**; the **Kakori** train action of **1925** aimed at raising funds; **Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri were executed in 1927**.
+- **Significance:** Kakori's trial and executions produced the first mass martyr cult of the interwar period and demonstrated the recruiting power of public sacrifice.
+- **Limit/caution:** Kakori was **not** led by Bhagat Singh; keep HRA (1924–27) and HSRA (from 1928) distinct.
+
+**E. HSRA — the socialist turn**
+- **Claim:** The 1928 reorganisation changed the movement's theory, not just its name.
+- **Evidence:** ✅ The HRA became the **Hindustan Socialist Republican Association in 1928**, with **Bhagat Singh**, **Chandrashekhar Azad**, **Sukhdev** and **Bhagwati Charan Vohra** prominent; ✅ **Saunders** was killed in **December 1928** to avenge Lala Lajpat Rai's death; ✅ on **8 April 1929** **Bhagat Singh and Batukeshwar Dutt** threw bombs in the Central Legislative Assembly "to make the deaf hear"; ✅ Bhagat Singh, Sukhdev and Rajguru were executed on **23 March 1931**.
+- **Significance:** The Assembly action was deliberately non-lethal and designed to secure a trial — the method had shifted from insurrection to propaganda through the courtroom, which is how revolutionary socialism reached a mass audience.
+- **Limit/caution:** ⚠️ Do not quote Bhagat Singh's writings verbatim; describe the ideological position (anti-imperialist and anti-capitalist, republican, atheist in his later writing) rather than reproducing text.
+
+**F. Bengal and the wider revolutionary field**
+- **Claim:** Revolutionary activity was regionally plural and included women as participants.
+- **Evidence:** ✅ The **Chittagong Armoury Raid (1930)** under **Surya Sen** in Bengal, in which women revolutionaries participated.
+- **Significance:** Chittagong is the clearest case of an attempted seizure of a locality rather than an individual action — the most ambitious revolutionary operation of the period.
+- **Limit/caution:** Chittagong is in **Bengal**, not Punjab; and it belongs to 1930, overlapping with Civil Disobedience (`basic/22`).
+
+### 8.5 Comparative engine — four streams of the 1920s
+
+| Stream | Theory of change | Arena | Achievement | Limit |
+|---|---|---|---|---|
+| Swarajist | Discredit the reforms from inside | Legislatures | Exposed dyarchy's emptiness | Could obstruct, not govern; erosion over time |
+| No-changer | Build society before confronting the state | Villages, schools, khadi | Cadre and rural presence for 1930 | Politically non-confrontational |
+| Revolutionary (HRA/HSRA) | Sacrifice and propaganda by deed | Courts, symbolic action | Martyr tradition; socialist ideas popularised | Tiny numbers; executions destroyed leadership |
+| Emerging Left/labour | Class organisation | Trade unions, peasant bodies | Fed into 1930s mass politics (`basic/23`) | Weak organisation in the 1920s |
+
+### 8.6 Counter-evidence, balance and variation
+
+- **Against a heroic revolutionary reading:** the executions removed the leadership repeatedly and the organisations never survived a single major conspiracy case intact.
+- **Against dismissing the Swarajists:** their council work trained Indian legislators and kept nationalist argument in the official record throughout the lull.
+- **Communal deterioration:** ⚠️ the mid-1920s also saw serious communal deterioration in northern India, which is part of the period's balance sheet and connects to `basic/17`.
+- ⚠️ Avoid moral evaluation of revolutionary violence; assess political effect, recruitment, cost and legacy.
+
+### 8.7 Verdict scaffolds
+
+- **Comparative verdict:** "Council entry proved the reforms were worthless and constructive work proved the movement was permanent; the 1930 campaign required both conclusions."
+- **Ideological verdict:** "HSRA's significance is that it made socialism a mainstream vocabulary of Indian anti-colonialism, well before the Congress Socialist Party gave it an organisation."
+- **Period verdict:** "The 1920s ended with a Congress that was organisationally stronger, ideologically wider and constitutionally more radical than the one that had suspended its movement in 1922."
+
+### 8.8 Factual-risk cautions
+
+- Sequence: **Swaraj Party 1 Jan 1923 → HRA 1924 → Kakori 1925 → executions 1927 → HSRA 1928 → Saunders Dec 1928 → Assembly bomb 8 April 1929 → executions 23 March 1931 → Chittagong 1930**.
+- Kakori is **HRA** and Bismil/Ashfaqulla; the Assembly action is **HSRA** and Bhagat Singh/Dutt.
+- C.R. Das was Swaraj Party president and Motilal Nehru secretary.
+- Chittagong = Bengal, Surya Sen.
+- Do not state Swarajist seat numbers or vote shares without verified figures.
+- Do not quote revolutionary writings or court statements verbatim.

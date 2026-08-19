@@ -9,6 +9,11 @@ Usage:
     python tools/markdown_learning_pdf.py source.md output.pdf
     python tools/markdown_learning_pdf.py source.md workbook.pdf --mode workbook
     python tools/markdown_learning_pdf.py source.md output.pdf --image illustration.png
+
+Optional Markdown frontmatter:
+    ---
+    cover_image: relative/or/absolute/path.png
+    ---
 """
 
 from __future__ import annotations
@@ -63,6 +68,7 @@ RED_BG = HexColor("#FFF2F1")
 FONT = "Helvetica"
 FONT_BOLD = "Helvetica-Bold"
 FONT_ITALIC = "Helvetica-Oblique"
+MONO_FONT = "Courier"
 
 for regular, bold, italic in (
     (
@@ -90,6 +96,15 @@ for regular, bold, italic in (
         FONT = "LearningSans"
         FONT_BOLD = "LearningSans-Bold"
         FONT_ITALIC = "LearningSans-Italic"
+        break
+
+for mono in (
+    Path(r"C:\Windows\Fonts\consola.ttf"),
+    Path("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"),
+):
+    if mono.exists():
+        pdfmetrics.registerFont(TTFont("LearningMono", str(mono)))
+        MONO_FONT = "LearningMono"
         break
 
 
@@ -162,8 +177,19 @@ TOKEN_REPLACEMENTS = {
     "⚠️": "ANALYSIS:",
     "⚠": "ANALYSIS:",
     "📰": "CURRENT:",
+    "📚": "BOOK:",
+    "🔍": "SEARCH:",
+    "🖼️": "VISUAL:",
+    "🖼": "VISUAL:",
+    "🔗": "LINK:",
+    "❓": "CAUTION:",
     "❌": "WRONG:",
     "🔑": "MEMORY:",
+    "━": "-",
+    "─": "-",
+    "│": "|",
+    "├": "+",
+    "└": "+",
     "→": "->",
     "←": "<-",
     "↔": "<->",
@@ -183,6 +209,14 @@ def inline(text: str) -> str:
     for source, replacement in TOKEN_REPLACEMENTS.items():
         text = text.replace(source, replacement)
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    # ReportLab does not accept crossing bold/italic tags produced by Markdown
+    # such as **term *gloss***. Keep the bold emphasis and flatten the nested
+    # italics before converting markers to XML-like tags.
+    text = re.sub(
+        r"\*\*([^\n]+?)\*\*",
+        lambda match: f"**{match.group(1).replace('*', '')}**",
+        text,
+    )
     text = html.escape(text, quote=False)
     text = re.sub(r"`([^`]+)`", r'<font name="Courier">\1</font>', text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
@@ -192,6 +226,26 @@ def inline(text: str) -> str:
 
 def paragraph(text: str, paragraph_style: ParagraphStyle | None = None) -> Paragraph:
     return Paragraph(inline(text), paragraph_style or STYLES["body"])
+
+
+def split_frontmatter(markdown: str) -> tuple[dict[str, str], str]:
+    if not markdown.startswith("---\n"):
+        return {}, markdown
+    end = markdown.find("\n---\n", 4)
+    if end < 0:
+        return {}, markdown
+    block = markdown[4:end]
+    body = markdown[end + 5:]
+    metadata: dict[str, str] = {}
+    for line in block.splitlines():
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        key = key.strip().lower()
+        value = value.strip().strip("\"'")
+        if key and value:
+            metadata[key] = value
+    return metadata, body
 
 
 def is_table_separator(line: str) -> bool:
@@ -336,8 +390,8 @@ def cover_story(title: str, mode: str, image_path: Path | None) -> list:
         title_box,
         Spacer(1, 0.4 * cm),
         paragraph(
-            "Economy | GS-III and Prelims | Foundation to advanced | "
-            "Concepts, worked examples, traps, current linkage and answer writing",
+            "UPSC complete learning session | Foundation to advanced | "
+            "Concepts, evidence, practice and answer writing",
             style("cover-meta", fontSize=9, textColor=SUBTEXT, alignment=TA_CENTER),
         ),
         Spacer(1, 0.35 * cm),
@@ -350,7 +404,7 @@ def cover_story(title: str, mode: str, image_path: Path | None) -> list:
             image,
             Spacer(1, 0.1 * cm),
             paragraph(
-                "AI-generated conceptual illustration; not factual or quantitative evidence.",
+                "Original deterministic study visual; labels are explanatory, not textual quotations.",
                 STYLES["caption"],
             ),
         ])
@@ -380,18 +434,34 @@ def cover_story(title: str, mode: str, image_path: Path | None) -> list:
 def select_markdown(markdown: str, mode: str) -> str:
     if mode == "main":
         return markdown
-    marker = "## Solved topic-specific MCQs"
-    start = markdown.find(marker)
-    if start < 0:
-        raise ValueError("Workbook marker not found in source Markdown.")
-    end_marker = "## Final consolidated register notes"
-    end = markdown.find(end_marker, start)
-    practice = markdown[start:] if end < 0 else markdown[start:end]
+
+    start_match = re.search(
+        r"^##\s+.*(?:PYQ|previous-year|practice|workbook).*$",
+        markdown,
+        flags=re.MULTILINE | re.IGNORECASE,
+    )
+    if not start_match:
+        start_match = re.search(
+            r"^##\s+PART III.*$",
+            markdown,
+            flags=re.MULTILINE | re.IGNORECASE,
+        )
+    if not start_match:
+        return markdown
+
+    practice = markdown[start_match.start() :]
+    end_match = re.search(
+        r"^##\s+.*(?:consolidated|final).*register notes.*$",
+        practice,
+        flags=re.MULTILINE | re.IGNORECASE,
+    )
+    if end_match:
+        practice = practice[: end_match.start()]
     title = markdown.splitlines()[0]
     return f"{title}\n\n{practice}"
 
 
-def markdown_story(markdown: str) -> list:
+def markdown_story(markdown: str, source_dir: Path) -> list:
     lines = markdown.replace("\r\n", "\n").splitlines()
     story: list = []
     paragraph_lines: list[str] = []
@@ -421,10 +491,12 @@ def markdown_story(markdown: str) -> list:
                 code_lines.append(lines[index].rstrip())
                 index += 1
             code_text = "\n".join(code_lines)
+            for source, replacement in TOKEN_REPLACEMENTS.items():
+                code_text = code_text.replace(source, replacement)
             code = Preformatted(
                 code_text,
                 style(
-                    f"code-{index}", fontName="Courier", fontSize=7.5,
+                    f"code-{index}", fontName=MONO_FONT, fontSize=7.5,
                     leading=10, textColor=NAVY, backColor=LIGHT,
                     borderColor=BORDER, borderWidth=0.6, borderPadding=8,
                     spaceBefore=4, spaceAfter=7,
@@ -442,13 +514,35 @@ def markdown_story(markdown: str) -> list:
             text = plain(heading.group(2))
             if level == 1:
                 if not first_h1:
-                    story.append(PageBreak())
+                    story.append(CondPageBreak(8.5 * cm))
                 first_h1 = False
             elif level == 2:
-                story.append(CondPageBreak(3.2 * cm))
-            elif level == 3 and text.startswith("Q"):
+                story.append(CondPageBreak(5.0 * cm))
+            elif level == 3:
                 story.append(CondPageBreak(5.0 * cm))
             story.append(paragraph(text, STYLES[f"h{level}"]))
+            index += 1
+            continue
+
+        image_match = re.fullmatch(r"!\[([^\]]*)\]\(([^)]+)\)", stripped)
+        if image_match:
+            flush_paragraph()
+            caption, raw_path = image_match.groups()
+            image_path = Path(raw_path.strip())
+            if not image_path.is_absolute():
+                source_relative = (source_dir / image_path).resolve()
+                cwd_relative = image_path.resolve()
+                image_path = source_relative if source_relative.is_file() else cwd_relative
+            if not image_path.is_file():
+                raise FileNotFoundError(image_path)
+            image = Image(str(image_path))
+            image._restrictSize(USABLE_WIDTH, 10.2 * cm)
+            image.hAlign = "CENTER"
+            story.append(CondPageBreak(4.0 * cm))
+            story.append(image)
+            if caption:
+                story.append(paragraph(caption, STYLES["caption"]))
+            story.append(Spacer(1, 0.12 * cm))
             index += 1
             continue
 
@@ -505,7 +599,7 @@ def on_page(canvas, doc) -> None:
     canvas.rect(0, PAGE_HEIGHT - 0.13 * cm, PAGE_WIDTH, 0.13 * cm, fill=1, stroke=0)
     canvas.setFont(FONT, 7)
     canvas.setFillColor(white)
-    canvas.drawString(MARGIN, 0.22 * cm, "UPSC Economy Learning Session")
+    canvas.drawString(MARGIN, 0.22 * cm, "UPSC Complete Learning Session")
     canvas.drawRightString(PAGE_WIDTH - MARGIN, 0.22 * cm, f"Page {doc.page}")
     canvas.restoreState()
 
@@ -524,16 +618,29 @@ def build_pdf(
     if not source.is_file():
         raise FileNotFoundError(source)
 
-    markdown = select_markdown(source.read_text(encoding="utf-8"), mode)
-    title = plain(markdown.splitlines()[0].lstrip("# "))
+    metadata, body = split_frontmatter(source.read_text(encoding="utf-8"))
+    markdown = select_markdown(body, mode)
+    heading = next(
+        (
+            line.strip()
+            for line in markdown.splitlines()
+            if re.match(r"^#\s+\S", line.strip())
+        ),
+        "",
+    )
+    title = plain(metadata.get("title") or heading.lstrip("# "))
     if mode == "workbook":
         title = re.sub(
-            r"\s*-\s*Complete Topic Package\s*$",
+            r"\s*[:-]\s*Complete Topic Package\s*$",
             " - Solved Practice Workbook",
             title,
             flags=re.IGNORECASE,
         )
     illustration = Path(image_path) if image_path else None
+    if not illustration and metadata.get("cover_image"):
+        illustration = Path(metadata["cover_image"])
+        if not illustration.is_absolute():
+            illustration = (source.parent / illustration).resolve()
     if illustration and not illustration.is_file():
         raise FileNotFoundError(illustration)
 
@@ -549,13 +656,7 @@ def build_pdf(
         author="UPSC Agent / Copilot CLI",
     )
     story = cover_story(title, mode, illustration)
-    story.extend(markdown_story(markdown))
-    story.extend([
-        Spacer(1, 0.45 * cm),
-        HRFlowable(width="100%", thickness=1.2, color=AMBER),
-        Spacer(1, 0.12 * cm),
-        paragraph("End of document", STYLES["footer"]),
-    ])
+    story.extend(markdown_story(markdown, source.parent))
     document.build(story, onFirstPage=on_page, onLaterPages=on_page)
     return output.resolve()
 

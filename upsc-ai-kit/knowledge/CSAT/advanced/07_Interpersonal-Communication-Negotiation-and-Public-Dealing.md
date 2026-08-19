@@ -140,3 +140,20 @@ Reject options that:
 When two options appear reasonable, prefer the one that combines **fact verification, appropriate
 channel, proportional action, feedback and follow-up**.
 
+---
+
+## 9. Optional advanced scenario: dispute with safety implications
+
+A contractor alleges that a junior engineer delayed a safety clearance for personal reasons. The
+engineer says the inspection record is incomplete. A manager can either order an immediate public
+apology, privately broker a compromise that permits work to resume, or pause the affected work,
+secure the records, hear both accounts separately and use the authorised safety process.
+
+**Best response:** pause the affected activity if the risk is material, preserve evidence, separate
+verified facts from allegations, use the authorised process, communicate the interim status to those
+who need it, and review after a recorded decision.
+
+**Reasoning:** public apology attributes motive without proof; private compromise cannot bargain
+away mandatory safety. The third route is proportionate because it protects people first while still
+allowing fair hearing and feedback. This is an optional transfer exercise; Core Topic 07 already
+contains the exam-essential scenario engine.

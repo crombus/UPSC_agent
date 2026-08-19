@@ -151,6 +151,21 @@
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — emerging-tech regulation increasingly intersects with IP questions.
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — digital economy expansion raises software, data and branding questions.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — frontier R&D also depends on patenting and technology-commercialization capacity.
+## Core answer architecture — life-material IPR and commercialisation
+
+**Thesis choice.** Life-material IPR is a differentiated balance among innovation, biodiversity, farmers’ rights and public health; a high filing count neither proves patent quality nor commercialisation.
+
+**10-mark spine.** Start with the legal category; distinguish what patent law excludes/protects; give the Indian/TRIPS balance; organise low commercialisation causes into research, institution, market and finance/process blocks; conclude with one realistic bridge.
+
+**15/20-mark spine.** Use **global legal choice → Indian statutory architecture → evidence of public-interest balance → translation failure chain → access/competition/biodiversity counterweights → verdict**.
+
+**Evidence units.**
+- **Claim:** India protects life-related innovation through more than patents → **Patents Act s.3(j), PPV&FR Act and micro-organism treatment under the patent framework** → plant varieties/farmers’ rights are not collapsed into ordinary patent ownership → **qualification:** global jurisdictions vary, so do not claim a single world rule for genes, organisms or varieties.
+- **Claim:** IP safeguards can preserve public interest → **s.3(d), s.84 compulsory licensing, oppositions, TRIPS/Doha and TKDL defensive prior art** → filters evergreening and biopiracy while retaining innovation incentives → **qualification:** a legal right or licence route does not itself deliver affordable product manufacture or access.
+- **Claim:** commercialisation breaks after filing at multiple links → **academic/defensive filing, weak TTOs and ownership rules, thin proof-of-concept/pilot finance, low industrial absorption and costly enforcement** → explains why patent count is an input, not market adoption → **qualification:** avoid repeating the question’s “second” rank as a current statistic unless independently verified.
+
+**Verdict.** Improve technology transfer, validation facilities, transparent benefit sharing and risk capital while retaining competition and health/biodiversity safeguards.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

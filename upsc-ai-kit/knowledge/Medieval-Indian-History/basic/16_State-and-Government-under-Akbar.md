@@ -84,6 +84,42 @@
 - ⚠️ Explain mansabdari as a single civil-military service.
 - ⚠️ Assess checks and balances in Akbar's central and provincial administration.
 
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Discuss dahsala/revenue | "The dahsala (1580) balanced fiscal extraction with peasant predictability: ten-year average produce and prices, one-third state share in cash, measurement with standard instruments — a system more rational and durable than Alauddin's coercion or Sher Shah's precursor." |
+| Examine mansabdari | "Mansabdari was a unified civil-military service hierarchy: every officer held a graded rank (zat/sawar), was paid through jagirs and owed specific cavalry obligations — binding the elite to the state through salary and status rather than hereditary right." |
+| Assess limits | "Akbar's system had structural limits: jagir transfers created short-term extraction incentives; zabti did not cover all provinces; batai/kankut/nasaq alternatives reveal uneven state capacity across terrain and crops." |
+| Compare with Sultanate | "Akbar's dahsala replaced the Sultanate's arbitrary and inconsistent demands with a codified ten-year average — the crucial difference being predictability and measurement precision, not just the proportion extracted." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Dahsala (1580): ten-year average produce × average prices; one-third state share in cash | Codified predictable extraction | Shows rational fiscal engineering; reduces arbitrary demand | Applied only where zabt measurement was feasible (Lahore–Allahabad, Malwa, Gujarat) |
+| 2 | ✅ Zabti measurement: bamboos linked by iron rings | State verified area; dues knowable to both sides | Prevents concealment/over-reporting by intermediaries | Required trained staff; not available in forested/hilly/frontier tracts |
+| 3 | ✅ Mansab split into zat (personal rank) + sawar (cavalry obligation) | Graded service tied salary to verifiable output | Distinguishes Mughal service from hereditary feudalism | Introduced gradually (40th regnal year); not instant |
+| 4 | ✅ Dagh (horse branding) + chehra (soldier description) | Inspection prevented fictitious musters | Shows administrative thoroughness | Enforcement weakened under later rulers when inspections became lax |
+| 5 | ✅ Twelve subas (1580); subedar + diwan + faujdar + qazi at provincial level | Provincial checks: governor did not control revenue independently | Prevented provincial autonomy from hardening | Real power of subedar often exceeded formal checks |
+| 6 | ✅ Batai/kankut/nasaq alternatives to zabti | State adapted revenue methods to local conditions | Qualifies any claim that dahsala was universal | Shows limits of centralised measurement |
+
+### 8.3 Counterpoints
+
+- ⚠️ "One-third" was the theoretical demand; actual burden with cesses and transport could be higher.
+- ⚠️ Todar Mal credit is common, but Chandra stresses teamwork — avoid personalising a systemic reform.
+- ⚠️ Jagir ≠ ownership; but transferability created extraction incentives that would worsen under Shah Jahan/Aurangzeb.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Dahsala mechanism + mansab system (2–3 units); conclude: rational, codified and replicable.
+- **15-mark:** Add provincial checks + alternatives to zabti + compare with Sher Shah.
+- **20-mark:** Full 6-unit + long-term structural limits + jagirdari-crisis foreshadowing; graded verdict on "balance" between extraction and protection.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

@@ -29,7 +29,7 @@ narrow, disciplined case for a visual.
   an administrative rather than argued tone.
 - **Earned visual:** a diagram/table used because the underlying
   process or comparison is genuinely clearer in that form than in prose
-  — passes a specific test (Section 6).
+  — passes the two-gate test now introduced in `basic/14` Section 6A.
 - **Decorative visual:** a diagram used to signal effort or visual
   appeal without adding clarity beyond what a sentence would achieve.
 
@@ -129,9 +129,9 @@ interpreting its significance for the thesis.
 
 ## 12. ❌ Failure modes and revision protocol
 
-- ❌ **Ornamental vocabulary throughout a draft.** → Protocol: run a
-  sentence-by-sentence precision check (Section 6 of the basic file)
-  before finalising.
+- ❌ **Ornamental vocabulary throughout a draft.** → Protocol: run the
+  claim → actor/process → mechanism → qualification → link checklist
+  (`basic/14` Section 6A) sentence by sentence before finalising.
 - ❌ **Decorative visual that fails the Section 6 test.** → Protocol:
   delete it and state the content in prose.
 - ❌ **GS-register bleed** (headings, bullet points, acronyms) inside the
@@ -143,9 +143,10 @@ interpreting its significance for the thesis.
 📰 **Dated anchor:** not applicable — style and visual-discipline method
 is stable and does not depend on current-affairs content.
 
-**Practice lab:** Take a paragraph you have drafted for any prompt in
-`../README.md` and run every sentence through the precision check
-(Section 6 of the basic file); rewrite any sentence that fails.
+**Practice lab:** Take an unused 2018–2023 V1 prompt, draft a
+120–150-word paragraph in ten minutes, and run every sentence through
+the `basic/14` Section 6A precision check. Record the before/after
+repair, not merely a general impression that the prose improved.
 
 **Transfer task:** For 2024-B5 (FOMO) or another process-heavy prompt,
 attempt one candidate visual and run it through Section 6's earning

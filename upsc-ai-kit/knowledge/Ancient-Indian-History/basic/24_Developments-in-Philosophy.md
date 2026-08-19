@@ -84,9 +84,61 @@
 
 ## 7. Mains angles
 
+### Thesis options
+
+| Directive | Thesis |
+|---|---|
+| Discuss | Ancient Indian philosophy was not uniformly idealist or other-worldly; it included materialist currents (Charvaka), rationalist logic (Nyaya) and worldly-goal systems (artha, kama) alongside salvation-seeking traditions—showing intellectual plurality. |
+| Compare | The six orthodox systems differ fundamentally in method and aim: Mimamsa is ritualist, Vedanta metaphysical, Nyaya logical, Vaisheshika atomistic, Samkhya dualist and Yoga practical—yet all accept Vedic authority in some sense, distinguishing them from heterodox schools. |
+| Critically examine | The label "six orthodox systems" crystallised later than the individual traditions themselves; treating them as a unified ancient canon is anachronistic, though each tradition is genuinely old. |
+
+### Evidence units
+
+| Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|
+| Materialism existed in ancient India | Charvaka/Lokayata: rejected afterlife, priestly claims, ritual | Shows intellectual diversity; India was not uniformly spiritual | Charvaka texts are mostly lost; we know them through opponents' summaries |
+| Philosophy linked to social context | RS Sharma connects materialist views to expanding economy, trade, metal money | Philosophy was not isolated from material conditions | The exact causal link between trade growth and philosophical materialism is interpretive, not proven |
+| Purusharthas show worldly + spiritual integration | Dharma, artha, kama, moksha as four goals | Ancient India valued worldly success alongside spiritual liberation | Moksha was added later to an earlier three-goal system (Upinder Singh); the four-goal synthesis represents a mature, not original, formulation |
+| Brahmasutra as synthesising text | Badarayana's Brahmasutra (2nd c. AD) | Attempted to harmonise diverse Upanishadic statements | Shankara (8th c.) and Ramanuja (11th c.) interpreted it very differently — showing the text doesn't settle debates |
+
 - ⚠️ Ancient Indian philosophy combined worldly aims and liberation-seeking traditions.
 - ⚠️ Materialist currents show that Indian thought was not uniformly ritualistic or idealist.
 - ⚠️ Philosophy can be used in Ethics answers: dharma as social order, artha/kama as moderated pursuits, moksha as higher aim.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Ancient Indian philosophy was a plural argumentative field in which rival schools contested knowledge, duty, reality and liberation." |
+| Critically examine | "The tradition was never a single spiritual consensus; ritualists, logicians, idealists, materialists, Buddhists and Jains all defined themselves through debate." |
+| Compare / evaluate | "A high-scoring comparison organises schools by epistemology, metaphysics and social-ethical implication rather than by name-listing alone." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** core question -> school responses -> implications -> balanced conclusion
+- **For comparison Qs:** orthodox vs heterodox; Nyaya/Mimamsa/Vedanta/Charvaka in a matrix
+- **For evaluate Qs:** diversity of argument -> intellectual legacy -> caution against simplification
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Philosophical diversity is foundational | ✅ Six systems with Jain-Buddhist and Charvaka challenge | Breaks the myth of a monolithic tradition | School boundaries matured over long periods |
+| 2 | Dharma and liberation were interpreted differently | ✅ Mimamsa ritual duty vs Vedantic metaphysics vs Nyaya logic | Supplies genuine analytical comparison | Technical detail can crowd out clarity |
+| 3 | Materialist critique mattered | ✅ Charvaka rejection of ritual and afterlife | Adds counterpoint and debate texture | Much of Charvaka survives through hostile sources |
+
+### Counterpoint and balance
+
+- Avoid listing schools without showing what problem each was answering.
+- Avoid treating philosophy as detached from society; dharma and purushartha had social implications.
+
+### Verdict framing
+
+- Conclude that philosophical development in ancient India was cumulative, polemical and conceptually rich.
+- The best verdict highlights debate, not doctrinal homogeneity.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

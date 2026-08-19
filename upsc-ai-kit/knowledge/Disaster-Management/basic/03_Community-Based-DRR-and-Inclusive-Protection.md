@@ -230,3 +230,38 @@ roles to be assigned for a coordinated response (PDF p. 65).
   topic 04 develops last-mile/inclusive warning dissemination; topic 17
   develops the relief-to-recovery role of community and volunteer
   systems in operational detail.
+
+## 13. Core-only answer architecture — participation with protection
+
+> **Core firewall:** “community participation” is not a residual
+> advanced point. Core answers must identify the group, role, phase,
+> enabling institution and safeguard against exclusion.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Communities reduce the response-time gap only when roles are assigned before impact. | VisionIAS calls communities first responders and requires specific before/during/after roles (PDF p. 65). | Turns local knowledge into warning relay, evacuation support, first aid, damage assessment and recovery ownership. | It must not shift the State's duty to provide training, equipment, transport and accountable relief. |
+| Inclusion is operational, not a generic welfare add-on. | VisionIAS names poor households, pregnant/lactating women, persons with disabilities, children and older people; NDMA's disability-inclusive DRR and temporary-shelter guidelines provide named policy anchors. | Each group needs a different warning, evacuation, shelter, medicine, sanitation or protection arrangement. | Do not claim a guideline proves accessible alerts or shelters were actually delivered. |
+| Volunteer programmes are evidence of capacity investment, not outcome proof. | Aapda Mitra pilot/expanded scheme and distinct Yuva Aapda Mitra; CBDRR Guidelines (October 2024). | They give a named route for local rescue/relief capacity and refresher training. | Do not conflate the pilot, expanded scheme and youth programme or equate trained-headcount with readiness. |
+| Displacement compounds risk beyond physical loss. | Source-listed discrimination, gender-based violence, livelihood insecurity and non-automatic refugee status. | It permits a protection-centred recovery argument. | Disaster-displaced persons are not automatically Convention refugees, but this does not mean they have no domestic or human-rights protection. |
+
+### 13.2 Executable spines
+
+- **10 marks — community-based DRR:** define it as risk assessment and
+  action led with communities, not by communities alone; write a
+  before/during/after role chain; use Aapda Mitra or SHG/CBO tsunami
+  response as evidence; conclude with institutional support and
+  accountability.
+- **15 marks — gender/disability/migrant inclusion:** take one group at
+  a time: risk mechanism → accessible, multilingual warning → assisted
+  evacuation/transport → safe, dignified shelter and relief → livelihood,
+  psychosocial support and grievance redress in recovery. Use the
+  relevant NDMA guideline as the named anchor and state that adoption
+  and outcome require local verification.
+- **20 marks — critically examine community first responder rhetoric:**
+  thesis that localisation improves reach and trust but cannot replace
+  public capacity. Compare role specificity, inclusion, volunteer
+  quality/retention, relief-list accountability and recovery ownership;
+  close with co-production between DDMA/ULB/PRI, trained volunteers and
+  affected groups.

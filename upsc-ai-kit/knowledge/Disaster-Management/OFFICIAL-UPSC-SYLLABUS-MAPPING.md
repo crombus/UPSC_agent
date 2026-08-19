@@ -3,13 +3,24 @@
 > **Source text:** [../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md](../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md)
 > **Folder index:** [README.md](./README.md)
 > **Audit rule:** `COVERED` = clear in-folder direct owner(s); `PARTIAL` = some in-folder coverage exists, but the clause is fragmented, indirect, or materially dependent on another subject folder; `GAP` = no auditable in-folder owner found.
-> **Older PYQ integration status (2018–2023):** older routing is still central via [../_PYQ-INDEX.md](../_PYQ-INDEX.md) and [../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md](../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md); that is routing support, not per-file/topic integration inside this folder.
+> **PYQ integration status (re-audited 15 August 2026):** central
+> routing remains the provenance record via [../_PYQ-INDEX.md](../_PYQ-INDEX.md)
+> and the Mains/Prelims ledgers. Every paper-essential Disaster
+> Management route now terminates in its `basic/` owner, whose
+> Core-only answer architecture supplies thesis, evidence, analysis,
+> limitation and a reasoned verdict; legacy `advanced/` pointers are
+> optional-only and explicitly superseded in the ledgers.
 
 ## Preliminary Examination — Paper I
 
 No Preliminary Paper I clause names disaster management directly. Hazard overlap exists through Geography and current-events routes, but this folder is not claiming a direct Prelims owner.
 
-## Main Examination — Paper IV (General Studies III)
+**Route boundary:** this is a syllabus observation, not a denial of
+exam-stage overlap. The local 2025 Prelims wet-bulb-temperature demand
+routes to `basic/09`; physical-process questions such as volcanoes,
+seismic waves and cyclone thermodynamics remain Geography ownership.
+
+## Main Examination — Paper III (General Studies III)
 
 > “Disaster and disaster management.”
 
@@ -25,3 +36,9 @@ No Preliminary Paper I clause names disaster management directly. Hazard overlap
 | Urban/infrastructure resilience and climate-risk interface | Direct + cross-subject support | COVERED | [basic/14_Urban-and-Critical-Infrastructure-Resilience.md](./basic/14_Urban-and-Critical-Infrastructure-Resilience.md), [advanced/14_Urban-and-Critical-Infrastructure-Resilience.md](./advanced/14_Urban-and-Critical-Infrastructure-Resilience.md), [basic/15_Climate-Risk-Adaptation-and-Loss-and-Damage.md](./basic/15_Climate-Risk-Adaptation-and-Loss-and-Damage.md), [advanced/15_Climate-Risk-Adaptation-and-Loss-and-Damage.md](./advanced/15_Climate-Risk-Adaptation-and-Loss-and-Damage.md); cross-support: [../Environment-and-Ecology/basic/17_Climate-Change-Science-Greenhouse-Effect.md](../Environment-and-Ecology/basic/17_Climate-Change-Science-Greenhouse-Effect.md), [../Environment-and-Ecology/basic/26_Disaster-Management-Framework-and-Sendai.md](../Environment-and-Ecology/basic/26_Disaster-Management-Framework-and-Sendai.md) | Management ownership is direct here; climate-science and environment-law base material also sits in Environment. |
 | Finance, relief, recovery and Build Back Better | Direct | COVERED | [basic/16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md](./basic/16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md), [advanced/16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md](./advanced/16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md), [basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md](./basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md), [advanced/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md](./advanced/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md) | Dedicated direct owners exist. |
 | Governance, capacity and international cooperation | Direct | COVERED | [basic/18_Governance-Capacity-and-International-Cooperation.md](./basic/18_Governance-Capacity-and-International-Cooperation.md), [advanced/18_Governance-Capacity-and-International-Cooperation.md](./advanced/18_Governance-Capacity-and-International-Cooperation.md) | Dedicated direct owner exists. |
+
+> **Core sufficiency check (15 August 2026):** every `COVERED` row above
+> is answerable from the cited `basic/` owners alone. Cross-subject links
+> add physical science, climate science or general fiscal/constitutional
+> depth but are not a precondition for a 10/15/20-mark Disaster
+> Management answer.

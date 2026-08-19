@@ -34,11 +34,12 @@
 
 ## How this folder works
 
-- **Two tiers per topic:** `basic/NN` builds the must-do definitional,
-  institutional and legal map for each threat; `advanced/NN` adds the
-  causal chain, federal/rights trade-offs, implementation gaps and
-  Mains-ready answer architecture. Advanced does not repeat basic — it
-  analyses what basic establishes.
+- **Two tiers per topic:** `basic/NN` is independently answer-complete:
+  it contains the must-do definitions, institution/law map, named evidence
+  with a limitation, and directive-sensitive 10/15/20-mark Core answer
+  architecture. `advanced/NN` adds optional comparative theory, deeper
+  causal/federal/rights analysis and refinements; it must never carry a
+  paper-essential fact, PYQ route or answer spine alone.
 - **Tagging:** ✅ = directly grounded in a retrieved book passage, an
   official document or a verified PYQ; ⚠️ = analytical inference, a
   contested assertion, an OCR defect carried from source, or a mandatory
@@ -56,9 +57,10 @@
   current state of affairs. Current facts are cited only to a dated
   official source.
 - **No stale-danger claims:** a target is not treated as achieved merely
-  because its deadline arrived. For LWE, the February 2026 baseline is now
-  followed by PIB's June 2026 qualified assessment that India is
-  "effectively free from Left-Wing Extremism"; this is not rewritten as
+  because its deadline arrived. MHA's December 2025 security metrics
+  (89% lower violence, 91% lower deaths since 2010, 218 incidents in
+  2025) are distinct from PIB's June 2026 qualified assessment that India
+  is "effectively free from Left-Wing Extremism"; neither is rewritten as
   literal zero incidents or complete root-cause resolution.
 - **Evidentiary-level discipline (applies to every file):** six pairs are
   never collapsed into one another —
@@ -77,6 +79,18 @@
   6. **threat vs. vulnerability vs. capability** (a hostile actor/event,
      an exploitable weakness, and the state's means of response are
      three separable variables, only whose convergence produces risk).
+
+### Core answer-worthiness rule (re-audited 15 August 2026)
+
+Every `basic/` owner now contains a topic-specific **Core answer
+architecture** with a direct thesis, 10/15/20-mark spines, claim → named
+evidence/example → analysis → limitation units, an implementation/outcome
+test, a rights/federal qualification where relevant, and its historic,
+recent and 2026 routed demand. A Core answer should name the actor,
+means, objective and intended end-state; trace threat → vulnerability →
+capability → realised risk; and distinguish prevention, preparedness,
+response and recovery where the question warrants it. A reader may use
+Advanced only to refine, never to fill a missing paper requirement.
 
 ## Boundaries with other subjects
 
@@ -161,7 +175,9 @@
    for the threat, vulnerability, capability, institution and end-state framework.
 2. Use the linked `basic/` owner file for any weak topic. Core remains independently
    answer-complete.
-3. Open the matching `advanced/` file only for causal, federal, legal and rights depth.
+3. Open the matching `advanced/` file only for optional causal, federal,
+   legal and rights depth; do not postpone any answer-essential content to
+   it.
 4. Reverify every current threat assessment, policy status, accord implementation,
    agency outcome and legal commencement before use.
 
@@ -209,3 +225,18 @@
 ⚠️ Topics 01, 05, 10 and 12 have no directly named 2024-2025 GS-III
 question; each file states this honestly and routes its content to the
 questions above rather than claiming a PYQ it does not have.
+
+### Historical and 2026 routing reconciliation
+
+- The authoritative 2018–2023 GS-III ledger now routes all **27** Internal
+  Security assignments to paired **Core** owners, not Advanced. This
+  includes LWE, counter-terror law, North-East/Myanmar, J&K/OGWs/CPEC,
+  border UAVs, maritime security, cyber, AML/CFT, organised crime and
+  agency mandates.
+- The 2026 Prelims ledger routes Zero FIR to Core 01, Army-Corps mandate
+  facts and Home Guards to Core 12, and INTERPOL notices to Core 11. Its
+  Set-A key remains provisional; no answer letter is stored or inferred.
+- The 2025 Essay quote is an **Essay linkage only**, supporting continuous
+  argument about legitimate non-kinetic prevention/resilience; it is not
+  represented as a security PYQ or used to fabricate a security-specific
+  answer key.

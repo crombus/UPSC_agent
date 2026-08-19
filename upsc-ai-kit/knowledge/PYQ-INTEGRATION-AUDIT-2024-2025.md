@@ -127,6 +127,15 @@
 
 ### Disaster-Management
 
+> **Re-evaluation note — 15 August 2026:** the three direct Disaster
+> Management routes remain in Core (`basic/01`, `basic/08`, `basic/09`).
+> `basic/06` is a **cross-paper Geography-owned** 2025 tsunami support
+> route, retained for warning/coastal-management application rather than
+> counted as a direct Disaster Management PYQ. The two direct 2024
+> GS-III demands were re-tested against exact local-paper wording; the
+> direct 2025 wet-bulb route and the cross-paper tsunami formation route
+> now carry their paper-essential distinctions in Core.
+
 **No routed 2024-2025 question in this owner:**
 
 - `Disaster-Management/advanced/01_Concepts-Risk-Resilience-and-Sendai.md`

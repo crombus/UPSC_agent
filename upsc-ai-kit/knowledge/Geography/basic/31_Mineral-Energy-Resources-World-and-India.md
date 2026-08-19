@@ -142,6 +142,136 @@
 
 Geography -> Economic Geography -> Mineral resources  
 Geography -> Economic Geography -> Energy resources and strategic geography
+
+## 14. Offshore versus onshore hydrocarbons, and the critical-mineral turn
+
+> **Why this section exists:** the file was routed a 15-mark demand on the **distribution of
+> offshore oil and how it differs from onshore occurrence** and answered it with a two-line pointer.
+> The geological and economic logic is supplied here.
+
+### 14.1 The petroleum system: what must be present anywhere
+
+⚠️ Oil and gas do not occur wherever there are sedimentary rocks. Four elements must coincide,
+onshore or offshore alike:
+
+| Element | Requirement |
+|---|---|
+| ⚠️ **Source rock** | Fine-grained sediment rich in preserved organic matter, buried deeply enough and long enough to be transformed by heat and pressure |
+| ⚠️ **Reservoir rock** | Porous and permeable rock — typically sandstone or fractured/porous carbonate — able to hold and yield fluids |
+| ⚠️ **Seal / cap rock** | An impermeable layer such as shale, evaporite or tight limestone preventing upward escape |
+| ⚠️ **Trap** | A structural or stratigraphic geometry — an anticline, a fault block, a salt dome, a reef or a pinch-out — that concentrates the migrating fluid |
+
+- ⚠️ **The consequence for exam answers:** a sedimentary basin is **necessary but not sufficient**.
+  Saying only "oil occurs in sedimentary basins" is a half-answer; the four-element system is the
+  full one.
+
+### 14.2 Why so much oil is offshore
+
+| Factor | Mechanism |
+|---|---|
+| ⚠️ Continental shelves and slopes are the world's **great sediment sinks** | Rivers deliver enormous organic-rich sediment loads to the shelf and slope, where they are buried rapidly — ideal source-rock conditions |
+| ⚠️ Marine settings preserve organic matter | Oxygen-poor bottom water in restricted basins prevents the decay that destroys organic matter in most terrestrial settings |
+| ⚠️ **Passive continental margins** accumulate very thick sediment prisms | Formed by continental rifting and drift (`02_The-Earths-Crust-Rocks.md`), they subside steadily and are tectonically quiet, so thick, undisturbed sequences build up |
+| ⚠️ Deltas and their offshore extensions | Deliver both source and reservoir facies together, with rapid burial and growth faulting that creates traps |
+| ⚠️ Salt tectonics | Buried evaporites deform and rise, generating a rich family of traps and excellent seals |
+| ⚠️ Onshore basins are more exposed | Uplift, erosion and faulting have breached many onshore accumulations over geological time; the offshore section is often better preserved |
+
+### 14.3 Offshore and onshore compared as an economic geography
+
+| Axis | **Onshore** | **Offshore** |
+|---|---|---|
+| ⚠️ Geological setting | Intracratonic, foreland and rift basins on land | Continental shelf, slope and deepwater on the submerged margin |
+| ⚠️ Exploration method | Land seismic and drilling; comparatively low unit cost | Marine seismic and offshore drilling units; very high unit cost |
+| ⚠️ Capital and technology | Moderate; incremental development possible | Very high, lumpy and long lead-time; deepwater requires specialised subsea technology |
+| ⚠️ Development threshold | Small fields can be viable | Only large fields usually justify the fixed cost, so **field size drives the decision** |
+| ⚠️ Infrastructure | Roads, gathering lines, tankage; refineries may be inland | Platforms or floating production units, subsea pipelines, and **coastal landfall terminals** — which then attract refineries and petrochemicals to the coast |
+| ⚠️ Land and social footprint | Land acquisition, displacement, farmland and habitat impact | No land acquisition, but conflict with **fisheries and shipping**, and marine ecological risk |
+| ⚠️ Environmental risk profile | Soil and groundwater contamination; local air quality | Marine oil-spill risk, which is harder to contain and disperses widely; well-control failure at depth is far harder to remedy |
+| ⚠️ Hazard exposure | Seismicity, flooding | Cyclones, high seas and, in some regions, ice |
+| ⚠️ Legal and jurisdictional regime | Ordinary national law and state boundaries | Maritime zones, exclusive economic rights, and in some seas **contested boundaries**, which makes offshore hydrocarbons a geopolitical subject |
+| ⚠️ Decommissioning | Well plugging and site restoration | Removal or disposal of large marine structures — a distinct and costly obligation |
+
+- ⚠️ **India's expression of the pattern:** India's petroleum geography combines onshore basins with a
+  major **western offshore** province and **east-coast offshore gas** in the deltaic basins of the
+  Bay of Bengal margin — one carbonate-reservoir dominated, the other deltaic and gas-prone. The
+  contrast between a carbonate offshore reservoir and a deltaic clastic gas province is a genuinely
+  useful discriminator in an answer. **Do not attach production, reserve or output figures from
+  memory.**
+- ⚠️ **The strategic corollary:** offshore fields are close to coastal refining, petrochemical and
+  fertiliser complexes and to import terminals, so offshore development reinforces the coastal
+  concentration of energy-intensive industry — which links this file directly to
+  `32_Industries-and-Industrial-Regions.md` and `33_Transport-Trade-and-Indian-Space-Programme.md`.
+
+### 14.4 Critical minerals and the energy transition
+
+- ⚠️ **Why the resource map is being redrawn:** batteries, electric drivetrains, wind turbines, solar
+  equipment and electronics depend on a different set of materials from the coal-iron-oil economy —
+  lithium, cobalt, nickel, graphite, copper and rare-earth elements among them.
+- ⚠️ **Three structural features make this a geopolitical subject, and they must be distinguished:**
+  1. **Extraction** is geologically concentrated in a small number of countries, so supply is
+     inherently narrow;
+  2. **Processing and refining** are even more concentrated than extraction — often in different
+     countries from where the ore is mined — so the chokepoint is frequently **midstream**, not at
+     the mine;
+  3. **Recycling and substitution** are the principal long-term levers available to
+     resource-poor consumers, alongside diversification of supply and strategic stockpiling.
+- ⚠️ **The analytical point:** stating that the vulnerability is midstream rather than at the mine is
+  the difference between a strong and an ordinary answer on critical minerals.
+
+> ⚠️ **Factual caution:** do **not** name a country's percentage share of any mineral's extraction or
+> refining, quote reserve figures, or assert a specific import-dependence ratio from memory. The
+> structural argument above requires no numbers.
+
+## 15. Answer architecture (10/15/20-mark support)
+
+### 15.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Explain the distribution of offshore oil and how it differs from onshore occurrence" | The four-element petroleum system, why margins favour it, then the onshore-offshore comparison table | Say only "oil is found in sedimentary basins" |
+| "Why are mineral resources unevenly distributed?" | Geological history — shields for metals, basins for fuels, weathering profiles for bauxite — then the accessibility and economics filter | List producing countries |
+| "Discuss the geopolitics of critical minerals" | Extraction concentration, the **midstream processing chokepoint**, and the recycling/substitution/diversification response | Assert country shares |
+| "Assess the ecological and economic benefits of solar energy" | Land-use, water and emissions profile against economic and access gains, with the intermittency, storage, land and materials trade-offs | Present it as costless |
+| "Do resources determine industrial location?" | Weight-loss and value-density logic, plus power, transport, market and agglomeration | Answer yes or no without conditions |
+
+### 15.2 Reusable 15-mark spine — offshore versus onshore petroleum
+
+1. **Thesis:** offshore petroleum is not simply onshore petroleum under water; it reflects a
+   **different depositional and tectonic setting**, and it imposes a different economic,
+   environmental and jurisdictional regime.
+2. **The common requirement:** the four-element petroleum system, which applies in both settings.
+3. **Why margins are favoured:** shelf and slope as sediment sinks; marine preservation of organic
+   matter; thick, undisturbed sequences on passive margins; deltaic source-and-reservoir pairing;
+   salt-tectonic traps; and better preservation than uplifted onshore sections.
+4. **The comparison,** organised by axis rather than by location: geology, cost, technology, field-size
+   threshold, infrastructure, land and social footprint, environmental risk, hazard exposure,
+   jurisdiction and decommissioning.
+5. **The Indian expression:** western offshore and east-coast deltaic offshore gas, with their
+   different reservoir character, and the coastal industrial clustering that follows landfall.
+6. **The strategic dimension:** maritime zones make offshore hydrocarbons a question of boundaries
+   and sea-lane security, not only of geology.
+7. **Conclusion:** graded — offshore development raises the capital and environmental stakes while
+   reducing the land and displacement burden, so the choice between them is a trade-off in kind
+   rather than a simple ranking.
+
+### 15.3 Evidence units available in this file
+
+> **Claim:** the location of a resource is a tectonic legacy. **Evidence:** metallic ores concentrate
+> in ancient shields, fuels in sedimentary basins, bauxite in lateritic weathering profiles, and
+> offshore hydrocarbons on thick passive-margin sediment prisms. **Significance:** it converts
+> resource distribution from a list into a deduction from Earth history, and connects this file
+> directly to the crustal-dynamics section of `02_The-Earths-Crust-Rocks.md`.
+> **Limitation:** geology fixes occurrence only; grade, depth, transport distance, technology and
+> price determine whether an occurrence is a usable resource at all.
+
+> **Claim:** in the energy transition the binding constraint has moved downstream from the mine.
+> **Evidence:** processing and refining capacity for several transition-critical minerals is even
+> more geographically concentrated than their extraction, and often located in different countries.
+> **Significance:** it explains why supply-security policy emphasises processing capacity,
+> recycling and substitution rather than mine ownership alone. **Limitation:** processing
+> concentration can change faster than geology, since it reflects investment and industrial policy
+> rather than resource endowment.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

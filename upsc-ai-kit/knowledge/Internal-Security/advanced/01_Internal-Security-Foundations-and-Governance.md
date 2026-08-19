@@ -273,26 +273,3 @@ analytical tool for calibrating "what is to be done."
   the coercion/settlement distinction to North-East peace processes; topic
   12 develops the Centre-State coordination and rights/accountability
   dimensions institutionally.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2020, 2021
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | GS-III | 10 | Area management to deny militant support and improve local perception | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 19 | External state and non-state actors multidimensional internal security threats | Analyse · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-### What this owner must now support
-
-- Area management to deny militant support and improve local perception
-- External state and non-state actors multidimensional internal security threats
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

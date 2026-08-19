@@ -126,6 +126,48 @@ co-development model rather than a donor-recipient framing.
   training positions (the 1600 figure) sit, dated to the Economic Survey
   2025-26.
 
+### Security, representation and political-risk evidence
+
+- ✅ **India-Africa Defence Ministers Conclave:** the first conclave at Lucknow
+  in **February 2020** adopted the Lucknow Declaration; the second India-Africa
+  Defence Dialogue at Gandhinagar in **October 2022** adopted a declaration on
+  defence and security cooperation.
+  **Significance:** the relationship includes institutional defence dialogue,
+  training and capacity building, not only development finance.
+  **Limitation:** declarations and offers are not proof of operational
+  capability transfer.
+- ✅ **AFINDEX:** the Africa-India Field Training Exercise, held in India in
+  2019 and again in **March 2023**, provides a named peacekeeping and
+  humanitarian-mine-action cooperation route.
+  **Significance:** exercises build interoperability and training networks.
+  **Limitation:** episodic exercises do not create a defence alliance.
+- ⚠️ **Maritime security:** Indian anti-piracy deployments and capacity
+  cooperation in the western Indian Ocean/Gulf of Aden support sea-lane
+  security relevant to East African partners.
+  **Significance:** it connects India's Indian Ocean role with African trade
+  and coastal security.
+  **Limitation:** African maritime priorities vary and local ownership must
+  shape cooperation.
+- ✅ **Representation:** the African Union became a permanent G20 member at the
+  New Delhi Summit on **9 September 2023**.
+  **Significance:** India translated partnership rhetoric into a concrete
+  representation outcome.
+  **Limitation:** G20 membership does not resolve Africa's financing,
+  implementation or UN-representation deficits.
+- ⚠️ **Sahel instability:** coups in Mali, Guinea, Burkina Faso and Niger during
+  2020-23 illustrate that political and security volatility can delay projects,
+  raise commercial risk and complicate partner selection.
+  **Significance:** Africa policy must be region-specific and resilience-aware.
+  **Limitation:** Sahel instability must not be generalised to the continent.
+- ⚠️ **China/FOCAC comparator:** China's Forum on China-Africa Cooperation and
+  infrastructure finance provide African states with another large-scale
+  partnership route.
+  **Significance:** India's comparative strengths lie in training, affordable
+  technology, digital public infrastructure and demand-driven projects.
+  **Limitation:** do not caricature Chinese engagement as uniformly extractive
+  or assume African states passively choose between India and China; compare
+  delivery, finance terms, local ownership and sector fit.
+
 ## 5. Indian applications and examples
 
 - ✅ **Direct PYQ (2025 Q9):** *India-Africa digital partnership is achieving
@@ -143,6 +185,31 @@ co-development model rather than a donor-recipient framing.
 - ⚠️ The "mutual respect" framing is best evidenced by the demand-driven,
   non-intrusive model Tharoor describes, contrasted with a donor-imposed
   conditionality model.
+- ✅ **CDRI as an additional partnership route:** India launched the
+  New Delhi-headquartered Coalition for Disaster Resilient Infrastructure at
+  the UN Climate Action Summit on **23 September 2019**. Its member-country and
+  partner-organisation network supports resilient-infrastructure knowledge and
+  capacity.
+  **Significance:** it extends India-Africa cooperation beyond credit and
+  digital delivery into climate-resilient infrastructure.
+  **Limitation:** membership and a global mission are not evidence that a
+  particular African project has been delivered.
+- ✅ **Health and telemedicine:** the Pan African e-Network linked Indian
+  institutions with African partners for tele-education and telemedicine; its
+  e-VBAB successor includes e-ArogyaBharati telemedicine.
+  **Significance:** health cooperation builds continuing institutional access.
+  **Limitation:** digital access and local health capacity determine use.
+- ⚠️ **Pharmaceutical partnership:** affordable Indian generic medicines,
+  vaccines and health training widen access and commercial links.
+  **Significance:** pharma is a visible low-cost development good.
+  **Limitation:** regulation, local manufacturing, procurement and supply
+  continuity must qualify celebratory claims.
+- ✅ **International Solar Alliance:** the treaty-based ISA Framework Agreement
+  entered into force on **6 December 2017** and its headquarters are in
+  Gurugram, India.
+  **Significance:** ISA gives African members a platform for solar-finance
+  aggregation, capacity building and technology cooperation.
+  **Limitation:** membership does not prove delivery of a particular project.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -256,6 +323,24 @@ co-development model rather than a donor-recipient framing.
 - ⚠️ **Mains (15 marks):** Assess the role of capacity-building and joint
   institution-building in sustaining India's partnership with Africa.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+The **2021 GS-II India-in-Africa** demand is owned here, superseding `advanced/07`.
+
+- **Evidence bank:** IAFS, Lines of Credit, ITEC, e-VBAB, digital public infrastructure,
+  health/pharma, solar/CDRI, AU entry into G20 and maritime/security cooperation.
+- **Evaluation:** demand-driven capacity building and lower-cost technology strengthen
+  partnership; delivery delay, thin commercial presence and competition from other powers
+  qualify influence claims.
+
+**10 marks:** three partnership pillars and one constraint. **15 marks:** development,
+digital, trade, health, security and representation. **20 marks:** compare India's model
+with extractive/conditionality critiques, add African agency, regional diversity and
+project-outcome discipline.
+
+> **Reasoned verdict:** India's African influence depends on converting solidarity and
+> training into timely, locally owned and commercially sustainable delivery.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/07_India-Africa-Development-and-Digital-Partnership.md`.
@@ -292,19 +377,21 @@ co-development model rather than a donor-recipient framing.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2021, 2023
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 2
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2021 | GS-II | 9 | India's influence in Africa in the light of Africa's growth prospects | Examine · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 98 | Military coups in Chad Guinea Mali Sudan West Africa | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- India's influence in Africa in the light of Africa's growth prospects
 - Military coups in Chad Guinea Mali Sudan West Africa
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

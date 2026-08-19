@@ -76,6 +76,24 @@ it contributes a distinct necessary step.
 
 > **Core rule:** Externalise structure. Mental juggling creates avoidable working-memory errors.
 
+### Fully worked mixed-mechanism example
+
+**Question.** Group A has 40 observations with mean 70. Group B has 60 observations with mean 40.
+Every Group B observation rises by 25%. Is the combined mean now above 55?
+
+**Classify -> extract -> represent:** this is Topic 03 weighted-average reasoning plus a percentage
+change; it is **not** a simple-average question. Write totals, not a long list: `A total = 40 x 70 =
+2800`; `new B mean = 40 x 1.25 = 50`; `new B total = 60 x 50 = 3000`.
+
+**Method selection and rejection:** compare totals with the required threshold without dividing:
+`55 x (40 + 60) = 5500`; actual total is `5800`, so the combined mean is above 55. Reject `(70 +
+50)/2 = 60`: that shortcut is unsafe because the groups have unequal sizes. Scaling B by `1.25` is
+safe only because the same percentage applies to **every** B observation.
+
+**Verification:** 2800 + 3000 = 5800 over 100 observations, so the exact mean is 58; it agrees with
+the inequality result. **Diagnosis:** a 60 answer is a representation error (unweighted mean), while
+an incorrect B total is an execution error. Log the stage separately.
+
 ---
 
 ## 5. Cross-cutting reasoning distinctions
@@ -127,30 +145,34 @@ The representation is part of the solution, not decorative working.
 
 ---
 
-## 8. Time and attempt control
+## 8. Operational time and attempt control
 
-| Pass | GMA action |
+| Stage | Hard operating rule |
 |---|---|
-| **Harvest** | Direct properties, one-step arithmetic, obvious diagrams and short tables |
-| **Grind** | Multi-step quant, arrangements, complex DI and sufficiency |
-| **Decide** | Recheck close options; attempt only with justified elimination/confidence |
+| **Classify** | Spend **10-15 seconds** identifying the owner and representation. If neither is visible, circle/park. |
+| **Pass 1 - Harvest** | Spend **at most 60 seconds** on direct properties, one-step arithmetic, obvious diagrams and short tables. Mark only when the method is complete. |
+| **Pass 2 - Grind** | Spend **at most 120 seconds** on multi-step quant, arrangements, complex DI and sufficiency. Write a compact representation before computing. |
+| **Park** | At either cap, mark the question number, reason (`method`, `representation`, `arithmetic`, or `live options`) and move on. No emotional re-start. |
+| **Final review** | Reserve the final **10 minutes** for parked items, marked-option transcription and only elimination-backed decisions. |
 
-Average time is not a command. A hard item must not consume several easier items. Record whether a
-miss was caused by concept, representation, calculation, reading, time or risk choice.
+The 90-second paper average is not an individual-item command. Record whether a miss arose at
+classification, extraction, representation, execution, verification or decision; Topic 08 routes the
+repair, while the specialist topic supplies the drill.
 
 ---
 
-## 9. Historical and recent PYQ integration rule
+## 9. Audited-PYQ integration rule
 
-- All **2018-2023 CSAT questions** remain directly routed to their Topics 01-06 skill owners through
-  `_PYQ-ROUTING-CSAT-2018-2023.md`.
-- All **2024-2025 questions** are classified question-by-question in
-  `../00_Question-Audit-Ledger.md`; their direct topic routes also remain Topics 01-06.
-- Topic 08 is the **syllabus and navigation owner**, not a duplicate 640-question omnibus table.
-  Frequency, drills and remediation are read from the specialist owner.
+- The directly auditable question-level evidence in this repository is the 2024-2026 Set-A table in
+  [Question Audit Ledger](../00_Question-Audit-Ledger.md). It should not be represented as an
+  unsupported 2018-2023 routing database.
+- 2024-2025 questions route to Topics 01-06 by their dominant mechanism. In 2026, Q72-Q77 retain
+  Family 06 as an exclusive **structural** count but carry Topic 07 as their **content** owner.
+- Topic 08 is the syllabus and navigation owner, not a duplicate omnibus table. Frequency, drills
+  and remediation are read from the specialist owner and the tracker.
 
-This avoids two failures: leaving the official umbrella ownerless, and duplicating every question
-so heavily that revision becomes unusable.
+This avoids leaving an official umbrella ownerless, duplicating questions, or confusing solving
+format with syllabus content.
 
 ---
 
@@ -168,4 +190,3 @@ You are GMA-ready only if you can:
 
 > **Core firewall:** Skipping Advanced Topic 08 cannot remove any GMA ownership, classification,
 > workflow, representation, verification, time-control or revision-routing mechanism.
-

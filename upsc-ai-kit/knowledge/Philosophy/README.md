@@ -4,6 +4,8 @@
 > **Marks:** 250 + 250 | **Time:** 3 hours per paper
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md)
 > **Last subject-wide reevaluation started:** 6 August 2026
+> **Last Core/Advanced re-audit completed:** 15 August 2026 (see
+> [`_advanced/Coverage-Matrix.md`](_advanced/Coverage-Matrix.md))
 > **CSE scheme context:** [`../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md`](../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md)
 > states that Optional Papers VI and VII are broadly at honours-degree level. The exact
 > Philosophy clauses remain controlled by this folder's dedicated official transcription.
@@ -116,6 +118,12 @@ Every major doctrine must contain:
 7. **Evaluation** - what survives criticism and what does not.
 8. **Exam conversion** - traps, keywords, PYQ routing and 10/15/20-mark architecture.
 
+9. **Directive fidelity** - the closing judgement must answer the printed directive word
+   (*elucidate / examine / critically examine / evaluate / comment / discuss / compare /
+   distinguish / justify*), organised by axes wherever the directive is comparative. Directive
+   definitions are fixed in [`00_Master-Framework.md`](00_Master-Framework.md) §6 and are
+   binding on owner files, model answers and playcards alike.
+
 ### Core/Advanced firewall
 
 The forty owner files are the complete examination base. Every printed syllabus term and all
@@ -123,6 +131,34 @@ knowledge necessary to answer the available 2018-2025 PYQs must remain there. Th
 [`_advanced/`](_advanced) folder is strictly optional: it may improve interpretation,
 counter-objection and evaluation, but skipping it must not make any paper question
 unanswerable. Its [`Coverage-Matrix.md`](_advanced/Coverage-Matrix.md) is the audit ledger.
+
+The firewall is a count as well as a rule: **exactly forty owner files** (11 Western + 9 Indian
++ 10 Socio-Political + 10 Philosophy of Religion). Promotion moves material *into* one of those
+forty; it never creates a forty-first owner, and no PYQ may be routed primarily to `_advanced`,
+`_themes`, `_revision`, `_application` or a learning-session file.
+
+### Paper II self-sufficiency after the Political-Theory promotion (15 August 2026)
+
+The socio-political argument units that Philosophy previously reached for in the sibling
+[`Political-Theory`](../Political-Theory) base have been **promoted and adapted into the ten
+Paper II Socio-Political owners** in their philosophical form - as argument, presupposition,
+distinction, objection and reply, not as political-science description. Representative
+placements:
+
+| Promoted argument unit | Now owned in Philosophy by |
+|---|---|
+| Rawlsian justice as fairness; Nozickian entitlement; Berlin's two liberties; capability metric; republican non-domination | [`Social-Political-Ideals.md`](paper-2/socio-political/Social-Political-Ideals.md) |
+| Hohfeldian analysis of rights, duties and accountability; consent, fairness and associative grounds of political obligation; civil disobedience | [`Individual-and-State.md`](paper-2/socio-political/Individual-and-State.md) |
+| Deliberative and participatory justifications of democracy against the majoritarian objection | [`Forms-of-Government.md`](paper-2/socio-political/Forms-of-Government.md) |
+| Recognition and redistribution (Taylor, Fraser, Honneth) inside the humanism-secularism-multiculturalism triad | [`Humanism-Secularism-Multiculturalism.md`](paper-2/socio-political/Humanism-Secularism-Multiculturalism.md) |
+| Expressive, communicative and restorative accounts of punishment; collective and command responsibility in mass violence | [`Crime-and-Punishment.md`](paper-2/socio-political/Crime-and-Punishment.md) |
+| Productivism, post-development and the degrowth challenge to growth-led progress | [`Development-Social-Progress.md`](paper-2/socio-political/Development-Social-Progress.md) |
+| Care ethics, intersectional mediation of gender injustice and adaptive preference | [`Gender-Discrimination.md`](paper-2/socio-political/Gender-Discrimination.md) |
+
+**Consequence:** Philosophy Optional no longer depends on `Political-Theory` for any
+marks-essential content. `Political-Theory` remains a *parallel* base for GS-II and Essay use
+and is neither edited nor cited as authority here. Where the two bases discuss the same
+thinker, the Philosophy owner's argument reconstruction controls the Optional answer.
 
 ### Evidence key
 
@@ -208,8 +244,11 @@ the citation unit.
 
 - **Ethics:** Philosophy supplies arguments and distinctions; GS-IV notes supply public-
   administration application. Do not replace optional depth with thinker quotations.
-- **Political Theory/Polity:** constitutional examples illustrate a philosophical dispute;
-  they do not substitute for Austin, Laski, Rawls, Ambedkar or the underlying argument.
+- **Political Theory/Polity:** the sibling [`Political-Theory`](../Political-Theory) base is a
+  parallel GS resource, **not** a dependency of this optional; its marks-essential argument
+  units are already promoted into the Paper II owners (§4). Constitutional examples illustrate
+  a philosophical dispute; they do not substitute for Austin, Laski, Rawls, Ambedkar or the
+  underlying argument.
 - **Essay:** transfer concepts only after stating them accurately in their original context.
 - **History/Religion:** historical background is supporting context, not the examinable core.
 - **Current affairs:** one precise illustration is enough. Doctrine remains the centre of the
@@ -225,6 +264,8 @@ the citation unit.
 - Are quotations exact or clearly labelled as paraphrases?
 - Are volatile legal and institutional claims dated and sourced?
 - Does the conclusion answer the directive word rather than merely praise the thinker?
+- Could the answer be written without opening any file outside these forty owners (plus PYQ
+  banks)? If it needs `Political-Theory`, `_advanced` or a learning session, Core is incomplete.
 - If the entire `_advanced` folder were unavailable, would every syllabus term and held PYQ
   still remain fully answerable from its owner file? If not, promote the missing material to
   Core immediately.

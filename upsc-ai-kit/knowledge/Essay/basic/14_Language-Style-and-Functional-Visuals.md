@@ -35,10 +35,10 @@ are already in place.
 ⚠️ **The test is subtractive, not aesthetic.** Do not ask "does this look
 good?" — ask "if I delete this and say it in a sentence, what is lost?"
 An arrow chain showing social-media design → comparison → distress →
-increased use → distress again earns its place because the *loop* is hard
-to hold in a sentence. A box labelled "Causes" above three bullet points
-does not. ❌ In a continuous-prose essay the default is no visual at all;
-`advanced/14` gives the full two-gate earning test.
+increased use → distress again may earn its place because the *loop* is
+hard to hold in a sentence. A box labelled "Causes" above three bullet
+points does not. ❌ In a continuous-prose essay the default is no visual
+at all; apply the two-gate test in Section 6A before using one.
 
 ## 3. ✅ Exam facts / source basis
 
@@ -77,6 +77,44 @@ sophisticated — in fact these often obscure the actual claim being made.
 | Ornamental abstraction | "The multifarious tapestry of human endeavour interweaves..." | "Human effort across different fields interacts in specific, describable ways..." |
 | Vague hedging | "It could perhaps be argued in some sense that..." | State the claim directly, then qualify it precisely if needed. |
 | Alliteration for effect | "Power, prestige and pride propel political practice." | Name the actual mechanism instead of the sound pattern. |
+
+## 6A. Exact-expression repair and visual gates
+
+**Before:** “The multifarious tapestry of digital society has a
+deleterious impact on youth in the contemporary milieu.”
+
+**After:** “Platforms that reward comparison can make some young users
+measure self-worth against curated lives, increasing anxiety and
+loneliness.”
+*The repair names actor, mechanism and consequence; it does not merely
+sound formal.*
+
+**Paragraph checklist — tick every item before retaining a paragraph:**
+
+1. Its first sentence makes one answer-relevant claim.
+2. A precise actor, institution or process replaces an abstract noun pile.
+3. “Because/how” is answered by a mechanism, not an assertion.
+4. Any example is named, proportionate and followed by its significance.
+5. A qualification prevents overclaiming.
+6. Its last sentence links to the next claim.
+7. No unexplained acronym, slogan, quotation or decorative adjective remains.
+
+```text
+CANDIDATE VISUAL
+      |
+      v
+Gate 1: Does it show a real multi-step process or genuine comparison?
+  no -> do not use; write prose
+ yes
+      v
+Gate 2: Would one or two sentences explain it equally clearly?
+ yes -> do not use; prose is sufficient
+  no -> use a minimal, labelled visual, then interpret it in prose
+```
+
+Passing both gates is necessary, not sufficient: the visual must be
+small, readable and integrated into an argued paragraph. It never
+substitutes for one.
 
 ## 7. India-first illustration starters
 
@@ -119,11 +157,11 @@ attentively, and vague or decorative language here is most costly.
 
 ## 12. Timed micro-drill and self-check
 
-**5-minute drill:** Take one paragraph you have drafted (or plan to
-draft) and rewrite any ornamental or vague sentence into a precise,
-plain-language version, preserving the claim.
+**10-minute unseen rewrite lab:** Choose an unused V1 prompt from
+2018–2023 in `../PYQ-Corpus-2013-2025.md`. Draft a 120–150-word body
+paragraph under the clock, then spend two minutes applying every
+Section 6A check and rewriting one sentence in the Before→After manner.
 
-**Self-check:** Read your draft's opening and closing sentences aloud.
-Does each state a specific, clear claim, or could you not confidently
-say what point either sentence is making? If unclear, revise for
-precision before anything else.
+**Self-check:** Read the opening and closing sentences aloud. Can you
+name their claim, mechanism and qualification without paraphrasing
+vaguely? If not, revise before attempting visual polish.

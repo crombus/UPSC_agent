@@ -44,7 +44,7 @@ or even years and affects a large spatial extent" (PDF p. 35).
 | ✅ **IMD's five drought situations** | Drought Week (weekly rainfall under half normal); Agricultural Drought (four consecutive drought weeks, mid-June to September); Seasonal Drought (seasonal rainfall deficient beyond standard deviation); Drought Year (annual rainfall deficient by 20%+); Severe Drought Year (deficient by 25-40%+) (PDF p. 39). |
 | ✅ **Heat Wave criteria (IMD)** | Not considered until maximum temperature reaches at least 40°C (plains) or 30°C (hilly regions); Heat Wave = departure of **4.5°C to 6.4°C** from normal, Severe Heat Wave = departure of **more than 6.4°C**; **independently**, an actual maximum of **≥45°C** is itself sufficient to declare a Heat Wave and **≥47°C** a Severe Heat Wave, regardless of departure. For **coastal stations**, departure must be **≥4.5°C** *and* actual maximum **≥37°C**. 📰 Declaration requires the criteria to be met at **at least two stations in a meteorological subdivision for at least two consecutive days**, and is made on the second day (IMD FAQ: Heat Wave, 18 June 2024; PDF p. 42 records the same departure thresholds). |
 | ✅ **Cold Wave** | Marked cooling/invasion of very cold air over a large area, sometimes with blizzards/ice storms; a drop of more than 4°C in minimum temperature, persisting 3-5 days, peaking in January, driven by western disturbances/La Niña/jet streams (PDF pp. 43-44). |
-| 📰 **Thunderstorm and lightning** | A rapid-onset atmospheric hazard sitting alongside — not inside — the heat/cold-wave family. VisionIAS records lightning only as a forest-fire ignition source (PDF p. 47) and thunderstorm *frequency* as a Vulnerability Atlas layer (PDF p. 18). The governing national document is **NDMA's Guidelines on Prevention & Management of Thunderstorm & Lightning / Squall / Dust / Hailstorm & Strong Winds (March 2019)**; the public warning tool is the **Damini** app of **IITM Pune** (Ministry of Earth Sciences). ⚠️ Lightning is **not** among the 12 nationally notified disasters, though the Sixteenth Finance Commission recorded (1 February 2026) that **16 States had notified it as a State-specific disaster** and recommended national inclusion (topic `16`). ❌ Do not quote annual lightning-death figures without a dated official (e.g. NCRB) source. |
+| 📰 **Thunderstorm and lightning** | A rapid-onset atmospheric hazard sitting alongside — not inside — the heat/cold-wave family. VisionIAS records lightning only as a forest-fire ignition source (PDF p. 47) and thunderstorm *frequency* as a Vulnerability Atlas layer (PDF p. 18). The governing national document is **NDMA's Guidelines on Prevention & Management of Thunderstorm & Lightning / Squall / Dust / Hailstorm & Strong Winds (March 2019)**; the public warning tool is the **Damini** app of **IITM Pune** (Ministry of Earth Sciences). 📰 The current MHA response-fund page, retrieved **15 August 2026**, lists both **heatwave and lightning** among the **14 nationally notified** SDRF disasters. The Sixteenth Finance Commission's earlier record that 16 States had notified lightning locally is historical context, not the current national-list status. ❌ Do not quote annual lightning-death figures without a dated official (e.g. NCRB) source. |
 
 ## 3. Risk/problem mechanism
 
@@ -69,12 +69,12 @@ or even years and affects a large spatial extent" (PDF p. 35).
    reflecting that "heat wave" is a relative, not absolute, temperature
    concept — except at the independent ≥45°C/≥47°C absolute-trigger
    levels. ⚠️ The financing consequence is decisive: because heat wave is
-   **not among the 12 nationally notified disasters**, a State that
-   declares one funds relief from the **10% local-disaster window of its
-   own SDRF** rather than from central assistance — so the same
-   meteorological event carries a materially different fiscal
-   consequence from a cyclone or flood of comparable mortality (topic
-   `16`).
+   **now listed nationally alongside lightning** on MHA's current
+   response-fund page (retrieved 15 August 2026). The earlier
+   State-specific-notification/10%-local-window position is historical,
+   not a present-tense rule; do not infer from the Finance Commission's
+   recommendation alone when the current MHA list is the available
+   status source (topic `16`).
 
 ## 4. Disaster-management cycle application
 
@@ -166,11 +166,12 @@ or even years and affects a large spatial extent" (PDF p. 35).
 - 📰 A heat wave is declared when criteria are met at **at least two
   stations in a meteorological subdivision for at least two consecutive
   days**, on the second day.
-- 📰 **Heat wave and lightning are not nationally notified disasters**
-  for SDRF/NDRF assistance. The Sixteenth Finance Commission recorded
-  (1 February 2026) that **11 States had notified heat wave** and **16
-  States lightning** as State-specific disasters — funded from the 10%
-  local-disaster window of SDRF — and *recommended* national inclusion.
+- 📰 **Heatwave and lightning are nationally notified SDRF disasters**
+  on MHA's current response-fund page (retrieved 15 August 2026), which
+  lists **14** hazards. The Sixteenth Finance Commission's 1 February
+  2026 record of **11 State heat-wave** and **16 State lightning**
+  notifications is a pre-list-expansion fact; do not present its
+  recommendation as the legal act that notified them.
 - ✅ Ahmedabad had India's first Heat Action Plan (operational in the
   summer of 2013).
 - 📰 More than **250 cities and districts across 23 States** had Heat
@@ -206,11 +207,12 @@ or even years and affects a large spatial extent" (PDF p. 35).
   hills; coastal stations need departure ≥4.5°C *and* ≥37°C actual); the
   ≥45°C/≥47°C absolute triggers apply independently, and declaration
   requires two stations in a subdivision on two consecutive days.
-- ❌ Heat wave and lightning are notified disasters eligible for
-  SDRF/NDRF assistance. -> They are **not** on the national list of 12.
-  FC16 recorded 11 States notifying heat wave and 16 States lightning as
-  **State-specific** disasters and recommended national inclusion — a
-  recommendation is not a notification (topic `16`).
+- ❌ Heat wave and lightning remain only State-specific disasters funded
+  from the 10% local-disaster window. -> This was the earlier position:
+  MHA's current response-fund page, retrieved **15 August 2026**, lists
+  both in the national **14-disaster** SDRF list. Keep the 11-State/
+  16-State FC16 figures only as dated historical context; a Finance
+  Commission recommendation is not itself a notification (topic `16`).
 - ❌ A Heat Action Plan is a legal instrument that binds employers or
   local bodies. -> HAPs are administrative action plans prepared under
   NDMA's October 2019 guidelines; their coverage (250+ cities/districts
@@ -289,3 +291,47 @@ or even years and affects a large spatial extent" (PDF p. 35).
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 13. Core-only answer architecture — slow-onset and humid-heat risk
+
+> **Core firewall:** Core now includes the 2025 Prelims wet-bulb demand
+> as well as a directive-sensitive drought/heat answer. It does not rely
+> on an Advanced companion for physiological or finance distinctions.
+
+### 13.1 Claim-to-evidence bank
+
+**Wet-bulb temperature** combines air temperature and humidity by
+representing the lowest temperature achievable through evaporation. It
+therefore measures whether sweat can cool the body, unlike dry-bulb
+temperature alone. **Around 35°C wet-bulb** is a theoretical
+upper-limit benchmark for sustained human heat dissipation under highly
+protective assumptions (shade, rest, adequate water); dangerous
+heat-stress and work limits occur well below it depending on exertion,
+health, acclimatisation, clothing, wind and access to cooling. It is
+**not** IMD's heat-wave declaration threshold and must not be substituted
+for the 40°C/30°C station thresholds, departure criteria, or
+two-station/two-day declaration rule above.
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Drought is a cascade, not merely rainfall shortage. | Meteorological → agricultural → hydrological → ecological drought; Manual for Drought Management's multi-indicator assessment. | Each stage requires a different metric and response: crop/soil moisture, storage, ecosystems and livelihoods. | Do not replace the Manual's multi-indicator process with a guessed crop-loss cut-off. |
+| Heat risk combines hazard and social/physiological exposure. | IMD criteria; wet-bulb/evaporative-cooling distinction; outdoor workers, older people, poor housing and urban heat islands. | It explains why a temperature bulletin alone is inadequate. | Do not call 35°C wet-bulb a routinely observed Indian threshold or an official declaration trigger without a dated source. |
+| HAPs need prevention, preparedness and long-term adaptation. | Ahmedabad-first HAP; NDMA heat-action guidance; alerts, health training, water/work-hour measures, cool roofs/trees/water bodies. | Gives a complete time-horizon answer. | A plan's adoption/coverage is not proof of mortality reduction or enforceable worker protection. |
+| Finance/listing status must be current. | MHA response-fund page retrieved 15 August 2026 lists heatwave/lightning among 14 SDRF disasters. | Corrects the prior State-specific-only framing. | Relief eligibility does not prove accessible cooling, warning receipt or heat-health outcomes. |
+
+### 13.2 Executable spines
+
+- **10 marks — 2025 Prelims concept:** define wet-bulb; distinguish it
+  from air temperature and IMD heat-wave declaration; explain failed
+  evaporative cooling, heat illness and heightened risk in humid/coastal,
+  outdoor-work and poorly cooled settings; retain the threshold caveat.
+- **15 marks — drought or heat wave:** thesis that slow onset needs
+  anticipatory social protection and adaptation. Use the relevant
+  drought type/cascade or heat-risk chain, named HAP measures, one
+  equity channel (ASHA/anganwadi/SEWA or worker timing), and a
+  prevention-versus-relief distinction.
+- **20 marks — critically evaluate slow-onset preparedness:** compare
+  trigger/declaration systems with continuing livelihood and health
+  needs; cover water/crop choices, forecasts, HAP/cooling, funding,
+  inclusion and monitoring. End with an outcome test: lower exposure and
+  preventable illness/livelihood loss, not simply a declared disaster.

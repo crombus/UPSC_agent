@@ -191,11 +191,11 @@ How many of the above dynasties established their kingdoms in the early eighth c
 
 ### Model answer
 
-> Chinese pilgrims and Arab travellers provide external, often datable observations of Indian religion, cities, courts, trade and social practice. Arab accounts are particularly valuable for Indian Ocean commerce, navigation and the links joining western India and Malabar to the Persian Gulf. An outsider can record institutions that local writers consider too ordinary to describe.
+> Chinese and Arab accounts are high-value external witnesses when tied to named contexts. **Xuanzang's seventh-century record** describes Harsha's political world, Nalanda and Buddhist geography; it reconstructs institutions and routes, although a pilgrim naturally magnified Buddhist centres. **Sulaiman and al-Masudi** noticed major north Indian and Deccan powers and commerce linking Indian ports to the Persian Gulf; this proves wide trade and political reputations, but some information came through merchants rather than direct travel. **Al-Biruni's *Kitab-ul-Hind*** used Sanskrit learning to compare religion, astronomy and social classification; it is unusually analytical, yet its Brahmanical textual access and north-western setting narrowed its social range.
 >
-> Their evidence is nevertheless refracted through itinerary, language competence, purpose, patron and audience. A merchant notices ports and prices; a pilgrim selects sacred centres; a court visitor sees elite life. Their geography is partial, and unfamiliar customs may be misunderstood.
->
-> Their highest importance therefore lies in co-relation with inscriptions, coins, archaeology and Indian texts. They are indispensable for chronology, external perceptions and transregional contact, but unsafe as autonomous proof of all-India conditions. Properly assessed, they are essential corroborative witnesses whose silences and selectivity form part of the evidence.
+> Their itinerary, genre, language and audience must therefore be tested against inscriptions, coins, archaeology and Indian texts. They are indispensable corroborative evidence, not neutral photographs of all-India conditions.
+
+**Why this earns marks:** It assesses rather than lists, integrates three named sources with what each proves and limits, and ends with a graded corroboration-based judgement suited to 10 marks.
 
 ### What a top answer must contain
 
@@ -220,13 +220,13 @@ How many of the above dynasties established their kingdoms in the early eighth c
 
 ### Model answer
 
-> Persian literary production reflected a major “spirit” of medieval India because Persian was not merely a poetic language; it became a medium of court, administration, history and transregional elite communication. The Turkish rulers who entered India had already absorbed Iranian literary and administrative traditions. Chronicles, biographies, advice literature and official narratives consequently expressed ideals of kingship, justice, conquest, hierarchy and legitimate sovereignty.
+> Persian sources reflect the age because their different genres preserve both the ideals and tensions of medieval society. **Barani's *Tarikh-i Firoz Shahi*** chronicles Sultanate politics and measures such as Alauddin Khalji's market regulations, while his normative ***Fatawa-i Jahandari*** exposes aristocratic, orthodox and hierarchical ideals; together they reveal statecraft, but Barani's elite prejudice and didactic purpose require caution. **Abul Fazl's court-sponsored *Akbarnama*** legitimises Akbar's sovereignty, whereas the ***Ain-i Akbari*** systematises offices, revenue and imperial resources; they demonstrate bureaucratic ambition, but imperial patronage encourages an idealised image.
 >
-> These works also reveal a connected world. They linked Indian courts with Iran and Central Asia, recorded diplomatic and commercial movement, and incorporated Indian materials through translation and adaptation. Their vocabulary illuminates offices, revenue practices and courtly norms. The growth of Persian writing in Lahore and later political centres also demonstrates that cultural contact preceded and accompanied territorial change.
+> Counter-voices broaden this picture. **Badauni's *Muntakhab-ut-Tawarikh*** records conservative opposition to Akbar's religious experiments, proving dissent within the court, though its hostility is also polemical. **Amir Khusrau's *Khaza'in-ul-Futuh* (ornate prose panegyric) and *Tughluq-nama* (narrative verse)** celebrate conquest and Indo-Persian encounter; court dependence and poetic licence limit literal use. **Gulbadan Begum's *Humayun-nama***, a royal memoir commissioned under Akbar, reveals kinship, mobility and women's agency inside the Mughal household, but remains an elite-harem view. **The *Fawa’id-ul-Fu’ad***, Amir Hasan Sijzi's record of Nizamuddin Auliya's discourses, shifts attention to the khanqah, urban anxieties and a wider devotional public; as disciple-compiled conversations rather than court history, it too is mediated.
 >
-> Yet “the spirit of the age” must be qualified. Most courtly Persian texts arose within patronage structures, privileged rulers and elites, and shaped events into legitimising narratives. Their limited attention to cultivators, women, vernacular publics and dissent reflects the author's social position rather than the absence of those groups.
->
-> Persian sources therefore reflect an important spirit of medieval India: the Persianate courtly-administrative world and its interaction with Indian society. They become representative of the wider age only when co-related with inscriptions, vernacular literature, architecture, material remains and fiscal records.
+> Thus Persian literature captures court, administration, dissent, domestic life and Sufi sociability—not the whole society. Its “spirit” becomes historically representative only through comparison across genres and corroboration with vernacular texts, inscriptions, coins, architecture and material evidence.
+
+**Why this earns marks:** It comments through six genre-specific source clusters, links patronage and social reach to evidentiary limits, and gives a qualified verdict within a 15-mark scale.
 
 ### What a top answer must contain
 
@@ -251,13 +251,13 @@ The question has two equal halves: identify changes and explain social influence
 
 ### Model answer
 
-> The Sultanate period intensified the circulation, refinement and social use of technologies rather than introducing every device to India for the first time. Military changes included improved cavalry organisation, horse equipment, armour and siege practice. Production and transport saw wider use or refinement of the spinning wheel, improved looms, paper manufacture, lime mortar, arches and domes, hydraulic devices and road-linked communication.
+> The Sultanate accelerated the diffusion and recombination of technologies; it did not introduce every device to India for the first time. **The spinning wheel**, whose earliest Indian reference Satish Chandra places in the mid-fourteenth century, raised a spinner's efficiency several-fold; it enlarged yarn supply and textile markets, although spinning remained dispersed, gendered household labour. **Paper-making**, for which Indian manuscript evidence becomes available from the Sultanate centuries, made records and books cheaper to reproduce; it strengthened scribal administration and scholarship, but literacy remained socially restricted.
 >
-> Their effects were mediated by institutions. Paper widened record-keeping, correspondence and literary production, supporting a more documentary administration. Textile techniques strengthened specialised crafts, urban workshops and market exchange. Building technologies enabled new architectural forms while employing Indian artisans and materials, producing synthesis rather than simple replacement. Water-lifting devices could support cultivation, though gains depended on local investment and control. The fiscal need to maintain cavalry deepened links with horse-import routes and shaped revenue demands.
+> **The Persian wheel and improved water-lifting devices** could extend irrigation and cultivation; they supported surplus where wells, capital and local control permitted, not uniformly across India. **Lime mortar with the true arch and dome**, visible in the scientifically constructed arches and dome of the Alai Darwaza, enabled larger durable structures; Indian masons adapted these forms, proving synthesis rather than the displacement of local craftsmanship. **Cavalry equipment, imported horses and road-post relays** increased military mobility and communication; they linked ports, frontier routes, treasury and army, but imposed high fiscal and import costs.
 >
-> Technology also reorganised skills. Artisans translated designs across cultural traditions; scribes and paper-makers entered expanding service networks; military requirements connected frontier, market and treasury. At the same time, benefits and burdens were unequal.
->
-> The Sultanate's technological significance therefore lay in accelerating transregional circulation and recombination. Technologies transformed society when courts, markets, labour, revenue systems and transport networks sustained them; the outcome was institutionally mediated change, neither complete rupture nor static continuity.
+> The social influence was therefore institutional: courts purchased horses and commissioned buildings, revenue systems funded communications, and markets sustained paper-makers, weavers and masons. Technologies created new skills, urban demand and administrative reach, yet their benefits and burdens varied by region and class. The Sultanate's major contribution was accelerated circulation and Indian adaptation—neither total rupture nor unchanged continuity.
+
+**Why this earns marks:** It answers both halves through five named technologies, explains a social mechanism and qualification for each, and avoids the inaccurate “first introduced” claim.
 
 ### What a top answer must contain
 
@@ -646,11 +646,13 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> “On the eve” is an analytical snapshot of a changing political order, not a claim that institutions had disappeared. Before the Turkish breakthrough, the Pala–Pratihara–Rashtrakuta competitive system had weakened, but power was redistributed among regional successors. Gahadavalas, Chauhans, Paramaras, Chalukyas, Chandellas and Tomars controlled forts, agrarian revenue, feudatories and armies. In the south, Chola power and maritime commerce demonstrated continuing state capacity.
+> “On the eve” is an analytical snapshot of transition, not evidence that political institutions had vanished. The weakening of the **Pala–Pratihara–Rashtrakuta competitive order** redistributed power to **Gahadavalas, Chauhans, Paramaras, Chalukyas, Chandellas and Tomars**; their forts, agrarian revenue and armies prove regional state capacity, although authority was divided among sovereign centres. **Chola administration and maritime commerce in the south** further disprove an all-India vacuum, while also showing that north Indian fragmentation was regionally specific.
 >
-> The key change was therefore not the absence of states but the multiplication of sovereign centres. Regional powers could resist and form coalitions, yet rival strategic interests made durable common command difficult. Simultaneously, loss of frontier depth in Afghanistan and Punjab brought organised Turkish military states closer to the plains.
+> The problem was collective rather than individual capacity. **The Chaulukya defeat of Muizzuddin in 1178–79 and Prithviraj's victory at Tarain in 1191** show that Indian powers could resist, but rival interests made durable common command difficult. At the same time, Hindu Shahi losses and a Punjab base moved organised Turkish states closer to the plains.
 >
-> Thus the period is best understood as regionalisation under a transformed frontier environment. “Political vacuum” conceals both the strength of successor polities and the specific coordination problem that shaped the transition.
+> The eve of the medieval transition was therefore a regionalised political order under altered frontier pressure. “Vacuum” conceals both strong successor states and the coordination problem that shaped their response.
+
+**Why this earns marks:** It uses three evidence clusters to prove continuing capacity, identifies the precise weakness, and gives a qualified 10-mark verdict instead of narrating decline.
 
 ### Top-answer checklist
 
@@ -668,11 +670,13 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> Arab maritime contact was a long-duration commercial and cultural process centred on the Arabian Sea and ports such as those of Malabar. Its principal agents were merchants, sailors, scholars and religious communities. Arab settlers traded under Indian rulers; Rashtrakutas permitted mosques, while Indian merchants remained active around the Persian Gulf. Goods, numerals, astronomy, medicine, language and belief circulated through these networks.
+> Arab maritime contact was a long-duration commercial-cultural process; Turkish penetration was increasingly military-territorial. **Arab settlements in Malabar and Rashtrakuta permission for mosques** prove negotiated residence under Indian sovereignty, although coastal accommodation did not exclude occasional conflict. **Indian merchants, physicians and craftsmen around the Persian Gulf and Baghdad** show reciprocal exchange rather than Arab displacement; goods moved with numerals, astronomy and medicine.
 >
-> Turkish penetration intensified through the north-western land frontier. Its principal agents were rulers, commanders, cavalry and military-service elites operating from bases such as Ghazni and later Punjab. It involved roads, garrisons, tribute, revenue mobilisation and territorial warfare. These elites were already Islamised and Persianised, and carried courtly-administrative institutions alongside military organisation.
+> Turkish expansion operated through the north-west. **Ghazni's roads towards Kabul-Jalalabad and the later Punjab base** supported cavalry, supply and intelligence, turning contact into repeated campaigning and garrisoned control. These commanders were already Islamised and Persianised and carried revenue-service and courtly institutions, but frontier access did not ensure victory, as Muizzuddin's reverses in Gujarat and at Tarain show.
 >
-> The processes interacted but were not identical. Maritime contact often produced negotiated settlement without sovereignty; Turkish expansion increasingly altered political control. Medieval India's connected history requires both, without turning trade into conquest or conquest into the beginning of all contact.
+> Thus the sea route usually produced diaspora, trade and cultural transmission, whereas the land route increasingly changed sovereignty. They intersected, but conquest neither began all contact nor followed automatically from commerce.
+
+**Why this earns marks:** It differentiates route, agents and political effect through three named evidence clusters and qualifies both processes within a 10-mark word scale.
 
 ---
 
@@ -682,11 +686,13 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> Persianisation refers to the adoption by Turkish military elites of Persian language, literature, court etiquette and administrative practices within the Iranian and Central Asian political world. It does not imply Persian ethnicity or abandonment of Islam. Under regional states emerging from Abbasid fragmentation, Turkish commanders entered an environment where Persian served as a major language of political culture.
+> Persianisation was the adoption of Persian language, literature, court etiquette and administrative practice by Turkish military elites; it did not imply Persian ethnicity or abandonment of Islam. **Turkish commanders recruited in the Iranian-Transoxianan world after Abbasid fragmentation assimilated the dominant Iranian language and culture**; this proves that entrants into India already possessed a transregional political idiom, though their societies remained culturally mixed.
 >
-> Its importance is twofold. First, rulers such as those based at Ghazni possessed more than cavalry: they inherited documentary, fiscal and courtly techniques that helped organise military states. Second, later Turkish rule in India introduced a Persianate vocabulary of kingship, history and administration that interacted with Indian institutions, languages, artisans and revenue systems.
+> Its importance was institutional. **Ghazni** joined cavalry command to a Persianate court and documentary kingship, showing that Turkish power was more than weaponry, although its early Indian reach was often raid- and tribute-based. **Iqta**, a revocable revenue-service assignment, helped sultans sustain mobile troops without granting hereditary landownership; it linked administration to military capacity, but evolved further under the Delhi Sultanate.
 >
-> Medieval political culture was therefore not a simple encounter between “Indian” and “Central Asian” civilisations. It was an institutional recombination involving Turkish military organisation, Islamic legitimacy, Persianate statecraft and Indian social-economic realities.
+> Persianisation therefore supplied language, legitimacy and governing techniques that later interacted with Indian revenue systems, elites and artisans. Medieval transition was institutional recombination, not a simple clash of ethnic civilisations.
+
+**Why this earns marks:** It defines the term, uses three named examples to show political consequences and limits, and directly explains significance in a 10-mark frame.
 
 ---
 
@@ -696,13 +702,13 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> The north-western frontier mattered not as an eternally open “gateway”, but as a layered system of political buffers, roads and operational bases. Hindu Shahi control over Kabul, Jalalabad and adjacent regions provided strategic depth between Central Asian military states and the Punjab. Their setbacks around 990–91, followed by the loss of Zabulistan and Afghanistan, reduced that depth.
+> The north-western frontier was not an eternally open gateway; it was a layered system of buffers, routes and bases. **Hindu Shahi control over Kabul, Jalalabad and adjoining zones** created strategic depth between Central Asian military states and Punjab; their losses around 990–91 reduced that depth, although resistance continued. **Ghaznavid road improvement towards Kabul and Jalalabad** converted terrain into supply, intelligence, reinforcement and retreat. **Punjab's incorporation as a forward base** then lowered the cost of repeated operations and improved local information.
 >
-> Ghazni's rulers improved communications towards Kabul and Jalalabad. Roads enabled rapid concentration of cavalry, supply, intelligence, reinforcement and retreat. Once Punjab entered the Ghaznavid sphere, later operations could begin from a forward base rather than a distant Central Asian core. The cost of repeated campaigns fell, local information improved and the possibility of garrisoning territory increased.
+> Frontier change enabled but did not determine conquest. **The Chaulukyas defeated Muizzuddin near Mount Abu in 1178–79**, proving that access through the frontier could be blocked by prepared regional power. **Prithviraj's victory at the First Battle of Tarain in 1191** similarly shows that battle outcomes depended on leadership and tactics. Even after success, Turkish forces could not retain distant **Anhilwara**, revealing the continuing constraint of operational distance.
 >
-> Yet frontier change was enabling, not determining. Mountain routes remained difficult; Indian rulers resisted; coalitions formed; and the Ghurids suffered reverses, notably at the First Battle of Tarain. The frontier became decisive only when geography was combined with military organisation, revenue mobilisation, leadership and divisions among north Indian powers.
->
-> The “outer bastions” thesis is therefore useful if historically qualified. Loss of strategic depth altered the balance and raised the probability of sustained penetration, but it did not mechanically cause the conquest of Delhi. The frontier was a system converted into power by institutions and political choices.
+> The frontier became decisive only when geography combined with mobile cavalry, revenue mobilisation, concentrated command and divisions among north Indian powers. The “outer bastions” thesis is therefore useful for explaining lost strategic depth, but anachronistic if treated as a fixed national boundary and deterministic if made a sufficient cause. Institutions and political choices converted routes into power.
+
+**Why this earns marks:** It assesses frontier importance through six named examples, explains logistical mechanisms, and balances enabling structure with reverses and limits.
 
 ### Top-answer checklist
 
@@ -720,13 +726,13 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> The Rajput political order was not a landscape of powerless chiefdoms. Gahadavalas, Chauhans, Paramaras, Chalukyas, Chandellas and Tomars controlled agrarian resources, forts, feudatories and military followings. Some Rajput principalities possessed population and revenue resources greater than several West and Central Asian successor states. Resistance to Ghaznavid and Ghurid pressure was real, and coalitions could be assembled.
+> The Rajput order combined substantial regional state capacity with weak collective strategy. **Gahadavalas, Chauhans, Paramaras, Chalukyas, Chandellas and Tomars** commanded agrarian revenue, forts, feudatories and military followings; their number proves regionalisation, not political vacuum, although resources were divided among sovereign centres. **The Chaulukya defeat of Muizzuddin near Mount Abu in 1178–79** and **Prithviraj's victory at the First Battle of Tarain in 1191** demonstrate effective resistance; neither courage nor battlefield capacity was absent.
 >
-> Strength, however, was organised regionally. Clan legitimacy, marriage alliances and feudatory relations produced effective local mobilisation but also multiple centres of bargaining. Rival states calculated security separately; prestige conflicts and territorial expansion could alienate potential partners. Prithviraj's expansion illustrates the diplomatic cost of regional ambition, while failures of neighbouring rulers to assist one another reveal the absence of durable common command.
+> The central limitation was converting aggregate strength into durable common command. **Prithviraj's campaigns against neighbouring powers**, as Satish Chandra notes, left him politically isolated; regional ambition weakened diplomatic depth even when armies were large. **Gahadavala non-assistance during the struggle for the upper doab** further illustrates separate threat perceptions, though it should not be reduced to a timeless “Rajput disunity” stereotype. Feudatory contingents could mobilise locally but complicated unified reserves, intelligence and reinforcement.
 >
-> This should not be reduced to a stereotype of “honour over strategy”. Honour and lineage were political resources, but defeat followed when dispersed forces could not be concentrated, reinforced or coordinated as effectively as a centrally directed expeditionary army. Nor were coalitions impossible; their instability is the important point.
->
-> Thus Rajput polity displayed substantial state capacity but limited collective capacity. The Turkish advantage lay less in civilisational superiority than in the ability, under particular rulers, to concentrate mobile forces, fiscal resources and command. The decisive contrast is not bravery versus cowardice, but regional strength versus strategic coordination.
+> Rajput polities also adapted: coalitions formed, forts resisted and Turkish forces suffered reverses. Their problem was relational—opponents operating from Ghazni and Punjab could sometimes concentrate mobile forces and fiscal resources faster. The order was therefore strong in regional legitimacy and defence but limited in sustained inter-state coordination. Turkish victory reflected particular strategic asymmetries, not civilisational or moral inferiority.
+
+**Why this earns marks:** It balances capacity and coordination through five named examples, rejects the bravery stereotype, and delivers an assessed rather than one-sided verdict.
 
 ---
 
@@ -736,13 +742,13 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> India and the Islamic world were connected before the establishment of Turkish rule through maritime commerce, migration and translation. Arab merchants used monsoon routes linking the Persian Gulf and Red Sea with Gujarat, Malabar and Southeast Asia. Settlements on the Malabar coast developed under Indian rulers; Rashtrakuta permission for mosques indicates negotiated accommodation. Indian merchants, physicians and craftsmen also travelled westward, showing a reciprocal network rather than foreign displacement.
+> Commercial and intellectual exchange created channels of familiarity long before Turkish sovereignty. **Arab settlements on the Malabar coast** show durable merchant diasporas under Indian rulers; **Rashtrakuta permission for mosques** proves negotiated religious space, but neither settlement nor worship implied foreign sovereignty. The network was reciprocal: **Indian merchants around the Persian Gulf and Indian physicians and craftsmen welcomed at Baghdad** demonstrate Indian agency rather than Arab displacement.
 >
-> Commerce carried knowledge. Indian numerals and astronomical traditions entered Arabic scholarly environments through translation and adaptation. Medicine, navigation, commercial vocabulary and practical techniques circulated with scholars and traders. Sind, after its Arab conquest, became an additional conduit, while Muslim traders and Sufis appeared in north-western India before Sultanate sovereignty. Lahore's development as an Arabic-Persian intellectual centre further weakened the idea of sudden cultural arrival in 1206.
+> Commerce also carried knowledge. **Sind after the Arab conquest transmitted Indian numerals and astronomical works such as the *Surya Siddhanta* into Arabic scholarly environments**; this proves translation across political frontiers, although knowledge was selected and transformed rather than transferred unchanged. **Lahore's growth as an Arabic-Persian centre and the poetry of Masud Sad Salman** show that north-western cities became cultural intermediaries before the Delhi Sultanate; their literary evidence, however, represents educated circles more than the whole population.
 >
-> This bridge did not erase difference or prevent conflict. Translation selected and transformed knowledge; merchant settlements did not necessarily imply mass conversion or political rule. Maritime accommodation and frontier warfare could coexist.
->
-> The bridge's historical importance lies in creating familiarity, institutions and channels through which later Persianate-Islamic political culture entered a society already connected to West Asia. Political conquest altered sovereignty, but it did not initiate contact.
+> The bridge did not abolish conflict. Sind was conquered, frontier warfare continued, and merchant accommodation did not equal mass conversion. Its importance was preparatory rather than deterministic: trade, migration, translation and resident communities supplied routes and institutions through which later Persianate political culture interacted with India. Conquest changed sovereignty, but did not initiate Indo-Islamic contact.
+
+**Why this earns marks:** It integrates five precise examples across commerce, migration and scholarship, explains what each proves, and qualifies “cultural bridge” against peaceful-contact romanticism.
 
 ---
 
@@ -752,13 +758,15 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> Cavalry advantage was an organisational system, not a biological or technological attribute. Mounted forces increased reconnaissance, concentration, manoeuvre and pursuit, but required costly horses, remounts, fodder, equipment, trained riders and reliable communication. Roads linking Ghazni, Kabul, Jalalabad and Punjab reduced operational friction and made repeated campaigns possible.
+> Cavalry superiority was an organisational system, not a racial or weapon-based attribute. **Ghaznavid roads linking Ghazni with Kabul and Jalalabad**, followed by a Punjab base, reduced operational friction; they enabled remounts, supply, intelligence and retreat, although difficult terrain still constrained campaigns. **At the Second Battle of Tarain, light mounted archers harassed Prithviraj's slower-moving force from several directions**; this proves manoeuvre and coordinated wings mattered, but the earlier Rajput victory in 1191 shows cavalry did not predetermine outcomes.
 >
-> Revenue organisation sustained this mobility. Assignments such as iqta linked territorial revenue to military service and troop maintenance while remaining, in principle, subject to ruler control rather than constituting unrestricted hereditary ownership. Such mechanisms helped convert dispersed agricultural surplus into deployable force. Their mature Sultanate form developed later, but the underlying revenue–service logic was already important in West/Central Asian military states.
+> Revenue made mobility sustainable. **Iqta gave an assignee the right to collect state revenue in return for maintaining troops, without hereditary ownership over land or cultivators**; it converted surplus into deployable force, although its mature Delhi Sultanate form evolved after the initial breakthrough. **Horse-import circuits through western ports and Central Asian routes** supported mounted warfare but also made it costly and dependent on trade.
 >
-> Command completed the system. A ruler able to concentrate cavalry, maintain reserves, coordinate wings and act on intelligence could exploit mobility more effectively than a coalition whose contingents answered to separate leaders. This does not mean Rajput states lacked cavalry or resources; it means aggregate capacity was not always translated into unified operational capacity.
+> Command integrated these assets. **Prithviraj's politically isolated coalition and separate feudatory contingents** could possess large aggregate resources yet face delays in concentration and reinforcement. A Turkish ruler able to coordinate reserves, reconnaissance and pursuit could exploit that gap.
 >
-> The advantage was therefore relational. Horses without finance were unsustainable; revenue without command remained dispersed; command without roads lacked speed. Turkish success arose when mobility, fiscal support and concentrated leadership reinforced one another under particular strategic conditions.
+> Thus horses without finance were unsustainable, revenue without command remained dispersed, and command without roads lacked speed. The advantage arose from interaction among mobility, fiscal support and concentrated leadership, not cavalry technology alone.
+
+**Why this earns marks:** It links five named examples into a mechanism, includes Tarain counter-evidence, and explains the interaction demanded rather than listing military features.
 
 ---
 
@@ -768,15 +776,17 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> By the late tenth and twelfth centuries, several structural changes increased the possibility of Turkish expansion. Abbasid fragmentation had enabled regional military states in West and Central Asia. Turkish commanders were Islamised and Persianised, combining cavalry organisation with Iranian court and administrative practices. Ghazni's control of routes towards Kabul and Jalalabad, followed by a Punjab base, reduced the cost of repeated operations. Meanwhile, north India contained multiple Rajput states whose substantial resources were divided by rivalry, feudatory bargaining and separate strategic priorities.
+> By the late tenth to twelfth centuries, structures increased the possibility of Turkish expansion without making it inevitable. **Abbasid fragmentation produced regional military states whose Turkish commanders were Islamised and Persianised**; this joined cavalry command to Iranian court and administrative practices, but these states also fought and lost against rivals. **Hindu Shahi losses around Kabul and Jalalabad** reduced north India's strategic depth, while **Ghaznavid roads and a Punjab base** lowered the cost of supply, intelligence and repeated operations.
 >
-> These conditions created mechanisms of advantage. Mobile forces could concentrate rapidly; revenue assignments linked surplus to military maintenance; forward bases improved intelligence and reinforcement; unified command could exploit coalition delays. The decline of the Pratiharas had not produced a vacuum, but it had removed an overarching power capable of coordinating the region.
+> Institutions converted opportunity into force. **Iqta linked revocable revenue assignments to troop maintenance**, allowing rulers to concentrate resources without conceding hereditary landownership; its exact Indian form, however, developed over time. North India was not a vacuum: **Gahadavalas, Chauhans, Chalukyas and Chandellas** possessed forts, agrarian revenue and armies. Their limitation was that separate strategic interests and feudatory command made collective reinforcement less reliable.
 >
-> None of this made conquest inevitable. Hindu Shahi resistance was prolonged. Rajput rulers raised major armies and formed coalitions. Turkish forces suffered setbacks; Prithviraj's victory at the First Battle of Tarain in 1191 demonstrates that structure did not predetermine battle. Leadership, diplomacy, timing, intelligence, tactical adaptation and the conduct of individual rulers affected each outcome. Nor did a victory automatically create stable sovereignty: conquest required garrisons, revenue, accommodation with local elites and repeated suppression of resistance.
+> Counter-evidence disproves inevitability. **The Chaulukyas defeated Muizzuddin near Mount Abu in 1178–79**, forcing him to shift his approach towards Punjab. **Prithviraj defeated him at the First Battle of Tarain in 1191**; the reversal in 1192 therefore reflects learning, preparation and tactical choice, not a predetermined civilisational outcome. Even after battlefield success, Turkish power could not retain distant **Anhilwara**, showing that bases and garrisons still bounded expansion.
 >
-> Religious motivation and attraction of plunder may explain mobilisation, but neither can account alone for variation in success. Likewise, weapon superiority is inadequate without doctrine and logistics, while fragmentation is insufficient without explaining how an opponent exploited it.
+> **Hasan Nizami's narrative and coins bearing Prithviraj's name with “Sri Muhammad Sam”** indicate an initial attempt to govern Ajmer through subordinate local authority; this proves conquest still required accommodation, although the sequence is source-dependent. Plunder and the **ghazi** idiom aided mobilisation, but neither explains variation in outcomes. Nor can horse technology explain success without roads, finance and command.
 >
-> Turkish rule was therefore a **structural possibility** produced by transformed frontier depth, concentrated military-fiscal organisation and regional rivalry. It became a historical reality through contingent political and battlefield choices. A rigorous explanation must join condition, mechanism and trigger: structures changed the odds; actors determined how those odds were realised.
+> Turkish rule was a **structural possibility** created by altered frontier depth, military-fiscal concentration and regional rivalry; it became reality through contingent leadership, diplomacy and battlefield adaptation. Structures changed the odds, while actors decided how those odds were realised.
+
+**Why this earns marks:** It critically integrates eight named examples, tests the thesis with reverses and post-conquest limits, and produces a reasoned probability-not-inevitability verdict.
 
 ---
 
@@ -786,17 +796,19 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> Arab maritime integration and Turkish military penetration belonged to a shared connected history but differed in route, agents, mechanisms and political effect.
+> Arab maritime integration and Turkish military penetration connected India to West and Central Asia through different routes, agents and institutions.
 >
-> Maritime integration operated through the Arabian Sea. Arab and Indian merchants used monsoon circuits connecting Malabar and western India with the Persian Gulf, Red Sea and Southeast Asia. Merchant settlements developed under negotiated protection; Rashtrakutas permitted mosques, while Indian traders and specialists remained active abroad. Goods moved with numerals, astronomy, medicine, language and religious practice. Its characteristic institution was the commercial diaspora: locally embedded yet transregionally connected. Political sovereignty was usually not its immediate aim.
+> **The maritime route was commercial and diasporic.** **Arab settlements in Malabar** operated under Indian rulers, and **Rashtrakuta permission for mosques** proves negotiated religious space without loss of sovereignty. **Indian merchants, physicians and craftsmen around the Persian Gulf and at Baghdad** show reciprocal mobility, not foreign displacement. **Sind's transmission of Indian numerals and astronomical learning into Arabic scholarship** demonstrates that ports and frontier towns moved knowledge as well as goods; however, the Arab conquest of Sind remained a regional political episode and did not mechanically create the Sultanate.
 >
-> Turkish penetration operated through the north-western land frontier. Abbasid decline and regional competition elevated Islamised, Persianised Turkish commanders. Ghazni, roads towards Kabul-Jalalabad and later Punjab provided bases for cavalry operations. Military-service networks, revenue assignments, concentrated command and territorial warfare enabled tribute, garrisons and political control. The agents were rulers and commanders rather than primarily merchants.
+> **Sulaiman and al-Masudi's notices of Indian kingdoms and commerce** independently illuminate the reputation of these maritime circuits; they corroborate connectivity, but merchant testimony and outsider categories limit their social depth.
 >
-> The processes nevertheless intersected. Maritime networks had already created Muslim communities and cultural familiarity; Sind served both as a regional conquest and an intellectual conduit. Persian and Arabic learning circulated through commercial and political centres. Later Sultanate culture drew on Persianate institutions but adapted them through Indian fiscal structures, artisans, languages and local elites.
+> **The land route was increasingly military-territorial.** **Hindu Shahi losses around Kabul and Jalalabad**, followed by Ghaznavid road improvement and a **Punjab forward base**, reduced the logistical distance to the plains. **Iqta-based revenue-service organisation** helped rulers maintain mobile troops and concentrated command, though its institutional form changed in India. The agents were sultans, commanders and cavalry rather than primarily merchant communities, and the immediate effects included tribute, garrisons and sovereignty.
 >
-> Neither route should be romanticised. Trade could contain hierarchy and conflict; conquest also generated exchange and synthesis. Nor should maritime contact be treated as the “soft” prelude mechanically causing territorial rule.
+> The routes nevertheless intersected. Lahore's Arabic-Persian learning and later **Amir Khusrau's Indian Persian literary culture** show that political centres entered older circuits of exchange. Conversely, the Muslim merchant colony encountered by Malik Kafur's army in the far south demonstrates that maritime communities persisted independently of northern conquest. Persianate institutions were further reshaped by Indian revenue practice, artisans, languages and local elites.
 >
-> Together, the routes show that medieval India emerged through multiple forms of connectivity. The sea produced long-duration exchange and settlement; the frontier produced concentrated military-political change. Their interaction explains both continuity of contact and transformation of sovereignty.
+> Neither process should be romanticised: trade could carry hierarchy and conflict, while conquest could generate cultural synthesis. Court and travel texts also privilege literate, mobile groups over cultivators and local vernacular worlds. Together the routes show a connected medieval history in which the sea produced long-duration exchange and the north-western frontier concentrated political transformation.
+
+**Why this earns marks:** It compares routes through seven integrated examples, explains interaction without collapsing trade into conquest, and gives a balanced 20-mark synthesis.
 
 ---
 
@@ -806,17 +818,19 @@ Define the expression, establish existing capacity, identify change and conclude
 
 ### Model answer
 
-> The proposition corrects three persistent but misleading explanations of the Turkish breakthrough.
+> The proposition corrects three monocausal explanations of the Turkish breakthrough.
 >
-> **Organisation, not weapons:** Turkish forces did not win merely because they possessed unfamiliar weapons. Cavalry became effective through remount systems, reconnaissance, communication, reserves, disciplined manoeuvre and road-linked logistics. Elephants and large armies were not inherently inferior; their value depended on formation, command and battlefield use. Revenue-service mechanisms helped sustain mounted forces, converting fiscal resources into repeated operational capacity.
+> **Organisation, not weapons:** **At the Second Battle of Tarain, light mounted archers harassed Prithviraj's slower force from several directions**; this proves manoeuvre, reserves and command mattered more than horses alone. **Ghazni-Kabul-Jalalabad roads and a Punjab base** sustained supply, intelligence and retreat, while **iqta revenue-service assignments** converted surplus into maintained troops. Yet Muizzuddin's **1178–79 defeat in Gujarat** shows that the same broad military culture could fail without favourable strategy and logistics.
 >
-> **Coordination, not courage:** Rajput resistance was substantial, and individual rulers and soldiers displayed no shortage of courage. The limitation lay in pooling the resources of multiple sovereign states. Clan and feudatory structures supported local mobilisation, but rival territorial ambitions, prestige conflicts and separate command chains complicated durable coalition strategy. Prithviraj's expansion could isolate him diplomatically. The contrast was therefore between dispersed aggregate strength and concentrated deployable strength.
+> **Coordination, not courage:** **The Chaulukya victory and Prithviraj's First Tarain victory in 1191** demonstrate Rajput fighting capacity. The weakness was pooling multiple sovereign resources. **Prithviraj's expansion had isolated him politically**, and separate feudatory commands complicated reserves and reinforcement. This was not permanent incapacity—coalitions did form—but concentrated Turkish command could exploit delays in particular campaigns.
 >
-> **Probability, not inevitability:** Loss of Hindu Shahi frontier depth, improved Ghazni–Kabul communications and a Punjab base made later operations easier. Yet these structural conditions altered odds rather than determining outcomes. The First Battle of Tarain in 1191 ended in a Ghurid defeat. Changed preparation and decisions contributed to the reverse in 1192. Subsequent territorial control still required garrisons, revenue and accommodation with local elites.
+> **Probability, not inevitability:** **Hindu Shahi losses around Kabul and Jalalabad** reduced strategic depth and raised the probability of repeated penetration. Nevertheless, the reversal between Tarain 1191 and 1192 proves that preparation, leadership and tactical adaptation altered outcomes. Turkish inability to retain distant **Anhilwara** further shows that victory did not erase logistical limits. Durable sovereignty still required garrisons, revenue and accommodation with local elites.
 >
-> Religion, plunder, geography and technology each mattered, but none independently explains success and failure across time. The strongest causal chain is: **structural condition** (frontier change and regional rivalry), **institutional mechanism** (mobility, finance and unified command), and **contingent trigger** (leadership, diplomacy and tactics).
+> **Hasan Nizami's account and the “Sri Muhammad Sam” coins issued with Prithviraj's name** suggest that Ajmer was first managed through subordinate local rule; this proves political consolidation required accommodation after battle, although textual and numismatic evidence must be read together. Likewise, the **ghazi** language could legitimise mobilisation, but it cannot explain why Muslim Turkish states also lost to non-Muslim opponents or why campaigns succeeded unevenly.
 >
-> Thus the Turkish breakthrough reflected superior organisation in specific campaigns and an opponent coordination problem under altered strategic conditions. It was neither proof of civilisational superiority nor a foreordained collapse.
+> Religion, plunder, geography and technology contributed, but none independently explains changing results. The strongest chain is **condition**—frontier change and regional rivalry; **mechanism**—mobility, finance and unified command; and **trigger**—diplomacy, leadership and battlefield choice. The breakthrough was a contingent organisational success, not proof of civilisational superiority or foreordained collapse.
+
+**Why this earns marks:** It structures the response around the quotation, integrates eight named evidence points and counter-cases, and ends with a causal rather than moral explanation.
 
 ---
 

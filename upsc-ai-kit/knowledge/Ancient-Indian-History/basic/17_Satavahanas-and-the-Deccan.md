@@ -77,6 +77,65 @@
 
 ## 7. Mains angles
 
+### Satavahana network-polity frame (promoted from Advanced — paper-essential)
+
+⚠️ **For mains answers, frame the Satavahanas as a network polity, not a centralised empire:**
+- Royal power depended on regional chiefs (maharathis/mahabhojas), merchants, Buddhist monks and Brahmana donees — not a Mauryan-style bureaucratic state.
+- Inscriptions are often **prashastis** (eulogies); treat them as evidence AND royal praise simultaneously.
+- Matronymic names signal lineage/gotra politics, not matriarchy or female succession.
+- Land grants with fiscal exemptions show early experiments with what later becomes the dominant medieval-period instrument of governance.
+- Paddy transplantation and the Krishna-Godavari rice zone connect political expansion with productive agrarian economy.
+
+### Thesis options
+
+| Directive | Thesis |
+|---|---|
+| Discuss | The Satavahanas created the first durable Deccan polity by combining Brahmanical self-fashioning, Buddhist donative networks, local chiefs and western-coast trade — a layered network rather than a centralised bureaucratic state. |
+| Critically examine | Satavahana "empire" claims must be qualified: their power was real but regionally negotiated; prashastis inflate achievements; origins and exact dates remain debated across Puranic, inscriptional and numismatic evidence. |
+
+### Evidence units
+
+| Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|
+| Satavahanas defeated Shakas | 8000+ Nahapana coins restruck by Gautamiputra; Nashik prashasti of Gautami Balashri | Demonstrates military success and political recovery | Prashasti is eulogy; restriking shows victory but not extent of control |
+| Network polity, not centralised state | Maharathis/mahabhojas as cave donors with matrimonial Satavahana ties | Power distributed among regional elites | Limited administrative detail; we cannot map the bureaucracy precisely |
+| Early land-grant experiments | Inscriptions recording fiscal exemptions for Brahmanas and monks | Foreshadows the dominant medieval instrument of governance | Small in number compared to later Gupta/post-Gupta grants; still emerging |
+| Agrarian base | Paddy transplantation, cotton; Krishna-Godavari rice zone | Connected political expansion with productive economy | Agricultural claims mostly from later inscriptions and archaeology; direct Satavahana-era evidence limited |
+
 - ⚠️ Explain the Satavahanas as a **Deccan state-formation bridge**: local tribe → Brahmanized kingship → trade-linked Buddhist patronage.
 - ⚠️ Discuss why early land grants matter: they foreshadow agrarian expansion and Brahmana rights without yet implying full Gupta-style feudalism.
 - ⚠️ Use Karle-Amaravati to show how political power, merchants and Buddhism jointly shaped early-historic art.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Satavahana rule should be understood as a networked Deccan polity that linked inland agrarian zones with western and eastern trade circuits." |
+| Critically examine | "The Satavahanas were neither a tightly centralised empire nor a loose tribal chiefdom; their power rested on layered control, redistribution and legitimacy." |
+| Compare / evaluate | "The best answer combines polity, social mixture and long-distance exchange instead of isolating the dynasty from its commercial world." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** Deccan resource base -> administrative layering -> donor networks -> maritime linkage
+- **For comparison Qs:** Satavahana polity vs Mauryan centralisation or Sangam chiefdom patterns
+- **For evaluate Qs:** state form -> social legitimacy -> trade significance -> balanced conclusion
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Satavahana power was territorially layered | ✅ Pratishthana, aharas and shifting control zones | Prevents simplistic centralisation narratives | Inscriptions are uneven and region-specific |
+| 2 | Legitimacy mixed Brahmanical and local elements | ✅ Gautamiputra Satakarni, matronymics and cave donations | Shows social and ideological flexibility | Prashastis magnify royal success |
+| 3 | Deccan prosperity depended on trade linkage | ✅ Nashik/Karli donors and Roman trade context | Connects polity to exchange networks | Coastal commerce was not fully state-controlled |
+
+### Counterpoint and balance
+
+- Avoid treating the Satavahanas only as anti-Shaka military rulers.
+- Do not overread donor inscriptions as a full administrative manual.
+
+### Verdict framing
+
+- Conclude that Satavahana importance lies in mediating between agrarian Deccan society and wider commercial circuits.
+- A strong verdict is network-based, not merely dynastic.

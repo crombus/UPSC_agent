@@ -5,8 +5,10 @@
 > **Core area:** Building a thesis that survives its own strongest
 > objection; sequencing multiple argument-map cycles without
 > contradiction or repetition.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Section 6.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Section 6.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../basic/05_Thesis-Central-Argument-and-Argument-Map.md`

@@ -51,7 +51,7 @@ of a nationwide operational benefit system.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Enacted provision vs commenced provision** | Parliament may enact a Code while Section 1 leaves commencement to Central Government notification, potentially provision by provision. No notification means a legal design cannot automatically displace the legacy delivery route. |
+| ✅ **Commenced Code vs operational benefit** | The Code commenced on 21 November 2025 and final Central Rules followed in May 2026, but a particular scheme, contribution rate, claims process and State-rule implementation must still be established. |
 | ✅ **Statutory range vs collected contribution** | Code Section 114 sets a possible notified aggregator contribution of 1–2% of annual turnover, capped at 5% of amounts paid/payable to gig/platform workers. A range in legislation is not evidence of a notified rate, collection ledger, Fund balance or paid claim. |
 | ⚠️ **Registration vs entitlement** | e-Shram records an unorganised worker and may support convergence. Eligibility for a pension, insurance, welfare-board benefit or future Code scheme is a separate legal/administrative question. |
 | ⚠️ **Social-security coverage vs employment status** | The Code's gig/platform definitions can extend a social-security design beyond a conventional employment relationship. They do not by themselves settle every dispute about minimum wages, working time, dismissal or collective bargaining. |
@@ -63,8 +63,8 @@ of a nationwide operational benefit system.
 ### Legal-status failure chain
 
 1. **Recognition:** The Code defines gig, platform worker and aggregator.
-2. **Operational gap:** A nationwide benefit needs a commencement notification, a scheme,
-   contribution administration, registration/claims rules and grievance machinery.
+2. **Operational gap:** A nationwide benefit still needs a scheme/rate, contribution
+   administration, registration/claims rules and grievance machinery.
 3. **False-certainty risk:** Calling an enacted range a current levy conceals the gap
    between legal design and the worker's actual protection.
 4. **Correct answer move:** State the source date and name the exact rung of the status
@@ -95,10 +95,9 @@ of a nationwide operational benefit system.
 
 - ✅ **Code on Social Security, 2020:** enacted framework that contains gig/platform
   definitions, scheme-making powers and an aggregator-contribution design. It must be
-  read with its commencement clause and an actual notification.
-- ✅ **Legacy institutions:** EPFO, ESIC, State BOCW Welfare Boards and the Unorganised
-  Workers' Social Security Act, 2008 remain central to current delivery where the Code's
-  replacement provisions are not generally commenced.
+  read with the commenced Code, applicable rules and an actual scheme notification.
+- ✅ **Delivery institutions:** EPFO, ESIC and State BOCW Welfare Boards remain central
+  to implementation under the reorganised Code architecture.
 - ✅ **e-Shram:** MoLE national database/UAN infrastructure; useful for mapping and
   convergence, but not a substitute for a benefit statute, funding or claims system.
 - ✅ **PM-SYM:** voluntary contributory pension route for eligible unorganised workers;
@@ -135,35 +134,30 @@ of a nationwide operational benefit system.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ The Code on Social Security, 2020 is enacted; its commencement is notification-
-  dependent under Section 1.
+- ✅ The Code on Social Security, 2020 commenced on 21 November 2025; final Central
+  Rules followed in May 2026.
 - ✅ It contains statutory definitions of gig worker, platform worker and aggregator.
 - ✅ Section 114 contains the 1–2% turnover range and 5% payout cap for an
   aggregator-contribution design; it is not a verified nationwide 2026 operational rule.
 - ✅ e-Shram is a registration/UAN platform, not automatic pension or insurance.
-- ✅ The BOCW welfare framework and other applicable legacy routes remain relevant to
-  actual worker protection.
+- ✅ BOCW boards and other delivery institutions remain relevant to actual protection.
 
 ## 8. Advanced Prelims traps
 
 - ❌ A rate stated in the Code proves a nationwide levy is already collected. -> A
-  statutory range requires the relevant notification/commencement and an operational
+  statutory range requires the relevant scheme/rate and an operational
   collection-and-benefit system.
 - ❌ Gig/platform definitions settle all employee-status disputes. -> They are important
   for the Code's social-security architecture, but do not resolve every labour-standard
   question.
-- ❌ A purported 2026 Central Rule created a universal 90/120-day benefit threshold. ->
-  Do not use that claim without an official Gazette source; no verified nationwide rule
-  supports it as at 21 July 2026.
+- ❌ Code commencement created a universal 90/120-day benefit threshold. -> Do not
+  invent a national eligibility rule without the applicable official scheme/rule.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **Legal-status correction (21 July 2026):** Avoid the stale claim that all Labour
-  Codes commenced nationwide on 21 November 2025 or that a “Social Security (Central)
-  Rules, 2026” notification operationalised a gig-worker levy/eligibility threshold.
-  The durable official facts are the enacted Code, its notification-dependent
-  commencement, its Section 114 design, and the continuing relevance of current delivery
-  institutions.
+- 📰 **Legal-status correction (May 2026):** all four Labour Codes commenced on
+  21 November 2025 and final Central Rules followed in May 2026. Neither fact alone
+  proves that a nationwide gig levy, eligibility threshold or paid benefit is operational.
 
 ## 10. PYQ-based analytical application
 
@@ -176,11 +170,11 @@ of a nationwide operational benefit system.
 **Central thesis:** The Code on Social Security, 2020 supplies an important legal design
 for gig/platform workers, but social justice requires the full chain from commenced law
 to notified scheme, collected contribution, accessible claim and portable benefit. Until
-that chain is evidenced, e-Shram and legacy institutions remain necessary delivery routes,
+that chain is evidenced, e-Shram and delivery institutions remain necessary routes,
 while algorithmic control and worker voice remain independent policy problems.
 
-1. **State the exact status:** enacted, notification-dependent commencement and no
-   unsupported operational-rule claim.
+1. **State the exact status:** commenced Code, notified Central Rules and no unsupported
+   scheme-level operational claim.
 2. **Explain the design:** definitions, schemes/Fund and Section 114 range/cap.
 3. **Map current delivery:** e-Shram, BOCW/ESIC/EPFO and separately enrolled schemes.
 4. **Diagnose gaps:** registration-to-benefit, portability, short-tenure work, incidence,

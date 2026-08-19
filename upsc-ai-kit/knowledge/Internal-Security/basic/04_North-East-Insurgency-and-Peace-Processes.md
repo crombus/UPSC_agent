@@ -314,7 +314,76 @@ signature; several later accords are contested on exactly that rung.
   challenges and the peace accords initiated by the government in the
   North-East over the past decade.
 
-## 12. Study links
+## 12. Core answer architecture — North-East challenges, accords and accountable security
+
+> **Core firewall:** The Core gives the complete 2019 and 2025 answer
+> route. The Advanced companion is optional analytical enrichment only.
+
+### Demand decoder and thesis
+
+**Thesis:** The North-East is a set of identity, autonomy, inter-ethnic,
+border and governance problems — not one insurgency. Durable peace requires
+an instrument matched to the named State/faction/demand, with a signed
+accord kept separate from verified implementation and an AFSPA deployment
+kept separate from repeal of the statute.
+
+### Executable Core spines
+
+**15 marks — 2025 challenges and past-decade accord map.** Give a one-line
+regional thesis; map five challenge families (identity/autonomy; inter-
+ethnic/demographic tension; cross-border sanctuary/trafficking; governance/
+development; security-legitimacy). Then make a compact, dated instrument
+map: 2015 NSCN(IM) **Framework**; 2019 NLFT(SD) **agreement**; 2020 Bodo
+and Bru-Reang **settlements**; 2021 Karbi Anglong **agreement**; 2023
+DNLA, UNLF and ULFA(pro-talks) **settlements/agreements**; 2024 TIPRA
+Motha **tripartite agreement**; and the UPF/KNO **SoO** as a ceasefire
+instrument. For every entry, say its rung and do not claim implementation
+without a dated MHA status.
+
+**15 marks — 2019 India–Myanmar border/insurgency.** Start with cross-border
+ethnic ties, terrain, sanctuary and drug-route vulnerability; compare
+guarding/regulation with community livelihood costs; map Assam Rifles,
+ICPs, intelligence and coordinated civil administration; add the
+8 February 2024 FMR-scrapping **decision** as an announcement whose
+operative regime needs a formal notification. Close with lawful mobility
+and community trust, not fencing alone.
+
+**20 marks — AFSPA/accord implementation comparison.** Use the ladder
+SoO → framework → settlement → implementation and balance operational
+necessity with legality, necessity, proportionality, record/reason,
+investigation and remedy. A reduction in disturbed-area coverage is an
+executive notification outcome, not a repeal or a final peace verdict.
+
+### Current-status safety notes
+
+- MHA’s 2026 AFSPA notifications effective **1 April–30 September 2026**
+  continued the disturbed-area notification in **nine Nagaland districts
+  plus specified police-station areas**, and in **Tirap, Changlang and
+  Longding districts plus specified Namsai police-station areas** in
+  Arunachal Pradesh. The Manipur notification must be read by its
+  exact police-station exclusions before naming its footprint.
+- The revised UPF/KNO tripartite SoO ground rules were signed **4
+  September 2025** and stated to run to **3 September 2026**. This is
+  evidence of a rung-1 cessation-of-hostilities arrangement, not a final
+  Manipur settlement.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Political accommodation can reduce an identity-driven conflict. | Sixth Schedule/statehood history; Bodo and Karbi Anglong agreements. | Autonomy and representation can address a different causal pathway from LWE. | An autonomy instrument can generate new inter-group boundary concerns. |
+| Peace instruments have different legal and practical effects. | NSCN(IM) Framework Agreement (2015) versus UPF/KNO SoO (2025). | A map must identify the rung, not count signatures. | Neither framework nor SoO proves disarmament, final settlement or delivery. |
+| AFSPA is an operational-power and accountability question together. | AFSPA sections 3, 4 and 6; *Naga People’s Movement* (1997) and *EEVFAM* (2016). | Legal authorization, necessity and accountability can be analysed in one answer. | A disturbed-area notification is time-bound and geographically specific; verify it on the answer date. |
+| Border hardening affects border communities. | FMR decision/kinship and small-trade linkages. | Regulation may reduce one misuse channel while imposing livelihood and trust costs. | Do not state an operational abolition without the governing notification. |
+
+### Direct PYQ routes now owned in Core
+
+- **2019 GS-III:** India–Myanmar border security and North-East insurgency
+  use the second spine; do not treat FMR as the whole answer.
+- **2025 GS-III:** “map” earns marks only when accords, SoOs, framework
+  agreements and implementation are visibly separated by status.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/04_North-East-Insurgency-and-Peace-Processes.md`.
@@ -345,3 +414,24 @@ signature; several later accords are contested on exactly that rung.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-III | 20 | India-Myanmar border security challenges and North-East insurgency | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- India-Myanmar border security challenges and North-East insurgency
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

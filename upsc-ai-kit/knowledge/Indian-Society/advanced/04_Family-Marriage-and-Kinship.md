@@ -3,13 +3,17 @@
 > **Subject:** Indian Society | **Tier:** Advanced | **GS Paper:** GS-I.
 > **Core area:** Functional versus structural nuclearisation, interreligious-marriage
 > boundary explanations, and globalisation's effect on family authority.
-> **Grounded in:** NFHS-5 (2019-21, latest released national round as checked 21 July 2026);
+> **Grounded in:** NFHS-5 (2019-21; historical comparator; NFHS-6 was released 29 May 2026);
 > classical kinship typologies;
 > audited 2024 GS-I Mains PYQs (Q9 and Q19).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/04_Family-Marriage-and-Kinship.md`.*
 
 ---
+
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
 
 ## 1. Architecture
 
@@ -126,8 +130,7 @@ Marriage Act means personal-law plurality alone cannot explain social resistance
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ NFHS-5 (2019-21) recorded India's Total Fertility Rate at 2.0. It is the latest
-  released national NFHS round as checked on 21 July 2026 and is relevant to family size, not
+- ✅ NFHS-5 (2019-21) recorded India's Total Fertility Rate at 2.0. It is a historical comparator; the current released provisional national fact-sheet round is NFHS-6 (2023-24) and is relevant to family size, not
   a direct measure of nuclearisation.
 - ✅ Among the Khasi, property passes through the youngest daughter, but customary public
   authority is often exercised by maternal uncles — descent and authority are distinct axes.
@@ -155,9 +158,9 @@ Marriage Act means personal-law plurality alone cannot explain social resistance
 
 ## 9. 📰 Current-anchor note
 
-- 📰 NFHS-5 (2019-21) remains the latest released national NFHS round as checked on 21 July
+- 📰 NFHS-5 (2019-21) is a historical national survey; NFHS-6 (2023-24) was released 29 May
   2026. Use its TFR of 2.0 as a dated fertility indicator; do not mislabel it as a direct
-  household-structure estimate or cite an unissued NFHS-6 result.
+  household-structure estimate or cite an unverified NFHS-6 metric.
 
 ## 10. PYQ-based analytical application
 

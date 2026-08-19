@@ -131,11 +131,144 @@ sufficient ethical ceiling.
 - ⚠️ **Mains (15 marks):** Explain constitutional morality's role in guiding a civil servant when
   legal rules and personal conscience appear to diverge.
 
-## 10. Study links
+## 10. Crisis of conscience (historical demand — primary owner)
+
+> ⚠️ 2019 GS-IV Q3(b) (historical demand, routed here): explain the meaning of "crisis of
+> conscience" and how it manifests in the public domain.
+
+- ⚠️ **Definition:** a crisis of conscience arises when an individual's deeply held internal moral
+  sense (conscience — Section 2) comes into *acute, felt* conflict with an external demand —
+  an instruction, a law, an institutional expectation, or even a prior commitment of their own —
+  such that compliance would require acting against what they believe to be fundamentally right.
+- ⚠️ **How it differs from an ordinary ethical dilemma (see `09`):** an ordinary dilemma is a
+  conflict between two or more *legitimate* duties/values, where reasonable people could favour
+  either option (e.g., loyalty to a colleague vs institutional transparency). A crisis of conscience
+  is sharper: the person experiences one side of the conflict as a *near-inviolable* personal moral
+  commitment, so that compliance feels like a betrayal of self, not merely a difficult trade-off. It
+  is a dilemma with unusually high subjective stakes for the individual's own moral identity, not a
+  different category of conflict.
+- ⚠️ **How it differs from a legal violation:** a legal violation is a breach of codified law,
+  assessed externally and objectively. A crisis of conscience can occur entirely *within* full legal
+  compliance (an official following an entirely lawful order that nonetheless violates their
+  personal moral conviction) — the crisis is internal and psychological, not a question of whether
+  a law was broken.
+- ⚠️ **Manifestation in the public domain:** publicly, a crisis of conscience surfaces as
+  resignation, public dissent, whistleblowing, conscientious objection to a specific duty, or
+  visible internal distress/paralysis in decision-making — it becomes an *administrative* problem
+  the moment it affects the official's capacity to discharge their role, not merely a private
+  psychological event.
+
+### Response ladder for a crisis of conscience
+
+> ⚠️ In ascending order of formality/visibility — start at the lowest rung that adequately resolves
+> the crisis; escalate only if it does not.
+
+1. **Private reflection and internal reasoning check** — apply the moral-theory triangulation (`08`)
+   to test whether the felt conviction survives deliberate scrutiny, not only intuition (`08`,
+   Section 10).
+2. **Recorded written objection / dissent note on file** — formally register disagreement with a
+   specific instruction while continuing to perform other duties, preserving institutional memory
+   and personal accountability.
+3. **Recusal** from the specific decision, where a colleague/superior can lawfully take it instead.
+4. **Escalation** to a superior authority or oversight body (departmental appeal, CVC reference,
+   judicial review where available).
+5. **Protected disclosure/whistleblowing** through lawful channels (see `19`) where the concern is
+   wrongdoing, not merely a policy disagreement.
+6. **Conscientious objection** — declining to personally execute a specific lawful instruction while
+   remaining in service, where institutional norms permit substitution of duty.
+7. **Resignation** — the last resort, appropriate only where continued participation would require
+   ongoing complicity in what the official genuinely believes to be a serious wrong, and where every
+   preceding rung has failed to resolve the crisis.
+
+- ⚠️ **The governing principle:** conscience justifies escalating *through* this institutional
+  ladder, not *bypassing* it — unilateral defiance or anonymous action at the first sign of
+  discomfort is a failure of institutional discipline, while blind compliance at the top of moral
+  conviction is a failure of ethics; the ladder is what reconciles the two (see Section 8's
+  "lawful institutional channels" principle).
+- ⚠️ **Legality/institutional-duty caution:** conscientious objection and resignation are not
+  cost-free options for a public servant — resignation from a position of public trust has its own
+  ethical weight (abandoning citizens who depend on the service), and conscientious objection to a
+  *lawful* order is not automatically protected; it may still attract disciplinary consequences
+  unless it falls within a recognised institutional exception. Recommend the *lowest* rung of the
+  ladder that genuinely resolves the crisis, precisely because higher rungs carry real institutional
+  and personal cost.
+
+## 11. Snowden-type disclosure as the paradigm conscience-vs-law case (historical demand)
+
+> ⚠️ 2018 GS-IV Q12 (historical demand, routed here jointly with `08`, `22`, `23`): Edward Snowden's
+> 2013 disclosure of classified US surveillance programmes, framed as a moral obligation to inform
+> the public though legally prohibited — weigh the competing values. ✅ 2023 GS-IV Q5(a) (historical
+> demand, routed here): discuss whether conscience is a reliable ethical guide compared to laws and
+> rules.
+
+- ⚠️ This is the sharpest available illustration of the crisis-of-conscience response ladder
+  (Section 10) failing at its lower rungs: Snowden claimed the concern (mass surveillance overreach)
+  could not be resolved through internal channels available to him, leading directly to the ladder's
+  final rungs — public disclosure and self-exile — rather than resignation alone.
+- ⚠️ **Is conscience a reliable guide compared to law/rules?** Conscience has the advantage of
+  flagging concerns that codified rules have not yet anticipated (rules are always somewhat
+  backward-looking; conscience can respond to a genuinely novel wrong). Its reliability limit is
+  that it is *individually* calibrated — it can be miscalibrated by incomplete information, personal
+  bias, or an inflated sense of one's own judgment relative to institutional process. The
+  GS-IV-safe answer: conscience is a necessary supplementary guide, not a substitute for law/rules,
+  and is most reliable when it triggers institutional escalation (the response ladder) rather than
+  unilateral action.
+- ⚠️ **Full theory-triangulated treatment** (deontological duty-conflict, consequentialist
+  cost-benefit of exposure, and the proportionality/necessity test) is in
+  `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md`, Section 12 — this file's
+  distinct contribution is classifying the case correctly as a *sources-of-guidance* conflict
+  (conscience vs law) and applying the response-ladder/institutional-channel analysis to it.
+
+## 12. Selectable named evidence/application units
+
+> Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.
+
+1. *Claim:* A crisis of conscience is distinguishable from an ordinary dilemma by its subjective
+   intensity, not a different logical structure. *Evidence:* an official refusing to certify a
+   report they believe is fundamentally dishonest, despite it being technically within their
+   discretion to sign. *Significance:* shows conscience operating even inside full legal compliance.
+   *Limitation:* subjective intensity is not independently verifiable — institutions must still
+   assess the underlying wrongdoing claim on its merits, not the intensity of feeling alone.
+2. *Claim:* The response ladder prevents both paralysis and unilateral defiance. *Evidence:* a
+   returning officer registering written objection and escalating to the Election Commission rather
+   than publicly refusing an unlawful instruction (see `advanced/10`). *Significance:* models lawful
+   conscience-driven dissent. *Limitation:* the ladder presupposes a functioning escalation/
+   whistleblower mechanism — where it is weak (India's still-uncommenced Whistle Blowers Protection
+   Act, 2014, see `19`), officials face a genuine residual dilemma between silence and unprotected
+   disclosure.
+3. *Claim:* Proportionality determines the ethical defensibility of a Snowden-type disclosure, not
+   the bare fact of disclosure. *Evidence:* Section 11's treatment of the 2018 GS-IV Q12 case.
+   *Significance:* gives a transferable test for any leak-vs-loyalty administrative dilemma.
+   *Limitation:* reasonable observers can disagree, in real time, on whether internal channels were
+   genuinely exhausted first.
+4. *Claim:* Resignation is the costliest, least-preferred rung of the ladder. *Evidence:* the
+   response-ladder ordering (Section 10). *Significance:* discourages premature resignation over
+   issues resolvable at a lower rung. *Limitation:* where an institution is captured or the
+   escalation channel itself is compromised, resignation may become the only conscience-preserving
+   option available.
+
+## 13. Executable directive decoding and answer architecture
+
+| Directive word | What is tested | Structural move |
+|---|---|---|
+| **Explain** | Precise meaning plus manifestation | Define the concept -> distinguish from the nearest confusable concept (dilemma/legal violation) -> how it manifests -> one example |
+| **Discuss** | A reasoned position on reliability/appropriateness | State the claim -> supporting reasoning -> limitation -> reasoned position |
+| **Weigh competing values** (case study) | Structured, non-one-sided balancing | Name each value precisely -> apply the response ladder/institutional-channel test -> proportionality-based verdict |
+
+**10-mark architecture (~150 words):** define the concept precisely -> distinguish it from the
+nearest confusable concept -> apply the response ladder (Section 10) at the appropriate rung -> one
+Indian/administrative example -> one-line conclusion.
+
+**Counterpoint and reasoned verdict (template):** "[Named source of guidance] flags a genuine
+concern here, but its reliability limit is [X]; the defensible response is [named rung of the
+ladder], not [a more extreme alternative], because [reason]."
+
+## 14. Study links
 
 - ✅ Advanced companion: `advanced/10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md`.
 - ✅ `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — dilemma anatomy when sources conflict.
 - ✅ `19_Corruption-Legal-Framework.md` — whistleblower protection as a lawful conscience-channel.
+- ✅ `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md` — the Snowden case's full theory triangulation.
 - ✅ `Polity/advanced/09_Fundamental-Duties.md` — constitutional-duty grounding for constitutional morality.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
@@ -160,3 +293,30 @@ sufficient ethical ceiling.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2020, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 4
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 12 | Edward Snowden released classified government surveillance documents citing moral obligation to inform public; ethically justified even if legally prohibited - weighing competing values | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 3 | (a) constitutional morality - meaning and how to uphold; (b) crisis of conscience - meaning and manifestation in public domain | Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 4 | (a) distinction between laws and rules and role of ethics in formulating them; (b) positive attitude as essential characteristic of a civil servant under stress | Distinguish-Discuss / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 5 | (a) conscience as reliable ethical guide compared to laws and rules; (b) probity essential for effective governance and development | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Edward Snowden released classified government surveillance documents citing moral obligation to inform public; ethically justified even if legally prohibited - weighing competing values
+- (a) constitutional morality - meaning and how to uphold; (b) crisis of conscience - meaning and manifestation in public domain
+- (a) distinction between laws and rules and role of ethics in formulating them; (b) positive attitude as essential characteristic of a civil servant under stress
+- (a) conscience as reliable ethical guide compared to laws and rules; (b) probity essential for effective governance and development
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

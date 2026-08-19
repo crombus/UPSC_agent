@@ -147,6 +147,29 @@ Guide RNA identifies target DNA
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — emerging AI-biology design and governance intersections.
 - ✅ `../../Environment-and-Ecology/basic/16_Environmental-Impact-Assessment-and-NGT.md` — environmental risk, governance and regulatory process overlaps.
 
+## Core answer architecture — genetic engineering, biosafety and farm choice
+
+**Thesis choice.** GM and gene editing must be evaluated trait-by-trait and technique-by-technique: neither “technology is always safe” nor “editing is automatically the same as transgenics” meets the demand.
+
+**10-mark spine.** Define the intervention and mechanism; distinguish conventional breeding/transgenics/gene editing; map RCGM–GEAC–FSSAI roles; state the intended benefit and an evidence-based risk question.
+
+**15/20-mark spine.** Use **trait and mechanism → field/farmer/public-health benefit → biosafety and regulatory pathway → ecology, resistance, seed/market and equity trade-offs → monitored verdict**.
+
+**Evidence units.**
+- **Claim:** CRISPR changes DNA through targeted recognition and repair → **guide RNA directs Cas to a sequence and cellular repair creates the edit** → it can make more targeted changes than broad mutation breeding → **qualification:** targeted does not mean consequence-free; off-target effects, trait context and ecological performance still need assessment.
+- **Claim:** India’s biosafety governance is staged → **RCGM handles research/contained work while GEAC appraises environmental release; FSSAI has food-safety functions** → separates laboratory clearance from environmental/food outcomes → **qualification:** institutional approval is not a substitute for post-release monitoring, traceability and farmer information.
+- **Claim:** agricultural value is context-dependent → **insect-resistance, stress-tolerance or nutritional traits can reduce a specific constraint** → technology may contribute to productivity or pesticide-risk reduction → **qualification:** resistance management, gene flow, biodiversity, seed access, credit and market power determine whether benefits reach diverse farmers.
+
+**Verdict.** Support transparent, science-based and participatory regulation with public evidence, stewardship and choice rather than blanket approval or blanket prohibition.
+
+## Routed PYQ evidence — gene regulation and reproductive-technology boundaries
+
+- **RNA interference:** small RNA molecules guide sequence-specific suppression of target messenger RNA, reducing expression of a gene. It can be a research, medical or crop-protection mechanism; it is not the same as cutting DNA with CRISPR.
+- **Pronuclear/mitochondrial replacement:** pronuclear transfer moves intended parents’ nuclear pronuclei into a donor zygote with healthy mitochondria to reduce risk of specified mitochondrial disease. It does not repair all nuclear-gene disorders and raises consent, germline and regulation questions.
+- **Artificial chromosomes and microsatellites:** an artificial chromosome is an engineered DNA carrier with chromosome-like elements; microsatellites are short repeated DNA sequences used as genetic markers. A marker can reveal relatedness/variation but does not establish a trait’s cause by itself.
+- **Embryo editing/stem-cell transfer:** distinguish somatic therapy, germline alteration, stem-cell research and reproductive cloning; ethical acceptability and legal permission must never be inferred from laboratory feasibility.
+- **Bt crop reminder:** Bollgard/Bollgard-II use Bt cry-gene insect resistance; gene stacking can delay resistance but never removes the need for refuge, pest monitoring and resistance management.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

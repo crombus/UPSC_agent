@@ -124,9 +124,131 @@ under pressure, crisis and competing personal-professional demands.
 - ⚠️ **Mains (15 marks):** Analyse the role of empathy and self-regulation in effective disaster-
   management leadership, with reference to a hypothetical district-level case.
 
-## 10. Study links
+## 10. Historical demand: EQ vs cognitive ability, and moral intuition's EQ dimension
+
+> ⚠️ 2023 GS-IV Q4(a) (historical demand, routed here): "discuss" the claim that emotional
+> intelligence (EQ) is key to success, over and above cognitive abilities alone.
+
+- ⚠️ **The claim, precisely stated:** cognitive ability (IQ) predicts task-competence and technical
+  problem-solving; EQ additionally predicts *how well that competence is deployed* under
+  interpersonal and ethical pressure — the two are complementary, not substitutes, but EQ is the
+  better predictor of *sustained* administrative and leadership success because most real
+  administrative failure is relational/ethical (poor stakeholder handling, loss of composure,
+  favouritism under pressure), not a pure knowledge deficit.
+- ⚠️ **Administrative evidence for the claim:** two officers with identical UPSC-tested cognitive
+  ability can produce very different outcomes in an identical crisis (e.g., a law-and-order
+  breakdown) depending on which one regulates panic, reads the crowd's fear accurately (empathy)
+  and de-escalates (social skill) — the *cognitive* content of the decision is similar; the EQ
+  content determines whether it is executed successfully.
+- ⚠️ **Limit of the claim:** EQ cannot substitute for technical/legal competence — an empathetic but
+  legally uninformed officer can still make a wrong decision; the defensible position is that EQ
+  and IQ are *jointly necessary*, with EQ mattering disproportionately at the point of execution
+  under stress, not that EQ alone suffices.
+
+### Moral intuition vs moral reasoning — the EQ-linked dimension
+
+- ⚠️ **Moral intuition** here refers to the fast, felt, often affect-driven "this feels wrong" judgment
+  that draws directly on EQ's empathy and self-awareness components — it is what allows an officer
+  to sense a citizen's distress or a colleague's concealment *before* any deliberate analysis.
+- ⚠️ **Moral reasoning** is the slower, deliberate application of a theory or rule (deontological,
+  consequentialist, virtue-based — see `08`) to test and, where necessary, correct that intuition.
+- ⚠️ **EQ's specific contribution:** self-awareness lets an official recognise when a strong
+  intuitive reaction (anger, sympathy, disgust) may be biasing judgment, prompting a deliberate
+  reasoning check before acting — EQ is therefore the regulatory bridge between intuition and
+  reasoning, not a competing third channel. (Full definitional treatment of intuition vs reasoning,
+  including their formal strengths/limits, is in `08`; the philosophical grounding is in `10`.)
+
+## 11. Wisdom in administration and empathy/compassion as vital attributes (historical demand)
+
+> ⚠️ 2022 GS-IV Q1(a)-(b) (historical demand, routed here jointly with `09`): critically evaluate
+> "wisdom in administration" against a "travesty of justice in service delivery," and explain
+> empathy and compassion as vital attributes for civil servants.
+
+- ⚠️ **Wisdom in administration** = practical judgment (Aristotelian *phronesis*, see `07`, `08`)
+  applied under uncertainty and incomplete information — it is what allows a rule to be applied with
+  contextual sensitivity rather than mechanically, avoiding a "travesty of justice" that follows the
+  letter of a rule while defeating its purpose (e.g., denying a genuine welfare claimant on a minor
+  documentation technicality despite clear substantive eligibility).
+- ⚠️ **The travesty-of-justice risk is EQ-linked:** an official low in empathy is more likely to apply
+  a rule mechanically without noticing the human cost; wisdom requires *both* legal/technical
+  competence and the empathetic perception that flags when literal compliance would produce an unjust
+  result — directly reinforcing `01`'s legality-vs-propriety distinction.
+- ⚠️ Empathy/compassion (full definitional treatment in `04`) is "vital" specifically because it is
+  the input that alerts an otherwise procedurally correct official to a wisdom-requiring case in the
+  first place — without it, "wisdom in administration" has no trigger to activate.
+
+## 12. Selectable named evidence/application units
+
+> Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.
+
+1. *Claim:* EQ determines execution quality even when IQ/technical competence is held constant.
+   *Evidence:* the 2025 GS-IV Q7 DC "Vijay" case study (disaster relief amid personal bereavement).
+   *Significance:* shows self-regulation and motivation, not fresh technical knowledge, as the
+   binding constraint in the case. *Limitation:* the case still required correct technical disaster-
+   response decisions — EQ enabled, but did not replace, competence.
+2. *Claim:* Empathy prevents rule-mechanical injustice. *Evidence:* a counter-clerk recognising an
+   elderly applicant's confusion and adapting the explanation process (Section 4). *Significance:*
+   operationalises "wisdom in administration" at the frontline. *Limitation:* individual empathy is
+   not scalable without procedural redesign (simplified forms, assisted-filing counters).
+3. *Claim:* Self-awareness is the precondition for correcting a biased intuitive judgment.
+   *Evidence:* an officer recognising personal irritation with a repeat complainant before deciding
+   to reject a genuine grievance. *Significance:* shows EQ mediating between intuition and reasoned,
+   fair decision-making. *Limitation:* self-awareness training is difficult to verify externally;
+   institutions still need independent grievance-redress checks as a backstop.
+4. *Claim:* Emotional labour is a real, measurable cost of public-facing roles. *Evidence:*
+   Hochschild's *The Managed Heart* (1983) applied to a citizen-facing counter staff maintaining
+   courtesy under provocation. *Significance:* justifies institutional support (staff rotation,
+   grievance channels for staff) as part of an ethical administration, not only citizen-facing
+   reform. *Limitation:* over-emphasis on staff wellbeing must not become an excuse for poor service.
+
+## 13. Executable directive decoding and answer architecture
+
+| Directive word | What is tested | Structural move |
+|---|---|---|
+| **Discuss** | Balanced claim-testing | State the claim -> supporting mechanism -> limitation -> reasoned position |
+| **Analyse** | Component-by-component breakdown | Name each EI component engaged -> mechanism -> Indian/case example -> safeguard against misuse |
+| **Critically evaluate** | Strength and weakness both required | Evidence for -> evidence/limitation against -> weighted verdict |
+
+**10-mark architecture (~150 words):** name the EI component(s) -> mechanism connecting it to
+ethical/administrative outcome -> one Indian/case example (Section 11) -> one safeguard against its
+misuse -> one-line conclusion.
+
+**Counterpoint and reasoned verdict (template):** "EQ [named component] explains [X improvement],
+but without [technical competence / institutional safeguard], EQ alone [named risk]; the balanced
+verdict is that EQ and cognitive competence are jointly, not alternatively, necessary."
+
+## 14. Study links
 
 - ✅ Advanced companion: `advanced/05_Emotional-Intelligence-in-Administration.md`.
 - ✅ `22_Case-Study-Method-and-Answer-Architecture.md` — applying EI within the case-study framework.
 - ✅ `04_Aptitude-and-Foundational-Values-for-Civil-Service.md` — empathy/compassion's value context.
 - ✅ `03_Attitude-Content-Structure-and-Persuasion.md` — the affective component of attitude.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-IV
+- **Routed question demands:** 5
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-IV | 5 | (a) probity in governance - meaning and measures for ensuring probity; (b) emotional intelligence as ability to make emotions work for you | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 2 | (a) hatred destructive of wisdom and conscience - do you agree and justify; (b) main components of emotional intelligence and whether they can be learned | Agree-Justify / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 4 | (a) how to build suitable attitude needed for a public servant; (b) whether emotional intelligence helps overcome crisis of conscience without compromising ethical stand | Discuss / Critically examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 1 | (a) wisdom in administration and travesty of justice in service delivery; (b) empathy and compassion as vital attributes for civil servants | Critically evaluate (a); Explain (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-IV | 4 | (a) emotional intelligence (EQ) as key to success over cognitive abilities alone; (b) moral intuition vs moral reasoning | Discuss (a); Differentiate (b) · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) probity in governance - meaning and measures for ensuring probity; (b) emotional intelligence as ability to make emotions work for you
+- (a) hatred destructive of wisdom and conscience - do you agree and justify; (b) main components of emotional intelligence and whether they can be learned
+- (a) how to build suitable attitude needed for a public servant; (b) whether emotional intelligence helps overcome crisis of conscience without compromising ethical stand
+- (a) wisdom in administration and travesty of justice in service delivery; (b) empathy and compassion as vital attributes for civil servants
+- (a) emotional intelligence (EQ) as key to success over cognitive abilities alone; (b) moral intuition vs moral reasoning
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

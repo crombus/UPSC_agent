@@ -217,6 +217,26 @@ Never state that a species "has been downlisted/uplisted" without naming the ass
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Say whether the question asks about **scientific extinction risk**, **Indian legal protection**, or **trade regulation**. They are complementary layers, not synonyms.
+- **Thesis:** endemism intensifies risk because a restricted range removes the spatial buffer against habitat loss, but a Red List assessment must still be translated into habitat and legal action.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Risk can arise through more than a falling headcount. | **IUCN Criteria A–E** → a taxon may qualify through decline, tiny/restricted range, small declining population, very small population or quantitative analysis. | Never assign a category without the assessment scale and year. |
+| Science, law and infrastructure must be read together. | **Great Indian Bustard** → Critically Endangered assessment, Indian wildlife-law protection and the **21 March 2024 M.K. Ranjitsinh** remedial redesign expose the transmission-line/renewable-siting tension. | The order redesigned a remedy; it is not proof that mitigation is complete or that population recovery has occurred. |
+| Data gaps require precaution, not complacency. | **Data Deficient** status → assessment evidence is inadequate. | DD is neither a threatened category nor evidence of safety. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** define endemism, show one criterion/risk pathway and give one named Indian case.
+- **15/20 marks:** use a three-layer structure — IUCN assessment → Wildlife Protection Act → habitat/implementation and, where relevant, CITES; end with a landscape-level verdict.
+- **2026 species route:** **Western hoolock gibbon (*Hoolock hoolock*)** is **Endangered** on the IUCN Red List (IUCN record checked 14 August 2026); it is a forest-canopy, brachiating ape of north-eastern India with a range extending beyond India. Habitat fragmentation and hunting/capture are the safe threat categories. Do not turn a historical population estimate into a current count without the assessment year.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

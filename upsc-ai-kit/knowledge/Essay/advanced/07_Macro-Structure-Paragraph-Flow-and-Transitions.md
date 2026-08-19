@@ -5,7 +5,7 @@
 > **Core area:** Diagnosing and repairing weak paragraph flow;
 > engineering transitions that carry argumentative weight rather than
 > decorative connectives.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Section 9.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -153,9 +153,11 @@ be checked against the essay's real content, not filled in generically.
 - ❌ **Generic connectives standing in for real transitions.** →
   Protocol: replace "furthermore/moreover" with a phrase naming the
   specific prior claim being extended.
-- ❌ **Counter-view paragraph missing or too brief.** → Protocol: always
-  include a substantive paragraph testing the strongest objection before
-  the conclusion (`08`).
+- ❌ **A serious counter-view paragraph missing or too brief.** →
+  Protocol: where a non-duplicative objection genuinely tests the thesis,
+  include a substantive paragraph before the conclusion (`08`). Where its
+  qualification is already fully handled inside a body cycle, do not add a
+  token “on the other hand” paragraph merely to satisfy a formula.
 
 ## 13. 📰 Dated anchor / practice lab / transfer task
 

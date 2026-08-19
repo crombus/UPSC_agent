@@ -87,6 +87,111 @@
 - ⚠️ Assess how European companies used Indian political rivalries during the Carnatic Wars.
 - ⚠️ Discuss the shift from mercantile factories to fortified settlements and political intervention.
 - ⚠️ Analyse the role of naval power and finance in the Anglo-French struggle.
+
+## 8. Answer architecture (10/15/20-mark support)
+
+> Purpose: support **comparative-outcome, mechanism, cultural-transfer and periodisation** demands on European entry, and substantively answer the routed Prelims demands below rather than merely listing them.
+
+### 8.1 Demand and directive map
+
+| Demand family | Typical directive signals | Answer spine to use |
+|---|---|---|
+| Why the English won | "Explain why", "Account for English supremacy" | Comparative variables (state form, finance, navy, local base) → decisive variable → qualification |
+| Trade-to-territory transition | "Trace the shift", "How did traders become rulers?" | Commercial phase → fortification → fiscal-military intervention → sovereignty |
+| Use of Indian politics | "Assess how Europeans exploited Indian rivalries" | Succession disputes → military subsidy → client rulers → precedent for later alliance systems |
+| Portuguese impact | "Assess Portuguese contribution/impact" | Maritime control → religious/institutional transfer → biological/material transfer → decline |
+| Comparative company profiles | "Compare the European companies" | Ownership/finance → strategy → geographical priority → outcome |
+| Periodisation | "Was 1757 or 1763 the turning point?" | Criterion first, then evidence, then a defended date |
+
+### 8.2 Qualified thesis options
+
+- **Composite-advantage thesis:** *No single factor explains English supremacy; a joint-stock company answerable to shareholders, supported by superior naval reach, cheaper credit and — after Plassey — the revenues of Bengal, defeated rivals whose Indian operations depended on royal subsidy and European war outcomes.*
+- **State-form thesis:** *The Portuguese and French operated as extensions of monarchies with continental commitments; the English Company operated as a commercial corporation that could reinvest Indian profit in Indian power.*
+- **Continuity thesis (for Portuguese questions):** *Portuguese significance lies less in territorial extent than in the durable transfers they initiated — the Cape route, armed maritime control, missionary institutions, printing and New World crops.*
+- **Contingency thesis:** *European supremacy in India was decided partly in Europe: the Carnatic Wars followed the rhythm of Austrian Succession and Seven Years' War settlements, so Indian outcomes were shaped by treaties signed elsewhere.*
+
+### 8.3 Mark-scaled structure
+
+| Marks | Recommended architecture | Evidence load |
+|---:|---|---|
+| 10 | Thesis → three comparative variables → one decisive factor → verdict | 3 named companies with a distinguishing feature each |
+| 15 | Thesis → phase-wise transition → Carnatic Wars as the decider → Indian-agency qualification → verdict | 5 units including one treaty chain |
+| 20 | Thesis → comparative company table → mechanism of trade-to-territory → Carnatic Wars → Portuguese/Dutch legacies → Indian political context → graded verdict | 6–8 units across all four powers |
+
+### 8.4 Named evidence units (claim → evidence → significance → limit)
+
+**A. Portuguese armed maritime monopoly**
+- **Claim:** The Portuguese introduced a new principle — that seaborne trade could be taxed and policed by force.
+- **Evidence:** Vasco da Gama's arrival at Calicut (1498); Albuquerque's capture of Goa (1510); the *cartaz* pass system and the fortified *Estado da India*.
+- **Significance:** This converted the Indian Ocean from an open commercial arena into a contested, licensed one, setting the template every later European company followed.
+- **Limit/caution:** Portuguese control was never complete; Indian and Arab shipping continued, and Portuguese power weakened as Dutch and English naval strength grew.
+
+**B. Portuguese institutional and biological transfers (routed Prelims demand)**
+- **Claim:** The Portuguese impact on India was cultural and material as much as naval.
+- **Evidence:** ⚠️ American-origin food plants reached India through Portuguese maritime networks — **papaya, pineapple and guava**, alongside chilli, potato, tobacco, cashew, custard apple and maize. ✅ Missionary institutions followed the flag: **St Francis Xavier**, a founding member of the **Society of Jesus (Jesuits)**, reached Goa in 1542 and became the central figure of Catholic mission in the region; his remains are enshrined in the **Basilica of Bom Jesus in Old Goa**, part of the Churches and Convents of Goa inscribed as a UNESCO World Heritage property.
+- **Significance:** Gives any "assess Portuguese impact" answer a dimension beyond forts and battles — diet, agriculture, religion, architecture and print culture were permanently altered.
+- **Limit/caution:** ⚠️ Diffusion dates for individual crops are approximate; write "introduced through Portuguese maritime contact" rather than assigning a precise year. Do not claim Xavier founded the Jesuit order alone — he was one of its founding companions under Ignatius Loyola.
+
+**C. Dutch commercial priority and withdrawal**
+- **Claim:** The Dutch were commercially formidable but strategically uninterested in Indian territory.
+- **Evidence:** VOC founded 1602; settlements at Pulicat and Nagapattinam; the Amboyna episode (1623) pushed English attention away from the spice islands; Dutch power in Bengal was broken at Bedara/Hooghly (1759).
+- **Significance:** Explains why the decisive European contest in India was Anglo-French, not Anglo-Dutch, and shows that commercial strength without territorial commitment did not translate into political power.
+- **Limit/caution:** The Dutch remained significant in Indian textile and indigo trade long after they ceased to be a political threat.
+
+**D. English fortified settlement chain (routed Prelims demand)**
+- **Claim:** English power grew through a chain of coastal footholds acquired by permission, purchase or transfer rather than by early conquest.
+- **Evidence:** Charter of 1600; Masulipatnam and the early Coromandel factories; **Surat (1613)** after Mughal permission, with Hawkins and Sir Thomas Roe as the diplomatic route; **Madras/Fort St George (1639)**; **Bombay** transferred from the Crown to the Company in **1668** after coming to England through the Portuguese royal marriage; the Calcutta settlement conventionally dated **1690** and associated with Job Charnock; the **1717 farman** securing duty-free trade in Bengal.
+- **Significance:** Each acquisition added a defensible base, a mint or customs point and a garrison — the physical infrastructure that later made territorial intervention feasible.
+- **Limit/caution:** The "founder of Calcutta" attribution to Charnock is disputed; state the settlement date, not a founding claim.
+
+**E. French challenge and its structural limits**
+- **Claim:** The French matched the English militarily but not financially or navally.
+- **Evidence:** Compagnie des Indes (1664, Colbert); Pondicherry and Chandernagore; Dupleix's intervention in Deccan and Carnatic succession disputes; defeat at Wandiwash (1760) by Eyre Coote against Lally; Treaty of Paris (1763).
+- **Significance:** Demonstrates that the technique of installing client rulers was French in origin and English in exploitation — the direct ancestor of the subsidiary system.
+- **Limit/caution:** French failure owed much to state dependence and to European war settlements; avoid explaining it by generalship alone.
+
+**F. Indian agency in the European contest**
+- **Claim:** Europeans did not act on a passive stage; Indian rulers, bankers and merchants used them as instruments.
+- **Evidence:** Carnatic and Hyderabad succession disputes drew in both companies; Mughal and Nawabi permission governed factory rights from Surat (1613) to the 1717 farman.
+- **Significance:** Prevents a teleological answer in which European victory is assumed from 1498.
+- **Limit/caution:** Indian agency did not extend to naval power, which remained a European monopoly and proved decisive.
+
+### 8.5 Trade-to-territory mechanism (use for "how did traders become rulers?")
+
+```text
+Charter/monopoly finance in Europe
+   -> factory by local permission (Surat 1613)
+   -> fortification for defence of stock and specie (Fort St George 1639)
+   -> garrison + private trade privileges (dastak abuse after the 1717 farman)
+   -> intervention in succession disputes (Carnatic, Hyderabad)
+   -> client ruler pays subsidy -> Company funds a standing sepoy army
+   -> revenue control (Bengal) -> Indian resources finance further conquest
+```
+
+### 8.6 Comparative company matrix
+
+| Power | Ownership/finance | Indian strategy | Geographical priority | Outcome |
+|---|---|---|---|---|
+| Portuguese | Crown enterprise | Fortified ports, *cartaz*, mission | Goa and the west coast | Reduced to enclaves |
+| Dutch | Joint-stock, strongly capitalised | Bulk commerce, minimal territory | Shifted to the Indonesian archipelago | Withdrew as a political force |
+| English | Joint-stock, shareholder-driven, London credit | Fortified settlements → alliance → revenue | Bengal, Coromandel, western coast | Territorial supremacy |
+| French | State-backed company | Client rulers and subsidiary troops | Carnatic and the Deccan | Politically eliminated after 1763 |
+| Danish | Small chartered venture | Trading posts only | Tranquebar and Bengal | Commercially marginal |
+
+### 8.7 Verdict scaffolds
+
+- **Comparative verdict:** "The English won not because their traders were abler but because their institution could convert Indian profit into Indian power while its rivals depended on European treasuries."
+- **Portuguese verdict:** "Portuguese territorial failure and Portuguese cultural durability are both real; an answer that records only the first is incomplete."
+- **Periodisation verdict:** "1757 decided who would rule Bengal; 1763 decided that no other European power would contest it — the two dates answer different questions."
+
+### 8.8 Factual-risk cautions
+
+- Wandiwash (1760) was an Anglo-French engagement, not Anglo-Portuguese.
+- Aix-la-Chapelle closed the **First** Carnatic War; the Treaty of Paris closed the third phase.
+- The 1717 farman granted privileges; it did not create the Company, chartered in 1600.
+- Do not write that the Portuguese "introduced" any crop in a specific year; use maritime-transfer language.
+- Do not convert the Charnock–Calcutta association into an uncontested founding.
+- Bombay reached the Company by Crown transfer, not by conquest or by Charnock.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

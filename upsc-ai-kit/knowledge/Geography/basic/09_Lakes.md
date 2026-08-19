@@ -97,6 +97,105 @@ tectonically inherited basins profoundly deepened and modified by Pleistocene ic
 
 Geography → Physical Geography → Lakes (G.C. Leong; Majid Husain)  
 Geography → Lakes → Lagoons / Wetlands (applied CA)
+
+## 9. Shrinking and dying lakes: the change-in-critical-features demand
+
+> **Why this section exists:** the syllabus explicitly names *changes in critical geographical
+> features, including water bodies* and their effects, and a routed Prelims demand concerns lake
+> shrinkage through human activity. The file taught lake origins but not lake **change**.
+
+### 9.1 The two ways a lake dies
+
+```text
+A. HYDROLOGICAL DEATH - the water budget fails
+   inflow (river + rainfall + groundwater)  <  outflow (evaporation + abstraction + seepage)
+   -> level falls -> area contracts -> salinity concentrates -> ecosystem collapses
+
+B. SEDIMENTARY / BIOLOGICAL DEATH - the basin fills
+   sediment inflow + nutrient enrichment -> shallowing -> algal dominance
+   -> oxygen depletion on decay -> fish kill -> marsh -> dry land
+```
+
+- ⚠️ **All lakes are temporary landforms.** Every lake is filling with sediment or draining as its
+  outlet cuts down. Human action changes the *rate*, sometimes by orders of magnitude.
+
+### 9.2 Worked cases of induced shrinkage
+
+| Lake | Mechanism of change | Effects |
+|---|---|---|
+| ⚠️ **Aral Sea** | Its two feeder rivers, the Amu Darya and Syr Darya, were diverted from the 1960s for large-scale irrigation, chiefly cotton, in a basin where evaporation is high | The sea fell and split into separate water bodies; salinity rose far beyond the tolerance of the native fishery, ending a commercial fishing economy; ports were stranded far inland; the exposed bed became a source of **salt-and-dust storms** carrying agrochemical residues onto surrounding farmland and settlements; regional climate moderation by the water body weakened. A dam later helped stabilise and partially restore the northern remnant, showing the loss is not wholly irreversible |
+| ⚠️ **Lake Chad** | A shallow, endorheic lake in a semi-arid basin, subjected simultaneously to a multi-decadal decline in rainfall, greatly increased irrigation abstraction from its feeder rivers, and rapid population growth around it | Drastic area contraction; collapse of fishing and flood-recession farming livelihoods; competition between farmers, herders and fishers; displacement and, in combination with other factors, aggravated regional insecurity. It is the standard example of a **water body whose shrinkage becomes a security question** |
+| ⚠️ **Endorheic saline lakes generally** | No outlet, so any inflow reduction is expressed directly as level fall and salinity rise | Extremely sensitive to upstream abstraction; recovery requires restoring inflow, not local measures |
+
+> 🔑 **Trap:** a lake with **no outlet** is not "stagnant"; it loses water by evaporation, which is
+> precisely why it concentrates salts and why it is hypersensitive to any reduction in inflow. This
+> is the mechanical reason inland drainage basins hold the world's salt lakes.
+
+### 9.3 Eutrophication: death by enrichment
+
+- ⚠️ **Mechanism:** nutrient loading, chiefly nitrogen and phosphorus from fertiliser runoff,
+  untreated sewage and detergents, triggers excessive algal growth; the bloom shades out submerged
+  plants; when the algae die, decomposition consumes dissolved oxygen; the resulting hypoxia kills
+  fish and invertebrates; the cycle repeats and the lake shallows into marsh.
+- ⚠️ **Why urban lakes are worst affected:** they receive concentrated sewage and stormwater, their
+  catchments are sealed so runoff arrives fast and dirty, their inflow channels are often
+  encroached, and their flood-buffering function is lost at the same time — which is why lake
+  degradation and **urban flooding** are two symptoms of one failure (see
+  `28_Human-Settlements-and-Urbanisation.md`).
+- ⚠️ **Restoration logic:** intercept and treat the inflow first; remove accumulated nutrient-rich
+  sediment; restore the buffer and catchment; only then attempt biological restoration. Aeration or
+  de-weeding without stopping the nutrient source is a recurring and expensive failure.
+
+> ⚠️ **Factual caution:** do not quote a lake's area loss percentage, a date of splitting, a salinity
+> value or a fish-catch figure from memory. Describe the mechanism and the direction of change.
+
+## 10. Answer architecture (10/15/20-mark support)
+
+### 10.1 Directive decoding for this topic
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Classify lakes by origin" | Process-based genesis — tectonic, glacial, volcanic, fluvial, coastal, karst, aeolian, organic and artificial — with a named example each | Give a list without the forming process |
+| "Discuss the shrinkage of inland water bodies and its effects" | The water-budget failure mechanism plus the livelihood, ecological, climatic and security effects | Narrate one lake's story |
+| "Why are lakes described as temporary features?" | Infilling and outlet incision as the two natural terminations, accelerated by human action | Treat lakes as permanent |
+| "Examine the ecological value of wetlands and lagoons" | Fisheries, flood buffering, groundwater recharge, biodiversity and salinity regulation, with the trade-offs | Confuse a lagoon with a freshwater lake |
+
+### 10.2 Reusable 15-mark spine — "changes in inland water bodies and their effects"
+
+1. **Thesis:** the shrinkage of major inland water bodies is rarely climatic alone; it is
+   overwhelmingly a **diversion-and-abstraction outcome amplified by climatic variability**, and its
+   effects propagate from ecology to livelihood to human security.
+2. **Mechanism:** the water budget of a closed or slow-flushing basin, and why evaporation makes
+   such basins hypersensitive to inflow reduction.
+3. **Named evidence, two contrasting cases:** the Aral Sea as diversion-dominated; Lake Chad as
+   rainfall-decline plus abstraction plus population pressure.
+4. **Effect chain:** area loss -> salinity or nutrient change -> fishery and biodiversity collapse ->
+   exposed bed and dust or salt export -> loss of local climatic moderation -> livelihood loss ->
+   migration and, where institutions are weak, conflict.
+5. **The Indian register:** lagoon and wetland systems face the parallel pressures of sedimentation,
+   encroachment, aquaculture conversion, catchment change and nutrient loading.
+6. **Balance:** partial reversal is possible where inflow is restored, as the northern Aral remnant
+   shows; and not every lagoon is degrading — mouth management can restore salinity balance.
+7. **Conclusion:** graded — inland water bodies are better treated as **basin-scale accounting
+   outcomes** than as local sites, so their protection is an upstream allocation decision.
+
+### 10.3 Evidence units available in this file
+
+> **Claim:** an irrigation decision taken hundreds of kilometres upstream can destroy a fishery,
+> a port function and a regional climate buffer. **Evidence:** diversion of the Amu Darya and Syr
+> Darya for irrigation caused the Aral Sea to fall, split and become hypersaline, stranding ports
+> and ending its fishery. **Significance:** it is the clearest available demonstration that water
+> bodies are the terminal accounting point of basin-wide decisions. **Limitation:** partial
+> restoration of the northern remnant after inflow was retained shows the outcome was a policy
+> choice, not an inevitability — which is the analytically stronger conclusion.
+
+> **Claim:** lagoons and lakes deliver services whose value is invisible until they fail.
+> **Evidence:** Chilika, a brackish lagoon and an early Indian Ramsar site, sustains fisheries and
+> migratory-bird habitat whose condition depends on the salinity regime set by its sea mouth.
+> **Significance:** it shows that "conservation" of such a system is a hydrological management
+> problem, not a fencing problem. **Limitation:** salinity management involves genuine trade-offs
+> between fisheries, weed control and freshwater-dependent uses, so there is no single optimum.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

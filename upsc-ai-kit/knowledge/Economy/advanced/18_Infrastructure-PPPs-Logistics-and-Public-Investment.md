@@ -181,29 +181,19 @@ contingent liabilities or future user and taxpayer costs.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
 
-- **Years represented:** 2018, 2020, 2021, 2022
-- **Paper(s):** GS-II, GS-III
-- **Routed question demands:** 6
+- **Years represented:** 2022
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 1 | Energy access for Sustainable Development Goals in India | Comment · 10 marks · 150 words | Cross-routed to general-infrastructure and exam-complete Core energy-access owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2018 | GS-III | 9 | CPEC as OBOR subset and India's strategic objections | Enumerate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 11 | Capital formation concept and PPP concession agreement design factors | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 12 | Infrastructure investment role in India's rapid and inclusive growth | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-II | 6 | Gati-Shakti and coordination between government and private sector | Discuss · 10 marks · 150 words | Cross-cutting; policy coordination and infrastructure logistics both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 1 | Role of PPP model in railway station redevelopment | Examine · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
-- Energy access for Sustainable Development Goals in India
-- CPEC as OBOR subset and India's strategic objections
-- Capital formation concept and PPP concession agreement design factors
-- Infrastructure investment role in India's rapid and inclusive growth
 - Gati-Shakti and coordination between government and private sector
-- Role of PPP model in railway station redevelopment
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

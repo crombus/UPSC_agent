@@ -161,6 +161,42 @@ Department of Defence R&D
 - ✅ `07_Defence-Indigenization-Atmanirbhar-and-Procurement.md` — procurement, production and industrial-policy side.
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` — never conflate missile systems with launch vehicles.
 - ✅ `19_Drones-UAVs-and-Robotics-Policy.md` — another major dual-use and military-tech area.
+## Core answer architecture — defence R&D and weapon-status discipline
+
+**Thesis choice.** Defence technology should be judged as a chain from requirement to deployed capability; a public trial is evidence of development, never automatic proof of induction or deterrent readiness.
+
+**10-mark spine.** Define the system family by flight/target role; map DRDO/Service/production responsibilities; give one correctly dated status example; state the operational or industrial limitation.
+
+**15/20-mark spine.** Organise by **threat and system architecture → R&D/test/user-evaluation/procurement chain → named families and strategic significance → industrial, secrecy, escalation and readiness limits**. Do not turn security-sensitive uncertainty into invented range or payload claims.
+
+**Evidence units.**
+- **Claim:** Different missile labels imply different physical and operational logic → **Agni is ballistic, BrahMos is a supersonic cruise missile, Akash is a surface-to-air system and Pinaka is rocket artillery** → classification determines propulsion, trajectory, target and service role → **qualification:** shared propulsion concepts do not make a weapon a space launch vehicle.
+- **Claim:** Test status needs exact vocabulary → **Agni-5 MIRV flight test, Akash-NG user evaluation, QRSAM described as ready for induction, and legacy Akash described as operational** → these examples demonstrate distinct rungs from test to service use → **qualification:** a developmental trial, AoN or contract cannot be recast as deployment.
+- **Claim:** R&D needs an ecosystem beyond one laboratory → **DRDO MSS labs, Services’ user trials, DDP/DPSUs and industry partners** → capability requires integration, production quality, spares and upgrades → **qualification:** exact configuration, range and deployment details can be legitimately undisclosed for security reasons.
+
+**Verdict.** Strategic autonomy is strengthened by reliable development-to-induction conversion, but safety, command-and-control, export controls, escalation and lifecycle sustainment remain material constraints.
+
+## Routed PYQ evidence — defence-technology discrimination
+
+> **Source discipline:** The 2026 Set-A key is provisional. The cards below teach mechanisms and status vocabulary; they do not record or infer an option letter. Public capability detail is deliberately bounded where official sources are sparse.
+
+| Routed demand | Core distinction needed | Status/claim guardrail |
+|---|---|---|
+| Stealth | Low radar cross-section is pursued through shaping and radar-absorbing materials; detection can use sensor/frequency choices rather than assuming invisibility. | Metamaterials must not be described as increasing radar scattering for stealth; public programme detail may be classified. |
+| Mission Sudarshan Chakra | An announced integrated air/missile-defence mission links sensors, command-and-control and interceptors; air defence is not the same as aerial offensive capability. | The stated 2035 objective is a future target. Do **not** call a nationwide shield deployed or infer coverage of every public place from an announcement. |
+| IS 19445:2025 | BIS describes the standard as **Bomb Disposal Systems — Performance Evaluation and Requirements**, covering uniform testing/assessment of protective systems. | A standard can support interoperable evaluation/procurement; it does not prove that every agency has compatible equipment. Do not repeat collaboration claims absent a primary BIS/DRDO source. |
+| CL-20, HMX, LLM-105 | These are high-energy chemical substances discussed as military explosives. | Do not turn a category fact into handling, composition or deployment claims. |
+| THAAD | Terminal High Altitude Area Defense is a US anti-ballistic-missile defence system. | It is not an Israeli radar system or an Indian missile programme. |
+| FOBS | A Fractional Orbital Bombardment System sends a payload into partial orbit before de-orbiting toward a target. | It is a space-weapon concept, not an ordinary satellite, an ICBM label or a demonstrated Indian capability. |
+
+> **Audit source (retrieved 2026-08-14):** BIS *Standard of the Month* for **IS 19445:2025** (`https://www.bis.gov.in/wp-content/uploads/2026/03/SOM_Feb_1_2026.pdf`). The document was a PDF container to the fetcher; only its verified standard title/purpose is used above.
+
+**Mains use:** An integrated defence answer should connect detection, decision, interceptor and industrial support, then distinguish **announced → tested → user-evaluated → contracted → inducted → deployed** at every example.
+
+## Historical Mains Core route — air-defence-system comparison (S-400)
+
+A safe 2021-style answer compares an integrated air-defence system by **sensor/radar coverage → command-and-control/fusion → interceptor family and engagement envelope → mobility/networking → training/logistics/interoperability**, rather than reciting unverified range claims. **Evidence:** S-400 is a mobile, layered surface-to-air/anti-missile system with a radar-command-interceptor architecture. **Significance:** it can strengthen area/asset defence against multiple aerial threat classes. **Qualification:** no system is invulnerable—saturation, electronic warfare, suppression tactics, terrain, readiness and network integration condition effectiveness; do not assert classified Indian deployment detail.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

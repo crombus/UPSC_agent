@@ -18,19 +18,19 @@
 ## 1. Purpose and scope
 
 This topic is the practice engine for the whole folder: it routes the 16
-recent prompts to the relevant earlier topics and gives a concise
-interpretive outline for each — never a full model essay — while
-`../PYQ-Corpus-2013-2025.md` supplies all 100 prompts, plus
-a method for running timed practice loops and logging errors for spaced
-reattempt.
+recent prompts to the relevant earlier topics and gives concise
+interpretive outlines — never memorised model essays — while
+`../PYQ-Corpus-2013-2025.md` supplies all 100 prompts. It owns the
+complete two-essay mock, error-log, spacing and blind-transfer loop.
 
 ## 2. Core terms in plain language
 
 - **Interpretive outline:** a short, bulleted sketch of thesis direction,
   key dimensions and synthesis — enough to plan from, not a finished
   essay.
-- **Practice loop:** one full cycle of choose → decode → plan → draft
-  (full or partial) → self-evaluate → log.
+- **Practice loop:** one full mock cycle of choose → decode → plan →
+  complete two essays → self-evaluate → log; a partial draft is a
+  separately labelled micro-drill, never a mock.
 - **Error log:** a running record of specific weaknesses found during
   self-evaluation (`15`), routed to a topic file for targeted revision.
 - **Spaced reattempt:** re-doing the same or a related prompt after a
@@ -48,9 +48,11 @@ unattributed for every prompt; this topic follows the same
 quotation-attribution safety rule as `09` — no author is ever attached to
 any of the 16 recent prompts.
 
-⚠️ Prompts drawn from 2013–2023 (`V2` rows) are **not** locally verified.
-Route and practise from them freely, but paraphrase rather than quote them
-verbatim until the official paper for that year has been checked.
+✅ The current ledger classifies **2018–2025 as V1 (64 prompts)**, read
+from local official papers; these prompts may be quoted verbatim, defects
+included. ⚠️ **2013–2017 are V2 (36 prompts)** and must be paraphrased
+until checked against their official paper. Do not use the obsolete
+16-V1/84-V2 split.
 
 ## 4. The central idea and common misreading
 
@@ -67,6 +69,44 @@ For any prompt below: (1) which topic files does it primarily route to?
 (2) what is the central tension? (3) what thesis direction and
 qualification would you choose? (4) what is one Indian illustration you
 can genuinely recall for it? (5) what is the synthesis?
+
+## 5A. Complete mock loop, not a partial-draft substitute
+
+```text
+SELECT one prompt from each Section
+  -> 10-minute joint selection/decode
+  -> Essay 1: 15 plan + 60 draft + 10 revision
+  -> Essay 2: 15 plan + 60 draft + 10 revision
+  -> score EACH essay (15), audit facts/quotes/time
+  -> log one repair and schedule a transfer attempt
+```
+
+Use the 25/95/180 checkpoints from `13`. A completed mock means two
+complete essays in 180 minutes. A plan, opening-only drill or partial
+draft is useful practice but cannot replace a mock.
+
+## 5B. Error-log schema
+
+| Date | Prompt + V1/V2 status | Choice rationale | Checkpoint minutes | Paragraph/evidence defect | Fact/quote source risk | `15` score by essay | One repair | Reattempt date | Blind-transfer prompt |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | 25 / 95 / 180 |  |  | E1: /28; E2: /28 |  |  |  |
+
+Record a fact or quotation risk even when corrected before submission;
+the pattern matters more than a cleaned final draft.
+
+## 5C. Spacing and blind-transfer calendar
+
+| Day | Task | Required evidence |
+|---|---|---|
+| 0 | Complete mock and log one weakness | Both drafts, timing and two audits |
+| 2 | Targeted micro-drill on the weakness | One repaired paragraph or plan |
+| 7 | Blind transfer | Unused **2018–2023 V1** prompt testing the same skill |
+| 21 | Full reattempt | Different Section pairing; compare to Day 0 |
+
+Do not read a supplied outline before the Day-7 prompt. Select an unused
+2018–2023 V1 prompt directly from the ledger, preserve its printed
+wording, and judge whether the *skill* transferred rather than whether a
+memorised outline returned.
 
 ## 6. Dimension-expansion grid — recent 16-prompt routing table with concise interpretive outlines
 
@@ -138,20 +178,20 @@ of any one of them.
   `15`'s self-evaluation and record at least one specific weakness per
   attempt.
 - ❌ **Re-attempting the same prompt immediately** rather than spacing
-  reattempts. → Repair: leave a genuine gap (see `advanced/16` for a
-  spacing method) before re-testing the same weakness.
+  reattempts. → Repair: use the Day 2/7/21 calendar and test the repair
+  first on an unseen 2018–2023 V1 prompt.
 - ❌ **Attaching an author to any of the 16 recent prompts.** → Repair: none is
   printed in either source paper; keep every reference unattributed
   (`09`).
 
 ## 12. Timed micro-drill and self-check
 
-**Drill:** Pick one prompt from Section 6 you have not yet practised.
-Within 15 minutes, write: thesis, 2–3 dimensions with one illustration
-each, the strongest counter-view, and the synthesis — a full
-interpretive plan, not a draft.
+**Drill:** Pick an unused 2018–2023 V1 prompt. Within 15 minutes, write:
+thesis, 2–3 dimensions with one illustration each, the strongest
+counter-view and the synthesis. Do this blind; then enter the result in
+the error log as a transfer task, not as a complete mock.
 
 **Self-check:** Compare your plan to the table's interpretive outline.
 Did you arrive at a genuinely different, equally defensible thesis, or
 did you simply restate the outline without adding your own reasoning?
-Log the result for `advanced/16`'s spaced-reattempt schedule.
+Log the result against the Day-7 transfer row in Section 5C.

@@ -208,6 +208,232 @@ through the adjudicatory tribunal layer above regulatory decisions.
 - ✅ `Polity/basic/Statutory-Regulatory-and-Quasi-Judicial-Bodies.md` — consolidated
   legal-source taxonomy, rights commissions, sector map, quasi-judicial procedure and appeals.
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Scope.** All marks-bearing content for the *statutory, regulatory and quasi-judicial
+> bodies* clause, as it concerns **regulatory governance**, is held **in this file**,
+> including the CCI demand routed here. `advanced/11` is optional enrichment only.
+> ⚠️ **Boundary:** `Polity/basic/Statutory-Regulatory-and-Quasi-Judicial-Bodies.md` owns the
+> legal-source taxonomy, composition and appointment anatomy. This file owns **why**
+> regulators exist, **how** they can fail, and **what** disciplines them.
+
+### 13.0 Direct demands owned by this Core file
+
+**(a) 2023 GS-II Q7 — the Competition Commission of India and abuse of dominant position
+(10 marks, "discuss the role").** Executable route:
+1. State the conceptual foundation first, because it is what separates a governance answer
+   from a company-law answer: **dominance is not unlawful; its abuse is.** Competition law
+   protects the *competitive process*, not individual competitors, and its object is
+   consumer welfare and market access.
+2. Name the regulator and its function: the CCI is the statutory competition regulator under
+   the **Competition Act, 2002**, enforcing the prohibitions on anti-competitive agreements
+   and on abuse of dominant position, and reviewing combinations. Appeals lie to the
+   **NCLAT** and thereafter to the Supreme Court.
+3. Give the analytical content — the forms abuse takes: predatory or unfair pricing, unfair
+   or discriminatory conditions, limiting production or technical development, denial of
+   market access, tying and bundling, and leveraging dominance in one market to enter or
+   protect another.
+4. Governance mechanism: an economy-wide, **ex-post, conduct-based** regulator that
+   complements **sector regulators** (TRAI, CERC, PNGRB, SEBI, IRDAI) which act **ex-ante**
+   on licences and tariffs. The overlap between CCI and sector regulators is a genuine
+   jurisdictional question, not an oversight.
+5. Limitations, which is where the "discuss" marks are: proving dominance requires market
+   definition, which is contested and slow; digital markets raise network effects,
+   zero-price services and data advantages that a turnover-based framework handles poorly;
+   remedies arrive after the market structure has already shifted; and enforcement outcomes
+   are frequently suspended in appeal.
+6. Verdict: the CCI is the correct institution for conduct, and conduct regulation alone is
+   a slow instrument against fast-moving structural market power.
+❌ Do not name a specific CCI case, party, penalty amount or order date; no such source is
+held here. ❌ Do not assert the current status of any competition-law amendment.
+
+**(b) 2018 Prelims Q23 (FSSAI under the Food Safety and Standards Act, 2006) and 2019
+Prelims Q74 (Petroleum and Natural Gas Regulatory Board).** Both are routed here jointly
+with the Polity consolidated file. What this file supplies is the **generic regulator
+anatomy** that makes such statement-based questions answerable even for an unfamiliar
+regulator: every Indian sectoral regulator has (i) a **parent statute** that alone defines
+its powers; (ii) a defined **jurisdiction** — a sector, an activity, or both; (iii) a mix of
+**rule-making, licensing/registration, monitoring and enforcement** functions; (iv) an
+**appellate route**, which for most sector regulators is a specified tribunal rather than a
+direct writ to a High Court; and (v) a **parent ministry** for policy, which is not the same
+as control over regulatory decisions. ⚠️ For **statement-level** Prelims questions the safe
+method is to test each statement against this anatomy and against the statute named in the
+stem, never against a remembered composition. ❌ Composition, membership numbers and
+appointment authority for FSSAI and PNGRB are **not** asserted here; the 2018–2023 Prelims
+keys are not held locally and no option is inferred.
+
+### 13.1 Demand map
+
+| Stem pattern | What is being tested | Opening move |
+|---|---|---|
+| "Independence of regulators" | Trilemma reasoning | Autonomy vs accountability vs expertise, named in sentence one |
+| "Regulatory capture" | Mechanism beyond corruption | Information asymmetry, revolving door, funded research, agenda control |
+| "Need for tribunals vs courts" | Institutional comparison | Expertise and speed against procedural safeguard and constitutional oversight |
+| "Role of \<regulator\>" | Statutory precision plus limits | Parent statute → function → appellate route → limitation |
+| "Quasi-judicial bodies" | Process standards | Notice, hearing, reasoned order, no bias, appeal |
+| Novel regulator (AI, data, gig platforms, crypto, drones) | Transferability | Apply the six-test design checklist (§13.5) |
+
+### 13.2 Qualified theses
+
+- **T1 (trilemma):** "Regulatory independence is not a virtue to be maximised but a variable
+  to be calibrated: insulation buys technical consistency at the cost of democratic
+  answerability, and every design choice pays somewhere."
+- **T2 (capture):** "Capture is usually lawful. It operates through information asymmetry, a
+  revolving door and industry-funded expertise — which is why transparency of consultation
+  and reasoned orders discipline regulators better than closer ministerial control."
+- **T3 (process legitimacy):** "A regulator's legitimacy rests on process, not on
+  independence claimed in its statute: pre-consultation, published responses, reasoned orders
+  and effective appellate review are what make unelected rule-making defensible."
+- **T4 (tribunals):** "Tribunalisation was justified by expertise and speed and has been
+  destabilised by appointment and tenure design — the tribunal question in India is now a
+  question about how members are chosen, not about whether specialised adjudication is
+  desirable."
+
+### 13.3 Mark-scaled structure
+
+**10 marks** — regulator's statutory function; the trilemma or one capture mechanism; one
+named limitation; verdict.
+
+**15 marks** — thesis; why independent regulation exists; autonomy **design features** vs
+accountability **design features** (§13.4); 4–6 evidence units; capture mechanisms and their
+correctives; graded verdict.
+
+**20 marks** — thesis with criteria; the full regulatory cycle (§13.6); the six-test design
+checklist applied to a named or novel sector; regulatory impact assessment and consultation
+quality; the CCI/sector-regulator jurisdictional overlap; the tribunal layer with its current
+unresolved status; federal dimension where the sector is a State subject; verdict with
+reversal condition.
+
+### 13.4 Evidence bank A — autonomy and accountability as design features
+
+| Autonomy feature | What it protects | Accountability feature | What it restores |
+|---|---|---|---|
+| Fixed-term appointment | Insulation from removal for unwelcome decisions | Annual report laid before Parliament | Legislative visibility |
+| Funding from fees/cess rather than annual grant | Freedom from budgetary leverage | Audit of the regulator's own accounts | Financial answerability |
+| Technical/expert composition | Decision quality in complex sectors | Government power to issue policy directions in specified circumstances | Democratic primacy on policy, not on cases |
+| Statutory rule-making power | Ability to act without case-by-case approval | Mandatory consultation and published response | Procedural legitimacy |
+| Security of tenure and service conditions | Resistance to pressure | Appellate tribunal and judicial review | Correction of individual decisions |
+
+⚠️ **The mark lies in pairing them.** Listing autonomy features alone reads as advocacy;
+pairing each with its accountability counterpart demonstrates the trilemma is understood as
+a design problem rather than a slogan.
+
+### 13.5 Six-test design checklist (apply to any regulator, including unfamiliar ones)
+
+1. **Statutory mandate** — what exactly is it empowered to do, and by which Act?
+2. **Appointment and removal** — who selects, on what criteria, and can removal be arbitrary?
+3. **Funding** — does its money come from a source the regulated entity or the ministry
+   controls?
+4. **Rule-making process** — is there pre-consultation, a published response to comments, and
+   any form of **regulatory impact assessment**?
+5. **Enforcement due process** — notice, hearing, reasoned order, proportionate penalty,
+   no bias.
+6. **Review and reporting** — is there an appellate route, and does it report to the
+   legislature?
+
+⚠️ A regulator that fails tests 4 and 5 is not made legitimate by passing 1–3.
+
+### 13.6 Causal chain — from independence design to capture (and correction)
+
+```text
+TECHNICAL COMPLEXITY + NEED FOR PREDICTABILITY -> statutory regulator created
+        v
+INFORMATION ASYMMETRY: the industry knows the sector better than the regulator
+        v
+DEPENDENCE ON INDUSTRY DATA, EXPERTISE AND PERSONNEL
+        v
+REVOLVING DOOR + FUNDED RESEARCH + REPEAT-PLAYER ACCESS
+        v
+AGENDA AND FRAMING CAPTURE — the regulator adopts the industry's problem definition
+        v                     (note: no illegal transaction need occur)
+OUTCOME: rules that serve incumbents; entry barriers described as quality standards
+   CORRECTIONS: mandatory consultation with published responses | reasoned orders |
+   cooling-off periods | independent technical capacity in-house | RIA |
+   consumer/user representation in consultation | appellate review | parliamentary
+   reporting | conflict-of-interest disclosure
+```
+
+⚠️ **The opposite failure is equally real:** an under-independent regulator captured by the
+*ministry* rather than by the industry produces politically timed decisions and tariff
+suppression. A balanced answer names both directions.
+
+### 13.7 Evidence bank B — Indian anchors
+
+| Anchor | What it is | Governance point | Caution |
+|---|---|---|---|
+| ✅ **Sectoral regulators** — RBI, SEBI, IRDAI, PFRDA, TRAI, CERC, PNGRB, CCI | Each created by its **own** statute | ❌ They do **not** share a uniform independence or accountability design — this is the standard trap | Do not generalise one regulator's tenure or funding rule to another |
+| ✅ **CCI — Competition Act, 2002** | Economy-wide, ex-post conduct regulation; appeals to **NCLAT** | Complements ex-ante sector regulation; overlap is a live jurisdictional question | ❌ No case, party, penalty or order date asserted |
+| ✅ **Tribunals Reforms Act, 2021** | Abolished several appellate tribunals/authorities (including under the Cinematograph Act 1952, Trade Marks Act 1999, Copyright Act 1957, and certain Customs Act and Airports Authority of India Act bodies), transferring functions mainly to High Courts, and prescribed appointment/service conditions | Rationalisation with a real cost in specialised adjudication | ❌ It did **not** abolish all tribunals |
+| ✅ **2025 INSC 1330 (19 November 2025)** | Invalidated the re-enacted provisions on the fifty-year minimum age, the two-name recommendation panel and merely-preferable appointment timeline, the four-year tenure and the impugned allowance framework, as an impermissible legislative override; made *MBA (IV)* and *(V)* controlling and directed a **National Tribunals Commission** within four months | The clearest current Indian instance of appointment design determining adjudicatory independence | 📰 The **9 March 2026** interim order allowed temporary extensions for specified serving incumbents until **8 September 2026** or the applicable maximum age, whichever was earlier; it did **not** revive the invalidated provisions. **No establishment notification for the Commission was located as of 13 August 2026** — describe implementation as unresolved |
+| ✅ **FSLRC (2013)**, chaired by Justice **B.N. Srikrishna** | Proposed a **Unified Financial Agency** subsuming most financial regulators except the RBI — a "regulation by activity" model | The standard Indian example of an ambitious regulatory-architecture proposal meeting political-economy resistance | Not implemented in full; the **2015 FMC–SEBI merger** is cited as a partial related step, not as adoption |
+| ⚠️ **Regulatory Impact Assessment** | Ex-ante appraisal of a proposed regulation's costs, benefits and alternatives | The main available discipline on rule-making quality | Unevenly institutionalised in India; ❌ not a uniformly binding requirement |
+| ✅ **Jan Vishwas (Amendment of Provisions) Act, 2023** | Decriminalised/rationalised **183 provisions across 42 Central Acts** | Indian anchor for trust-based regulation: reserve criminal process for serious wrongdoing and use civil/administrative penalties for minor compliance defaults | Decriminalisation is not deregulation; proportional penalty, hearing, reasoned order and appeal remain necessary |
+
+**Trust-based regulation / decriminalisation route.** Diagnose whether conduct involves
+fraud, violence, public safety or deliberate evasion, or merely a technical/default failure.
+For the latter, use warning, cure period, graded civil penalty and digital compliance; for
+serious or repeated harm, retain criminal sanction. Test reform against deterrence,
+proportionality, administrative discretion, due process and appellate review. This avoids
+the false choice between "criminalise everything" and "remove regulation".
+
+### 13.8 Counter-argument, trade-off and stakeholder variation
+
+**Trade-offs.**
+- **Independence vs democratic accountability** — unelected bodies making distributive
+  decisions (tariffs, licences) face a legitimacy question no expertise claim answers.
+- **Expertise vs capture** — the same industry knowledge that makes a regulator competent
+  makes it dependent.
+- **Speed vs due process** — fast enforcement and full hearing rights pull opposite ways.
+- **Specialised tribunal vs constitutional court** — expertise and speed against procedural
+  depth, precedent and constitutional oversight.
+- **Sector regulator vs competition regulator** — ex-ante licence conditions vs ex-post
+  conduct scrutiny; overlap creates forum uncertainty for the regulated entity.
+- **Regulatory certainty vs adaptability** — stable rules attract investment; rigid rules
+  fail in fast-changing technology markets.
+
+**Stakeholders.** *Regulated firm* — incumbents can absorb compliance cost that excludes
+entrants, so a compliance burden is itself a competitive variable. *Consumer/user* — diffuse
+and under-represented in consultation, which is why consumer representation is a design
+feature, not a courtesy. *Parent ministry* — holds policy but should not hold cases.
+*Appellate tribunal* — its independence determines whether appeal is a check or a delay.
+*State government* — in electricity, water and transport the State regulatory commission and
+State policy interact, so the federal dimension is real. *Small/new entrant* — bears the
+highest relative cost of any registration or disclosure requirement.
+
+### 13.9 Verdict scaffolds
+
+- **Independence stem:** "Independence is a means to consistent, technically sound
+  decision-making, not an end; the design question is which decisions must be insulated —
+  individual cases — and which must remain political — sectoral policy."
+- **Capture stem:** "Capture is a structural consequence of information asymmetry rather than
+  a moral failing, which is why the effective correctives are procedural — consultation,
+  reasoned orders, cooling-off and in-house technical capacity — rather than exhortation."
+- **Tribunal stem:** "The case for specialised adjudication remains strong; the Indian
+  difficulty is that repeated legislative attempts to fix appointment and tenure have been
+  found constitutionally deficient, leaving the system dependent on interim judicial
+  management."
+- **Novel-regulator stem:** run the six tests; a body that cannot fund itself independently
+  or must accept ministerial direction on individual cases is a regulator in name only.
+
+### 13.10 Factual and current-status controls
+
+- ✅ Safe: the named regulators and the fact that each has its own statute; CCI under the
+  Competition Act, 2002 with appeals to NCLAT; the Tribunals Reforms Act, 2021 abolitions as
+  listed; **2025 INSC 1330** of **19 November 2025** and its four heads of invalidation, the
+  restoration of *MBA (IV)/(V)* and the four-month direction; the **9 March 2026** interim
+  extension order to **8 September 2026** or maximum age; FSLRC (2013) under Justice
+  B.N. Srikrishna and the unimplemented Unified Financial Agency proposal.
+- 📰 **Unresolved as of 13 August 2026:** no establishment notification for the **National
+  Tribunals Commission** was located. State this as unresolved; do not assert either
+  establishment or non-establishment as a settled fact.
+- ❌ **Do not assert:** any regulator's composition, member count, tenure or appointment
+  authority (Polity owns this); any CCI case name, party, penalty or order; any regulator's
+  pendency, disposal or enforcement statistics; that RIA is mandatory; that the Tribunals
+  Reforms Act abolished all tribunals; the outcome of any pending challenge.
+- ⚠️ **Statutory ≠ constitutional ≠ executive.** Regulators here are **statutory**; CAG is
+  constitutional; a body created by executive order is neither. Getting this wrong in the
+  first line of an answer costs disproportionately.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

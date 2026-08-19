@@ -4,8 +4,10 @@
 > Studies Paper — Essay, Mains).
 > **Core area:** Turning a compressed aphorism into a literal meaning, an
 > operative tension, a defensible interpretation and a working thesis.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Section 4.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Section 4.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../advanced/02_Philosophical-Quote-Decoding.md`
@@ -93,6 +95,20 @@ faithful reading is what the exam rewards.
 5. What would a *contrary* reading of the same sentence look like — and
    why would the straightforward reading still be more defensible?
 
+## 5a. Claim–assumption–scope–exception test
+
+⚠️ Before treating a reading as your thesis, write four short lines:
+
+| Check | Question |
+|---|---|
+| **Claim** | What does the aphorism actually assert? |
+| **Assumption** | What must be true for that assertion to hold? |
+| **Scope** | At which scale or in which situation does it plausibly hold? |
+| **Exception** | What counter-case limits it without emptying it of meaning? |
+
+This prevents a universal-sounding aphorism from becoming an absolute
+essay. The exception qualifies the claim; it must not replace the claim.
+
 ## 6. Dimension-expansion grid
 
 | Prompt (example) | Literal claim | Operative tension | Natural extended reading |
@@ -148,8 +164,8 @@ Full method: `06`.
   discipline: `09`, `16`).
 - ❌ **Treating OCR noise as official wording — or "correcting" the paper
   into better English.** Both are the same error in opposite directions.
-  → Repair: quote from `../PYQ-Corpus-2013-2025.md`'s V1 rows, which
-  reproduce the 2024/2025 papers as printed, defects included.
+  → Repair: quote from `../PYQ-Corpus-2013-2025.md`'s V1 rows, which reproduce the
+  2018–2025 papers as printed, defects included.
 - ❌ **Picking the first metaphorical reading that comes to mind** without
   testing a contrary reading. → Repair: always run Section 5, Q5 before
   committing to a thesis.
@@ -176,39 +192,39 @@ sign of shallow decoding)?
 - **Paper(s):** Essay
 - **Routed question demands:** 14
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+| Year | Paper | Q | PYQ demand (exact V1 wording) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2024 | Essay | Section B - 2 | Nearly all men can stand adversity, but to test the character, give him power | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2024 | Essay | Section A - 2 | The empires of the future will be the empires of the mind | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2024 | Essay | Section B - 3 | All ideas having large consequences are always simple | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2024 | Essay | Section A - 3 | There is no path to happiness; happiness is the path | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2024 | Essay | Section B - 4 | The cost of being wrong is less than the cost of doing nothing | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2024 | Essay | Section A - 4 | The doubter is a true man of science | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2025 | Essay | Section A - 1 | Truth knows no color | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2025 | Essay | Section A - 2 | The supreme art of war is to subdue the enemy without fighting | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2025 | Essay | Section A - 3 | Thought finds a world and creates one also | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2025 | Essay | Section A - 4 | Best lessons are learnt through bitter experiences | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2025 | Essay | Section B - 5 | Muddy water is best cleared by leaving it alone | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2025 | Essay | Section B - 6 | The years teach much which the days never know | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2025 | Essay | Section B - 7 | It is best to see life as a journey, not as a destination | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2025 | Essay | Section B - 8 | Contentment is natural wealth; luxury is artificial poverty | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section B - 2 | "Nearly all men can stand adversity, but to test the character, give him power." | Essay · about 1000-1200 words; 2024 paper: 125 marks each | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section A - 2 | "The empires of the futures will be the empires of the mind." | Essay · about 1000-1200 words; 2024 paper: 125 marks each | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section B - 3 | "All ideas having large consequences are always simple." | Essay · about 1000-1200 words; 2024 paper: 125 marks each | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section A - 3 | "There is no path to happiness, Happiness is the path." | Essay · about 1000-1200 words; 2024 paper: 125 marks each | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section B - 4 | "The cost of being wrong is less than the cost of doing nothing." | Essay · about 1000-1200 words; 2024 paper: 125 marks each | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section A - 4 | "The doubter is a true man of science." | Essay · about 1000-1200 words; 2024 paper: 125 marks each | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section A - 1 | "Truth knows no color." | Essay · about 1000–1200 words; marks line not printed locally | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section A - 2 | "The supreme art of war is to subdue the enemy without fighting." | Essay · about 1000–1200 words; marks line not printed locally | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section A - 3 | "Thought finds a world and creates one also." | Essay · about 1000–1200 words; marks line not printed locally | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section A - 4 | "Best lessons are learnt through bitter experiences." | Essay · about 1000–1200 words; marks line not printed locally | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section B - 5 | "Muddy water is best cleared by leaving it alone." | Essay · about 1000–1200 words; marks line not printed locally | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section B - 6 | "The years teach much which the days never know." | Essay · about 1000–1200 words; marks line not printed locally | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section B - 7 | "It is best to see life as a journey, not as a destination." | Essay · about 1000–1200 words; marks line not printed locally | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2025 | Essay | Section B - 8 | "Contentment is natural wealth; luxury is artificial poverty." | Essay · about 1000–1200 words; marks line not printed locally | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
 
 ### What this owner must now support
 
-- Nearly all men can stand adversity, but to test the character, give him power
-- The empires of the future will be the empires of the mind
-- All ideas having large consequences are always simple
-- There is no path to happiness; happiness is the path
-- The cost of being wrong is less than the cost of doing nothing
-- The doubter is a true man of science
-- Truth knows no color
-- The supreme art of war is to subdue the enemy without fighting
-- Thought finds a world and creates one also
-- Best lessons are learnt through bitter experiences
-- Muddy water is best cleared by leaving it alone
-- The years teach much which the days never know
-- It is best to see life as a journey, not as a destination
-- Contentment is natural wealth; luxury is artificial poverty
+- "Nearly all men can stand adversity, but to test the character, give him power."
+- "The empires of the futures will be the empires of the mind."
+- "All ideas having large consequences are always simple."
+- "There is no path to happiness, Happiness is the path."
+- "The cost of being wrong is less than the cost of doing nothing."
+- "The doubter is a true man of science."
+- "Truth knows no color."
+- "The supreme art of war is to subdue the enemy without fighting."
+- "Thought finds a world and creates one also."
+- "Best lessons are learnt through bitter experiences."
+- "Muddy water is best cleared by leaving it alone."
+- "The years teach much which the days never know."
+- "It is best to see life as a journey, not as a destination."
+- "Contentment is natural wealth; luxury is artificial poverty."
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

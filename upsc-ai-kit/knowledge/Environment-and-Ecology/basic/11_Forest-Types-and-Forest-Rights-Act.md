@@ -216,23 +216,44 @@ source and date rather than a single undifferentiated national figure.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Separate **forest type** (ecology), **forest cover** (canopy measurement), **legal forest category** and **rights** (FRA). A question that mixes them is testing category discipline.
+- **Thesis:** the FRA is a rights-restoration statute whose Community Forest Resource potential can support conservation only if claims, technical capacity and wildlife-law coordination are handled fairly.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Tenure security can support stewardship. | **CFR rights under FRA** → community can protect, regenerate and manage a traditionally used forest resource. | A title alone does not prove ecological improvement without support and monitoring. |
+| Rights recognition has a procedural safeguard. | **Section 4(5), FRA** → bars eviction until recognition and verification are complete. | It does not erase every lawful conservation or diversion process; sequencing and facts matter. |
+| Cover data cannot answer a tenure/type question. | **FSI ≥1 ha and >10% canopy definition** → measures canopy across ownership/legal status. | It is not recorded forest area, forest type or proof of community rights. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** explain the historical-injustice rationale, distinguish IFR/community/CFR and trace Gram Sabha → SDLC → DLC.
+- **15/20 marks:** add forest-type/rainfall logic, rights-process friction and protected-area relocation sequencing; give a balanced rights-and-conservation verdict.
+- For a forest-resource/climate answer, use ISFR 2023 only as dated extent evidence, then qualify forest quality, natural grasslands and carbon-stock inference.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2019, 2022, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 5
+- **Years represented:** 2018, 2019, 2020, 2022, 2023
+- **Paper(s):** GS-I, Prelims GS-I
+- **Routed question demands:** 6
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 98 | Forest Rights Act Critical Wildlife Habitat and Baiga rights | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 33 | Indian states ranked by forest cover percentage | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 55 | Forest Rights Act bamboo as minor forest produce | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-I | 17 | Status of India's forest resources and impact on climate change | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 50 | Miyawaki method for urban mini forest creation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 3 | Deciduous trees Jackfruit Mahua Teak classification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
@@ -241,6 +262,7 @@ source and date rather than a single undifferentiated national figure.
 - Forest Rights Act Critical Wildlife Habitat and Baiga rights
 - Indian states ranked by forest cover percentage
 - Forest Rights Act bamboo as minor forest produce
+- Status of India's forest resources and impact on climate change
 - Miyawaki method for urban mini forest creation
 - Deciduous trees Jackfruit Mahua Teak classification
 

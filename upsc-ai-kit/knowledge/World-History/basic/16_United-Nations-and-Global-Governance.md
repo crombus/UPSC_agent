@@ -155,8 +155,139 @@
 - ⚠️ "The greatest strength of the UN lies outside the battlefield." Discuss.
 - ⚠️ "Explain the structure and mandate of the United Nations with reference to contemporary global governance."
 
-## 9. Study link
+## 9. Answer architecture (10/15/20-mark support)
 
-> **Study link:** World-History -> `advanced/16_United-Nations-and-Global-Governance.md` for case-matrix analysis, reform logic and current India linkage.
-> **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the Korea, Hungary, Cuba and detente settings in which the UN operated.
+> **Core-sufficiency note:** this file must independently support the historical-design,
+> peacekeeping-record and structural-limitation demands. Live GS-II institutional detail must not
+> substitute for historical analysis. `advanced/16` adds the case matrix and reform logic only.
+
+### 9.1 Directive and demand map
+
+| If the question says | It is really testing | Do NOT write |
+|---|---|---|
+| *How far is the UN more successful than the League?* | Design differences **and** what stayed the same | A structure comparison |
+| *Assess the UN as a peacekeeping organisation* | A case-based record with a stated success condition | A list of missions |
+| *"The greatest strength of the UN lies outside the battlefield." Discuss* | Non-peacekeeping work as the real record | Only the Security Council |
+| *Explain structure and mandate* | Charter organs, functions and legal categories | Confusing organs, agencies and funds |
+| *Reform of the Security Council* | The structural logic of the veto, kept date-disciplined | Undated claims about live negotiations |
+| *Global governance since 1945* | The historical evolution of multilateral order | A current-affairs summary |
+
+### 9.2 Qualified thesis templates
+
+- ⚠️ **Comparative:** "The UN improved on the League in scope, membership and social work while retaining its central defect — the dependence of enforcement on the very great powers whose conduct most needs restraining."
+- ⚠️ **Peacekeeping:** "The UN's peacekeeping record is not random: it succeeds where the great powers are indifferent or agreed, and fails where their interests collide directly."
+- ⚠️ **Balance:** "Judged as a world government the UN is a failure; judged as a permanent forum, norm-setter and humanitarian coordinator it is the most successful international institution ever built."
+- ⚠️ **Structural:** "The veto is not a flaw in the design; it *is* the design — the price of getting the great powers inside the organisation rather than outside it, as the USA had been to the League."
+
+### 9.3 Mark-scaled structures
+
+| Marks | Structure |
+|---|---|
+| **10** | Thesis → **two** organs/functions **or two** cases (one success, one failure) → the success condition → verdict |
+| **15** | Thesis → origins and design lesson from the League → structure → mixed peacekeeping record → non-military work → verdict |
+| **20** | All of the above → **plus** structural limitations, the reform question kept status-disciplined and the post-Cold-War change in peacekeeping → verdict |
+
+### 9.4 Evidence bank A — design: what was learned from the League
+
+| League defect (`basic/11`) | ✅ UN response | ⚠️ What was **not** fixed |
+|---|---|---|
+| USA never joined | ✅ The UN became a far wider world organisation | — |
+| Tied to the Versailles order | ✅ Founded on its own Charter aims: preserve peace; remove causes of conflict through economic, social, educational, scientific and cultural progress; safeguard the rights of individuals, peoples and nations | — |
+| Unanimity paralysis | ✅ Assembly and Security Council procedures allowed more decisive action | ✅ The **veto** still blocks action |
+| No League army | ✅ Security Council can authorise enforcement | ✅ The UN still lacks a permanent army of its own |
+| Weak social remit | ✅ The UN spent far more effort on economic and social work and committed itself to individual human rights | — |
+
+### 9.5 Evidence bank B — structure, with the legal distinctions examiners test
+
+✅ **Six principal Charter bodies today:** General Assembly (deliberation, budget, elections,
+resolutions); Security Council (primary responsibility for peace and security; 15 members — 5
+permanent, 10 non-permanent); ECOSOC (economic, social and development coordination); Trusteeship
+Council (historical trust-territory oversight, now inactive); International Court of Justice
+(principal judicial organ); Secretariat (administration under the Secretary-General).
+
+⚠️ **Category discipline — the marks are in these distinctions:**
+
+- ✅ The **ICJ** is a principal UN organ; the **ICC** is an independent treaty-based court with a cooperation relationship with the UN, **not** a principal UN organ. Lowe's "seventh organ" presentation is not Charter-accurate.
+- ✅ **WHO, FAO and UNESCO** are specialized agencies; **UNICEF** is a UN fund; **UNRWA** is a General Assembly-created agency/programme. Do not flatten them into one legal category.
+- ✅ **IMF and World Bank** are UN specialized agencies; **UNCTAD** is a UN body; the **WTO** belongs to the wider multilateral trade system but is **not** a UN specialized agency.
+- ✅ **Korea (1950)** and the **1991 Gulf War** were Security Council-authorised **collective enforcement** by member-state forces, not ordinary consent-based blue-helmet peacekeeping.
+
+### 9.6 Evidence bank C — the peacekeeping record, organised by the success condition
+
+> ⚠️ **State the condition first, then use the cases as proof.** ✅ Lowe's broader lesson: the UN
+> works best where great-power interests do not directly collide, or where major powers choose to
+> support enforcement.
+
+| Great-power posture | ✅ Cases | ⚠️ Outcome |
+|---|---|---|
+| **Agreed or indifferent** | ✅ West New Guinea (negotiation and supervised transfer); ✅ Suez 1956 (ceasefire and peacekeeping force — one of the UN's strongest moments); ✅ Cambodia and Mozambique (post-Cold-War transitions) | Success, including durable settlement |
+| **Temporarily absent** | ✅ Korea 1950 — action possible because the Soviet delegation was absent | Success, but non-repeatable and contested |
+| **Aligned after the Cold War** | ✅ Gulf War 1991 — Council authorised force by a member-state coalition | Success in enforcement, not in UN command |
+| **Directly opposed** | ✅ Hungary 1956 and Czechoslovakia 1968 — Soviet veto and Soviet force | Complete ineffectiveness |
+| **Divided or disengaged** | ✅ Somalia and Bosnia — too little force, complex civil-war environments, weak political backing | Failure with reputational damage |
+| **Bypassed** | ✅ Iraq 2003 — US-UK invasion without clear Security Council authorisation | Exposed UN limits sharply |
+| **Present but insufficient** | ✅ Cyprus and Kashmir — ceasefires and supervision possible, final settlement not | Containment without resolution |
+| **Complex but partially effective** | ✅ Congo 1960–64 — costly, but the UN did restore some order | Mixed |
+
+### 9.7 Evidence bank D — non-military work (the balance bank)
+
+✅ Human rights: Universal Declaration of Human Rights and continuing rights publicity and
+pressure. ✅ Labour: ILO and workplace standards. ✅ Health: WHO, epidemic control and disease
+campaigns. ✅ Food: FAO support for agriculture and emergency needs. ✅ Education and culture:
+UNESCO literacy, schools and heritage work. ✅ Children and refugees: UNICEF and UNRWA.
+✅ Humanitarian relief: OCHA and disaster response. ✅ Finance and trade: IMF, World Bank and
+UNCTAD.
+
+⚠️ ✅ This is the section that converts a one-sided "the UN fails because wars continue" answer
+into a balanced one. Use at least two of these in any 15-mark answer.
+
+### 9.8 Structural limitations and the reform question (status-disciplined)
+
+**✅ Lowe's weaknesses:** no permanent UN army; delays over when and how to intervene; veto
+politics; shortage of funds; overlap and friction among agencies; tension between UN authority
+and powerful states, especially after the Cold War.
+
+**✅ Lowe's strengths:** a world forum where even small states can speak; some wars shortened or
+contained; valuable human-rights pressure; immense contribution to health, welfare, refugees,
+literacy and development.
+
+⚠️ **The structural argument to make (safe, undated):** the Security Council's permanent
+membership reflects the power distribution of **1945**, while the General Assembly reflects a
+membership transformed by decolonisation. That mismatch between the composition of authority and
+the composition of the organisation is the durable, historically demonstrable reform argument —
+and it requires no current negotiation detail.
+
+> ⚠️ **Date/status discipline (mandatory).** ✅ The structural facts above (six Charter organs;
+> 15-member Council with 5 permanent members; the veto; the absence of a standing army; the
+> Trusteeship Council's inactivity) are the safe historical core; the folder's contemporary
+> structure cross-check was made against the official UN main-bodies page on **21 July 2026**.
+> ❌ Do **not** state the current status of Security Council reform negotiations, current
+> membership expansion proposals, current budget or arrears figures, or any current
+> Secretary-General or Council composition in a history answer unless separately verified and
+> dated. A GS-I answer must rest on the historical record; live GS-II detail is optional garnish
+> and never a substitute for historical analysis. Live India-facing institutional material is
+> owned by `Polity/advanced/45_National-Integration-and-Foreign-Policy.md`.
+
+### 9.9 Verdict scaffolds
+
+- **"More successful than the League?"** → "Substantially, and for a structural reason: the UN kept the great powers inside the organisation, which is precisely why it can rarely act against them."
+- **"As a peacekeeper?"** → "Effective as a fire-break and ineffective as a fire brigade: it separates combatants and supervises transitions well, and it cannot compel a great power or resolve a civil war it has not been empowered to settle."
+- **"Greatest strength outside the battlefield?"** → "Yes — measured by lives affected, the UN's health, refugee, food and education work exceeds anything achieved by its peacekeeping arm, and unlike enforcement it does not require great-power unanimity."
+
+### 9.10 Factual-risk controls
+
+- ❌ Do not call the ICC a principal UN organ. ✅ The ICJ is; the ICC is treaty-based and separate.
+- ❌ Do not call the WTO a UN specialized agency. ✅ It is not.
+- ❌ Do not describe Korea 1950 or the 1991 Gulf War as blue-helmet peacekeeping. ✅ Both were authorised collective enforcement by member-state forces.
+- ❌ Do not say the UN solved Palestine, Kashmir or Cyprus. ✅ It managed crises and ceasefires better than final settlements.
+- ❌ Do not say the veto makes the General Assembly irrelevant. ✅ Assembly resolutions, including "Uniting for Peace", can still matter politically.
+- ❌ Do not give budget, troop-contribution, membership or mission-count numbers; none is sourced here beyond ✅ the 15-member Council with 5 permanent members.
+- ❌ Do not date the UN's establishment other than ✅ Charter framed at San Francisco in 1945, UNO in existence from **October 1945**.
+- ❌ Do not assert any current reform outcome or negotiating position.
+
+## 10. Study link
+
+> **Study link:** World-History -> `advanced/16_United-Nations-and-Global-Governance.md` for the case matrix and reform logic (optional).
+> **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the Korea, Hungary, Cuba and détente settings in which the UN operated.
+> **Study link:** World-History -> `basic/11_International-Relations-1919-39.md` for the League record the UN was designed against.
 > **Study link:** Polity -> `advanced/45_National-Integration-and-Foreign-Policy.md` for India's UN, peacekeeping and reform vocabulary in the Indian foreign-policy context.

@@ -330,6 +330,126 @@ Use six points in compact sequence:
 5. Criticisms: federalism, international law, customary law, democracy, popular sovereignty, Maine. ✅
 6. Conclude: highly important for legal theory, but empirically and normatively narrow. ⚠️
 
+---
+
+## 3A. KELSEN AND HART — THE POST-AUSTINIAN REFINEMENT OF LEGAL SOVEREIGNTY
+
+> ⚠️ **Why this section exists.** Austin's critics in this file so far are *external* — federalism, custom, international law, democracy, Laski's pluralism. The two most powerful criticisms are **internal to legal positivism itself**. Any question on "the theory of sovereignty" or "law as command" that stops at Laski is answering with only half the debate. This section is a named-scholar reconstruction; no page, chapter, edition or verbatim wording is asserted for either thinker.
+
+### 3A.1 Why the Austinian model needs repair
+
+✅ Austin locates law's validity in the will of a determinate human superior. That produces three problems he cannot solve from within his own system:
+
+1. **The succession problem.** When one sovereign dies and another takes office, why is the new sovereign's first command law, before any habit of obedience has formed? Habit cannot explain the continuity of legal authority across persons.
+2. **The persistence problem.** Why does a statute enacted centuries ago, by a sovereign long dead and never habitually obeyed by anyone now living, remain valid law?
+3. **The power-conferring problem.** Much of law does not command anybody. Rules about how to make a valid will, contract or marriage do not order conduct on pain of sanction; they confer facilities. On the command model, a defective will is not a "sanction" for disobedience — it is simply a nullity.
+
+⚠️ Each problem points the same way: legal authority is carried by **rules**, not by the habits or the person of a commander.
+
+### 3A.2 Kelsen: the *Grundnorm* and the hierarchy of norms
+
+✅ **Hans Kelsen** argues that the validity of a legal norm is never derived from a fact of power but always from **another, higher norm**. Law is a **hierarchy (pyramid) of norms**: an administrative order is valid because a statute authorises it; the statute is valid because the constitution authorises its enactment; the constitution is valid because it is presupposed to be valid.
+
+✅ At the apex stands the **basic norm (*Grundnorm*)** — not itself enacted by anyone, but **presupposed** by jurists as the condition that makes it possible to interpret the whole chain as a system of valid norms rather than as a sequence of effective threats.
+
+**Reconstructed argument ⚠️:**
+
+1. a norm's validity cannot be derived from a mere fact, because "is" does not yield "ought";
+2. therefore validity must be derived from a further norm;
+3. an infinite regress of authorising norms would leave nothing valid;
+4. therefore the chain must terminate in a norm that is presupposed rather than derived — the *Grundnorm*;
+5. law is accordingly a self-referring hierarchy of validity, distinct from both morality and brute power.
+
+**Presupposition ⚠️:** a "pure" theory of law is possible — legal science can describe validity while excluding morality, sociology, politics and psychology.
+
+**Bibliographic precision ✅ / ❌:** the standard reference is *General Theory of Law and State*, first published in English in **1945** (translated by Anders Wedberg). ❌ **Do not write 1961 for Kelsen.** 1961 is the year of **Hart's** *The Concept of Law*. The two dates sit adjacent in the Austin → Kelsen → Hart sequence and are the most commonly swapped pair in this topic. ⚠️ If unsure in the examination hall, name the works and the sequence without years rather than guessing.
+
+**Effect on sovereignty ⚠️:** Kelsen **dissolves** the Austinian sovereign. There is no determinate human superior standing above the law; the "sovereign" is simply the personification of the legal order's highest norm-creating competence. Sovereignty becomes an attribute of the **normative order**, not of a person or body.
+
+**Objection → Reply ⚠️:**
+
+- **Objection:** the *Grundnorm* is a fiction — a presupposition invented to stop a regress, doing exactly the work Austin's "habitual obedience" did, only less honestly.
+  **Reply:** ✅ Kelsen does not claim the basic norm is a fact; he claims it is a **transcendental-logical condition** of treating anything as valid law at all, comparable to a postulate in a formal science. The theory therefore remains positivist — the basic norm confers validity, not moral obligation.
+- **Objection:** the theory cannot explain revolution, since a successful coup replaces the constitution without any authorising norm.
+  **Reply:** ⚠️ Kelsen's answer is that when a new order becomes **by and large effective**, jurists presuppose a new basic norm; efficacy is thus a *condition* of validity even though it is not its *source*. Critics reply that this quietly readmits the fact of power the theory was designed to exclude — a residual problem worth conceding.
+
+### 3A.3 Hart: primary and secondary rules, and the rule of recognition
+
+✅ **H. L. A. Hart**, in *The Concept of Law* (**1961**), rejects the command-and-sanction model as too narrow — it is built on the criminal-law paradigm ("the gunman situation writ large") and cannot account for power-conferring law. He replaces it with law as a **union of primary and secondary rules**.
+
+| Rule type | Function | What it answers | Failure it cures |
+|---|---|---|---|
+| **Primary rules** ✅ | impose duties directly on conduct — do not steal, do not assault, pay tax | what must be done? | — |
+| **Secondary: rule of recognition** ✅ | identifies what counts as valid law in this system | which rules are law? | **uncertainty** in a regime of primary rules alone |
+| **Secondary: rules of change** ✅ | authorise creation, amendment and repeal of primary rules | how is law altered? | **static character** of custom |
+| **Secondary: rules of adjudication** ✅ | confer authority to determine breach and remedy | who decides, and how? | **inefficiency** of diffuse enforcement |
+
+**Reconstructed argument ⚠️:**
+
+1. a society with only primary rules suffers uncertainty, stasis and inefficiency;
+2. these three defects are cured by three corresponding secondary rules;
+3. the union of primary rules with secondary rules is what distinguishes a legal system from a set of social habits;
+4. the ultimate criterion of validity — the rule of recognition — is not itself valid or invalid; it **exists as a social fact**, in the convergent practice of officials who treat it as the common public standard from an *internal point of view*;
+5. therefore law rests neither on a commander's will (Austin) nor on a presupposed norm (Kelsen) but on an accepted official practice.
+
+**The internal/external point of view ✅:** an external observer records regularities of behaviour; a participant taking the **internal point of view** treats the rule as a *reason* for conduct and as a ground for criticising deviation. Austin's "habit of obedience" captures only the external aspect and therefore cannot distinguish a legal obligation from a gunman's threat, or a rule from a habit.
+
+**Hart's critique of Austin, in four strikes ⚠️:**
+
+| Austin's claim | Hart's objection |
+|---|---|
+| Law is a command backed by sanction | ignores power-conferring rules; nullity is not a sanction |
+| The sovereign is habitually obeyed | habit cannot explain continuity on succession or the persistence of old statutes |
+| The sovereign obeys no one | in a modern legal order the law-maker is itself constituted and limited by rules of change |
+| Obligation = being obliged by threat | conflates *being obliged* (the gunman) with *having an obligation* (the internal point of view) |
+
+**Hart against Kelsen ⚠️:** Hart accepts the need for an ultimate criterion of validity but denies it is a presupposed norm. The rule of recognition is a matter of **social fact** — what the officials of a given system actually treat as law — not a logical postulate standing outside the system.
+
+**Presupposition ⚠️:** legal theory is descriptive-analytical sociology of a special kind; validity can be explained without moral evaluation, but not without reference to shared official practice.
+
+**Objection → Reply ⚠️:**
+
+- **Objection (Dworkin):** even a complete structure of rules gives no determinate answer in **hard cases**; judges then rely on **principles**, which are part of the law but cannot be identified by any pedigree test such as a rule of recognition.
+  **Reply:** ⚠️ Hartian positivists reply that in genuinely hard cases judges exercise bounded discretion at the penumbra of settled rules, and that principles can be admitted through a sufficiently rich rule of recognition. The dispute is unresolved; state it as live. ✅ The Dworkin material itself is owned by [Individual and State](Individual-and-State.md) §4A.4 — cross-refer, do not develop it here.
+- **Objection:** a rule of recognition grounded in official practice cannot condemn a legally impeccable but morally monstrous regime.
+  **Reply:** ✅ Hart's own position is that separating validity from merit **preserves** criticism: calling an evil rule "valid law" leaves the citizen free to say it ought not to be obeyed, whereas defining evil rules out of the concept of law disarms that judgment. This is the positivist's strongest normative card and should be used rather than conceded.
+
+### 3A.4 Placement against Bodin, Austin, Laski and Kautilya
+
+| Axis | **Bodin** | **Austin** | **Kelsen** | **Hart** | **Laski** | **Kautilya** |
+|---|---|---|---|---|---|---|
+| Locus of sovereignty | the *personal* commonwealth-ordering power | determinate human superior | the normative order itself; no personal sovereign | the system's accepted rule of recognition | dispersed among associations; no single locus | *svāmī* within the seven-limb (*saptāṅga*) state |
+| Source of validity | perpetual, absolute power to give law | command of the sovereign + habitual obedience | derivation from a higher norm, terminating in the *Grundnorm* | convergent official practice, viewed internally | moral allegiance earned by satisfying wants | *dharma*, *daṇḍanīti* and duty to *yogakṣema* |
+| Is law limited? | limited by divine/natural law, *leges imperii*, private property | legally illimitable | limited only by the hierarchy's own competence rules | limited by rules of change and adjudication | must be limited, and is empirically limited | limited by duty, custom and the ruler's welfare obligation |
+| Command or rules? | command of the sovereign | command + sanction | norms authorising norms | primary + secondary rules | plural sources of obligation | authoritative direction plus duty |
+| Cure it offers for Austin | — | — | explains continuity, persistence, hierarchy | explains power-conferring law and obligation | explains federalism and social plurality | explains duty-bound authority |
+
+⚠️ **The examiner-facing point.** Bodin and Austin ask *who* is sovereign. Kelsen and Hart deny that this is the right question and ask *what makes a norm valid*. Laski denies that any single answer is possible. Kautilya asks what the holder of authority is **for**. An answer that runs this four-way structure — personal sovereign → normative order → official practice → plural allegiance, with Kautilya's duty-bound variant — is doing philosophy, not summarising a textbook.
+
+⚠️ **Convergence worth stating:** Kelsen, Hart and Laski each in a different register dissolve the *personal* absolute sovereign, but they disagree entirely about what replaces it — a norm-hierarchy, a social practice, or a plurality of associations. Do not merge them into a single "modern critique of Austin".
+
+### 3A.5 Indian application (legal-status caution)
+
+⚠️ Use these as **illustrations of the concepts**, never as proof that a philosophical theory is correct.
+
+- ✅ The **Constitution of India** is a written, supreme instrument containing rules of change (the amendment procedure) and rules of adjudication (the judicial hierarchy and writ jurisdiction) — a textbook fit for Hart's secondary rules and for Kelsen's norm-hierarchy alike.
+- ✅ *Kesavananda Bharati v. State of Kerala* (Supreme Court judgment, **1973**) is a **judicial decision** holding that the amending power does not extend to altering the basic structure of the Constitution. ⚠️ It is a judgment, not a statute or a constitutional text, and it illustrates a legally limited amending competence — it does **not** demonstrate that Austin, Kelsen or Hart is right.
+- ⚠️ Indian federalism, judicial review and the amendment procedure together show that legal authority in India is **competence-distributed and rule-governed**, which is precisely what Austin's determinate illimitable superior cannot accommodate.
+- ❌ Do not describe any Indian institution, office or period as "the sovereign" in Austin's sense, and do not attribute a *Grundnorm* to any named document as though Kelsen had said so.
+
+### 3A.6 UPSC-ready formulation
+
+Six moves, usable inside any sovereignty answer:
+
+1. Austin's command theory states the **legal form** of sovereignty with unmatched precision. ✅
+2. Its internal defects are succession, persistence and power-conferring rules. ✅
+3. Kelsen repairs it by replacing the commander with a **hierarchy of norms** terminating in a presupposed ***Grundnorm*** (*General Theory of Law and State*, English edition **1945**). ✅
+4. Hart repairs it differently, as a **union of primary and secondary rules**, with the **rule of recognition** resting on the convergent internal practice of officials (*The Concept of Law*, **1961**). ✅
+5. Both remain **positivists**: validity is still separated from moral merit. ✅
+6. Conclude: the *concept* of supreme legal authority survives; the *image* of a determinate personal sovereign does not. ⚠️
+
+---
+
 ## 4. LASKI
 
 ### 4.1 Laski's pluralist starting-point
@@ -570,7 +690,7 @@ Use six points in compact sequence:
 | **View of law/order** ✅ | Law as command backed by sanction | Order through *daṇḍanīti*, counsel, treasury, and administration |
 | **External dimension** ✅ | Underdeveloped except denial of true international law | Highly developed through *maṇḍala* and *ṣāḍguṇya* |
 | **State form presupposed** ✅ | Centralized legal order | Monarchical but institutionally articulated polity |
-| **Best UPSC conclusion** ⚠️ | Austin gives a narrow legal sovereign; Kautilya gives an organic, welfare-oriented, strategic sovereign |
+| **Best UPSC conclusion** ⚠️ | A narrow, legally determinate sovereign | An organic, welfare-oriented and strategic sovereign |
 
 **Short concluding line for 2019-type answers:**
 Austin's sovereign is legally supreme because no superior commands it; Kautilya's ruler is politically central but normatively and functionally bound by dharma, welfare, ministers, treasury, force, and allies. ✅
@@ -638,10 +758,18 @@ Austin's sovereign is legally supreme because no superior commands it; Kautilya'
 8. **Do not say Bodin and Austin are identical.** Bodin allows higher-law restraints; Austin's legal sovereign is formally unlimited. ✅
 9. **Do not present pluralism as mere decentralization.** Laski challenges the very claim that one final unlimited will exists in the state. ✅
 10. **Do not turn examples into fabricated historical detail.** Keep examples generic unless the question itself supplies the frame. ✅
+11. **Do not date Kelsen's *General Theory of Law and State* to 1961.** ❌ 1961 belongs to **Hart's** *The Concept of Law*; **1945** is the first English edition of Kelsen. If unsure, name the works in sequence without years. ✅
+12. **Do not treat Hart's rule theory as a restatement of Austin.** ❌ Hart *rejects* the command model: nullity is not a sanction, habit cannot explain succession or persistence, and being obliged is not the same as having an obligation. ✅
+13. **Do not call the *Grundnorm* a moral standard.** ✅ It confers legal validity only; keeping it morally inert is exactly why Kelsen stays a positivist.
+14. **Do not merge Kelsen, Hart and Laski into one "critique of Austin".** ⚠️ They replace the personal sovereign with three different things — a norm-hierarchy, an official social practice, and a plurality of associations.
+15. **Do not develop Dworkin's principles/hard-cases argument in a sovereignty answer.** ⚠️ Name it as the next objection to Hart and route it; the doctrine is owned by [Individual and State](Individual-and-State.md).
 
 ## 9. KEYWORD & STATEMENT BANK
 
 ### 9.1 Keywords
+
+**Promoted vocabulary (this pass) ⚠️:** hierarchy of norms · *Grundnorm* · basic norm · purity of legal science · primary rules · secondary rules · rule of recognition · rules of change · rules of adjudication · internal point of view · being obliged vs having an obligation · power-conferring rules · succession and persistence problems · competence-distributed authority
+
 - **absolute power** ✅
 - **perpetual authority** ✅
 - **indivisible sovereignty** ✅
@@ -692,7 +820,7 @@ Use these as crisp sentence-starters in answers:
 |---|---|---:|---|
 | 2018 | Q1(d) | 10 | Discuss Kautilya's concept of sovereignty in the light of 'Danda-neety'. |
 | 2018 | Q2(b) | 15 | Critically evaluate Laski's view on sovereignty as a satisfactory position in political theory. |
-| 2019 | Q3(a) | 20 | Discuss how far Austin's concept of sovereignty goes along with Kautilya's concept of sovereignty. |
+| 2019 | Q3(a) | 20 | Discuss how far does Austin's concept of sovereignty go along with Kautilya's concept of sovereignty. |
 | 2020 | Q1(d) | 10 | Explain the importance of Bodin's theory of sovereignty. |
 | 2020 | Q4(b) | 15 | State and explain the relevance of the doctrine of sovereignty in times of globalization. |
 | 2021 | Q1(c) | 10 | Is Austin's theory of sovereignty compatible with democracy? Discuss. |
@@ -706,56 +834,84 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 
 ## 11. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
-### 11.1 10-mark answer architecture
-**Use for:** 2020 Bodin importance; 2021 Austin and democracy; 2018 *daṇḍanīti*. ✅
+### 11.0 Directive decoder — the verb fixes the structure
 
-**Balanced structure:**
-1. **Definition/statement (2–3 lines):** give the exact doctrine. ✅
-2. **Argument (1 short paragraph):** explain why the thinker says this. ✅
-3. **Distinction or key concept (bullet/table):** one precision move. ✅
-4. **Objection → reply (2–3 lines):** show critical control. ✅
-5. **Conclusion (1–2 lines):** balanced relevance. ✅
+| Directive in the stem | What is actually scored | Compulsory structural move | Failure mode |
+|---|---|---|---|
+| **Explain / Elucidate** | internal logic of one doctrine | statement → attributes → one distinction → one worked example | drifting into criticism and under-expounding |
+| **Discuss** | exposition plus one adjudicated tension | doctrine → rival → objection → reply → verdict | narrating the thinker's biography or context |
+| **Critically examine / evaluate** | the objection–reply layer *is* the answer | two objections, each with a reply and a **residual** problem | listing five criticisms with no reply |
+| **How far / To what extent** | a degree judgment is compulsory | state the conditions of holding and of failing | a bare yes/no, or evasive balance |
+| **Compare / Distinguish (e.g., Austin vs Kautilya)** | shared axes run in parallel | fix 4–5 axes, run both down each, then adjudicate | two sequential mini-essays |
+| **Comment on a quoted line** (e.g., "no permanent friend or enemy") | locate the line in its doctrine before judging | source doctrine → what the line asserts → limit → verdict | treating the quotation as self-explanatory |
+| **Is X satisfactory / acceptable?** | the criterion of satisfactoriness must be named first | name the test → apply → concede the rival's strength | asserting a verdict with no standard |
 
-**Template:**
-- Intro: exact definition / thesis.
-- Body 1: argument and context.
-- Body 2: one key distinction or example.
-- Body 3: one criticism and one reply.
-- Conclusion: significance + limitation.
+### 11.1 10-mark method (~150 words · 5 moves · ~12 minutes)
 
-### 11.2 15-mark answer architecture
-**Use for:** 2024 Kautilya relevance; 2025 "no permanent friend or enemy"; 2018 Laski satisfactory position. ✅
+1. **Exact doctrine (2 lines)** in the thinker's own vocabulary: *determinate human superior*, *absolute and perpetual power*, *saptāṅga*, *daṇḍanīti*, *Grundnorm*, *rule of recognition*.
+2. **Argument (4–5 lines)** as numbered premises — why the thinker must say this, given his project.
+3. **One precision distinction** (legal/political, de jure/de facto, monist/pluralist, primary/secondary rules, interference/domination of authority).
+4. **One evidence unit** from §11.4 with its limitation.
+5. **Graded verdict (2 lines)** from §11.5.
 
-**Balanced structure:**
-1. **Intro:** define concept and identify thinker. ✅
-2. **Section A:** statement + argument. ✅
-3. **Section B:** presupposition + distinction. ✅
-4. **Section C:** example/application. ✅
-5. **Section D:** objection → reply. ✅
-6. **Conclusion:** reasoned judgement, not slogan. ✅
+> ❌ At 10 marks do not attempt the full Austin → Kelsen → Hart sequence. Use **one** repair, fully worked.
 
-**Best practice:** use at least one table for comparison or one boxed set of key terms. ✅
+### 11.2 15-mark method (~220 words · 6 moves · ~18 minutes)
 
-### 11.3 20-mark answer architecture
-**Use for:** 2022 Bodin; 2023 Laski; 2019 Austin vs Kautilya. ✅
+1. **Frame the dispute, not the topic** — "the question is whether sovereignty names a person, a norm-hierarchy, an official practice or a plurality of allegiances."
+2. **Doctrine A** with its presupposition about state, law and order.
+3. **Doctrine B** as the strongest rival, with the presupposition it denies.
+4. **One comparison table** on 3–4 shared axes (this is where the marks are on compare/distinguish stems).
+5. **One fully worked objection → reply → residual problem.**
+6. **Conditional verdict** naming what each doctrine explains and what it cannot.
 
-**Balanced structure:**
-1. **Intro (concept + stakes):** define sovereignty and state the precise debate. ✅
-2. **Doctrine exposition:** exact statement in the thinker's own terms. ✅
-3. **Argument unpacked:** why the thinker holds the view. ✅
-4. **Presuppositions:** view of state, law, society, or order. ✅
-5. **Distinctions:** legal/political, internal/external, monist/pluralist, etc. ✅
-6. **Examples/applications:** exam-relevant illustration without fabricated detail. ✅
-7. **Objections:** at least two serious criticisms. ✅
-8. **Replies/defence:** fair reply, even if partial. ✅
-9. **Comparative or evaluative paragraph:** place the thinker against at least one rival. ✅
-10. **Conclusion:** balanced verdict on relevance and limitation. ✅
+> ⚠️ For Kautilya stems, the mark-bearing move is showing that his sovereign is **strong but duty-bound** — *saptāṅga* interdependence, *daṇḍanīti*, *yogakṣema* — so that he is neither an Austinian absolutist nor a constitutionalist.
 
-### 11.4 Ready-made balanced conclusions
+### 11.3 20-mark method (~300 words · 8 moves · ~25 minutes)
+
+1. **Provisional thesis** using the stem's own directive verb.
+2. **Concept map:** internal/external, legal/political, de jure/de facto, monist/pluralist — deployed in two lines, not four paragraphs.
+3. **Doctrine exposition** in the thinker's technical terms.
+4. **Presuppositions** made explicit — about law, order, human nature or the state.
+5. **The internal critique first** (Kelsen and Hart against Austin), then the **external critique** (Laski, federalism, custom, international law). ⚠️ This ordering is itself a marker of philosophical control.
+6. **Reply on the doctrine's behalf**, ending in a residual problem it cannot discharge.
+7. **One dated Indian illustration**, classified accurately as constitutional text, statute or judgment, with the caution that legal status is not philosophical proof.
+8. **Graded verdict** that separates what survives (the *concept* of supreme legal authority) from what does not (the *image* of a determinate personal sovereign).
+
+> ⚠️ On "Austin vs Kautilya" (2019 pattern), run five axes — source of authority, limits, purpose of rule, treatment of law, treatment of external relations — and finish with the asymmetry: Austin analyses the *form* of authority, Kautilya prescribes its *function*.
+
+### 11.4 Selectable evidence bank — 1 unit at 10 marks, 2 at 15, 4–5 at 20
+
+Each unit is **Claim → Named anchor → Use for → Limitation**.
+
+- **S1 · Sovereignty is absolute and perpetual, yet not lawless.** Claim: the supreme power to give law to all without consent, bound nonetheless by divine law, natural law, the *leges imperii* and private property → Named: Bodin → Use for: 2020, 2022 → Limit: the internal tension between "absolute" and "bound" is Bodin's permanent vulnerability and should be conceded.
+- **S2 · The sovereign is a determinate human superior.** Claim: habitually obeyed by the bulk of a given society and not habitually obedient to any like superior; law is command backed by sanction → Named: Austin → Use for: 2021, 2019 → Limit: cannot accommodate power-conferring rules, federalism, custom or international law.
+- **S3 · Validity derives from a higher norm, not from power.** Claim: law is a hierarchy of norms terminating in a presupposed *Grundnorm* → Named: Kelsen, *General Theory of Law and State*, English edition **1945** → Use for: any stem on the *legal* nature of sovereignty; explains continuity and persistence → Limit: the basic norm is presupposed, not proved, and revolution forces efficacy back into the theory.
+- **S4 · Law is a union of primary and secondary rules.** Claim: the ultimate criterion of validity is a **rule of recognition** existing as convergent official practice viewed from the internal point of view → Named: Hart, *The Concept of Law*, **1961** → Use for: the strongest internal critique of Austin; "being obliged vs having an obligation" → Limit: Dworkin's hard-cases objection remains unresolved.
+- **S5 · Sovereignty must be divided and shared.** Claim: the state is one association among many and must compete for allegiance by satisfying wants → Named: Laski, *A Grammar of Politics* → Use for: 2018, 2023 → Limit: under-explains the state's coordinating necessity in emergency.
+- **S6 · Authority is duty-bound and organic.** Claim: the *svāmī* is one of seven interdependent limbs (*saptāṅga*), governs through *daṇḍanīti*, and is obligated to *yogakṣema* → Named: Kautilya, *Arthaśāstra* → Use for: 2018, 2024, 2019 comparison → Limit: prudential statecraft is not consent-based legitimacy; do not read modern democracy into it.
+- **S7 · Interstate relations are structurally, not morally, determined.** Claim: the *maṇḍala* framework and the *ṣāḍguṇya* six-fold policy make friendship and enmity positional rather than permanent → Named: Kautilya → Use for: 2025-pattern quoted-line stems → Limit: a descriptive-strategic model; it does not by itself license amoral policy.
+- **S8 · The personal sovereign dissolves in three different directions.** Claim: Kelsen replaces him with a norm-hierarchy, Hart with an official practice, Laski with plural associations → Named: §3A.4 comparison grid → Use for: any "critically examine the theory of sovereignty" stem → Limit: the three are rivals, not allies; do not merge them.
+- **S9 · Legal authority in a modern state is competence-distributed.** Claim: a written supreme constitution with an amendment procedure and judicial review is rule-governed authority, not commander's will → Named: the Constitution of India; *Kesavananda Bharati* (Supreme Court judgment, **1973**) on limits to the amending power → Use for: Indian illustration in any Austin/Hart answer → Limit: ✅ a judgment is a dated judicial decision, not philosophical proof; do not call any Indian body "the Austinian sovereign".
+- **S10 · Globalisation reconfigures rather than abolishes sovereignty.** Claim: treaty obligations, dispute-settlement bodies and transnational regulation pool and constrain competence → Named: §7.3 of this file → Use for: contemporary-relevance closers → Limit: ⚠️ say "reconfigured, constrained, pooled or negotiated", never "disappeared".
+
+### 11.5 Graded verdict formulas (adapt; never reproduce mechanically)
+
+- **Form-survives verdict:** "The concept of a supreme legal authority survives every criticism examined; the image of a determinate personal sovereign does not."
+- **Internal-repair verdict:** "Austin is not refuted from outside so much as rebuilt from inside — Kelsen supplying a hierarchy of validity, Hart a structure of rules — so positivism is refined rather than abandoned."
+- **Asymmetric verdict:** "⟨Thinker⟩'s analysis of legal form is unmatched; his account of political reality is not."
+- **Function-over-form verdict (Kautilya stems):** "Kautilya's sovereign is strong precisely because he is duty-bound: authority is justified by *yogakṣema*, not by the absence of a legal superior."
+- **Pluralist-limit verdict (Laski stems):** "Laski's corrective is indispensable against absolutism, yet a polity that can never speak with one voice cannot discharge the coordinating task that made sovereignty necessary in the first place."
+- **Degree verdict:** "Sovereignty is illimitable in legal form, limited in political fact, and negotiated in international practice; the stem is therefore answerable only as a matter of degree."
+
+### 11.6 Thinker-specific closing lines
+
 - **On Bodin:** Bodin's theory is historically indispensable because it gives modern politics the language of final state authority, but its concentration of power remains difficult to reconcile with equality, justice, and liberty in their modern democratic sense. ⚠️
 - **On Austin:** Austin clarifies the legal form of sovereignty with unmatched precision, yet the theory becomes too rigid when faced with constitutionalism, democracy, federalism, custom, and international law. ⚠️
 - **On Laski:** Laski's pluralism is a powerful corrective to absolutism because it protects liberty and social reality, though it may insufficiently explain the state's coordinating necessity in crisis. ⚠️
 - **On Kautilya:** Kautilya's sovereignty is strong yet duty-bound—combining order, welfare, and strategic prudence—and is therefore more flexible than pure legal monism. ⚠️
+- **On Kelsen:** Kelsen purifies sovereignty of personality altogether: what is supreme is not a ruler but the presupposed apex of a hierarchy of validity — a gain in analytical clarity bought at the price of a basic norm that must be assumed rather than demonstrated. ⚠️
+- **On Hart:** Hart relocates ultimate authority from a commander's will to the convergent practice of officials, which explains legal obligation far better than habit does, though it leaves the hard-case problem raised by Dworkin unresolved. ⚠️
 
 ## 12. LINK-OUTS
 - [Individual and State](Individual-and-State.md) — authority, obligation, and limits of state power.
@@ -775,3 +931,8 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 - Harold J. Laski, *A Grammar of Politics*.
 - Harold J. Laski, *Studies in the Problem of Sovereignty*.
 - Kautilya, *Arthaśāstra* (Shamasastry / R. P. Kangle translation).
+- Hans Kelsen, *General Theory of Law and State* — first English edition **1945**, translated by Anders Wedberg. Cited by title and year only; no page, chapter, edition or verbatim wording is asserted.
+- H. L. A. Hart, *The Concept of Law* (**1961**) — primary and secondary rules, the rule of recognition and the internal point of view. Cited by title and year only; paraphrased, never quoted.
+- *Kesavananda Bharati v. State of Kerala* (Supreme Court judgment, **1973**), used only as a dated judicial illustration of a legally limited amending competence.
+
+> ⚠️ **Provenance note for §3A (added in this pass):** the Kelsen and Hart module is a named-scholar reconstruction adapted into this Philosophy owner. It asserts no page, chapter, edition or verbatim wording, makes no empirical claim about any Indian government, party or period, and deliberately does **not** develop Dworkin's principles/hard-cases argument, which is owned by [Individual and State](Individual-and-State.md).

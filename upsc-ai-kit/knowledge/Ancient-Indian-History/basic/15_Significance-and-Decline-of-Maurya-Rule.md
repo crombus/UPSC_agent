@@ -82,3 +82,38 @@
 - ⚠️ Discuss Mauryan rule as the first major experiment in subcontinental state control and economic regulation.
 - ⚠️ Use Mauryan art to show how political authority was expressed through stone, polish, pillars and symbols.
 - ⚠️ Explain decline through a cluster of causes rather than a single moral or religious explanation.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Mauryan rule matters not only for its scale but for the political, inscriptional and ideological templates it left behind." |
+| Critically examine | "Mauryan decline was real, but it cannot be explained by any single cause such as Ashoka's pacifism or weak successors alone." |
+| Compare / evaluate | "The empire's historical significance outlived its political fall, which itself resulted from a combination of structural and dynastic strains." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** achievements -> emerging strains -> competing decline explanations
+- **For comparison Qs:** significance vs decline in two balanced halves
+- **For evaluate Qs:** legacy -> critique of one-cause explanations -> qualified ending
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Mauryas created a durable imperial template | ✅ Political integration and Ashokan inscriptional practice | Shows why the dynasty matters beyond dates | Integration remained uneven geographically |
+| 2 | Decline was multi-causal | ✅ Weak successors, provincial assertion and fiscal strain arguments | Gives analytical depth beyond textbook clichés | Post-Ashokan evidence is thinner than for the peak |
+| 3 | Ashoka's dhamma is an insufficient single-cause explanation | ⚠️ Pacifism thesis remains debated | Guards against simplistic moral causation | Hard to isolate military weakening from other factors |
+| 4 | Legacy survived political fragmentation | ✅ Administrative memory, roads and the imperial idea | Explains continued historical significance | Continuity was indirect, not institutional continuity |
+
+### Counterpoint and balance
+
+- Do not reduce decline to great-ruler-followed-by-weak-heirs alone.
+- Do not let decline discussion erase the empire's long-term significance.
+
+### Verdict framing
+
+- Conclude that Mauryan significance and Mauryan collapse must be judged separately.
+- A reasoned verdict says the empire fell, but its models of rulership and integration endured.

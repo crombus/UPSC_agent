@@ -132,12 +132,29 @@ def topic_label(path: Path) -> str:
     return title
 
 
+def same_topic_number(topic: Path, candidate: Path) -> bool:
+    topic_num = topic_number(topic)
+    candidate_num = topic_number(candidate)
+    if topic_num and candidate_num and candidate_num != topic_num:
+        return False
+    return True
+
+
 def tokens(text: str) -> set[str]:
     return {
         token
         for token in re.findall(r"[A-Za-z0-9]+", text.casefold())
         if len(token) > 2 and token not in STOPWORDS
     }
+
+
+def session_label(path: Path) -> str:
+    stem = path.stem.casefold()
+    if "workbook" in stem:
+        return "Workbook"
+    if "learning-session" in stem:
+        return "Session"
+    return "Session"
 
 
 def notes_for_subject(subject: str) -> list[Path]:
@@ -162,6 +179,8 @@ def matched_notes(topic: Path, subject_pdfs: list[Path]) -> list[Path]:
         return []
     scored: list[tuple[float, Path]] = []
     for pdf in subject_pdfs:
+        if not same_topic_number(topic, pdf):
+            continue
         pdf_words = tokens(pdf.stem)
         overlap = len(topic_words & pdf_words)
         if not overlap:
@@ -184,6 +203,8 @@ def matched_sessions(subject_dir: Path, topic: Path) -> list[Path]:
         if not session_dir.is_dir():
             continue
         for path in session_dir.rglob("*.md"):
+            if not same_topic_number(topic, path):
+                continue
             session_words = tokens(path.stem)
             overlap = len(topic_words & session_words)
             if overlap:
@@ -292,7 +313,9 @@ def render_topic_section(subject: str, subject_dir: Path) -> list[str]:
             if advanced:
                 resources.append(md_link("Advanced", advanced))
             sessions = matched_sessions(subject_dir, basic)
-            session_links = " · ".join(md_link("Session", path) for path in sessions) or "—"
+            session_links = " · ".join(
+                md_link(session_label(path), path) for path in sessions
+            ) or "—"
             note_links = " · ".join(
                 md_link(pdf.stem, pdf) for pdf in matched_notes(basic, subject_pdfs)
             ) or "—"
@@ -308,7 +331,9 @@ def render_topic_section(subject: str, subject_dir: Path) -> list[str]:
                 md_link(pdf.stem, pdf) for pdf in matched_notes(path, subject_pdfs)
             ) or "—"
             sessions = matched_sessions(subject_dir, path)
-            session_links = " · ".join(md_link("Session", item) for item in sessions) or "—"
+            session_links = " · ".join(
+                md_link(session_label(item), item) for item in sessions
+            ) or "—"
             rows.append(
                 f"| {escape(relative_area)} | {escape(topic_label(path))} "
                 f"| {escape(prelims_direction(subject))} | {escape(mains_direction(subject, False))} "

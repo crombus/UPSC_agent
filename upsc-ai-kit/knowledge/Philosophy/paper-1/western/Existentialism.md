@@ -177,6 +177,123 @@ THREE THINKERS — ONE SHARED CONVICTION:
 - Faith is a *paradox*: to believe that the eternal has entered time (the Incarnation), that the universal ethical law can be suspended (Abraham), is *absurd* by rational standards. Yet it is the highest form of authentic existence — standing as a singular individual before God, without the comfort of the universal or the crowd. ✅
 - **The "knight of faith"** (*Fear and Trembling*): outwardly indistinguishable from a bourgeois citizen (unlike the "knight of infinite resignation" who renounces the world visibly), the knight of faith lives fully in the finite world *while simultaneously* relating absolutely to the Absolute.
 
+### 2.9 FEAR vs ANGST — the distinction the whole tradition turns on ✅
+
+**This is the most frequently botched distinction in the item.** Fear and anxiety are not degrees of the same thing; they differ in *what they are about*, and it is that difference that makes anxiety philosophically disclosive.
+
+| | **FEAR** (*Frygt* / *Furcht* / *peur*) | **ANXIETY / DREAD / ANGUISH** (*Angest* / *Angst* / *angoisse*) |
+|---|---|---|
+| **Object** | A **determinate entity within the world** — a dog, an examination, a fall | **No determinate object.** Kierkegaard: "the object of anxiety is a *nothing*." Heidegger: that in the face of which one is anxious "is completely indefinite" |
+| **What it is really about** | the threatening thing | **Kierkegaard:** *possibility* — my own "possibility of being able." **Heidegger:** *Being-in-the-world as such*. **Sartre:** *my own freedom* |
+| **Direction** | I **flee toward** the world, seeking shelter in what is familiar | It **individualises**: the world's significance collapses, *das Man* falls away, and Dasein stands alone |
+| **Disclosive value** | Discloses a threat | Discloses **freedom, finitude and the groundlessness of existence** — it is a privileged mood (*Grundbefindlichkeit*) |
+| **Canonical formula** | — | ✅ Kierkegaard: "**anxiety is the dizziness of freedom**" (*The Concept of Anxiety*, 1844); "a sympathetic antipathy and an antipathetic sympathy" — we are drawn to what we shrink from |
+
+**The three canonical examples — learn one from each thinker ✅:**
+1. **Kierkegaard (innocence):** the man standing at the edge of an abyss looks down and grows dizzy — but the dizziness is as much in the eye as in the abyss. In innocence there is no knowledge of good and evil, yet there is anxiety, because freedom's possibility is already sensed. Anxiety is the presupposition of the "leap" by which sin (and selfhood) enters.
+2. **Heidegger (*Being and Time* §40):** in anxiety "**the world has the character of complete insignificance**" — the totality of involvements (the workshop of ready-to-hand things) collapses, and Dasein is thrown back on its bare *that-it-is*. Heidegger's compressed formula: **that in the face of which one is anxious and that for which one is anxious are the same — Being-in-the-world.** Anxiety therefore discloses Dasein as *solus ipse* and frees it for authentic choosing.
+   - ⚠️ In "What is Metaphysics?" (1929) Heidegger adds that anxiety reveals *das Nichts* — the Nothing — which is the source of the phrase Carnap attacks. See [`Logical-Positivism.md`](Logical-Positivism.md) §2.2 for the correct wording and Heidegger's reply.
+3. **Sartre (*Being and Nothingness*, Part I):** two examples, and both should be named.
+   - **The cliff path.** Walking a narrow path above a precipice, I feel **fear** of the drop — of the loose stone, the gust of wind, the world's threat. But then I realise that **nothing prevents me from throwing myself over**: no barrier within me, no fixed nature. That vertigo is **anguish** — not fear of the abyss but anguish before my own freedom.
+   - **The gambler.** A man has resolved firmly, yesterday, never to gamble again. Standing at the table today, he discovers that yesterday's resolution is *there* but **powerless** — it must be remade now, and nothing guarantees he will remake it. Anguish is this discovery that my past self cannot bind my present self.
+
+**The argument implicit in all three, numbered ⚠️:**
+1. Moods (*Stimmungen*, *Befindlichkeit*) are not private colourings added to a neutral world; they are ways in which one's situation is *disclosed*.
+2. Fear discloses an entity as threatening, and so keeps us within the world of concern.
+3. Anxiety has no entity as its object; therefore it cannot disclose an entity.
+4. Yet it plainly discloses something, since it has definite content and is not mere confusion.
+5. ∴ What it discloses is not an entity but a **structure** — my freedom (Kierkegaard, Sartre) or Being-in-the-world as such (Heidegger).
+6. ∴ Anxiety is philosophically privileged: it is the one mood in which existence as a whole becomes an issue for the existing individual.
+
+**Presuppositions ⚠️:** (P1) moods are cognitively disclosive, not merely affective — deny this and anxiety is only a symptom; (P2) there is a difference in kind, not degree, between an indefinite and a definite intentional object; (P3) what is disclosed in a rare mood is not thereby less real than what is disclosed in ordinary comportment.
+**Strongest objection ❓:** the naturalist reply that anxiety is a pathological or neurochemical state with no cognitive credentials, and that treating it as a source of ontological insight is a category mistake. **Reply:** the existentialist claim is not that anxious people know more, but that the *structure* of the mood — having no object — is itself the datum requiring explanation, and no account of it in terms of an unnoticed object has succeeded.
+
+---
+
+## 2A. THE LOOK (*le regard*) AND BEING-FOR-OTHERS (*l'être-pour-autrui*) ✅ — Sartre's third ontological dimension
+
+**Why this must be in every Sartre answer.** *Being and Nothingness* has **three** ontological dimensions, not two: *être-en-soi*, *être-pour-soi*, and — Part III — ***être-pour-autrui***. An answer that gives only in-itself/for-itself has omitted a third of the book, and specifically the third that contains Sartre's theory of the Other, of shame, of the body, and of love and conflict.
+
+**Exact printed subterms:** *le regard* (the Look) · *l'être-pour-autrui* (being-for-others) · *la honte* (shame) · *le corps-pour-autrui* (the body-for-others) · *"objet-autrui"* / *"sujet-autrui"* · *"la chute originelle"* (the original fall) · *conflit* as "the original meaning of being-for-others."
+
+**Sartre's canonical example — the keyhole ✅ (learn the two stages exactly):**
+| Stage | What is the case |
+|---|---|
+| **1. Absorbed** | Out of jealousy or curiosity I am bent at a keyhole, looking through. I am wholly absorbed: there is *no ego* in my consciousness, only the scene and my project. Consciousness is **pre-reflective**, non-positional about itself. There is no self to be ashamed. |
+| **2. Caught** | Footsteps in the hall. **I am seen.** Instantly my whole being is transformed: I am no longer the pure surveying transcendence but *a peeping Tom*, an object with a nature, seen from outside, judged. |
+
+**The argument, numbered ✅:**
+1. In being looked at, I experience **shame** — and shame is not a private feeling I might have alone; it is by its structure **shame of myself *before* someone**.
+2. ✅ "**Shame is by nature recognition**": in being ashamed I *recognise* that I am as the Other sees me. I do not infer the Other; I *live* his presence as the condition of my own new mode of being.
+3. ∴ The Other is not reached by an **argument from analogy** (Husserl's appresentation), nor by **probable inference** (Mill), nor as a mere co-existent (Heidegger's *Mitsein*, which Sartre says is too irenic). **The Other is given as the subject for whom I am an object.**
+4. ∴ ✅ "**The Other is the indispensable mediator between myself and me**": I acquire an **outside**, a "nature," a being I *am* without having chosen it and without being able to know it from within — my *being-for-others*.
+5. This is a genuine limit to freedom, and the only one Sartre admits: my freedom is not restricted in its choices, but its **meaning** is fixed elsewhere, by a freedom I cannot control. Sartre calls the Look my "original fall" — not into sin but into objecthood.
+6. **The dialectic of concrete relations (Part III, ch. 3).** Since I am objectified by the Other's freedom, I can respond in only two directions, and both fail:
+   | Attitude | Strategy | Forms | Why it fails |
+   |---|---|---|---|
+   | **(a) Assimilate the Other's freedom** — possess the freedom that judges me *while it remains free* | make myself the object the Other freely chooses | **love**, language, **masochism** | Love wants to be loved *freely* — but to be loved is to be made an object, so the very freedom sought is destroyed in the possessing. Masochism collapses because I cannot succeed in being pure object while remaining conscious. |
+   | **(b) Transcend the Other's freedom** — reduce him to an object so his look cannot fix me | make the Other into an object | **indifference**, **desire**, **sadism**, **hate** | An object cannot confer the recognition I wanted; the moment he looks back, the whole structure reverses. Hate wants the Other's *disappearance*, which would leave my being-for-others intact. |
+7. ∴ ✅ "**Conflict is the original meaning of being-for-others.**" The famous line of *Huis clos* (*No Exit*, 1944) — "**L'enfer, c'est les autres**" ("Hell is other people") — follows from this.
+   > ⚠️ **Quote it, then correct the popular misreading.** Sartre himself explained (in a 1965 recorded preface to the play) that the line does **not** mean relations with others are always poisonous; it means that if one's relations with others are twisted, then the Other's judgement becomes the medium of one's own self-torment — and that the three characters in the play are dead, i.e. fixed, unable to change their acts. Making this correction is a high-value move.
+
+**Presuppositions ⚠️:** (P1) shame is irreducibly relational and cannot be analysed away as self-assessment; (P2) pre-reflective consciousness is egoless, so the ego that appears under the Look is genuinely *conferred*; (P3) subject and object are exclusive — I cannot be looked-at and looking in the same act, which is what makes reciprocity impossible; (P4) there is no third term (a "we-subject" of the kind Marxists posit) that could stabilise the relation. Sartre discusses and rejects it in Part III.
+
+**Comparison — the four accounts of the Other ⚠️ (a table worth memorising):**
+| Thinker | How the Other is reached | Basic relation |
+|---|---|---|
+| **Husserl** | *analogical appresentation* through pairing in the sphere of ownness | The Other is constituted **for me** — hence the solipsism charge. See [`Phenomenology-Husserl.md`](Phenomenology-Husserl.md) §3A |
+| **Heidegger** | not reached at all — Dasein is **always already** *Mitsein* (being-with) | Neutral co-existence; no drama, but also no account of the individual Other |
+| **Sartre** | the **Look** — the Other is revealed in the *shame* of being objectified | **Conflict**; recognition is structurally unattainable |
+| **Levinas** | the **face** (*visage*) of the Other, which commands before it is known | **Ethical asymmetry** — responsibility precedes freedom; explicitly a reply to both Husserl and Sartre |
+
+**Strongest objections → replies ❓:**
+| Objection | Reply | Residual |
+|---|---|---|
+| Sartre generalises from a small set of **pathological** encounters (the peeping Tom, sadism, seduction) to the structure of all human relations. | Sartre's claim is ontological, not statistical: he analyses the *possibility-conditions* of any relation, and conflict is the structure even where it is unnoticed. | ⚠️ Strong objection; Sartre himself moves toward a more social account in the *Critique of Dialectical Reason* (1960), where the "group-in-fusion" allows non-objectifying solidarity. That development is the best evidence the objection landed. |
+| Shame is not the primitive datum; **love, trust and being-cared-for** are equally basic and are not objectifications. | Sartre analyses love (§6(a)) and argues its internal contradiction. | ❓ The analysis is compelling only if one accepts P3 (subject/object exclusivity). |
+| **Levinas:** to encounter the Other only as a rival freedom is still to think him from the self. | — | ⚠️ Sartre has no reply within *Being and Nothingness*; this is the strongest single line of criticism. |
+
+**Executable verdict:** "The Look is Sartre's decisive advance on Husserl: it makes the Other neither an inference nor a constituted sense but the condition of a mode of my own being. It is also his most contestable doctrine, since the exclusivity of subject and object — the premise that I cannot be looked at and looking in the same act — converts an insight about shame into a general theory of conflict. Sartre's own later turn to the group-in-fusion, and Levinas's ethics of the face, are both attempts to keep the insight while dropping the premise."
+
+---
+
+## 2B. KIERKEGAARD — INDIRECT COMMUNICATION AND PSEUDONYMITY ✅
+
+**Why it is examinable.** Kierkegaard's use of pseudonyms is not literary decoration; it is a **direct consequence of the doctrine that truth is subjectivity**. A question on "truth is subjectivity" or on Kierkegaard's critique of Hegel is incomplete without it, and the point is almost never made in ordinary scripts.
+
+**The problem, numbered ✅:**
+1. Objective truth — historical, scientific, metaphysical — can be transmitted **directly**: I state a result, you receive it, and nothing about your existence need change.
+2. But ethical and religious truth is not a result; it is a **mode of existing**, an appropriation in inwardness. ✅ "**Truth is subjectivity**" (*Concluding Unscientific Postscript*, 1846) — the *how* of the relation, not the *what* of the content, is decisive.
+3. If such truth were communicated **directly**, the recipient would take it over as a *result* — as information, as doctrine, as something one can know without becoming. The communication would thereby **falsify** exactly what it communicates.
+4. ∴ Ethical-religious truth requires **indirect communication** (*indirekte Meddelelse*): a form that withholds the result, refuses to be an authority, and forces the reader to relate to the possibility **for himself**.
+5. The model is **Socratic maieutics** — the midwife who brings to birth what the other must produce, and who, in Kierkegaard's phrase, "**deceives into the truth**." The author must become a *vanishing* occasion, not a teacher with a doctrine.
+6. ∴ **Pseudonymity.** The pseudonyms are not disguises for a shy author but **personified existence-possibilities** — each writes from *within* a sphere of existence and cannot see beyond it.
+
+**The pseudonyms and their standpoints — the table to reproduce ✅:**
+| Pseudonym | Work (year) | Standpoint written from |
+|---|---|---|
+| **Victor Eremita** (editor) | *Either/Or* (1843) | presents the aesthetic ("A") and ethical (Judge William) papers side by side without deciding between them — the reader must choose |
+| **Johannes de Silentio** | *Fear and Trembling* (1843) | one who admires faith but **does not have it**; hence the "silence" — he can describe Abraham but not understand him |
+| **Constantin Constantius** | *Repetition* (1843) | the aesthetic-experimental observer |
+| **Vigilius Haufniensis** ("watchman of Copenhagen") | *The Concept of Anxiety* (1844) | psychological observer of anxiety, deliberately *not* a dogmatician |
+| **Johannes Climacus** | *Philosophical Fragments* (1844); *Concluding Unscientific Postscript* (1846) | a **humorist** who is explicitly **not a Christian** — which is why he can pose the problem of becoming one |
+| **Anti-Climacus** | *The Sickness unto Death* (1849); *Practice in Christianity* (1850) | a Christian at an **extraordinarily high** level — above Kierkegaard himself, deliberately the mirror image of Climacus |
+
+> ⚠️ Kierkegaard also published, **simultaneously and under his own name**, the *Upbuilding/Edifying Discourses*. The "**double authorship**" is deliberate: the signed religious writings stand beside the pseudonymous works as the direct pole of a single strategy. Saying this shows you understand pseudonymity as a *method*, not an evasion.
+
+**Kierkegaard's own instruction ✅ — the "First and Last Declaration" appended to the *Postscript* (1846):** he acknowledges authorship of the pseudonymous books while insisting that he is only their "author's author," a **prompter** (*souffleur*) who has produced characters, and he asks that anyone citing them **quote the pseudonym's name, not his**. ⚠️ **Follow this in your answers**: write "Johannes de Silentio argues…" or "Climacus holds…" — it is textually correct and instantly visible as expertise. ❌ Writing "Kierkegaard says in *Fear and Trembling*…" ignores an instruction the author printed.
+
+**Presuppositions ⚠️:** (P1) there is a genuine category of truth that cannot be held without being lived; (P2) the reader's freedom must be protected from the author's authority; (P3) the pseudonymous voices are internally coherent standpoints, not the author speaking with a mask.
+
+**Strongest objections → replies ❓:**
+| Objection | Reply | Residual |
+|---|---|---|
+| Indirect communication makes Kierkegaard's own position **unattributable** — one can never pin him down, so the method insulates him from criticism. | The signed discourses and *The Point of View for My Work as an Author* (written 1848, published posthumously 1859) provide the direct pole and an explicit account of the strategy. | ⚠️ *The Point of View* is itself a retrospective self-interpretation and is disputed as evidence. |
+| If subjective truth cannot be said directly, then the *thesis* "truth is subjectivity" cannot be said directly either — the method is self-undermining. | Climacus concedes precisely this: the *Postscript* ends by **revoking** itself, and Kierkegaard's texts are, like the *Tractatus*'s ladder, meant to be discarded. | ⚠️ **A first-class exam observation:** Kierkegaard, the early Wittgenstein (6.54) and Hegel's Unhappy Consciousness all end with a text that consumes itself. Cross-link [`Moore-Russell-EarlyWittgenstein.md`](Moore-Russell-EarlyWittgenstein.md) §6.6 and [`Hegel.md`](Hegel.md) §1.8. |
+| Hegelian reply: the "existing individual" whose truth cannot be systematised is simply an unreflective stage that philosophy sublates. | Kierkegaard: no system can contain the one who *builds* it; the systematiser must still exist, choose and die. "A logical system is possible; an existential system is impossible." | ⚠️ This is the sharpest single sentence to deploy in any Kierkegaard-vs-Hegel question. |
+
+**Executable verdict:** "Pseudonymity is the formal counterpart of the doctrine that truth is subjectivity: because ethical-religious truth is a mode of existing rather than a result, it can be communicated only in a form that refuses to deliver a result. The method's cost is that it is self-consuming — Climacus revokes the *Postscript* — and its power is that the cost is intended. Kierkegaard is not evading the demand for a position; he is denying that a position, in the systematic sense Hegel required, is the sort of thing an existing individual can hand over."
+
 ---
 
 ## 3. BEING-IN-THE-WORLD AND TEMPORALITY ✅
@@ -518,6 +635,73 @@ Close  : For Sartre, the "problem" of freedom and determinism is a false problem
 | Chief enemy | Hegel's System, the crowd, objective Christianity | Determinism, bad faith, the serious spirit | Cartesian dualism, *das Man*, metaphysics of presence |
 | Relation to Hegel | Revolt — the individual cannot be sublated | Inherits dialectic (en-soi/pour-soi); rejects teleology | Inherits concern with Being; rejects Hegel's "ontotheology" |
 | Mood disclosing truth | Anxiety (*Angest*), despair | Anguish (*angoisse*), nausea (*la nausée*) | Anxiety (*Angst*) — discloses the nothing/thrownness |
+
+---
+
+## D. DIRECTIVE DECODER ⚠️ — what each command word obliges you to *do* here
+
+| Directive | What it demands | Structural obligation for **this** file | Fatal error |
+|---|---|---|---|
+| **Comment / Elucidate the statement** (2021 "if I do not choose, I am still choosing"; 2023 "consciousness is what it is not") | locate the sentence **in its own thinker's system**, then unpack the technical terms | Identify the work, the pair of terms it turns on (pour-soi/en-soi, facticity/transcendence), then two consequences, then a judgment. | Treating the sentence as a general maxim about life. |
+| **Discuss existence precedes essence** | show that it **follows from atheism plus intentionality**, not from rhetoric | Sartre's own argument: no God ⇒ no human nature conceived in advance ⇒ man first exists, then defines himself. Then the counter that Heidegger rejected the formula for himself. | Quoting the slogan and illustrating with a paper-knife only. |
+| **Critically examine authenticity** (2019, 2022) | assessment dominates, and the **non-moral** reading is the marked point | State that *Eigentlichkeit* is an existential modification, not a virtue; then *das Man*, call of conscience, being-toward-death; then the charge of formal emptiness. | Treating authenticity as "being true to yourself." |
+| **Discuss being-in-the-world** (2022, 20m) | the **hyphens are the doctrine** — show that the compound resists decomposition | Refuse the subject/object split first, then *Zuhandenheit*/*Vorhandenheit*, the broken hammer, care (*Sorge*), and only then temporality. | Describing Dasein as "a human being in the world." |
+| **How does Kierkegaard oppose Hegel?** | a **structural** opposition, not a list of complaints | The existing individual vs the system; either/or vs both/and; the leap vs mediation; indirect communication vs the lecture. Add "a logical system is possible; an existential system is impossible." | "Kierkegaard disliked abstraction." |
+| **Explain freedom and determinism in Sartre** (2019) | show why **no motive determines**, via meaning-conferral | Motives are motives only through the meaning the pour-soi confers; therefore no motive operates prior to freedom. Then the Marxist objection and the *Critique*'s concession. | Asserting "radical freedom" without the meaning-conferral step. |
+| **Bring out the difference between fear and dread/anxiety** | a **structural** difference in the object, and the disclosive payoff | §2.9's table plus one canonical example from each of the three thinkers. | Calling anxiety "a stronger kind of fear." |
+| **Assess / Do you agree?** | a defended ruling in the first line | Rule on radical freedom, on whether authenticity has content, or on whether conflict is really the basic relation with others. | Neutral survey. |
+
+---
+
+## V. GRADED VERDICT BANK ⚠️ — executable closing positions
+
+| Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict** |
+|---|---|---|---|
+| **Existence precedes essence** | The formula is a consequence of consistent atheism: with no maker, there is no design, and therefore no human nature settled in advance of living. | …It is Sartre's, not existentialism's: Heidegger repudiated the formula in the *Letter on Humanism* (1947), and Kierkegaard, a Christian, has no use for it. Handle "existentialism" as a family, not a school. | The doctrine's force is that it makes evasion impossible: since nothing is given, every appeal to nature, role or circumstance is itself a choice. Its cost is that it can give no account of *why* one project is better than another — a difficulty Sartre acknowledged and never resolved, since the promised ethics of *Being and Nothingness* was never written. |
+| **Radical freedom** | Freedom is not a property the self has but what the self *is*; situations limit what is possible, never what is chosen. | …The pivot is meaning-conferral: a motive becomes a motive only through the sense the pour-soi gives it, so nothing can move me prior to my freedom. | The doctrine is unfalsifiable as stated, and its author came to think so: the *Critique of Dialectical Reason* (1960) reintroduces scarcity, seriality and the practico-inert precisely to explain how freedom can be *conditioned* without being abolished. The defensible residue is not "we are absolutely free" but "there is no situation whose meaning is settled independently of an act of freedom" — and that is enough to defeat determinism without absurdity. |
+| **Bad faith** | Bad faith is not lying to others but a single pre-reflective posture in which one identifies with facticity alone, or transcendence alone. | …Its possibility depends on the non-self-identity of consciousness — "it is what it is not and is not what it is" — which is why Sartre needs the whole ontology of the pour-soi to make self-deception intelligible. | Bad faith is Sartre's most successful concept because it is the only account of self-deception that does not require splitting the self into deceiver and deceived. Its difficulty is normative: if all consciousness is non-self-identical, what distinguishes bad faith from ordinary living? Sartre's answer, "authenticity," is gestured at in a footnote and never developed — so the concept diagnoses brilliantly and prescribes nothing. |
+| **The Look / being-for-others** | The Other is not inferred but revealed as the one for whom I am an object; shame is the proof. | …This is a genuine advance on Husserl's appresentation, because the Other is encountered as a *subject*, not constituted as a sense. | The doctrine converts an insight about shame into a general theory of conflict by way of one premise — that being-subject and being-object are exclusive. Drop the premise and love, trust and solidarity become possible without ceasing to be relations to a free Other; keep it and "hell is other people" follows. Sartre's own group-in-fusion, and Levinas's ethics of the face, are two different ways of dropping it, which is the strongest evidence that it should be dropped. |
+| **Anguish / fear** | Fear has a determinate object within the world; anxiety has none, and that is why it discloses freedom rather than a threat. | …The three canonical cases are Kierkegaard's dizziness of freedom, Heidegger's collapse of significance, and Sartre's cliff and gambler; each shows the same structure with a different emphasis. | Anxiety is the tradition's methodological instrument: it is the one mood in which the totality of one's existence becomes an issue, and therefore the only phenomenon that can motivate an existential analytic. The naturalist reply — that anxiety is a pathological state with no cognitive credentials — is answerable only by insisting that the mood's objectlessness is itself the datum, and no reductive account of that objectlessness has succeeded. |
+| **Authenticity (Heidegger)** | *Eigentlichkeit* is an existential modification, not a moral achievement; Dasein is inauthentic proximally and for the most part, and this is structural. | …Anticipatory resoluteness gives Dasein its ownmost, non-relational, certain and indefinite possibility, and thereby a whole — but it prescribes no content whatever. | The formality is deliberate and it is the doctrine's deepest problem. Adorno's charge of a "jargon of authenticity," and the political catastrophe of Heidegger's own 1933, both press the same question: a criterion that tells you to own your choices without telling you which to make can dignify any resolute commitment. The defence — that fundamental ontology is not ethics — is textually correct and philosophically unsatisfying. |
+| **Kierkegaard vs Hegel** | The system can contain everything except the one who builds it: "a logical system is possible; an existential system is impossible." | …Hence either/or against both/and, the leap against mediation, and indirect communication against the lecture — a total opposition of form as well as content. | The opposition is genuine but not symmetrical: Kierkegaard defeats Hegel on the ground of the individual and cannot compete on the ground of system, which he does not want. What makes the critique permanent is that it is *internal* to the Hegelian achievement — Kierkegaard attacks precisely at the Unhappy Consciousness, where Hegel had already located the diagnosis and claimed a cure. See [`Hegel.md`](Hegel.md) §1.8. |
+| **Indirect communication** | Because ethical-religious truth is a mode of existing and not a result, it can be communicated only in a form that withholds the result. | …Hence the pseudonyms are existence-possibilities, not disguises; cite them by name, as Kierkegaard's own "First and Last Declaration" asks. | The method is self-consuming — Climacus revokes the *Postscript* — and the cost is intended. That Kierkegaard, the early Wittgenstein and Hegel's Unhappy Consciousness all terminate in a text that discards itself is not coincidence: each is trying to communicate something that cannot survive being held as doctrine. |
+
+---
+
+## T. TRANSLATION, QUOTATION & PROVENANCE DISCIPLINE ✅
+
+**Three languages (Danish, German, French), three posthumous-edition problems, and one name-attribution rule.**
+
+### Kierkegaard (Danish)
+| Item | Status | Practice |
+|---|---|---|
+| **Pseudonyms** | See §2B | ✅ **Cite the pseudonym**: "Johannes de Silentio," "Climacus," "Vigilius Haufniensis," "Anti-Climacus." Kierkegaard printed a request to this effect in the "First and Last Declaration" appended to the *Postscript* (1846). |
+| **Editions** | **Hong & Hong**, *Kierkegaard's Writings* (Princeton, 1978–2000) — the scholarly standard; **Walter Lowrie** (1940s) — the older translations still reprinted in India; **Alastair Hannay** (Penguin) | ⚠️ Wording differs substantially. *Angest* is "**dread**" in Lowrie and "**anxiety**" in Hong; the book is *The Concept of Dread* (Lowrie) or *The Concept of Anxiety* (Hong). **Name the translation or use the Danish once.** |
+| **"Truth is subjectivity"** | *Concluding Unscientific Postscript* (1846), by **Climacus** | ✅ Safe; attribute to Climacus. |
+| **"Anxiety is the dizziness of freedom"** | *The Concept of Anxiety* (1844), by **Vigilius Haufniensis** | ⚠️ Lowrie: "dizziness of freedom"; renderings vary slightly. Safe as a rendering with the attribution. |
+| **"Leap of faith"** | ⚠️ **Provenance:** Kierkegaard writes of *the leap* (*Springet*) and of faith; the fused phrase "**leap of faith**" is the **English tradition's**, not a literal translation of a Kierkegaardian term. | Write "the leap — what the English tradition calls the leap of faith." |
+| **"Life must be lived forwards but understood backwards"** | From the **journals**, not a published work | ⚠️ Say "in his journals." |
+| *The Point of View for My Work as an Author* | Written **1848**, published **posthumously 1859** | ⚠️ A retrospective self-interpretation; do not cite it as contemporaneous evidence of intention. |
+
+### Heidegger (German)
+| Item | Status | Practice |
+|---|---|---|
+| *Sein und Zeit* | **1927**; ⚠️ **Division Two of Part One only — the projected Part Two was never written.** | ✅ Cite by **§ number** (§26 *Mitsein*; §§27, 35–38 *das Man*, *Gerede*, *Verfallen*; §40 *Angst*; §§46–53 being-toward-death; §§54–60 conscience; §65 temporality) — § numbers are edition- and translation-invariant. ⚠️ Never write "in *Being and Time* Heidegger completes his analysis of Being" — he does not; the book is unfinished. |
+| **Translations** | **Macquarrie & Robinson** (1962) and **Joan Stambaugh** (1996, rev. Schmidt 2010) | ⚠️ Key differences: *Dasein* untranslated in both; *Befindlichkeit* = "state-of-mind" (M&R) vs "attunement" (Stambaugh); *das Man* = "the 'they'" (M&R) vs "the they" / "the anyone." **Name the translation for any quoted phrase.** |
+| **Untranslated terms** | *Dasein*, *Zuhandenheit*, *Vorhandenheit*, *Geworfenheit*, *Sorge*, *das Man*, *Eigentlichkeit*, *Sein-zum-Tode*, *vorlaufende Entschlossenheit* | ✅ Give the German once with a gloss; this is standard and expected on this item. |
+| **"Nothing noths"** (*Das Nichts nichtet*) | *Was ist Metaphysik?* (**1929**), Heidegger's Freiburg inaugural lecture | ✅ Correct renderings: "**Nothing noths**" / "the nothing nothings." ❌ **"Nothing noughts" is wrong and must not be used.** See [`Logical-Positivism.md`](Logical-Positivism.md) §T. |
+| **Repudiation of Sartre** | *Brief über den Humanismus* / *Letter on Humanism* (**1946**, published **1947**) | ✅ Essential for any "existentialism" answer: Heidegger explicitly denies that his thought is existentialism, and rejects the formula "existence precedes essence" as a metaphysical inversion that stays within metaphysics. |
+
+### Sartre (French)
+| Item | Status | Practice |
+|---|---|---|
+| *L'Être et le Néant* / *Being and Nothingness* | **1943**; Eng. tr. **Hazel Barnes** (1956); newer **Sarah Richmond** (2018) | ⚠️ Barnes's renderings are the ones most Indian guides reproduce; Richmond revises many. Name the translation, or keep the French term. |
+| **Untranslated terms** | *en-soi*, *pour-soi*, *pour-autrui*, *néantisation*, *mauvaise foi*, *facticité*, *le regard*, *angoisse*, *déréliction*/*délaissement* | ✅ Use the French once with a gloss. |
+| *L'existentialisme est un humanisme* | Lecture **October 1945**, published **1946**; Eng. *Existentialism Is a Humanism* | ⚠️ It is a **popular lecture**, and Sartre later regretted publishing it. Slogans ("condemned to be free," "existence precedes essence," "man is nothing else but what he makes of himself") come from **here**, not from *Being and Nothingness*. Say so — it is a precision mark. |
+| **"L'enfer, c'est les autres"** | *Huis clos* (*No Exit*), play, **1944** | ✅ Safe verbatim in French. ⚠️ Add Sartre's own correction of the popular reading (§2A(7)). |
+| *Critique de la raison dialectique* | **1960** | ✅ Cite for the later concessions: scarcity, seriality, the practico-inert, the group-in-fusion. |
+
+> ❌ **Never write:** "the existentialists held that…" as though Kierkegaard, Heidegger and Sartre share a doctrine — Kierkegaard is a Christian, Heidegger denied he was an existentialist, and only Sartre accepted the label; that authenticity means being true to oneself; that *Being and Time* is a completed system; or that "leap of faith" is a phrase of Kierkegaard's.
 
 ---
 

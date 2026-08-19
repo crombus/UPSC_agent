@@ -759,6 +759,18 @@ For every species, memorise:
 4. Identify cost, equity and lock-in risk.
 5. Keep it complementary to direct prevention/reduction.
 
+### F. Direct-demand checks before writing
+
+| Demand family | Non-negotiable Core check |
+|---|---|
+| Industrial river pollution | Source → pathway → ETP/CETP/consent-monitoring → NMCG/Water Act; do not substitute riverfront work for effluent control. |
+| Freshwater technologies | Give **three** technologies, each with mechanism, one merit and one demerit; distinguish water supply from aquifer restoration. |
+| EIA NGOs/activists | Name four cases with the participation route and bounded legal/project outcome; do not label a forest-rights case as an ordinary EIA hearing. |
+| Resilience/Sendai | Give the resilience elements and **seven targets A–G**, not only four Sendai priorities. |
+| Urban floods | Causes + **two named cases with causal features** + NDMA/ULB/CWC–IMD frameworks. |
+| Paris/COP26/NDC | Separate original NDC, Panchamrit announcement, 2022 updated NDC and dated installed-capacity evidence. |
+| CCUS | Point-source avoidance versus DAC/BECCS removal; storage permanence and MRV are part of the answer. |
+
 ---
 
 ## 31. Five-minute active recall
@@ -832,4 +844,3 @@ Use Advanced only after Core is secure:
 | 26 | [Disaster Management Framework and Sendai](basic/26_Disaster-Management-Framework-and-Sendai.md) | [Advanced](advanced/26_Disaster-Management-Framework-and-Sendai.md) |
 | 27 | [Environmental Institutions](basic/27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md) | [Advanced](advanced/27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md) |
 | 28 | [Species and Current Affairs Tracker](basic/28_Species-and-Current-Affairs-Tracker.md) | [Advanced](advanced/28_Species-and-Current-Affairs-Tracker.md) |
-

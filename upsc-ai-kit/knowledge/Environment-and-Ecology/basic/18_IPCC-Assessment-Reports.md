@@ -199,3 +199,50 @@ findings and confidence levels can be refined across cycles.
   feeds into.
 - ✅ `20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` — India's domestic policy response
   informed by IPCC findings.
+
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Answer **what IPCC is**, **how it makes a finding** and **what it cannot do**. Keep scientific assessment distinct from UNFCCC negotiation and national implementation.
+- **Thesis:** IPCC’s assess-not-research and policy-relevant-not-prescriptive design provides a shared evidence base, while its calibrated uncertainty and assessment-cycle lag require precise, dated use.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Institutional design creates dual authority. | **WMO–UNEP, three Working Groups, TFI and line-by-line SPM approval** → combines scientific synthesis with government ownership. | Approval is not political authorship of the underlying report; it can, however, create cautious consensus wording. |
+| Special reports bridge policy-relevant themes. | **SR1.5, SROCC and SRCCL** → connect 1.5°C, oceans/cryosphere and land/food to live policy questions. | Cite the particular report/year, not “IPCC” generically. |
+| AR7 is a process, not a source of findings yet. | **AR6 (2023) remains the completed assessment; AR7 products/workplans and 2027 methodology reports are scheduled process milestones.** | An outline, workplan or agreed methodology scope is not an AR7 scientific conclusion. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** mandate, three Working Groups and assess-versus-negotiate distinction.
+- **15/20 marks:** add SPM consensus trade-off, calibrated confidence/likelihood language, Special Reports and the science-to-policy gap; conclude that IPCC evidence informs but cannot compel a treaty outcome.
+
+### 13.4 Sea-level and Indian Ocean demand route
+
+**Mechanism:** warming ocean water expands; glacier/ice-sheet mass loss adds water; regional sea level and impacts vary with ocean dynamics, land motion and local exposure.
+**Answer spine:** use **SROCC (2019)** and AR6 as the assessment anchors → explain impacts on low-lying coasts/islands, freshwater salinisation, ecosystems, ports and livelihoods → combine emissions mitigation with risk-sensitive coastal planning, early warning and ecosystem buffers.
+**Qualification:** do not invent a single India-wide sea-level figure or present a global projection as a local forecast; cite the specific IPCC scenario/report and a location-specific Indian source when a number is required.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2023
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2023 | GS-III | 18 | IPCC sea level rise prediction and impact on Indian Ocean | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- IPCC sea level rise prediction and impact on Indian Ocean
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

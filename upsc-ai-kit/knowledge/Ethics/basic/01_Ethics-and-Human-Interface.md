@@ -141,7 +141,79 @@ guide behaviour, choices and actions; standards alone do not ensure ethical cond
 - ⚠️ **Mains (15 marks):** Distinguish coercive and collusive corruption. Why does India's
   liberalisation experience suggest reducing discretion is more durable than moral exhortation?
 
-## 11. Study links
+## 11. Comprehensive National Power (CNP) and the ethics-values linkage
+
+> ✅ 2020 GS-IV Q1(a) (historical demand, routed here): "Discuss the role of ethics and values in
+> enhancing the [three major components of] Comprehensive National Power" and social harmony.
+
+| CNP component | Precise content (not vague nationalism) | How ethics/values enhance it |
+|---|---|---|
+| ⚠️ **Economic strength** | Size, resilience and productivity of the economy; investor and citizen trust in institutions | ✅ ARC 1.8's own finding — transparency and reduced discretion *reduced* corruption post-1991 — shows ethical governance (predictable rule of law, low graft) directly raises ease of doing business and capital inflow; an economy perceived as corrupt pays a persistent "risk premium" in investment and borrowing costs. |
+| ⚠️ **Military/strategic strength** | Defence capability, procurement integrity, morale of the armed forces | ⚠️ Integrity in defence procurement (no kickback-driven equipment choices) ensures capability is bought on merit, not commission; ethical civil-military relations (apolitical professionalism) keep the chain of command trusted and functional. |
+| ⚠️ **Socio-cultural/soft power** | Constitutional values, social harmony, human-development indicators, cultural and diplomatic credibility abroad | ✅ ARC 1.10's citizen-empowerment logic (RTI, social audit, stakeholder participation) builds the internal social harmony/legitimacy that itself becomes external soft power — a state seen as just and rights-respecting attracts diplomatic trust and diaspora/global goodwill. |
+| ⚠️ **Technological/scientific strength** | R&D capacity, innovation ecosystem, data/AI governance | ⚠️ Research integrity (no data fabrication, no plagiarism) and transparent AI-governance norms (see `13`) sustain the credibility that scientific/technological power requires to be trusted domestically and internationally. |
+| ⚠️ **Diplomatic strength** | Ability to build alliances, honour commitments, mediate/lead multilaterally | ⚠️ A state that keeps its treaty and humanitarian commitments (see `12` for the UNCAC/aid-ethics parallel) accumulates diplomatic credibility that a purely military or economic calculation cannot buy. |
+
+**Core proposition:** ⚠️ CNP is not maximised by any single component in isolation, and value/ethics
+inputs are not a decorative "soft" add-on — each material component of national power (economic,
+military, technological, diplomatic) has its own credibility multiplier that is *produced* by
+ethical governance (transparency, integrity, rule-following), while social harmony is the specific
+component ethics/values contribute most directly. Avoid answering this purely in terms of military/
+economic muscle or reducing "ethics" to a one-line moral platitude — name the *mechanism* by which
+values strengthen each component.
+
+- ⚠️ UPSC trap: treating "Comprehensive National Power" as a synonym for military strength alone. ->
+  CNP is a composite index (economic, military, socio-cultural/soft, technological, diplomatic);
+  ethics/values strengthen the *credibility and durability* of each, not only social harmony.
+- ⚠️ Cross-link: `02_Human-Values-and-Lessons-from-Leaders.md` for the leader-exemplar angle on
+  translating values into national character; keep the CNP-mechanism analysis here in `01`.
+
+## 12. Executable directive decoding and answer architecture
+
+| Directive word (as set in GS-IV) | What the examiner is testing | Structural move |
+|---|---|---|
+| **Discuss / Examine** | Balanced, multi-dimensional treatment with your own reasoned position | State the proposition -> give 2-3 dimensions -> named evidence for each -> one counterpoint -> reasoned conclusion |
+| **Explain** | Mechanism/causal clarity, not just definition | Define precisely -> show *how* it works (the mechanism, e.g. Section 3 above) -> one concrete Indian illustration |
+| **Critically examine/evaluate** | Strengths *and* limitations, not one-sided praise or criticism | State the claim -> evidence supporting it -> evidence/limitation against it -> your own weighted verdict |
+| **Illustrate** | A named, specific example doing the analytical work, not decoration | Make the abstract claim -> supply one precise Indian/administrative example -> state exactly what it demonstrates |
+
+**10-mark architecture (~150 words):** (1) 1-2 line context naming the concept precisely; (2) 2-3
+core dimensions/mechanisms (Section 3-4 above); (3) one named piece of evidence per dimension; (4)
+one explicit counterpoint or limitation; (5) one-line reasoned conclusion — never just a summary
+restatement.
+
+**20-mark/case-study architecture:** This file does **not** carry its own abbreviated case-study
+format. Every GS-IV Section-B (20-mark) case study must be built on the full, controlling
+eight-element architecture in `22_Case-Study-Method-and-Answer-Architecture.md` Sec. 1 — facts,
+stakeholders, constraints, **at least three** realistic options (never cap at two, and steelman the
+single strongest objection to the chosen decision, `22` Sec. 6), named ethical evaluation (the
+six-check framework), decision, implementation/communication, and residual-risk mitigation. This
+file's human-interface/CNP analysis (Sections 3-11 above) supplies evidence and mechanism for
+Element 5's ethical evaluation only — it is not itself a rival 20-mark format.
+
+**Selectable evidence pool** (pick 1-2 per answer, do not use all at once):
+1. *Claim:* Discretion + monopoly raise corruption risk. *Evidence:* ARC 1.8's post-1991
+   liberalisation finding (telecom, steel, cement, two-wheelers). *Significance:* shows a structural,
+   not just moral, corrective. *Limitation:* liberalisation itself can create new regulatory-capture
+   risks if oversight does not keep pace.
+2. *Claim:* Citizen empowerment corrects the human-interface asymmetry. *Evidence:* RTI Act, 2005 +
+   citizens' charters (see `17`). *Significance:* converts a passive citizen into an active check.
+   *Limitation:* effectiveness depends on literacy, awareness and administrative responsiveness.
+3. *Claim:* Over-centralisation widens the accountability gap. *Evidence:* ARC 1.9's own diagnosis
+   of layered functionaries between citizen and decision-maker. *Significance:* explains why
+   decentralised service delivery (e.g., Gram Panchayat-level grievance redress) improves ethics
+   outcomes. *Limitation:* decentralisation without capacity-building can simply relocate, not
+   remove, discretion-driven corruption risk.
+4. *Claim:* Ethical governance strengthens Comprehensive National Power. *Evidence:* Section 11
+   above (economic-trust, defence-procurement-integrity, soft-power mechanisms). *Significance:*
+   converts "ethics" from a moral abstraction into a national-power multiplier. *Limitation:* the
+   causal link is indirect and works over a longer time horizon than a single policy cycle.
+
+**Counterpoint and reasoned verdict (template):** "While [X mechanism] explains most of the
+observed pattern, it does not fully account for [specific limitation]; on balance, [reasoned,
+qualified verdict], provided [named safeguard] is in place."
+
+## 13. Study links
 
 - ✅ Advanced companion: `advanced/01_Ethics-and-Human-Interface.md`.
 - ✅ `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — Nolan principles built on this base.
@@ -168,3 +240,28 @@ guide behaviour, choices and actions; standards alone do not ensure ethical cond
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2020, 2022
+- **Paper(s):** GS-IV
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-IV | 1 | (a) role of ethics and values in enhancing the three major components of Comprehensive National Power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020 | Discuss / Examine · 10 + 10 marks · 150 words each | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-IV | 2 | (a) hatred destructive of wisdom and conscience - do you agree and justify; (b) main components of emotional intelligence and whether they can be learned | Agree-Justify / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-IV | 2 | (a) positive vs negative mindset in interpreting rules and regulations; (b) ethics in human actions and resolution of conflicts in daily functioning | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) role of ethics and values in enhancing the three major components of Comprehensive National Power and social harmony; (b) education as pervasive tool for individual development and social transformation - NEP 2020
+- (a) hatred destructive of wisdom and conscience - do you agree and justify; (b) main components of emotional intelligence and whether they can be learned
+- (a) positive vs negative mindset in interpreting rules and regulations; (b) ethics in human actions and resolution of conflicts in daily functioning
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

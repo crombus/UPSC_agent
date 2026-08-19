@@ -84,9 +84,61 @@
 
 ## 7. Mains angles
 
+### Pallava analytical/source caveats (promoted from Advanced — paper-essential)
+
+⚠️ **For mains answers on Pallavas, embed these source-method points:**
+1. The **Aihole inscription** is a royal eulogy (Ravikirti's praise of Pulakeshin II), not a neutral biography; use it as evidence while noting its political purpose.
+2. Pallava epigraphy often divided labour between **Sanskrit prashasti** and **Tamil documentary** sections — evidence for elite integration and regional administration.
+3. Mahendravarman I's **`Mattavilasa-prahasana`** (7th-c. Sanskrit farce) satirises Buddhists, Kapalikas and Pashupatas, revealing inter-religious competition.
+4. **Bhakti** (Alvars/Nayanmars) could challenge social hierarchy rhetorically yet operated within emerging temple-centred society — avoid simple "anti-caste revolution" framing.
+5. Brahmanization includes land, agrarian relations, caste formation and cult appropriation — not only religious conversion.
+6. Temple architecture is evidence for royal ideology, craft networks and regional identity, not just art-style chronology.
+
+### Thesis options
+
+| Directive | Thesis |
+|---|---|
+| Estimate contribution (2024 PYQ) | The Pallavas of Kanchi contributed to South Indian art and literature not merely through patronage but by creating a template where royal power, sacred geography, Tamil-Sanskrit bilingualism and craft innovation intersected — though our evidence is primarily monumental and epigraphic, not literary in the modern sense. |
+| Critically examine | Pallava "contribution" must be read through source caveats: inscriptions are eulogies, architecture survives while perishable arts are lost, and the role of anonymous craftsmen and religious communities is obscured by royal attribution. |
+
 - ⚠️ Pallava-Chalukya history is a bridge between political rivalry and temple-state formation.
 - ⚠️ Land grants show how Brahmanization, agrarian expansion and rural hierarchy developed together.
 - ⚠️ Peninsular temples were not only religious spaces; they became markers of power, settlement and cultural integration.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Pallava and Chalukya history shows peninsular state formation through warfare, land grants, temple patronage and regional cultural consolidation." |
+| Critically examine | "Temple-building in the south was not merely artistic efflorescence; it was also a political language of sovereignty and social ordering." |
+| Compare / evaluate | "A strong comparison reads Pallavas and Chalukyas through rivalry, architectural idiom, locality integration and brahmanical-bhakti legitimation." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** agrarian expansion -> land grants -> rivalry -> temple and bhakti integration
+- **For comparison Qs:** Pallava vs Chalukya across centres, monuments, warfare and social base
+- **For evaluate Qs:** political significance -> source caution -> balanced verdict
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Rivalry shaped peninsular state formation | ✅ Pallava-Chalukya conflict pattern | Keeps polity at the centre of the answer | Victory records are highly eulogistic |
+| 2 | Monumental architecture was political communication | ✅ Mamallapuram, Kanchi, Aihole and Pattadakal | Links art to legitimacy and power | Monuments alone cannot map total political reach |
+| 3 | Locality and devotion were institutionalised | ✅ Brahmadeya grants and bhakti milieu | Connects society to state formation | Temple-centred sources privilege elite voices |
+
+### Counterpoint and balance
+
+- Avoid reducing the topic to architecture notes alone.
+- Avoid assuming inscriptional boasts equal stable territorial control everywhere.
+
+### Verdict framing
+
+- Conclude that Pallava-Chalukya history matters because it ties polity, locality and cultural statecraft together.
+- A strong verdict is political and social before it becomes purely artistic.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

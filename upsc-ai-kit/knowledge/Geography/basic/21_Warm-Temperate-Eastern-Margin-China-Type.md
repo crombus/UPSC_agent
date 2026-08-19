@@ -71,3 +71,69 @@ climate-linked cyclone intensity in East Asia.
 - Explain why the **eastern margins of continents** in warm-temperate latitudes are wetter than the
   western (Mediterranean) margins at the same latitude.
 - Typhoons of the western Pacific: formation, seasonality (Jul–Sep) and disaster impact on East Asia.
+
+## 10. Answer architecture (10/15/20-mark support)
+
+### 10.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Why do eastern and western margins in the same latitude differ?" | The onshore-westerly versus continental-outflow contrast, plus ocean-current direction | Treat latitude as sufficient |
+| "Explain typhoon formation and impact in East Asia" | Warm western-Pacific genesis, westward-then-recurving tracks, and the coastal-population exposure | Describe typhoons as unique to the region |
+| "Account for the agricultural intensity of the China type" | Adequate summer rain in the growing season plus a long frost-free period plus dense labour | List crops |
+
+### 10.2 The eastern-margin logic
+
+```text
+WARM TEMPERATE EASTERN MARGIN (China / Gulf / Natal types)
+  SUMMER: onshore flow from a warm ocean + monsoonal tendency + tropical
+          cyclone/typhoon incursions  ->  RAINFALL MAXIMUM IN SUMMER
+  WINTER: outflow of cold, dry continental air (strongest in Asia because the
+          landmass is largest)         ->  DRIER, COLDER WINTER
+  RESULT: summer-rain regime, larger annual temperature range than the western
+          margin at the same latitude, and no summer drought
+```
+
+- ⚠️ **The three sub-types** — the Asian China type, the American Gulf type and the southern-hemisphere
+  Natal type — differ chiefly in the **severity of the winter**, because that depends on the size of
+  the adjoining landmass. The Asian type has the harshest winters; the southern-hemisphere types are
+  moderated by surrounding ocean.
+
+> 🔑 **Trap:** the eastern-margin warm temperate type has **no summer drought**, which is precisely
+> what distinguishes it from the Mediterranean type at the same latitude on the western margin. The
+> contrast is the highest-value single comparison in this part of the syllabus — see
+> `19_Mediterranean-Climate.md` and the comparison bank in
+> `22_Cool-Temperate-Western-Margin-British-Type.md`.
+
+### 10.3 Reusable 10-mark spine
+
+1. **Thesis:** eastern-margin climates are the product of a **seasonal reversal between maritime and
+   continental influence**, which is why they combine a hot wet summer with a cold dry winter and
+   support unusually intensive agriculture.
+2. **Mechanism:** summer onshore and monsoonal inflow with cyclonic incursions; winter continental
+   outflow; the moderating effect of a warm offshore current on the seaward fringe.
+3. **Consequence:** a long, wet growing season permitting double cropping, and dense rural
+   population.
+4. **Hazard:** typhoons and their surge and flood impact on very densely settled coastal plains.
+5. **Comparison:** against the Mediterranean type at the same latitude on the opposite margin.
+6. **Conclusion:** graded — the type's agricultural advantage and its hazard exposure arise from the
+   *same* summer-maritime mechanism.
+
+### 10.4 Evidence units available in this file
+
+> **Claim:** the size of the adjoining landmass, not latitude, decides how severe an eastern-margin
+> winter is. **Evidence:** the three sub-types of this climate share a summer-rain regime but differ
+> sharply in winter severity, with the Asian type the harshest and the southern-hemisphere type the
+> mildest, in proportion to the continental mass supplying the winter outflow.
+> **Significance:** it converts a descriptive list of sub-types into a single causal argument that
+> can be applied to any continent. **Limitation:** offshore currents and relief modify the pattern
+> locally, so continental size sets the tendency rather than the exact outcome.
+
+> **Claim:** the mechanism that makes a region agriculturally rich is the same one that makes it
+> hazardous. **Evidence:** the summer inflow of warm, moist maritime air that gives this climate its
+> long wet growing season and supports very dense rural populations also brings tropical cyclones
+> and typhoons onto the same low-lying, densely settled coastal plains. **Significance:** it
+> explains why the world's most intensively farmed and most cyclone-exposed coasts frequently
+> coincide, which is a transferable point for Indian coastal questions.
+> **Limitation:** exposure is also a function of settlement density, defences and warning systems,
+> so the physical mechanism explains the hazard but not the loss.

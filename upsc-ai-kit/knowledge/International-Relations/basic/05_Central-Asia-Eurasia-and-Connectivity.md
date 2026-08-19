@@ -4,7 +4,7 @@
 > **Core area:** The five Central Asian Republics (CARs); the India-Central Asia
 > Dialogue; the Connect Central Asia Policy; security, energy and connectivity
 > constraints.
-> **Grounded in:** M. Laxmikant, *Indian Polity* (Connect Central Asia Policy
+> **Grounded in:** M. Laxmikanth, *Indian Polity* (Connect Central Asia Policy
 > section); Rajiv Sikri, *Challenges and Strategy*; MEA India-Uzbekistan
 > bilateral brief; `00_Master-Framework.md` Sections 2 and 5.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
@@ -117,6 +117,16 @@ discussed here.
   framework intended to open a maritime-linked route to Central Asia/Eurasia
   bypassing Pakistan — treat as an announced/developing corridor with operating
   segments, not a completed, full-capacity corridor.
+- ✅ **Ashgabat Agreement:** signed at Ashgabat on **25 April 2011** to establish
+  an international multimodal transport and transit corridor between Central
+  Asia and the Persian Gulf/Gulf of Oman. India joined with effect from
+  **3 February 2018**.
+  **Significance:** it adds a rules-and-transit framework to India's
+  Chabahar/INSTC strategy and reduces dependence on direct territorial access
+  through Pakistan.
+  **Limitation:** it is a facilitation framework, not an infrastructure-finance
+  mechanism; value depends on connected ports, rail/road segments, customs
+  coordination and Iran-related sanctions exposure.
 - ⚠️ **India-EAEU FTA:** under negotiation since 3 June 2017; the second round
   met in Moscow on 22-25 June 2026. ⚠️ Negotiation, not signature.
 
@@ -244,6 +254,24 @@ discussed here.
 - ⚠️ **Mains (15 marks):** Discuss the geographic and security constraints on
   India's connectivity ambitions in Central Asia.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+The **2018 GS-II outside powers/Ashgabat Agreement** demand is owned here, superseding
+`advanced/05`.
+
+- **Structure:** strategic geography -> access constraint -> connectivity instrument ->
+  security/energy interest -> competing powers -> feasibility limit.
+- **Evidence:** SCO, India-Central Asia Dialogue, Chabahar, INSTC, Ashgabat Agreement,
+  Afghanistan/Pakistan blockage and Russia-China influence.
+
+**10 marks:** importance plus three constraints/instruments. **15 marks:** energy,
+connectivity, counter-terrorism, great-power competition and implementation. **20 marks:**
+compare continental corridors, sanctions, Afghanistan, local sovereignty, SCO limits and
+India's maritime alternatives.
+
+> **Reasoned verdict:** India's Central Asia problem is not absence of interest but the
+> conversion of diplomatic goodwill into reliable access across contested transit space.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/05_Central-Asia-Eurasia-and-Connectivity.md`.
@@ -278,3 +306,24 @@ discussed here.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 10 | Outside powers in Central Asia and India joining the Ashgabat Agreement | Discuss the implications · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Outside powers in Central Asia and India joining the Ashgabat Agreement
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

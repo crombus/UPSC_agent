@@ -164,38 +164,73 @@ Atomism → world built from eternal atoms under God's direction
 
 #### Reply
 
-- ✅ The universal is not spatially divided like a physical thing; it is a single eternal entity instantiated in many particulars.
+- ✅ The universal is not spatially divided like a physical thing; it is a single eternal entity instantiated in many particulars through **samavāya** (inherence).
 
-### 2.7 Viśeṣa (particularity)
+### 2.7 Jāti-bādhaka: six impediments to universalhood
 
-- ✅ **Viśeṣa** is the ultimate differentiator of eternal substances.
-- ✅ It explains how one eternal atom differs from another atom of the same class, and how distinct selves remain numerically distinct.
-- ⚠️ Without viśeṣa, eternal entities of the same class would collapse into indistinguishability.
+- ✅ **Statement.** Not every general term names a real universal (**jāti**, class-universal); where a proposed jāti is blocked, Nyāya-Vaiśeṣika treats it as an imposed property or limiting condition (**upādhi**, adjunct), not as a new padārtha.
+- ⚠️ **Philosophical function.** The six **jāti-bādhakas** (obstructors of universalhood) are the school’s internal discipline against a bloated ontology of universals.
 
-### 2.8 Samavāya (inherence)
+| Jāti-bādhaka | Rule | Exam example / payoff |
+|---|---|---|
+| ✅ **vyakter abhedaḥ** | ✅ A universal cannot have only one instance, because jāti requires plurality of loci. | ✅ **ākāśatva** (ether-ness) is blocked if there is only one **ākāśa**. |
+| ✅ **tulyatvam** | ✅ Two exactly co-extensive putative universals should not both be admitted. | ✅ If **ghaṭatva** and **kalaśatva** both mean pot-ness over the same class, there is no ground for two universals. |
+| ✅ **saṅkaraḥ** | ✅ Two universals cannot partially overlap without either being included in the other; they must be nested or disjoint. | ✅ The standard case is **bhūtatva** and **mūrtatva**, where cross-connection would confuse the hierarchy of kinds. |
+| ✅ **anavasthā** | ✅ Universalhood itself cannot be a further universal in universals, because that would demand another universal of universalhood without end. | ✅ **jātitva** as a jāti over jātis is blocked by infinite regress. |
+| ✅ **rūpahāniḥ** | ✅ A universal is blocked where admitting it destroys the very form or function of the entity concerned. | ✅ A universal residing in **viśeṣas** would defeat viśeṣa’s function of ultimate individuation. |
+| ✅ **asambandhaḥ** | ✅ A universal must inhere in its instances by **samavāya**, but samavāya itself has no further samavāya to connect it with a universal. | ✅ **samavāyatva** cannot be admitted as a real jāti without relation-regress. |
 
-#### Statement
+- ✅ **Buddhist objection.** Dignāga and Dharmakīrti-style **apoha** theory argues that universals are unperceived, causally inert, and cannot be wholly present in many places at once.
+- ✅ **Nyāya reply.** Universals are perceived in determinate perception (**savikalpaka-pratyakṣa**) such as "this is a cow"; their presence is by **samavāya**, not by spatial containment; and apoha is circular because exclusion of non-cows presupposes a stable cow-class or at least stable exclusion-domains.
+- ⚠️ **Exam payoff.** Jāti-bādhaka lets Nyāya answer the Buddhist charge of ontological excess: realism about universals is not indiscriminate multiplication.
 
-- ✅ **Samavāya** is the permanent, intimate, inseparable relation between entities that are **ayutasiddha** — not capable of independent separation.
+### 2.8 Viśeṣa (particularity)
 
-#### Standard cases
+- ✅ **Statement.** **Viśeṣa** is the ultimate individuator residing only in eternal substances: the paramāṇus of earth, water, fire and air, and the eternal instances of **ākāśa**, **kāla**, **dik**, **ātman** and **manas**.
+- ✅ **Function.** Two atoms of earth may be alike in all universals and ordinary qualities; without viśeṣa they would be indistinguishable and, by the identity of indiscernibles, would collapse into one.
+- ✅ **School-name significance.** Viśeṣa gives the *Vaiśeṣika* school its name because the system explains plurality through irreducible particularity.
 
-- ✅ quality in substance
-- ✅ action in substance
-- ✅ universal in particular
-- ✅ whole in parts
+#### Objection: regress of differentiators
 
-#### Ayutasiddhatva issue (2021)
+- ✅ **Objection.** If viśeṣa differentiates one atom from another, what differentiates one viśeṣa from another? A further viśeṣa would be needed, and so on without end.
+- ✅ **Reply.** Viśeṣas are **svato-vyāvartaka** (self-differentiating): they distinguish both their loci and themselves by their own nature.
+- ⚠️ **Residual force.** Critics argue that "self-differentiating" names the stopping point rather than proving it; viśeṣa is a stipulated terminus of individuation.
 
-- ✅ The exam issue is whether **ayutasiddhatva** is merely necessary or also sufficient for samavāya.
-- ⚠️ One line says it is necessary because inherence exists only where relata cannot be independently established apart.
-- ⚠️ But it may not be sufficient by itself unless the specific relation of inseparable ontological dependence is also shown; mere close linkage is not enough.
+#### Objection: imperceptible ontological IOU
 
-#### Philosophical force
+- ✅ **Objection.** Viśeṣa is imperceptible and appears to be posited solely to do the explanatory job of individuating exactly similar eternals.
+- ✅ **Reply.** Nyāya-Vaiśeṣika frames the posit inferentially: plurality of exactly similar eternal substances is otherwise inexplicable, and Nyāya reduces **arthāpatti** (postulation) to inference rather than making it a separate pramāṇa.
+- ⚠️ **Comparative note.** Jaina, Buddhist and Advaita critiques often target viśeṣa and samavāya as the weakest joints of the system; Śrīharṣa’s *Khaṇḍanakhaṇḍakhādya* attacks Nyāya definitions systematically.
 
-- ⚠️ Samavāya is introduced because conjunction cannot explain relations where separation would destroy the very relata as known in that mode.
+### 2.9 Samavāya (inherence)
 
-### 2.9 Abhāva (non-existence)
+- ✅ **Statement.** **Samavāya** is the eternal, single, imperceptible-yet-inferred inseparable relation (**ayutasiddha-sambandha**) that holds where relata cannot be established as separable in the relevant ontological mode.
+- ✅ **Scope.** It holds between five standard pairs: part–whole, substance–quality, substance–motion, universal–particular, and eternal substance–its viśeṣa.
+- ⚠️ **All-pervading sense.** Later exposition calls samavāya one and not locally multiplied; "all-pervading" should be read as one relation operating wherever the required relata obtain, not as a tenth spatial substance.
+
+#### Distinction from saṃyoga
+
+| Relation | Status | Relata | Production/destruction | Example |
+|---|---|---|---|---|
+| ✅ **samavāya** | ✅ Inseparable relation | ✅ Ayutasiddha relata | ✅ Eternal as a relation | ✅ Colour in cloth; whole in parts |
+| ✅ **saṃyoga** | ✅ A guṇa (quality) | ✅ Separable relata | ✅ Produced and destructible | ✅ Book on table; two pots in contact |
+
+- ✅ **Ayutasiddhatva issue.** Inseparability is necessary for samavāya, but ⚠️ not by itself sufficient unless the specific ontological dependence relation is shown; mere closeness is not inherence.
+
+#### Objection: relation-regress
+
+- ✅ **Objection.** If samavāya relates A and B, a further relation seems needed to relate samavāya to A and to B, generating **anavasthā** (infinite regress).
+- ✅ **Reply.** Samavāya is **svarūpa-sambandha** (self-linking relation): it relates by its own nature and needs no further relator.
+- ⚠️ **Residual force.** This is a stipulated terminus; every relational ontology must stop somewhere, and critics such as Buddhists and Śrīharṣa press the charge that Nyāya stops regress here while using regress against opponents.
+- ⚠️ **Controlled comparison flag.** The issue resembles Bradley’s regress in Western metaphysics, but that comparison belongs only after the Indian argument is complete.
+
+#### Objection: one or many samavāyas?
+
+- ✅ **Nyāya-Vaiśeṣika position.** Samavāya is one and eternal; parsimony is the Vaiśeṣika reason for not multiplying inherence-relations.
+- ⚠️ **Internal difficulty.** If samavāya is one, it is hard to explain why it relates this quality to this substance rather than to all substances.
+- ⚠️ **Reply.** The relata themselves determine the relation’s operation: samavāya is not a free-floating glue but the inseparable tie manifest only where the relevant terms exist.
+
+### 2.10 Abhāva (non-existence)
 
 #### Statement
 
@@ -312,7 +347,7 @@ Atomism → world built from eternal atoms under God's direction
 
 #### Statement
 
-- ✅ **Anumāna** is knowledge arising through a sign (**liṅga/hetu**) known to be invariably related to the probandum.
+- ✅ **Anumāna** is knowledge arising through a sign (**liṅga/hetu**, probans) known to be invariably related to the probandum (**sādhya**).
 
 #### Five members of inference
 
@@ -324,51 +359,98 @@ Using the hill-fire example:
 4. ✅ **upanaya** — this hill has smoke of that kind.
 5. ✅ **nigamana** — therefore the hill has fire.
 
-#### Vyāpti and its establishment
-
-- ✅ **Vyāpti** is invariable concomitance between hetu and sādhya.
-- ✅ It is established through:
-  - repeated observation (**bhūyodarśana**)
-  - supportive reasoning (**tarka**)
-  - elimination of **upādhi** (vitiating condition)
-- ⚠️ Nyāya insists that inference is not arbitrary association; it depends on disciplined universal relation.
+- ✅ **Purpose.** The **pañcāvayava** (five-membered syllogism) is the form of proof for another (**parārthānumāna**); it makes explicit the vyāpti and the application to the pakṣa.
 
 #### Five characteristics of a valid hetu
 
-1. ✅ **pakṣadharmatā** — present in the subject under consideration
-2. ✅ **sapakṣa-sattva** — present in similar positive instances
-3. ✅ **vipakṣa-asattva** — absent in dissimilar negative instances
-4. ✅ **abādhita** — not contradicted by stronger knowledge
-5. ✅ **asatpratipakṣa** — not opposed by an equally strong counter-reason
+1. ✅ **pakṣadharmatā** — the hetu is present in the subject under consideration.
+2. ✅ **sapakṣa-sattva** — the hetu is present in similar positive instances.
+3. ✅ **vipakṣa-asattva** — the hetu is absent in dissimilar negative instances.
+4. ✅ **abādhita** — the sādhya is not contradicted by stronger knowledge.
+5. ✅ **asatpratipakṣa** — the hetu is not opposed by an equally strong counter-reason.
 
-#### Five hetvābhāsas (2023)
+- ⚠️ **Exam link.** These five marks are the positive side of the same test that appears negatively as **hetvābhāsa** (fallacy of the probans) in §3.4.
 
-1. ✅ **savyabhicāra** — irregular / inconclusive reason
-   - the hetu occurs where the sādhya is absent too.
+### 3.4 Vyāpti-grahaṇa: grasping invariable concomitance
 
-2. ✅ **viruddha** — contradictory reason
-   - the hetu establishes the opposite.
+- ✅ **Statement.** **Vyāpti-grahaṇa** is the chain by which Nyāya claims to know the universal relation required for inference; it is the core reply to Cārvāka scepticism about anumāna.
 
-3. ✅ **satpratipakṣa** — counterbalanced reason
-   - an equally strong reason supports the contrary conclusion.
+#### 1. Vyāpti defined
 
-4. ✅ **asiddha** — unproved reason
-   - the hetu itself is unestablished in the pakṣa.
+- ✅ **Definition.** **Vyāpti** is invariable, unconditional concomitance (**avinābhāva-niyama**) between the **hetu/liṅga** (probans, e.g. smoke) and the **sādhya** (probandum, e.g. fire).
+- ✅ **Distinction.** **Samavyāpti** is equal extension or convertibility: two terms pervade each other.
+- ✅ **Distinction.** **Viṣamavyāpti** / **asamavyāpti** is unequal extension: all smoke is pervaded by fire, but not all fire is pervaded by smoke.
+- ✅ **Condition.** Nyāya requires **niyata** (fixed) and **anaupādhika** (unconditioned by an upādhi) concomitance, not mere frequency.
 
-5. ✅ **bādhita** — sublated reason
-   - the conclusion is contradicted by stronger pramāṇa, such as perception.
+#### 2. Bhūyodarśana: repeated positive and negative observation
 
-#### Linking valid hetu and fallacies
+- ✅ **Argument.** The knower observes co-presence (**anvaya**) in many positive instances: smoke with fire in kitchens, hearths and similar cases.
+- ✅ **Argument.** The knower also observes co-absence (**vyatireka**) in negative instances: where fire is absent, smoke is absent.
+- ⚠️ **Limit.** Bhūyodarśana alone is not sufficient, because repeated observation remains a finite sample and cannot by itself yield an unrestricted universal.
 
-- ⚠️ The best 20-mark structure is to pair each hetvābhāsa with the violated mark of a good hetu: savyabhicāra violates vipakṣa-asattva, asiddha violates pakṣadharmatā, bādhita violates abādhita, satpratipakṣa violates asatpratipakṣa, viruddha ruins the very direction of the inference.
+#### 3. Vyabhicāra-adarśana: absence of counter-instance
 
-### 3.4 Upamāna (comparison)
+- ✅ **Argument.** The investigator searches for deviation (**vyabhicāra**) and does not find a case where the hetu occurs without the sādhya.
+- ⚠️ **Limit.** This strengthens the universal but still needs the removal of hidden conditions.
+
+#### 4. Upādhi-nirāsa: removal of conditioning adjunct
+
+- ✅ **Definition.** **Upādhi** is a conditioning adjunct: **sādhya-vyāpakatve sati sādhana-avyāpakaḥ** — that which pervades the sādhya but does not pervade the hetu.
+- ✅ **Example.** In the bad inference "the hill has smoke because it has fire", **wet fuel (ārdra-indhana)** is the upādhi: wherever there is smoke there is wet fuel, but not wherever there is fire is there wet fuel.
+- ✅ **Argument.** Therefore fire does not unconditionally pervade smoke; the fire-to-smoke inference is conditional and fails.
+- ✅ **Nyāya reply to Cārvāka.** The Cārvāka says a hidden condition may always lurk; Nyāya replies that systematic **upādhi-nirāsa** and **upādhi-śaṅkā-nivṛtti** (removal of the suspicion of an adjunct), supported by tarka, converts observation into warranted universal cognition.
+
+#### 5. Tarka: reductive doubt-removal
+
+- ✅ **Statement.** **Tarka** is hypothetical or counterfactual reasoning that removes residual doubt by showing the unacceptable consequence of the contrary supposition.
+- ✅ **Example.** If smoke were not pervaded by fire, smoke could occur without fire; this contradicts uniform experience and would make the causal order unintelligible.
+- ✅ **Status.** Tarka is **pramāṇa-anugrāhaka** (an aid to pramāṇas), not an independent pramāṇa; it supports perception and inference by eliminating the rival supposition.
+- ⚠️ **Forms.** Common exam-ready forms of unacceptable consequence include **ātmāśraya** (self-dependence), **anyonyāśraya** (mutual dependence), **cakraka** (circularity), **anavasthā** (infinite regress), and contradiction of perception or inference (**pratyakṣa/anumāna-virodha**).
+
+#### 6. Sāmānyalakṣaṇa-pratyakṣa: universal-mediated perception
+
+- ✅ **Cross-reference.** As noted in §3.2, **sāmānyalakṣaṇa-pratyakṣa** is extraordinary (**alaukika**) perception through the universal.
+- ✅ **Role in vyāpti.** On perceiving an instance of smokeness, the cognizer is perceptually related to smoke as a universal, so all smoke as such can be presented without an infinite survey of every smoke-instance.
+- ⚠️ **Induction payoff.** This is the specifically Nyāya move against the problem of induction: because **jāti** is real, the universal can be cognitively grasped, not merely guessed from samples.
+
+#### 7. Pakṣadharmatā and parāmarśa
+
+- ✅ **Pakṣadharmatā.** The hetu must be known to exist in the pakṣa: this hill has smoke.
+- ✅ **Parāmarśa.** The immediate cause (**karaṇa**) of inferential cognition is the subsumptive reflection: "this hill possesses smoke which is pervaded by fire".
+- ✅ **Connection to pañcāvayava.** The five-membered syllogism makes parāmarśa communicable: pratijñā states the thesis, hetu states the sign, udāharaṇa states vyāpti with example, upanaya applies it to the pakṣa, and nigamana states the conclusion.
+
+#### 8. Hetvābhāsa as the negative test of vyāpti
+
+| Hetvābhāsa | What fails | Subtypes / examples |
+|---|---|---|
+| ✅ **savyabhicāra / anaikāntika** (irregular) | ✅ The hetu is not invariably tied to the sādhya. | ✅ **sādhāraṇa** occurs in both sapakṣa and vipakṣa; **asādhāraṇa** is confined to the pakṣa; **anupasaṃhārin** is too wide to allow contrast. |
+| ✅ **viruddha** (contradictory) | ✅ The hetu proves the opposite of the intended sādhya. | ✅ A reason meant to prove permanence instead proves impermanence. |
+| ✅ **satpratipakṣa / prakaraṇasama** (counterbalanced) | ✅ An equally strong counter-hetu proves the contrary. | ✅ The debate remains balanced because each side has a reason of comparable force. |
+| ✅ **asiddha / sādhyasama** (unproved) | ✅ The hetu itself is not established. | ✅ **āśrayāsiddha**: the pakṣa-locus is unreal; **svarūpāsiddha**: the hetu is absent in the pakṣa; **vyāpyatvāsiddha**: pervasion is unproved, often due to upādhi. |
+| ✅ **bādhita / kālātīta** (stultified) | ✅ The conclusion is contradicted by a stronger pramāṇa. | ✅ Fire cannot be inferred as cold because perception defeats the sādhya. |
+
+- ⚠️ **Linking rule.** Savyabhicāra violates vipakṣa-asattva, asiddha violates pakṣadharmatā, bādhita violates abādhita, satpratipakṣa violates asatpratipakṣa, and viruddha reverses the direction of vyāpti itself.
+
+#### Objection: Cārvāka and the Humean parallel
+
+- ✅ **Objection.** No finite observation licenses a universal; upādhi-elimination can never be completed; tarka presupposes inference and is circular; and sāmānyalakṣaṇa-pratyakṣa looks like an ad hoc posit.
+- ⚠️ **Humean parallel.** The parallel is that observed regularity alone does not logically entail future or universal necessity.
+
+#### Reply: Nyāya answer
+
+- ✅ **Reply.** The demand for mathematical certainty from empirical universals is misplaced; Nyāya claims warranted cognition, not omniscient enumeration by ordinary knowers.
+- ✅ **Reply.** Tarka is not an independent proof of vyāpti, so it does not circularly infer what it must prove; it removes the contrary supposition so that perception and inference can function.
+- ✅ **Reply.** Sāmānyalakṣaṇa-pratyakṣa is not ad hoc within Nyāya ontology, because universals are real padārthas and can be presented in cognition.
+- ✅ **Reply.** The sceptic’s denial of all inference is itself a universal claim about inference and so invites **svavacana-virodha** (self-contradiction in one’s own speech).
+- ⚠️ **Residual force.** The Nyāya answer is strongest if one accepts realism about universals; if jāti is denied, the induction solution becomes contested.
+
+### 3.5 Upamāna (comparison)
 
 - ✅ **Upamāna** gives knowledge of the relation between a word and its referent through resemblance.
 - ✅ If one is told that a **gavaya** resembles a cow, later encountering such an animal yields knowledge that this is what the word denotes.
 - ⚠️ The point is semantic acquisition via similarity.
 
-### 3.5 Śabda (testimony)
+### 3.6 Śabda (testimony)
 
 #### Statement
 
@@ -385,20 +467,20 @@ Using the hill-fire example:
 - ✅ Nyāya accepts the Veda as valid testimony.
 - ✅ In later Nyāya, its authority is often connected with God as omniscient author.
 
-### 3.6 Why memory (smṛti) is not a pramāṇa (2024)
+### 3.7 Why memory (smṛti) is not a pramāṇa (2024)
 
 - ✅ Memory reproduces a past cognition; it does not generate **novel** knowledge.
 - ✅ A pramāṇa must produce fresh, true cognition of what is not already known in that mode.
 - ⚠️ Therefore memory may be psychologically useful but is not epistemically pramāṇa in the technical sense.
 
-### 3.7 Svataḥ and parataḥ prāmāṇya (2025)
+### 3.8 Svataḥ and parataḥ prāmāṇya (2025)
 
 - ✅ Nyāya defends **parataḥ-prāmāṇya** and **parataḥ-aprāmāṇya**.
 - ✅ That means both validity and invalidity of cognition are known through external conditions or later confirmation/disconfirmation.
 - ⚠️ This is a standard UPSC trap: Nyāya is not merely parataḥ for invalidity; it is parataḥ for both.
 - ✅ Contrast: Mīmāṃsā generally takes validity to be self-manifest (**svataḥ**) while invalidity is known later.
 
-### 3.8 Naiyāyika-Buddhist debate on pramāṇa and pramāṇaphala (2025)
+### 3.9 Naiyāyika-Buddhist debate on pramāṇa and pramāṇaphala (2025)
 
 - ✅ **Nyāya:** pramāṇa and **pramāṇa-phala** / **pramiti** are different. The pramāṇa is the instrument or means; the resulting true cognition is its fruit.
 - ✅ **Buddhist epistemologists** such as Dignāga are commonly read as tightening the relation so that cognition itself is both revelatory act and result in a self-luminous framework.
@@ -598,6 +680,43 @@ Using the hill-fire example:
 - ✅ If God is omnipotent and benevolent, why suffering?
 - ✅ Nyāya reply: karmic order distributes fruits; God is dispenser, not arbitrary tyrant.
 
+
+### 8.6 Udayana's cumulative structure: not one isolated proof
+
+- ✅ **Statement.** Udayana's *Nyāyakusumāñjali* is best read as a reply to successive objections, not as one solitary proof mechanically added to Nyāya metaphysics.
+- ✅ **Structure.** The work removes obstacles to theism step by step: that there is no unseen cause, that an unseen cause needs no intelligent controller, that Vedic authority can stand without an author, and that karma or atoms can function without governance.
+- ⚠️ **20-mark payoff.** A strong answer presents Udayana's proofs as a converging or cumulative-case argument: each strand alone can be challenged, but together they are said to converge on one explanatory hypothesis.
+
+#### The explanatory hypothesis
+
+- ✅ **Thesis.** Īśvara is an omniscient, eternal, bodiless agent who is the efficient (**nimitta**) but not material cause of the world.
+- ✅ **Cosmic role.** Īśvara conjoins atoms at the beginning of a creative cycle through volition operating with the **adṛṣṭa** of souls.
+- ✅ **Moral role.** Īśvara dispenses karmic fruits because unconscious adṛṣṭa cannot intelligently allot results by itself.
+- ✅ **Scriptural role.** Īśvara is the **āpta** (trustworthy authority) author or source of the Veda in later Nyāya theism.
+
+#### Inferential forms of the main proofs
+
+| Proof | Pakṣa | Hetu | Sādhya | Dṛṣṭānta |
+|---|---|---|---|---|
+| ✅ **kāryāt** (from effect) | ✅ The world | ✅ It is an effect, composite and ordered. | ✅ It has an intelligent maker. | ✅ Pot and potter. |
+| ✅ **āyojanāt** (from combination) | ✅ Primordial atomic conjunction | ✅ Unconscious atoms and unconscious adṛṣṭa cannot initiate ordered first motion. | ✅ It requires an intelligent impeller. | ✅ Ordered arrangement produced by an agent. |
+| ✅ **dhṛtyādeḥ** (from support/sustenance and destruction) | ✅ The ordered cosmos | ✅ It is sustained, regulated and dissolved. | ✅ It requires governing intelligence. | ✅ A maintained artefact or polity requires a regulator. |
+| ✅ **padāt / śruteḥ / vākyāt** (from words, Veda and sentences) | ✅ Vedic and meaningful sentences | ✅ Sentences require competent authorship, and Vedic scope exceeds ordinary knowledge. | ✅ The Veda has an omniscient source. | ✅ Ordinary meaningful instruction from a competent speaker. |
+| ⚠️ **adṛṣṭa/karma-administration argument** | ✅ Karmic distribution | ✅ Unconscious adṛṣṭa cannot allot fruits with moral precision. | ✅ An intelligent administrator is required. | ✅ A just allocation system requires a conscious allocator. |
+
+- ❓ **Count caution.** The proofs are commonly enumerated in different lists; where the exact traditional label is uncertain, write "commonly enumerated as" rather than inventing a fixed count.
+
+#### Objections and replies
+
+| Opponent | Objection | Nyāya reply | Residual force |
+|---|---|---|---|
+| ✅ **Mīmāṃsā / Kumārila** | ✅ The Veda is authorless, and **apūrva** can link ritual action to fruit without God. | ✅ Meaningful authoritative sentences and moral dispensation are better explained by an omniscient āpta; unconscious apūrva cannot administer fruits. | ⚠️ If Vedic authorlessness is accepted, the śruteḥ proof loses force. |
+| ✅ **Sāṃkhya** | ✅ Prakṛti's own teleology explains the world, and a perfect God has no motive to create. | ✅ Unconscious prakṛti cannot purposively allocate karma or initiate ordered atomic motion; God's action follows souls' adṛṣṭa, not desire-based lack. | ⚠️ The motive problem remains if divine action is modelled too anthropomorphically. |
+| ✅ **Buddhist / Dharmakīrti and Śāntarakṣita-style critique** | ✅ The world is not observed as an effect in the relevant sense, and the pot–potter analogy fails (**vaiṣamya**) because a potter has a body, hands and external material. | ✅ Nyāya treats composite, ordered, dependent wholes as inferable effects and allows a bodiless omniscient agent because embodiment is not essential to agency. | ⚠️ The analogy is strained because worldly makers are always embodied. |
+| ✅ **Cārvāka** | ✅ God is never perceived, and inference itself is unreliable. | ✅ Nyāya first defends vyāpti and inference; once anumāna is secured, imperceptibility alone does not disprove a cause. | ⚠️ The proof works only for someone who grants Nyāya pramāṇa theory. |
+| ✅ **Advaita** | ✅ Īśvara is real only at the **vyāvahārika** level, not ultimately non-dual reality. | ✅ Nyāya rejects the two-level downgrade and insists on plural realist ontology. | ⚠️ The disagreement is rooted in incompatible metaphysical starting-points. |
+| ✅ **Problem of evil** | ✅ If God is good and omnipotent, why is there suffering? | ✅ God dispenses fruits according to beginningless karma; evil is traceable to souls' karma, not divine arbitrariness. | ⚠️ This saves goodness at the cost of independence, because God appears constrained by karma he did not create. |
+
 ## 9. THEORY OF CAUSATION
 
 ### 9.1 Asatkāryavāda / ārambhavāda
@@ -698,9 +817,9 @@ Using the hill-fire example:
 - ✅ Mīmāṃsā develops a different semantic sensitivity, often giving stronger independent weight to word-meaning relations in sentence-use.
 - ⚠️ In UPSC, answer by showing Nyāya's realist semantics: universals are objective and hence linguistically significant.
 
-### 11.2 Naiyayika response to Carvāka objections against anumāna (2022)
+### 11.2 Naiyāyika response to Cārvāka objections against anumāna (2022)
 
-- ✅ Carvāka attacks inference by doubting universal relation.
+- ✅ Cārvāka attacks inference by doubting universal relation.
 - ✅ Nyāya replies that ordinary and scientific life depend on reliable inferential regularities established through observation, elimination of upādhi, and tarka.
 - ⚠️ The Nyāya point is not infallibilism but disciplined justificatory practice.
 
@@ -786,6 +905,111 @@ Using the hill-fire example:
 - ❌ **Trap / answer consequence:** Do not treat every relation as inherence, every absence as a separate pramāṇa in Nyāya, or Yoga’s Īśvara as established by the full Nyāya creator inference.
 
 <!-- expanded-pyq-depth:end -->
+
+
+## 14A. PRESUPPOSITION LEDGER
+
+| Doctrine | Presupposition | What collapses if denied |
+|---|---|---|
+| ✅ **Padārtha scheme** | ⚠️ Reality is classifiable into stable knowable/nameable kinds. | ⚠️ Vaiśeṣika ontology loses its map of dravya, guṇa, karma, sāmānya, viśeṣa, samavāya and abhāva. |
+| ✅ **Pramāṇa realism / parataḥ-prāmāṇya** | ⚠️ Cognitions are about real objects, and validity is ascertained through external confirmation or causal conditions. | ⚠️ Nyāya cannot distinguish valid cognition from mere appearance in its realist way. |
+| ✅ **Vyāpti and induction** | ⚠️ Universal concomitance can be warranted through observation, upādhi-elimination, tarka and universal-mediated perception. | ⚠️ Anumāna falls to Cārvāka scepticism and ordinary proof collapses. |
+| ✅ **Sāmānya as real** | ⚠️ Common predication is grounded in real universals. | ⚠️ Classification, word-meaning, sāmānyalakṣaṇa-pratyakṣa and vyāpti-grahaṇa lose their ontological base. |
+| ✅ **Samavāya** | ⚠️ Inseparable relations need a sui generis relation distinct from conjunction. | ⚠️ Whole–part, quality–substance and universal–particular relations become unexplained. |
+| ✅ **Viśeṣa** | ⚠️ Exactly similar eternal substances need ultimate individuators. | ⚠️ Atoms and selves of the same class risk collapsing into one. |
+| ✅ **Asatkāryavāda / ārambhavāda** | ⚠️ Production can generate a genuinely new effect. | ⚠️ Nyāya cannot oppose Sāṃkhya satkāryavāda or use prāgabhāva as a causal weapon. |
+| ✅ **Paramāṇuvāda** | ⚠️ Gross physical objects require eternal, partless, imperceptible atoms as ultimate material causes. | ⚠️ Atomistic creation and dissolution lose their metaphysical foundation. |
+| ✅ **Self as substance with adventitious consciousness** | ⚠️ Cognition is a quality requiring an enduring ātman-locus and manas-mediated conditions. | ⚠️ Memory, recognition, moral agency and liberation of the same subject become hard to explain. |
+| ✅ **Apavarga** | ⚠️ The highest goal is total cessation of suffering, not necessarily positive bliss. | ⚠️ Nyāya soteriology is absorbed into Vedāntic or Buddhist models and loses its distinctiveness. |
+| ✅ **Īśvara** | ⚠️ Cosmic order, atomic initiation, karmic dispensation and Vedic authority require omniscient efficient governance. | ⚠️ Later Nyāya natural theology and moral cosmology lose their converging centre. |
+
+## 14B. PŪRVAPAKṢA–SIDDHĀNTA LEDGER
+
+| Objector | Objection | Nyāya-Vaiśeṣika reply | Residual force ⚠️ |
+|---|---|---|---|
+| ✅ **Cārvāka on vyāpti** | ✅ No finite observation proves a universal, and hidden upādhis may always remain. | ✅ Bhūyodarśana, vyabhicāra-adarśana, upādhi-nirāsa, tarka and sāmānyalakṣaṇa-pratyakṣa together warrant inference. | ⚠️ The reply depends on accepting real universals and extraordinary perception. |
+| ✅ **Buddhist Dignāga/Dharmakīrti on universals and apoha** | ✅ Universals are unperceived, causally inert and reducible to exclusion of the other. | ✅ Universals are perceived in savikalpaka cognition, inhere by samavāya, and apoha presupposes stable exclusion-classes. | ⚠️ Buddhist nominalism remains powerful against reified jāti. |
+| ✅ **Buddhist momentariness and no-self** | ✅ Only momentary cognitions exist; no enduring substance-self is needed. | ✅ Memory, recognition, agency and moral responsibility require an enduring ātman distinct from the cognition-series. | ⚠️ Nyāya must explain why a permanent self has episodic consciousness. |
+| ✅ **Buddhist critique of avayavin (whole)** | ✅ The whole over and above parts is either identical with parts or different and unintelligible. | ✅ Nyāya infers a real whole because practical cognition and new properties of wholes cannot be reduced to loose aggregates. | ⚠️ The whole–part relation leans heavily on samavāya. |
+| ✅ **Advaita / Śrīharṣa** | ✅ Nyāya definitions invite counterexamples and regress; samavāya and viśeṣa are vulnerable stipulations. | ✅ Nyāya accepts primitive termini where explanation must stop and defends definitions through refined Navya-Nyāya analysis. | ⚠️ The dialectical attack exposes the cost of realist precision. |
+| ✅ **Advaita on mokṣa** | ✅ Liberation without consciousness or bliss is not worth attaining. | ✅ Apavarga is rational because complete cessation of suffering is intrinsically desirable. | ⚠️ The "stone-like liberation" objection remains emotionally and philosophically forceful. |
+| ✅ **Sāṃkhya** | ✅ Satkāryavāda explains causation better because the effect pre-exists in the cause. | ✅ Prāgabhāva shows the effect is absent before production, so production is a new beginning. | ⚠️ Nyāya must still explain continuity between cause and effect without latent pre-existence. |
+| ✅ **Mīmāṃsā** | ✅ Validity is self-known (**svataḥ-prāmāṇya**) and Veda needs no divine author. | ✅ Validity and invalidity are known through external checks; meaningful authoritative testimony points to a competent āpta. | ⚠️ If authorless Veda is accepted, Nyāya's scriptural God-proof weakens. |
+| ✅ **Jaina anekānta** | ✅ A rigid category scheme ignores many-sidedness and conditional predication. | ✅ Nyāya replies that debate and inference require determinate categories and non-contradictory predication. | ⚠️ Jaina logic highlights contextual limits in Nyāya's fixed classifications. |
+
+## 14C. INTER-SCHOOL POSITIONING
+
+| School | Pramāṇas | Validity theory | Error theory | Universals | Causation / atomism | God | Self and liberation |
+|---|---|---|---|---|---|---|---|
+| ✅ **Nyāya-Vaiśeṣika** | ✅ Four for Nyāya: pratyakṣa, anumāna, upamāna, śabda. | ✅ **Parataḥ** for validity and invalidity. | ✅ **Anyathākhyāti**: misplacement of a real object. | ✅ Real jāti, disciplined by jāti-bādhaka. | ✅ Asatkāryavāda, ārambhavāda, eternal atoms. | ✅ Īśvara as efficient cause and karmic governor. | ✅ Enduring ātman; apavarga as cessation of suffering. |
+| ✅ **Sāṃkhya-Yoga** | ✅ Usually three: pratyakṣa, anumāna, śabda. | ⚠️ Validity is not framed in Nyāya's parataḥ manner. | ⚠️ Error tied to misidentification of puruṣa and prakṛti. | ⚠️ Less central than tattva-evolution. | ✅ Satkāryavāda; no Vaiśeṣika atomism. | ✅ Sāṃkhya does not require creator God; Yoga accepts special puruṣa Īśvara. | ✅ Many puruṣas; kaivalya as isolation. |
+| ✅ **Mīmāṃsā** | ✅ More expansive lists, classically including arthāpatti and anupalabdhi in major sub-schools. | ✅ **Svataḥ-prāmāṇya** for validity. | ✅ Prābhākara **akhyāti**; Bhāṭṭa accounts differ. | ✅ Generally realist about word-meaning but not Nyāya-style theistic semantics. | ⚠️ Ritual causal potency through apūrva, not atomistic creation-centred. | ✅ No divine author needed for Veda. | ✅ Self accepted; liberation varies by sub-school presentation. |
+| ✅ **Advaita** | ✅ Six in standard later account. | ⚠️ Valid cognition works within vyavahāra but ultimate knowledge sublates duality. | ✅ **Anirvacanīya-khyāti**. | ⚠️ Empirical universals are not ultimately real. | ⚠️ Vivarta-style appearance rather than Nyāya ārambha. | ✅ Īśvara is vyāvahārika, Brahman ultimately non-dual. | ✅ Ātman-Brahman identity; mokṣa as liberating knowledge. |
+| ✅ **Viśiṣṭādvaita** | ✅ Generally accepts perception, inference and scripture. | ⚠️ Validity is theistic-realist, not Nyāya parataḥ in the same technical sense. | ⚠️ Error does not require Advaita's indefinable object. | ✅ Real plurality as modes of Brahman. | ⚠️ Real transformation/qualified non-dual dependence, not atomism as final. | ✅ Nārāyaṇa/Brahman as material and efficient cause. | ✅ Selves are real modes; liberation retains conscious service. |
+| ✅ **Buddhism** | ✅ Dignāga-Dharmakīrti: two, perception and inference. | ⚠️ Often cognition-centred and self-luminosity-friendly. | ✅ Ātmakhyāti/asatkhyāti labels vary in doxography. | ✅ Apoha, not real jāti. | ✅ Momentariness; rejects permanent atoms/self in Nyāya sense. | ✅ No creator God. | ✅ No eternal ātman; nirvāṇa not Nyāya apavarga. |
+| ✅ **Jainism** | ✅ Multiple pramāṇas with naya-based standpoints. | ⚠️ Validity is conditioned by standpoint and non-one-sidedness. | ⚠️ Error arises from partial absolutisation. | ⚠️ Realism is filtered by anekānta. | ⚠️ Atomism exists in a different pluralist framework. | ✅ No creator God in Nyāya sense. | ✅ Jīvas are many; liberation retains perfected consciousness. |
+| ✅ **Cārvāka** | ✅ Perception alone in the strict formulation. | ✅ Validity tied to perceptibility. | ⚠️ Error exposes unreliability beyond perception. | ✅ Rejects real universals as metaphysical excess. | ✅ Materialism without Nyāya inference-based atomism. | ✅ Rejects God. | ✅ Rejects enduring non-material self and mokṣa. |
+
+- ✅ **Nyāya vs Vaiśeṣika division of labour.** Nyāya is primarily epistemology, logic and debate, organized around sixteen topics of inquiry and proof; Vaiśeṣika is primarily ontology, organized around padārthas of being. Their later fusion is not identity from the start but a division of labour: Nyāya supplies pramāṇa and dialectic, Vaiśeṣika supplies categories, atomism and viśeṣa-samavāya ontology, and Navya-Nyāya refines both into a highly technical analytic idiom.
+- ⚠️ **Answer to "one system or two?"** Say: historically two allied systems, doctrinally fused in later Nyāya-Vaiśeṣika for UPSC purposes, with distinguishable emphases.
+
+
+## 14D. CONTROLLED WESTERN COMPARISON
+
+| Point of contact | Similarity | Disanalogy |
+|---|---|---|
+| ⚠️ **Vyāpti and Hume's problem of induction** | ⚠️ Both notice that observed regularity does not by itself entail universal necessity. | ✅ Hume treats the belief as habit of imagination; Nyāya claims warranted universal cognition through upādhi-elimination, tarka and sāmānyalakṣaṇa-pratyakṣa, because universals are real. |
+| ⚠️ **Samavāya and Bradley's regress** | ⚠️ Both see that relations may require further relations and threaten regress. | ✅ Bradley moves toward the unreality of relations in an Absolute; Nyāya stops regress by treating samavāya as self-linking **svarūpa-sambandha**. |
+| ⚠️ **Pañcāvayava and Aristotelian syllogism** | ⚠️ Both offer patterns of valid reasoning. | ✅ Nyāya includes **udāharaṇa** as an essential empirical example and is primarily a schema of proof to another (**parārthānumāna**), not a purely formal validity calculus. |
+| ⚠️ **Nyāya universals and Platonic Forms** | ⚠️ Both treat universals as real and shareable. | ✅ Nyāya jāti inheres in particulars by samavāya and has no separate transcendent realm; there is no Platonic **chorismos**. |
+| ⚠️ **Udayana and design/cosmological arguments or Aquinas' Five Ways** | ⚠️ Both infer intelligent first cause or ordering intelligence from effects and order. | ✅ Nyāya God is efficient cause only, not creator of matter; atoms and souls are eternal, and God works with karma rather than creation ex nihilo. |
+| ⚠️ **Apavarga and Epicurean ataraxia / negative good** | ⚠️ Both can define the goal as absence of disturbance or suffering. | ✅ Nyāya apavarga may involve absence of ordinary consciousness itself, which Western eudaimonism generally does not accept as the highest human good. |
+
+- **⚠️ Rubric. Western parallels are illustrative only, never a substitute for the Indian argument; use at most one or two lines after the Nyāya case is complete.**
+
+## 14E. DIRECTIVE DECODER
+
+| Directive | What the examiner is testing | Structural move for a Nyāya-Vaiśeṣika answer | How the closing verdict must be phrased |
+|---|---|---|---|
+| ⚠️ **Discuss** | ⚠️ Breadth plus balanced explanation. | ✅ Define the doctrine, give parts, add one rival and reply. | ⚠️ "Thus the doctrine is central because..., though it presupposes..." |
+| ⚠️ **Examine** | ⚠️ Internal logic and assumptions. | ✅ State thesis, unpack inferential structure, expose presupposition ledger. | ⚠️ "The argument works if its realist presupposition is granted." |
+| ⚠️ **Critically examine** | ⚠️ Doctrine plus serious objection. | ✅ Present Nyāya, then named pūrvapakṣa, reply and residual force. | ⚠️ "Nyāya answers X, but Y remains the pressure point." |
+| ⚠️ **Analyse** | ⚠️ Decomposition into elements and relations. | ✅ Break into padārtha/pramāṇa/khyāti/causal components. | ⚠️ "The strength lies in systematic linkage, not isolated claims." |
+| ⚠️ **Evaluate** | ⚠️ Normative judgement after evidence. | ✅ Give strengths, weaknesses and final graded judgement. | ⚠️ "On balance, it is strong as ..., weaker as ..." |
+| ⚠️ **Compare** | ⚠️ Similarity and difference. | ✅ Use a two-column school comparison with exact Sanskrit terms. | ⚠️ "The overlap is limited because the metaphysical bases differ." |
+| ⚠️ **Distinguish** | ⚠️ Precision between nearby terms. | ✅ Define each term, state locus, relation and example. | ⚠️ "Therefore the two are not interchangeable because..." |
+| ⚠️ **Elucidate** | ⚠️ Clear exposition with examples. | ✅ Give statement, mechanism, example and exam trap. | ⚠️ "This clarifies why Nyāya needs the doctrine in the system." |
+| ⚠️ **Comment** | ⚠️ Focused interpretive judgement on a quotation or claim. | ✅ Decode the claim, accept its core, qualify its limits. | ⚠️ "The comment is justified in X sense, not in Y sense." |
+| ⚠️ **Bring out** | ⚠️ Extraction of significance or implications. | ✅ Show function: what problem the doctrine solves. | ⚠️ "Its significance is explanatory rather than merely classificatory." |
+| ⚠️ **Do you agree?** | ⚠️ Reasoned stance, not opinion. | ✅ State qualified agreement, then evidence, objection and reply. | ⚠️ "I agree only to the extent that..., because..." |
+
+## 14F. GRADED VERDICT ON NYĀYA-VAIŚEṢIKA
+
+### Strong points
+
+- ✅ **Logic and inference.** Nyāya offers the most developed Indian account of inference, debate, hetu-testing and fallacy-analysis.
+- ✅ **Answer to scepticism.** Its account of vyāpti-grahaṇa is a serious realist reply to Cārvāka-style and induction-style scepticism.
+- ✅ **Disciplined ontology.** Vaiśeṣika does not merely multiply entities; checks such as jāti-bādhaka show an internal economy of universals.
+- ✅ **Natural theology.** Udayana gives the most rigorous Indian cumulative case for God as efficient cause, karmic governor and Vedic āpta.
+
+### Weak points
+
+- ⚠️ **Samavāya and viśeṣa.** Both function as stipulated termini against regress, so critics can call them explanatory placeholders.
+- ⚠️ **Liberation.** Apavarga as absence of pleasure, pain and ordinary cognition invites the stone-like liberation objection.
+- ⚠️ **God and karma.** Making God dispense fruits according to beginningless karma protects justice but limits divine independence.
+- ⚠️ **Ontological proliferation.** Abhāva, samavāya, viśeṣa and multiple categories can look excessive to Buddhist, Advaitin and Cārvāka critics.
+
+### Genuinely contested points
+
+- ❓ **Sāmānyalakṣaṇa-pratyakṣa.** It is contested whether universal-mediated perception is genuine perception or an ad hoc device for induction.
+- ❓ **One system or two.** Nyāya and Vaiśeṣika are historically distinct but later fused; UPSC answers must preserve both facts.
+- ❓ **Pot–potter analogy.** It is contested whether an embodied artisan analogy can bear the weight of proving a bodiless cosmic maker.
+
+### Ready verdict lines
+
+- ⚠️ **10 marks.** "Nyāya-Vaiśeṣika is strongest as a realist logic-ontology, but its primitive relations and particularizers remain vulnerable."
+- ⚠️ **15 marks.** "Its achievement is systematic: pramāṇa secures knowledge, padārtha secures being and Īśvara secures order; its weakness is that samavāya, viśeṣa and unconscious mokṣa are asserted as much as proved."
+- ⚠️ **20 marks.** "A fair verdict is graded: Nyāya-Vaiśeṣika gives Indian philosophy its most rigorous realism, inference-theory and natural theology, yet the very devices that make the system complete—samavāya, viśeṣa, sāmānyalakṣaṇa and karma-bound Īśvara—are also its deepest contested points."
 
 ## 15. PYQ ROUTING (2018–2025)
 

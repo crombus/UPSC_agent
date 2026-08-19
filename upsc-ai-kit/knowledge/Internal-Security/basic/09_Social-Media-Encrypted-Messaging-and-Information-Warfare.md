@@ -298,7 +298,87 @@ etc." (PDF p. 118).
   various levels to address the security implications of social media?
   Suggest additional remedies.
 
-## 12. Study links
+## 12. Core answer architecture — information operations, encryption and proportionate remedies
+
+> **Core firewall:** This Core section independently answers the 2024
+> social-media/encrypted-messaging demand. Advanced material is optional
+> elaboration, not required paper content.
+
+### Demand decoder and thesis
+
+**Thesis:** Social media and encrypted messaging are dual-use
+infrastructures. A serious security answer separates state-linked
+information operations, criminal/terror coordination and ordinary
+misinformation, then chooses a lawful response at content, platform,
+network, investigation, citizen and international levels. Neither banning
+encryption nor default shutdown is a credible end-state.
+
+### Executable Core spines
+
+**15 marks — measures at various levels plus remedies (2024).** Start with
+the four implications: radicalisation/coordination, disinformation,
+identity-conflict amplification and foreign/hybrid influence. Give a
+six-level response:
+
+1. **Content/process:** IT Act section 69A and Rule 3(1)(d) only through
+   lawful court/competent-authority process.
+2. **Platform:** Rules 3, 4(1) and 7, grievance/compliance roles,
+   transparency and due diligence.
+3. **Encrypted messaging:** Rule 4(2) first-originator identification on
+   the defined legal trigger; distinguish metadata/attribution from
+   content decryption and record the live architectural/litigation
+   dispute.
+4. **Network:** Telecommunications Act, 2023 section 20 action only on
+   written, necessary, proportionate and reviewable grounds; apply
+   *Anuradha Bhasin*.
+5. **Investigation/community:** I4C/State police, rapid official
+   correction, local early warning and media literacy.
+6. **External operations:** intelligence/diplomatic cooperation and
+   Christchurch Call-type cooperation, while acknowledging jurisdictional
+   limits.
+
+End with an additional-remedies verdict: provenance/rapid correction,
+platform transparency, digital literacy and independent review reduce
+vulnerability more durably than a blanket technological prohibition.
+
+**10 marks — deepfakes/disinformation future question.** Define a deepfake
+as synthetic/manipulated media; distinguish false content, deliberate
+disinformation and authentic content used maliciously. Use the chain
+creator → altered content → amplification → targeted audience →
+behavioural/institutional harm. Remedies are provenance/detection,
+correction and trusted communication, platform process, lawful
+investigation and free-speech/privacy safeguards. Do not name a viral
+clip, agency attribution or legal obligation without a dated primary
+source.
+
+**20 marks — whole-of-government information-resilience evaluation.**
+Compare state-linked hybrid operations with non-state rumour amplification
+on actor, objective, vector, audience and remedy. Evaluate content,
+platform, network, investigative, civic-literacy and external-cooperation
+layers against legality, necessity, proportionality, transparency and
+remedy. Use Rule 4(2), section 69A and *Anuradha Bhasin* as legal anchors,
+then identify what none of them proves: attribution, a platform’s
+technical feasibility, or a reduction in social distrust. Conclude that
+trusted public communication and accountable due process are preventive
+security capabilities, not soft add-ons.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Information harm can become physical security harm. | 2012 North-East exodus panic; 2013 Muzaffarnagar false-video example. | Amplification can alter fear, movement and public order. | Historical examples are illustrations, not proof that every false post produces violence. |
+| Platform accountability is not censorship by default. | IT Rules, 2021 Rules 3, 4(1), 4(2) and 7; IT Act section 69A. | Process, role and legal trigger can be named precisely. | A due-diligence duty and a particular takedown order are different legal questions. |
+| Encryption has a legitimate security function. | Rule 4(2) first-originator debate. | Lawful-access design must distinguish originator identification from general decryption. | The rule is notified and contested; do not claim settled technical feasibility or outcome. |
+| Shutdowns are constrained remedies. | Telecommunications Act, 2023 section 20; *Anuradha Bhasin* (2020). | Necessity, proportionality, publication/review matter to security effectiveness and rights. | A legal power is not proof that a shutdown is necessary in a given event. |
+
+### Direct PYQ route now owned in Core
+
+- **2024 GS-III:** Use the six-level spine and a reasoned additional-
+  remedies conclusion. Quote no OCR-corrupted wording, do not turn a
+  content-regulation answer into a blanket encryption ban, and distinguish
+  an incident from a cybercrime or foreign information operation.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/09_Social-Media-Encrypted-Messaging-and-Information-Warfare.md`.

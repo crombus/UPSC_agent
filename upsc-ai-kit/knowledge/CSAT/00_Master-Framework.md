@@ -20,7 +20,7 @@
    2.5 marks correct  /  -5/6 wrong  /  0 blank
             |            (3 wrong cancel exactly 1 correct: 3 x 5/6 = 2.5)
             |
-     Goal = QUALIFY (minimum standard set by the notification, NOT by the paper)
+     Goal = QUALIFY (official minimum = 33% = 66/200)
             |
    +--------+---------+---------+
    |        |         |         |
@@ -34,10 +34,11 @@
   `5/6 = 0.8333...`); marking more than one option = wrong, with the same penalty; blank = no penalty.
 - ✅ **Fact (from each Set-A key scan):** `No. of Questions Dropped = 0`, `No. of Questions taken for
   Scoring = 80` in 2024, 2025 and the provisional 2026 key alike.
-- ⚠️ **Qualifying standard - provenance matters:** **no supplied paper or key states a threshold.**
-  33% (= 66/200 by arithmetic) is the figure commonly quoted from the Civil Services Examination
-  notification. **Verify it there.** The strategy below assumes only that the bar is well below full
-  marks - which is what makes **selective, high-accuracy attempting** the correct policy.
+- ✅ **Qualifying standard - provenance matters:** no supplied paper or
+  key states a threshold, but the official UPSC syllabus/scheme text does:
+  Paper II is qualifying with a minimum fixed at **33%**. Therefore
+  `33% of 200 = 66` marks. Re-check the current examination notification
+  for any change, but do not treat 66 as an unsupported coaching figure.
 - ⚠️ **Keep two numbers apart:** the **official rule** (a notified qualifying minimum you must look
   up) and your **internal safety target** (a personal practice number you choose to sit above it).
   Never quote the second as if it were the first.
@@ -201,9 +202,9 @@ EV = 0  when  p = (5/6) / (2.5 + 5/6) = 1/4   (exactly a 1-in-4 blind guess)
 Equivalently:  every 3 wrong answers wipe out exactly 1 correct answer.
 ```
 
-⚠️ The table below sets `T = 66` **only to show the method**; 66 comes from the commonly quoted 33%
-rule, **not from any supplied paper or key** (Section 1). Re-run the formula with whatever the
-current notification actually specifies.
+The table below sets `T = 66`, the official 33% qualifying minimum under
+the current syllabus/scheme. Re-run the formula if a later notification
+changes the rule.
 
 | Wrong | Minimum correct (`T = 66`) | Attempted | Net at that minimum | Blanks left |
 |---:|---:|---:|---:|---:|
@@ -238,11 +239,19 @@ current notification actually specifies.
 ## 9. Revision cycle (spaced)
 
 ```text
-Day 0  learn topic (basic/NN)      ->  Day 1  redo missed drills
-Day 3  advanced/NN drill set       ->  Day 7  timed mixed set (all 6 families)
-Day 15 error-log-only revision     ->  Day 30 full timed 80-item mock
-                (repeat the 7 -> 30 loop, always revising the error log first)
+Day 0  learn one owner (basic/01-08) -> Day 1  redo missed Core drills
+Day 3  fresh Core transfer set       -> Day 7  timed mixed set (all 8 owners)
+Day 15 error-log-only revision       -> Day 30 full timed 80-item mock
+          (repeat the 7 -> 30 loop, always revising the error log first)
 ```
+
+- Topic 07 revision must include timed communication matching and one
+  unfamiliar public-dealing scenario.
+- Topic 08 revision must include rapid family classification and logging
+  the full `classify -> extract -> represent -> execute -> verify ->
+  decide` chain.
+- Advanced drills may be added after Core mastery, but they are not a
+  prerequisite for this cycle.
 
 - ⚠️ Revise **the error log first, notes second**. The cheapest marks are the mistakes you already
   diagnosed once.
@@ -294,8 +303,8 @@ re-read from the **Set-A column of the key scans** and reconciled **240/240** wi
 ## 11. Study sequence
 
 1. Read this framework and the [README topic map](README.md).
-2. **Foundation first, in order:** [basic/01](basic/01_Reading-Comprehension.md) through [basic/06](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md).
-3. **Then drill:** [advanced/01](advanced/01_Reading-Comprehension.md) through [advanced/06](advanced/06_Logical-Reasoning-Coding-Counting-and-DI.md), one family at a time.
-4. **Integrate:** timed mixed sets, logging every error by the Section 8 code.
+2. **Complete every mandatory Core owner:** [basic/01](basic/01_Reading-Comprehension.md) through [basic/08](basic/08_General-Mental-Ability-Integrated-Map.md). Topic 07 covers the explicit communication clause; Topic 08 makes cross-family execution operational.
+3. **Integrate:** timed mixed sets across all eight owners, logging every error by the Section 8 code.
+4. **Use Advanced only optionally:** [advanced/01](advanced/01_Reading-Comprehension.md) through [advanced/08](advanced/08_Mixed-General-Mental-Ability-and-Strategy.md) add difficulty and nuance after the corresponding Core owner; they are not required for paper readiness.
 5. **Audit the evidence:** use the [Question Audit Ledger](00_Question-Audit-Ledger.md) for the question-level map.
 6. **Track progress:** use the internal self-diagnostics in the [Readiness Tracker](00_Readiness-Tracker.md).

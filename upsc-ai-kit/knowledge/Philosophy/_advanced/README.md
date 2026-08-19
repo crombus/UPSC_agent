@@ -39,6 +39,37 @@ Advanced material is immediately **promoted to the owner file** when:
 No question may be routed primarily to an Advanced file. Every PYQ has exactly one syllabus
 owner.
 
+### 2A. Promotion ledger — 15 August 2026
+
+The following triggers **fired and were executed**. Each doctrine now lives in its owner file, is
+examinable Core, and must not be described anywhere as an Advanced-only trail:
+
+| Section | Promoted doctrine | Owner |
+|---|---|---|
+| Western | Protocol-sentence debate (Schlick vs Neurath) | `Logical-Positivism.md` |
+| Western | Rule-following paradox + summary of Kripke's reading | `Later-Wittgenstein.md` |
+| Western | Kierkegaard's pseudonymity and indirect communication | `Existentialism.md` |
+| Western | Radical translation, *gavagai*, indeterminacy of translation | `Quine-Strawson.md` |
+| Indian | Hostile-source problem; Jayarāśi sceptical wing | `Carvaka.md` |
+| Indian | Buddhist pramāṇa theory (*svalakṣaṇa*, *apoha*, *pramāṇaphala*, *arthakriyākāritva*) | `Buddhism.md` |
+| Indian | Samprajñāta / asamprajñāta samādhi; *dharmamegha* | `Yoga.md` |
+| Indian | *Apūrva*; *bhāvanā* vs *niyoga*; Bhāṭṭa–Prābhākara sentence-meaning | `Mimamsa.md` |
+| Socio-Political | Recognition; recognition vs redistribution | `Humanism-Secularism-Multiculturalism.md` |
+| Socio-Political | Expressive/communicative/restorative punishment | `Crime-and-Punishment.md` |
+| Socio-Political | Productivism and the degrowth challenge | `Development-Social-Progress.md` |
+| Socio-Political | Care ethics; intersectionality; adaptive preference | `Gender-Discrimination.md` |
+| Socio-Political | Political obligation; civil disobedience; Hohfeld; non-domination; deliberative democracy | Owners 1, 3, 4 |
+| Religion | Skeptical theism; horrendous evils | `Problem-of-Evil.md` |
+| Religion | Reformed epistemology vs evidentialism | `Reason-Revelation-Faith.md` |
+| Religion | Religious naturalism; fictionalism/non-realism | `Religion-without-God.md` |
+| Religion | Stace/Zaehner typology; perceptual model | `Religious-Experience.md` |
+| Religion | Modified divine-command theory | `Religion-and-Morality.md` |
+
+**Recasting rule applied:** a fired trigger never deletes the dossier module. The module is
+rewritten so that it (a) states that the doctrine is now Core and where, and (b) keeps only the
+second-order dispute, the counter-objection or the extension. See
+[`Coverage-Matrix.md`](Coverage-Matrix.md) for the row-by-row audit result.
+
 ## 3. How to study
 
 1. Finish the owner file and its answer architectures.

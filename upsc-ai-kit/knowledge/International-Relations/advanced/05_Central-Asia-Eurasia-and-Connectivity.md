@@ -4,7 +4,7 @@
 > **Core area:** Continental-access constraints; the Afghanistan/Pakistan
 > chokepoint; INSTC and Chabahar as connectivity frameworks; great-power
 > competition without Indian determinism.
-> **Grounded in:** M. Laxmikant, *Indian Polity*; Rajiv Sikri, *Challenges and
+> **Grounded in:** M. Laxmikanth, *Indian Polity*; Rajiv Sikri, *Challenges and
 > Strategy*; MEA India-Uzbekistan bilateral brief; `00_Master-Framework.md`
 > Sections 5-7.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.

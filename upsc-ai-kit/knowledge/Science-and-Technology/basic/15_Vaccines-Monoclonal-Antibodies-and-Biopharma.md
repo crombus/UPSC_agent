@@ -143,6 +143,27 @@
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` — DBT, BIRAC and core biotech platform concepts.
 - ✅ `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` — molecular biotechnology and regulatory distinctions in another application domain.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — emerging AI linkages in diagnostics, drug discovery and health-tech governance.
+## Core answer architecture — vaccines, antibodies and biopharma access
+
+**Thesis choice.** Vaccines and monoclonal antibodies are different immunological tools; a rigorous answer traces mechanism, regulatory evaluation, manufacturing and equitable delivery instead of treating a platform announcement as health impact.
+
+**10-mark spine.** State whether the intervention is active or passive immunity; outline the platform/mechanism; name the approval and surveillance chain; give an Indian manufacturing/access implication and a safety/equity qualification.
+
+**15/20-mark spine.** Use **antigen/antibody mechanism → platform comparison → clinical/regulatory/manufacturing chain → public-health and industrial value → efficacy/effectiveness/safety/access trade-offs**.
+
+**Evidence units.**
+- **Claim:** vaccines build active protection whereas mAbs provide passive, targeted molecules → **mRNA, vector, inactivated or recombinant vaccine platforms versus laboratory-made monoclonal antibody** → distinction explains onset, memory and therapeutic use → **qualification:** an antibody is not a substitute for population immunisation and a vaccine’s trial efficacy is not the same as real-world effectiveness.
+- **Claim:** biopharma needs quality systems beyond discovery → **cell culture/bioreactor manufacture, CDSCO approval and pharmacovigilance** → supports safe scale, batch consistency and adverse-event learning → **qualification:** a laboratory platform or emergency use decision does not guarantee capacity, access or long-term effectiveness.
+- **Claim:** domestic capability has health-security value → **Indian vaccine/biologics manufacturing and DBT/BIRAC-linked translation ecosystem** → can reduce supply vulnerability and support exports/innovation → **qualification:** cold chain, procurement, IP, pricing and access disparities shape who benefits.
+
+**Verdict.** The strongest policy combines scientific innovation with transparent safety oversight, diversified manufacturing and equitable delivery.
+
+## Routed PYQ evidence — conjugate and platform logic
+
+- **Pneumococcal conjugate vaccine (PCV):** couples bacterial polysaccharide antigen to a protein carrier so the immune system can generate a stronger T-cell-dependent response and memory in young children than a plain polysaccharide approach. It targets pneumococcal disease prevention, not every pneumonia cause.
+- **Recombinant/vector vaccine:** genetic engineering can place antigen instructions in a controlled vector/platform; the recipient’s cells make antigen and generate active immunity. A vector platform is neither a live wild pathogen nor a monoclonal antibody.
+- **COVID-platform test:** mRNA, viral-vector and inactivated-pathogen vaccines present/produce antigen by different routes; all should be separated from claims about any individual product’s approval, effectiveness or current availability unless a regulator source is cited.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

@@ -13,10 +13,136 @@
       "approved": false
     },
     {
+      "command": "Export PDF for Ancient History 02 — Sources of Ancient Indian History",
+      "main_pdf": "notes\\Ancient-Indian-History\\02_Sources-of-Ancient-Indian-History_Complete-Topic-Package_2026-08-12.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\02_Sources-of-Ancient-Indian-History_Solved-Workbook_2026-08-12.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\02_Sources-of-Ancient-Indian-History_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 03 — Geographical Setting & Ecology",
+      "main_pdf": "notes\\Ancient-Indian-History\\03_Geographical-Setting-Ecology_Complete-Topic-Package_2026-08-12.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\03_Geographical-Setting-Ecology_Solved-Workbook_2026-08-12.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\03_Geographical-Setting-Ecology_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 04 — The Stone Age: Palaeolithic & Mesolithic",
+      "main_pdf": "notes\\Ancient-Indian-History\\04_The-Stone-Age-Palaeolithic-Mesolithic_Complete-Topic-Package_2026-08-12.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\04_The-Stone-Age-Palaeolithic-Mesolithic_Solved-Workbook_2026-08-12.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\04_The-Stone-Age-Palaeolithic-Mesolithic_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 05 — Neolithic & Chalcolithic Cultures",
+      "main_pdf": "notes\\Ancient-Indian-History\\05_Neolithic-Chalcolithic-Cultures_Complete-Topic-Package_2026-08-12.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\05_Neolithic-Chalcolithic-Cultures_Solved-Workbook_2026-08-12.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\05_Neolithic-Chalcolithic-Cultures_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 06 — The Harappan Civilization",
+      "main_pdf": "notes\\Ancient-Indian-History\\06_The-Harappan-Civilization_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\06_The-Harappan-Civilization_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\06_The-Harappan-Civilization_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 07 — The Aryan Problem & Identity of Aryan Culture",
+      "main_pdf": "notes\\Ancient-Indian-History\\07_The-Aryan-Problem-Identity-of-Aryan-Culture_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\07_The-Aryan-Problem-Identity-of-Aryan-Culture_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\07_The-Aryan-Problem-Identity-of-Aryan-Culture_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 08 — The Rig Vedic Age (Early Vedic)",
+      "main_pdf": "notes\\Ancient-Indian-History\\08_The-Rig-Vedic-Age-Early-Vedic_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\08_The-Rig-Vedic-Age-Early-Vedic_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\08_The-Rig-Vedic-Age-Early-Vedic_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 09 — The Later Vedic Phase",
+      "main_pdf": "notes\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 10 — Jainism and Buddhism",
+      "main_pdf": "notes\\Ancient-Indian-History\\10_Jainism-and-Buddhism_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\10_Jainism-and-Buddhism_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\10_Jainism-and-Buddhism_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 11 — Mahajanapadas & Rise of Magadha",
+      "main_pdf": "notes\\Ancient-Indian-History\\11_Mahajanapadas-Rise-of-Magadha_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\11_Mahajanapadas-Rise-of-Magadha_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\11_Mahajanapadas-Rise-of-Magadha_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 12 — Iranian & Macedonian Invasions",
+      "main_pdf": "notes\\Ancient-Indian-History\\12_Iranian-Macedonian-Invasions_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\12_Iranian-Macedonian-Invasions_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\12_Iranian-Macedonian-Invasions_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 13 — State & Varna Society in the Age of the Buddha",
+      "main_pdf": "notes\\Ancient-Indian-History\\13_State-Varna-Society-Age-of-Buddha_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\13_State-Varna-Society-Age-of-Buddha_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\13_State-Varna-Society-Age-of-Buddha_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
       "command": "Export PDF for Medieval History 01 — India on the Eve of the Medieval Age & Arab-Turkish Contacts",
       "main_pdf": "notes\\Medieval-Indian-History\\01_India-on-the-Eve-Arab-Turkish-Contacts_Complete-Topic-Package_2026-08-10.pdf",
       "workbook": "notes\\Medieval-Indian-History\\01_India-on-the-Eve-Arab-Turkish-Contacts_Solved-Workbook_2026-08-10.pdf",
       "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\01_India-on-the-Eve-of-the-Medieval-Age-Arab-Turkish-Contacts_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 02 — The Ghaznavids & the Ghurian Invasions",
+      "main_pdf": "notes\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 03 — Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty",
+      "main_pdf": "notes\\Medieval-Indian-History\\03_Foundation-Delhi-Sultanate-Mamluk-Dynasty_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\03_Foundation-Delhi-Sultanate-Mamluk-Dynasty_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\03_Foundation-Delhi-Sultanate-Mamluk-Dynasty_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 04 — The Khaljis: Alauddin Khalji & Market Reforms",
+      "main_pdf": "notes\\Medieval-Indian-History\\04_The-Khaljis-Alauddin-Khalji-Market-Reforms_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\04_The-Khaljis-Alauddin-Khalji-Market-Reforms_Solved-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\04_The-Khaljis-Alauddin-Khalji-Market-Reforms_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 05 — The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah",
+      "main_pdf": "notes\\Medieval-Indian-History\\05_The-Tughlaqs-Muhammad-bin-Tughlaq-Firuz-Shah_Complete-Learning-Session_2026-08-16.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\05_The-Tughlaqs-Muhammad-bin-Tughlaq-Firuz-Shah_Premium-Solved-PYQ-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\05_The-Tughlaqs-Muhammad-bin-Tughlaq-Firuz-Shah_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 06 — Decline of the Sultanate: Timur, Sayyids & Lodis",
+      "main_pdf": "notes\\Medieval-Indian-History\\06_Decline-of-the-Sultanate-Timur-Sayyids-Lodis_Complete-Learning-Session_2026-08-16.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\06_Decline-of-the-Sultanate-Timur-Sayyids-Lodis_Premium-Solved-PYQ-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\06_Decline-of-the-Sultanate-Timur-Sayyids-Lodis_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 07 — Administration, Economy & Society under the Sultanate",
+      "main_pdf": "notes\\Medieval-Indian-History\\07_Administration-Economy-Society-under-the-Sultanate_Complete-Learning-Session_2026-08-16.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\07_Administration-Economy-Society-under-the-Sultanate_Premium-Solved-PYQ-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\07_Administration-Economy-Society-under-the-Sultanate_Complete-Topic-Package.md",
       "approved": false
     },
     {
@@ -25,6 +151,21 @@
       "workbook": "notes\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Solved-Workbook_2026-08-09.pdf",
       "markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Complete-Topic-Package.md",
       "approved": false
+    },
+    {
+      "command": "Export PDF for Modern History 02 — Indian States & Society in the 18th Century (Marathas, Sikhs, successor states)",
+      "main_pdf": "notes\\Modern-Indian-History\\02_Indian-States-Society-18th-Century_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\Modern-Indian-History\\02_Indian-States-Society-18th-Century_Solved-Workbook_2026-08-14.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\02_Indian-States-Society-18th-Century_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Modern History 03 — The Beginnings of European Settlements (Portuguese → Dutch → English → French)",
+      "main_pdf": "notes\\Modern-Indian-History\\03_Beginnings-European-Settlements-Portuguese-Dutch-English-French_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\Modern-Indian-History\\03_Beginnings-European-Settlements-Portuguese-Dutch-English-French_Solved-Workbook_2026-08-14.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\03_Beginnings-European-Settlements-Portuguese-Dutch-English-French_Complete-Topic-Package.md",
+      "approved": true,
+      "approved_on": "2026-08-14"
     },
     {
       "command": "Export PDF for World History 01 — Enlightenment and Age of Revolutions Overview",
@@ -42,29 +183,99 @@
     },
     {
       "command": "Export PDF for Geography 01 — India Location and Extent",
-      "main_pdf": "notes\\Geography\\01_India-s-Location-Extent_Complete-Topic-Package_2026-08-09.pdf",
-      "workbook": "notes\\Geography\\01_India-s-Location-Extent_Solved-Workbook_2026-08-09.pdf",
+      "main_pdf": "notes\\Geography\\01_India-s-Location-Extent_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Geography\\01_India-s-Location-Extent_Solved-Workbook_2026-08-15.pdf",
       "markdown": "upsc-ai-kit\\knowledge\\Geography\\01_India-s-Location-Extent_Complete-Topic-Package.md",
       "approved": false
     },
     {
       "command": "Export PDF for Indian Society 01 — Salient Features and Diversity of Indian Society",
-      "main_pdf": "notes\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Complete-Topic-Package_2026-08-09.pdf",
-      "workbook": "notes\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Solved-Workbook_2026-08-09.pdf",
+      "main_pdf": "notes\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Solved-Workbook_2026-08-14.pdf",
       "markdown": "upsc-ai-kit\\knowledge\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Complete-Topic-Package.md",
       "approved": false
     },
     {
       "command": "Export PDF for Polity 01 — Historical Background",
-      "main_pdf": "notes\\Polity\\Historical_Background_Complete_Topic_Package_2026-08-09.pdf",
-      "workbook": "notes\\Polity\\Historical_Background_Solved_Practice_Workbook_2026-08-09.pdf",
+      "main_pdf": "notes\\Polity\\01_Historical-Background_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\Polity\\01_Historical-Background_Solved-Practice-Workbook_2026-08-14.pdf",
       "markdown": "upsc-ai-kit\\knowledge\\Polity\\Historical-Background-Complete-Topic-Package.md",
       "approved": false
     },
     {
+      "command": "Export PDF for Polity 02 — Making of the Constitution",
+      "main_pdf": "notes\\Polity\\02_Making-of-the-Constitution_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\Polity\\02_Making-of-the-Constitution_Solved-Practice-Workbook_2026-08-14.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\02_Making-of-the-Constitution_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 03 — Salient Features",
+      "main_pdf": "notes\\Polity\\03_Salient-Features_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Polity\\03_Salient-Features_Solved-Practice-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\03_Salient-Features_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 04 — Preamble",
+      "main_pdf": "notes\\Polity\\04_Preamble_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Polity\\04_Preamble_Solved-Practice-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\04_Preamble_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 05 — Union and Territory",
+      "main_pdf": "notes\\Polity\\05_Union-and-Territory_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Polity\\05_Union-and-Territory_Solved-Practice-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\05_Union-and-Territory_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 06 — Citizenship",
+      "main_pdf": "notes\\Polity\\06_Citizenship_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Polity\\06_Citizenship_Solved-Practice-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\06_Citizenship_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 07 — Fundamental Rights",
+      "main_pdf": "notes\\Polity\\07_Fundamental-Rights_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Polity\\07_Fundamental-Rights_Solved-Practice-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\07_Fundamental-Rights_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 08 — Directive Principles",
+      "main_pdf": "notes\\Polity\\08_Directive-Principles_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Polity\\08_Directive-Principles_Solved-Practice-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\08_Directive-Principles_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 09 — Fundamental Duties",
+      "main_pdf": "notes\\Polity\\09_Fundamental-Duties_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Polity\\09_Fundamental-Duties_Solved-Practice-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\09_Fundamental-Duties_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 10 — Amendment and Basic Structure",
+      "main_pdf": "notes\\Polity\\10_Amendment-and-Basic-Structure_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Polity\\10_Amendment-and-Basic-Structure_Solved-Practice-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\10_Amendment-and-Basic-Structure_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 11 — Parliamentary System",
+      "main_pdf": "notes\\Polity\\11_Parliamentary-System_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Polity\\11_Parliamentary-System_Solved-Practice-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\11_Parliamentary-System_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
       "command": "Export PDF for Governance 01 — Good Governance: Concepts and Frameworks",
-      "main_pdf": "notes\\Governance\\01_Good-Governance-Concepts-and-Frameworks_Complete-Topic-Package_2026-08-09.pdf",
-      "workbook": "notes\\Governance\\01_Good-Governance-Concepts-and-Frameworks_Solved-Workbook_2026-08-09.pdf",
+      "main_pdf": "notes\\Governance\\01_Good-Governance-Concepts-and-Frameworks_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Governance\\01_Good-Governance-Concepts-and-Frameworks_Solved-Workbook_2026-08-15.pdf",
       "markdown": "upsc-ai-kit\\knowledge\\Governance\\01_Good-Governance-Concepts-and-Frameworks_Complete-Topic-Package.md",
       "approved": false
     },
@@ -77,8 +288,8 @@
     },
     {
       "command": "Export PDF for International Relations 01 — Foreign-Policy Foundations and Strategic Autonomy",
-      "main_pdf": "notes\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Complete-Topic-Package_2026-08-10.pdf",
-      "workbook": "notes\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Solved-Workbook_2026-08-10.pdf",
+      "main_pdf": "notes\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Solved-Workbook_2026-08-14.pdf",
       "markdown": "upsc-ai-kit\\knowledge\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Complete-Topic-Package.md",
       "approved": false
     },
@@ -147,24 +358,23 @@
     },
     {
       "command": "Export PDF for Philosophy Paper I — Western Philosophy 01 — Plato and Aristotle",
-      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\01_Plato-Aristotle.pdf",
-      "workbook": "notes\\Philosophy\\Western-Philosophy\\01_Plato-Aristotle_Solved-PYQ-MCQ-Workbook.pdf",
-      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\_learning-sessions\\01_Plato-Aristotle-Complete-Learning-Session.md",
-      "approved": true,
-      "approved_on": "2026-08-09"
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Plato-Aristotle\\Plato-Aristotle_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Plato-Aristotle\\Plato-Aristotle_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Plato-Aristotle\\Plato-Aristotle_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
     },
     {
       "command": "Export PDF for Philosophy Paper I — Indian Philosophy 01 — Carvaka",
-      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\01_Carvaka_Complete-Topic-Package_2026-08-10.pdf",
-      "workbook": "notes\\Philosophy\\Indian-Philosophy\\01_Carvaka_Solved-Workbook_2026-08-10.pdf",
-      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\Carvaka_Complete-Learning-Session_2026-08-10.md",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\Carvaka_Layered-Complete-Learning-Session_2026-08-10.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\Carvaka_Layered-Solved-Practice-Workbook_2026-08-10.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\Carvaka_Layered-Complete-Learning-Session_2026-08-10.md",
       "approved": false
     },
     {
       "command": "Export PDF for Philosophy Paper II — Philosophy of Religion 01 — Notions of God",
-      "main_pdf": "notes\\Philosophy\\Philosophy-of-Religion\\01_Notions-of-God_Complete-Topic-Package_2026-08-09.pdf",
-      "workbook": "notes\\Philosophy\\Philosophy-of-Religion\\01_Notions-of-God_Solved-Workbook_2026-08-09.pdf",
-      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\Notions-of-God_Verbatim-Learning-Session_2026-08-09.md",
+      "main_pdf": "notes\\Philosophy\\Philosophy-of-Religion\\01_Notions-of-God_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Philosophy\\Philosophy-of-Religion\\01_Notions-of-God_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\Notions-of-God_Complete-Learning-Session_2026-08-15.md",
       "approved": false
     },
     {
@@ -172,6 +382,721 @@
       "main_pdf": "notes\\Philosophy\\Philosophy-of-Religion\\02_Proofs-for-God_Complete-Topic-Package_2026-08-10.pdf",
       "workbook": "notes\\Philosophy\\Philosophy-of-Religion\\02_Proofs-for-God_Solved-Workbook_2026-08-10.pdf",
       "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\Proofs-for-God_Complete-Learning-Session_2026-08-10.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 14 — The Mauryan Empire",
+      "main_pdf": "notes\\Ancient-Indian-History\\14_The-Mauryan-Empire_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\14_The-Mauryan-Empire_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\14_The-Mauryan-Empire_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 15 — Significance & Decline of Mauryan Rule",
+      "main_pdf": "notes\\Ancient-Indian-History\\15_Significance-Decline-of-Mauryan-Rule_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\15_Significance-Decline-of-Mauryan-Rule_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\15_Significance-Decline-of-Mauryan-Rule_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 16 — Central Asian Contacts: Indo-Greeks, Shakas, Kushanas",
+      "main_pdf": "notes\\Ancient-Indian-History\\16_Central-Asian-Contacts-Indo-Greeks-Shakas-Kushanas_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\16_Central-Asian-Contacts-Indo-Greeks-Shakas-Kushanas_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\16_Central-Asian-Contacts-Indo-Greeks-Shakas-Kushanas_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 17 — The Satavahanas & the Deccan",
+      "main_pdf": "notes\\Ancient-Indian-History\\17_Satavahanas-Deccan_Complete-Topic-Package_2026-08-13.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\17_Satavahanas-Deccan_Solved-Workbook_2026-08-13.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\17_Satavahanas-Deccan_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 18 — The Sangam Age & the Deep South",
+      "main_pdf": "notes\\Ancient-Indian-History\\18_Sangam-Age-Deep-South_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\18_Sangam-Age-Deep-South_Solved-Workbook_2026-08-14.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\18_Sangam-Age-Deep-South_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 19 — Crafts, Commerce & Urban Growth (200 BC–AD 250)",
+      "main_pdf": "notes\\Ancient-Indian-History\\19_Crafts-Commerce-Urban-Growth_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\19_Crafts-Commerce-Urban-Growth_Solved-Workbook_2026-08-14.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\19_Crafts-Commerce-Urban-Growth_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 20 — The Gupta Empire",
+      "main_pdf": "notes\\Ancient-Indian-History\\20_Gupta-Empire_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\20_Gupta-Empire_Solved-Workbook_2026-08-14.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\20_Gupta-Empire_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 21 — Life & Culture in the Gupta Age",
+      "main_pdf": "notes\\Ancient-Indian-History\\21_Life-Culture-Gupta-Age_Complete-Topic-Package_2026-08-14.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\21_Life-Culture-Gupta-Age_Solved-Workbook_2026-08-14.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\21_Life-Culture-Gupta-Age_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 22 — Post-Gupta India: Harsha & Eastern India",
+      "main_pdf": "notes\\Ancient-Indian-History\\22_Post-Gupta-Harsha-and-Eastern-India_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\22_Post-Gupta-Harsha-and-Eastern-India_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\22_Post-Gupta-Harsha-and-Eastern-India_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 23 — Peninsular India: Pallavas, Chalukyas & Brahmanization",
+      "main_pdf": "notes\\Ancient-Indian-History\\23_Peninsular-India-Pallavas-Chalukyas_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\23_Peninsular-India-Pallavas-Chalukyas_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\23_Peninsular-India-Pallavas-Chalukyas_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 24 — Developments in Philosophy",
+      "main_pdf": "notes\\Ancient-Indian-History\\24_Developments-in-Philosophy_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\24_Developments-in-Philosophy_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\24_Developments-in-Philosophy_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 25 — Cultural Interaction with Asian Countries",
+      "main_pdf": "notes\\Ancient-Indian-History\\25_Cultural-Interaction-with-Asian-Countries_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\25_Cultural-Interaction-with-Asian-Countries_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\25_Cultural-Interaction-with-Asian-Countries_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 26 — From Ancient to Medieval: Social Change & Legacy",
+      "main_pdf": "notes\\Ancient-Indian-History\\26_From-Ancient-to-Medieval-Social-Change-and-Legacy_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\26_From-Ancient-to-Medieval-Social-Change-and-Legacy_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\26_From-Ancient-to-Medieval-Social-Change-and-Legacy_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Ancient History 27 — Imperial Cholas: State, Society, Economy & Maritime Power",
+      "main_pdf": "notes\\Ancient-Indian-History\\27_Imperial-Cholas-State-Society-Economy-Maritime-Power_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\27_Imperial-Cholas-State-Society-Economy-Maritime-Power_Solved-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\27_Imperial-Cholas-State-Society-Economy-Maritime-Power_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 02 — India Geological Structure",
+      "main_pdf": "notes\\Geography\\02_India-Geological-Structure_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Geography\\02_India-Geological-Structure_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\02_India-Geological-Structure_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for International Relations 02 — India and the Neighbourhood",
+      "main_pdf": "notes\\International-Relations\\02_India-and-the-Neighbourhood_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\International-Relations\\02_India-and-the-Neighbourhood_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\International-Relations\\02_India-and-the-Neighbourhood_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper II — Philosophy of Religion 03 — Problem of Evil",
+      "main_pdf": "notes\\Philosophy\\Philosophy-of-Religion\\03_Problem-of-Evil_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Philosophy\\Philosophy-of-Religion\\03_Problem-of-Evil_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\Problem-of-Evil_Complete-Learning-Session_2026-08-15.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 03 — India Seismic Zones",
+      "main_pdf": "notes\\Geography\\03_India-Seismic-Zones_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Geography\\03_India-Seismic-Zones_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\03_India-Seismic-Zones_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 04 — India Erosion Landslides Groundwater",
+      "main_pdf": "notes\\Geography\\04_India-Erosion-Landslides-Groundwater_Complete-Topic-Package_2026-08-15.pdf",
+      "workbook": "notes\\Geography\\04_India-Erosion-Landslides-Groundwater_Solved-Workbook_2026-08-15.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\04_India-Erosion-Landslides-Groundwater_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 05 — India Drainage and Interlinking",
+      "main_pdf": "notes\\Geography\\05_India-Drainage-and-Interlinking_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Geography\\05_India-Drainage-and-Interlinking_Solved-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\05_India-Drainage-and-Interlinking_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 06 — Himalayan Glaciers GLOF",
+      "main_pdf": "notes\\Geography\\06_Himalayan-Glaciers-GLOF_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Geography\\06_Himalayan-Glaciers-GLOF_Solved-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\06_Himalayan-Glaciers-GLOF_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 07 — Thar Desertification",
+      "main_pdf": "notes\\Geography\\07_Thar-Desertification_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Geography\\07_Thar-Desertification_Solved-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\07_Thar-Desertification_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 08 — India Caves Meghalayan Age",
+      "main_pdf": "notes\\Geography\\08_India-Caves-Meghalayan-Age_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Geography\\08_India-Caves-Meghalayan-Age_Solved-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\08_India-Caves-Meghalayan-Age_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 12 — Federal System",
+      "main_pdf": "notes\\Polity\\12_Federal-System_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Polity\\12_Federal-System_Solved-Practice-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\12_Federal-System_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 13 — Centre State and Inter State Relations",
+      "main_pdf": "notes\\Polity\\13_Centre-State-and-Inter-State-Relations_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Polity\\13_Centre-State-and-Inter-State-Relations_Solved-Practice-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\13_Centre-State-and-Inter-State-Relations_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 14 — Emergency Provisions",
+      "main_pdf": "notes\\Polity\\14_Emergency-Provisions_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Polity\\14_Emergency-Provisions_Solved-Practice-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\14_Emergency-Provisions_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 15 — President and Vice President",
+      "main_pdf": "notes\\Polity\\15_President-and-Vice-President_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Polity\\15_President-and-Vice-President_Solved-Practice-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\15_President-and-Vice-President_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 16 — PM and Council of Ministers",
+      "main_pdf": "notes\\Polity\\16_PM-and-Council-of-Ministers_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Polity\\16_PM-and-Council-of-Ministers_Solved-Practice-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\16_PM-and-Council-of-Ministers_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 17 — Parliament",
+      "main_pdf": "notes\\Polity\\17_Parliament_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Polity\\17_Parliament_Solved-Practice-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\17_Parliament_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 18 — Supreme Court",
+      "main_pdf": "notes\\Polity\\18_Supreme-Court_Complete-Topic-Package_2026-08-17.pdf",
+      "workbook": "notes\\Polity\\18_Supreme-Court_Solved-Practice-Workbook_2026-08-17.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\18_Supreme-Court_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 19 — Governor CM State Council",
+      "main_pdf": "notes\\Polity\\19_Governor-CM-State-Council_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Polity\\19_Governor-CM-State-Council_Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\19_Governor-CM-State-Council_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 20 — State Legislature",
+      "main_pdf": "notes\\Polity\\20_State-Legislature_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Polity\\20_State-Legislature_Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\20_State-Legislature_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 21 — High Court and Subordinate Courts",
+      "main_pdf": "notes\\Polity\\21_High-Court-and-Subordinate-Courts_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Polity\\21_High-Court-and-Subordinate-Courts_Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\21_High-Court-and-Subordinate-Courts_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 22 — Special Provisions",
+      "main_pdf": "notes\\Polity\\22_Special-Provisions_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Polity\\22_Special-Provisions_Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\22_Special-Provisions_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 23 — Panchayati Raj",
+      "main_pdf": "notes\\Polity\\23_Panchayati-Raj_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Polity\\23_Panchayati-Raj_Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\23_Panchayati-Raj_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 24 — Municipalities",
+      "main_pdf": "notes\\Polity\\24_Municipalities_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Polity\\24_Municipalities_Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\24_Municipalities_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 09 — India Lakes and Wetlands",
+      "main_pdf": "notes\\Geography\\09_India-Lakes-and-Wetlands_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Geography\\09_India-Lakes-and-Wetlands_Solved-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\09_India-Lakes-and-Wetlands_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 10 — India Coast and CRZ",
+      "main_pdf": "notes\\Geography\\10_India-Coast-and-CRZ_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Geography\\10_India-Coast-and-CRZ_Solved-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\10_India-Coast-and-CRZ_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 08 — Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension",
+      "main_pdf": "notes\\Medieval-Indian-History\\08_Provincial-Regional-Kingdoms_Complete-Learning-Session_2026-08-16.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\08_Provincial-Regional-Kingdoms_Premium-Solved-PYQ-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\08_Provincial-Regional-Kingdoms_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 09 — Vijayanagara & the Bahmani Kingdom (Deccan)",
+      "main_pdf": "notes\\Medieval-Indian-History\\09_Vijayanagara-Bahmani-Kingdom_Complete-Learning-Session_2026-08-16.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\09_Vijayanagara-Bahmani-Kingdom_Premium-Solved-PYQ-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\09_Vijayanagara-Bahmani-Kingdom_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 02 — Rationalism",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Rationalism\\Rationalism_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Rationalism\\Rationalism_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Rationalism\\Rationalism_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 03 — Empiricism",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Empiricism\\Empiricism_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Empiricism\\Empiricism_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Empiricism\\Empiricism_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 04 — Kant",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Kant\\Kant_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Kant\\Kant_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Kant\\Kant_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 05 — Hegel",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Hegel\\Hegel_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Hegel\\Hegel_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Hegel\\Hegel_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 06 — Moore, Russell and Early Wittgenstein",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Moore-Russell-Early-Wittgenstein\\Moore-Russell-Early-Wittgenstein_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Moore-Russell-Early-Wittgenstein\\Moore-Russell-Early-Wittgenstein_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Moore-Russell-Early-Wittgenstein\\Moore-Russell-Early-Wittgenstein_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 07 — Logical Positivism",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Logical-Positivism\\Logical-Positivism_Layered-Complete-Learning-Session_2026-08-19.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Logical-Positivism\\Logical-Positivism_Layered-Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Logical-Positivism\\Logical-Positivism_Layered-Complete-Learning-Session_2026-08-19.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 08 — Later Wittgenstein",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Later-Wittgenstein\\Later-Wittgenstein_Layered-Complete-Learning-Session_2026-08-19.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Later-Wittgenstein\\Later-Wittgenstein_Layered-Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Later-Wittgenstein\\Later-Wittgenstein_Layered-Complete-Learning-Session_2026-08-19.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 09 — Phenomenology (Husserl)",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Complete-Learning-Session_2026-08-19.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Complete-Learning-Session_2026-08-19.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 10 — Existentialism",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Existentialism\\Existentialism_Layered-Complete-Learning-Session_2026-08-19.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Existentialism\\Existentialism_Layered-Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Existentialism\\Existentialism_Layered-Complete-Learning-Session_2026-08-19.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Western Philosophy 11 — Quine and Strawson",
+      "main_pdf": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Complete-Learning-Session_2026-08-19.pdf",
+      "workbook": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Complete-Learning-Session_2026-08-19.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper II — Philosophy of Religion 04 — Soul: Immortality, Rebirth and Liberation",
+      "main_pdf": "notes\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Complete-Learning-Session_2026-08-19.pdf",
+      "workbook": "notes\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Complete-Learning-Session_2026-08-19.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 11 — India Islands Great Nicobar",
+      "main_pdf": "notes\\Geography\\11_India-Islands-Great-Nicobar_Complete-Topic-Package_2026-08-16.pdf",
+      "workbook": "notes\\Geography\\11_India-Islands-Great-Nicobar_Solved-Workbook_2026-08-16.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\11_India-Islands-Great-Nicobar_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Indian Philosophy 02 — Jainism",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\Jainism_Layered-Complete-Learning-Session_2026-08-17.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\Jainism_Layered-Solved-Practice-Workbook_2026-08-17.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\Jainism_Layered-Complete-Learning-Session_2026-08-17.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Indian Philosophy 03 — Schools of Buddhism",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Schools-of-Buddhism\\Schools-of-Buddhism_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Schools-of-Buddhism\\Schools-of-Buddhism_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Schools-of-Buddhism\\Schools-of-Buddhism_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Indian Philosophy 04 — Nyaya–Vaisesika",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\Nyaya-Vaisesika_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\Nyaya-Vaisesika_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\Nyaya-Vaisesika_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Indian Philosophy 05 — Samkhya",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\Samkhya_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\Samkhya_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\Samkhya_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Indian Philosophy 06 — Yoga",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Yoga\\Yoga_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Yoga\\Yoga_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Yoga\\Yoga_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Indian Philosophy 07 — Mimamsa",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Mimamsa\\Mimamsa_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Mimamsa\\Mimamsa_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Mimamsa\\Mimamsa_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Indian Philosophy 08 — Schools of Vedanta",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Schools-of-Vedanta\\Schools-of-Vedanta_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Schools-of-Vedanta\\Schools-of-Vedanta_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Schools-of-Vedanta\\Schools-of-Vedanta_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Philosophy Paper I — Indian Philosophy 09 — Aurobindo",
+      "main_pdf": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Sri-Aurobindo\\Sri-Aurobindo_Layered-Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Philosophy\\Indian-Philosophy\\learning-sessions\\Sri-Aurobindo\\Sri-Aurobindo_Layered-Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Sri-Aurobindo\\Sri-Aurobindo_Layered-Complete-Learning-Session_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 10 — The Bhakti & Sufi Movements",
+      "main_pdf": "notes\\Medieval-Indian-History\\10_Bhakti-Sufi-Movements_Complete-Learning-Session_2026-08-17.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\10_Bhakti-Sufi-Movements_Premium-Solved-PYQ-Workbook_2026-08-17.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\10_Bhakti-Sufi-Movements_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 11 — Art, Architecture & Culture of the Sultanate",
+      "main_pdf": "notes\\Medieval-Indian-History\\11_Sultanate-Art-Architecture-Culture_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\11_Sultanate-Art-Architecture-Culture_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\11_Sultanate-Art-Architecture-Culture_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 12 — Indian Ocean and IOD",
+      "main_pdf": "notes\\Geography\\12_Indian-Ocean-and-IOD_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Geography\\12_Indian-Ocean-and-IOD_Solved-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\12_Indian-Ocean-and-IOD_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 13 — India JetStream Western Disturbances",
+      "main_pdf": "notes\\Geography\\13_India-JetStream-Western-Disturbances_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Geography\\13_India-JetStream-Western-Disturbances_Solved-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\13_India-JetStream-Western-Disturbances_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 14 — India Climatic Regions",
+      "main_pdf": "notes\\Geography\\14_India-Climatic-Regions_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Geography\\14_India-Climatic-Regions_Solved-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\14_India-Climatic-Regions_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 12 — Babur & the Central Asian Backdrop",
+      "main_pdf": "notes\\Medieval-Indian-History\\12_Babur-Central-Asian-Backdrop_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\12_Babur-Central-Asian-Backdrop_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\12_Babur-Central-Asian-Backdrop_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\12_Babur-Central-Asian-Backdrop_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\12_Babur-Central-Asian-Backdrop_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 13 — Struggle for Empire: Afghans, Rajputs & Humayun",
+      "main_pdf": "notes\\Medieval-Indian-History\\13_Struggle-for-Empire-Afghans-Rajputs-Humayun_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\13_Struggle-for-Empire-Afghans-Rajputs-Humayun_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\13_Struggle-for-Empire-Afghans-Rajputs-Humayun_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\13_Struggle-for-Empire-Afghans-Rajputs-Humayun_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\13_Struggle-for-Empire-Afghans-Rajputs-Humayun_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 14 — Sher Shah Sur & the Sur Empire",
+      "main_pdf": "notes\\Medieval-Indian-History\\14_Sher-Shah-Sur-Empire_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\14_Sher-Shah-Sur-Empire_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\14_Sher-Shah-Sur-Empire_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\14_Sher-Shah-Sur-Empire_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\14_Sher-Shah-Sur-Empire_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 15 — Akbar: Consolidation & Expansion of the Empire",
+      "main_pdf": "notes\\Medieval-Indian-History\\15_Akbar-Consolidation-Expansion_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\15_Akbar-Consolidation-Expansion_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\15_Akbar-Consolidation-Expansion_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\15_Akbar-Consolidation-Expansion_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\15_Akbar-Consolidation-Expansion_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 16 — State & Government under Akbar (Mansabdari, Dahsala)",
+      "main_pdf": "notes\\Medieval-Indian-History\\16_State-Government-under-Akbar_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\16_State-Government-under-Akbar_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\16_State-Government-under-Akbar_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\16_State-Government-under-Akbar_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\16_State-Government-under-Akbar_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 15 — India Evergreen Forests",
+      "main_pdf": "notes\\Geography\\15_India-Evergreen-Forests_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Geography\\15_India-Evergreen-Forests_Solved-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\15_India-Evergreen-Forests_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 16 — India Monsoon Mechanism",
+      "main_pdf": "notes\\Geography\\16_India-Monsoon-Mechanism_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Geography\\16_India-Monsoon-Mechanism_Solved-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\16_India-Monsoon-Mechanism_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 17 — Akbar's Religious Views: Ibadat Khana & Din-i-Ilahi",
+      "main_pdf": "notes\\Medieval-Indian-History\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 18 — The Deccan & the Mughals (to 1657)",
+      "main_pdf": "notes\\Medieval-Indian-History\\18_Deccan-Mughals-to-1657_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\18_Deccan-Mughals-to-1657_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\18_Deccan-Mughals-to-1657_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\18_Deccan-Mughals-to-1657_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\18_Deccan-Mughals-to-1657_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 19 — Foreign Policy of the Mughals",
+      "main_pdf": "notes\\Medieval-Indian-History\\19_Foreign-Policy-of-the-Mughals_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\19_Foreign-Policy-of-the-Mughals_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\19_Foreign-Policy-of-the-Mughals_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\19_Foreign-Policy-of-the-Mughals_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\19_Foreign-Policy-of-the-Mughals_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 20 — Jahangir & the Early Seventeenth Century (Nur Jahan)",
+      "main_pdf": "notes\\Medieval-Indian-History\\20_Jahangir-Early-Seventeenth-Century-Nur-Jahan_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\20_Jahangir-Early-Seventeenth-Century-Nur-Jahan_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\20_Jahangir-Early-Seventeenth-Century-Nur-Jahan_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\20_Jahangir-Early-Seventeenth-Century-Nur-Jahan_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\20_Jahangir-Early-Seventeenth-Century-Nur-Jahan_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 21 — Shah Jahan & the Evolution of the Mughal Ruling Class",
+      "main_pdf": "notes\\Medieval-Indian-History\\21_Shah-Jahan-Evolution-Mughal-Ruling-Class_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\21_Shah-Jahan-Evolution-Mughal-Ruling-Class_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\21_Shah-Jahan-Evolution-Mughal-Ruling-Class_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\21_Shah-Jahan-Evolution-Mughal-Ruling-Class_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\21_Shah-Jahan-Evolution-Mughal-Ruling-Class_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 25 — Union Territories",
+      "main_pdf": "notes\\Polity\\25_Union-Territories_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Polity\\25_Union-Territories_Solved-Practice-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\25_Union-Territories_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 17 — India Deciduous and Grasslands",
+      "main_pdf": "notes\\Geography\\17_India-Deciduous-and-Grasslands_Complete-Topic-Package_2026-08-18.pdf",
+      "workbook": "notes\\Geography\\17_India-Deciduous-and-Grasslands_Solved-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\17_India-Deciduous-and-Grasslands_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 22 — Aurangzeb: Religious Policy, North India & the Rajputs",
+      "main_pdf": "notes\\Medieval-Indian-History\\22_Aurangzeb-Religious-Policy-North-India-Rajputs_Complete-Learning-Session_2026-08-18.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\22_Aurangzeb-Religious-Policy-North-India-Rajputs_Premium-Solved-PYQ-Workbook_2026-08-18.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\22_Aurangzeb-Religious-Policy-North-India-Rajputs_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\22_Aurangzeb-Religious-Policy-North-India-Rajputs_Complete-Learning-Session_2026-08-18.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\22_Aurangzeb-Religious-Policy-North-India-Rajputs_Premium-Solved-PYQ-Workbook_2026-08-18.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 23 — The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis",
+      "main_pdf": "notes\\Medieval-Indian-History\\23_Marathas-Shivaji-Aurangzeb-Deccan-Jagirdari-Crisis_Complete-Learning-Session_2026-08-19.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\23_Marathas-Shivaji-Aurangzeb-Deccan-Jagirdari-Crisis_Premium-Solved-PYQ-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\23_Marathas-Shivaji-Aurangzeb-Deccan-Jagirdari-Crisis_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\23_Marathas-Shivaji-Aurangzeb-Deccan-Jagirdari-Crisis_Complete-Learning-Session_2026-08-19.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\23_Marathas-Shivaji-Aurangzeb-Deccan-Jagirdari-Crisis_Premium-Solved-PYQ-Workbook_2026-08-19.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 26 — Scheduled and Tribal Areas",
+      "main_pdf": "notes\\Polity\\26_Scheduled-and-Tribal-Areas_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Polity\\26_Scheduled-and-Tribal-Areas_Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\26_Scheduled-and-Tribal-Areas_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 18 — Thar Desert and GIB",
+      "main_pdf": "notes\\Geography\\18_Thar-Desert-and-GIB_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Geography\\18_Thar-Desert-and-GIB_Solved-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\18_Thar-Desert-and-GIB_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 24 — Mughal Society, Economy & Culture",
+      "main_pdf": "notes\\Medieval-Indian-History\\24_Mughal-Society-Economy-Culture_Complete-Learning-Session_2026-08-19.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\24_Mughal-Society-Economy-Culture_Premium-Solved-PYQ-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\24_Mughal-Society-Economy-Culture_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\24_Mughal-Society-Economy-Culture_Complete-Learning-Session_2026-08-19.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\24_Mughal-Society-Economy-Culture_Premium-Solved-PYQ-Workbook_2026-08-19.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 27 — Election Commission",
+      "main_pdf": "notes\\Polity\\27_Election-Commission_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Polity\\27_Election-Commission_Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\27_Election-Commission_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 19 — India Himalayan Fruit Belt",
+      "main_pdf": "notes\\Geography\\19_India-Himalayan-Fruit-Belt_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Geography\\19_India-Himalayan-Fruit-Belt_Solved-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\19_India-Himalayan-Fruit-Belt_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 28 — UPSC and SPSC",
+      "main_pdf": "notes\\Polity\\28_UPSC-and-SPSC_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Polity\\28_UPSC-and-SPSC_Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\28_UPSC-and-SPSC_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 20 — India Wheat Granary",
+      "main_pdf": "notes\\Geography\\20_India-Wheat-Granary_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Geography\\20_India-Wheat-Granary_Solved-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\20_India-Wheat-Granary_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 21 — India Humid Subtropical NE",
+      "main_pdf": "notes\\Geography\\21_India-Humid-Subtropical-NE_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Geography\\21_India-Humid-Subtropical-NE_Solved-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\21_India-Humid-Subtropical-NE_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 22 — India Himalayan Temperate Forests",
+      "main_pdf": "notes\\Geography\\22_India-Himalayan-Temperate-Forests_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Geography\\22_India-Himalayan-Temperate-Forests_Solved-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\22_India-Himalayan-Temperate-Forests_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 29 — Finance Commission",
+      "main_pdf": "notes\\Polity\\29_Finance-Commission_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Polity\\29_Finance-Commission_Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\29_Finance-Commission_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 30 — GST Council",
+      "main_pdf": "notes\\Polity\\30_GST-Council_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Polity\\30_GST-Council_Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\30_GST-Council_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 31 — National Commissions SC ST BC",
+      "main_pdf": "notes\\Polity\\31_National-Commissions-SC-ST-BC_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Polity\\31_National-Commissions-SC-ST-BC_Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\31_National-Commissions-SC-ST-BC_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 32 — CAG",
+      "main_pdf": "notes\\Polity\\32_CAG_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Polity\\32_CAG_Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\32_CAG_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Polity 33 — Attorney General and Advocate General",
+      "main_pdf": "notes\\Polity\\33_Attorney-General-and-Advocate-General_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Polity\\33_Attorney-General-and-Advocate-General_Solved-Practice-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\33_Attorney-General-and-Advocate-General_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 23 — India Subalpine Alpine Belt",
+      "main_pdf": "notes\\Geography\\23_India-Subalpine-Alpine-Belt_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Geography\\23_India-Subalpine-Alpine-Belt_Solved-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\23_India-Subalpine-Alpine-Belt_Complete-Topic-Package.md",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Medieval History 25 — Decline of the Mughal Empire & the Eighteenth Century",
+      "main_pdf": "notes\\Medieval-Indian-History\\25_Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century_Complete-Learning-Session_2026-08-19.pdf",
+      "workbook": "notes\\Medieval-Indian-History\\25_Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century_Premium-Solved-PYQ-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\25_Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century_Complete-Topic-Package.md",
+      "learning_session_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\25_Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century_Complete-Learning-Session_2026-08-19.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\25_Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century_Premium-Solved-PYQ-Workbook_2026-08-19.md",
+      "asset_folder": "notes\\Medieval-Indian-History\\assets\\25_Decline-of-the-Mughal-Empire-and-the-Eighteenth-Century",
+      "approved": false
+    },
+    {
+      "command": "Export PDF for Geography 24 — India Eastern Himalaya Temperate",
+      "main_pdf": "notes\\Geography\\24_India-Eastern-Himalaya-Temperate_Complete-Topic-Package_2026-08-19.pdf",
+      "workbook": "notes\\Geography\\24_India-Eastern-Himalaya-Temperate_Solved-Workbook_2026-08-19.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\24_India-Eastern-Himalaya-Temperate_Complete-Topic-Package.md",
       "approved": false
     }
   ]

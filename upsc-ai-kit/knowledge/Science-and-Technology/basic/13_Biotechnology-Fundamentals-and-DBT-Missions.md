@@ -150,6 +150,35 @@ Products -> seeds, diagnostics, vaccines, enzymes, biofuels, bioremediation tool
 - ✅ `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` — genetic manipulation, GM crops and genome editing.
 - ✅ `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md` — vaccines, antibodies and biopharma applications.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — growing AI-biology interfaces in diagnostics and biotech design.
+## Core answer architecture — biotechnology platform, translation and energy linkage
+
+**Thesis choice.** Biotechnology is a platform from gene/cell/microbe to regulated product; policy success is demonstrated by safe scale-up and adoption, not by research calls or laboratory proof alone.
+
+**10-mark spine.** Identify the biological mechanism; show the lab-to-product chain; name DBT/BIRAC and the relevant regulatory boundary; give an Indian use and one scale/safety qualification.
+
+**15/20-mark spine.** Use **mechanism → platform applications in agriculture/health/industry/environment → research-to-pilot-to-manufacture architecture → regulation/equity/biocontainment → reasoned deployment verdict**. For 2047 energy questions, make the biotechnology contribution a bounded complement to clean-energy systems.
+
+**Evidence units.**
+- **Claim:** molecular knowledge becomes a product only after process engineering → **rDNA/PCR/cell culture and fermentation/bioreactors** → connects a biological mechanism to diagnostics, insulin, enzymes, vaccines or bio-based products → **qualification:** in-vitro success can fail in organisms, pilot scale or manufacturing quality control.
+- **Claim:** institutions divide translation from regulation → **DBT designs missions, BIRAC funds/incubates translation, CDSCO approves drugs/vaccines and GEAC handles GMO environmental-release appraisal** → role clarity prevents “one biotech regulator” errors → **qualification:** research funding, product approval and marketed uptake are separate milestones.
+- **Claim:** BioE3 can support energy and material resilience through biomanufacturing → **BioE3’s bio-based chemicals/enzymes, biofuels-related bioprocessing and carbon-use themes** → biology can lower fossil input dependence and create circular products → **qualification:** proposal calls are inputs, while feedstock sustainability, scale, lifecycle emissions and affordability determine real energy independence.
+
+**Verdict.** Biotechnology should complement—not substitute for—renewables, efficiency, storage and environmental safeguards in a credible 2047 energy pathway.
+
+## Routed PYQ evidence — genomics, ecology and detection
+
+- **Genetic medicine:** therapies may compensate for or alter a disease-relevant genetic sequence in selected cells; engineered viral vectors and lipid nanoparticles can be delivery carriers. They do **not** rewrite an entire person’s DNA sequence, and somatic treatment is not heritable germline editing.
+- **GenomeIndia:** a population reference dataset can support variant interpretation, rare-disease and pharmacogenomic research. A genome sequence is sensitive personal data; research value does not erase consent, equity, data-security or clinical-validation requirements.
+- **DNA barcoding:** a short, standard DNA marker is used to help identify species/biological material; it is not automatically a full-genome diagnosis or proof of origin without reference databases and controls.
+- **Biofilters/aquaculture:** attached microbial communities can convert/remove nitrogenous waste in recirculating systems; their effectiveness depends on oxygen, flow, temperature and maintenance, not merely adding a filter.
+- **Wolbachia/aerial metagenomics:** Wolbachia-based mosquito programmes alter vector/pathogen dynamics rather than acting as a conventional insecticide; DNA sampled from air can reveal biological material but does not by itself prove an organism is alive, abundant or disease-causing.
+
+## Historical Mains Core routes — biotechnology, biopharma and bioenergy
+
+- **Biopharma/activity (2018/2021):** biotechnology combines rDNA, diagnostics, cell culture, fermentation and bioprocessing; DBT/BIRAC translate this into products and firms. **Qualification:** scientific talent or a proposal call is not a marketed, safe, affordable biopharmaceutical product.
+- **Farmer living standards (2019):** tissue culture, diagnostics, biofertilisers/biopesticides and climate-resilient traits can address specific crop constraints. **Qualification:** farmer benefit depends on locally validated performance, price, extension, seed choice and biosafety—not the word “biotech.”
+- **Fuel shortage (2023):** microbes can support anaerobic digestion to biogas, fermentation-based biofuels and enzyme/bioprocess pathways that convert biomass or waste. **Qualification:** feedstock competition, water/land use, collection logistics, lifecycle emissions and scale determine whether a route improves energy security.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

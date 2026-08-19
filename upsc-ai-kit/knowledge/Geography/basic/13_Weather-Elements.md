@@ -175,6 +175,266 @@ always quote the current IMD criterion and bulletin date.
 
 Geography → Climatology → Atmospheric Circulation  
 Geography → Climatology → Pressure & Winds + local winds (Loo)
+
+## 9. Cyclones, cloudbursts and tornadoes: the severe-weather family
+
+> **Why this section exists:** the official syllabus names *cyclone* among the geophysical phenomena
+> to be covered, and this file is the routed owner for demands on **sea-surface temperature and
+> tropical-cyclone formation**, **cloudbursts** and **twisters and their concentration around the
+> Gulf of Mexico**. The file previously carried those items in its PYQ tables with **no teaching
+> content behind any of them**. The three systems are taught here together because the shared
+> question is: what supplies the energy, and what organises it?
+
+### 9.1 Tropical cyclones: energy source, genesis conditions, structure
+
+⚠️ A tropical cyclone is a warm-core, low-pressure vortex that converts **latent heat released by
+condensation over a warm ocean** into rotational kinetic energy. The ocean is the fuel tank; the
+storm is a heat engine. Everything else follows from that.
+
+| Genesis condition | Why it is required |
+|---|---|
+| ⚠️ Sea-surface temperature above roughly 26-27 degrees C, **through a sufficient depth** of the upper ocean | Supplies the evaporation and hence the latent heat; depth matters because the storm's own winds mix cooler water upward and would otherwise shut off its fuel |
+| ⚠️ Latitude beyond about 5 degrees from the equator | The Coriolis effect is effectively zero at the equator, so a converging low cannot acquire rotation — **which is why no tropical cyclone forms on the equator itself** |
+| ⚠️ Low vertical wind shear | Strong shear tilts and ventilates the developing warm core, tearing the system apart before it can organise |
+| ⚠️ A pre-existing disturbance | Genesis requires an initial convergence centre; storms do not form from an undisturbed atmosphere |
+| ⚠️ Deep, moist mid-troposphere | Dry air entrained at mid-levels kills convection through downdrafts |
+| ⚠️ Upper-level divergence | Air must be evacuated aloft, or the surface pressure cannot continue to fall |
+
+```text
+STRUCTURE (vertical section)
+
+   <----------------- outflow aloft ----------------->
+        cirrus canopy spreading outward
+   ________/                                \________
+  |  spiral   |   EYE WALL   | EYE |  EYE WALL |  spiral |
+  |   bands   |  tallest     |calm |  tallest  |  bands  |
+  |           |  cloud,      |sub- |  cloud,   |         |
+  |           |  strongest   |side |  strongest|         |
+  |           |  wind & rain |-nce |  wind&rain|         |
+  =======  WARM OCEAN SURFACE: evaporation feeds the inflow  =======
+   ----> low-level convergent inflow spiralling inward ---->
+```
+
+- ⚠️ **The eye is calm and clear because air subsides in it**, warming adiabatically — the same
+  subsidence logic as an anticyclone, operating inside a storm. The **eyewall** carries the
+  strongest winds and heaviest rain.
+- ⚠️ **Why a cyclone weakens at landfall:** the moisture and heat supply is cut off, and surface
+  friction over land disrupts the inflow. This is also why a storm re-intensifies if it crosses back
+  over warm water.
+- ⚠️ **Where the damage actually comes from:** **storm surge** (wind-driven water piled against the
+  coast, worst where the shelf is shallow and the coast funnel-shaped), extreme rainfall and inland
+  flooding, and wind. Surge and inland flooding, not wind alone, cause most fatalities.
+
+#### Why sea-surface temperature matters more than it appears
+
+| Link | Mechanism |
+|---|---|
+| ⚠️ Warmer sea -> more evaporation | More latent heat available; a higher potential intensity ceiling |
+| ⚠️ Warmer sea -> deeper warm layer | Storm-induced mixing brings up water that is still warm, so the fuel supply is not self-limiting |
+| ⚠️ Warmer sea -> higher moisture content in the inflow | Heavier rainfall rates for a storm of the same wind speed |
+| ⚠️ Warmer sea -> expansion of the region meeting the temperature threshold | Genesis becomes possible in seasons and basins where it was previously marginal |
+
+> ⚠️ **Factual caution:** a warmer ocean raises the *potential ceiling* of intensity and the
+> rainfall rate. It does **not** straightforwardly increase the *number* of storms, because genesis
+> also requires low shear and a suitable disturbance, and those may change in the opposite
+> direction. Write the mechanism precisely and avoid quoting frequency trends, named-storm data or
+> intensity statistics from memory.
+
+#### The Bay of Bengal and the Arabian Sea
+
+| Factor | Bay of Bengal | Arabian Sea |
+|---|---|---|
+| ⚠️ Sea-surface temperature and stratification | Very warm; large freshwater discharge from the Ganga-Brahmaputra and Irrawaddy systems creates a fresh, buoyant surface layer that resists mixing and keeps the surface warm | Warm, but historically with more mixing and cooler upwelled water in places |
+| ⚠️ Coastal configuration | Shallow, funnel-shaped head; a converging coastline concentrates surge into a rising, narrowing basin | Broader, less funnel-shaped approaches |
+| ⚠️ Exposure | Extremely dense, low-lying deltaic population on the storm-facing coast | Lower population density on much of the exposed coast |
+| ⚠️ Net effect | Historically the more cyclone-prone basin **and** by far the more lethal, because surge, shallow bathymetry and deltaic settlement coincide | Fewer but not negligible systems; western-coast exposure is significant |
+
+> 🔑 **Trap:** the Bay of Bengal's higher death toll is **not** explained by storm frequency alone.
+> It is the product of bathymetry, coastal shape, deltaic elevation and population density acting
+> together — that is, of **exposure and vulnerability**, not just hazard. This distinction is the
+> single most valuable sentence available on Indian cyclone geography.
+
+> 🔑 **Trap:** the same system is called a **cyclone** in the Indian Ocean, a **hurricane** in the
+> Atlantic and eastern Pacific and a **typhoon** in the western Pacific. These are regional names,
+> not different phenomena. A **tropical** cyclone is warm-cored and thermally driven; a
+> **temperate/extra-tropical** cyclone is cold-cored and driven by the temperature contrast across
+> a front — do not merge the two.
+
+### 9.2 Cloudbursts
+
+- ✅ **IMD's operational criterion:** a cloudburst is recorded when rainfall of about **100 mm or
+  more falls in one hour** over a small area. It is defined by **rate and spatial concentration**,
+  not by total volume.
+- ⚠️ **Mechanism:** a deep, moisture-laden convective column develops in which strong updrafts
+  suspend a very large water load aloft; when the updraft can no longer support it — or when
+  additional moisture is force-lifted into the same cell — the accumulated water is released almost
+  at once over a very small area.
+- ⚠️ **Why Himalayan valleys are the classic setting:** monsoon moisture is forced abruptly upward by
+  steep relief (orographic lifting added to convective instability); the valleys are narrow, steep
+  and short, so runoff concentrates within minutes; the slopes carry abundant loose debris, so the
+  water becomes a **debris flow** rather than clear-water flood; and settlement, roads and
+  infrastructure occupy the valley floor and the fan surfaces — precisely the deposition zone.
+- ⚠️ **Why they are so hard to forecast:** the cells are small, short-lived and develop rapidly, so
+  they sit at the limit of what conventional observation networks and model grids resolve. Dense
+  radar and automatic weather-station coverage in mountainous terrain, plus nowcasting, is the
+  practicable response — together with **land-use control on valley floors and fans**, which is the
+  part that geography, not meteorology, has to supply.
+
+> 🔑 **Trap:** a cloudburst is not simply "very heavy rain". The defining features are the
+> **intensity-in-one-hour criterion** and the **very small affected area** — which is why a
+> cloudburst can devastate one valley while the district total looks unremarkable.
+
+### 9.3 Tornadoes: the twister family and why the Gulf of Mexico region concentrates them
+
+⚠️ A tornado is a violently rotating column of air extending from the base of a convective cloud to
+the ground. It is much smaller, much shorter-lived and much more intense in wind speed than a
+tropical cyclone, and it is a **land-based, mid-latitude, severe-thunderstorm** product rather than
+a warm-ocean phenomenon.
+
+| Ingredient | Role |
+|---|---|
+| ⚠️ Warm, very moist low-level air | Supplies buoyancy and latent heat — supplied by the **Gulf of Mexico**, a warm sea open directly to the continental interior |
+| ⚠️ Cool, dry air aloft or intruding | Creates steep instability and, where it meets the moist air at the surface, a sharp moisture boundary — the **dryline** |
+| ⚠️ A capping stable layer | Prevents premature convection so that instability accumulates and is released explosively |
+| ⚠️ Strong vertical wind shear, with directional change | Generates horizontal rotation, which is tilted vertically in the updraft to create a rotating storm — the **supercell** and its **mesocyclone** |
+| ⚠️ A lifting trigger | A front, dryline or terrain feature that finally breaks the cap |
+
+- ⚠️ **Why the central United States above all:** the Gulf of Mexico delivers warm moist air
+  northward across an open plain; the Rocky Mountains deliver dry air, and act as an elevated heat
+  source and a source of lee troughing, over the top of it; cold air is free to sweep south from
+  Canada because **no east-west mountain barrier crosses the continent**; and the mid-latitude jet
+  stream supplies the vertical shear. Nowhere else combines a warm tropical sea, a great meridional
+  plain, an adjacent high plateau and a strong jet in exactly this configuration.
+- ⚠️ **The comparative point:** the reason this is a geography question rather than a meteorology
+  question is that the **continental configuration** — a north-south open corridor between a warm
+  sea and a cold continental interior, flanked by mountains — is what makes the ingredients meet.
+  Asia's east-west Himalayan barrier blocks the equivalent cold-air surge; Europe's seas and ranges
+  are differently arranged.
+- ⚠️ **India does experience tornadoes**, most often in the eastern and north-eastern belt in the
+  pre-monsoon season, associated with severe thunderstorms of the same family as the
+  **Nor'wester/Kalbaisakhi**; they are far less frequent and generally less intense than in the
+  American plains because the ingredient combination is less favourable and shorter-lived.
+
+> 🔑 **Trap:** a tornado, a tropical cyclone and a dust devil are three different things. The
+> discriminators are **scale** (hundreds of metres versus hundreds of kilometres), **energy source**
+> (thunderstorm updraft versus warm ocean versus local surface heating) and **duration** (minutes
+> versus days). Also note that a **waterspout** is a tornado over water — not a small cyclone.
+
+> ⚠️ **Factual caution:** do not quote tornado wind speeds, an intensity-scale rating, an annual
+> tornado count or a named outbreak's toll from memory.
+
+## 10. Upper-air waves and blocking: why weather gets stuck
+
+> **Promoted into Core (13 Aug 2026):** upper-air planetary-wave dynamics is a **general**
+> atmospheric mechanism, and it is the standard explanation for persistent extreme weather. The
+> Indian jet-stream and western-disturbance application remains in
+> `advanced/13_India-JetStream-Western-Disturbances.md`.
+
+- ⚠️ **Jet streams** are narrow bands of very fast upper-tropospheric wind, formed where the
+  horizontal temperature contrast between air masses is steepest. The steeper the contrast, the
+  stronger the jet.
+- ⚠️ **Rossby waves** are the large-scale north-south meanders of that westerly flow. They arise
+  because the **Coriolis effect varies with latitude**, so a parcel displaced poleward or
+  equatorward is turned back, and the flow oscillates. Continental relief and land-sea heating
+  contrasts anchor the wave pattern in preferred positions.
+
+```text
+LOW-AMPLITUDE (zonal) FLOW          HIGH-AMPLITUDE (meridional) FLOW
+  ~~~~~~~~~~~~~~~~~~~~~~              /\      /\      /  fast, straight west-to-east        /  \    /  \    /    weather systems move through      /    \  /    \  /      quickly; no extreme persists     /      \/      \/      
+  -> changeable, moderate weather   -> deep ridges and troughs; systems move
+                                       slowly or stall; heat under a ridge and
+                                       cold under a trough PERSIST for days
+                                       -> this persistence is what turns weather
+                                          into a heatwave, cold wave, drought
+                                          or prolonged flood episode
+```
+
+- ⚠️ **Blocking** occurs when a large, slow or stationary high-pressure system interrupts the
+  westerly flow and diverts travelling systems around it. Beneath the block, subsidence gives clear
+  skies and accumulating heat in summer, or trapped cold and fog in winter; on its flanks, storms
+  are steered repeatedly over the same area, producing prolonged rain and flooding.
+- ⚠️ **The transferable point:** most damaging weather extremes are extremes of **duration**, not of
+  instantaneous intensity — and duration is governed by the upper-air wave pattern. This single
+  idea connects heatwaves, cold waves, stalled monsoon breaks, persistent floods and blocked
+  western disturbances to one mechanism, and it is why the "heat dome" described in the
+  current-link section above is a circulation phenomenon rather than a surface one.
+
+> ⚠️ **Factual caution:** do not quote jet-stream speeds, wave numbers, blocking-event durations or
+> a claimed trend in waviness from memory; the last in particular is an active research question.
+
+## 11. Answer architecture (10/15/20-mark support)
+
+### 11.1 Directive decoding for this topic
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "How does sea-surface temperature rise affect tropical cyclone formation?" | The heat-engine mechanism, the depth-of-warm-layer point, and the **intensity-versus-frequency distinction** | Claim warming simply means more cyclones |
+| "Explain the phenomenon of cloudbursts" | The intensity criterion, the convective-plus-orographic mechanism, the runoff concentration, and the forecasting limit | Describe it as heavy monsoon rain |
+| "Explain twisters and their concentration around the Gulf of Mexico" | The five ingredients and, decisively, the **continental configuration** that assembles them | List tornado damage |
+| "Distinguish tropical from temperate cyclones" | Warm core versus cold core; latent-heat versus frontal-contrast energy; ocean versus front; structure and track | Treat them as size variants |
+| "Account for the global pattern of pressure belts and winds" | Differential heating -> pressure gradient -> Coriolis deflection -> the three-cell arrangement, with the seasonal migration and its continental distortion | Recite belts without the causal chain |
+
+### 11.2 Reusable 10-mark spine — SST rise and tropical-cyclone formation
+
+1. **Thesis:** a tropical cyclone is a heat engine fed by ocean evaporation, so a warmer ocean
+   raises the **energy ceiling and rainfall potential** of the storms that do form — while the
+   number that form depends on conditions that warming does not improve.
+2. **Mechanism:** evaporation -> latent-heat release in the eyewall -> pressure fall -> stronger
+   inflow -> more evaporation, and the depth-of-warm-layer point that prevents self-limitation.
+3. **The other necessary conditions:** Coriolis beyond about 5 degrees, low shear, a seed
+   disturbance, moist mid-levels, upper-level divergence — and the observation that shear in
+   particular may not become more favourable.
+4. **Consequence for India:** intensification closer to the coast leaves less warning time; a higher
+   rainfall rate for a given storm; surge riding on a higher mean sea level; and a longer or shifted
+   season in marginal basins.
+5. **Balance:** the vulnerability half — the Bay of Bengal's lethality comes from shallow
+   bathymetry, funnel-shaped coast and deltaic population density, and India's improved warning and
+   evacuation systems have reduced mortality even as exposure of assets has grown.
+6. **Conclusion:** graded — the defensible statement is that warming shifts the distribution toward
+   more intense and wetter storms, not that it multiplies them.
+
+### 11.3 Reusable 15-mark spine — "twisters and the Gulf of Mexico"
+
+1. **Thesis:** tornado concentration is a **geographical** outcome — a specific continental
+   configuration that repeatedly assembles the ingredients of rotating deep convection in one place.
+2. **The ingredients:** moisture, instability, capping, shear, trigger.
+3. **The configuration:** warm Gulf sea open to the interior; a great meridional plain; the Rockies
+   supplying dry, elevated air and lee troughing; unobstructed polar-air incursion for want of an
+   east-west barrier; a strong mid-latitude jet overhead.
+4. **Structural chain:** shear -> horizontal vorticity -> tilting in the updraft -> mesocyclone ->
+   supercell -> tornado.
+5. **Comparative test — the part that proves the argument:** apply the same checklist to South Asia
+   and explain why the Himalaya's east-west barrier and the region's different circulation give
+   occasional pre-monsoon tornadoes but not a comparable belt.
+6. **Consequence and response:** warning lead time, storm-shelter design and building codes rather
+   than avoidance, because the affected area of any single event is small but unpredictable.
+7. **Conclusion:** graded — the phenomenon is meteorological, but its **spatial concentration** is
+   explained by continental geometry, which is why it is a legitimate geography question.
+
+### 11.4 Evidence units available in this file
+
+> **Claim:** the same physical process yields opposite human outcomes depending on exposure.
+> **Evidence:** the Bay of Bengal's shallow, funnel-shaped head and dense deltaic settlement convert
+> a given storm surge into far greater loss than the same storm would cause on a steep, sparsely
+> settled coast. **Significance:** it establishes hazard, exposure and vulnerability as separable
+> terms, which is the core analytical move in every disaster answer. **Limitation:** improvements in
+> forecasting, cyclone shelters and evacuation have reduced mortality substantially even where
+> physical exposure is unchanged, so vulnerability is not fixed.
+
+> **Claim:** atmospheric subsidence explains both deserts and heatwaves — one permanent, one
+> episodic. **Evidence:** the descending limb of the subtropical high creates the great trade-wind
+> deserts, while a persistent anticyclonic ridge produces the adiabatic warming, cloud suppression
+> and trapped heat of a heat-dome episode. **Significance:** it lets one mechanism be transferred
+> across two apparently unrelated questions. **Limitation:** not every heatwave has the same
+> circulation cause, and heatwave criteria are terrain-specific and agency-defined.
+
+> **Claim:** relief converts an ordinary rainfall mechanism into a disaster. **Evidence:** in
+> Himalayan valleys, orographic lifting superimposed on convective instability produces cloudbursts
+> whose runoff concentrates within minutes down short, steep, debris-laden catchments onto occupied
+> valley floors and fans. **Significance:** it identifies the actionable variable as **land use on
+> the deposition surface**, not as rainfall. **Limitation:** the cells are too small and short-lived
+> for reliable deterministic forecasting, so warning alone cannot substitute for siting control.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

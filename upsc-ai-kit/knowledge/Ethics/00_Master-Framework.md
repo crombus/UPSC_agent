@@ -44,6 +44,15 @@ codes, RTI, PC Act — see `09`, `15`, `16`, `19`).
 | Anti-corruption and protection | What is the legal-institutional response to failure, and how is the honest official shielded? | 19-21 |
 | Application | How is all of this converted into a scored Mains answer? | 22-23 |
 
+> **Section-B (case studies):** `22` is the controlling, independently answer-complete owner of the
+> **eight-element architecture** — facts, stakeholders, constraints, 3+ options, ethical evaluation
+> (hard-threshold vs weighted checks), decision (with a steelmanned counter-argument), implementation/
+> communication, and a residual-risk close — with named domain links for POSH (Internal Committee/IC),
+> GFR procurement propriety (goods-specific Rule 157 vs the broader works/services-splitting
+> analogy), cross-border/non-refoulement cases (an interim Supreme Court order vs a final judgment),
+> and custodial justice (D.K. Basu safeguards). `advanced/22` adds optional deeper theoretical/legal
+> nuance only — skipping it does not reduce the attainable Section-B outcome.
+
 ## 3. The ARC's central diagnostic (dated 2007, still the exam's reasoning spine)
 
 - ✅ ARC 1.4: two contrary approaches to corruption — an "overemphasis on values and character"
@@ -74,6 +83,8 @@ codes, RTI, PC Act — see `09`, `15`, `16`, `19`).
 | Ethical dilemma vs legal violation | Dilemma = conflict between two legitimate duties/values; violation = breach of a settled rule/law | 09, 22 |
 | Empathy vs sympathy vs compassion | Empathy = accurately grasping another's state from *their* frame; sympathy = feeling *for* them from outside; compassion = empathy plus a motivated commitment to relieve the suffering | 04, 05 |
 | Attitude vs value vs aptitude | Attitude = evaluative stance toward a *specific* object; value = general, cross-situational standard; aptitude = capacity/disposition to perform the role well | 03, 04 |
+| Moral vs political attitude | Moral = evaluative stance on right/wrong, retained and actively exercised in office; political = stance toward a party/ideology/contest for power, bracketed under the Conduct Rules' non-partisanship obligation — policy awareness/implementation is not itself partisanship | 03, 04, 09 |
+| Anthropocentric vs biocentric vs ecocentric | Anthropocentric = nature valued instrumentally for human benefit; biocentric = all living organisms have inherent worth; ecocentric = value attaches to the ecosystem/whole, not individual organisms | 13 |
 | Conflict of interest vs corruption | Conflict of interest is a *situation* (a private interest that could compromise duty) and is not itself wrongdoing — failure to disclose/recuse is; corruption requires an actual abuse of office, in the PC Act sense an undue advantage | 09, 14, 19 |
 | Means vs end; motive vs intention vs consequence | Gandhi/Kant judge the means and the maxim; utilitarians judge the end/consequence. Motive = *why* the agent wanted the act; intention = *what* the agent chose to bring about; consequence = what actually followed (and may diverge from both — see "moral luck") | 06, 07, 08 |
 | Coercive vs collusive bribery | Coercive = citizen-victim under extortion; collusive = both parties gain, public/state loses | 19 |

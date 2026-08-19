@@ -5,14 +5,14 @@
 ## 1. Reconciliation
 
 - **Unique printed questions integrated:** 1560
-- **Question-to-owner assignments written:** 2247
-- **Owner files updated:** 419
-- **Basic/advanced owner files audited:** 914
-- **Owners without a 2018-2023 route:** 495
+- **Question-to-owner assignments written:** 2248
+- **Owner files updated:** 374
+- **Basic/advanced owner files audited:** 927
+- **Owners without a 2018-2023 route:** 553
 - **Missing route targets:** 0
 - **Questions carrying manual-verification warnings:** 0
 - **Warning-bearing route assignments:** 0
-- **Priority lexical-review assignments:** 504
+- **Priority lexical-review assignments:** 391
 
 ### Unique questions by paper
 
@@ -30,25 +30,27 @@
 
 | Subject | Unique questions | Route assignments | Files updated | Basic/advanced topic files | No 2018-2023 route | Low lexical signal | Source verification |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Ancient-Indian-History | 37 | 41 | 20 | 54 | 34 | 11 | 0 |
+| Ancient-Indian-History | 37 | 41 | 20 | 54 | 34 | 6 | 0 |
 | CSAT | 480 | 960 | 12 | 16 | 4 | 278 | 0 |
 | Disaster-Management | 14 | 14 | 8 | 36 | 28 | 2 | 0 |
-| Economy | 191 | 198 | 52 | 62 | 10 | 31 | 0 |
-| Environment-and-Ecology | 126 | 127 | 37 | 56 | 19 | 25 | 0 |
+| Economy | 191 | 198 | 31 | 62 | 31 | 0 | 0 |
+| Environment-and-Ecology | 126 | 127 | 24 | 56 | 32 | 18 | 0 |
 | Essay | 48 | 96 | 7 | 32 | 25 | 0 | 0 |
-| Ethics | 73 | 140 | 21 | 46 | 25 | 12 | 0 |
-| Geography | 92 | 93 | 33 | 74 | 41 | 20 | 0 |
+| Ethics | 73 | 140 | 21 | 46 | 25 | 2 | 0 |
+| Geography | 92 | 93 | 33 | 74 | 41 | 15 | 0 |
 | Governance | 34 | 35 | 17 | 32 | 15 | 4 | 0 |
-| Indian-Art-and-Culture | 22 | 22 | 13 | 30 | 17 | 5 | 0 |
-| Indian-Society | 37 | 37 | 15 | 30 | 15 | 14 | 0 |
+| Indian-Art-and-Culture | 22 | 22 | 13 | 30 | 17 | 3 | 0 |
+| Indian-Society | 37 | 37 | 15 | 30 | 15 | 11 | 0 |
 | Internal-Security | 27 | 27 | 14 | 24 | 10 | 5 | 0 |
-| International-Relations | 55 | 55 | 18 | 24 | 6 | 11 | 0 |
-| Medieval-Indian-History | 20 | 20 | 11 | 50 | 39 | 8 | 0 |
-| Modern-Indian-History | 67 | 69 | 34 | 76 | 42 | 19 | 0 |
+| International-Relations | 55 | 56 | 11 | 24 | 13 | 5 | 0 |
+| Medieval-Indian-History | 20 | 20 | 11 | 50 | 39 | 4 | 0 |
+| Modern-Indian-History | 67 | 69 | 34 | 76 | 42 | 3 | 0 |
 | Political-Theory | 0 | 0 | 0 | 46 | 46 | 0 | 0 |
-| Polity | 148 | 167 | 53 | 98 | 45 | 32 | 0 |
+| Polity | 148 | 167 | 53 | 98 | 45 | 11 | 0 |
+| Qualifying-English | 0 | 0 | 0 | 7 | 7 | 0 | 0 |
+| Qualifying-Hindi | 0 | 0 | 0 | 6 | 6 | 0 | 0 |
 | Science-and-Technology | 95 | 110 | 36 | 52 | 16 | 23 | 0 |
-| Social-Justice | 31 | 32 | 14 | 34 | 20 | 3 | 0 |
+| Social-Justice | 31 | 32 | 10 | 34 | 24 | 0 | 0 |
 | World-History | 3 | 4 | 4 | 42 | 38 | 1 | 0 |
 
 ## 3. How to read what remains
@@ -103,13 +105,8 @@
 **Priority content-review signals:**
 
 - `Ancient-Indian-History/basic/04_Stone-Age-Palaeolithic-Mesolithic.md` - 2019 Prelims GS-I Q92: Denisovan ancient human species scientific reference (1/6 tokens)
-- `Ancient-Indian-History/basic/10_Jainism-and-Buddhism.md` - 2018 Prelims GS-I Q71: Sthanakvasi sect and its religious affiliation (1/4 tokens)
-- `Ancient-Indian-History/basic/10_Jainism-and-Buddhism.md` - 2020 Prelims GS-I Q71: Cultural terms Parivrajaka Shramana Upasaka ancient India (1/6 tokens)
-- `Ancient-Indian-History/basic/10_Jainism-and-Buddhism.md` - 2022 Prelims GS-I Q55: Jaina canonical texts identification from ancient literature (1/6 tokens)
-- `Ancient-Indian-History/basic/10_Jainism-and-Buddhism.md` - 2023 Prelims GS-I Q41: Dhanyakataka Buddhist centre Mahasanghikas regional location (0/6 tokens)
 - `Ancient-Indian-History/basic/10_Jainism-and-Buddhism.md` - 2023 Prelims GS-I Q47: Jainism belief souls in rocks water natural objects (1/7 tokens)
 - `Ancient-Indian-History/basic/14_Mauryan-Empire.md` - 2020 Prelims GS-I Q30: Royal inscription on religious tolerance and self-glorification (1/5 tokens)
-- `Ancient-Indian-History/basic/19_Crafts-Commerce-Urban-Growth.md` - 2020 Prelims GS-I Q25: Hundi instrument definition in post-Harsha period sources (0/6 tokens)
 - `Ancient-Indian-History/basic/21_Life-and-Culture-in-Gupta-Age.md` - 2021 Prelims GS-I Q40: Mitakshara and Dayabhaga property inheritance systems (0/5 tokens)
 - `Ancient-Indian-History/basic/22_Post-Gupta-Harsha-and-Eastern-India.md` - 2020 Prelims GS-I Q24: Chronological order Pratihara Pallava Chola Pala dynasties (1/7 tokens)
 - `Ancient-Indian-History/basic/24_Developments-in-Philosophy.md` - 2022 Prelims GS-I Q56: Religious scholars Aryadeva Dignaga Nathamuni identity (1/6 tokens)
@@ -408,141 +405,147 @@
 
 ### Disaster-Management
 
+> **Re-evaluation override — 15 August 2026:** the original propagation
+> snapshot pre-dated the Core reroute. All 14 historical Disaster
+> Management assignments now terminate in Core: `basic/01` (2018/2019
+> Sendai/vulnerability), `basic/02` (2020 proactive management and the
+> Disaster-law component of the GS-II cross-route), `basic/05` (2021
+> earthquake), `basic/06` (2023 coastal preparedness cross-route),
+> `basic/07` (2022 colour warnings), `basic/08` (2020 urban floods,
+> 2022 cloudburst, 2023 dam failure), `basic/10` (2019/2021 landslides)
+> and `basic/13` (2020 COVID technology). Counts above are unchanged;
+> only the Core/Advanced ownership location changed.
+
 **No routed 2018-2023 question in this owner:**
 
+- `Disaster-Management/advanced/01_Concepts-Risk-Resilience-and-Sendai.md`
+- `Disaster-Management/advanced/02_Indian-Legal-and-Institutional-Architecture.md`
 - `Disaster-Management/advanced/03_Community-Based-DRR-and-Inclusive-Protection.md`
 - `Disaster-Management/advanced/04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md`
+- `Disaster-Management/advanced/05_Earthquake-Risk-and-Resilient-Construction.md`
+- `Disaster-Management/advanced/06_Tsunami-and-Coastal-Hazard-Management.md`
+- `Disaster-Management/advanced/07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md`
+- `Disaster-Management/advanced/08_Riverine-Floods-and-Urban-Flood-Resilience.md`
 - `Disaster-Management/advanced/09_Drought-Heat-Waves-and-Slow-Onset-Risk.md`
+- `Disaster-Management/advanced/10_Landslides-Avalanches-and-GLOF-Risk.md`
 - `Disaster-Management/advanced/11_Forest-Fire-Risk-Management.md`
 - `Disaster-Management/advanced/12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md`
+- `Disaster-Management/advanced/13_Epidemics-and-Public-Health-Emergencies.md`
 - `Disaster-Management/advanced/14_Urban-and-Critical-Infrastructure-Resilience.md`
 - `Disaster-Management/advanced/15_Climate-Risk-Adaptation-and-Loss-and-Damage.md`
 - `Disaster-Management/advanced/16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md`
 - `Disaster-Management/advanced/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`
 - `Disaster-Management/advanced/18_Governance-Capacity-and-International-Cooperation.md`
-- `Disaster-Management/basic/01_Concepts-Risk-Resilience-and-Sendai.md`
-- `Disaster-Management/basic/02_Indian-Legal-and-Institutional-Architecture.md`
 - `Disaster-Management/basic/03_Community-Based-DRR-and-Inclusive-Protection.md`
 - `Disaster-Management/basic/04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md`
-- `Disaster-Management/basic/05_Earthquake-Risk-and-Resilient-Construction.md`
-- `Disaster-Management/basic/06_Tsunami-and-Coastal-Hazard-Management.md`
-- `Disaster-Management/basic/07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md`
-- `Disaster-Management/basic/08_Riverine-Floods-and-Urban-Flood-Resilience.md`
 - `Disaster-Management/basic/09_Drought-Heat-Waves-and-Slow-Onset-Risk.md`
-- `Disaster-Management/basic/10_Landslides-Avalanches-and-GLOF-Risk.md`
 - `Disaster-Management/basic/11_Forest-Fire-Risk-Management.md`
 - `Disaster-Management/basic/12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md`
-- `Disaster-Management/basic/13_Epidemics-and-Public-Health-Emergencies.md`
 - `Disaster-Management/basic/14_Urban-and-Critical-Infrastructure-Resilience.md`
 - `Disaster-Management/basic/15_Climate-Risk-Adaptation-and-Loss-and-Damage.md`
 - `Disaster-Management/basic/16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md`
 - `Disaster-Management/basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`
 - `Disaster-Management/basic/18_Governance-Capacity-and-International-Cooperation.md`
 
-**Priority content-review signals:**
+**Priority content-review signals resolved in Core:**
 
-- `Disaster-Management/advanced/02_Indian-Legal-and-Institutional-Architecture.md` - 2020 GS-II Q11: Centralising tendencies and emergency legislation and the Farm Acts (0/6 tokens)
-- `Disaster-Management/advanced/08_Riverine-Floods-and-Urban-Flood-Resilience.md` - 2022 GS-III Q8: Mechanism and occurrence of cloudbursts in Indian subcontinent (1/4 tokens)
+- `Disaster-Management/basic/02_Indian-Legal-and-Institutional-Architecture.md` now owns the 2020 GS-II disaster-law contribution with a federal/status-distinction spine.
+- `Disaster-Management/basic/08_Riverine-Floods-and-Urban-Flood-Resilience.md` now owns the 2022 cloudburst mechanism, 2023 dam-safety route and 2020 urban-flood route.
 
 
 ### Economy
 
 **No routed 2018-2023 question in this owner:**
 
+- `Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md`
+- `Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md`
+- `Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md`
 - `Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md`
 - `Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md`
 - `Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md`
 - `Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md`
 - `Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md`
+- `Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`
+- `Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`
+- `Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md`
+- `Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md`
+- `Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`
+- `Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`
+- `Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md`
 - `Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md`
+- `Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md`
+- `Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md`
 - `Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md`
+- `Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`
 - `Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`
+- `Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md`
+- `Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`
+- `Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md`
 - `Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md`
+- `Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md`
+- `Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md`
+- `Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md`
+- `Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`
+- `Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md`
 - `Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md`
 
-**Priority content-review signals:**
-
-- `Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` - 2022 GS-III Q3: Challenges of PDS and improving its effectiveness and transparency (1/4 tokens)
-- `Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` - 2020 GS-III Q8: Jal Shakti Abhiyan features for water conservation and security (1/6 tokens)
-- `Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` - 2018 GS-III Q1: Energy access for Sustainable Development Goals in India (1/5 tokens)
-- `Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` - 2018 GS-III Q9: CPEC as OBOR subset and India's strategic objections (0/6 tokens)
-- `Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` - 2022 GS-III Q1: Role of PPP model in railway station redevelopment (0/5 tokens)
-- `Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` - 2018 GS-III Q12: Protectionism and currency manipulation impact on macroeconomic stability (1/6 tokens)
-- `Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` - 2022 GS-II Q16: Managing inflation and unemployment beyond welfare schemes (1/6 tokens)
-- `Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md` - 2022 GS-III Q5: Community health challenges from rising life expectancy in India (1/6 tokens)
-- `Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` - 2021 GS-I Q19: Cryptocurrency and its effect on global and Indian society (1/4 tokens)
-- `Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md` - 2021 GS-III Q11: V-shaped economic recovery of India after COVID-19 (1/4 tokens)
-- `Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md` - 2021 Prelims GS-I Q10: Most inflationary method of financing budget deficit (1/6 tokens)
-- `Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md` - 2018 Prelims GS-I Q46: Legal tender money definition and characteristics (1/5 tokens)
-- `Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md` - 2019 Prelims GS-I Q86: Government and RBI measures to prevent rupee depreciation (1/5 tokens)
-- `Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md` - 2021 Prelims GS-I Q1: RBI Governor appointment and constitutional powers (0/4 tokens)
-- `Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md` - 2022 Prelims GS-I Q68: Institution responsible for price stability and inflation control (1/6 tokens)
-- `Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md` - 2021 Prelims GS-I Q14: WaterCredit microfinance initiative water sanitation access (1/6 tokens)
-- `Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md` - 2023 Prelims GS-I Q21: Infrastructure Investment Trusts InvIT tax treatment SARFAESI (1/6 tokens)
-- `Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md` - 2018 Prelims GS-I Q8: Equalization tax on non-resident online advertising services India (1/5 tokens)
-- `Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md` - 2018 Prelims GS-I Q97: Items exempted under Goods and Services Tax India (1/4 tokens)
-- `Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` - 2020 Prelims GS-I Q63: Factors affecting rice price in India recently (1/5 tokens)
-- `Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` - 2023 Prelims GS-I Q27: Niger seed MSP cultivation season tribal communities (0/6 tokens)
-- `Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md` - 2022 Prelims GS-I Q79: Tea Board India statutory body ministry and overseas offices (1/6 tokens)
-- `Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` - 2019 Prelims GS-I Q39: Carbofuran phorate triazophos chemical use in agriculture (1/5 tokens)
-- `Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` - 2020 Prelims GS-I Q83: Zero tillage benefits for wheat paddy and carbon sequestration (1/7 tokens)
-- `Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` - 2020 Prelims GS-I Q89: Sugarcane cultivation bud chip settlings and tissue culture (1/6 tokens)
-- `Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` - 2021 Prelims GS-I Q51: Permaculture farming versus conventional chemical farming (1/4 tokens)
-- `Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` - 2021 Prelims GS-I Q59: Climate-Smart Agriculture CCAFS CGIAR ICRISAT India (1/5 tokens)
-- `Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` - 2019 Prelims GS-I Q84: Highest value agricultural commodity imported by India (1/5 tokens)
-- `Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` - 2020 Prelims GS-I Q56: TRIMS trade-related investment measures WTO provisions (1/5 tokens)
-- `Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` - 2022 Prelims GS-I Q71: Agency compiling industrial disputes data in India (1/5 tokens)
-- `Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` - 2018 Prelims GS-I Q15: Institution linking all ATMs across India (1/4 tokens)
+**Priority content-review signals:** None from this lexical check.
 
 
 ### Environment-and-Ecology
 
 **No routed 2018-2023 question in this owner:**
 
+- `Environment-and-Ecology/advanced/01_Ecosystem-Structure-and-Function.md`
 - `Environment-and-Ecology/advanced/02_Biogeochemical-Cycles-and-Ecological-Pyramids.md`
 - `Environment-and-Ecology/advanced/03_Ecological-Succession-and-Biomes.md`
 - `Environment-and-Ecology/advanced/04_Biodiversity-Levels-and-Hotspots.md`
 - `Environment-and-Ecology/advanced/05_IUCN-Red-List-and-Endemism.md`
+- `Environment-and-Ecology/advanced/06_Protected-Area-Network-India.md`
+- `Environment-and-Ecology/advanced/07_Biosphere-Reserves-and-Ramsar-Sites.md`
 - `Environment-and-Ecology/advanced/08_Wildlife-Protection-Act-and-Schedules.md`
 - `Environment-and-Ecology/advanced/09_CITES-and-Wildlife-Trade.md`
 - `Environment-and-Ecology/advanced/10_CMS-Bonn-Convention-Migratory-Species.md`
+- `Environment-and-Ecology/advanced/11_Forest-Types-and-Forest-Rights-Act.md`
 - `Environment-and-Ecology/advanced/12_Forest-Governance-CAMPA-and-Green-India-Mission.md`
+- `Environment-and-Ecology/advanced/13_Air-Pollution-and-CPCB-Standards.md`
 - `Environment-and-Ecology/advanced/14_Water-Pollution-and-River-Cleaning-Missions.md`
+- `Environment-and-Ecology/advanced/15_Solid-Plastic-and-E-Waste-Rules.md`
+- `Environment-and-Ecology/advanced/16_Environmental-Impact-Assessment-and-NGT.md`
+- `Environment-and-Ecology/advanced/17_Climate-Change-Science-Greenhouse-Effect.md`
+- `Environment-and-Ecology/advanced/18_IPCC-Assessment-Reports.md`
+- `Environment-and-Ecology/advanced/19_UNFCCC-COP-Kyoto-Paris-Agreement.md`
 - `Environment-and-Ecology/advanced/20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md`
 - `Environment-and-Ecology/advanced/21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`
+- `Environment-and-Ecology/advanced/22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md`
+- `Environment-and-Ecology/advanced/23_Desertification-UNCCD-and-Land-Degradation.md`
+- `Environment-and-Ecology/advanced/24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+- `Environment-and-Ecology/advanced/25_Renewable-Energy-and-Green-Hydrogen.md`
 - `Environment-and-Ecology/advanced/26_Disaster-Management-Framework-and-Sendai.md`
 - `Environment-and-Ecology/advanced/27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md`
 - `Environment-and-Ecology/advanced/28_Species-and-Current-Affairs-Tracker.md`
 - `Environment-and-Ecology/basic/09_CITES-and-Wildlife-Trade.md`
 - `Environment-and-Ecology/basic/10_CMS-Bonn-Convention-Migratory-Species.md`
-- `Environment-and-Ecology/basic/18_IPCC-Assessment-Reports.md`
 - `Environment-and-Ecology/basic/20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md`
 - `Environment-and-Ecology/basic/26_Disaster-Management-Framework-and-Sendai.md`
 
 **Priority content-review signals:**
 
-- `Environment-and-Ecology/advanced/07_Biosphere-Reserves-and-Ramsar-Sites.md` - 2021 GS-I Q6: Environmental implications of reclaiming water bodies for urban land use (0/7 tokens)
-- `Environment-and-Ecology/advanced/13_Air-Pollution-and-CPCB-Standards.md` - 2022 GS-III Q7: Photochemical smog formation effects and Gothenburg Protocol mitigation (1/7 tokens)
-- `Environment-and-Ecology/advanced/24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md` - 2018 GS-I Q7: Consequences of spreading marine dead zones (1/5 tokens)
 - `Environment-and-Ecology/basic/01_Ecosystem-Structure-and-Function.md` - 2019 Prelims GS-I Q28: Marine and reptile animal dietary and reproductive characteristics (1/6 tokens)
 - `Environment-and-Ecology/basic/01_Ecosystem-Structure-and-Function.md` - 2021 Prelims GS-I Q30: Organisms capable of establishing symbiotic relationships (1/5 tokens)
-- `Environment-and-Ecology/basic/01_Ecosystem-Structure-and-Function.md` - 2022 Prelims GS-I Q43: Wetland ecosystem filtering and heavy metal absorption functions (1/7 tokens)
 - `Environment-and-Ecology/basic/02_Biogeochemical-Cycles-and-Ecological-Pyramids.md` - 2022 Prelims GS-I Q48: Nitrogen-fixing plant species identification in agriculture (1/5 tokens)
 - `Environment-and-Ecology/basic/04_Biodiversity-Levels-and-Hotspots.md` - 2018 Prelims GS-I Q60: Sixth mass extinction causes and human activities impact (0/7 tokens)
 - `Environment-and-Ecology/basic/05_IUCN-Red-List-and-Endemism.md` - 2022 Prelims GS-I Q47: Species identification Golden Mahseer Nightjar Spoonbill Ibis (1/7 tokens)
 - `Environment-and-Ecology/basic/11_Forest-Types-and-Forest-Rights-Act.md` - 2022 Prelims GS-I Q50: Miyawaki method for urban mini forest creation (1/6 tokens)
 - `Environment-and-Ecology/basic/12_Forest-Governance-CAMPA-and-Green-India-Mission.md` - 2021 Prelims GS-I Q24: New York Declaration on Forests and deforestation (0/4 tokens)
 - `Environment-and-Ecology/basic/12_Forest-Governance-CAMPA-and-Green-India-Mission.md` - 2021 Prelims GS-I Q97: Hyderabad recognition as Tree City of the World (1/5 tokens)
-- `Environment-and-Ecology/basic/13_Air-Pollution-and-CPCB-Standards.md` - 2022 Prelims GS-I Q100: Atmospheric pollutants causing acid rain identification (1/6 tokens)
 - `Environment-and-Ecology/basic/15_Solid-Plastic-and-E-Waste-Rules.md` - 2020 Prelims GS-I Q76: Steel slag uses in road construction and agriculture (1/6 tokens)
 - `Environment-and-Ecology/basic/19_UNFCCC-COP-Kyoto-Paris-Agreement.md` - 2018 Prelims GS-I Q35: Global Alliance for Climate-Smart Agriculture features and membership (1/6 tokens)
 - `Environment-and-Ecology/basic/22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md` - 2023 Prelims GS-I Q20: Hydrofluorocarbons uses aerosols foam fire retardants lubricants (1/7 tokens)
 - `Environment-and-Ecology/basic/22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md` - 2023 Prelims GS-I Q59: Mercury pollution sources gold mining coal plants health (0/8 tokens)
-- `Environment-and-Ecology/basic/23_Desertification-UNCCD-and-Land-Degradation.md` - 2018 Prelims GS-I Q82: Agricultural soil organic matter sulfur cycle and salinization (1/7 tokens)
 - `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2018 Prelims GS-I Q86: Prosopis juliflora invasive plant ecological biodiversity impact (1/7 tokens)
-- `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2019 Prelims GS-I Q31: Himalayan nettle Girardinia diversifolia sustainable uses (0/6 tokens)
+- `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2019 Prelims GS-I Q31: Himalayan nettle Girardinia diversifolia sustainable uses (1/6 tokens)
 - `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2021 Prelims GS-I Q23: Animals rolling up to protect vulnerable body parts (1/6 tokens)
-- `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2021 Prelims GS-I Q63: Moringa drumstick tamarind tree properties and uses (1/6 tokens)
 - `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2023 Prelims GS-I Q15: Waggle dance communication in honeybee colonies (1/5 tokens)
 - `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2023 Prelims GS-I Q17: Indian squirrel nesting food-storage and dietary behaviour (1/5 tokens)
 - `Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md` - 2023 Prelims GS-I Q19: Orangutan tool-making behaviour stick scraping insects (1/6 tokens)
@@ -585,46 +588,36 @@
 
 **No routed 2018-2023 question in this owner:**
 
+- `Ethics/advanced/01_Ethics-and-Human-Interface.md`
+- `Ethics/advanced/02_Human-Values-and-Lessons-from-Leaders.md`
+- `Ethics/advanced/03_Attitude-Content-Structure-and-Persuasion.md`
+- `Ethics/advanced/04_Aptitude-and-Foundational-Values-for-Civil-Service.md`
+- `Ethics/advanced/05_Emotional-Intelligence-in-Administration.md`
+- `Ethics/advanced/06_Indian-Moral-Thinkers-and-Philosophers.md`
+- `Ethics/advanced/07_Western-Moral-Philosophers-and-Thinkers.md`
+- `Ethics/advanced/08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md`
+- `Ethics/advanced/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md`
+- `Ethics/advanced/10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md`
+- `Ethics/advanced/11_Accountability-and-Ethical-Governance.md`
+- `Ethics/advanced/12_Corporate-Governance-and-International-Ethics.md`
+- `Ethics/advanced/13_Emerging-Ethics-Technology-AI-and-Environment.md`
+- `Ethics/advanced/14_Probity-Concept-and-Philosophical-Basis-of-Governance.md`
+- `Ethics/advanced/15_Transparency-RTI-and-Information-Sharing.md`
+- `Ethics/advanced/16_Codes-of-Ethics-and-Codes-of-Conduct.md`
+- `Ethics/advanced/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md`
+- `Ethics/advanced/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md`
 - `Ethics/advanced/19_Corruption-Legal-Framework.md`
 - `Ethics/advanced/20_Anti-Corruption-Institutions.md`
-- `Ethics/basic/01_Ethics-and-Human-Interface.md`
-- `Ethics/basic/02_Human-Values-and-Lessons-from-Leaders.md`
-- `Ethics/basic/03_Attitude-Content-Structure-and-Persuasion.md`
-- `Ethics/basic/04_Aptitude-and-Foundational-Values-for-Civil-Service.md`
-- `Ethics/basic/05_Emotional-Intelligence-in-Administration.md`
-- `Ethics/basic/06_Indian-Moral-Thinkers-and-Philosophers.md`
-- `Ethics/basic/07_Western-Moral-Philosophers-and-Thinkers.md`
-- `Ethics/basic/08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md`
-- `Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md`
-- `Ethics/basic/10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md`
-- `Ethics/basic/11_Accountability-and-Ethical-Governance.md`
-- `Ethics/basic/12_Corporate-Governance-and-International-Ethics.md`
-- `Ethics/basic/13_Emerging-Ethics-Technology-AI-and-Environment.md`
-- `Ethics/basic/14_Probity-Concept-and-Philosophical-Basis-of-Governance.md`
-- `Ethics/basic/15_Transparency-RTI-and-Information-Sharing.md`
-- `Ethics/basic/16_Codes-of-Ethics-and-Codes-of-Conduct.md`
-- `Ethics/basic/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md`
-- `Ethics/basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md`
+- `Ethics/advanced/21_Protecting-Honest-Officials-and-Vigilance-Administration.md`
+- `Ethics/advanced/22_Case-Study-Method-and-Answer-Architecture.md`
+- `Ethics/advanced/23_Comparative-and-Named-Real-Case-Studies.md`
 - `Ethics/basic/19_Corruption-Legal-Framework.md`
 - `Ethics/basic/20_Anti-Corruption-Institutions.md`
-- `Ethics/basic/21_Protecting-Honest-Officials-and-Vigilance-Administration.md`
-- `Ethics/basic/22_Case-Study-Method-and-Answer-Architecture.md`
-- `Ethics/basic/23_Comparative-and-Named-Real-Case-Studies.md`
 
 **Priority content-review signals:**
 
-- `Ethics/advanced/01_Ethics-and-Human-Interface.md` - 2020 GS-IV Q2: (a) hatred destructive of wisdom and conscience - do you agree and justify; (b) main components of emotional intelligence and whether they can be learned (1/13 tokens)
-- `Ethics/advanced/04_Aptitude-and-Foundational-Values-for-Civil-Service.md` - 2018 GS-IV Q3: (a) conflict of interest - actual vs potential with examples; (b) Warren Buffett quote on integrity intelligence and energy for hiring (1/12 tokens)
-- `Ethics/advanced/06_Indian-Moral-Thinkers-and-Philosophers.md` - 2023 GS-IV Q3: (a) quotation on power of kindness; (b) quotation on awakening women to move the nation; (c) Swami Vivekananda on love and hatred (1/11 tokens)
-- `Ethics/advanced/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` - 2019 GS-IV Q11: Woman SP appointed in frontier narcotics district - money laundering poppy farming arms smuggling education collapse; identify dimensions and suggest measures to restore normalcy (1/19 tokens)
-- `Ethics/advanced/11_Accountability-and-Ethical-Governance.md` - 2021 GS-IV Q9: project manager of elevated corridor notices crack in pier; minister and chief engineer pressure to overlook - (a) options; (b) ethical dilemmas; (c) professional challenges; (d) consequences (1/18 tokens)
-- `Ethics/advanced/13_Emerging-Ethics-Technology-AI-and-Environment.md` - 2018 GS-IV Q10: Corporate chemical factory ordered closed after pollution protests and public agitation; closure causes unemployment in workers and ancillary units; address as senior officer (1/18 tokens)
-- `Ethics/advanced/13_Emerging-Ethics-Technology-AI-and-Environment.md` - 2020 GS-IV Q5: (a) main factors for gender inequality in India and Savitribai Phule contribution; (b) internet expansion instilling cultural values in conflict with traditional values (0/14 tokens)
-- `Ethics/advanced/21_Protecting-Honest-Officials-and-Vigilance-Administration.md` - 2021 GS-IV Q7: Sunil in tribal district combats illegal sand mining mafia and faces violence threats - (a) options available; (b) evaluate each option; (c) most appropriate course of action (1/20 tokens)
-- `Ethics/advanced/22_Case-Study-Method-and-Answer-Architecture.md` - 2019 GS-IV Q11: Woman SP appointed in frontier narcotics district - money laundering poppy farming arms smuggling education collapse; identify dimensions and suggest measures to restore normalcy (1/19 tokens)
-- `Ethics/advanced/22_Case-Study-Method-and-Answer-Architecture.md` - 2022 GS-IV Q7: Case on a marketing VP offered rival firm's defence tender documents in exchange for employment (1/10 tokens)
-- `Ethics/advanced/22_Case-Study-Method-and-Answer-Architecture.md` - 2022 GS-IV Q9: Case on a journalist exposing stone-mining mafia-official-politician nexus who faces report suppression by the media owner (1/11 tokens)
-- `Ethics/advanced/22_Case-Study-Method-and-Answer-Architecture.md` - 2022 GS-IV Q11: Case on Joint Commissioner adjudicating bus driver death compensation dispute and resolving transport workers strike (1/12 tokens)
+- `Ethics/basic/12_Corporate-Governance-and-International-Ethics.md` - 2022 GS-IV Q7: Case on a marketing VP offered rival firm's defence tender documents in exchange for employment (1/10 tokens)
+- `Ethics/basic/14_Probity-Concept-and-Philosophical-Basis-of-Governance.md` - 2018 GS-IV Q11: Dr. X charitable trust hospital - tax irregularities found on inspection; two options: broad substantial compliance ignoring technical defaults vs strict pursuit on all fronts (1/16 tokens)
 
 
 ### Geography
@@ -681,19 +674,14 @@
 - `Geography/advanced/30_Primary-Economic-Activities-Agriculture.md` - 2018 GS-I Q15: Blue revolution and pisciculture development in India (1/4 tokens)
 - `Geography/advanced/30_Primary-Economic-Activities-Agriculture.md` - 2023 GS-I Q17: India from net food importer to net food exporter (1/3 tokens)
 - `Geography/advanced/37_Cultural-and-Social-Geography-of-India.md` - 2023 GS-I Q7: South-West Monsoon as Purvaiya in Bhojpur and cultural ethos (1/6 tokens)
-- `Geography/basic/01_The-Earth-and-the-Universe.md` - 2022 Prelims GS-I Q29: Summer solstice longest day timing in northern hemisphere (0/6 tokens)
-- `Geography/basic/02_The-Earths-Crust-Rocks.md` - 2018 Prelims GS-I Q57: Earth magnetic field reversal early atmosphere and life modification (1/8 tokens)
-- `Geography/basic/02_The-Earths-Crust-Rocks.md` - 2023 Prelims GS-I Q9: Indian hill ranges Amarkantak Biligirirangan Seshachalam classification (1/6 tokens)
-- `Geography/basic/05_Landforms-by-Running-Water.md` - 2021 Prelims GS-I Q55: Rivers rising from Eastern Ghats identification (1/5 tokens)
+- `Geography/basic/01_The-Earth-and-the-Universe.md` - 2022 Prelims GS-I Q29: Summer solstice longest day timing in northern hemisphere (1/6 tokens)
 - `Geography/basic/05_Landforms-by-Running-Water.md` - 2022 Prelims GS-I Q24: Gandikota canyon formation by South Indian river (1/5 tokens)
 - `Geography/basic/06_Landforms-of-Glaciation.md` - 2023 GS-I Q6: Formation of fjords and their picturesque character (0/4 tokens)
-- `Geography/basic/09_Lakes.md` - 2019 Prelims GS-I Q42: Common features of Aliyar Isapur and Kangsabati (0/5 tokens)
-- `Geography/basic/09_Lakes.md` - 2021 Prelims GS-I Q54: Saline lakes Rajasthan Didwana Kuchaman Sargol Khatu (1/7 tokens)
-- `Geography/basic/10_Coastal-Landforms.md` - 2023 Prelims GS-I Q5: Repeated sea level changes forming extensive marshlands (1/6 tokens)
+- `Geography/basic/09_Lakes.md` - 2019 Prelims GS-I Q42: Common features of Aliyar Isapur and Kangsabati (1/5 tokens)
 - `Geography/basic/30_Primary-Economic-Activities-Agriculture.md` - 2022 Prelims GS-I Q62: Tea-producing states identification in India (0/3 tokens)
 - `Geography/basic/35_Indian-Political-Geography-Boundaries-and-Neighbours.md` - 2018 Prelims GS-I Q29: Indian cities on longitude closest to Delhi (0/4 tokens)
 - `Geography/basic/35_Indian-Political-Geography-Boundaries-and-Neighbours.md` - 2020 Prelims GS-I Q96: Siachen Glacier geographical location and positioning (1/5 tokens)
-- `Geography/basic/36_Contemporary-Geographical-Issues-India.md` - 2019 Prelims GS-I Q23: Famous places and associated rivers in India (0/4 tokens)
+- `Geography/basic/36_Contemporary-Geographical-Issues-India.md` - 2019 Prelims GS-I Q23: Famous places and associated rivers in India (1/4 tokens)
 - `Geography/basic/36_Contemporary-Geographical-Issues-India.md` - 2022 Prelims GS-I Q70: Major reservoirs and their states matching in India (0/4 tokens)
 
 
@@ -751,8 +739,6 @@
 
 - `Indian-Art-and-Culture/advanced/06_Sculpture-Pottery-and-Iconography.md` - 2022 GS-I Q13: Lion and bull figures in Indian mythology art and architecture (1/5 tokens)
 - `Indian-Art-and-Culture/advanced/14_Heritage-Conservation-Institutions-and-UNESCO.md` - 2018 GS-I Q1: Safeguarding Indian art heritage as a present need (1/4 tokens)
-- `Indian-Art-and-Culture/basic/11_Languages-Scripts-Literature-and-Manuscripts.md` - 2021 Prelims GS-I Q41: Bhavabhuti Hastimalla and Kshemeshvara identification (0/4 tokens)
-- `Indian-Art-and-Culture/basic/13_Religion-Philosophy-and-Cultural-Synthesis.md` - 2022 Prelims GS-I Q96: Somnath Temple Jyotirlinga Al-Biruni and Pran Pratishtha (1/6 tokens)
 - `Indian-Art-and-Culture/basic/14_Heritage-Conservation-Institutions-and-UNESCO.md` - 2023 Prelims GS-I Q81: Colonial-era archaeologists associated with Indian excavations (0/4 tokens)
 
 
@@ -789,16 +775,13 @@
 - `Indian-Society/advanced/13_Communalism.md` - 2018 GS-I Q20: Communalism from power struggle or relative deprivation (1/5 tokens)
 - `Indian-Society/advanced/15_Secularism.md` - 2019 GS-II Q5: What France can learn from India's approach to secularism (1/5 tokens)
 - `Indian-Society/advanced/15_Secularism.md` - 2022 GS-I Q19: Tolerance assimilation and pluralism in the Indian form of secularism (1/5 tokens)
-- `Indian-Society/basic/01_Salient-Features-and-Diversity-of-Indian-Society.md` - 2023 Prelims GS-I Q95: National sports awards Khel Ratna Arjuna Dronacharya criteria (1/8 tokens)
-- `Indian-Society/basic/01_Salient-Features-and-Diversity-of-Indian-Society.md` - 2023 Prelims GS-I Q96: Chess Olympiad 2022 India mascot Thambi trophies (0/5 tokens)
-- `Indian-Society/basic/03_Tribe-and-Tribal-Society.md` - 2021 Prelims GS-I Q95: Halbi Ho and Kui tribal languages of India (1/3 tokens)
 
 
 ### Internal-Security
 
 **No routed 2018-2023 question in this owner:**
 
-- `Internal-Security/advanced/09_Social-Media-Encrypted-Messaging-and-Information-Warfare.md`
+- `Internal-Security/basic/09_Social-Media-Encrypted-Messaging-and-Information-Warfare.md`
 - `Internal-Security/basic/02_Terrorism-and-Counter-Terror-Architecture.md`
 - `Internal-Security/basic/03_Left-Wing-Extremism-and-Integrated-Response.md`
 - `Internal-Security/basic/04_North-East-Insurgency-and-Peace-Processes.md`
@@ -811,8 +794,8 @@
 
 **Priority content-review signals:**
 
-- `Internal-Security/advanced/05_Jammu-Kashmir-and-Cross-Border-Terrorism.md` - 2019 GS-III Q9: Over-ground workers role in assisting terrorist organizations in insurgency (1/7 tokens)
-- `Internal-Security/advanced/08_Cyber-Security-CII-and-Cybercrime.md` - 2020 GS-III Q9: Types of cyber crimes and countermeasures against menace (1/5 tokens)
+- `Internal-Security/basic/05_Jammu-Kashmir-and-Cross-Border-Terrorism.md` - 2019 GS-III Q9: Over-ground workers role in assisting terrorist organizations in insurgency (1/7 tokens)
+- `Internal-Security/basic/08_Cyber-Security-CII-and-Cybercrime.md` - 2020 GS-III Q9: Types of cyber crimes and countermeasures against menace (1/5 tokens)
 - `Internal-Security/basic/01_Internal-Security-Foundations-and-Governance.md` - 2023 Prelims GS-I Q92: Official Secrets Act Arms Act legal actions and coverage (1/6 tokens)
 - `Internal-Security/basic/08_Cyber-Security-CII-and-Cybercrime.md` - 2018 Prelims GS-I Q58: WannaCry Petya EternalBlue terms in technology news (1/6 tokens)
 - `Internal-Security/basic/08_Cyber-Security-CII-and-Cybercrime.md` - 2020 Prelims GS-I Q60: Cyber insurance coverage benefits for individuals in India (1/5 tokens)
@@ -823,20 +806,21 @@
 **No routed 2018-2023 question in this owner:**
 
 - `International-Relations/advanced/01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md`
+- `International-Relations/advanced/02_India-and-the-Neighbourhood.md`
+- `International-Relations/advanced/03_India-China-Major-Powers-and-Resilient-Supply-Chains.md`
+- `International-Relations/advanced/04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`
+- `International-Relations/advanced/05_Central-Asia-Eurasia-and-Connectivity.md`
+- `International-Relations/advanced/06_West-Asia-Energy-Security-and-Connectivity.md`
+- `International-Relations/advanced/07_India-Africa-Development-and-Digital-Partnership.md`
+- `International-Relations/advanced/08_Global-South-and-Development-Partnering.md`
+- `International-Relations/advanced/09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md`
+- `International-Relations/advanced/10_Regional-Global-and-Minilateral-Groupings.md`
+- `International-Relations/advanced/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md`
+- `International-Relations/advanced/12_UN-and-International-Institutions-Global-Governance.md`
 - `International-Relations/basic/01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md`
-- `International-Relations/basic/05_Central-Asia-Eurasia-and-Connectivity.md`
-- `International-Relations/basic/08_Global-South-and-Development-Partnering.md`
-- `International-Relations/basic/09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md`
-- `International-Relations/basic/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md`
 
 **Priority content-review signals:**
 
-- `International-Relations/advanced/03_India-China-Major-Powers-and-Resilient-Supply-Chains.md` - 2021 GS-II Q10: The USA facing an existential challenge from China (1/4 tokens)
-- `International-Relations/advanced/10_Regional-Global-and-Minilateral-Groupings.md` - 2023 GS-II Q19: Expansion of NATO and a stronger US-Europe partnership for India (1/5 tokens)
-- `International-Relations/advanced/12_UN-and-International-Institutions-Global-Governance.md` - 2019 GS-II Q10: UNESCO funding stress and the US withdrawal (0/4 tokens)
-- `International-Relations/basic/06_West-Asia-Energy-Security-and-Connectivity.md` - 2018 Prelims GS-I Q37: Conflict zone towns and their correct country matching (1/6 tokens)
-- `International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings.md` - 2018 Prelims GS-I Q33: India IAEA Additional Protocol ratification and implications (1/5 tokens)
-- `International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings.md` - 2023 Prelims GS-I Q89: EU Stability and Growth Pact budgetary deficit obligations (1/6 tokens)
 - `International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md` - 2018 Prelims GS-I Q18: Countries facing severe famine due to war and conflict (1/5 tokens)
 - `International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md` - 2022 Prelims GS-I Q77: International Polar Code purpose and scope (1/5 tokens)
 - `International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md` - 2023 Prelims GS-I Q78: Country with decades of civil strife and famine (0/5 tokens)
@@ -891,13 +875,9 @@
 **Priority content-review signals:**
 
 - `Medieval-Indian-History/basic/05_Tughlaqs.md` - 2021 Prelims GS-I Q38: Medieval rulers matched with contemporary historical events (1/6 tokens)
-- `Medieval-Indian-History/basic/07_Sultanate-Administration-Economy-Society.md` - 2022 Prelims GS-I Q52: Fanam medieval Indian monetary terminology (1/4 tokens)
 - `Medieval-Indian-History/basic/08_Provincial-Regional-Kingdoms.md` - 2022 Prelims GS-I Q92: Early medieval king and dynasty pairs identification (1/6 tokens)
 - `Medieval-Indian-History/basic/08_Provincial-Regional-Kingdoms.md` - 2023 Prelims GS-I Q45: Medieval dynasties Hoysala Gahadavala Kakatiya Yadava founding period (1/8 tokens)
-- `Medieval-Indian-History/basic/16_State-and-Government-under-Akbar.md` - 2021 Prelims GS-I Q45: Mughal administrative hierarchy paragana sarkar suba order (1/7 tokens)
-- `Medieval-Indian-History/basic/24_Mughal-Society-Economy-Culture.md` - 2018 Prelims GS-I Q73: Foreign traveler who discussed diamonds and diamond mines India (1/6 tokens)
 - `Medieval-Indian-History/basic/24_Mughal-Society-Economy-Culture.md` - 2019 Prelims GS-I Q1: Jagirdar and Zamindar differences in Mughal India (1/4 tokens)
-- `Medieval-Indian-History/basic/24_Mughal-Society-Economy-Culture.md` - 2020 Prelims GS-I Q21: Mughal era terms Aurang Banian Mirasidar roles (1/6 tokens)
 
 
 ### Modern-Indian-History
@@ -951,23 +931,7 @@
 
 - `Modern-Indian-History/advanced/07_Economic-Impact-of-British-Rule.md` - 2018 GS-I Q13: Indentured labour export and diaspora cultural identity (1/6 tokens)
 - `Modern-Indian-History/advanced/30_Linguistic-Reorganisation-and-Regionalism.md` - 2018 GS-I Q12: Formation of new states and the economy of India (1/3 tokens)
-- `Modern-Indian-History/basic/03_Beginnings-of-European-Settlements.md` - 2021 Prelims GS-I Q39: St. Francis Xavier Jesuit Order and Goa church (0/5 tokens)
-- `Modern-Indian-History/basic/06_Government-Structure-and-Constitutional-Development-1757-1858.md` - 2019 Prelims GS-I Q4: Charter Act of 1813 provisions and effects (1/3 tokens)
-- `Modern-Indian-History/basic/07_Economic-Impact-of-British-Rule.md` - 2018 Prelims GS-I Q51: Colonial government measures after Santhal Uprising subsided (1/6 tokens)
-- `Modern-Indian-History/basic/09_Social-and-Cultural-Policy-Education-Press.md` - 2021 Prelims GS-I Q44: Songs from Prison ancient religious lyrics translation (0/6 tokens)
-- `Modern-Indian-History/basic/10_Socio-Religious-Reform-Movements.md` - 2020 Prelims GS-I Q28: Vital-Vidhvansak journal untouchable audience first publisher (0/6 tokens)
-- `Modern-Indian-History/basic/10_Socio-Religious-Reform-Movements.md` - 2020 Prelims GS-I Q32: Rakhmabai case 1884 women's rights age of consent (1/5 tokens)
-- `Modern-Indian-History/basic/15_Militant-Nationalism-and-Swadeshi.md` - 2018 Prelims GS-I Q11: Nationalist leader who wrote biographies of Mazzini and Garibaldi (1/6 tokens)
-- `Modern-Indian-History/basic/18_WWI-Home-Rule-and-Lucknow-Pact.md` - 2022 Prelims GS-I Q51: Government of India Act 1919 reserved and transferred subjects (1/4 tokens)
-- `Modern-Indian-History/basic/19_Gandhis-Rise-Rowlatt-and-Jallianwala.md` - 2020 Prelims GS-I Q14: Gandhism and Marxism common ideological ground (0/5 tokens)
-- `Modern-Indian-History/basic/22_Simon-Nehru-Report-CDM-and-RTC.md` - 2020 Prelims GS-I Q27: Gandhi-Irwin Pact terms and CDM withdrawal conditions (1/5 tokens)
-- `Modern-Indian-History/basic/23_Left-Peasant-Workers-and-States-Peoples-Movements.md` - 2020 Prelims GS-I Q35: Ulgulan Great Tumult Birsa Munda tribal revolt event (1/8 tokens)
-- `Modern-Indian-History/basic/27_Independence-and-Partition.md` - 2021 Prelims GS-I Q50: International Mother Language Day Bangla language movement (0/5 tokens)
 - `Modern-Indian-History/basic/32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md` - 2018 Prelims GS-I Q91: Post-independence India key events chronological sequence (1/4 tokens)
-- `Modern-Indian-History/basic/34_From-Shastri-to-Indira-1964-73.md` - 2019 Prelims GS-I Q48: Coal sector nationalization status in independent India (0/5 tokens)
-- `Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md` - 2018 Prelims GS-I Q70: Founders of Hind Mazdoor Sabha labour organisation 1948 (0/6 tokens)
-- `Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md` - 2021 Prelims GS-I Q99: Tokyo 2020 Summer Olympics motto and new sports (0/5 tokens)
-- `Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md` - 2021 Prelims GS-I Q100: ICC World Test Championship finalist determination criteria (1/6 tokens)
 
 
 ### Political-Theory
@@ -1086,28 +1050,36 @@
 - `Polity/advanced/18_Supreme-Court.md` - 2021 GS-II Q2: Greater representation of women in the higher judiciary (1/5 tokens)
 - `Polity/advanced/20_State-Legislature.md` - 2023 GS-II Q5: Presiding Officers of state legislatures and impartial conduct of business (1/7 tokens)
 - `Polity/advanced/27_Election-Commission.md` - 2019 GS-II Q11: Disqualification of a people's representative under RPA 1951 and remedies (1/4 tokens)
-- `Polity/basic/CIC-and-SIC.md` - 2020 GS-II Q2: Recent RTI amendments and the autonomy of the Information Commission (1/5 tokens)
-- `Polity/basic/Citizenship.md` - 2021 Prelims GS-I Q89: Citizenship domicile and deprivation provisions India (1/4 tokens)
-- `Polity/basic/Directive-Principles.md` - 2020 Prelims GS-I Q9: Legal Services Authorities free legal aid eligibility criteria (1/6 tokens)
-- `Polity/basic/Directive-Principles.md` - 2021 Prelims GS-I Q91: Constitutional provision against concentration of wealth (1/4 tokens)
-- `Polity/basic/Election-Commission.md` - 2021 Prelims GS-I Q80: Candidate contesting from multiple Lok Sabha constituencies (0/5 tokens)
-- `Polity/basic/Federal-System.md` - 2023 Prelims GS-I Q32: Prison administration by State Governments Prisons Act 1894 (1/5 tokens)
-- `Polity/basic/Fundamental-Rights.md` - 2021 Prelims GS-I Q82: Judicial custody versus police custody in India (1/3 tokens)
-- `Polity/basic/Fundamental-Rights.md` - 2021 Prelims GS-I Q85: Unguided executive discretionary power constitutional violation (1/6 tokens)
-- `Polity/basic/Fundamental-Rights.md` - 2023 Prelims GS-I Q40: Reservation under Article 16 and administrative efficiency Article 335 (1/4 tokens)
-- `Polity/basic/Governor-and-CM.md` - 2019 Prelims GS-I Q66: Recommendations on ideal Governor appointment criteria (1/5 tokens)
-- `Polity/basic/NHRC-and-SHRC.md` - 2018 GS-II Q16: Multiplicity of commissions for vulnerable sections and an umbrella body (0/6 tokens)
-- `Polity/basic/NITI-Aayog.md` - 2019 Prelims GS-I Q19: Atal Innovation Mission institutional setup arrangement (0/6 tokens)
-- `Polity/basic/PM-and-Council-of-Ministers.md` - 2020 Prelims GS-I Q19: Minister appointment without legislature membership and disqualification (1/6 tokens)
-- `Polity/basic/Parliament.md` - 2020 Prelims GS-I Q3: MPLADS fund utilisation inspection and carryforward rules (1/6 tokens)
-- `Polity/basic/Parliamentary-System.md` - 2021 Prelims GS-I Q77: Indian vs British parliamentary democracy key differences (1/4 tokens)
-- `Polity/basic/Preamble.md` - 2020 Prelims GS-I Q16: Preamble legal effect and constitutional status (1/5 tokens)
-- `Polity/basic/Salient-Features.md` - 2018 Prelims GS-I Q40: Conceptual relationship between law and liberty (0/3 tokens)
-- `Polity/basic/Salient-Features.md` - 2021 Prelims GS-I Q87: Definition of State in political science theory (1/5 tokens)
-- `Polity/basic/Salient-Features.md` - 2021 Prelims GS-I Q90: Best safeguard of liberty in liberal democracy (0/5 tokens)
-- `Polity/basic/Salient-Features.md` - 2023 Prelims GS-I Q33: Chief purpose of a Constitution in governance (1/4 tokens)
-- `Polity/basic/Salient-Features.md` - 2023 Prelims GS-I Q84: National Flag India Flag Code standard sizes and proportions (1/6 tokens)
-- `Polity/basic/Supreme-Court.md` - 2022 Prelims GS-I Q12: Advocates recognition and Bar Council powers India (1/4 tokens)
+- `Polity/basic/Salient-Features.md` - 2018 Prelims GS-I Q40: Conceptual relationship between law and liberty (1/3 tokens)
+
+
+### Qualifying-English
+
+**No routed 2018-2023 question in this owner:**
+
+- `Qualifying-English/basic/01_Parts-of-Speech.md`
+- `Qualifying-English/basic/02_Sentence-Grammar.md`
+- `Qualifying-English/basic/03_Punctuation-and-Capitalisation.md`
+- `Qualifying-English/basic/04_Vocabulary-Idioms-and-Proverbs.md`
+- `Qualifying-English/basic/05_Error-Correction-and-Transformation.md`
+- `Qualifying-English/basic/06_Comprehension-and-Precis.md`
+- `Qualifying-English/basic/07_Short-Essay-Writing.md`
+
+**Priority content-review signals:** None from this lexical check.
+
+
+### Qualifying-Hindi
+
+**No routed 2018-2023 question in this owner:**
+
+- `Qualifying-Hindi/basic/01_शब्द-भेद.md`
+- `Qualifying-Hindi/basic/02_व्याकरण-वर्तनी-वाक्य-शुद्धि.md`
+- `Qualifying-Hindi/basic/03_शब्दावली-मुहावरे-लोकोक्तियाँ.md`
+- `Qualifying-Hindi/basic/04_बोध-और-संक्षेपण.md`
+- `Qualifying-Hindi/basic/05_निबन्ध-लेखन.md`
+- `Qualifying-Hindi/basic/06_अनुवाद.md`
+
+**Priority content-review signals:** None from this lexical check.
 
 
 ### Science-and-Technology
@@ -1162,32 +1134,32 @@
 
 **No routed 2018-2023 question in this owner:**
 
+- `Social-Justice/advanced/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md`
+- `Social-Justice/advanced/02_Poverty-Hunger-Food-and-Nutrition-Security.md`
+- `Social-Justice/advanced/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md`
+- `Social-Justice/advanced/04_Education-and-Human-Resource-Development.md`
+- `Social-Justice/advanced/05_Women-and-Gender-Justice.md`
 - `Social-Justice/advanced/06_Children-and-Child-Protection.md`
 - `Social-Justice/advanced/07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md`
 - `Social-Justice/advanced/08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md`
 - `Social-Justice/advanced/09_OBC-EWS-and-Social-Mobility.md`
 - `Social-Justice/advanced/10_Minorities-Rights-and-Welfare.md`
+- `Social-Justice/advanced/11_Persons-with-Disabilities.md`
+- `Social-Justice/advanced/12_Elderly-and-Senior-Citizens.md`
 - `Social-Justice/advanced/13_Transgender-Persons-and-Denotified-Nomadic-Marginalised-Communities.md`
 - `Social-Justice/advanced/14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md`
 - `Social-Justice/advanced/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md`
 - `Social-Justice/advanced/16_Urban-Poor-Homeless-and-Migrant-Workers.md`
-- `Social-Justice/basic/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md`
+- `Social-Justice/advanced/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md`
 - `Social-Justice/basic/07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md`
 - `Social-Justice/basic/09_OBC-EWS-and-Social-Mobility.md`
 - `Social-Justice/basic/10_Minorities-Rights-and-Welfare.md`
-- `Social-Justice/basic/11_Persons-with-Disabilities.md`
-- `Social-Justice/basic/12_Elderly-and-Senior-Citizens.md`
 - `Social-Justice/basic/13_Transgender-Persons-and-Denotified-Nomadic-Marginalised-Communities.md`
 - `Social-Justice/basic/14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md`
 - `Social-Justice/basic/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md`
 - `Social-Justice/basic/16_Urban-Poor-Homeless-and-Migrant-Workers.md`
-- `Social-Justice/basic/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md`
 
-**Priority content-review signals:**
-
-- `Social-Justice/advanced/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md` - 2019 GS-II Q6: High growth alongside the lowest human development indicators (1/7 tokens)
-- `Social-Justice/advanced/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md` - 2023 GS-I Q16: Human development lagging behind economic development in India (1/5 tokens)
-- `Social-Justice/advanced/17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md` - 2019 GS-II Q18: Welfare schemes for vulnerable sections and awareness and involvement (1/6 tokens)
+**Priority content-review signals:** None from this lexical check.
 
 
 ### World-History
@@ -1241,3 +1213,16 @@
 ## 5. Missing targets
 
 None. Every routed path resolves to an existing knowledge file.
+
+## 6. 2026-08-15 Internal-Security Core-routing correction
+
+The historical GS-III Internal-Security routes were moved from
+`Internal-Security/advanced/` to their paired `Internal-Security/basic/`
+owners after a subject-level answer-worthiness audit found that the old
+advanced-only mapping contradicted Core independence. The 27 Internal
+Security assignments were regenerated into 11 Core owners; legacy
+historical generated blocks were removed from Advanced companions. This
+subject-specific correction supersedes any earlier low lexical-signal
+references in this generated audit that still describe the pre-repair
+Advanced route. Prelims keys remain unverified and no answer option was
+inferred.

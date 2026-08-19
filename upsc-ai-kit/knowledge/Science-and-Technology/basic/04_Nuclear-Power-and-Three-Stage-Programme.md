@@ -166,6 +166,27 @@ Stage 3: Thorium-based reactors aiming at U-233 cycle
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` - broader peaceful uses of nuclear science beyond power generation.
 - ✅ `16_Nanotechnology-and-Applications.md` - materials and engineering constraints in advanced nuclear systems.
 
+## Core answer architecture — fission, fuel cycle and nuclear governance
+
+**Thesis choice.** India’s three-stage programme is a resource-and-fuel-cycle strategy, not a claim that thorium is already a ready-to-use or commercial electricity source.
+
+**10-mark spine.** Explain fission and the PHWR–FBR–thorium sequence briefly; name the material transition; identify DAE/BARC/NPCIL/BHAVINI roles; end by locating the current stage exactly.
+
+**15/20-mark spine.** Use **physics and fuel cycle → institutions and operating evidence → energy/security/diplomatic value → safety, cost, waste/liability and legal-status limits**. Keep reactor safety regulation separate from compensation/liability law.
+
+**Evidence units.**
+- **Claim:** PHWRs fit India’s initial resource logic → **Stage 1 uses natural uranium in heavy-water reactors and produces plutonium in spent fuel** → this links current generation to the material input for Stage 2 → **qualification:** uranium use and nuclear capacity still face construction, fuel, water, waste and public-acceptance constraints.
+- **Claim:** Breeder progress is a bridge, not completion of the programme → **the PFBR attained first criticality in April 2026** → controlled chain reaction is a Stage-2 engineering milestone → **qualification:** first criticality is neither grid synchronisation, commercial operation nor proof of a breeder fleet or Stage-3 thorium deployment.
+- **Claim:** Nuclear reform must be read through legal stages → **the SHANTI Act, 2025 was enacted but had not commenced at the verified date** → law, rules, licences and investable projects are distinct steps → **qualification:** until commencement the Atomic Energy Act, 1962 and CLND Act, 2010 remain operative; do not claim private nuclear operation has opened.
+
+**Verdict.** Nuclear power can provide firm low-carbon electricity and strategic learning, but a high-scoring answer conditions expansion on independent safety capacity, fuel-cycle competence, transparent liability and realistic timelines.
+
+## Routed PYQ evidence — safeguards and enrichment
+
+- **Safeguards test:** IAEA safeguards apply to facilities/material placed under the relevant safeguards arrangements; they verify that declared nuclear material is not diverted from peaceful use. Do not write that every Indian reactor is automatically under the same safeguard regime: India maintains a separation between designated civilian facilities and its strategic programme.
+- **Enrichment test:** enrichment changes the proportion of fissile U-235; it is a fuel-cycle property, not a synonym for generating electricity. India’s PHWR strategy uses natural uranium with heavy water, whereas many light-water reactor designs require enriched uranium. A percentage must never be guessed from a Prelims statement without the source’s exact context.
+- **Analytical use:** safeguards, fuel access, the 123 Agreement and the NSG waiver are diplomatic/civil-nuclear context; they do not replace the domestic three-stage fuel-cycle logic.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

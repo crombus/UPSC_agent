@@ -64,17 +64,147 @@ quality, finance, external resilience and future productive capacity.
 
 ## 5. Indian applications and examples
 
-- ⚠️ FY26 FAE growth is an early estimate and must not be presented as a final revised
-  outcome.
-- ⚠️ Low headline CPI can coexist with firmer core components, so the aggregate must be
-  decomposed.
-- ⚠️ Large reserves improve insurance, but export capability and prudent foreign-currency
-  liabilities determine durable resilience.
+- ✅ **Claim:** The growth-and-demand box of the dashboard must distinguish an early
+  estimate from a final, audited outcome, and a flow (GDP) from stock or share measures.
+  **Evidence:** MoSPI publishes First/Second Advance Estimates followed by Provisional and
+  final national-accounts revisions; PFCE (private final consumption expenditure) is a
+  share-of-GDP demand-composition measure, while real GDP/GVA growth rates are flow
+  (period-on-period) measures. **Significance:** This operationalises "stock/flow, nominal/
+  real... BE/RE/actual" distinctions with the specific national-accounts vintage sequence
+  examiners test. **Limitation/status caution:** Any FY26 figure sourced from the Economic
+  Survey 2025-26 (a January 2026 vintage) is, by definition, a First Advance Estimate or
+  earlier-period actual; it is not the final revised outcome and must be labelled as such.
+- ✅ **Claim:** Fiscal indicators must distinguish Budget Estimate (BE), Revised Estimate
+  (RE) and provisional/final actuals, sourced from the Union Budget and Controller General
+  of Accounts (CGA). **Evidence:** The Union Budget publishes BE for the coming year and RE
+  for the current year alongside the previous year's actuals; the CGA subsequently
+  publishes monthly and final provisional accounts of actual receipts/expenditure/deficit
+  against the RE/BE. **Significance:** This grounds "distinguish... BE/RE/actual" with the
+  named institutional source (CGA) responsible for actual fiscal outturns, linking this
+  topic to Topic 9's fiscal-policy framework. **Limitation:** RE figures are still
+  projections made partway through the fiscal year; only CGA-published actuals (released
+  with a lag after year-end) represent realised fiscal outcomes.
+- ✅ **Claim:** Monetary/inflation indicators combine a lagging confirmation measure (CPI)
+  with forward-looking or contemporaneous signals from RBI's own surveys and policy stance.
+  **Evidence:** MoSPI/NSO publishes the Consumer Price Index (CPI) monthly (a largely
+  lagging indicator confirming realised inflation), while RBI's Monetary Policy Committee
+  reviews and its Survey of Professional Forecasters/inflation-expectations surveys provide
+  more forward-looking or sentiment-based signals used alongside CPI in policy decisions.
+  **Significance:** This operationalises "leading/lagging" indicator classification with a
+  named lagging series (CPI) contrasted against RBI's forward-looking survey instruments,
+  linking to Topic 3/4. **Limitation:** Headline CPI can diverge from core (non-food, non-
+  fuel) inflation trends; a single lagging headline print should not be treated as a
+  complete real-time inflation signal without the underlying component and expectations
+  data.
+- ✅ **Claim:** External-sector dashboard entries mix stock (reserves, external debt) and
+  flow (CAD, exports) variables from a named institutional source, and must not be
+  conflated. **Evidence:** RBI publishes weekly forex-reserve levels (a stock, a point-in-
+  time balance-sheet measure) and quarterly Balance of Payments data including the current-
+  account deficit (a flow, a period measure), alongside external-debt statistics (a stock)
+  jointly compiled with the Ministry of Finance. **Significance:** This operationalises
+  "distinguish stock/flow" with the precise external-sector series and their publishing
+  institution, linking to Topic 19. **Limitation:** A comfortable reserve stock (a point-in-
+  time buffer) does not offset a structurally rising CAD flow if the underlying trade or
+  income deficit is worsening; the two must be read together, not as substitutes.
+- ✅ **Claim:** Employment indicators in the dashboard are primarily lagging, survey-based
+  flow-adjacent measures requiring careful vintage labelling. **Evidence:** MoSPI's Periodic
+  Labour Force Survey (PLFS) publishes quarterly urban and annual all-India employment
+  indicators (LFPR, worker-population ratio, unemployment rate) with an inherent reporting
+  lag between the survey period and publication. **Significance:** This grounds the
+  "employment" dashboard box with a named, dated official source (linking to Topic 22) and
+  reinforces that employment data is not a same-quarter, real-time indicator.
+  **Limitation:** PLFS methodology (usual-status vs current-weekly-status) affects headline
+  employment/unemployment figures; citing a rate without specifying the basis and quarter
+  risks factual imprecision.
+- ⚠️ **Claim:** Cross-cutting synthesis is required because a single strong headline
+  indicator can mask a weaker underlying driver from a different dashboard box.
+  **Evidence:** A strong real-GDP growth headline (Growth box) can coexist with a weak
+  private capex/investment share (Fiscal/Investment box), soft core-inflation-adjusted real
+  wage growth (Inclusion box) or a widening CAD (External box) in the same reporting
+  period. **Significance:** This operationalises the "cross-topic synthesis" requirement:
+  an answer must check the Growth headline against Fiscal, Monetary, External and Inclusion
+  boxes before concluding the economy is unambiguously strong. **Limitation:** Synthesis
+  across boxes requires each box's data to be from a comparable, clearly labelled period;
+  mixing a FY26 Advance Estimate growth figure with an older, differently dated employment
+  or inflation print risks an invalid comparison.
+- ✅ **Claim:** India's post-COVID-19 "V-shaped recovery" is a specific, evidenced growth-
+  path claim (sharp contraction followed by a strong rebound), not a synonym for a smooth or
+  fully broad-based recovery, and evaluating it requires checking the claim against
+  employment and sectoral evidence, not the growth print alone. **Evidence:** Real GDP
+  contracted 23.9% in Q1 FY21 (Apr-Jun 2020) under the nationwide lockdown, narrowed to
+  -7.5% in Q2 FY21, then turned positive at 0.5% in Q3 FY21 and 1.6% in Q4 FY21; the NSO's
+  **provisional estimate (May 2021)** put full-year FY21 GDP contraction at **7.3%** — this
+  is the figure the Economic Survey 2020-21/2021-22-era commentary and most contemporaneous
+  reporting cite — but the NSO's **subsequent revision (January 2022, using fuller annual
+  industry/survey data)** narrowed the full-year FY21 contraction to **6.6%** (GVA revised
+  from -6.2% to -4.8%); the Economic Survey 2020-21 characterised the quarterly path as
+  "V-shaped" and cited high-frequency indicators (power demand, rail freight, GST
+  collections, steel consumption, e-way bills) returning to or exceeding pre-pandemic
+  levels by late FY21, alongside a low base-effect from the deeply negative Q1 print
+  inflating subsequent year-on-year growth comparisons. **Significance:** This is the
+  precise, dated evidence for the routed 2021 GS-III demand ("V-shaped economic recovery of
+  India after COVID-19"), giving a "do you agree" answer both the quarterly growth-path
+  facts and the base-effect mechanism needed to interpret them critically rather than
+  simply accept or reject the label. **Limitation:** ⚠️ **Estimate-vintage caution:** the
+  widely quoted "7.3% contraction" is the Economic-Survey-era/NSO provisional figure, not
+  a final number — treat it as the then-current estimate and cite the NSO's later 6.6%
+  revised figure when precision matters, rather than presenting 7.3% as the settled,
+  final outcome. Separately, a V-shaped aggregate GDP path is a demand/output-side measure
+  only; the State of Working India 2021 report (Azim Premji University) and PLFS-linked
+  evidence documented a shift of workers into self-employment, daily-wage and informal work
+  as salaried jobs were lost, with women and younger workers recovering more slowly —
+  commentators termed this divergence between output recovery and employment/informality
+  outcomes a "K-shaped" pattern. A "do you agree" answer must therefore test the V-shaped
+  growth claim against this employment/informality evidence and against sectoral
+  unevenness (contact-intensive services recovering slower than manufacturing or
+  agriculture) before concluding whether the recovery was genuinely broad-based.
+
+## Core limitations and trade-offs
+
+- ⚠️ Advance Estimates (FAE/SAE) are methodologically necessary for timely policy but are
+  revised, sometimes substantially, once fuller data arrives — dashboard answers must
+  flag this rather than treating an FAE figure as final.
+- ⚠️ RE-to-actual gaps in fiscal data mean an in-year fiscal-deficit RE can differ from the
+  CGA-confirmed actual, so citing RE as if it were the realised outcome overstates
+  precision.
+- ⚠️ Headline CPI inflation can mask divergent core and food/fuel component trends,
+  so treating one lagging aggregate number as a complete monetary-conditions signal risks
+  an incomplete analysis.
+- ⚠️ A comfortable reserve stock is a buffer, not a solution to a structurally rising CAD or
+  export-competitiveness problem; stock and flow indicators answer different questions and
+  must not substitute for each other.
+- ⚠️ Employment/PLFS data's reporting lag and methodology sensitivity (usual-status versus
+  weekly-status) mean a single quarter's headline rate is an imperfect real-time labour-
+  market signal.
+- ⚠️ **Data-vintage warning (as of 14 August 2026):** the Economic Survey 2025-26 is a
+  January 2026-vintage source; any FY26 growth, inflation, fiscal or external figure it
+  reports is, as of August 2026, superseded by at least two to three further quarters of
+  national-accounts, CPI, CGA and RBI releases. Any dashboard answer written in or after
+  August 2026 must independently verify whether more recent, dated official data exists
+  before treating a Survey 2025-26 figure as the current position; where more recent data is
+  not confirmed, label the Survey figure explicitly by its period and estimate type rather
+  than presenting it as the present-day figure.
+- ⚠️ A quarterly GDP path that reads as "V-shaped" (as in FY21) is a growth-rate observation
+  only; assessing whether such a recovery was broad-based requires checking it against
+  employment/informality evidence (PLFS, State of Working India-style reports) and
+  sectoral disaggregation, not the aggregate print alone — the K-shaped critique of the
+  FY21 recovery is the standard counter-evidence for a "do you agree" answer.
+- ⚠️ The commonly cited **FY21 GDP contraction of 7.3%** is itself an estimate-vintage
+  example, not a fixed historical constant: it is the NSO's May 2021 provisional figure,
+  later revised to 6.6% in January 2022 as fuller industry/survey data arrived — the same
+  Advance-Estimate-to-actual revision logic flagged above for FY26 FAE figures applies
+  retrospectively to FY21.
 
 ## 6. Must-Know Facts for Prelims
 
 - ✅ Survey data must be quoted with period, estimate type and source chapter.
 - ✅ Advance estimates are revised as fuller information becomes available.
+- ✅ The Global Competitiveness Report (Global Competitiveness Index) was published annually
+  by the World Economic Forum (WEF); WEF discontinued this specific report/index after its
+  2019-2020 edition, so it should not be cited as a currently updated annual ranking — the
+  IMD World Competitiveness Center publishes a separate, still-running annual World
+  Competitiveness Ranking, which is a different report and must not be conflated with the
+  WEF's discontinued one.
 - ✅ A macro dashboard combines flow variables, stock buffers, sectoral composition and
   distributional outcomes.
 - ✅ Strong headline growth should be tested against jobs, investment, productivity,
@@ -83,6 +213,12 @@ quality, finance, external resilience and future productive capacity.
   term stimulus alone.
 - ✅ Strategic resilience absorbs shocks; strategic indispensability makes India valuable to
   global partners.
+- ✅ India's FY21 quarterly GDP path (-23.9%, -7.5%, +0.5%, +1.6%) is the named evidence for
+  the "V-shaped recovery" claim; full-year FY21 GDP contracted **7.3% per the NSO's May 2021
+  provisional estimate** (the figure the Economic Survey-era commentary cites), later
+  **revised to 6.6% by the NSO's January 2022 revision** using fuller data — cite the
+  provisional-versus-revised distinction rather than treating 7.3% as final, and the low Q1
+  base inflated later year-on-year comparisons (base effect).
 
 ## 7. UPSC traps
 
@@ -95,6 +231,10 @@ quality, finance, external resilience and future productive capacity.
   maintenance determine returns.
 - ❌ One Survey projection is a permanent trend. -> Projections are conditional and period-
   specific.
+- ❌ A V-shaped GDP recovery means every worker/sector recovered equally. -> Employment and
+  informality evidence shows an uneven, "K-shaped" pattern beneath the aggregate rebound.
+- ❌ FY21's "7.3% contraction" is the final, permanent GDP figure for that year. -> It is the NSO's May 2021 provisional estimate; the NSO's January 2022 revision (fuller data) narrowed it to 6.6% — cite the estimate type and revision explicitly.
+- ❌ The Global Competitiveness Report is a currently published, annually updated WEF ranking. -> WEF discontinued the Global Competitiveness Report/Index after its 2019-2020 edition; the IMD World Competitiveness Center's separate ranking is not the same report and should not be conflated with it.
 
 ## 8. 📰 Economic Survey 2025-26 / current anchor
 
@@ -116,6 +256,13 @@ releases do not convert its FY26 FAE or projection into a final current outcome.
   exact period.
 - ⚠️ 2024-26 PYQs reward institution-function matching, qualified statements and mechanism-
   based application.
+- ⚠️ 2021 GS-III: "Do you agree that India's economic recovery after COVID-19 was V-shaped?"
+  — answer with the FY21 quarterly GDP path and base-effect logic above, then test the claim
+  against sectoral unevenness and the employment/informality (K-shaped) evidence before
+  reaching a qualified verdict.
+- ⚠️ 2019 Prelims: Global Competitiveness Report's publishing institution — answer with the
+  World Economic Forum attribution and the discontinuation-after-2019-2020 status caution
+  above, distinguishing it from the IMD World Competitiveness Center's separate ranking.
 
 ## 10. Mains angles
 
@@ -125,6 +272,9 @@ releases do not convert its FY26 FAE or projection into a final current outcome.
   or sustainability.
 - ⚠️ Conclude with productivity, state capacity, competitive federalism and strategic
   integration.
+- ⚠️ For a "do you agree with the V-shaped recovery" question, pair the FY21 quarterly-
+  growth/base-effect evidence with the employment/informality (K-shaped) counter-evidence
+  before concluding, rather than simply affirming or denying the label.
 
 > **Answer thesis:** Read the Survey as a connected balance sheet of growth, prices, fiscal quality, finance, external resilience and future productive capacity.
 
@@ -136,6 +286,52 @@ releases do not convert its FY26 FAE or projection into a final current outcome.
   component reveal in macroeconomic analysis?
 - ⚠️ **Mains (15 marks):** Using the Economic Survey 2025-26, assess India's macro stability
   and the reforms needed to raise potential growth.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+**Directive decoder**
+- "Assess India's macro stability using the Economic Survey" -> requires labelling every
+  figure's period/estimate-type (FAE, RE, actual) and stock-versus-flow status before
+  drawing a conclusion.
+- "What does divergence between headline and component reveal" -> requires naming a
+  specific pair (growth headline vs investment share; CPI headline vs core inflation; CAD
+  flow vs reserve stock) with named sources, not a generic "data can be misleading" claim.
+- "Using the Survey, assess reforms needed for potential growth" -> requires synthesising
+  at least three dashboard boxes (e.g., fiscal, external, employment) rather than one box
+  alone, and an explicit data-vintage caveat given the question's evolving currency.
+- "Do you agree India's post-COVID-19 recovery was V-shaped?" -> requires the FY21
+  quarterly-growth path and base-effect mechanism, weighed against the employment/
+  informality (K-shaped) counter-evidence, ending in a qualified agree/disagree verdict —
+  never a flat yes/no; cite the full-year contraction figure with its estimate vintage
+  (7.3% provisional, later revised to 6.6%), not as a single fixed number.
+
+**Evidence chain** (claim -> named evidence -> significance -> limitation)
+Use the Section 5 bank: estimate-vintage questions draw on the MoSPI/CGA/RBI-source units;
+synthesis questions draw on the cross-cutting divergence unit; V-shaped-recovery questions
+draw on the FY21 quarterly-GDP/base-effect/K-shaped unit; always close with the data-
+vintage warning.
+
+**Counter-evidence and balance**
+Pair every headline dashboard figure with its Core-limitation caution (FAE revision risk,
+RE-versus-actual gap, core-versus-headline inflation, stock-versus-flow mismatch) so the
+dashboard reads as diagnostic rather than celebratory.
+
+**10/15/20-mark scaling**
+- 10 marks (~150 words): thesis + 2-3 dashboard boxes + one limitation + verdict.
+- 15 marks (~250 words): thesis + six-box structure (growth, inflation, fiscal, financial,
+  external, inclusion) + 4-5 evidence units + counter-evidence + verdict.
+- 20 marks (~250-300 words): add a comparative/causal dimension (headline-versus-component
+  divergence across two or more boxes) + 5-7 evidence units + explicit trade-offs + a fully
+  reasoned verdict, ending with the current-data-vintage caveat.
+
+**Reasoned verdict template**
+"Reading the Economic Survey as a connected balance sheet — checking the FY26 FAE growth
+headline against fiscal (BE/RE/actual), monetary (headline-versus-core CPI), external
+(CAD flow versus reserve stock) and employment (PLFS) boxes — shows [name the specific
+divergence or vulnerability the question asks about]; because Survey 2025-26 is a
+January-2026-vintage source, any answer written after August 2026 must independently verify
+more recent official data before treating these figures as current — therefore [qualified,
+directive-matching conclusion]."
 
 ## 12. Study links
 
@@ -149,20 +345,22 @@ releases do not convert its FY26 FAE or projection into a final current outcome.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2019
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2019, 2021
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 2
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2019 | Prelims GS-I | 3 | Global Competitiveness Report publisher institution | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | GS-III | 11 | V-shaped economic recovery of India after COVID-19 | Do you agree · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Global Competitiveness Report publisher institution
+- V-shaped economic recovery of India after COVID-19
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

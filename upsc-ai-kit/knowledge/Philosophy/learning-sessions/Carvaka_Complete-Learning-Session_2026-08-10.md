@@ -1,4 +1,7 @@
-# Cārvāka / Lokāyata — Theory of Knowledge and Rejection of Transcendent Entities — Complete Learning Session
+---
+cover_image: assets/01_Carvaka-One-Four-Two-Zero.png
+---
+# Cārvāka / Lokāyata - Theory of Knowledge and Rejection of Transcendent Entities - Complete Learning Session
 
 **UPSC Philosophy Optional · Paper I · Section B · Indian Philosophy · Syllabus item 12**
 
@@ -1562,15 +1565,15 @@ C. D. Sharma objects that "in swoons, fits, epilepsy, dreamless sleep etc. the l
 
 A. That consciousness is a fifth element alongside earth, water, fire and air.
 
-B. That the Cārvāka's own evidence establishes at most that consciousness **depends** on the body, and dependence is compatible with the body being the instrument rather than the cause of consciousness — so the materialist conclusion is under-determined by the evidence offered for it.
+B. That perception is not a valid source of knowledge.
 
 C. That consciousness cannot exist at all in a living body.
 
-D. That perception is not a valid source of knowledge.
+D. That the Cārvāka's own evidence establishes at most that consciousness **depends** on the body, and dependence is compatible with the body being the instrument rather than the cause of consciousness — so the materialist conclusion is under-determined by the evidence offered for it.
 
 ---
 
-✅ **Correct answer: B.** The first objection attacks the claimed inseparability of consciousness from the living body; the second severs the inference from constant co-occurrence to causation — Sharma adds that "the two horns of a bull which are always found together cannot be regarded as causally related", concluding that "the body is a mere **instrument** for the manifestation of consciousness and cannot be regarded as its cause." A invents a doctrine no school holds in this form. C is absurd. D would be a Jayarāśi-style objection, not Sharma's argument here.
+✅ **Correct answer: D.** The first objection attacks the claimed inseparability of consciousness from the living body; the second severs the inference from constant co-occurrence to causation — Sharma adds that "the two horns of a bull which are always found together cannot be regarded as causally related", concluding that "the body is a mere **instrument** for the manifestation of consciousness and cannot be regarded as its cause." A invents a doctrine no school holds in this form. B would be a Jayarāśi-style objection, not Sharma's argument here. C is absurd.
 
 **✅ Subtopic 6 complete — 2 consecutive correct answers.** You now hold the highest-value comparison in this syllabus item, together with the full objection-and-reply battery. Proceeding to the systematic rejection of transcendent entities.
 
@@ -2059,15 +2062,15 @@ Why, on the Cārvāka's own reasoning, is *dharma* rejected as a *puruṣārtha*
 
 A. Because pleasure is intrinsically more agreeable than duty, and human beings always pursue the more agreeable.
 
-B. Because *dharma* is a *scriptural* category — "virtue and vice are distinctions made by the scriptures, whose authority cannot be rationally accepted" — so it falls with *śabda*, exactly as *ākāśa* falls with inference.
+B. Because *dharma* was invented by the Jainas and Buddhists, whose authority Cārvāka rejects.
 
-C. Because *dharma* was invented by the Jainas and Buddhists, whose authority Cārvāka rejects.
+C. Because *dharma* is a *scriptural* category — "virtue and vice are distinctions made by the scriptures, whose authority cannot be rationally accepted" — so it falls with *śabda*, exactly as *ākāśa* falls with inference.
 
 D. Because *dharma* and *mokṣa* are identical, and *mokṣa* is impossible.
 
 ---
 
-✅ **Correct answer: B.** Chatterjee and Datta give the reason in exactly those words, which shows that Cārvāka ethics is a *consequence* of the epistemology rather than an independent appetite for pleasure. A reverses the direction of the argument and reduces a normative claim to a psychological one. C is historically false — *dharma* is a pan-Indian category and pre-eminently a Vedic one. D conflates two distinct *puruṣārthas* that the sources reject for different reasons.
+✅ **Correct answer: C.** Chatterjee and Datta give the reason in exactly those words, which shows that Cārvāka ethics is a *consequence* of the epistemology rather than an independent appetite for pleasure. A reverses the direction of the argument and reduces a normative claim to a psychological one. B is historically false — *dharma* is a pan-Indian category and pre-eminently a Vedic one. D conflates two distinct *puruṣārthas* that the sources reject for different reasons.
 
 You have **1 consecutive correct answer**.
 
@@ -2079,13 +2082,13 @@ A. It is the opening *sūtra* of the surviving *Bṛhaspati-sūtra*.
 
 B. It is quoted from Vātsyāyana's *Kāma-sūtra*, chapter two.
 
-C. It is a verse preserved in the *Sarva-darśana-saṃgraha* — an opponent's fourteenth-century doxographical compendium — and must be presented as a doxographical characterisation of the school's spirit, not as a securely locatable quotation from an extant primary Cārvāka text.
+C. It is a canonical Jaina criticism of the Cārvākas, recorded in the *Ṣaḍ-darśana-samuccaya*.
 
-D. It is a canonical Jaina criticism of the Cārvākas, recorded in the *Ṣaḍ-darśana-samuccaya*.
+D. It is a verse preserved in the *Sarva-darśana-saṃgraha* — an opponent's fourteenth-century doxographical compendium — and must be presented as a doxographical characterisation of the school's spirit, not as a securely locatable quotation from an extant primary Cārvāka text.
 
 ---
 
-✅ **Correct answer: C.** Sharma reproduces the verse within the *Sarva-darśana-saṃgraha* summary of the Cārvāka position, and the authored knowledge file explicitly directs that such lines be presented "as a traditional doxographical verse associated with the Cārvāka image, not as a securely locatable quotation from an extant primary Cārvāka text." A is impossible, since the *Bṛhaspati-sūtra* is lost. B misattributes it; Vātsyāyana's chapter two is the source of the *refined* hedonist material, and indeed argues *against* refusing deferral. D misplaces both the text and the polemical direction.
+✅ **Correct answer: D.** Sharma reproduces the verse within the *Sarva-darśana-saṃgraha* summary of the Cārvāka position, and the authored knowledge file explicitly directs that such lines be presented "as a traditional doxographical verse associated with the Cārvāka image, not as a securely locatable quotation from an extant primary Cārvāka text." A is impossible, since the *Bṛhaspati-sūtra* is lost. B misattributes it; Vātsyāyana's chapter two is the source of the *refined* hedonist material, and indeed argues *against* refusing deferral. C misplaces both the text and the polemical direction.
 
 **✅ Subtopic 8 complete — 2 consecutive correct answers.** You can now present Cārvāka ethics without caricature, handle the source-critical problem of its most famous verse, and run the Jaina comparison on the correct axes. Proceeding to the final synthesis.
 
@@ -2501,4 +2504,3 @@ Commands: **`Revise` · `PYQ` · `Notes` · `Export PDF`**
 ---
 
 **End of the complete learning session.**
-

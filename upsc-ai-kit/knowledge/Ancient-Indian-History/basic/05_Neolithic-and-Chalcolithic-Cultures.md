@@ -81,9 +81,60 @@
 
 ## 7. Mains angles
 
+### Thesis options
+
+| Directive | Thesis |
+|---|---|
+| Discuss | The Neolithic revolution in India was not a single event but a set of regionally staggered transitions to food production, each shaped by local ecology, available domesticates and cultural inheritance from Mesolithic adaptations. |
+| Compare | Comparing NW (Mehrgarh wheat-barley), Kashmir (Burzahom pit-dwelling), eastern (Chirand/Koldihwa rice) and southern (ash-mound pastoralism) Neolithic trajectories reveals that no single model of "agricultural revolution" applies to the entire subcontinent. |
+| Critically examine | Chalcolithic cultures represent the rural majority of bronze-age India — widespread, regionally diverse and technologically limited compared to Harappan urbanism; their study prevents an exclusive focus on cities. |
+
+### Evidence units
+
+| Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|
+| Neolithic was regionally varied | Mehrgarh (7000 BC, wheat/barley); Burzahom (pit dwellings, Kashmir); Koldihwa (rice); south Indian ash-mounds | Each region had a distinct farming/pastoral trajectory | Dates are site-specific and subject to revision; synchronisation is approximate |
+| Chalcolithic was rural, not urban | Ahar-Gilund (dry-zone Rajasthan); Malwa/Jorwe (western MP/Maharashtra) | Shows that most bronze-age Indians lived in village cultures, not Harappan cities | Limited excavation means we may underestimate some sites' complexity |
+| Transition from Mesolithic to Neolithic was gradual | Adamgarh/Bagor show overlap; Mesolithic continued alongside early farming in some regions | No sharp break between "hunter-gatherers" and "farmers" | Overlap claims depend on stratigraphy that isn't always unambiguous |
+| Rice domestication evidence requires caution | Koldihwa/Mahagara rice impressions; Lahuradewa dates | India may have been an independent centre of rice domestication | Wild vs. domesticated identification is technically difficult; some claims contested |
+
 - ⚠️ Explain Neolithic as a regional transition to food production, not a uniform revolution.
 - ⚠️ Discuss Chalcolithic cultures as rural, regional and resource-linked rather than urban like Harappa.
 - ⚠️ Use Ahar-Malwa-Jorwe to show cultural diversity before iron-age state formation.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Food production emerged in ancient India through multiple regional pathways rather than through a single diffusion model." |
+| Critically examine | "Neolithic and Chalcolithic cultures show real technological and social advance, but they were uneven and not uniformly proto-urban." |
+| Compare / evaluate | "The north-western, Gangetic, Kashmiri and south Indian sequences differed in crops, animals, settlement forms and cultural inheritance." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** ecology/domesticates -> settlement form -> surplus/craft -> regional differentiation
+- **For comparison Qs:** NW vs Kashmir vs Ganga plain vs Deccan in a region-wise matrix
+- **For evaluate Qs:** advance in production -> continuity from foraging worlds -> caution against teleology
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Neolithisation began unevenly across regions | ✅ Mehrgarh, Burzahom and Koldihwa/Lahuradewa-type evidence | Defeats one-origin or one-date answers | Dates and domestication claims are debated |
+| 2 | Ecology shaped crop-animal combinations | ✅ Wheat-barley NW, rice in Ganga belt, cattle emphasis in south | Explains regional pathways to production | Regional overlap complicates neat boxes |
+| 3 | Chalcolithic villages deepened social complexity | ✅ Ahar, Malwa and Jorwe cultures | Links production to storage, craft and hierarchy | Copper use did not automatically create urbanism |
+
+### Counterpoint and balance
+
+- Do not equate every Neolithic site with fully settled plough agriculture.
+- Chalcolithic should be framed as a varied transition, not as a failed urban civilisation.
+
+### Verdict framing
+
+- End by stressing staggered regional trajectories.
+- A strong conclusion qualifies change as major but uneven in timing and outcome.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

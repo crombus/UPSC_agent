@@ -14,6 +14,24 @@
 - Use this dossier only for one added debate, one sharper objection/reply, or one controlled comparison in a 15/20-marker.
 - Dated institutional or legal examples should be re-checked at answer time; this file prioritises philosophical structure over current-affairs stockpiling.
 
+## Promotion ledger — 15 August 2026
+
+Four promotion triggers in this dossier have **fired and been executed**, and the socio-political
+argument units formerly reachable only through the sibling `Political-Theory` base have been
+promoted and adapted into the ten Paper II owners:
+
+| Doctrine | Now Core in | Effect on this dossier |
+|---|---|---|
+| **Recognition (Taylor) and the recognition/redistribution debate (Fraser, Honneth)** | [Humanism-Secularism-Multiculturalism.md](../paper-2/socio-political/Humanism-Secularism-Multiculturalism.md) §3.3, §3A | §6 module recast as second-order |
+| **Restorative and communicative punishment (Duff; reintegrative shaming)** | [Crime-and-Punishment.md](../paper-2/socio-political/Crime-and-Punishment.md) §1A | §7 module recast as second-order |
+| **Productivism and the degrowth challenge** | [Development-Social-Progress.md](../paper-2/socio-political/Development-Social-Progress.md) §5A.3 | §8 module recast as second-order |
+| **Care ethics (Gilligan); intersectional mediation; adaptive preference** | [Gender-Discrimination.md](../paper-2/socio-political/Gender-Discrimination.md) §4.3A | §9 module recast as second-order |
+| Political obligation, civil disobedience, Hohfeldian rights, non-domination, deliberative democracy | Owners 1, 3, 4 | listed here only so that no reader looks for them in `_advanced` |
+
+None of the recast modules was deleted: each retains its interpretive dispute, its strongest
+counter-objection and its India-facing deployment note. What changed is the **status claim** —
+these doctrines are examinable Core, not optional extras.
+
 ---
 
 ## 1. Social and Political Ideals
@@ -26,14 +44,14 @@
 | Equality of what? | Dworkin: equal resources; Sen: capabilities; welfare views: equal satisfaction; Anderson: equal social standing | Core already covers equality, equity, liberty and justice without requiring a full metric-of-equality dispute |
 | Luck egalitarianism vs relational equality | Cohen/Arneson-style view corrects brute luck; Anderson-style view prioritises ending hierarchy and humiliation | Useful for evaluation, but not needed to answer the held corpus safely |
 | Rawls beyond the syllabus minimum | Lexical priority and ideal design defend fair basic structure; Sen criticises transcendental institutionalism and prefers comparative public reasoning | Core already includes the Rawls–Sen comparison required by PYQs |
-| Liberty as non-interference vs non-domination | Berlin/Mill-style emphasis on interference; republican emphasis on vulnerability to arbitrary power | Sharpens democracy answers, but democracy itself is owned elsewhere |
+| ✅ **Liberty as non-interference vs non-domination — now Core** | Berlin/Mill-style emphasis on interference; Pettit-style republican emphasis on vulnerability to arbitrary power | **Promoted 15 Aug 2026.** Optional residue: whether non-domination is a third concept of liberty or a demanding specification of the negative one |
 
 - **Strongest additional objection / reply:**  
   **Objection:** Capability language can become under-specified because it lacks one determinate distributive metric.  
   **Reply:** Its strength is precisely comparative public reasoning: it shows which freedoms people are actually able to convert into lives they can lead, instead of treating formal holdings as self-explanatory.
 - **India-centric safe use in 15/20 markers:** Use the debate to distinguish equal rights on paper, equal access to schooling/health, and equal civic standing in contexts such as reservation, welfare delivery or urban exclusion. Keep the example concept-led: the point is not policy detail, but the difference between equal rule, equal resources, equal capability and equal status.
 - **Risks / what not to over-study:** Do not replace Rawls, Nozick, Sen, Mill, Rousseau or Marx with secondary egalitarian literature. Do not turn the topic into public-policy enumeration.
-- **Promotion trigger:** Promote if a PYQ directly asks “equality of what?”, luck egalitarianism, relational equality, or liberty as non-domination.
+- **Promotion trigger:** ✅ **The capability metric and republican non-domination fired and were promoted on 15 Aug 2026** and are now Core. Still to promote if a PYQ asks it directly: “equality of what?”, luck egalitarianism or relational equality.
 - **Credible source trail:** Rawls, *A Theory of Justice*; Nozick, *Anarchy, State, and Utopia*; Sen, *The Idea of Justice*; Dworkin, *Sovereign Virtue*; G. A. Cohen, *Rescuing Justice and Equality*; Elizabeth Anderson, “What Is the Point of Equality?”
 
 ## 2. Sovereignty
@@ -63,7 +81,7 @@
 
 | Optional debate | Contending positions | Why it stays optional |
 |---|---|---|
-| Political obligation | Consent and contract; fair play and mutual benefit; natural duty of justice; associative obligation | Core only needs enough to explain justified individual–state relation |
+| ✅ **Political obligation — now Core** (the owner's obligation-families module) | Consent and contract; fair play and mutual benefit; natural duty of justice; associative obligation; and the civil-disobedience ladder built on them | **Promoted 15 Aug 2026.** Optional residue: philosophical anarchism's denial that any general obligation exists, and the fair-play/consent priority dispute |
 | Rights as choice vs protection | Will theory ties rights to agency/control; interest theory ties rights to protection of important interests | Helpful for sharpening the 2025 rights–duties question, but not indispensable |
 | Philosophical anarchism | Legitimate authority is deeply suspect; rival view says coordination, security and justice require justified political rule | The owner already covers the anarchist challenge at exam-safe level |
 | Accountability as answerability vs sanction | One view emphasises giving reasons publicly; another adds enforceable consequences | Useful in state-ethics answers, but more precise than the corpus demands directly |
@@ -73,7 +91,7 @@
   **Reply:** Duties are philosophically defensible only when the association itself is consistent with equal dignity and public justification; otherwise duty-talk becomes ideological cover for domination.
 - **India-centric safe use in 15/20 markers:** Use the tension between rights claims, civic duties, protest, welfare entitlements and public accountability in a constitutional democracy. The safe move is conceptual: show why rights without institutions are fragile and why duties without rights become paternalism.
 - **Risks / what not to over-study:** Do not sink time into highly technical analytic jurisprudence once Hohfeld and the main rights theories are secure. Do not let the topic drift into generic civics.
-- **Promotion trigger:** Promote if a future PYQ directly asks political obligation, fair play, associative duties, or the answerability/sanction distinction.
+- **Promotion trigger:** ✅ **Political obligation (all four families), civil disobedience and Hohfeld's incidents fired and were promoted on 15 Aug 2026** and are now Core. Still to promote if a PYQ asks it directly: the answerability/sanction distinction or the will/interest theory of rights.
 - **Credible source trail:** Locke, *Two Treatises of Government*; Hobbes, *Leviathan*; Rousseau, *The Social Contract*; Hohfeld, *Fundamental Legal Conceptions*; Hart, “Are There Any Natural Rights?”; Joseph Raz, *The Morality of Freedom*; John Simmons, *Moral Principles and Political Obligations*
 
 ## 4. Forms of Government
@@ -84,7 +102,7 @@
 | Optional debate | Contending positions | Why it stays optional |
 |---|---|---|
 | Why democracy is justified | Equal-status justification; good-outcomes or epistemic justification; public-reason justification; collective-autonomy justification | Core already covers democracy's structure and standard criticisms |
-| Deliberative vs aggregative democracy | Counting preferences may suffice; or legitimacy requires reason-giving, mutual justification and revisability | Useful for stronger evaluation of propaganda and democratic challenges |
+| ✅ **Deliberative vs aggregative democracy — now Core** | Counting preferences may suffice; or legitimacy requires reason-giving, mutual justification and revisability | **Promoted 15 Aug 2026** as the standard reply to the majoritarian objection. Optional residue: systemic/institutional designs of deliberation |
 | Epistocracy and expert rule | More competent rule may yield better decisions; rival view says unequal political power insults equal citizenship and is self-defeating | An advanced defence/critique, not a syllabus term |
 | Republican anti-domination | Democracy protects against arbitrary power, not just interference; liberal view prioritises rights and procedures | Helpful for bridging liberty and democracy, but owner architecture stays core |
 
@@ -93,7 +111,7 @@
   **Reply:** The strongest democratic answer keeps expertise advisory and contestable while preserving equal standing in authorising power; competence may inform rule, but may not replace political equality.
 - **India-centric safe use in 15/20 markers:** Use public reasoning, minority inclusion, media manipulation, federal diversity and institutional checks as examples of why democracy is more than periodic voting. Keep the example analytic, not event-driven.
 - **Risks / what not to over-study:** Do not over-study election technology, current-party tactics or global regime typologies. Do not let democracy theory erase monarchy and theocracy, both of which are repeatedly asked.
-- **Promotion trigger:** Promote if a PYQ directly asks deliberative democracy, epistocracy, public reason, or republican democracy.
+- **Promotion trigger:** ✅ **The deliberative justification of democracy fired and was promoted on 15 Aug 2026** and is now Core. Still to promote if a PYQ asks it directly: epistocracy, public reason as a named doctrine, or republican democracy.
 - **Credible source trail:** Plato, *Republic*; Aristotle, *Politics*; Mill, *Considerations on Representative Government*; Habermas, *Between Facts and Norms*; Nadia Urbinati, *Democracy Disfigured*; David Estlund, *Democratic Authority*; Philip Pettit, *Republicanism*
 
 ## 5. Political Ideologies
@@ -124,7 +142,7 @@
 | Optional debate | Contending positions | Why it stays optional |
 |---|---|---|
 | Secularism models beyond the minimum | Strict separation; neutrality; principled distance; accommodation under equal citizenship | Core already covers secularism, Gandhi and Indian distinctiveness |
-| Recognition vs redistribution | Cultural misrecognition harms status; rival view says economic injustice cannot be reduced to identity harms | Useful for evaluating multiculturalism's limits |
+| ✅ **Recognition vs redistribution — now Core** (§3.3, §3A of the owner) | Taylor on misrecognition as injury to identity; Fraser's bivalent status model; Honneth's recognition-as-deeper-category | **Promoted 15 Aug 2026.** What remains optional here is only the *second-order* question: whether Fraser's status remedy and Honneth's psychological grounding can be combined without one absorbing the other |
 | Multiculturalism vs interculturalism | Stable group recognition and differentiated rights; or deeper dialogic exchange across communities | A refinement after Taylor/Kymlicka/Parekh are secure |
 | Humanism after the “posthuman” challenge | Human-centred dignity remains basic; rival view warns against anthropocentrism and domination over nature/animals/technology | Advanced evaluative extension, not required by the corpus |
 
@@ -133,7 +151,7 @@
   **Reply:** The most defensible multiculturalism protects external vulnerability of groups while refusing internal coercion; recognition is legitimate only under the discipline of equal citizenship and revisable public reason.
 - **India-centric safe use in 15/20 markers:** Use linguistic, religious and cultural diversity; school symbols; minority protections; public funding; or community-person tensions only to show the difference between plural social fact, secular state principle and multicultural recognition policy.
 - **Risks / what not to over-study:** Do not collapse secularism into pluralism or multiculturalism. Do not turn answers into current-affairs incident lists. Do not add posthumanism unless the core triad is already under control.
-- **Promotion trigger:** Promote if a PYQ directly asks principled distance, recognition vs redistribution, interculturalism, or posthuman criticism of humanism.
+- **Promotion trigger:** ✅ **Recognition and the recognition/redistribution debate fired and were promoted on 15 Aug 2026** and are now Core. Still to promote if a PYQ asks it directly: principled distance as a standalone demand, interculturalism, or posthuman criticism of humanism.
 - **Credible source trail:** Tagore, *The Religion of Man* and *Nationalism*; M. N. Roy, writings on Radical Humanism; Charles Taylor, “The Politics of Recognition”; Will Kymlicka, *Multicultural Citizenship*; Bhikhu Parekh, *Rethinking Multiculturalism*; Rajeev Bhargava, “What Is Secularism For?”; Martha Nussbaum, *The New Religious Intolerance*
 
 ## 7. Crime and Punishment
@@ -143,8 +161,8 @@
 
 | Optional debate | Contending positions | Why it stays optional |
 |---|---|---|
-| Punishment as communication | Punishment expresses censure and recalls the offender to civic membership; rivals emphasise deterrence or desert | Useful when core theories are already mastered |
-| Restorative justice | Repair, dialogue and restoration; rival concern says public condemnation and equal justice may be diluted | Helpful for evaluation, but not directly asked in the corpus |
+| ✅ **Punishment as communication — now Core** (§1A of the owner) | Duff: punishment addresses the offender as a citizen, communicating censure and calling for repentance and reconciliation; rivals emphasise deterrence or bare desert | **Promoted 15 Aug 2026.** Optional residue: whether censure-communication can be *coercively* delivered without collapsing into hard treatment justified on other grounds |
+| ✅ **Restorative justice — now Core** (§1A.5, with Braithwaite's reintegrative shaming) | Repair, dialogue and restoration of relationships; rival concern says public condemnation and equal justice may be diluted | **Promoted 15 Aug 2026.** Optional residue: whether restorative practice scales to grave and mass crimes, and how it interacts with victim inequality |
 | Collective responsibility in mass violence | Structural and command responsibility matter; rival worry says guilt must remain strictly individual | Sharpens genocide/mass-violence analysis beyond the minimum |
 | Abolition vs limited retention of death penalty | One side rejects capital punishment categorically; the other allows tightly constrained retention under extreme culpability | Core already contains moral justifications and rights-based objections |
 
@@ -153,7 +171,7 @@
   **Reply:** The best restorative view is not anti-censure; it preserves condemnation while refusing vengeance as the sole mode of justice, and is strongest where reintegration and differentiated responsibility matter.
 - **India-centric safe use in 15/20 markers:** Use corruption in public office, communal or collective violence, custodial wrongs, juvenile culpability and death-penalty debates only as illustrations of how punishment balances dignity, desert, deterrence and fallibility. If you invoke a legal doctrine, mark it as time-sensitive and use it only if independently remembered accurately.
 - **Risks / what not to over-study:** Do not collect crime statistics, prison data or international convention lists here. Do not make genocide a merely historical catalogue. Keep theory first.
-- **Promotion trigger:** Promote if a PYQ directly asks restorative justice, communicative punishment, transitional justice, or collective responsibility.
+- **Promotion trigger:** ✅ **Restorative and communicative punishment fired and were promoted on 15 Aug 2026** and are now Core. Still to promote if a PYQ asks it directly: transitional justice or collective/command responsibility.
 - **Credible source trail:** Kant, *The Metaphysics of Morals*; Hegel, *Philosophy of Right*; Bentham, *An Introduction to the Principles of Morals and Legislation*; H. L. A. Hart, *Punishment and Responsibility*; Joel Feinberg, “The Expressive Function of Punishment”; Antony Duff, *Punishment, Communication, and Community*; Hannah Arendt, *Eichmann in Jerusalem*
 
 ## 8. Development and Social Progress
@@ -164,7 +182,7 @@
 | Optional debate | Contending positions | Why it stays optional |
 |---|---|---|
 | Capability vs resource/welfare metrics | Development is freedom/capability; rival views focus on goods, income or utility | Core already explains Sen and Nussbaum at exam-safe depth |
-| Post-development and degrowth | Mainstream development is coercive and homogenising; rival view says poverty reduction still requires institutions, technology and growth under justice | A strong evaluative extension, not a syllabus term |
+| ✅ **Degrowth and the productivism critique — now Core** (§5A.3 of the owner) | Growth-led development is coercive, homogenising and ecologically self-defeating; rival view says poverty reduction still requires institutions, technology and growth under justice | **Promoted 15 Aug 2026.** Optional residue: the stronger *post-development* claim that "development" as a category should be abandoned altogether |
 | Technology and value | Technology is instrumentally neutral; rival view says it embodies social power and can deform ends as well as means | Useful for the 2019 technology question, but not compulsory beyond core |
 | Gandhi vs Ambedkar on modernity | Village-centred restraint and decentralisation; rival insistence on industrial, legal and social transformation for dignity | Important as a controlled comparison, but Gandhi's core view stays in owner |
 
@@ -173,7 +191,7 @@
   **Reply:** Its strongest form need not reject roads, health or schooling; it warns against top-down models that treat people as objects of growth rather than agents of self-directed flourishing.
 - **India-centric safe use in 15/20 markers:** Use tribal displacement, education and skill formation, ecological cost, village decentralisation and capability conversion only as examples of the question: development for whom, by what metric, and at what moral cost?
 - **Risks / what not to over-study:** Do not convert this file into economy notes or environmental-current-affairs accumulation. Do not use GDP talk without a philosophical metric.
-- **Promotion trigger:** Promote if a PYQ directly asks degrowth, post-development, technology critique, or a Gandhi-vs-Ambedkar development comparison.
+- **Promotion trigger:** ✅ **Degrowth and the productivism critique fired and were promoted on 15 Aug 2026** and are now Core. Still to promote if a PYQ asks it directly: full post-development anti-institutionalism, or a standalone Gandhi-vs-Ambedkar development comparison.
 - **Credible source trail:** Sen, *Development as Freedom*; Nussbaum, *Women and Human Development*; Gandhi, *Hind Swaraj*; Ivan Illich, *Tools for Conviviality*; Wolfgang Sachs, ed., *The Development Dictionary*; Arturo Escobar, *Encountering Development*; Denis Goulet, *The Cruel Choice*
 
 ## 9. Gender Discrimination
@@ -183,9 +201,9 @@
 
 | Optional debate | Contending positions | Why it stays optional |
 |---|---|---|
-| Care ethics vs justice frameworks | Care, dependency and relationship are morally basic; rival view says equal rights and justice remain primary | Useful for richer evaluation, but not directly required by the corpus |
-| Intersectionality | Gender injustice is mediated by caste, class, religion and region; rival worry says the framework fragments common political language | A powerful Indian refinement, but second-line after core feminist distinctions |
-| Structural injustice | Wrong can be reproduced by many ordinary actions without one sole culprit; rival views prefer agent-centred blame | Sharpens empowerment and foeticide analysis beyond the minimum |
+| ✅ **Care ethics vs justice frameworks — now Core** (§4.3A of the owner) | Gilligan: a "different voice" organised around responsibility, relationship and response rather than abstract rights; rival view says equal rights and justice remain primary and that care risks re-naturalising women's servitude | **Promoted 15 Aug 2026.** Optional residue: whether care is a *rival* moral theory or a corrective *emphasis* inside justice reasoning |
+| ✅ **Intersectionality — now Core** | Gender injustice is mediated by caste, class, religion and region; rival worry says the framework fragments common political language | **Promoted 15 Aug 2026** as the Indian mediation of the syllabus terms; optional residue is only the methodological fragmentation debate |
+| Structural injustice | Wrong can be reproduced by many ordinary actions without one sole culprit; rival views prefer agent-centred blame | Genuinely optional: sharpens empowerment and foeticide analysis beyond the minimum |
 | Capability vs property-based empowerment | Formal asset rights matter; rival view says control, agency and conversion conditions matter more than title alone | Core already covers property and empowerment safely |
 
 - **Strongest additional objection / reply:**  
@@ -193,7 +211,7 @@
   **Reply:** The better reply distinguishes blame from responsibility: one may not be the sole cause, yet still bear duties to change institutions, norms and distributive patterns that sustain gender hierarchy.
 - **India-centric safe use in 15/20 markers:** Use unpaid care work, inheritance in practice, dowry-linked preference for sons, local political representation, education and bodily autonomy only to show how norms, institutions and resources interact. Keep “empowerment” tied to agency, not slogan.
 - **Risks / what not to over-study:** Do not make the answer a law list. Do not reduce gender to biology or empowerment to job access alone. Do not overload with imported theory before the syllabus triad is complete.
-- **Promotion trigger:** Promote if a PYQ directly asks care ethics, structural injustice, intersectionality, or adaptive preference.
+- **Promotion trigger:** ✅ **Care ethics, intersectionality and adaptive preference fired and were promoted on 15 Aug 2026** and are now Core. Still to promote if a PYQ asks it directly: Young-style structural injustice and the blame/responsibility split.
 - **Credible source trail:** Simone de Beauvoir, *The Second Sex*; Susan Moller Okin, *Justice, Gender, and the Family*; Carol Gilligan, *In a Different Voice*; Iris Marion Young, *Responsibility for Justice*; Sen, “More Than 100 Million Women Are Missing”; Nussbaum, *Women and Human Development*; Uma Chakravarti, *Gendering Caste*
 
 ## 10. Caste Discrimination: Gandhi and Ambedkar

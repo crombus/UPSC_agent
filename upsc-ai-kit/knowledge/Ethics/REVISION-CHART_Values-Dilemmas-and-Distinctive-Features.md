@@ -127,6 +127,7 @@ ATTITUDE TOWARD A SPECIFIC OBJECT
 |---|---|
 | Value vs attitude | General standard vs object-specific evaluation |
 | Attitude vs behaviour | Disposition vs actual act shaped also by context |
+| Moral vs political attitude | Moral = evaluative stance on right/wrong, retained and actively exercised in office; political = stance toward a party/ideology/contest for power, bracketed under non-partisanship (Conduct Rules, 1964, Rules 5 and 7) — policy awareness/implementation is not itself partisanship |
 | Persuasion vs coercion | Voluntary attitude change vs compliance through force/threat |
 | Compliance vs internalisation | External conformity vs genuine acceptance |
 
@@ -339,6 +340,18 @@ ETHICAL THEORIES + PUBLIC INTEREST
 
 `intrinsic value + stewardship + intergenerational justice + polluter responsibility + precaution`
 
+| Orientation | Core claim |
+|---|---|
+| Anthropocentric | Nature valued instrumentally, for human benefit |
+| Biocentric | All living organisms have inherent worth |
+| Ecocentric | Value attaches to the ecosystem/whole, not individual organisms |
+
+> **Named anchor:** *Vellore Citizens' Welfare Forum v. Union of India* (1996) — Supreme Court held
+> sustainable development, the precautionary principle and the polluter-pays principle are part of
+> Indian environmental law and Article 21, in a case-specific tannery-pollution judgment; ongoing
+> enforcement now runs substantially through the National Green Tribunal — not a general
+> environmental code in itself. Full treatment: `basic/13`.
+
 > **Core rule:** “Human in the loop” is meaningful only if the human has authority, competence, information and time to override the system.
 
 ---
@@ -496,27 +509,75 @@ ETHICAL THEORIES + PUBLIC INTEREST
 
 ## 23. Section-B case-study architecture
 
-### Six steps
+> **Full detail:** `basic/22_Case-Study-Method-and-Answer-Architecture.md` is the controlling,
+> independently answer-complete owner of this architecture; `advanced/22` adds optional deeper
+> theoretical/legal nuance and is not required to attain the full Section-B outcome. This chart is
+> a compressed revision aid, not a substitute for the owner file.
+
+### Eight elements
 
 ```text
-1. FACTS AND CENTRAL DILEMMA
-2. STAKEHOLDERS + ETHICAL ISSUES + HARD CONSTRAINTS
-3. REALISTIC OPTIONS, INCLUDING HYBRID/SEQUENCED OPTIONS
-4. EVALUATE EACH OPTION
-5. DECIDE AND JUSTIFY
-6. IMPLEMENT, COMMUNICATE, MITIGATE AND REVIEW
+1. FACTS                              2. STAKEHOLDERS
+Restate the dilemma in one line;         Every affected party — direct AND
+verify given vs assumed facts            indirect/silent (future generations,
+                                          absent parties, institutional credibility)
+
+3. CONSTRAINTS                        4. OPTIONS (3+, REALISTIC)
+Hard limits that bound the choice —      Realistic courses of action, including
+legal/delegation, time, information,     hybrid/sequenced options; one concrete
+resource, jurisdiction/capacity          pro AND con per option
+
+5. ETHICAL EVALUATION                 6. DECISION
+Deontology + consequentialism +          Chosen option and WHY — which check(s)
+virtue ethics, plus the six-check        were decisive, with the strongest
+framework (hard thresholds vs            counter-argument steelmanned and
+weighted checks)                         addressed, not ignored
+
+7. IMPLEMENTATION & COMMUNICATION     8. RESIDUAL-RISK MITIGATION
+How the decision is executed and         The specific risk that survives the
+communicated to seniors, juniors         decision, its monitoring/review
+and affected parties                     mechanism, and who is accountable
 ```
 
-### Six checks
+> **Core rule:** Never jump directly to "I will do X." Map constraints separately from stakeholders,
+> generate 3+ real options, evaluate explicitly, steelman the strongest objection to your decision,
+> and close with a named residual risk — never a single-paragraph narrative reaction.
 
-| Check | Question |
-|---|---|
-| Conflict of interest | Is private interest influencing duty? |
-| Legality | Is the option within law, authority and procedure? |
-| Public interest | Who benefits and who bears the burden? |
-| Proportionality | Is response calibrated to the harm? |
-| Transparency | Can the decision and reasons survive scrutiny? |
-| Compassion + long term | Are dignity and future consequences protected? |
+### Hard thresholds vs weighted checks
+
+| Check | Question | Threshold type |
+|---|---|---|
+| Conflict of interest | Is private interest influencing duty? | Near-hard threshold — disclose/recuse/refer/publish (Sec. 4 of the owner file), not merely weighed |
+| Legality | Is the option within law, authority and procedure? | Hard threshold — an illegal option is eliminated outright, never balanced against its benefits |
+| Public interest | Who benefits and who bears the burden? | Weighted — balanced case-by-case against the other weighted checks |
+| Proportionality | Is response calibrated to the harm? | Weighted |
+| Transparency | Can the decision and reasons survive scrutiny? | Weighted |
+| Compassion + long term | Are dignity and future consequences protected? | Weighted |
+
+> **Exam technique:** name the hard-threshold checks first (they eliminate options), then apply the
+> weighted checks to the survivors, then state which weighted check was decisive — this sequencing
+> itself signals analytical maturity.
+
+### Steelman and residual-risk close
+
+- **Steelman (Element 6):** state the *strongest* — not a weak — objection to the chosen decision,
+  then either show why it does not overturn the conclusion or modify the decision to accommodate its
+  valid part, in two or three lines.
+- **Residual-risk close (Element 8):** name the specific risk that survives the decision -> state
+  the monitoring/review mechanism -> name who is accountable for it. Never close with "the problem
+  is resolved."
+
+### Domain links (cite the applicable named instrument, not a generic "there is a law for this")
+
+| Domain | Named anchor | Owner |
+|---|---|---|
+| Workplace harassment | Vishaka Guidelines (1997) + POSH Act, 2013 — Internal Committee (IC; termed "Internal Complaints Committee" in the principal-office wording of s.4) | `22` Sec. 14.6, `23` Sec. 4.1 |
+| Public-funds/procurement propriety | GFR Rule 157 (goods-specific piecemeal-purchase bar) vs the broader works/services/tender-threshold splitting analogy under the applicable works rule and delegation-of-financial-powers framework | `18`, `22` Sec. 14.1 |
+| Cross-border/refugee protection | *NHRC v. Arunachal Pradesh* (1996, final judgment) read with *Mohammad Salimullah* (2021, interim order declining a stay — not a final holding on customary non-refoulement) | `22` Sec. 14.5, `23` Sec. 4.2 |
+| Custodial justice/police excess | D.K. Basu v. State of West Bengal (1997) safeguards | `22` Sec. 14.12, `23` Sec. 4.4 |
+| Data/privacy | *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017) 10 SCC 1 — privacy as a fundamental right, subject to a proportionality test — read with the DPDP Act, 2023's consent/purpose-limitation/data-minimisation principles (phased commencement — verify status before citing) | `13` Sec. 11A, `15`, `22` Sec. 14.13 |
+| Scarce-resource triage | Consequentialist vs compassion/priority-to-the-worst-off trade-off (`08` Sec. 12), applied via published, clinically-anchored criteria | `22` Sec. 11, Sec. 14.14 |
+| Political pressure/politicisation | Written-record and dissent-ladder method (Sec. 8-9 of the owner file), not a partisan leak or a reflexive resignation | `22` Sec. 14.15 |
 
 ### Option table
 
@@ -525,8 +586,6 @@ ETHICAL THEORIES + PUBLIC INTEREST
 | A | Immediate gain | Duty/right/institutional cost | Name theory | Safeguard |
 | B | Rule certainty | Human/consequence cost | Name theory | Safeguard |
 | C/hybrid | Balances legitimate claims | Execution complexity | Practical wisdom | Written plan |
-
-> **Core rule:** Never jump directly to “I will do X.” Compare options, state constraints and finish with an implementable administrative plan.
 
 ---
 
@@ -542,6 +601,9 @@ ETHICAL THEORIES + PUBLIC INTEREST
 | CARD | Technology alone may not reduce corruption |
 | Hong Kong ICAC | Enforcement + prevention + public education |
 | Finland | Institutional culture and rule of law beyond penalty severity |
+| D.K. Basu v. State of West Bengal (1997) | Custodial-justice safeguards on arrest/detention (Art. 21/22) |
+| Vishaka & Ors v. State of Rajasthan (1997) / POSH Act, 2013 | Workplace-harassment redress via the Internal Committee (IC) |
+| NHRC v. Arunachal Pradesh (1996) / Mohammad Salimullah (2021, interim order) | Non-citizen due process vs the open non-refoulement debate |
 
 > **Example rule:** Use verified mechanism, not a hero story or vague country comparison.
 
@@ -640,7 +702,7 @@ ETHICAL THEORIES + PUBLIC INTEREST
 11. Compare Ethics and Conduct codes.
 12. State public-money failure types.
 13. Distinguish coercive and collusive corruption.
-14. Draw six-step case-study method and six checks.
+14. Draw the eight-element case-study architecture and the six checks (hard threshold vs weighted).
 15. Recall four named Indian examples with exact mechanisms.
 
 ---

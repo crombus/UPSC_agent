@@ -24,8 +24,8 @@ rehabilitation mandate)        State vigilance                 incomplete
         |                              |                            |
         v                              v                            v
 Court direction                Inspection capacity             SURVEY COUNT
-₹10L compensation              weak; contractor                vs actual
-(SK Andolan 2014)              accountability gap              scavenger
+₹30L death / ₹20L-₹10L injury  weak; contractor                vs actual
+(Balram Singh 2023)            accountability gap              scavenger
         |                              |                        population
         |                              |                            |
         v                              v                            v
@@ -71,7 +71,7 @@ continued body.
    liability is diffused.
 3. **Prosecution rarity:** Despite criminal provisions, FIRs under the 2013 Act are
    rare; most cases are treated as "accidents" rather than prohibited employment.
-4. **Compensation delay:** The ₹10 lakh compensation (court-directed) is often delayed
+4. **Compensation delay:** The current court-directed compensation is often delayed
    or disputed; families lack documentation to claim.
 
 ### Caste-labour persistence chain
@@ -132,8 +132,8 @@ continued body.
 
 - ✅ PEMSR Act, 2013, criminalises both manual scavenging (insanitary latrines) and
   hazardous cleaning (sewers/septic tanks) as distinct but related offences.
-- ✅ The ₹10 lakh compensation is a Supreme Court direction (2014), not a statutory
-  provision of the 2013 Act.
+- ✅ Dr Balram Singh (2023) prescribes ₹30 lakh for death, at least ₹20 lakh for
+  permanent disability and ₹10 lakh for other injury; these are judicial directions.
 - ✅ NCSK was established under the NCSK Act, 1993, but that Act's tenure lapsed; its
   current executive-resolution term is through 31 March 2028, not a standing mandate.
 - ✅ NAMASTE (2022-23) is jointly administered by MoSJE and MoHUA.
@@ -143,9 +143,8 @@ continued body.
 - ❌ NCSK has the same constitutional status as NCSC/NCST. -> NCSC/NCST are constitutional
   bodies (Articles 338, 338A); NCSK is a statutory-origin body now resolution-continued,
   with no constitutional backing.
-- ❌ The 2013 Act mandates ₹10 lakh compensation for sewer deaths. -> The compensation
-  figure comes from the Supreme Court direction in Safai Karamchari Andolan (2014), not
-  the statute.
+- ❌ The 2013 Act schedules sewer-death compensation. -> Current compensation tiers
+  come from Dr Balram Singh (2023), not the statute.
 - ❌ Mechanisation under NAMASTE fully eliminates human entry into sewers. -> NAMASTE
   emphasises PPE and safety equipment for workers who still enter; full robotic
   substitution is not yet achieved.

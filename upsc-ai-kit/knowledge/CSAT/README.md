@@ -35,13 +35,13 @@
   carries **no penalty**.
 - ✅ **Scoring base (from each Set-A key scan):** all three years record **`No. of Questions Dropped =
   0`** and **`No. of Questions taken for Scoring = 80`** - i.e. every item counted in each audited year.
-- ⚠️ **Qualifying nature - and where the number actually comes from:** **none of the supplied papers
-  or key scans prints a qualifying percentage.** UPSC's Prelims scheme treats Paper II as
-  **qualifying**, with a minimum standard commonly stated as **33%**, and only Paper I (GS-I) marks
-  deciding the Prelims merit/cut-off - but that is a **rule of the Civil Services Examination
-  notification, not a fact recoverable from these six files**. `33% of 200 = 66` is arithmetic on an
-  unverified premise. **Confirm the threshold and the scheme against the current year's official
-  notification before relying on either.** This module does not invent policy and does not certify one.
+- ✅ **Qualifying nature - and where the number comes from:** none of the
+  supplied paper/key scans prints a qualifying percentage, but the
+  repository's official UPSC syllabus/scheme text does. Paper II is
+  qualifying with the minimum fixed at **33%**, so `33% of 200 = 66`
+  marks. Only Paper I marks determine the Prelims merit ranking after
+  both-paper and CSAT qualification conditions are met. Re-check the
+  current notification for any change.
 
 > 🔑 **Consequence for study:** the goal is **safe, reliable qualification**, not a top rank. A
 > module built for CSAT therefore optimises **accuracy, selection and time control**, not exhaustive
@@ -61,9 +61,9 @@
   **only after genuine elimination** raises the success probability above one-in-four (see
   [Master Framework](00_Master-Framework.md), error and risk sections).
 
-**⚠️ Derived working table - correct answers needed, *if* the bar were 66/200.** The 66 is **not**
-from any supplied source (see Section 1); the arithmetic below is exact **given** that premise, and
-must be re-derived if the notification says otherwise. Minimum correct `C` for a target `T` with `W`
+**Derived working table - correct answers needed for the official
+66/200 minimum.** The arithmetic below must be re-derived if a later
+notification changes the rule. Minimum correct `C` for a target `T` with `W`
 wrong is `C >= (T + (5/6)W) / 2.5`; for `T = 66` this is `C >= 26.4 + W/3`.
 
 | Wrong answers | Minimum correct needed | Items attempted | Net marks at that minimum |
@@ -128,9 +128,9 @@ Full local map: [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAP
 | `Decision making and problem solving.` | **COVERED** | [`00_Master-Framework.md`](00_Master-Framework.md), [`basic/05_Algebra-Inequalities-and-Data-Sufficiency.md`](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`basic/06_Logical-Reasoning-Coding-Counting-and-DI.md`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) | Data sufficiency, scenario decisions and DI interpretation are already practiced via the audited 2024-2026 Set-A families. |
 | `General mental ability.` | **COVERED** | [`basic/08_General-Mental-Ability-Integrated-Map.md`](basic/08_General-Mental-Ability-Integrated-Map.md), integrating specialist Core Topics 02-07 | Topic 08 supplies the explicit umbrella, classification and revision-routing spine; question-level routes remain with the mechanism owner to avoid duplication. |
 | `Basic numeracy ... Data interpretation ...` | **COVERED** | [`basic/02_...`](basic/02_Number-Systems-and-Number-Sense.md), [`basic/03_...`](basic/03_Arithmetic-and-Commercial-Math.md), [`basic/04_...`](basic/04_Rates-Motion-Time-and-Geometry.md), [`basic/05_...`](basic/05_Algebra-Inequalities-and-Data-Sufficiency.md), [`basic/06_...`](basic/06_Logical-Reasoning-Coding-Counting-and-DI.md) plus paired advanced files | Numeracy, DS and DI are split cleanly across Topics 02-06 and reconciled through the 240-question audit. |
-| `Note 1 ... qualifying ... 33%.` | **PARTIAL** | [`00_Master-Framework.md`](00_Master-Framework.md), [`00_Readiness-Tracker.md`](00_Readiness-Tracker.md) | Caveat preserved: 33% belongs to the **notification**, not to the audited paper PDFs; all safe-score arithmetic is explicitly derived under that verification warning. |
+| `Note 1 ... qualifying ... 33%.` | **COVERED** | [`00_Master-Framework.md`](00_Master-Framework.md), [`00_Readiness-Tracker.md`](00_Readiness-Tracker.md) | Official scheme rule: 33% = 66/200. The higher mock target remains personal and separate. |
 | `Note 2 ... multiple choice, objective type.` | **COVERED** | [`00_Master-Framework.md`](00_Master-Framework.md) | The instruction-page audit already captures 80 objective items, four responses, one-response marking and penalty logic. |
-| `Note 3 ... mandatory ... both the Papers ... disqualified ...` | **PARTIAL** | [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAPPING.md) | Administrative exam-scheme rule noted here for completeness; no separate PYQ-training file depends on it. |
+| `Note 3 ... mandatory ... both the Papers ... disqualified ...` | **COVERED** | [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAPPING.md), this README | Administrative scheme rule: appearance in both papers is mandatory; it does not require a separate solving-skill owner. |
 
 ## 4. How Foundation vs Advanced Drill works
 

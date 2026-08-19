@@ -222,6 +222,158 @@ Marxism is simultaneously:
 
 ---
 
+## 2A. FROM CLASSICAL TO NEO-MARXISM — WHAT CHANGES, AND WHY
+
+> ⚠️ **Why this section exists.** "Marxism" in a Paper II stem is not one doctrine. Answers that treat Marx, Lenin, Gramsci and Althusser as a single voice lose marks twice over — once for imprecision, once for missing the internal debate where the analytical interest lies. This section states exactly **which classical claim each successor revises, and on what ground**. It is a named-scholar reconstruction; no page, chapter, edition or verbatim wording is asserted.
+
+### 2A.1 The four classical claims that later Marxists revise
+
+| # | Classical claim (§2) | Who revises it | What replaces it |
+|---|---|---|---|
+| C1 ✅ | Revolution matures where capitalism is most advanced; class consciousness develops from the workers' own conditions | **Lenin** | a vanguard party supplies political consciousness; the weakest link in the imperialist chain, not the strongest economy, breaks first |
+| C2 ✅ | Ruling ideas are the ideas of the ruling class; ideology is a reflex of the base | **Gramsci** | ideology is an active, contested achievement — **hegemony** won and lost in civil society |
+| C3 ✅ | The state is an instrument of the ruling class | **Miliband → Poulantzas** | instrumental capture vs **relative autonomy** of the capitalist state |
+| C4 ✅ | Consciousness is determined by social being | **Althusser** | subjects are **produced** by ideological apparatuses through interpellation; the humanist categories of alienation and species-being are displaced by structural analysis |
+
+⚠️ **The one-line thesis:** neo-Marxism does not abandon the materialist mechanism; it **relocates causal weight into the superstructure** — into party, culture, state form and subject-formation — while retaining the claim that class relations are the ultimate site of conflict. Say this explicitly; it is the difference between an answer that reports positions and one that explains a trajectory.
+
+### 2A.2 Lenin: imperialism, the weakest link and the vanguard
+
+✅ **V. I. Lenin** revises classical expectation at two points.
+
+1. **Imperialism as the highest stage of capitalism.** Monopoly capital exports capital abroad, and superprofits from colonial and semi-colonial exploitation allow concessions to a stratum of workers at home. This explains why revolution did not erupt first in the most advanced economies, and it converts capitalism into a **global** system whose contradictions are unevenly distributed. ⚠️ The corollary — that the chain breaks at its **weakest link**, in a country of combined and uneven development rather than in the most industrialised one — is the analytically important move.
+2. **The vanguard party.** Left to itself, working-class struggle generates only trade-union consciousness — better wages and conditions within capitalism. Revolutionary political consciousness must be brought in from outside by a disciplined organisation of professional revolutionaries operating under **democratic centralism**: free discussion before decision, unity of action after it.
+
+**Reconstructed argument for the vanguard ⚠️:**
+
+1. capitalism reproduces the ruling ideology through daily life, so spontaneous consciousness does not exceed reformism;
+2. a revolutionary situation is brief and requires prepared organisation to be seized;
+3. under repression, open mass organisation is impossible;
+4. therefore a centralised party of professional revolutionaries is a necessary instrument;
+5. the party's authority is justified instrumentally — by its capacity to bring theory to the class.
+
+**Presupposition ⚠️:** the party can be a reliable bearer of class interest, and its own organisational interest will not displace that of the class.
+
+**Objection → Reply ⚠️:**
+
+- **Objection:** premise 5 is exactly where substitutionism begins — the party stands for the class, then the central committee for the party, then the leadership for the committee. The instrument becomes a new ruling stratum, which is the historical objection at §2.9.
+  **Reply:** ⚠️ Leninists reply that democratic centralism includes accountability and recall, and that emergency centralisation was conjunctural. The residual problem is severe and should be conceded: no institutional mechanism in the model reliably subordinates the party to the class it claims to represent.
+- **Objection (anarchist, §4.1):** this vindicates Bakunin's warning that a workers' state becomes a new despotism.
+  **Reply:** ⚠️ the Marxist counter is that abolishing organisation does not abolish power but disperses it unaccountably. The exchange is genuinely unresolved and should be presented as such.
+
+### 2A.3 Gramsci: hegemony, civil society and the war of position
+
+✅ **Antonio Gramsci** asks why capitalism survived defeat and crisis in Western Europe. His answer: in the West, class rule operates not chiefly through coercion but through **hegemony** — moral, intellectual and cultural leadership that secures the **consent** of the subordinated to an order that disadvantages them.
+
+| Sphere | Mode of rule | Institutions | Gramsci's term |
+|---|---|---|---|
+| **Political society** ✅ | direct domination through force and law | state apparatus, army, police, courts, administration | *dominio* — coercion |
+| **Civil society** ✅ | leadership through consent | school, family, church, press, associations, popular culture | *egemonia* — hegemony |
+
+**Reconstructed argument ⚠️:**
+
+1. sustained rule by coercion alone is unstable and costly;
+2. in developed civil societies, subordinate groups actively consent to the prevailing order because its assumptions appear as ordinary common sense;
+3. this consent is manufactured and maintained through the institutions of civil society, staffed by **organic intellectuals** who articulate a class's outlook as universal;
+4. therefore civil society is not a neutral space outside power but the principal terrain of class struggle;
+5. hence a frontal seizure of the state — a **war of manoeuvre** — fails in the West; what is required is a **war of position**, the patient construction of a **counter-hegemony** across cultural and educational institutions before political power can be held.
+
+**Presupposition ⚠️:** the superstructure has real causal weight, and ideas are material forces once they organise conduct.
+
+**What this changes ✅:** classical Marxism treats the ruling ideas as a reflex of the base; Gramsci makes ideological leadership an **achievement that can be lost and won**. This is the first substantial concession of relative autonomy to the superstructure and is the foundation of everything in §2A.4 and §2A.5.
+
+**Objection → Reply ⚠️:**
+
+- **Objection:** if consent is hegemonic, how can the subordinated ever recognise their situation? The theory risks a closed circle in which every disagreement is proof of false consciousness.
+  **Reply:** ⚠️ Gramsci's own answer is the **contradictory consciousness** of subordinate groups — an inherited common sense coexisting with a "good sense" derived from practical experience of exploitation, which organic intellectuals can develop. The residual problem is that the theory does not supply an independent test for distinguishing hegemony from ordinary agreement.
+- **Objection:** the concept licenses culturalism — endless struggle over ideas with no confrontation of economic power.
+  **Reply:** ⚠️ correct as a warning about how Gramsci is used; war of position is preparatory, not a substitute for transforming property relations.
+
+⚠️ **India-facing note:** the vocabulary of civil society, common sense, organic intellectuals and counter-hegemony has obvious application to caste and to social reform, and is often used that way. ✅ Note the affinity with Ambedkar's insistence that caste is sustained by belief, sanctified authority and social sanction, not by force alone — while recording that the two frameworks locate the ultimate mechanism differently (§4.3 of the [Caste file](Caste-Gandhi-Ambedkar.md)). ❌ Do not attribute Gramscian vocabulary to Ambedkar or vice versa.
+
+### 2A.4 Althusser: RSA, ISA and interpellation
+
+✅ **Louis Althusser** represents the **structuralist**, anti-humanist strain of neo-Marxism. He resists reading Marx through alienation and species-being, and asks instead how the **relations of production are reproduced** from one generation to the next.
+
+**The two apparatuses ✅:**
+
+| | **Repressive State Apparatus (RSA)** | **Ideological State Apparatuses (ISAs)** |
+|---|---|---|
+| Number | one, unified, public | plural, largely in the private domain |
+| Instances | government, administration, army, police, courts, prisons | school, family, religion, law, political parties, trade unions, communications, culture |
+| Primary mode | functions **by violence**, secondarily by ideology | function **by ideology**, secondarily by repression |
+| Function | secures the political conditions of reproduction | reproduces the relations of production — above all through the **school** in mature capitalism |
+
+**Interpellation ✅:** ideology has no history and no outside; it works by **hailing** individuals as subjects. In recognising oneself as the one addressed — as pupil, believer, citizen, consumer, worker — the individual is constituted as a subject who freely does what the structure requires. ⚠️ The point is not that ideology is a false picture in someone's head, but that it is a **material practice** embedded in rituals, institutions and conduct, which produces the very subject who then experiences itself as freely choosing.
+
+**Reconstructed argument ⚠️:**
+
+1. every social formation must reproduce its productive forces *and* its relations of production to survive;
+2. reproduction of relations cannot be secured by repression alone, since it must be renewed daily and voluntarily;
+3. it is secured by ISAs, which distribute skills together with submission to the established order;
+4. ISAs work by constituting individuals as subjects who recognise themselves in the roles assigned;
+5. therefore ideology is not a reflection of the base but a **condition of the base's continued existence**;
+6. hence analysis should proceed structurally, not through the consciousness of a human subject.
+
+**Presupposition ⚠️:** explanatory priority belongs to structures over agents; the "subject" is an effect, not an origin.
+
+**Gramsci vs Althusser — the distinction examiners reward ⚠️:** both give the superstructure real weight, but Gramsci's civil society is a **terrain of contest** where hegemony can be lost and counter-hegemony built, while Althusser's ISAs are primarily **mechanisms of reproduction**. Gramsci leaves more room for agency and for political strategy; Althusser explains stability more powerfully but struggles to explain change. ❌ Do not run them together as "the neo-Marxist theory of ideology".
+
+**Objection → Reply ⚠️:**
+
+- **Objection:** if subjects are constituted by ideology, resistance becomes unintelligible — who is left to resist, and from where?
+  **Reply:** ⚠️ Althusserians point to the plurality of ISAs and to contradictions among them, and to the **overdetermination** of any conjuncture by multiple contradictions rather than by a single economic one. The residual problem — a thin account of agency — is real and should be stated, not concealed.
+- **Objection:** classifying family, church and media as *State* apparatuses stretches the concept of the state past usefulness.
+  **Reply:** ⚠️ Althusser's reply is that the public/private distinction is itself internal to bourgeois law; the objection nonetheless has force, and Gramsci's civil-society vocabulary avoids the strain.
+
+### 2A.5 Miliband and Poulantzas: instrumentalism against relative autonomy
+
+✅ **Ralph Miliband**, *The State in Capitalist Society* (**1969**) — the **instrumentalist** thesis. The capitalist state serves the capitalist class through three identifiable mechanisms:
+
+1. **social composition** — senior state personnel are drawn disproportionately from, and are socialised into, the propertied and professional classes;
+2. **structural leverage** — capital exercises direct economic power over the state through investment decisions, employment, finance and organised lobbying;
+3. **positional interest** — politicians and officials have their own stake in preserving the economic order that sustains their position.
+
+✅ **Nicos Poulantzas**, *Political Power and Social Classes* (**1973**) — the **structuralist** reply. Class domination is not automatically translated into state power. The capitalist state possesses **relative autonomy** from any particular fraction of capital, and this autonomy is *functional* for capitalism:
+
+1. capital is internally divided into competing fractions with conflicting short-term interests;
+2. no fraction can be trusted to legislate for the long-run reproduction of the system;
+3. the state must therefore be able to act against particular capitalists in the interest of capital in general;
+4. it must also present itself as representing "the people" rather than one class, which is the condition of its legitimacy;
+5. therefore the state is best understood as a **condensation of class forces** — an arena in which struggle is fought out — rather than as an instrument held by a class.
+
+⚠️ **The internal limit, which must be stated.** If relative autonomy is stretched far enough, the analysis ceases to be Marxist at all: a state autonomous from class power in the last instance is simply the pluralist state under another name. The debate's value lies precisely in this boundary — autonomy must be **relative**, and an answer that omits the qualifier has lost the argument.
+
+| Axis | **Miliband (1969)** | **Poulantzas (1973)** |
+|---|---|---|
+| Method | empirical-sociological: who staffs the state, who pressures it | structural: what function the state must perform |
+| State is | an instrument held by a class | an arena condensing class forces |
+| Autonomy | minimal; apparent autonomy is disguised capture | real but **relative**, and functional for capital |
+| Explains well | personnel networks, lobbying, revolving doors | welfare concessions, regulation against particular capitalists |
+| Weakness | cannot explain state action against individual capitalists | risks functionalism — the state does what capital "needs" by definition |
+
+**Use in an answer ✅:** run it as **claim (Miliband) → objection (Poulantzas) → internal limit (autonomy must remain relative)**. This three-move structure is the single most efficient way to show command of the Marxist theory of the state, and it directly repairs the "economic determinism" reply at §2.9.
+
+### 2A.6 Indian application (legal-status caution)
+
+⚠️ These are **conceptual** applications. This file asserts no empirical claim about any Indian government, party, period or class.
+
+- ✅ The Constitution of India's Directive Principles (Part IV) — including Articles 38, 39 and 43 on minimising inequalities of income, status and opportunity and on distribution of material resources — are **non-justiciable** constitutional directives. ⚠️ Their presence in the text is a legal fact; it neither proves that the Indian state is relatively autonomous nor that it is an instrument of any class. Use them to illustrate what a *state committed to social transformation on paper* looks like, then argue the philosophy separately.
+- ⚠️ The Gramscian question — whether a hierarchy survives by force or by consent — has clear analytical purchase on caste, where sanction operates through belief, ritual authority and social ostracism as much as through violence. ✅ Ambedkar's independent argument that caste is sustained by a sanctified belief-system, and therefore requires an attack on its scriptural authority rather than only on its economic effects, is the Indian statement of the same structural point. ❌ Do not merge the two frameworks or attribute either thinker's vocabulary to the other; the doctrine is owned by the [Caste file](Caste-Gandhi-Ambedkar.md).
+- ❌ Do not use any Indian statute, scheme or judgment as evidence that a Marxist thesis is true or false. A statute shows what a state has enacted; it cannot settle a question about the state's class character.
+
+### 2A.7 Ownership routing
+
+⚠️ **Kept elsewhere on purpose, to avoid duplicate ownership:**
+
+- **Thoreau, civil disobedience, and the political-obligation families** → [Individual and State](Individual-and-State.md) §4A. This file names Thoreauvian resistance only as a variant within individualist anarchism (§1.4); do not develop the disobedience ladder here.
+- **Weber's authority types, Schumpeter's competitive democracy, Michels's iron law, populism and illiberal democracy** → [Forms of Government](Forms-of-Government.md) §4A.
+- **Recognition versus redistribution (Fraser, Honneth)** → [Humanism, Secularism, Multiculturalism](Humanism-Secularism-Multiculturalism.md) §3A.
+- **Ecological critique of productivism, deep ecology and degrowth** → [Development and Social Progress](Development-Social-Progress.md) §5A.
+- **Marxist and socialist feminism** → [Gender Discrimination](Gender-Discrimination.md) §5.3A.
+
+---
+
 ## 3. SOCIALISM
 
 ### 3.1 Doctrine statement
@@ -355,6 +507,9 @@ It is wider than Marxism. A socialist may support revolution or parliament, plan
 
 ### 7.1 Keywords
 
+**Promoted vocabulary (this pass) ⚠️:** weakest link · vanguard party · democratic centralism · trade-union consciousness · substitutionism · hegemony · political society vs civil society · organic intellectuals · war of position · war of manoeuvre · counter-hegemony · contradictory consciousness · Repressive State Apparatus · Ideological State Apparatuses · interpellation · overdetermination · instrumentalism · structuralism · relative autonomy · condensation of class forces
+
+
 - **Anarchism:** anti-statism · autonomy · voluntary association · mutual aid · federation · decentralisation · philosophical anarchism · domination
 - **Marxism:** historical materialism · mode of production · productive forces · relations of production · class struggle · alienation · surplus value · ideology · praxis · proletarian transition
 - **Socialism:** social ownership · democratic control · cooperation · need · guild socialism · market socialism · democratic socialism · trusteeship · *sarvodaya*
@@ -403,44 +558,76 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 
 ## 9. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
-### 9.1 10 marks
+### 9.0 Directive decoder — the verb fixes the structure
 
-```text
-Definition : identify the ideology/doctrine in one sentence.
-Mechanism  : give 3–4 linked steps (not a list of slogans).
-Distinction: contrast state/order, alienation/poverty, socialism/communism, etc.
-Critique   : one strong objection and one reply.
-Verdict    : answer the directive in one qualified sentence.
-```
+| Directive in the stem | What is actually scored | Compulsory structural move | Failure mode |
+|---|---|---|---|
+| **Explain / Elucidate** | internal logic of one doctrine | statement → premises → key distinction → one example | inserting criticism at the cost of exposition |
+| **Discuss** | exposition plus one adjudicated tension | doctrine → rival → objection → reply → verdict | narrating the history of a movement |
+| **Critically examine / evaluate** | the objection–reply layer *is* the answer | two objections, each with reply and a **residual** problem | listing the failures of communist states as though that refuted a theory |
+| **Is X still relevant?** | separate diagnostic power from predictive and institutional success | what the analysis still explains → what it failed to predict → what survives → verdict | answering with contemporary examples instead of an argument |
+| **Compare / Distinguish** | shared axes run in parallel | fix 3–4 axes, run both doctrines down each, adjudicate | two sequential doctrine summaries |
+| **Comment on a quoted line** | locate the line in its doctrine before judging | source doctrine → what it asserts → limit → verdict | treating the quotation as self-explanatory |
 
-**For alienation:** define → four dimensions → wage distinction → species-being objection → critical relevance.
+### 9.1 10-mark method (~150 words · 4 moves · ~12 minutes)
 
-### 9.2 15 marks
+1. **Exact doctrine (2 lines)** in technical vocabulary: *forces and relations of production*, *surplus value*, *species-being*, *hegemony*, *interpellation*, *relative autonomy*, *trusteeship*, *mutual aid*.
+2. **Mechanism (4–5 lines)** as numbered premises — a causal chain, never a list of slogans.
+3. **One evidence unit** from §9.4 with its limitation.
+4. **Graded verdict (2 lines)** from §9.5.
 
-```text
-Frame : state the problem—authority, class power, property or freedom.
-Body A: doctrine, argument and presupposition.
-Body B: rival view or internal variants.
-Critique/reply: strongest objection, not a generic failure list.
-Assess: what survives analytically and what fails institutionally.
-Close : explicit evaluative judgment.
-```
+> ❌ At 10 marks do not run the classical-to-neo trajectory. Use one doctrine or one revision, fully worked.
 
-**For Marxism in 2025:** method + critique + political project → strengths → determinism/authoritarianism/class reduction → graded verdict.
+**Worked example — alienation:** define estrangement under conditions of private property and division of labour → four dimensions (from the product, from the act of production, from species-being, from other human beings) → the distinction from low wages, which is the mark-bearing move → the species-being objection → verdict on its diagnostic reach in contemporary work.
 
-### 9.3 20 marks
+### 9.2 15-mark method (~220 words · 6 moves · ~18 minutes)
 
-```text
-Frame   : locate the doctrine historically and state what turns on it.
-Exposit : full internal argument with technical vocabulary.
-Compare : strongest rival (anarchist, socialist, liberal or Gandhian).
-Debate  : two objections and replies.
-India   : one conceptually controlled illustration, never proof by scheme.
-Assess  : separate diagnostic power from predictive/institutional success.
-Close   : philosophical conclusion on freedom and domination.
-```
+1. **Frame the problem** — authority, class power, property, freedom or ideology — not the topic.
+2. **Doctrine** with its argument and presupposition stated.
+3. **The internal rival first**, then the external one. ⚠️ Bringing Lenin, Gramsci, Poulantzas or Bernstein *before* the liberal critique demonstrates control of the tradition.
+4. **One table**: the four revisions (§2A.1), Gramsci's two spheres (§2A.3), RSA/ISA (§2A.4) or Miliband/Poulantzas (§2A.5).
+5. **One fully worked objection → reply → residual problem.**
+6. **Conditional verdict** separating analytical survival from institutional failure.
 
-**For historical materialism:** forces/relations → contradiction/class struggle → base-superstructure nuance → relevance → reductionism objection/reply → verdict.
+### 9.3 20-mark method (~300 words · 8 moves · ~25 minutes)
+
+1. **Provisional thesis** using the stem's own directive verb.
+2. **Locate the doctrine** historically and state what turns on it.
+3. **Full internal argument** in technical vocabulary.
+4. **The classical → neo trajectory** where the stem concerns Marxism: name which classical claim is revised and on what ground (§2A.1). This is the highest-yield single move available in this file.
+5. **Strongest external rival** — anarchist, liberal, social-democratic or Gandhian — in its best form.
+6. **Two objection → reply chains**, each ending in a residual problem.
+7. **One conceptually controlled Indian illustration**, never proof by scheme or statute.
+8. **Graded verdict** separating diagnosis from prediction and from institutional record.
+
+> ⚠️ On "is Marxism still relevant" stems, the mark-bearing structure is a three-column judgment: what the analysis still explains (concentration, precarity, ideological reproduction, global inequality), what it failed to predict (the sequence and location of revolution, the durability of welfare compromise), and what its institutional record forecloses (the unaccountable party-state). Do not answer with a verdict on any country.
+
+### 9.4 Selectable evidence bank — 1 unit at 10 marks, 2 at 15, 4–5 at 20
+
+Each unit is **Claim → Named anchor → Use for → Limitation**.
+
+- **P1 · The state is an instrument of class rule.** Claim: political power is the organised power of one class for oppressing another; the state will wither once classes are abolished → Named: Marx and Engels, *Manifesto of the Communist Party* → Use for: any state-and-class stem → Limit: contradicted by welfare and regulatory action against particular capitalists — which is what §2A.5 exists to explain.
+- **P2 · History moves by the contradiction between forces and relations of production.** Claim: when productive forces outgrow existing relations, those relations become fetters and are broken → Named: Marx's Preface to *A Contribution to the Critique of Political Economy* → Use for: historical-materialism stems → Limit: ⚠️ the base–superstructure relation is not mechanical; say so before the objection is put to you.
+- **P3 · Labour is estranged in four dimensions.** Claim: from product, from productive activity, from species-being and from other persons → Named: Marx, *Economic and Philosophic Manuscripts of 1844* → Use for: alienation stems → Limit: rests on a normative account of human nature that Althusser's anti-humanism explicitly rejects (P7).
+- **P4 · Exploitation is structural, not a matter of unfair bargaining.** Claim: surplus value arises because labour-power's value is less than the value it creates → Named: Marx's theory of surplus value → Use for: exploitation and equality stems → Limit: the labour theory of value is economically contested; argue the structural point, not the price theory.
+- **P5 · Revolution breaks the chain at its weakest link, and consciousness must be brought from outside.** Claim: imperialism redistributes capitalism's contradictions globally; spontaneous struggle yields only trade-union consciousness, so a vanguard party under democratic centralism is required → Named: Lenin (§2A.2) → Use for: "why did revolution not occur where Marx expected" → Limit: no mechanism reliably subordinates the party to the class — the substitutionism objection is unanswered.
+- **P6 · Rule in developed societies works by consent, not chiefly by force.** Claim: hegemony is exercised through civil society — school, family, church, press, culture — by organic intellectuals, so revolution requires a war of position before a war of manoeuvre → Named: Gramsci (§2A.3) → Use for: ideology, culture and state stems; the most versatile unit in this file → Limit: supplies no independent test distinguishing hegemony from ordinary agreement.
+- **P7 · Subjects are produced, not presupposed.** Claim: ISAs reproduce the relations of production by interpellating individuals as subjects who freely perform the roles the structure requires; ideology is a material practice, not a mistaken belief → Named: Althusser, RSA/ISA and interpellation (§2A.4) → Use for: ideology and false-consciousness stems → Limit: explains stability far better than change, and leaves a thin account of agency.
+- **P8 · The capitalist state is relatively autonomous.** Claim: it must be able to act against particular capitalists in the general interest of capital, and must appear to represent "the people" to be legitimate → Named: Poulantzas (**1973**), against Miliband (**1969**) (§2A.5) → Use for: the internal Marxist debate on the state — the fastest route to depth → Limit: ⚠️ autonomy must remain *relative*; stretched further, the analysis stops being Marxist.
+- **P9 · Property is the origin of domination, and the state is its guarantor.** Claim: the state does not correct exploitation but institutionalises it, so freedom requires abolishing coercive authority, not capturing it → Named: Proudhon, Bakunin, Kropotkin (§1) → Use for: anarchism stems and the anarchist–Marxist dispute → Limit: no account of large-scale coordination, external defence or enforceable rights.
+- **P10 · Means determine ends.** Claim: a violent, centralising path cannot produce a non-violent, decentralised order; ownership must be reconstituted as trusteeship and wants restrained → Named: Gandhi (§3.5, §4.3) → Use for: the Indian foil to Marxist and anarchist strategy → Limit: ⚠️ trusteeship is voluntary and depends on the goodwill of the powerful; Ambedkar's objection to reliance on the conscience of dominant groups must be stated.
+- **P11 · Socialism is not communism, and neither is social democracy.** Claim: distinguish common or social ownership, the classless stateless end-state, and the parliamentary regulation of a capitalist economy → Named: §3.4 of this file → Use for: any definitional socialism stem → Limit: the boundaries are historically fluid; define the sense you are using at the outset.
+- **P12 · Equity is not equality.** Claim: distribution according to contribution belongs to an earlier stage; distribution according to need belongs to a later one → Named: Marx, *Critique of the Gotha Programme* → Use for: equity/equality stems → Limit: a normative projection, not a demonstrated historical law.
+
+### 9.5 Graded verdict formulas (adapt; never reproduce mechanically)
+
+- **Diagnosis/remedy split:** "The analysis of ⟨concentration, exploitation, ideological reproduction⟩ retains force; the institutional remedy — an unaccountable transitional state — does not, and the theory supplies no internal safeguard against it."
+- **Relocation verdict:** "Neo-Marxism does not abandon the materialist mechanism; it relocates causal weight into party, culture, state form and subject-formation — so the tradition is refined rather than refuted."
+- **Necessary-not-sufficient verdict:** "Class analysis is necessary but insufficient in the Indian context: caste and gender operate through mechanisms of status, endogamy and social reproduction that cannot be derived from class alone."
+- **Bounded-autonomy verdict:** "The capitalist state must be granted autonomy to explain what it actually does, and denied unlimited autonomy to remain a Marxist state at all; the theory lives precisely in that boundary."
+- **Means–ends verdict:** "Where the means constitute the end, a doctrine that postpones liberty to secure equality cannot deliver the freedom it promises."
+- **Asymmetric verdict:** "⟨Doctrine⟩'s critique of existing arrangements is stronger than its account of the arrangements that should replace them."
+
 
 ---
 
@@ -465,3 +652,11 @@ Close   : philosophical conclusion on freedom and domination.
 - Peter Kropotkin, *Mutual Aid* and *The Conquest of Bread*.
 - M. K. Gandhi, *Hind Swaraj* and writings on trusteeship, *swarāj* and *sarvodaya*.
 - M. N. Roy, writings on Radical Humanism.
+- V. I. Lenin, *Imperialism, the Highest Stage of Capitalism* and *What Is To Be Done?* — the weakest-link and vanguard-party arguments. Cited by title only; paraphrased, never quoted.
+- Antonio Gramsci, *Prison Notebooks* — hegemony, political and civil society, organic intellectuals, war of position. Cited by title only; paraphrased, never quoted.
+- Louis Althusser, "Ideology and Ideological State Apparatuses" — RSA/ISA and interpellation. Cited by title only; paraphrased, never quoted.
+- Ralph Miliband, *The State in Capitalist Society* (**1969**) — the instrumentalist thesis.
+- Nicos Poulantzas, *Political Power and Social Classes* (**1973**) — relative autonomy and the state as a condensation of class forces.
+- [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), Part IV Directive Principles, used only as a dated constitutional illustration; these are non-justiciable.
+
+> ⚠️ **Provenance note for §2A (added in this pass):** the Lenin, Gramsci, Althusser and Miliband–Poulantzas modules are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for any of them, and no empirical claim is made about any country, party, government, period or class — Indian or otherwise. Doctrines deliberately **not** developed here, to preserve single ownership, are listed at §2A.7.

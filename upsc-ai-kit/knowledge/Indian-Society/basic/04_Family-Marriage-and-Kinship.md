@@ -3,13 +3,17 @@
 > **Subject:** Indian Society | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I.
 > **Core area:** Family typology, forms of marriage, kinship systems, and the
 > interreligious-marriage half of the intercaste/interreligious marriage divergence.
-> **Grounded in:** NFHS-5 (2019-21, latest released national round as checked 21 July 2026)
+> **Grounded in:** NFHS-5 (2019-21; historical comparator; NFHS-6 was released 29 May 2026)
 > fertility indicators; classical kinship typologies (patrilineal/matrilineal systems);
 > audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/04_Family-Marriage-and-Kinship.md`.*
 
 ---
+
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
 
 ## 1. Visual foundation
 
@@ -111,8 +115,8 @@ analysed as a qualified pattern, not treated as a national series.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ NFHS-5 (2019-21) reported India's Total Fertility Rate at 2.0. It is the latest released
-  national NFHS round as checked on 21 July 2026; do not present it as a 2026 household
+- ✅ NFHS-5 (2019-21) reported India's Total Fertility Rate at 2.0. It is a historical comparator; NFHS-6 (2023-24) is the
+  latest released provisional national fact-sheet round; do not present it as a 2026 household
   estimate.
 - ✅ The Khasi of Meghalaya and, traditionally, the Nair of Kerala are the most commonly
   cited matrilineal kinship systems in India.
@@ -187,3 +191,94 @@ analysed as a qualified pattern, not treated as a national series.
   legal remedies (do not re-derive here).
 - ✅ `11_Effects-of-Globalisation-on-Indian-Society.md` — globalisation's effect on family
   and personal freedom (2024 Q19).
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** Family questions test changing functions, not a simple story of
+> institutional decline. This section also promotes the three historical-PYQ demand
+> families that the older ledger incorrectly left only in `advanced/04`.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What the directive tests | Structure that scores |
+|---|---|---|
+| **Explore and evaluate** work from home | Effects on work, care, intimacy and authority, with both gains and costs | Changed time/space -> positive effects -> strain -> differentiated verdict |
+| **Do you think** marriage is losing sacramental value | Institutional transformation, not an all-or-nothing verdict | What changes -> what persists -> variation -> verdict |
+| **Discuss impact** of phones on child socialisation | Mechanism and conditions, not technology panic | Displacement of interaction vs mediated learning/contact -> safeguards |
+| **Examine** nuclearisation | Residence versus function | structural change -> continuing kin obligation -> care consequences |
+| **Discuss** boundary-crossing marriage | Differential pace of caste/religion boundaries | parity -> kinship/community constraint -> civil route -> qualification |
+
+### 13.2 Thesis bank
+
+- **T1:** ⚠️ Family change is best read as a redistribution of care, authority and
+  socialisation across household, kin, market and digital systems—not as the disappearance
+  of family.
+- **T2:** ⚠️ Work from home can reduce commuting and enlarge presence at home, but it can
+  also blur work-care boundaries and reproduce unequal domestic labour; its effect depends
+  on space, control over time and gender norms.
+- **T3:** ⚠️ A marriage may become more companionate and choice-oriented without ceasing to
+  carry kinship, ritual and endogamy functions.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — work from home and family relationships (2022 GS-I).** Define the changed
+work-home boundary. Explain one gain (presence, flexible care or reduced commute), two
+pressures (shared-space conflict and unequal care load), and one variation (housing,
+occupation and gender). Conclude that the effect is negotiated, not uniformly liberating.
+
+**15 marks — family and marriage under contemporary change.** Use T1. Contrast structural
+nuclearisation with functional jointness; add marriage choice/endogamy, digital
+socialisation and elder/child-care redistribution. Use E1-E4, distinguish law from social
+acceptance, and close with the multi-track verdict.
+
+**20 marks — “Technology, migration and individual choice are remaking Indian family
+without making kinship irrelevant.” Critically examine.** Add a causal diagram:
+`migration/technology -> separate residence or mediated contact -> renegotiated care,
+authority and socialisation -> uneven outcomes`. Compare a migrant nuclear household, a
+functionally joint household and a matrilineal counter-case; include the WFH and phone
+demand families before a qualified conclusion.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Form is not function.** *Claim:* separate residence need not end kinship.
+  *Evidence:* the **structural-versus-functional nuclearisation** distinction: an urban
+  household can live separately while remitting, joining rituals and deferring major
+  decisions to an extended family. *Significance:* prevents the “joint family vanished”
+  error. *Limitation:* this is a mechanism, not a national prevalence estimate.
+- **E2 — Kinship is not uniform.** *Claim:* patriliny is dominant but not universal.
+  *Evidence:* **Khasi of Meghalaya** and, historically, **Nair of Kerala** are standard
+  matrilineal examples. *Significance:* supplies a regional counter-case. *Limitation:*
+  matriliny concerns descent/property; it must not be equated with matriarchal authority.
+- **E3 — Law is a route, not acceptance.** *Claim:* a formal civil route cannot by itself
+  erase social boundaries. *Evidence:* the **Special Marriage Act, 1954**, cross-linked to
+  Polity/Social Justice. *Significance:* explains why interreligious-marriage answers must
+  separate legal possibility from kin/community sanction. *Limitation:* do not re-derive
+  legal doctrine here.
+- **E4 — Fertility is not household form.** *Claim:* demographic evidence must be used
+  narrowly. *Evidence:* **NFHS-5 (2019-21)** recorded TFR 2.0. *Significance:* it is a
+  dated historical family-size comparator. *Limitation:* it neither measures
+  nuclearisation nor marriage acceptance; current metrics require NFHS-6 fact sheets.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Do not equate nuclear residence with family decline; distinguish residence, support,
+  authority and care.
+- ⚠️ Do not equate screen exposure with universally harmful socialisation; ask what
+  interaction it displaces, age/context and whether adult mediation is present.
+- ⚠️ Do not equate legal recognition with social acceptance, or companionate marriage with
+  the disappearance of endogamy and kinship.
+- **Verdict:** “Indian family change is differentiated: migration and technology reallocate
+  functions and authority, while kinship obligations and marriage boundaries persist in
+  altered forms.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2022 · GS-I · Q8 | Work From Home and family relationships | §13.1-13.3, T2, E1 |
+| 2023 · GS-I · Q8 | Marriage as a sacrament losing value | §13.1, T3, E2-E3 |
+| 2023 · GS-I · Q10 | Mobile phones and child socialisation | §13.1, §13.3 technology spine |
+| 2024 · GS-I · Q9 | Intercaste versus interreligious marriages | §13.1, E3; caste half in `02` |
+
+> **Routing correction:** Core routing above supersedes the older ledger's `advanced/04`
+> pointer. `advanced/04` remains optional refinement only.

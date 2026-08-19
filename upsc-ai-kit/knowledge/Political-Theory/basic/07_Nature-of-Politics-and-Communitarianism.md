@@ -113,3 +113,82 @@
 - ✅ Marxist-view anchor pages: PDF pp.102-104.
 - ✅ Communitarian-view anchor pages: PDF pp.101, 104-107.
 - ⚠️ Tags in this file distinguish direct-book content from exam-oriented synthesis; no post-2009 claim is used.
+
+---
+
+## 13. Thinker-by-thinker communitarian distinctions (MacIntyre, Taylor, Sandel — not interchangeable)
+
+- ⚠️ Gauba names MacIntyre, Taylor and Sandel together as communitarian critics of the atomistic liberal self (PDF pp.101, 105), but a strong answer must not treat them as one undifferentiated voice. Each targets a different weakness in liberalism:
+
+1. **Alasdair MacIntyre — tradition and practices** (*After Virtue*, 1981)
+   - **Claim:** the self is unintelligible outside the narrative of a particular community and moral tradition; virtues are acquired only through participation in social "practices" (activities with internal standards of excellence — e.g. medicine, craft, scholarship) sustained by inherited traditions.
+   - **Evidence/mechanism:** a practice has "internal goods" (excellence achieved through the activity itself) understandable and judgeable only from within its own tradition of standards.
+   - **Significance:** morality cannot be reconstructed from an abstract, tradition-free standpoint, as much liberal theory attempts; moral reasoning is always reasoning *within* an inherited tradition.
+   - **Limit:** risks relativism — if morality is tradition-bound, how do we judge between rival traditions or criticise our own? MacIntyre's answer (traditions can be rationally compared by their capacity to resolve their own internal crises) remains contested.
+
+2. **Charles Taylor — dialogical self and recognition** (*Sources of the Self*, 1989; "The Politics of Recognition", 1994)
+   - **Claim:** the self is "dialogical," not monological — identity is formed through language and relationships with "significant others," and a person's self-understanding depends partly on being adequately *recognised* by others.
+   - **Evidence/mechanism:** withholding or distorting recognition (of a person's or a group's identity/culture) inflicts real harm, grounding claims for recognition of minority cultures within a shared political community.
+   - **Significance:** grounds communitarian/multicultural claims in the human need for recognition — a moral, not merely sociological, case for community.
+   - **Limit:** critics ask how far the demand for recognition can be accommodated without flattening genuine disagreement (false equal validity of all cultures) or fragmenting common citizenship.
+
+3. **Michael Sandel — critique of the unencumbered self** (*Liberalism and the Limits of Justice*, 1982)
+   - **Claim:** targets Rawls's "original position," where parties choose principles of justice behind a "veil of ignorance," stripped of knowledge of their own particular ends and identity — Sandel calls this the "unencumbered self."
+   - **Evidence/mechanism:** real persons are partly *constituted* by their ends and attachments (family, community, tradition); a self that could stand wholly apart from all its ends to choose principles of justice is not a coherent picture of a person.
+   - **Significance:** if the self is constitutively social, justice cannot be derived from a purely neutral, ends-independent standpoint; political community itself has a claim prior to individual choice.
+   - **Limit:** liberal replies argue Sandel conflates a *methodological* device (used only to derive fair principles) with a *metaphysical* claim about what persons actually are (see objection/reply chain below).
+
+- ⚠️ **Exam discipline:** if a question names one thinker specifically, answer with that thinker's own mechanism (practices/tradition for MacIntyre; recognition/dialogical self for Taylor; unencumbered self/original position for Sandel) — a generic "communitarianism says community matters" answer loses specific marks.
+
+## 14. Precursors: Rousseau and T.H. Green (cautious extension)
+
+- ⚠️ Gauba's own text counts Rousseau among early communitarian indications (PDF pp.101, 107) because of his stress on the "general will" and civic unity over private/particular interest. Use cautiously as a precursor, not a full contemporary communitarian — Rousseau is more properly classified within social-contract/popular-sovereignty theory (see `Political-Theory/basic/11_Sovereignty-and-Pluralism.md`). The precursor point is limited to: Rousseau treats the political community's common good as prior to and different from the mere sum of private wills.
+- ⚠️ T.H. Green is a precursor in a different sense: his idealist liberalism ties individual self-realisation to membership in a moral community and the common good, rather than to isolated possession of rights — anticipating the communitarian claim that persons flourish only within a social/ethical order, while Green himself remains inside the liberal tradition (see `Political-Theory/basic/03_Liberalism-and-Neoliberalism.md`).
+- ⚠️ Use both names only as *precursors/anticipations*, not card-carrying communitarians — overstating this lineage is a taxonomic overclaim to avoid.
+
+## 15. Communitarian objections to liberalism and liberal replies (2 chains)
+
+1. **Objection (communitarian → liberal):** liberal neutrality (the state should not favour any particular conception of the good life) is impossible and self-defeating — liberal politics already presupposes and promotes a particular kind of self, the autonomous rights-bearing chooser, while claiming neutrality between all conceptions of the good.
+   **Reply (liberal):** following Rawls, liberals respond that neutrality is a political device for fair terms of cooperation among people who reasonably disagree about the good life, not a metaphysical claim that no view of the self is presupposed; procedural fairness across competing comprehensive doctrines is a defensible, minimal shared commitment, not an empty pretence. ⚠️ Present as an ongoing, unresolved debate rather than declaring a winner.
+
+2. **Objection (communitarian → liberal, Sandel's core charge):** Rawls's "unencumbered self" behind the veil of ignorance is metaphysically false — real people cannot be understood apart from their constitutive attachments, so a theory of justice built on such a self rests on a fiction.
+   **Reply (liberal, standard rebuttal):** the veil of ignorance is a *heuristic device* for identifying fair principles under reasonable disagreement, not a claim that actual persons are or should be unencumbered; Rawls allows that within society persons pursue their own conceptions of the good and are embedded in families, communities and traditions — only the *choice of basic principles* is modelled behind the veil. Communitarians may still reply that even as a heuristic, the device smuggles in an individualist picture of practical reasoning that itself needs justification. ⚠️ Show both moves to demonstrate balance.
+
+## 16. Cautious Indian application
+
+- ⚠️ Gandhian resonances: Gandhi's emphasis on the *gram sabha*/village community, trusteeship and duty-based swaraj is a commonly drawn (book-external) Indian parallel to communitarian stress on embedded selfhood and common good over atomised individualism — use as an analogy, not a claim that Gandhi was a card-carrying academic communitarian (see `Political-Theory/basic/05_Socialism-Fascism-Anarchism-and-Gandhism.md` for verified Gandhi material; do not import unverified detail here).
+- ⚠️ India's constitutional balance of individual Fundamental Rights with community-oriented Directive Principles and Fundamental Duties is a *structural* illustration of liberal-communitarian tension being institutionally managed — cite the structure without asserting specific article numbers here (route exact constitutional detail to the Polity module).
+- ⚠️ Caste/community-based reservation debates are a live Indian example of the liberal (individual merit/equal treatment) vs communitarian-adjacent (group-based, historically embedded disadvantage) argument structure — cite only as an illustrative *type* of debate, not with unverified statistics.
+
+## 17. Executable answer architecture (10/15/20 marks)
+
+### Directive decoding
+- "Explain/Discuss the nature of politics" → definitional + comparative directive: define the political situation (Easton/Gauba), then compare at least two rival images of society.
+- "Examine the communitarian critique of liberalism" → critique-directive: state the liberal position targeted, the specific communitarian objection (name the thinker), and the liberal reply — a one-sided answer loses marks.
+- "Distinguish MacIntyre, Taylor and Sandel" → strict distinguishing directive: three separate mechanisms are required, not a shared paragraph.
+
+### 10-mark architecture (~150 words)
+1. Thesis: politics can be read as reconciliation, domination or common-good pursuit depending on the assumed image of society.
+2. Body: one liberal-vs-communitarian or liberal-vs-Marxist contrast with claim→evidence→significance.
+3. One objection/reply in brief.
+4. One-line conclusion.
+
+### 15-mark architecture (~200-250 words)
+1. Thesis + directive decoding.
+2. Doctrine reconstruction: political situation → authoritative allocation (Easton) → three rival views (liberal/Marxist/communitarian).
+3. Name at least one communitarian individually (MacIntyre/Taylor/Sandel) with mechanism, not a generic label.
+4. One objection-reply chain.
+5. Cautious Indian illustration.
+6. Conclusion.
+
+### 20-mark architecture (~250-300 words)
+1. Thesis + directive decoding.
+2. Full doctrine reconstruction: political situation, authority vs force, liberal/Marxist/communitarian images of society, liberty-equality-fraternity matrix (Gauba, PDF p.107).
+3. Distinguish all three communitarians (MacIntyre/Taylor/Sandel) with named mechanisms.
+4. Rousseau/Green precursors, cautiously flagged.
+5. Two objection-reply chains (neutrality objection; unencumbered-self objection).
+6. Cautious Indian application (one or two examples, correctly hedged).
+7. Graded conclusion on whether politics is best read as conflict, cooperation or power given the question's context.
+
+### Quotation/proposition method
+- Use named propositions rather than unverified direct quotations, e.g. *"Sandel's proposition that the Rawlsian self is 'unencumbered' by constitutive ends"* rather than an exact quoted sentence, unless independently verified. This keeps attribution accurate while avoiding misquotation risk.

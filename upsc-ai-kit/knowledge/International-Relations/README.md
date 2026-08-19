@@ -20,6 +20,7 @@
 > **Currency:** volatile claims in this folder were re-verified against
 > first-party sources on **3 August 2026**; every such claim carries its own date.
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Topic 01 complete package:** [`01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Complete-Topic-Package.md`](01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Complete-Topic-Package.md).
 > **Pre-exam revision:** [`REVISION-CHART_Actors-Interests-and-Distinctive-Features.md`](REVISION-CHART_Actors-Interests-and-Distinctive-Features.md)
 > compresses all 12 Core/Advanced pairs into one interest-instrument-outcome map,
 > regional fingerprint sheet, grouping comparison and Mains-answer framework.
@@ -35,15 +36,15 @@
 > **Applicable papers:** Preliminary Examination - Paper I (GS-I); Main Examination -
 > Paper III (General Studies II).
 >
-> **PYQ status:** 2018-2023 is **central-routing-only** via
-> [`../_PYQ-INDEX.md`](../_PYQ-INDEX.md). Audited 2024-2025 GS-II and Essay applications are
-> embedded inside topic files; some topics also explicitly note when no direct 2024-2025
-> hit exists but adjacent PYQs still apply.
+> **PYQ status:** Historical Mains demands are routed through the central ledgers,
+> including [`../_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`](../_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md),
+> and every IR Mains route now terminates in a `basic/` owner. Audited 2024-2025
+> GS-II and Essay applications are embedded inside topic files.
 
 | Official clause | Status | Existing owner files | Note |
 |---|---|---|---|
 | "Current events of national and international importance." | PARTIAL | [`00_Master-Framework.md`](00_Master-Framework.md)<br>[`basic/01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md`](basic/01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md)<br>[`basic/02_India-and-the-Neighbourhood.md`](basic/02_India-and-the-Neighbourhood.md)<br>[`basic/10_Regional-Global-and-Minilateral-Groupings.md`](basic/10_Regional-Global-and-Minilateral-Groupings.md)<br>[`basic/12_UN-and-International-Institutions-Global-Governance.md`](basic/12_UN-and-International-Institutions-Global-Governance.md) | This folder provides IR/current-affairs support, not the whole of Prelims current affairs. |
-| "India and its neighborhood-relations." | COVERED | [`basic/02_India-and-the-Neighbourhood.md`](basic/02_India-and-the-Neighbourhood.md)<br>[`advanced/02_India-and-the-Neighbourhood.md`](advanced/02_India-and-the-Neighbourhood.md) | Exact clause-to-file match. |
+| "India and its neighborhood-relations." | COVERED | [`basic/02_India-and-the-Neighbourhood.md`](basic/02_India-and-the-Neighbourhood.md) | Exact clause-to-Core-owner match; Advanced is optional enrichment. |
 | "Bilateral, regional and global groupings and agreements involving India and/or affecting India's interests." | COVERED | [`basic/02_India-and-the-Neighbourhood.md`](basic/02_India-and-the-Neighbourhood.md)<br>[`basic/04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`](basic/04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md)<br>[`basic/10_Regional-Global-and-Minilateral-Groupings.md`](basic/10_Regional-Global-and-Minilateral-Groupings.md)<br>[`basic/12_UN-and-International-Institutions-Global-Governance.md`](basic/12_UN-and-International-Institutions-Global-Governance.md) | Groupings, agreements and institutional architecture are directly owned here. |
 | "Effect of policies and politics of developed and developing countries on India's interests, Indian diaspora." | COVERED | [`basic/03_India-China-Major-Powers-and-Resilient-Supply-Chains.md`](basic/03_India-China-Major-Powers-and-Resilient-Supply-Chains.md)<br>[`basic/06_West-Asia-Energy-Security-and-Connectivity.md`](basic/06_West-Asia-Energy-Security-and-Connectivity.md)<br>[`basic/08_Global-South-and-Development-Partnering.md`](basic/08_Global-South-and-Development-Partnering.md)<br>[`basic/09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md`](basic/09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md)<br>[`basic/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md`](basic/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md) | Major-power politics, Global South, diaspora and external-policy effects are explicitly distributed across owner files. |
 | "Important International institutions, agencies and fora-their structure, mandate." | COVERED | [`basic/12_UN-and-International-Institutions-Global-Governance.md`](basic/12_UN-and-International-Institutions-Global-Governance.md)<br>[`basic/10_Regional-Global-and-Minilateral-Groupings.md`](basic/10_Regional-Global-and-Minilateral-Groupings.md) | Direct clause-to-file match. |
@@ -52,9 +53,11 @@
 
 ## How this folder works
 
-- **Two tiers per topic:** `basic/NN` builds the must-do country/region, grouping,
-  institution and instrument map; `advanced/NN` adds the causal architecture,
-  precise conceptual distinctions, trade-offs, boundary cases and Mains depth.
+- **Two tiers per topic:** `basic/NN` is the independently answer-complete
+  Must-Do owner: demand decoding, thesis choices, causal structure, adequate
+  evidence, balance, factual cautions and 10/15/20-mark architecture.
+  `advanced/NN` adds optional theory, extra boundary cases and deeper nuance;
+  skipping it must not reduce the attainable paper outcome.
 - **Tagging:** ✅ = directly grounded in an official source, a retrieved book
   passage or a verified PYQ; ⚠️ = analytical inference or standard linkage;
   📰 = a dated current diplomatic anchor (summit, charter, vision document,

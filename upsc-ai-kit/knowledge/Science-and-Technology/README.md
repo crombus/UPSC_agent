@@ -1,6 +1,6 @@
 # Science & Technology - Knowledge Base Index
 
-> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — central routing only, not topic-file integration.
+> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — the Science Mains links were reconciled to independently answer-complete Core owners in this audit; central ledgers remain the provenance record.
 >
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
@@ -41,6 +41,7 @@ sitting well beyond the stated date.
 - **Two tiers per topic:** `basic/NN` gives the must-do foundation (definitions, mechanism,
   institutions, Prelims facts); `advanced/NN` adds governance debates, strategic/economic
   significance, implementation constraints, ethics/safety and Mains depth.
+- **Core answer-worthiness:** each `basic/NN` carries a topic-specific 10/15/20-mark thesis, question-appropriate spine and claim → named evidence/example → significance → qualification units. Advanced adds optional engineering/debate depth only.
 - **Same number = same topic** across both tiers.
 - **Tagging:** ✅ = directly grounded in a cited official/NCERT source; ⚠️ = analytical
   inference or standard conceptual linkage; 📰 = a specific, dated current/institutional
@@ -131,19 +132,21 @@ sitting well beyond the stated date.
 
 ## Exact 2024-2025 GS-III PYQ routing
 
-| Paper | Exact tested demand | Route |
+> **Ledger control rule:** The central [`_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`](../_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md) is the authoritative primary-owner record. `Primary Core owner` means the file that can carry the whole answer. A listed Science Core file is a bounded mechanism/support owner where the ledger assigns another subject; Advanced is optional enrichment, never a prerequisite for a paper-worthy answer.
+
+| Paper | Exact tested demand | Primary Core owner / bounded Science support |
 |---|---|---|
-| 2024 (Q5, 150w) | IPR concerning life materials and reasons for low patent commercialisation in India | `basic/17`, `advanced/17` |
-| 2024 (Q6, 150w) | Technology used for electronic toll collection on highways; advantages, limitations, proposed changes and risks | `basic/08`, `advanced/08` (digital rails), with `basic/12` for the data/privacy risk of movement tracking |
-| 2024 (Q10, 150w) | Context and salient features of the Digital Personal Data Protection Act, 2023 | `basic/12`, `advanced/12` |
-| 2024 (Q15, 250w) | Alternative technologies for clean/safe freshwater; merits and demerits of any three | `basic/22`, `advanced/22` |
-| 2024 (Q16, 250w) | Asteroids, extinction risk and strategies to prevent such a catastrophe | `basic/21`, `advanced/21` |
-| 2024 (Q20, 250w) | Security implications of social media and encrypted messaging services, and remedies | `basic/12`, `advanced/12` (IT Act ss.69/69A/79, IT Rules 2021 as amended, traceability-vs-encryption); cross-refer Internal Security without duplicating it |
-| 2025 (Q5, 150w) | India's fusion programme, contribution to ITER and implications of success | `basic/05`, `advanced/05` |
-| 2025 (Q6, 150w) | Energy independence through clean technology by 2047 and biotechnology's role | `basic/13`, with topic 15 application and topic 18 for fuels |
-| 2025 (Q12, 250w) | Rationale, achievements and improvement of the Production Linked Incentive scheme | Economy `17` for macro-industrial analysis; use `basic/11`, `advanced/11` only for the semiconductor/electronics component |
-| 2025 (Q15, 250w) | Nanotechnology advances in agriculture and farmers' socio-economic uplift | `basic/16`, `advanced/16` |
-| 2025 (Q16, 250w) | Semiconductor-industry challenges and salient features of India Semiconductor Mission | `basic/11`, `advanced/11` |
+| 2024 (Q5, 150w) | IPR concerning life materials and reasons for low patent commercialisation in India | `basic/17` — direct owner; `advanced/17` optional depth |
+| 2024 (Q6, 150w) | Technology used for electronic toll collection on highways; advantages, limitations, proposed changes and risks | `basic/08` — direct RFID/FASTag–ANPR/GNSS status answer engine; `basic/12` only for privacy/cyber risk |
+| 2024 (Q10, 150w) | Context and salient features of the Digital Personal Data Protection Act, 2023 | `basic/12` — direct owner; `advanced/12` optional depth |
+| 2024 (Q15, 250w) | Alternative technologies for clean/safe freshwater; merits and demerits of any three | **Environment-and-Ecology `basic/14_Water-Pollution-and-River-Cleaning-Missions.md`** — primary owner; Science `basic/22` supplies RO/distillation/ion-exchange chemistry only |
+| 2024 (Q16, 250w) | Asteroids, extinction risk and strategies to prevent such a catastrophe | `basic/03` — direct asteroid/planetary-defence owner; `basic/21` supplies only physics foundations |
+| 2024 (Q20, 250w) | Security implications of social media and encrypted messaging services, and remedies | **Internal-Security `basic/09_Social-Media-Encrypted-Messaging-and-Information-Warfare.md`** — primary owner; Science `basic/12` supplies encryption/privacy/cyber distinctions only |
+| 2025 (Q5, 150w) | India's fusion programme, contribution to ITER and implications of success | `basic/05` — direct owner; `advanced/05` optional depth |
+| 2025 (Q6, 150w) | Energy independence through clean technology by 2047 and biotechnology's role | **Environment-and-Ecology `basic/25_Renewable-Energy-and-Green-Hydrogen.md`** — primary clean-energy owner; Science `basic/13` supplies the bounded biotechnology/biomanufacturing leg, with `basic/15` and `basic/18` as application support |
+| 2025 (Q12, 250w) | Rationale, achievements and improvement of the Production Linked Incentive scheme | Economy `basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — primary macro-industrial owner; use `basic/11` only for semiconductor component capability |
+| 2025 (Q15, 250w) | Nanotechnology advances in agriculture and farmers' socio-economic uplift | `basic/16` — direct owner; `advanced/16` optional depth |
+| 2025 (Q16, 250w) | Semiconductor-industry challenges and salient features of India Semiconductor Mission | `basic/11` — direct owner; `advanced/11` optional depth |
 
 ### Exact 2024-2025 Prelims computing routing
 

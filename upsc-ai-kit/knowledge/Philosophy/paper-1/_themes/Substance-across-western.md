@@ -28,6 +28,7 @@
 
 ### A. Aristotle — substance as concrete individual
 - **Primary substance** = the individual thing (*this* man, *this* horse) — the ultimate subject that is *never predicated of anything else*. Secondary substances = species/genera. Substance = **form + matter** compound (hylomorphism). ✅ (Corrects Plato's separate Forms — the universal is *in* the particular.)
+- ⚠️ **Nuance the grid cannot show, and which a 15/20-marker should:** that answer is the ***Categories*** (2a11). In ***Metaphysics*** **Z (VII)** Aristotle reopens the question and gives a different answer — the **form/essence** (*to ti ēn einai*) — rejecting matter as substance (Z.3) and declaring that **no universal is a substance** (Z.13). The reconciliation used in this file: the *Categories* asks **which things are substances** (a logical criterion of ultimate subjecthood); *Metaphysics* Z asks **what the substance *of* a thing is** (a causal criterion — "why is this matter a house?", Z.17). Different questions, different answers, no contradiction. See [`../western/Plato-Aristotle.md`](../western/Plato-Aristotle.md) §3.3.
 
 ### B. Descartes — three substances (rationalist dualism)
 - Substance = "what needs nothing else to exist." Strictly only **God**; created substances = **mind (res cogitans, essence = thought)** and **matter (res extensa, essence = extension)**. → **Dualism** + the interaction problem. ⚠️ Inconsistency: by his own definition only God qualifies.
@@ -84,17 +85,23 @@
 ## 4. INTER-THINKER DEBATE POINTS ⚠️
 - **Spinoza vs Descartes:** if substance needs *nothing* else, there cannot be *three* — Spinoza's monism is Descartes made consistent.
 - **Hume vs Descartes on the self:** cogito's thinking *substance* vs bundle of perceptions — no impression of a persisting "I".
-- **Kant vs Hume:** Hume is right that substance is not perceived, wrong to call it fiction — it is the *a priori form* that makes objective experience possible.
+- **Kant vs Hume:** Hume is right that substance is not perceived, wrong to call it fiction — it is the *a priori form* that makes objective experience possible. ⚠️ **Give the mechanism, not the slogan:** the **First Analogy** argues that since *time itself cannot be perceived*, any determination of duration and succession requires something **persisting** within the appearances to stand proxy for time — and that persisting item is substance. Substance is thus a **condition of perceiving anything as being in one time**, which is precisely why Hume's demand ("show me the impression") is the wrong demand. See [`../western/Kant.md`](../western/Kant.md) §3.6.1.
+- ⚠️ **Hegel vs Spinoza — the missing link in most answers:** Hegel accepts Spinoza's monism and charges it with **acosmism** (if only the one substance is real, finite things vanish rather than being deified). His corrective is the *Phenomenology*'s Preface claim that the Absolute must be grasped "not only as **Substance**, but equally as **Subject**" — i.e. as self-developing activity, not inert unity. This is the bridge from item 2 to item 5. See [`../western/Hegel.md`](../western/Hegel.md) §2.2.
+- ⚠️ **Strawson vs the whole empiricist line — the argument, not the label:** basic particulars are basic because **identification and re-identification** require a single unified spatio-temporal framework, and sense-data cannot furnish one: they are *private* (so cannot ground public identification), *momentary* (so cannot be re-identified) and lack the *spatial* relations a framework needs. So the empiricist programme of constructing objects out of sensory items fails **in principle**, not merely in practice. See [`../western/Quine-Strawson.md`](../western/Quine-Strawson.md) §3.6.
 - **Cross-paper bridge:** **Hume's bundle-self ↔ Buddhist nairātmya / anattā** (no substantial self, only fleeting states). A high-value comparison. → `indian/Buddhism.md`.
 
 ---
 
-## 5. STATEMENT / QUOTE BANK ⚠️
-1. ✅ Locke: substance = *"a something, I know not what."*
-2. ✅ Spinoza: *"Deus sive Natura"* — one substance.
-3. ✅ Leibniz: *"Monads have no windows."*
-4. ✅ Hume: the self is *"a bundle or collection of different perceptions."*
-5. ✅ Berkeley: *"Esse est percipi."*
+## 5. STATEMENT / QUOTE BANK ⚠️ — with provenance discipline
+1. ✅ **Locke:** substance = *"a something, I know not what"* — *Essay* **II.xxiii.2**. ⚠️ Cite Locke by **Book.Chapter.Section**; the wording of the surrounding sentence varies across the four editions Locke himself revised.
+2. ✅ **Spinoza:** *"Deus sive Natura"* — *Ethics* **IV, Preface**; and *"Whatever is, is in God"* — *Eth.* **I, P15**. ✅ Cite the *Ethics* by **structural reference** (Part, Definition/Proposition), which is translation-invariant across Curley, Elwes and White–Stirling.
+3. ⚠️ **"All determination is negation" (*omnis determinatio est negatio*)** — **the exact Latin formula is not in the *Ethics***. Spinoza writes *determinatio negatio est* in **Letter 50 to Jarig Jelles (2 June 1674)**; the universalised slogan is **Hegel's** rendering, which is how it entered the textbook tradition. ✅ Safe form: "Spinoza's dictum, in Letter 50, that determination is negation — universalised by Hegel as *omnis determinatio est negatio*."
+4. ✅ **Leibniz:** *"Monads have no windows"* — the standard **rendering** of *Monadology* **§7** ("Les Monades n'ont point de fenêtres"); say "as it is usually rendered."
+5. ✅ **Hume:** the self is *"a bundle or collection of different perceptions"* — *Treatise* **I.iv.6**. ⚠️ Note that Hume **retracts** the account in the **Appendix** to the *Treatise*, unable to explain what unites the bundle; and that the *Enquiry* drops personal identity altogether.
+6. ✅ **Berkeley:** *"Esse est percipi"* — *Principles* **§3**. ❌ The expanded "*esse est percipi aut percipere*" is a **commentators'** formula to accommodate spirits; do not present it as a quotation.
+7. ✅ **Aristotle:** *tode ti* ("a this") — *Categories* 3b10; *to ti ēn einai* ("the what-it-was-to-be") — *Metaphysics* Z. ✅ Cite Aristotle by **Bekker** numbers, which are edition-invariant.
+8. ✅ **Kant:** "In all change of appearances substance persists, and its quantum in nature is neither increased nor diminished" — **B224** (First Analogy). ✅ Cite by **A/B pagination**.
+9. ✅ **Strawson:** *Individuals: An Essay in Descriptive Metaphysics* (**1959**) — the subtitle is the citable phrase.
 
 ---
 

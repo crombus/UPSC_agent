@@ -536,24 +536,188 @@ security protection.
 - ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`.
 - ✅ `../advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md`.
 
+## 15. Dated anchors — subsidy scale and WTO support (verify vintage before reuse)
+
+- 📰 **Fertiliser subsidy scale:** Union Budget 2025-26 allocated approximately **Rs 1.84
+  lakh crore** for fertiliser subsidy (about Rs 1.19 lakh crore for urea and about Rs 0.49
+  lakh crore for Nutrient Based Subsidy on P&K fertilisers), a modest reduction from the
+  FY 2024-25 revised estimate of about Rs 1.89 lakh crore. For Rabi 2025-26, the Union
+  Cabinet separately approved about **Rs 37,952 crore** NBS support for P&K fertilisers.
+  ⚠️ Budget allocations and revised estimates change every year; re-verify the current-year
+  figure from the latest Union Budget documents before using it as an "as of today" number.
+- 📰 **WTO market-price-support notification (rice):** India's own WTO domestic-support
+  notification for the 2024-25 marketing year recorded rice support of roughly **$7.6
+  billion, about 11.85% of the value of rice production**, against the 10% developing-country
+  de minimis threshold; India invoked the Bali Peace Clause to protect this food-security
+  procurement from formal dispute action, as it has done in preceding marketing years since
+  2020. ⚠️ Status caution: this is India's **self-notification** to the WTO using the
+  Agreement's administered-price methodology (§8.3), not an adjudicated WTO ruling; the exact
+  percentage is recalculated each marketing year and should not be treated as a fixed,
+  permanent figure. Some trading partners (including the United States) have filed
+  counter-notifications disputing India's market-price-support calculation — the dispute is
+  about methodology and is ongoing, not settled.
+- ⚠️ Both anchors illustrate the same syllabus point from different ends: the fertiliser
+  figure shows the **fiscal scale** of indirect/input subsidy; the rice figure shows how that
+  scale is **measured and contested** under the WTO's Agreement on Agriculture.
+
+## 16. Evidence bank: claim → named evidence → significance → limitation/status-caution
+
+**16.1 Claim: "Direct" delivery does not mean the subsidy is trade-neutral or automatically
+Green Box.**
+- **Named evidence:** PM-KISAN pays Rs 6,000/year directly to eligible landholding farmer
+  families' bank accounts (§4.7), yet WTO classification of any direct payment still depends
+  on satisfying decoupling and other Annex 2 criteria (§8.2), not on the "direct" label.
+- **Significance:** Rebuts the recurring UPSC trap that direct cash automatically equals
+  Green Box; separates the **domestic delivery** question from the **WTO legal** question.
+- **Limitation/status-caution:** Land-record-based eligibility can omit tenants,
+  sharecroppers and undocumented cultivators — the delivery mechanism's simplicity does not
+  solve the inclusion problem.
+
+**16.2 Claim: Fertiliser DBT pays the company, not the farmer, so "DBT" is not a synonym for
+"cash to farmer."**
+- **Named evidence:** Subsidy is released to manufacturers/importers based on actual sales
+  recorded through retailer Point-of-Sale systems under fertiliser DBT (§4.1); NBS covers
+  notified P&K grades while urea remains outside NBS.
+- **Significance:** Closes the standard "all DBT is cash-in-account" trap and supports any
+  question distinguishing direct from indirect delivery mechanisms.
+- **Limitation/status-caution:** Underpriced urea relative to P&K can still encourage
+  nutrient imbalance; correcting the price signal without harming affordability is unresolved.
+
+**16.3 Claim: MSP/procurement is an indirect price-support mechanism whose WTO measurement
+differs sharply from its budgetary cost.**
+- **Named evidence:** WTO market-price support is calculated as (applied administered price
+  minus a fixed historical external reference price) multiplied by eligible production
+  (§8.3), a formula unrelated to the government's actual procurement expenditure.
+- **Significance:** Explains why India's support "appears" WTO-large even when budgetary
+  procurement cost is much smaller — the exact mechanism tested in the 2023 GS-III question.
+- **Limitation/status-caution:** The frozen historical reference price makes the calculated
+  support look larger after decades of inflation and exchange-rate change — an acknowledged
+  methodological distortion, not proof that Indian farmers are "overpaid" in real terms.
+
+**16.4 Claim: The 2013 Bali Peace Clause protects public stockholding but is an interim
+shield, not a permanent settlement.**
+- **Named evidence:** The Bali public-stockholding decision gives due-restraint protection
+  for qualifying traditional-staple food-security programmes, subject to transparency and
+  notification (§8.4); India has invoked it repeatedly, most recently for rice in the
+  2024-25 marketing year (§15).
+- **Significance:** Directly answers "issues raised by the WTO" by naming the exact legal
+  instrument India relies on, rather than a vague "developing-country flexibility" claim.
+- **Limitation/status-caution:** The clause is interim and conditional; it does not resolve
+  the underlying reference-price dispute, and repeated invocation each year signals an
+  unresolved rather than settled issue.
+
+**16.5 Claim: Electricity and irrigation subsidies are indirect input subsidies whose
+economic incidence often diverges from the visible recipient.**
+- **Named evidence:** Free/concessional farm power lowers pumping cost for connected
+  cultivators (§4.2), but the water-energy-crop nexus chain shows falling water tables and
+  DISCOM fiscal stress as downstream effects, not merely farmer benefit.
+- **Significance:** Supplies the "economic incidence" analytical layer (§6) that most
+  candidates skip, converting a list of subsidies into a chain of consequences.
+- **Limitation/status-caution:** Benefit is skewed toward farmers who already own a
+  functioning well/connection; landless and rainfed farmers receive little or nothing from
+  this specific instrument.
+
+**16.6 Claim: Crop-insurance premium subsidy only works if the underlying data and claims
+system is trusted.**
+- **Named evidence:** Government premium support makes participation affordable (§4.5), but
+  area-yield/index methods create basis risk, and value depends on reliable yield data and
+  timely settlement.
+- **Significance:** Prevents the common error of treating premium subsidy alone as risk
+  management "solved" — links subsidy design to institutional delivery quality.
+- **Limitation/status-caution:** Where enrolment, yield data or claim calculation is
+  distrusted, the premium subsidy's welfare value collapses even if the fiscal outlay is high.
+
+## 17. Core limitations and trade-offs
+
+| # | Trade-off | Why it is genuinely double-edged |
+|---|---|---|
+| 1 | **Affordability versus resource sustainability** | Cheap fertiliser/power/water raises short-run input affordability and output, but the same underpricing drives nutrient imbalance and groundwater depletion — the instrument that helps production also erodes its future base. |
+| 2 | **Targeting simplicity versus inclusion** | Land-record-based direct transfers (PM-KISAN) and market-price support both scale easily through existing records, but both under-reach tenants, sharecroppers and rainfed/landless households who lack recognised land documents. |
+| 3 | **Domestic food security versus WTO discipline** | MSP-backed procurement protects food-security stocks and producer income, but the same procurement is measured by WTO methodology as large market-price support, inviting counter-notification and dispute even when it is not export-dumping. |
+| 4 | **Fiscal cost versus political durability** | Politically popular universal/flat subsidies (free power, blanket fertiliser pricing) are easy to sustain electorally but crowd out research, extension and infrastructure spending that raise long-run productivity. |
+| 5 | **Speed of relief versus distortion risk** | Price/input support delivers fast relief during distress, but persistent input-linked subsidy (rather than time-bound, output-neutral support) locks farmers into water- or nutrient-intensive cropping patterns even after the original justification fades. |
+| 6 | **Transparency versus complexity** | Converting implicit subsidies (underpriced power/water) into explicit, transparent support improves fiscal honesty and targeting, but explicit support is politically harder to introduce than continuing an invisible, bundled concession. |
+
+## 18. Answer architecture (10/15/20-mark support)
+
+### 18.1 Directive decoder
+
+| Directive word | What the examiner is actually asking for |
+|---|---|
+| Discuss | Multiple support instruments plus at least one clear line of reasoning connecting them to outcomes. |
+| Examine / Analyse | Dissect delivery mechanism, incidence and distortion — not a scheme list. |
+| Evaluate / Critically discuss | Explicit reasoned verdict on whether the support instrument, on balance, helps or distorts. |
+| Enumerate / Describe | Structured factual listing with correct classification (direct/indirect; WTO box). |
+| Comment | Short judgement with one supporting reason. |
+
+### 18.2 Evidence selection by mark value
+
+- **10 marks/150 words:** 1 direct + 1 indirect subsidy example from §16, one incidence point
+  (§6), one WTO-box reference (§8.2), and a one-line verdict.
+- **15 marks/250 words:** the full 2023 GS-III template at §12 — direct + indirect support,
+  three WTO issues, one dated anchor from §15, and a reform-direction verdict.
+- **20 marks:** add a second dated anchor from §15, at least two trade-offs from §17, and an
+  explicit developed-versus-developing-country asymmetry argument (§8.5.7) before the verdict.
+
+### 18.3 Counter-evidence integration rule
+
+Any claimed subsidy "benefit" (affordability, income support, food security) must be paired
+in the same paragraph with its incidence, distortion or WTO-classification caveat from §16 or
+§17 — this is what separates a "Discuss" answer from a mere list.
+
+### 18.4 10/15/20 mark-scaling template
+
+```text
+10 MARKS (150 words)
+Intro: define subsidy + direct/indirect distinction (1 line)
+Direct + indirect example with incidence note (4 lines)
+One WTO-box reference (2 lines)
+Verdict (1 line)
+
+15 MARKS (250 words)
+Intro (1 line)
+Direct support (2 lines) + Indirect support (3 lines)
+WTO issues: Amber/de minimis/Peace Clause (4 lines)
+One dated anchor from §15 (2 lines)
+Way-forward verdict (2 lines)
+
+20 MARKS (250-300 words)
+Intro (1 line)
+Direct + indirect support with incidence (5 lines)
+WTO issues including asymmetry argument (5 lines)
+Two dated anchors from §15 (3 lines)
+Two trade-offs from §17 (3 lines)
+Reasoned verdict + reform sequencing (3 lines)
+```
+
+### 18.5 Reasoned-verdict template
+
+> "[Subsidy instrument] supports [stated objective] as shown by [named evidence/anchor from
+> §15-16]; however, [incidence/distortion/WTO issue] means the benefit is [qualified —
+> partial/regionally skewed/fiscally contested]. India's defensible path is therefore
+> [reform direction from §8.6/§11], balancing food/livelihood security against WTO
+> transparency and ecological sustainability."
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2020
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2020, 2023
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 2
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2020 | Prelims GS-I | 94 | Chemical fertilizers ammonia source sulphur input and pricing | Objective question; official key unavailable locally | Cross-routed to input fundamentals and fertiliser pricing/subsidy owner; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | GS-III | 14 | Farm subsidies in India and WTO dispute on agricultural support | Discuss · 15 marks · 250 words | Routed to dedicated farm-subsidy/WTO owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Chemical fertilizers ammonia source sulphur input and pricing
+- Farm subsidies in India and WTO dispute on agricultural support
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

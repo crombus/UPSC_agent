@@ -96,3 +96,54 @@ desertification, land degradation and drought; India hosted COP14 in New Delhi i
 
 - Explain the multiple causes of desert aridity: subsidence, offshore trades, cold currents, continentality and rain shadow.
 - Discuss UNCCD COP16 as a global institutional response to expanding drylands and drought risk.
+
+## 9. Answer architecture (10/15/20-mark support)
+
+### 9.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Account for the location of the world's hot deserts" | The multi-cause explanation — subtropical subsidence, continentality, rain shadow, cold currents — matched to named deserts | Say "they are far from the sea" |
+| "Why are some deserts cool and foggy?" | The cold-current stabilisation mechanism, with the Atacama and Namib as evidence | Assume all deserts are hot |
+| "Discuss human adaptation in arid lands" | Water strategy first — oasis, qanat-type systems, wells, canals — then mobility, then modern irrigation and its salinity cost | List nomadic traits decoratively |
+| "Compare hot deserts with mid-latitude deserts" | Cause, temperature regime, seasonality and land use | Treat all deserts as identical |
+
+### 9.2 Hot and mid-latitude deserts compared
+
+| Axis | Hot / trade-wind desert | Mid-latitude / continental desert |
+|---|---|---|
+| ⚠️ Principal cause | Subtropical high-pressure subsidence | Continentality, reinforced by rain shadow |
+| ⚠️ Latitude | Roughly 20-30 degrees, on the western sides of continents especially | Deep continental interiors of the middle latitudes |
+| ⚠️ Winter | Mild | Severely cold — the decisive difference |
+| ⚠️ Annual temperature range | Large, but diurnal range is the more striking figure | Extremely large annually |
+| ⚠️ Human occupancy | Oasis settlement, pastoral nomadism, irrigated pockets | Sparse; pastoralism; mining and strategic settlement |
+
+> 🔑 **Trap:** the mid-latitude deserts are **cold in winter**. Describing the Gobi as a hot desert,
+> or generalising "desert" to mean "hot", is a standard error. Detailed causation of aridity and the
+> arid landform suite are in `07_Arid-Desert-Landforms.md`.
+
+### 9.3 Reusable 10-mark spine — living in the desert
+
+1. **Thesis:** desert societies are organised around **access to water in time and space**, and every
+   distinctive feature of desert settlement, mobility and property is derivable from that.
+2. **The water strategies:** exotic rivers crossing the desert; oases fed by groundwater reaching the
+   surface; wells and traditional gravity conduits; and, in the modern period, deep tube wells,
+   long-distance canals and desalination.
+3. **The mobility strategy:** pastoral nomadism as a rational response to spatially and temporally
+   scattered forage, not as an anachronism.
+4. **The trade strategy:** desert crossings as high-value trade corridors, with towns at the water
+   points.
+5. **Modern transformation and its cost:** irrigation converts desert margins into productive land
+   but risks waterlogging and salinisation without drainage; deep abstraction can mine
+   non-renewing groundwater; and settlement of nomadic populations concentrates grazing pressure.
+6. **Conclusion:** graded — technology relaxes the water constraint but relocates it, turning a
+   natural limit into a management and equity question.
+
+### 9.4 Evidence unit
+
+> **Claim:** aridity is a circulation outcome, not simply a rainfall statistic. **Evidence:** the
+> great trade-wind deserts lie beneath the descending limb of the subtropical high, while the
+> Atacama and Namib are cooled and stabilised by cold offshore currents and receive fog rather than
+> rain. **Significance:** it explains why deserts occupy predictable latitudinal and coastal
+> positions rather than being scattered. **Limitation:** most large deserts have more than one cause
+> operating together, so single-cause explanations are usually incomplete.

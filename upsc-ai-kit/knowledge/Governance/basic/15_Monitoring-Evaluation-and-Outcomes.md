@@ -184,3 +184,181 @@ output-outcome gap and feed evidence back into governance correction.
 - ✅ `13_Public-Finance-and-Service-Delivery-Tools.md` — PFMS/DBT data feeding into outcome
   evaluation.
 - ✅ `00_Master-Framework.md` — the "learning gap" this topic directly closes.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Scope.** All marks-bearing content for *monitoring, evaluation and outcomes* is held
+> **in this file**. `advanced/15` is optional enrichment only.
+> ⚠️ This topic has **no routed 2018–2025 Mains PYQ of its own**, which makes it a classic
+> unfamiliar-question risk: it appears as the *evaluative half* of questions about schemes,
+> governance quality and expenditure. The architecture below is therefore built for
+> transfer, not for a remembered question.
+
+### 13.1 Demand map
+
+| Stem pattern | What is being tested | Opening move |
+|---|---|---|
+| "Evaluate / assess the impact of \<scheme\>" | Whether you know what evidence would settle it | Say what an output claim proves and what it does not, before citing anything |
+| "Outcome budgeting" | Input–output–outcome discipline | Distinguish outlay, output, outcome and impact in sentence one |
+| "Monitoring mechanisms in India" | Institutional knowledge with limits | DMEO · OOMF · ADP dashboard, each with what it can and cannot see |
+| "Data-driven governance" | Data quality scepticism | Ask who generates the data and whether they are judged by it |
+| "Third-party evaluation" | Independence rationale | Name the conflict of interest self-assessment creates |
+| Novel demand (evaluate an unfamiliar programme, design an M&E system) | Transferability | Build the results chain, then the indicator set, then the attribution question |
+
+### 13.2 Qualified theses
+
+- **T1 (output–outcome):** "Counting what was built is not measuring what changed; India's
+  administrative system is comprehensively instrumented for outputs and only selectively for
+  outcomes, which is why schemes can report full delivery alongside unchanged conditions."
+- **T2 (attribution):** "Evaluation's hard problem is not measurement but attribution: the
+  question is never whether an indicator moved, but whether it moved *because of* the
+  intervention — and answering that requires a counterfactual, not a before-and-after."
+- **T3 (incentive):** "Every indicator that carries a consequence becomes a target and stops
+  being a measure; monitoring systems must therefore be designed against gaming, not merely
+  for accuracy."
+- **T4 (learning):** "The purpose of evaluation is learning, and its dominant Indian use is
+  compliance — which is why findings accumulate without changing scheme design."
+
+### 13.3 Mark-scaled structure
+
+**10 marks** — the output/outcome distinction with one example; one named institution;
+one data-quality or attribution limitation; verdict.
+
+**15 marks** — thesis; the results chain (§13.4); 4–6 evidence units; indicator design and
+its failure modes (§13.6); the compliance-vs-learning problem; graded verdict.
+
+**20 marks** — thesis with criteria; the full results chain with attribution methods and
+their limits (§13.5); institutional architecture with each body's distinct function;
+Goodhart/gaming analysis; equity disaggregation as an evaluation requirement, not an extra;
+the feedback loop into redesign (the Master Framework's learning gap); verdict with reversal
+condition.
+
+### 13.4 The results chain — the spine of every evaluative answer
+
+```text
+INPUT      money, staff, materials committed          "we allocated ₹X and Y posts"
+   v
+ACTIVITY   what was done                              "training conducted, pipes laid"
+   v
+OUTPUT     what was directly produced                 "N km of road, N schools built"
+   v       <-- most Indian scheme reporting stops here
+OUTCOME    the change in the target population        "travel time down, learning up"
+   v
+IMPACT     the longer-term, wider change              "market access, income, mobility"
+           <-- attribution hardest here; most contested
+```
+
+⚠️ **The move that earns marks:** when a question cites a statistic, name which rung it sits
+on. "Ninety per cent of households covered" is an **output**; "water quality at the point of
+use" is an **outcome**. An answer that performs this classification on the examiner's own
+figure demonstrates criteria 4 and 6 simultaneously.
+
+### 13.5 Attribution and method (what a 20-mark answer must be able to say)
+
+| Method | What it can establish | Honest limitation |
+|---|---|---|
+| **Before–after comparison** | That the indicator moved | Cannot separate the intervention from everything else that changed |
+| **With–without / comparison group** | A plausible counterfactual | Comparison groups may differ systematically from the treated group |
+| **Randomised controlled trial** | Causal effect for the studied population and design | ⚠️ Limited external validity; ethical and practical limits on randomising an entitlement; measures the *variant tested*, not the policy as generally implemented; and cannot capture general-equilibrium or political effects |
+| **Quasi-experimental designs** | Causal inference where randomisation is impossible | Depend on assumptions that must be stated and can fail |
+| **Process evaluation** | *Why* an outcome did or did not occur | Does not by itself measure the effect size |
+| **Mixed methods** | Effect **plus** mechanism plus beneficiary experience | Costlier; requires genuine integration, not a qualitative appendix |
+| **Administrative-data analysis** | Continuous, low-cost tracking at scale | Quality depends on the incentive of whoever enters the data |
+
+⚠️ **State the baseline requirement explicitly:** without a **baseline** measured before the
+intervention, no method can produce a defensible outcome claim — and the absence of baselines
+is a recurring, nameable weakness in Indian scheme design.
+
+### 13.6 Indicator design and its failure modes
+
+**A usable indicator is:** specific, measurable at a defined frequency, attributable to the
+intervention, independently verifiable, disaggregable by group and geography, and resistant
+to manipulation.
+
+| Failure mode | What it looks like | Correction |
+|---|---|---|
+| **Goodhart's problem** | An indicator that carries consequence stops measuring and starts being produced — "when a measure becomes a target, it ceases to be a good measure" | Basket of indicators; rotate; audit a sample independently |
+| **Self-reported data** | The entity judged by the number also generates it | Third-party validation; independent sample survey |
+| **Aggregation masking** | A district average conceals block and group-level failure | Mandatory disaggregation by gender, social group, disability and geography |
+| **Output substitution** | Effort shifts to what is counted, away from what is not | Include quality and outcome indicators, not only coverage |
+| **Survivor/selection effects** | Only reachable beneficiaries are measured | Measure drop-off and exclusion explicitly (see `13` §E2) |
+| **Definition drift** | The indicator's definition changes between years | Publish definitions with the series; note breaks |
+
+### 13.7 Evidence bank — India's M&E architecture
+
+| Anchor | What it is | Function | Limitation / caution |
+|---|---|---|---|
+| ✅ **DMEO (NITI Aayog)** | Formed in **2015** by merging the **Programme Evaluation Organisation** and the **Independent Evaluation Office** | Monitors and evaluates government programmes; commissions third-party evaluation | An evaluator without authority to redesign; findings must be adopted by the line ministry |
+| ✅ **DMEO's evaluation criteria — R-E-E-S-I + C + E** | Relevance · Effectiveness · Efficiency · Sustainability · Impact · Coherence · Equity | A ready criteria set for any "evaluate" stem | Criteria are a frame, not evidence |
+| ✅ **Output-Outcome Monitoring Framework (OOMF)** | Annual Union Budget document for covered major Central Sector and Centrally Sponsored Schemes, specifying outlay, outputs, outcomes, indicators and targets; administered by the Ministry of Finance, Budget Division | Forces dual reporting so budget scrutiny goes beyond expenditure | ⚠️ It does **not** cover every scheme in every year — 📰 the **2026-27** document covers **172** major schemes with outlay of **₹500 crore or more**; cite coverage with its year |
+| ✅ **Aspirational Districts Programme (NITI Aayog)** | **112 districts**, **49 KPIs** across **five themes**; **Champions of Change** dashboard; **delta ranking** | Near-real-time district tracking; ranks the *pace* of improvement so a lagging district is not permanently bottom | Data largely **district-self-reported** with validation by selected agencies; district unit masks intra-district divergence |
+| ✅ **Aspirational Blocks Programme** | **513 blocks** in current NITI material | A finer unit for sub-district divergence | ❌ Do **not** merge district and block unit counts or indicator sets — they are separate exercises |
+| ⚠️ **Third-party evaluation** | Evaluation by an entity independent of the implementing ministry | Removes the conflict of interest in self-assessment | Independence depends on who commissions, funds and can suppress the report |
+| ⚠️ **Outcome budgeting** | Linking allocation to measurable outcome targets | Shifts budget conversation from spend to effect | Outcome targets can themselves be set undemandingly |
+
+### 13.8 Counter-argument and trade-off bank
+
+- ⚠️ **Measurement vs measurability bias:** what is easy to count crowds out what matters —
+  enrolment over learning, toilets over use, camps held over conditions treated.
+- ⚠️ **Evaluation cost vs value:** rigorous evaluation is expensive and slow; some
+  programmes are too small to justify it. Proportionality: evaluate the large and the novel;
+  monitor the routine.
+- ⚠️ **Learning vs accountability:** evaluation used punitively produces defensive reporting
+  and suppresses the honest failure data that learning requires. Separating the two uses —
+  and protecting the first — is a real institutional design problem.
+- ⚠️ **Real-time dashboards vs data quality:** frequency and reliability trade off directly;
+  monthly self-reported data is timely and weak.
+- ⚠️ **Standardised indicators vs local relevance:** national comparability requires uniform
+  indicators; local usefulness requires context-specific ones.
+- ⚠️ **Evidence vs politics:** evaluation findings compete with political commitment; an
+  evaluation that recommends discontinuing a flagship programme rarely prevails. Saying this
+  is realism, not cynicism.
+- ⚠️ **Transparency of findings:** an evaluation not published cannot be contested,
+  replicated or used — publication is itself an accountability mechanism (see `08`).
+
+### 13.9 Stakeholder and last-mile variation
+
+- **District/block officer:** generates the data and is ranked on it — the single strongest
+  source of gaming pressure.
+- **Frontline worker:** carries the reporting burden, often on multiple parallel formats,
+  which itself reduces service time.
+- **Line ministry:** owns the scheme and the reputational stake in its evaluation.
+- **DMEO/evaluator:** produces evidence without authority to act on it.
+- **Ministry of Finance:** uses OOMF to connect allocation to expected results.
+- **Beneficiary:** the only party who experiences the outcome and is usually surveyed rather
+  than consulted — community scorecards and social audit (see `08`, `14`) are the routes that
+  change this.
+- **Legislature/PAC:** converts evaluation and audit findings into consequence — the coupling
+  that makes evaluation matter.
+
+### 13.10 Verdict scaffolds and factual controls
+
+**Verdicts.**
+- *Evaluate-a-scheme stem:* "On outputs the programme has largely delivered; on outcomes the
+  evidence is thinner and, absent a baseline and a comparison group, the improvement cannot
+  confidently be attributed to it — which is a finding about the evaluation design as much
+  as about the scheme."
+- *Monitoring stem:* "India has built genuine real-time monitoring capability and has not yet
+  solved the incentive problem underneath it: the officer who reports the number is judged by
+  the number."
+- *Outcome-budgeting stem:* "Requiring outcome statements alongside outlay was a real advance
+  in budget scrutiny; its unfinished business is that outcome achievement carries no
+  budgetary consequence."
+- *Novel-programme stem:* build the results chain, name the indicator at each rung, state the
+  counterfactual you would need, and identify the gaming risk.
+
+**Factual and current-status controls.**
+- ✅ Safe: DMEO formed in **2015** by merging the Programme Evaluation Organisation and the
+  Independent Evaluation Office; OOMF administered by the Ministry of Finance's Budget
+  Division; ADP's **112 districts**, **49 KPIs**, five themes, Champions of Change dashboard
+  and delta ranking; Aspirational Blocks Programme's **513 blocks**; DMEO's REESI+C+E
+  criteria.
+- 📰 **Dated:** the **OOMF 2026-27** coverage of **172 major schemes with outlay of ₹500 crore
+  or more** is a **document-year-specific** figure — always cite it with the Budget year, and
+  never carry it forward.
+- ❌ **Do not assert:** any district's ADP rank or KPI value; any evaluation's findings,
+  effect size or recommendation; the number of evaluations DMEO has completed; a
+  scheme-coverage percentage without its year; any RCT result or study attribution.
+- ⚠️ **Never carry forward a scheme-count or coverage figure across Budget years.** OOMF
+  coverage changes annually by design, and a stale figure is the most likely factual error
+  in this topic.

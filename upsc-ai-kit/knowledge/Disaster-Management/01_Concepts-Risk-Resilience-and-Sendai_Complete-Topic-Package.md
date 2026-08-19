@@ -516,117 +516,270 @@ Sendai Framework at the global level.
   cooperation and monitoring architecture in full.
 
 
+## Post-audit Core answer architecture
+
+> **Core-first rule (15 August 2026):** Read this package's foundation
+> and advanced material for understanding, but write every answer from
+> the Core architecture now maintained in
+> [`basic/01_Concepts-Risk-Resilience-and-Sendai.md`](basic/01_Concepts-Risk-Resilience-and-Sendai.md)
+> §13. Advanced depth is optional. A marks-worthy answer must use
+> **claim → named evidence/example → significance → qualification**.
+
+### A 15-mark resilience spine
+
+```text
+DEFINE resilience
+  -> DETERMINE risk: hazard + exposure + vulnerability + capacity
+  -> FRAMEWORK: knowledge | robustness | redundancy | resourcefulness |
+     inclusive preparedness | rapid recovery/adaptation
+  -> SENDAl: four priorities + Targets A–G
+  -> QUALIFIED VERDICT: plans/targets are not outcomes
+```
+
+Use the risk chain to explain determination; do not equate resilience
+with restoration of the prior unsafe condition. For Sendai, name every
+target compactly: **A** mortality, **B** affected people, **C** direct
+economic loss/GDP, **D** critical infrastructure/basic services, **E**
+national/local DRR strategies, **F** international cooperation and
+**G** multi-hazard warning/risk information. Target E had the 2020
+deadline; Sendai remains voluntary/non-binding.
+
 ## Solved topic-specific MCQs
 
-### Q1. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. ✅ **Ten-point PM agenda on DRR (AMCDRR, New Delhi, November 2016):**
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
-**Answer: A**
-**Explanation:** ✅ **Ten-point PM agenda on DRR (AMCDRR, New Delhi, November 2016):**
+### Q1. Which statement best distinguishes a disaster from a hazard?
 
-### Q2. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. ✅ **Sendai Framework for Disaster Risk Reduction 2015-2030:** adopted
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
-**Answer: B**
-**Explanation:** ✅ **Sendai Framework for Disaster Risk Reduction 2015-2030:** adopted
+A. A hazard becomes a disaster when it interacts with exposure,
+   vulnerability and insufficient capacity.
+B. Every geophysical hazard is automatically a disaster.
+C. Capacity is irrelevant once a hazard occurs.
+D. Disaster risk is only the probability of a hazard.
 
-### Q3. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. 📰 **The seven global targets (A-G)** — VisionIAS shows them only as a
-- D. The opposite or an unqualified version of the source proposition is correct.
-**Answer: C**
-**Explanation:** 📰 **The seven global targets (A-G)** — VisionIAS shows them only as a
+**Answer: A.** A hazard is a potentially damaging event/condition. The
+VisionIAS/UNDRR logic is that disruption beyond coping capacity arises
+through hazard interacting with vulnerability and insufficient capacity;
+B–D remove the social-risk mechanism.
 
-### Q4. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. 📰 **Early Warnings for All (EW4All)** — the UN Secretary-General's
-**Answer: D**
-**Explanation:** 📰 **Early Warnings for All (EW4All)** — the UN Secretary-General's
+### Q2. Which Sendai target had the earlier, 2020 deadline?
 
-### Q5. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. ✅ **National Disaster Management Plan, 2016** incorporates the four
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
-**Answer: A**
-**Explanation:** ✅ **National Disaster Management Plan, 2016** incorporates the four
+A. Target C: direct economic loss relative to global GDP.
+B. Target E: national and local DRR strategies.
+C. Target F: international cooperation to developing countries.
+D. Target G: multi-hazard early warning and risk information.
 
-### Q6. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. ✅ VisionIAS flags the NDMP 2016's own shortcomings: it is "too generic,"
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
-**Answer: B**
-**Explanation:** ✅ VisionIAS flags the NDMP 2016's own shortcomings: it is "too generic,"
+**Answer: B.** Target E concerns the number of countries with national
+and local DRR strategies and carried the 2020 deadline. The other listed
+targets are framed to 2030. A deadline is not evidence of achievement.
 
-### Q7. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. ⚠️ **PYQ mapping:** 2024 Q17 directly asks "What is disaster
-- D. The opposite or an unqualified version of the source proposition is correct.
-**Answer: C**
-**Explanation:** ⚠️ **PYQ mapping:** 2024 Q17 directly asks "What is disaster
+### Q3. Which pairing is correct?
 
-### Q8. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. ✅ Risk = Probability of Hazard x Degree of Vulnerability (VisionIAS
-**Answer: D**
-**Explanation:** ✅ Risk = Probability of Hazard x Degree of Vulnerability (VisionIAS
+A. Target A — access to early-warning systems.
+B. Target D — international cooperation.
+C. Target C — direct disaster economic loss relative to global GDP.
+D. Target G — national/local DRR strategies.
+
+**Answer: C.** Target C is the economic-loss/GDP target. A is mortality,
+D covers critical infrastructure/basic services, E covers national/local
+strategies and G covers multi-hazard warning/risk information.
+
+### Q4. Which formulation is most accurate for an earthquake question?
+
+A. More sensors allow exact place-and-time prediction.
+B. A forecast guarantees impact will occur.
+C. A warning is identical to a seismic hazard map.
+D. Precise prediction is not available; risk reduction relies on safer
+   construction, preparedness and response capacity.
+
+**Answer: D.** This package separates prediction, forecast and warning.
+Earthquake resilience is principally a vulnerability/compliance problem;
+post-event information or tsunami warning does not become earthquake
+prediction.
+
+### Q5. Which use of the National Disaster Management Plan is safest?
+
+A. Cite the revised NDMP 2019 as the latest published plan; treat the
+   2016 plan's generic/uncosted critique as document-period evidence.
+B. Call NDMP 2016 the current plan because it first aligned India with
+   Sendai.
+C. Claim the 2016 critique proves NDMP 2019 has no targets.
+D. Treat an NDMP plan as evidence of district-level implementation.
+
+**Answer: A.** The 2019 revision is the current published plan. A
+critique of the first edition may support analysis but cannot be carried
+forward as current without a dated comparison; plan existence is not an
+outcome.
+
+### Q6. Which is the strongest resilience evidence unit?
+
+A. “India should build resilience.”
+B. “Risk knowledge plus robust/redundant infrastructure and inclusive
+   warning can reduce disruption; Sendai Target D links this to critical
+   infrastructure/basic-service continuity, but the target is voluntary
+   and outcome data need separate verification.”
+C. “Sendai has many useful targets.”
+D. “Response is the only resilience phase.”
+
+**Answer: B.** It gives a claim, named framework evidence, mechanism and
+qualification. A/C are assertions; D collapses the full risk-to-recovery
+cycle.
+
+### Q7. Which statement correctly separates loss outcomes from means of
+implementation in Sendai?
+
+A. A–D are all warning-system targets.
+B. E–G are all economic-loss targets.
+C. A–D concern loss reduction; E–G concern strategies, cooperation and
+   warning/risk-information capacity.
+D. Only Target E matters to national governments.
+
+**Answer: C.** This grouping helps organise a Mains answer, while Target
+E's earlier deadline and Sendai's voluntary status prevent overclaiming.
+
+### Q8. Which conclusion best answers an evaluation of resilience?
+
+A. Any relief payout proves a community is resilient.
+B. A national framework removes local vulnerability.
+C. Resilience is achieved once a warning message is issued.
+D. Resilience is credible only when risk knowledge, inclusive capacity,
+   investment, early action and safer recovery reduce future disruption.
+
+**Answer: D.** The conclusion reconnects the complete cycle and tests
+results, not a single scheme, alert or response input.
 
 ## Solved answer-writing practice
 
-- **10 marks:** Explain the central concepts and distinctions in Concepts, Risk, Resilience and Sendai.
-- **15 marks:** Analyse Concepts, Risk, Resilience and Sendai with applications and limitations.
-- **20 marks:** Critically examine Concepts, Risk, Resilience and Sendai and provide a balanced judgement.
+### 10 marks — Explain why a hazard need not become a disaster. (150 words)
+
+**Model answer:** A hazard is a potentially damaging event or condition;
+a disaster is the serious disruption produced when that hazard interacts
+with exposure, vulnerability and inadequate capacity beyond a community's
+ability to cope. Thus a cyclone over an uninhabited coast is not
+comparable to the same cyclone reaching exposed settlements, weak
+housing, unprotected lifelines and people unable to evacuate.
+
+Vulnerability is physical (unsafe construction/siting), economic
+(livelihood and savings), social (age, disability, gender and exclusion),
+environmental (degraded buffers) and attitudinal. Capacity changes the
+outcome through risk mapping, codes, ecosystem protection, accessible
+warning, trained communities, response and safer reconstruction. The DM
+cycle consequently starts before impact: prevention/mitigation and
+preparedness lower exposure/vulnerability or raise capacity; response and
+Build Back Better prevent the same risk from being reproduced.
+
+**Verdict:** hazards may be unavoidable, but disaster loss is substantially
+shaped by risk governance and equitable coping capacity.
+
+**Why this earns marks:** it defines both terms, explains the mechanism,
+names differentiated vulnerability and concludes with a qualified,
+answer-specific proposition.
+
+### 15 marks — 2024 GS-III Q17
+
+> **Verbatim local-paper wording (including source OCR defect):** “What
+> is disaster resilience? How is it determined? Describe various elements
+> of a resilience framework. Also mention the global targests of Sendai
+> Framework for Disaster Risk Reduction (2015-2030)” (250 words, 15
+> marks).
+
+**Model answer:** Disaster resilience is the ability of people, systems
+and institutions to resist, absorb, adapt to and recover from a hazard
+without recreating the prior risk. It is determined not by the hazard
+alone but by the interaction of hazard, exposure, physical/social/
+economic/environmental vulnerability and available capacity.
+
+A usable resilience framework therefore has six linked elements:
+
+1. **Risk knowledge:** hazard, exposure and vulnerability mapping;
+2. **Robustness:** risk-sensitive land use and code-compliant lifelines;
+3. **Redundancy:** alternative power, communications, routes and service
+   capacity;
+4. **Resourcefulness:** clear institutions, trained communities and
+   finance able to act under stress;
+5. **Inclusive warning and preparedness:** authoritative alert,
+   accessible dissemination, evacuation/drills and support for persons
+   unable to self-evacuate; and
+6. **Rapid, adaptive recovery:** rehabilitation and reconstruction that
+   Build Back Better rather than restore unsafe exposure.
+
+Sendai operationalises this through four priorities—understand risk,
+strengthen governance, invest in DRR and enhance preparedness/BBB—and
+seven targets: **A** mortality, **B** affected people, **C** direct
+economic loss/GDP, **D** critical infrastructure/basic services, **E**
+national/local DRR strategies, **F** international cooperation and **G**
+multi-hazard warning/risk information. Target E had a 2020 deadline;
+the others run to 2030.
+
+**Verdict:** resilience is demonstrated by reduced, equitable disruption
+and safer recovery, not by a plan, warning or target alone; Sendai is a
+useful but voluntary benchmark.
+
+**Why this earns marks:** it answers every subpart, keeps the risk chain
+visible, names all seven targets accurately and separates framework
+existence from evidence of outcomes.
+
+### 20 marks — Critically examine whether disaster resilience is mainly a
+technical problem.
+
+**Model answer spine:** **Thesis:** technology improves risk information
+but resilience is socio-technical: technology fails when exposed people
+cannot receive, understand or act on it. **Knowledge:** use GIS/risk
+mapping and hazard-specific detection. **Infrastructure:** use robust
+codes and redundant lifelines. **Institutions/finance:** assign NDMA–
+SDMA–DDMA roles and distinguish relief from mitigation finance.
+**Inclusion:** make warnings accessible, provide transport/shelter and
+include local knowledge. **Recovery:** apply BBB to homes, livelihoods
+and services. **Counterpoint:** sensors, apps and early warning can save
+critical time; their value is real, not cosmetic. **Qualification:**
+platform coverage or an alert issued is not evidence of last-mile action
+or reduced losses. **Verdict:** technology is necessary but becomes
+resilience only through accountable institutions, inclusion, investment
+and risk-informed recovery.
 
 ## Final consolidated register notes
 
-- ✅ **Ten-point PM agenda on DRR (AMCDRR, New Delhi, November 2016):**
-- ✅ **Sendai Framework for Disaster Risk Reduction 2015-2030:** adopted
-- 📰 **The seven global targets (A-G)** — VisionIAS shows them only as a
-- 📰 **Early Warnings for All (EW4All)** — the UN Secretary-General's
-- ✅ **National Disaster Management Plan, 2016** incorporates the four
-- ✅ VisionIAS flags the NDMP 2016's own shortcomings: it is "too generic,"
-- ⚠️ **PYQ mapping:** 2024 Q17 directly asks "What is disaster
-- ✅ Risk = Probability of Hazard x Degree of Vulnerability (VisionIAS
-- ✅ Four ways of dealing with risk: acceptance, avoidance, reduction,
-- ✅ Sendai Framework (2015-2030) has four priorities and seven global
-- 📰 The seven targets are lettered **A-G**: mortality (A), affected
-- 📰 **Early Warnings for All (EW4All)** — UN Secretary-General's call of
-- 📰 The Sendai Midterm Review High-Level Meeting was held **17-19 May
-- ✅ The PM's ten-point DRR agenda was announced at AMCDRR, New Delhi,
-- ⚠️ Rapid-onset disasters (earthquake, cyclone, flood, tsunami) versus
-- 📰 The Sendai Framework's implementation status is authoritatively
-- 📰 For **Target G** specifically, the current operational anchor is the
-- ✅ **2024 Q17 (verbatim, local paper text reproduced verbatim):**
-- ⚠️ No other audited 2024/2025 GS-III question directly tests this
-- ✅ Advanced companion: advanced/01_Concepts-Risk-Resilience-and-Sendai.md.
-- ✅ 00_Master-Framework.md Sections 1, 2 and 6 — the risk equation, DM
-- ⚠️ **Downstream topics in this folder:** Topic 02 applies the
-- ✅ **DRR field of action, precisely sequenced:** policy/legal
-- ✅ **NDMP 2016's self-acknowledged limitation** — VisionIAS records it
-- ⚠️ This is structurally identical to the Sendai Framework's own
-- 📰 **The 2023 Midterm Review is the point at which this weakness became
-- ⚠️ **Attitudinal vulnerability as a frequently under-used concept:**
-- ⚠️ **Slow-onset disasters as an under-tested category relative to
-- ⚠️ Measuring resilience requires *data on capacity*, not merely hazard
-- 📰 **Current-anchor discipline:** any claim about India's or the
-- ✅ VisionIAS's five-fold vulnerability typology (economic, physical,
-- ⚠️ **Prevention/mitigation investment versus response readiness is a
-- ⚠️ **Sendai's four priorities are diagnostic categories, not a
-- ⚠️ Monitoring Sendai's seven targets requires standardised national
-- 📰 Any numeric claim about India's own progress against a specific
-- 📰 **UNDRR Sendai Framework Midterm Review Political Declaration
-- ✅ **2024 Q17** is this topic's direct PYQ. An advanced answer should
-- ✅ Foundation companion: basic/01_Concepts-Risk-Resilience-and-Sendai.md.
-- ✅ 00_Master-Framework.md Sections 1, 2, 6 and 8 — the risk equation,
-- ⚠️ **Downstream topics in this folder:** Topic 02 develops the DM Act/
+### Risk is produced, not merely received
+
+- `Risk = hazard + exposure + vulnerability − capacity` is an analytical
+  scaffold; use the source's probability × vulnerability relation as a
+  working expression, not a universal measured equation.
+- Name physical, social, economic, environmental and attitudinal
+  vulnerability; attach the relevant group/place to each answer.
+- Prevention avoids new risk; mitigation reduces likelihood/severity;
+  preparedness creates readiness; response protects life; recovery and
+  reconstruction must Build Back Better.
+- Risk transfer shifts financial loss; it does not reduce physical risk.
+
+### Resilience framework
+
+- Definition: resist, absorb, adapt and recover without restoring unsafe
+  exposure.
+- Determination: risk knowledge + robustness + redundancy +
+  resourcefulness + inclusive preparedness + rapid/adaptive recovery.
+- Test outcome separately: warning platform, trained volunteers,
+  sanctioned funds and targets are inputs; receipt/action/continuity/
+  avoided loss are outcomes.
+- Core answer sequence: thesis → risk chain → cycle → institution/scale
+  → inclusion/technology/finance → qualified Sendai/BBB conclusion.
+
+### Sendai quick recall
+
+- **Four priorities:** understand risk; strengthen governance; invest in
+  DRR; prepare/respond/Build Back Better.
+- **Targets A–D:** mortality, affected people, economic loss/GDP,
+  critical infrastructure/basic services.
+- **Targets E–G:** national/local strategies, international cooperation,
+  multi-hazard warning/risk information.
+- Target **E = 2020**; all other targets = 2030. Sendai is voluntary and
+  non-binding, not a treaty.
+- Hyogo (2005–15) = five priorities; Sendai (2015–30) = four priorities
+  plus seven targets.
+
+### India and answer discipline
+
+- NDMP 2019 is the latest published national plan; the 2016 plan is the
+  first edition and its limitations are document-period evidence.
+- Use UNDRR 2023 Midterm Review/EW4All only for dated current-status
+  framing; never invent India’s target performance.
+- The 2024 question's “targests” is a local-source OCR defect preserved
+  only in the explicitly labelled verbatim quotation above.
+- End every evaluation with a reasoned verdict: risk-informed,
+  inclusive development and safer recovery, not relief alone.

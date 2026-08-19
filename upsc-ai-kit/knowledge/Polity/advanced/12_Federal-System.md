@@ -30,7 +30,7 @@ disintegration, (ii) term "Union", (iii) centralising tendency.
 |---|---|---|
 | ✅ 1 | **Dual polity** | Union at centre + states at periphery, each sovereign in its field |
 | ✅ 2 | **Written Constitution** | Lengthiest in world; defines structure/powers/limits of both levels |
-| ✅ 3 | **Division of powers** | 7th Schedule — **Union List (98), State List (59), Concurrent List (52)**; residuary → **Centre** |
+| ✅ 3 | **Division of powers** | 7th Schedule — standard examination counts: **Union List (100), State List (61), Concurrent List (52)**; residuary → **Centre**. Omitted/inserted numbering explains alternate literal counts. |
 | ✅ 4 | **Supremacy of Constitution** | Highest law; laws violating it struck down via judicial review |
 | ✅ 5 | **Rigid Constitution** | Federal provisions need **special majority + ratification by half the states** |
 | ✅ 6 | **Independent judiciary** | SC guards Constitution + settles Centre-state/inter-state disputes |

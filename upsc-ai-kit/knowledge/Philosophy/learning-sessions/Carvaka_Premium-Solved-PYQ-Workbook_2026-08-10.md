@@ -1,4 +1,7 @@
-# Cārvāka / Lokāyata — Premium Solved-PYQ and Practice Workbook
+---
+cover_image: assets/01_Carvaka-One-Four-Two-Zero.png
+---
+# Cārvāka / Lokāyata - Premium Solved-PYQ and Practice Workbook
 
 **UPSC Philosophy Optional · Paper I · Section B · Indian Philosophy · Syllabus item 12 · 2026 Edition**
 
@@ -67,7 +70,7 @@ The Cārvāka holds that *anumāna* is not a *pramāṇa*, because *vyāpti* can
 
 ⚠️ **Verdict:** they are justified against the strong thesis but not entitled to complacency, since Nyāya answers only by replacing omniscient certainty with disciplined warrant — a substitution that concedes the Cārvāka's logical point while denying his epistemological conclusion.
 
-### What a top Philosophy Optional answer must contain
+### Why this earns marks — what a top Philosophy Optional answer must contain
 
 - **Structure:** state the Cārvāka thesis with its argument → survey the schools with **distinct** reasons → the self-refutation charge → the candidate's graded verdict. All three limbs must be visibly answered.
 - **Doctrine:** *vyāpti*, *upādhi*, *petitio principii*, *anvaya-vyatireka*, *tarka*, *parāmarśa*, *sāmānyalakṣaṇa-pratyakṣa*.
@@ -126,7 +129,7 @@ Total  : 13 minutes
 
 ⚠️ **Verdict:** inconsistent as an unrestricted denial; consistent as a fallibilist warning. The Cārvāka may be **radical or consistent, but not both**.
 
-### What a top Philosophy Optional answer must contain
+### Why this earns marks — what a top Philosophy Optional answer must contain
 
 - **Structure:** state the charge as numbered steps → give the replies → deliver the verdict. Do not narrate the *vyāpti* argument at length; the question presupposes it.
 - **Doctrine:** the exact form of the thesis being tested — "no inference is a *pramāṇa*" — and its universality.
@@ -190,7 +193,7 @@ Hence, in Sharma's formulation, the syllogism is an **argument in a circle**: th
 
 ⚠️ **Verdict:** the syllogism is valid but epistemically empty. The charge is a serious one about induction — though the Cārvāka must still explain how his own universal denial of inference is known.
 
-### What a top Philosophy Optional answer must contain
+### Why this earns marks — what a top Philosophy Optional answer must contain
 
 - **Structure:** disclaim the attack on validity → identify the major premise as *vyāpti* → run the three doors **on this premise** → *petitio principii* → *upādhi* → verdict.
 - **Doctrine:** *vyāpti*, *sāmānya* / class-character, *upādhi*, *petitio principii*.
@@ -251,7 +254,7 @@ Total  : 13 minutes
 
 ⚠️ **Verdict:** one epistemic cut, applied twice — and its force is exactly the force of that cut.
 
-### What a top Philosophy Optional answer must contain
+### Why this earns marks — what a top Philosophy Optional answer must contain
 
 - **Structure:** two clearly signposted halves, each with exposition and evaluation; a unifying final sentence.
 - **Doctrine:** four *bhūtas*; the Vaiśeṣika sound-substrate inference; *dehātmavāda*; *adṛṣṭa*.
@@ -317,7 +320,7 @@ Total  : 13 minutes
 
 ⚠️ **Verdict.** Their agreement is instructive: both are *nāstika*, both realists about the perceptible world, both reject a creator. The divergence is over standpoints and substances — which is why Jainism can hold change and persistence together while Cārvāka can only assert them side by side.
 
-### What a top Philosophy Optional answer must contain
+### Why this earns marks — what a top Philosophy Optional answer must contain
 
 - **Structure:** named axes, each carrying both positions in the same sentence or row; then the unifying thesis; then the shared ground.
 - **Doctrine:** *utpāda-vyaya-dhrauvya*; six *dravyas*; *guṇa* and *paryāya*; *anekānta*, *naya*, *syādvāda*; four *bhūtas*.
@@ -377,7 +380,7 @@ The **bearing** is systematic. The bridging principle — ontological commitment
 
 ⚠️ **Comment:** the derivation is impeccably consistent; its cost is that the whole ontology stands or falls with the rejection of inference.
 
-### What a top Philosophy Optional answer must contain
+### Why this earns marks — what a top Philosophy Optional answer must contain
 
 - **Structure:** epistemology compressed into one paragraph → the bridging principle → the derivation, entity by entity → one evaluative line.
 - **Doctrine:** *pratyakṣaika-pramāṇavāda*; the bridging principle; *svabhāvavāda*.
@@ -435,7 +438,7 @@ Total  : 7 minutes
 
 ⚠️ **Verdict:** an illuminating analogy, not a historical identity. **Radical empiricism** or **naturalistic materialism** is the more accurate description. The paradox is that Cārvāka reaches a materialist conclusion by an **anti-inferential** route.
 
-### What a top Philosophy Optional answer must contain
+### Why this earns marks — what a top Philosophy Optional answer must contain
 
 - **Structure:** verdict first → case for → case against → refined label. A graded verdict announced early controls the whole answer.
 - **Doctrine:** the textbook's own use of the word "positivism", with its stated reason — this is the strongest single evidential move available.
@@ -496,7 +499,7 @@ Both schools reject the *ātman* of Nyāya and Vedānta, but the rejections are 
 
 ⚠️ **Verdict:** Cārvāka denies the self's **transcendence** while retaining its **substantiality**; Buddhism denies its substantiality while retaining its **moral continuity**.
 
-### What a top Philosophy Optional answer must contain
+### Why this earns marks — what a top Philosophy Optional answer must contain
 
 - **Structure:** the two positions stated compactly → four explicit differentiating theses → a one-line verdict. Do not write two biographies.
 - **Doctrine:** *dehātmavāda* with the Sanskrit formula; the five *skandhas* named in order; *santāna*; *pratītyasamutpāda* and *kṣaṇikavāda*.
@@ -563,7 +566,7 @@ Total  : 18 minutes
 
 ⚠️ Hence truth is "only an **accident**, and a **separable** one" in inference — not the guaranteed character a *pramāṇa* requires.
 
-### What a top Philosophy Optional answer must contain
+### Why this earns marks — what a top Philosophy Optional answer must contain
 
 - **Structure:** define *vyāpti* → three doors → *upādhi* → the "accident and separable" conclusion. Clean, fast, complete.
 - **Doctrine:** *vyāpti*, *liṅga* and *sādhya*, *upādhi*, *petitio principii*.
@@ -1245,15 +1248,15 @@ D. Positivistic in **spirit** — an empiricist criterion, an anti-metaphysical 
 
 A student writes: "Cārvāka, like Buddhism, denies the self." Which correction is required?
 
-A. Cārvāka denies the self entirely and Buddhism affirms a permanent self.
+A. Cārvāka denies the **transcendental, immaterial** self and positively affirms a **material** one — *caitanya-viśiṣṭaḥ kāyaḥ puruṣaḥ*, the body qualified by consciousness — whereas Buddhism denies **substantiality** as such, including the body-self, since *rūpa* is itself one of the five *skandhas*; the two are therefore not the same denial, and Buddhist analysis refutes Cārvāka's self as decisively as it refutes Nyāya's.
 
-B. Cārvāka denies the **transcendental, immaterial** self and positively affirms a **material** one — *caitanya-viśiṣṭaḥ kāyaḥ puruṣaḥ*, the body qualified by consciousness — whereas Buddhism denies **substantiality** as such, including the body-self, since *rūpa* is itself one of the five *skandhas*; the two are therefore not the same denial, and Buddhist analysis refutes Cārvāka's self as decisively as it refutes Nyāya's.
+B. Cārvāka denies the self entirely and Buddhism affirms a permanent self.
 
 C. Both deny the self identically; the difference is only terminological.
 
 D. Buddhism denies the self only in the Mahāyāna schools.
 
-**Answer: B** · **Note:** this is the exact error the 2024 twenty-marker was set to catch. D is also false: *pudgala-nairātmya* is affirmed by the early realist schools as well; Mahāyāna adds *dharma-nairātmya*.
+**Answer: A** · **Note:** this is the exact error the 2024 twenty-marker was set to catch. D is also false: *pudgala-nairātmya* is affirmed by the early realist schools as well; Mahāyāna adds *dharma-nairātmya*.
 
 ## Remedial R2 — "Rejects inference" versus "never infers"
 
@@ -1261,13 +1264,13 @@ A student writes: "According to Cārvāka nobody ever infers anything, since inf
 
 A. Cārvāka accepts inference as a *pramāṇa* in worldly matters and rejects it only in scripture.
 
-B. Cārvāka rejects perception as well, following Jayarāśi.
+B. Cārvāka denies inference **as a pramāṇa**, that is, as a truth-guaranteeing means; he explicitly concedes that "in life we very often act unsuspectingly on inference" and that inference sometimes succeeds, concluding only that "truth is not an unfailing character of all inferences; it is only an **accident**, and a **separable** one" — and his sharpest target is **transcendental** inference, which no perception could ever check.
 
-C. Cārvāka denies inference **as a pramāṇa**, that is, as a truth-guaranteeing means; he explicitly concedes that "in life we very often act unsuspectingly on inference" and that inference sometimes succeeds, concluding only that "truth is not an unfailing character of all inferences; it is only an **accident**, and a **separable** one" — and his sharpest target is **transcendental** inference, which no perception could ever check.
+C. Cārvāka rejects perception as well, following Jayarāśi.
 
 D. Cārvāka rejects inference only when it is used by Naiyāyikas.
 
-**Answer: C** · **Note:** the distinction between *pramāṇa*-status and everyday expectation is what makes the position discussable at all. A over-corrects by granting *pramāṇa*-status; B confuses the school with Jayarāśi.
+**Answer: B** · **Note:** the distinction between *pramāṇa*-status and everyday expectation is what makes the position discussable at all. A over-corrects by granting *pramāṇa*-status; C confuses the school with Jayarāśi.
 
 ## Remedial R3 — *Svabhāva* versus *adṛṣṭa*
 
@@ -1277,39 +1280,39 @@ A. *Adṛṣṭa* is a Cārvāka term meaning the fixed nature of the elements.
 
 B. Cārvāka accepts *adṛṣṭa* but denies *karma*.
 
-C. Both terms are synonyms in classical Indian philosophy.
+C. **Adṛṣṭa** is the **unseen moral potency** of Nyāya–Vaiśeṣika and Mīmāṃsā that links an act to a later fruit, and Cārvāka rejects it by name — Chatterjee and Datta list "any unperceived law (like *adṛṣṭa*)" among the casualties; what Cārvāka puts **in its place** is **svabhāva**, the inherent natural disposition of the elements, which explains regularity without moral bookkeeping.
 
-D. **Adṛṣṭa** is the **unseen moral potency** of Nyāya–Vaiśeṣika and Mīmāṃsā that links an act to a later fruit, and Cārvāka rejects it by name — Chatterjee and Datta list "any unperceived law (like *adṛṣṭa*)" among the casualties; what Cārvāka puts **in its place** is **svabhāva**, the inherent natural disposition of the elements, which explains regularity without moral bookkeeping.
+D. Both terms are synonyms in classical Indian philosophy.
 
-**Answer: D** · **Note:** the two terms are opposites in function — one is a moral unseen, the other a natural disposition. Confusing them destroys the argument of the 2021 question.
+**Answer: C** · **Note:** the two terms are opposites in function — one is a moral unseen, the other a natural disposition. Confusing them destroys the argument of the 2021 question.
 
 ## Remedial R4 — *Upādhi* versus incomplete enumeration
 
 A student writes: "The *upādhi* objection is simply the point that we have not observed enough cases." Which correction is required?
 
-A. Incomplete enumeration is a defect of **sample size**, curable in principle by further observation; the **upādhi** objection is that even exhaustively observed regularity may track an **unnoticed condition**, so that what remains uncertified is the **identification of the relevant ground** of the relation — Chatterjee and Datta: "unconditionality … cannot be established beyond doubt by perception, as some conditions may **always remain hidden and escape notice**." This is why Nyāya must introduce *tarka* rather than merely more observation.
+A. *Upādhi* is the Nyāya name for the middle term.
 
 B. *Upādhi* means a defect in the form of the syllogism.
 
 C. *Upādhi* applies only to inferences about the future.
 
-D. *Upādhi* is the Nyāya name for the middle term.
+D. Incomplete enumeration is a defect of **sample size**, curable in principle by further observation; the **upādhi** objection is that even exhaustively observed regularity may track an **unnoticed condition**, so that what remains uncertified is the **identification of the relevant ground** of the relation — Chatterjee and Datta: "unconditionality … cannot be established beyond doubt by perception, as some conditions may **always remain hidden and escape notice**." This is why Nyāya must introduce *tarka* rather than merely more observation.
 
-**Answer: A** · **Note:** get the standard example's direction right — one who infers **smoke from fire** errs, because fire is attended with smoke only where the fuel is wet.
+**Answer: D** · **Note:** get the standard example's direction right — one who infers **smoke from fire** errs, because fire is attended with smoke only where the fuel is wet.
 
 ## Remedial R5 — Naturalism, mechanism and positivism
 
 A student writes: "Cārvāka's *svabhāvavāda* is a scientific naturalism, and therefore Cārvāka is a positivist." Which correction is required?
 
-A. *Svabhāvavāda* is a Sāṃkhya doctrine, not a Cārvāka one.
+A. *Svabhāvavāda* is a **metaphysical refusal of teleology**, not an experimental programme; the textbook applies three distinct labels — naturalism (*svabhāvavāda*), mechanism (*yadṛcchāvāda*, which denies conscious purpose and treats the world as a fortuitous combination) and positivism ("because it believes only in positive facts or observable phenomena") — and the positivism label must in any case be qualified, since positivism runs on the very inference Cārvāka denies. Note also the internal tension between grounding regularity in fixed **natures** and calling the world's objects **fortuitous**.
 
-B. *Svabhāvavāda* is a **metaphysical refusal of teleology**, not an experimental programme; the textbook applies three distinct labels — naturalism (*svabhāvavāda*), mechanism (*yadṛcchāvāda*, which denies conscious purpose and treats the world as a fortuitous combination) and positivism ("because it believes only in positive facts or observable phenomena") — and the positivism label must in any case be qualified, since positivism runs on the very inference Cārvāka denies. Note also the internal tension between grounding regularity in fixed **natures** and calling the world's objects **fortuitous**.
+B. *Svabhāvavāda* is a Sāṃkhya doctrine, not a Cārvāka one.
 
 C. Cārvāka has no explanatory principle at all.
 
 D. *Yadṛcchāvāda* means "the doctrine of divine will".
 
-**Answer: B** · **Note:** three labels, three different claims. Collapsing them into "Cārvāka was scientific" is the commonest way to lose the 2024 question.
+**Answer: A** · **Note:** three labels, three different claims. Collapsing them into "Cārvāka was scientific" is the commonest way to lose the 2024 question.
 
 ## Remedial R6 — What survives of the *Bṛhaspati-sūtra*
 
@@ -1317,13 +1320,13 @@ A student writes: "As Bṛhaspati says in his *Sūtra*, earth, water, fire and a
 
 A. The *Bṛhaspati-sūtra* survives complete and may be quoted directly.
 
-B. The *sūtra* is genuine but was composed by Cārvāka rather than Bṛhaspati.
+B. The **Bṛhaspati-sūtra is lost**; about a **dozen** *sūtras* and verses survive only as **quotations in other authors' works**, so the correct form is "as transmitted in the *sūtra* quoted by later authors" or "on the standard reconstruction" — the content of *pṛthivyāptejovāyuriti tattvāni* is well attested, but its textual status is not that of an available primary source.
 
-C. The **Bṛhaspati-sūtra is lost**; about a **dozen** *sūtras* and verses survive only as **quotations in other authors' works**, so the correct form is "as transmitted in the *sūtra* quoted by later authors" or "on the standard reconstruction" — the content of *pṛthivyāptejovāyuriti tattvāni* is well attested, but its textual status is not that of an available primary source.
+C. The *sūtra* is genuine but was composed by Cārvāka rather than Bṛhaspati.
 
 D. The *sūtra* is preserved inside the *Tattvopaplavasiṃha*.
 
-**Answer: C** · **Note:** the modal caution costs four words and signals scholarly control. D is false: Jayarāśi's work is an independent sceptical treatise, not a recension of Bṛhaspati.
+**Answer: B** · **Note:** the modal caution costs four words and signals scholarly control. D is false: Jayarāśi's work is an independent sceptical treatise, not a recension of Bṛhaspati.
 
 ## Remedial R7 — The "ghee and debt" verse
 
@@ -1331,13 +1334,13 @@ A student opens an answer: "The Cārvāka scripture says: let a man live happily
 
 A. The verse is quoted from Vātsyāyana's *Kāma-sūtra*.
 
-B. The verse is preserved in the **Sarva-darśana-saṃgraha**, Mādhava's fourteenth-century Vedāntic compendium — an **opponent's** summary written for refutation — and is not attributable to any surviving primary Cārvāka text; it should be presented as a **doxographical characterisation** of the school's spirit, and its buried argument (that deferral is irrational under a finite horizon) should be extracted rather than the slogan repeated.
+B. The verse is a Jaina parody with no relation to Cārvāka.
 
-C. The verse is a Jaina parody with no relation to Cārvāka.
+C. The verse is preserved in the **Sarva-darśana-saṃgraha**, Mādhava's fourteenth-century Vedāntic compendium — an **opponent's** summary written for refutation — and is not attributable to any surviving primary Cārvāka text; it should be presented as a **doxographical characterisation** of the school's spirit, and its buried argument (that deferral is irrational under a finite horizon) should be extracted rather than the slogan repeated.
 
 D. The verse comes from the *Sāmaññaphala-sutta*.
 
-**Answer: B** · **Note:** the authored knowledge file gives the same instruction for the companion line *yāvat jīvet sukhaṃ jīvet* — a traditional doxographical verse, "not … a securely locatable quotation from an extant primary Cārvāka text". A is doubly wrong, since Vātsyāyana argues **against** refusing deferral.
+**Answer: C** · **Note:** the authored knowledge file gives the same instruction for the companion line *yāvat jīvet sukhaṃ jīvet* — a traditional doxographical verse, "not … a securely locatable quotation from an extant primary Cārvāka text". A is doubly wrong, since Vātsyāyana argues **against** refusing deferral.
 
 ## Remedial R8 — Jayarāśi and the standard Cārvāka
 
@@ -1373,13 +1376,13 @@ Which methodological statement should govern the use of doxographical material i
 
 A. Hostile sources should be discarded entirely, leaving the school undiscussable.
 
-B. Hostile sources should be treated as neutral, since doxographers aimed at accuracy.
+B. Because the sources are **refutational**, the **crude** version of any doctrine is the one most likely to have been preserved — Sharma warns that "the weak points … are exaggerated and the strong points are omitted", so an answer should reconstruct the **strongest defensible reading and say that it is doing so**, while noting that the **convergence** of independent Buddhist, Advaita, Jaina and Vedāntic accounts on the same doctrinal core is itself evidence for that core.
 
 C. The *Sarva-darśana-saṃgraha* should be preferred to all others because it is the longest summary.
 
-D. Because the sources are **refutational**, the **crude** version of any doctrine is the one most likely to have been preserved — Sharma warns that "the weak points … are exaggerated and the strong points are omitted", so an answer should reconstruct the **strongest defensible reading and say that it is doing so**, while noting that the **convergence** of independent Buddhist, Advaita, Jaina and Vedāntic accounts on the same doctrinal core is itself evidence for that core.
+D. Hostile sources should be treated as neutral, since doxographers aimed at accuracy.
 
-**Answer: D** · **Note:** A is the counsel of despair and is refuted by convergence; B ignores the stated purpose of the texts; C is refuted by Sharma's observation that even that summary "seems to be based on such accounts".
+**Answer: B** · **Note:** A is the counsel of despair and is refuted by convergence; D ignores the stated purpose of the texts; C is refuted by Sharma's observation that even that summary "seems to be based on such accounts".
 
 ---
 
@@ -1405,7 +1408,7 @@ D. Because the sources are **refutational**, the **crude** version of any doctri
 
 ⚠️ **Assessment.** The rejection is consistent, because the Cārvāka carefully separates two objects: the **sound**, which is perceived, and the **content**, which is not. He therefore denies testimony independent *pramāṇa*-status without denying communication. The residual cost is that a life without testimonial knowledge is unliveable — but that is a charge of impracticality, not of inconsistency.
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - The five-step argument reproduced, not merely summarised.
 - The sound/content distinction stated explicitly — this is what secures consistency.
@@ -1433,7 +1436,7 @@ D. Because the sources are **refutational**, the **crude** version of any doctri
 
 ⚠️ **Evaluation.** The argument is valid and its rhetorical force is considerable: it exposes that *mokṣa*, defined negatively as the cessation of suffering, has a trivial satisfier. Its weakness is that most schools define liberation **positively** — as *kevala-jñāna*, *nirvāṇa* or the realisation of Brahman — rather than merely as pain's absence, so the dilemma may be attacking a definition its opponents need not accept.
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - Both horns of the dilemma stated, each with its reason.
 - The clause "no wise man would work for that end" quoted or paraphrased — it kills the suicide misreading.
@@ -1461,7 +1464,7 @@ D. Because the sources are **refutational**, the **crude** version of any doctri
 
 ⚠️ **Examination.** There is a real tension. If the elements combine **by their fixed natures**, the resulting world is lawful and not fortuitous; if the combination is **fortuitous**, natures cannot be doing the explanatory work. The most charitable reconstruction assigns them different roles: *svabhāva* explains how each element **behaves** once in combination, while *yadṛcchā* denies that any **purpose** governs which combinations occur. On that reading they are consistent, and their joint target is teleology rather than regularity. ⚠️ The Cārvāka's own caution supports this: he grants that there is "neither any guarantee that uniformity perceived in the past would continue in future".
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - Both terms defined with the textbook's own glosses.
 - The tension named explicitly rather than glossed over.
@@ -1491,7 +1494,7 @@ D. Because the sources are **refutational**, the **crude** version of any doctri
 
 ⚠️ **Replies and verdict.** The Cārvāka may answer that the property is essential to a specific **organisation** rather than to bare bodily existence, and that positing an immaterial soul merely **renames** the gap. The honest verdict: the evidence establishes **dependence**, not production; both sides face the gap, and only one claims to have crossed it.
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - The transmitted *sūtra* quoted or paraphrased.
 - Both analogies, with their **distinct** functions named.
@@ -1524,7 +1527,7 @@ D. Because the sources are **refutational**, the **crude** version of any doctri
 
 ⚠️ **Counter-consideration and verdict.** Nyāya may reply that a relation surviving systematic negative-case testing plus *tarka* is rationally warranted even if not indefeasible. That defends inference; it does not refute the *upādhi* point. The claim therefore stands: *upādhi* is the deeper argument, and it is the one that forces Nyāya to change the standard from certainty to warrant.
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - Both objections stated accurately, with the *upādhi* example running **fire → smoke**.
 - The quantity/identification distinction stated as the pivot of the answer.
@@ -1556,7 +1559,7 @@ D. Because the sources are **refutational**, the **crude** version of any doctri
 
 ⚠️ **Verdict:** Cārvāka's ethics is a complete theory of **prudence** and an incomplete theory of **morality**.
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - Sharma's charge quoted in its strongest form, including the "pleasure of the pig".
 - All four items of evidence for refinement, not just Vātsyāyana.
@@ -1588,7 +1591,7 @@ D. Because the sources are **refutational**, the **crude** version of any doctri
 
 ⚠️ **Verdict:** enough for philosophy, not enough for philology — which is why answers should say "on the standard reconstruction".
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - All three source-types treated, as the question specifies.
 - The convergence argument, which is what rescues the answer from scepticism.
@@ -1624,7 +1627,7 @@ The derivation is exact. *Ākāśa* falls because it is inferred from sound. *Ā
 
 ⚠️ **Verdict.** The claim is **true of the negative half and false of the positive half**. Cārvāka's denials are indeed epistemology written out as a list — which is why they stand or fall entirely with the rejection of inference. But its affirmations are a materialist research programme in miniature, and they carry explanatory burdens of their own: chiefly the explanatory gap between public emergent qualities and private consciousness, which no epistemic restriction can discharge. ⚠️ Criterion named: **derivational economy** supports the claim, **explanatory content** refutes it.
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - The derivation reproduced compactly, with connectives.
 - The bridging principle named as a **presupposition**.
@@ -1658,7 +1661,7 @@ The derivation is exact. *Ākāśa* falls because it is inferred from sound. *Ā
 
 ⚠️ **Verdict.** Nyāya answers the Cārvāka **by changing the standard** — from omniscient certainty to disciplined rational warrant, since "the Nyāya point is not infallibilism but disciplined justificatory practice". Judged by **warrant**, Nyāya wins; judged by **entailment**, the Cārvāka's logical point survives untouched. The real disagreement is therefore about the concept of knowledge, not about the logic of induction, on which both agree.
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - Both positions given their strongest form, with Sanskrit terms glossed.
 - The eight-stage Nyāya construction at least summarised.
@@ -1696,7 +1699,7 @@ The derivation is exact. *Ākāśa* falls because it is inferred from sound. *Ā
 
 ⚠️ **Verdict.** On the criterion of **accounting for change and persistence**, Jainism is decisively superior; on the criterion of **ontological economy**, Cārvāka is. Since the question specifies the first criterion, the verdict goes to Jainism — but the price is the very inference Cārvāka denies. ⚠️ Their shared *nāstika*, realist and non-theistic ground shows how little that classification settles.
 
-### Top-answer checklist
+### Why this earns marks — top-answer checklist
 
 - At least seven named axes, each carrying both positions.
 - *Utpāda-vyaya-dhrauvya* and the *guṇa* / *paryāya* distinction stated precisely.
@@ -1907,4 +1910,3 @@ VERDICTS  : consistent OR radical, not both . dependence not production .
 ---
 
 **End of the premium solved-PYQ and practice workbook.**
-

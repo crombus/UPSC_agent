@@ -151,6 +151,42 @@ interoperable digital public infrastructure for service delivery
   cloud, IoT, AR/VR and distributed-ledger foundations.
 - ✅ `12_Data-Protection-DPDP-Act-and-Cybersecurity.md` — privacy, data governance and cyber-risk side.
 - ✅ `../../Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` — macro-fintech, market-structure and economic analysis.
+## Core answer architecture — digital public infrastructure and mobility payment rails
+
+**Thesis choice.** Digital public infrastructure creates value by interoperable, bounded layers; combining identity, payments, documents or tolling without distinguishing their institutions, data flows and failure modes produces a weak answer.
+
+**10-mark spine.** Identify the relevant layer (identity, payment, consented data, document trust or toll collection), trace one transaction, name the operator/regulator, give two gains and one inclusion, fraud or privacy constraint.
+
+**15/20-mark spine.** Build **technical architecture → institutional/legal allocation → public-value applications → access, cyber/privacy and accountability limits**. An electronic-toll answer must separately answer technology, benefit, limitation, proposed change and risk.
+
+**Evidence units.**
+- **Claim:** interoperability works through specialised institutions → **Aadhaar/UIDAI, UPI/NPCI under RBI oversight, Account Aggregator and DigiLocker/eSign** → modular rails can be reused without a single super-database → **qualification:** authentication success or instant payment does not eliminate exclusion, fraud, consent comprehension or grievance problems.
+- **Claim:** electronic toll collection is a transaction and identification architecture → **FASTag uses RFID tag-reader interaction and a linked account within National Electronic Toll Collection** → it reduces cash handling, queueing, fuel loss and manual reconciliation → **qualification:** faulty reads, inactive/duplicate tags, network outages and dispute handling still create friction.
+- **Claim:** barrierless tolling promises seamless flow but increases governance demands → **ANPR–FASTag pilots combine number-plate recognition with RFID; GNSS distance-based tolling remains a proposed/pilot direction at the verified date** → it may reduce plaza delay and align charge with road use → **qualification:** never call GNSS nationwide; vehicle-location/plate data, spoofing, misreads and surveillance require proportionate safeguards.
+
+**Verdict.** The policy aim should be low-friction, auditable and inclusive mobility payments with transparent liability and data minimisation—not technology adoption for its own sake.
+
+## Routed PYQ evidence — electronic toll collection (2024 GS-III Q6)
+
+**Exact demand decoder:** give the present technology, its advantages and limitations, a proposed seamless change, and the resulting risk—not a generic paragraph on UPI.
+
+`vehicle windshield FASTag (RFID) → plaza reader → NETC/NPCI-linked validation and debit → clearing/dispute-management trail`
+
+- **Technology:** IHMCL’s National Electronic Toll Collection description identifies FASTag as an RFID-based electronic toll system with an interoperable payment/clearing and dispute-management architecture. It is a **tag-reader** system, not satellite distance tolling.
+- **Advantages:** moving vehicles need not make a cash payment at each booth; this can reduce queueing, idling/fuel waste, cash handling and reconciliation friction. Transaction trails can improve auditability.
+- **Limitations:** tag read failures, insufficient balance/inactive/duplicate tags, network/reader outages, lane discipline and dispute redress can reintroduce delay; a cashless tag does not by itself ensure seamless traffic flow.
+- **Proposed change/status:** ANPR–FASTag barrierless tolling combines number-plate recognition with RFID in pilots. GNSS/distance-based tolling is a policy/pilot direction, **not** a nationwide operational substitute for FASTag at the verified date. State that hierarchy exactly.
+- **Risks:** plate images and crossing/route data can expose movement patterns; GNSS adds location-tracking, spoofing and data-governance risk. A high-scoring answer pairs any seamless-flow claim with data minimisation, retention/access controls, cybersecurity, transparent error correction and non-digital grievance access.
+
+> **Audit source (retrieved 2026-08-14):** IHMCL NETC page `https://ihmcl.co.in/national-electronic-toll-collection/`; official-source search also identified PIB material on ANPR-FASTag pilots/GNSS policy. This card deliberately uses **pilot/proposed**, not deployment, for barrierless/GNSS change.
+
+### Routed computing companions
+
+- **AR versus VR:** augmented reality overlays digital information on the physical world; virtual reality immerses the user in a computer-generated environment. Neither term itself proves interoperability, a metaverse, or a specific hardware capability.
+- **Wearables:** body-worn devices combine sensors, local processing and communication to track signals such as motion/location/physiological data or deliver notifications. A consumer wearable is not automatically a clinically validated diagnostic device.
+
+The 2018–2023 items on IoT, LTE/VoLTE, AR/VR, wearables, blockchain and SaaS require the fuller computing mechanisms in `25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md` §§7–11. Topic 08 owns the DPI application/institutional layer; Topic 25 owns the physical/network/cloud distinctions. Both are Core; no Advanced file is required.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

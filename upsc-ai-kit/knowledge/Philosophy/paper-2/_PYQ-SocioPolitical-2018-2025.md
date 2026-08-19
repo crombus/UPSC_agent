@@ -136,7 +136,7 @@
 **Q4**
 - (a) Discuss the views of Dr. B.R. Ambedkar regarding caste-discrimination in Indian society. What are the measures suggested by him for its elimination? Explain. **[20]** — **Primary owner:** [Caste: Gandhi and Ambedkar](./socio-political/Caste-Gandhi-Ambedkar.md)
 - (b) What are the main causes of female foeticide in India? Is it the result of demonic application of technology only? Discuss. **[15]** — **Primary owner:** [Gender Discrimination](./socio-political/Gender-Discrimination.md)
-- (c) Evaluate whether social contract theory adequately addresses the different issues of human rights. **[15]** — **Primary owner:** [Individual and State](./socio-political/Individual-and-State.md)
+- (c) Evaluate whether the social contract theory adequately addresses the different issues of human rights. **[15]** — **Primary owner:** [Individual and State](./socio-political/Individual-and-State.md)
 
 ---
 
@@ -145,7 +145,7 @@
 **Q1 (10×5=50)**
 - (a) Is the concept of liberty realizable in the modern technological society? Explain. **[10]** — **Primary owner:** [Social and Political Ideals](./socio-political/Social-Political-Ideals.md)
 - (b) How far do the liberal democracies safeguard the interests of minorities? Evaluate critically. **[10]** — **Primary owner:** [Forms of Government](./socio-political/Forms-of-Government.md)
-- (c) Do you think secularism requires complete separation of religion and state? Discuss. **[10]** — **Primary owner:** [Humanism, Secularism and Multiculturalism](./socio-political/Humanism-Secularism-Multiculturalism.md)
+- (c) Do you think that secularism requires complete separation of religion and state? Discuss. **[10]** — **Primary owner:** [Humanism, Secularism and Multiculturalism](./socio-political/Humanism-Secularism-Multiculturalism.md)
 - (d) Explain the importance of Bodin's theory of sovereignty. **[10]** — **Primary owner:** [Sovereignty](./socio-political/Sovereignty.md)
 - (e) Do you think that the prevailing pandemic will lead to anarchism in society? Discuss. **[10]** — **Primary owner:** [Political Ideologies](./socio-political/Political-Ideologies.md)
 
@@ -157,12 +157,12 @@
 **Q3**
 - (a) State and examine B.R. Ambedkar's contribution towards social changes in Independent India. **[20]** — **Primary owner:** [Caste: Gandhi and Ambedkar](./socio-political/Caste-Gandhi-Ambedkar.md)
 - (b) What do you understand by multiculturalism? Explain the structural characteristics that make a nation multicultural. **[15]** — **Primary owner:** [Humanism, Secularism and Multiculturalism](./socio-political/Humanism-Secularism-Multiculturalism.md)
-- (c) Do you think retributive theory of punishment is against human rights? Discuss. **[15]** — **Primary owner:** [Crime and Punishment](./socio-political/Crime-and-Punishment.md)
+- (c) Do you think that retributive theory of punishment is against human rights? Discuss. **[15]** — **Primary owner:** [Crime and Punishment](./socio-political/Crime-and-Punishment.md)
 
 **Q4**
 - (a) Do you agree that empowering women can eliminate gender discrimination? Discuss. **[20]** — **Primary owner:** [Gender Discrimination](./socio-political/Gender-Discrimination.md)
 - (b) State and explain the relevance of the doctrine of sovereignty in times of globalization. **[15]** — **Primary owner:** [Sovereignty](./socio-political/Sovereignty.md)
-- (c) How far do social and political regimes condition corrupt practices in a nation-state? Discuss. **[15]** — **Primary owner:** [Crime and Punishment](./socio-political/Crime-and-Punishment.md)
+- (c) How far do the social and political regimes condition corrupt practices in a nation-state? Discuss. **[15]** — **Primary owner:** [Crime and Punishment](./socio-political/Crime-and-Punishment.md)
 
 ---
 
@@ -181,7 +181,7 @@
 - (c) Does technological development lead to progress in the ethical standards of the society? Explain. **[15]** — **Primary owner:** [Development and Social Progress](./socio-political/Development-Social-Progress.md)
 
 **Q3**
-- (a) Discuss how far Austin's concept of sovereignty goes along with Kautilya's concept of sovereignty. **[20]** — **Primary owner:** [Sovereignty](./socio-political/Sovereignty.md)
+- (a) Discuss how far does Austin's concept of sovereignty go along with Kautilya's concept of sovereignty. **[20]** — **Primary owner:** [Sovereignty](./socio-political/Sovereignty.md)
 - (b) Consider critically that gender discrimination is a rather man-made concept but not naturally endowed. **[15]** — **Primary owner:** [Gender Discrimination](./socio-political/Gender-Discrimination.md)
 - (c) What do you consider to be the future of Marxism in the context of the prevalent free-market economy? **[15]** — **Primary owner:** [Political Ideologies](./socio-political/Political-Ideologies.md)
 

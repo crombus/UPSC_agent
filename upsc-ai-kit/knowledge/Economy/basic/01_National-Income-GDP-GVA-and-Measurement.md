@@ -86,6 +86,101 @@ expenditure becomes another person's income and corresponds to produced output.
 - ✅ Sale of an existing asset; only current brokerage or service value is added.
 - ✅ Unpaid household work that lies outside the conventional production boundary.
 
+## 6A. Indian applications and evidence units
+
+- ✅ **Claim:** Methodology and base-year revisions can change the picture of
+  India's output without any real change in production.
+  **Named evidence:** the **2015 national-accounts revision** shifted India to
+  the 2011-12 base and greater use of corporate administrative data, changing
+  sector weights and methodology.
+  **Significance:** base revision can improve coverage and relevance.
+  **Limitation:** it creates comparability disputes unless a reliable back
+  series is used.
+- 📰 **Claim:** Series revisions remain a live, recurring measurement issue and
+  not a one-time 2015 event.
+  **Named evidence:** MoSPI's **2026 GDP-series revision** released the
+  2022-23-base series on 27 February 2026.
+  **Significance:** newer data sources and weights can better reflect
+  structural change.
+  **Limitation:** the absence of a complete comparable back series prevents
+  casual splicing with older growth rates.
+- ✅ **Claim:** Growth must be judged against sustainable capacity, not only
+  against last year's output.
+  **Named evidence:** the **2020 GS-III potential-GDP/output-gap demand**
+  requires separating actual output from the sustainable capacity implied by
+  labour, capital and productivity.
+  **Significance:** a negative gap supports cyclical demand repair, while a
+  capacity constraint requires supply-side investment.
+  **Limitation:** potential output is estimated, not directly observed, and
+  results vary by method.
+- ✅ **Claim:** A high saving or investment rate does not automatically
+  translate into high growth.
+  **Named evidence:** the **Incremental Capital-Output Ratio (ICOR)** rises
+  when investment efficiency falls, so growth can lag saving/investment effort.
+  **Significance:** productivity and project execution mediate the
+  saving-investment-growth chain.
+  **Limitation:** ICOR is an aggregate diagnostic and does not identify the
+  sector or institutional cause by itself.
+- ✅ **Claim:** National accounts must estimate, not merely record, a large part
+  of the economy.
+  **Named evidence:** **informal-sector measurement** in India uses surveys,
+  administrative sources and benchmark-indicator methods where complete
+  enterprise accounts are unavailable.
+  **Significance:** national accounts must estimate a large unorganised sector
+  rather than equate recorded corporate activity with the whole economy.
+  **Limitation:** shocks can break the stability of ratios used to extrapolate
+  informal activity.
+- ⚠️ **Claim:** GDP growth is necessary but not sufficient evidence of
+  development.
+  **Named evidence:** **GDP versus welfare** gaps show that unpaid care work,
+  distribution, ecological depletion and service quality are not fully
+  captured by GDP.
+  **Significance:** HDI, employment, inequality and environmental indicators
+  are required to judge development.
+  **Limitation:** supplementary indicators do not make output measurement
+  dispensable.
+- ✅ **Claim:** Comparing national output across countries requires a
+  price-adjusted measure, not raw exchange-rate conversion.
+  **Named evidence:** **Purchasing Power Parity (PPP)** converts GDP using a
+  common basket of goods and services rather than the market exchange rate;
+  on a PPP basis, India is regularly cited among the world's largest economies
+  even though its market-exchange-rate GDP ranking is lower.
+  **Significance:** PPP corrects for cross-country price-level differences and
+  is the standard basis for comparing living standards and real purchasing
+  power, whereas nominal (market exchange rate) GDP is the standard basis for
+  external trade, debt and market-size comparisons.
+  **Limitation:** PPP conversion factors depend on international price surveys
+  (such as the World Bank's International Comparison Program) that are
+  periodically rebased, so the exact PPP rank/multiple is time- and
+  source-specific and should not be quoted without stating the reference year.
+- ✅ **Claim:** Investment in national-accounting terms is broader than
+  physical construction and machinery alone.
+  **Named evidence:** **intangible investment** — spending on research and
+  development, software, databases, mineral exploration and artistic originals
+  — is classified as gross fixed
+  capital formation in the System of National Accounts framework, alongside
+  conventional physical (tangible) capital formation.
+  **Significance:** classifying qualifying intangible spending as investment
+  (rather than as a current expense) affects measured GDP, capital formation
+  and depreciation, and is increasingly important as knowledge- and
+  service-intensive activity grows.
+  **Limitation:** valuing and depreciating intangible assets is harder than for
+  physical assets because some intangible outlays, including advertising,
+  brand creation, staff training and much organisational capital, are not
+  capitalised under national-accounting rules and remain treated as
+  intermediate consumption.
+
+## 6B. Limitations and trade-offs
+
+- More comprehensive administrative data may improve coverage while making old
+  and new series less comparable.
+- Nominal GDP is useful for fiscal ratios but can rise without real welfare
+  gains when prices increase.
+- Real GDP removes price change but remains insensitive to distribution and
+  much unpaid work.
+- Imputation improves completeness but introduces model and assumption risk.
+- Quarterly estimates improve timeliness but are revised as fuller data arrive.
+
 ## 7. Must-Know Facts for Prelims
 
 - ✅ Gross measures include depreciation; net measures deduct it.
@@ -95,6 +190,12 @@ expenditure becomes another person's income and corresponds to produced output.
 - ✅ GVA is not GDP: net product taxes connect the two.
 - ✅ Imports are subtracted because consumption/investment totals may include
   foreign production.
+- ✅ PPP-based GDP uses a common price basket to compare living standards
+  across countries; market-exchange-rate GDP is the basis for external-sector
+  and market-size comparisons — the two rankings need not match.
+- ✅ Qualifying intangible spending (R&D, software/databases, mineral
+  exploration, artistic originals) is treated as capital formation under the
+  System of National Accounts, alongside physical/tangible investment.
 
 ## 8. UPSC traps
 
@@ -104,6 +205,11 @@ expenditure becomes another person's income and corresponds to produced output.
 - ❌ GDP measures national welfare. -> It measures production, not distribution,
   unpaid work, ecological loss or all aspects of well-being.
 - ❌ GNP must always exceed GDP. -> It depends on the sign of NFIA.
+- ❌ PPP and market-exchange-rate GDP always rank countries identically. ->
+  Price-level differences mean PPP and nominal rankings can diverge sharply.
+- ❌ Only physical construction and machinery count as investment. -> Qualifying
+  intangible spending (R&D, software, mineral exploration) is also capital
+  formation, though not every intangible outlay is capitalised.
 
 ## 9. 📰 Economic Survey 2025-26 anchor
 
@@ -156,6 +262,40 @@ the figure.
 - ⚠️ **Mains (15 marks):** Explain why a change of national-accounts base year
   improves relevance but demands careful treatment of historical comparisons.
 
+## 12A. Answer architecture (10/15/20-mark support)
+
+- **Define/Distinguish:** state territory versus residence, gross versus net,
+  current versus constant prices and GDP versus GVA before application.
+- **Explain/Elucidate:** use the production-income-expenditure identity or the
+  `saving → investment → capital productivity → output` chain.
+- **Examine/Analyse:** separate measurement change from real economic change;
+  test coverage, prices, base year, informal-sector method and revision vintage.
+- **Critically examine/Evaluate:** judge relevance gains against comparability,
+  estimation and welfare limitations.
+- **Evidence chain:** 2015 methodology revision; 2022-23-base series; potential
+  GDP/output gap; ICOR; informal-sector estimation; PPP versus nominal
+  cross-country comparison; intangible-investment classification; unpaid
+  care/ecological gap.
+- **Directive decoder — Distinguish (PPP demand):** contrast PPP-based and
+  market-exchange-rate GDP explicitly — same production, different price
+  basis, different comparative purpose — before citing any rank or multiple.
+- **Directive decoder — Classify (intangible-investment demand):** state that
+  R&D, software/databases, mineral exploration and artistic originals are
+  capital formation under SNA rules, then flag which routine intangible
+  spending remains outside capitalisation.
+
+**10 marks:** define the tested measures, use 2-3 named applications and one
+measurement caution. **15 marks:** add methodology, informal-sector and
+comparability evidence with a balanced verdict, drawing on PPP or
+intangible-investment distinctions where the question is comparative or
+investment-classification-based. **20 marks:** integrate output, prices,
+capacity, distribution, employment and sustainability while separating
+measurement revisions from actual performance.
+
+> **Reasoned verdict:** GDP is indispensable for measuring production, but its
+> interpretation is marks-worthy only when the series, price basis, estimate
+> vintage, coverage and welfare limits are stated explicitly.
+
 ## 13. Study links
 
 - ✅ Advanced companion: `../advanced/01_National-Income-GDP-GVA-and-Measurement.md`.
@@ -192,17 +332,19 @@ the figure.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2019, 2022, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 4
+- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 6
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 50 | High saving economy low output and capital-output ratio | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 82 | Purchasing Power Parity and India world economy size | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-III | 2 | Potential GDP definition determinants and India's output gap | Define · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-III | 1 | GDP computation methodology change in India before and after 2015 | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 7 | Real sector economic activities in Indian economy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 28 | Intangible investments classification in economic accounting | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
@@ -210,6 +352,8 @@ the figure.
 
 - High saving economy low output and capital-output ratio
 - Purchasing Power Parity and India world economy size
+- Potential GDP definition determinants and India's output gap
+- GDP computation methodology change in India before and after 2015
 - Real sector economic activities in Indian economy
 - Intangible investments classification in economic accounting
 

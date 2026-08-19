@@ -157,10 +157,9 @@ synonyms or as unconnected terms will miss the causal linkage UPSC expects.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **Survey-status check (21 July 2026):** NFHS-5 (2019-21) remains the latest
-  published national round. Its access baseline is 78.6% of women aged 15–49 reporting
+- 📰 **Survey-status check:** NFHS-5 remains a dated access baseline: 78.6% of women aged 15–49 reporting
   a bank/savings account they themselves use and 54.0% reporting a mobile phone they
-  themselves use. Do not mix those values with an unreleased NFHS-6.
+  themselves use. NFHS-6 (2023-24) was released on 29 May 2026; do not mix rounds.
 
 ## 10. PYQ-based analytical application
 

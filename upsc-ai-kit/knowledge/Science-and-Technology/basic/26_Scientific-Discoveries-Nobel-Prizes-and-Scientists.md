@@ -88,6 +88,21 @@ IDENTIFY THE LAUREATE -> LINK BACK TO THE UNDERLYING SCIENCE
 
 ## 7. PYQ application
 
+## Core answer architecture — discovery attribution and mechanism-first current affairs
+
+**Thesis choice.** A discovery/prize question is an evidence-matching task: official citation, year, laureate, award-time affiliation and mechanism must align; popularity, nationality or a company announcement cannot fill a gap.
+
+**10-mark spine.** Start with the exact official prize/discovery fact; explain the underlying mechanism in two lines; connect it to the appropriate Physics/Chemistry/Biology/technology owner; state the status boundary between finding and application.
+
+**15/20-mark spine.** Use **problem and method → named discoverer/team and evidence → mechanism → downstream applications and Indian relevance → uncertainty, replication, maturity and ethics**. Do not turn a scientist biography into a technology policy answer.
+
+**Evidence units.**
+- **Claim:** prize attribution is narrower than field attribution → **official Nobel category, year and motivation** → identifies what was recognised rather than a broad public label → **qualification:** affiliation at award is not nationality, and an employer does not prove authorship of every prior contribution.
+- **Claim:** a scientific discovery matters through a mechanism → **the 2025 Physics citation on macroscopic quantum tunnelling and energy quantisation in an electric circuit** → routes a biography clue to superconducting circuits, tunnelling and quantum hardware → **qualification:** recognition of fundamental science does not establish a commercial quantum computer or national deployment.
+- **Claim:** current discovery evidence has a maturity ladder → **finding → replication/engineering → regulated application → scale** → prevents a company claim, preprint or demonstration from being written as settled societal capability → **qualification:** do not invent discovery dates, prize details, efficacy or future uses absent the official source.
+
+**Verdict.** Use current names as entry points to durable scientific mechanisms and retain source/year/status discipline in every attribution.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

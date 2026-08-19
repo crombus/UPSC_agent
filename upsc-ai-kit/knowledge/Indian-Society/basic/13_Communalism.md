@@ -184,3 +184,93 @@ even-handed institutions and sustained contact reduce risk.
   historical genesis of organised communalism.
 - ✅ `14_Regionalism.md` and `15_Secularism.md` — the sibling identity-mobilisation and
   social-harmony topics in this module's final cluster.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** Communalism answers must neither psychologise a whole faith community nor
+> turn one trigger into the total explanation. They need competing mechanisms and a
+> preventive conclusion.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Argue** power struggle or relative deprivation | Interaction of mechanisms | define both -> organisation/power -> grievance/deprivation -> interaction -> verdict |
+| **Discuss impact** post-liberal economy and ethnic identity | Conditional economic mechanism | differentiated gains/competition -> identity mobilisation -> counterconditions -> conclusion |
+| **Explain** escalation to violence | Structural versus trigger causes | latent segregation/grievance -> trigger/rumour -> institutions -> interruption |
+| **Examine** institutional impartiality | Trust as outcome | visible fairness -> information -> contact -> limitation |
+| **Critically examine** communalism | Religion versus mobilisation | definition -> theory/mechanism -> evidence caution -> response |
+
+### 13.2 Thesis bank
+
+- **T1:** ⚠️ Power struggle and relative deprivation are not rival universal causes:
+  organised actors can translate a relative grievance into mobilisation, while grievance
+  without organisation need not become violence.
+- **T2:** ⚠️ Liberalisation does not mechanically cause communalism; it can alter
+  opportunity, insecurity and competition which identity entrepreneurs may frame
+  communally under particular local conditions.
+- **T3:** ⚠️ Communal violence is preventable when structural risks, trigger control and
+  credible impartiality are addressed together.
+
+### 13.3 Mark-scaled spines
+
+**15 marks — power struggle and relative deprivation (2018 GS-I).** Define communalism as
+political-social mobilisation, then distinguish power struggle (office/resources/status
+competition) from relative deprivation (perceived unfair gap). Show how E1/E2 can interact
+through an actor, a grievance narrative and local institutional weakness. Reject
+inevitability and close with fair institutions.
+
+**15 marks — post-liberal economy, ethnicity and communalism (2023 GS-I).** Use T2:
+identify differentiated gains, insecure work/local resource competition and social
+segregation as possible conditions; explain identity framing and countervailing civic/
+institutional conditions. Do not claim an aggregate economic reform caused a particular
+episode without local evidence.
+
+**20 marks — communal harmony and the State.** Use a two-column structural/trigger
+diagnosis, then a three-step response: credible fact verification, visibly even-handed
+protection/investigation, and sustained inter-community contact. Add the legal stability
+anchor cautiously and conclude with T3.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Mobilisation.** *Claim:* identity can be activated rather than simply inherited.
+  *Evidence:* **instrumentalist/constructivist** account of communalism. *Significance:*
+  makes power struggle analytically visible. *Limitation:* it must not deny lived religious
+  attachment or treat all actors as cynical.
+- **E2 — Relative deprivation.** *Claim:* perceived unequal status/access can supply a
+  grievance. *Evidence:* **relative-deprivation** frame applied to local resources,
+  representation and service access. *Significance:* supplies the 2018 half of the
+  question. *Limitation:* a grievance is not proof of violence or of objective inequality.
+- **E3 — Stability anchor.** *Claim:* law can limit repeated historical-site conflict.
+  *Evidence:* **Places of Worship (Special Provisions) Act, 1991**, Section 4’s
+  15-August-1947 baseline. *Significance:* supports a present-order argument. *Limitation:*
+  statutory exceptions exist and litigation status must be checked in the official Court
+  record; this file makes no final-merits claim.
+- **E4 — Institutional trust.** *Claim:* presence is weaker than impartiality. *Evidence:*
+  prompt fact verification and even-handed policing/administration. *Significance:*
+  converts “harmony” into an answerable mechanism. *Limitation:* immediate response cannot
+  alone repair segregation or long-standing grievance.
+- **E5 — Deliberative institution.** *Claim:* integration needs a forum as well as a
+  crisis response. *Evidence:* the **National Integration Council (1961)** is an
+  extra-constitutional, advisory forum; the Polity owner records that it last met in 2013.
+  *Significance:* supplies a named institutional bridge between social harmony and public
+  deliberation. *Limitation:* its advisory/defunct status means it cannot be presented as a
+  current operational remedy without verification.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Do not equate religion, minority/majority identity or communalism.
+- ⚠️ Do not generalise from a communal incident, social-media rumour or economic trend.
+- ⚠️ Keep the historical-origin narrative and legal doctrine with their named owners.
+- **Verdict:** “Communalism is not the inevitable expression of diversity; it is the
+  contingent conversion of identity and grievance into antagonistic mobilisation.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2018 · GS-I · Q20 | Power struggle or relative deprivation | §13.1-13.4, T1/E1-E2 |
+| 2023 · GS-I · Q20 | Post-liberal economy, ethnicity and communalism | §13.1, T2, §13.3 |
+
+> **Routing correction:** Core routing supersedes old `advanced/13` pointers; historical
+> chronology and legal doctrine stay cross-linked.

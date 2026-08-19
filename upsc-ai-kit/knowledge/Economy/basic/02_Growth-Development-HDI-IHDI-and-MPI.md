@@ -35,9 +35,11 @@ conversion channels, and IHDI/MPI as tests of distribution and deprivation.
 |---|---|
 | ✅ **Economic growth** | Sustained quantitative increase in real output or real income. |
 | ✅ **Economic development** | Growth plus structural change, capability expansion and better distribution. |
+| ✅ **Capability approach (Amartya Sen)** | Development means expanding substantive freedoms and real opportunities to lead the kinds of lives people value, not merely raising income. |
 | ✅ **HDI** | UNDP composite of health, education and standard of living. |
 | ✅ **IHDI** | HDI discounted for inequality within each of its three dimensions. |
 | ✅ **MPI** | Deprivation measure using overlapping deficits in health, education and living standards. |
+| ✅ **Social capital** | Trust, norms and networks that help cooperation, collective action and development outcomes beyond private income alone. |
 
 ## 3. Topic mechanism
 
@@ -53,32 +55,57 @@ conversion channels, and IHDI/MPI as tests of distribution and deprivation.
 
 ## 4. Institutions and policy tools
 
-- ✅ **UNDP:** publishes HDI, IHDI and global MPI methodology and reports.
-- ✅ **NITI Aayog:** tracks India's national MPI and supports state-level development
-  comparisons.
-- ✅ **MoSPI:** supplies national accounts and social statistics needed to read growth beside
-  welfare outcomes.
-- ✅ **Union, state and local governments:** deliver the health, education, nutrition, water
-  and housing services behind capability gains.
+- ✅ **UNDP:** publishes HDI and IHDI and co-presents the global MPI in its human-development reporting.
+- ✅ **Oxford Poverty and Human Development Initiative (OPHI):** co-develops the global MPI methodology used in international comparison.
+- ✅ **NITI Aayog:** tracks India's national MPI and supports state- and district-level development comparisons.
+- ✅ **MoSPI:** supplies national accounts and social statistics needed to read growth beside welfare outcomes.
+- ✅ **Union, state and local governments:** deliver the health, education, nutrition, water and housing services behind capability gains.
 
 ## 5. Indian applications and examples
 
-- ⚠️ Two states with similar per-capita income can differ sharply in life expectancy,
-  schooling and multidimensional poverty.
-- ⚠️ School enrolment can improve HDI-related access while weak learning outcomes limit
-  actual capability formation.
-- ⚠️ A household above an income poverty line may still face simultaneous sanitation,
-  nutrition and schooling deprivation.
+- ⚠️ **Claim:** Growth and development can diverge sharply across Indian states. **Named evidence/example:** The familiar Kerala-Bihar contrast in Indian policy discourse shows that strong social indicators and human-development outcomes do not move one-for-one with income or industrial scale alone. **Why it supports the claim:** It demonstrates why per-capita output is only a starting point; public health, schooling and state capacity change the conversion of income into capabilities. **Limit/status caution:** State comparisons are path-dependent because demography, migration, historical social reform and remittances affect outcomes.
+
+- ⚠️ **Claim:** Average poverty or income measures can miss overlapping household deprivation. **Named evidence/example:** NITI Aayog's national Multidimensional Poverty Index uses health, education and living-standard indicators drawn from household evidence such as NFHS-based deprivation mapping. **Why it supports the claim:** It identifies whether the same household faces simultaneous deficits in nutrition, schooling, sanitation, housing or basic amenities, making policy more targeted than an income line alone. **Limit/status caution:** MPI depends on chosen indicators and survey periodicity; it cannot by itself capture every urban service-quality gap or sudden economic shock.
+
+- ⚠️ **Claim:** State averages can hide severe district-level divergence. **Named evidence/example:** The Aspirational Districts Programme was created precisely because national and state growth narratives were not enough to identify lagging districts in health, education, agriculture and basic infrastructure. **Why it supports the claim:** It proves that development assessment must descend below state averages when answering inter-regional inequality questions. **Limit/status caution:** Dashboard improvement or ranking movement does not automatically establish durable structural transformation.
+
+- ⚠️ **Claim:** Employment programmes can convert growth resources into minimum social protection and capability support. **Named evidence/example:** MGNREGA links public expenditure with wage employment and rural asset creation. **Why it supports the claim:** It shows that inclusive growth is not only about output expansion; labour absorption and income security matter when households need to protect nutrition, schooling and resilience. **Limit/status caution:** It is primarily a protection instrument, not a substitute for long-term productivity growth or formal job creation.
+
+- ⚠️ **Claim:** Human development requires direct investment in nutrition and schooling, not income growth alone. **Named evidence/example:** ICDS and PM POSHAN (Mid-Day Meal) represent named Indian capability-building interventions in early childhood and school participation. **Why it supports the claim:** They illustrate Amartya Sen's insight that real freedom expands through nutrition, health and educational access that improve what people are able to do and become. **Limit/status caution:** Higher attendance or service access does not automatically ensure learning quality, health quality or later employability.
+
+- ⚠️ **Claim:** Social capital is a development resource, not a decorative concept. **Named evidence/example:** Kudumbashree and the broader self-help-group model later scaled through NRLM show how organised women's networks can support savings, credit, local problem-solving and agency. **Why it supports the claim:** They demonstrate that trust, participation and collective action help convert state schemes into durable capability gains. **Limit/status caution:** Social capital complements but cannot replace infrastructure, markets, public finance or formal institutional capacity.
+
+## 5A. MPI methodology: incidence and intensity of poverty
+
+- ✅ **MPI formula:** MPI = H × A, where **H (headcount ratio / incidence)** is the proportion of the population identified as multidimensionally poor (deprived in at least one-third of the weighted indicators), and **A (intensity of poverty)** is the average proportion of weighted indicators in which the poor are deprived, averaged only across the poor. **Significance:** This decomposition separates *how many* people are poor (H) from *how deprived* the poor are (A) — two dimensions a single income-based headcount cannot distinguish. **Limitation:** Both H and A depend on the chosen deprivation cutoff (one-third weighted-indicator threshold) and indicator weights; changing either alters both numbers without any real change in living conditions.
+- ⚠️ **Claim:** Incidence and intensity can move in different directions, and this divergence is the precise analytical demand behind the 2020 GS-II Mains question. **Evidence:** A region can reduce the *number* of multidimensionally poor households (falling H) while the poor who remain face deeper, more concentrated deprivation (rising or stagnant A) — for instance if the easiest-to-lift households exit poverty first while the hardest-to-reach households remain deprived across more indicators. **Significance:** This is why "incidence and intensity of poverty against income-based measurement" (2020 GS-II, 15 marks) requires the H × A decomposition rather than a single poverty-reduction number. **Limitation:** Distinguishing whether H or A changed requires household-level panel or repeated cross-sectional data; a single survey round cannot show whether the same households moved out of poverty or different households entered and exited.
+- ✅ **Claim:** An income-based poverty line records only whether income or consumption crosses a threshold, so it cannot show the composition or overlap of deprivation the way MPI's H × A structure can. **Evidence:** An income/consumption poverty headcount ratio answers only "how many are below the line," while it is blind to whether the poor face simultaneous nutrition, schooling, sanitation or housing deficits, or only one, and blind to how deeply deprived they are. **Significance:** This is the core reason NITI Aayog's national MPI complements rather than replaces the income-poverty ratio, and it is the analytical basis for the 2020 GS-II "against income-based measurement" contrast. **Limitation:** MPI does not price deprivation in monetary terms, so it cannot substitute for income-poverty analysis when the adequacy of a monetary transfer needs to be assessed.
+
+## 6A. Limitations and trade-offs
+
+- ⚠️ A fast-growth phase can still be job-poor or regionally concentrated, so GDP expansion may widen capability gaps unless labour-intensive sectors and public services also improve.
+- ⚠️ **HDI is an average**: it can show progress even when gender, caste, tribal or district-level deprivation remains deep; that is why IHDI and MPI matter for balance.
+- ⚠️ **IHDI and MPI are choice-dependent composites**: indicator selection, weights and survey periodicity shape the picture, so they guide policy but do not replace sector-wise diagnosis.
+- ⚠️ Welfare expansion can reduce measured deprivation quickly, but without productivity, learning quality and decent jobs, gains may remain shallow or fiscally difficult to sustain.
+- ⚠️ Inter-state comparison is useful, but historical social reform, migration, remittances, demography and administrative capacity mean one state's model cannot be copied mechanically elsewhere.
+- ⚠️ Per-capita or human-development progress can coexist with ecological stress, urban exclusion and unpaid care burdens, so development assessment must stay broader than headline composites.
 
 ## 6. Must-Know Facts for Prelims
 
 - ✅ HDI uses life expectancy, education and GNI per capita; it is not an income-only index.
 - ✅ IHDI equals HDI when there is no inequality and falls below HDI as inequality rises.
 - ✅ MPI is household-level and multidimensional; it is not computed from income alone.
+- ✅ MPI = H (incidence/headcount ratio) × A (intensity of poverty, the average deprivation share among the poor); incidence and intensity can move differently, which is why income-based poverty alone misses the composition of deprivation.
+- ✅ In standard MPI presentations, the three dimensions are health, education and living standards, with household indicators such as nutrition, child mortality, years of schooling, school attendance, cooking fuel, sanitation, drinking water, electricity, housing and assets.
+- ✅ Global MPI is associated with UNDP and OPHI, while NITI Aayog publishes India's national MPI for domestic policy use.
 - ✅ Growth is necessary for fiscal capacity but does not guarantee development or inclusion.
-- ✅ Per-capita income is an average and can hide distribution, unpaid work and ecological
-  costs.
+- ✅ GNP/GDP per capita alone does not connote development because it can hide distribution, capability failure, unpaid work and ecological costs.
+- ✅ Per-capita income is an average and can hide distribution, unpaid work and ecological costs.
+- ✅ Amartya Sen's capability approach shifts the focus from commodities or income alone to the substantive freedoms people can actually exercise.
+- ✅ Social capital matters in development because trust, norms and networks can improve cooperation, local participation and scheme effectiveness.
+- ✅ The former World Bank Ease of Doing Business index tracked the business-regulation environment - such as starting a business, construction permits, electricity, property registration, credit, taxes, trade, contract enforcement and insolvency - not human development or inclusive growth.
 - ✅ The 2025 Mains PYQ directly asked why IHDI is a better indicator of inclusive growth.
+- ✅ HDI records average achievement; IHDI adjusts for inequality; MPI identifies overlapping household deprivation, so they answer different exam questions.
 
 ## 7. UPSC traps
 
@@ -113,6 +140,9 @@ intra-state, gender, caste or quality-of-service gap.
   growth.
 - ⚠️ 2024 GS-III: Examine whether post-reform social-service expenditure has supported
   inclusive growth.
+- ⚠️ 2020 GS-II: Analyse the incidence and intensity of poverty against income-based
+  measurement — answer with the MPI = H × A decomposition in **5A** and the reasoning why
+  income-only measurement cannot separate how many are poor from how deeply they are poor.
 
 ## 10. Mains angles
 
@@ -132,6 +162,26 @@ intra-state, gender, caste or quality-of-service gap.
 - ⚠️ **Mains (10 marks):** Why does IHDI reveal aspects of inclusive growth that HDI cannot?
 - ⚠️ **Mains (15 marks):** Economic growth expands resources, but institutions determine
   whether it becomes human development. Discuss.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+### Directive decoder
+
+- ⚠️ **Discuss:** define growth, development and the relevant index first, then show how growth becomes capability expansion through jobs and public services.
+- ⚠️ **Examine / Analyse:** break the answer into mechanism, measurement and Indian variation - how HDI, IHDI and MPI reveal what GDP or per-capita averages miss.
+- ⚠️ **Critically examine / Evaluate:** after the main case for human-development indicators, add limits of composites, inter-state comparability issues and quality-versus-access cautions from **6A**.
+- ⚠️ **Compare / Justify:** for prompts such as *HDI vs IHDI* or *growth vs development*, compare unit, focus, what each captures, and conclude why the broader or inequality-adjusted measure is more suitable for inclusive-growth questions.
+
+**Evidence chain:** Kerala-Bihar contrast + NITI Aayog national MPI + Aspirational Districts Programme + MGNREGA + ICDS/PM POSHAN + Kudumbashree/SHG social-capital example.
+
+**Counter-evidence:** Use **6A. Limitations and trade-offs** to show why averages, composites and welfare gains need balance through quality, productivity and distribution cautions.
+
+**10/15/20-mark scaling:**
+- ⚠️ **10 marks:** thesis + 2-3 evidence units + one sharp distinction (for example, HDI vs IHDI).
+- ⚠️ **15 marks:** thesis + 4-5 evidence units across state variation, MPI mechanics and capability approach + one counter-dimension.
+- ⚠️ **20 marks:** thesis + 5-6 evidence units spanning growth, distribution, capability, institutions and district variation + balanced conclusion using **6A**.
+
+**Reasoned verdict template:** ⚠️ *India's experience shows that growth is necessary but not sufficient; development becomes credible only when rising output is converted into health, education, dignity and reduced multidimensional deprivation across regions and groups.*
 
 ## 12. Study links
 
@@ -188,24 +238,26 @@ intra-state, gender, caste or quality-of-service gap.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2019
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
+- **Years represented:** 2018, 2019, 2020
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 4
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 48 | GNP per capita not connoting economic development conditions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 77 | World Bank Ease of Doing Business Index components | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 80 | Social capital concept in national development economics | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-II | 16 | Incidence and intensity of poverty against income-based measurement | Analyse · 15 marks · 250 words | Economy route terminates in answer-complete Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - GNP per capita not connoting economic development conditions
 - World Bank Ease of Doing Business Index components
 - Social capital concept in national development economics
+- Incidence and intensity of poverty against income-based measurement
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

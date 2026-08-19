@@ -101,20 +101,20 @@ tools rather than a single generic system.
   official earthquake-information app is **BhooKamp** (PIB/MoES, 1 April
   2026) — use that name for a current reference and treat "India Quake"
   as the document-period name.
-- 📰 **SACHET — the CAP-based Integrated Alert System.** NDMA
-  operationalised India's Common Alerting Protocol platform, developed by
-  **C-DOT**; PIB reported (30 June 2025) that it operated across all 36
-  States/UTs and supported geo-targeted SMS alerting in 19+ languages.
-  CAP is an ITU-recommended standard that lets one authored alert fan out
-  across SMS, cell broadcast, radio, TV, sirens, social media, web and
-  apps — its value is **interoperability**, i.e. one hazard agency's
-  alert reaching every channel without re-drafting.
-- 📰 **Cell Broadcast System.** Developed by C-DOT under the Department
-  of Telecommunications with NDMA/MHA and integrated with SACHET; a
-  nationwide launch and test took place on **2 May 2026**. Unlike SMS it
-  pushes a near-real-time, geo-targeted message to every handset in a
-  cell — including roaming users — without queuing, which is the specific
-  technical answer to the "last-mile speed" problem in Section 3.
+- 📰 **SACHET — the CAP-based Integrated Alert System.** NDMA's SACHET
+  portal is the official national source for Common Alerting Protocol
+  warnings and multi-channel dissemination. CAP lets one authored alert
+  be rendered through channels such as SMS, cell broadcast, radio, TV,
+  sirens, web and apps — its value is **interoperability**, i.e. a
+  hazard agency need not re-draft the message for every channel. Use the
+  live portal or a dated official release for coverage, language and
+  delivery statistics.
+- 📰 **Cell Broadcast System.** A cell-broadcast channel can deliver an
+  area-targeted alert to compatible devices in a selected cell rather
+  than addressing subscribers one by one as SMS does. Treat a claimed
+  nationwide launch date, roaming reach, handset reach or operational
+  coverage as a separate DoT/NDMA status fact requiring its own dated
+  official source; it is not established merely by SACHET's existence.
 - 📰 **Hazard-specific public apps and their owners** — a frequently
   confused set: **Mausam** (IMD, forecasts/warnings), **Meghdoot** (IMD,
   agro-met advisories), **Damini** (IITM Pune, lightning warning),
@@ -153,12 +153,12 @@ tools rather than a single generic system.
   app name for automatic earthquake-parameter dissemination; 📰 NCS/MoES
   currently identifies **BhooKamp** as its official earthquake app.
 - 📰 **SACHET** is NDMA's **Common Alerting Protocol (CAP)**-based
-  Integrated Alert System, developed by **C-DOT**, covering all 36
-  States/UTs with geo-targeted SMS in 19+ languages (PIB, 30 June 2025).
-- 📰 The **Cell Broadcast System** (C-DOT/DoT with NDMA/MHA, integrated
-  with SACHET) had its nationwide launch and test on **2 May 2026**; it
-  reaches every handset in a cell, including roaming users, without SMS
-  queuing.
+  Integrated Alert System. Use its live portal or a dated official
+  release for coverage, language and delivery statistics.
+- 📰 **Cell broadcast** can distribute an area-targeted alert to
+  compatible devices without individually addressed SMS delivery; its
+  nationwide rollout, reach and operational status need a dated
+  DoT/NDMA source.
 - 📰 App ownership: **Mausam** and **Meghdoot** — IMD; **Damini** —
   IITM Pune; **BhooKamp** — NCS/MoES; **UMANG** — MeitY.
 - 📰 **Early Warnings for All** targets universal early-warning coverage
@@ -186,23 +186,22 @@ tools rather than a single generic system.
 
 ## 9. 📰 Current official anchor
 
-- 📰 **NDMA's SACHET/CAP Integrated Alert System** (all 36 States/UTs,
-  geo-targeted SMS in 19+ languages — PIB, 30 June 2025) and the
-  **Cell Broadcast System** (nationwide launch and test **2 May 2026**)
-  are the correct current anchors for India's dissemination
-  architecture; **IMD's impact-based warning services** (cyclone and
-  heat-wave specific) are the correct anchor for impact-based-forecast
-  rollout status. VisionIAS's material does not itself describe SACHET,
-  cell broadcast or a formalised impact-based-forecasting programme by
-  name and must not be treated as current on this point.
+- 📰 **NDMA's SACHET/CAP Integrated Alert System** is the correct
+  current anchor for India's official dissemination architecture; use a
+  dated DoT/NDMA source before asserting a Cell Broadcast launch date,
+  coverage or handset reach. **IMD's impact-based warning services**
+  are the correct anchor for impact-based-forecast rollout status.
+  VisionIAS's material does not itself describe SACHET, cell broadcast
+  or a formalised impact-based-forecasting programme by name and must
+  not be treated as current on this point.
 - 📰 Globally, **Early Warnings for All** (target 2027; UNDRR/WMO/ITU/
   IFRC pillars) is the correct anchor for any claim about the direction
   and deadline of early-warning expansion.
 - ⚠️ Distinguish the **warning system** from the **warning-reach
-  statistic**: coverage of a platform (SACHET operating in all 36
-  States/UTs) is not the same as the share of at-risk people who
-  received, understood and acted on an alert; the latter needs its own
-  dated official source and is generally not published.
+  statistic**: platform availability is not the same as the share of
+  at-risk people who received, understood and acted on an alert; the
+  latter needs its own dated official source and is generally not
+  published.
 
 ## 10. PYQ application
 
@@ -242,3 +241,35 @@ tools rather than a single generic system.
   to earthquake prediction specifically; topic 06 develops the tsunami
   warning system in full; topic 07 develops cyclone warning/colour
   codes; topic 08 develops urban/riverine flood forecasting in full.
+
+## 13. Core-only answer architecture — warning is an action chain
+
+> **Core firewall:** an answer passes only if it reaches the at-risk
+> person, an understandable action and a measurable result. Listing
+> radar, apps or satellites alone is a FAIL.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| An early warning system is end-to-end, not a sensor. | Risk knowledge → detection/forecast → authorised warning → dissemination → comprehension → early action → feedback. | It gives a causal architecture for any warning question. | A platform's geographic coverage does not prove receipt, comprehension, transport access or avoided loss. |
+| Technology must match the hazard and lead time. | Nowcasting (5–30 minutes), Doppler/hydromet urban-rainfall lead time, ITEWC event detection, and the non-predictability of earthquakes. | It prevents a false single-technology solution and links warning to feasible action. | Forecast, prediction and warning are different; do not claim deterministic earthquake prediction. |
+| Interoperable dissemination can improve reach. | NDMA/C-DOT SACHET uses CAP and works pan-India; Cell Broadcast is a technical dissemination channel; GIS supports Odisha shelter siting, Sikkim rescue planning and Gujarat damage assessment. | These are named Indian applications, not generic “digital technology.” | CAP/CBS solve transmission-format or speed problems, not institutional authorisation, trust, disability access or response capacity. |
+| Impact-based information is more actionable than a raw parameter. | A flood DSS translates hazard information into severity/evacuation decisions; EW4All's four pillars provide a benchmark. | It links a forecast to a decision and outcome. | Do not claim comprehensive India-wide impact-based coverage without an IMD service-specific source. |
+
+### 13.2 Executable spines
+
+- **10 marks — distinguish terms:** prediction = precise occurrence
+  claim; forecast = probabilistic time/place estimate; warning =
+  authoritative actionable message. Give earthquake, cyclone/flood and
+  tsunami as contrasting examples.
+- **15 marks — multi-hazard warning:** draw the seven-link chain, then
+  use one detection example, SACHET/CAP dissemination, accessible
+  community relay and a last-mile action (evacuation, cooling, shelter
+  or route closure). Add a result test: timely receipt/action, not
+  alerts issued.
+- **20 marks — technology and resilience:** thesis that technology
+  lowers information uncertainty but not social vulnerability by itself.
+  Compare sensing, validation, dissemination, inclusion and action;
+  discuss false-alarm/accuracy versus speed and redundancy; end with
+  hazard-specific drills and audited reach/outcome metrics.

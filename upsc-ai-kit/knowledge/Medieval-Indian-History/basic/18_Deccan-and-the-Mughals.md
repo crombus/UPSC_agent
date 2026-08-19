@@ -80,3 +80,37 @@
 - ⚠️ Mughal Deccan policy evolved from **diplomatic suzerainty** to **selective annexation** and finally toward deeper intervention.
 - ⚠️ Malik Ambar's importance lies less in permanent territorial success and more in training Maratha power and frustrating imperial consolidation.
 - ⚠️ The Deccan shows the limits of Mughal expansion in a region of mobile warfare, competing sultanates and emerging Maratha elites.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Examine Mughal Deccan policy | "Mughal Deccan involvement evolved from Akbar's diplomatic overtures (1591) through selective annexation (Ahmadnagar 1600–01) to Shah Jahan's treaty-based settlement (1636) — each stage reflecting changing imperial priorities and Deccani resistance." |
+| Assess Malik Ambar | "Malik Ambar frustrated Mughal consolidation for two decades through Maratha-style guerrilla warfare, revenue reforms and shifting alliances — training the very Maratha cavalry that would later challenge the empire under Shivaji." |
+| Discuss expansion limits | "The Deccan revealed structural limits of Mughal power: distance from the capital, mobile warfare terrain, competing sultanates and locally rooted Maratha sardars made conquest easier than administration." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Akbar's 1591 embassies to Deccan states; only Khandesh submitted clearly | Diplomacy was the first approach; force followed failure | Shows measured escalation, not impulsive aggression | Diplomacy also reflected limited immediate military capacity in the south |
+| 2 | ✅ Chand Bibi defended Ahmadnagar, accepted Berar cession (1596) | Deccani resistance was led and purposeful | Introduces gender and agency into Deccani politics | Her murder by a hostile faction shows internal divisions mattered more than Mughal pressure |
+| 3 | ✅ Malik Ambar (Abyssinian, Peshwa of Ahmadnagar) mobilised Maratha light cavalry | Non-conventional warfare frustrated conventional Mughal campaigns | Connects Maratha military training to later Shivaji-era capability | Malik Ambar could not permanently expel the Mughals; his success was defensive |
+| 4 | ✅ Shah Jahan's 1633 end of Nizam Shahi + 1636 treaties with Bijapur and Golconda | Treaty-based settlement: suzerainty without full annexation | Shows pragmatic accommodation after decades of costly warfare | Treaties lasted only until Shah Jahan's later years; Aurangzeb reopened the question |
+| 5 | ✅ Shahji Bhonsale moved between Deccani/Mughal service; mansab 5000; Poona jagir | Maratha elites were embedded in both systems | Explains why Shivaji emerged from a Mughal-linked family | Double loyalty was unstable; Shahji was arrested and released under pressure |
+
+### 8.3 Counterpoints
+
+- ⚠️ Mughal Deccan involvement was not purely imperial ambition — sectarian conflicts and Portuguese coastal pressure also motivated intervention.
+- ⚠️ Khandesh/Asirgarh (1601) was strategically vital as a corridor to Gujarat/Surat; not merely another conquest.
+- ⚠️ Shah Jahan's late-reign invasions (1656–57) show that "settlement" was never permanent.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Three-stage evolution (diplomacy → annexation → settlement) with 2–3 units; conclude: adaptation, not monolithic policy.
+- **15-mark:** Add Malik Ambar + Shahji + strategic corridor analysis.
+- **20-mark:** Full 5-unit + link to Aurangzeb's later Deccan war + structural limits thesis; graded verdict on whether the Deccan was "manageable" within Mughal capacity.

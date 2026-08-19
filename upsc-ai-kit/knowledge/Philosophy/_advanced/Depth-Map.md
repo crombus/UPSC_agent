@@ -2,6 +2,10 @@
 
 > Use this file only after Core study and PYQ writing. These are enrichment directions, not
 > additional syllabus clauses and not a substitute for owner files.
+> **15 August 2026:** several doctrines were promoted into Core (see the ledger in
+> [`README.md`](README.md) §2A and [`Coverage-Matrix.md`](Coverage-Matrix.md)). The questions
+> below remain *evaluative* questions — they sharpen judgement about material the owner file
+> already supplies, and none of them is a prerequisite for attempting a paper.
 
 **Detailed dossiers:** [Western](Western-Philosophy-Dossier.md) ·
 [Indian](Indian-Philosophy-Dossier.md) ·

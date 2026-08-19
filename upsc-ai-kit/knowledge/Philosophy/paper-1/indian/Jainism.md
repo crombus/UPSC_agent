@@ -1,4 +1,4 @@
-# JAINISM — Syllabus Item 13 (Paper I · Section B)
+﻿# JAINISM — Syllabus Item 13 (Paper I · Section B)
 
 > **Syllabus (verbatim):** Jainism : Theory of Reality; Saptabhanginaya; Bondage and Liberation.
 > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis · ❓ contested/uncertain
@@ -9,11 +9,20 @@
 ```text
 JAINISM
 │
+├─ SOURCE ANCHOR
+│  └─ Tattvārthasūtra: ratna-traya, tattvas, dravyas, jñāna, liberation
+│
 ├─ THEORY OF REALITY
 │  ├─ Anekāntavāda (anekantavada): reality is many-sided
 │  ├─ Dravya = sat = utpāda + vyaya + dhrauvya
 │  ├─ Six dravyas: jīva, pudgala, dharma, adharma, ākāśa, kāla
+│  ├─ Pañcāstikāya: five extended substances; kāla is an-astikāya
 │  └─ Guṇa (qualities) + paryāya (modes)
+│
+├─ EPISTEMOLOGY
+│  ├─ Pratyakṣa vs parokṣa, with the Jaina inversion trap
+│  ├─ Five jñānas: mati, śruta, avadhi, manaḥparyāya, kevala
+│  └─ Partial kṣāyopaśamika knowledge grounds nayavāda and syādvāda
 │
 ├─ THEORY OF JUDGEMENT
 │  ├─ Nayavāda: partial standpoints
@@ -21,11 +30,38 @@ JAINISM
 │  └─ Saptabhaṅgī: sevenfold judgement
 │
 └─ SOTERIOLOGY
-   ├─ Karma = subtle material pudgala
+   ├─ Seven tattvas / nine padārthas
+   ├─ Karma = subtle material pudgala; eight karma-prakṛtis
    ├─ Āsrava → bandha → saṃvara → nirjarā → mokṣa
-   ├─ Bhāvabandha + dravyabandha
-   └─ Three jewels + vows lead to kevala-jñāna and liberation
+   ├─ Bhāvabandha + dravyabandha; four bandha-parameters
+   ├─ Guṇasthānas: fourteen stages, including sayoga-kevalī
+   └─ Three jewels + vows + sallekhanā lead to kevala-jñāna and liberation
 ```
+
+## 0A. UMĀSVĀTI / UMĀSVĀMĪ AND THE TATTVĀRTHASŪTRA ✅
+
+**Statement.** ✅ The *Tattvārthasūtra* or *Tattvārthādhigama-sūtra* of **Umāsvāti** in Śvetāmbara usage and **Umāsvāmī** in Digambara usage is the first systematic Sanskrit exposition of Jaina philosophy and is authoritative for both major sects.
+
+**Argument.** ✅
+1. ✅ It gives a compact doctrinal grammar for Jaina metaphysics, epistemology, ethics, bondage, and liberation.
+2. ✅ Its cross-sectarian authority is unusual because Śvetāmbara and Digambara traditions often differ in scriptural canon and practice.
+3. ✅ It states the path through the **ratna-traya** (three jewels): **samyag-darśana** (right vision), **samyag-jñāna** (right knowledge), and **samyak-cāritra** (right conduct).
+4. ✅ It systematizes the seven tattvas, the five astikāyas plus kāla, and the classification of jñāna without reducing Jainism to only ethics or only logic.
+
+**Presupposition.** ⚠️ A UPSC answer improves when Jainism is presented as a systematic darśana rather than as a loose collection of ascetic practices.
+
+**Distinction.** ✅ The Tīrthaṅkaras are liberated teachers and ford-makers, not creator Gods; Jainism remains **anīśvaravāda** (non-theistic about creation).
+
+**Example.** ✅ The famous formulation that right vision, right knowledge, and right conduct together constitute the path to mokṣa may be safely used without inventing a sūtra number.
+
+**Objection (sectarian-history objection).** ❓ A critic may ask whether a text accepted by both Śvetāmbaras and Digambaras erases real sectarian differences.
+
+**Reply.** ⚠️ It does not erase them; it supplies a shared doctrinal framework within which disagreements about canon, practice, and interpretation can still remain.
+
+**Names to drop carefully.** ✅
+- ✅ **Kundakunda**: Digambara thinker associated with *Samayasāra* and the **niścaya-naya / vyavahāra-naya** distinction.
+- ✅ **Siddhasena Divākara** and **Samantabhadra**: important names in the early logic of anekānta and syādvāda.
+- ✅ **Akalaṅka**, **Māṇikyanandi**, **Hemacandra**, and **Yaśovijaya**: major later Jaina logicians to cite for the mature pramāṇa tradition.
 
 ## 1. THEORY OF REALITY ✅
 
@@ -46,7 +82,7 @@ JAINISM
 
 **Example.** ✅ A jar is permanent as a substance across a short stretch, changing in modes, describable by shape, use, material, and temporal state. No one predicate says all of this at once.
 
-**Objection.** ✅ If every object has indefinitely many aspects, knowledge may become impossible.
+**Objection (skeptical objection).** ✅ If every object has indefinitely many aspects, knowledge may become impossible.
 
 **Reply.** ⚠️ Jaina thought replies that knowledge is possible precisely through qualified standpoints, not through absolutist simplification.
 
@@ -68,7 +104,7 @@ JAINISM
 
 **Example.** ✅ A gold ornament changes from bracelet to ring: modes originate and cease, yet the underlying substance persists.
 
-**Objection.** ✅ How can opposite features—change and permanence—belong to one thing?
+**Objection (Buddhist/Nyāya-style objection).** ✅ How can opposite features—change and permanence—belong to one thing?
 
 **Reply.** ✅ They belong in different respects: permanence as dravya, change as paryāya.
 
@@ -76,7 +112,11 @@ JAINISM
 
 **Statement.** ✅ Jainism classically recognizes **six dravyas**: **jīva**, **pudgala**, **dharma**, **adharma**, **ākāśa**, and **kāla**.
 
-**Argument.** ✅ The classification is meant to account for consciousness, matter, motion, rest, spatial accommodation, and temporal succession without reducing them to one principle.
+**Argument.** ✅
+1. ✅ The classification accounts for consciousness, matter, motion, rest, spatial accommodation, and temporal succession.
+2. ✅ Jainism is therefore pluralistic without being chaotic: each dravya has a distinct explanatory function.
+3. ✅ Five of the six dravyas are **astikāyas** (extended substances with many space-points or **pradeśas**).
+4. ✅ **Kāla** (time) is a real dravya in the mainstream sixfold presentation, but it is **not** an astikāya; hence Jainism speaks of **pañcāstikāya** plus kāla.
 
 **The six dravyas.** ✅
 
@@ -89,15 +129,26 @@ JAINISM
 | **Ākāśa** | space | accommodation for substances |
 | **Kāla** | time | succession, change, sequence |
 
-**Presupposition.** ⚠️ Reality is irreducibly pluralistic.
+**Astikāya table.** ✅
+
+| Dravya | Astikāya? | Function | Extension |
+|---|---|---|---|
+| **Jīva** | ✅ Yes | knowing, experiencing, agency, bondage and liberation | ✅ Has pradeśas; in embodied existence it is co-extensive with the body |
+| **Pudgala** | ✅ Yes | material bodies, sense-objects, speech, breath, karma-pudgala | ✅ Extended and aggregative |
+| **Dharma-dravya** | ✅ Yes | medium enabling motion | ✅ Co-extensive with lokākāśa |
+| **Adharma-dravya** | ✅ Yes | medium enabling rest | ✅ Co-extensive with lokākāśa |
+| **Ākāśa** | ✅ Yes | gives room or accommodation to substances | ✅ Extended as lokākāśa and alokākāśa |
+| **Kāla** | ❌ No | succession, duration, before-and-after, change | ✅ A dravya but **an-astikāya** because it lacks spatial extension across many pradeśas in the astikāya sense |
+
+**Presupposition.** ⚠️ Reality is irreducibly pluralistic, and extension must be distinguished from substantiality.
 
 **Distinction.** ✅ **Dharma** and **adharma** here do **not** mean moral merit and demerit; they mean media of motion and rest.
 
-**Sectarian note.** ❓ A standard note in summaries is that **Digambaras do not accept kāla as a separate dravya in the same way**, whereas broader textbook expositions usually list six dravyas for Jainism as a whole. Mention the note, but do not let it obscure the mainstream sixfold presentation required in UPSC answers.
+**Sectarian note.** ✅ The safe doctrinal point is: **kāla is a dravya but not an astikāya**; the pañcāstikāya list has five members, while the dravya list has six. ❓ A common sectarian nuance is that Digambara authors characteristically affirm real **kāla-aṇus** (time-atoms) associated with the space-points of lokākāśa, whereas some Śvetāmbara discussions treat the substantial independence of kāla as disputed or conventional.
 
 **Example.** ✅ A fish swims because water is the medium enabling motion; analogically, dharma-dravya is the cosmic condition enabling movement, not motion itself.
 
-**Objection.** ✅ Dharma and adharma as “media” look mysterious.
+**Objection (Nyāya-Vaiśeṣika-style objection).** ✅ Dharma and adharma as “media” look mysterious and unparsimonious.
 
 **Reply.** ⚠️ Jaina metaphysics treats them not as pushes or forces but as enabling conditions required for a coherent pluralistic cosmology.
 
@@ -116,7 +167,7 @@ JAINISM
 
 **Example.** ✅ Consciousness is a defining feature of jīva; pleasure, pain, delusion, or liberated omniscience are modes or conditions in which the jīva appears.
 
-**Objection.** ✅ Why not just speak of changing qualities rather than introduce a substance?
+**Objection (Buddhist nominalist objection).** ✅ Why not just speak of changing qualities rather than introduce a substance?
 
 **Reply.** ⚠️ Because changing qualities still presuppose something whose changes they are.
 
@@ -135,7 +186,7 @@ JAINISM
 
 **Example.** ✅ The body, speech, and even karmic matter belong to ajīva; the conscious experiencer bound by them is jīva.
 
-**Objection.** ✅ If jīva is immaterial, how can material karma affect it?
+**Objection (Nyāya-Vedānta objection).** ✅ If jīva is immaterial, how can material karma affect it?
 
 **Reply.** ⚠️ This becomes the central challenge in Jaina bondage theory and is answered through the doctrine of karmic influx and adhesion, though critics find the relation obscure.
 
@@ -154,7 +205,7 @@ JAINISM
 
 **Example.** ✅ Souls are graded from one-sense beings to five-sense beings; even minute living entities are morally significant.
 
-**Objection.** ✅ If the soul is naturally omniscient, ignorance becomes hard to explain.
+**Objection (Sāṃkhya/Vedānta objection).** ✅ If the soul is naturally omniscient, ignorance becomes hard to explain.
 
 **Reply.** ✅ Karma as obscuring matter is introduced precisely to explain the discrepancy between intrinsic capacity and empirical limitation.
 
@@ -173,9 +224,122 @@ JAINISM
 
 **Example.** ✅ The body I inhabit, the food I consume, the dust in air, and karmic accretions all belong to pudgala.
 
-**Objection.** ✅ To call karma matter seems strange.
+**Objection (Nyāya/Mīmāṃsā-style objection).** ✅ To call karma matter seems strange.
 
 **Reply.** ✅ That strangeness is also Jainism’s originality: bondage is not merely moral description but a real quasi-physical entanglement.
+
+## 1A. JAINA PRAMĀṆA SCHEME: THE EPISTEMIC GROUND OF ANEKĀNTAVĀDA ✅
+
+### 1A.1 Primary division: pratyakṣa and parokṣa ✅
+
+**Statement.** ✅ Jaina epistemology distinguishes **pratyakṣa** (direct knowledge) and **parokṣa** (indirect knowledge), but it uses the word pratyakṣa in a high-yield, non-ordinary way.
+
+**Argument.** ✅
+1. ✅ In the strict Jaina sense, **pratyakṣa** means knowledge that the soul knows directly without mediation by senses or mind.
+2. ✅ Ordinary sense-perception is therefore not ultimate direct knowledge; it is only **sāṃvyavahārika pratyakṣa** (empirical or conventional direct knowledge).
+3. ✅ Strictly, ordinary sense-and-mind cognition belongs with mediated cognition because it depends on sense-organs, mind, signs, and karmic limitation.
+4. ⚠️ This reverses the usual classroom expectation that perception is the primary direct pramāṇa.
+
+**Presupposition.** ⚠️ Directness is measured by freedom from mediation and karmic obstruction, not merely by sensory vividness.
+
+**Distinction.** ✅ Do not map Jaina pratyakṣa mechanically onto Nyāya pratyakṣa; the same term carries a different doctrinal weight.
+
+**Example.** ✅ Seeing a pot with the eyes is conventionally direct in ordinary dealings, but **kevala-jñāna** is direct in the strict spiritual sense.
+
+**Objection (Nyāya objection).** ✅ Nyāya may object that perception through sense-contact is the paradigm of direct cognition.
+
+**Reply.** ⚠️ Jainism replies that sense-contact is direct only pragmatically; metaphysically it is mediated by organs, mind, and knowledge-obscuring karma.
+
+### 1A.2 Five kinds of jñāna ✅
+
+**Statement.** ✅ Jainism classically enumerates five kinds of **jñāna** (knowledge): **mati**, **śruta**, **avadhi**, **manaḥparyāya**, and **kevala**.
+
+| Jñāna | Status | Meaning | UPSC trap |
+|---|---|---|---|
+| **Mati-jñāna** | ✅ Parokṣa / conventional | sense-and-mind cognition | ✅ Ordinary perception is not strict pratyakṣa |
+| **Śruta-jñāna** | ✅ Parokṣa | scriptural, verbal, or sign-mediated knowledge derived from mati | ✅ Not blind faith; it depends on cognition and communication |
+| **Avadhi-jñāna** | ✅ Mukhya or pāramārthika pratyakṣa | limited clairvoyant direct knowledge of material things | ✅ Direct but limited |
+| **Manaḥparyāya-jñāna** | ✅ Mukhya or pāramārthika pratyakṣa | direct knowledge of others’ mental modes | ✅ Higher than avadhi, still not omniscience |
+| **Kevala-jñāna** | ✅ Mukhya or pāramārthika pratyakṣa | unlimited, unmediated omniscience | ✅ The full overcoming of cognitive obstruction |
+
+**Argument.** ✅
+1. ✅ Mati and śruta are mediated and therefore indirect in the strict classification.
+2. ✅ Avadhi, manaḥparyāya, and kevala are direct because the soul knows without ordinary sense-and-mind mediation.
+3. ✅ The series shows graded release from karmic veiling.
+
+**Presupposition.** ⚠️ Knowledge is graded according to the degree to which karmic obscuration is removed.
+
+**Distinction.** ✅ The five jñānas are not five independent pramāṇas in the Nyāya sense; they are Jaina modes of knowledge mapped to bondage and purification.
+
+**Example.** ✅ A student’s study of doctrine uses mati and śruta; the kevalin’s omniscience is immediate and total.
+
+**Objection (Cārvāka-style objection).** ✅ Avadhi, manaḥparyāya, and kevala appear unverifiable to ordinary experience.
+
+**Reply.** ⚠️ Jainism treats them as necessary consequences of its soul-karma theory; a critic may still reject them if the ontology of jīva and karmic obstruction is denied.
+
+### 1A.3 Wrong cognition: ajñāna under mithyā-darśana ✅
+
+**Statement.** ✅ Jainism recognizes **mati-ajñāna** or **kumati**, **śruta-ajñāna** or **kuśruta**, and **vibhaṅga-jñāna** as wrong cognition.
+
+**Argument.** ✅
+1. ✅ Wrongness is not always the mere absence of content.
+2. ✅ Cognition becomes spiritually wrong when held under **mithyā-darśana** (false vision or wrong orientation).
+3. ✅ **Kumati** is misoriented sensory-mental cognition; **kuśruta** is misoriented verbal or scriptural cognition; **vibhaṅga-jñāna** is perverted avadhi.
+4. ⚠️ The content may have some descriptive accuracy, but its orientation is false because it is governed by delusion.
+
+**Presupposition.** ⚠️ Epistemology and ethics interpenetrate: how one is disposed affects how one knows.
+
+**Distinction.** ✅ Jaina error is not only logical mistake; it can be a karmically conditioned mode of seeing.
+
+**Example.** ✅ A learned person may quote doctrine but use it for pride, sectarian contempt, or violence; the verbal cognition then functions as kuśruta.
+
+**Objection (Nyāya objection).** ✅ Calling cognition wrong because of spiritual orientation seems to confuse truth with moral psychology.
+
+**Reply.** ⚠️ Jainism replies that bondage affects the knower as a whole; epistemic correctness without right vision remains incomplete for liberation.
+
+### 1A.4 Later Jaina logic and indirect pramāṇas ⚠️
+
+**Statement.** ✅ Jainism admits **anumāna** (inference) and **śabda** (testimony or verbal authority) within parokṣa, and later Jaina logicians give a richer account of indirect knowledge.
+
+**Argument.** ⚠️
+1. ✅ **Akalaṅka**, **Māṇikyanandi**, **Hemacandra**, and **Yaśovijaya** are important names for the developed Jaina pramāṇa tradition.
+2. ⚠️ Later Jaina logicians accept **smṛti** (recollection), **pratyabhijñā** (recognition), **tarka** or **ūha** (reasoning that grasps pervasion or vyāpti), and **anumāna** as valid indirect knowledge in appropriate contexts.
+3. ✅ This is a notable contrast with Nyāya, which does not treat memory as an independent pramāṇa.
+4. ⚠️ The Jaina move protects continuity, recognition, and inferential preparation as genuine cognitive achievements without making them omniscient knowledge.
+
+**Presupposition.** ⚠️ Valid cognition need not be restricted to fresh sense-contact; mediated cognition can still disclose real features of the object.
+
+**Distinction.** ✅ **Śabda** is accepted as mediated knowledge, not as a creator-God’s revelation; Jainism remains non-theistic about cosmic creation.
+
+**Example.** ✅ Recognizing “this is the same teacher I met earlier” is not mere raw perception; it involves memory and recognition.
+
+**Objection (Nyāya objection).** ✅ Nyāya can argue that memory merely reproduces past knowledge and is not a new pramāṇa.
+
+**Reply.** ⚠️ The Jaina reply is that recollection and recognition can be valid cognition when they successfully connect present awareness with a real object or past experience.
+
+### 1A.5 Critical link: pramāṇa → nayavāda → syādvāda ✅
+
+**Statement.** ✅ Anekāntavāda is not an arbitrary logical device; it is the epistemological consequence of Jaina metaphysics plus Jaina theory of knowledge.
+
+**Argument.** ✅
+1. ✅ Reality is **ananta-dharmātmakaṃ vastu**: the real object has infinitely many aspects, properties, and modes.
+2. ✅ Ordinary human cognition is **kṣāyopaśamika** (arising from partial destruction-cum-subsidence of knowledge-obscuring karma), and is therefore necessarily partial.
+3. ✅ A judgment made by a non-omniscient knower captures an aspect, not the whole object.
+4. ✅ A partial judgment is true only relative to its standpoint; this is **nayavāda**.
+5. ✅ Absolutising a partial standpoint yields **ekāntavāda** (one-sidedness), the root error of rival schools according to Jainism.
+6. ✅ Therefore assertion must carry the operator **syāt** (“from a certain standpoint”); this is **syādvāda**.
+7. ✅ The sevenfold schema of qualified predication is the disciplined expression of that standpoint-relativity; this is **saptabhaṅgī**.
+8. ✅ Only **kevala-jñāna** grasps all aspects at once, because only omniscience is no longer karmically partial.
+
+**Presupposition.** ⚠️ Finite cognition is not false simply because it is partial; it becomes false when it claims unconditioned finality.
+
+**Distinction.** ✅ Jaina relativity is not subjectivism: the aspects are really in the object, but finite knowers access them partially.
+
+**Example.** ✅ “The jar exists” is true with respect to its present substance-mode-place-time complex, but false with respect to another place, another time, or another incompatible mode.
+
+**Objection (Śaṃkara-style objection).** ✅ If all assertions are standpoint-relative, the assertion of standpoint-relativity may also lose absolute force.
+
+**Reply.** ⚠️ Jainism accepts reflexive qualification: syādvāda too is asserted **syāt**, and its force lies in disciplined anti-absolutism rather than in an unqualified dogma.
 
 ## 2. SAPTABHAṄGĪNAYA ✅
 
@@ -195,7 +359,7 @@ JAINISM
 
 **Example.** ✅ A jar may be described as clay, as container, as round, as breakable, as existing-now. Each statement is true from a standpoint.
 
-**Objection.** ✅ Standpoints may proliferate without limit.
+**Objection (Nyāya-style objection).** ✅ Standpoints may proliferate without limit.
 
 **Reply.** ⚠️ Jaina thinkers classify principal standpoints to discipline rather than dissolve discourse.
 
@@ -221,7 +385,7 @@ JAINISM
 
 **Example.** ✅ Calling a person “a singer” may be true generically or dispositionally, but **evambhūta naya** is stricter: the term applies in the relevant performance-actuality.
 
-**Objection.** ✅ The linguistic nayas seem overly scholastic.
+**Objection (examiner's objection).** ✅ The linguistic nayas seem overly scholastic.
 
 **Reply.** ⚠️ They matter because many philosophical disputes are verbal absolutizations of context-bound usage.
 
@@ -241,7 +405,7 @@ JAINISM
 
 **Example.** ✅ “The jar exists” becomes “syād asti”—it exists in some respect, e.g., as present on the floor now.
 
-**Objection.** ✅ Constant qualification may weaken assertoric force.
+**Objection (Śaṃkara-style objection).** ✅ Constant qualification may weaken assertoric force.
 
 **Reply.** ⚠️ Jaina logic accepts that precision is preferable to dogmatic simplicity.
 
@@ -270,7 +434,7 @@ JAINISM
 
 **Example.** ✅ A clay jar exists now on the table; it does not exist as a lump of raw clay; it both is and is not under different modal descriptions; in a complex state of transition it may be called avaktavya.
 
-**Objection.** ✅ Critics say this violates non-contradiction.
+**Objection (Śaṃkara/Rāmānuja objection).** ✅ Critics say this violates non-contradiction.
 
 **Reply.** ✅ The Jaina response is that contradiction would arise only if affirmation and negation were made in the same respect at the same time in the same sense. Syāt blocks that absolutist reading.
 
@@ -286,7 +450,7 @@ JAINISM
 
 **Example.** ✅ One touches the trunk and says “the elephant is like a serpent,” another the leg and says “like a pillar.” Each is conditionally right and absolutely wrong.
 
-**Objection.** ✅ The parable may trivialize complex metaphysics.
+**Objection (pedagogical objection).** ✅ The parable may trivialize complex metaphysics.
 
 **Reply.** ⚠️ It is pedagogical, not probative; its use is to clarify the structure of partial truth.
 
@@ -310,7 +474,7 @@ JAINISM
 
 **Example.** ✅ The ordinary learner begins with mati and śruta, while the liberated or near-liberated soul culminates in kevala-jñāna.
 
-**Objection.** ✅ Higher forms seem unverifiable.
+**Objection (Cārvāka-style objection).** ✅ Higher forms seem unverifiable.
 
 **Reply.** ⚠️ Within Jainism they are internally connected to the ontology of soul and karma; externally they remain open to critical challenge.
 
@@ -366,7 +530,7 @@ JAINISM
 
 **Nuance.** ⚠️ Its realism is **qualified realism**, because judgement is standpoint-indexed. But qualification of knowledge does not imply unreality of the object.
 
-**Objection.** ✅ If all knowledge is relative to standpoint, realism weakens.
+**Objection (realist objection).** ✅ If all knowledge is relative to standpoint, realism weakens.
 
 **Reply.** ⚠️ Jainism separates ontological realism from epistemic non-absolutism: reality is objective, but our finite access to it is partial.
 
@@ -388,7 +552,7 @@ JAINISM
 
 **Example.** ✅ Passions attract karmic particles just as a sticky surface gathers dust.
 
-**Objection.** ✅ How can matter bind a conscious immaterial soul?
+**Objection (Nyāya-Vedānta objection).** ✅ How can matter bind a conscious immaterial soul?
 
 **Reply.** ⚠️ Jainism answers through intimate association and obscuration, though critics often say the mechanism remains conceptually difficult.
 
@@ -417,7 +581,7 @@ JAINISM
 
 **Example.** ✅ Closing a muddy stream into a tank is like saṃvara; cleaning the sediment already deposited is like nirjarā.
 
-**Objection.** ✅ The process may seem mechanically moralistic.
+**Objection (Buddhist/Vedānta-style objection).** ✅ The process may seem mechanically moralistic.
 
 **Reply.** ⚠️ Its strength is exactly its causal clarity: vice has ontological consequence; discipline has ontological remedy.
 
@@ -440,7 +604,7 @@ JAINISM
 
 **Example.** ✅ Anger or greed in the soul is bhāvabandha; the karmic matter drawn and fixed by that passion is dravyabandha.
 
-**Objection.** ✅ Why not collapse them into one process?
+**Objection (analytical objection).** ✅ Why not collapse them into one process?
 
 **Reply.** ✅ The distinction helps Jainism explain both moral agency and ontological consequence: one is the soul’s state, the other is the karmic material result.
 
@@ -461,7 +625,7 @@ JAINISM
 
 **Example.** ✅ One who knows non-violence conceptually but continues harmful conduct has not completed the path.
 
-**Objection.** ✅ Is “faith” here blind belief?
+**Objection (Cārvāka-style objection).** ✅ Is “faith” here blind belief?
 
 **Reply.** ✅ No. Samyag-darśana is right apprehension or trustful orientation to truth, not irrational fideism.
 
@@ -485,7 +649,7 @@ JAINISM
 
 **Example.** ✅ Extreme care toward even one-sense beings follows from the pluralistic doctrine of jīva.
 
-**Objection.** ✅ Such rigor seems too severe for ordinary life.
+**Objection (householder-pragmatic objection).** ✅ Such rigor seems too severe for ordinary life.
 
 **Reply.** ⚠️ Jainism distinguishes full vows for ascetics and limited observances for householders, preserving the ideal while allowing graded practice.
 
@@ -505,7 +669,7 @@ JAINISM
 
 **Example.** ✅ The Tīrthaṅkara is revered as one who attained such perfect knowledge.
 
-**Objection.** ✅ Omniscience seems excessive or unverifiable.
+**Objection (Buddhist/Cārvāka objection).** ✅ Omniscience seems excessive or unverifiable.
 
 **Reply.** ⚠️ Within Jaina metaphysics, omniscience is the natural terminus of complete karmic purification.
 
@@ -525,9 +689,258 @@ JAINISM
 
 **Example.** ✅ The liberated soul is a **siddha**, no longer embodied, no longer karmically entangled.
 
-**Objection.** ✅ Spatial ascent of a liberated soul may seem mythic.
+**Objection (modern philosophical objection).** ✅ Spatial ascent of a liberated soul may seem mythic.
 
 **Reply.** ⚠️ In doctrinal exposition, one should report the cosmological picture faithfully while separating canonical doctrine from modern philosophical evaluation.
+
+## 3A. SEVEN TATTVAS AND NINE PADĀRTHAS ✅
+
+### 3A.1 Seven tattvas ✅
+
+**Statement.** ✅ The seven **tattvas** (real categories for liberation-analysis) are **jīva**, **ajīva**, **āsrava**, **bandha**, **saṃvara**, **nirjarā**, and **mokṣa**.
+
+**Argument.** ✅
+1. ✅ **Jīva** and **ajīva** identify the two broad ontological poles.
+2. ✅ **Āsrava** explains how karmic matter flows toward the soul.
+3. ✅ **Bandha** explains how that matter becomes bound.
+4. ✅ **Saṃvara** explains the stopping of new influx.
+5. ✅ **Nirjarā** explains the shedding or wearing away of accumulated karma.
+6. ✅ **Mokṣa** names the final state when all karmic bondage is absent.
+
+**Presupposition.** ⚠️ Metaphysics is organized around soteriology: the list is not merely classificatory but therapeutic.
+
+**Distinction.** ✅ The tattva-list moves from what exists to what binds and what liberates.
+
+**Example.** ✅ A person’s anger is not merely a mental event; it opens āsrava, deepens bandha, and must be countered by saṃvara and nirjarā.
+
+**Objection (Buddhist-style objection).** ✅ The list seems to reify a permanent soul and material karma beyond observable process.
+
+**Reply.** ⚠️ Jainism replies that without jīva and karma-pudgala, bondage and liberation cannot be explained as real transformation of an enduring knower.
+
+### 3A.2 Nine padārthas ✅
+
+**Statement.** ✅ The nine **padārthas** are the same seven tattvas plus **puṇya** (merit) and **pāpa** (demerit).
+
+| Enumeration | Members | Exam significance |
+|---|---|---|
+| **Seven tattvas** | ✅ jīva, ajīva, āsrava, bandha, saṃvara, nirjarā, mokṣa | ✅ Standard liberation-sequence framework |
+| **Nine padārthas** | ✅ the seven plus puṇya and pāpa | ✅ Makes moral valence explicit |
+
+**Argument.** ✅
+1. ✅ Puṇya and pāpa are ethically important because meritorious and demeritorious states affect karmic bondage.
+2. ⚠️ They can also be subsumed under āsrava and bandha because both merit and demerit are forms of karmic involvement.
+3. ⚠️ Hence some expositions emphasize seven for soteriological mechanics and nine for moral classification.
+
+**Presupposition.** ⚠️ Even “good” karma remains karmic bondage if it keeps the soul within saṃsāra.
+
+**Distinction.** ✅ Puṇya is better than pāpa ethically, but both are to be transcended for mokṣa.
+
+**Example.** ✅ Charity performed with attachment may produce puṇya, but liberation requires non-attachment rather than pleasant rebirth alone.
+
+**Objection (Mīmāṃsā-style objection).** ✅ If puṇya is morally valuable, why treat it as ultimately part of bondage?
+
+**Reply.** ⚠️ Jainism distinguishes ethical improvement within saṃsāra from final release beyond all karmic determination.
+
+### 3A.3 Soteriological flow: liberation by subtraction ✅
+
+**Statement.** ✅ Jaina liberation is primarily a matter of subtraction, not acquisition: the soul’s **ananta-catuṣṭaya** (infinite knowledge, infinite perception, infinite bliss, infinite power) is revealed when karmic obstruction is removed.
+
+```text
+jīva + ajīva
+     │
+     ▼
+āsrava  (influx of karma-pudgala)
+     │
+     ▼
+bandha  (adhesion through yoga + kaṣāya)
+     │
+     ├──► saṃvara  (stops new influx)
+     │
+     ▼
+nirjarā (wears away accumulated karma)
+     │
+     ▼
+mokṣa   (all karma gone; ananta-catuṣṭaya manifest)
+```
+
+**Argument.** ✅
+1. ✅ The soul does not manufacture omniscience from nothing.
+2. ✅ It removes what obscures its intrinsic cognitive and blissful capacity.
+3. ✅ Kevala-jñāna is therefore revealed rather than produced.
+4. ✅ Mokṣa is the purified manifestation of what the jīva essentially is.
+
+**Presupposition.** ⚠️ The self is intrinsically capable of perfection, but empirically veiled by beginningless karma.
+
+**Distinction.** ✅ Jaina mokṣa is not acquisition of God’s grace, not merger into Brahman, and not annihilation of self; it is release of an individual jīva from karmic matter.
+
+**Example.** ✅ Cleaning a sooted lamp does not create light; it allows light to shine unobstructed.
+
+**Objection (Sāṃkhya/Vedānta objection).** ✅ If the soul is intrinsically omniscient, why was it obscured at all?
+
+**Reply.** ✅ The jīva-karma relation is **anādi** (beginningless) but not endless; like seed-and-tree or ore-and-gold analogies, there is no first temporal term, but purification can terminate the bondage.
+
+## 3B. EIGHT KARMA-PRAKṚTIS AND THE MECHANICS OF BANDHA ✅
+
+### 3B.1 Karma is material pudgala ✅
+
+**Statement.** ✅ Jainism’s philosophically distinctive thesis is that karma is literally material: **karma-pudgala** is subtle matter that flows into and adheres to the soul.
+
+**Argument.** ✅
+1. ✅ Empirical ignorance, delusion, embodied limitation, status, pleasure-pain, and lifespan require causal explanation.
+2. ✅ Jainism explains them through subtle material karmas rather than through an invisible moral potency alone.
+3. ✅ **Bhāva-karma** (the soul’s psychical state) attracts **dravya-karma** (material karmic influx).
+4. ✅ Thus passions and activities have ontological consequences, not merely psychological consequences.
+
+**Presupposition.** ⚠️ Moral causation is not merely legal or symbolic; it is a real interaction between a modified soul and subtle matter.
+
+**Distinction.** ✅ This differs sharply from Nyāya **adṛṣṭa**, Mīmāṃsā **apūrva**, Sāṃkhya **saṃskāra**, and Buddhist **vāsanā**, which are not material karmic particles.
+
+**Example.** ✅ Anger makes the soul “sticky,” as oil or wet clay gathers dust; the image expresses the causal role of kaṣāya.
+
+**Objection (Nyāya-Vedānta objection).** ✅ How can material karma bind an immaterial conscious soul?
+
+**Reply.** ⚠️ Jainism replies that the embodied jīva is not absolutely non-spatial: it has **pradeśas**, is co-extensive with the body, and is modified by bhāva-karma; karmic matter is attracted through passions. ⚠️ A residual difficulty remains because interaction between consciousness and matter still demands explanation.
+
+### 3B.2 Eight basic karma-prakṛtis ✅
+
+| Class | Karma-prakṛti | What it obscures or determines | Philosophical significance |
+|---|---|---|---|
+| **Ghātiyā** | ✅ **Jñānāvaraṇīya** | knowledge | ✅ Blocks the soul’s intrinsic knowing |
+| **Ghātiyā** | ✅ **Darśanāvaraṇīya** | perception or apprehension | ✅ Blocks direct awareness |
+| **Ghātiyā** | ✅ **Mohanīya** | right vision and conduct | ✅ Most dangerous because delusion misorients the path |
+| **Ghātiyā** | ✅ **Antarāya** | energy, power, capacity to act | ✅ Obstructs the soul’s effective power |
+| **Aghātiyā** | ✅ **Vedanīya** | pleasure and pain | ✅ Determines felt experience without destroying essence |
+| **Aghātiyā** | ✅ **Nāma** | body, form, embodiment | ✅ Determines the type of body and individuality of embodiment |
+| **Aghātiyā** | ✅ **Gotra** | status or family-standing | ✅ Determines high or low status conditions |
+| **Aghātiyā** | ✅ **Āyus** | lifespan | ✅ Determines duration of embodied life |
+
+**Statement.** ✅ The eight karmas divide into **ghātiyā** karmas, which damage or obscure the soul’s essential qualities, and **aghātiyā** karmas, which determine embodiment without directly destroying those qualities.
+
+**Argument.** ✅
+1. ✅ Jñānāvaraṇīya, darśanāvaraṇīya, mohanīya, and antarāya are ghātiyā because they obstruct knowledge, perception, right orientation, and power.
+2. ✅ Vedanīya, nāma, gotra, and āyus are aghātiyā because they structure embodied experience, body, status, and lifespan.
+3. ✅ **Mohanīya** is the most dangerous because delusion corrupts both right vision and right conduct.
+4. ✅ Mohanīya is commonly divided into **darśana-mohanīya** and **cāritra-mohanīya**.
+
+**Presupposition.** ⚠️ Liberation requires not only moral improvement but precise removal of the karmic veils that obstruct the soul’s essential nature.
+
+**Distinction.** ✅ The arhat at the **sayoga-kevalī** stage has destroyed ghātiyā karmas but still lives with remaining aghātiyā karmas until final release.
+
+**Example.** ✅ A kevalin has omniscience because knowledge-obscuring karma is destroyed, but embodied life continues until lifespan-determining karma is exhausted.
+
+**Objection (Buddhist objection).** ✅ The taxonomy seems metaphysically heavy compared with a mental-volitional account of karma.
+
+**Reply.** ⚠️ Jainism accepts the heaviness because it wants a realist explanation of why cognition, embodiment, status, pleasure, and lifespan are all karmically structured.
+
+### 3B.3 Four parameters of bandha ✅
+
+**Statement.** ✅ Karmic bondage is analysed through four parameters: **prakṛti** (type or nature), **sthiti** (duration), **anubhāga** or **rasa** (intensity), and **pradeśa** (quantity of karmic matter).
+
+| Bandha-parameter | Meaning | Main determinant |
+|---|---|---|
+| **Prakṛti** | ✅ type of karma bound | ✅ **Yoga** (activity of body, speech, and mind) |
+| **Sthiti** | ✅ duration of bondage | ✅ **Kaṣāya** (passions) |
+| **Anubhāga / rasa** | ✅ intensity or fruition-strength | ✅ **Kaṣāya** |
+| **Pradeśa** | ✅ quantity of karmic matter bound | ✅ **Yoga** |
+
+**Argument.** ✅
+1. ✅ **Yoga** brings karmic matter into relation with the soul and determines type and quantity.
+2. ✅ **Kaṣāya** makes the bondage deep, long-lasting, and intense.
+3. ✅ Activity without passion therefore has a radically different karmic effect from activity with passion.
+4. ✅ This explains the contrast between **īryāpathika bandha** (momentary bondage from activity without passion) and **sāmparāyika bandha** (durable bondage from passion-coloured activity).
+
+**Presupposition.** ⚠️ The moral weight of an action depends not only on external movement but on passion, attachment, and delusion.
+
+**Distinction.** ✅ Jainism is not crude physicalism: material karma binds through psychical states; passion is doctrinally decisive.
+
+**Example.** ✅ A monk’s careful walking may involve bodily activity, but if free from passion it binds only momentarily; an angry act binds deeply because kaṣāya fixes the karma.
+
+**Objection (Mīmāṃsā-Nyāya objection).** ✅ This mechanism seems more elaborate than needed to explain moral consequence.
+
+**Reply.** ⚠️ Jainism replies that the elaboration is the point: it explains why intention, passion, duration, intensity, and embodiment are linked in a single karmic science.
+
+## 3C. FOURTEEN GUṆASTHĀNAS: STAGES OF SPIRITUAL DEVELOPMENT ✅
+
+### 3C.1 Ordered list ✅
+
+**Statement.** ✅ The **guṇasthānas** are fourteen ordered stages marking the soul’s gradual movement from delusion to omniscience and final liberation.
+
+| No. | Guṇasthāna | Brief gloss |
+|---:|---|---|
+| 1 | ✅ **Mithyā-dṛṣṭi** | false vision; complete wrong orientation |
+| 2 | ✅ **Sāsvādana / sāsādana** | falling condition with a lingering taste of right vision |
+| 3 | ✅ **Miśra / samyag-mithyā-dṛṣṭi** | mixed right and wrong orientation |
+| 4 | ✅ **Avirata samyag-dṛṣṭi** | right vision without full restraint |
+| 5 | ✅ **Deśavirata** | partial restraint, especially lay vows |
+| 6 | ✅ **Pramatta-saṃyata** | full restraint with negligence |
+| 7 | ✅ **Apramatta-saṃyata** | full restraint without negligence |
+| 8 | ✅ **Apūrva-karaṇa / nivṛtti-bādara** | unprecedented purification; gross passions being transformed |
+| 9 | ✅ **Anivṛtti-bādara** | further advanced purification of gross passions |
+| 10 | ✅ **Sūkṣma-samparāya** | only subtle greed remains |
+| 11 | ✅ **Upaśānta-moha** | delusion suppressed, not destroyed |
+| 12 | ✅ **Kṣīṇa-moha** | delusion destroyed |
+| 13 | ✅ **Sayoga-kevalī** | omniscient embodied arhat with activity still present |
+| 14 | ✅ **Ayoga-kevalī** | activity ceases; momentary final state before siddhatva |
+
+**Argument.** ✅
+1. ✅ The first three stages describe wrong, falling, or mixed vision.
+2. ✅ Stage 4 is decisive because **samyag-darśana** first becomes stable enough to orient the path.
+3. ✅ Stages 5–7 discipline conduct through partial and full restraint.
+4. ✅ Stages 8–10 refine passions from gross to extremely subtle.
+5. ✅ Stages 11–12 mark the crucial difference between suppression and destruction of delusion.
+6. ✅ Stages 13–14 explain how omniscience and final disembodiment are related.
+
+**Presupposition.** ⚠️ Liberation is gradual, psychologically exact, and karmically measurable.
+
+**Distinction.** ✅ Stage 4 is a breakthrough in right vision; it is not yet complete ascetic conduct.
+
+**Example.** ✅ A layperson with right vision and partial vows belongs doctrinally closer to stage 5 than to complete monastic purification.
+
+**Objection (Advaita-style objection).** ✅ A fourteen-stage ladder may seem to turn liberation into a mechanical sequence rather than insight.
+
+**Reply.** ⚠️ Jainism replies that insight, conduct, and karmic purification must be integrated; right vision without progressive destruction of karma is incomplete.
+
+### 3C.2 Two ladders and jīvanmukti ✅
+
+**Statement.** ✅ Jaina doctrine distinguishes **upaśama-śreṇi** (ladder of suppression) and **kṣapaka-śreṇi** (ladder of annihilation); only the annihilation ladder reaches irreversible destruction of delusion.
+
+**Argument.** ✅
+1. ✅ **Upaśama-śreṇi** suppresses delusion and can reach stage 11.
+2. ✅ Stage 11 necessarily falls back because suppressed moha is not destroyed.
+3. ✅ **Kṣapaka-śreṇi** destroys delusion and reaches stage 12 and beyond.
+4. ✅ At stage 13 the **sayoga-kevalī** has kevala-jñāna but still retains embodied activity because aghātiyā karmas remain.
+5. ✅ Stage 14, **ayoga-kevalī**, is the momentary cessation of activity immediately before **siddhatva**.
+
+**Presupposition.** ⚠️ Suppression is spiritually unstable; destruction alone is final.
+
+**Distinction.** ✅ The sayoga-kevalī is the Jaina answer to “is jīvanmukti possible?”: the embodied omniscient arhat is liberated-in-life in the Jaina sense, though final siddha-state follows only after remaining aghātiyā karmas are exhausted.
+
+**Example.** ✅ A lamp with its obscuring cover removed shines fully even before the lamp is relocated; similarly the arhat is omniscient while embodied.
+
+**Objection (Rāmānuja-style objection).** ✅ Omniscience while embodied may seem unintelligible if embodiment itself implies limitation.
+
+**Reply.** ⚠️ Jainism distinguishes ghātiyā karmas, which obstruct essential knowledge, from aghātiyā karmas, which sustain embodiment without blocking omniscience.
+
+## 3D. SALLEKHANĀ / SANTHĀRĀ: DEATH WITHOUT PASSION ✅
+
+**Statement.** ✅ **Sallekhanā** or **santhārā** is the voluntary, gradual, ritually regulated relinquishment of food and passions undertaken when death is unavoidable or bodily decline is incurable.
+
+**Argument.** ✅
+1. ✅ Bondage tracks **kaṣāya**: passion fixes karmic matter more deeply than bare activity.
+2. ✅ A death faced with equanimity minimizes new influx and prevents panic, attachment, and aversion from creating fresh bondage.
+3. ✅ The aim is not to end life as such but to end passion at the moment when life is already naturally or medically approaching its close.
+4. ✅ The practice must be free from desire for death, desire to continue living, attachment to friends, recollection of pleasures, and hope of reward.
+5. ✅ If such motives enter, the act becomes an **aticāra** (transgression) of the vow’s proper discipline.
+
+**Presupposition.** ⚠️ The karmic quality of dying depends on the inner state with which death is faced.
+
+**Distinction.** ✅ Jainism distinguishes sallekhanā from **ātma-ghāta** (suicide): suicide is passion-driven, sudden, violent, often concealed, and motivated by despair or aversion; sallekhanā is passion-free, non-violent, gradual, supervised, and public.
+
+**Example.** ✅ An elderly ascetic or lay practitioner facing irreversible decline may gradually reduce intake under religious supervision while cultivating forgiveness, detachment, and equanimity.
+
+**Objection (modern legal-ethical objection).** ❓ Critics in India have disputed whether sallekhanā is protected religious practice or an impermissible form of self-destruction.
+
+**Reply.** ⚠️ The Jaina reply is that legal and ethical evaluation must distinguish intention, procedure, publicity, non-violence, and the absence of death-desire; the controversy is a useful Paper II bridge to religion and morality, but specific case names, holdings, dates, and statutory details should not be asserted unless separately verified.
 
 ## 4. INTER-THINKER / INTER-SCHOOL DEBATES ⚠️
 
@@ -561,38 +974,112 @@ JAINISM
 | Logic | Conditional predication | Suspicion of inference and testimony |
 | Ethics | Austerity and ahiṃsā | This-worldly pleasure and prudence |
 
-## 5. CRITICISMS AND REPLIES ✅
+## 5. NAMED CRITICISMS AND JAINA REPLIES ✅
 
-### 5.1 “Anekāntavāda collapses into contradiction.”
-- **Criticism.** ✅ Opposed predicates seem allowed of one thing.
-- **Reply.** ✅ They are allowed only under different standpoints, times, relations, or senses.
-- **Assessment.** ⚠️ The reply is philosophically serious and stronger than a casual relativism.
+### 5.1 Śaṃkara's critique of anekāntavāda ✅
 
-### 5.2 “Anekāntavāda presupposes an absolutist vantage.”
-- **Criticism.** ✅ The doctrine seems universally asserted.
-- **Reply.** ✅ Jainism distinguishes finite standpoint-judgement from omniscience; the doctrine disciplines the former without denying the latter.
-- **Assessment.** ⚠️ This is one of the best Jaina replies and should be used in 2022-type questions.
+**Statement.** ✅ Śaṃkara, in the *Brahmasūtra-bhāṣya*, criticizes Jaina anekāntavāda by arguing that contradictory attributes cannot belong to the same thing in the same way.
 
-### 5.3 “Karma as matter is unintelligible.”
-- **Criticism.** ✅ How can material particles bind consciousness?
-- **Reply.** ⚠️ Jainism insists that bondage is real and causal, not metaphorical; karmic matter explains obscuration concretely.
-- **Assessment.** ⚠️ Critics remain unconvinced, but the doctrine is distinctive and systematically tied to Jaina asceticism.
+**Argument of the critic.** ✅
+1. ✅ If the same object is said to be both existent and non-existent, determinate knowledge is threatened.
+2. ✅ If everything is “somehow yes and somehow no,” practical action loses clear guidance.
+3. ✅ If anekāntavāda asserts itself absolutely, it contradicts itself.
+4. ✅ If it asserts itself only conditionally, it seems to lose universal force.
 
-### 5.4 “Non-absolutism becomes trivial relativism.”
-- **Criticism.** ✅ If every view is partly true, error disappears.
-- **Reply.** ✅ Jainism does not say every statement is true; it says truth must be indexed to standpoint, and one-sided absolutization is error.
-- **Assessment.** ⚠️ This preserves realism while softening dogmatism.
+**Presupposition.** ⚠️ A viable metaphysics must preserve non-contradiction and assertoric clarity.
+
+**Jaina reply.** ✅
+1. ✅ Opposed predicates are indexed to distinct standpoints: **dravya** (substance), **kṣetra** (place), **kāla** (time), and **bhāva** (mode).
+2. ✅ There is no contradiction unless affirmation and negation are made in the same respect, place, time, and mode.
+3. ✅ Syādvāda is itself asserted **syāt**; this reflexive qualification is a virtue because the doctrine obeys its own rule.
+4. ⚠️ A residual objection remains: if syādvāda is always qualified, critics may say it loses final assertoric force.
+
+### 5.2 Rāmānuja's critique: opposed real attributes ✅
+
+**Statement.** ✅ Rāmānuja presses the charge that a real substance with really opposed attributes is unintelligible.
+
+**Argument of the critic.** ✅
+1. ✅ A thing cannot be genuinely both F and not-F in the same meaningful sense.
+2. ✅ If the attributes are real and opposed, the substance becomes incoherent.
+3. ✅ If they are not real, Jaina realism weakens.
+
+**Presupposition.** ⚠️ Real predication must avoid contradiction at the level of the object, not merely at the level of language.
+
+**Jaina reply.** ✅ The Jaina answer again uses standpoint-indexing: the same dravya persists while paryāyas arise and cease, so the opposition is between aspects, not within one unqualified predication.
+
+**Assessment.** ⚠️ The reply works best if one accepts the dravya–paryāya distinction; it is less persuasive to schools that reject such aspect-realism.
+
+### 5.3 Dharmakīrti / Buddhist critique of permanent-yet-changing soul ✅
+
+**Statement.** ✅ A Buddhist critique associated with Dharmakīrti’s causal-efficacy style of argument challenges the Jaina soul as permanent yet changing.
+
+**Argument of the critic.** ✅
+1. ✅ If the soul expands and contracts with the body, it undergoes real change.
+2. ✅ What undergoes real change cannot be absolutely permanent.
+3. ✅ A permanent entity that changes faces the **arthakriyā** (causal efficacy) dilemma: if it acts, it changes; if it does not change, it cannot act.
+
+**Presupposition.** ⚠️ Causal efficacy and permanence are difficult to combine in one substance.
+
+**Jaina reply.** ✅ Jainism replies through **utpāda-vyaya-dhrauvya**: origination, cessation, and permanence are simultaneously real features of every sat; the substance is permanent qua dravya and changing qua paryāya.
+
+**Assessment.** ⚠️ The Buddhist objection remains strong if one denies the real distinction between substance and modes.
+
+### 5.4 Nyāya critique of the soul's expansion and material karma ✅
+
+**Statement.** ✅ Nyāya criticizes the Jaina view that the soul is co-extensive with the body and expands or contracts like a lamp filling a room.
+
+**Argument of the critic.** ✅
+1. ✅ An eternal self should not literally expand and contract.
+2. ✅ If the self has parts or pradeśas, its eternality seems threatened.
+3. ✅ Material karma is less parsimonious than an unseen moral potency such as adṛṣṭa.
+
+**Presupposition.** ⚠️ A permanent self should be partless or at least not spatially variable.
+
+**Jaina reply.** ✅ Jainism invokes **pradeśas** and the lamp simile: consciousness can pervade the body without being identical with gross matter, and karmic pudgala explains concrete embodiment better than a merely invisible potency.
+
+**Assessment.** ⚠️ The reply is internally coherent within Jaina pluralism, but the interaction of conscious pradeśa-bearing jīva and matter remains a debated point.
+
+### 5.5 Sāṃkhya/Vedānta critique of intrinsic omniscience and beginningless bondage ✅
+
+**Statement.** ✅ Sāṃkhya and Vedānta-style objections ask why karmic matter obscures an intrinsically omniscient soul and what began the obscuration.
+
+**Argument of the critic.** ✅
+1. ✅ If the soul is intrinsically pure and omniscient, obscuration appears accidental and inexplicable.
+2. ✅ If karma began at some time, a first cause of bondage is required.
+3. ✅ If karma never began, liberation may seem impossible.
+
+**Presupposition.** ⚠️ A theory of bondage must explain both its origin and its removal.
+
+**Jaina reply.** ✅ The jīva-karma relation is **anādi** (beginningless) but not endless; like seed-and-tree or ore-and-gold analogies, there is no first temporal term, but disciplined saṃvara and nirjarā can terminate the relation.
+
+**Assessment.** ⚠️ The reply blocks a first-cause demand but leaves a metaphysical puzzle about why beginningless bondage is possible for an intrinsically perfect soul.
+
+### 5.6 Cārvāka / empiricist critique of omniscience and liberation ✅
+
+**Statement.** ✅ A Cārvāka or modern empiricist objection rejects invisible souls, karmic particles, omniscience, and siddha-śilā as unverifiable.
+
+**Argument of the critic.** ✅ Ordinary perception does not disclose karmic matter, disembodied siddhas, or omniscient cognition.
+
+**Presupposition.** ⚠️ Only publicly verifiable empirical entities should be admitted.
+
+**Jaina reply.** ⚠️ Jainism combines testimony, inference, moral phenomenology, and the internal logic of purification to defend these doctrines, but it cannot satisfy a strict materialist who admits only gross perception.
+
+**Assessment.** ⚠️ Use this objection only as an external critique; do not let it replace the named classical objections above.
 
 ## 6. COMMON UPSC TRAPS ✅
 
 1. **Anekāntavāda ≠ syādvāda ≠ saptabhaṅgī.** ✅ Metaphysics / epistemic-logical method / formal sevenfold predication.
 2. **Karma in Jainism is material (pudgala).** ✅ Do not reduce it to generic moral force or adṛṣṭa.
-3. **Six dravyas, not five.** ✅ Kāla is the sixth in mainstream textbook presentation, though note the Digambara dispute.
+3. **Six dravyas, but only five astikāyas.** ✅ Kāla is a dravya but not an astikāya; the pañcāstikāya list has five members while the dravya list has six.
 4. **Jainism rejects God as creator but not spiritual excellence.** ✅ Liberated souls and Tīrthaṅkaras are worthy of reverence, but there is no creator-God.
 5. **Bhāvabandha ≠ dravyabandha.** ✅ Psychic bondage is not identical with material karmic bondage, though they are linked.
 6. **Dharma / adharma in ontology do not mean moral merit / sin.** ✅ They are media of motion and rest.
 7. **Seven nayas are not the same as seven bhangas.** ✅ One is standpoint taxonomy; the other is predicational schema.
 8. **Jainism is realist despite epistemic relativity.** ⚠️ Partial knowledge does not imply unreal objects.
+9. **Jaina pratyakṣa is inverted.** ✅ Strict pratyakṣa is soul-direct knowledge; ordinary sense-perception is only sāṃvyavahārika pratyakṣa.
+10. **Puṇya is not mokṣa.** ✅ Merit may improve saṃsāric condition but still belongs to karmic involvement.
+11. **Ghātiyā ≠ aghātiyā karma.** ✅ Ghātiyā karmas obstruct essential qualities; aghātiyā karmas determine embodiment.
+12. **Sayoga-kevalī = Jaina jīvanmukta.** ✅ Omniscience can occur while embodied because aghātiyā karmas remain until final siddhatva.
 
 ## 7. KEYWORD & STATEMENT BANK ✅
 
@@ -610,6 +1097,7 @@ JAINISM
 - **Exam sentence:** “The originality of Jaina soteriology lies in treating karma not merely as moral record but as subtle material bondage requiring both stoppage and shedding.” ⚠️
 
 <!-- restored-2018-2020-doctrine:start -->
+
 ## RESTORED 2018/2020 DOCTRINE DOSSIER
 
 ### Bound and liberated soul
@@ -627,6 +1115,98 @@ JAINISM
 - ❌ **Trap / answer consequence:** Do not reduce liberation to moral improvement alone: map influx, bondage, stoppage, shedding and the persistence of perfected individual jīva.
 
 <!-- expanded-pyq-depth:end -->
+
+## 7A. PRESUPPOSITION LEDGER ⚠️
+
+| Doctrine | Presupposition | What collapses if denied |
+|---|---|---|
+| **Anekāntavāda** | ⚠️ Reality has many real aspects, not merely many subjective descriptions | ⚠️ Jaina non-absolutism becomes either skepticism or loose tolerance |
+| **Nayavāda** | ⚠️ Finite cognition grasps objects through partial standpoints | ⚠️ Partial truths become either falsehoods or dogmatic absolutes |
+| **Syādvāda / saptabhaṅgī** | ⚠️ Language must register standpoint, time, place, substance, and mode | ⚠️ Conditional predication looks like contradiction or indecision |
+| **Dravya as utpāda-vyaya-dhrauvya** | ⚠️ Permanence and change are both objectively real in different respects | ⚠️ Jainism collapses either into Buddhist flux or static monism |
+| **Five/six substances and astikāya** | ⚠️ Substance and spatial extension must be distinguished | ⚠️ Kāla is confused with the five astikāyas, and pluralist cosmology loses precision |
+| **Material karma** | ⚠️ Moral-psychical states can attract subtle matter | ⚠️ Bondage becomes metaphorical and Jaina soteriology loses its distinctive mechanism |
+| **Guṇasthāna progression** | ⚠️ Spiritual development is gradual and karmically measurable | ⚠️ Liberation becomes abrupt insight without Jaina moral psychology |
+| **Kevala-jñāna** | ⚠️ The soul’s infinite knowledge is intrinsic but obscured | ⚠️ Mokṣa becomes acquisition rather than revelation through removal |
+| **Ahiṃsā** | ⚠️ All living jīvas are morally significant and injury binds karma | ⚠️ Jaina ethics loses its metaphysical foundation |
+
+## 7B. PŪRVAPAKṢA–SIDDHĀNTA LEDGER ✅
+
+| Objector (named) | Objection | Jaina reply | Residual force ⚠️ |
+|---|---|---|---|
+| **Śaṃkara** | ✅ Anekāntavāda allows contradiction and cannot assert itself consistently | ✅ Predicates are indexed to dravya, kṣetra, kāla, and bhāva; syādvāda is itself asserted syāt | ⚠️ Reflexively qualified doctrine may seem to lose assertoric force |
+| **Rāmānuja** | ✅ A real substance with opposed real attributes is unintelligible | ✅ Opposed predicates belong to different aspects of dravya and paryāya | ⚠️ Reply depends on accepting aspect-realism |
+| **Dharmakīrti / Buddhist** | ✅ Permanent yet changing soul fails the arthakriyā test | ✅ Utpāda-vyaya-dhrauvya: permanence as dravya, change as paryāya | ⚠️ Strong if substance-mode distinction is denied |
+| **Nyāya** | ✅ Soul’s expansion/contraction and material karma are unparsimonious | ✅ Jīva has pradeśas and pervades the body like a lamp; karma-pudgala explains embodiment | ⚠️ Consciousness-matter interaction remains difficult |
+| **Sāṃkhya/Vedānta** | ✅ Intrinsic omniscience plus beginningless obscuration seems puzzling | ✅ Jīva-karma relation is anādi but terminable through saṃvara and nirjarā | ⚠️ No first-origin explanation is offered |
+| **Cārvāka / empiricist** | ✅ Soul, karma-pudgala, omniscience, and siddha-śilā are not perceptually verified | ⚠️ Jainism uses inference, testimony, and systematic soteriology | ⚠️ Unpersuasive to strict perception-only materialism |
+
+## 7C. INTER-SCHOOL POSITIONING ✅
+
+| School | Pramāṇas admitted | Self | Permanence vs change | Universals | Causation | Creator God | Liberation |
+|---|---|---|---|---|---|---|---|
+| **Jainism** | ✅ Pratyakṣa and parokṣa; developed accounts include anumāna, śabda, smṛti, pratyabhijñā, tarka | ✅ Many permanent jīvas | ✅ Dravya permanent, paryāya changing | ⚠️ Real features grasped under standpoints | ✅ **Sadasatkāryavāda**: effect exists in one respect in the cause because dravya persists, and does not exist in another because paryāya is new | ✅ **Anīśvaravāda**: no creator; Tīrthaṅkaras are liberated teachers | ✅ Individual siddha freed from all karma |
+| **Buddhism** | ⚠️ Usually perception and inference in classical epistemology | ✅ No permanent ātman | ✅ Momentariness in many schools | ⚠️ Often nominal or conceptual | ⚠️ Dependent origination, no permanent substrate | ✅ No creator God | ✅ Nirvāṇa without eternal soul-substance |
+| **Nyāya-Vaiśeṣika** | ✅ Perception, inference, comparison, testimony | ✅ Many eternal selves | ✅ Substances endure; qualities change | ✅ Universals real | ✅ Asatkāryavāda; effect newly produced | ✅ Theistic in later Nyāya | ✅ Self freed from suffering, not Jaina omniscient bliss |
+| **Sāṃkhya-Yoga** | ✅ Perception, inference, reliable testimony | ✅ Many puruṣas | ✅ Puruṣa changeless; prakṛti evolves | ⚠️ Not central like Nyāya universals | ✅ Satkāryavāda; effect pre-exists in cause | ✅ Classical Sāṃkhya non-theistic; Yoga admits Īśvara specially | ✅ Kaivalya of puruṣa from prakṛti |
+| **Mīmāṃsā** | ✅ Multiple pramāṇas including śabda; exact list varies by sub-school | ✅ Enduring self | ✅ World and Veda treated as real | ✅ Realist tendencies | ⚠️ Apūrva links ritual action and result | ✅ No creator required for Vedic authority | ⚠️ Often cessation of pain / ritual-moral fulfilment depending on account |
+| **Advaita** | ✅ Six pramāṇas in standard Advaita pedagogy | ✅ Ultimately one ātman-Brahman | ✅ Brahman changeless; world mithyā | ⚠️ Ultimately sublated in non-duality | ⚠️ Vivarta-style appearance rather than real transformation | ⚠️ Īśvara is empirical-soteriological, not ultimate second reality | ✅ Realization of non-duality |
+| **Cārvāka** | ✅ Perception primarily | ✅ Body-based consciousness | ✅ Material change only | ❓ Universals not central as real entities | ⚠️ Material causal regularity | ✅ Rejects creator God | ✅ Rejects mokṣa or reduces goal to this-worldly life |
+
+**Focused Jainism vs Buddhism.** ✅ Both are śramaṇa traditions, both challenge Vedic ritual supremacy, and both reject a creator God. ✅ Jainism, however, affirms many permanent jīvas and permanent-cum-changing substances, whereas Buddhism rejects substance-self. ✅ Jaina ahiṃsā is far more radical because even minute living beings are jīvas. ✅ Jaina karma is material karma-pudgala, while Buddhist karma is primarily volitional or mental-causal continuity. ⚠️ Thus the two are close historically but sharply opposed metaphysically.
+
+## 7D. CONTROLLED WESTERN COMPARISON ⚠️
+
+| Western comparison | Point of contact | Disanalogy |
+|---|---|---|
+| **Anekāntavāda and Nietzschean perspectivism** | ⚠️ Both deny a simple “view from nowhere” for ordinary knowers | ✅ Jainism is realist: aspects are in the object; perspectivism is often read anti-realist |
+| **Syādvāda and many-valued / paraconsistent logic** | ⚠️ Seven bhaṅgas resemble non-classical evaluation | ✅ **Syāt** is a standpoint-operator, not a third truth-value; **avaktavya** is inexpressibility in one unqualified utterance, not a truth-value gap |
+| **Anekānta and Hegelian dialectic** | ⚠️ Both allow opposites within the real | ✅ Hegelian opposites are sublated into higher synthesis; Jaina aspects coexist without sublation |
+| **Ahiṃsā and Schweitzer’s reverence for life** | ⚠️ Both widen moral concern toward life | ✅ Jaina ahiṃsā is grounded in jīva, karma, and liberation, not only ethical reverence |
+| **Jaina souls and Leibnizian monads** | ⚠️ Both are plural centres carrying their own history | ✅ Jaina souls interact with karmic matter and vary in spatial extension; monads do not interact materially in the same way |
+| **Material karma and mechanistic psychology** | ⚠️ Both seek causal explanation for conduct and character | ✅ Jaina karma is subtle moral matter tied to liberation, not value-neutral brain mechanism |
+
+**Rubric.** ⚠️ **Western parallels are illustrative only, never a substitute for the Jaina argument; use at most one or two lines after the Jaina case is complete.**
+
+## 7E. DIRECTIVE DECODER ⚠️
+
+| Directive | What the examiner is testing | Structural move for a Jainism answer | Closing verdict |
+|---|---|---|---|
+| **Discuss** | ✅ Breadth plus coherence | Define doctrine → explain mechanics → add one debate | ⚠️ “Thus Jainism offers a coherent pluralist realism, though its metaphysical costs remain.” |
+| **Examine** | ✅ Doctrinal accuracy | Break into components: dravya, naya, syāt, karma, mokṣa | ⚠️ “The doctrine is intelligible when its presuppositions are made explicit.” |
+| **Critically examine** | ✅ Doctrine plus objections | Present Śaṃkara/Nyāya/Buddhist objections and Jaina replies | ⚠️ “The reply is strong internally but not neutral across all schools.” |
+| **Analyse** | ✅ Internal logic | Show cause-effect links: metaphysics → epistemology → language → liberation | ⚠️ “Its strength lies in systematic interconnection.” |
+| **Evaluate** | ✅ Balanced judgement | State strengths, weaknesses, and residual contestation | ⚠️ “Persuasive as qualified realism; vulnerable on material karma and omniscience.” |
+| **Compare** | ✅ Inter-school positioning | Use axes: self, causation, pramāṇa, karma, mokṣa | ⚠️ “The comparison shows Jainism as a middle path between flux and static permanence.” |
+| **Distinguish** | ✅ Conceptual precision | Use tables: anekānta/syādvāda/saptabhaṅgī; bhāva/dravya bandha | ⚠️ “The distinction prevents common UPSC conflations.” |
+| **Elucidate** | ✅ Clear explanation with examples | Define → give example → link to soteriology | ⚠️ “The example reveals the doctrinal logic, not merely illustration.” |
+| **Comment** | ✅ Short evaluative insight | State thesis and one philosophical implication | ⚠️ “The comment should be pointed, not a full survey.” |
+| **Bring out** | ✅ Hidden relation | Show how reality is reflected in judgement or karma in liberation | ⚠️ “The relation is constitutive, not accidental.” |
+| **Do you agree?** | ✅ Reasoned stance | Agree partly → give doctrine → objections → qualified verdict | ⚠️ “Agree within Jaina presuppositions; qualify from rival standpoints.” |
+
+## 7F. GRADED VERDICT ON JAINISM ⚠️
+
+**Strong ✅**
+1. ✅ Jainism gives one of the clearest Indian accounts of how permanence and change can both be real.
+2. ✅ Anekāntavāda, nayavāda, and syādvāda form a disciplined sequence from ontology to epistemology to language.
+3. ✅ Its material karma doctrine makes ethics causally serious and connects metaphysics with ascetic practice.
+4. ✅ Its ahiṃsā follows directly from plural jīvas and karmic bondage, not from sentiment alone.
+
+**Weak ⚠️**
+1. ⚠️ Material karma binding a conscious soul remains difficult for non-Jaina metaphysics.
+2. ⚠️ Omniscience and higher direct knowledges are hard to verify externally.
+3. ⚠️ The system can seem over-taxonomic in karma-types, guṇasthānas, and nayas.
+4. ⚠️ Reflexively qualified syādvāda may appear to weaken its own universal claim.
+
+**Genuinely contested ❓**
+1. ❓ Sectarian nuances about kāla’s substantial independence differ in presentation.
+2. ❓ Modern legal-ethical evaluation of sallekhanā requires case-specific verification before citing details.
+3. ❓ Historical dating of several Jaina thinkers should not be asserted unless separately verified.
+
+**Ready verdicts.** ⚠️
+- **10 marks:** Jainism is a pluralistic realism that avoids both pure permanence and pure flux by making every real a unity of dravya and paryāya.
+- **15 marks:** Its genius lies in connecting many-sided reality with conditional judgement, but its material karma and omniscience doctrines remain philosophically contestable.
+- **20 marks:** Jainism is best evaluated as a rigorous qualified realism: internally systematic, ethically powerful, and logically subtle, though vulnerable to external critiques of contradiction, soul-matter interaction, and unverifiable higher knowledge.
 
 ## 8. PYQ ROUTING (2018–2025)
 
@@ -689,6 +1269,7 @@ End with a balanced conclusion: realism without dogmatism.
 
 ## SOURCES
 
+- *Tattvārthasūtra* / *Tattvārthādhigama-sūtra* (named without invented sūtra numbers).
 - Chatterjee & Datta, *An Introduction to Indian Philosophy*.
 - C.D. Sharma, *A Critical Survey of Indian Philosophy*.
 - S. Radhakrishnan, *Indian Philosophy*, Vol. I.

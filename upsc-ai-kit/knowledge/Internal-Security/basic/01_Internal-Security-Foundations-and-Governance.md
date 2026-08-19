@@ -250,7 +250,89 @@ explicitly converts a list of schemes into an argument.
   political, socio-economic and governance-based, not merely a police and
   intelligence doctrine." Discuss.
 
-## 12. Study links
+## 12. Core answer architecture — doctrine, local support and external actors
+
+> **Core firewall:** This section is sufficient for a directive-sensitive
+> 10/15/20-mark answer. The Advanced companion may deepen the analysis but
+> is not required for any routed paper demand.
+
+### Demand decoder and thesis
+
+- **Development–extremism:** do not say poverty automatically produces
+  violence. **Thesis:** exclusion, weak justice and administrative absence
+  become security risks only when an organised actor converts them into
+  recruitment, coercion or a parallel authority.
+- **External state/non-state actors:** identify **actor → means → objective
+  → intended end-state**. A state sponsor may use finance, sanctuary,
+  training, propaganda or proxies; the proxy's deniability is a means, not
+  proof that the sponsor and group have identical legal personalities.
+- **Area management/local perception:** distinguish protection of people
+  from control of territory. The test is whether lawful administration,
+  grievance redress and public trust can hold after an operation.
+
+### Executable Core spines
+
+**10 marks — development and extremism / area management (about 150
+words).** Define the exact threat; state the conditional thesis above;
+give two causal links (land/forest or service-delivery exclusion → local
+grievance; weak policing/justice → coercive parallel authority); then
+match measures to the chain: secure access, restore police/civil
+administration, deliver rights and services, and protect accountability.
+Close: reduced violence is a necessary security result, not by itself the
+end-state of legitimate governance.
+
+**15 marks — external state and non-state actors.** Open with the
+four-fold threat frame. Use three distinct mechanisms: (i) J&K's
+state-sponsored proxy logic (topic 05); (ii) cross-border sanctuary and
+ethnic connectivity in the North-East (topic 04); and (iii) cyber/
+information or financial networks (topics 08–10). For each, name the
+vulnerability and the competent response, then qualify attribution,
+federal competence and rights. Conclude that an integrated response
+reduces exploitable vulnerability without treating every dissenting
+citizen as a proxy.
+
+**20 marks — comparative/synthesis demand.** Compare LWE, North-East
+insurgency and proxy terrorism on actor, objective, territorial/social
+base, vulnerability, lawful capability and durable end-state. Use the
+eight-element doctrine as a diagnostic grid, not eight decorative
+headings; give a reasoned verdict on which elements must lead in each
+case.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Internal security is broader than force deployment. | Singh's eight-element doctrine; State List Entries 1–2 and Union List Entry 2A. | Security, governance and federal coordination are jointly load-bearing. | An Entry 2A deployment is **in aid of civil power**, not a replacement for State policing. |
+| Development becomes a security variable where coercion blocks lawful administration. | LWE's land/forest-governance chain and obstruction of development work (topic 03). | Roads or welfare matter only when access, rights and administration can be sustained. | A scheme launch/output is not evidence of reduced violence or resolved grievance. |
+| Identity demands and secessionist/proxy threats need different calibrations. | Sixth Schedule/statehood accommodation in the North-East (topic 04) versus J&K proxy-war architecture (topic 05). | Political accommodation and security action can be complementary, not interchangeable. | Do not homogenise the North-East or infer a current group status from book-period material. |
+| Intelligence is not a prosecution substitute. | MAC/SMAC information-sharing and the intelligence → investigation → prosecution chain (topic 12). | Prevention and admissible proof require different institutions. | A lead, arrest or designation is not a conviction. |
+
+### Direct PYQ routes now owned in Core
+
+| Demand family | Core route |
+|---|---|
+| 2020 GS-III area management, militant support and local perception | Secure people and access → civil administration/justice → rights-respecting service delivery → accountable community engagement; assess whether the area can be held, not merely cleared. |
+| 2021 GS-III external state/non-state actors | Use actor–means–objective–end-state, then the three-mechanism 15-mark spine above. |
+| 2025 Essay quote on subduing without fighting | This is an **Essay linkage, not an Internal-Security PYQ**. Use a continuous argument on legitimate non-kinetic prevention, political settlement and resilience; do not turn the quote into a list of security agencies. |
+
+### Routed Prelims safety notes
+
+- **BNSS, 2023 section 173:** information about a cognisable offence may
+  be given to an officer in charge **irrespective of the area** in which
+  the offence occurred. A Zero FIR is a registration/access device; the
+  competent station investigates after transfer. It does not make
+  electronic reporting obligatory in every case, and a preliminary inquiry
+  has its own statutory threshold.
+- **Official Secrets Act, 1923:** distinguish the Act's prohibited-place,
+  spying and wrongful-communication framework (not every government
+  document) from the RTI Act's separate disclosure regime. It remains in
+  force; it was not repealed by an ARC recommendation.
+- **Arms Act, 1959:** distinguish acquisition/possession/carrying
+  (licensing under section 3) from manufacture/sale/transfer and related
+  dealing (section 5). A licensed arm, a prohibited arm and an
+  intelligence/security offence are not interchangeable propositions.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/01_Internal-Security-Foundations-and-Governance.md`.
@@ -287,19 +369,23 @@ explicitly converts a list of schemes into an argument.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2020, 2021, 2023
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 3
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2020 | GS-III | 10 | Area management to deny militant support and improve local perception | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-III | 19 | External state and non-state actors multidimensional internal security threats | Analyse · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 92 | Official Secrets Act Arms Act legal actions and coverage | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- Area management to deny militant support and improve local perception
+- External state and non-state actors multidimensional internal security threats
 - Official Secrets Act Arms Act legal actions and coverage
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

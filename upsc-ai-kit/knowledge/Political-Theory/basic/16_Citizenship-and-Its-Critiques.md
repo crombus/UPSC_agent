@@ -109,7 +109,111 @@ CRITIQUES -> feminist + subaltern -> ask who is still excluded, silenced or disa
 - ✅ Finish with the critiques: feminist critique shows under-representation; subaltern critique shows deeper structures of exclusion despite formal equality (PDF pp.334-337).
 - ⚠️ One-line conclusion: citizenship becomes real only when equal status in law is matched by equal capability to participate and claim rights.
 
-## 12. Sources, metadata and tags
+## 12. Named evidence units: significance and limits (extended thinkers)
+
+| Thinker/unit | Core claim to name in an answer | Significance for this debate | Limit to state alongside it |
+|---|---|---|---|
+| ✅ T.H. Marshall (triad) | Modern citizenship matures through civil, political and social rights (PDF pp.327-330). | ✅ Gives the standard vocabulary examiners expect first. | ❌ It is an English historical sequence, not a universal law of development — do not present it as automatic or linear. |
+| ⚠️ Anthony Giddens (accurate critique of Marshall) | Giddens argues each layer of Marshall's triad was won through political contestation and class/industrial conflict (trade-union and suffrage struggle), not bestowed by gradual evolutionary logic; he further argues that expanding citizenship rights ran alongside an expanding administrative-surveillance capacity of the modern state, so rights and closer state monitoring grew together. | ⚠️ Corrects a linear misreading of Marshall and forces attention to conflict as the actual engine of rights-expansion, plus a "dark side" (surveillance) inside citizenship's own growth. | ⚠️ This is a general sociological claim about the modern state, not a country-specific legal claim, and it does not deny the substantive value of civil/political/social rights themselves. |
+| ⚠️ Iris Marion Young (differentiated citizenship) | A single "universal citizenship" standard (identical treatment for all) implicitly measures everyone against an already-privileged group's norms, so formally equal treatment can still leave marginalized groups (women, racial/ethnic minorities, disabled persons, indigenous peoples) unable to participate on equal terms; genuine inclusion needs group-conscious mechanisms, not only identical formal rights. | ⚠️ Shifts the question from "is the content of rights complete" (Marshall) to "does formally equal citizenship itself reproduce group-based exclusion," and supplies the theoretical case for group-conscious correctives such as reserved representation. | ⚠️ Risks treating a group as internally uniform; does not by itself resolve inequality *within* a group (e.g., women inside a marginalized community) — later intersectional refinements address this gap. |
+| ⚠️ Will Kymlicka (group-differentiated rights) | Within a liberal framework, group-differentiated rights fall into three types: self-government rights (autonomy for national minorities/indigenous peoples), polyethnic rights (support/exemptions enabling immigrant-origin groups to sustain cultural practice without penalty), and special representation rights (guaranteed presence for persistently under-represented groups); such rights are justified as correcting disadvantages built into unavoidable majority-culture nation-building, provided they protect a group's own members rather than restrict them. | ⚠️ Gives an operational, liberal-compatible menu of differentiation devices, and an explicit test — external protection (permitted) versus internal restriction (not permitted) — for judging any specific group right. | ⚠️ The external-protection/internal-restriction line is easier to state than to apply where a minority's own practice curtails its members' basic freedoms. |
+
+## 13. Feminist, postcolonial and migration critiques (three distinct strands)
+
+- ⚠️ **Feminist strand (boundary-respecting):** the public/private divide inherited from classical citizenship theory keeps domestic and reproductive labour outside the political-economic sphere it recognizes, so formally equal citizenship can coexist with unequal starting positions between men and women (consistent with Gauba's own under-representation point, PDF pp.334-336). The full theory of patriarchy and the public/private divide belongs to `Political-Theory/basic/06_Feminism-Sex-and-Gender.md`; this file uses only the citizenship-specific implication.
+- ⚠️ **Postcolonial strand:** in post-colonial states, citizenship categories were substantially inherited from colonial administrative classifications, so a formally "universal" post-independence citizenship can still carry forward older hierarchies (e.g., between mainstream and indigenous/tribal populations) unless actively corrected; this is an analytical caution, not a claim about any specific country's current law.
+- ⚠️ **Migration strand:** cross-border movement produces categories a nationally-bounded citizenship theory does not easily absorb — **statelessness** (no state recognizes the person as its national) and **denizens** (T. Hammar's term for long-term foreign residents holding many social/civil rights without full political/citizenship rights). Two competing legal bases for assigning nationality at birth are **jus soli** (by birth on state territory) and **jus sanguinis** (by descent from a citizen parent); most states mix both rather than adopting either in pure form.
+- ⚠️ Boundary: these three strands are named here only as conceptual critiques of universal citizenship; statutory tests of who is a citizen, naturalization procedure and current migration-status law belong to Polity/Current-Affairs, not to this file.
+
+## 14. Citizenship vs nationality
+
+| | Citizenship | Nationality |
+|---|---|---|
+| ✅ Nature | Legal-political membership status of a state, carrying reciprocal rights and duties (PDF p.324). | ⚠️ Ethno-cultural-historical identification with a "nation," which may or may not possess its own state. |
+| ⚠️ Created/lost by | Law — grant, registration, naturalization, renunciation. | Shared history, language, culture, self-identification — not created or withdrawn by statute in the same way. |
+| ⚠️ Possible mismatch | A naturalized citizen may hold a state's citizenship without sharing its dominant nationality. | A "stateless nation" (a nation without a state of its own) or a diaspora can retain a national identity without matching citizenship of any one state. |
+| ⚠️ Exam caution | Ordinary international-legal usage often treats "nationality" as a loose synonym for state membership. | This file keeps the theoretical distinction because analytical answers on minorities, migrants and diaspora need to separate legal status from cultural/national identity. |
+
+## 15. Objection and reply chains
+
+- **Objection 1:** Group-differentiated citizenship undermines equal citizenship and national unity by creating group privileges.
+  **Reply:** ⚠️ Kymlicka's own justification is that such rights correct disadvantages created by an unavoidable majority-culture bias in ordinary state institutions and protect members' freedom of choice within their own culture; the aim is equal opportunity to participate, not a new hierarchy — subject always to the external-protection/internal-restriction test.
+- **Objection 2:** Emphasizing group difference risks essentializing a group's identity, assuming it is internally homogeneous and ignoring inequality within the group (e.g., women inside a marginalized community).
+  **Reply:** ⚠️ Young treats groups as social positions produced by relations of oppression, not fixed essences, and Kymlicka's internal-restriction limit is designed precisely to stop a group right from letting the group's own leadership dominate its members; intersectional refinements sharpen this further.
+- **Objection 3:** Formal legal equality already achieved (universal suffrage, non-discrimination law) means the citizenship debate is settled.
+  **Reply:** ✅ Gauba's own feminist/subaltern material shows persistent under-representation and structural exclusion despite formal equality (PDF pp.334-337); ⚠️ Young and the postcolonial/migration strands generalize this into a standing objection against treating formal universality as sufficient.
+
+## 16. Indian illustrative application (cautious, non-Polity)
+
+- ⚠️ India's single-citizenship constitutional design is named here only as an illustration of one institutional choice among the options this file discusses; article-level detail belongs to `Polity/advanced/06_Citizenship.md`.
+- ✅ Reservation for women in panchayats (already noted, PDF p.336) functions analytically like Kymlicka's "special representation rights" — a group-conscious corrective operating inside a formally universal citizenship framework.
+- ⚠️ Contested debates over documentation-based citizenship processes illustrate, at a conceptual level only, the citizenship-vs-nationality tension (which community is presumed to be the "nation" whose members are treated as citizens by default); this file does not assert or evaluate any specific current legal position — that belongs to Polity/Current-Affairs sources, verified independently.
+- ❌ Do not extend this file into constitutional Article detail, CAA/NRC current-affairs analysis, or Polity ownership. -> ✅ Its role is to show how the conceptual categories above (differentiated citizenship, group rights, citizenship-vs-nationality) can be applied cautiously to Indian examples without duplicating Polity's job.
+
+## 17. Directive decoder and qualified-thesis templates
+
+| Directive word | What the examiner expects | How to open this topic's answer |
+|---|---|---|
+| Examine | Break the concept into parts and weigh evidence for/against with named thinkers. | State Marshall's triad, then examine it against Giddens/Young/Kymlicka evidence in turn. |
+| Discuss | A rounded discussion moving from mainstream position to critique to a reasoned position. | Present Marshall -> present the critique cluster -> end with a qualified position (Section 18). |
+| Critically analyse/evaluate | State a thesis, run objection-reply on its key claims, end with a qualified judgement. | Use Section 15's objection-reply chains explicitly; never end on a flat yes/no. |
+| Elucidate | Explain with illustration; lighter critique load is acceptable. | Define, illustrate with one Indian example (Section 16), light critique only. |
+| Distinguish | Use a direct comparison structure. | Use the citizenship-vs-nationality table (Section 14) or formal-vs-differentiated table (Section 8). |
+
+- ⚠️ **10-mark qualified-thesis template:** "Citizenship is best read as [reciprocal legal-political membership, Marshall's triad], but its purely universal/undifferentiated form is incomplete because [named critique — Young or Kymlicka], though [named qualification/limit]."
+- ⚠️ **15-mark qualified-thesis template:** as above, plus a second named critique (choose from Giddens/feminist/postcolonial/migration) and one explicit objection-reply pair before the conclusion.
+- ⚠️ **20-mark qualified-thesis template:** as above, plus a third named thinker, one cautious Indian illustration (Section 16), and a closing synthesis line echoing Section 18's conclusion.
+
+## 18. Argument architecture: premises -> mechanism -> conclusion
+
+**Central debate used as the model:** should citizenship remain strictly universal/undifferentiated, or recognize group-differentiated rights?
+
+- **P1:** ✅ Citizenship aims at full and equal membership/participation for every member of the political community (Gauba's own definition, PDF p.324).
+- **P2:** ⚠️ Formally identical rules can still leave structurally disadvantaged groups unable to participate on equal terms (Young's oppression analysis; feminist/postcolonial/migration strands, Sections 12-13).
+- **P3:** ⚠️ Liberal theory can accommodate limited group-differentiated remedies without abandoning individual rights, provided the remedy protects rather than restricts group members (Kymlicka's external-protection/internal-restriction test, Section 12).
+- **Mechanism:** ⚠️ P1 + P2 show a purely undifferentiated regime under-delivers on citizenship's own equal-participation aim; P3 shows liberal equality does not itself demand total assimilation — so a narrowly justified, member-protecting differentiation implements citizenship's own promise more consistently than either pure uniformity or unrestricted group autonomy.
+- **Conclusion (qualified):** ⚠️ Citizenship should combine a universal core of civil-political-social rights (Marshall) with narrowly justified, member-protecting group-differentiated correctives (Young/Kymlicka), each tested against whether it expands real participation or instead entrenches a new hierarchy (Giddens' conflict/surveillance caution and the internal-restriction limit).
+
+## 19. Executable answer architecture (10/15/20-mark blueprints)
+
+> ⚠️ Word/mark convention follows the standard PSIR-optional pattern (10 marks/~150 words, 15 marks/~200 words, 20 marks/~250 words); this convention is stated here as an analytical scaffold, not as a book-sourced fact.
+
+- **10-mark/~150 words:** Define citizenship (two-way status) -> state Marshall's triad in one line -> bring in one named critique with its named limit (Young or Kymlicka) -> one-line qualified conclusion.
+- **15-mark/~200 words:** Define -> Marshall's triad -> two named critiques (mix of Giddens/Young/Kymlicka/feminist-postcolonial-migration) -> one full objection-reply pair (Section 15) -> qualified conclusion.
+- **20-mark/~250 words:** Define -> full triad -> three named critiques -> at least one complete objection-reply chain -> one cautious Indian illustration (Section 16) -> qualified synthesis conclusion mirroring Section 18's premises-mechanism-conclusion structure.
+
+### Quotation/proposition micro-method (five moves, for quotation- and statement-based stems)
+
+> ⚠️ Local implementation of `Political-Theory/00_Master-Framework.md` §5D, tuned to this file's
+> citizenship vocabulary. Run it before writing whenever the stem is an attributed line or a bald
+> proposition ("citizenship is the right to have rights"; "social rights complete citizenship")
+> rather than a question.
+
+| # | Move | What to do here |
+|---|---|---|
+| 1 | **Identify the proposition and the concept** | Restate the line as one testable claim, then name which citizenship axis it invokes — status vs practice, formal vs substantive, universal vs differentiated, citizenship vs nationality (Sections 5, 8, 14) — and which rival it is set against. |
+| 2 | **Reconstruct the strongest argument for it** | Build the best version using premises → mechanism → conclusion (Section 18). For a Marshall-type line: P1 equal membership requires effective, not merely formal, standing; P2 civil, political and social rights each remove a different barrier to that standing; C social rights are constitutive of citizenship, not charity added to it. |
+| 3 | **Test the counterargument and the conditions** | Run the file's own critique cluster as the standing counter-set — Giddens on struggle and non-linear development, Young on structural oppression, Kymlicka's external-protection/internal-restriction test, the feminist/postcolonial/migration strands (Sections 12-13) — then apply the necessary-vs-sufficient check: is formal legal equality sufficient for citizenship, or only necessary? State the conditions under which the proposition would hold. |
+| 4 | **Apply named evidence** | Attach at least one named unit from Sections 12-13 (Marshall's triad; Giddens's critique; Young's differentiated citizenship; Kymlicka's group-differentiated rights with its internal limit; statelessness/denizenship vocabulary from Section 14), plus, at most, one cautious Indian illustration from Section 16. |
+| 5 | **Give a graded verdict** | Land on "holds / holds only under stated conditions / fails as stated", mirroring Section 18's qualified conclusion (universal core plus narrowly justified, member-protecting differentiation). Never end on a flat yes/no. |
+
+- ❌ **Never treat an unverified quotation as verbatim.** No sentence in this file is a direct
+  quotation from Marshall, Giddens, Young, Kymlicka, Arendt or Gauba; every reconstruction is
+  paraphrase. Do **not** invent a book, edition, year or page to authenticate an unfamiliar line
+  supplied by a stem.
+- ⚠️ **Three safe registers:** attribution and wording both verified → name the work and quote
+  exactly; attribution reliable but wording not → "the position associated with X is that …" (no
+  quotation marks); attribution itself uncertain → "the line is popularly attributed to X; its
+  provenance is not independently verified here — taken on its own terms it claims …", then argue
+  the doctrine. Safe technical nomenclature that may be used as quoted vocabulary because it is
+  standard terminology rather than a disputed quotation: "civil, political and social rights",
+  "differentiated citizenship", "external protections", "internal restrictions", "jus soli", "jus
+  sanguinis", "denizen".
+- ⚠️ **Architecture link:** at 10 marks run moves 1 → 2 → 5 with one named critique; at 15 marks add
+  move 3 as a full objection-reply pair (Section 15); at 20 marks run all five moves with three
+  named critiques and one cautious Indian illustration before the graded verdict.
+
+## 20. Sources, metadata and tags
 
 - ✅ Primary source used: Gauba, Ch.14 "Concept of Citizenship" (PDF pp.324-337).
 - ✅ Key anchors used: reciprocal status and subject/citizen distinction (PDF pp.324-325); historical development and rights turn (PDF pp.325-327); Marshall's triad and welfare-state logic (PDF pp.327-330); major theories (PDF pp.329-334); feminist and subaltern critiques (PDF pp.334-337).

@@ -82,3 +82,38 @@
 - ⚠️ "The decline of the Mughal Empire was rooted in structural crises, not merely weak rulers." Critically examine.
 - ⚠️ Discuss the **jagirdari crisis** as an explanation for 18th-century Mughal disintegration.
 - ⚠️ How did imperial contraction reshape regional power without making later British paramountcy inevitable?
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Critically examine decline | "Mughal decline was a convergence of structural crises — jagirdari malfunction, Deccan military exhaustion, noble factionalism, rural resistance and frontier exposure — not reducible to any single ruler's personality or religious policy." |
+| Discuss jagirdari crisis | "Satish Chandra's jagirdari-crisis thesis argues that fixed or shrinking productive lands could not sustain a swelling nobility, producing be-jagiri, predatory extraction and political fragmentation — the empire's fiscal skeleton collapsed before its political shell." |
+| Assess regional reordering | "The eighteenth century was political reorganisation, not civilisational collapse: Bengal, Awadh, Hyderabad, Marathas and Sikhs built functioning states with continuing trade and cultural patronage — British supremacy was contingent, not foreordained." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Deccan wars (1687–1707): 20-year campaign drained treasury, tied down army, swelled nobility with Deccani/Maratha entrants | Military exhaustion + fiscal drain = immediate cause of structural crisis | Connects a specific campaign to the abstract "decline" | Deccan was not the only cause; internal north Indian problems pre-existed |
+| 2 | ✅ Jagirdari crisis: jama-hasil gap, be-jagiri, frequent transfers, new entrants | Fiscal-service system broke down structurally | Core of Satish Chandra's explanatory framework | Other historians emphasise agrarian/social factors alongside the fiscal mechanism |
+| 3 | ✅ Sayyid Brothers (1713–20): king-makers who deposed Farrukhsiyar (1719) | Central authority had collapsed into noble faction-capture | Illustrates how weak rulers were symptoms, not causes, of decline | Sayyid period also saw jizyah abolition and Maratha bargaining — not purely negative |
+| 4 | ✅ Nadir Shah (1739): sacked Delhi, took Peacock Throne and Koh-i-Noor | External shock exploited pre-existing internal weakness | Proves that imperial defence had failed; but does not explain why | Nadir Shah did not annex; his raid was an event, not a structural cause |
+| 5 | ✅ Successor states: Bengal (Murshid Quli Khan), Awadh (Saadat Khan), Hyderabad (Nizam-ul-Mulk) | Regional state-formation continued political and economic functions | Reframes "decline" as devolution, not anarchy | These states remained nominally Mughal; formal break came much later |
+| 6 | ✅ Panipat III (1761): Marathas vs Abdali; Peshwa's north Indian bid checked | No single successor could replace the Mughals | Demonstrates that the "successor" question remained unresolved until British intervention | Panipat III did not end Maratha power in the Deccan; it was a north Indian setback |
+
+### 8.3 Counterpoints
+
+- ⚠️ "Decline" is teleological: 18th-c. India had vigorous internal trade, regional cultural patronage and state-building. "Decline" applies to the centre, not to India.
+- ⚠️ Aurangzeb's role is debated: Jadunath Sarkar's "bigotry" thesis vs Satish Chandra's structural approach — neither is universally accepted.
+- ⚠️ British supremacy required specific military-fiscal innovations (subsidiary alliances, revenue management); it was not an automatic consequence of Mughal collapse.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Jagirdari crisis + Deccan wars (2–3 units); conclude: structural, not personal.
+- **15-mark:** Add Sayyid Brothers + successor states + Nadir Shah; conclude: centre collapsed, regions reorganised.
+- **20-mark:** Full 6-unit + historiographical debate (Sarkar vs Chandra vs Alam/Subrahmanyam) + non-inevitability of British rule; graded verdict.

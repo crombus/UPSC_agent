@@ -198,6 +198,6 @@ ADVANCED DEBATES
 ## 13. Sources, metadata and tags
 
 - ✅ Primary source used: Gauba, Ch.22 "Concept of Democracy" (PDF pp.491-512).
-- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Major source clusters used: classical accounts and criticisms (PDF pp.491-494); liberal democracy's principles and mechanism (PDF pp.495-500); representation theories and electoral systems (PDF pp.500-509); conditions of democratic success and democracy as a way of life (PDF pp.509-512).
 - ⚠️ All institutional examples are handled as historical or book-period unless independently dated otherwise.

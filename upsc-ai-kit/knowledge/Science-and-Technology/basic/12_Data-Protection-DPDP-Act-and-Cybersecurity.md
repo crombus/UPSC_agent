@@ -172,6 +172,27 @@ The DPDP Act, 2023 was enacted in August 2023 but was brought into force **in tr
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — digital-state architecture and data-rich governance context.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — AI governance, algorithmic use of data and privacy debates.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — cybersecurity implications of emerging quantum technologies.
+## Core answer architecture — privacy, cybersecurity and phased law
+
+**Thesis choice.** Privacy/data protection and cybersecurity overlap in a breach but remain separate legal and operational questions; legal status must be written as enacted, notified, commenced, ruled and enforced—not collapsed.
+
+**10-mark spine.** State the DPDP context and status; map Data Principal–Fiduciary–Board; distinguish the CERT-In/NCIIPC incident path; give one rights/safeguard and one implementation limitation.
+
+**15/20-mark spine.** Organise **constitutional/policy context → processing chain and rights/duties → institution and cross-border/exemption design → cyber-resilience interface → commencement, capacity and accountability critique**.
+
+**Evidence units.**
+- **Claim:** DPDP is a digital-personal-data processing law → **Data Principal rights, Data Fiduciary duties, consent/certain legitimate uses and Board architecture** → provides a governance frame for collection, use and redress → **qualification:** it is not a cyber-warfare or system-security law and does not cover all non-personal/offline data.
+- **Claim:** legal notification is not immediate full enforcement → **the 13 November 2025 notification commenced provisions in tranches and deferred substantive notice/consent/rights duties** → demonstrates factual discipline in a current-affairs answer → **qualification:** a legally established Board without staffed, functioning adjudication is not an enforcement outcome.
+- **Claim:** cyber resilience needs a distinct response chain → **CERT-In under IT Act s.70B, NCIIPC for declared CII, and I4C for cybercrime coordination** → incident reporting, hardening and recovery have different actors from privacy adjudication → **qualification:** encryption/security controls can create lawful-access and rights trade-offs; broad surveillance is not a substitute for targeted, accountable response.
+
+**Verdict.** Strong digital governance pairs proportional privacy protections with resilient systems and clear institutional responsibility, while respecting phased implementation and judicial safeguards.
+
+## Routed PYQ evidence — cryptography, GDPR and Web3 boundaries
+
+- **Digital signature/PKI:** a private-key signature verified with the corresponding public key supports origin and integrity within a certificate/trust framework. It is not encryption of the whole message for confidentiality, and a scanned signature is not a digital signature.
+- **GDPR comparison:** use GDPR only as a comparator, not as India’s law. DPDP has its own scope, consent/legitimate-use design, Board, exemptions and phased commencement; do not say India has “implemented GDPR.”
+- **Web3:** decentralisation, blockchain and user-control claims are design aspirations/possible features, not automatic privacy, ownership or security outcomes. The database/blockchain mechanisms belong in Core Topic 25; DPDP governs digital-personal-data processing when its relevant provisions commence.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

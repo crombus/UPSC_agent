@@ -83,6 +83,41 @@
 - ⚠️ Analyse the relationship between second urbanisation, heterodox religions and territorial states.
 - ⚠️ Compare Magadha with other mahajanapadas to show why location and resource control matter in state formation.
 
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The rise of the Mahajanapadas reflects the second urbanisation of north India, where surplus, warfare and territorial consolidation combined." |
+| Critically examine | "Magadha's supremacy was not accidental; it rested on geography, resources and state-building capacity, though rival states remained significant." |
+| Compare / evaluate | "Monarchical Mahajanapadas and gana-sanghas coexisted, showing that early state formation was politically diverse rather than uniformly royal." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** agrarian surplus -> urban nodes -> taxation/war -> Magadhan expansion
+- **For comparison Qs:** Magadha vs Kosala/Avanti/Vajji across resources, polity and strategy
+- **For evaluate Qs:** structural advantages -> role of rulers -> qualified conclusion on inevitability
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | State growth rested on a stronger material base | ✅ Iron, rice plains, NBPW and growing towns | Explains why larger polities became viable | These factors were not equally developed everywhere |
+| 2 | Magadha enjoyed a strategic advantage | ✅ Iron ores, elephants, river routes and defensible centres | Gives a concrete causal chain for its rise | Resources alone do not create political success |
+| 3 | Political diversity marked the age | ✅ Monarchies alongside Vajji/Malla-type gana-sanghas | Prevents a monarchy-only story | Republics were oligarchic, not modern democracies |
+| 4 | The Magadhan line prepared imperial unification | ✅ Bimbisara, Ajatashatru and Nanda expansion | Links this topic to Mauryan emergence | Sources favour successful states retrospectively |
+
+### Counterpoint and balance
+
+- Avoid writing Magadha's rise as fully predetermined by geography.
+- Avoid using republic without clarifying its oligarchic social base.
+
+### Verdict framing
+
+- Conclude that Magadha's rise came from structural advantages used effectively by expanding rulers.
+- A high-scoring conclusion combines resource geography with political agency.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

@@ -194,6 +194,14 @@ independent assessment
 
 `convergence is issue-specific -> divergence does not erase partnership -> autonomy requires domestic capability and diversification`
 
+### Russia-Ukraine stress test
+
+`sovereignty/dialogue principles + UN voting posture + humanitarian assistance + energy/fertiliser security + defence-spares exposure + Western technology ties -> calibrated autonomy under pressure`
+
+> **Trap:** India's continued Russia engagement does not by itself establish
+> neutrality, alliance or endorsement. Analyse the separate interest channels and
+> their costs.
+
 ---
 
 ## 7. Resilient supply chains and technology geopolitics
@@ -228,6 +236,15 @@ independent assessment
 ---
 
 ## 8. Indo-Pacific and Indian Ocean
+
+### India's institutional layer
+
+| Instrument | Distinctive role | Status caution |
+|---|---|---|
+| IPOI | Seven-pillar, partner-led practical cooperation announced at the EAS on 4 November 2019 | Voluntary initiative, not treaty or alliance |
+| EAS / ARF | ASEAN-centred leaders' and security-dialogue architecture | Dialogue and consensus, not enforcement |
+| AOIP | ASEAN's inclusive Indo-Pacific framework, complementary to IPOI | Political framework, not collective defence |
+| Malabar | Naval interoperability among India, US, Japan and Australia | Exercise, not defence obligation |
 
 ### Spatial logic
 
@@ -392,11 +409,30 @@ maritime security and regional order
 - representation in international institutions;
 - conflict spillovers and development disruption.
 
+### India-initiated institution test
+
+| Platform | Answer use | Limitation |
+|---|---|---|
+| International Solar Alliance | Treaty-based solar-cooperation institution headquartered in India; Framework Agreement in force 6 December 2017 | Convening/finance facilitation does not prove project delivery |
+| CDRI | Resilient-infrastructure knowledge and capacity coalition headquartered in New Delhi | Membership count is not an outcome count |
+| Global Biofuels Alliance | Standards, markets and cooperation around sustainable biofuels | Participation does not create binding targets |
+
 ### India's leadership test
 
 `listen/convene -> aggregate diverse concerns -> place them on global agenda -> offer practical public goods -> deliver without paternalism`
 
 > **Trap:** The Global South is internally diverse. India may represent or amplify shared concerns, but cannot presume uniform positions.
+
+### Latin America and Caribbean route
+
+| Route | Answer use | Status caution |
+|---|---|---|
+| Brazil | BRICS, IBSA, G20 and bilateral partnership | Regional leadership does not equal representation of all Latin America. |
+| MERCOSUR | Preferential trade route | India-MERCOSUR PTA has operated since 1 June 2009; do not call it an FTA. |
+| Chile | Trade, critical minerals and Pacific linkage | CEPA negotiations are not a concluded or in-force agreement. |
+| CELAC | Region-wide diplomatic dialogue | Dialogue is not treaty membership or an implementation guarantee. |
+
+`market/resource diversification + pharma/technology + Global South coalitions - distance/logistics - limited institutional density - external-power competition`
 
 ---
 
@@ -459,12 +495,15 @@ maritime security and regional order
 | G20 | Major-economy coordination | Informal, consensus-dependent and non-binding |
 | Quad | Indo-Pacific practical cooperation | No treaty obligations; differing threat perceptions |
 | I2U2 | Project-oriented West Asian minilateral | Delivery and regional volatility |
+| NATO | Euro-Atlantic treaty alliance and collective defence | India is not a member or treaty ally; effects are indirect through European security and Russia-West rivalry |
 
 ### Grouping evaluation
 
 `membership/status + mandate + decision rule + institutional structure + Indian interest + delivered outcome + internal contradiction`
 
 > **Trap:** Membership in overlapping groupings is not inconsistency; it can be an instrument of multi-alignment when each platform serves a distinct purpose.
+> **Comparator trap:** NATO has a treaty-based collective-defence commitment;
+> Quad is a non-treaty minilateral and is not an "Asian NATO."
 
 ---
 
@@ -489,6 +528,7 @@ FOREIGN POLICY / CONFLICT / REGULATION
 | Conflict/chokepoint disruption | Energy, freight, insurance and supply shock |
 | Immigration policy | Students, professionals, remittances and mobility |
 | Data/technology regulation | Market access, standards and sovereignty concerns |
+| Climate commitments and carbon measures | Climate-finance/technology bargaining, transition costs and trade exposure |
 
 ### Trade-agreement test
 
@@ -532,6 +572,10 @@ FOREIGN POLICY / CONFLICT / REGULATION
 | ICJ | Disputes between states and advisory opinions | Not criminal court |
 | ICC | Individual criminal responsibility under its statute | Separate from UN principal organs |
 | IAEA | Nuclear safeguards, safety/security and peaceful-use cooperation | Not nuclear disarmament court |
+| UNFCCC | Framework for international climate negotiations | Equity, finance and differentiated responsibility remain contested |
+| ITU | UN specialised agency for ICT and spectrum/standards cooperation | Not a global internet government |
+| GPAI | Multistakeholder responsible-AI partnership | Not a treaty body or universal regulator |
+| Global Digital Compact | Non-binding political framework adopted with the Pact for the Future | Political commitment, not international legislation |
 
 ### Global-governance reform logic
 
@@ -545,6 +589,15 @@ FOREIGN POLICY / CONFLICT / REGULATION
 | Contribution | Peacekeeping, economy, population and global public goods |
 | Effectiveness | Broader legitimacy can improve compliance |
 | Responsibility | Reform claim must include willingness to shoulder obligations |
+
+### Bretton Woods reform evidence
+
+| Evidence | Significance | Limitation |
+|---|---|---|
+| IMF 16th quota review: 50% equiproportional increase | Strengthens quota resources | Relative voting shares unchanged |
+| India: about 2.75% IMF quota and 2.63% vote | Named basis for voice-reform claim | Reform requires collective agreement |
+| IDA21: USD 100 billion for FY2025-28 | Larger development-finance capacity | Financing scale is not shareholding reform |
+| AIIB / NDB | Complementary emerging-economy finance | Supplement, not replacement, and have own governance constraints |
 
 > **Trap:** UNGA recommendations and UNSC binding decisions have different legal effects; ICJ and ICC have different subjects and jurisdiction.
 
@@ -708,4 +761,3 @@ Use Advanced only after Core is secure:
 | 10 | [Regional, Global and Minilateral Groupings](basic/10_Regional-Global-and-Minilateral-Groupings.md) | [Advanced](advanced/10_Regional-Global-and-Minilateral-Groupings.md) |
 | 11 | [Globalisation, Trade Agreements and External-Policy Effects](basic/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md) | [Advanced](advanced/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md) |
 | 12 | [UN and International Institutions: Global Governance](basic/12_UN-and-International-Institutions-Global-Governance.md) | [Advanced](advanced/12_UN-and-International-Institutions-Global-Governance.md) |
-

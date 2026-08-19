@@ -120,8 +120,8 @@ freedom to decide the next issue independently? — remains constant.
 - ⚠️ **Gulf energy dependence as a boundary case:** ✅ Sikri notes a Gulf diaspora
   of "5 million" gives India "vital interests in, and considerable influence
   over, this energy-rich region" — energy dependence is simultaneously a source
-  of vulnerability (📰 PPAC records 89.1% crude-oil import dependence in
-  FY2024-25 and FY2025-26 provisional) and of diplomatic leverage through
+  of vulnerability (📰 PPAC records 88.2% crude-oil import dependence in
+  FY2024-25 and about 88.7% provisional in FY2025-26) and of diplomatic leverage through
   diaspora and investment ties (topic 06).
 - ⚠️ **Central Asia as a constrained-autonomy case:** ✅ Sikri highlights that
   "any energy pipeline from Eurasia to India that does not cross Afghanistan/

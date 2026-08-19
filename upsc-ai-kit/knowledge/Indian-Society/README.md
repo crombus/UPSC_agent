@@ -14,10 +14,19 @@
 
 ---
 
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
+
 ## How this folder works
 
-- **Two tiers per topic:** `basic/NN` builds concepts, mechanisms and direct PYQ use;
-  `advanced/NN` adds causal chains, boundary cases, trade-offs and answer frameworks.
+- **Two tiers per topic:** `basic/NN` is independently answer-complete: concepts,
+  mechanisms, directive maps, thesis banks, mark-scaled structures, evidence units,
+  balance and conclusions sit in Core. `advanced/NN` is optional enrichment only—
+  deeper theory, boundary cases and trade-offs that must not be needed for a paper answer.
+- **PYQ routing correction:** older 2018-2023 ledger links may point to `advanced/`.
+  Where a Core file's `## 13. Answer architecture` states that Core routing supersedes
+  that pointer, use the Core route; the ledger remains authoritative for PYQ provenance.
 - **Revise by mechanism:** Before a test, use
   `REVISION-CHART_Structures-Change-and-Distinctive-Features.md` for precise
   definitions, social-change chains, comparisons, evidence rules and reusable Mains frames.
@@ -25,8 +34,7 @@
   📰 = dated current anchor. Dates belong with every dynamic statistic.
 - **Evidence discipline:** distinguish a Census stock from an NFHS/PLFS survey estimate and
   from administrative data. A correlation, a PYQ premise, or a programme announcement is not
-  by itself proof of causation or implementation outcome. NFHS-5 (2019-21) is the latest
-  released national NFHS round used here; do not cite an unissued NFHS-6 result.
+  by itself proof of causation or implementation outcome. NFHS-6 (2023-24) is the latest released provisional national fact-sheet round; retain NFHS-5 only as a dated comparator and cite each metric to its stated round.
 - **Scope discipline:** This is a sociological module: social structure, social change,
   exclusion and cohesion. It does not duplicate legal doctrine, schemes or macro models.
 

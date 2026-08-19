@@ -151,8 +151,9 @@ correctives.
 
 - 📰 **Status checked 21 July 2026:** phased commencement runs through 13 May 2027;
   DPBI recruitment was ongoing and no official member-appointment order or ruling was
-  located. The DPDP amendment replacing RTI section 8(1)(j) is a future-commencement rule,
-  not the current RTI exemption text.
+  located. ⚠️ **Supersession correction, 13 August 2026:** DPDP **s.44(3)** substituted RTI
+  s.8(1)(j) in the immediate tranche from 13/14 November 2025. DPDP **s.44(2)**, deferred
+  to 13 May 2027, amends the Information Technology Act, 2000.
 
 ## 10. PYQ-based analytical application
 

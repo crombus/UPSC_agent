@@ -282,7 +282,7 @@ Current law may enable State-level or urban authorities/forces, but existence re
 
 `extreme rain/release + floodplain occupation + drainage/river constriction + vulnerable housing -> inundation and service failure`
 
-### Measures
+### Flood-resilience measures
 
 `basin forecasting + floodplain zoning + wetland restoration + drainage audits + reservoir coordination + permeable surfaces + resilient utilities`
 
@@ -305,7 +305,7 @@ Current law may enable State-level or urban authorities/forces, but existence re
 
 `high temperature + humidity/night-time heat + urban heat island + outdoor work + weak housing/health -> illness and mortality`
 
-### Measures
+### Heat and drought measures
 
 `seasonal forecast + Heat Action Plan + water/cooling access + work-hour changes + cool roofs/trees + health surveillance`
 
@@ -325,7 +325,7 @@ Current law may enable State-level or urban authorities/forces, but existence re
 
 `young geology + steep slopes + extreme precipitation + seismicity + road/construction alteration + weak drainage -> cascading risk`
 
-### Measures
+### Himalayan mass-movement measures
 
 `hazard zonation + slope drainage/stabilisation + construction regulation + lake monitoring + downstream warning + evacuation planning`
 
@@ -639,3 +639,33 @@ Use Advanced only after Core is secure:
 | 17 | [Humanitarian Logistics, Relief, Rehabilitation and Recovery](basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md) | [Advanced](advanced/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md) |
 | 18 | [Governance, Capacity and International Cooperation](basic/18_Governance-Capacity-and-International-Cooperation.md) | [Advanced](advanced/18_Governance-Capacity-and-International-Cooperation.md) |
 
+## 29. Core-only answer-worthiness gate — 15 August 2026
+
+### The 20-second paragraph test
+
+`claim -> named evidence/example -> mechanism/significance -> limitation/status -> verdict`
+
+If a paragraph only lists a scheme, technology or case, rebuild it with
+the missing mechanism and qualifier. **Core** contains this architecture
+for all 18 topics; Advanced is optional refinement.
+
+| If the question asks… | Write this Core spine | Evidence and caution |
+|---|---|---|
+| Resilience/Sendai | risk determination → framework elements → A–G targets → outcome verdict | Target E had 2020 deadline; Sendai is voluntary; plan/target ≠ achievement. |
+| Urban flood | city-specific causes → two feature-rich cases → NDMA/CWC–IMD/ULB/UFRMP → equity/maintenance verdict | Urban flood ≠ river flood in a city; climate signal ≠ event attribution. |
+| Earthquake | non-predictability → code/retrofit/compliance → lifelines/drills | Hazard zone/code exists ≠ compliant building. |
+| Warning technology | risk knowledge → detection → authorised dissemination → comprehension/action → feedback | SACHET/CBS reach ≠ receipt/action/outcome. |
+| Finance/recovery | relief vs mitigation vs transfer → project/status → BBB | MHA's 15-Aug-2026 response-fund page lists 14 disasters including heatwave/lightning; sanction/payout ≠ resilience. |
+| Governance/cooperation | framework/institution → local capacity → finance/data/drills → accountable outcome | `may constitute` authority ≠ notified/operational authority; hosting/membership ≠ local resilience. |
+
+### Direct-question checks
+
+- **2024 Q17:** all six elements plus all seven Sendai targets, compactly.
+- **2024 Q18:** urban causes, **two named flood cases with features**,
+  policy/frameworks and a qualified implementation conclusion.
+- **2025 Prelims:** wet-bulb temperature is humidity-plus-temperature and
+  is not IMD's heat-wave declaration threshold.
+- **Historical Core routes:** Hyogo–Sendai/vulnerability (`01`),
+  proactive governance (`02`), earthquakes (`05`), cyclone colours
+  (`07`), flood/cloudburst/dam safety (`08`), landslides (`10`) and
+  COVID technology (`13`) are Core, not Advanced-only.

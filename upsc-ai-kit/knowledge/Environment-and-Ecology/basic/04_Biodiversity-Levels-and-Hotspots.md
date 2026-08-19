@@ -201,6 +201,26 @@ number in an answer. Similarly, distinguish the *legal category* (a Biological D
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Distinguish a **level of diversity** (genetic/species/ecosystem), a **scientific priority label** (hotspot) and a **legal mechanism** (Biological Diversity Act) before answering.
+- **Thesis:** hotspot triage can focus scarce resources, but durable biodiversity governance must protect genetic resources, habitat connectivity and community knowledge beyond hotspots.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| India’s diversity needs a three-level strategy. | **Crop landraces** → genetic adaptive reserve; **Western Ghats amphibian/plant endemism** → species/habitat concern; **wetland–forest–grassland mosaic** → ecosystem-level function. | Do not infer a precise national species total without a dated BSI/ZSI source. |
+| Hotspot is a prioritisation tool, not a legal category. | **Himalaya, Indo-Burma, Western Ghats–Sri Lanka and Sundaland/Nicobar** meet the international framework used for Indian hotspot mapping. | A non-hotspot can still be nationally vital; hotspot designation itself gives no statutory protection. |
+| Access and benefit sharing links conservation and justice. | **NBA–SBB–BMC architecture under the Biological Diversity Act** → translates CBD benefit-sharing into national and local decision layers. | An institution on paper is not proof that benefits reach communities; cite a dated implementation record for that claim. |
+
+### 13.3 Direct-demand and mark-scaled spines
+
+- **10 marks:** define the relevant diversity level; add one Indian example; explain the ecological/economic consequence.
+- **15/20 marks:** combine hotspot criteria, the NBA–SBB–BMC/ABS chain and the CBD 30x30 context; balance prioritisation against neglected non-hotspot ecosystems and implementation capacity.
+- **PYQ discipline:** the **IUCN Species Survival Commission’s Invasive Species Specialist Group** is an IUCN specialist-group fact, not an Indian statutory body; the **EU Nature Restoration Law** is an external comparator, not an Indian conservation law. Do not import its targets into an India answer.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

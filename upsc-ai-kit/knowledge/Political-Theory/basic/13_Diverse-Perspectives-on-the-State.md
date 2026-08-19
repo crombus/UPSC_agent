@@ -80,16 +80,17 @@ STATE THEORY QUESTION
 - ✅ **Hobbes, Locke, Rousseau:** all use contract, but Hobbes creates security through absolute sovereignty, Locke creates constitutional government and resistance rights, and Rousseau locates sovereignty in the people as a collective whole (PDF pp.227-236).
 - ✅ **Adam Smith, Bentham, James Mill, Spencer, Nozick:** they represent different forms of liberal-individualist or libertarian insistence on property, contract and limited government (PDF pp.237-244).
 - ✅ **J.S. Mill, T.H. Green, Hobhouse, Laski, Maclver:** they revise liberalism toward social welfare, moral freedom, service-state and democratic regulation (PDF pp.249-260).
-- ✅ **Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas:** they see the state through class domination, though neo-Marxists debate how far the state is relatively autonomous (PDF pp.261-267).
+- ✅ **Marx, Engels, Lenin, Gramsci, Miliband, Poulantzas:** they see the state through class domination, though neo-Marxists debate how far the state is relatively autonomous (PDF pp.261-267). Gramsci was the first neo-Marxist to concede relative autonomy of the state, distinguishing **political society** (which relies on force/direct domination through "juridical" government) from **civil society** (which relies on consent/"hegemony" through family, school and church) (PDF p.266).
+- ✅ **Miliband vs Poulantzas — the instrumentalist/structuralist debate, reconstructed:** Ralph Miliband, in *The State in Capitalist Society* (1969), defends the **instrumentalist theory**: the state is invariably an instrument of class power because (1) state officials share the class background of the capitalist class, (2) the capitalist class wields direct economic power over the state, and (3) politicians/bureaucrats have their own vested interest in preserving the existing economic system on which their position depends. Nicos Poulantzas, in *Political Power and Social Classes* (1973), replies with the **structuralist theory**: class domination is not automatically translated into state power; the capitalist state enjoys **relative autonomy** because it must secure legitimacy by invoking "the people" (not openly serving one class), and the capitalist class itself gains legitimacy by dissociating from direct state repression. For Poulantzas, this relative autonomy actually *helps* capitalism by improving state economic performance while still ultimately promoting capitalist interests — the state becomes "an arena of class struggle" rather than a simple instrument. ⚠️ Gauba's own text raises the natural rejoinder to Poulantzas: over-emphasising the state's autonomy from class power risks departing from Marxism's original tenets altogether (PDF p.266, extending to p.267). Use this **claim (Miliband) → objection (Poulantzas) → limit (Gauba's own caution)** structure directly in essay answers on the Marxist state.
 - ✅ **MacIntyre, Sandel, Walzer, Taylor:** they criticize the atomistic liberal self and recover community, embeddedness and differentiated spheres of justice (PDF pp.267-270).
 - ✅ **Gandhi:** he treats the state as coercive, upholds swaraj and trusteeship, and prefers moral self-rule to centralized power (PDF pp.273-277).
-- ✅ **Kate Millett and Zillah Eisenstein:** they show how power and patriarchy operate through both intimate relations and the public institutions of the state (PDF pp.277-278).
+- ✅ **Kate Millett and Zillah Eisenstein — distinguished, not merged:** both expose how state power is gendered, but from different entry points. **Millett**, in *Sexual Politics* (1971), redefines "politics" itself as "power-structured relationships" and pushes the analysis into the **personal/intimate sphere** — her literary case studies show that domination, not eroticism, is the real subject of sexual relations, grounding the slogan "the personal is political" (PDF p.277). **Eisenstein**, in *The Radical Future of Liberal Feminism* (1981), instead targets the **liberal state's claimed neutrality** — she argues the liberal state presents itself as fully autonomous and equally open to all, without examining women's actual share of power, and extends this into a **socialist-feminist** critique that capitalist welfare policy increases women's dependence on men, frees women's labour for market exploitation, and relies on women's unpaid domestic work (PDF pp.277-278). ⚠️ In an answer: use Millett for the *personal-is-political*/cultural-patriarchy dimension and Eisenstein for the *liberal-state-neutrality-critique*/political-economy dimension — do not present them as making the identical argument.
 - ✅ **Duguit, Laski, Maclver, Dahl and Lindblom:** they build pluralist arguments around multiple centres of power, associational life and polyarchy (PDF pp.278-279).
 
 ## 7. Illustrative examples
 
 - ✅ The Nazi and Fascist experiences are used by Gauba as historical warnings against treating state authority as absolute and beyond challenge (PDF p.224).
-- ✅ Locke's defence of the Glorious Revolution of 1688 is a historical example of limited government and a right to replace rulers who betray the trust (PDF p.232).
+- ✅ Locke's defence of the Glorious Revolution of 1688 is a historical example of limited government and a right to replace rulers who betray the trust (PDF p.232). ⚠️ **Dating/framing caution:** Locke's *Two Treatises of Government* was published in 1689 (title page dated 1690), and is popularly taught as a direct, after-the-fact justification of 1688. Peter Laslett's textual scholarship established that most of the work was actually **composed earlier, c.1679-1683**, during the Exclusion Crisis, likely to justify resistance to Charles II/James II's succession rather than to celebrate an event that had not yet occurred. The safer exam framing is: Locke's argument for trust, limited government and a right to resist a government that breaches that trust was **available before 1688** and was then **read publicly as the philosophical defence of the Revolution Settlement** once it was published — not that Locke sat down in 1689 to write an apologia for a completed revolution. Use "associated with," "came to justify," or "published shortly after and read as vindicating" rather than an unqualified "written to defend."
 - ✅ Gauba's account of nineteenth-century capitalism uses child labour, slum housing and harmful commodities as historical illustrations of why laissez-faire had to be revised (PDF pp.245-247).
 - ✅ Macaulay's 1835 educational minute and colonial infrastructure in India are cited as historical illustrations of how colonial institutions could modernize and dominate at the same time (PDF pp.271-272).
 - ⚠️ Gandhi's swaraj discussion here prepares the conceptual ground for the later civil-disobedience discussion in `Political-Theory/basic/14_Political-Obligation-Resistance-and-Law.md`.
@@ -118,6 +119,9 @@ STATE THEORY QUESTION
 - ❌ **"Pluralism proves the state is neutral."** -> ⚠️ Even Gauba's pluralist discussion admits unequal groups and privileged interests; neutrality remains contested (PDF p.279).
 - ❌ **"Gandhi was just another anarchist."** -> ✅ Gandhi shares suspicion of coercive authority, but grounds his position in ahimsa, religion, swaraj and satyagraha, not in the same premises as Bakunin or Kropotkin (PDF pp.274-277).
 - ❌ **"Feminism studies only representation in parliament."** -> ✅ Gauba's feminist section insists that domination extends into intimate relations and that the personal itself is political (PDF p.277).
+- ❌ **"Miliband and Poulantzas say the same thing about the capitalist state."** -> ✅ Miliband's instrumentalism (state = direct tool of capitalist class via personnel/economic power/vested interest) is explicitly rejected by Poulantzas's structuralism (relative autonomy of the state, legitimacy through "the people," state as arena of class struggle); Gauba himself flags the risk that Poulantzas's autonomy thesis can drift away from core Marxism (PDF p.266).
+- ❌ **"Locke wrote the Two Treatises after 1688 specifically to celebrate the Glorious Revolution."** -> ⚠️ Laslett's scholarship shows most of the text was composed c.1679-1683, before the Revolution; it was published in 1689 and then read as the Revolution's philosophical defence — composition predates the event popularly said to have inspired it.
+- ❌ **"Millett and Eisenstein make the identical feminist argument about the state."** -> ✅ Millett's entry point is the personal/intimate sphere and "power-structured relationships"; Eisenstein's is the liberal state's claimed neutrality and its socialist-feminist critique of capitalist welfare policy — distinct emphases within one broader feminist perspective (PDF pp.277-278).
 
 ## 10. Cross-links and boundaries
 
@@ -142,3 +146,90 @@ STATE THEORY QUESTION
 - ✅ Page clusters used: organic (PDF pp.221-225); contract and liberal strands (PDF pp.226-260); Marxist and communitarian (PDF pp.261-270); post-colonial and Gandhian (PDF pp.270-277); feminist and pluralist (PDF pp.277-279).
 - ⚠️ The required comparison matrix intentionally splits Gauba's broad liberal-individualist stream into contractarian, laissez-faire and welfare-liberal strands for exam clarity.
 - ⚠️ All historical examples are treated as book-period or historical, not as undated present-tense claims.
+- ⚠️ Miliband/Poulantzas material draws on Gauba's own reconstruction (PDF p.266); the Locke-dating
+  caution and the Millett/Eisenstein distinction are precision additions grounded in the same PDF
+  page ranges already cited, not new sources.
+
+---
+
+## 13. Directive decoder, argument reconstruction and mark-scaled answer architecture
+
+### A. Thesis statements
+- **"Diverse perspectives" essay question:** "The state admits no single true description: it is simultaneously an ethical community (organic), a rights-protecting or welfare-enabling artifice (liberal), a class instrument or arena of class struggle (Marxist), a gendered structure of power (feminist) and a coordinating body among associations (pluralist) — the six-test grid (origin, purpose, liberty, inequality, civil society, route to change) is what lets an answer compare them rigorously rather than merely list them."
+- **Marxist-state-specific question:** "Neo-Marxism's own internal debate — Miliband's instrumentalism against Poulantzas's structuralism — shows that even within one tradition, 'the state serves capital' can mean direct capture or merely functional service under relative autonomy."
+
+### B. Directive decoder
+| Directive | What it demands | Trap to avoid |
+|---|---|---|
+| **"Compare/Contrast the liberal and Marxist views of the state"** | Use the six-test grid explicitly: origin, purpose, liberty, inequality, civil society, route to change. | Do not compress "liberal" into one position — split contractarian/laissez-faire/welfare where relevant. |
+| **"Critically examine the Marxist theory of the state"** | Present classical Marx/Engels first, then the Miliband–Poulantzas debate as the internal critique/refinement, then Gauba's own caution about over-stretching autonomy. | Do not stop at Marx/Engels; neo-Marxist refinement is where most marks lie. |
+| **"Discuss the feminist critique of the state"** | Distinguish Millett (personal-is-political) from Eisenstein (liberal-state-neutrality/socialist-feminist), then state what each implies for policy. | Do not merge the two thinkers into one identical claim. |
+| **"Evaluate the post-colonial state"** | Cover colonial inheritance, nation-building burden, and Gauba's own caution that this file does not reproduce constitutional/statutory detail. | Do not substitute Indian constitutional-law detail for the conceptual post-colonial-state argument. |
+
+### C. Argument reconstruction (Marxist internal debate, worked example)
+- **Claim (Miliband):** the capitalist state is invariably an instrument of class power.
+- **Warrant:** state officials share a class background with capital; capital wields direct economic leverage; officials have a vested interest in the status quo.
+- **Objection (Poulantzas):** class domination is not automatically translated into state power; the state needs relative autonomy from any single class to secure legitimacy ("the people") and to manage the economy competently on capital's behalf.
+- **Reply/limit (Gauba's own caution):** if autonomy is stretched too far, the analysis risks abandoning Marxism's foundational claim that the state ultimately serves class interests — so Poulantzas's move must be bounded, not unlimited (PDF pp.266-267).
+
+### D. Five+ named evidence units
+1. Aristotle's polis argument — state exists for life, continues for the good life (organic/ethical cluster).
+2. Locke's *Two Treatises* (1689; composed c.1679-83) — trust-based limited government, used cautiously on dating.
+3. Macaulay's 1835 educational minute — colonial modernisation-and-domination illustration (post-colonial cluster).
+4. Miliband's *The State in Capitalist Society* (1969) — instrumentalist claim with three named mechanisms.
+5. Poulantzas's *Political Power and Social Classes* (1973) — structuralist reply, relative autonomy.
+6. Millett's *Sexual Politics* (1971) — personal-is-political, power-structured relationships.
+7. Eisenstein's *The Radical Future of Liberal Feminism* (1981) — liberal-state-neutrality critique, socialist-feminist extension.
+8. Solidarity (Poland) and Eastern European environmental groups — pluralist-associational pressure on authoritarian systems.
+
+### E. Claim → evidence → significance → limit (worked micro-example)
+- **Claim:** liberal "neutrality" of the state is a contested aspiration, not a settled description.
+- **Evidence:** Gauba's own welfare, Marxist, feminist and pluralist discussions all show bias, privilege or structural inequality persisting inside supposedly neutral liberal institutions (PDF pp.245-260, 261-279).
+- **Significance:** this licenses a genuinely critical answer instead of a textbook-neutral description of liberalism.
+- **Limit:** the critique does not show liberal constitutionalism is worthless — Locke's trust-based limited government and Green's positive-liberty revision remain real correctives against unchecked power; the critique bounds liberal neutrality, it does not erase liberal constitutionalism's value.
+
+### F. Mark-scaled architecture
+- **10-marker:** thesis → one perspective pair contrasted (e.g., liberal vs Marxist) via 2-3 of the six tests → one-line verdict.
+- **15-marker:** thesis → three perspectives via the full six-test grid → one internal-debate example (Miliband/Poulantzas or Millett/Eisenstein) → verdict.
+- **20-marker:** thesis → five-plus perspectives organised in the three clusters (ethical-natural / liberal-instrumental / critical-transformative) → the Marxist internal debate and the feminist internal distinction as depth markers → cautious Indian/post-colonial application → reasoned verdict on which lens best fits the question's actual demand.
+
+### G. Cautious Indian application
+- ⚠️ India's post-colonial state-building (Constituent Assembly's balancing of colonial administrative
+  inheritance with a new rights-based order) is a defensible general illustration of the post-colonial
+  perspective's "nation-building/state-building after empire" claim — but this file does **not**
+  reproduce Constituent Assembly debates, specific Articles or case law; keep any Indian reference
+  at the level of the conceptual claim (inherited institutions + new legitimating project), and route
+  detailed constitutional analysis to the Polity files.
+- ⚠️ Do not use the Gandhian perspective's swaraj argument to make unqualified claims about present-day
+  Indian federalism or panchayati raj without independent verification — the source here is
+  Gauba's conceptual reconstruction of Gandhi's thought, not a constitutional-law account of
+  decentralisation.
+
+### H. Quotation/proposition micro-method (five moves, for quotation- and statement-based stems)
+
+> ⚠️ Local implementation of `Political-Theory/00_Master-Framework.md` §5D, tuned to this file's
+> state-theory vocabulary. State questions are unusually quotation-prone ("the state is the march
+> of God on earth", "the executive is a committee managing the affairs of the bourgeoisie", "the
+> personal is political"), so run this before writing a line.
+
+| # | Move | What to do here |
+|---|---|---|
+| 1 | **Identify the proposition and the concept** | Restate the line as one testable claim, then place it in one of the three clusters — ethical-natural (organic/idealist), liberal-instrumental (contractarian/laissez-faire/welfare), critical-transformative (Marxist/feminist/post-colonial/pluralist/Gandhian) — and name which of the six tests (origin, purpose, liberty, inequality, civil society, route to change) it is really answering. |
+| 2 | **Reconstruct the strongest argument for it** | Build the best version of the source position, using §C's pattern: claim → warrant → backing. E.g. for an instrumentalist line, run Miliband's three mechanisms (shared class background, direct economic leverage, officials' status-quo interest) rather than asserting "the state serves capital". |
+| 3 | **Test the counterargument and the conditions** | Bring the *internal* rival first (Poulantzas against Miliband; Eisenstein against a purely Millett-style reading; welfare liberalism against laissez-faire), then the cross-cluster rival. Apply the necessary-vs-sufficient check: does the proposition state a sufficient condition for the state's character, or only a necessary tendency? Name the conditions under which it would hold. |
+| 4 | **Apply named evidence** | Attach at least one unit from §D (Aristotle's polis; Locke's *Two Treatises*, 1689, composed c.1679-83, dated cautiously; Miliband 1969; Poulantzas 1973; Millett 1971; Eisenstein 1981; Macaulay's 1835 minute; Solidarity and Eastern European associational pressure), stating the cluster it evidences. |
+| 5 | **Give a graded verdict** | Land on "holds / holds only under stated conditions / fails as stated", mirroring §A's thesis that no single description exhausts the state. Never end on a flat "all perspectives are partly right". |
+
+- ❌ **Never treat an unverified quotation as verbatim.** No sentence in this file is a direct
+  quotation from Hegel, Marx, Engels, Miliband, Poulantzas, Millett, Eisenstein or Gauba; every
+  reconstruction is paraphrase. Do **not** manufacture a book, edition, year or page to
+  authenticate an unfamiliar line supplied by a stem — the §D years above are the only
+  bibliographic dates this file asserts.
+- ⚠️ **Three safe registers:** attribution and wording both verified → name work and quote exactly;
+  attribution reliable but wording not → "the position associated with X is that …" (no quotation
+  marks); attribution itself uncertain → "the line is popularly attributed to X; its provenance is
+  not independently verified here — taken on its own terms it claims …", then argue the doctrine.
+- ⚠️ **Architecture link:** at 10 marks run moves 1 → 2 → 5 across one contrasted pair; at 15 marks
+  add move 3 as a full internal-debate objection–reply; at 20 marks run all five, with two evidence
+  units drawn from different clusters and a verdict that names which lens the stem actually
+  demands (§F).

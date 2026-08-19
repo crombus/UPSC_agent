@@ -5,8 +5,10 @@
 > **Core area:** Scoping empirical/social-policy prompts (e.g. the FOMO
 > prompt) as essays, not GS answers — issue framing, boundary-setting,
 > and avoiding scheme-listing.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Section 4.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Section 4.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../advanced/03_Issue-Based-Prompt-Scoping.md`
@@ -15,7 +17,7 @@
 
 ## 1. Purpose and scope
 
-One audited prompt — 2024-B5, printed as "Social media is triggering
+A clear audited example — 2024-B5, printed as "Social media is triggering
 'Fear of Missing Out' amongst the youth precipitating depression and
 loneliness" — is an issue-statement rather than a philosophical aphorism:
 it names a
@@ -51,9 +53,11 @@ teaches how to scope such prompts as an *essay argument*, distinct from
   Either way the essay must engage the *causal chain the sentence asserts*
   — social media → FOMO → depression/loneliness — and ❌ not substitute a
   general discussion of social media's effects.
-- ⚠️ This is the only prompt in either V1 year that reads as a
-  direct, unmetaphorical issue-statement rather than an aphorism; the
-  remaining 15 prompts are decoded via `02`.
+- ⚠️ Within the 2024–2025 paper pair, this is the only direct,
+  unmetaphorical issue-statement; the remaining 15 prompts are decoded
+  via `02`. This is **not** a claim about the whole V1 corpus:
+  2018–2025 contains further issue and hybrid prompts requiring the same
+  method.
 
 ## 3a. Is this actually an issue prompt? — a three-question test
 
@@ -111,6 +115,24 @@ synthesis.
 5. What synthesis resolves the tension without denying either the harm
    or the benefit?
 
+## 5a. Causal-evidence-limit chain
+
+⚠️ Treat each asserted causal link as an argument to test, not as a fact
+to repeat:
+
+```text
+PROMPT CLAIM
+  -> plausible mechanism
+  -> named, verifiable evidence or illustration
+  -> what that evidence supports (not more)
+  -> mediator, counter-case or limit
+  -> qualified thesis
+```
+
+An association is not proof of causation. If you cannot name evidence,
+state the mechanism and the limit qualitatively rather than inventing a
+statistic or presenting correlation as settled proof.
+
 ## 6. Dimension-expansion grid
 
 | Dimension | Content for 2024-B5 |
@@ -123,11 +145,10 @@ synthesis.
 
 ## 7. India-first illustration starters
 
-⚠️ Recall (not invent) Indian illustrations: documented youth mental-
-health discourse, school/college digital-literacy initiatives, or
-well-known public commentary on smartphone/social-media use among
-students — used as *functional* illustrations of a dimension above, not
-as a scheme-listing exercise. Full discipline: `12`.
+⚠️ Recall (not invent) a named, verifiable Indian illustration relevant
+to youth mental health, digital literacy or student smartphone use. Use
+it as functional evidence for one dimension above, not as a
+scheme-listing exercise. Full discipline: `12`.
 
 ## 8. Thesis options and selection
 
@@ -178,6 +199,16 @@ mechanism, the strongest counter-case, and your chosen thesis. Then
 write one Indian illustration you can genuinely recall (not invent) that
 functions as evidence for your mechanism.
 
+**Transfer drills — unfamiliar prompts:** These are practice prompts, not
+claims supplied as facts.
+
+1. *“Remote work has improved productivity while weakening workplace
+   community.”* Identify each causal link, one mediator, one counter-case
+   and the qualified thesis.
+2. *“When algorithms choose, responsibility does not disappear.”* Decide
+   whether the prompt is issue-based, philosophical or hybrid; then map
+   mechanism → named evidence → limit before planning dimensions.
+
 **Self-check:** Does your plan contain any heading, numbered list, or
 "government schemes" section that belongs in a GS answer rather than a
 continuous essay? If yes, remove it and rewrite that portion as
@@ -193,15 +224,16 @@ connected prose.
 - **Paper(s):** Essay
 - **Routed question demands:** 2
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+| Year | Paper | Q | PYQ demand (exact V1 wording) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2024 | Essay | Section A - 1 | Forests precede civilizations and deserts follow them | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
-| 2024 | Essay | Section B - 1 | Social media triggering 'Fear of Missing Out', depression and loneliness | Essay · 25 marks · 1000-1200 words | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section A - 1 | "Forests precede civilizations and deserts follow them." | Essay · about 1000-1200 words; 2024 paper: 125 marks each | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
+| 2024 | Essay | Section B - 1 | "Social media is triggering ‘Fear of Missing Out’ amongst the youth precipitating depression and loneliness." | Essay · about 1000-1200 words; 2024 paper: 125 marks each | Routed to essay-method owner | Use as a brainstorming/theme test; this owner supplies essay method, not a model essay. |
 
 ### What this owner must now support
 
-- Forests precede civilizations and deserts follow them
-- Social media triggering 'Fear of Missing Out', depression and loneliness
+- "Forests precede civilizations and deserts follow them."
+- "Social media is triggering ‘Fear of Missing Out’ amongst the youth
+  precipitating depression and loneliness."
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

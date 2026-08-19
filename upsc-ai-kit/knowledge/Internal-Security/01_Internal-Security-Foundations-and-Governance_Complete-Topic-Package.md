@@ -1,10 +1,11 @@
 # Internal-Security Foundations and Governance - Complete Topic Package
 
-> **Subject:** Internal Security | **Paper:** GS-III
+> **Subject:** Internal Security | **Paper:** GS-III | **Level:** Core-first, with optional Advanced enrichment.
+> **Package rule:** The Core below independently supports answer writing; Advanced adds depth and does not carry a missing mark. The eight MCQ answers rotate A → B → C → D.
 
-## Complete foundation and advanced source
+## Core teaching and answer architecture
 
-# Internal-Security Foundations and Governance - MUST-DO
+### Internal-Security Foundations and Governance - MUST-DO
 
 > **Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III.
 > **Core area:** Internal vs. external security; Kautilya's four-fold threat
@@ -21,7 +22,7 @@
 
 ---
 
-## 1. Visual foundation
+### 1. Visual foundation
 
 ```text
 ROOT CAUSE
@@ -58,7 +59,7 @@ sovereignty... within its territory" — from external security, which is
 "comes under the purview of the police, which can be supported by the
 armed police forces, if required" (PDF p. 1).
 
-## 2. Essential definitions
+### 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
@@ -69,7 +70,7 @@ armed police forces, if required" (PDF p. 1).
 | ⚠️ **Internal-external inter-relatedness** | Events in neighbouring states (Sri Lanka, Pakistan, Bangladesh, Nepal, Myanmar) have "direct or indirect linkages" with India's internal security — the two domains cannot be seen "in isolation from each other" (Singh, PDF p. 2). |
 | ✅ **Attributes of internal security** | Territorial integrity/sovereignty; domestic peace; law and order; rule of law and equality before law; freedom from fear; peaceful co-existence and communal harmony (Singh, PDF p. 2). |
 
-## 3. How the doctrine works
+### 3. How the doctrine works
 
 1. **Threat identification:** ✅ Singh lists the historical challenge map —
    J&K militancy/terrorism, North-East insurgency, LWE, organised crime's
@@ -93,7 +94,7 @@ armed police forces, if required" (PDF p. 1).
    require reasonably softer and sympathetic approach" (PDF p. 5) — an
    exam-ready distinction between coercive and accommodative responses.
 
-## 4. Institutions, laws and reference points
+### 4. Institutions, laws and reference points
 
 - ✅ **Ministry of Home Affairs (MHA):** the nodal ministry for internal
   security in India (Singh, PDF p. 1).
@@ -118,7 +119,7 @@ armed police forces, if required" (PDF p. 1).
   doctrine stage as needing clearly defined, harmonised roles (Singh, PDF
   p. 6) — developed in topic 07.
 
-## 4A. Threat, vulnerability and capability — the three-variable habit
+### 4A. Threat, vulnerability and capability — the three-variable habit
 
 ⚠️ The single most useful discipline before writing any answer in this
 folder is to separate three things Singh's root-cause list mixes together:
@@ -135,7 +136,7 @@ control, so almost every workable "measures/way forward" answer is really
 about **reducing vulnerability** and **building capability**. Saying so
 explicitly converts a list of schemes into an argument.
 
-## 5. Indian applications and examples
+### 5. Indian applications and examples
 
 - ✅ Singh traces post-Independence challenges sequentially: J&K accession
   problems and communalism from Partition; the 1950s North-East uprising
@@ -154,7 +155,7 @@ explicitly converts a list of schemes into an argument.
   narco-terrorism, 2024 Q19 on the China/Pakistan border, 2024 Q20 on
   social media).
 
-## 6. Must-Know Facts for Prelims
+### 6. Must-Know Facts for Prelims
 
 - ✅ Internal security has been a dedicated topic in the Civil Services
   Main Examination since 2013.
@@ -178,7 +179,7 @@ explicitly converts a list of schemes into an argument.
   of the Union in a State "in aid of the civil power" is Union List
   Entry 2A.
 
-## 7. UPSC traps
+### 7. UPSC traps
 
 - ❌ Internal and external security are two fully separable domains. ->
   Singh explicitly notes they are inter-related and "cannot be seen in
@@ -205,7 +206,7 @@ explicitly converts a list of schemes into an argument.
   power," and Article 355 places a protective duty on the Union; the
   design is cooperative, not exclusive, on either side.
 
-## 8. 📰 Current anchor
+### 8. 📰 Current anchor
 
 - 📰 The MHA's institutional descriptions of internal-security machinery
   are updated periodically in its **Annual Report**; use only the current
@@ -215,7 +216,7 @@ explicitly converts a list of schemes into an argument.
   separate verification — see topic 12 for the up-to-date institutional
   picture.
 
-## 9. PYQ application
+### 9. PYQ application
 
 - ⚠️ No GS-III Mains question in the audited 2024-2025 papers directly
   tests the internal-security doctrine or the internal/external
@@ -230,7 +231,7 @@ explicitly converts a list of schemes into an argument.
   fighting, while proxy war, hybrid warfare and information operations
   (topics 02, 05, 09) are the same principle used *against* India.
 
-## 10. Mains angles
+### 10. Mains angles
 
 - ⚠️ Open any internal-security answer by naming the specific threat, then
   route it through the doctrine's eight elements to identify which is
@@ -244,7 +245,7 @@ explicitly converts a list of schemes into an argument.
   root-cause matrix in `00_Master-Framework.md` Section 4 and to topics 03
   and 04.
 
-## 11. Probable questions
+### 11. Probable questions
 
 - ⚠️ **Prelims:** Which ancient text is cited as the source of the
   four-fold classification of threats to a state (internal, external,
@@ -256,7 +257,89 @@ explicitly converts a list of schemes into an argument.
   political, socio-economic and governance-based, not merely a police and
   intelligence doctrine." Discuss.
 
-## 12. Study links
+### 12. Core answer architecture — doctrine, local support and external actors
+
+> **Core firewall:** This section is sufficient for a directive-sensitive
+> 10/15/20-mark answer. The Advanced companion may deepen the analysis but
+> is not required for any routed paper demand.
+
+#### Demand decoder and thesis
+
+- **Development–extremism:** do not say poverty automatically produces
+  violence. **Thesis:** exclusion, weak justice and administrative absence
+  become security risks only when an organised actor converts them into
+  recruitment, coercion or a parallel authority.
+- **External state/non-state actors:** identify **actor → means → objective
+  → intended end-state**. A state sponsor may use finance, sanctuary,
+  training, propaganda or proxies; the proxy's deniability is a means, not
+  proof that the sponsor and group have identical legal personalities.
+- **Area management/local perception:** distinguish protection of people
+  from control of territory. The test is whether lawful administration,
+  grievance redress and public trust can hold after an operation.
+
+#### Executable Core spines
+
+**10 marks — development and extremism / area management (about 150
+words).** Define the exact threat; state the conditional thesis above;
+give two causal links (land/forest or service-delivery exclusion → local
+grievance; weak policing/justice → coercive parallel authority); then
+match measures to the chain: secure access, restore police/civil
+administration, deliver rights and services, and protect accountability.
+Close: reduced violence is a necessary security result, not by itself the
+end-state of legitimate governance.
+
+**15 marks — external state and non-state actors.** Open with the
+four-fold threat frame. Use three distinct mechanisms: (i) J&K's
+state-sponsored proxy logic (topic 05); (ii) cross-border sanctuary and
+ethnic connectivity in the North-East (topic 04); and (iii) cyber/
+information or financial networks (topics 08–10). For each, name the
+vulnerability and the competent response, then qualify attribution,
+federal competence and rights. Conclude that an integrated response
+reduces exploitable vulnerability without treating every dissenting
+citizen as a proxy.
+
+**20 marks — comparative/synthesis demand.** Compare LWE, North-East
+insurgency and proxy terrorism on actor, objective, territorial/social
+base, vulnerability, lawful capability and durable end-state. Use the
+eight-element doctrine as a diagnostic grid, not eight decorative
+headings; give a reasoned verdict on which elements must lead in each
+case.
+
+#### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Internal security is broader than force deployment. | Singh's eight-element doctrine; State List Entries 1–2 and Union List Entry 2A. | Security, governance and federal coordination are jointly load-bearing. | An Entry 2A deployment is **in aid of civil power**, not a replacement for State policing. |
+| Development becomes a security variable where coercion blocks lawful administration. | LWE's land/forest-governance chain and obstruction of development work (topic 03). | Roads or welfare matter only when access, rights and administration can be sustained. | A scheme launch/output is not evidence of reduced violence or resolved grievance. |
+| Identity demands and secessionist/proxy threats need different calibrations. | Sixth Schedule/statehood accommodation in the North-East (topic 04) versus J&K proxy-war architecture (topic 05). | Political accommodation and security action can be complementary, not interchangeable. | Do not homogenise the North-East or infer a current group status from book-period material. |
+| Intelligence is not a prosecution substitute. | MAC/SMAC information-sharing and the intelligence → investigation → prosecution chain (topic 12). | Prevention and admissible proof require different institutions. | A lead, arrest or designation is not a conviction. |
+
+#### Direct PYQ routes now owned in Core
+
+| Demand family | Core route |
+|---|---|
+| 2020 GS-III area management, militant support and local perception | Secure people and access → civil administration/justice → rights-respecting service delivery → accountable community engagement; assess whether the area can be held, not merely cleared. |
+| 2021 GS-III external state/non-state actors | Use actor–means–objective–end-state, then the three-mechanism 15-mark spine above. |
+| 2025 Essay quote on subduing without fighting | This is an **Essay linkage, not an Internal-Security PYQ**. Use a continuous argument on legitimate non-kinetic prevention, political settlement and resilience; do not turn the quote into a list of security agencies. |
+
+#### Routed Prelims safety notes
+
+- **BNSS, 2023 section 173:** information about a cognisable offence may
+  be given to an officer in charge **irrespective of the area** in which
+  the offence occurred. A Zero FIR is a registration/access device; the
+  competent station investigates after transfer. It does not make
+  electronic reporting obligatory in every case, and a preliminary inquiry
+  has its own statutory threshold.
+- **Official Secrets Act, 1923:** distinguish the Act's prohibited-place,
+  spying and wrongful-communication framework (not every government
+  document) from the RTI Act's separate disclosure regime. It remains in
+  force; it was not repealed by an ARC recommendation.
+- **Arms Act, 1959:** distinguish acquisition/possession/carrying
+  (licensing under section 3) from manufacture/sale/transfer and related
+  dealing (section 5). A licensed arm, a prohibited arm and an
+  intelligence/security offence are not interchangeable propositions.
+
+### 13. Study links
 
 - ✅ Advanced companion:
   `advanced/01_Internal-Security-Foundations-and-Governance.md`.
@@ -267,9 +350,59 @@ explicitly converts a list of schemes into an argument.
   terrorism; topic 03 applies the root-cause matrix to LWE; topic 04
   applies it to North-East insurgency; topic 12 develops the police &
   security forces and Centre-State coordination elements fully.
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+### 2026 PYQ Integration
 
+> **Status:** 2026 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
+> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
 
-# Internal-Security Foundations and Governance - ADVANCED
+- **Year represented:** 2026
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2026 | Prelims GS-I | 62 | Zero FIR under BNSS and police jurisdiction for reported offences | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+#### What this owner must now support
+
+- Zero FIR under BNSS and police jurisdiction for reported offences
+
+> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+### Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2020, 2021, 2023
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-III | 10 | Area management to deny militant support and improve local perception | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-III | 19 | External state and non-state actors multidimensional internal security threats | Analyse · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | Prelims GS-I | 92 | Official Secrets Act Arms Act legal actions and coverage | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+#### What this owner must now support
+
+- Area management to deny militant support and improve local perception
+- External state and non-state actors multidimensional internal security threats
+- Official Secrets Act Arms Act legal actions and coverage
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+---
+
+## Optional Advanced extension
+
+### Internal-Security Foundations and Governance - ADVANCED
 
 > **Subject:** Internal Security | **Tier:** Advanced | **GS Paper:** GS-III.
 > **Core area:** Political settlement versus coercion; the security-
@@ -285,7 +418,7 @@ explicitly converts a list of schemes into an argument.
 
 ---
 
-## 1. Answer thesis and syllabus boundary
+### 1. Answer thesis and syllabus boundary
 
 **Thesis:** ⚠️ No internal-security threat in India is purely a law-and-
 order problem or purely a development problem; each is a compound failure
@@ -296,7 +429,7 @@ history — is what distinguishes an advanced response from a basic one.
 (terrorism, LWE, insurgency) in operational detail; it supplies the
 diagnostic and answer-architecture layer that topics 02-12 apply.
 
-## 2. Conceptual distinctions
+### 2. Conceptual distinctions
 
 | Concept | Precise meaning |
 |---|---|
@@ -308,7 +441,7 @@ diagnostic and answer-architecture layer that topics 02-12 apply.
 | ⚠️ **Prevention vs. response as separate resource decisions** | Prevention (intelligence, community engagement, counter-radicalisation, vulnerability reduction) and response (force deployment, interdiction, crisis management) compete for the same budget and political attention, but are measured differently: response produces visible, countable outputs (arrests, seizures, hubs opened), prevention produces an *absence* of events. ⚠️ This measurement asymmetry, not indifference, is the usual reason prevention is under-resourced — a reusable explanatory point in topics 02, 03, 08 and 11. |
 | ⚠️ **Statutory power vs. operational capability** | A statute confers authority; it does not create trained manpower, forensic capacity, court time or inter-agency trust. Every "the law already provides for X" claim in a Mains answer should be paired with a separate, dated statement about whether the capacity to use X exists — the distinction FATF's 2024 critique of India applies to prosecution (topic 10) and VisionIAS's "way forward" applies to marine policing (topic 07). |
 
-## 3. Causal model
+### 3. Causal model
 
 ```text
 STRUCTURAL CONDITION
@@ -352,7 +485,7 @@ resists the state's development-first solution, which is why sequencing
 security and development correctly is a genuine design problem, not a
 question with an obvious answer.
 
-## 4. Institutional and reform architecture
+### 4. Institutional and reform architecture
 
 - ✅ **Doctrine-to-institution mapping:** political element → political
   consensus and legal framework (topic 02, 05); socio-economic element →
@@ -371,7 +504,7 @@ question with an obvious answer.
   mandates, strength and coordination mechanisms — never Singh's
   book-period institutional description alone.
 
-## 5. Indian applications and boundary cases
+### 5. Indian applications and boundary cases
 
 - ⚠️ **J&K vs. LWE as boundary cases for the coercion/settlement split:**
   J&K militancy (topic 05) has historically drawn a harder security
@@ -391,7 +524,7 @@ question with an obvious answer.
   the others; topic 08 traces how far institutionalisation has since
   progressed.
 
-## 6. Limitations and trade-offs
+### 6. Limitations and trade-offs
 
 - ⚠️ **The doctrine does not resolve the security-development sequencing
   question by itself.** It names development and security as co-equal
@@ -424,7 +557,7 @@ question with an obvious answer.
   identifying which element is weakest for the *specific* threat asked
   about, is a common but avoidable answer-quality failure.
 
-## 7. Must-Know Facts for Advanced Prelims
+### 7. Must-Know Facts for Advanced Prelims
 
 - ✅ Singh's doctrine names eight elements: political, socio-economic,
   governance, police & security forces, Centre-State coordination,
@@ -446,7 +579,7 @@ question with an obvious answer.
   in force 1 July 2024); the doctrine survives those changes, the legal
   detail does not.
 
-## 8. Advanced Prelims traps
+### 8. Advanced Prelims traps
 
 - ❌ The eight-element doctrine implies eight independent problems to be
   solved separately. -> They interact; e.g. a governance deficit (weak
@@ -462,7 +595,7 @@ question with an obvious answer.
   policing powers, present "in all areas from intelligence to operations"
   from the doctrine's own formulation.
 
-## 9. 📰 Current-anchor note
+### 9. 📰 Current-anchor note
 
 - 📰 Institutional status (agency mandates, coordination mechanisms,
   strength) must be verified against the current MHA **Annual Report**
@@ -472,7 +605,7 @@ question with an obvious answer.
   developed with current status in topic 12 (institutions) and topic 08
   (cyber).
 
-## 10. PYQ-based analytical application
+### 10. PYQ-based analytical application
 
 - ⚠️ No GS-III Mains question in the audited 2024-2025 papers directly
   tests this topic. A strong advanced answer on any named threat should
@@ -492,7 +625,7 @@ question with an obvious answer.
   fighting only sustains legitimacy if the non-kinetic tools remain
   rights-bound.
 
-## 11. Mains-ready framework
+### 11. Mains-ready framework
 
 **Central thesis:** Every internal-security threat in India is best
 diagnosed, not through a chronology of incidents, but through Singh's
@@ -519,7 +652,7 @@ analytical tool for calibrating "what is to be done."
    sustains gains, while disproportionate response risks reopening the
    root cause.
 
-## 12. Probable questions
+### 12. Probable questions
 
 - ⚠️ **Prelims:** Under India's constitutional scheme, is "police" a Union,
   State or Concurrent List subject?
@@ -532,7 +665,7 @@ analytical tool for calibrating "what is to be done."
 - ⚠️ **Mains (15 marks):** "Centre-State coordination is a structural, not
   incidental, constraint on India's internal security response." Discuss.
 
-## 13. Study links
+### 13. Study links
 
 - ✅ Foundation companion:
   `basic/01_Internal-Security-Foundations-and-Governance.md`.
@@ -545,125 +678,132 @@ analytical tool for calibrating "what is to be done."
   12 develops the Centre-State coordination and rights/accountability
   dimensions institutionally.
 
+---
 
 ## Solved topic-specific MCQs
 
-### Q1. Which statement correctly resolves this common misconception: "A threat and a vulnerability are the same thing."?
-- A. A threat is a
-- B. A threat and a vulnerability are the same thing.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
+### Q1. Which component is a **vulnerability**, rather than a threat or a State capability?
+- A. An unmonitored difficult-terrain border stretch that a hostile network can exploit
+- B. A proxy network seeking to move weapons
+- C. A trained State-police investigation team
+- D. Loss of confidence after an attack
+
 **Answer: A**
-**Explanation:** A threat is a
 
-### Q2. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. ✅ **The constitutional division that shapes every response** (Seventh
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
+**Explanation:** A vulnerability is the exploitable weakness. The proxy is a threat actor, the investigation team is a capability, and the confidence loss is a consequence.
+
+### Q2. Which statement best captures the federal design of internal-security response?
+- A. Police being a State subject prevents Union support in every circumstance.
+- B. Public order and police are State subjects, while Union List Entry 2A permits deployment of Union armed forces in aid of civil power.
+- C. Article 355 transfers routine police investigation to the Union.
+- D. MAC may prosecute a case because it receives intelligence.
+
 **Answer: B**
-**Explanation:** ✅ **The constitutional division that shapes every response** (Seventh
 
-### Q3. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. ✅ **Multi Agency Centre (MAC):** cited by Singh as "a good beginning" on
-- D. The opposite or an unqualified version of the source proposition is correct.
+**Explanation:** The design is cooperative: State-police primacy remains, while Entry 2A and Article 355 support a Union role. MAC shares intelligence; it does not investigate or prosecute.
+
+### Q3. A domestic group receiving logistic assistance from outside India is best placed in which Kautilyan frame?
+- A. Purely external threat
+- B. Purely internal threat
+- C. Externally aided internal threat
+- D. A threat that cannot be analysed because it has two actors
+
 **Answer: C**
-**Explanation:** ✅ **Multi Agency Centre (MAC):** cited by Singh as "a good beginning" on
 
-### Q4. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. ✅ **UPSC inclusion since 2013:** Singh notes internal security became "a
+**Explanation:** The local group is internal while the support is external. The classification helps identify both local governance vulnerabilities and cross-border response needs.
+
+### Q4. Which use of an official policy document is evidentially sound?
+- A. A policy release proves that every intended institutional reform has been delivered.
+- B. A notification proves that all affected people received the promised benefit.
+- C. A quoted target proves it was achieved once its deadline passed.
+- D. A policy document can establish stated design and institutional intent, while implementation and outcome require separate evidence.
+
 **Answer: D**
-**Explanation:** ✅ **UPSC inclusion since 2013:** Singh notes internal security became "a
 
-### Q5. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. ⚠️ **Navy/Coast Guard/Coastal Police role clarity:** flagged even at the
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
+**Explanation:** This is the notification/policy versus implementation/outcome distinction. It prevents a scheme list from being mistaken for an assessment.
+
+### Q5. Which opening is strongest for a question on development and extremism?
+- A. Development deficits become an internal-security risk when an organised actor converts exclusion and weak justice into coercion, recruitment or parallel authority.
+- B. Poverty always causes extremism.
+- C. Every development programme eliminates violence automatically.
+- D. Internal security is important for national development.
+
 **Answer: A**
-**Explanation:** ⚠️ **Navy/Coast Guard/Coastal Police role clarity:** flagged even at the
 
-### Q6. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. ✅ Singh traces post-Independence challenges sequentially: J&K accession
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
+**Explanation:** It gives a qualified causal thesis and leaves room for organisation, governance, rights and security capability rather than making a deterministic claim.
+
+### Q6. Which sequence correctly preserves institutional boundaries after a credible intelligence lead?
+- A. IB arrests → MAC convicts → NIA shares intelligence
+- B. Intelligence collection/sharing → lawful containment → NIA or State-police investigation → prosecution → adjudication
+- C. NATGRID prosecutes → Special Court collects intelligence → police issues policy
+- D. A designation automatically ends in confiscation
+
 **Answer: B**
-**Explanation:** ✅ Singh traces post-Independence challenges sequentially: J&K accession
 
-### Q7. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. ⚠️ **PYQ mapping:** no GS-III Mains question in the audited 2024-2025
-- D. A threat and a vulnerability are the same thing.
+**Explanation:** Leads, operations, investigation, prosecution and adjudication are distinct functions. An arrest, designation or attachment is not a conviction or confiscation.
+
+### Q7. Under BNSS section 173, a Zero FIR most directly protects which proposition?
+- A. Every non-cognisable matter must be investigated by any police station.
+- B. Electronic information is mandatory for every complainant.
+- C. Information on a cognisable offence can be recorded irrespective of where the offence occurred, then sent to the competent station.
+- D. Territorial jurisdiction has no relevance after investigation begins.
+
 **Answer: C**
-**Explanation:** ⚠️ **PYQ mapping:** no GS-III Mains question in the audited 2024-2025
 
-### Q8. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. A threat and a vulnerability are the same thing.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. ✅ Internal security has been a dedicated topic in the Civil Services
+**Explanation:** Zero FIR protects access to registration; it does not abolish the competent station's role or change the legal distinction between cognisable and non-cognisable matters.
+
+### Q8. How should the 2025 Essay quotation on subduing without fighting be used here?
+- A. As evidence that every security response should avoid force.
+- B. As a direct Internal-Security PYQ with a fixed GS-III answer format.
+- C. As proof that proxy warfare is legitimate.
+- D. As an Essay linkage for a continuous argument about legitimate prevention, political settlement and resilience, not a fabricated security PYQ.
+
 **Answer: D**
-**Explanation:** ✅ Internal security has been a dedicated topic in the Civil Services
+
+**Explanation:** The quotation can draw on this topic's non-kinetic doctrine, but its form is an Essay argument rather than a security-question answer key.
 
 ## Solved answer-writing practice
 
-- **10 marks:** Explain the central concepts and distinctions in Internal-Security Foundations and Governance.
-- **15 marks:** Analyse Internal-Security Foundations and Governance with applications and limitations.
-- **20 marks:** Critically examine Internal-Security Foundations and Governance and provide a balanced judgement.
+### 10 marks — “Internal-security threats in India are rarely solved by security measures alone.” Explain.
+
+**Model answer:** Internal security is the protection of constitutional order, public peace and citizens within the State; therefore, force can create an access window but cannot by itself repair the conditions that let a threat recur. Singh's eight-element doctrine combines political, socio-economic, governance, police/security, Centre–State coordination, intelligence, border and cyber elements. **Claim:** exclusion becomes a security vulnerability when an organised actor converts it into coercion. **Evidence:** the LWE route links land/forest grievances and administrative absence with a parallel/extortion authority. **Significance:** security must be followed by functioning justice, rights delivery and civil administration — a clear–hold–develop sequence. **Qualification:** poverty does not mechanically cause violence; organisation, ideology and capacity matter. In the North-East, Sixth Schedule/statehood and accord mechanisms show why identity demands need political accommodation alongside calibrated security. The Union can support through Entry 2A and Article 355, but State police remain primary under Entries 1–2. Hence the durable end-state is legitimate, accountable governance and reduced vulnerability, not merely a short-term fall in incidents.
+
+**Why this earns marks:** It defines the issue, gives a thesis, uses named doctrine/constitutional/LWE/NE evidence, explains causation, adds a limitation and concludes to the precise demand.
+
+### 15 marks — Analyse how external state and non-state actors create multidimensional challenges to India’s internal security.
+
+**Model answer:** External and non-state actors need not be mutually exclusive: a sponsor may use a proxy to gain deniability, while local facilitators and digital/financial networks enable domestic manifestation. **Thesis:** the challenge is multidimensional because actor, vector and vulnerability differ across theatres, so India must target the exploitable chain rather than apply one coercive template.
+
+First, in J&K, Singh's proxy-war account illustrates a sponsor → training/finance/logistics → local or transnational module mechanism. Its response requires LoC/infiltration management, financial investigation, intelligence-led lawful policing and rehabilitation/legitimacy measures; a ceasefire on firing is not proof that infiltration or financing has ended. Second, North-East insurgency illustrates cross-border ethnic connectivity, difficult terrain and sanctuary interacting with identity/autonomy grievances. Here, border regulation must be paired with political accommodation, community safeguards and accord implementation rather than treating the region as homogeneous. Third, cyber and information operations can exploit CII, platforms and audience trust; CERT-In/NCIIPC, State police and public communication therefore have different functions.
+
+PRAHAAR (MHA, 23 February 2026) supplies a current policy frame of prevention, response, capacity aggregation, rule of law, attenuating conditions, international alignment and recovery/resilience. Its existence is policy evidence, not an outcome measure. The verdict is cooperative, rights-bound prevention and prosecution: indiscriminate attribution or coercion can damage the trust and evidence base on which security depends.
+
+**Why this earns marks:** It answers “analyse” through actor–means–objective–end-state, uses three contrasted theatres, names institutions and current policy, gives limitations and a reasoned verdict.
+
+### 20 marks — Critically examine the proposition that internal-security policy must balance security, development and rights.
+
+**Model answer spine:**
+
+1. **Thesis:** This is not a three-way rhetorical balance: security creates access, development/rights remove exploitable vulnerability, and accountability sustains legitimacy; their correct sequencing differs by threat.
+2. **LWE evidence:** Singh’s land/forest/governance and extortion analysis; NPAP’s security-development-rights prongs; distinguish December 2025 security metrics from the June 2026 qualified “effectively free” assessment and from root-cause outcomes.
+3. **North-East evidence:** Sixth Schedule/statehood and accord ladder; explain why an SoO/framework/settlement/implementation are different claims; apply AFSPA legality, necessity, proportionality and accountability.
+4. **J&K/proxy evidence:** actor–means–objective distinction, LoC ceasefire versus infiltration metrics, and migrant rehabilitation as an implementation-sensitive legitimacy dimension.
+5. **Digital/financial evidence:** Cyber incident versus crime versus information operation; PMLA/UAPA freeze versus conviction/confiscation; show that legal power does not establish operational capacity or outcome.
+6. **Federal architecture:** State List Entries 1–2; Union List Entry 2A/Article 355; State-police evidence and local trust are indispensable.
+7. **Critical qualification:** a development scheme may be blocked or captured; an unaccountable security response may create recruitment vulnerability; rights rhetoric without capability leaves people exposed.
+8. **Verdict:** adopt threat-specific, sequenced, independently reviewed action that ends with resilient constitutional governance rather than an announced target or a coercive holding pattern.
+
+**Why this earns marks:** The spine is directive-sensitive, comparative and evidence-led; every claim has a named anchor and a limitation, and the conclusion answers the evaluative demand.
 
 ## Final consolidated register notes
 
-- ✅ **Ministry of Home Affairs (MHA):** the nodal ministry for internal
-- ✅ **The constitutional division that shapes every response** (Seventh
-- ✅ **Multi Agency Centre (MAC):** cited by Singh as "a good beginning" on
-- ✅ **UPSC inclusion since 2013:** Singh notes internal security became "a
-- ⚠️ **Navy/Coast Guard/Coastal Police role clarity:** flagged even at the
-- ✅ Singh traces post-Independence challenges sequentially: J&K accession
-- ⚠️ **PYQ mapping:** no GS-III Mains question in the audited 2024-2025
-- ✅ Internal security has been a dedicated topic in the Civil Services
-- ✅ Kautilya's *Arthashastra* is the cited source for the four-fold threat
-- ✅ MHA handles internal security; the Ministry of Defence handles
-- ✅ The doctrine's eight elements are political, socio-economic,
-- ✅ India's land border stretches nearly 15,000 km, shared with six
-- ✅ Under the Seventh Schedule, public order (State List Entry 1) and
-- 📰 The MHA's institutional descriptions of internal-security machinery
-- ⚠️ No GS-III Mains question in the audited 2024-2025 papers directly
-- ✅ **Essay 2025, Section A(2) (verbatim from the local paper):** "The
-- ⚠️ Open any internal-security answer by naming the specific threat, then
-- ⚠️ Use the political-element distinction (heavy hand for secessionism,
-- ⚠️ Where a question asks for "linkages between development and
-- ⚠️ **Prelims:** Which ancient text is cited as the source of the
-- ⚠️ **Mains (10 marks):** Distinguish internal security from external
-- ⚠️ **Mains (15 marks):** "India's internal security doctrine must be
-- ✅ 00_Master-Framework.md Sections 1-6 — the results chain, threat
-- ⚠️ **Downstream topics in this folder:** Topic 02 applies the doctrine to
-- ✅ **Doctrine-to-institution mapping:** political element → political
-- ⚠️ **Sequencing precedent — Andhra Pradesh's Greyhounds model (LWE):**
-- 📰 **Current anchor for institutional status:** the MHA **Annual Report**
-- ⚠️ **J&K vs. LWE as boundary cases for the coercion/settlement split:**
-- ⚠️ **North-East as the clearest "regional/ethnic aspiration" case:**
-- ⚠️ **Cyber security as the doctrine's newest, least-institutionalised
-- ⚠️ **The doctrine does not resolve the security-development sequencing
-- ⚠️ **Coercion risks legitimacy costs that can outlast the immediate
-- ⚠️ **Centre-State coordination is a standing structural constraint, not
-- ⚠️ **Evidentiary-level discipline is itself an answer-quality
-- ✅ Singh's doctrine names eight elements: political, socio-economic,
-- ✅ The political element explicitly differentiates response by threat
-- ✅ Policing and law and order are State subjects under India's
-- ⚠️ Singh's own text acknowledges cyber security as the doctrine's least
-- ⚠️ Singh's legal chapters pre-date the UAPA (Amendment) Act 2019, the
-- 📰 Institutional status (agency mandates, coordination mechanisms,
-- ✅ **Essay 2025, Section A(2):** "The supreme art of war is to subdue the
-- ⚠️ **Prelims:** Under India's constitutional scheme, is "police" a Union,
-- ⚠️ **Mains (10 marks):** "Internal-security threats in India are rarely
-- ⚠️ **Mains (15 marks):** Distinguish the coercive and accommodative
-- ⚠️ **Mains (15 marks):** "Centre-State coordination is a structural, not
-- ✅ 00_Master-Framework.md Sections 1, 6, 8 and 10 — the results chain,
-- ⚠️ **Downstream topics in this folder:** Topic 03 applies the security
+- **Diagnostic rule:** threat ≠ vulnerability ≠ capability ≠ consequence. Name all four before prescribing measures.
+- **Actor rule:** distinguish state sponsor, proxy, facilitator, victim/target and State institution; objective may be political, ideological, criminal or hybrid.
+- **Eight-element doctrine:** political; socio-economic; governance; police/security forces; Centre–State coordination; intelligence; border management; cyber security.
+- **Federal map:** State List 1 public order + 2 police; Union List 2A aid to civil power; Entries 8/9 intelligence/preventive-detention field; Article 355 protective duty.
+- **Evidence discipline:** statutory power / policy announcement / notification / implementation / outcome are separate stages. Arrest, designation, attachment and conviction are also separate.
+- **Development-extremism:** do not make a deterministic poverty claim. Explain exclusion + administrative weakness + organised coercion; use LWE as the main chain.
+- **Threat calibration:** identity/autonomy demands need accommodation and implementation; state-sponsored proxy threats require security, finance, intelligence, diplomacy and legitimacy together.
+- **Area management:** secure access → hold through police/civil administration → deliver rights/services → restore trust. Territory cleared is not a durable end-state.
+- **Rights as capability:** legality, necessity, proportionality, reasons, review and remedy improve community cooperation and admissible evidence.
+- **PYQ hygiene:** the 2025 Essay quote is an Essay linkage; 2026 Preliminary keys are provisional and never justify inferring an answer option.

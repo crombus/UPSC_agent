@@ -1,13 +1,14 @@
-# Official UPSC Syllabus Mapping - Qualifying English
+# Official UPSC Syllabus Mapping — Qualifying English
 
-> Source: `../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md`, lines 73-99.
+> **Verbatim source:** `../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md`, “Qualifying Papers on Indian Languages and English”, lines 73–99.  
+> ✅ That source states the aim, the four English skill areas, Matriculation/equivalent standard, qualifying nature and non-ranking status.  
+> ⚠️ It does **not** itself establish a current qualifying percentage or marks threshold. That must be verified against the applicable annual notification.
 
-| Official clause | Status | Owner |
+| Official clause | Core owner | Required proof of readiness |
 |---|---|---|
-| Comprehension of given passages | COVERED | `basic/06_Comprehension-and-Precis.md` |
-| Precis Writing | COVERED | `basic/06_Comprehension-and-Precis.md` |
-| Usage and Vocabulary | COVERED | `basic/01` to `basic/05` |
-| Short Essays | COVERED | `basic/07_Short-Essay-Writing.md` |
+| Comprehension of given passages | `basic/06_Comprehension-and-Precis.md` | Literal, inference, tone, purpose, title, reference, vocabulary-in-context and multipart answers under time |
+| Precis Writing | `basic/06_Comprehension-and-Precis.md` | Idea map, proportion, count, paraphrase, coherence, concession and exact title instruction |
+| Usage and Vocabulary | `basic/01` to `basic/05` | Foundation test plus both full mocks |
+| Short Essays | `basic/07_Short-Essay-Writing.md` | Choice, thesis, argument, counterargument, examples, revision and about-600-word control |
 
-All indispensable rules are in Core. Practice files test application but are not sole owners of any rule.
-
+All indispensable rules are in Core. Practice files test transfer; they are not the sole owner of a method. `00_Readiness-Tracker.md` records performance and notification-verification status without turning either into an official UPSC claim.

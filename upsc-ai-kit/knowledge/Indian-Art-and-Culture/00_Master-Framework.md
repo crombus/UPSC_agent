@@ -98,16 +98,29 @@ modern surveys. Describe the monument first, then apply the label.
 ⚠️ Because Topic 03 carries the mandatory Chandella dossier (the direct
 2025 sculpture-specific PYQ, and one of two direct 2025 Art & Culture
 PYQs alongside Harappan architecture), use this route: read
-`basic/03_Temple-Architecture-and-Chandella-Khajuraho.md` for the political-cultural
-setting (Jejabhukti/Bundelkhand, Dhanga's independence) and the
-architecture/sculpture vocabulary; read
-`advanced/03_Temple-Architecture-and-Chandella-Khajuraho.md` for the full
-comparative dossier (Odisha, Chola, Hoysala comparisons; UNESCO 1986
-inscription; conservation/tourism trade-offs); cross-check topic 06 for the
+`basic/03_Temple-Architecture-and-Chandella-Khajuraho.md` in full — it is
+**answer-complete on its own**, supplying the political-cultural setting
+(Jejabhukti/Bundelkhand, Dhanga's independence), the architecture and
+sculpture vocabulary, the full sculptural programme with the erotic-imagery
+proportion and interpretive cautions, the Odisha/Konark, Chola and Hoysala
+comparisons, the 1986 UNESCO inscription and the conservation/tourism
+trade-off (Sections 4-5 and 13). Cross-check topic 06 for the
 sculptural-programme reading method, topic 09 for dance-sculpture posture
-links, and topic 14 for the UNESCO/ASI institutional layer.
+links, and topic 14 for the UNESCO/ASI institutional layer. Read
+`advanced/03_Temple-Architecture-and-Chandella-Khajuraho.md` only for
+optional historiography and extra comparative depth; **skipping it cannot
+lower a mark.**
 
 ## 8. Mains answer architecture (reused across topics)
+
+> ⚠️ **Where the detailed architecture lives:** each `basic/NN` file now
+> carries its own topic-specific **answer-architecture section** —
+> directive/demand map, qualified thesis options, mark-scaled structures,
+> named evidence banks by demand family, comparison/causation mechanisms,
+> criticism and variation, verdict scaffolds and factual-risk controls.
+> The six steps below are the folder-wide spine those sections apply; the
+> `advanced/` tier is optional enrichment and is not required for any
+> answer.
 
 1. **Name the specific form/site/text/practice** precisely — never open
    with "India has a rich and diverse culture."

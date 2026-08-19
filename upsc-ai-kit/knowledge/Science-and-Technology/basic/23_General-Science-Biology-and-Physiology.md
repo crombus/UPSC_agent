@@ -155,6 +155,32 @@ antigen exposure -> immune recognition -> response -> memory
 - ✅ `22_General-Science-Chemistry-Fundamentals.md` — biomolecules begin there as chemistry and deepen here as life processes.
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` — applied biotech architecture.
 - ✅ `14_Genetic-Engineering-GM-Crops-and-CRISPR.md` and `15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md` — the applied extensions explicitly separated from this fundamentals file.
+## Core answer architecture — biology, physiology and health/ecology reasoning
+
+**Thesis choice.** Biology questions require mechanism across levels—cell, molecule, organism, population and system; a named organ or microbe is not an explanation unless its function and boundary are shown.
+
+**10-mark spine.** Define the structure/process; trace the biological mechanism; give one health/agriculture/ecology application; add a misconception or variation.
+
+**15/20-mark spine.** Use **cellular/molecular basis → organ/system or ecological outcome → public-health/agriculture application → population variation, resistance, ethics or access → measured conclusion**.
+
+**Evidence units.**
+- **Claim:** gene information becomes phenotype through regulated expression → **DNA transcription to RNA and translation to protein** → links genes to enzymes, receptors, immunity and biotechnology → **qualification:** a gene association does not prove one-gene causation for complex traits or disease.
+- **Claim:** immune protection has different arms and time profiles → **B cells produce antibodies while T cells coordinate/carry out cellular functions; vaccines train active immunity** → supports reasoning about infection, vaccination and therapeutic antibodies → **qualification:** an immune response varies by pathogen, host and exposure; antibiotics do not treat viral disease.
+- **Claim:** microbial control is an evolutionary and system problem → **selection under antimicrobial exposure, biofilms and host/environmental transmission** → explains why resistance, hygiene and stewardship must be combined → **qualification:** resistance resides in microbial populations; neither a person nor a whole species becomes uniformly “immune” through one exposure.
+
+**Verdict.** Use mechanism to guide prevention and care while avoiding biological determinism, overgeneralisation from one species and unsupported medical claims.
+
+## Routed PYQ evidence — taxonomy and physiology traps
+
+- **Insects:** cicada, froghopper and pond skater are insects; do not infer taxonomic class from habitat, sound or surface-skating behaviour.
+- **Plant-form card:** cassava is a woody shrub; ginger is a rhizomatous herb; Malabar spinach is a climbing vine; mint is a herb; papaya is botanically a large herb rather than a woody tree. An edible part or common name is not a plant-form classification.
+- **Mushrooms:** different fungi can be edible/medicinal, psychoactive, insect-pathogenic or bioluminescent; these properties are species-specific. “Mushroom” is not a safety, medicinal or pesticide label.
+- **Physiology card:** nitric oxide is a signalling molecule that can dilate blood vessels; B and T cells have distinct immune roles; viruses require host-cell machinery for replication. Avoid converting an observed biological role into a universal therapeutic claim.
+
+## Historical Mains Core route — cellulose decomposition (2022)
+
+Cellulose is a plant structural polysaccharide. Decomposer fungi and bacteria secrete **cellulases** that hydrolyse it into smaller sugars; microbial metabolism then returns carbon through soil/food-web processes. **Significance:** this supports litter decomposition, composting and biomass-to-biofuel/bioprocess possibilities. **Qualification:** lignin-rich material, moisture, temperature, oxygen and microbial community constrain rate; natural decomposition is not the same as an industrially viable biofuel process.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

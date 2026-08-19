@@ -70,10 +70,29 @@ God = the Form of the Good                  God = Unmoved Mover (pure actuality)
 
 > ⚠️ Plato himself raises these objections in the *Parmenides*. Whether he resolves them in the later dialogues (*Sophist*, *Timaeus*) is ❓ contested.
 
-### 1.4 Key applications in the dialogues
+### 1.4 Key applications in the dialogues — the Sun, the Line and the Cave as ONE argument ✅
 
-- **Allegory of the Cave** (*Republic* VII): prisoners mistake shadows for reality; the philosopher ascends to sunlight (= the Good). The ascent is from *eikasia* → *pistis* → *dianoia* → *noēsis*. ✅ PYQ 2019 Q1(a) directly demands this.
-- **Divided Line** (*Republic* VI 509d–511e): four segments = four cognitive states corresponding to four grades of reality.
+Plato gives the three images in immediate succession (*Republic* VI 507a – VII 517a) and himself insists at 517a–b that the Cave "must be applied as a whole" to what preceded. **Treat them as one continuous argument:** answering with the Cave alone loses the epistemology; answering with the Line alone loses the political conclusion.
+
+#### The Divided Line ✅ (*Republic* VI 509d–511e) — four states, four objects
+
+| Segment | State of the soul | Object | What defines it |
+|---|---|---|---|
+| **D** | *eikasia* — imagination/conjecture | images: shadows, reflections | passively taking an image for its original |
+| **C** | *pistis* — belief/conviction | the visible things themselves | ordinary perception and trust |
+| **B** | *dianoia* — thought | mathematical objects | argues **downward** from unexamined hypotheses, and **uses** visible things as images |
+| **A** | *noēsis* — understanding | Forms, up to the Good | argues **upward** to an unhypothetical principle, using **no** images |
+
+> 🔑 **Mnemonic — "E-P-D-N"** matched to "**Images · Things · Mathematicals · Forms**."
+> ⚠️ **The single most examinable point:** what separates *dianoia* from *noēsis* is **not** the difficulty of the subject-matter but the **direction of argument** and the **use of images**. Mathematics reasons *down* from hypotheses it "takes as known" and gives no account of; dialectic reasons *up*, destroying their status as starting-points.
+
+#### The Allegory of the Cave ✅ (*Republic* VII 514a–517a) — the Line set in motion
+
+The Cave is the Line narrated as an education (*paideia*) and a conversion (*periagōgē*, the turning around of the whole soul): chained prisoners watching shadows (*eikasia*) → the released prisoner seeing the fire and carried artefacts (*pistis*) → the ascent, at first bearing only reflections of real things (*dianoia*) → the things themselves and finally the sun (*noēsis*). ✅ PYQ 2019 Q1(a) directly demands this.
+
+**Two features the Line does not contain, and that answers are rewarded for ⚠️:**
+1. **Conversion, not transfer.** Knowledge is not information poured into a soul; the whole soul must be turned around toward what is.
+2. **The return (*katabasis*).** The philosopher must go back down, will see badly in the dark, will be ridiculed and may be killed — a transparent allusion to Socrates. This is what converts an epistemological allegory into the political argument for philosopher-rulers, and it is also the argument's weakest link, since "having seen the Good" does not obviously entail the right to rule.
 - **Ideas as timeless and spaceless:** Forms occupy no location, undergo no temporal change, are not "in" space; hence they cannot be generated or destroyed. ✅ PYQ 2025 Q1(a): "Ideas are timeless and spaceless" — elucidate.
 
 ### 1.5 Substance for Plato ⚠️
@@ -114,7 +133,28 @@ Here Aristotle deepens the analysis. What makes *this individual* the substance 
 - **Form is not the universal species** (that would re-introduce Platonism); it is the *individual organising principle* — ❓ this interpretation (individual forms vs universal forms in Aristotle) is contested among scholars, but for UPSC purposes: form = essence = the principle of identity and intelligibility internal to the substance. ⚠️
 - **Prime matter** (*prōtē hylē*) is the limiting concept of utterly indeterminate matter — it has no properties of its own; all properties belong to form. Pure form without matter = God (the Unmoved Mover); prime matter without form is a theoretical posit that never exists independently. ✅
 
-### 3.3 The Substance–Accident Distinction
+### 3.3 The *Categories* / *Metaphysics* tension ⚠️→✅ — the nuance examiners reward
+
+| | ***Categories*** (2a11 ff.) | ***Metaphysics*** Z (VII) |
+|---|---|---|
+| What is substance? | the **concrete individual** — "this man", "this horse" (*tode ti*) | the **form / essence** (*eidos*, *to ti ēn einai*) |
+| Status of the species ("man") | **secondary** substance — less real than the individual | essence is **prior** in being, definition and knowledge |
+| Status of matter | not discussed | rejected as substance in its own right (Z.3): matter is neither separable nor a "this" |
+| Notorious sting | — | **Z.13: no universal is a substance** — yet form is a substance, and form looks universal |
+
+**The readings to name (give at least two) ✅:**
+1. **Different questions.** The *Categories* asks *which things* are substances and answers with the ultimate subject of predication — a logical-linguistic criterion. *Metaphysics* Z asks *what the substance of a thing is* — a causal-explanatory criterion. Two questions may have two answers without contradiction. ⚠️ **Safest exam line.**
+2. **Developmentalist** (Jaeger): the *Categories* is early and Platonic-adjacent; Aristotle later changed his mind. ❓ Depends on a disputed chronology.
+3. **Individual forms** (Frede–Patzig): the form that is substance is *this* organising principle, numerically distinct in each individual; Z.13 then leaves form untouched. ❓ Contested.
+4. **Universal forms** (Owen and others): form is the species-form, so Z.13 creates a genuine aporia. ❓ Contested.
+
+**Aristotle's four candidates for substance (*Metaphysics* Z.3):** substratum — **rejected** when taken as matter, since stripping every predicate leaves neither a "this" nor anything separable; **essence** — **accepted**, the leading answer of Z.4–6 and Z.17; **universal** — **rejected** at Z.13; **genus** — **rejected**, being predicated of many.
+
+**Z.17's decisive reformulation ✅:** substance is sought as a **cause**. The question is not "what is this?" but "**why is this matter a house?**", and the answer is the form. Substance is therefore an *explanatory principle*, not merely the bearer of properties.
+
+> ⚠️ **Executable verdict:** "The *Categories* identifies the substances; the *Metaphysics* identifies substance-hood. The individual remains what exists in the primary way, but what accounts for its being the individual it is, is its form. The tension is real only if 'substance' must have a single sense — which Aristotle denies, since being is said in many ways."
+
+### 3.4 The Substance–Accident Distinction
 
 | Category | Example | Status |
 |---|---|---|
@@ -251,7 +291,7 @@ Aristotle claims actuality is prior in three senses:
 | **The universal** | the *ousia* (truly real) | a secondary substance — less real than the individual |
 | **Matter** | the *Receptacle* (*Timaeus*) — barely real | one of the two principles of every substance |
 
-**Key for cross-paper link:** Plato's critique of democracy (*Republic* VIII) feeds directly into Paper II Forms-of-Government; Aristotle's natural-teleological politics feeds into Paper II's state/individual section. See [`../../paper-2/socio-political/Forms-of-Government.md`](../../paper-2/socio-political/Forms-of-Government.md).
+**Key for cross-paper link:** Plato's critique of democracy (*Republic* VIII) feeds directly into Paper II Forms-of-Government; Aristotle's natural-teleological politics feeds into Paper II's state/individual section. See [`../../paper-2/socio-political/Forms-of-Government.md`](../paper-2/socio-political/Forms-of-Government.md).
 
 ---
 
@@ -350,7 +390,7 @@ Aristotle claims actuality is prior in three senses:
 | 2025 | Q1(a) | 10 marks | “Ideas are timeless and spaceless.” Elucidate this statement with reference to Plato. |
 | 2025 | Q1(b) | 10 marks | “In the empirical world, everything is a compound of Matter and Form.” Evaluate this statement with reference to Aristotle. |
 
-See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
+See the [Western Philosophy PYQ Bank, 2018–2025](../paper-1/_PYQ-Western-Philosophy-2018-2025.md).
 
 ## 12. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 
@@ -404,15 +444,15 @@ Close : The contrast is not merely historical — it recurs in every realism/nom
 
 ## 13. LINK-OUTS
 
-- [`../_themes/Substance-across-western.md`](../_themes/Substance-across-western.md) — Aristotle's *ousia* as the starting point of the entire Western substance thread.
-- [`Rationalism.md`](Rationalism.md) — Descartes/Spinoza/Leibniz on substance (the thread continues from Aristotle).
-- [`Kant.md`](Kant.md) — Kant's categories (causality) and critique of dogmatic metaphysics (both Platonic and Aristotelian).
-- [`../_themes/Causation-across-schools.md`](../_themes/Causation-across-schools.md) — Aristotle's four causes vs Hume's constant conjunction vs Kant's category vs Indian satkāryavāda.
-- [`../indian/Nyaya-Vaisesika.md`](../indian/Nyaya-Vaisesika.md) — Nyāya's atomistic theory of creation + God as efficient cause (compare Unmoved Mover).
-- [`../indian/Samkhya.md`](../indian/Samkhya.md) — Sāṃkhya's satkāryavāda (effect pre-exists in cause) parallels Aristotle's potentiality.
-- Cross-paper: [`../../paper-2/socio-political/Forms-of-Government.md`](../../paper-2/socio-political/Forms-of-Government.md) (Plato on democracy/philosopher-king).
-- Cross-paper: [`../../paper-2/philosophy-of-religion/Proofs-for-God.md`](../../paper-2/philosophy-of-religion/Proofs-for-God.md) (Aristotle's Unmoved Mover → Aquinas's cosmological argument).
-- PYQ bank: [`../_PYQ-Western-Philosophy-2018-2025.md`](../_PYQ-Western-Philosophy-2018-2025.md).
+- [`../_themes/Substance-across-western.md`](../paper-1/_themes/Substance-across-western.md) — Aristotle's *ousia* as the starting point of the entire Western substance thread.
+- [`Rationalism.md`](../paper-1/western/Rationalism.md) — Descartes/Spinoza/Leibniz on substance (the thread continues from Aristotle).
+- [`Kant.md`](../paper-1/western/Kant.md) — Kant's categories (causality) and critique of dogmatic metaphysics (both Platonic and Aristotelian).
+- [`../_themes/Causation-across-schools.md`](../paper-1/_themes/Causation-across-schools.md) — Aristotle's four causes vs Hume's constant conjunction vs Kant's category vs Indian satkāryavāda.
+- [`../indian/Nyaya-Vaisesika.md`](../paper-1/indian/Nyaya-Vaisesika.md) — Nyāya's atomistic theory of creation + God as efficient cause (compare Unmoved Mover).
+- [`../indian/Samkhya.md`](../paper-1/indian/Samkhya.md) — Sāṃkhya's satkāryavāda (effect pre-exists in cause) parallels Aristotle's potentiality.
+- Cross-paper: [`../../paper-2/socio-political/Forms-of-Government.md`](../paper-2/socio-political/Forms-of-Government.md) (Plato on democracy/philosopher-king).
+- Cross-paper: [`../../paper-2/philosophy-of-religion/Proofs-for-God.md`](../paper-2/philosophy-of-religion/Proofs-for-God.md) (Aristotle's Unmoved Mover → Aquinas's cosmological argument).
+- PYQ bank: [`../_PYQ-Western-Philosophy-2018-2025.md`](../paper-1/_PYQ-Western-Philosophy-2018-2025.md).
 
 ---
 

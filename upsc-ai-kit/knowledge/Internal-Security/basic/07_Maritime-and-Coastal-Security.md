@@ -267,7 +267,64 @@ Marine Police" (PDF p. 35).
 - ⚠️ **Mains (15 marks, PYQ-style):** Discuss India's maritime and coastal
   security challenges and the way forward.
 
-## 12. Study links
+## 12. Core answer architecture — sea trade, layered security and port resilience
+
+> **Core firewall:** This Core section independently supports the 2022
+> organisational/procedural route and the 2025 maritime/coastal-security
+> route. The Advanced companion is optional.
+
+### Demand decoder and thesis
+
+**Thesis:** Maritime security protects the sea lanes, offshore interests
+and information/response capacity on which trade depends; coastal security
+is its near-shore subset. A high-quality answer links each threat to the
+right geographic zone, institution, legal route and recovery capability
+instead of listing Navy, Coast Guard and Marine Police together.
+
+### Executable Core spines
+
+**10 marks — organisational and procedural initiatives (2022).** Define
+maritime/coastal distinction; show the maritime-zone ladder; map Navy,
+Coast Guard and State Marine Police; then show coordination through JOCs,
+NC3I, coastal radar/AIS/VTMS, vessel identification and Sagar Kavach.
+Add one legal distinction: Anti-Maritime Piracy Act, 2022 for piracy on
+the high seas/EEZ versus SUA Act, 2002 for unlawful acts against maritime
+navigation/fixed platforms. Qualify that awareness is not interdiction.
+
+**15 marks — sea trade, challenges and way forward (2025).** Start with
+the vulnerability of trade/energy movement through SLOCs without relying
+on an uncited current percentage. Cover five threats: sea-borne terror,
+piracy/armed robbery, smuggling/narco-trafficking, illegal fishing/
+fishermen straying, and port/coastal cyber disruption. Map each to the
+layered architecture and include fishing communities as reporting partners,
+not suspects. End with prevention, preparedness, response and recovery:
+training, drills, port-cyber resilience, interoperable intelligence and
+auditable command clarity.
+
+**20 marks — ports/fishermen/technology comparison.** Compare maritime
+domain awareness (radar, AIS, NC3I, IFC-IOR) with interdiction (vessels,
+crew, boarding authority) and cyber-resilience (port/terminal continuity
+and recovery). State why each capability has a different owner and
+performance indicator.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Coastal security is not the whole maritime-security problem. | Maritime Zones Act zone ladder; Navy/ICG/Marine Police three-tier structure. | Jurisdiction and lead capability change by location. | A simplified tier diagram does not remove operational overlap in a real incident. |
+| The legal response depends on the offence/location. | SUA Act, 2002; Anti-Maritime Piracy Act, 2022. | Maritime terrorism and piracy are not interchangeable labels. | The piracy Act’s jurisdiction must not be applied automatically to territorial-water violence. |
+| Fisher communities are a capability multiplier. | Community reporting, boat registration/identification and coastal-policing role. | Local knowledge can improve early warning and identification. | Monitoring must preserve livelihood, due process and avoid treating every fishing craft as hostile. |
+| A port is both a physical and digital security node. | Port/VTMS and CII/cyber-resilience cross-link to topic 08. | Cargo, access control, operational technology and continuity require a whole-of-system answer. | A cyber incident is not automatically a crime, sabotage or foreign operation. |
+
+### Direct PYQ routes now owned in Core
+
+- **2022 GS-III:** use the 10-mark organisation/procedure spine and a
+  jurisdictional distinction.
+- **2025 GS-III:** use the sea-trade/threat/way-forward spine, showing
+  prevention–preparedness–response–recovery rather than a generic “more
+  patrols” ending.
+
+## 13. Study links
 
 - ✅ Advanced companion: `advanced/07_Maritime-and-Coastal-Security.md`.
 - ✅ `00_Master-Framework.md` Sections 4 and 6 — the root-cause matrix and
@@ -297,3 +354,24 @@ Marine Police" (PDF p. 35).
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2022
+- **Paper(s):** GS-III
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2022 | GS-III | 10 | Maritime security challenges and organisational procedural initiatives India | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Maritime security challenges and organisational procedural initiatives India
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

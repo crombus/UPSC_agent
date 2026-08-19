@@ -124,7 +124,30 @@ usually test them in combination (e.g., impartiality *and* compassion in a welfa
 > operational design choices — impartial procedure, compassionate service delivery, non-partisan
 > conduct under political pressure — not as abstract personal virtues.
 
-## 9. Probable questions
+## 9. Warren Buffett on hiring for integrity (historical demand)
+
+> ⚠️ 2018 GS-IV Q3(b) (historical demand, routed here jointly with `09`): illustrate the idea, widely
+> attributed to Warren Buffett, that when hiring you look for three qualities — **integrity,
+> intelligence and energy** — "and if they don't have the first, the other two will kill you."
+> **Attribution caution:** Buffett himself introduces the line as "somebody once said," and its
+> traceable published form is a 1994 *Omaha World-Herald* report of his 1993 Columbia Business
+> School remarks — treat it as a widely repeated and endorsed teaching of his, not an originally
+> coined Buffett aphorism.
+
+- ⚠️ **Administrative translation:** intelligence and energy (capability, drive, initiative) are
+  *force-multipliers* — they amplify whatever the underlying disposition already is. Without
+  integrity, a highly capable and energetic official becomes more effective at concealment,
+  favouritism or embezzlement, not less likely to attempt it — directly reinforcing why integrity
+  is listed first, not last, among GS-IV's foundational values (Section 2).
+- ⚠️ **Selection-and-recruitment application:** competitive examinations test intelligence, and
+  probation/performance review tests energy/dedication, but **integrity is structurally the
+  hardest of the three to test at entry** — which is why continuous institutional safeguards
+  (asset declarations, vigilance clearance, 360-degree feedback under Mission Karmayogi) exist to
+  monitor integrity *throughout* a career, not only at recruitment.
+- ⚠️ Cross-link: `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` treats this quotation's
+  paired 2018 demand — the actual/potential/apparent conflict-of-interest taxonomy — in full.
+
+## 10. Probable questions
 
 - ⚠️ **Prelims:** Distinguish empathy, sympathy and compassion as used in civil-service ethics.
 - ⚠️ **Mains (10 marks):** How can a civil servant balance impartiality with compassion towards
@@ -132,7 +155,51 @@ usually test them in combination (e.g., impartiality *and* compassion in a welfa
 - ⚠️ **Mains (15 marks):** "A civil servant must act as an enabler and facilitator rather than a
   regulator." Discuss with specific administrative measures.
 
-## 10. Study links
+## 11. Selectable named evidence/application units
+
+> Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.
+
+1. *Claim:* Integrity is the non-negotiable precondition, not one value among equals. *Evidence:*
+   the Buffett hiring dictum (Section 9). *Significance:* justifies asset-declaration and vigilance
+   clearance as continuous, not one-time, checks. *Limitation:* integrity is the hardest of the
+   three qualities to test objectively at entry.
+2. *Claim:* Compassion must be designed into service delivery, not left to individual sentiment.
+   *Evidence:* doorstep pension verification for elderly/disabled applicants. *Significance:* shows
+   how a felt value becomes an assessable administrative output. *Limitation:* doorstep schemes
+   raise their own verification/fraud-risk trade-offs that must be separately managed.
+3. *Claim:* Non-partisanship is tested hardest during political transition. *Evidence:* a returning
+   officer applying identical scrutiny to all candidates regardless of party. *Significance:*
+   operationalises impartiality under real, not hypothetical, pressure. *Limitation:* formal
+   even-handedness alone does not correct pre-existing structural disadvantage among candidates/
+   voters — it is necessary but not sufficient for substantive fairness.
+4. *Claim:* Institutional training can systematise foundational-values acquisition. *Evidence:*
+   Mission Karmayogi's FRAC competency framework and iGOT-Karmayogi platform (Cabinet approval, 2
+   September 2020). *Significance:* moves values training from informal socialisation to a
+   structured, trackable competency system. *Limitation:* platform completion metrics (courses,
+   users) measure training uptake, not verified behavioural change in the field.
+5. *Claim:* "Enabler, not regulator" requires calibration, not blanket application. *Evidence:*
+   ✅ 2025 GS-IV Q5(b)'s civil-servant-as-facilitator framing for holistic development.
+   *Significance:* shows dedication to service today includes proactive outcome-enabling.
+   *Limitation:* pure facilitation without regulatory backstops risks regulatory capture in
+   sectors requiring safety/equity enforcement.
+
+## 12. Executable directive decoding and answer architecture
+
+| Directive word | What is tested | Structural move |
+|---|---|---|
+| **Describe / Distinguish** | Precise, separated definitions | Define each term -> show the operative difference with one example each |
+| **Discuss** | Balanced treatment with a position | State the value -> mechanism -> Indian example -> limitation -> reasoned conclusion |
+| **How can X balance Y with Z** | Reconciliation, not an either/or choice | Name the tension -> show it is not zero-sum -> propose the calibrated design (Section 3-4) -> Indian example |
+
+**10-mark architecture (~150 words):** name the foundational value precisely -> the specific
+institutional/procedural mechanism that operationalises it -> one Indian example (Section 11) ->
+one limitation -> one-line conclusion.
+
+**Counterpoint and reasoned verdict (template):** "[Named value] is essential, but without [named
+institutional safeguard] it risks [specific failure mode]; a calibrated design that [specific
+measure] best reconciles the competing demands."
+
+## 13. Study links
 
 - ✅ Advanced companion: `advanced/04_Aptitude-and-Foundational-Values-for-Civil-Service.md`.
 - ✅ `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — Nolan principles in full.
@@ -163,3 +230,34 @@ usually test them in combination (e.g., impartiality *and* compassion in a welfa
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2021
+- **Paper(s):** GS-IV
+- **Routed question demands:** 6
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 1 | (a) three basic values universal in civil services and their importance; (b) distinction between code of ethics and code of conduct | Describe/Distinguish · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 3 | (a) conflict of interest - actual vs potential with examples; (b) Warren Buffett quote on integrity intelligence and energy for hiring | Illustrate/Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 1 | (a) basic principles of public life with examples; (b) meaning of public servant and expected role | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 7 | Rescue officer in severe natural calamity - team members assaulted by angry crowd - some plead to call off operations; what will be your response and what qualities of public servant are required | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 1 | (a) five ethical traits for plotting civil servant performance on a matrix; (b) ten essential values for effective public servant and means to prevent non-ethical behaviour | Identify / Describe · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-IV | 5 | (a) refugees must not be returned to face persecution - examine ethical dimensions violated by nations claiming to be democratic; (b) impartiality and non-partisanship as indispensable civil servant qualities | Examine / Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) three basic values universal in civil services and their importance; (b) distinction between code of ethics and code of conduct
+- (a) conflict of interest - actual vs potential with examples; (b) Warren Buffett quote on integrity intelligence and energy for hiring
+- (a) basic principles of public life with examples; (b) meaning of public servant and expected role
+- Rescue officer in severe natural calamity - team members assaulted by angry crowd - some plead to call off operations; what will be your response and what qualities of public servant are required
+- (a) five ethical traits for plotting civil servant performance on a matrix; (b) ten essential values for effective public servant and means to prevent non-ethical behaviour
+- (a) refugees must not be returned to face persecution - examine ethical dimensions violated by nations claiming to be democratic; (b) impartiality and non-partisanship as indispensable civil servant qualities
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

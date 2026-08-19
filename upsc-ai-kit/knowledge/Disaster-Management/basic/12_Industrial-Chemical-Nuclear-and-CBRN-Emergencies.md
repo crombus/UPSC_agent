@@ -211,3 +211,33 @@ systems" (PDF p. 51).
   DM Act institutional architecture; topic 13 develops the biological/
   public-health emergency interface; topic 17 develops relief/
   rehabilitation operations for industrial-disaster victims.
+
+## 13. Core-only answer architecture — prevention, specialised command and NaTech
+
+> **Core firewall:** an industrial/CBRN answer must identify the hazard
+> class, prevention control, specialised command, public protection and
+> recovery. It cannot be answered by saying “NDRF should respond.”
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Industrial accidents are preventable system failures across a life cycle. | Hazard source chain: extraction/processing/manufacture/transport/storage/disposal; process safety, inventory reduction, safety audit, on-site/off-site plans and buffer zones. | Links prevention to the specific failure point rather than only post-release relief. | A rule, audit or buffer-zone recommendation is not proof of compliance, maintenance or safe relocation. |
+| Chemical, nuclear/radiological and biological emergencies need different specialist regimes. | Chemical Accident Rules 1996/Central Crisis Group; PLI Act no-fault civil relief; AERB/DAE CMG and time-distance-shielding-containment; biological response cross-links to NCDC/MoHFW. | Prevents a generic all-hazards answer from erasing technical command and decontamination/medical differences. | CBRN is a category; do not merge chemical risk, radiological exposure and biological transmission mechanisms. |
+| Natural and technological risk can cascade. | **2001 Kandla earthquake–acrylonitrile release** and **1999 Odisha cyclone–phosphoric-acid-sludge containment damage** in VisionIAS. | Provides named NaTech evidence that plant safety cannot ignore flood, quake or cyclone exposure. | These cases establish a risk-assessment lesson, not that every facility suffered the same failure. |
+| Recovery includes remediation, liability and health surveillance. | PLI Act/Environmental Relief Fund, oil-spill containment/bioremediation, and the CPCL Chennai 2023 spill as a bounded Indian case. | Extends the answer beyond evacuation to accountability and long-term harm. | Do not quote MAH-unit counts, contamination extent or compensation figures without dated official sources. |
+
+### 13.2 Executable spines
+
+- **10 marks — chemical accident:** identify release/fire/explosion
+  pathway → prevention (process safety, audit, inventory, siting) →
+  preparedness (plans, drills, information) → isolate/evacuate/
+  decontaminate/triage → remediation and no-fault relief.
+- **15 marks — CBRN/industrial governance:** use a hazard-specific
+  table: chemical/Crisis Group, radiological/DAE-AERB, biological/NCDC,
+  then add NaTech exposure and buffer-zone equity. State enforcement and
+  response capability separately from statutory coverage.
+- **20 marks — critically examine regulation:** thesis that dense law is
+  necessary but enforcement, land-use and cascade screening decide
+  safety. Use Kandla/Odisha NaTech evidence, CPCL as current case,
+  prevention versus relocation trade-off and a BBB/remediation verdict.

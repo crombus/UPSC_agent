@@ -118,7 +118,11 @@ elected. Called "**His Superfluous Highness**" by some scholars.
 held that courts cannot create rigid timelines or automatic deemed assent, while prolonged,
 unexplained and indefinite gubernatorial inaction remains open to limited judicial review.
 📰 ⚠️ Debate over **President's/Governor's discretion**, mercy-petition delays, and
-**re-promulgation of ordinances** (D.C. Wadhwa doctrine) recur. 📰 **VP election 2022** — Jagdeep Dhankhar.
+**re-promulgation of ordinances** (D.C. Wadhwa doctrine) recur. 📰 **VP transition 2025** —
+after Jagdeep Dhankhar's resignation, C. P. Radhakrishnan was elected on 9 September 2025
+and entered office on 12 September 2025. Article 68 requires a casual VP vacancy to be
+filled **as soon as possible**, gives the successor a fresh five-year term, and contains
+no six-month outer deadline.
 
 ## Mains angles
 - "The President is a rubber stamp." Critically examine the situational discretion of the office.

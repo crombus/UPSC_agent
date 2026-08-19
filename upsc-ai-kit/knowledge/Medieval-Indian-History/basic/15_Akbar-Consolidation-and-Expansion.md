@@ -84,3 +84,37 @@
 - ⚠️ Explain how Akbar converted a fragile post-Humayun state into a durable empire.
 - ⚠️ Assess the Rajput alliance as a policy of political integration.
 - ⚠️ Compare Akbar's methods in Gujarat and Bengal with Humayun's earlier failures.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Examine Akbar's consolidation | "Akbar transformed a fragile inheritance into a durable empire through a three-stage process: military reconquest (Panipat II), suppression of internal factions (Uzbek rebellions), and systematic integration of regional elites (Rajput alliance, composite nobility)." |
+| Assess Rajput policy | "The Rajput alliance was political engineering: it converted potential adversaries into high-ranking partners, widened the loyalty base and extended Mughal reach into Rajasthan without permanent garrisons — but rested on continued patronage and honour." |
+| Compare with Humayun | "Where Humayun expanded without consolidating, Akbar consolidated before expanding — the contrast demonstrates that state-building requires institutional depth (revenue, nobility structure, local alliances), not merely military victories." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Panipat II (1556): Hemu defeated after being hit by an arrow | Military reconquest restored Mughal authority | Shows contingency in battle outcomes | Arrow-hit narrative may overstate luck vs generalship |
+| 2 | ✅ Bairam Khan's regency (1556–60): rallied nobles, controlled factions | Regency provided stability during minority | Institutional continuity bridged the weakest phase | Bairam's fall also shows limits of regent-based governance |
+| 3 | ✅ Chittor (1568): key fort, symbolic of Rajput resistance; fell after siege and massacre | Military power backed the integration offer | Demonstrates that alliance was preferred but force was available | Massacre qualifies purely "integrationist" narratives |
+| 4 | ✅ Gujarat conquest (1572–73): fertile soil, crafts, ports; Akbar saw the sea at Cambay | Economic motives drove expansion | Links politics to revenue/trade considerations | Gujarat required repeated suppression of revolts |
+| 5 | ✅ Rajput alliance: matrimonial ties + mansabs + governorships + jagirs | Integration converted foes into partners | Explains durability: shared interest, not merely military dominance | Mewar's refusal shows the system was not universally accepted |
+
+### 8.3 Counterpoints
+
+- ⚠️ Garh-Katanga campaign (Rani Durgavati's death, severe plunder) and Chittor massacre qualify triumphalist integration narratives.
+- ⚠️ Rajput alliance worked because Akbar invested honour; its erosion under Aurangzeb shows it was personality-dependent.
+- ⚠️ Bengal required continuous Mughal attention and never became fully pacified in this period.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Panipat II + Rajput alliance (2–3 units); conclude: reconquest + integration together made durability.
+- **15-mark:** Add Gujarat economics + Bairam Khan phase + Chittor qualification.
+- **20-mark:** Full 5-unit + compare with Humayun's failures + critique of "benevolent integration" narrative; graded verdict.

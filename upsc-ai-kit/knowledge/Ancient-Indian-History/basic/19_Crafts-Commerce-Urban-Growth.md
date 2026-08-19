@@ -75,6 +75,42 @@
 - ⚠️ Explain how craft specialization, guild finance and coinage together created early historic urban growth.
 - ⚠️ Link Buddhist caves/monasteries with merchants: religion acted as a node in commercial networks.
 - ⚠️ Show continuity and change: Harappan maritime memory, NBPW towns, post-Mauryan trade boom and modern maritime heritage.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Ancient Indian urban growth was sustained by craft specialisation, monetisation and long-distance exchange rather than by political power alone." |
+| Critically examine | "Commercial expansion deepened urban life, but it was uneven across regions and never fully displaced agrarian foundations or local exchange." |
+| Compare / evaluate | "The strongest answer links guilds, coins, routes and technologies to the wider process of second urbanisation and post-Mauryan commercial growth." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** craft surplus -> market exchange -> monetisation -> urban nodes
+- **For comparison Qs:** internal trade vs overseas trade; state-backed centres vs market-driven growth
+- **For evaluate Qs:** growth drivers -> regional unevenness -> qualified verdict on urbanisation
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Crafts and guilds underpinned urban life | ✅ Shrenis and specialised artisan production | Gives an institutional base to commerce | Guild autonomy varied by region and period |
+| 2 | Coins widened exchange circuits | ✅ Punch-marked, Kushana and Gupta coin traditions | Shows monetisation and state-commercial linkage | Coin circulation was not uniform everywhere |
+| 3 | Overseas trade fed specific urban clusters | ✅ Arikamedu, Periplus and Roman gold-drain complaints | Cross-verifies maritime trade significance | Literary testimony may exaggerate scale |
+| 4 | Trade technologies need cautious handling | ⚠️ Araghatta and hundi/credit references | Adds mechanism to economic answers | Terminology and first attestation remain debated |
+
+### Counterpoint and balance
+
+- Avoid claiming that all urban growth was caused by foreign trade.
+- Avoid writing monetisation as total replacement of barter or customary exchange.
+
+### Verdict framing
+
+- End by showing urban growth as the product of production, circulation and nodal concentration.
+- A qualified verdict should stress both expansion and regional unevenness.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 
@@ -115,6 +151,33 @@
 ### What this owner must now support
 
 - The 'Araghatta' irrigation device
+- Pali textual and archaeological evidence for coins and money economy
+
+### Substantive coverage: Araghatta
+
+✅ **Araghatta** (also *araghaṭṭa*) refers to a **Persian wheel/water-lifting device** used for irrigation, operated by animal power (typically bullocks). The device uses an endless chain of pots or buckets revolving over a wheel to lift water from a well to a higher irrigation channel.
+
+- ✅ R.S. Sharma notes the importance of irrigation devices in post-Mauryan and Gupta agricultural expansion. The *araghatta* is mentioned in later Sanskrit and Prakrit literature as a mechanical irrigation device.
+- ⚠️ The term appears in texts from the early centuries CE onward; its exact first attestation is debated. It should be distinguished from simple well-drawing (*ghati-yantra*) and from large-scale Mauryan/post-Mauryan canal irrigation.
+- ⚠️ **UPSC distinction:** Araghatta = animal-powered water wheel for lifting well water; it is NOT a dam, canal or reservoir. Students must distinguish it from other irrigation systems like *vapi* (step-well/tank), *kupa* (well), *setu* (embankment/dam) and *kulya* (channel).
+- ✅ The device represents a technological improvement over manual water-lifting and facilitated year-round irrigation in areas without river-fed canals.
+
+### Substantive coverage: Hundi
+
+✅ **Hundi** (*hundika/hundī*) refers to an **instrument of credit/exchange** — essentially an early form of a bill of exchange or promissory note used by merchants and traders. RS Sharma's discussion of crafts, commerce and urban growth notes that financial instruments developed alongside trade expansion.
+
+- ⚠️ The hundi system is attested in texts from the **post-Harsha/early medieval period** onward; a 2020 Prelims question placed it in post-Harsha period sources.
+- ⚠️ **UPSC distinction:** A hundi is NOT a coin or physical currency; it is a written credit instrument, a merchant's undertaking to pay a specified amount, facilitating long-distance trade without physical transfer of bullion.
+- ⚠️ **Limitation:** The exact earliest textual attestation of *hundi* as a formal instrument is debated between early medieval and medieval periods. RS Sharma treats the commercial world of 200 BC–AD 250 as coin-and-trade based; the hundi as a fully developed instrument is better placed in the post-Gupta/early medieval commercial world. This file acknowledges the concept but cannot pin its origin precisely within this chronological window.
+
+### Substantive coverage: Pali coin terms and money economy
+
+✅ R.S. Sharma notes that Pali texts give **early definite coin terms**: **kahapana, nikkha, kamsa, pada, masaka and kakanika**. These are corroborated by archaeological finds of mostly silver punch-marked coins.
+
+- ✅ The money economy is linked to the rise of towns, craft specialisation and long-distance trade in the age of the Buddha (c. 6th–5th century BC onward).
+- ✅ **Punch-marked coins** are the earliest coins archaeologically recovered in India; they carry symbols but no legends.
+- ⚠️ The Pali textual terms confirm that a monetary economy existed alongside barter; the terms indicate different denominations/units of value.
+- ✅ Archaeological confirmation comes from hoards of punch-marked silver coins found at NBPW-phase sites in the Gangetic valley.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

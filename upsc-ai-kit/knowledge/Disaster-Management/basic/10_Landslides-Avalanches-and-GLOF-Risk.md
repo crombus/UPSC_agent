@@ -267,3 +267,38 @@ Research Establishment (DGRE), not treated as a sub-type of landslide.
   linked seismic risk feeding into landslide triggers; topic 04
   develops multi-hazard early-warning generally; topic 15 develops the
   climate-linked glacial-retreat/adaptation dimension.
+
+## 13. Core-only answer architecture — mapped, cascading Himalayan risk
+
+> **Core firewall:** the 2019/2021 landslide routes terminate here.
+> “Himalayas are fragile” alone is not an answer: Core supplies a
+> comparison, a zonation mechanism, a named strategy and a qualified
+> development verdict.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Landslide risk is a hazard–slope–development interaction. | Young/friable, tectonically active Himalaya; intense rain, earthquakes, road cutting, deforestation, shifting cultivation and slope loading. | Converts physical description into an exposure/vulnerability argument. | Do not imply every Himalayan road or rainfall event causes a slide; use site-specific assessment. |
+| Himalayan and Western-Ghat cases share rainfall/slope risk but differ in setting. | Himalaya: young, seismic, high-relief terrain and development pressure; Western Ghats/Nilgiris: steep weathered slopes under intense monsoon rain, compounded by road cutting/deforestation. | Directly answers the 2021 “differentiate” directive rather than listing one common cause. | Physical-process depth belongs to Geography; this file owns the risk-management comparison. |
+| Zonation changes decisions before a failure. | GSI susceptibility mapping, NDMA National Landslide Risk Management Strategy (2019), construction/road/settlement restrictions in high-vulnerability zones. | A map becomes a land-use, monitoring and evacuation decision tool. | A susceptibility map is not a site-specific forecast or a substitute for enforcement. |
+| Himalayan mass-movement hazards require separate warning/mitigation chains. | Landslide/cloudburst; DGRE avalanche warnings; GLOF lake/dam-failure mechanism, NDMA GLOF guidelines and NGRMP. | Prevents the common landslide–avalanche–GLOF conflation. | Operational versus experimental forecast coverage and dynamic lake lists must be dated; do not claim nationwide warning. |
+
+### 13.2 Executable spines
+
+- **10 marks — 2021 Himalaya versus Western Ghats:** write a two-column
+  comparison (geology/relief and seismicity; rainfall/weathering; human
+  interventions; response tool), then one shared conclusion:
+  risk-sensitive siting, drainage and slope management are needed in
+  both but cannot be one-size-fits-all.
+- **15 marks — 2019/2021 zonation/NLRMS route:** thesis that mapping is
+  a preventive governance instrument. Explain inputs (slope, geology,
+  rainfall, seismicity, land use), translate very-high/high zones into
+  no/conditional construction, monitoring, drainage and evacuation,
+  name GSI/NLRMS and include the enforcement/settlement trade-off.
+- **20 marks — Himalayan development and cascading risk:** use
+  earthquake → landslide → blockage/outburst, cloudburst → flash flood →
+  landslide, and glacial retreat → GLOF chains. Balance roads, tourism
+  and hydropower livelihoods against carrying capacity, risk screening,
+  warnings and downstream evacuation; conclude with risk-informed rather
+  than blanket anti-development planning.

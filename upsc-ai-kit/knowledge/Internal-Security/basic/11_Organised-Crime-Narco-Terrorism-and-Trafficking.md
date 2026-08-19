@@ -289,7 +289,79 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
   emerged as a serious threat across the country and suggest measures to
   counter it.
 
-## 12. Study links
+## 12. Core answer architecture — networks, routes, money and victim protection
+
+> **Core firewall:** This Core section independently supports the 2018 and
+> 2022 nexus routes, the 2024 narco-terrorism route and its 2026 Prelims
+> routing. Advanced material is safely optional.
+
+### Demand decoder and thesis
+
+**Thesis:** Organised crime and terrorism differ in primary end-state
+(profit/parallel economy versus political/ideological coercion), but can
+share routes, facilitators, weapons, corruption and financial systems.
+Narco-terrorism is the intersection — not a synonym for drug use or a
+claim that every narcotics case is terrorism.
+
+### Executable Core spines
+
+**15 marks — drug trafficking, money laundering and human trafficking
+(2018).** Build a network diagram: source/transit route → recruiter or
+cartel → transport/document/corrupt facilitation → exploitation/proceeds
+→ laundering/asset concealment. Give separate legal/institutional legs:
+NDPS/NCB/NCORD for narcotics, BNS sections 143–144/AHTUs for trafficking,
+PMLA/FIU/ED for proceeds. End with a survivor-centred qualification:
+victim protection and rehabilitation cannot be reduced to an enforcement
+metric.
+
+**10 marks — transnational crime-terror linkages (2022).** Begin with the
+means–ends distinction; explain four shared links — finance, logistics,
+weapons/technology and territorial/corrupt protection — at national and
+transnational scales. Use UNTOC/Interpol cooperation and follow-the-money
+action as targeted responses, then say why a seizure is not a network
+outcome.
+
+**10 marks — narco-terrorism (2024).** Define the nexus; use
+Golden Crescent/Golden Triangle route exposure plus regional variation
+(North-East extortion/trafficking, J&K externally enabled model, other
+route-based networks); map NCORD, ANTF, NCB, NDPS Chapter VA, PMLA and
+NIA routes. Close: current policy goals and seized quantities are inputs,
+not proof of a drug-free or terror-free outcome.
+
+**20 marks — future technology/rights question.** Pair darknet, crypto,
+drone and maritime vectors with financial investigation, digital
+forensics, ports/border coordination and due process; separately protect
+trafficked people and avoid treating them as criminal facilitators.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| The nexus shares means without erasing distinct ends. | Singh’s parallel-economy versus status-quo-altering distinction. | A response can target a shared route while preserving legal diagnosis. | Do not call every cartel or informal remittance a terror group. |
+| Asset action must be evaluated by stage. | NDPS Chapter VA; PMLA property ladder; financial-investigation role of ANTF. | Follow-the-money requires parallel investigation beyond interception. | Seizure/destruction is enforcement activity, not conviction, forfeiture or prevalence reduction. |
+| Trafficking has a security and a rights dimension. | BNS sections 143–144, Article 23, AHTUs and UNTOC Protocols. | Network disruption and survivor protection must both appear in a strong answer. | Smuggling of migrants and trafficking are legally distinct. |
+| Newer vectors alter the method, not the test. | 2026 Drug Control Vision’s darknet/crypto/drone focus. | Technology requires capacity matched to route and money flow. | A policy document/goal is not a measured outcome. |
+
+### Routed Prelims safety — INTERPOL notices (2026)
+
+- **Silver:** identify and trace criminal assets; **Blue:** obtain
+  additional information on identity, location or activities in a criminal
+  investigation; **Black:** seek information on unidentified bodies;
+  **Green:** warn about a person’s criminal activities/public-safety
+  risk. These are international cooperation notices/requests, not
+  convictions or arrest warrants by themselves.
+- The 2026 key is provisional in the local ledger. The definitions above
+  support statement-level reasoning; this file records no inferred option
+  letter.
+
+### Direct PYQ routes now owned in Core
+
+- **2018 GS-III:** use the route–proceeds–victim-protection spine.
+- **2022 GS-III:** use the four-link means/ends comparison.
+- **2024 GS-III:** use the narco-terrorism spine with region-specific,
+  not generic, measures.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/11_Organised-Crime-Narco-Terrorism-and-Trafficking.md`.
@@ -341,3 +413,26 @@ circumstantial... rather than [a] zealous revisionist policy" (PDF pp.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2022
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 20 | Drug trafficking linkages with money laundering and human trafficking | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 9 | Linkages between organised crime and terrorism at transnational levels | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Drug trafficking linkages with money laundering and human trafficking
+- Linkages between organised crime and terrorism at transnational levels
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -112,6 +112,14 @@ common structure: recognise identity → prohibit discrimination → deliver wel
   for long-term economic integration; SMILE's skill-development component is the
   livelihood pathway.
 
+- ✅ **Scale/data caution:** Census 2011 recorded 4,87,803 people in the residual
+  "other" sex category, often used as a transgender-population anchor. It is incomplete
+  because some transgender persons may have been recorded as male/female and the
+  category was not identity-perfect.
+- ✅ **Commission anchors:** the Renke Commission (2008) and Idate Commission examined
+  denotified, nomadic and semi-nomadic communities; they documented historical stigma
+  and welfare invisibility, while weak enumeration limits targeting.
+
 ## 6. Must-Know Facts for Prelims
 
 - ✅ The Transgender Persons (Protection of Rights) Act was enacted in 2019; Rules
@@ -177,6 +185,24 @@ common structure: recognise identity → prohibit discrimination → deliver wel
 - ⚠️ **Mains (15 marks):** "Denotified and Nomadic Tribes remain invisible in India's
   welfare architecture despite the repeal of the Criminal Tribes Act in 1952." Critically
   analyse with reference to recent policy interventions.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+- **Transgender rights:** *NALSA* recognised self-identified gender and dignity; the
+  2019 Act/2020 Rules create statutory protection and certification. Do not invent a
+  uniform national horizontal-reservation rule; retain State/court status.
+- **DNT evidence:** Criminal Tribes Act stigma survived repeal; Renke and Idate
+  Commissions provide named diagnosis/recommendations, while weak enumeration constrains
+  targeting.
+- **Mechanism:** document mismatch -> school/work exclusion -> weak housing/health ->
+  violence -> further documentation difficulty.
+
+**10 marks:** recognition plus 2-3 barriers. **15 marks:** identity, representation,
+education, health, livelihood and policing. **20 marks:** compare transgender/DNT
+exclusion using recognition, redistribution, representation and data limits.
+
+> **Reasoned verdict:** Recognition needs enforceable anti-discrimination, documents,
+> representation and material capability.
 
 ## 12. Study links
 

@@ -61,6 +61,15 @@ education, employment, mobility and public life.
 | ✅ **Accessible India / SIPDA** | Sugamya Bharat's accessibility framework covers built environment, transport and ICT. Since March 2024, accessibility work is carried through the Scheme for Implementation of the RPwD Act (SIPDA); do not present the earlier campaign label as proof of a separate current programme. |
 | ✅ **ADIP (Assistance to Disabled Persons for Purchase/Fitting of Aids and Appliances)** | A scheme providing assistive devices (wheelchairs, hearing aids, artificial limbs, etc.) to PwDs to enhance their mobility, independence and participation. |
 
+### Medical, social and rights models
+
+- ⚠️ The **medical model** locates disability mainly in impairment and treatment.
+- ⚠️ The **social model** locates disabling disadvantage in inaccessible environments,
+  institutions and attitudes.
+- ✅ The RPwD/UNCRPD **rights model** adds enforceable equality, autonomy, accessibility
+  and reasonable-accommodation duties; impairment may remain, but exclusion is not
+  treated as inevitable.
+
 ## 3. How disability rights and welfare work (mechanism)
 
 1. **Recognition and certification:** A medical authority certifies the type and extent
@@ -186,6 +195,26 @@ education, employment, mobility and public life.
   paradigm shift from welfare to rights." Critically examine this statement with
   reference to the Act's key provisions and implementation challenges.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+The **2022 GS-II** RPwD Act/sensitisation demand is owned here, superseding
+`advanced/11`.
+
+- **Cases:** *Vikash Kumar v. UPSC* treated reasonable accommodation as equality, not
+  charity; *Jeeja Ghosh* connected dignity/non-discrimination to air-travel treatment.
+- **Universal design:** widest usability from inception; individual accommodation remains
+  necessary where a specific barrier survives.
+- **Institutions:** Chief Commissioner monitors/inquires under RPwD; the disability
+  development-finance corporation is a credit/livelihood route, not the regulator or
+  accessibility mission.
+
+**10 marks:** accommodation, one case and two examples. **15 marks:** law, accessibility,
+education, employment, attitudes and grievance institutions. **20 marks:** medical,
+social and rights models, universal design, intersectionality and enforceability.
+
+> **Reasoned verdict:** Inclusion requires institutions to remove preventable barriers
+> and provide individual accommodation.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/11_Persons-with-Disabilities.md`.
@@ -217,3 +246,24 @@ education, employment, mobility and public life.
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2022
+- **Paper(s):** GS-II
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2022 | GS-II | 7 | Rights of Persons with Disabilities Act 2016 and sensitisation | Comment · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Rights of Persons with Disabilities Act 2016 and sensitisation
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

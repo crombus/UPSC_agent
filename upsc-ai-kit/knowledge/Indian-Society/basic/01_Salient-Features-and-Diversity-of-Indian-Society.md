@@ -183,6 +183,156 @@ that no single identity always predicts deprivation.
 - ✅ `14_Regionalism.md` — the exact diversity-vs-disparity distinction (2024 Q17).
 - ✅ `13_Communalism.md` — when religious diversity turns into mobilisation and conflict.
 - ✅ `15_Secularism.md` — syncretism and shared public space as lived practice.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> Core-only. Everything needed to write a directive-sensitive, thesis-led answer on
+> diversity, plurality, cultural continuity and diversity-linked marginality is in this
+> section. `advanced/01` adds optional refinement (cross-cutting cleavage theory,
+> recognition-versus-redistribution) and is not required to score.
+
+### 13.1 Directive-to-structure map
+
+| Directive | What is actually being tested | Structure that scores |
+|---|---|---|
+| **Discuss** (what makes Indian society unique / sustains its culture) | Whether you can name *mechanisms* of continuity, not adjectives | Mechanism-by-mechanism: transmission → accommodation → adaptation → institutional carriers, each with an example |
+| **Critically analyse** (diversity–marginality correlation) | Whether you will test the proposition, not restate it | Proposition → supporting cases → counter-cases → causal reframing → conditional verdict |
+| **Examine / Elucidate** (unity in diversity, integration) | Whether you separate the fact of difference from the outcome of cohesion | Two-column: integrative mechanism vs marginalising pressure, then the condition that decides which dominates |
+| **Distinguish / Differentiate** (diversity vs plurality vs disparity vs marginality) | Definitional precision under time pressure | Definition → Indian instance → the error the distinction prevents, four times |
+| **Comment / Justify** (is diversity a strength or a strain?) | Whether you take a qualified position | Thesis first, then the condition under which each side holds |
+
+### 13.2 Thesis bank (pick one, then defend it)
+
+- **T1 (correlation questions):** ⚠️ Diversity is a *marker*, not a *mechanism*, of marginality;
+  the correlation holds only where identity axes reinforce historical exclusion and
+  geographic remoteness on the same household.
+- **T2 (continuity questions):** ⚠️ Indian culture has persisted less through insulation than
+  through **accommodative absorption** — the capacity to add a tradition without
+  extinguishing the previous one, carried by decentralised transmission institutions.
+- **T3 (cohesion questions):** ⚠️ Cohesion in India is produced not by the absence of
+  difference but by the presence of *cross-cutting* difference plus institutions that keep
+  difference from converting into permanent deprivation.
+- **T4 (policy questions):** ⚠️ Diversity policy fails when it supplies recognition where
+  redistribution was needed, or the reverse; the diagnosis must precede the instrument.
+
+### 13.3 Mark-scaled spines
+
+**10 marks / 150 words — "What makes Indian society unique in sustaining its culture?"**
+1. One-line thesis (T2). 2. Layered, not replaced: four axes coexisting (language,
+religion, region, caste/tribe). 3. Transmission carriers: family and jati socialisation,
+ritual calendar, pilgrimage and festival circuits, oral–textual dual transmission.
+4. Accommodation: syncretic idioms (Sufi–Bhakti, shared shrines) absorbing new traditions.
+5. Adaptation: composite regional cultures (Onam, Bihu, Pongal) renewing continuously.
+6. Qualification: continuity is not uniformity — hierarchy and exclusion persisted inside
+the same continuity. 7. Verdict sentence.
+
+**15 marks / 250 words — "Critically analyse the high correlation between cultural
+diversities and socio-economic marginalities" (2024 GS-I Q20).**
+1. State the proposition exactly. 2. Where it holds — reinforcing cases (E1, E2).
+3. Where it fails — cross-cutting counter-cases (E3, E4). 4. Causal reframing: exclusion and
+remoteness are the mechanism; identity is the visible marker (E5). 5. Measurement caution:
+Census stock vs survey estimate; aggregation masks sub-group reality. 6. Policy implication:
+target the exclusion mechanism, not the identity marker. 7. Conditional verdict — accept the
+proposition *where cleavages reinforce*, reject it as a universal law.
+
+**20 marks — "Diversity, plurality and cohesion in India: a critical assessment."**
+Add to the 15-mark spine: (a) the four-way distinction of §13.5; (b) a period dimension —
+pre-Independence composite culture, linguistic reorganisation, present-day contestation;
+(c) the integration-gap diagnosis from `00_Master-Framework.md` §4; (d) a cross-owner
+synthesis paragraph — `14_Regionalism.md` for disparity, `13_Communalism.md` for
+mobilisation, `15_Secularism.md` for coexistence — with each borrowing labelled.
+
+### 13.4 Evidence bank — `claim → named evidence → significance → limitation`
+
+- **E1 — Reinforcing cleavage.** *Claim:* diversity converts to marginality when
+  disadvantages stack. *Evidence:* Particularly Vulnerable Tribal Groups — MoTA's list dated
+  9 July 2024 identifies **75 PVTGs in 18 States and the UT of Andaman & Nicobar Islands**,
+  with legacy criteria including pre-agricultural technology, low literacy and subsistence
+  economy. *Significance:* identity distinctiveness, remoteness and asset-poverty coincide in
+  one population, so the correlation is strongest here. *Limitation:* the criteria are
+  administrative policy categories, not a ranking of communities, and PVTG conditions vary
+  by state.
+- **E2 — Scale of the diverse population.** *Claim:* diversity in India is a
+  structural, not a residual, fact. *Evidence:* at **Census 2011** — the last completed full
+  count — Scheduled Tribes were about **8.6%** and Scheduled Castes about **16.6%** of the
+  population. *Significance:* a quarter of the population sits inside constitutionally
+  recognised historically excluded categories, so diversity questions are also distribution
+  questions. *Limitation:* a 2011 **stock**, not a current estimate; Census 2027 has produced
+  no results as of the volatile-source check.
+- **E3 — Diversity without marginality.** *Claim:* cultural distinctiveness does not
+  predict deprivation. *Evidence:* prosperous linguistic-minority trading communities in
+  metropolitan India, and several Sikh and Jain business communities. *Significance:* these
+  break any deterministic reading of the proposition. *Limitation:* ⚠️ analytical group-level
+  illustration; do not attach an invented income or share figure to it.
+- **E4 — Marginality without conspicuous diversity.** *Claim:* deprivation is not always
+  identity-marked. *Evidence:* a landless labouring household of the locally *dominant*
+  caste in a poor region. *Significance:* shows class-based marginality operating without a
+  distinct cultural marker, so the correlation is not symmetric. *Limitation:* ⚠️ illustrative
+  case, not a prevalence claim.
+- **E5 — Linguistic depth as continuity evidence.** *Claim:* India sustained diversity
+  through recognition rather than suppression. *Evidence:* Census 2011 rationalised over
+  **19,500 raw mother-tongue returns into 121 languages** spoken by 10,000 or more persons;
+  the **Eighth Schedule lists 22 languages**; the **States Reorganisation Act, 1956**
+  accommodated linguistic assertion through statehood. *Significance:* institutional
+  accommodation, not homogenisation, is the Indian continuity mechanism. *Limitation:*
+  recognition of 22 languages is a constitutional listing (Polity's territory) and is not a
+  claim about the vitality of the remaining languages.
+- **E6 — Prospective, not usable, data.** *Claim:* caste-linked deprivation is still
+  statistically invisible at the all-India level. *Evidence:* **Gazette S.O. 2681(E)
+  (16 June 2025)** fixes Census 2027 reference dates — 1 October 2026 for Ladakh and
+  specified snow-bound areas, 1 March 2027 elsewhere — and the **PIB announcement of
+  30 April 2025** confirms caste enumeration. *Significance:* the measurement gap itself is
+  an answer point. *Limitation:* prospective operation; no caste count may be quoted, and it
+  must not be called India's first historical caste enumeration.
+
+### 13.5 The four-term distinction examiners test
+
+| Term | Precise content | Error it prevents |
+|---|---|---|
+| **Diversity** | Objective presence of different identities | Treating difference as a problem |
+| **Plurality** | Coexistence *with mutual recognition* | Equating headcount variety with acceptance |
+| **Disparity** | Unequal development outcomes between groups/regions | Answering a disparity question with culture (2024 Q17) |
+| **Marginality** | Exclusion from opportunity, resources or voice | Assuming every distinct group is excluded |
+
+### 13.6 Balance bank (mandatory for `critically`)
+
+- ⚠️ **Against the proposition:** prosperous diverse communities (E3); deprivation inside
+  dominant groups (E4); intra-group variation by region and urban–rural location.
+- ⚠️ **Against a naive celebration:** unity-in-diversity is an aspiration and an observed
+  pattern, not a guarantee — communal and regional tension coexists with syncretism.
+- ⚠️ **Against biological framing:** older physical-anthropology labels are not a sound
+  description of contemporary Indian society; Census operations do not classify Indians into
+  biological races.
+- ⚠️ **Method caution:** correlation ≠ causation; national aggregates mask which sub-group is
+  reinforced-marginal.
+
+### 13.7 Verdict scaffolds
+
+- **Conditional acceptance:** "The proposition holds where identity axes reinforce — as with
+  remote PVTG populations — and fails where they cross-cut, so it should be read as a
+  conditional empirical pattern, not a law of Indian society."
+- **Mechanism verdict:** "Diversity marks disadvantage; historical exclusion and remoteness
+  produce it. Policy that manages identity while leaving the exclusion mechanism intact will
+  reproduce the correlation it claims to address."
+- **Continuity verdict:** "Indian culture endured by absorbing rather than resisting, which
+  is also why hierarchy endured alongside it — continuity and inequality were carried by the
+  same institutions."
+
+### 13.8 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Authoritative ledger owner | Core route |
+|---|---|---|---|
+| 2024 · GS-I · Q20 | Correlation between cultural diversity and socio-economic marginalities | `Indian-Society/basic/01` ✅ this file | §13.3 15-mark spine + E1–E6 |
+| 2019 · GS-I · Q8 | What makes Indian society unique in sustaining its culture | ledger points to `advanced/01` | **Core routing supersedes:** §13.3 10-mark spine (T2) |
+| 2020 · GS-I · Q18 | Diversity and pluralism under threat from globalisation | ledger points to `advanced/11` | Core owner is `11_Effects-of-Globalisation-on-Indian-Society.md` §13; use §13.5 here for the plurality half |
+
+> ⚠️ **Documented routing defect (bounded, not answered).** The generated 2018-2023 block
+> below carries two 2023 Prelims rows — national sports awards and the Chess Olympiad
+> mascot/trophies. These are **current-affairs routing artefacts with no Indian Society
+> content**; this file does not claim them, does not answer them from memory, and they must
+> not be counted as gaps in this owner. `Modern-Indian-History/basic/38` records the same
+> class of artefact for its own generated block.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

@@ -79,6 +79,41 @@
 - ⚠️ Use land grants to connect economy, administration, Brahmanization and early feudal tendencies.
 - ⚠️ Discuss Sanskritization and Bhagavatism as tools of cultural integration and royal legitimacy.
 
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Gupta-age culture was a major classical florescence, but it was socially selective and built on agrarian surplus and hierarchy." |
+| Critically examine | "The Golden Age label captures genuine literary, scientific and artistic achievements, yet it obscures exclusion and social stratification." |
+| Compare / evaluate | "A good answer contrasts Gupta cultural brilliance with the unequal social order that enabled elite patronage." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** surplus and patronage -> literature/science/religion -> social hierarchy -> verdict
+- **For comparison Qs:** achievement vs inequality; elite culture vs wider society
+- **For evaluate Qs:** cultural gains -> social limits -> qualified conclusion
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Literary-scientific achievement was substantial | ✅ Kalidasa and Aryabhata | Gives concrete proof for classical status | These achievements were elite in social reach |
+| 2 | Agrarian measures and grants framed everyday power | ✅ Kulyavapa, Dronavapa and land-grant contexts | Connects culture to material control | Epigraphic evidence is normative and uneven |
+| 3 | Religion and learning diversified under patronage | ✅ Puranic Hinduism, Buddhism and Nalanda-type centres | Prevents narrow civilisational reading | Institutional chronology can vary by site |
+| 4 | Social inequality limits the golden-age claim | ✅ Patriarchy and varna hardening in textual-social evidence | Supplies critical balance | Prescriptive texts do not map all lived realities |
+
+### Counterpoint and balance
+
+- Avoid dismissing Gupta achievement just because the golden-age label is imperfect.
+- Avoid celebrating culture without asking who benefited from patronage and land control.
+
+### Verdict framing
+
+- Conclude that the Gupta age was classically brilliant but socially uneven.
+- A high-mark verdict should keep achievement and exclusion visible together.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

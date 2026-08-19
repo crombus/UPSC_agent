@@ -1,6 +1,9 @@
 # Disaster Management - Knowledge Base Index
 
-> **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — central routing only, not topic-file integration.
+> **Historical PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
+> remains the provenance record; all paper-essential Disaster Management
+> routes now terminate in Core, with legacy Advanced pointers explicitly
+> superseded.
 >
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
@@ -9,7 +12,8 @@
 > covering prevention, mitigation, preparedness, response, recovery and
 > reconstruction; the legal/institutional framework and the role of
 > science and technology in disaster management).
-> **Research cutoff:** 18 July 2026.
+> **Research cutoff:** 18 July 2026 for the original static synthesis;
+> volatile-status recheck completed **15 August 2026**.
 > **Static spine:** *VisionIAS Value Added Material Disaster Management*
 > (2024 update), complete direct-PDF extraction, PDF pp. 1-85 — not
 > Qdrant/retrieval material.
@@ -63,8 +67,8 @@
   Disaster Response Force exists only where a State has actually notified
   it. Likewise an **announced guideline** (e.g. NDMA's 2010 Urban
   Flooding recommendation of an Urban Flooding Cell) is distinguished
-  from an **implemented programme** (e.g. the Urban Flood Risk Management
-  Programme actually sanctioned from the National Disaster Mitigation
+  from a **sanctioned mitigation programme** (e.g. the Urban Flood Risk Management
+  Programme, approved from the National Disaster Mitigation
   Fund), and **relief compensation** (SDRF/NDRF) is distinguished from
   **risk financing** (SDMF/NDMF, insurance, catastrophe bonds).
 - **No stale-danger claims:** this folder does not claim precise
@@ -73,6 +77,28 @@
   battalion counts, hazard-zone percentages, mortality/loss figures,
   fund corpora, coastline lengths or monitoring-station counts as current
   without a dated official citation.
+
+### Answer-worthiness status — 15 August 2026
+
+- The 18 `basic/` owners are independently answer-ready: each has a
+  topic-specific **Core-only answer architecture** with a thesis,
+  claim → named evidence/example → significance → qualification bank and
+  directive-sensitive 10/15/20-mark spines. `advanced/` remains optional
+  analytical enrichment.
+- Historical Mains routes that previously pointed at `advanced/` now
+  terminate in the corresponding Core owner. The authoritative central
+  ledgers retain provenance but mark the Core override.
+- The exact 2024 local-paper demands are answered in Core: resilience/
+  Sendai (`01`) and urban flooding (`08`). The 2025 seawater-intrusion,
+  mining-environmental-hazard, Paris/NDC and 2024 asteroid questions
+  remain adjacent-only boundaries, not Disaster Management ownership.
+- **Current finance correction:** MHA's response-fund page retrieved on
+  15 August 2026 lists **14** nationally notified SDRF disasters,
+  including heatwave and lightning. This replaces the prior 12-disaster
+  source-period statement; it is an eligibility/status update, not proof
+  of prevention or relief outcomes.
+- Full evidence, hostile tests and residual factual cautions:
+  [`ANSWER-WORTHINESS-AUDIT.md`](ANSWER-WORTHINESS-AUDIT.md).
 
 ## Boundaries with other subjects
 
@@ -123,10 +149,10 @@
 | 11 | Forest Fire Risk Management | Causes, FSI FAST/Large Forest Fire Monitoring; community fire management |
 | 12 | Industrial, Chemical, Nuclear and CBRN Emergencies | MAH units; Chemical Accident Rules 1996; AERB; nuclear/radiological response |
 | 13 | Epidemics and Public Health Emergencies | Biological disasters; COVID-19/DM Act interface; surveillance and health-system surge |
-| 14 | Urban and Critical Infrastructure Resilience | Urban Flooding Cell (NDMA 2010 guideline recommendation) and the implemented Urban Flood Risk Management Programme; crowd/stampede safety at mass gatherings; lifeline protection; CDRI; resilient infrastructure |
+| 14 | Urban and Critical Infrastructure Resilience | Urban Flooding Cell (NDMA 2010 guideline recommendation) and the sanctioned Urban Flood Risk Management Programme; crowd/stampede safety at mass gatherings; lifeline protection; CDRI; resilient infrastructure |
 | 15 | Climate Risk, Adaptation and Loss and Damage | Slow-onset risk; Warsaw Mechanism/Suva Dialogue; displacement |
 | 16 | Disaster Finance, Risk Transfer and Build Back Better | SDRF/NDRF/SDMF/NDMF/NCCF; Fifteenth and Sixteenth Finance Commission awards; notified disasters; risk transfer/insurance; Build Back Better |
-| 17 | Humanitarian Logistics, Relief, Rehabilitation and Recovery | DM cycle phases; Incident Command System; Aapda Mitra |
+| 17 | Humanitarian Logistics, Relief, Rehabilitation and Recovery | DM cycle phases; India's Incident Response System (generic ICS comparison); Aapda Mitra |
 | 18 | Governance, Capacity and International Cooperation | NPDRR; global frameworks (Yokohama-Hyogo-Sendai); SAARC/BIMSTEC/G20/CDRI cooperation |
 
 ## Study sequence

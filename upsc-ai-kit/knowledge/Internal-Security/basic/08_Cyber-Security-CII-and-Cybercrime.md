@@ -316,7 +316,82 @@ VisionIAS, PDF p. 3).
 - ⚠️ **Mains (15 marks):** Distinguish cybercrime, cyber warfare and cyber
   terrorism, with reference to India's institutional response.
 
-## 12. Study links
+## 12. Core answer architecture — cyber chains, CII resilience and phased data law
+
+> **Core firewall:** This Core section independently supports the 2019–22
+> cyber routes and the 2024 DPDP route. The Advanced companion is optional
+> depth only.
+
+### Demand decoder and thesis
+
+**Thesis:** India’s cyber-security answer must separate three chains:
+**incident → containment/recovery; crime → investigation/prosecution; and
+information operation → attribution/response**. CII resilience and DPDP
+data governance are connected but different; a notified privacy rule is
+not proof of a secure system or full enforcement.
+
+### Executable Core spines
+
+**10 marks — CyberDome/types of cybercrime (2019/2020).** Define
+CyberDome as Kerala Police’s public-private cyber-security/cybercrime
+support initiative; explain its utility through specialist forensics,
+research, awareness and police capacity, then add its limitation: a
+State model is not a substitute for national incident response or
+ordinary police investigation. Classify cybercrime by target/method
+(fraud, malware/ransomware, identity/data abuse, intrusion) and match
+prevention, reporting, investigation and victim recovery.
+
+**10/15 marks — cross-border attack/comprehensive preparedness
+(2021/2022).** Start with threat–vulnerability–consequence; distinguish
+cyber espionage, cybercrime, cyber-terrorism and an asserted state
+operation. Map CERT-In (section 70B incident response), NCIIPC (section
+70A notified CII protection), sectoral teams, I4C and State police.
+Assess preparedness through identify → protect → detect → respond →
+recover, adding supply-chain/skill/private-operator constraints. Do not
+claim attribution from a technical incident alone.
+
+**10 marks — DPDP Act, 2023 (2024).** Give context, then categories:
+digital-personal-data scope; consent/notice and legitimate uses; data
+principal/fiduciary duties; Data Protection Board; children,
+cross-border-transfer and penalty design. State the current status:
+G.S.R. 843(E) commenced the Act in tranches and G.S.R. 846(E) notified
+the Rules on 13 November 2025; Rules 1, 2 and 17–21 began then, Rule 4
+begins 13 November 2026, and Rules 3, 5–16 and 22–23 begin 13 May 2027.
+Finish: DPDP is a privacy/data-governance layer, not a cybercrime or CII
+statute.
+
+**20 marks — assess India’s cyber resilience without conflation.** Use
+three linked but separate columns: (i) CII/CERT-In/NCIIPC prevention,
+detection, response and recovery; (ii) cybercrime/I4C/State-police
+investigation and victim redress; and (iii) data governance/DPDP rights
+and compliance. Assess capability with the CIA triad, CII
+interdependence, supply-chain/skill/operator constraints and an
+implementation measure distinct from a notification. Verdict: resilience
+and recovery are more defensible than sweeping attribution/retaliation
+claims, while privacy safeguards and cyber hygiene reduce vulnerability
+without converting DPDP into a security statute.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Different cyber events have different owners. | IT Act sections 70A/70B; I4C and State police. | Institution-matching is more useful than an acronym list. | A CERT-In incident report is not a registered crime or proven foreign operation. |
+| CII prioritisation is consequence-led. | IT Act section 70 definition and protected-system framework. | Criticality follows debilitating national/economic/public-health/safety impact. | Sector membership alone does not establish a particular asset’s notified CII status. |
+| DPDP is phased law, not immediate universal compliance. | G.S.R. 843(E) and 846(E), 13 November 2025. | A current answer can distinguish notification, commencement and later obligations. | Board creation/notification is not proof of a decided case or complete enforcement capacity. |
+| Insurance and patching are risk-transfer/reduction tools, not outcomes. | WannaCry/Petya ransomware and EternalBlue appear in the 2018 route; cyber insurance covers defined financial-loss/cost exposure. | Prelims can distinguish exploit, malware/ransomware and contractual cover. | Do not infer an official answer option or say insurance prevents an attack. |
+
+### Direct PYQ routes now owned in Core
+
+- **2019 GS-III:** CyberDome uses the State public-private capacity model
+  above; state its utility and scalability/privacy limit.
+- **2020–22 GS-III:** use the cyber-chain spines; assessment needs
+  capability and limitation, not agency narration.
+- **2024 GS-III:** use the DPDP feature/status spine; avoid the false
+  claim that Rules were fully operational upon notification.
+- **2018/2020 Prelims:** explain the underlying terms but preserve the
+  ledger’s no-official-key rule; no answer letter is inferred here.
+
+## 13. Study links
 
 - ✅ Advanced companion: `advanced/08_Cyber-Security-CII-and-Cybercrime.md`.
 - ✅ `00_Master-Framework.md` Sections 4 and 6 — the root-cause matrix and
@@ -330,22 +405,30 @@ VisionIAS, PDF p. 3).
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2020
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Years represented:** 2018, 2019, 2020, 2021, 2022
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 6
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 58 | WannaCry Petya EternalBlue terms in technology news | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | GS-III | 10 | CyberDome Project and its utility in controlling internet crimes | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-III | 9 | Types of cyber crimes and countermeasures against menace | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | Prelims GS-I | 60 | Cyber insurance coverage benefits for individuals in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | GS-III | 10 | Cross-border cyber attacks impact on India's internal security | Analyse · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 19 | Cyber security elements challenges and India preparedness assessment | Examine · 15 marks · 250 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - WannaCry Petya EternalBlue terms in technology news
+- CyberDome Project and its utility in controlling internet crimes
+- Types of cyber crimes and countermeasures against menace
 - Cyber insurance coverage benefits for individuals in India
+- Cross-border cyber attacks impact on India's internal security
+- Cyber security elements challenges and India preparedness assessment
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

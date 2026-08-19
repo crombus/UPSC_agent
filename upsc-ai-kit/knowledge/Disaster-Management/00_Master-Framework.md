@@ -54,7 +54,7 @@ Relief, Restoration) are described as being replaced by "3 Ps"
 |---|---|---|
 | ✅ Prevention/Mitigation | Structural and non-structural risk reduction, land-use control, codes | 05-12, 14 |
 | ✅ Preparedness | Early warning, plans, drills, community training | 03, 04, 17 |
-| ✅ Response | Search and rescue, relief, Incident Command System | 17 |
+| ✅ Response | Search and rescue, relief, India's Incident Response System (generic ICS comparison) | 17 |
 | ✅ Recovery/Rehabilitation/Reconstruction | Restoring services, Build Back Better | 16, 17 |
 
 ## 3. India's operating architecture
@@ -184,7 +184,7 @@ frequent Prelims trap. Full detail and the 2023 Midterm Review in topic
 | ❌ Prediction-forecast conflation | Claiming earthquakes can be predicted | Distinguish prediction (not possible), forecast (probabilistic, e.g. weather) and early warning (post-detection alert, e.g. tsunami/cyclone) — topics 04-06 |
 | ⚠️ Deadline-achievement gap | Treating an announced target/deadline as accomplished merely because the date has arrived | State only what a dated official release confirms |
 | ⚠️ Single-hazard silo gap | Treating hazards as independent when cascading/compound risk is common (earthquake→landslide→dam breach; cyclone→flood→epidemic) | Note cascading linkages explicitly (topics 09, 10, 12, 14) |
-| ⚠️ Enabling-power-as-existing-body gap | Reading "the State Government **may** constitute" (ss. 41A, 44A) as meaning every city has an Urban DM Authority and every State a statutory State Disaster Response Force | Separate the **statutory mandate** from the **operational fact**; name a constituted authority only where a State notification is cited (topics 02, 14) |
+| ⚠️ Enabling-power-as-existing-body gap | Reading "the State Government **may** constitute" (ss. 41A, 44A) as meaning every city has an Urban DM Authority and every State a statutory State Disaster Response Force | Separate the **statutory mandate** from the **operational fact**; name a constituted authority only where a dated State notification or official MHA parliamentary reply identifies it (topics 02, 14) |
 | ⚠️ Compensation-as-risk-financing gap | Treating SDRF/NDRF relief payouts as evidence that disaster *risk* is financed | Separate **relief compensation** (SDRF/NDRF, response-triggered) from **risk financing** (SDMF/NDMF, insurance, catastrophe bonds, ex-ante) — topic 16 |
 
 ## 9. Boundary routing
@@ -220,3 +220,45 @@ frequent Prelims trap. Full detail and the 2023 Midterm Review in topic
 6. Read `17-18` last to integrate the operational cycle and the
    governance/international-cooperation architecture that underlies
    every earlier topic's "measures taken" section.
+
+## 11. Core answer-worthiness gate — 15 August 2026
+
+Before treating a Disaster Management answer as complete, test each
+paragraph against this chain:
+
+```text
+QUESTION-SPECIFIC CLAIM
+  -> NAMED INDIA / FRAMEWORK / CASE EVIDENCE
+  -> MECHANISM OR SIGNIFICANCE
+  -> STATUS, LIMIT OR TRADE-OFF
+  -> QUALIFIED VERDICT
+```
+
+| Demand family | Core owner and non-negotiable answer move |
+|---|---|
+| Concepts/resilience/Sendai | `01`: determine resilience through hazard–exposure–vulnerability–capacity, then name all A–G targets. |
+| Law/institutions/finance | `02`, `16`: distinguish NDMA/SDMA/DDMA/NEC/NCMC/HLC and relief funds from mitigation funds/risk transfer. |
+| Inclusion and warning | `03`, `04`: name the group/need and trace detection to last-mile comprehension/action; platform coverage is not outcome. |
+| Hazard-specific management | `05–13`: state the mechanism, exposure/vulnerability, phase-specific measures, institution and limitation; never substitute a generic DM list. |
+| Urban, climate and infrastructure | `08`, `14`, `15`: show cascade/land-use/climate-attribution boundary and distinguish guideline, sanction and operation. |
+| Recovery and governance | `17`, `18`: distinguish relief/rehabilitation/reconstruction, IRS handover, local capacity and international convening from implementation. |
+
+### Exact-2024 safeguards
+
+- **Q17:** definition → determination through risk/capacity →
+  robustness/redundancy/resourcefulness/inclusion/recovery → all seven
+  Sendai targets → voluntary-framework/outcome caveat.
+- **Q18:** urban-cause mechanisms → two cases with their distinct
+  features → floodplain/drainage/CWC–IMD/ULB/UFRMP framework → an
+  implementation, maintenance and equity verdict. The wording in
+  Section 7 is local-source verbatim, including its labelled OCR
+  defects; never silently “correct” a quotation.
+
+### Volatile-status gate
+
+Use the relevant dated primary source before a current claim. In
+particular: 2025 DM-amendment commencement is law; ss. 41A/44A are
+enabling; MHA's response-fund page retrieved 15 August 2026 lists
+14 nationally notified SDRF disasters including heatwave/lightning;
+CWC/INCOIS/IMD counts and service coverage are date-sensitive; a
+sanction, target, deployment or warning issued is not an outcome.

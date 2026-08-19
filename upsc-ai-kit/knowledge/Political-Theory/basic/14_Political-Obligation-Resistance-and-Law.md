@@ -107,7 +107,12 @@ PUNISHMENT
 - ✅ **Marxists:** in a class-divided society, obligation is not owed to the capitalist state but to the working class and its emancipatory struggle (PDF p.286).
 - ✅ **Anarchists:** all organized coercive authority is illegitimate, so the individual owes justice and cooperation, not obedience to the state (PDF p.286).
 - ✅ **Gandhi / Thoreau:** unjust law may be disobeyed openly and non-violently; conscience and truth can justify disciplined disobedience (PDF p.287).
-- ✅ **Austin, Kelsen, Hart, Dworkin:** they represent successive refinements and critiques within legal positivism and analytical jurisprudence (PDF pp.291-292).
+- ✅ **Austin, Kelsen, Hart, Dworkin — reconstructed as successive refinements/critiques within analytical jurisprudence (PDF pp.291-292):**
+  - **Austin (command theory):** law is the command of a determinate sovereign, promulgated in a political society, backed by sanction; disobedience must be punishable. International law is not "law" in the strict sense — at best "positive morality" — because it lacks a promulgating sovereign and enforcing political superior.
+  - **Kelsen (Grundnorm/hierarchy):** in *General Theory of Law and State* — first published in English in **1945** (Harvard University Press; translated from the German by Anders Wedberg) — Kelsen argues validity comes not just from proper promulgation but from conformity to a **basic norm (Grundnorm)**; law forms a **hierarchy of norms**, where each lower norm derives validity from a higher one, terminating in the Grundnorm. Kelsen remains a positivist because he keeps legal validity separate from questions of morality. ❌ **Date correction (was previously given here as 1961):** 1961 is the year of **Hart's** *The Concept of Law*, not of Kelsen's *General Theory of Law and State*; do not transfer Hart's date to Kelsen. ⚠️ Cite the work by title and, if a year is needed, use 1945 for this English edition only — do not attach a page, chapter, edition number or a German-original date to it in an answer, since none of that is verified in this file's source base.
+  - **Hart (critique of Austin; structure of rules):** in *The Concept of Law* (1961), Hart argues Austin's coercive-command model is too narrow, being modelled on criminal law; civil law (contracts, marriages, wills) confers powers and distributes benefits rather than merely commanding and punishing. Hart replaces the command model with law as a **structure of rules** determining duties, rights, powers and law-making/amendment procedure, and rejects Kelsen's Grundnorm as resting on a social fact (what a given legal community actually treats as valid), not a free-standing hierarchy internal to the legal system. ⚠️ **Precision addition beyond Gauba's paraphrase (standard jurisprudence vocabulary, not a direct book quotation):** Hart's own technical formulation — used across jurisprudence courses — distinguishes **primary rules** (rules imposing duties/obligations directly on conduct) from **secondary rules** (rules about rules: the **rule of recognition**, which identifies what counts as valid law in a system; rules of change, which allow law-making/amendment; and rules of adjudication, which authorise dispute-resolution). Gauba's "structure of rules" paraphrase is compatible with, but does not itself spell out, this primary/secondary vocabulary — use it to sharpen an answer, but attribute it to Hart's general framework rather than to a specific Gauba sentence.
+  - **Dworkin (principles in hard cases):** in *Taking Rights Seriously* (1977), Dworkin rejects Hart's rules-only model because in **hard/disputed cases**, rule-application gives no clear answer, and judges instead invoke **principles** (e.g., "a man should not benefit from his own wrong," used to bar a murderer inheriting from his victim). Principles are not "extra-legal" — Dworkin treats them as part of law — but unlike rules they are imprecise, can conflict, cannot be arranged in a strict hierarchy, and their validity is argued from political theory rather than from the legal system's own pedigree tests. Judges exercise discretion in choosing the fitting principle, but the decision cannot be mechanically derived from the principle alone.
+  - ⚠️ **In one line:** critics of legal positivism converge on the point that positive law alone cannot resolve every case — Kelsen supplies a basic norm, Hart a structure of rules resting on social fact, and Dworkin a role for principles; treat all three as refinements/critiques of Austin's command theory, not as identical positions.
 - ✅ **Savigny, Maine, Pound:** they represent historical and sociological jurisprudence, tying law to historical evolution and social purpose (PDF pp.292-294).
 
 ## 7. Illustrative examples
@@ -143,9 +148,11 @@ PUNISHMENT
 | School | What law is | Key names | Risk if overstated |
 |---|---|---|---|
 | ✅ **Natural law** | ✅ Law draws authority from higher moral right or justice (PDF pp.290-291). | ✅ Stoics, Roman jurists, Kant-style rational morality (PDF pp.290-291). | ❌ Can become too abstract if detached from institutions. |
-| ✅ **Analytical / positivist** | ✅ Law is valid when properly made and enforceable by authority (PDF pp.291-292). | ✅ Austin, Kelsen, Hart; Dworkin as critic-from-within (PDF pp.291-292). | ❌ Can separate validity from justice too sharply. |
+| ✅ **Analytical / positivist** | ✅ Law is valid when properly made and enforceable by authority (PDF pp.291-292). | ✅ Austin (command), Kelsen (Grundnorm/hierarchy), Hart (rules; primary/secondary and rule-of-recognition vocabulary is a standard jurisprudence add-on, ⚠️), Dworkin (principles in hard cases, critic-from-within) (PDF pp.291-292). | ❌ Can separate validity from justice too sharply. |
 | ✅ **Historical** | ✅ Law evolves from custom, people and historical development (PDF pp.292-293). | ✅ Savigny, Maine (PDF pp.292-293). | ❌ Can over-romanticize inherited norms. |
 | ✅ **Sociological** | ✅ Law serves social purpose and should be judged by social effects (PDF pp.293-294). | ✅ Duguit, Pound, Laski (PDF pp.293-294). | ❌ Can underplay formal validity if used carelessly. |
+
+⚠️ **Classification caution:** this four-school grid (natural / analytical / historical / sociological) is Gauba's own organising structure and a widely used teaching device, but jurisprudence as a discipline does not treat this as a single settled taxonomy — other courses add legal realism, critical legal studies, or place Dworkin as a distinct "interpretivist" school rather than folding him into analytical jurisprudence as a "critic-from-within." Present this table as **one defensible organising scheme**, not as the only possible or final classification, especially when a question asks to "critically examine schools of jurisprudence."
 
 ### D. Theories of punishment
 
@@ -172,6 +179,11 @@ PUNISHMENT
 - ❌ **"Capital punishment follows automatically from a heinous crime."** -> ✅ The source presents
   rival arguments; irreversibility, error, human dignity, proportionality and deterrence must be
   separately examined (Socio-Political Philosophy, PDF pp.166-167).
+- ❌ **"Austin's command theory and Hart's rule theory are the same thing with different names."** -> ✅ Hart explicitly rejects Austin's coercive-command model as too narrow (built on the criminal-law model) and replaces it with a structure of rules covering duties, powers and procedure (PDF pp.291-292).
+- ❌ **"Kelsen's Grundnorm is a moral standard smuggled into positivism."** -> ✅ Kelsen keeps the basic norm purely as a validity-conferring apex of the legal hierarchy, deliberately separate from questions of morality or moral obligation — this is exactly why he remains a positivist despite using a normative concept (PDF p.291).
+- ❌ **"Kelsen's *General Theory of Law and State* is a 1961 work."** -> ✅ **1945** is the year of its first English publication (Harvard University Press, tr. Anders Wedberg); **1961** belongs to **Hart's** *The Concept of Law*. The two dates sit adjacent in the Austin → Kelsen → Hart → Dworkin sequence and are easily swapped — if unsure in the exam hall, name the works and the sequence without dates rather than guessing a year (§12, bibliographic-dates note).
+- ❌ **"Dworkin says judges can decide hard cases however they like."** -> ✅ Dworkin insists principles are part of law and constrain judicial reasoning even though they are less precise than rules and cannot be hierarchically ranked; discretion is bounded, not unlimited (PDF p.292).
+- ❌ **"Political obligation, resistance, civil disobedience and revolution are interchangeable terms for defying the state."** -> ✅ Keep them analytically separate: obligation asks whether/why one should obey at all; resistance targets a specific unjust act; civil disobedience is a disciplined, public, penalty-accepting mode of resistance; revolution targets the wider order itself and carries the highest risk (PDF pp.287-288, Table B).
 
 ### Verified local PYQ transfer
 
@@ -206,7 +218,69 @@ PUNISHMENT
 - ✅ Primary source used: Gauba, Ch.11 "Grounds and Limits of Political Obligation" and Ch.12 "Concept of Law" (PDF pp.280-300).
 - ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.164-167, for retributive,
   deterrent, reformative and capital-punishment arguments.
-- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Page clusters used: political obligation theories (PDF pp.280-287); Gauba's caution on resistance (PDF pp.287-288); nature and schools of law (PDF pp.289-294); law and morality/liberty/rule of law (PDF pp.295-300).
 - ⚠️ All examples are historical or conceptual; no undated current-affairs claim is inserted.
 - ⚠️ Boundary maintained: no Indian statute-by-statute or case-by-case Polity duplication.
+- ⚠️ The primary/secondary-rules and rule-of-recognition vocabulary used for Hart, and the
+  four-school classification caution, are precision additions to Gauba's own paraphrase and are
+  tagged ⚠️ rather than presented as direct book quotations.
+- ✅ **Bibliographic dates used in §6 (verified, and deliberately kept minimal):** Kelsen,
+  *General Theory of Law and State*, first English publication **1945** (Harvard University Press,
+  tr. Anders Wedberg); Hart, *The Concept of Law*, **1961**; Dworkin, *Taking Rights Seriously*,
+  **1977**. ⚠️ No page, chapter, edition number or original-language publication date is asserted
+  for any of these three works, because Gauba's own pages (PDF pp.291-292) paraphrase the
+  positions without supplying that bibliographic detail — avoid adding false precision in an
+  answer.
+
+---
+
+## 13. Directive decoder, argument reconstruction and mark-scaled answer architecture
+
+### A. Thesis statements
+- **Political-obligation question:** "Political obligation is not a single fact of obedience but a spectrum from unlimited (force, divine right) through limited/conditional (Locke, Green, Gandhi) to anti-obligation (Marxist, anarchist) — the correct answer identifies which rung of this ladder the question's scenario occupies before evaluating it."
+- **Jurisprudence question:** "Legal positivism from Austin to Dworkin is a sequence of internal refinements, not a single fixed doctrine: each thinker widens what must be added to bare sovereign command — a basic norm (Kelsen), a structure of rules (Hart), or principles (Dworkin) — to explain how legal systems actually decide hard cases."
+
+### B. Directive decoder
+| Directive | What it demands | Trap to avoid |
+|---|---|---|
+| **"Distinguish resistance from revolution"** | Use Table B's four-row grid (target, method, relation to law) explicitly. | Do not treat civil disobedience as a synonym for either. |
+| **"Critically examine Austin's theory of sovereignty/law"** | State command theory, then Hart's rules-based critique, then note Austin's own concession that morality still constrains the sovereign in practice. | Do not claim Austin denied all moral limits — he denied only a *legal* superior. |
+| **"Discuss Hart's concept of law"** | Present the primary/secondary-rules and rule-of-recognition vocabulary as the standard elaboration of "structure of rules," while flagging it is a precision addition. | Do not attribute the primary/secondary vocabulary word-for-word to Gauba's paraphrase. |
+| **"Is civil disobedience justified?"** | Apply Gandhi's conditions (open, non-violent, principled, last-resort, penalty-accepting, no sectional selfishness) as a test, then Gauba's caution against treating policy failure alone as sufficient ground. | Do not justify "any illegal act done for a cause" as civil disobedience. |
+
+### C. Argument reconstruction (Austin → Hart → Dworkin, worked example)
+- **Claim (Austin):** law is the sovereign's command backed by sanction; validity requires nothing more.
+- **Objection (Hart):** this model cannot explain civil law (contracts, wills) which confers powers rather than commanding; a "structure of rules" (including a rule of recognition) explains legal systems better.
+- **Objection (Dworkin) to Hart:** even a full structure of rules gives no determinate answer in hard/disputed cases; judges then rely on principles that are part of law but not reducible to any rule.
+- **Reply/limit:** Gauba's own synthesis is that Kelsen, Hart and Dworkin each supply a different necessary supplement to bare positive law (basic norm / rule-structure / principles) — the debate refines, rather than refutes, the underlying positivist claim that law's authority does not depend on its moral content (PDF pp.291-292).
+
+### D. Five+ named evidence units
+1. Thoreau's tax refusal and imprisonment — principled civil disobedience.
+2. Gandhi's 1930 salt-law defiance — public, non-violent, penalty-accepting civil disobedience against colonial law.
+3. Conscientious objection to WWI military service — legal duty vs conscience.
+4. Austin's international-law exclusion ("positive morality," not "positive law") — sharpens the command-theory test.
+5. Kelsen's hierarchy of norms terminating in the Grundnorm — validity chain example.
+6. The "man should not benefit from his own wrong" principle (Dworkin's murderer-inheritance example) — principles-in-hard-cases illustration.
+7. Traffic regulation — Gauba's own illustration of rule-of-law clarity without excluding differentiated regulation.
+
+### E. Claim → evidence → significance → limit (worked micro-example)
+- **Claim:** legal validity and moral legitimacy are conceptually separate.
+- **Evidence:** Austin's own concession that a legally unbound sovereign nonetheless "habitually observes fundamental moral principles" even without legal compulsion to do so (jurisprudence chapter framing, PDF pp.291-292; consistent with the identical point made about sovereignty at PDF p.184).
+- **Significance:** this separation is exactly what licenses natural-law and Dworkinian critiques of pure positivism — if validity and legitimacy always coincided, there would be no room for the "hard case" problem at all.
+- **Limit:** the separation does not mean law and morality never overlap in practice — Gauba's own examples (reform of child marriage, widow-burning, untouchability, bonded labour) show law frequently *does* track moral reform; the claim is conceptual separability, not constant real-world divergence (PDF p.296).
+
+### F. Mark-scaled architecture
+- **10-marker:** thesis → one obligation camp OR one jurisprudence thinker → one named example → one-line verdict.
+- **15-marker:** thesis → two obligation camps contrasted (e.g., Locke vs Marxist) OR two jurisprudence thinkers (Austin vs Hart) → one objection–reply pair → verdict.
+- **20-marker:** thesis → full obligation spectrum (unlimited → limited → anti-obligation) OR full jurisprudence sequence (Austin → Kelsen → Hart → Dworkin) → the civil-disobedience/revolution distinction as a depth marker → cautious Indian application → reasoned, conditional verdict.
+
+### G. Cautious Indian application
+- ⚠️ Gandhi's 1930 salt-law satyagraha is the file's own verified illustration of civil disobedience
+  and may be used directly (PDF p.287); do not extend it into unverified claims about specific
+  participant numbers, dates beyond the salt march itself, or its precise legal aftermath unless
+  independently confirmed.
+- ⚠️ If a question invites comparison with contemporary Indian protest movements or constitutional
+  remedies (e.g., judicial review of "unjust" laws), keep the comparison at the conceptual level
+  (principled/public/non-violent vs. ordinary illegality) and route Article-specific or case-law
+  detail to the Polity files, consistent with this file's own boundary statement.

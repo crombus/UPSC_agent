@@ -4,8 +4,9 @@
 > **Core area:** Transparency in governance; the Right to Information Act; information sharing as
 > an accountability and probity tool.
 > **Grounded in:** 2nd ARC 4th Report *Ethics in Governance* (2007), paras 1.10, 1.15, 5.1.7,
-> National Colloquium Annexure-I(2) (RTI as "path-breaking"); RTI Act, 2005; audited GS-IV PYQs
-> (2024-2025 Mains).
+> National Colloquium Annexure-I(2) (RTI as "path-breaking"); RTI Act, 2005; the RTI (Amendment)
+> Act, 2019 (Sections 13, 16, 27); the Digital Personal Data Protection Act, 2023 (Section 44(3));
+> audited GS-IV PYQs (2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/15_Transparency-RTI-and-Information-Sharing.md`.*
 
@@ -136,9 +137,78 @@ default from secrecy-unless-permitted to disclosure-unless-justified.
 - ⚠️ **Mains (15 marks):** Evaluate RTI's effectiveness as an anti-corruption tool, considering both
   its transparency-by-default design and its dependence on citizen capacity to use it.
 
-## 10. Study links
+## 10. RTI (Amendment) Act, 2019 and CIC/SIC tenure-independence ethics
+
+> ⚠️ This section closes a specific Section-A-testable ethics dimension — institutional
+> independence of the transparency watchdog itself — that Sections 1-9 apply but do not name
+> directly. For CIC/SIC **composition, appointment and removal procedure**, the controlling detail
+> is taught in `Polity/advanced/36_CIC-and-SIC.md`; this section teaches only the **ethics angle**:
+> what changed, and why it raises an institutional-independence concern.
+
+- ✅ **What changed:** the RTI (Amendment) Act, 2019 amended Sections 13, 16 and 27 of the RTI Act,
+  2005. Before the amendment, the Chief Information Commissioner/Information Commissioners (Section
+  13, Centre) and State Chief Information Commissioner/State Information Commissioners (Section 16,
+  States) held a fixed **five-year term (or until age 65, whichever earlier)** with salary,
+  allowances and service conditions **statutorily equated** to the Chief Election Commissioner/
+  Election Commissioners respectively. The 2019 amendment removed these fixed statutory terms and
+  instead empowers the **Central Government** to prescribe the term of office, salary, allowances
+  and service conditions for CIC/IC **and** State CIC/SIC alike **by rules** (Section 27's expanded
+  rule-making power) — the 2019 Rules made under this power set a three-year term with salary
+  parity to a Secretary to the Government of India.
+- ⚠️ **Why this is an ethics-of-independence question, not merely a technical service-conditions
+  change:** the RTI Act's Information Commissions exist specifically to adjudicate citizens'
+  information requests **against** the government, including the Central Government itself; giving
+  that same Central Government the power to determine the tenure and salary of the very
+  commissioners who rule on requests against it creates a structural conflict-of-interest-adjacent
+  risk — an institution's independence is only as durable as its members' security of tenure and
+  remuneration are insulated from the body they oversee (the same institutional-design logic taught
+  for CVC/CBI/Lokpal in `11`, `20`).
+- ⚠️ **The counter-argument, stated fairly:** the government's position is that rule-prescribed
+  service conditions merely rationalise disparate state-level practice and do not, by themselves,
+  determine any individual case outcome; critics respond that even the *possibility* of executive
+  leverage over tenure/salary can produce a chilling effect on commissioners' willingness to rule
+  against the government, independent of whether any specific instance of pressure is provable — a
+  genuine, balanced GS-IV answer should present both sides rather than treating the change as
+  self-evidently proven misconduct.
+- 📰 **Status caution:** verify the current text of the RTI Rules made under Section 27 (tenure and
+  salary figures can themselves be revised by rule, unlike the pre-2019 statutory fixation) before
+  citing a specific numeric tenure/salary figure in a live session, since this is exactly the kind
+  of executive-rule-level detail that is more amendment-prone than a statutory provision.
+- ⚠️ **10-mark architecture:** state the pre-2019 statutory position (fixed term, EC-equivalent
+  status) -> state precisely what the 2019 amendment changed (Sections 13/16/27, rule-making power
+  transferred to the Central Government) -> name the institutional-independence concern this raises
+  -> give the government's rationalisation counter-argument -> one-line balanced conclusion (the
+  concern is a legitimate design question, not an established finding of actual misconduct).
+
+## 11. Study links
 
 - ✅ Advanced companion: `advanced/15_Transparency-RTI-and-Information-Sharing.md`.
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — MKSS and Parivartan cases in full.
 - ✅ `17_Citizens-Charters-Work-Culture-and-Service-Delivery.md` — the complementary citizen-facing tool.
-- ✅ `Polity/advanced/36_CIC-and-SIC.md` — RTI institutional/constitutional-body detail.
+- ✅ `Polity/advanced/36_CIC-and-SIC.md` — RTI institutional/constitutional-body detail, including
+  CIC/SIC composition, appointment and removal procedure (cross-linked, not duplicated, from Sec. 10).
+- ✅ `11_Accountability-and-Ethical-Governance.md` — the general institutional-independence design
+  logic Sec. 10 applies to the Information Commissions specifically.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019
+- **Paper(s):** GS-IV
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-IV | 2 | (a) meaning of public interest and principles for civil servants; (b) RTI redefining the concept of accountability | Explain/Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-IV | 4 | (a) basic principles of citizens charter movement and importance; (b) Official Secrets Act as obstacle to RTI implementation | Explain/Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- (a) meaning of public interest and principles for civil servants; (b) RTI redefining the concept of accountability
+- (a) basic principles of citizens charter movement and importance; (b) Official Secrets Act as obstacle to RTI implementation
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

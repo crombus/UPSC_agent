@@ -203,7 +203,7 @@ PENAL TEST
 
 - ✅ Primary source used: Gauba, Ch.11 "Grounds and Limits of Political Obligation" and Ch.12 "Concept of Law" (PDF pp.280-300).
 - ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.164-167.
-- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Page clusters used: force/divine right/conservative/consent (PDF pp.280-284); idealist, Marxist, anarchist and Gandhian positions (PDF pp.284-287); Gauba's cautionary conclusion (PDF pp.287-288); law, jurisprudence, sources, morality, liberty and rule of law (PDF pp.289-300).
 - ⚠️ All examples are historical or conceptual; no present-day statute/case claim is inserted.
 - ⚠️ Boundary preserved: conceptual theory here, applied Indian legal doctrine elsewhere.

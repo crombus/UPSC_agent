@@ -307,6 +307,150 @@ The conflict is not “modernity versus tradition” in the abstract. It concern
 
 ---
 
+## 5A. ECOLOGICAL POLITICAL PHILOSOPHY AND THE LIMITS OF DEVELOPMENT
+
+> ⚠️ **Why this section exists.** §1.8 names sustainable development; that is a policy formula, not a philosophy. The prior questions are **what has moral standing**, **whether growth is a coherent permanent objective**, **what is owed to those not yet born**, and **who bears the cost of ecological adjustment**. These questions govern the tribal-development clause at §5 and any "development versus environment" stem. This is a named-scholar reconstruction; no page, chapter, edition or verbatim wording is asserted.
+
+### 5A.1 Three orientations: what has moral standing?
+
+| Orientation | Who or what counts morally | Why nature is protected | Characteristic weakness |
+|---|---|---|---|
+| **Anthropocentric** ✅ | human beings only | nature has instrumental value — as resource, life-support, amenity, and heritage for future humans | protects only what humans happen to need or value; permits destruction where no human interest is engaged |
+| **Biocentric** ✅ | all individual living beings, each having a good of its own | living things have inherent worth independent of use | gives no principled way to adjudicate between individual organisms, and cannot easily protect a species or a system as such |
+| **Ecocentric** ✅ | ecological wholes — species, habitats, ecosystems, the biotic community | integrity, stability and resilience of systems have value beyond their parts | risks subordinating individuals, human and non-human, to the good of the whole |
+
+**The discriminating question ⚠️:** would it be wrong to destroy a wilderness that no human being will ever see, use or know of? The anthropocentric answer must be no; the biocentric and ecocentric answers are yes, for different reasons. Posing this question is the fastest way to establish in an answer that the three orientations are genuinely distinct and not degrees of the same concern.
+
+⚠️ **Practical warning for an examination.** ❌ Do not adopt a strong ecocentric position casually. Pressed consistently, it can license coercive limits on human beings for the sake of systemic goods — which is the eco-authoritarian risk at §5A.6 — and it sits badly with the capability framework in §1.5 that the rest of this file relies on. The defensible position for a development answer is a **strong, non-instrumental anthropocentrism supplemented by duties of stewardship**, stated explicitly as a position and defended, rather than a slogan of "harmony with nature".
+
+### 5A.2 Naess: shallow and deep ecology
+
+✅ The distinction between **shallow** and **deep** ecology is associated with the Norwegian philosopher **Arne Naess** (**1973**).
+
+- **Shallow ecology** ✅ fights pollution and resource depletion, with the central objective being the health and affluence of people in the developed countries. Its concern is real but derivative: nature is managed to secure human welfare.
+- **Deep ecology** ✅ asks about the underlying assumptions instead of the symptoms. It affirms the intrinsic value of non-human life independent of usefulness, treats richness and diversity of life forms as values in themselves, and calls for a change in the ideological framework — in the human self-understanding that places humanity outside and above nature.
+
+**Reconstructed argument ⚠️:**
+
+1. environmental policy addressed to symptoms — emissions, effluent, depletion rates — leaves the generating framework intact;
+2. that framework treats nature as a standing reserve for human use and treats ever-rising consumption as the measure of a good life;
+3. so long as it is intact, efficiency gains are absorbed by expanded consumption and problems reappear at a larger scale;
+4. therefore an adequate response requires revising the framework — the conception of the self, of the good life and of humanity's place in nature — and not only the policy instruments;
+5. hence the difference between the two is one of **depth of questioning**, not of degree of concern.
+
+**Presupposition ⚠️:** value judgments about the good life are not private preferences but are open to public argument.
+
+**Objection → Reply ⚠️:**
+
+- **Objection:** deep ecology is a demand for conversion, not a policy; and in a world of severe deprivation it risks treating the consumption of the poor as equivalent to that of the affluent.
+  **Reply:** ⚠️ the strongest version distinguishes **subsistence** from **luxury** emissions and consumption, so the burden of restraint falls on affluence rather than on need. That reply is available, but it substantially domesticates deep ecology and concedes ground to §5A.5. Say so rather than concealing it.
+- **Objection:** intrinsic value in nature cannot be established without a valuing subject.
+  **Reply:** ⚠️ the reply is that the objection confuses the *source* of a value judgment with its *object* — a judgment made by humans can still be a judgment that something matters independently of humans. The residual problem, which is genuine, is that this leaves intrinsic value asserted rather than demonstrated.
+
+### 5A.3 Productivism and the degrowth challenge
+
+✅ **Productivism** is the assumption, shared across otherwise opposed ideologies, that expanding production is the master objective of social organisation — that growth is both the measure of success and the solvent of distributive conflict. ⚠️ Note that this critique applies to **industrial socialism as much as to capitalism**; making that point prevents an ecological answer from collapsing into a generic anti-market answer.
+
+**The degrowth argument, reconstructed ⚠️:**
+
+1. economic activity is embedded in a biophysical system with finite sinks and stocks;
+2. efficiency improvements per unit of output have historically been offset by expansion in the volume of output — so relative decoupling has not delivered absolute reduction at the required scale;
+3. beyond a threshold, further aggregate output adds little to health, longevity, education or reported well-being in affluent societies;
+4. therefore permanent aggregate growth is neither ecologically feasible nor developmentally necessary for already-affluent economies;
+5. hence the objective should be a planned reduction in throughput of energy and materials, with provisioning reorganised around sufficiency, care, shorter working time and equality;
+6. and — critically — the burden of reduction falls on high-consuming economies and classes, **not** on societies still below the deprivation threshold.
+
+**Presupposition ⚠️:** a non-growing economy can maintain employment, public services and social stability — the weakest and most contested link in the chain.
+
+**Objection → Reply ⚠️:**
+
+- **Objection:** reduced output means reduced employment, revenue and public provision, so degrowth harms exactly those it claims to protect.
+  **Reply:** ⚠️ proponents reply with work-time reduction, job guarantees, universal basic services and redistribution of existing wealth. The residual problem — no demonstrated case of a managed, socially stable contraction at scale — is serious and should be conceded.
+- **Objection:** the argument is inapplicable, even offensive, in a society where large numbers lack nutrition, electricity, sanitation and health care.
+  **Reply:** ✅ this is correct as against a **universal** degrowth prescription, and the defensible form is asymmetric: **contraction and convergence** — reduction where consumption is far above any defensible threshold, expansion where it is far below. State the asymmetry explicitly; an answer that applies degrowth uniformly to India has misunderstood the argument.
+
+⚠️ **Relation to §1.5:** Sen's framework does the same work from another direction. If development is expansion of capability rather than of output, then beyond the level at which output secures capability, further growth has no automatic developmental claim. The capability approach therefore supplies a **non-ecological** route to the same conclusion, and joining the two is a strong analytical move.
+
+### 5A.4 Intergenerational justice
+
+✅ **The claim:** present generations owe duties of justice, not merely of benevolence, to those not yet born — most plausibly a duty not to foreclose their capacity to meet their own needs and to live lives they have reason to value. ✅ The formulation adopted by the World Commission on Environment and Development, in *Our Common Future* (the **Brundtland Report**, **1987**), builds this into the concept of sustainable development itself. ❌ Paraphrase that formulation; do not reproduce it as a verbatim quotation.
+
+**The three problems that must be named ⚠️:**
+
+1. **The non-identity problem.** Different policies produce different future people. A person born into a degraded world owes her very existence to the policy that degraded it, and if her life is nonetheless worth living, she cannot claim to have been made worse off *by that policy*. ⚠️ The standard response is to shift from person-affecting to **impersonal** principles — what matters is the *quality of lives lived*, whoever lives them — or to ground the duty in the value of the resource base rather than in a wrong to identified individuals. State the problem and the response; an answer that asserts duties to the future without meeting it is incomplete.
+2. **Motivation and reciprocity.** Future people cannot reciprocate, cannot vote, cannot bargain and cannot sanction. Contractarian frameworks grounded in mutual advantage therefore struggle to generate the duty at all.
+3. **Discounting.** Standard economic appraisal discounts distant costs, which can make catastrophic distant harm appear trivial today. ⚠️ The philosophical objection is that a **pure time preference** — counting a person's interests for less merely because she exists later — is arbitrary in the way that counting them for less because she lives further away is arbitrary.
+
+**Presupposition ⚠️:** persons who do not yet exist can be objects of present duty. This is exactly what the non-identity problem contests, so it must be argued.
+
+**Objection → Reply ⚠️:**
+
+- **Objection:** we cannot know future people's preferences, technology or circumstances, so specific obligations are indeterminate.
+  **Reply:** ⚠️ the duty is best specified not as delivering particular goods but as **preserving options and avoiding irreversibility** — protect the capacity to choose rather than the content of the choice. Uncertainty is thus an argument for precaution about irreversible losses, not for inaction.
+
+### 5A.5 Environmentalism of the poor
+
+✅ The thesis is associated with **Ramachandra Guha and Joan Martinez-Alier**, *Varieties of Environmentalism* (**1997**). Its claim: environmentalism in the global South is typically **not** a post-material concern of the affluent for wilderness and amenity, but a struggle over **livelihood** — access to forests, water, grazing, fisheries and clean air by communities whose subsistence depends directly on them.
+
+**Reconstructed argument ⚠️:**
+
+1. a dominant account treats environmental concern as emerging only after material needs are satisfied;
+2. but many of the most sustained environmental conflicts occur among the poorest, and concern access to and control over resources on which they directly depend;
+3. these struggles are simultaneously distributional and ecological — they are about who bears the ecological cost of production and who is displaced by it;
+4. therefore environment and development are not opposed objectives at all for such communities; the two are the same question;
+5. hence "environment versus development" is a framing available only to those whose subsistence is not at stake.
+
+**Presupposition ⚠️:** ecological conflict is best analysed in terms of distribution of ecological costs and benefits, rather than of attitudes to nature.
+
+⚠️ **Why this reframes the whole clause.** The standard examination framing — "should we sacrifice environment for development or vice versa?" — presupposes that the affected people are the beneficiaries of the development in question. Where costs and benefits fall on different populations, the real question is **distributive**: who gains, who bears the risk, who decides, and on what terms. Reframing the stem this way is the highest-value move available in this section.
+
+**Objection → Reply ⚠️:**
+
+- **Objection:** the thesis romanticises poor communities as natural conservationists, when poverty also drives resource degradation.
+  **Reply:** ✅ the thesis is about the *structure of conflict*, not about ecological virtue. It claims that the poor fight over resources they depend on, which is compatible with degradation under insecure tenure. ⚠️ Indeed the strongest version argues that **secure rights** are what convert dependence into stewardship — which links directly to §5.4.
+
+### 5A.6 The eco-authoritarian risk and the just-transition reply
+
+⚠️ **The risk, stated as an argument the answer must defeat rather than ignore:**
+
+1. ecological limits are hard constraints, and breaching them is catastrophic and partly irreversible;
+2. democratic processes are slow, short-horizoned and vulnerable to organised interests and to voters who bear costs now for benefits later;
+3. therefore, it is argued, ecological survival may require insulating decisions from democratic contestation.
+
+**Four replies, in ascending strength ⚠️:**
+
+1. **Epistemic:** ecological policy depends on dispersed local knowledge of soils, water, seasons and species that centralised authority does not possess and cannot easily acquire.
+2. **Compliance:** measures imposed without consent are evaded, reversed at the next opportunity, and require enforcement capacity that itself consumes resources.
+3. **Record:** insulation from accountability has not historically produced ecological restraint; suppressing information and dissent removes the very feedback that detects ecological damage early.
+4. **Distributive — the decisive one.** Where the burden of adjustment falls on those least able to bear it — workers in closing industries, communities losing access to a resource, small producers facing new compliance costs — ecological policy will be neither just nor durable. A **just transition** conditions ecological restructuring on prior guarantees of livelihood, retraining, compensation and participation for those bearing the transition's costs. ⚠️ On this view, democratic participation is not an obstacle to ecological policy but a condition of its durability.
+
+⚠️ **Verdict to state:** the ecological case strengthens rather than weakens the argument for participation, because durable ecological transformation requires the consent and knowledge of those whose livelihoods it reorganises.
+
+### 5A.7 Binding to tribal development (§5)
+
+This is where the section earns its place. The tribal-development clause is not merely a case study of §5; it is the point at which every argument above converges.
+
+| Question from §5 | Ecological argument that answers it | Where |
+|---|---|---|
+| Who defines benefit? | environmentalism of the poor — for those whose subsistence depends on a resource, environment *is* development, so the "development versus environment" framing is not theirs | §5A.5 |
+| Who bears cost and risk? | the distributive core of ecological conflict; costs and benefits fall on different populations | §5A.5 |
+| Is land only a commodity? | the anthropocentric–biocentric–ecocentric spectrum shows that treating land purely as a resource is a **position**, not a neutral default | §5A.1 |
+| Whose knowledge counts? | the epistemic reply to eco-authoritarianism — dispersed local ecological knowledge is not dispensable | §5A.6 |
+| Are consent and self-government real? | just transition makes prior participation a condition of durable policy, not a courtesy | §5A.6 |
+| What is owed beyond the present generation? | intergenerational duties specified as preserving options and avoiding irreversible loss | §5A.4 |
+| Is the project's growth objective itself examinable? | the productivism critique makes the *aim* of the project contestable, not only its compensation package | §5A.3 |
+
+⚠️ **The reconstructed conclusion for §5.3:** a development project affecting a community dependent on a common resource must satisfy four tests jointly — (i) capabilities gained **and destroyed** are both counted, including the community's own; (ii) those bearing the cost participate in the decision, not merely in the compensation; (iii) irreversible ecological and cultural losses attract a precautionary presumption against, since they foreclose options for both present dissenters and future generations; and (iv) the burden of ecological adjustment is not shifted onto those least able to bear it. ✅ This converts §5.3's reconciliation model from a list of desiderata into an argued test.
+
+### 5A.8 Indian application (legal-status caution)
+
+- ✅ The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, **2006** is an **enacted rights-recognition statute** that recognises individual and community forest rights, including community rights over the management and protection of forest resources. ⚠️ Recognition of a right in a statute is not the same as its notification, its recording, or its effective exercise; and this file makes no claim about the extent of implementation anywhere.
+- ✅ The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, **1996** is an **enacted statute** extending adapted panchayat arrangements to Scheduled Areas, with a role for the Gram Sabha.
+- ✅ Article 48A (Directive Principles) and Article 51A(g) (Fundamental Duties) of the Constitution of India concern protection of the environment, forests and wildlife. ⚠️ Both are **non-justiciable** — Directive Principles are not enforceable by any court, and Fundamental Duties are not directly enforceable. Their presence establishes constitutional commitment, not ecological outcome.
+- ⚠️ **Controlling caution:** ❌ Do not cite any statute, judgment, scheme, target, figure or project as evidence that a philosophical position is correct, and do not name any project, company, movement or region. Use Indian material to show what an institutional recognition of ecological or community claims looks like, and argue the philosophy separately.
+
+---
+
 ## 6. INTER-THINKER / INTER-SCHOOL DEBATES
 
 ### 6.1 Growth model vs Sen
@@ -372,6 +516,9 @@ The conflict is not “modernity versus tradition” in the abstract. It concern
 
 ### 9.1 Keywords
 
+**Promoted vocabulary (this pass) ⚠️:** anthropocentric · biocentric · ecocentric · moral considerability · shallow ecology · deep ecology · productivism · degrowth · throughput · sufficiency · contraction and convergence · subsistence vs luxury consumption · intergenerational justice · non-identity problem · pure time preference · precaution and irreversibility · environmentalism of the poor · ecological distribution conflict · eco-authoritarianism · just transition
+
+
 growth · structural transformation · human development · functioning · capability · conversion factors · agency · adaptive preferences · social progress · intergenerational justice · sustainability · participation · recognition · dependency · post-development · *sarvodaya* · *swarāj* · trusteeship · dignity of labour
 
 ### 9.2 Reusable statement lines
@@ -412,39 +559,87 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 
 ## 11. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
-### 11.1 10 marks
+### 11.0 Directive decoder — the verb fixes the structure
 
-```text
-Define     : distinguish the paired terms.
-Argue      : show one causal or normative relation.
-Counter    : identify one failure mode.
-Illustrate : one controlled Indian example.
-Verdict    : necessary/sufficient/conditional conclusion.
-```
+| Directive in the stem | What is actually scored | Compulsory structural move | Failure mode |
+|---|---|---|---|
+| **Explain** | internal logic of one conception | definition → components → distinction from the neighbouring term → example | listing indicators instead of stating a conception |
+| **Discuss** | exposition plus one adjudicated tension | conception → rival → objection → reply → verdict | describing schemes and statistics |
+| **Evaluate** | a judgment against a stated standard | name the standard → apply → concede the counter-case → verdict | balanced description with no standard |
+| **Is X a necessary condition, sufficient condition, both or neither?** | the modal terms must be handled **separately and explicitly** | test necessity → test sufficiency → state which holds and why → verdict | answering "it is important" |
+| **Do you agree that…** | commitment is compulsory, with reasons and justification as asked | qualified position at the outset → reasons → counter-case → restated position | a survey of both sides |
+| **Is it possible to reconcile X with Y?** | conditions of reconciliation, not a yes/no | state what each requires → identify the collision → specify the conditions under which both are satisfiable | a wish-list of "balanced development" |
+| **Does X lead to Y?** | a causal claim requires a mechanism and a defeater | mechanism → what could break it → verdict on the conditional | assertion of correlation |
 
-### 11.2 15 marks
+### 11.1 10-mark method (~150 words · 4 moves · ~12 minutes)
 
-```text
-Frame   : state what conception of development is under dispute.
-Body A  : growth/human-development/capability exposition.
-Body B  : question-specific issue—skill, tribe, technology.
-Critique: paternalism, distribution, ecology or participation.
-Reply   : agency-centred and institutionally specific response.
-Close   : explicit graded judgment.
-```
+1. **Distinguish the paired terms (2 lines)** using the §1.2 grid — growth, economic development, human development, capability, social progress are five different concepts with five different measures.
+2. **One causal or normative relation (4–5 lines)**, stated as a mechanism with its conversion conditions.
+3. **One failure mode plus one evidence unit** from §11.4, with its limitation.
+4. **Graded verdict (2 lines)** — necessary, sufficient, conditional or neither, answered in those terms.
 
-### 11.3 20 marks
+> ❌ At 10 marks do not attempt Sen, Nussbaum, Gandhi and ecology together. One relation, fully worked.
 
-```text
-Frame   : development is a contested normative concept.
-Exposit : economistic → human development → capability/social progress.
-Debate  : rival thinker/model and strongest objection.
-India   : dated illustration, classifying statute/judgment accurately.
-Assess  : separate means, conversion conditions and final values.
-Close   : progress as freedom under justice and ecological limits.
-```
+### 11.2 15-mark method (~220 words · 6 moves · ~18 minutes)
 
-**For Gandhian development:** *sarvodaya–swarāj–trusteeship–village* → anti-industrial critique → Ambedkarite objection → reconstructed decentralisation under rights.
+1. **State which conception of development is under dispute** — the answer differs sharply depending on whether the stem assumes the economistic, human-development or capability conception.
+2. **Exposition** of that conception with its presupposition.
+3. **The question-specific issue** — skill, technology, tribe, ecology — worked through the conception, not appended to it.
+4. **One table**: the concept grid (§1.2), Sen's terms (§1.5), the three ecological orientations (§5A.1) or the §5A.7 binding grid.
+5. **One fully worked objection → reply → residual problem**: paternalism, distribution, ecology, participation or adaptive preference.
+6. **Explicit graded judgment** in the stem's own modal vocabulary.
+
+> ⚠️ For necessary/sufficient stems, run the two tests separately and name the counter-case for each: growth without capability expansion defeats sufficiency; severe material deprivation blocking health, education and voice supports a threshold form of necessity. State the threshold qualification — that is where the marks are.
+
+### 11.3 20-mark method (~300 words · 8 moves · ~25 minutes)
+
+1. **Provisional thesis:** development is a contested normative concept, and the stem turns on which conception is assumed.
+2. **The sequence**: economistic → human development → capability → social progress, showing what each conception *adds* and what defect it corrects.
+3. **The strongest rival model** — dependency, post-development, Gandhian or ecological — in its best form.
+4. **Two objection → reply chains**, each ending in a residual problem.
+5. **The ecological layer** (§5A) where the stem concerns sustainability, tribal communities or the limits of growth: orientation → productivism critique → intergenerational duty → environmentalism of the poor.
+6. **The distributive reframing**: who defines benefit, who bears cost, who decides — this converts a description into an argument.
+7. **One dated Indian illustration**, classified accurately as statute, judgment or constitutional provision, with the reminder that non-justiciable provisions establish commitment and not outcome.
+8. **Graded verdict** separating means, conversion conditions and final values.
+
+> ⚠️ On tribal-development stems, the mark-bearing structure is the four-test conclusion at §5A.7: capabilities destroyed as well as gained; participation in the decision and not only in compensation; a precautionary presumption against irreversible loss; and no shifting of adjustment costs onto those least able to bear them.
+
+### 11.4 Selectable evidence bank — 1 unit at 10 marks, 2 at 15, 4–5 at 20
+
+Each unit is **Claim → Named anchor → Use for → Limitation**.
+
+- **D1 · Growth is a means whose value depends on conversion.** Claim: income matters through what it enables persons to be and do, and conversion varies with body, environment and social norms → Named: Sen, *Development as Freedom* → Use for: every development stem → Limit: measurement and the selection of relevant capabilities remain contested.
+- **D2 · Utility adapts downward under deprivation.** Claim: the long-deprived may report satisfaction, so subjective welfare is an unreliable metric of development → Named: Sen's adaptive preferences → Use for: the decisive objection to welfare-based and satisfaction-based measures → Limit: risks paternalism if the analyst overrides reported preference without argument.
+- **D3 · Justice requires a threshold of central capabilities.** Claim: each person must reach a threshold compatible with dignity, specified as a political-constitutional minimum → Named: Nussbaum, *Creating Capabilities* → Use for: rights-adjacent development stems → Limit: a fixed list invites the charge of imposing one conception of the good; capability protects opportunity, not compulsory functioning.
+- **D4 · Human development is not income.** Claim: longevity, knowledge and a decent standard displace output as the measure → Named: Mahbub ul Haq; the UNDP framework → Use for: 10-mark distinction stems → Limit: composite national indices conceal distribution, gender, disability and ecological dependence.
+- **D5 · Underdevelopment can be produced, not merely inherited.** Claim: unequal incorporation into global economic relations generates underdevelopment, rather than it being an earlier stage on one universal path → Named: dependency approaches → Use for: critique of modernisation teleology → Limit: can understate domestic institutional and political factors.
+- **D6 · Who authorises the diagnosis?** Claim: post-development critics question the authority by which external experts define whole societies as deficient → Named: post-development critique → Use for: paternalism objections → Limit: romanticising the local can ignore internal hierarchy and genuine demands for health, education and mobility.
+- **D7 · *Sarvodaya*, restraint of wants and trusteeship.** Claim: unlimited wants generate dependence and violence, means shape ends, and self-rule requires economic capacity at the local level → Named: Gandhi → Use for: 2020-pattern Gandhian stems → Limit: ⚠️ Ambedkar's objection that the village reproduces caste and patriarchy is compulsory, not optional.
+- **D8 · Moral standing is the prior question.** Claim: anthropocentric, biocentric and ecocentric positions differ on what counts morally, not merely on how much nature to protect → Named: §5A.1 → Use for: environment-and-development stems → Limit: ⚠️ strong ecocentrism can subordinate individuals to systemic goods; adopt a position and defend it rather than gesturing at harmony.
+- **D9 · Depth of questioning, not degree of concern.** Claim: shallow ecology treats symptoms in the interest of affluent human welfare; deep ecology questions the framework that generates them and affirms intrinsic value in non-human life → Named: Naess (**1973**) → Use for: any sustainability stem needing philosophical, not policy, content → Limit: risks equating subsistence consumption with luxury consumption unless the distinction is drawn.
+- **D10 · Permanent aggregate growth is not a coherent universal objective.** Claim: efficiency gains have been offset by expanded output, and beyond a threshold further output adds little to health, longevity or education → Named: productivism critique and the degrowth argument (§5A.3) → Use for: limits-of-growth stems → Limit: ✅ apply asymmetrically — contraction where consumption is far above any defensible threshold, expansion where it is far below. ❌ Never prescribe degrowth for a society below the deprivation threshold.
+- **D11 · Duties run to those not yet born.** Claim: the present generation owes future generations a preserved capacity to meet their own needs, specified as preserving options and avoiding irreversibility → Named: intergenerational justice; the Brundtland Report, *Our Common Future* (**1987**), paraphrased → Use for: sustainability and precaution stems → Limit: the non-identity problem must be met, and pure time preference defended or rejected explicitly.
+- **D12 · Environmentalism of the poor.** Claim: environmental conflict in the global South is typically a struggle over livelihood and access rather than a post-material concern for wilderness → Named: Guha and Martinez-Alier, *Varieties of Environmentalism* (**1997**) → Use for: the single strongest reframing of "development versus environment"; essential on tribal stems → Limit: it describes the structure of conflict, not the ecological virtue of any community.
+- **D13 · Participation is a condition of durable ecological policy, not an obstacle.** Claim: epistemic, compliance, accountability and distributive arguments all tell against insulating ecological decisions from democratic contestation; a just transition conditions restructuring on livelihood guarantees and participation → Named: §5A.6 → Use for: the constructive close of any environment stem → Limit: it does not resolve the timing problem where a threshold is genuinely imminent.
+- **D14 · Technology expands power without supplying ends.** Claim: technical capacity alters what can be done but not what ought to be done, so ethical progress does not follow from technological progress → Named: §3.1 → Use for: 2019-pattern technology stems → Limit: technology does reshape the moral problems that arise, so the relation is not simply null — say so.
+- **D15 · Indian institutional illustrations, correctly classified.** Claim: PESA (**1996**) and the Forest Rights Act (**2006**) are **enacted statutes**; *Orissa Mining Corporation v. Ministry of Environment & Forest* (**2013**) is a **Supreme Court judgment** involving Gram Sabha consideration; Articles 48A and 51A(g) are **non-justiciable** constitutional provisions → Use for: the Indian paragraph in any 15- or 20-mark answer → Limit: ✅ enactment, judgment and constitutional commitment are dated legal facts; ❌ none of them proves reconciliation, implementation or philosophical correctness.
+
+### 11.5 Graded verdict formulas (adapt; never reproduce mechanically)
+
+- **Modal verdict:** "Economic development is a threshold-level necessary condition and is clearly not a sufficient one: severe material deprivation blocks health, education and voice, while rising output has repeatedly coexisted with intensified unfreedom, humiliation and ecological loss."
+- **Conversion verdict:** "Growth becomes progress only through just conversion into capability, dignity and sustainable institutions; the conversion conditions, not the output figure, are where the normative question lies."
+- **Agency verdict:** "Development treats persons inadequately when it counts them as beneficiaries but not as agents; participation is both instrumentally useful and constitutive of the end."
+- **Reconciliation verdict (tribal stems):** "Development is reconcilable with tribal values only where communities are agents rather than objects — where capabilities destroyed are counted alongside those gained, participation extends to the decision and not only to the compensation, irreversible losses attract a precautionary presumption, and adjustment costs are not shifted onto the least able to bear them."
+- **Asymmetric-ecology verdict:** "The ecological limit binds affluent consumption far more tightly than it binds subsistence; a uniform prescription of restraint mistakes an argument about the distribution of ecological burdens for an argument against material improvement as such."
+- **Instrument verdict:** "Technology expands the range of what can be done and thereby enlarges the domain of moral choice; it supplies no criterion for choosing, so ethical progress depends on institutions and values rather than on technical capacity."
+- **Contested-concept verdict:** "Social progress is normative and multidimensional rather than an automatic law of history; the stem is answerable only after the conception of development it assumes has been made explicit."
+
+### 11.6 Stem-specific spines
+
+- **For Gandhian development:** *sarvodaya–swarāj–*trusteeship–village → anti-industrial critique → Ambedkarite objection on caste and the village → reconstructed decentralisation under equal rights → verdict.
+- **For skill education:** capability rather than employability → what skill secures and what it cannot → obsolescence and work-quality objections → critical citizenship and dignity of labour → conditional verdict.
+- **For tribal reconciliation:** environmentalism of the poor reframes the question as distributive → the four tests of §5A.7 → PESA/FRA/Niyamgiri correctly classified → verdict on agency.
+
 
 ---
 
@@ -469,3 +664,9 @@ Close   : progress as freedom under justice and ecological limits.
 - [The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 — India Code](https://www.indiacode.nic.in/handle/123456789/1973?view_type=browse).
 - [The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 — India Code](https://www.indiacode.nic.in/bitstream/123456789/8311/1/a2007-02.pdf).
 - *Orissa Mining Corporation v. Ministry of Environment & Forest* (Supreme Court judgment, 2013), used as a dated judicial illustration of Gram Sabha involvement.
+- Arne Naess, the shallow/deep ecology distinction (**1973**). Cited by position and year only; paraphrased, never quoted.
+- World Commission on Environment and Development, *Our Common Future* (the **Brundtland Report**, **1987**). ❌ Its formulation of sustainable development must be paraphrased, never reproduced verbatim.
+- Ramachandra Guha and Joan Martinez-Alier, *Varieties of Environmentalism* (**1997**) — the environmentalism-of-the-poor thesis. Cited by title and year only.
+- [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), Articles 48A and 51A(g), used as dated constitutional illustrations only; both are non-justiciable.
+
+> ⚠️ **Provenance note for §5A (added in this pass):** the ecological political-philosophy module is a named-scholar reconstruction adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Naess, Guha, Martinez-Alier or the Brundtland Report, and **no** environmental datum, target, figure, project, company, movement or region is named. Environmental facts, policy and data belong to the `Environment-and-Ecology` and `Governance` areas of this repository, not here; this section supplies philosophy only.

@@ -113,7 +113,7 @@ We are committed to the existence of those entities that our best theory *quanti
 
 **Indeterminacy of translation:**
 
-There is no *fact of the matter* about which translation of a foreign sentence into English is "correct." Multiple incompatible translation manuals can fit all possible behavioural evidence equally well. This reinforces the attack on determinate "meanings" and "synonymy." ⚠️
+There is no *fact of the matter* about which translation of a foreign sentence into English is "correct." Multiple incompatible translation manuals can fit all possible behavioural evidence equally well. This reinforces the attack on determinate "meanings" and "synonymy." ⚠️ — **fully reconstructed at §1.7 below.**
 
 **Ontological relativity:**
 
@@ -123,7 +123,92 @@ What objects a theory is "about" is relative to the background language/theory i
 
 Philosophy is not the *a priori* foundation of science; it is continuous with science — "a chapter of psychology." Epistemology studies how sensory input leads to theoretical output, using the tools of science itself. ⚠️
 
-### 1.6 Quine's Relation to Empiricism ⚠️
+### 1.6 THE DUHEM–QUINE THESIS ✅ — the engine of holism, and the two halves of it
+
+**Statement.** A scientific hypothesis is never confronted by experience **alone**. It generates testable predictions only in conjunction with auxiliary hypotheses, background theory, instrument theory and initial conditions. Therefore a failed prediction condemns only the **conjunction**, and logic alone never tells us which conjunct to give up.
+
+**The two contributions — do not merge them ⚠️ (this is the most examinable precision on the sub-topic):**
+| | **DUHEM** — *La Théorie physique: son objet, sa structure* (**1906**) | **QUINE** — "Two Dogmas of Empiricism" (**1951**) |
+|---|---|---|
+| **Scope** | **Physics only.** Duhem explicitly restricts the thesis to theoretical physics, and holds that physiology and certain other sciences *can* test hypotheses more nearly in isolation | **All of knowledge.** "The unit of empirical significance is **the whole of science**" |
+| **Logic and mathematics** | **Exempt** — Duhem does not put them at risk | **Included** — "no statement is immune to revision," not even a law of logic |
+| **Chief corollary** | There is no ***experimentum crucis*** — no crucial experiment can decisively refute one hypothesis and confirm its rival, since the rival's own auxiliaries are equally in play | **Underdetermination** of theory by all possible evidence, plus the collapse of the verification principle (which requires *individual* confirmability) |
+| **Motive** | philosophy of physics; the practice of physicists | the demolition of the second dogma, reductionism |
+
+**The argument, numbered:**
+1. Let H be the hypothesis under test, A the auxiliary assumptions, and O the observational prediction. The testable claim is **(H & A) → O**.
+2. Observation reports **¬O**.
+3. By *modus tollens*, all that follows is **¬(H & A)** — i.e. H is false **or** some element of A is false.
+4. Logic does not say which. The choice is therefore **not dictated by evidence**.
+5. ∴ Refutation is never conclusive against a single statement — and, symmetrically, ✅ "**any statement can be held true come what may, if we make drastic enough adjustments elsewhere in the system**."
+6. ∴ The criterion of individual verifiability, on which the whole positivist programme rests, has no application. **The second dogma falls not to a counter-example but to a structural fact about testing.**
+
+**Canonical historical example ✅ — Uranus and Neptune.** Anomalies in Uranus's orbit conflicted with Newtonian predictions. Astronomers did **not** abandon Newton's laws; they revised the auxiliary assumption about the number of planets, and **Neptune** was found (Le Verrier and Adams, 1846). The identical strategy applied to Mercury's perihelion produced the hypothesised planet **"Vulcan"** — which does not exist, and there the correct revision turned out to be the deep one: general relativity (1915). ⚠️ **The pair together is the perfect illustration**: the same logical situation, opposite correct responses, and no rule saying in advance which to choose. Deploy both, not just Neptune.
+
+**Presuppositions ⚠️:** (P1) confirmation is a relation between evidence and *theory*, not evidence and *sentence*; (P2) there are no synthetic statements that are individually testable in isolation — even observation sentences carry theory; (P3) theory-choice is governed by pragmatic virtues (simplicity, conservatism, generality, fecundity) that are not themselves evidential.
+
+**Popper's reply ❓:** he accepts the logical point entirely but denies its sceptical use. Falsification is not an automatic logical process but a **methodological decision**: scientists agree by convention to treat certain basic statements as unproblematic for the purposes of a test, and to forbid *ad hoc* rescues that reduce a theory's testability. Rationality is preserved by rules of method, not by logic alone. **Lakatos** develops this into research programmes with a protected "hard core" and a revisable "protective belt" — which is Duhem–Quine turned into a *criterion of progress*.
+
+### 1.7 RADICAL TRANSLATION AND "GAVAGAI" ✅ (*Word and Object*, 1960, ch. 2)
+
+**The thought-experiment.** A field linguist enters a community whose language has no known relation to any other. He has no dictionary, no bilingual informant, no shared script — this is **radical translation**. His only evidence is what the natives are exposed to and what they assent to or dissent from.
+
+**Exact printed subterms** (use them; each is a distinct technical device):
+| Term | Meaning |
+|---|---|
+| **Stimulus meaning** | The class of stimulations that would prompt **assent** to a sentence, paired with the class that would prompt **dissent** |
+| **Occasion sentence** vs **standing sentence** | Assent commanded only when freshly prompted ("Gavagai," "It's raining") vs assent that persists without prompting ("Copper conducts electricity") |
+| **Observation sentence** | An occasion sentence whose stimulus meaning is **constant across speakers** of the community — the only place translation is secure |
+| **Analytical hypotheses** | The linguist's posited segmentation of native sentences into words and grammatical apparatus, projected beyond the observational base. **These are not determined by any evidence.** |
+| **Inscrutability of reference** | Even with translation of whole sentences fixed, the *reference of the terms inside them* remains undetermined |
+
+**The argument, numbered ✅:**
+1. A rabbit runs past; the native utters "**Gavagai**." The linguist notes assent under rabbit-stimulation and records the tentative translation "**Rabbit**."
+2. But the same stimulus meaning is equally compatible with:
+   - "**undetached rabbit-parts**" — wherever a rabbit is present, undetached rabbit-parts are present, and conversely;
+   - "**a temporal stage of a rabbit**" — likewise co-extensive;
+   - "**rabbithood**" (an instantiation of the universal) — likewise;
+   - "**it's rabbiting**" (a feature-placing sentence with no object at all).
+3. Could the linguist not simply *ask*? "Is this gavagai the same as that one?" — **No.** That question requires him to have already translated the **identity predicate**, the articles, plurals and quantifiers — i.e. the entire **apparatus of individuation**, which differs across languages and is exactly what is in dispute.
+4. Any evidence he collects can be accommodated by compensating adjustments elsewhere in the manual: a different translation of "gavagai" can be offset by a different translation of "same," and the two manuals will predict identical behaviour throughout.
+5. ∴ **Inscrutability of reference:** there is no fact of the matter about what the native's terms refer to.
+6. Extending upward from terms to sentences: rival **analytical hypotheses** can generate manuals that agree on all observation sentences yet translate theoretical and non-observational sentences into non-equivalent English.
+7. ∴ **Indeterminacy of translation:** there is no fact of the matter about which manual is correct — not because we cannot tell, but because **there is nothing further to be right or wrong about**.
+8. ∴ There are no determinate **meanings** as entities; synonymy has no behavioural anchor; and the first dogma's key notion is left without foundation. **Gavagai is therefore not a curiosity but the constructive completion of "Two Dogmas."**
+9. ∴ **Ontological relativity:** "to be is to be the value of a bound variable" holds only relative to a manual of translation; asking what a theory is *really* about, absolutely, is asking a question with no answer. Reference is fixed only relative to a background language — and for our own language we take it at face value ("**at home**," Quine says, we acquiesce in our mother tongue).
+
+**Presuppositions ⚠️ (state these — they are where every objection enters):**
+- **P1 — Behaviourism about the *evidence*.** ✅ Quine's own formulation: in psychology one may or may not be a behaviourist, but **in linguistics one has no choice**, since language is learned wholly from publicly observable behaviour.
+- **P2 — Verificationism about *facts*.** If two hypotheses differ in no possible evidence, there is no fact distinguishing them. ⚠️ **Note the irony**: Quine dismantles the verification principle as a theory of *meaning* and retains it as a criterion of *factuality*. Pointing this out is a genuinely advanced observation.
+- **P3 — Naturalism.** There is no first-philosophy standpoint from which to certify meanings; physics fixes what facts there are.
+
+**Strongest objections → replies ❓:**
+| Objection | Source | Quine's reply | Residual |
+|---|---|---|---|
+| Indeterminacy is nothing but the ordinary **underdetermination of theory by evidence**, which afflicts physics too. If Quine is a realist about physics despite underdetermination, he must be a realist about meaning. | **Chomsky** | The cases differ: in physics there *is* a fact of the matter that our theories imperfectly track; in translation there is **nothing beyond dispositions to verbal behaviour** for a manual to be right about. | ⚠️ Whether this asymmetry can be defended without begging the question is the central dispute. **Name it and take a side.** |
+| The argument proves too much: applied reflexively it entails that **I do not determinately know what I mean by my own words** — which is absurd. | Searle; Evans | Quine accepts a version of this: at home we simply acquiesce in our mother tongue; the "first-person" case has no privileged status, only a default one. | ⚠️ Many find the bullet too large to bite. |
+| Innate constraints on possible grammars (universal grammar) would cut down the space of admissible manuals. | **Chomsky** | Even so, the residual manuals would still be behaviourally equivalent; innateness restricts candidates, it does not create a fact of the matter. | ❓ Genuinely open. |
+| Radical **interpretation** shows more determinacy than Quine allows, once charity and a truth-theory are built in. | **Davidson** | Davidson accepts indeterminacy but confines it to something like the choice of measurement scale (Fahrenheit vs Celsius) — real but harmless. | ⚠️ The most influential softening; worth one sentence. |
+
+**Executable verdict:** "Gavagai is the constructive half of Quine's critique: 'Two Dogmas' showed that analyticity could not be defined, and radical translation shows *why* — there are no determinate meanings for a definition to capture. The argument's force is exactly proportional to its behaviourist premise, and Chomsky's objection identifies the pressure point precisely. What survives even if one rejects the premise is the negative result: nothing in observable use fixes reference uniquely, so any theory of meaning owing everything to use owes an account of individuation it has not given."
+
+### 1.8 QUINE ↔ LATER WITTGENSTEIN — the holism/use convergence ⚠️ (high-value, rarely written)
+
+Two traditions, no direct influence, and a striking convergence — a bridge that lifts any answer on either thinker:
+
+| Axis | **Quine** | **Later Wittgenstein** |
+|---|---|---|
+| **Target** | the museum myth of meaning — words as labels on determinate mental objects | the Augustinian picture — words as names of objects |
+| **Positive account** | meaning is **dispositions to verbal behaviour** within a total theory | meaning is **use** within a language-game and a form of life |
+| **Holism** | the unit of empirical significance is **the whole of science**; sentences do not face experience singly | a word has meaning only within the **practice**; "to understand a sentence is to understand a language" |
+| **Anti-foundationalism** | **Neurath's boat** — rebuild at sea, no dry dock | bedrock is reached where "**my spade is turned**" (PI §217): explanation ends in what we do |
+| **Rejection of the private** | the indeterminacy argument permits nothing beyond public behaviour to fix meaning | the private-language argument shows nothing private *can* fix meaning |
+| **Method** | epistemology **naturalised** — continuous with science | philosophy as **therapy** — description, not theory |
+| **Where they part** | ⚠️ **Decisively:** Quine wants a *scientific* account of language and accepts regimentation into canonical notation — he **reforms** language | Wittgenstein forbids theory-construction and holds that ordinary language "is in order as it is" (PI §98) — he **describes** it |
+
+> ⚠️ **The observation to make:** both arrive at the impossibility of determinate private meanings from opposite directions — Quine by asking what evidence *could* fix meaning, Wittgenstein by asking what could count as a *rule*. That two philosophers with no shared method reach the same negative result is the strongest available evidence that the referential/mentalistic theory of meaning is what fails, and not one particular argument against it. See [`Later-Wittgenstein.md`](Later-Wittgenstein.md) §§4–5 and [`Logical-Positivism.md`](Logical-Positivism.md) §P for the Neurath link.
+
+### 1.9 Quine's Relation to Empiricism ⚠️
 
 > ⚠️ Quine does NOT *reject* empiricism. He reforms it: **empiricism without the dogmas** = a holistic empiricism where experience still governs belief, but not statement-by-statement. He is a *more consistent* empiricist who abandons the myths that plagued the Vienna Circle. This is why the syllabus calls it a "critique of empiricism" — it is an *internal* reform, not an external attack.
 
@@ -226,6 +311,33 @@ While not a syllabus term, Strawson's "On Referring" is the direct rival to Russ
 
 > ⚠️ This debate illustrates Strawson's general method: attending to the *actual workings* of language-in-use (closer to later Wittgenstein) vs Russell's reconstruction in ideal logical form.
 
+### 3.6 STRAWSON AS A CRITIC OF EMPIRICISM ⚠️→✅ — the syllabus phrase covers BOTH names
+
+**The point that is nearly always missed.** The syllabus heading is "**Quine and Strawson: Critique of Empiricism**." Most answers treat "critique of empiricism" as Quine's contribution and give Strawson only basic particulars and persons. That halves the item. **Strawson is an anti-empiricist of a different and arguably deeper kind**: Quine reforms empiricism from within, whereas Strawson attacks the empiricist *starting point* — the idea that our conceptual scheme can be built up from private, momentary sensory items.
+
+**Five distinct lines of attack, each on a different empiricist doctrine ✅:**
+
+| # | Empiricist doctrine attacked | Strawson's argument | Where |
+|---|---|---|---|
+| **1** | **Sense-data as the basic particulars** (Russell's logical constructions; Carnap's *Aufbau*; phenomenalism) | Identification and **re-identification** of particulars require a **single unified spatio-temporal framework** of persisting three-dimensional bodies. Sense-data cannot supply one: they are **private** (so cannot ground public identification), **momentary** (so cannot be re-identified), and lack the **spatial** relations needed to constitute a framework at all. ∴ Material bodies are **basic** — not as a metaphysical preference but as a condition of the possibility of reference. | *Individuals* (1959), Pt I |
+| **2** | **The bundle theory of the self** (Hume; and the "**no-ownership**" view Strawson traces through Schlick and Wittgenstein-influenced writers) | If experiences were not *owned*, the no-ownership theorist could not even state his thesis: he must say "*all the experiences that are had by this body*," which reintroduces a possessive relation. And **P-predicates** must be ascribable to others on the strength of behaviour *and* to oneself not on that strength — so the concept of a **person** is **logically primitive**, prior to both mind and body. | *Individuals*, ch. 3 |
+| **3** | **The empiricist theory of reference** — that meaning is fixed by the logical analysis of expressions in abstraction from use | Referring is done by **speakers on occasions**, not by expressions; existence is **presupposed**, not asserted. Ordinary language is not a defective version of a logical calculus. | "On Referring" (1950) |
+| **4** | **Hume's problem of induction** — the empiricist sceptical conclusion | The demand for a justification of induction **as a whole** is senseless: to call a belief *reasonable* just is, in part, to say it is well supported inductively. Asking whether induction as such is rational is like asking whether the law is legal. This is a **dissolution**, not a solution. | *Introduction to Logical Theory* (1952), ch. 9 |
+| **5** | **Empiricism's inability to ground objectivity** | Reading Kant, Strawson isolates an anti-empiricist core that survives without transcendental idealism: **objective experience requires a conceptual framework — a unified spatio-temporal order and enduring objects — that cannot be derived from experience**, since experience of an objective world presupposes it. He simultaneously rejects the thing-in-itself as incoherent (it applies the very concepts it forbids). | *The Bounds of Sense* (1966) |
+
+**The unifying argument-form ⚠️ — Strawson's transcendental style:**
+1. Take an undisputed fact about our thought or talk (that we identify and re-identify particulars; that we ascribe experiences to others).
+2. Ask what must be the case for that fact to be possible.
+3. Show that the empiricist's preferred materials (private sense-data, unowned experiences) **cannot** satisfy the condition.
+4. ∴ Something else is basic — material bodies, persons — and it is basic *conceptually*, not causally or metaphysically.
+> This is a Kantian argument executed in an ordinary-language idiom, which is exactly why *The Bounds of Sense* and *Individuals* are one project.
+
+**⚠️ Two honest qualifications your answer should make:**
+- On the **analytic/synthetic** distinction, Grice and Strawson ("In Defence of a Dogma," 1956) **defend** a distinction the empiricists used. So Strawson is a critic of **Quine** there, not of empiricism. Noting this prevents the caricature of a united "Quine–Strawson front."
+- Strawson's metaphysics is **descriptive**, so his conclusions are about **our conceptual scheme**, not about mind-independent reality. An empiricist can therefore accept the whole of *Individuals* as good conceptual geography while denying that it settles what exists. **This is the strongest reply available to the empiricist, and conceding it strengthens rather than weakens an answer.**
+
+**Executable verdict:** "Quine and Strawson criticise empiricism from opposite ends. Quine attacks its **epistemology** — the myth that sentences face experience one by one — and remains an empiricist, purified. Strawson attacks its **starting point** — the myth that a conceptual scheme can be assembled out of private momentary items — and is not an empiricist at all. Read together they show that classical empiricism failed twice over: it could not say how theories are confirmed, and it could not say how we so much as refer to anything."
+
 ---
 
 ## 4. INTER-THINKER / INTER-SCHOOL DEBATES ⚠️
@@ -254,7 +366,7 @@ While not a syllabus term, Strawson's "On Referring" is the direct rival to Russ
 |---|---|
 | **Grice & Strawson:** The distinction is pre-theoretically clear; we *can* sort cases. Quine demands too much (reductive definition) | ⚠️ This is a live debate. Quine's point is that *philosophical work* done by the distinction (e.g. positivist meaning-criterion) collapses without a principled ground. |
 | **Analyticity *seems* real:** "All bachelors are unmarried" *seems* different in kind from "All swans are white" | Quine accepts the *appearance* but explains it away as difference of *degree* (centrality in the web), not kind. |
-| **Revisability of logic is extreme:** Has anyone ever *actually* revised a law of logic? | ⚠️ Quine: quantum logic (proposed by Putnam/Birkhoff); but this is controversial. Still, the *logical possibility* of revision is what matters for his argument. |
+| **Revisability of logic is extreme:** Has anyone ever *actually* revised a law of logic? | ⚠️ ✅ **Get the history right.** The **non-classical "quantum logic"** — a non-distributive lattice of propositions — was proposed by **Garrett Birkhoff and John von Neumann**, "The Logic of Quantum Mechanics," *Annals of Mathematics*, **1936**. The claim that this shows **logic is empirical**, i.e. that the **distributive law** should be revised on empirical grounds, is **Hilary Putnam's**, in "**Is Logic Empirical?**" (**1968**; reprinted as "The Logic of Quantum Mechanics," 1976). ❌ Do not write "Putnam/Birkhoff" as a joint proposal, and do not date it to one year. ❓ **Two further nuances worth a clause each:** (i) **Putnam later abandoned** the quantum-logic realism of that paper; (ii) **Quine himself grew conservative** — in *Philosophy of Logic* (1970) he argues that anyone who "denies" a law of logic has merely changed the subject ("**change of logic, change of subject**") and invokes the **maxim of minimum mutilation**. So the strongest textual support for revising logic comes from Putnam, not Quine, and the *later* Quine is a poor witness for the *earlier* Quine's most radical claim. **Deploying this makes an ordinary answer look researched.** |
 | **Holism is too extreme:** If *everything* is revisable, science has no fixed point at all — is this coherent? | ⚠️ Quine softens: logic/maths are revisable *in principle* but held fixed in practice (by pragmatic conservatism). The point is no statement is revisable by *nature*, only by *choice*. |
 
 ### 5.2 Criticisms of Strawson
@@ -368,7 +480,9 @@ Consequence: No sharp analytic/synthetic or a priori/a posteriori line.
              Theory-choice is pragmatic (simplicity, conservatism, fecundity).
              Positivist meaning-criterion collapses.
 Assess  : Strengths — dissolves positivist dogmatism; captures actual scientific practice
-          (Newtonian revision, quantum logic debates).
+          (Newtonian revision; the Neptune/Vulcan pair; the quantum-logic debate opened by
+          Birkhoff–von Neumann 1936 and pressed as an *empirical* revision of logic by
+          Putnam 1968).
           Weakness — if logic is revisable, what constrains rational belief? Risk of
           "anything goes" (mitigated by Quine's pragmatic conservatism).
 Close   : Holism liberates empiricism from atomism — the "web" is a more faithful model
@@ -403,6 +517,61 @@ Close   : The person is not mind-plus-body; it is what makes attributing both mi
           bodies intelligible. Strawson does not solve the mind-body problem — he
           dissolves the premise that generates it.
 ```
+
+---
+
+## D. DIRECTIVE DECODER ⚠️ — what each command word obliges you to *do* here
+
+| Directive | What it demands | Structural obligation for **this** file | Fatal error |
+|---|---|---|---|
+| **Critique of empiricism — discuss** | **both** names, and two *different* critiques | Quine: internal reform (holism replaces atomism). Strawson: external attack on the starting point (§3.6). | Giving Quine only. |
+| **Comment on the quotation** (2025 Q4b "any statement can be held true come what may") | the **conditional clause** is the doctrine | Explain via Duhem–Quine: *modus tollens* condemns only the conjunction, so the choice of what to revise is not evidential. Then the Neptune/Vulcan pair. | Quoting the first half and calling it relativism. |
+| **Examine the analytic/synthetic distinction** (2025, 2024, 2021, 2019) | the **circle of synonymy** as a *chain*, then the positive alternative | Analytic → meaning → synonymy → definition → interchangeability *salva veritate* → semantical rules → back to analyticity. Then Grice–Strawson's reply and Quine's rejoinder. | Asserting the distinction "cannot be defined." |
+| **Explain the theory of basic particulars** (2021 Q3b) | show why they are **basic**, i.e. an argument from identification | Re-identification requires a single spatio-temporal framework; sense-data are private, momentary and non-spatial; ∴ material bodies. | Listing what a basic particular is. |
+| **Discuss the theory of persons** (2023 Q4a, 2021 Q3b) | the **primitiveness** argument, against **two** rivals | M-predicates and P-predicates; the argument that P-predicates must be ascribable to self and others alike; then Cartesian dualism *and* the no-ownership theory refuted. | Refuting only dualism. |
+| **Distinguish descriptive from revisionary metaphysics** | give Strawson's **own** examples and the point of the distinction | Descriptive: Aristotle, Kant. Revisionary: Descartes, Leibniz, Berkeley. Point: revisionary metaphysics is in the service of descriptive. | Two definitions with no examples. |
+| **Assess indeterminacy of translation** | the **gavagai** construction, then the behaviourist premise | Rival manuals; the identity-predicate move; then Chomsky's underdetermination objection and take a side. | Asserting "meanings are indeterminate." |
+| **Do you agree? / Substantiate** | a ruling in line 1, defended | E.g. "Quine's holism succeeds against reductionism and overreaches about logic — as his own *Philosophy of Logic* concedes." | Neutral summary. |
+
+---
+
+## V. GRADED VERDICT BANK ⚠️ — executable closing positions
+
+| Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict** |
+|---|---|---|---|
+| **Analytic/synthetic** | Quine does not show the distinction is unintelligible; he shows it cannot be given a **non-circular** explanation, which is fatal only to the philosophical work it was made to do. | …Grice and Strawson are right that we can sort clear cases and wrong that this suffices, since the positivists needed analyticity as a *foundation*, not as a rough classification. | The dispute is about standards of explication, not about the phenomenon. Quine wins where the distinction was load-bearing — the verification principle, Carnap's internal/external questions, the linguistic theory of necessity — and loses where it was merely useful. That is why the distinction survives in ordinary semantic practice and has never been restored to its foundational role. |
+| **Holism / Duhem–Quine** | Statements face experience as a corporate body, so no single statement is individually confirmable — which by itself destroys the second dogma. | …Duhem confined the thesis to physics and exempted logic and mathematics; Quine's extension to *all* knowledge is the controversial step, and it is what makes the analytic/synthetic collapse follow. | Holism is right about confirmation and overstated about revisability. Quine's own later work concedes as much: *Philosophy of Logic* (1970) invokes the maxim of minimum mutilation and argues that to deny a law of logic is to change the subject. The defensible position is Duhem's thesis with Quine's motivation — testing is holistic, choice of revision is pragmatic, and logic is revisable in a sense so attenuated that nothing much follows from it. |
+| **Radical translation / gavagai** | There is no fact of the matter about reference, because no behavioural evidence can fix the apparatus of individuation. | …The argument's force is exactly proportional to its behaviourist premise about evidence, and Quine retains a verificationist criterion of *factuality* while rejecting verificationism about *meaning*. | Chomsky's objection identifies the pressure point: if underdetermination does not make physics factless, why does it make translation factless? Quine's asymmetry — that there is nothing beyond dispositions for a manual to be right about — is a naturalist thesis, not a result of the argument, so the argument establishes its conclusion only for those already persuaded of the naturalism. What survives independently is the negative result that use alone does not fix reference — a result the later Wittgenstein reaches by a wholly different route. |
+| **Ontological commitment** | "To be is to be the value of a bound variable" converts ontology from intuition-mongering into an audit of our best theory's quantifiers. | …It presupposes regimentation into first-order logic, so what a theory is committed to depends on how it is formalised — which is why ontological relativity follows. | The criterion is Quine's most durable contribution and also the reason his ontology is deflationary: since reference is fixed only relative to a manual, "what there is" is answered within a theory and not about theories. This is the exact point at which Quine and Carnap converge despite Quine's attack — both end with ontology as an intra-theoretic question, though Quine denies himself Carnap's excuse for saying so. |
+| **Basic particulars** | Material bodies are basic because identification and **re-identification** demand a single spatio-temporal framework that private, momentary sense-data cannot provide. | …The argument is transcendental in form — from an undisputed fact about reference to its necessary conditions — which is why *Individuals* and *The Bounds of Sense* are one project. | The conclusion is about our **conceptual scheme**, not about mind-independent reality, and Strawson says so: his metaphysics is descriptive. An empiricist may therefore accept the whole argument as conceptual geography while denying that it settles ontology. Whether descriptive metaphysics can be more than a very good map of how we think is the standing question about Strawson's programme, and the honest answer is that he never claimed more. |
+| **Persons** | "Person" is a **primitive** concept: it is not compounded from a mind and a body, because both dualism and the no-ownership theory presuppose it. | …The decisive argument is that P-predicates must be ascribable to others on behavioural grounds and to oneself not on those grounds; a concept with that dual condition cannot be constructed from either half. | Strawson defeats Cartesianism more economically than any argument from interaction: he does not ask how mind and body can interact but shows that the question presupposes a prior unity that neither term can supply. The cost is that "primitive" marks the end of analysis rather than an explanation — which is a legitimate result for descriptive metaphysics and an unsatisfying one for anybody who wanted the mind–body problem solved rather than dissolved. |
+| **Strawson vs Russell on referring** | Existence is **presupposed**, not asserted; a sentence with a failed presupposition raises no question of truth or falsity. | …This is a claim about ordinary use, not a refutation of the logical analysis, which was never offered as a description of conversation. | The two are answering different questions, and the enduring lesson is methodological: Russell asks what regimentation best serves logic and science; Strawson asks what our actual practice is. Both are legitimate, and the twentieth-century quarrel between ideal-language and ordinary-language analysis is largely a failure to notice that. |
+
+---
+
+## T. QUOTATION, DATING & PROVENANCE DISCIPLINE ✅
+
+**Both write in English, so the discipline here is **dating, attribution and formula-accuracy** — the commonest failures on this item are misattributed technical proposals.**
+
+| Item | Correct provenance | Caution |
+|---|---|---|
+| "Two Dogmas of Empiricism" | *The Philosophical Review*, **January 1951**; revised in *From a Logical Point of View* (**1953**) | ⚠️ The famous "web of belief" / "field of force" passage is §6, "Empiricism without the Dogmas." Cite the section. |
+| "Any statement can be held true come what may…" | "Two Dogmas," §6 | ✅ Safe verbatim. ❌ Do not truncate it — the conditional clause ("if we make drastic enough adjustments elsewhere in the system") is the doctrine. |
+| "To be is to be the value of a bound variable" | "On What There Is" (*Review of Metaphysics*, **1948**) | ⚠️ **Not** from "Two Dogmas." Separate paper, separate year. |
+| *Word and Object* | **1960** | Radical translation, gavagai, stimulus meaning, analytical hypotheses — **ch. 2**. ✅ The **epigraph is Neurath's boat** — cross-cite [`Logical-Positivism.md`](Logical-Positivism.md) §P. |
+| "Ontological Relativity" | Dewey Lectures, **1968**; in *Ontological Relativity and Other Essays* (**1969**) — the same volume as "**Epistemology Naturalized**" | ⚠️ Do not date naturalised epistemology to 1951. |
+| **Quantum logic** | ✅ **Birkhoff and von Neumann, "The Logic of Quantum Mechanics," *Annals of Mathematics*, 1936** — the formal proposal. ✅ **Putnam, "Is Logic Empirical?", 1968** — the claim that logic is empirically revisable. | ❌ **Never write "Putnam/Birkhoff" as a joint proposal, and never merge the dates.** ❓ Add that Putnam later abandoned the position, and that Quine's own *Philosophy of Logic* (**1970**) resists revision of logic via "change of logic, change of subject" and the **maxim of minimum mutilation**. |
+| **Duhem** | *La Théorie physique: son objet, sa structure* (**1906**); Eng. *The Aim and Structure of Physical Theory* (tr. Wiener, **1954**) | ⚠️ Duhem restricted the thesis to **physics** and exempted logic and mathematics. The label "**Duhem–Quine thesis**" is later shorthand for two **non-identical** claims — say so. |
+| **Popper** | *Logik der Forschung* (**1934**); Eng. **1959** | ⚠️ Popper accepts the logical point and answers it methodologically; do not present him as denying Duhem–Quine. |
+| *Individuals: An Essay in Descriptive Metaphysics* | **1959** | Basic particulars Pt I; persons ch. 3; the subtitle contains the phrase "descriptive metaphysics" — quote the **subtitle**, it is exact. |
+| "On Referring" | *Mind*, **1950** | ⚠️ Predates *Individuals* by nine years; it is not an application of descriptive metaphysics but its precursor. |
+| Grice & Strawson, "In Defence of a Dogma" | *The Philosophical Review*, **1956** | ⚠️ **Co-authored with H. P. Grice** — attributing it to Strawson alone is a standard slip. Note also the spelling: *Defence* (British). |
+| *The Bounds of Sense* | **1966** | The "**non-sequitur of numbing grossness**" charge against Kant's Second Analogy is here — see [`Kant.md`](Kant.md) §3.6.2. ✅ Safe verbatim; it is Strawson's own phrase. |
+| *Introduction to Logical Theory* | **1952** | The dissolution of the problem of induction, **ch. 9**. |
+| Chomsky's objection | "Quine's Empirical Assumptions," in *Words and Objections* (**1969**) | ✅ Attribute the underdetermination objection to Chomsky, not to "critics." |
+| Davidson | "Radical **Interpretation**" (**1973**) | ⚠️ **Interpretation**, not translation — the change of word marks the change of doctrine (no shared observation-base assumed; charity and a truth-theory instead). |
+
+> ❌ **Never write:** that Quine "rejected empiricism" (he calls his own position empiricism without the dogmas); that Strawson "defended empiricism" (he defends a distinction *against Quine*, which is not the same thing); that Duhem and Quine hold the same thesis; or that Quine denied the existence of meaning *tout court* rather than of meanings as determinate entities.
 
 ---
 

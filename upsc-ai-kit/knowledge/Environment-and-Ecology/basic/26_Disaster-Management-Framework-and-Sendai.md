@@ -228,3 +228,25 @@ attributed to their specific source and event for precise, defensible citation.
   relevant to cyclone preparedness.
 - ✅ `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` — NDMA's institutional
   relationship with other environmental governance bodies.
+
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Direct demand A — resilience framework and Sendai targets (2024 GS-III, 15 marks)
+
+**Thesis:** disaster resilience is the capacity of people, systems and infrastructure to anticipate, absorb, adapt and recover without recreating risk; it is determined by hazard exposure, vulnerability, coping capacity, institutions, information and the quality of recovery.
+
+**Answer spine:** definition/measurement logic → resilience elements (risk assessment and land-use; legal/institutional coordination; resilient infrastructure and finance; ecosystem buffers; early warning and inclusive participation; preparedness/Build Back Better) → seven Sendai global targets **A–D reduce mortality, affected people, economic loss and critical-infrastructure/basic-service disruption; E–G increase national/local strategies, international cooperation and multi-hazard early-warning/risk-information access** → DDMA/ULB implementation verdict. Do not substitute the four priorities for the seven targets.
+
+### 13.2 Direct demand B — urban floods (2024 GS-III, 15 marks)
+
+| Demand part | Core material |
+|---|---|
+| Causes | Extreme rainfall/climate signal interacting with sealed surfaces, encroached wetlands/floodplains, inadequate or blocked drainage, construction/land-use decisions, upstream releases and tidal/backflow where relevant. |
+| Two cases | **Mumbai 2005:** exceptionally intense rainfall met drainage, low-lying/reclaimed-land and waste-blockage vulnerabilities. **Chennai 2015:** northeast-monsoon extreme rainfall combined with altered wetlands/waterways and urban drainage/land-use stress. Use each as a causal feature, not a decorative name. |
+| Frameworks | NDMA **Guidelines on Management of Urban Flooding (2010)**; floodplain/zoning and drainage-catchment design; CWC–IMD warning/nowcasting; ULB/EOC response; Urban Flood Risk Management Programme; wetland restoration and risk-sensitive urban planning. |
+
+**250-word spine:** climate-risk framing → physical and governance causes → two compact cases → structural/non-structural/institutional tools → conclusion: restore storage and govern land use before relying on emergency pumping.
+
+### 13.3 General 10/15/20 architecture
+
+Use the Sendai shift from response to risk reduction, then map NDMA–SDMA–DDMA responsibilities, show a named ecosystem-based measure (mangrove/wetland/forest), identify the district/ULB capacity gap and end with a targeted, inclusive resilience verdict. Disaster-Management `basic/08` supplies deeper flood evidence; this Core contains a complete answer route.

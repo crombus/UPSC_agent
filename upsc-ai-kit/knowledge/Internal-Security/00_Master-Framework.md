@@ -258,6 +258,24 @@ its purpose (PDF p. 84-85). The two nonetheless form a genuine nexus
 8. **Close by relating the answer back to the internal-security doctrine**
    in Section 1, tying threat, response and constraint together.
 
+### 10A. Core-only answer construction test
+
+Before using an Advanced companion, test whether the Core owner can supply:
+
+| Question demand | What the Core answer must visibly contain |
+|---|---|
+| Define/explain | Precise concept, actor/means/objective distinction and a direct thesis |
+| Analyse/examine | Threat → vulnerability → capability → consequence chain, with a named example and a limitation |
+| Evaluate/critically examine | Implementation/outcome evidence separate from law/policy announcement, a counter-consideration and a graded verdict |
+| Compare | A controlled comparison of threat type, territory/community, institution and end-state — not two fact lists |
+| Suggest measures | Prevention, preparedness, response and recovery where relevant; a lawful mandate, capacity gap and rights/federal safeguard |
+
+**Evidence-unit rule:** write `claim → named evidence/example → why it
+supports the claim → limitation/status`. A law, accord, attachment,
+notification or reported operation becomes evidence only at its actual
+stage; it never automatically proves implementation, conviction,
+settlement or risk reduction.
+
 ## 11. Study sequence
 
 1. Read `01` for the doctrine, threat classification and root-cause

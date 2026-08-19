@@ -32,20 +32,14 @@ understood; here they are sequenced under a clock.
 
 ## 3. ✅ Exam facts / source basis
 
-- ✅ Both V1 years require two essays, about 1000–1200 words each,
-  one from each Section (see `../README.md`).
-- ✅ The 2024 paper prints "(125 × 2 = 250)"; ❌ the locally held 2025
-  copy prints no marks line.
-- ❌ **Neither locally held paper prints a "Time Allowed" header**, so
-  this folder states no duration and no minutes-per-phase figure. ⚠️
-  Confirm the paper's actual duration from the official question paper or
-  your admit card, then convert every proportional split below into
-  minutes yourself. A time plan built on an assumed duration is worse than
-  no plan, because it fails silently.
-- ⚠️ Neither paper prescribes how time should be split across choice,
-  planning, drafting and revision — the allocations below are a
-  pedagogical starting plan expressed as *shares*, to be adapted after
-  timed practice, not an official UPSC prescription.
+- ✅ The Essay paper baseline is **3 hours (180 minutes)** for two essays
+  of about 1000–1200 words, one chosen from each Section. Use the current
+  official paper/admit card if an examination notice changes this.
+- ✅ The 2024 paper prints "(125 × 2 = 250)"; the locally held 2025 copy
+  has no marks line. Neither fact creates an official phase-wise timing
+  rule.
+- ⚠️ The minute plan below is a pedagogical starter, not a UPSC
+  prescription. Its value is that it can be timed, diagnosed and adjusted.
 
 ## 4. The central idea and common misreading
 
@@ -58,9 +52,9 @@ clear thesis only after several paragraphs are already drafted.
 
 ## 5. Basic decomposition questions
 
-1. How much total time do I have for both essays combined? (✅ Take this
-   from the official paper/admit card — it is not printed in either
-   locally held copy, so this folder does not supply it.)
+1. How much total time do I have for both essays combined? (✅ Start with
+   the verified 180-minute baseline; check the current official
+   paper/admit card for any change.)
 2. How much time will I spend on choice-and-decode versus planning
    versus drafting versus revision, for each essay?
 3. Am I allocating roughly similar planning discipline to both essays,
@@ -72,15 +66,20 @@ clear thesis only after several paragraphs are already drafted.
 
 ## 6. Dimension-expansion grid
 
-| Phase | Approx. share of time per essay (illustrative starting split) |
-|---|---|
-| Choice and decode | Short, front-loaded — enough to run `01`'s checks and `02`/`03`'s decoding |
-| Planning (thesis + argument map + paragraph plan) | A meaningful block — this is where most quality is determined |
-| Drafting | The largest single block, but should not consume all remaining time |
-| Revision buffer | A protected, non-negotiable block at the end (see `14`/`15`) |
+| Clock point / phase | Starter allocation | Non-negotiable output |
+|---|---:|---|
+| 0–10: select and decode both choices | 10 min total | One viable thesis direction and evidence inventory for each essay |
+| 10–25: Essay 1 plan | 15 min | Thesis, 3–4 paragraph clusters, counter-view, conclusion direction |
+| 25–85: Essay 1 draft | 60 min | Complete 1000–1200-word draft; do not borrow Essay 2 time |
+| 85–95: Essay 1 revision | 10 min | Relevance, evidence-risk, transition and legibility sweep |
+| 95–110: Essay 2 plan | 15 min | Equivalent complete plan |
+| 110–170: Essay 2 draft | 60 min | Complete 1000–1200-word draft |
+| 170–180: Essay 2 revision | 10 min | Same four-part sweep |
 
-⚠️ Adjust this illustrative split after your own timed diagnostics
-(Section 12) — it is a starting point, not a fixed rule.
+**Checkpoints:** at minute **25**, Essay 1 must be planned; at **95**, it
+must be revised and closed; at **180**, both essays must be submitted.
+The 95-minute point is a hard cap: an unfinished Essay 1 is closed with
+its strongest available conclusion so Essay 2 retains its full budget.
 
 ## 7. India-first illustration starters
 
@@ -98,7 +97,7 @@ strongest available option rather than continuing to search for a
 ## 9. Simple essay architecture
 
 ⚠️ Use the paragraph-count plan from `07` as your drafting checklist —
-knowing you have, say, 10–12 planned paragraphs helps you pace drafting
+knowing you have, say, 9–12 planned paragraphs helps you pace drafting
 time evenly rather than over-writing the introduction and rushing the
 conclusion.
 
@@ -119,15 +118,30 @@ remaining time was spent on the body.
   sweep (`14`/`15`) as non-negotiable, not optional "if time permits."
 - ❌ **Continuing to search for a better thesis indefinitely.** → Repair:
   set a decision deadline (Section 8) and commit.
+- ❌ **Calling a partial draft a mock.** → Repair: a paper mock always
+  means two complete essays under the 180-minute clock; partial drafting
+  is a named micro-drill, not a substitute.
+
+## 11A. Recovery protocol under the clock
+
+| If this phase overruns | Pre-decided recovery action |
+|---|---|
+| Choice/decode | Commit to the current-best thesis; do not reopen all options |
+| Planning | Keep thesis, three clusters and counter-view; delete surplus branches |
+| Drafting | Reduce the number of clusters, not the mechanism/qualification inside those retained |
+| Revision | Run relevance plus factual/quotation-risk checks first; language polish comes last |
+
+⚠️ Record which recovery action was triggered. Repeated use identifies an
+underlying skill to repair, rather than a reason to permanently compress
+the same phase.
 
 ## 12. Timed micro-drill and self-check
 
-**Timed drill:** Using a real clock, run the full choice→decode→
-plan→draft(partial)→revise cycle for one prompt from `../README.md`
-within a fixed total time you set for yourself in advance. Record actual
-minutes spent per phase.
+**Timed drill:** Run a complete two-essay paper: choose one prompt from
+each Section, follow the 25/95/180 checkpoints, draft and revise both
+essays, and record actual minutes for every phase.
 
-**Self-check:** Compare your actual phase-by-phase time against your
-planned split (Section 6). Which phase consistently overruns? Adjust
-your next attempt's plan specifically for that phase, and log the
-pattern for `16`'s error log.
+**Self-check:** Did Essay 2 receive its planned 85 minutes? Record every
+missed checkpoint and recovery action in `16`'s error log. Change the
+next plan only after a pattern across three attempts, not after one bad
+day.

@@ -76,10 +76,29 @@ God = the Form of the Good                  God = Unmoved Mover (pure actuality)
 
 > ⚠️ Plato himself raises these objections in the *Parmenides*. Whether he resolves them in the later dialogues (*Sophist*, *Timaeus*) is ❓ contested.
 
-### 1.4 Key applications in the dialogues
+### 1.4 Key applications in the dialogues — the Sun, the Line and the Cave as ONE argument ✅
 
-- **Allegory of the Cave** (*Republic* VII): prisoners mistake shadows for reality; the philosopher ascends to sunlight (= the Good). The ascent is from *eikasia* → *pistis* → *dianoia* → *noēsis*. ✅ PYQ 2019 Q1(a) directly demands this.
-- **Divided Line** (*Republic* VI 509d–511e): four segments = four cognitive states corresponding to four grades of reality.
+Plato gives the three images in immediate succession (*Republic* VI 507a – VII 517a) and himself insists at 517a–b that the Cave "must be applied as a whole" to what preceded. **Treat them as one continuous argument:** answering with the Cave alone loses the epistemology; answering with the Line alone loses the political conclusion.
+
+#### The Divided Line ✅ (*Republic* VI 509d–511e) — four states, four objects
+
+| Segment | State of the soul | Object | What defines it |
+|---|---|---|---|
+| **D** | *eikasia* — imagination/conjecture | images: shadows, reflections | passively taking an image for its original |
+| **C** | *pistis* — belief/conviction | the visible things themselves | ordinary perception and trust |
+| **B** | *dianoia* — thought | mathematical objects | argues **downward** from unexamined hypotheses, and **uses** visible things as images |
+| **A** | *noēsis* — understanding | Forms, up to the Good | argues **upward** to an unhypothetical principle, using **no** images |
+
+> 🔑 **Mnemonic — "E-P-D-N"** matched to "**Images · Things · Mathematicals · Forms**."
+> ⚠️ **The single most examinable point:** what separates *dianoia* from *noēsis* is **not** the difficulty of the subject-matter but the **direction of argument** and the **use of images**. Mathematics reasons *down* from hypotheses it "takes as known" and gives no account of; dialectic reasons *up*, destroying their status as starting-points.
+
+#### The Allegory of the Cave ✅ (*Republic* VII 514a–517a) — the Line set in motion
+
+The Cave is the Line narrated as an education (*paideia*) and a conversion (*periagōgē*, the turning around of the whole soul): chained prisoners watching shadows (*eikasia*) → the released prisoner seeing the fire and carried artefacts (*pistis*) → the ascent, at first bearing only reflections of real things (*dianoia*) → the things themselves and finally the sun (*noēsis*). ✅ PYQ 2019 Q1(a) directly demands this.
+
+**Two features the Line does not contain, and that answers are rewarded for ⚠️:**
+1. **Conversion, not transfer.** Knowledge is not information poured into a soul; the whole soul must be turned around toward what is.
+2. **The return (*katabasis*).** The philosopher must go back down, will see badly in the dark, will be ridiculed and may be killed — a transparent allusion to Socrates. This is what converts an epistemological allegory into the political argument for philosopher-rulers, and it is also the argument's weakest link, since "having seen the Good" does not obviously entail the right to rule.
 - **Ideas as timeless and spaceless:** Forms occupy no location, undergo no temporal change, are not "in" space; hence they cannot be generated or destroyed. ✅ PYQ 2025 Q1(a): "Ideas are timeless and spaceless" — elucidate.
 
 ### 1.5 Substance for Plato ⚠️
@@ -120,7 +139,28 @@ Here Aristotle deepens the analysis. What makes *this individual* the substance 
 - **Form is not the universal species** (that would re-introduce Platonism); it is the *individual organising principle* — ❓ this interpretation (individual forms vs universal forms in Aristotle) is contested among scholars, but for UPSC purposes: form = essence = the principle of identity and intelligibility internal to the substance. ⚠️
 - **Prime matter** (*prōtē hylē*) is the limiting concept of utterly indeterminate matter — it has no properties of its own; all properties belong to form. Pure form without matter = God (the Unmoved Mover); prime matter without form is a theoretical posit that never exists independently. ✅
 
-### 3.3 The Substance–Accident Distinction
+### 3.3 The *Categories* / *Metaphysics* tension ⚠️→✅ — the nuance examiners reward
+
+| | ***Categories*** (2a11 ff.) | ***Metaphysics*** Z (VII) |
+|---|---|---|
+| What is substance? | the **concrete individual** — "this man", "this horse" (*tode ti*) | the **form / essence** (*eidos*, *to ti ēn einai*) |
+| Status of the species ("man") | **secondary** substance — less real than the individual | essence is **prior** in being, definition and knowledge |
+| Status of matter | not discussed | rejected as substance in its own right (Z.3): matter is neither separable nor a "this" |
+| Notorious sting | — | **Z.13: no universal is a substance** — yet form is a substance, and form looks universal |
+
+**The readings to name (give at least two) ✅:**
+1. **Different questions.** The *Categories* asks *which things* are substances and answers with the ultimate subject of predication — a logical-linguistic criterion. *Metaphysics* Z asks *what the substance of a thing is* — a causal-explanatory criterion. Two questions may have two answers without contradiction. ⚠️ **Safest exam line.**
+2. **Developmentalist** (Jaeger): the *Categories* is early and Platonic-adjacent; Aristotle later changed his mind. ❓ Depends on a disputed chronology.
+3. **Individual forms** (Frede–Patzig): the form that is substance is *this* organising principle, numerically distinct in each individual; Z.13 then leaves form untouched. ❓ Contested.
+4. **Universal forms** (Owen and others): form is the species-form, so Z.13 creates a genuine aporia. ❓ Contested.
+
+**Aristotle's four candidates for substance (*Metaphysics* Z.3):** substratum — **rejected** when taken as matter, since stripping every predicate leaves neither a "this" nor anything separable; **essence** — **accepted**, the leading answer of Z.4–6 and Z.17; **universal** — **rejected** at Z.13; **genus** — **rejected**, being predicated of many.
+
+**Z.17's decisive reformulation ✅:** substance is sought as a **cause**. The question is not "what is this?" but "**why is this matter a house?**", and the answer is the form. Substance is therefore an *explanatory principle*, not merely the bearer of properties.
+
+> ⚠️ **Executable verdict:** "The *Categories* identifies the substances; the *Metaphysics* identifies substance-hood. The individual remains what exists in the primary way, but what accounts for its being the individual it is, is its form. The tension is real only if 'substance' must have a single sense — which Aristotle denies, since being is said in many ways."
+
+### 3.4 The Substance–Accident Distinction
 
 | Category | Example | Status |
 |---|---|---|
@@ -257,7 +297,7 @@ Aristotle claims actuality is prior in three senses:
 | **The universal** | the *ousia* (truly real) | a secondary substance — less real than the individual |
 | **Matter** | the *Receptacle* (*Timaeus*) — barely real | one of the two principles of every substance |
 
-**Key for cross-paper link:** Plato's critique of democracy (*Republic* VIII) feeds directly into Paper II Forms-of-Government; Aristotle's natural-teleological politics feeds into Paper II's state/individual section. See [`../../paper-2/socio-political/Forms-of-Government.md`](../../paper-2/socio-political/Forms-of-Government.md).
+**Key for cross-paper link:** Plato's critique of democracy (*Republic* VIII) feeds directly into Paper II Forms-of-Government; Aristotle's natural-teleological politics feeds into Paper II's state/individual section. See [`../../paper-2/socio-political/Forms-of-Government.md`](paper-2/socio-political/Forms-of-Government.md).
 
 ---
 
@@ -356,7 +396,7 @@ Aristotle claims actuality is prior in three senses:
 | 2025 | Q1(a) | 10 marks | “Ideas are timeless and spaceless.” Elucidate this statement with reference to Plato. |
 | 2025 | Q1(b) | 10 marks | “In the empirical world, everything is a compound of Matter and Form.” Evaluate this statement with reference to Aristotle. |
 
-See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
+See the [Western Philosophy PYQ Bank, 2018–2025](paper-1/_PYQ-Western-Philosophy-2018-2025.md).
 
 ## 12. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 
@@ -410,15 +450,15 @@ Close : The contrast is not merely historical — it recurs in every realism/nom
 
 ## 13. LINK-OUTS
 
-- [`../_themes/Substance-across-western.md`](../_themes/Substance-across-western.md) — Aristotle's *ousia* as the starting point of the entire Western substance thread.
-- [`Rationalism.md`](Rationalism.md) — Descartes/Spinoza/Leibniz on substance (the thread continues from Aristotle).
-- [`Kant.md`](Kant.md) — Kant's categories (causality) and critique of dogmatic metaphysics (both Platonic and Aristotelian).
-- [`../_themes/Causation-across-schools.md`](../_themes/Causation-across-schools.md) — Aristotle's four causes vs Hume's constant conjunction vs Kant's category vs Indian satkāryavāda.
-- [`../indian/Nyaya-Vaisesika.md`](../indian/Nyaya-Vaisesika.md) — Nyāya's atomistic theory of creation + God as efficient cause (compare Unmoved Mover).
-- [`../indian/Samkhya.md`](../indian/Samkhya.md) — Sāṃkhya's satkāryavāda (effect pre-exists in cause) parallels Aristotle's potentiality.
-- Cross-paper: [`../../paper-2/socio-political/Forms-of-Government.md`](../../paper-2/socio-political/Forms-of-Government.md) (Plato on democracy/philosopher-king).
-- Cross-paper: [`../../paper-2/philosophy-of-religion/Proofs-for-God.md`](../../paper-2/philosophy-of-religion/Proofs-for-God.md) (Aristotle's Unmoved Mover → Aquinas's cosmological argument).
-- PYQ bank: [`../_PYQ-Western-Philosophy-2018-2025.md`](../_PYQ-Western-Philosophy-2018-2025.md).
+- [`../_themes/Substance-across-western.md`](paper-1/_themes/Substance-across-western.md) — Aristotle's *ousia* as the starting point of the entire Western substance thread.
+- [`Rationalism.md`](paper-1/western/Rationalism.md) — Descartes/Spinoza/Leibniz on substance (the thread continues from Aristotle).
+- [`Kant.md`](paper-1/western/Kant.md) — Kant's categories (causality) and critique of dogmatic metaphysics (both Platonic and Aristotelian).
+- [`../_themes/Causation-across-schools.md`](paper-1/_themes/Causation-across-schools.md) — Aristotle's four causes vs Hume's constant conjunction vs Kant's category vs Indian satkāryavāda.
+- [`../indian/Nyaya-Vaisesika.md`](paper-1/indian/Nyaya-Vaisesika.md) — Nyāya's atomistic theory of creation + God as efficient cause (compare Unmoved Mover).
+- [`../indian/Samkhya.md`](paper-1/indian/Samkhya.md) — Sāṃkhya's satkāryavāda (effect pre-exists in cause) parallels Aristotle's potentiality.
+- Cross-paper: [`../../paper-2/socio-political/Forms-of-Government.md`](paper-2/socio-political/Forms-of-Government.md) (Plato on democracy/philosopher-king).
+- Cross-paper: [`../../paper-2/philosophy-of-religion/Proofs-for-God.md`](paper-2/philosophy-of-religion/Proofs-for-God.md) (Aristotle's Unmoved Mover → Aquinas's cosmological argument).
+- PYQ bank: [`../_PYQ-Western-Philosophy-2018-2025.md`](paper-1/_PYQ-Western-Philosophy-2018-2025.md).
 
 ---
 
@@ -2088,69 +2128,72 @@ Use the key only after completing the questions. Wrong answers should be classif
 
 ## Solved topic-specific MCQs
 
-### Q1. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. *Presupposition:* the self-predication assumption (the Form of Man is itself a man) + the non-identity assumption (the Form that explains the resemblance must be distinct from both the particular and the first Form).
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
+Each item tests one discriminating doctrine, has four distinct options, and is followed by the key
+and an explanation. The correct options follow strict A -> B -> C -> D rotation.
+
+### Q1 [Third Man]. The Third Man Argument gets started only if two assumptions about Plato's Forms are granted together. Which pair?
+- A. **Self-predication** (the Form of Man is itself a man) together with **non-identity** (the Form that explains a resemblance must be distinct from the items whose resemblance it explains).
+- B. Self-predication together with the claim that Forms are the efficient causes of coming-to-be.
+- C. Non-identity together with the claim that Forms are grasped by *dianoia* rather than by *noesis*.
+- D. The one-over-many principle together with the claim that the Form is immanent in each particular.
 **Answer: A**
-**Explanation:** *Presupposition:* the self-predication assumption (the Form of Man is itself a man) + the non-identity assumption (the Form that explains the resemblance must be distinct from both the particular and the first Form).
+**Explanation:** Self-predication makes the Form itself an F-thing, so it joins the set of F-things needing explanation; non-identity forbids the Form from being the very item that explains that new set. Only together do they generate an infinite regress of Forms. B, C and D are Platonic or Aristotelian claims that do not by themselves start the regress: causal, epistemological and immanence theses leave the two regress-generating premises untouched.
 
-### Q2. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. **Allegory of the Cave** (*Republic* VII): prisoners mistake shadows for reality; the philosopher ascends to sunlight (= the Good). The ascent is from *eikasia* → *pistis* → *dianoia* → *noēsis*. ✅ PYQ 2019 Q1(a) directly demands this.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
+### Q2 [Cave]. In the Allegory of the Cave (*Republic* VII), the prisoner's ascent tracks which sequence of cognitive states?
+- A. *pistis* -> *eikasia* -> *noesis* -> *dianoia*
+- B. *eikasia* -> *pistis* -> *dianoia* -> *noesis*
+- C. *dianoia* -> *noesis* -> *eikasia* -> *pistis*
+- D. *noesis* -> *dianoia* -> *pistis* -> *eikasia*
 **Answer: B**
-**Explanation:** **Allegory of the Cave** (*Republic* VII): prisoners mistake shadows for reality; the philosopher ascends to sunlight (= the Good). The ascent is from *eikasia* → *pistis* → *dianoia* → *noēsis*. ✅ PYQ 2019 Q1(a) directly demands this.
+**Explanation:** The ascent runs from shadows (*eikasia*) to the objects casting them (*pistis*), then out to reflections and mathematical reasoning (*dianoia*), and finally to the sun, the Form of the Good (*noesis*). A and C scramble the visible and intelligible halves; D reverses the direction, describing the philosopher's *katabasis* (return) rather than the ascent. PYQ 2019 Q1(a) demands exactly this ordered sequence.
 
-### Q3. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. **Divided Line** (*Republic* VI 509d–511e): four segments = four cognitive states corresponding to four grades of reality.
-- D. The opposite or an unqualified version of the source proposition is correct.
+### Q3 [Divided Line]. On the Divided Line (*Republic* VI 509d-511e), what precisely distinguishes *dianoia* from *noesis*?
+- A. *Dianoia* concerns visible things whereas *noesis* concerns mathematical objects.
+- B. *Dianoia* is the harder state because it requires calculation, while *noesis* is intuitive and easy.
+- C. *Dianoia* reasons **downwards from unexamined hypotheses and uses visible images**, whereas *noesis* reasons **upwards to an unhypothetical first principle using no images**.
+- D. *Dianoia* belongs to *doxa* while *noesis* belongs to *episteme*.
 **Answer: C**
-**Explanation:** **Divided Line** (*Republic* VI 509d–511e): four segments = four cognitive states corresponding to four grades of reality.
+**Explanation:** Plato's discriminator is direction of argument plus use of images, not subject-matter or difficulty. A misplaces *dianoia* in the visible segment; B invents a difficulty criterion Plato never uses; D is the standard trap - both *dianoia* and *noesis* lie in the intelligible half and both count as *episteme*, the *doxa*/*episteme* cut falling between *pistis* and *dianoia*.
 
-### Q4. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. **Ideas as timeless and spaceless:** Forms occupy no location, undergo no temporal change, are not "in" space; hence they cannot be generated or destroyed. ✅ PYQ 2025 Q1(a): "Ideas are timeless and spaceless" — elucidate.
+### Q4 [Timeless Forms]. "Ideas are timeless and spaceless." Which consequence follows most directly for Plato?
+- A. Forms exist as thoughts located in the mind of a divine craftsman.
+- B. Forms change, but only very slowly, over vast stretches of time.
+- C. Forms are numerically identical with the particulars that participate in them.
+- D. Forms can be neither generated nor destroyed, since generation and destruction presuppose temporal succession and spatial location.
 **Answer: D**
-**Explanation:** **Ideas as timeless and spaceless:** Forms occupy no location, undergo no temporal change, are not "in" space; hence they cannot be generated or destroyed. ✅ PYQ 2025 Q1(a): "Ideas are timeless and spaceless" — elucidate.
+**Explanation:** Denying temporal and spatial conditions removes the very framework in which coming-to-be and passing-away occur, so ungenerability and indestructibility follow at once. A relocates Forms in a mind, which is a later Middle-Platonic move, not Plato's text; B concedes change and so contradicts timelessness; C collapses the chorismos that the doctrine exists to assert. PYQ 2025 Q1(a) sets this proposition verbatim.
 
-### Q5. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. **Primary substance** = the concrete individual thing — "this man," "this horse" (*tode ti*, "a this"). It is the ultimate subject of predication: everything else is either said *of* it or *in* it. ✅
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
+### Q5 [Primary Substance]. In the *Categories*, what makes the individual (*tode ti*) the **primary** substance?
+- A. It is the ultimate subject of predication - everything else is either *said of* it or *present in* it, while it is neither said of nor present in anything else.
+- B. It is the most universal item, under which species and genera are ranged.
+- C. It is the essence sought as a cause at *Metaphysics* Z.17.
+- D. It is pure form subsisting without any matter.
 **Answer: A**
-**Explanation:** **Primary substance** = the concrete individual thing — "this man," "this horse" (*tode ti*, "a this"). It is the ultimate subject of predication: everything else is either said *of* it or *in* it. ✅
+**Explanation:** The *Categories* criterion is logico-ontological independence in the order of predication. B inverts the hierarchy - universality is precisely what makes species and genus *secondary*. C states the *Metaphysics* question about substance-hood, a different enquiry from the *Categories* question about which things are substances. D describes the Unmoved Mover, not the ordinary sensible individual.
 
-### Q6. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. **Secondary substance** = species and genus ("man," "animal") — said *of* the primary substance but less real than it.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. The opposite or an unqualified version of the source proposition is correct.
+### Q6 [Secondary Substance]. Which is the correct account of "secondary substance" in the *Categories*?
+- A. Accidental qualities such as "white" or "seated", which are present in a subject.
+- B. **Species and genus** - for example "man" and "animal" - which are *said of* primary substances and count as substance only derivatively.
+- C. Prime matter, considered apart from all form.
+- D. The Platonic Form relocated inside the sensible particular.
 **Answer: B**
-**Explanation:** **Secondary substance** = species and genus ("man," "animal") — said *of* the primary substance but less real than it.
+**Explanation:** Secondary substances are the *said-of* predicables that state what a primary substance is, with species prior to genus because it is closer to the individual. A confuses the *said of* relation with the *present in* relation that marks accidents. C names a limiting concept from the *Physics*/*Metaphysics*, not a *Categories* item. D imports a Platonic entity Aristotle is arguing against.
 
-### Q7. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. **Reversal of Plato:** for Plato the universal is most real; for Aristotle the *individual* is most real. ✅
-- D. The opposite or an unqualified version of the source proposition is correct.
+### Q7 [Reversal of Plato]. Which formulation states Aristotle's reversal of Plato most accurately?
+- A. Both hold that the universal is most real; they differ only over how it is known.
+- B. For Plato the individual is most real, whereas for Aristotle the universal is most real.
+- C. For Plato the universal Form is most real, whereas for Aristotle the **individual concrete substance** is most real, the universal existing only *in* particulars.
+- D. Aristotle abolishes universals altogether and retains only matter.
 **Answer: C**
-**Explanation:** **Reversal of Plato:** for Plato the universal is most real; for Aristotle the *individual* is most real. ✅
+**Explanation:** The reversal is in the order of ontological priority: Plato's chorismos makes the separated universal primary, while Aristotle makes the *tode ti* primary and treats the universal as real but immanent. A denies the disagreement; B states it backwards; D overstates Aristotle, who keeps universals as genuine objects of scientific knowledge while denying them separate existence - and *Metaphysics* Z.13 denies that any universal is a substance, which is not the same as denying universals.
 
-### Q8. Which statement correctly resolves this common misconception: "The opposite or an unqualified version of the source proposition is correct."?
-- A. The opposite or an unqualified version of the source proposition is correct.
-- B. The opposite or an unqualified version of the source proposition is correct.
-- C. The opposite or an unqualified version of the source proposition is correct.
-- D. Substance = **form-matter compound** (*synolon*), but *form* (essence, the "what-it-is-to-be" = *to ti ēn einai*) has priority: it is what *makes* the thing what it is. ✅
+### Q8 [Synolon]. Aristotle holds that a sensible substance is a *synolon*. What is his considered view of priority within it?
+- A. Matter has priority, since without matter no individual would exist at all.
+- B. Matter and form are strictly co-equal, so no priority can be asserted.
+- C. The compound has priority over both, since only the compound is a *tode ti*.
+- D. **Form** (essence, *to ti en einai*) has priority, because it is what makes the compound the kind of thing it is - though the compound, not the form alone, is the sensible individual.
 **Answer: D**
-**Explanation:** Substance = **form-matter compound** (*synolon*), but *form* (essence, the "what-it-is-to-be" = *to ti ēn einai*) has priority: it is what *makes* the thing what it is. ✅
+**Explanation:** Aristotle grants form priority in definition, in actuality and in being the cause answering "why is *this matter* a house?" (Z.17). A confuses a necessary condition of existence with explanatory priority; B ignores the explicit priority claims of Z and Theta; C is the tempting half-truth - the compound is indeed the *tode ti*, but Aristotle's question in Z is about substance-hood, and there form answers. Keep both halves: form has priority, yet the sensible substance is the compound.
 
 ## Solved answer-writing practice
 
@@ -2162,7 +2205,8 @@ Use the key only after completing the questions. Wrong answers should be classif
 
 - *Presupposition:* the self-predication assumption (the Form of Man is itself a man) + the non-identity assumption (the Form that explains the resemblance must be distinct from both the particular and the first Form).
 - **Allegory of the Cave** (*Republic* VII): prisoners mistake shadows for reality; the philosopher ascends to sunlight (= the Good). The ascent is from *eikasia* → *pistis* → *dianoia* → *noēsis*. ✅ PYQ 2019 Q1(a) directly demands this.
-- **Divided Line** (*Republic* VI 509d–511e): four segments = four cognitive states corresponding to four grades of reality.
+- **Divided Line** (*Republic* VI 509d–511e): four segments = four cognitive states matched to four grades of reality — *eikasia* (images) · *pistis* (visible things) · *dianoia* (mathematicals) · *noēsis* (Forms). ⚠️ *Dianoia* and *noēsis* differ by **direction of argument and use of images**, not by difficulty: mathematics reasons *down* from unexamined hypotheses using images; dialectic reasons *up* to an unhypothetical principle using none. The Cave adds the *periagōgē* (conversion of the whole soul) and the **return** (*katabasis*), which carries the political conclusion.
+- **Categories vs Metaphysics Z:** the *Categories* identifies **which things** are substances (the individual, *tode ti*); *Metaphysics* Z identifies **substance-hood** (form/essence, sought at Z.17 as a *cause*: why is *this matter* a house?). Name at least two readings — different-questions (safest), developmentalist, individual forms, universal forms — and note Z.13's sting that no universal is a substance. ⚠️
 - **Ideas as timeless and spaceless:** Forms occupy no location, undergo no temporal change, are not "in" space; hence they cannot be generated or destroyed. ✅ PYQ 2025 Q1(a): "Ideas are timeless and spaceless" — elucidate.
 - **Primary substance** = the concrete individual thing — "this man," "this horse" (*tode ti*, "a this"). It is the ultimate subject of predication: everything else is either said *of* it or *in* it. ✅
 - **Secondary substance** = species and genus ("man," "animal") — said *of* the primary substance but less real than it.

@@ -168,6 +168,28 @@ atom -> element -> periodic trends -> bonding -> compounds -> reactions
 - ✅ `23_General-Science-Biology-and-Physiology.md` — biomolecules continue into the life-science domain.
 - ✅ `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — materials and chip chemistry in applied form.
 - ✅ `13_Biotechnology-Fundamentals-and-DBT-Missions.md` — chemistry of biomolecules feeds into biotechnology applications.
+## Core answer architecture — chemistry, process choice and water treatment
+
+**Thesis choice.** Chemistry becomes answer-worthy when atomic/molecular interaction is linked to a process choice and its waste, energy and safety trade-offs; a reaction name is not an evaluation.
+
+**10-mark spine.** Identify the chemical principle; trace the process in two or three stages; give one application; name the material, energy or disposal limitation.
+
+**15/20-mark spine.** Use **molecular/ionic/redox principle → process architecture → public/industrial/water application → cost, energy, by-product and safety comparison → context-specific verdict**. The full freshwater PYQ is owned by Environment; this file supplies chemistry mechanisms and a clean cross-link.
+
+**Evidence units.**
+- **Claim:** separation technologies exploit different physical-chemical properties → **reverse osmosis uses pressure across a selective membrane; thermal distillation uses phase change; ion exchange removes selected ions** → gives three distinct mechanisms for freshwater treatment → **qualification:** RO leaves brine and needs energy/pretreatment, distillation is energy-intensive, and ion exchange requires regeneration/disposal; choice depends on feedwater and scale.
+- **Claim:** redox chemistry enables industrial conversion → **oxidation/reduction, electrolysis and catalysis in extraction, corrosion control or energy systems** → explains transfer of electrons and process control rather than a rote reaction → **qualification:** reagent, energy, emissions and effluent costs can shift the preferred technology.
+- **Claim:** chemical safety is exposure- and use-specific → **pH, concentration, persistence and reaction by-products** → lets an answer judge disinfectants, plastics or household chemicals with mechanism → **qualification:** “natural,” “organic” or a product label is not evidence of safety or harm without dose and exposure context.
+
+**Verdict.** Select technologies by feedwater/material context, lifecycle burden and safe waste management, not by a universal claim of purity or sustainability.
+
+## Routed PYQ evidence — materials, water and consumer chemistry
+
+- **Hydrogel:** a cross-linked hydrophilic polymer network that absorbs/retains water; applications can include dressings, contact lenses, controlled release and water-management contexts. It is not simply a liquid or a generic “water purifier.”
+- **Coal gasification:** controlled conversion of coal with oxygen/steam can produce synthesis gas chiefly containing carbon monoxide and hydrogen, with other gases/by-products depending on process. It is not combustion, and climate/air-pollution impacts depend on capture, efficiency and downstream use.
+- **Water/BPA/triclosan:** water’s polarity supports solvation of many ionic/polar substances but not every substance; bisphenol A is a monomer associated with some polycarbonate/epoxy applications; triclosan is a synthetic antimicrobial used in some personal-care products. Product presence, exposure and regulation are context-specific—do not claim a universal product list or safety outcome without a source.
+- **Freshwater route boundary:** reverse osmosis, distillation and ion exchange mechanisms are in this Core file; the 2024 250-word freshwater-crisis PYQ’s full environmental, social and governance answer is owned by `../../Environment-and-Ecology/basic/14_Water-Pollution-and-River-Cleaning-Missions.md`.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

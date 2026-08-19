@@ -178,9 +178,10 @@ coordination, action/support) and their practical delivery.
   mangrove belt or restored wetland delivers hazard buffering,
   carbon storage and livelihoods at once — but that same multiplicity
   means it is funded, and evaluated, under whichever head happens to
-  claim it. 📰 India's ₹692.05 crore NDMF approval for **Assam wetland
-  restoration** (MHA, 11 February 2026) is significant precisely because
-  it books ecosystem restoration as **disaster mitigation**, giving the
+  claim it. 📰 An MHA Lok Sabha reply (2 December 2025) records
+  **₹519.04 crore from the NDMF for restoration and rejuvenation of 24
+  wetlands in Assam**. This sanctioned project is significant because it
+  books ecosystem restoration as **disaster mitigation**, giving the
   intervention a risk-reduction test rather than only an ecological one.
   ⚠️ The corresponding risk an advanced answer should name: without an
   agreed method for valuing avoided losses, Eco-DRR competes badly

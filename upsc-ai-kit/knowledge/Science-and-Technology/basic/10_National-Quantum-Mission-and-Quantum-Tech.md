@@ -153,6 +153,28 @@ quantum bit (qubit) -> a superposition state a|0> + b|1>;
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — another frontier-technology mission area.
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` — strategic science/technology mission comparison.
 - ✅ `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — hardware and advanced electronics ecosystem context.
+## Core answer architecture — quantum technology and readiness boundaries
+
+**Thesis choice.** Quantum technology is a portfolio of sensing, communication, computing and materials; physical qubits, a laboratory claim and useful fault-tolerant computation are not interchangeable milestones.
+
+**10-mark spine.** Explain the relevant quantum principle (superposition, entanglement, measurement or decoherence); identify the application family; state NQM’s institutional aim and the readiness limit.
+
+**15/20-mark spine.** Structure **quantum mechanism → application-specific architecture → Indian research/mission capability → strategic/economic payoff → error correction, hardware, standards, cryptography and scale constraints**.
+
+**Evidence units.**
+- **Claim:** quantum computing’s promise is selective rather than universal → **qubits use superposition/interference but decohere through environmental interaction** → explains potential advantages for selected algorithms → **qualification:** more physical qubits do not automatically make logical, error-corrected or useful machines.
+- **Claim:** different quantum applications solve different problems → **QKD distributes keys with quantum states, post-quantum cryptography uses classical algorithms, and sensing exploits quantum sensitivity** → prevents a catch-all “quantum security” claim → **qualification:** QKD needs specialised links; PQC migration is a standards and implementation task, not a quantum network.
+- **Claim:** NQM is a capability-building mission → **the Mission’s thematic hubs and physical-qubit target framing** → links research to communications, sensing, computing and materials ecosystems → **qualification:** mission approval or a company Majorana/topological hardware announcement is not proof of deployed fault-tolerant quantum capability.
+
+**Verdict.** Reward frontier research and cryptographic preparedness while using careful readiness language and resisting product-announcement hype.
+
+## Routed PYQ evidence — Majorana claim and quantum taxonomy
+
+- **Majorana 1 status test:** treat a company’s Majorana/topological-hardware announcement as a claim about a possible qubit architecture. It does not establish a useful, error-corrected quantum computer, a national quantum network or deployment in India.
+- **Taxonomy test:** `AI ⊃ machine learning ⊃ deep learning`; deep learning uses multi-layer neural networks. It is neither synonymous with all AI nor a quantum-computing method.
+- **Qubit test:** a qubit is a quantum state described by amplitudes before measurement; it is not “two classical bits,” a generic faster bit, or evidence that an NQM target has been met.
+- **Core ownership:** Topic 25 supplies the computing-stack comparison; this file supplies quantum mechanism, NQM and readiness limits. Both are Core.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

@@ -54,6 +54,7 @@
 > **Study link:** ✅ History → Medieval → Lodi decline → Babur's entry.
 > **Study link:** ⚠️ Compare Panipat I with Panipat II (`basic/15`) and Panipat III in Modern India.
 > **Study link:** ⚠️ Military technology bridge → gunpowder, artillery, cavalry tactics.
+> **Study link:** ✅ Persian-source methodology for the *Baburnama* → asic/07_Sultanate-Administration-Economy-Society.md §9.
 
 ## 4. Must-Know Facts (Prelims)
 
@@ -83,3 +84,37 @@
 - ⚠️ Explain how Central Asian instability pushed Babur toward India.
 - ⚠️ Assess Panipat and Khanwa as stages in the shift from Sultanate balance to Mughal hegemony.
 - ⚠️ Discuss gunpowder, cavalry and political legitimacy in the making of the early Mughal state.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Examine Central Asian backdrop | "Babur's Indian venture was not adventurism but strategic necessity: Uzbek pressure closed Central Asia, making India the only viable base for a Timurid prince with dynastic ambitions and a restless army." |
+| Assess Panipat/Khanwa significance | "Panipat (1526) eliminated the Lodi Sultanate; Khanwa (1527) neutralised the Rajput alternative — together they cleared north India for Mughal hegemony, though consolidation took another generation." |
+| Discuss military innovation | "Babur's success combined Timurid cavalry tactics with Ottoman-inspired gunpowder technology (wagons + matchlocks + flanking) — a synthesis that gave temporary but decisive battlefield superiority." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Babur twice won and lost Samarqand; shifted to Kabul (1504) after Uzbek pressure | Central Asian doors closed; India became the viable alternative | Contextualises the Indian campaign as necessity, not whim | Kabul income was small; army needed a richer base |
+| 2 | ✅ Panipat I (1526): defended cart-line + guns + flanking cavalry defeated Ibrahim Lodi | Tactical innovation against a numerically superior army | Demonstrates how technology + terrain-use compensated for numbers | Ibrahim's poor leadership also contributed; not solely a technology story |
+| 3 | ✅ Khanwa (1527): Rana Sanga's Rajput-Afghan coalition defeated by same combined-arms method | Mughal military system worked against different opponents | Shows replicability of Babur's tactical formula | Coalition had internal tensions; Rajput unity was incomplete |
+| 4 | ✅ Babur's decision to stay in India (against noble homesickness) | Committed the dynasty to an Indian future | Distinguishes Mughal state-building from Ghaznavid-style raiding | Decision required constant reinforcement; Humayun nearly lost everything |
+| 5 | ✅ Daulat Khan Lodi and anti-Ibrahim elements invited Babur | Internal divisions enabled external conquest | Links Lodi decline with Mughal opportunity | Babur exceeded the invitation; political opportunism, not mere rescue |
+
+### 8.3 Counterpoints
+
+- ⚠️ Gunpowder alone did not win: logistics, Timurid command experience and Indian political disunity all contributed.
+- ⚠️ Babur's empire was not instantly stable — Humayun's ejection (1540) shows fragility.
+- ⚠️ Part II gives 20 April for Panipat; many chronologies give 21 April — the date is trivial but frequently tested.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Central Asian necessity + Panipat + "staying" decision; conclude: strategic not adventurist.
+- **15-mark:** Add Khanwa + Daulat Khan's invitation; conclude: conquest required both external push and internal Indian disunity.
+- **20-mark:** Full 5-unit + compare with Mahmud/Muizzuddin; historiographical note on "gunpowder empire" concept; graded verdict.

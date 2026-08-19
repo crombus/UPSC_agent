@@ -3,6 +3,10 @@
 > **Source text:** [../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md](../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md)
 > **Folder index:** [README.md](./README.md)
 > **Audit rule:** `COVERED` = clear in-folder direct owner(s); `PARTIAL` = some in-folder coverage exists, but the clause is fragmented, indirect, or materially dependent on another subject folder; `GAP` = no auditable in-folder owner found.
+> **Tier rule:** every linked `basic/` file is the controlling, independently
+> answer-complete owner. Any `advanced/` link shown beside it is optional
+> enrichment only and is never required to close the syllabus clause or attain
+> the paper outcome.
 > **Older PYQ integration status (2018–2023):** routed questions are integrated into their
 > owner files. See [../_PYQ-INDEX.md](../_PYQ-INDEX.md) and
 > [../PYQ-INTEGRATION-AUDIT-2018-2023.md](../PYQ-INTEGRATION-AUDIT-2018-2023.md).

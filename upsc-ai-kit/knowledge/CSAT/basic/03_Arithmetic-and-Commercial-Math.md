@@ -30,17 +30,20 @@ step-by-step arithmetic.
 
 | Concept | Exam-ready formula |
 |---|---|
-| ✅ **Percentage change** | New = Old x (1 ± r). Successive changes multiply, they do **not** add. |
+| ✅ **Percentage change** | For a change of `p%`, `New = Old x (1 ± p/100)`. Successive changes multiply, they do **not** add. |
 | ✅ **Percentage point** | A change **between two percentages**: `50% - 40% = 10 percentage points`, which is a **25% relative** rise. Never write "10%" for it. |
 | ✅ **Ratio split** | Divide total by the sum of ratio parts to get one "part". |
 | ✅ **Average** | `Average = Sum / Count`; `Sum = Average x Count`. |
 | ✅ **Weighted average** | `(w1 a1 + w2 a2 + ...) / (w1 + w2 + ...)`. Equals the plain mean **only** when all weights are equal. |
-| ✅ **Alligation** | For `a < m < b`, mixing positive quantities at values a and b to get mean m gives ratio `(b - m) : (m - a)`. At an endpoint, one component has zero quantity; outside `[a,b]`, the target is infeasible. |
+| ✅ **Alligation** | For `a < m < b`, quantity at value `a` : quantity at value `b` is `(b - m) : (m - a)`. At an endpoint, one component has zero quantity; outside `[a,b]`, the target is infeasible. |
 | ✅ **Profit / loss** | `SP = CP x (1 ± profit%/loss%)`; profit% is on **CP**. |
 | ✅ **Simple interest** | `SI = P x R x T / 100` - interest on the **original principal** every period, so it grows **linearly**. |
 | ✅ **Compound interest** | `A = P x (1 + R/100)^T`; `CI = A - P` - interest on the **running amount**, so it grows **geometrically**. |
 | ✅ **Non-annual compounding** | For `k` compoundings a year use `A = P x (1 + R/(100k))^(kT)` - halve the rate and double the periods for half-yearly, quarter and quadruple for quarterly. |
 | ✅ **Partnership** | Profit share ∝ `capital x time`. |
+
+> **Routing boundary:** conditional probability is owned by Topic 06. This file uses percentages
+> and ratios that may be prerequisites, but does not treat a probability demand as Commercial Math.
 
 > 🔑 **Multiplier trap:** a +10% then -10% is **not** zero. `1.10 x 0.90 = 0.99` -> a **1% net fall**.
 
@@ -67,7 +70,49 @@ step-by-step arithmetic.
   form otherwise, and split the calculation if the rate changes between years.
 - ⚠️ `CI - SI = P (R/100)^2` holds **only** for exactly **2 years**, annual compounding, same rate.
 
-## 5. Original solved examples
+## 5. Core commercial workflows
+
+### 5.1 Direct and inverse variation
+
+If `y ∝ x`, then `y/x` is constant: doubling `x` doubles `y`. If `y ∝ 1/x`, then `xy` is
+constant: doubling `x` halves `y`. First name what is held fixed; do not call every changing pair
+“inverse.”
+
+**Worked example.** 8 workers make 240 units in the same time at the same rate. 12 workers make
+`240 x 12/8 =` **360 units** (direct variation). If 8 identical workers finish a job in 15 days,
+12 workers finish in `8x15/12 =` **10 days** (inverse variation, with equal productivity).
+
+### 5.2 Marked-price and discount workflow
+
+```text
+CP --(markup, if given)--> MP --(each discount multiplier)--> SP
+profit / loss percentage = (SP - CP) / CP x 100
+```
+
+**Worked example.** Cost price is 500, markup 20%, then discounts 10% and 5%. `MP=500x1.20=600`;
+`SP=600x0.90x0.95=513`. Profit `=13`, hence profit percentage **2.6%** on CP. Do not subtract
+discounts from CP or add successive discounts.
+
+### 5.3 Correcting an average
+
+If one recorded value `r` should have been `c` in a group of `n`, corrected average
+`= old average + (c-r)/n`. For several errors, add every `(correct-recorded)` difference to the old
+sum first.
+
+**Worked example.** The average of 20 marks is recorded as 48 after 35 was entered instead of 53.
+Correct average `=48+(53-35)/20 =` **48.9**.
+
+### 5.4 Compound interest with a withdrawal or instalment
+
+For a deposit, move chronologically: compound the current balance for one period, then add or
+subtract the cash flow at the stated time. The usual `P(1+r)^T` formula applies only when no
+intermediate cash flow changes principal.
+
+**Worked example.** Deposit 10,000 at 10% compounded annually; withdraw 1,100 at the end of year 1.
+After year 1: `11,000-1,100=9,900`; after year 2: `9,900x1.10 =` **10,890**. A withdrawal at the
+*beginning* of a year would be subtracted before that year’s compounding.
+
+## 6. Original solved examples
 
 ### 📝 Example A (ratio)
 
@@ -108,7 +153,7 @@ The plain mean of 62 and 72 is **67** - wrong, because the groups are not the sa
 **relative** change it is `(50 - 40)/40 =` **25%**. Both are correct answers to **different**
 questions - and the options will usually contain both. *(Verified.)*
 
-## 6. Must-Know facts
+## 7. Must-Know facts
 
 - ✅ `1/2 = 50%`, `1/3 ≈ 33.3%`, `1/4 = 25%`, `1/8 = 12.5%`, `1/20 = 5%` - memorise these for speed.
 - ✅ Profit% and loss% are always on **cost price**.
@@ -119,7 +164,7 @@ questions - and the options will usually contain both. *(Verified.)*
 - ✅ In partnership, equal-time investors share in the **capital ratio**; equal-capital investors
   share in the **time ratio**.
 
-## 7. Common traps
+## 8. Common traps
 
 - ❌ Adding successive percentages (10% + 10% = 20%). -> Multiply multipliers (`1.1 x 1.1 = 1.21`).
 - ❌ Taking profit% on selling price. -> It is on **cost price**.
@@ -131,14 +176,14 @@ questions - and the options will usually contain both. *(Verified.)*
 - ❌ Reading a discount off cost price. -> Discount is off **marked price**.
 - ❌ Using the annual CI formula when compounding is half-yearly/quarterly. -> Adjust `R` and `T`.
 
-## 8. Quick checks
+## 9. Quick checks
 
 - ✅ Can you turn "increases by 25%" into "x1.25" instantly?
 - ✅ Given a ratio and a total, can you get one part in one division?
 - ✅ Can you write alligation ratio without a diagram?
 - ✅ Can you say, for one stated change, both its percentage-point and its percent value?
 
-## 9. Mini-drill (with answers and explanations)
+## 10. Mini-drill (with answers and explanations)
 
 1. If A : B = 2 : 3 and B : C = 4 : 5, find A : B : C.
 2. Two successive discounts of 20% and 10% equal what single discount?
@@ -165,7 +210,46 @@ questions - and the options will usually contain both. *(Verified.)*
 8. **20.** `CI = 8000 x 1.05^2 - 8000 = 820`; `SI = 8000 x 5 x 2/100 = 800`; difference `= 20`, which
    equals `P (R/100)^2 = 8000 x 0.0025`. *(Verified.)*
 
-## 10. Study links
+## 11. Timed mixed practice, diagnosis and retry gate
+
+**Set rule:** solve in **12 minutes** without a calculator. For every answer, label the governing
+relationship first: `P` percentage multiplier, `V` variation, `W` weighted average, `M` marked-price
+chain, `C` cash-flow compounding, or `R` ratio.
+
+1. Price rises by 40%. By what percentage must consumption fall to keep expenditure unchanged?  
+2. If 15 machines make 900 parts in 6 hours, how many parts do 10 identical machines make in 9 hours?  
+3. A 25-member class has recorded average 60. One score 42 was actually 57. Find the corrected average.  
+4. CP is 800; markup is 25%, followed by discounts 10% and 20%. Find profit/loss percentage.  
+5. A deposit of 20,000 earns 5% annual CI. At the end of year 1, 1,000 is withdrawn. Find the balance
+   at the end of year 2.  
+6. Mix 20 kg at 30/kg and 30 kg at 45/kg. Find the mean price/kg.  
+7. A:B capital ratio is 3:5; A invests 8 months and B 6 months. Divide profit 5,400.  
+8. A pass rate rises from 48% to 60%. State the percentage-point and relative changes.
+
+**Answers.** 1. `40/140 =` **28 4/7%** (`P`); 2. **900** (`V`, output ∝ machines x time);
+3. `60+(57-42)/25 =` **60.6** (`W`); 4. `1.25x0.90x0.80=0.90`, **10% loss** (`M`);
+5. `(20,000x1.05-1,000)x1.05 =` **21,000** (`C`); 6. `(600+1,350)/50 =` **39** (`W`);
+7. time-weighted ratio `24:30=4:5`, shares **2,400 and 3,000** (`R`); 8. **12 percentage
+points; 25% relative rise** (`P`).
+
+| Miss pattern | Error code | Repair before retry |
+|---|---|---|
+| Added percentages or used the wrong base | **C** | Draw CP→MP→SP or write every multiplier. |
+| Plain-averaged unequal groups / quantities | **W** | Rebuild totals as quantity × value. |
+| Reversed direct and inverse variation | **V** | State the constant (`y/x` or `xy`) before numbers. |
+| Compounded a withdrawn/deposited amount for the wrong period | **C** | Write a year-by-year balance line. |
+| Accurate but too slow | **T** | Redo using fractions/smart numbers; park at the set ceiling. |
+
+| Date / set | Score / time | P | V | W | M | C | R | T | Next repair |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---|
+|  |  |  |  |  |  |  |  |  |  |
+
+**Gate:** score **7/8 within 12 minutes**, then **7/8 on a new mixed set** after any correction
+before treating Advanced methods as optional enrichment. For full papers, use the Master Framework’s
+qualifying-margin and negative-marking rules; never try to recover a weak Core score with blind
+commercial-math attempts.
+
+## 12. Study links
 
 - ✅ [Advanced companion](../advanced/03_Arithmetic-and-Commercial-Math.md) - repeated replacement,
   markup-plus-discount, and equating-ages methods.

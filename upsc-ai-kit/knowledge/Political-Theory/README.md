@@ -13,6 +13,43 @@
 
 ---
 
+## Tier policy (read before planning study time)
+
+> **`basic/` is independently sufficient — and answer-complete — for Political-Theory
+> conceptual answers.** After the rebuild, every `basic/NN` file carries, in its own text, the
+> full doctrine reconstruction, the named-thinker evidence units, the objection → reply chains,
+> the directive decoder and the executable 10/15/20-mark answer architecture needed to write a
+> full-marks conceptual answer on that topic without opening any other file. **No marks-critical
+> Political-Theory content lives only in `advanced/`.**
+>
+> **Quotation/proposition method — stated accurately, not universally.** ⚠️ A dedicated
+> quotation/proposition section or subsection is present in **19 of the 23** Basic files:
+> `basic/01`-`basic/10`, `basic/12`, `basic/13`, `basic/16`, `basic/17` and `basic/19`-`basic/23`.
+> The remaining four — `basic/11`, `basic/14`, `basic/15` and `basic/18` — carry **inline
+> provenance discipline only** (targeted attribution cautions, dated bibliographic notes and ⚠️
+> tags at the point of risk: the Kautilya/Palmerston misattribution in `basic/11`, the
+> Kelsen/Hart date correction in `basic/14`, the Bachrach–Baratz/Foucault provenance notes in
+> `basic/15`, and the §21/§22 provenance notes in `basic/18`) rather than a local restatement of
+> the method. For those four, run [`00_Master-Framework.md`](00_Master-Framework.md) §5D, which now
+> also carries the per-file coverage table. This folder does not claim universal local coverage
+> where it does not exist.
+>
+> **`advanced/` is optional enrichment.** It adds extra thinker-by-thinker matrices, longer
+> direct-book reconstruction, additional internal debates and further comparative criticism.
+> Skipping it must not cost a single mark; reach for it only when time permits or when a
+> PSIR-style question demands unusual depth.
+>
+> **The tier policy does not enlarge the subject boundary.** Basic being answer-complete means
+> answer-complete *for the conceptual layer this folder owns* — the concepts of the state,
+> sovereignty, power, rights, liberty, equality, justice, citizenship, representation and
+> democracy. It is **not** a claim to own constitutional/institutional facts (`../Polity/`),
+> delivery and accountability machinery (`../Governance/`), applied moral dilemmas and
+> public-service values (`../Ethics/`), or the current international order and foreign policy
+> (`../International-Relations/`). Those outward facts remain delegated to their direct owner
+> folders, and any answer needing them must fetch them there.
+
+---
+
 ## Official UPSC syllabus mapping
 
 > **Authority:** [`../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md`](../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md)
@@ -26,10 +63,36 @@
 > direct named GS owner here and must not be described as owning the constitutional,
 > institutional, Ethics or Essay syllabus outright.
 >
+> **Status meaning:** **PARTIAL** records *syllabus-clause* ownership, not file completeness. The
+> conceptual slice of each clause below is **answer-complete in the listed `basic/` file** (see
+> Tier policy above); the outward Polity, Governance, Ethics, IR and Essay remainder stays
+> **delegated** to its direct owner folder, which is why every clause remains PARTIAL. Status is
+> not upgraded for optics. Full per-clause notes:
+> [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAPPING.md).
+>
 > **PYQ status:** 2018-2023 remains **central-routing-only** via
 > [`../_PYQ-INDEX.md`](../_PYQ-INDEX.md). This folder does **not** embed a subject-owned
 > 2018-2023 Political-Theory GS ledger; its verified PYQ references mainly point outward to
 > the local Philosophy corpus and other application folders.
+>
+> **Why zero central PYQ routes is an honest design state, not a gap.** ⚠️ The central ledgers
+> route every printed question to a **direct named owner** folder. Political Theory has **no such
+> owner route**, and that is correct rather than deficient: UPSC does not print a
+> "Political Theory" paper, and every question that touches this folder's concepts is printed
+> under a paper whose direct owner is `Polity`, `Governance`, `Ethics`, `Social-Justice`,
+> `International-Relations` or `Essay`. This folder is **supplementary conceptual support** (see
+> the Ownership note above), so a route pointing here would either duplicate a question already
+> owned elsewhere or assert an ownership claim the folder explicitly disclaims.
+>
+> ❌ **What must not be done about it.** No alias, proxy or synthetic route may be invented to
+> manufacture a non-zero count — not by re-tagging Polity/Ethics questions as Political-Theory,
+> not by creating a mirror ledger here, and not by presenting practice prompts as PYQs. Every
+> question-shaped item in this folder is labelled ⚠️ **practice prompt**, and the only genuine PYQ
+> anchors used are the **verified local Philosophy Optional papers (2022-2025)**, cited as a
+> *separate application source* and never as Political-Theory GS paper evidence.
+> ✅ **The correct check** is therefore whether each Basic file's concepts are reachable *from* the
+> owner folders that do hold routes (via the cross-links in every file's "Cross-links and
+> boundaries" section), not whether this folder holds routes of its own.
 
 | Official clause | Status | Existing owner files | Note |
 |---|---|---|---|
@@ -44,10 +107,29 @@
 
 ## How this folder works
 
-- **Two tiers per topic:** `basic/NN` builds the must-do concept map, definitions, thinker
-  positions and a revision-ready answer spine; `advanced/NN` adds direct-book argument
-  reconstruction, thinker-by-thinker depth, internal debates, comparative matrices and an
-  UPSC answer-engine. **Same number = same topic** in both tiers.
+- **Two tiers per topic:** `basic/NN` is the **answer-complete owner** — concept map, definitions,
+  thinker positions, doctrine reconstruction, named evidence units, objection → reply chains,
+  directive decoding and the 10/15/20-mark answer architecture, all self-contained.
+  `advanced/NN` is **optional enrichment only** — extra thinker-by-thinker matrices, longer
+  direct-book reconstruction, further internal debates and comparative criticism. **Same number
+  = same topic** in both tiers, and no marks-essential content sits only in the Advanced tier.
+- **Six Core modules live inside existing Basic files, not as separate topic numbers.** Each is
+  provenance-flagged ⚠️ because none is drawn from Gauba's own page range for that chapter, and
+  each carries its own evidence units, objection → reply chains and answer architecture:
+
+  | Module | Owner |
+  |---|---|
+  | Conservatism (Burke, Oakeshott; four pillars; strands; prudential reform vs Fabian and Gandhian change) | [`basic/05_Socialism-Fascism-Anarchism-and-Gandhism.md`](basic/05_Socialism-Fascism-Anarchism-and-Gandhism.md) §22 |
+  | Digital power and surveillance (panopticism caveated, algorithmic power, three-dimensional ladder applied, surveillance asymmetry, public/private power) | [`basic/15_Power-Authority-and-Legitimacy.md`](basic/15_Power-Authority-and-Legitimacy.md) §14 |
+  | Republican liberty as non-domination (Pettit, Skinner) | [`basic/18_Liberty-Equality-and-Property.md`](basic/18_Liberty-Equality-and-Property.md) §22 |
+  | Populism (thin-centred core, variants, leader mediation, anti-pluralism) | [`basic/23_Contemporary-Democracy-Social-Change-and-Development.md`](basic/23_Contemporary-Democracy-Social-Change-and-Development.md) §21 |
+  | Ecological political theory (distinct from the sustainable-*development* model) | [`basic/23_Contemporary-Democracy-Social-Change-and-Development.md`](basic/23_Contemporary-Democracy-Social-Change-and-Development.md) §22 |
+  | Digital democracy (thin layer: consent, representation, public sphere) | [`basic/23_Contemporary-Democracy-Social-Change-and-Development.md`](basic/23_Contemporary-Democracy-Social-Change-and-Development.md) §23 |
+
+  ⚠️ Two of these were previously listed as *optional Advanced enrichment* and are now Core:
+  republican non-domination, and the extension of power theory to digital/surveillance contexts.
+  ⚠️ `basic/23` §23 deliberately does **not** duplicate `basic/15` §14 — it cites the power
+  mechanisms and confines itself to their democratic-theory consequences.
 - **Tagging discipline:** ✅ = a claim or attribution taken directly from Gauba's book (or another
   named canonical/official source) and accurately cited by PDF page; ⚠️ = an analytical
   comparison, inference, contested interpretation or pedagogical synthesis built to make the
@@ -94,7 +176,7 @@
 | 02 | Ideology and End of Ideology | Ch.2, pp.28-39 | Ideology, false consciousness, totalitarianism, end-of-ideology thesis |
 | 03 | Liberalism and Neoliberalism | Ch.2, pp.40-45 | Classical vs welfare liberalism; Hayek/Friedman/Nozick neoliberalism |
 | 04 | Marxism and Neo-Marxism | Ch.2, pp.46-54 | Historical materialism, class, surplus value, Frankfurt School |
-| 05 | Socialism, Fascism, Anarchism and Gandhism | Ch.2, pp.55-83 | Democratic socialism, fascism as counter-revolutionary totalitarianism, anarchism, Gandhian ahimsa/swaraj/trusteeship |
+| 05 | Socialism, Fascism, Anarchism and Gandhism | Ch.2, pp.55-83 | Democratic socialism, fascism as counter-revolutionary totalitarianism, anarchism, Gandhian ahimsa/swaraj/trusteeship; **+ conservatism module (§22, ⚠️ outside the Gauba range)** |
 | 06 | Feminism, Sex and Gender | Ch.2, pp.84-93 | Patriarchy; liberal/radical/socialist feminism |
 | 07 | Nature of Politics and Communitarianism | Ch.3, pp.94-107 | Liberal, Marxist, communitarian readings of politics |
 | 08 | Approaches, Behaviouralism and Post-Behaviouralism | Ch.4, pp.108-134 | Traditional approaches, behaviouralism, post-behaviouralism, models |
@@ -104,15 +186,15 @@
 | 12 | Globalisation and Challenges to Sovereignty | Ch.9, pp.209-218 | Imperialism, power blocs, globalisation, state transformation |
 | 13 | Diverse Perspectives on the State | Ch.10, pp.220-279 | Organic, liberal, welfare, Marxist, post-colonial, feminist state theories |
 | 14 | Political Obligation, Resistance and Law | Ch.11-12, pp.280-300 + *Socio-Political Philosophy*, pp.164-167 | Obedience, resistance, civil disobedience, rule of law; retributive, deterrent and reformative punishment |
-| 15 | Power, Authority and Legitimacy | Ch.13, pp.301-323 | Weber, Gramsci, elites, pluralists, feminist and developmental power |
+| 15 | Power, Authority and Legitimacy | Ch.13, pp.301-323 | Weber, Gramsci, elites, pluralists, feminist and developmental power; **+ digital power and surveillance (§14, ⚠️ extension)** |
 | 16 | Citizenship and Its Critiques | Ch.14, pp.324-337 | Marshall; liberal/communitarian/Marxist/feminist/subaltern citizenship |
 | 17 | Human Rights, Civil Liberties and Democratic Rights | Ch.15, pp.338-366 + *Socio-Political Philosophy*, pp.69-76 | Rights theories including personality/idealist theory; UDHR; civil liberties and democratic rights |
-| 18 | Liberty, Equality and Property | Ch.16-18, pp.367-431 | Negative/positive liberty; formal/substantive equality; property |
+| 18 | Liberty, Equality and Property | Ch.16-18, pp.367-431 | Negative/positive liberty; formal/substantive equality; property; **+ republican liberty as non-domination (§22, ⚠️ outside the Gauba range)** |
 | 19 | Justice: Concepts and Dimensions | Ch.19, pp.432-445 | Legal, political, socio-economic; procedural/substantive justice |
 | 20 | Diverse Perspectives on Justice | Ch.20, pp.446-473 | Rawls, Nozick, Marxist, feminist, subaltern, communitarian justice |
 | 21 | Common Good and Community | Ch.21, pp.474-490 | Liberal, communitarian, Marxian, Gandhian common good |
 | 22 | Democracy, Representation and Liberal Democracy | Ch.22, pp.491-512 | Representation, elections, minority safeguards, democracy as a way of life |
-| 23 | Contemporary Democracy, Social Change and Development | Ch.23-25, pp.513-576 | Elitist/pluralist/participatory/deliberative democracy; change; development |
+| 23 | Contemporary Democracy, Social Change and Development | Ch.23-25, pp.513-576 | Elitist/pluralist/participatory/deliberative democracy; change; development; **+ populism (§21), ecological political theory (§22) and digital democracy (§23) — all ⚠️ outside the Gauba range** |
 
 ## Source and edition policy
 
@@ -120,7 +202,7 @@
   read directly from the supplied local PDF and cited by physical PDF page.
 - ✅ Direct supplementary anchor: the supplied local *Socio-Political Philosophy* PDF, used only
   for secularism, multiculturalism, punishment, Kautilya and selected rights/liberty distinctions.
-- ✅ Verified PYQ anchor: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`, itself transcribed
+- ✅ Verified PYQ anchor: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`, itself transcribed
   from local scanned UPSC papers. Questions quoted from it are labelled **verified PYQ**.
 - ⚠️ *The Oxford Handbook of Philosophy of Religion* was checked only for a directly relevant
   religion-politics boundary. It supplied no necessary secularism doctrine here and is not used to
@@ -133,14 +215,28 @@
   events after its own edition date.
 - ❌ This module does not use Qdrant/RAG or an indexed retrieval pipeline. Content is authored by
   direct local-PDF reading and the verified local PYQ corpus.
+- ⚠️ **Named-scholar extensions (provenance rule).** Six Core modules and several per-file
+  precision additions go beyond Gauba's own page range for their chapter (conservatism; digital
+  power and surveillance; republican non-domination; populism; ecological political theory; digital
+  democracy). Each is tagged ⚠️, carries an explicit provenance note in its own file, and cites
+  **only** the named scholar/work identified inline — by title and year, with **no page, chapter,
+  edition or verbatim wording asserted**. None of them is presented as Gauba's own content, and
+  none carries a Gauba PDF page citation.
 
 ## Usage path
 
 1. Read `Political-Theory/00_Master-Framework.md` first — it gives the five master questions (unit of analysis,
-   legitimacy, freedom, justice, state-role) and the comparison matrices used across every file.
-2. Work topic-by-topic in numeric order: `basic/NN` for the concept map and revision spine, then
-   `advanced/NN` for thinker depth, debates and the answer-engine. Same-number files are
-   companions and cross-link to each other explicitly.
+   legitimacy, freedom, justice, state-role) and the comparison matrices used across every file,
+   plus the answer method: §5A directive decoder (Define/Explain/Discuss/Examine/Critically
+   Examine/Evaluate/Analyse/Comment/Compare), §5B the subject-specific evidence unit (claim →
+   reconstructed doctrine/argument → named thinker/text/application → significance →
+   objection/limit → reply/verdict), §5C the 10/15/20-mark evidence and architecture expectations,
+   and §5D the quotation/proposition method.
+2. Work topic-by-topic in numeric order through `basic/NN` — each Basic file is self-sufficient
+   for the concept map, the doctrine, the named evidence and the full answer architecture, so a
+   complete study pass can be made on the Basic tier alone. Open the same-numbered
+   `advanced/NN` only as optional enrichment; the two are companions and cross-link explicitly,
+   but the Advanced file is never a prerequisite for writing the answer.
 3. Use the "Cross-links and boundaries" / "Cross-links and exclusions" sections in every file to
    move outward to `Polity`, `Governance`, `Ethics`, `International-Relations` or
    `Philosophy/paper-2/socio-political` only when the applied/institutional/syllabus-specific
@@ -150,10 +246,12 @@
 
 1. Read the [revision chart](REVISION-CHART_Concepts-Ideologies-and-Distinctive-Features.md)
    for the five master questions, concept distinctions, ideologies and answer frameworks.
-2. Use the linked `basic/` owner file for any weak topic. Core remains independently
-   sufficient for GS, Essay and selective PSIR conceptual support.
-3. Open the matching `advanced/` file only for direct-book reconstruction, internal
-   debate, comparative criticism and deeper conceptual qualification.
+2. Use the linked `basic/` owner file for any weak topic. Basic is independently sufficient and
+   answer-complete for Political-Theory conceptual answers in GS, Essay and selective PSIR
+   support — it needs no Advanced companion to be marks-adequate.
+3. Open the matching `advanced/` file **only if time permits**, for optional extra direct-book
+   reconstruction, additional internal debate, comparative criticism and deeper conceptual
+   qualification. Nothing there is required to score on the topic.
 4. Keep the subject boundary intact: move to the direct owner folder for constitutional,
    governance, ethics, foreign-policy or Philosophy Optional detail.
 

@@ -287,26 +287,3 @@ evidence of incomplete implementation, not architectural failure.
   FMR-decision trade-off in full; topic 07 for the coastal-adjacent
   Sir Creek dimension; topic 12 for BSF/ITBP/SSB/Assam Rifles mandates in
   full institutional detail.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2020, 2023
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | GS-III | 20 | Security challenges along Myanmar and Bangladesh borders and Pakistan Line of Control | Analyse · 15 marks · 250 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-III | 10 | Adversarial UAV threats to internal security across Indian borders | Comment · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-### What this owner must now support
-
-- Security challenges along Myanmar and Bangladesh borders and Pakistan Line of Control
-- Adversarial UAV threats to internal security across Indian borders
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

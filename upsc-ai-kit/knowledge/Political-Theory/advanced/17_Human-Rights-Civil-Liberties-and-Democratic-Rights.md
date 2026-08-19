@@ -161,6 +161,6 @@ SCOPE RELATION
 
 - ✅ Primary source used: Gauba, Ch.15 "Concept of Human Rights" (PDF pp.338-366).
 - ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.69-76.
-- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Major argument blocks used: meaning of human rights and rights (PDF pp.338-340); negative/positive rights and conventional theories (PDF pp.340-347); Laski's social-democratic rights theory (PDF pp.348-353); Marxist perspective and socialist rights (PDF pp.354-358); genesis of human rights and UDHR (PDF pp.358-360); distinctions among rights and comparative theories (PDF pp.361-366).
 - ⚠️ All concrete institutional and abuse examples are treated as historical/book-period unless independently re-dated elsewhere.

@@ -230,6 +230,39 @@ monitoring report and its date, as water quality can vary seasonally and by rive
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Direct demand A — industrial river pollution (2024 GS-III, 10 marks)
+
+**Thesis:** industrial river pollution requires a source-to-river chain: prevent toxic discharge at source, enforce lawful consent and standards, treat residual effluent, and verify receiving-water outcomes; river-front work cannot substitute for this chain.
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Point sources can be controlled before discharge. | **Water Act consent to establish/operate, SPCB effluent standards, ETP/CETP and online monitoring** → connect a factory’s process to enforceable prevention/treatment. | Consent or installed treatment is not proof of continuous compliance. |
+| Basin missions complement regulation. | **NMCG/Namami Gange** combines sewage infrastructure, industrial monitoring and river-basin action. | It is Ganga-specific; do not call it a national substitute for every SPCB/ULB. |
+| Accountability must survive beyond construction. | **Polluter Pays/NGT remedies and compliance monitoring** → make remediation and closure costs visible. | A penalty after damage cannot fully restore a polluted river stretch. |
+
+**150-word spine:** one-line source diagnosis → three mitigation clusters (cleaner production/segregation; treatment/zero-discharge where technically appropriate; consent-monitoring-liability) → government initiatives (Water Act/CPCB-SPCB, NMCG/Namami Gange) → last-mile verdict on verified operation and basin coordination.
+
+### 13.2 Direct demand B — three freshwater technologies (2024 GS-III, 15 marks)
+
+| Technology | Mechanism and merit | Demerit/condition |
+|---|---|---|
+| **Desalination** (reverse osmosis or thermal) | Converts seawater/brackish water into potable supply; useful for water-stressed coasts and islands because source is climate-independent. | Energy/capital intensive; brine and intake need marine safeguards; it does not restore an overdrawn aquifer. |
+| **Wastewater recycling and reuse** (tertiary treatment, including membrane bioreactor where justified) | Creates a dependable local non-potable/industrial or, after fit-for-purpose treatment, reuse supply; also reduces river discharge. | Needs sewer connectivity, reliable power/O&M, sludge management, quality monitoring and public trust. |
+| **Managed aquifer recharge/rainwater harvesting** | Stores wet-season water underground with low evaporation and can rebuild groundwater where hydrogeology permits. | Requires clean recharge water, suitable aquifer and extraction control; contaminated recharge or impermeable/overdrawn settings can fail. |
+
+**250-word spine:** define fit-for-purpose water security → three equal technology blocks (mechanism + merit + demerit) → allocation/quality/MRV → verdict: a diversified portfolio, not one “silver-bullet” plant.
+
+### 13.3 Direct demand C — groundwater depletion (2025 GS-III, 15 marks)
+
+**Causal chain:** high irrigation demand and water-intensive cropping + subsidised/cheap pumping incentives + urban/industrial abstraction + sealed recharge zones + variable rainfall and poorly protected recharge areas → falling water table, higher pumping cost, quality/salinity risk and food-security stress.
+
+**Government-response spine:** demand management/crop and micro-irrigation choices; **Atal Bhujal Yojana** participatory groundwater management; **Jal Shakti Abhiyan–Catch the Rain**; **CGWA** abstraction regulation in notified areas; **Master Plan for Artificial Recharge**; recharge/wetland protection. State the implementation condition: aquifer-level data, local water budgets and enforceable extraction discipline.
+
+### 13.4 Water-quality evidence discipline
+
+Use **high BOD + low DO + high faecal coliform** only for the organic/sewage signature. Keep industrial toxics, nutrients and groundwater quantity analytically separate; an STP’s installed capacity, its actual operation and a river stretch’s monitored quality are three different facts.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

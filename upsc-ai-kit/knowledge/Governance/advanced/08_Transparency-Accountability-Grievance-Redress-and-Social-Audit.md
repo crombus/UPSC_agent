@@ -150,9 +150,10 @@ recovery, disciplinary, criminal or process-correction action.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **Status checked 21 July 2026:** use section 17 **with** the 2011 Rules. Existing
-  RTI section 8(1)(j) remains operative until the DPDP section 44(2) amendment commences on
-  13 May 2027. The Whistle Blowers Protection Act, 2014 remains uncommenced.
+- 📰 **Status corrected 13 August 2026:** use section 17 **with** the 2011 Rules. DPDP
+  **s.44(3)** substituted RTI s.8(1)(j) in the immediate tranche from 13/14 November 2025;
+  DPDP **s.44(2)**, deferred to 13 May 2027, amends the Information Technology Act, 2000.
+  The Whistle Blowers Protection Act, 2014 remains uncommenced.
 
 ## 10. PYQ-based analytical application
 

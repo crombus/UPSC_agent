@@ -207,7 +207,7 @@ together.
 |---:|---|---:|---|---|---|---|
 | 2018 | GS-I | 17 | Transformation of aspirational districts and convergence strategy | Mention and explain · 15 marks · 250 words | Routed to owning topic; printed stem partly word-scrambled in scan | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2018 | GS-II | 6 | Policy contradictions across sectors and environmental degradation | Comment with relevant illustrations · 10 marks · 150 words | Cross-cutting; policy design and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-II | 6 | Gati-Shakti and coordination between government and private sector | Discuss · 10 marks · 150 words | Cross-cutting; policy coordination and infrastructure logistics both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 6 | Gati-Shakti and coordination between government and private sector | Discuss · 10 marks · 150 words | Cross-cutting; Economy infrastructure route terminates in answer-complete Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 

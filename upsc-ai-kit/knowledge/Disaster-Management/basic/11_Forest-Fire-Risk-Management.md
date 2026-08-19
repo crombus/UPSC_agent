@@ -219,3 +219,32 @@ third component" that "really initiates fire" (PDF p. 47).
   remote-sensing technology application generally; topic 03 develops
   community-based fire-prevention partnership; topic 15 develops the
   climate-linked fire-risk-intensification dimension.
+
+## 13. Core-only answer architecture — detect, suppress, govern fuel
+
+> **Core firewall:** forest-fire answers require the fire triangle,
+> deliberate/accidental ignition distinction, community incentives and
+> the alert-to-suppression gap. FAST 3.0 alone is not an answer.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Most controllable fire risk lies at the heat/ignition link. | VisionIAS: fuel and oxygen are present; heat initiates fire; deliberate and accidental human causes exceed natural ones in its document-period account. | It directs prevention toward use practices, fire lines, patrols and incentives rather than “plant more trees.” | Do not present a document-period percentage as a current national rate without FSI/MoEFCC verification. |
+| Fire type and terrain govern suppression risk. | Surface versus crown fire; uphill spread on slopes; resinous conifer crown-fire danger. | Supports a mechanism-led response and crew safety argument. | Not every fire is ecologically abnormal; intensity, regime and ecosystem context matter. |
+| Satellite alerts are a detection asset, not field suppression. | FSI FAST 3.0/Forest Fire Monitoring and Alert System; Van Agni; FPM Scheme. | Gives a named technology-to-institution chain. | An alert does not demonstrate crew availability, access, water/equipment, response time or extinguishment. |
+| Community partnership is prevention infrastructure. | Joint Forest Fire Management/National Master Plan and VisionIAS's critique of crisis-only expectation from forest communities. | Explains why routine participation can reduce deliberate ignition and improve early reporting. | Do not romanticise community participation or ignore forest-dependent livelihoods and grievance incentives. |
+
+### 13.2 Executable spines
+
+- **10 marks — causes/management:** fire triangle → deliberate versus
+  accidental causes → surface/crown spread → prevention/detection/
+  suppression/recovery; use FAST/Van Agni and one community measure.
+- **15 marks — evaluate technology:** thesis that India can detect more
+  than it can necessarily suppress. Use the FSI alert chain, targeted
+  high-incidence logic, State crew/terrain limitation and FPM/JFM; close
+  with measurable alert-to-response and burnt-area outcomes.
+- **20 marks — governance:** compare suppression spending with preventive
+  fuel/use management, discuss wildland–urban interface, climate-linked
+  fire-weather context without event attribution, and conclude on
+  accountable multi-level fire management.

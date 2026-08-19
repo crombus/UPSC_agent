@@ -80,6 +80,58 @@
 
 ## 7. Mains angles
 
+### Thesis options
+
+| Directive | Thesis |
+|---|---|
+| Discuss | The age of the Buddha saw the material base of the second urbanisation — iron agriculture, surplus, towns, coins and professional armies — create the conditions for both larger states and heterodox religious movements that questioned ritual hierarchy. |
+| Analyse | Varna hardened in this period not despite but because of economic growth: as surplus expanded, the state needed a defined social order for taxation, military service and ritual legitimacy. |
+| Compare | Monarchies (Magadha, Kosala) and gana-sanghas (Vajji, Shakya) represent two paths of political organisation; monarchies proved more effective at territorial expansion because they could centralise taxation and armies. |
+
+### Evidence units
+
+| Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|
+| Iron enabled agricultural surplus | Iron tools in alluvial Gangetic plains; NBPW-phase towns | Technological change → economic surplus → state capacity | Iron alone doesn't explain state formation; political and ideological factors also mattered |
+| Towns indicate urbanisation | Rajgir, Pataliputra, Champa, Vaishali, Shravasti | Second urbanisation after Harappan decline | "Urban" definition varies; some sites may be large villages rather than true cities |
+| Coins show monetisation | Punch-marked silver coins; Pali terms (kahapana, nikkha, kamsa, pada, masaka, kakanika) | Money economy existed alongside barter; facilitated long-distance trade | Coin distribution was geographically uneven; rural areas may have remained non-monetary |
+| Gana-sanghas were oligarchic, not democratic | Vajji/Licchavi confederacy; Shakya republic | Plural governance existed but was clan-based and exclusive | Projecting modern democratic ideas onto ancient republics is analytically unsafe |
+
 - ⚠️ Explain the rise of Buddhism and Jainism as a response to changing urban, social and economic conditions.
 - ⚠️ Analyse how surplus extraction and standing armies transformed janapadas into mahajanapadas.
 - ⚠️ Compare monarchy and gana-sangha without projecting modern democratic ideas onto ancient republics.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The age of the Buddha marks a decisive stage of state formation, social stratification and urban growth in the middle Gangetic basin." |
+| Critically examine | "Varna society hardened in this age, yet the same process also produced new towns, wealthy lay groups and heterodox critique." |
+| Compare / evaluate | "Compared with the earlier Vedic world, Buddha-age society was more urban, more monetised and more politically differentiated." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** agrarian surplus -> towns and merchants -> monarchy/gana-sangha -> social and religious response
+- **For comparison Qs:** Earlier Vedic vs Buddha-age across economy, polity, social order and religious milieu
+- **For evaluate Qs:** structural change -> tension/critique -> balanced conclusion
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | The age saw a second urbanisation | ✅ Towns, NBPW horizons, gahapatis and shreshthis | Links economy to social change | Urban spread remained regionally uneven |
+| 2 | Political forms were diverse | ✅ Kosala/Magadha monarchies and Vajji/Malla gana-sanghas | Gives nuance to state formation | Republic evidence comes through rival traditions |
+| 3 | Varna sharpened alongside surplus extraction | ✅ Brahmana-Kshatriya prominence and labouring groups | Explains hierarchy in a material frame | Texts do not map every local jati reality |
+| 4 | Heterodox movements emerged from within this churn | ✅ Jain-Buddhist critique of ritual and hierarchy | Connects social history to intellectual change | Heterodoxy cannot be reduced to economics alone |
+
+### Counterpoint and balance
+
+- Avoid treating the whole subcontinent as equally urbanised at once.
+- Avoid presenting gana-sanghas as socially egalitarian republics.
+
+### Verdict framing
+
+- Conclude that Buddha-age society was a transition from Vedic lineage order to a more stratified and urban world.
+- A good ending links surplus, state and heterodoxy in one chain.

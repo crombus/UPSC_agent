@@ -130,7 +130,7 @@ in state rules, inspection capacity and enforcement readiness.
 |---|---|
 | 📰 The four Labour Codes came into force on 21 Nov 2025; final Central Rules were notified in May 2026. | Update older Labour-Code answers with commencement, Central Rules and uneven state implementation readiness. |
 | 📰 Q2 FY26 had 56.2 crore employed persons aged 15 years and above. | An employment level is not a complete jobs assessment without participation, hours, earnings and productivity. |
-| 📰 Female LFPR rose from 23.3% in 2017-18 to 41.7% in 2023-24; gig workers rose from 77 lakh in FY21 to 120 lakh in FY25. | Use the female-participation and gig-work trends to discuss care, mobility, flexibility and portable protection. |
+| 📰 Female LFPR rose from 23.3% in 2017-18 to 41.7% in 2023-24. NITI Aayog reported about 77 lakh gig workers for 2020-21 and projected a later 2029-30 level; do not interpolate an official FY25 count. | Use the female-participation and gig-work trends to discuss care, mobility, flexibility and portable protection. |
 
 ## 10. PYQ-based analytical application
 
@@ -179,27 +179,21 @@ Source: [Ministry of Labour and Employment annual report 2025-26](https://labour
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
 
 - **Years represented:** 2022, 2023
-- **Paper(s):** GS-II, GS-III
-- **Routed question demands:** 5
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2022 | GS-II | 16 | Managing inflation and unemployment beyond welfare schemes | Discuss · 15 marks · 250 words | Cross-cutting; the stem names both inflation and unemployment | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 11 | Labour productivity led growth and job creation pattern suggestion | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-II | 18 | Skill development programmes and links between skill education and employment | Analyse the linkages · 15 marks · 250 words | Cross-cutting; employment and education both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-III | 11 | Structural unemployment in India and computation methodology improvements | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-III | 12 | Distinction between care economy and monetized economy integration | Distinguish · 15 marks · 250 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 18 | Skill development programmes and links between skill education and employment | Analyse the linkages · 15 marks · 250 words | Social Justice Core route; Economy employment link retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Managing inflation and unemployment beyond welfare schemes
-- Labour productivity led growth and job creation pattern suggestion
 - Skill development programmes and links between skill education and employment
-- Structural unemployment in India and computation methodology improvements
-- Distinction between care economy and monetized economy integration
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

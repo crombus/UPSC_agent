@@ -482,3 +482,21 @@ protected-area law) actually prices or protects that service.
 - ✅ 02_Biogeochemical-Cycles-and-Ecological-Pyramids.md — quantitative treatment of the
 - ✅ 16_Environmental-Impact-Assessment-and-NGT.md — where the ecosystem-services pricing
 - ✅ 27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md — mandates of the institutions
+
+## Answer-worthiness addendum — 14 August 2026
+
+### Core-only answer spine
+
+**Thesis:** ecosystem answers must connect a structural component to the ecological function
+and service it enables, then evaluate whether governance protects that connection.
+
+| Claim | Named evidence → analysis | Qualification |
+|---|---|---|
+| Ecosystem structure is disaster-risk infrastructure. | **Sundarbans mangrove ecotone** supports fish nursery habitat, blue-carbon storage and storm-surge buffering. | Do not attach a universal quantified protection value without a site-specific study. |
+| Networked trophic links improve resilience. | A **food web** offers alternative links relative to one linear food chain. | Resilience is recovery capacity, not a guarantee against every shock. |
+| Cover is not quality. | **ISFR 2023** provides a dated canopy-extent baseline. | It does not establish native composition, age structure or ecosystem function. |
+
+For **carrying capacity**, define a conditional population/project load that can be sustained
+without eroding regenerative functions; it is not a fixed headcount. A 10-marker needs one
+mechanism and evidence unit; a 15/20-marker should add the ecosystem-service lens, EIA/
+forest/protected-area governance, a data-quality caveat and a graded verdict.

@@ -883,3 +883,27 @@ Use Advanced only after Core is secure:
 | 25 | [Computing Fundamentals](basic/25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md) | [Advanced Architecture](advanced/25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md) |
 | 26 | [Scientific Discoveries, Nobel Prizes and Scientists](basic/26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md) | [Advanced](advanced/26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md) |
 
+## 36. Answer-worthy Core routes and status checks
+
+### Three-line answer audit before writing
+
+`thesis that answers directive → mechanism/institution/status → claim–named evidence–significance–qualification → reasoned verdict`
+
+- **10 marks:** choose two or three evidence units, not a technology list.
+- **15 marks:** add comparison/causation plus implementation and trade-off.
+- **20 marks:** add ecosystem/federalism/rights/dual-use or lifecycle dimension only where the demand warrants it; do not pad with generic “way forward”.
+
+### Mixed-PYQ owner guardrail
+
+| Question family | Primary Core route | Science support boundary |
+|---|---|---|
+| Freshwater technologies | Environment Topic 14 | Chemistry Topic 22 mechanisms only |
+| Asteroid risk/deflection | Science Topic 03 | Physics Topic 21 foundations only |
+| Encrypted messaging/social-media security | Internal Security Topic 09 | Science Topic 12 cyber/privacy mechanics only |
+| 2047 clean-tech energy independence | Environment Topic 25 | Science Topic 13 biotechnology contribution only |
+
+### Current-status checksum
+
+`Act enacted ≠ commenced ≠ rules/enforcement` · `facility agreement ≠ construction ≠ output/commercial sale` · `weapon test ≠ user evaluation ≠ contract ≠ induction/deployment` · `model/demo ≠ safe deployed capability`.
+
+Use the topic’s dated current anchor, never a remembered headline, for the final status verb.

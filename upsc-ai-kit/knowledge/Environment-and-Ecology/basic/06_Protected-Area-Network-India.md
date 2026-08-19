@@ -207,17 +207,37 @@ this folder flags throughout.
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- First classify the object: **National Park/Sanctuary/Conservation Reserve/Community Reserve**, **Tiger Reserve overlay**, **ESZ notification**, or an international designation. Then match rights, connectivity and management to that category.
+- **Thesis:** a protected-area count is a starting indicator; viable conservation depends on habitat connectivity, scientifically managed buffers and rights-respecting participation beyond a hard boundary.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Legal gradation allows landscape conservation. | **Conservation Reserves** can connect larger habitats; **Community Reserves** retain a consent-based local role. | A category alone does not demonstrate corridor functionality or local capacity. |
+| Species overlays are not a fifth generic PA category. | **Tiger Reserve core–buffer framework/NTCA** → focused tiger management can overlay the underlying legal landscape. | Core relocation must remain voluntary and rights-sensitive; do not assume every overlay is a National Park. |
+| Expansion is not outcome. | **Madhav Tiger Reserve, March 2025 (58th at that dated milestone)** → illustrates network expansion. | Verify later counts and distinguish notification from management effectiveness. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** contrast the four legal categories and use one connectivity/community example.
+- **15/20 marks:** organise around core habitat, corridors/ESZ, species ecology and local tenure; use the tiger-versus-elephant bounded-reserve/corridor contrast only as an analytical comparison, not a claim that one model fits all species.
+- **2026 route:** distinguish **Madhav National Park**, its March 2025 Tiger Reserve overlay and **Sakhya Sagar** by their separate designation functions. Sakhya Sagar is a Ramsar Site (designated 2022); a Ramsar designation is still not the same legal category as the National Park or Tiger Reserve.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
 - **Years represented:** 2018, 2019, 2020, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 7
+- **Paper(s):** GS-I, Prelims GS-I
+- **Routed question demands:** 8
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
@@ -227,6 +247,7 @@ this folder flags throughout.
 | 2020 | Prelims GS-I | 75 | Protected area for hard ground Barasingha swamp deer | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 95 | Desert National Park districts habitation and GIB habitat | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 100 | Tiger Reserves with largest Critical Tiger Habitat area | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | GS-I | 15 | Diversity of natural vegetation and rain forest wildlife sanctuaries | Identify and discuss and assess · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 38 | Community Reserve governance hunting NTFP agricultural rights | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
@@ -237,6 +258,7 @@ this folder flags throughout.
 - Protected area for hard ground Barasingha swamp deer
 - Desert National Park districts habitation and GIB habitat
 - Tiger Reserves with largest Critical Tiger Habitat area
+- Diversity of natural vegetation and rain forest wildlife sanctuaries
 - Community Reserve governance hunting NTFP agricultural rights
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

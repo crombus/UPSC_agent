@@ -155,7 +155,142 @@ Kant derives the twelve categories from the twelve logical forms of judgment:
 
 - **But:** causality applies **only to phenomena** — applying it *beyond* experience (e.g. to infer God as "first cause") is illegitimate. This limits Hume's scepticism and rationalist dogmatism equally. ✅
 
-### 3.5 Phenomena and Noumena ✅
+### 3.5 THE SCHEMATISM — Categories bridged to intuition by TIME-DETERMINATION ✅ (A137–47 / B176–87)
+
+**The problem Kant sets himself.** The categories are **pure**, intellectual, non-sensible; intuitions are **sensible**, given in space and time. They are **heterogeneous** — utterly unlike in kind. Subsumption normally requires the concept and the object to be homogeneous (the empirical concept *plate* and the intuited round dish share roundness). But no category is *like* any appearance. **How can a pure category ever be applied to an appearance at all?** The Transcendental Deduction proved the categories *must* apply; the Schematism explains *how*.
+
+**Kant's solution — the "third thing" (*ein Drittes*).** There must be a mediating representation that is homogeneous with the category on one side and with appearance on the other: **in one respect intellectual, in another sensible**. That mediator is the **transcendental schema**, and every schema is a **transcendental determination of time** (*transzendentale Zeitbestimmung*).
+
+**Why TIME and nothing else — the numbered argument ⚠️→✅:**
+1. Subsumption requires homogeneity between the subsuming concept and the subsumed representation.
+2. Categories and appearances are heterogeneous, so a mediator is required.
+3. The mediator must be (a) **universal and a priori** (like the category) and (b) **contained in every appearance** (like intuition).
+4. **Time** uniquely satisfies both: it is a pure a priori form (hence rule-governed and universal) **and** it is the form of *inner* sense, so every representation whatsoever — outer as well as inner — is in time. Space fails (b): outer objects are in space, but my inner states are not.
+5. ∴ The mediating schemata must be *determinations of time* produced by the transcendental imagination (*produktive Einbildungskraft*).
+6. ∴ A category has objective application only in and through its schema; **an unschematised category is a mere logical function with no sense for objects.**
+
+**Schema ≠ image ✅ — Kant's own three examples:**
+| Case | Image | Schema |
+|---|---|---|
+| **Triangle** | any drawn triangle is *determinately* right-angled or oblique, equilateral or scalene | the **rule of synthesis** by which imagination can construct a triangle in general — never adequate to any single image |
+| **Number five** | five dots: • • • • • | "a **method** of representing a multitude in one image" — the rule of successive homogeneous addition |
+| **Dog** | this particular picture of this particular dog | the rule by which imagination "can delineate the figure of a four-footed animal in general" |
+
+> ⚠️ **The single most examinable Schematism trap:** the schema is a **rule/procedure**, an image is a **product**. Anyone who writes "the schema is a mental picture that resembles both" has lost the section. Kant himself calls schematism "**an art concealed in the depths of the human soul**" (A141/B180–1) — a candid admission that the mechanism is postulated, not exhibited.
+
+**The schemata of the four groups — the time-architecture ✅** (A142–5 / B182–4). Note the elegance: the four groups correspond to four aspects of time.
+
+| Category-group | Aspect of time | Schema |
+|---|---|---|
+| **Quantity** | **time-SERIES** (*Zeitreihe*) | **Number** — the successive addition of homogeneous units, i.e. the generation of time itself |
+| **Quality** | **time-CONTENT** (*Zeitinhalt*) | **Degree / intensive magnitude** — the filling of time; the continuous transition from sensation to its negation |
+| **Relation** | **time-ORDER** (*Zeitordnung*) | Substance = **permanence of the real in time**; Cause = **succession of the manifold according to a rule**; Community = **coexistence of determinations according to a universal rule** |
+| **Modality** | **time-SCOPE / sum-total** (*Zeitinbegriff*) | Possible = agreement with the conditions of time *at some time*; Actual = existence *at a determinate time*; Necessary = existence of an object *at all times* |
+
+> 🔑 **Mnemonic — "SCOR-S": Series · Content · Order · Sum-total** for Quantity · Quality · Relation · Modality.
+
+**Presuppositions ⚠️:**
+- **P1** Time is the form of *inner* sense and therefore of **all** representations without exception. If some representation could be non-temporal, the bridge does not span.
+- **P2** Subsumption strictly requires homogeneity. (Objection: empirical subsumption may not need it either, in which case the whole problem is manufactured.)
+- **P3** The productive imagination is a genuine third faculty, not reducible to sensibility or understanding.
+- **P4** Categories have no *sense* apart from schemata — which is precisely why the unschematised category can be *thought* (noumenon in the negative sense) but yields no knowledge.
+
+**Strongest objections → replies:**
+| Objection | Reply | Residual |
+|---|---|---|
+| The schema, being both intellectual and sensible, is as puzzling as what it explains — the heterogeneity problem simply reappears inside the schema. | Time is not a *mixture* of the two but the one form that is a priori *and* universally instantiated in intuition; it is homogeneous with each in a different respect, not partly each. | ❓ Kant's "concealed art" admission concedes the mechanism is not exhibited. |
+| **Hegel:** the whole apparatus is an external machinery of faculties artificially divided and then artificially rejoined; a genuine philosophy would show thought and intuition as moments of one self-developing concept. | Kant: the division is not stipulated but forced — sensibility is receptive, understanding spontaneous. | ⚠️ This is the deepest objection and should be flagged in any 20-mark answer. |
+| The Schematism chapter is redundant given the Deduction (**Warren, Paton's "patchwork" debate**). | The Deduction proves *that* categories apply; only the Schematism supplies the *rule of application* which the Principles (Analogies) then deploy — without schemata there could be no Analogies. | ⚠️ The best defence is functional: the Analogies literally *are* the schemata of Relation in operation. |
+
+**Executable verdict:** "The Schematism is not an appendix but the load-bearing joint of the *Critique*: it converts twelve logical functions into rules of time-determination, and thereby converts the Deduction's abstract entitlement into the concrete Principles. Its cost is Kant's own admission that the productive imagination's procedure is 'an art concealed in the depths of the human soul' — the system's most important operation is the one Kant cannot display."
+
+### 3.6 THE ANALOGIES OF EXPERIENCE — schematised Relation at work ✅ (A176–218 / B218–265)
+
+**General principle (B-edition):** "**Experience is possible only through the representation of a necessary connection of perceptions**" (B218). The Analogies are *regulative* with respect to intuition but *constitutive* with respect to experience: they do not tell us *what* we will perceive, but they tell us that whatever we perceive must be ordered as substance, cause and community if it is to count as an **objective** temporal order at all.
+
+**The engine of all three arguments — one premise:** ✅ **"Time itself cannot be perceived"** (A176/B219, A183/B226). We never see time; we see only things. Therefore every determination of objective time-relation must be made **by proxy**, through a rule found in appearances. Each Analogy supplies one such proxy for one of the three modes of time.
+
+| Analogy | Mode of time | Principle | Proxy supplied |
+|---|---|---|---|
+| **First** | **Duration / persistence** | In all change of appearances **substance persists**, and its quantum in nature is neither increased nor diminished (B224) | the persisting substratum |
+| **Second** | **Succession** | All alterations occur in accordance with the law of the **connection of cause and effect** (B232) | the causal rule |
+| **Third** | **Simultaneity** | All substances, insofar as they can be perceived as simultaneous in space, are in thoroughgoing **reciprocity** (B256) | mutual causal community |
+
+#### 3.6.1 FIRST ANALOGY — Permanence of Substance (Kant's answer to Hume on substance)
+
+**Numbered argument:**
+1. All appearances are in time.
+2. Time itself cannot be perceived.
+3. Time has two modes to be determined: **succession** and **simultaneity**; both presuppose a *single* time in which they are located.
+4. To represent things as being in one and the same time, there must be, *in the appearances themselves*, something that stands for time's own permanence — since time itself does not change and is not itself an object.
+5. That something is **substance**: the persisting real (*das Beharrliche*) of which all change is mere alteration of determinations.
+6. ∴ Coming-to-be and passing-away are not the arising and perishing of *substance* but the **alteration** (*Veränderung*) of the *states* of a persisting substance. What changes are accidents; substance does not change, it *has* changing states.
+7. ∴ "In all change of appearances substance persists, and its quantum in nature is neither increased nor diminished."
+
+**Why this defeats Hume without contradicting him.** Hume was right that there is no *impression* of substance — Kant fully agrees. Kant's move is transcendental: substance is not something perceived *in* experience but a **condition of perceiving anything as located in one time**. The empiricist demand ("show me the impression") is therefore the wrong demand.
+**Presuppositions ⚠️:** (P1) time is unitary and unperceivable; (P2) time-determination must proceed by a perceptible proxy; (P3) "alteration" is intelligible only against a persisting bearer.
+**Strongest objection ❓:** the argument may prove only that *something or other* must be treated as relatively persisting for time-determination — not that there is a sempiternal, quantitatively conserved substance. Kant's conservation claim ("its quantum neither increased nor diminished") looks like Newtonian physics smuggled into transcendental philosophy.
+
+#### 3.6.2 SECOND ANALOGY — Causality (the real answer to Hume) ✅ **highest-yield**
+
+**Kant's canonical example — the HOUSE and the SHIP (A190–3 / B235–8):**
+| Case | Order of apprehension | Reversible? | What it is |
+|---|---|---|---|
+| Viewing a **house**: roof → door → basement, or basement → door → roof | I choose | **Yes** — reversible | a merely **subjective** succession of my perceptions of a *coexisting* object |
+| Watching a **ship drift downstream**: upstream position → downstream position | I cannot choose | **No** — irreversible | an **objective** succession — an *event* |
+
+**Numbered argument:**
+1. Apprehension of the manifold is *always* successive — in both cases my perceptions come one after another. So mere succession-of-perceptions cannot by itself constitute the perception of an objective succession.
+2. Yet I do distinguish the house-case (subjective order) from the ship-case (objective event).
+3. The distinction cannot be read off time itself, because time cannot be perceived (the master premise).
+4. The distinction must therefore lie in the fact that in the ship-case the order of perceptions is **necessary** — B *had to* follow A and could not have preceded it.
+5. Necessity of order cannot come from perception (Hume is right about that); it can come only from the perceptions' being subsumed under a **rule** that determines the earlier from the later.
+6. Such a rule *is* the concept of cause: "everything that happens presupposes something upon which it follows **according to a rule**" (A189).
+7. ∴ The causal principle is a **condition of the possibility of experiencing objective events** — synthetic, a priori, and valid necessarily of all appearances (but *only* of appearances).
+
+**Presuppositions ⚠️:** (P1) the objective/subjective distinction in temporal order is genuine and must be grounded; (P2) irreversibility of apprehension requires a rule; (P3) the only available rule for fixing temporal position is causal.
+**Strongest objection ✅ — Strawson's "non-sequitur of numbing grossness"** (*The Bounds of Sense*, 1966): Kant slides from (i) *the order of my perceptions is not up to me — it is determined by the object* to (ii) *the event is necessitated by a causal law*. Conceptual necessity in the order of apprehension does not yield causal necessitation in nature. Guyer presses a related point: at most Kant establishes that we need *some* rule, not the universal causal law.
+**Reply:** Allison's transcendental-idealist reading — Kant is arguing about the conditions under which a succession of representations can be *judged* objective, and the only candidate rule for fixing an irreversible position in a single time is a causal one. **Adjudication for the answer:** Kant defeats Hume at the level of *conceptual entitlement* (we are entitled to the concept of cause; it is not a bastard of the imagination) but does **not** deliver what Hume asked for (knowledge of particular causal connections) — which is exactly what Kant intended, since particular laws remain empirical.
+
+#### 3.6.3 THIRD ANALOGY — Community / Reciprocity
+Simultaneity, like succession, cannot be read off unperceivable time. If A and B are simultaneous, I can perceive them in either order (moon-then-earth, earth-then-moon) — but so I can with a *non*-simultaneous pair unless something fixes them in one time. What fixes them is **mutual causal influence** (*commercium*): substances are simultaneous only insofar as they stand in thoroughgoing reciprocal determination. ✅ This is the schema of the category of **Community**.
+
+### 3.7 THE REFUTATION OF IDEALISM ✅ (B274–9, added in the **second edition, 1787**)
+
+**Why it exists.** The Göttingen (Garve–Feder) review of 1781 accused the first *Critique* of being Berkeleyan idealism. Kant's response is twofold: he rewrites the Fourth Paralogism as a direct **proof of the external world**, and he complains in the second-edition Preface that "it remains **a scandal of philosophy** … that the existence of things outside us … must be accepted merely on **faith**" (Bxxxix n.). ✅
+
+**Kant's own taxonomy of the enemy (B274):**
+| Type | Holder | Claim |
+|---|---|---|
+| **Problematic idealism** | **Descartes** | the existence of objects outside us is *doubtful and indemonstrable*; only "I am" is indubitable |
+| **Dogmatic idealism** | **Berkeley** | matter is *impossible*; space and the things in it are illusory |
+
+Kant answers Berkeley by the Transcendental Aesthetic (space is a real a priori form, not a confused perception), and Descartes by the Refutation proper.
+
+**Thesis (B275):** "**The mere, but empirically determined, consciousness of my own existence proves the existence of objects in space outside me.**"
+
+**The proof, numbered ✅:**
+1. I am conscious of my own existence as **determined in time** — I know that this inner state came *after* that one; inner experience has a determinate order. (Descartes must grant this: his own *cogito* is a dated episode among others.)
+2. All determination of position in time presupposes **something persistent** in perception (this is the **First Analogy**, §3.6.1 — the two sections are a single argument).
+3. This persistent cannot be an *intuition in me*: all my inner determinations are exactly what is to be *determined* by it; the flux of representations cannot supply the fixed point against which the flux is measured. (Hume's bundle is not a candidate; nor is Descartes' *res cogitans*, since I do not *intuit* a persisting soul, I only *think* one.)
+4. ∴ The persistent must be something **outside me and distinct from my representations** — an actual thing in space.
+5. ∴ **Consciousness of my own existence in time is at the same time immediate consciousness of the existence of things outside me.** Outer experience is not inferred from inner experience; it is a *condition* of it.
+6. **Corollary (B278–9, Note 2):** "**Inner experience in general is possible only through outer experience in general.**" Descartes' order of certainty is exactly inverted.
+
+**Presuppositions ⚠️:** (P1) the First Analogy is sound; (P2) I have determinate, not merely felt, temporal knowledge of my own states; (P3) nothing inner can serve as the persistent — this is the step doing all the work.
+
+**Strongest objections → replies ❓:**
+| Objection | Force | Reply |
+|---|---|---|
+| The proof establishes at most that I must **represent** something as persisting and external — not that anything external actually **exists**. (Strawson; Guyer) | Very strong; it is the standard modern verdict | Kant's answer must be that a merely represented persistent could not do the job, since it would itself be an inner determination in flux — the persistent must be *given*, not posited. |
+| Kant rewrote the proof in a **footnote in the Preface** (Bxxxix n.), which suggests he was dissatisfied with his own text. | Historically true and worth citing | The revision clarifies rather than replaces: what is intuited is the persisting *thing*, not a persisting *representation of* a thing. |
+| The refutation defeats Descartes but leaves the thing-in-itself untouched — the "external objects" proved are only **empirically** external, i.e. appearances in space. | Correct, and Kant accepts it | This is not a defect but the doctrine: **empirical realism + transcendental idealism**. Kant proves the desk, not the noumenal desk. |
+
+**Comparison worth one line in any answer ⚠️:** Moore's "Proof of an External World" (1939) offers a *common-sense refusal* of the sceptic's demand ("here is one hand…"); Kant offers a *transcendental derivation* showing the sceptic's own premise (certainty of inner experience) already entails the conclusion he doubts. Moore blocks the question; Kant turns it. See [`Moore-Russell-EarlyWittgenstein.md`](Moore-Russell-EarlyWittgenstein.md) §1.
+
+**Executable verdict:** "The Refutation is Kant's most compressed anti-sceptical argument and his most fragile: it succeeds in showing that Cartesian inner certainty cannot stand alone, but it delivers only *empirically* external objects. Its permanent contribution is the reversal — that self-knowledge is parasitic on world-knowledge, not the reverse — which is the exact inversion of Meditation II and the ancestor of Wittgenstein's private-language argument."
+
+### 3.8 Phenomena and Noumena ✅
 
 | Phenomena (Erscheinungen) | Noumena (Dinge an sich) |
 |---|---|
@@ -446,6 +581,57 @@ Assess: The antinomies are Kant's strongest argument that speculative metaphysic
 Close : The antinomies do not show reason is *flawed* — they show it must respect its own
         boundaries.
 ```
+
+---
+
+## D. DIRECTIVE DECODER ⚠️ — what each command word obliges you to *do* here
+
+| Directive | What it demands | Structural obligation for **this** file | Fatal error |
+|---|---|---|---|
+| **How is X possible?** (the Kantian question form itself) | a **transcendental** argument: identify the undisputed fact, then derive its necessary conditions | Always answer in the form: *given F, and given that F is possible only if C, therefore C.* | Answering with a psychological or causal story about how minds work. |
+| **Examine / Critically examine** (2022 Q3a Antinomies) | assessment dominates; the *resolution* is the marked part | For Antinomies: state thesis + antithesis proofs, then the resolution (math = both false; dynamical = both may be true), then judge. | Presenting the four antinomies as a list with no resolution. |
+| **Discuss** | exposition + assessment, ~60:40 | Reconstruct as numbered transcendental steps, then one objection with a named source. | Paraphrasing Kant's vocabulary without argument structure. |
+| **Elucidate the statement** (quotation parts, e.g. 2022 Q1e apperception) | locate the sentence in the **architecture**, then unpack | Name the section (Aesthetic / Analytic / Dialectic), the problem it solves, and the doctrine immediately before and after it. | Free-standing definition. |
+| **Do you agree? / Comment** (2025 Q1e Hegel on the noumenon) | take a defended side | State a ruling in line 1 ("Hegel's objection succeeds against a *knowledge*-claim reading of the noumenon and fails against the *limiting-concept* reading"), then defend. | Reporting both views neutrally. |
+| **Bring out the significance of** | show **what changes** if the doctrine is true | For Copernican Revolution: name what it explains that neither rationalism nor empiricism could. | Definition without consequence. |
+| **Justify / Substantiate** | textual + architectural grounds, not opinion | Cite the section by **A/B pagination** (A137/B176 etc.) — see §T below. | Assertion. |
+| **Refute / How does Kant answer Hume?** | reconstruct **both** sides and locate the exact point of disagreement | The point is *not* that Kant found necessity in objects; it is that Kant relocated the question from psychology to the conditions of objective time-determination (Second Analogy). | "Kant said causation is a category" with no argument. |
+
+---
+
+## V. GRADED VERDICT BANK ⚠️ — executable closing positions
+
+| Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict** |
+|---|---|---|---|
+| **Synthetic a priori** | Kant's third category is a genuine discovery, not a compromise: it names judgments that are informative yet necessary, which Hume's Fork had declared impossible. | …Its cost is that its examples are hostage to science — non-Euclidean geometry and relativity removed the two showcase cases (7+5=12 survives; "the straight line is the shortest" does not). | The doctrine survives its examples. What Kant identified was not a stock of privileged truths but a *kind* of claim — presuppositional, revisable in content, unavoidable in form. Read that way, Quine's attack on the analytic/synthetic distinction damages Kant's *classification* while confirming his real point, that experience rests on commitments not themselves given in experience. |
+| **Space & time** | Space and time are neither things (Newton) nor relations among things (Leibniz) but **forms of intuition** — the mind's contribution to the possibility of appearing. | …The Transcendental Exposition ties this to the apodictic status of geometry; when geometry ceased to be uniquely Euclidean, the argument from geometry lapsed, though the argument from the Metaphysical Exposition (space as *given* singular whole, not a general concept) does not. | Kant's decisive achievement is negative and permanent: he shows that the Newton–Leibniz debate is unanswerable because both sides treat space as something *encountered*. Once space is the form of encounter, the antinomy dissolves — which is precisely the pattern he repeats for the world-whole in the Dialectic. |
+| **Categories / Deduction** | The categories are valid not because they mirror reality but because without them there could be no unified self-conscious experience at all. | …The argument's strength is that it needs no premise the sceptic can refuse — only that experience is *mine*; its weakness is the "metaphysical deduction," where the twelve categories are read off a table of judgments Kant did not himself justify. | The Deduction is the strongest anti-sceptical argument in modern philosophy and the table of categories its weakest scaffolding. Detach the strategy from the inventory — as Strawson does in his "austere" reading — and Kant's core result stands: objectivity is a condition, not a discovery. |
+| **Schematism** | The schema is a **rule of time-determination**, not an image; it is what converts a logical function into a condition of experience. | …Without schemata the Analogies would be impossible, so the chapter is functional, not ornamental; but Kant's own phrase "an art concealed in the depths of the human soul" concedes that the mechanism is postulated, not exhibited. | Schematism is where transcendental idealism either earns its keep or fails: if time-determination genuinely mediates concept and intuition, Kant has bridged the rationalist/empiricist divide at its deepest point; if Hegel is right that the faculties were artificially separated in the first place, the bridge is repairing a self-inflicted wound. The honest verdict is that the chapter succeeds *internally* and remains vulnerable *externally*. |
+| **Analogies** | The Analogies are the schematised categories of Relation doing work: substance secures duration, causality secures succession, community secures simultaneity — all because time itself cannot be perceived. | …The Second Analogy answers Hume at the level of *entitlement* to the concept of cause, not at the level of knowledge of particular causal laws; Strawson's "non-sequitur" objection shows the gap between order-necessity and causal necessitation. | The Analogies are Kant's true reply to empiricism, and they are the part of the *Critique* most nearly independent of transcendental idealism — which is why Strawson could rebuild them without the doctrine of appearances. Their permanent result is that objectivity is a matter of **rule-governed time-determination**, and that anyone who accepts the objective/subjective distinction in temporal order has already accepted more than Hume allowed. |
+| **Refutation of Idealism** | Kant inverts Descartes: outer experience is not inferred from inner experience but is its condition. | …The proof delivers only *empirically* external objects, and Strawson/Guyer argue it establishes at most a need to *represent* a persistent — Kant's own footnoted revision suggests he felt the strain. | The Refutation is the moment transcendental idealism turns out to be an **empirical realism**. Its lasting force is structural: the sceptic's own starting point (determinate knowledge of my inner life) is shown to presuppose what he doubts. Wittgenstein's private-language argument is the same manoeuvre without the machinery — which is the best evidence that Kant located the right pressure point. |
+| **Antinomies** | The antinomies are not contradictions in reason but the symptom of a false shared assumption — that the world is a given totality. | …The mathematical antinomies are resolved by declaring **both** sides false (the world-whole is not an object); the dynamical by allowing **both** to be true in different respects (freedom noumenally, causality phenomenally). | The Antinomies are the *indirect proof* of transcendental idealism: if realism about appearances generated contradictions and idealism dissolves them, idealism is vindicated by its consequences. The move is powerful but not decisive — it succeeds only if there is no third diagnosis, and Hegel supplies one, namely that reason's contradictions are productive rather than pathological. |
+| **God-proofs** | Kant does not disprove God; he disproves the *provability* of God by theoretical reason, and then reinstates God as a **postulate of practical reason**. | …The core is "existence is not a real predicate" — adding existence adds no content, so no analysis of a concept can yield existence; and since the cosmological and physico-theological proofs both terminate in the ontological, one refutation kills all three. | Kant's critique clears theoretical metaphysics precisely in order to make room for faith ("I had to deny knowledge in order to make room for belief," Bxxx). The result is not atheism but the relocation of God from an object of proof to a condition of the moral life — a move which secures religion from Hume's scepticism at the price of conceding that theology can never be a science. |
+
+---
+
+## T. TRANSLATION, QUOTATION & PROVENANCE DISCIPLINE ✅
+
+**Kant wrote in German. Every English sentence in this file is a translation. Declare the edition or paraphrase.**
+
+| Item | Editions / practice | Cautions |
+|---|---|---|
+| *Kritik der reinen Vernunft* — **A edition 1781, B edition 1787** | Cite by **A/B pagination**, which every scholarly edition prints in the margin: Guyer–Wood (CUP 1998, current standard), Kemp Smith (1929, the version most Indian guides reproduce), Pluhar (1996). | ✅ **A/B references are translation-invariant** — always prefer them to page numbers. ⚠️ Some material exists only in one edition: the **Refutation of Idealism (B274–9)** and the second-edition Deduction (B129–69) are **B-only**; the **Fourth Paralogism** in its original form is **A-only**. Never say "Kant argues in the *Critique*" where the point is edition-specific. |
+| "Thoughts without content are empty, intuitions without concepts are blind" | A51/B75 | ✅ Safe — this is the standard rendering in both Kemp Smith and Guyer–Wood, which agree almost word for word here. |
+| "**I had to deny knowledge in order to make room for faith**" | Bxxx (Preface to 2nd ed.) | ⚠️ *Glaube* is rendered "faith" (Kemp Smith) or "belief" (Guyer–Wood). Say which, or paraphrase as "denying knowledge to make room for rational belief." |
+| "**An art concealed in the depths of the human soul**" | A141/B180–1 | ⚠️ Renderings vary ("a hidden art in the depths of the human soul"). Attribute with the A/B reference and the phrase is safe. |
+| "**Scandal of philosophy**" (external world accepted on faith) | Bxxxix note | ✅ Standard rendering; note it is a **footnote in the second-edition Preface**, not in the Refutation itself. |
+| "**Existence is not a real predicate**" | A598/B626 | ⚠️ Kant's own wording is closer to "*Sein* ist offenbar kein reales Prädikat" — "**being** is obviously not a real predicate." Write: "being/existence is not a real predicate (A598/B626)." Using "real predicate" without noting that *real* here means **determining/content-adding** is a common error. |
+| **"Copernican Revolution"** | ⚠️ **Provenance:** Kant describes the change of standpoint at Bxvi–xviii and invokes Copernicus, but the label "**Copernican revolution/turn**" is the **commentators'**, not a phrase Kant applies to himself. | Write "the change of standpoint traditionally called Kant's Copernican revolution (Bxvi–xviii)." |
+| **"Transcendental unity of apperception"**, "the *I think* must be able to accompany all my representations" | B131–2 | ✅ Safe with the reference. Note "*Ich denke*." |
+| Hume's role | *Prolegomena* (1783), Preface: Hume "interrupted my dogmatic slumber" | ⚠️ The popular form "awoke me from my dogmatic slumber" is a **loose rendering**; the German is *unterbrach* (interrupted). Either paraphrase or flag it. It is in the ***Prolegomena***, **not** the *Critique*. |
+| **"Thesis–antithesis"** in the Antinomies | ✅ These *are* Kant's own printed headings (*Thesis* / *Antithesis*) in the Antinomy chapter | ✅ Safe here — unlike in Hegel, where the triad is not Hegel's own. See [`Hegel.md`](Hegel.md) §1.2. |
+
+> ❌ **Never write:** that Kant "proved space and time do not exist," or that the noumenon is "a thing behind appearances that causes them." The second is Jacobi's famous objection about causal application beyond experience, and stating it as Kant's own doctrine is the single most common Kant error in scripts.
 
 ---
 

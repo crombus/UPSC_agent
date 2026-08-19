@@ -1,0 +1,9 @@
+{
+  "guided_tutor": {
+    "mcq_answer_leakage": "Never include correct answers in the requested reply format, examples, hints, or navigation text before the learner submits an answer.",
+    "mcq_prompt": "Ask the learner to reply with choices only, without displaying an answer-pattern example.",
+    "mcq_option_placement": "Distribute correct options across A, B, C, and D without a predictable sequence such as A-B-C-D. Avoid consecutive repetition and verify that wording or option length does not reveal the answer.",
+    "advancement": "After mastery, move to the next subtopic when the learner says Next or explicitly asks to continue.",
+    "coverage": "Use the complete learning-session Markdown and miss no substantive detail."
+  }
+}

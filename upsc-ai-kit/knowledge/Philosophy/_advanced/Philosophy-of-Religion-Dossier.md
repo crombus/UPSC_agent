@@ -13,6 +13,24 @@
 3. Use advanced material to sharpen evaluation, not to replace syllabus exposition.
 4. If a future PYQ directly asks the advanced issue, promote it to Core per [`README.md`](README.md).
 
+## Promotion ledger — 15 August 2026
+
+Four promotion triggers in this dossier have **fired and been executed**. The doctrines below now
+live in Core and must not be described as Advanced-only:
+
+| Doctrine | Now Core in | Effect on this dossier |
+|---|---|---|
+| **Skeptical theism** (CORNEA, Bergmann's representativeness theses, defence-vs-theodicy) | [Problem of Evil](../paper-2/philosophy-of-religion/Problem-of-Evil.md) §9.9 | §3 module recast as second-order |
+| **Horrendous evils** (Adams; balancing-off vs defeat; goodness-to-persons) | [Problem of Evil](../paper-2/philosophy-of-religion/Problem-of-Evil.md) | §3 module recast as second-order |
+| **Reformed epistemology vs evidentialism** (proper basicality, defeaters) | [Reason, Revelation and Faith](../paper-2/philosophy-of-religion/Reason-Revelation-Faith.md) §9.9 | §5 module recast as second-order |
+| **Religious naturalism** and non-realism/fictionalism | [Religion without God](../paper-2/philosophy-of-religion/Religion-without-God.md) §9.5, §9.8 | §7 module recast as second-order |
+
+Also promoted, and therefore not to be looked for here: the **Stace/Zaehner** typology and the
+perceptual model of religious experience (§6 owner), **Udayana's four inferences** (§2 owner),
+**modified divine-command theory** (§8 owner), and **deep disagreement** about Hick's Real
+(§9 owner). Nothing was deleted in the recasting — each module keeps its dispute, its strongest
+counter-objection and its deployment note.
+
 ---
 
 ## 1. [Notions of God](../paper-2/philosophy-of-religion/Notions-of-God.md)
@@ -55,13 +73,13 @@
 
 | Optional advanced debate | Precise competing positions | Strongest extra objection → counter-reply | Safe use in a 15/20-marker |
 |---|---|---|---|
-| ⚠️ Sceptical theism vs Rowe-style evidential atheism | Sceptical theists deny that our failure to see God's reasons counts strongly against God's existence; evidential critics treat apparently pointless suffering as serious evidence. | Objection: this scepticism also weakens everyday moral reasoning. → Reply: defenders restrict scepticism to divine-governance inferences, not to ordinary local judgements. | Best used as a second-stage reply after stating Rowe or "gratuitous evil" pressure. |
-| ⚠️ Horrendous evils vs ordinary soul-making | Marilyn McCord Adams argues some evils are so devastating that simple growth language is morally inadequate; Hick-style theodicy emphasises development and eschatological fulfilment. | Objection: some suffering destroys persons instead of building them. → Reply: only defeat, redemption, or ultimate integration could answer such cases, so soul-making must be morally deepened. | Upgrades criticism of Hick/Augustine in a 20-marker. |
+| ✅ **Sceptical theism vs Rowe-style evidential atheism — now Core (§9.9 of the owner)** | Sceptical theists (Wykstra's CORNEA; Bergmann's representativeness theses) deny that our failure to see God's reasons counts strongly against God's existence; evidential critics treat apparently pointless suffering as serious evidence. | Objection: this scepticism also weakens everyday moral reasoning. → Reply: defenders restrict scepticism to divine-governance inferences, not to ordinary local judgements. | **Promoted 15 Aug 2026.** Core already carries the position, the CORNEA formulation and the verdict. The optional residue is the *second-order* worry that a defence and a positive theodicy sit awkwardly together, so a candidate should not deploy both in the same paragraph. |
+| ✅ **Horrendous evils vs ordinary soul-making — now Core** | Marilyn McCord Adams argues some evils are so devastating that simple growth language is morally inadequate; Hick-style theodicy emphasises development and eschatological fulfilment. | Objection: some suffering destroys persons instead of building them. → Reply: only defeat, redemption, or ultimate integration could answer such cases, so soul-making must be morally deepened. | **Promoted 15 Aug 2026**, together with the *balancing-off vs defeat* distinction and goodness-to-persons. Optional residue: whether "defeat within the life of the sufferer" is a theodicy at all, or an admission that no general theodicy succeeds. |
 | ⚠️ Free will, natural law, and natural evil | One line explains moral evil through freedom; a harder line connects natural evil to law-governed order or finite creation. | Objection: stable-law answers still leave animal suffering and disaster intensity unexplained. → Reply: defenders admit incompleteness and combine free will with soul-making or non-classical theism. | Safe as a fairness check: "Plantinga is strongest on moral evil, weaker on natural evil." |
 | ⚠️ Karma, desert, and victim-blaming | Karma theories explain distribution of suffering across lives; critics worry that karmic desert naturalises social indifference. | Objection: karma can become a moral excuse for blaming victims. → Reply: classical Indian ethics still makes compassion obligatory; explanatory karma is not a licence for cruelty. | Very useful in Indian comparison, especially to avoid uncritical praise of karma as a total solution. |
 
 - **What not to over-study:** Do not reproduce full analytic debates on modal logic, possible worlds, or every horrendous-evil case study.
-- **Promotion trigger:** Promote if a future PYQ explicitly asks sceptical theism, gratuitous evil, or victim-blaming critiques of karma.
+- **Promotion trigger:** ✅ **Skeptical theism, gratuitous-evil pressure and horrendous evils fired and were promoted on 15 Aug 2026** and are now Core. Still to promote if a PYQ asks it directly: victim-blaming critiques of karma as a standalone demand.
 - **Credible source trail:** ✅ Augustine, *Enchiridion* / *City of God*; ✅ Alvin Plantinga, *God, Freedom, and Evil*; ✅ John Hick, *Evil and the God of Love*; ✅ Marilyn McCord Adams, *Horrendous Evils and the Goodness of God*; ✅ A.N. Whitehead, *Process and Reality*; ✅ standard Indian karma discussions in the *Bhagavad Gītā*, Nyāya, and Vedānta traditions.
 
 ---
@@ -89,13 +107,13 @@
 
 | Optional advanced debate | Precise competing positions | Strongest extra objection → counter-reply | Safe use in a 15/20-marker |
 |---|---|---|---|
-| ⚠️ Reformed epistemology vs evidentialism | Reformed epistemologists treat belief in God as properly basic under suitable conditions; evidentialists require proportioned evidence. | Objection: this makes almost any worldview basic. → Reply: proper basicality is constrained by defeaters, mature practices, and conditions of functioning, not by whim. | Use as a modern note in "can religious belief be justified?" answers. |
+| ✅ **Reformed epistemology vs evidentialism — now Core (§9.9 of the owner)** | Reformed epistemologists treat belief in God as properly basic under suitable conditions; evidentialists require proportioned evidence. | Objection: this makes almost any worldview basic. → Reply: proper basicality is constrained by defeaters, mature practices, and conditions of functioning, not by whim. | **Promoted 15 Aug 2026**, with its own PYQ route. Optional residue: the full warrant/proper-function machinery, and whether the *Great Pumpkin* objection is answered or merely deflected. |
 | ⚠️ Public testimony vs private revelation | Some views emphasise communal testimony, history, and credibility signs; others stress first-person disclosure and interpretive faith. | Objection: competing revelations cancel one another. → Reply: warrant is defeasible and cumulative rather than apodictic; rival claims force comparative assessment, not immediate collapse. | Good as one evaluative sentence in revelation-justification questions. |
 | ⚠️ Doxastic voluntarism vs involuntarism | Voluntarists allow a will-governed role in faith; involuntarists deny that belief can be chosen at will. | Objection: one cannot simply decide to believe. → Reply: traditions often mean indirect control through attention, trust, practices, and consent to inquiry, not instant arbitrary choice. | Useful with Aquinas on will-and-intellect, but keep it subordinate to the owner's Thomist frame. |
 | ⚠️ Creator-centred revelation vs Mīmāṃsā/Advaita *śabda* | Abrahamic models tie revelation to divine self-disclosure; Mīmāṃsā and Advaita give scriptural testimony authority without making it creator-speech in the same way. | Objection: non-personal or authorless scripture lacks revelatory force. → Reply: Indian schools distinguish supersensible disclosure from divine dictation and require internal verification through reasoning/practice. | Helpful for Indian balance when the answer would otherwise remain entirely Western. |
 
 - **What not to over-study:** Do not import the entire analytic epistemology of warrant, basicality, or testimony into a short UPSC answer.
-- **Promotion trigger:** Promote if a future PYQ explicitly asks proper basicality, testimony theory, or the status of *apauruṣeya* as revelation.
+- **Promotion trigger:** ✅ **Proper basicality and the Reformed-epistemology/evidentialism dispute fired and were promoted on 15 Aug 2026** and are now Core. Still to promote if a PYQ asks it directly: specialist testimony theory, or the status of *apauruṣeya* as revelation in its own right.
 - **Credible source trail:** ✅ Thomas Aquinas, *Summa Theologiae* II-II on faith; ✅ Søren Kierkegaard, *Fear and Trembling* / *Concluding Unscientific Postscript*; ✅ John Hick, writings on revelation and experiencing-as; ✅ Alvin Plantinga, *Warranted Christian Belief*; ✅ Mīmāṃsā discussions of *śabda* and *apauruṣeya*; ✅ Advaita pedagogic triad of *śravaṇa-manana-nididhyāsana*.
 
 ---
@@ -125,11 +143,11 @@
 |---|---|---|---|
 | ⚠️ Substantive vs functional definition of religion | Substantive definitions centre God/sacred beings; functional definitions centre ultimacy, discipline, community, and liberation. | Objection: over-broad functionalism makes nationalism or ideology "religion." → Reply: add disciplined orientation to ultimacy plus ritual-experiential-soteriological structure. | Good opening refinement, but move quickly to Buddhism/Jainism because PYQs expect concrete traditions. |
 | ⚠️ Non-theistic Indian systems vs Nyāya creator-pressure | Buddhism, Jainism, Mīmāṃsā, and Sāṃkhya explain order/liberation without a creator; Nyāya presses the need for intelligent causation and moral allotment. | Objection: impersonal law cannot explain purposive order. → Reply: non-theistic schools argue that creator-hypothesis adds no practical or explanatory necessity to liberation-centred religion. | Helpful for balance when an answer risks becoming only Buddhism-plus-definition. |
-| ⚠️ Religious naturalism / post-theistic religiosity vs classical religion | Some modern thinkers retain awe, value, ritual, and ultimacy within nature or human life without supernatural theism; others say that thins religion into ethics or sentiment. | Objection: this is spirituality, not religion proper. → Reply: defenders point to community, liturgy, and ultimate concern, while admitting a thinner metaphysics. | Use only as a concluding modern extension; never as the core of the answer. |
+| ✅ **Religious naturalism / post-theistic religiosity — now Core (§9.5, §9.8 of the owner)** | Some modern thinkers retain awe, value, ritual, and ultimacy within nature or human life without supernatural theism; others say that thins religion into ethics or sentiment. | Objection: this is spirituality, not religion proper. → Reply: defenders point to community, liturgy, and ultimate concern, while admitting a thinner metaphysics. | **Promoted 15 Aug 2026**, together with religious fictionalism/non-realism and the Cārvāka limit-case. Optional residue: whether a fictionalist can *sincerely* participate in the practice she declines to assert. |
 | ⚠️ Nietzschean post-theism vs nihilism | Nietzsche diagnoses the collapse of the God-framework and pushes revaluation; critics fear arbitrary value-creation or elitism. | Objection: once God is gone, values lose objective force. → Reply: Nietzsche seeks active self-overcoming rather than passive nihilism, though the stability of that move remains disputed. | Useful only in 2025-style Nietzsche questions, not in every "religion without God" answer. |
 
 - **What not to over-study:** Do not let contemporary "spiritual but not religious" discourse crowd out Buddhism, Jainism, and Indian anti-creator arguments.
-- **Promotion trigger:** Promote if a future PYQ directly asks religious naturalism, functional definitions, or systematic comparison of Buddhism/Jainism/Mīmāṃsā/Sāṃkhya.
+- **Promotion trigger:** ✅ **Religious naturalism and the functional/substantive definition contrast fired and were promoted on 15 Aug 2026** and are now Core. Still to promote if a PYQ asks it directly: a systematic four-way comparison of Buddhism/Jainism/Mīmāṃsā/Sāṃkhya as non-theistic religions.
 - **Credible source trail:** ✅ Ninian Smart, work on dimensions of religion; ✅ Buddhist texts on dependent origination and nirvāṇa; ✅ Jain discussions of non-creator liberation; ✅ Mīmāṃsā on *apauruṣeya* and *apūrva*; ✅ Friedrich Nietzsche, *The Gay Science* / *On the Genealogy of Morality*; ✅ Ronald Dworkin, *Religion without God*.
 
 ---
@@ -140,13 +158,13 @@
 
 | Optional advanced debate | Precise competing positions | Strongest extra objection → counter-reply | Safe use in a 15/20-marker |
 |---|---|---|---|
-| ⚠️ Modified divine command vs classic Euthyphro pressure | Modified divine command ties obligation to the commands of a necessarily loving God; autonomy theorists keep morality independent of command. | Objection: if love is already good, goodness remains prior to God. → Reply: defenders distinguish value grounded in divine nature from obligation generated by divine command. | One elegant evaluative line after Euthyphro can raise the quality of a 20-marker. |
+| ✅ **Modified divine command vs classic Euthyphro pressure — now Core** | Modified divine command (R. M. Adams) ties obligation to the commands of a necessarily loving God; autonomy theorists keep morality independent of command. | Objection: if love is already good, goodness remains prior to God. → Reply: defenders distinguish value grounded in divine nature from obligation generated by divine command. | **Promoted 15 Aug 2026.** Optional residue: whether grounding value in the divine *nature* merely relocates the dilemma one step back. |
 | ⚠️ Natural law / moral realism vs autonomy | Natural-law lines hold that objective goods are rationally discoverable within an ordered reality; Kantians insist duty comes from autonomous reason. | Objection: natural law commits a nature-to-norm fallacy. → Reply: defenders say practical reason grasps goods as reasons, not as mere biological facts. | Use as a middle path between crude DCT and pure autonomy. |
 | ⚠️ Evolutionary debunking vs moral objectivity | Debunkers say our moral intuitions were selected for survival, not truth; realists answer that reflection can correct evolved starting points. | Objection: moral beliefs are epistemically contaminated by adaptive origin. → Reply: causal origin alone does not refute truth, especially where reflection, criticism, and convergence operate. | Best used as a modern extra objection, not as the main structure of the answer. |
 | ⚠️ Role-dharma vs universal moral critique | Some religious orders tie morality to role, ritual, and inherited duty; reformist lines emphasise non-harm, equality, compassion, and conscience. | Objection: religion may sacralise hierarchy. → Reply: internal critique within Indian traditions shows religion can morally revise itself instead of simply sanctioning status quo duties. | Very useful to prevent naïve praise of "dharma" in Indian material. |
 
 - **What not to over-study:** Do not overload answers with bioethics, metaethics, or contemporary moral psychology unrelated to the clause.
-- **Promotion trigger:** Promote if a future PYQ explicitly asks modified command theory, evolutionary debunking, or role-duty versus universal ethics.
+- **Promotion trigger:** ✅ **Modified divine-command theory fired and was promoted on 15 Aug 2026** and is now Core. Still to promote if a PYQ asks it directly: evolutionary debunking or role-duty versus universal ethics.
 - **Credible source trail:** ✅ Plato, *Euthyphro*; ✅ Immanuel Kant, *Groundwork of the Metaphysics of Morals*; ✅ Robert Merrihew Adams, *Finite and Infinite Goods*; ✅ Thomas Aquinas, natural-law discussions; ✅ *Bhagavad Gītā* on duty and detached action; ✅ Buddhist and Jain ethical texts on intention and non-violence.
 
 ---

@@ -83,6 +83,41 @@
 - ⚠️ Analyse the role of brahmanical ritual in strengthening kingship and varna hierarchy.
 - ⚠️ Trace the intellectual shift from ritualism to Upanishadic speculation.
 
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The Later Vedic phase marks the expansion of agrarian society, territorial kingship and sharper social hierarchy in the Gangetic region." |
+| Critically examine | "Later Vedic change was substantial, but it was a gradual restructuring of the Rig Vedic world rather than an overnight birth of the state." |
+| Compare / evaluate | "Compared with the Rig Vedic age, the Later Vedic period shows deeper agriculture, ritual sovereignty and harder social stratification." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** iron/clearing -> agrarian surplus -> ritual kingship -> sharper varna order
+- **For comparison Qs:** parallel matrix on economy, polity, ritual and family/social structure
+- **For evaluate Qs:** major transformation -> surviving continuities -> qualified verdict
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Agrarian expansion deepened the resource base | ✅ Iron use, clearing and Painted Grey Ware contexts | Explains larger settlements and surplus | Text-archaeology correlation is imperfect |
+| 2 | Kingship became more territorial and ritualised | ✅ Rajasuya, Ashvamedha and janapada language | Shows authority moving beyond tribe | Ritual claim does not equal total control |
+| 3 | Social hierarchy and patriarchy hardened | ✅ Brahmana-Kshatriya prominence, gotra and family-property emphasis | Supports answers on varna and gender | Prescriptive texts may overstate uniformity |
+| 4 | Continuity with earlier Vedic life survived | ✅ Pastoral elements and assemblies did not vanish entirely | Prevents a false rupture model | Relative strength of old forms is hard to measure |
+
+### Counterpoint and balance
+
+- Avoid reducing change to iron alone; ecology, ritual and surplus also matter.
+- Avoid saying the mature state was fully formed; this was a transition toward it.
+
+### Verdict framing
+
+- Conclude that the Later Vedic phase bridges cattle-centred tribal society and agrarian-territorial politics.
+- A reasoned ending should highlight both transformation and continuity.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

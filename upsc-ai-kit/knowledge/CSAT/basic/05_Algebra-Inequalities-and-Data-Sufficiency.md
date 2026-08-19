@@ -75,19 +75,22 @@ first three options are stable across the audited papers; **the fourth is not**.
 
 | Tool | Rule | Edge condition |
 |---|---|---|
-| ✅ **Linear solve** | Isolate the variable; one equation fixes one unknown. | Only if the coefficient is non-zero. |
-| ✅ **Two unknowns** | Need **two independent** equations; a multiple of one is not independent. | Inconsistent pairs give **no** solution; dependent pairs give **many**. Both block a unique answer. |
+| ✅ **Linear solve** | A linear equation in one unknown fixes it after isolation. | The variable coefficient must be non-zero; retain any stated integer/positive domain. |
+| ✅ **Two unknowns** | Two independent **linear** equations can pin two unknowns; a multiple of one is not independent. | Non-linear systems can still have 0, 1, or many solutions; inconsistent pairs give no solution and dependent pairs give many. |
 | ✅ **Inequality flip** | Multiplying/dividing by a **negative** reverses the sign. | Adding/subtracting **never** flips it. |
-| ✅ **Dividing by a variable** | Only legal if you know it is non-zero. | If its **sign** is unknown, the inequality direction is unknown too - split into cases. |
+| ✅ **Dividing by a variable** | Only legal if you know it is non-zero. | If its **sign** is unknown, the inequality direction is unknown too - split into cases; division by zero is never legal. |
+| ✅ **Cross-multiplication** | For `a/b < c/d`, multiply only after fixing `b` and `d` as non-zero and their signs. | With `bd > 0`, compare `ad` and `bc`; with `bd < 0`, reverse the inequality. |
+| ✅ **Absolute value** | `|u| = k` means `u = k` **or** `u = -k` when `k >= 0`; for `k>0`, `|u|<k` means `-k<u<k` and `|u|>k` means `u<-k` or `u>k`. | If `k < 0`, no real solution; handle `k=0` separately. |
 | ✅ **Squaring to compare** | `a > b >= 0  =>  a^2 > b^2`. | Fails if either side may be negative. |
 | ✅ **Quantitative comparison** | Reduce both quantities to the **same base/form** before comparing. | `x^m` vs `x^n` reverses for `0 < x < 1`. |
 | ✅ **Sum-difference** | Two numbers with sum `S`, difference `D`: they are `(S+D)/2` and `(S-D)/2`. | Integer answers need `S` and `D` of the same parity. |
 
 ## 4. Method
 
-1. **Solve items:** translate each sentence to one equation; count unknowns vs independent equations.
+1. **Solve items:** translate each sentence to one equation; write the domain first (integer, digit,
+   positive, non-zero); then count unknowns vs independent **linear** equations.
 2. **Inequality/QC items:** rewrite both sides in a comparable form (same base, same power); watch the
-   sign rule.
+   sign rule and any denominator.
 3. **DS items - in this order:**
    1. **Read the four printed options**, especially (d).
    2. Ask whether the **question alone** already pins the answer (a live verdict in this paper).
@@ -108,6 +111,17 @@ first three options are stable across the audited papers; **the fourth is not**.
 
 **Which is larger, `2^30` or `3^20`?** `2^30 = 8^10`, `3^20 = 9^10` -> `9^10 > 8^10` -> **`3^20` is
 larger.** *(Verified: 1073741824 < 3486784401.)*
+
+### 📝 Example C.1 (word translation, denominator and absolute value)
+
+**A number increased by 5 is three times the number decreased by 1. Find it.** Translate the words
+before calculating: `x + 5 = 3(x - 1)`, so `x + 5 = 3x - 3`, `2x = 8`, and **`x = 4`**.
+
+**Solve `|2x - 1| = 5`.** Keep both branches: `2x - 1 = 5` gives `x = 3`; `2x - 1 = -5` gives
+`x = -2`. **Both values work.** *(Verified.)*
+
+**Compare `1/x` and `1/y` when `x > y > 0`.** Because `xy > 0`, cross-multiplication gives
+`y < x`, hence **`1/x < 1/y`**. This conclusion is unsafe without the positive-domain condition.
 
 ### 📝 Example D (data sufficiency, answer (c))
 
@@ -133,6 +147,8 @@ works alone. **Answer: (b).**
 Statement I: the number is odd.
 Statement II: the number is divisible by 5.
 
+**Why the factor shortcut is safe here:** if `n = p₁^a p₂^b ...`, its number of positive factors is
+`(a+1)(b+1)...`. Exactly three factors therefore forces one exponent 2 and no other prime: `n = p²`.
 A number has exactly three distinct factors only if it is the **square of a prime** (`1, p, p^2`).
 Two-digit prime squares are `25` and `49`, so the smallest is **25** - and that came from the
 **question alone**. Statement I is true of 25 and Statement II is true of 25, but **neither was
@@ -159,6 +175,10 @@ three.)*
   Adding the same quantity to both sides never flips the sign.
 - ✅ Squaring both sides preserves order **only when both sides are non-negative**.
 - ✅ For QC, common tricks: equalise exponents, take roots, or compare ratios.
+- ✅ Before cross-multiplying an inequality, state whether the denominator product is positive or
+  negative; zero denominators are excluded.
+- ✅ A number that is both a perfect square and cube has every prime exponent divisible by both 2 and
+  3, hence by 6; this supports the self-sufficiency drill without a hidden prerequisite.
 
 ## 7. Common traps
 
@@ -170,6 +190,8 @@ three.)*
 - ❌ Confusing **necessary** with **sufficient** ("n is even" is necessary for "n is a multiple of 6",
   but nowhere near sufficient). -> Ask which direction the arrow points.
 - ❌ Forgetting to flip the inequality on a negative multiplier. -> Flip the sign.
+- ❌ Cross-multiplying before checking a denominator sign. -> State `bd > 0` or split cases.
+- ❌ Keeping only one branch of an absolute-value equation. -> Write `u = k` and `u = -k`.
 - ❌ In DS, checking "both together" **before** testing each alone. -> Test each alone first (it may be
   (a) or (b)).
 - ❌ Assuming "cannot be found" without trying **both together**. -> That verdict requires both to fail.
@@ -210,10 +232,36 @@ three.)*
    64. Under the 2025-style fourth option that is **(d)**; under a 2024-style fourth option it is not,
    so **read the printed options** before marking. *(Verified: `64 = 8^2 = 4^3`; next is `3^6 = 729`.)*
 
-## 10. Study links
+## 10. Timed transfer, diagnosis and retry gate
 
-- ✅ [Advanced companion](../advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md) - dependent-
-  statement DS, unique-root logic, and inequality ranges.
+**Set 90 seconds per item; do not look at a DS letter until the logical verdict is fixed.**
+
+1. Solve `3(x - 2) = 2x + 7` for integer `x`.
+2. Solve `|x + 4| = 2`.
+3. Given `a > b > 0`, compare `a/b` and `b/a`.
+4. **DS.** Is positive integer `n` divisible by 6? I: `n` is even. II: `n` is divisible by 3.
+5. A two-digit number is `10t + u`. Its digits sum to 11 and its tens digit exceeds its units digit
+   by 3. Find the number.
+
+**Answers.** 1. **13**. 2. **-2 or -6**. 3. **`a/b > b/a`** because multiplying by `ab > 0` reduces
+it to `a² > b²`. 4. **Both needed**. 5. `t+u=11`, `t-u=3`, so `t=7,u=4`: **74**.
+
+| If you missed because... | Code | Repair before retry |
+|---|---|---|
+| You assumed two equations always give one answer | C | State “independent linear equations + domain”. |
+| You lost a sign/denominator restriction | A | Write `x ≠ 0` and denominator signs first. |
+| You kept one absolute-value branch | C | Draw the two branches before solving. |
+| You mapped a DS verdict to a memorised letter | R | Re-read the printed option block. |
+| You over-solved a DS item | T | Stop once uniqueness or a counterexample is proved. |
+
+**Retry gate:** redo the five items after 20 minutes. Continue only at **5/5 within eight minutes**;
+otherwise rebuild the failed relation and take five fresh items of that exact form.
+
+## 11. Study links
+
+- ✅ [Optional Advanced companion](../advanced/05_Algebra-Inequalities-and-Data-Sufficiency.md) -
+  dependent-statement DS, unique-root logic, and interval/optimisation depth. Core above remains
+  sufficient for the paper's basic algebra and DS forms.
 - ✅ [Reading Comprehension](./01_Reading-Comprehension.md) - "is it supported?" mirrors "is it sufficient?".
 - ✅ [Number Systems and Number Sense](./02_Number-Systems-and-Number-Sense.md) - number properties power many DS items.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->

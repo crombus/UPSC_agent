@@ -4,7 +4,7 @@
 > cross-reference GS-III (development processes) and Governance (M&E).
 > **Core area:** Targeting-error trade-offs; convergence failure modes; data-architecture
 > gaps; outcome-learning loop.
-> **Grounded in:** NSAP; SECC 2011; NFHS-5 (2019-21); PLFS; NCRB; SDG India Index; MPI;
+> **Grounded in:** NSAP; SECC 2011; NFHS-6 (2023-24), with NFHS-5 as comparator; PLFS; NCRB; SDG India Index; MPI;
 > DMEO/OOMF (Governance/15); DBT/PFMS/SNA (Governance/13); 2027 Census caste-enumeration
 > decision and 2026 operations (Topic 09); Economic Survey 2025-26.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
@@ -97,7 +97,7 @@ coverage alone proves social-sector success.
 
 ### Outcome-learning failure chain
 1. **Dashboard-survey divergence:** Administrative dashboards show coverage (e.g., ICDS
-   enrolment) while surveys show poor outcomes (e.g., NFHS-5 stunting) — divergence not
+   enrolment) while surveys show remaining outcome deficits (e.g., NFHS-6 stunting) — divergence not
    investigated.
 2. **Evaluation underutilisation:** DMEO and third-party evaluations exist but are not
    systematically fed back into scheme redesign; evaluation findings remain in reports.
@@ -127,7 +127,7 @@ coverage alone proves social-sector success.
   to land-record mismatch illustrates database fragmentation.
 - ⚠️ A PVTG hamlet with near-universal PM-JANMAN housing sanction but persistent
   malnutrition (NFHS data) illustrates the output-outcome gap.
-- ⚠️ A state that achieves high ICDS enrolment but lags on anaemia reduction (NFHS-5)
+- ⚠️ A state that achieves high ICDS enrolment but lags on anaemia reduction (dated NFHS)
   illustrates the convergence-quality gap — enrolment without service quality.
 
 ## 6. Limitations and trade-offs
@@ -156,7 +156,7 @@ coverage alone proves social-sector success.
 - ❌ SECC is updated annually. -> SECC 2011 is static; no subsequent round has been
   conducted.
 - ❌ High ICDS enrolment guarantees nutrition improvement. -> Enrolment (output) does
-  not equal nutrition status (outcome); NFHS-5 shows persistent stunting/wasting.
+  not equal nutrition status (outcome); NFHS-6 still reports under-five stunting.
 - ❌ Convergence happens automatically when multiple schemes exist. -> Convergence
   requires unified databases, coordinated frontline cadres and district-level authority —
   none automatic.
@@ -166,8 +166,8 @@ coverage alone proves social-sector success.
 - 📰 **Census 2027 (21 July 2026):** Caste enumeration is approved and first-phase
   houselisting is notified for 1 April–30 September 2026, but no results are available.
   Full treatment: `basic/09`.
-- 📰 **NFHS status:** NFHS-5 (2019-21) remains the latest published national round; do
-  not mix its values with an unreleased NFHS-6.
+- 📰 **NFHS status:** NFHS-6 (2023-24) was released on 29 May 2026; do not mix its
+  values with NFHS-5 without labelling both rounds.
 - ⚠️ No direct GS-II Mains PYQ in 2024-2025 on NSAP, SECC or convergence; the conceptual
   framework is foundational and will recur.
 

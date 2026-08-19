@@ -56,7 +56,7 @@ Exponent reduction modulo a period is valid only from the point where that perio
 **Last two digits of `7^100`.** `7^4 = 2401 ≡ 01 (mod 100)`, so `7^100 = (7^4)^25 ≡ 01`. **Last two
 digits = 01.** *(Verified.)*
 
-### 📝 Method 4 - when the base and modulus share a factor (no period at all)
+### 📝 Method 4 - when the base and modulus share a factor (find the eventual period)
 
 ⚠️ The "reduce the exponent modulo the cycle length" habit **fails** when `gcd(a, m) != 1`. List the
 residues first:
@@ -66,13 +66,15 @@ residues first:
 | `6^n mod 8` | 6 | 4 | **0** | 0 | 0 | 0 |
 | `2^n mod 8` | 2 | 4 | **0** | 0 | 0 | 0 |
 
-The sequence does not cycle - it **stabilises at 0** from `n = 3` onward, because `8 = 2^3` divides
-every `6^n` and `2^n` with `n >= 3`. So `6^25 mod 8 =` **0**, and any attempt to "reduce 25 modulo a
-period" is meaningless here. *(Verified.)*
+The sequence has a **pre-period** and then stabilises at 0 from `n = 3` onward (an eventual period
+of 1), because `8 = 2^3` divides every `6^n` and `2^n` with `n >= 3`. So `6^25 mod 8 =` **0**.
+Reducing 25 by a cycle assumed to start at exponent 1 is unsafe; first locate the pre-period and
+eventual period. *(Verified.)*
 
 - 🔑 **Escalation rule:** before reducing an exponent, ask **"is `gcd(base, modulus) = 1`?"** If yes,
-  a genuine cycle exists and reduction is safe. If no, write out the first few residues and look for
-  **stabilisation or a pre-period** instead.
+  powers are periodic from exponent 1; verify the cycle length before reducing. If no, write out
+  residues and locate any **pre-period plus eventual cycle** (which may be a constant); non-coprime
+  bases can still cycle immediately.
 
 ## 4. Time-saving techniques (safe conditions)
 
@@ -92,8 +94,8 @@ period" is meaningless here. *(Verified.)*
 
 - ⚠️ Within a cycle that starts at exponent 1, a reduced exponent of `0` selects the **last cycle
   position**. If there is a pre-period, map the exponent relative to the cycle's actual start instead.
-- ⚠️ A **stabilising** sequence (Method 4) has no cycle at all - the answer is simply the stable value
-  once the exponent is large enough.
+- ⚠️ A **stabilising** sequence has an eventual constant cycle (period 1). Do not apply a period
+  assumed from exponent 1: first check that the exponent lies beyond its pre-period.
 - ⚠️ "Divisible by **either**" (`|A| + |B| - |A∩B|`) and "divisible by **exactly one**"
   (`|A| + |B| - 2|A∩B|`) are different counts; read which is asked.
 - ⚠️ Inclusion-exclusion needs the **intersection** term (divisible by `lcm`), not the product of the
@@ -167,6 +169,10 @@ period" is meaningless here. *(Verified.)*
   data-sufficiency items.
 - ✅ [Logical Reasoning, Coding, Counting and DI](./06_Logical-Reasoning-Coding-Counting-and-DI.md) - counting/inclusion-exclusion overlap.
 
+> **Ownership note:** appended historical ledgers may list cryptarithmetic or broad sequence demands
+> beside number questions. Their mechanism is owned by Topic 06/08; this companion supplies only
+> number-property prerequisites and must not be used to relabel those topics as Number Systems.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
@@ -185,8 +191,8 @@ period" is meaningless here. *(Verified.)*
 | 2019 | CSAT | 9 | Digit frequency count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2019 | CSAT | 15 | Divisibility set overlap | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2019 | CSAT | 33 | Reversed-digit ratio pairs | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
-| 2019 | CSAT | 48 | Number series pattern | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
-| 2019 | CSAT | 51 | Number series pattern | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2019 | CSAT | 48 | Number series pattern | Objective question; official key unavailable locally | Cross-owner reference; key unavailable locally | **Route to Topic 08** for sequence method; retain Topic 02 only for numeric properties. |
+| 2019 | CSAT | 51 | Number series pattern | Objective question; official key unavailable locally | Cross-owner reference; key unavailable locally | **Route to Topic 08** for sequence method; retain Topic 02 only for numeric properties. |
 | 2019 | CSAT | 53 | Page-digit range count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2019 | CSAT | 60 | Multi-digit divisibility count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2019 | CSAT | 75 | Digit sum divisibility count | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
@@ -212,8 +218,8 @@ period" is meaningless here. *(Verified.)*
 | 2021 | CSAT | 26 | Sequence incorrect term | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2021 | CSAT | 36 | Digit-permutation sum divisibility | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2021 | CSAT | 50 | Number sequence missing term | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
-| 2021 | CSAT | 59 | Cryptarithmetic digit addition | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
-| 2021 | CSAT | 60 | Cryptarithmetic digit multiplication | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2021 | CSAT | 59 | Cryptarithmetic digit addition | Objective question; official key unavailable locally | Cross-owner reference; key unavailable locally | **Route to Topic 06** for the puzzle mechanism; Topic 02 supplies digit constraints only. |
+| 2021 | CSAT | 60 | Cryptarithmetic digit multiplication | Objective question; official key unavailable locally | Cross-owner reference; key unavailable locally | **Route to Topic 06** for the puzzle mechanism; Topic 02 supplies digit constraints only. |
 | 2021 | CSAT | 67 | Consecutive-integer property | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2021 | CSAT | 76 | Digit-interchange difference | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2021 | CSAT | 79 | Repunit smallest multiplier | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
@@ -244,7 +250,7 @@ period" is meaningless here. *(Verified.)*
 | 2023 | CSAT | 46 | Repeated-digit sum constraint | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2023 | CSAT | 47 | Permuted-digit number sum | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2023 | CSAT | 74 | Large power remainder | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
-| 2023 | CSAT | 76 | Cryptarithmetic digit solve | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2023 | CSAT | 76 | Cryptarithmetic digit solve | Objective question; official key unavailable locally | Cross-owner reference; key unavailable locally | **Route to Topic 06** for the puzzle mechanism; Topic 02 supplies digit constraints only. |
 
 ### What this owner must now support
 
@@ -253,7 +259,7 @@ period" is meaningless here. *(Verified.)*
 - Digit frequency count
 - Divisibility set overlap
 - Reversed-digit ratio pairs
-- Number series pattern
+- Number series pattern — routed to Topic 08 (cross-owner reference)
 - Page-digit range count
 - Multi-digit divisibility count
 - Digit sum divisibility count
@@ -276,15 +282,15 @@ period" is meaningless here. *(Verified.)*
 - Divisibility condition digit
 - Cyclic remainder pattern
 - Divisibility digit value
-- Sequence incorrect term
+- Sequence incorrect term — routed to Topic 08 (cross-owner reference)
 - Digit-permutation sum divisibility
-- Number sequence missing term
-- Cryptarithmetic digit addition
-- Cryptarithmetic digit multiplication
+- Number sequence missing term — routed to Topic 08 (cross-owner reference)
+- Cryptarithmetic digit addition — routed to Topic 06 (cross-owner reference)
+- Cryptarithmetic digit multiplication — routed to Topic 06 (cross-owner reference)
 - Consecutive-integer property
 - Digit-interchange difference
 - Repunit smallest multiplier
-- Number sequence term
+- Number sequence term — routed to Topic 08 (cross-owner reference)
 - Divisibility digit arrangement
 - Number magnitude comparison
 - LCM parity minimum
@@ -310,7 +316,7 @@ period" is meaningless here. *(Verified.)*
 - Repeated-digit sum constraint
 - Permuted-digit number sum
 - Large power remainder
-- Cryptarithmetic digit solve
+- Cryptarithmetic digit solve — routed to Topic 06 (cross-owner reference)
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

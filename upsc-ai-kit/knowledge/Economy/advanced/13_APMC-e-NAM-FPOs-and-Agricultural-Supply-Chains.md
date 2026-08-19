@@ -129,7 +129,7 @@ transport costs, tied credit or local buyer concentration remain high.
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 The Survey highlights the Digital Agriculture Mission and e-NAM for transparency and competition. | Treat digital market integration as a complement to assaying, logistics, finance and state-law interoperability. |
-| 📰 It reports 49,796 storage projects sanctioned as of 31 Dec 2025. | Storage capacity strengthens bargaining only when farmers can access it and obtain working capital. |
+| 📰 The Survey highlights the Agriculture Infrastructure Fund as supporting a large pipeline of post-harvest and storage-related projects; verify any exact count against the latest official AIF dashboard. | Storage capacity strengthens bargaining only when farmers can access it and obtain working capital. |
 | 📰 The 2025 GS-III PYQ asked the scope and significance of agricultural supply-chain management. | Use the PYQ to map value, risk and bottlenecks from farm gate to consumer. |
 
 ## 10. PYQ-based analytical application

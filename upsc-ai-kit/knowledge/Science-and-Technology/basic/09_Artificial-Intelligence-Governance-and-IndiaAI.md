@@ -151,6 +151,39 @@ trusted and socially useful AI deployment
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — digital public infrastructure context.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — another frontier-tech mission with state support.
 - ✅ `12_Data-Protection-DPDP-Act-and-Cybersecurity.md` — data-governance and cyber-risk dimension.
+## Core answer architecture — AI capability, governance and IndiaAI
+
+**Thesis choice.** AI governance begins with the problem and deployment context: a model demonstration, a high benchmark score and an operational public-service decision are different claims.
+
+**10-mark spine.** Define the taxonomy (AI → ML → deep learning where relevant), trace data-to-output, name the Indian programme/institution, give an application and one concrete risk/control.
+
+**15/20-mark spine.** Use **problem selection → data/model/compute lifecycle → public or economic value → governance across bias, safety, privacy, security, contestability and skills → readiness verdict**. Compare rule-based automation, predictive ML and generative AI when the directive requires it.
+
+**Evidence units.**
+- **Claim:** AI output is probabilistic pattern-based inference, not verified truth or causation → **training/validation/inference lifecycle and the AI–ML–deep-learning hierarchy** → explains why human review and outcome monitoring matter → **qualification:** accuracy can conceal bias, distribution shift, opacity or exclusion.
+- **Claim:** public AI capability needs shared infrastructure and governance → **IndiaAI/IndiaAI Mission architecture and research/compute/data-skilling orientation** → public capacity can widen innovation and local problem-solving → **qualification:** an announced compute/data programme or model prototype is not proof of safe deployment at scale.
+- **Claim:** high-impact use needs contestability → **AI used in welfare, health, policing or credit can shape access and rights** → impact assessment, representative testing, human oversight, logging and appeal make accountability operational → **qualification:** a generic “ethical AI” slogan cannot substitute for sectoral law, procurement standards and enforcement.
+
+**Verdict.** India should pursue capability and broad access while matching safeguards to risk, especially where an automated output can affect rights or essential services.
+
+## Routed PYQ evidence — AI, GIS/RS and summit-status discipline
+
+### 2025 GS-I planning demand: AI + drones + GIS/RS
+
+`remote-sensing/drone observations → georeferencing and GIS layers → cleaning/training/validation → classification or prediction → planner review → field verification and appeal`
+
+- **Claim:** AI can extract patterns from high-volume spatial data → **remote-sensing imagery and drone observations feed GIS layers** → it can help map land use, crop stress, flood exposure, infrastructure or service gaps → **qualification:** satellite/drone resolution, cloud cover, ground truth, historical bias and model transferability constrain accuracy.
+- **Claim:** GIS turns locations into decision context → **layering hazards, population, land use, networks and administrative boundaries** → planners can compare alternatives spatially rather than use a black-box score → **qualification:** an algorithm cannot choose land acquisition, displacement or welfare priorities without accountable public decision-making.
+- **Claim:** drones can supplement but not replace other data → **high-resolution local capture and rapid revisits** → useful for verification and small-area change detection → **qualification:** airspace permissions, privacy, safety, operator capacity and unequal data access matter.
+
+**Verdict:** use AI as decision support with transparent validation, human review, ground truth and safeguards; do not equate a classified image with a fair or lawful plan.
+
+### Current/Prelims guardrails
+
+- **LLM:** predicts likely token sequences from learned patterns; it can assist generation/optimisation but can produce confident errors and biased output. It is not a database of verified facts or causal engine.
+- **India AI Impact Summit 2026:** record only the verified fact that it was held in New Delhi on 19–20 February 2026. Do not invent a binding declaration, treaty, framework clause or implementation outcome unless an official text is available.
+- **AI Action Summit 2025:** identify it by place/date only from the audited route; do not conflate it with India’s 2026 summit or treat attendance as domestic AI regulation.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

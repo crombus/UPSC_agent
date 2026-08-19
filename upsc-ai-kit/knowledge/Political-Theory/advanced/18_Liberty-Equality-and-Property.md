@@ -59,7 +59,7 @@ property without social control becomes power
 1. ✅ Liberty begins as a universal ideal claimed by all schools, but Gauba immediately warns that conflict lies in the means and institutional form of realizing it (Gauba, PDF p.367).
 2. ✅ He rejects both absolute liberty and unconditional authority: liberty must be regulated so that one person's freedom does not become another's servitude, while state authority itself must remain limited and morally grounded in legitimacy (Gauba, PDF pp.369-372).
 3. ✅ Once economic liberty enters the picture, laissez-faire non-interference appears inadequate because employers, landlords and traders can constrain the weak even without overt state coercion (Gauba, PDF pp.373-375).
-4. ✅ The shift from negative to positive liberty is then reconstructed through the Atlantic Charter and welfare-liberal thought: freedom includes both non-interference and removal of socially alterable obstacles such as want, insecurity and lack of education (Gauba, PDF pp.375-381).
+4. ✅ The shift from negative to positive liberty is then reconstructed through the mid-twentieth-century "four freedoms" vocabulary and welfare-liberal thought: freedom includes both non-interference (speech, worship) and removal of socially alterable obstacles such as want, insecurity and lack of education (Gauba, PDF pp.375-381). ❌ **Keep the two 1941 documents separate.** The **four freedoms** (speech, worship, freedom from want, freedom from fear) were announced by F.D. Roosevelt in his **State of the Union address of 6 January 1941**. The **Atlantic Charter** is a *separate* joint Roosevelt-Churchill declaration of **August 1941** setting out war aims and post-war principles (self-determination, no territorial aggrandisement, freer trade, disarmament); it refers to freedom from fear and want in its own terms but is not the text that enumerates the four freedoms. Never merge them into one event or attribute the four freedoms to the Charter — see `Political-Theory/basic/18_Liberty-Equality-and-Property.md` §7.
 5. ✅ Berlin analytically distinguishes negative liberty from positive self-mastery; Hayek,
   Friedman and Nozick make the separate libertarian case for non-coercion and limited
   redistribution. Gauba criticizes the group for underweighting socially produced material
@@ -181,13 +181,14 @@ property without social control becomes power
 - ❌ Locke straightforwardly proves capitalism is just. -> ✅ Gauba presents Locke's labour argument, then shows how money and consent let inequality outrun the original intuition (Gauba, PDF pp.417-419).
 - ❌ Social democracy and Marxism say the same thing about property. -> ✅ One regulates and socializes selectively; the other targets bourgeois/private ownership of the means of production as such (Gauba, PDF pp.420-430).
 - ❌ Marxism abolishes personal belongings. -> ✅ Gauba says its distinction is precisely between personal property and private property in the exploitative sense (Gauba, PDF pp.429-430).
-- ✅ Historical illustrations like Atlantic Charter or reverse-discrimination debates are book-period teaching devices here, not silently updated current legal claims (Gauba, PDF pp.375-376, 398-399).
+- ✅ Historical illustrations like the 1941 four-freedoms/Atlantic Charter material or reverse-discrimination debates are book-period teaching devices here, not silently updated current legal claims (Gauba, PDF pp.375-376, 398-399).
+- ❌ Conflating the Four Freedoms address with the Atlantic Charter. -> ✅ Two distinct 1941 documents: Roosevelt's **Four Freedoms** State of the Union address, **6 January 1941**, enumerates freedom of speech, freedom of worship, freedom from want and freedom from fear; the **Atlantic Charter**, **August 1941**, is a joint Roosevelt-Churchill declaration of war aims and post-war principles. Cite whichever the answer actually needs, with its own correct date, and never present one as the source of the other.
 
 ## 13. Sources, metadata and tags
 
 - ✅ Main direct-book anchors used here: liberty at PDF pp.367-390; equality at PDF pp.391-412; property at PDF pp.413-431.
 - ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.7-35.
-- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Companion file: `Political-Theory/basic/18_Liberty-Equality-and-Property.md`.
 - ✅ Justice linkage: `Political-Theory/basic/19_Justice-Concepts-and-Dimensions.md`.
 - ✅ Module anchors: `Political-Theory/README.md` and `Political-Theory/00_Master-Framework.md`.

@@ -1,7 +1,7 @@
 # State Legislature — BASIC / FOUNDATION
 
 > **Subject:** Polity · **Tier:** Basic · **GS Paper:** GS-II · **Grounded in:** Laxmikant Ch. 33.
-> ✅ book · ⚠️ inference · 📰 current. *Depth version: `advanced/20_State-Legislature.md`.*
+> ✅ book · ⚠️ inference · 📰 current. *Advanced: optional deeper detail in `advanced/20_State-Legislature.md` — not required for any mark.*
 
 ---
 
@@ -37,7 +37,116 @@ existence depends on the Assembly.
 📰 ⚠️ Proposals to **create or abolish Legislative Councils** keep resurfacing in various states — a live
 **Article 169** debate.
 
-➡️ Full Council-vs-Assembly contrast, traps & Mains angles: **`advanced/20_State-Legislature.md`**
+➡️ The Council-vs-Assembly contrast, the traps and the Mains angles are all held **in this file**.
+*Advanced: optional deeper detail in `advanced/20_State-Legislature.md` — not required for any mark.*
+
+## 6. Answer architecture (10/15/20-mark support)
+
+> Purpose: make this Core file independently able to answer directive-sensitive GS-II questions on the Legislative Council (Art 169 and its working), the Council's structural weakness, the presiding officers and their impartiality, and the Governor's role in assent — plus the routed Prelims distinctions — **without opening Advanced**.
+
+### 6.0 Direct Mains demands owned by this Core file
+
+- **2021 · GS-II · Q14** — Demand (neutral rendering): *the constitutional provisions for a State Legislative Council and how it actually works.* Directive: **Explain and review** · **15 marks · 250 words**.
+  - **Core routing supersedes the older `advanced/20_State-Legislature.md` pointer for this demand.**
+  - **Executable route:** (1) **Thesis** — the Council is a constitutionally *optional* and structurally *weak* second chamber whose worth is advisory, not federal. (2) **Creation/abolition** — **Art 169**: the Assembly passes a **special-majority** resolution, then **Parliament** enacts it by **simple majority**; this is **not** a constitutional amendment (Art 368). (3) **Composition** — **Art 171**: strength **max 1/3 of the Assembly, minimum 40**; the **1/3 local bodies + 1/12 graduates + 1/12 teachers + 1/3 MLAs + 1/6 Governor-nominated** formula (5/6 indirectly elected + 1/6 nominated), via **STV**. (4) **Which States** — six bicameral: **AP, Telangana, UP, Bihar, Maharashtra, Karnataka** (J&K's Council was abolished in 2019). (5) **Working/weakness** — ordinary Bills delayed **max ~4 months (Art 197)**; Money Bills only 14-day recommendation (**Arts 198–199**); no confidence role, no vote on grants — a "dilatory/advisory chamber," weaker than the Rajya Sabha which at least carries a federal role. (6) **Review** — "costly ornamental luxury" versus a check on hasty legislation and a berth for experts; reform of the graduate/teacher constituencies. (7) **Verdict** — retain-but-reform, or abolish where it is purely ornamental.
+- **2023 · GS-II · Q5** — Demand (neutral rendering): *the role of the presiding officers of State legislatures in conducting business impartially.* Directive: **Discuss the role** · **10 marks · 150 words**.
+  - **Core routing supersedes the older `advanced/20_State-Legislature.md` pointer for this demand.**
+  - **Executable route:** (1) **Thesis** — the Speaker/Chairman is the guarantor of orderly, impartial business, but Indian design leaves impartiality to convention rather than structure. (2) **Offices** — Speaker and Deputy Speaker of the Assembly (**Arts 178–181**); Chairman and Deputy Chairman of the Council (**Art 182**). (3) **Powers** — maintain order, the **casting vote (Art 189)**, certification of a **Money Bill (Art 199)**, and adjudication of **anti-defection** cases (Tenth Schedule). (4) **Impartiality risk** — the presiding officer retains party membership and has been criticised for **delaying** defection petitions to shield a government. (5) **Evidence** — ***Keisham Meghachandra Singh (2020)*** held defection petitions must be decided within a **reasonable period, ordinarily three months**, and urged an **independent tribunal**. (6) **Reform** — resign party membership on election, or move defection adjudication out of the chair. (7) **Verdict** — the office is indispensable; its impartiality needs institutional insulation, not just personal restraint.
+
+### 6.1 Demand and directive map
+
+| Demand family | Typical directive signals | Answer spine to use |
+|---|---|---|
+| Legislative Council | "provisions and working", "abolish/retain", Explain and review | Art 169 creation → Art 171 composition → 6 States → Art 197/198 weakness → review verdict |
+| Presiding officers | "impartial conduct", "role", Discuss | Offices (178–182) → powers (189/199/Tenth Sch) → partisanship risk → *Keisham* → reform verdict |
+| Council vs Rajya Sabha | "revising chamber", comparison | Council = dilatory (4 months) → RS = revising/federal → why the Council is weaker |
+| Assent and the Governor | Art 200/201, "pocket veto", Examine | Governor's four options → reservation for President → delay problem → current status caution |
+| Assembly primacy | money bill, confidence, Analyse | Money Bill only in Assembly (207) → CoM responsible only to Assembly → Council subordinate |
+
+### 6.2 Qualified thesis options
+
+- *The Legislative Council is India's only fully optional legislative chamber: the Constitution neither mandates nor forbids it, which is why its existence is a political choice under Art 169 rather than a federal necessity.*
+- *A State's second chamber is a revising convenience, not a revising power — it can delay and advise but cannot defeat the Assembly on any Bill, grant or confidence question.*
+- *The impartiality of a State presiding officer rests on convention, not design; with party membership intact and no deadline on defection rulings, neutrality is aspirational until the office is insulated.*
+- *The Governor's assent power under Art 200 is a narrow constitutional discretion, not a veto; its abuse is delay, and the constitutional answer to delay is "reasonable time," not indefinite inaction.*
+- *Whether a Council is a "costly ornamental luxury" or a useful check depends entirely on how it is composed and used — the graduate/teacher constituencies are the reform pressure-point.*
+
+### 6.3 Mark-scaled structures
+
+| Marks | Architecture | Evidence load |
+|---:|---|---|
+| 10 | Thesis → offices/provisions → one limitation → verdict | 3 units, at least one Article + one case |
+| 15 | Thesis → creation/composition → working/weakness → comparison with RS → reviewed verdict | 5–6 units |
+| 20 | Thesis → Arts 168–212 map → Council's weakness → presiding officers → assent/Governor → reform → graded verdict | 6–8 units + a "retain, reform or abolish" paragraph |
+
+### 6.4 Bank A — Articles 168–212: the working map
+
+| Claim | Named provision / anchor | Mechanism / significance | Limitation / status caution |
+|---|---|---|---|
+| The State legislature has no uniform shape | ✅ **Art 168** — Governor + one or two Houses; most States are **unicameral** | Only **six** are bicameral: **AP, Telangana, UP, Bihar, Maharashtra, Karnataka** | J&K's Council was **abolished (2019)**; Tamil Nadu's 2010 Council Act was never enforced |
+| A Council can be created or abolished without amending the Constitution | ✅ **Art 169** — the **Assembly** passes a resolution by **special majority**, then **Parliament** legislates by **simple majority** | The Council's very existence depends on the Assembly's will | Such a law is **not** a constitutional amendment under **Art 368** — do not call it one |
+| The Assembly is the directly elected core | ✅ **Art 170** — **60–500** members, direct election, territorial constituencies | Special minima for small States (Sikkim 32, Goa 40, Mizoram 40) | The special-Article figures are minima, not necessarily the present strength |
+| The Council is indirectly elected and partly nominated | ✅ **Art 171** — **max 1/3 of the Assembly, min 40**; **1/3 local bodies + 1/12 graduates + 1/12 teachers + 1/3 MLAs + 1/6 Governor-nominated**, via **STV** | 5/6 indirectly elected + 1/6 nominated — a heterogeneous, non-federal composition | Members are **not** directly elected; do not describe it as a popular chamber |
+| Duration mirrors the Union pattern | ✅ **Art 172** — Assembly **5 years**, dissolvable; Council **permanent**, 1/3 retire every 2 years | The Council, like the Rajya Sabha, is never dissolved | — |
+
+### 6.5 Bank B — Why the Council is a weak chamber
+
+- **Claim — the Council can only delay an ordinary Bill, not block it.** ✅ *Provision:* **Art 197** — the Council may hold a Bill for at most **~4 months** (3 months on first receipt + 1 month on the Assembly's second passage), after which the **Assembly's will prevails**. *Mechanism:* there is **no joint sitting** at the State level (unlike Art 108 for the Union). *Limitation:* it is therefore a **"dilatory/advisory chamber,"** not a revising body.
+- **Claim — on money it is near-powerless.** ✅ *Provision:* a **Money Bill** originates only in the **Assembly** on the Governor's recommendation (**Art 207**); the Council may retain it **14 days** and only **recommend** (**Arts 198–199**); the **Speaker certifies** a Money Bill. *Significance:* the power of the purse is an Assembly monopoly.
+- **Claim — it cannot touch the government's survival or grants.** ✅ *Provision:* the Council **cannot vote demands for grants** and **cannot pass a no-confidence motion** — the Council of Ministers is responsible **only to the Assembly**. *Limitation:* it also has **no** effective role in ratifying constitutional amendments or in electing the President.
+- **Claim — it is structurally weaker than the Rajya Sabha.** ⚠️ *Comparison:* the Rajya Sabha represents the federal element and holds exclusive powers (Arts 249/312); the Council has **no federal role** and a heterogeneous composition. *Significance:* this is why the Council attracts the "costly ornamental luxury"/"white elephant" critique. *Counter:* it can still check hasty legislation and give experts and local-body voices a berth.
+
+### 6.6 Bank C — Presiding officers, assent and the procedure machinery
+
+| Claim | Named provision / case | Mechanism / significance | Limitation / status caution |
+|---|---|---|---|
+| The Assembly's presiding officers are constitutionally entrenched | ✅ **Arts 178–181** — Speaker and Deputy Speaker; the Council has a **Chairman and Deputy Chairman (Art 182)** | Elected by the House; the Speaker vacates only by ceasing to be a member, resignation, or **removal by a majority of all then members after 14 days' notice (Art 179)** | ✅ The Speaker does **not** vacate on dissolution — continues until immediately before the first meeting of the new Assembly; does not preside over his own removal (**Art 181**) |
+| Quorum at the State level is a distinct figure | ✅ **Art 189(3)** — **10 members or one-tenth** of the House, **whichever is greater** | Below quorum the presiding officer adjourns | Do not import the Union's flat 1/10 rule — the State floor is "10 **or** 1/10, whichever is greater" |
+| The presiding officer holds decisive, contested powers | ✅ **Art 199** money-bill certification; ✅ **Art 189** casting vote; ✅ Tenth Schedule anti-defection | Concentrates interpretive and disqualification authority in one office → the impartiality debate | ✅ ***Keisham Meghachandra (2020)*** — defection petitions must be decided within a **reasonable period (ordinarily three months)**; the Court urged an **independent tribunal** |
+| The Governor is a gate on State legislation | ✅ **Art 200** — the Governor may **assent, withhold, return** (a non-Money Bill) for reconsideration, or **reserve for the President**; ✅ **Art 201** — the President may assent, withhold, or direct return | A channel of central oversight over State law; a repassed Bill (after return) must ordinarily be assented to | 📰 **Status (Nov 2025 SC advisory opinion under Art 143):** courts **cannot fix rigid timelines** and there is **no "deemed assent"**, but **prolonged, unexplained inaction is judicially reviewable** and must be cured within a "reasonable time" — treat the April-2025 two-judge "deemed assent" ruling as **superseded on that point**; verify before dating |
+| The legislature governs its own procedure, largely beyond the courts | ✅ **Arts 208–212** — rules of procedure (208), regulation of financial business (209), language (210), bar on discussing judges' conduct (211), and **courts not to inquire into proceedings for procedural irregularity (Art 212)** | Protects legislative autonomy and orderly business | **Art 212** bars review of *procedural irregularity*, **not** of substantive unconstitutionality |
+
+### 6.7 Mechanism, institutional incentives and consequences
+
+- **Why Art 169 makes the Council fragile:** because creation and abolition turn on an Assembly resolution plus an ordinary Act of Parliament, a Council can be swept away by a hostile majority — the reason Councils have oscillated (created, abolished, revived) across AP, Tamil Nadu and others.
+- **Why the presiding officer's impartiality is structurally strained:** the same officer both belongs to a party and decides anti-defection petitions that can save or topple that party's government, so **delay** becomes a partisan instrument — the incentive *Keisham Meghachandra* tried to blunt with a three-month norm.
+- **Why the Council rarely improves law-making:** with only a four-month delay and no power over money or confidence, a determined Assembly can override it, so governments treat the Council as advisory — its scrutiny bites only when the ruling party lacks a Council majority.
+- **Consequence of assent delay:** an un-acted Bill is neither law nor rejected, which lets the Governor's inaction substitute for a veto the Constitution never granted — the harm the 2025 litigation addressed.
+
+### 6.8 Criticism, counter-argument, variation and implementation constraints
+
+- **Abolitionist critique:** ⚠️ the Council is a "costly ornamental luxury" that delays without deciding and rewards party patronage through the nominated and graduate/teacher seats.
+- **Counter (retain and reform):** ⚠️ it checks hasty single-chamber legislation, gives defeated experts and local-body and teaching constituencies a legislative voice, and provides a revising second look — value that reform of its composition could raise.
+- **Variation:** ⚠️ the Council's usefulness is State-specific — meaningful where it holds a different majority from the Assembly, ornamental where it mirrors it.
+- **Implementation constraint:** ⚠️ presiding-officer neutrality and timely defection rulings depend on convention and judicial nudging, not on binding text; there is no statutory deadline and no independent tribunal yet.
+- **Practical working (the "scrutiny deficit"):** ⚠️ State legislatures typically **sit for very few days a year**, frequent **disruptions** compress debate, most States lack a developed **committee (DRSC) system**, and a large share of Bills is passed **without detailed scrutiny** — with heavy reliance on the **ordinance route** — so the second chamber's revising value, where it exists, is rarely realised. *(Cite this qualitatively; do not quote unverified sitting-day counts.)*
+
+### 6.9 Verdict scaffolds
+
+- **Council verdict:** "A Legislative Council is a revising convenience, not a revising power: worth retaining where it holds an independent majority and can genuinely slow hasty legislation, worth reforming or abolishing where it is a patronage chamber that only delays."
+- **Presiding-officer verdict:** "The impartiality of a State Speaker is left to personal convention in a design that gives the office partisan stakes; until party ties are cut or defection adjudication is moved to an independent tribunal, *Keisham Meghachandra*'s three-month norm is the main guarantee of neutrality."
+- **Assent verdict:** "Article 200 gives the Governor a channel of scrutiny, not a pocket veto; the settled position after the 2025 advisory opinion is that inaction is reviewable and must be cured in reasonable time, even though courts cannot impose fixed deadlines or deem a Bill assented."
+
+### 6.10 Prelims close-option distinctions (answering the routed objective demands)
+
+| Confusion pair | Correct discrimination |
+|---|---|
+| Speaker of the Assembly — office vacation (**2018 Q39**) | ✅ Under **Art 179** the Speaker vacates only by (a) ceasing to be an Assembly member, (b) resigning to the **Deputy Speaker**, or (c) removal by a **resolution of a majority of all the then members** after **14 days' notice**; he **does not** vacate on dissolution — he continues until immediately before the first meeting of the new Assembly |
+| Assembly procedure and the Governor's address (**2019 Q53**) | ✅ **Art 175** — the Governor may **address** either House and **send messages**; **Art 176** — the Governor delivers a **special address** at the first session after each general election and the first session of each year, followed by a **Motion of Thanks**; procedure is governed by **Art 208**, and **Art 212** bars courts from reviewing procedural irregularity |
+| Legislative Council — creation/abolition (context for the working demand) | ✅ **Art 169** — Assembly special-majority resolution + Parliament's simple-majority Act; **not** a constitutional amendment |
+| Council strength (context) | ✅ **Max 1/3 of the Assembly, minimum 40** (Art 171) — not "min 60"; **5/6 indirectly elected + 1/6 nominated** |
+| Council vs Assembly on money/confidence (context) | ✅ Money Bill only in the **Assembly** (Art 207); the Council only **recommends** in 14 days and **cannot** vote grants or pass no-confidence |
+
+### 6.11 Factual-risk and current-status controls
+
+- ✅ Only **six** States are bicameral (AP, Telangana, UP, Bihar, Maharashtra, Karnataka); J&K's Council was **abolished in 2019** — do not list J&K as bicameral.
+- ✅ **Art 169** creation/abolition is by an Assembly special-majority resolution plus a simple-majority Act of Parliament, and is **not** a constitutional amendment.
+- ✅ Council strength = **max 1/3 of the Assembly, min 40**; the composition formula is **1/3 + 1/12 + 1/12 + 1/3 + 1/6**.
+- ✅ State quorum is **10 members or 1/10, whichever is greater (Art 189)** — distinct from the Union's flat 1/10.
+- ✅ The Council can delay an ordinary Bill **~4 months (Art 197)** and a Money Bill **14 days (Arts 198–199)**; there is **no joint sitting** at the State level.
+- ✅ ***Keisham Meghachandra (2020)*** — decide defection petitions within a **reasonable period, ordinarily three months**; the Court *urged* (did not mandate) an independent tribunal.
+- 📰 **Governor's assent (Arts 200–201):** the current position (SC advisory opinion, Nov 2025) is **no fixed judicial timelines and no "deemed assent," but prolonged unexplained inaction is reviewable** — do not cite the April-2025 "deemed assent" outcome as good law; verify status before dating.
+- ⚠️ Do not describe the Council as a "revising chamber like the Rajya Sabha" — it has **no federal role** and only a dilatory power.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

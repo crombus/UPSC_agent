@@ -3,7 +3,7 @@
 > **Subject:** International Relations | **Tier:** Advanced | **GS Paper:** GS-II.
 > **Core area:** Regionalism versus minilateralism; ASEAN centrality;
 > institutional effectiveness; overlap and strategic autonomy.
-> **Grounded in:** M. Laxmikant, *Indian Polity*; Rajiv Sikri, *Challenges and
+> **Grounded in:** M. Laxmikanth, *Indian Polity*; Rajiv Sikri, *Challenges and
 > Strategy*; Shashi Tharoor, *Pax Indica*; MEA BIMSTEC brief; BRICS Rio
 > Declaration; `00_Master-Framework.md` Sections 2, 4 and 7.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.

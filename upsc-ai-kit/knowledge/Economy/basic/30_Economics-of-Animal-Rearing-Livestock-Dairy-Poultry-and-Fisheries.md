@@ -832,6 +832,227 @@ S  Schemes, standards and state capacity
 - ✅ `25_Climate-Economics-Green-Finance-and-Circular-Economy.md`.
 - ✅ `29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`.
 - ✅ `../advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md`.
+
+## 26. Dated anchors — census, production and global framework (verify vintage before reuse)
+
+- 📰 **Latest available Livestock Census round:** The **20th Livestock Census (2019)**,
+  conducted by DAHD, remains the latest officially **released** quinquennial enumeration at
+  the time of writing. It recorded a **total livestock population of approximately 536.76
+  million** (up about 4.8% over the 2012 count) and a **total poultry population of
+  approximately 851.81 million** (up about 16.8% over 2012), with cattle at about 193.46
+  million, buffaloes about 109.85 million, goats about 148.88 million and sheep about 74.26
+  million. ⚠️ **Vintage caution:** a Census is quinquennial by design (§17); if the next
+  round has been released after this file's last update, that later round supersedes these
+  numbers, and the count/composition should be re-verified against the current DAHD release
+  before an exam attempt cites it as "latest."
+- 📰 **21st Livestock Census — status distinct from "latest released results":** DAHD
+  officially **launched the 21st Livestock Census on 25 October 2024**, with nationwide
+  enumeration (covering 15 major species and, for the first time, gender-disaggregated and
+  pastoralist-holding data) conducted through late 2024 into 2025; as of the time of
+  writing, this enumeration round has been **launched/conducted but its consolidated,
+  published results are not yet officially released**. ⚠️ **Supersession caution:** an exam
+  answer must therefore distinguish "a newer Census round has been conducted" (21st, verify
+  its exact enumeration/completion status from the current DAHD release) from "the latest
+  released, citable results" (still the 20th Census, 2019, figures above) — do not cite any
+  21st-round population figure unless it has been confirmed as officially published, since
+  doing so would fabricate a number that has not yet been released.
+- 📰 **Dated production/economic anchor:** DAHD's **Basic Animal Husbandry Statistics 2024**
+  places India's milk production for **2023-24 at approximately 239.30 million tonnes**
+  (about 3.78% higher than 2022-23), based on the annual Integrated Sample Survey (§17),
+  confirming India's position as the world's largest milk producer by volume. ⚠️ This is an
+  **annual flow (production) statistic**, distinct from the quinquennial **stock** count
+  above — do not conflate "population census year" with "production statistics year" in an
+  answer; each has its own instrument and vintage (§17 table).
+
+## 27. FAO Blue Transformation — concept, relevance and limitations
+
+### 27.1 What it is
+
+- ✅ **Blue Transformation** is FAO's roadmap (2022-2030) for transforming global aquatic
+  food systems — both fisheries and aquaculture — to be more efficient, inclusive, resilient
+  and sustainable, aligned with the 2021 Declaration for Sustainable Fisheries and
+  Aquaculture (COFI) and FAO's Strategic Framework 2022-2031.
+- ✅ It sets three core global objectives for action by 2030:
+  1. **Sustainable aquaculture expansion and intensification** — meeting growing aquatic-food
+     demand while ensuring equitable benefit-sharing and sustainability.
+  2. **Effective fisheries management** — healthy stocks, equitable livelihoods and resilient
+     marine/inland fisheries.
+  3. **Upgraded aquatic value chains** — efficiency, transparency, traceability and food
+     safety across fishery/aquaculture value chains.
+- ✅ It frames aquatic foods as central to food security, nutrition and the SDGs (notably
+  SDG 2 hunger, SDG 14 life below water and SDG 1 poverty), not as a fisheries-only technical
+  document.
+
+### 27.2 Relevance to this file's syllabus scope
+
+```text
+FAO Blue Transformation objectives
+        |
+        v
+maps directly onto §12 capture-fisheries and aquaculture economics:
+sustainable effort/stock management (objective 2)
+        + managed aquaculture growth (objective 1)
+        + traceable, safe value chains (objective 3)
+        |
+        v
+supports the same welfare chain used throughout this file:
+biological asset -> input/management -> value chain -> household outcome
+```
+
+- ⚠️ Blue Transformation is a **global normative framework**, not an Indian scheme; India's
+  PMMSY, Fisheries Infrastructure Development Fund and PM-MKSSY (§16) are domestic
+  instruments that can be read as consistent with, but are not derived from, this FAO
+  roadmap.
+- ⚠️ As with the WTO Agreement on Agriculture in Topic 28, a global framework provides
+  vocabulary and direction, not enforceable domestic law; India's actual sectoral outcomes
+  still depend on its own institutions (DAHD, Department of Fisheries, state governments).
+
+### 27.3 Limitations of the framework
+
+- it is a **roadmap/vision document with target-setting language**, not a binding treaty
+  with sanctions;
+- "sustainable aquaculture expansion" and "effective fisheries management" can pull in
+  different directions locally if aquaculture growth encroaches on capture-fishery habitats
+  or common-pool water bodies (§12.2-12.3);
+- equitable benefit-sharing is an explicit objective but is not self-enforcing; national
+  implementation quality (extension, credit, community rights) determines whether small
+  fishers/aquaculture producers actually benefit;
+- global framing may understate India-specific constraints such as fragmented landholding
+  around water bodies, informal tenurial rights, and state-level capacity variation.
+
+## 28. Evidence bank: claim → named evidence → significance → limitation/status-caution
+
+**28.1 Claim: Animal-rearing profitability is a net, lifetime concept, not a gross-output
+concept.**
+- **Named evidence:** The net-animal-enterprise-income formula (§5) nets feed, labour,
+  breeding/veterinary, housing, finance and mortality/spoilage against all outputs including
+  asset-value change.
+- **Significance:** Supplies the standard rebuttal to "more animals/more milk automatically
+  means more income" across every PYQ in this file (2015, 2019, 2022, 2024, 2025).
+- **Limitation/status-caution:** Precise net-income data at farm level is thin; most official
+  statistics (Census, ISS, BAHS — §17) measure population and production flows, not net
+  household income, so "net income improved" claims need care.
+
+**28.2 Claim: Operation Flood's cooperative model solved aggregation and quality-testing
+problems that individual milk producers could not solve alone.**
+- **Named evidence:** Operation Flood (from 1970, NDDB, three phases) and the Anand-type
+  cooperative structure linking village societies, district unions and state federations
+  (§7.2).
+- **Significance:** Standard institutional-economics evidence for any dairy-value-chain or
+  cooperative-model question.
+- **Limitation/status-caution:** Cooperative governance risk (capture, delayed payment,
+  regional concentration) is real and documented (§7.2) — the model is not automatically
+  superior to private or producer-company alternatives (§7.3).
+
+**28.3 Claim: The Livestock Census/ISS/BAHS troika answers different questions and must not
+be merged.**
+- **Named evidence:** Livestock Census = quinquennial stock; ISS = annual production flow;
+  BAHS = consolidated annual publication (§17, §26 anchors).
+- **Significance:** Prevents a common Prelims trap of citing a stock number as if it were a
+  production number or vice versa.
+- **Limitation/status-caution:** Each instrument has its own release lag; always state the
+  specific year/round being cited rather than a generic "latest" claim.
+
+**28.4 Claim: Contract/integrator poultry models reduce input/price risk but reallocate,
+rather than eliminate, risk.**
+- **Named evidence:** Integrator supplies chicks/feed/veterinary inputs and market access
+  while the farmer bears shed, utilities and labour (§8.3).
+- **Significance:** Useful evidence for any "risk in animal-rearing enterprises" or
+  "contract farming" linked question.
+- **Limitation/status-caution:** Asymmetric contracts can allocate mortality/quality
+  deductions unfavourably to the farmer — risk transfer is not risk removal.
+
+**28.5 Claim: FAO Blue Transformation supplies the global-policy layer for India's fisheries/
+aquaculture economics, evidenced by direct correspondence with this file's own framework.**
+- **Named evidence:** The three Blue Transformation objectives (§27.1) map onto capture-
+  fisheries stock management, aquaculture growth and value-chain upgrading already taught in
+  §12.
+- **Significance:** Closes the declared 2026 Prelims routed demand (§ generated PYQ block)
+  without inventing detail, and gives an internationally framed answer opening for GS-II/III
+  "global governance of the blue economy" questions.
+- **Limitation/status-caution:** A roadmap/vision statement, not a binding treaty; India's
+  actual implementation runs through PMMSY and domestic institutions, not through FAO
+  enforcement (§27.2).
+
+**28.6 Claim: Integrated Farming Systems recycle resources across enterprises, but only
+within genuine absorptive limits.**
+- **Named evidence:** The crop-residue/manure-pond/aquaculture nutrient cycle (§13) and its
+  documented benefits for small farmers (2019, 2022 GS-III demands).
+- **Significance:** Reusable evidence unit for both PYQs and any generic "sustainable
+  agriculture" or "diversification" demand.
+- **Limitation/status-caution:** "Integration" becomes waste transfer, not recycling, once
+  nutrient loads exceed the system's absorptive capacity (§13 limitations).
+
+## 29. Core limitations and trade-offs
+
+| # | Trade-off | Why it is genuinely double-edged |
+|---|---|---|
+| 1 | **Productivity intensification versus environmental/AMR load** | Crossbreeding, concentrate feed and intensive systems raise output per animal, but the same intensification raises methane/manure/nitrogen emissions and antimicrobial-resistance risk if not matched with waste and drug-use governance (§18). |
+| 2 | **Aggregation efficiency versus governance risk** | Cooperative/integrator aggregation solves the small-producer scale problem, but concentrates power in a governance structure (cooperative board, integrator contract) that can be captured or skewed against the original producer (§7.2, §8.3). |
+| 3 | **Global sustainability framing versus local implementation capacity** | FAO Blue Transformation's objectives (§27) are sound in principle, but local water-body tenure, extension reach and state-level capacity determine whether "effective management" and "equitable benefit-sharing" are real or aspirational in a given district. |
+| 4 | **Output/census data availability versus outcome/income data absence** | Census, ISS and BAHS (§17, §26) reliably track population and production flows, but net household income, debt and welfare outcomes are far less systematically measured — the sector's "success story" narrative rests more on output than on outcome evidence. |
+| 5 | **Risk diversification versus correlated shocks** | Animal enterprises diversify away from pure crop/weather risk, but disease epidemics, feed-price shocks and export-market SPS restrictions can hit many households simultaneously, undermining the "diversification equals safety" assumption. |
+| 6 | **Welfare/ethical standards versus short-run cost competitiveness** | Better housing, transport and slaughter welfare standards raise productivity and market access over time, but impose upfront compliance costs that can price out the smallest producers in the short run (§10). |
+
+## 30. Answer architecture (10/15/20-mark support)
+
+### 30.1 Directive decoder
+
+| Directive word | What the examiner is actually asking for |
+|---|---|
+| Discuss | Balanced coverage of potential and constraint with reasoned linkage to measures. |
+| Assess / Evaluate | Explicit verdict on how far the sector/scheme has delivered — required, not optional. |
+| Examine / Analyse | Dissect the specific mechanism (e.g., IFS nutrient cycle, cooperative governance) stage by stage. |
+| Suggest measures | Name concrete, sequenced reforms tied to the diagnosed constraint, not generic slogans. |
+
+### 30.2 Evidence selection by mark value
+
+- **10 marks/150 words:** 1-2 evidence units from §28 + 1 limitation from §29 + a one-line
+  verdict.
+- **15 marks/250 words:** 2-3 evidence units (including one dated anchor from §26 or the
+  Blue Transformation unit at §28.5) + 2 limitations/trade-offs + a reasoned verdict.
+- **20 marks:** add a second dated anchor, the E-C-O-N-O-M-I-C-S framework (§23) explicitly,
+  and at least 3 trade-offs from §29 before the verdict.
+
+### 30.3 Counter-evidence integration rule
+
+Any claimed sectoral benefit (employment, nutrition, inclusion, diversification) must be
+paired with its net-income, governance or ecological caveat from §28-29 in the same
+paragraph — this is what converts a livestock "potential" answer into an "evaluate" answer.
+
+### 30.4 10/15/20 mark-scaling template
+
+```text
+10 MARKS (150 words)
+Intro: define animal rearing as productive-asset economics (1 line)
+1-2 evidence units, e.g. Operation Flood + net-income formula (4 lines)
+1 limitation (2 lines)
+Verdict (1 line)
+
+15 MARKS (250 words)
+Intro (1 line)
+2-3 evidence units incl. one dated anchor (§26) or FAO Blue Transformation (§27-28.5) (6 lines)
+2 limitations/trade-offs (3 lines)
+Measures/way-forward verdict (2 lines)
+
+20 MARKS (250-300 words)
+Intro (1 line)
+E-C-O-N-O-M-I-C-S framework applied briefly (§23) (4 lines)
+2 dated anchors (§26) + Blue Transformation linkage where relevant (4 lines)
+3 trade-offs from §29 (5 lines)
+Reasoned verdict + sequenced reform (§20) (3 lines)
+```
+
+### 30.5 Reasoned-verdict template
+
+> "[Sub-sector/scheme] shows genuine potential through [named evidence from §28], supported
+> by [dated anchor from §26]; however, [trade-off from §29] means the gain is [qualified —
+> partial/governance-dependent/ecologically contingent]. India's animal economy should
+> therefore move from [headcount/output-led expansion] toward [lifetime productivity,
+> disease/feed security, producer-owned value chains and One-Health-compatible
+> intensification], consistent with the FAO Blue Transformation objectives for the aquatic
+> sub-sectors (§27)."
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 
@@ -880,21 +1101,25 @@ S  Schemes, standards and state capacity
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2019, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Years represented:** 2019, 2022, 2023
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 4
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2019 | GS-III | 3 | Integrated Farming System role in sustaining agricultural production | Discuss · 10 marks · 150 words | Cross-routed to sustainable-input and crop-livestock integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | Prelims GS-I | 41 | Nitrogen compounds released from agricultural and livestock activities | Objective question; official key unavailable locally | Cross-routed to nitrogen-cycle and animal-production externality owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | GS-III | 14 | Integrated Farming System benefits for small and marginal farmers | Explain · 15 marks · 250 words | Cross-routed to sustainable-input and smallholder animal-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 55 | Biofilters role in recirculating aquaculture water treatment | Objective question; official key unavailable locally | Cross-routed to biofilter functioning and aquaculture-production economics; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- Integrated Farming System role in sustaining agricultural production
 - Nitrogen compounds released from agricultural and livestock activities
+- Integrated Farming System benefits for small and marginal farmers
 - Biofilters role in recirculating aquaculture water treatment
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

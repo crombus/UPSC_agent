@@ -130,7 +130,7 @@ if procurement is concentrated or contracts transfer excessive risk to producers
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 The Survey reports 49,796 storage projects sanctioned as of 31 Dec 2025. | Storage projects are one node; processing outcomes also require aggregation, cold movement, standards and buyers. |
+| 📰 The Survey highlights a large Agriculture Infrastructure Fund pipeline of post-harvest and storage-related projects; verify any exact count against the latest official AIF dashboard. | Storage projects are one node; processing outcomes also require aggregation, cold movement, standards and buyers. |
 | 📰 The Survey emphasises storage, market linkage and agricultural value-chain infrastructure. | Use the Survey emphasis to connect farm-gate infrastructure with downstream value addition. |
 | 📰 The 2025 GS-III PYQ asked the scope of food processing and its employment potential. | Employment gains arise across processing, packaging, testing, logistics and retail, not factories alone. |
 

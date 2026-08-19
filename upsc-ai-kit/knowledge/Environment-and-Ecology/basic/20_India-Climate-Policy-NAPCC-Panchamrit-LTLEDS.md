@@ -41,12 +41,12 @@ commitments.
 | ✅ **Panchamrit** | The five climate pledges announced by India at COP26 (Glasgow, 2021): 500 GW non-fossil capacity by 2030; 50% of energy requirements from renewables by 2030; reducing total projected carbon emissions by one billion tonnes by 2030; reducing carbon intensity of the economy by 45% by 2030 (from 2005 levels); achieving net-zero emissions by 2070. |
 | ✅ **LT-LEDS** | Long-Term Low-Emission Development Strategy — India's formal, UNFCCC-submitted (2022) strategy document outlining pathways toward its net-zero-by-2070 goal across key sectors. |
 | ✅ **Nationally Determined Contribution (NDC)** | India's Paris Agreement pledge, updated in 2022 to reflect the Panchamrit commitments. |
-| ✅ **National Solar Mission** | One of the eight NAPCC missions, focused on scaling solar energy deployment (now substantially superseded in scale by subsequent renewable-energy programmes, cross-refer Topic 25). |
+| ✅ **National Solar Mission** | One of NAPCC's **eight original** missions, focused on scaling solar energy deployment (now substantially superseded in scale by subsequent renewable-energy programmes, cross-refer Topic 25). |
 
 ## 3. Topic mechanism
 
 1. NAPCC (2008) was India's first comprehensive domestic climate framework, structured
-   around eight National Missions spanning both mitigation (solar, energy efficiency) and
+   around its eight original National Missions spanning both mitigation (solar, energy efficiency) and
    adaptation (water, Himalayan ecosystem, sustainable agriculture) — reflecting a
    co-benefits approach linking climate action to development priorities rather than a
    narrow emissions-only framing.
@@ -83,7 +83,7 @@ commitments.
 
 ## 5. Indian applications and examples
 
-- ⚠️ The National Mission for a Green India (one of the eight NAPCC missions) links directly
+- ⚠️ The National Mission for a Green India (one of the eight original NAPCC missions) links directly
   to forest-carbon-sink targets in India's NDC (cross-refer Topic 12).
 - ⚠️ India's rapid solar and wind capacity addition in recent years is the primary
   implementation vehicle for the Panchamrit's 500 GW non-fossil capacity by 2030 target.
@@ -93,7 +93,7 @@ commitments.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ NAPCC (2008) comprises eight National Missions: Solar, Enhanced Energy Efficiency,
+- ✅ NAPCC (2008) launched with eight National Missions: Solar, Enhanced Energy Efficiency,
   Sustainable Habitat, Water, Sustaining the Himalayan Ecosystem, Green India, Sustainable
   Agriculture, and Strategic Knowledge for Climate Change.
 - ✅ India's Panchamrit (COP26, 2021) includes five pledges: 500 GW non-fossil capacity by
@@ -120,7 +120,8 @@ commitments.
 
 ## 7. UPSC traps
 
-- ❌ NAPCC has ten National Missions. -> It has eight National Missions.
+- ❌ NAPCC has a single timeless mission count. -> It launched with eight missions; the
+  Government now describes nine, with the health mission added. State the reference period.
 - ❌ India's net-zero target year is 2050, matching many developed-country pledges. -> India's
   pledged net-zero target year is 2070.
 - ❌ The Panchamrit's "50% renewable energy" target refers to installed capacity share. -> It
@@ -175,7 +176,7 @@ single most common error on this topic.
   domestic-policy part; treaty mechanics remain in topic 19. Exact route:
   `../README.md`.
 
-- ⚠️ Recurring Prelims pattern: correctly list the eight NAPCC missions and the five
+- ⚠️ Recurring Prelims pattern: correctly list the eight original NAPCC missions (and note the current Government description of nine) and the five
   Panchamrit pledges with their precise figures and baseline years.
 - ⚠️ Mains linkage: the NAPCC-to-Panchamrit-to-LT-LEDS evolution is used to argue for a
   coherent, escalating Indian climate-ambition trajectory linked to international
@@ -196,7 +197,7 @@ single most common error on this topic.
 
 ## 11. Probable questions
 
-- ⚠️ **Prelims:** List the eight NAPCC missions and the five Panchamrit pledges with their
+- ⚠️ **Prelims:** List the eight original NAPCC missions, state the current nine-mission description, and list the five Panchamrit pledges with their
   precise figures and baseline years.
 - ⚠️ **Mains (10 marks):** Explain how India's Long-Term Low-Emission Development Strategy
   operationalises its net-zero-by-2070 commitment.
@@ -254,3 +255,34 @@ single most common error on this topic.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Direct demand — Paris commitments, COP26 and the 2022 NDC update (2025 GS-III, 15 marks)
+
+**Thesis:** India’s climate architecture moved from a first NDC with intensity, non-fossil-capacity and forest-sink commitments, through COP26’s five Panchamrit announcements, to a 2022 update that formally strengthened two quantified NDC targets; evaluate implementation by source-dated outcomes, not by conflating the three instruments.
+
+| Stage | Claim → named evidence → significance | Qualification |
+|---|---|---|
+| **First NDC (2015)** | 33–35% reduction in emissions intensity of GDP from 2005 by 2030; about 40% cumulative electric-power installed capacity from non-fossil sources by 2030 (with technology/low-cost finance); additional 2.5–3 billion tCO₂e forest/tree sink → original Paris contribution. | These are original pledge terms, not a description of later achievement. |
+| **COP26/Panchamrit (2021)** | 500 GW non-fossil capacity, 50% energy requirements from renewables, one-billion-tonne projected-emissions reduction, 45% intensity reduction and net zero by 2070 → stronger national political direction. | Panchamrit contains different target types; an announcement is not automatically a quantified NDC entry. |
+| **Updated NDC (2022)** | 45% emissions-intensity reduction from 2005 and about 50% cumulative installed electric-power capacity from non-fossil sources by 2030 → formal strengthened quantified targets. | 500 GW, one billion tonnes and net zero 2070 remain announced Panchamrit commitments rather than additional quantified NDC targets in the 2022 update. |
+| **Implementation evidence** | **51.93% non-fossil installed capacity at end-December 2025** (Economic Survey 2025-26) → evidence of early capacity-target progress. | Installed capacity is neither generation share nor the “energy requirements” share; use its as-on date. |
+
+### 13.2 Mark-scaled spines
+
+- **10 marks:** distinguish NAPCC, NDC and LT-LEDS; classify a target as intensity, capacity/share, sink or long-term pathway.
+- **15 marks (direct PYQ):** three chronological blocks above → one implementation evidence unit → technology/grid/finance/adaptation limits → balanced conclusion on credible but unfinished transition.
+- **20 marks:** add sector pathways (power, transport, industry, forestry), federal SAPCC implementation, adaptation expenditure/context and CBDR-RC/finance; avoid treating net zero as a near-term statutory cap.
+
+### 13.3 Status controls
+
+State **eight original NAPCC missions; nine as currently described by Government with health**. Distinguish announced, submitted, notified and achieved; never use the 51.93% installed-capacity figure as proof of a 50% generation or energy-requirements outcome.
+
+### 13.4 2026 BUR-4 distinction
+
+**India’s Fourth Biennial Update Report (BUR-4)** was submitted to the UNFCCC as a
+backward-looking transparency/inventory-and-mitigation report (PIB PRID 2089589). It is
+neither an **NDC** (a forward pledge) nor **LT-LEDS** (a long-term strategy). In an objective
+question, use `BUR-4 = reporting`, `NDC = nationally determined pledge`, and `LT-LEDS =
+long-horizon pathway`; quote BUR-4 emissions/sink figures only with their reference year.

@@ -84,6 +84,42 @@
 - ⚠️ Assess whether the Mauryan Empire was a highly centralised state or a layered empire with varied control.
 - ⚠️ Use Ashoka to discuss the use of moral language in statecraft.
 - ⚠️ Link Kalinga, Dhamma and inscriptions to the beginnings of public political communication in India.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The Mauryan empire was the first large-scale experiment in subcontinental imperial integration, though its control was stronger in some regions than in others." |
+| Critically examine | "Mauryan power rested on a fusion of conquest, administration and revenue extraction, while Ashoka added an unprecedented moral-public language of kingship." |
+| Compare / evaluate | "A strong Mauryan answer should balance institutional achievement with the limits of evidence from courtly and inscriptional archives." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** Magadhan base -> conquest -> administration -> Ashokan ideological turn
+- **For comparison Qs:** Chandragupta/Bindusara expansion vs Ashoka's dhamma-centred public kingship
+- **For evaluate Qs:** scale and innovation -> evidence limits -> balanced verdict on empire
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Mauryas scaled up earlier Magadhan state formation | ✅ Chandragupta's expansion from the Gangetic core | Links the empire to prior foundations | Sources privilege the victorious line |
+| 2 | Administration and extraction were central | ✅ Provinces, officers, roads, taxation and Arthashastra tradition | Explains endurance and reach | Arthashastra dating/application remains debated |
+| 3 | Ashoka changed the language of rulership | ✅ Rock and pillar edicts with dhamma messaging | First ruler-wide public inscriptional voice | Edicts show intention more clearly than enforcement |
+| 4 | Imperial integration had limits | ✅ Frontier variation and mediated local control | Prevents overcentralised caricature | Regional archives are thinner than state-centred sources |
+
+### Counterpoint and balance
+
+- Do not write Mauryan rule as either a modern bureaucracy or a loose symbolic empire only.
+- Ashoka's moral language should be analysed as statecraft as well as ethical vision.
+
+### Verdict framing
+
+- End with a graded verdict: first large empire, strong institutions, uneven reach, exceptional inscriptional legacy.
+- This avoids both imperial glorification and needless minimisation.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

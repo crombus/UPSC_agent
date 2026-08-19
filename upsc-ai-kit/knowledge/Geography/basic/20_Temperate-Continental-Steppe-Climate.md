@@ -92,3 +92,77 @@ volatile; quote the marketing year and FAO/USDA source.
 
 - Explain why temperate continental interiors are treeless grasslands and how chernozem soils made them granaries.
 - Analyse how concentration of wheat production in the Black Sea steppe makes global food security vulnerable to weather and war.
+
+## 9. Answer architecture (10/15/20-mark support)
+
+### 9.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Why are the temperate interiors treeless?" | Moisture deficit from continentality, reinforced by fire and grazing — **not** poor soil | Say the soils are poor |
+| "Why did the temperate grasslands become the world's granaries?" | Chernozem fertility, level relief permitting mechanisation, low labour needs, and rail-and-port access to distant markets | Cite soil alone |
+| "Discuss the ecological risk of ploughing grasslands" | Loss of the protective sod, exposure of fine soil to wind, and drought-year deflation | Treat mechanisation as costless |
+
+### 9.2 The four-factor granary argument
+
+| Factor | Contribution |
+|---|---|
+| ⚠️ Chernozem and prairie soils | Deep humus built by centuries of grass root turnover; naturally base-rich under low leaching (mechanism: `04_Weathering-MassMovement-Groundwater.md`) |
+| ⚠️ Level to gently rolling relief | Permits large fields and full mechanisation, so output per worker is very high |
+| ⚠️ Temperate continental climate | A warm summer growing season with a dry ripening period is close to ideal for wheat |
+| ⚠️ Transport and market access | Railways to ports converted a remote interior into a supplier for distant industrial markets — the decisive **historical** factor, without which the physical advantages were worthless |
+
+> 🔑 **Trap:** the physical endowment did not create the granaries by itself. Rail penetration,
+> ocean freight, mechanisation and external demand did — which is why these regions were pastoral
+> or unexploited before the nineteenth century despite identical soils. This is the strongest
+> available counter to environmental determinism in the whole climate sequence.
+
+### 9.3 The ecological counterpoint
+
+- ⚠️ The sod of a natural grassland is a **protective structure**: dense root mats bind fine soil and
+  the surface is never bare. Ploughing removes that protection, and in a drought year the exposed
+  fine soil is available for wind erosion at exactly the moment vegetation cover fails.
+- ⚠️ Consequences and responses: shelterbelts, stubble retention and minimum tillage, contour work,
+  strip cropping and grassed waterways; and, where irrigation is used, the salinity risk common to
+  all semi-arid irrigation.
+
+### 9.4 Reusable 15-mark spine — grassland conversion
+
+1. **Thesis:** the temperate grasslands demonstrate that a physical endowment becomes an economic
+   resource only when transport and market access convert it — and that the conversion carries a
+   predictable ecological cost.
+2. **The physical base:** continentality, the moisture regime, treelessness with fire and grazing as
+   maintaining agents, and chernozem formation.
+3. **The conversion:** rail, mechanisation, ocean freight and external demand.
+4. **The outcome:** wheat granaries and extensive ranching, with very high output per worker and low
+   output per hectare relative to intensive Asian systems.
+5. **The cost:** loss of sod protection, wind erosion in drought years, organic-matter decline,
+   aquifer drawdown where irrigation was added, and near-total loss of the original biome.
+6. **The response:** conservation tillage, shelterbelts, rotation and grassland restoration.
+7. **Conclusion:** graded — the granaries are a genuine achievement of applied geography whose
+   durability depends on managing the soil-protection deficit created by removing the grassland.
+
+### 9.5 Comparative hook
+
+Both the savanna and the steppe are grasslands, and the comparison is a recurring demand: **tropical
+versus temperate latitude; wet-and-dry versus low-total-with-summer-maximum rainfall; leached
+laterising versus base-rich chernozem soils; scattered trees versus effectively treeless; pastoral
+and subsistence versus mechanised commercial grain**. See `17_Savanna-Sudan-Climate.md`.
+
+### 9.6 Evidence units available in this file
+
+> **Claim:** treelessness in the temperate interiors is a moisture-and-disturbance outcome, not a
+> soil-fertility outcome. **Evidence:** the steppe and prairie carry chernozem and prairie soils
+> that are among the most fertile in the world, built by centuries of deep grass-root turnover under
+> low leaching. **Significance:** it defeats the intuitive inference that grassland means poor land,
+> and it explains why these belts became granaries once they could be reached.
+> **Limitation:** fire, grazing and continental moisture deficit act together, so no single one of
+> them fully explains the boundary between grassland and forest.
+
+> **Claim:** a physical endowment becomes an economic resource only when access is created.
+> **Evidence:** the temperate grasslands were pastoral or unexploited for centuries despite
+> identical soils, and became world granaries only when railways, mechanisation and ocean freight
+> connected them to distant industrial markets. **Significance:** it is the strongest available
+> counter to environmental determinism in the entire climate sequence, and it transfers directly to
+> resource and industrial location questions. **Limitation:** the physical base was still necessary
+> — the same transport investment in a desert or a taiga interior did not produce a granary.

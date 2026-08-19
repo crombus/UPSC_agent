@@ -189,6 +189,33 @@ capability approach is the evaluative standard.
   condition for social justice." Discuss with reference to the capability approach
   and India's constitutional welfare-state provisions.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+### Direct Mains demands owned by Core
+
+- **2023 GS-I:** why human development has lagged behind economic development.
+- **2019 GS-II:** how high economic growth can coexist with weak human-development
+  indicators. These Core routes supersede the older `advanced/01` pointers.
+
+### Evidence and argument bank
+
+| Claim | Named anchor | Analytical use | Qualification |
+|---|---|---|---|
+| Justice is not exhausted by equal legal treatment. | Rawls's fair equality of opportunity; Ambedkar's warning against political equality amid social and economic inequality | Supports a move from formal equality to institutions that correct inherited disadvantage. | Redistribution without dignity and voice can reproduce dependency. |
+| Outcomes depend on people's real freedoms. | Amartya Sen's capability approach; HDI's health-education-income dimensions | Explains why GDP growth is an input, not a sufficient measure of development. | HDI averages conceal gender, caste, regional and intra-household inequality. |
+| Misrecognition is a distributive barrier. | Nancy Fraser's redistribution-recognition-representation triad | Connects stigma and political voice to material exclusion. | Identity recognition cannot substitute for services, assets and employment. |
+| Poverty is multidimensional. | National MPI/UNDP MPI; Gini coefficient for distribution | Allows comparison of deprivation and inequality instead of relying on income alone. | Indices use different concepts and must retain source, method and year. |
+
+**10 marks:** define the concept, state a qualified thesis, use three dimensions and
+2-3 evidence units, then give a direct verdict. **15 marks:** add the
+growth-versus-human-development paradox, institutional causes and one counterpoint.
+**20 marks:** compare Rawls-Sen-Fraser-Ambedkar, connect recognition, distribution and
+representation, and synthesise evidence from Topics 02-05 and 17.
+
+> **Reasoned verdict:** Growth expands the resource envelope, but human development
+> improves only when public institutions convert it into universal capabilities,
+> targeted correction and equal social standing.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md`.
@@ -224,3 +251,26 @@ capability approach is the evaluative standard.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2019, 2023
+- **Paper(s):** GS-I, GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | GS-II | 6 | High growth alongside the lowest human development indicators | Examine · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-I | 16 | Human development lagging behind economic development in India | Why did it fail · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- High growth alongside the lowest human development indicators
+- Human development lagging behind economic development in India
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

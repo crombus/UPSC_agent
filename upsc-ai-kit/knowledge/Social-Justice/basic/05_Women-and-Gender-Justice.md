@@ -162,10 +162,14 @@ for tracking whether public expenditure reflects this dual commitment.
   erstwhile standalone schemes into Sambal (safety) and Samarthya (empowerment)
   sub-schemes. No specific beneficiary count is asserted here because portal dashboards
   update continuously; the durable fact is the two-sub-scheme architecture.
-- 📰 **NFHS-5 (2019-21) access baseline:** 78.6% of women aged 15–49 reported having a
+- 📰 **NFHS-5 historical access baseline:** 78.6% of women aged 15–49 reported having a
   bank/savings account that they themselves used, while 54.0% reported owning/using a
   mobile phone. These are dated access indicators, not proof of equal control over
-  assets, income or decision-making; NFHS-6 must not be assumed released.
+  assets, income or decision-making. NFHS-6 (2023-24) was released on 29 May 2026;
+  cite its indicators separately rather than mixing them with NFHS-5.
+- 📰 **NFHS-6 child-marriage anchor:** 20.1% of women aged 20-24 reported marriage
+  before age 18, down from 23.3% in NFHS-5. This is a prevalence indicator, not proof
+  that every marriage was detected or prosecuted.
 - 📰 **PMMVY 2.0 status:** State the child order, child-sex condition and conditional
   instalment structure accurately; do not merge it with the Maternity Benefit Act's
   employer obligation.
@@ -208,6 +212,31 @@ for tracking whether public expenditure reflects this dual commitment.
 - ⚠️ **Mains (15 marks):** Critically examine the effectiveness of Mission Shakti in
   addressing both protection and empowerment dimensions of gender justice.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+Core owns the 2019 local-reservation/patriarchy demand; 2021 judiciary representation
+and beyond-scheme interventions; and 2023 constitutional gender justice and civil-society
+representation demands. These five routes supersede `advanced/05`.
+
+- **Constitutional bank:** Articles 14, 15(1), 15(3), 16, 21, 39(a)-(d), 42 and 51A(e).
+- **Case bank:** *Vishaka* linked equality/dignity to workplace protection; *Shayara
+  Bano* scrutinised discriminatory personal-law practice; *Joseph Shine* rejected a
+  paternalistic adultery offence. Use holdings narrowly.
+- **Representation:** Articles 243D/243T reserve local seats; the 106th Amendment
+  creates one-third Lok Sabha/Assembly reservation, operational after the Article 334A
+  census-delimitation sequence.
+- **Unpaid care:** Time Use Survey evidence makes cooking, cleaning and care burdens
+  visible; childcare, water, transport and safe work are economic infrastructure.
+- **Limit:** numerical presence does not automatically defeat proxy control, party
+  gatekeeping or caste/class differences.
+
+**10 marks:** constitutional thesis plus 2-3 examples. **15 marks:** protection,
+participation, economic agency, care and norms with 4-6 examples. **20 marks:** law,
+representation, labour, violence, health, intersectionality and institutional reform.
+
+> **Reasoned verdict:** Gender justice redistributes power, time, assets, safety and
+> voice; formally equal rules alone cannot do so.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/05_Women-and-Gender-Justice.md`.
@@ -245,19 +274,29 @@ for tracking whether public expenditure reflects this dual commitment.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2019, 2020
+- **Years represented:** 2019, 2020, 2021, 2023
 - **Paper(s):** GS-II, Prelims GS-I
-- **Routed question demands:** 2
+- **Routed question demands:** 7
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2019 | GS-II | 13 | Reservation of seats for women in local self-government and patriarchy | Comment · 15 marks · 250 words | Social Justice Core route; cross-cutting local-government link retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | Prelims GS-I | 76 | Maternity Benefit Amendment Act 2017 key provisions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | GS-II | 15 | Constitutionalization of the National Commission for Women | Which steps and give reasons · 15 marks · 250 words | Cross-cutting; commission design, gender justice and consolidated body-design Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 2 | Greater representation of women in the higher judiciary | Discuss the desirability · 10 marks · 150 words | Social Justice Core route; judicial appointments link retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 17 | Patriarchal social attitudes and interventions beyond education and schemes | What interventions can help · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 12 | Constitutional perspectives of gender justice with provisions and case law | Explain · 15 marks · 250 words | Social Justice Core route; constitutional-doctrine link retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-II | 14 | Civil society groups and women's representation in state legislatures | Discuss the contribution · 15 marks · 250 words | Social Justice Core route; civil-society link retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
+- Reservation of seats for women in local self-government and patriarchy
 - Maternity Benefit Amendment Act 2017 key provisions
 - Constitutionalization of the National Commission for Women
+- Greater representation of women in the higher judiciary
+- Patriarchal social attitudes and interventions beyond education and schemes
+- Constitutional perspectives of gender justice with provisions and case law
+- Civil society groups and women's representation in state legislatures
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

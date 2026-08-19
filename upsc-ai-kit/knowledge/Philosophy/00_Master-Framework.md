@@ -5,7 +5,7 @@
 
 ---
 
-## 1. THE TWO GOVERNING PRINCIPLES
+## 1. THE GOVERNING PRINCIPLES
 
 **P1 — Clause supremacy.** Every heading in every content file must be traceable to a named syllabus term. Where a clause names sub-terms (e.g. Yoga: *Citta; Cittavṛtti; Kleśas; Samādhi; Kaivalya*), **each sub-term gets its own explicitly labelled treatment.** No clause term may be silently folded into another.
 
@@ -16,6 +16,21 @@ serious attempt at every syllabus term and every available PYQ. Nothing required
 10-, 15- or 20-mark answer may be displaced into `_advanced`. Advanced material is optional
 enrichment only; if its omission could affect paper attemptability, it is misclassified and
 must be promoted to Core.
+
+**P4 — Base independence.** The forty owners are also independent of every *other* subject base
+in this repository. As of the **15 August 2026 re-audit**, the marks-essential socio-political
+argument units formerly reachable only through the sibling
+[`Political-Theory`](../Political-Theory) base have been promoted and adapted into the ten
+Paper II Socio-Political owners in philosophical form — Rawls/Nozick/Berlin/capability/
+non-domination into Ideals; Hohfeldian rights, political obligation and civil disobedience into
+Individual and State; deliberative democracy into Forms of Government; recognition and
+redistribution into Humanism–Secularism–Multiculturalism; expressive, communicative and
+restorative punishment into Crime and Punishment; degrowth and post-development into
+Development; care ethics and intersectionality into Gender Discrimination. **Philosophy no
+longer depends on `Political-Theory` for any marks-essential content.** That base is not edited
+from here, is never cited as authority for an optional answer, and where both discuss the same
+thinker the Philosophy owner's argument reconstruction controls. The promotion changed *where*
+material lives; it did not change the owner count, which remains **exactly forty**.
 
 ---
 

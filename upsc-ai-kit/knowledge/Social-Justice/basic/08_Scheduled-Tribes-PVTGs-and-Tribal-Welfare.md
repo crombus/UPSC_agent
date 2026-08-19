@@ -193,6 +193,25 @@ integration or cultural autonomy).
 - ⚠️ **Mains (15 marks):** Examine the role of PM-JANMAN in addressing the specific
   vulnerabilities of Particularly Vulnerable Tribal Groups (PVTGs).
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+- **Rights chain:** Fifth/Sixth Schedules -> PESA -> FRA individual/community rights ->
+  livelihood and service convergence.
+- **Cases:** *Samatha* anchors transfer/mining in Scheduled Areas; *Orissa Mining
+  Corporation/Niyamgiri* demonstrates Gram Sabha determination of community/religious
+  forest rights.
+- **Displacement:** LARR provides impact, compensation and rehabilitation architecture,
+  but cash cannot replace commons, cultural landscapes or autonomy.
+- **Diagnosis:** Xaxa Committee on alienation, displacement and weak self-government;
+  PM-JANMAN as PVTG convergence tested against habitat-sensitive outcomes.
+
+**10 marks:** right and three gaps. **15 marks:** land, forest, self-government, services
+and displacement. **20 marks:** conservation, mining, infrastructure and autonomy,
+distinguishing ST/PVTG conditions.
+
+> **Reasoned verdict:** Services are just when they strengthen rather than extinguish
+> community rights, habitat and self-government.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md`.

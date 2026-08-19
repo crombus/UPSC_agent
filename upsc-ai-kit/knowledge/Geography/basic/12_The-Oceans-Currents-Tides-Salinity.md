@@ -125,6 +125,211 @@ There is evidence of twentieth-century weakening, but the timing and magnitude o
 
 Geography → Physical → Oceanography (GC Leong: Currents/Tides; Majid: Ocean Currents)  
 Geography → Oceans → Thermohaline Circulation (applied CA)
+
+## 9. Ocean-atmosphere coupling: ENSO, the Walker circulation and the IOD
+
+> **Why this section exists:** ENSO, La Nina, the Walker circulation and the Indian Ocean Dipole
+> appeared **nowhere in the Core tier**, although they are the most heavily tested mechanisms in
+> modern physical geography and although Core files elsewhere refer to them as though they were
+> already taught. Making Core dependent on the Advanced tier for these mechanisms was a leakage
+> that had to be closed here, in the ocean-circulation owner.
+
+### 9.1 The normal state and the Walker circulation
+
+```text
+NORMAL (neutral) PACIFIC
+  Strong easterly TRADE WINDS push surface water westward
+        |
+        +-> WARM POOL piles up in the WESTERN Pacific (Indonesia/Australia side)
+        |      -> deep warm layer, low pressure, rising air, heavy convective rain
+        |
+        +-> Water removed from the EAST is replaced by UPWELLING off South America
+               -> cool surface, shallow THERMOCLINE, high pressure, subsidence, dry coast
+               -> nutrient-rich upwelled water sustains one of the world's great fisheries
+
+  The rising limb in the west and the sinking limb in the east, joined by surface easterlies
+  and a return flow aloft, is the WALKER CIRCULATION - an east-west cell along the equator.
+```
+
+### 9.2 El Nino, La Nina and the feedback that drives them
+
+| | **El Nino (warm phase)** | **La Nina (cold phase)** |
+|---|---|---|
+| ⚠️ Trade winds | Weaken, or even reverse in the west | Strengthen beyond normal |
+| ⚠️ Warm pool | Spreads eastward across the Pacific | Piles further west; the east cools more |
+| ⚠️ Thermocline in the east | Deepens, cutting off nutrient supply | Shoals, intensifying upwelling |
+| ⚠️ Walker circulation | Weakens; the rising limb shifts east | Intensifies |
+| ⚠️ Rainfall | Moves eastward — flooding on the South American side, drought in Indonesia and Australia | Reinforces the normal pattern — wetter west, drier east |
+| ⚠️ Fishery off South America | Collapses as upwelling fails | Strengthens |
+
+- ⚠️ **Why it is self-reinforcing (the Bjerknes idea):** weaker trades let the warm pool spread
+  east; the warmer eastern ocean weakens the east-west temperature contrast; the weaker contrast
+  weakens the trades further. The coupling is the reason a small initial anomaly can grow into a
+  basin-scale event — and equally why it eventually reverses.
+- ⚠️ **ENSO is a coupled ocean-**and**-atmosphere phenomenon.** The oceanic temperature anomaly and
+  the atmospheric pressure see-saw between the eastern and western Pacific are two faces of one
+  system, which is why the combined term "El Nino-Southern Oscillation" is used.
+- ⚠️ **Teleconnection to India:** El Nino years are, on average, associated with a weaker Indian
+  summer monsoon, and La Nina years with a stronger one. This is a **statistical tendency, not a
+  law**: strong monsoons have occurred in El Nino years and weak ones in neutral years, because the
+  Indian Ocean state, the location of the Pacific warming and intra-seasonal variability all
+  intervene.
+
+> 🔑 **Trap:** El Nino does **not** "cause drought in India". It shifts the probability
+> distribution. Writing a deterministic causal claim is the commonest error on this topic; writing
+> the probabilistic version, and naming the offsetting factors, is what distinguishes a strong
+> answer.
+
+### 9.3 The Indian Ocean Dipole
+
+- ⚠️ The **IOD** is the Indian Ocean's own coupled see-saw, measured as the sea-surface temperature
+  contrast between the **western** equatorial Indian Ocean (off East Africa) and the **eastern**
+  equatorial Indian Ocean (off Sumatra).
+- ⚠️ **Positive IOD:** the west is relatively warmer and the east relatively cooler; convection
+  shifts westward, toward the Indian Ocean side. This tends to favour Indian summer-monsoon
+  rainfall and to bring dry conditions to Indonesia and Australia.
+- ⚠️ **Negative IOD:** the reverse; convection shifts toward the eastern Indian Ocean and the
+  maritime continent.
+- ⚠️ **Interaction with ENSO:** a positive IOD can partly **offset** an El Nino's drying tendency
+  over India, and a negative IOD can compound it. This is exactly why monsoon forecasting requires
+  both indices, and why single-index reasoning fails.
+
+> 🔑 **Trap:** the IOD is an **Indian Ocean** phenomenon and is not "El Nino in the Indian Ocean".
+> The two are separate coupled modes that can reinforce or oppose each other.
+
+### 9.4 Upwelling: where cold water surfaces and why it matters
+
+```text
+WIND parallel to a coast
+   -> EKMAN TRANSPORT moves the surface layer at an angle to the wind
+   -> where that transport is OFFSHORE, surface water is removed
+   -> deeper, colder, NUTRIENT-RICH water rises to replace it
+   -> nutrients + sunlight in the surface layer -> PHYTOPLANKTON BLOOM
+   -> the base of an exceptionally productive FOOD CHAIN
+```
+
+| Setting | Character |
+|---|---|
+| ⚠️ Eastern-boundary coastal upwelling | The classic case — cool, foggy, arid coasts with very large fisheries; also the cause of coastal desert aridity (see `07_Arid-Desert-Landforms.md`) |
+| ⚠️ Equatorial upwelling | Divergence at the equator brings deeper water up |
+| ⚠️ Monsoonal upwelling | Seasonal, wind-reversal driven — which is why productivity off parts of the Indian coast is strongly seasonal rather than year-round |
+| ⚠️ Upwelling failure | During El Nino, a deepened thermocline means the upwelled water is warm and nutrient-poor, so the fishery collapses even though the wind may still blow |
+
+- ⚠️ **The other productive setting** is where a **warm and a cold current meet**: mixing and the
+  associated nutrient supply support major fishing grounds, historically over broad continental
+  shelves in the higher middle latitudes.
+
+### 9.5 Other changes in the ocean as a critical feature
+
+| Change | Mechanism | Consequence |
+|---|---|---|
+| ⚠️ Ocean warming and marine heatwaves | Accumulated heat uptake; prolonged regional temperature extremes | Coral bleaching, species range shifts, altered fishery distribution, more energy available to cyclones |
+| ⚠️ Ocean acidification | Carbon dioxide uptake lowers pH and reduces carbonate availability | Harder calcification for corals, molluscs and plankton — see `11_Islands-and-Coral-Reefs.md` |
+| ⚠️ Deoxygenation and dead zones | Warming reduces gas solubility; nutrient loading drives decay that consumes oxygen | Expanding hypoxic zones; habitat compression |
+| ⚠️ Stratification | A warmer, fresher surface layer resists mixing | Reduced nutrient supply from below, weakening productivity |
+| ⚠️ Overturning-circulation change | Freshening and warming at high latitudes reduce deep-water formation | Potential redistribution of heat, with regional climatic consequences |
+
+> ⚠️ **Factual caution:** do **not** quote an ENSO index value, a Nino-region temperature anomaly, a
+> named year's event strength, a pH figure, a fish-catch tonnage or a projected circulation
+> weakening from memory. State the mechanism and the direction; attach numbers only from a cited,
+> dated source.
+
+## 10. The wider family of ocean-atmosphere modes
+
+> **Promoted into Core (13 Aug 2026):** these are **general** climate modes, not India applications,
+> and each is a separately named and separately examinable concept. Their specific effects on the
+> Indian monsoon and the forecasting practice built on them remain in
+> `advanced/16_India-Monsoon-Mechanism.md` and `advanced/12_Indian-Ocean-and-IOD.md`.
+
+| Mode | What it is | Timescale | Why it is distinct |
+|---|---|---|---|
+| ⚠️ **ENSO** (canonical) | The coupled Pacific warm/cold phase taught above, with maximum warming toward the **eastern** equatorial Pacific | Inter-annual | The reference case |
+| ⚠️ **El Niño Modoki** | A variant in which maximum warming sits in the **central** equatorial Pacific rather than the far east, with cooler water on both sides | Inter-annual | The convective heat source is relocated to a **different longitude**, so the remote circulation response — and hence the rainfall teleconnection — differs from a canonical event. It is **not** a weak El Niño or the absence of one; it is a different spatial pattern |
+| ⚠️ **Indian Ocean Dipole** | The west-minus-east SST contrast of the equatorial Indian Ocean, taught above | Seasonal to inter-annual | An Indian Ocean mode that can reinforce or offset ENSO |
+| ⚠️ **Madden–Julian Oscillation** | An eastward-travelling pulse of enhanced convection and rainfall, followed by a suppressed phase, moving from the Indian Ocean toward the Pacific | **Intra-seasonal** — weeks | It organises the **active and break spells within a single season**, which ENSO cannot explain. Any question about wet and dry spells *within* a monsoon season is an MJO-scale question |
+| ⚠️ **Pacific Decadal Oscillation** | A long-lived pattern of North Pacific sea-surface-temperature anomalies alternating between phases | **Decadal** | It sets the **background state** against which ENSO events occur, modulating how strongly a given event's teleconnection is expressed. It is not a slow El Niño; its centre of action is the North Pacific, not the equator |
+
+- ⚠️ **The organising insight worth stating in any answer:** these modes operate at **different
+  timescales — weeks, seasons, years and decades — and are superimposed on one another**. That is
+  precisely why a single index never predicts an outcome, and why the honest formulation is always
+  probabilistic. An answer that arranges the modes by timescale demonstrates command; one that
+  lists them does not.
+
+### 10.1 Marine heatwaves, defined
+
+- ⚠️ A **marine heatwave** is a prolonged period during which sea-surface temperature in a region is
+  unusually high **relative to its own normal seasonal range** — so a marine heatwave is defined
+  against a local baseline, not against an absolute temperature.
+- ⚠️ **Mechanism:** a warming background ocean, plus weak winds and reduced mixing that prevent
+  cooler subsurface water from reaching the surface, plus persistent high pressure suppressing cloud
+  and increasing solar input. A warm ENSO phase or an ocean-current anomaly can supply the initial
+  heat.
+- ⚠️ **Consequences:** coral bleaching (`11_Islands-and-Coral-Reefs.md`), fish and plankton
+  distribution shifts and fishery disruption, mortality of habitat-forming species such as kelp and
+  seagrass, and additional energy available to tropical cyclones crossing the affected water.
+
+> ⚠️ **Factual caution:** do not quote temperature anomalies, index values, event durations or named
+> event dates for any of these modes from memory.
+
+## 11. Answer architecture (10/15/20-mark support)
+
+### 11.1 Directive decoding for this topic
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Explain the mechanism of ocean currents" | The wind-drive plus Coriolis plus continental-deflection logic that produces gyres, with the thermohaline component separated | List current names |
+| "Discuss ENSO and its impact on the Indian monsoon" | Walker circulation, the warm-phase/cold-phase contrast, the coupled feedback, and the probabilistic teleconnection with IOD as a modifier | Write "El Nino causes drought" |
+| "What is the Indian Ocean Dipole?" | The west-minus-east SST contrast, its two phases, and its interaction with ENSO | Describe it as a Pacific phenomenon |
+| "Why are certain areas the world's great fishing grounds?" | Upwelling and current-mixing nutrient supply, shelf width, and the temperature regime | Assert that cold water simply has more fish |
+| "Discuss changes in ocean characteristics and their effects" | Warming, acidification, deoxygenation, stratification and circulation change, each with its consequence | Reduce it to "sea temperature is rising" |
+
+### 11.2 Reusable 15-mark spine — "How does ENSO influence the Indian monsoon?"
+
+1. **Thesis:** ENSO influences the monsoon by relocating the tropical Pacific's convective heat
+   source, which distorts the large-scale east-west circulation the monsoon shares — but it
+   modulates monsoon probability rather than determining monsoon outcome.
+2. **Baseline:** the neutral Pacific and the Walker circulation, established before any anomaly is
+   introduced. *An answer that starts with El Nino instead of the normal state cannot explain what
+   is anomalous about it.*
+3. **The warm phase:** weakened trades, eastward warm-pool migration, deepened eastern thermocline,
+   collapsed upwelling, relocated rising limb.
+4. **The coupled feedback:** why the anomaly amplifies itself and why the system is oscillatory.
+5. **Transmission to India:** the altered circulation suppresses the ascending motion the monsoon
+   depends on, tending toward reduced rainfall; the cold phase does the reverse.
+6. **The essential qualification:** the IOD can offset or reinforce it; intra-seasonal variability
+   governs the distribution of rain within the season; and monsoon failure has occurred without
+   El Nino and been averted despite it.
+7. **Consequences:** agricultural output and rural incomes, reservoir and hydropower levels,
+   drinking-water stress, food-price transmission, and fishery variability along the coasts.
+8. **Conclusion:** graded — ENSO is the single most useful seasonal predictor available, which is
+   why it belongs in planning, but its skill is probabilistic and must be used as a risk signal
+   rather than as a forecast of a particular outcome.
+
+### 11.3 Evidence units available in this file
+
+> **Claim:** the ocean and the atmosphere are one coupled system, not two adjacent ones.
+> **Evidence:** in the Pacific, weakened trade winds allow the warm pool to spread east, and the
+> warmer eastern ocean in turn weakens the wind further. **Significance:** it explains how a modest
+> anomaly grows into a basin-scale event with global rainfall consequences. **Limitation:** the
+> coupling is not deterministic in its remote effects — the Indian monsoon response is a tendency
+> that other modes can override.
+
+> **Claim:** current systems determine the geography of food production at sea. **Evidence:**
+> upwelling coasts and warm-cold current confluences carry the world's most productive fishing
+> grounds, because both supply nutrients to the sunlit layer. **Significance:** it converts ocean
+> physics directly into a resource- and livelihood-geography argument, and links this file to
+> non-farm primary activities in `30_Primary-Economic-Activities-Agriculture.md`.
+> **Limitation:** the supply is not guaranteed — a deepened thermocline in a warm ENSO phase makes
+> upwelled water warm and nutrient-poor, so the same wind produces no bloom.
+
+> **Claim:** ocean currents redistribute heat and thereby set climates far from the tropics.
+> **Evidence:** warm poleward flow on western margins of the higher middle latitudes keeps those
+> coasts ice-free and mild in winter, while cold equatorward flow on the opposite side produces
+> cool, foggy, arid coasts. **Significance:** it explains why places at identical latitude can have
+> wholly different climates — the central comparative fact in regional climatology.
+> **Limitation:** currents are one of several controls; continentality, relief and prevailing wind
+> direction operate simultaneously.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

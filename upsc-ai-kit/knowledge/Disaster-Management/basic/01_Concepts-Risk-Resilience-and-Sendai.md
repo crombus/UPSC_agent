@@ -277,3 +277,57 @@ hazard topic.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 13. Core-only answer architecture — risk, resilience and Sendai
+
+> **Core firewall:** this section is sufficient for the 2018/2019
+> concept routes and the 2024 resilience route. `advanced/01` may deepen
+> an evaluation; it is never required to supply a thesis, a named
+> example, a limitation or a conclusion.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Why it earns the analytical point | Qualification |
+|---|---|---|---|
+| A hazard becomes a disaster through socially produced risk, not merely through its physical force. | VisionIAS's hazard–vulnerability–capacity definition and its economic, physical, social, environmental and attitudinal vulnerability categories (PDF pp. 4–5). | It lets an answer explain *why the same event harms groups differently* and identify a reduction lever. | Use the source's probability × vulnerability relation as a working relation; do not pretend it is a complete measured formula for every event. |
+| Resilience is a capability across time, not a synonym for restoration. | The DM cycle: prevention/mitigation/preparedness before impact and response/rehabilitation/reconstruction after it (PDF p. 6). | It shows that robust infrastructure, redundancy, preparedness and recovery are connected rather than a list of slogans. | “Bounce back” to the previous unsafe condition is not resilience; recovery must avoid recreating risk. |
+| Sendai converts the DRR cycle into a global accountability vocabulary. | Sendai's four priorities and Targets A–G, with A–D addressing losses and E–G means of implementation. | A response can move from a domestic measure to the relevant global outcome/means target. | Sendai is voluntary and non-binding; Target E's 2020 deadline is not evidence that every country achieved it. |
+| India’s DRR approach can be compared before and after Sendai without inventing outcomes. | Before: DM Act 2005 and NPDM 2009 institutionalised the national framework. After: NDMP 2016 (revised 2019) aligned planning with Sendai, and the PM’s ten-point DRR agenda was announced at AMCDRR 2016. | It answers the 2018 before/after limb with dated policy anchors rather than a generic “India adopted Sendai” line. | These are framework/adoption facts; do not claim they prove measured target achievement or uniform State implementation. |
+| India needs a current, measurable domestic implementation layer. | NDMP 2019 is the latest published NDMP; the 2016 first edition's lack of targets/timelines/funding projections is document-period critique. | It permits a reasoned verdict on the gap between a framework and implementation. | Do not assert that the 2016 critique remains unchanged in NDMP 2019 without a dated comparison. |
+
+### 13.2 Executable spines
+
+- **10 marks — vulnerability or risk:** define the term → map physical,
+  social, economic, environmental and attitudinal vulnerability → show
+  hazard/exposure/capacity interaction → use one local-risk example
+  (unsafe siting, weak construction or excluded warning recipient) →
+  conclude that risk reduction changes exposure/vulnerability/capacity,
+  not the hazard alone.
+- **15 marks — 2018 Hyogo–Sendai or 2024 resilience demand:** open with
+  the proposition that resilience is the ability to resist, absorb,
+  adapt and recover without recreating risk. For the 2024 demand, use
+  **determination** (risk knowledge plus exposure, vulnerability and
+  capacity), then **framework elements** (robustness, redundancy,
+  resourcefulness, inclusive preparedness, rapid recovery/adaptation),
+  then compactly name all seven Sendai targets: A mortality, B affected
+  people, C economic loss/GDP, D critical infrastructure/basic services,
+  E national/local strategies, F international cooperation, G
+  multi-hazard warning/risk information. For a Hyogo comparison, state
+  Hyogo's five priorities versus Sendai's four priorities plus seven
+  targets, then use DM Act 2005/NPDM 2009 as pre-Sendai and
+  NDMP 2016/2019 plus the 2016 ten-point agenda as post-Sendai Indian
+  measures; do not invent a numerical performance comparison.
+- **20 marks — evaluate resilience policy:** thesis: resilience is
+  credible only where risk knowledge, institutions, finance, warning,
+  inclusion and safer recovery reinforce one another. Organise by
+  prevention/mitigation, preparedness/warning, response and Build Back
+  Better; attach one evidence unit in each part; test results separately
+  from plans/targets; close with a qualified verdict on risk-informed
+  development.
+
+### 13.3 Direct-PYQ route rule
+
+The historical 2018/2019 and 2024 central-ledger routes terminate in
+this Core owner. An older `advanced/01` pointer is retained only as
+optional enrichment and is superseded for answer-writing by this
+section.

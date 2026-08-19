@@ -56,7 +56,9 @@ Moore insists we must not confuse failure of analysis with failure of knowledge.
 
 ### 1.2 "Proof of an External World" (1939) ✅
 
-> ✅ *"Here is one hand"* (holding up the left hand), *"and here is another"* (holding up the right) — therefore at least two external objects exist; therefore an external world exists.
+> ✅ *"Here is one hand"* (as he makes a gesture with the **right** hand), *"and here is another"* (as he makes a gesture with the **left**) — therefore at least two external objects exist; therefore an external world exists.
+
+> ⚠️ **Order matters if you narrate it.** Moore's printed text specifies the **right hand first, then the left**. If you describe the gesture at all, get the order right or drop the detail; an inverted order in a quotation-style sentence is exactly the kind of avoidable error a specialist examiner notices.
 
 **Structure of the proof:**
 1. Here is one hand. (Known by present experience.)
@@ -64,9 +66,18 @@ Moore insists we must not confuse failure of analysis with failure of knowledge.
 3. Therefore, at least two material objects exist.
 4. Therefore, an external world exists.
 
+**Moore's own three conditions for a rigorous proof** (stated in the paper, and the part most scripts omit) ✅:
+| Condition | Moore's claim |
+|---|---|
+| The premiss must be **different** from the conclusion | "Here is a hand" ≠ "an external world exists" — so the proof is not circular |
+| The premiss must be **known**, not merely believed | Moore insists he *knew* it; certainty here exceeds any sceptical premiss |
+| The conclusion must **follow** from the premiss | It does: hands are things met with in space, and "things met with in space" is Moore's own gloss on "external" |
+
 **Why Moore considers this rigorous:** The premises are *known*, the conclusion follows validly, and the premises are not identical to the conclusion (avoiding circularity). He acknowledges he cannot *prove* the premises themselves ("How do I know these are hands?") but insists that knowing them is more certain than any premiss a sceptic could invoke to deny them.
 
 **Philosophical significance:** Moore reverses the burden of proof. Instead of proving the external world to the sceptic's satisfaction, he challenges the sceptic: any argument *concluding* hands don't exist must contain at least one premise *less* certain than the conclusion it denies. ✅
+
+**Strongest objection → reply ❓:** the proof is question-begging — the sceptic doubts precisely whether Moore *knows* the premiss, so asserting it settles nothing. **Moore's reply:** he never claimed to convince the sceptic; he claimed to show that the sceptic's argument cannot be *sound*, because its premisses are always less certain than what it denies. **Wittgenstein's diagnosis** (*On Certainty*, 1969) is the deepest response to both: propositions like "here is a hand" are not things we *know* at all but hinges on which knowing and doubting turn — Moore misdescribes his own certainty as knowledge. See [`Later-Wittgenstein.md`](Later-Wittgenstein.md). Contrast **Kant's Refutation of Idealism**, which *derives* the external world from the sceptic's own premiss rather than refusing the demand: [`Kant.md`](Kant.md) §3.7.
 
 ### 1.3 The Paradox of Analysis ⚠️
 
@@ -199,6 +210,54 @@ The *scope* of a description matters when negation or propositional-attitude ver
 
 The theory of descriptions establishes the **fundamental principle of analytic philosophy:** the surface grammatical structure of a sentence may radically mislead about its logical structure. The task of philosophy is to reveal the **logical form** hidden by language. ✅
 
+### 4.7 KNOWLEDGE BY ACQUAINTANCE vs KNOWLEDGE BY DESCRIPTION ✅ — the epistemology that makes the Theory of Descriptions work
+
+**Why it is indispensable here.** The Theory of Descriptions is not merely a piece of logical grammar; it exists to discharge an **epistemological** debt. Russell needs to explain how we can think and speak truly about things we have never encountered — the centre of mass of the solar system, Bismarck, the golden mountain. The apparatus is the acquaintance/description distinction (*Problems of Philosophy*, 1912, Ch. 5; "Knowledge by Acquaintance and Knowledge by Description," *PAS* 1910–11).
+
+**Exact printed subterms:** *acquaintance* · *knowledge by description* · *sense-data* · *the Principle of Acquaintance* · *logically proper name* · *denoting phrase* · *the object of acquaintance is "directly aware… without the intermediary of any process of inference."*
+
+| Knowledge by **ACQUAINTANCE** | Knowledge by **DESCRIPTION** |
+|---|---|
+| **Direct**, presentational, non-inferential — I am *directly aware* of the item, without any intermediary of inference or knowledge of truths | **Indirect**, propositional — I know that *there is exactly one thing* answering to a description, and whatever is inferred of it |
+| Objects: **sense-data** (this patch of red, this hardness), **memory** data, **introspective** data of my own mental states, and **universals** (redness, before, diversity) | Objects: physical objects, other minds, historical persons, unobservables of science — everything I have not met |
+| Yields **logically proper names** — for Russell, only demonstratives like "this," "that," used of a present sense-datum | Yields **denoting phrases** — "the F," which Russell's 1905 analysis shows to be an **incomplete symbol**, with no meaning in isolation |
+| Basis of all understanding | Built out of acquaintance-items by logical construction |
+
+**The Principle of Acquaintance ✅ (state it verbatim in any descriptions answer):**
+> "**Every proposition which we can understand must be composed wholly of constituents with which we are acquainted.**" (*Problems*, Ch. 5)
+
+**The argument, numbered:**
+1. To understand a proposition is to grasp its constituents.
+2. I can grasp only what I am acquainted with.
+3. But I plainly understand propositions about Bismarck, Julius Caesar and electrons, with none of which I am acquainted.
+4. ∴ Either the principle is false, or such propositions do not really contain those items as constituents.
+5. The **Theory of Descriptions** takes the second route: "the F is G" contains no constituent *the F* at all; it unpacks into an existentially quantified sentence whose constituents are the **universals** F and G and the logical apparatus — all items of acquaintance.
+6. ∴ The principle is preserved. **Descriptions is thus the technical instrument that saves the epistemology, not an independent puzzle-solving device.** ⚠️ Stating this connection converts a routine descriptions answer into a first-class one.
+
+**Canonical example ✅ — Bismarck** (Russell's own, *Problems* Ch. 5, in a graded series):
+| Knower | Route |
+|---|---|
+| **Bismarck himself** | acquaintance with his own self-consciousness — a judgement about a constituent given to him |
+| **A person who met Bismarck** | acquaintance with sense-data he took to be of the man; the description is anchored to *his* particulars |
+| **A person who only read of Bismarck** | knowledge purely by description — "the first Chancellor of the German Empire" |
+| **All of us, of "the most long-lived of men"** | a description satisfied by someone we may never identify; yet the proposition is fully understood |
+Russell's moral: "**we shall say that we have *merely descriptive* knowledge of the so-and-so when… we do not know any proposition 'a is the so-and-so' where a is something with which we are acquainted.**"
+
+**Presuppositions ⚠️:**
+- **P1** There is a class of items given *without inference* — the whole edifice depends on this, and it is exactly what Sellars later attacks as "the Myth of the Given."
+- **P2** Understanding is *constituent-grasping* (a compositional, quasi-Fregean model of thought).
+- **P3** Sense-data are objects distinct from the act of sensing (Moore's act/object distinction, §2.2 — Russell inherits it).
+- **P4** Only "this/that" are genuine names; ordinary proper names are **disguised definite descriptions**. This last is the thesis Kripke will destroy.
+
+**Strongest objections → replies:**
+| Objection | Source | Reply | Residual |
+|---|---|---|---|
+| Ordinary proper names are **not** disguised descriptions: "Aristotle" would still name Aristotle even if every description we associate with him were false. Names are **rigid designators**. | **Kripke**, *Naming and Necessity* (1970/1980) | Russell can retreat to the claim about *logically* proper names only, abandoning the description theory of ordinary names. | ⚠️ This is the standard modern verdict: the *logic* of descriptions survives, the *theory of names* does not. |
+| Sense-data as objects of acquaintance are a myth: nothing is given *uninterpreted*, and what is given cannot both be non-conceptual and justify beliefs. | **Sellars**, "Empiricism and the Philosophy of Mind" (1956); anticipated by Kant's "intuitions without concepts are blind" | Russell would insist acquaintance is not itself knowledge-of-truths, only presentation. | ❓ But then how does it *ground* anything? This is the live weakness. |
+| Acquaintance with **universals** is a large Platonic concession for an empiricist. | general | Russell openly accepts it: he is a realist about universals (against Berkeley's nominalism — see [`Empiricism.md`](Empiricism.md) §1.1). | ⚠️ Worth noting as the point where Russell breaks with the British empiricist line. |
+
+**Executable verdict:** "Acquaintance/description is where Russell's logic and his epistemology meet: the Theory of Descriptions is the price he pays to keep the Principle of Acquaintance while speaking of what he has never met. The logical machinery has proved permanent; the epistemology it was built to serve — sense-data as bedrock, names as disguised descriptions — has not survived Sellars and Kripke. That asymmetry is the most instructive fact about Russell's philosophy."
+
 ---
 
 ## 5. RUSSELL — LOGICAL CONSTRUCTIONS ✅
@@ -259,9 +318,75 @@ The world is not a collection of objects but of **facts** — objects standing i
 | A spatial model shares spatial form with what it models; a musical score shares acoustic form with the music | Every meaningful proposition shares *logical* form with the fact it pictures — because logical form is the form of *all possible representation* |
 | A picture can depict only what shares its form | A proposition can depict any fact whatsoever, because *logical* form is the universal medium |
 
-> ✅ Logical form is not itself a *fact* that can be depicted — it is presupposed by all depiction. It **shows** itself in every meaningful proposition but cannot be *said*. (See §6.4.)
+> ✅ Logical form is not itself a *fact* that can be depicted — it is presupposed by all depiction. It **shows** itself in every meaningful proposition but cannot be *said*. (See §6.5.)
 
-### 6.3 The General Form of the Proposition ✅
+### 6.3 BIPOLARITY, LOGICAL SPACE, AND THE GENERAL FORM OF THE PROPOSITION ✅
+
+These three are one doctrine seen from three sides, and no *Tractatus* answer is complete without all three. They are what make the picture theory an **account of sense** rather than a metaphor.
+
+#### 6.3.1 BIPOLARITY — the condition of sense
+
+**Thesis.** A proposition has sense (*Sinn*) only if it is **capable of being true and capable of being false**. Not merely *bivalence* (it has one of two values) but **bipolarity** (it must be able to have *either*). ✅
+
+**Textual anchors:** "A proposition can be true or false only by being a picture of reality" (4.06); "In order to tell whether a picture is true or false we must compare it with reality" (2.223); "It is impossible to tell from the picture alone whether it is true or false" (2.224). The term itself comes from the pre-*Tractatus* *Notes on Logic* (1913).
+
+**Why it does so much work — numbered:**
+1. A proposition depicts a possible situation; depicting is representing something *as* being the case.
+2. To represent something as being the case is *ipso facto* to allow that it might not be the case — a representation that could not be false is not representing.
+3. ∴ Sense requires the genuine availability of both truth-values.
+4. **Consequence 1 — tautologies and contradictions are *sinnlos*.** A tautology cannot be false and a contradiction cannot be true; they lack bipolarity, hence lack sense. They are not *nonsense* — they are well-formed but say nothing, showing the scaffolding of logic instead (4.461–4.4611).
+5. **Consequence 2 — metaphysical sentences are *unsinnig*.** "The Absolute is perfect," "objects exist" do not fail bipolarity by being always-true; they fail to depict any possible situation at all.
+6. **Consequence 3 — elementary propositions must be logically independent** (2.061, 4.211). If p entailed q, then given p, q could not be false — q would lose bipolarity relative to p. This is the requirement that later collapses.
+7. **Consequence 4 — this is the direct ancestor of verificationism.** The positivists convert "must be capable of truth and falsity" into "must be capable of verification"; the lineage runs *Tractatus* → Schlick/Waismann → Ayer. See [`Logical-Positivism.md`](Logical-Positivism.md).
+
+**Where it breaks — the COLOUR-EXCLUSION problem ✅❓.** "This patch is red all over" and "This patch is blue all over" cannot both be true, yet neither is a truth-function of the other and both look elementary. So elementary propositions are **not** logically independent after all. Wittgenstein concedes this in "Some Remarks on Logical Form" (1929) — his first published paper after the *Tractatus*, and one he immediately disliked. **This is the internal crack that opens the road to the later philosophy**, and naming it is the strongest available link between §6 and [`Later-Wittgenstein.md`](Later-Wittgenstein.md).
+
+#### 6.3.2 LOGICAL SPACE (*logischer Raum*) — where possibilities live
+
+**Thesis.** A proposition does not merely name a fact; it **locates a place** in the totality of possibilities. ✅
+
+**Textual anchors:** "The facts in logical space are the world" (1.13); "A picture presents a situation in logical space, the existence and non-existence of states of affairs" (2.11); "A proposition determines a place in logical space" (3.4); "The propositional sign and the logical co-ordinates: that is the logical place" (3.41); "The proposition determines a place in logical space. The existence of this logical place is guaranteed by the mere existence of the constituent parts" (3.4–3.42).
+
+**The analogy that makes it teachable ⚠️:** logical space is to propositions what a **coordinate system** is to points. To specify a point you need the whole grid, not just the point; likewise, to understand a proposition you must grasp the *entire field of alternatives* it excludes. Wittgenstein's own image: "A proposition… is like a solid body that restricts the freedom of movement of others" (4.463) — a proposition is a *limit* placed on how the world may be.
+
+| Consequence | Statement |
+|---|---|
+| **Sense is holistic** | To understand *p* is to understand ¬*p* — the same logical place, opposite pole (this ties logical space to bipolarity) |
+| **Negation is not an object** | ¬ does not name anything; "my fundamental idea is that the 'logical constants' are not representatives" (4.0312) — the *Grundgedanke* |
+| **The world is determinate** | Since logical space is fixed by the objects (2.013: "Each thing is, as it were, in a space of possible states of affairs"), possibility is built into the object, not added to it |
+| **Limits of language = limits of the world** | 5.6 — because logical space is the space of all sense, one cannot think outside it, so its bounds cannot be described from outside |
+
+#### 6.3.3 THE GENERAL FORM OF THE PROPOSITION ✅ — the *Tractatus*'s single most quotable technical result
+
+Two formulations, and you should give **both**:
+
+**(a) The informal form (4.5):** the general form of the proposition is — "**This is how things stand**" (*Es verhält sich so und so*). Anything sayable is a specification of how things stand.
+
+**(b) The formal form (6):** ✅
+> **[ p̄ , ξ̄ , N(ξ̄) ]**
+
+Read it as a **rule for generating every proposition** in three slots:
+| Slot | Meaning |
+|---|---|
+| **p̄** | the totality of **elementary propositions** — the base |
+| **ξ̄** | any arbitrarily selected **set** of propositions already formed |
+| **N(ξ̄)** | the result of applying the **N-operator** to that set |
+
+**The N-operator (5.502, 5.51)** is **joint negation** — "none of these is true" (the generalised Sheffer stroke / NOR). Its power is that **every truth-function whatsoever can be generated from N alone**: ¬p = N(p); p ∨ q = N(N(p), N(q)); p ∧ q = N(N(p), N(q)) suitably arranged; and quantification is handled by taking ξ̄ to be the set of values of a propositional function (5.52).
+
+**What proposition 6 therefore asserts — numbered:**
+1. Every proposition is a **truth-function** of elementary propositions (5).
+2. Every truth-function can be produced by successive applications of a **single** operation, N.
+3. ∴ There is one and only one general form of proposition, and it is the form of a **formal series** generated from the elementary base.
+4. ∴ **Logic needs no primitive propositions and no logical objects** — only the one operation. This is Wittgenstein's decisive break with Russell and Frege, who took logical constants and axioms as primitives.
+5. ∴ Since the form is fixed in advance, "**there can be no surprises in logic**" (6.1251) and logic's propositions are tautologies (6.1).
+6. ∴ Whatever cannot be produced by this rule is **not a proposition**. The general form is therefore simultaneously the **criterion of the sayable** and the boundary drawn in the Preface: "the limit… can only be drawn in language, and what lies on the other side of the limit will simply be nonsense."
+
+**Presuppositions ⚠️ (of the whole §6.3 apparatus):** (P1) there **are** elementary propositions and simple objects — Wittgenstein never produces an example of either, arguing only that there *must* be, on pain of sense being indeterminate (2.021, 3.23); (P2) elementary propositions are logically independent (falsified by colour exclusion); (P3) every proposition is truth-functional (falsified by belief-contexts and modality — Wittgenstein's attempted answer at 5.542, that "A believes p" is of the form "'p' says p," is widely judged inadequate); (P4) the N-operator can handle **infinite** domains, which is disputed (Fogelin's objection that the notation cannot express multiply-general propositions; Geach's partial defence).
+
+**Executable verdict for §6.3:** "Bipolarity, logical space and the general form are one doctrine: sense is position in a fixed field of possibilities, and the field is generated by a single operation on an elementary base. The doctrine is the most economical account of meaning ever constructed — and it is defeated by its own economy, since colour exclusion shows the elementary base cannot be independent, and belief-contexts show that not every proposition is truth-functional. Wittgenstein's later work is not a change of subject but the systematic dismantling of these two presuppositions."
+
+### 6.4 Tautology, Contradiction and the Limits of Sense ✅
 
 Every proposition is a truth-function of elementary propositions. Elementary propositions consist of names in immediate combination; they are logically independent of one another. A proposition is meaningful iff it pictures a possible state of affairs — i.e., is a truth-function of elementary propositions that could be true or false.
 
@@ -275,7 +400,7 @@ Every proposition is a truth-function of elementary propositions. Elementary pro
 
 > ⚠️ **UPSC Trap:** *Sinnlos* ≠ *unsinnig*. Tautologies of logic are *senseless* (empty of factual content but perfectly well-formed); metaphysical sentences are *nonsensical* (they fail to picture any possible fact). The Logical Positivists later absorbed this distinction into their rejection of metaphysics.
 
-### 6.4 Saying vs Showing ✅ (PYQ 2021 Q4(c))
+### 6.5 Saying vs Showing ✅ (PYQ 2021 Q4(c))
 
 **The distinction that crowns the *Tractatus*:**
 
@@ -291,7 +416,7 @@ Every proposition is a truth-function of elementary propositions. Elementary pro
 
 **The Mystical:** "There are, indeed, things that cannot be put into words. They make themselves *manifest*. They are what is mystical." (*Tractatus* 6.522) — Ethics, God, the meaning of life are not denied; they are placed beyond the reach of meaningful discourse. ✅
 
-### 6.5 The Ladder Metaphor and Proposition 7 ✅ (PYQ 2021 Q4(c))
+### 6.6 The Ladder Metaphor and Proposition 7 ✅ (PYQ 2021 Q4(c))
 
 > ✅ *"My propositions serve as elucidations in the following way: anyone who understands me eventually recognises them as nonsensical, when he has used them — as steps — to climb beyond them. (He must, so to speak, throw away the ladder after he has climbed it.)"* (*Tractatus* 6.54)
 
@@ -487,6 +612,74 @@ Assess  : Strengths — Occam's razor applied brilliantly; dissolves pseudo-prob
 Close   : Incomplete symbols are the scalpel of analytic philosophy; logical atomism is
           the metaphysics toward which the scalpel cuts.
 ```
+
+---
+
+## D. DIRECTIVE DECODER ⚠️ — what each command word obliges you to *do* here
+
+| Directive | What it demands | Structural obligation for **this** file | Fatal error |
+|---|---|---|---|
+| **Discuss/Explain with reference to the theory of descriptions** (2025 Q1d, 2024, 2023) | the **symbolic analysis**, not a paraphrase | Write the three conjuncts (existence, uniqueness, predication) in logical notation, then the scope distinction, then the puzzle solved. | Explaining "the golden mountain" in words with no formalisation. |
+| **Elucidate** (quotation-led, e.g. Moore's "Blue exists") | locate the sentence in the paper's argument | Name the paper and year, the target (idealism / *esse est percipi*), the distinction it turns on (act vs object). | Free-floating gloss. |
+| **Critically examine the picture theory** | assessment dominates | Reconstruct via bipolarity + logical space + general form, then the colour-exclusion breakdown, then a ruling. | Describing "propositions picture facts" and adding one criticism. |
+| **What is meant by saying/showing?** (2021 Q4c) | show that the distinction is **forced**, not stipulated | Derive it: logical form is presupposed by all depiction, hence not depictable; then the ladder and 7. | Listing sayable and showable items. |
+| **Examine Moore's defence of common sense** | the **structure of the reversal** of burden | Truisms → knowing vs analysing → the certainty-comparison argument → the *On Certainty* diagnosis. | "Moore held up his hands." |
+| **Distinguish / Compare** (Russell's atomism vs *Tractatus* atomism) | fix a criterion first | Axis: are the simples epistemic (Russell's sense-data) or logical posits (Wittgenstein's objects, never exemplified)? | Two parallel descriptions. |
+| **Comment on "incomplete symbol"** | a **definition + a test**, then a consequence | Definition: no meaning in isolation, meaning only in context of a whole sentence. Test: does the phrase disappear on analysis? Consequence: ontological economy. | Repeating "incomplete symbol" without the contextual-definition criterion. |
+| **Assess the significance of** | say **what changed** in philosophy | Grammatical form ≠ logical form → the whole programme of analysis; Moore's method → ordinary language philosophy. | Praise without content. |
+
+---
+
+## V. GRADED VERDICT BANK ⚠️ — executable closing positions
+
+| Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict** |
+|---|---|---|---|
+| **Defence of common sense** | Moore does not refute scepticism; he changes what needs defending, by insisting that no sceptical premiss is more certain than "here is a hand." | …The distinction between *knowing* a proposition and *analysing* it is the durable contribution: it shows that philosophical difficulty about analysis never by itself impugns ordinary knowledge. | Moore's method is a *procedure for weighing certainties*, and as such it is unanswerable but also unilluminating — it tells the sceptic he is wrong without saying why. Wittgenstein's *On Certainty* supplies what Moore lacked: hinge propositions are not known but *stand fast*, so Moore misdescribes his own certainty as knowledge. Moore is right against the sceptic and wrong about himself. |
+| **Refutation of Idealism** | Moore's refutation turns wholly on the act/object distinction: sensation has a content that is *not* the sensing of it. | …The "diaphanous" claim (consciousness is transparent, easily overlooked) is both the argument's engine and its weak point — if awareness is that elusive, the alleged distinction is asserted rather than exhibited. | Moore's paper is historically decisive and philosophically incomplete: it broke the hold of British Idealism by refusing *esse est percipi* rather than by disproving it, and it bequeathed the sense-datum theory whose collapse (Sellars) removed its own foundation. The revolt succeeded; the positive doctrine did not. |
+| **Theory of descriptions** | Descriptions is not a theory of meaning but a method of **elimination**: it removes an apparent constituent by rewriting the sentence. | …Its three payoffs are exact — the law of excluded middle is preserved by the scope distinction, negative existentials become intelligible, and identity puzzles dissolve — and each is a genuine solution, not a redescription. | Strawson's objection ("On Referring," 1950) that Russell confuses *asserting* existence with *presupposing* it identifies a real feature of ordinary use but does not damage the logical analysis, which was never offered as a description of conversation. The theory therefore survives as **logic** and fails as **semantics of natural language** — and Russell's own further claim, that ordinary names are disguised descriptions, is refuted by Kripke. Separate these three claims and the answer writes itself. |
+| **Acquaintance vs description** | The distinction exists to pay an epistemological debt: how we speak of what we have never met. | …The Principle of Acquaintance is the premiss and the Theory of Descriptions is the device that saves it — they are one doctrine, not two. | The logical machinery has proved permanent; the epistemology it was built to serve — sense-data as bedrock, names as disguised descriptions — has not survived Sellars's attack on the Given and Kripke's on the description theory of names. That asymmetry is the most instructive fact about Russell: his instruments outlived his purposes. |
+| **Logical atomism** | Atomism is the ontology that logical analysis *requires*: if analysis terminates, it terminates in simples. | …Russell's atoms are epistemic (sense-data, universals), Wittgenstein's are logical posits never exemplified — a difference that makes Russell's version empirically vulnerable and Wittgenstein's unfalsifiable. | Logical atomism is best read as a **conditional**: *if* language is fully analysable into truth-functions of independent elementary propositions, *then* the world has the structure of independent atomic facts. The antecedent fails — colour exclusion breaks independence, belief-contexts break truth-functionality — so the ontology lapses while the method of analysis survives. Wittgenstein drew this conclusion first, and against himself. |
+| **Logical constructions** | "Wherever possible, substitute constructions out of known entities for inferences to unknown entities" is Occam's razor turned into a working method. | …It succeeds for numbers and points; it strains for physical objects, since "possible sense-data" reintroduce unactualised entities the maxim was meant to avoid. | The maxim's real legacy is not its ontology but its *style*: it establishes reduction-by-contextual-definition as the characteristic technique of analytic philosophy, and it is the direct ancestor of Carnap's *Aufbau* and of Quine's ontological relativity. It failed as a programme and succeeded as a paradigm. |
+| **Picture theory** | Sense is the possession of a logical place: a proposition depicts by sharing logical form with a possible situation. | …Bipolarity is the condition, logical space the field, and the general form [p̄, ξ̄, N(ξ̄)] the generating rule — three faces of one doctrine. | The picture theory is the most economical account of meaning ever constructed and is defeated by its own economy: the elementary base cannot be logically independent (colour exclusion), and not every proposition is truth-functional (belief). Wittgenstein's later work is therefore not a recantation but the systematic dismantling of two presuppositions he was the first to identify. |
+| **Saying vs showing** | The distinction is not stipulated but forced: logical form is presupposed by all depiction, hence cannot itself be depicted. | …It makes the *Tractatus* self-consuming, which the ladder passage concedes rather than conceals; the book's own propositions are *unsinnig* by its own criterion. | Whether the self-application is a fatal contradiction or the book's deepest teaching is the standard-vs-resolute reading dispute (Anscombe/Hacker vs Diamond/Conant). The examiner-safe ruling: it is **not an inconsistency Wittgenstein overlooked** — 6.54 shows he saw it — so the *Tractatus* must be read as an activity of elucidation rather than a body of doctrine, which is precisely the conception of philosophy he retains for the rest of his life. |
+
+---
+
+## T. TRANSLATION, NUMBERING & PROVENANCE DISCIPLINE ✅
+
+**Moore and Russell wrote in English. Wittgenstein did not. Different disciplines apply to each.**
+
+### Moore and Russell — attribution and dating
+| Item | Correct provenance | Caution |
+|---|---|---|
+| "The Refutation of Idealism" | *Mind*, **1903** | ⚠️ Same year as *Principia Ethica*; do not conflate the two works. |
+| "A Defence of Common Sense" | in *Contemporary British Philosophy*, **1925** | The **truisms/list** paper. |
+| "Proof of an External World" | British Academy lecture, **1939** | The **hands** paper. ⚠️ These are three different papers with three different arguments; the commonest error in scripts is to merge 1925 and 1939. |
+| The hands gesture | Moore's text specifies **right hand first, then left** | See §1.2. If unsure, write "holding up first one hand and then the other." |
+| "On Denoting" | *Mind*, **1905** | The theory of descriptions proper. |
+| "Knowledge by Acquaintance and Knowledge by Description" | *PAS*, **1910–11**; restated in *The Problems of Philosophy*, **1912**, Ch. 5 | ✅ The Principle of Acquaintance is safe to quote verbatim from *Problems*. |
+| "Philosophy of Logical Atomism" | lectures **1918**, delivered in London, published in *The Monist* 1918–19 | ⚠️ Russell's own preface credits the ideas to Wittgenstein; say so — it earns a mark and pre-empts the "who owns atomism" trap. |
+| "Wherever possible, substitute constructions out of known entities for inferences to unknown entities" | "Logical Atomism" (1924) / *Our Knowledge of the External World* (1914), where it is called the **supreme maxim in scientific philosophising** | ✅ Safe. |
+| Strawson's reply | "On Referring," *Mind*, **1950** | ⚠️ Not a refutation of the logic; a claim about presupposition in ordinary use. |
+| Kripke's reply | *Naming and Necessity*, lectures **1970**, book **1980** | ⚠️ Give the lecture date **or** the book date, not a merged one. |
+
+### Wittgenstein — the *Tractatus*: numbering and translation
+| Item | Discipline |
+|---|---|
+| **The text** | Written 1918; published in German as *Logisch-Philosophische Abhandlung* in *Annalen der Naturphilosophie*, **1921**; the German–English parallel edition with the Latin title *Tractatus Logico-Philosophicus* appeared in **1922**. ⚠️ The Latin title was **Moore's suggestion**, not Wittgenstein's. Do not write "the *Tractatus* (1921)" without noting the edition, and never date the English text 1921. |
+| **Translations** | **Ogden** (with Ramsey's assistance, 1922, checked by Wittgenstein himself) and **Pears–McGuinness** (1961). ⚠️ These differ at exactly the points most often quoted. |
+| **Proposition 7** | Ogden: "**Whereof one cannot speak, thereof one must be silent.**" Pears–McGuinness: "**What we cannot speak about we must pass over in silence.**" **Name the translation whenever you quote 7** — both are correct, and presenting one as "the" wording is not. |
+| **Citation by decimal number, always** ✅ | The numbering is Wittgenstein's own and is **identical in every edition and translation** — 1.1, 2.11, 2.223, 3.4, 4.0312, 4.06, 4.461, 4.5, 5, 5.51, 5.6, 6, 6.1251, 6.522, 6.54, 7. **Decimal references are therefore the safest citation in the whole Western syllabus.** Use them in place of quotation wherever you are unsure of wording. |
+| **What the decimals mean** | 1, 2, 3… are the seven principal propositions; n.1 is a comment on n; n.11 a comment on n.1. Saying this in one sentence demonstrates familiarity with the text's architecture. ⚠️ **There is no proposition 7.1** — proposition 7 is deliberately uncommented and stands alone. Writing "7.1" is a giveaway error. |
+| **"The world is the totality of facts, not of things"** | **1.1** — ✅ both translations agree; safe verbatim. |
+| **"What can be shown, cannot be said"** | **4.1212** — ✅ safe. |
+| **The general form** | **6: [ p̄ , ξ̄ , N(ξ̄) ]** — ✅ reproduce the schema; it is notation, not translation. Explain N as **joint negation** ("none of these is true"). |
+| **"Es verhält sich so und so"** | **4.5** — ⚠️ Ogden: "Such and such is the case"; Pears–McGuinness: "This is how things stand." Flag the rendering. |
+| **"Logical constants are not representatives"** (*Grundgedanke*) | **4.0312** — ✅ safe; call it Wittgenstein's "fundamental idea," which is his own word. |
+| **Colour exclusion** | "Some Remarks on Logical Form," *PAS Supp.* **1929** — ⚠️ the **only** philosophical paper Wittgenstein published in his lifetime besides the *Tractatus*, and he disowned it before delivering it. Both facts are worth one clause. |
+| **"Picture theory"** | ⚠️ **Provenance:** the label is the commentators'; Wittgenstein writes of *Bild* (picture/model) and *abbilden* (depict). Say "the doctrine usually called the picture theory." |
+
+> ❌ **Never write:** that the *Tractatus* was "published in English in 1921"; that Wittgenstein "said language is a picture of the world" without the *logical form* qualification; or that Russell invented logical atomism unaided — his own 1918 preface attributes it to Wittgenstein.
 
 ---
 

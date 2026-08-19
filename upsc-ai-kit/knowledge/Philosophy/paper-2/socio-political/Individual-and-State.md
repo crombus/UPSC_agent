@@ -442,6 +442,139 @@ State secures, limits, and structures both
 - **Objection:** once limits are admitted, the state may steadily erode rights. ❓
 - **Reply:** ⚠️ hence the need for accountability and judicially structured justification of restrictions.
 
+---
+
+## 4A. POLITICAL OBLIGATION, LAW AND RESISTANCE
+
+> ⚠️ **Why this section exists.** "Rights, duties and accountability" presupposes an answer to the prior question: **why should anyone obey the state at all?** This section supplies the six competing families of political obligation, the jurisprudential dispute about what law is when rules run out, and the graded ladder of disobedience — conscientious objection, civil disobedience, resistance and revolution. It is a named-scholar reconstruction; no page, chapter, edition or verbatim wording is asserted for any thinker named.
+
+### 4A.1 The problem stated
+
+✅ **Political obligation** is a *moral* duty to obey the law of one's own state because it is the law, as distinct from prudential fear of sanction or independent moral agreement with a particular law's content.
+
+**Three things it is not ⚠️:**
+
+| Not this | Because |
+|---|---|
+| **Obedience out of fear** | a gunman also produces obedience; that is *being obliged*, not *having an obligation* |
+| **Agreement with the law's content** | if I obey only laws I independently endorse, the law adds nothing to my reasons |
+| **Legal validity** | that a rule is valid law is a question for jurisprudence; whether it *binds me morally* is a separate question |
+
+**Test any proposed ground by four criteria ⚠️** — the same grid works for every family below:
+
+1. **Generality:** does it bind *all* citizens, or only some?
+2. **Particularity:** does it bind me to *my own* state rather than to any well-ordered state?
+3. **Content-independence:** does it give a reason to obey the law *because it is law*, not because the act is independently right?
+4. **Defeasibility:** what defeats it, and what follows when it is defeated?
+
+### 4A.2 The six families
+
+| Family | Core claim | Named anchor | Strongest objection |
+|---|---|---|---|
+| **Consent / contract** ✅ | obligation arises from voluntary undertaking, express or tacit | Locke; Hobbes; Rousseau | almost nobody has expressly consented; tacit consent from residence or use of roads is not voluntary in any meaningful sense |
+| **Fair play / fairness** ✅ | those who accept the benefits of a cooperative scheme owe a fair share of its burdens | Hart; Rawls | benefits of public order are unavoidable and non-excludable; mere receipt of an unsolicited benefit does not generate a debt |
+| **Natural duty of justice** ✅ | we owe support to just institutions that apply to us, whether or not we consented | Rawls | fails **particularity** — a natural duty to support just institutions binds me to *any* just state, not distinctively to my own |
+| **Associative / membership** ✅ | obligations flow from constitutive identities and role-relations, as in family or community | Dworkin's associative obligations; communitarian accounts | risks making obligation follow from the mere fact of membership, however unjust the association |
+| **Gratitude** ✅ | the state supplies security, order and the conditions of a decent life; gratitude is owed to a benefactor | classical and Indian duty-based frameworks | gratitude generates *some* reciprocity, but not a general duty of obedience; and it can be claimed by an oppressive benefactor |
+| **Anti-obligation / philosophical anarchism** ✅ | no general obligation to obey has been successfully demonstrated; each law must be assessed on its merits | Wolff's autonomy-based anarchism; A. John Simmons | leaves no account of why a legitimate state's authority differs from any private agency's demands |
+
+**⚠️ Attribution discipline.** **A. John Simmons** is the canonical modern *sceptic*: his position is that each of the standard grounds fails to bind all and only the members of a particular state, so a general obligation is not established — while conceding that many laws should be obeyed for independent moral reasons. **Joseph Raz** supplies the leading *authority-based* alternative through the **service conception**: an authority is legitimate when its directives help subjects conform better to the reasons that already apply to them, and its directives then function as **pre-emptive** or exclusionary reasons that replace rather than merely outweigh the subject's own calculation. ❌ Do not attribute the service conception to Simmons, or philosophical anarchism to Raz.
+
+### 4A.3 Reconstructed argument: fair play, and its collapse
+
+The fair-play family is the one examiners most often reward, and the one most often stated badly. Reconstruct it as:
+
+1. political society is a cooperative scheme producing benefits — security, adjudication, infrastructure, public health;
+2. the scheme's benefits are produced only because most participants restrain themselves and bear burdens;
+3. I have accepted and enjoyed those benefits;
+4. to take the benefit while refusing the burden is to **free-ride** on others' restraint;
+5. free-riding is unfair;
+6. therefore I owe compliance as my fair share.
+
+**Presupposition ⚠️:** the benefits were *accepted*, not merely *received*, and the scheme is itself reasonably just.
+
+**Objection:** premises 3 and 6 do not connect. Public order is a non-excludable good — I cannot decline it. An unsolicited benefit I could not refuse does not generate a debt, or every generous neighbour could bind me at will.
+**Reply:** ⚠️ the defensible version restricts the argument to schemes whose benefits are **knowingly and willingly accepted** and which distribute burdens fairly. The residual problem is that this restriction shrinks the argument's reach to precisely the citizens who least need to be bound.
+
+### 4A.4 Dworkin: principles, hard cases and law as integrity
+
+✅ **Ronald Dworkin**, in *Taking Rights Seriously* (**1977**), argues against a purely rules-based positivism. In **hard cases** — where the settled rules do not dictate an outcome — judges do not legislate afresh; they reason from **principles**, standards of justice or fairness that are part of the law even though no pedigree test identifies them.
+
+| | **Rules** | **Principles** |
+|---|---|---|
+| Mode of application ✅ | all-or-nothing: either the rule applies and settles the case, or it does not | dimension of **weight**: a principle can be outweighed and still survive as law |
+| Conflict ✅ | one rule must be invalid or subject to an exception | principles genuinely compete and are balanced |
+| Source of authority ✅ | pedigree — enacted, precedent, recognised | moral-political argument about what best justifies the legal practice |
+| Judicial role ✅ | apply | interpret and weigh, seeking the best justification of the practice as a whole |
+
+✅ Dworkin's standard illustration is the principle that no one may profit from his own wrong, used to deny a murderer the inheritance his victim's valid will conferred on him. The applicable rule of succession pointed one way; the principle overrode it, without the rule being invalid.
+
+**Reconstructed argument ⚠️:**
+
+1. legal systems contain standards that judges treat as legally binding but that no rule of recognition identifies;
+2. these standards have weight rather than all-or-nothing application;
+3. a rules-only theory must therefore either misdescribe judicial practice or exile principles to "extra-legal" discretion;
+4. but judges in hard cases claim to be finding the law, not making it;
+5. therefore law includes principles, and adjudication seeks the interpretation that best fits and justifies the community's legal practice as a whole.
+
+**Presupposition ⚠️:** there is, at least in principle, a best interpretation — so hard cases have right answers rather than merely permissible ones.
+
+**Objection → Reply ⚠️:**
+
+- **Objection (Hartian):** in the penumbra of settled rules judges exercise bounded discretion; calling their moral reasoning "law" collapses the distinction between what law *is* and what it *ought to be*.
+  **Reply:** ⚠️ Dworkin's reply is that the positivist's own account cannot explain why litigants argue about entitlements they claim *already* to possess. The residual problem is the "right answer" thesis, which is difficult to sustain where reasonable interpreters permanently disagree.
+
+**Why it belongs in this file ✅:** Dworkin converts *rights* from concessions granted by the state into standards that constrain what the state may do — rights function as "trumps" against collective goals. That is the bridge from §1 (rights) to §3 (accountability): if rights are trumps, adjudication is a mode of holding the state accountable, not merely of resolving disputes. ⚠️ The Austin → Kelsen → Hart jurisprudential sequence is owned by [Sovereignty](Sovereignty.md) §3A; name it and route, do not re-expound it here.
+
+### 4A.5 The disobedience ladder: four graded forms
+
+✅ These are **not** synonyms, and collapsing them is the single most common error on this clause.
+
+| Form | Aim | Publicity | Legality | Scope | Attitude to the system |
+|---|---|---|---|---|---|
+| **Conscientious objection** ✅ | to avoid personal complicity in what one regards as wrong | may be private; no persuasive audience required | seeks exemption; typically accepts the penalty | the individual's own act only | accepts the system's legitimacy |
+| **Civil disobedience** ✅ | to persuade the political majority to change a law or policy | **essentially public**, addressed to the community's sense of justice | deliberate breach with **acceptance of legal consequences** | a specific law or policy | accepts the system's legitimacy; appeals to its own principles |
+| **Resistance** ✅ | to obstruct or nullify a specific grave injustice | may be covert | breaks law; may not accept penalty | a regime's particular acts | denies legitimacy of those acts |
+| **Revolution** ✅ | to replace the constitutional order itself | organised, often armed | rejects the legal order wholesale | the whole system | denies the system's legitimacy |
+
+**The two features that define civil disobedience ⚠️** and distinguish it from ordinary law-breaking: (i) **publicity and appeal to shared principles**, and (ii) **acceptance of the legal penalty**, which is what demonstrates that the actor is contesting one law rather than repudiating law as such. **Non-violence** is standardly added as a third condition; on the Gandhian account it is not merely a tactical condition but a constitutive one, because means and ends are inseparable.
+
+**Reconstructed justification ⚠️:**
+
+1. a general obligation to obey, if any, is defeasible and not absolute;
+2. a law may be so unjust that compliance makes the citizen complicit in wrong;
+3. legal channels of redress may be exhausted, blocked or unavailable to the affected group;
+4. open, non-violent breach with acceptance of penalty communicates the wrong without attacking the legal order as such;
+5. therefore civil disobedience is a permissible, and in some conditions obligatory, mode of political action within a substantially just constitutional order.
+
+**Presupposition ⚠️:** the order is substantially just and its majority is capable of being persuaded. ✅ Where neither holds, the argument shifts to resistance or revolution — and the burden of justification rises sharply.
+
+### 4A.6 Named illustrations, precisely dated
+
+- ✅ **Henry David Thoreau**, *Civil Disobedience* (**1849**; first published 1849 as "Resistance to Civil Government"). Claim: the individual conscience is prior to majority will; a citizen must not lend himself to a wrong through obedience or taxation. ⚠️ Thoreau's model is closer to **individual conscientious refusal** than to organised mass civil disobedience; his emphasis is withdrawal of personal support, not the building of a public campaign. Do not present him as Gandhi's blueprint.
+- ✅ **M. K. Gandhi** and the **1930 Salt Satyagraha**: the deliberate, announced breach of the **salt law** — Gandhi's march to Dandi commenced in March 1930 and the law was broken on 6 April 1930 — is a **dated historical illustration** of civil disobedience in its full form: publicly announced, non-violent, aimed at a specific unjust law, and accompanied by acceptance of arrest. ⚠️ Cite it as an illustration of the *concept's structure*, not as proof that civil disobedience is always justified. Gandhi's own further condition — that *satyāgraha* is open to self-suffering rather than the infliction of suffering — is what distinguishes it from coercive pressure.
+- ✅ **B. R. Ambedkar's counter, the "grammar of anarchy":** in his concluding address to the Constituent Assembly on **25 November 1949**, Ambedkar argued that once constitutional methods of achieving social and economic objectives are available, unconstitutional methods — including *satyāgraha*, non-cooperation and civil disobedience — are unjustified, and he described them as the grammar of anarchy which should be abandoned. ⚠️ Attribute the argument and the occasion; do not reproduce the wording as a verbatim quotation beyond the standard three-word phrase.
+
+**The Gandhi–Ambedkar tension, stated as philosophy rather than history ⚠️:** the disagreement is about the **availability condition** in premise 3 of §4A.5. Gandhi's satyagraha presupposes a regime in which the affected people have **no** constitutional voice; Ambedkar's objection presupposes a regime in which they **do**. Both can therefore be right, relative to their premise — and the live question becomes whether constitutional channels are genuinely open *to the group in question*, which is an empirical and contestable claim, not a settled one. ✅ Ambedkar's deeper worry is distinct and stronger: extra-constitutional agitation in a society still stratified by caste can be captured by dominant groups, so the method that liberates one group may entrench another.
+
+### 4A.7 Indian application (legal-status caution)
+
+- ✅ Article 19(1)(a) and (b) of the Constitution of India guarantee freedom of speech and expression and the right to assemble peaceably and without arms, **subject to reasonable restrictions** under Articles 19(2) and 19(3). These are constitutional provisions, and they protect protest — not law-breaking.
+- ✅ Article 51A (Fundamental Duties), inserted by the Constitution (Forty-second Amendment) Act, **1976**, includes the duty to abide by the Constitution and its institutions. ⚠️ Fundamental Duties are **non-justiciable**: they are not directly enforceable by a court, and their presence in the text is not itself an argument that obedience is morally owed.
+- ⚠️ **The controlling caution:** no constitutional provision, statute or judgment can settle the *philosophical* question of political obligation. Legal permission is not moral justification, and legal prohibition is not moral refutation. Cite Indian material to show what a legal order actually does, then argue the philosophy separately.
+- ❌ Do not claim that any Indian statute or judgment "recognises a right to civil disobedience"; by definition civil disobedience is a breach of law whose actor accepts the penalty.
+
+### 4A.8 Objections and replies on the whole clause
+
+- **Objection:** if obligation is defeasible, every citizen becomes a private judge of the law, and legal order dissolves.
+  **Reply:** ⚠️ the disobedience ladder is precisely the answer — the conditions of publicity, non-violence, exhaustion of remedies and acceptance of penalty are severe filters, and they preserve the authority of law while contesting one of its outputs. Raz's service conception makes the same point differently: authority is legitimate *because* it improves conformity with reasons that already apply, so its scope is bounded by that function rather than unlimited.
+- **Objection (Simmons-type):** since no ground establishes a general obligation, talk of "the citizen's duty to obey" is empty.
+  **Reply:** ✅ the sceptical conclusion is narrower than it sounds — it denies a *general, content-independent* obligation while leaving most laws bindingly supported by independent moral reasons against harm, fraud and unfairness. The practical difference between the sceptic and the traditionalist is therefore smaller than the rhetoric suggests, and saying so is a strong evaluative move.
+- **Objection:** associative and gratitude accounts merely dress up submission as virtue.
+  **Reply:** ⚠️ both survive only in a **conditional** form — associative obligations bind where the association shows equal concern for its members, and gratitude is owed to a benefactor who does not simultaneously oppress. Stripped of the condition, both collapse into the objection.
+
+---
+
 ## 5. INTER-THINKER / INTER-SCHOOL DEBATES
 
 ### 5.1 Locke vs Bentham
@@ -516,6 +649,9 @@ State secures, limits, and structures both
 ## 8. KEYWORD & STATEMENT BANK
 
 ### 8.1 Keywords
+
+**Promoted vocabulary (this pass) ⚠️:** political obligation · content-independence · generality · particularity · defeasibility · tacit consent · fair play · free-riding · natural duty of justice · associative obligation · gratitude · philosophical anarchism · service conception · pre-emptive reason · principles vs rules · hard cases · rights as trumps · conscientious objection · civil disobedience · resistance · revolution · acceptance of penalty · grammar of anarchy
+
 - ✅ claim-right
 - ✅ liberty / privilege
 - ✅ power
@@ -559,7 +695,7 @@ State secures, limits, and structures both
 | 2018 | Q4(a) | 20 | “Human rights and human dignity would no longer be the product of a particular culture, rather a common human aspiration for an ideal world.” Discuss. |
 | 2019 | Q2(a) | 20 | Do rights make citizens accountable to the State? Argue in the context of the present Indian scenario. |
 | 2020 | Q2(c) | 15 | Is Indian tradition antagonistic to Individual Rights? Consider it by taking recourse to the doctrine of Human Rights. |
-| 2021 | Q4(c) | 15 | Evaluate whether social contract theory adequately addresses the different issues of human rights. |
+| 2021 | Q4(c) | 15 | Evaluate whether the social contract theory adequately addresses the different issues of human rights. |
 | 2022 | Q4(b) | 15 | Does idea of unconditional rights necessarily lead to anarchy? Critically examine. |
 | 2023 | Q2(b) | 15 | Do you agree that duty and accountability must be given priority over rights for the better functioning of a State? Justify your answer. |
 | 2024 | Q1(b) | 10 | Present a brief account of origin and development of Social Contract Theory. |
@@ -570,44 +706,78 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 
 ## 10. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
-### 10.1 For 10-mark answers
-**Use when:** definition + one comparison + one criticism.
+### 10.0 Directive decoder — the verb fixes the structure
 
-**Template:**
-1. **Intro (2–3 lines):** define the key term and state the issue.
-2. **Core exposition:** explain one main theory or debate.
-3. **Contrast:** add one competing view.
-4. **Critique/reply:** one objection and one reply.
-5. **Conclusion:** balanced normative line.
+| Directive in the stem | What is actually scored | Compulsory structural move | Failure mode |
+|---|---|---|---|
+| **Explain / What is meant by** | internal logic of one concept | definition → analytic components → one distinction → one example | evaluating a doctrine the stem asked you only to expound |
+| **Discuss** | exposition plus one adjudicated tension | doctrine → rival → objection → reply → verdict | assembling four thinkers with no adjudication |
+| **Critically examine / evaluate** | the objection–reply layer *is* the answer | two objections, each with reply and **residual** problem | a criticism list with no defence offered |
+| **Are X and Y necessarily connected?** | the modal word **necessarily** must be attacked directly | distinguish conceptual necessity from institutional desirability; supply a counter-example | answering "yes, they are related" |
+| **Should X have priority over Y?** | a priority *criterion* must be named before ranking | name the criterion → rank → concede what the loser secures | asserting balance without a standard |
+| **Does X adequately address Y?** | adequacy is relative to a stated benchmark | fix the benchmark → test → identify the specific inadequacy | vague praise or vague dismissal |
+| **Trace the origin and development** | chronology **plus** conceptual movement | Hobbes → Locke → Rousseau, with what each *changes* and why | three biographies in sequence |
 
-**Example use:** 2024 social contract origin and development.
+### 10.1 10-mark method (~150 words · 4 moves · ~12 minutes)
 
-### 10.2 For 15-mark answers
-**Use when:** two or three thinkers + evaluation.
+1. **Exact concept (2 lines)** in technical vocabulary: *claim-right*, *liberty/privilege*, *power*, *immunity*, *content-independence*, *tacit consent*, *general will*, *civil disobedience*.
+2. **Analytic components (4–5 lines)** as numbered premises or as a correlativity/Hohfeld move — one precision only a reader of the doctrine could make.
+3. **One evidence unit** from §10.4, with its limitation.
+4. **Graded verdict (2 lines)** from §10.5.
 
-**Template:**
-1. **Intro:** frame the problem, not just the topic.
-2. **Conceptual clarification:** define right/duty/accountability/social contract as needed.
-3. **Main body:** 2–3 organised heads with thinker comparison.
-4. **Critical assessment:** show tension, limitation, or adequacy.
-5. **Indian/philosophical link:** Gandhi, dharma, duties, constitutional citizenship where relevant.
-6. **Conclusion:** reconcile rather than absolutise.
+> ❌ At 10 marks do not run all six obligation families or all four rungs of the disobedience ladder. Use one family or one contrast, fully worked.
 
-**Example use:** 2021, 2022, 2023, 2025.
+### 10.2 15-mark method (~220 words · 6 moves · ~18 minutes)
 
-### 10.3 For 20-mark answers
-**Use when:** concept + historical development + debate + Indian application.
+1. **Frame the axis of dispute**, not the topic ("the question is whether obligation is content-independent or issue-by-issue").
+2. **Position A** with its presupposition about the person and the state.
+3. **Position B** as the strongest rival, with the presupposition it denies.
+4. **One table** — the six obligation families (§4A.2), the rules/principles contrast (§4A.4), the disobedience ladder (§4A.5), or Hohfeld's incidents (§1.5).
+5. **One fully worked objection → reply → residual problem.**
+6. **Conditional verdict** stating when each side holds.
 
-**Template:**
-1. **Intro with thesis:** define and indicate the side you will defend.
-2. **Theoretical section:** 3–4 perspectives in sequence.
-3. **Analytical section:** objections and replies, with distinctions.
-4. **Indian application:** duties, citizenship, accountability, rights culture.
-5. **Conclusion:** nuanced final judgment avoiding one-sidedness.
+> ⚠️ For rights-versus-duties stems, the mark-bearing move is the **correlativity analysis**: show which rights have strict correlative duties (claim-rights) and which do not (liberties), instead of asserting that "rights and duties are two sides of a coin".
 
-**Exam-safe concluding lines:**
-- ⚠️ A mature polity cannot choose between rights and duties as if they were rivals; it must constitutionalise rights, cultivate duties and institutionalise accountability.
-- ⚠️ The individual is neither a mere atom outside society nor an expendable part of the state; political philosophy seeks a justified relation between dignity and authority.
+### 10.3 20-mark method (~300 words · 8 moves · ~25 minutes)
+
+1. **Provisional thesis** using the stem's own directive verb.
+2. **Conceptual map:** define right / duty / accountability / obligation as the stem requires; state the criterion of assessment.
+3. **Strongest case for the proposition**, reconstructed as premises.
+4. **Strongest rival tradition** — liberal, idealist, Gandhian, Marxist or anarchist — in its best form.
+5. **Two objection → reply chains**, each ending in a residual problem.
+6. **The disobedience ladder or the obligation grid** deployed as the analytical spine, where the stem concerns obedience, resistance or accountability.
+7. **One dated Indian illustration**, classified accurately, with the reminder that Fundamental Duties are non-justiciable and that legal status is not moral justification.
+8. **Graded verdict** conceding something to the losing side.
+
+> ⚠️ On social-contract stems, the mark-bearing move is showing what each contractarian *changes*: Hobbes secures order by an irreversible transfer; Locke adds trust, limits and a right of resistance; Rousseau relocates sovereignty in the general will and thereby makes obedience self-legislation. Then test the whole family against the human-rights benchmark — contract grounds rights in agreement, so it struggles to protect non-signatories, the incapable and future generations.
+
+### 10.4 Selectable evidence bank — 1 unit at 10 marks, 2 at 15, 4–5 at 20
+
+Each unit is **Claim → Named anchor → Use for → Limitation**.
+
+- **I1 · Rights precede the state.** Claim: life, liberty and estate are held in the state of nature; government is a trust that may be forfeited → Named: Locke, *Two Treatises of Government* → Use for: origin-of-rights and resistance stems → Limit: the theological and property premises are not available to a secular reader without reconstruction.
+- **I2 · Rights are children of law.** Claim: there are no rights antecedent to legal establishment; natural rights are rhetorical → Named: Bentham's positivist challenge → Use for: 10-mark "what is a right" stems; the strongest foil to I1 → Limit: cannot explain the critical use of rights language *against* existing law.
+- **I3 · Rights are not one thing.** Claim: "a right" resolves into claim, liberty, power and immunity, with distinct correlatives → Named: Hohfeld, *Fundamental Legal Conceptions* → Use for: any rights–duties correlativity stem → Limit: an analytic scheme, not a moral justification.
+- **I4 · Rights protect choices, or interests.** Claim: will theory makes the right-holder a small sovereign; interest theory makes rights protectors of well-being → Named: the will/interest dispute (§1.6) → Use for: rights of children, animals, the incapable → Limit: each theory handles a different hard case badly.
+- **I5 · Obligation has six candidate grounds, and each fails a test.** Claim: consent, fair play, natural duty, associative, gratitude and anti-obligation accounts are tested by generality, particularity, content-independence and defeasibility → Named: §4A.2 grid; A. John Simmons as the leading sceptic → Use for: any "why obey the state" stem → Limit: scepticism about a *general* obligation leaves most laws independently binding.
+- **I6 · Authority is a service, not a command.** Claim: an authority is legitimate when its directives help subjects conform better to reasons that already apply to them, and those directives then pre-empt rather than merely outweigh private judgment → Named: Raz's service conception → Use for: the best modern reply to anarchism → Limit: the justification is instrumental, so authority is bounded and does not extend beyond the domains where it improves conformity.
+- **I7 · Law contains principles, not only rules.** Claim: in hard cases judges reason from principles that have weight rather than all-or-nothing application, and rights function as trumps against collective goals → Named: Dworkin, *Taking Rights Seriously* (**1977**) → Use for: rights-as-constraints, accountability and adjudication stems → Limit: the right-answer thesis is hard to sustain under permanent reasonable disagreement.
+- **I8 · Disobedience is graded, not binary.** Claim: conscientious objection, civil disobedience, resistance and revolution differ in aim, publicity, legality, scope and attitude to the system → Named: §4A.5 ladder → Use for: any obedience/resistance stem — the single highest-value structural move available on this clause → Limit: real movements often occupy more than one rung at once.
+- **I9 · Civil disobedience is public, non-violent and penalty-accepting.** Claim: openly breaking a specific unjust law while accepting arrest demonstrates fidelity to law as such → Named: Gandhi's 1930 Salt Satyagraha (march begun March 1930; salt law broken 6 April 1930) → Use for: the concept's structure, illustrated → Limit: ✅ a dated historical illustration only; it does not show that civil disobedience is always justified.
+- **I10 · Conscience over majority.** Claim: the individual must not lend personal support to institutional wrong → Named: Thoreau, *Civil Disobedience* (**1849**) → Use for: conscientious-refusal stems → Limit: ⚠️ Thoreau's model is individual withdrawal, not organised mass campaign; do not equate it with satyagraha.
+- **I11 · Constitutional methods displace agitational ones.** Claim: where constitutional means of redress exist, extra-constitutional agitation is the grammar of anarchy and should be abandoned → Named: Ambedkar, Constituent Assembly concluding address, **25 November 1949** → Use for: the compulsory counterweight to I9 and I10 → Limit: the argument's force depends on constitutional channels being genuinely open **to the group in question**.
+- **I12 · Duty-centrism as an alternative starting point.** Claim: rights well performed are the fruit of duties well done; obligation is prior in the order of moral cultivation → Named: Gandhi (§2.3); the *dharma* tradition (§2.4) → Use for: rights-versus-duties priority stems → Limit: ⚠️ a duty-first order can be used to postpone rights for the powerless, which is exactly Ambedkar's objection; state that objection rather than leaving the position unqualified.
+- **I13 · Duties in the Indian constitutional text are non-justiciable.** Claim: Article 51A, inserted by the Constitution (Forty-second Amendment) Act, **1976**, lists Fundamental Duties that courts do not directly enforce → Named: constitutional text → Use for: Indian illustration in any rights/duties stem → Limit: ✅ non-justiciability is a legal fact; it neither proves nor disproves any moral thesis about duty.
+
+### 10.5 Graded verdict formulas (adapt; never reproduce mechanically)
+
+- **Modal verdict (for "necessarily connected" stems):** "Claim-rights are necessarily correlative to duties; liberties are not — so the connection is conceptual for one class of rights and merely institutional for another."
+- **Conditional verdict:** "The obligation holds where ⟨institutions are substantially just and channels genuinely open⟩ and lapses where they are not; the question is therefore one of degree, not of kind."
+- **Narrowed-scepticism verdict:** "The sceptic defeats the claim to a *general, content-independent* duty of obedience, but not the claim that most particular laws are independently binding — so the practical distance between the sceptic and the traditionalist is small."
+- **Ladder verdict:** "Conscientious refusal, civil disobedience, resistance and revolution answer to progressively heavier burdens of justification; the stem is answered by locating the case on that ladder, not by approving or condemning disobedience as such."
+- **Reconciliation verdict:** "A mature polity does not choose between rights and duties; it constitutionalises rights, cultivates duties and institutionalises accountability, since each without the others is unstable."
+- **Dignity–authority verdict:** "The individual is neither an atom outside society nor an expendable part of the state; the task of political philosophy is to specify a justified relation between dignity and authority."
+
 
 ## 11. LINK-OUTS
 - [Sovereignty](Sovereignty.md) — limits on supreme power, pluralist suspicion of absolutism.
@@ -624,3 +794,13 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 - Thomas Hobbes, *Leviathan*.
 - Jean-Jacques Rousseau, *The Social Contract*.
 - Wesley Newcomb Hohfeld, *Fundamental Legal Conceptions*.
+- Ronald Dworkin, *Taking Rights Seriously* (**1977**) — principles, hard cases and rights as trumps. Cited by title and year only; paraphrased, never quoted.
+- A. John Simmons, writings on political obligation and the failure of the standard grounds to establish a general duty of obedience. Cited by position, not by page or verbatim wording.
+- Joseph Raz, writings on authority — the service conception and pre-emptive reasons. Cited by position, not by page or verbatim wording.
+- H. L. A. Hart and John Rawls, the fair-play and natural-duty accounts of political obligation, used as named positions within §4A.2.
+- Henry David Thoreau, *Civil Disobedience* (**1849**; first published as "Resistance to Civil Government").
+- M. K. Gandhi, writings on *satyāgraha*; the Salt Satyagraha of **1930** used as a dated historical illustration.
+- B. R. Ambedkar, concluding address to the Constituent Assembly, **25 November 1949** — the "grammar of anarchy" argument, attributed by occasion and position rather than by extended quotation.
+- [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), Articles 19 and 51A, used as dated constitutional illustration only; Fundamental Duties are non-justiciable.
+
+> ⚠️ **Provenance note for §4A (added in this pass):** the political-obligation grid, the Dworkin module and the disobedience ladder are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Locke, Hart, Rawls, Simmons, Raz, Dworkin, Thoreau, Gandhi or Ambedkar, and no empirical claim is made about any Indian government, party or period. The Austin → Kelsen → Hart jurisprudential sequence is **not** developed here; it is owned by [Sovereignty](Sovereignty.md) §3A.

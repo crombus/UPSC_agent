@@ -5,7 +5,8 @@ Generates premium, register-style revision PDFs from structured topic data.
 Each topic renders as a card:
   - Header: relevance badge + title + GS paper
   - News Trigger box (full width)
-  - Intro & Origin  |  Timeline (flat two-column table, no nesting)
+  - Quick Notes: Intro & Origin | Timeline (approved flat two-column layout)
+  - Final register modules: topic-specific revision headings (no forced Intro/Origin)
   - Key Data Table (full width)
   - Static Theory (full width)
   - Must-Know Facts  |  UPSC Traps (flat two-column table)
@@ -27,7 +28,7 @@ from reportlab.graphics.shapes import (
 )
 from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle,
-    CondPageBreak, HRFlowable, Image, KeepTogether, PageBreak,
+    CondPageBreak, HRFlowable, Image, KeepTogether, PageBreak, Preformatted,
 )
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_LEFT, TA_CENTER, TA_RIGHT
@@ -148,7 +149,14 @@ _PAD = [
     ("VALIGN",        (0,0), (-1,-1), "TOP"),
 ]
 
-def full_box(rows, bg, border, cw=None, treatment="rail"):
+def full_box(
+    rows,
+    bg,
+    border,
+    cw=None,
+    treatment="rail",
+    keep_together=True,
+):
     """Single-column panel with editorial rather than worksheet-style borders."""
     t = Table(rows, colWidths=cw or [USABLE])
     commands = _PAD + [("BACKGROUND", (0,0), (-1,-1), bg)]
@@ -161,7 +169,7 @@ def full_box(rows, bg, border, cw=None, treatment="rail"):
             ("LINEBELOW", (0,-1), (-1,-1), 0.35, P["border"]),
         ])
     t.setStyle(TableStyle(commands))
-    return KeepTogether([t])
+    return KeepTogether([t]) if keep_together else t
 
 def data_table(headers, rows):
     """Key-data table with header row."""
@@ -272,19 +280,53 @@ def concept_map(spec):
 
 
 def flow_diagram(spec):
-    """Vertical process diagram for causal chains and answer logic."""
+    """Content-sized process diagram for causal chains and answer logic."""
     steps = spec.get("steps", [])
     story = [sec_label("🔄", spec.get("title", "Flow Diagram"), P["teal"])]
-    for i, step in enumerate(steps, 1):
-        if isinstance(step, dict):
-            title = step.get("title", f"Step {i}")
-            text = step.get("text", "")
-            content = f"<b>{i}. {title}</b><br/>{text}"
-        else:
-            content = f"<b>{i}.</b> {step}"
 
+    def step_content(index, step):
+        if isinstance(step, dict):
+            title = step.get("title", f"Step {index}")
+            text = step.get("text", "")
+            return f"<b>{index}. {title}</b><br/>{text}"
+        return f"<b>{index}.</b> {step}"
+
+    layout = str(spec.get("layout", "auto")).lower()
+    if len(steps) > 4 and layout not in {"vertical", "full-page", "full_page"}:
+        cells = [
+            p(step_content(index, step),
+              S(fontSize=8.2, leading=11.2, alignment=TA_LEFT))
+            for index, step in enumerate(steps, 1)
+        ]
+        if len(cells) % 2:
+            cells.append(p(""))
+        rows = [cells[index:index + 2] for index in range(0, len(cells), 2)]
+        grid = Table(rows, colWidths=[USABLE * 0.49, USABLE * 0.49],
+                     hAlign="CENTER")
+        grid.setStyle(TableStyle([
+            ("BACKGROUND", (0,0), (-1,-1), P["teal_bg"]),
+            ("BOX", (0,0), (-1,-1), 0.65, P["border_2"]),
+            ("INNERGRID", (0,0), (-1,-1), 0.35, P["border"]),
+            ("LINEBEFORE", (0,0), (0,-1), 3.0, P["teal"]),
+            ("LINEBEFORE", (1,0), (1,-1), 3.0, P["teal"]),
+            ("VALIGN", (0,0), (-1,-1), "TOP"),
+            ("TOPPADDING", (0,0), (-1,-1), 6),
+            ("BOTTOMPADDING", (0,0), (-1,-1), 6),
+            ("LEFTPADDING", (0,0), (-1,-1), 8),
+            ("RIGHTPADDING", (0,0), (-1,-1), 8),
+        ]))
+        story.append(grid)
+        story.append(p(
+            spec.get("caption", "Reading order: left to right, then top to bottom."),
+            S(fontSize=7.2, textColor=P["subtext"], alignment=TA_CENTER,
+              fontName=FONT_ITALIC, leading=9),
+        ))
+        return [KeepTogether(story)]
+
+    for i, step in enumerate(steps, 1):
         box = Table(
-            [[p(content, S(fontSize=8.5, leading=12, alignment=TA_CENTER))]],
+            [[p(step_content(i, step),
+                S(fontSize=8.5, leading=12, alignment=TA_CENTER))]],
             colWidths=[USABLE * 0.78],
             hAlign="CENTER",
         )
@@ -299,6 +341,45 @@ def flow_diagram(spec):
         if i < len(steps):
             story.append(p("v", S(fontSize=13, textColor=P["teal"],
                                   alignment=TA_CENTER, leading=14)))
+    return [KeepTogether(story)]
+
+
+def ascii_visual(spec):
+    """Render an ASCII map or flow at its measured content height."""
+    if isinstance(spec, str):
+        spec = {"text": spec}
+    text = str(spec.get("text", "")).rstrip()
+    if not text:
+        return []
+
+    lines = text.splitlines() or [text]
+    longest = max(len(line.expandtabs(4)) for line in lines)
+    font_size = max(7.0, min(8.0, (USABLE - 24) / max(longest * 0.61, 1)))
+    diagram = Preformatted(
+        text,
+        S(
+            fontName="Courier",
+            fontSize=font_size,
+            leading=font_size * 1.28,
+            textColor=P["text"],
+            backColor=P["light"],
+            borderColor=P["border_2"],
+            borderWidth=0.65,
+            borderPadding=9,
+            spaceAfter=3,
+        ),
+    )
+    story = [
+        sec_label("", spec.get("title", "Visual / Answer Logic"), P["teal"]),
+        diagram,
+    ]
+    caption = str(spec.get("caption", "")).strip()
+    if caption:
+        story.append(p(
+            caption,
+            S(fontSize=7.3, textColor=P["subtext"], alignment=TA_CENTER,
+              fontName=FONT_ITALIC, leading=9.2),
+        ))
     return [KeepTogether(story)]
 
 
@@ -731,8 +812,30 @@ def build_topic_card(topic):
     """Return a list of ReportLab flowables for one topic."""
     rel   = topic.get("relevance", "MEDIUM").upper()
     color = RELEVANCE_COLOR.get(rel, P["grey"])
+    final_register = bool(topic.get("final_register"))
+    section_labels = topic.get("section_labels", {})
+
+    focus = re.sub(
+        r"^(?:\d+\.\s*)?FINAL(?:\s+CONSOLIDATED)?\s+REGISTER(?:\s+NOTES)?"
+        r"(?:\s+\d+/\d+)?\s*[-.]\s*",
+        "",
+        topic["title"],
+        flags=re.IGNORECASE,
+    ).strip()
+    focus = focus or topic["title"]
+
+    def card_label(key, quick_notes_default, final_suffix):
+        if section_labels.get(key):
+            return section_labels[key]
+        if final_register:
+            return f"{focus} - {final_suffix}"
+        return quick_notes_default
+
     story = []
-    story.append(CondPageBreak(5.6 * cm))
+    if topic.get("page_break_before"):
+        story.append(PageBreak())
+    else:
+        story.append(CondPageBreak(5.6 * cm))
 
     # ── 1. HEADER ─────────────────────────────────────────────────────────────
     badge = p(f"{rel}",
@@ -763,18 +866,27 @@ def build_topic_card(topic):
     if topic.get("news_trigger"):
         story.append(spacer(0.12))
         story.append(full_box([
-            [sec_label("📰", "News Trigger", P["news_bdr"])],
+            [sec_label(
+                "📰",
+                card_label("news_trigger", "News Trigger", "Revision Focus"),
+                P["news_bdr"],
+            )],
             [p(topic["news_trigger"], S(fontSize=9, leading=13))],
         ], P["news_bg"], P["news_bdr"], treatment="rail"))
 
-    # ── 3. INTRO & ORIGIN  |  TIMELINE  (flat two-column) ────────────────────
+    # ── 3. OPENING / BACKGROUND  |  TIMELINE ─────────────────────────────────
     has_intro    = topic.get("intro") or topic.get("origin")
     has_timeline = bool(topic.get("timeline"))
 
     if has_intro or has_timeline:
         story.append(spacer(0.12))
 
-        left_rows = [sec_label("📖", "Intro & Origin", P["blue"])]
+        opening_label = (
+            card_label("opening", "Intro & Origin", "Revision Core")
+            if final_register
+            else "Intro & Origin"
+        )
+        left_rows = [sec_label("📖", opening_label, P["blue"])]
         if topic.get("intro"):
             left_rows.append(p(topic["intro"], S(fontSize=8.5, leading=13)))
         if topic.get("origin"):
@@ -783,7 +895,11 @@ def build_topic_card(topic):
                                  fontName=FONT_ITALIC, leading=12)))
 
         if has_timeline:
-            right_rows = [sec_label("🕐", "Timeline", P["blue"])]
+            right_rows = [sec_label(
+                "🕐",
+                card_label("timeline", "Timeline", "Chronology"),
+                P["blue"],
+            )]
             for item in topic["timeline"]:
                 yr = item.get("year", "")
                 ev = item.get("event", "")
@@ -804,6 +920,15 @@ def build_topic_card(topic):
     if topic.get("generated_image"):
         story.append(spacer(0.12))
         story.extend(generated_illustration(topic["generated_image"]))
+
+    if topic.get("ascii_visual"):
+        story.append(spacer(0.12))
+        visual = dict(topic["ascii_visual"])
+        if final_register and visual.get("title") in {
+            None, "", "Visual / Answer Logic", "Visual / Answer Framework"
+        }:
+            visual["title"] = card_label("visual", "Visual / Answer Logic", "Visual Spine")
+        story.extend(ascii_visual(visual))
 
     if topic.get("visual_timeline"):
         story.append(spacer(0.12))
@@ -830,22 +955,40 @@ def build_topic_card(topic):
         tbl = topic["table"]
         story.append(spacer(0.12))
         story.append(KeepTogether([
-            sec_label("📊", "Key Data", P["blue"]),
+            sec_label(
+                "📊",
+                card_label("table", "Key Data", "Evidence and Recall Matrix"),
+                P["blue"],
+            ),
             data_table(tbl["headers"], tbl["rows"]),
         ]))
 
     # ── 6. FLOW DIAGRAM ───────────────────────────────────────────────────────
     if topic.get("flow_diagram"):
         story.append(spacer(0.12))
-        story.extend(flow_diagram(topic["flow_diagram"]))
+        flow = dict(topic["flow_diagram"])
+        if final_register and flow.get("title") in {
+            None, "", "Visual / Answer Logic", "Visual / Answer Framework"
+        }:
+            flow["title"] = card_label("visual", "Flow Diagram", "Visual Spine")
+        story.extend(flow_diagram(flow))
 
     # ── 7. STATIC THEORY ──────────────────────────────────────────────────────
     if topic.get("static_theory"):
         story.append(spacer(0.12))
-        rows = [[sec_label("📚", "Static Theory", P["blue"])]]
+        rows = [[sec_label(
+            "📚",
+            card_label("static_theory", "Static Theory", "Causal and Comparative Logic"),
+            P["blue"],
+        )]]
         for pt in topic["static_theory"]:
             rows.append([p(f"- {pt}", S(fontSize=8.5, leading=13))])
-        story.append(full_box(rows, P["light"], P["blue"]))
+        story.append(full_box(
+            rows,
+            P["light"],
+            P["blue"],
+            keep_together=len(topic["static_theory"]) <= 12,
+        ))
 
     # ── 8. MEMORY HOOK ────────────────────────────────────────────────────────
     if topic.get("memory_hook"):
@@ -865,12 +1008,20 @@ def build_topic_card(topic):
         story.append(CondPageBreak(6.5 * cm))
         story.append(spacer(0.12))
 
-        left_rows = [sec_label("✅", "Must-Know Facts", P["green"])]
+        left_rows = [sec_label(
+            "✅",
+            card_label("facts", "Must-Know Facts", "Rapid Recall"),
+            P["green"],
+        )]
         for i, f in enumerate(facts, 1):
             left_rows.append(p(f"<b>{i}.</b> {f}",
                                S(fontSize=8.5, textColor=P["green"], leading=13)))
 
-        right_rows = [sec_label("⚠️ ", "UPSC Traps", P["red"])]
+        right_rows = [sec_label(
+            "⚠️ ",
+            card_label("traps", "UPSC Traps", "Error Checks"),
+            P["red"],
+        )]
         for tr in traps:
             w = tr.get("wrong", "")
             c = tr.get("correct", "")
@@ -880,7 +1031,7 @@ def build_topic_card(topic):
                                S(fontSize=8, textColor=P["green"], leading=12,
                                  spaceAfter=3)))
 
-        if facts and traps:
+        if facts and traps and len(facts) + (2 * len(traps)) <= 24:
             panel = Table([[left_rows, right_rows]],
                           colWidths=[USABLE * 0.55, USABLE * 0.45])
             panel.setStyle(TableStyle(_PAD + [
@@ -893,12 +1044,34 @@ def build_topic_card(topic):
                 ("LEFTPADDING", (1,0), (1,0), 10),
             ]))
             story.append(KeepTogether([panel]))
+        elif facts and traps:
+            story.append(full_box(
+                [[row] for row in left_rows],
+                P["green_bg"],
+                P["green"],
+                keep_together=len(facts) <= 18,
+            ))
+            story.append(spacer(0.12))
+            story.append(full_box(
+                [[row] for row in right_rows],
+                P["red_bg"],
+                P["red"],
+                keep_together=len(traps) <= 8,
+            ))
         elif facts:
             story.append(full_box(
-                [[row] for row in left_rows], P["green_bg"], P["green"]))
+                [[row] for row in left_rows],
+                P["green_bg"],
+                P["green"],
+                keep_together=len(facts) <= 18,
+            ))
         else:
             story.append(full_box(
-                [[row] for row in right_rows], P["red_bg"], P["red"]))
+                [[row] for row in right_rows],
+                P["red_bg"],
+                P["red"],
+                keep_together=len(traps) <= 8,
+            ))
 
     # ── 10. CONCEPT LINKS ────────────────────────────────────────────────────
     if topic.get("link_map"):
@@ -912,11 +1085,19 @@ def build_topic_card(topic):
     if mains or link:
         story.append(spacer(0.12))
         left_cell = [
-            sec_label("📝", "Mains Angle", P["navy"]),
+            sec_label(
+                "📝",
+                card_label("mains_angle", "Mains Angle", "PYQ and Answer Route"),
+                P["navy"],
+            ),
             p(mains, S(fontSize=8.5, leading=13, fontName=FONT_ITALIC)),
         ]
         right_cell = [
-            sec_label("🔗", "Study Link", P["amber"]),
+            sec_label(
+                "🔗",
+                card_label("static_link", "Study Link", "Next Revision Link"),
+                P["amber"],
+            ),
             p(link, S(fontSize=8.5, textColor=P["amber"], leading=13)),
         ]
         panel = Table([[left_cell, right_cell]],
@@ -932,8 +1113,14 @@ def build_topic_card(topic):
         ]))
         story.append(KeepTogether([panel]))
 
-    story.append(spacer(0.4))
-    story.append(HRFlowable(width="100%", thickness=0.5, color=P["border"], spaceAfter=2))
+    if not topic.get("suppress_trailing_rule"):
+        story.append(spacer(0.4))
+        story.append(HRFlowable(
+            width="100%",
+            thickness=0.5,
+            color=P["border"],
+            spaceAfter=2,
+        ))
     return story
 
 
@@ -1027,9 +1214,15 @@ def build_pdf(data: dict, out_path: str):
         for topic in topics:
             story.extend(build_topic_card(topic))
 
-    story.append(spacer(0.8))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=P["red"], spaceAfter=6))
-    story.append(p("End of Register Notes - UPSC Agent / Copilot CLI", FOOTER_S))
+    if not data.get("suppress_end_marker"):
+        story.append(spacer(0.8))
+        story.append(HRFlowable(
+            width="100%",
+            thickness=1.5,
+            color=P["red"],
+            spaceAfter=6,
+        ))
+        story.append(p("End of Register Notes - UPSC Agent / Copilot CLI", FOOTER_S))
 
     doc.build(story, onFirstPage=on_page, onLaterPages=on_page)
     print(f"PDF saved: {out_path}")

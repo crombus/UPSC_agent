@@ -228,6 +228,28 @@ strategic autonomy to multi-alignment.
   to choose." Discuss with reference to India's contemporary engagement with
   major powers and multilateral platforms.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+- **Demand decoder:** for `Discuss`, show autonomy's instruments and limits; for
+  `Critically examine`, test autonomy against dependence and external pressure; for
+  `Evaluate`, judge outcomes rather than merely listing partnerships.
+- **Evidence chain:** non-alignment -> post-Cold-War strategic autonomy ->
+  multi-alignment through Quad/BRICS/SCO/G20 -> issue-based coalitions.
+- **Counter-evidence:** defence dependence, energy exposure, technology controls and
+  asymmetric neighbours constrain freedom of action.
+- **Named counter-evidence:** the S-400/CAATSA exposure and Russian-origin
+  spares concentration (topic 03); Chabahar's reversible US sanctions exception
+  (topics 05-06); EU CBAM and technology/export controls (topics 03 and 11);
+  Teesta/federal constraints and neighbourhood asymmetry (topic 02).
+
+**10 marks:** definition, qualified thesis, three instruments and one constraint.
+**15 marks:** add historical evolution, four named cases and a counterpoint. **20 marks:**
+compare non-alignment, strategic autonomy and multi-alignment; integrate security,
+economy, technology, Global South and institutional reform.
+
+> **Reasoned verdict:** Strategic autonomy is not equidistance or isolation; it is the
+> capacity to make issue-specific choices while reducing dependencies that narrow them.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md`.

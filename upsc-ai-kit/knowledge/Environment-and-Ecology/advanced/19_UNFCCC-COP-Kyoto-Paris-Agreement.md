@@ -210,7 +210,7 @@ the newly established Loss and Damage pillar.
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2021 | GS-III | 17 | COP26 major outcomes and India's climate commitments at Glasgow | Describe · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-II | 20 | Clean energy and India's climate policy in international fora | Describe briefly · 15 marks · 250 words | Cross-cutting; climate regime and multilateral fora both named in the stem | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 20 | Clean energy and India's climate policy in international fora | Describe briefly · 15 marks · 250 words | IR Core owns diplomatic/institutional dimension | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-III | 17 | Global warming greenhouse gas effects and Kyoto Protocol measures | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support

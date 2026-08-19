@@ -51,7 +51,7 @@ relevance + evidence + flow + language + completion
 - The locally audited 2024 and 2025 papers require two essays, one from each displayed section, about 1000–1200 words each.
 - The 2024 paper prints `125 × 2 = 250`; do not infer an unprinted year-specific marks split from it.
 - Do not invent an official paragraph count, examiner weightage or marking rubric.
-- The 2024–2025 prompts are locally V1-verified; older corpus wording is V2 until checked against the official paper.
+- The 2018–2025 prompts are locally V1-verified; 2013–2017 wording is V2 until checked against the official paper.
 - Do not silently correct printing defects in quoted prompts.
 - Do not attribute a prompt to an author unless independently verified.
 
@@ -405,6 +405,10 @@ Move across scales only when the same mechanism genuinely travels:
 | Indian pluralism | Diversity, accommodation and common citizenship | Internal domination cannot be ignored |
 
 > **Example rule:** State the mechanism and limitation. Do not use India only as celebratory decoration.
+>
+> **Full Core bank:** `basic/12` now contains 19 cross-domain,
+> source-status-tagged illustrations. Refresh every dated `📰` example
+> against its official owner before reuse.
 
 ---
 
@@ -414,14 +418,15 @@ Move across scales only when the same mechanism genuinely travels:
 
 `paper scan -> topic choice -> decode -> argument plan -> draft -> review`
 
-Do not treat any minute allocation as an official rule. In practice:
+The official paper baseline is **180 minutes**. This starter split is
+pedagogical, not official:
 
-- protect planning time;
-- reserve completion time for both essays;
-- avoid over-writing the first essay;
-- monitor paragraph-level relevance;
-- keep a final evidence and language check;
-- move on when marginal additions no longer strengthen the thesis.
+`10 selection + (15 plan + 60 draft + 10 revise) × 2 = 180`
+
+- Minute 25: Essay 1 planned.
+- Minute 95: Essay 1 closed and revised; this is a hard cap.
+- Minute 180: both essays complete.
+- A mock means two complete essays; a partial draft is only a micro-drill.
 
 ### Planning sheet
 
@@ -635,4 +640,3 @@ Use Advanced only after Core is secure:
 | 14 | [Language, Style and Functional Visuals](basic/14_Language-Style-and-Functional-Visuals.md) | [Advanced](advanced/14_Language-Style-and-Functional-Visuals.md) |
 | 15 | [Self-Evaluation and Internal Practice Rubric](basic/15_Self-Evaluation-and-Internal-Practice-Rubric.md) | [Advanced](advanced/15_Self-Evaluation-and-Internal-Practice-Rubric.md) |
 | 16 | [Practice Loops, PYQ Lab and Revision System](basic/16_Practice-Loops-PYQ-Lab-and-Revision-System.md) | [Advanced](advanced/16_Practice-Loops-PYQ-Lab-and-Revision-System.md) |
-

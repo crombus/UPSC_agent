@@ -33,13 +33,19 @@
 
 ## How this folder works
 
-- **Two tiers per topic:** `basic/NN` builds the essential vocabulary,
-  classification and source-grounded narrative for each area of art and
-  culture; `advanced/NN` adds comparative morphology, patronage analysis,
-  evidence interpretation, contested attribution, conservation/safeguarding
-  trade-offs and a Mains-ready answer architecture. Advanced does not repeat
-  basic — it analyses what basic establishes. **Read `basic/NN` and
-  `advanced/NN` for the same number as a matched pair.**
+- **Two tiers per topic:** `basic/NN` is the **answer-complete Core**: it
+  builds the essential vocabulary, classification and source-grounded
+  narrative for each area of art and culture **and** carries a
+  topic-specific answer-architecture section (directive/demand map,
+  qualified thesis options, mark-scaled structures, named evidence banks
+  by demand family, comparison and causation mechanisms, criticism and
+  variation, verdict scaffolds, and factual-risk controls). Every
+  paper-essential example, comparison and answer route lives in
+  `basic/NN`. `advanced/NN` is **optional enrichment only** —
+  historiographical framing, contested-attribution nuance, extra
+  micro-detail and additional comparative reading. **Skipping `advanced/`
+  cannot lower a mark.** Read `basic/NN` first; read `advanced/NN` for the
+  same number only when you want depth beyond what a paper requires.
 - **Revise by identification:** Before a test, use
   `REVISION-CHART_Forms-Styles-and-Distinctive-Features.md` for chronology,
   morphology, materials, techniques, regional schools, institutions and
@@ -111,9 +117,25 @@ PLACE / ECOLOGY ──┘                                    │
 5. **Modern mass art:** `15` — cinema as a distinct composite medium,
    institutional field and vehicle of regional representation and soft power.
 
-## Direct and adjacent PYQ index (2024-2025 GS Paper I, audited)
+## Direct and adjacent PYQ index (2018-2025 GS Paper I, audited)
 
-**Direct:**
+**Direct — 2018-2023 (promoted into Core in the final pass; Core routing
+supersedes the ledger's legacy `advanced/` pointers):**
+- 2018 Q1: safeguarding Indian art heritage as a present need (Discuss,
+  10) → **Topic 14 §13.0**.
+- 2019 Q1: Central Asian and Greco-Bactrian elements in Gandhara art
+  (Highlight, 10) → **Topic 06 §13.6B**.
+- 2020 Q1: rock-cut architecture as a source for early Indian art and
+  history (Discuss, 10) → **Topic 02 §13.0**.
+- 2020 Q11: Indian philosophy and tradition in shaping monuments and art
+  (Discuss, 15) → **Topic 13 §13.6B**.
+- 2022 Q1: medieval Indian temple sculptures as evidence of social life
+  (How will you explain, 10) → **Topic 03 §13.10** + **Topic 06 §13.6C**.
+- 2022 Q13: significance of lion and bull figures in Indian mythology, art
+  and architecture (Discuss, 15) → **Topic 06 §13.6A**, supported by
+  Topic 02 §§13.6C-13.6D and Topic 03 §13.9A.
+
+**Direct — 2024-2025:**
 - 2024 Q2: "Estimate the contribution of Pallavas of Kanchi for the
   development of art and literature of South India." → Topics 03, 07, 11.
 - 2024 Q11: "Though the great Cholas are no more yet their name is still
@@ -123,6 +145,10 @@ PLACE / ECOLOGY ──┘                                    │
   Topic 01.
 - 2025 Q3: "The sculptors filled the Chandella artform with resilient vigor
   and breadth of life. Elucidate." → Topics 03 (dossier) and 06.
+
+**Total: 10 direct GS-I Mains routes**, all Core-answerable. The complete
+mapping, with each demand's directive, marks and owning Core section, is
+in [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](OFFICIAL-UPSC-SYLLABUS-MAPPING.md).
 
 **Adjacent-only (primary ownership elsewhere; this folder supports, does
 not claim, the answer):**
@@ -137,16 +163,92 @@ not claim, the answer):**
 
 ## Chandella priority note
 
-Topic 03 carries a **non-negotiable, dedicated Chandella/Khajuraho dossier**
-in both tiers (a complete case dossier in
-`advanced/03_Temple-Architecture-and-Chandella-Khajuraho.md`), because it is the
-direct 2025 sculpture-specific question—and one of two direct 2025 Art &
-Culture questions, alongside Harappan architecture—and because Khajuraho is the
+Topic 03 carries a **non-negotiable, dedicated Chandella/Khajuraho
+dossier in the Core file itself**
+(`basic/03_Temple-Architecture-and-Chandella-Khajuraho.md`, Sections 4-5
+and the evidence banks in Section 13), because it is the direct 2025
+sculpture-specific question—and one of two direct 2025 Art & Culture
+questions, alongside Harappan architecture—and because Khajuraho is the
 clearest available case for mature Nagara morphology, plural Hindu-Jain
-patronage and UNESCO World Heritage management together. Cross-linked from
+patronage and UNESCO World Heritage management together. The Core file
+alone supplies the morphology, the sculptural programme, the plural
+patronage breakdown, the "breadth of life" evidence, the erotic-imagery
+proportion and interpretive cautions, the Konark/Bhubaneswar comparison,
+the rediscovery record and the conservation/status anchor.
+`advanced/03_Temple-Architecture-and-Chandella-Khajuraho.md` adds optional
+historiography and extra comparative depth only. Cross-linked from
 topics 06 (sculpture), 09 (dance-sculpture links via mithuna/abhinaya
 postures) and 14 (1986 UNESCO inscription, ASI/AMASR management,
 conservation and tourism).
+
+## Answer-worthiness status
+
+- **Audit file:** [ANSWER-WORTHINESS-AUDIT.md](ANSWER-WORTHINESS-AUDIT.md)
+  (2026-08-13, rewritten after a **third, final corrective pass**), written
+  against `../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md`.
+- **Verdict history, stated honestly — three review cycles:**
+  1. The **first pass** certified this folder ✅ on a 48-question stress
+     test (45 PASS / 3 PARTIAL / 0 FAIL).
+  2. An **independent hostile review overturned** that verdict on three
+     blockers — southern/Deccan temple schools with no named Core
+     examples, no named Bhakti/Vedanta/Sufi evidence, and routed objective
+     facts that existed only inside generated PYQ blocks. All three were
+     repaired in Core and a 51-question hostile re-test followed.
+  3. A **second hostile review overturned that verdict too**, on four
+     further blockers: **two incorrect official award strings** in
+     `basic/05` — **"Padma Vibhushan 2020"** wrongly given to B.V. Doshi
+     (the 2020 award was Padma Bhushan; the correct 2023 posthumous Padma
+     Vibhushan was initially over-corrected away), and a **Padma Shri
+     1989** wrongly given to Raj Rewal (who holds no Padma award at all);
+     **six 2018-2023 GS-I Mains demands routed only to `advanced/`** and
+     therefore absent from Core; **musical instruments absent from the
+     folder altogether**; and a set of coupled factual and structural
+     defects, including a **false truncation claim** on the Hallisalasya
+     sentence and a **missing `### 13.10` heading** in `basic/03`. All are
+     repaired in Core. ⚠️ **Post-final factual corrections (2026-08-13):**
+     B.V. Doshi's **complete official Padma record — Padma Shri 1976,
+     Padma Bhushan 2020, Padma Vibhushan 2023 (posthumous)** — is now
+     established everywhere; the prohibition is narrowed to the specific
+     false string "Padma Vibhushan 2020"; the §13.8 heading in `basic/08`
+     is inserted; `basic/03`'s `§13.7` cross-reference corrected to
+     `§13.7A`; Teejan Bai's Padma Shri corrected to 1988; and
+     `ANSWER-WORTHINESS-AUDIT.md`'s §5.4 refusal pointer corrected from
+     `basic/15 §11.6` to **`§11.8`**. See audit §§C-22, R-22 and §10.
+- **Core independence — Basic is answer-complete:** all 15 `basic/` files
+  carry a topic-specific answer-architecture section, and **all ten direct
+  GS-I Mains demands routed to this folder are answerable from `basic/`
+  alone** — the four 2024-25 demands (2024 Q2 Pallava, 2024 Q11 Chola,
+  2025 Q1 Harappan, 2025 Q3 Chandella) and the six 2018-2023 demands
+  promoted into Core in the final pass (2018 Q1 safeguarding art heritage
+  → `basic/14` §13.0; 2019 Q1 Gandhara's Central Asian and Greco-Bactrian
+  elements → `basic/06` §13.6B; 2020 Q1 rock-cut architecture as a source
+  → `basic/02` §13.0; 2020 Q11 philosophy shaping monuments and art →
+  `basic/13` §13.6B; 2022 Q1 medieval temple sculpture as social evidence
+  → `basic/03` §13.10 with `basic/06` §13.6C; 2022 Q13 lion and bull
+  figures → `basic/06` §13.6A).
+- **Core routing supersedes legacy Advanced pointers.** The controlling
+  ledger `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md` points those six
+  demands at `advanced/02`, `advanced/06`, `advanced/13` and
+  `advanced/14`. Those pointers are **legacy**. Ownership is asserted in
+  each Core file's `§13.0`, in
+  [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
+  and in the audit's routed-fact ledger; the generated blocks inside the
+  Advanced files are machine-produced and are preserved byte-intact.
+- **Routed-fact discipline:** every routed PYQ demand in every generated
+  block is tracked in audit **§7.0** against a **named Core section**. A
+  generated block is an accounting entry, not coverage.
+- **Advanced:** optional. **No Advanced file was modified in any of the
+  three passes**, and no Core answer depends on one — the official syllabus
+  mapping states this as an explicit ownership-tier rule.
+- **Bounded gaps, all disclosed and prohibited rather than filled:** an
+  individual vocalist's gharana (Mallikarjun Mansur), Oeko-Tex criteria,
+  FCAT's current status, film political-economy data, the Somnath-Al-Biruni
+  link and *Pran Pratishtha*, Lal Ded beyond her regional attribution,
+  **Raj Rewal's works — he holds no verified award of any kind in this
+  folder**, **Eknath's exact lifespan (two conflicting source dates)**,
+  living terracotta centres, named stepwells other than Rani-ki-Vav,
+  Syrian Christian church architecture, PRASHAD and HRIDAY, the absence of
+  maps, and the local PDF's clipped wide tables.
 
 ## Boundaries with other subjects
 

@@ -163,6 +163,26 @@ source and date rather than as a static, unchanging number.
   problem.
 - ✅ `17_Climate-Change-Science-Greenhouse-Effect.md` — carbon-cycle disruption as the driver
   of anthropogenic warming.
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Separate **reservoir**, **transfer process**, **human acceleration** and **policy lever** before writing. Do not use a pyramid to answer a cycle question unless trophic stock is actually asked.
+- **Thesis:** human activity changes the rate and balance of cycles; carbon, nitrogen and phosphorus therefore create different externalities and require source-specific regulation.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Carbon and nutrient disruption are not one generic “pollution” problem. | **Fossil-fuel combustion** accelerates the carbon cycle → atmospheric forcing; **fertiliser runoff** accelerates nitrogen/phosphorus loading → eutrophication. | A global warming datum is not evidence of an India-specific river outcome. |
+| Phosphorus needs upstream stewardship. | **Rock weathering–mining–fertiliser–runoff chain** → phosphorus has no significant atmospheric phase and is difficult to recover after diffuse loss. | “Limiting nutrient” depends on the ecosystem; do not declare it universal. |
+| Pyramid shape must match the measure. | **Aquatic phytoplankton** can support higher standing consumer biomass through rapid turnover → biomass may invert; energy still dissipates at each transfer. | The roughly 10% transfer rule is an average heuristic, not a fixed law. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** draw the relevant cycle and show one altered link, then give a matching remedy (fertiliser precision/buffer strips for nutrients; emission reduction for carbon).
+- **15 marks:** compare gaseous and sedimentary cycles, add the eutrophication oxygen-depletion chain, and distinguish standing biomass from productivity.
+- **20 marks:** organise by food security, water quality, climate and governance; use CPCB/water-quality monitoring and agriculture-input policy as separate institutional levers; conclude with input reduction and recovery, not downstream treatment alone.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

@@ -115,6 +115,10 @@ SC-welfare policy.
   opinions, not a current SC/ST exclusion rule; any welfare use must therefore be
   evidence-based and lawfully designed.
 
+- ✅ **Scale anchor:** Scheduled Castes formed 16.6% of India's population in Census
+  2011. Use current NCRB atrocity data only with year and denominator; registration can
+  rise because victimisation rises, reporting improves, or both.
+
 ## 6. Must-Know Facts for Prelims
 
 - ✅ PoA Act, 1989 provides enhanced penalties for listed atrocity offences against
@@ -182,6 +186,24 @@ SC-welfare policy.
 - ⚠️ **Mains (15 marks):** The Supreme Court's Davinder Singh ruling permits sub-
   classification within Scheduled Castes. Discuss the implications for targeted welfare
   delivery and political representation.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+- **Law bank:** Articles 14-17, 23, 46, 330/332 and 338; PCR Act, 1955; SC/ST
+  (Prevention of Atrocities) Act, 1989 and its special-court, relief and witness
+  architecture.
+- **Data:** NCRB atrocity data show persistence, but reporting also reflects registration;
+  conviction must be read with pendency, investigation and witness vulnerability.
+- **Intersectionality:** Dalit women face caste, gender violence and economic dependence.
+- **Mobility:** reservation, scholarships and credit widen entry, while discrimination,
+  landlessness, occupational segregation and violence constrain conversion.
+
+**10 marks:** right/law plus 2-3 barriers. **15 marks:** prevention, prosecution, relief,
+representation and mobility. **20 marks:** untouchability, atrocity, assets, education,
+labour, gender and institutions with data cautions.
+
+> **Reasoned verdict:** Protective law must be joined to material mobility, recognition
+> and credible local enforcement.
 
 ## 12. Study links
 

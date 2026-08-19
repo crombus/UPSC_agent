@@ -112,6 +112,13 @@ recognising that reform itself remains unresolved rather than imminent.
   progress" in the IGN, states an intention to work "with a view to developing a
   consolidated model... leading to text-based negotiations," and stresses that
   "consensus is not a decision-making requirement."
+- ⚠️ **Uniting for Consensus:** a coalition including states that oppose or
+  question adding new permanent seats and instead favours expansion centred on
+  elected/non-permanent representation.
+  **Significance:** UNSC reform is blocked not only by P5 rivalry but also by
+  disagreement among the wider membership over the reform model.
+  **Limitation:** the coalition is not homogeneous, and its position should not
+  be reduced to opposition to any Council expansion.
 - 📰 **India's IGN intervention (20 April 2026):** delivered on the African
   model of Security Council reform. India aligned with the L.69 and G4
   statements and, nationally, supported the African model, expansion in both
@@ -155,7 +162,120 @@ recognising that reform itself remains unresolved rather than imminent.
   reform is a parallel demand alongside UNSC reform; Economy owns operational
   lending and trade mechanics.
 
+### UNESCO and WHO as specialised-agency tests
+
+- ✅ **UNESCO:** created in 1945 to advance cooperation in education, science,
+  culture and communication. Its General Conference includes all members, its
+  58-member Executive Board provides oversight and its Secretariat is led by
+  the Director-General. UNESCO administers the 1972 World Heritage Convention
+  through the World Heritage Committee/List.
+- ✅ **Funding and withdrawal case:** the United States announced withdrawal in
+  2017, effective **31 December 2018**, returned in 2023 with an arrears-payment
+  plan, and notified another withdrawal in July 2025 to take effect only at the
+  end of **December 2026**.
+  **Significance:** specialised agencies are vulnerable to major-power funding
+  and legitimacy choices.
+  **Limitation/status caution:** as of 3 August 2026 the US was still a UNESCO
+  member; notification is not completed withdrawal.
+- 📰 **India:** India was re-elected to UNESCO's Executive Board for
+  **2025-29**.
+  **Significance:** institutional office creates agenda and oversight access.
+  **Limitation:** election does not establish delivery or control.
+- ✅ **WHO governance:** the World Health Assembly is the supreme
+  decision-making body, the Executive Board gives effect to its decisions and
+  the Secretariat implements programmes under the Director-General.
+- ✅ **COVID-19 performance:** the IHR Emergency Committee did not reach a
+  PHEIC determination at its first 22-23 January 2020 meeting; after
+  reconvening, WHO declared a PHEIC on **30 January 2020**.
+  **Significance:** WHO supplied a common alert, technical guidance and
+  coordination platform.
+  **Limitation:** divided early assessment, the February response gap and
+  dependence on state reporting/compliance exposed weak enforcement capacity.
+- ✅ **COVAX:** the WHO-Gavi-CEPI-UNICEF mechanism delivered close to two
+  billion vaccine doses to 146 economies before closing at the end of 2023.
+  **Significance:** multilateral pooling widened access.
+  **Limitation:** supply nationalism and unequal coverage showed that a
+  delivery mechanism could not by itself secure equity.
+- 📰 **Pandemic Agreement status:** adopted in May 2025, but not yet open for
+  signature or ratification as of 3 August 2026 because the PABS annex remained
+  unfinished; entry into force would require 60 ratifications.
+  **Significance:** it responds to coordination and equity failures.
+  **Limitation:** adoption without a completed annex or ratifications is not an
+  operating legal regime.
+
+### Financial-institution governance reform
+
+- ✅ **IMF quota reform:** the 16th General Review of Quotas, concluded in
+  December 2023, approved a **50% equiproportional quota increase**.
+  **Significance:** it strengthens quota-based resources and reduces reliance
+  on borrowing.
+  **Limitation:** equiproportional increase leaves relative quota and voting
+  shares unchanged, so the representation problem remains.
+- ✅ **India's IMF stake:** India's quota share is about **2.75%** and its voting
+  share about **2.63%**.
+  **Significance:** the gap between contemporary economic weight and formal
+  voice supports India's reform case.
+  **Limitation:** redistribution must be collectively negotiated and preserve
+  institutional credibility.
+- ⚠️ **World Bank reform:** shareholding and Evolution Roadmap debates combine
+  voice reform with a larger mandate for climate and global development
+  challenges; IDA21 mobilised **USD 100 billion for FY2025-28**.
+  **Significance:** reform concerns representation, mandate and resource scale.
+  **Limitation:** more finance does not itself redistribute voting power.
+- ⚠️ **Complementary institutions:** AIIB and the BRICS New Development Bank
+  widen emerging-economy financing and voice options.
+  **Significance:** they create complementary and competitive architecture.
+  **Limitation:** they supplement rather than replace the IMF/World Bank.
+
+### International law, peacekeeping and counter-terrorism distinctions
+
+- ✅ **ICJ versus ICC:** the ICJ is a UN principal organ deciding disputes
+  between states and giving advisory opinions. The ICC is a separate treaty
+  court created by the 1998 Rome Statute to prosecute individuals for specified
+  international crimes. India is **neither a signatory nor a State Party** to
+  the Rome Statute.
+- ✅ **UN peacekeeping:** Security Council mandates are implemented with
+  voluntarily contributed personnel under consent, impartiality and non-use of
+  force except in self-defence and defence of the mandate.
+  **Significance:** peacekeeping links collective-security authority with
+  ceasefire support, civilian protection and peacebuilding.
+  **Limitation:** mandates, resources, host-state consent and Council unity
+  constrain effectiveness.
+- ✅ **India's contribution:** more than **275,000 Indian personnel** have served
+  in over 50 UN peacekeeping missions since 1948; India deployed the first
+  all-women Formed Police Unit to Liberia in 2007.
+  **Significance:** contribution strengthens India's responsible-multilateralism
+  and reform claim.
+  **Limitation:** troop contribution does not automatically yield a permanent
+  Security Council seat.
+- ⚠️ **CTC versus FATF:** the UNSC CTC monitors resolution 1373 through UN
+  machinery; FATF is a separate intergovernmental standard-setter for
+  anti-money-laundering and counter-terrorist-financing systems.
+  **Significance:** they address different parts of counter-terrorism
+  governance.
+  **Limitation:** neither substitutes for national investigation and
+  prosecution.
+- ✅ **Climate-fora routing:** the UNFCCC supplies the treaty framework and COP
+  process; topic 11 owns India's NDC, CBDR-RC, climate-finance and trade-policy
+  evidence. This file owns institutional structure, not duplicate policy
+  detail.
+
 ## 5. Indian applications and examples
+
+### Multilateral technology governance
+
+- ✅ The Global Digital Compact was adopted in 2024 as an annex to the Pact for the
+  Future; it is a political framework for digital cooperation, not a binding global
+  technology treaty.
+- ✅ GPAI is a multistakeholder partnership focused on responsible, human-centric AI;
+  India has used it to argue for inclusive innovation and Global South participation.
+- ✅ ITU develops telecommunications/ICT standards and supports connectivity and
+  capacity; it is not an AI regulator with power over national systems.
+- ⚠️ Emerging UN AI dialogue can build shared principles and capacity, but fragmented
+  national regulation, unequal compute/data access and non-binding outcomes limit
+  enforceability.
+- ⚠️ India's core diplomatic position is that safety and human rights must be combined
+  with development access, multilingual inclusion and representation of developing states.
 
 - ✅ **Direct PYQ (2024 Q19):** *"Terrorism has become a significant threat to
   global peace and security." Evaluate the effectiveness of the United Nations
@@ -303,6 +423,25 @@ recognising that reform itself remains unresolved rather than imminent.
   West and entanglement of the USA vs. Russo-Chinese alliance." Examine and
   critically evaluate the East-West policy confrontations in this regard.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+Core owns the 2019 UNESCO, 2020 WHO and 2022 climate-fora institutional demands,
+superseding the older `advanced/12` routes.
+
+- **Institution test:** origin/legal basis -> membership/organs -> mandate/instruments ->
+  implementation/enforcement -> India role -> reform/legitimacy.
+- **Evidence:** UNGA/UNSC/G4/IGN, CTC/CTED, WHO/IHR/Pandemic Agreement, UNESCO, WTO,
+  IMF/World Bank, ICJ/ICC distinction, BBNJ and technology-governance fora.
+
+**10 marks:** structure and mandate plus one effectiveness judgment. **15 marks:** use
+4-6 institutional evidence units and enforcement/representation limits. **20 marks:**
+compare security, health, trade, finance, climate, law and digital governance; distinguish
+reform from replacement and adoption from legal operation.
+
+> **Reasoned verdict:** International institutions remain indispensable rule and
+> coordination platforms, but effectiveness depends on member-state compliance,
+> representative governance and enforceable or adequately financed mandates.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/12_UN-and-International-Institutions-Global-Governance.md`.
@@ -372,18 +511,21 @@ recognising that reform itself remains unresolved rather than imminent.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
 - **Years represented:** 2018, 2019, 2020, 2022, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 11
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 14
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 18 | Countries facing severe famine due to war and conflict | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | GS-II | 10 | UNESCO funding stress and the US withdrawal | Discuss · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | Prelims GS-I | 54 | UNCAC UNTOC and UNODC international conventions mandates | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-II | 9 | WHO role in global health security during the pandemic | Critically examine · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | Prelims GS-I | 10 | International declarations Alma-Ata Talanoa Under2 subject matching | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | GS-II | 20 | Clean energy and India's climate policy in international fora | Describe briefly · 15 marks · 250 words | IR Core owns diplomatic/institutional dimension | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 76 | UN Credentials Committee structure mandate and functioning | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 77 | International Polar Code purpose and scope | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 78 | UN General Assembly observer status and Permanent Observers | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
@@ -396,8 +538,11 @@ recognising that reform itself remains unresolved rather than imminent.
 ### What this owner must now support
 
 - Countries facing severe famine due to war and conflict
+- UNESCO funding stress and the US withdrawal
 - UNCAC UNTOC and UNODC international conventions mandates
+- WHO role in global health security during the pandemic
 - International declarations Alma-Ata Talanoa Under2 subject matching
+- Clean energy and India's climate policy in international fora
 - UN Credentials Committee structure mandate and functioning
 - International Polar Code purpose and scope
 - UN General Assembly observer status and Permanent Observers

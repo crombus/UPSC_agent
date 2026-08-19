@@ -292,30 +292,3 @@ reflects a deliberate rights-versus-readiness trade-off.
   warfare and information operations built on this CII foundation; topic
   10 for virtual-asset laundering; topic 12 for the broader intelligence/
   agency ecosystem.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2019, 2020, 2021, 2022
-- **Paper(s):** GS-III
-- **Routed question demands:** 4
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 10 | CyberDome Project and its utility in controlling internet crimes | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 9 | Types of cyber crimes and countermeasures against menace | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 10 | Cross-border cyber attacks impact on India's internal security | Analyse · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 19 | Cyber security elements challenges and India preparedness assessment | Examine · 15 marks · 250 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-### What this owner must now support
-
-- CyberDome Project and its utility in controlling internet crimes
-- Types of cyber crimes and countermeasures against menace
-- Cross-border cyber attacks impact on India's internal security
-- Cyber security elements challenges and India preparedness assessment
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

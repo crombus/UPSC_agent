@@ -153,6 +153,33 @@ indigenisation lists + corridors + exports + lifecycle support
 - ✅ `06_Defence-RandD-DRDO-and-Missile-Systems.md` — platform and R&D side.
 - ✅ `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — manufacturing ecosystems and strategic electronics.
 - ✅ `19_Drones-UAVs-and-Robotics-Policy.md` — fast-growing production and procurement segment.
+## Core answer architecture — procurement, indigenisation and industrial depth
+
+**Thesis choice.** Defence self-reliance is not proved by a domestic assembly line, an import-ban list or an approval; it requires design control, domestic value addition, predictable procurement and lifecycle support.
+
+**10-mark spine.** Separate Topic 06 development from Topic 07 acquisition/production; explain the DAP category or demand-side tool; attach one evidence unit on industrial scaling; finish with the design-versus-value-addition qualification.
+
+**15/20-mark spine.** Use **requirement and DAP route → demand and supply instruments → industrial ecosystem/lifecycle/export effects → technology absorption, order certainty, quality and strategic limits**.
+
+**Evidence units.**
+- **Claim:** Procurement category affects the depth of localisation → **Buy (Indian-IDDM), Buy (Indian), Buy & Make (Indian), Buy (Global–Manufacture in India) and Buy (Global)** → the ladder distinguishes indigenous design from manufacture and technology transfer → **qualification:** indigenous-content percentage is a value-share test, not automatic proof that critical design, engines or electronics are Indian.
+- **Claim:** Policy needs both assured demand and supplier capability → **Positive Indigenisation Lists/SRIJAN alongside iDEX/ADITI, TDF and the two defence corridors** → lists create a market while innovation and clusters help firms meet it → **qualification:** a listed item, an EOI or an AoN remains short of a contract, production run and service induction.
+- **Claim:** capability must survive beyond delivery → **DPSUs/private firms and MRO/spares/upgrades** → domestic lifecycle support reduces vulnerability and enables iterative upgrades → **qualification:** assembly can scale faster than deep materials, seeker, engine or semiconductor control.
+
+**Verdict.** A defensible conclusion supports mixed public-private capability building, measured by controlled design, certification, serviceability and export credibility rather than headline production alone.
+
+## Routed PYQ evidence — defence platforms, organisation and industrial claims
+
+- **Manufacture is not one status.** Tejas is an indigenous fighter-design/production programme; Arjun is an indigenous tank programme; domestic construction of naval platforms/submarines is a shipbuilding capability. For any named platform, distinguish design origin, licensed/indigenous manufacture, contract, delivery and operational service rather than treating “made in India” as one fact.
+- **Fighter-generation guardrail:** HAL describes LCA Tejas Mk1 as a 4.5-generation fighter. Do not describe Tejas Mk1, Rafale or MiG-29 as an Indian fifth-generation operational aircraft; AMCA is a future-development programme, not an inducted fleet at the verified date.
+- **Rank-equivalence card:** Captain / Lieutenant / Flight Lieutenant; Major / Lieutenant Commander / Squadron Leader; Colonel / Captain (Navy) / Group Captain; Brigadier / Commodore / Air Commodore; Major General / Rear Admiral / Air Vice Marshal; Lieutenant General / Vice Admiral / Air Marshal; General / Admiral / Air Chief Marshal. These are service-rank comparisons, not procurement categories.
+- **CDS/DMA card:** The Chief of Defence Staff heads the Department of Military Affairs within the Ministry of Defence and is Permanent Chairman of the Chiefs of Staff Committee. The CDS does not erase the separate command roles of the three Service Chiefs. For the constitutional/departmental detail, use the linked Polity owner: `../../Polity/basic/Ministries-and-Departments-of-Government.md`.
+- **Aircraft-role card:** Dornier-228 is a light utility/transport-type aircraft; IL-76 and C-17 are heavy strategic-airlift types. Do not infer manufacturer, service, generation or cargo figure from a role label without an official source.
+
+> **Audit source (retrieved 2026-08-14):** HAL LCA page (`https://hal-india.co.in/product/lca`) for the Tejas Mk1 generation guardrail; no production/range figures are added.
+
+**Boundary rule:** these routed Prelims facts sit in this Core because the ledger assigns them here, but they do not change Topic 07’s central analytical task: procurement and industrial depth.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

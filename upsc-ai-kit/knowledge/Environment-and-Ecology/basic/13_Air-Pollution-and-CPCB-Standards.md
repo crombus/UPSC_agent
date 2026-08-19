@@ -103,9 +103,9 @@ Delhi-NCR) triggered when pollution crosses defined severity thresholds.
   Pradesh**. Its directions override those of individual SPCBs on air quality in that region.
 - ✅ The **Air (Prevention and Control of Pollution) Act, 1981** was enacted by Parliament
   under **Article 253** (legislation to implement international agreements) to give effect to
-  decisions of the **1972 Stockholm Conference on the Human Environment** — the same
-  constitutional route used for the Water Act, 1974 and the Environment (Protection) Act,
-  1986.
+  decisions of the **1972 Stockholm Conference on the Human Environment**. The Environment
+  (Protection) Act, 1986 also uses this route; the Water Act, 1974 instead required the
+  Article 252 state-consent route because water is a State List subject.
 - ✅ India's AQI aggregates **eight** pollutants into **six** categories, and the published
   AQI is the **highest** individual pollutant sub-index, not an average — so one pollutant
   can drive the whole city's reported category.
@@ -219,37 +219,72 @@ rather than a fixed historical figure. Distinguish also an **announced target** 
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Distinguish **NAAQS (standard)**, **AQI (communication)**, **NCAP (structural programme)** and **GRAP (episodic response)**; then identify the city/season source mix.
+- **Thesis:** air governance works when binding standards, credible monitoring and source-specific action operate together; emergency restrictions cannot replace long-run source reduction.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| A regional problem needs regional authority. | **CAQM Act, 2021** → coordinates Delhi-NCR/adjoining-state action where one city/SPCB cannot control transboundary emissions. | Formal override power does not itself resolve agricultural, municipal or political coordination constraints. |
+| Response and prevention serve different clocks. | **GRAP versus NCAP** → GRAP reduces acute exposure at high AQI; NCAP targets multi-year source reduction. | Do not use an announced NCAP target as city-level attainment. |
+| Market tools need measurement. | **Surat particulate-matter ETS/CEMS, reported in Economic Survey 2025-26** → illustrates how continuous monitoring can make trading and lower-cost abatement possible. | Treat its evaluation as a specific scheme result, not proof that every market will work without MRV. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** diagnose source and pollutant pathway; name one regulator/tool; state one implementation limit.
+- **15/20 marks:** use source apportionment by season, CAQM/NCAP/GRAP roles, health and equity effects, and the regulatory trade-off between deterrence and trust-based compliance.
+- **PYQ safety:** cloud seeding, if meteorologically feasible, is at most an episodic particulate-washout intervention; it cannot be presented as a substitute for emission-source control. The Water Act’s Article 252 route is distinct from the Air Act’s Article 253 basis.
+
+### 13.4 Historical Mains and Prelims demand bank
+
+| Demand | Core answer route | Status discipline |
+|---|---|---|
+| NCAP implementation | Source apportionment → city clean-air plan → monitoring/municipal and state implementation → target review; contrast its structural role with GRAP’s emergency role. | A national target or a city plan is not city-level attainment. |
+| WHO guideline versus India response | Treat **WHO Air Quality Guidelines** as health-based reference values and **NAAQS** as India’s notified ambient standard; then assess NCAP/CAQM/source reduction. | Do not write a WHO guideline as though it were an Indian legal limit, or quote an old value without the guideline edition. |
+| Photochemical smog | **NOx + VOCs + sunlight → ground-level ozone and secondary oxidants**; effects include respiratory irritation/crop/material damage; reduce precursor emissions from transport, fuels and industry. | The **Gothenburg Protocol** is a regional transboundary-air-pollution instrument, not an Indian statute; use it comparatively, not as India’s governing law. |
+| Objective traps | Fossil-fuel combustion, including thermal power, is a major SO₂ source; acid rain is driven principally by SO₂ and NOx precursors. | Source shares and pollutant concentrations are time/place specific; avoid unsupported rankings. |
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
 - **Years represented:** 2019, 2020, 2021, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 8
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 11
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2019 | Prelims GS-I | 35 | Pollutants released from burning crop and biomass residue | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-III | 17 | National Clean Air Programme key features and implementation | What are · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | Prelims GS-I | 48 | Benzene pollution exposure sources and contributing factors | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 79 | Coal ash toxins and coal power plant air emissions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | GS-III | 7 | WHO revised Air Quality Guidelines and India's NCAP response | Describe · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | Prelims GS-I | 17 | Environmental concerns from copper smelting plants | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 18 | Furnace oil properties uses and sulphur emissions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2021 | Prelims GS-I | 25 | Magnetite particles environmental air pollution sources | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | GS-III | 7 | Photochemical smog formation effects and Gothenburg Protocol mitigation | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 44 | WHO Air Quality Guidelines PM2.5 and ozone standards | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 100 | Atmospheric pollutants causing acid rain identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
 - Pollutants released from burning crop and biomass residue
+- National Clean Air Programme key features and implementation
 - Benzene pollution exposure sources and contributing factors
 - Coal ash toxins and coal power plant air emissions
+- WHO revised Air Quality Guidelines and India's NCAP response
 - Environmental concerns from copper smelting plants
 - Furnace oil properties uses and sulphur emissions
 - Magnetite particles environmental air pollution sources
+- Photochemical smog formation effects and Gothenburg Protocol mitigation
 - WHO Air Quality Guidelines PM2.5 and ozone standards
 - Atmospheric pollutants causing acid rain identification
 

@@ -234,20 +234,41 @@ than an assumed fixed list.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Identify the **material stream**, then the responsible actor and stage: generation, collection, authorised processing, certificate/verification and legacy contamination.
+- **Thesis:** EPR shifts lifecycle responsibility upstream, but a certificate market only improves outcomes if it corresponds to verified material recovery and does not exclude the informal collection workforce.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Waste rules serve different streams. | **SWM Rules 2016; Plastic Waste Management Rules; E-Waste Rules 2022** → align municipal segregation, packaging EPR and electronic-waste processing. | A common parent statute does not make them one combined rule. |
+| EPR needs traceability. | **CPCB EPR portals/certificates** → permits producer accountability beyond municipal disposal. | Registrations, certificates and reported tonnes are not identical to independently verified circular use. |
+| Informal workers are part of the system. | **Waste pickers and informal e-waste collectors** → provide collection reach and livelihood link. | Unsafe dismantling/exposure requires integration with authorised processing, not romanticising informality. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** show the waste-flow hierarchy and assign legal responsibility.
+- **15/20 marks:** compare targeted SUP restrictions with EPR, evaluate verification and informal-sector trade-offs, then add contaminated-site rules for legacy stock rather than conflating it with new waste flows.
+- **PYQ micro-facts:** chewing-gum base, cigarette butts, spectacle lenses and tyres may contain plastic; use them as material-identification examples, not proof that all such items fall under the same ban or EPR obligation.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2019, 2020, 2021, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 6
+- **Years represented:** 2018, 2019, 2020, 2021, 2022
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 7
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 6 | Solid waste disposal challenges and toxic waste management | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | Prelims GS-I | 26 | Pyrolysis and plasma gasification in waste management | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 59 | Solid Waste Management Rules 2016 India provisions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 78 | Extended producer responsibility introduction in Indian rules | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
@@ -257,6 +278,7 @@ than an assumed fixed list.
 
 ### What this owner must now support
 
+- Solid waste disposal challenges and toxic waste management
 - Pyrolysis and plasma gasification in waste management
 - Solid Waste Management Rules 2016 India provisions
 - Extended producer responsibility introduction in Indian rules

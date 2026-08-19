@@ -4,13 +4,17 @@
 > **Core area:** The homogenisation-glocalisation theoretical architecture, the causal
 > chain linking globalisation to women's migration and family renegotiation, and the
 > fast-food-paradox behavioural-economics angle.
-> **Grounded in:** MoSPI PLFS 2023-24 and 2025; NFHS-5 (2019-21, latest released national
-> round as checked 21 July 2026); audited 2024 and 2025 GS-I Mains PYQs (three direct
+> **Grounded in:** MoSPI PLFS 2023-24 and 2025; NFHS-5 (2019-21; historical comparator; NFHS-6 was released
+> 29 May 2026); audited 2024 and 2025 GS-I Mains PYQs (three direct
 > questions).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/11_Effects-of-Globalisation-on-Indian-Society.md`.*
 
 ---
+
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
 
 ## 1. Architecture
 
@@ -101,7 +105,7 @@ statement.
 ## 4. Institutional and reform architecture
 
 - ⚠️ **Digital-divide correction efforts:** rural and gender-linked internet-access gaps
-  remain important. NFHS-5's 33.3% ever-internet-use figure for women aged 15-49 is a dated
+  remain important. NFHS-6's 64.3% ever-internet-use estimate for women aged 15-49 is a provisional dated
   2019-21 indicator, not a current connectivity estimate.
 
 ## 5. Indian applications and boundary cases
@@ -138,7 +142,7 @@ statement.
 - ✅ MoSPI's PLFS Annual Report 2023-24 (released 23 September 2024) recorded female labour
   force participation rate at 41.7% (up from 37.0% in 2022-23) and female worker population
   ratio at 40.3%.
-- ✅ NFHS-5 (2019-21) recorded women's ever-internet-use at 33.3% for ages 15-49; it is a
+- ✅ NFHS-6 (2023-24) national fact sheets report women's ever-internet-use at 64.3% for ages 15-49; it is a
   dated access measure, not a current national digital-use rate.
 - ⚠️ Bounded rationality is one useful behavioural-economics lens for the fast-food paradox;
   price, delivery, marketing and local food systems also need consideration.
@@ -168,7 +172,7 @@ statement.
   reports usual-status female LFPR for age 15+ at **40.0%**. Because the newer report uses
   a January-December 2025 reference period rather than the earlier July-June cycle, cite
   period and measure before comparing them. NFHS-5's 33.3% ever-internet-use figure for
-  women ages 15-49 is the dated digital-access anchor; do not cite an unissued NFHS-6 result.
+  women ages 15-49 is the dated digital-access anchor; do not cite an unverified NFHS-6 metric.
 
 ## 10. PYQ-based analytical application
 

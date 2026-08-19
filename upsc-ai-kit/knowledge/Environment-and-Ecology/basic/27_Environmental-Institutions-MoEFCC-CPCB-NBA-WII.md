@@ -222,6 +222,35 @@ architecture and are routinely confused.
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Map an institution by **legal basis → function → scale → accountability**, not by a broad environmental label.
+- **Thesis:** India’s specialised architecture is valuable for expertise, but outcomes depend on coordination and on the state/local capacity that turns national standards and science into enforcement.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Specialisation avoids mandate confusion. | **CPCB/SPCB pollution; NBA/SBB/BMC biological-resource access; WCCB trafficking; NTCA tiger; WII/BSI/ZSI/FSI science; NGT adjudication** → assigns the correct actor before proposing reform. | Research bodies generate evidence; they do not grant clearances or prosecute. |
+| Last-mile capacity shapes outcomes. | **SPCB consent/monitoring and ULB/STP implementation** → national standards need state/local staff, data and enforcement. | Do not generalise a capacity failure to every board without a dated audit/report. |
+| Coordination needs designed mechanisms. | **CAQM** for transboundary NCR air quality; **PARIVESH 3.0/third-party audit reforms** → shows a response to fragmented approval/monitoring. | An online portal or certified auditor is not independent enforcement by itself; conflict-of-interest/MRV safeguards matter. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** compare two easily confused bodies by Act, mandate and output.
+- **15/20 marks:** map policy–science–regulation–enforcement–adjudication; diagnose coordination/capacity and give an accountability remedy, not a generic “strengthen institutions” close.
+- **2026 NIRANTAR route:** verify its lead institutions and thematic verticals from its own official platform before using them; do not infer that it is a statutory regulator merely because it is an environmental research platform.
+
+### 13.4 2026 NIRANTAR research-platform card
+
+**NIRANTAR** is a MoEFCC coordination/knowledge platform, not a new statutory regulator.
+The official platform/PIB material identifies four thematic verticals and leads:
+**Ecosystem Survey and Analysis — BSI**; **Research and Management of Ecosystem Services —
+ICFRE**; **Capacity Development Support — IIFM**; and **Climate Change, Pollution and
+Emerging Challenges — NCSCM**. The testable distinction is coordination of existing research
+institutions versus regulatory/enforcement power.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

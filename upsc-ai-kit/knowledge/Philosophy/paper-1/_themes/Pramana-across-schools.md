@@ -29,8 +29,11 @@
 | **4** | Nyāya | + Upamāna (comparison) |
 | **5** | Prābhākara Mīmāṃsā | + Arthāpatti (postulation) |
 | **6** | Bhāṭṭa Mīmāṃsā, Advaita Vedānta | + Anupalabdhi (non-apprehension) |
+| **—** | **Jainism** | **Off the ladder.** Jainism does not add pramāṇas to the Nyāya list; it re-cuts the whole field into **pratyakṣa / parokṣa** on a different principle. See §2 below. ✅ |
 
 > 🔑 **Mnemonic (ladder 1→6):** *"Cārvāka Buys Six Nice Purple Bananas"* → **C**ārvāka(1) · **B**uddhism/Vaiśeṣika(2) · **S**āṃkhya(3) · **N**yāya(4) · **P**rābhākara(5) · **B**hāṭṭa/Advaita(6).
+
+> ⚠️ **Do not force Jainism onto the ladder.** The ladder counts *how many of the six standard pramāṇas* a school admits. Jainism's division is made on a wholly different axis — **whether the soul knows directly or through an intermediary** — so a "Jaina number" is misleading. Write the Jaina scheme separately; that is itself a scoring point.
 
 ---
 
@@ -59,6 +62,30 @@ Each school's *epistemology* is really its stand on (a) how many pramāṇas, an
 ### Buddhism — (2: perception + inference)
 - Accepts **pratyakṣa + anumāna** only. Perception (nirvikalpaka, non-conceptual) alone grasps the **unique particular (svalakṣaṇa)**; inference grasps only mentally-constructed universals (sāmānyalakṣaṇa). ✅
 - Dignāga/Dharmakīrti: the two pramāṇas correspond to two kinds of object. All else (testimony, comparison) reduces to inference.
+
+### Jainism — pratyakṣa / parokṣa, on a different axis
+- **The division.** Jainism divides all valid cognition into **pratyakṣa** (direct) and **parokṣa** (indirect) — but it defines "direct" as *what the soul (jīva) knows immediately, without the mediation of the senses or the mind*. ✅
+- **⚠️ The classic trap — Jainism inverts the usual usage.** Ordinary sense-perception is therefore NOT pratyakṣa in the strict sense; it is only **sāṃvyavahārika pratyakṣa** ("empirical/conventional direct knowledge") and strictly belongs with the indirect, because it works through instruments. Only **avadhi, manaḥparyāya and kevala** are **mukhya (pāramārthika) pratyakṣa**. ✅
+- **The five jñānas** (the substantive content of the scheme): ✅
+
+| Jñāna | What it is | Direct or indirect? |
+|---|---|---|
+| **Mati** | cognition through the senses and mind | parokṣa |
+| **Śruta** | scriptural / verbal knowledge, derived from mati | parokṣa |
+| **Avadhi** | clairvoyant knowledge of material things, limited in range | **mukhya pratyakṣa** |
+| **Manaḥparyāya** | direct knowledge of the mental modes of others | **mukhya pratyakṣa** |
+| **Kevala** | omniscience — all substances in all their modes, unmediated | **mukhya pratyakṣa** |
+
+- Within **parokṣa** the later Jaina logicians (Akalaṅka, Māṇikyanandi, Hemacandra) admit **smṛti** (recollection), **pratyabhijñā** (recognition), **tarka/ūha** (the inductive reasoning that grasps vyāpti), **anumāna** and **āgama**. ⚠️ **This is a real difference from Nyāya, which denies that memory is a pramāṇa at all** — a sharp comparative point.
+- **THE LINK TO ANEKĀNTAVĀDA — this is why the Jaina scheme matters and why it must not be reduced to a number:** ✅
+  1. Reality is **ananta-dharmātmaka** — every existent has infinitely many aspects.
+  2. Non-omniscient cognition is **kṣāyopaśamika** — it arises from a merely *partial* destruction-cum-subsidence of the knowledge-obscuring karma, so it is constitutively partial. Only **kevala-jñāna** grasps all aspects at once.
+  3. Therefore every judgment short of omniscience is made *from a standpoint* — which is **nayavāda**.
+  4. Absolutising such a standpoint is **ekāntavāda** (one-sidedness), which Jainism diagnoses as the shared error of all rival schools.
+  5. Therefore every assertion must carry the operator **syāt** ("from a certain standpoint") — which is **syādvāda / saptabhaṅgī**.
+  > 🔑 **One-line exam formula:** *Jaina epistemology is the premise and anekāntavāda is the conclusion.* Syādvāda is not a logical gimmick; it is what a theory of partial, karmically-conditioned knowledge is *obliged* to say.
+- **Objection (Śaṃkara, and Rāmānuja after him):** a doctrine that qualifies every assertion cannot assert anything determinately, and cannot consistently assert itself. **Reply:** the predicates are indexed to distinct standpoints (**dravya, kṣetra, kāla, bhāva** — substance, place, time, mode), so nothing is affirmed and denied *in the same respect*; and syādvāda is applied reflexively to itself, which the Jaina counts a virtue. ⚠️ Residual force: reflexive qualification looks like a loss of assertoric force.
+- → Owner file: [`indian/Jainism.md`](../indian/Jainism.md).
 
 ### Vaiśeṣika — (2: perception + inference)
 - Same two as Buddhism, but **subsumes śabda under anumāna** (verbal knowledge = inferential). ✅
@@ -92,8 +119,28 @@ Each school's *epistemology* is really its stand on (a) how many pramāṇas, an
 | **Object of perception** | Buddhism: bare particular (svalakṣaṇa) | Nyāya: qualified real object (savikalpaka) | Buddhist Kṣaṇikavāda linkage |
 | **Status of testimony (śabda)** | Vaiśeṣika/Buddhism: reduces to inference | Nyāya/Mīmāṃsā: independent | Any śabda question |
 | **Can absence be known?** | Bhāṭṭa/Advaita: yes, via anupalabdhi | Nyāya: yes, but via perception | Mīmāṃsā vs Nyāya |
+| **Is memory a pramāṇa?** | Jaina: YES — smṛti and pratyabhijñā are valid parokṣa cognitions | Nyāya/Mīmāṃsā: NO — memory only reproduces, it does not *newly* apprehend (anadhigata-artha is required) | Jaina epistemology; "what makes a cognition *valid*?" |
+| **What makes a cognition "direct"?** | Jaina: the *soul* knowing without any instrument (so sense-perception is only conventionally direct) | All others: sense–object contact (sannikarṣa) | Jaina pratyakṣa/parokṣa; anekāntavāda link |
+| **Is omniscience possible?** | Jaina/Buddhist: YES — kevala-jñāna / the perfected teacher | Mīmāṃsā (Kumārila): NO — no **sarvajña** is establishable, which is why an *authorless* Veda is needed | Mīmāṃsā vs Jaina/Bauddha; Veda's authority |
 
-> 🔑 **The master fault-line:** *empiricist minimisers* (Cārvāka 1, Buddhism 2) vs *scripture-defending maximisers* (Mīmāṃsā 5–6, Advaita 6), with **Nyāya (4) as the realist middle** that every answer can use as a reference point.
+> 🔑 **The master fault-line:** *empiricist minimisers* (Cārvāka 1, Buddhism 2) vs *scripture-defending maximisers* (Mīmāṃsā 5–6, Advaita 6), with **Nyāya (4) as the realist middle** that every answer can use as a reference point. **Jainism sits outside this contest altogether**, because it re-draws the boundary between direct and indirect rather than bargaining over the count.
+
+---
+
+## 3A. CONTROLLED WESTERN COMPARISON ⚠️
+
+Use these **only after the Indian case is complete**, and never as a substitute for it. Each parallel must be stated *with* its disanalogy; a bare equation ("Cārvāka is the Indian Hume") is a marked weakness.
+
+| Indian position | Western point of contact | The disanalogy that must be stated |
+|---|---|---|
+| Cārvāka on vyāpti | **Hume** on induction: no number of observed conjunctions yields a necessary connexion | Hume still *endorses* inductive practice as a natural and indispensable habit; Cārvāka denies inference the status of **pramāṇa**. Hume's route is the theory of impressions; Cārvāka's is the regress/upādhi argument. |
+| Cārvāka's perceptual criterion | **Ayer's** verification principle rejecting metaphysics | Ayer's claim is *semantic* (such statements are meaningless); Cārvāka's is *epistemic-ontological* (such entities are unknown, hence unadmitted). Ayer preserves scientific theory; strict Cārvāka would not. Both face a self-refutation charge — compare them on the **objection** as well as the thesis. |
+| Nyāya's vyāpti-grahaṇa (upādhi-elimination + tarka + sāmānyalakṣaṇa-pratyakṣa) | Attempts to give induction a rational ground | Nyāya's solution depends on **real universals** actually being perceived — an ontological commitment no Western inductivist makes. |
+| Mīmāṃsā **svataḥ-prāmāṇya** | **Reid's** principle of credulity / default epistemic entitlement | Mīmāṃsā's is a thesis about the *intrinsic validity-conferring character of the knowledge-producing process*, not a defeasible practical policy; and its purpose is to secure an **authorless** scripture. |
+| Buddhist **apoha** | **Ockham's** nominalism about universals | Both deny real universals, but apoha's *negative-exclusion* mechanism (a cow is "not-non-cow") has no Western counterpart, and Ockham retains enduring individuals where the Buddhist has only momentary particulars. |
+| Jaina **anekāntavāda** | **Perspectivism** (Nietzsche); many-valued logic | Jainism is *realist* — the aspects are really in the object; perspectivism is typically anti-realist. And **syāt** is a *standpoint operator*, not a third truth-value; **avaktavya** is inexpressibility-in-one-utterance, not a truth-value gap. |
+
+> **Rubric.** In an answer, an Indian epistemology question is answered from Indian materials. A Western parallel earns marks only as one or two closing lines that *sharpen* the Indian position by contrast. It never replaces the argument.
 
 ---
 
@@ -118,6 +165,8 @@ Practise reframing the *same* pramāṇa content into different archetypes:
 3. **[Comparison]** "Compare the Nyāya and Mīmāṃsā theories of the validity of knowledge." → *parataḥ* vs *svataḥ* + 4 vs 5/6 pramāṇas.
 4. **[Applied]** "Can there be knowledge of non-existence? Discuss with reference to anupalabdhi." → Bhāṭṭa/Advaita yes vs Nyāya's perception-of-absence.
 5. **[Bridge]** "How does a school's epistemology determine its metaphysics?" → Cārvāka (1 pramāṇa → materialism), Advaita (śabda → Brahman), Mīmāṃsā (śabda → dharma/Veda-authority).
+6. **[Doctrine]** "Explain the Jaina classification of knowledge." → pratyakṣa/parokṣa on the *soul-directness* axis → five jñānas → the inversion trap (sense-perception is only sāṃvyavahārika pratyakṣa) → close by deriving anekāntavāda from it.
+7. **[Comparison]** "Is memory a source of valid knowledge? Discuss." → Nyāya/Mīmāṃsā deny it (a pramāṇa must yield **anadhigata artha**, previously unapprehended content) vs Jaina acceptance of smṛti and pratyabhijñā → assess what "novelty" should mean in a criterion of validity.
 
 ---
 
@@ -138,7 +187,9 @@ Concl.  : Powerful empiricist check, but epistemically self-limiting.
 Frame   : Nyāya uses anumāna (inference) — one of its 4 pramāṇas — to prove Īśvara.
 Body    : Kāryāt (causal/cosmological), Āyojanāt (design/adṛṣṭa-governance), Śruti/śabda (testimony) arguments.
 Link    : Ground each proof in the pramāṇa it rests on → shows why a 4-pramāṇa realist CAN reach God whereas 1-pramāṇa Cārvāka cannot.
-Critique: Advaita/Buddhist objections; Kant-style parallels (⚠️ Western bridge).
+Critique: Advaita/Buddhist objections; then, only if space remains, one controlled Western line
+          (⚠️ e.g. the design argument and its Humean critique) — stating the disanalogy that
+          Nyāya's Īśvara is an efficient cause only, since atoms and souls are eternal.
 ```
 
 ### 6.3 — "Mīmāṃsā theory of knowledge." (recurring, Syllabus item 18)
@@ -156,7 +207,10 @@ Concl.  : Epistemology entirely in service of ritual/Vedic authority (dharma).
 - `indian/Nyaya-Vaisesika.md` → pañcāvayava syllogism, perception types, God-proofs.
 - `indian/Carvaka.md` → full materialism + this critique.
 - `indian/Mimamsa.md` → svataḥ-prāmāṇya, khyāti-vāda.
-- `indian/Buddhism.md` → svalakṣaṇa, two-pramāṇa scheme ↔ kṣaṇikavāda.
+- `indian/Buddhism.md` → svalakṣaṇa, two-pramāṇa scheme ↔ kṣaṇikavāda; apoha; pramāṇaphala.
+- `indian/Jainism.md` → pratyakṣa/parokṣa, the five jñānas, and the derivation of anekāntavāda.
+- `indian/Samkhya.md` → the three pramāṇas and why **sāmānyato-dṛṣṭa** inference is what establishes prakṛti and puruṣa.
+- `indian/Vedanta.md` → Advaita's six pramāṇas, the primacy of śabda, and bhāga-tyāga-lakṣaṇā.
 - `_themes/Self-and-liberation-across-schools.md` (next theme file).
 - Cross-paper: P-II Phil-of-Religion `Proofs-for-God.md` reuses §6.2.
 

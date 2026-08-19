@@ -7,8 +7,8 @@
 > routing for the 16 recent prompts, with the full 100-prompt ledger in
 > `PYQ-Corpus-2013-2025.md`.
 > **Grounded in:** the 2013-2025 UPSC Essay corpus (100 prompts, each
-> carrying a verification level; see `PYQ-Corpus-2013-2025.md` — 2024 and
-> 2025 read directly from local official PDFs, 2013-2023 not locally
+> carrying a verification level; see `PYQ-Corpus-2013-2025.md` —
+> 2018–2025 read directly from local official PDFs, 2013–2017 not locally
 > verifiable); linked GS
 > subject modules; dated sources where used.
 > **Research cutoff:** 18 July 2026.
@@ -25,8 +25,10 @@
 `books/mains/`) require **two essays, one topic chosen from each of two
 displayed Sections**, each about **1000–1200 words**. ✅ 2024 additionally
 prints "(125 × 2 = 250)"; ❌ the locally held 2025 copy prints neither a
-marks line nor a "Time Allowed" header, so this folder asserts no duration
-and no 2025 marks split. ✅ Printed numbering differs between the two
+marks line nor a "Time Allowed" header, so no duration is inferred from
+that scan and no 2025 marks split is asserted. ✅ The official Civil
+Services (Main) examination scheme assigns Essay **three hours**.
+✅ Printed numbering differs between the two
 years — 2024 restarts Section B at 1–4, 2025 continues it at 5–8 — and
 2025's English instruction line is garbled in the source ("Sections A as
 in"); both facts are logged in `README.md`, which is this folder's single
@@ -51,7 +53,7 @@ ARGUMENT MAP -> proposition -> mechanism -> illustration -> qualification -> syn
 LENS PASS    -> governance/economy/society/science-tech/environment/
                 culture-history/ethics/IR - use only lenses the thesis needs
 EVIDENCE     -> one claim, one function, one verified source per illustration
-STRUCTURE    -> 10-12 purposeful paragraphs: claim -> development -> link
+STRUCTURE    -> roughly 9-12 purposeful paragraphs: claim -> development -> link
 CONCLUSION   -> return to the transformed thesis; state a feasible,
                 humane, forward-looking synthesis
    |
@@ -144,8 +146,9 @@ method and scale calibration in `11`.
 ## 8. Evidence engine
 
 **Rule:** one claim → one function → one verified source per
-illustration; no unsupported numerical clutter. ✅ The 2024-2025 papers
-supply no author names for any of their 16 prompts (see `README.md`); this
+illustration; no unsupported numerical clutter. ✅ The 2018–2025 papers
+supply no author names for any of their 64 prompts (see
+`PYQ-Corpus-2013-2025.md`); this
 folder therefore never attaches an author to a prompt-quotation unless
 independently verified by a primary/authoritative source (`09`, `16`).
 ❌ Quotation-dumping (stacking famous names to sound erudite) and false
@@ -154,7 +157,7 @@ style choices — see Section 9 below and `12`.
 
 ## 9. Structure and conclusion engine
 
-⚠️ Roughly 10–12 purposeful paragraphs for a 1000–1200-word essay, each
+⚠️ Roughly 9–12 purposeful paragraphs for a 1000–1200-word essay, each
 doing one job: claim, development (mechanism + illustration), and a link
 to the next paragraph. ❌ Headings, numbered lists and GS-style
 subheadings are not used in a continuous essay — they are a scaffolding
@@ -220,8 +223,8 @@ reproduce that module's theory or fact bank inside an Essay file.
 ## 13. Source and risk-ledger protocol
 
 - **Prompt wording:** quote `README.md`/`PYQ-Corpus-2013-2025.md`, and
-  respect the verification level. ✅ V1 rows (2024, 2025) may be quoted
-  verbatim including printed defects; ⚠️ V2 rows (2013-2023) should be
+  respect the verification level. ✅ V1 rows (2018–2025) may be quoted
+  verbatim including printed defects; ⚠️ V2 rows (2013–2017) should be
   paraphrased or re-checked against the official paper before verbatim
   use. ❌ No author attribution unless independently verified against a
   primary/authoritative source (see `README.md`, `09`, `16`).
@@ -229,11 +232,12 @@ reproduce that module's theory or fact bank inside an Essay file.
   better English. 2024-A2's "futures", 2024-A3's comma splice, 2024-B5's
   missing comma and 2025's garbled instruction line are all recorded as
   printed. Reproduce them; do not argue from them.
-- **Paper metadata:** ✅ assert only what a locally held paper prints —
+- **Paper metadata:** ✅ distinguish what a locally held paper prints —
   the two-essay/two-section rule and the 1000–1200-word range (both
-  years), and "(125 × 2 = 250)" (2024 only). ❌ Do not assert a duration,
-  a 2025 marks split, a paragraph count, or any marking rubric: none is
-  printed in either locally held copy.
+  years), and "(125 × 2 = 250)" (2024 only) — from the official
+  examination-scheme fact that Essay lasts three hours. ❌ Do not invent
+  a 2025 marks split, paragraph count, phase allocation or marking
+  rubric: none is printed in either locally held copy.
 - **Familiar aphorisms found elsewhere on the web with uncertain
   attribution:** ❌ do not attribute; use only as an unattributed
   proposition, or omit.

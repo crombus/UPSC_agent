@@ -107,6 +107,54 @@ and date rather than presenting one percentage as a settled global boundary.
 - Explain why the hot-wet equatorial climate, despite supporting the earth’s richest vegetation, has historically resisted dense settlement and large-scale commercial forestry.
 - Use the Amazon tipping-point case to show how equatorial deforestation can convert a carbon sink into a carbon source with global rainfall and climate risks.
 
+## 9. Answer architecture (10/15/20-mark support)
+
+### 9.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Account for the climatic characteristics of the equatorial belt" | Overhead-sun insolation -> equatorial low -> convergence and convection -> double rainfall maxima -> uniformity | Merely state the temperature and rainfall figures |
+| "Why is the equatorial region sparsely populated despite abundant resources?" | The constraint set — leached soils, disease, heat and humidity, dense access-blocking vegetation — set against the counter-cases | Give an environmentally deterministic answer |
+| "Discuss shifting cultivation" | Nutrient-in-biomass logic, the fallow rationale, and why shortened fallow breaks it | Condemn it as merely primitive or destructive |
+
+### 9.2 The nutrient paradox — the single most valuable idea in this topic
+
+> **Claim:** the richest vegetation on Earth stands on some of the poorest soils.
+> **Evidence:** in the hot, perpetually wet equatorial regime, decomposition is extremely rapid and
+> heavy rainfall leaches bases downward, so the nutrient capital is held in the living biomass and
+> recycled almost directly from litter to root rather than stored in the soil. **Significance:** it
+> explains the long fallow of shifting cultivation, the rapid yield collapse after clearance, and
+> why permanent intensive cropping fails without heavy external inputs. **Limitation:** young
+> volcanic and alluvial tropical soils are genuine exceptions — Java is the standard counter-case —
+> so the generalisation is about a *leaching regime*, not about "the tropics" as such.
+> (Soil mechanism: `04_Weathering-MassMovement-Groundwater.md`.)
+
+### 9.3 Reusable 10-mark spine — human response to the equatorial environment
+
+1. **Thesis:** the equatorial environment constrains rather than dictates; the same climate carries
+   both very sparse indigenous populations and some of the world's densest rural settlement, so the
+   explanation must be historical and economic as well as physical.
+2. **The constraints, with the mechanism for each:** leached soils; rapid regrowth and access
+   difficulty; a disease environment favoured by permanent warmth and standing water; physiological
+   stress from combined heat and humidity; and rapid deterioration of exposed surfaces.
+3. **Adaptations:** shifting cultivation with long fallow; plantation agriculture using external
+   capital and imported labour; collection of forest products; river-based movement.
+4. **Counter-evidence:** volcanic-soil densities in island South-east Asia; the transformation of
+   equatorial lowlands by plantation and mineral economies.
+5. **The modern pressure:** logging, ranching, plantation expansion and mineral extraction now
+   change the biome faster than any indigenous system did, with the carbon and biodiversity
+   consequences owned by `Environment-and-Ecology`.
+6. **Conclusion:** graded — physical constraint sets the cost of occupation; technology, capital and
+   institutions determine whether that cost is paid.
+
+### 9.4 Comparative hook
+
+The equatorial (Af) and the tropical monsoon (Am) regimes share heat but differ in **seasonality of
+rainfall** — and that single difference produces evergreen versus deciduous vegetation, continuous
+versus concentrated agricultural calendars, and low versus extremely high population density. Any
+comparative question between the two is best organised around seasonality, not temperature. See
+`16_Tropical-Monsoon-and-Marine-Climate.md`.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

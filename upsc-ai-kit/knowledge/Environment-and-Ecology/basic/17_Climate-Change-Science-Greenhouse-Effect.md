@@ -221,33 +221,57 @@ depletes with ongoing emissions — always attribute it to its assessment baseli
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Separate the **natural greenhouse effect**, **anthropogenic forcing**, **event attribution** and **impact pathway**. Do not use a global average as a local causal verdict.
+- **Thesis:** climate policy must be gas-specific and time-sensitive: cut long-lived CO₂ for cumulative warming while also reducing short-lived forcers for near-term health and temperature gains.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Warming is physical, not generic pollution. | **IPCC AR6 Synthesis Report (2023), ~1.1°C above pre-industrial** → links anthropogenic GHG forcing to observed warming. | It is a global assessment; do not downscale it into an India-specific temperature claim. |
+| CO₂ creates linked ocean and coastal risks. | **Ocean CO₂ uptake → carbonic acid → lower pH** plus thermal expansion/land-ice contribution to sea-level rise → connects climate science to island/coastal vulnerability. | Do not attribute a particular island flood or cyclone to climate change without event-specific attribution evidence. |
+| Co-pollutant policy has a trade-off. | **Aerosol cooling versus black-carbon warming** → explains why clean-air policy brings health gains but cannot replace CO₂/methane mitigation. | “Positive feedback” means amplifying, not beneficial; aerosol effects vary by type and location. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** shortwave–longwave mechanism, human enhancement and one named downstream pathway.
+- **15/20 marks:** add GWP/lifetime distinction, feedbacks and attribution-confidence discipline; organise impacts under water, food, health, coasts and equity.
+- For a tropical food-security or island-nation demand, link heat/rainfall/sea-level mechanisms to crops, freshwater, infrastructure and displacement, then state adaptation limits and mitigation necessity rather than offering only a generic “resilience” conclusion.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2019, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 5
+- **Years represented:** 2018, 2019, 2022, 2023
+- **Paper(s):** GS-I, GS-III, Prelims GS-I
+- **Routed question demands:** 7
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 65 | Carbon fertilization effect on plant growth and atmosphere | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 25 | Geoengineering techniques to counter global warming effects | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | Prelims GS-I | 34 | Methane hydrate deposits characteristics and climate linkage | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | GS-III | 17 | Global warming greenhouse gas effects and Kyoto Protocol measures | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 21 | Crops as anthropogenic sources of methane and nitrous oxide | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | Prelims GS-I | 22 | System of Rice Intensification methane reduction and inputs | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | GS-I | 4 | Climate change and food security in tropical countries | Discuss the consequences · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
 - Carbon fertilization effect on plant growth and atmosphere
 - Geoengineering techniques to counter global warming effects
 - Methane hydrate deposits characteristics and climate linkage
+- Global warming greenhouse gas effects and Kyoto Protocol measures
 - Crops as anthropogenic sources of methane and nitrous oxide
 - System of Rice Intensification methane reduction and inputs
+- Climate change and food security in tropical countries
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -44,7 +44,7 @@ meteorite impacts (PDF p. 23).
 |---|---|
 | ✅ **Tsunami** | Japanese for "harbour wave"; large waves of extremely long wavelength/period from an undersea disturbance near the coast or in the ocean (PDF p. 23). |
 | ✅ **Effect-determining factors** | Characteristics of the generating seismic event; distance from origin/magnitude; and bathymetry (ocean depth configuration) (PDF p. 23). |
-| ✅ **Indian Tsunami Early Warning System** | Established with the Department of Space, Department of Science and Technology and CSIR; a real-time network of seismic stations, Bottom Pressure Recorders and tide gauges, detecting tsunamigenic earthquakes in the Indian Ocean in under 10 minutes (PDF pp. 24-25). 📰 The **Indian Tsunami Early Warning Centre (ITEWC)** at INCOIS, Hyderabad, has been operational since **15 October 2007**; it detects tsunamigenic earthquakes within about **10 minutes** and disseminates advisories within about **20 minutes**, and serves India's coastal States/UTs plus **26 Indian Ocean-rim countries** (PIB, 4 February 2026). |
+| ✅ **Indian Tsunami Early Warning System** | Established with the Department of Space, Department of Science and Technology and CSIR; a real-time network of seismic stations, Bottom Pressure Recorders and tide gauges, detecting tsunamigenic earthquakes in the Indian Ocean in under 10 minutes (PDF pp. 24-25). 📰 The **Indian Tsunami Early Warning Centre (ITEWC)** at INCOIS, Hyderabad, has been operational since **15 October 2007**; it detects tsunamigenic earthquakes within about **10 minutes** and disseminates advisories within about **20 minutes**, serving India's coastal States/UTs and the regional IOTWMS service. ⚠️ Recipient-country counts differ across dated official descriptions; use the current INCOIS recipient roster rather than memorising a number (PIB, 4 February 2026). |
 | 📰 **UNESCO-IOC Tsunami Service Provider (TSP)** | ITEWC operates as an approved Tsunami Service Provider under the UNESCO Intergovernmental Oceanographic Commission's Indian Ocean Tsunami Warning and Mitigation System (IOTWMS) — i.e. it issues advisories not only for India but for the regional framework. ⚠️ The exact date of initial formal TSP designation is not established by a dated first-party source; state the role, not a designation year. |
 | 📰 **"Tsunami Ready"** | A UNESCO-IOC **community-level performance recognition** programme (not a national certification). India's first recognised communities were **Venkatraipur (Ganjam)** and **Noliasahi (Jagatsinghpur)** in **Odisha**, recognised on **7 August 2020**. ⚠️ Recognition attaches to named communities meeting defined indicators; do not describe an entire State as "fully Tsunami Ready" without a dated source saying so. |
 | ✅ **Bio-shield** | A narrow, thickly planted strip of land along the coastline, developed as a coastal-zone disaster-management sanctuary with public-awareness spaces (PDF p. 24). |
@@ -128,8 +128,9 @@ meteorite impacts (PDF p. 23).
 - 📰 The **Indian Tsunami Early Warning Centre (ITEWC)** at INCOIS,
   Hyderabad, has been operational since **15 October 2007**, detects
   tsunamigenic earthquakes in about **10 minutes**, disseminates
-  advisories in about **20 minutes**, and serves **26 Indian Ocean-rim
-  countries** besides India (PIB, 4 February 2026).
+  advisories in about **20 minutes**, and serves India's coast through
+  the regional IOTWMS service. ⚠️ Use the current INCOIS recipient roster
+  for a country count rather than memorising one (PIB, 4 February 2026).
 - 📰 ITEWC is an approved **UNESCO-IOC Tsunami Service Provider** under
   the Indian Ocean Tsunami Warning and Mitigation System (IOTWMS).
 - 📰 **Venkatraipur (Ganjam)** and **Noliasahi (Jagatsinghpur)** in
@@ -225,7 +226,9 @@ meteorite impacts (PDF p. 23).
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Status:** Cross-paper 2024-2025 support route. Geography retains
+> primary ownership of the formation/consequences demand; this owner
+> supplies the disaster-management application.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
 
 - **Years represented:** 2025
@@ -234,7 +237,7 @@ meteorite impacts (PDF p. 23).
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2025 | GS-I | 7 | Tsunamis - formation and consequences | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-I | 7 | Tsunamis - formation and consequences | Explain · 10 marks · 150 words | Cross-paper: Geography-owned physical-process demand | Supply formation-to-consequence plus warning/coastal-management application; do not relabel it a direct DM PYQ. |
 
 ### What this owner must now support
 
@@ -242,3 +245,35 @@ meteorite impacts (PDF p. 23).
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 13. Core-only answer architecture — generation, warning and coast
+
+> **Core firewall:** this section independently supplies the
+> disaster-management application for the **Geography-owned** 2025 GS-I
+> formation/consequences route and for coastal-preparedness demands. It
+> does not require an Advanced file or a 2025 seawater-intrusion detour.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| A tsunami is a displacement wave, not simply a large storm wave. | Vertical seabed displacement after an undersea earthquake; landslide and volcanic triggers are also possible. | It explains why trigger mechanism, bathymetry and coast shape govern consequences. | An undersea earthquake does not automatically produce a destructive tsunami. |
+| Offshore movement and onshore impact are different stages. | Long waves travel through deep water; shallowing water slows and steepens them (shoaling), enabling run-up, inundation and damaging return flow. | This supplies the missing formation-to-consequence causal chain in a short answer. | Do not supply an unverified speed, height or inundation distance. |
+| India has a named detection-to-action architecture. | ITEWC/INCOIS (operational since 15 October 2007), seismic network/BPR/tide gauges, about-10-minute detection and about-20-minute advisory; evacuation and community preparedness. | It ties technical warning to a response decision. | Use INCOIS's current roster for recipient-country counts; detection is not last-mile safety. |
+| Coastal ecosystems and regulation reduce exposure but do not eliminate risk. | 2004 Indian Ocean tsunami: VisionIAS records heavier damage where dunes were mined; CRZ 2019 category-specific controls, hazard mapping and bio-shields. | It supports an evidence-led structural-plus-ecosystem argument. | Do not call sea walls or mangroves sufficient everywhere, or turn the adjacent 2025 seawater-intrusion question into a tsunami PYQ. |
+
+### 13.2 Executable spines
+
+- **10 marks — formation and consequences:** definition → trigger and
+  water displacement → deep-ocean travel/shallow-water shoaling →
+  inundation/return-flow exposure → one warning/evacuation line. Use the
+  2004 case only for a specified lesson, not a casualty recital.
+- **15 marks — preparedness:** thesis: safety depends on the full chain,
+  not ITEWC alone. Organise risk mapping/CRZ, detection/advisory,
+  accessible coastal dissemination and evacuation drills, structural
+  protection and dunes/mangroves; include one data/community limitation.
+- **20 marks — evaluate coastal resilience:** compare rare,
+  high-consequence tsunami readiness with recurrent cyclone risk; use
+  Tsunami Ready recognition as a community-level indicator, not a
+  national outcome; conclude with maintained drills, land-use discipline
+  and mixed ecosystem/engineered protection.

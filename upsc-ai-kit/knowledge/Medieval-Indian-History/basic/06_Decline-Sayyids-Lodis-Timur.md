@@ -84,3 +84,37 @@
 - ⚠️ Decline of the Sultanate was a **process**, not an event: elite factionalism, regional assertion and administrative overstretch all mattered.
 - ⚠️ Timur's invasion is best used as an example of how external shocks exploit internal weakness.
 - ⚠️ The Lodi phase shows both recovery and limitation: Afghan mobilisation revived Delhi, but Afghan political culture complicated central monarchy.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Examine causes of Sultanate decline | "The Sultanate declined through a convergence of noble factionalism, Firuz's devolutionary concessions, regional self-assertion and the absence of institutional succession mechanisms — Timur's 1398 raid was a catalyst, not a cause." |
+| Assess Timur's invasion | "Timur exploited an already fractured polity; his invasion drained Delhi's wealth and artisans but did not destroy regional state formation — which continued vigorously after 1398." |
+| Evaluate the Lodi contribution | "The Lodis revived north Indian political authority through Afghan military solidarity, administrative efficiency (Sikandar) and Jaunpur's annexation, but Afghan tribal equality prevented stable central monarchy." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Post-Firuz succession chaos: slaves, nobles and rajas intervened; "Sultan's writ ran only from Delhi to Palam" | Central authority had collapsed before Timur arrived | Separates internal decline from the external shock | The "Palam" joke may be literary exaggeration |
+| 2 | ✅ Timur sacked Delhi (1398); artisans deported to Samarqand | External shock depleted an already weakened capital | Shows how external and internal crises compounded | Timur left quickly; he did not administer or destroy the Sultanate as an idea |
+| 3 | ✅ Sharqi kingdom of Jaunpur = "Shiraz of the East" | Regional state formation continued despite Delhi's weakness | Reframes "decline" as political reorganisation | Jaunpur's fall to Bahlul (1484) shows regional states were also vulnerable |
+| 4 | ✅ Sikandar Lodi: improved justice, abolished grain-octroi, founded Agra (1506), gazz-i-Sikandari | Administrative recovery was possible under an able Lodi ruler | Qualifies the "continuous decline" narrative | Reform was limited to northern heartland; Malwa and Gujarat remained independent |
+| 5 | ✅ Afghan political culture: tribal council, equality among chiefs | Afghan solidarity revived Delhi but resisted hierarchical monarchy | Explains why Ibrahim Lodi faced noble revolt despite Sultanate recovery | Comparison with Mughal centralisation illuminates the contrast |
+
+### 8.3 Counterpoints
+
+- ⚠️ Jaunpur, Bengal, Gujarat and Malwa show that "Sultanate decline" was actually political devolution + cultural vigour, not darkness.
+- ⚠️ Sikandar Lodi's orthodox religious policy complicates a simple "good administrator" assessment.
+- ⚠️ Ibrahim Lodi's failures were partly personal, partly structural (Afghan equality vs. monarchical authority).
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Internal decline (unit 1) + Timur as catalyst (unit 2) + brief Lodi recovery; conclude: process not event.
+- **15-mark:** Add regional-state-formation point (Jaunpur) + Sikandar's recovery; conclude: devolution ≠ civilisational collapse.
+- **20-mark:** Full 5-unit + Afghan political-culture analysis; compare Sultanate's institutional weakness with later Mughal solutions; graded verdict on decline debates.

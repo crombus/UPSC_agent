@@ -8,6 +8,10 @@
 
 ---
 
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
+
 ## 1. The social results chain
 
 ```text
@@ -83,7 +87,7 @@ disruptive; its outcome depends on who gains voice, resources and security.
 | Source | Use | Limitation |
 |---|---|---|
 | Census | population composition and broad coverage | Census 2011 is the last completed full count; Census 2027 has no results as of 21 July 2026 |
-| NFHS | household, fertility and agency outcomes | survey timing and self-reporting; NFHS-5 (2019-21) is the latest released national round |
+| NFHS | household, fertility and agency outcomes | survey timing and self-reporting; NFHS-6 (2023-24) is the latest released provisional national fact-sheet round; NFHS-5 is historical |
 | PLFS | work-status pattern | labour measure, not full social wellbeing |
 | NITI reports | composite development comparison | index is not lived experience alone |
 | Administrative data | programme/process signals | excludes non-users and can be volatile |

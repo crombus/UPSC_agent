@@ -920,6 +920,204 @@ Use a value-chain answer rather than listing schemes.
 - ✅ `../../Environment-and-Ecology/basic/25_Renewable-Energy-and-Green-Hydrogen.md`.
 - ✅ `../../Science-and-Technology/basic/04_Nuclear-Power-and-Three-Stage-Programme.md`.
 - ✅ `../../International-Relations/basic/06_West-Asia-Energy-Security-and-Connectivity.md`.
+
+## 24. Ethanol, feedstock and biofuel policy trade-offs (declared PYQ demand)
+
+### 24.1 India's Ethanol Blended Petrol (EBP) Programme — dated anchor
+
+- 📰 India reached **20% ethanol blending in petrol (E20) during 2025**, reported by the
+  Ministry of Petroleum & Natural Gas as achieved **about five years ahead of the original
+  2030 target**, up from about 1.5% blending in 2014. Reported associated effects include
+  foreign-exchange savings of roughly **Rs 1.36 lakh crore**, payments of roughly **Rs 1.96
+  lakh crore to distilleries** and **Rs 1.18 lakh crore to farmers** since the programme's
+  scale-up, and an estimated reduction of about **698 lakh tonnes of CO2** emissions.
+  ⚠️ **Status caution:** these are government-reported programme totals as of the 2025/2026
+  official announcements; re-verify the exact figures and reporting date against the latest
+  Ministry of Petroleum & Natural Gas/PIB release before quoting them as current, since
+  cumulative totals are updated each supply year.
+
+### 24.2 Feedstock comparison — why the 2025 Prelims question matters
+
+| Producer | Principal feedstock | Core economic logic |
+|---|---|---|
+| ✅ **Brazil** | Sugarcane (direct cane juice/molasses route) | High photosynthetic efficiency and an established cane-processing/sugar-mill base support large-scale, relatively low-cost ethanol production; flex-fuel vehicles absorb high blends. |
+| ✅ **United States** | Maize/corn (starch route) | Vast domestic corn acreage and processing capacity support scale, but the starch-to-sugar conversion step is an additional cost layer compared with direct cane-juice fermentation. |
+| ✅ **India** | Sugarcane juice/molasses **and** foodgrain (surplus rice/damaged grain, maize) — a dual-feedstock approach | Sugarcane supplies most current volume; grain-based capacity was added to accelerate the blending timeline and diversify feedstock risk. |
+
+### 24.3 Policy trade-offs this file must carry (not merely list feedstocks)
+
+- **Food-versus-fuel trade-off:** diverting foodgrain/sugarcane to ethanol competes with food,
+  fodder and sugar-consumption uses; India's approach of prioritising sugarcane and surplus/
+  damaged grain (rather than diverting the entire foodgrain stock) is a deliberate mitigation,
+  not a complete removal of the trade-off.
+- **Water-intensity trade-off:** sugarcane is a water-intensive crop; expanding cane area for
+  ethanol can intensify the same groundwater/canal-water pressure already flagged for MSP-
+  linked sugarcane cultivation (cross-link: Topic 28 §4.2-4.3 water-energy-crop nexus).
+  Grain-based ethanol shifts (rather than removes) this pressure to grain-growing regions.
+- **MSP/price-support interaction:** sugarcane's Fair and Remunerative Price and state advised
+  prices already create a minimum-price floor independent of ethanol demand; ethanol
+  procurement adds a second demand channel that can support cane prices but also raise
+  fiscal/pricing complexity if global sugar or ethanol prices move against the mill economics.
+- **Import-substitution benefit versus engine/vehicle-compatibility cost:** higher blending
+  reduces crude-oil import dependence (linking to §13 energy-security), but requires
+  E20-compatible engines, fuel-system materials and retail-infrastructure upgrades — a
+  transition cost separate from the feedstock-supply question.
+- **Diversification benefit versus single-crop dependence risk:** relying heavily on
+  sugarcane (as Brazil does) concentrates blending-programme risk on one crop's weather and
+  price cycle; India's dual-feedstock design reduces this concentration risk but adds the
+  food-security sensitivity noted above.
+
+> 🔑 **Prelims trap:** Brazil's ethanol economics and the US's ethanol economics rest on
+> different feedstocks with different conversion chemistry (direct sugar fermentation versus
+> starch hydrolysis); India's programme deliberately combines both feedstock families rather
+> than replicating either country's single-feedstock model.
+
+## 25. Dated anchors — capacity target and distribution economics (verify vintage before reuse)
+
+- 📰 **500 GW non-fossil capacity target (correct wording):** At COP26 in Glasgow (2021),
+  India committed, as part of its five-part "Panchamrit" announcement, that **"India will
+  reach its non-fossil energy capacity to 500 GW by 2030"** — i.e., a target for **installed
+  electricity-generation capacity from non-fossil sources** (renewables, large hydro and
+  nuclear, per this file's non-fossil-versus-renewable distinction at §2-§3), not a target
+  for total energy consumption, generation share or renewable-only capacity. This is one of
+  five Panchamrit commitments alongside meeting 50% of energy requirements from renewables by
+  2030, cutting projected carbon emissions by one billion tonnes by 2030, reducing carbon
+  intensity by less than 45% by 2030, and achieving net-zero emissions by 2070. ⚠️ Track
+  progress against this target using the Economic Survey's dated capacity-share figures
+  (§19.2: 51.93% of installed capacity as non-fossil at end-December 2025) rather than
+  restating the 2021 target as if it were already achieved.
+- 📰 **Distribution-economics anchor (financing, not AT&C/ACS-ARR):** The **Revamped
+  Distribution Sector Scheme (RDSS)** was approved with a total outlay of about **Rs 3,03,758
+  crore over FY 2021-22 to FY 2025-26**, of which the estimated central Gross Budgetary
+  Support is about **Rs 97,631 crore**; it funds prepaid smart metering and distribution-
+  infrastructure upgradation (§9.4). ⚠️ This is a **financing/outlay** figure describing the
+  scale of central support for distribution reform — it is not an AT&C-loss percentage or an
+  ACS-ARR gap value, and no such loss/gap figure is asserted here; any specific AT&C or
+  ACS-ARR number must be separately verified against the latest official regulatory data
+  before use.
+
+## 26. Evidence bank: claim → named evidence → significance → limitation/status-caution
+
+**26.1 Claim: Capacity share and generation share are different facts, and conflating them is
+the single most common energy-sector Prelims trap.**
+- **Named evidence:** Economic Survey 2025-26's non-fossil capacity share of 51.93% at
+  end-December 2025 is explicitly a **capacity** share (§19.2), not a generation share; the
+  500 GW Panchamrit commitment (§25) is likewise a capacity target.
+- **Significance:** Directly operationalises the durable trap at §19.1 and supplies the exact
+  dated figure needed to answer any "has India met its renewable target" demand precisely.
+- **Limitation/status-caution:** A high non-fossil capacity share can still coexist with a
+  much lower non-fossil generation share because solar/wind run at lower capacity factors
+  than dispatchable thermal plants — the two shares must never be used interchangeably.
+
+**26.2 Claim: DISCOM financial stress is a root-cause chain, not a single failure point.**
+- **Named evidence:** The vicious-cycle chain from under-recovery to delayed payment, weak
+  maintenance, worse reliability/losses and renewed non-payment (§9.3), with RDSS (§25) as
+  the current results-linked financing response.
+- **Significance:** Supplies the standard evidence architecture for any DISCOM-reform or
+  power-sector-financing question without requiring an invented loss/gap statistic.
+- **Limitation/status-caution:** Meter installation and financing alone (RDSS) do not
+  guarantee governance reform; the file explicitly flags that "meter installation alone is
+  not governance reform" (§9.4).
+
+**26.3 Claim: The Ethanol Blended Petrol Programme demonstrates that a biofuel target can be
+met early through deliberate feedstock diversification.**
+- **Named evidence:** 20% blending achieved in 2025, five years ahead of the 2030 target,
+  through a dual sugarcane-plus-foodgrain feedstock strategy (§24.1-24.2).
+- **Significance:** Directly closes the 2025 Prelims Brazil/USA feedstock-comparison demand
+  and supplies concrete evidence for any biofuel/energy-security Mains question.
+- **Limitation/status-caution:** Early achievement of a blending percentage does not by
+  itself resolve the food-versus-fuel or water-intensity trade-offs (§24.3); those remain
+  live policy tensions even after the headline target is met.
+
+**26.4 Claim: International Solar Alliance and Green Grids Initiative are distinct
+institutions with distinct launch contexts, not interchangeable names for one body.**
+- **Named evidence:** ISA launched by India and France at COP21 (2015), treaty-based,
+  headquartered in Gurugram; GGI-OSOWOG launched by India and the UK at COP26 (2021) (§20.4).
+- **Significance:** Standard evidence for the 2021 GS-III question and any cross-border
+  clean-energy-cooperation demand.
+- **Limitation/status-caution:** Cross-border grids can complement, but cannot substitute for,
+  strong national grids and financially viable utilities (§20.4 judgement).
+
+**26.5 Claim: "No fuel cost" for renewables does not mean "no system cost."**
+- **Named evidence:** Solar/wind's zero fuel cost is offset by variability, transmission,
+  balancing and storage requirements (§5.1, §14).
+- **Significance:** Prevents the common error of treating falling renewable tariffs as the
+  complete cost picture for system planning.
+- **Limitation/status-caution:** Storage requirement estimates (CEA: about 336 GWh by 2029-30
+  and 411 GWh by 2031-32, §19.2) are planning projections, not installed outcomes, and should
+  be cited as such.
+
+## 27. Core limitations and trade-offs
+
+| # | Trade-off | Why it is genuinely double-edged |
+|---|---|---|
+| 1 | **Capacity growth versus system cost** | Rapid non-fossil capacity addition (toward 500 GW, §25) improves the headline energy-transition metric, but requires matching transmission, balancing and storage investment (§14, §16) — capacity alone does not deliver reliable, affordable power. |
+| 2 | **Ethanol energy-security gain versus food/water trade-off** | Faster blending (§24.1) reduces crude-import dependence and supports farm incomes, but sugarcane/grain feedstock diversion raises food-versus-fuel and water-intensity concerns (§24.3) that the headline blending percentage does not capture. |
+| 3 | **Cheap/subsidised tariffs versus DISCOM viability** | Below-cost tariffs protect low-income and farm consumers, but erode DISCOM revenue recovery, feeding the under-recovery vicious cycle (§9.3) that RDSS financing (§25) only partly offsets. |
+| 4 | **Domestic resource use versus environmental/social cost** | Expanding domestic coal, hydro or critical-mineral extraction reduces import dependence, but raises land, water, ecological and displacement costs that must be weighed against the energy-security gain (§18). |
+| 5 | **Speed of clean-technology rollout versus stranded-asset risk** | Rapid technology and policy shifts (tariff, regulation, cheaper alternatives) support the transition but can strand existing thermal/legacy assets and their associated debt and regional employment (§16.4, §17.3). |
+| 6 | **Cross-border grid cooperation versus sovereignty/settlement complexity** | Initiatives like GGI-OSOWOG widen the balancing area and reduce curtailment risk, but require agreed technical standards, market settlement and mutual trust that are harder to secure than purely domestic grid expansion (§20.4). |
+
+## 28. Answer architecture (10/15/20-mark support)
+
+### 28.1 Directive decoder
+
+| Directive word | What the examiner is actually asking for |
+|---|---|
+| Describe / Explain | Lay out the value chain or mechanism (generation → transmission → distribution, or feedstock → blending → use) with correct sequencing. |
+| Discuss / Justify | Present benefits and constraints together with a reasoned link to the stated policy objective. |
+| Examine / Analyse | Dissect a specific chain (DISCOM stress, renewable integration, ethanol feedstock choice) stage by stage. |
+| Evaluate / Critically discuss | Explicit reasoned verdict on whether the instrument/target is being met and at what cost. |
+
+### 28.2 Evidence selection by mark value
+
+- **10 marks/150 words:** 1-2 evidence units from §26 (e.g., capacity-versus-generation share,
+  or ethanol feedstock comparison) + 1 limitation from §27 + a one-line verdict.
+- **15 marks/250 words:** 2-3 evidence units + one dated anchor from §25 + 2 trade-offs from
+  §27 + a reasoned verdict using the ENERGY framework (§21).
+- **20 marks:** add a second dated anchor from §25, the full ENERGY framework explicitly, and
+  at least 3 trade-offs before the verdict, distinguishing capacity/target language from
+  generation/outcome language throughout.
+
+### 28.3 Counter-evidence integration rule
+
+Any claimed energy-policy achievement (capacity growth, blending percentage, subsidy relief)
+must be paired with its corresponding system-cost, trade-off or vintage caution from §26-27
+in the same paragraph — this is what converts a "list of schemes" answer into an "evaluate"
+answer.
+
+### 28.4 10/15/20 mark-scaling template
+
+```text
+10 MARKS (150 words)
+Intro: define the relevant chain (capacity/generation or feedstock/blending) (1 line)
+1-2 evidence units from §26 (4 lines)
+1 limitation from §27 (2 lines)
+Verdict (1 line)
+
+15 MARKS (250 words)
+Intro (1 line)
+2-3 evidence units incl. one dated anchor from §25 (6 lines)
+2 trade-offs from §27 (3 lines)
+ENERGY-framework-based verdict (2 lines)
+
+20 MARKS (250-300 words)
+Intro (1 line)
+ENERGY framework applied across mix/networks/economics/regulation/green transition (§21) (6 lines)
+Two dated anchors from §25 (4 lines)
+3 trade-offs from §27 (5 lines)
+Reasoned verdict + forward path (3 lines)
+```
+
+### 28.5 Reasoned-verdict template
+
+> "[Policy/target/programme] shows measurable progress through [named evidence/anchor from
+> §25-26]; however, [trade-off from §27] means the achievement is [qualified — capacity not
+> generation / early target-meeting not trade-off-free / financed not fully reformed].
+> India's energy-infrastructure strategy should therefore [reform/scaling direction from
+> §17/§21], judged by affordability, reliability and emissions outcomes — not capacity or
+> blending headlines alone."
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

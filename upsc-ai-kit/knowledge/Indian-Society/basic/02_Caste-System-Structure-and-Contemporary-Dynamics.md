@@ -191,6 +191,166 @@ with economic and political power.
 - ✅ `12_Social-Change-and-Modernisation.md` — Sanskritisation/Westernisation placed within
   the broader theory of social change.
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> Core-only. Caste questions in GS-I cluster into five recurring demand families —
+> **structure, mobility, fluidity/persistence, associational politics, and boundary-crossing
+> marriage**. All five are executable from this section without `advanced/02`.
+
+### 13.1 Directive-to-structure map
+
+| Directive | What is tested | Structure that scores |
+|---|---|---|
+| **Comment** (caste assuming new identities and associational forms) | Whether you can show *change of form* without claiming *disappearance* | Old form → what weakened → what replaced it → what did not change → verdict |
+| **Elaborate with illustrations** (relevance of caste in a multi-cultural society) | Whether caste is analysed as a live organising principle, not a relic | Four arenas: marriage, ritual, economy, politics — one illustration each |
+| **Why / Analyse** (caste as both fluid and static) | Whether you can hold a paradox instead of choosing a side | Two columns: what is fluid vs what is static, then the *level* explanation |
+| **Analyse** (salience of sect against caste, region, religion) | Whether you can rank competing identity axes by context | Define each axis → state the contexts where each dominates → refuse a single ranking |
+| **Discuss** (intercaste vs interreligious marriage) | Whether you explain *differential* pace, not marriage in general | Parity condition → identity condition → why the two boundaries erode at different speeds |
+
+### 13.2 Thesis bank
+
+- **T1 (change questions):** ✅ Caste is not dissolving; it is **changing register** — from
+  ritual hierarchy and occupational allocation towards associational identity, network
+  capital and political mobilisation, while endogamy remains the least-changed feature.
+- **T2 (fluid/static questions):** ⚠️ Caste is **fluid in status and rigid in boundary**:
+  a jati can renegotiate its *rank* (Sanskritisation, political assertion, market position)
+  far more easily than it can dissolve its *marriage boundary*.
+- **T3 (multi-cultural relevance):** ⚠️ Caste remains analytically indispensable because it
+  is the axis on which India's cultural plurality is *stratified*, not merely differentiated.
+- **T4 (marriage questions):** ✅ Caste boundaries are becoming a **status-parity** question;
+  religious boundaries remain an **identity-and-belonging** question — hence the divergent
+  trend the 2024 PYQ describes.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — "Caste is assuming new identities and associational forms; comment."**
+1. T1 as opening. 2. What weakened: occupational allocation, jajmani service ties, public
+purity–pollution enforcement. 3. What replaced it: caste associations, welfare and
+educational trusts, electoral blocs, urban networks for jobs and housing. 4. What did not
+change: endogamy, and discrimination in intimate and residential spheres.
+5. Qualification: variation by region, urban–rural location and class. 6. Verdict — form
+change, not disappearance.
+
+**10 marks — "Intercaste marriages between castes with socio-economic parity have
+increased… less true of interreligious marriages. Discuss." (2024 GS-I Q9)**
+1. Frame the divergence as the question, not marriage change in general. 2. Parity
+mechanism: where two jatis are of similar standing, an alliance threatens neither family's
+status or resource base. 3. Identity mechanism: religious boundary-crossing engages
+community belonging and personal-law plurality, so parity is insufficient. 4. Note the
+**Special Marriage Act** civil route, so personal-law plurality alone is not the full
+explanation. 5. Qualification — a qualified PYQ premise, not a national prevalence series.
+6. Verdict — the two boundaries erode at different speeds because they are guarded by
+different things.
+
+**15 marks — "Caste identity in India is both fluid and static. Why?"**
+1. T2. 2. **Static layer:** endogamy as the reproduction mechanism (E1); hereditary
+membership; residential and marital segregation. 3. **Fluid layer:** Sanskritisation as a
+status claim (E2); dominant-caste power built on numbers–land–office (E3); market and urban
+occupational mobility (E4); associational and electoral reinvention (E5). 4. **The level
+explanation:** rank is negotiable because it is *locally* constructed; boundary is not,
+because it is reproduced through marriage. 5. Measurement point: no all-India jati count
+exists to quote, and Census 2027 caste enumeration is prospective (E6). 6. Verdict.
+
+**20 marks — "Assess whether caste is best understood today as hierarchy, as identity, or
+as network."** Add: the varna–jati distinction as the level problem; the three readings set
+against each other with one arena each (ritual, politics, labour market); the
+caste–class overlap and its loosening; a synthesis that no single reading covers all four
+arenas; cross-links to `08_Social-Empowerment.md` (capability), `05` (village power) and
+`Polity`/`Social-Justice` for reservation doctrine, each labelled as a borrowing.
+
+### 13.4 Evidence bank — `claim → named evidence → significance → limitation`
+
+- **E1 — Endogamy is the reproduction mechanism.** *Claim:* caste survives because marriage
+  reproduces it. *Evidence:* endogamy is the most consistently observed of the four classic
+  features (endogamy, hierarchy, hereditary membership, occupational linkage), operating
+  together with **gotra exogamy** — marriage within the jati but outside the clan.
+  *Significance:* explains why occupational and ritual change has not dissolved caste.
+  *Limitation:* practice varies by region, class and generation; the 2024 PYQ premise is
+  qualified ("to some extent") and is not a prevalence series.
+- **E2 — Sanskritisation.** *Claim:* mobility can occur *within* hierarchy without changing
+  it. *Evidence:* **M.N. Srinivas**, from fieldwork at **Rampura, Karnataka**, described a
+  jati adopting the diet, ritual and marriage practices of a locally higher-status caste to
+  claim rank. *Significance:* shows status is locally negotiable and that mobility strategy
+  can *reinforce* the hierarchy's logic. *Limitation:* it is a **claim** to status, not proof
+  of acceptance or of material mobility; regional variation is large.
+- **E3 — Dominant caste.** *Claim:* practical power need not follow ritual rank. *Evidence:*
+  Srinivas's dominant caste — numerically strong, holding a significant share of local land,
+  wielding political influence — often a middle-ranked jati. *Significance:* the operative
+  unit for village power analysis and for Panchayat-level questions. *Limitation:* reserved
+  seats for SCs, STs and women in Panchayats now contest this control without eliminating it.
+- **E4 — Occupational decoupling.** *Claim:* the caste–occupation link is the weakest joint.
+  *Evidence:* urbanisation, schooling and non-farm employment have broken most hereditary
+  occupational allocation, while the **jajmani** service tie (treated in `05`) has been
+  displaced by cash-wage work. *Significance:* supplies the "fluid" half of the paradox.
+  *Limitation:* stigmatised occupations and their inheritance have not disappeared; do not
+  claim uniform decoupling.
+- **E5 — Associational reinvention.** *Claim:* caste is re-entering public life as
+  organisation, not as ritual. *Evidence:* caste associations and jati panchayats that
+  arbitrate disputes, enforce endogamy and organise political mobilisation; caste as an
+  identity-and-interest network in urban and electoral life. *Significance:* the direct
+  answer to "new identities and associational forms". *Limitation:* this does **not** make
+  caste equivalent to ethnicity — hierarchy, endogamy and discrimination persist alongside.
+- **E6 — Measurement status.** *Claim:* caste disadvantage remains statistically
+  under-mapped. *Evidence:* **PIB (30 April 2025)** announced caste enumeration in
+  **Census 2027**; **Gazette S.O. 2681(E)** fixes the reference dates. *Significance:* the
+  visibility argument is itself an answer point in caste-census questions.
+  *Limitation:* prospective — no caste-count figure exists; and post-Independence Censuses
+  not enumerating **all** castes does not make this India's first historical caste count.
+
+### 13.5 Sect, sub-caste and the identity-ranking demand
+
+⚠️ Examiners have asked which identity axis is most salient. Hold these apart:
+
+| Axis | Unit | Boundary rule | When it dominates |
+|---|---|---|---|
+| **Varna** | Four-fold textual ideal type | Normative, not observable | Ideological and comparative argument |
+| **Jati** | Local endogamous birth group | Endogamy | Marriage, local status, village power |
+| **Sub-caste / sub-jati** | Segment within a jati | Narrower endogamy circle | Marriage negotiation, association membership |
+| **Sect (panth/sampradaya)** | Voluntary or inherited religious following within or across a faith | Doctrine, guru lineage, initiation — **not** birth-endogamy in the caste sense | Ritual life, sacred-site politics, devotional identity |
+| **Religion** | Faith community | Belief and belonging | Communal mobilisation (`13`), personal law (`04`) |
+| **Region/language** | Territorial-cultural group | Territory and speech | Regional assertion (`14`) |
+
+⚠️ **Answer rule:** sect is a *religious-following* axis and caste a *birth-and-marriage*
+axis; they can overlap (a jati concentrated in one sect) without being the same thing.
+Refuse a single national ranking — state instead that salience is **arena-specific**:
+marriage → jati; devotional and shrine politics → sect; electoral mobilisation → jati
+cluster and religion; development grievance → region.
+
+### 13.6 Balance bank
+
+- ⚠️ **Against "caste is disappearing":** endogamy persists; associational and electoral
+  caste is expanding, not contracting.
+- ⚠️ **Against "caste is unchanged":** occupational allocation and public purity enforcement
+  have weakened sharply; urban labour markets recruit on credentials.
+- ⚠️ **Against "caste = class":** the overlap is empirical and loosening, not definitional;
+  a rich lower-caste household and a poor dominant-caste household both exist.
+- ⚠️ **Against "caste = ethnicity":** ethnic framing drops hierarchy and endogamy, the two
+  features that make caste analytically distinct.
+- ⚠️ **Scope discipline:** reservation doctrine, atrocity law and quantum questions belong to
+  `Polity` and `Social-Justice/basic/07`; do not re-derive them in a Society answer.
+
+### 13.7 Verdict scaffolds
+
+- **Form-change verdict:** "Caste has changed its register rather than its existence: what
+  was hierarchy and occupation has become identity, association and network, while the
+  marriage boundary — the mechanism that reproduces caste — has changed least."
+- **Paradox verdict:** "Caste is fluid where status is locally constructed and static where
+  reproduction is marital; that is why the same society can show rising intercaste marriage
+  and undiminished caste identity simultaneously."
+- **Divergence verdict:** "Parity is loosening the caste boundary; belonging is holding the
+  religious one — the divergence the 2024 question describes is a difference in what each
+  boundary protects, not a difference in the pace of modernity."
+
+### 13.8 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Authoritative ledger owner | Core route |
+|---|---|---|---|
+| 2024 · GS-I · Q9 | Intercaste versus interreligious marriages | `Indian-Society/basic/02` ✅ this file | §13.3 10-mark spine; family half in `04` §13 |
+| 2018 · GS-I · Q8 | Caste assuming new identities and associational forms | ledger points to `advanced/02` | **Core routing supersedes:** §13.3 10-mark spine + E5 |
+| 2020 · GS-I · Q8 | Relevance of caste in understanding multi-cultural Indian society | ledger points to `advanced/02` | **Core routing supersedes:** T3 + four-arena structure §13.1 |
+| 2022 · GS-I · Q18 | Salience of sect against caste, region and religion | ledger points to `advanced/02` | **Core routing supersedes:** §13.5 identity-ranking table |
+| 2023 · GS-I · Q19 | Caste identity as both fluid and static | ledger points to `advanced/02` | **Core routing supersedes:** §13.3 15-mark spine (T2) |
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

@@ -248,7 +248,80 @@ India" (PDF p. 13).
   consequences of cross-border proxy warfare in Jammu & Kashmir, without
   addressing its constitutional status.
 
-## 12. Study links
+## 12. Core answer architecture — proxy war, operational boundaries and trust
+
+> **Core firewall:** This Core section independently supports the 2018
+> CPEC cross-link, the 2019 OGW demand and the 2023 J&K “hearts and minds”
+> demand. The Advanced companion remains optional.
+
+### Demand decoder and thesis
+
+**Thesis:** J&K is an internal-security theatre in which an externally
+enabled proxy mechanism exploits local political and social vulnerabilities;
+security action can disrupt the mechanism, but durable conflict resolution
+also requires lawful investigation, civilian protection, accountable
+governance and rehabilitation. The constitutional validity/history of
+Article 370 is a **Polity** question; this file owns operational
+consequences only.
+
+### Executable Core spines
+
+**10 marks — OGWs and neutralising influence (2019).** Define an
+over-ground worker as a non-combatant facilitator whose alleged role must
+be proved, not a label for ordinary political disagreement. Map possible
+facilitation functions: information/reconnaissance, shelter/logistics,
+communication, recruitment/propaganda and finance. Match response:
+community intelligence and protection; evidence-led investigation; lawful
+financial tracing; rehabilitation/prevention where appropriate; and
+prosecution only on admissible evidence. Qualification: indiscriminate
+labelling destroys the trust and local reporting that counter-terrorism
+needs.
+
+**10 marks — hearts and minds (2023).** State that it is an operational
+legitimacy strategy, not public-relations language. Assess four tracks:
+civilian security and proportionate force; local participation and
+grievance redress; service/livelihood and rehabilitation delivery; and
+credible accountability/remedy. Use the 2026 MHA relief-and-rehabilitation
+material only as a dated implementation input, not as proof of safe return
+or resolved conflict.
+
+**15 marks — CPEC cross-subject route (2018).** First state the boundary:
+CPEC/BRI connectivity and diplomacy belong principally to IR/Economy.
+This file supplies the **sovereignty and security** leg: the corridor
+passes through territory claimed by India and administered by Pakistan;
+it can alter strategic logistics in a contingency and links an external
+infrastructure choice to the J&K proxy-security context. Enumerate
+sovereignty, strategic/logistics and security-risk concerns; do not
+invent a current troop-movement outcome or call the question a direct
+J&K-terrorism PYQ.
+
+**20 marks — comparative proxy-war question.** Separate LoC firing,
+infiltration, local recruitment, financing and information operations as
+five metrics. For each, name actor, vector, vulnerability, lawful
+capability and desired end-state. Conclude that a quieter LoC is a
+humanitarian/security gain but not proof that the wider proxy mechanism
+has ended.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Proxy war depends on deniable intermediaries. | Singh’s ISI/proxy account; LeT, JeM and Hizbul Mujahideen as historical examples. | Sponsor, intermediary and local facilitator are analytically distinct roles. | Treat group strength, leadership and incident attribution as book-period unless a dated agency source verifies them. |
+| A ceasefire and terror-risk metrics are not interchangeable. | 2003 understanding; DGMOs’ 25 February 2021 reaffirmation. | Cross-LoC firing, infiltration and hinterland activity need separate evidence. | The understanding is not a treaty or political settlement. |
+| The 2019 Act changed the operational chain. | Jammu and Kashmir Reorganisation Act, 2019: police/public order outside Assembly competence. | J&K coordination is Lieutenant Governor–Union centred rather than an ordinary Centre–State chain. | Do not use this operational point to make an uncited constitutional-judgment claim. |
+| Trust is a security capability. | Kashmiri migrant relief/rehabilitation remains a dated MHA implementation route. | Rehabilitation, grievance and civilian protection affect recruitment/reporting vulnerability. | Package, accommodation or job output is not evidence of conflict resolution or return outcome. |
+
+### Direct PYQ routes now owned in Core
+
+- **2018 GS-III CPEC:** use the explicitly bounded sovereignty/security
+  leg above; do not manufacture an incident or merge it with the 2023 J&K
+  demand.
+- **2019 GS-III:** use the OGW 10-mark spine; facilitation must be
+  evidence-led and rights-compatible.
+- **2023 GS-III:** use the four-track hearts-and-minds evaluation, not a
+  list of schemes or force operations.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/05_Jammu-Kashmir-and-Cross-Border-Terrorism.md`.
@@ -261,3 +334,28 @@ India" (PDF p. 13).
   state/non-state proxy-actor framework; topic 06 for the current LoC/
   Pakistan-border management picture; topic 12 for BSF/Army coordination
   along the LoC.
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2019, 2023
+- **Paper(s):** GS-III
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 9 | CPEC as OBOR subset and India's strategic objections | Enumerate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-III | 9 | Over-ground workers role in assisting terrorist organizations in insurgency | Examine · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 9 | Hearts and Minds approach in Jammu and Kashmir conflict resolution | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- CPEC as OBOR subset and India's strategic objections
+- Over-ground workers role in assisting terrorist organizations in insurgency
+- Hearts and Minds approach in Jammu and Kashmir conflict resolution
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

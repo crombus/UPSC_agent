@@ -102,3 +102,146 @@
 
 Geography → Human Geography → Regional Development  
 Geography → Human Geography → Planning Regions & Spatial Inequality
+
+## 12. Disparity, models and India's planning geography
+
+> **Why this section exists:** the file described regional-development models **without naming their
+> authors**, omitted cumulative causation entirely, and — most seriously — did **not distinguish
+> regional disparity from regional diversity**, although exactly that distinction has been examined.
+> A named theorist and a precise definition are what convert this topic from description to analysis.
+
+### 12.1 Disparity is not diversity
+
+| | **Regional diversity** | **Regional disparity** |
+|---|---|---|
+| ⚠️ What it describes | **Difference** in character — physical environment, language, culture, cropping pattern, cuisine, economic specialisation | **Inequality** in outcomes — income, productivity, employment, literacy, health, infrastructure and access to services |
+| ⚠️ Value content | Neutral, or positive; a resource | Negative; a deficit measured against a normative standard |
+| ⚠️ Measurement | Described and classified; not ranked | **Ranked** on comparable indicators, so a gap can be measured |
+| ⚠️ Desirable response | Recognise, protect, accommodate; federal and linguistic accommodation | Reduce, converge; targeted investment and transfers |
+| ⚠️ What happens if confused | Diversity is treated as a defect requiring homogenisation | Genuine inequality is excused as harmless variety |
+
+- ⚠️ **The relationship between them:** diversity becomes disparity when difference is **converted
+  into disadvantage** — when a region's distinct resource base, location or history yields
+  systematically lower incomes, weaker services and fewer opportunities. A hill region's distinct
+  agriculture is diversity; its lower access to health care and markets is disparity.
+- ⚠️ **The one-sentence formulation to use:** *diversity is difference without ranking; disparity is
+  difference that can be ranked and that disadvantages one region relative to another on a common
+  scale.*
+
+### 12.2 The theorists, named
+
+| Theorist / model | Central mechanism | Policy implication | Limitation |
+|---|---|---|---|
+| ⚠️ **Perroux — growth pole** | Growth is not diffuse; it originates in **propulsive industries** clustered at particular nodes, and spreads through linkages | Deliberately create or strengthen growth nodes rather than spread investment thinly | The spread often fails to occur; a pole can remain an enclave with few local linkages |
+| ⚠️ **Boudeville** | Reformulated the growth pole as a **geographic** rather than purely economic concept — a growth centre in real space | Makes the pole a planning instrument that can be located | Assumes linkages will form locally |
+| ⚠️ **Myrdal — circular and cumulative causation** | An initial advantage attracts capital, skilled labour and enterprise, which strengthens the advantage, which attracts more; markets therefore **increase** rather than reduce regional inequality unless corrected | Deliberate state intervention is required; markets alone will not converge | Understates the conditions under which spread does occur |
+| ⚠️ **Myrdal — backwash and spread** | **Backwash:** the core drains labour, capital and talent from the periphery. **Spread:** the core's demand for the periphery's food, raw materials and labour, and the diffusion of technology, benefit the periphery | Whether a region converges depends on which effect is stronger | The balance is hard to measure |
+| ⚠️ **Hirschman — polarisation and trickle-down** | The same two forces under different names, with more optimism that trickle-down eventually dominates | Unbalanced growth can be deliberate; imbalance creates the pressures that induce complementary investment | Trickle-down may be slow, partial or politically obstructed |
+| ⚠️ **Friedmann — core-periphery** | A dominant core organises a dependent periphery; over time an integrated system may emerge through intermediate centres | Build intermediate cities to restructure the space economy | Stage-based and somewhat deterministic |
+| ⚠️ **Rostow — stages of growth** | Development proceeds through identifiable stages toward self-sustaining growth | Investment thresholds matter | Linear, Eurocentric and widely criticised as a general theory |
+
+- ⚠️ **The synthesis that answers most questions:** Myrdal's cumulative causation explains why
+  disparities **persist and widen** without intervention; growth-pole theory explains what
+  intervention was attempted; and the enclave problem explains why that intervention frequently
+  failed to spread. Naming all three in sequence converts a list into an argument.
+
+### 12.3 Why regions diverge — the mechanisms behind the models
+
+| Driver | How it produces divergence |
+|---|---|
+| ⚠️ Initial physical endowment | Fertile alluvium, minerals, ports, navigable rivers and level terrain lower production and transport costs |
+| ⚠️ Historical legacy | Colonial port orientation, railway alignment and administrative centres created inherited advantages that persist |
+| ⚠️ Agglomeration economies | Existing industry attracts more industry through shared labour, suppliers and services (`32_Industries-and-Industrial-Regions.md`) |
+| ⚠️ Selective migration | The young, skilled and enterprising leave lagging regions, weakening them further — Myrdal's backwash in action (`27_Migration-Theories-and-Patterns-India.md`) |
+| ⚠️ Capital mobility | Investment follows expected return, which is higher where infrastructure and markets already exist |
+| ⚠️ Institutional and governance capacity | Ability to plan, spend, regulate and deliver varies sharply between states and districts, and determines whether transfers become outcomes |
+| ⚠️ Connectivity | Access to markets, ports and corridors determines whether a resource endowment can be commercialised |
+
+### 12.4 Planning regions and India's spatial planning instruments
+
+- ⚠️ **Types of planning region:**
+  - a **formal / homogeneous** region, defined by uniformity of a chosen characteristic — a drought-prone
+    belt, a tribal belt, a hill region;
+  - a **functional / nodal** region, defined by interaction around a node — a city and its
+    commuting and market hinterland, or a river basin;
+  - an **administrative / programme** region, defined by the boundaries through which a policy is
+    actually delivered — states, districts and blocks.
+- ⚠️ **The permanent tension:** problems are formal or functional in shape — a drought belt, an
+  aquifer, a basin, a metropolitan labour market — while **delivery is administrative**. Almost
+  every failure of regional planning can be traced to that mismatch, and saying so is the single
+  most transferable insight in this topic.
+- ⚠️ **India's instruments, at a conceptual level:** the Five-Year Plan era used backward-area
+  programmes, hill- and tribal-area sub-plans, and public-sector plant location as deliberate
+  instruments of spatial balance; the current architecture emphasises **district- and block-level
+  targeting on measured indicators**, industrial and freight corridors, and mission-mode schemes.
+  Institutional detail on the Planning Commission-to-NITI transition, the Aspirational Districts
+  and Blocks programmes and their dashboards is carried in
+  `advanced/29_Regional-Development-and-Five-Year-Plans.md`; the **geographic** point retained here
+  is that the unit of targeting has moved **downward in scale**, from state to district to block,
+  because state averages conceal intra-state disparity.
+- ⚠️ **The intra-state point:** disparity within states is often as large as disparity between them,
+  which is precisely why sub-state targeting emerged. An answer that discusses only inter-state
+  disparity is incomplete.
+
+> ⚠️ **Factual caution:** do **not** quote per-capita income ratios between states, a district count,
+> a scheme outlay or an index rank from memory. Name the mechanism and the instrument type;
+> attribute any figure to a named source with its date.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+### 13.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "What is regional disparity? How does it differ from diversity? How serious is it in India?" | A precise definition, the ranked-versus-unranked distinction, the conversion mechanism, and then a **graded** severity judgement with indicators named | Treat the two terms as synonyms, or answer only the third part |
+| "Examine the growth-pole strategy" | Perroux's propulsive-industry logic, Boudeville's spatial reformulation, and the enclave failure | Describe it approvingly without the failure record |
+| "Why do regional inequalities persist?" | Myrdal's cumulative causation with backwash and spread, plus the seven divergence drivers | List poor regions |
+| "Discuss planning regions" | The formal, functional and administrative typology and the delivery mismatch | Define "region" generically |
+
+### 13.2 Reusable 15-mark spine — regional disparity in India
+
+1. **Thesis:** regional disparity in India is serious and, on several dimensions, **self-reinforcing**
+   — but it must first be separated from regional diversity, which is neither a problem nor a target
+   of policy.
+2. **Definition and distinction:** ranked inequality of outcomes versus unranked difference of
+   character, and the mechanism by which difference becomes disadvantage.
+3. **The measurement question:** disparity must be stated on named dimensions — income and
+   productivity, employment structure, human development, infrastructure and service access — because
+   a region can lag on one and lead on another.
+4. **Why it persists:** cumulative causation, with backwash operating through selective migration and
+   capital mobility, set against spread operating through demand and technology diffusion.
+5. **The Indian pattern, stated carefully:** the historic contrast between the industrialised and
+   irrigated west, north-west and south and parts of the north and east; strong **intra-state**
+   disparity; and specific structural categories — hill and tribal districts, drought-prone belts,
+   resource-rich but income-poor mineral districts, and border regions.
+6. **What has been tried:** plan-era backward-area and sub-plan instruments and public-sector
+   location; then corridor-led industrial policy; then indicator-based district and block targeting.
+7. **Assessment — the graded verdict:** convergence on **social indicators** such as literacy and
+   life expectancy has been more visible than convergence on **income and productivity**; and
+   sub-state targeting has improved measurement and administrative attention without by itself
+   changing the location of investment.
+8. **What would actually change it:** connectivity and reliable power to lagging regions;
+   institutional and fiscal capacity at state and district level so transfers become outcomes;
+   human capital to make migration a choice rather than a necessity; and building **intermediate
+   towns** so that opportunity is not concentrated only in a few metropolitan cores.
+9. **Conclusion:** graded — disparity is serious enough to be a first-order policy problem, but it is
+   a **development-strategy** problem rather than an inevitability, since regions with similar
+   endowments have diverged sharply according to governance and connectivity.
+
+### 13.3 Evidence units available in this file
+
+> **Claim:** markets left alone tend to widen rather than narrow regional inequality.
+> **Evidence:** cumulative causation holds that an initial advantage attracts capital, skilled
+> labour and enterprise, which strengthens that advantage; the corresponding backwash drains the
+> same factors from lagging regions. **Significance:** it establishes the analytical case for
+> deliberate spatial policy rather than reliance on growth alone. **Limitation:** spread effects are
+> real — core demand for peripheral food, labour and raw materials, and technology diffusion, do
+> transmit benefits — so the outcome is an empirical balance rather than a certainty.
+
+> **Claim:** the design of a planning region determines whether a policy can succeed.
+> **Evidence:** problems arrive in formal or functional shapes — a drought belt, an aquifer, a river
+> basin, a metropolitan labour market — while budgets and authority are organised administratively
+> by state, district and block. **Significance:** it explains recurrent implementation failure
+> without attributing it to intent, and it justifies basin- and cluster-based instruments.
+> **Limitation:** administrative units carry democratic accountability and fiscal authority that
+> functional regions lack, so they cannot simply be replaced.

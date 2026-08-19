@@ -17,8 +17,11 @@
 
 ## How this folder works
 
-- **Two tiers per topic:** `basic/NN` gives the must-do foundation; `advanced/NN`
-  adds mechanisms, policy debates, data interpretation and Mains depth.
+- **Two tiers per topic:** `basic/NN` is the independently answer-complete
+  Must-Do owner for Prelims and Mains: thesis, causal structure, named evidence,
+  counter-evidence, factual cautions and 10/15/20-mark architecture.
+  `advanced/NN` adds optional modelling, deeper debate and extra nuance; skipping
+  it must not reduce the attainable paper outcome.
 - **Same number = same topic** across both tiers.
 - **Tagging:** ✅ = directly grounded in the source references; ⚠️ = analytical
   inference/standard linkage; 📰 = current Survey or verified current-affairs hook.

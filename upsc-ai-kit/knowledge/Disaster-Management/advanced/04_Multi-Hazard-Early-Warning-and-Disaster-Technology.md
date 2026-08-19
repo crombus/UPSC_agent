@@ -158,11 +158,11 @@ stages, not detection alone.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **NDMA's SACHET/CAP Integrated Alert System** and the **Cell
-  Broadcast System** (nationwide launch and test **2 May 2026**,
-  C-DOT/DoT with NDMA/MHA) are the correct current anchors for
-  multi-channel dissemination architecture; **IMD's impact-based
-  warning/cyclone/heat-wave services** for impact-based-forecast rollout.
+- 📰 **NDMA's SACHET/CAP Integrated Alert System** is the correct current
+  anchor for official multi-channel dissemination architecture. A Cell
+  Broadcast launch date, coverage or handset-reach claim needs its own
+  dated DoT/NDMA source; **IMD's impact-based warning/cyclone/heat-wave
+  services** are the correct anchors for impact-based-forecast rollout.
 - ⚠️ **Cell broadcast is the strongest available answer to the
   authority-centralisation trade-off in Section 2, not a repeal of it.**
   It removes the *technical* bottleneck (SMS queuing, per-subscriber

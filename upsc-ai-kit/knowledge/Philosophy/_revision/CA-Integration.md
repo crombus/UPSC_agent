@@ -3,6 +3,10 @@
 > **Why:** UPSC Philosophy (esp. Paper-II) rewards **contemporary illustration**. A Rawlsian point + a live example (caste census, UCC) = higher marks. This file maps each item to **recent India-centric case studies** to drop into Mains answers.
 > **Tags:** 📰 = web-current (dated, verify before exam) · ✅ = settled fact · ⚠️ = analytical bridge.
 > **Last grounded:** 6 August 2026 (re-verify volatile items before your attempt).
+> **Doctrine-side update:** 15 August 2026 — a repaired-doctrine hook table was added at the end
+> of this file. **No factual or dated claim above was re-verified on that date**, and none was
+> changed; the update is purely about which *philosophical* module each existing anchor should be
+> attached to.
 
 ---
 
@@ -88,5 +92,26 @@
 
 ---
 
-> 🔑 **Deployment rule:** ONE live example per answer, in the assessment/conclusion — never lead with CA, never let it crowd out doctrine. Format: *"This is not merely academic — witness the current debate on X…"* then land the philosophical point.
+## REPAIRED-DOCTRINE HOOKS (added 15 August 2026)
+
+The modules promoted into Core on 15 August 2026 changed **which concept a live example is
+illustrating**, not which examples are usable. This table re-attaches the anchors already listed
+above; it adds **no new dated claim**. ⚠️ Every entry is an analytical bridge.
+
+| Repaired module (now Core) | Anchor to reuse from this file | The philosophical point the example must serve |
+|---|---|---|
+| **Political obligation & civil disobedience** ([Individual & State](../paper-2/socio-political/Individual-and-State.md)) | rights-vs-accountability items under §3 | Whether the duty to obey rests on consent, fair play, natural duty or associative membership — and why principled disobedience *accepts* the legal consequence |
+| **Non-domination** ([Ideals](../paper-2/socio-political/Social-Political-Ideals.md)) | the §1 equality/justice items | Freedom as absence of *vulnerability to arbitrary power*, not merely absence of interference |
+| **Recognition vs redistribution** ([Humanism–Secularism–Multiculturalism](../paper-2/socio-political/Humanism-Secularism-Multiculturalism.md)) | the §6 secularism and multiculturalism items | Whether the grievance is misrecognition of identity (Taylor), bivalent status injustice (Fraser) or thwarted recognition (Honneth) — do not let the example decide it for you |
+| **Communicative & restorative punishment** ([Crime & Punishment](../paper-2/socio-political/Crime-and-Punishment.md)) | the §7 punishment items, incl. Law Commission Report No. 262 | Whether punishment addresses the offender as a citizen; whether reparation and reintegration can coexist with public censure. ⚠️ If you cite any statutory provision for victim compensation or negotiated pleas, verify the current text before the exam — do not quote a section number from memory |
+| **Degrowth / productivism critique** ([Development](../paper-2/socio-political/Development-Social-Progress.md)) | the §8 capability and displacement items | Whether progress is being measured by output at all, and at what ecological and human cost — the target is productivism, not merely distribution |
+| **Care ethics & intersectionality** ([Gender](../paper-2/socio-political/Gender-Discrimination.md)) | the §9 gender items | Unpaid care, dependency and relational responsibility as moral categories, read as a corrective *inside* justice rather than a retreat from rights |
+| **Skeptical theism & horrendous evils** ([Problem of Evil](../paper-2/philosophy-of-religion/Problem-of-Evil.md)) | disaster/pandemic/war illustrations | Distinguish a **defence** (the *noseeum* inference fails) from a **theodicy** (God's reasons stated); and note that balancing off is not defeat |
+| **Religious naturalism & non-realism** ([Religion without God](../paper-2/philosophy-of-religion/Religion-without-God.md)) | the "spiritual but not religious" item | Whether a practice retains ultimacy, discipline, community and soteriology once supernatural assertion is dropped |
+| **Stace/Zaehner typologies** ([Religious Experience](../paper-2/philosophy-of-religion/Religious-Experience.md)) | faith-vs-scientific-rationality debates | Classification describes the experience; it does not settle its object — that question is epistemological |
+
+> 🔑 **Subordination rule, restated.** The repaired modules make the *doctrine* denser, not the
+> current affairs. One dated illustration, in the assessment paragraph, after the argument has
+> been made. An answer that leads with the example and reaches the doctrine last has inverted the
+> marks.
 > ⚠️ **Volatile items** (marital-rape litigation, Census rollout, UCC litigation, death-penalty method and Places of Worship Act cases) change — re-run a web check before the exam and update dates.

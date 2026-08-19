@@ -221,3 +221,36 @@ calm "eye" before decreasing (PDF p. 35).
   early-warning chain; topic 06 develops tsunami/coastal-hazard
   management for comparison; topic 08 develops the cyclone-to-flood
   cascade; topic 14 develops coastal critical-infrastructure resilience.
+
+## 13. Core-only answer architecture — forecast to coastal action
+
+> **Core firewall:** a cyclone answer must distinguish cyclone wind,
+> rainfall and storm surge, and must prove the warning became an
+> evacuation/continuity decision. Advanced critique is optional.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Cyclone risk is compound rather than wind-only. | Wind, intense rain, storm surge, river/urban flooding and lifeline disruption; **storm surge** is abnormal sea-level rise driven chiefly by wind and low pressure, distinct from astronomical tide. | It stops a narrow wind-warning answer and supports multi-sector preparedness. | Surge severity also depends on coast shape, bathymetry and tide; do not state a universal surge height. |
+| Warning content and lead-time stages serve different functions. | IMD Green/Yellow/Orange/Red action codes; Pre-Cyclone Watch/Alert/Warning/Post-Landfall Outlook lead-time sequence. | A 2022 answer can explain meaning and action rather than merely expand colours. | A red alert is an action-oriented forecast, not a guarantee of impact; colour codes are not the bulletin sequence. |
+| Coastal protection needs both built and ecosystem measures. | NCRMP shelters/evacuation roads/saline embankments plus bio-shields; Cyclone Remal (May 2024) as a warning–evacuation–response case. | Links forecast to shelter, evacuation, power/telecom and recovery. | NCRMP Phases I/II are completed projects; do not claim a Phase III or treat an asset created as proof of maintained readiness. |
+| Differential risk needs differential investment and last-mile capacity. | NCRMP Category I/II classification and the source's warning-response/grassroots-participation challenges. | Lets an answer explain why the weakest link is often action, not detection. | Category II is not risk-free; shelter construction does not demonstrate community use, accessibility or maintenance. |
+
+### 13.2 Executable spines
+
+- **10 marks — 2022 colour-warning route:** open that colours communicate
+  action thresholds; give Green/no warning, Yellow/be updated,
+  Orange/be prepared and Red/take action; distinguish from the
+  72/48/24/12-hour bulletin sequence; close with household and authority
+  action, not a generic weather description.
+- **15 marks — coastal preparedness:** use risk chain (cyclogenesis →
+  wind/rain/surge exposure → warning → evacuation/shelter → restoration).
+  Cite IMD, a shelter/road or bio-shield measure, and Remal or NCRMP;
+  add the warning-to-action limitation.
+- **20 marks — evaluate cyclone resilience:** organise prevention
+  (risk-sensitive siting/buffers), mitigation (resilient lifelines),
+  preparedness (graded alerts, drills, evacuation), response and BBB.
+  Include equity for fishers, persons with disabilities and remote
+  coastlines, then conclude that reduced mortality alone cannot prove
+  lower economic exposure or durable resilience.

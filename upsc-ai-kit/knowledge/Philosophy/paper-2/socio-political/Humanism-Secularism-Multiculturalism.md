@@ -323,6 +323,117 @@ The philosophical challenge is not whether India is diverse, but how equal citiz
 
 ---
 
+## 3A. RECOGNITION AND REDISTRIBUTION
+
+> ⚠️ **Why this section exists.** Taylor, Kymlicka and Parekh (§3.3–§3.5) establish that misrecognition is a genuine injury. They do not settle the harder question: **is recognition an independent dimension of justice, or a derivative of material inequality?** That question governs every stem that joins culture to inequality, and it is where caste, gender and minority-rights answers gain or lose their evaluative edge. This is a named-scholar reconstruction; no page, chapter, edition or verbatim wording is asserted.
+
+### 3A.1 The problem: two grammars of injustice
+
+| | **Redistribution grammar** | **Recognition grammar** |
+|---|---|---|
+| Injustice is ✅ | maldistribution — exploitation, deprivation, economic marginalisation | misrecognition — status subordination, stigma, disrespect, cultural devaluation |
+| Located in ✅ | the economic structure of society | institutionalised patterns of cultural value |
+| Collectivity is ✅ | a class, defined by position in production | a status group, defined by esteem and standing |
+| Remedy ✅ | redistribute resources, restructure the division of labour | revalue the disrespected identity, or transform the value patterns themselves |
+| Paradigm case ✅ | the exploited worker | the stigmatised or despised group |
+| Risk if used alone ⚠️ | economism — treats stigma as merely a reflex of poverty | culturalism — celebrates identity while leaving material hierarchy intact |
+
+⚠️ **Why the distinction matters practically:** the two remedies can pull against each other. Redistribution frequently requires *dissolving* the group as a distinct category — the aim is to abolish the class, not to affirm it. Recognition frequently requires *affirming* the group's distinctness. A programme that does both simultaneously can appear to be affirming an identity it is also trying to abolish. Naming this tension is the single most valuable move available on any culture-and-inequality stem.
+
+### 3A.2 Fraser: parity of participation as the unifying criterion
+
+✅ **Nancy Fraser** argues that neither grammar reduces to the other, and proposes a **perspectival dualism**: distribution and recognition are two analytically distinct dimensions of a single conception of justice, and any adequate claim must be assessed on both.
+
+✅ Her unifying standard is **parity of participation** — social arrangements are just when they permit all adult members to interact with one another as **peers**. This requires two conditions jointly:
+
+1. an **objective** condition — the distribution of material resources must secure participants' independence and voice, ruling out gross inequality, deprivation and exploitation;
+2. an **intersubjective** condition — institutionalised patterns of cultural value must express equal respect and provide equal opportunity for esteem, ruling out norms that systematically depreciate some groups.
+
+✅ Fraser further distinguishes **affirmative** remedies, which correct inequitable outcomes without disturbing the underlying framework that generates them, from **transformative** remedies, which restructure the generative framework itself. ⚠️ Her characteristic worry is that purely affirmative remedies can trigger backlash by marking beneficiary groups as deficient recipients, while leaving the deep structure untouched.
+
+**Reconstructed argument ⚠️:**
+
+1. some injustices — exploitation, income deprivation — are rooted in economic structure;
+2. some injustices — stigma, cultural depreciation, denial of standing — persist even where material position improves;
+3. neither type is reducible to the other, since a well-paid group can be despised and a respected group can be poor;
+4. therefore a one-dimensional theory of justice will misdiagnose one of the two;
+5. a single normative standard is nonetheless needed to adjudicate between them;
+6. parity of participation supplies it, because both maldistribution and misrecognition are wrong for the same reason — each prevents people from interacting as peers.
+
+**Presupposition ⚠️:** participatory standing, rather than welfare or self-realisation, is the proper currency of justice.
+
+### 3A.3 Honneth: recognition as the deeper category
+
+✅ **Axel Honneth** takes the rival position: recognition is not one dimension alongside distribution but the **fundamental moral grammar** of social conflict. Distributive struggles are themselves struggles over what a society esteems, and material claims are usually expressions of denied social worth.
+
+✅ He identifies three spheres of recognition, each with its corresponding form of injury:
+
+| Sphere | Mode of recognition | Self-relation developed | Corresponding disrespect |
+|---|---|---|---|
+| **Love / close relations** ✅ | affective care and concern | basic self-confidence | violation of bodily integrity; abuse |
+| **Law / rights** ✅ | recognition as a morally responsible person with equal rights | self-respect | denial of rights; exclusion from legal standing |
+| **Solidarity / achievement** ✅ | esteem for one's traits and contributions within a community of value | self-esteem | denigration; devaluing a way of life or form of work |
+
+**Reconstructed argument ⚠️:**
+
+1. persons develop a practical relation to themselves only through being recognised by others;
+2. each of the three spheres develops a distinct component of that self-relation;
+3. denial of recognition in any sphere is therefore an injury to the self, not merely a loss of goods;
+4. experiences of disrespect supply the moral motivation for social struggle;
+5. therefore social conflict is best understood as a struggle for recognition, with distributive demands as one of its idioms.
+
+**Presupposition ⚠️:** a theory of intersubjective self-formation can carry the whole weight of a theory of justice.
+
+### 3A.4 The dispute, and how to adjudicate it in an answer
+
+| Axis | **Fraser** | **Honneth** |
+|---|---|---|
+| Status of the two grammars | irreducibly **dual**, adjudicated by one standard | recognition is **foundational**; distribution is derivative |
+| Where injustice is located | institutionalised value patterns **and** economic structure | denied recognition, expressed in several idioms |
+| Normative standard | parity of participation — an institutional, status-based test | undistorted self-realisation across three spheres |
+| Strength | keeps economic structure visible and non-reducible | explains the moral *motivation* of struggle, which institutional accounts leave unexplained |
+| Weakness ⚠️ | thinner account of why misrecognition wounds | risks psychologising political economy; markets impose costs that no one intends as disrespect |
+
+**Objection → Reply ⚠️:**
+
+- **Objection (to Fraser):** a status-based, institutional criterion cannot explain the *depth* of the injury of contempt, which is felt as damage to the self rather than as exclusion from a procedure.
+  **Reply:** ⚠️ Fraser can reply that justice is a matter of institutionalised relations rather than of psychological states, and that grounding claims in self-realisation risks making justice depend on contested accounts of the good life. The residual problem — an under-theorised account of harm — remains.
+- **Objection (to Honneth):** economic mechanisms operate impersonally. Automation, capital flight and price movements devastate groups without anyone withholding esteem, so recognition cannot be the master category.
+  **Reply:** ⚠️ Honneth can reply that what counts as productive contribution is itself a culturally instituted evaluation. The residual problem is that this stretches "recognition" until it covers everything and thereby explains less.
+- **Objection (to both):** the framework may license affirming group identities as they stand, entrenching internal hierarchy — the objection Okin presses in §3.8.
+  **Reply:** ✅ Fraser's affirmative/transformative distinction is the direct answer: what is owed is not endorsement of any existing group self-description but the **transformation of the value patterns** that make equal standing impossible, which includes standing *within* the group.
+
+⚠️ **Adjudication line for an answer:** the defensible position is that recognition and redistribution are **analytically distinct and practically entangled** — misrecognition frequently causes and is reinforced by maldistribution, but each can persist without the other, so a remedy that addresses only one will under-perform. State this and you have taken a position; assert that "both are important" and you have not.
+
+### 3A.5 Placement against the thinkers already in this file
+
+- **Taylor (§3.3)** establishes that identity is dialogically formed and that misrecognition is a real harm — this is the *premise* Fraser and Honneth both accept and then contest the *scope* of.
+- **Kymlicka (§3.4)** supplies the institutional form — group-differentiated rights, with external protections permitted and internal restrictions refused. ⚠️ Fraser's transformative criterion supplies the reason *why* internal restrictions must be refused: a remedy that secures a group's standing externally while denying members equal standing internally fails parity of participation on its own terms.
+- **Parekh (§3.5)** supplies the method — intercultural dialogue — but dialogue presupposes participants who can speak as peers, which is precisely the objective and intersubjective condition Fraser specifies.
+- **Ambedkar** is the indispensable Indian anchor: his account of caste identifies **graded status** as a mechanism distinct from, though entangled with, economic deprivation, and his insistence that annihilation of caste requires attacking its sanctified value-system rather than only its material effects is a recognition-and-redistribution argument in Indian form. ✅ The doctrine itself is owned by [Caste Discrimination: Gandhi and Ambedkar](Caste-Gandhi-Ambedkar.md); name the affinity and route, do not re-expound it here.
+
+### 3A.6 The anthropocentrism limit of humanism
+
+✅ Every doctrine in this file — humanism, secularism, multiculturalism, and now recognition — takes the **human** as the unit of moral concern. That is a genuine boundary, and stating it converts a good answer into a philosophically self-aware one.
+
+**The objection, precisely stated ⚠️:** humanism does not merely omit non-human nature; it can positively license domination by making rational human agency the sole ground of moral status. If dignity attaches to rational self-legislating agents, then beings that are not such agents fall outside the moral community by construction, not by oversight.
+
+**Three replies, in ascending strength ⚠️:**
+
+1. **Instrumental:** ecological destruction harms human beings, and severely so; a consistent humanism must therefore protect ecosystems. ⚠️ This preserves anthropocentrism and merely extends its reach — it is the weakest reply and should be labelled as such.
+2. **Relational:** human flourishing is constituted, not merely supported, by relations with living systems, so ecological care is internal to a full account of human dignity rather than added to it.
+3. **Extensional:** the criterion that grounds human dignity — the capacity to fare well or badly, to be harmed, to have a life that can go better or worse — is not confined to human beings, so consistency requires extending moral considerability beyond the species boundary.
+
+⚠️ **The unresolved residue:** reply 3 concedes that the *name* "humanism" no longer fits the position it defends. An honest answer states this rather than concealing it: either humanism is reconstructed ecologically and gives up its species-centred criterion, or it retains the criterion and accepts a limit it cannot argue away. ✅ The full anthropocentric–biocentric–ecocentric spectrum, the shallow/deep ecology distinction and intergenerational justice are owned by [Development and Social Progress](Development-Social-Progress.md) §5A — name the limit here and route; do not develop the environmental philosophy in a humanism answer.
+
+### 3A.7 Indian application (legal-status caution)
+
+- ✅ Articles 15 and 17 of the Constitution of India prohibit discrimination on grounds including religion, race, caste, sex and place of birth, and **abolish untouchability**, forbidding its practice in any form. ⚠️ Article 17 is the clearest constitutional example of a **recognition** remedy — its target is a status injury, not a distributive shortfall — while reservation provisions under Articles 15 and 16 combine recognition with distribution. Note the combination; do not claim the Constitution adopts Fraser's or Honneth's theory.
+- ✅ Articles 29 and 30 protect the interests of minorities and their right to establish and administer educational institutions. ⚠️ These are constitutional provisions and are best read as **external protections** in Kymlicka's sense; they do not settle the internal-restriction question, which is a philosophical dispute and must be argued as one.
+- ⚠️ **Controlling caution:** a constitutional article is a dated legal fact. It can illustrate what a recognition remedy or a distributive remedy looks like; it cannot show that a philosophical theory of justice is correct. ❌ Do not describe any Indian community, government or period as an instance of misrecognition or of hegemony.
+
+---
+
 ## 4. INTER-THINKER / INTER-SCHOOL DEBATES
 
 ### 4.1 Roy vs Gandhi on humanism
@@ -385,6 +496,9 @@ The philosophical challenge is not whether India is diverse, but how equal citiz
 
 ### 7.1 Keywords
 
+**Promoted vocabulary (this pass) ⚠️:** maldistribution · misrecognition · status subordination · institutionalised patterns of cultural value · parity of participation · objective and intersubjective conditions · affirmative vs transformative remedy · spheres of recognition (love, rights, solidarity) · self-confidence, self-respect, self-esteem · disrespect · anthropocentric limit · ecological reconstruction of dignity
+
+
 - **Humanism:** dignity · autonomy · reason · agency · flourishing · common humanity · Radical Humanism · species-being · anti-anthropocentrism
 - **Secularism:** conscience · non-establishment · neutrality · equal citizenship · principled distance · inter-religious domination · intra-religious domination
 - **Multiculturalism:** recognition · accommodation · societal culture · external protections · internal restrictions · dialogue · hybridity · minority rights · essentialism
@@ -420,7 +534,7 @@ The philosophical challenge is not whether India is diverse, but how equal citiz
 | 2018 | Q3(a) | 20 | What do you understand by multi-culturalism ? How are globalization and multi-culturalism related ? How does their relationship affect cultural changes ? |
 | 2018 | Q3(c) | 15 | What form of humanism do you approve as relevant in the present day context ? Discuss in detail. |
 | 2019 | Q2(b) | 15 | What are the descriptive and normative perspectives on ideas of multiculturalism? |
-| 2020 | Q1(c) | 10 | Do you think secularism requires complete separation of religion and state? Discuss. |
+| 2020 | Q1(c) | 10 | Do you think that secularism requires complete separation of religion and state? Discuss. |
 | 2020 | Q3(b) | 15 | What do you understand by multiculturalism? Explain the structural characteristics that make a nation multicultural. |
 | 2021 | Q2(c) | 15 | Can humanism be a substitute for religion? Explain and evaluate in the context of the present Indian society. |
 | 2022 | Q1(a) | 10 | Discuss the role of enlightenment movement in the rise of humanism. |
@@ -437,41 +551,82 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 
 ## 9. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
-### 9.1 10 marks
+### 9.0 Directive decoder — the verb fixes the structure
 
-```text
-Define     : humanism / secularism / multiculturalism precisely.
-Distinguish: one nearby term—atheism, secularisation, plurality, tolerance.
-Argue      : 3 linked steps.
-Apply      : one Indian illustration, explicitly not proof.
-Assess     : one objection and a direct verdict.
-```
+| Directive in the stem | What is actually scored | Compulsory structural move | Failure mode |
+|---|---|---|---|
+| **Explain / Elucidate** | internal logic of one doctrine | definition → distinguishing it from a nearby term → argument → example | celebrating the value instead of expounding it |
+| **Discuss** | exposition plus one adjudicated tension | doctrine → rival model → objection → reply → verdict | listing thinkers with no adjudication |
+| **Critically examine / evaluate** | the objection–reply layer *is* the answer | two objections, each with reply and a residual problem | rhetorical endorsement of pluralism |
+| **Is X compatible with Y?** | conceptual entailment, not historical coexistence | what X entails → what Y requires → where they collide → resolution or limit | citing examples of coexistence as though that answered the question |
+| **How far / to what extent** | a degree judgment is compulsory | conditions of holding, conditions of failing | evasive balance |
+| **Comment on a thinker's position** | locate the position in its debate before judging | thinker's claim → what it opposes → limit → verdict | biography or reverent summary |
 
-### 9.2 15 marks
+⚠️ **Standing rule for this file:** these three doctrines invite celebratory writing. Every stem here is answered by **specifying limits**, not by affirming values. An answer that never says what the doctrine cannot do has not been evaluated.
 
-```text
-Frame  : identify the universalism–difference or religion–state tension.
-Body A : doctrine, argument and presupposition.
-Body B : thinker/model comparison.
-Critique: strongest objection—anthropocentrism, majoritarianism, internal restriction.
-Reply   : principled reconstruction.
-Close   : answer the directive word without rhetorical celebration.
-```
+### 9.1 10-mark method (~150 words · 4 moves · ~12 minutes)
 
-### 9.3 20 marks
+1. **Define, and distinguish from the nearest confusable term (2 lines):** humanism ≠ atheism; secularism ≠ secularisation; secularism ≠ irreligion; multiculturalism ≠ mere plurality; recognition ≠ toleration.
+2. **Argument (4–5 lines)** in three or four linked steps.
+3. **One evidence unit** from §9.4, with its limitation, plus one Indian illustration explicitly labelled as illustration and not proof.
+4. **Graded verdict (2 lines)** from §9.5.
 
-```text
-Frame   : locate the concept historically and normatively.
-Exposit : full doctrine with distinctions.
-Debate  : strongest rival model.
-India   : constitutional/judicial illustration with date and legal status.
-Critique: two objections and replies.
-Assess  : preserve universal dignity while specifying limits on public/community power.
-Close   : concise philosophical synthesis.
-```
+### 9.2 15-mark method (~220 words · 6 moves · ~18 minutes)
 
-**For Tagore:** opposites table → relational argument → nationalism/power objection → Ambedkarite supplement → verdict.
-**For secular democracy:** Gandhi's ethical fellowship → Ambedkar's constitutional morality → Bhargava's institutional mediation.
+1. **Frame the tension** — universalism against difference, religion against state, or recognition against redistribution.
+2. **Doctrine** with its argument and presupposition.
+3. **The strongest rival model** — strict separation against principled distance, Taylor/Kymlicka against liberal uniformity, Fraser against Honneth.
+4. **One table**: models of secularism (§2.3), the two grammars of injustice (§3A.1), or Fraser/Honneth (§3A.4).
+5. **One fully worked objection → reply → residual problem** — anthropocentrism, majoritarianism, internal restriction, essentialism or elite capture of group voice.
+6. **Conditional verdict** naming the constraint under which the doctrine survives.
+
+### 9.3 20-mark method (~300 words · 8 moves · ~25 minutes)
+
+1. **Provisional thesis** using the stem's own directive verb.
+2. **Locate the concept** historically and normatively in two lines.
+3. **Full doctrine** with its internal distinctions.
+4. **Strongest rival model**, given its best formulation.
+5. **Two objection → reply chains**, each ending in a residual problem.
+6. **The recognition/redistribution axis** (§3A) where the stem joins culture to inequality — this is the highest-yield addition available in this file.
+7. **One dated Indian constitutional or judicial illustration**, classified accurately, with the reminder that legal status is not philosophical proof.
+8. **Graded verdict** that preserves universal dignity while specifying limits on both state and community power.
+
+> ⚠️ On multiculturalism-versus-feminism stems, the mark-bearing move is Fraser's **affirmative/transformative** distinction: what is owed is not endorsement of a group's existing self-description but transformation of the value patterns that block equal standing — including standing *inside* the group. That converts Okin's objection from a dilemma into a criterion.
+
+### 9.4 Selectable evidence bank — 1 unit at 10 marks, 2 at 15, 4–5 at 20
+
+Each unit is **Claim → Named anchor → Use for → Limitation**.
+
+- **H1 · Dignity is grounded in humanity itself.** Claim: human beings possess worth independent of birth, revelation or utility, and are ends rather than means → Named: the humanist tradition; Kantian dignity → Use for: any humanism stem → Limit: ⚠️ anthropocentric by construction (§3A.6); state the limit rather than let the examiner supply it.
+- **H2 · Freedom must be materially and morally grounded, not merely asserted.** Claim: radical humanism seeks a rational, ethical, cooperative order in which the individual is sovereign and parties and states are means → Named: M. N. Roy → Use for: Indian-humanism stems; the foil to both liberal individualism and party communism → Limit: institutional design for the proposed alternative remains sketched rather than worked out.
+- **H3 · Unity through relation, not through uniformity.** Claim: the human is realised by reconciling finite and infinite, self and other, nation and humanity → Named: Tagore, *The Religion of Man*; *Nationalism* → Use for: nationalism-versus-humanity stems → Limit: ⚠️ Ambedkar's objection stands — an appeal to spiritual unity that does not dismantle graded status leaves hierarchy intact.
+- **H4 · Secularism is about the state's relation to religion, not about belief.** Claim: it requires non-establishment and equal citizenship, and is compatible with a deeply religious society → Named: §2.1–§2.3 → Use for: every secularism stem; the fastest way to dispose of the "secularism is anti-religious" trap → Limit: models differ sharply on what non-establishment requires in practice.
+- **H5 · Principled distance, not strict separation.** Claim: the state may engage or abstain differentially, on principle, to prevent both inter-religious and **intra-religious** domination → Named: Bhargava → Use for: Indian-secularism stems → Limit: ⚠️ discretion is the price of flexibility; the model must specify who judges, and on what principle, or it collapses into partisanship.
+- **H6 · Misrecognition is a real injury, not hurt feelings.** Claim: identity is formed dialogically, so systematic devaluation inflicts genuine harm → Named: Taylor, "The Politics of Recognition" → Use for: the premise of every multiculturalism answer → Limit: establishes that recognition matters, not how far group claims extend.
+- **H7 · External protections yes, internal restrictions no.** Claim: group-differentiated rights defending a minority against external pressure are justified; those restricting members' basic liberties are not → Named: Kymlicka, *Multicultural Citizenship* → Use for: the sharpest institutional criterion available on group rights → Limit: the boundary is contested in practice, and communities dispute which category a given claim falls into.
+- **H8 · Cultures are internally plural and mutually revisable.** Claim: the proper response to diversity is intercultural dialogue rather than either assimilation or fixed accommodation → Named: Parekh, *Rethinking Multiculturalism* → Use for: essentialism objections → Limit: dialogue presupposes participants who can already speak as peers — which is what §3A.2's two conditions supply.
+- **H9 · Justice has two irreducible dimensions.** Claim: maldistribution and misrecognition are analytically distinct wrongs, adjudicated by a single standard — parity of participation, requiring both an objective material condition and an intersubjective status condition → Named: Fraser → Use for: any culture-and-inequality stem; caste, gender and minority questions → Limit: a thinner account of *why* contempt wounds than Honneth's.
+- **H10 · Recognition is the deeper grammar.** Claim: love, rights and solidarity generate self-confidence, self-respect and self-esteem; disrespect in each sphere motivates social struggle → Named: Honneth → Use for: explaining the moral motivation of movements → Limit: risks psychologising impersonal economic mechanisms.
+- **H11 · Affirmative remedies can entrench what they relieve.** Claim: correcting outcomes without altering the generating framework can mark beneficiaries as deficient and provoke backlash; transformative remedies restructure the framework → Named: Fraser's affirmative/transformative distinction → Use for: multiculturalism-versus-feminism and reservation-adjacent stems → Limit: transformation is slower and politically harder, so the distinction states a trade-off rather than dissolving it.
+- **H12 · Untouchability is abolished by constitutional text.** Claim: Article 17 of the Constitution of India abolishes untouchability and forbids its practice in any form; Articles 29–30 protect minority interests and educational institutions → Named: constitutional provisions → Use for: the Indian illustration of recognition and of external protections → Limit: ✅ dated legal facts; ❌ not proof of any philosophical theory, and not a characterisation of any community or period.
+- **H13 · Every doctrine in this file is species-bounded.** Claim: humanism, secularism, multiculturalism and recognition all take the human as the unit of concern, which is a genuine limit and not an oversight → Named: §3A.6 → Use for: the closing limit-statement on any 20-mark humanism stem → Limit: ⚠️ the ecological reconstruction concedes that the species-centred criterion is given up; the full spectrum is owned by the Development file.
+
+### 9.5 Graded verdict formulas (adapt; never reproduce mechanically)
+
+- **Limit-specifying verdict:** "The doctrine secures ⟨equal dignity / equal citizenship / equal standing⟩, but only within a species boundary and only where ⟨named institutional condition⟩ holds; its value lies in what it excludes as much as in what it affirms."
+- **Two-dimension verdict:** "Recognition and redistribution are analytically distinct and practically entangled: misrecognition frequently causes and is reinforced by maldistribution, so a remedy addressing only one will under-perform."
+- **Model-choice verdict:** "Judged by the prevention of intra-religious as well as inter-religious domination, principled distance is superior to strict separation — at the cost of a discretion that must itself be principled and reviewable."
+- **Internal-limit verdict:** "Group rights are defensible as external protections and indefensible as internal restrictions; recognition owed to a community is not endorsement of the community's treatment of its own members."
+- **Asymmetric verdict:** "⟨Thinker⟩'s diagnosis of the injury is compelling; the institutional remedy requires the supplement that ⟨rival⟩ supplies."
+- **Reconstruction verdict:** "The objection defeats the doctrine in its abstract universalist form and leaves it standing in its dialogical, difference-sensitive reconstruction."
+
+### 9.6 Stem-specific spines
+
+- **For Tagore:** opposites table → relational argument → nationalism/power objection → Ambedkarite supplement → verdict.
+- **For secular democracy:** Gandhi's ethical fellowship → Ambedkar's constitutional morality → Bhargava's institutional mediation.
+- **For multiculturalism and gender:** Taylor's recognition premise → Kymlicka's external/internal criterion → Okin's objection → Fraser's affirmative/transformative reply → verdict on internal restrictions.
+- **For humanism at 20 marks:** doctrine → forms (Renaissance, Enlightenment, radical, ecological) → Indian statements (Tagore, Gandhi, Roy) → abstract-universalism objection with the caste and gender supplement → the anthropocentrism limit (§3A.6) stated as a limit, not concealed → verdict.
+
 
 ---
 
@@ -500,3 +655,8 @@ Close   : concise philosophical synthesis.
 - Susan Moller Okin, “Is Multiculturalism Bad for Women?”
 - [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), especially the Preamble and Articles 14–16, 25–30.
 - *S. R. Bommai v. Union of India* (Supreme Court judgment, 1994), used only as a dated constitutional illustration.
+- Nancy Fraser, writings on redistribution and recognition, parity of participation, and the affirmative/transformative distinction. Cited by position, not by page or verbatim wording.
+- Axel Honneth, *The Struggle for Recognition* — the love/rights/solidarity spheres and their corresponding forms of disrespect. Cited by title only; paraphrased, never quoted.
+- [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), Articles 15, 17, 29 and 30, used as dated constitutional illustrations only.
+
+> ⚠️ **Provenance note for §3A (added in this pass):** the recognition/redistribution module and the anthropocentrism-limit module are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Fraser, Honneth, Taylor, Kymlicka or Parekh, and no empirical claim is made about any Indian community, government or period. The anthropocentric–biocentric–ecocentric spectrum, shallow/deep ecology and intergenerational justice are deliberately **not** developed here; they are owned by [Development and Social Progress](Development-Social-Progress.md) §5A. The caste doctrine is owned by [Caste Discrimination: Gandhi and Ambedkar](Caste-Gandhi-Ambedkar.md).

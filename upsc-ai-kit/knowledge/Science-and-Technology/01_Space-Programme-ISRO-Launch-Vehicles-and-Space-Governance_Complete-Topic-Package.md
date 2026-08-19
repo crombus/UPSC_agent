@@ -345,6 +345,25 @@ SLV/ASLV (technology learning)
 
 
 
+## Audit reconciliation — Core-only answer architecture
+
+This package is reconciled to the repaired `basic/01` Core. The following answer engine is deliberately **Core-only**; the Advanced material above remains enrichment.
+
+**Thesis:** India’s launch architecture is a capability–institution–market system: ISRO builds sovereign R&D capability, IN-SPACe authorises/supervises non-government activity, NSIL commercialises assets, and transport/infrastructure projects must be labelled by their actual readiness.
+
+| Marks | Answer spine |
+|---|---|
+| 10 | Vehicle/orbit distinction → institutional split → one demonstrated capability + one status-qualified future item → concise verdict on reliability/cadence. |
+| 15 | Capability ladder → Space Policy 2023 role separation → strategic/economic application → industrial/range-safety/debris limitation. |
+| 20 | Add the capability-state-market comparison: sovereign access, commercial scaling, private participation, infrastructure, liability/supervision and a reasoned verdict rather than a rocket chronology. |
+
+**Core evidence units**
+- **Claim:** policy reform differentiates roles without withdrawing the State → **Indian Space Policy 2023 with ISRO/IN-SPACe/NSIL roles** → enables R&D, authorisation and commercial routes to specialise → **qualification:** it is policy, not a comprehensive space statute, and State supervision remains required.
+- **Claim:** fleet capability is mission-specific → **PSLV workhorse, GSLV cryogenic upper stage, LVM3 heavier/human-rated base** → connects launchers to Earth observation, GTO and crew-linked needs → **qualification:** GTO injection is not direct placement in GEO.
+- **Claim:** future capacity must be written with status verbs → **NGLV/Third Launch Pad approvals and SSLV–HAL transfer agreement** → demonstrate an industrial/infrastructure pipeline → **qualification:** approval or transfer does not prove commissioning, industry flight or market leadership.
+
+**Quick hostile check:** Reject any answer that says NGLV or the new pad is operational, treats NSIL as regulator, calls a GTO insertion GEO, or equates a private agreement with demonstrated launch capability.
+
 ## Solved topic-specific MCQs
 
 ### Q1. Which statement correctly resolves this common misconception: "ISRO, NSIL and IN-SPACe are just three names for the same organisation."?

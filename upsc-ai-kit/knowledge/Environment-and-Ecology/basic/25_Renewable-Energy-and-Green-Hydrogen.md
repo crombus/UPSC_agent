@@ -306,23 +306,54 @@ weak answers on this topic quote an allocation figure as though it were producti
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Direct demand — energy independence through clean technology and biotechnology (2025 GS-III, 10 marks)
+
+**Thesis:** energy independence means reducing exposure to imported fossil fuels and concentrated supply chains through a reliable, diversified low-carbon system; it does not mean autarky or mere installation of renewable megawatts.
+
+| Lever | Claim → named evidence/example → significance | Trade-off/qualification |
+|---|---|---|
+| Clean electricity and reliability | **Solar/wind plus transmission, demand response, battery/pumped storage and firm low-carbon capacity** → turns installed capacity into dependable supply; Economic Survey 2025-26 records 51.93% non-fossil *installed* capacity at end-December 2025. | Installed capacity is not generation/reliability; storage, minerals, land and grid constraints remain. |
+| Industrial decarbonisation | **National Green Hydrogen Mission/SIGHT** → renewable hydrogen can target fertiliser, refining and selected steel/shipping uses. | Allocated electrolyser/hydrogen capacity is not commissioned production; direct electrification is often preferable where feasible. |
+| Biotechnology and bioenergy | **National Bio-energy Programme**: biomass, biogas and waste-to-energy; microbial/enzymatic conversion can turn non-food residues into advanced biofuels, and anaerobic digestion can produce biogas/CBG from organic waste. | Feedstock collection, land/food competition, methane leakage, local air pollution and lifecycle accounting determine whether a route is genuinely clean. |
+| Bio-based innovation | **DBT/BIRAC BioE3** supports high-performance biomanufacturing, bio-based chemicals/enzymes and carbon-capture/utilisation research. | BioE3 approval/proposals are enabling inputs, not proof of commercial energy output. |
+
+**150-word spine:** define energy independence → clean-technology system (generation–grid–storage–efficiency) → biotechnology/bioenergy routes → constraints and a diversified-supply verdict. Use Science-and-Technology `basic/13` for deeper biotech mechanisms; this Core section independently supplies the energy linkage.
+
+### 13.2 15/20-mark energy-transition spine
+
+Compare renewable capacity with dispatchability; add green hydrogen’s hard-to-abate role, critical-mineral/circular-economy needs, species-sensitive siting (Great Indian Bustard example with current order status) and affordability/just-transition conditions. Conclude with **integration, not installation** as the 2026–2047 test.
+
+### 13.3 Historical renewable-energy demand bank
+
+| Demand family | Core answer route | Qualification |
+|---|---|---|
+| Solar/wind potential and benefits | Resource endowment plus modular, fuel-free operation → energy-access, emissions and import-dependence gains; then add land, variability, transmission/storage and local ecological constraints. | Do not infer actual generation from nameplate capacity or call all non-fossil power renewable. |
+| Grid cooperation/Green Grid | Diverse time zones and resource profiles can reduce curtailment/reserve pressure; pair interconnection with domestic transmission, storage, cybersecurity and clear commercial rules. | A grid initiative is not itself delivered cross-border electricity; verify current participating instruments and projects. |
+| Shift from fossil subsidies | Identify consumer protection, producer support and tax/price signals; sequence reform with clean alternatives, worker/region transition and grid investment. | “Phase down inefficient subsidies” is not a blanket instruction to remove all support, especially where energy access and equity remain at stake. |
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2018, 2020, 2022, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 6
+- **Years represented:** 2018, 2020, 2021, 2022, 2023
+- **Paper(s):** GS-I, GS-III, Prelims GS-I
+- **Routed question demands:** 11
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | Prelims GS-I | 67 | Solar power production silicon wafers and tariff regulation India | Objective question; official key unavailable locally | Cross-routed to solar-technology and energy-regulation owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2020 | GS-I | 16 | Solar energy potential and its regional variations in India | Elaborate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-III | 16 | Solar energy benefits versus conventional energy and government initiatives | Describe · 15 marks · 250 words | Cross-routed to renewable-technology and exam-complete Core energy-infrastructure owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2020 | Prelims GS-I | 84 | Biofuels raw materials permitted under National Policy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | Prelims GS-I | 88 | Solar water pumps surface submersible centrifugal piston types | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | GS-III | 6 | Green Grid Initiative purpose at COP26 and ISA origin | Explain · 10 marks · 150 words | Cross-routed to climate/solar and exam-complete Core grid-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-I | 7 | Wind energy potential in India and its limited spatial spread | Examine and explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 12 | Renewable energy 2030 target and shift from fossil fuel subsidies | Justify · 15 marks · 250 words | Cross-routed to climate-transition and exam-complete Core subsidy/energy-market owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | Prelims GS-I | 84 | Solar parks floating solar and airport projects Indian states | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 60 | Green hydrogen applications fuel blending and fuel cells | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 99 | Green hydrogen decarbonizing fertilizer oil refinery steel industries | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
@@ -330,8 +361,13 @@ weak answers on this topic quote an allocation figure as though it were producti
 ### What this owner must now support
 
 - Solar power production silicon wafers and tariff regulation India
+- Solar energy potential and its regional variations in India
+- Solar energy benefits versus conventional energy and government initiatives
 - Biofuels raw materials permitted under National Policy
 - Solar water pumps surface submersible centrifugal piston types
+- Green Grid Initiative purpose at COP26 and ISA origin
+- Wind energy potential in India and its limited spatial spread
+- Renewable energy 2030 target and shift from fossil fuel subsidies
 - Solar parks floating solar and airport projects Indian states
 - Green hydrogen applications fuel blending and fuel cells
 - Green hydrogen decarbonizing fertilizer oil refinery steel industries

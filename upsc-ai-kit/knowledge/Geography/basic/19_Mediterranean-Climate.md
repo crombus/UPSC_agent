@@ -94,3 +94,60 @@ attribution multipliers and emissions must be tied to a named agency and final s
 
 - Explain how seasonal pressure-belt migration creates Mediterranean summer drought and winter rain.
 - Use 2025 wildfires to show how climate change amplifies natural Mediterranean fire risk and disaster-management needs.
+
+## 9. Answer architecture (10/15/20-mark support)
+
+### 9.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Explain the winter-rain regime of Mediterranean lands" | The seasonal migration of pressure belts — subtropical high in summer, westerly depressions in winter | Say "it rains in winter there" |
+| "Why is Mediterranean agriculture distinctive?" | Summer drought plus mild winter -> deep-rooted, drought-adapted tree and vine crops plus irrigated summer horticulture | List crops without the climatic logic |
+| "Discuss the wildfire problem of Mediterranean regions" | Fuel accumulation in the wet season, desiccation in the summer drought, ignition, and wind-driven spread, plus the land-abandonment factor | Treat fire as purely accidental |
+
+### 9.2 The mechanism, compressed
+
+```text
+SUMMER: the subtropical high shifts poleward and sits over these coasts
+        -> subsidence, stability, clear skies, drought
+WINTER: the high retreats equatorward; the westerly belt and its travelling
+        depressions move in -> frontal rain
+RESULT: the only major climate type with a pronounced SUMMER DROUGHT and
+        WINTER RAINFALL MAXIMUM - the reverse of the monsoon pattern
+LOCATION: western margins of continents at roughly 30-45 degrees, i.e. the
+        transition zone BETWEEN the desert belt and the westerly belt
+```
+
+> 🔑 **Trap:** Mediterranean climate occurs on **western** continental margins in this latitude band
+> because that is where the seasonal alternation between the subtropical high and the westerlies
+> operates. Eastern margins at the same latitude have a wholly different regime — see
+> `21_Warm-Temperate-Eastern-Margin-China-Type.md`.
+
+### 9.3 Reusable 10-mark spine — climate and land use in Mediterranean lands
+
+1. **Thesis:** Mediterranean agriculture is the clearest case in world geography of a farming system
+   engineered around a **single climatic constraint** — summer drought coinciding with maximum
+   sunshine and heat.
+2. **Mechanism:** the seasonal pressure-belt migration.
+3. **The vegetation response:** sclerophyllous scrub and woodland — small, hard, waxy, often
+   evergreen leaves; deep roots; thick bark; fire adaptation.
+4. **The agricultural response:** tree and vine crops that survive the drought on deep roots;
+   winter-rain cereals; and irrigated summer horticulture where water can be supplied.
+5. **The comparative advantage:** high sunshine plus irrigation gives out-of-season fruit and
+   vegetables for distant markets — which is why these regions are export horticulture belts
+   worldwide, not only around the Mediterranean Sea itself.
+6. **The vulnerabilities:** wildfire, summer water competition between agriculture, tourism and
+   cities, and soil erosion on cleared slopes in intense winter rain.
+7. **Conclusion:** graded — the regime is a constraint that has been converted into a specialised
+   comparative advantage, but only where irrigation water can be secured.
+
+### 9.4 Evidence unit
+
+> **Claim:** identical climates on four continents produce a convergent agricultural landscape.
+> **Evidence:** the Mediterranean basin, California, central Chile, the Cape region and
+> south-western Australia all specialise in vines, olives or equivalent tree crops, citrus and
+> irrigated horticulture. **Significance:** it is the strongest available demonstration that
+> climate exerts a real, transferable influence on land use across quite different societies.
+> **Limitation:** the convergence is in crop *type*, not in scale, ownership or market orientation —
+> those depend on capital, land tenure and market access, which is why the influence is a
+> constraint rather than a determinant.

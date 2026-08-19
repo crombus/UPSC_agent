@@ -5,8 +5,10 @@
 > **Core area:** Designing relevant, non-forced openings and earned,
 > forward-looking closures that avoid manufactured anecdotes and verbatim
 > repetition.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Section 9.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Section 9.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../advanced/06_Introductions-and-Conclusions.md`
@@ -58,6 +60,22 @@ end almost any essay on any topic.
    just a summary?
 5. Would my conclusion still make sense if pasted onto a different essay
    on a different prompt? (If yes, it is too generic.)
+
+## 5a. Provisional-answer / tested-answer alignment check
+
+⚠️ The introduction gives a **provisional answer**: it raises the
+prompt's tension and signals the direction of the thesis without
+pre-solving every qualification. The conclusion gives the **tested
+answer**: it returns to that same tension after the body has supplied
+mechanism, evidence, limits and synthesis.
+
+Before finalising the frame, ask:
+
+1. Does the opening promise the argument the body actually develops?
+2. Does the conclusion answer that promise in a more qualified form,
+   rather than merely repeat it?
+3. Has either frame introduced a claim or illustration that the body
+   never develops?
 
 ## 6. Dimension-expansion grid
 

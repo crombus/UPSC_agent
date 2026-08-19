@@ -690,6 +690,37 @@ LOCATION
 
 ---
 
+## 28A. Answer-architecture recall (added 13 Aug 2026)
+
+Every Core file now ends with an **`Answer architecture (10/15/20-mark support)`** section. Before
+writing any GS-I answer, recall this five-step frame and then open the owning Core file for its
+topic-specific spine.
+
+```text
+1. DECODE   Which directive? Explain / Discuss / Examine / Critically examine / Compare / Assess.
+            Every subpart of the question must appear as a visible part of the answer.
+2. THESIS   One qualified sentence stating your position. NEVER restate the question.
+3. SPINE    Choose the architecture the question demands, not a default template:
+              causal chain | mechanism | comparison axes | spatial pattern |
+              stakeholder | scale ladder (local -> regional -> national -> transboundary)
+4. EVIDENCE Each paragraph = CLAIM -> NAMED EVIDENCE/EXAMPLE -> WHY IT SUPPORTS ->
+            LIMIT/VARIATION. Examples must perform work; do not append them decoratively.
+5. VERDICT  A graded conclusion that answers the exact question and follows from the analysis.
+```
+
+| Geography-specific answer move | When to use it |
+|---|---|
+| Separate **hazard × exposure × vulnerability** | Any disaster, cyclone, flood, landslide or earthquake question |
+| Separate **process → pattern** ("why here and not elsewhere") | Any distribution question; this is what makes an answer geographical |
+| Refuse **single-cause attribution** | Delta erosion, glacier retreat, desertification, flooding, lake shrinkage |
+| Name the **scale mismatch** between problem and administrative unit | Aquifers, basins, urban catchments, sediment cells, metropolitan regions |
+| State **physical constraint vs human agency** explicitly | Any settlement, agriculture, development or "geography is destiny" question |
+| Use **relative** rather than absolute framing | Sea-level rise, density (physiological, not arithmetic), accessibility |
+| Apply the same **comparison axes to both cases in one paragraph** | Every comparative regional or climate-type question |
+| Mark **certainty grades** in the conclusion | Climate-linked and teleconnection questions |
+
+---
+
 ## 29. Source map: exam-complete Core and optional Advanced
 
 - [Master Conceptual Framework](00_Master-Framework.md)

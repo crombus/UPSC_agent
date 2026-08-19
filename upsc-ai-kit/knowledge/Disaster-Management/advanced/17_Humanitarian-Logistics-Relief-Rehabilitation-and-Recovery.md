@@ -60,18 +60,14 @@ strategy for an unforecastable one.
 
 ## 3. Legal/institutional depth
 
-- ✅ **ICS's precise institutional handover point, analysed
-  structurally**: VisionIAS's clean break — ICS "deactivated as the
-  rehabilitation phase is over," with "normal administration" then
-  handling "remaining reconstruction works" (PDF p. 9) — creates a
-  distinct institutional-accountability transition: emergency-command
-  authority (ICS, working through the Emergency Operations Centre
-  network per topic `05`) yields to routine bureaucratic authority. An
-  advanced answer should note this transition point is itself a risk:
-  a premature handover (declaring rehabilitation complete too early)
-  could leave reconstruction without the coordinated authority ICS
-  provided, while a delayed handover risks bureaucratic dependency on
-  emergency structures beyond their intended scope.
+- ✅ **Emergency-command handover point, analysed structurally**:
+  VisionIAS's generic ICS model is "deactivated as the rehabilitation
+  phase is over," with "normal administration" then handling "remaining
+  reconstruction works" (PDF p. 9). In an Indian answer, name the IRS
+  and EOC rather than relabelling them ICS; the generic phase logic only
+  frames the accountability transition. A premature handover can leave
+  reconstruction without coordinated authority, while a delayed one can
+  create dependency on emergency structures beyond their intended scope.
 - ✅ **NDRF's composition as evidence of specialised, not generalist,
   design**: engineers, technicians, paramedics and dog squads (PDF p.
   13) reflect a deliberately multi-disciplinary force structure — an
@@ -144,11 +140,12 @@ strategy for an unforecastable one.
   about rehabilitation-phase functional restoration or reconstruction-
   phase risk-informed rebuilding; an advanced answer should evaluate
   each phase's performance separately.
-- ⚠️ **Institutional-handover risk** (Section 3) — the ICS-to-normal-
-  administration transition — is a source-implied but under-analysed
-  accountability gap: VisionIAS does not detail a formal criterion for
-  when rehabilitation is judged "over," leaving the handover timing
-  potentially discretionary and under-scrutinised.
+- ⚠️ **Institutional-handover risk** (Section 3) — the IRS/EOC-to-normal-
+  administration transition, informed by the generic ICS phase logic —
+  is a source-implied but under-analysed accountability gap. VisionIAS
+  does not detail a formal criterion for when rehabilitation is judged
+  "over," leaving handover timing potentially discretionary and
+  under-scrutinised.
 
 ## 9. Financing/monitoring/accountability
 
@@ -219,8 +216,9 @@ same analytical scrutiny as the more visible relief phase.
 2. **Distinguish the three DM-cycle phases precisely** (Section 2 of
    the basic file), never treating "recovery" as a single undifferentiated
    activity.
-3. **Name the ICS-to-normal-administration handover risk** (Section 3,
-   8) as a specific accountability gap.
+3. **Name the IRS/EOC-to-normal-administration handover risk** (Section
+   3, 8) as a specific accountability gap, using generic ICS only as
+   the source model rather than the Indian institutional label.
 4. **Flag the rapid-assessment-versus-equitable-accuracy trade-off**
    (Sections 6-7) explicitly.
 5. **Note the two-speed (temporary-then-full) restoration strategy**

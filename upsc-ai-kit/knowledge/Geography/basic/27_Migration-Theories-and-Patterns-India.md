@@ -115,6 +115,126 @@ Majid Husain explains the logic through **push factors** from the origin and **p
 Geography → Human Geography → Migration  
 Geography → Human Geography → Migration Streams & Consequences
 
+## 12. Migration models, India's streams and the policy question
+
+> **Why this section exists:** the file named Ravenstein and Lee but omitted the **predictive and
+> economic models**, carried **no Indian migration corridors or streams**, and treated remittances
+> and distress migration as passing mentions. Those are the elements a 10- or 15-mark answer needs.
+
+### 12.1 The model set, arranged by what each explains
+
+| Model | Core proposition | What it explains well | Where it fails |
+|---|---|---|---|
+| ⚠️ Ravenstein's laws | Most migration is short-distance and proceeds by steps toward centres of commerce and industry; each stream generates a counter-stream; women predominate in short-distance movement | Distance decay, step migration, counter-streams — still empirically robust | Derived from one nineteenth-century national context; treats migration as largely economic |
+| ⚠️ Lee's push-pull framework | Migration results from factors at origin, factors at destination, **intervening obstacles**, and personal factors | Adds obstacles and perception; explains why identical differentials produce different flows | Descriptive rather than predictive; the categories are not measurable |
+| ⚠️ Gravity model | Flow between two places rises with their populations and falls with the distance between them | Gives a usable quantitative first approximation of flow volume | Ignores culture, networks, policy and information; distance is a poor proxy for real cost |
+| ⚠️ Stouffer's intervening opportunities | Migration to a destination is proportional to the opportunities there and inversely proportional to the opportunities encountered along the way | Explains why a nearer, smaller city can capture migrants bound for a larger one | Requires opportunity to be quantifiable |
+| ⚠️ Todaro / Harris-Todaro | Migrants respond to **expected** urban income — the urban wage discounted by the probability of getting a job — not to the observed wage | Explains why rural-urban migration continues despite visible urban unemployment; explains informal-sector absorption | Assumes better information than migrants have; understates non-economic motives |
+| ⚠️ Zelinsky's mobility transition | Mobility type changes systematically with the stage of the demographic transition — from rural colonisation to rural-urban to inter-urban and circular movement | Links migration to demography; explains why mobility patterns change over development | Broad-brush and stage-based, with the same limitations as the transition model |
+| ⚠️ Network / chain migration | Earlier migrants lower the cost and risk for later ones from the same origin | Explains **corridor persistence** — why specific source districts feed specific destinations for decades | Under-explains the initial flow |
+
+- ⚠️ **The most useful pairing in an answer:** Todaro explains *why* people move despite urban
+  unemployment; network theory explains *why they move to that particular city*. Neither alone
+  explains observed Indian corridors.
+
+### 12.2 India's migration geography
+
+| Stream | Character | Analytical point |
+|---|---|---|
+| ⚠️ Rural-to-rural | Historically the largest internal stream in India, and heavily female because **marriage** is the dominant recorded reason for female migration | This is why raw migration totals are misleading if read as economic movement |
+| ⚠️ Rural-to-urban | The classic economic stream; strongly male-dominated in the work category | The stream that drives urbanisation and informal-sector growth |
+| ⚠️ Urban-to-urban | Growing with a maturing urban system | Skilled and inter-metropolitan movement |
+| ⚠️ Urban-to-rural | Smallest; return migration on retirement, distress or shock | The 2020 pandemic reversal was a temporary, extreme instance |
+| ⚠️ Seasonal and circular | Repeated short-term movement tied to the agricultural calendar and construction cycles | Systematically under-counted by censuses that use a place-of-last-residence definition; this measurement problem is itself an examinable point |
+| ⚠️ International — skilled | Professional emigration to advanced economies | Brain drain versus brain circulation and diaspora investment |
+| ⚠️ International — contract labour | Semi-skilled and unskilled contract work, notably to West Asia | The principal remittance source for specific southern and eastern source regions |
+
+- ⚠️ **Direction of internal flow:** the dominant economic movement runs from **densely populated,
+  agriculturally dependent, lower-income regions of the north and east** toward the
+  **industrial-urban and irrigated-agricultural regions of the west, north-west and south**. This
+  reflects exactly the regional disparity analysed in
+  `29_Regional-Development-and-Five-Year-Plans.md` — migration is disparity made visible.
+- ⚠️ **Remittances** operate at two scales: internal remittances sustain consumption, housing,
+  education and debt repayment in source villages; international remittances have transformed
+  specific source regions' housing, education and land markets. The analytical point is that
+  remittances **raise consumption and reduce poverty reliably, but do not by themselves create local
+  productive employment** — which is why source regions can become remittance-dependent without
+  becoming developed.
+
+### 12.3 Effects, stated as a balance sheet
+
+| | **Source region** | **Destination region** |
+|---|---|---|
+| ⚠️ Gains | Reduced pressure on land and jobs; remittance inflow; skills and ideas returning; reduced open unemployment | Labour supply for construction, manufacturing and services; demographic rejuvenation; entrepreneurship and cultural diversity |
+| ⚠️ Losses | Loss of the young, able and often better-educated; skewed age and sex structure; land left under-cultivated; social costs to families left behind | Pressure on housing, water, sanitation and transport; informal settlement growth; wage competition at the bottom; occasional political backlash |
+| ⚠️ The honest verdict | Migration is a **rational household risk-diversification strategy**, not a symptom of failure — but it redistributes the costs of regional inequality onto migrants themselves | The city gains the labour and externalises the reproduction cost of that labour back to the source region |
+
+- ⚠️ **Distress migration** is distinguished from opportunity migration by its trigger — crop
+  failure, debt, disaster, conflict or displacement — and by the migrant's weak bargaining position
+  on arrival. **Climate- and disaster-induced displacement** is a growing category, and it does not
+  fit the voluntary-migration models above, because the decision is not a wage comparison.
+- ⚠️ **The portability problem:** an internal migrant in India can lose practical access to
+  entitlements tied to place of registration — rations, health services, schooling and voting — and
+  policies attempting portability of benefits address exactly this. Institutional detail belongs to
+  `Social-Justice` and `Governance`; the geographic point is that **mobility outruns the
+  territorial design of welfare delivery**.
+
+> ⚠️ **Factual caution:** do **not** quote a migrant count, a share of internal migrants, remittance
+> values or corridor volumes from memory. The folder's Census-currency rule applies, and any survey
+> figure must carry its source name and release date.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+### 13.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Why do large cities attract more migrants than smaller towns?" | Scale and diversity of the opportunity set, expected-income logic, network effects, and the intervening-opportunity qualification | List urban amenities |
+| "Discuss the effects of migration on source and destination" | The two-column balance sheet with named mechanisms on both sides, then a verdict | Give a one-sided problem list |
+| "Examine distress migration" | The trigger-based definition, the weak-bargaining consequence, and the entitlement-portability problem | Merge it with ordinary economic migration |
+| "Evaluate migration theories" | What each model explains and where it fails, then the combined explanation | Describe each theory in sequence |
+
+### 13.2 Reusable 10-mark spine — "why the largest cities capture the most migrants"
+
+1. **Thesis:** migrants are drawn to the largest cities not by higher observed wages alone but by the
+   **breadth of the opportunity set and the probability of finding some work**, reinforced by
+   pre-existing social networks.
+2. **Expected-income mechanism (Todaro):** the migrant compares the urban wage **discounted by the
+   probability of employment** with the rural alternative; large cities offer a higher probability
+   across more sectors, so migration persists despite visible unemployment.
+3. **Diversity of the opportunity set:** construction, manufacturing, transport, domestic work,
+   retail and the wider informal economy provide multiple simultaneous entry points, which reduces
+   the risk of arriving and finding nothing.
+4. **Network effects:** earlier migrants supply information, initial housing, job contacts and
+   credit, lowering entry cost — which is why corridors persist between specific source districts
+   and specific destination cities.
+5. **Agglomeration:** larger cities have higher and more diverse labour demand, better connectivity
+   and better health, education and service access.
+6. **Counterpoint and qualification:** Stouffer's intervening opportunities predict that a nearer
+   growing city can intercept the flow, and the emergence of regional urban centres does divert
+   some movement; large-city costs of living, housing and commuting also offset the wage advantage.
+7. **Conclusion:** graded — the pull of large cities is a symptom of the **spatial concentration of
+   opportunity**, so it can only be moderated by building genuine opportunity in intermediate towns,
+   not by restricting movement.
+
+### 13.3 Evidence units available in this file
+
+> **Claim:** migration continues toward cities that already have visible unemployment, so the
+> observed-wage explanation is inadequate. **Evidence:** the expected-income framework holds that
+> migrants weigh the urban wage by the probability of obtaining work, and that a large, diversified
+> informal sector raises that probability. **Significance:** it explains persistent rural-urban
+> movement and the growth of informal employment as a rational response rather than a mistake.
+> **Limitation:** it assumes migrants have reasonably good information about urban conditions, and
+> it under-weights marriage, education, kinship and distress, which drive much observed movement.
+
+> **Claim:** migration corridors are social structures, not merely economic gradients.
+> **Evidence:** specific source districts feed specific destination cities over decades because
+> earlier migrants supply information, housing, credit and job contacts to later ones.
+> **Significance:** it explains corridor persistence, occupational clustering by origin community,
+> and why the same wage differential produces flows along some routes and not others.
+> **Limitation:** network theory explains continuation better than initiation, so the original
+> impetus must still be explained economically or historically.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

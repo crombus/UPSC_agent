@@ -19,7 +19,7 @@ ENERGY TRILEMMA
 │ SECURITY   │ AFFORD-   │ SUSTAIN-  │
 │ (supply    │ ABILITY   │ ABILITY   │
 │ reliability│ (price    │ (transition│
-│ 89.1% crude│ exposure) │ pressure) │
+│ 88.2% crude│ exposure) │ pressure) │
 │ import dep)│           │           │
 └───────────┴───────────┴───────────┘
         |
@@ -59,8 +59,8 @@ between reliable supply, cost and long-term transition pressure.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **Energy trilemma applied to West Asia** | ⚠️ India's crude-oil import dependence — 📰 89.1% in FY2024-25 and FY2025-26 provisional (PPAC), against ✅ Sikri's book-period "approximately 70 per cent" — creates a security vulnerability that equity investment abroad partially addresses, but affordability (price exposure) and sustainability (transition pressure) introduce additional, sometimes conflicting, considerations that a pure security lens misses. |
-| ⚠️ **Diversification vs. dependence-reduction** | Equity investment in overseas oilfields and a widening supplier base diversify supply risk but do not by themselves reduce India's aggregate import-dependence level — a distinction between managing risk and eliminating it. 📰 The Economic Survey 2025-26 documents exactly this pattern: the US share of India's crude imports rose to 8.1% (from 4.6%) and the UAE's to 11.1% (from 9.4%) in April-November of FY26, while aggregate dependence stayed at 89.1%. |
+| ✅ **Energy trilemma applied to West Asia** | ⚠️ India's crude-oil import dependence — 📰 88.2% in FY2024-25 and about 88.7% provisional in FY2025-26 (PPAC), against ✅ Sikri's book-period "approximately 70 per cent" — creates a security vulnerability that equity investment abroad partially addresses, but affordability (price exposure) and sustainability (transition pressure) introduce additional, sometimes conflicting, considerations that a pure security lens misses. |
+| ⚠️ **Diversification vs. dependence-reduction** | Equity investment in overseas oilfields and a widening supplier base diversify supply risk but do not by themselves reduce India's aggregate import-dependence level — a distinction between managing risk and eliminating it. 📰 The Economic Survey 2025-26 documents exactly this pattern: the US share of India's crude imports rose to 8.1% (from 4.6%) and the UAE's to 11.1% (from 9.4%) in April-November of FY26, while aggregate dependence remained very high. |
 | ⚠️ **Refinery lock-in as a hidden switching cost** | ✅ Tharoor notes "many Indian refineries are in fact devised to process the quality of crude oil that Iran supplies" — ⚠️ configuration-specific refining capacity is a physical constraint on how quickly a supplier mix can actually change, and is the reason headline diversification percentages move slowly. |
 | ✅ **Look West and Look East as parallel doctrines** | ✅ Tharoor frames "Look West" as an explicit parallel to the "Look East" policy — both represent regionally targeted engagement doctrines rather than a single undifferentiated foreign-policy stance. |
 | ✅ **Balancing, not equidistance, in the Israel-Arab-Iran triangle** | ✅ Tharoor's explicit statement — valuing Israel ties "not at the expense of" Arab/Muslim friendships — describes active balancing (deepening multiple ties simultaneously) rather than passive equidistance (avoiding commitment to any). |
@@ -69,7 +69,7 @@ between reliable supply, cost and long-term transition pressure.
 
 ## 3. Detailed causal chain: from dependence to integrated strategy
 
-1. **Baseline vulnerability:** 📰 PPAC's 89.1% crude-oil-import-dependence
+1. **Baseline vulnerability:** 📰 PPAC's 88.2% FY2024-25 and about 88.7% provisional FY2025-26 crude-oil-import-dependence
    figure for FY2024-25 and FY2025-26 (provisional), up from ✅ Sikri's
    book-period "approximately 70 per cent," establishes West Asia's structural
    centrality to India's energy security.
@@ -181,7 +181,7 @@ between reliable supply, cost and long-term transition pressure.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ India's crude-oil import dependence is 89.1% in FY2024-25 and FY2025-26
+- ✅ India's crude-oil import dependence is 88.2% in FY2024-25 and about 88.7% in FY2025-26
   provisional (PPAC); ✅ Sikri's ~70% is a book-period baseline useful only for
   showing the trend direction.
 - ✅ Tharoor explicitly parallels "Look West" with "Look East" as regionally
@@ -235,7 +235,7 @@ between reliable supply, cost and long-term transition pressure.
   should:
   1. Apply the energy trilemma (security, affordability, sustainability)
      rather than security alone.
-  2. Cite the 89.1% import-dependence baseline (PPAC) against Sikri's
+  2. Cite the 88.2% FY2024-25 / about 88.7% provisional FY2025-26 import-dependence baseline (PPAC) against Sikri's
      book-period ~70%, and the equity-investment and supplier-diversification
      response documented in the Economic Survey 2025-26.
   3. Unpack "overarching influence" into diaspora diplomacy (Operation Sindhu,

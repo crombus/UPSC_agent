@@ -179,8 +179,9 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
 - ❌ Every State capital and Municipal-Corporation city now has an Urban
   Disaster Management Authority because s. 41A is in force. -> s. 41A is
   an **enabling** provision ("the State Government *may*"); a UDMA exists
-  only where the State has notified one (MHA cited Karnataka's BBMP UDMA
-  on 11 February 2026). Delhi and Chandigarh are expressly excluded.
+  only where a dated State notification or official MHA parliamentary
+  reply identifies one (MHA cited Karnataka's BBMP UDMA on 11 February
+  2026). Delhi and Chandigarh are expressly excluded.
 - ❌ The "State Disaster Response Force" in s. 44A is the same thing as
   the SDRF fund. -> s. 44A creates an enabling power for a specialist
   **force**; the SDRF *fund* under s. 48 finances immediate relief — two
@@ -228,7 +229,8 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
   constituted a UDMA for the Bruhat Bengaluru Mahanagara Palike; it did
   not report a completed national roll-out. A named State's UDMA, SDRF
   force, or the disaster database's actual operational status, must each
-  be verified against its own notification — the Act's *commencement*,
+  be verified against its own dated State notification or official MHA
+  parliamentary reply — the Act's *commencement*,
   by contrast, is settled and must not be described as pending.
 
 ## 10. PYQ application
@@ -272,3 +274,45 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
   finance and risk transfer; topic 17 develops NDRF's operational relief
   role; topic 18 develops NPDRR and international-cooperation
   governance.
+
+## 13. Core-only answer architecture — law, tiers and implementation
+
+> **Core firewall:** this is the complete Core route for the 2020
+> proactive-versus-reactive DM question and the institutional limb of any
+> hazard answer. Do not send a candidate to `advanced/02` for the
+> 2025-amendment, funding or local-capacity argument.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Why it supports the claim | Limitation / qualification |
+|---|---|---|---|
+| The DM Act institutionalised a shift from relief administration to a whole-cycle framework. | DM Act 2005 created NDMA–SDMA–DDMA; NPDM 2009 and the revised NDMP 2019 provide policy/plan anchors. | It supplies a before/after institutional mechanism instead of a vague “proactive approach” assertion. | A statutory cascade does not prove district plans, staff or drills are effective. |
+| Responsibilities are vertically differentiated. | NDMA sets policy/guidelines and approves plans; NEC coordinates; SDMA/SEC adapt and monitor; DDMA plans/coordinates locally; PRIs/ULBs enable last-mile action. | It turns “government should act” into accountable assignments. | Do not treat NDMA as the field implementer or DDMA as a substitute for local community capacity. |
+| The 2025 amendment updated law but not every operational outcome. | Act 10 of 2025 was gazetted 29 March and commenced 9 April 2025; ss. 8A/8B give NCMC/HLC statutory footing, while ss. 41A/44A say a State **may** constitute a UDMA/State force. | It distinguishes statute/commencement from notification/force/database rollout. | Name a UDMA or State force only with a dated State notification or official MHA parliamentary reply; Karnataka's BBMP example is not a national roll-out. |
+| Response capacity and finance are distinct institutional questions. | NDRF is a specialised response force (MHA: 16 battalions, sanctioned 18,581, 22 July 2025); s. 46 NDRF-the-fund supplements SDRF, while ss. 47–48 create mitigation/State funds. | It prevents the NDRF force/fund and relief/mitigation conflations that cost marks. | Battalion strength is an input, not a resilience outcome; fund use needs its own status source. |
+
+### 13.2 Executable spines
+
+- **10 marks — who does what:** draw the Union → State → district/local
+  cascade; give one precise mandate for NDMA, NEC, SDMA/SEC and DDMA;
+  add one last-mile actor; close with the difference between policy,
+  coordination and execution.
+- **15 marks — 2020 proactive approach:** thesis: India has moved beyond
+  a relief-only model because law, plans, risk reduction, warning,
+  response and recovery are institutionalised. Evidence sequence:
+  DM Act tiers → NDMP 2019/Sendai alignment → NDRF pre-positioning and
+  community capacity → mitigation funds/BBB. Counterweight: a plan,
+  enabling provision or force strength is not evidence of district
+  execution. Conclude that proactivity is credible only when local plans,
+  finance and drills convert the framework into outcomes.
+- **20 marks — evaluate governance:** organise by law/mandate, planning,
+  finance, response capacity, urban/local implementation and
+  accountability data. Use the 2025 amendment as current law, flag
+  `may constitute` and database rollout as implementation questions, and
+  end with a funded, time-bound, district-testable verdict.
+
+### 13.3 Direct-PYQ route rule
+
+The 2020 GS-III proactive-management route and the disaster-law limb of
+the 2020 GS-II cross-cutting route now terminate in this Core owner.
+Older `advanced/02` ledger pointers are optional-only.

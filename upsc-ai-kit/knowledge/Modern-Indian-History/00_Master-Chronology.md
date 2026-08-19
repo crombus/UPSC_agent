@@ -92,9 +92,16 @@
 | ✅ Congress Ministries in provinces | 1937–39 | Congress forms governments in 8 provinces; resign over WWII |
 | ✅ Cripps Mission | 1942 | Offer of dominion status rejected; "post-dated cheque" |
 | ✅ Quit India Movement | 1942 | "Do or Die"; the last great mass upsurge |
-| ✅ First INA; INA under Subhas Bose; INA trials | 1942; 1943–46 | Mohan Singh's first INA preceded Bose's reorganisation; Red Fort trials galvanised opinion despite military defeat |
+| ✅ First INA; INA under Subhas Bose; INA trials | 1942; 1943–46 | Mohan Singh's first INA preceded Bose's reorganisation; Bose reached Southeast Asia in May 1943 and proclaimed the Provisional Government of Azad Hind in October 1943; Red Fort trials galvanised opinion despite military defeat |
+| ✅ C.R. Formula; Gandhi–Jinnah talks | Apr 1944; Sept 1944 | Rajagopalachari's plebiscite-in-Muslim-majority-districts proposal; talks with Jinnah break down — the first serious Congress-side contemplation of separation |
+| ✅ Wavell Plan; Simla Conference | June–July 1945 (25 June – 14 July) | Offer of an all-Indian Executive Council collapses on Jinnah's claim that the League alone may nominate all Muslim members |
+| ✅ Elections to the central and provincial legislatures | Winter 1945–46 | Congress sweeps the general constituencies, the League the Muslim constituencies — two mandates in two separate electorates, which set the terms for the Cabinet Mission |
 | ✅ RIN ratings' revolt | Feb 1946 | Short-lived but serious naval unrest within a wider post-war upsurge; its precise weight in British withdrawal remains debated |
-| ✅ Cabinet Mission Plan | 1946 | Rejects Pakistan; proposes grouping & Constituent Assembly |
+| ✅ Cabinet Mission Plan | 1946 | Rejects Pakistan; proposes grouping & Constituent Assembly. Attlee's statement of **15 Mar 1946** ("no minority veto") precedes it; sequence within the year: League acceptance **6 June** → Nehru's AICC speech **7 July** → Jinnah's withdrawal **29 July** |
+| ✅ Direct Action Day; Great Calcutta Killings | 16 Aug 1946 | Muslim League's political call after withdrawing acceptance of the Cabinet Mission (29 July); League had not yet entered the Interim Government |
+| ✅ Interim Government formed | 2 Sept 1946 | Formed with Congress members alone and Nehru as de facto head; League refused to join pending resolution of grouping |
+| ✅ League enters Interim Government; Constituent Assembly meets; League's constitutional boycott; Congress demand for League resignations | 26 Oct 1946; 9 Dec 1946; 5 Feb 1947 | **26 Oct 1946:** League joins Interim Government without accepting the grouping provision or the Constituent Assembly — Jinnah frames entry as continuation of the Pakistan struggle. **6 Dec 1946:** HMG accepts the League interpretation of compulsory grouping; League *still* does not join the Constituent Assembly. **9 Dec 1946:** Constituent Assembly meets; League boycotts and demands dissolution. **5 Feb 1947:** Nine Congress-side Interim Government members demand resignation of League ministers — Interim Government ungovernable |
+| ✅ Attlee's withdrawal announcement | 20 Feb 1947 | Britain to transfer power not later than June 1948 — distinct from Attlee's 15 March 1946 statement |
 | ✅ Mountbatten Plan (3 June Plan) | 1947 | Partition accepted |
 | ✅ Indian Independence Act; Independence & Partition | 1947 | 15 August 1947; India & Pakistan created |
 | ✅ Integration of princely states (Patel & Menon) | 1947–49 | Accession; Junagadh, Hyderabad (1948), Kashmir (1947) |
@@ -128,10 +135,12 @@
 - ⚠️ **1905** Partition of Bengal/Swadeshi → **1907** Surat Split → **1909** Morley-Minto (separate electorates).
 - ⚠️ **1916** Lucknow Pact/Home Rule → **1919** Rowlatt + Jallianwala + GoI Act → **1920–22** NCM/Khilafat.
 - ⚠️ **1929** Purna Swaraj → **1930** Dandi/CDM → **1931** Gandhi-Irwin → **1935** GoI Act.
-- ⚠️ **1942** Cripps + Quit India → **1946** Cabinet Mission/RIN Mutiny → **1947** Independence & Partition → **1950** Republic.
+- ⚠️ **1942** Cripps + Quit India → **1944** C.R. Formula/Gandhi–Jinnah talks → **June–July 1945** Wavell Plan/Simla Conference → **winter 1945–46** elections → **1946** Cabinet Mission/RIN Mutiny/Direct Action → **1947** Independence & Partition → **1950** Republic.
 - ⚠️ **1953** Andhra → **1956** States Reorganisation → **1962** China war → **1969** Congress split/bank nationalisation → **1971** Bangladesh war → **1975–77** Emergency → **1991** reforms → **1992** Babri.
 
 > 🔑 **Trap:** **Plassey (1757)** was a near-bloodless coup via conspiracy (Mir Jafar); **Buxar (1764)** was the real *military* victory that made the Company supreme. Don't confuse the two. And **separate electorates = Morley-Minto 1909**, not 1919.
+
+> 🔑 **Trap (endgame chronology):** the transfer-of-power sequence is **Cripps 1942 → C.R. Formula April 1944 → Gandhi–Jinnah talks September 1944 → Wavell Plan/Simla 25 June–14 July 1945 → elections winter 1945–46 → Cabinet Mission 1946 → Direct Action Day 16 Aug 1946 → Interim Government 2 Sept 1946 → League enters Interim Government 26 Oct 1946 → HMG accepts League grouping interpretation 6 Dec 1946 → Constituent Assembly meets / League boycotts 9 Dec 1946 → Congress demands League resignations 5 Feb 1947 → Attlee's statement 20 Feb 1947 → 3 June Plan → Indian Independence Act July 1947 → 15 Aug 1947**. Note that **Direct Action Day preceded the Interim Government**, that the **1945–46 elections came before, not after, the Cabinet Mission**, and that even after HMG resolved the grouping ambiguity in the League's favour (6 Dec 1946) the League *still* did not join the Constituent Assembly.
 
 ## 10. Cross-links
 

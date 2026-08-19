@@ -31,9 +31,9 @@ SANITATION LABOUR: FOUR-LEVER FRAMEWORK
 │ |                                           |                       │
 │ v                                           v                       │
 │ REHABILITATION                   COMPENSATION                       │
-│ SRMS / NAMASTE livelihood        ₹10 lakh per death                │
-│ - one-time cash                  (Safai Karamchari Andolan         │
-│ - skill training                  v. UoI, 2014)                    │
+│ SRMS / NAMASTE livelihood        ₹30 lakh per death                │
+│ - one-time cash                  (Dr Balram Singh v. UoI, 2023)   │
+│ - skill training                 injury tiers: ₹20L / ₹10L        │
 │ - loan subsidy                           |                         │
 │         |                                |                          │
 │         +----------------+---------------+                          │
@@ -63,7 +63,8 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 | ✅ **Hazardous cleaning (PEMSR Act)** | Manual cleaning of sewers, septic tanks or specified spaces without the prescribed protective gear, cleaning devices and safety precautions. This is distinct from manual scavenging, though both are prohibited. |
 | ✅ **Insanitary latrine** | A latrine requiring human intervention for removal of excreta (as distinct from a water-flush or septic-connected toilet) — construction prohibited under the 2013 Act. |
 | ✅ **PEMSR Act, 2013** | The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013, which prohibits manual scavenging and hazardous cleaning, mandates identification and rehabilitation of manual scavengers, and creates offences with imprisonment and fines. |
-| ✅ **Safai Karamchari Andolan v. UoI (2014)** | Supreme Court direction for ₹10 lakh compensation to next of kin for sewer/septic-tank deaths (including the Court's historical remediation direction), identification/rehabilitation of manual scavengers and mechanisation. The ₹10 lakh figure is a judicial direction, not a PEMSR statutory schedule. |
+| ✅ **Safai Karamchari Andolan v. UoI (2014)** | Established the earlier ₹10 lakh compensation baseline and reinforced identification, rehabilitation and mechanisation. |
+| ✅ **Dr Balram Singh v. Union of India (20 October 2023)** | Raised sewer-death compensation to ₹30 lakh and prescribed at least ₹20 lakh for permanent disability and ₹10 lakh for other injury, alongside mechanisation and accountability directions. These are judicial directions, not a PEMSR statutory schedule. |
 | ✅ **NAMASTE (2022-23)** | National Action for Mechanised Sanitation Ecosystem — joint MoSJE–MoHUA implementation for profiling sewer/septic-tank workers, safety training/equipment, mechanised-sanitation access, livelihood support and convergence with social-security schemes. |
 | ✅ **NCSK** | National Commission for Safai Karamcharis — the 1993 Act had a sunset. It is now a non-statutory, resolution-based body; Cabinet/Ministry extension dated February 2025 gives it a current tenure through 31 March 2028. It is not a permanent statutory commission. |
 
@@ -82,9 +83,9 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 4. **Mechanisation (NAMASTE):** Urban local bodies procure mechanised sewer-cleaning
    equipment; sanitation workers receive training and PPE; capital subsidy enables
    worker-entrepreneur purchase of suction machines.
-5. **Compensation (court direction):** ₹10 lakh compensation for sewer/septic-tank deaths,
-   as directed by the Supreme Court in 2014. State the judicial source separately from
-   the Act and track actual disbursal/next-of-kin access.
+5. **Compensation (court direction):** use the Balram Singh tiers--₹30 lakh for death,
+   at least ₹20 lakh for permanent disability and ₹10 lakh for other injury--while
+   separating the judicial source from the Act and checking disbursal.
 
 ## 4. Institutions and tools
 
@@ -110,12 +111,21 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 - ⚠️ Deaths during septic-tank cleaning continue to occur despite the 2013 prohibition,
   indicating an enforcement gap between law and ground-level practice.
 
+### Why prohibition has not produced abolition
+
+- ⚠️ Local bodies and contractors can diffuse employer responsibility.
+- ⚠️ Surveys may under-count workers where recognition creates rehabilitation liability.
+- ⚠️ Rare prosecution weakens deterrence despite criminal provisions.
+- ⚠️ One-time rehabilitation without stable alternative work can push workers back into
+  sanitation. Prohibition therefore needs procurement accountability, mechanisation and
+  durable livelihood transition.
+
 ## 6. Must-Know Facts for Prelims
 
 - ✅ The PEMSR Act was enacted in 2013; it prohibits both manual scavenging (insanitary
   latrines) and hazardous cleaning (sewers/septic tanks).
-- ✅ The Supreme Court in Safai Karamchari Andolan v. UoI (2014) directed ₹10 lakh
-  compensation for every sewer/septic-tank death.
+- ✅ Safai Karamchari Andolan supplied the earlier baseline; Dr Balram Singh (2023)
+  prescribed the current ₹30 lakh death and ₹20/₹10 lakh injury tiers.
 - ✅ NAMASTE scheme was launched in 2022-23 jointly by MoSJE and MoHUA.
 - ✅ NCSK was originally established under the NCSK Act, 1993; its current
   resolution-based tenure runs through 31 March 2028.
@@ -127,9 +137,8 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
   to sewer/septic-tank cleaning — both prohibited, but defined distinctly in the 2013 Act.
 - ❌ NCSK is a permanent statutory body under the 1993 Act. -> The Act's tenure lapsed;
   its current executive-resolution tenure is through 31 March 2028, not a standing Act.
-- ❌ Compensation for sewer deaths is a PEMSR Act provision. -> The ₹10 lakh compensation
-  was directed by the Supreme Court in 2014 (Safai Karamchari Andolan case), not enacted
-  in the 2013 statute.
+- ❌ Compensation tiers are in the PEMSR Act. -> The current ₹30/₹20/₹10 lakh tiers
+  are Supreme Court directions in Dr Balram Singh, not a statutory schedule.
 - ❌ NAMASTE replaces the PEMSR Act. -> NAMASTE is a scheme for mechanisation and
   rehabilitation; the PEMSR Act remains the prohibition/penalty statute.
 
@@ -156,8 +165,8 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 - ⚠️ Always connect manual scavenging to recognitive justice — the caste-based nature
   of this occupation makes it a dignity/identity issue, not merely an occupational-safety
   matter.
-- ⚠️ Distinguish the legal instrument (PEMSR Act) from court directions (₹10 lakh
-  compensation) and schemes (NAMASTE/SRMS).
+- ⚠️ Distinguish the PEMSR Act, Balram Singh compensation directions and NAMASTE/SRMS;
+  Articles 17, 21 and 23 supply the caste, dignity and forced-labour grounding.
 - ⚠️ Diagnose the enforcement gap: deaths persist despite prohibition, indicating
   inadequate inspection, contractor accountability and local-authority compliance.
 
@@ -169,13 +178,24 @@ making this a recognitive-justice issue, not merely an occupational-safety one.
 ## 11. Probable questions
 
 - ⚠️ **Prelims:** Which Act prohibits hazardous cleaning of sewers and septic tanks, and
-  which court case directed ₹10 lakh compensation for sanitation-worker deaths?
+  which court case prescribed the current ₹30 lakh sewer-death compensation?
 - ⚠️ **Mains (10 marks):** Examine the provisions of the Prohibition of Employment as
   Manual Scavengers and their Rehabilitation Act, 2013, and assess the progress of its
   implementation.
 - ⚠️ **Mains (15 marks):** "Manual scavenging persists in India despite legal prohibition,
   revealing a gap between law and enforcement." Discuss with reference to the caste-
   labour nexus and recent policy interventions.
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+**10 marks:** distinguish manual scavenging/hazardous cleaning; use PEMSR, NAMASTE and
+current compensation. **15 marks:** add caste occupation, contractors/ULBs, Articles
+17/21/23 and enforcement with 4-6 units. **20 marks:** infrastructure, procurement,
+labour formalisation, technology, rehabilitation, prosecution, data and stigma; qualify
+mechanisation that merely shifts unsafe entry.
+
+> **Reasoned verdict:** Every unsafe entry is an accountability failure; the goal is
+> technological elimination and caste-breaking livelihoods, not compensation after death.
 
 ## 12. Study links
 

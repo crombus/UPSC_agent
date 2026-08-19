@@ -5,7 +5,7 @@
 > **Core area:** Dialectical method — thesis, counter-claim, condition/
 > limit, higher synthesis — applied rigorously across multiple argument
 > cycles rather than as a single token paragraph.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Section 6.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -15,7 +15,9 @@
 
 ## 1. Advanced proposition and boundary
 
-**Proposition:** ⚠️ dialectical synthesis is strongest when the
+**Proposition:** ⚠️ Core `08` supplies two simple, evidence-disciplined
+mini-cycles. This companion keeps the optional harder task:
+dialectical synthesis is strongest when the
 counter-claim is drawn from a genuinely different value or mechanism
 than the thesis, not merely a softened restatement of it — real tension
 produces real synthesis. **Boundary:** ❌ this topic does not construct
@@ -159,7 +161,7 @@ whether your switching condition is concrete and specific in both cases;
 log any vagueness in `16`'s error log.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
+## V1 PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.

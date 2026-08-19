@@ -8,7 +8,8 @@
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
 > India*, PDF pp. 58-65; `00_Master-Framework.md` Sections 3-6; audited
 > GS-III syllabus; MHA National Policy and Action Plan to address LWE
-> (2015); MHA parliamentary reply, 4 February 2026; PIB "Naxal-Free
+> (2015); MHA parliamentary replies (December 2025 and February 2026);
+> PIB "Naxal-Free
 > India" explainer (June 2026); FRA 2006 and PESA 1996 as published in
 > India Code.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
@@ -18,8 +19,8 @@
 
 ## 1. Answer thesis and syllabus boundary
 
-**Thesis:** ⚠️ LWE's steep, officially reported decline (4 February 2026
-reply) is best explained not by security operations alone but by the
+**Thesis:** ⚠️ LWE's steep, officially reported security decline (MHA's
+December 2025 reply) is best explained not by security operations alone but by the
 convergence of four tracks — security, development, rights-based
 governance (Forest Rights Act implementation) and trust restoration — and
 the durable lesson from the movement's own political economy is that
@@ -74,7 +75,7 @@ converge) vs. reversible/partial decline
 (if security outruns development/trust)
 ```
 
-**Analytical claim:** ⚠️ The MHA's 4 February 2026 reported decline in LWE
+**Analytical claim:** ⚠️ The MHA's December 2025 reported decline in LWE
 violence is consistent with the three-track model converging in the most
 affected districts, but the durability of that decline depends on whether
 development and rights delivery (Forest Rights Act implementation,
@@ -119,8 +120,8 @@ not, by itself, confirm.
   "development is also important" gesture.
 - 📰 **Current-anchor institutional detail:** verify current SRE/SIS/IAP-
   successor scheme names, district coverage and the present force posture
-  in the most-affected districts from the MHA Annual Report 2024-25 or
-  the 4 February 2026 reply, not from Singh's book-period scheme list.
+  in the most-affected districts from a dated MHA annual report or
+  parliamentary reply, not from Singh's book-period scheme list.
 
 ## 5. Indian applications and boundary cases
 
@@ -184,10 +185,10 @@ not, by itself, confirm.
 - ✅ CPI (Maoist) is listed as a terrorist organisation under the First
   Schedule of the UAPA, which is what brings UAPA charges and NIA
   jurisdiction into LWE cases.
-- 📰 MHA's 4 February 2026 reply reports a 73% decline in violence and an
-  86% decline in deaths since 2010, and a footprint reduction from 126
-  districts in 2013 to 38 in 2024, alongside the stated 31 March 2026
-  objective.
+- 📰 MHA's December 2025 parliamentary reply reports an **89% decline in
+  violence**, a **91% decline in deaths** since 2010 and **218 incidents
+  in 2025**. Treat these as reported security metrics; the earlier
+  73%/86%/38-district formulation is a 2024 baseline, not a 2026 result.
 
 ## 8. Advanced Prelims traps
 
@@ -207,11 +208,10 @@ not, by itself, confirm.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 MHA Rajya Sabha Starred Question 49, **4 February 2026**: reports a
-  **73% decline in violence and 86% decline in deaths since 2010**, and a
-  footprint reduction from **126 districts in 2013 to 38 in 2024**,
-  alongside the then-stated government objective of elimination by 31
-  March 2026.
+- 📰 MHA's December 2025 parliamentary reply supplies the pre-target
+  baseline: **89% lower violence**, **91% lower deaths** since 2010 and
+  **218 incidents in 2025**. The 31 March 2026 target was a stated policy
+  objective, not outcome evidence.
 - 📰 PIB's **June 2026 "Naxal-Free India"** explainer is the subsequent
   official assessment: India is described as **"effectively free from
   Left-Wing Extremism."** Treat this as a qualified status claim, not
@@ -256,9 +256,8 @@ root-cause resolution.
    psychological) and its sequencing logic.
 4. **Name the inter-State coordination constraint** as the structural
    limitation on any single-State security success.
-5. **Cite the current MHA figures (4 February 2026)** honestly,
-   distinguishing reported decline from the stated 2026 elimination
-   objective.
+5. **Cite the December 2025 MHA figures** honestly, distinguishing
+   reported decline from the stated 2026 elimination objective.
 6. **Acknowledge the reversibility risk** if development and rights
    delivery lag behind security gains.
 7. **Close by relating the answer to the master framework's calibrated
@@ -286,28 +285,3 @@ root-cause resolution.
   security-development sequencing debate; topic 11 for the extortion/
   organised-crime financial nexus in full; topic 12 for CRPF/CoBRA
   mandates and inter-agency coordination reform.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2018, 2020, 2022
-- **Paper(s):** GS-III
-- **Routed question demands:** 3
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 10 | Left Wing Extremism challenges and government counter strategy | Explain · 10 marks · 150 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 19 | Left-wing extremism determinants in eastern India and counter-strategy | What are · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 20 | Naxalism as internal security threat and multilayered response strategy | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-### What this owner must now support
-
-- Left Wing Extremism challenges and government counter strategy
-- Left-wing extremism determinants in eastern India and counter-strategy
-- Naxalism as internal security threat and multilayered response strategy
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

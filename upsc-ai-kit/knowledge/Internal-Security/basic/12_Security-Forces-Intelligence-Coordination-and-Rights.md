@@ -310,7 +310,78 @@ Indian Coast Guard have separate administrative arrangements.
   security forces and intelligence agencies, and explain the intelligence-
   to-prosecution chain that connects them.
 
-## 12. Study links
+## 12. Core answer architecture — mandates, cooperative federalism and accountability
+
+> **Core firewall:** This Core section independently supports the 2023
+> agencies route and the 2023/2026 Prelims routing. Advanced content is
+> optional, not marks-essential.
+
+### Demand decoder and thesis
+
+**Thesis:** India’s security architecture is functionally broad but cannot
+be evaluated by force names alone. The question is whether the correct
+institution can convert intelligence into lawful prevention,
+investigation, prosecution and recovery while retaining State-police
+primacy, clear command and accountable use of power.
+
+### Executable Core spines
+
+**15 marks — challenges and Central intelligence/investigative agencies
+(2023).** Use a functional table, not a chronology:
+collection (IB/State intelligence) → sharing (MAC/SMAC) → data
+integration (NATGRID) → prevention/containment (State police/CAPFs/
+specialised response) → investigation (NIA/State police) → prosecution
+(Special Courts). Give three threat applications (terror/proxy,
+border/crime, cyber/CII) and one mandate distinction for each. Then
+evaluate two constraints: State-police capacity and accountability/
+evidence conversion. End with functional reform, not an abstract demand
+for one more central agency.
+
+**10 marks — force/agency mandate comparison.** For every institution,
+write **administrative home → primary task → boundary**: for example,
+NIA investigates scheduled offences but is not intelligence collection;
+MAC shares intelligence but does not investigate; Coast Guard undertakes
+maritime law-enforcement/coastal-security roles but is not State Marine
+Police. Add one rights/accountability anchor: *Prakash Singh*, a Police
+Complaints Authority, *D.K. Basu*, AFSPA safeguards or PHRA section 19.
+
+**20 marks — federal/rights future question.** Start with State List
+Entries 1–2, Union List Entry 2A and Article 355. Compare capability gain
+from central support with the conditions of legality, necessity,
+proportionality, record/reason, independent review and remedy. Conclude
+that accountable action improves intelligence cooperation and evidence
+quality rather than weakening security.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| State police are structurally indispensable. | Singh’s first-responder/evidence/witness argument; State List Entries 1–2. | Central architecture cannot substitute local prevention and lawful case-building. | Union forces may be deployed in aid of civil power under Entry 2A; this is cooperation, not exclusion. |
+| Intelligence, data integration and investigation are separate functions. | IB, MAC/SMAC, NATGRID and NIA chain. | An answer can assign remedies without institutional conflation. | A data platform/lead is not arrest power, charge or conviction. |
+| Rights safeguards are operational safeguards. | *Prakash Singh* (2006), *D.K. Basu* (1997), PHRA section 19 and AFSPA cross-link. | Accountability protects legitimacy, community reporting and admissible evidence. | Statutory safeguard and its implementation/outcome must be kept distinct. |
+| Mandate overlap needs functional clarification. | Assam Rifles’ dual arrangement and border/coastal layers. | More institutions do not automatically solve coordination. | Do not state current force strength, deployment or agency status without a dated official source. |
+
+### Routed Prelims safety notes
+
+- **Home Guards (2023):** Home Guards are governed by the respective
+  State/UT Acts and Rules, not an all-India Central Home Guards Act; they
+  serve as an auxiliary police/support force. Border Wing Home Guards have
+  been raised in some border States to assist against infiltration.
+- **Army Corps locations (2026):** recorded factual anchors are III Corps
+  — Dimapur, IV Corps — Tezpur, XIV Corps — Leh and XXXIII Corps — Sukna
+  (not Srinagar). The local 2026 key is provisional; this records facts,
+  not an inferred answer option.
+- **Mandate trap:** CAPF, Armed Forces, State police, Home Guards, NIA,
+  IB, MAC and NATGRID have distinct legal/administrative roles; no broad
+  category label can replace the function asked in a statement question.
+
+### Direct PYQ route now owned in Core
+
+- **2023 GS-III:** use the function chain and the cooperative-federal/
+  accountability verdict above. The response must distinguish intelligence
+  lead, investigation, prosecution and adjudicated outcome.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/12_Security-Forces-Intelligence-Coordination-and-Rights.md`.
@@ -346,19 +417,21 @@ Indian Coast Guard have separate administrative arrangements.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
 - **Years represented:** 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 2
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2023 | GS-III | 19 | Internal security challenges in India and intelligence agency roles | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 91 | Home Guards Act roles and Border Wing Home Guard battalions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- Internal security challenges in India and intelligence agency roles
 - Home Guards Act roles and Border Wing Home Guard battalions
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

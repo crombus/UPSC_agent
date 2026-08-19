@@ -116,6 +116,14 @@ FEDERAL + DEMOCRATIC + ACCOUNTABLE GOVERNANCE
 
 > **Rule:** Borrowed provision does not mean copied constitutional scheme. India adapted foreign mechanisms to its own political and social design.
 
+### Constitution, constitutional law and constitutionalism
+
+| Term | High-yield distinction |
+|---|---|
+| Constitution | Foundational arrangement of institutions, powers, limits, rights and political community |
+| Constitutional law | Enforceable constitutional text plus authoritative doctrine/practice defining its operation |
+| Constitutionalism | Limited, accountable government under higher norms; a Constitution may exist without effective constitutionalism |
+
 ---
 
 ## 6. Preamble decoding
@@ -259,6 +267,15 @@ FEDERAL + DEMOCRATIC + ACCOUNTABLE GOVERNANCE
 
 > **Trap:** Parliament's amendment power is wide but not unlimited. Courts do not compare an amendment with every ordinary constitutional provision; they test damage to basic structure.
 
+### NCRWC snapshot
+
+| Identity | Recall |
+|---|---|
+| Status | Executive, temporary and advisory commission set up in 2000 |
+| Chair/report | M.N. Venkatachaliah; report submitted in 2002 |
+| Mandate | Review the **working**, not rewrite the Constitution; respect parliamentary democracy/basic structure |
+| Use | Cite a named reform as 🧾 recommendation; never as current law without independent enactment |
+
 ---
 
 ## 12. Parliamentary versus presidential systems
@@ -306,6 +323,18 @@ FEDERAL + DEMOCRATIC + ACCOUNTABLE GOVERNANCE
 | Two or more states request | Article 252 |
 | International obligation | Article 253 |
 | President's Rule | Article 356 framework |
+
+### Interpretation-doctrine route
+
+| Doctrine | Trigger |
+|---|---|
+| Severability / eclipse / waiver | Article 13 invalidity and Fundamental Rights |
+| Pith and substance / ancillary power | True legislative field and incidental overlap |
+| Colourable legislation | Disguised lack of competence, not bad motive |
+| Territorial nexus | Real and sufficient State connection |
+| Repugnancy | Union–State conflict in Concurrent field under Article 254 |
+| Harmonious construction / federal supremacy | Reconcile first; constitutional priority only for irreducible conflict |
+| Prospective overruling / precedent | Temporal effect and binding authority |
 
 ---
 
@@ -365,6 +394,17 @@ FEDERAL + DEMOCRATIC + ACCOUNTABLE GOVERNANCE
 | Pardon | Article 72, including Union-law, court-martial and death-sentence contexts |
 
 > **Trap:** The President ordinarily acts on ministerial advice; discretion is narrow and constitutionally structured.
+
+### Government property, contracts and liability
+
+| Article cluster | Recall |
+|---|---|
+| 294–295 | Succession to government property, assets, rights, liabilities and obligations |
+| 296 | Escheat, lapse and bona vacantia |
+| 297 | Specified maritime resources vest in Union |
+| 298 | Union/State executive capacity to trade, acquire/hold/dispose property and contract |
+| 299 | Formal government-contract safeguards; not merely evidentiary |
+| 300 | Union/State may sue and be sued; immunity/constitutional-tort doctrine is judicially developed |
 
 ---
 
@@ -432,6 +472,12 @@ President
 | Dissolution | Ends Lok Sabha itself |
 | Quorum | One-tenth of total membership |
 | Joint sitting | Deadlock mechanism for ordinary/most financial Bills; not Money or Constitution Amendment Bills |
+
+| Inter-parliamentary body | Distinction |
+|---|---|
+| IPG | Indian Parliamentary Group; India's National Group in IPU and main India Branch in CPA |
+| IPU | Global organisation of national parliaments |
+| CPA | Commonwealth parliamentary network |
 
 ---
 
@@ -532,6 +578,15 @@ President
 | PIL | Relaxed standing for public injury/rights |
 | Judicial review | Tests legality/constitutionality of state action |
 
+### Access-to-justice distinctions
+
+| Institution | Decisive distinction |
+|---|---|
+| Ordinary Lok Adalat | Compromise only; cannot impose merits decision |
+| Permanent Lok Adalat | Pre-litigation public-utility dispute; may adjudicate after failed conciliation |
+| Family Court | Statutory family adjudication with settlement emphasis |
+| Gram Nyayalaya | Statutory rural first-instance court; not a panchayat or Lok Adalat |
+
 ---
 
 ## 25. Governor, Chief Minister and State Council
@@ -626,6 +681,17 @@ President
 
 > **Trap:** A constitutional body may still perform advisory functions; constitutional status describes source, not whether every decision is binding.
 
+### Part XVI: certain classes
+
+| Function | Provision family |
+|---|---|
+| Legislative representation | Arts 330–334A |
+| SC/ST claims in services + efficiency | Art 335 |
+| Constitutional commissions | Arts 338, 338A, 338B |
+| Backward-class commission | Art 340 |
+| SC/ST list alteration | President specifies; Parliament includes/excludes under Arts 341/342 |
+| SEBC lists | Central List plus State/UT lists after 105th Amendment under Art 342A |
+
 ---
 
 ## 30. Election Commission and election process
@@ -638,6 +704,8 @@ President
 | Party recognition/symbols | ECI under statutory/order framework |
 | Disqualification advice | President/Governor decides specified questions on ECI opinion |
 | Model Code | Non-statutory code with some conduct separately enforceable under laws |
+| Electoral-roll reform (2021) | Four qualifying dates; Aadhaar identity/authentication framework with sufficient-cause safeguard—Act and rules must be distinguished |
+| J&K delimitation (2020–2022) | Bounded post-reorganisation exercise: 90 elected Assembly seats (43 Jammu, 47 Kashmir), 9 ST, 7 SC; recommendations are not law by themselves |
 
 > **Institutional issue:** Independence depends on appointment design, tenure/removal protection, funding, staff and transparent exercise of discretion—not constitutional label alone.
 
@@ -712,6 +780,11 @@ President
 | Environmental adjudication | National Green Tribunal |
 | Service/administrative adjudication | Central Administrative Tribunal |
 | Consumer adjudication | Consumer commissions |
+
+| Close pair | Correction |
+|---|---|
+| Consumer Commissions / CCPA | Commissions adjudicate disputes; CCPA regulates/enforces class-wide consumer protection |
+| BCI / Law Commission | BCI is a statutory professional regulator; Law Commission is executive, temporary and recommendatory |
 
 > **Regulatory capture:** Regulator begins serving regulated interests because of information dependence, revolving doors, lobbying, funding or weak accountability.
 
@@ -896,6 +969,7 @@ President
 | Tribunals | 323A/323B; judicial review retained |
 | Official language | No national language |
 | Legal status | Text, Act, rule, judgment, convention, Bill and proposal |
+| New Core route | Concept; Arts 294–300; NCRWC; Part XVI; Lok institutions; interpretation doctrines |
 
 ---
 
@@ -953,3 +1027,13 @@ President
 | 48 | Ministries and Central Secretariat | [Core](basic/Ministries-and-Departments-of-Government.md) | [Advanced](advanced/48_Ministries-Departments-and-Central-Secretariat.md) |
 | 49 | Regulatory and quasi-judicial institutions | [Core](basic/Statutory-Regulatory-and-Quasi-Judicial-Bodies.md) | [Advanced](advanced/49_Regulatory-State-and-Quasi-Judicial-Institutions.md) |
 
+### Additional eighth-edition Core owners
+
+| Topic | Exam-complete Core | Advanced |
+|---|---|---|
+| Concept of the Constitution | [Core](basic/Concept-of-the-Constitution.md) | Deliberately not created |
+| Rights and liabilities of government | [Core](basic/Rights-and-Liabilities-of-the-Government.md) | Deliberately not created |
+| NCRWC and constitutional working | [Core](basic/NCRWC-and-Working-of-the-Constitution.md) | Deliberately not created |
+| Special provisions relating to certain classes | [Core](basic/Special-Provisions-Relating-to-Certain-Classes.md) | Deliberately not created |
+| Lok Adalats and other courts | [Core](basic/Lok-Adalats-and-Other-Courts.md) | Deliberately not created |
+| Constitutional interpretation doctrines | [Core](basic/Constitutional-Interpretation-Doctrines.md) | Deliberately not created |

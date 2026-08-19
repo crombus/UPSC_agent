@@ -5,8 +5,10 @@
 > **Core area:** The scope-discipline that separates an issue-based essay
 > from a GS answer; distributional and mechanism-level analysis of the
 > FOMO/social-media prompt as the corpus's clearest test case.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Section 4.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Section 4.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../basic/03_Issue-Based-Prompt-Scoping.md`
@@ -105,7 +107,7 @@ relationship as simple and linear.
 loneliness — the mechanism is mediated by design, context, and
 pre-existing vulnerability (Section 4); nor is abstinence necessary for
 protection — supportive use (e.g. maintaining distant relationships,
-accessing peer support) is a documented counter-case. An advanced essay
+accessing peer support) can supply a counter-case. An advanced essay
 states this precisely rather than treating the prompt's claim as an
 absolute law to be defended or attacked wholesale.
 
@@ -138,10 +140,9 @@ resolving the conflict by favouring one actor's interest alone.
 
 ✅ The prompt itself supplies no statistic and no author; an advanced
 essay should resist supplying an invented one either. ⚠️ India
-application: reference documented, general patterns (school/college
-digital-literacy initiatives, public discourse on student mental health)
-functionally, without asserting a specific unverified national
-prevalence figure — full discipline in `09`/`12`.
+application: use a named, verifiable Indian illustration where available;
+otherwise state the policy debate qualitatively without asserting an
+unverified national prevalence figure — full discipline in `09`/`12`.
 
 ## 11. Advanced structure, paragraph sequencing and style
 

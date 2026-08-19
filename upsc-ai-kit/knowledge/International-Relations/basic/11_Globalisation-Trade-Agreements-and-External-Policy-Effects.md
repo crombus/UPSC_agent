@@ -101,6 +101,20 @@ technology-control pressures that "waning globalisation" produces.
   MC14 the Investment Facilitation for Development agreement had the support of
   165 of 166 members for incorporation, but **consensus was absent, so it was
   not incorporated** — ⚠️ near-unanimity is not consensus in WTO practice.
+- ✅ **WTO agriculture and food security:** the Agreement on Agriculture
+  disciplines market access, domestic support and export competition. The 2013
+  Bali "peace clause" protects eligible developing-country public-stockholding
+  programmes from specified legal challenge while members negotiate a
+  permanent solution.
+  **Significance:** India's food-security procurement makes agriculture central
+  to its WTO reform position.
+  **Limitation:** the interim protection carries notification and programme
+  conditions and is not the permanent settlement India seeks.
+- ⚠️ **India's reform demand:** preserve public stockholding and special and
+  differential treatment while improving subsidy and market-access rules.
+  **Significance:** WTO reform is distributive, not only procedural.
+  **Limitation:** producer support, consumer food security and export effects
+  must all be balanced.
 - 📰 **India's FTA/CEPA cycle (dated status, 3 August 2026):**
 
   | Agreement | Status | Date |
@@ -135,6 +149,21 @@ technology-control pressures that "waning globalisation" produces.
   discussion of persistent US export restrictions).
 
 ## 5. Indian applications and examples
+
+### Climate diplomacy as an external-policy arena
+
+- ✅ Under its updated 2022 NDC, India committed by 2030 to reduce GDP emissions
+  intensity by 45% from 2005 and achieve about 50% cumulative installed electric-power
+  capacity from non-fossil sources; net-zero 2070 remains the long-term target.
+- ⚠️ India's negotiating position combines equity/CBDR-RC, climate finance and
+  technology access with domestic mitigation. Targets are commitments, not proof of
+  realised outcomes.
+- ✅ The Loss and Damage funding arrangements were operationalised at COP28; their
+  significance is recognition of vulnerable-country loss beyond mitigation/adaptation,
+  while adequacy, access and contributor scale remain contested.
+- ⚠️ CBAM illustrates policy spillover: a foreign climate instrument can affect Indian
+  market access, standards and negotiating strategy even when India is not bound as a
+  party to the EU's internal law.
 
 - ✅ **Direct PYQ (2025 Q10):** *"With the waning of globalization, post-Cold
   War world is becoming a site of sovereign nationalism." Elucidate.* (150
@@ -267,6 +296,26 @@ technology-control pressures that "waning globalisation" produces.
   controls as instruments of sovereign nationalism, with reference to their
   effect on India's external interests.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+Core owns the **2018 WTO-reform** demand, superseding `advanced/11`; it also owns the
+IR/diplomatic half of the 2022 clean-energy-in-international-fora demand.
+
+- **External-effects chain:** foreign policy/regulation -> trade, energy or technology
+  transmission -> sector/state exposure -> Indian diplomatic response -> diversification
+  and rule-shaping.
+- **Evidence:** WTO Appellate Body, FTAs, RCEP choice, tariffs/sanctions, export controls,
+  EU CBAM, UNFCCC/NDC and climate finance.
+
+**10 marks:** define the instrument and two effects. **15 marks:** mechanism, sectors,
+responses and limitations with 4-6 examples. **20 marks:** connect sovereign nationalism,
+trade fragmentation, climate diplomacy, technology controls, strategic autonomy and
+Global South equity.
+
+> **Reasoned verdict:** India must remain open enough to gain markets and technology
+> while building resilience and shaping external rules that otherwise transmit foreign
+> priorities into domestic costs.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md`.
@@ -296,3 +345,26 @@ technology-control pressures that "waning globalisation" produces.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+
+- **Years represented:** 2018, 2022
+- **Paper(s):** GS-II
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 19 | Key areas of WTO reform in the context of trade war | What are the key areas · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-II | 20 | Clean energy and India's climate policy in international fora | Describe briefly · 15 marks · 250 words | IR Core owns diplomatic/institutional dimension | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Key areas of WTO reform in the context of trade war
+- Clean energy and India's climate policy in international fora
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

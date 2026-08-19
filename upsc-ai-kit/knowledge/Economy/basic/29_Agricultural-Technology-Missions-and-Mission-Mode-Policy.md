@@ -630,23 +630,177 @@ N  Next-generation redesign
   dairy, poultry and fisheries missions/application.
 - ✅ `../advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`.
 
+## 18. Dated anchor — output versus outcome for a named mission (verify vintage before reuse)
+
+- 📰 **NFSM/oilseed-mission output anchor:** In a June 2025 presentation to the Parliamentary
+  Standing Committee on Agriculture, the Agriculture Ministry stated that India's **oilseeds
+  production rose by about 55% between 2014-15 and 2024-25** (third advance estimate for
+  2024-25: **426.09 lakh tonnes**), against a 13% rise in the preceding decade (2004-05 to
+  2014-15); **pulses production rose by about 47%** over the same 2014-15 to 2024-25 window,
+  against 31% in the preceding decade. The ministry attributed this to mission-linked
+  measures under NFSM/NMOOP/NMEO-type interventions (§6.2) among other factors.
+- ⚠️ **Output-versus-outcome caution (mandatory framing):** This is a **production/output**
+  figure — more tonnes grown — not an **outcome** figure for farmer net income, price
+  realisation or import-dependence reduction. The same 2025 presentation noted edible-oil
+  imports still met about **56% of domestic demand in 2023-24** (15.66 million tonnes) and
+  cost about Rs 80,000 crore annually — i.e., rising output has not yet converted into import
+  self-sufficiency. An answer that cites the 47%/55% figure as proof of "mission success" on
+  farmer income or import security, without this qualifier, is answering an unasked question.
+- ⚠️ Treat both percentages as **government-reported to Parliament**, not as an independently
+  audited productivity study; the multi-decade comparison also mixes years of favourable and
+  unfavourable weather, price and area-expansion effects, so mission-mode policy is a
+  contributing cause, not the sole explanation.
+
+## 19. Evidence bank: claim → named evidence → significance → limitation/status-caution
+
+**19.1 Claim: A technology mission's value lies in connecting research to market, not in one
+research breakthrough.**
+- **Named evidence:** The historical Technology Mission on Cotton (2000) used four linked
+  mini-missions — research, technology transfer/farm development, market infrastructure and
+  ginning/pressing modernisation (§6.4).
+- **Significance:** Supplies the textbook example for "what makes mission-mode policy
+  different from a routine scheme" (§3 mission-versus-scheme table).
+- **Limitation/status-caution:** The historical four-mini-mission structure must not be
+  merged with the current three-mini-mission Mission for Cotton Productivity (2026-27 to
+  2030-31) — vintage discipline is itself an examinable trap (§6.4, §14).
+
+**19.2 Claim: Mission renaming and restructuring is normal, not evidence of failure or
+success by itself.**
+- **Named evidence:** TMO (1986) → ISOPOM → NMOOP → NMEO-OS/NMEO-OP chronology (§6.1-6.2);
+  NHM (2005-06) folded into MIDH (2014-15) (§6.3); NFSM (2007-08) renamed NFSNM in FY25.
+- **Significance:** Prevents the common Prelims/Mains error of citing an obsolete umbrella
+  name as current, and supplies ready predecessor-successor chains for any mission question.
+- **Limitation/status-caution:** A name change alone proves nothing about performance; the
+  underlying research-to-market mechanism, not the label, must be evaluated (§3).
+
+**19.3 Claim: Output growth (the anchor at §18) demonstrates mission activity but not
+completed mission success.**
+- **Named evidence:** The 47%/55% pulses/oilseeds production-growth figures (§18) alongside
+  continuing edible-oil import dependence of about 56% (2023-24).
+- **Significance:** Gives a live, dated, quotable evidence-outcome pair for the evaluation
+  framework at §12 (input/activity/output/outcome/impact).
+- **Limitation/status-caution:** Without net-income, price-realisation or import-substitution
+  data, the production figure alone cannot support a "mission succeeded" verdict.
+
+**19.4 Claim: National Horticulture Mission raised production capability faster than farmer
+income, because income depends on post-production factors the mission only partly addressed.**
+- **Named evidence:** NHM's production-side gains (planting material, protected cultivation,
+  post-harvest support) versus income lag from perishability, price volatility and weak
+  aggregation (§13, 2018 PYQ closure).
+- **Significance:** Directly closes the 2018 GS-III question and is reusable evidence for any
+  "production versus income" mission-evaluation demand.
+- **Limitation/status-caution:** The 2018 answer must retain the "how far has it succeeded"
+  qualifier in the original question — a purely positive account fails the directive.
+
+**19.5 Claim: NMAET shows technology diffusion requires four distinct, coordinated
+functions, not one department acting alone.**
+- **Named evidence:** Extension (SMAE), seeds/planting material (SMSP), mechanisation (SMAM)
+  and plant protection/quarantine (SMPP/SMPPQ) sub-missions (§6.5).
+- **Significance:** Supplies the structural evidence for "technology transfer means more than
+  publishing a variety" (§14 trap) in any mission-mode evaluation.
+- **Limitation/status-caution:** Umbrella names are periodically rationalised; verify the
+  current administrative placement for a live current-affairs question (§6.5 vintage note).
+
+**19.6 Claim: The Krishonnati Yojana umbrella snapshot is a dated administrative fact, not a
+timeless list.**
+- **Named evidence:** Economic Survey 2025-26 lists eight schemes under Krishonnati Yojana at
+  that date, including MIDH, NFSNM, Digital Agriculture Mission and NMEO-OS/OP (§7).
+- **Significance:** Gives an explicitly dated, citable "current architecture" fact for any
+  "present government approach" question.
+- **Limitation/status-caution:** This is a snapshot valid as of the cited Survey; scheme
+  rationalisation can change the umbrella list in a later year.
+
+## 20. Core limitations and trade-offs
+
+| # | Trade-off | Why it is genuinely double-edged |
+|---|---|---|
+| 1 | **Output growth versus income/outcome proof** | Production growth (§18-19.3) is easy to measure and report, but net farmer income depends on price, cost and market power that the same mission rarely tracks — output data can substitute for outcome proof in public messaging. |
+| 2 | **National-average success versus regional/distributional reality** | A mission can show a strong all-India growth number while yield gaps, rainfed disadvantage and tenant/tribal exclusion persist regionally — aggregate success can mask uneven reach. |
+| 3 | **Coordination ideal versus institutional silos** | Mission-mode design demands convergence across ICAR, states, extension and markets, but ministries/departments/states often work in silos in practice, undermining the very feature that defines "mission mode." |
+| 4 | **Rebranding versus reform** | Renaming a scheme (TMO→NMOOP→NMEO-OS/OP; NHM→MIDH) can signal genuine redesign or merely repackage the same fragmented delivery — the two are observationally similar without evaluation data. |
+| 5 | **Target-based monitoring versus real diffusion** | Area/beneficiary/kit-distribution targets are administratively convenient to track but reward activity counts over adoption continuity, price realisation or resilience — the metric that is easiest to report is not the metric that matters most. |
+| 6 | **Yield intensification versus ecological/resource limits** | Missions that raise per-hectare output (seed, water, nutrient-responsive technology) can simultaneously raise water/pesticide load or displace food crops/forests if resource governance is not integrated into the same mission design. |
+
+## 21. Answer architecture (10/15/20-mark support)
+
+### 21.1 Directive decoder
+
+| Directive word | What the examiner is actually asking for |
+|---|---|
+| Assess / Evaluate | Explicit reasoned verdict on how far the mission achieved its stated goal — mandatory qualifier, not just achievements. |
+| Discuss / Explain | Balanced coverage of mechanism, achievement and constraint with reasoned linkage. |
+| Examine / Analyse | Dissect the mission's theory of change stage by stage (research → adoption → market). |
+| Comment | Short judgement backed by one or two named facts. |
+
+### 21.2 Evidence selection by mark value
+
+- **10 marks/150 words:** 1 mission example + its output anchor (§18-19.3) + 1 limitation
+  from §20 + a one-line verdict.
+- **15 marks/250 words:** 2-3 mission examples from §19, the dated output/outcome anchor at
+  §18, 2 limitations/trade-offs from §20, and a "how far succeeded" verdict.
+- **20 marks:** add the eight-question mission audit (§12) explicitly, a second mission
+  example, and the evaluation-framework input/activity/output/outcome/impact ladder (§12)
+  before the verdict.
+
+### 21.3 Counter-evidence integration rule
+
+Whenever a mission's contribution is claimed (production, productivity, diversification), it
+must be paired with the corresponding limitation from §19-20 (income lag, regional
+unevenness, ecological load) in the same paragraph — this operationalises the "how far has it
+succeeded" qualifier that recurs across NHM/IFS/oilseed PYQs.
+
+### 21.4 10/15/20 mark-scaling template
+
+```text
+10 MARKS (150 words)
+Intro: define technology mission (1 line)
+One mission example + output anchor (4 lines)
+One limitation (2 lines)
+Verdict (1 line)
+
+15 MARKS (250 words)
+Intro (1 line)
+2-3 mission examples across research/extension/market stages (6 lines)
+Dated output/outcome anchor with explicit output≠outcome qualifier (3 lines)
+Two limitations/trade-offs (3 lines)
+"How far succeeded" verdict (2 lines)
+
+20 MARKS (250-300 words)
+Intro (1 line)
+Historical chronology + 2-3 current missions (6 lines)
+Eight-question mission audit applied briefly (4 lines)
+Dated output/outcome anchor (2 lines)
+Two-three trade-offs from §20 (4 lines)
+Reasoned verdict + reform/redesign path (3 lines)
+```
+
+### 21.5 Reasoned-verdict template
+
+> "[Mission name] achieved [named output evidence from §18-19], demonstrating [research-to-
+> market/coordination] capability; however, [limitation/trade-off from §20] means output
+> growth has not yet converted into [income/import-security/equity] outcomes. Mission-mode
+> policy should therefore [reform direction from §15/§21], measured by outcome and impact
+> indicators, not activity or output counts alone."
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2021
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2018, 2021
+- **Paper(s):** GS-III, Prelims GS-I
+- **Routed question demands:** 2
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 13 | National Horticulture Mission role in horticulture production and income | Assess · 15 marks · 250 words | Routed to dedicated agricultural technology-missions owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | Prelims GS-I | 52 | Palm oil origin uses and biodiesel production | Objective question; official key unavailable locally | Cross-routed to palm-oil value-chain fundamentals and the NMEO-OP mission owner; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- National Horticulture Mission role in horticulture production and income
 - Palm oil origin uses and biodiesel production
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

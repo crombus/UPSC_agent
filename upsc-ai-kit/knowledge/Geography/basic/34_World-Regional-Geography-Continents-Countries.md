@@ -120,6 +120,141 @@
 
 Geography -> World Regional Geography -> Continents and macro-regions  
 Geography -> Mapwork -> Countries, capitals, seas, straits and physiographic regions
+
+## 12. Answer architecture (10/15/20-mark support)
+
+### 12.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Compare two world regions" | A stated set of comparison **axes** applied to both, then a verdict on what the comparison shows | Describe each region in turn |
+| "Explain the significance of a region's location" | Position relative to routes, resources, markets and power centres — situation, not site | Give latitude and longitude |
+| "Account for the concentration of X in region Y" | The physical control, then the historical and economic filter | Assert the pattern |
+| "Discuss the geographical basis of a regional grouping" | Contiguity, shared physiography or basin, complementary resources, and the route logic that binds them | List member countries |
+
+### 12.2 The comparison method — the single most reusable tool in regional geography
+
+⚠️ Any comparative regional question can be answered with the same eight axes. Choose the four or
+five that the question actually engages, and **apply each to both regions before moving on** — a
+comparison written as two separate descriptions scores as description, not comparison.
+
+| Axis | What to establish |
+|---|---|
+| ⚠️ Location and situation | Latitude, continental position, coastal or landlocked, proximity to routes and markets |
+| ⚠️ Structure and relief | Shield, fold belt, basin or plain, and the consequences for soils, minerals and transport |
+| ⚠️ Climate and water | Regime and reliability, not merely averages; the water-availability constraint |
+| ⚠️ Resource base | What is present, whether it is accessible, and whether it is processed locally or exported raw |
+| ⚠️ Population and settlement | Density, distribution, urbanisation level and the reason for the pattern |
+| ⚠️ Economic structure | Sectoral composition; position in global value chains; degree of specialisation |
+| ⚠️ Connectivity | Ports, corridors, chokepoints, and internal versus external orientation |
+| ⚠️ Constraints and risks | Physical hazard, water stress, political fragmentation, boundary disputes, resource dependence |
+
+### 12.3 Location as an analytical variable
+
+- ⚠️ **Landlocked versus coastal** is the most consequential single locational distinction in the
+  world map: a landlocked state depends on a neighbour's ports, roads and goodwill, faces higher
+  freight costs and longer transit times, and cannot independently guarantee access to trade. This
+  is why transit agreements and corridor projects matter disproportionately to such states, and it
+  is a ready-made analytical point for any question about a landlocked country or region.
+- ⚠️ **The route position** — astride a chokepoint, on a major shipping lane, at a land bridge between
+  regions — repeatedly outweighs resource endowment in explaining a region's historical importance.
+- ⚠️ **Latitudinal position and continental configuration** together explain the climate the region
+  receives; the east-west margin asymmetry established in
+  `22_Cool-Temperate-Western-Margin-British-Type.md` is directly transferable here.
+
+### 12.4 Reusable 15-mark spine — a regional comparison
+
+1. **Thesis:** state, in one sentence, what the comparison actually demonstrates — for example that
+   similar physical endowments have produced divergent outcomes because of connectivity and
+   institutions, or that different endowments have converged because of trade.
+2. **Axis by axis,** applying each to **both** regions in the same paragraph.
+3. **Identify the decisive variable** — the axis on which the two regions differ most, and which best
+   explains the outcome.
+4. **Provide the counter-case** — the axis on which they are alike, so the argument is not
+   over-determined.
+5. **Conclusion:** a graded verdict answering the exact comparative question asked, rather than a
+   summary of both regions.
+
+### 12.5 Evidence unit
+
+> **Claim:** situation outweighs site in explaining regional economic importance. **Evidence:**
+> regions positioned on major shipping lanes and at land bridges between economic cores have
+> historically prospered relative to better-endowed but peripheral regions, and landlocked regions
+> face structurally higher trade costs regardless of their internal resources. **Significance:** it
+> supplies a transferable explanatory variable for almost any regional question, and it explains why
+> corridor and transit diplomacy is central to interior states. **Limitation:** situation is a
+> relative and changeable property — a new canal, pipeline, corridor or route closure can transform a
+> region's position without any change in its physical geography.
+
+### 12.6 Reading a distinctive region: the method, with India's north-east as the worked case
+
+> ⚠️ Added 13 Aug 2026 after a Core-only stress test found the folder able to describe world
+> macro-regions but unable to build a full regional-geography answer about a distinctive region.
+
+⚠️ A "regional geography" answer is not a list of facts about a place. It is an argument that a
+**particular combination** of physical, historical, economic and political conditions produces a
+distinctive outcome. The method below applies to any region; India's north-east is used because it
+tests every element.
+
+| Analytical step | Applied to India's north-eastern region |
+|---|---|
+| ⚠️ **Locate and delimit** | A hill-and-valley region beyond the main Ganga plain, connected to the rest of the country by a narrow land corridor and sharing long international boundaries on several sides — so it is **internationally adjacent but nationally peripheral** |
+| ⚠️ **Physical base** | Young fold ranges and hill terrain enclosing a large alluvial river valley; among the wettest climates on Earth on some slopes; high seismicity; heavy rainfall driving landslides and valley flooding (`02`, `03`, `16`) |
+| ⚠️ **Accessibility** | The corridor constraint means long, costly surface routes; terrain raises construction and maintenance cost; this is the single most consequential fact about the region's economy |
+| ⚠️ **Resource base** | Hydropower potential from high-gradient rivers; hydrocarbons in the valley; plantation crops favoured by climate and slope; and forest resources — an endowment that is real but hard to move to market |
+| ⚠️ **Population and culture** | Very high ethno-linguistic diversity, with communities distributed by habitat and with continuity across international boundaries — an overlap-zone geography in the sense of `37` |
+| ⚠️ **Economic outcome** | Limited manufacturing, heavy dependence on primary activity and public employment, and out-migration of the educated young toward metropolitan centres elsewhere (`27`, `29`) |
+| ⚠️ **The synthesis** | The region's distinctiveness is a **compound** of terrain, corridor geography, international adjacency and cultural plurality; no single one of these explains it, and policies that address only one of them under-perform |
+| ⚠️ **The qualification** | The region is not internally uniform: a large alluvial valley, high hill districts and foothill belts differ sharply in accessibility, density and economy, so region-wide generalisations are unsafe |
+
+- ⚠️ **Transferring the method:** the same seven steps — locate, physical base, accessibility,
+  resources, people, economic outcome, synthesis and qualification — will build a regional answer
+  on the Sahel, Central Asia, the Arctic rim, the Andean states or any Indian region.
+
+> ⚠️ **Factual caution:** do **not** quote corridor widths, state areas, rainfall records,
+> hydropower potential in megawatts, literacy or tribal-population percentages from memory.
+
+### 12.7 A second worked region: the Sahel, for comparative use
+
+> ⚠️ Added 13 Aug 2026 after a final hostile test found that a **comparative** regional question
+> could be answered strongly on one region and only schematically on any second one. A comparison
+> needs two worked cases; this supplies the other side.
+
+Applying the same seven steps as §12.6:
+
+| Analytical step | Applied to the Sahel |
+|---|---|
+| ⚠️ **Locate and delimit** | A broad east-west **transition belt** across Africa between the Sahara to the north and the wetter savanna and Sudan zone to the south. It is defined by a **rainfall gradient**, not by relief or by political boundaries — so it crosses many states and lies wholly within none |
+| ⚠️ **Physical base** | Semi-arid, with a single short wet season and **exceptionally high inter-annual rainfall variability**; largely level to gently undulating terrain; thin, fragile soils vulnerable to both wind and water erosion (`07`, `17`, `18`) |
+| ⚠️ **Accessibility** | Landlocked over much of its extent, with long distances to any port — the structural trade-cost penalty of interior location set out in §12.3 |
+| ⚠️ **Resource base** | Rain-fed drought-tolerant cereals and extensive pastoralism as the historic economy; groundwater of uneven availability; and, in parts, mineral and hydrocarbon endowments whose revenue does not readily convert into regional development |
+| ⚠️ **People** | Rapid population growth; a long-standing complementary relationship between settled cultivators and mobile herders, organised around seasonal movement to follow the rains |
+| ⚠️ **Economic outcome and stress** | Recurrent drought years; cultivation extending onto marginal land as population grows; grazing concentrated around boreholes and reduced pasture; land degradation on the dry margin; the shrinkage of Lake Chad removing fishing and flood-recession farming livelihoods (`09`); and competition between herders and farmers over a contracting resource base, which in weakly governed areas escalates into conflict and displacement |
+| ⚠️ **The synthesis** | The Sahel's difficulty is **rainfall variability plus a narrow resource margin plus rapid population growth plus interior location**, with governance capacity determining whether a drought becomes a crisis. Restoration efforts operate on the mechanism — vegetation cover, water harvesting and grazing management — rather than on an imagined advancing desert front (`07`) |
+| ⚠️ **The qualification** | The belt is **not** uniformly degrading. Regreening has been recorded in some areas following better rainfall years and farmer-managed regeneration, so "the Sahara is advancing" is not a defensible statement; degradation and recovery occur simultaneously in different places |
+
+### 12.8 Using the two worked regions comparatively
+
+| Comparison axis | India's north-east | The Sahel | What the contrast shows |
+|---|---|---|---|
+| ⚠️ Defining constraint | **Terrain and corridor access** — too much relief, too little connection | **Rainfall variability** — too little water, too unreliably | Two entirely different physical constraints |
+| ⚠️ Water | Abundant, sometimes excessive; the problem is flood and erosion | Scarce and unreliable; the problem is drought | Opposite ends of the water spectrum |
+| ⚠️ Location penalty | A narrow land corridor to the national core | Landlocked interior, far from any port | Both are **accessibility** penalties, arising from different geometries |
+| ⚠️ Population | High cultural diversity; out-migration of the young | Rapid growth pressing on a fragile resource base | Different demographic problems |
+| ⚠️ Institutional setting | A single state with fiscal transfer capacity | Many states, several with limited administrative reach | Governance capacity is the strongest single differentiator |
+| ⚠️ Degradation risk | Landslide, bank erosion, deforestation on slopes | Wind and water erosion, overgrazing, marginal cultivation | Same category, different mechanism |
+
+- ⚠️ **The conclusion a comparative question is testing:** physical geography sets **which** problem
+  a region must solve — flood and access in one case, drought and land degradation in the other —
+  but it does not set how well the problem is solved. Regions with comparable physical constraints
+  diverge sharply according to connectivity investment, institutional capacity and fiscal transfer,
+  which is why an environmentally deterministic answer fails and a **constraint-plus-capacity**
+  answer succeeds.
+
+> ⚠️ **Factual caution:** do **not** quote Sahel rainfall values, population growth rates,
+> degradation percentages, Lake Chad area loss, conflict casualty figures or the coverage of any
+> restoration programme from memory.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

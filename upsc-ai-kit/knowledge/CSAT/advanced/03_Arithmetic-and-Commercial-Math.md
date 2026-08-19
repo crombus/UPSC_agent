@@ -32,7 +32,7 @@ a pile of separate computations.
 
 | Tool | Statement | Condition |
 |---|---|---|
-| ✅ **Repeated replacement** | After removing and replacing fraction each time, remaining pure part `= initial x (1 - removed/total)^n`. | Same amount removed and replaced each round. |
+| ✅ **Repeated replacement** | After removing and replacing fraction each time, remaining pure part `= initial x (1 - removed/total)^n`. | The vessel is thoroughly mixed, the same volume is removed and replaced each round, and total volume is restored after every round. |
 | ✅ **Markup-then-discount** | Net multiplier `= (1 + markup) x (1 - discount)`; profit% `= (net - 1) x 100`. | Markup on CP, discount on MP. |
 | ✅ **Expenditure = price x quantity** | To hold expenditure constant when price rises by r, cut quantity by `r/(1+r)`. | Price and quantity vary inversely. |
 | ✅ **Ages** | Set present ages as variables; write one equation per time reference. | Keep "years later/ago" consistent on both sides. |
@@ -77,8 +77,9 @@ The options will contain more than one of them.
 ## 4. Time-saving techniques (safe conditions)
 
 - ⚠️ **Multiplier chaining** for any sequence of percentage changes. *Safe always.*
-- ⚠️ **Fraction-power formula** for replacement. *Safe only when the same quantity is removed and
-  replaced each round.*
+- ⚠️ **Fraction-power formula** for replacement. *Safe only when the vessel is mixed before every
+  draw, the same quantity is removed and replaced, and the original total volume is restored each
+  round.*
 - ⚠️ **`r/(1+r)` shortcut** for the consumption cut that holds expenditure fixed. *Safe when price and
   quantity are the only variables.*
 - ⚠️ **Smart-number base (take 100 or the LCM)** for percentage/ratio word problems. *Safe when the
@@ -88,7 +89,8 @@ The options will contain more than one of them.
 
 - ⚠️ Markup and discount must use the **correct base** (markup on CP, discount on MP); mixing bases is
   the most common error.
-- ⚠️ Replacement formula fails if the removed amount **changes** between rounds.
+- ⚠️ Replacement formula fails if the removed amount changes, the vessel is not mixed before a draw,
+  or the total volume is not restored between rounds.
 - ⚠️ A weighted average of two mixtures uses the **volumes taken**, not a plain average, unless the
   volumes are equal.
 - ⚠️ A percentage applied to a **moving base** yields several different true answers - name the base
@@ -161,6 +163,10 @@ The options will contain more than one of them.
   work rates.
 - ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - ages/mixtures are equation setups.
 
+> **Ownership note:** conditional-probability entries in an appended historical routing ledger are
+> owned by Topic 06, not by this Arithmetic companion. This file may supply percentage/fraction
+> prerequisites but must not be used as a probability substitute.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
@@ -174,7 +180,7 @@ The options will contain more than one of them.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | CSAT | 39 | Conditional probability | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
+| 2018 | CSAT | 39 | Conditional probability | Objective question; official key unavailable locally | Cross-owner reference; key unavailable locally | **Route to Topic 06** for method and timed practice; no Topic 03 coverage claim is made here. |
 | 2018 | CSAT | 41 | Pass-fail percentage marks | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2018 | CSAT | 57 | Symmetric profit-loss point | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
 | 2018 | CSAT | 68 | Capacity proportion share | Objective question; official key unavailable locally | Routed; key unavailable locally | Practise this exact skill form under timed elimination; no answer is inferred here. |
@@ -217,7 +223,7 @@ The options will contain more than one of them.
 
 ### What this owner must now support
 
-- Conditional probability
+- Conditional probability — routed to Topic 06 (cross-owner reference)
 - Pass-fail percentage marks
 - Symmetric profit-loss point
 - Capacity proportion share

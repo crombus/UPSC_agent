@@ -149,6 +149,49 @@ Uncrewed tests / abort tests -> crewed mission -> splashdown recovery in Indian 
 - ✅ `01_Space-Programme-ISRO-Launch-Vehicles.md` - launcher capability, human-rating and space-governance context.
 - ✅ `02_Satellites-NavIC-GAGAN-and-Applications.md` - mission applications and space infrastructure base.
 - ✅ `16_Nanotechnology-and-Applications.md` - materials, sensors and avionics relevance to space systems.
+## Core answer architecture — human spaceflight, planetary capability and planetary defence
+
+**Thesis choice.** Treat crewed flight, planetary science and planetary defence as adjacent but different capability ladders: one test or foreign mission cannot certify all three.
+
+**10-mark spine.** Identify the mission class; show its minimum mechanism/safety requirement; name one Indian achievement or approved next step; then date-stamp the exact status before judging value.
+
+**15/20-mark spine.** Use **mission objective → technical chain → named evidence → scientific/strategic spillover → safety, cost and maturity limits**. For asteroids, use **hazard assessment → detection/tracking → deflection options → residual uncertainty**, rather than a generic space-programme paragraph.
+
+**Evidence units.**
+- **Claim:** Indigenous human-spaceflight is a safety system, not a launch event → **HLVM3, Crew/Service Module, Crew Escape System and air-drop/parachute qualification steps** → each validates a survivability layer needed before crew risk is accepted → **qualification:** abort/parachute tests and an international ISS flight are not a Gaganyaan orbital or crewed mission.
+- **Claim:** India’s planetary programme compounds capabilities over missions → **Chandrayaan-3 soft landing, Aditya-L1 halo-orbit operation, and approved Chandrayaan-4/Venus Orbiter plans** → landing, deep-space operations and sample-return preparation create a longer technical ladder → **qualification:** approval/target dates do not establish a launched or operating future mission.
+- **Claim:** Planetary defence is chiefly an early-warning problem → **NASA’s DART changed Dimorphos’s orbit through a kinetic-impact demonstration** → it shows a deflection mechanism can work with warning and characterization → **qualification:** one controlled test is not a universal shield; undiscovered objects, object structure and short-warning cases constrain response.
+
+**Verdict.** India should value prestige missions for safety, science and industrial learning, while stating honestly that indigenous crewed flight and planetary-defence capability remain staged, not completed endpoints.
+
+## Routed PYQ evidence — asteroids, RTGs and space-research distinctions
+
+### 2024 GS-III asteroid answer engine (250 words)
+
+**Definition and thesis:** An asteroid is a rocky/small Solar-System body; the extinction risk from an impact is real in principle but is a low-frequency, detection-dependent risk, so prevention is primarily a planetary-defence and early-warning problem rather than a claim that a shield already exists.
+
+`survey/telescope detection → orbit calculation and physical characterisation → risk communication and international decision → long-warning deflection option → post-action tracking`
+
+- **Detection:** surveys find and track near-Earth objects; orbit, size, composition and whether an object is a coherent body or rubble pile determine feasible response. **Limit:** absence of a known threat is not proof every smaller object has been catalogued.
+- **Kinetic impact:** NASA’s **DART** deliberately struck the non-threatening asteroid moonlet Dimorphos in 2022 and changed its orbit, demonstrating a kinetic-impactor method. **Significance:** it is a real deflection demonstration. **Limit:** it was a controlled test, not an all-object or short-warning defence.
+- **Other proposed approaches:** a gravity tractor can exert a small long-duration pull; civil-defence/evacuation is relevant where deflection time is inadequate. **Limit:** each depends on warning time, target properties and international coordination; do not present nuclear disruption as a routine deployed planetary-defence capability.
+
+**Verdict:** invest in detection, characterisation, simulation and international coordination; DART establishes a method, not a guaranteed planetary shield.
+
+> **Audit source (retrieved 2026-08-14):** NASA Planetary Defense/DART page (`https://science.nasa.gov/planetary-defense-dart/`). It describes DART as a planetary-defence demonstration; the status wording above deliberately does not turn it into a general operational shield.
+
+### Prelims concept cards
+
+- **RTG:** a radioisotope thermoelectric generator converts heat released by radioactive decay into electricity through thermocouples. It is **not** a fission reactor and is useful where solar power is weak or intermittent. Its trade-off is low electrical output and radiological containment, not a claim of unlimited power.
+- **Microgravity route:** Axiom-4 was an international ISS mission; SpaDeX concerns in-space docking technology; Gaganyaan remains India’s indigenous human-spaceflight programme. Do not collapse astronaut exposure, docking capability and an unflown indigenous crewed mission into one accomplishment.
+- **LISA concept:** the planned gravitational-wave observatory concept uses three spacecraft in a large formation to measure tiny distance changes by laser interferometry; it is a space-based observatory design, not a conventional imaging satellite.
+
+## Historical Mains Core routes — station, observatory and lunar capability
+
+- **India’s space-station aspiration (2019):** a station extends a one-off crewed-flight capability into sustained human presence, microgravity research, docking/resupply, life-support and long-duration operations. **Evidence:** BAS-01 is approved with a target, while Gaganyaan’s uncrewed/crewed steps remain staged. **Qualification:** a target module is not a functioning station; safety, budget, research use and launch/recovery maturity decide value.
+- **James Webb Space Telescope (2022):** JWST is a large infrared space observatory operating around Sun–Earth L2; infrared observations help study faint/distant early-universe objects, star/planet formation and exoplanet atmospheres. **Qualification:** it is an international observatory, not an Indian launch vehicle or a generic “more powerful telescope” claim; its science benefit depends on instruments/data interpretation.
+- **Chandrayaan-3 (2023):** the mission combined controlled lunar soft landing with in-situ surface science near the south polar region. **Significance:** it demonstrated landing/surface operations that support future mission sequencing. **Qualification:** it did not itself demonstrate sample return, human lunar flight or a permanent lunar base.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

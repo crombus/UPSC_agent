@@ -3,7 +3,7 @@
 > **Source text:** [../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md](../OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md)
 > **Folder index:** [README.md](./README.md)
 > **Audit rule:** `COVERED` = clear in-folder direct owner(s); `PARTIAL` = some in-folder coverage exists, but the clause is fragmented, indirect, or materially dependent on another subject folder; `GAP` = no auditable in-folder owner found.
-> **Older PYQ integration status (2018–2023):** older routing is still central via [../_PYQ-INDEX.md](../_PYQ-INDEX.md), [../_PYQ-ROUTING-PRELIMS-2018-2023.md](../_PYQ-ROUTING-PRELIMS-2018-2023.md) and [../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md](../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md); that is routing support, not per-file/topic integration inside this folder.
+> **Older PYQ integration status (2018–2023):** provenance remains central via [../_PYQ-INDEX.md](../_PYQ-INDEX.md), [../_PYQ-ROUTING-PRELIMS-2018-2023.md](../_PYQ-ROUTING-PRELIMS-2018-2023.md) and [../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md](../_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md); this audit reconciled Science Mains links to Core and added direct Core evidence routes, so Advanced is not paper-essential.
 
 ## Preliminary Examination — Paper I
 
@@ -42,3 +42,17 @@
 | Nano-technology | Direct | COVERED | [basic/16_Nanotechnology-and-Applications.md](./basic/16_Nanotechnology-and-Applications.md), [advanced/16_Nanotechnology-and-Applications.md](./advanced/16_Nanotechnology-and-Applications.md) | Dedicated direct owner exists. |
 | Bio-technology | Direct | COVERED | [basic/13_Biotechnology-Fundamentals-and-DBT-Missions.md](./basic/13_Biotechnology-Fundamentals-and-DBT-Missions.md), [advanced/13_Biotechnology-Fundamentals-and-DBT-Missions.md](./advanced/13_Biotechnology-Fundamentals-and-DBT-Missions.md), [basic/14_Genetic-Engineering-GM-Crops-and-CRISPR.md](./basic/14_Genetic-Engineering-GM-Crops-and-CRISPR.md), [advanced/14_Genetic-Engineering-GM-Crops-and-CRISPR.md](./advanced/14_Genetic-Engineering-GM-Crops-and-CRISPR.md), [basic/15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md](./basic/15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md), [advanced/15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md](./advanced/15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md) | Dedicated direct owners exist. |
 | Issues relating to intellectual property rights | Direct | COVERED | [basic/17_Intellectual-Property-Rights-and-Patents.md](./basic/17_Intellectual-Property-Rights-and-Patents.md), [advanced/17_Intellectual-Property-Rights-and-Patents.md](./advanced/17_Intellectual-Property-Rights-and-Patents.md) | Dedicated direct owner exists. |
+
+## Audit reconciliation — routed mixed demands
+
+`COVERED` above means a reusable in-folder owner exists. It does **not** override the controlling 2024–2025 PYQ ledger where a question crosses subject boundaries. The following boundaries prevent false ownership claims:
+
+| Demand | Primary owner | Science contribution |
+|---|---|---|
+| 2024 freshwater technologies | Environment-and-Ecology `basic/14_Water-Pollution-and-River-Cleaning-Missions.md` | Topic 22: RO, distillation and ion-exchange chemistry/limits |
+| 2024 asteroids/extinction/prevention | Science Topic 03 | Topic 21: gravity, radiation and observation foundations |
+| 2024 encrypted messaging/social-media security | Internal-Security `basic/09_Social-Media-Encrypted-Messaging-and-Information-Warfare.md` | Topic 12: encryption, privacy, CERT-In/NCIIPC distinctions |
+| 2025 clean-tech energy independence/biotechnology | Environment-and-Ecology `basic/25_Renewable-Energy-and-Green-Hydrogen.md` | Topic 13: biomanufacturing and biotechnology contribution |
+| 2025 PLI rationale/achievements/improvement | Economy `basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` | Topic 11: semiconductor technical value-chain and ISM status |
+
+This is boundary discipline, not a coverage gap: all named Science contributions are in Core and can be combined without using Advanced.

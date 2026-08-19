@@ -176,3 +176,23 @@ outcome from a *proposal* that was merely tabled.
 - ✅ `05_IUCN-Red-List-and-Endemism.md` — the distinct scientific-risk-assessment layer.
 - ✅ `10_CMS-Bonn-Convention-Migratory-Species.md` — a complementary international species-
   conservation convention with a different (habitat/range-state) focus.
+
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- Ask whether the threat is **cross-border trade** or **habitat/local demand**. Only the former is CITES’ direct jurisdiction.
+- **Thesis:** CITES can regulate international trade through science-gated permits, but it cannot substitute for domestic habitat conservation or anti-poaching enforcement.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Listing type controls the legal mechanism. | **Appendix I, II and unilateral Appendix III** → distinguishes restricted commercial trade, regulated trade and a Party’s cooperation request. | Do not equate an Appendix with an IUCN category. |
+| Permit integrity is the operational bottleneck. | **Scientific Authority non-detriment finding → Management Authority permit → customs/WCCB verification** → links science to enforcement. | A permit system fails if population data or species identification is weak. |
+| A listing alone cannot end trafficking. | **Red Sanders/Star Tortoise trafficking examples** → shows the need for domestic enforcement and demand reduction. | Do not assert a current Appendix or seizure trend without its CoP/report date. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** define treaty scope, map Appendices and name the two authorities.
+- **15/20 marks:** evaluate the permit chain, distinguish trade from habitat loss, add India’s 2022 Schedule IV implementation, then give a capacity-and-coordination verdict.

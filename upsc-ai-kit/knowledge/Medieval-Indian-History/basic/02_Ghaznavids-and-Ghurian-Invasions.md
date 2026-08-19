@@ -83,3 +83,37 @@
 - ⚠️ Compare Mahmud's raids with Muizzuddin's conquest strategy.
 - ⚠️ Explain why Punjab was the strategic hinge between plunder and rule.
 - ⚠️ Discuss the organisational reasons for Rajput defeat without reducing the issue to bravery or religion.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Compare Mahmud vs Muizzuddin | "Mahmud extracted resources for Central Asian ambitions; Muizzuddin constructed an Indian state — the strategic difference is resource-extraction versus territorial consolidation." |
+| Examine causes of defeat | "The Turkish advantage combined unified command, rapid cavalry, and an uncontested frontier after Punjab's loss; Indian resistance was brave but localised and sequential." |
+| Critically evaluate 'decline' | "North Indian polities were administratively functional locally; the problem was inter-state coordination at the supra-regional level, not institutional emptiness." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Jayapala/Anandapala resistance (1001–09) | Frontier defence was active, not passive | Refutes deterministic collapse narratives | Limited to Hindu Shahis; interior states uninvolved |
+| 2 | ✅ Mahmud's return to Ghazni after Somnath (1025) — no annexation | Raids ≠ rule; motivations were extra-Indian | Distinguishes plunder from state-building | Somnath's later symbolic magnification exceeds its political impact |
+| 3 | ✅ Tarain I (1191): Prithviraj defeats Ghuri | Indian states could win field battles | Defeats inevitabilist arguments | Not followed by pursuit or frontier recovery |
+| 4 | ✅ Tarain II (1192) + Chandawar (1194) in rapid sequence | One decisive loss triggered cascading collapse | Reveals dependence on a single ruler rather than institutional continuity | Speed reflects political vacuum, not only military inferiority |
+| 5 | ✅ Bakhtiyar Khalji's eastern campaigns | Conquest was multi-actor and staged | Shows decentralised Turkish initiative | Bengal operations involved opportunism as much as planning |
+
+### 8.3 Counterpoints
+
+- ⚠️ Rajput confederacies did exist (Tarain I coalition); they were not always isolated.
+- ⚠️ Turkish losses (Tarain I, Gujarat failure 1178) prove contingency.
+- ⚠️ Some Indian elites later collaborated; conquest was partly negotiated, not solely military.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Mahmud/Muizzuddin contrast + 2 evidence units + qualified conclusion.
+- **15-mark:** Add frontier-loss thesis + Tarain comparison + one counterpoint.
+- **20-mark:** Full deployment; discuss historiography (Habib vs Wink debate on Indian socio-political structure); graded multi-factor verdict.

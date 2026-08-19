@@ -5,7 +5,7 @@
 > **Core area:** Building a coherent 1000–1200-word architecture from a
 > thesis and argument map, and linking paragraphs with genuine
 > transitions rather than headings.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Section 9.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -34,16 +34,18 @@ to each other — it assumes the thesis and argument map are already built
 - ✅ Both audited papers require about 1000–1200 words per essay, with no
   printed instruction on paragraph count, headings, or subheadings (see
   `../README.md`).
-- ⚠️ The 10–12 paragraph guidance and heading-free convention used here
+- ⚠️ The 9–11 paragraph guidance and heading-free convention used here
   are pedagogical norms for continuous essay writing, not an official
   UPSC requirement.
 
 ## 4. The central idea and common misreading
 
 ⚠️ **Central idea:** a 1000–1200-word essay typically works well as
-roughly 10–12 purposeful paragraphs — introduction, 2–4 argument-map
-clusters (2–3 paragraphs each), a counter-view/synthesis paragraph, and a
-conclusion — each opening with a transition to the previous idea. ❌
+roughly **9–12 purposeful paragraphs** — introduction, three
+argument-map clusters (usually two paragraphs each), a counter-view/
+synthesis paragraph, and a conclusion. Add a paragraph only when a
+distinct mechanism or objection needs development, not to meet a count.
+Each paragraph should open with a transition to the previous idea. ❌
 **Common misreading:** using GS-style headings, numbered sections, or
 bullet lists to organise the essay — this reads as an administrative
 answer, not a continuous argued essay, and undercuts flow.
@@ -68,9 +70,62 @@ answer, not a continuous argued essay, and undercuts flow.
 | Introduction | 1 | Tension + implied thesis (`06`) |
 | Body cycle 1 | 2 | Mechanism + illustration + qualification for dimension 1 |
 | Body cycle 2 | 2 | Mechanism + illustration + qualification for dimension 2 |
-| Body cycle 3 (optional) | 2 | Mechanism + illustration + qualification for dimension 3 |
-| Counter-view/synthesis | 1–2 | Strongest objection tested and resolved (`08`) |
+| Body cycle 3 | 2 | Mechanism + illustration + qualification for dimension 3 |
+| Counter-view/synthesis | 1 | Strongest non-duplicative objection tested and resolved (`08`) |
 | Conclusion | 1 | Transformed thesis + forward-looking synthesis (`06`) |
+| Optional expansion | 0–2 | Use only for a fourth distinct mechanism or a counter-view requiring separate development |
+
+This base plan has **9 paragraphs**; one or two earned expansions make it
+10–11. It is a planning heuristic, not a paper rule.
+
+### Two prose-ready paragraph skeletons
+
+**Skeleton 1 — accountable power (2024-B6):**
+
+> **Claim:** Personal restraint matters, but discretionary power that
+> affects others' rights also needs an external test. **Mechanism:** when
+> decisions can be examined by citizens and institutions, concealment is
+> harder and reasons must be made public. **Verified illustration:** the
+> Right to Information Act, 2005 enables citizen scrutiny of public
+> authority; its year and the Central and State Information Commissions
+> are locally verified in the illustration bank (`12`). **Qualification:**
+> transparency alone cannot guarantee enforcement or ethical conduct.
+> **Link:** Yet scrutiny cannot replace judgement; the next question is
+> how institutions preserve necessary discretion without making it
+> unanswerable.
+
+**Skeleton 2 — ecological restraint (2024-A1):**
+
+> **Claim:** Development becomes self-defeating when it treats ecological
+> restraint as an obstacle rather than a condition of durable prosperity.
+> **Mechanism:** communities that bear environmental costs can make hidden
+> losses visible and check extraction before damage compounds. **Verified
+> illustration:** the Chipko movement was a 1970s Himalayan
+> forest-protection movement; that placement is locally verified in
+> `12`. **Qualification:** one movement cannot prove that community action
+> alone reverses every extractive pressure. **Link:** Its lesson therefore
+> leads beyond local resistance to the institutional rules that decide
+> whether ecological costs are counted at all.
+
+### Load-bearing transition chain
+
+```text
+PERSONAL RESTRAINT limits abuse when nobody is watching.
+        |
+        v
+"Yet private virtue is too fragile where a decision changes another
+person's rights; public power needs public reasons."
+        |
+        v
+INSTITUTIONAL ACCOUNTABILITY tests those reasons through scrutiny.
+        |
+        v
+"But scrutiny alone does not tell an institution which competing right
+should govern; that requires a reasoned ethical priority."
+        |
+        v
+ETHICAL SYNTHESIS resolves the remaining conflict without hiding its cost.
+```
 
 ## 7. India-first illustration starters
 

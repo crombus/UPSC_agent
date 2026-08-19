@@ -105,6 +105,44 @@ historical dynamic.
   channels) is a key input into why regional groupings matter — SAARC and
   BIMSTEC institutional comparison is treated in topic 10, not here.
 
+### Connectivity and hydropower evidence
+
+- ✅ **Bangladesh connectivity:** the Akhaura-Agartala cross-border rail link
+  was inaugurated on **1 November 2023**, complementing restored rail,
+  inland-waterway, road and power links.
+  **Significance:** connectivity can turn geography from a barrier into
+  subregional market access for India's Northeast.
+  **Limitation:** customs, trans-shipment, domestic politics and last-mile
+  infrastructure determine actual use.
+- ✅ **BBIN Motor Vehicles Agreement:** Bangladesh, Bhutan, India and Nepal
+  signed the agreement in **2015** to facilitate cross-border passenger and
+  cargo movement.
+  **Significance:** subregionalism can progress when SAARC-wide consensus is
+  unavailable.
+  **Limitation:** Bhutan's non-ratification has constrained four-country
+  implementation.
+- ✅ **Bhutan hydropower:** the 720 MW Mangdechhu project, commissioned in 2019
+  and handed over to Bhutan in 2022, illustrates joint project delivery and
+  electricity trade.
+  **Significance:** hydropower links Bhutanese revenue and Indian clean-power
+  access.
+  **Limitation:** project delay, cost escalation, ecological effects and
+  Bhutan's diversification concerns require balance.
+- ⚠️ **Teesta and federal actors:** the unresolved Teesta water-sharing issue
+  demonstrates how Indian state-level interests can constrain a bilateral
+  agreement with Bangladesh.
+  **Significance:** neighbourhood diplomacy is shaped by domestic federal and
+  border stakeholders.
+  **Limitation:** one dispute should not erase wider connectivity and security
+  cooperation.
+- ⚠️ **Act East physical routes:** the Kaladan project and India-Myanmar-
+  Thailand Trilateral Highway aim to connect India's Northeast with Myanmar and
+  Southeast Asia.
+  **Significance:** neighbourhood infrastructure is the territorial foundation
+  of Act East.
+  **Limitation:** conflict, incomplete road segments and border procedures mean
+  an announced corridor is not seamless connectivity.
+
 **Dated bilateral instruments and status markers (verified 3 August 2026):**
 
 | Neighbour | Dated instrument / status marker | Evidentiary level |
@@ -117,6 +155,26 @@ historical dynamic.
 | Myanmar | India's stated position (31 August 2025) supports a Myanmar-led, Myanmar-owned peace process and inclusive elections; on the Kaladan Multi-Modal Transit Transport Project the waterway and Sittwe Port were operationalised (May 2023) while the road component lagged, with both sides still calling for completion on 1 June 2026 | Position statement + partially commissioned corridor |
 | Afghanistan | Engagement with the Taliban administration through the Foreign Secretary's Dubai meeting (8 January 2025) and the External Affairs Minister's New Delhi meeting (10 October 2025); India restored its Kabul Technical Mission to Embassy status with immediate effect on 21 October 2025 | Engagement + administrative upgrade — ⚠️ not a recognition declaration |
 | Pakistan | The Cabinet Committee on Security decided on 23 April 2025 that "the Indus Water Treaty of 1960 will be held in abeyance with immediate effect until Pakistan credibly and irrevocably abjures its support for cross-border terrorism"; Operation Sindoor was described officially on 7 May 2025 as "measured, non-escalatory, proportionate, and responsible"; on 10 May 2025 India recorded an "understanding... to stop all military activities" | Executive decision + operation + understanding — ⚠️ not treaty termination and not a formal ceasefire agreement |
+
+### Sri Lanka's 2022 economic crisis: first-responder evidence
+
+- ✅ By **3 May 2022**, India's High Commission recorded more than **USD 3
+  billion** in assistance during 2022: a USD 1 billion facility for food,
+  medicines and essentials; a USD 500 million petroleum credit line; about USD
+  1 billion in Asian Clearing Union payment deferment; and a USD 400 million
+  RBI currency swap.
+- ✅ The petroleum line had delivered close to **400,000 tonnes of fuel** across
+  all 25 districts, while the essentials facility had supplied rice and other
+  necessities; medical consignments provided a humanitarian component.
+- ⚠️ Full-year official descriptions commonly place aggregate support at around
+  USD 4 billion. Use the figure with its time period: more than USD 3 billion
+  by May versus roughly USD 4 billion over 2022.
+- ⚠️ **Significance:** rapid credit, currency and humanitarian support
+  demonstrated Neighbourhood First and first-responder credibility while
+  helping preserve basic supplies and macroeconomic space.
+- ⚠️ **Limitation:** emergency financing did not remove Sri Lanka's structural
+  debt, revenue, governance and external-financing problems; durable recovery
+  required domestic adjustment and an IMF-supported programme.
 
 ## 5. Indian applications and examples
 
@@ -260,6 +318,29 @@ historical dynamic.
   India's smaller neighbours than purely bilateral engagement." Examine this
   observation with reference to India's Neighbourhood First policy.
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+### Direct Mains demand owned by Core
+
+The **2022 GS-II Sri Lanka crisis** demand is owned here; this Core route supersedes the
+older `advanced/02` pointer.
+
+- **Structure:** geography and asymmetry -> political transition/security concern ->
+  connectivity/development instrument -> local perception -> outcome and correction.
+- **Evidence pool:** Sri Lanka crisis support, Bangladesh connectivity, Nepal power
+  trade, Bhutan hydropower, Maldives maritime relevance, Myanmar security/connectivity,
+  Pakistan treaty and terrorism constraints.
+- **Balance:** urgency and public-goods provision can build trust, but project delay,
+  domestic politics and fears of dominance can reverse gains.
+
+**10 marks:** one neighbour, 2-3 interests and named instruments. **15 marks:** compare
+security, connectivity, development and political constraints. **20 marks:** synthesise
+asymmetry, federal/border actors, China factor, regional institutions and differentiated
+country strategies.
+
+> **Reasoned verdict:** Neighbourhood First succeeds when India converts structural
+> asymmetry into reliable public goods and consultation rather than episodic crisis response.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/02_India-and-the-Neighbourhood.md`.
@@ -297,21 +378,23 @@ historical dynamic.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2020, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Years represented:** 2020, 2022, 2023
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 3
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2020 | Prelims GS-I | 64 | India trade with Sri Lanka Bangladesh and Nepal | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | GS-II | 9 | India's role in the recent crisis in Sri Lanka | Discuss · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 10 | India regional connectivity projects Trilateral Highway BCIM | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
 - India trade with Sri Lanka Bangladesh and Nepal
+- India's role in the recent crisis in Sri Lanka
 - India regional connectivity projects Trilateral Highway BCIM
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.

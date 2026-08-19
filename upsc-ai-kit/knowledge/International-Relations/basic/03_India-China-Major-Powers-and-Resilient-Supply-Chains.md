@@ -127,7 +127,101 @@ choosing a single patron.
   without a comparable strategic framework agreement, given the unresolved
   boundary dispute — Economy owns tariff/trade-deficit mechanics.
 
+### India-US and India-Russia defence architecture
+
+- ✅ **India-US enabling agreements:** LEMOA (2016) enables reciprocal
+  logistics support; COMCASA (2018) enables secure communications; BECA (2020)
+  enables exchange of geospatial information.
+  **Significance:** together they improve interoperability, logistics and
+  situational awareness.
+  **Limitation:** they are enabling agreements, not a collective-defence
+  alliance or automatic basing right.
+- ✅ **Major Defence Partner:** the United States designated India a Major
+  Defence Partner in **2016**; the ten-year Framework for the US-India Major
+  Defense Partnership was signed on **31 October 2025**.
+  **Significance:** the relationship now combines procurement, exercises,
+  industrial cooperation and technology access.
+  **Limitation:** export controls, commercial negotiation and policy volatility
+  continue to condition delivery.
+- ✅ **India-Russia installed base:** Su-30MKI licensed production and the
+  BrahMos joint venture demonstrate co-production alongside procurement; the
+  2018 S-400 contract is a named high-end acquisition.
+  **Significance:** Russia remains embedded in India's operational inventory and
+  maintenance ecosystem.
+  **Limitation:** installed-base and spares concentration creates dependence
+  risk even when the overall relationship is described as complementary.
+- ✅ **AK-203 joint venture:** the Indo-Russian Rifles Private Limited venture at
+  Korwa represents an attempt to localise production.
+  **Significance:** joint production can convert buyer-seller ties into
+  industrial capacity.
+  **Limitation:** localisation depth, component sourcing and production
+  milestones must be verified separately.
+- ⚠️ **CAATSA exposure:** the S-400 purchase created exposure to possible US
+  sanctions under another state's domestic law.
+  **Significance:** third-party sanctions can narrow strategic-autonomy choices.
+  **Limitation:** exposure is not the same as an international-law obligation
+  on India.
+
+### India-Japan and India-EU diversification pillars
+
+- ✅ **India-Japan strategic upgrade:** the relationship was elevated to a
+  **Special Strategic and Global Partnership in 2014**. The third Foreign and
+  Defence Ministers' 2+2 meeting met in New Delhi on **20 August 2024** and
+  agreed to revise the 2008 Joint Declaration on Security Cooperation.
+  **Significance:** Japan supplies a combined security, infrastructure,
+  technology and Indo-Pacific pillar outside a treaty alliance.
+  **Limitation:** implementation pace and Japan's own security constraints
+  prevent the partnership from substituting for Indian capability.
+- ✅ **Reciprocal logistics support:** the India-Japan Agreement concerning
+  Reciprocal Provision of Supplies and Services was signed in **September
+  2020** and became operational in 2021.
+  **Significance:** it enables practical defence interoperability and expands
+  the geographic reach of exercises and HADR cooperation.
+  **Limitation:** logistics access is not a collective-defence commitment.
+- ✅ **Mumbai-Ahmedabad High-Speed Rail:** JICA records cumulative commitments
+  exceeding **JPY 1 trillion since 2017**, alongside Shinkansen technology,
+  training and station-area cooperation.
+  **Significance:** the project converts strategic partnership into long-term
+  infrastructure and technology transfer.
+  **Limitation:** concessional finance and technology choice do not remove
+  construction, localisation or delivery risks.
+- ✅ **Supply Chain Resilience Initiative:** Australia, India and Japan launched
+  SCRI in **April 2021** to promote diversification, digital tools and
+  buyer-seller matching.
+  **Significance:** it translates de-risking from China into a plurilateral
+  economic instrument.
+  **Limitation:** dialogue and matching mechanisms do not themselves establish
+  relocated production.
+- ⚠️ **India-EU pillar:** the EU-India Trade and Technology Council creates a
+  channel for technology, green-transition and standards cooperation. FTA
+  negotiations concluded on **27 January 2026**, but legal review and
+  ratification remained necessary before entry into force.
+  **Significance:** the EU widens India's technology, market and regulatory
+  options beyond US-China competition.
+  **Limitation:** regulatory differences and an agreement not yet in force
+  constrain immediate gains.
+
 ## 5. Indian applications and examples
+
+### Russia-Ukraine conflict and India's interests
+
+- ✅ Russia's full-scale military action against Ukraine began in February 2022. India
+  has repeatedly called for dialogue and diplomacy, invoked sovereignty and territorial
+  integrity, supplied humanitarian assistance, and generally abstained on polarising UN
+  resolutions rather than joining either bloc.
+- ⚠️ **Energy and fertiliser:** disrupted European-Russian trade redirected discounted
+  Russian supplies toward India, supporting energy and farm-input security. The gain is
+  qualified by sanctions exposure, payment/logistics friction and vulnerability to
+  unilateral tariff or secondary-sanctions pressure.
+- ⚠️ **Defence:** legacy Russian-origin platforms make spares and maintenance a security
+  concern; diversification reduces future concentration but cannot instantly replace an
+  installed equipment base.
+- ⚠️ **Diplomacy:** India's position demonstrates strategic autonomy and preserves access
+  to Russia while maintaining Western technology partnerships. The limitation is
+  reputational criticism and reduced room for explicit norm-enforcement.
+- ⚠️ **Global spillovers:** Black Sea disruption affected food, fertiliser, freight and
+  energy markets; India must separate humanitarian/UN-Charter principles from its
+  national-interest management of supplies.
 
 - ✅ **Direct PYQ (2024 Q9, local paper text reproduced verbatim):** *"The West
   is fostering India as an alternative to reduce dependence on China's supply
@@ -246,8 +340,8 @@ choosing a single patron.
   India-China relations explicitly — conflating them is a common scoring error.
 - ⚠️ Use "tactical partnership," not "alliance," to describe India-US
   convergence, per Tharoor's own framing caution.
-- ⚠️ Use "complementarity," not "dependence," to describe India-Russia
-  defence-energy ties, while still noting the risk flagged in the advanced file.
+- ⚠️ Use "complementarity" for the overall India-Russia relationship, while
+  naming the narrower **installed-base/spares dependence** precisely.
 - ⚠️ Always distinguish de-risking from decoupling when discussing supply-chain
   policy.
 
@@ -270,6 +364,28 @@ choosing a single patron.
 - ⚠️ **Mains (15 marks):** Distinguish India's economic engagement with China
   from its strategic posture toward China. How does this distinction shape
   India's supply-chain diversification policy?
+
+## 11A. Answer architecture (10/15/20-mark support)
+
+### Direct Mains demands owned by Core
+
+Core owns the 2019 India-Japan and India-US demands and the 2021 China challenge
+demand, superseding the older `advanced/03` routes.
+
+- **Major-power matrix:** China--trade plus boundary mistrust; US--technology/security
+  convergence plus policy volatility; Russia--defence/energy continuity plus sanctions
+  exposure; Japan/EU--capital, standards, connectivity and resilient supply chains.
+- **Ukraine engine:** principles -> UN posture -> energy/fertiliser -> defence spares ->
+  sanctions exposure -> diplomatic balance.
+
+**10 marks:** precise bilateral thesis and 2-3 dated instruments. **15 marks:** interests,
+convergence, friction and third-party effects with 4-6 examples. **20 marks:** compare
+all major-power tracks, dependencies, supply chains, technology controls, conflicts and
+strategic-autonomy choices.
+
+> **Reasoned verdict:** India's major-power policy is successful when diversified
+> partnerships expand capability without converting any one dependence into a veto over
+> national choices.
 
 ## 12. Study links
 
@@ -328,20 +444,26 @@ choosing a single patron.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2019
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+- **Years represented:** 2019, 2021
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 4
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2019 | GS-II | 9 | India-Japan contemporary global and strategic partnership | Comment · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2019 | GS-II | 20 | Friction in India-US ties and India's place in US global strategy | Explain with suitable examples · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | Prelims GS-I | 89 | India nuclear field cooperation bilateral action plan | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | GS-II | 10 | The USA facing an existential challenge from China | Explain · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
 
+- India-Japan contemporary global and strategic partnership
+- Friction in India-US ties and India's place in US global strategy
 - India nuclear field cooperation bilateral action plan
+- The USA facing an existential challenge from China
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

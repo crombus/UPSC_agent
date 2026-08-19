@@ -74,9 +74,70 @@
 
 ## 7. Mains angles
 
+### Thesis options (question-appropriate, choose by directive)
+
+| Directive type | Thesis frame |
+|---|---|
+| Discuss | The Indian Stone Age is best understood as a regionally varied, technologically cumulative sequence in which ecology, raw material and mobility shaped tool choices—not as a unilinear ladder. |
+| Critically examine | While the Lower → Middle → Upper → Mesolithic sequence is broadly valid, region-specific chronologies (e.g. Attirampakkam) and overlapping phases challenge any single all-India timeline. |
+| Compare | Comparing Palaeolithic and Mesolithic reveals a shift from generalised foraging with heavy core tools to specialised microenvironment exploitation using composite microlith technology. |
+| Evaluate significance | The Mesolithic was not merely a gap between the Palaeolithic and Neolithic; it represents the first evidence of symbolic behaviour (rock art), burial ritual and incipient domestication in the Indian subcontinent. |
+
+### Evidence units (analytically structured)
+
+| Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|
+| Tool technology defines Stone Age phases | Hand-axes at Bori/Narmada (Lower Pal.); flakes in Middle Pal.; blades/burins at Kurnool/Bhimbetka (Upper Pal.); microliths at Bagor/Adamgarh (Mesolithic) | Shows cumulative cognitive-technical evolution; allows relative dating even without absolute methods | Dating depends on site-specific stratigraphy; typology alone cannot fix chronology |
+| Mesolithic represents incipient domestication | Adamgarh and Bagor: animal bones interpreted as domesticated cattle/sheep/goat c. 5000 BC | Bridges hunter-gatherer and food-producing worlds | Identification of wild vs. domesticated bones is debated; some scholars question the evidence |
+| Rock art evidences cognitive/symbolic capacity | Bhimbetka: painted rock shelters with Mesolithic-era hunting, dancing and animal scenes | Earliest subcontinental evidence of narrative art and possibly ritual | Dating of individual paintings is difficult; sequence assignment relies on superposition and style |
+| Regional chronologies challenge single timelines | Attirampakkam (385 ± 64 ka for Middle Palaeolithic onset); Kurnool caves (19,224 BP) | Proves that phase transitions were not synchronous across the subcontinent | Luminescence and radiocarbon methods have different error margins; single-site dates are not pan-Indian |
+
+### Causal structure for "why" questions
+
+```
+Ecology (climate, river systems, raw material availability)
+  → shaped tool choices and mobility patterns
+    → determined subsistence strategies (hunting, gathering, early herding)
+      → eventually enabled sedentism and domestication (Mesolithic → Neolithic transition)
+```
+
 - ⚠️ Explain the Stone Age as technological adaptation: core tools → flakes → blades → microliths.
 - ⚠️ Discuss the Mesolithic as a transitional stage between foraging and food production.
 - ⚠️ Use Bhimbetka to link archaeology, art history and heritage conservation in GS-I.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The Indian Stone Age is best read as a regionally varied technological sequence rather than as a single all-India ladder of progress." |
+| Critically examine | "The Lower-Middle-Upper-Mesolithic sequence remains valid, but newer site chronologies warn against treating phase boundaries as simultaneous everywhere." |
+| Compare / evaluate | "The shift from heavy core tools to microlithic adaptation marks not merely technical change but changing mobility and subsistence." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** tool change -> ecological adaptation -> subsistence shift -> transition toward domestication
+- **For comparison Qs:** Lower/Middle/Upper Palaeolithic vs Mesolithic across tools, mobility and economy
+- **For evaluate Qs:** technological sequence -> symbolic/behavioural evidence -> caution on chronology
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Tool typology remains the main period marker | ✅ Hand-axes, flakes, blades and microliths | Gives a usable chronology for UPSC answers | Typology alone cannot settle exact dates |
+| 2 | Symbolic life is visible in the Mesolithic transition | ✅ Bhimbetka rock shelters and paintings | Adds cognition and art to economic history | Individual paintings are hard to date precisely |
+| 3 | Mesolithic India shows incipient domestication | ✅ Adamgarh, Bagor and Sambhar-linked evidence | Bridges foraging and later food production | Wild/domesticated identification remains debated |
+
+### Counterpoint and balance
+
+- Do not present Stone Age change as a sudden revolution everywhere at once.
+- Site-specific dates such as Attirampakkam refine, but do not erase, the broad textbook sequence.
+
+### Verdict framing
+
+- Use a graded ending: broad sequence valid, regional chronology variable, interpretation evidence-dependent.
+- Avoid converting genetics or isolated dates into pan-Indian archaeological certainty.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

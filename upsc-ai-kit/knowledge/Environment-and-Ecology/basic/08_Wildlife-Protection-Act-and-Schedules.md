@@ -197,6 +197,25 @@ rather than assuming a static, unchanging species list.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- State the legal time point first: **pre-2022 six-schedule structure** versus **post-2022 four-schedule structure**. Then separate domestic protection from CITES trade control.
+- **Thesis:** the 2022 reform is a domestic enforcement and treaty-alignment mechanism whose effectiveness still depends on notification, forensics and state-level enforcement.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| The schedules have distinct functions. | **Schedules I–II animals; III plants; IV CITES scheduled specimens** → Schedule IV is a trade-control alignment, not a higher conservation rung. | Species mapping changes by notification; do not memorise a stale list as current law. |
+| CITES alignment is not automatic incorporation. | **2022 Management Authority/Scientific Authority and Chapter VB architecture** → gives domestic machinery for international trade control. | A later CITES decision still needs the applicable Indian legal update. |
+| “Vermin” requires time-sensitive reading. | **Old Schedule V was omitted in 2022; Section 62 notification mechanism remains** → avoids treating an old schedule as current law. | Do not retrofit post-2022 law to a historical question such as an older Indian Flying Fox classification. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** state the four schedules, explain Schedule IV and one enforcement institution (WCCB).
+- **15/20 marks:** sequence statute → CITES alignment → enforcement chain → invasive-species/rights trade-off; conclude with capacity, not merely a schedule-count claim.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

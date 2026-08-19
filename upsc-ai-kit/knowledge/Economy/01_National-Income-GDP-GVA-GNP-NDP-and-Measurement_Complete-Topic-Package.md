@@ -166,6 +166,71 @@ current prices, whereas real GDP attempts to isolate volume change**.
 - ✅ Sale of an existing asset; only current brokerage or service value is added.
 - ✅ Unpaid household work that lies outside the conventional production boundary.
 
+## 6A. Indian applications and evidence units
+
+- ✅ **2015 national-accounts revision:** India shifted to the 2011-12 base and
+  greater use of corporate administrative data, changing sector weights and
+  methodology.
+  **Significance:** base revision can improve coverage and relevance.
+  **Limitation:** it creates comparability disputes unless a reliable back
+  series is used.
+- 📰 **2026 GDP-series revision:** MoSPI released the 2022-23-base series on
+  27 February 2026.
+  **Significance:** newer data sources and weights can better reflect structural
+  change.
+  **Limitation:** the absence of a complete comparable back series prevents
+  casual splicing with older growth rates.
+- ✅ **Potential GDP and output gap:** the 2020 GS-III demand requires
+  separating actual output from the sustainable capacity implied by labour,
+  capital and productivity.
+  **Significance:** a negative gap supports cyclical demand repair, while a
+  capacity constraint requires supply-side investment.
+  **Limitation:** potential output is estimated, not directly observed, and
+  results vary by method.
+- ✅ **ICOR and investment efficiency:** a high saving or investment rate need
+  not generate high growth when the incremental capital-output ratio is high.
+  **Significance:** productivity and project execution mediate the
+  saving-investment-growth chain.
+  **Limitation:** ICOR is an aggregate diagnostic and does not identify the
+  sector or institutional cause by itself.
+- ✅ **Informal-sector measurement:** India uses surveys, administrative
+  sources and benchmark-indicator methods where complete enterprise accounts
+  are unavailable.
+  **Significance:** national accounts must estimate a large unorganised sector
+  rather than equate recorded corporate activity with the whole economy.
+  **Limitation:** shocks can break the stability of ratios used to extrapolate
+  informal activity.
+- ⚠️ **GDP versus welfare:** unpaid care work, distribution, ecological
+  depletion and service quality are not fully captured by GDP.
+  **Significance:** HDI, employment, inequality and environmental indicators
+  are required to judge development.
+  **Limitation:** supplementary indicators do not make output measurement
+  dispensable.
+- ✅ **PPP comparison:** Purchasing Power Parity converts GDP through a common
+  basket rather than the market exchange rate.
+  **Significance:** it adjusts for cross-country price-level differences and is
+  useful for comparing real purchasing power and living standards.
+  **Limitation:** International Comparison Program conversion factors are
+  periodically rebased, so any exact rank requires a reference year.
+- ✅ **Intangible investment:** SNA capital formation includes qualifying R&D,
+  software, databases, mineral exploration and artistic originals.
+  **Significance:** knowledge assets affect measured investment, GDP and
+  depreciation alongside physical capital.
+  **Limitation:** advertising, brand creation, staff training and much
+  organisational capital are not capitalised, while recognised intangibles
+  remain difficult to value and depreciate.
+
+## 6B. Limitations and trade-offs
+
+- More comprehensive administrative data may improve coverage while making old
+  and new series less comparable.
+- Nominal GDP is useful for fiscal ratios but can rise without real welfare
+  gains when prices increase.
+- Real GDP removes price change but remains insensitive to distribution and
+  much unpaid work.
+- Imputation improves completeness but introduces model and assumption risk.
+- Quarterly estimates improve timeliness but are revised as fuller data arrive.
+
 ## 7. Must-Know Facts for Prelims
 
 - ✅ Gross measures include depreciation; net measures deduct it.
@@ -175,6 +240,10 @@ current prices, whereas real GDP attempts to isolate volume change**.
 - ✅ GVA is not GDP: net product taxes connect the two.
 - ✅ Imports are subtracted because consumption/investment totals may include
   foreign production.
+- ✅ PPP-based and market-exchange-rate GDP use different price bases and can
+  produce different country rankings.
+- ✅ Qualifying R&D, software, databases, mineral exploration and artistic
+  originals count as capital formation; not every intangible outlay does.
 
 ## 8. UPSC traps
 
@@ -184,6 +253,10 @@ current prices, whereas real GDP attempts to isolate volume change**.
 - ❌ GDP measures national welfare. -> It measures production, not distribution,
   unpaid work, ecological loss or all aspects of well-being.
 - ❌ GNP must always exceed GDP. -> It depends on the sign of NFIA.
+- ❌ PPP and market-exchange-rate GDP always rank countries identically. ->
+  Cross-country price differences can produce different rankings.
+- ❌ Only machinery and construction count as investment. -> Qualifying
+  intellectual-property products are also capital formation.
 
 ## 9. 📰 Economic Survey 2025-26 anchor
 
@@ -235,6 +308,35 @@ the figure.
   stories about the same year's growth?
 - ⚠️ **Mains (15 marks):** Explain why a change of national-accounts base year
   improves relevance but demands careful treatment of historical comparisons.
+
+## 12A. Answer architecture (10/15/20-mark support)
+
+- **Define/Distinguish:** state territory versus residence, gross versus net,
+  current versus constant prices and GDP versus GVA before application.
+- **Explain/Elucidate:** use the production-income-expenditure identity or the
+  `saving → investment → capital productivity → output` chain.
+- **Examine/Analyse:** separate measurement change from real economic change;
+  test coverage, prices, base year, informal-sector method and revision vintage.
+- **Critically examine/Evaluate:** judge relevance gains against comparability,
+  estimation and welfare limitations.
+- **Evidence chain:** 2015 methodology revision; 2022-23-base series; potential
+  GDP/output gap; ICOR; informal-sector estimation; PPP versus nominal
+  comparison; intangible-investment classification; unpaid care/ecological gap.
+- **Distinguish PPP:** contrast its common-price-basket purpose with
+  market-exchange-rate GDP before citing any ranking.
+- **Classify intangible investment:** identify recognised intellectual-property
+  products, then distinguish excluded brand, training and organisational
+  expenditure.
+
+**10 marks:** define the tested measures, use 2-3 named applications and one
+measurement caution. **15 marks:** add methodology, informal-sector and
+comparability evidence with a balanced verdict. **20 marks:** integrate output,
+prices, capacity, distribution, employment and sustainability while separating
+measurement revisions from actual performance.
+
+> **Reasoned verdict:** GDP is indispensable for measuring production, but its
+> interpretation is marks-worthy only when the series, price basis, estimate
+> vintage, coverage and welfare limits are stated explicitly.
 
 ## 13. Study links
 

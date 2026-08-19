@@ -64,5 +64,79 @@ not enforceable by courts, but Parliament **may** legislate to enforce them.
 directing the legislature — enforcement should come through **citizen awareness**, echoing the
 **Verma Committee (1999)**.
 
-➡️ For rejected Swaran Singh recommendations, Verma Committee's list of enforcing laws, criticism,
-significance, traps and Mains angles — see **advanced/Fundamental-Duties.md**.
+➡️ The Swaran Singh recommendations that were rejected, the Verma Committee's list of enforcing laws,
+the criticism, the significance, the traps and the Mains angles are all held **in this file**.
+*Advanced: optional deeper detail in `advanced/09_Fundamental-Duties.md` — not required for any mark.*
+
+## 7. Answer architecture (10/15/20-mark support)
+
+> Purpose: Fundamental Duties questions turn on **status** (non-justiciable yet constitutionally weighted) and on the **rights–duties balance**. This section promotes the origin, criticism, interpretive use and the Verma Committee evidence so the Basic file can answer a GS-II demand without the Advanced companion. This file carries no routed objective PYQ blocks; the standard confusion pairs are covered in §7.6.
+
+### 7.1 Demand and directive map
+
+| Demand family | Typical directive signals | Answer spine to use |
+|---|---|---|
+| Status & justiciability | "Non-justiciable yet significant — discuss" | Art 51A text → non-enforceability → interpretive/reasonableness use → verdict |
+| Rights–duties balance | "Two wheels of the same chariot — evaluate" | Origin (post-Emergency) → complementarity with FR/DPSP → limits → verdict |
+| Should FDs be justiciable | "Examine the case for enforcing FDs" | Verma Committee's existing laws → *Durga Dutt* (2024) caution → awareness vs coercion → verdict |
+| Specific duty in action | "Art 51A(g) and environmental protection" | The duty → its statutory backing → read with a FR/DPSP → limit |
+| Reform of FDs | "Are FDs adequate?" | Non-exhaustive list → omitted duties (tax/vote) → criticism → verdict |
+
+### 7.2 Qualified thesis options
+
+- *Fundamental Duties are constitutionally weighted moral obligations, not enforceable commands: their significance lies in shaping citizen conduct and in aiding statutory interpretation, not in judicial coercion.*
+- *The 42nd Amendment answered a real gap — a Constitution of rights with no reciprocal duties — but placing Part IV-A after the Directive Principles left duties looking subordinate to both rights and directives.*
+- *The right way to "enforce" FDs is through the very laws the Verma Committee catalogued and through civic awareness, not by directing Parliament to legislate — the position the Supreme Court took in* Durga Dutt *(2024).*
+- *Duties and rights are two wheels of the same chariot: FDs supply the citizen-side discipline that makes the rights framework sustainable, which is why even the government that reversed much of the 42nd Amendment retained them.*
+
+### 7.3 Mark-scaled structures
+
+| Marks | Architecture | Evidence load |
+|---:|---|---|
+| 10 | Thesis → origin & status → one significance + one criticism → verdict | 2–3 units, incl. Swaran Singh / 42nd–86th Amdt |
+| 15 | Thesis → origin → status & interpretive use → criticism → enforcement debate → graded verdict | 4–6 units incl. Verma Committee + *Durga Dutt* |
+| 20 | Thesis → constitutional design → list & classification → significance → criticism/variation → justiciability debate → verdict | 6–8 units across status + reform |
+
+### 7.4 Bank A — Origin, list and status
+
+| Claim | Named provision / source | Mechanism / significance | Limitation / caution |
+|---|---|---|---|
+| FDs were a deliberate post-Emergency addition | ✅ **Swaran Singh Committee (1976)**; **42nd Amendment, 1976** inserted **Part IV-A / Art 51A** | Added citizen duties absent in the original Constitution; inspired by the erstwhile **USSR** | The Committee recommended **8**; the 42nd Amdt actually included **10** |
+| The list grew to eleven | ✅ **86th Amendment, 2002** added **Art 51A(k)** (parent/guardian to provide education, ages 6–14) | Pairs with Art 21A and Art 45 (the education trio) | **Count today = 11**, not 10 |
+| FDs are non-justiciable but not inert | ✅ Art 51A; ⚠️ SC (1992) — a law giving effect to a FD may be deemed "reasonable" under Art 14/19 | No direct court enforcement, but duties aid statutory interpretation and support reasonable restrictions; Parliament may legislate to enforce | They confer no enforceable right; confined to **citizens only** |
+| Some FDs already have legal backing | ✅ **Verma Committee (1999)** identified existing enforcing laws | e.g. Prevention of Insults to National Honour Act 1971; Protection of Civil Rights Act 1955; UAPA 1967; RP Act 1951; Wildlife (Protection) Act 1972 | The Committee **identified existing laws** — it did not add new duties |
+| Rejected recommendations recur in exams | ✅ Swaran Singh recommendations **not accepted** | (1) penalty for non-compliance; (2) such penalty laws non-questionable in court; (3) a duty to **pay taxes** | These were recommended but **left out** of Art 51A |
+
+### 7.5 Mechanism, incentives, criticism and current status
+
+- ✅ **Mechanism:** FDs operate through moral/civic obligation and through **interpretive weight** — courts read them alongside FRs and DPSP (notably **Art 51A(g)** with **Art 21** in environmental cases), and Parliament may legislate to give them teeth.
+- ⚠️ **Incentive/consequence:** because they are unenforceable, compliance depends on civic culture; their main institutional effect is to legitimise reasonable restrictions on rights and to guide public conduct.
+- ✅ **Criticism (5):** non-exhaustive (omits paying taxes, voting, family planning); vague ("noble ideals", "composite culture", "scientific temper"); a mere code of moral precepts; superfluous; **wrongly placed after Part IV**, signalling subordination to FRs.
+- ⚠️ **Counter-argument:** the eventual **consensus** — the Janata government that reversed much of the 42nd Amendment via the 43rd/44th Amendments **retained** the FDs, and the 2002 addition reinforced them.
+- 📰 **Current status (as of 13 August 2026):** in **_Durga Dutt v. Union of India_ (Supreme Court, September 2024)** the Court declined to direct Parliament to enact FD-enforcement laws, holding that enforcement should come through **citizen consciousness and awareness**, echoing the Verma Committee; recheck the Supreme Court portal for any later order.
+
+### 7.6 Prelims close-option distinctions and verdict scaffolds
+
+This file carries no routed objective PYQ blocks. Standard confusion pairs:
+- ✅ **Count:** there are **11** Fundamental Duties (86th Amdt 2002 added the 11th) — not 10.
+- ✅ **Swaran Singh vs enacted:** the Committee recommended **8**; the 42nd Amendment included **10**.
+- ✅ **Which amendment:** 42nd Amendment (1976) added FDs; 86th Amendment (2002) added Art 51A(k).
+- ✅ **Source:** the erstwhile **USSR** — not the USA; **Japan** is the only other notable democracy that lists citizens' duties.
+- ✅ **Scope:** FDs apply to **citizens only** (unlike some FRs which extend to all persons) and are **non-justiciable**.
+- ✅ **Not FDs:** the duty to **pay taxes** and to **vote** are **not** Fundamental Duties (the tax duty was only *recommended*).
+
+Verdict scaffolds:
+- **Status demands:** ⚠️ *FDs are constitutionally weighted but judicially unenforceable; their value is civic and interpretive, and demanding judicial enforcement mistakes their design.*
+- **Rights–duties balance demands:** ⚠️ *Duties complete the citizenship the rights create; the post-Emergency addition and its cross-party retention show a settled consensus that rights and duties are two wheels of one chariot.*
+- **Justiciability-reform demands:** ⚠️ *The realistic route to "enforcing" FDs is the Verma Committee's existing statutes plus civic awareness — the* Durga Dutt *(2024) position — not a judicial command to legislate.*
+
+### 7.7 Factual-risk and current-status controls
+
+- Do **not** state there are 10 Fundamental Duties — there are **11** since the **86th Amendment, 2002** (Art 51A(k)).
+- Do **not** state the Swaran Singh Committee recommended 10 — it recommended **8**; the 42nd Amendment included **10**.
+- Do **not** state FDs are justiciable — they are **non-justiciable** (though Parliament may legislate and courts may use them interpretively).
+- Do **not** state the duty to pay taxes or to vote is a Fundamental Duty — neither is included (the tax duty was only recommended).
+- Do **not** state FDs apply to all persons — they apply to **citizens only**.
+- Do **not** state FDs were borrowed from the USA or Japan — they are inspired by the erstwhile **USSR**.
+- Do **not** state the Verma Committee added new duties — it **identified existing laws** enforcing some duties.
+- 📰 Cite the enforcement position as **_Durga Dutt_ (September 2024)** with its date; do not overstate it as making FDs enforceable.

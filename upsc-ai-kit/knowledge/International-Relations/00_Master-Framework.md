@@ -174,6 +174,17 @@ are three different evidentiary levels. Treat "agreed," "signed/in force" and
 | Asymmetry-blindness gap | Bilateral relationship analysed only from India's interest | Note the partner's incentive and domestic political constraint |
 | Chronology-substitution gap | Cold War/decolonisation history substituted for present-day mandate analysis | Use World History for chronology; use this folder for present function and reform |
 
+### Cross-cutting future-question routes
+
+| Unfamiliar demand | Core synthesis route | Required analytical caution |
+|---|---|---|
+| Russia-Ukraine conflict and India's choices | Topic 03: UN posture, dialogue, energy/fertiliser, defence spares and Western technology ties | Strategic autonomy is not approval of every partner's conduct; distinguish principles, interests and constraints. |
+| Israel-Palestine and West Asian balancing | Topic 06: Palestine recognition/two-state position, Israel ties, Gulf energy/diaspora and humanitarian diplomacy | Do not reduce West Asia to oil or force a false Israel-versus-Palestine binary. |
+| India and Latin America/Caribbean | Topic 08: Brazil, MERCOSUR PTA, Chile negotiations, CELAC and resource/development links | Distinguish a PTA in force from a CEPA still under negotiation; do not treat the region as homogeneous. |
+| NATO expansion and India | Topic 10: treaty-alliance structure, consensus, collective defence and indirect effects through Russia-West rivalry | NATO is not comparable in legal character to the non-treaty Quad. |
+| Climate diplomacy | Topic 11: UNFCCC, updated 2022 NDC, climate finance, technology access and external carbon measures | Separate India's international commitment from domestic delivery; preserve equity and development-space analysis. |
+| Global AI and digital governance | Topic 12: Global Digital Compact, GPAI, ITU and standards diplomacy | A political framework or multistakeholder partnership is not a treaty or universal regulator. |
+
 ## 8. Boundary routing
 
 - Use **Polity** for Article 51, treaty ratification procedure and citizenship/OCI

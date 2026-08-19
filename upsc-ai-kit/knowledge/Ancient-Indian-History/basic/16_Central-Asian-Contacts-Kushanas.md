@@ -81,3 +81,38 @@
 - ⚠️ Central Asian contacts were not merely invasions; they reshaped coins, cavalry, trade, religion and art.
 - ⚠️ Compare Gandhara and Mathura as two artistic responses to the same Kushana-age environment.
 - ⚠️ Use Kanishka to link Silk Route wealth, Mahayana patronage and cosmopolitan coinage.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "Central Asian contacts transformed north India into a frontier zone of trade, empire and cultural fusion rather than a mere corridor of invasions." |
+| Critically examine | "The Kushanas were successful not because they were outsiders alone, but because they converted transregional location into political and commercial advantage." |
+| Compare / evaluate | "A high-scoring answer should connect frontier politics, Silk Route exchange, coinage and Buddhist-artistic transmission." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** succession of frontier polities -> trade routes -> imperial consolidation -> cultural outcomes
+- **For comparison Qs:** Indo-Greek/Saka/Parthian background vs Kushana consolidation
+- **For evaluate Qs:** political achievement -> economic/artistic significance -> balanced limits
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Post-Mauryan north became a connected frontier world | ✅ Indo-Greek, Saka, Parthian and Kushana sequence | Shows cumulative rather than isolated contact | Regional chronology and overlap can be complex |
+| 2 | Kushana strength rested on route control | ✅ Kanishka, Purushapura/Mathura and Silk Route positioning | Links trade to imperial capacity | Exact Kushana chronology is debated |
+| 3 | Coinage and art reveal cosmopolitan rule | ✅ Gold coins and Gandhara-Mathura traditions | Concrete evidence of political-economic and cultural synthesis | Elite artefacts do not capture all social layers |
+| 4 | Buddhism travelled through these networks effectively | ✅ Central Asian transmission zones | Connects polity to religious spread | Spread depended on multiple patrons |
+
+### Counterpoint and balance
+
+- Avoid presenting all Central Asian groups as identical in objective or impact.
+- Do not reduce Kushana significance to art alone; trade and sovereignty matter equally.
+
+### Verdict framing
+
+- End by framing the Kushana age as a frontier-centred imperial moment with major commercial and cultural consequences.
+- A good conclusion qualifies fusion as real but uneven across society.

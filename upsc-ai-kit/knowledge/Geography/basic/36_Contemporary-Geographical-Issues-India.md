@@ -90,6 +90,129 @@ urban flooding and the transferable drainage-land-use framework.
 
 Geography -> Applied India -> Contemporary issue-lenses  
 Geography -> GS answer writing -> where / why there / consequence / response framework
+
+## 11. The standing issue set and how to analyse any new one
+
+> **Why this section exists:** a "contemporary issues" file becomes obsolete the moment its examples
+> date. What must be stored is a **reusable analytical method** plus the **standing issue families**
+> that recur regardless of the year's headlines — so that an unfamiliar current issue can be
+> analysed from Core alone.
+
+### 11.1 The standing issue families
+
+| Family | The geographic question it poses | Core owner to draw evidence from |
+|---|---|---|
+| ⚠️ **Water stress and allocation** | Groundwater depletion, inter-state and inter-basin allocation, aquifer over-abstraction, urban-rural competition, quality failure | `04`, `05`, `09` |
+| ⚠️ **Climate-linked hazard change** | Extreme rainfall, heat, cyclone intensity, glacier and snow change, sea-level rise, and their effects on settlement and agriculture | `06`, `10`, `12`, `13`, `25` |
+| ⚠️ **Land degradation and land-use conflict** | Soil erosion, salinisation, desertification of drylands, farmland conversion, mining and forest land | `04`, `07`, `30`, `31` |
+| ⚠️ **Urbanisation stress** | Flooding, heat islands, water and sanitation, housing informality, sprawl, peri-urban governance | `28` |
+| ⚠️ **Regional imbalance and migration pressure** | Uneven development, distress migration, remittance dependence, depopulating and congesting regions | `27`, `29` |
+| ⚠️ **Resource and energy transition** | Critical-mineral dependence, renewable siting and land use, coal-region transition, offshore development | `31`, `32` |
+| ⚠️ **Infrastructure and ecology trade-offs** | Corridors, ports, hill roads, dams and islands — development benefit against ecological and displacement cost | `33`, `10`, `11` |
+| ⚠️ **Coastal and island pressure** | Erosion, aquifer salinisation, fisheries decline, tourism and infrastructure loading on small islands | `10`, `11` |
+| ⚠️ **Boundary, resource-sharing and transboundary questions** | Rivers, borders, maritime zones and the movement of people and goods across them | `35` |
+
+### 11.2 The analytical chain, applied to any unfamiliar issue
+
+```text
+1. PROCESS       What physical or human process is actually operating?
+                 (Name it from a Core file - do not describe the news event.)
+2. PATTERN       Where does it occur, and why THERE and not elsewhere?
+                 (This is the step that makes the answer geographical.)
+3. DRIVERS       Separate NATURAL variability from HUMAN amplification -
+                 and refuse a single-cause attribution.
+4. SCALE         Local, regional, national or transboundary? The scale
+                 determines who can act.
+5. EXPOSURE      Who and what is in the way? Population, assets, livelihoods.
+6. VULNERABILITY Why does the same hazard hurt some groups far more?
+7. TRADE-OFF     Name the genuine competing interest - there always is one.
+8. INSTRUMENT    Match the response to the mechanism identified at step 1,
+                 not to a generic list.
+9. VERDICT       A graded conclusion that answers the exact question.
+```
+
+- ⚠️ **The discipline that makes this work:** steps 3, 6 and 7 are where most answers fail. Refusing
+  single-cause attribution, distinguishing exposure from vulnerability, and naming the real
+  trade-off are what separate an analytical answer from a current-affairs summary.
+
+### 11.3 Two worked applications of the chain
+
+**⚠️ Groundwater decline in an intensively irrigated plain**
+
+1. *Process:* abstraction exceeding recharge in an alluvial aquifer. 2. *Pattern:* concentrated
+where tube-well density, water-intensive cropping and assured procurement coincide — not simply
+where rainfall is low. 3. *Drivers:* cropping pattern, energy pricing, procurement geography and
+rainfall variability together. 4. *Scale:* aquifer-scale, which matches no administrative boundary.
+5. *Exposure:* a national foodgrain surplus region. 6. *Vulnerability:* smallholders who cannot
+finance deeper wells lose access first, so the burden is distributional. 7. *Trade-off:* crop
+diversification reduces water use but conflicts with assured procurement and farm incomes.
+8. *Instrument:* demand-side crop and energy-pricing reform plus managed recharge and conjunctive
+use, at aquifer scale. 9. *Verdict:* stabilisable, but only through the demand drivers.
+Evidence base: `04_Weathering-MassMovement-Groundwater.md`.
+
+**⚠️ Recurrent flooding in a growing city**
+
+1. *Process:* runoff generation exceeding drainage conveyance. 2. *Pattern:* concentrated in
+low-lying areas, filled tanks and wetlands, and encroached natural drains. 3. *Drivers:* surface
+sealing, drainage encroachment, undersized and silted networks, and floodplain construction —
+rainfall is the trigger, not the cause. 4. *Scale:* catchment, which typically extends beyond the
+municipal boundary. 5. *Exposure:* the densest and often poorest settlements occupy exactly the
+low-lying and drain-adjacent land. 6. *Vulnerability:* informal housing, no insurance, no
+alternative shelter, daily-wage income loss. 7. *Trade-off:* protecting drains and floodplains
+means foregoing valuable developable land and, sometimes, relocating existing settlements.
+8. *Instrument:* drainage-network restoration, blue-green infrastructure, floodplain regulation and
+resettlement with tenure, at catchment scale. 9. *Verdict:* frequency and severity are reducible
+through land-use action; extreme events remain. Evidence base:
+`28_Human-Settlements-and-Urbanisation.md`, `09_Lakes.md`.
+
+### 11.4 The discipline for using current material
+
+- ⚠️ **Always date and attribute.** A current claim without a source and date is unusable in an
+  answer and unsafe in revision.
+- ⚠️ **Distinguish a forecast from an observation,** a projection from a measurement, a survey from a
+  census, an announcement from an implementation, and a target from an achievement. Most factual
+  errors in current-affairs answers are one of these five confusions.
+- ⚠️ **Core must not become dependent on current material.** A current example should *illustrate* a
+  process taught in a Core file; if the example is removed, the answer must still stand. That
+  independence is the test this file exists to enforce.
+
+## 12. Answer architecture (10/15/20-mark support)
+
+### 12.1 Directive decoding
+
+| If the question says | It is really asking for | Do **not** |
+|---|---|---|
+| "Discuss the geographical dimensions of [a current issue]" | The nine-step chain, with process and pattern established before any policy discussion | Summarise the news |
+| "Examine the causes and consequences of X" | Separated natural and anthropogenic drivers, then consequences ordered by scale and certainty | Give a single-cause explanation |
+| "Suggest measures to address Y" | Instruments **matched to the mechanism** you identified, with the trade-off of each stated | Offer a generic way-forward list |
+| "How serious is Z?" | A graded verdict on named dimensions, conceding where the evidence is weaker | Answer "very serious" without gradation |
+
+### 12.2 Reusable 15-mark spine — any contemporary geographical issue
+
+1. **Thesis:** state what kind of problem it actually is — a physical process amplified by land use,
+   a distributional failure, a governance-scale mismatch, or a genuine resource limit. Naming the
+   category in the first sentence is what makes the answer analytical.
+2. **Process and pattern,** drawn from the relevant Core owner.
+3. **Drivers,** natural and human, explicitly refusing single-cause attribution.
+4. **Scale mismatch,** if any, between the problem's geography and the administrative unit expected
+   to solve it — this is the most frequently available and least frequently used insight.
+5. **Exposure and vulnerability,** kept separate.
+6. **Trade-offs,** named honestly rather than assumed away.
+7. **Instruments,** matched to the mechanism, with feasibility noted.
+8. **Conclusion:** graded, answering the precise question.
+
+### 12.3 Evidence unit
+
+> **Claim:** most contemporary geographical issues are governance-scale mismatches rather than
+> knowledge failures. **Evidence:** aquifers, river basins, urban catchments, coastal sediment cells
+> and metropolitan labour markets each have a natural boundary that matches no administrative unit,
+> while budgets, authority and accountability are organised administratively.
+> **Significance:** it explains recurrent implementation failure without attributing it to ignorance
+> or bad faith, and it points to basin-, aquifer- and cell-based institutions as the remedy.
+> **Limitation:** administrative units carry democratic accountability and taxing power that
+> functional units lack, so the answer is coordination and nested institutions rather than
+> replacement.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

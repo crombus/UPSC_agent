@@ -172,6 +172,27 @@ DoS (policy umbrella)
 - ✅ `03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md` - where HLVM3, human-rating and future infrastructure feed directly into mission planning.
 - ✅ `06_Defence-RandD-DRDO-and-Missile-Systems.md` - dual-use technology, propulsion and strategic autonomy debates.
 - ✅ Geography cross-link: `../Geography/basic/33_Transport-Trade-and-Indian-Space-Programme.md`.
+## Core answer architecture — space-transport and governance
+
+**Thesis choice.** Judge India’s launch programme as an ecosystem of sovereign access, differentiated institutions and industrial scale-up—not as a list of rockets or a claim that every approved project is operational.
+
+**10-mark spine.** State the mission problem and distinguish PSLV/GSLV/LVM3/SSLV by role; map DoS–ISRO–IN-SPACe–NSIL; use one current capacity example and one readiness caution; close on why cadence and reliability convert a launch into national capability.
+
+**15/20-mark spine.** Build the answer as **capability ladder → institutional reform → economic/strategic payoff → implementation and governance limits**. Add infrastructure and commercialisation only after distinguishing approval, construction, technology transfer and operational service.
+
+**Evidence units.**
+- **Claim:** Role separation can widen capacity without abandoning sovereign capability → **Indian Space Policy 2023; ISRO develops, IN-SPACe authorises/supervises, NSIL commercialises** → this explains reform as institutional differentiation rather than privatisation → **qualification:** policy is not a comprehensive domestic space statute and State authorisation/supervision remains necessary.
+- **Claim:** Transport autonomy depends on mission-matched vehicles → **PSLV's versatile workhorse role, GSLV's cryogenic upper stage and LVM3's heavier/human-rated base** → one fleet can serve Earth observation, GTO-class and crew-linked needs → **qualification:** a launcher injected to GTO has not placed a payload directly in GEO.
+- **Claim:** Future ambition is not present capability → **NGLV and the Third Launch Pad are approved future-capacity projects; SSLV transfer to HAL is an agreement** → shows the pipeline for scale and industry learning → **qualification:** approval/transfer does not prove a flown industrial vehicle, commissioning or commercial market share.
+
+**Verdict.** A credible answer supports more private and industrial participation only alongside range safety, liability, debris responsibility, quality assurance and demonstrated launch reliability.
+
+## Routed PYQ evidence — private-space participation
+
+- **Institutional test:** IN-SPACe authorises, promotes and supervises non-government space activity; NSIL commercialises Indian space assets; ISRO remains the public R&D and mission anchor. A startup, an MoU or an authorisation is evidence of participation, not proof of a flown/operational national capability.
+- **Status test:** distinguish a private payload/customer, a technology-transfer agreement, an industry-built vehicle and an operational service. The SSLV–HAL agreement is a concrete industrial handover, but it is not evidence that an industry-built SSLV has flown or that a complete launch market has been captured.
+- **Mains use:** private participation can deepen suppliers, analytics and downstream services, but requires liability, range safety, debris mitigation, insurance and predictably enforced authorisation.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

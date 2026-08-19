@@ -189,3 +189,78 @@ rural-urban continuum more useful than a strict traditional/modern divide.
   institutional design and rural social capital.
 - ✅ `10_Urbanisation-Problems-and-Remedies.md` — the urban side of the rural-urban
   continuum.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** Rural answers must explain a changing power relation, not romanticise a
+> village or substitute land-law detail for social analysis.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Explain** jajmani decline | Historical institution plus change mechanism | define -> exchange logic -> monetisation/migration -> residual ties |
+| **Examine** dominant caste | Power rather than ritual rank | numbers + land + office -> contestation -> qualification |
+| **Assess** agrarian change | Distribution, not output alone | land/class structure -> Green Revolution differentiation -> non-farm/migration -> verdict |
+| **Critically examine** Panchayat change | Formal representation versus substantive voice | reserved seat -> informal power -> conditions for agency |
+| **Compare** rural and urban | Continuum, not binary | flows of labour/remittance/media -> what remains locally specific |
+
+### 13.2 Thesis bank
+
+- **T1:** ⚠️ Agrarian change has restructured caste-class power more often than it has
+  dissolved it.
+- **T2:** ⚠️ Village power is better predicted by the convergence of numbers, land and
+  office than by ritual rank alone.
+- **T3:** ⚠️ The rural-urban continuum changes rural society through migration and markets
+  while leaving uneven land, labour and care relations locally consequential.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — explain the decline of jajmani.** Define its hereditary, personalised
+patron-service relation; use cash wages, non-farm work and migration as mechanisms of
+change; retain ritual/personalised residual ties as qualification; conclude with
+monetisation, not disappearance.
+
+**15 marks — dominant caste and village power.** Begin with T2. Apply **M.N. Srinivas's**
+numbers-land-office test, distinguish it from landowning class and ritual superiority,
+then evaluate Panchayat reservation as formal contestation. Close with the
+representation-versus-power caveat.
+
+**20 marks — “Rural India is connected to markets yet remains socially stratified.”
+Assess.** Combine agrarian class, Green Revolution differentiation, rural non-farm work,
+migration/remittances and Panchayat politics. Add one continuum diagram and a paragraph
+on regional/tenancy variation; route land-reform mechanics to Economy.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Village power.** *Claim:* local power need not follow ritual rank. *Evidence:*
+  **M.N. Srinivas's dominant-caste concept**, developed through **Rampura** village study.
+  *Significance:* gives a named lens for numbers, land and political office. *Limitation:*
+  dominance varies by locality and does not prove every member is affluent.
+- **E2 — Jajmani transformation.** *Claim:* caste-linked service exchange can be displaced
+  by a labour market. *Evidence:* **jajman-kamin** relation—customary service/payment,
+  often grain or kind and sometimes cash—contrasted with daily cash wage work.
+  *Significance:* identifies the mechanism rather than merely listing occupations.
+  *Limitation:* regional variation and ritual-service survival preclude a total-decline claim.
+- **E3 — Differentiated growth.** *Claim:* productivity gains can be unequally distributed.
+  *Evidence:* the **Green Revolution** required irrigation, inputs, credit and market
+  access. *Significance:* supports a class-differentiation argument. *Limitation:* do not
+  infer one outcome for every crop, tenancy regime or region.
+- **E4 — Representation gap.** *Claim:* reserved representation can contest inherited
+  power but cannot alone prove agency. *Evidence:* **Panchayati Raj** SC/ST/women
+  reservation. *Significance:* turns a policy statement into a social-power question.
+  *Limitation:* institutional rules belong to Governance; proxy control or independent
+  leadership must be established locally.
+- **E5 — Measurement caution.** *Claim:* employment data is not a village-power measure.
+  *Evidence:* **PLFS Annual Report 2025** uses a January-December reference period.
+  *Significance:* it can contextualise rural labour change. *Limitation:* it cannot prove
+  jajmani decline or caste dominance.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Reject both the timeless “village republic” and the claim that market change erased
+  hierarchy.
+- ⚠️ Separate formal reserved representation from substantive agenda-setting.
+- ⚠️ Use a rural-urban continuum without denying that remoteness and land relations matter.
+- **Verdict:** “The relevant question is not whether caste-class power survived unchanged,
+  but which resource—land, office, network or non-farm income—now carries it.”

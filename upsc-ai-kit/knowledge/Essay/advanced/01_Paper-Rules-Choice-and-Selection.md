@@ -5,8 +5,10 @@
 > **Core area:** Choice as a portfolio/risk decision; the hidden
 > assumptions inside "pick your favourite topic" advice; a decision
 > protocol that survives exam-day time pressure.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Sections 1, 3, 11.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `../PYQ-Corpus-2013-2025.md`); `../00_Master-Framework.md`
+> Sections 1, 3, 11.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../basic/01_Paper-Rules-Choice-and-Selection.md`

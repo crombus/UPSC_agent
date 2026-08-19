@@ -162,6 +162,26 @@ mature climax-forest recovery — do not conflate the two in an answer.
 - ✅ `11_Forest-Types-and-Forest-Rights-Act.md` — India-specific forest-biome classification.
 - ✅ `12_Forest-Governance-CAMPA-and-Green-India-Mission.md` — restoration policy grounded in
   succession theory.
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Demand decoder and thesis
+
+- A succession answer needs the **starting substrate/soil condition**, the sequence of ecological change and the target biome; a biome answer needs climate plus local soil, fire, herbivory and land-use modifiers.
+- **Thesis:** restoration is credible only when it is staged for the site and retains the native biome; tree planting is not automatically ecological restoration.
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Soil determines the speed of recovery. | **Mine-spoil/bare rock** → pioneer stabilisation and soil formation precede later vegetation; **jhum fallow** retains soil and seed bank → secondary succession can recover faster. | A “climax” is a relative, disturbance-sensitive state, not a guaranteed permanent endpoint. |
+| Biome fidelity matters. | **Natural grassland/scrub versus a plantation** → forcing trees into an open natural ecosystem can erase grassland-dependent habitat and below-ground carbon. | Do not label every non-forest area “wasteland”; administrative, legal and ecological labels differ. |
+| Forest cover is an incomplete restoration metric. | **ISFR canopy-cover reporting** → useful for trend monitoring. | It cannot prove mature native forest, successional stage or functional recovery. |
+
+### 13.3 Essay and mark-scaled spines
+
+- **“Forests precede civilizations and deserts follow them” essay spine:** forests build soil, regulate water and buffer climate; extraction, clearing, grazing and poor water use can break those functions; in drylands this can compound land degradation; stewardship can reverse some damage through staged, biome-fit restoration. **Verdict:** use the aphorism as a warning about ecological overshoot, not as a deterministic claim that every desert is human-made or every civilisation causes desertification.
+- **10/15 marks:** distinguish primary and secondary succession; then test an afforestation proposal against soil, native biome, water and livelihood criteria.
+- **20 marks:** compare mine reclamation, jhum recovery and natural grassland conservation; close with outcome monitoring (native composition, soil and hydrology), not hectares planted.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

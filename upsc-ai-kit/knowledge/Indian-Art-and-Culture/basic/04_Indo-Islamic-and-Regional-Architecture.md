@@ -215,6 +215,186 @@ occurred.
   the same patrons), Topic 13 (Akbar's religious syncretism in doctrinal
   depth).
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-sufficiency note.** This topic has no direct 2024-2025 Mains
+> question, but it owns a permanently live demand family — synthesis,
+> technology transfer, regional adaptation, material chronology and the
+> "Hindu versus Muslim style" trap. This section makes `basic/04`
+> sufficient for those demands without `advanced/04`.
+
+### 13.1 Directive and demand map
+
+| If the question says | It is really testing | Do NOT write |
+|---|---|---|
+| *Indo-Islamic architecture as a synthesis* | Concrete mechanisms of combination — technique, material, motif, workforce — at named monuments | "East met West and produced beauty" |
+| *Examine the technological change introduced under the Sultanate* | Arcuate construction, lime mortar, the true dome and the double dome, and what they made possible | "Arches and domes were introduced by Muslims" |
+| *Regional/provincial styles of Sultanate architecture* | Environmental and political adaptation, style by style, with a named monument each | Listing four schools without a distinguishing feature |
+| *Trace the development of Mughal architecture* | Ruler-by-ruler change with **material** as the datable marker | A chronological list of buildings |
+| *Compare Sultanate and Mughal architecture* | Scale, material, garden, ornament, and the balance of arcuate to trabeate | Two separate narratives placed side by side |
+| *Architecture and imperial ideology* | Buildings as statements — Buland Darwaza, charbagh, imperial mosque, tomb | "Rulers liked grand buildings" |
+| *Regional courts after the Mughals* | Rajput, Sikh and Awadh styles as continuing, not derivative, traditions | Treating them as decayed Mughal work |
+| *Continuity and change in Indian building traditions* | Trabeate survival inside arcuate buildings; indigenous craftsmen; borrowed motifs | A clean rupture at 1206 |
+
+### 13.2 Qualified thesis options
+
+- ⚠️ **Synthesis thesis:** "Indo-Islamic architecture is best explained not
+  as two styles meeting but as one construction industry absorbing a new
+  structural technology: imported arcuate knowledge was executed by
+  indigenous craftsmen in local stone, retaining lintel-and-beam work and
+  local motifs, so the resulting buildings are hybrid in method, not only
+  in appearance."
+- ⚠️ **Technology thesis:** "The decisive Sultanate contribution was not the
+  arch or the dome as ideas — both were known earlier — but their
+  scientific, large-scale execution with stronger lime mortar, which made
+  wide spans and high domes structurally routine."
+- ⚠️ **Adaptation thesis:** "Provincial architecture is the proof that
+  Indo-Islamic form was not an imported template: Bengal roofed its
+  mosques like its huts, Malwa ventilated for heat, Jaunpur and Malwa
+  omitted minars altogether, and Bijapur pushed the dome towards a
+  sphere."
+- ⚠️ **Material-chronology thesis:** "Mughal architecture can be dated by
+  its material as reliably as by its inscriptions — Akbar's red sandstone
+  gives way to the white marble that begins with Itmad-ud-Daulah's tomb
+  and culminates under Shah Jahan."
+- ⚠️ **Anti-essentialist thesis:** "Fixed 'Hindu' and 'Muslim' architectural
+  essences cannot be sustained: the same workshops, materials, motifs and
+  structural methods recur across patronage boundaries."
+
+### 13.3 Mark-scaled structures
+
+| Marks | Structure |
+|---|---|
+| **10** | Thesis → trabeate/arcuate distinction → two named monuments with their distinguishing device → one qualification (coexistence of methods) → verdict |
+| **15** | Thesis → imperial versus provincial split → three or four named regional devices → Mughal material chronology → one regional parallel style → conservation/UNESCO close → verdict |
+| **20** | All of the above → **plus** the workforce/motif evidence for hybridity → garden and tomb typology → ideology-and-form argument → the eighteenth-century regional continuation → historiographical caution against style essentialism → verdict answering the exact wording |
+
+### 13.4 Evidence bank A — technology and structural change
+
+| Element | ✅ Named evidence | Significance | Caution |
+|---|---|---|---|
+| Arcuate introduction at scale | ✅ Arches and domes were known earlier, but Sultanate builders spread their scientifically constructed, large-scale use with stronger lime mortar (Satish Chandra, PDF pp. 194-196) | Reframes the question from "who invented" to "who industrialised" | ❌ Never write that arches/domes were unknown in India before 1206 |
+| Trabeate survival | ✅ Slab-and-beam work continued inside Sultanate and Mughal buildings alongside arch and dome | Direct evidence of hybrid method | ⚠️ Hybridity is structural, not merely decorative |
+| The double dome | ✅ In mature form by the Lodi/Humayun transition — Sikandar Lodi's tomb is an early Indian case; Humayun's tomb develops it at monumental scale | Separates external skyline from interior ceiling height, solving a proportion problem | ⚠️ Do not assign a single "inventor" |
+| Spolia, documented | ✅ The Quwwat-ul-Islam mosque inscription records reuse of material from 27 demolished Hindu and Jaina temples (*Nitin…pdf*, PDF p. 130; ASI, Qutb Minar complex) | The one properly sourced reuse case; usable precisely because it is specific | ❌ Do not generalise it into systematic destruction across the whole period |
+| Layered construction | ✅ Qutb Minar: begun by Aibak, substantially completed by Iltutmish, damaged upper portions later repaired/rebuilt by Firoz Shah Tughlaq | A single monument as a multi-reign record | ⚠️ Do not credit one sultan with the whole tower |
+| Ornament grammar | ✅ Jaali (perforated screen signifying the importance of light), arabesque (continuous, regularly splitting geometric-vegetal ornament), calligraphy with optical scaling, pietra dura/parchin kari inlay (*Nitin…pdf*, PDF pp. 126-127) | Gives an answer precise vocabulary instead of "intricate designs" | ⚠️ Avoidance of figural imagery is general for mosque decoration, not a universal rule for every building |
+
+### 13.5 Evidence bank B — provincial adaptation (the regional-variation family)
+
+| School | ✅ Distinguishing device | Driver | Named example |
+|---|---|---|---|
+| Bengal | Sloping "Bangla roof," later borrowed by Mughal architects | Heavy rainfall; local hut form translated into masonry | Bengal provincial mosques |
+| Jaunpur (Sharqi) | Monumental screen facades; **no minars** | Political self-assertion of a regional sultanate | Atala Mosque |
+| Malwa (Pathan) | Large ventilating windows and *baulis*/step-wells; no minars | Heat and water storage | Malwa provincial complexes |
+| Bijapur (Deccan) | Three-arched facade; near-spherical bulbous dome | Deccani court culture and engineering ambition | Gol Gumbaj |
+| Rajput | *Jharokha* (hanging balcony), bow-shaped arched cornices | Court display and climate-screened viewing | Hawa Mahal, Jaipur |
+| Sikh | Multiple *chhatris*, shallow cornices, onion domes, foliated arches | Congregational and devotional programme | Harmandir Sahib |
+| Awadh | Mortar construction instead of marble/sandstone | Cost, speed and famine-relief employment context | Bara Imambara, Chota Imambara, Rumi Darwaza |
+
+(*Nitin…pdf*, PDF pp. 132-136, 144-147.) ⚠️ **Answer rule:** every regional
+claim must carry its device **and** its named monument; a bare list of
+school names is not evidence.
+
+### 13.6 Evidence bank C — Mughal chronology with material as the marker
+
+| Reign | ✅ Evidence | Analytical point |
+|---|---|---|
+| Akbar | Red sandstone and the four-centred "Tudor" arch; Agra Fort begun under him though most interior structures are Shah Jahan's; Fatehpur Sikri as capital 1571-1585, with the Buland Darwaza and the white-marble tomb of Sheikh Salim Chishti (*Nitin…pdf*, PDF pp. 138-140) | Scale and sandstone as an imperial signature; marble already reserved for the sacred |
+| Akbar (ideology) | Fatehpur Sikri's **Ibadat Khana** (1575) hosted interfaith debates under *Sulh-i-Kul*, leading to *Din-i-Ilahi* (1582), which "never had mass acceptance" (*Nitin…pdf*, PDF p. 140) | Architecture as the setting of policy — and the built setting outlived the policy |
+| Jahangir/Nur Jahan | White marble becomes the chief material; Itmad-ud-Daulah's tomb, commissioned by Nur Jahan, is the first all-white-marble Mughal work, with fine pietra dura (*Nitin…pdf*, PDF p. 141) | The material shift is the datable marker independent of inscriptions |
+| Shah Jahan | Taj Mahal, Red Fort, Jama Masjid | Culmination of marble, garden and inlay |
+| Taj authorship | Nitin associates Ustad Ahmad Lahori with several projects; Satish Chandra treats the Taj as a **collective workshop achievement** with no single settled designer (*Part 2*, PDF p. 388) | Use this to reject single-genius narratives |
+| Aurangzeb | Fewer major imperial commissions, economy-minded; Mughal traditions continued into regional 18th-century practice | Compare Bibi Ka Maqbara **formally** — patronage, scale, material, garden — rather than repeating a value-laden "poor imitation" label |
+
+### 13.7 The synthesis argument, stated as a mechanism
+
+```text
+IMPORTED STRUCTURAL KNOWLEDGE (arch, vault, dome, lime mortar)
+            +
+INDIGENOUS CRAFT LABOUR AND TRABEATE PRACTICE
+            +
+LOCAL MATERIALS (regional stone, brick, mortar)
+            +
+BORROWED MOTIFS (lotus, bell, swastika)
+            |
+            v
+HYBRID BUILDING METHOD  ->  regionally differentiated results
+            |
+            v
+NOT "two styles meeting" but ONE INDUSTRY ABSORBING A TECHNOLOGY
+```
+
+⚠️ Satish Chandra's Sultanate and Mughal chapters document employment of
+indigenous craftsmen, importation of some master architects, and reuse of
+local motifs — which is why fixed religious "style essences" cannot be
+defended.
+
+### 13.8 Reasoned verdict scaffolds
+
+- **Synthesis demand:** "The synthesis is real but it is a synthesis of
+  *practice* — shared workshops, shared materials, combined structural
+  methods — and describing it as the meeting of two fixed religious styles
+  misdescribes both."
+- **Technology demand:** "The Sultanate's architectural significance lies
+  in normalising a structural system, not in inventing it; the proof is
+  that the same system was immediately re-solved differently in Bengal,
+  Malwa, Jaunpur and Bijapur."
+- **Mughal-development demand:** "Mughal architecture moves from mass to
+  refinement — sandstone scale under Akbar, marble surface under Jahangir
+  and Shah Jahan — and its ideological content is clearest where material
+  and programme change together."
+
+### 13.9 Factual-risk and dynamic-status controls
+
+- ❌ Do not name Ustad Ahmad Lahori as the uncontested sole Taj architect.
+- ❌ Do not conflate medieval **Indo-Islamic/Indo-Saracenic** usage with
+  the 19th-20th century colonial Indo-Saracenic revival (topic 05).
+- ❌ Do not present *Din-i-Ilahi* as widely adopted.
+- ❌ Do not extend the Quwwat-ul-Islam inscription's 27-temple record into a
+  general claim about the period.
+- ❌ Do not state minars as a universal feature: Jaunpur's Sharqi style and
+  the Malwa/Pathan school explicitly avoided them.
+- ⚠️ 📰 UNESCO inscribed the **Maratha Military Landscapes of India in
+  2025**; cite the year only, and verify component and boundary details
+  against UNESCO's property page. Humayun's Tomb (1993) and Fatehpur Sikri
+  (1986) may be cited as inscription years; all counts route through topic
+  14 with its verification date.
+- ⚠️ Do not attach an exact construction cost, workforce number or
+  completion date to any monument here; none is supported by this file's
+  sources.
+
+### 13.10 Routing correction — the CSE 2019 "Kalyana Mandapas" demand is **not** owned here
+
+> **Recorded correction (corrective pass, 2026-08-13).** The generated
+> `Historical PYQ Integration (2018-2023)` block below routes the **CSE
+> 2019 "Kalyaana Mandapas"** demand to this file. That block is produced
+> mechanically from `_PYQ-ROUTING-PRELIMS-2018-2023.md` and is **preserved
+> byte-intact**, but the routing is substantively wrong and must not be
+> answered from this file's vocabulary.
+
+- ❌ **A Kalyana Mandapa is not an Indo-Islamic form.** It is a **wedding
+  hall** inside a Hindu temple complex; nothing in the arcuate/trabeate,
+  mosque, tomb, *charbagh* or provincial-Sultanate material owned by this
+  file can generate the answer.
+- ✅ **Substantive owner:** `basic/03` **§13.9B**, where the fact is
+  evidenced from the **Vitthala Temple Complex at Hampi** (*Nitin…pdf*,
+  PDF p. 114) and from the incomplete Kalyana Mandapa at **Lepakshi**
+  (PDF p. 329, topic 07).
+- ✅ **The answer is Vijayanagara**, verified from the source's own
+  reproduced question (PDF pp. 168-169) and its own **answer key** (PDF
+  p. 185, item 41 = (d)) — not inferred.
+- ⚠️ **What this file *does* legitimately contribute to the same question:**
+  the Indo-Islamic vocabulary that explains why **Vijayanagara's secular
+  and royal buildings** — Lotus Mahal, the Queen's Bath and the domed
+  elephant stable at Hampi — carry arched and domed forms, while its
+  **temples** remain Dravidian. That is the correct boundary: this file
+  owns the *Islamicate formal vocabulary*, `basic/03` owns the *temple hall
+  type* and the answer.
+- ❌ Do not "fix" the generated block by editing it; generated markers and
+  their content are preserved intact by design, and this section is the
+  disclosed correction.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

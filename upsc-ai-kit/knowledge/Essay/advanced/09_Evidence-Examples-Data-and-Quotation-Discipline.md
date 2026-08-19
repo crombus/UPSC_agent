@@ -5,7 +5,7 @@
 > **Core area:** A full source/risk ledger discipline for prompts,
 > aphorisms, named quotations and statistics; calibrating evidentiary
 > confidence rather than treating "cite or omit" as binary.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Sections 8, 13.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -15,7 +15,9 @@
 
 ## 1. Advanced proposition and boundary
 
-**Proposition:** ⚠️ evidentiary discipline is a risk-calibration
+**Proposition:** ⚠️ Core `09` supplies usable evidence units and the
+non-negotiable verification rule. This companion treats evidentiary
+discipline as a risk-calibration
 exercise — every example, statistic, or quotation carries a confidence
 level, and the essay should only use claims at a confidence level the
 candidate can genuinely stand behind under examiner scrutiny.
@@ -67,8 +69,8 @@ reason (beyond exam risk) to maintain the discipline described here.
 
 | Use case | Printed author? | Permissible use | Attribution status | Verification source needed | Risk if misused |
 |---|---|---|---|---|---|
-| 2024–2025 prompts (V1, 16 rows) | No (see `../README.md`) | Quote exactly as printed, defects included, or paraphrase | Unattributed by design | None — the local official PDF is the source | Low, if quoted/paraphrased accurately |
-| 2013–2023 prompts (V2, 84 rows) | Only 2013-1, itself unverified | Paraphrase; quote only after checking the official paper for that year | Do not attribute | The official paper for that year | Medium — carried-forward wording may differ from print |
+| 2018–2025 prompts (V1, 64 rows) | No (see `../PYQ-Corpus-2013-2025.md`) | Quote exactly as printed, defects included, or paraphrase | Unattributed by design | None — the local official paper is the source | Low, if quoted/paraphrased accurately |
+| 2013–2017 prompts (V2, 36 rows) | Only 2013-1, itself unverified | Paraphrase; quote only after checking the official paper for that year | Do not attribute | The official paper for that year | Medium — carried-forward wording may differ from print |
 | Familiar aphorism, uncertain web attribution | Not applicable | Use only as an unattributed proposition, or omit | Do not attribute | Would need a primary/authoritative source, typically unavailable | High — misattribution undermines credibility |
 | Named quotation from a known thinker | N/A (not from this corpus) | Use only after verification | Attribute only if verified | Primary text or authoritative anthology/translation | High — wrong wording/author/context |
 | Analogy | N/A | Clarify a mechanism; never offer as support | Not a source claim at all | None — but the underlying mechanism must be supported separately | Medium — an argument that collapses if the comparison is rejected |
@@ -108,12 +110,12 @@ using impressive-sounding but unverifiable specifics.
 
 ## 10. Evidence/source-risk and India application
 
-✅ Apply the ledger (Section 6) to every one of the 16 recent prompts
-before using them in a drafted essay — since all are unattributed by
-design, the correct practice across the V1 set is uniform: quote or
-paraphrase without an author. ⚠️ The 84 V2 prompts (2013–2023) are not
-locally verified and should be paraphrased unless checked against the
-official paper for that year. ⚠️ For India-application illustrations,
+✅ Apply the ledger (Section 6) to every one of the 64 V1 prompts before
+using them in a drafted essay — since all are unattributed by design, the
+correct practice across the V1 set is uniform: quote or paraphrase
+without an author. ⚠️ The 36 V2 prompts (2013–2017) are not locally
+verified and should be paraphrased unless checked against the official
+paper for that year. ⚠️ For India-application illustrations,
 prefer institutions and documented episodes (recalled-general
 confidence) over precise current statistics unless a specific source and
 date are genuinely known (`12`).
@@ -128,7 +130,7 @@ they support rather than anchor the argument.
 
 ## 12. ❌ Failure modes and revision protocol
 
-- ❌ **Guessed authorship attached to any of the 16 recent prompts.** →
+- ❌ **Guessed authorship attached to any of the 64 V1 prompts.** →
   Protocol: remove the name; the prompts are unattributed by design
   (Section 6).
 - ❌ **False precision** (a specific invented percentage or date). →

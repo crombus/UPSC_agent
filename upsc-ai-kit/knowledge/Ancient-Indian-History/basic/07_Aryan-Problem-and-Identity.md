@@ -75,3 +75,38 @@
 - ⚠️ "The Aryan problem is a problem of method." Discuss with language, archaeology, material traits and genetic evidence.
 - ⚠️ Critically examine why the old "invasion" model is weaker than a migration-and-interaction framework.
 - ⚠️ Use the Aryan debate to show the limits of reconstructing early Indian history from religious texts alone.
+
+## 8. Answer architecture (20-mark synthesis support)
+
+### Qualified thesis options
+
+| Directive type | Thesis option |
+|---|---|
+| Discuss | "The Aryan problem is best handled as a question of language, migration and cultural formation—not of pure race or civilisational ownership." |
+| Critically examine | "A migration-and-interaction model explains current evidence better than either a simplistic invasion narrative or a closed indigenous certainty." |
+| Compare / evaluate | "Identity in early Vedic India was historically produced through mobility, conflict and assimilation, so modern certitudes should not be projected backward." |
+
+### Structure guide
+
+- **For causal/analytical Qs:** evidence-types -> what each supports -> what each cannot prove -> balanced inference
+- **For comparison Qs:** invasion model vs migration model vs strict indigenist model
+- **For evaluate Qs:** linguistic evidence -> archaeological caution -> identity-formation conclusion
+
+### Named evidence units
+
+| # | Claim | Named evidence | Significance | Limitation |
+|---|---|---|---|---|
+| 1 | Linguistic affinity is the strongest hard evidence | ✅ Indo-Aryan links with Indo-Iranian/Indo-European families | Explains a wider world of connection | Language cannot by itself identify race or exact route |
+| 2 | Early Vedic geography is north-western | ✅ Rigvedic Sapta-Sindhu references | Grounds the debate in textual geography | Text layering and dating remain debated |
+| 3 | Archaeology cautions against crude invasion stories | ⚠️ Cultural change without uniform destruction horizons | Checks sensational conquest models | Archaeology cannot directly identify speech communities |
+| 4 | Identity was produced through interaction | ⚠️ Dasa/dasyu and assimilation patterns | Prevents essentialist ethnic readings | Textual categories are polemical and situational |
+
+### Counterpoint and balance
+
+- Do not present migration as a fully solved route-map question.
+- Do not treat absence of invasion proof as proof of total isolation.
+
+### Verdict framing
+
+- Conclude with a limited but defensible claim: language spread plus cultural mixing explains the evidence best.
+- A strong verdict keeps the debate open while rejecting racial absolutism.

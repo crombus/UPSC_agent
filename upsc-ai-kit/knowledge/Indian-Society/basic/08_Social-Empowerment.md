@@ -196,3 +196,97 @@ explicitly tests.
   welfare-scheme detail.
 - ✅ `02_Caste-System-Structure-and-Contemporary-Dynamics.md` — Sanskritisation as a
   mobility channel.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** Empowerment answers must show how an entitlement becomes a usable
+> capability and a lived outcome; they must not replace social analysis with legal doctrine.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Comment** affirmative-action gap | Input-to-outcome conversion | entitlement -> conversion barriers -> outcome gap -> capability response |
+| **Discuss** Phule | Cross-cutting diagnosis | caste -> gender -> peasant class -> organisation/writings -> legacy |
+| **Explain** empowerment | Welfare versus capability/agency | resources -> real freedom -> voice -> outcome |
+| **Assess** mobility | Formal versus substantive mobility | channel -> gain -> residual stigma/closure -> verdict |
+| **Critically examine** reform | Incremental safeguards versus structural hierarchy | policy gains -> informal persistence -> balanced conclusion |
+
+### 13.2 Thesis bank
+
+- **T1:** ✅ Formal entitlement is necessary but not sufficient; its conversion into
+  empowerment depends on prior schooling, information, mobility, health and freedom from
+  stigma.
+- **T2:** ✅ Phule’s force lies in linking caste, gender and peasant-class subordination
+  rather than treating one as an isolated reform problem.
+- **T3:** ✅ Ambedkar’s graded-inequality diagnosis explains why formal equality can coexist
+  with residual social closure.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — welfare versus empowerment.** Define Sen’s capability approach, contrast
+benefit receipt with real freedom to use it, give one conversion barrier and one agency
+outcome. End with a measured capability-building direction.
+
+**15 marks — affirmative action not reaching full benefit (2024 GS-I).** Start with T1;
+map entitlement, conversion factor and outcome. Use E1 and E3, identify information,
+quality-of-schooling, remoteness and stigma as mechanisms, then route doctrine to
+Polity/Social Justice. Conclude that expanding quota/coverage alone cannot close the gap.
+
+**15 marks — “Formal mobility is not necessarily substantive social empowerment.”
+Examine.** Define formal mobility as observable change in income, education or occupation
+and substantive mobility as that change plus social recognition, secure voice and freedom
+from stigma. Use education/urban non-farm work as mobility channels, then test whether
+marriage, housing, local participation or workplace treatment still reproduce closure.
+Conclude with E5: mobility becomes empowerment only when the conversion reaches lived
+agency.
+
+**20 marks — Phule, Ambedkar and contemporary empowerment.** Use Phule’s cross-cutting
+reform, Ambedkar’s graded inequality and Sen’s capability lens as three distinct
+analytical tools. Test formal versus substantive mobility and close with a
+rights-plus-capability verdict.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Capability.** *Claim:* equal resources need not yield equal freedom. *Evidence:*
+  **Amartya Sen’s capability approach**. *Significance:* identifies conversion factors as
+  the correct site of empowerment analysis. *Limitation:* capability does not make welfare
+  inputs unimportant.
+- **E2 — Cross-cutting reform.** *Claim:* social disadvantage is interlinked. *Evidence:*
+  **Jyotirao and Savitribai Phule** and **Satyashodhak Samaj**, cross-linked to Modern
+  History. *Significance:* gives caste, girls’ education and peasant-class evidence for
+  the 2025 demand. *Limitation:* chronology/writings detail remains with History.
+- **E3 — Structural persistence.** *Claim:* hierarchy is self-reinforcing. *Evidence:*
+  **B.R. Ambedkar’s graded inequality** and annihilation-of-caste argument. *Significance:*
+  explains informal hierarchy after formal legal change. *Limitation:* reservation doctrine
+  is routed to Polity/Social Justice.
+- **E4 — Measurement caution.** *Claim:* aggregate deprivation does not equal individual
+  agency. *Evidence:* **NITI Aayog’s 2024 MPI discussion paper** (2022-23 estimate).
+  *Significance:* supports a multidimensional frame. *Limitation:* an estimate is neither
+  a current headcount nor proof of an empowerment outcome.
+- **E5 — Mobility boundary.** *Claim:* formal mobility can stop short of substantive
+  empowerment. *Evidence:* education, urban migration and non-farm work can alter income
+  or occupation, while marriage, housing, workplace treatment and local participation may
+  retain stigma or closure. *Significance:* makes “formal versus substantive mobility” an
+  independently answerable 15-mark demand. *Limitation:* do not infer either persistent
+  stigma or social recognition from income/occupation alone; establish the relevant setting.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Do not call every policy failure a design failure: implementation and conversion
+  barriers may be decisive.
+- ⚠️ Do not call income/occupation mobility full social empowerment if recognition and
+  freedom from stigma lag.
+- ⚠️ Do not collapse Phule into Ambedkar; use their distinct diagnoses.
+- **Verdict:** “Empowerment is completed not when a right is announced, but when a person
+  can convert it into informed, dignified and socially recognised agency.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2024 · GS-I · Q18 | Full benefit of affirmative action | §13.1-13.4, T1, E1/E3 |
+| 2025 · GS-I · Q11 | Phule and almost all subaltern classes | §13.1, T2, E2 |
+
+> **Routing correction:** Core is now the answer-ready social-analysis owner. Legal and
+> historical owners remain named evidence routes, not prerequisites.

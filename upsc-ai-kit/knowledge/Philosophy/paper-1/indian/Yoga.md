@@ -69,6 +69,26 @@ End: kaivalya = isolation/aloneness of puruṣa from prakṛti
 - ✅ A standard exam-worthy formulation is: **so long as there are changes and modifications in citta, the self is reflected therein and, lacking discriminative discernment, identifies itself with those modifications.**
 - ⚠️ This is the psychological core of bondage in Yoga: the seer is confused with the seen because reflection masquerades as identity.
 
+
+### 1.4A Reflection (pratibimba/chāyā) presuppositions
+
+**Statement.** ✅ Yoga's reflection theory says that **citta** appears conscious because it stands near **puruṣa**, while puruṣa appears bound because its light is reflected in citta; this is a **pratibimba** (pratibimba; reflection) or **chāyā** (chaya; shadow-image) model, not a literal alteration of puruṣa.
+
+**Argument.**
+1. ✅ **Puruṣa** is **apariṇāmin** (aparinamin; unchanging) and therefore cannot literally act, suffer, acquire qualities or undergo modification.
+2. ✅ **Citta** is a product of **prakṛti** and is therefore **jaḍa** (jada; insentient), yet its sattva-predominance makes it transparent, subtle and capable of mirroring.
+3. ✅ Since an inactive consciousness cannot enter causal contact like one physical object striking another, knowledge requires a reflection/proximity model rather than a crude causal-contact model.
+4. ✅ Bondage is therefore the confusion of **asmitā** and **sva-svāmi-śakti** (sva-svami-shakti; the power of the owned and the owner): citta's borrowed consciousness is misread as selfhood, and puruṣa's witnesshood is misread as agency.
+5. ⚠️ The soteriological task is not to change puruṣa but to end the cognitive misattribution by purifying and restraining citta.
+
+**Presupposition.** ✅ The model presupposes the Sāṃkhya-Yoga dualism of two irreducible orders: conscious but inactive puruṣa, and active but insentient prakṛti/citta.
+
+**Example.** ✅ The crystal (**sphaṭika**) near a red flower seems red without itself becoming the flower; ⚠️ similarly, a magnet and iron image helps exam writing: mere presence (**sannidhi**) can explain movement on the iron/citta side without action on the magnet/puruṣa side.
+
+**Objection.** ⚠️ A reflection normally requires some real relation between mirror and original. If puruṣa and prakṛti are ontologically disjoint, how can inactive puruṣa be "reflected" in citta at all?
+
+**Reply.** ✅ Yoga replies through **sannidhi-mātra** (sannidhi-matra; mere proximity): the transformation is entirely on the citta side; puruṣa neither acts nor changes. ⚠️ Yet the objection retains residual force, because Advaita and Nyāya can press the classic problem of how two radically different principles can explain one experience.
+
 ### 1.5 Why citta matters for soteriology
 
 - ✅ Since bondage occurs through citta, liberation must also be worked out through citta.
@@ -163,6 +183,7 @@ End: kaivalya = isolation/aloneness of puruṣa from prakṛti
 3. ✅ In ignorance, the self appropriates these changing forms as "I know," "I suffer," "I desire," "I remember."
 4. ✅ Therefore the stream of vṛttis sustains bondage.
 5. ✅ Their restraint uncovers the already-free nature of the seer.
+- ⚠️ A safe image is the clear pool: when ripples settle, the water reflects without distortion; when cittavṛttis settle, puruṣa is no longer misread through mental turbulence.
 - ⚠️ Thus **nirodha** is revelatory, not destructive: it removes concealment, not consciousness.
 
 ### 2.4 The five vṛttis
@@ -244,6 +265,33 @@ End: kaivalya = isolation/aloneness of puruṣa from prakṛti
 ### 2.15 Mini-conclusion on cittavṛtti
 
 - ⚠️ In exam language: **cittavṛttis are the dynamic forms assumed by the mind-complex; they must be restrained because their ongoing operation sustains the false identification of the seer with the seen.**
+
+
+### 2.16 Citta-pariṇāma — transformation of the mental substrate
+
+**Statement.** ✅ **Citta-pariṇāma** (citta-parinama; transformation of citta) is Yoga's account of how the mind-complex really changes across practice without destroying its continuity as a prakṛtic substrate.
+
+**Argument.**
+1. ✅ The Vibhūti-pāda tradition recognises three specifically yogic transformations of citta: **nirodha-pariṇāma**, **samādhi-pariṇāma** and **ekāgratā-pariṇāma**.
+2. ✅ **Nirodha-pariṇāma** is the transformation in which impressions of restraint increasingly overpower impressions of emergence; the mind becomes habituated to cessation rather than dispersion.
+3. ✅ **Samādhi-pariṇāma** is the transformation from many-pointedness to unified absorption; the distracting multiplicity of contents weakens while one object becomes dominant.
+4. ✅ **Ekāgratā-pariṇāma** is the transformation of one-pointed continuity, where similar cognitive moments arise and subside in an unbroken stream toward the same object.
+5. ✅ Yoga also accepts a general threefold transformation of any substrate: **dharma-pariṇāma** (dharma-parinama; change of property), **lakṣaṇa-pariṇāma** (laksana-parinama; change of temporal character) and **avasthā-pariṇāma** (avastha-parinama; change of condition or state).
+6. ✅ These transformations presuppose a **dharmin** (dharmin; persisting substrate) that undergoes changes of property, temporal phase and condition without becoming sheer momentary flashes.
+7. ⚠️ This is philosophically necessary because Yoga inherits Sāṃkhya **pariṇāmavāda** (parinamavada; real transformation): citta really changes, and the path's graded progress would be unintelligible if there were no continuing mental substrate.
+
+**Presupposition.** ✅ The doctrine presupposes that prakṛti and its evolutes are real and transformable, while puruṣa remains unmodified witness-consciousness.
+
+**Example.** ⚠️ The same lake can be stormy, gradually calming, and finally still; the states differ, yet the lake-substrate persists. Likewise citta can pass from kṣipta to ekāgra to niruddha without becoming a new self.
+
+**Objection.** ⚠️ A Buddhist **kṣaṇikavādin** (ksanikavadin; momentarist) may argue that only a stream of momentary events is needed; a persisting citta-substrate is an unnecessary fiction.
+
+**Reply.** ✅ Yoga answers that practice, memory, saṃskāra-continuity and stable meditative acquisition require more than disconnected flashes. ⚠️ Both Yoga and Buddhism admit ceaseless change, but Yoga retains a persisting prakṛtic substrate, whereas Buddhist **kṣaṇikavāda** (ksanikavada; momentariness) denies enduring mental substance.
+
+| Comparison | Yoga's position | Exam contrast |
+|---|---|---|
+| ✅ Yoga's **pariṇāma** vs Buddhist **kṣaṇikavāda** | ✅ Real change occurs in a continuing citta/dharmin. | ⚠️ Buddhism can explain flow without a substrate; Yoga needs substrate for saṃskāra and graded discipline. |
+| ✅ Yoga's **pariṇāma** vs Advaita **vivartavāda** (vivartavada; apparent transformation) | ✅ Change in citta/prakṛti is real, not merely apparent. | ⚠️ Advaita makes ultimate reality non-transforming Brahman; Yoga keeps real prakṛtic change and many puruṣas. |
 
 ## 3. KLEŚAS
 
@@ -356,7 +404,28 @@ Kleśas → Karma → Vipāka → Āśaya → Punarjanma
 - ✅ This fuels further birth and suffering.
 - ⚠️ The chain shows why Yoga is not satisfied with external behaviour-management; it aims at the root-affliction itself.
 
-### 3.13 Why removal of kleśas leads to kaivalya
+
+### 3.13 Karma and vipāka — kleśa-rooted moral causation
+
+**Statement.** ✅ **Karmāśaya** (karmashaya; karmic deposit or stock) is the subtle store of action-traces rooted in kleśas, and **vipāka** (vipaka; fruition) is its ripening as concrete embodied experience.
+
+**Argument.**
+1. ✅ The karmic deposit is **kleśa-mūla** (klesha-mula; rooted in the afflictions): action binds because it is coloured by avidyā, asmitā, rāga, dveṣa and abhiniveśa.
+2. ✅ Vipāka is classically threefold: **jāti** (jati; birth or species-condition), **āyus** (ayus; life-span) and **bhoga** (bhoga; experience/enjoyment-suffering).
+3. ✅ **Vāsanā** (vasana; latent tendency) and **saṃskāra** (samskara; impression) explain continuity: repeated cognition and action leave traces, traces dispose future cognition and action, and the cycle becomes morally structured.
+4. ✅ Yoga classifies karma as **śukla** (shukla; white), **kṛṣṇa** (krishna; black), **śukla-kṛṣṇa** (mixed white-black) and **aśukla-akṛṣṇa** (ashukla-akrishna; neither white nor black), the last being associated with the yogin whose action no longer produces ordinary bondage.
+5. ⚠️ This matters philosophically because Yoga is not merely therapeutic psychology; it explains how psychological purification can have soteriological effect by interrupting the moral-causal engine of rebirth.
+6. ⚠️ Therefore kleśa-attenuation (**tanū-karaṇa**, tanu-karana; thinning) and final **pratiprasava** (reabsorption into the cause) are the real targets, not temporary emotional calm.
+
+**Presupposition.** ✅ Yoga presupposes a morally ordered cosmos in which subtle mental-affective causes can ripen beyond a single visible episode of experience.
+
+**Example.** ✅ The **dagdha-bīja** (dagdha-bija; burnt seed) image is exam-safe: a burnt seed may retain seed-shape, but it cannot germinate; similarly attenuated and burnt kleśas lose karmic fertility.
+
+**Objection.** ⚠️ If liberation depends on exhausting an unsurveyable stock of karmāśaya, release seems indefinitely postponed.
+
+**Reply.** ✅ Yoga replies that liberating knowledge and samādhi burn the seeds of future bondage. ⚠️ Using later comparative vocabulary, only **prārabdha-type** (prarabdha-type; already-fructifying) embodiment continues until its momentum is spent, like a potter's wheel turning briefly after the potter stops pushing.
+
+### 3.14 Why removal of kleśas leads to kaivalya
 
 1. ✅ Kleśas are the roots of karmically binding activity.
 2. ✅ Without kleśas, karmic production and karmic reactivation cease.
@@ -365,7 +434,7 @@ Kleśas → Karma → Vipāka → Āśaya → Punarjanma
 5. ✅ This culminates in kaivalya.
 - ⚠️ The 2021 20-marker demanded precisely this transition from **diagnosis of affliction** to **logic of liberation**.
 
-### 3.14 Kleśa and error across schools
+### 3.15 Kleśa and error across schools
 
 | School | Root problem | Yoga's distinctive feature |
 |---|---|---|
@@ -374,7 +443,7 @@ Kleśas → Karma → Vipāka → Āśaya → Punarjanma
 | [Advaita Vedānta](./Vedanta.md) | avidyā/adhyāsa | Yoga has no Brahman-identity thesis |
 | [Nyāya-Vaiśeṣika](./Nyaya-Vaisesika.md) | mithyājñāna | Yoga stresses affective affliction and meditative remedy |
 
-### 3.15 Mini-conclusion on kleśas
+### 3.16 Mini-conclusion on kleśas
 
 - ⚠️ A compact answer-line: **kleśas are the afflictive roots of saṃsāra, with avidyā as the source and kriyā-yoga plus meditation as the means of attenuation and destruction.**
 
@@ -486,85 +555,154 @@ Kleśas → Karma → Vipāka → Āśaya → Punarjanma
 
 - ✅ **Samprajñāta samādhi** is cognitive or object-oriented absorption.
 - ✅ A support remains; there is still a subtle seed of cognition.
-- ✅ It is often called **sabīja** in contrast with the seedless culmination.
+- ✅ It is called **sabīja** (YS 1.46) because an object-support ("seed") is still present.
+- ⚠️ **Two senses of "seed" must be kept apart:** in YS 1.46 *sabīja* means "with object-support", whereas the *bīja* denied in **nirbīja** at YS 1.51 is the residual **saṃskāra**. Losing the object-support therefore does not by itself make a samādhi *nirbīja*.
 - ⚠️ The mind is profoundly stilled, but not utterly free of object-reference.
 
-### 5.3 Four principal stages of samprajñāta samādhi
+### 5.3 Two canonical schemes that must not be conflated
 
-| Stage | Object-level | Character |
+- ✅ Pātañjala Yoga uses two related but distinct classifications in the Samādhi-pāda.
+- ✅ **Yogasūtra 1.17** defines **samprajñāta** samādhi through four accompanying factors: **vitarka, vicāra, ānanda, asmitā** — *vitarka-vicārānandāsmitā-rūpānugamāt saṃprajñātaḥ*.
+- ✅ **Yogasūtra 1.42–1.44** classifies **samāpatti** (samapatti; meditative coalescence with an object) as **savitarkā/nirvitarkā** and **savicārā/nirvicārā**.
+- ⚠️ The first scheme answers: "What characterises samprajñāta samādhi?" The second answers: "How does object-absorption differ according to conceptual-verbal overlay and object-level?"
+
+### 5.4 YS 1.17: the fourfold character of samprajñāta samādhi
+
+| Factor in samprajñāta | Object-level / cognitive tone | Safe explanation |
 |---|---|---|
-| **Savitarka** | gross object | absorption with deliberative association, name-form-concept still present |
-| **Nirvitarka** | gross object | gross object remains, but discursiveness around it falls away |
-| **Savicāra** | subtle object | reflective absorption on subtle entities/principles |
-| **Nirvicāra** | subtle object | even subtle discursiveness ceases; luminous subtle absorption |
+| ✅ **Vitarka** | ✅ gross object-level engagement | ✅ absorption still accompanied by gross deliberative grasp. |
+| ✅ **Vicāra** | ✅ subtle object-level reflection | ✅ attention moves from gross entities toward subtle principles. |
+| ✅ **Ānanda** | ✅ refined sattvic joy/bliss-aspect | ⚠️ not ordinary pleasure; it is a purified meditative affect attached to sattva. |
+| ✅ **Asmitā** | ✅ bare "I-am-ness" | ⚠️ not the ordinary kleśa-asmitā in its binding form, but the extremely subtle objectification of the I-sense. |
 
-### 5.4 Savitarka and nirvitarka
+- ✅ Therefore **sānanda** and **sāsmita** are not a contested addition to Patañjali's list; **ānanda** and **asmitā** are explicitly present in the sūtra's own fourfold characterisation.
+- ⚠️ What becomes interpretively delicate is not whether ānanda and asmitā belong to samprajñāta, but how later commentators map them onto the samāpatti sequence.
 
-- ✅ In **savitarka**, concentration on a gross object retains traces of conceptuality, verbalization or deliberative support.
-- ✅ In **nirvitarka**, the same gross-object level is held without gross conceptual superimposition.
-- ⚠️ The movement is from meditative cognition still mixed with linguistic-associative content to greater immediacy.
+### 5.5 YS 1.42–1.46: samāpatti-bhedas, not the YS 1.17 fourfold list
 
-### 5.5 Savicāra and nirvicāra
+| Samāpatti-bheda | Object-range | Conceptual-verbal overlay | Doctrinal point |
+|---|---|---|---|
+| ✅ **Savitarkā samāpatti** | ✅ gross (**sthūla**) object | ✅ mixed with **śabda-artha-jñāna-vikalpa** (word-object-knowledge construction) | ✅ absorption still carries name, meaning and concept together. |
+| ✅ **Nirvitarkā samāpatti** | ✅ gross object | ✅ memory and verbal construction are purified | ✅ the object shines more immediately without gross conceptual overlay. |
+| ✅ **Savicārā samāpatti** | ✅ subtle (**sūkṣma**) object | ✅ subtle reflective consideration remains | ✅ absorption turns from gross objects to subtle principles. |
+| ✅ **Nirvicārā samāpatti** | ✅ subtle object | ✅ even subtle reflective overlay is stilled | ✅ refined subtle-object absorption becomes luminous and clear. |
 
-- ✅ **Savicāra** turns to subtle objects or principles and still retains a reflective mode.
-- ✅ **Nirvicāra** transcends even that subtle reflective discursiveness.
-- ⚠️ This marks the deepening interiorization of citta from gross phenomenal supports to subtle ontological supports.
+- ✅ Under YS 1.44, the **savicārā/nirvicārā** pair is stated with reference to subtle objects.
+- ✅ YS 1.45 extends the subtle domain up to **aliṅga** (alinga; the undifferentiated prakṛtic condition).
+- ✅ YS 1.46 states that these samāpattis remain **sabīja** (sabija; with seed) samādhi.
+- ✅ YS 1.47 says the clarity (**vaiśāradya**, vaisaradya; lucidity) of **nirvicārā** leads to **adhyātma-prasāda** (adhyatma-prasada; inner clarity of the self-field).
+- ✅ YS 1.48 says that therein the prajñā is **ṛtambharā** (rtambhara; truth-bearing).
+- ✅ **Example.** The crystal (**sphaṭika**) taking the colour of a nearby flower captures samāpatti: citta becomes so object-coloured that the object seems to shine through it.
 
-### 5.6 Contested extension: sānanda and sāsmita
+### 5.6 Reconciliation: how commentators relate the two schemes
 
-- ❓ Some commentators enumerate **sānanda** and **sāsmita** as additional stages or sub-levels of samprajñāta samādhi.
-- ❓ Others treat them not as wholly separate stages but as dimensions or aspects within the broader progression.
-- ⚠️ Safe UPSC handling: mention the canonical four-stage sequence, then note the commentator-variation regarding **sānanda** and **sāsmita**.
+**Statement.** ✅ The safe reconciliation is: **vitarka-vicāra-ānanda-asmitā** are the canonical four factors of samprajñāta, while **savitarkā/nirvitarkā/savicārā/nirvicārā** are samāpatti varieties within object-supported absorption.
 
-### 5.7 Asamprajñāta samādhi — beyond cognitive objectification
+**Argument.**
+1. ✅ The sa/nir- distinction concerns whether conceptual-verbal overlay (**vikalpa**, especially **śabda-artha-jñāna-vikalpa**) is present or absent in absorption.
+2. ✅ The vitarka/vicāra/ānanda/asmitā series concerns the level or refinement of the object/support on which samprajñāta rests: gross → subtle → sattva-bliss aspect → bare I-am-ness.
+3. ⚠️ Vyāsa's **Yogabhāṣya** and later Vācaspati Miśra and Vijñānabhikṣu attempt to map these two analytic grids onto one graded meditative path.
+4. ❓ Commentarial differences remain over whether **ānanda** and **asmitā** should be counted as independent samāpattis, as supervening aspects of the subtle stage, or as higher refinements beyond the four named sa/nir samāpattis.
 
-- ✅ **Asamprajñāta samādhi** is non-cognitive or supra-cognitive absorption in which all vṛttis cease.
-- ✅ No object stands forth as support in the ordinary sense.
-- ✅ At first only latent **saṃskāras** remain.
-- ✅ Ultimately even these are burnt away.
-- ✅ This is **nirbīja samādhi**, the seedless consummation.
+**Presupposition.** ✅ The reconciliation presupposes that Patañjali can classify the same meditative ascent by different criteria: object-level, cognitive factor, and degree of conceptual purification.
+
+**Example.** ⚠️ A student may compare it to classifying the same university course by year-level and by assessment-mode: the grids overlap, but they are not the same list.
+
+**Objection.** ⚠️ If both schemes operate within sabīja absorption, why not simply call savitarkā, nirvitarkā, savicārā and nirvicārā the four samprajñāta stages?
+
+**Reply.** ✅ Because YS 1.17 itself names the four factors of samprajñāta as vitarka, vicāra, ānanda and asmitā; the sa/nir list belongs to the later samāpatti analysis of gross and subtle object-absorption.
+
+**Safe examination formula.** ⚠️ Write: "Patañjali characterises samprajñāta by vitarka, vicāra, ānanda and asmitā. He then analyses samāpatti as savitarkā/nirvitarkā for gross objects and savicārā/nirvicārā for subtle objects. Commentators map these schemes, but the lists should not be conflated."
+
+### 5.7 Trap box: samprajñāta vs samāpatti lists
+
+```text
+DO NOT WRITE:
+  "The four types of samprajñāta samādhi listed by Patañjali are
+   savitarka, nirvitarka, savicāra and nirvicāra."
+
+WRITE INSTEAD:
+  YS 1.17 fourfold samprajñāta = vitarka + vicāra + ānanda + asmitā.
+  YS 1.42–1.44 samāpatti-bhedas = savitarkā/nirvitarkā and savicārā/nirvicārā.
+```
+
+### 5.8 Ṛtambharā prajñā — truth-bearing insight
+
+**Statement.** ✅ **Ṛtambharā prajñā** (rtambhara prajna; truth-bearing insight) is the special lucidity arising with **nirvicāra-vaiśāradya** (nirvicara-vaisaradya; clarity of subtle absorption), where citta grasps the object with exceptional purity.
+
+**Argument.**
+1. ✅ It is linked to **adhyātma-prasāda**, the inward clarity that follows the perfection of nirvicārā samāpatti.
+2. ✅ It differs from **śruta** (sruta; scriptural/testimonial knowledge) and **anumāna** (anumana; inference), because those normally reach universals or general relations, while ṛtambharā has a **viśeṣa-artha** (visesa-artha; particular object) as its field.
+3. ✅ Thus yogic insight reaches the individual/particular in a way ordinary testimony and inference do not.
+4. ✅ Its saṃskāra obstructs other saṃskāras: the impression born of truth-bearing insight counteracts ordinary afflicted and dispersive impressions.
+5. ✅ When even the saṃskāra of ṛtambharā ceases, seedless absorption (**nirbīja samādhi**, YS 1.51) becomes possible.
+6. ✅ Yoga accepts three pramāṇas — **pratyakṣa**, **anumāna** and **āgama/śabda** — so ṛtambharā is not a fourth pramāṇa.
+7. ⚠️ It is best classified as perfected **yogi-pratyakṣa** (yogi-pratyaksa; extraordinary yogic perception), an extraordinary refinement of perception rather than a new independent means of knowledge.
+
+**Presupposition.** ✅ Yoga presupposes that citta can become so sattva-pure that perception is no longer distorted by ordinary conceptual, affective and karmic deposits.
+
+**Example.** ⚠️ Ordinary inference knows "fire is present because smoke is present" as a general relation; ṛtambharā is like direct yogic disclosure of the concrete object in its particularity, without dependence on discursive mediation.
+
+**Objection.** ⚠️ If ṛtambharā is still a citta-vṛtti, how can it help liberation rather than bind?
+
+**Reply.** ✅ Yoga replies that akliṣṭa vṛttis can cancel kliṣṭa vṛttis; the truth-bearing impression blocks lower impressions and then itself ceases. ⚠️ It is a ladder that must finally be left behind.
+
+**Caution.** ⚠️ Do not simply equate ṛtambharā with Aurobindo's "knowledge by identity" or "supermind". The resemblance is thematic only: in Yoga, ṛtambharā is a purified citta-vṛtti that must finally cease; in Aurobindo, supramental knowledge by identity is reinterpreted as a permanent, world-affirming gnosis.
+
+### 5.9 Asamprajñāta samādhi — beyond cognitive objectification
+
+- ✅ **Asamprajñāta samādhi** is non-cognitive or supra-cognitive absorption in which the vṛttis cease and no object stands forth as support in the ordinary sense.
+- ✅ **YS 1.18** defines it as *virāma-pratyaya-abhyāsa-pūrvaḥ saṃskāra-śeṣo 'nyaḥ* — "the other [samādhi] is preceded by the practice of the idea of cessation, and **has saṃskāra as its residue**."
+- ✅ So on the sūtra's own wording asamprajñāta is characterised by **saṃskāra-śeṣa**: latent impressions may still remain even though cognitive absorption has stopped.
 - ⚠️ It is crucial not to confuse this with sleep or blank unconsciousness; it is the fruition of radical meditative restraint.
 
-### 5.8 Relation between saṃskāra and nirodha
+### 5.9A Nirbīja samādhi — when even the residual seed ceases
 
-- ✅ Even when active vṛttis cease, latent impressions can remain as residual potency.
-- ✅ Hence the path must proceed beyond surface quietness to the burning of even the subtle seeds.
+- ✅ **YS 1.51** states *tasyāpi nirodhe sarva-nirodhān nirbījaḥ samādhiḥ* — "on the restraint of **that too**, everything being restrained, samādhi is **seedless**."
+- ✅ The "that too" is the residual impression left by the preceding stage (the saṃskāra born of ṛtambharā prajñā, YS 1.50); when even it is restrained, absorption becomes **nirbīja**.
+- ⚠️ **Do not equate the two terms.** Asamprajñāta (YS 1.18) is defined by *residual saṃskāra*; nirbīja (YS 1.51) is defined by *the cessation of even that residue*. Nirbīja is best treated as the culminating condition reached within the asamprajñāta phase, not as a synonym for it.
+- ⚠️ ✅ Safe answer formula: *asamprajñāta = vṛttis stopped, saṃskāra-śeṣa remains; nirbīja = even that residual saṃskāra restrained.*
+
+### 5.10 Relation between saṃskāra and nirodha
+
+- ✅ Even when active vṛttis cease, latent impressions can remain as residual potency — this is exactly the *saṃskāra-śeṣa* of YS 1.18.
+- ✅ Hence the path must proceed beyond surface quietness to the restraint of even the subtle seed, which is what YS 1.51 marks as nirbīja.
 - ⚠️ This explains why temporary calm or trance is not yet liberation.
 
-### 5.9 Dharmamegha-samādhi
+### 5.11 Dharmamegha-samādhi
 
 - ✅ **Dharmamegha-samādhi** is the highest samādhi immediately preceding kaivalya.
 - ✅ The image is that of a **cloud of dharma** raining down the fullness of discriminative knowledge.
 - ✅ At this level, even fascination with extraordinary knowledge or powers is relinquished.
 - ⚠️ It marks the consummation of non-attachment: the yogin no longer seeks omniscience, attainment or display.
 
-### 5.10 Samādhi and siddhis
+### 5.12 Samādhi and siddhis
 
 - ✅ Higher concentrations may yield extraordinary capacities or **siddhis**.
 - ⚠️ But Yoga warns that these are obstacles if appropriated by egoity or fascination.
 - ⚠️ They belong to the side-effects of concentration, not to the essence of kaivalya.
 
-### 5.11 Role of Īśvara in samādhi
+### 5.13 Role of Īśvara in samādhi
 
 - ✅ **Īśvara-praṇidhāna** is both a **niyama** and an independent means conducive to samādhi.
 - ✅ Devotion or surrender to Īśvara stabilizes citta and helps overcome obstacles.
 - ✅ Īśvara is also linked to the meditative use of **praṇava (OṂ)**.
 - ⚠️ In Yoga, theism is practical: Īśvara functions as an unsurpassed focus, model and aid to concentration.
 
-### 5.12 Obstacles and their removal
+### 5.14 Obstacles and their removal
 
 - ✅ Classical Yoga lists obstacles (**antarāyas**) such as disease, mental dullness, doubt, carelessness, laziness, sensuality, false perception, failure to attain stages and instability in attained stages.
 - ✅ Īśvara-praṇidhāna is one of the important means of overcoming these.
 - ⚠️ This is why questions on samādhi often open into the role of God: Yoga's God is not a creator-first doctrine but a **practice-enabling doctrine**.
 
-### 5.13 Samādhi in the 2022 PYQ
+### 5.15 Samādhi in the 2022 PYQ
 
 - ✅ The 2022 question required the **nature and stages of samādhi** along with the **role of Īśvara**.
-- ⚠️ Therefore a complete answer must cover the distinction between samprajñāta and asamprajñāta, the internal stages, dharmamegha as culmination, and devotional concentration on Īśvara as an aid.
+- ⚠️ Therefore a complete answer must cover the distinction between samprajñāta and asamprajñāta (including YS 1.18's *saṃskāra-śeṣa* and its further culmination in YS 1.51's nirbīja), the YS 1.17 fourfold characterisation, the samāpatti-bhedas, dharmamegha as culmination, and devotional concentration on Īśvara as an aid.
 
-### 5.14 Mini-conclusion on samādhi
+### 5.16 Mini-conclusion on samādhi
 
-- ⚠️ A sharp answer line: **samādhi is the progressive refinement of concentration from object-supported cognitive absorption to seedless cessation, with Īśvara-praṇidhāna as a powerful aid but not a substitute for discriminative realization.**
+- ⚠️ A sharp answer line: **samādhi is the progressive refinement of concentration from object-supported cognitive absorption (sabīja, YS 1.46) through non-cognitive absorption with residual impressions (asamprajñāta, YS 1.18: saṃskāra-śeṣa) to the restraint of even that residue (nirbīja, YS 1.51), with YS 1.17's samprajñāta factors, the samāpatti refinements, and Īśvara-praṇidhāna as a powerful aid but not a substitute for discriminative realization.**
 
 ## 6. KAIVALYA
 
@@ -627,11 +765,20 @@ Kaivalya
 - ✅ Citta, as a product of prakṛti, no longer binds; its function is exhausted.
 - ⚠️ The metaphor is one of reversal of the evolutionary process for soteriological purposes.
 
-### 6.8 Svarūpa-pratiṣṭhā
+
+### 6.8 Kaivalya transition: farmer, burnt seed and potter's wheel
+
+- ✅ The Kaivalya-pāda uses the **kṣetrika** (ksetrika; farmer) image: the farmer does not push water into the field by force; he breaches the embankment, and water flows by its own nature.
+- ⚠️ Exam use: yogic discipline removes obstructions; it does not manufacture puruṣa's freedom, because puruṣa is already free and prakṛti's processes complete themselves when obstacles are removed.
+- ✅ The burnt seed (**dagdha-bīja**) image explains why destroyed kleśas cannot germinate into future bondage.
+- ⚠️ The potter's wheel image explains residual embodiment: even after liberating knowledge removes the push of fresh karma, the already-moving psycho-physical complex may continue briefly until its momentum is exhausted.
+- ⚠️ This allows a careful account of **jīvanmukti** (jivanmukti; liberation while living) language in Yoga: the puruṣa is no longer bound, though bodily-citta processes may continue until their residual cause is spent.
+
+### 6.9 Svarūpa-pratiṣṭhā
 
 - ✅ Kaivalya may also be expressed as the abiding of consciousness in its own nature — **svarūpa-pratiṣṭhā**.
 - ⚠️ This continues the logic of the foundational sūtra: when vṛttis cease, the seer stands in itself.
-### 6.9 How Yoga kaivalya differs from Advaita mokṣa
+### 6.10 How Yoga kaivalya differs from Advaita mokṣa
 
 | Yoga | Advaita Vedānta |
 |---|---|
@@ -643,7 +790,7 @@ Kaivalya
 - ⚠️ Therefore kaivalya is not identity but **disentanglement**.
 - ⚠️ Cross-reference: [Vedānta](./Vedanta.md).
 
-### 6.10 How Yoga kaivalya differs from Nyāya apavarga
+### 6.11 How Yoga kaivalya differs from Nyāya apavarga
 
 | Yoga kaivalya | Nyāya apavarga |
 |---|---|
@@ -654,14 +801,14 @@ Kaivalya
 - ⚠️ UPSC-safe line: **Nyāya emphasizes cessation of suffering; Yoga emphasizes the isolation and self-abidance of puruṣa.**
 - ⚠️ Cross-reference: [Nyāya-Vaiśeṣika](./Nyaya-Vaisesika.md).
 
-### 6.11 Īśvara and kaivalya
+### 6.12 Īśvara and kaivalya
 
 - ✅ Īśvara assists the aspirant but does **not grant** kaivalya as an external gift.
 - ✅ Liberation finally depends on the yogin's own **viveka-khyāti**.
 - ✅ Īśvara is the perfect model, object of devotion and remover of obstacles.
 - ⚠️ This is central to the 2025 demand on the nature of God and his role in kaivalya.
 
-### 6.12 What kaivalya is not
+### 6.13 What kaivalya is not
 
 - ⚠️ Not **union with God** in the bhakti-school sense.
 - ⚠️ Not **identity with Brahman** in the Advaitic sense.
@@ -669,7 +816,7 @@ Kaivalya
 - ⚠️ Not **mere painlessness** abstracted from the self's own luminosity.
 - ⚠️ Not **destruction of mind as substance**; rather, cessation of its binding modifications and reabsorption of its function into prakṛti.
 
-### 6.13 Mini-conclusion on kaivalya
+### 6.14 Mini-conclusion on kaivalya
 
 - ⚠️ Best exam sentence: **kaivalya is the isolation of puruṣa from prakṛti, reached through discriminative discernment matured in samādhi, with guṇas returning to quiescence and consciousness abiding in its own form.**
 
@@ -788,7 +935,32 @@ Kaivalya
 | Meditation | samādhi aimed at puruṣa-prakṛti discrimination | meditation aimed at insight into impermanence, non-self, dependent origination |
 | Liberation | kaivalya | nirvāṇa |
 
-### 8.5 Yoga and philosophy of religion
+
+### 8.5 Kaivalya-pāda realism against Vijñānavāda/Yogācāra
+
+**Statement.** ✅ The Kaivalya-pāda contains a genuine realist polemic: Yoga is not a mind-only idealism but a Sāṃkhya-realist system in which objects, citta and puruṣa are distinct.
+
+**Pūrvapakṣa.** ⚠️ **Vijñānavāda/Yogācāra** argues that what is taken as an external object can be explained as cognition-only; the object need not be admitted as independently real.
+
+**Siddhānta.** ✅ Yoga's reply is Sāṃkhya-realism: objects are not reducible to a single cognition, citta is itself knowable, and puruṣa is required as the witness of the mind.
+
+**Argument.**
+1. ✅ **Vastu-sāmya / ekacitta-tantra argument.** An object is not dependent on one mind; if it were **ekacitta-tantra** (ekacitta-tantra; dependent on a single mind), it would vanish when that mind ceased to cognise it. ⚠️ The persistence and common availability of objects support object-realism.
+2. ✅ **Mind's knownness argument.** Citta is not self-illuminating (**na tat svābhāsam**, na tat svabhasam), because it is itself **dṛśya** (drsya; an object seen) for puruṣa. ⚠️ A purely mind-only theory struggles to terminate the regress of cognitions cognising cognitions.
+3. ✅ **Against simultaneous self-cognition.** The mind cannot fully apprehend itself and its object in the same act as though it were both lamp and illuminated object. ⚠️ Yoga therefore distinguishes the object, the mental modification and the witnessing puruṣa.
+4. ✅ **Uparāga argument.** An object is known when citta is **uparakta** (uparakta; coloured/affected) by it; whether the object is known or unknown depends on citta's colouring, which implies that the object is not identical with the cognition itself.
+
+**Presupposition.** ✅ The argument presupposes Yoga's three-term realism: object (**viṣaya**), mental modification (**citta-vṛtti**) and witness (**puruṣa**) are analytically distinct.
+
+**Example.** ✅ The sphaṭika crystal near a flower again helps: the crystal becomes coloured by the flower, but the flower is not created by the crystal's colouration; similarly, citta is coloured by an object that stands outside the cognition.
+
+**Objection.** ⚠️ The Yogācāra can reply that shared karmic traces explain intersubjective object-appearance without positing external objects.
+
+**Reply.** ⚠️ Yoga reconstructs the answer by insisting that shared appearance itself is better explained by a common object plus multiple cittas than by private cognitions alone; the residual force is that Yoga must still explain precisely how external objects colour an insentient but subtle citta.
+
+**Exam payoff.** ⚠️ This material shows that Yoga is not only a praxis manual; it defends a metaphysically committed realism against Buddhist idealism.
+
+### 8.6 Yoga and philosophy of religion
 
 - ⚠️ Yoga's Īśvara is useful for cross-paper deployment with [Notions of God](../../paper-2/philosophy-of-religion/Notions-of-God.md) and [Religious Experience](../../paper-2/philosophy-of-religion/Religious-Experience.md).
 - ⚠️ It represents a distinctive Indian model of God as contemplative principle rather than creator-first metaphysical absolute.
@@ -848,13 +1020,14 @@ Kaivalya
 1. ⚠️ **Kaivalya ≠ Advaita mokṣa ≠ Nyāya apavarga.** Yoga's kaivalya is isolation of puruṣa, not identity with Brahman and not merely cessation of pain.
 2. ⚠️ **Yoga's Īśvara is not a creator-God in the Nyāya sense.** Do not import nimitta-kāraṇa language uncritically.
 3. ⚠️ **Citta is not identical with manas alone.** It includes buddhi, ahaṃkāra and manas functioning together.
-4. ⚠️ **Samprajñāta and asamprajñāta must not be reversed.** Samprajñāta still has object/seed; asamprajñāta is seedless.
-5. ⚠️ **Kliṣṭa/akliṣṭa qualifies vṛttis, not kleśas.** Kleśas are inherently afflictive.
-6. ⚠️ **Citta-vṛtti-nirodha does not mean violent destruction of mind.** It means cessation of modifications so the seer abides in itself.
-7. ⚠️ **Abhiniveśa is present even in the wise.** Do not reduce it to mere doctrinal ignorance.
-8. ⚠️ **Sleep is a vṛtti, not liberation.** Nidrā is not samādhi.
-9. ⚠️ **Yoga shares Sāṃkhya's tattva framework.** Do not write as if Yoga has a wholly separate cosmology.
-10. ⚠️ **Īśvara helps but does not grant kaivalya from outside.** Liberation finally follows viveka-khyāti.
+4. ⚠️ **Samprajñāta and asamprajñāta must not be reversed, and asamprajñāta must not be flatly equated with nirbīja.** Samprajñāta still has object-support (*sabīja*, YS 1.46); asamprajñāta (YS 1.18) is defined as *saṃskāra-śeṣa*, i.e. residual impressions may still remain; nirbīja (YS 1.51) is the further condition in which even that residual saṃskāra is restrained.
+5. ⚠️ **Do not conflate YS 1.17 with YS 1.42–1.44.** Samprajñāta's four factors are vitarka, vicāra, ānanda and asmitā; savitarkā/nirvitarkā/savicārā/nirvicārā are samāpatti-bhedas.
+6. ⚠️ **Kliṣṭa/akliṣṭa qualifies vṛttis, not kleśas.** Kleśas are inherently afflictive.
+7. ⚠️ **Citta-vṛtti-nirodha does not mean violent destruction of mind.** It means cessation of modifications so the seer abides in itself.
+8. ⚠️ **Abhiniveśa is present even in the wise.** Do not reduce it to mere doctrinal ignorance.
+9. ⚠️ **Sleep is a vṛtti, not liberation.** Nidrā is not samādhi.
+10. ⚠️ **Yoga shares Sāṃkhya's tattva framework.** Do not write as if Yoga has a wholly separate cosmology.
+11. ⚠️ **Īśvara helps but does not grant kaivalya from outside.** Liberation finally follows viveka-khyāti.
 
 ## 11. KEYWORD & STATEMENT BANK
 
@@ -900,6 +1073,99 @@ Kaivalya
 - ❌ **Trap / answer consequence:** Do not equate asamprajñāta with sleep or automatically with final kaivalya; state the role of prior discipline and latent impressions.
 
 <!-- expanded-pyq-depth:end -->
+
+
+## 11A. PRESUPPOSITION LEDGER
+
+| Doctrine | Presupposition it rests on | What collapses if the presupposition is denied |
+|---|---|---|
+| ✅ **Citta-vṛtti-nirodha** | ✅ Citta really takes forms, can be restrained, and is distinct from puruṣa. | ⚠️ Nirodha becomes mere mental quietism, not liberation. |
+| ✅ **Kleśa theory** | ✅ Avidyā and its derivatives causally colour cognition, action and rebirth. | ⚠️ Yoga loses its diagnosis of bondage and becomes moral advice only. |
+| ✅ **Reflection/asmitā** | ✅ Puruṣa is inactive consciousness; citta is transparent but insentient. | ⚠️ Bondage of a pure puruṣa becomes inexplicable. |
+| ✅ **Aṣṭāṅga-yoga** | ✅ Body, conduct, breath, senses and attention condition citta's purity. | ⚠️ Samādhi becomes disconnected from ethics and discipline. |
+| ✅ **Samādhi** | ✅ Attention can become progressively object-transparent and finally seedless. | ⚠️ Meditation reduces to trance or concentration without soteriological force. |
+| ✅ **Karma-vipāka** | ✅ Actions leave subtle deposits rooted in kleśas and ripen across experience. | ⚠️ Yoga becomes therapeutic psychology rather than a theory of saṃsāra and release. |
+| ✅ **Īśvara** | ✅ A special puruṣa untouched by kleśa-karma-vipāka-āśaya is possible and useful for practice. | ⚠️ Yoga collapses toward nirīśvara Sāṃkhya and loses its distinctive devotional aid. |
+| ✅ **Kaivalya** | ✅ Puruṣa is ultimately distinct from prakṛti, and prakṛti functions for puruṣa's experience and release. | ⚠️ Isolation becomes unintelligible; Advaitic identity or Buddhist no-self becomes more plausible. |
+
+## 11B. PŪRVAPAKṢA–SIDDHĀNTA LEDGER
+
+| Objector | Objection | Yoga's reply | Residual force ⚠️ |
+|---|---|---|---|
+| ✅ **Buddhist kṣaṇikavāda** | ⚠️ No persisting citta is needed; a stream of momentary cognitions explains experience. | ✅ Yoga invokes citta as a continuing prakṛtic substrate bearing saṃskāras and undergoing pariṇāma. | ⚠️ Momentariness can still explain continuity through causal series without a substance. |
+| ✅ **Yogācāra/Vijñānavāda** | ⚠️ External objects are unnecessary; cognition-only explains appearance. | ✅ Kaivalya-pāda realism: objects are not dependent on a single mind, and citta is known by puruṣa. | ⚠️ Shared karmic appearance remains a sophisticated idealist counter. |
+| ✅ **Advaita Vedānta** | ⚠️ Why many puruṣas, and why make Īśvara only a special puruṣa rather than the sole reality? | ⚠️ Yoga replies from experience-plurality, Sāṃkhyan realism and the practical need for discriminating each puruṣa from prakṛti. | ⚠️ Advaita presses the unity of consciousness more radically. |
+| ✅ **Nyāya** | ⚠️ The self is a substance with adventitious consciousness; why call puruṣa consciousness itself, and why desire cessation of all vṛttis? | ⚠️ Yoga replies that consciousness cannot be an accidental property of the true seer, and nirodha reveals rather than destroys awareness. | ⚠️ Nyāya's commonsense realism about persons and cognition remains attractive. |
+| ✅ **Cārvāka** | ⚠️ Puruṣa, karma, rebirth and kaivalya are unverifiable beyond perception. | ⚠️ Yoga replies through disciplined yogi-pratyakṣa, pragmatic transformation and the inadequacy of material pleasure to end suffering. | ⚠️ Public verification remains difficult. |
+| ✅ **Mīmāṃsā** | ⚠️ A non-creator Īśvara is otiose; ritual action, not yoga, secures dharma. | ⚠️ Yoga replies that ritual cannot by itself remove avidyā/asmitā, while Īśvara-praṇidhāna directly stabilizes citta. | ⚠️ The traditional Yoga proof of Īśvara's necessity is weaker than Nyāya's creator-God argument. |
+
+## 11C. INTER-SCHOOL POSITIONING
+
+| School | Number of pramāṇas | Ontology of self | Status of God | Theory of causation | Nature of liberation | Jīvanmukti? |
+|---|---|---|---|---|---|---|
+| ✅ **Yoga** | ✅ 3: pratyakṣa, anumāna, āgama/śabda | ✅ many puruṣas, pure inactive consciousness | ✅ Īśvara as puruṣa-viśeṣa | ✅ satkāryavāda/pariṇāmavāda for prakṛti | ✅ kaivalya, isolation of puruṣa | ⚠️ qualified residual-embodiment language; final isolation when causes are exhausted |
+| ✅ **Sāṃkhya** | ✅ 3 | ✅ many puruṣas | ✅ classical nirīśvara tendency | ✅ satkāryavāda/pariṇāmavāda | ✅ kaivalya through viveka | ⚠️ broadly compatible with liberated-while-living language |
+| ✅ **Nyāya-Vaiśeṣika** | ✅ 4 | ✅ self as enduring substance with qualities | ✅ creator/efficient cause God in later Nyāya | ✅ ārambhavāda/asatkāryavāda | ✅ apavarga as cessation of suffering | ⚠️ not central; liberation usually after embodied bondage ceases |
+| ⚠️ **Buddhism** | ⚠️ often 2 in epistemological schools: pratyakṣa and anumāna | ✅ no permanent self | ✅ no creator God | ✅ dependent origination, often with kṣaṇikavāda | ✅ nirvāṇa | ✅ nirvāṇa-with-remainder in some frameworks |
+| ⚠️ **Jainism** | ⚠️ pramāṇas grouped as direct/indirect with subdivisions | ✅ many jīvas | ✅ no creator God; perfected siddhas | ✅ real substance with changing modes under anekāntavāda | ✅ kevala-jñāna and final siddhahood | ✅ embodied kevalin before final release |
+| ⚠️ **Mīmāṃsā** | ❓ sub-school variation, commonly 5 or 6 | ✅ enduring self | ✅ creator God not necessary in classical ritualism | ✅ ritual action produces apūrva | ✅ cessation of bondage / attainment linked to dharma | ⚠️ not a central doctrine |
+| ✅ **Advaita Vedānta** | ✅ commonly 6 | ✅ one non-dual ātman-Brahman | ✅ Īśvara as saguṇa Brahman at empirical level | ✅ vivartavāda at the highest level | ✅ mokṣa as Brahman-realization | ✅ strongly admitted |
+
+**Precise Sāṃkhya–Yoga difference.** ✅ Yoga is not merely "Sāṃkhya plus God" in a decorative sense. ⚠️ It retains Sāṃkhya's puruṣa-prakṛti ontology but adds (i) **Īśvara-praṇidhāna** as a practical means, (ii) a more elaborate psychology of citta-vṛtti-nirodha, (iii) samādhi-methodology and yogi-pratyakṣa, and (iv) a systematic path from kleśa-attenuation to kaivalya. ⚠️ In a discuss-answer, say: **Sāṃkhya supplies the metaphysical grammar; Yoga turns it into a disciplined technology of liberation with Īśvara as a privileged contemplative aid.**
+
+
+## 11D. CONTROLLED WESTERN COMPARISON
+
+| Western parallel | Point of contact | Disanalogy / limit |
+|---|---|---|
+| ⚠️ **Husserl's epoché/reduction vs nirodha** | ⚠️ Both suspend the natural attitude toward ordinary experience. | ⚠️ Epoché is methodological and retains the constituting ego; nirodha is soteriological and aims at cessation of the mental stream's binding modifications. |
+| ⚠️ **Descartes' cogito vs puruṣa** | ⚠️ Both make consciousness indubitable. | ⚠️ The cogito yields a thinking substance that acts; puruṣa is inactive, non-agentive witness-consciousness. |
+| ⚠️ **Kant's transcendental unity of apperception vs asmitā** | ⚠️ Both notice an "I think" accompanying representations. | ⚠️ Kant makes it a condition of objectivity; Yoga treats egoic I-am-appropriation as an affliction to be dissolved. |
+| ⚠️ **Spinoza's third kind of knowledge vs ṛtambharā** | ⚠️ Both are non-discursive and higher than ordinary inference. | ⚠️ Spinoza's is knowledge of God/Nature under an attribute; Yoga's ṛtambharā is object-specific insight that must itself cease. |
+| ⚠️ **Aristotle's habituation vs abhyāsa-vairāgya** | ⚠️ Both transform character through repeated discipline. | ⚠️ Aristotle aims at virtuous flourishing in the polis; Yoga aims at disentangling puruṣa from prakṛti. |
+| ⚠️ **Freud's unconscious vs saṃskāra/vāsanā** | ⚠️ Both posit latent dispositions shaping conduct. | ⚠️ Saṃskāras are karmically indexed and metaphysically real deposits in a rebirth framework, not merely a psychodynamic hypothesis. |
+
+**Rubric.** ⚠️ Western parallels are illustrative garnish only; they never substitute for the Indian argument, and in an answer they must appear as at most one or two lines after the Yoga case is complete.
+
+## 11E. DIRECTIVE DECODER
+
+| Directive | What the examiner is testing | The structural move for a Yoga answer | How the closing verdict must be phrased |
+|---|---|---|---|
+| ✅ **Explain** | ✅ Accuracy of definition and canonical classification. | ✅ Define the term, give the list/stages, add a brief mechanism. | ⚠️ "Thus X functions as Y in Yoga's path to kaivalya." |
+| ✅ **Discuss** | ✅ Breadth plus significance. | ✅ Doctrine → significance → interpretive spread → exam trap. | ⚠️ Balanced but affirmative: "Hence the doctrine is central, though not exhaustive." |
+| ✅ **Examine** | ✅ Internal logic and assumptions. | ✅ State claim, unpack premises, show consequence for citta/kleśa/samādhi/kaivalya. | ⚠️ "On its own presuppositions, the doctrine coherently explains..." |
+| ✅ **Critically examine** | ✅ Objection-handling. | ✅ Doctrine → named objection → Yoga reply → residual weakness. | ⚠️ Guarded verdict: "Strong as phenomenology/practice, weaker at metaphysical interaction." |
+| ✅ **Analyse** | ✅ Causal structure. | ✅ Break into mechanism: avidyā → asmitā → vṛtti/karma → vipāka → nirodha. | ⚠️ "The doctrine is best read as a causal psychology of liberation." |
+| ✅ **Evaluate** | ✅ Weighing strengths and weaknesses. | ✅ Give merits, limitations, and final graded assessment. | ⚠️ Use explicit grade: "philosophically strong in X, vulnerable in Y." |
+| ✅ **Compare** | ✅ Similarities and differences across schools. | ✅ Use axes: self, God, causation, liberation, pramāṇa. | ⚠️ End with precise uniqueness of Yoga, not a generic similarity. |
+| ✅ **Distinguish** | ✅ Sharp conceptual separation. | ✅ Table of axes; define both sides; add one trap line. | ⚠️ "Therefore A must not be reduced to B." |
+| ✅ **Elucidate** | ✅ Clarifying a dense statement. | ✅ Translate the statement, identify terms, illustrate with citta/reflection examples. | ⚠️ "The statement means..., not..." |
+| ✅ **Comment** | ✅ Thesis-focused evaluation in brief. | ✅ One clear stand, two doctrinal supports, one qualification. | ⚠️ End with a crisp judgement, not a long summary. |
+| ✅ **Bring out** | ✅ Making implicit implications explicit. | ✅ Extract presuppositions, consequences and exam relevance. | ⚠️ "This brings out Yoga's deeper claim that..." |
+| ✅ **Do you agree?** | ✅ Ability to take a qualified position. | ✅ State agreement level, support with doctrine, concede limitation. | ⚠️ "I agree insofar as..., but not if it means..." |
+
+## 11F. GRADED VERDICT ON YOGA
+
+**Philosophically strong ✅**
+- ✅ Yoga gives a rigorous phenomenology of mental process: vṛtti, smṛti, nidrā, saṃskāra, kleśa and samādhi form a coherent psychology.
+- ✅ It integrates psychology, ethics and metaphysics: yama-niyama, karma-vipāka and citta-nirodha are not separate compartments.
+- ✅ It offers an operational path: abhyāsa, vairāgya, kriyā-yoga, aṣṭāṅga and samādhi supply a disciplined method rather than mere speculation.
+- ✅ Its Kaivalya-pāda realist arguments show that Yoga is metaphysically committed, not merely a praxis manual.
+
+**Philosophically weak ⚠️**
+- ⚠️ It inherits the puruṣa-prakṛti interaction problem: mere proximity explains much, but not all critics will accept it.
+- ⚠️ Īśvara has limited explanatory role: he aids practice but is not creator, material cause or final giver of kaivalya.
+- ⚠️ The value of contentless pure consciousness can be questioned by schools that define fulfilment through knowledge, relation, bliss or activity.
+
+**Genuinely contested ❓**
+- ❓ The precise commentarial status of ānanda/asmitā as separate samāpattis or higher aspects of samprajñāta remains debated.
+- ❓ Whether kaivalya should be described as blissful self-abidance or as austere isolation is interpreted differently by expositors.
+- ❓ The historical unity and layering of the Yogasūtra tradition remain scholarly questions; do not build a UPSC answer on uncertain dating claims.
+
+**Ready verdicts.**
+- ⚠️ **10 marks:** "Yoga is best read as a disciplined psychology of citta-nirodha grounded in Sāṃkhya dualism and completed in kaivalya."
+- ⚠️ **15 marks:** "Its strength lies in linking mental discipline, moral causation and liberation; its vulnerability lies in the unexplained proximity of inactive puruṣa and active prakṛti."
+- ⚠️ **20 marks:** "Yoga is philosophically richer than a praxis manual: it offers a realist metaphysics, a subtle moral psychology and a graded meditative epistemology, though its dualism and limited Īśvara leave live objections for Advaita, Nyāya and Buddhist critics."
 
 ## 12. PYQ ROUTING (2018–2025)
 
@@ -960,13 +1226,8 @@ Conclusion: kaivalya as the school's final soteriological meaning.
 
 ### 13.4 Directive-word cues for Yoga answers
 
-| Directive | What examiner wants in Yoga topic |
-|---|---|
-| **Explain** | definition + canonical classification + brief mechanism |
-| **Discuss** | doctrine plus significance and interpretive spread |
-| **Critically examine** | doctrine + objection + reply + guarded verdict |
-| **Comment** | brief thesis-focused evaluative note |
-| **Distinguish** | axis-wise comparison: Yoga vs Sāṃkhya / Advaita / Nyāya |
+- ⚠️ The expanded directive decoder is now consolidated in **§11E. DIRECTIVE DECODER** immediately before the PYQ routing section.
+- ✅ The original cues are preserved there and expanded into directive-specific structure, examiner demand and closing-verdict formulae.
 
 ## 14. LINK-OUTS
 
@@ -984,6 +1245,8 @@ Conclusion: kaivalya as the school's final soteriological meaning.
 
 - Patañjali, *Yoga-sūtra*.
 - Vyāsa, *Yoga-bhāṣya*.
+- Vācaspati Miśra, *Tattvavaiśāradī*.
+- Vijñānabhikṣu, *Yogavārttika*.
 - S. Chatterjee and D. Datta, *An Introduction to Indian Philosophy*.
 - C.D. Sharma, *A Critical Survey of Indian Philosophy*.
 - S. Radhakrishnan, *Indian Philosophy*, Vol. II.

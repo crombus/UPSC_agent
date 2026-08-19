@@ -197,6 +197,90 @@ further show change operating at both textual/elite and local/folk levels simult
 - ✅ `Philosophy/paper-2/socio-political/Humanism-Secularism-Multiculturalism.md` —
   secularism as political philosophy (thinker-based treatment).
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** Theory is valuable only when it changes the answer’s causal logic. This
+> Core now owns the older demand families that were previously stranded in `advanced/12`.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Do you agree** customs suppress reason | Critical evaluation, not a civilisational verdict | identify practice -> power/knowledge mechanism -> reform/agency -> qualification |
+| **What is and how does** cryptocurrency affect society | Social effects distinct from instrument | define/cross-link instrument -> access/trust/risk/inequality -> factual boundary |
+| **Enumerate** continuity amid change | Mechanisms of persistence | family/kinship, ritual, language/local culture, institutions -> change interaction |
+| **Illustrate** fast-food growth | Social change mechanism | urban time/market/delivery/aspiration -> health tension -> qualification |
+| **Distinguish** Sanskritisation, Westernisation, modernisation | Three axes | status -> values -> structure -> mixed case |
+
+### 13.2 Thesis bank
+
+- **T1:** ⚠️ Social change is multi-axial: a practice can change institutionally while
+  retaining cultural meaning, or persist culturally while its power relation is contested.
+- **T2:** ⚠️ Reasoned reform must distinguish a custom’s lived meaning from the hierarchy or
+  harm that a particular application can reproduce.
+- **T3:** ⚠️ A technology’s societal effect depends on access, regulation, use and risk—not
+  the technology’s label.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — customs, reason and obscurantism (2020 GS-I).** State that custom is not
+automatically irrational. Identify when a practice blocks inquiry, equal agency or evidence-
+based choice; use reform/education and internal dissent as change mechanisms. Qualify with
+pluralism and avoid naming a community as inherently irrational.
+
+**15 marks — continuity of traditional values amid social change (2021 GS-I).** Enumerate
+four mechanisms: family/kin socialisation, ritual/festival and local culture, language/
+regional identity, and adaptation through universalisation/parochialisation. For each,
+state the parallel change pressure (education, migration, media, law). Conclude with T1.
+
+**20 marks — technology and social change.** Use a two-layer answer: instrument facts and
+regulation are cross-linked to Economy/Science; Society analyses access, trust, work,
+identity and unequal risk. Apply this to cryptocurrency without asserting a price, legal
+status or adoption figure. Add a fast-food/urban-time example and a critical conclusion.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Three axes.** *Claim:* change cannot be read on one scale. *Evidence:* **M.N.
+  Srinivas’s Sanskritisation and Westernisation**, contrasted with **modernisation**.
+  *Significance:* separates status emulation, value change and structural rationalisation.
+  *Limitation:* processes can coexist and their pace varies.
+- **E2 — Two-way culture.** *Claim:* continuity is adaptive, not static. *Evidence:*
+  **Robert Redfield/McKim Marriott’s Great Tradition–Little Tradition** and
+  universalisation/parochialisation. *Significance:* supplies a mechanism for the 2021
+  continuity demand. *Limitation:* use a specific case cautiously; not every local practice
+  follows the pattern.
+- **E3 — Social boundary.** *Claim:* cryptocurrency has a social as well as financial
+  effect. *Evidence:* the ledger’s 2021 cross-cut with
+  `Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets`. *Significance:*
+  permits access/trust/fraud/inequality analysis. *Limitation:* do not supply an exchange
+  rate, legal claim, environmental estimate or adoption statistic from memory.
+- **E4 — Consumption change.** *Claim:* food practices respond to time and market systems.
+  *Evidence:* 2025 fast-food demand, read through urban time constraints, delivery,
+  aspiration and health concern. *Significance:* connects an unfamiliar lifestyle question
+  to social-change mechanisms. *Limitation:* Topic 11 owns globalisation-specific detail.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Reject both “all tradition is oppressive” and “all inherited practice is beyond
+  reasoned criticism.”
+- ⚠️ Keep secularisation (sociological process) distinct from secularism (doctrine).
+- ⚠️ Do not let a cross-owner instrument become a source of fabricated technical facts.
+- **Verdict:** “Indian social change is most intelligible as selective adaptation: inherited
+  forms persist, are contested and are repurposed through distinct status, value and
+  institutional processes.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2020 · GS-I · Q19 | Customs/traditions, reason and obscurantism | §13.1-13.3, T2 |
+| 2021 · GS-I · Q19 | Cryptocurrency and society | §13.1, T3/E3 |
+| 2021 · GS-I · Q20 | Continuity amid social change | §13.3, T1/E1-E2 |
+| 2025 · GS-I · Q18 | Fast-food growth amid health concerns | §13.1, E4 |
+
+> **Routing correction:** Core routing supersedes old `advanced/12` pointers; the Economy
+> owner remains mandatory only for financial-instrument facts, not social analysis.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

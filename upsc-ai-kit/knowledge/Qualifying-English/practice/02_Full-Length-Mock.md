@@ -1,20 +1,20 @@
-# UPSC Qualifying English - Full-Length Mock 1
+# UPSC Qualifying English — Full-Length Mock 1
 
 > **Time:** Three Hours | **Maximum Marks:** 300  
-> All questions are compulsory. Write answers in English. Observe specified word limits.
+> All questions are compulsory. Write answers in English. Observe specified word limits. Do not consult Core files or the key while attempting.
 
 ## Q1. Essay (100 marks)
 
 Write an essay in about **600 words** on any one:
 
 1. Convenience without responsibility weakens citizenship.
-2. Public institutions earn trust through everyday conduct.
-3. Technology can widen opportunity as well as inequality.
+2. Efficiency is not the same as effectiveness.
+3. Certainty can be a barrier to learning.
 4. Reading is an exercise in freedom.
 
 ## Q2. Comprehension (5 × 15 = 75 marks)
 
-Read the passage and answer in clear, correct and concise language.
+Read the passage and answer in clear, correct and concise language. Where a question has components, the split shown is a **practice diagnostic**, not a claim about UPSC’s internal marking.
 
 Public debate often treats maintenance as an unimportant activity that begins only after a new road, school, irrigation channel or digital platform has been created. Construction attracts attention because it produces a visible object and a convenient date of inauguration. Maintenance, by contrast, is repetitive, dispersed and difficult to celebrate. Yet the quality of public infrastructure depends less on the moment at which it is opened than on the regularity with which it is inspected, repaired and adapted.
 
@@ -26,15 +26,15 @@ Good maintenance requires information from users. A village water committee may 
 
 Maintenance should therefore be understood as a form of public ethics. It respects the money already spent, protects users from preventable harm and extends the life of scarce assets. It is also more equitable than repeated replacement, because poor communities are least able to find private alternatives when a public service fails. A state that maintains well demonstrates that it values continuity, reliability and the daily experience of citizens, not only the announcement of new projects.
 
-1. Why does construction receive more attention than maintenance?
-2. How can minor defects produce a major failure?
-3. What financial and institutional causes of poor maintenance does the author identify?
-4. What role can users play, and when does their information become effective?
-5. Why does the author call maintenance a form of public ethics?
+1. Why does construction receive more attention than maintenance? **(15)**
+2. Why is a “sudden disaster” often a misleading description of failure in this passage? **(15)**
+3. State the financial causes **(7)** and institutional causes **(8)** of poor maintenance identified by the author.
+4. What does “an appearance of responsiveness” mean in context? **(7)** What must occur before user information becomes effective? **(8)**
+5. Give a suitable title to the passage **(4)** and explain the author’s attitude to maintenance with two grounded reasons **(11)**.
 
-## Q3. Precis (75 marks)
+## Q3. Précis (75 marks)
 
-Make a précis of the following passage in about **one-third** of its length. Do not give a title. Use your own language.
+Make a précis of the following passage in about **one-third** of its length. **Do not give a title.** Use your own language. Record source, target and final word counts on rough work.
 
 Modern life rewards speed. Messages travel instantly, goods arrive rapidly and public opinion forms before facts have been fully examined. Speed can save lives, reduce costs and connect people who would otherwise remain isolated. It is therefore tempting to treat every delay as evidence of incompetence. Yet many valuable forms of work depend not on slowness for its own sake but on the time required for attention, verification and judgment.
 
@@ -90,14 +90,14 @@ transparent, scarce, voluntary, rigid, temporary
 ### A. Transform without changing meaning (10 × 1)
 
 1. The team completed the survey. (Passive)
-2. She said, "I have submitted the form." (Indirect)
+2. She said, “I have submitted the form.” (Indirect)
 3. As soon as the rain stopped, work resumed. (Hardly...when)
 4. If you do not listen, you will misunderstand. (Unless)
 5. He was so weak that he could not walk. (Too...to)
 6. He is honest. He is efficient. (Not only...but also)
 7. Although the task was difficult, she completed it. (In spite of)
 8. They are ready, ___? (Question tag)
-9. The office was closed because it was a holiday. (Being...)
+9. The office was closed because it was a holiday. (Begin with **It being...**)
 10. Only Meera checked the accounts. Rewrite to mean that Meera checked only the accounts.
 
 ### B. Use each word in a sentence showing its meaning (5 × 1)
@@ -119,4 +119,3 @@ prudent, alleviate, reluctant, impartial, feasible
 3. a blessing in disguise
 4. a stitch in time saves nine
 5. all that glitters is not gold
-

@@ -44,8 +44,8 @@ alongside acceptance, avoidance and reduction (PDF p. 5).
 | ✅ **State Disaster Response Fund (SDRF)** | Constituted under **s. 48**; used for immediate relief to disaster victims at the State level (PDF p. 15). Financed **75:25 Centre:State** for general States and **90:10** for North-Eastern and Himalayan (NEH) States. ⚠️ Not to be confused with the *State Disaster Response Force* under s. 44A (topic `02`). |
 | 📰 **NDMF / SDMF (mitigation funds)** | The **National Disaster Mitigation Fund (s. 47)** and **State Disaster Mitigation Fund (s. 48)** finance *ex-ante* risk reduction rather than relief. s. 48 commenced 1 August 2007 but **s. 47(1) only on 5 February 2021** — which is why India's mitigation-finance architecture is roughly fourteen years younger than its relief architecture. |
 | 📰 **The four-fund grid** | Response funds (NDRF, SDRF) are **event-triggered**; mitigation funds (NDMF, SDMF) are **plan-triggered**. Both the Fifteenth and Sixteenth Finance Commissions split the State corpus **80% response : 20% mitigation**. Concretely funded mitigation projects include the **Urban Flood Risk Management Programme** and the **National GLOF Risk Mitigation Programme** (topics `14`, `10`). |
-| 📰 **Notified disasters** | Central assistance from SDRF/NDRF is confined to a notified list of **12** disasters — cyclone, drought, earthquake, fire, flood, tsunami, hailstorm, landslide, avalanche, cloudburst, pest attack, and frost/cold wave (Sixteenth Finance Commission, 1 February 2026). ⚠️ **Heat wave and lightning are not on this national list**; States may notify them locally (see below). |
-| 📰 **The 10% "local disaster" window** | A State may spend up to **10% of its annual SDRF allocation** on immediate relief for disasters it considers locally significant but which are outside the national list, subject to a State notification, transparent norms and State Executive Committee approval. This is the route by which States have covered heat wave and lightning. |
+| 📰 **Notified disasters** | MHA's current response-fund page, retrieved **15 August 2026**, lists **14** SDRF disasters: avalanche, cloudburst, cyclone, drought, earthquake, fire, flood, frost/cold waves, hailstorm, **heatwave**, landslide, **lightning**, pest attack and tsunami. ⚠️ The page is the current list; it does not by itself establish that the earlier FC16 recommendation was the notification instrument, so do not collapse recommendation, notification and implementation into one claim. |
+| 📰 **The 10% "local disaster" window** | A State may spend up to **10% of its annual SDRF allocation** on immediate relief for disasters it considers locally significant but which are outside the current national list, subject to a State notification, transparent norms and State Executive Committee approval. ⚠️ It was formerly material to State-specific heat-wave/lightning assistance; it is **not** the current route for those two hazards after their inclusion on MHA's 14-disaster list. |
 | ✅ **National Calamity Contingency Duty (NCCD)** | Funds the NDRF via excise/customs duty on specified goods; VisionIAS records its revenue falling from ₹5,690 crore (2015-16) to ₹2,500 crore (2018-19) as GST implementation shrank its scope (PDF p. 15) — ⚠️ document-period figures. |
 | ✅ **"Build Back Better" (Sendai Priority 4)** | Enhancing preparedness for effective response, "and to 'Building Back Better' in recovery, rehabilitation and reconstruction" (PDF p. 62) — reconstruction that reduces, not recreates, future risk. |
 | ✅ **CDRI's financing thematic area** | Names catastrophe bonds and budget reserve funds as disaster-risk-financing strategies for resilient infrastructure (PDF p. 64). |
@@ -111,11 +111,14 @@ alongside acceptance, avoidance and reduction (PDF p. 5).
 | 📰 SDRF | ₹1,63,521 crore |
 | 📰 SDMF | ₹40,880 crore |
 | 📰 State funds total | ₹2,04,401 crore |
-| 📰 NDRF + NDMF (combined national pool) | ₹79,406 crore |
+| 📰 NDRF + NDMF (national pool) | ₹79,406 crore |
 | 📰 All four funds | ₹2,83,807 crore |
 
-  ⚠️ FC16 did **not** split the ₹79,406 crore national pool between NDRF
-  and NDMF — do not invent separate figures. Other FC16 features: the
+  📰 MHA's current response-fund page says **75% is earmarked for NDRF
+  and a maximum 25% for NDMF** from the ₹79,406-crore national pool.
+  Treat this as an allocation rule, **not** as separately notified,
+  fixed rupee corpora; do not invent project-wise availability or
+  expenditure from the percentages. Other FC16 features: the
   **80:20 SDRF:SDMF** State split retained; Centre:State contribution
   **75:25** (non-NEH) and **90:10** (NEH); inter-State allocation
   weighted **70% past expenditure and 30% a Disaster Risk Index**; a 5%
@@ -158,10 +161,11 @@ alongside acceptance, avoidance and reduction (PDF p. 5).
   SDRF/SDMF and the District Response/Mitigation Funds.
 - 📰 SDRF Centre:State sharing is **75:25** for general States and
   **90:10** for North-Eastern and Himalayan States.
-- 📰 **12 disasters** are notified for SDRF/NDRF assistance — cyclone,
-  drought, earthquake, fire, flood, tsunami, hailstorm, landslide,
-  avalanche, cloudburst, pest attack, frost/cold wave. Heat wave and
-  lightning are **not** among them nationally.
+- 📰 MHA's current response-fund page (retrieved **15 August 2026**) lists
+  **14** nationally notified SDRF disasters, adding **heatwave** and
+  **lightning** to avalanche, cloudburst, cyclone, drought, earthquake,
+  fire, flood, frost/cold waves, hailstorm, landslide, pest attack and
+  tsunami.
 - 📰 A State may use up to **10% of its SDRF allocation** for
   State-notified "local disasters" outside the national list.
 - 📰 FC15 (2021-26): State corpus ₹1,60,153 crore (SDRF ₹1,28,122 crore,
@@ -192,11 +196,11 @@ alongside acceptance, avoidance and reduction (PDF p. 5).
   -> **30%** went to recovery/reconstruction; **20%** was the mitigation
   (SDMF) share, with 40% response/relief and 10% preparedness/
   capacity-building. The two 20%/30% figures are routinely swapped.
-- ❌ Heat wave and lightning are notified disasters eligible for
-  SDRF/NDRF assistance nationally. -> They are **not** on the national
-  list of 12. FC16 recorded that 11 States had notified heat wave and 16
-  States lightning as **State-specific** disasters and *recommended*
-  their national inclusion — a recommendation, not a notification.
+- ❌ Heatwave and lightning still receive only State-specific,
+  10%-window assistance. -> MHA's current response-fund page, retrieved
+  **15 August 2026**, lists both among the national **14-disaster** SDRF
+  list. The FC16's earlier 11-State/16-State record is historical and
+  its recommendation alone was not notification.
 - ❌ Mitigation funds can be topped up from unspent relief money. -> FC16
   allows flexibility *within* SDRF between relief and recovery but
   expressly **no SDRF-to-SDMF transfer**; unspent SDRF balances above a
@@ -227,12 +231,12 @@ alongside acceptance, avoidance and reduction (PDF p. 5).
   ❌ There is no Section 9B. ⚠️ Actual operational rollout of specific
   database features still requires verification against current
   notifications; the Act's own commencement is settled.
-- 📰 **Evidence that the mitigation window is now disbursing, not merely
-  budgeted:** MHA reported to Parliament on 11 February 2026 that the
-  High Level Committee had approved from the NDMF, in FY 2025-26,
-  ₹2,444.42 crore for the Urban Flood Risk Management Programme Phase II,
-  ₹692.05 crore for Assam wetland restoration/rejuvenation, and ₹507.37
-  crore for a PRI-based DRR project.
+- 📰 **Evidence that the mitigation window has sanctioned projects, not
+  merely been budgeted:** dated MHA parliamentary records list
+  ₹2,444.42 crore for UFRMP Phase II (February 2026 replies) and
+  ₹519.04 crore for restoration/rejuvenation of 24 Assam wetlands
+  (Lok Sabha reply, 2 December 2025). These are approval/sanction facts,
+  not completion, utilisation or avoided-loss claims.
 
 ## 10. PYQ application
 
@@ -270,3 +274,37 @@ alongside acceptance, avoidance and reduction (PDF p. 5).
   fund architecture institutionally; topic 14 develops CDRI's
   infrastructure-financing role; topic 17 develops the operational
   relief-to-recovery financing sequence.
+
+## 13. Core-only answer architecture — finance must change risk
+
+> **Core firewall:** a finance answer must separate post-event relief,
+> ex-ante mitigation and contractual risk transfer, then test whether
+> money became safer assets, services and livelihoods. Advanced
+> instruments are optional, not a Core dependency.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Relief and mitigation have different triggers and purposes. | SDRF/NDRF-the-fund provide immediate response/relief; SDMF/NDMF are for mitigation; s. 46/47/48 distinction. | Prevents compensation being falsely presented as risk reduction. | A relief disbursement or fund corpus is neither a mitigation outcome nor full recovery finance. |
+| Current fund status needs a dated source. | FC16 2026–31 State allocation: SDRF ₹1,63,521 crore and SDMF ₹40,880 crore; national pool ₹79,406 crore; MHA response-fund page retrieved 15 August 2026 describes 75% NDRF and maximum 25% NDMF allocation rule. | Gives precise current architecture without inventing fixed national sub-corpora/expenditure. | Treat the 75/25 statement as an allocation rule, not a project utilisation or outcome claim. |
+| Mitigation finance can fund specific ex-ante projects. | UFRMP Phase II, NGRMP and Assam wetland restoration are named NDMF/HLC approval examples. | Shows a move from relief to risk reduction in distinct urban, mountain and ecosystem settings. | HLC approval/sanction is not construction completion, maintenance or avoided loss. |
+| Risk transfer complements but cannot replace risk reduction. | Insurance shifts financial loss; CDRI names reserve funds/catastrophe bonds; BBB requires safer siting/design and recovery systems. | Supports risk layering across frequent/small, medium and severe losses. | Catastrophe bonds or insurance must not be claimed as widespread Indian deployment without a dated source; they do not lower physical exposure alone. |
+
+### 13.2 Executable spines
+
+- **10 marks — distinguish instruments:** a three-row table: SDRF/NDRF
+  relief after event; SDMF/NDMF mitigation before event; insurance/risk
+  transfer shifts contractual financial loss. Add one BBB test and a
+  status caveat.
+- **15 marks — assess disaster finance:** thesis that a four-fund
+  architecture is necessary but only meaningful if it funds risk
+  reduction. Use FC16 current state/national figures, one NDMF project,
+  14-disaster current list/10%-local-window distinction and a
+  relief-versus-recovery qualification. Do not turn heatwave/lightning's
+  current listing into evidence of heat-risk outcomes.
+- **20 marks — build back better:** organise ex-ante risk assessment,
+  mitigation investment, risk layering, rapid relief, rehabilitation/
+  reconstruction and transparent loss/expenditure data. End with a
+  verdict on safer location, code, livelihood and service continuity —
+  not merely the amount announced or paid.

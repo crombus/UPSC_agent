@@ -89,3 +89,38 @@
 - ⚠️ "Shivaji converted a frontier jagir into a durable regional state." Examine with reference to forts, revenue and administration.
 - ⚠️ Analyse why Aurangzeb's inability to integrate Shivaji/Marathas became a long-term Mughal political failure.
 - ⚠️ Discuss the Deccan war as a bridge between Mughal expansion and Mughal overextension.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Examine Shivaji's state-building | "Shivaji converted a Poona jagir into a durable regional state through fort strategy, measured revenue, disciplined cash-paid army, naval capacity, Kshatriya coronation and assertion of Maratha political identity — creating institutions, not merely a raiding power." |
+| Analyse Mughal failure | "Aurangzeb's undervaluation of Shivaji (Agra 1666), annexation of Bijapur/Golconda (1686–87), and subsequent inability to defeat guerrilla warfare produced a 20-year Deccan 'ulcer' that drained the empire's treasury and morale." |
+| Discuss jagirdari crisis | "The Deccan war swelled the nobility (defeated Deccani/Maratha entrants) while shrinking productive jagir supply — converting the month-scale adjustment of Shah Jahan's time into the full-blown be-jagiri crisis that fragmented the post-1707 empire." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Javli conquest (1656): opened route to Satara and Konkan | Territory was built step-by-step from geographic logic | Shows strategic planning, not mere opportunism | Early phase depended on Bijapur's distraction; not purely Shivaji's genius |
+| 2 | ✅ Treaty of Purandar (1665): 23 forts surrendered, 12 retained; Sambhaji mansab 5000 | Mughal-Maratha relations oscillated between accommodation and confrontation | Demonstrates that Mughals could negotiate but not permanently integrate | Treaty failed because Agra episode broke trust |
+| 3 | ✅ Coronation (1674): Gaga Bhatta, Kshatriya status, Raigad | Sovereignty assertion raised Shivaji above other Maratha chiefs | Introduced political legitimacy distinct from Mughal/Deccani systems | Coronation debate (Shudra origin) was controversial; acceptance was not universal |
+| 4 | ✅ Chauth (¼) + Sardeshmukhi (10%): levied on Mughal territories | Fiscal instruments turned military capability into sustainable revenue | Distinguished Maratha state from mere raids | Chauth initially lacked theoretical backing; it hardened into a system over time |
+| 5 | ✅ Shivaji's navy: gunboats, Koli/Bhandari/Muslim sailors | State-building included maritime dimension | Shows that the Maratha state was not purely land-based | Navy's scope was coastal/creek defence; not a blue-water force |
+| 6 | ✅ Ashtapradhan: eight ministers, directly responsible to the ruler | Administrative structure existed but was not a collective cabinet | Qualifies both "modern cabinet" and "personal dictatorship" interpretations | Evidence is thin on actual functioning; hagiography inflates the system |
+
+### 8.3 Counterpoints
+
+- ⚠️ Shivaji's administration borrowed heavily from Deccani Sultanate practice — it was syncretic, not exclusively "Hindu."
+- ⚠️ After Shivaji's death (1680), the state fragmented temporarily under Sambhaji; durability required Peshwa-era reforms.
+- ⚠️ Chauth and sardeshmukhi must not be confused; sardeshmukhi was an additional 10% claim based on asserted deshmukh superiority.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Forts + revenue + coronation (3 units); conclude: institutional state-building, not mere raiding.
+- **15-mark:** Add navy + chauth/sardeshmukhi + Mughal-failure; conclude: created an alternative political system that the Mughals could not absorb.
+- **20-mark:** Full 6-unit + jagirdari crisis link + compare with Vijayanagara's nayankara system; graded verdict on "regional state" vs "proto-national" framing.

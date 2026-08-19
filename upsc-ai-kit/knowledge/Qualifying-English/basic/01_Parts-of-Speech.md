@@ -1,94 +1,162 @@
-# Parts of Speech - MUST-DO
+# Parts of Speech, Nouns and Pronouns — Core
 
-## 1. Sentence map
+Use this file before `basic/02_Sentence-Grammar.md`. In correction questions,
+change only what is wrong; do not “improve” an already acceptable sentence.
+
+## 1. Sentence map and word classes
 
 ```text
-NOUN / PRONOUN -> VERB -> OBJECT / COMPLEMENT
-       |                         |
-   ADJECTIVE                 ADJECTIVE
-          \                 /
-             ADVERB modifies
-      verb / adjective / another adverb
+determiner + adjective + NOUN/PRONOUN (subject) + finite VERB + object/complement
+                         \                         /
+                    modifiers: adjective, adverb, phrase, clause
 ```
 
-## 2. Nouns
-
-| Type | Meaning | Example |
+| Class | Main job | Test |
 |---|---|---|
-| Proper | Particular name | India, Ganga, Delhi |
-| Common | General class | country, river, city |
-| Collective | Group treated as a unit | committee, team, jury |
-| Abstract | Quality/state/idea | honesty, freedom, growth |
-| Material | Substance | water, gold, furniture |
+| Noun | names a person, thing, quality or event | can often take a determiner/plural |
+| Pronoun | replaces or points to a noun phrase | must have clear reference and case |
+| Verb | expresses action, state or occurrence | finite verb changes for tense/agreement |
+| Adjective | modifies a noun/pronoun | *a careful officer; officers are careful* |
+| Adverb | modifies a verb, adjective, adverb or clause | *very careful; spoke carefully* |
+| Determiner | identifies/quantifies a noun | *the, this, each, many, my* |
+| Preposition | relates a noun phrase to another unit | *in Delhi; depend on evidence* |
+| Conjunction | joins units | *and, although, because* |
 
-### Countability
+Words can change class: *a **record** (noun); **record** the result (verb);
+an **early** train (adjective); arrive **early** (adverb).* Use function in the
+sentence, not a dictionary label.
 
-- **Countable:** one book, two books; can use *a/an*, *many*, *few*.
-- **Uncountable:** advice, information, furniture, equipment, luggage, progress; use *much*, *little*, *a piece of*.
-- ❌ furnitures, informations, advices.
-- ✅ pieces of furniture, items of information, words of advice.
+## 2. Nouns: number and countability
 
-## 3. Pronouns
+### Countable, uncountable and count shifts
 
-| Type | Examples |
+| Pattern | Safe use | Example |
+|---|---|---|
+| Singular count noun | needs a determiner | *a book; the proposal; my answer* |
+| Plural count noun | takes *many/few/fewer* | *many books; fewer errors* |
+| Uncountable/mass noun | no ordinary plural; takes *much/little/less* | *much information; little evidence* |
+| Measure expression | makes an uncountable noun countable | *two pieces of advice; three items of equipment* |
+| Count shift | meaning changes when a mass noun is counted | *paper* (material) / *a paper* (article); *experience* (knowledge) / *an experience* (event) |
+
+Common uncountables in examination corrections: **advice, information,
+furniture, equipment, luggage, baggage, scenery, research, progress, work,
+traffic, evidence, knowledge, machinery, bread, news**. Write *a piece of
+furniture, an item of information, a piece of evidence, some research*.
+`News` ends in *-s* but normally takes a singular verb: *The news is
+encouraging.*
+
+Do not infer that every noun is permanently countable or uncountable:
+
+| Uncountable meaning | Countable meaning |
 |---|---|
-| Personal | I, we, you, he, she, it, they |
-| Possessive | mine, ours, yours, his, hers, theirs |
-| Reflexive | myself, herself, themselves |
-| Demonstrative | this, that, these, those |
-| Relative | who, whom, whose, which, that |
-| Indefinite | someone, each, either, neither, many |
+| *Chicken is expensive* (meat) | *three chickens* (birds) |
+| *I need paper* (material) | *submit a paper* (essay/article) |
+| *There is little room* (space) | *book a room* (place) |
+| *Experience matters* (knowledge) | *it was a frightening experience* (event) |
+| *Light travels quickly* (illumination) | *switch on the lights* (lamps) |
 
-### Pronoun rules
+### Irregular, zero and plural-only nouns
 
-- A pronoun must have a clear noun to which it refers.
-- **Who** is subjective; **whom** is objective: *Who called? Whom did you call?*
-- **Each/every/either/neither** is grammatically singular: *Each candidate is ready.*
-- Use reflexives only when subject and object are the same: *She blamed herself.*
-- Avoid vague reference: ❌ *When Ravi met Mohan, he was upset.* Specify who.
+| Type | Examples | Agreement/use |
+|---|---|---|
+| Irregular plural | child/children, man/men, woman/women, foot/feet, tooth/teeth, mouse/mice, person/people | plural verb: *Children are…* |
+| Same singular/plural | sheep, deer, aircraft, species, series | context decides: *one species is; two species are* |
+| Noun ending in *-s*, singular | news, mathematics, economics (subject), politics (subject) | usually singular: *Economics is…* |
+| Plural-only | scissors, trousers, spectacles, clothes, cattle, police | plural verb: *The police are…*; *a pair of scissors is…* |
+| Collective noun | committee, team, government, family, jury | singular when viewed as one unit; plural when members act separately. Keep verb and pronoun consistent: *The committee has submitted its report* / *The committee are divided in their views.* |
 
-## 4. Adjectives
+`People` is normally plural; `persons` is restricted to formal/legal counting.
+`Data` is commonly plural in careful academic prose (*the data are*), but
+singular collective *data is* occurs in modern general prose. Follow the
+question’s register and remain consistent.
 
-Adjectives describe nouns or pronouns: *a careful officer; the policy is effective*.
+## 3. Pronouns: case, reference and agreement
 
-Order commonly follows: **opinion -> size -> age -> shape -> colour -> origin -> material -> purpose -> noun**.
+### Case
 
-> a useful small old Indian wooden writing desk
+| Function | Forms |
+|---|---|
+| Subject | I, we, he, she, they, who |
+| Object of verb/preposition | me, us, him, her, them, whom |
+| Possessive determiner | my, our, his, her, their, whose |
+| Independent possessive | mine, ours, his, hers, theirs |
+| Reflexive/emphatic | myself, yourself, himself, herself, itself, ourselves, yourselves, themselves |
 
-Comparison:
+Use object case after a verb or preposition: *The officer called Riya and
+me; between you and me; whom did you meet?* In a comparison, supply the
+missing verb when needed: *She is taller than I (am)*; *They invited her more
+often than me* is common but can be ambiguous. Write the full clause in a
+formal answer.
 
-- positive: tall
-- comparative: taller / more careful
-- superlative: tallest / most careful
-- ✅ *prefer X to Y*, not *prefer X than Y*.
-- ✅ *the more..., the better...*, not *the more..., the best...*.
+Reflexives need a same-clause antecedent or emphatic use: *She blamed herself;
+the director himself signed it.* Not `Please contact myself`; use `me`.
 
-## 5. Verbs
+### Reference, relatives and singular *they*
 
-- **Main verb:** carries meaning: *The committee decided.*
-- **Auxiliary:** be, have, do; modals can, may, must, should.
-- **Transitive:** takes object: *raise the flag*.
-- **Intransitive:** no object: *the sun rises*.
-- Common trap: **raise/raised/raised** vs **rise/rose/risen**; **lay/laid/laid** vs **lie/lay/lain**.
+1. A pronoun must identify one sensible antecedent. Rewrite *When Ravi met
+   Mohan, he was upset* as *Ravi was upset when he met Mohan*.
+2. `who` is for people as subject; `whom` is object in formal style; `whose`
+   shows possession; `which` normally refers to things; `that` may introduce a
+   restrictive clause for people or things.
+3. **Restrictive (identifying):** no commas. *Candidates who arrive late may
+   not enter.* **Non-restrictive (extra):** commas and normally `who/which`,
+   not `that`. *My brother, who lives in Pune, is a doctor.* Punctuation
+   depends on intended meaning; it cannot be scored without context.
+4. `each, every, either, neither, everyone, someone, nobody` normally take a
+   singular verb: *Every applicant is ready.* Singular **they/them/their** is
+   accepted modern formal English when sex is unknown or irrelevant: *Each
+   applicant must bring their admit card.* A fully explicit alternative is
+   *Each applicant must bring his or her admit card* or plural recasting:
+   *Applicants must bring their admit cards.* Do not mark a clear singular
+   `they` wrong merely for being singular.
 
-## 6. Adverbs
+## 4. Adjectives, determiners and adverbs
 
-Adverbs modify verbs, adjectives or adverbs:
+The usual adjective order is opinion → size → age → shape → colour → origin →
+material → purpose → noun: *a useful small old Indian wooden writing desk*.
+It is a preference, not a mechanical rule.
 
-- *She answered clearly.*
-- *It is extremely important.*
-- *He worked very carefully.*
+| Point | Safe form |
+|---|---|
+| Comparison | *taller; more careful; the tallest; the most careful* |
+| No double comparison | `more wiser` → *wiser* |
+| Comparison target | *prefer X to Y; senior/junior/superior/inferior to* |
+| Correlative comparison | *the more carefully you read, the better you write* |
+| `only` placement | *Only Riya objected* (nobody else); *Riya objected only to the fee* (nothing else) |
+| Fewer/less | *fewer books*; *less water*. `less than ten minutes` is accepted for quantity/time. |
 
-Position matters:
+Some adverbs have the same form as adjectives: *fast, hard, late, early,
+daily*. `Hardly` means “scarcely,” not “with effort”: *work hard; hardly work.*
 
-- *Only she criticised the plan* = nobody else did.
-- *She only criticised the plan* = she did nothing else.
-- *She criticised only the plan* = not anything else.
+## 5. Verbs: form and transitivity
 
-## 7. Prelims-style traps for this paper
+| Pattern | Principal parts | Meaning check |
+|---|---|---|
+| rise | rise, rose, risen | something goes up itself |
+| raise | raise, raised, raised | someone/something lifts another thing |
+| lie (recline) | lie, lay, lain | *The child lay down yesterday* |
+| lay (put) | lay, laid, laid | takes object: *She laid the file down* |
+| fall | fall, fell, fallen | no object in ordinary use |
+| fell | fell, felled, felled | cut down: *fell a tree* |
 
-- ❌ *One of the student has...* -> ✅ *One of the students has...*
-- ❌ *The committee have submitted its report* when acting as one unit -> ✅ *has submitted its report*.
-- ❌ *He is more wiser* -> ✅ *He is wiser*.
-- ❌ *She is senior than me* -> ✅ *She is senior to me*.
+Only verbs with an object normally form a passive: *The committee approved the
+plan → The plan was approved.* Do not force a passive from *arrive, sleep,
+occur, happen*.
+
+## 6. Fast diagnostic
+
+Correct each, name the error code, then check below.
+
+1. The police **is** investigating the case.
+2. She gave me two useful **advices**.
+3. Between you and **I**, the plan is unsafe.
+4. Every candidate should bring **his** identity card.
+5. The report **that** was published yesterday, changed the debate.
+6. We bought two **furniture** for the office.
+
+**Key:** 1 *are* [AGR]; 2 *pieces of advice* [CNT]; 3 *me* [PRO-CASE];
+4 *their* is accepted, or recast/pluralise [PRO-AGR]; 5 remove commas if
+identifying, or use *which* with commas if extra information [REL]; 6 *pieces
+of furniture* [CNT]. Time: **6 minutes**. Record every missed code in the
+error log in `basic/05`.
 

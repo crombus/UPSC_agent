@@ -98,7 +98,7 @@ SOCIETY = widest web of human relationships
 - ✅ **Machiavelli:** Gauba traces the modern concept of the state to Machiavelli's focus on the power having authority over men. (PDF p.148)
 - ✅ **Max Weber:** the modern state is defined sociologically by its successful claim to the monopoly of legitimate physical force within a territory. (PDF p.148)
 - ✅ **MacIver:** the state embraces the whole people in a territory and acts through government as the organ that speaks with the voice of law. (PDF pp.149, 156)
-- ✅ **Laski:** the state stands above voluntary associations because the resident has no legal choice but to obey it. (PDF p.149)
+- ⚠️ **Laski (correction — not a monist):** Gauba's page notes only that residence brings some obligation to the state (PDF p.149), but Laski's own, better-known position is the opposite of state monism: Laski is UPSC's standard **pluralist** critic of the claim that the state holds a single, morally supreme, all-encompassing sovereignty. For Laski the state is properly understood as *one association among many* (churches, trade unions, professional bodies, the family) competing for the individual's loyalty; its authority is not automatically superior to theirs, and it must **earn** obedience through service to welfare rather than claim it by definitional fiat. See the fuller reconstruction at `Political-Theory/basic/11_Sovereignty-and-Pluralism.md`, which states this correctly: "the state is one association among many; authority must be morally justified and function coordinatively rather than as omnipotence." Do not use the monist-sounding phrasing above as Laski's considered position in an answer.
 - ✅ **Hegel:** distinguished civil society as the sphere of self-interest from the state as a sphere of universality; he also idealized the state. (PDF pp.154, 156-157)
 - ✅ **Marx:** accepted Hegel's description of civil society as economic sphere, but treated law and state as serving the capitalist class. (PDF p.155)
 - ✅ **Gramsci:** treated civil society as structures of legitimation and political society as structures of coercion, together forming structures of domination. (PDF p.155)
@@ -173,7 +173,78 @@ SOCIETY = widest web of human relationships
 - ✅ Primary source used directly: Gauba, Ch.6, PDF pp.147-176.
 - ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.144-159, for Western/Indian
   secularism, descriptive/normative multiculturalism, minority rights, variants and objections.
-- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Core anchors: state and elements (PDF pp.148-152), state/society/civil society/government (PDF pp.153-157), nation and nation-state (PDF pp.157-163), nationalism/internationalism and nation-state pressures (PDF pp.164-176).
 - ⚠️ "Third World," Cold War and nation-state crisis illustrations in this file are retained as book-period vocabulary and examples, not current geopolitical fact.
 - ✅ Companion file created in this folder: `Political-Theory/advanced/10_State-Civil-Society-Nation-and-Internationalism.md`.
+
+---
+
+## 13. Extending civil society: Putnam, Cohen-Arato and the Marcuse critique/counterpoint
+
+- ⚠️ Gauba's chapter covers Hegelian, Marxian, Gramscian and Tocquevillian civil society directly (PDF pp.154-155, 173-176); Putnam, Cohen-Arato and Marcuse's own name are book-external extensions used here with caution, since the earlier "contemporary democratic" row already gestures at this literature without naming it.
+
+- ⚠️ **Robert Putnam — social capital** (*Making Democracy Work*, 1993; *Bowling Alone*, 2000):
+  - **Claim:** dense networks of civic associational life generate "social capital" — norms of reciprocity and trust — which make collective action easier and improve the actual performance of democratic institutions.
+  - **Evidence:** Putnam's comparative study of Italian regional governments found regions with denser horizontal associational life (choral societies, football clubs, cooperatives) had more effective, responsive regional government than regions with weaker associational traditions.
+  - **Significance:** gives civil society a measurable, empirical link to democratic performance, not just a normative claim about liberty.
+  - **Limit:** critics note social capital can also be exclusionary/bonding (strengthening in-group ties at the cost of out-groups) rather than bridging across groups, and correlation between associational density and good governance does not settle the direction of causation.
+
+- ⚠️ **Jean Cohen and Andrew Arato — civil society and political theory** (*Civil Society and Political Theory*, 1992):
+  - **Claim:** civil society is a distinct third sphere of social life — associations, public sphere, social movements and culture — analytically separate from both the **state** and the **economy**, and it needs mediating institutions ("political society" — parties, parliaments; "economic society" — regulated markets, trade unions) to translate its demands into state and market outcomes.
+  - **Evidence:** modern democratic theory's difficulty in fitting social movements (feminist, environmental, human-rights) into either a pure state-power model or a pure market model motivated this three-sphere reconstruction.
+  - **Significance:** restores analytical precision against the reduction of "civil society" to a policy buzzword for NGOs alone, and explains how associational/movement politics reaches formal power without collapsing civil society into political society.
+  - **Limit:** the sharp three-way separation can understate how thoroughly state and market already penetrate associational life (funding, regulation, co-optation) in practice.
+
+- ⚠️ **Herbert Marcuse — critique, and a counterpoint**
+  - **Claim (critique):** in *One-Dimensional Man* (1964), Marcuse argues advanced industrial society (capitalist or state-socialist) absorbs and neutralises potential opposition by satisfying manufactured consumer/material needs — a process he calls "repressive desublimation" — producing a "one-dimensional" society where genuine critical opposition is difficult to sustain; the same base "civil society is swallowed" logic appears in the advanced companion's Marcuse note that under capitalism civil society can eclipse the state, and under communism the state can eclipse civil society, with freedom needing independence of both.
+  - **Evidence:** mass-consumption culture and standardised media are cited as mechanisms that channel dissatisfaction into consumption rather than political challenge.
+  - **Significance:** warns that civil society is not automatically a space of freedom — it can be captured and pacified rather than genuinely autonomous.
+  - **Counterpoint/limit:** critics reply that Marcuse's thesis underestimates civil society's actual mobilising capacity — the same decades produced the civil-rights, feminist, environmental and anti-war movements, and later "new social movements," which suggests advanced industrial society is not fully "closed" to opposition; Cohen-Arato's and Putnam's own frameworks are partly a reply to this pessimism, showing associational life can still generate autonomous, system-challenging action.
+
+## 14. Two objection–reply chains
+
+1. **Objection:** treating civil society as simply "the space of NGOs and voluntary associations" reduces a rich theoretical category to a policy buzzword and ignores its more critical variants (Marxian, Gramscian, Marcusean), where associational life can *reproduce* domination rather than resist it.
+   **Reply:** Cohen-Arato's re-theorisation restores precision by defining civil society as a distinct sphere with its own logic (culture, association, public sphere) mediated by political and economic society, while Putnam's social-capital evidence shows associational density can independently strengthen democratic performance — civil society is properly read as Janus-faced: capable of domination-reproduction (Gramsci/Marcuse) *and* democratic renewal (Tocqueville/Putnam), depending on the density, autonomy and direction of its associational life, not reducible to either reading alone.
+
+2. **Objection:** if Laski's pluralism denies the state any special, monistic supremacy over other associations, the concept of sovereignty risks becoming practically meaningless and political order could collapse into competing group claims.
+   **Reply:** Laski does not deny the state its coordinating and coercive function; he denies it an automatic claim to *moral* supremacy that overrides individual conscience and the legitimate claims of other associations. The state remains the most inclusive, territorially comprehensive coordinating association, but it must earn continued obedience through service and welfare rather than by definitional fiat — see the fuller sovereignty-and-pluralism debate at `Political-Theory/basic/11_Sovereignty-and-Pluralism.md` for how this is reconciled with orderly authority.
+
+## 15. Cautious Indian application (nation-building and civil society)
+
+- ⚠️ Post-independence linguistic reorganisation of Indian states is a widely known illustration of nation-building accommodating internal diversity within one state rather than one-nation-one-state congruence — use as a general, well-known pattern; route exact years, commission names or state lists to the Polity/History modules rather than asserting them here.
+- ⚠️ India's associational and civil-society landscape — self-help groups, the Right to Information movement, and grassroots environmental movements — is a standard illustrative anchor for Putnam-style social capital and Cohen-Arato-style civil society engaging the state from outside direct state control; cite as a *type* of example, not with unverified statistics, dates or scheme details.
+- ⚠️ Constitutional accommodation of religious and linguistic minorities alongside a common citizenship is a structural illustration of the secularism/multiculturalism balance already flagged in §5 of this file — do not add fresh unverified legal specifics here; keep any legal detail routed to the Polity module.
+
+## 16. Executable answer architecture (10/15/20 marks)
+
+### Directive decoding
+- "Distinguish state, government, society and nation" → strict distinguishing directive: four separate definitions with one marker each, not a single blended paragraph.
+- "Discuss civil society as a check on/site of domination by the state" → critique-directive: requires both the critical variant (Gramsci/Marcuse) and the democratic-renewal variant (Tocqueville/Putnam/Cohen-Arato) — a one-sided answer loses marks.
+- "Examine Laski's critique of state sovereignty" → requires the corrected pluralist position (state as one association among many, authority earned through service), not the monist phrasing corrected in §6 above.
+
+### 10-mark architecture (~150 words)
+1. Thesis: the state is analytically distinct from government, society and nation, and civil society is the associational sphere that both checks and can be captured by state power.
+2. Body: one state/government/society/nation distinction + one civil-society variant with claim→evidence→significance.
+3. One limit.
+4. One-line conclusion.
+
+### 15-mark architecture (~200-250 words)
+1. Thesis + directive decoding.
+2. Doctrine reconstruction: Weber's state definition → four elements → state/government/society/nation distinctions.
+3. Two civil-society variants (e.g. Gramscian domination-reproduction and Putnam/Cohen-Arato democratic-renewal) with claim→evidence→significance→limit each.
+4. One objection-reply chain.
+5. Cautious Indian illustration.
+6. Conclusion.
+
+### 20-mark architecture (~250-300 words)
+1. Thesis + directive decoding.
+2. Full doctrine reconstruction: Weber's definition, four elements of the state, state/government/society/nation/civil-society distinctions, nation/nationality, nationalism/internationalism.
+3. Civil-society variants including Hegelian, Marxian, Gramscian, Tocquevillian, Putnam (social capital) and Cohen-Arato (three-sphere model), each with claim→evidence→significance→limit.
+4. Marcuse's critique with its counterpoint, correctly hedged.
+5. Two objection-reply chains (NGO-reduction objection; pluralism-vs-order objection on Laski).
+6. Cautious Indian application on nation-building/civil society, without owning legal or historical specifics.
+7. Graded conclusion balancing civil society's capacity for both domination-reproduction and democratic renewal.
+
+### Quotation/proposition method
+- Prefer paraphrased, named propositions over unverified quotations, e.g. *"Laski's proposition that the state is one association among many whose authority must be morally earned"* rather than an exact quoted sentence, unless independently verified.

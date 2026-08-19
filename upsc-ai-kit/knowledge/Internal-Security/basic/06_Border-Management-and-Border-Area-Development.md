@@ -292,7 +292,72 @@ in this topic should be routed through.
   security challenges along India's China and Pakistan borders, and
   describe the BADP and BIM schemes.
 
-## 12. Study links
+## 12. Core answer architecture — differentiated borders, communities and technology
+
+> **Core firewall:** The spines below make this Basic file independently
+> answer-complete for the 2020, 2023 and 2024 Mains routes. Advanced
+> material is optional depth.
+
+### Demand decoder and thesis
+
+**Thesis:** Border management is a whole-of-government system:
+**guarding + regulation + infrastructure/development + bilateral
+mechanisms**, calibrated to terrain, legal mobility and the dominant threat
+vector. Fencing, a scheme notification or a sensor trial is a capability
+input; none alone proves a sealed border or a security outcome.
+
+### Executable Core spines
+
+**15 marks — China/Pakistan plus BADP/BIM (2024).** Separate the two
+before writing: China = disputed/undemarcated LAC, military posture,
+infrastructure and de-escalation mechanisms; Pakistan = Radcliffe
+Line/LoC/AGPL segments, infiltration, smuggling/tunnelling and Sir Creek.
+Give BADP’s village-development role and BIM’s border-infrastructure role
+in separate boxes. Use the Bangladesh 2014 maritime award/2015 LBA as a
+controlled example of a settled-by-instrument boundary, not a claim that
+all border differences are alike. End with a community/livelihood and
+coordination qualification.
+
+**15 marks — Myanmar, Bangladesh and LoC comparison (2020).** Use a
+three-column structure: Myanmar (terrain, ethnic continuity, trafficking
+and FMR status discipline); Bangladesh (dense settlement, riverine
+terrain, regulation/crime and settled enclave/maritime questions); LoC
+(proxy infiltration and military ceasefire metric). Give one
+neighbour-specific capability and one community safeguard in each column.
+
+**10 marks — adversarial UAVs (2023).** Define a hostile UAV as a vector,
+not a threat category in itself. Structure: payloads (surveillance,
+weapons or contraband) → vulnerabilities (low-altitude detection,
+terrain, handover/prosecution evidence) → capabilities (layered
+radar/electro-optical detection, lawful counter-UAS response, intelligence
+fusion and forensic chain) → limitation (a trial/deployment claim is not
+an achieved outcome). Do not invent a border incident, interception count
+or force deployment.
+
+**20 marks — future border-community/implementation question.** Compare
+hardening’s security gain with costs to legitimate kinship, trade and
+livelihood. Recommend risk-based legal mobility, grievance channels,
+community reporting safeguards and audited technology alongside guarding.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| Border type determines management tool. | China LAC versus Pakistan LoC/Radcliffe Line versus Bangladesh’s dense/riverine border. | A uniform fence/force answer fails the demand. | Boundary length and force/coverage figures require a dated official source. |
+| Development has a security function but is not a magic cause-remedy. | BADP village-development route; BIM roads/power/communications; Vibrant Villages as a separate programme. | State presence and legitimate livelihoods can reduce exploitation vulnerability. | Scheme sanction/outlay is not proof of service delivery or reduced infiltration. |
+| Technology complements rather than replaces people. | CIBMS sensors/cameras/radar; Madhukar Gupta Committee’s grid-protection idea. | Terrain and intelligence can be integrated with physical guarding. | Detection/monitoring is not the same as interdiction capacity or lawful evidence. |
+| FMR is a status-sensitive community-security trade-off. | MHA’s 8 February 2024 decision to scrap it. | Regulation can target misuse pathways. | Announcement, formal notification and field implementation must not be collapsed. |
+
+### Direct PYQ routes now owned in Core
+
+- **2020 GS-III:** use the three-border comparison; do not merge Myanmar,
+  Bangladesh and LoC into a generic “porous borders” paragraph.
+- **2023 GS-III:** use the UAV vector–vulnerability–capability spine and
+  give no unsourced operation/result statistic.
+- **2024 GS-III:** use the China/Pakistan/BADP/BIM spine, including a
+  reasoned verdict on border-community participation.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/06_Border-Management-and-Border-Area-Development.md`.
@@ -326,3 +391,26 @@ in this topic should be routed through.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2020, 2023
+- **Paper(s):** GS-III
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2020 | GS-III | 20 | Security challenges along Myanmar and Bangladesh borders and Pakistan Line of Control | Analyse · 15 marks · 250 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2023 | GS-III | 10 | Adversarial UAV threats to internal security across Indian borders | Comment · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Security challenges along Myanmar and Bangladesh borders and Pakistan Line of Control
+- Adversarial UAV threats to internal security across Indian borders
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

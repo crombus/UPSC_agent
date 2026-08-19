@@ -142,7 +142,7 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
   ULBs implementing locally; its current existence/operation requires
   MoHUA/State notification verification.
 - 📰 The **Urban Flood Risk Management Programme**, financed from the
-  National Disaster Mitigation Fund, is the implemented counterpart:
+  National Disaster Mitigation Fund, is a sanctioned mitigation programme:
   Chennai (7 December 2023), six more cities (25 July 2024) and **Phase 2
   for 11 cities at ₹2,444.42 crore on a 90:10 basis (1 October 2025)**.
 - 📰 A **UDMA under s. 41A** is chaired by the **Municipal Commissioner**
@@ -192,7 +192,7 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
   **DRI Connect** are its flagship initiatives.
 - 📰 For urban-flood infrastructure specifically, the **Urban Flood Risk
   Management Programme** (NDMF-financed; Phase 2 approved 1 October 2025
-  for 11 cities at ₹2,444.42 crore, 90:10) is the implemented programme —
+  for 11 cities at ₹2,444.42 crore, 90:10) is the sanctioned mitigation programme —
   as distinct from the Urban Flooding Cell, which remains a 2010
   guideline **recommendation**.
 - 📰 For **mass-gathering safety**, the anchor is NDMA's May 2014 crowd-
@@ -240,3 +240,35 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
   Disaster Management Authority provision; topic 08 develops urban-
   flood-specific causation and policy; topic 16 develops disaster-
   finance/risk-transfer mechanisms (catastrophe bonds, reserve funds).
+
+## 13. Core-only answer architecture — lifelines, crowds and city systems
+
+> **Core firewall:** Core treats a city as an interdependent system.
+> CDRI membership, a guideline or a newly enabled authority cannot be
+> used as shorthand for an achieved resilience outcome.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Urban disaster loss cascades through lifelines. | Power loss disables water pumping, telecom, hospitals and transport; VisionIAS records fragmented information/investment/coordination in urban flood governance. | Supplies a systemic thesis instead of facility-by-facility hardening. | Do not claim every city has completed criticality mapping or redundant lifelines. |
+| Resilient infrastructure combines physical and governance measures. | CDRI's four areas: risk assessment, standards, financing and BBB/recovery; structural plus non-structural measures. | Lets a response connect design, planning, finance and maintenance. | CDRI's international standards role is not domestic operational command or proof that an Indian asset was retrofitted. |
+| Urban coordination must be status-accurate. | NDMA 2010 UFC is a recommendation; UFRMP is a sanctioned NDMF mitigation programme; s. 41A UDMA is enabling and needs a State notification. | Distinguishes guideline, programme and authority — exactly what an urban-flood answer needs. | Karnataka/BBMP does not establish all-city rollout; sanction is not completed works or reduced flood loss. |
+| A crowd/stampede is a flow-capacity disaster. | NDMA May 2014 crowd-management guide; holding areas, one-way circulation, capacity-linked access, CCTV/communication and emergency egress. | Converts “crowd control” into prevention, preparedness and response design. | A post-incident operator measure is not a standing nationwide enforceable venue regime; do not quote unverified incident casualties. |
+
+### 13.2 Executable spines
+
+- **10 marks — critical infrastructure:** define lifelines and show a
+  two- or three-link cascade; prescribe criticality mapping, redundancy,
+  resilient codes, continuity plans and rapid repair; close with ULB/
+  utility/DDMA coordination.
+- **15 marks — urban resilience:** thesis that fragmented utilities make
+  a single hazard systemic. Use CDRI, city-level risk mapping,
+  UFC/UFRMP/UDMA status distinction, informal-settlement equity and BBB
+  for management systems; assess service continuity rather than money
+  sanctioned.
+- **20 marks — crowd/lifeline governance:** compare external-hazard
+  warning with crowd-flow prevention; integrate capacity limits,
+  ticketing/entry-exit, accessible evacuation and temporary shelter,
+  medical/transport redundancy, command and post-event accountability. End with a
+  risk-informed urban-development verdict.

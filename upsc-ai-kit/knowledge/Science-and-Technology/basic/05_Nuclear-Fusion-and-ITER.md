@@ -147,6 +147,21 @@ tiny fuel pellet -> rapid laser/beam compression -> very short fusion burst
 - ✅ `16_Nanotechnology-and-Applications.md` - superconducting magnets, materials stress and high-technology manufacturing relevance.
 - ✅ `20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md` - long-term energy strategy and technology-sovereignty context.
 
+## Core answer architecture — fusion, ITER and long-horizon energy
+
+**Thesis choice.** Fusion is a scientific and industrial-learning frontier, not an operating source of grid electricity; a good answer distinguishes plasma gain from a power plant.
+
+**10-mark spine.** Define D-T fusion and confinement; identify ITER as an experimental tokamak; name India’s domestic/ITER contribution; close with the status and implication in one qualified line.
+
+**15/20-mark spine.** Structure as **fusion mechanism and three readiness thresholds → India’s research/industrial contribution → possible energy and technology gains → tritium, materials, cost and schedule limits**.
+
+**Evidence units.**
+- **Claim:** D-T fusion needs an integrated physical condition, not temperature alone → **Lawson triple product and magnetic confinement in a tokamak** → explains why plasma stability is the central challenge → **qualification:** a laboratory shot or a Q claim does not include plant electricity, magnets, cryogenics and conversion losses.
+- **Claim:** India participates as an industrial and scientific contributor → **ITER-India within IPR delivers in-kind packages including the cryostat, shielding, cooling, cryogenic, RF, neutral-beam, power and diagnostic systems** → participation builds high-end manufacturing, procurement and plasma expertise → **qualification:** supplying components does not mean India owns an operational fusion reactor.
+- **Claim:** ITER’s success would be conditional long-term value → **ITER targets Q at an experimental facility; IPR’s Aditya-U and SST-1 remain research platforms** → the programme can advance materials, control and energy science → **qualification:** tritium breeding, neutron damage, divertor heat loads, regulation and commercial economics remain unsolved at power-plant scale.
+
+**Verdict.** State the global-energy promise as contingent on later DEMO-class engineering, not as a near-term substitute for fission, renewables or efficiency.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

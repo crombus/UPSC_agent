@@ -5,7 +5,7 @@
 > **Core area:** Using examples, data and quotations safely and
 > proportionately; the mandatory quotation-attribution safety rule for
 > the 16 recent prompts and the wider 100-prompt ledger.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Sections 8, 13.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -61,7 +61,7 @@ someone who simply rejects the comparison.
 | What it reproduces | Exact printed words, inside quote marks | The idea, in your own words |
 | Risk carried | Wording, punctuation, authorship, translation, context | Only fidelity of meaning |
 | When required | When the exact phrasing is itself the object of analysis | Almost everywhere else |
-| Applies to the prompt | ✅ Safe for V1 (2024–2025) rows, defects included | ⚠️ Preferred for V2 (2013–2023) rows until checked |
+| Applies to the prompt | ✅ Safe for V1 (2018–2025; 64 rows), defects included | ⚠️ Preferred for V2 (2013–2017; 36 rows) until checked |
 
 ⚠️ Quotation marks are a promise about *wording*, not merely a signal of
 borrowing. If you cannot keep that promise — because you are recalling an
@@ -72,16 +72,16 @@ buys nothing a clean paraphrase would not.
 
 ## 3. ✅ Exam facts / source basis
 
-- ✅ All 16 recent prompts (2024 and 2025) are printed **without any
-  author attribution** in the source papers (see `../README.md` for
-  the recent index).
-- ✅ The 2024/2025 rows in `../PYQ-Corpus-2013-2025.md` are **V1** —
-  read directly off the official PDFs and reproduced with their printed
-  defects intact. ⚠️ The 2013–2023 rows are **V2** — not checked against
-  an official paper locally, and therefore to be paraphrased rather than
-  quoted verbatim (Section 2a).
-- ⚠️ Because no author is printed for any prompt, this folder's default
-  rule is: **quote the prompt exactly, or paraphrase it faithfully; never
+- ✅ All **64 V1 prompts (2018–2025)** are printed **without any author
+  attribution** in the source papers (see
+  `../PYQ-Corpus-2013-2025.md`).
+- ✅ The 2018–2025 rows are **V1** — read directly from local official
+  papers and reproduced with their printed defects intact. ⚠️ The 36
+  rows from 2013–2017 are **V2** — not checked against an official paper
+  locally, and therefore to be paraphrased rather than quoted verbatim
+  (Section 2a).
+- ⚠️ Because no V1 prompt prints an author, this folder's default rule
+  is: **quote the prompt exactly, or paraphrase it faithfully; never
   attach an author's name to it.**
 
 ## 4. The central idea and common misreading
@@ -111,12 +111,24 @@ strength.
 
 | Use case | Safe practice |
 |---|---|
-| The UPSC prompt itself, 2024–2025 (V1) | Quote exactly as printed (see `../README.md`), defects included; or paraphrase faithfully. No author needed or invented. |
-| The UPSC prompt itself, 2013–2023 (V2) | ⚠️ Paraphrase, unless you have checked the official paper for that year — the ledger wording is carried forward, not locally verified. |
+| The UPSC prompt itself, 2018–2025 (V1; 64 rows) | Quote exactly as printed (see `../PYQ-Corpus-2013-2025.md`), defects included; or paraphrase faithfully. No author needed or invented. |
+| The UPSC prompt itself, 2013–2017 (V2; 36 rows) | ⚠️ Paraphrase, unless you have checked the official paper for that year — the ledger wording is carried forward, not locally verified. |
 | A familiar aphorism recalled from general reading, with uncertain attribution | ❌ Do not attribute an author. Either omit it, or use it as an unattributed proposition only if not presented as a direct quotation. |
-| A named quotation from a known thinker | Use only if you can state it accurately from memory with reasonable confidence in wording and context; when in doubt, paraphrase the idea instead of quoting verbatim. |
+| A named quotation from a known thinker | Use only after verifying exact wording, author, translation and context against a primary or authoritative source. Otherwise paraphrase the idea without quotation marks or attribution. |
 | An analogy | Use to clarify a mechanism, never as support for a claim — state the mechanism it is standing in for, so the argument survives if a reader rejects the comparison. |
-| A statistic or "current" fact | State only if you are reasonably confident it is accurate and not stale; when unsure, describe the pattern qualitatively instead of inventing a number. |
+| A statistic or "current" fact | State only when an authoritative source and date are known and can be recorded. Otherwise describe a verified qualitative pattern or omit the claim. |
+
+### Three complete evidence units
+
+These units model the required chain. “Locally verified” means the
+underlying historical/institutional fact is verified in `12`; it does not
+turn the analytical inference into an official finding.
+
+| Claim | Named evidence / status | Why it supports the claim | Limit / safe use |
+|---|---|---|---|
+| Communities can make environmental costs politically visible before ecological damage becomes normalised. | **Chipko movement** — 1970s Himalayan forest-protection movement; locally verified in `12`. | It supplies a concrete instance of collective resistance to extraction by people bearing its costs. | It does not prove that all extraction is reversible through community action alone. Use for a *can constrain* claim, not a universal claim. |
+| Public accountability needs institutional channels, not only personal virtue. | **Right to Information Act, 2005** — its year and the Central and State Information Commissions are locally verified in `12`. | Citizen scrutiny makes reasons and decisions more contestable, supporting an argument about accountable discretionary power. | It does not itself establish enforcement, ethical conduct, or complete transparency in every case. |
+| Long-run knowledge institutions can create strategic capacity. | **India's space programme (ISRO)** — candidate-recalled institutional illustration in `12`; verify its precise facts against the linked Science-and-Technology source before live use. | It can make concrete the mechanism by which sustained research capacity becomes technological and strategic capability. | One institution cannot prove broad innovation access or resolve the digital divide; do not attach unverified launch, budget, or ranking data. |
 
 ## 7. India-first illustration starters
 
@@ -170,7 +182,6 @@ plan to use and, for each, write one sentence stating the specific claim
 it supports. Cross out any illustration whose supporting claim is vague
 or shared with another illustration.
 
-**Self-check:** For every quotation you plan to use (including the
-prompt itself), have you avoided attaching an author's name unless you
-can verify it against a primary/authoritative source? If any name is
-unverified, remove it.
+**Self-check:** For every quotation and current statistic, do you have
+the authoritative source and (for a current claim) date needed to stand
+behind it? If not, paraphrase qualitatively or remove it.

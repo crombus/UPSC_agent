@@ -34,8 +34,8 @@ allows two values (e.g., `n^2 = 49` -> `n = ±7`), or two statements that are se
 | ✅ **Dependent statements** | If II is a multiple/rearrangement of I - or is **logically implied** by I - it adds nothing. | Two unknowns need two **independent** relations. Nesting can be hidden behind different-looking wording. |
 | ✅ **Necessary vs sufficient** | In `A -> B`, A is sufficient for B, B is necessary for A. | Two individually **necessary** statements can be jointly **sufficient** - that is exactly the (c) verdict. |
 | ✅ **Surd comparison** | Compare `sqrt a + sqrt b` vs `sqrt c` by squaring (both sides positive). | Squaring preserves order only for non-negative quantities. |
-| ✅ **AM-GM / bounded optimum** | For fixed sum, the product is maximised when the parts are equal. | State the domain (integers vs reals) - it changes the optimum. |
-| ✅ **Interval arithmetic** | For `a < x < b`, `c < y < d`: `a+c < x+y < b+d`. | **Sums** are safe. **Products are not**: if either interval straddles zero, evaluate all **four corners** and take the min/max. |
+| ✅ **AM-GM / bounded optimum** | For non-negative real parts with fixed sum, the product is maximised at equal parts. | AM-GM itself needs non-negative terms; for integer parts choose the nearest permitted integers, and respect any positive/distinct bounds. |
+| ✅ **Interval arithmetic** | For `a < x < b`, `c < y < d`: `a+c < x+y < b+d`. | For a product on a rectangular interval, compare all four endpoint products; retain open/closed endpoints. Division additionally requires the divisor interval to exclude zero. |
 
 ## 3. Harder methods (worked)
 
@@ -87,6 +87,17 @@ STAGE 2 - MAP to whatever (a)/(b)/(c)/(d) actually say on this paper
 - 🔑 **Escalation rule:** if your verdict is "self-sufficient" but (d) says "cannot be answered", you
   have almost certainly misread the question - go back to the stem, not to the statements.
 
+### 📝 Method 5 - optimum and interval endpoints
+
+**Integer optimum.** Positive integers `x,y` have `x+y=11`. Their product is largest at the nearest
+integers to `11/2`: `x,y = 5,6`, so the maximum is **30**, not `11²/4 = 30.25` (which is the real,
+not integer, bound). AM-GM applies because the parts are positive.
+
+**Endpoint-aware interval.** If `-2 < x <= 3` and `1 <= y < 4`, the four limiting corner products
+are `-2, -8, 3, 12`. Thus `-8 < xy < 12`: neither extreme is reached because the responsible
+endpoint (`x=-2` for the minimum and `y=4` for the maximum) is excluded. Do not silently convert
+open bounds into closed ones.
+
 ## 4. Time-saving techniques (safe conditions)
 
 - ⚠️ **Stop at uniqueness** in DS; never fully solve. *Safe always - it is the whole skill.*
@@ -94,8 +105,8 @@ STAGE 2 - MAP to whatever (a)/(b)/(c)/(d) actually say on this paper
   always.*
 - ⚠️ **Factor out common surds** (`11 sqrt2` vs `10 sqrt2`) to compare instantly. *Safe when a common
   radical exists.*
-- ⚠️ **Equal-parts optimum** for fixed-sum products. *Safe for reals; for integers, use the nearest
-  integers to the mean.*
+- ⚠️ **Equal-parts optimum** for a fixed-sum product. *Use AM-GM only for non-negative parts; for
+  integers use the nearest permitted integers to the mean, then check any bounds/distinctness rule.*
 
 ## 5. Boundary cases
 
@@ -103,7 +114,9 @@ STAGE 2 - MAP to whatever (a)/(b)/(c)/(d) actually say on this paper
   insufficient until proven unique.
 - ⚠️ Two equations can be **inconsistent** (no solution) as well as dependent (many solutions) - both
   block a unique answer.
-- ⚠️ Interval products can flip sign if endpoints straddle zero - check the extreme corners.
+- ⚠️ Interval products need all four corner products even when neither interval straddles zero; then
+  preserve whether each extremal endpoint is open or closed. Interval division is unsafe if the
+  divisor interval contains zero.
 
 ## 6. Advanced traps
 
@@ -113,7 +126,8 @@ STAGE 2 - MAP to whatever (a)/(b)/(c)/(d) actually say on this paper
   -> Ask "does I already force II?".
 - ❌ Treating a **necessary** condition as sufficient. -> "Divisible by 3" does not give "divisible
   by 6"; the pair does.
-- ❌ Multiplying interval endpoints when a range straddles zero. -> Take all four corners.
+- ❌ Multiplying corresponding interval endpoints. -> Take all four corners and preserve endpoint
+  inclusion; never divide through an interval containing zero.
 - ❌ Comparing surds by rough decimals when they are close. -> Square or factor the common radical.
 - ❌ Reflexively computing a value in DS. -> Decide sufficiency and move on.
 - ❌ Choosing the DS letter before reading what that letter says on **this** paper. -> Verdict first,
@@ -144,6 +158,8 @@ STAGE 2 - MAP to whatever (a)/(b)/(c)/(d) actually say on this paper
    II: `n` is even.
 5. Given `-2 < x < 3` and `1 < y < 4`, state the range of `xy`.
 6. Which is larger, `5^100` or `3^150`?
+7. Positive integers `a` and `b` satisfy `a+b=17`. What is their maximum product?
+8. Given `-1 <= x < 2` and `2 <= y <= 5`, state the range of `xy`.
 
 **Solutions.**
 
@@ -167,8 +183,19 @@ STAGE 2 - MAP to whatever (a)/(b)/(c)/(d) actually say on this paper
    minimum - it is valid only when both intervals are positive.
 6. **`3^150`.** Equalise the exponent: `5^100 = (5^2)^50 = 25^50` and `3^150 = (3^3)^50 = 27^50`, and
    `27 > 25`. *(Verified by exact integer comparison.)*
+7. **72.** The nearest integers to `17/2` are 8 and 9, so `8 x 9 = 72`. The real equal-parts bound
+   is `72.25`, but it is unavailable to integers. *(Verified.)*
+8. **`[-5, 10)`.** The corner products are `-2, -5, 4, 10`; `-5` is attained at `x=-1,y=5`, whereas
+   10 would require excluded `x=2`. *(Verified.)*
 
-## 9. PYQ-pattern notes (2024-2026, Set A)
+## 9. Timed transfer and retry gate
+
+Attempt the eight drills in **12 minutes**, recording each miss as C, A, X, R, or T. A DS answer is
+not complete until its printed option wording is checked. Retry the failed form after a 20-minute
+gap. Advance only at **7/8 or better**, with no false-uniqueness, denominator, or endpoint error;
+otherwise redo the corresponding method and take a fresh set.
+
+## 10. PYQ-pattern notes (2024-2026, Set A)
 
 - ⚠️ Read **Topic 05 and Topic 06 together**: the two-statement **data-sufficiency** format is a major,
   recurring block, and its content often overlaps with reasoning/coding (see the trend-table caveat in
@@ -185,7 +212,7 @@ STAGE 2 - MAP to whatever (a)/(b)/(c)/(d) actually say on this paper
 - ⚠️ The paper repeatedly punishes **false uniqueness** and **over-solving** - the two habits this file
   drills hardest.
 
-## 10. Study links
+## 11. Study links
 
 - ✅ [Foundation companion](../basic/05_Algebra-Inequalities-and-Data-Sufficiency.md).
 - ✅ [Logical Reasoning, Coding, Counting and DI](./06_Logical-Reasoning-Coding-Counting-and-DI.md) - DS content often overlaps reasoning.

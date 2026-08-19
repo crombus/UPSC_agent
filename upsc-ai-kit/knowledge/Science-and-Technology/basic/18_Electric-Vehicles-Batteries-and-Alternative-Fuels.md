@@ -152,6 +152,27 @@ electrons move through external circuit during discharge to power the motor
 - ✅ `08_Digital-India-and-India-Stack-UPI-Aadhaar.md` — useful where charging, fleet management and digital platforms intersect.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — autonomous and smart-mobility layers overlap with EV deployment.
 - ✅ `../../Environment-and-Ecology/basic/25_Renewable-Energy-and-Green-Hydrogen.md` — generation and hydrogen-production side; this topic stays focused on mobility technology and policy.
+## Core answer architecture — clean mobility, batteries and fuel choice
+
+**Thesis choice.** Clean mobility must be assessed across an energy and material life cycle; tailpipe-zero is not lifecycle-zero, and a technology’s current deployment should not be inferred from an announced scheme or capacity target.
+
+**10-mark spine.** Identify the drivetrain and energy carrier; trace energy conversion/storage; give an India-relevant use; state one infrastructure, safety, resource or grid qualification.
+
+**15/20-mark spine.** Use **vehicle architecture → battery/fuel supply chain → operating and lifecycle effects → policy/infrastructure and equity → safety/recycling/critical-material verdict**.
+
+**Evidence units.**
+- **Claim:** electric-drive options differ in where electricity originates → **HEV, PHEV, BEV and FCEV architectures** → separates plug-in charging, combustion-assisted hybrid and fuel-cell pathways → **qualification:** all electric-drive labels do not imply the same charging/fuelling infrastructure, efficiency or emissions profile.
+- **Claim:** batteries are systems rather than a single mineral → **cathode, anode, electrolyte, separator, cell/module/pack and battery-management system** → explains energy density, thermal safety and repair/recycling needs → **qualification:** announced cell capacity is not operating manufacturing capacity or safe deployed fleet stock.
+- **Claim:** environmental value depends on the whole chain → **mining/material processing, electricity source, vehicle use, reuse and recycling** → locates emissions and resource impacts beyond tailpipe → **qualification:** critical-mineral dependence, fire risk, charging access and grid cleanliness can change distributional outcomes.
+
+**Verdict.** A credible transition combines public transport, efficient vehicles, safer charging, clean electricity, domestic value addition and circular battery systems rather than a single-technology bet.
+
+## Routed PYQ evidence — fuel cells and hydrogen-enriched CNG
+
+- **Fuel-cell electric vehicle:** an onboard fuel cell electrochemically combines hydrogen and oxygen to generate electricity; the direct tailpipe products are water and heat. This does not make the life cycle automatically zero-emission because hydrogen production, compression, transport and vehicle manufacture matter.
+- **Hydrogen-enriched CNG:** adding hydrogen to CNG can change combustion characteristics and may reduce selected local pollutants in an appropriate engine/calibration context. It is not the same as a hydrogen fuel-cell vehicle and must not be described as universally cleaner without specifying blend, engine, measurement and upstream fuel source.
+- **Comparison rule:** BEV stores electricity in a battery; HEV/PHEV retain an engine; FCEV makes electricity onboard. Infrastructure, materials, cost and safety differ across all three.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

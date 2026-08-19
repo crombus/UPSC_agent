@@ -138,8 +138,134 @@
 - ⚠️ "Assess the significance of the Locarno phase in interwar diplomacy."
 - ⚠️ "How did appeasement and revisionist aggression together push Europe towards war?"
 
-## 8. Study link
+## 8. Answer architecture (10/15/20-mark support)
 
-> **Study link:** World-History → `advanced/11_International-Relations-1919-39.md` for League verdict debates, appeasement justifications and blame for the Second World War.
+> **Core-sufficiency note:** this file must independently support League-evaluation,
+> appeasement-evaluation and origins-of-WWII demands. `advanced/11` adds the
+> "could the League have succeeded?" and blame historiography only.
+
+### 8.1 Directive and demand map
+
+| If the question says | It is really testing | Do NOT write |
+|---|---|---|
+| *Why did the League fail?* | Structural design **and** member-state will, plus its real successes | A list of failures |
+| *Assess the Locarno phase* | Whether reconciliation was genuine or conditional on prosperity | "The Locarno spirit was good" |
+| *Examine appeasement* | Why it looked rational in context **and** why it failed | Hindsight condemnation |
+| *Who caused the Second World War?* | Hitler's aims vs systemic and Allied contributions | Naming Hitler and stopping |
+| *Collective security* | Why a doctrine that requires prior commitment failed among states that would not commit | Defining the term only |
+| *Depression and international relations* | The economic-to-diplomatic transmission mechanism | Economics without diplomacy |
+
+### 8.2 Qualified thesis templates
+
+- ⚠️ **League:** "The League failed not because its design was worthless but because collective security requires states to accept risk in advance, and its principal members would not — a political failure that its institutional weaknesses merely made easier."
+- ⚠️ **Locarno:** "The Locarno settlement was genuine but conditional: it rested on economic recovery and on leaving the eastern frontiers unguaranteed, and both conditions failed together after 1929."
+- ⚠️ **Appeasement:** "Appeasement was a defensible response to a misdiagnosed problem: it treated Hitler as a revisionist with finite grievances rather than as an expansionist with unlimited ones."
+- ⚠️ **Origins of WWII:** "Hitler's aims were the necessary cause; the Depression, the unenforced settlement and the sequence of unpunished aggressions were the conditions that made those aims achievable."
+
+### 8.3 Mark-scaled structures
+
+| Marks | Structure |
+|---|---|
+| **10** | Thesis → **two** structural weaknesses **and** one genuine success → the decisive crisis → verdict |
+| **15** | Thesis → aims and design → 1920s partial recovery → Depression as turning point → 1930s crisis sequence → verdict |
+| **20** | All of the above → **plus** appeasement evaluated on its own terms, the non-European dimension (Manchuria, Abyssinia) and the origins-of-war question → verdict |
+
+### 8.4 Evidence bank A — the League: successes, weaknesses, and the decisive crises
+
+| Genuine successes (✅ — use these to earn balance marks) | Structural weaknesses (✅) |
+|---|---|
+| ILO work on labour conditions | Too closely tied to the Versailles order |
+| Refugee work under **Fridtjof Nansen** | The USA never joined |
+| Health work against epidemics such as typhus | Germany joined only in 1926; the USSR only in 1934 |
+| Saar administration and plebiscite | The Conference of Ambassadors often overshadowed it |
+| Settlement of the Aaland Islands, Upper Silesia, the Greek-Bulgarian dispute and Mosul | Unanimity rules and no League army |
+| — | Members would not commit to fight aggressors |
+
+**The two crises that broke it (✅):**
+
+| Crisis | What it proved | Why it mattered more than the design flaws |
+|---|---|---|
+| **Manchuria, 1931** | A great power could defy the League and keep its gains | Demonstrated impunity to every other revisionist state |
+| **Abyssinia, 1935** | Sanctions were half-hearted and ineffective | Destroyed League prestige among the very states it needed |
+
+⚠️ **The examinable line:** ✅ Lowe's bottom line — the League was only as strong as Britain's and
+France's willingness to support it, and that determination was missing in the 1930s.
+
+### 8.5 Evidence bank B — the 1920s: how fragile was the recovery?
+
+| Agreement | ✅ Year and content | ⚠️ Built-in weakness |
+|---|---|---|
+| Washington Conferences | ✅ 1921–22: naval limits and temporary Far Eastern easing | Did not restrain land forces or Japanese continental ambition |
+| Dawes Plan | ✅ 1924: American loan; reparations made manageable; French leave the Ruhr | Made European stability dependent on American credit |
+| Locarno Treaties | ✅ 1925: western frontiers guaranteed | ✅ Eastern frontiers **not** guaranteed — an open invitation eastward |
+| Germany enters the League | ✅ 1926 | Reversed in 1933 |
+| Kellogg-Briand Pact | ✅ 1928: war renounced | ✅ No sanctions clause; no enforcement mechanism |
+| Young Plan | ✅ 1929: reparations cut to **£2000 million** | Arrived as the Depression began |
+
+```text
+American loans (Dawes 1924)
+    -> European recovery and the "Locarno spirit"
+    -> Wall Street crash and Depression (1929)
+    -> loans withdrawn, unemployment, political radicalisation
+    -> Manchuria 1931, Nazi power 1933, Abyssinia 1935
+    => collective security collapses
+```
+
+⚠️ **This chain is the highest-value single diagram in the topic:** it converts "the Depression
+caused fascism" into a specific economic-to-diplomatic transmission mechanism.
+
+⚠️ **Mechanism owner for the Depression itself.** This file uses the Depression as a *causal
+variable*. Its causes, its transmission channels and the policy instruments used against it are
+owned by **`basic/20` §9** — in particular ✅ §9.5, which supplies the credit-withdrawal evidence
+this chain depends on: after the Crash the USA "stopped any further loans and began to call in
+many of the short-term loans already made to Germany", producing "a crisis of confidence in the
+currency" and "a run on the banks". ⚠️ Use that mechanism here; do not re-derive it, and do not
+answer a Depression question from this file alone.
+
+### 8.6 Evidence bank C — appeasement, evaluated on its own terms
+
+| ⚠️ Why appeasement looked rational in the 1930s | ✅ Evidence in this file | ⚠️ Why it failed |
+|---|---|---|
+| Some German grievances were widely conceded to be genuine | ✅ Lowe defines appeasement as avoiding war by giving way so long as demands did not seem too unreasonable | It could not distinguish finite grievance from unlimited ambition |
+| Memory of 1914–18 made war politically unthinkable | ✅ (see `basic/10` on total war and casualties) | Deterrence requires a credible threat that appeasement removed |
+| The anti-German front was already broken | ✅ Anglo-German Naval Agreement, 1935, broke the Stresa Front | Britain and France were not acting as a bloc |
+| Rearmament was incomplete | ⚠️ Delay was defended as buying time | The delay also bought Germany time |
+| The USSR was distrusted as a partner | ✅ Neither the Czechs nor the Russians were invited to Munich | Exclusion of the USSR made the Nazi-Soviet Pact possible |
+| Each concession was individually defensible | ✅ Rhineland 1936; Anschluss 1938; Sudetenland at Munich, Sept 1938 | ✅ Hitler learned that protest without force meant little |
+| The self-determination argument had a limit | ✅ Prague, March 1939 — Hitler seized non-German territory | This shattered appeasement's own justification |
+
+### 8.7 Evidence bank D — the crisis sequence, 1931–39 (for causal answers)
+
+✅ Manchuria 1931 → ✅ disarmament failure and Hitler's accession 1933 → ✅ Abyssinia 1935 →
+✅ Anglo-German Naval Agreement 1935 → ✅ Rhineland 1936 → ✅ Spanish Civil War 1936–39 (Germany
+and Italy help Franco; Britain and France stay out) → ✅ Anschluss 1938 → ✅ Munich Sept 1938 →
+✅ Prague March 1939 → ✅ Nazi-Soviet Pact Aug 1939 → ✅ Poland Sept 1939.
+
+⚠️ **Read the sequence as a learning process on both sides:** each unpunished act raised the
+aggressor's estimate of what was possible and lowered the defenders' estimate of what was worth
+fighting for. That is the causal engine — not a list of dates.
+
+### 8.8 Verdict scaffolds
+
+- **"Why did the League fail?"** → "It failed at enforcement while succeeding at administration — which is the precise verdict, because it shows the failure was political, not organisational."
+- **"Locarno: peace or illusion?"** → "Genuine while prosperity lasted and geographically incomplete from the start; the unguaranteed eastern frontier was the flaw the 1930s exploited."
+- **"Appeasement?"** → "A rational policy against the wrong opponent — its error was diagnostic, not moral, and Prague in March 1939 is the moment the diagnosis was proved wrong."
+- **"Who caused the war?"** → "Hitler's expansionism was the proximate and necessary cause; the permissive causes were an unenforced settlement, a collapsed economy, a discredited League and the deliberate exclusion of the USSR from collective resistance."
+
+### 8.9 Factual-risk controls
+
+- ❌ Do not say Locarno guaranteed all German frontiers. ✅ Western frontiers only.
+- ❌ Do not say Kellogg-Briand had enforcement machinery. ✅ It had none.
+- ❌ Do not date the League's establishment other than ✅ **10 January 1920**.
+- ❌ Do not confuse the League's technical and social successes with peace enforcement — name both.
+- ❌ Do not claim the League collapsed only because of Hitler. ✅ Manchuria and Abyssinia had already exposed the weakness.
+- ❌ Do not give a Young Plan figure other than ✅ **£2000 million**, or a Versailles figure other than ✅ £6600 million.
+- ❌ Do not state that Britain and France declared war on Germany before ✅ the September 1939 invasion of Poland.
+- ❌ Do not attribute the phrase "peace for our time" or any other quotation to Chamberlain; it is not sourced in this folder.
+
+## 9. Study link
+
+> **Study link:** World-History → `advanced/11_International-Relations-1919-39.md` for League and blame historiography (optional).
 > **Study link:** World-History → `basic/12_Rise-of-Fascism-Italy-Germany-Japan.md` for the regimes driving revisionist foreign policy.
+> **Study link:** World-History → `basic/10_First-World-War-and-Aftermath.md` §8.6 for the treaty cluster that this order rested on.
 > **Study link:** Modern-Indian-History → `basic/22_Simon-Nehru-Report-CDM-and-RTC.md` and `basic/24_Government-of-India-Act-1935-and-Congress-Ministries.md` for the wider interwar imperial setting without duplicating Indian content here.

@@ -5,10 +5,10 @@
 > **Core area:** A governed catalogue of India-centred illustrations,
 > each following claim → candidate illustration → essay function → limitation
 > → source-module link — never a bare fact dump.
-> **Grounded in:** general awareness/training knowledge, used only for
-> well-established, non-statistical institutional and historical facts;
-> linked GS subject modules for full depth; audited 2024–2025 UPSC Essay
-> paper corpus (see `../README.md`) for prompt mapping.
+> **Grounded in:** durable Constitution/Act texts, official institutional
+> owners and dated official sources identified in Section 6; linked GS
+> subject modules for full depth; audited 2024–2025 UPSC Essay paper
+> corpus (see `../README.md`) for prompt mapping.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../advanced/12_India-Centric-Illustration-Bank.md`
@@ -24,9 +24,10 @@ format and links each to the prompt(s) and lens(es) it serves.
 
 ## 2. Core terms in plain language
 
-- **Candidate illustration:** a well-known, non-statistical institutional,
-  historical, or policy example requiring source-module or primary-source
-  confirmation before use.
+- **Source-status-tagged illustration:** a non-statistical institutional,
+  historical, constitutional, statutory or policy example whose row states
+  whether it rests on a primary text, durable owner or a refreshed official
+  source.
 - **Essay function:** the specific claim the example is used to
   demonstrate — never used as a standalone fact.
 - **Limitation:** the boundary of what the example does *not* prove, so
@@ -34,24 +35,24 @@ format and links each to the prompt(s) and lens(es) it serves.
 - **Source-module link:** the GS folder owning the full depth of this
   fact, for further study.
 
-## 3. ✅ Exam facts / source basis
+## 3. ✅ Evidence and source basis
 
-- ⚠️ The illustrations catalogued below are drawn from general
-  awareness/training knowledge, not from the two audited Essay papers
-  themselves (which supply no examples) — they are offered as
-  **candidate-recalled, verifiable** resources, and should be checked
-  against the linked source module or a current source before use in a
-  live attempt.
-- ❌ No specific current statistic (a percentage, a rupee figure, a
-  ranking) is asserted in this bank unless independently verified at the
-  time of use — this bank deliberately avoids unsupported dynamic
-  numbers.
+- The bank uses durable constitutional, statutory, institutional and
+  historical facts. Every row names a **source status** and an owning
+  module; it is not permission to invent a number, outcome, or quotation.
+- ✅ A primary-text row may be used qualitatively as written. Check the
+  linked owner before quoting a provision or adding a current outcome.
+- 📰 A live-policy row must be refreshed against the named official source
+  immediately before a live attempt. Its date is part of the fact.
+- ❌ No percentage, ranking, funding figure, beneficiary count, or claimed
+  implementation outcome belongs in this bank without a dated authoritative
+  source.
 
 ## 4. The central idea and common misreading
 
 ⚠️ **Central idea:** every illustration must be usable in the exact
-chain **claim → candidate illustration → essay function → limitation →
-source-module link** — an example without a stated function and
+chain **claim → fact/source status → essay function → limitation →
+owner** — an example without a stated function and
 limitation is a fact dump, not an essay illustration. ❌ **Common
 misreading:** memorising a list of "good examples for Essay" and
 inserting them wherever convenient, regardless of whether they actually
@@ -68,41 +69,49 @@ demonstrate the specific claim at hand.
 5. Which GS module owns the full depth of this fact, if the reader wants
    more?
 
-## 6. Dimension-expansion grid — worked illustrations
+## 6. Cross-domain illustration bank — claim → fact/source status → function → limitation → owner
 
-| Claim | Candidate illustration (verify before use) | Essay function | Limitation | Source-module link |
+| Claim | Durable fact and source status | Essay function | Limitation | Owner |
 |---|---|---|---|---|
-| Grassroots collective action can constrain extractive resource use | The Chipko movement (1970s Himalayan forest-protection movement) | Illustrates 2024-A1 (forests/deserts) — community agency limiting ecological overreach | One historical movement does not prove all extractive pressure is reversible by community action alone | `Environment-and-Ecology`, `Modern-Indian-History` |
-| Institutional transparency mechanisms can constrain discretionary power | The Right to Information Act, 2005, enabling citizen scrutiny of public authority | Illustrates 2024-B6 (power tests character) — accountable power as institutional, not only personal, virtue | Transparency law alone does not guarantee use, enforcement, or absence of misuse of power | `Governance`, `Polity` |
-| Knowledge/research investment can translate into strategic and economic capability | India's space programme (ISRO) as a long-run, indigenously built scientific-institutional capacity | Illustrates 2024-A2 (empires of the mind) — institutional knowledge-power | A single successful institution does not, by itself, resolve a broader digital-divide or innovation-access question | `Science-and-Technology`, `Economy` |
-| A public-health/behavioural mobilisation can involve widespread civic participation | Nationwide sanitation-behaviour campaigns (e.g. Swachh Bharat Mission) | Illustrates 2024-B8 (cost of being wrong vs. doing nothing) — the value of large-scale civic experimentation | Participation and stated goals do not by themselves establish complete, uniform outcomes everywhere | `Governance`, `Indian-Society` |
-| AI governance can pair innovation with explicit ethical guardrails | India AI Governance Guidelines, November 2025 | Illustrates 2024-A2/2025-A3: knowledge creates power and worlds, but fairness, accountability and safety must govern that power | Guidelines are a policy framework, not a comprehensive AI statute or proof of implementation | `Ethics`, `Science-and-Technology` |
-| Technology policy can integrate people, planet and progress | India AI Impact Summit, 16-21 February 2026 | Illustrates science/knowledge prompts through an India-led attempt to join inclusion, sustainability and innovation | A summit framework is an agenda, not evidence that every outcome has been delivered | `Science-and-Technology`, `International-Relations` |
-| Data governance uses phased implementation rather than one-day transformation | DPDP Rules notified 13 November 2025 with staged commencement | Illustrates 2024-B8: action can be sequenced and safeguarded rather than postponed indefinitely | Data protection is not the whole platform-safety or AI-governance problem | `Science-and-Technology`, `Internal-Security` |
+| Community agency can restrain extraction | Chipko was a 1970s Himalayan forest-protection movement. **Verified local historical source.** | Ecological restraint; collective action | One movement cannot settle every development trade-off | `Environment-and-Ecology`, `Modern-Indian-History` |
+| Institutions can check discretionary power | RTI Act, 2005 creates Central and State Information Commissions. **Verified local polity source.** | Accountability beyond personal virtue | Disclosure alone does not assure remedy | `Governance`, `Polity` |
+| Knowledge capacity is a form of national power | ISRO is India’s civil space institution. **Durable institutional fact; ISRO owner.** | Long-horizon public research capacity | One institution does not prove universally inclusive innovation | `Science-and-Technology`, `Economy` |
+| Equality needs institutional protection | Articles 14–16 establish equality before law and non-discrimination/equal opportunity. **Primary Constitution text.** | From formal equality to public obligation | Formal equality does not itself remove social disadvantage | `Polity`, `Social-Justice` |
+| Dignity requires social reform as well as law | Article 17 abolishes untouchability. **Primary Constitution text.** | Law as a moral-civic commitment | Constitutional prohibition alone cannot establish lived equality | `Polity`, `Indian-Society` |
+| Representation can redistribute voice | The 73rd Amendment provides that not less than one-third of panchayat seats are reserved for women. **Primary Constitution text.** | Gendered participation in local democracy | Presence in office is not identical to effective agency | `Polity`, `Indian-Society` |
+| Work security can be framed as entitlement | MGNREGA is a 2005 Act providing a legal rural employment guarantee. **Primary Act; use no outcome statistic without refresh.** | Dignity of labour and state capacity | A statutory guarantee does not prove uniform delivery | `Economy`, `Governance` |
+| Cooperation can connect producers and markets | Amul grew through dairy cooperatives. **Durable NDDB/cooperative-history fact.** | Collective economic agency | A cooperative example is not a solution to every farm-market problem | `Economy`, `Governance` |
+| Education is a rights-based public good | RTE Act, 2009 provides free and compulsory education for children aged 6–14. **Primary Act.** | Capability formation across generations | Enrolment entitlement is not proof of learning quality | `Social-Justice`, `Indian-Society` |
+| Nutrition and dignity require public systems | National Food Security Act, 2013 provides a statutory food-security framework. **Primary Act.** | Welfare as capability protection | Legal coverage does not establish nutritional adequacy | `Economy`, `Social-Justice` |
+| Federalism needs a forum, not merely divided lists | Article 279A establishes the GST Council. **Primary Constitution text.** | Negotiated intergovernmental coordination | A forum does not erase fiscal disagreement | `Polity`, `Economy` |
+| Constitutional remedies make rights actionable | Article 32 guarantees the right to move the Supreme Court for enforcement of fundamental rights. **Primary Constitution text.** | Judiciary as rights-protecting institution | Litigation access and enforcement can remain uneven | `Polity`, `Governance` |
+| Plural culture needs constitutional space | Articles 29–30 protect cultural and educational rights of minorities. **Primary Constitution text.** | Diversity within constitutional citizenship | Protection of groups must coexist with equal individual rights | `Polity`, `Indian-Art-and-Culture` |
+| Public action must prepare for shocks | Disaster Management Act, 2005 provides the statutory disaster-management framework. **Primary Act.** | Prevention and institutional preparedness | A framework does not prove local readiness | `Disaster-Management`, `Governance` |
+| Peace can be pursued without romanticising power | Panchsheel was articulated in the 1954 India–China agreement. **Durable MEA historical record.** | Coexistence and diplomatic restraint | Principles do not eliminate strategic conflict | `International-Relations`, `Modern-Indian-History` |
+| Access to justice has a distributive dimension | Article 39A directs equal justice and free legal aid. **Primary Constitution text.** | Justice beyond formal courtroom equality | A directive principle is not proof of universal access | `Polity`, `Social-Justice` |
+| Public campaigns can mobilise behavioural action | Swachh Bharat Mission is a nationwide sanitation mission. **Official programme owner; do not claim outcomes without a dated source.** | Civic participation plus state coordination | Participation and targets are not uniform outcomes | `Governance`, `Indian-Society` |
+| Innovation needs guardrails | India AI Governance Guidelines were launched in **2026**. **📰 Official IndiaAI source; refresh implementation claims.** | Accountable innovation | Guidelines are not a comprehensive AI statute or proof of implementation | `Ethics`, `Science-and-Technology` |
+| Technology diplomacy can frame shared goals | India AI Impact Summit’s core summit ran **16–20 February 2026**; its Expo extended to 21 February. **📰 Official IndiaAI source.** | People–Planet–Progress framing | An agenda/event is not delivered impact | `Science-and-Technology`, `International-Relations` |
+| Safeguarded action may be phased | Digital Personal Data Protection Rules, 2025 were notified **13 November 2025**, with staged commencement. **📰 MeitY Gazette notification.** | Sequenced regulation rather than paralysis | Data protection does not resolve every platform or AI harm | `Science-and-Technology`, `Internal-Security` |
 
-✅ **Verified in this pass against local source texts** (the rest of the
-table remains candidate-recalled and still requires confirmation before
-live use):
+⚠️ The function and limitation columns are analytical judgements. The
+source status validates only the durable factual core; it never validates
+an exaggerated inference.
 
-- **Right to Information Act, 2005** — the Act's year and its creation of
-  the Central and State Information Commissions are confirmed in
-  M. Laxmikanth, *Indian Polity* (chapters on the Central Information
-  Commission and State Information Commission).
-- **Chipko movement, 1970s** — placed in the 1970s wave of movements
-  alongside the Naxalite, JP and 1973-75 anti-price-rise movements, with
-  Sunderlal Bahuguna named in connection with the agitation, in Bipan
-  Chandra et al., *India After Independence*.
+## 7. Selection, reuse and refresh protocol
 
-⚠️ Verifying the *fact* is not the same as verifying the *inference*: the
-essay function and limitation stated for each row above remain this
-folder's analytical judgement, not a claim sourced from those texts.
+```text
+PROMPT CLAIM -> choose a cross-domain example -> state its mechanism
+     -> state the limitation -> record owner/source status
+     -> live or dated policy? refresh official source and date
+     -> reused example? give it a demonstrably different function
+```
 
-## 7. India-first illustration starters
-
-⚠️ For a prompt you have not yet illustrated, first ask: which
-institution, movement, or documented episode do you already know well
-enough to state without invented detail? Start there rather than
-searching for an unfamiliar "impressive" example.
+Reuse is allowed only when the paragraph claim and stated function differ.
+Do not use one familiar example in both essays merely because it is easy
+to recall. For 📰 entries, re-check the owning official source immediately
+before writing; remove the entry if status, date or claimed implementation
+cannot be confirmed.
 
 ## 8. Thesis options and selection
 
@@ -141,10 +150,9 @@ own tension (`06`).
 
 ## 12. Timed micro-drill and self-check
 
-**5-minute drill:** Pick one illustration from Section 6. Write out its
-full chain (claim → example → function → limitation → source-module
-link) from memory without looking, for a prompt not already mapped to it
-above.
+**5-minute drill:** Pick a row from a domain you normally avoid. For an
+unmapped prompt, write its full chain (claim → fact/source status →
+function → limitation → owner) from memory, then verify the source status.
 
 **Self-check:** For any illustration you plan to use, can you state its
 limitation as confidently as its function? If you can only state the

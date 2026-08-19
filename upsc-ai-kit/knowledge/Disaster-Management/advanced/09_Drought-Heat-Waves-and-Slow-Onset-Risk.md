@@ -15,13 +15,15 @@
 
 **Thesis:** ⚠️ Drought and heat waves are frequently under-classified as
 "disasters" in India's institutional imagination precisely because they
-are slow-onset — VisionIAS's own material shows heat waves being managed
-through locally initiated HAPs rather than a uniform national statutory
-framework, and drought triggering a formal declaration only after a
-**Manual for Drought Management** multi-indicator assessment (rainfall,
-vegetation/crop condition, soil moisture, hydrological indicators) —
-meaning both hazards' institutional visibility lags their actual,
-cumulative human cost. **Boundary:** ❌ this topic does not cover
+are slow-onset. VisionIAS records a source-period reliance on locally
+initiated HAPs rather than a uniform delivery framework, while drought
+triggers a formal declaration only after a **Manual for Drought
+Management** multi-indicator assessment (rainfall, vegetation/crop
+condition, soil moisture, hydrological indicators). MHA's 15 August 2026
+response-fund page now lists heatwave and lightning among 14 nationally
+notified SDRF disasters; that eligibility change does not itself
+establish uniform HAP delivery, cooling access or worker protection.
+**Boundary:** ❌ this topic does not cover
 monsoon/climate physics (Geography/Environment's domain) or irrigation-
 infrastructure policy generally (Economy's domain) beyond their direct
 disaster-risk relevance.
@@ -40,8 +42,8 @@ concurrent drought-driven water scarcity
         |
         v
 INSTITUTIONAL VISIBILITY LAG
-(threshold-triggered declaration; locally
-initiated HAPs, not a uniform statutory regime)
+(threshold-triggered declaration; variable
+HAP delivery and local capacity)
         |
         v
 DELAYED OR PARTIAL RESPONSE
@@ -59,21 +61,22 @@ separate response measures.
 
 ## 3. Legal/institutional depth
 
-- ✅ **Heat waves as a locally, not nationally, institutionalised
-  hazard**: VisionIAS explicitly states "heat waves are currently
-  considered local disasters," with HAPs financed through "a pooling
-  arrangement, with governments at different levels and the private
-  sector contributing," while noting "their increasing severity will
-  necessitate a broader national approach" (PDF p. 42) — a direct
-  source-acknowledged institutional-design gap.
+- ✅ **Heat-wave local-status statement as document-period evidence**:
+  VisionIAS states that heat waves were then considered local disasters,
+  with HAPs financed through a pooling arrangement, and that a broader
+  national approach was needed (PDF p. 42). 📰 MHA's 15 August 2026
+  response-fund page now lists heatwave and lightning among 14 nationally
+  notified SDRF disasters. The remaining answer-worthy gap is therefore
+  uneven HAP, cooling, occupational-protection and last-mile delivery,
+  not a claim that heat waves lack national relief eligibility.
 - ✅ **Cold wave's explicit non-national-plan design**: VisionIAS states
   Cold Wave/Frost being "a localised disaster event" should have "location
   specific mitigation plans... drawn up by the concerned State
   Governments instead of a National level plan" (PDF p. 44) — an advanced
   answer should contrast this deliberate localisation choice with heat
-  waves' *unplanned* localisation (heat waves are local only by default/
-  absence of a national framework, not by considered institutional
-  design) — a subtle but real distinction.
+  waves' variable subnational delivery (HAP coverage and implementation
+  remain separate from national relief eligibility) — a subtle but real
+  distinction.
 - ⚠️ **Drought's multi-indicator declaration process**: drought-affected
   status is declared following the **Manual for Drought Management's**
   joint assessment of rainfall deficiency, vegetation/crop-condition
@@ -159,11 +162,11 @@ separate response measures.
   existence does not resolve sub-district data gaps, under-used public-
   messaging channels, or half-hearted traditional-adaptation-practice
   promotion (PDF p. 42).
-- ⚠️ **National-framework absence for heat waves** (Section 3) is itself
-  a governance gap the source explicitly flags as needing correction
-  ("their increasing severity will necessitate a broader national
-  approach," PDF p. 42) — a rare instance of VisionIAS naming a specific
-  future institutional reform direction.
+- ⚠️ **Uniform HAP implementation remains a governance gap.** The
+  source-period call for a broader approach (PDF p. 42) cannot override
+  current national SDRF eligibility; it supports a narrower critique:
+  relief listing alone does not ensure ward-level heat-risk data,
+  accessible cooling, worker protection or accountable HAP delivery.
 
 ## 9. Financing/monitoring/accountability
 
@@ -184,17 +187,17 @@ separate response measures.
   current HAP coverage and any current departure-threshold or mortality
   claim (Heat Wave = departure 4.5-6.4°C, Severe = >6.4°C; declaration
   needs two stations on two consecutive days).
-- 📰 **The notified-disaster boundary is this topic's sharpest
-  governance finding.** Heat wave and lightning — two of India's most
-  lethal recurring hazards — are outside the national list of 12
-  notified disasters. FC16 recorded (1 February 2026) that 11 States had
-  notified heat wave and 16 lightning as State-specific disasters, and
-  recommended national inclusion. ⚠️ An advanced answer should draw the
-  structural inference: the notified list is organised around **discrete,
-  attributable, rapid-onset events**, and slow-onset or diffuse-mortality
-  hazards fit that template poorly — so the fiscal architecture reproduces
-  exactly the visibility bias Section 1 identifies, and correcting it is
-  a *classification* reform, not merely a funding request.
+- 📰 **The notified-disaster boundary changed during this file's source
+  window.** MHA's current response-fund page, retrieved **15 August
+  2026**, lists heatwave and lightning in the national **14-disaster**
+  SDRF list. FC16's 1 February 2026 record of 11 State heat-wave and 16
+  State lightning notifications is therefore historical context, and its
+  recommendation must not be represented as the act of notification.
+  ⚠️ The durable analytical point is narrower: formal national listing
+  enables relief support but does not prove heat-health prevention,
+  last-mile warning, cooling access, worker protection or mortality
+  reduction. Those are implementation and outcome questions, not solved
+  by classification alone.
 - ❌ Do not cite VisionIAS's document-period 68%-drought-prone,
   ~820-million-water-scarce, or CWMI state-ranking figures as current
   without verification; and do not report FC16's recommendation as
@@ -212,12 +215,12 @@ separate response measures.
 ## 12. Mains-ready framework
 
 **Central thesis:** Drought and heat waves are slow-onset hazards whose
-cumulative human cost is systematically under-visible in India's
-institutional response — drought triggers formal support only after a
-Manual for Drought Management multi-indicator assessment, and heat waves
-remain locally, not nationally, institutionalised — meaning closing this
-visibility gap, not merely adding technical monitoring, is the central
-governance reform needed.
+cumulative human cost can remain under-visible in India's institutional
+response. Drought triggers formal support only after a Manual for Drought
+Management multi-indicator assessment; heatwave/lightning now have
+national SDRF eligibility, but that does not ensure equitable HAP,
+cooling or worker-protection delivery. Closing this implementation gap,
+not merely adding technical monitoring, is the central governance reform.
 
 1. **Name the specific drought type and its cascade** (Section 2) rather
    than "drought" generically.

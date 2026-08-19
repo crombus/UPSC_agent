@@ -5,7 +5,7 @@
 > **Core area:** Selecting lens combinations that interact (rather than
 > merely coexist), and matching mechanism to the precise scale where it
 > is most defensible.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
+> **Grounded in:** V1 (2018–2025) UPSC Essay paper corpus (see
 > `../README.md`); `../00_Master-Framework.md` Section 7.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
@@ -15,7 +15,9 @@
 
 ## 1. Advanced proposition and boundary
 
-**Proposition:** ⚠️ the strongest essays use lenses that interact — one
+**Proposition:** ⚠️ Core `11` supplies mechanism–scale–limit cards, one
+interaction chain and basic tests. This companion keeps the harder task:
+the strongest essays use lenses that interact — one
 lens's mechanism creates the condition the next lens's mechanism responds
 to — rather than lenses that sit side by side making independent points.
 **Boundary:** ❌ this topic does not supply the substantive GS content
@@ -160,7 +162,7 @@ counterfactual test in Section 8; log any artificial links in `16`'s
 error log.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
+## V1 PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.

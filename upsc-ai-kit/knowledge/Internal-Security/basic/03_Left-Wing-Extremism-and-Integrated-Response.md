@@ -7,7 +7,8 @@
 > **Grounded in:** Ashok Kumar Singh, *Challenges to Internal Security of
 > India*, PDF pp. 51-65; `00_Master-Framework.md` Sections 4-5; audited
 > GS-III syllabus; MHA National Policy and Action Plan to address LWE
-> (2015); MHA parliamentary reply, 4 February 2026; PIB "Naxal-Free
+> (2015); MHA parliamentary replies (December 2025 and February 2026);
+> PIB "Naxal-Free
 > India" explainer (June 2026).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/03_Left-Wing-Extremism-and-Integrated-Response.md`.*
@@ -142,9 +143,10 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
   (jungle-warfare) battalions and locally recruited units such as the
   **Bastariya Battalion**; name the specific unit rather than "central
   forces" generically.
-- 📰 **MHA Rajya Sabha Starred Question 49 (4 February 2026):** reported
-  that LWE violence had declined by 73% and deaths by 86% since 2010, and
-  that the footprint had fallen from 126 districts in 2013 to 38 in 2024.
+- 📰 **MHA December 2025 parliamentary reply:** reported an **89% decline
+  in LWE violence** and a **91% decline in resultant deaths** since 2010,
+  with **218 incidents in 2025**. These are security metrics; do not turn
+  them into a claim of completed land, forest-rights or governance reform.
 
 ## 5. Indian applications and examples
 
@@ -181,9 +183,10 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
 - 📰 MHA's **National Policy and Action Plan (2015)** is the three-pronged
   policy frame: security, development, and rights/entitlements of local
   communities.
-- 📰 MHA's 4 February 2026 reply reports a 73% decline in violence and an
-  86% decline in deaths since 2010, with the footprint reducing from 126
-  districts in 2013 to 38 in 2024.
+- 📰 A December 2025 MHA parliamentary reply reported an **89% decline in
+  violence**, a **91% decline in deaths** since 2010 and **218 incidents
+  in 2025**. The earlier 73%/86%/38-district formulation is an MHA 2024
+  baseline and must not be re-dated as a 2026 reply.
 
 ## 7. UPSC traps
 
@@ -202,8 +205,8 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
   restoration, is insufficient.
 - ❌ Any 2013-2016-era cadre strength, district count or force-level figure
   in this book reflects the present. -> These are book-period historical
-  figures; the current, dated picture must come from the MHA's 2026
-  parliamentary reply or a subsequent official release.
+  figures; use the December 2025 MHA reply or a later dated official
+  release for a current security metric.
 - ❌ A district removed from the "LWE-affected" list is a district where
   the root causes are resolved. -> The list is an administrative
   classification driving scheme eligibility and force deployment;
@@ -219,10 +222,11 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
 
 ## 8. 📰 Current anchor
 
-- 📰 MHA's Rajya Sabha reply of **4 February 2026** reports a **73% decline
-  in LWE violence and an 86% decline in deaths since 2010**, with the
-  footprint reducing from **126 districts in 2013 to 38 in 2024**,
-  alongside the then-stated objective of eliminating LWE by 31 March 2026.
+- 📰 The **December 2025 MHA parliamentary reply** reports an **89% decline
+  in LWE violence**, a **91% decline in deaths** since 2010 and **218
+  incidents in 2025**. This records a reported security position before
+  the March 2026 target; it does not settle root-cause or rehabilitation
+  outcomes.
 - 📰 PIB's **June 2026 "Naxal-Free India"** explainer subsequently
   describes India as **"effectively free from Left-Wing Extremism"** after
   31 March 2026. Preserve that exact qualification: it records the
@@ -276,7 +280,78 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
   affected populations, and assess the government's measures to eliminate
   it.
 
-## 12. Study links
+## 12. Core answer architecture — LWE, affected people and durable end-state
+
+> **Core firewall:** This Core section, including the current-status
+> discipline below, independently answers the 2018, 2020, 2022 and 2025
+> LWE routes. Advanced adds optional debate, not required content.
+
+### Demand decoder and thesis
+
+**Thesis:** LWE is a Maoist armed challenge to capture state power, not a
+secessionist claim; its violence falls where security, administration,
+rights and development converge, but a violence decline is not the same
+as a completed land, forest-rights or justice settlement.
+
+### Executable Core spines
+
+**10 marks — meaning, people affected and measures (2025).** Define LWE
+and distinguish it from a separatist movement. Cover affected people under
+four heads: coercion/violence; blocked roads, schools and health access;
+land/forest and livelihood insecurity; and weakened panchayat/justice
+presence. Then use the National Policy and Action Plan’s three prongs:
+security, development, and rights/entitlements. Close with **clear → hold
+→ develop**: holding lawful administration is the test of durability.
+
+**15 marks — determinants and differentiated strategy (2020).** Separate
+structural causes (land/forest exclusion, mineral-belt extraction,
+governance deficit) from the organisation’s own extortion/development-
+obstruction strategy. Allocate roles: political executive coordinates
+States and rights safeguards; civil administration restores services and
+grievance mechanisms; police/security forces protect people, infrastructure
+and lawful access. Add PESA/FRA implementation and a qualification that
+their enactment is not proof of delivery.
+
+**20 marks — evaluation/elimination.** Compare security outcomes,
+governance/rights outcomes and reintegration outcomes. End: the viable
+end-state is not a district label or target date but absence of coercive
+parallel authority plus functioning, trusted constitutional governance.
+
+### Current-status discipline
+
+- The **73% violence / 86% deaths / 38-district** figures are an MHA
+  **2024** baseline, not a 4 February 2026 result. Do not re-date them.
+- A later MHA parliamentary reply of **December 2025** reported an
+  **89% decline in violence**, a **91% decline in deaths** since 2010 and
+  **218 incidents in 2025**. These are reported security metrics, not a
+  root-cause verdict.
+- PIB’s June 2026 *Naxal-Free India* material describes India as
+  **“effectively free from Left-Wing Extremism.”** Preserve that qualified
+  official wording; do not convert it into literal zero incidents, zero
+  risk or completed rehabilitation.
+
+### Claim → evidence → analysis → qualification bank
+
+| Claim | Named evidence/example | What it proves | Qualification |
+|---|---|---|---|
+| LWE feeds on a governance-and-rights gap as well as ideology. | Singh’s land/forest-rights and jal-jangal-zameen diagnosis; FRA 2006 and PESA 1996. | Rights delivery is a counter-LWE security capability, not a welfare afterthought. | Legal entitlement or scheme outlay is not evidence of title recognition or trusted delivery. |
+| The organisation can maintain the condition it exploits. | Singh’s mineral-belt extortion and development-obstruction account. | Poverty is not a mechanically sufficient cause; coercive organisation is an active variable. | Do not infer current cadre strength or district control from book-period descriptions. |
+| Security gains need an administrative holding phase. | National Policy and Action Plan, 2015; clear–hold–develop logic. | Roads, police presence and civil administration must arrive together after operations. | A de-listed district is an administrative classification, not proof that grievance is resolved. |
+| Current official claims must be graded. | December 2025 MHA reply and June 2026 PIB wording. | Outcome evidence can be used without treating an announced target as achievement. | Avoid uncited incident, casualty, force-deployment or surrender figures. |
+
+### Direct PYQ routes now owned in Core
+
+- **2018 GS-III:** explain the LWE challenge through cause → organisation
+  → vulnerability → integrated response, rather than narrating Naxalbari.
+- **2020 GS-III:** use the differentiated government/civil-administration/
+  security-force allocation above.
+- **2022 GS-III:** explain why a multi-layered strategy is required and
+  include rights and local trust as operational variables.
+- **2025 GS-III:** use the 10-mark spine and the status ladder above; the
+  paper’s “eliminated by 2026” statement is a policy claim to assess, not
+  a fact to repeat.
+
+## 13. Study links
 
 - ✅ Advanced companion:
   `advanced/03_Left-Wing-Extremism-and-Integrated-Response.md`.
@@ -307,3 +382,28 @@ under which "bearing of arms is non-negotiable" (PDF p. 52).
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+## Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+
+- **Years represented:** 2018, 2020, 2022
+- **Paper(s):** GS-III
+- **Routed question demands:** 3
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2018 | GS-III | 10 | Left Wing Extremism challenges and government counter strategy | Explain · 10 marks · 150 words | Routed to owning topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-III | 19 | Left-wing extremism determinants in eastern India and counter-strategy | What are · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2022 | GS-III | 20 | Naxalism as internal security threat and multilayered response strategy | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+
+### What this owner must now support
+
+- Left Wing Extremism challenges and government counter strategy
+- Left-wing extremism determinants in eastern India and counter-strategy
+- Naxalism as internal security threat and multilayered response strategy
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

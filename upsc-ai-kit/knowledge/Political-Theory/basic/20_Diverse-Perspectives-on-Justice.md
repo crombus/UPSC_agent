@@ -154,7 +154,46 @@
 - ⚠️ PYQ trap: do not write only the difference principle; define original position and veil of
   ignorance, state the two principles and their priority, then add objections.
 
-## 12. Sources, metadata and tags
+## 12. Directive decoding and mark-scaled answer architecture
+
+- ⚠️ **Directive decoding for this topic:**
+  - "Examine/Discuss Rawls's theory of justice" -> exposition of the two principles **plus** critical engagement; a pure summary loses marks.
+  - "Critically evaluate/analyse Nozick's entitlement theory" -> state the theory, then run at least one objection-reply chain before a verdict.
+  - "Is redistribution compatible with justice?" / "Can justice be defined without equality?" -> comparison-type directive; structure the answer around two or more rival theories, not one.
+  - "Justice as fairness" as a stem phrase -> signals Rawls specifically; do not drift into a generic justice essay.
+- ⚠️ **10-mark architecture (~150 words):** one-line qualified thesis naming the theory/theories in play -> 2 supporting premises with one named evidence unit (veil of ignorance, or Wilt Chamberlain) -> one brief objection+reply -> one-line qualified conclusion.
+- ⚠️ **15-mark architecture (~200-250 words):** qualified thesis -> comparison across two rival theories (e.g., Rawls vs Nozick, or liberal vs Marxist) -> two named evidence units -> one full objection-reply chain -> one cautious Indian illustration -> qualified conclusion naming the residual tension.
+- ⚠️ **20-mark architecture (~250-300 words):** qualified thesis stated with its own limitation flagged upfront -> multi-dimensional comparison (distribution rule / role of state / property / community, drawn from Section 8) -> three named evidence units -> two objection-reply chains -> cautious Indian application -> optional capability/recognition extension if the question invites a wider lens -> graded conclusion that names what remains unresolved rather than declaring one theory simply "correct."
+
+## 13. Argument reconstruction (premises -> conclusion)
+
+- ⚠️ **Rawls, reconstructed for answer-writing** (synthesis of ✅ PDF pp.447-450, not a direct quotation): P1: rational agents choose principles behind a veil of ignorance, unaware of their own place, talents or conception of the good. P2: under such uncertainty, risk-averse rational choice favours principles that protect the worst-off position (maximin reasoning) and refuses to gamble away basic liberty. P3: liberties, once secured, cannot be traded away for greater aggregate welfare. C: justice as fairness = equal basic liberties, then fair equality of opportunity, then the difference principle, held in strict lexical order.
+- ⚠️ **Nozick, reconstructed** (synthesis of ✅ PDF pp.450-452): P1: individuals are self-owners bearing rights that act as side-constraints on how others, including the state, may treat them. P2: a distribution is just only if it has a just history — just acquisition, voluntary transfer, or rectification of a past injustice. P3: any "patterned" principle (such as the difference principle) requires continual interference with voluntary exchange to keep restoring the pattern, illustrated by the Wilt Chamberlain example (PDF p.451). C: justice is historical and entitlement-based, not end-state patterned; taxing legitimately acquired income to fund redistribution is, on Nozick's view, a rights violation.
+- ⚠️ **Capability approach (Sen/Nussbaum), added as supplementary synthesis — not part of this file's Gauba grounding and not to be cited with a PDF page number:** P1: what matters morally is a person's real freedom to achieve valued functionings (beings and doings), not merely the resources or primary goods they hold. P2: people convert the same resources into capability unevenly because of disability, gender norms or social position. P3: therefore equal primary goods (Rawls) or equal formal titles (Nozick) can still coexist with unequal real freedom. C: justice should also be assessed through capability sets — use this only as a named extension for broader "diverse perspectives" questions, sourced to Sen's *Development as Freedom* (1999) and Nussbaum's capabilities list, not to Gauba's chapter.
+- ⚠️ **Recognition (Fraser/Honneth), supplementary synthesis, not Gauba-grounded:** P1: injustice includes mis-recognition and status subordination (stigma, disrespect), not only maldistribution of goods. P2: redistribution alone cannot repair harms rooted in patterns of cultural valuation. C: justice requires "parity of participation" combining redistribution and recognition (Fraser's formulation) — cite as a named extension, useful for gender/caste-recognition questions, kept separate from the Gauba-sourced feminist/subaltern material already in Sections 4-8.
+- ⚠️ **Postcolonial justice, added cautiously and kept general:** P1: colonial and postcolonial structures produced lasting economic and epistemic hierarchies between and within nations. P2: formal legal equality of citizens or states does not by itself undo these structural legacies. C: justice claims must also reckon with structural/historical inequality and whose knowledge counts, not only domestic distribution rules. Do not attach invented citations, dates or named theorists beyond this general proposition; use it only where a question explicitly invites a postcolonial or global-justice dimension.
+
+## 14. Objection-reply chains (minimum two, for direct reuse in answers)
+
+1. **Communitarian objection to Rawls (Sandel) -> Rawlsian reply:** Objection — the "unencumbered self" imagined behind the veil of ignorance is impossible; real persons are partly constituted by ends, roles and attachments they cannot simply bracket. Reply — the veil is a heuristic device for choosing fair principles of the basic structure, not a metaphysical claim about actual selves; a "thin" theory of the good suffices to generate principles, after which thick community life proceeds within just constraints.
+2. **Libertarian objection to Rawls (Nozick) -> Rawlsian reply:** Objection — the difference principle treats natural talents as a collective asset and requires continual redistribution, violating self-ownership (Wilt Chamberlain example). Reply — Rawlsian principles govern background institutions and the basic structure, not every individual transaction; redistributive taxation is a structural rule chosen ex ante behind the veil, not an ad hoc seizure of one transfer.
+3. **Egalitarian/Marxist objection to Nozick -> Nozickian reply:** Objection — historical entitlement ignores whether the starting distribution of talent and inherited wealth is itself morally arbitrary, so "just acquisition" can launder pre-existing inequality. Reply — the Lockean acquisition proviso and the rectification principle already target illegitimate original acquisition; residual natural inequality of talent does not itself violate anyone's rights unless it actively worsens others' position.
+4. **Feminist/subaltern objection to formal-equality frameworks -> liberal reply:** Objection — equal basic liberties or equal formal titles ignore gendered and caste-based structural disadvantage in the real capacity to exercise those liberties. Reply — Gauba's own account already shows feminist justice pressing for compensatory measures such as maternity benefit and reservation precisely to convert formal into substantive equality (PDF pp.466-468); this shows liberal frameworks can be supplemented rather than simply discarded.
+
+## 15. Cautious Indian application (⚠️ throughout — analytical bridges, not Gauba-sourced)
+
+- ⚠️ Reservations in public employment and education (a widely known constitutional mechanism) can be read through Rawls's fair equality of opportunity and difference principle as compensatory opportunity for structurally disadvantaged groups, while the Nozickian entitlement worry about merit and title supplies the standard counter-argument. Constitutional article numbers and case law belong to the Polity/Law files; this file supplies only the political-theory lens.
+- ⚠️ The shift of the right to property from a fundamental right to a legal right (a well-known constitutional change enacted through the 44th Amendment, 1978) can be used as an illustrative Indian parallel to the liberal-versus-welfare-state tension Gauba discusses in general terms (PDF pp.479-480); state this as an illustrative bridge, not as content drawn from the chapter itself.
+- ⚠️ Welfare and employment-guarantee schemes illustrate the welfare-liberal/democratic-socialist correction of market distribution rather than a Nozickian minimal-state approach; use only as a conceptual illustration, without asserting specific scheme data that is not independently verified.
+- ⚠️ All Indian illustrations in this section are exam-use analytical bridges. They must not be cited with a Gauba PDF page number.
+
+## 16. Quotation and proposition handling
+
+- ⚠️ Do not invent exact wording for Rawls's or Nozick's arguments beyond the standard technical terms already used in this file. Prefer paraphrase-as-proposition ("Rawls argues that...", "Nozick holds that...") over invented direct quotations.
+- ⚠️ Safe technical terms that may be used as quoted nomenclature because they are standard vocabulary, not disputed quotations: "veil of ignorance", "original position", "difference principle", "self-ownership", "entitlement theory", "trusteeship", "sarvodaya" (cross-reference), "complex equality" (Walzer).
+- ⚠️ If a question asks to engage "in the scholar's own words," write "as Rawls's/Nozick's position is commonly summarised, ..." rather than presenting an invented quotation with a page number that cannot be verified against this file's source window.
+
+## 17. Sources, metadata and tags
 
 - ✅ Primary source used directly: Gauba, Ch.20, PDF pp.446-473.
 - ✅ Rawls anchor pages: PDF pp.447-450.
@@ -163,6 +202,7 @@
 - ✅ Feminist, subaltern and communitarian anchor pages: PDF pp.464-473.
 - ✅ Walzer and communitarian critique anchor pages: PDF pp.470-473.
 - ✅ Chapter-opening perspective list anchor: PDF p.446.
-- ✅ Verified local PYQ: `Philosophy/paper-2/_PYQ-SocioPolitical-2022-2025.md`.
+- ✅ Verified local PYQ: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ⚠️ No post-2009 example has been introduced; all illustrations remain conceptual or clearly book-period.
 - ⚠️ The matrix format and some comparative wording are exam-oriented syntheses built from Gauba's chapter structure and are tagged accordingly.
+- ⚠️ Sections 12-16 (added in this pass) are exam-answer-architecture and supplementary-theory syntheses. The capability, recognition and postcolonial-justice material is explicitly not claimed as part of Gauba's Fifth Edition (2009) Ch.20 and carries no Gauba PDF page citation; it is sourced only to the named scholars identified inline.

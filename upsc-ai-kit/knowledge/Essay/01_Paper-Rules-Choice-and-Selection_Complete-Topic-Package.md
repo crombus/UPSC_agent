@@ -10,8 +10,10 @@
 > Studies Paper — Essay, Mains).
 > **Core area:** Paper mechanics; separating audited fact from strategy;
 > a simple, risk-aware method for choosing one topic from each Section.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Sections 1, 3, 11.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `PYQ-Corpus-2013-2025.md`); `00_Master-Framework.md`
+> Sections 1, 3, 11.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../advanced/01_Paper-Rules-Choice-and-Selection.md`
@@ -42,8 +44,10 @@ steps will be.
 
 ## 3. ✅ Exam facts / source basis
 
-Only the 2024 and 2025 papers are held locally
-(`books/mains/`); everything below is read off those PDFs.
+The current corpus ledger records 2018–2025 as **V1 — directly verified
+locally** and 2013–2017 as **V2 — carried-forward, not locally
+verifiable**. The paper-mechanics facts below are illustrated with the
+2024 and 2025 papers, whose printed wording is reproduced in the ledger.
 
 - ✅ **2024 instruction, exactly as printed:** "Write two essays, choosing
   one topic from each of the following Sections A and B, in about
@@ -63,10 +67,10 @@ Only the 2024 and 2025 papers are held locally
   from each Section** — never two from the same Section.
 - ❌ **Not printed in either locally held paper:** any "Time Allowed"
   header, a 2025 marks line, an author beside any prompt, or any marking
-  rubric/weightage. ⚠️ Confirm the duration from the official paper or
-  admit card; this folder deliberately asserts none.
-- See `../PYQ-Corpus-2013-2025.md` for all 100 prompts and each year's
-  verification level (2024–2025 verified locally; 2013–2023 not).
+  rubric/weightage. ✅ The separate official examination scheme supplies
+  the **three-hour** Essay duration; no phase split is official.
+- See `PYQ-Corpus-2013-2025.md` for all 100 prompts and each year's
+  verification level: V1 for 2018–2025 and V2 for 2013–2017.
 
 ⚠️ **Practical consequence for choice:** because the paper's own numbering
 and even its instruction line vary year to year, spend the first reading
@@ -128,6 +132,22 @@ qualified (acknowledges a limit or condition), and (c) supportable by
 the illustrations recalled in Section 7. Full thesis-construction method
 in `05`.
 
+## 8a. Two-essay portfolio gate
+
+⚠️ Choose one prompt from **each** Section, then test the pair before
+committing to either draft:
+
+1. Does each essay independently have a qualified thesis, two distinct
+   paragraph-clusters and safe evidence?
+2. Does either choice consume so much planning time or uncertain recall
+   that the other essay will be rushed?
+3. Are you relying on the same thin, half-remembered illustration for
+   both essays? If so, replace the weaker choice.
+
+The better pair is not necessarily the two most familiar prompts; it is
+the pair for which both essays remain defensible under the same time
+budget. This is a final gate, not an excuse to over-deliberate.
+
 ## 9. Simple essay architecture
 
 ⚠️ A brief architecture preview helps the choice: sketch three to four
@@ -180,8 +200,10 @@ re-examine your reasoning before moving to `02`.
 > **Core area:** Choice as a portfolio/risk decision; the hidden
 > assumptions inside "pick your favourite topic" advice; a decision
 > protocol that survives exam-day time pressure.
-> **Grounded in:** audited 2024–2025 UPSC Essay paper corpus (see
-> `../README.md`); `../00_Master-Framework.md` Sections 1, 3, 11.
+> **Grounded in:** UPSC Essay PYQ corpus — V1 directly verified locally
+> for 2018–2025 and V2 carried-forward practice wording for 2013–2017
+> (see `PYQ-Corpus-2013-2025.md`); `00_Master-Framework.md`
+> Sections 1, 3, 11.
 > **Research cutoff:** 18 July 2026.
 > **Tags:** ✅ verified fact | ⚠️ strategy/inference | 📰 dated anchor | ❌ trap/boundary.
 > **Companion:** `../basic/01_Paper-Rules-Choice-and-Selection.md`

@@ -1000,116 +1000,219 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 ## 8. WORD-MEANING AND SENTENCE-MEANING
 
-### 8.1 Why language is central
-
-- ✅ Mīmāṃsā is a philosophy of Vedic interpretation.
-- ✅ Therefore the problem of how words yield sentence meaning is foundational.
-- ✅ The school cannot defend injunction unless it can explain linguistic comprehension.
-
-### 8.2 Bhāṭṭa's Abhihitānvayavāda
+### 8.1 The problem of sentence-unity
 
 #### Statement
 
-- ✅ Words first express their own meanings; sentence-meaning results from the subsequent connection of those meanings.
+- ✅ The central semantic problem is how a sentence made of many words, each apparently carrying its own meaning, yields one unified cognition called **ekavākyatā** (sentence-unity).
+- ✅ Mīmāṃsā must solve this because Vedic obligation is grasped only through sentence-meaning, not through isolated word-meanings.
+- ✅ The debate between **abhihitānvayavāda** and **anvitābhidhānavāda** asks whether words first denote isolated meanings that are later connected, or whether they denote meanings only as already connected.
 
 #### Argument
 
-1. ✅ Each word has denotative force.
-2. ✅ On hearing the sentence, the hearer first grasps the isolated word-meanings.
-3. ✅ These meanings are then linked through expectancy (**ākāṅkṣā**), compatibility (**yogyatā**) and contiguity (**sannidhi**).
-4. ✅ The sentence-meaning is therefore a second-stage synthesis.
+1. ✅ The Veda works through meaningful sentences such as injunctions, prohibitions, mantras, names and explanatory passages.
+2. ✅ An injunction cannot guide action unless its words form one determinate action-guiding meaning.
+3. ✅ Mere succession of words does not by itself produce unity; unrelated words can be uttered side by side.
+4. ✅ Therefore the tradition must specify the conditions by which a sequence of words becomes a single sentence.
+5. ✅ The Bhāṭṭa and Prābhākara positions are rival explanations of that unity.
 
 #### Presupposition
 
-- ✅ Words can possess determinate lexical meaning independently enough to be first grasped.
-- ✅ Sentence meaning is compositional.
-
-#### Distinction
-
-- ✅ Word-meaning is logically prior; sentence-meaning is derivative from its combination.
-- ✅ Bricks first, wall later: this is the simplest analogy.
+- ✅ Language is objective and rule-governed enough to convey dharma without depending on a private speaker's psychology.
+- ✅ Sentence-meaning must be determinate enough to ground ritual obligation.
 
 #### Example
 
-- ✅ In “Bring the cow,” “bring” and “cow” are first separately understood, then related as action and object.
+- ✅ In “**svargakāmo yajeta**” (“one desiring heaven should sacrifice”), the hearer must grasp not merely “heaven-desirer” and “sacrifice,” but the unified injunction that the qualified agent ought to perform sacrifice.
 
 #### Objection → Reply
 
-- ❌ **Objection:** Real understanding is too immediate for this two-step story.
-- ✅ **Reply:** Bhāṭṭa can say the distinction is logical, not necessarily a slow temporal sequence.
+- ❌ **Objection:** Ordinary people understand sentences instantly; a technical theory of sentence-unity seems unnecessary.
+- ✅ **Reply:** Mīmāṃsā is explaining the logical structure of comprehension, especially for Vedic interpretation, not claiming that every hearer consciously performs scholastic analysis.
 
-### 8.3 Prābhākara's Anvitābhidhānavāda
+### 8.2 Shared conditions of sentence-unity
 
 #### Statement
 
-- ✅ Words directly express meanings already connected in context; they do not first express isolated fragments.
+- ✅ Both Bhāṭṭa and Prābhākara accept the classical conditions of meaningful sentential connection: **ākāṅkṣā** (mutual expectancy), **yogyatā** (semantic fitness), and **sannidhi / āsatti** (proximity or contiguity of utterance).
+- ✅ Naiyāyikas often add **tātparya** (speaker's intention or purport) as a further condition.
+- ⚠️ Mīmāṃsā cannot ground Vedic meaning in a speaker's intention, because the Veda is **apauruṣeya** (authorless); therefore any “purport” must be located in textual force, contextual unity and injunctional function rather than in an intending author.
+
+| Condition | Meaning | Failure case | Mīmāṃsā significance |
+|---|---|---|---|
+| **Ākāṅkṣā** | ✅ Words mutually require completion | ✅ “Bring...” leaves expectation of what is to be brought | ✅ Explains why words lean toward each other in a sentence |
+| **Yogyatā** | ✅ Meanings must be semantically compatible | ✅ “Sprinkle with fire” is unfit in ordinary usage | ✅ Blocks impossible or absurd constructions unless ritual context supplies special sense |
+| **Sannidhi / āsatti** | ✅ Words must occur in proper proximity | ✅ Words separated by unrelated discourse fail to cohere | ✅ Protects Vedic sentence-boundaries and ritual instructions |
+| **Tātparya** | ⚠️ Purport or intended thrust | ⚠️ Speaker-intention works for human speech | ⚠️ For the Veda, Bhāṭṭa must read purport from the text itself, not from an author |
 
 #### Argument
 
-1. ✅ In actual speech, words occur in sentential contexts.
-2. ✅ Hearers understand them as related.
-3. ✅ Therefore denotation is itself relational.
-4. ✅ Sentence-meaning is directly conveyed in and through connected word-usage.
+1. ✅ Without **ākāṅkṣā**, words do not demand one another and no single meaning arises.
+2. ✅ Without **yogyatā**, connected words may still generate an impossible meaning.
+3. ✅ Without **sannidhi**, even fit and expectant words may belong to different sentences.
+4. ✅ Therefore sentence-unity requires syntactic expectancy, semantic compatibility and utterance-contiguity.
+5. ⚠️ The Mīmāṃsā refusal to depend on speaker-intention creates internal pressure: Vedic purport must be impersonal, textual and rule-governed.
 
 #### Presupposition
 
-- ✅ Context is constitutive of meaning.
-- ✅ Purely isolated lexical meaning is an abstraction from actual linguistic use.
-
-#### Distinction
-
-- ✅ Sentence-meaning is not built after independent denotation.
-- ✅ It is what words express in connected use.
-- ✅ Melody, not separately handled notes, is the better analogy.
+- ✅ Meaning is not a private mental event but a public relation among words, meanings and interpretive conditions.
+- ✅ Vedic exegesis requires rules that can operate without a human speaker.
 
 #### Example
 
-- ✅ “Cow” in the injunction is grasped as what is to be brought, not as an inert lexical item awaiting later attachment.
+- ✅ “Bring the cow” has expectancy between verb and object, compatibility between bringing and a movable animal, and proximity among the uttered words.
 
 #### Objection → Reply
 
-- ❌ **Objection:** Then word-meaning becomes parasitic and dictionaries become unintelligible.
-- ✅ **Reply:** Dictionaries abstract from recurring contexts; primary understanding remains relational.
+- ❌ **Objection:** If tātparya is needed for human sentences, Vedic sentences without an author become unintelligible.
+- ✅ **Reply:** Mīmāṃsā replies that Vedic purport is not psychological intention but sentence-function disclosed by textual relations, especially subordination to **vidhi** (injunction).
 
-### 8.4 The debate sharpened
-
-- ✅ Bhāṭṭa says Prābhākara makes the word too dependent on the sentence.
-- ✅ Prābhākara says Bhāṭṭa artificially atomises living language.
-- ✅ The dispute is about the order of semantic priority.
-- ✅ It is not about whether syntax matters; both agree that it does.
-
-### 8.5 Universals or particulars?
+### 8.3 Bhāṭṭa Abhihitānvayavāda — connection of the already denoted
 
 #### Statement
 
-- ✅ Mīmāṃsā generally holds that words primarily denote the **universal (jāti)**.
+- ✅ **Abhihitānvayavāda** means “connection of the already denoted.”
+- ✅ On the Bhāṭṭa view, each word first denotes its isolated meaning (**padārtha**) through its primary power **abhidhā**.
+- ✅ Sentence-meaning then arises through a secondary connecting operation, often explained as **lakṣaṇā** (indirect signification) or **tātparya-śakti** (purport-power).
+- ✅ Consequence: the word is the primary semantic unit and sentence-meaning is derivative.
 
-#### Mīmāṃsā explanation
+#### Argument
 
-- ✅ The word “cow” applies to many individual cows because it primarily conveys **cow-ness** instantiated through a recognisable form.
-- ✅ Particulars are reached through the universal.
-- ✅ This explains repeatability of language.
+1. ✅ Words such as “cow,” “bring,” and “heaven-desirer” have repeatable lexical meanings.
+2. ✅ These meanings are grasped when the corresponding words are heard.
+3. ✅ The isolated meanings are not yet a full sentence-meaning.
+4. ✅ They become one meaning only when related through **ākāṅkṣā**, **yogyatā** and **sannidhi**.
+5. ✅ Therefore comprehension has two logical stages: denotation of word-meanings and subsequent connection of those meanings.
+6. ✅ This preserves the independent force of words and explains stable lexical meaning across contexts.
 
-#### Nyāya contrast
+#### Presupposition
 
-- ✅ Nyāya says words primarily denote the **individual (vyakti)** qualified by universal and form.
-- ✅ Hence both jāti and vyakti are involved, but primacy differs.
+- ✅ Word-meanings can be grasped independently enough to be available for later syntactic connection.
+- ✅ Sentence meaning is compositional: the whole is formed from already available parts.
 
-#### Exam point
+#### Distinction
 
-- ✅ Do not state that one school reaches only universals and the other only particulars.
-- ✅ Both reach both; they differ on what is primary.
+- ✅ The two stages are primarily logical, not necessarily a slow temporal sequence in consciousness.
+- ✅ Bhāṭṭa need not claim that the hearer pauses after each word; the claim is that word-denotation has explanatory priority.
 
-### 8.6 Shared semantic conditions
+#### Example
 
-- ✅ Both schools accept **ākāṅkṣā**, **yogyatā** and **sannidhi** as central to sentence comprehension.
-- ✅ The dispute is whether these connect prior meanings or belong to the very denotation-process itself.
+- ✅ In “Bring the cow,” “bring” denotes an action and “cow” denotes the relevant universal/object; the hearer then connects them as action and object.
 
-### 8.7 Exam-ready conclusion
+#### Objection → Reply
 
-- ✅ Bhāṭṭa = **Abhihitānvayavāda**.
-- ✅ Prābhākara = **Anvitābhidhānavāda**.
-- ✅ Add the jāti-vyakti contrast with Nyāya for high-scoring answers.
+- ❌ **Objection:** The theory multiplies operations because it seems to require **lakṣaṇā** or a special connecting power in every sentence.
+- ✅ **Reply:** Bhāṭṭa answers that this is the cost of explaining how stable word-meanings combine into determinate sentence-meaning; the operation is structural, not an arbitrary extra act.
+
+### 8.4 Prābhākara Anvitābhidhānavāda — denotation of the connected
+
+#### Statement
+
+- ✅ **Anvitābhidhānavāda** means “denotation of the connected.”
+- ✅ On Prābhākara's view, words denote their meanings only as already connected with the other meanings in the sentence.
+- ✅ There is no prior stage in which a word yields a fully isolated meaning and only later enters a sentence.
+- ✅ Consequence: the sentence is the primary unit and word-meaning is grasped in contextual relation.
+
+#### Argument
+
+1. ✅ In actual learning and use, words are encountered within meaningful action-guiding sentences.
+2. ✅ The child does not first master isolated dictionary meanings and then build sentences.
+3. ✅ The standard **vyutpatti** (learning) argument says a child observes an elder command “bring the cow” and a younger person comply.
+4. ✅ From this whole event, the child learns the connected sense of the words inside a practical sentence.
+5. ✅ Therefore words signify meanings already connected with action, agent, object and context.
+6. ✅ Sentence-comprehension is not a later synthesis of atomised meanings but the original mode of linguistic understanding.
+
+#### Presupposition
+
+- ✅ No meaning is grasped outside some context of use.
+- ✅ Language is primarily action-guiding, which fits Mīmāṃsā's injunction-centred hermeneutics.
+
+#### Distinction
+
+- ✅ Prābhākara does not deny that words are repeatable.
+- ✅ He denies that their primary semantic life is an isolated lexical object detached from sentential connection.
+
+#### Example
+
+- ✅ The word “cow” in “bring the cow” is learned as what is to be brought, not as a free-floating universal waiting to be attached to an action.
+
+#### Objection → Reply
+
+- ❌ **Objection:** If a word never means anything in isolation, dictionaries, grammar lessons and single-word utterances become inexplicable.
+- ✅ **Reply:** Prābhākara replies that dictionaries and single-word utterances are secondary abstractions from repeated connected uses; primary meaning remains relational.
+
+### 8.5 Cross-objections between the two schools
+
+| Target | Objection | Reply |
+|---|---|---|
+| **Against Bhāṭṭa** | ❌ The isolated-word stage is not phenomenologically observed and makes every sentence depend on extra **lakṣaṇā** or purport-operation. | ✅ Bhāṭṭa replies that the distinction is explanatory, not introspective; stable lexical meaning requires word-priority. |
+| **Against Prābhākara** | ❌ If words signify only connected meanings, the same word would seem to mean differently in every sentence. | ✅ Prābhākara replies that recurrent connected uses yield stable practical competence without positing context-free meanings. |
+| **Against Bhāṭṭa** | ❌ Language-learning begins in sentences, not isolated word-lists. | ✅ Bhāṭṭa replies that learning-history does not settle semantic structure; what is learned in context can still be the word's repeatable meaning. |
+| **Against Prābhākara** | ❌ Single-word commands such as “Cow!” or “Fire!” seem meaningful. | ✅ Prābhākara replies that such utterances are elliptical sentences supplied by context, not proof of isolated word-meaning. |
+
+### 8.6 Universals or particulars?
+
+#### Statement
+
+- ✅ Mīmāṃsā generally holds that words primarily denote the **universal (jāti)**, while Nyāya gives primacy to the **individual (vyakti)** qualified by universal and form.
+- ✅ Both positions can reach both universal and individual; the difference concerns semantic priority.
+
+#### Argument
+
+1. ✅ The same word “cow” applies to many individual cows.
+2. ✅ This repeatability is best explained, for Mīmāṃsā, by the word's relation to cow-ness.
+3. ✅ The individual is then reached through the universal as instantiated in a concrete context.
+4. ✅ Nyāya reverses the priority and takes the qualified individual as primary.
+5. ✅ Therefore exam answers must not caricature either side as knowing only universals or only particulars.
+
+#### Presupposition
+
+- ✅ Linguistic repeatability requires a stable semantic ground across changing individuals.
+
+#### Example
+
+- ✅ “Cow” can refer to this cow in front of me because the universal cow-ness is recognisable in that individual.
+
+#### Objection → Reply
+
+- ❌ **Objection:** A universal alone cannot be milked, brought or sacrificed.
+- ✅ **Reply:** Mīmāṃsā replies that the universal is primary for meaning, while action reaches the qualified individual through contextual application.
+
+### 8.7 Grammarian sphoṭa-vāda as a third comparative position
+
+#### Statement
+
+- ⚠️ Bhartṛhari and the Grammarian tradition defend **sphoṭa-vāda**, according to which the sentence-meaning is grasped in a single indivisible flash of **vākya-sphoṭa** (sentence-sphoṭa).
+- ✅ Both Bhāṭṭa and Prābhākara Mīmāṃsā reject the need for such an additional entity.
+
+#### Argument
+
+1. ⚠️ The Grammarian argues that individual sounds perish and cannot by themselves yield the whole meaning.
+2. ⚠️ Therefore a unitary **sphoṭa** is posited as the real bearer of meaning.
+3. ✅ Mīmāṃsā replies that the eternal **varṇas** (phonemes/letters) and their ordered manifestation are sufficient.
+4. ✅ Since word-meaning and sentence-conditions already explain comprehension, no additional sphoṭa is required.
+5. ✅ This preserves Mīmāṃsā's economy and its theory of eternal word-units without accepting Grammarian holism.
+
+#### Presupposition
+
+- ✅ The varṇas are real and stable enough to carry meaning without a separate indivisible language-entity.
+
+#### Example
+
+- ⚠️ The sphoṭa theorist treats sentence-understanding like a single flash of meaning; Mīmāṃsā treats it as rule-governed comprehension through word-units and sentence-conditions.
+
+#### Objection → Reply
+
+- ❌ **Objection:** If letters are heard successively, how can they produce one meaning without sphoṭa?
+- ✅ **Reply:** Mīmāṃsā replies that memory of the ordered series plus **ākāṅkṣā**, **yogyatā** and **sannidhi** is enough to yield unity.
+
+### 8.8 Exam-ready conclusion
+
+- ✅ The 20-mark answer must begin with **ekavākyatā**, state the shared conditions, then contrast Bhāṭṭa word-priority with Prābhākara sentence-priority.
+- ✅ Add the **vyutpatti** learning argument for Prābhākara and the **abhidhā → connection** structure for Bhāṭṭa.
+- ✅ Mention the problem of **tātparya** for an authorless Veda and the rejection of **sphoṭa-vāda** for depth.
+- ✅ Conclude: Bhāṭṭa secures stable lexical meaning; Prābhākara secures contextual action-guidance.
+
 
 ## 9. AUTHORITY OF THE VEDA
 
@@ -1117,11 +1220,73 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 - ✅ The Veda is authoritative because it is **apauruṣeya**, eternal and self-valid.
 
-### 9.2 Apauruṣeyatva
+### 9.2 Apauruṣeyatva — authorlessness defended against circularity
 
-- ✅ The Veda is not authored by any human.
-- ✅ Nor is a divine author needed.
-- ✅ Authorlessness protects it from personal defects.
+#### Statement
+
+- ✅ **Apauruṣeyatva** means that the Veda is not the composition of any human or divine person.
+- ✅ Mīmāṃsā grounds Vedic authority in authorlessness because a text without an author has no locus for ignorance, deceit, partiality or forgetfulness.
+- ✅ The doctrine is central because the Veda reveals **dharma**, a supersensible object not available to perception, inference or ordinary testimony.
+- ✅ The Veda is therefore authoritative not because a perfect speaker guarantees it, but because it is impersonal, eternal and free from authorial defect.
+
+#### Argument
+
+1. ✅ No author of the Veda is remembered in the tradition.
+2. ✅ A human author of so momentous a text would normally have been remembered if such an author existed.
+3. ✅ The relation between **śabda** (word) and **artha** (meaning) is **autpattika** (natural/inherent), not a convention newly instituted by a person.
+4. ✅ For Bhāṭṭa Mīmāṃsā, words as **sphoṭa**-independent **varṇas** and the relevant universals of wordhood have **śabda-nityatva** (eternality of word), so utterance manifests rather than produces the word.
+5. ✅ Vedic transmission has been maintained through disciplined recitation, and no original event of composition is located.
+6. ✅ Therefore the Veda need not be treated as a composed book with a fallible author.
+7. ✅ Since authorial defects explain unreliability in human testimony, an authorless Veda is free from that class of defects.
+8. ✅ Hence Vedic testimony is self-valid in its proper domain, namely dharma.
+
+#### Presupposition
+
+- ✅ A text can be meaningful without a historical author if word-meaning relations are eternal and impersonal.
+- ✅ The absence of a remembered author is philosophically relevant because an author of the Veda would not be a trivial forgotten artisan.
+- ✅ Dharma is supersensible, so the Veda's authority is restricted to a domain not otherwise known.
+
+#### Distinction
+
+- ✅ Apauruṣeyatva is not the claim that no one ever recited, taught or arranged Vedic branches.
+- ✅ It is the claim that transmission and recension are not original authorship.
+- ✅ Names such as **Kaṭha** and **Kauṣītaki** can mark schools, transmitters or branches without proving personal composition of Vedic content.
+
+#### Example
+
+- ✅ A teacher who recites a mantra is a transmitter; Mīmāṃsā denies that such transmission makes the teacher the author of the mantra's Vedic authority.
+
+#### Objection → Reply: the circularity charge
+
+- ❌ **Objection:** The defence looks circular: the Veda is authoritative because it is apauruṣeya, but apauruṣeyatva and the claim that dharma is unknowable otherwise seem to be accepted because the Vedic tradition says so.
+- ❌ **Sharper form:** **Svataḥ-prāmāṇyavāda** seems to prove too much; if every cognition is intrinsically valid, rival scriptures also become self-valid unless an external criterion is smuggled in.
+- ✅ **Reply 1:** Mīmāṃsā presents apauruṣeyatva as supported by ordinary reasoning plus absence of any remembered author, not as a conclusion simply quoted from the Veda.
+- ✅ **Reply 2:** The reasoning has an **arthāpatti**-like form: given a tradition of extraordinary authority and no remembered authorial event, authorless transmission is posited as the best explanation.
+- ✅ **Reply 3:** Svataḥ-prāmāṇya does not mean that every cognition is finally indefeasible; it means validity needs no positive external certificate, while invalidity is known through **doṣa** (defect) or **bādhaka** (sublating cognition).
+- ✅ **Reply 4:** Rival scriptures with known or claimed human authors possess a possible locus of defect, whereas an authorless Veda lacks that locus.
+- ✅ **Reply 5:** The Veda is authoritative only for **dharma**, where no rival pramāṇa operates; it does not compete with perception on colour or inference on smoke and fire.
+- ✅ **Reply 6:** The divine-author alternative is worse for Mīmāṃsā because a person, even a divine person, becomes a further object needing proof; the alleged omniscience and freedom from self-interest of that person would themselves require pramāṇic support.
+
+#### Residual force ⚠️
+
+- ⚠️ The reply pushes significant weight onto “no remembered author” and onto the claim that the word-meaning relation is natural.
+- ⚠️ Nyāya thinkers such as Jayanta and Udayana deny this by treating the **śabda–artha** relation as **saṅketa** (convention), ultimately grounded in Īśvara's institution, and by reading the Veda as reliable testimony of an **āpta** (trustworthy authority).
+- ⚠️ Buddhist critics in the Dharmakīrti line reject eternal words and ask how an eternal, changeless word could produce a cognition at a particular time.
+
+#### Mīmāṃsā rejoinders to rival attacks
+
+- ❌ **Nyāya objection:** Word-meaning is conventional; God institutes the convention and guarantees the Veda as its āpta author.
+- ✅ **Mīmāṃsā reply:** Conventionalism makes meaning dependent on an institutor whose existence and reliability must first be proved; the autpattika word-meaning relation explains linguistic stability without that extra theological burden.
+
+- ❌ **Nyāya objection:** Branch-names such as Kaṭha and Kauṣītaki show human authorship or at least human origin.
+- ✅ **Mīmāṃsā reply:** Such names can indicate reciters, teachers or schools of transmission; they do not show that those persons composed the Vedic sentences.
+
+- ❌ **Buddhist objection:** An eternal word cannot cause a timed cognition because what is changeless cannot suddenly produce an effect.
+- ✅ **Mīmāṃsā reply:** The eternal word is not newly produced; it is manifested by utterance under appropriate auditory conditions, so the timed cognition depends on manifestation and hearer-conditions, not on creation of the word.
+
+- ❌ **Buddhist objection:** If all authority is defended through intrinsic validity, sectarian texts can make the same claim.
+- ✅ **Mīmāṃsā reply:** Intrinsic validity is defeasible; a text with an author, contradiction or detectable defect can be defeated, while the Veda's domain is precisely the supersensible domain where perception and inference supply no bādhaka.
+
 
 ### 9.3 Śabda-nityatva
 
@@ -1205,6 +1370,430 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ❌ **Objection:** Without God there is no moral authority.
 - ✅ **Reply:** For Mīmāṃsā, Vedic injunction and apūrva are enough to secure binding duty and future fruit.
 
+
+### 10.6 Self, agency and liberation — minimum doctrine
+
+#### Statement
+
+- ✅ Mīmāṃsā requires an enduring **ātman** (self) as knower, agent and enjoyer because ritual duty, merit, demerit and future fruit presuppose a subject who acts and later experiences results.
+- ✅ The self is not a momentary stream; it persists across cognition, action, memory, ritual responsibility and enjoyment of **phala**.
+- ❓ The doctrine of **mokṣa** (liberation) becomes more explicit in later Mīmāṃsā than in the earliest ritual orientation.
+- ✅ In standard scholastic presentation, liberation is not Advaitic identity with Brahman but release from embodied suffering and from the chain of karmically generated experience.
+
+#### Presupposition
+
+- ✅ Moral and ritual responsibility require a continuing agent-enjoyer.
+- ✅ If the self were momentary, the agent who performs the sacrifice would not be the enjoyer of its fruit.
+
+#### Objection → Reply
+
+- ❌ **Objection:** A ritualist system focused on svarga seems to have no real soteriology.
+- ✅ **Reply:** Mīmāṃsā's earliest centre is indeed dharma and ritual fruit, but later doctrine can still describe liberation as cessation of pain and karmic embodiment without making Brahman-knowledge the central means.
+
+## 10A. BHĀVANĀ — ŚĀBDĪ AND ĀRTHĪ
+
+### 10A.1 Statement — why bhāvanā is the semantic heart of Mīmāṃsā
+
+#### Statement
+
+- ✅ For Mīmāṃsā the primary import of the Veda is not description but **injunction (vidhi)**.
+- ✅ The meaning-content of an injunction is **bhāvanā**: the efficient force of bringing something into being, or the productive energy expressed by the verbal ending.
+- ✅ Because the Veda's whole purpose is **codanā** (injunction) and its subject is **dharma**, bhāvanā is the semantic heart of the system.
+- ✅ An injunction is therefore not merely a sentence about an action; it is a sentence that makes an action obligatory for a qualified agent.
+
+#### Argument
+
+1. ✅ Dharma is supersensible and cannot be known by perception or ordinary inference.
+2. ✅ The Veda reveals dharma through action-guiding sentences.
+3. ✅ A merely descriptive sentence would tell what is already the case, not what ought to be done.
+4. ✅ Therefore the decisive Vedic sentence-type is the injunction.
+5. ✅ The force that converts a sentence into an action-guiding demand is bhāvanā.
+6. ✅ Hence Mīmāṃsā semantics, ritual theory and epistemology converge in the analysis of injunction.
+
+#### Presupposition
+
+- ✅ Vedic meaning is primarily prescriptive, not descriptive.
+- ✅ What matters most in scripture is what guides action toward dharma.
+- ✅ An authorless text can bind because obligation flows from the injunctive structure, not from a personal commander.
+
+#### Example
+
+- ✅ “**Svargakāmo yajeta**” (“one desiring heaven should sacrifice”) does not merely describe a heaven-desirer; it enjoins sacrifice upon the qualified agent.
+
+#### Objection → Reply
+
+- ❌ **Objection:** A sentence without a personal speaker cannot command anyone.
+- ✅ **Reply:** Mīmāṃsā replies that imperative force is carried by the **liṅ / vidhi** verbal form itself, whose relation to its meaning is **autpattika**; the obligation is impersonal and structural, not the will of a person.
+
+### 10A.2 Bhāṭṭa two-fold analysis — śābdī and ārthī bhāvanā
+
+#### Statement
+
+- ✅ Bhāṭṭa Mīmāṃsā distinguishes **śābdī bhāvanā** (verbal or linguistic productive force) from **ārthī bhāvanā** (objective or real productive force).
+- ✅ This distinction explains how the Vedic word first impels the agent and how the agent's action then produces the result.
+
+| Type | Locus | What it does | Immediate result | Core formula |
+|---|---|---|---|---|
+| **Śābdī bhāvanā** | ✅ The Vedic sentence / injunction | ✅ The word-force impels the hearer to act | ✅ **Pravṛtti** (volitional impulse to act) in the qualified agent | ✅ The injunction makes the hearer act |
+| **Ārthī bhāvanā** | ✅ The agent's own effort and ritual performance | ✅ The action brings about the desired result through the proper means | ✅ **Phala** such as svarga, mediated by apūrva where needed | ✅ The agent's act produces the result |
+
+#### Argument
+
+1. ✅ An injunction has a linguistic side: the sentence must be understood as requiring action.
+2. ✅ This side belongs to the word or verbal ending and is therefore called **śābdī bhāvanā**.
+3. ✅ Understanding the injunction produces **pravṛtti**, the impulse or undertaking of action, in the qualified agent.
+4. ✅ But mere linguistic impulse does not itself produce svarga or any ritual result.
+5. ✅ The agent must perform the act with the prescribed materials, sequence and subsidiaries.
+6. ✅ This real activity is **ārthī bhāvanā**.
+7. ✅ Therefore Bhāṭṭa analysis doubles the productive force: word-force produces undertaking; action-force produces the fruit.
+
+#### Presupposition
+
+- ✅ A complete theory of injunction must explain both semantic motivation and ritual production.
+- ✅ The Veda must be able to generate action without a personal commander.
+- ✅ Ritual action must be able to produce a distant result without immediate visible causation.
+
+#### Distinction
+
+- ✅ Śābdī bhāvanā makes an injunction an injunction rather than a statement.
+- ✅ Ārthī bhāvanā is the agent's objective effort that actually brings about the result.
+
+#### Example
+
+- ✅ In “svargakāmo yajeta,” the verbal form impels the heaven-desiring agent; the correctly performed sacrifice is then the means through which the desired fruit is produced.
+
+#### Objection → Reply
+
+- ❌ **Objection:** The two-fold structure is artificial because one injunction seems to convey one act.
+- ✅ **Reply:** Bhāṭṭa replies that the distinction is needed because linguistic impelling and real production are not the same function.
+
+### 10A.3 Aṃśa-traya — the three factors every bhāvanā requires
+
+#### Statement
+
+- ✅ Every bhāvanā requires three factors called **aṃśa-traya**: **sādhya / bhāvya** (what is to be brought about), **karaṇa / sādhana** (the means), and **itikartavyatā** (how it is to be done).
+- ✅ These answer the questions **kim?** (what?), **kena?** (by what means?), and **katham?** (how?).
+
+| Bhāvanā | **Sādhya / bhāvya** — *kim?* | **Karaṇa / sādhana** — *kena?* | **Itikartavyatā** — *katham?* |
+|---|---|---|---|
+| **Ārthī bhāvanā** in “svargakāmo yajeta” | ✅ **Svarga** is the result to be brought about | ✅ **Yāga** (sacrifice) is the means | ✅ The ritual procedure, materials, sequence and subsidiary acts supply the “how” |
+| **Śābdī bhāvanā** in the same injunction | ✅ The agent's **pravṛtti** is to be brought about | ✅ The injunctive suffix and knowledge of the injunction function as the means | ✅ **Arthavāda** and eulogistic supports strengthen and specify the undertaking |
+
+#### Argument
+
+1. ✅ No action-guiding sentence is complete unless it indicates what is to be achieved.
+2. ✅ It must also indicate the means by which that achievement is to occur.
+3. ✅ It must further indicate the procedure or subsidiary details that make the means effective.
+4. ✅ Therefore an injunction is interpreted through the threefold frame of bhāvya, karaṇa and itikartavyatā.
+5. ✅ This frame lets Mīmāṃsā connect grammar, ritual detail and obligation in a single hermeneutic scheme.
+
+#### Presupposition
+
+- ✅ Injunctional meaning is exhausted by action-guidance: what to do, by what means, and how.
+- ✅ Non-injunctive passages receive full significance only when connected to this action-guiding structure.
+
+#### Example
+
+- ✅ A praise passage that glorifies a ritual does not independently create dharma; it supports the relevant vidhi by generating confidence, attention or motivation.
+
+#### Objection → Reply
+
+- ❌ **Objection:** Arthavāda seems meaningful on its own as praise, story or explanation.
+- ✅ **Reply:** Mīmāṃsā replies that its Vedic relevance is secured through **eka-vākyatā** with a vidhi; it is meaningful as subordinate to injunction.
+
+### 10A.4 Prābhākara alternative — kārya / niyoga
+
+#### Statement
+
+- ✅ Prabhākara rejects the Bhāṭṭa doubling of śābdī and ārthī bhāvanā.
+- ✅ He holds that the injunctive content is **kārya / niyoga**: a “to-be-done” directly apprehended from the injunction and binding on the qualified agent.
+- ✅ On this view duty is categorical: the Veda commands, and the command itself, not the desired fruit, is the ground of obligation.
+- ✅ Therefore the doctrinal contrast is: **Prābhākara = niyoga-vāda** or duty for duty's sake; **Bhāṭṭa = bhāvanā-vāda** in which the injunction operates through desire for a result.
+
+#### Argument
+
+1. ✅ The qualified agent hears the Vedic injunction.
+2. ✅ The sentence directly presents an act as to-be-done.
+3. ✅ The bindingness of the act does not wait upon attraction toward svarga or another fruit.
+4. ✅ Therefore obligation arises from **niyoga** itself.
+5. ✅ This gives Prābhākara a rigorously deontological structure within ritual hermeneutics.
+
+#### Presupposition
+
+- ✅ Duty can bind because it is enjoined, not because it promises a desired consequence.
+- ✅ The Vedic command is normatively sufficient for the **adhikārin** (qualified agent).
+
+#### Example
+
+- ✅ The agent performs the rite because it is enjoined, not merely because svarga is psychologically attractive.
+
+#### Objection → Reply
+
+- ❌ **Objection:** If the fruit does not motivate, why would the agent act at all?
+- ✅ **Reply:** Prābhākara replies that the cognition of the act as enjoined is itself action-guiding for the qualified agent.
+
+> ⚠️ **Western comparison flag:** Prābhākara's **niyoga** can be compared cautiously with Kant's categorical imperative because both separate duty from desired consequences, but the comparison must remain controlled because niyoga is grounded in an impersonal eternal Veda and applies to ritually qualified agents.
+
+### 10A.5 Prescriptive Veda and the subordination of non-injunctive passages
+
+#### Statement
+
+- ✅ Mīmāṃsā treats non-injunctive Vedic materials such as **arthavāda**, **mantra** and **nāmadheya** as subordinate to injunctions.
+- ✅ The governing principle is that such passages gain Vedic function through **eka-vākyatā** with a vidhi.
+
+#### Argument
+
+1. ✅ The Veda's central purpose is to reveal dharma.
+2. ✅ Dharma is action-guiding.
+3. ✅ Therefore sentences that do not directly enjoin must be related to sentences that do.
+4. ✅ Arthavāda can praise, blame, explain or motivate, but its scriptural point is completed by connection with vidhi.
+5. ✅ Mantras and names also function within the ritual structure rather than as free-standing metaphysical essays.
+
+#### Presupposition
+
+- ✅ Meaning relevant to dharma is meaning that guides or supports action.
+- ✅ The Veda's unity is hermeneutic and ritual, not merely literary.
+
+#### Objection → Reply
+
+- ❌ **Objection:** This reduces rich Vedic discourse to ritual command.
+- ✅ **Reply:** Mīmāṃsā accepts the cost because its project is not literary appreciation but the discovery of dharma.
+
+### 10A.6 Vedānta objection and Advaita reply
+
+#### Statement
+
+- ✅ The sharp doctrinal seam between Pūrva-Mīmāṃsā and Uttara-Mīmāṃsā appears in the treatment of Upaniṣadic sentences such as “**tat tvam asi**.”
+- ✅ The Mīmāṃsaka tends to read even such passages through the priority of injunction or as subordinate to contemplative or ritual function.
+- ✅ Advaita replies that **siddha-vastu** (an accomplished fact) statements are independently valid and reveal what already is.
+
+#### Pūrvapakṣa from Mīmāṃsā
+
+1. ✅ The Veda's purpose is dharma and dharma is known through injunction.
+2. ✅ A sentence that does not guide action seems purposeless in the Vedic economy.
+3. ✅ Therefore Upaniṣadic statements must either enjoin meditation/knowledge-related discipline or serve an injunctional purpose.
+
+#### Siddhānta from Advaita
+
+1. ✅ Knowledge is not an action and cannot be produced by command in the way sacrifice is produced.
+2. ✅ Brahman is not a future product but an accomplished reality.
+3. ✅ Therefore sentences revealing Brahman can be independently valid as disclosure of a siddha-vastu.
+4. ✅ The Upaniṣads need not be subordinated to ritual vidhi.
+
+#### Mīmāṃsā reply back
+
+- ✅ Mīmāṃsā answers that Vedic purposiveness is unintelligible unless scriptural sentences are action-guiding.
+- ⚠️ Advaita answers that revelation of an accomplished reality is itself a valid scriptural purpose.
+
+#### Presupposition
+
+- ✅ The disagreement turns on whether Vedic meaningfulness requires action-production or can include direct metaphysical disclosure.
+
+#### Objection → Reply
+
+- ❌ **Objection:** If knowledge is not an action, injunctional hermeneutics cannot govern the Upaniṣads.
+- ✅ **Reply:** Mīmāṃsā can insist that scriptural knowledge matters only where it enters a normative discipline; Advaita denies this and treats liberating knowledge as independently revelatory.
+
+### 10A.7 Bhāvanā and apūrva
+
+#### Statement
+
+- ✅ **Apūrva** is the unseen potency generated by ritual action that links a perishing act to a distant fruit.
+- ✅ It makes **ārthī bhāvanā** intelligible across time: the act ends, but its potency persists until the fruit matures.
+
+#### Argument
+
+1. ✅ A ritual act is temporally limited.
+2. ✅ Its promised fruit, such as svarga, may be temporally remote and not visibly produced at the moment of action.
+3. ✅ If the act simply perished without remainder, the Vedic connection between rite and fruit would be unintelligible.
+4. ✅ Therefore Mīmāṃsā posits **apūrva** as the unseen link between act and result.
+5. ✅ This postulation is defended through **arthāpatti** because otherwise the scripturally guaranteed connection between perishing act and later fruit remains inexplicable.
+
+#### Presupposition
+
+- ✅ Vedic injunctions truthfully connect acts with fruits even when ordinary perception cannot observe the causal bridge.
+- ✅ Explanatory postulation is legitimate where accepted facts would otherwise be incompatible.
+
+#### Example
+
+- ✅ A sacrifice performed now can produce a later fruit because the act generates apūrva, not because the visible flames physically travel to heaven.
+
+#### Objection → Reply
+
+- ❌ **Objection:** Apūrva is unverifiable and looks like an ad hoc posit.
+- ✅ **Reply:** Mīmāṃsā replies that it is not arbitrary; it is established by **arthāpatti** as the necessary postulate connecting a transitory ritual act with a promised later fruit.
+
+### 10A.8 Exam-ready conclusion
+
+- ✅ Bhāvanā makes Mīmāṃsā more than a general theory of testimony; it is a theory of injunctional meaning.
+- ✅ Bhāṭṭa explains injunction through the two forces of word and act; Prābhākara explains it through direct binding **niyoga**.
+- ✅ The best answer must connect **vidhi**, **aṃśa-traya**, **arthavāda-subordination**, **apūrva**, and the Vedānta dispute over whether all Vedic meaning is action-guiding.
+
+## 10B. MĪMĀṂSĀ ATHEISM — NIRĪŚVARAVĀDA
+
+### 10B.1 Statement
+
+#### Statement
+
+- ✅ Classical Pūrva-Mīmāṃsā, especially in Kumārila's line, rejects a creator God and a divine dispenser of ritual fruits.
+- ✅ This atheism is consistent with Vedic orthodoxy because Mīmāṃsā grounds scriptural authority in impersonality, not in divine authorship.
+- ✅ A text is authoritative precisely because no one wrote it; theistic authorship would make the Veda depend on a person's reliability.
+
+#### Argument
+
+1. ✅ Mīmāṃsā accepts the Veda as apauruṣeya.
+2. ✅ If God authored the Veda, the Veda would no longer be authorless.
+3. ✅ Its authority would then depend on proving God's existence, omniscience, sincerity and freedom from defect.
+4. ✅ Mīmāṃsā treats this as a weaker foundation than impersonality.
+5. ✅ Therefore rejection of a creator God is not anti-Vedic within Mīmāṃsā; it is part of the defence of Veda.
+
+#### Presupposition
+
+- ✅ Authority is safer when no fallible or interested person is its source.
+- ✅ Ritual efficacy can be explained by karma and apūrva without divine supervision.
+
+#### Example
+
+- ✅ Nyāya says the Veda is valid because Īśvara is its **āpta** author; Mīmāṃsā says the Veda is valid because it has no author at all.
+
+#### Objection → Reply
+
+- ❌ **Objection:** An atheistic Vedic school is incoherent because Veda and God should stand together.
+- ✅ **Reply:** Mīmāṃsā replies that Vedic authority and theism are separable; for this school, divine authorship would weaken rather than strengthen the Veda.
+
+### 10B.2 Arguments against Īśvara
+
+#### Statement
+
+- ✅ Mīmāṃsā rejects Īśvara because no pramāṇa establishes a creator and because karma-apūrva sufficiently explains moral fruition.
+
+#### Argument
+
+1. ✅ **No perception:** God is not perceptually given.
+2. ✅ **Failed inference:** The inference from world to maker is weak because the world as a whole is not observed to be manufactured like a pot, and a bodiless agent cannot be shown to act like a potter.
+3. ✅ **No decisive testimony:** The Veda is authorless and, on the Mīmāṃsā reading, does not require a creator-God doctrine to ground dharma.
+4. ✅ **Beginningless world:** If creation occurred at a first time, one must explain God's motive; if God needed nothing, creation lacks motive, and if God needed something, divine perfection is compromised.
+5. ✅ **Pre-creation problem:** A first creation raises questions about the prior status of souls and karma; Mīmāṃsā avoids this through a beginningless series.
+6. ✅ **Karma suffices:** The moral order is self-regulating through action, merit, demerit and apūrva, so a divine dispenser of fruits is redundant.
+7. ✅ **Problem of evil and partiality:** A good creator would not freely create graded suffering; if suffering is allotted by karma, God is not independent.
+8. ✅ **Vedic fallibility problem:** If God authored the Veda, the Veda becomes dependent on a personal source and loses the advantage of apauruṣeyatva.
+
+#### Presupposition
+
+- ✅ Do not multiply explanatory entities when karma, apūrva and beginningless order can perform the needed work.
+- ✅ A pramāṇa must establish God before God can be used to establish anything else.
+
+#### Example
+
+- ✅ The potter analogy proves too little because we observe pots being made by embodied artisans, but we do not observe worlds being made by bodiless creators.
+
+#### Objection → Reply
+
+- ❌ **Objection:** The orderliness of the world requires an intelligent arranger.
+- ✅ **Reply:** Mīmāṃsā replies that order can be beginningless and karmically regulated; invoking God relocates the demand for explanation rather than satisfying it.
+
+### 10B.3 Is atheism consistent with defending the Veda?
+
+#### Statement
+
+- ✅ Yes: for Mīmāṃsā, scriptural authority is grounded in impersonality rather than divine authorship.
+- ✅ Theistic scripture is, from the Mīmāṃsā standpoint, less authoritative because it depends on the reliability of a person.
+- ✅ This creates the striking result that an orthodox ritualist āstika school is among the most rigorously anti-theistic systems in Indian philosophy.
+
+#### Argument
+
+1. ✅ Orthodoxy in the āstika sense need not mean belief in a creator God.
+2. ✅ It can mean acceptance of the Veda as a valid source of dharma.
+3. ✅ Mīmāṃsā accepts the Veda more radically than Nyāya because it denies that the Veda needs divine authorship.
+4. ✅ Therefore the label “atheistic” must be qualified: Mīmāṃsā rejects a creator and fruit-dispenser, not the Veda.
+5. ✅ This also qualifies the habit of reserving “atheistic” only for Cārvāka, Jaina and Bauddha traditions.
+
+#### Presupposition
+
+- ✅ Theism is not the only possible ground of normativity.
+- ✅ An impersonal text can bind if its injunctive force is eternal and authorless.
+
+#### Example
+
+- ✅ Nyāya secures the Veda through Īśvara; Mīmāṃsā secures the Veda by excluding any author, even God.
+
+#### Objection → Reply
+
+- ❌ **Objection:** Without a lawgiver, there can be no law.
+- ✅ **Reply:** Mīmāṃsā replies that **vidhi** itself is the lawgiving structure; obligation is textual and impersonal, not volitional.
+
+### 10B.4 Qualification — devatās are not simply denied
+
+#### Statement
+
+- ✅ Mīmāṃsā rejects a creator and fruit-dispensing God, but it does not simply reject the **devatās** of ritual.
+- ✅ The devatās are treated largely as mantra-denoted entities whose ritual status is subordinated to the sacrifice.
+- ✅ For the Mīmāṃsaka, the deity is essentially that which is signified by the mantra and to whom the offering is made.
+- ✅ The fruit is produced by the act plus apūrva, not by the deity's pleasure.
+- ❓ Later Mīmāṃsakas and Mīmāṃsā-influenced Vedāntic traditions sometimes soften the anti-theistic edge.
+
+#### Argument
+
+1. ✅ Ritual language includes deity-names and offerings to deities.
+2. ✅ Mīmāṃsā need not erase this ritual grammar.
+3. ✅ It only denies that deities function as sovereign creators or dispensers of karma.
+4. ✅ The causal centre remains sacrifice and apūrva.
+5. ✅ Therefore ritual theism is subordinated to ritual action.
+
+#### Presupposition
+
+- ✅ Vedic ritual can retain deity-reference without making divine will the source of efficacy.
+
+#### Example
+
+- ✅ An offering may be addressed to Agni, but its promised fruit depends on correct performance and apūrva rather than on Agni's discretionary favour.
+
+#### Objection → Reply
+
+- ❌ **Objection:** If deities do not grant the fruit, offerings to them become meaningless.
+- ✅ **Reply:** Mīmāṃsā replies that deity-reference is part of the ritual specification; meaning lies in the Vedic procedure, not in divine pleasure.
+
+### 10B.5 Nyāya/Vedānta objection and Mīmāṃsā reply
+
+#### Statement
+
+- ✅ Nyāya and Vedānta press the question of how karma is allotted to bodies and how moral order remains reliable without God.
+
+#### Argument from the objector
+
+1. ❌ Karma is unconscious and cannot intelligently allocate fruits.
+2. ❌ Bodies, circumstances and experiences appear precisely matched to past deeds.
+3. ❌ Such allotment seems to require an omniscient dispenser.
+4. ❌ Therefore God is needed as karmaphaladātṛ, the giver of karmic fruits.
+
+#### Mīmāṃsā reply
+
+1. ✅ The karmic series is beginningless, so no first allocation needs explanation.
+2. ✅ Apūrva is the unseen potency by which actions connect to fruits.
+3. ✅ Postulating God does not solve the problem; it merely asks how God's will, justice and omniscience are themselves known.
+4. ✅ If God distributes strictly according to karma, karma remains the real principle.
+5. ✅ If God distributes independently of karma, divine partiality and injustice arise.
+6. ✅ Therefore God is either redundant or morally problematic.
+
+#### Presupposition
+
+- ✅ A beginningless moral order is more economical than a divine arranger whose own status requires proof.
+
+#### Example
+
+- ✅ If a ritual fruit follows from sacrifice because of apūrva, adding God as an extra dispenser duplicates the causal work.
+
+#### Objection → Reply
+
+- ❌ **Objection:** Apūrva is itself obscure and cannot “execute” results.
+- ✅ **Reply:** Mīmāṃsā replies that an unseen potency postulated from Vedic efficacy is less burdensome than a fully omniscient divine person postulated to manage every result.
+
+### 10B.6 Exam-ready conclusion
+
+- ✅ The answer to “Is Mīmāṃsā an atheistic system that defends the Veda?” is yes, if atheism means denial of a creator and fruit-dispenser.
+- ✅ The consistency lies in the principle: **the Veda is authoritative because it is impersonal, not because it is God-authored**.
+- ✅ Always qualify that ritual devatās remain within the sacrificial structure, but they are not the ultimate producers of fruits.
+
 ## 11. INTER-THINKER / INTER-SCHOOL DEBATES
 
 ### 11.1 Bhāṭṭa vs Prābhākara
@@ -1272,6 +1861,25 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ❌ **Criticism:** meaning without authorial intention is impossible.
 - ✅ **Reply:** Mīmāṃsā locates semantic authority in the eternal relation of word and meaning, not in historical authorship.
 
+
+### 12.6 On apauruṣeyatva and circularity
+
+- ❌ **Criticism:** Veda is authoritative because it is apauruṣeya, but apauruṣeyatva itself seems accepted from the same tradition.
+- ✅ **Reply:** Mīmāṃsā presents authorlessness as supported by absence of remembered author, autpattika word-meaning relation and unlocated original composition, while restricting Vedic authority to dharma.
+- ⚠️ The residual pressure remains because Nyāya and Buddhist critics deny the natural word-meaning relation and the eternity of śabda.
+
+### 12.7 On bhāvanā and niyoga
+
+- ❌ **Criticism:** Impersonal injunction without a commander is unintelligible.
+- ✅ **Reply:** Bhāṭṭa locates imperative force in **śābdī bhāvanā** and the vidhi-suffix; Prābhākara locates bindingness in **niyoga** or the directly apprehended to-be-done.
+- ⚠️ The pressure is strongest when Mīmāṃsā tries to subordinate non-injunctive Upaniṣadic sentences to vidhi.
+
+### 12.8 On nirīśvaravāda
+
+- ❌ **Criticism:** Without God, karma cannot be allocated and moral order has no intelligent administrator.
+- ✅ **Reply:** Mīmāṃsā replies with beginningless karma and **apūrva**, and argues that a divine dispenser either duplicates karma or introduces partiality.
+- ⚠️ The debate remains open because critics find an unconscious apūrva less intelligible than a conscious Īśvara.
+
 ## 13. COMMON UPSC TRAPS
 
 1. ⚠️ Prābhākara accepts **five** pramāṇas, not six.
@@ -1286,6 +1894,11 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 10. ⚠️ Mīmāṃsā privileges jāti primarily, not vyakti primarily.
 11. ⚠️ The Veda is apauruṣeya, not God-authored.
 12. ⚠️ Apūrva is the unseen link between ritual and future fruit.
+13. ⚠️ Bhāṭṭa **bhāvanā-vāda** is not the same as Prābhākara **niyoga-vāda**.
+14. ⚠️ **Śābdī bhāvanā** impels action; **ārthī bhāvanā** produces fruit through the agent's effort.
+15. ⚠️ Arthavāda, mantra and nāmadheya gain Vedic relevance through subordination to **vidhi**.
+16. ⚠️ Mīmāṃsā atheism rejects a creator and fruit-dispenser, not ritual devatās as mantra-denoted entities.
+17. ⚠️ Apauruṣeyatva is defended by reasoning plus absence of remembered author, not by inventing a hidden Vedic author.
 
 ## 14. KEYWORD & STATEMENT BANK
 
@@ -1323,6 +1936,19 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ śabda-nityatva
 - ✅ apūrva
 - ✅ niyoga
+- ✅ bhāvanā
+- ✅ śābdī bhāvanā
+- ✅ ārthī bhāvanā
+- ✅ aṃśa-traya
+- ✅ sādhya / bhāvya
+- ✅ karaṇa / sādhana
+- ✅ itikartavyatā
+- ✅ eka-vākyatā
+- ✅ arthavāda
+- ✅ autpattika
+- ✅ nirīśvaravāda
+- ✅ apauruṣeyatva-circularity
+- ✅ sarvajña-denial
 
 <!-- restored-2018-2020-doctrine:start -->
 ## RESTORED 2018/2020 DOCTRINE DOSSIER
@@ -1345,6 +1971,128 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ❌ **Trap / answer consequence:** Do not infer intrinsic luminosity and intrinsic validity are identical theses; distinguish manifestation, truth, novelty and later ascertainment of falsity.
 
 <!-- expanded-pyq-depth:end -->
+
+
+## 14A. PRESUPPOSITION LEDGER
+
+| Doctrine | Presupposition | What collapses if denied |
+|---|---|---|
+| **Svataḥ-prāmāṇya** | ✅ Cognition normally discloses its object and does not require a further certificate before functioning. | ✅ Default trust, anti-regress strategy and Vedic authority all become dependent on an external validator. |
+| **Parataḥ-aprāmāṇya** | ✅ Error arises from detectable **doṣa** or **bādhaka**, not from cognition's normal nature. | ✅ Illusion would become indistinguishable from knowledge at birth or would make all cognition suspect. |
+| **Pramāṇa list: 5 Prābhākara / 6 Bhāṭṭa** | ✅ A pramāṇa is admitted only when its cognitive structure is irreducible to others. | ✅ Arthāpatti and anupalabdhi can be collapsed into Nyāya-style inference/perception, weakening Mīmāṃsā distinctiveness. |
+| **Arthāpatti** | ✅ Accepted facts can force a necessary postulate when they are otherwise incompatible. | ✅ Devadatta-style reasoning and the postulation of apūrva become mere conjecture or strained inference. |
+| **Anupalabdhi** | ✅ Absence is a genuine object and non-apprehension under fit conditions can disclose it. | ✅ Bhāṭṭa cannot explain determinate absence-cognition without reducing it to perception or inference. |
+| **Akhyāti / Vivekākhyāti** | ✅ Perception and memory can jointly operate without discrimination while each remains valid. | ✅ Prābhākara loses his way of preserving svataḥ-prāmāṇya without admitting false cognition. |
+| **Viparīta-khyāti** | ✅ A positive false cognition can arise from extrinsic defect while validity remains normal. | ✅ Bhāṭṭa cannot explain the assertive force of illusion such as “this is silver.” |
+| **Apauruṣeyatva** | ✅ A meaningful text can be authorless because word-meaning relations are eternal and impersonal. | ✅ Vedic authority must depend on a human or divine author and becomes vulnerable to defects. |
+| **Śabda-nityatva** | ✅ Words or word-units are manifested, not newly created, in utterance. | ✅ The Veda becomes a temporal composition and the autpattika word-meaning relation weakens. |
+| **Bhāvanā / niyoga** | ✅ Vedic meaning is primarily action-guiding and injunction can bind without a personal commander. | ✅ Mīmāṃsā loses its distinctive account of dharma as known through codanā. |
+| **Apūrva** | ✅ A ritual act can generate an unseen potency linking a perishing act to a remote fruit. | ✅ The connection between sacrifice and svarga becomes unintelligible without God or visible causation. |
+| **Nirīśvaravāda** | ✅ Karma, apūrva and beginningless order suffice without a creator or fruit-dispenser. | ✅ Mīmāṃsā must import Nyāya/Vedānta theism and compromise apauruṣeyatva. |
+| **Eternal self as agent and enjoyer** | ✅ The same enduring self performs duty, accrues merit and experiences fruit. | ✅ Ritual responsibility collapses because the agent and enjoyer could not be linked. |
+| **Liberation** | ✅ Bondage is connected with embodiment, karma and suffering; release is cessation of that condition. | ❓ Mīmāṃsā remains only ritual-felicific and cannot answer soteriological comparison questions. |
+
+## 14B. PŪRVAPAKṢA–SIDDHĀNTA LEDGER
+
+| Objector | Objection | Mīmāṃsā reply | Residual force ⚠️ |
+|---|---|---|---|
+| **Nyāya — parataḥ-prāmāṇya** | ❌ Validity requires external certification through success, confirmation or later cognition. | ✅ Mīmāṃsā replies that action itself presupposes prior trust; otherwise validation regresses indefinitely. | ⚠️ Nyāya keeps pressure on how Mīmāṃsā distinguishes genuine default trust from gullibility. |
+| **Nyāya — conventional śabda–artha relation** | ❌ Word-meaning is **saṅketa** (convention), not natural; ultimately God can institute it. | ✅ Mīmāṃsā replies that convention requires an institutor whose authority must be proved, whereas **autpattika** relation explains stability without theological dependence. | ⚠️ The naturalness of word-meaning is one of Mīmāṃsā's most contested assumptions. |
+| **Nyāya — God as āpta author** | ❌ The Veda is reliable because Īśvara is an omniscient **āpta** author. | ✅ Mīmāṃsā replies that a personal author is a possible locus of defect and that proving omniscience is harder than accepting authorlessness. | ⚠️ Nyāya can argue that authorlessness is less intelligible than a perfect speaker. |
+| **Buddhist Dharmakīrti — timed cognition** | ❌ An eternal, changeless word cannot cause a cognition at a particular time. | ✅ Mīmāṃsā replies that utterance manifests eternal word-units under conditions; timed cognition depends on manifestation and hearer, not creation of the word. | ⚠️ The causal status of “manifestation” remains difficult. |
+| **Buddhist apoha theory** | ❌ Words do not denote eternal universals; they function by exclusion (**apoha**) of what is other. | ✅ Mīmāṃsā replies that stable Vedic instruction and repeatable ritual reference require real universals or stable word-meanings. | ⚠️ Apoha challenges the realist ontology beneath Mīmāṃsā semantics. |
+| **Buddhist reliability view** | ❌ Scriptural authority is at best inferred from reliability; no scripture is intrinsically privileged. | ✅ Mīmāṃsā replies that Vedic authority for dharma is self-valid and undefeated because no other pramāṇa reaches that domain. | ⚠️ Rival traditions dispute the restriction of dharma to Vedic access. |
+| **Advaita Vedānta** | ❌ Upaniṣadic **siddha-vastu** statements reveal Brahman and are not subordinate to injunction. | ✅ Mīmāṃsā replies that Vedic purposiveness is primarily action-guiding; Advaita replies that knowledge is not an action. | ⚠️ This remains the doctrinal seam between Pūrva- and Uttara-Mīmāṃsā. |
+| **Advaita on mokṣa** | ❌ Ritual action cannot yield mokṣa because action produces finite results, while liberation is knowledge of Brahman. | ✅ Mīmāṃsā replies that its central domain is dharma and that liberation can be understood as cessation of pain rather than Brahman-realisation. | ❓ The historical development of Mīmāṃsā mokṣa doctrine remains debated. |
+| **Cārvāka** | ❌ Apūrva, svarga and Vedic authority are unverifiable; the Veda is attacked as the work of “knaves and buffoons.” | ✅ Mīmāṃsā replies that perception is not the only pramāṇa and that supersensible dharma requires Vedic śabda. | ⚠️ Cārvāka keeps the empiricist challenge alive against unseen entities. |
+| **Jaina/Bauddha on omniscience** | ❌ An omniscient teacher is possible through purification; Kumārila's denial of any **sarvajña** is too strong. | ✅ Kumārila's Mīmāṃsā denies that any individual sarvajña is established by pramāṇa and rejects dependence on a teacher's omniscience. | ⚠️ Jaina and Buddhist traditions answer that omniscience is spiritually attained, not empirically ordinary. |
+| **Vedāntic metaphysical charge** | ❌ A system defending an authorless eternal text still owes a metaphysical ground for the eternity of language. | ✅ Mīmāṃsā replies with **śabda-nityatva** and autpattika word-meaning relation. | ⚠️ Critics can say this names rather than proves language-eternity. |
+
+## 14C. BHĀṬṬA vs PRĀBHĀKARA MASTER TABLE
+
+| Issue | Bhāṭṭa Mīmāṃsā | Prābhākara Mīmāṃsā | Exam use |
+|---|---|---|---|
+| **Number of pramāṇas** | ✅ Six: pratyakṣa, anumāna, upamāna, śabda, arthāpatti, anupalabdhi. | ✅ Five: same list minus independent anupalabdhi. | ✅ Use for 10-mark difference questions. |
+| **Absence** | ✅ **Abhāva** is real and known by **anupalabdhi**. | ✅ Absence-cognition is explained through perception of the bare locus; no separate pramāṇa. | ✅ Central for 2021/2025-style questions. |
+| **Error** | ✅ **Viparīta-khyāti**: real positive misapprehension caused by defect. | ✅ **Akhyāti / vivekākhyāti**: failure to discriminate perception and memory. | ✅ Link both to svataḥ-prāmāṇya. |
+| **Self-luminosity of cognition** | ✅ Bhāṭṭa denies **svayaṃprakāśa** for cognition; cognition is inferred from the object's **jñātatā** (cognisedness). | ✅ Prābhākara affirms **svayaṃprakāśa** through **tripuṭī-saṃvit**: object, cognition and self are revealed together. | ✅ Do not confuse svayaṃprakāśa with svataḥ-prāmāṇya. |
+| **Theory of self** | ✅ Enduring self is agent, knower and enjoyer; cognition known mediately. | ✅ Enduring self is disclosed along with object and cognition in each awareness. | ✅ Use in “How do I know that I know?” answers. |
+| **Sentence meaning** | ✅ **Abhihitānvayavāda**: words first denote isolated meanings; sentence meaning connects them. | ✅ **Anvitābhidhānavāda**: words denote meanings as already connected. | ✅ Add ākāṅkṣā, yogyatā, sannidhi. |
+| **Injunctive theory** | ✅ **Bhāvanā-vāda**: śābdī bhāvanā impels action; ārthī bhāvanā produces fruit through action. | ✅ **Niyoga-vāda**: the act as to-be-done binds categorically. | ✅ Use for Indian Kant comparison cautiously. |
+| **Status of arthavāda** | ✅ Subordinate to vidhi through **eka-vākyatā**, often as praise or motivational support. | ✅ Also subordinate to injunctional function, with stronger emphasis on direct obligation. | ✅ Prevents treating Veda as mere descriptive literature. |
+| **Motivation** | ✅ Desire for fruit such as svarga is central for the qualified agent. | ✅ Duty arises from the command itself, not from fruit-desire. | ✅ Distinguish consequential motivation from categorical obligation. |
+| **Liberation** | ❓ Later Bhāṭṭa accounts allow cessation of suffering/karmic embodiment but retain ritual-epistemic framework. | ❓ Prābhākara accounts are also less central than epistemology and duty. | ⚠️ State cautiously; do not over-Vedāntise Mīmāṃsā mokṣa. |
+
+## 14D. INTER-SCHOOL POSITIONING
+
+| School | Pramāṇas | Validity | Error theory | Veda and ground | God | Causation / efficacy | Liberation |
+|---|---|---|---|---|---|---|---|
+| **Mīmāṃsā** | ✅ 5 Prābhākara / 6 Bhāṭṭa | ✅ Validity intrinsic, invalidity extrinsic | ✅ Akhyāti or viparīta-khyāti | ✅ Veda apauruṣeya and self-valid for dharma | ✅ Rejects creator/fruit-dispenser | ✅ Ritual act generates **apūrva**; karma beginningless | ❓ Cessation of pain/karmic embodiment in later accounts |
+| **Nyāya-Vaiśeṣika** | ✅ Usually 4: perception, inference, comparison, testimony | ✅ Validity generally extrinsic | ✅ Anyathākhyāti | ✅ Veda valid through reliable **āpta**, often Īśvara | ✅ Theistic in developed Nyāya | ✅ Realist causation; God orders atoms and karma | ✅ Cessation of pain through true knowledge of categories |
+| **Sāṃkhya-Yoga** | ✅ Typically 3: perception, inference, testimony | ✅ Often presented as intrinsic validity and intrinsic invalidity | ⚠️ Error tied to misidentification of puruṣa and prakṛti | ✅ Accepts authoritative testimony but not Vedic ritualism as central | ✅ Classical Sāṃkhya non-theistic; Yoga admits Īśvara as special puruṣa | ✅ Satkāryavāda; prakṛti evolves effects | ✅ Kaivalya, isolation of puruṣa |
+| **Advaita Vedānta** | ✅ Usually 6 in later Advaita lists | ⚠️ Knowledge valid until sublated, with levels of reality | ✅ Anirvacanīya-khyāti | ✅ Upaniṣads reveal Brahman as siddha-vastu | ✅ Īśvara valid at empirical level | ✅ Vivarta / apparent transformation | ✅ Mokṣa through Brahman-knowledge |
+| **Viśiṣṭādvaita** | ✅ Commonly accepts perception, inference, scripture as decisive | ✅ Scripture and reason harmonised under theistic realism | ⚠️ Error often explained without Advaita's radical indefinability | ✅ Veda is divine revelation interpreted theistically | ✅ Nārāyaṇa/Brahman as personal ultimate | ✅ Real transformation/body-soul relation of world to God | ✅ Loving service and release by God's grace plus knowledge/devotion |
+| **Buddhism** | ✅ Often 2 in epistemology: perception and inference | ⚠️ Validity linked to causal efficacy/reliability | ✅ Varied; apoha and momentariness challenge realist semantics | ❌ Rejects Vedic intrinsic authority | ❌ No creator God | ✅ Momentary causation, dependent origination | ✅ Nirvāṇa as cessation of ignorance/craving, school-specific |
+| **Jainism** | ✅ Multiple pramāṇas with direct/indirect divisions | ⚠️ Fallibilist pluralism through anekāntavāda | ⚠️ Error from partial standpoint absolutised | ❌ Does not ground authority in Veda | ❌ No creator God; liberated omniscients | ✅ Karma as subtle matter binding jīva | ✅ Liberation by purification and omniscience |
+| **Cārvāka** | ✅ Perception alone, with inference distrusted or pragmatically limited | ✅ Empirical verification only | ⚠️ Error exposes unreliability beyond perception | ❌ Rejects Veda as human fabrication | ❌ Rejects God | ✅ Material causation only | ❌ No other-worldly mokṣa; death is dissolution |
+
+## 14E. CONTROLLED WESTERN COMPARISON
+
+| Indian point | Western point of contact | Disanalogy |
+|---|---|---|
+| **Prābhākara niyoga** | ⚠️ Kant's categorical imperative also separates duty from desired consequences. | ⚠️ Kant grounds obligation in rational autonomy and universalisability; niyoga is heteronomous, grounded in an impersonal eternal Veda and limited to the qualified **adhikārin**. |
+| **Svataḥ-prāmāṇya** | ⚠️ Epistemic conservatism, default entitlement and Reid's principle of credulity also put burden on the doubter. | ⚠️ Mīmāṃsā offers a thesis about the intrinsic validity-conferring character of cognition, not merely a practical policy of trust. |
+| **Apauruṣeyatva** | ⚠️ Western scriptural-inspiration doctrines also seek to secure scriptural authority. | ⚠️ The Western route often runs through a divine author; Mīmāṃsā secures authority by excluding every author. |
+| **Abhihitānvaya / anvitābhidhāna** | ⚠️ The debate resembles compositionality versus contextualism; Frege's context principle partly resembles anvitābhidhāna. | ⚠️ The Indian debate is driven by Vedic exegesis, language-learning and injunction, not by formal semantics alone. |
+| **Hermeneutic canons** | ⚠️ **Śruti–liṅga–vākya–prakaraṇa–sthāna–samākhyā** and **utsarga–apavāda** resemble rule-governed legal interpretation. | ⚠️ Mīmāṃsā presupposes an infallible authorless text and admits no amendment by legislative intention. |
+| **Mīmāṃsā atheism** | ⚠️ It can be compared with Western non-theistic religion or impersonal normativity. | ⚠️ Mīmāṃsā is not secular humanism; it defends Veda, ritual, apūrva and supersensible dharma. |
+
+**Rubric:** ⚠️ Western parallels are illustrative only, never a substitute for the Mīmāṃsā argument; use at most one or two lines after the Indian case is complete.
+
+## 14F. DIRECTIVE DECODER
+
+| Directive | What the examiner is testing | Structural move for a Mīmāṃsā answer | Closing verdict |
+|---|---|---|---|
+| **Discuss** | ✅ Breadth plus balanced exposition | ✅ Define doctrine, give arguments, add rival view and reply | ✅ “Thus the doctrine is defensible within Mīmāṃsā's assumptions, though contested by...” |
+| **Examine** | ✅ Internal structure and presuppositions | ✅ Break into statement, premises, example, objection | ✅ “Its force depends on accepting...” |
+| **Critically examine** | ✅ Argument plus serious criticism | ✅ Present Mīmāṃsā, then Nyāya/Buddhist/Advaita challenge, then residual force | ⚠️ “The reply works partly, but the pressure remains at...” |
+| **Analyse** | ✅ Conceptual components | ✅ Use tables: pramāṇa structure, aṃśa-traya, sentence conditions | ✅ “The analysis shows that...” |
+| **Evaluate** | ✅ Graded judgment | ✅ State strengths, weaknesses and final weighed assessment | ✅ “Stronger as epistemology/hermeneutics than as metaphysics of...” |
+| **Compare** | ✅ Similarity and difference | ✅ Use Bhāṭṭa vs Prābhākara or Mīmāṃsā vs Nyāya columns | ✅ “The shared problem is..., the decisive difference is...” |
+| **Distinguish** | ✅ Precision of technical terms | ✅ Define each term separately, then give contrast example | ✅ “They must not be conflated because...” |
+| **Elucidate** | ✅ Clear explanation with example | ✅ Start with definition, unpack Sanskrit term, use Devadatta/shell-silver/svarga example | ✅ “This elucidates the doctrine as...” |
+| **Comment** | ✅ Short evaluative insight | ✅ State the thesis, add one argument and one limitation | ✅ “The comment is acceptable if limited to...” |
+| **Bring out** | ✅ Hidden implication or significance | ✅ Show why the doctrine matters for Veda, dharma or anti-scepticism | ✅ “Its significance lies in...” |
+| **Do you agree?** | ✅ Independent but disciplined verdict | ✅ Agree partly, defend with doctrine, qualify with objections | ✅ “I agree within the Mīmāṃsā framework, but not as a neutral proof against all rivals.” |
+
+## 14G. GRADED VERDICT ON MĪMĀṂSĀ
+
+### 14G.1 Strong points ✅
+
+- ✅ Mīmāṃsā offers one of the most rigorous Indian theories of testimony and textual interpretation.
+- ✅ Its **svataḥ-prāmāṇya** is a genuinely original account of intrinsic justification and default entitlement.
+- ✅ Its defence of Vedic authority through impersonality provides a self-consistent non-theistic foundation for normativity.
+- ✅ Its recognition of **arthāpatti** and, in Bhāṭṭa, **anupalabdhi** expands epistemology beyond perception-inference reductionism.
+- ✅ Its hermeneutic canons make it a sophisticated theory of rule-governed interpretation.
+
+### 14G.2 Weak points ⚠️
+
+- ⚠️ The eternality of **śabda** is difficult to defend against conventionalist and Buddhist critiques.
+- ⚠️ **Apūrva** and **svarga** remain unverifiable from the standpoint of perception-centred empiricism.
+- ⚠️ An authorless text with determinate purport creates pressure because purport normally seems tied to intention.
+- ⚠️ Mīmāṃsā soteriology appears late and awkward compared with systems centred directly on mokṣa.
+
+### 14G.3 Genuinely contested points ❓
+
+- ❓ Whether svataḥ-prāmāṇya fully avoids circularity or merely relocates the burden to “defect” and “defeater.”
+- ❓ Whether Mīmāṃsā atheism is a considered metaphysics or primarily a consequence of its exegetical need to protect apauruṣeyatva.
+- ❓ How exactly the historical development of the mokṣa doctrine should be placed within early and later Mīmāṃsā.
+
+### 14G.4 Ready one-line verdicts
+
+- ✅ **10 marks:** Mīmāṃsā is strongest as a theory of intrinsic validity and Vedic testimony, but it must be stated as defeasible default validity, not infallibility.
+- ✅ **15 marks:** Mīmāṃsā's originality lies in linking epistemology, hermeneutics and duty; its weakness lies in the contested assumptions of eternal language and apūrva.
+- ✅ **20 marks:** A balanced verdict is that Mīmāṃsā gives a coherent impersonal foundation for dharma and testimony within its realist presuppositions, but Nyāya, Buddhist and Vedāntic objections keep its language-eternity, authorlessness and ritual causality philosophically contested.
 
 ## 15. PYQ ROUTING (2018–2025)
 

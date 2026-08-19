@@ -73,7 +73,7 @@ state's role in containing marketisation and expanding grassroots reach.
 | ✅ **National Health Mission (NHM)** | Umbrella programme covering NRHM (rural) and NUHM (urban); supports public-health infrastructure, human resources, free drugs/diagnostics and flexible financing for states. |
 | ✅ **Ayushman Bharat - Health and Wellness Centres (HWC) / Ayushman Arogya Mandirs (AAM)** | Upgraded sub-centres and PHCs delivering comprehensive primary health care (CPHC): 12 service packages beyond reproductive-child health, including NCDs, mental health, ENT, ophthalmology, oral health and geriatric care. |
 | ✅ **Ayushman Bharat - PM-JAY** | Pradhan Mantri Jan Arogya Yojana: provides cashless secondary/tertiary hospitalisation cover up to ₹5 lakh per family per year for its core eligible households. A distinct 2024 expansion enables all citizens aged 70+ to enrol regardless of income; do not describe the core scheme as universal for every age group. |
-| ✅ **Out-of-Pocket Expenditure (OOPE)** | Health spending paid directly by households at the point of service (not covered by insurance or public funding); high OOPE can cause catastrophic expenditure and impoverishment. National Health Accounts Estimates reported OOPE at 47.1% of total health expenditure for 2020-21 — retain the reporting year. |
+| ✅ **Out-of-Pocket Expenditure (OOPE)** | Health spending paid directly by households at the point of service; high OOPE can cause catastrophic expenditure. National Health Accounts reported 47.1% in 2019-20, 44.4% in 2020-21 and 39.4% in 2021-22. |
 | ⚠️ **Marketisation of healthcare** | Dominance of private providers in curative care, often unregulated or under-regulated; leads to high costs, unnecessary procedures and catastrophic spending — the exact concern raised in 2024 PYQ Q17. |
 | ✅ **Public-health-system tiering** | Sub-centre (SC) -> Primary Health Centre (PHC) -> Community Health Centre (CHC) -> Sub-District/District Hospital — the hierarchical public-delivery infrastructure. |
 
@@ -122,9 +122,9 @@ state's role in containing marketisation and expanding grassroots reach.
   of income or SECC status. This is an operational age-based expansion, not merely a
   policy announcement; its separate-card and interaction with other government cover
   should be checked against the current NHA guidance in a live answer.
-- ✅ **OOPE:** National Health Accounts Estimates put household OOPE at 47.1% of total
-  health expenditure in 2020-21. It is a dated aggregate, not evidence that every
-  household faces the same burden.
+- ✅ **OOPE sequence:** National Health Accounts put household OOPE at 47.1% of total
+  health expenditure in 2019-20, 44.4% in 2020-21 and 39.4% in 2021-22. These are
+  dated aggregates, not evidence that every household faces the same burden.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -153,8 +153,8 @@ state's role in containing marketisation and expanding grassroots reach.
 ## 8. 📰 Current anchor
 
 - 📰 **OOPE (National Health Accounts Estimates):** the latest cited official estimate
-  is 47.1% of total health expenditure for 2020-21. Use the reporting year; a rolling
-  portal total or a later publication date is not a substitute for it.
+  is 39.4% for 2021-22, following 44.4% in 2020-21 and 47.1% in 2019-20. Do not
+  confuse publication date with accounting year.
 - 📰 **PM-JAY status (21 July 2026):** use the core eligibility route and the separate
   all-70+ enrolment route accurately. Cumulative cards and claims are dashboard outputs,
   not a measure of service quality or financial protection by themselves.
@@ -208,6 +208,33 @@ state's role in containing marketisation and expanding grassroots reach.
 - ⚠️ **Mains (10 marks):** Distinguish the two pillars of Ayushman Bharat. How
   do they together contribute to Universal Health Coverage?
 
+## 11A. Answer architecture (10/15/20-mark support)
+
+### Direct Mains demands owned by Core
+
+- **2018 GS-II:** community health and Health for All.
+- **2020 GS-II:** geriatric and maternal care.
+- **2021 GS-II:** primary health as a condition for sustainable development. These
+  routes supersede the older `advanced/03` pointers.
+
+- **Community health:** Alma-Ata's equity, participation, inter-sectoral action and
+  appropriate technology map to ASHAs, ANMs, VHSNCs and Ayushman Arogya Mandirs.
+- **Financing chain:** revenue collection -> risk pooling -> strategic purchasing ->
+  service provision. Insurance without public primary care leaves prevention,
+  medicines and outpatient OOPE unresolved.
+- **System capacity:** NHM, free drugs/diagnostics and PM-ABHIM strengthen systems;
+  uneven State capacity and workforce vacancies limit outcomes.
+- **Mental health:** the Mental Healthcare Act, 2017 supplies a rights framework and
+  Tele-MANAS expands access, but neither replaces district professionals and continuity.
+- **Federalism:** Union financing and standards depend on State delivery capacity.
+
+**10 marks:** mechanism plus three institutions. **15 marks:** UHC cube, financing and
+4-6 evidence units. **20 marks:** integrate primary/hospital/public/mental health,
+maternal-geriatric care, federalism and financial protection.
+
+> **Reasoned verdict:** Sustainable UHC is built from community-linked primary care
+> upward, not from hospital claims downward.
+
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md`.
@@ -246,20 +273,26 @@ state's role in containing marketisation and expanding grassroots reach.
 ## Historical PYQ Integration (2018-2023)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
 > **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
 
-- **Years represented:** 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+- **Years represented:** 2018, 2020, 2021, 2023
+- **Paper(s):** GS-II, Prelims GS-I
+- **Routed question demands:** 5
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
+| 2018 | GS-II | 7 | Community-level healthcare intervention and Health for All | Explain · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2020 | GS-II | 6 | Health policies for geriatric and maternal care | Discuss · 10 marks · 150 words | Cross-cutting Core ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2021 | GS-II | 6 | Primary health structure as a precondition for sustainable development | Analyze · 10 marks · 150 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 51 | Janani Suraksha Yojana maternal neonatal mortality institutional delivery | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | Prelims GS-I | 75 | India public health system curative preventive decentralized approach | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
+- Community-level healthcare intervention and Health for All
+- Health policies for geriatric and maternal care
+- Primary health structure as a precondition for sustainable development
 - Janani Suraksha Yojana maternal neonatal mortality institutional delivery
 - India public health system curative preventive decentralized approach
 

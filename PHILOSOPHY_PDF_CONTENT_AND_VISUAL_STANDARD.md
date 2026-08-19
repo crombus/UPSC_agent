@@ -51,6 +51,31 @@ Every topic must include, where relevant:
 The Plato–Aristotle reference sample contains approximately 3,500 words across
 13 pages. Topic length may vary, but completeness must not be sacrificed.
 
+## 3A. Mandatory Five-Layer Learning Order
+
+This rule applies only to Philosophy `Notes` and Philosophy `Export PDF`
+requests. Every logical subtopic must appear in this sequence:
+
+1. **SIMPLE START:** plain-language concept, visual mental model and one-line
+   memory anchor.
+2. **CORE UPSC:** complete doctrine, terminology, derivation, sources, examples
+   and syllabus coverage.
+3. **ADVANCED:** objections, replies, comparisons, interpretive disputes and a
+   qualified evaluation.
+4. **EXAM APPLICATION:** verified PYQs, demand decoding, answer route and
+   marks-wise structure.
+5. **RAPID REVISION:** traps, concise register notes, memory aids and explained
+   MCQs.
+
+An older or interactive learning session may be reorganized into these layers
+only if every substantive detail is retained. Simplification is an additional
+gateway, never a replacement for core or advanced material. If a user requests
+a word-for-word transcript, retain its original order.
+
+Philosophy `Notes` creates a layered notes PDF and reusable Markdown.
+Philosophy `Export PDF` additionally creates the separate solved workbook and
+updates export tracking.
+
 ## 4. Visual Selection Rules
 
 Use the visual that best explains the reasoning task:

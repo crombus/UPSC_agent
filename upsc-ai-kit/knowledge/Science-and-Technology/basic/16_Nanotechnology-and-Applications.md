@@ -126,6 +126,27 @@
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` — another frontier-science mission where materials capability matters.
 - ✅ `09_Artificial-Intelligence-Governance-and-IndiaAI.md` — useful for understanding nanoelectronics and sensor-system interfaces in smart technologies.
 - ✅ `20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md` — broader materials strategy and supply-chain context.
+## Core answer architecture — nanotechnology, agriculture and lifecycle governance
+
+**Thesis choice.** Nanoscale properties can improve delivery, sensing and material performance, but the same high reactivity and small size create exposure and ecological questions; “nano” is not a benefit verdict.
+
+**10-mark spine.** Define the relevant nanoscale property; link it to an agricultural or other application; name the user benefit; state the exposure/lifecycle precaution.
+
+**15/20-mark spine.** Structure **property → application mechanism → farmer productivity/income pathway → regulation and exposure → affordability, field evidence and lifecycle verdict**. For agriculture, show how a claimed technology reaches a smallholder rather than ending at the laboratory.
+
+**Evidence units.**
+- **Claim:** nanoscale materials can make input delivery more precise → **high surface-area and tunable-surface nanoformulations/sensors** → may improve nutrient/pesticide-use efficiency or early stress detection → **qualification:** field efficacy, dose control, cost and extension support must be demonstrated, not assumed.
+- **Claim:** farm value has a socio-economic chain → **soil/plant sensing, targeted input delivery and post-harvest/packaging applications** → can lower input loss, improve decisions or reduce spoilage → **qualification:** device affordability, data literacy, credit, repair and farm-size inequality can block benefits.
+- **Claim:** risk assessment must follow the particle across its life cycle → **size, shape, coating, dose, exposure route, persistence and bioaccumulation** → explains why safety is material- and use-specific → **qualification:** a laboratory toxicity or safety result cannot be generalised to all nanomaterials or field conditions.
+
+**Verdict.** Promote independently tested, affordable nano-enabled tools with labelling, environmental monitoring and farmer-facing evidence rather than technology branding.
+
+## Routed PYQ evidence — additive manufacture and nano-material safety
+
+- **3D printing:** additive manufacturing builds an object layer by layer from a digital model. It can support customised medical devices, prototypes, aerospace/industrial parts and tooling; it is not intrinsically a nanotechnology and material/certification constraints remain decisive.
+- **Carbon nanotubes:** cylindrical carbon nanostructures can contribute to high-strength composites, conductive materials and sensor/biomedical research. Their use in a product does not establish clinical safety; exposure and lifecycle toxicology require material-specific assessment.
+- **Nanoparticle safety:** nanoparticles can occur naturally and can be intentionally used in cosmetics and other products. Natural occurrence or consumer use does not prove universal harmlessness; size, coating, dose, exposure route, persistence and regulation matter.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

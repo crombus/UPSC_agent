@@ -232,3 +232,37 @@ being man-made (Biological Warfare/Bioterrorism) (PDF p. 48).
   vulnerable-group protection during health emergencies; topic 12
   develops the comparative industrial/CBRN institutional design; topic
   18 develops WHO/international health-emergency cooperation.
+
+## 13. Core-only answer architecture — public health is a resilience system
+
+> **Core firewall:** the 2020 COVID-technology route terminates here.
+> An answer needs technologies linked to public-health functions and
+> their equity/governance limits, not a list of apps.
+
+### 13.1 Claim-to-evidence bank
+
+| Claim | Named evidence/example | Significance | Limitation/qualification |
+|---|---|---|---|
+| Epidemic preparedness begins before a clinical surge. | NCDC/IDSP surveillance, laboratory diagnosis, water/vector control, risk communication and One-Health coordination implied by Surat plague and avian-influenza lessons. | It maps prevention, detection and preparedness across the DM cycle. | Surveillance data are not the same as timely testing, local staff or action; do not claim any platform eliminates outbreaks. |
+| Technology supports separate functions in COVID management. | RT-PCR confirms an RNA-virus infection; **Aarogya Setu** supplied contact-tracing/self-assessment functionality; **CoWIN** later supported vaccination registration, scheduling and certificates. | Gives a function-specific 2020-route answer: diagnosis, contact/risk communication, and vaccination delivery. | Digital access, data quality/privacy, language and smartphone gaps mean an app is not a substitute for public-health workers or care. CoWIN is a vaccine-phase example, not evidence that every 2020 control problem was solved. |
+| Health emergency coordination is multi-level. | MoHFW/NCDC technical role; States' primary health responsibility; DM Act/Concurrent List entries used for COVID-19 coordination. | Explains why outbreak control requires both national standards and local health-system capacity. | Central emergency directions should not be mistaken for proof of proportionate, locally calibrated public-health outcomes. |
+| Resilience includes essential-service continuity and recovery. | District/sub-district staff, laboratory, PHC/CHC, medicine/vaccine stockpile gaps listed in the source. | Moves an answer beyond lockdown or case detection to surge capacity and non-COVID care. | Do not repeat VisionIAS's document-period “no policy” assessment as current without NCDC/MoHFW verification. |
+
+### 13.2 Executable spines
+
+- **15 marks — 2020 technology in COVID management:** thesis that
+  technology was useful only when embedded in test–trace–treat–vaccinate
+  and health-system capacity. Organise diagnosis (RT-PCR/labs),
+  surveillance/contact/risk communication (IDSP/Aarogya Setu), delivery
+  (CoWIN in vaccine phase), and remote/data support; then give the
+  digital-divide, privacy/data-quality and staff/bed/oxygen-continuity
+  limits. End with a public-health, not app-centric, verdict.
+- **10 marks — biological-disaster preparedness:** transmission pathway
+  → prevention/surveillance → isolation/treatment/surge → risk
+  communication and community support; use Surat/avian flu as
+  coordination evidence.
+- **20 marks — evaluate pandemic resilience:** contrast legal
+  improvisation, health-federal coordination, surveillance/data,
+  workforce and equity. Separate a guideline/law/platform from
+  implemented reach and health outcome, and conclude with One-Health,
+  local capacity and continuity of essential care.

@@ -37,8 +37,8 @@ first) and by asking, for logic, "does it hold in **every** consistent diagram?"
 | ✅ **Implication chaining** | `A -> B` and `B -> C` give `A -> C`; each arrow also gives its contrapositive. | The **converse** and the **inverse** are never free. |
 | ✅ **Coding rule extraction** | Derive the transformation (shift/reverse/position) from the given pair. | Confirm the rule on **every** given letter before applying. |
 | ✅ **Dice/coin counting** | Enumerate the sample space (`6^k`, `2^k`); count favourable. | Outcomes must be equally likely. |
-| ✅ **Drawing without replacement** | Use `C(n,r)` on the whole draw, not repeated single-draw fractions. | Fractions multiply only if the draw is **with** replacement. |
-| ✅ **Inclusion-exclusion** | `\|A∪B\| = \|A\| + \|B\| - \|A∩B\|`; for three sets, subtract the three pairwise overlaps and **add back** the triple. | Overlaps are counted via `lcm`, not the product, unless coprime. |
+| ✅ **Drawing without replacement** | For an unordered whole draw, use `C(n,r)`; for sequential draws, multiply conditional fractions. | Without replacement, the later fraction changes (e.g. `4/10 x 3/9`); multiplication remains valid because it is conditional. |
+| ✅ **Inclusion-exclusion** | `\|A∪B\| = \|A\| + \|B\| - \|A∩B\|`; for three sets, subtract the three pairwise overlaps and **add back** the triple. | Use the actual intersection for arbitrary sets. Use `lcm` only when the sets are **multiples of given integers**. |
 | ✅ **Polygon diagonals** | `n(n-3)/2`. | Convex polygon. |
 
 ## 3. Harder methods (worked)
@@ -115,7 +115,8 @@ Set-A paper contains a four-statement item of exactly this shape.
 - ❌ Accepting a syllogism because it "sounds right". -> Find a counter-diagram.
 - ❌ Reading `A -> B` as `B -> A` in a statement-chain item. -> Only contraposition is free.
 - ❌ Applying a coding rule confirmed on only one letter. -> Verify on all given letters.
-- ❌ Multiplying single-draw fractions for a without-replacement draw. -> Use combinations.
+- ❌ Multiplying unchanged single-draw fractions for a without-replacement draw. -> Use combinations
+  for an unordered draw, or multiply the changing conditional fractions for a sequence.
 - ❌ Double-counting the overlap in "either/or"; forgetting to add back the triple overlap with three
   sets. -> Write the full inclusion-exclusion line.
 - ❌ Adding probabilities of non-exclusive events. -> Use inclusion-exclusion or complements.
@@ -144,6 +145,12 @@ Set-A paper contains a four-statement item of exactly this shape.
 6. A bag holds 4 white and 6 black balls; two are drawn together. Find `P(at least one white)`.
 7. Given "every diploma holder is a graduate" and "no graduate is under 18", which of these follow?
    (i) No diploma holder is under 18. (ii) Every graduate is a diploma holder.
+8. Six people sit around a circle. A is opposite B; C is not adjacent to A. How many distinct
+   arrangements are possible, treating rotations as identical?
+9. A bag has 4 white and 6 black balls. Given the first draw was white and it was not replaced, find
+   the probability that the second draw is white.
+10. A graph reports output of 60 thousand units and revenue of ₹120 lakh in Year 1; in Year 2 it
+    reports 75 thousand units and ₹135 lakh. Find the revenue per thousand units in each year.
 
 **Solutions.**
 
@@ -163,8 +170,22 @@ Set-A paper contains a four-statement item of exactly this shape.
 7. **(i) only.** From `diploma -> graduate` and `graduate -> not under 18`, chaining gives
    `diploma -> not under 18`, so (i) follows. (ii) is the **converse** of the first premise and does
    not follow. *(Verified as a logical form.)*
+8. **12.** Fix A to remove rotations. B's opposite seat is fixed. C has two permitted remaining seats
+   (not either neighbour of A), and the other three people fill the last three seats in `3!` ways:
+   `2 x 3! = 12`. *(Verified.)*
+9. **1/3.** After a white first draw, 3 white and 6 black balls remain, so
+   `P(W₂|W₁) = 3/9 = 1/3`. This is not `4/10`.
+10. **2 and 1.8 lakh per thousand units.** Compute `120/60` and `135/75`; revenue rose while the
+   rate fell. The axes/units must be read before comparing levels.
 
-## 9. Multi-step data interpretation (worked)
+## 9. Timed transfer and retry gate
+
+Attempt the ten drills in **15 minutes**. Log a miss as C, A, X, R, or T. A probability retry must
+show its sample space or conditional fraction; a DI retry must label the axis unit and requested
+measure. Advance only at **9/10**, with no conditional-probability, overlap-scope, or multi-solution
+arrangement error; otherwise rebuild the relevant table/diagram and take a fresh timed set.
+
+## 10. Multi-step data interpretation (worked)
 
 Read this revenue table (in crore):
 
@@ -188,7 +209,7 @@ Read this revenue table (in crore):
 > **change in level**, **change in share (points)**, or **relative change**. Five different numbers
 > live in one table row.
 
-## 10. Interpersonal and communication scenarios
+## 11. Interpersonal and communication scenarios
 
 The official CSAT syllabus separately names **interpersonal skills including communication skills**.
 The complete Core mechanism now resides in
@@ -226,7 +247,7 @@ than resolve it.
 
 These drills mirror the provisional 2026 categories without reproducing the source questions.
 
-## 11. PYQ-pattern notes (2024-2026, Set A)
+## 12. PYQ-pattern notes (2024-2026, Set A)
 
 - ⚠️ This is the **second-largest three-year family**. Together with data sufficiency in Topic 05,
   it accounts for 78 of 240 audited items (32.5%) - see the [Master Framework](../00_Master-Framework.md).
@@ -236,7 +257,7 @@ These drills mirror the provisional 2026 categories without reproducing the sour
 - ⚠️ The papers reward candidates who **draw the structure** and **read the exact quantity asked**;
   they punish mental juggling and misread stems.
 
-## 12. Study links
+## 13. Study links
 
 - ✅ [Foundation companion](../basic/06_Logical-Reasoning-Coding-Counting-and-DI.md).
 - ✅ [Algebra, Inequalities and Data Sufficiency](./05_Algebra-Inequalities-and-Data-Sufficiency.md) - data-sufficiency content overlaps

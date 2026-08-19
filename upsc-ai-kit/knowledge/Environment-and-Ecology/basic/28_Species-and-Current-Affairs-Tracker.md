@@ -343,6 +343,40 @@ error in an exam answer.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+## 13. Core answer architecture (10/15/20-mark support)
+
+### 13.1 Current-affairs evidence protocol
+
+Use a current fact only after recording: **issuer/source → publication or as-on date → status verb → what the fact proves → what it does not prove**.
+
+| Status verb | Safe use | Unsafe substitution |
+|---|---|---|
+| Announced/targeted | policy intention | achievement |
+| Notified/designated | legal or administrative status | operational protection/outcome |
+| Allocated/sanctioned | committed capacity/funding | commissioned output |
+| Installed/commissioned/achieved | physical milestone | quality, utilisation or long-term effect |
+
+### 13.2 Reusable evidence units
+
+| Claim | Named evidence/example → significance | Qualification |
+|---|---|---|
+| Designation counts need implementation context. | **100 Ramsar sites, 5 June 2026; 58 Tiger Reserves, March 2025 milestone** → shows expansion/recognition. | Verify later updates and do not treat count as management effectiveness. |
+| Energy progress needs unit discipline. | **51.93% non-fossil installed capacity at end-December 2025** → dated capacity milestone. | Not generation share, energy-requirements share or proof that every target is met. |
+| Treaty calendars are status-sensitive. | **AR6 completed; AR7 cycle under way; UNCCD COP17 scheduled for 17–28 August 2026** → adds current context. | A scheduled COP, agreed outline or announced fund is not a concluded outcome/disbursement. |
+
+### 13.3 Mark-scaled spines
+
+- **10 marks:** make one static mechanism claim, add one dated current evidence unit and one limitation.
+- **15/20 marks:** use two or three cross-topic evidence units (for example Ramsar–wetland governance, COP finance–India policy, or species science–law–court), explicitly label each source/date/status.
+- Do not guess: current IUCN categories, treaty Appendix/COP outcomes, current protected-area counts, NDC status, capacity generation shares or case implementation. A bounded omission is safer than false precision.
+
+### 13.4 2026 species fact card — foxtail orchid
+
+**Foxtail orchid (*Rhynchostylis retusa*)** is an **epiphyte**: it uses a host tree for
+physical support, not as a parasite drawing nutrients from it. It is not endemic to north-east
+India; it has a wider tropical Asian range. It is the State flower of **Assam and Arunachal
+Pradesh**. These are taxonomy/distribution/status distinctions; do not convert cultural
+association with Assam into endemism.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

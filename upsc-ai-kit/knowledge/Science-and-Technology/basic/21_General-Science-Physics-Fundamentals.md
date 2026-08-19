@@ -176,6 +176,33 @@ heat/temperature -> waves -> sound -> light/optics -> electricity/magnetism
 - ✅ `23_General-Science-Biology-and-Physiology.md` — radiation, imaging and biophysical applications intersect with life sciences.
 - ✅ `04_Nuclear-Power-and-Three-Stage-Programme.md` — nuclear reactions and radiation in policy context.
 - ✅ `10_National-Quantum-Mission-and-Quantum-Tech.md` and `11_Semiconductor-Mission-and-Electronics-Manufacturing.md` — advanced applications of the modern-physics ideas introduced here.
+## Core answer architecture — physics mechanism to public application
+
+**Thesis choice.** General-physics answers earn marks when a named law or wave/electromagnetic mechanism is connected to a real device, then bounded by conditions; memorised formulae alone do not explain applications.
+
+**10-mark spine.** Define the phenomenon; draw a one-line cause–effect chain; name one Indian/everyday application; state the operating condition or limitation.
+
+**15/20-mark spine.** Use **principle → device/system architecture → application in energy, communication, health, transport or space → risk/efficiency/access limit → evidence-led conclusion**. Route asteroid-defence demands to Topic 03 while using this file for gravity, radiation and detection foundations.
+
+**Evidence units.**
+- **Claim:** electromagnetic induction converts changing magnetic conditions into electrical output → **generator/transformer mechanism** → connects a physical law to power systems and transmission → **qualification:** losses, safety, grid stability and source fuel/renewable mix remain outside the equation itself.
+- **Claim:** wave type determines communication/detection use → **sound requires a medium while electromagnetic radiation travels in vacuum; radar/VLC use different parts of the spectrum** → explains why a technique works in one environment and not another → **qualification:** line-of-sight, absorption, weather, frequency and interference shape actual performance.
+- **Claim:** astronomy needs scale and evidence discipline → **light-year measures distance; gravitational-wave/black-hole observations infer phenomena through instruments** → prevents treating imagery or an object label as direct proof of every property → **qualification:** asteroid hazard/deflection policy requires the dedicated detection-and-response owner in Topic 03.
+
+**Verdict.** Choose the principle that actually enables the application and state its physical boundary before drawing a policy or technology conclusion.
+
+## Routed PYQ evidence — light, astronomy and measurement
+
+- **Sodium lamp versus LED:** a sodium-vapour discharge lamp emits light through excited sodium atoms; an LED is a semiconductor junction device. Compare mechanism, spectral character, controllability, electrical efficiency and lifetime only with a cited product/context; neither label alone proves the best street-light choice.
+- **Light-year:** a light-year is the distance light travels in one year, so it is a unit of distance—not time, brightness or speed.
+- **Astronomical-object card:** Cepheids are pulsating variable stars whose period–luminosity relation can help distance measurement; a nebula is an interstellar gas/dust cloud; a pulsar is a rapidly rotating magnetised neutron star whose beam can appear as pulses. These terms describe different objects/phenomena.
+- **Accelerometer/black-box/radar guardrail:** an accelerometer senses acceleration and can support tilt, motion/free-fall or crash detection; crash-survivable recorders preserve flight data/voice through accidents; radar uses radio waves for detection/ranging. Do not treat any one as a substitute for underwater recovery or investigation.
+
+## Historical Mains Core routes — quantum statistics and blue LEDs
+
+- **Bose–Einstein statistics (2018):** indistinguishable integer-spin particles (bosons) can occupy the same quantum state, unlike fermions constrained by Pauli exclusion. **Significance:** the framework helped explain collective quantum phenomena and later technologies/research such as lasers and Bose–Einstein condensates. **Qualification:** do not use it as a generic label for every quantum particle or imply that an abstract statistical framework alone is a consumer technology.
+- **Blue LED (2021):** a semiconductor junction converts electrical energy into light; efficient blue emission enabled white LED lighting through blue light plus a phosphor and completed practical red-green-blue light combinations. **Significance:** solid-state lighting can reduce electricity demand and widen efficient illumination. **Qualification:** system benefit depends on driver quality, thermal design, product lifetime, disposal and electricity source; do not convert an LED principle into a universal efficiency number.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

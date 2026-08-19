@@ -42,12 +42,24 @@ Mark each `[ ]` -> `[x]` only when you can do it **without notes** and **within 
 - [ ] Separate **necessary** from **sufficient**, and **sufficiency** from **solving**.
 
 **Topic 06 - Logical Reasoning, Coding, Counting & DI**
-- [ ] Linear/circular arrangements, blood relations, directions.
-- [ ] Coding-decoding, syllogism/deduction, decision-making scenarios.
-- [ ] Counting/probability basics and reading DI tables/graphs.
-- [ ] Communication relationships/tools/barriers and neutral questionnaire design.
+- [ ] Linear/circular arrangements, blood relations and directions.
+- [ ] Coding-decoding, syllogism/deduction, counting/probability and DI tables/graphs.
 - [ ] Conditional chains: use the **contrapositive**, never the converse; say whether a link is an
       **implication** or an **equivalence**.
+
+**Topic 07 - Interpersonal and Communication Skills**
+- [ ] Select a channel by purpose, urgency, sensitivity, record and accessibility.
+- [ ] Diagnose a barrier and choose a proportionate remedy; distinguish formal/informal and
+      firm/open-ended communication.
+- [ ] Apply the 2026 Q72-Q77 distinctions: tool purpose, conflict response, barrier matching,
+      objective-relevant questionnaire data and circular letters.
+- [ ] Solve a 6-item communication matching/scenario mini-drill with the 30-45 second stop rule.
+
+**Topic 08 - General Mental Ability integration**
+- [ ] Classify a mixed item in 10-15 seconds and choose a minimal representation.
+- [ ] Use the 60-second Pass-1, 120-second Pass-2, park and final-review rules.
+- [ ] Identify whether a miss occurred at classification, extraction, representation, execution,
+      verification or decision, then route it to the owning topic.
 
 **Cross-cutting precision check (see [Master Framework](00_Master-Framework.md), Section 5.1)**
 - [ ] implication vs equivalence   - [ ] necessary vs sufficient   - [ ] inference vs assumption
@@ -60,51 +72,62 @@ Mark each `[ ]` -> `[x]` only when you can do it **without notes** and **within 
 
 | Date | Set type | Items | Time cap | Attempted | Correct | Wrong | Blank | Net marks | Notes |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---|
-|  | mixed / topic |  |  |  |  |  |  |  |  |
+|  | mixed / topic / full mock |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
 - **Net marks** = `2.5 x correct - (5/6) x wrong` (blank contributes 0).
 - ✅ **Exact equivalence to remember while logging:** `3 wrong = 1 correct` (`3 x 5/6 = 2.5`).
-- Keep **time cap** realistic. The paper's own average is `7200 s / 80 = 90 s` per item, so e.g.
-  30 items in 45 min reproduces exam pace exactly.
+- Keep **time cap** realistic. The paper's own average is `7200 s / 80 = 90 s`; use the Topic 08
+  operating caps rather than forcing every item to take 90 seconds.
 
-### 2.1 Qualifying-margin worksheet (fill in your own two numbers)
+### 2.1 Qualifying-margin worksheet
 
-> ⚠️ **Keep these rows apart.** Row A is a **rule you must look up**; Row B is a **target you choose**.
-> Nothing in the supplied papers or key scans states any qualifying percentage.
+> **Keep these rows apart.** Row A is the official **33% = 66/200** minimum verified from the UPSC
+> syllabus/scheme. Row B is an author-set practice safety target, not an UPSC cutoff. Re-check Row A
+> against the current notification.
 
 | Row | What it is | Where it comes from | Your value |
 |---|---|---|---|
-| **A - Official bar** | Notified qualifying minimum for Paper II | The current year's Civil Services Examination notification - **verify, do not recall** |  |
-| **B - Internal target** | Practice net you insist on clearing in mocks | Your choice; keep it comfortably above Row A |  |
-| **C - Correct needed** | `C >= (B + (5/6) x W) / 2.5` for your expected wrong count `W` | Derived arithmetic |  |
-| **D - Items you must reach** | `C + W` | Derived arithmetic |  |
+| **A - Official bar** | 33% = 66/200 under the official UPSC scheme | Re-check the current year's notification for change | **66** |
+| **B - Internal safety target** | Nonofficial mock target | Set before testing; recommended starting target: **90/200** | 90 |
+| **Safety buffer** | `B - 66` marks | Derived arithmetic; at B = 90, buffer = 24 | 24 |
+| **C - Minimum correct needed** | `C_min = ceil((B + (5/6) x W) / 2.5)` for expected wrong count `W` | Derived arithmetic; round up because answers are whole items |  |
+| **D - Minimum items reached** | `C_min + W` | Derived arithmetic |  |
 
-- ⚠️ Recompute Row C whenever your typical `W` moves; it shifts by exactly **1 correct per 3 wrong**.
+- ⚠️ Recompute `C_min` whenever typical `W` moves; every 3 additional wrong answers require one
+  additional correct answer. You may choose a higher personal B; never present it as an official rule.
 
-## 3. Accuracy / attempt / risk metrics (compute each set)
+## 3. Accuracy, selection and elimination log
 
-| Metric | Formula | Why it matters |
+| Metric | Formula / record | Why it matters |
 |---|---|---|
 | **Attempt rate** | `attempted / items` | Are you reaching enough of the paper? |
 | **Accuracy** | `correct / attempted` | Quality of the attempts you make. |
 | **Net-mark efficiency** | `net marks / items` | Marks actually banked per item faced. |
-| **Guess quality** | `correct guesses / guesses made` | Was elimination real (>0.25) or blind? |
-| **Blank discipline** | `blanks that were negative-EV / total blanks` | Did you skip the right items? |
+| **Elimination-backed attempt rate** | `uncertain attempts with >= 1 recorded elimination / uncertain attempts` | Tests whether selection rested on a live-option reason, not outcome luck. |
+| **Blind-attempt count** | attempts begun with 4 live options | Blind guesses have zero expected value; log variance-taking explicitly. |
+| **Park discipline** | `items parked at cap / items parked` plus reason | Tests compliance with 60/120-second caps. |
 
-> 🔑 **Diagnostic pairing:** high attempt rate + low accuracy = you are **over-attempting**
-> (tighten selection). Low attempt rate + high accuracy = you are **under-attempting** (speed up
-> Pass 1 and take more positive-EV guesses).
+### Live-option log (one row for every uncertain attempt or parked item)
+
+| Date | Q | Topic | Live options at decision | Eliminated option(s) and reason | Mark / park | Time cap obeyed? |
+|---|---:|---|---:|---|---|---|
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+
+> 🔑 High attempt rate plus low accuracy means over-attempting. Low attempt rate plus high accuracy
+> means speed/selection needs work; do not infer that an unlogged correct guess was good process.
 
 ## 4. Error log (one row per missed item)
 
 Use the **Master-Framework Section 8 codes**: C (concept), A (application), X (calculation),
-R (reading), P (passage-only violation), T (time), G (guess).
+R (reading), P (passage-only violation), T (time), G (guess). For Topic 08, separately record the
+process stage: classification, extraction, representation, execution, verification or decision.
 
-| Date | Topic (01-06) | Item summary (your words) | Error code | Root cause | Fix / drill to redo |
-|---|---|---|---|---|---|
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Date | Topic (01-08) | Item summary (your words) | Error code | GMA stage | Root cause | Fix / drill to redo |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 
 **Error-code tally (update weekly):**
 
@@ -112,8 +135,9 @@ R (reading), P (passage-only violation), T (time), G (guess).
 |---|---|---|---|---|---|---|---|
 | Count |  |  |  |  |  |  |  |
 
-- ⚠️ Act on the **largest bar**: mostly **X** -> add plug-back checks; mostly **P** -> passage
-  discipline; mostly **T** -> enforce three passes and the per-item ceiling.
+- ⚠️ Act on the largest code **and** GMA stage: repeated representation errors need a diagram/table
+  rebuild; verification errors need plug-back/range checks; decision errors need cap and live-option
+  discipline.
 
 ## 5. Spaced-revision plan (mark the cycle you are in)
 
@@ -121,8 +145,8 @@ R (reading), P (passage-only violation), T (time), G (guess).
 |---|---|---|
 | Day 0 | Learn `basic/NN`. | [ ] |
 | Day 1 | Redo that topic's missed drills. | [ ] |
-| Day 3 | `advanced/NN` drill set, timed. | [ ] |
-| Day 7 | Mixed timed set across all six families. | [ ] |
+| Day 3 | Timed application drill: `advanced/NN` where it exists; for Topic 07, a six-item Q72-Q77-style matching/scenario drill; for Topic 08, 10 mixed classifications then selected solves. | [ ] |
+| Day 7 | Mixed timed set across all six exclusive families, with Topic 07 content tags and Topic 08 stage logging. | [ ] |
 | Day 15 | Error-log-only revision (no fresh notes). | [ ] |
 | Day 30 | Full timed 80-item mock; re-audit metrics. | [ ] |
 
@@ -132,19 +156,20 @@ R (reading), P (passage-only violation), T (time), G (guess).
 > official readiness standards. Adapt them to your error log and verify the actual qualifying rule
 > from the current examination notification.
 
-Advance only when the gate condition holds on **at least two** recent timed sets.
+The foundation, accuracy and selection gates require two recent representative timed sets. **G4 and
+G5 require two independent, full 80-question, two-hour mocks**; topic sets cannot clear them.
 
 | Gate | Condition | Cleared? |
 |---|---|---|
-| **G1 - Foundation** | All Section 1 checkboxes ticked for Topics **01, 06, 02** - the three largest audited families, in that order (79 / 45 / 44 of 240). | [ ] |
-| **G2 - Accuracy** | Accuracy on attempted items is consistently high on topic sets. | [ ] |
-| **G3 - Selection** | Attempt rate high **and** guess quality above the 1-in-4 blind line. | [ ] |
-| **G4 - Time** | Full 80-item mock finished within two hours with a Pass-3 buffer. | [ ] |
-| **G5 - Margin** | Net marks on full mocks sit **at or above your Section 2.1 Row B target**, which itself sits comfortably above the Row A official bar you verified. | [ ] |
-| **G6 - Paper rules** | You can state, without notes: 80 items, 200 marks, 2 hours, 2.5 per correct, `5/6` per wrong, blank = 0, multiple marks = wrong - **and** you read the printed data-sufficiency options rather than assuming them. | [ ] |
+| **G1 - Foundation** | All Section 1 checkboxes ticked for Topics **01-08**. Prioritise 01, 06 structural and 02 by exclusive family size, but do not skip Topic 07 or 08. | [ ] |
+| **G2 - Accuracy** | At least 75% accuracy on attempted items across two representative timed mixed sets; author-created diagnostic, not a cutoff. | [ ] |
+| **G3 - Selection** | Every uncertain attempt has a live-option/elimination record; blind-attempt count is zero unless deliberately logged as variance-taking. | [ ] |
+| **G4 - Time** | In each of two independent full mocks, complete the paper in two hours and enter final review with at least a **10-minute buffer**. | [ ] |
+| **G5 - Margin** | In each of those two full mocks, net marks meet the written Row B internal target (recommended 90), retaining its explicit `B - 66` safety buffer. | [ ] |
+| **G6 - Paper rules** | You can state, without notes: 80 items, 200 marks, 2 hours, 2.5 per correct, `5/6` per wrong, blank = 0, multiple marks = wrong - and you read printed data-sufficiency options rather than assuming them. | [ ] |
 
-> 🔑 **Internal planning use:** when G5 holds repeatedly in realistic mocks, consider shifting more
-> effort back to Paper I. This is study guidance, not an official clearance prediction.
+> 🔑 **Internal planning use:** when G5 holds in two independent realistic full mocks, consider
+> shifting more effort back to Paper I. This is study guidance, not an official clearance prediction.
 
 ## 7. Topic-competence matrix (RAG self-rating)
 
@@ -159,8 +184,9 @@ after each Day-7 mixed set.
 | 04 Rates, Motion, Time & Geometry |  |  |  |  |  |
 | 05 Algebra, Inequalities & DS |  |  |  |  |  |
 | 06 Logical Reasoning, Coding & DI |  |  |  |  |  |
+| 07 Interpersonal & Communication |  |  |  |  |  |
+| 08 General Mental Ability integration |  |  |  |  |  |
 
-- ⚠️ Prioritise turning **red** cells in the **big families (01, 06, 02 - in that order of audited
-  size)** to amber first; that moves the qualifying needle fastest (see the trend table in the
-  [Master Framework](00_Master-Framework.md)). Topic 03 is the smallest audited family and the
-  cheapest to leave amber longest.
+- ⚠️ Prioritise red cells in the large exclusive families (01, 06 structural and 02), but keep every
+  Core topic, especially 07's evidenced communication block and 08's selection process, above red.
+  Family size is a revision priority, not permission to leave a syllabus owner unprepared.

@@ -5,12 +5,16 @@
 > **Core area:** Intersectionality within the women's movement, the trichotomy's causal
 > architecture, and boundary cases where organisational form determines empowerment outcome.
 > **Grounded in:** Women's Indian Association; AIWC (1927); NFIW; SEWA; SHG-federation
-> social-capital theory; NFHS-5 (2019-21, latest released national round as checked 21 July
+> social-capital theory; NFHS-5 (2019-21; historical comparator; NFHS-6 was released 29 May
 > 2026); audited 2024 GS-I Mains PYQ.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
 > *Companion: `basic/07_Women-and-Womens-Organisations.md`.*
 
 ---
+
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
 
 ## 1. Architecture
 
@@ -152,10 +156,10 @@ rights cannot by themselves establish agency.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 NFHS-5 (2019-21), the latest released national NFHS round as checked on 21 July 2026,
+- 📰 NFHS-5 (2019-21), the historical national NFHS round; NFHS-6 (2023-24) was released 29 May 2026,
   recorded 78.6% of women aged 15-49 with an account they themselves used and 33.3% ever
   using the internet. They are dated access indicators, useful but not proof of
-  decision-making agency; do not cite an unissued NFHS-6 result.
+  decision-making agency; do not cite an unverified NFHS-6 metric.
 
 ## 10. PYQ-based analytical application
 

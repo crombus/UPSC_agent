@@ -34,11 +34,11 @@ layer/face-count formulas.
 |---|---|---|
 | ✅ **Alternate-day work** | Sum a full A+B cycle, count whole cycles, finish the remainder day by day. | Track who works on the final partial day - **who starts changes the answer**. |
 | ✅ **Boats/streams** | Downstream `= b + s`, upstream `= b - s` (`b` = still-water, `s` = stream). | `b > s` for forward motion. |
-| ✅ **Circular track** | Same direction meet time `= L/(v1 - v2)`; opposite `= L/(v1 + v2)`. | Same start point and constant speeds. "Meet **anywhere**" - meeting at the **start** is a different, LCM-based question. |
+| ✅ **Circular track** | Same direction meet time `= L/|v1 - v2|`; opposite `= L/(v1 + v2)`. | Same start point and constant speeds. A start-point reunion needs `t/LapTime1` and `t/LapTime2` both integral; use an LCM only when the lap times are commensurable. |
 | ✅ **Moving-object crossing** | Time = combined length / **relative** speed. | Add speeds if opposite, subtract if same direction. |
 | ✅ **Multi-segment average speed** | `total distance / total time` - never the mean of the segment speeds. | Two journeys with the **same** speeds over the **same** distances can still take different times if the speeds are attached to different segments. |
 | ✅ **Clock right angle** | `\|30H - 5.5M\| = 90` (or `270`). | 22 right angles per 12 hours; solutions outside `0 <= M < 60` belong to the next hour. |
-| ✅ **Cube cut into n^3** | 3-face `= 8`; 2-face `= 12(n-2)`; 1-face `= 6(n-2)^2`; 0-face `= (n-2)^3`. | `n >= 2`; the four counts sum to `n^3`. |
+| ✅ **Cube cut into n^3** | 3-face `= 8`; 2-face `= 12(n-2)`; 1-face `= 6(n-2)^2`; 0-face `= (n-2)^3`. | Integer `n >= 2`, a solid cube, equal cuts, and paint on all six faces; the four counts sum to `n^3`. |
 
 ## 3. Harder methods (worked)
 
@@ -87,6 +87,17 @@ at 8, 6 and 4 km/h respectively.** Same total distance (9 km) and the same **set
   fastest speed with the longest segment always wins. The audited 2026 Set-A paper uses exactly this
   shape - two riders, the same three speeds, the segment order swapped.
 
+### 📝 Method 6 - calendar and dimensional geometry under pressure
+
+**Calendar.** What weekday is 1 March 2101 if 1 March 2100 is Monday? Year 2100 is a century not
+divisible by 400, so it is **not leap**. The interval has 365 days, or one odd day: **Tuesday**.
+Do not treat “divisible by 4” as the whole Gregorian test.
+
+**Tile feasibility.** A `9 m x 7 m` rectangle is to be covered by `3 m x 1 m` tiles, with rotation
+allowed and no cutting. With the 3 m side along 9 m, the count is `3 x 7 = 21`; after rotation,
+`7/3` is not integral, so that orientation fails. Therefore **21 tiles** is feasible only in the
+first orientation. State the orientation, not merely `area/tile area`.
+
 ## 4. Time-saving techniques (safe conditions)
 
 - ⚠️ **Net-rate-per-cycle** for alternate work. *Safe once you handle the final partial day
@@ -108,7 +119,8 @@ at 8, 6 and 4 km/h respectively.** Same total distance (9 km) and the same **set
 - ⚠️ Alternate-day problems can finish **mid-cycle**; never just divide total work by the cycle rate.
   **Who starts changes the total** (Method 4) even though the cycle rate is identical.
 - ⚠️ On a circular track, "meet at the starting point" differs from "meet anywhere" - the latter uses
-  the relative-speed formula above; the former needs the LCM of the individual lap times.
+  relative speed. For a start-point reunion, solve for a common multiple of the lap times; an LCM is
+  valid only when those times are commensurable. Otherwise a finite reunion need not exist.
 - ⚠️ Cube formulas assume a **fully painted** solid cube; a hollow or partially painted cube breaks
   them. For `n = 2` the 1-face and 0-face counts are correctly **zero**.
 - ⚠️ A clock right-angle equation has **two** roots per hour; discard any root with `M >= 60` - it
@@ -138,10 +150,12 @@ at 8, 6 and 4 km/h respectively.** Same total distance (9 km) and the same **set
 | Relative-speed sign | C | Write "opposite = add, same = subtract" each time. |
 | Unit conversion | X | Convert to m/s before any length problem. |
 | Cube face-count | C | Memorise the four-count formula; check the sum equals n^3. |
+| Calendar century rule | R | Test divisibility by 4, then the 100/400 exception. |
+| Tile/geometry feasibility | A | Check side quotients and stated rotation/cutting conditions, not area alone. |
 
 ## 8. Advanced drill (with full solutions)
 
-> ⚠️ These items are **new** - they do not repeat Methods 1-5 above or the Foundation file.
+> ⚠️ These items are **new** - they do not repeat Methods 1-6 above or the Foundation file.
 
 1. A boat's still-water speed is 10 km/h and the stream is 2 km/h. Time for a 48 km each-way round
    trip.
@@ -154,6 +168,10 @@ at 8, 6 and 4 km/h respectively.** Same total distance (9 km) and the same **set
    point**?
 6. A cyclist rides 15 km uphill at 10 km/h and returns down the same road at 30 km/h. Find the average
    speed for the whole trip, and the average **velocity**.
+7. If 1 January 2099 is Friday, what weekday is 1 January 2100? What extra check is required before
+   moving to 2101?
+8. A `12 m x 9 m` floor is covered by `3 m x 2 m` tiles without cutting. Is the stated orientation
+   feasible, and how many tiles are needed if rotation is allowed?
 
 **Solutions.**
 
@@ -179,7 +197,19 @@ at 8, 6 and 4 km/h respectively.** Same total distance (9 km) and the same **set
    is wrong. The **displacement** is zero (he is back at the start), so the average **velocity** is
    **0**. *(Verified.)*
 
-## 9. PYQ-pattern notes (2024-2026, Set A)
+7. **Saturday.** 2099 is non-leap, so the one-year shift is one day. Before moving from 2100 to
+   2101, check the century rule: 2100 is not divisible by 400 and is therefore non-leap.
+8. **The stated orientation is not feasible; rotated, 18 tiles.** `9/2` is not integral, but on
+   rotation `12/2 = 6` and `9/3 = 3`, so `6 x 3 = 18`. *(Verified.)*
+
+## 9. Timed transfer and retry gate
+
+Attempt the eight drills in **12 minutes**. For every error, label it C, A, X, R, or T using the
+table above. Retry only the missed family after rebuilding its diagram/equation. Move on only after
+at least **7/8**, with no unit, century-rule, or condition error; otherwise repeat the matching
+method and take a fresh equivalent set.
+
+## 10. PYQ-pattern notes (2024-2026, Set A)
 
 - ⚠️ This family is relatively stable in the audited sample: 7/80 in 2024, 6/80 in 2025, and a
   provisional 8/80 in 2026. Broad competence still beats specialising.
@@ -191,7 +221,7 @@ at 8, 6 and 4 km/h respectively.** Same total distance (9 km) and the same **set
 - ⚠️ The papers reward the **rate-per-cycle** and **relative-speed** reductions; brute simulation is
   the time trap.
 
-## 10. Study links
+## 11. Study links
 
 - ✅ [Foundation companion](../basic/04_Rates-Motion-Time-and-Geometry.md).
 - ✅ [Arithmetic and Commercial Math](./03_Arithmetic-and-Commercial-Math.md) - averages/ratios underpin average speed.

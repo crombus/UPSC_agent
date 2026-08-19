@@ -36,6 +36,8 @@
 - ✅ Deva Raya II strengthened the army by employing Muslim cavalrymen and archers and by learning from Sultanate military methods.
 - ✅ Mahmud Gawan expanded Bahmani power, took Goa and Dabhol, and reformed administration.
 - ✅ Krishnadeva Raya restored internal order, defeated rivals, patronised literature and built tanks/towns; after his death factional politics and Rama Raja's diplomacy led to the 1565 catastrophe.
+- ✅ Krishnadevaraya maintained generally cooperative relations with the Portuguese; the exam-fact that he allowed a Portuguese fort at **Bhatkal** rests mainly on Portuguese accounts such as **Barbosa** and **Paes**, so the safe point is cooperation with provenance caution on exact wording.
+- ✅ Portuguese traveller **Domingo Paes** described women at Vijayanagara as skilled in **wrestling, astrology, soothsaying, accounting and writing**, indicating visible female participation in elite and courtly life.
 - ✅ The **amaram** system assigned territorial revenues to hereditary **nayaks** for troops and service; Chandra warns that it was not identical to the transferable Sultanate **iqta**.
 
 ## 2. Key classification / data
@@ -60,6 +62,8 @@
 - ✅ Main dispute = **Tungabhadra doab**, plus Krishna-Godavari basin and Konkan/Goa.
 - ✅ Deva Raya I built a dam across Tungabhadra; canals increased revenue.
 - ✅ Deva Raya II reorganised the army and employed Muslim cavalry/archers.
+- ✅ Krishnadevaraya maintained broadly cooperative ties with the **Portuguese**; the specific **Bhatkal fort** attribution is mainly from Portuguese narratives and should be cited with source caution.
+- ✅ **Domingo Paes** says women at Vijayanagara were skilled in **wrestling, astrology, soothsaying, accounting and writing**.
 - ✅ Mahmud Gawan captured/controlled western coastal areas including **Goa and Dabhol**.
 - ✅ Battle of Talikota/Rakshasa-Tangadi/Bannihatti = **1565**.
 
@@ -81,6 +85,44 @@
 - ⚠️ Analyse the Deccan conflict through geography: doab, coast, ports and horses.
 - ⚠️ Compare Vijayanagara's military adaptation with Bahmani administrative reform.
 - ⚠️ Discuss Talikota as a turning point but not a simple "end date" of Vijayanagara.
+
+---
+
+## 8. Answer Architecture (Future-Question Support)
+
+### 8.1 Thesis options
+
+| Directive family | Qualified thesis |
+|---|---|
+| Analyse Deccan conflict | "The Vijayanagara–Bahmani struggle was driven by three geographic stakes — Tungabhadra doab, Krishna-Godavari basin and Konkan coast — making it a contest for revenue, trade and horse supply rather than religion." |
+| Compare administration/military | "Vijayanagara adapted military methods (Muslim cavalry, archers) under Deva Raya II, while Bahmani reform under Mahmud Gawan aimed at administrative centralisation (taraf reorganisation) — both responding to the same competitive pressure." |
+| Assess Talikota significance | "Talikota (1565) destroyed Vijayanagara's capital and great-power status but did not instantly eliminate the polity; the Aravidu dynasty lingered, and regional nayaks became autonomous — making 1565 a turning point, not an end." |
+| Evaluate Portuguese linkages | "Vijayanagara used the Portuguese pragmatically for horses, coastal commerce and diplomacy. Krishnadevaraya's stance was generally cooperative, though the exact claim about permitting a fort at **Bhatkal** rests mainly on Portuguese testimony and should be sourced cautiously." |
+
+### 8.2 Named evidence units
+
+| # | Evidence | Claim it supports | Analytical function | Limitation |
+|---|---|---|---|---|
+| 1 | ✅ Three contested zones: Tungabhadra doab + Krishna-Godavari basin + Konkan/Goa (horse imports) | Conflict was geographic/economic, not primarily religious | Reframes the conflict beyond communal narrative | Religion was not absent — it was instrumentalised by both sides for mobilisation |
+| 2 | ✅ Deva Raya II employed Muslim cavalrymen and archers | Military adaptation crossed religious boundaries | Defeats rigid "Hindu vs Muslim" framing | Recruitment of Muslims was limited and instrumental |
+| 3 | ✅ Mahmud Gawan reformed Bahmani provinces into eight tarafs, capturing Goa/Dabhol | Administrative centralisation was a response to noble factionalism | Shows state-building capacity within the Bahmani polity | Gawan's murder (1481) shows that reform provoked counter-reaction |
+| 4 | ✅ Amaram system: territorial revenue assigned to hereditary nayaks for military service | Vijayanagara's fiscal-military system was locally rooted | Distinguishes it from transferable Sultanate iqta | Nayak autonomy grew, especially after 1565, fragmenting the polity |
+| 5 | ✅ Foreign travellers (Nicolo Conti, Abdur Razzaq) describe Vijayanagara's wealth and population | Independent corroboration of prosperity claims | Externally verified, not only court panegyric | Traveller accounts have their own biases and exaggerations |
+| 6 | ✅ Talikota/Bannihatti (1565): Deccan coalition defeated Vijayanagara; capital sacked | Coalition warfare ended the empire's great-power phase | Demonstrates that military alliances could override individual strength | Polity lingered under Aravidus — Talikota ≠ instant extinction |
+| 7 | ✅ Krishnadevaraya's generally cooperative relations with the Portuguese; Bhatkal-fort attribution comes mainly from Portuguese accounts such as Barbosa and Paes | West-coast diplomacy and horse trade mattered to Vijayanagara strategy | Supports Prelims statement-elimination and Mains discussion of pragmatic foreign relations | Exact formulation varies across sources; safest point is cooperation, not an unqualified sanad claim |
+| 8 | ✅ Domingo Paes described women at Vijayanagara as skilled in wrestling, astrology, soothsaying, accounting and writing | Courtly/urban life gave some women visible specialised roles | Adds social-history texture beyond warfare and dynasties | Traveller evidence reflects elite visibility, not the condition of all women |
+
+### 8.3 Counterpoints
+
+- ⚠️ Vijayanagara's foundation narrative is disputed; "Hindu bulwark" framing is a later overlay.
+- ⚠️ Bahmani decline owed more to internal Deccani–Afaqi factionalism than external Vijayanagara pressure.
+- ⚠️ Portuguese entry (horse trade, Goa 1510) changed the coast's political economy independently of the V–B conflict.
+
+### 8.4 Verdict scaffolding
+
+- **10-mark:** Geography thesis (unit 1) + Deva Raya II adaptation (unit 2) + Talikota qualification; conclude: strategic, not communal.
+- **15-mark:** Add Mahmud Gawan + amaram comparison + traveller evidence; use Portuguese or Paes evidence where the demand shifts toward society/coastal relations.
+- **20-mark:** Full deployment + Portuguese factor + historiographical note on "Hindu-Muslim states" dichotomy; graded verdict.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

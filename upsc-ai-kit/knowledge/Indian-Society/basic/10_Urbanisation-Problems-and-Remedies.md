@@ -189,6 +189,88 @@ therefore central tests of urban development, including smart-city projects.
 - ✅ `11_Effects-of-Globalisation-on-Indian-Society.md` — globalisation's link to urban
   migration of women.
 
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** Urbanisation answers need a causal chain from opportunity and inflow to
+> housing/service inequality; neither migrants nor technology are a sufficient explanation.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Discuss** large-city migrant pull | More than wages | job diversity -> agglomeration/information -> developing-country condition -> costs |
+| **How does** a smart city address poverty/justice | Conditional evaluation | possible service gain -> exclusion risk -> inclusive design -> verdict |
+| **How is** Tier-2 growth tied to consumption | Social change mechanism | new middle class/income/retail -> aspiration -> inequality/credit caution |
+| **Does urbanisation lead** to segregation | Mechanism and non-determinism | land/tenure/planning -> marginality -> counter-design -> qualification |
+| **Examine** slums/anomie | Multi-causal pathology | housing gap -> social consequences -> community/institutional remedy |
+
+### 13.2 Thesis bank
+
+- **T1:** ✅ Agglomeration attracts migrants through job matching and networks as well as
+  wages, but the same concentration can outpace affordable housing and services.
+- **T2:** ⚠️ A smart-city project is socially successful only if it changes access for
+  informal settlements, not merely the visibility of technology in a designated zone.
+- **T3:** ⚠️ Urban segregation is a produced outcome of land, tenure, service and planning
+  arrangements; it is not an inevitable trait of migrants or city size.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — large cities and migrants (2024 GS-I).** Define large-city pull; use job
+diversity, agglomeration/matching and information networks; explicitly locate this in
+developing-country small-town service gaps; add congestion/housing strain before a
+qualified conclusion.
+
+**15 marks — urbanisation and marginalisation (2023 GS-I).** Begin with T3. Trace
+inflow/housing-supply lag/tenure insecurity/service exclusion, then distinguish
+segregation from diversity. Compare in-situ upgrading with peripheral clearance and add
+procedural as well as distributive justice.
+
+**20 marks — urban growth, consumption and distributive justice.** Connect Tier-2 middle
+class/retail and globalised consumption to differentiated work, housing and public
+infrastructure. Use E1-E4, retain informal-worker and slum-resident voice, and conclude
+that inclusive planning—not city branding—is the test.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Urban baseline.** *Claim:* urbanisation must distinguish survey/projection from
+  Census. *Evidence:* **UN World Urbanization Prospects 2025** estimates India at about
+  36% urban in 2025. *Significance:* supplies a dated scale anchor. *Limitation:* UN
+  projection, not Census; Census 2011 remains the last full count and Census 2027 is
+  prospective.
+- **E2 — Pull mechanism.** *Claim:* city pull is broader than wage differential.
+  *Evidence:* **agglomeration economies**—job diversity, matching and information networks.
+  *Significance:* answers the 2024 directive. *Limitation:* individual migration also has
+  kinship, safety and housing constraints.
+- **E3 — Informality mechanism.** *Claim:* settlements form through a joint market-governance
+  gap. *Evidence:* affordable-housing shortage, land prices, tenure rules and planning/
+  service exclusions. *Significance:* avoids resident-blaming. *Limitation:* a “slum”
+  definition varies by Census/legal/local authority.
+- **E4 — Design contrast.** *Claim:* justice needs both outcome and voice. *Evidence:*
+  **in-situ upgrading** versus **clearance/relocation**, and distributive versus procedural
+  justice. *Significance:* produces an executable smart-city answer. *Limitation:* scheme
+  architecture and benefit claims belong to Social Justice/Governance.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Do not use UN projection as Census evidence or wages as the sole migration cause.
+- ⚠️ Do not call every smart-city project pro-poor or exclusionary without its service and
+  participation design.
+- ⚠️ Do not say urbanisation automatically causes crime/segregation; identify mechanisms.
+- **Verdict:** “Urban growth becomes socially progressive when the networks that attract
+  people are matched by tenure, services and voice for those whom the formal city excludes.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2022 · GS-I · Q9 | Tier-2 growth, middle class and consumption | §13.1, §13.3 20-mark route |
+| 2023 · GS-I · Q18 | Urbanisation and poor segregation/marginalisation | §13.1, T3/E3-E4 |
+| 2024 · GS-I · Q5 | Large cities attracting migrants | §13.3, T1/E2 |
+| 2025 · GS-I · Q8 | Smart cities, poverty and justice | §13.3, T2/E4 |
+
+> **Routing correction:** Core routing supersedes old `advanced/10` pointers; urban
+> classification, migration theory and welfare instruments remain with their named owners.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

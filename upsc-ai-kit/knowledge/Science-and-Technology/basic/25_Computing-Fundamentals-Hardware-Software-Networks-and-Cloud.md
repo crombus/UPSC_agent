@@ -563,6 +563,21 @@ system. An RFID component does not by itself describe the entire safety architec
 
 > **Core firewall:** Skipping Advanced Topic 25 cannot remove any required computing definition,
 > distinction, PYQ mechanism, India anchor or answer framework.
+## Core answer architecture — computing systems, claims and public impact
+
+**Thesis choice.** Computing questions are best answered from the stack upward: identify the hardware/software/network/data layer, explain the mechanism, then judge the social effect and governance risk; do not treat digital labels as interchangeable.
+
+**10-mark spine.** Define the technology by layer and mechanism; contrast the closest confusable term; give a real application; state one security, privacy, reliability, energy or access qualification.
+
+**15/20-mark spine.** Use **stack and data flow → system architecture → application/productivity value → resilience, market concentration and rights risks → standards/skills/inclusion verdict**. A comparison should use a table, not a prose word list.
+
+**Evidence units.**
+- **Claim:** service models allocate responsibility differently → **IaaS supplies virtual infrastructure, PaaS a managed runtime and SaaS a finished application** → clarifies security and configuration responsibility → **qualification:** cloud is an on-demand service model, not a synonym for a data centre or automatic resilience.
+- **Claim:** distributed-ledger properties are conditional → **replicated records, cryptographic links and consensus in blockchain** → can make later alteration difficult and support shared audit trails → **qualification:** replication is not backup, input can be false, and a token/NFT does not automatically transfer copyright or truth.
+- **Claim:** advanced-computing claims need layered validation → **AI–ML–deep-learning taxonomy, quantum qubits and semiconductor hardware** → maps a product claim back to science and systems → **qualification:** a Majorana/topological chip announcement, model demo or benchmark does not prove a deployed, fault-tolerant or generally capable system.
+
+**Verdict.** Build interoperable, secure and accessible digital capability while matching governance to the actual layer and consequence of the technology.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

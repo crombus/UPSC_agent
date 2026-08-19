@@ -5,12 +5,16 @@
 > and family/personal freedom, fast-food-industry paradox, and homogenisation versus
 > glocalisation.
 > **Grounded in:** MoSPI PLFS 2023-24 and 2025 female labour-force participation data;
-> NFHS-5 (2019-21, latest released national round as checked 21 July 2026); audited 2024 and
+> NFHS-5 (2019-21; historical comparator; NFHS-6 was released 29 May 2026); audited 2024 and
 > 2025 GS-I Mains PYQs (three direct questions — the richest topic in this module).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/11_Effects-of-Globalisation-on-Indian-Society.md`.*
 
 ---
+
+> **Data-status correction (13 August 2026):** NFHS-6 (2023-24) was released on 29 May 2026. NFHS-5 (2019-21) values below are historical comparators, not the latest national NFHS result. Do not quote an NFHS-6 metric unless taken directly from its released national fact sheet; neither NFHS round is a Census stock or by itself proof of causation.
+
+
 
 ## 1. Visual foundation
 
@@ -116,7 +120,7 @@ adaptation (glocalisation), which is why all three PYQs on this topic reward a q
   force participation rate at 41.7%, up from 37.0% in 2022-23. The later PLFS Annual
   Report 2025 uses a changed calendar-year reference period and reports 40.0% for the
   same broad usual-status, age-15+ female LFPR measure.
-- ✅ NFHS-5 (2019-21) reported that 33.3% of women aged 15-49 had ever used the internet.
+- ✅ NFHS-6 (2023-24) national fact sheets report that 64.3% of women aged 15-49 had ever used the internet.
   It is a dated access indicator, not a current connectivity estimate.
 - ⚠️ Glocalisation (local adaptation of global products) is the standard sociological
   counter-concept to homogenisation.
@@ -195,6 +199,98 @@ adaptation (glocalisation), which is why all three PYQs on this topic reward a q
   gig-economy and labour-law dimension.
 - ✅ `12_Social-Change-and-Modernisation.md` — homogenisation/glocalisation within the
   broader theory of social change.
+
+## 13. Answer architecture (10/15/20-mark support)
+
+> **Core-only.** Globalisation questions commonly hide an “only,” “loss,” or “despite”
+> demand. Answer channels and mechanisms, not a single verdict about global culture.
+
+### 13.1 Directive-to-structure map
+
+| Demand family | What is tested | Structure that scores |
+|---|---|---|
+| **Elucidate/Discuss** homogenisation and specificity | Simultaneous convergence and adaptation | global channel -> homogenising effect -> glocalised response -> limitation |
+| **Justify** only consumer culture | Reject the false exclusivity | acknowledge consumption -> work/family/digital/culture channels -> verdict |
+| **Justify** threat to diversity/pluralism | Conditional risk, not deterministic loss | vulnerability -> resistance/adaptation -> institutional/social condition |
+| **Elucidate** technology with scarce resources | Social benefits and material/ecological costs | access/efficiency -> energy/mineral/e-waste/inequality -> cross-owner boundary |
+| **Illustrate** fast-food paradox | Behavioural and structural mechanisms | time/price/delivery/aspiration/glocalisation -> health trade-off |
+
+### 13.2 Thesis bank
+
+- **T1:** ⚠️ Globalisation homogenises selected markets and media formats while
+  glocalisation reworks products, language and practice locally; neither process cancels
+  the other.
+- **T2:** ⚠️ Consumer culture is visible but not the whole social effect: labour, migration,
+  household authority, digital access and identity are distinct channels.
+- **T3:** ⚠️ Technology can widen capability or resource pressure depending on who has
+  access, what material/energy chain it uses and who bears the cost.
+
+### 13.3 Mark-scaled spines
+
+**10 marks — only aggressive consumer culture (2025 GS-I).** Open by rejecting “only.”
+Acknowledge brands/status consumption; then use one work/family, one digital and one
+glocalisation channel. Add inequality/digital-divide caution and conclude with T2.
+
+**15 marks — globalisation, culture and pluralism (2018-20 demands).** Use T1: map
+homogenising media/market pressure, language/local-identity risk and countervailing
+vernacular/local adaptation. Explain that pluralism depends on voice/access, not simply
+the presence of global products. Close conditionally, avoiding a nostalgia claim.
+
+**20 marks — globalisation, new technology and scarce resources.** Separate the social
+effect from the instrument’s macro/technical ownership. Analyse access and productivity,
+then energy/material demand, e-waste and unequal control; cross-link Economy,
+Environment and Science/Technology for verified technical facts. End with T3 rather than
+claiming technology is inherently green or destructive.
+
+### 13.4 Evidence bank — `claim -> named evidence/example -> significance -> limitation`
+
+- **E1 — Glocalisation.** *Claim:* adoption is not identical to cultural replacement.
+  *Evidence:* **homogenisation versus glocalisation**, illustrated by locally adapted menus
+  and vernacular content on global platforms. *Significance:* directly answers cultural
+  specificity. *Limitation:* an illustration is not a measure of the vitality of every
+  language or culture.
+- **E2 — Gendered migration caution.** *Claim:* aggregate labour participation cannot prove
+  the precise migration stream in a PYQ. *Evidence:* **PLFS Annual Reports 2023-24 and
+  2025** measure aggregate female LFPR with changed reference periods. *Significance:*
+  supports cautious analysis of the 2024 demand. *Limitation:* neither establishes age,
+  marital status, destination or cause of migration.
+- **E3 — Family renegotiation.** *Claim:* independent urban work can expand freedom while
+  retaining ties. *Evidence:* the migration-income/residence -> mobility/voice -> remittance
+  and continuing kinship mechanism, cross-linked to Topic 04. *Significance:* avoids a
+  freedom-versus-family false binary. *Limitation:* no uniform outcome by class/region.
+- **E4 — Food paradox.** *Claim:* health awareness can coexist with purchase. *Evidence:*
+  convenience, time constraints, delivery, aspiration and local adaptation. *Significance:*
+  supplies the causal chain for the 2025 demand. *Limitation:* do not invent consumption or
+  disease figures, or attribute every food trend to globalisation.
+- **E5 — Digital access.** *Claim:* access evidence is not agency or social outcome.
+  *Evidence:* NFHS-5’s historical internet-use indicator. *Significance:* supports a
+  digital-divide caution. *Limitation:* NFHS-6 is the current released national round; use
+  its fact sheet for current values.
+
+### 13.5 Balance bank and verdict scaffolds
+
+- ⚠️ Do not infer a causal migration trend from LFPR or a cultural outcome from a brand.
+- ⚠️ Do not write “globalisation destroys culture” without showing mechanism and counter-
+  adaptation.
+- ⚠️ Do not treat new technology’s resource use as a Society fact when verified technical
+  evidence belongs to Economy/Environment/Science.
+- **Verdict:** “Globalisation is a set of uneven channels: it can standardise the market
+  while diversifying voice, widen choice while exposing unequal access, and reshape family
+  without erasing local agency.”
+
+### 13.6 Direct Mains demands this Core file must answer alone
+
+| Year · Paper · Q | Demand | Core route |
+|---|---|---|
+| 2018 · GS-I · Q19 | Homogenisation and Indian specificity | §13.1, T1/E1 |
+| 2019 · GS-I · Q20 | Local identity and global identity | §13.1, T1/E1 |
+| 2020 · GS-I · Q18 | Diversity/pluralism under globalisation | §13.1, §13.3 |
+| 2022 · GS-I · Q20 | New technology and scarce resources | §13.3 20-mark route, T3 |
+| 2024 · GS-I · Q19 | Women’s migration, freedom and family | E2-E3 |
+| 2025 · GS-I · Q10/Q18 | Consumer culture / fast food | T2/E4 |
+
+> **Routing correction:** Core routing supersedes old `advanced/11` pointers. Technical,
+> legal and macroeconomic owners are named cross-links, not gaps in this social-analysis Core.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
