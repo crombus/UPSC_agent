@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\medieval-indian-history-20_Solved-Practice-Workbook_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\medieval-indian-history-20_Solved-Practice-Workbook_2026-08-30.pdf",
+  "mode": "workbook",
+  "topic_key": "medieval-indian-history-20",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 678,
+      "heading": "Mains 1. Continuity and consolidation - 10 marks",
+      "preview": "Visual 3: Continuity versus decline: the right frame",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\02_02_continuity_decline_frame.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 559.11
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 711,
+      "heading": "Mains 2. Khusrau and Guru Arjan - 15 marks",
+      "preview": "Visual 10: Guru Arjan: source reach matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\09_09_guru_arjan_source_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 559.11
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 742,
+      "markdown_body_line_end": 742,
+      "heading": "Mains 3. Mewar settlement - 10 marks",
+      "preview": "Visual 13: 1615 Mewar accommodation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\12_12_mewar_settlement_terms.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 559.11
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 775,
+      "markdown_body_line_end": 775,
+      "heading": "Mains 4. European diplomacy - 15 marks",
+      "preview": "Visual 24: 1618 farman: scope versus myth",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\23_23_farman_scope_myth.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 492.31
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 808,
+      "heading": "Mains 5. Nur Jahan's authority - 20 marks",
+      "preview": "Visual 29: Farmans and coins: strong but bounded evidence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\28_28_farman_coin_evidence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 674.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 430.51
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "Mains 6. Junta debate - 15 marks",
+      "preview": "Visual 34: Nurul Hasan / Satish Chandra critique",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\33_33_junta_critique.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 655.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 411.31
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 874,
+      "heading": "Mains 7. Khurram's rebellion - 20 marks",
+      "preview": "Visual 39: Khurram rebellion, 1622-1625: converging causes",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\38_38_khurram_rebellion_causes.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 607.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 363.71
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 905,
+      "markdown_body_line_end": 905,
+      "heading": "Mains 8. Mahabat Khan - 10 marks",
+      "preview": "Visual 44: Nur Jahan's recovery strategy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\43_43_nur_jahan_recovery.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 382.91
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 938,
+      "heading": "Mains 9. Jahangir as ruler - 15 marks",
+      "preview": "Visual 47: Religion: broad framework, coercive episodes",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\46_46_tolerance_coercion_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 622.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 377.91
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 971,
+      "heading": "Mains 10. Sources and overall verdict - 20 marks",
+      "preview": "Visual 52: Source reach matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g3\\assets\\51_51_source_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 551.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 306.91
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    }
+  ]
+}

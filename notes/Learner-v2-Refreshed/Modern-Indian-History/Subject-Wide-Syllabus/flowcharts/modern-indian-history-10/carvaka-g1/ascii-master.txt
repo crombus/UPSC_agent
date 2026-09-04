@@ -1,0 +1,80 @@
+ASCII MASTER FLOW — PANEL 1/12: Atmiya Sabha in socio-religious reform
+FOCUS -> Atmiya Sabha
+EVIDENCE -> Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform
+            association.
+EXAM USE -> use Atmiya Sabha to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Atmiya Sabha to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 2/12: Brahmo Samaj in socio-religious reform
+FOCUS -> Brahmo Samaj
+EVIDENCE -> Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism,
+            reason and social reform.
+EXAM USE -> use Brahmo Samaj to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Brahmo Samaj to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 3/12: Debendranath Tagore in socio-religious reform
+FOCUS -> Debendranath Tagore
+EVIDENCE -> Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.
+EXAM USE -> use Debendranath Tagore to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Debendranath Tagore to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 4/12: Sadharan Brahmo Samaj in socio-religious reform
+FOCUS -> Sadharan Brahmo Samaj
+EVIDENCE -> The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.
+EXAM USE -> use Sadharan Brahmo Samaj to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Sadharan Brahmo Samaj to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 5/12: Young Bengal in socio-religious reform
+FOCUS -> Young Bengal
+EVIDENCE -> Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of
+            orthodoxy.
+EXAM USE -> use Young Bengal to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Young Bengal to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 6/12: Prarthana Samaj in socio-religious reform
+FOCUS -> Prarthana Samaj
+EVIDENCE -> Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's
+            cautious social reform.
+EXAM USE -> use Prarthana Samaj to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Prarthana Samaj to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 7/12: Arya Samaj in socio-religious reform
+FOCUS -> Arya Samaj
+EVIDENCE -> Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the
+            Vedas.
+EXAM USE -> use Arya Samaj to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Arya Samaj to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 8/12: Arya institutions in socio-religious reform
+FOCUS -> Arya institutions
+EVIDENCE -> Satyarth Prakash, shuddhi and DAV education are central associations of Arya
+            Samaj.
+EXAM USE -> use Arya institutions to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Arya institutions to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 9/12: Ramakrishna Mission in socio-religious reform
+FOCUS -> Ramakrishna Mission
+EVIDENCE -> Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago
+            address.
+EXAM USE -> use Ramakrishna Mission to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Ramakrishna Mission to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 10/12: Satyashodhak Samaj in socio-religious reform
+FOCUS -> Satyashodhak Samaj
+EVIDENCE -> Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical
+            domination and organise non-Brahman groups.
+EXAM USE -> use Satyashodhak Samaj to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Satyashodhak Samaj to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 11/12: Phule girls' school in socio-religious reform
+FOCUS -> Phule girls' school
+EVIDENCE -> Jotirao and Savitribai Phule opened a girls' school at Poona in 1851.
+EXAM USE -> use Phule girls' school to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Phule girls' school to another institution or theatre.
+
+ASCII MASTER FLOW — PANEL 12/12: Bethune School and Vidyasagar in socio-religious reform
+FOCUS -> Bethune School and Vidyasagar
+EVIDENCE -> Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary
+            and advanced women's education.
+EXAM USE -> use Bethune School and Vidyasagar to match actor, date, mechanism and limit.
+LIMIT -> do not transfer Bethune School and Vidyasagar to another institution or theatre.

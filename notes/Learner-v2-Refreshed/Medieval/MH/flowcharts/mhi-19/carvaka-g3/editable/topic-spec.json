@@ -1,0 +1,1161 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-19",
+  "subject": "Medieval-Indian-History",
+  "title": "FOREIGN POLICY OF THE MUGHALS",
+  "short_route": "A QUALIFIED FOREIGN-POLICY FRAMEWORK → NORTHWEST STRATEGIC GEOGRAPHY → FOUR-COURT BALANCE, NOT A → DIPLOMACY AS MESSAGE, INTELLIGENCE → AKBAR AND THE UZBEK → WHY QANDAHAR MATTERED",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-19-deep-review-2026-08-30-g3.json",
+  "ascii_spec_sha256": "7113e7fbf714705af4f96296e855308261cc4253a00d731c43b18617c5db78e4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "A QUALIFIED FOREIGN-POLICY FRAMEWORK",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "A QUALIFIED FOREIGN-POLICY FRAMEWORK",
+          "role": "primary"
+        },
+        {
+          "text": "MODERN LABEL",
+          "role": "outcome"
+        },
+        {
+          "text": "USEFUL FOR DIPLOMACY, FRONTIERS, TRADE AND WARFARE",
+          "role": "comparison"
+        },
+        {
+          "text": "ANACHRONISM RISK",
+          "role": "caution"
+        },
+        {
+          "text": "NO NATION-STATE MINISTRY OR FIXED SOVEREIGN BORDER",
+          "role": "caution"
+        },
+        {
+          "text": "COURT ACTORS",
+          "role": "institution"
+        },
+        {
+          "text": "EMPEROR, PRINCES, NOBLES, GOVERNORS, ENVOYS AND MERCHANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE AIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MODERN LABEL → useful for diplomacy, frontiers, trade and warfare",
+        "ANACHRONISM RISK → no nation-state ministry or fixed sovereign border",
+        "COURT ACTORS → emperor, princes, nobles, governors, envoys and merchants",
+        "CORE AIMS → security, commerce, honour and dynastic influence",
+        "VERDICT → use the label analytically, then state its limits."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MODERN LABEL → useful for diplomacy, frontiers, trade and warfare",
+            "ANACHRONISM RISK → no nation-state ministry or fixed sovereign border"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COURT ACTORS → emperor, princes, nobles, governors, envoys and merchants",
+            "CORE AIMS → security, commerce, honour and dynastic influence"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → use the label analytically, then state its limits.",
+            "MUST REMEMBER: Kandahar, Balkh-Badakhshan and relations with Safavids, Uzbeks and Ottomans formed different strategic theatres."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → use the label analytically, then state its limits.",
+      "source_references": [
+        "Foreign policy",
+        "Court politics",
+        "Anachronism",
+        "State interest",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "NORTHWEST STRATEGIC GEOGRAPHY",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NORTHWEST STRATEGIC GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "MULTAN SUPPLY AND REVENUE BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "KABUL - GHAZNI - QANDAHAR",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFENSIBLE BUT POROUS OUTER LINE",
+          "role": "primary"
+        },
+        {
+          "text": "JUNCTION TOWARD HERAT-IRAN AND THE INDUS-SEA NETWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "BUFFER FIELD BEYOND THE HINDUKUSH",
+          "role": "comparison"
+        },
+        {
+          "text": "TIMURID MEMORY AND CONTESTED MOVEMENT ZONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN CORE → Delhi / Lahore / Multan supply and revenue base",
+        "KABUL - GHAZNI - QANDAHAR → defensible but porous outer line",
+        "QANDAHAR → junction toward Herat-Iran and the Indus-sea network",
+        "BALKH / BADAKHSHAN → buffer field beyond the Hindukush",
+        "SAMARQAND / OXUS → Timurid memory and contested movement zone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INDIAN CORE → Delhi / Lahore / Multan supply and revenue base",
+            "KABUL - GHAZNI - QANDAHAR → defensible but porous outer line"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "QANDAHAR → junction toward Herat-Iran and the Indus-sea network",
+            "BALKH / BADAKHSHAN → buffer field beyond the Hindukush"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SAMARQAND / OXUS → Timurid memory and contested movement zone",
+            "RULE → schematic routes are not modern international boundaries."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → schematic routes are not modern international boundaries.",
+      "source_references": [
+        "Kabul",
+        "Qandahar",
+        "Herat",
+        "Balkh",
+        "Hindukush",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FOUR-COURT BALANCE, NOT A SECTARIAN BLOC",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FOUR-COURT BALANCE, NOT A SECTARIAN BLOC",
+          "role": "caution"
+        },
+        {
+          "text": "PROTECT THE INDIAN CORE AND NORTHWEST ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESSURE BALKH-BADAKHSHAN AND CAN THREATEN KABUL",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVAL OVER QANDAHAR BUT USEFUL COUNTERWEIGHT TO UZBEKS",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESTIGE, SAFAVID RIVALRY AND DISTANT MARITIME CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "A WEAKER IRAN COULD STRENGTHEN THE UZBEK DANGER",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEREST AND STATUS QUALIFY SUNNI-SHIA RHETORIC.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MUGHALS → protect the Indian core and northwest routes",
+        "UZBEKS → pressure Balkh-Badakhshan and can threaten Kabul",
+        "SAFAVIDS → rival over Qandahar but useful counterweight to Uzbeks",
+        "OTTOMANS → prestige, Safavid rivalry and distant maritime context",
+        "CALCULATION → a weaker Iran could strengthen the Uzbek danger"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MUGHALS → protect the Indian core and northwest routes",
+            "UZBEKS → pressure Balkh-Badakhshan and can threaten Kabul"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SAFAVIDS → rival over Qandahar but useful counterweight to Uzbeks",
+            "OTTOMANS → prestige, Safavid rivalry and distant maritime context"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CALCULATION → a weaker Iran could strengthen the Uzbek danger",
+            "VERDICT → interest and status qualify Sunni-Shia rhetoric."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → interest and status qualify Sunni-Shia rhetoric.",
+      "source_references": [
+        "Mughals",
+        "Uzbeks",
+        "Safavids",
+        "Ottomans",
+        "Balance",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DIPLOMACY AS MESSAGE, INTELLIGENCE AND THEATRE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIPLOMACY AS MESSAGE, INTELLIGENCE AND THEATRE",
+          "role": "primary"
+        },
+        {
+          "text": "ELCHI OR SAFIR CARRIES LETTERS, GIFTS AND ORAL CLAIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUTES, ESCORTS AND DELAYS FILTER INFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ROBES, SEATING, TITLES AND PRECEDENCE STAGE STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "ENVOY REPORTS ROADS, OFFICIALS, ARMIES AND COURT MOOD",
+          "role": "institution"
+        },
+        {
+          "text": "GIFTS AND REPLIES PRESERVE AMBIGUITY AS WELL AS GOODWILL",
+          "role": "outcome"
+        },
+        {
+          "text": "CORDIAL RITUAL DOES NOT SETTLE A TERRITORIAL CLAIM.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MISSION → elchi or safir carries letters, gifts and oral claims",
+        "JOURNEY → routes, escorts and delays filter information",
+        "AUDIENCE → robes, seating, titles and precedence stage status",
+        "OBSERVATION → envoy reports roads, officials, armies and court mood",
+        "RETURN → gifts and replies preserve ambiguity as well as goodwill"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MISSION → elchi or safir carries letters, gifts and oral claims",
+            "JOURNEY → routes, escorts and delays filter information"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AUDIENCE → robes, seating, titles and precedence stage status",
+            "OBSERVATION → envoy reports roads, officials, armies and court mood"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RETURN → gifts and replies preserve ambiguity as well as goodwill",
+            "TRAP → cordial ritual does not settle a territorial claim."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → cordial ritual does not settle a territorial claim.",
+      "source_references": [
+        "Elchi",
+        "Safir",
+        "Embassy",
+        "Gifts",
+        "Intelligence",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AKBAR AND THE UZBEK BALANCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AKBAR AND THE UZBEK BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "ABDULLAH KHAN TAKES BALKH; SHAHRUKH LATER RECOVERS IT",
+          "role": "outcome"
+        },
+        {
+          "text": "ANTI-SAFAVID PARTITION PROPOSAL; AKBAR AVOIDS ENTANGLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ABDULLAH RETAKES BALKH",
+          "role": "evidence"
+        },
+        {
+          "text": "BADAKHSHAN AND KABUL CHANGE THE FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "PRACTICAL UNDERSTANDING",
+          "role": "outcome"
+        },
+        {
+          "text": "HINDUKUSH RESTRAINT, NOT A FIXED TREATY BORDER",
+          "role": "caution"
+        },
+        {
+          "text": "QANDAHAR PASSES TO AKBAR THROUGH SURRENDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1572-73 → Abdullah Khan takes Balkh; Shahrukh later recovers it",
+        "1577 → anti-Safavid partition proposal; Akbar avoids entanglement",
+        "1583 → Abdullah retakes Balkh",
+        "1585 → Badakhshan and Kabul change the field",
+        "PRACTICAL UNDERSTANDING → Hindukush restraint, not a fixed treaty border"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1572-73 → Abdullah Khan takes Balkh; Shahrukh later recovers it",
+            "1577 → anti-Safavid partition proposal; Akbar avoids entanglement",
+            "1583 → Abdullah retakes Balkh"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1585 → Badakhshan and Kabul change the field",
+            "PRACTICAL UNDERSTANDING → Hindukush restraint, not a fixed treaty border",
+            "1595 → Qandahar passes to Akbar through surrender / defection context"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESULT → a stronger outer line without Central Asian reconquest."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → a stronger outer line without Central Asian reconquest.",
+      "source_references": [
+        "Abdullah Khan Uzbek",
+        "Balkh",
+        "Kabul",
+        "Qandahar",
+        "Akbar",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WHY QANDAHAR MATTERED",
+      "structural_type": "triangle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY QANDAHAR MATTERED",
+          "role": "primary"
+        },
+        {
+          "text": "FORT AND WATER BASE SHIELDING APPROACHES TO KABUL",
+          "role": "outcome"
+        },
+        {
+          "text": "CARAVAN JUNCTION TOWARD IRAN, CENTRAL ASIA, MULTAN AND THE",
+          "role": "comparison"
+        },
+        {
+          "text": "TIMURID-IMPERIAL HONOUR AND A VISIBLE FRONTIER CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "MUGHAL OUTER BASTION; IRANIAN OUTPOST LINKED TO HERAT",
+          "role": "primary"
+        },
+        {
+          "text": "NO SINGLE MOTIVE OR ROUTE MONOPOLY EXPLAINS EVERY CRISIS",
+          "role": "caution"
+        },
+        {
+          "text": "STRATEGIC VALUE CHANGED WITH POWER, SUPPLY AND ALTERNATIVES.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "SECURITY → fort and water base shielding approaches to Kabul",
+        "COMMERCE → caravan junction toward Iran, Central Asia, Multan and the sea",
+        "PRESTIGE → Timurid-imperial honour and a visible frontier claim",
+        "ASYMMETRY → Mughal outer bastion; Iranian outpost linked to Herat",
+        "LIMIT → no single motive or route monopoly explains every crisis"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SECURITY → fort and water base shielding approaches to Kabul",
+            "COMMERCE → caravan junction toward Iran, Central Asia, Multan and the sea"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PRESTIGE → Timurid-imperial honour and a visible frontier claim",
+            "ASYMMETRY → Mughal outer bastion; Iranian outpost linked to Herat"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT → no single motive or route monopoly explains every crisis",
+            "VERDICT → strategic value changed with power, supply and alternatives."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → strategic value changed with power, supply and alternatives.",
+      "source_references": [
+        "Qandahar",
+        "Security",
+        "Commerce",
+        "Prestige",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "JAHANGIR AND THE LOSS OF 1622",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JAHANGIR AND THE LOSS OF 1622",
+          "role": "primary"
+        },
+        {
+          "text": "CORDIAL EMBASSIES",
+          "role": "outcome"
+        },
+        {
+          "text": "JAHANGIR UNDERESTIMATES A PERSISTENT SAFAVID CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFAVID INITIATIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "SHAH ABBAS CHOOSES THE OPPORTUNITY TO RECOVER QANDAHAR",
+          "role": "primary"
+        },
+        {
+          "text": "FORT CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMITED READINESS AND DELAYED RELIEF WEAKEN DEFENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "COURT POLITICS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CORDIAL EMBASSIES → Jahangir underestimates a persistent Safavid claim",
+        "SAFAVID INITIATIVE → Shah Abbas chooses the opportunity to recover Qandahar",
+        "FORT CONDITION → limited readiness and delayed relief weaken defence",
+        "COURT POLITICS → Khurram's response is tied to succession and resource fears",
+        "EFFECT → claim and friendship fail without operational preparation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CORDIAL EMBASSIES → Jahangir underestimates a persistent Safavid claim",
+            "SAFAVID INITIATIVE → Shah Abbas chooses the opportunity to recover Qandahar"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FORT CONDITION → limited readiness and delayed relief weaken defence",
+            "COURT POLITICS → Khurram's response is tied to succession and resource fears"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EFFECT → claim and friendship fail without operational preparation",
+            "TRAP → do not blame Nur Jahan alone or erase Safavid agency."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not blame Nur Jahan alone or erase Safavid agency.",
+      "source_references": [
+        "Jahangir",
+        "Shah Abbas I",
+        "Qandahar 1622",
+        "Prince Khurram",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SHAH JAHAN RECOVERS QANDAHAR IN 1638",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SHAH JAHAN RECOVERS QANDAHAR IN 1638",
+          "role": "primary"
+        },
+        {
+          "text": "ALI MARDAN KHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "SAFAVID GOVERNOR FACES COURT AND FRONTIER PRESSURE",
+          "role": "institution"
+        },
+        {
+          "text": "QANDAHAR PASSES TO MUGHAL CONTROL THROUGH DEFECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "MUGHAL RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "HONOUR, OFFICE AND RESOURCES CONSOLIDATE THE GAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "STRATEGIC RESULT",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTER DEFENCE AND PRESTIGE IMPROVE TEMPORARILY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ALI MARDAN KHAN → Safavid governor faces court and frontier pressure",
+        "TRANSFER → Qandahar passes to Mughal control through defection",
+        "MUGHAL RESPONSE → honour, office and resources consolidate the gain",
+        "STRATEGIC RESULT → outer defence and prestige improve temporarily",
+        "LIMIT → diplomatic tension survives and durable possession is not guaranteed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ALI MARDAN KHAN → Safavid governor faces court and frontier pressure",
+            "TRANSFER → Qandahar passes to Mughal control through defection"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MUGHAL RESPONSE → honour, office and resources consolidate the gain",
+            "STRATEGIC RESULT → outer defence and prestige improve temporarily"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT → diplomatic tension survives and durable possession is not guaranteed.",
+            "ALI MARDAN KHAN → Safavid governor faces court and frontier pressure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STRATEGIC RESULT → outer defence and prestige improve temporarily.",
+      "source_references": [
+        "Shah Jahan",
+        "Ali Mardan Khan",
+        "Qandahar 1638",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BALKH 1646-47: FORWARD DEFENCE MEETS LIMITS",
+      "structural_type": "balance-sheet",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "BALKH 1646-47",
+          "role": "primary"
+        },
+        {
+          "text": "FORWARD DEFENCE MEETS LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "INFLUENCE THROUGH A FRIENDLY CLIENT AND PRESSURE BEYOND KABUL",
+          "role": "comparison"
+        },
+        {
+          "text": "MUGHAL ARMIES TAKE BALKH AND FIGHT EFFECTIVELY IN THE",
+          "role": "evidence"
+        },
+        {
+          "text": "WINTER, DISTANCE, SUPPLY AND NOBLE RELUCTANCE RAISE THE COST",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NO DURABLE LOCAL SETTLEMENT OR COMPLIANT CLIENT EMERGES",
+          "role": "caution"
+        },
+        {
+          "text": "TACTICAL SUCCESS CANNOT SUSTAIN THE OCCUPATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AIM → influence through a friendly client and pressure beyond Kabul",
+        "CAPABILITY → Mughal armies take Balkh and fight effectively in the field",
+        "FRICTION → winter, distance, supply and noble reluctance raise the cost",
+        "POLITICAL LIMIT → no durable local settlement or compliant client emerges",
+        "WITHDRAWAL → tactical success cannot sustain the occupation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AIM → influence through a friendly client and pressure beyond Kabul",
+            "CAPABILITY → Mughal armies take Balkh and fight effectively in the field"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FRICTION → winter, distance, supply and noble reluctance raise the cost",
+            "POLITICAL LIMIT → no durable local settlement or compliant client emerges"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "WITHDRAWAL → tactical success cannot sustain the occupation",
+            "VERDICT → costly forward defence, not simple cowardice or total collapse."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → costly forward defence, not simple cowardice or total collapse.",
+      "source_references": [
+        "Balkh campaign",
+        "1646-47",
+        "Forward defence",
+        "Logistics",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WHY QANDAHAR RESISTED RECOVERY, 1649-53",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WHY QANDAHAR RESISTED RECOVERY, 1649-53",
+          "role": "primary"
+        },
+        {
+          "text": "SAFAVID DEFENCE AND TERRAIN FAVOUR THE HOLDER",
+          "role": "outcome"
+        },
+        {
+          "text": "SIEGE CALIBRE AND EFFECTIVENESS, NOT A CLAIM OF GENERAL",
+          "role": "caution"
+        },
+        {
+          "text": "LONG HAUL FROM LAHORE CONSTRAINS REPEATED OPERATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "COORDINATION, SEASON AND PRESSURE NARROW THE CAMPAIGN WINDOW",
+          "role": "primary"
+        },
+        {
+          "text": "THREE ATTEMPTS",
+          "role": "outcome"
+        },
+        {
+          "text": "FIELD CAPACITY DOES NOT BECOME A SUCCESSFUL SIEGE",
+          "role": "caution"
+        },
+        {
+          "text": "RECOVERY IS ABANDONED WHILE DIPLOMACY AND TRADE CONTINUE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORTIFICATION → Safavid defence and terrain favour the holder",
+        "ARTILLERY → siege calibre and effectiveness, not a claim of general weakness",
+        "SUPPLY → long haul from Lahore constrains repeated operations",
+        "COMMAND → coordination, season and pressure narrow the campaign window",
+        "THREE ATTEMPTS → field capacity does not become a successful siege"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FORTIFICATION → Safavid defence and terrain favour the holder",
+            "ARTILLERY → siege calibre and effectiveness, not a claim of general weakness",
+            "SUPPLY → long haul from Lahore constrains repeated operations"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COMMAND → coordination, season and pressure narrow the campaign window",
+            "THREE ATTEMPTS → field capacity does not become a successful siege",
+            "RESULT → recovery is abandoned while diplomacy and trade continue."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE DISTINCTION: Kandahar was a fortress-route-commercial hinge, not merely a prestige symbol in a modern border dispute."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → recovery is abandoned while diplomacy and trade continue.",
+      "source_references": [
+        "Qandahar sieges",
+        "1649-53",
+        "Artillery",
+        "Logistics",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE AND THE BOUNDED MODERN BRIDGE",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE AND THE BOUNDED MODERN BRIDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEQUENCE AND COURT CLAIM",
+          "role": "institution"
+        },
+        {
+          "text": "PATRONAGE AND VICTORY LANGUAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUS AND COMMUNICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT PRIVATE INTENTION",
+          "role": "caution"
+        },
+        {
+          "text": "ROUTES AND EXCHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTIVE OUTSIDER LENS",
+          "role": "comparison"
+        },
+        {
+          "text": "MATERIAL CAPACITY AND GEOGRAPHY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHRONICLES → sequence and court claim",
+        "patronage and victory language",
+        "LETTERS / GIFTS → status and communication",
+        "not private intention",
+        "MERCHANTS / TRAVELLERS → routes and exchange"
+      ],
+      "matrix": [
+        [
+          "CHRONICLES → sequence and court claim",
+          "patronage and victory language"
+        ],
+        [
+          "LETTERS / GIFTS → status and communication",
+          "not private intention"
+        ],
+        [
+          "MERCHANTS / TRAVELLERS → routes and exchange",
+          "selective outsider lens"
+        ],
+        [
+          "FORTS / MAPS → material capacity and geography",
+          "not policy motive"
+        ],
+        [
+          "2026 INDIA-IRAN → navigation and commerce",
+          "analogy, not continuity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "CHRONICLES → sequence and court claim",
+            "patronage and victory language",
+            "LETTERS / GIFTS → status and communication",
+            "not private intention"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "MERCHANTS / TRAVELLERS → routes and exchange",
+            "selective outsider lens",
+            "FORTS / MAPS → material capacity and geography",
+            "not policy motive"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "2026 INDIA-IRAN → navigation and commerce",
+            "analogy, not continuity",
+            "METHOD → match each claim to a source and state its limit.",
+            "EVIDENCE LIMIT: Mughal diplomacy used dynastic, commercial and frontier logics; it should not be recast as modern nation-state policy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Mughal diplomacy used dynastic, commercial and frontier logics; it should not be recast as modern nation-state policy.",
+      "source_references": [
+        "Sources",
+        "PMIndia 2026",
+        "India-Iran",
+        "Source criticism",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 19 FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 19 FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFIED COURT DIPLOMACY ACROSS A POROUS NORTHWEST WORLD",
+          "role": "institution"
+        },
+        {
+          "text": "INDIAN CORE, KABUL-QANDAHAR LINE, IRAN AND BALKH FIELD",
+          "role": "comparison"
+        },
+        {
+          "text": "AKBAR BALANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "JAHANGIR 1622",
+          "role": "primary"
+        },
+        {
+          "text": "SHAH JAHAN 1638",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURITY + COMMERCE + HONOUR + DYNASTIC AMBITION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIPLOMACY, GARRISON, SUPPLY, LOCAL ALLIES AND SOURCE LIMITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → qualified court diplomacy across a porous northwest world",
+        "MAP → Indian core, Kabul-Qandahar line, Iran and Balkh field",
+        "TRACE → Akbar balance → Jahangir 1622 → Shah Jahan 1638 / 1646-53",
+        "EXPLAIN → security + commerce + honour + dynastic ambition",
+        "TEST → diplomacy, garrison, supply, local allies and source limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DEFINE → qualified court diplomacy across a porous northwest world",
+            "MAP → Indian core, Kabul-Qandahar line, Iran and Balkh field"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TRACE → Akbar balance → Jahangir 1622 → Shah Jahan 1638 / 1646-53",
+            "EXPLAIN → security + commerce + honour + dynastic ambition"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TEST → diplomacy, garrison, supply, local allies and source limits",
+            "VERDICT → India-centred defence was central but never the whole story."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → India-centred defence was central but never the whole story.",
+      "source_references": [
+        "Answer architecture",
+        "Policy evolution",
+        "Qualified verdict",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART IX-A - VISUAL CONSOLIDATION AND FACTUAL-RISK LEDGER",
+          "role": "caution"
+        },
+        {
+          "text": "FOREIGN POLICY OF THE MUGHALS — ADVANCED",
+          "role": "comparison"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "comparison"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "PART IX-A - Visual consolidation and factual-risk ledger",
+            "Foreign Policy of the Mughals — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "2. Key classification / data",
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "6. Current link",
+            "7. Mains angles",
+            "+ Concept note (PYQ-gap)",
+            "Diplomatic letters carefully calibrated status: equal, superior, inferior, elder or younger."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

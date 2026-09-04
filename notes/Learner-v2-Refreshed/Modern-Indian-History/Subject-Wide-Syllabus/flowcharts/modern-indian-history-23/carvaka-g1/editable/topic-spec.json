@@ -1,0 +1,1050 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-23",
+  "subject": "Modern-Indian-History",
+  "title": "LEFT, PEASANT, WORKERS' & STATES' PEOPLES' MOVEMENTS (1930S)",
+  "short_route": "ROOTS-CORE-BRIDGES CHRONOLOGY → AITUC VERSUS AIKS → TWO-DATE COMMUNIST CHRONOLOGY → MEERUT REPRESSION-PUBLICITY PARADOX → CSP INSIDE-CONGRESS MAP → KISAN ORGANISATION LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-23\\modern-indian-history-23_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-22-23-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "fa86e4bad7f264234e4d4cdd26d53367958c3ded16a789faa2cb2893b8ea743c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ROOTS-CORE-BRIDGES CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ROOTS-CORE-BRIDGES CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "AITUC 1920",
+          "role": "outcome"
+        },
+        {
+          "text": "KANPUR 1925",
+          "role": "comparison"
+        },
+        {
+          "text": "AISPC 1927",
+          "role": "evidence"
+        },
+        {
+          "text": "BIHAR SABHA 1929",
+          "role": "primary"
+        },
+        {
+          "text": "CSP 1934",
+          "role": "outcome"
+        },
+        {
+          "text": "AIKS/FAIZPUR 1936",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRIES 1937-39",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOTS → AITUC 1920",
+        "Kanpur 1925",
+        "AISPC 1927",
+        "Bihar Sabha 1929",
+        "CORE → CSP 1934"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ROOTS → AITUC 1920",
+            "Kanpur 1925",
+            "AISPC 1927",
+            "Bihar Sabha 1929"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORE → CSP 1934",
+            "AIKS/Faizpur 1936",
+            "Ministries 1937-39",
+            "NPC 1938"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRIDGES → Warli 1945",
+            "Tebhaga/Telangana/Punnapra-Vayalar 1946",
+            "GENEALOGY → Birsa Ulgulan 1899-1900."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORE → CSP 1934 | AIKS/Faizpur 1936 | Ministries 1937-39 | NPC 1938.",
+      "source_references": [
+        "Scope map: roots, 1930s core and late-colonial bridges"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AITUC VERSUS AIKS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AITUC VERSUS AIKS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDUSTRIAL LABOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "LALA LAJPAT RAI FIRST PRESIDENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PEASANT COORDINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SAHAJANAND + N.G. RANGA",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISED SOCIAL CONSTITUENCIES ENTER NATIONALIST POLITICS",
+          "role": "outcome"
+        },
+        {
+          "text": "NEVER SWAP DATES, BASES OR OFFICES.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "AITUC → 1920 → industrial labour → Lala Lajpat Rai first president",
+        "AIKS → 1936 → peasant coordination → Sahajanand + N.G. Ranga",
+        "COMMON → organised social constituencies enter nationalist politics",
+        "TRAP → never swap dates, bases or offices."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AITUC → 1920 → industrial labour → Lala Lajpat Rai first president",
+          "COMMON → organised social constituencies enter nationalist politics",
+          "AITUC → 1920 → industrial labour → Lala Lajpat Rai first president"
+        ],
+        [
+          "AIKS → 1936 → peasant coordination → Sahajanand + N.G. Ranga",
+          "TRAP → never swap dates, bases or offices.",
+          "AIKS → 1936 → peasant coordination → Sahajanand + N.G. Ranga"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AITUC → 1920 → industrial labour → Lala Lajpat Rai first president",
+            "AIKS → 1936 → peasant coordination → Sahajanand + N.G. Ranga"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMON → organised social constituencies enter nationalist politics",
+            "TRAP → never swap dates, bases or offices."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AITUC → 1920 → industrial labour → Lala Lajpat Rai first president",
+            "AIKS → 1936 → peasant coordination → Sahajanand + N.G. Ranga"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → never swap dates, bases or offices.",
+      "source_references": [
+        "AITUC and the labour constituency"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TWO-DATE COMMUNIST CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TWO-DATE COMMUNIST CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "TASHKENT 1920",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL/EMIGRE COMMUNIST FORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "KANPUR 1925",
+          "role": "evidence"
+        },
+        {
+          "text": "ALL-INDIA ORGANISATION FORMED INSIDE INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "OPEN WORKERS-PEASANTS ACTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CSP 1934",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCT SOCIALIST CURRENT WITHIN CONGRESS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TASHKENT 1920 → international/emigre communist formation",
+        "KANPUR 1925 → all-India organisation formed inside India",
+        "WPP → open workers-peasants activity",
+        "CSP 1934 → distinct socialist current within Congress."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TASHKENT 1920 → international/emigre communist formation",
+            "KANPUR 1925 → all-India organisation formed inside India"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WPP → open workers-peasants activity",
+            "CSP 1934 → distinct socialist current within Congress."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TASHKENT 1920 → international/emigre communist formation",
+            "KANPUR 1925 → all-India organisation formed inside India"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CSP 1934 → distinct socialist current within Congress.",
+      "source_references": [
+        "Communist chronology: Tashkent, Kanpur and WPP"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MEERUT REPRESSION-PUBLICITY PARADOX",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MEERUT REPRESSION-PUBLICITY PARADOX",
+          "role": "primary"
+        },
+        {
+          "text": "ARRESTS TARGET COMMUNIST AND TRADE-UNION NETWORKS",
+          "role": "outcome"
+        },
+        {
+          "text": "PROLONGED MEERUT CONSPIRACY CASE",
+          "role": "comparison"
+        },
+        {
+          "text": "DISRUPTION + IMPRISONMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIALIST AND LABOUR ARGUMENTS GAIN NATIONAL PUBLICITY",
+          "role": "primary"
+        },
+        {
+          "text": "AVOID UNRECONCILED ACCUSED COUNTS.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1929 → arrests target communist and trade-union networks",
+        "1929-33 → prolonged Meerut Conspiracy Case",
+        "DIRECT → disruption + imprisonment",
+        "PARADOX → socialist and labour arguments gain national publicity",
+        "RULE → avoid unreconciled accused counts."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1929 → arrests target communist and trade-union networks",
+            "1929-33 → prolonged Meerut Conspiracy Case"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIRECT → disruption + imprisonment",
+            "PARADOX → socialist and labour arguments gain national publicity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → avoid unreconciled accused counts.",
+            "1929 → arrests target communist and trade-union networks"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARADOX → socialist and labour arguments gain national publicity.",
+      "source_references": [
+        "Meerut Conspiracy Case: repression and publicity"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CSP INSIDE-CONGRESS MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CSP INSIDE-CONGRESS MAP",
+          "role": "primary"
+        },
+        {
+          "text": "BOMBAY, OCTOBER 1934",
+          "role": "outcome"
+        },
+        {
+          "text": "CSP FORMED WITHIN CONGRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "J.P. NARAYAN",
+          "role": "evidence"
+        },
+        {
+          "text": "NARENDRA DEV",
+          "role": "primary"
+        },
+        {
+          "text": "MINOO MASANI",
+          "role": "outcome"
+        },
+        {
+          "text": "RADICALISE CONGRESS FROM INSIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "CSP AND CPI ARE NOT IDENTICAL.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BOMBAY, OCTOBER 1934 → CSP formed within Congress",
+        "LEADERS → J.P. Narayan",
+        "Narendra Dev",
+        "Minoo Masani",
+        "METHOD → radicalise Congress from inside"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BOMBAY, OCTOBER 1934 → CSP formed within Congress",
+            "LEADERS → J.P. Narayan"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Narendra Dev",
+            "Minoo Masani"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "METHOD → radicalise Congress from inside",
+            "TRAP → CSP and CPI are not identical."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → CSP and CPI are not identical.",
+      "source_references": [
+        "Congress Socialist Party inside Congress"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "KISAN ORGANISATION LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "KISAN ORGANISATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "BIHAR PROVINCIAL KISAN SABHA",
+          "role": "outcome"
+        },
+        {
+          "text": "SAHAJANAND SARASWATI",
+          "role": "comparison"
+        },
+        {
+          "text": "APRIL 1936",
+          "role": "evidence"
+        },
+        {
+          "text": "ALL-INDIA KISAN CONGRESS AT LUCKNOW",
+          "role": "primary"
+        },
+        {
+          "text": "SAHAJANAND PRESIDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "N.G. RANGA GENERAL SECRETARY",
+          "role": "comparison"
+        },
+        {
+          "text": "KISAN MANIFESTO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1929 → Bihar Provincial Kisan Sabha → Sahajanand Saraswati",
+        "APRIL 1936 → All-India Kisan Congress at Lucknow",
+        "OFFICES → Sahajanand president",
+        "N.G. Ranga general secretary",
+        "PROGRAMME → Kisan Manifesto → Faizpur agrarian demands."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1929 → Bihar Provincial Kisan Sabha → Sahajanand Saraswati",
+            "APRIL 1936 → All-India Kisan Congress at Lucknow"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFICES → Sahajanand president",
+            "N.G. Ranga general secretary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROGRAMME → Kisan Manifesto → Faizpur agrarian demands.",
+            "1929 → Bihar Provincial Kisan Sabha → Sahajanand Saraswati"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROGRAMME → Kisan Manifesto → Faizpur agrarian demands.",
+      "source_references": [
+        "Bihar Kisan Sabha to AIKS: leadership and Kisan Manifesto"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "KARACHI-FAIZPUR-PLANNING CHAIN",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KARACHI-FAIZPUR-PLANNING CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "KARACHI 1931",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS + LABOUR + ECONOMIC PROGRAMME",
+          "role": "comparison"
+        },
+        {
+          "text": "FAIZPUR 1936",
+          "role": "evidence"
+        },
+        {
+          "text": "RENT, DEBT, TENURE AND AGRICULTURAL-LABOUR DEMANDS",
+          "role": "primary"
+        },
+        {
+          "text": "NPC 1938",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANNED ECONOMIC TRANSFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL CONTENT WIDENS; CONGRESS REMAINS MULTI-CLASS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KARACHI 1931 → rights + labour + economic programme",
+        "FAIZPUR 1936 → rent, debt, tenure and agricultural-labour demands",
+        "NPC 1938 → planned economic transformation",
+        "VERDICT → social content widens; Congress remains multi-class."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KARACHI 1931 → rights + labour + economic programme",
+            "FAIZPUR 1936 → rent, debt, tenure and agricultural-labour demands"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NPC 1938 → planned economic transformation",
+            "VERDICT → social content widens; Congress remains multi-class."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KARACHI 1931 → rights + labour + economic programme",
+            "FAIZPUR 1936 → rent, debt, tenure and agricultural-labour demands"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → social content widens; Congress remains multi-class.",
+      "source_references": [
+        "Karachi-Faizpur-planning social-content chain"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CONGRESS MINISTRY GAP",
+      "structural_type": "balance-sheet",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CONGRESS MINISTRY GAP",
+          "role": "primary"
+        },
+        {
+          "text": "PROVINCIAL TENANCY AND LABOUR REFORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUB-TENANTS AND AGRICULTURAL LABOURERS REMAIN WEAKLY PROTECTED",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTRICTED FRANCHISE + LANDLORD WEIGHT + PROVINCIAL POWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTIAL IMPLEMENTATION, NEITHER FULFILMENT NOR SIMPLE BETRAYAL.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ACHIEVEMENT → provincial tenancy and labour reforms",
+        "GAP → sub-tenants and agricultural labourers remain weakly protected",
+        "LIMITS → restricted franchise + landlord weight + provincial powers",
+        "VERDICT → partial implementation, neither fulfilment nor simple betrayal."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ACHIEVEMENT → provincial tenancy and labour reforms",
+            "GAP → sub-tenants and agricultural labourers remain weakly protected"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMITS → restricted franchise + landlord weight + provincial powers",
+            "VERDICT → partial implementation, neither fulfilment nor simple betrayal."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACHIEVEMENT → provincial tenancy and labour reforms",
+            "GAP → sub-tenants and agricultural labourers remain weakly protected"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → partial implementation, neither fulfilment nor simple betrayal.",
+      "source_references": [
+        "Congress Ministries: achievements and structural limits"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "AISPC AND PRAJA MANDAL FIELD",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AISPC AND PRAJA MANDAL FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "DECEMBER 1927",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRST AISPC CONVENTION",
+          "role": "comparison"
+        },
+        {
+          "text": "BALWANTRAI MEHTA",
+          "role": "evidence"
+        },
+        {
+          "text": "MANIKLAL KOTHARI",
+          "role": "primary"
+        },
+        {
+          "text": "G.R. ABHAYANKAR",
+          "role": "outcome"
+        },
+        {
+          "text": "PRAJA MANDALS IN PRINCELY STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "PRINCELY AUTOCRACY AND DENIAL OF RIGHTS, NOT BRITISH MINISTRIES.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DECEMBER 1927 → first AISPC convention",
+        "ORGANISERS → Balwantrai Mehta",
+        "Maniklal Kothari",
+        "G.R. Abhayankar",
+        "UNITS → Praja Mandals in princely states"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DECEMBER 1927 → first AISPC convention",
+            "ORGANISERS → Balwantrai Mehta"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Maniklal Kothari",
+            "G.R. Abhayankar"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNITS → Praja Mandals in princely states",
+            "TARGET → princely autocracy and denial of rights, not British ministries."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TARGET → princely autocracy and denial of rights, not British ministries.",
+      "source_references": [
+        "AISPC origins and the princely-state political field"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RAJKOT POLICY TRANSITION",
+      "structural_type": "process",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RAJKOT POLICY TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "HARIPURA 1938",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS REITERATES RESTRAINT",
+          "role": "comparison"
+        },
+        {
+          "text": "PRAJA MANDAL AWAKENING EXPANDS",
+          "role": "evidence"
+        },
+        {
+          "text": "OLD NON-INTERVENTION BOUNDARY IS DIRECTLY TESTED",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSER IDENTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER INTEGRATION WAS ENABLED, NOT PREDETERMINED.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HARIPURA 1938 → Congress reiterates restraint",
+        "1938-39 → Praja Mandal awakening expands",
+        "RAJKOT → old non-intervention boundary is directly tested",
+        "SHIFT → closer identification",
+        "LIMIT → later integration was enabled, not predetermined."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HARIPURA 1938 → Congress reiterates restraint",
+            "1938-39 → Praja Mandal awakening expands"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAJKOT → old non-intervention boundary is directly tested",
+            "SHIFT → closer identification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → later integration was enabled, not predetermined.",
+            "HARIPURA 1938 → Congress reiterates restraint"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → later integration was enabled, not predetermined.",
+      "source_references": [
+        "Praja Mandals, Rajkot and changing Congress policy"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BOSE INSTITUTIONAL SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BOSE INSTITUTIONAL SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "HARIPURA 1938",
+          "role": "outcome"
+        },
+        {
+          "text": "BOSE PRESIDENT",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIPURI 1939",
+          "role": "evidence"
+        },
+        {
+          "text": "RE-ELECTED AGAINST GANDHIAN PREFERENCE",
+          "role": "primary"
+        },
+        {
+          "text": "PRESIDENCY VERSUS WORKING COMMITTEE AUTHORITY + STRATEGY",
+          "role": "comparison"
+        },
+        {
+          "text": "FORWARD BLOC FORMED IN 1939.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "HARIPURA 1938 → Bose president",
+        "TRIPURI 1939 → re-elected against Gandhian preference",
+        "CRISIS → presidency versus Working Committee authority + strategy",
+        "RESIGNATION → Forward Bloc formed in 1939."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HARIPURA 1938 → Bose president",
+            "TRIPURI 1939 → re-elected against Gandhian preference"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CRISIS → presidency versus Working Committee authority + strategy",
+            "RESIGNATION → Forward Bloc formed in 1939."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HARIPURA 1938 → Bose president",
+            "TRIPURI 1939 → re-elected against Gandhian preference"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CRISIS → presidency versus Working Committee authority + strategy.",
+      "source_references": [
+        "Haripura, Tripuri and the Forward Bloc"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "GENEALOGY AND LATE BRIDGES",
+      "structural_type": "boundary-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "GENEALOGY AND LATE BRIDGES",
+          "role": "primary"
+        },
+        {
+          "text": "BIRSA ULGULAN",
+          "role": "outcome"
+        },
+        {
+          "text": "TRIBAL ANTI-COLONIAL GENEALOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "TEBHAGA, TELANGANA, PUNNAPRA-VAYALAR",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE 1930S",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISATION, PROGRAMME, MINISTRIES, PRINCELY-STATE AWAKENING",
+          "role": "institution"
+        },
+        {
+          "text": "PRESERVE CHRONOLOGY WHILE EXPLAINING CONNECTION.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1899-1900 → Birsa Ulgulan: tribal anti-colonial genealogy",
+        "1945 → Warli",
+        "1946 → Tebhaga, Telangana, Punnapra-Vayalar",
+        "CORE 1930s → organisation, programme, ministries, princely-state awakening",
+        "RULE → preserve chronology while explaining connection."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1899-1900 → Birsa Ulgulan: tribal anti-colonial genealogy",
+            "1945 → Warli"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1946 → Tebhaga, Telangana, Punnapra-Vayalar",
+            "CORE 1930s → organisation, programme, ministries, princely-state awakening"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → preserve chronology while explaining connection.",
+            "1899-1900 → Birsa Ulgulan: tribal anti-colonial genealogy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORE 1930s → organisation, programme, ministries, princely-state awakening.",
+      "source_references": [
+        "Late-colonial agrarian bridges after the 1930s"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE PRESENTS THE 1930S AS A",
+          "role": "outcome"
+        },
+        {
+          "text": "BECAME A BROAD PLATFORM CONTAINING GANDHIAN, SOCIALIST, COMMUNIST, PEASANT",
+          "role": "comparison"
+        },
+        {
+          "text": "JAWAHARLAL NEHRU AND SUBHAS CHANDRA BOSE POPULARISED SOCIALIST LANGUAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONALISM, LINKING ANTI-IMPERIALISM WITH PLANNING, LABOUR RIGHTS AND SOCIAL",
+          "role": "primary"
+        },
+        {
+          "text": "THE CONGRESS SOCIALIST PARTY (1934) WORKED WITHIN CONGRESS RATHER",
+          "role": "outcome"
+        },
+        {
+          "text": "SHOWING THAT LEFT POLITICS SOUGHT TO RADICALISE THE NATIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNISTS FACED COLONIAL REPRESSION THROUGH CONSPIRACY CASES, ESPECIALLY THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence presents the 1930s as a decade when the Congress",
+            "became a broad platform containing Gandhian, socialist, communist, peasant, labour and left-nationalist strands.",
+            "Jawaharlal Nehru and Subhas Chandra Bose popularised socialist language inside",
+            "nationalism, linking anti-imperialism with planning, labour rights and social transformation."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The Congress Socialist Party (1934) worked within Congress rather than outside it,",
+            "showing that left politics sought to radicalise the national platform from within.",
+            "Communists faced colonial repression through conspiracy cases, especially the Meerut Conspiracy",
+            "Case (1929–33) , but labour and anti-imperialist networks expanded despite repression."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: The ideological effect of the Left was larger than its organisational numbers",
+            "because it pushed Congress to speak of rights, redistribution, planning and anti-fascism.",
+            "Peasant mobilisation moved from Champaran , Awadh/Eka , Moplah and Bardoli toward the All India Kisan Sabha (1936) .",
+            "These were not interchangeable: Moplah joined agrarian and anti-imperial anger to a later communal rupture, while Bardoli remained"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

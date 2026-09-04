@@ -1,0 +1,3365 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "State & Government under Akbar (Mansabdari, Dahsala) - Complete Topic Package",
+      "preview": "Akbar government mansabdari revenue and dahsala cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\01_01_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 453.353
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 5,
+      "heading": "State & Government under Akbar (Mansabdari, Dahsala) - Complete Topic Package",
+      "preview": "**Subject:** Medieval Indian History | **GS Paper:** GS-I + Prelims | **Level:** Foundation to advanced",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 453.353
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 422.885
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 7,
+      "heading": "State & Government under Akbar (Mansabdari, Dahsala) - Complete Topic Package",
+      "preview": "**Package date:** 3 September 2026 | **Learning arc:** institutions -> provincial reach -> mansab -> revenue -> sources -> practice",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 422.885
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 378.218
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 9,
+      "markdown_body_line_end": 13,
+      "heading": "State & Government under Akbar (Mansabdari, Dahsala) - Complete Topic Package",
+      "preview": "**Source and method note:** Primary teaching foundation: `basic/16_State-and-Government-under-Akbar.md` and `advanced/16_State-and-Government-under-Akbar.md`; chronology: `00_Master-Chronology.md`; answer-quality and historiographical guard",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 378.218
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 262.55
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 26,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 584.29
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 48,
+      "markdown_body_line_end": 48,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\medieval-indian-history-16_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 230.09
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 63,
+      "heading": "Roadmap",
+      "preview": "**PRE-TEACH CHECKLIST** **Book context:** queried from repository Topic 16 files and local Satish Chandra Part II OCR. **CA search:** deliberately not forced; no live claim is needed for this static historical module. **CA found:** none use",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 391.756
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 332.888
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 75,
+      "markdown_body_line_end": 75,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Akbar did not create a finished administration at accession; he progressively coordinated inherited offices, rank, records and revenue practices into a larger but still personal and uneven imperial system.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 164.688
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 98.02
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 114,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**FACT:** A chronological explanation earns more than a static list: it can show response to regency, expansion, fiscal experimentation and the need to verify noble service.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 458.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 414.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 120,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Claim | Evidence anchor | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Evidence anchor",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 414.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 303.622
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 128,
+      "markdown_body_line_end": 128,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dates mark stages of adjustment, not a single blueprint imposed in 1556.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\02_02_evolution_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 241.822
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 130,
+      "markdown_body_line_end": 130,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Continuity does not mean identity: inherited devices were reorganised for a larger imperial framework.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\03_03_continuity.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 132,
+      "markdown_body_line_end": 132,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The emperor remained the nodal authority; office differentiation was a check within personal monarchy.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\04_04_ruler_centre.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 153,
+      "heading": "CLOSING RECALL FLOW - PART I - ORIENTATION: A STATE MADE THROUGH STAGES, NOT FROM ZERO",
+      "preview": "START / CONCEPT: PART I — Orientation: a state made through stages, not from zero",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 483.353
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 232.353
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PART II — Kingship and central government comprises PART II, Kingship and central government as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 111.553
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 44.885
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 220,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Office | Primary working field | Check or limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Office",
+          "Primary working field",
+          "Check or limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 284.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 154.29
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 222,
+      "markdown_body_line_end": 224,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**TRAP:** “Checks and balances” is usable only with the qualifier *ruler-centred*. It meant office differentiation, central appointment and cross-reporting—not modern separation of powers.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 154.29
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 109.622
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 226,
+      "markdown_body_line_end": 226,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Use functional labels; do not convert offices into modern ministries.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\05_05_central_offices.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 228,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The office was constrained after experience of an over-mighty regency.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\06_06_vakil.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 230,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The diwan was a financial controller, not merely a collector.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\07_07_diwan.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 232,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Military records and elite management were connected through the mansab.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\08_08_mir_bakhshi.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 234,
+      "markdown_body_line_end": 234,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Checks prevented concentration but did not create independent constitutional branches.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\09_09_checks_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 236,
+      "markdown_body_line_end": 236,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Household administration was a material arm of imperial rule.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\10_10_karkhanas.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 238,
+      "markdown_body_line_end": 238,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Religious/judicial functions should not be treated as a modern, autonomous judiciary.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\11_11_sadr_qazi.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 259,
+      "heading": "CLOSING RECALL FLOW - PART II - KINGSHIP AND CENTRAL GOVERNMENT",
+      "preview": "START / CONCEPT: PART II — Kingship and central government",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 483.353
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 262.353
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 270,
+      "markdown_body_line_end": 270,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The hierarchy was suba - sarkar - pargana - village.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 150.953
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 98.485
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 337,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "**PYQ routing boundary:** The 2019 Prelims jagirdar-zamindar question is owned by Topic 24 (Mughal Society, Economy and Culture). It is an adjacent conceptual link, not seized as a Topic 16 direct PYQ. The 2025 question on religious syncret",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 203.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 130.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 339,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "Centrally appointed officers were designed to report and counterbalance.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\12_12_province_replication.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 341,
+      "markdown_body_line_end": 341,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "A schematic placement only; it illustrates a provincial grid, not modern boundaries.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\13_13_12_subas_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 343,
+      "markdown_body_line_end": 343,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "Ascending territorial size: pargana -> sarkar -> suba.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\14_14_hierarchy.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 345,
+      "markdown_body_line_end": 345,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "Formal separation could be weakened by local power and imperial distance.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\15_15_provincial_checks.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 347,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "A faujdar's jurisdiction was not always identical with one sarkar.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\16_16_sarkar_officers.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 349,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "Local records and treasury work made assessment administratively possible.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\17_17_pargana_officers.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 351,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "The state did not uniformly transact with every cultivator directly.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\18_18_village.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 353,
+      "markdown_body_line_end": 353,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "Different fiscal destinations did not turn assignments into sovereign territories.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\19_19_assignments.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 355,
+      "markdown_body_line_end": 355,
+      "heading": "Direct/owned PYQ - 2021 CSE Prelims GS-I, Q45",
+      "preview": "State capacity depended on records travelling as well as revenue travelling.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\20_20_information_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 376,
+      "heading": "CLOSING RECALL FLOW - PART III - PROVINCE, DISTRICT, PARGANA AND VILLAGE",
+      "preview": "START / CONCEPT: PART III — Province, district, pargana and village",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 483.353
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 282.353
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 387,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This does not erase social hierarchy, family advantage or faction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 142.553
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 90.085
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 434,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "One graded service linked civil position, military duty and courtly status.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\21_21_mansab_triad.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 303.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 436,
+      "markdown_body_line_end": 436,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Do not imagine a fixed table unchanged throughout the reign.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\22_22_hierarchy_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 438,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Recruitment integrated diverse elites without eliminating hierarchy or competition.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\23_23_composite_elite.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 440,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "A distinction in rank clarified two different dimensions of service.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\24_24_zat_sawar.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 442,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Later Mughal developments must not be projected backward onto early Akbar.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\25_25_late_evolution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 444,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rank was an imperial instrument of social ordering and obligation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\26_26_salary_service.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 446,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "A jagir was a way of meeting remuneration, not a grant of private land.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\27_27_cash_jagir.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 448,
+      "markdown_body_line_end": 448,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The two terms refer to different relationships with revenue and locality.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\28_28_jagirdar_zamindar.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 450,
+      "markdown_body_line_end": 450,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Transfer restrained territorial roots but encouraged short-term extraction.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\29_29_transfer_cycle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 471,
+      "heading": "CLOSING RECALL FLOW - PART IV - MANSABDARI: ONE HIERARCHY, SEVERAL STATE PROBLEMS",
+      "preview": "START / CONCEPT: PART IV — Mansabdari: one hierarchy, several state problems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 483.353
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 272.353
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 482,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The imperial military was not a modern uniform national standing army.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 179.953
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 127.485
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 524,
+      "markdown_body_line_end": 524,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Akbar did not invent horse branding or descriptive rolls from nothing.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\30_30_dagh_provenance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 445.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 147.753
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 526,
+      "markdown_body_line_end": 526,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Controls targeted the gap between sanctioned contingents and present troops.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\31_31_verification.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 528,
+      "markdown_body_line_end": 528,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Verification improved oversight but could not erase evasion or harassment.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\32_32_paper_actual.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 530,
+      "markdown_body_line_end": 530,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "This was not a modern national standing army with a single uniform payroll.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\33_33_army.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 532,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Information reinforced supervision; terminology and reach varied by context.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\34_34_intelligence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 553,
+      "heading": "CLOSING RECALL FLOW - PART V - DAGH, CHEHRA, ARMY AND INFORMATION",
+      "preview": "START / CONCEPT: PART V — Dagh, chehra, army and information",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 564,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The terms overlap in a revenue discussion but are not synonyms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 470.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 418.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 610,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dahsala was an outcome of experiments, not a first-day decree.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\35_35_revenue_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 693.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 395.953
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 612,
+      "markdown_body_line_end": 612,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "A uniform central schedule could fail where price and productivity varied locally.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\36_36_price_problem.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 395.953
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 98.015
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 614,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Zabti names a measurement-based mode; it is not identical to every ten-year average.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\37_37_zabti_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 616,
+      "markdown_body_line_end": 616,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Standardisation served administration, but historical land measures require local caution.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\38_38_jarib_bigha.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 618,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The average was a calculation for assessment, not a permanent ten-year contract.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\39_39_dahsala_average.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 620,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The word 'ten' concerns the averaging window, not immutable settlement duration.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\40_40_dahsala_trap.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 622,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "These are cultivation-frequency categories, not a simple fertile-to-infertile ladder.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\41_41_land_categories.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 626,
+      "markdown_body_line_end": 643,
+      "heading": "CLOSING RECALL FLOW - PART VI - REVENUE: PURPOSE, EXPERIMENTATION AND THE DAHSALA MECHANISM",
+      "preview": "START / CONCEPT: PART VI — Revenue: purpose, experimentation and the dahsala mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 470.353
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 259.353
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 654,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It must not become “all India” or “every field.” Bengal, Sindh, Kashmir and difficult tracts require care: where measurement and standardisation were difficult, alternatives and limits mattered.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 119.553
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 52.885
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 695,
+      "markdown_body_line_end": 695,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Choice varied with crop, terrain, records and administrative reach.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\42_42_methods_compare.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 346.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 48.753
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 697,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Crop sharing can fit uncertain output but raises supervision and division issues.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\43_43_batai.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 699,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Kankut combines measurement with appraisal; it is not simply a fixed crop share.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\44_44_kankut.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 701,
+      "markdown_body_line_end": 701,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Nasaq's estimate-based logic contrasts with a fresh, detailed zabt exercise.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\45_45_nasaq.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 703,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "No claim that every province, field or crop fell under one uniform procedure.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\46_46_reach_limits.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 705,
+      "markdown_body_line_end": 705,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Collection was mediated by records and local actors, not a frictionless direct flow.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\47_47_revenue_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 707,
+      "markdown_body_line_end": 707,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "An assessed figure is not the same as cash or grain actually realised.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\48_48_jama_hasil.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 709,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Measurement did not erase local landed power.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\49_49_zamindar.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        38,
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 711,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Monetisation is a tendency, not proof of complete commercialisation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\50_50_cash_nexus.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 713,
+      "markdown_body_line_end": 713,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Fiscal rationality and peasant protection did not cancel extraction or vulnerability.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\51_51_safeguards_coercion.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 717,
+      "markdown_body_line_end": 734,
+      "heading": "CLOSING RECALL FLOW - PART VII - METHODS, GEOGRAPHY, INTERMEDIARIES AND LIMITS",
+      "preview": "START / CONCEPT: PART VII — Methods, geography, intermediaries and limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 483.353
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 252.353
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 745,
+      "markdown_body_line_end": 745,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Ain-i-Akbari, within the Akbarnama project, is central but requires source criticism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 126.753
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 74.285
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 786,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Source | Can help establish | Cannot alone establish",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Source",
+          "Can help establish",
+          "Cannot alone establish"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 455.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 324.09
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 796,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Avoid both false equivalence and the claim that Akbar invented assignment.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\52_52_iqta_jagir.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 248.09
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 798,
+      "markdown_body_line_end": 798,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Akbar refined and coordinated earlier practices rather than mechanically copying them.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\53_53_sher_akbar.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 800,
+      "markdown_body_line_end": 800,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Capacity was a bundle of practices, not an abstract label for centralisation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\54_54_state_capacity.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        42,
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 802,
+      "markdown_body_line_end": 802,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "These were seeds of later strain, not a claim that a full crisis existed under Akbar.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\55_55_limits_loop.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 804,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Evidence must be matched to the claim it can and cannot sustain.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\56_56_source_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        43,
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 806,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "A rule in a compendium is not automatically a measured description of every locality.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\57_57_norm_practice.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 505.353
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 207.415
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 808,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Use claim -> evidence -> analysis -> qualification rather than fact lists.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\58_58_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 207.415
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 505.353
+        }
+      },
+      "pdf_pages": [
+        44,
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 812,
+      "markdown_body_line_end": 829,
+      "heading": "CLOSING RECALL FLOW - PART VIII - COMPARISON, SOURCES AND A BALANCED VERDICT",
+      "preview": "START / CONCEPT: PART VIII — Comparison, sources and a balanced verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 483.353
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 252.353
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 840,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A chronology is not decoration in this topic; it is the protection against teleology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 112.553
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 60.085
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 887,
+      "markdown_body_line_end": 889,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANALYSIS:** Later maturity must be kept separate from early experimentation. Do not say that zat-sawar existed in fixed form from 1556, or that every province received identical zabt after 1580.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 275.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 231.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 910,
+      "heading": "CLOSING RECALL FLOW - PART IX - HOW INSTITUTIONS CHANGED WITHIN AKBAR'S REIGN",
+      "preview": "START / CONCEPT: PART IX — How institutions changed within Akbar's reign",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 921,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Yet it created a different operational problem.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 388.224
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 975,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | What mansabdari supplied | What it could not eliminate",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "What mansabdari supplied",
+          "What it could not eliminate"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 622.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 513.49
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 996,
+      "heading": "CLOSING RECALL FLOW - PART X - MANSABDARI AS SOCIAL ARCHITECTURE AND OPERATIONAL PROBLEM",
+      "preview": "START / CONCEPT: PART X — Mansabdari as social architecture and operational problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 478.49
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 267.49
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1007,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The best way to understand dahsala is as an attempt to transform scattered agrarian realities into an administratively usable claim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 113.49
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 46.822
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1057,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**MEMORY:** Measure -> know/estimate -> set rate -> enter jama -> realise hasil -> audit/revise. The arrows contain negotiation and risk at every point.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 256.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 211.824
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1078,
+      "heading": "CLOSING RECALL FLOW - PART XI - REVENUE AS INFORMATION: RECONSTRUCTING THE FISCAL CALCULATION",
+      "preview": "START / CONCEPT: PART XI — Revenue as information: reconstructing the fiscal calculation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 328
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1089,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "But a rational fiscal technique still aims at extraction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 393.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 341.024
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1155,
+      "heading": "CLOSING RECALL FLOW - PART XII - PEASANTS, INTERMEDIARIES AND THE ETHICS OF FISCAL PREDICTABILITY",
+      "preview": "START / CONCEPT: PART XII — Peasants, intermediaries and the ethics of fiscal predictability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 521.091
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 310.091
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1166,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Administrative history is unusually vulnerable to over-reading official texts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 198.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 146.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1233,
+      "heading": "CLOSING RECALL FLOW - PART XIII - SOURCE CRITICISM AS AN ADMINISTRATIVE SKILL",
+      "preview": "START / CONCEPT: PART XIII — Source criticism as an administrative skill",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 379.091
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 158.091
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1244,
+      "markdown_body_line_end": 1244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rather, the point of specialised offices is that a decision leaves more than one administrative trace.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1296,
+      "markdown_body_line_end": 1298,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM TEST:** If a question asks “Was Akbar centralised?”, write one sentence on the emperor, one on specialised flows, one on provincial replication, then one on local mediation and uneven practice. That sequence produces a verdict instea",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1302,
+      "markdown_body_line_end": 1319,
+      "heading": "CLOSING RECALL FLOW - PART XIV - READING CENTRAL OFFICES THROUGH FLOWS RATHER THAN LABELS",
+      "preview": "START / CONCEPT: PART XIV — Reading central offices through flows rather than labels",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 709.424
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 488.424
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1330,
+      "markdown_body_line_end": 1330,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "These boundaries are not pedantry: they protect causal reasoning from anachronism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 377.024
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 324.556
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1386,
+      "markdown_body_line_end": 1403,
+      "heading": "CLOSING RECALL FLOW - PART XV - COMPARATIVE REASONING WITHOUT FALSE EQUIVALENCE",
+      "preview": "START / CONCEPT: PART XV — Comparative reasoning without false equivalence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 472.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 241.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1414,
+      "markdown_body_line_end": 1414,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The first defence is to sort terms into baskets.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 101.491
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 49.024
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1460,
+      "markdown_body_line_end": 1462,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**RAPID GRID:** zabti measures; dahsala averages; batai shares; kankut appraises; nasaq estimates. Zat ranks; sawar obliges. Dagh brands; chehra describes. Jama claims; hasil receives.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 284.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 240.224
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1466,
+      "markdown_body_line_end": 1483,
+      "heading": "CLOSING RECALL FLOW - PART XVI - TECHNICAL TRAPS: HOW AN EXAMINER TURNS VOCABULARY INTO ELIMINATION",
+      "preview": "START / CONCEPT: PART XVI — Technical traps: how an examiner turns vocabulary into elimination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 304
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1494,
+      "markdown_body_line_end": 1494,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A high-scoring answer to a state-capacity question should present Akbar's offices, mansabdari and dahsala as an integrated system whose enlarged reach remained personal, hierarchical and uneven.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1552,
+      "markdown_body_line_end": 1557,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Answer demand | Best evidence combination | Qualification that adds marks",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Answer demand",
+          "Best evidence combination",
+          "Qualification that adds marks"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 451.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 331.09
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1559,
+      "markdown_body_line_end": 1561,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**WHY THIS METHOD EARNS MARKS:** It fulfils the directive, gives named evidence, explains a mechanism, qualifies claims and finishes with a reasoned verdict—rather than using “centralisation” as an unsupported label.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 331.09
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 286.422
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1582,
+      "heading": "CLOSING RECALL FLOW - PART XVII - BUILDING A HIGH-SCORING ANSWER FROM A STATE-CAPACITY QUESTION",
+      "preview": "START / CONCEPT: PART XVII — Building a high-scoring answer from a state-capacity question",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1593,
+      "markdown_body_line_end": 1593,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The final conceptual formula is therefore: imperial authority + differentiated offices ranked elite + revenue information + verification + local mediation = substantial but uneven early modern state capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 383.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 316.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1650,
+      "markdown_body_line_end": 1656,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Designed instrument | Intended administrative gain | Operating qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Designed instrument",
+          "Intended administrative gain",
+          "Operating qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 451.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 321.09
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1778,
+      "markdown_body_line_end": 1795,
+      "heading": "CLOSING RECALL FLOW - PART XVIII - FROM IMPERIAL RULE TO LOCAL OUTCOME: AN IMPLEMENTATION AUDIT",
+      "preview": "START / CONCEPT: PART XVIII — From imperial rule to local outcome: an implementation audit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 399.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1806,
+      "markdown_body_line_end": 1806,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The live page is a heritage and source-method bridge only.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 293.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 240.824
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1825,
+      "markdown_body_line_end": 1842,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 714.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 503.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2981,
+      "markdown_body_line_end": 2981,
+      "heading": "Mains 10. [20 marks | 250 words] How should Ain-i-Akbari be used to evaluate Akbar's state capacity? Give a balanced verdict.",
+      "preview": "A final trigger list for high-frequency eliminations.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\assets\\59_59_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 412.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 114.753
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2995,
+      "markdown_body_line_end": 2998,
+      "heading": "State & Government under Akbar (Mansabdari, Dahsala) - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part II (Mughal Empire)* — chapter \"Stat",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 650.091
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 562.824
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3013,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 535.324
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 341.122
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3034,
+      "markdown_body_line_end": 3043,
+      "heading": "2. Key classification / data",
+      "preview": "Institution | Advanced detail | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Institution",
+          "Advanced detail",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 715.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 465.29
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3047,
+      "markdown_body_line_end": 3049,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Sher Shah's measurement/dagh precedents → `advanced/14`. **Study link:** ⚠️ Akbar's composite ruling class → Rajput policy (`advanced/15`) and sulh-i-kul. **Study link:** ⚠️ Jagir assignment and jama-dami → later Mughal fi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 440.29
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 381.422
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3063,
+      "markdown_body_line_end": 3063,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Akbar's administration was not a static blueprint; it evolved through experiments, resistance and corrections.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 196.822
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 152.154
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3189,
+      "markdown_body_line_end": 3198,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: State capacity as an integrated architecture",
+      "preview": "RULER-CENTRED AUTHORITY -> appointment, transfer, promotion and judgement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3202,
+      "markdown_body_line_end": 3209,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Administrative evolution 1556-1605",
+      "preview": "1556 -> Bairam Khan as powerful wakil during minority",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3213,
+      "markdown_body_line_end": 3221,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Central offices and ruler-centred checks",
+      "preview": "PADSHAH -> appointments + transfers + justice + court access",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3225,
+      "markdown_body_line_end": 3233,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Province to village: hierarchy and counterweights",
+      "preview": "SUBA -> subadar + provincial diwan + bakhshi + sadr/qazi + news writer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3237,
+      "markdown_body_line_end": 3245,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Mansabdari: rank, remuneration and obligation",
+      "preview": "MANSAB -> numerical status + remuneration + service relation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 369.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3249,
+      "markdown_body_line_end": 3257,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Zat, sawar and jagir logic",
+      "preview": "LATE AKBAR -> ZAT broadly personal rank/pay | SAWAR cavalry obligation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3261,
+      "markdown_body_line_end": 3269,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Dagh, chehra and the verification problem",
+      "preview": "PAPER RANK -> claimed cavalry obligation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3273,
+      "markdown_body_line_end": 3281,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Revenue reform as experiment",
+      "preview": "EARLY -> restored systems + central price problems + provincial variation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3285,
+      "markdown_body_line_end": 3293,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Zabt-dahsala calculation chain",
+      "preview": "ZABT -> measure area and identify crop/land category",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3297,
+      "markdown_body_line_end": 3307,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Methods, geography and mediation",
+      "preview": "ZABT -> measured cash schedule in settled/recorded/monetized zones",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 369.691
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 266.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3311,
+      "markdown_body_line_end": 3321,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Continuity, evidence and structural limits",
+      "preview": "SOURCE -> Ain ideal/enumeration versus farman/record/coin/regional outcome",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3325,
+      "markdown_body_line_end": 3333,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 16 answer spine",
+      "preview": "SOURCE -> Ain norm + document/region + assessment/realization distinction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    }
+  ]
+}

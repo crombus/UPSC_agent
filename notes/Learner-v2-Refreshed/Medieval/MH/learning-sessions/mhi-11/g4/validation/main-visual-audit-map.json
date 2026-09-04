@@ -1,0 +1,2624 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Art, Architecture & Culture of the Sultanate - Complete Topic Package",
+      "preview": "Sultanate art architecture and culture cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\00_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 542.013
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Art, Architecture & Culture of the Sultanate - Complete Topic Package",
+      "preview": "**Subject:** Medieval Indian History | **GS Paper:** GS-I (History and Art & Culture) | **Export date:** 2026-09-03 **Approval:** false — generated package awaiting explicit user approval. **Evidence convention:** ✅ fact is grounded in the ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 542.013
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 468.946
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 410.946
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 191.944
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 42,
+      "markdown_body_line_end": 42,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\medieval-indian-history-11_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 532.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 224.556
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 59,
+      "heading": "Pre-teach checklist",
+      "preview": "Check | Result",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Check",
+          "Result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 724.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 570.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 84,
+      "markdown_body_line_end": 84,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It does not mean that power disappeared or that every form was equally shared.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 256.69
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 204.222
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 97,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "1. What this topic means: culture, power and production",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\02_rupture_adaptation_synthesis.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 116,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Lens | What to identify | Named evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Lens",
+          "What to identify",
+          "Named evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 299.213
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 168.612
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 144,
+      "heading": "CLOSING RECALL FLOW - WHAT THIS TOPIC MEANS: CULTURE, POWER AND PRODUCTION",
+      "preview": "START / CONCEPT: What this topic means: culture, power and production",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 155,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ A dome covers a space in compression; a vault is a continuous arched roof.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 168,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "2. Technical vocabulary: from beam to arch, dome and vault",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\03_trabeate_arcuate_loadpaths.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 219.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 188,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Term | Exam-safe meaning | Trap to avoid",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Exam-safe meaning",
+          "Trap to avoid"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 285.013
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 133.212
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - TECHNICAL VOCABULARY: FROM BEAM TO ARCH, DOME AND VAULT",
+      "preview": "START / CONCEPT: Technical vocabulary: from beam to arch, dome and vault",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 310
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It should equally notice craft adaptation: reused columns and newly constructed arches/screens required decisions by workshops, not passive juxtaposition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 240,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "3. Early phase: reuse, conversion and adaptation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\08_spolia_evidence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 201.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 258,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Evidence layer | What it can show | What it cannot prove alone",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence layer",
+          "What it can show",
+          "What it cannot prove alone"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 285.013
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 175.612
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 286,
+      "heading": "CLOSING RECALL FLOW - EARLY PHASE: REUSE, CONVERSION AND ADAPTATION",
+      "preview": "START / CONCEPT: Early phase: reuse, conversion and adaptation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 297,
+      "markdown_body_line_end": 297,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Qutb complex is best read as a layered architectural archive in which patronage, structural technique, ritual function and later conservation can be separated and then connected.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 310,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "4. The Qutb complex: layered patronage and experimental craft",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\11_qutb_layered.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 201.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 329,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Component | Primary answer use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Component",
+          "Primary answer use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 299.213
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 168.612
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 357,
+      "heading": "CLOSING RECALL FLOW - THE QUTB COMPLEX: LAYERED PATRONAGE AND EXPERIMENTAL CRAFT",
+      "preview": "START / CONCEPT: The Qutb complex: layered patronage and experimental craft",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 368,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Therefore the correct sentence is: Balban provides the surviving true-arch milestone; Alai Darwaza displays mature mastery.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 372.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 305.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 381,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "5. Balban and Khalji: milestone, mastery and urban ambition",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\14_alai_darwaza.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 399,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Comparison | Balban tomb | Alai Darwaza",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Comparison",
+          "Balban tomb",
+          "Alai Darwaza"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 299.213
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 189.812
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 427,
+      "heading": "CLOSING RECALL FLOW - BALBAN AND KHALJI: MILESTONE, MASTERY AND URBAN AMBITION",
+      "preview": "START / CONCEPT: Balban and Khalji: milestone, mastery and urban ambition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 315
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 438,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Khalji versus Tughlaq is a comparison of form, material, ornament and setting. ✅ Form is evidence; motive is interpretation. ✅ Trabeate and arcuate methods continue together. ❌ “Tughlaq = no decoration” ignores the source’s qualifications",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 451,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "6. Tughlaq form: fortification, batter and qualified interpretation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\16_tughlaq_batter.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 167.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 470,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | Direct observation | Careful inference",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Direct observation",
+          "Careful inference"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 313.413
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 171.612
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 481,
+      "markdown_body_line_end": 498,
+      "heading": "CLOSING RECALL FLOW - TUGHLAQ FORM: FORTIFICATION, BATTER AND QUALIFIED INTERPRETATION",
+      "preview": "START / CONCEPT: Tughlaq form: fortification, batter and qualified interpretation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 509,
+      "markdown_body_line_end": 509,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Give a device plus a regional setting. ✅ Link forward to Topic 08 for dynastic detail. ⚠️ Regional style is not an ethnic essence. ❌ Avoid a full Mughal/Rajput/Sikh/Awadh survey here.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 522,
+      "markdown_body_line_end": 522,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "7. Bounded regional schools: adaptation rather than a second dynastic survey",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\24_regional_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 535,
+      "markdown_body_line_end": 540,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "School | Bounded marker | Analytical use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "School",
+          "Bounded marker",
+          "Analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 313.413
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 204.012
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 568,
+      "heading": "CLOSING RECALL FLOW - BOUNDED REGIONAL SCHOOLS: ADAPTATION RATHER THAN A SECOND DYNASTIC SURVEY",
+      "preview": "START / CONCEPT: Bounded regional schools: adaptation rather than a second dynastic survey",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 579,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ Political legitimacy is built through this functional world: a gate controls approach and creates ceremony; a minar changes the skyline; a tomb stabilises memory; a madrasa and khanqah organise learning and hospitality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 332.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "8. Decoration, function and the built social world",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\21_ornament_grammar.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 174.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 611,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Form | Immediate function | Broader analytical question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Form",
+          "Immediate function",
+          "Broader analytical question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 270.813
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 140.212
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 639,
+      "heading": "CLOSING RECALL FLOW - DECORATION, FUNCTION AND THE BUILT SOCIAL WORLD",
+      "preview": "START / CONCEPT: Decoration, function and the built social world",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 280
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 650,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "His Nuh Sipihr is locally noted for praising India’s climate, languages, arts and music.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 354.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 663,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "9. Language, literature, music and Amir Khusrau: plurality with attribution caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\27_language_coexistence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 195.424
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 682,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Domain | Source-grounded point | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Domain",
+          "Source-grounded point",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 270.813
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 129.012
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 693,
+      "markdown_body_line_end": 710,
+      "heading": "CLOSING RECALL FLOW - LANGUAGE, LITERATURE, MUSIC AND AMIR KHUSRAU: PLURALITY WITH ATTRIBUTION CAUTION",
+      "preview": "START / CONCEPT: Language, literature, music and Amir Khusrau: plurality with attribution caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 721,
+      "markdown_body_line_end": 721,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It also says conservation repairs respect original systems and are reversible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 417.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 365.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 734,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Source method, conservation and answer discipline",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\30_source_criticism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 192.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 747,
+      "markdown_body_line_end": 753,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Source | Best question it answers | Main limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source",
+          "Best question it answers",
+          "Main limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 256.613
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 126.012
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 781,
+      "heading": "CLOSING RECALL FLOW - SOURCE METHOD, CONSERVATION AND ANSWER DISCIPLINE",
+      "preview": "START / CONCEPT: Source method, conservation and answer discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 553.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 792,
+      "markdown_body_line_end": 792,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The live page is a heritage and source-method bridge only.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 432.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 379.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 811,
+      "markdown_body_line_end": 828,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 845,
+      "markdown_body_line_end": 852,
+      "heading": "Evidence and terminology",
+      "preview": "Structural control | Exam-safe statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Structural control",
+          "Exam-safe statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 356.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 204.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1125,
+      "markdown_body_line_end": 1125,
+      "heading": "Part V - Original broad-coverage MCQs (40; independent strict A -> B -> C -> D rotation)",
+      "preview": "Qutb conservation source-method visual",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\31_conservation_anchor.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 222.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1708,
+      "markdown_body_line_end": 1708,
+      "heading": "Part II - Examiner-grade solved Mains practice",
+      "preview": "Mains answer spine: claim, evidence, analysis, qualification and verdict",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\32_mains_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 546.013
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1929,
+      "markdown_body_line_end": 1929,
+      "heading": "Laboratory 1. Read structure before style labels",
+      "preview": "True versus corbelled arch — visual structural discriminator",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\04_true_vs_corbelled_arch.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 569.891
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 360.613
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1934,
+      "markdown_body_line_end": 1934,
+      "heading": "Laboratory 1. Read structure before style labels",
+      "preview": "Dome and squinch transition — schematic technical sequence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\05_dome_squinch_transition.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 341.413
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 132.135
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1939,
+      "markdown_body_line_end": 1939,
+      "heading": "Laboratory 1. Read structure before style labels",
+      "preview": "Lime mortar technology chain — material to spatial capacity",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\06_lime_mortar_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1954,
+      "markdown_body_line_end": 1959,
+      "heading": "The four-step diagnostic",
+      "preview": "Ask | If the answer is yes | Useful conclusion",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Ask",
+          "If the answer is yes",
+          "Useful conclusion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 211.213
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 79.412
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1965,
+      "markdown_body_line_end": 1965,
+      "heading": "Laboratory 2. The Qutb complex is a sequence, not a single monument",
+      "preview": "Quwwat-ul-Islam complex plan schematic — not to scale",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\09_quwwat_plan.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 543.613
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1970,
+      "markdown_body_line_end": 1970,
+      "heading": "Laboratory 2. The Qutb complex is a sequence, not a single monument",
+      "preview": "Arhai Din ka Jhonpra transition — evidence-led adaptation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\10_arhai_transition.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 524.413
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 315.135
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1975,
+      "markdown_body_line_end": 1975,
+      "heading": "Laboratory 2. The Qutb complex is a sequence, not a single monument",
+      "preview": "Iltutmish tomb — square-to-dome technical experiment",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\12_iltutmish_tomb.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 295.935
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 86.657
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1980,
+      "markdown_body_line_end": 1980,
+      "heading": "Laboratory 2. The Qutb complex is a sequence, not a single monument",
+      "preview": "Balban tomb — first surviving true-arch milestone",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\13_balban_true_arch.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1985,
+      "markdown_body_line_end": 1985,
+      "heading": "Laboratory 2. The Qutb complex is a sequence, not a single monument",
+      "preview": "Siri and Alai urban ambition — survival and reconstruction caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\15_siri_alai_urban.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 574.813
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 365.535
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2002,
+      "markdown_body_line_end": 2002,
+      "heading": "Laboratory 3. From Khalji proportion to Tughlaq mass",
+      "preview": "Tughlaqabad fortress-water-city schematic — not to scale",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\17_tughlaqabad_water_city.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 691.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 481.813
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2007,
+      "markdown_body_line_end": 2007,
+      "heading": "Laboratory 3. From Khalji proportion to Tughlaq mass",
+      "preview": "Ghiyasuddin Tughlaq tomb — profile and analytical caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\18_ghiyasuddin_tomb.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 462.613
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 253.335
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2012,
+      "markdown_body_line_end": 2012,
+      "heading": "Laboratory 3. From Khalji proportion to Tughlaq mass",
+      "preview": "Khalji versus Tughlaq — form, material and inference comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\19_khalji_tughlaq_compare.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 234.135
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        54,
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2017,
+      "markdown_body_line_end": 2017,
+      "heading": "Laboratory 3. From Khalji proportion to Tughlaq mass",
+      "preview": "Lodi transition and double-dome boundary — carefully scoped",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\20_lodi_boundary.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 765.69
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 556.412
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2032,
+      "markdown_body_line_end": 2036,
+      "heading": "Comparative paragraph template",
+      "preview": "**Thesis:** Both phases used Sultanate-era technical resources, but Khalji form emphasised proportioned ceremonial ornament while Tughlaq form emphasised enclosure, battered mass and fortress effect. **Khalji evidence:** Alai Darwaza—arch/d",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 190.612
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 81.344
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2040,
+      "markdown_body_line_end": 2040,
+      "heading": "Laboratory 4. Regional adaptation and workshop history",
+      "preview": "Craft workshop collaboration — patron, material and labour chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\07_craft_workshop.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2045,
+      "markdown_body_line_end": 2045,
+      "heading": "Laboratory 4. Regional adaptation and workshop history",
+      "preview": "Delhi imperial style chronology — fast evidence map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\23_delhi_style.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 574.813
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 365.535
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2050,
+      "markdown_body_line_end": 2050,
+      "heading": "Laboratory 4. Regional adaptation and workshop history",
+      "preview": "Material and climate adaptation — regional construction logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\25_material_climate.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 346.335
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 137.057
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2055,
+      "markdown_body_line_end": 2055,
+      "heading": "Laboratory 4. Regional adaptation and workshop history",
+      "preview": "Patronage, labour and legitimacy — causal chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\26_patronage_legitimacy_labour.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2070,
+      "markdown_body_line_end": 2076,
+      "heading": "Evidence-to-analysis matrix",
+      "preview": "Evidence | Immediate fact | Better analytical sentence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "Immediate fact",
+          "Better analytical sentence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2080,
+      "markdown_body_line_end": 2080,
+      "heading": "Laboratory 5. Cultural production: languages, texts, music and evidence limits",
+      "preview": "Amir Khusrau evidence versus legend — attribution caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\28_khusrau_caution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 589.89
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 380.612
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2085,
+      "markdown_body_line_end": 2085,
+      "heading": "Laboratory 5. Cultural production: languages, texts, music and evidence limits",
+      "preview": "Music under Sultanate conditions — contact without invention myth",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\29_music_caution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 361.412
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 152.134
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2090,
+      "markdown_body_line_end": 2090,
+      "heading": "Laboratory 5. Cultural production: languages, texts, music and evidence limits",
+      "preview": "Mosque, madrasa, khanqah, tomb and minar — function matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\22_function_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2117,
+      "markdown_body_line_end": 2117,
+      "heading": "Laboratory 6. How to build an exam answer under pressure",
+      "preview": "Chronology visual — layered patronage and phase control",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\01_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2122,
+      "markdown_body_line_end": 2122,
+      "heading": "Laboratory 6. How to build an exam answer under pressure",
+      "preview": "Conservation/current anchor — official evidence and scope",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\31_conservation_anchor.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 574.813
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 365.535
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2135,
+      "markdown_body_line_end": 2141,
+      "heading": "Ready-to-use answer skeletons",
+      "preview": "Demand | Opening | Evidence order | Closing qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Demand",
+          "Opening",
+          "Evidence order",
+          "Closing qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 608.39
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2145,
+      "markdown_body_line_end": 2145,
+      "heading": "Laboratory 7. Monument biographies: how one site acquires several dates",
+      "preview": "Rapid recall visual — keep technical milestones distinct",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\33_rapid_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 586.39
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 377.112
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2178,
+      "markdown_body_line_end": 2185,
+      "heading": "Rapid option-audit table",
+      "preview": "If an option says | Ask this | Likely verdict",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "If an option says",
+          "Ask this",
+          "Likely verdict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 347.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 184.09
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2189,
+      "markdown_body_line_end": 2189,
+      "heading": "Laboratory 9. A 20-mark integrated answer map",
+      "preview": "Integrated answer map — patronage, labour, form and legitimacy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\26_patronage_legitimacy_labour.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 162.09
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 594.013
+        }
+      },
+      "pdf_pages": [
+        62,
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2232,
+      "markdown_body_line_end": 2237,
+      "heading": "Laboratory 12. Revision dialogue: ask the monument the right question",
+      "preview": "Question to ask | Qutb/Quwwat answer | Tughlaq answer | Regional answer",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Question to ask",
+          "Qutb/Quwwat answer",
+          "Tughlaq answer",
+          "Regional answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 710.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 551.89
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2261,
+      "markdown_body_line_end": 2269,
+      "heading": "Laboratory 14. Error log before the examination",
+      "preview": "Error | Why it loses marks | Fast correction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Error",
+          "Why it loses marks",
+          "Fast correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 524.69
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2289,
+      "markdown_body_line_end": 2295,
+      "heading": "Cross-link decision rule",
+      "preview": "If the directive asks about | Bring in | Keep out",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "If the directive asks about",
+          "Bring in",
+          "Keep out"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 691.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 538.09
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2357,
+      "markdown_body_line_end": 2360,
+      "heading": "Art, Architecture & Culture of the Sultanate - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (Art & Culture; also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 157.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 56.024
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2366,
+      "markdown_body_line_end": 2373,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 633.49
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2395,
+      "markdown_body_line_end": 2401,
+      "heading": "2. Key classification / data",
+      "preview": "Phase / style | Features | Examples",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Phase / style",
+          "Features",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 627.89
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2405,
+      "markdown_body_line_end": 2406,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Regional architectural schools connect to `advanced/08_Provincial-Regional-Kingdoms.md`. **Study link:** ⚠️ Art-culture answers should integrate politics: conquest, legitimacy, patronage, technology and craft labour.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 602.89
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 544.022
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2419,
+      "markdown_body_line_end": 2419,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: The same monument can be evidence of conquest, adaptation and synthesis; one-dimensional labels weaken answers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 376.622
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 331.954
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2444,
+      "markdown_body_line_end": 2444,
+      "heading": "Final consolidated topic-specific register notes - revise last",
+      "preview": "Rapid recall visual for Sultanate architecture and culture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\assets\\33_rapid_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 603.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 393.813
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2459,
+      "markdown_body_line_end": 2466,
+      "heading": "B. Chronology and monument ladder",
+      "preview": "Phase | Evidence unit | What to say",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Phase",
+          "Evidence unit",
+          "What to say"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 624.29
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2508,
+      "markdown_body_line_end": 2508,
+      "heading": "G. Rapid recall chain",
+      "preview": "🔑 **Final trap card:** “Sultanate architecture introduced arches and domes” is inferior. Write: “Arches and domes were known earlier; the Sultanate expanded their scientifically constructed, large-scale use with strong mortar, while trabeat",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 640.424
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2523,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Culture as power, technique and labour",
+      "preview": "SULTANATE CULTURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 593.424
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 500.824
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2535,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Trabeate and arcuate load paths",
+      "preview": "TRABEATE -> vertical posts carry a horizontal lintel",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 478.824
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 396.424
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2539,
+      "markdown_body_line_end": 2546,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Rupture, reuse and adaptation",
+      "preview": "QUWWAT-UL-ISLAM -> reused pillars + new ritual and political programme",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 374.424
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 302.224
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2550,
+      "markdown_body_line_end": 2558,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Qutb complex as layered patronage",
+      "preview": "AIBAK -> Quwwat-ul-Islam foundation/reuse + Minar initiation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2562,
+      "markdown_body_line_end": 2571,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Balban to Alai technical sequence",
+      "preview": "ILTUTMISH TOMB -> square-to-dome transition experiment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2575,
+      "markdown_body_line_end": 2583,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Tughlaq form and inference discipline",
+      "preview": "GHIYAS -> Tughlaqabad + tomb + platform/causeway/water setting",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 485.891
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2587,
+      "markdown_body_line_end": 2595,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Regional adaptation matrix",
+      "preview": "BENGAL -> brick/terracotta + curved forms | rainfall/material context",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 463.891
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 381.491
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2599,
+      "markdown_body_line_end": 2606,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Ornament and visual grammar",
+      "preview": "CALLIGRAPHY -> script becomes visual through scale and placement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 359.491
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2610,
+      "markdown_body_line_end": 2617,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Building types and social functions",
+      "preview": "MOSQUE -> congregation, ritual orientation and community visibility",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2621,
+      "markdown_body_line_end": 2631,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Language, literature and music",
+      "preview": "PERSIAN -> chancery + chronicle + poetry | ARABIC -> law/religious scholarship",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2635,
+      "markdown_body_line_end": 2645,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Evidence and conservation ladder",
+      "preview": "1 INSCRIPTION -> patron/date/text/repair claim",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2649,
+      "markdown_body_line_end": 2657,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 11 answer spine",
+      "preview": "DEFINE -> precise structural/cultural term; reject one Sultanate style",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    }
+  ]
+}

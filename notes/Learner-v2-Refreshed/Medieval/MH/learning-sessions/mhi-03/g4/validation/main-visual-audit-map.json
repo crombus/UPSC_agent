@@ -1,0 +1,2587 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty - Complete Topic Package",
+      "preview": "**Subject:** Medieval Indian History | **Paper:** Prelims GS-I + GS-I cultural support | **Topic:** 03 | **Date:** 13 August 2026  **Evidence key:** FACT = directly supported by a named text, inscription, coin, monument or securely routed e",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 649.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 591.824
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 372.822
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 43,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\assets\\medieval-indian-history-03_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 732.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 424.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 57,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 374.556
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 201.554
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 61,
+      "markdown_body_line_end": 69,
+      "heading": "Sources actually used",
+      "preview": "Source class | Exact source | Use and caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Source class",
+          "Exact source",
+          "Use and caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 345.49
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 90,
+      "markdown_body_line_end": 90,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Scope, terminology and governing thesis comprises Scope, terminology and governing thesis as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 114.69
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 48.022
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 105,
+      "markdown_body_line_end": 112,
+      "heading": "Compact visual",
+      "preview": "GHURID OPENING                  MAMLUK CONSOLIDATION                  KHALJI TRANSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 543.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - SCOPE, TERMINOLOGY AND GOVERNING THESIS",
+      "preview": "START / CONCEPT: Scope, terminology and governing thesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Source and method matrix: text, material evidence and silence comprises method matrix, text and material evidence as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 187,
+      "heading": "Evidence matrix",
+      "preview": "Source | Genre / position | What it supports | Necessary limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Source",
+          "Genre / position",
+          "What it supports",
+          "Necessary limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 493.39
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 207,
+      "heading": "Source-use formula",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 229.59
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 168.59
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 235,
+      "heading": "CLOSING RECALL FLOW - SOURCE AND METHOD MATRIX: TEXT, MATERIAL EVIDENCE AND SILENCE",
+      "preview": "START / CONCEPT: Source and method matrix: text, material evidence and silence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 246,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Domestic and productive slavery continued in medieval society, but it should not be conflated with the specific political institution of military household slavery.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 273,
+      "heading": "Compact institution map",
+      "preview": "purchase / capture in Eurasian slave markets",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 179.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 58.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "Memory hook",
+      "preview": "**MAMLUK = trained household service -> manumission -> office -> possible sovereignty; not plantation slavery and not permanent legal bondage.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 429.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 363.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 312,
+      "heading": "CLOSING RECALL FLOW - MILITARY SLAVERY, MANUMISSION AND ELITE HOUSEHOLD NETWORKS",
+      "preview": "START / CONCEPT: Military slavery, manumission and elite household networks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 341.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 130.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 323,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Aibak inherited commanders, garrisons, forts and tributary arrangements created after Tarain and Chandawar.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 349,
+      "heading": "Succession problem map",
+      "preview": "Muizz al-Din dies, 1206",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 316.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 362,
+      "markdown_body_line_end": 368,
+      "heading": "Foundation challenge",
+      "preview": "Problem | Early response | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Problem",
+          "Early response",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 376,
+      "markdown_body_line_end": 393,
+      "heading": "CLOSING RECALL FLOW - GHURID LEGACY AND THE FOUNDATION CHALLENGE AFTER 1206",
+      "preview": "START / CONCEPT: Ghurid legacy and the foundation challenge after 1206",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 534.49
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 293.49
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 404,
+      "markdown_body_line_end": 404,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Aibak's political centre is best described as Lahore-Delhi rather than forced into one modern capital label.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 153.69
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 101.222
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 425,
+      "heading": "Evidence-led profile",
+      "preview": "Dimension | Evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 684.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 452.69
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 459,
+      "heading": "CLOSING RECALL FLOW - QUTB AL-DIN AIBAK: AUTHORITY, CAMPAIGNS, LAHORE-DELHI AND LIMITS",
+      "preview": "START / CONCEPT: Qutb al-Din Aibak: authority, campaigns, Lahore-Delhi and limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 470,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "His accession was not automatic hereditary succession; Delhi's political-military supporters invited or accepted him against Aram Shah.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 494,
+      "heading": "Rival-elimination flow",
+      "preview": "Aram Shah at Lahore",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 179.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 88.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 533,
+      "heading": "CLOSING RECALL FLOW - ILTUTMISH I: ACCESSION, ARAM SHAH, YILDIZ AND QUBACHA",
+      "preview": "START / CONCEPT: Iltutmish I: accession, Aram Shah, Yildiz and Qubacha",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 447.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 246.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The policy is best read as survival diplomacy by a still-fragile state, not as a battlefield victory over the Mongols.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 120.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 68.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 567,
+      "heading": "Map in text",
+      "preview": "NORTH-WEST:  Lahore -> Multan -> Uch -> lower Sind / Indus",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 547.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 588,
+      "markdown_body_line_end": 593,
+      "heading": "Frontier strategy",
+      "preview": "Theatre | Policy | What it proves",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Theatre",
+          "Policy",
+          "What it proves"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 189.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 79.69
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 618,
+      "heading": "CLOSING RECALL FLOW - ILTUTMISH II: MONGOLS, BENGAL, RAJPUT FRONTIERS AND REGIONAL LIMITS",
+      "preview": "START / CONCEPT: Iltutmish II: Mongols, Bengal, Rajput frontiers and regional limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 629,
+      "markdown_body_line_end": 629,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "MATERIAL EVIDENCE: Iltutmish is associated with strengthening a stable silver tanka and copper jital currency system, with coin legends and mints expressing sovereign authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 656,
+      "heading": "Institution flow: iqta is not land ownership",
+      "preview": "SULTAN claims state revenue",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 707,
+      "heading": "CLOSING RECALL FLOW - ILTUTMISH III: IQTA, COINAGE, CALIPHAL INVESTITURE AND DELHI",
+      "preview": "START / CONCEPT: Iltutmish III: iqta, coinage, caliphal investiture and Delhi",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 718,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The crisis was a failure of institutionalised succession and elite power-sharing, not proof that the Sultanate itself disappeared.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 733,
+      "markdown_body_line_end": 743,
+      "heading": "Succession tree",
+      "preview": "Iltutmish",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 165.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 64.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 765,
+      "heading": "Causal chain",
+      "preview": "personal monarchy under Iltutmish",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 517.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 436.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 790,
+      "heading": "CLOSING RECALL FLOW - SUCCESSION CRISIS: RUKNUDDIN, SHAH TURKAN AND THE UNSTABLE DECADE",
+      "preview": "START / CONCEPT: Succession crisis: Ruknuddin, Shah Turkan and the unstable decade",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 345.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 114.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 801,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The office of amir-i-akhur controlled royal stables, horses and access; Yaqut's elevation therefore had institutional importance beyond ethnicity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 823,
+      "heading": "Raziya factor table",
+      "preview": "Factor | Named evidence | Significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Factor",
+          "Named evidence",
+          "Significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 446.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 215.522
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 865,
+      "heading": "CLOSING RECALL FLOW - RAZIYA: GENDER, OFFICE, NOBILITY AND SOURCE CRITICISM",
+      "preview": "START / CONCEPT: Raziya: gender, office, nobility and source criticism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 549.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 358.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 876,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Balban's rise shows that the Chihalgani problem was not simply \"nobles versus king.\" It was also one noble versus peer equality, followed by that victor's attempt to transform personal supremacy into a theory of monarchy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 190.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 124.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 898,
+      "markdown_body_line_end": 910,
+      "heading": "Monarchy-nobility causal diagram",
+      "preview": "Iltutmish promotes elite slave officers",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 553.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 432.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 945,
+      "heading": "CLOSING RECALL FLOW - CHIHALGANI, LATER RULERS, NASIRUDDIN MAHMUD AND BALBAN'S RISE",
+      "preview": "START / CONCEPT: Chihalgani, later rulers, Nasiruddin Mahmud and Balban's rise",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 956,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Court ritual was not decorative excess; it was a technology for converting distance and ceremony into authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 354.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 977,
+      "heading": "Kingship architecture",
+      "preview": "Instrument | Evidence / practice | Political function | Caveat",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Instrument",
+          "Evidence / practice",
+          "Political function",
+          "Caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 608.39
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1017,
+      "heading": "CLOSING RECALL FLOW - BALBAN I: KINGSHIP IDEOLOGY, COURT RITUAL AND NOBLE CONTROL",
+      "preview": "START / CONCEPT: Balban I: kingship ideology, court ritual and noble control",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1028,
+      "markdown_body_line_end": 1028,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "They prove the political ideal and possible enforcement, not equal access to justice for every subject.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1043,
+      "markdown_body_line_end": 1050,
+      "heading": "Policy matrix",
+      "preview": "Area | Measure | Evidence-led significance | Limit / cost",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Area",
+          "Measure",
+          "Evidence-led significance",
+          "Limit / cost"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 566.89
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1068,
+      "markdown_body_line_end": 1075,
+      "heading": "Answer chain",
+      "preview": "disorder blocks road / revenue",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 250.69
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 179.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1079,
+      "markdown_body_line_end": 1096,
+      "heading": "CLOSING RECALL FLOW - BALBAN II: ADMINISTRATION, JUSTICE, ARMY AND LAW/ORDER",
+      "preview": "START / CONCEPT: Balban II: administration, justice, army and law/order",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 150
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1107,
+      "markdown_body_line_end": 1107,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Balban was a successful defensive consolidator, not a great territorial conqueror.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 464.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 412.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1122,
+      "markdown_body_line_end": 1134,
+      "heading": "Frontier strategy",
+      "preview": "MONGOL PRESSURE WEST OF LAHORE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 231.824
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 110.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1153,
+      "markdown_body_line_end": 1158,
+      "heading": "Success-limit matrix",
+      "preview": "Claim | Evidence | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Evidence",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 528.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 385.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1183,
+      "heading": "CLOSING RECALL FLOW - BALBAN III: MONGOL FRONTIER, BENGAL REBELLION, SUCCESS AND LIMIT",
+      "preview": "START / CONCEPT: Balban III: Mongol frontier, Bengal rebellion, success and limit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 293.69
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 82.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1194,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Balban's campaigns show that communication was an outcome of coercive security, not a permanent given.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1209,
+      "markdown_body_line_end": 1218,
+      "heading": "Bounded institution matrix",
+      "preview": "Institution | Core function | Evidence-safe caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Institution",
+          "Core function",
+          "Evidence-safe caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 446.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 162.622
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1241,
+      "markdown_body_line_end": 1249,
+      "heading": "State formula",
+      "preview": "CENTRAL APEX: sultan + household + differentiated offices + royal force",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 566.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 485.091
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1253,
+      "markdown_body_line_end": 1270,
+      "heading": "CLOSING RECALL FLOW - STATE INSTITUTIONS: SULTAN, NOBILITY, OFFICES, IQTA, ARMY, JUSTICE AND COMMUNICATION",
+      "preview": "START / CONCEPT: State institutions: sultan, nobility, offices, iqta, army, justice and communication",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 450.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 229.091
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1281,
+      "markdown_body_line_end": 1281,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "\"Persianate\" describes a transregional language and court culture, not an ethnic identity or absence of Indian participation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1296,
+      "markdown_body_line_end": 1303,
+      "heading": "Urban-network table",
+      "preview": "Node | Political-economic role | Cultural significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Node",
+          "Political-economic role",
+          "Cultural significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 567.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 346.622
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1345,
+      "heading": "CLOSING RECALL FLOW - SOCIAL, ECONOMIC AND CULTURAL CHANGE: CITIES, PERSIANATE COURT AND INDIAN INTERMEDIARIES",
+      "preview": "START / CONCEPT: Social, economic and cultural change: cities, Persianate court and Indian intermediaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 634.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 423.091
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1356,
+      "markdown_body_line_end": 1356,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "UNESCO and ASI describe Qutb as a protected ensemble whose authenticity includes form, material, inscription and repair history.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 283.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 216.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1371,
+      "markdown_body_line_end": 1378,
+      "heading": "Architecture comparison",
+      "preview": "Monument | Patronage / phase | What the evidence shows | Caveat",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Monument",
+          "Patronage / phase",
+          "What the evidence shows",
+          "Caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 461.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1395,
+      "heading": "Technical sequence",
+      "preview": "reused pillars + corbelled / trabeate habits",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 306.49
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 245.49
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1403,
+      "markdown_body_line_end": 1420,
+      "heading": "CLOSING RECALL FLOW - ARCHITECTURE: QUTB COMPLEX, AJMER, SULTAN GHARI AND BALBAN'S TOMB",
+      "preview": "START / CONCEPT: Architecture: Qutb complex, Ajmer, Sultan Ghari and Balban's tomb",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1431,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: The Sultanate was centralised in claim and apex design, but networked in operation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 427.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1446,
+      "markdown_body_line_end": 1452,
+      "heading": "Debate matrix",
+      "preview": "Model | Evidence supporting it | Evidence against overstatement",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Model",
+          "Evidence supporting it",
+          "Evidence against overstatement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 567.09
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1464,
+      "markdown_body_line_end": 1470,
+      "heading": "Centre-periphery model",
+      "preview": "CORE: Delhi + upper doab + nearby forts = denser royal extraction and response",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 380.29
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 319.29
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1478,
+      "markdown_body_line_end": 1495,
+      "heading": "CLOSING RECALL FLOW - NATURE OF THE EARLY SULTANATE: CENTRALISATION VERSUS NEGOTIATED NETWORK RULE",
+      "preview": "START / CONCEPT: Nature of the early Sultanate: centralisation versus negotiated network rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1506,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: The transition was not simply \"weak successor after strong king.\" Balban's narrow elite base, elimination of peers, failed succession and the growing importance of Khalji, Indian Muslim and other non-monopoly groups shaped t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 318.424
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1521,
+      "markdown_body_line_end": 1526,
+      "heading": "Transition timeline",
+      "preview": "Date / phase | Development | Historical meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Date / phase",
+          "Development",
+          "Historical meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1540,
+      "markdown_body_line_end": 1543,
+      "heading": "Continuity and change",
+      "preview": "CONTINUITY: Delhi, iqta, Persian chancery, cavalry state, Mongol defence",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 374.49
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 343.49
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1551,
+      "markdown_body_line_end": 1568,
+      "heading": "CLOSING RECALL FLOW - DECLINE OF THE MAMLUK LINE AND THE KHALJI TRANSITION",
+      "preview": "START / CONCEPT: Decline of the Mamluk line and the Khalji transition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 280
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 266.09
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        42,
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1579,
+      "markdown_body_line_end": 1579,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A-I-R-B: Aibak opens, Iltutmish integrates, Raziya reveals noble-gender conflict, Balban buttresses monarchy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1594,
+      "markdown_body_line_end": 1601,
+      "heading": "Historiographical lenses",
+      "preview": "Lens | Contribution | Risk",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Lens",
+          "Contribution",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 446.424
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 216.222
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1605,
+      "markdown_body_line_end": 1620,
+      "heading": "Timeline ladder",
+      "preview": "1206 Aibak independent at Lahore",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1647,
+      "markdown_body_line_end": 1653,
+      "heading": "Universal answer spine",
+      "preview": "DIRECT THESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 252.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 191.491
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1657,
+      "markdown_body_line_end": 1674,
+      "heading": "CLOSING RECALL FLOW - HISTORIOGRAPHY, TERMINOLOGY, TIMELINE AND ANSWER-WRITING TOOLKIT",
+      "preview": "START / CONCEPT: Historiography, terminology, timeline and answer-writing toolkit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1685,
+      "markdown_body_line_end": 1685,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This heritage record supports bounded attribution and conservation context; it does not prove uniform territorial control or remove the need for textual, numismatic and epigraphic source criticism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 466.691
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 400.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1703,
+      "markdown_body_line_end": 1720,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1731,
+      "markdown_body_line_end": 1737,
+      "heading": "Terminology, source and succession controls",
+      "preview": "Control | Exam-safe formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Control",
+          "Exam-safe formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 424.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 237.49
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3025,
+      "markdown_body_line_end": 3028,
+      "heading": "Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1206–1526)* — ch",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 569.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 481.824
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3034,
+      "markdown_body_line_end": 3043,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 454.324
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 260.122
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3063,
+      "markdown_body_line_end": 3072,
+      "heading": "2. Key classification / data",
+      "preview": "Theme | ✅ Evidence from Satish Chandra | Analytical use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Theme",
+          "✅ Evidence from Satish Chandra",
+          "Analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 669.891
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 442.09
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3076,
+      "markdown_body_line_end": 3077,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Ghurid political inheritance → `advanced/02_Ghaznavids-and-Ghurian-Invasions.md`. **Study link:** ⚠️ Later centralisation under Alauddin → `advanced/04_Khaljis-Alauddin.md`; chronology spine → `00_Master-Chronology.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 417.09
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 358.222
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3091,
+      "markdown_body_line_end": 3091,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: The Mamluk story is about state formation under pressure — not just a list of rulers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 173.622
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 143.154
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3283,
+      "markdown_body_line_end": 3292,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Mamluk century chronology",
+      "preview": "1206-10 -> Aibak; 1210-11 -> Aram Shah rupture; 1211-36 -> Iltutmish",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 472.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 380.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3296,
+      "markdown_body_line_end": 3302,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Military slavery and household power",
+      "preview": "PURCHASE / CAPTURE -> household training -> patronage and command",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 358.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 296.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3306,
+      "markdown_body_line_end": 3312,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Evidence and source discipline",
+      "preview": "HASAN NIZAMI -> Aibak conquest world | panegyric and selectivity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3316,
+      "markdown_body_line_end": 3322,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Conquest to consolidation",
+      "preview": "GHURID VICTORIES -> forts, garrisons and delegated commanders",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3326,
+      "markdown_body_line_end": 3334,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Iltutmish and the rival-frontier problem",
+      "preview": "YILDIZ / GHAZNI <- NORTH-WEST -> QUBACHA / MULTAN-SIND",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 536.891
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3338,
+      "markdown_body_line_end": 3346,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Iltutmish's institutional bundle",
+      "preview": "RIVALS -> Yildiz + Qubacha; FRONTIERS -> Bengal + Rajput forts + Mongols",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 514.891
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3350,
+      "markdown_body_line_end": 3357,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Succession and Raziya",
+      "preview": "ILtutmish's death -> weak succession rules + court faction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 338.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3361,
+      "markdown_body_line_end": 3368,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Crown and Chihalgani",
+      "preview": "ELITE SLAVE OFFICERS              SULTANATE CROWN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 316.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3372,
+      "markdown_body_line_end": 3381,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Balban's kingship architecture",
+      "preview": "DIVINE SHADOW / MAJESTY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3385,
+      "markdown_body_line_end": 3395,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Balban's security state",
+      "preview": "MEWAT / DOAB disorder -> roads, policing, forts and coercion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 569.891
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3399,
+      "markdown_body_line_end": 3408,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Architecture as political evidence",
+      "preview": "AIBAK -> Quwwat-ul-Islam + Arhai Din ka Jhonpra + Qutb Minar beginning",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 455.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3412,
+      "markdown_body_line_end": 3419,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 03 answer spine",
+      "preview": "OPEN -> foundation was post-conquest state formation, not one event",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 433.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    }
+  ]
+}

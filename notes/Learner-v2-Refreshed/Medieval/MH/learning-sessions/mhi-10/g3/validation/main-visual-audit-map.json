@@ -1,0 +1,2166 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "The Bhakti & Sufi Movements - Complete Topic Package",
+      "preview": "Bhakti and Sufi plural devotional field cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\00_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 772.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 515.567
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "The Bhakti & Sufi Movements - Complete Topic Package",
+      "preview": "**Subject:** Medieval Indian History | **GS Paper:** GS-I (History; Art & Culture) | **Export date:** 2026-08-17 **Approval:** false — awaiting explicit user approval. **Evidence tags:** [FACT] source-grounded; [ANALYSIS] evidence-led synth",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 515.567
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 456.699
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 398.699
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 179.698
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 42,
+      "markdown_body_line_end": 42,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\medieval-indian-history-10_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 546.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 238.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 56,
+      "markdown_body_line_end": 62,
+      "heading": "Guided Tutor roadmap",
+      "preview": "Stage | Subtopic | Retrieval output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Stage",
+          "Subtopic",
+          "Retrieval output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 721.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 590.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 70,
+      "markdown_body_line_end": 70,
+      "heading": "01. Roadmap: a plural field, not two monoliths",
+      "preview": "01. Roadmap: a plural field, not two monoliths",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\01_chronological_river.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 496.29
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 239.565
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 92,
+      "markdown_body_line_end": 92,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rabia of Basra is conventionally associated with disinterested love of God: devotion not reduced to fear of punishment or desire for reward.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 511.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 444.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 105,
+      "markdown_body_line_end": 105,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "02. Early Sufi development: love, fana and disciplined community",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\02_devotion_love_guru_pir.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 286.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 117,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 02. Early Sufi development: love, fana and disciplined community",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\03_silsilah_khanqah_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 476.69
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 219.965
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 123,
+      "markdown_body_line_end": 140,
+      "heading": "CLOSING RECALL FLOW - EARLY SUFI DEVELOPMENT: LOVE, FANA AND DISCIPLINED COMMUNITY",
+      "preview": "START / CONCEPT: Early Sufi development: love, fana and disciplined community",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 151,
+      "markdown_body_line_end": 151,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The basic source distinguishes ba-shara orders, understood as bound by the sharia, from be-shara wandering saints or qalandars who were not similarly law-bound.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 164,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "03. Ba-shara, be-shara and the institutional grammar of Sufism",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\04_ba_shara_be_shara.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 211.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 178,
+      "markdown_body_line_end": 195,
+      "heading": "CLOSING RECALL FLOW - BA-SHARA, BE-SHARA AND THE INSTITUTIONAL GRAMMAR OF SUFISM",
+      "preview": "START / CONCEPT: Ba-shara, be-shara and the institutional grammar of Sufism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 206,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It is that a causal explanation of Chishti popularity must not invent a single proselytising programme when service, discipline, counsel, music and shared local space offer more source-grounded mechanisms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 398.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 219,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "04. The Chishtis: line, place, service and state-distance",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\05_chishti_lineage_geography.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 172.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 250,
+      "heading": "CLOSING RECALL FLOW - THE CHISHTIS: LINE, PLACE, SERVICE AND STATE-DISTANCE",
+      "preview": "START / CONCEPT: The Chishtis: line, place, service and state-distance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 261,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sama is especially useful as a mechanism: poetry and listening can make a doctrinal idiom emotionally shareable across levels of literacy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 274,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "05. Chishti khanqah, sama and the social ecosystem",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\06_chishti_khanqah_ecosystem.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 177.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 286,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 05. Chishti khanqah, sama and the social ecosystem",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\08_sama_debate.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 251.767
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 290,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 05. Chishti khanqah, sama and the social ecosystem",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\09_yogic_interaction_boundary.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 296,
+      "markdown_body_line_end": 313,
+      "heading": "CLOSING RECALL FLOW - CHISHTI KHANQAH, SAMA AND THE SOCIAL ECOSYSTEM",
+      "preview": "START / CONCEPT: Chishti khanqah, sama and the social ecosystem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 324,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use a four-cell comparison in Mains answers: (1) geography—Ajmer/Delhi/Ajodhan versus Multan/Punjab; (2) political posture—relative Chishti distance versus greater Suhrawardi acceptance of grants; (3) ethical-social idiom—poverty/service ve",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 337,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "06. Suhrawardis: comparison without a moral binary",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\07_chishti_suhrawardi_compare.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 158.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 368,
+      "heading": "CLOSING RECALL FLOW - SUHRAWARDIS: COMPARISON WITHOUT A MORAL BINARY",
+      "preview": "START / CONCEPT: Suhrawardis: comparison without a moral binary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 364
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 379,
+      "markdown_body_line_end": 379,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "These are distinct doctrinal articulations; exact dates and some transmission histories require caution, especially for Nimbarka.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 339.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 392,
+      "markdown_body_line_end": 392,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. Southern devotional roots and distinct Vedanta articulations",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\11_vedanta_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 167.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 404,
+      "markdown_body_line_end": 404,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 07. Southern devotional roots and distinct Vedanta articulations",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\10_alvar_nayanar_roots.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 251.767
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 427,
+      "heading": "CLOSING RECALL FLOW - SOUTHERN DEVOTIONAL ROOTS AND DISTINCT VEDANTA ARTICULATIONS",
+      "preview": "START / CONCEPT: Southern devotional roots and distinct Vedanta articulations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 505.367
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 284.367
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 438,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The best historical statement is therefore: Ramananda traditions became an important vehicle for imagining wider access to devotion; the exact genealogical list should be used as tradition unless corroborated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 116.167
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 49.499
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 451,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "08. Northward transmission, Ramananda and hagiographic caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\13_ramananda_hagiography.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 393.967
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 463,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 08. Northward transmission, Ramananda and hagiographic caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\12_northward_transmission.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 486,
+      "heading": "CLOSING RECALL FLOW - NORTHWARD TRANSMISSION, RAMANANDA AND HAGIOGRAPHIC CAUTION",
+      "preview": "START / CONCEPT: Northward transmission, Ramananda and hagiographic caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 505.367
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 294.367
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 497,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kabir joined devotion to a formless divine with an ethical attack on ritualism and hierarchy, but the social reach and exact wording of his teaching must be reconstructed through a layered corpus.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 154.567
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 87.899
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 510,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "09. Kabir: critique, corpus and institutional limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\14_kabir_argument_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 683.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 427.167
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 524,
+      "markdown_body_line_end": 541,
+      "heading": "CLOSING RECALL FLOW - KABIR: CRITIQUE, CORPUS AND INSTITUTIONAL LIMITS",
+      "preview": "START / CONCEPT: Kabir: critique, corpus and institutional limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 552,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Later Gurus, communities, institutions, texts and political developments shaped Sikh history in ways that should not be treated as already complete in Nanak’s lifetime.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 315.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 565,
+      "markdown_body_line_end": 565,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Guru Nanak: ethical monotheism and the householder path",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\15_nanak_householder_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 577,
+      "markdown_body_line_end": 577,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 10. Guru Nanak: ethical monotheism and the householder path",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\16_kabir_nanak_compare.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 265.967
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 583,
+      "markdown_body_line_end": 600,
+      "heading": "CLOSING RECALL FLOW - GURU NANAK: ETHICAL MONOTHEISM AND THE HOUSEHOLDER PATH",
+      "preview": "START / CONCEPT: Guru Nanak: ethical monotheism and the householder path",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 505.367
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 284.367
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 611,
+      "markdown_body_line_end": 611,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The word “reorientation” does not mean that Chaitanya invented Bhakti.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 163.567
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 111.099
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 624,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11. Chaitanya and the reorientation of Bhakti",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\17_chaitanya_kirtan.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 718.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 461.567
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 638,
+      "markdown_body_line_end": 655,
+      "heading": "CLOSING RECALL FLOW - CHAITANYA AND THE REORIENTATION OF BHAKTI",
+      "preview": "START / CONCEPT: Chaitanya and the reorientation of Bhakti",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 666,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "But the contribution is not best measured by claiming a single “national culture” before modern nationalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 679,
+      "markdown_body_line_end": 679,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "12. Bhakti literature, vernacularisation and cultural contribution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\18_bhakti_language_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 215.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 691,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 12. Bhakti literature, vernacularisation and cultural contribution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\19_women_devotional_agency.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 223.367
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 695,
+      "markdown_body_line_end": 695,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 12. Bhakti literature, vernacularisation and cultural contribution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\20_vernacularisation_mechanism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 701,
+      "markdown_body_line_end": 718,
+      "heading": "CLOSING RECALL FLOW - BHAKTI LITERATURE, VERNACULARISATION AND CULTURAL CONTRIBUTION",
+      "preview": "START / CONCEPT: Bhakti literature, vernacularisation and cultural contribution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 729,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Saguna traditions may be associated with devotion to a divine form such as Rama or Krishna; nirguna language is associated in this topic with Kabir and Nanak’s critique of empty ritual and emphasis on one God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 374.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 742,
+      "markdown_body_line_end": 742,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "13. Saguna, nirguna, gender and social reach",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\21_caste_challenge_limits.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 216.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        31,
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 756,
+      "markdown_body_line_end": 773,
+      "heading": "CLOSING RECALL FLOW - SAGUNA, NIRGUNA, GENDER AND SOCIAL REACH",
+      "preview": "START / CONCEPT: Saguna, nirguna, gender and social reach",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 784,
+      "markdown_body_line_end": 784,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "“Parallel exchange” is sometimes clearer than “syncretism” because it preserves difference and avoids implying an effortless fusion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 797,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. Bhakti–Sufi comparison: symbiosis, parallel exchange, differences",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\23_symbiosis_not_borrowing.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 201.224
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 809,
+      "markdown_body_line_end": 809,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 14. Bhakti–Sufi comparison: symbiosis, parallel exchange, differences",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\22_bhakti_sufi_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 251.767
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        34,
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 832,
+      "heading": "CLOSING RECALL FLOW - BHAKTI-SUFI COMPARISON: SYMBIOSIS, PARALLEL EXCHANGE, DIFFERENCES",
+      "preview": "START / CONCEPT: Bhakti–Sufi comparison: symbiosis, parallel exchange, differences",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 492.367
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 271.367
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 843,
+      "markdown_body_line_end": 843,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sources, unusual terms and forward links comprises Sources, unusual terms and forward links as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 164.767
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 98.099
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 856,
+      "markdown_body_line_end": 856,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "15. Sources, unusual terms and forward links",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\24_source_criticism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 701.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 444.367
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 868,
+      "markdown_body_line_end": 868,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 15. Sources, unusual terms and forward links",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\25_kulah_daran_caution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 872,
+      "markdown_body_line_end": 872,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Supplementary visual for 15. Sources, unusual terms and forward links",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\assets\\26_pyq_mains_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 878,
+      "markdown_body_line_end": 895,
+      "heading": "CLOSING RECALL FLOW - SOURCES, UNUSUAL TERMS AND FORWARD LINKS",
+      "preview": "START / CONCEPT: Sources, unusual terms and forward links",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 229.443
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 38.443
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 908,
+      "markdown_body_line_end": 908,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It is used only as a bounded public-memory bridge to Kabir's continuing association with social harmony, reform and accessible verse.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 678.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 612.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 944,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 322.024
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 91.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2124,
+      "markdown_body_line_end": 2127,
+      "heading": "The Bhakti & Sufi Movements - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims; Art & Culture). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 274.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 187.424
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2133,
+      "markdown_body_line_end": 2143,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 587.89
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2164,
+      "markdown_body_line_end": 2171,
+      "heading": "2. Key classification / data",
+      "preview": "Debate / concept | Source-based position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Debate / concept",
+          "Source-based position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 595.49
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2175,
+      "markdown_body_line_end": 2176,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Religious culture here links to language/literature in `advanced/11_Sultanate-Art-and-Architecture.md`. **Study link:** ⚠️ Compare Chishti distance from politics with Suhrawardi acceptance of grants; compare Kabir's nirgun",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 570.49
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 511.622
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2189,
+      "markdown_body_line_end": 2189,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Similar vocabulary (love, devotion, guru/pir) does not mean identical theology or direct one-way borrowing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 344.222
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 299.554
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2213,
+      "markdown_body_line_end": 2214,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 563.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 518.824
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2220,
+      "markdown_body_line_end": 2223,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 467.224
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 349.822
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2230,
+      "markdown_body_line_end": 2230,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 293.422
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 248.754
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2247,
+      "markdown_body_line_end": 2255,
+      "heading": "B. Sufi institutional recall",
+      "preview": "Term | Revision meaning | Trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Term",
+          "Revision meaning",
+          "Trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 557.49
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2259,
+      "markdown_body_line_end": 2264,
+      "heading": "C. Chishti-Suhrawardi answer grid",
+      "preview": "Axis | Chishti tendency | Suhrawardi tendency | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Chishti tendency",
+          "Suhrawardi tendency",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 535.49
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 398.088
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2276,
+      "markdown_body_line_end": 2283,
+      "heading": "E. Saints as answer evidence",
+      "preview": "Figure | Claim → evidence → qualification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Figure",
+          "Claim → evidence → qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 256.888
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 49.087
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2311,
+      "markdown_body_line_end": 2311,
+      "heading": "H. Answer spines and rapid recall",
+      "preview": "**MEMORY HOOK:** **LOVE–GUIDE–LANGUAGE–LIMIT.** Love/devotion; guru–pir; vernacular/performance; limits of source and social transformation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 371.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 327.024
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2317,
+      "markdown_body_line_end": 2326,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Plural devotional chronology",
+      "preview": "6th-9th c. -> Alvar and Nayanar devotional corpora in the south",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2330,
+      "markdown_body_line_end": 2337,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Bhakti field without flattening",
+      "preview": "SAGUNA -> devotion through embodied divine forms and narratives",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2341,
+      "markdown_body_line_end": 2348,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Sufi vocabulary and transmission",
+      "preview": "SILSILAH -> authorised chain of spiritual transmission",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2352,
+      "markdown_body_line_end": 2360,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Chishti network and social credibility",
+      "preview": "AJMER: Muinuddin Chishti",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 401.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2364,
+      "markdown_body_line_end": 2371,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Chishti-Suhrawardi comparison",
+      "preview": "CHISHTI                         SUHRAWARDI",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 379.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 307.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2375,
+      "markdown_body_line_end": 2382,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Southern roots and Vedanta paths",
+      "preview": "ALVARS -> Tamil Vaishnava devotion and hymn traditions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2386,
+      "markdown_body_line_end": 2392,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Northward transmission with source caution",
+      "preview": "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2403,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Kabir critique and corpus method",
+      "preview": "CRITIQUE -> empty ritual, inherited rank and sectarian certainty",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 536.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2407,
+      "markdown_body_line_end": 2413,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Nanak householder ethic",
+      "preview": "ONE DIVINE REALITY + REMEMBRANCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 514.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2417,
+      "markdown_body_line_end": 2425,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Chaitanya public devotion",
+      "preview": "KRISHNA DEVOTION + EMOTIONAL SURRENDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2429,
+      "markdown_body_line_end": 2438,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Bhakti-Sufi interaction without merger",
+      "preview": "SHARED FIELD -> towns, crafts, vernaculars, music, pilgrimage and service",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 233.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2442,
+      "markdown_body_line_end": 2449,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 10 answer spine",
+      "preview": "OPEN -> plural devotional and mystical currents, not two monoliths",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    }
+  ]
+}

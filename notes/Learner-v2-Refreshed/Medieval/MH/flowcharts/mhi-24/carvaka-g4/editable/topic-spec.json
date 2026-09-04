@@ -1,0 +1,1183 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-24",
+  "subject": "Medieval-Indian-History",
+  "title": "MUGHAL SOCIETY, ECONOMY & CULTURE",
+  "short_route": "LAYERED SOCIETY, NOT A → NOBILITY: MANSAB, HOUSEHOLD AND → ZAMINDARS ACROSS A SPECTRUM → CULTIVATORS AND LAYERED RIGHTS → WOMEN, WORK AND SOURCE → TOWNS AND THE MIDDLE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-24-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "c976bb9798738aa407df02e422d1e8f6a369d626e6427283be1d41bf46692f1e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LAYERED SOCIETY, NOT A COURT-PEASANT BINARY",
+      "structural_type": "social-pyramid",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "LAYERED SOCIETY, NOT A COURT-PEASANT BINARY",
+          "role": "caution"
+        },
+        {
+          "text": "LOCAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "MERCHANTS + CLERKS + PROFESSIONALS + MASTER ARTISANS +",
+          "role": "comparison"
+        },
+        {
+          "text": "KHUD-KASHT + RAIYATI/MUZARIAN + PAHI-KASHT + LABOUR/SERVICE GROUPS",
+          "role": "evidence"
+        },
+        {
+          "text": "RANK + CASTE/JATI + LINEAGE + RELIGION + GENDER",
+          "role": "primary"
+        },
+        {
+          "text": "SERVICE + COMMERCE + MIGRATION + CULTIVATION + PATRONAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "HIERARCHY AND MOBILITY COEXIST; BERNIER'S BINARY IS INADEQUATE.",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TOP → emperor/princes/nobles",
+        "LOCAL POWER → rajas/zamindars",
+        "MIDDLE → merchants + clerks + professionals + master artisans + lower service",
+        "RURAL → khud-kasht + raiyati/muzarian + pahi-kasht + labour/service groups",
+        "AXES → rank + caste/jati + lineage + religion + gender + locality + slavery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TOP → emperor/princes/nobles",
+            "LOCAL POWER → rajas/zamindars",
+            "MIDDLE → merchants + clerks + professionals + master artisans + lower service"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RURAL → khud-kasht + raiyati/muzarian + pahi-kasht + labour/service groups",
+            "AXES → rank + caste/jati + lineage + religion + gender + locality + slavery",
+            "MOBILITY → service + commerce + migration + cultivation + patronage"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → hierarchy and mobility coexist; Bernier's binary is inadequate.",
+            "MUST REMEMBER: Peasants, zamindars, artisans, merchants and nobles occupied unequal positions within an agrarian-commercial economy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → hierarchy and mobility coexist; Bernier's binary is inadequate.",
+      "source_references": [
+        "Social structure",
+        "Hierarchy",
+        "Mobility",
+        "Regional variation",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "NOBILITY: MANSAB, HOUSEHOLD AND REPRODUCTION",
+      "structural_type": "institution-household",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MANSAB, HOUSEHOLD AND REPRODUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "RANKED SERVICE ARISTOCRACY; MANSAB/JAGIR/OFFICE/HOUSEHOLD",
+          "role": "outcome"
+        },
+        {
+          "text": "IMMIGRANT AND INDIA-BORN IRANIS/TURANIS + INDIAN GROUPS",
+          "role": "comparison"
+        },
+        {
+          "text": "LATE AURANGZEB",
+          "role": "evidence"
+        },
+        {
+          "text": "UNDER 10% OF 1000-ZAT+ NOBLES BORN OUTSIDE INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "RETAINERS, STABLES, MANSIONS, PATRONAGE AND COMMERCE",
+          "role": "outcome"
+        },
+        {
+          "text": "KINSHIP HELPS BUT RANK REMAINS IMPERIAL AND TRANSFERABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "NEITHER FOREIGN CASTE NOR MODERN BUREAUCRACY ALONE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORM → ranked service aristocracy; mansab/jagir/office/household",
+        "ORIGIN → immigrant and India-born Iranis/Turanis + Indian groups",
+        "LATE AURANGZEB → under 10% of 1000-zat+ nobles born outside India",
+        "HOUSEHOLD → retainers, stables, mansions, patronage and commerce",
+        "REPRODUCTION → kinship helps but rank remains imperial and transferable"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FORM → ranked service aristocracy; mansab/jagir/office/household",
+            "ORIGIN → immigrant and India-born Iranis/Turanis + Indian groups"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LATE AURANGZEB → under 10% of 1000-zat+ nobles born outside India",
+            "HOUSEHOLD → retainers, stables, mansions, patronage and commerce"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "REPRODUCTION → kinship helps but rank remains imperial and transferable",
+            "TRAP → neither foreign caste nor modern bureaucracy alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → neither foreign caste nor modern bureaucracy alone.",
+      "source_references": [
+        "Mansab",
+        "Nobility",
+        "Household",
+        "Khanazad",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ZAMINDARS ACROSS A SPECTRUM",
+      "structural_type": "scale-spectrum",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ZAMINDARS ACROSS A SPECTRUM",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE CLAIMANT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARMED RAJA",
+          "role": "comparison"
+        },
+        {
+          "text": "HEREDITARY LOCAL CLAIMS/PERQUISITES; NOT ABSOLUTE MODERN PROPERTY",
+          "role": "caution"
+        },
+        {
+          "text": "GARHI + RETAINERS + CASTE/CLAN LINKS + REVENUE MEDIATION",
+          "role": "primary"
+        },
+        {
+          "text": "DISCIPLINE + NEGOTIATE + RECRUIT + USE FOR CULTIVATION/COLLECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSFERABLE IMPERIAL REVENUE ASSIGNEE; CATEGORY DIFFERS",
+          "role": "comparison"
+        },
+        {
+          "text": "PILLAR AND CONSTRAINT OF MUGHAL RURAL AUTHORITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RANGE → village claimant → deshmukh/taluqdar → armed raja",
+        "RIGHTS → hereditary local claims/perquisites; not absolute modern property",
+        "POWER → garhi + retainers + caste/clan links + revenue mediation",
+        "STATE → discipline + negotiate + recruit + use for cultivation/collection",
+        "JAGIRDAR → transferable imperial revenue assignee; category differs"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RANGE → village claimant → deshmukh/taluqdar → armed raja",
+            "RIGHTS → hereditary local claims/perquisites; not absolute modern property"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "POWER → garhi + retainers + caste/clan links + revenue mediation",
+            "STATE → discipline + negotiate + recruit + use for cultivation/collection"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "JAGIRDAR → transferable imperial revenue assignee; category differs",
+            "VERDICT → pillar and constraint of Mughal rural authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → pillar and constraint of Mughal rural authority.",
+      "source_references": [
+        "Zamindar",
+        "Garhi",
+        "Local power",
+        "Scale variation",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CULTIVATORS AND LAYERED RIGHTS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CULTIVATORS AND LAYERED RIGHTS",
+          "role": "primary"
+        },
+        {
+          "text": "RESIDENT, STRONGER OCCUPANCY/CUSTOMARY POSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "ORDINARY CULTIVATOR/TENANT CATEGORY",
+          "role": "comparison"
+        },
+        {
+          "text": "INCOMING/NON-RESIDENT; CONCESSIONS AND WEAKER EMBEDDEDNESS",
+          "role": "evidence"
+        },
+        {
+          "text": "CATTLE + SEED + LABOUR + WATER + CREDIT",
+          "role": "primary"
+        },
+        {
+          "text": "MIGRATION/FLIGHT CAN BARGAIN OR SIGNAL DISTRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "HASIL; CROP DIVERSITY",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIVERSAL PROSPERITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KHUD-KASHT/RIYAYATI → resident, stronger occupancy/customary position",
+        "RAIYATI/MUZARIAN → ordinary cultivator/tenant category",
+        "PAHI-KASHT → incoming/non-resident; concessions and weaker embeddedness",
+        "INPUT → cattle + seed + labour + water + credit determine capacity",
+        "MOBILITY → migration/flight can bargain or signal distress"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "KHUD-KASHT/RIYAYATI → resident, stronger occupancy/customary position",
+          "PAHI-KASHT → incoming/non-resident; concessions and weaker embeddedness",
+          "MOBILITY → migration/flight can bargain or signal distress"
+        ],
+        [
+          "RAIYATI/MUZARIAN → ordinary cultivator/tenant category",
+          "INPUT → cattle + seed + labour + water + credit determine capacity",
+          "RULE → jama != hasil; crop diversity != universal prosperity."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KHUD-KASHT/RIYAYATI → resident, stronger occupancy/customary position",
+            "RAIYATI/MUZARIAN → ordinary cultivator/tenant category"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PAHI-KASHT → incoming/non-resident; concessions and weaker embeddedness",
+            "INPUT → cattle + seed + labour + water + credit determine capacity"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MOBILITY → migration/flight can bargain or signal distress",
+            "RULE → jama != hasil; crop diversity != universal prosperity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → jama != hasil; crop diversity != universal prosperity.",
+      "source_references": [
+        "Khud-kasht",
+        "Pahi-kasht",
+        "Raiyati",
+        "Land rights",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WOMEN, WORK AND SOURCE SILENCE",
+      "structural_type": "evidence-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WOMEN, WORK AND SOURCE SILENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOW/HARVEST/ANIMALS + SPINNING/PROCESSING + CONSTRUCTION/SERVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "ESTATE + SHIP/TRADE + CHARITY + ARCHITECTURE + HOUSEHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "PROPERTY AND INHERITANCE RIGHTS MEET UNEQUAL ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "VARY BY CLASS, CASTE, REGION AND OCCUPATION",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC/MILITARY/COURT/LABOUR FORMS; MANUMISSION DOES NOT ERASE IT",
+          "role": "caution"
+        },
+        {
+          "text": "ELITE CHRONICLES UNDER-RECORD ORDINARY WOMEN AND COERCED LABOUR.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LABOUR → sow/harvest/animals + spinning/processing + construction/service",
+        "ELITE → estate + ship/trade + charity + architecture + household patronage",
+        "LAW/PRACTICE → property and inheritance rights meet unequal access",
+        "PURDAH/MARRIAGE → vary by class, caste, region and occupation",
+        "SLAVERY → domestic/military/court/labour forms; manumission does not erase it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "LABOUR → sow/harvest/animals + spinning/processing + construction/service",
+            "ELITE → estate + ship/trade + charity + architecture + household patronage"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "LAW/PRACTICE → property and inheritance rights meet unequal access",
+            "PURDAH/MARRIAGE → vary by class, caste, region and occupation"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "SLAVERY → domestic/military/court/labour forms; manumission does not erase it",
+            "SOURCE → elite chronicles under-record ordinary women and coerced labour."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOURCE → elite chronicles under-record ordinary women and coerced labour.",
+      "source_references": [
+        "Women's work",
+        "Gulbadan",
+        "Nur Jahan",
+        "Source silence",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TOWNS AND THE MIDDLE STRATA",
+      "structural_type": "urban-network",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TOWNS AND THE MIDDLE STRATA",
+          "role": "primary"
+        },
+        {
+          "text": "CAPITAL + PROVINCIAL CENTRE + PORT + QASBA +",
+          "role": "outcome"
+        },
+        {
+          "text": "MERCHANT/SHOPKEEPER + BANKER/BROKER + CLERK + PROFESSIONAL + ARTISAN",
+          "role": "comparison"
+        },
+        {
+          "text": "COURT/ARMY/URBAN CONSUMERS STIMULATE PRODUCTION AND SERVICES",
+          "role": "institution"
+        },
+        {
+          "text": "COUNTRYSIDE REVENUE/FOOD/RAW MATERIALS SUSTAIN URBAN GROWTH",
+          "role": "primary"
+        },
+        {
+          "text": "USEFUL OBSERVATION, BUT NO-MIDDLE-STRATA CLAIM IS REJECTED",
+          "role": "caution"
+        },
+        {
+          "text": "MIDDLE STRATA ARE NOT A MODERN POLITICAL MIDDLE CLASS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TYPES → capital + provincial centre + port + qasba + pilgrimage/manufacture town",
+        "ACTORS → merchant/shopkeeper + banker/broker + clerk + professional + artisan",
+        "DEMAND → court/army/urban consumers stimulate production and services",
+        "LINK → countryside revenue/food/raw materials sustain urban growth",
+        "BERNIER → useful observation, but no-middle-strata claim is rejected"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TYPES → capital + provincial centre + port + qasba + pilgrimage/manufacture town",
+            "ACTORS → merchant/shopkeeper + banker/broker + clerk + professional + artisan"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DEMAND → court/army/urban consumers stimulate production and services",
+            "LINK → countryside revenue/food/raw materials sustain urban growth"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BERNIER → useful observation, but no-middle-strata claim is rejected",
+            "TRAP → middle strata are not a modern political middle class."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → middle strata are not a modern political middle class.",
+      "source_references": [
+        "Urban typology",
+        "Qasba",
+        "Middle strata",
+        "Bernier",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "KARKHANA AND CRAFT PRODUCTION",
+      "structural_type": "production-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "KARKHANA AND CRAFT PRODUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "COTTON/SILK + CARPET + METAL/ARMS + PAPER + SUGAR/INDIGO",
+          "role": "outcome"
+        },
+        {
+          "text": "HOUSEHOLD + WORKSHOP + MERCHANT ADVANCE + MASTER LABOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPERIAL/NOBLE ORGANISED WORKSHOP/STORE, NOT MECHANISED FACTORY",
+          "role": "caution"
+        },
+        {
+          "text": "TEXTILE ZONES",
+          "role": "primary"
+        },
+        {
+          "text": "GUJARAT + COROMANDEL + BENGAL SPECIALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MERCHANT ADVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKET COORDINATION PLUS PRODUCER DEPENDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOODS → cotton/silk + carpet + metal/arms + paper + sugar/indigo + ships",
+        "FORMS → household + workshop + merchant advance + master labour + karkhana",
+        "KARKHANA → imperial/noble organised workshop/store, not mechanised factory",
+        "TEXTILE ZONES → Gujarat + Coromandel + Bengal specialisation",
+        "MERCHANT ADVANCE → market coordination plus producer dependence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GOODS → cotton/silk + carpet + metal/arms + paper + sugar/indigo + ships",
+            "FORMS → household + workshop + merchant advance + master labour + karkhana"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KARKHANA → imperial/noble organised workshop/store, not mechanised factory",
+            "TEXTILE ZONES → Gujarat + Coromandel + Bengal specialisation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MERCHANT ADVANCE → market coordination plus producer dependence",
+            "VERDICT → high skill and commercial scale without modern industrialisation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → high skill and commercial scale without modern industrialisation.",
+      "source_references": [
+        "Karkhana",
+        "Craft production",
+        "Merchant advance",
+        "Artisans",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INLAND TRADE, HUNDI AND BANJARA",
+      "structural_type": "circulation-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INLAND TRADE, HUNDI AND BANJARA",
+          "role": "primary"
+        },
+        {
+          "text": "RUPEE/DAM/MOHUR + BULLION; KIND/BARTER AND COIN SCARCITY PERSIST",
+          "role": "outcome"
+        },
+        {
+          "text": "BULK GRAIN/SUPPLY CARRIER; PACK BULLOCK AND CART NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "ROAD/SARAI/FERRY + RIVER + COASTAL CRAFT + ARMY MARKETS",
+          "role": "evidence"
+        },
+        {
+          "text": "MONSOON + TOLL + INSECURITY + TRANSPORT COST +",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MONEY → rupee/dam/mohur + bullion; kind/barter and coin scarcity persist",
+        "HUNDI → credit/remittance",
+        "SARRAF → assay/change/banking",
+        "BANIAN/DALAL → broker",
+        "AURANG → warehouse/depot"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MONEY → rupee/dam/mohur + bullion; kind/barter and coin scarcity persist",
+            "HUNDI → credit/remittance",
+            "SARRAF → assay/change/banking"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BANIAN/DALAL → broker",
+            "AURANG → warehouse/depot",
+            "BANJARA → bulk grain/supply carrier; pack bullock and cart networks"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ROUTES → road/sarai/ferry + river + coastal craft + army markets",
+            "FRICTION → monsoon + toll + insecurity + transport cost + local power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FRICTION → monsoon + toll + insecurity + transport cost + local power.",
+      "source_references": [
+        "Hundi",
+        "Banjara",
+        "Sarraf",
+        "Aurang",
+        "Banian",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "OVERSEAS TRADE, COMPANIES AND BULLION",
+      "structural_type": "maritime-balance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OVERSEAS TRADE, COMPANIES AND BULLION",
+          "role": "primary"
+        },
+        {
+          "text": "TEXTILES + INDIGO + PEPPER + RICE/SUGAR/RAW SILK BY",
+          "role": "outcome"
+        },
+        {
+          "text": "BULLION + HORSES + METALS + LUXURIES; LISTS VARY",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN NETWORKS",
+          "role": "evidence"
+        },
+        {
+          "text": "VIRJI VOHRA + ABDUL GHAFFUR + BOHRAS/JAINS/CHETTIS",
+          "role": "primary"
+        },
+        {
+          "text": "PORTUGUESE/DUTCH/ENGLISH/FRENCH ENTER EXISTING ASIAN SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "FACILITIES/OPEN PORTS; OPPOSE FORTIFICATION AND SEIZE AGENTS ON LAND",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPANY GROWTH IS NOT IMMEDIATE MONOPOLY OR TERRITORIAL SOVEREIGNTY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EXPORT → textiles + indigo + pepper + rice/sugar/raw silk by route",
+        "IMPORT → bullion + horses + metals + luxuries; lists vary by decade",
+        "INDIAN NETWORKS → Virji Vohra + Abdul Ghaffur + Bohras/Jains/Chettis",
+        "EUROPEANS → Portuguese/Dutch/English/French enter existing Asian system",
+        "MUGHAL → facilities/open ports; oppose fortification and seize agents on land"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "EXPORT → textiles + indigo + pepper + rice/sugar/raw silk by route",
+            "IMPORT → bullion + horses + metals + luxuries; lists vary by decade"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "INDIAN NETWORKS → Virji Vohra + Abdul Ghaffur + Bohras/Jains/Chettis",
+            "EUROPEANS → Portuguese/Dutch/English/French enter existing Asian system"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MUGHAL → facilities/open ports; oppose fortification and seize agents on land",
+            "TRAP → company growth is not immediate monopoly or territorial sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → company growth is not immediate monopoly or territorial sovereignty.",
+      "source_references": [
+        "Indian Ocean",
+        "Bullion",
+        "Virji Vohra",
+        "European companies",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TECHNOLOGY WITHOUT STAGNATION OR INDUSTRIAL TELEOLOGY",
+      "structural_type": "debate-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TECHNOLOGY WITHOUT STAGNATION OR INDUSTRIAL TELEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "IRRIGATION + TEXTILES + METALLURGY/GUNS + SHIPS + ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOCKS + PUMPS + TELESCOPE + MECHANICAL DEVICES ADOPTED",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIALISED ARTISANAL SKILL AND PRACTICAL ADAPTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "WEAK INSTITUTIONAL BRIDGE BETWEEN LEARNED THEORY AND WORKSHOP EXPERIMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OTHER LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "MECHANISATION + PRINTING DIFFUSION + ENERGY ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NEITHER STAGNANT CIVILISATION NOR INEVITABLE INDUSTRIAL TAKEOFF.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAPACITY → irrigation + textiles + metallurgy/guns + ships + architecture",
+        "CONTACT → clocks + pumps + telescope + mechanical devices adopted selectively",
+        "STRENGTH → specialised artisanal skill and practical adaptation",
+        "LIMIT → weak institutional bridge between learned theory and workshop experiment",
+        "OTHER LIMITS → mechanisation + printing diffusion + energy organisation"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CAPACITY → irrigation + textiles + metallurgy/guns + ships + architecture",
+          "LIMIT → weak institutional bridge between learned theory and workshop experiment",
+          "CLOSE DISTINCTION: Monetisation and long-distance trade coexisted with coercion, subsistence risk and marked regional variation."
+        ],
+        [
+          "CONTACT → clocks + pumps + telescope + mechanical devices adopted selectively",
+          "OTHER LIMITS → mechanisation + printing diffusion + energy organisation",
+          ""
+        ],
+        [
+          "STRENGTH → specialised artisanal skill and practical adaptation",
+          "VERDICT → neither stagnant civilisation nor inevitable industrial takeoff.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CAPACITY → irrigation + textiles + metallurgy/guns + ships + architecture",
+            "CONTACT → clocks + pumps + telescope + mechanical devices adopted selectively",
+            "STRENGTH → specialised artisanal skill and practical adaptation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LIMIT → weak institutional bridge between learned theory and workshop experiment",
+            "OTHER LIMITS → mechanisation + printing diffusion + energy organisation",
+            "VERDICT → neither stagnant civilisation nor inevitable industrial takeoff."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE DISTINCTION: Monetisation and long-distance trade coexisted with coercion, subsistence risk and marked regional variation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → neither stagnant civilisation nor inevitable industrial takeoff.",
+      "source_references": [
+        "Technology debate",
+        "Printing",
+        "Artisanal skill",
+        "Diffusion",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CULTURE AS INSTITUTIONAL AND COMPOSITE PRODUCTION",
+      "structural_type": "culture-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CULTURE AS INSTITUTIONAL AND COMPOSITE PRODUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "MAKTAB/MADRASA + PATHSHALA/MATH + HOUSEHOLD + APPRENTICESHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSIAN/ARABIC/SANSKRIT + EXPANDING REGIONAL LITERARY PUBLICS",
+          "role": "comparison"
+        },
+        {
+          "text": "AKBAR ATELIER",
+          "role": "evidence"
+        },
+        {
+          "text": "JAHANGIR NATURALISM",
+          "role": "primary"
+        },
+        {
+          "text": "SHAH JAHAN FORMALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "TRABEATE/ARCHED CRAFT",
+          "role": "comparison"
+        },
+        {
+          "text": "MARBLE/INLAY/SYMMETRY + REGIONAL LABOUR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EDUCATION → maktab/madrasa + pathshala/math + household + apprenticeship",
+        "LANGUAGE → Persian/Arabic/Sanskrit + expanding regional literary publics",
+        "PAINT → Akbar atelier → Jahangir naturalism → Shah Jahan formality → dispersal",
+        "ARCH → trabeate/arched craft → marble/inlay/symmetry + regional labour",
+        "MUSIC → court and regional/devotional patronage survive Aurangzeb"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "EDUCATION → maktab/madrasa + pathshala/math + household + apprenticeship",
+            "LANGUAGE → Persian/Arabic/Sanskrit + expanding regional literary publics",
+            "PAINT → Akbar atelier → Jahangir naturalism → Shah Jahan formality → dispersal"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ARCH → trabeate/arched craft → marble/inlay/symmetry + regional labour",
+            "MUSIC → court and regional/devotional patronage survive Aurangzeb",
+            "SYNTHESIS → interaction without equal access, doctrinal erasure or romance."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE LIMIT: Bernier, court chronicles and Mughal painting reveal positioned observations, not a complete social census."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYNTHESIS → interaction without equal access, doctrinal erasure or romance.",
+      "source_references": [
+        "Architecture",
+        "Painting",
+        "Translation",
+        "Composite culture",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 24 FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 24 FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "AGRARIAN HIERARCHY + MONETISED COMMERCE + INSTITUTIONAL CULTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOBLE/ZAMINDAR/CULTIVATOR/MIDDLE STRATA + CASTE/GENDER/SLAVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "CROPS/CRAFTS + MONEY/CREDIT + TRANSPORT + INDIAN/COMPANY TRADE",
+          "role": "evidence"
+        },
+        {
+          "text": "EDUCATION/LANGUAGES + LITERATURE + PAINTING/MUSIC/ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE ESTIMATE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL TOTAL",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECT 2018/19/20/22 PRELIMS + 2020 GS-I PERSIAN-SOURCE DEMAND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → agrarian hierarchy + monetised commerce + institutional culture",
+        "SOCIETY → noble/zamindar/cultivator/middle strata + caste/gender/slavery",
+        "ECONOMY → crops/crafts + money/credit + transport + Indian/company trade",
+        "CULTURE → education/languages + literature + painting/music/architecture",
+        "METHOD → source estimate != census"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DEFINE → agrarian hierarchy + monetised commerce + institutional culture",
+            "SOCIETY → noble/zamindar/cultivator/middle strata + caste/gender/slavery",
+            "ECONOMY → crops/crafts + money/credit + transport + Indian/company trade",
+            "CULTURE → education/languages + literature + painting/music/architecture"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "METHOD → source estimate != census",
+            "jama != hasil",
+            "image != social total",
+            "PYQ → direct 2018/19/20/22 Prelims + 2020 GS-I Persian-source demand"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "KEY → 2018-23 objective key unavailable; inferred answer labelled",
+            "VERDICT → dynamic and creative, but hierarchical, uneven and non-industrial."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → dynamic and creative, but hierarchical, uneven and non-industrial.",
+      "source_references": [
+        "Answer architecture",
+        "Society",
+        "Economy",
+        "Culture",
+        "Source method",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g4\\medieval-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE DOSSIER - ADVANCED OWNER",
+          "role": "evidence"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "SOURCE DOSSIER - ADVANCED OWNER",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "Concept - Composite culture without romanticism",
+            "Historical PYQ Integration (2018-2023)",
+            "Deep evidence-to-answer labs"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

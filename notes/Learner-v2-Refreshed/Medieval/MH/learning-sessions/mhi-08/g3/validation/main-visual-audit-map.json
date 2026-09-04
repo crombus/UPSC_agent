@@ -1,0 +1,2527 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension - Complete Topic Package",
+      "preview": "Regional kingdoms and bounded Ahom extension cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\00_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 730.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 511.197
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 8,
+      "heading": "Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension - Complete Topic Package",
+      "preview": "**Subject:** Medieval Indian History | **Topic:** 08 | **Repaired export date:** 2026-08-16 **Approval:** false - awaiting explicit user approval. **Source order used:** repository Markdown -> OCR-searchable Satish Chandra, *Medieval India:",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 511.197
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 423.929
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 21,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 365.929
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 146.928
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 43,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\medieval-indian-history-08_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 546.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 238.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 57,
+      "markdown_body_line_end": 64,
+      "heading": "Roadmap and retrieval strategy",
+      "preview": "Move | Question to answer | Evidence to deploy | UPSC output",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Move",
+          "Question to answer",
+          "Evidence to deploy",
+          "UPSC output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 721.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 574.59
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "Roadmap and retrieval strategy",
+      "preview": "Regional state-system network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\01_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 574.59
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 355.495
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 80,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A precise thesis is: the weakening of a Delhi-centred imperial order created a competitive regional state-system whose durability rested on differentiated political geographies and institutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 196.495
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 129.828
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 103,
+      "markdown_body_line_end": 120,
+      "heading": "CLOSING RECALL FLOW - REGIONALISATION: A STATE-SYSTEM, NOT AN EMPTY INTERVAL",
+      "preview": "START / CONCEPT: Regionalisation: a state-system, not an empty interval",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 409.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 178.491
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 131,
+      "markdown_body_line_end": 131,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gujarat's 1407 formal break does not mean that the political work was finished: Ahmad Shah I's rule is the stronger marker for control over nobles, administration and a new capital.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 144,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic 08 chronology retrieval map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\02_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 230.129
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 156,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Anchor | What changed | Why the date is useful",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Anchor",
+          "What changed",
+          "Why the date is useful"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 595.49
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 181,
+      "heading": "CLOSING RECALL FLOW - CHRONOLOGY AND POLITICAL GEOGRAPHY: MAKE DATES DO EXPLANATORY WORK",
+      "preview": "START / CONCEPT: Chronology and political geography: make dates do explanatory work",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 380.09
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 149.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 192,
+      "markdown_body_line_end": 192,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Thus the causal chain is: delta ecology - costly external projection plus internal mobility - room for dynastic organisation - durable autonomy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 205,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Bengal delta ecology and autonomy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\03_ecology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 230.129
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 237,
+      "heading": "CLOSING RECALL FLOW - BENGAL I: DELTA AUTONOMY, ILYAS SHAH AND THE LIMITS OF DELHI'S CAMPAIGNS",
+      "preview": "START / CONCEPT: Bengal I: delta autonomy, Ilyas Shah and the limits of Delhi's campaigns",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 582.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 361.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 248,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The point is not that the court ceased to be Persianate, but that local language, materials and elite alliances helped make sovereignty regionally intelligible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 207.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 141.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 261,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Bengal riverine trade system",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\04_bengal.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 516.397
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 266,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Bengal culture and legitimacy retrieval card",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\05_bengal_culture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 482.997
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 263.902
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 281,
+      "markdown_body_line_end": 298,
+      "heading": "CLOSING RECALL FLOW - BENGAL II: SUCCESSION, PORTS, LANGUAGE AND A LOCALLY INTELLIGIBLE COURT",
+      "preview": "START / CONCEPT: Bengal II: succession, ports, language and a locally intelligible court",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 630.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 409.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 309,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State capacity was therefore territorial and commercial.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 269.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 217.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 322,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Gujarat port-hinterland chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\06_gujarat.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 584.197
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 354,
+      "heading": "CLOSING RECALL FLOW - GUJARAT I: FROM FORMAL BREAK TO URBAN, COMMERCIAL STATE CAPACITY",
+      "preview": "START / CONCEPT: Gujarat I: from formal break to urban, commercial state capacity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "His two defining strategic associations are Girnar in Saurashtra and Champaner in south Gujarat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 378,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Gujarat-Malwa-Mewar strategic triangle",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\07_triangle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 188.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 584.197
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 410,
+      "heading": "CLOSING RECALL FLOW - GUJARAT II: MAHMUD BEGARHA, STRATEGIC EXPANSION AND THE PORTUGUESE SEQUENCE",
+      "preview": "START / CONCEPT: Gujarat II: Mahmud Begarha, strategic expansion and the Portuguese sequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 421,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The best Mains comparison pairs Mandu's plateau and routes with Gujarat's port-hinterland: both are political geographies, yet one derives leverage from corridor control and the other from commercial articulation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 393.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 326.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 434,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Mandu plateau strategic logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\08_mandu.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 168.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 584.197
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 439,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Mandu art and strategy retrieval card",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\09_malwa_art.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 550.797
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 331.702
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 471,
+      "heading": "CLOSING RECALL FLOW - MALWA I: PLATEAU STRATEGY, MANDU AND A CONTESTED COURT",
+      "preview": "START / CONCEPT: Malwa I: plateau strategy, Mandu and a contested court",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 541.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 482,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Map knowledge matters: Chanderi, Malwa, Rajasthan, Agra and the routes to Gujarat are not decorative place names; together they explain why an internal Malwa dispute could become an issue for Mewar and Delhi.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 387.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 320.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 495,
+      "markdown_body_line_end": 495,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Lodi transition retrieval card",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\11_lodi.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 161.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 584.197
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 527,
+      "heading": "CLOSING RECALL FLOW - MALWA II AND THE NORTH INDIAN CONTEST: RIVALRY, MEWAR AND THE LODI HORIZON",
+      "preview": "START / CONCEPT: Malwa II and the north Indian contest: rivalry, Mewar and the Lodi horizon",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 538,
+      "markdown_body_line_end": 538,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This scale is useful not as a rigid border map but as a reminder that Jaunpur was a Ganga-valley power, not merely a cultural city.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 427.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 551,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Jaunpur cultural-state diagram",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\10_jaunpur.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 202.424
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 584.197
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW - JAUNPUR: SHARQI SOVEREIGNTY, CULTURAL CAPITAL AND LODI ABSORPTION",
+      "preview": "START / CONCEPT: Jaunpur: Sharqi sovereignty, cultural capital and Lodi absorption",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 594,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This evidence supports a strong but bounded claim: policy could be an instrument of reconciliation and legitimacy in a particular valley polity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 607,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Kashmir policy change diagram",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\12_kashmir.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 188.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 584.197
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 639,
+      "heading": "CLOSING RECALL FLOW - KASHMIR: SUCCESSION, RECONCILIATION, LEARNING AND THE VALLEY ECONOMY",
+      "preview": "START / CONCEPT: Kashmir: succession, reconciliation, learning and the valley economy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 650,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trade, routes and architecture mattered politically because regional courts had to organise production, movement, protection, revenue and legitimacy rather than merely possess a favourable location.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 423.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 356.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 662,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Comparative regional state matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\13_comparative.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 215.424
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 584.197
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 667,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Riverine and maritime trade comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\14_trade.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 564.997
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 345.902
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 672,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Regional architecture comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\15_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 312.502
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 93.408
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 677,
+      "markdown_body_line_end": 683,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Case | Capacity base | Named evidence | Cultural idiom | Key qualification",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 5,
+        "headers": [
+          "Case",
+          "Capacity base",
+          "Named evidence",
+          "Cultural idiom",
+          "Key qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 603.39
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 708,
+      "heading": "CLOSING RECALL FLOW - COMPARATIVE POLITICAL ECONOMY: TRADE, ROUTES, ARCHITECTURE AND STATE POWER",
+      "preview": "START / CONCEPT: Comparative political economy: trade, routes, architecture and state power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 402.19
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 151.19
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 719,
+      "markdown_body_line_end": 719,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sources and historiography: turn evidence into a qualified argument comprises Sources, historiography and turn evidence into a qualified argument as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 732,
+      "markdown_body_line_end": 732,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Source criticism ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\16_sources.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 215.929
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 737,
+      "markdown_body_line_end": 743,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Source type | Useful for | What it cannot settle alone | Safe use in Topic 08",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Source type",
+          "Useful for",
+          "What it cannot settle alone",
+          "Safe use in Topic 08"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 624.39
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 768,
+      "heading": "CLOSING RECALL FLOW - SOURCES AND HISTORIOGRAPHY: TURN EVIDENCE INTO A QUALIFIED ARGUMENT",
+      "preview": "START / CONCEPT: Sources and historiography: turn evidence into a qualified argument",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 437.39
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 196.39
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 779,
+      "markdown_body_line_end": 779,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This comparison is valuable because it shows state formation in a political ecology not reducible to Delhi's provincial system.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 792,
+      "markdown_body_line_end": 792,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Ahom political ecology diagram",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\17_ahom.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 584.024
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 364.929
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 797,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Paik rotation diagram",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\18_paik.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 331.529
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 112.435
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 802,
+      "markdown_body_line_end": 802,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Buranji source criticism card",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\19_buranji.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 584.197
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 807,
+      "markdown_body_line_end": 807,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Moidam disciplinary boundary card",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\20_moidam.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 564.997
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 345.902
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 841,
+      "heading": "CLOSING RECALL FLOW - BOUNDED AHOM/ASSAM EXTENSION: POLITICAL ECOLOGY, PAIK ROTATION AND BURANJIS",
+      "preview": "START / CONCEPT: Bounded Ahom/Assam extension: political ecology, Paik rotation and Buranjis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 687.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 456.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 844,
+      "heading": "14. Transition, answer architecture and final synthesis",
+      "preview": "GS-I answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\21_answer.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 212.197
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 849,
+      "heading": "14. Transition, answer architecture and final synthesis",
+      "preview": "Topic 08 rapid recall map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\assets\\22_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 178.797
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 584.197
+        }
+      },
+      "pdf_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 876,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "\"State capacity\" should not be used as a decorative synonym for a strong ruler.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 170.197
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 117.729
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 896,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Capacity question | Bengal | Gujarat | Malwa | Jaunpur | Kashmir",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 4,
+        "headers": [
+          "Capacity question",
+          "Bengal",
+          "Gujarat",
+          "Malwa",
+          "Jaunpur",
+          "Kashmir"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 642.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 441.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 923,
+      "heading": "CLOSING RECALL FLOW - DEEPENING I - WHAT STATE CAPACITY ACTUALLY LOOKED LIKE",
+      "preview": "START / CONCEPT: Deepening I - What state capacity actually looked like",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 934,
+      "markdown_body_line_end": 934,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not call every river a trade route or every port a state-controlled customs machine unless a source supports it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 368.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 957,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "productive countryside / specialist crafts",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 967,
+      "markdown_body_line_end": 984,
+      "heading": "CLOSING RECALL FLOW - DEEPENING II - AGRARIAN BASES, TOWNS, PORTS AND ROUTES",
+      "preview": "START / CONCEPT: Deepening II - Agrarian bases, towns, ports and routes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 524.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 303.691
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 995,
+      "markdown_body_line_end": 995,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not infer hereditary succession rules, precise reign dates not given above, or a uniform political agenda merely from one ruler's name.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 178.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 111.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1014,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Polity | Sequence to retain | What chronology helps explain | Common confusion to avoid",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Polity",
+          "Sequence to retain",
+          "What chronology helps explain",
+          "Common confusion to avoid"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 704.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 514.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1024,
+      "markdown_body_line_end": 1041,
+      "heading": "CLOSING RECALL FLOW - DEEPENING III - RULERS, SUCCESSION AND THE POLITICS BEHIND CHRONOLOGY",
+      "preview": "START / CONCEPT: Deepening III - Rulers, succession and the politics behind chronology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 280.09
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 69.09
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1052,
+      "markdown_body_line_end": 1052,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Gujarat-Malwa-Mewar relation was not an incidental triangle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1077,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Gujarat <-> Malwa <-> Mewar",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 339.824
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 258.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1104,
+      "heading": "CLOSING RECALL FLOW - DEEPENING IV - INTER-STATE RELATIONS: FROM RIVALRY TO ALTERED BALANCE",
+      "preview": "START / CONCEPT: Deepening IV - Inter-state relations: from rivalry to altered balance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1115,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Deepening V - Cultural idioms, source criticism and answer design laboratory comprises Deepening V - Cultural idioms, source criticism and design laboratory as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 409.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 342.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1130,
+      "markdown_body_line_end": 1136,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Evidence | Claim | Analysis | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "Claim",
+          "Analysis",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 603.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1161,
+      "heading": "CLOSING RECALL FLOW - DEEPENING V - CULTURAL IDIOMS, SOURCE CRITICISM AND ANSWER DESIGN LABORATORY",
+      "preview": "START / CONCEPT: Deepening V - Cultural idioms, source criticism and answer design laboratory",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 416.39
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 185.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1172,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Claim set 1: \"Delhi declined; therefore regions rose.\" This is a valid opening condition, but insufficient as an explanation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1187,
+      "markdown_body_line_end": 1192,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Bengal | Gujarat | Malwa | Jaunpur | Kashmir / Ahom extension",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Bengal",
+          "Gujarat",
+          "Malwa",
+          "Jaunpur",
+          "Kashmir / Ahom extension"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 522.224
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 353.322
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1210,
+      "heading": "Directive decoder",
+      "preview": "Directive | What the examiner needs | Minimum Topic 08 move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Directive",
+          "What the examiner needs",
+          "Minimum Topic 08 move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1233,
+      "heading": "CLOSING RECALL FLOW - DEEPENING VI - COMPARATIVE ANSWER WORKSHOP: CLAIMS, COUNTERCLAIMS AND TRANSITIONS",
+      "preview": "START / CONCEPT: Deepening VI - Comparative answer workshop: claims, counterclaims and transitions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 475.49
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 244.49
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1244,
+      "markdown_body_line_end": 1244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualification: gifts to Firuz were not subordination; Chinese contact, Chittagong and textiles mean the region was connected, not sealed off.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 104.69
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 38.022
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1296,
+      "heading": "CLOSING RECALL FLOW - DEEPENING VII - FIVE CASE FILES FOR LAST-MILE REVISION",
+      "preview": "START / CONCEPT: Deepening VII - Five case files for last-mile revision",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1307,
+      "markdown_body_line_end": 1307,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The live link remains bounded: political ecology, Paik mobilisation, Buranji source criticism and royal memory belong here, while detailed funerary form, cosmology and conservation remain with Art & Culture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1326,
+      "markdown_body_line_end": 1343,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2092,
+      "markdown_body_line_end": 2095,
+      "heading": "Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1206–1526)* — ch",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 250.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 149.024
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2101,
+      "markdown_body_line_end": 2110,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 591.09
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2130,
+      "markdown_body_line_end": 2135,
+      "heading": "2. Key classification / data",
+      "preview": "Analytical lens | Bengal | Gujarat/Malwa | Jaunpur | Kashmir",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 4,
+        "headers": [
+          "Analytical lens",
+          "Bengal",
+          "Gujarat/Malwa",
+          "Jaunpur",
+          "Kashmir"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 204.89
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 56.988
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2139,
+      "markdown_body_line_end": 2144,
+      "heading": "Ahom/Assam - bounded Prelims extension",
+      "preview": "Lens | Advanced takeaway",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Lens",
+          "Advanced takeaway"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 610.69
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2146,
+      "markdown_body_line_end": 2146,
+      "heading": "Ahom/Assam - bounded Prelims extension",
+      "preview": "**Boundary/source note:** This Ahom material is a supplementary extension outside the three assigned Satish Chandra PDFs. Political-administrative analysis remains here; form, material, cosmology, UNESCO criteria and conservation belong to ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 610.69
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 551.822
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2150,
+      "markdown_body_line_end": 2151,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Compare regionalisation after Tughlaqs with Bahmani/Vijayanagara in `advanced/09_Vijayanagara-and-Bahmani.md`. **Study link:** ⚠️ Connect Gujarat's ports to Portuguese entry and Indian Ocean trade; connect Jaunpur-Lodi riv",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 526.822
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 467.954
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2164,
+      "markdown_body_line_end": 2164,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: A ruler may be culturally tolerant in one domain and temple-destructive in a campaign; avoid one-word labels unless the source supports them.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 286.354
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 241.687
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2226,
+      "markdown_body_line_end": 2235,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Regionalisation chronology and map",
+      "preview": "1338-42 Bengal break and Ilyas Shahi consolidation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 515.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 423.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2239,
+      "markdown_body_line_end": 2246,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Bengal delta autonomy circuit",
+      "preview": "DISTANCE + RIVERS + HUMID CLIMATE -> costly external projection",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 401.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 328.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2250,
+      "markdown_body_line_end": 2259,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Gujarat port-hinterland state",
+      "preview": "FERTILE INTERIOR + HANDICRAFT PRODUCTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 306.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 214.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2263,
+      "markdown_body_line_end": 2271,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Malwa strategic plateau",
+      "preview": "MEWAR",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2275,
+      "markdown_body_line_end": 2284,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Jaunpur power and cultural capital",
+      "preview": "GANGA-VALLEY LOCATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2288,
+      "markdown_body_line_end": 2295,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Kashmir reign contrast",
+      "preview": "SIKANDAR SHAH                 ZAINUL ABIDIN / BUD SHAH",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2299,
+      "markdown_body_line_end": 2306,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Five regional capacity models",
+      "preview": "BENGAL -> delta mobility, agrarian base, ports and language",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 401.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2310,
+      "markdown_body_line_end": 2317,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Fifteenth-century balance of power",
+      "preview": "WEST: GUJARAT <-> MALWA <-> MEWAR",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 379.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 307.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2321,
+      "markdown_body_line_end": 2328,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Architecture and language as evidence",
+      "preview": "BENGAL -> brick, curved roofs, Gaur-Pandua and Bengali patronage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2332,
+      "markdown_body_line_end": 2341,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Bounded Ahom political extension",
+      "preview": "13th c. Tai-Ahom migration -> Charaideo first capital and royal memory",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2354,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Buranji and Moidam evidence ladder",
+      "preview": "BURANJIS -> chronology and institutions | royal viewpoint and silences",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 485.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2358,
+      "markdown_body_line_end": 2365,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 08 answer spine",
+      "preview": "OPEN -> Delhi contraction redistributed sovereignty; it did not erase states",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 463.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    }
+  ]
+}

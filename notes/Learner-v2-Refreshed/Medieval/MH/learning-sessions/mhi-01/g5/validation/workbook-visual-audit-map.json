@@ -1,0 +1,546 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Solved-Practice-Workbook_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Solved-Practice-Workbook_2026-09-03.pdf",
+  "mode": "workbook",
+  "topic_key": "medieval-indian-history-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 653,
+      "heading": "Semantic-completeness coverage drills - Medieval Topic 01",
+      "preview": "Drill | Prompt | Minimum answer route | Fatal trap",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Drill",
+          "Prompt",
+          "Minimum answer route",
+          "Fatal trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 523.89
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 678,
+      "heading": "I.1 Audit method",
+      "preview": "MAINS: read official GS-I papers, 2018–2025.",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 446.69
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 285.69
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 686,
+      "heading": "I.2 Directly owned Mains result",
+      "preview": "✅ **COUNT: ZERO**  No GS-I Mains question from 2018–2025 directly asks the pre-Sultanate political setting, Indo-Arab maritime contact, Hindu Shahi frontier, Persianisation of Turkish elites or the causes of the initial Turkish breakthrough",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 260.69
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 173.422
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 692,
+      "heading": "I.3 Directly owned Prelims result",
+      "preview": "✅ **COUNT: ZERO with a locally readable official same-series key**  Several adjacent questions test chronology, iqta or early-medieval dynasties, but their true ownership lies in later administration or regional-kingdom topics. They are sol",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 712.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 712,
+      "heading": "P-1 · Prelims 2019 · revenue administration of the Delhi Sultanate",
+      "preview": "⚠️ **INFERRED ANSWER — NOT OFFICIALLY VERIFIED: (a) 1 only · Confidence: High**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 545.824
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 515.356
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 739,
+      "heading": "P-2 · Prelims 2020 · chronology of Pallava, Pala, Pratihara and Chola power",
+      "preview": "⚠️ **INFERRED ANSWER — NOT OFFICIALLY VERIFIED: (c) 2–4–1–3 · Confidence: High**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 210.956
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 180.488
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 767,
+      "heading": "P-3 · Prelims 2022 · early-medieval kings and dynasties",
+      "preview": "⚠️ **INFERRED ANSWER — NOT OFFICIALLY VERIFIED: (b) Only two pairs · Confidence: High**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 646.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 616.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 797,
+      "heading": "P-4 · Prelims 2023 · Hoysala, Gahadavala, Kakatiya and Yadava chronology",
+      "preview": "⚠️ **INFERRED ANSWER — NOT OFFICIALLY VERIFIED: (d) None · Confidence: High**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 303.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 273.356
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 808,
+      "heading": "P-4 · Prelims 2023 · Hoysala, Gahadavala, Kakatiya and Yadava chronology",
+      "preview": "⚠️ **Audit conclusion:** all four application PYQs are now solved rather than omitted. Their answers are high-confidence historical inferences and are visually separated from official-key verification. This preserves usefulness without misr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 151.956
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 93.088
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 827,
+      "markdown_body_line_end": 829,
+      "heading": "Model answer",
+      "preview": "Chinese and Arab accounts are high-value external witnesses when tied to named contexts. **Xuanzang's seventh-century record** describes Harsha's political world, Nalanda and Buddhist geography; it reconstructs institutions and routes, alth",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 649.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 483.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 864,
+      "markdown_body_line_end": 868,
+      "heading": "Model answer",
+      "preview": "Persian sources reflect the age because their different genres preserve both the ideals and tensions of medieval society. **Barani's *Tarikh-i Firoz Shahi*** chronicles Sultanate politics and measures such as Alauddin Khalji's market regula",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 529.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 903,
+      "markdown_body_line_end": 907,
+      "heading": "Model answer",
+      "preview": "The Sultanate accelerated the diffusion and recombination of technologies; it did not introduce every device to India for the first time. **The spinning wheel**, whose earliest Indian reference Satish Chandra places in the mid-fourteenth ce",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 543.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 943,
+      "heading": "Model answer",
+      "preview": "“On the eve” is an analytical snapshot of transition, not evidence that political institutions had vanished. The weakening of the **Pala–Pratihara–Rashtrakuta competitive order** redistributed power to **Gahadavalas, Chauhans, Paramaras, Ch",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 614.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 975,
+      "heading": "Model answer",
+      "preview": "Arab maritime contact was a long-duration commercial-cultural process; Turkish penetration was increasingly military-territorial. **Arab settlements in Malabar and Rashtrakuta permission for mosques** prove negotiated residence under Indian",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 270.724
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 76.256
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 995,
+      "markdown_body_line_end": 999,
+      "heading": "Model answer",
+      "preview": "Persianisation was the adoption of Persian language, literature, court etiquette and administrative practice by Turkish military elites; it did not imply Persian ethnicity or abandonment of Islam. **Turkish commanders recruited in the Irani",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 597.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 402.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1023,
+      "heading": "Model answer",
+      "preview": "The north-western frontier was not an eternally open gateway; it was a layered system of buffers, routes and bases. **Hindu Shahi control over Kabul, Jalalabad and adjoining zones** created strategic depth between Central Asian military sta",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 586.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1055,
+      "heading": "Model answer",
+      "preview": "The Rajput order combined substantial regional state capacity with weak collective strategy. **Gahadavalas, Chauhans, Paramaras, Chalukyas, Chandellas and Tomars** commanded agrarian revenue, forts, feudatories and military followings; thei",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 558.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1075,
+      "markdown_body_line_end": 1079,
+      "heading": "Model answer",
+      "preview": "Commercial and intellectual exchange created channels of familiarity long before Turkish sovereignty. **Arab settlements on the Malabar coast** show durable merchant diasporas under Indian rulers; **Rashtrakuta permission for mosques** prov",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 302.724
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 65.656
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1105,
+      "heading": "Model answer",
+      "preview": "Cavalry superiority was an organisational system, not a racial or weapon-based attribute. **Ghaznavid roads linking Ghazni with Kabul and Jalalabad**, followed by a Punjab base, reduced operational friction; they enabled remounts, supply, i",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 581.391
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 330.124
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1125,
+      "markdown_body_line_end": 1133,
+      "heading": "Model answer",
+      "preview": "By the late tenth to twelfth centuries, structures increased the possibility of Turkish expansion without making it inevitable. **Abbasid fragmentation produced regional military states whose Turkish commanders were Islamised and Persianise",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 415.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1153,
+      "markdown_body_line_end": 1163,
+      "heading": "Model answer",
+      "preview": "Arab maritime integration and Turkish military penetration connected India to West and Central Asia through different routes, agents and institutions.  **The maritime route was commercial and diasporic.** **Arab settlements in Malabar** ope",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 458.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1193,
+      "heading": "Model answer",
+      "preview": "The proposition corrects three monocausal explanations of the Turkish breakthrough.  **Organisation, not weapons:** **At the Second Battle of Tarain, light mounted archers harassed Prithviraj's slower force from several directions**; this p",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 444.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    }
+  ]
+}

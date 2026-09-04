@@ -1,0 +1,1236 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-16",
+  "subject": "Medieval-Indian-History",
+  "title": "STATE & GOVERNMENT UNDER AKBAR (MANSABDARI, DAHSALA)",
+  "short_route": "STATE CAPACITY AS AN → ADMINISTRATIVE EVOLUTION 1556-1605 → CENTRAL OFFICES AND RULER-CENTRED → PROVINCE TO VILLAGE: HIERARCHY → MANSABDARI: RANK, REMUNERATION AND → ZAT, SAWAR AND JAGIR",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-16-deep-review-2026-09-03-g5.json",
+  "ascii_spec_sha256": "3b5e64deb9789bfa4b16d842fae974f3c975e186cf8c7ced732662024c9fbef5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "STATE CAPACITY AS AN INTEGRATED ARCHITECTURE",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "STATE CAPACITY AS AN INTEGRATED ARCHITECTURE",
+          "role": "institution"
+        },
+        {
+          "text": "RULER-CENTRED AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "APPOINTMENT, TRANSFER, PROMOTION AND JUDGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENTIATED FINANCE, MILITARY, HOUSEHOLD AND GRANT FUNCTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "RANKS ELITE STATUS, REMUNERATION AND SERVICE OBLIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "MEASUREMENT, AVERAGES, RECORDS AND LOCAL MEDIATION FUND THE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "DAGH, CHEHRA, ACCOUNTS AND NEWS TEST PAPER CLAIMS",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSTANTIAL CAPACITY REMAINED PERSONAL, HIERARCHICAL AND UNEVEN.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RULER-CENTRED AUTHORITY → appointment, transfer, promotion and judgement",
+        "OFFICES → differentiated finance, military, household and grant functions",
+        "MANSABDARI → ranks elite status, remuneration and service obligation",
+        "REVENUE → measurement, averages, records and local mediation fund the state",
+        "VERIFICATION → dagh, chehra, accounts and news test paper claims"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RULER-CENTRED AUTHORITY → appointment, transfer, promotion and judgement",
+            "OFFICES → differentiated finance, military, household and grant functions",
+            "MANSABDARI → ranks elite status, remuneration and service obligation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "REVENUE → measurement, averages, records and local mediation fund the state",
+            "VERIFICATION → dagh, chehra, accounts and news test paper claims",
+            "VERDICT: substantial capacity remained personal, hierarchical and uneven."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MUST REMEMBER: Mansab ranked service through zat and sawar; jagir assigned revenue and did not confer private ownership of land."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: substantial capacity remained personal, hierarchical and uneven.",
+      "answer_line": "MUST REMEMBER: Mansab ranked service through zat and sawar; jagir assigned revenue and did not confer private ownership of land.",
+      "source_references": [
+        "State capacity",
+        "Ruler-centred checks",
+        "Information",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ADMINISTRATIVE EVOLUTION 1556-1605",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ADMINISTRATIVE EVOLUTION 1556-1605",
+          "role": "primary"
+        },
+        {
+          "text": "BAIRAM KHAN AS POWERFUL WAKIL DURING MINORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MUZAFFAR KHAN TURBATI STRENGTHENS THE DIWAN'S FISCAL ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "NUMERICAL MANSAB HIERARCHY ASSOCIATED WITH THE 11TH REGNAL YEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "DAGH INTRODUCED",
+          "role": "primary"
+        },
+        {
+          "text": "TODAR MAL AS MUSHRIF-I-DIWAN",
+          "role": "outcome"
+        },
+        {
+          "text": "DAHSALA AND TWELVE SUBAS",
+          "role": "comparison"
+        },
+        {
+          "text": "ZAT-SAWAR DISTINCTION IN THE 40TH REGNAL YEAR.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1556 → Bairam Khan as powerful wakil during minority",
+        "1565 → Muzaffar Khan Turbati strengthens the diwan's fiscal role",
+        "1567 → numerical mansab hierarchy associated with the 11th regnal year",
+        "1573-74 → dagh introduced",
+        "1575 → Todar Mal as mushrif-i-diwan"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1556 → Bairam Khan as powerful wakil during minority",
+            "1565 → Muzaffar Khan Turbati strengthens the diwan's fiscal role",
+            "1567 → numerical mansab hierarchy associated with the 11th regnal year"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1573-74 → dagh introduced",
+            "1575 → Todar Mal as mushrif-i-diwan",
+            "1580 → dahsala and twelve subas"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1595-96 → zat-sawar distinction in the 40th regnal year."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1595-96 → zat-sawar distinction in the 40th regnal year.",
+      "source_references": [
+        "Chronology",
+        "Muzaffar Khan",
+        "Todar Mal",
+        "Mansab evolution",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CENTRAL OFFICES AND RULER-CENTRED CHECKS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CENTRAL OFFICES AND RULER-CENTRED CHECKS",
+          "role": "primary"
+        },
+        {
+          "text": "APPOINTMENTS + TRANSFERS + JUSTICE + COURT ACCESS",
+          "role": "institution"
+        },
+        {
+          "text": "REGENCY CONCENTRATION REDUCED AFTER BAIRAM",
+          "role": "comparison"
+        },
+        {
+          "text": "MIR BAKHSHI",
+          "role": "evidence"
+        },
+        {
+          "text": "MANSAB PRESENTATION + MUSTER + PAY + INTELLIGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "GRANTS AND JUDICIAL-RELIGIOUS FUNCTIONS; POWERS CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "MIR SAMAN",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSEHOLD, KARKHANAS, STORES AND ACCOUNTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PADSHAH → appointments + transfers + justice + court access",
+        "WAKIL → regency concentration reduced after Bairam",
+        "DIWAN → revenue/accounts/khalisa/jagir/expenditure",
+        "MIR BAKHSHI → mansab presentation + muster + pay + intelligence",
+        "SADR / QAZI → grants and judicial-religious functions; powers change"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PADSHAH → appointments + transfers + justice + court access",
+            "WAKIL → regency concentration reduced after Bairam",
+            "DIWAN → revenue/accounts/khalisa/jagir/expenditure"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MIR BAKHSHI → mansab presentation + muster + pay + intelligence",
+            "SADR / QAZI → grants and judicial-religious functions; powers change",
+            "MIR SAMAN / BUYUTAT → household, karkhanas, stores and accounts"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: overlapping reports checked officers but centred the emperor."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: overlapping reports checked officers but centred the emperor.",
+      "answer_line": "overlapping reports checked officers but centred the emperor.",
+      "source_references": [
+        "Wakil",
+        "Diwan",
+        "Mir bakhshi",
+        "Mir saman",
+        "Sadr-qazi",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PROVINCE TO VILLAGE: HIERARCHY AND COUNTERWEIGHTS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROVINCE TO VILLAGE",
+          "role": "primary"
+        },
+        {
+          "text": "HIERARCHY AND COUNTERWEIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBADAR + PROVINCIAL DIWAN + BAKHSHI + SADR/QAZI +",
+          "role": "comparison"
+        },
+        {
+          "text": "FAUJDAR + AMALGUZAR/AMIL; JURISDICTIONS MAY OVERLAP",
+          "role": "evidence"
+        },
+        {
+          "text": "SHIQDAR + AMIN/MUNSIF + QANUNGO + CHAUDHURI + FOTEDAR/KARKUN",
+          "role": "primary"
+        },
+        {
+          "text": "MUQADDAM/HEADMAN + PATWARI + PANCHAYAT + CULTIVATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "ZAMINDAR/CHIEF RIGHTS, FORTS, ARMED FOLLOWING AND CUSTOM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUBA → subadar + provincial diwan + bakhshi + sadr/qazi + news writer",
+        "SARKAR → faujdar + amalguzar/amil; jurisdictions may overlap",
+        "PARGANA → shiqdar + amin/munsif + qanungo + chaudhuri + fotedar/karkun",
+        "VILLAGE → muqaddam/headman + patwari + panchayat + cultivator",
+        "LOCAL POWER → zamindar/chief rights, forts, armed following and custom"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SUBA → subadar + provincial diwan + bakhshi + sadr/qazi + news writer",
+            "SARKAR → faujdar + amalguzar/amil; jurisdictions may overlap",
+            "PARGANA → shiqdar + amin/munsif + qanungo + chaudhuri + fotedar/karkun"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "VILLAGE → muqaddam/headman + patwari + panchayat + cultivator",
+            "LOCAL POWER → zamindar/chief rights, forts, armed following and custom",
+            "1580 → twelve subas; later conquest changes count, often fifteen by reign-end"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: formal ladder did not erase negotiated/regional practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: formal ladder did not erase negotiated/regional practice.",
+      "source_references": [
+        "Suba",
+        "Sarkar",
+        "Pargana",
+        "Village",
+        "Provincial checks",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MANSABDARI: RANK, REMUNERATION AND OBLIGATION",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RANK, REMUNERATION AND OBLIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "NUMERICAL STATUS + REMUNERATION + SERVICE RELATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TURANI + IRANI + AFGHAN + INDIAN MUSLIM +",
+          "role": "comparison"
+        },
+        {
+          "text": "RULER-CENTRED INTEGRATION AND DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "MILITARY + PROVINCIAL + COURT + ADMINISTRATIVE ROLES",
+          "role": "institution"
+        },
+        {
+          "text": "CASH OR JAGIR REALIZATION; RANK IS NOT LAND OWNERSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "ARMY WAS NOT MANSAB CAVALRY ALONE",
+          "role": "caution"
+        },
+        {
+          "text": "NOT A MODERN MERIT CIVIL SERVICE OR ONE STATIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MANSAB → numerical status + remuneration + service relation",
+        "RECRUIT → Turani + Irani + Afghan + Indian Muslim + Rajput + others",
+        "APPOINT/PROMOTE/TRANSFER → ruler-centred integration and discipline",
+        "SERVICE → military + provincial + court + administrative roles",
+        "PAY → cash or jagir realization; rank is not land ownership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MANSAB → numerical status + remuneration + service relation",
+            "RECRUIT → Turani + Irani + Afghan + Indian Muslim + Rajput + others",
+            "APPOINT/PROMOTE/TRANSFER → ruler-centred integration and discipline"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SERVICE → military + provincial + court + administrative roles",
+            "PAY → cash or jagir realization; rank is not land ownership",
+            "AHADIS/ARTILLERY/INFANTRY → army was not mansab cavalry alone"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: not a modern merit civil service or one static table."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: not a modern merit civil service or one static table.",
+      "source_references": [
+        "Mansab",
+        "Composite elite",
+        "Salary",
+        "Service",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ZAT, SAWAR AND JAGIR LOGIC",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ZAT, SAWAR AND JAGIR LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "LATE AKBAR",
+          "role": "outcome"
+        },
+        {
+          "text": "ZAT BROADLY PERSONAL RANK/PAY",
+          "role": "comparison"
+        },
+        {
+          "text": "SAWAR CAVALRY OBLIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANGED; EARLIER RANKS CANNOT BE READ THROUGH FINAL FORMULA",
+          "role": "primary"
+        },
+        {
+          "text": "TANKHWAH JAGIR",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE ASSIGNMENT IN LIEU OF SALARY",
+          "role": "comparison"
+        },
+        {
+          "text": "REVENUE RESERVED FOR CENTRAL EXPENDITURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LATE AKBAR → ZAT broadly personal rank/pay",
+        "SAWAR cavalry obligation",
+        "RATIOS/CATEGORIES → changed; earlier ranks cannot be read through final formula",
+        "TANKHWAH JAGIR → revenue assignment in lieu of salary",
+        "KHALISA → revenue reserved for central expenditure"
+      ],
+      "matrix": [
+        [
+          "LATE AKBAR → ZAT broadly personal rank/pay",
+          "SAWAR cavalry obligation"
+        ],
+        [
+          "JAMA → assessed paper demand",
+          "HASIL → amount realized"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LATE AKBAR → ZAT broadly personal rank/pay",
+            "SAWAR cavalry obligation",
+            "RATIOS/CATEGORIES → changed; earlier ranks cannot be read through final formula"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TANKHWAH JAGIR → revenue assignment in lieu of salary",
+            "KHALISA → revenue reserved for central expenditure",
+            "JAMA → assessed paper demand"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "HASIL → amount realized",
+            "MASHRUT/DU-ASPA SIH-ASPA → later Mughal refinements, not normal Akbar",
+            "DEPENDENCE → salary, status and assignment tied elite to emperor."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEPENDENCE → salary, status and assignment tied elite to emperor.",
+      "source_references": [
+        "Zat",
+        "Sawar",
+        "Jagir",
+        "Khalisa",
+        "Jama-hasil",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DAGH, CHEHRA AND THE VERIFICATION PROBLEM",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DAGH, CHEHRA AND THE VERIFICATION PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "PAPER RANK",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIMED CAVALRY OBLIGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DESCRIPTIVE ROLL OF TROOPER/PERSONNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "BRANDED HORSE IDENTIFICATION AND INSPECTION",
+          "role": "primary"
+        },
+        {
+          "text": "AKBAR-PERIOD STRENGTHENING WITH SULTANATE/SUR PRECEDENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MIR BAKHSHI RECORDS, DEDUCTIONS, CATEGORIES AND RESISTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSTITUTION/CORRUPTION/HARASSMENT CAN SURVIVE DOCUMENTATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PAPER RANK → claimed cavalry obligation",
+        "CHEHRA → descriptive roll of trooper/personnel",
+        "DAGH → branded horse identification and inspection",
+        "1573-74 → Akbar-period strengthening with Sultanate/Sur precedents",
+        "MUSTER → mir bakhshi records, deductions, categories and resistance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PAPER RANK → claimed cavalry obligation",
+            "CHEHRA → descriptive roll of trooper/personnel",
+            "DAGH → branded horse identification and inspection"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "1573-74 → Akbar-period strengthening with Sultanate/Sur precedents",
+            "MUSTER → mir bakhshi records, deductions, categories and resistance",
+            "GAP → substitution/corruption/harassment can survive documentation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: verification reduces but never eliminates paper-versus-field divergence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE: verification reduces but never eliminates paper-versus-field divergence.",
+      "source_references": [
+        "Dagh",
+        "Chehra",
+        "Muster",
+        "Mir bakhshi",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "REVENUE REFORM AS EXPERIMENT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "REVENUE REFORM AS EXPERIMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RESTORED SYSTEMS + CENTRAL PRICE PROBLEMS + PROVINCIAL VARIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "KARORI/MEASUREMENT AND RECORD EXPERIMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MUZAFFAR KHAN + TODAR MAL + SHAH MANSUR +",
+          "role": "evidence"
+        },
+        {
+          "text": "ILAHI GAZ/BIGHA + IRON-RING BAMBOO JARIB",
+          "role": "primary"
+        },
+        {
+          "text": "POLAJ + PARAUTI + CHACHAR + BANJAR",
+          "role": "outcome"
+        },
+        {
+          "text": "CROP/PRICE DATA ORGANIZED INTO REGIONAL DASTUR CIRCLES",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM EVOLVED THROUGH TRIAL, OFFICIALS AND LOCAL INFORMATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARLY → restored systems + central price problems + provincial variation",
+        "1570s → karori/measurement and record experiments",
+        "TEAM → Muzaffar Khan + Todar Mal + Shah Mansur + local qanungos",
+        "MEASURE → Ilahi gaz/bigha + iron-ring bamboo jarib",
+        "CLASSIFY → polaj + parauti + chachar + banjar"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "EARLY → restored systems + central price problems + provincial variation",
+            "1570s → karori/measurement and record experiments",
+            "TEAM → Muzaffar Khan + Todar Mal + Shah Mansur + local qanungos"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "MEASURE → Ilahi gaz/bigha + iron-ring bamboo jarib",
+            "CLASSIFY → polaj + parauti + chachar + banjar",
+            "RATE → crop/price data organized into regional dastur circles"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE: reform evolved through trial, officials and local information."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: reform evolved through trial, officials and local information.",
+      "answer_line": "reform evolved through trial, officials and local information.",
+      "source_references": [
+        "Revenue experiments",
+        "Price problem",
+        "Dahsala team",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ZABT-DAHSALA CALCULATION CHAIN",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ZABT-DAHSALA CALCULATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MEASURE AREA AND IDENTIFY CROP/LAND CATEGORY",
+          "role": "outcome"
+        },
+        {
+          "text": "TEN-YEAR PRODUCE AND PRICE INFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "AVERAGES SUPPORT ANNUAL CASH-RATE SCHEDULE",
+          "role": "evidence"
+        },
+        {
+          "text": "REGIONAL CROP-PRICE/RATE CIRCLE, NOT EMPIRE-WIDE PRICE",
+          "role": "caution"
+        },
+        {
+          "text": "QUALIFIED ONE-THIRD NORM + CESSES/COLLECTION REALITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "CASH RISK TO CULTIVATOR",
+          "role": "caution"
+        },
+        {
+          "text": "NOT TEN-YEAR TAX, PERMANENT SETTLEMENT OR UNIFORM COVERAGE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ZABT → measure area and identify crop/land category",
+        "DATA → ten-year produce and price information",
+        "DAHSALA → averages support annual cash-rate schedule",
+        "DASTUR → regional crop-price/rate circle, not empire-wide price",
+        "DEMAND → qualified one-third norm + cesses/collection realities"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ZABT → measure area and identify crop/land category",
+            "DATA → ten-year produce and price information",
+            "DAHSALA → averages support annual cash-rate schedule"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DASTUR → regional crop-price/rate circle, not empire-wide price",
+            "DEMAND → qualified one-third norm + cesses/collection realities",
+            "JAMA → assessment"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "HASIL → realization",
+            "cash risk to cultivator",
+            "CAUTION: not ten-year tax, permanent settlement or uniform coverage."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: not ten-year tax, permanent settlement or uniform coverage.",
+      "source_references": [
+        "Jarib",
+        "Land categories",
+        "Dahsala",
+        "One-third",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "METHODS, GEOGRAPHY AND MEDIATION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "METHODS, GEOGRAPHY AND MEDIATION",
+          "role": "primary"
+        },
+        {
+          "text": "MEASURED CASH SCHEDULE IN SETTLED/RECORDED/MONETIZED ZONES",
+          "role": "outcome"
+        },
+        {
+          "text": "CROP SHARING AFTER HARVEST; VARIANTS DIFFER",
+          "role": "comparison"
+        },
+        {
+          "text": "MEASURE PLUS STANDING-CROP APPRAISAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ESTIMATE FROM PRIOR/LOCAL DEMAND WITHOUT FULL FRESH SURVEY",
+          "role": "primary"
+        },
+        {
+          "text": "BENGAL/DELTA + HILLS/FOREST/FRONTIER + UNCERTAIN CROPS LIMIT ZABT",
+          "role": "caution"
+        },
+        {
+          "text": "ZAMINDAR + CHAUDHURI + QANUNGO + MUQADDAM + PATWARI",
+          "role": "comparison"
+        },
+        {
+          "text": "METHOD FOLLOWED ECOLOGY, RECORDS, CROP AND BARGAINING.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ZABT → measured cash schedule in settled/recorded/monetized zones",
+        "BATAI → crop sharing after harvest; variants differ",
+        "KANKUT → measure plus standing-crop appraisal",
+        "NASAQ → estimate from prior/local demand without full fresh survey",
+        "REGION → Bengal/delta + hills/forest/frontier + uncertain crops limit zabt"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "ZABT → measured cash schedule in settled/recorded/monetized zones",
+          "NASAQ → estimate from prior/local demand without full fresh survey",
+          "RULE: method followed ecology, records, crop and bargaining."
+        ],
+        [
+          "BATAI → crop sharing after harvest; variants differ",
+          "REGION → Bengal/delta + hills/forest/frontier + uncertain crops limit zabt",
+          "CLOSE DISTINCTION: Zabt and dahsala depended on measurement, prices and assessment but were not uniformly applicable everywhere."
+        ],
+        [
+          "KANKUT → measure plus standing-crop appraisal",
+          "MEDIATION → zamindar + chaudhuri + qanungo + muqaddam + patwari",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ZABT → measured cash schedule in settled/recorded/monetized zones",
+            "BATAI → crop sharing after harvest; variants differ",
+            "KANKUT → measure plus standing-crop appraisal"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "NASAQ → estimate from prior/local demand without full fresh survey",
+            "REGION → Bengal/delta + hills/forest/frontier + uncertain crops limit zabt",
+            "MEDIATION → zamindar + chaudhuri + qanungo + muqaddam + patwari"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: method followed ecology, records, crop and bargaining.",
+            "CLOSE DISTINCTION: Zabt and dahsala depended on measurement, prices and assessment but were not uniformly applicable everywhere."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: method followed ecology, records, crop and bargaining.",
+      "answer_line": "CLOSE DISTINCTION: Zabt and dahsala depended on measurement, prices and assessment but were not uniformly applicable everywhere.",
+      "source_references": [
+        "Zabt",
+        "Batai",
+        "Kankut",
+        "Nasaq",
+        "Zamindar",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CONTINUITY, EVIDENCE AND STRUCTURAL LIMITS",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONTINUITY, EVIDENCE AND STRUCTURAL LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "AIN IDEAL/ENUMERATION VERSUS FARMAN/RECORD/COIN/REGIONAL OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSIGNMENT + MEASURE + DAGH/CHEHRA + LOCAL OFFICES",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBA CHECKS + MANSAB-JAGIR + EVOLVING ZABT/DAHSALA METHODS",
+          "role": "evidence"
+        },
+        {
+          "text": "JAMA-HASIL + JAGIR PRESSURE + PAPER TROOPS + CORRUPTION",
+          "role": "primary"
+        },
+        {
+          "text": "STRONG BUT PERSONAL, DEPENDENT ON APPOINTMENTS/REPORTS",
+          "role": "outcome"
+        },
+        {
+          "text": "JAHANGIR/SHAH JAHAN CHANGES; NO CRISIS PROJECTED FULLY BACKWARD",
+          "role": "caution"
+        },
+        {
+          "text": "HIGH STATE CAPACITY THROUGH NEGOTIATED, UNEVEN IMPLEMENTATION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "SOURCE → Ain ideal/enumeration versus farman/record/coin/regional outcome",
+        "SULTANATE/SUR → assignment + measure + dagh/chehra + local offices",
+        "AKBAR → suba checks + mansab-jagir + evolving zabt/dahsala methods",
+        "TENSIONS → jama-hasil + jagir pressure + paper troops + corruption + cash risk",
+        "CENTRE → strong but personal, dependent on appointments/reports"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "SOURCE → Ain ideal/enumeration versus farman/record/coin/regional outcome",
+          "TENSIONS → jama-hasil + jagir pressure + paper troops + corruption + cash risk",
+          "VERDICT: high state capacity through negotiated, uneven implementation."
+        ],
+        [
+          "SULTANATE/SUR → assignment + measure + dagh/chehra + local offices",
+          "CENTRE → strong but personal, dependent on appointments/reports",
+          "EVIDENCE LIMIT: Imperial regulations must be distinguished from local practice, crop variation and later administrative adjustment."
+        ],
+        [
+          "AKBAR → suba checks + mansab-jagir + evolving zabt/dahsala methods",
+          "LATER → Jahangir/Shah Jahan changes; no crisis projected fully backward",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "SOURCE → Ain ideal/enumeration versus farman/record/coin/regional outcome",
+            "SULTANATE/SUR → assignment + measure + dagh/chehra + local offices",
+            "AKBAR → suba checks + mansab-jagir + evolving zabt/dahsala methods"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "TENSIONS → jama-hasil + jagir pressure + paper troops + corruption + cash risk",
+            "CENTRE → strong but personal, dependent on appointments/reports",
+            "LATER → Jahangir/Shah Jahan changes; no crisis projected fully backward"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: high state capacity through negotiated, uneven implementation.",
+            "EVIDENCE LIMIT: Imperial regulations must be distinguished from local practice, crop variation and later administrative adjustment."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: high state capacity through negotiated, uneven implementation.",
+      "answer_line": "EVIDENCE LIMIT: Imperial regulations must be distinguished from local practice, crop variation and later administrative adjustment.",
+      "source_references": [
+        "Continuity",
+        "Ain-i-Akbari",
+        "DILRMP",
+        "Structural limits",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 16 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 16 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "AIN NORM + DOCUMENT/REGION + ASSESSMENT/REALIZATION DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "RULER-CENTRED CENTRAL/PROVINCIAL CHECKS",
+          "role": "comparison"
+        },
+        {
+          "text": "MANSAB + ZAT/SAWAR + JAGIR + MUSTER/TRANSFER",
+          "role": "evidence"
+        },
+        {
+          "text": "MEASURE + CATEGORIES + DASTUR + DAHSALA + ALTERNATIVE",
+          "role": "primary"
+        },
+        {
+          "text": "ZAMINDAR/CHAUDHURI/QANUNGO/MUQADDAM/PATWARI + DIFFERENTIATED PEASANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGY + CASH + CORRUPTION + JAMA-HASIL + PERSONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJOR TEAM-BUILT SYSTEM, NEITHER SOLE INVENTION NOR IMPERSONAL UNIFORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE → Ain norm + document/region + assessment/realization distinction",
+        "OFFICES → ruler-centred central/provincial checks",
+        "ELITE → mansab + zat/sawar + jagir + muster/transfer",
+        "FISCAL → measure + categories + dastur + dahsala + alternative methods",
+        "LOCAL → zamindar/chaudhuri/qanungo/muqaddam/patwari + differentiated peasants"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SOURCE → Ain norm + document/region + assessment/realization distinction",
+            "OFFICES → ruler-centred central/provincial checks",
+            "ELITE → mansab + zat/sawar + jagir + muster/transfer"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FISCAL → measure + categories + dastur + dahsala + alternative methods",
+            "LOCAL → zamindar/chaudhuri/qanungo/muqaddam/patwari + differentiated peasants",
+            "LIMIT → ecology + cash + corruption + jama-hasil + personal centre"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → major team-built system, neither sole invention nor impersonal uniform state."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → major team-built system, neither sole invention nor impersonal uniform state.",
+      "source_references": [
+        "Answer architecture",
+        "Administrative synthesis",
+        "Qualified verdict",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\16_State-and-Government-under-Akbar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g3\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g4\\medieval-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "STATE & GOVERNMENT UNDER AKBAR (MANSABDARI, DAHSALA) — ADVANCED",
+          "role": "institution"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "State & Government under Akbar (Mansabdari, Dahsala) — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept note (PYQ-gap)",
+            "Part II argues that Akbar inherited Sultanate structures but reorganised departments so their",
+            "functions did not encroach on each other and yet balanced one another."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

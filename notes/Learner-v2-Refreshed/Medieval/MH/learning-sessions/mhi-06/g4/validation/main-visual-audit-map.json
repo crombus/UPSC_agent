@@ -1,0 +1,3131 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\medieval-indian-history-06_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\medieval-indian-history-06_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Decline of the Sultanate: Timur, Sayyids & Lodis - Complete Topic Package",
+      "preview": "Delhi Sultanate transition cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\00_transition_cover_delhi_to_panipat.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 443.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 11,
+      "heading": "Decline of the Sultanate: Timur, Sayyids & Lodis - Complete Topic Package",
+      "preview": "**Subject:** Medieval Indian History | **Topic:** 06 | **Export date:** 2026-08-16  **Approval:** false - awaiting explicit user approval.  **Source order:** repository Markdown -> local OCR-searchable Satish Chandra concise volume, Part I ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 443.756
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 342.288
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 17,
+      "markdown_body_line_end": 24,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 284.288
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 65.287
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 46,
+      "markdown_body_line_end": 46,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\medieval-indian-history-06_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 141.556
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 71,
+      "heading": "Sources actually used",
+      "preview": "Source class | Exact source | Use and caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Source class",
+          "Exact source",
+          "Use and caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 344.29
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 111,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The exam-safe framing is regionalisation plus fiscal-military transition, not a schoolbook morality tale about weak rulers alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 180.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 113.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 132,
+      "markdown_body_line_end": 132,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "01. 1388-1526 chronology and evidence spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\01_1388_1526_chronology_evidence_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 499.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 191.956
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 145,
+      "heading": "Topic ownership firewall",
+      "preview": "Owner | What remains primarily there | What Topic 06 legitimately uses",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Owner",
+          "What remains primarily there",
+          "What Topic 06 legitimately uses"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 501.09
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 173,
+      "heading": "CLOSING RECALL FLOW - SCOPE, FRAMING AND CHRONOLOGY DISCIPLINE",
+      "preview": "START / CONCEPT: Scope, framing and chronology discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 331.49
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 120.49
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 184,
+      "markdown_body_line_end": 184,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The famous quip that the dominion of the \"Lord of the Universe\" extended only from Delhi to Palam captures prestige loss, even if its exact phrasing is literary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 205,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "02. Late-Tughlaq succession and faction flow",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\04_late_tughlaq_succession_faction_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 230.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 217,
+      "heading": "Secure bridge points from Topic 05",
+      "preview": "Bridge point | Secure statement | Why Topic 06 needs it",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Bridge point",
+          "Secure statement",
+          "Why Topic 06 needs it"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 258.754
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 238,
+      "heading": "CLOSING RECALL FLOW - FROM FIRUZ'S LATE REGIME TO THE POST-1388 SUCCESSION CRISIS",
+      "preview": "START / CONCEPT: From Firuz's late regime to the post-1388 succession crisis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 249,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Sultanate was vulnerable because succession remained open, iqta extraction depended on supervision, cavalry and fort maintenance were expensive, communications were slow, climate and ecology varied sharply by region, and regional agrari",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 341.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 270,
+      "markdown_body_line_end": 270,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "03. Structural fragmentation causal web",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\02_structural_fragmentation_causal_web.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 693.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 386.356
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 276,
+      "markdown_body_line_end": 283,
+      "heading": "Structural matrix",
+      "preview": "Structural pressure | Mechanism | Political effect | Exam-safe caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Structural pressure",
+          "Mechanism",
+          "Political effect",
+          "Exam-safe caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 335.956
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 73.554
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 304,
+      "heading": "CLOSING RECALL FLOW - WHY THE SULTANATE FRAGMENTED: STRUCTURAL CAUSES, NOT A WEAK-SUCCESSOR CLICHÉ",
+      "preview": "START / CONCEPT: Why the Sultanate fragmented: structural causes, not a weak-successor cliché",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 351
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Topic 06 uses this not to deny Delhi's crisis, but to place it within a wider subcontinental redistribution of power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 336.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "04. Delhi contraction versus regional-state formation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\03_delhi_contraction_regiona-570e4a1a3c.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 414.756
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 349,
+      "heading": "Brief regional-owner matrix",
+      "preview": "Region / polity | Why Topic 06 needs it | Exam-safe takeaway | Detailed owner",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Region / polity",
+          "Why Topic 06 needs it",
+          "Exam-safe takeaway",
+          "Detailed owner"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 364.356
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 154.454
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 353,
+      "markdown_body_line_end": 370,
+      "heading": "CLOSING RECALL FLOW - DELHI'S CONTRACTION VERSUS REGIONAL-STATE FORMATION",
+      "preview": "START / CONCEPT: Delhi's contraction versus regional-state formation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 381,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The local books are firm on motive at the broadest level: the Indian incursion was a plundering raid aimed at seizing the wealth accumulated by the Delhi sultans over roughly two centuries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 402,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "05. Timur route, raid and withdrawal schematic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\05_timur_route_raid_withdraw-2d35733300.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 708.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 400.556
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 406,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "06. Timur motives, claims and evidence matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\06_timur_motives_claims_evidence_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 367.156
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 59.62
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 417,
+      "heading": "Claims versus motives table",
+      "preview": "Layer | Secure minimum | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Layer",
+          "Secure minimum",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 565.09
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 438,
+      "heading": "CLOSING RECALL FLOW - TIMUR BEFORE DELHI: CENTRAL ASIAN CONTEXT, ROUTE, MOTIVE AND SELF-JUSTIFICATION",
+      "preview": "START / CONCEPT: Timur before Delhi: Central Asian context, route, motive and self-justification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 530.09
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 279.09
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 449,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The local concise text is unequivocal that Delhi was sacked without mercy and that large numbers of people - Hindu and Muslim, women and children included - were killed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 139.29
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 72.622
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 470,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. Sack, consequence and recovery timeline",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\07_sack_consequence_recovery_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 446.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 138.556
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 476,
+      "markdown_body_line_end": 481,
+      "heading": "Secure phrasing bank for the sack of Delhi",
+      "preview": "Unsafe phrasing | Better phrasing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Unsafe phrasing",
+          "Better phrasing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 633.09
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 502,
+      "heading": "CLOSING RECALL FLOW - DELHI 1398: SACK, VIOLENCE, DESTRUCTION AND SOURCE CAUTION",
+      "preview": "START / CONCEPT: Delhi 1398: sack, violence, destruction and source caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 611.09
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 380.09
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 513,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This is a classic source-method lesson: court victories magnify legitimacy; later memoir claims may back-project authority; Indian chronicles stress the damage to Delhi; material evidence checks exaggeration but cannot by itself narrate mot",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 240.29
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 159.422
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 534,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "08. Timur source-criticism matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\08_timur_source_criticism_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 551.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 243.556
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 540,
+      "markdown_body_line_end": 545,
+      "heading": "Timur source-bank table",
+      "preview": "Source family | What it can give | Main caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Source family",
+          "What it can give",
+          "Main caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 610.69
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 566,
+      "heading": "CLOSING RECALL FLOW - HOW TO READ TIMUR: MEMOIR TRADITIONS, COURT CHRONICLES AND MATERIAL EVIDENCE",
+      "preview": "START / CONCEPT: How to read Timur: memoir traditions, court chronicles and material evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 575.69
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 324.69
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 577,
+      "markdown_body_line_end": 577,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The concise volume says the direct political effect of Timur's invasion was small in one narrow sense: Timur did not stay to govern India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 184.89
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 118.222
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 622,
+      "heading": "CLOSING RECALL FLOW - CONSEQUENCES OF THE INVASION: DISRUPTION, PRESTIGE COLLAPSE, POLITICAL VACUUM AND CONTINUITY",
+      "preview": "START / CONCEPT: Consequences of the invasion: disruption, prestige collapse, political vacuum and continuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 409.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 168.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 633,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Standard textbook statements that Khizr Khan never assumed the full title of sultan are plausible and widely repeated, but the safest exam phrasing is: he ruled cautiously under the symbolic shadow of Timurid legitimacy rather than as a ful",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 654,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "09. Khizr Khan and Timurid legitimacy chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\11_khizr_khan_timurid_legitimacy_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 202.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 664,
+      "heading": "Khizr Khan phrasing bank",
+      "preview": "Unsafe phrasing | Better phrasing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Unsafe phrasing",
+          "Better phrasing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 323.554
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 685,
+      "heading": "CLOSING RECALL FLOW - KHIZR KHAN: TIMURID CONNECTION, CAPTURE OF DELHI AND SYMBOLIC LEGITIMACY",
+      "preview": "START / CONCEPT: Khizr Khan: Timurid connection, capture of Delhi and symbolic legitimacy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 350
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 288.554
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 57.554
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 696,
+      "markdown_body_line_end": 696,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The secure ruler ladder is: Khizr Khan (1414-1421), Mubarak Shah (1421-1434), Muhammad Shah (1434-1445) and Alauddin Alam Shah (1445-1451).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 717,
+      "markdown_body_line_end": 717,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Sayyid ruler ladder and territorial reach caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\09_sayyid_ruler_ladder_terri-bef7ab57f0.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 273.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 728,
+      "heading": "Compact Sayyid ruler table",
+      "preview": "Ruler | Regnal span | Safe significance | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Ruler",
+          "Regnal span",
+          "Safe significance",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 318.454
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 732,
+      "markdown_body_line_end": 749,
+      "heading": "CLOSING RECALL FLOW - SAYYID RULER LADDER: COMPACT CHRONOLOGY WITHOUT PADDING",
+      "preview": "START / CONCEPT: Sayyid ruler ladder: compact chronology without padding",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 296.454
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 95.454
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 760,
+      "markdown_body_line_end": 760,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The advanced owner file states that the Sayyids could not establish themselves firmly and were pressured by the Khokhars of the Punjab, the Mewatis, and the Sharqi rulers of Jaunpur.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 781,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11. Sayyid weak-sovereignty tribute network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\10_sayyid_weak_sovereignty_t-efae2f11a9.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 273.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        30,
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 792,
+      "heading": "Symbol versus reality under the Sayyids",
+      "preview": "Dimension | Symbolic claim | Operational reality",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Symbolic claim",
+          "Operational reality"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 313.554
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 813,
+      "heading": "CLOSING RECALL FLOW - NATURE OF THE SAYYID STATE: WEAK SOVEREIGNTY, TRIBUTE AND LIMITED COERCIVE REACH",
+      "preview": "START / CONCEPT: Nature of the Sayyid state: weak sovereignty, tribute and limited coercive reach",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 278.554
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 47.554
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 824,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "In Topic 06, the regional world is not an appendix; it is the context that explains why Delhi could no longer command the subcontinent simply by invoking old prestige.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 845,
+      "markdown_body_line_end": 862,
+      "heading": "CLOSING RECALL FLOW - REGIONAL POWERS IN THE SAYYID-LODI AGE: DELHI LOST RANGE, NOT INDIAN VITALITY",
+      "preview": "START / CONCEPT: Regional powers in the Sayyid-Lodi age: Delhi lost range, not Indian vitality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 873,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "\"Afghan political culture\" is a historical shorthand, not a biological or unchanging fact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 897,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "12. Afghan political tradition: claims versus cautions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\12_afghan_political_traditio-0841c252d8.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 710.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 402.556
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 903,
+      "markdown_body_line_end": 908,
+      "heading": "Analytical contrast table",
+      "preview": "Lens | Earlier high-Sultanate court monarchy | Lodi-Afghan tendency",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Lens",
+          "Earlier high-Sultanate court monarchy",
+          "Lodi-Afghan tendency"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 352.156
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 220.354
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 929,
+      "heading": "CLOSING RECALL FLOW - AFGHAN POLITICAL TRADITIONS: SOLIDARITY, EQUALITY CLAIMS, CONSULTATION AND CAUTION",
+      "preview": "START / CONCEPT: Afghan political traditions: solidarity, equality claims, consultation and caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 940,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Part I OCR states that Bahlul Lodi had established himself in Punjab along with Afghan sardars, checked the Khokhars, dominated Punjab, and - once called in to help the Delhi ruler against Malwa - stayed on until his men took control of",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 318.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 961,
+      "markdown_body_line_end": 961,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "13. Bahlul consolidation and Jaunpur flow",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\13_bahlul_consolidation_jaunpur_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 414.756
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 967,
+      "markdown_body_line_end": 972,
+      "heading": "Why Bahlul matters",
+      "preview": "Dimension | Historical importance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Historical importance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 364.356
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 210.154
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 993,
+      "heading": "CLOSING RECALL FLOW - BAHLUL LODI: AFGHAN MOBILISATION, DELHI TAKEOVER AND JAUNPUR STRATEGY",
+      "preview": "START / CONCEPT: Bahlul Lodi: Afghan mobilisation, Delhi takeover and Jaunpur strategy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 276
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1004,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The OCR describes Sikandar Lodi (1489-1517) as the most important Lodi ruler.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 393.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 341.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1025,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. Sikandar centralisation, Agra and revenue matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\14_sikandar_centralisation_a-55e8ad102b.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 443.156
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1031,
+      "markdown_body_line_end": 1037,
+      "heading": "Sikandar's state-building toolkit",
+      "preview": "Measure | Function | Why UPSC cares",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Measure",
+          "Function",
+          "Why UPSC cares"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 392.756
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 228.554
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1041,
+      "markdown_body_line_end": 1058,
+      "heading": "CLOSING RECALL FLOW - SIKANDAR LODI: NOBLE DISCIPLINE, REVENUE CONTROL AND THE FOUNDING OF AGRA",
+      "preview": "START / CONCEPT: Sikandar Lodi: noble discipline, revenue control and the founding of Agra",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1069,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The later tradition that Sikandar wrote Persian poetry under the pen-name Gulrukhi is widely repeated and plausible, but it should be used as a minor cultural marker rather than as the centre of an answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 332.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1090,
+      "markdown_body_line_end": 1090,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "15. Economy recovery versus political fragmentation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\20_economy_recovery_vs_fragmentation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 443.156
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1096,
+      "markdown_body_line_end": 1101,
+      "heading": "Nuanced Sikandar table",
+      "preview": "Domain | Secure evidence | Better interpretation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Domain",
+          "Secure evidence",
+          "Better interpretation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 392.756
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 238.554
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1122,
+      "heading": "CLOSING RECALL FLOW - SIKANDAR LODI BEYOND THE BINARY: ORTHODOXY, CULTURE, LANGUAGE AND ECONOMIC RECOVERY",
+      "preview": "START / CONCEPT: Sikandar Lodi beyond the binary: orthodoxy, culture, language and economic recovery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 316
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The local Part II OCR presents Ibrahim Lodi as more energetic and ambitious than a simple \"last weak ruler\" stereotype suggests.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 373.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 306.824
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1154,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "16. Ibrahim Lodi noble-conflict causal chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\15_ibrahim_noble_conflict_causal_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 414.756
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1160,
+      "markdown_body_line_end": 1165,
+      "heading": "Why Ibrahim failed to stabilise the throne",
+      "preview": "Pressure point | Mechanism | Effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Pressure point",
+          "Mechanism",
+          "Effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 364.356
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 232.554
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1186,
+      "heading": "CLOSING RECALL FLOW - IBRAHIM LODI: CENTRALISING MONARCHY, AFGHAN RESENTMENT AND DYNASTIC FRACTURE",
+      "preview": "START / CONCEPT: Ibrahim Lodi: centralising monarchy, Afghan resentment and dynastic fracture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1197,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The road to Panipat therefore had three interlocking layers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 417.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 365.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1222,
+      "markdown_body_line_end": 1222,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "17. Road to Panipat coalition network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\16_road_to_panipat_coalition_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 448.156
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1245,
+      "heading": "CLOSING RECALL FLOW - THE ROAD TO PANIPAT: BABUR'S AIMS, PUNJAB POLITICS AND COALITION BREAKDOWN",
+      "preview": "START / CONCEPT: The road to Panipat: Babur's aims, Punjab politics and coalition breakdown",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 379.756
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 178.756
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The secure exam line is that Ibrahim's army was larger, Babur's was smaller but better organised, and victory came from system, discipline and leadership - not guns alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1275,
+      "markdown_body_line_end": 1275,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "18. Panipat battlefield system",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\17_panipat_battlefield_system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 278.024
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        45,
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1279,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "19. Why Babur won: multi-causal matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\18_why_babur_won_multicausal_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1285,
+      "markdown_body_line_end": 1291,
+      "heading": "Why \"guns alone\" is wrong",
+      "preview": "Factor | Babur's advantage | Ibrahim's weakness",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Factor",
+          "Babur's advantage",
+          "Ibrahim's weakness"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1295,
+      "markdown_body_line_end": 1312,
+      "heading": "CLOSING RECALL FLOW - FIRST BATTLE OF PANIPAT (1526): BATTLEFIELD SYSTEM, TECHNOLOGY AND ORGANISATION",
+      "preview": "START / CONCEPT: First Battle of Panipat (1526): battlefield system, technology and organisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 621.69
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 390.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1323,
+      "markdown_body_line_end": 1323,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Part II OCR directly warns that Panipat, despite being decisive in one sense, was not really decisive politically in the broader subcontinental sense.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 250.89
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 184.222
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1342,
+      "markdown_body_line_end": 1342,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "20. Continuity after 1526 matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\19_continuity_after_1526_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 612.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 305.356
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1353,
+      "heading": "Change versus continuity after 1526",
+      "preview": "Changed quickly | Continued substantially",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Changed quickly",
+          "Continued substantially"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 269.156
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 137.354
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1357,
+      "markdown_body_line_end": 1374,
+      "heading": "CLOSING RECALL FLOW - TRANSITION FROM SULTANATE TO MUGHAL RULE: WHY 1526 WAS DECISIVE BUT NOT FINAL",
+      "preview": "START / CONCEPT: Transition from Sultanate to Mughal rule: why 1526 was decisive but not final",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1385,
+      "markdown_body_line_end": 1385,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lodi administration is best described as a partly restored military-fiscal monarchy under persistent bargaining pressure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1408,
+      "markdown_body_line_end": 1425,
+      "heading": "CLOSING RECALL FLOW - LODI ADMINISTRATION, ARMY, ECONOMY AND SOCIETY",
+      "preview": "START / CONCEPT: Lodi administration, army, economy and society",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 714.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 473.491
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1436,
+      "markdown_body_line_end": 1436,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The late Sultanate and Lodi period saw a growing preference for tombs on high platforms, the use of octagonal and square plans, and the shaping of tombs within garden settings that later anticipate Mughal funerary landscapes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 300.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 233.824
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1455,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "21. Sayyid-Lodi architecture comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\21_sayyid_lodi_architecture_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 674.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 367.156
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1461,
+      "markdown_body_line_end": 1466,
+      "heading": "Architecture takeaway",
+      "preview": "Feature | Why it matters historically",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Why it matters historically"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 316.756
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 207.354
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1470,
+      "markdown_body_line_end": 1487,
+      "heading": "CLOSING RECALL FLOW - SAYYID-LODI ARCHITECTURE: BOUNDED FORMS, TOMB LANDSCAPES AND THE ROAD TO MUGHAL GARDEN-TOMBS",
+      "preview": "START / CONCEPT: Sayyid-Lodi architecture: bounded forms, tomb landscapes and the road to Mughal garden-tombs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1498,
+      "markdown_body_line_end": 1498,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Source handling should follow a simple rule: the closer a source is to events, the more valuable it may be for sequence - but also the more it may serve a live political agenda.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 360.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 293.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1521,
+      "markdown_body_line_end": 1521,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "22. Source contemporaneity and agenda matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\22_source_contemporaneity_agenda_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 656.491
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 348.956
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1525,
+      "markdown_body_line_end": 1525,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "23. Historiography ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\23_historiography_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 329.756
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        53,
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1531,
+      "markdown_body_line_end": 1548,
+      "heading": "CLOSING RECALL FLOW - SOURCES AND HISTORIOGRAPHY: CONTEMPORANEITY, AGENDA AND THE DECLINE-VERSUS-REGIONALISATION DEBATE",
+      "preview": "START / CONCEPT: Sources and historiography: contemporaneity, agenda and the decline-versus-regionalisation debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 716.49
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 475.49
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1559,
+      "markdown_body_line_end": 1559,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Historical significance and GS-I answer synthesis comprises Historical significance, GS-I answer synthesis and Intro as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 335.69
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 269.022
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1583,
+      "markdown_body_line_end": 1583,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "24. GS-I answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-06\\g4\\assets\\24_gs1_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 657.491
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 349.956
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1599,
+      "markdown_body_line_end": 1616,
+      "heading": "CLOSING RECALL FLOW - HISTORICAL SIGNIFICANCE AND GS-I ANSWER SYNTHESIS",
+      "preview": "START / CONCEPT: Historical significance and GS-I answer synthesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 706
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1627,
+      "markdown_body_line_end": 1627,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The linkage is useful for teaching Lodi restoration, monument afterlives and evidence limits; it does not prove the territorial reach or administrative effectiveness of the Lodi state.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 409.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 343.024
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1646,
+      "markdown_body_line_end": 1663,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1674,
+      "markdown_body_line_end": 1681,
+      "heading": "Timur and Sayyid evidence",
+      "preview": "Control | Exam-safe position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Exam-safe position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 432.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 213.49
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2753,
+      "markdown_body_line_end": 2756,
+      "heading": "Decline of the Sultanate: Timur, Sayyids & Lodis - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1206–1526)* — ch",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 336.091
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 234.624
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2762,
+      "markdown_body_line_end": 2772,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 587.89
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2795,
+      "markdown_body_line_end": 2803,
+      "heading": "2. Key classification / data",
+      "preview": "Power / region | Role in post-Tughlaq north India | Significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Power / region",
+          "Role in post-Tughlaq north India",
+          "Significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 601.09
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2807,
+      "markdown_body_line_end": 2809,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Firuz's heredity and weak army → `advanced/05_Tughlaqs.md`. **Study link:** ✅ Regional kingdoms (Gujarat, Malwa, Mewar, Bengal) → later `basic/08` / `advanced/08` regional files. **Study link:** ⚠️ Afghan political culture",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 576.09
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 517.222
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2824,
+      "markdown_body_line_end": 2824,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: The fifteenth century is not a blank \"decline\" between Sultanate and Mughals; it is a regional-state century.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 301.222
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 256.554
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2851,
+      "markdown_body_line_end": 2862,
+      "heading": "Register Module 01 - 1388 to 1526 chronology spine",
+      "preview": "Date / phase | What to remember | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Date / phase",
+          "What to remember",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 512.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 275.89
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2879,
+      "markdown_body_line_end": 2884,
+      "heading": "Register Module 03 - Delhi contraction versus regional vitality",
+      "preview": "Delhi-side decline | Regional-side vitality",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Delhi-side decline",
+          "Regional-side vitality"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2902,
+      "markdown_body_line_end": 2907,
+      "heading": "Register Module 05 - Sayyids in one page",
+      "preview": "Ruler | Years | Core note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Ruler",
+          "Years",
+          "Core note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 453.69
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 344.288
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2926,
+      "markdown_body_line_end": 2932,
+      "heading": "Register Module 07 - Sikandar Lodi in one sheet",
+      "preview": "Area | Key points",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Area",
+          "Key points"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2949,
+      "markdown_body_line_end": 2956,
+      "heading": "Register Module 09 - Sources and source caution",
+      "preview": "Source | Use | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Source",
+          "Use",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 463.89
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 312.088
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2978,
+      "markdown_body_line_end": 2987,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: From Firuz's death to Panipat",
+      "preview": "1388 Firuz dies -> succession and factional crisis",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 670.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2991,
+      "markdown_body_line_end": 3001,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Structural fragmentation web",
+      "preview": "UNCERTAIN SUCCESSION + HEREDITARY OFFICE + NOBLE FACTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 545.891
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3005,
+      "markdown_body_line_end": 3012,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Decline versus regionalisation",
+      "preview": "DELHI-CENTRED VIEW               SUBCONTINENTAL VIEW",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 523.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 451.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3016,
+      "markdown_body_line_end": 3023,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Timur's raid as external shock",
+      "preview": "CENTRAL ASIA -> INDUS / PUNJAB -> DELHI, 1398",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 429.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 357.491
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3027,
+      "markdown_body_line_end": 3035,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: How to read Timur's evidence",
+      "preview": "TIMURID MEMOIR / ZAFARNAMA -> route and justification | victory rhetoric",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 335.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 253.091
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3039,
+      "markdown_body_line_end": 3047,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Sayyid ruler ladder and weak sovereignty",
+      "preview": "KHIZR KHAN 1414-21 -> Punjab base + Timurid link + limited Delhi sovereignty",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3051,
+      "markdown_body_line_end": 3058,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Afghan political tradition",
+      "preview": "SOLIDARITY -> lineage and Roh recruitment could aggregate fighting power",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3062,
+      "markdown_body_line_end": 3071,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Bahlul's consolidation strategy",
+      "preview": "PUNJAB / SIRHIND BASE + AFGHAN RECRUITMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3075,
+      "markdown_body_line_end": 3082,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Sikandar's state-building toolkit",
+      "preview": "NOBLES -> court discipline, farman ritual and jagir account checks",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 401.891
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3086,
+      "markdown_body_line_end": 3096,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Ibrahim's fracture and Panipat system",
+      "preview": "IBRAHIM CENTRALISES -> Afghan chiefs resist status and autonomy loss",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 379.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 277.091
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3100,
+      "markdown_body_line_end": 3109,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: 1526: decisive but not instantly final",
+      "preview": "CHANGE -> Lodi dynasty falls and Mughal imperial project enters Delhi-Agra",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3113,
+      "markdown_body_line_end": 3120,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 06 answer spine",
+      "preview": "OPEN -> define decline as Delhi's contraction, not India's collapse",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    }
+  ]
+}

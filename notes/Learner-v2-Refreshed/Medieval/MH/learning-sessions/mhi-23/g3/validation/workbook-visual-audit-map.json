@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Solved-Practice-Workbook_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Solved-Practice-Workbook_2026-08-30.pdf",
+  "mode": "workbook",
+  "topic_key": "medieval-indian-history-23",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 9,
+      "markdown_body_line_end": 9,
+      "heading": "Learning MCQs (20; key rotation A -> B -> C -> D repeated five times)",
+      "preview": "Visual 78: answer evidence spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\assets\\78_78_mains_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 665.891
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 358.356
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 277,
+      "heading": "Broad MCQs (44; key rotation A -> B -> A -> D repeated eleven times)",
+      "preview": "Visual 79: rapid recall before practice",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\assets\\79_79_rapid_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 444.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 857,
+      "markdown_body_line_end": 857,
+      "heading": "Remedial MCQs (16; key rotation A -> B -> A -> D repeated four times)",
+      "preview": "Visual 75 repeat: fact-risk checks for distractors",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\assets\\75_75_fact_risk_ledger.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 332.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1085,
+      "markdown_body_line_end": 1085,
+      "heading": "Examiner-grade solved Mains practice (12 answers)",
+      "preview": "Visual 78: examiner-grade answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\assets\\78_78_mains_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 477.756
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1002 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-11",
+  "subject": "Modern-Indian-History",
+  "title": "THE REVOLT OF 1857",
+  "short_route": "PRE-1857 CIVIL REBELLIONS IN → SANTHAL HOOL IN THE → DOCTRINE OF LAPSE IN → ANNEXATION OF AWADH IN → GENERAL SERVICE ENLISTMENT ACT → ENFIELD CARTRIDGE IN THE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-11\\modern-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-09-13-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "30c049466d683d42eb66119533b25d6465381035cbcdba631988d27546935764",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PRE-1857 CIVIL REBELLIONS IN THE 1857 REVOLT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PRE-1857 CIVIL REBELLIONS IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "PRE-1857 CIVIL REBELLIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "SANYASI, CHUAR, POLIGAR AND OTHER CIVIL REBELLIONS SHOW RECURRENT",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE PRE-1857 CIVIL REBELLIONS TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER PRE-1857 CIVIL REBELLIONS TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Pre-1857 civil rebellions",
+        "EVIDENCE → Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857",
+        "EXAM USE → use Pre-1857 civil rebellions to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Pre-1857 civil rebellions to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Pre-1857 civil rebellions",
+            "EVIDENCE → Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Pre-1857 civil rebellions to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Pre-1857 civil rebellions to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Pre-1857 civil rebellions",
+            "EVIDENCE → Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance before 1857 without forming one national conspiracy."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Pre-1857 civil rebellions to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Pre-1857 civil rebellions to another institution or theatre.",
+      "source_references": [
+        "Pre-1857 civil rebellions",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SANTHAL HOOL IN THE 1857 REVOLT",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SANTHAL HOOL IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "SANTHAL HOOL",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SANTHAL HOOL OF 1855-56 UNDER SIDHU AND KANHU",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE SANTHAL HOOL TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER SANTHAL HOOL TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Santhal Hool",
+        "EVIDENCE → The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku",
+        "EXAM USE → use Santhal Hool to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Santhal Hool to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Santhal Hool",
+            "EVIDENCE → The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Santhal Hool to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Santhal Hool to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Santhal Hool",
+            "EVIDENCE → The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and anti-colonial uprising."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Santhal Hool to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Santhal Hool to another institution or theatre.",
+      "source_references": [
+        "Santhal Hool",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DOCTRINE OF LAPSE IN THE 1857 REVOLT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOCTRINE OF LAPSE IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "DOCTRINE OF LAPSE",
+          "role": "outcome"
+        },
+        {
+          "text": "DALHOUSIE'S DOCTRINE OF LAPSE DISPOSSESSED RULING HOUSES AND DEEPENED",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE DOCTRINE OF LAPSE TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER DOCTRINE OF LAPSE TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Doctrine of Lapse",
+        "EVIDENCE → Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.",
+        "EXAM USE → use Doctrine of Lapse to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Doctrine of Lapse to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → Doctrine of Lapse",
+          "EXAM USE → use Doctrine of Lapse to match actor, date, mechanism and limit.",
+          "FOCUS → Doctrine of Lapse"
+        ],
+        [
+          "EVIDENCE → Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857.",
+          "LIMIT → do not transfer Doctrine of Lapse to another institution or theatre.",
+          "EVIDENCE → Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Doctrine of Lapse",
+            "EVIDENCE → Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Doctrine of Lapse to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Doctrine of Lapse to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Doctrine of Lapse",
+            "EVIDENCE → Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political hostility before 1857."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Doctrine of Lapse to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Doctrine of Lapse to another institution or theatre.",
+      "source_references": [
+        "Doctrine of Lapse",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ANNEXATION OF AWADH IN THE 1857 REVOLT",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ANNEXATION OF AWADH IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "ANNEXATION OF AWADH",
+          "role": "outcome"
+        },
+        {
+          "text": "AWADH WAS ANNEXED IN 1856 ON ALLEGED MISGOVERNMENT, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE ANNEXATION OF AWADH TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER ANNEXATION OF AWADH TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Annexation of Awadh",
+        "EVIDENCE → Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of",
+        "EXAM USE → use Annexation of Awadh to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Annexation of Awadh to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Annexation of Awadh",
+            "EVIDENCE → Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Annexation of Awadh to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Annexation of Awadh to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Annexation of Awadh",
+            "EVIDENCE → Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Annexation of Awadh to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Annexation of Awadh to another institution or theatre.",
+      "source_references": [
+        "Annexation of Awadh",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GENERAL SERVICE ENLISTMENT ACT IN THE 1857 REVOLT",
+      "structural_type": "evidence-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "GENERAL SERVICE ENLISTMENT ACT IN THE 1857 REVOLT",
+          "role": "institution"
+        },
+        {
+          "text": "GENERAL SERVICE ENLISTMENT ACT",
+          "role": "institution"
+        },
+        {
+          "text": "THE GENERAL SERVICE ENLISTMENT ACT OF 1856 INTENSIFIED SEPOY",
+          "role": "institution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE GENERAL SERVICE ENLISTMENT ACT TO MATCH ACTOR, DATE",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT TRANSFER GENERAL SERVICE ENLISTMENT ACT TO ANOTHER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → General Service Enlistment Act",
+        "EVIDENCE → The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service",
+        "EXAM USE → use General Service Enlistment Act to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer General Service Enlistment Act to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → General Service Enlistment Act",
+            "EVIDENCE → The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use General Service Enlistment Act to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer General Service Enlistment Act to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → General Service Enlistment Act",
+            "EVIDENCE → The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas service and caste practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use General Service Enlistment Act to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer General Service Enlistment Act to another institution or theatre.",
+      "source_references": [
+        "General Service Enlistment Act",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ENFIELD CARTRIDGE IN THE 1857 REVOLT",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ENFIELD CARTRIDGE IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "ENFIELD CARTRIDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE GREASED-CARTRIDGE RUMOUR WAS THE IMMEDIATE TRIGGER OF 1857",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE ENFIELD CARTRIDGE TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER ENFIELD CARTRIDGE TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Enfield cartridge",
+        "EVIDENCE → The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete",
+        "EXAM USE → use Enfield cartridge to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Enfield cartridge to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Enfield cartridge",
+            "EVIDENCE → The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Enfield cartridge to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Enfield cartridge to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Enfield cartridge",
+            "EVIDENCE → The greased-cartridge rumour was the immediate trigger of 1857 rather than its complete cause."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Enfield cartridge to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Enfield cartridge to another institution or theatre.",
+      "source_references": [
+        "Enfield cartridge",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BARRACKPORE IN THE 1857 REVOLT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BARRACKPORE IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "MANGAL PANDEY'S BARRACKPORE EPISODE OCCURRED ON 29 MARCH 1857",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "comparison"
+        },
+        {
+          "text": "USE BARRACKPORE TO MATCH ACTOR, DATE, MECHANISM AND LIMIT.",
+          "role": "caution"
+        },
+        {
+          "text": "DO NOT TRANSFER BARRACKPORE TO ANOTHER INSTITUTION OR THEATRE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Barrackpore",
+        "EVIDENCE → Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak.",
+        "EXAM USE → use Barrackpore to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Barrackpore to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Barrackpore",
+            "EVIDENCE → Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Barrackpore to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Barrackpore to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Barrackpore",
+            "EVIDENCE → Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main outbreak."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Barrackpore to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Barrackpore to another institution or theatre.",
+      "source_references": [
+        "Barrackpore",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MEERUT OUTBREAK IN THE 1857 REVOLT",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MEERUT OUTBREAK IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "MEERUT OUTBREAK",
+          "role": "outcome"
+        },
+        {
+          "text": "THE MAIN REVOLT BEGAN AT MEERUT ON 10 MAY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE MEERUT OUTBREAK TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER MEERUT OUTBREAK TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Meerut outbreak",
+        "EVIDENCE → The main revolt began at Meerut on 10 May 1857 and the sepoys",
+        "EXAM USE → use Meerut outbreak to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Meerut outbreak to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Meerut outbreak",
+            "EVIDENCE → The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Meerut outbreak to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Meerut outbreak to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Meerut outbreak",
+            "EVIDENCE → The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Meerut outbreak to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Meerut outbreak to another institution or theatre.",
+      "source_references": [
+        "Meerut outbreak",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DELHI CENTRE IN THE 1857 REVOLT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DELHI CENTRE IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "DELHI CENTRE",
+          "role": "outcome"
+        },
+        {
+          "text": "BAHADUR SHAH ZAFAR BECAME THE SYMBOLIC EMPEROR AT DELHI",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE DELHI CENTRE TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER DELHI CENTRE TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Delhi centre",
+        "EVIDENCE → Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was",
+        "EXAM USE → use Delhi centre to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Delhi centre to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → Delhi centre",
+          "EXAM USE → use Delhi centre to match actor, date, mechanism and limit.",
+          "FOCUS → Delhi centre"
+        ],
+        [
+          "EVIDENCE → Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command.",
+          "LIMIT → do not transfer Delhi centre to another institution or theatre.",
+          "EVIDENCE → Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Delhi centre",
+            "EVIDENCE → Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Delhi centre to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Delhi centre to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Delhi centre",
+            "EVIDENCE → Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was associated with rebel command."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Delhi centre to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Delhi centre to another institution or theatre.",
+      "source_references": [
+        "Delhi centre",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "KANPUR LEADERSHIP IN THE 1857 REVOLT",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "KANPUR LEADERSHIP IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "KANPUR LEADERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "NANA SAHEB, TANTIA TOPE AND AZIMULLAH KHAN ARE ASSOCIATED",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE KANPUR LEADERSHIP TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER KANPUR LEADERSHIP TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Kanpur leadership",
+        "EVIDENCE → Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.",
+        "EXAM USE → use Kanpur leadership to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Kanpur leadership to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Kanpur leadership",
+            "EVIDENCE → Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Kanpur leadership to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Kanpur leadership to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Kanpur leadership",
+            "EVIDENCE → Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Kanpur leadership to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Kanpur leadership to another institution or theatre.",
+      "source_references": [
+        "Kanpur leadership",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "AWADH LEADERSHIP IN THE 1857 REVOLT",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AWADH LEADERSHIP IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "AWADH LEADERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "BEGUM HAZRAT MAHAL BECAME A MAJOR POLITICAL LEADER OF",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE AWADH LEADERSHIP TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER AWADH LEADERSHIP TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Awadh leadership",
+        "EVIDENCE → Begum Hazrat Mahal became a major political leader of resistance in Awadh.",
+        "EXAM USE → use Awadh leadership to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Awadh leadership to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Awadh leadership",
+            "EVIDENCE → Begum Hazrat Mahal became a major political leader of resistance in Awadh."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Awadh leadership to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Awadh leadership to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Awadh leadership",
+            "EVIDENCE → Begum Hazrat Mahal became a major political leader of resistance in Awadh."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Awadh leadership to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Awadh leadership to another institution or theatre.",
+      "source_references": [
+        "Awadh leadership",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "JHANSI LEADERSHIP IN THE 1857 REVOLT",
+      "structural_type": "argument-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "JHANSI LEADERSHIP IN THE 1857 REVOLT",
+          "role": "primary"
+        },
+        {
+          "text": "JHANSI LEADERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "RANI LAKSHMIBAI LED RESISTANCE AT JHANSI AND BECAME A",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE JHANSI LEADERSHIP TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER JHANSI LEADERSHIP TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Jhansi leadership",
+        "EVIDENCE → Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.",
+        "EXAM USE → use Jhansi leadership to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Jhansi leadership to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Jhansi leadership",
+            "EVIDENCE → Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Jhansi leadership to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Jhansi leadership to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Jhansi leadership",
+            "EVIDENCE → Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Jhansi leadership to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Jhansi leadership to another institution or theatre.",
+      "source_references": [
+        "Jhansi leadership",
+        "The Revolt of 1857"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BIPIN CHANDRA PRESENTS 1857 AS MORE THAN A MILITARY",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPOY ANGER CONNECTED WITH",
+          "role": "comparison"
+        },
+        {
+          "text": "PEASANT, ZAMINDAR, DISPOSSESSED PRINCE AND URBAN ARTISAN GRIEVANCES IN",
+          "role": "evidence"
+        },
+        {
+          "text": "THE REVOLT'S POLITICAL IDIOM OFTEN LOOKED BACKWARD TO MUGHAL",
+          "role": "primary"
+        },
+        {
+          "text": "ITS TARGET WAS THE NEW COLONIAL ORDER CREATED BY",
+          "role": "outcome"
+        },
+        {
+          "text": "AWADH WAS CENTRAL BECAUSE ANNEXATION IN 1856 HURT THE",
+          "role": "comparison"
+        },
+        {
+          "text": "MANY BENGAL ARMY SEPOYS ALSO CAME FROM THIS REGION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Bipin Chandra presents 1857 as more than a military mutiny: sepoy anger connected with",
+            "peasant, zamindar, dispossessed prince and urban artisan grievances in north and central India.",
+            "The revolt's political idiom often looked backward to Mughal legitimacy, old rulers and local rights, but",
+            "its target was the new colonial order created by annexation, revenue extraction and social intrusion."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Awadh was central because annexation in 1856 hurt the taluqdars, court dependants, soldiers and peasants",
+            "many Bengal Army sepoys also came from this region.",
+            "CAUTION: The movement lacked a modern national programme, but it created a powerful memory of anti-colonial resistance later used by nationalists.",
+            "Chandra's prehistory matters: recurrent civil rebellions and tribal uprisings before 1857 shared conditions of dispossession and intrusive rule"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Their existence disproves \"passive acceptance\" without turning them into one continuous national conspiracy.",
+            "British official writers and Seeley-type interpretations called it a sepoy mutiny , stressing military origins and limited spread.",
+            "CAUTION: V.D. Savarkar described it as the First War of Independence , stressing Hindu-Muslim unity and patriotic anti-British purpose.",
+            "CAUTION: R.C. Majumdar was sceptical of calling it a national war because of regional limits and absence of modern nationalism."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

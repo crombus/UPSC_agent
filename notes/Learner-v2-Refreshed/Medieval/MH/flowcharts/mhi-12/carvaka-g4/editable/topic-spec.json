@@ -1,0 +1,1202 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-12",
+  "subject": "Medieval-Indian-History",
+  "title": "BABUR & THE CENTRAL ASIAN BACKDROP",
+  "short_route": "CENTRAL ASIAN POLITICAL FIELD → BABUR CHRONOLOGY 1494-1530 → LAYERED IDENTITY AND LEGITIMACY → SAMARQAND CYCLE: PRESTIGE VERSUS → KABUL-QANDAHAR STRATEGIC BRIDGE → PUNJAB AND THE LODI",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-12-deep-review-2026-09-03-g4.json",
+  "ascii_spec_sha256": "c76b9bc0deebd53f9481afca6255e4cbae28235e12df95586fa469041ddaae76",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CENTRAL ASIAN POLITICAL FIELD",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CENTRAL ASIAN POLITICAL FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "TIMURID FRAGMENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "RIVAL PRINCES COMPETE FOR SAMARQAND/HERAT PRESTIGE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHAYBANI UZBEKS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSOLIDATE TRANSOXIANA AND DEFEAT SCATTERED CLAIMANTS",
+          "role": "primary"
+        },
+        {
+          "text": "SAFAVID IRAN",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPORARY OPENING AFTER MERV PLUS KHUTBA/SIKKA CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "OTTOMAN CHALDIRAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TIMURID FRAGMENTATION → rival princes compete for Samarqand/Herat prestige",
+        "SHAYBANI UZBEKS → consolidate Transoxiana and defeat scattered claimants",
+        "SAFAVID IRAN → temporary opening after Merv plus khutba/sikka conditions",
+        "OTTOMAN CHALDIRAN → changes regional balance, not a direct India switch",
+        "BABUR → Farghana loss + Samarqand cycles → Kabul 1504"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TIMURID FRAGMENTATION → rival princes compete for Samarqand/Herat prestige",
+            "SHAYBANI UZBEKS → consolidate Transoxiana and defeat scattered claimants",
+            "SAFAVID IRAN → temporary opening after Merv plus khutba/sikka conditions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "OTTOMAN CHALDIRAN → changes regional balance, not a direct India switch",
+            "BABUR → Farghana loss + Samarqand cycles → Kabul 1504",
+            "QANDAHAR + KABUL → rear, trade and recruitment before Punjab"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: narrowed options plus choice; Central Asia did not predetermine conquest.",
+            "MUST REMEMBER: Babur's route runs from Farghana (1494) through Kabul (1504) to Panipat, Khanwa and Ghagra (1526-29)."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: narrowed options plus choice; Central Asia did not predetermine conquest.",
+      "answer_line": "narrowed options plus choice; Central Asia did not predetermine conquest.",
+      "source_references": [
+        "Timurids",
+        "Uzbeks",
+        "Safavids",
+        "Ottomans",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BABUR CHRONOLOGY 1494-1530",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BABUR CHRONOLOGY 1494-1530",
+          "role": "primary"
+        },
+        {
+          "text": "1494 FARGHANA",
+          "role": "outcome"
+        },
+        {
+          "text": "1501 SAMARQAND CAPTURES AND LOSSES",
+          "role": "comparison"
+        },
+        {
+          "text": "1504 KABUL",
+          "role": "evidence"
+        },
+        {
+          "text": "1510 MERV OPENING",
+          "role": "primary"
+        },
+        {
+          "text": "1514 CHALDIRAN CONTEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "1519-20 BHIRA AND SIALKOT",
+          "role": "comparison"
+        },
+        {
+          "text": "NOVEMBER 1525 FINAL MARCH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1494 Farghana → 1497 / 1501 Samarqand captures and losses",
+        "1504 Kabul → 1510 Merv opening → 1514 Chaldiran context",
+        "1519-20 Bhira and Sialkot → November 1525 final march",
+        "1526 Panipat → 1527 Khanwa → 1528 Chanderi → 1529 Ghagra",
+        "30 December 1530 → Babur dies at Agra"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1494 Farghana → 1497 / 1501 Samarqand captures and losses",
+            "1504 Kabul → 1510 Merv opening → 1514 Chaldiran context"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1519-20 Bhira and Sialkot → November 1525 final march",
+            "1526 Panipat → 1527 Khanwa → 1528 Chanderi → 1529 Ghagra"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "30 December 1530 → Babur dies at Agra",
+            "MEMORY: Central Asian constraint → Indian opening → staged consolidation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MEMORY: Central Asian constraint → Indian opening → staged consolidation.",
+      "source_references": [
+        "Chronology",
+        "Farghana",
+        "Kabul",
+        "Battle sequence",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LAYERED IDENTITY AND LEGITIMACY",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LAYERED IDENTITY AND LEGITIMACY",
+          "role": "primary"
+        },
+        {
+          "text": "PATERNAL CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "MATERNAL CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "CHAGATAI-CHINGIZID LINE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHAGATAI TURKIC",
+          "role": "primary"
+        },
+        {
+          "text": "COURT CULTURE",
+          "role": "institution"
+        },
+        {
+          "text": "MONGOL TRADITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "MIXED CENTRAL ASIAN POLITICAL INHERITANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PATERNAL CLAIM → Timur",
+        "MATERNAL CLAIM → Chagatai-Chingizid line",
+        "LANGUAGE → Chagatai Turkic",
+        "COURT CULTURE → Persianate",
+        "BARLAS / MONGOL TRADITIONS → mixed Central Asian political inheritance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PATERNAL CLAIM → Timur",
+            "MATERNAL CLAIM → Chagatai-Chingizid line",
+            "LANGUAGE → Chagatai Turkic"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COURT CULTURE → Persianate",
+            "BARLAS / MONGOL TRADITIONS → mixed Central Asian political inheritance",
+            "MUGHAL → later Indian dynastic umbrella, not one biological ethnicity"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LEGITIMACY → genealogy + padshah + khutba/sikka + victory + grants",
+            "BEGS → service through kinship, honour, reward and bargaining",
+            "CAUTION: genealogy is remembered political capital, not a DNA certificate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: genealogy is remembered political capital, not a DNA certificate.",
+      "source_references": [
+        "Timurid",
+        "Chagatai",
+        "Persianate",
+        "Mughal",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SAMARQAND CYCLE: PRESTIGE VERSUS RESOURCES",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SAMARQAND CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRESTIGE VERSUS RESOURCES",
+          "role": "comparison"
+        },
+        {
+          "text": "TIMURID LEGITIMACY + AFFLUENT STRATEGIC CENTRE",
+          "role": "comparison"
+        },
+        {
+          "text": "SYMBOLIC SUCCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPPLY + MONEY + HINTERLAND + FOLLOWER LOYALTY",
+          "role": "primary"
+        },
+        {
+          "text": "UZBEK PRESSURE + UNSTABLE COALITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATED LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "MANOEUVRE, RESOURCE DISCIPLINE AND LIMITS OF CITY POSSESSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAMARQAND → Timurid legitimacy + affluent strategic centre",
+        "CAPTURE → symbolic success",
+        "SUPPLY + MONEY + HINTERLAND + FOLLOWER LOYALTY → insufficient",
+        "UZBEK PRESSURE + unstable coalitions → repeated loss",
+        "LEARNING → manoeuvre, resource discipline and limits of city possession"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "SAMARQAND → Timurid legitimacy + affluent strategic centre",
+            "CAPTURE → symbolic success"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "SUPPLY + MONEY + HINTERLAND + FOLLOWER LOYALTY → insufficient",
+            "UZBEK PRESSURE + unstable coalitions → repeated loss"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "LEARNING → manoeuvre, resource discipline and limits of city possession",
+            "OUTCOME → Central Asian failure redirects rather than predestines policy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → Central Asian failure redirects rather than predestines policy.",
+      "source_references": [
+        "Samarqand",
+        "Resource base",
+        "Shaibani Khan",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "KABUL-QANDAHAR STRATEGIC BRIDGE",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "KABUL-QANDAHAR STRATEGIC BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "KABUL 1504",
+          "role": "outcome"
+        },
+        {
+          "text": "REFUGE + COURT/ARMY BASE + ROUTE JUNCTION",
+          "role": "institution"
+        },
+        {
+          "text": "USEFUL BUT INSUFFICIENT FOR EXPANDING BEGS AND WARFARE",
+          "role": "evidence"
+        },
+        {
+          "text": "HINDUSTAN + KHURASAN + TRANSOXIANA + HORSES/FRUITS/TEXTILES",
+          "role": "primary"
+        },
+        {
+          "text": "REAR/FLANK SECURITY AND IRAN-CENTRAL ASIA-HINDUSTAN GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAGATAI/PERSIANATE POETRY + GARDENS + RECRUITMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "REPEATED CAMPAIGNS CREATE AN EASTERN POLITICAL OPTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KABUL 1504 → refuge + court/army base + route junction",
+        "RESOURCES → useful but insufficient for expanding begs and warfare",
+        "TRADE → Hindustan + Khurasan + Transoxiana + horses/fruits/textiles",
+        "QANDAHAR → rear/flank security and Iran-Central Asia-Hindustan gate",
+        "CULTURE → Chagatai/Persianate poetry + gardens + recruitment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KABUL 1504 → refuge + court/army base + route junction",
+            "RESOURCES → useful but insufficient for expanding begs and warfare",
+            "TRADE → Hindustan + Khurasan + Transoxiana + horses/fruits/textiles"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "QANDAHAR → rear/flank security and Iran-Central Asia-Hindustan gate",
+            "CULTURE → Chagatai/Persianate poetry + gardens + recruitment",
+            "PUNJAB → repeated campaigns create an eastern political option"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: strategic bridge, not merely a poor mountain refuge."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: strategic bridge, not merely a poor mountain refuge.",
+      "answer_line": "strategic bridge, not merely a poor mountain refuge.",
+      "source_references": [
+        "Kabul",
+        "Qandahar",
+        "Trade",
+        "Strategic geography",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PUNJAB AND THE LODI OPENING",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PUNJAB AND THE LODI OPENING",
+          "role": "primary"
+        },
+        {
+          "text": "BAJAUR/BHERA-BHIRA PROBES AND FRONTIER COERCION",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATED PUNJAB ADVANCES, SIALKOT/LAHORE-DIPALPUR CONTEXTS",
+          "role": "comparison"
+        },
+        {
+          "text": "DAULAT KHAN",
+          "role": "evidence"
+        },
+        {
+          "text": "INVITATION, RESISTANCE AND SURRENDER; NOT A STABLE ALLY",
+          "role": "caution"
+        },
+        {
+          "text": "ALAM KHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "RIVAL LODI CLAIMANT BACKED CONDITIONALLY BY BABUR",
+          "role": "comparison"
+        },
+        {
+          "text": "RANA SANGA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1519 → Bajaur/Bhera-Bhira probes and frontier coercion",
+        "1519-24 → repeated Punjab advances, Sialkot/Lahore-Dipalpur contexts",
+        "DAULAT KHAN → invitation, resistance and surrender; not a stable ally",
+        "ALAM KHAN → rival Lodi claimant backed conditionally by Babur",
+        "RANA SANGA → negotiations known mainly through Babur's later accusation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1519 → Bajaur/Bhera-Bhira probes and frontier coercion",
+            "1519-24 → repeated Punjab advances, Sialkot/Lahore-Dipalpur contexts",
+            "DAULAT KHAN → invitation, resistance and surrender; not a stable ally"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ALAM KHAN → rival Lodi claimant backed conditionally by Babur",
+            "RANA SANGA → negotiations known mainly through Babur's later accusation",
+            "1525 → final march after rear/flank preparation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: invitations created opportunity but did not cancel Babur's aggression."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: invitations created opportunity but did not cancel Babur's aggression.",
+      "answer_line": "invitations created opportunity but did not cancel Babur's aggression.",
+      "source_references": [
+        "Punjab",
+        "Ibrahim Lodi",
+        "Daulat Khan",
+        "Alam Khan",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FINAL MARCH AND PANIPAT FRONTAGE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FINAL MARCH AND PANIPAT FRONTAGE",
+          "role": "primary"
+        },
+        {
+          "text": "NOVEMBER 1525",
+          "role": "outcome"
+        },
+        {
+          "text": "BABUR LEAVES KABUL AFTER SECURING REAR AND FLANK",
+          "role": "comparison"
+        },
+        {
+          "text": "PUNJAB MOVEMENT AND COMMUNICATION CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "NARROW PREPARED FRONTAGE AT PANIPAT",
+          "role": "primary"
+        },
+        {
+          "text": "CARTS LINKED BY RAW-HIDE ROPES + BREASTWORKS + FIRING",
+          "role": "outcome"
+        },
+        {
+          "text": "GAPS RETAINED FOR CAVALRY ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT A STRAIGHT UNPREPARED RIDE FROM KABUL TO ONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NOVEMBER 1525 → Babur leaves Kabul after securing rear and flank",
+        "Punjab movement and communication control",
+        "narrow prepared frontage at Panipat",
+        "carts linked by raw-hide ropes + breastworks + firing positions",
+        "gaps retained for cavalry action"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NOVEMBER 1525 → Babur leaves Kabul after securing rear and flank",
+            "Punjab movement and communication control"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "narrow prepared frontage at Panipat",
+            "carts linked by raw-hide ropes + breastworks + firing positions"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "gaps retained for cavalry action",
+            "TRAP: not a straight unprepared ride from Kabul to one battle."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "not a straight unprepared ride from Kabul to one battle.",
+      "source_references": [
+        "1525 campaign",
+        "Panipat",
+        "Logistics",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PANIPAT COMBINED-ARMS SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PANIPAT COMBINED-ARMS SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "ARABA CARTS + RAW-HIDE LINKS + BREASTWORKS + CAVALRY",
+          "role": "outcome"
+        },
+        {
+          "text": "PANIPAT SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "USTAD ALI/MUSTAFA + FIELD GUNS + MATCHLOCKMEN",
+          "role": "evidence"
+        },
+        {
+          "text": "MOUNTED ARCHERY + RESERVES + RECONNAISSANCE",
+          "role": "primary"
+        },
+        {
+          "text": "WHEELING FLANK GROUPS STRIKE SIDES/REAR",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMAND + FRONTAGE + TIMING + OPPONENT DECISIONS +",
+          "role": "comparison"
+        },
+        {
+          "text": "GUNS AND MEMOIR ARMY TOTALS DO NOT EXPLAIN VICTORY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FRONT → araba carts + raw-hide links + breastworks + cavalry gaps",
+        "RIGHT → Panipat settlement",
+        "LEFT → ditch/obstacles",
+        "FIRE → Ustad Ali/Mustafa + field guns + matchlockmen",
+        "MOBILITY → mounted archery + reserves + reconnaissance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FRONT → araba carts + raw-hide links + breastworks + cavalry gaps",
+            "RIGHT → Panipat settlement",
+            "LEFT → ditch/obstacles"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FIRE → Ustad Ali/Mustafa + field guns + matchlockmen",
+            "MOBILITY → mounted archery + reserves + reconnaissance",
+            "TULUGHMA → wheeling flank groups strike sides/rear"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "OUTCOME → command + frontage + timing + opponent decisions + contingency",
+            "CAUTION: guns and memoir army totals do not explain victory alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: guns and memoir army totals do not explain victory alone.",
+      "source_references": [
+        "Combined arms",
+        "Tulghuma",
+        "Ustad Ali",
+        "Mustafa",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "AFTER PANIPAT: DECISION TO STAY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AFTER PANIPAT",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION TO STAY",
+          "role": "outcome"
+        },
+        {
+          "text": "DELHI-AGRA CENTRE OPENS",
+          "role": "comparison"
+        },
+        {
+          "text": "FORTS RESIST + AFGHANS REMAIN + BEGS DISLIKE INDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "BABUR DISTRIBUTES WEALTH + APPEALS TO FOLLOWERS + CHOOSES",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN RESOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPORT A NEW POLITICAL BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "INVASION BEGINS TO BECOME STATE FORMATION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PANIPAT → Delhi-Agra centre opens",
+        "BUT → forts resist + Afghans remain + begs dislike India + supplies strain",
+        "BABUR DISTRIBUTES WEALTH + appeals to followers + chooses settlement",
+        "INDIAN RESOURCES → support a new political base",
+        "RESULT → invasion begins to become state formation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PANIPAT → Delhi-Agra centre opens",
+            "BUT → forts resist + Afghans remain + begs dislike India + supplies strain"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BABUR DISTRIBUTES WEALTH + appeals to followers + chooses settlement",
+            "INDIAN RESOURCES → support a new political base"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RESULT → invasion begins to become state formation",
+            "LIMIT → Humayun and the Sur interregnum expose continuing fragility."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → invasion begins to become state formation.",
+      "source_references": [
+        "Post-Panipat",
+        "Decision to stay",
+        "State formation",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PANIPAT-KHANWA-GHAGRA LADDER",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PANIPAT-KHANWA-GHAGRA LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "1526 PANIPAT",
+          "role": "outcome"
+        },
+        {
+          "text": "LODI FIELD ARMY DEFEATED; DELHI-AGRA OPENED, CONTROL FRAGILE",
+          "role": "comparison"
+        },
+        {
+          "text": "1527 KHANWA",
+          "role": "evidence"
+        },
+        {
+          "text": "RAJPUT-AFGHAN COALITION + REVISED FIELD WORKS + RHETORIC",
+          "role": "primary"
+        },
+        {
+          "text": "1528 CHANDERI",
+          "role": "outcome"
+        },
+        {
+          "text": "MEDINI RAI/STRATEGIC FOLLOW-THROUGH, NOT ALL RAJPUTS",
+          "role": "caution"
+        },
+        {
+          "text": "1529 GHAGHRA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1526 PANIPAT → Lodi field army defeated; Delhi-Agra opened, control fragile",
+        "1527 KHANWA → Rajput-Afghan coalition + revised field works + rhetoric",
+        "1528 CHANDERI → Medini Rai/strategic follow-through, not all Rajputs",
+        "1529 GHAGHRA → eastern Afghans + Bengal/Nusrat Shah; no Bengal annexation",
+        "FOLLOW-UP → begs + garrisons + forts + revenue + local personnel"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "1526 PANIPAT → Lodi field army defeated; Delhi-Agra opened, control fragile",
+          "1529 GHAGHRA → eastern Afghans + Bengal/Nusrat Shah; no Bengal annexation",
+          "VERDICT: conquest ladder created a fragile project, not a completed empire."
+        ],
+        [
+          "1527 KHANWA → Rajput-Afghan coalition + revised field works + rhetoric",
+          "FOLLOW-UP → begs + garrisons + forts + revenue + local personnel",
+          "CLOSE DISTINCTION: Central Asian constraint, Indian political openings and Babur's choices together explain conquest and settlement."
+        ],
+        [
+          "1528 CHANDERI → Medini Rai/strategic follow-through, not all Rajputs",
+          "1530 → Babur dies; Humayun succession belongs to Topic 13",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1526 PANIPAT → Lodi field army defeated; Delhi-Agra opened, control fragile",
+            "1527 KHANWA → Rajput-Afghan coalition + revised field works + rhetoric",
+            "1528 CHANDERI → Medini Rai/strategic follow-through, not all Rajputs"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "1529 GHAGHRA → eastern Afghans + Bengal/Nusrat Shah; no Bengal annexation",
+            "FOLLOW-UP → begs + garrisons + forts + revenue + local personnel",
+            "1530 → Babur dies; Humayun succession belongs to Topic 13"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: conquest ladder created a fragile project, not a completed empire.",
+            "CLOSE DISTINCTION: Central Asian constraint, Indian political openings and Babur's choices together explain conquest and settlement."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: conquest ladder created a fragile project, not a completed empire.",
+      "answer_line": "conquest ladder created a fragile project, not a completed empire.",
+      "source_references": [
+        "Panipat",
+        "Khanwa",
+        "Chanderi",
+        "Ghagra",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BABURNAMA AND HERITAGE SOURCE METHOD",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BABURNAMA AND HERITAGE SOURCE METHOD",
+          "role": "evidence"
+        },
+        {
+          "text": "CHAGATAI TURKISH MEMOIR WRITTEN OVER TIME WITH GAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "CAMPAIGNS + COURT + EMOTION + LANDSCAPE + FLORA/FAUNA",
+          "role": "institution"
+        },
+        {
+          "text": "JUSTIFICATION, DEFEAT, LOYALTY, PIETY AND KINGSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "MANUSCRIPTS + PERSIAN TRANSLATION UNDER AKBAR/ABD AL-RAHIM",
+          "role": "primary"
+        },
+        {
+          "text": "PERSIAN/AFGHAN/RAJPUT ACCOUNTS + COINS + INSCRIPTIONS + MATERIAL SPACE",
+          "role": "evidence"
+        },
+        {
+          "text": "BAGH-E BABUR",
+          "role": "comparison"
+        },
+        {
+          "text": "MULTIPLE MUGHAL/LATER PHASES AND MODERN RECONSTRUCTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ORIGINAL → Chagatai Turkish memoir written over time with gaps",
+        "CONTENT → campaigns + court + emotion + landscape + flora/fauna + custom",
+        "SELF-FASHIONING → justification, defeat, loyalty, piety and kingship",
+        "TRANSMISSION → manuscripts + Persian translation under Akbar/Abd al-Rahim",
+        "CHECK → Persian/Afghan/Rajput accounts + coins + inscriptions + material space"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "ORIGINAL → Chagatai Turkish memoir written over time with gaps",
+          "TRANSMISSION → manuscripts + Persian translation under Akbar/Abd al-Rahim",
+          "RULE: vivid eyewitness detail is valuable but never a neutral daily diary."
+        ],
+        [
+          "CONTENT → campaigns + court + emotion + landscape + flora/fauna + custom",
+          "CHECK → Persian/Afghan/Rajput accounts + coins + inscriptions + material space",
+          "EVIDENCE LIMIT: The Baburnama is unusually proximate first-person evidence, but self-fashioning and transmission limit neutrality."
+        ],
+        [
+          "SELF-FASHIONING → justification, defeat, loyalty, piety and kingship",
+          "BAGH-E BABUR → multiple Mughal/later phases and modern reconstruction",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "ORIGINAL → Chagatai Turkish memoir written over time with gaps",
+            "CONTENT → campaigns + court + emotion + landscape + flora/fauna + custom",
+            "SELF-FASHIONING → justification, defeat, loyalty, piety and kingship"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "TRANSMISSION → manuscripts + Persian translation under Akbar/Abd al-Rahim",
+            "CHECK → Persian/Afghan/Rajput accounts + coins + inscriptions + material space",
+            "BAGH-E BABUR → multiple Mughal/later phases and modern reconstruction"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "RULE: vivid eyewitness detail is valuable but never a neutral daily diary.",
+            "EVIDENCE LIMIT: The Baburnama is unusually proximate first-person evidence, but self-fashioning and transmission limit neutrality."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: vivid eyewitness detail is valuable but never a neutral daily diary.",
+      "answer_line": "vivid eyewitness detail is valuable but never a neutral daily diary.",
+      "source_references": [
+        "Baburnama",
+        "Bagh-e Babur",
+        "UNESCO",
+        "Source criticism",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 12 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 12 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "BABURNAMA PASSAGE + DATE/GENRE/TRANSMISSION + CORROBORATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TIMURID-CHAGATAI-TURKIC-PERSIANATE LEGITIMACY",
+          "role": "comparison"
+        },
+        {
+          "text": "FRONTAGE + CARTS/FIRE + CAVALRY/TULUGHMA + LOGISTICS/CONTINGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "BEGS/GRANTS/GARRISONS/REVENUE/LOCAL CONTINUITY + RESISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "GARDENS + CHAGATAI POETRY + LANDSCAPE/NATURAL HISTORY + PIETY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONQUEROR AND FRAGILE DYNASTIC FOUNDER, NOT COMPLETE CONSOLIDATOR.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOURCE → Baburnama passage + date/genre/transmission + corroboration",
+        "IDENTITY → Timurid-Chagatai-Turkic-Persianate legitimacy",
+        "MAP → Farghana/Samarqand → Kabul/Qandahar → Punjab → Delhi-Agra/east",
+        "BATTLE → frontage + carts/fire + cavalry/tulughma + logistics/contingency",
+        "STATE → begs/grants/garrisons/revenue/local continuity + resistance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SOURCE → Baburnama passage + date/genre/transmission + corroboration",
+            "IDENTITY → Timurid-Chagatai-Turkic-Persianate legitimacy",
+            "MAP → Farghana/Samarqand → Kabul/Qandahar → Punjab → Delhi-Agra/east"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BATTLE → frontage + carts/fire + cavalry/tulughma + logistics/contingency",
+            "STATE → begs/grants/garrisons/revenue/local continuity + resistance",
+            "CULTURE → gardens + Chagatai poetry + landscape/natural history + piety"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → conqueror and fragile dynastic founder, not complete consolidator."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → conqueror and fragile dynastic founder, not complete consolidator.",
+      "source_references": [
+        "Answer architecture",
+        "Causation",
+        "Qualified foundation",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART VI-A. ADVANCED REFINEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW TO MAKE THIS TOPIC ANSWER-WORTHY",
+          "role": "comparison"
+        },
+        {
+          "text": "BABUR & THE CENTRAL ASIAN BACKDROP — ADVANCED",
+          "role": "evidence"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "primary"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "comparison"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "PART VI-A. Advanced refinement: how to make this topic answer-worthy",
+            "Babur & the Central Asian Backdrop — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "2. Key classification / data",
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "6. Current link",
+            "7. Mains angles",
+            "+ Historiography note (PYQ-gap)",
+            "Use 'resource base' for the gap between Samarqand/Kabul aspirations and sustainable provision; avoid vague phrases such as 'Babur needed money'."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

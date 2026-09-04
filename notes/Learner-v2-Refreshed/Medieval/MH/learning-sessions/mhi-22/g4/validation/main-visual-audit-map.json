@@ -1,0 +1,3352 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-22",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Aurangzeb: Religious Policy, North India & the Rajputs - Complete Topic Package",
+      "preview": "Aurangzeb religious policy Rajput rupture and evidence method cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\00_00_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 443.756
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 5,
+      "heading": "Aurangzeb: Religious Policy, North India & the Rajputs - Complete Topic Package",
+      "preview": "Subject: Medieval Indian History | GS-I | Prelims | Date: 2026-09-04.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 443.756
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 413.288
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 7,
+      "heading": "Aurangzeb: Religious Policy, North India & the Rajputs - Complete Topic Package",
+      "preview": "Source order followed: Topic 22 basic/advanced Markdown; master chronology and answer-worthiness audit; local OCR/official-paper and routing search; bounded Topic 17/21/23/24/25 cross-links; local Satish Chandra Part II OCR extraction; then",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 413.288
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 340.22
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 32,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 536.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 54,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\medieval-indian-history-22_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 167.89
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 70,
+      "markdown_body_line_end": 70,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A court-centred prohibition is not automatically a village practice; a farman is not a census of compliance; a Rajput succession conflict is not identical with a general religious policy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 269.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 202.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 91,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 465.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 421.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 93,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 1: Aurangzeb: policy, power and north Indian responses",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\00_00_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 421.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 113.688
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 97,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 2: Chronology: accession, rupture and unresolved settlement",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\01_01_chronology_1657_1707.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 101,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 3: Six-lens analytical framework",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\02_02_analytical_framework.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 107,
+      "markdown_body_line_end": 124,
+      "heading": "CLOSING RECALL FLOW - START WITH A DISCIPLINED QUESTION, NOT A VERDICT",
+      "preview": "START / CONCEPT: Start with a disciplined question, not a verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 405
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 137,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A high-quality Mains paragraph can write: “Orthodoxy supplied preference and legitimacy, whereas sovereignty supplied selection and enforcement.” Then test it against jizyah, temple cases, recruitment and the Marwar settlement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 337.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 256.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 158,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 541.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 497.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 160,
+      "markdown_body_line_end": 160,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 4: Religious policy as phases, not a static label",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\03_03_policy_phases.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 497.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 189.688
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 164,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 5: Sharia, zawabit and imperial necessity",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\04_04_sharia_zawabit_triangle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 156.288
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 168,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 6: Fatawa-i-Alamgiri: use with caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\05_05_fatawa_compendium_caution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 172,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 7: Ulama, qazis, sadrs and imperial limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\06_06_ulama_state_relation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 178,
+      "markdown_body_line_end": 195,
+      "heading": "CLOSING RECALL FLOW - ORTHODOXY DID NOT ABOLISH TIMURID STATECRAFT",
+      "preview": "START / CONCEPT: Orthodoxy did not abolish Timurid statecraft",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 440.356
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 209.356
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 208,
+      "markdown_body_line_end": 208,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This periodisation does not make earlier rule liberal or later rule uniformly coercive; it merely prevents a static label from doing the historian's work.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 229,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 280.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 235.356
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 231,
+      "markdown_body_line_end": 231,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 8: Court puritan measures: certainty ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\07_07_court_measure_certainty.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 235.356
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 235,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 9: Jizyah: a distinct poll tax mechanism",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\08_08_jizyah_mechanism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 258,
+      "heading": "CLOSING RECALL FLOW - PERIODISE POLICY INSTEAD OF COLLECTING FOLKLORE",
+      "preview": "START / CONCEPT: Periodise policy instead of collecting folklore",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 282
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 271,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Personal orthodoxy and a wish to assert Islamic legitimacy are relevant; so are relations with learned religious opinion, the political value of a public signal, and a fiscal-military context in which rulers sought revenue.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 391.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 324.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 292,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 603.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 559.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 294,
+      "markdown_body_line_end": 294,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 10: Why reimpose jizyah in 1679? A weighted debate",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\09_09_jizyah_motives.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 559.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 251.488
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 298,
+      "markdown_body_line_end": 298,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 11: Jizyah: fiscal measure, religious symbol, political signal",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\10_10_fiscal_symbol_signal.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 218.088
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 302,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 12: Implementation limits and political effect",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\11_11_jizyah_implementation_limits.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 306,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 13: Temple policy: legal ideal versus administrative action",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\12_12_temple_legal_ideal.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 329,
+      "heading": "CLOSING RECALL FLOW - JIZYAH IN 1679: A TAX WITH A MEANING LARGER THAN ITS LEDGER",
+      "preview": "START / CONCEPT: Jizyah in 1679: a tax with a meaning larger than its ledger",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 440.356
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 209.356
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 342,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Satish Chandra highlights the contradiction between formal protection of old temples and documented destruction of old-standing temples; that contradiction is historical evidence, not a reason to choose an exculpatory or universalising slog",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 135.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 90.556
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 367,
+      "markdown_body_line_end": 367,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 14: The 1669 order: evidence ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\13_13_order_evidence_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 371,
+      "markdown_body_line_end": 371,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 15: Temple-action taxonomy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\14_14_temple_action_taxonomy.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 375,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 16: Selected temple cases: case-by-case method",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\15_15_selected_cases_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 379,
+      "markdown_body_line_end": 379,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 17: Grants and protection: necessary counter-evidence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\16_16_grants_counterevidence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 383,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 18: How to test a temple claim",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\17_17_case_by_case_method.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 387,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 19: Hindu participation in a composite nobility",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\18_18_hindu_nobility_continuity.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 410,
+      "heading": "CLOSING RECALL FLOW - TEMPLE POLICY MUST BE RECONSTRUCTED ONE ACTION AT A TIME",
+      "preview": "START / CONCEPT: Temple policy must be reconstructed one action at a time",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 423,
+      "markdown_body_line_end": 423,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A nuanced answer can show both: continued Hindu recruitment made the empire institutionally composite, while particular policies made the public idiom more discriminatory and injured trust.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 300.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 444,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 589.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 544.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 446,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 20: Inclusion is not equality",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\19_19_inclusion_equality.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 544.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 237.288
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 450,
+      "markdown_body_line_end": 450,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 21: Guru Tegh Bahadur: source matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\20_20_guru_tegh_source_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 218.088
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 456,
+      "markdown_body_line_end": 473,
+      "heading": "CLOSING RECALL FLOW - COMPOSITE NOBILITY: PARTICIPATION WITHOUT A FALSE EQUALITY CLAIM",
+      "preview": "START / CONCEPT: Composite nobility: participation without a false equality claim",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 440.356
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 189.356
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 486,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It can state that uncertainty about an exclusive immediate motive does not make the execution politically neutral or erase its religious meaning in Sikh tradition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 507,
+      "markdown_body_line_end": 507,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 131.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 86.356
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 509,
+      "markdown_body_line_end": 509,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 22: 1675 execution: competing explanations",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\21_21_execution_interpretations.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 513,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 23: Sikh development: bounded timeline",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\22_22_sikh_development_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 517,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 24: Khalsa: a multi-causal bridge",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\23_23_khalsa_multi_causal.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 521,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 25: Jat revolt geography: Mathura corridor",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\24_24_jat_geography.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 527,
+      "markdown_body_line_end": 544,
+      "heading": "CLOSING RECALL FLOW - THE 1675 EXECUTION: HISTORY, TRADITION AND CONSEQUENCE",
+      "preview": "START / CONCEPT: The 1675 execution: history, tradition and consequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 557,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Later phases associated with Rajaram and, after Aurangzeb's death, Churaman show persistence and transformation of Jat local power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 377.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 310.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 578,
+      "markdown_body_line_end": 578,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 589.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 544.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 580,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 26: Gokula's uprising: a cause matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\25_25_gokula_causes.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 544.824
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 237.288
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 584,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 27: From Gokula to Rajaram and Churaman",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\26_26_rajaram_churaman.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 203.888
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 588,
+      "markdown_body_line_end": 588,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 28: Agrarian, local and religious dimensions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\27_27_agrarian_local_religious.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 29: Satnami revolt, 1672: trigger to suppression",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\28_28_satnami_suppression.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 596,
+      "markdown_body_line_end": 596,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 30: Compare local rebellions without flattening them",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\29_29_local_rebellion_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 600,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 31: Many revolts, not one national movement",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\30_30_not_one_movement.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 604,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 32: Early Rajput partnership before the breach",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\31_31_early_rajput_partnership.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 627,
+      "heading": "CLOSING RECALL FLOW - NORTH INDIAN RESISTANCE: LOCAL POWER, AGRARIAN PRESSURE AND MOBILISATION",
+      "preview": "START / CONCEPT: North Indian resistance: local power, agrarian pressure and mobilisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 640,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Yet interpersonal trust was not enough: an alliance depends on clear succession arrangements, reliable honour and credible limits to imperial intervention.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 378.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 311.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 661,
+      "markdown_body_line_end": 661,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 617.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 573.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 663,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 33: Jai Singh and Jaswant Singh: roles and limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\32_32_jai_jaswant_roles.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 573.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 265.688
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 667,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 34: Rajput honour, watan and imperial service",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\33_33_honour_watan_service.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 232.288
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 671,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 35: Jaswant Singh's death and disputed succession",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\34_34_jaswant_succession_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 677,
+      "markdown_body_line_end": 694,
+      "heading": "CLOSING RECALL FLOW - ALLIANCE WORKED THROUGH SERVICE, HONOUR AND CREDIBLE GUARANTEES",
+      "preview": "START / CONCEPT: Alliance worked through service, honour and credible guarantees",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 707,
+      "markdown_body_line_end": 707,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Marwar was taken into khalisa while succession was disputed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 402.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 350.224
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 728,
+      "markdown_body_line_end": 728,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 646.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 601.624
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 730,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 36: Khalisa after Jaswant: precedent, not automatic verdict",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\35_35_khalisa_precedent.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 601.624
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 294.088
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 734,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 37: Marwar crisis: actors and incentives",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\36_36_marwar_actor_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 260.688
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        40,
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 738,
+      "markdown_body_line_end": 738,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 38: Inder Singh, Ajit and the contested tika",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\37_37_inder_ajit_contest.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 742,
+      "markdown_body_line_end": 742,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 39: Durgadas and Ajit's escape: provenance matters",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\38_38_durgadas_versions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 40: Why compromise failed in Marwar",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\39_39_compromise_failure.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 41: Marwar: routes, forts and the Jodhpur question",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\40_40_marwar_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 756,
+      "markdown_body_line_end": 773,
+      "heading": "CLOSING RECALL FLOW - THE MARWAR CRISIS WAS A SUCCESSION FAILURE INTENSIFIED BY OCCUPATION",
+      "preview": "START / CONCEPT: The Marwar crisis was a succession failure intensified by occupation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 427.356
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 196.356
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 786,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not write that all Rajputs joined a rebellion, and do not turn a contingent 1681 coalition into an early national movement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 807,
+      "markdown_body_line_end": 807,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 159.424
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 114.756
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 809,
+      "markdown_body_line_end": 809,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 42: Mewar's decision: more than jizyah alone",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\41_41_mewar_motives.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 813,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 43: Aravalli warfare and imperial occupation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\42_42_aravalli_warfare.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 817,
+      "markdown_body_line_end": 817,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 44: Marwar-Mewar chronology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\43_43_marwar_mewar_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 821,
+      "markdown_body_line_end": 821,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 45: Prince Akbar's 1681 revolt: network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\44_44_prince_akbar_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 825,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 46: Why Prince Akbar's revolt collapsed",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\45_45_revolt_collapse.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 831,
+      "markdown_body_line_end": 848,
+      "heading": "CLOSING RECALL FLOW - MEWAR'S ALLIANCE AND THE LIMITS OF DYNASTIC REBELLION",
+      "preview": "START / CONCEPT: Mewar's alliance and the limits of dynastic rebellion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 440.356
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 209.356
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 861,
+      "markdown_body_line_end": 861,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "From 1681 southern commitments became central and the need for dependable commanders, supplies and political cooperation increased.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 882,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 322.624
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 277.956
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 884,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 47: 1698 recognition of Ajit Singh: settlement with limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\46_46_later_ajit_settlement.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 277.956
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 888,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 48: Breach serious, not universal Rajput secession",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\47_47_rajput_service_continuity.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 892,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 49: Immediate military cost versus political prestige",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\48_48_military_prestige.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 898,
+      "markdown_body_line_end": 915,
+      "heading": "CLOSING RECALL FLOW - RECOGNITION IN 1698 DID NOT RESTORE THE OLD POLITICAL COMPACT",
+      "preview": "START / CONCEPT: Recognition in 1698 did not restore the old political compact",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 440.356
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 229.356
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 928,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The comparison with Akbar is useful when it compares governing principles, fiscal differentiation, temple cases, elite bargains and political contexts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 949,
+      "markdown_body_line_end": 949,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 265.824
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 221.156
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 951,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 50: Bounded bridge to the Deccan",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\49_49_deccan_timing_bridge.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 221.156
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        51,
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 955,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 51: Legitimacy-resource feedback loop",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\50_50_legitimacy_resource.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 959,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 52: Akbar and Aurangzeb: compare principles and contexts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\51_51_akbar_aurangzeb_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 963,
+      "markdown_body_line_end": 963,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 53: Orthodoxy and pragmatism can coexist",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\52_52_orthodoxy_pragmatism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 967,
+      "markdown_body_line_end": 967,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 54: Symbols, law and implementation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\53_53_symbols_implementation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 971,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 55: Victim of circumstances; maker of circumstances",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\54_54_victim_maker.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 975,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 56: Decline: a multi-causal web",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\55_55_decline_web.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 979,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 57: Source-reach matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\56_56_source_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 985,
+      "markdown_body_line_end": 1002,
+      "heading": "CLOSING RECALL FLOW - AKBAR AND AURANGZEB: COMPARISON WITHOUT MORALITY PLAY",
+      "preview": "START / CONCEPT: Akbar and Aurangzeb: comparison without morality play",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1013,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The live page is a heritage and source-method bridge only.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 473.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 421.424
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1030,
+      "markdown_body_line_end": 1047,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1935,
+      "markdown_body_line_end": 1935,
+      "heading": "14. PYQ ownership audit and the discipline of original practice",
+      "preview": "**EXAM CAUTION:** Keep the scale of a claim equal to the scale of its evidence. A court chronicle, local record, grant, tradition and modern allegation do not have identical reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 313.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 268.424
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1937,
+      "markdown_body_line_end": 1937,
+      "heading": "14. PYQ ownership audit and the discipline of original practice",
+      "preview": "Visual 58: Waqa-i-Ajmer and Jodhpur Hukumat-ri-Bahi",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\57_57_waqa_hukumat.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 268.424
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        73,
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1941,
+      "markdown_body_line_end": 1941,
+      "heading": "14. PYQ ownership audit and the discipline of original practice",
+      "preview": "Visual 59: Claim-certainty ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\58_58_certainty_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1945,
+      "markdown_body_line_end": 1945,
+      "heading": "14. PYQ ownership audit and the discipline of original practice",
+      "preview": "Visual 60: Modern litigation is not medieval proof",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\59_59_modern_litigation_boundary.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1949,
+      "markdown_body_line_end": 1949,
+      "heading": "14. PYQ ownership audit and the discipline of original practice",
+      "preview": "Visual 61: Topic boundaries: cross-link without duplication",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\60_60_topic_boundaries.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 462.356
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 154.82
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1953,
+      "markdown_body_line_end": 1953,
+      "heading": "14. PYQ ownership audit and the discipline of original practice",
+      "preview": "Visual 62: Mains answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\61_61_mains_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1957,
+      "markdown_body_line_end": 1957,
+      "heading": "14. PYQ ownership audit and the discipline of original practice",
+      "preview": "Visual 63: Rapid recall: 60-second exit chart",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\assets\\62_62_rapid_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2163,
+      "markdown_body_line_end": 2163,
+      "heading": "Workshop 1 - Chronology as causal discipline",
+      "preview": "**WORKED CHECK:** State one proposition, name the evidence unit, explain what it can establish, and write one limitation. If the limitation changes the proposition's scale, revise the proposition rather than adding a decorative caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 382.091
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 323.224
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2175,
+      "markdown_body_line_end": 2175,
+      "heading": "Workshop 2 - Law, compendium and administration",
+      "preview": "**WORKED CHECK:** State one proposition, name the evidence unit, explain what it can establish, and write one limitation. If the limitation changes the proposition's scale, revise the proposition rather than adding a decorative caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2187,
+      "markdown_body_line_end": 2187,
+      "heading": "Workshop 3 - Jizyah as a contact point",
+      "preview": "**WORKED CHECK:** State one proposition, name the evidence unit, explain what it can establish, and write one limitation. If the limitation changes the proposition's scale, revise the proposition rather than adding a decorative caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 514.824
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 455.956
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2199,
+      "markdown_body_line_end": 2199,
+      "heading": "Workshop 4 - Temple claims as source tests",
+      "preview": "**WORKED CHECK:** State one proposition, name the evidence unit, explain what it can establish, and write one limitation. If the limitation changes the proposition's scale, revise the proposition rather than adding a decorative caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 212.156
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 153.288
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2211,
+      "markdown_body_line_end": 2211,
+      "heading": "Workshop 5 - Guru Tegh Bahadur: consequence without simplification",
+      "preview": "**WORKED CHECK:** State one proposition, name the evidence unit, explain what it can establish, and write one limitation. If the limitation changes the proposition's scale, revise the proposition rather than adding a decorative caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 580.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 521.824
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2223,
+      "markdown_body_line_end": 2223,
+      "heading": "Workshop 6 - Jats and Satnamis: compare mechanisms, not labels",
+      "preview": "**WORKED CHECK:** State one proposition, name the evidence unit, explain what it can establish, and write one limitation. If the limitation changes the proposition's scale, revise the proposition rather than adding a decorative caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 292.224
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 233.356
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2235,
+      "markdown_body_line_end": 2235,
+      "heading": "Workshop 7 - Marwar: administration becomes legitimacy crisis",
+      "preview": "**WORKED CHECK:** State one proposition, name the evidence unit, explain what it can establish, and write one limitation. If the limitation changes the proposition's scale, revise the proposition rather than adding a decorative caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 711.024
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2247,
+      "markdown_body_line_end": 2247,
+      "heading": "Workshop 8 - Mewar and the 1681 dynastic opening",
+      "preview": "**WORKED CHECK:** State one proposition, name the evidence unit, explain what it can establish, and write one limitation. If the limitation changes the proposition's scale, revise the proposition rather than adding a decorative caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 481.424
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 422.556
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2259,
+      "markdown_body_line_end": 2259,
+      "heading": "Workshop 9 - Causation and the multi-causal verdict",
+      "preview": "**WORKED CHECK:** State one proposition, name the evidence unit, explain what it can establish, and write one limitation. If the limitation changes the proposition's scale, revise the proposition rather than adding a decorative caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 178.756
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 119.888
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2321,
+      "markdown_body_line_end": 2324,
+      "heading": "Aurangzeb: Religious Policy, North India & the Rajputs - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part II (Mughal Empire)* — chapters on A",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 362.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 275.224
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2330,
+      "markdown_body_line_end": 2339,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 247.724
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 53.522
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2360,
+      "markdown_body_line_end": 2367,
+      "heading": "2. Key classification / data",
+      "preview": "Dimension | Advanced point from Part II | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Advanced point from Part II",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 392.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 173.69
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2371,
+      "markdown_body_line_end": 2372,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Read with `advanced/23_Marathas-Shivaji-and-Deccan.md` for how Rajput rupture coincided with the Deccan-Maratha crisis. **Study link:** ⚠️ Compare with Akbar's *sulh-i-kul* and Rajput partnership; contrast with eighteenth-",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 726.424
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2385,
+      "markdown_body_line_end": 2385,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not confuse **religious orthodoxy** with a monocausal explanation of all rebellions and decline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 573.224
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 542.756
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2481,
+      "markdown_body_line_end": 2490,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Differentiated rule under pressure",
+      "preview": "FRAME -> personal orthodoxy + Timurid sovereignty + uneven administration",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 670.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2494,
+      "markdown_body_line_end": 2501,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Aurangzeb chronology, 1658-1707",
+      "preview": "1658-59 -> accession settled | 1667 -> Jai Singh dies",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 576.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2505,
+      "markdown_body_line_end": 2512,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Sharia, zawabit and imperial choice",
+      "preview": "SHARIA -> legal/moral idiom | ZAWABIT -> ruler-made administrative rules",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 554.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 482.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2516,
+      "markdown_body_line_end": 2523,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Jizyah, 1679: fiscal form and political signal",
+      "preview": "FORM -> poll tax on differentiated non-Muslim subjecthood; not land revenue",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 460.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 388.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2535,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Temple policy: test one action at a time",
+      "preview": "FORMAL -> old/new distinction exists in legal language",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 366.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 283.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2539,
+      "markdown_body_line_end": 2546,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Composite nobility: inclusion is not equality",
+      "preview": "CONTINUE -> Hindu + Rajput + later Maratha mansabdars remain in service",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2550,
+      "markdown_body_line_end": 2557,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Guru Tegh Bahadur: source and consequence",
+      "preview": "1664 -> becomes Guru | 1671 -> returns Punjab | 1675 -> Delhi execution",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2561,
+      "markdown_body_line_end": 2568,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Jats and Satnamis: compare mechanisms",
+      "preview": "JATS c.1669 -> Mathura; cultivator/zamindar/clan + revenue/local coercion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2572,
+      "markdown_body_line_end": 2579,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Marwar: succession becomes legitimacy crisis",
+      "preview": "1678 -> Jaswant dies | posthumous Ajit becomes claimant",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2583,
+      "markdown_body_line_end": 2592,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Mewar and Prince Akbar, 1681",
+      "preview": "MEWAR -> strategic objection to occupation/interference; not close-kin monocause",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2596,
+      "markdown_body_line_end": 2605,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Religious policy and Mughal weakening",
+      "preview": "COST -> jizyah + temple coercion + Marwar handling narrow public legitimacy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2609,
+      "markdown_body_line_end": 2618,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 22 final answer spine",
+      "preview": "DEFINE -> orthodoxy + imperial discretion + differentiated incorporation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2284 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Vijayanagara & the Bahmani Kingdom (Deccan) - Complete Topic Package",
+      "preview": "Vijayanagara and Bahmani Deccan political field cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\00_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 443.756
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Vijayanagara & the Bahmani Kingdom (Deccan) - Complete Topic Package",
+      "preview": "**Subject:** Medieval Indian History | **GS Paper:** GS-I | **Export date:** 2026-09-03 **Approval:** false — awaiting explicit user approval. **Evidence tags:** [FACT] source-grounded; [ANALYSIS] evidence-led synthesis; [LIMIT] scope or ev",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 443.756
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 384.888
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 326.888
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 107.887
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 42,
+      "markdown_body_line_end": 42,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\medieval-indian-history-09_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 155.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 57,
+      "markdown_body_line_end": 64,
+      "heading": "Guided Tutor roadmap and retrieval strategy",
+      "preview": "Move | Retrieval question | Evidence to deploy | UPSC output",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Move",
+          "Retrieval question",
+          "Evidence to deploy",
+          "UPSC output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 570.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 402.59
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "Guided Tutor roadmap and retrieval strategy",
+      "preview": "Topic 09 cover — Deccan political field; a schematic study map, not a literal historical map.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\00_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 402.59
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 95.054
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 82,
+      "heading": "Pre-teach evidence check",
+      "preview": "Deccan strategic map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\01_deccan_strategic_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 602.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 345.767
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "Pre-teach evidence check",
+      "preview": "Three contested zones",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\02_three_contested_zones.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 326.567
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 69.843
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 110,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The conventional date for Vijayanagara’s foundation is c.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 356.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 304.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "Pre-teach evidence check",
+      "preview": "Foundation debate and source tree",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\05_foundation_source_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "Pre-teach evidence check",
+      "preview": "Source criticism ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\24_source_criticism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 166,
+      "heading": "CLOSING RECALL FLOW - EVIDENCE BASE AND THE CONVENTIONAL 1336 FOUNDATION",
+      "preview": "START / CONCEPT: Evidence base and the conventional 1336 foundation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 703.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 482.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 177,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A question on Krishnadeva Raya should not make him Sangama merely because he ruled “Vijayanagara.” Write the dynasty and then explain what continuity—imperial centre, military claims and regional networks—survived the change.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 328.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 261.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 196,
+      "heading": "Pre-teach evidence check",
+      "preview": "Chronology as argument",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\03_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 497.967
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 200,
+      "heading": "Pre-teach evidence check",
+      "preview": "Vijayanagara dynastic transitions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\04_dynasty_transitions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 478.767
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 222.043
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 233,
+      "heading": "CLOSING RECALL FLOW - DYNASTIES: CHANGE WITHOUT ERASING POLITICAL CONTINUITY",
+      "preview": "START / CONCEPT: Dynasties: change without erasing political continuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 626.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 395.491
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A cavalry force was not simply purchased in a market: imported horses needed merchants, ports, safe movement, payment and a military organisation capable of maintaining them.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 241.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 174.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 263,
+      "heading": "Pre-teach evidence check",
+      "preview": "Three contested zones",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\02_three_contested_zones.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 687.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 430.367
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 267,
+      "heading": "Pre-teach evidence check",
+      "preview": "Horse–port–military chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\07_horse_port_military_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 411.167
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 154.443
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 300,
+      "heading": "CLOSING RECALL FLOW - THE THREE CONTESTED ZONES: FISCAL, MILITARY AND MARITIME LOGIC",
+      "preview": "START / CONCEPT: The three contested zones: fiscal, military and maritime logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 593.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 352.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The correct way to use irrigation in Mains is: claim that water control enlarged state capacity; name Deva Raya I’s Tungabhadra dam and canal; explain cultivation, revenue and capital provisioning; qualify that the work does not alone measu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 231.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 150.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 330,
+      "heading": "Pre-teach evidence check",
+      "preview": "Tungabhadra irrigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\06_tungabhadra_irrigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 655.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 398.967
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 363,
+      "heading": "CLOSING RECALL FLOW - DEVA RAYA I: IRRIGATION AS STATE CAPACITY",
+      "preview": "START / CONCEPT: Deva Raya I: irrigation as state capacity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 374,
+      "markdown_body_line_end": 374,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Deva Raya II ruled from 1425 to 1446 and is associated with army reorganisation and a period of prosperity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 388.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 393,
+      "heading": "Pre-teach evidence check",
+      "preview": "Deva Raya II's military adaptation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\10_deva_raya_military_adaptation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 397,
+      "heading": "Pre-teach evidence check",
+      "preview": "Conflict and cooperation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\21_conflict_cooperation_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 413,
+      "markdown_body_line_end": 430,
+      "heading": "CLOSING RECALL FLOW - DEVA RAYA II: ADAPTATION IN A COMPETITIVE MILITARY FIELD",
+      "preview": "START / CONCEPT: Deva Raya II: adaptation in a competitive military field",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 717.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 516.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 441,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A traveller’s “wealth” is not a statistical survey, and a monumental landscape cannot by itself prove a uniformly prosperous society.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 348.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 281.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "Pre-teach evidence check",
+      "preview": "Hampi urban system",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\08_vijayanagara_urban_system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 476,
+      "markdown_body_line_end": 493,
+      "heading": "CLOSING RECALL FLOW - HAMPI: URBANISM, WATER, RITUAL AND MARKET IN ONE LANDSCAPE",
+      "preview": "START / CONCEPT: Hampi: urbanism, water, ritual and market in one landscape",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 384
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 504,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The source describes the amaram system as territorial revenue assignments to hereditary nayakas in return for troops and service.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 329.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 523,
+      "markdown_body_line_end": 523,
+      "heading": "Pre-teach evidence check",
+      "preview": "Amaram / nayaka logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\09_amaram_nayaka_logic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 527,
+      "markdown_body_line_end": 527,
+      "heading": "Pre-teach evidence check",
+      "preview": "Comparative fiscal-military systems",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\20_comparative_fiscal_military.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 560,
+      "heading": "CLOSING RECALL FLOW - AMARAM AND NAYAKAS: SERVICE, REVENUE AND NEGOTIATED POWER",
+      "preview": "START / CONCEPT: Amaram and nayakas: service, revenue and negotiated power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 416
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 703.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 462.491
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 571,
+      "markdown_body_line_end": 571,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "These are evidence units for statecraft, not a licence for undifferentiated praise.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 351.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 298.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 590,
+      "heading": "Pre-teach evidence check",
+      "preview": "Krishnadeva Raya's statecraft",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\13_krishnadeva_campaign_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 623,
+      "heading": "CLOSING RECALL FLOW - KRISHNADEVA RAYA: STATECRAFT, CAMPAIGN, CULTURE AND WATER",
+      "preview": "START / CONCEPT: Krishnadeva Raya: statecraft, campaign, culture and water",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 305
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 634,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The local history source also states that Krishnadevaraya’s relations with the Portuguese were broadly cooperative but cautions that the exact Bhatkal-fort formulation rests mainly on Portuguese accounts such as Barbosa and Paes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 653,
+      "markdown_body_line_end": 653,
+      "heading": "Pre-teach evidence check",
+      "preview": "Bhatkal: evidence provenance",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\14_bhatkal_evidence_provenance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 657,
+      "markdown_body_line_end": 657,
+      "heading": "Pre-teach evidence check",
+      "preview": "Goa–Dabhol trade",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\18_goa_dabhol_trade.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 673,
+      "markdown_body_line_end": 690,
+      "heading": "CLOSING RECALL FLOW - PORTUGUESE RELATIONS AND BHATKAL: A PROVENANCE-SAFE PYQ ROUTE",
+      "preview": "START / CONCEPT: Portuguese relations and Bhatkal: a provenance-safe PYQ route",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 318
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 690.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 449.491
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 701,
+      "markdown_body_line_end": 701,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A source boundary is not a weakness.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 323.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 271.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 720,
+      "heading": "Pre-teach evidence check",
+      "preview": "Traveller source matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\11_traveller_source_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 529.367
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 724,
+      "heading": "Pre-teach evidence check",
+      "preview": "Women in Portuguese accounts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\12_women_paes_source_warning.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 510.167
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 253.443
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 757,
+      "heading": "CLOSING RECALL FLOW - TRAVELLERS, WOMEN AND THE BOUNDARY OF INFERENCE",
+      "preview": "START / CONCEPT: Travellers, women and the boundary of inference",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 683.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 472.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 768,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use the chronology safely: 1347 Bahmani foundation; Gulbarga early capital; Bidar under Ahmad Shah; Mahmud Gawan’s ministerial prominence 1463–82; execution in 1482; subsequent disintegration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 351.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 284.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 787,
+      "heading": "Pre-teach evidence check",
+      "preview": "Bahmani foundation and capitals",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\15_bahmani_foundation_capital_shift.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 820,
+      "heading": "CLOSING RECALL FLOW - BAHMANI FOUNDATION, GULBARGA AND BIDAR",
+      "preview": "START / CONCEPT: Bahmani foundation, Gulbarga and Bidar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 831,
+      "markdown_body_line_end": 831,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains comparison: Gawan’s reform is not a Bahmani version of amaram.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 850,
+      "markdown_body_line_end": 850,
+      "heading": "Pre-teach evidence check",
+      "preview": "Mahmud Gawan's eight taraf reform",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\17_mahmud_gawan_eight_tarafs.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 854,
+      "markdown_body_line_end": 854,
+      "heading": "Pre-teach evidence check",
+      "preview": "Bidar and Mahmud Gawan Madrasa",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\19_bidar_madrasa.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 870,
+      "markdown_body_line_end": 887,
+      "heading": "CLOSING RECALL FLOW - MAHMUD GAWAN: EXPANSION, REFORM AND THE LIMITS OF CENTRALISATION",
+      "preview": "START / CONCEPT: Mahmud Gawan: expansion, reform and the limits of centralisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 690.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 509.491
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 898,
+      "markdown_body_line_end": 898,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Equally, it is misleading to treat Deccani and Afaqi as two uniform blocks with permanent interests.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 383.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "Pre-teach evidence check",
+      "preview": "Deccani–Afaqi factional structure",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\16_deccani_afaqi_factions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 921,
+      "heading": "Pre-teach evidence check",
+      "preview": "From Bahmani to successor states",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\23_successor_state_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 954,
+      "heading": "CLOSING RECALL FLOW - DECCANIS, AFAQIS AND THE CRISIS OF ELITE COALITION",
+      "preview": "START / CONCEPT: Deccanis, Afaqis and the crisis of elite coalition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 717.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 506.691
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 965,
+      "markdown_body_line_end": 965,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The analytical achievement is to acknowledge both political conflict and forms of interaction without making either the only story.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 352.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 286.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 984,
+      "heading": "Pre-teach evidence check",
+      "preview": "Bidar and Mahmud Gawan Madrasa",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\19_bidar_madrasa.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 529.367
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 988,
+      "heading": "Pre-teach evidence check",
+      "preview": "Conflict and cooperation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\21_conflict_cooperation_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 510.167
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 253.443
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1021,
+      "heading": "CLOSING RECALL FLOW - BIDAR, CULTURE AND ARCHITECTURE WITHOUT COMMUNAL SHORTCUTS",
+      "preview": "START / CONCEPT: Bidar, culture and architecture without communal shortcuts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 344
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 717.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 476.691
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1032,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The battle of 1565 is variously associated with Talikota, Rakshasa-Tangadi and Bannihatti.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 336.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 284.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1051,
+      "heading": "Pre-teach evidence check",
+      "preview": "Talikota and aftermath",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\22_talikota_aftermath.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 529.367
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1084,
+      "heading": "CLOSING RECALL FLOW - TALIKOTA/RAKSHASA-TANGADI/BANNIHATTI: COALITION, DESTRUCTION AND PERSISTENCE",
+      "preview": "START / CONCEPT: Talikota/Rakshasa-Tangadi/Bannihatti: coalition, destruction and persistence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1095,
+      "markdown_body_line_end": 1095,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vijayanagara continued under the Aravidu dynasty after 1565, while regional nayaka powers became increasingly consequential.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 393.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 326.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1114,
+      "heading": "Pre-teach evidence check",
+      "preview": "From Bahmani to successor states",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\23_successor_state_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1118,
+      "heading": "Pre-teach evidence check",
+      "preview": "Comparative fiscal-military systems",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\20_comparative_fiscal_military.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 527.367
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 270.643
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1151,
+      "heading": "CLOSING RECALL FLOW - AFTER 1565: DECCAN SULTANATES, NAYAKA PERSISTENCE AND MUGHAL-DECCAN BRIDGE",
+      "preview": "START / CONCEPT: After 1565: Deccan Sultanates, nayaka persistence and Mughal-Deccan bridge",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 339
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 704.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 453.691
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1160,
+      "markdown_body_line_end": 1160,
+      "heading": "Pre-teach evidence check",
+      "preview": "Mains answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\25_mains_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 344.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 88.167
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1164,
+      "markdown_body_line_end": 1164,
+      "heading": "Pre-teach evidence check",
+      "preview": "Rapid recall grid",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\assets\\26_rapid_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 546.567
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1188,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The live page is a teaching bridge only.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 156.567
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 104.099
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1224,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 569.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 348.691
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1239,
+      "markdown_body_line_end": 1247,
+      "heading": "Scope and source firewall",
+      "preview": "Evidence | Secure use | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Evidence",
+          "Secure use",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 585.49
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1272,
+      "heading": "Rivalry, institutions and material capacity",
+      "preview": "Vijayanagara | Bahmani",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Vijayanagara",
+          "Bahmani"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 353.29
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 243.888
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2636,
+      "markdown_body_line_end": 2639,
+      "heading": "Vijayanagara & the Bahmani Kingdom (Deccan) - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1206–1526)* — ch",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 650.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 562.824
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2645,
+      "markdown_body_line_end": 2655,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 535.324
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 230.322
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2676,
+      "markdown_body_line_end": 2684,
+      "heading": "2. Key classification / data",
+      "preview": "Issue | Advanced takeaway",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Issue",
+          "Advanced takeaway"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 600.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 415.89
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2688,
+      "markdown_body_line_end": 2689,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Compare Mahmud Gawan's centralising reforms with Alauddin Khalji's and Sher Shah's revenue-administrative measures. **Study link:** ⚠️ Link Talikota to later Deccan Sultanates and the Mughal-Deccan problem.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 390.89
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 332.022
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2702,
+      "markdown_body_line_end": 2702,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not read Deccan politics through communal binaries; Satish Chandra explicitly highlights political, strategic and commercial causes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 164.622
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 119.954
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2776,
+      "markdown_body_line_end": 2776,
+      "heading": "8. Rapid recall",
+      "preview": "**Memory hook:** **“Doab–delta–coast; dam–cavalry–nayaka; taraf–khalisa–faction; Talikota–Aravidu–successors.”**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 426.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 373.824
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2782,
+      "markdown_body_line_end": 2791,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Deccan political chronology",
+      "preview": "c. 1336 -> conventional Vijayanagara foundation anchor",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 326.824
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 234.224
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2795,
+      "markdown_body_line_end": 2802,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Three contested zones",
+      "preview": "TUNGABHADRA DOAB -> fertile frontier, forts and recurring campaigns",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2806,
+      "markdown_body_line_end": 2814,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Foundation and evidence ladder",
+      "preview": "1336 -> conventional Vijayanagara anchor; Harihara/Bukka biographies debated",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2818,
+      "markdown_body_line_end": 2826,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Vijayanagara dynastic sequence",
+      "preview": "SANGAMA -> Harihara/Bukka -> Deva Raya I -> Deva Raya II",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2830,
+      "markdown_body_line_end": 2839,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Water, capital and agrarian capacity",
+      "preview": "TUNGABHADRA LANDSCAPE + TANKS + CANALS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2843,
+      "markdown_body_line_end": 2852,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Amaram and nayaka bargain",
+      "preview": "RULER ASSIGNS REVENUE CLAIM / TERRITORIAL COMMAND",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 369.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 277.091
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2856,
+      "markdown_body_line_end": 2865,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Horse-port-military chain",
+      "preview": "WEST ASIAN HORSE SUPPLY -> PORTS / MERCHANTS / CUSTOMS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2869,
+      "markdown_body_line_end": 2877,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Hampi urban system",
+      "preview": "LANDSCAPE -> forts/enclosures + royal centre + sacred centre + settlements",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2881,
+      "markdown_body_line_end": 2890,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Bahmani state and capital shift",
+      "preview": "1347 GULBARGA -> foundation, frontier command and early consolidation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2894,
+      "markdown_body_line_end": 2905,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Mahmud Gawan reform logic",
+      "preview": "LARGE TARAFLANDS + POWERFUL GOVERNORS + ELITE RIVALRY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 453.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 340.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2909,
+      "markdown_body_line_end": 2918,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Deccani-Afaqi coalition problem",
+      "preview": "DECCANIS -> longer-settled regional Muslim elites and allies",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 318.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 226.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2922,
+      "markdown_body_line_end": 2930,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 09 answer spine",
+      "preview": "SOURCE -> date + genre + bias + corroboration",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    }
+  ]
+}

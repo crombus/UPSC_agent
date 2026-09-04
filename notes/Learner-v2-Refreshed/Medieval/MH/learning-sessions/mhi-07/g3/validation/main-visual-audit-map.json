@@ -1,0 +1,2770 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\medieval-indian-history-07_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\medieval-indian-history-07_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-07",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Administration, Economy & Society under the Sultanate - Complete Topic Package",
+      "preview": "Sultanate administration economy and society cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\00_sultanate_admin_economy_s-e3760a92eb.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 443.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 11,
+      "heading": "Administration, Economy & Society under the Sultanate - Complete Topic Package",
+      "preview": "**Subject:** Medieval Indian History | **Topic:** 07 | **Export date:** 2026-08-16  **Approval:** false - awaiting explicit user approval.  **Source order:** repository Markdown -> local OCR-searchable Satish Chandra concise volume and Part",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 443.756
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 342.288
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 17,
+      "markdown_body_line_end": 24,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 284.288
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 65.287
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 46,
+      "markdown_body_line_end": 46,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\medieval-indian-history-07_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 127.356
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 72,
+      "heading": "Sources actually used",
+      "preview": "Source class | Exact source | Use and caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source class",
+          "Exact source",
+          "Use and caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 410.29
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 149,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Topic 07 spans the Delhi Sultanate from its thirteenth-century consolidation to the Lodi transition, but it does so through institutions, revenue, markets, social hierarchy and historiography rather than by repeating ruler-biographies alrea",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 177,
+      "heading": "Topic ownership firewall",
+      "preview": "Owner | What remains primarily there | What Topic 07 legitimately uses",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Owner",
+          "What remains primarily there",
+          "What Topic 07 legitimately uses"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 232.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 78.222
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 181,
+      "heading": "Topic ownership firewall",
+      "preview": "01. Thematic chronology and institution evolution spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\01_thematic_chronology_insti-384c60a62b.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 204,
+      "heading": "CLOSING RECALL FLOW - SCOPE, FRAMING AND CHRONOLOGY DISCIPLINE",
+      "preview": "START / CONCEPT: Scope, framing and chronology discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 294
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 454.556
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 223.556
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 215,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Turkish conquest created fortified nodes, campaign corridors and cavalry households, but these alone did not produce a working state.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 240,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "02. Sultanate state formation - coercion and negotiation network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\02_state_formation_coercion_-de72f5d4e8.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 331.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 263,
+      "heading": "CLOSING RECALL FLOW - STATE FORMATION: CONQUEST, COURT FORM AND INHERITED AGRARIAN STRUCTURES",
+      "preview": "START / CONCEPT: State formation: conquest, court form and inherited agrarian structures",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 716.49
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 505.49
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 274,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The better contrast is between sharia-backed normative language and zawabit or political expediency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 351.49
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 299.022
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 297,
+      "markdown_body_line_end": 297,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "04. Sultan - khutba - sikka - caliphate legitimacy chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\04_sultan_khutba_sikka_calip-58a8465063.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 674.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 367.156
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 320,
+      "heading": "CLOSING RECALL FLOW - SULTAN, KINGSHIP, CALIPHATE AND POLITICAL EXPEDIENCY",
+      "preview": "START / CONCEPT: Sultan, kingship, caliphate and political expediency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 318
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 325.956
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 84.956
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The OCR itself shows caution around Diwan-i-Risalat; the weight of the wazir and the subordinates of finance shifted; some offices are best evidenced only under stronger or better-documented reigns.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 354,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "03. Central departments comparison with period caveat",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\03_central_departments_compa-1a4173a8fe.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 244.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 360,
+      "markdown_body_line_end": 377,
+      "heading": "CLOSING RECALL FLOW - CENTRAL DEPARTMENTS AND THE PROBLEM OF PROJECTING ONE REIGN ACROSS ALL CENTURIES",
+      "preview": "START / CONCEPT: Central departments and the problem of projecting one reign across all centuries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 441.556
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 220.556
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 388,
+      "markdown_body_line_end": 388,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "[DEBATE] The safest way to write this is not 'racial conflict' or 'class conflict' alone, but status-stratified elite competition in which ethnicity, household rank, old service, new service and local landed connections all mattered.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 109.156
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 42.488
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 411,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "05. Nobility composition and faction matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\05_nobility_composition_faction_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 460.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 152.756
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 434,
+      "heading": "CLOSING RECALL FLOW - NOBILITY AND ELITE COMPOSITION: WIDER RECRUITMENT, SHARPER FACTION",
+      "preview": "START / CONCEPT: Nobility and elite composition: wider recruitment, sharper faction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 445,
+      "markdown_body_line_end": 445,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Their careers show why military slavery cannot be read only as degradation; it was also an elite recruitment technology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 417.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 351.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 468,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "06. Bandagan lifecycle and political role",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\06_bandagan_lifecycle_political_role.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 462.356
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 491,
+      "heading": "CLOSING RECALL FLOW - BANDAGAN AND MILITARY SLAVERY: ELITE TRAINING, NOT MASS CHATTEL EQUIVALENCE",
+      "preview": "START / CONCEPT: Bandagan and military slavery: elite training, not mass chattel equivalence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 408.156
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 197.156
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 502,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Therefore the iqta must be explained as a moving field of negotiation, not as a fixed legal machine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 525,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. Iqta revenue-troop-audit-remittance flow",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\07_iqta_revenue_troop_audit_-7eb76129f8.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 436.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 128.688
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 548,
+      "heading": "CLOSING RECALL FLOW - IQTA AS ASSIGNMENT, NOT SIMPLE PROPERTY",
+      "preview": "START / CONCEPT: Iqta as assignment, not simple property",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 316
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 559,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A mature answer explains iqta as one institution whose political meaning changed with central strength.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 582,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "08. Iqta evolution across dynasties",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\08_iqta_evolution_across_dynasties.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 588,
+      "markdown_body_line_end": 605,
+      "heading": "CLOSING RECALL FLOW - IQTA ACROSS DYNASTIES: TIGHTENING, OVERREACH AND HEREDITARY DRIFT",
+      "preview": "START / CONCEPT: Iqta across dynasties: tightening, overreach and hereditary drift",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 441.556
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 210.556
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 616,
+      "markdown_body_line_end": 616,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The hierarchy below the province was where negotiated sovereignty became real.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 99.156
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 46.688
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 639,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "09. Central-provincial-local negotiated hierarchy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\09_central_provincial_local_-2a728768de.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 474.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 166.956
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 662,
+      "heading": "CLOSING RECALL FLOW - PROVINCIAL AND LOCAL ADMINISTRATION: HIERARCHY BELOW THE PROVINCE",
+      "preview": "START / CONCEPT: Provincial and local administration: hierarchy below the province",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 673,
+      "markdown_body_line_end": 673,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Alauddin's half-share demand in the upper doab, Muhammad bin Tughlaq's standard-yield cash incidence and Firuz's share-based reassessment show that actual revenue practice turned on political aim, local coercive ability and environmental co",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 437.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 356.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 696,
+      "markdown_body_line_end": 696,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Revenue categories legal-vs-practice matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\10_revenue_categories_legal_-56b0090d6e.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 702,
+      "markdown_body_line_end": 719,
+      "heading": "CLOSING RECALL FLOW - REVENUE SYSTEM: LEGAL CATEGORIES AND ACTUAL FISCAL PRACTICE",
+      "preview": "START / CONCEPT: Revenue system: legal categories and actual fiscal practice",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 313
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 454.556
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 223.556
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 730,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Army and logistics: cavalry, elephants, branding and route security comprises Army, logistics and cavalry as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 753,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11. Army, logistics and horse-supply system",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\11_army_logistics_horse_supply_system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 436.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 128.688
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 776,
+      "heading": "CLOSING RECALL FLOW - ARMY AND LOGISTICS: CAVALRY, ELEPHANTS, BRANDING AND ROUTE SECURITY",
+      "preview": "START / CONCEPT: Army and logistics: cavalry, elephants, branding and route security",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 787,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Judicial plurality was built into the structure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 447.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 395.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 810,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "12. Law and judicial pluralism network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\12_law_judicial_pluralism_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 833,
+      "heading": "CLOSING RECALL FLOW - POLICE, MARKET OVERSIGHT AND JUDICIAL PLURALITY",
+      "preview": "START / CONCEPT: Police, market oversight and judicial plurality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 140
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 454.556
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 263.556
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 844,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Topic 07 therefore uses crop range, irrigation form, and regional caution instead of invented output statistics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 137.956
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 85.488
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 867,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. Irrigation, crop and environment matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\14_irrigation_crop_environment_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 550.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 242.756
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 890,
+      "heading": "CLOSING RECALL FLOW - AGRARIAN BASE: CROPS, IRRIGATION, WELLS, CANALS AND ENVIRONMENTAL RISK",
+      "preview": "START / CONCEPT: Agrarian base: crops, irrigation, wells, canals and environmental risk",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 901,
+      "markdown_body_line_end": 901,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This is the core of the military-fiscal interpretation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 419.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 366.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 924,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "13. Agrarian surplus-transfer chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\13_agrarian_surplus_transfer_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 462.356
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 930,
+      "markdown_body_line_end": 947,
+      "heading": "CLOSING RECALL FLOW - SURPLUS TRANSFER, PEASANT BURDEN AND THE MILITARY-FISCAL STATE",
+      "preview": "START / CONCEPT: Surplus transfer, peasant burden and the military-fiscal state",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 421.156
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 220.156
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 958,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Token currency is a bounded example, not the whole monetary history of the Sultanate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 99.356
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 46.888
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 981,
+      "markdown_body_line_end": 981,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "15. Currency and monetisation timeline",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\15_currency_monetisation_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 488.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 181.156
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 987,
+      "markdown_body_line_end": 1004,
+      "heading": "CLOSING RECALL FLOW - CURRENCY, TRUST AND UNEVEN MONETISATION",
+      "preview": "START / CONCEPT: Currency, trust and uneven monetisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 152
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1015,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "[DEBATE] Historians disagree over how transformative this was.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 464.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 412.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1038,
+      "markdown_body_line_end": 1038,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "16. Urbanisation demand-supply network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\16_urbanisation_demand_supply_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1044,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW - URBANISATION: CAPITALS, QASBAS, PROVINCIAL TOWNS AND THE URBAN-REVIVAL DEBATE",
+      "preview": "START / CONCEPT: Urbanisation: capitals, qasbas, provincial towns and the urban-revival debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 427.356
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 206.356
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1072,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The better story is diffusion through existing craft skill, local demand, state projects and regional adaptation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1095,
+      "markdown_body_line_end": 1095,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "17. Crafts and technology evidence matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\17_crafts_technology_evidence_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 450.424
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 142.888
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1118,
+      "heading": "CLOSING RECALL FLOW - CRAFTS AND TECHNOLOGY: DIFFUSION, ADAPTATION AND SCALE",
+      "preview": "START / CONCEPT: Crafts and technology: diffusion, adaptation and scale",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1129,
+      "markdown_body_line_end": 1129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trees, sarais and relay systems show that transport infrastructure was a political concern.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1152,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "18. Inland and maritime trade route schematic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\18_inland_maritime_trade_rou-e53c8dd59c.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1158,
+      "markdown_body_line_end": 1175,
+      "heading": "CLOSING RECALL FLOW - INLAND AND MARITIME TRADE: CORRIDORS, SARAIS AND HORSES",
+      "preview": "START / CONCEPT: Inland and maritime trade: corridors, sarais and horses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 454.556
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 263.556
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1186,
+      "markdown_body_line_end": 1186,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Merchant initiative, finance and transport were indispensable, even where the state regulated, taxed or supervised their activity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 156.956
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 90.288
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1209,
+      "markdown_body_line_end": 1209,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "19. Merchant-credit-transport network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\19_merchant_credit_transport_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 536.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 228.556
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1232,
+      "heading": "CLOSING RECALL FLOW - MERCHANTS, BROKERS, BANJARAS AND CREDIT",
+      "preview": "START / CONCEPT: Merchants, brokers, banjaras and credit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1243,
+      "markdown_body_line_end": 1243,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Social groups are analytical labels, not exact population measures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 474.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 422.424
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1266,
+      "markdown_body_line_end": 1266,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "20. Social groups non-census matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\20_social_groups_non_census_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1272,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "21. Caste, jati and mobility process",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\21_caste_jati_mobility_process.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1278,
+      "markdown_body_line_end": 1295,
+      "heading": "CLOSING RECALL FLOW - SOCIAL GROUPS, CASTE AND NON-CENSUS HIERARCHY",
+      "preview": "START / CONCEPT: Social groups, caste and non-census hierarchy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1306,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The best social frame is therefore one of differentiated communities in unequal interaction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1331,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "22. Conversion multi-causal model",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\22_conversion_multi_causal_model.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 462.356
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1337,
+      "markdown_body_line_end": 1354,
+      "heading": "CLOSING RECALL FLOW - HINDUS, MUSLIMS AND CONVERSION: DIFFERENTIATED COMMUNITIES, NOT STATIC BLOCS",
+      "preview": "START / CONCEPT: Hindus, Muslims and conversion: differentiated communities, not static blocs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 393.956
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 172.956
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1365,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The OCR also shows that slavery lowered the status of free labour and helped structure elite comfort.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1388,
+      "markdown_body_line_end": 1388,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "23. Slavery forms comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\23_slavery_forms_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 287.224
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        43,
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1394,
+      "markdown_body_line_end": 1394,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "24. Gender evidence ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\24_gender_evidence_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1400,
+      "markdown_body_line_end": 1417,
+      "heading": "CLOSING RECALL FLOW - SLAVERY, GENDER AND EVERYDAY MATERIAL INEQUALITY",
+      "preview": "START / CONCEPT: Slavery, gender and everyday material inequality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1428,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Topic 07 uses Sufis and ulema not to retell Topic 10, but to explain how language, legitimacy and social contact worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 379.824
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1453,
+      "markdown_body_line_end": 1453,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "25. Education and language knowledge network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\25_education_language_knowledge_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 443.156
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1459,
+      "markdown_body_line_end": 1459,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "26. State-ulema-Sufi relationship matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\26_state_ulema_sufi_relationship_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 423.956
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 116.42
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1465,
+      "markdown_body_line_end": 1482,
+      "heading": "CLOSING RECALL FLOW - EDUCATION, LANGUAGE, ULEMA, SUFIS AND SOCIAL INTERACTION",
+      "preview": "START / CONCEPT: Education, language, ulema, Sufis and social interaction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1493,
+      "markdown_body_line_end": 1493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Synthesis and historiography: centralisation, feudalism, urban change and sources comprises Synthesis, historiography and centralisation as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1520,
+      "markdown_body_line_end": 1520,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "27. Centralisation debate",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\27_centralisation_debate.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 448.156
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1526,
+      "markdown_body_line_end": 1526,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "28. Urban revolution and economic historiography matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\28_urban_revolution_economic-e0c74c60e8.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 428.956
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 121.42
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1532,
+      "markdown_body_line_end": 1532,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "29. Source criticism matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\29_source_criticism_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1538,
+      "markdown_body_line_end": 1538,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "30. GS-I answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-07\\g3\\assets\\30_gs1_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1544,
+      "markdown_body_line_end": 1561,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS AND HISTORIOGRAPHY: CENTRALISATION, FEUDALISM, URBAN CHANGE AND SOURCES",
+      "preview": "START / CONCEPT: Synthesis and historiography: centralisation, feudalism, urban change and sources",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1572,
+      "markdown_body_line_end": 1572,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The live page is a teaching bridge only.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 460.891
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 408.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1591,
+      "markdown_body_line_end": 1608,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1871,
+      "markdown_body_line_end": 1871,
+      "heading": "Original broad-coverage MCQs",
+      "preview": "**Rotation check rule:** This original broad-coverage sequence starts at **A** and rotates strictly through **B, C and D**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 754.824
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2293,
+      "markdown_body_line_end": 2293,
+      "heading": "Remedial trap MCQs",
+      "preview": "**Rotation check rule:** This remedial sequence restarts at **A** and rotates strictly through **B, C and D**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 470.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 439.824
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2720,
+      "markdown_body_line_end": 2723,
+      "heading": "Administration, Economy & Society under the Sultanate - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1206–1526)* — ch",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 214.891
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 113.424
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2729,
+      "markdown_body_line_end": 2737,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 567.49
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2762,
+      "markdown_body_line_end": 2772,
+      "heading": "2. Key classification / data",
+      "preview": "Sector | Advanced features | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Sector",
+          "Advanced features",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 513.89
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2774,
+      "markdown_body_line_end": 2774,
+      "heading": "2. Key classification / data",
+      "preview": "**Terminology caution:** Satish Chandra associates *diwan-i-risalat* with religious matters and grants; other scholarly reconstructions have assigned it diplomatic functions. State the source used rather than presenting a debated portfolio ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 513.89
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 455.022
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2778,
+      "markdown_body_line_end": 2780,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Alauddin's revenue-market machine → `advanced/04_Khaljis-Alauddin.md`. **Study link:** ✅ Muhammad and Firuz revenue/canal policies → `advanced/05_Tughlaqs.md`. **Study link:** ⚠️ Trade and textile networks → link forward t",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 430.022
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 371.154
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2796,
+      "markdown_body_line_end": 2796,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Sultanate economy was neither static nor uniformly prosperous; growth, monetisation and inequality advanced together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 166.354
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 121.687
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2822,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 419.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 375.024
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2828,
+      "markdown_body_line_end": 2830,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 323.424
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 237.022
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2836,
+      "markdown_body_line_end": 2836,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 197.822
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 153.154
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2868,
+      "markdown_body_line_end": 2874,
+      "heading": "Register Module 04 - Offices and departments",
+      "preview": "Office | Core meaning | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Office",
+          "Core meaning",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 442.491
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 311.89
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2948,
+      "markdown_body_line_end": 2957,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Sultanate thematic chronology",
+      "preview": "13th c. -> consolidation through court, iqta and inherited local structures",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 670.691
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2961,
+      "markdown_body_line_end": 2968,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: State formation as a layered network",
+      "preview": "SULTAN / COURT -> sovereignty, appointments, campaign direction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 576.491
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2972,
+      "markdown_body_line_end": 2979,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Central departments with chronology caution",
+      "preview": "DIWAN-I-WIZARAT -> finance, accounts and revenue supervision",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 554.491
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 482.291
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2983,
+      "markdown_body_line_end": 2992,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Iqta fiscal-military flow",
+      "preview": "CROWN ASSIGNS REVENUE CLAIM -> MUQTI / IQTADAR COLLECTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 460.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 367.691
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2996,
+      "markdown_body_line_end": 3003,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Revenue and local hierarchy",
+      "preview": "AGRARIAN OUTPUT -> assessment through law, custom and state demand",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 345.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 273.491
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3007,
+      "markdown_body_line_end": 3014,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Army, logistics and urban regulation",
+      "preview": "HORSES / REMOUNTS -> import routes, branding, inspection and fodder",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3018,
+      "markdown_body_line_end": 3027,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Agrarian surplus and irrigation",
+      "preview": "RAIN + WELLS + LIFTS + CANALS -> variable cultivation capacity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3031,
+      "markdown_body_line_end": 3038,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Coinage and monetisation evidence",
+      "preview": "TANKA / JITTAL -> units and denominations in an expanding money economy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3042,
+      "markdown_body_line_end": 3051,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Urban craft and technology circuit",
+      "preview": "COURT + ARMY + MERCHANT DEMAND",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3055,
+      "markdown_body_line_end": 3064,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Trade, transport and credit",
+      "preview": "VILLAGE PRODUCERS -> banjaras and local markets -> inland towns",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 369.691
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 277.091
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3068,
+      "markdown_body_line_end": 3077,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Social differentiation without static blocs",
+      "preview": "NOBLES / ULEMA -> status, office, grants and internal hierarchy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3081,
+      "markdown_body_line_end": 3088,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 07 evidence and answer spine",
+      "preview": "OPEN -> changing military-fiscal state, centralising in aspiration",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1247 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-14",
+  "subject": "Medieval-Indian-History",
+  "title": "SHER SHAH SUR & THE SUR EMPIRE",
+  "short_route": "FROM FARID TO SHER → SUR CHRONOLOGY C.1510-1555 → BIHAR-BENGAL SCALE-UP TO SOVEREIGNTY → EMPIRE AND CAMPAIGN FIELDS → AFGHAN MONARCHY AND PERSONAL → TERRITORY AND MEDIATED COUNTRYSIDE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-14-deep-review-2026-09-03-g5.json",
+  "ascii_spec_sha256": "adcb50f56a72e97afd97fb9973b7ad86a79e997a37eaa012518128465a695d65",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FROM FARID TO SHER SHAH",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FROM FARID TO SHER SHAH",
+          "role": "primary"
+        },
+        {
+          "text": "SUR FAMILY/SASARAM LANDS + BIHAR SERVICE AND REVENUE EXPERIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHER KHAN TITLE",
+          "role": "comparison"
+        },
+        {
+          "text": "HEROIC/TIGER TRADITION IS SOURCE-MEDIATED",
+          "role": "evidence"
+        },
+        {
+          "text": "CHIEFS + ESTATES + FORTS + LOCAL KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "SURAJGARH 1534",
+          "role": "outcome"
+        },
+        {
+          "text": "BENGAL VICTORY EXPANDS PRESTIGE/RESOURCES",
+          "role": "comparison"
+        },
+        {
+          "text": "LARGER FISCAL-MILITARY BASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FARID → Sur family/Sasaram lands + Bihar service and revenue experience",
+        "SHER KHAN TITLE → heroic/tiger tradition is source-mediated",
+        "BIHAR → chiefs + estates + forts + local knowledge",
+        "SURAJGARH 1534 → Bengal victory expands prestige/resources",
+        "GAUR/BENGAL → larger fiscal-military base"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FARID → Sur family/Sasaram lands + Bihar service and revenue experience",
+            "SHER KHAN TITLE → heroic/tiger tradition is source-mediated",
+            "BIHAR → chiefs + estates + forts + local knowledge"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SURAJGARH 1534 → Bengal victory expands prestige/resources",
+            "GAUR/BENGAL → larger fiscal-military base",
+            "CHAUSA 1539 + KANNAUJ 1540 → sovereignty, bounded to Topic 13"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: opportunity converted by coalition/state-building, not instant genius.",
+            "MUST REMEMBER: Sher Shah's reign (1540-45) linked conquest to sarkar-pargana administration, revenue, roads, sarais and currency."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: opportunity converted by coalition/state-building, not instant genius.",
+      "answer_line": "MUST REMEMBER: Sher Shah's reign (1540-45) linked conquest to sarkar-pargana administration, revenue, roads, sarais and currency.",
+      "source_references": [
+        "Farid",
+        "Sher Khan",
+        "Sasaram",
+        "Bihar",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SUR CHRONOLOGY C.1510-1555",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SUR CHRONOLOGY C.1510-1555",
+          "role": "primary"
+        },
+        {
+          "text": "FARID GAINS PARGANA-LEVEL EXPERIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "GAUR CAPTURED BY SHER KHAN'S SIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "KANNAUJ AND FORMAL SOVEREIGNTY",
+          "role": "evidence"
+        },
+        {
+          "text": "MULTAN, UPPER SINDH AND RAJASTHAN FIELDS",
+          "role": "primary"
+        },
+        {
+          "text": "MAY 1545",
+          "role": "outcome"
+        },
+        {
+          "text": "DEATH DURING KALINJAR SIEGE",
+          "role": "comparison"
+        },
+        {
+          "text": "ISLAM SHAH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "c.1510 → Farid gains pargana-level experience",
+        "1534 → Surajgarh",
+        "1537 → Gaur captured by Sher Khan's side",
+        "1539 → Chausa",
+        "1540 → Kannauj and formal sovereignty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "c.1510 → Farid gains pargana-level experience",
+            "1534 → Surajgarh",
+            "1537 → Gaur captured by Sher Khan's side",
+            "1539 → Chausa"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1540 → Kannauj and formal sovereignty",
+            "1542 → Malwa",
+            "1543-44 → Multan, upper Sindh and Rajasthan fields",
+            "1544 → Samel"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "May 1545 → death during Kalinjar siege",
+            "1545-53 → Islam Shah",
+            "1555 → Humayun returns after fragmentation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1545-53 → Islam Shah | 1555 → Humayun returns after fragmentation.",
+      "source_references": [
+        "Chronology",
+        "Surajgarh",
+        "Samel",
+        "Kalinjar",
+        "Islam Shah",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BIHAR-BENGAL SCALE-UP TO SOVEREIGNTY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BIHAR-BENGAL SCALE-UP TO SOVEREIGNTY",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND KNOWLEDGE + AFGHAN FOLLOWERS + FORTS + REVENUE",
+          "role": "comparison"
+        },
+        {
+          "text": "BENGAL CONTEST",
+          "role": "evidence"
+        },
+        {
+          "text": "SURAJGARH AND GAUR ENLARGE RESOURCES AND REPUTATION",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTE CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "GANGETIC COMMUNICATIONS EXPOSE HUMAYUN'S EASTERN CAMPAIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "MILITARY VICTORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOCAL BASE → land knowledge + Afghan followers + forts + revenue",
+        "BENGAL CONTEST → Surajgarh and Gaur enlarge resources and reputation",
+        "ROUTE CONTROL → Gangetic communications expose Humayun's eastern campaign",
+        "MILITARY VICTORY → Chausa and Kannauj redistribute forts and elite loyalty",
+        "POLITICAL TASK → battlefield success must become collection and enforcement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LOCAL BASE → land knowledge + Afghan followers + forts + revenue",
+            "BENGAL CONTEST → Surajgarh and Gaur enlarge resources and reputation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ROUTE CONTROL → Gangetic communications expose Humayun's eastern campaign",
+            "MILITARY VICTORY → Chausa and Kannauj redistribute forts and elite loyalty"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "POLITICAL TASK → battlefield success must become collection and enforcement",
+            "OUTCOME: Sher Khan becomes Sher Shah by converting scale into sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME: Sher Khan becomes Sher Shah by converting scale into sovereignty.",
+      "source_references": [
+        "Bihar",
+        "Bengal",
+        "Route control",
+        "Sovereignty",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EMPIRE AND CAMPAIGN FIELDS",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EMPIRE AND CAMPAIGN FIELDS",
+          "role": "primary"
+        },
+        {
+          "text": "DELHI-AGRA-GANGA + BIHAR-BENGAL ADMINISTRATION/ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "LAHORE/MULTAN/INDUS + ROHTAS FRONTIER",
+          "role": "comparison"
+        },
+        {
+          "text": "MALWA 1542 + RAISEN 1543 + SAMMEL 1544",
+          "role": "evidence"
+        },
+        {
+          "text": "KALINJAR SIEGE/DEATH 1545",
+          "role": "primary"
+        },
+        {
+          "text": "MAP CODES",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIBUTARY RULER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE → Delhi-Agra-Ganga + Bihar-Bengal administration/routes",
+        "NORTH-WEST → Lahore/Multan/Indus + Rohtas frontier",
+        "CENTRAL/WEST → Malwa 1542 + Raisen 1543 + Sammel 1544",
+        "BUNDELKHAND → Kalinjar siege/death 1545",
+        "MAP CODES → direct core"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CORE → Delhi-Agra-Ganga + Bihar-Bengal administration/routes",
+            "NORTH-WEST → Lahore/Multan/Indus + Rohtas frontier",
+            "CENTRAL/WEST → Malwa 1542 + Raisen 1543 + Sammel 1544"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BUNDELKHAND → Kalinjar siege/death 1545",
+            "MAP CODES → direct core",
+            "tributary ruler"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "campaign reach",
+            "SOURCES → numbers, Puran Mal safe-conduct and forged letters cautioned",
+            "RULE: one colour cannot represent all Sur control."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE: one colour cannot represent all Sur control.",
+      "source_references": [
+        "Empire extent",
+        "Malwa",
+        "Multan",
+        "Samel",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AFGHAN MONARCHY AND PERSONAL SUPERVISION",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AFGHAN MONARCHY AND PERSONAL SUPERVISION",
+          "role": "primary"
+        },
+        {
+          "text": "STRONG PERSONAL MONARCHY + COURT/CENTRAL DEPARTMENTS",
+          "role": "institution"
+        },
+        {
+          "text": "HONOUR + SERVICE + ASSIGNMENTS + BARGAINING",
+          "role": "comparison"
+        },
+        {
+          "text": "MILITARY-POLICE AND REVENUE/JUDICIAL SUPERVISION",
+          "role": "evidence"
+        },
+        {
+          "text": "SHIQDAR + AMIN/MUNSIF + QANUNGO + FOTEDAR + WRITERS",
+          "role": "primary"
+        },
+        {
+          "text": "MUQADDAM + PATWARI + PANCHAYAT + ZAMINDAR + CULTIVATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "ISLAM SHAH",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUITY PLUS TIGHTER NOBLE/CAMP DISCIPLINE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SULTAN → strong personal monarchy + court/central departments",
+        "NOBLES/CLANS → honour + service + assignments + bargaining",
+        "SARKAR/SHIQ → military-police and revenue/judicial supervision",
+        "PARGANA → shiqdar + amin/munsif + qanungo + fotedar + writers",
+        "VILLAGE → muqaddam + patwari + panchayat + zamindar + cultivator"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SULTAN → strong personal monarchy + court/central departments",
+            "NOBLES/CLANS → honour + service + assignments + bargaining",
+            "SARKAR/SHIQ → military-police and revenue/judicial supervision"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PARGANA → shiqdar + amin/munsif + qanungo + fotedar + writers",
+            "VILLAGE → muqaddam + patwari + panchayat + zamindar + cultivator",
+            "ISLAM SHAH → continuity plus tighter noble/camp discipline"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: neither tribal democracy nor modern bureaucracy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ISLAM SHAH → continuity plus tighter noble/camp discipline.",
+      "source_references": [
+        "Afghan nobility",
+        "Personal despotism",
+        "Islam Shah",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TERRITORY AND MEDIATED COUNTRYSIDE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TERRITORY AND MEDIATED COUNTRYSIDE",
+          "role": "primary"
+        },
+        {
+          "text": "SOVEREIGN CENTRE",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL COMMAND AND OVERLAPPING OFFICIALS",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSESSMENT, RECORDS, POLICING AND LOCAL INFORMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CULTIVATORS, MUQADDAMS AND OTHER INTERMEDIARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CONTROLLED, PUNISHED OR NEGOTIATED WITH; NOT ABOLISHED",
+          "role": "caution"
+        },
+        {
+          "text": "THIS WAS NEITHER AKBAR'S MATURE SUBA SYSTEM NOR MODERN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SOVEREIGN CENTRE",
+        "SARKAR / SHIQ: territorial command and overlapping officials",
+        "PARGANA: assessment, records, policing and local information",
+        "VILLAGE: cultivators, muqaddams and other intermediaries",
+        "ZAMINDARS → controlled, punished or negotiated with; not abolished"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SOVEREIGN CENTRE",
+            "SARKAR / SHIQ: territorial command and overlapping officials"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PARGANA: assessment, records, policing and local information",
+            "VILLAGE: cultivators, muqaddams and other intermediaries"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ZAMINDARS → controlled, punished or negotiated with; not abolished",
+            "TRAP: this was neither Akbar's mature suba system nor modern ryotwari."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "this was neither Akbar's mature suba system nor modern ryotwari.",
+      "source_references": [
+        "Sarkar",
+        "Shiq",
+        "Pargana",
+        "Zamindar",
+        "Muqaddam",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REVENUE MEASUREMENT AND RECORD CHAIN",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REVENUE MEASUREMENT AND RECORD CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "JARIB/BIGHA AND SIKANDARI-GAZ TRADITION",
+          "role": "outcome"
+        },
+        {
+          "text": "GOOD + MIDDLING + BAD; IDEAL ACCOUNT",
+          "role": "comparison"
+        },
+        {
+          "text": "CROP YIELD/PRICE SCHEDULE",
+          "role": "evidence"
+        },
+        {
+          "text": "QUALIFIED ONE-THIRD DEMAND NORM",
+          "role": "primary"
+        },
+        {
+          "text": "WRITTEN STATE DEMAND",
+          "role": "institution"
+        },
+        {
+          "text": "CULTIVATOR ACCEPTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "CASH/KIND THROUGH OFFICIALS + ZAMINDARS/HEADMEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEASURE → jarib/bigha and Sikandari-gaz tradition",
+        "CLASSIFY → good + middling + bad; ideal account",
+        "RAI → crop yield/price schedule → qualified one-third demand norm",
+        "PATTA → written state demand",
+        "QABULIYAT → cultivator acceptance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MEASURE → jarib/bigha and Sikandari-gaz tradition",
+            "CLASSIFY → good + middling + bad; ideal account",
+            "RAI → crop yield/price schedule → qualified one-third demand norm"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PATTA → written state demand",
+            "QABULIYAT → cultivator acceptance",
+            "COLLECT → cash/kind through officials + zamindars/headmen"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT → Multan/frontier/crop/soil/price and Sarwani idealization",
+            "RULE: regularization was not universal measurement or ryotwari."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE: regularization was not universal measurement or ryotwari.",
+      "source_references": [
+        "Measurement",
+        "Rai",
+        "Patta",
+        "One-third",
+        "Multan",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ROAD-SARAI-CUSTOMS-DAK CIRCULATION SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ROAD-SARAI-CUSTOMS-DAK CIRCULATION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "OLD CORRIDORS",
+          "role": "outcome"
+        },
+        {
+          "text": "REPAIR + EXTENSION + POLICING, NOT ROAD INVENTION",
+          "role": "caution"
+        },
+        {
+          "text": "LODGING + ANIMALS + FOOD + MARKET + OFFICIAL/SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ROUTE SUPPORT VARIED BY PLACE",
+          "role": "primary"
+        },
+        {
+          "text": "HORSES/RUNNERS/INTELLIGENCE, NOT MODERN POSTAL DEPARTMENT",
+          "role": "caution"
+        },
+        {
+          "text": "CONTROLLED ENTRY/SALE IDEAL; IMPLEMENTATION UNEVEN",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE + TAX + ARMY + SURVEILLANCE IN ONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OLD CORRIDORS → repair + extension + policing, not road invention",
+        "SARAI → lodging + animals + food + market + official/security node",
+        "WATER/TREES/BRIDGE-FERRY → route support varied by place",
+        "DAK/NEWS → horses/runners/intelligence, not modern postal department",
+        "CUSTOMS → controlled entry/sale ideal; implementation uneven"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OLD CORRIDORS → repair + extension + policing, not road invention",
+            "SARAI → lodging + animals + food + market + official/security node"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "WATER/TREES/BRIDGE-FERRY → route support varied by place",
+            "DAK/NEWS → horses/runners/intelligence, not modern postal department"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CUSTOMS → controlled entry/sale ideal; implementation uneven",
+            "OUTCOME → trade + tax + army + surveillance in one circulation system."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → trade + tax + army + surveillance in one circulation system.",
+      "source_references": [
+        "Roads",
+        "Sarais",
+        "Dak",
+        "Customs",
+        "Two karohs",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MONEY, ORDER AND MILITARY CONTROLS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MONEY, ORDER AND MILITARY CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "STANDARDIZED GOLD + SILVER RUPIYA + COPPER DAM THROUGH",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLIER SILVER/RUPEE EXISTED; STANDARDIZATION, NOT INVENTION",
+          "role": "caution"
+        },
+        {
+          "text": "DIRECT RECRUITMENT + CASH/ASSIGNMENTS + CAVALRY/ARTILLERY/FORTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ALAUDDIN PRECEDENT; SUR ENFORCEMENT IS CHRONICLE-MEDIATED",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL RESPONSIBILITY + PATROLS + SEVERE PUNISHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "JUSTICE STORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPARTIALITY IDEAL, NOT CRIME STATISTICS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COIN → standardized gold + silver rupiya + copper dam through mints",
+        "CAUTION → earlier silver/rupee existed; standardization, not invention",
+        "ARMY → direct recruitment + cash/assignments + cavalry/artillery/forts",
+        "DAGH/CHEHRA → Alauddin precedent; Sur enforcement is chronicle-mediated",
+        "POLICING → local responsibility + patrols + severe punishment"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "COIN → standardized gold + silver rupiya + copper dam through mints",
+          "DAGH/CHEHRA → Alauddin precedent; Sur enforcement is chronicle-mediated",
+          "ROHTAS != ROHTASGARH → north-west frontier versus Bihar fort."
+        ],
+        [
+          "CAUTION → earlier silver/rupee existed; standardization, not invention",
+          "POLICING → local responsibility + patrols + severe punishment",
+          ""
+        ],
+        [
+          "ARMY → direct recruitment + cash/assignments + cavalry/artillery/forts",
+          "JUSTICE STORIES → impartiality ideal, not crime statistics",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "COIN → standardized gold + silver rupiya + copper dam through mints",
+            "CAUTION → earlier silver/rupee existed; standardization, not invention",
+            "ARMY → direct recruitment + cash/assignments + cavalry/artillery/forts"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DAGH/CHEHRA → Alauddin precedent; Sur enforcement is chronicle-mediated",
+            "POLICING → local responsibility + patrols + severe punishment",
+            "JUSTICE STORIES → impartiality ideal, not crime statistics"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ROHTAS != ROHTASGARH → north-west frontier versus Bihar fort."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROHTAS != ROHTASGARH → north-west frontier versus Bihar fort.",
+      "source_references": [
+        "Silver rupee",
+        "Law and order",
+        "Chehra",
+        "Dagh",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FORTS, RELIGION AND SUCCESSION LIMITS",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FORTS, RELIGION AND SUCCESSION LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "RAISEN/PURAN MAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SURRENDER/VIOLENCE/LEGITIMACY SOURCE PROBLEM",
+          "role": "evidence"
+        },
+        {
+          "text": "SUNNI LEGITIMACY + DIVERSE OFFICIALS/SUBJECTS + COERCIVE EPISODES",
+          "role": "evidence"
+        },
+        {
+          "text": "OCTAGONAL LAKE TOMB ACROSS SHER/ISLAM SHAH PHASES",
+          "role": "primary"
+        },
+        {
+          "text": "PURANA QILA/QILA-I-KUHNA",
+          "role": "outcome"
+        },
+        {
+          "text": "MULTI-PHASE DELHI LANDSCAPE",
+          "role": "comparison"
+        },
+        {
+          "text": "1545 KALINJAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAISEN/PURAN MAL → surrender/violence/legitimacy source problem",
+        "RELIGION → Sunni legitimacy + diverse officials/subjects + coercive episodes",
+        "SASARAM → octagonal lake tomb across Sher/Islam Shah phases",
+        "PURANA QILA/QILA-I-KUHNA → multi-phase Delhi landscape",
+        "1545 KALINJAR → gunpowder accident/death"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "RAISEN/PURAN MAL → surrender/violence/legitimacy source problem",
+          "PURANA QILA/QILA-I-KUHNA → multi-phase Delhi landscape",
+          "VERDICT: personal control and succession faction, not inherent Afghan incapacity."
+        ],
+        [
+          "RELIGION → Sunni legitimacy + diverse officials/subjects + coercive episodes",
+          "1545 KALINJAR → gunpowder accident/death",
+          "CLOSE DISTINCTION: Patta-qabuliyat and measurement claims need source-aware wording rather than projection of later uniform practice."
+        ],
+        [
+          "SASARAM → octagonal lake tomb across Sher/Islam Shah phases",
+          "1553+ → Firuz killed; Adil/Sikandar/Ibrahim + Hemu + civil wars",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "RAISEN/PURAN MAL → surrender/violence/legitimacy source problem",
+            "RELIGION → Sunni legitimacy + diverse officials/subjects + coercive episodes",
+            "SASARAM → octagonal lake tomb across Sher/Islam Shah phases"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "PURANA QILA/QILA-I-KUHNA → multi-phase Delhi landscape",
+            "1545 KALINJAR → gunpowder accident/death",
+            "1553+ → Firuz killed; Adil/Sikandar/Ibrahim + Hemu + civil wars"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: personal control and succession faction, not inherent Afghan incapacity.",
+            "CLOSE DISTINCTION: Patta-qabuliyat and measurement claims need source-aware wording rather than projection of later uniform practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: personal control and succession faction, not inherent Afghan incapacity.",
+      "answer_line": "personal control and succession faction, not inherent Afghan incapacity.",
+      "source_references": [
+        "Rohtas",
+        "Rohtasgarh",
+        "Puran Mal",
+        "Kalinjar",
+        "Succession",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CONTINUITY, SOURCE METHOD AND AKBAR",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONTINUITY, SOURCE METHOD AND AKBAR",
+          "role": "evidence"
+        },
+        {
+          "text": "SARKAR/PARGANA + MEASUREMENT + ROADS + COIN + DAGH/CHEHRA",
+          "role": "outcome"
+        },
+        {
+          "text": "SYSTEMATIZE, CONNECT AND SUPERVISE UNDER SHORT-REIGN CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTS/ADAPTS AT LARGER SCALE WITH SUBAS/MANSAB/ZABT-DAHSALA",
+          "role": "evidence"
+        },
+        {
+          "text": "SARWANI IDEAL + NIZAMUDDIN/MUGHAL RETROSPECTIVE",
+          "role": "primary"
+        },
+        {
+          "text": "COINS + INSCRIPTIONS + SASARAM/PURANA QILA/ROHTAS FABRIC",
+          "role": "outcome"
+        },
+        {
+          "text": "COLONIAL MEMORY",
+          "role": "comparison"
+        },
+        {
+          "text": "GT ROAD/MODERN-ADMINISTRATOR LABELS CAN EXAGGERATE INVENTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SULTANATE → sarkar/pargana + measurement + roads + coin + dagh/chehra",
+        "SUR → systematize, connect and supervise under short-reign conditions",
+        "AKBAR → selects/adapts at larger scale with subas/mansab/zabt-dahsala",
+        "SOURCES → Sarwani ideal + Nizamuddin/Mughal retrospective",
+        "CHECK → coins + inscriptions + Sasaram/Purana Qila/Rohtas fabric"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "SULTANATE → sarkar/pargana + measurement + roads + coin + dagh/chehra",
+          "SOURCES → Sarwani ideal + Nizamuddin/Mughal retrospective",
+          "RULE: continuity and modification, never a finished copied blueprint."
+        ],
+        [
+          "SUR → systematize, connect and supervise under short-reign conditions",
+          "CHECK → coins + inscriptions + Sasaram/Purana Qila/Rohtas fabric",
+          "EVIDENCE LIMIT: Calling Sher Shah a Mughal precursor is useful only when institutional continuity and later adaptation are qualified."
+        ],
+        [
+          "AKBAR → selects/adapts at larger scale with subas/mansab/zabt-dahsala",
+          "COLONIAL MEMORY → GT Road/modern-administrator labels can exaggerate invention",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "SULTANATE → sarkar/pargana + measurement + roads + coin + dagh/chehra",
+            "SUR → systematize, connect and supervise under short-reign conditions",
+            "AKBAR → selects/adapts at larger scale with subas/mansab/zabt-dahsala"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "SOURCES → Sarwani ideal + Nizamuddin/Mughal retrospective",
+            "CHECK → coins + inscriptions + Sasaram/Purana Qila/Rohtas fabric",
+            "COLONIAL MEMORY → GT Road/modern-administrator labels can exaggerate invention"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "RULE: continuity and modification, never a finished copied blueprint.",
+            "EVIDENCE LIMIT: Calling Sher Shah a Mughal precursor is useful only when institutional continuity and later adaptation are qualified."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: continuity and modification, never a finished copied blueprint.",
+      "answer_line": "continuity and modification, never a finished copied blueprint.",
+      "source_references": [
+        "Continuity",
+        "Akbar",
+        "Sarwani",
+        "Sasaram tomb",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 14 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 14 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SARWANI CLAIM + DATE/PURPOSE + COIN/FABRIC/INSTITUTIONAL CHECK",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE + ROUTES/FORTS + TRIBUTE/FRONTIER + CAMPAIGN REACH",
+          "role": "comparison"
+        },
+        {
+          "text": "AFGHAN MONARCHY + NOBLES + SARKAR/PARGANA/VILLAGE MEDIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "REVENUE + ROADS/SARAIS + MONEY + ARMY + JUSTICE/TRADE",
+          "role": "primary"
+        },
+        {
+          "text": "REGION + INTERMEDIARIES + COERCION + SHORT REIGN +",
+          "role": "outcome"
+        },
+        {
+          "text": "ISLAM SHAH",
+          "role": "comparison"
+        },
+        {
+          "text": "CIVIL WARS/HEMU",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE → Sarwani claim + date/purpose + coin/fabric/institutional check",
+        "MAP → core + routes/forts + tribute/frontier + campaign reach",
+        "STATE → Afghan monarchy + nobles + sarkar/pargana/village mediation",
+        "SYSTEM → revenue + roads/sarais + money + army + justice/trade",
+        "LIMIT → region + intermediaries + coercion + short reign + evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SOURCE → Sarwani claim + date/purpose + coin/fabric/institutional check",
+            "MAP → core + routes/forts + tribute/frontier + campaign reach",
+            "STATE → Afghan monarchy + nobles + sarkar/pargana/village mediation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SYSTEM → revenue + roads/sarais + money + army + justice/trade",
+            "LIMIT → region + intermediaries + coercion + short reign + evidence",
+            "SUCCESSION → Islam Shah → civil wars/Hemu → Humayun 1555"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → strong state-builder/systematizer, not modern inventor or Akbar blueprint."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → strong state-builder/systematizer, not modern inventor or Akbar blueprint.",
+      "source_references": [
+        "Answer architecture",
+        "State capacity",
+        "Qualified synthesis",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g4\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SHER SHAH SUR & THE SUR EMPIRE — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Sher Shah Sur & the Sur Empire — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Historiography note (PYQ-gap)",
+            "Part II cautions against uncritical adulation: Sher Shah's north Indian empire emerged from processes begun under Sikandar Lodi, Babur and Humayun.",
+            "The old balance of power had already been broken by Babur's victories, Humayun's Malwa-Gujarat campaigns, and Sher Khan's Bengal/Bihar successes."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

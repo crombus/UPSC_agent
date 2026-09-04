@@ -1,0 +1,1206 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-22",
+  "subject": "Medieval-Indian-History",
+  "title": "AURANGZEB: RELIGIOUS POLICY, NORTH INDIA & THE RAJPUTS",
+  "short_route": "DIFFERENTIATED RULE UNDER PRESSURE → AURANGZEB CHRONOLOGY, 1658-1707 → SHARIA, ZAWABIT AND IMPERIAL → JIZYAH, 1679: FISCAL FORM → TEMPLE POLICY: TEST ONE → COMPOSITE NOBILITY: INCLUSION IS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-22-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "83ecadaedf5e65b1546c2433ef559f50adb172f4763683835f0c6aca0ecefaa8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DIFFERENTIATED RULE UNDER PRESSURE",
+      "structural_type": "argument-tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DIFFERENTIATED RULE UNDER PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "PERSONAL ORTHODOXY + TIMURID SOVEREIGNTY + UNEVEN ADMINISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIGION ALONE EXPLAINS ALL",
+          "role": "comparison"
+        },
+        {
+          "text": "RELIGION WAS POLITICALLY IRRELEVANT",
+          "role": "evidence"
+        },
+        {
+          "text": "DISCRIMINATORY POLICY CAN COEXIST WITH COMPOSITE RECRUITMENT",
+          "role": "primary"
+        },
+        {
+          "text": "TOPIC 23 OWNS DECCAN-MARATHA WAR AND ACUTE JAGIRDARI CRISIS",
+          "role": "outcome"
+        },
+        {
+          "text": "DIFFERENTIATED INCORPORATION SURVIVED WHILE LEGITIMACY NARROWED.",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FRAME → personal orthodoxy + Timurid sovereignty + uneven administration",
+        "NOT → religion alone explains all",
+        "NOT → religion was politically irrelevant",
+        "FORM → discriminatory policy can coexist with composite recruitment",
+        "METHOD → order → locality → implementation → exception → consequence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FRAME → personal orthodoxy + Timurid sovereignty + uneven administration",
+            "NOT → religion alone explains all",
+            "NOT → religion was politically irrelevant"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FORM → discriminatory policy can coexist with composite recruitment",
+            "METHOD → order → locality → implementation → exception → consequence",
+            "BOUND → Topic 23 owns Deccan-Maratha war and acute jagirdari crisis"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → differentiated incorporation survived while legitimacy narrowed.",
+            "MUST REMEMBER: Aurangzeb's jizya restoration (1679), temple actions and Rajput conflicts require chronological and political context."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → differentiated incorporation survived while legitimacy narrowed.",
+      "source_references": [
+        "Aurangzeb",
+        "Orthodoxy",
+        "Statecraft",
+        "Differentiated rule",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AURANGZEB CHRONOLOGY, 1658-1707",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AURANGZEB CHRONOLOGY, 1658-1707",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESSION SETTLED",
+          "role": "outcome"
+        },
+        {
+          "text": "JAI SINGH DIES C.1669",
+          "role": "comparison"
+        },
+        {
+          "text": "JAT/TEMPLE-ORDER CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "GURU TEGH BAHADUR",
+          "role": "primary"
+        },
+        {
+          "text": "JASWANT SINGH DIES",
+          "role": "outcome"
+        },
+        {
+          "text": "JIZYAH + MARWAR-MEWAR WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "PRINCE AKBAR REBELS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1658-59 → accession settled",
+        "1667 → Jai Singh dies c.1669 → Jat/temple-order context",
+        "1672 → Satnamis",
+        "1675 → Guru Tegh Bahadur",
+        "1678 → Jaswant Singh dies"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1658-59 → accession settled",
+            "1667 → Jai Singh dies c.1669 → Jat/temple-order context",
+            "1672 → Satnamis",
+            "1675 → Guru Tegh Bahadur"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1678 → Jaswant Singh dies",
+            "1679 → jizyah + Marwar-Mewar war",
+            "1681 → Prince Akbar rebels",
+            "1698 → limited Ajit recognition"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1699 → Khalsa",
+            "1704 → southern jizyah suspension",
+            "1707 → death",
+            "1712 → abolition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1704 → southern jizyah suspension | 1707 → death | 1712 → abolition.",
+      "source_references": [
+        "Chronology",
+        "Jizyah",
+        "Guru Tegh Bahadur",
+        "Marwar",
+        "Khalsa",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SHARIA, ZAWABIT AND IMPERIAL CHOICE",
+      "structural_type": "triangle",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SHARIA, ZAWABIT AND IMPERIAL CHOICE",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL/MORAL IDIOM",
+          "role": "outcome"
+        },
+        {
+          "text": "RULER-MADE ADMINISTRATIVE RULES",
+          "role": "comparison"
+        },
+        {
+          "text": "SPONSORED COLLECTIVE HANAFI LEGAL COMPENDIUM",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTION + AUTOMATIC CODE + PROOF OF UNIFORM ENFORCEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PATRONAGE AND OFFICES; NEVER ONE LOYAL PARALLEL CABINET",
+          "role": "outcome"
+        },
+        {
+          "text": "JURISTIC OPINION",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPERIAL CHOICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHARIA → legal/moral idiom",
+        "ZAWABIT → ruler-made administrative rules",
+        "FATAWA-I-ALAMGIRI → sponsored collective Hanafi legal compendium",
+        "NOT → constitution + automatic code + proof of uniform enforcement",
+        "ULAMA/QAZI/SADR → patronage and offices; never one loyal parallel cabinet"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SHARIA → legal/moral idiom",
+            "ZAWABIT → ruler-made administrative rules",
+            "FATAWA-I-ALAMGIRI → sponsored collective Hanafi legal compendium"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "NOT → constitution + automatic code + proof of uniform enforcement",
+            "ULAMA/QAZI/SADR → patronage and offices; never one loyal parallel cabinet",
+            "CHAIN → juristic opinion → imperial choice → official → local practice"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE → legal commitment and political discretion coexist."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → legal commitment and political discretion coexist.",
+      "source_references": [
+        "Sharia",
+        "Zawabit",
+        "Fatawa-i-Alamgiri",
+        "Ulama",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "JIZYAH, 1679: FISCAL FORM AND POLITICAL SIGNAL",
+      "structural_type": "three-column",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "JIZYAH, 1679",
+          "role": "primary"
+        },
+        {
+          "text": "FISCAL FORM AND POLITICAL SIGNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "POLL TAX ON DIFFERENTIATED NON-MUSLIM SUBJECTHOOD; NOT LAND REVENUE",
+          "role": "caution"
+        },
+        {
+          "text": "CATEGORIES + EXEMPTIONS + COLLECTORS + CORRUPTION + REMISSIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE RELIGIOUS-CHARITABLE DESTINATION; NOT GENERAL-FISCAL CURE",
+          "role": "caution"
+        },
+        {
+          "text": "VISIBLE REVERSAL OF AKBARIAN PUBLIC POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "ALIENATION AND MISTRUST; NEVER SOLE CAUSE OF ONE REVOLT/DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "1704 SOUTHERN SUSPENSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORM → poll tax on differentiated non-Muslim subjecthood; not land revenue",
+        "ADMIN → categories + exemptions + collectors + corruption + remissions",
+        "TREASURY → separate religious-charitable destination; not general-fiscal cure",
+        "SIGNAL → visible reversal of Akbarian public policy",
+        "EFFECT → alienation and mistrust; never sole cause of one revolt/decline"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FORM → poll tax on differentiated non-Muslim subjecthood; not land revenue",
+            "ADMIN → categories + exemptions + collectors + corruption + remissions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TREASURY → separate religious-charitable destination; not general-fiscal cure",
+            "SIGNAL → visible reversal of Akbarian public policy"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EFFECT → alienation and mistrust; never sole cause of one revolt/decline",
+            "VARIATION → 1704 southern suspension → 1712 formal abolition."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VARIATION → 1704 southern suspension → 1712 formal abolition.",
+      "source_references": [
+        "Jizyah 1679",
+        "Poll tax",
+        "Differentiation",
+        "Political signal",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TEMPLE POLICY: TEST ONE ACTION AT A TIME",
+      "structural_type": "evidence-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TEMPLE POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "TEST ONE ACTION AT A TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "OLD/NEW DISTINCTION EXISTS IN LEGAL LANGUAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJOR ORDER CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "KASHI + MATHURA",
+          "role": "primary"
+        },
+        {
+          "text": "NAMED COERCIVE CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "OLD TEMPLES ALSO DESTROYED IN MARWAR-MEWAR, 1679-80",
+          "role": "comparison"
+        },
+        {
+          "text": "DESTROY + DEFACE + BRICK UP + CONVERT ARE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORMAL → old/new distinction exists in legal language",
+        "1669 → major order context",
+        "KASHI + MATHURA → named coercive cases",
+        "WAR → old temples also destroyed in Marwar-Mewar, 1679-80",
+        "ACTION → destroy + deface + brick up + convert are not identical"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "FORMAL → old/new distinction exists in legal language",
+            "1669 → major order context",
+            "KASHI + MATHURA → named coercive cases"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "WAR → old temples also destroyed in Marwar-Mewar, 1679-80",
+            "ACTION → destroy + deface + brick up + convert are not identical",
+            "COUNTER → grants, survival, local non-enforcement and complaint decisions"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "METHOD → date + site + source + context + action + reach + counter-evidence",
+            "TRAP → reject universal destruction AND blanket old-temple immunity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → reject universal destruction AND blanket old-temple immunity.",
+      "source_references": [
+        "Temple policy",
+        "1669 order",
+        "Kashi",
+        "Mathura",
+        "Source criticism",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COMPOSITE NOBILITY: INCLUSION IS NOT EQUALITY",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPOSITE NOBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUSION IS NOT EQUALITY",
+          "role": "caution"
+        },
+        {
+          "text": "HINDU + RAJPUT + LATER MARATHA MANSABDARS REMAIN IN",
+          "role": "comparison"
+        },
+        {
+          "text": "AMBER + BIKANER + BUNDI + KOTA CONTINUE AFTER",
+          "role": "evidence"
+        },
+        {
+          "text": "JIZYAH/TEMPLE/APPOINTMENT MEASURES REMAIN REAL",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATIVE AND MILITARY DEMAND LIMITS TOTAL EXCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "DIFFERENTIATED INCORPORATION, NOT EQUAL CITIZENSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "SERVICE DOES NOT ERASE COERCION; COERCION DOES NOT END",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONTINUE → Hindu + Rajput + later Maratha mansabdars remain in service",
+        "RAJPUT → Amber + Bikaner + Bundi + Kota continue after 1679",
+        "DISCRIMINATION → jizyah/temple/appointment measures remain real",
+        "NEED → administrative and military demand limits total exclusion",
+        "CATEGORY → differentiated incorporation, not equal citizenship"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CONTINUE → Hindu + Rajput + later Maratha mansabdars remain in service",
+          "DISCRIMINATION → jizyah/temple/appointment measures remain real",
+          "CATEGORY → differentiated incorporation, not equal citizenship"
+        ],
+        [
+          "RAJPUT → Amber + Bikaner + Bundi + Kota continue after 1679",
+          "NEED → administrative and military demand limits total exclusion",
+          "TRAP → service does not erase coercion; coercion does not end all service."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CONTINUE → Hindu + Rajput + later Maratha mansabdars remain in service",
+            "RAJPUT → Amber + Bikaner + Bundi + Kota continue after 1679"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DISCRIMINATION → jizyah/temple/appointment measures remain real",
+            "NEED → administrative and military demand limits total exclusion"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CATEGORY → differentiated incorporation, not equal citizenship",
+            "TRAP → service does not erase coercion; coercion does not end all service."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → service does not erase coercion; coercion does not end all service.",
+      "source_references": [
+        "Composite nobility",
+        "Inclusion",
+        "Equality",
+        "Rajputs",
+        "Marathas",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GURU TEGH BAHADUR: SOURCE AND CONSEQUENCE",
+      "structural_type": "evidence-matrix",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GURU TEGH BAHADUR",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE AND CONSEQUENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "BECOMES GURU",
+          "role": "comparison"
+        },
+        {
+          "text": "RETURNS PUNJAB",
+          "role": "evidence"
+        },
+        {
+          "text": "DELHI EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "PERSIAN GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "NO COMPLETE TRANSPARENT CONTEMPORARY COURT NARRATIVE",
+          "role": "caution"
+        },
+        {
+          "text": "STATE FRAME",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "1664 → becomes Guru",
+        "1671 → returns Punjab",
+        "1675 → Delhi execution",
+        "PERSIAN GAP → no complete transparent contemporary court narrative",
+        "STATE FRAME → security/law-order claims in later materials"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "1664 → becomes Guru",
+            "1671 → returns Punjab",
+            "1675 → Delhi execution"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "PERSIAN GAP → no complete transparent contemporary court narrative",
+            "STATE FRAME → security/law-order claims in later materials",
+            "SIKH MEMORY → defence of faith and martyrdom"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → punishment religiously coercive and politically consequential",
+            "1699 KHalsa → later institutional step; no mechanical single-cause chain."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → punishment religiously coercive and politically consequential.",
+      "source_references": [
+        "Guru Tegh Bahadur",
+        "1675",
+        "Sikh tradition",
+        "Khalsa 1699",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "JATS AND SATNAMIS: COMPARE MECHANISMS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JATS AND SATNAMIS",
+          "role": "primary"
+        },
+        {
+          "text": "COMPARE MECHANISMS",
+          "role": "comparison"
+        },
+        {
+          "text": "JATS C.1669",
+          "role": "comparison"
+        },
+        {
+          "text": "MATHURA; CULTIVATOR/ZAMINDAR/CLAN + REVENUE/LOCAL COERCION",
+          "role": "evidence"
+        },
+        {
+          "text": "CHURAMAN, NOT ONE ISOLATED RIOT",
+          "role": "caution"
+        },
+        {
+          "text": "SATNAMIS 1672",
+          "role": "outcome"
+        },
+        {
+          "text": "NARNAUL LOCAL CLASH",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNITY MOBILISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JATS c.1669 → Mathura; cultivator/zamindar/clan + revenue/local coercion",
+        "RECURRENCE → Gokula → Rajaram → Churaman, not one isolated riot",
+        "SATNAMIS 1672 → Narnaul local clash → community mobilisation",
+        "BUNDELAS → Champat Rai/Chhatrasal; chiefship, service, extraction and region",
+        "IMPERIAL RESPONSE → coercive capacity remains"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "JATS c.1669 → Mathura; cultivator/zamindar/clan + revenue/local coercion",
+          "SATNAMIS 1672 → Narnaul local clash → community mobilisation",
+          "IMPERIAL RESPONSE → coercive capacity remains"
+        ],
+        [
+          "RECURRENCE → Gokula → Rajaram → Churaman, not one isolated riot",
+          "BUNDELAS → Champat Rai/Chhatrasal; chiefship, service, extraction and region",
+          "TRAP → not one class, religious or national revolt."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "JATS c.1669 → Mathura; cultivator/zamindar/clan + revenue/local coercion",
+            "RECURRENCE → Gokula → Rajaram → Churaman, not one isolated riot"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SATNAMIS 1672 → Narnaul local clash → community mobilisation",
+            "BUNDELAS → Champat Rai/Chhatrasal; chiefship, service, extraction and region"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "IMPERIAL RESPONSE → coercive capacity remains",
+            "TRAP → not one class, religious or national revolt."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → not one class, religious or national revolt.",
+      "source_references": [
+        "Gokula",
+        "Jats",
+        "Satnamis",
+        "Narnaul",
+        "Local resistance",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MARWAR: SUCCESSION BECOMES LEGITIMACY CRISIS",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SUCCESSION BECOMES LEGITIMACY CRISIS",
+          "role": "primary"
+        },
+        {
+          "text": "JASWANT DIES",
+          "role": "outcome"
+        },
+        {
+          "text": "POSTHUMOUS AJIT BECOMES CLAIMANT",
+          "role": "comparison"
+        },
+        {
+          "text": "DISPUTED SUCCESSION + DEBT + REVENUE DISORDER; PRECEDENT EXISTS",
+          "role": "evidence"
+        },
+        {
+          "text": "INDER SINGH TIKA + SEARCHES + CONQUEROR CONDUCT +",
+          "role": "primary"
+        },
+        {
+          "text": "DURGADAS REMOVES AJIT; SARDARS REJECT IMPOSED SETTLEMENT",
+          "role": "caution"
+        },
+        {
+          "text": "JIZYAH/TEMPLE ACTION SHARPENS FEAR, NOT SOLE INITIAL TRIGGER",
+          "role": "caution"
+        },
+        {
+          "text": "SUCCESSION ADMINISTRATION BECOMES WATAN-AND-HONOUR CRISIS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1678 → Jaswant dies",
+        "posthumous Ajit becomes claimant",
+        "KHAlISA → disputed succession + debt + revenue disorder; precedent exists",
+        "ESCALATE → Inder Singh tika + searches + conqueror conduct + temple teams",
+        "RATHORS → Durgadas removes Ajit; sardars reject imposed settlement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1678 → Jaswant dies",
+            "posthumous Ajit becomes claimant",
+            "KHAlISA → disputed succession + debt + revenue disorder; precedent exists"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ESCALATE → Inder Singh tika + searches + conqueror conduct + temple teams",
+            "RATHORS → Durgadas removes Ajit; sardars reject imposed settlement",
+            "RELIGION → jizyah/temple action sharpens fear, not sole initial trigger"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → succession administration becomes watan-and-honour crisis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RELIGION → jizyah/temple action sharpens fear, not sole initial trigger.",
+      "source_references": [
+        "Jaswant Singh",
+        "Ajit Singh",
+        "Khalisa",
+        "Durgadas",
+        "Marwar",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MEWAR AND PRINCE AKBAR, 1681",
+      "structural_type": "actor-network",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MEWAR AND PRINCE AKBAR, 1681",
+          "role": "primary"
+        },
+        {
+          "text": "STRATEGIC OBJECTION TO OCCUPATION/INTERFERENCE; NOT CLOSE-KIN MONOCAUSE",
+          "role": "caution"
+        },
+        {
+          "text": "TERRAIN + RATHORS",
+          "role": "comparison"
+        },
+        {
+          "text": "MUGHAL PROGRESS SLOW; NEGOTIATION REMAINS POSSIBLE",
+          "role": "evidence"
+        },
+        {
+          "text": "JAN 1681",
+          "role": "primary"
+        },
+        {
+          "text": "PRINCE AKBAR REBELS WITH RATHOR SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "LETTERS/INTELLIGENCE SPLIT COALITION; AKBAR FLEES SOUTH",
+          "role": "comparison"
+        },
+        {
+          "text": "AJIT RECOGNISED WITHOUT FULL JODHPUR RESTORATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEWAR → strategic objection to occupation/interference; not close-kin monocause",
+        "TERRAIN + RATHORS → Mughal progress slow; negotiation remains possible",
+        "JAN 1681 → Prince Akbar rebels with Rathor support",
+        "AURANGZEB → letters/intelligence split coalition; Akbar flees south",
+        "1698 → Ajit recognised without full Jodhpur restoration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MEWAR → strategic objection to occupation/interference; not close-kin monocause",
+            "TERRAIN + RATHORS → Mughal progress slow; negotiation remains possible",
+            "JAN 1681 → Prince Akbar rebels with Rathor support"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AURANGZEB → letters/intelligence split coalition; Akbar flees south",
+            "1698 → Ajit recognised without full Jodhpur restoration",
+            "LIMIT → other Rajput houses continue Mughal service."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE DISTINCTION: Temple destruction was selective and variable, not a timeless universal programme; grants and protection also need evidence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Temple destruction was selective and variable, not a timeless universal programme; grants and protection also need evidence.",
+      "source_references": [
+        "Mewar",
+        "Rana Raj Singh",
+        "Prince Akbar",
+        "Aravalli",
+        "Durgadas",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RELIGIOUS POLICY AND MUGHAL WEAKENING",
+      "structural_type": "causal-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RELIGIOUS POLICY AND MUGHAL WEAKENING",
+          "role": "primary"
+        },
+        {
+          "text": "JIZYAH + TEMPLE COERCION + MARWAR HANDLING NARROW PUBLIC",
+          "role": "outcome"
+        },
+        {
+          "text": "OLD ALLIES DOUBT SUCCESSION/WATAN GUARANTEES",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY FAILS TO CREATE A UNIFIED DEPENDABLE MUSLIM BLOC",
+          "role": "evidence"
+        },
+        {
+          "text": "EMPIRE REMAINS COERCIVELY CAPABLE; NO IMMEDIATE COLLAPSE",
+          "role": "caution"
+        },
+        {
+          "text": "DECCAN TIMING",
+          "role": "outcome"
+        },
+        {
+          "text": "NORTHERN TRUST COST COINCIDES WITH SOUTHERN COMMITMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY CONTRIBUTES THROUGH LEGITIMACY, NEVER A SINGLE-CAUSE DECLINE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COST → jizyah + temple coercion + Marwar handling narrow public legitimacy",
+        "TRUST → old allies doubt succession/watan guarantees",
+        "ULAMA → policy fails to create a unified dependable Muslim bloc",
+        "MILITARY → empire remains coercively capable; no immediate collapse",
+        "DECCAN TIMING → northern trust cost coincides with southern commitment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "COST → jizyah + temple coercion + Marwar handling narrow public legitimacy",
+            "TRUST → old allies doubt succession/watan guarantees",
+            "ULAMA → policy fails to create a unified dependable Muslim bloc"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MILITARY → empire remains coercively capable; no immediate collapse",
+            "DECCAN TIMING → northern trust cost coincides with southern commitment",
+            "VERDICT → policy contributes through legitimacy, never a single-cause decline."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE LIMIT: Marwar and Mewar followed different trajectories, so 'the Rajputs' cannot be treated as one undifferentiated bloc."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → policy contributes through legitimacy, never a single-cause decline.",
+      "source_references": [
+        "Religious policy",
+        "Legitimacy",
+        "Mughal weakening",
+        "Causation",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 22 FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 22 FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ORTHODOXY + IMPERIAL DISCRETION + DIFFERENTIATED INCORPORATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARIA/FATAWA + JIZYAH + TEMPLE SITES + SERVICE EXCEPTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "JAT/SATNAMI/BUNDELA/SIKH MECHANISMS SEPARATELY",
+          "role": "evidence"
+        },
+        {
+          "text": "COURT + FARMAN + WAQA/BAHI + SIKH + MATERIAL",
+          "role": "institution"
+        },
+        {
+          "text": "ZERO DIRECT TOPIC-22 ROUTES, 2018-2026; MAINS HAS NO KEY",
+          "role": "caution"
+        },
+        {
+          "text": "REAL DISCRIMINATION AND COERCION, UNEVEN REACH, MAJOR TRUST COST.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEFINE → orthodoxy + imperial discretion + differentiated incorporation",
+        "TRACE → 1658 → 1669 → 1675 → 1678-79 → 1681 → 1698/1704",
+        "TEST → sharia/Fatawa + jizyah + temple sites + service exceptions",
+        "COMPARE → Jat/Satnami/Bundela/Sikh mechanisms separately",
+        "RAJPUT → succession → khalisa → overreach → Ajit/Mewar/Akbar"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DEFINE → orthodoxy + imperial discretion + differentiated incorporation",
+            "TRACE → 1658 → 1669 → 1675 → 1678-79 → 1681 → 1698/1704",
+            "TEST → sharia/Fatawa + jizyah + temple sites + service exceptions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COMPARE → Jat/Satnami/Bundela/Sikh mechanisms separately",
+            "RAJPUT → succession → khalisa → overreach → Ajit/Mewar/Akbar",
+            "SOURCE → court + farman + Waqa/Bahi + Sikh + material limits"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "PYQ → zero direct Topic-22 routes, 2018-2026; Mains has no key",
+            "VERDICT → real discrimination and coercion, uneven reach, major trust cost."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → real discrimination and coercion, uneven reach, major trust cost.",
+      "source_references": [
+        "Answer architecture",
+        "Evidence scale",
+        "Rajputs",
+        "Qualified verdict",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\22_Aurangzeb-Religious-Policy-Rajputs.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g3\\medieval-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART XIV - DEEPENING WORKSHOPS",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE, SCALE AND CAUSATION",
+          "role": "evidence"
+        },
+        {
+          "text": "WORKSHOP 1 — CHRONOLOGY AS CAUSAL DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "WORKSHOP 2 — LAW, COMPENDIUM AND ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "WORKSHOP 3 — JIZYAH AS A CONTACT POINT",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKSHOP 4 — TEMPLE CLAIMS AS SOURCE TESTS",
+          "role": "evidence"
+        },
+        {
+          "text": "WORKSHOP 5 — GURU TEGH BAHADUR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "PART XIV - DEEPENING WORKSHOPS: EVIDENCE, SCALE AND CAUSATION",
+            "Workshop 1 — Chronology as causal discipline",
+            "Workshop 2 — Law, compendium and administration",
+            "Workshop 3 — Jizyah as a contact point"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Workshop 4 — Temple claims as source tests",
+            "Workshop 5 — Guru Tegh Bahadur: consequence without simplification",
+            "Workshop 6 — Jats and Satnamis: compare mechanisms, not labels",
+            "Workshop 7 — Marwar: administration becomes legitimacy crisis"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Workshop 8 — Mewar and the 1681 dynastic opening",
+            "Workshop 9 — Causation and the multi-causal verdict",
+            "PART XIV-B - ADVANCED ESSAY CLINICS",
+            "Clinic 1 — From legal language to state action"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

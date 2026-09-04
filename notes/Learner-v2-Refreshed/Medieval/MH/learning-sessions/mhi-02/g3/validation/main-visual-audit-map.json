@@ -1,0 +1,2375 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "The Ghaznavids & the Ghurian Invasions - Complete Topic Package",
+      "preview": "**Subject:** Medieval Indian History | **Paper:** Prelims GS-I + GS-I | **Topic:** 02 | **Date:** 13 August 2026  **Evidence key:** FACT = directly supported by a named source; TEXTUAL REPORT = what a named chronicle says; MATERIAL EVIDENCE",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 606.024
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 387.022
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 44,
+      "markdown_body_line_end": 44,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\assets\\medieval-indian-history-02_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 447.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 58,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 396.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 223.754
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 69,
+      "heading": "Sources actually used",
+      "preview": "Source class | Exact source | Use and caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Source class",
+          "Exact source",
+          "Use and caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 411.49
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 94,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: The most useful distinction is not 'raider versus conqueror' as an absolute moral contrast, but the different objectives, bases, timing, political environments and institutional outcomes of the two projects.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 109,
+      "markdown_body_line_end": 119,
+      "heading": "Compact visual",
+      "preview": "THREE PHASES - DO NOT COLLAPSE THEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 461.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 123,
+      "markdown_body_line_end": 127,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Question | Exam-safe answer | Necessary qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Question",
+          "Exam-safe answer",
+          "Necessary qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 439.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 283.622
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 171,
+      "heading": "CLOSING RECALL FLOW - SCOPE, DISTINCTIONS AND GOVERNING THESIS",
+      "preview": "START / CONCEPT: Scope, distinctions and governing thesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 643.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 432.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 182,
+      "markdown_body_line_end": 182,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: Turkic military slavery was a political technology of recruitment and dependence, not an ethnic explanation of victory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 307.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 240.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 197,
+      "markdown_body_line_end": 211,
+      "heading": "Compact visual",
+      "preview": "TRANSOXIANA / KHURASAN",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 221,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Element | Historical function | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Historical function",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 624.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 415.29
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 266,
+      "heading": "CLOSING RECALL FLOW - CENTRAL ASIAN AND AFGHAN SETTING: SAMANIDS, MILITARY SLAVERY AND FRONTIER GEOGRAPHY",
+      "preview": "START / CONCEPT: Central Asian and Afghan setting: Samanids, military slavery and frontier geography",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 538.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 277,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "METHOD RULE: Indian inscriptional or literary silence is not proof that an event caused no disruption; survival is selective and local records had different purposes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 398.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 331.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 302,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Source | Genre / position | What it can support | Core limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Source",
+          "Genre / position",
+          "What it can support",
+          "Core limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 379.39
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 347,
+      "heading": "CLOSING RECALL FLOW - SOURCES AND METHOD: CHRONICLES, SCHOLARSHIP, INSCRIPTIONS, COINS AND SILENCE",
+      "preview": "START / CONCEPT: Sources and method: chronicles, scholarship, inscriptions, coins and silence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 698.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 487.491
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 358,
+      "markdown_body_line_end": 358,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Shahis recognised the danger and fought both offensively and defensively; they were not passive victims.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 361.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 309.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 373,
+      "markdown_body_line_end": 387,
+      "heading": "Compact visual",
+      "preview": "963 Alp-tigin at Ghazni",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 397,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Actor / place | Evidence-led significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Actor / place",
+          "Evidence-led significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 624.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 437.69
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 424,
+      "markdown_body_line_end": 441,
+      "heading": "CLOSING RECALL FLOW - RISE OF THE GHAZNAVIDS: ALP-TIGIN, SABUKTIGIN AND THE HINDU SHAHIS",
+      "preview": "START / CONCEPT: Rise of the Ghaznavids: Alp-tigin, Sabuktigin and the Hindu Shahis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 452,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The same campaign could combine several, but they are not synonyms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 475,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Date / phase | Region / opponent | Operational result | Historical limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Date / phase",
+          "Region / opponent",
+          "Operational result",
+          "Historical limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 514.89
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 503,
+      "markdown_body_line_end": 520,
+      "heading": "CLOSING RECALL FLOW - MAHMUD'S INDIAN CAMPAIGNS: CHRONOLOGY, REGIONS, METHODS, OUTCOMES AND LIMITS",
+      "preview": "START / CONCEPT: Mahmud's Indian campaigns: chronology, regions, methods, outcomes and limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 531,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Motives are inferred from actions and self-representation; no archive gives a modern policy memorandum ranking each cause.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 433.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 366.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 554,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Motive / mechanism | Named evidence | What it explains | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Motive / mechanism",
+          "Named evidence",
+          "What it explains",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 504.39
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 599,
+      "heading": "CLOSING RECALL FLOW - MAHMUD'S MOTIVES: A CLAIM-EVIDENCE MATRIX AGAINST SINGLE-CAUSE ANSWERS",
+      "preview": "START / CONCEPT: Mahmud's motives: a claim-evidence matrix against single-cause answers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 610,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Somnath is at Prabhas Patan in Gujarat and was an important pilgrimage and endowed temple centre.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 625,
+      "markdown_body_line_end": 636,
+      "heading": "Compact visual",
+      "preview": "EVENT (1025-26)",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 647,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Evidence layer | Responsible use | Risk",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Evidence layer",
+          "Responsible use",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 654.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 435.29
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 693,
+      "heading": "CLOSING RECALL FLOW - SOMNATH: SOURCE CRITICISM, HISTORICAL EVENT AND LATER POLITICAL MEMORY",
+      "preview": "START / CONCEPT: Somnath: source criticism, historical event and later political memory",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 518.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 704,
+      "markdown_body_line_end": 704,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: For source evaluation: access - method - contribution - social/genre limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 392.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 340.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 719,
+      "markdown_body_line_end": 726,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Dimension | Evidence / contribution | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Evidence / contribution",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 557.09
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 771,
+      "heading": "CLOSING RECALL FLOW - AL-BIRUNI: SCHOLARSHIP, OBSERVATIONS, CONTEXT AND LIMITS",
+      "preview": "START / CONCEPT: Al-Biruni: scholarship, observations, context and limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 782,
+      "markdown_body_line_end": 782,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The administrative history of Ghaznavid Punjab is thinly documented.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 460.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 408.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 804,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Sphere | Named evidence / feature | Analytical significance | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Sphere",
+          "Named evidence / feature",
+          "Analytical significance",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 524.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 832,
+      "markdown_body_line_end": 849,
+      "heading": "CLOSING RECALL FLOW - GHAZNAVID STATE, CULTURE, ECONOMY AND THE INDIA CONNECTION",
+      "preview": "START / CONCEPT: Ghaznavid state, culture, economy and the India connection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 860,
+      "markdown_body_line_end": 860,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains/PYQ use: Explain rise through rivalry + partnership + western constraint + Punjab base.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 470.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 418.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 888,
+      "heading": "Compact visual",
+      "preview": "GHURID ASCENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 223.424
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 92.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 898,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Factor | Contribution to Ghurid rise | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Factor",
+          "Contribution to Ghurid rise",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 942,
+      "heading": "CLOSING RECALL FLOW - RISE OF THE GHURIDS AND CONFLICT WITH THE GHAZNAVIDS",
+      "preview": "START / CONCEPT: Rise of the Ghurids and conflict with the Ghaznavids",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 953,
+      "markdown_body_line_end": 953,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: Muizz al-Din's move from a desert-Gujarat approach to a Punjab-first approach shows institutional learning rather than inherent military superiority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 975,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Date | Route / objective | Outcome | Strategic lesson",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Date",
+          "Route / objective",
+          "Outcome",
+          "Strategic lesson"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 566.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1019,
+      "heading": "CLOSING RECALL FLOW - MUIZZ AL-DIN'S CAMPAIGNS BEFORE TARAIN: MULTAN, UCH, GUJARAT AND PUNJAB",
+      "preview": "START / CONCEPT: Muizz al-Din's campaigns before Tarain: Multan, Uch, Gujarat and Punjab",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1030,
+      "markdown_body_line_end": 1030,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Jaichandra's absence should be explained cautiously through political competition, not melodrama.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 427.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1052,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Dimension | Tarain I, 1191 | Tarain II, 1192 | Analytical caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Tarain I, 1191",
+          "Tarain II, 1192",
+          "Analytical caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 545.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1097,
+      "heading": "CLOSING RECALL FLOW - TARAIN I AND II: BATTLE COMPARISON, CONTINGENCY AND POLITICAL AFTERMATH",
+      "preview": "START / CONCEPT: Tarain I and II: battle comparison, contingency and political aftermath",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1108,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANSWER UPGRADE: Treat Chandawar as a gateway in a chain, not the final eastern boundary of a uniform empire.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 447.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 395.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1135,
+      "heading": "Compact visual",
+      "preview": "PUNJAB BASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 214.624
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 93.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1139,
+      "markdown_body_line_end": 1145,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Issue | Evidence-led reading | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Issue",
+          "Evidence-led reading",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1189,
+      "heading": "CLOSING RECALL FLOW - CHANDAWAR, THE GANGA PLAIN AND THE LIMITS OF BATTLEFIELD VICTORY",
+      "preview": "START / CONCEPT: Chandawar, the Ganga plain and the limits of battlefield victory",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1200,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: Delegation was a comparative Ghurid advantage: multiple commanders could occupy forts, collect tribute and respond to rebellions while Muizz al-Din campaigned elsewhere.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1222,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Actor / mechanism | Named evidence | What it achieved | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Actor / mechanism",
+          "Named evidence",
+          "What it achieved",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 503.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1267,
+      "heading": "CLOSING RECALL FLOW - AIBAK AND OTHER COMMANDERS: CONQUEST, VASSALAGE, GARRISONS AND BOUNDED EASTERN EXPANSION",
+      "preview": "START / CONCEPT: Aibak and other commanders: conquest, vassalage, garrisons and bounded eastern expansion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1278,
+      "markdown_body_line_end": 1278,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CONTINGENCY: Elephants were not simply obsolete; their effectiveness depended on cavalry coordination, terrain, control and enemy tactics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 393.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 326.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1293,
+      "markdown_body_line_end": 1300,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Dimension | Ghaznavid/Ghurid strength | Rajput/Indian strength | Balanced conclusion",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Ghaznavid/Ghurid strength",
+          "Rajput/Indian strength",
+          "Balanced conclusion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 514.39
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1345,
+      "heading": "CLOSING RECALL FLOW - MILITARY SYSTEMS: CAVALRY, MOUNTED ARCHERY, RESERVES, FORTRESSES AND LOGISTICS",
+      "preview": "START / CONCEPT: Military systems: cavalry, mounted archery, reserves, fortresses and logistics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1356,
+      "markdown_body_line_end": 1356,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wrong: Military superiority alone explains wider rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 447.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 395.224
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1371,
+      "markdown_body_line_end": 1379,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Variable | Ghaznavid pattern | Ghurid pattern | Why it mattered",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Variable",
+          "Ghaznavid pattern",
+          "Ghurid pattern",
+          "Why it mattered"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 472.89
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1407,
+      "markdown_body_line_end": 1424,
+      "heading": "CLOSING RECALL FLOW - WHY THE GHURIDS ESTABLISHED WIDER GANGETIC RULE THAN THE GHAZNAVIDS",
+      "preview": "START / CONCEPT: Why the Ghurids established wider Gangetic rule than the Ghaznavids",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1435,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INTERPRETATION: The most immediate consequences were political-military and fiscal; deeper social and cultural changes emerged through settlement, service, trade, administration and intermarriage over longer periods.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 419.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 352.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1450,
+      "markdown_body_line_end": 1458,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Dimension | Consequence | Named evidence / mechanism | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "Consequence",
+          "Named evidence / mechanism",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 462.39
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1486,
+      "markdown_body_line_end": 1503,
+      "heading": "CLOSING RECALL FLOW - POLITICAL, SOCIAL, ECONOMIC AND CULTURAL CONSEQUENCES - WITH LIMITS",
+      "preview": "START / CONCEPT: Political, social, economic and cultural consequences - with limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1514,
+      "markdown_body_line_end": 1514,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "NATIONALIST LIMIT: Heroic resistance is real, but later bardic memory cannot replace near-contemporary evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 336.824
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1537,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Reading | Typical emphasis | Contribution | Risk / correction",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Reading",
+          "Typical emphasis",
+          "Contribution",
+          "Risk / correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 462.39
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1582,
+      "heading": "CLOSING RECALL FLOW - HISTORIOGRAPHY: COLONIAL, NATIONALIST, COMMUNAL AND NEWER READINGS",
+      "preview": "START / CONCEPT: Historiography: colonial, nationalist, communal and newer readings",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1593,
+      "markdown_body_line_end": 1593,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Route maps are schematic and should not pretend to show a single compulsory pass.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 447.691
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 395.224
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1608,
+      "markdown_body_line_end": 1630,
+      "heading": "Compact visual",
+      "preview": "ROUTE MAP (SCHEMATIC, NOT TO SCALE)",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1634,
+      "markdown_body_line_end": 1645,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Term | Exam-safe meaning | Trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Term",
+          "Exam-safe meaning",
+          "Trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 544.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 206.89
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1679,
+      "markdown_body_line_end": 1696,
+      "heading": "CLOSING RECALL FLOW - TERMINOLOGY, ROUTE MAP, CHRONOLOGY LADDER AND MEMORY HOOKS",
+      "preview": "START / CONCEPT: Terminology, route map, chronology ladder and memory hooks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 536.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 345.491
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1707,
+      "markdown_body_line_end": 1707,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This heritage linkage does not establish campaign chronology, motives or territorial control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 224.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 172.224
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1726,
+      "markdown_body_line_end": 1743,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 156
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 652.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 441.691
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2962,
+      "markdown_body_line_end": 2965,
+      "heading": "The Ghaznavids & the Ghurian Invasions - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part I (Delhi Sultanat, 1206–1526)* — ch",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 668.024
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2971,
+      "markdown_body_line_end": 2983,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 640.524
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 382.722
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3011,
+      "heading": "2. Key classification / data",
+      "preview": "Analytical issue | ✅ Satish Chandra's emphasis | Exam conclusion",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Analytical issue",
+          "✅ Satish Chandra's emphasis",
+          "Exam conclusion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 633.49
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3015,
+      "markdown_body_line_end": 3016,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Structural background → `advanced/01_India-on-the-Eve-of-Medieval-Age.md`. **Study link:** ⚠️ Aibak and Iltutmish consolidation → `advanced/03_Slave-Mamluk-Dynasty.md`; chronology spine → `00_Master-Chronology.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 608.49
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 549.622
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3029,
+      "markdown_body_line_end": 3029,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: UPSC can ask \"causes of Rajput defeat\" as an organisational question, not as a moral judgement on courage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 382.222
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 337.554
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3054,
+      "markdown_body_line_end": 3054,
+      "heading": "PART V - COMPLETE CONSOLIDATED REGISTER NOTES (LAST)",
+      "preview": "FINAL SECTION: topic-specific compressed revision notes. No teaching or practice follows.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 628.091
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 575.624
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3234,
+      "markdown_body_line_end": 3242,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three phases that must remain separate",
+      "preview": "GHAZNAVID PHASE             GHURID PHASE              DELHI SULTANATE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 427.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 344.891
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3246,
+      "markdown_body_line_end": 3253,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Campaign chronology",
+      "preview": "963 -> Alp-tigin at Ghazni | 977 -> Sabuktigin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 322.891
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 250.691
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3257,
+      "markdown_body_line_end": 3264,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Source criticism matrix",
+      "preview": "AL-UTBI -> Ghaznavid court claims | panegyric; ends before Somnath",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3268,
+      "markdown_body_line_end": 3277,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: From Samanid service to Ghaznavid rule",
+      "preview": "SAMANID PERSIANATE COURT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3281,
+      "markdown_body_line_end": 3287,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Hindu Shahi resistance and frontier breach",
+      "preview": "KABUL / JALALABAD -> PESHAWAR -> SALT RANGE -> PUNJAB",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3291,
+      "markdown_body_line_end": 3297,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Mahmud's campaigns: reach and limits",
+      "preview": "DURABLE BASE -> Ghazni + Punjab / Lahore",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3301,
+      "markdown_body_line_end": 3308,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Mahmud's motives as a matrix",
+      "preview": "FISCAL -> movable wealth and military finance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 338.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3312,
+      "markdown_body_line_end": 3318,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Somnath and al-Biruni: event versus evidence",
+      "preview": "SOMNATH EVENT -> later textual layers, memory and political reuse",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 316.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 254.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3322,
+      "markdown_body_line_end": 3329,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Ghaznavid and Ghurid projects compared",
+      "preview": "GHAZNAVIDS                        GHURIDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3333,
+      "markdown_body_line_end": 3341,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Tarain I and II",
+      "preview": "1191 TARAIN I                    1192 TARAIN II",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3345,
+      "markdown_body_line_end": 3355,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Battlefield victory to consolidation",
+      "preview": "VICTORY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 485.891
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3359,
+      "markdown_body_line_end": 3367,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 02 answer spine",
+      "preview": "OPEN -> distinguish Ghaznavid raid-base pattern from Ghurid advance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 463.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 381.491
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    }
+  ]
+}

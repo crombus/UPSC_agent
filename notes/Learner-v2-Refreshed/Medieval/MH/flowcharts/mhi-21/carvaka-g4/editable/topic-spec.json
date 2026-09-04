@@ -1,0 +1,1221 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-21",
+  "subject": "Medieval-Indian-History",
+  "title": "SHAH JAHAN & THE EVOLUTION OF THE MUGHAL RULING CLASS",
+  "short_route": "VISIBLE APEX AND MANAGED → SHAH JAHAN CHRONOLOGY, 1628-58 → THE RULING CLASS AS → RECRUITMENT, REPRODUCTION AND FACTION → MANSABDARI EVOLUTION AND VERIFICATION → JAGIR VOCABULARY: CLAIM IS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-21-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "863e62bdcd96cdac74a740f742329335f7caf4ce0112f57d942005d68ef0321f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "VISIBLE APEX AND MANAGED STRAIN",
+      "structural_type": "balance-sheet",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "VISIBLE APEX AND MANAGED STRAIN",
+          "role": "primary"
+        },
+        {
+          "text": "VISIBLE CAPACITY AND MAGNIFICENCE ALONGSIDE MANAGED FISCAL STRAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLE GOLDEN AGE",
+          "role": "comparison"
+        },
+        {
+          "text": "INEVITABLE COLLAPSE ALREADY UNDERWAY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONQUEST, SERVICE, RANK, REVENUE AND CEREMONY REMAIN EFFECTIVE",
+          "role": "primary"
+        },
+        {
+          "text": "ELITE CLAIMS GROW FASTER THAN REALISED RESOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "SALARY CUTS + MUSTER RATIOS + MONTH-SCALE + WIDER",
+          "role": "comparison"
+        },
+        {
+          "text": "TOPIC 23 ACUTE CRISIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FRAME → visible capacity and magnificence alongside managed fiscal strain",
+        "NOT → simple golden age",
+        "NOT → inevitable collapse already underway",
+        "STATE → conquest, service, rank, revenue and ceremony remain effective",
+        "PRESSURE → elite claims grow faster than realised resources"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FRAME → visible capacity and magnificence alongside managed fiscal strain",
+            "NOT → simple golden age",
+            "NOT → inevitable collapse already underway",
+            "STATE → conquest, service, rank, revenue and ceremony remain effective"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PRESSURE → elite claims grow faster than realised resources",
+            "ADAPT → salary cuts + muster ratios + month-scale + wider recruitment",
+            "BOUND → Topic 23 acute crisis",
+            "Topic 25 post-1707 decline"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → adaptation preserved capacity while redistributing pressure.",
+            "MUST REMEMBER: Shah Jahan (1628-58) governed through a changing mansab-jagir elite whose composition and costs require analysis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → adaptation preserved capacity while redistributing pressure.",
+      "source_references": [
+        "Golden age",
+        "Managed strain",
+        "Month-scale",
+        "State capacity",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SHAH JAHAN CHRONOLOGY, 1628-58",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SHAH JAHAN CHRONOLOGY, 1628-58",
+          "role": "primary"
+        },
+        {
+          "text": "JAHANGIR DIES/SUCCESSION TRANSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMAL ENTHRONEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "BUNDELA AND KHAN JAHAN LODI CHALLENGES",
+          "role": "evidence"
+        },
+        {
+          "text": "DECCAN OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "PEACOCK THRONE",
+          "role": "outcome"
+        },
+        {
+          "text": "CHITTOR/MEWAR TENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "LATE DECCAN PRESSURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1627 → Jahangir dies/succession transition",
+        "1628 → formal enthronement",
+        "1628-31 → Bundela and Khan Jahan Lodi challenges",
+        "1632 → Hugli",
+        "1633/36 → Deccan outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1627 → Jahangir dies/succession transition",
+            "1628 → formal enthronement",
+            "1628-31 → Bundela and Khan Jahan Lodi challenges",
+            "1632 → Hugli",
+            "1633/36 → Deccan outcome"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1635 → Peacock Throne",
+            "1638 → Shahjahanabad",
+            "1646-47 → Balkh",
+            "1649-53 → Qandahar",
+            "1654 → Chittor/Mewar tension"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1656-57 → late Deccan pressure",
+            "1657-58 → illness, succession war, confinement",
+            "DATE TRAP → Mumtaz standard 1631; one assigned OCR narrative prints 1630."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DATE TRAP → Mumtaz standard 1631; one assigned OCR narrative prints 1630.",
+      "source_references": [
+        "Shah Jahan",
+        "Deccan",
+        "Shahjahanabad",
+        "Balkh",
+        "Succession",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE RULING CLASS AS A COMPOSITE SERVICE ELITE",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE RULING CLASS AS A COMPOSITE SERVICE ELITE",
+          "role": "primary"
+        },
+        {
+          "text": "MANSAB + OFFICE + JAGIR + COURT ACCESS +",
+          "role": "institution"
+        },
+        {
+          "text": "500 ZAT+",
+          "role": "comparison"
+        },
+        {
+          "text": "123 IN 1595",
+          "role": "evidence"
+        },
+        {
+          "text": "242 IN 1621",
+          "role": "primary"
+        },
+        {
+          "text": "443 IN 1647-48",
+          "role": "outcome"
+        },
+        {
+          "text": "518 IN 1656",
+          "role": "comparison"
+        },
+        {
+          "text": "ABSOLUTE GROWTH; COMBINED SHARE 62.6%",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORM → mansab + office + jagir + court access + service + patronage",
+        "500 ZAT+ → 123 in 1595",
+        "242 in 1621",
+        "443 in 1647-48",
+        "518 in 1656"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FORM → mansab + office + jagir + court access + service + patronage",
+            "500 ZAT+ → 123 in 1595",
+            "242 in 1621",
+            "443 in 1647-48"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "518 in 1656",
+            "IRANI-TURANI → absolute growth; combined share 62.6% → 52.12%",
+            "GROWTH → Afghans + Indian Muslims + Rajputs + early Marathas",
+            "ADMIN → Khatri + Kayastha + some Brahman service routes"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TRAP → immigrant Iranis/Turanis were not foreign state agents",
+            "RULE → social category does not prove a fixed political faction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → social category does not prove a fixed political faction.",
+      "source_references": [
+        "Mansabdar",
+        "Composite nobility",
+        "Rajputs",
+        "Deccanis",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RECRUITMENT, REPRODUCTION AND FACTION",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RECRUITMENT, REPRODUCTION AND FACTION",
+          "role": "primary"
+        },
+        {
+          "text": "MIGRATION + REGIONAL INCORPORATION + DEMONSTRATED COMPETENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "KINSHIP AND PATRONAGE HELP, BUT MANSAB REMAINS TRANSFERABLE SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONG CENTRAL-OFFICE PRESENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SADULLAH KHAN",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN MUSLIM WAZIR",
+          "role": "outcome"
+        },
+        {
+          "text": "CAMPAIGN COMMANDS PERSIST; FEW GOVERNORSHIPS DO NOT MEAN EXCLUSION",
+          "role": "caution"
+        },
+        {
+          "text": "HABSHI/DECCANI/MARATHA RECRUITMENT; STABLE ALLIANCE REMAINS INCOMPLETE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RECRUIT → migration + regional incorporation + demonstrated competence",
+        "REPRODUCE → kinship and patronage help, but mansab remains transferable service",
+        "IRANIS → strong central-office presence",
+        "SADULLAH KHAN → Indian Muslim wazir",
+        "RAJPUTS → campaign commands persist; few governorships do not mean exclusion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RECRUIT → migration + regional incorporation + demonstrated competence",
+            "REPRODUCE → kinship and patronage help, but mansab remains transferable service",
+            "IRANIS → strong central-office presence"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SADULLAH KHAN → Indian Muslim wazir",
+            "RAJPUTS → campaign commands persist; few governorships do not mean exclusion",
+            "DECCAN → Habshi/Deccani/Maratha recruitment; stable alliance remains incomplete"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FACTION → person + patron + marriage + region + interest + survival",
+            "NOT → Hindu/Muslim or Irani/Turani camps mechanically determine politics."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT → Hindu/Muslim or Irani/Turani camps mechanically determine politics.",
+      "source_references": [
+        "Recruitment",
+        "Patronage",
+        "Non-heredity",
+        "Faction",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MANSABDARI EVOLUTION AND VERIFICATION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MANSABDARI EVOLUTION AND VERIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS/PAY GRADE",
+          "role": "outcome"
+        },
+        {
+          "text": "CAVALRY OBLIGATION/PAY CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "HORSE BRANDING",
+          "role": "evidence"
+        },
+        {
+          "text": "DESCRIPTIVE TROOP ROLL",
+          "role": "primary"
+        },
+        {
+          "text": "DU-ASPA SIH-ASPA",
+          "role": "outcome"
+        },
+        {
+          "text": "DOUBLE SPECIFIED SAWAR COMPONENT, NEVER ZAT",
+          "role": "comparison"
+        },
+        {
+          "text": "ORDINARY NON-DOUBLED PORTION IN THE WORKED RANK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ZAT → status/pay grade",
+        "SAWAR → cavalry obligation/pay claim",
+        "DAGH → horse branding",
+        "CHEHRA → descriptive troop roll",
+        "DU-ASPA SIH-ASPA → double specified sawar component, never zat"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "ZAT → status/pay grade",
+            "SAWAR → cavalry obligation/pay claim",
+            "DAGH → horse branding"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "CHEHRA → descriptive troop roll",
+            "DU-ASPA SIH-ASPA → double specified sawar component, never zat",
+            "BARAWARDI → ordinary non-doubled portion in the worked rank"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTRACT RATE → paid to mansabdar; not uniform direct trooper wage",
+            "EVASION → records/musters constrain fraud but do not eliminate it",
+            "ORIGIN → Akbar foundation + Jahangir device + Shah Jahan systematisation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ORIGIN → Akbar foundation + Jahangir device + Shah Jahan systematisation.",
+      "source_references": [
+        "Zat",
+        "Sawar",
+        "Dagh",
+        "Chehra",
+        "Du-aspa sih-aspa",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "JAGIR VOCABULARY: CLAIM IS NOT OWNERSHIP",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JAGIR VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "CLAIM IS NOT OWNERSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "TRANSFERABLE ASSIGNMENT TO COLLECT A REVENUE CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIVATE OWNERSHIP OF VILLAGE SOIL OR HEREDITARY TERRITORIAL SOVEREIGNTY",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSESSED PAPER REVENUE",
+          "role": "primary"
+        },
+        {
+          "text": "REALISED COLLECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE RETAINED FOR IMPERIAL ESTABLISHMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "JAGIR LOCATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JAGIR → transferable assignment to collect a revenue claim",
+        "NOT → private ownership of village soil or hereditary territorial sovereignty",
+        "JAMA → assessed paper revenue",
+        "HASIL → realised collection",
+        "KHALISA → revenue retained for imperial establishment"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "JAGIR → transferable assignment to collect a revenue claim",
+          "HASIL → realised collection",
+          "TRANSFER → prevents simple territorial entrenchment but creates insecurity"
+        ],
+        [
+          "NOT → private ownership of village soil or hereditary territorial sovereignty",
+          "KHALISA → revenue retained for imperial establishment",
+          "ANSWER RULE → define claim, realisation, assignment and service separately."
+        ],
+        [
+          "JAMA → assessed paper revenue",
+          "JAGIR LOCATION → shapes service, collection cost and effective muster",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "JAGIR → transferable assignment to collect a revenue claim",
+            "NOT → private ownership of village soil or hereditary territorial sovereignty",
+            "JAMA → assessed paper revenue"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HASIL → realised collection",
+            "KHALISA → revenue retained for imperial establishment",
+            "JAGIR LOCATION → shapes service, collection cost and effective muster"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TRANSFER → prevents simple territorial entrenchment but creates insecurity",
+            "ANSWER RULE → define claim, realisation, assignment and service separately."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER RULE → define claim, realisation, assignment and service separately.",
+      "source_references": [
+        "Jagir",
+        "Jagirdar",
+        "Zamindar",
+        "Jama",
+        "Hasil",
+        "Khalisa",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HOW THE MONTH-SCALE WORKED",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOW THE MONTH-SCALE WORKED",
+          "role": "primary"
+        },
+        {
+          "text": "4; DECCAN COULD BE 3-4",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPECTED HASIL AS A FRACTION OF PAPER JAMA",
+          "role": "comparison"
+        },
+        {
+          "text": "ZAT PAY + SAWAR PAY + REMOUNT REQUIREMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SAWAR EXAMPLE",
+          "role": "primary"
+        },
+        {
+          "text": "RS 40 AT 12",
+          "role": "outcome"
+        },
+        {
+          "text": "RS 30 AT 8",
+          "role": "comparison"
+        },
+        {
+          "text": "RS 25 AT 6",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCALE → 12-month",
+        "4; Deccan could be 3-4",
+        "MEANING → expected hasil as a fraction of paper jama",
+        "APPLIES → zat pay + sawar pay + remount requirement",
+        "SAWAR EXAMPLE → Rs 40 at 12"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SCALE → 12-month",
+            "4; Deccan could be 3-4",
+            "MEANING → expected hasil as a fraction of paper jama",
+            "APPLIES → zat pay + sawar pay + remount requirement"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SAWAR EXAMPLE → Rs 40 at 12",
+            "Rs 30 at 8",
+            "Rs 25 at 6",
+            "NOT PROPORTIONAL → remount numbers also fall with the scale"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FUNCTION → align rank claims with imperfect jagir yield",
+            "TRAP → adjustment/reduction, never a bonus."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FUNCTION → align rank claims with imperfect jagir yield.",
+      "source_references": [
+        "Month-scale",
+        "Jama",
+        "Hasil",
+        "Salary",
+        "Sawar",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FROM PAPER RANK TO EFFECTIVE FORCE",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "FROM PAPER RANK TO EFFECTIVE FORCE",
+          "role": "primary"
+        },
+        {
+          "text": "SAME PROVINCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUGHLY ONE-THIRD OF NOMINAL SAWAR MUSTERED",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTSIDE PROVINCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ROUGHLY ONE-FOURTH",
+          "role": "primary"
+        },
+        {
+          "text": "REMOTE BALKH/DECCAN",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE-FIFTH COULD APPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "WORKED 2000/2000",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAME PROVINCE → roughly one-third of nominal sawar mustered",
+        "OUTSIDE PROVINCE → roughly one-fourth",
+        "REMOTE BALKH/DECCAN → one-fifth could apply",
+        "WORKED 2000/2000 → 1000 du-aspa + outside jagir = 250 + 500 = 750",
+        "NOMINAL RANK → status and claim remain larger than field contingent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SAME PROVINCE → roughly one-third of nominal sawar mustered",
+            "OUTSIDE PROVINCE → roughly one-fourth",
+            "REMOTE BALKH/DECCAN → one-fifth could apply"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "WORKED 2000/2000 → 1000 du-aspa + outside jagir = 250 + 500 = 750",
+            "NOMINAL RANK → status and claim remain larger than field contingent",
+            "PEACE EFFECT → reduced force less visible in stable North India"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LATER RISK → thin contingents become serious in prolonged Deccan disorder."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATER RISK → thin contingents become serious in prolonged Deccan disorder.",
+      "source_references": [
+        "Mansab inflation",
+        "Jagir",
+        "Hasil",
+        "Remounts",
+        "Managed strain",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EXPANSION CREATES RESOURCES AND CLAIMANTS",
+      "structural_type": "balance-sheet",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EXPANSION CREATES RESOURCES AND CLAIMANTS",
+          "role": "primary"
+        },
+        {
+          "text": "516.251 CRORE DAMS/100 IN 1595-96",
+          "role": "outcome"
+        },
+        {
+          "text": "912/176 IN 1656-57",
+          "role": "comparison"
+        },
+        {
+          "text": "500-ZAT+ MANSABDARS RISE 123",
+          "role": "evidence"
+        },
+        {
+          "text": "518, ABOUT 4.2 TIMES",
+          "role": "primary"
+        },
+        {
+          "text": "ADDS REVENUE ASSIGNMENTS AND COMMANDERS, CLIENTS AND GARRISONS",
+          "role": "outcome"
+        },
+        {
+          "text": "INFLATED JAMA + WEAK HASIL + SUBSIDY NEEDS",
+          "role": "comparison"
+        },
+        {
+          "text": "RANK/SALARY/SERVICE CLAIMS OUTRUN PRODUCTIVE JAGIR SUPPLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JAMA → 516.251 crore dams/100 in 1595-96 → 912/176 in 1656-57",
+        "ELITE → 500-zat+ mansabdars rise 123 → 518, about 4.2 times",
+        "EXPANSION → adds revenue assignments AND commanders, clients and garrisons",
+        "DECCAN → inflated jama + weak hasil + subsidy needs",
+        "GAP → rank/salary/service claims outrun productive jagir supply"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "JAMA → 516.251 crore dams/100 in 1595-96 → 912/176 in 1656-57",
+            "ELITE → 500-zat+ mansabdars rise 123 → 518, about 4.2 times",
+            "EXPANSION → adds revenue assignments AND commanders, clients and garrisons"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "DECCAN → inflated jama + weak hasil + subsidy needs",
+            "GAP → rank/salary/service claims outrun productive jagir supply",
+            "ADAPT → cuts + ratios + month-scale preserve operation"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "LIMIT → early manifestation, not yet the mature jagirdari crisis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → early manifestation, not yet the mature jagirdari crisis.",
+      "source_references": [
+        "Deccan",
+        "Balkh",
+        "Qandahar",
+        "Expansion paradox",
+        "Logistics",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GRANDEUR AS POLITICAL ECONOMY",
+      "structural_type": "two-sided-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GRANDEUR AS POLITICAL ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "PEACOCK THRONE + TAJ + RED FORT + JAMA",
+          "role": "outcome"
+        },
+        {
+          "text": "HIERARCHY + DYNASTIC MEMORY + PARADISE/ORDER + COURT CONCENTRATION",
+          "role": "institution"
+        },
+        {
+          "text": "PATRONAGE AND SPECIALISED PRODUCTION, NOT DECORATION ALONE",
+          "role": "caution"
+        },
+        {
+          "text": "CONSTRUCTION SIGNIFICANT WITHIN KHALISA EXPENDITURE",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE DOES NOT FIND A CRIPPLING DRAIN ON IMPERIAL/MILITARY",
+          "role": "caution"
+        },
+        {
+          "text": "TOPIC 24 OWNS COMPLETE ARCHITECTURE/ECONOMY SURVEY",
+          "role": "comparison"
+        },
+        {
+          "text": "MONUMENTS CANNOT BE DECLARED THE SINGLE CAUSE OF FISCAL",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "FORMS → Peacock Throne + Taj + Red Fort + Jama Masjid + Shahjahanabad",
+        "PURPOSE → hierarchy + dynastic memory + paradise/order + court concentration",
+        "LABOUR/MATERIAL → patronage and specialised production, not decoration alone",
+        "MOOSVI → construction significant within khalisa expenditure",
+        "LIMIT → source does not find a crippling drain on imperial/military finance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FORMS → Peacock Throne + Taj + Red Fort + Jama Masjid + Shahjahanabad",
+            "PURPOSE → hierarchy + dynastic memory + paradise/order + court concentration",
+            "LABOUR/MATERIAL → patronage and specialised production, not decoration alone"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MOOSVI → construction significant within khalisa expenditure",
+            "LIMIT → source does not find a crippling drain on imperial/military finance",
+            "BOUNDARY → Topic 24 owns complete architecture/economy survey"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TRAP → monuments cannot be declared the single cause of fiscal strain.",
+            "CLOSE DISTINCTION: Architecture, including the Taj Mahal, is evidence of patronage and resources but not a substitute for ruling-class study."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → monuments cannot be declared the single cause of fiscal strain.",
+      "source_references": [
+        "Taj Mahal",
+        "Red Fort",
+        "Jama Masjid",
+        "Shahjahanabad",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SUCCESSION AS A RULING-CLASS STRESS TEST",
+      "structural_type": "actor-network",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SUCCESSION AS A RULING-CLASS STRESS TEST",
+          "role": "primary"
+        },
+        {
+          "text": "1657 ILLNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "RUMOUR CONVERTS FOUR PROVINCIAL-PRINCELY BASES INTO ARMIES",
+          "role": "comparison"
+        },
+        {
+          "text": "DESIGNATION AND EXTRAORDINARY RANK; FAVOUR DOES NOT CREATE PRIMOGENITURE",
+          "role": "caution"
+        },
+        {
+          "text": "CONTINGENT ALLIANCE",
+          "role": "primary"
+        },
+        {
+          "text": "ALIGN THROUGH SERVICE TIES, INTEREST, CALCULATION AND SURVIVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "DHARMAT + SAMUGARH",
+          "role": "comparison"
+        },
+        {
+          "text": "MILITARY OUTCOMES DECIDE ACCESS TO THRONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1657 ILLNESS → rumour converts four provincial-princely bases into armies",
+        "DARA → designation and extraordinary rank; favour does not create primogeniture",
+        "SHUJA/MURAD → self-coronation",
+        "AURANGZEB-MURAD → contingent alliance",
+        "NOBLES/RAJPUTS → align through service ties, interest, calculation and survival"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1657 ILLNESS → rumour converts four provincial-princely bases into armies",
+            "DARA → designation and extraordinary rank; favour does not create primogeniture",
+            "SHUJA/MURAD → self-coronation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AURANGZEB-MURAD → contingent alliance",
+            "NOBLES/RAJPUTS → align through service ties, interest, calculation and survival",
+            "DHARMAT + SAMUGARH → military outcomes decide access to throne"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RELIGION → rhetoric/outlook matter; not a liberal-orthodox plebiscite",
+            "ENDPOINT → Aurangzeb prevails, Shah Jahan confined; Topic 22 begins.",
+            "EVIDENCE LIMIT: The 1657 succession crisis arose within dynastic and fiscal structures; it was not governed by primogeniture."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: The 1657 succession crisis arose within dynastic and fiscal structures; it was not governed by primogeniture.",
+      "source_references": [
+        "Dara Shukoh",
+        "Shah Shuja",
+        "Aurangzeb",
+        "Murad Bakhsh",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 21 FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 21 FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "COMPOSITE RANKED SERVICE ELITE + MANSAB-JAGIR FISCAL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "1628 CONSOLIDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTERNAL LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "1657 STRESS",
+          "role": "primary"
+        },
+        {
+          "text": "ELITE 123 TO 518",
+          "role": "outcome"
+        },
+        {
+          "text": "JAMA INDEX 100 TO 176",
+          "role": "comparison"
+        },
+        {
+          "text": "SALARY CUTS + DU-ASPA + MUSTER FRACTIONS + MONTH-SCALE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → composite ranked service elite + mansab-jagir fiscal mechanism",
+        "TRACE → 1628 consolidation → magnificence → external limits → 1657 stress",
+        "DATA → elite 123 to 518",
+        "jama index 100 to 176",
+        "MECHANISM → salary cuts + du-aspa + muster fractions + month-scale"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DEFINE → composite ranked service elite + mansab-jagir fiscal mechanism",
+            "TRACE → 1628 consolidation → magnificence → external limits → 1657 stress",
+            "DATA → elite 123 to 518",
+            "jama index 100 to 176"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MECHANISM → salary cuts + du-aspa + muster fractions + month-scale",
+            "QUALIFY → architecture significant, not fiscally ruinous by itself",
+            "PYQ → zero direct Topic-21 CSE routes, 2018-2026; Mains has no key",
+            "BOUND → Topics 18/19 campaigns"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "23 crisis",
+            "24 culture",
+            "25 decline",
+            "VERDICT → apex capacity coexisted with adaptive structural pressure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → apex capacity coexisted with adaptive structural pressure.",
+      "source_references": [
+        "Answer architecture",
+        "Ruling class",
+        "Fiscal mechanism",
+        "Verdict",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\21_Shah-Jahan-and-Mansabdari-Evolution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g3\\medieval-indian-history-21_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART XII - DEEPENING WORKSHOPS",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARISON, DATA AND CAUSAL CHAINS",
+          "role": "comparison"
+        },
+        {
+          "text": "12. COMPARATIVE WORKSHOP",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT CHANGES ACROSS AKBAR, JAHANGIR AND SHAH JAHAN",
+          "role": "primary"
+        },
+        {
+          "text": "13. NUMERICAL AND TERMINOLOGICAL AUDIT",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW NOT TO OVERSTATE THE EVIDENCE",
+          "role": "caution"
+        },
+        {
+          "text": "14. FROM ASSIGNMENT TO EFFECTIVE FORCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "PART XII - DEEPENING WORKSHOPS: COMPARISON, DATA AND CAUSAL CHAINS",
+            "12. Comparative workshop: what changes across Akbar, Jahangir and Shah Jahan",
+            "13. Numerical and terminological audit: how not to overstate the evidence",
+            "14. From assignment to effective force: a fiscal-military causal chain"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "15. Court, city and countryside: a perspective discipline",
+            "16. Succession as an institutional audit of the ruling class",
+            "17. Evidence-integration drill: building a high-scoring answer without false precision",
+            "Shah Jahan & the Evolution of the Mughal Ruling Class — ADVANCED"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1184 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-23",
+  "subject": "Medieval-Indian-History",
+  "title": "THE MARATHAS, SHIVAJI & AURANGZEB'S DECCAN; JAGIRDARI CRISIS",
+  "short_route": "WESTERN DECCAN: TERRAIN BECOMES → CHRONOLOGY FROM THE 1640S → PURANDAR, AGRA AND RECOVERY → CORONATION AND THE LANGUAGE → ASHTAPRADHAN: EIGHT OFFICES, NOT → CHAUTH AND SARDESHMUKHI ARE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-23-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "8c001e8e8b92281d4af1e880aacae776d4543435ee5e10f9d59f56aef1143f0f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WESTERN DECCAN: TERRAIN BECOMES A FORT NETWORK",
+      "structural_type": "spatial-system",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WESTERN DECCAN",
+          "role": "primary"
+        },
+        {
+          "text": "TERRAIN BECOMES A FORT NETWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "SAHYADRI PASSES + MAVAL INFANTRY + KONKAN CREEKS +",
+          "role": "comparison"
+        },
+        {
+          "text": "AHMADNAGAR/BIJAPUR/MUGHAL COMPETITION OPENS POLITICAL SPACE",
+          "role": "evidence"
+        },
+        {
+          "text": "MOBILE SERVICE AND POONA BASE; NOT A CONTINUOUS NATIONAL",
+          "role": "caution"
+        },
+        {
+          "text": "FORT SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "STORE + REFUGE + PASS + GARRISON + TREASURY",
+          "role": "comparison"
+        },
+        {
+          "text": "REVENUE + WATER + REPAIR + INTELLIGENCE + LOCAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INPUT → Sahyadri passes + Maval infantry + Konkan creeks + agrarian bases",
+        "SERVICE → Ahmadnagar/Bijapur/Mughal competition opens political space",
+        "SHAHJI → mobile service and Poona base; not a continuous national programme",
+        "FORT SYSTEM → store + refuge + pass + garrison + treasury + bargaining",
+        "REQUIRE → revenue + water + repair + intelligence + local cooperation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INPUT → Sahyadri passes + Maval infantry + Konkan creeks + agrarian bases",
+            "SERVICE → Ahmadnagar/Bijapur/Mughal competition opens political space",
+            "SHAHJI → mobile service and Poona base; not a continuous national programme"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FORT SYSTEM → store + refuge + pass + garrison + treasury + bargaining",
+            "REQUIRE → revenue + water + repair + intelligence + local cooperation",
+            "VERDICT → organisation converts terrain into power; geography alone cannot."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MUST REMEMBER: Shivaji's coronation (1674), fort network, revenue claims and military mobility formed a negotiated regional polity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → organisation converts terrain into power; geography alone cannot.",
+      "source_references": [
+        "Western Deccan",
+        "Maval",
+        "Konkan",
+        "Fort network",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CHRONOLOGY FROM THE 1640S TO 1707",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHRONOLOGY FROM THE 1640S TO 1707",
+          "role": "primary"
+        },
+        {
+          "text": "1640S FORTS",
+          "role": "outcome"
+        },
+        {
+          "text": "1656 JAVLI",
+          "role": "comparison"
+        },
+        {
+          "text": "1659 AFZAL KHAN",
+          "role": "evidence"
+        },
+        {
+          "text": "1663 SHAISTA KHAN",
+          "role": "primary"
+        },
+        {
+          "text": "1664 SURAT",
+          "role": "outcome"
+        },
+        {
+          "text": "1665 PURANDAR",
+          "role": "comparison"
+        },
+        {
+          "text": "1666 AGRA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1640s forts → 1656 Javli → 1659 Afzal Khan → 1663 Shaista Khan",
+        "1664 Surat → 1665 Purandar → 1666 Agra → 1670 recovery",
+        "1674 coronation → 1676-79 Karnataka/revenue → 1680 death",
+        "1681 Aurangzeb south → 1686 Bijapur → 1687 Golconda",
+        "1689 Sambhaji → Rajaram/Gingee → 1700 Tarabai"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1640s forts → 1656 Javli → 1659 Afzal Khan → 1663 Shaista Khan",
+            "1664 Surat → 1665 Purandar → 1666 Agra → 1670 recovery"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1674 coronation → 1676-79 Karnataka/revenue → 1680 death",
+            "1681 Aurangzeb south → 1686 Bijapur → 1687 Golconda"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1689 Sambhaji → Rajaram/Gingee → 1700 Tarabai",
+            "1700-05 siege cycle → 1707 unresolved imperial exit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1700-05 siege cycle → 1707 unresolved imperial exit.",
+      "source_references": [
+        "1640s-1707",
+        "Javli",
+        "Purandar",
+        "Raigad",
+        "Tarabai",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PURANDAR, AGRA AND RECOVERY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PURANDAR, AGRA AND RECOVERY",
+          "role": "primary"
+        },
+        {
+          "text": "JAI SINGH",
+          "role": "outcome"
+        },
+        {
+          "text": "SIEGE + DIPLOMACY + PROPOSED MUGHAL-SHIVAJI DECCAN PARTNERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "23 FORTS SURRENDERED",
+          "role": "evidence"
+        },
+        {
+          "text": "12 RETAINED",
+          "role": "primary"
+        },
+        {
+          "text": "SAMBHAJI MANSAB 5000",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBORDINATE ALLIANCE, NOT ERASED SOVEREIGNTY OR FINAL PEACE",
+          "role": "caution"
+        },
+        {
+          "text": "1666 AGRA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JAI SINGH → siege + diplomacy + proposed Mughal-Shivaji Deccan partnership",
+        "1665 → 23 forts surrendered",
+        "12 retained",
+        "Sambhaji mansab 5000",
+        "FORM → subordinate alliance, not erased sovereignty or final peace"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "JAI SINGH → siege + diplomacy + proposed Mughal-Shivaji Deccan partnership",
+            "1665 → 23 forts surrendered",
+            "12 retained"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Sambhaji mansab 5000",
+            "FORM → subordinate alliance, not erased sovereignty or final peace",
+            "1666 AGRA → rank/placement/detention produce honour and trust rupture"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ESCAPE → conflict resumes",
+            "1670 → forts and Surat recovered/raided",
+            "MISSED SETTLEMENT → possible political choice, never guaranteed outcome."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MISSED SETTLEMENT → possible political choice, never guaranteed outcome.",
+      "source_references": [
+        "Treaty of Purandar",
+        "Agra 1666",
+        "Recovery after 1670",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CORONATION AND THE LANGUAGE OF SOVEREIGNTY",
+      "structural_type": "legitimacy-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CORONATION AND THE LANGUAGE OF SOVEREIGNTY",
+          "role": "primary"
+        },
+        {
+          "text": "1674 RAIGAD",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEPENDENT ROYAL RITE AND PUBLIC STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "GAGA BHATTA",
+          "role": "evidence"
+        },
+        {
+          "text": "KSHATRIYA VALIDATION AMID CONTESTED SOCIAL RANK",
+          "role": "primary"
+        },
+        {
+          "text": "RISE ABOVE MARATHA CHIEFS + TREATY EQUALITY + DYNASTIC",
+          "role": "outcome"
+        },
+        {
+          "text": "SANSKRITIC/HINDU KINGSHIP AND REGIONAL POLITICAL IDENTITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DECCANI-PERSIANATE INSTITUTIONS AND MIXED SERVICE CONTINUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1674 RAIGAD → independent royal rite and public status",
+        "GAGA BHATTA → Kshatriya validation amid contested social rank",
+        "PURPOSE → rise above Maratha chiefs + treaty equality + dynastic legitimacy",
+        "IDIOM → Sanskritic/Hindu kingship and regional political identity",
+        "BORROWING → Deccani-Persianate institutions and mixed service continue"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1674 RAIGAD → independent royal rite and public status",
+            "GAGA BHATTA → Kshatriya validation amid contested social rank"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE → rise above Maratha chiefs + treaty equality + dynastic legitimacy",
+            "IDIOM → Sanskritic/Hindu kingship and regional political identity"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BORROWING → Deccani-Persianate institutions and mixed service continue",
+            "TRAP → sovereignty claim is not modern communal nationalism."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → sovereignty claim is not modern communal nationalism.",
+      "source_references": [
+        "Raigad 1674",
+        "Chhatrapati",
+        "Gaga Bhatta",
+        "Kshatriya debate",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ASHTAPRADHAN: EIGHT OFFICES, NOT A CABINET",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EIGHT OFFICES, NOT A CABINET",
+          "role": "caution"
+        },
+        {
+          "text": "ADMINISTRATION, ACCOUNTS, RECORDS, INTELLIGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "DIPLOMACY, ARMY, JUSTICE, GRANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "EACH RESPONSIBLE TO SHIVAJI; NO COLLECTIVE CABINET SOVEREIGNTY",
+          "role": "caution"
+        },
+        {
+          "text": "PATIL/DESHMUKH/MIRASDAR/VILLAGE STRUCTURES REMAIN NEGOTIATED",
+          "role": "primary"
+        },
+        {
+          "text": "CURB ILLEGAL EXACTION AND OVER-MIGHTY CHIEFS, NOT ABOLISH ALL",
+          "role": "caution"
+        },
+        {
+          "text": "SOURCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "FORMAL OFFICE LIST DOES NOT PROVE UNIFORM DAILY FUNCTIONING.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PESHWA/AMATYA/SACHIV/MANTRI → administration, accounts, records, intelligence",
+        "SUMANT/SENAPATI/NYAYADHISH/PANDITRAO → diplomacy, army, justice, grants",
+        "RELATION → each responsible to Shivaji; no collective cabinet sovereignty",
+        "LOCAL → patil/deshmukh/mirasdar/village structures remain negotiated",
+        "REFORM → curb illegal exaction and over-mighty chiefs, not abolish all rights"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PESHWA/AMATYA/SACHIV/MANTRI → administration, accounts, records, intelligence",
+            "SUMANT/SENAPATI/NYAYADHISH/PANDITRAO → diplomacy, army, justice, grants"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RELATION → each responsible to Shivaji; no collective cabinet sovereignty",
+            "LOCAL → patil/deshmukh/mirasdar/village structures remain negotiated"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "REFORM → curb illegal exaction and over-mighty chiefs, not abolish all rights",
+            "SOURCE LIMIT → formal office list does not prove uniform daily functioning."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOURCE LIMIT → formal office list does not prove uniform daily functioning.",
+      "source_references": [
+        "Ashtapradhan",
+        "Ruler-centred offices",
+        "Cabinet trap",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CHAUTH AND SARDESHMUKHI ARE DISTINCT CLAIMS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHAUTH AND SARDESHMUKHI ARE DISTINCT CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "MEASUREMENT/CLASSIFICATION + VILLAGE OFFICERS + ANNAJI 1679",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOUT TWO-FIFTHS PLUS CESSES IS DEBATED; DO NOT UNIVERSALISE",
+          "role": "caution"
+        },
+        {
+          "text": "ONE-FOURTH PROTECTION/NON-RAIDING AND LATER POLITICAL CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE ADDITIONAL 10% SUPERIOR-DESHMUKH CLAIM",
+          "role": "primary"
+        },
+        {
+          "text": "LATE WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "KAMAISHDARS TURN CHAUTH INTO PARALLEL DISTRICT COLLECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL CLAIM DOES NOT AUTOMATICALLY EQUAL TERRITORIAL SOVEREIGNTY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ASSESSMENT → measurement/classification + village officers + Annaji 1679",
+        "INCIDENCE → about two-fifths plus cesses is debated; do not universalise",
+        "CHAUTH → one-fourth protection/non-raiding and later political claim",
+        "SARDESHMUKHI → separate additional 10% superior-deshmukh claim",
+        "LATE WAR → kamaishdars turn chauth into parallel district collection"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "ASSESSMENT → measurement/classification + village officers + Annaji 1679",
+          "CHAUTH → one-fourth protection/non-raiding and later political claim",
+          "LATE WAR → kamaishdars turn chauth into parallel district collection"
+        ],
+        [
+          "INCIDENCE → about two-fifths plus cesses is debated; do not universalise",
+          "SARDESHMUKHI → separate additional 10% superior-deshmukh claim",
+          "TRAP → fiscal claim does not automatically equal territorial sovereignty."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ASSESSMENT → measurement/classification + village officers + Annaji 1679",
+            "INCIDENCE → about two-fifths plus cesses is debated; do not universalise"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CHAUTH → one-fourth protection/non-raiding and later political claim",
+            "SARDESHMUKHI → separate additional 10% superior-deshmukh claim"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LATE WAR → kamaishdars turn chauth into parallel district collection",
+            "TRAP → fiscal claim does not automatically equal territorial sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → fiscal claim does not automatically equal territorial sovereignty.",
+      "source_references": [
+        "Chauth",
+        "Sardeshmukhi",
+        "Parallel fiscal authority",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CAVALRY AND GANIMI KAVA",
+      "structural_type": "military-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAVALRY AND GANIMI KAVA",
+          "role": "primary"
+        },
+        {
+          "text": "MAVALI INFANTRY + LIGHT CAVALRY + FORTS + INTELLIGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SPEED + DISPERSAL + NIGHT ATTACK + SUPPLY DISRUPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "GANIMI KAVA",
+          "role": "evidence"
+        },
+        {
+          "text": "ADAPTIVE ENEMY-STYLE IRREGULAR WAR, NOT TIMELESS DOCTRINE",
+          "role": "caution"
+        },
+        {
+          "text": "SIEGES, DEFENCE AND SET BATTLES REMAIN PART OF WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "MUGHAL BURDEN",
+          "role": "comparison"
+        },
+        {
+          "text": "LONG ROUTES + GARRISONS + SEASONS + ELUSIVE OPPONENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORCE → Mavali infantry + light cavalry + forts + intelligence",
+        "METHOD → speed + dispersal + night attack + supply disruption + negotiation",
+        "GANIMI KAVA → adaptive enemy-style irregular war, not timeless doctrine",
+        "ALSO → sieges, defence and set battles remain part of war",
+        "MUGHAL BURDEN → long routes + garrisons + seasons + elusive opponents"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FORCE → Mavali infantry + light cavalry + forts + intelligence",
+            "METHOD → speed + dispersal + night attack + supply disruption + negotiation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "GANIMI KAVA → adaptive enemy-style irregular war, not timeless doctrine",
+            "ALSO → sieges, defence and set battles remain part of war"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MUGHAL BURDEN → long routes + garrisons + seasons + elusive opponents",
+            "VERDICT → mobility worked as a system with forts and local revenue."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → mobility worked as a system with forts and local revenue.",
+      "source_references": [
+        "Bargir",
+        "Silhedar",
+        "Ganimi kava",
+        "Fort logistics",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COAST AND NAVY: CAPABILITY WITH SCALE LIMITS",
+      "structural_type": "coastal-network",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COAST AND NAVY",
+          "role": "primary"
+        },
+        {
+          "text": "CAPABILITY WITH SCALE LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "KOLI + BHANDARI + MUSLIM + MARATHA SEAFARING PERSONNEL",
+          "role": "comparison"
+        },
+        {
+          "text": "GRABS/GALLIVATS/GUNBOATS + TRADING AND SUPPLY VESSELS",
+          "role": "evidence"
+        },
+        {
+          "text": "SINDHUDURG/VIJAYDURG/COASTAL NODES SUPPORT CREEKS AND ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "SIDI CHECK + TRADE/PROTECTION + SUPPLY + INTELLIGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "NEGOTIATE/CONTEST PORTUGUESE AND ENGLISH PRESENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL LITTORAL CAPABILITY, NEVER INDIAN OCEAN BLUE-WATER COMMAND.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PEOPLE → Koli + Bhandari + Muslim + Maratha seafaring personnel",
+        "CRAFT → grabs/gallivats/gunboats + trading and supply vessels",
+        "FORTS → Sindhudurg/Vijaydurg/coastal nodes support creeks and routes",
+        "AIMS → Sidi check + trade/protection + supply + intelligence",
+        "EUROPEANS → negotiate/contest Portuguese and English presence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PEOPLE → Koli + Bhandari + Muslim + Maratha seafaring personnel",
+            "CRAFT → grabs/gallivats/gunboats + trading and supply vessels"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FORTS → Sindhudurg/Vijaydurg/coastal nodes support creeks and routes",
+            "AIMS → Sidi check + trade/protection + supply + intelligence"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EUROPEANS → negotiate/contest Portuguese and English presence",
+            "LIMIT → regional littoral capability, never Indian Ocean blue-water command."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → regional littoral capability, never Indian Ocean blue-water command.",
+      "source_references": [
+        "Konkan",
+        "Sidis",
+        "Sea forts",
+        "Regional navy",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RESISTANCE AFTER SHIVAJI",
+      "structural_type": "succession-network",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RESISTANCE AFTER SHIVAJI",
+          "role": "primary"
+        },
+        {
+          "text": "SAMBHAJI WINS SUCCESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRINCE AKBAR CONNECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPTURE/EXECUTION REMOVES RECOGNISED HEAD, NOT RESISTANCE",
+          "role": "caution"
+        },
+        {
+          "text": "ESCAPES TO GINGEE; DISTANT ROYAL CENTRE + DISPERSED COMMANDERS",
+          "role": "primary"
+        },
+        {
+          "text": "GINGEE FALLS AFTER RAJARAM ESCAPES",
+          "role": "outcome"
+        },
+        {
+          "text": "TARABAI LEADS FOR SHIVAJI II",
+          "role": "comparison"
+        },
+        {
+          "text": "DECENTRALISATION INCREASES RESILIENCE AND COMMANDER AUTONOMY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1680 → Sambhaji wins succession",
+        "1681 → Prince Akbar connection",
+        "1689 → capture/execution removes recognised head, not resistance",
+        "RAJARAM → escapes to Gingee; distant royal centre + dispersed commanders",
+        "1698 → Gingee falls after Rajaram escapes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1680 → Sambhaji wins succession",
+            "1681 → Prince Akbar connection",
+            "1689 → capture/execution removes recognised head, not resistance"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RAJARAM → escapes to Gingee; distant royal centre + dispersed commanders",
+            "1698 → Gingee falls after Rajaram escapes",
+            "1700 → Tarabai leads for Shivaji II"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EFFECT → decentralisation increases resilience and commander autonomy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → decentralisation increases resilience and commander autonomy.",
+      "source_references": [
+        "Sambhaji",
+        "Rajaram",
+        "Jinji",
+        "Santaji",
+        "Dhanaji",
+        "Tarabai",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ANNEXATION REMOVES BUFFERS",
+      "structural_type": "gain-cost-balance",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ANNEXATION REMOVES BUFFERS",
+          "role": "primary"
+        },
+        {
+          "text": "1686 BIJAPUR + 1687 GOLCONDA",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT MUGHAL ANNEXATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TERRITORY, FORTS, TREASURY CLAIMS AND FORMAL SOVEREIGNTY",
+          "role": "evidence"
+        },
+        {
+          "text": "BUFFERS, NEGOTIABLE COURTS AND LOCAL RESPONSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "DECCANI NOBLES/SOLDIERS + GARRISONS + LONG ROUTES + ADMINISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LOOP 1700-05",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPTURE FORT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1686 BIJAPUR + 1687 GOLCONDA → direct Mughal annexation",
+        "GAIN → territory, forts, treasury claims and formal sovereignty",
+        "LOSS → buffers, negotiable courts and local responsibility",
+        "ADD → Deccani nobles/soldiers + garrisons + long routes + administration",
+        "LOOP 1700-05 → capture fort → garrison → move → Maratha return"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1686 BIJAPUR + 1687 GOLCONDA → direct Mughal annexation",
+            "GAIN → territory, forts, treasury claims and formal sovereignty",
+            "LOSS → buffers, negotiable courts and local responsibility"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ADD → Deccani nobles/soldiers + garrisons + long routes + administration",
+            "LOOP 1700-05 → capture fort → garrison → move → Maratha return",
+            "VERDICT → conquest expands commitments faster than durable pacification."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE DISTINCTION: Ashtapradhan was not a modern cabinet; chauth and sardeshmukhi varied by claim, agreement, collection and territory."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → conquest expands commitments faster than durable pacification.",
+      "source_references": [
+        "Bijapur 1686",
+        "Golconda 1687",
+        "Buffer removal",
+        "Deccan costs",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "JAGIRDARI TERMS AND THE FEEDBACK LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "JAGIRDARI TERMS AND THE FEEDBACK LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "DELAY/SHORTAGE OF PRODUCTIVE ASSIGNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "UNSETTLED POOL",
+          "role": "comparison"
+        },
+        {
+          "text": "PAPER CLAIM EXCEEDS COLLECTION IN WAR-TORN DISTRICTS",
+          "role": "evidence"
+        },
+        {
+          "text": "PARALLEL MARATHA CLAIM",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVATE PACT",
+          "role": "outcome"
+        },
+        {
+          "text": "JAGIRDAR PROTECTS COLLECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPANDED ELITE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BE-JAGIRI → delay/shortage of productive assignment",
+        "PAIBAQI → unsettled pool",
+        "JAMA/HASIL → paper claim exceeds collection in war-torn districts",
+        "CHAUTH → parallel Maratha claim",
+        "PRIVATE PACT → jagirdar protects collection"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BE-JAGIRI → delay/shortage of productive assignment",
+            "PAIBAQI → unsettled pool",
+            "JAMA/HASIL → paper claim exceeds collection in war-torn districts"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CHAUTH → parallel Maratha claim",
+            "PRIVATE PACT → jagirdar protects collection",
+            "EXPANDED ELITE → Mughal + Deccani + Maratha claimants"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FEEDBACK → bad jagir → weak troops/harsh collection → resistance → lower hasil",
+            "DEBATE → fiscal + administrative + military + social crisis, not one variable.",
+            "EVIDENCE LIMIT: Deccan war and jagirdari crisis interacted with succession, ecology and regional resistance but do not alone explain decline."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Deccan war and jagirdari crisis interacted with succession, ecology and regional resistance but do not alone explain decline.",
+      "source_references": [
+        "Mansab",
+        "Jagir",
+        "Jama",
+        "Hasil",
+        "Paibaqi",
+        "Be-jagiri",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 23 FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 23 FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGY AND SHAHJI SERVICE WORLD; NO GEOGRAPHY/NATIONALIST DETERMINISM",
+          "role": "caution"
+        },
+        {
+          "text": "REVENUE + CHAUTH/SARDESHMUKHI + ARMY + LITTORAL NAVY",
+          "role": "comparison"
+        },
+        {
+          "text": "1686/87 ANNEXATION",
+          "role": "evidence"
+        },
+        {
+          "text": "LOGISTICS LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "JAGIR FEEDBACK",
+          "role": "outcome"
+        },
+        {
+          "text": "ZERO DIRECT TOPIC-23 ROUTES, 2018-2026; MAINS HAS NO KEY",
+          "role": "caution"
+        },
+        {
+          "text": "TOPIC 22 RELIGION/RAJPUTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "START → ecology and Shahji service world; no geography/nationalist determinism",
+        "TRACE → forts/Javli → Purandar/Agra → coronation → institutions",
+        "EXPLAIN → revenue + chauth/sardeshmukhi + army + littoral navy",
+        "SUCCESSORS → Sambhaji → Rajaram/Gingee → Tarabai",
+        "IMPERIAL → 1686/87 annexation → logistics loop → jagir feedback"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "START → ecology and Shahji service world; no geography/nationalist determinism",
+            "TRACE → forts/Javli → Purandar/Agra → coronation → institutions",
+            "EXPLAIN → revenue + chauth/sardeshmukhi + army + littoral navy"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SUCCESSORS → Sambhaji → Rajaram/Gingee → Tarabai",
+            "IMPERIAL → 1686/87 annexation → logistics loop → jagir feedback",
+            "PYQ → zero direct Topic-23 routes, 2018-2026; Mains has no key"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BOUND → Topic 22 religion/Rajputs",
+            "Topic 25 full decline",
+            "VERDICT → regional state resilience exposed Mughal overextension."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → regional state resilience exposed Mughal overextension.",
+      "source_references": [
+        "Answer architecture",
+        "State-building",
+        "Deccan war",
+        "Jagirdari crisis",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g4\\medieval-indian-history-23_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED EVIDENCE NOTEBOOK",
+          "role": "evidence"
+        },
+        {
+          "text": "TWENTY-EIGHT SOURCE-TO-ARGUMENT LABS",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE AND ANSWER-WRITING DRILLS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE MARATHAS, SHIVAJI & AURANGZEB'S DECCAN; JAGIRDARI CRISIS —",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Advanced evidence notebook: twenty-eight source-to-argument labs",
+            "Evidence and answer-writing drills",
+            "The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis — ADVANCED",
+            "Mini-timeline"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles",
+            "+ Concept — Jagirdari crisis in one line"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

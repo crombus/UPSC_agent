@@ -1,0 +1,3516 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-19",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Foreign Policy of the Mughals - Complete Topic Package",
+      "preview": "Mughal foreign policy Qandahar Balkh and diplomatic balance cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\00_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 772.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 465.394
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Foreign Policy of the Mughals - Complete Topic Package",
+      "preview": "Subject: Medieval Indian History | GS-I | Prelims | Complete topic package | Date: 2026-09-04.  Source order used: repository basic and advanced Topic 19 files; master chronology; answer-worthiness audit; local PYQ routing ledgers; OCR-sear",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 465.394
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 392.326
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 21,
+      "markdown_body_line_end": 21,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Bounded bridge: Babur and Humayun",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\13_babur_humayun_bridge.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 25,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Abdullah Khan Uzbek: two-stage Balkh chronology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\14_abdullah_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 29,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "1577 proposal: Akbar's decision",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\15_proposal_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 33,
+      "markdown_body_line_end": 33,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Akbar's balance model",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\16_akbar_balance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 37,
+      "markdown_body_line_end": 37,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Kabul after Mirza Hakim",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\17_kabul_1585.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 41,
+      "markdown_body_line_end": 41,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Qandahar in 1595",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\18_qandahar_1595.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Kabul-Ghazni-Qandahar line",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\19_defensible_line.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Qandahar route network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\20_route_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 53,
+      "markdown_body_line_end": 53,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Why Qandahar mattered",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\21_qandahar_triangle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 57,
+      "markdown_body_line_end": 57,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Different value for Mughal and Safavid courts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\22_value_asymmetry.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 61,
+      "markdown_body_line_end": 61,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Akbar and Shah Abbas I",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\23_akbar_shah_abbas.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Jahangir and Shah Abbas I",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\24_jahangir_embassy_cycle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 69,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Diplomacy versus readiness",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\25_diplomacy_readiness.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 73,
+      "markdown_body_line_end": 73,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Qandahar lost in 1622",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\26_loss_1622.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 77,
+      "markdown_body_line_end": 77,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Court-politics boundary",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\27_court_boundary.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 81,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Qandahar recovered in 1638",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\28_recovery_1638.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 85,
+      "markdown_body_line_end": 85,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Ali Mardan Khan: bounded significance",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\29_ali_mardan.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 89,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Balkh campaign: motives matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\30_balkh_motives.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 93,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Balkh actors",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\31_balkh_actors.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 97,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Balkh campaign theatre",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\32_balkh_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 477.194
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 170.296
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 101,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Murad to Aurangzeb",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\33_command_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 105,
+      "markdown_body_line_end": 105,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Supply chain beyond Kabul",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\34_supply_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 109,
+      "markdown_body_line_end": 109,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Climate, forage and local reception",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\35_climate_logistics.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 113,
+      "markdown_body_line_end": 113,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Battlefield result versus political result",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\36_battle_politics.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 117,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Buffer-state logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\37_buffer_logic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 121,
+      "markdown_body_line_end": 121,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Why the Mughals withdrew from Balkh",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\38_withdrawal_causes.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 477.194
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 170.296
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 125,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Qandahar lost again in 1649",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\39_loss_1649.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Three recovery attempts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\40_three_attempts.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Siege system",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\41_siege_system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 137,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Open-field cavalry versus prepared fort",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\42_field_vs_fort.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 477.194
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 170.296
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 141,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Why the sieges failed",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\43_failure_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 145,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Prestige and cost",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\44_prestige_cost.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 149,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Ottoman relations",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\45_ottoman_relations.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 153,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Why no exclusive Sunni bloc?",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\46_sectarian_refusal.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 477.194
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 170.296
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 157,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Maritime and Red Sea context",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\47_maritime_context.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 161,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Trade goods and routes",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\48_trade_goods.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Merchants as actors and informants",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\49_merchant_information.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 169,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Layered northwest control",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\50_layered_control.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 173,
+      "markdown_body_line_end": 173,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Frontier peoples and route control",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\51_frontier_caution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 177,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Hindukush as a strategic concept",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\52_hindukush_concept.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 181,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Akbar, Jahangir and Shah Jahan",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\53_ruler_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 185,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Qandahar versus Balkh",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\54_qandahar_balkh.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 189,
+      "markdown_body_line_end": 189,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Northwest and Deccan: limited comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\55_northwest_deccan.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 193,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "State capacity and its limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\56_capacity_limits.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 197,
+      "markdown_body_line_end": 197,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Historiography and caution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\57_historiography.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 201,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Modern official anchor: tightly bounded",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\58_current_anchor.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 205,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Mains answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\59_mains_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 209,
+      "heading": "19. Current-affairs anchor and method for a Mains answer",
+      "preview": "Rapid recall",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\60_rapid_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 477.194
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 170.296
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 217,
+      "markdown_body_line_end": 224,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 536.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 246,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\medieval-indian-history-19_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 262,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The appropriate question is therefore not 'what was India's foreign policy?', but how the Mughal court pursued security, commerce, honour and influence across a porous northwest world.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 311.756
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 245.088
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 281,
+      "markdown_body_line_end": 281,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Foreign Policy of the Mughals",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\00_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 546.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 239.994
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 304,
+      "heading": "CLOSING RECALL FLOW - WHY USE, AND QUALIFY, THE PHRASE 'MUGHAL FOREIGN POLICY'?",
+      "preview": "START / CONCEPT: Why use, and qualify, the phrase 'Mughal foreign policy'?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use Qandahar throughout this package, while noting that Kandahar is the common modern spelling variant.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 332,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Kabul, Qandahar, Herat and Balkh",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\03_strategic_geography.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Names and anachronism cautions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\04_name_caution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 359,
+      "heading": "CLOSING RECALL FLOW - THE PLACES BEHIND THE ARGUMENT",
+      "preview": "START / CONCEPT: The places behind the argument",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 300
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 372,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sectarian language could be politically potent without determining every alignment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 405.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 353.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 391,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Ottoman relations",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\45_ottoman_relations.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 708.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 401.194
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 414,
+      "heading": "CLOSING RECALL FLOW - TIMURID DISPLACEMENT WITHOUT A SIMPLE NOSTALGIA THESIS",
+      "preview": "START / CONCEPT: Timurid displacement without a simple nostalgia thesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 359.994
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 138.994
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 425,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ottoman rulers had a western Asian and Mediterranean strategic field, while the Mughal court guarded its own claims to equality and resented an assumed Ottoman superiority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 442,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Why no exclusive Sunni bloc?",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\46_sectarian_refusal.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 302.024
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 446,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Maritime and Red Sea context",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\47_maritime_context.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 469,
+      "heading": "CLOSING RECALL FLOW - OTTOMAN PRESTIGE AND THE MARITIME CONTEXT",
+      "preview": "START / CONCEPT: Ottoman prestige and the maritime context",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 482,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This is an intelligence function in the ordinary sense of gathering information, but it must not be equated with a standing modern intelligence agency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 425.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 359.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 503,
+      "markdown_body_line_end": 520,
+      "heading": "CLOSING RECALL FLOW - EMBASSY AS COMMUNICATION, INTELLIGENCE AND THEATRE",
+      "preview": "START / CONCEPT: Embassy as communication, intelligence and theatre",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 705.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 504.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 531,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Safavid and Uzbek materials supply rival claims, silences and diplomatic context; they are not simply neutral correctives.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 364.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 297.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 569,
+      "heading": "CLOSING RECALL FLOW - EVIDENCE MATRIX: SOURCES MAKE DIFFERENT CLAIMS",
+      "preview": "START / CONCEPT: Evidence matrix: sources make different claims",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 286
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 629.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 388.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 582,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Balkh chronology is often mangled because it has two stages.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 223.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 171.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 601,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Qandahar route network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\20_route_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 541.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 234.994
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 624,
+      "heading": "CLOSING RECALL FLOW - TWO-STAGE BALKH CHRONOLOGY AND THE 1577 PROPOSAL",
+      "preview": "START / CONCEPT: Two-stage Balkh chronology and the 1577 proposal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 635,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The later understanding that treated the Hindukush as a boundary of practical interest is best described as a temporary and strategic accommodation: it implied limited Mughal interest in Balkh/Badakhshan and Uzbek restraint toward Kabul and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 341.424
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 654,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Akbar and Shah Abbas I",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\23_akbar_shah_abbas.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 708.091
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 401.194
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 677,
+      "heading": "CLOSING RECALL FLOW - KABUL, THE HINDUKUSH UNDERSTANDING AND QANDAHAR IN 1595",
+      "preview": "START / CONCEPT: Kabul, the Hindukush understanding and Qandahar in 1595",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 345.794
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 114.794
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 690,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Security, commerce and prestige together comprises Security, commerce and prestige together as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 678.691
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 612.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 728,
+      "heading": "CLOSING RECALL FLOW - SECURITY, COMMERCE AND PRESTIGE TOGETHER",
+      "preview": "START / CONCEPT: Security, commerce and prestige together",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 739,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The analytical point is not that merchants secretly made policy; it is that commerce was a reason diplomacy and frontier order mattered.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 760,
+      "markdown_body_line_end": 777,
+      "heading": "CLOSING RECALL FLOW - MERCHANTS, DIASPORA AND STATE INTEREST",
+      "preview": "START / CONCEPT: Merchants, diaspora and state interest",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 691.091
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 470.091
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 790,
+      "markdown_body_line_end": 790,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It does not mean that every Safavid embassy was merely a deception.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 324.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 271.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 811,
+      "markdown_body_line_end": 828,
+      "heading": "CLOSING RECALL FLOW - CORDIAL EMBASSY CYCLE, PERSISTENT CLAIM",
+      "preview": "START / CONCEPT: Cordial embassy cycle, persistent claim",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 624.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 839,
+      "markdown_body_line_end": 839,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The immediate failure to recover Qandahar reveals a practical gap: a claim and a cordial embassy are not an operational response.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 316.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 250.024
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 860,
+      "markdown_body_line_end": 877,
+      "heading": "CLOSING RECALL FLOW - WHY QANDAHAR FELL IN 1622",
+      "preview": "START / CONCEPT: Why Qandahar fell in 1622",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 610.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 409.091
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 890,
+      "markdown_body_line_end": 890,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Exact 1636 proposals show an aspiration for pressure on Iran, but distance, Uzbek unreliability, Ottoman status claims and the Mughal need to keep Iran as a counterweight placed limits on any durable bloc.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 244.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 177.624
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 909,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Buffer-state logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\37_buffer_logic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 556.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 249.194
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 932,
+      "heading": "CLOSING RECALL FLOW - RECOVERY IN 1638 AND AN UNEASY DIPLOMATIC FIELD",
+      "preview": "START / CONCEPT: Recovery in 1638 and an uneasy diplomatic field",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 943,
+      "markdown_body_line_end": 943,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A claim that the campaign aimed at a permanent Oxus/Amu Darya frontier is not supported: the river was not a reliable defensive line, and the policy returned to client restoration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 962,
+      "markdown_body_line_end": 962,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Why the Mughals withdrew from Balkh",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\38_withdrawal_causes.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 727.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 420.394
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 985,
+      "heading": "CLOSING RECALL FLOW - BALKH CAMPAIGN, 1646-47: OBJECTIVE AND COMPOSITION",
+      "preview": "START / CONCEPT: Balkh campaign, 1646-47: objective and composition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 364.994
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 143.994
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 996,
+      "markdown_body_line_end": 996,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use it to show that capacity is relational: forces, routes, forts and allies must fit a political objective.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1017,
+      "markdown_body_line_end": 1034,
+      "heading": "CLOSING RECALL FLOW - WHY MILITARY SUCCESS BECAME POLITICAL UNSUSTAINABILITY",
+      "preview": "START / CONCEPT: Why military success became political unsustainability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1047,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It is a common error to shift all three attempts to one prince or to mistake the 1649 loss for the end of the campaigns.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 411.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 359.024
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1066,
+      "markdown_body_line_end": 1066,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Qandahar versus Balkh",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\54_qandahar_balkh.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 708.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 401.194
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1089,
+      "heading": "CLOSING RECALL FLOW - 1649-53: THREE UNSUCCESSFUL RECOVERY ATTEMPTS",
+      "preview": "START / CONCEPT: 1649-53: three unsuccessful recovery attempts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 345.794
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 124.794
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1100,
+      "markdown_body_line_end": 1100,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Akbar's policy was balance and a defensible frontier; Jahangir sustained cordial diplomacy but allowed a readiness gap at Qandahar; Shah Jahan recovered the fort, tried a more ambitious forward approach at Balkh and encountered siege limits",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1119,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Northwest and Deccan: limited comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\55_northwest_deccan.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 178.624
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        56,
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1123,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "State capacity and its limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\56_capacity_limits.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1129,
+      "markdown_body_line_end": 1146,
+      "heading": "CLOSING RECALL FLOW - LAYERED FRONTIER CONTROL AND COMPARATIVE ASSESSMENT",
+      "preview": "START / CONCEPT: Layered frontier control and comparative assessment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1159,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Satish Chandra's language of 'national interests', security and trade is analytical shorthand.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 401.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 349.024
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1197,
+      "heading": "CLOSING RECALL FLOW - HOW TO USE SATISH CHANDRA AND COUNTER-ARGUMENTS",
+      "preview": "START / CONCEPT: How to use Satish Chandra and counter-arguments",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 475.091
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1208,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The predecessor live page is a bounded comparison and source-method bridge only.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 382.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 330.224
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1225,
+      "markdown_body_line_end": 1242,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2170,
+      "markdown_body_line_end": 2176,
+      "heading": "Transparent PYQ audit: 2018-2026 CSE Prelims and GS-I",
+      "preview": "Audit corpus | Direct Topic 19 result | Correct route / caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Audit corpus",
+          "Direct Topic 19 result",
+          "Correct route / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 627.89
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2192,
+      "markdown_body_line_end": 2192,
+      "heading": "Practice visual labs: turn recall into discrimination",
+      "preview": "Master chronology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\01_master_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 329.69
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        77,
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2198,
+      "markdown_body_line_end": 2198,
+      "heading": "Practice visual labs: turn recall into discrimination",
+      "preview": "Objectives in tension",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\06_objective_triangle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 732.29
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 425.392
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2204,
+      "markdown_body_line_end": 2204,
+      "heading": "Practice visual labs: turn recall into discrimination",
+      "preview": "Evidence matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\11_evidence_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 372.792
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 65.894
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2210,
+      "markdown_body_line_end": 2210,
+      "heading": "Practice visual labs: turn recall into discrimination",
+      "preview": "Why Qandahar mattered",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\21_qandahar_triangle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 477.194
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2216,
+      "markdown_body_line_end": 2216,
+      "heading": "Practice visual labs: turn recall into discrimination",
+      "preview": "Three recovery attempts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\40_three_attempts.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 410.394
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 103.496
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2222,
+      "markdown_body_line_end": 2222,
+      "heading": "Practice visual labs: turn recall into discrimination",
+      "preview": "Siege system",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\41_siege_system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2228,
+      "markdown_body_line_end": 2228,
+      "heading": "Practice visual labs: turn recall into discrimination",
+      "preview": "Qandahar versus Balkh",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\54_qandahar_balkh.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 443.794
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 136.896
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2234,
+      "markdown_body_line_end": 2234,
+      "heading": "Practice visual labs: turn recall into discrimination",
+      "preview": "Mains answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\59_mains_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2488,
+      "markdown_body_line_end": 2492,
+      "heading": "Practice completion check",
+      "preview": "Set | Correct-option sequence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Set",
+          "Correct-option sequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 335.091
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 246.89
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2514,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "Master chronology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\01_master_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 541.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 234.594
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2518,
+      "markdown_body_line_end": 2518,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "Four imperial courts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\02_power_quadrilateral.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 215.394
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        89,
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2522,
+      "markdown_body_line_end": 2522,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "What 'foreign policy' can and cannot mean",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\05_modern_label_warning.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 477.194
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 170.296
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2526,
+      "markdown_body_line_end": 2526,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "Objectives in tension",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\06_objective_triangle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2530,
+      "markdown_body_line_end": 2530,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "Diplomatic machinery",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\07_diplomatic_machinery.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 477.194
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 170.296
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2534,
+      "markdown_body_line_end": 2534,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "Embassy journey and delay",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\08_embassy_journey.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2538,
+      "markdown_body_line_end": 2538,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "Letters, gifts and status",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\09_status_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 462.994
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 156.096
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2542,
+      "markdown_body_line_end": 2542,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "Information flow",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\10_information_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2546,
+      "markdown_body_line_end": 2546,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "Evidence matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\11_evidence_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 477.194
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 170.296
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2550,
+      "markdown_body_line_end": 2550,
+      "heading": "PART IX-A - Visual consolidation and factual-risk ledger",
+      "preview": "Timurid, Uzbek and Safavid background",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\assets\\12_timurid_background.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 151.096
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 496.394
+        }
+      },
+      "pdf_pages": [
+        93,
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2556,
+      "markdown_body_line_end": 2559,
+      "heading": "Foreign Policy of the Mughals - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims; GS-II IR linkage). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part II (Mughal Empire",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 437.994
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 350.726
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2565,
+      "markdown_body_line_end": 2576,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 323.226
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 41.824
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2599,
+      "markdown_body_line_end": 2606,
+      "heading": "2. Key classification / data",
+      "preview": "Dimension | Evidence from Part II | Analytical significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Evidence from Part II",
+          "Analytical significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 386.691
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 201.29
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2610,
+      "markdown_body_line_end": 2611,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Shah Jahan's military-financial pressures → `advanced/21`; Deccan reopening alongside Qandhar/Balkh → `advanced/18`. **Study link:** ⚠️ Use for GS-II historical background to India's Central Asia/Iran/Afghanistan connectiv",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 176.29
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 117.422
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2624,
+      "markdown_body_line_end": 2624,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: \"Scientific frontier\" in Satish Chandra is the Hindukush/Kabul-Ghazni-Qandhar defensive logic, not permanent Mughal control of the Oxus.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 642.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 598.224
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2742,
+      "markdown_body_line_end": 2742,
+      "heading": "11. Final 90-second recall drill",
+      "preview": "MEMORY: Qandahar is the bastion/trade junction; Balkh is the buffer/client test. Diplomacy communicates and ranks; preparedness holds a fort; supply and legitimacy decide whether a victory lasts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 491.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 446.824
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2746,
+      "markdown_body_line_end": 2754,
+      "heading": "Final error-elimination grid",
+      "preview": "If a draft says... | Replace it with...",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "If a draft says...",
+          "Replace it with..."
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 424.824
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 240.622
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2760,
+      "markdown_body_line_end": 2770,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: A qualified foreign-policy framework",
+      "preview": "LABEL -> modern analytical shorthand for court diplomacy, frontier, trade and war",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2774,
+      "markdown_body_line_end": 2782,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Northwest strategic geography",
+      "preview": "CORE -> Lahore/Multan -> Kabul -> Ghazni -> Qandahar -> Herat/Iran",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2786,
+      "markdown_body_line_end": 2794,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Four-court balance, not a sectarian bloc",
+      "preview": "UZBEKS -> displaced Timurids + contested Khurasan + threatened Kabul field",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2798,
+      "markdown_body_line_end": 2806,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Diplomacy as message, intelligence and theatre",
+      "preview": "ELCHI / SAFIR -> temporary envoy, not permanent resident ambassador",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 453.691
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 371.291
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2810,
+      "markdown_body_line_end": 2818,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Akbar and the Uzbek balance",
+      "preview": "1572-73 -> Abdullah first takes Balkh | Shahrukh later recovers it",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 349.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 266.891
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2822,
+      "markdown_body_line_end": 2830,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Why Qandahar mattered",
+      "preview": "SECURITY -> strong watered fort + southern-Afghan junction + outer Kabul bastion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2834,
+      "markdown_body_line_end": 2842,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Jahangir and the loss of 1622",
+      "preview": "1611 -> Shah Abbas embassy/gifts | Khan Alam return mission",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2846,
+      "markdown_body_line_end": 2854,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Shah Jahan recovers Qandahar in 1638",
+      "preview": "1628 -> Nazr Muhammad attacks Kabul; Mughal relief and diplomacy isolate him",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2858,
+      "markdown_body_line_end": 2866,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Balkh 1646-47: forward defence meets limits",
+      "preview": "1645 -> Nazr Muhammad appeals against Abdul Aziz; client/buffer opportunity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2870,
+      "markdown_body_line_end": 2880,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Why Qandahar resisted recovery, 1649-53",
+      "preview": "1649 -> Shah Abbas II recovers Qandahar; Aurangzeb's first attempt fails",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 369.691
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 266.891
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2884,
+      "markdown_body_line_end": 2894,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Evidence and the bounded modern bridge",
+      "preview": "BABURNAMA / HUMAYUNNAMA -> memory/household-exile; positioned narratives",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2898,
+      "markdown_body_line_end": 2907,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 19 final answer spine",
+      "preview": "DEFINE -> qualified court diplomacy; no modern state/border projection",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 569.891
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    }
+  ]
+}

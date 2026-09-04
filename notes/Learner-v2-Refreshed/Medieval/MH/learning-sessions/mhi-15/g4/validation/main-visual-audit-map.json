@@ -1,0 +1,2976 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "medieval-indian-history-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Akbar: Consolidation & Expansion of the Empire - Complete Topic Package",
+      "preview": "Akbar consolidation expansion and political integration cover",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\01_cover.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 751.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 443.756
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 18,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 366.556
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 147.554
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 40,
+      "markdown_body_line_end": 40,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\medieval-indian-history-15_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 532.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 224.556
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 54,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This package asks a harder question than “what did Akbar conquer?” It studies how a Mughal restoration, precarious in 1556, was made durable through reconquest, control of competing elites, selective incorporation of regional powers and rep",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 75,
+      "markdown_body_line_end": 92,
+      "heading": "CLOSING RECALL FLOW - ORIENTATION: WHAT THIS TOPIC OWNS",
+      "preview": "START / CONCEPT: Orientation: what this topic owns",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 348.224
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 127.224
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 103,
+      "markdown_body_line_end": 103,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "FACT: Repository basic/advanced Topic 15, Master Chronology, Answer-Worthiness Audit and Satish Chandra Chapter 5 are the core.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 121,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Question | Working answer | Evidence discipline | UPSC use",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Working answer",
+          "Evidence discipline",
+          "UPSC use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 468.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 320.322
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 123,
+      "markdown_body_line_end": 123,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**FACT:** Repository basic/advanced Topic 15, Master Chronology, Answer-Worthiness Audit and Satish Chandra Chapter 5 are the core. Clearly marked analysis infers state-building logic from that evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 320.322
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 275.654
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 128,
+      "markdown_body_line_end": 145,
+      "heading": "CLOSING RECALL FLOW - LEARNING MAP AND EVIDENCE PROTOCOL",
+      "preview": "START / CONCEPT: Learning map and evidence protocol",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 156,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The political unit inherited was not a settled territorial state but a contested set of claims, garrisons, routes and noble loyalties.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 169,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "1556: fragile inheritance",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\02_fragile_inheritance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 201.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 174,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Kalanaur to Panipat II",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\03_kalanaur_panipat.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 187,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Begin with overlapping claims, not a settled empire.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 684.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 208,
+      "heading": "CLOSING RECALL FLOW - PART 1: 1556: ACCESSION IN A FRACTURED POLITICAL FIELD",
+      "preview": "START / CONCEPT: Part 1: 1556: accession in a fractured political field",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 662.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 451.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 219,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Panipat II was a reconquest of a crucial north-Indian field position, not the final extinction of Afghan politics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 311.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 258.756
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 232,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Hemu career ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\04_hemu_career.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 237,
+      "markdown_body_line_end": 237,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Panipat II battle logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\05_panipat_logic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 242,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Afghans after Panipat",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\06_afghan_after_panipat.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 255,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Panipat reconquered the core; it did not end Afghan resistance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 291.156
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 238.688
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 276,
+      "heading": "CLOSING RECALL FLOW - PART 2: HEMU AND PANIPAT II: CONTINGENCY WITHOUT COMMUNAL SIMPLIFICATION",
+      "preview": "START / CONCEPT: Part 2: Hemu and Panipat II: contingency without communal simplification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 287,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A regent's authority is delegated: Bairam could act effectively because he acted in Akbar's name, yet that concentration of authority generated tension once Akbar was ready to rule directly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 437.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 371.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 300,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Bairam Khan regency",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\07_bairam_triangle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 212.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 305,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Bairam 1556-60",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\08_regency_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 310,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Why Bairam fell",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\09_bairam_dismissal.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 323,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Bairam fell through faction and authority as well as sectarian perceptions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 291.156
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 238.688
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 344,
+      "heading": "CLOSING RECALL FLOW - PART 3: BAIRAM KHAN, 1556-60: REGENCY, CONTROL AND DISMISSAL",
+      "preview": "START / CONCEPT: Part 3: Bairam Khan, 1556-60: regency, control and dismissal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 355,
+      "markdown_body_line_end": 355,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Akbar's assertion of personal rule was not an abstract constitutional transition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 368,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Personal-rule transition",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\10_personal_rule.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 205.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 373,
+      "markdown_body_line_end": 373,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Household politics",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\11_household_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 386,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Explain household networks; do not use gendered caricature.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 684.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 407,
+      "heading": "CLOSING RECALL FLOW - PART 4: PERSONAL RULE: HOUSEHOLD POWER AND THE END OF A REGENCY WORLD",
+      "preview": "START / CONCEPT: Part 4: Personal rule: household power and the end of a regency world",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 649.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 448.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 418,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The rebellions associated with Khan-i-Zaman and old Turani/Uzbek elements were not pauses in a success story.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 308.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 255.756
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 431,
+      "markdown_body_line_end": 431,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Uzbek noble challenge",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\12_uzbek_rebellion.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 436,
+      "markdown_body_line_end": 436,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Consolidation before expansion",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\13_staircase.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 449,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Keep technical administration in Topic 16.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 684.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 470,
+      "heading": "CLOSING RECALL FLOW - PART 5: UZBEK AND NOBLE REBELLIONS: SECURING THE CENTRE BEFORE EXPANSION",
+      "preview": "START / CONCEPT: Part 5: Uzbek and noble rebellions: securing the centre before expansion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 649.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 438.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 481,
+      "markdown_body_line_end": 481,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Malwa campaign against Baz Bahadur and the Garh-Katanga expedition against Rani Durgavati show that early expansion was neither uniformly chivalric nor simply territorial.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 298.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 231.556
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 494,
+      "markdown_body_line_end": 494,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Early campaigns: schematic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\15_early_campaign_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 499,
+      "markdown_body_line_end": 499,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Malwa sequence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\16_malwa.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 504,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Garh-Katanga coercion",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\17_gondwana.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 517,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Separate Romantic folklore from sourced sequence and retain coercion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 291.156
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 238.688
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 538,
+      "heading": "CLOSING RECALL FLOW - PART 6: MALWA AND GARH-KATANGA: EXPANSION AND COERCIVE LIMITS",
+      "preview": "START / CONCEPT: Part 6: Malwa and Garh-Katanga: expansion and coercive limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 549,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "MEMORY: Rajput policy is phased integration, not marriage alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 562,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rajput policy phases",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\19_rajput_phases.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 219.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 567,
+      "markdown_body_line_end": 567,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Alliance benefit exchange",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\20_alliance_exchange.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 572,
+      "markdown_body_line_end": 572,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Composite ruling class",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\21_composite_elite.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 577,
+      "markdown_body_line_end": 577,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rajasthan corridors: schematic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\22_rajasthan_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 590,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Rajput policy is phased integration, not marriage alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 669.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 611,
+      "heading": "CLOSING RECALL FLOW - PART 7: RAJPUT POLICY AND RAJASTHAN: PHASED POLITICAL INTEGRATION",
+      "preview": "START / CONCEPT: Part 7: Rajput policy and Rajasthan: phased political integration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 634.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 433.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 622,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The siege and fall of Chittor in 1567-68 are indispensable corrective evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 322.424
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 269.956
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 635,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Chittor 1567-68",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\23_chittor_siege.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 640,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Chittor source matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\24_chittor_memory.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 645,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rajput settlement network",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\25_settlement_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 650,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Mewar refusal logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\26_mewar_refusal.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 663,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Chittor is coercion evidence; Mewar is a limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 684.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 684,
+      "heading": "CLOSING RECALL FLOW - PART 8: CHITTOR, RANTHAMBHOR AND THE MEWAR EXCEPTION",
+      "preview": "START / CONCEPT: Part 8: Chittor, Ranthambhor and the Mewar exception",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 662.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 451.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 695,
+      "markdown_body_line_end": 695,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "MEMORY: Conquest is not retention in Gujarat or Bengal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 325.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 272.956
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 708,
+      "markdown_body_line_end": 708,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Gujarat economic geography",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\27_gujarat_geography.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 713,
+      "markdown_body_line_end": 713,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Gujarat rapid march",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\28_rapid_march.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 718,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Humayun versus Akbar: Gujarat",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\29_humayun_compare.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 723,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Bihar-Bengal Afghan challenge",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\30_bengal_afghans.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 728,
+      "markdown_body_line_end": 728,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Bengal terrain and logistics",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\31_bengal_logistics.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 741,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Conquest is not retention in Gujarat or Bengal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 305.356
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 252.888
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 745,
+      "markdown_body_line_end": 762,
+      "heading": "CLOSING RECALL FLOW - PART 9: GUJARAT, BIHAR AND BENGAL: WEALTH, MOBILITY AND UNEVEN RETENTION",
+      "preview": "START / CONCEPT: Part 9: Gujarat, Bihar and Bengal: wealth, mobility and uneven retention",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 773,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A battle result is not completed conquest where terrain, supplies and local support restrict what an army can hold.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 447.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 395.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 786,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Haldighati coalitions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\32_haldi_coalitions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 236.624
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 791,
+      "markdown_body_line_end": 791,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Haldighati: outcome versus myth",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\33_haldi_outcome.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 796,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Mewar after 1576",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\34_mewar_after.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 809,
+      "markdown_body_line_end": 809,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Haldighati is political and mixed-coalition, not decisive religious conquest.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 305.356
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 252.888
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 830,
+      "heading": "CLOSING RECALL FLOW - PART 10: HALDIGHATI AND MEWAR AFTER 1576: BATTLE, OUTCOME AND MEMORY",
+      "preview": "START / CONCEPT: Part 10: Haldighati and Mewar after 1576: battle, outcome and memory",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The bounded point is that Punjab and Kabul were not remote margins.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 451.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 399.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 854,
+      "markdown_body_line_end": 854,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "1580-81 rebellion",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\35_rebellion.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 240.824
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 859,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Kabul response",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\36_kabul_response.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 864,
+      "markdown_body_line_end": 864,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "North-west frontier: schematic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\37_frontier_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 869,
+      "markdown_body_line_end": 869,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Frontier chronology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\38_frontier_time.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 882,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Keep frontier context bounded; Topic 19 owns foreign-policy detail.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 684.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 886,
+      "markdown_body_line_end": 903,
+      "heading": "CLOSING RECALL FLOW - PART 11: 1580-81, KABUL AND NORTH-WEST: RECONSOLIDATION UNDER PRESSURE",
+      "preview": "START / CONCEPT: Part 11: 1580-81, Kabul and north-west: reconsolidation under pressure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 649.024
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 448.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 914,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The composite ruling class included Rajputs, Turanis, Iranis, Indian Muslims and Afghans where service could be made politically useful.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 308.224
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 241.556
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 927,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Late Deccan bridge",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\39_deccan_bridge.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 932,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Regional motive matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\40_motive_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 937,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Akbar and Humayun",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\41_akbar_humayun.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 942,
+      "markdown_body_line_end": 942,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Sher Shah to Akbar",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\42_sher_akbar.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 955,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Akbar adapted precedents; he did not invent every mechanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 741.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 976,
+      "heading": "CLOSING RECALL FLOW - PART 12: LATE EXPANSION, COMPOSITE EMPIRE AND A CAUTIOUS STATE-BUILDING THESIS",
+      "preview": "START / CONCEPT: Part 12: Late expansion, composite empire and a cautious state-building thesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 654.024
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 433.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 987,
+      "markdown_body_line_end": 987,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Abu'l Fazl's Akbarnama is invaluable because it was produced close to court and records an imperial project richly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 279.024
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 226.556
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1000,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Source matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\43_source_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1005,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Abu l Fazl and Badauni",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\44_sources_contrast.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 169.02
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1010,
+      "markdown_body_line_end": 1010,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Public memory and method",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\45_public_memory.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1023,
+      "heading": "UPSC trap and answer move",
+      "preview": "**MEMORY:** Compare sources; do not treat a chronicle as transparent fact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 291.156
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 238.688
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1027,
+      "markdown_body_line_end": 1044,
+      "heading": "CLOSING RECALL FLOW - PART 13: HISTORIOGRAPHY, MATERIAL EVIDENCE AND CONTESTED PUBLIC MEMORY",
+      "preview": "START / CONCEPT: Part 13: Historiography, material evidence and contested public memory",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1055,
+      "markdown_body_line_end": 1055,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This is a gap, not a reason to manufacture one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1077,
+      "heading": "Ledger search result: 2018-2026 CSE Prelims and GS-I",
+      "preview": "Route | Status | Why not a Topic 15 direct PYQ | Use here",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Route",
+          "Status",
+          "Why not a Topic 15 direct PYQ",
+          "Use here"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 644.89
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1083,
+      "markdown_body_line_end": 1100,
+      "heading": "CLOSING RECALL FLOW - PART 14: PYQ ROUTES, OWNERSHIP AND THE HONEST GAP",
+      "preview": "START / CONCEPT: Part 14: PYQ routes, ownership and the honest gap",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 589.49
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 368.49
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1111,
+      "markdown_body_line_end": 1111,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The live page is a heritage and source-method bridge only.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 247.69
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 195.222
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1130,
+      "markdown_body_line_end": 1147,
+      "heading": "CLOSING RECALL FLOW - BOUNDED LIVE LINKAGE",
+      "preview": "START / CONCEPT: Bounded live linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 671.891
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 450.891
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2145,
+      "markdown_body_line_end": 2145,
+      "heading": "Mains 10. How should historians use sources to study composite empire and contested public memory?",
+      "preview": "Expansion chronology: campaigns in political sequence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\14_chronology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 332.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        65,
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2150,
+      "markdown_body_line_end": 2150,
+      "heading": "Mains 10. How should historians use sources to study composite empire and contested public memory?",
+      "preview": "Coercion and accommodation comparison matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\18_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 765.69
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 458.154
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2648,
+      "markdown_body_line_end": 2648,
+      "heading": "12. Frontier and Deccan: disciplined boundaries",
+      "preview": "Mains answer spine: claim, evidence, analysis and qualification",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\46_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 604.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 296.556
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2653,
+      "markdown_body_line_end": 2653,
+      "heading": "12. Frontier and Deccan: disciplined boundaries",
+      "preview": "Rapid recall visual: dates, mechanisms and limits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\assets\\47_rapid_recall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 277.356
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        79,
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2659,
+      "markdown_body_line_end": 2662,
+      "heading": "Akbar: Consolidation & Expansion of the Empire - ADVANCED",
+      "preview": "**Subject:** History (Medieval India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Satish Chandra, *Medieval India: From Sultanat to the Mughals — Part II (Mughal Empire)* — chapter \"Cons",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 451.556
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 364.288
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2668,
+      "markdown_body_line_end": 2679,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 336.788
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 100.187
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2699,
+      "markdown_body_line_end": 2707,
+      "heading": "2. Key classification / data",
+      "preview": "Theme | Part II point | Exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Theme",
+          "Part II point",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 470.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 286.49
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2711,
+      "markdown_body_line_end": 2713,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Noble control → mansabdari and dagh (`advanced/16`). **Study link:** ⚠️ Hemu and Afghan openness → Sher Shah/Islam Shah (`advanced/14`). **Study link:** ⚠️ Rajput policy → sulh-i-kul and religious policy in later Akbar top",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 261.49
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 202.622
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2727,
+      "markdown_body_line_end": 2727,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Akbar's Rajput policy was a graded political alliance, not a simple story of forced marriages.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 761.091
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 730.624
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2770,
+      "markdown_body_line_end": 2775,
+      "heading": "Coercion and incorporation",
+      "preview": "Coercion evidence | Accommodation evidence | What the pair proves",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Coercion evidence",
+          "Accommodation evidence",
+          "What the pair proves"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 640.49
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2808,
+      "markdown_body_line_end": 2810,
+      "heading": "Rapid recall grid",
+      "preview": "1556 | 1560 | 1567-68 | 1572-73 | 1576 | 1580-81",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 1,
+        "headers": [
+          "1556",
+          "1560",
+          "1567-68",
+          "1572-73",
+          "1576",
+          "1580-81"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 697.99
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2812,
+      "markdown_body_line_end": 2812,
+      "heading": "Rapid recall grid",
+      "preview": "**MEMORY:** Akbar's empire was made durable by a sequence -- reconquest of a fragile core, control of noble alternatives, negotiated elite integration and demonstrative coercion -- but revolt, Mewar, Bengal logistics and frontier uncertaint",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 697.99
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 639.122
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2818,
+      "markdown_body_line_end": 2827,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Consolidation before durable expansion",
+      "preview": "1555 RESTORATION -> Mughal foothold, not a settled empire",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 592.122
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 499.522
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2831,
+      "markdown_body_line_end": 2838,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Akbar chronology 1542-1605",
+      "preview": "1542 Amarkot -> 1556 Kalanaur and Second Panipat",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 477.522
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 405.322
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2842,
+      "markdown_body_line_end": 2850,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: The fractured field of 1556",
+      "preview": "HUMAYUN DIES -> young Akbar at Kalanaur + Bairam regency",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 383.322
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 300.922
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2862,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Bairam Khan to personal rule",
+      "preview": "1556-60 -> wakil/regency stabilizes army, nobles and restored centre",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2866,
+      "markdown_body_line_end": 2874,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Noble and Uzbek challenge",
+      "preview": "UZBEK/TURANI NOBLES -> jagir + command + regional base + status",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2878,
+      "markdown_body_line_end": 2883,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Malwa and Garh-Katanga: coercive limits",
+      "preview": "MALWA -> Baz Bahadur defeated; Adham corrected; Baz later enters Mughal service",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2887,
+      "markdown_body_line_end": 2895,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Rajput policy in phases",
+      "preview": "AMBER 1562 -> Bhara Mal alliance; marriage is one mechanism",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2899,
+      "markdown_body_line_end": 2904,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Chittor, Ranthambhor and the Mewar exception",
+      "preview": "RAJASTHAN -> flank security and routes toward Malwa and Gujarat",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 400.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2908,
+      "markdown_body_line_end": 2916,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Gujarat and Bengal: conquest plus retention",
+      "preview": "GUJARAT 1572-73 -> ports/revenue + conquest + rapid return against revolt",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2920,
+      "markdown_body_line_end": 2930,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Haldighati: coalition and outcome",
+      "preview": "1576 MUGHAL -> Man Singh leads mixed imperial service army",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2934,
+      "markdown_body_line_end": 2944,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Rebellion, frontier and source method",
+      "preview": "1580-81 -> eastern rebellion + Mirza Hakim/Kabul pressure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2948,
+      "markdown_body_line_end": 2956,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 15 answer spine",
+      "preview": "SOURCE -> imperial/hostile/regional/admin/material comparison",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 537.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 455.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    }
+  ]
+}
